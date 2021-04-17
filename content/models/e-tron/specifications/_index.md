@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron variants
+title: Audi e-tron specifications
 linktitle: Specifications
-description: Audi e-tron was the first electric car model from Audi. It now exist as serveral different versions. e-tron 50, e-tron 55 e-tron 60S, e-tron 50 Sportback, e-tron 55 Sportback and e-tron 60S Sportback 
+description: Here you find the most relevant specifications for the different e-tron variants
 weight: 2
 ---
 
