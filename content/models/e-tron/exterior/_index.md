@@ -1,6 +1,6 @@
 ---
 title: Audi e-tron exterior
-linktitle: exterior
+linktitle: Exterior
 description: Audi e-tron comes in different styling, colors and wheels
 weight: 4
 ---
