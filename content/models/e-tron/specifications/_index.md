@@ -13,7 +13,7 @@ weight: 2
 | 0-100km/t | 6.8 s |
 | Top speed | 190 km/h |
 | Battery size net | 64.7 kWh |
-| Battery gross | 71.4 kWh |
+| Battery gross | 71.2   kWh |
 | Battery size net | 64.7 kWh |
 | WLTP combined range min trim  | 338 km       |
 | WLTP combined consumption min trim    | 19.1 kWh/100km        |
@@ -23,7 +23,7 @@ weight: 2
 | Weight min trim    | 2445 kg       |
 | Carge space | 660 l |
 | Cargo space seat down | 1725 l |
-| TB: Banana box space | 12 | 
+| [TB: Banana box space](https://www.youtube.com/watch?v=2IYpsPTTZ_k) | 8/23 | 
 | Max trailer weight | 1800 kg |
 | Max roof weight | 75 kg |
 | Max trailer hitch weight | 80 kg | 
