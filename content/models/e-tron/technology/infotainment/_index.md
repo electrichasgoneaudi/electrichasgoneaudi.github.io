@@ -1,8 +1,8 @@
 ---
-title: Audi e-tron technology
-linktitle: Lights
+title: Audi e-tron infotainment
+linktitle: Infotainment
 description: Audi e-tron has a lot of technology. Here you find the details
-weight: 3
+weight: 2
 ---
 
 
