@@ -8,10 +8,8 @@ weight: 1
 Later the Audi e-tron 50 and Audi e-tron 50/55 Sportback was released. The car has been a big success for Audi and in Norway it even
 became the best selling car model in 2020.
 
+![Audi e-tron and Audi e-tron Sportback](etron.jpg "Audi e-tron and Audi e-tron Sportback")
+
 Audi e-tron has a wide range of option and advanced driving technlogy. Below you can dig deep in to the different details about this car.
-
-### See World premiere
-
-{{< youtube MyrLwVRTYNg >}}
 
 {{% children description="true" depth="1" %}}
