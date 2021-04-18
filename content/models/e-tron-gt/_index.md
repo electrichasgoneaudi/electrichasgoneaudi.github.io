@@ -1,8 +1,8 @@
 ---
-title: Audi Q6 e-tron
-linktitle: Q6 e-tron
+title: Audi e-tron GT
+linktitle: e-tron GT
 description: Audi e-tron GT and Audi RS e-tron GT had world premiere in 2021
-weight: 20
+weight: 2
 ---
 
 
