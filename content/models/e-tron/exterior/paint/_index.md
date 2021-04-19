@@ -36,6 +36,10 @@ Catalunya Red is a metalic paint with code Y6
 
 ![Audi e-tron 60S Sportback in Daytona Grey](paint_daytona_1.png "Audi e-tron 60S  Sportback in Daytona Grey")
 
+![Audi e-tron 55 Sportback in Daytona Grey](paint_daytona_2.png "Audi e-tron 55 Sportback in Daytona Grey")
+
+![Audi e-tron 55 Sportback in Daytona Grey](paint_daytona_3.png "Audi e-tron 55 Sportback in Daytona Grey with black optics")
+
 ## Navarra Blue
 
 ![Audi e-tron 60S  Sportback in Navarra Blue with contrast color](paint_navarrablue_1.png "Audi e-tron 60S  Sportback in Navarra Blue with contrast color")
