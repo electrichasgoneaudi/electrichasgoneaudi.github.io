@@ -50,6 +50,8 @@ Wheels for Audi e-tron. Part No F48. Tires 265/45 R21
 
 ![21 inch 5 Arm Turbing design](wheel_F48_2.png "21 inch 5 Arm Turbing design")
 
+![21 inch 5 Arm Turbing design](wheel_F48_3.jpg "21 inch 5 Arm Turbing design")
+
 ## 21 inch 5V Arm design
 
 Wheels for Audi e-tron. Part No F51. Tires 265/45 R21
