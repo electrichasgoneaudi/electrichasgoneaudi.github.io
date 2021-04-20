@@ -5,7 +5,6 @@ description: Audi e-tron has a lot of lightning options
 weight: 3
 ---
 
-
 ## LED headlights
 
 Along with their high level of efficiency, LED headlights also offer significant benefits in terms of safety and comfort. With a color temperature of around 5,500 Kelvin, their light resembles daylight and hardly causes any eye fatigue – especially in the dark and in the case of adverse weather conditions. In addition, LED headlights offer longer visual range than xenon headlights. In fog and precipitation, they cause the driver less glare. The LEDs are maintenance-free and designed to last the life of the car. The give the Audi models a distinctive look and strong accents with their innovative daytime and nighttime designs.

@@ -1,7 +1,7 @@
 ---
-title: Electric Audi models
-linktitle: models
-description: All you need to know about Audi e-tron and Audi e-tron sportback 50,55 and 60S
+title: Guides
+linktitle: Guides
+description: Here you find different guides
 weight: 20
 ---
 
