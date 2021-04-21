@@ -7,6 +7,12 @@ weight: 1
 
 
 
+## Glacier White
+
+![Audi e-tron](paint_glacierwhite_1.png "Audi e-tron 55 in glacier whit with contrast color")
+
+![Audi e-tron](paint_glacierwhite_2.png "Audi e-tron 55 in glacier whit with black optics")
+
 ## Catalunya Red
 
 Catalunya Red is a metalic paint with code Y6
@@ -53,3 +59,15 @@ Catalunya Red is a metalic paint with code Y6
 ## Antigua Blue
 
 ![Audi e-tron 55 in Antigua Blue with contrast color](paint_antiguablue_1.png "Audi e-tron 55 in Antigua Blue with contrast color")
+
+## Siam Beige
+
+![Audi e-tron 55 in Siam Beige](paint_siambeige_1.png "Audi e-tron 55 in Siam Beige with black optics and contrast color")
+
+![Audi e-tron 55 in Siam Beige](paint_siambeige_2.png "Audi e-tron 55 in Siam Beige with black optics and contrast color")
+
+## Typhoon Grey
+
+![Audi e-tron 55 in Siam Beige](paint_typhoongrey_1.png "Audi e-tron 55 in Typhoon Grey with black optics")
+
+![Audi e-tron 55 in Siam Beige](paint_typhoongrey_2.png "Audi e-tron 55 in Typhoon Grey with black optics")
