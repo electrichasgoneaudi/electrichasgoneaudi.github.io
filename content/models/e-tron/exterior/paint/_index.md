@@ -71,3 +71,11 @@ Catalunya Red is a metalic paint with code Y6
 ![Audi e-tron 55 in Siam Beige](paint_typhoongrey_1.png "Audi e-tron 55 in Typhoon Grey with black optics")
 
 ![Audi e-tron 55 in Siam Beige](paint_typhoongrey_2.png "Audi e-tron 55 in Typhoon Grey with black optics")
+
+
+## Brilliant Black
+
+
+
+
+## Mythos black
