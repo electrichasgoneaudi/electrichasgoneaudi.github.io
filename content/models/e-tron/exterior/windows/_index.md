@@ -8,10 +8,10 @@ weight: 4
 
 ## Panoramic glass sunroof
 
-![Panoramic roof](panoramaroof.jpg "Panoramic roof")
+![Panoramic roof](panoramaroof.png "Panoramic roof")
 
 ## Privacy glass
 
-![Panoramic roof](privacywindows.jpg "Privacy windows")
+![Panoramic roof](privacywindows.png "Privacy windows")
 
 {{% children description="true" depth="1" %}}
