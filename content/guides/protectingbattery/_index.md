@@ -1,12 +1,12 @@
 ---
 title: How to protect my e-tron battery
 linktitle: Protecting battery
-description: EV batteries degrades over time. But how 
-weight: 3
+description: EV batteries degrades over time. But how can you preserver battery capacity the most?
+weight: 1
 ---
 
 
-Batteries degrades over time and there are many factors that  increase degredation.
+There are many factors that increase degredation.
 
 - High Speed Charging
 - High Temprature
@@ -30,6 +30,7 @@ Based on this the optimal is probably to keep it between 30 and 70%, but how muc
 The buffer is limitations on the max and minimum voltage each cell can have. Having a 4% buffer on top means the voltage on each cell is limited to max 96% of the max voltage.
 
 ## References
+
 [Durability Aspects of  Fast Charging,  Mechanical Constraint, and Inhomogeneity  in Lithium-Ion Batteries](https://www.diva-portal.org/smash/get/diva2:1198746/FULLTEXT01.pdf)
 [How to Prolong Lithium-based Batterie](https://batteryuniversity.com/learn/article/how_to_prolong_lithium_based_batteries)
 [Nissan Leaf battery degradation data: 24 vs 30 kWh batteries](https://pushevs.com/2018/03/20/nissan-leaf-battery-degradation-data-24-vs-30-kwh-batteries/)
