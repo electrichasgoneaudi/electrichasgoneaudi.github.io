@@ -16,14 +16,15 @@ enableGitInfo = false
 disableKinds = ["RSS"] # page home section taxonomy taxonomyTerm RSS sitemap robotsTXT 404
 
 [languages]
-  [languages.nb]
-    title = "electrichasgoneaudi.net"
-    languageName = "Norsk"
-    weight = 2
   [languages.en]
     title = "electrichasgoneaudi.net"
     languageName = "English"
     weight = 1
+  [languages.nb]
+    title = "electrichasgoneaudi.net"
+    languageName = "Norsk"
+    weight = 2
+
 
 [markup.goldmark.renderer]
 unsafe = true
