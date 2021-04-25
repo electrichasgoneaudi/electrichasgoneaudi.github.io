@@ -1,7 +1,7 @@
 ---
-title: Electric Audi models
+title: Technology overview
 linktitle: Technology
-description: All you need to know about Audi e-tron and Audi e-tron sportback 50,55 and 60S
+description: Information about technology used by all-electric models from Audi
 weight: 2
 ---
 
