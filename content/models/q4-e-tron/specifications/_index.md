@@ -15,11 +15,15 @@ weight: 2
 | 0 -100 km/h (62.1 mph) in s | 9 |
 | Top speed in km/h (mph)| 160 (99) |
 | Drive type | two-wheel drive |
+| Rear motor | permanently excited synchronous motor |
+| Front motor | N/A |
 | Transmission type | 2-stage ratio planetary gearbox with a single gear |
 | Battery type | Lithium-ion  |
 | Battery gross | 52   kWh |
 | Battery size net | 55 kWh |
-| Max DC Charging | 120KW |
+| Max AC Charging | 7.2kW |
+| Max DC Charging | 100KW |
+| Max recuperation | 145kW |
 | WLTP combined range basic trim  | 341 km       |
 | WLTP combined consumption basic trim    | 15.2 kWh/100km        |
 | WLTP combined consumption with charging loss basic trim | 15.8 kWh/100km |
@@ -39,11 +43,15 @@ weight: 2
 | 0 -100 km/h (62.1 mph) in s | 8.5 ) |
 | Top speed in km/h (mph)| 160 (99) |
 | Drive type |  two-wheel drive |
+| Rear motor | permanently excited synchronous motor |
+| Front motor | N/A |
 | Transmission type | 2-stage ratio planetary gearbox with a single gear |
 | Battery type | Lithium-ion  |
 | Battery gross | 82   kWh |
 | Battery size net | 77 kWh |
+| Max AC Charging | 11kW |
 | Max DC Charging | 125KW |
+| Max recuperation | 145kW |
 | WLTP combined range basic trim  | 520 km       |
 | WLTP combined consumption basic trim    | 19.6 kWh/100km        |
 | WLTP combined consumption with charging loss basic trim | 22,2 kWh/100km |
@@ -63,15 +71,19 @@ weight: 2
 | 0 -100 km/h (62.1 mph) in s | 6.2  |
 | Top speed in km/h (mph)| 180 (99) |
 | Drive type | quattro permanent all-wheel drive |
+| Rear motor | permanently excited synchronous motor |
+| Front motor | asynchronous motor |
 | Transmission type | 2-stage ratio planetary gearbox with a single gear |
 | Battery type | Lithium-ion  |
 | Battery gross | 82   kWh |
 | Battery size net | 77 kWh |
+| Max AC Charging | 11kW |
 | Max DC Charging | 125KW |
+| Max recuperation | 145kW |
 | WLTP combined range basic trim  | 488 km       |
 | WLTP combined consumption basic trim    | 14.8 kWh/100km        |
 | WLTP combined consumption with charging loss basic trim | 26.1 kWh/100km |
-| Unladen weight without drive min trim    | 2055 kg       |
+| Unladen weight without drive min trim    | 2135 kg       |
 | Carge space | 520 l |
 | Cargo space seat down | 1490 l |
 | Max trailer weight | 1200 kg |

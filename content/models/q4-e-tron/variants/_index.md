@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 e-tron variants
 linktitle: Variants
-description: Audi e-tron 55 was the first variant of Audi e-tron. e-tron 50, e-tron 55 e-tron 60S, e-tron 50 Sportback, e-tron 55 Sportback and e-tron 60S Sportback was later added
+description: From launch 6 variants of Q4 e-tron was available
 weight: 1
 ---
 

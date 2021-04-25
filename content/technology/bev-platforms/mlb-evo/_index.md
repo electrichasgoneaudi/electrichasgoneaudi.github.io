@@ -18,10 +18,10 @@ With a wheelbase length of 2,928 millimeters (115.3 in), the e-tron lies between
 Q7 SUVs. The high-voltage battery stores up to 95 kWh of energy and forms the basis for its
 range of more than 400 kilometers (248.6 mi) in the WLTP driving cycle. This is achieve
 primarily by the innovative recuperation system, which can recover up to 30 percent of the
-used energy during brake applications. The two asynchronous motors (ASM) of the full-size
-class SUV achieve a maximum joint output of 300 kW and ensure a sporty and stable
-performance on any terrain in cooperation with the electric all-wheel drive, which can be
-adjusted extremely quickly. 
+used energy during brake applications.
+
+Audi e-tron is available both with a 2 motor setup and a 3 motor setup, making it the first EV with 3 motors.
+Read all details about [e-tron motors](/models/e-tron/drivetrain/motor).
 
 The Audi e-tron can charge using both alternating and direct
 current and is the first series-production vehicle with a charging capacity of up to 150 kW. It
