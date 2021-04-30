@@ -20,7 +20,9 @@ Solenoid damper valves vary the volumetric flow of the hydraulic fluid.
 
 ## Regulating characteristics
 
-The regulating characteristics (regulation of ride heights depending on vehicle speed and mode) are identical on both versions. 
+![Audi drive select](audidriveselect.png "Audi Drive Select options adjust ride heights")
+
+The regulating characteristics (regulation of ride heights depending on vehicle speed and mode) are identical on both versions.
 On other Audis like Q7 and Q8 the Adaptive Sport Suspension is 1cm lower. But this is not the case on Audi e-tron.
 
 The diagram below show how this is adjusted depending on speed.
