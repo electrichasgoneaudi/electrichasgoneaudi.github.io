@@ -4,7 +4,7 @@ linktitle: Model Year changes
 description: Here you find the details about the different model years.
 weight: 8
 ---
-### MY2019 - > MY2020
+### MY2019 - > MY2020 Week 28 2019
 
 - Lidar radar is gone on 2020 model
 - It is possible to adjust charging target on 2020 models in app.
@@ -19,7 +19,7 @@ weight: 8
 If build month is 122019 or later it should be a upgraded version
 ![bilde](https://user-images.githubusercontent.com/59776765/114271439-a64b3400-9a11-11eb-9e5e-0cae5310ef28.png)
 
-### MY2020v2 - > MY2021 (August 2020)
+### MY2020v2 - > MY2021 (from build week 32 August 2020)
 
 - vin nr has M as 10 digit for 2021 model example: WAUZZZGEX**M**B008973
 - Possible to order heated steeringwheel together with ACC
