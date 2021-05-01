@@ -13,19 +13,20 @@ The driver can use the View button on the multifunction steering wheel to switch
 
 ## Virtual cockpit plus
 
-If you buy the virtual cockpit plus option (9S9) you get an additional e-tron mode.
+If you buy the virtual cockpit plus option (9S9) you get an additional e-tron sport mode.
 
-## Views 
+## Mode and views
 
-Below you see some of the views available in Virtual Cockpit
+Below you see some of the mode and views available in Virtual Cockpit
 
 
-![Virtual cockpit](view_etron_1.png " Virtual Cockpit e-tron mode wide - Nightvision")
+![Virtual cockpit](view_etron_1.png " Virtual Cockpit e-tron mode infotainment view - Nightvision")
 
-![Virtual cockpit](view_etron_2.png " Virtual Cockpit e-tron mode wide - Nightvision")
+![Virtual cockpit](view_etron_2.png " Virtual Cockpit e-tron mode infotainment view - Nightvision")
 
-![Virtual cockpit](view_etron_3.png " Virtual Cockpit e-tron mode wide - Navigation with Google maps")
+![Virtual cockpit](view_etron_3.png " Virtual Cockpit e-tron mode infotainment view - Navigation with Google maps")
 
+![Virtual cockpit](view_etron_4.png " Virtual Cockpit e-tron mode driving view - Navigation with Google maps and active route")
 
 ![Virtual cockpit](view_sport_1.png " Virtual Cockpit sport mode infotainment view - Navigation with Google maps")
 
