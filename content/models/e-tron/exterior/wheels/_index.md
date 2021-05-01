@@ -10,11 +10,15 @@ The following wheels have been available from Audi to Audi e-tron. Varies for th
 
 ## 19" 5-arm aero design
 
-Entry level wheel. Just stay away. Part No: 40V
+Entry level wheel. 8.5J 19" Just stay away. Part No: 40V
 
 ![19 inch 5-arm aero design](wheel_40V_1.png "19 inch 5-arm aero design")
 
-![19 inch 5-arm aero design](wheel_40V_2.png "19 inch 5-arm aero design")
+## 19" 5-arm aero design winter wheels
+
+Entry level wheel for winter. 8J x 19" Just stay away. Part No: 2WL
+
+![19 inch 5-arm aero design](wheel_2WL_1.png "19 inch 5-arm aero design")
 
 
 ## 20" 5-arm dynamic design
@@ -68,13 +72,21 @@ Audi sport wheels for Audi e-tron. Part No 42P. Tires 265/45 R21
 
 ![21 inch 9.5J 10-spoke rotor gloss Anthracite black](wheel_42P_2.png "21 inch 9.5J 10-spoke rotor gloss Anthracite black")
 
-## 22" inch 10.5J 5-arm star design
+## 21 inch  10.5J 5Y design
 
-Audi sport wheels for e-tron 60S. Part No: U95
+Audi sport wheels for Audi e-tron S. Part no **U99** Tires 285/40 R21 
 
-![22 inch 10.5J 5-arm star design](wheel_U95_1.png "22 inch 10.5J 5-arm star design")
+![21 inch 10.5J 5Y design](wheel_U99_1.jpg "21 inch 10.5J 5Y design")
 
-![22 inch 10.5J 5-arm star design](wheel_U95_2.png "22 inch 10.5J 5-arm star design")
+![21 inch 10.5J 5Y design](wheel_U99_2.png "21 inch 10.5J 5Y design")
+
+## 21" inch 10.5J 5-arm star design
+
+Audi sport wheels for e-tron 60S. Part No: **U95** Tires 285/40 R21 
+
+![21 inch 10.5J 5-arm star design](wheel_U95_1.png "21 inch 10.5J 5-arm star design")
+
+![21 inch 10.5J 5-arm star design](wheel_U95_2.png "21 inch 10.5J 5-arm star design")
 
 ## 22" x 9.5J '5-spoke structured' matt titanium finish
 
