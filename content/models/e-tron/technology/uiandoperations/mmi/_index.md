@@ -7,6 +7,8 @@ weight: 1
 
 The Audi MMI® (Multi Media Interface) system was created to streamline the controls for audio, vehicle settings, and available navigation under a common interface, thereby reducing the number of buttons for a cleaner interior appearance.
 
+![Second screen](both_screens_1.png "Audi MMI touch")
+
  Following the premiere in the fourth generation of the Audi A8 (2017) it is now being incorporated into other model lines like Audi e-tron. The central element is the 10.1-inch touch display in black panel technology. When not in use, the screen blends almost invisibly into the high-gloss black faceplate of the instrument panel. When starting the system, the user interface appears with its concise graphics. With a resolution of 1,540 x 720 pixels, the TFT screen provides pin-sharp images and high contrast, even when viewed from an angle. The large display is used for controlling navigation, media and vehicle functions. The driver can click, swipe, zoom and scroll on it. The menu structure including the search functions is intuitive and flat, like that of a modern smartphone.
 
 The key strength of the MMI touch response technology is its haptic feedback. When a finger touches the display glass, it does not immediately activate a function – a gentle push with a defined pressure is required to do that. The mechanical pulse that the driver feels as confirmation feedback is created by an electromagnet that shifts the spring-mounted display very slightly sideways – by roughly the width of a human hair. At the same time a small loudspeaker emits a click sound.
@@ -20,6 +22,10 @@ A second display on the console of the center tunnel is used to operate the air 
 Since the driver’s wrist rests on the transmission’s gear selector knob, the display can be operated very comfortably. The driver can also enter text – either via a digital keyboard (when the vehicle is stationary) or by innovative handwriting recognition which can recognize entire words in handwriting as well as letters handwritten on top of one another. Audible feedback is given for each recognized letter, so that the driver can always keep his or her eyes focused on the road.
 
 The surfaces of the two displays have a type of anti-fingerprint coating. This makes it easy to wipe off fingerprints. There is also an anti-glare layer that refracts the reflected light. This blurs the reflections so they do not distract the driver. The top layer is toughened, making it very sturdy and scratch-resistant.
+
+## Menu overvierw
+
+The [following document](MMI%20Menu%20overview.pdf) presents the full menu overview
 
 
 {{% children description="true" depth="1" %}}
