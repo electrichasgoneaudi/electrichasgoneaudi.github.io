@@ -27,12 +27,14 @@ The battery cells in the Audi Q4 models are produced by LG Chem
 The Q4 35 e-tron battery consist of 8 battery modules with 12 cells in each module.
 
 | **Spec** | **Value** |
+| ----- |----- |
 | Gross capacity | 55 kWh |
 | Usable capacity | 52 kWh (94 %)|
 | Modules | 8 |
 | Cells | 192 |
 | Cell pr modules | 24 |
 | Cell configuration |  96s2p |
+| Voltage | 350 V |
 | Total cell weight | 206 kg |
 | TMS | active liquid cooling |
 
@@ -40,13 +42,17 @@ The Q4 35 e-tron battery consist of 8 battery modules with 12 cells in each modu
 
 ## Battery Q4 40 e-tron and Q4 50 e-tron
 
-Total capacity: 82 kWh
-Usable capacity: 77 kWh (94 %)
-Modules: 12
-Cells: 288 (96s3p)
-Total cell weight: 309 kg
-TMS: active liquid cooling
-
+| **Spec** | **Value** |
+| ----- |----- |
+| Gross capacity | 82 kWh |
+| Usable capacity | 77 kWh (94 %)|
+| Modules | 12 |
+| Cells | 288 |
+| Cell pr modules | 24 |
+| Cell configuration |  96s3p |
+| Voltage | 350 V |
+| Total cell weight | 309 kg |
+| TMS | active liquid cooling |
 
 ![Q4 35 e-tron battery](q4etron40battery.jpg "Q4 40 e-tron / Q4 50 e-tron battery")
 
