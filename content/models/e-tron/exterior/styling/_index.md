@@ -35,6 +35,8 @@ The mirrors can be delivered in different styles
 
 ## Painted Calibers
 
+You can order orange painted calibers on Audi e-tron. The code is **PC2** on e-tron 55/50 and **PC4** on e-tron S. 
 
+![Painted calibers](paintedcalibers.png "Painted Calibers on e-tron S")
 
 {{% children description="true" depth="1" %}}
