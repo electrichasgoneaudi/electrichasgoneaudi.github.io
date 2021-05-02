@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron technology
 linktitle: Technology
-description: Audi e-tron has a lot of technology. Here you find the details
+description: Audi e-tron has a lot of advanced technology. Here you find the details about the different areas.
 weight: 7
 ---
 

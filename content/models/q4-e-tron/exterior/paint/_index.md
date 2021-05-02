@@ -33,15 +33,24 @@ This is the only non metallic pain available.
 
 ## Navarra Blue
 
-![Audi Q4 ](paint_navarrablue_1.png "Audi Q4 Sportback 50 e-tron quattro in Mythos Black")
+![Audi Q4 ](paint_navarrablue_1.png "Audi Q4 Sportback 50 e-tron quattro in Navarra blue with contrast color")
 
-![Audi Q4 ](paint_navarrablue_2.png "Audi Q4 Sportback 50 e-tron quattro in Mythos Black")
+![Audi Q4 ](paint_navarrablue_2.png "Audi Q4 Sportback 50 e-tron quattro in Navarra blue with contrast color")
+
+![Audi Q4 ](paint_navarrablue_3.png "Audi Q4 Sportback 50 e-tron quattro in Navarra blue")
+
+![Audi Q4 ](paint_navarrablue_4.png "Audi Q4 Sportback 50 e-tron quattro in Navarra blue")
+
+![Audi Q4 ](paint_navarrablue_5.png "Audi Q4 Sportback 50 e-tron quattro in Navarra blue with black optics")
+
 
 ## Mythos Black
 
 ![Audi Q4 ](paint_mythosblack_1.png "Audi Q4 Sportback 50 e-tron quattro in Mythos Black")
 
 ![Audi Q4 ](paint_mythosblack_2.png "Audi Q4 Sportback 50 e-tron quattro in Mythos Black")
+
+![Audi Q4 ](paint_mythosblack_3.png "Audi Q4 Sportback 50 e-tron quattro in Mythos Black with black optics")
 
 ## Aurora Violett
 
@@ -56,3 +65,7 @@ This is the only non metallic pain available.
 ![Audi Q4 ](paint_glacierwhite_1.png "Audi Q4 Sportback 50 e-tron quattro in Glacier white with contrast color")
 
 ![Audi Q4 ](paint_glacierwhite_2.png "Audi Q4 Sportback 50 e-tron quattro in Glacier white with contrast color")
+
+![Audi Q4 ](paint_glacierwhite_3.png "Audi Q4 Sportback 50 e-tron quattro in Glacier white with black optics")
+
+![Audi Q4 ](paint_glacierwhite_4.png "Audi Q4 Sportback 50 e-tron quattro in Glacier white")
