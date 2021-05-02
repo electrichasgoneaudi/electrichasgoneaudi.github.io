@@ -27,7 +27,7 @@ A standard sprint takes 8.5 seconds, and here, too, the propulsion tops
 out at a speed of 160 km/h. One charge is enough for up to 520 kilometers (WLTP). According to WLTP the Audi Q4 40 e-tron uses an 
 average of 19.3 to 17.3 kWh per 100 kilometers (62.1 mi).
 
-![App 310](app310b.jpg "The APP 310 motor is so small it fit in a bag")
+![App 310](app310bag.jpg "The APP 310 motor is so small it fit in a bag")
 
 ## Top model with two electric motors: the Q4 50 e-tron quattro
 
