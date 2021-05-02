@@ -28,3 +28,9 @@ If build month is 122019 or later it should be a upgraded version
 - Removed SIM and SD-card input
 ![bilde](https://user-images.githubusercontent.com/59776765/103356641-9be3da80-4ab1-11eb-9248-411935d983ad.png)
 - Also available as e-tron 60 with 3 motors.
+
+### MY2021 - > MY 2022 (from build week xx 2021)
+
+- vin nr has N as 10 digit for 2022 model example: WAUZZZGEX**N**B001235
+- New paint color avaiable: Chronos grey
+- New packages for the US marked
