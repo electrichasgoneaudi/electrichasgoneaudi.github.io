@@ -82,7 +82,7 @@ weight: 2
 | Max recuperation | 145kW |
 | WLTP combined range basic trim  | 488 km       |
 | WLTP combined consumption basic trim    | 15.8 kWh/100km        |
-| WLTP combined consumption with charging loss basic trim | 17.6 kWh/100km |
+| WLTP combined consumption with charging loss basic trim | 17.9 kWh/100km |
 | Unladen weight without drive min trim    | 2135 kg       |
 | Carge space | 520 l |
 | Cargo space seat down | 1490 l |
