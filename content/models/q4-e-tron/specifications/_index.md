@@ -53,8 +53,8 @@ weight: 2
 | Max DC Charging | 125KW |
 | Max recuperation | 145kW |
 | WLTP combined range basic trim  | 520 km       |
-| WLTP combined consumption basic trim    | 19.6 kWh/100km        |
-| WLTP combined consumption with charging loss basic trim | 22,2 kWh/100km |
+| WLTP combined consumption basic trim    | 14.8 kWh/100km        |
+| WLTP combined consumption with charging loss basic trim | 17.3 kWh/100km |
 | Unladen weight without drive min trim    | 1940 kg       |
 | Carge space | 520 l |
 | Cargo space seat down | 1725 l |
@@ -81,8 +81,8 @@ weight: 2
 | Max DC Charging | 125KW |
 | Max recuperation | 145kW |
 | WLTP combined range basic trim  | 488 km       |
-| WLTP combined consumption basic trim    | 14.8 kWh/100km        |
-| WLTP combined consumption with charging loss basic trim | 26.1 kWh/100km |
+| WLTP combined consumption basic trim    | 15.8 kWh/100km        |
+| WLTP combined consumption with charging loss basic trim | 17.6 kWh/100km |
 | Unladen weight without drive min trim    | 2135 kg       |
 | Carge space | 520 l |
 | Cargo space seat down | 1490 l |
