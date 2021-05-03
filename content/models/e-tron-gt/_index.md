@@ -13,8 +13,3 @@ weight: 2
 {{< youtube kaPZRRkkcEU >}}
 
 {{% children description="true" depth="1" %}}
-
-
-
-
-{{% children description="true" depth="1" %}}
