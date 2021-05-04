@@ -34,6 +34,7 @@ weight: 2
 | Max trailer weight | 1800 kg |
 | Max roof weight | 75 kg |
 | Max trailer hitch weight | 80 kg |
+| Ground Clearance | 152 - 248 mm |
 
 ## Audi e-tron 55
 
@@ -65,6 +66,7 @@ weight: 2
 | Max trailer weight | 1800 kg |
 | Max roof weight | 75 kg |
 | Max trailer hitch weight | 80 kg |
+| Ground Clearance | 152 - 248 mm |
 
 ## Audi e-tron 60S
 
@@ -96,6 +98,7 @@ weight: 2
 | Max trailer weight | 1800 kg |
 | Max roof weight | 75 kg |
 | Max trailer hitch weight | 80 kg |
+| Ground Clearance | 152 - 248 mm |
 
 ## Audi e-tron 50 Sportback
 
@@ -124,6 +127,7 @@ weight: 2
 | Max trailer weight | 1800 kg |
 | Max roof weight | 75 kg |
 | Max trailer hitch weight | 80 kg |
+| Ground Clearance | 152 - 248 mm |
 
 ## Audi e-tron 55 Sportback
 
@@ -154,6 +158,7 @@ weight: 2
 | Max trailer weight | 1800 kg |
 | Max roof weight | 75 kg |
 | Max trailer hitch weight | 80 kg |
+| Ground Clearance | 152 - 248 mm |
 
 
 ## Audi e-tron 60S Sportback
@@ -185,5 +190,6 @@ weight: 2
 | Max trailer weight | 1800 kg |
 | Max roof weight | 75 kg |
 | Max trailer hitch weight | 80 kg |
+| Ground Clearance | 152 - 248 mm | 
 
 {{% children description="true" depth="1" %}}

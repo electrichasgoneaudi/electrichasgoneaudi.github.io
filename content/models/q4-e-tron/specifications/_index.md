@@ -33,6 +33,7 @@ weight: 2
 | Max trailer weight | 1000 kg |
 | Max trailer nose weight | 75kg |
 | Max roof weight | 75 kg |
+| Ground clearance | 180mm/165mm (Sport suspension)
 
 ## Audi Q4 e-tron 40 
 
@@ -61,6 +62,7 @@ weight: 2
 | Max trailer weight | 1000 kg |
 | Max trailer nose weight | 75kg |
 | Max roof weight | 75 kg |
+| Ground clearance | 180mm/165mm (Sport suspension)
 
 ## Audi Q4 e-tron 50 quattro
 
@@ -89,6 +91,7 @@ weight: 2
 | Max trailer weight | 1200 kg |
 | Max trailer nose weight | 75kg |
 | Max roof weight | 75 kg |
+| Ground clearance | 180mm/165mm (Sport suspension)
 
 
 {{% children description="true" depth="1" %}}
