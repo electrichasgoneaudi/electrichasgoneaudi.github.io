@@ -15,7 +15,7 @@ weight: 2
 | 0 -100 km/h (62.1 mph) in s | 9 |
 | Top speed in km/h (mph)| 160 (99) |
 | Drive type | two-wheel drive |
-| Rear motor | permanently excited synchronous motor |
+| Rear motor | permanently excited synchronous motor APP310 |
 | Front motor | N/A |
 | Transmission type | 2-stage ratio planetary gearbox with a single gear |
 | Battery type | Lithium-ion  |
@@ -44,12 +44,14 @@ weight: 2
 | 0 -100 km/h (62.1 mph) in s | 8.5 ) |
 | Top speed in km/h (mph)| 160 (99) |
 | Drive type |  two-wheel drive |
-| Rear motor | permanently excited synchronous motor |
+| Rear motor | permanently excited synchronous motor APP310|
 | Front motor | N/A |
-| Transmission type | 2-stage ratio planetary gearbox with a single gear |
+| Transmission type | 2-stage ratio planetary gearbox with a single gear  |
 | Battery type | Lithium-ion  |
 | Battery gross | 82   kWh |
 | Battery size net | 77 kWh |
+| Battery weight | 493 kg |
+| Kg/kWh | 6 |
 | Max AC Charging | 11kW |
 | Max DC Charging | 125KW |
 | Max recuperation | 145kW |
@@ -73,12 +75,14 @@ weight: 2
 | 0 -100 km/h (62.1 mph) in s | 6.2  |
 | Top speed in km/h (mph)| 180 (99) |
 | Drive type | quattro permanent all-wheel drive |
-| Rear motor | permanently excited synchronous motor |
+| Rear motor | permanently excited synchronous motor APP310|
 | Front motor | asynchronous motor |
 | Transmission type | 2-stage ratio planetary gearbox with a single gear |
 | Battery type | Lithium-ion  |
 | Battery gross | 82   kWh |
 | Battery size net | 77 kWh |
+| Battery weight | 493 kg |
+| Kg/kWh | 6 |
 | Max AC Charging | 11kW |
 | Max DC Charging | 125KW |
 | Max recuperation | 145kW |
