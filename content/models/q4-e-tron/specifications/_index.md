@@ -51,7 +51,7 @@ weight: 2
 | Battery gross | 82   kWh |
 | Battery size net | 77 kWh |
 | Battery weight | 493 kg |
-| Kg/kWh | 6 |
+| kWh/kg | 0,156 |
 | Max AC Charging | 11kW |
 | Max DC Charging | 125KW |
 | Max recuperation | 145kW |
@@ -82,7 +82,7 @@ weight: 2
 | Battery gross | 82   kWh |
 | Battery size net | 77 kWh |
 | Battery weight | 493 kg |
-| Kg/kWh | 6 |
+| kWh/kg | 0,156 |
 | Max AC Charging | 11kW |
 | Max DC Charging | 125KW |
 | Max recuperation | 145kW |

@@ -53,6 +53,8 @@ weight: 2
 | Battery gross | 95   kWh |
 | Battery size net | 86.5 kWh |
 | Max DC Charging | 150KW |
+| Battery weight | 700 kg |
+| kWh/kg | 0,135 |
 | WLTP combined range basic trim  | 441 km       |
 | WLTP combined consumption basic trim    | 19.6 kWh/100km        |
 | WLTP combined consumption with charging loss basic trim | 22,2 kWh/100km |
@@ -85,6 +87,8 @@ weight: 2
 | Battery gross | 95   kWh |
 | Battery size net | 86.5 kWh |
 | Max DC Charging | 150KW |
+| Battery weight | 700 kg |
+| kWh/kg | 0,135 |
 | WLTP combined range basic trim  | 374 km       |
 | WLTP combined consumption basic trim    | 23.1 kWh/100km        |
 | WLTP combined consumption with charging loss basic trim | 26.1 kWh/100km |
@@ -145,6 +149,8 @@ weight: 2
 | Battery type | Lithium-ion  |
 | Battery gross | 95   kWh |
 | Battery size net | 86.5 kWh |
+| Battery weight | 700 kg |
+| kWh/kg | 0,135 |
 | WLTP combined range basic trim  | 452 km       |
 | WLTP combined consumption basic trim    | 19.1 kWh/100km        |
 | WLTP combined consumption with charging loss basic trim | 21,6 kWh/100km |
@@ -177,6 +183,8 @@ weight: 2
 | Battery type | Lithium-ion  |
 | Battery gross | 95   kWh |
 | Battery size net | 86.5 kWh |
+| Battery weight | 700 kg |
+| kWh/kg | 0,135 |
 | WLTP combined range basic trim  | 380 km       |
 | WLTP combined consumption basic trim    | 22.8 kWh/100km        |
 | WLTP combined consumption with charging loss basic trim | 25.6 kWh/100km |
