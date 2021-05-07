@@ -31,12 +31,28 @@ The below diagram show the calculated consumption in kWh/100km for the different
 
 The effiency or WLTP consumption is affected by many things.
 
-- The drag of the car
-- The weight of the car
-- The rolling resitance of the car
-- The efficency of the motor/power electronics
-- The internal restiance of the battery
-- The electric consumption beside movement (AC, lights, steroe +++)
+### Aerodynamic drag
+
+The aerodynamic drag affects how much energy is needed to move. The shape of the body affects it but also the design of the wheels.
+
+Audi A6 e-tron concept is currently the model with the lowes drag with a cW value on only 0.22
+
+
+### Rolling resistance
+
+The [rolling resistance](https://en.wikipedia.org/wiki/Rolling_resistance) sometimes called rolling friction or rolling drag, is the force resisting the motion when a body (such as a ball, tire, or wheel) rolls on a surface.
+
+This is affected by the widh of the tires, the weight of the car, the tyre compound and the tyre pressure.
+
+### Weight
+
+A heavier car requires more energy to move.
+
+### The efficency of the drivetrain/motors
+
+### The internal restiance of the battery
+
+
 
 Many of the above factor is fixed. Like the e-tron Sportback has less drag then the e-tron SUV because of the body shape. 
 
