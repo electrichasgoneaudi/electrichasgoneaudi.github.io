@@ -25,7 +25,7 @@ how many kWh is needed to drive 100km. In US it is rated as miles per kWh, meani
 
 The below diagram show the calculated consumption in kWh/100km for the different all-electric models are according to WLTP combined rating.
 
-![Consumption](wltpconsumptionbasictrim.png ")
+![Consumption](wltpconsumptionbasictrim.png "Calculated consumption kWh/100km")
 
 ## What affects the effiency?
 
@@ -45,3 +45,18 @@ But other factors are affected by the equipment you add to your car. If you buy 
 The below diagram show the maxium consumtion based on selecting factory options to the car. 
 
 ![Consumption](wltpconsumptiontoptrim.png "WLTP Consumption top trim")
+
+From the diagram you can se that an Audi e-tron 55 have a consumption on 19.61 kWh/100km in the basic trim, but 23.44 kWh/100km in the top trim.
+Reducing the range from 441km to 369km. 
+
+## What other things affect the consumption?
+
+
+### The driving style
+
+
+### The weather
+
+
+### The temprature
+
