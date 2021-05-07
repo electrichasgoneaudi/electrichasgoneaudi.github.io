@@ -1,6 +1,6 @@
 ---
 title: Understanding range
-linktitle: Understanding
+linktitle: Understanding range
 description: For many range is the most important aspect of an EV. In this guide we explain what affects the range on your all-electric Audi.
 weight: 3
 ---
@@ -27,4 +27,21 @@ The below diagram show the calculated consumption in kWh/100km for the different
 
 ![Consumption](wltpconsumptionbasictrim.png ")
 
-## Equip
+## What affects the effiency?
+
+The effiency or WLTP consumption is affected by many things.
+
+- The drag of the car
+- The weight of the car
+- The rolling resitance of the car
+- The efficency of the motor/power electronics
+- The internal restiance of the battery
+- The electric consumption beside movement (AC, lights, steroe +++)
+
+Many of the above factor is fixed. Like the e-tron Sportback has less drag then the e-tron SUV because of the body shape. 
+
+But other factors are affected by the equipment you add to your car. If you buy wider tires, you will get a higher consumption and then a shorter range. 
+
+The below diagram show the maxium consumtion based on selecting factory options to the car. 
+
+![Consumption](wltpconsumptiontoptrim.png "WLTP Consumption top trim")
