@@ -84,10 +84,39 @@ Reducing the range from 441km to 369km.
 
 ## What affects the real world consumption
 
-### The driving style
+In the real world it is almost impossible to get the exact same range as given by WLTP or EPA. This is because that range is based on
+ideal driving condition with a specific behaviour.  
 
-### The weather
+### Road condition
+
+The road conditions is one of the factors that affects the much. If it is dry tarmac the rolling resistance is much lower than
+if the road is wet or is packed with snow.
+
+### The speed
+
+High speed increases the consumption because of higher drag.
 
 ### The temprature
 
-##  
+The temprature affects the range in different ways. If it is cold the air is more dense and it is a higer aerodynamical drag.
+
+In addition warm and cold weather could increase the consumption from air condition system in the car.
+
+### The driving style
+
+You as an driver can improve range a lot.
+
+- Look ahead and coast as much as possible
+- When needing to reduce speed, start reducing when possible so early that you only use recupperation.
+
+![Audi e-tron S in the wet](etronsinthewet.jpg "Audi e-tron S with with a heavy foot")
+
+## How does the range indicator works on Audi
+
+The range indicator on all-electric Audis is much more advanced than many other brands.
+
+While some brands show the same range no matter what and ignores the driving condition or the driving style to the owner, 
+all-electric Audis tries to learn
+from previous trips and this causes a lot of questions about range from owners, since range varies and drops when driving condition worses.
+
+![Facebook questions](facebook.png "Questions from owners about range indication")
