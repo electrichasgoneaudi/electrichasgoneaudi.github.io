@@ -69,7 +69,7 @@ Newer cars often combine these two techniques having a rear synchronous motor al
 
 The internal resistance in the battery causes heat loss in the battery.
 
-## Factors vary based on options
+### Factors vary based on selected options
 
 Many of the above factors are fixed. Like the e-tron Sportback has less drag than the e-tron SUV because of the body shape.
 
@@ -80,43 +80,66 @@ The below diagram shows the maximum consumption based on selecting factory optio
 ![Consumption](wltpconsumptiontoptrim.png "WLTP Consumption top trim")
 
 From the diagram, you can see that an Audi e-tron 55 has a consumption of 19.61 kWh/100km in the basic trim, but 23.44 kWh/100km in the top trim.
-Reducing the range from 441km to 369km.
+Reducing the range from 441km (274 miles)  to 369km (229 miles).
 
-## What affects the real world consumption
+## What affects the real-world consumption
 
-In the real world it is almost impossible to get the exact same range as given by WLTP or EPA. This is because that range is based on
-ideal driving condition with a specific behaviour.  
+In the real world, it is almost impossible to get the same range as given by WLTP or EPA. This is because that range is based on
+ideal driving conditions with specific behavior.  
 
 ### Road condition
 
-The road conditions is one of the factors that affects the much. If it is dry tarmac the rolling resistance is much lower than
+Road conditions are one of the factors that affect consumption. If it is dry tarmac the rolling resistance is much lower than
 if the road is wet or is packed with snow.
 
 ### The speed
 
 High speed increases the consumption because of higher drag.
 
-### The temprature
+### The temperature
 
-The temprature affects the range in different ways. If it is cold the air is more dense and it is a higer aerodynamical drag.
+The temperature affects the range in different ways. If it is cold the air is denser and it is a higher aerodynamical drag.
 
-In addition warm and cold weather could increase the consumption from air condition system in the car.
+In addition, warm and cold weather could increase the consumption of air condition system in the car.
 
 ### The driving style
 
-You as an driver can improve range a lot.
+You as a driver can improve range a lot.
 
 - Look ahead and coast as much as possible
-- When needing to reduce speed, start reducing when possible so early that you only use recupperation.
+- When needing to reduce speed, start reducing when possible so early that you only use recuperation.
 
-![Audi e-tron S in the wet](etronsinthewet.jpg "Audi e-tron S with with a heavy foot")
+![Audi e-tron S in the wet](etronsinthewet.jpg "Audi e-tron S with a heavy foot")
 
-## How does the range indicator works on Audi
+## How does the range indicator work on electric Audi
 
 The range indicator on all-electric Audis is much more advanced than many other brands.
 
-While some brands show the same range no matter what and ignores the driving condition or the driving style to the owner, 
+While some brands show the same range no matter what and ignore the driving condition or the driving style to the owner,
 all-electric Audis tries to learn
-from previous trips and this causes a lot of questions about range from owners, since range varies and drops when driving condition worses.
+from previous trips and this causes a lot of questions about range from owners since range varies and drops when driving condition worsens.
+
+Below you see some typical questions.
 
 ![Facebook questions](facebook.png "Questions from owners about range indication")
+
+So how does the range indicator works? 
+
+The range indicator  base its range on the following data
+
+- Average consumption on the latest trips
+- The state of charge (of much is the battery charged)
+- The planned route in the navigation system
+
+![Range indicator](virtualcockpit.png "Virtual cockpit with range indicator")
+
+So assume you have an e-tron 55 with 86.5kWh battery and you have charged it to 100%.
+
+If your average consumption was 25kWh/100 on the previous trips, the range indicator, or GOM (guessometer) that many calls it
+would calculate you would have a range on 346km.  If your average consumption was 20kWh/100km it would calculate 432km.
+
+But this is the best guess based on previous trips. If you change behavior on the next trip, the range calculated would be wrong.
+
+If you have done many short trips in cold weather, you would have spent lots of energy to heat ut the car. But this average consumption is not relevant if you the next day are taking a long drive. The car would then underestimate the range.
+
+If a route is defined in the car navigation system the car would adjust range based on elevation and road ahead.
