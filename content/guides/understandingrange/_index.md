@@ -141,6 +141,6 @@ calculated range would be 288km.
 
 But this is the best guess based on previous trips. If you change behavior on the next trip, the range calculated would be wrong.
 
-If you have done many short trips in cold weather, you would have spent lots of energy to heat ut the car. But this average consumption is not relevant if you the next day are taking a long drive. The car would then underestimate the range.
+If you have done many short trips in cold weather, you would have spent lots of energy to heat up the car. But this average consumption is not relevant if you the next day are taking a long drive. The car would then underestimate the range.
 
 If a route is defined in the car navigation system the car would adjust range based on elevation and road ahead.
