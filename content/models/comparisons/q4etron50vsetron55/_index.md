@@ -1,5 +1,5 @@
 ---
-title: Q4 e-tron 50 vs e-tron 50
+title: Q4 50 e-tron quattro vs e-tron quattro 55
 linktitle: Q4 e-tron vs e-tron
 description: Here you find a detailed comparison between Audi Q4 e-tron 50 Quattro and 
 weight: 1
@@ -7,15 +7,15 @@ weight: 1
 
 
 
-| Specification      | Q4 e-tron quattro 50 | e-tron quattro 55|
+| Specification      | Q4 50 e-tron quattro | e-tron quattro 55|
 | ----------- | ----------- |----------- |
 | Peal electrical output in KW (hp) | 220(299) | 265(355) |
 | Peak electrical output boost in kW (hp) | N/A | 300 (402) |
-| Net battery | 77kWh | 86.5kWh | 
+| Net battery | 77kWh | 86.5kWh |
 | WLTP Range basic trim | 488km | 441km |
 | Calculated consumption basic trim | 15.8 kWh/100km | 19.6 kWh/100km |
-| WLTP Range top trim | ?km | 369km |
-| Calculated consumption top trim | ? kWh/100km | 23.4 kWh/100km |
+| WLTP Range top trim | 449km | 369km |
+| Calculated consumption top trim | 17.14 kWh/100km | 23.4 kWh/100km |
 | Max trailer weight | 1200kg | 1800kg |
 | Max roof weight | 75kg | 75kg |
 | Ground clearance | 165/180mm | 152-248mm |
@@ -24,8 +24,5 @@ weight: 1
 | Virtual Cockpit | Yes, option  | Yes, standard |
 | Virtual Cockpit screensize |  |  |
 | Standard MMI system | MMI Radio | MMI Touch Response |
- 
-
-
 
 {{% children description="true" depth="1" %}}

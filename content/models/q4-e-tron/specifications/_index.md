@@ -27,6 +27,9 @@ weight: 2
 | WLTP combined range basic trim  | 341 km       |
 | WLTP combined consumption basic trim    | 15.2 kWh/100km        |
 | WLTP combined consumption with charging loss basic trim | 15.8 kWh/100km |
+| WLTP combined range top trim  | 311 km       |
+| WLTP combined consumption top trim    | 16.72 kWh/100km        |
+| WLTP combined consumption with charging loss top trim | 18.8 kWh/100km |
 | Unladen weight without drive min trim    | 1965 kg       |
 | Carge space | 520 l |
 | Cargo space seat down | 1725 l |
@@ -58,6 +61,9 @@ weight: 2
 | WLTP combined range basic trim  | 520 km       |
 | WLTP combined consumption basic trim    | 14.8 kWh/100km        |
 | WLTP combined consumption with charging loss basic trim | 17.3 kWh/100km |
+| WLTP combined range top trim  | 473 km       |
+| WLTP combined consumption top trim    | 16.28 kWh/100km        |
+| WLTP combined consumption with charging loss top trim | 19.1 kWh/100km |
 | Unladen weight without drive min trim    | 1940 kg       |
 | Carge space | 520 l |
 | Cargo space seat down | 1725 l |
@@ -89,6 +95,9 @@ weight: 2
 | WLTP combined range basic trim  | 488 km       |
 | WLTP combined consumption basic trim    | 15.8 kWh/100km        |
 | WLTP combined consumption with charging loss basic trim | 17.9 kWh/100km |
+| WLTP combined range top trim  | 449 km       |
+| WLTP combined consumption top trim    | 17.15 kWh/100km        |
+| WLTP combined consumption with charging loss top trim | 19.7 kWh/100km |
 | Unladen weight without drive min trim    | 2135 kg       |
 | Carge space | 520 l |
 | Cargo space seat down | 1490 l |
