@@ -8,7 +8,7 @@ weight: 3
 The range of electric cars is typically given as a [WLTP range](https://en.wikipedia.org/wiki/Worldwide_Harmonised_Light_Vehicles_Test_Procedure) (Worldwide Harmonised Light Vehicles Test Procedure) in
 Europe or [EPA](https://en.wikipedia.org/wiki/Fuel_economy_in_automobiles#EPA_testing_procedure:_2008_and_beyond) in the US.
 
-Below you see the range of the different current and some future models. The range is from 341km (211 miles) to 700km (435 miles) according to the WLTP combined standard.
+Below you see the range of the different current and some future Audi models. The range is from 341km (211 miles) to 700km (435 miles) according to the WLTP combined standard.
 
 ![WLTP Range](wltprangebasictrim.png "WLTP Range all-electric Audis")
 
