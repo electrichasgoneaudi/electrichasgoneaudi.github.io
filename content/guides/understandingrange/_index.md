@@ -65,6 +65,11 @@ Induction motors use a little more energy to move but have almost zero coasting 
 
 Newer cars often combine these two techniques having a rear synchronous motor always in use and an induction motor in front. Example Audi Q4 e-tron quattro 50.
 
+Audi is working on the new PPE platform and already now we know that
+this drivetrain will have a improved effiency
+
+![PPE Drivetrain](../../../technology/bev-platforms/ppe/ppepresentation2.png "PPE Drivetrain")
+
 ### The internal resistance of the battery
 
 The internal resistance in the battery causes heat loss in the battery.
