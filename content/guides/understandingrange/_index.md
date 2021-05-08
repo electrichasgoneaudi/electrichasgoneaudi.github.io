@@ -136,7 +136,8 @@ The range indicator  base its range on the following data
 So assume you have an e-tron 55 with 86.5kWh battery and you have charged it to 100%.
 
 If your average consumption was 25kWh/100 on the previous trips, the range indicator, or GOM (guessometer) that many calls it
-would calculate you would have a range on 346km.  If your average consumption was 20kWh/100km it would calculate 432km.
+would calculate you would have a range on 346km.  If your average consumption was 20kWh/100km it would calculate 432km. And if you are one that likes speed and had an average of 30kWh/100 km your
+calculated range would be 288km.
 
 But this is the best guess based on previous trips. If you change behavior on the next trip, the range calculated would be wrong.
 
