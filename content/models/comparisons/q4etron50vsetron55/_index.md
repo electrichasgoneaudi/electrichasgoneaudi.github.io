@@ -22,7 +22,13 @@ weight: 1
 | Max DC Chargin | 125 kW | 150 kW |
 | Unladen weight without drive min trim | 2135kg | 2520kg |
 | Virtual Cockpit | Yes, option  | Yes, standard |
-| Virtual Cockpit screensize |  |  |
-| Standard MMI system | MMI Radio | MMI Touch Response |
+| Virtual Cockpit screensize | 10.25"  |  |
+| Virtual Cockpit resolution |   |  |
+| Audi MMI System | MMI touch | MMI Touch Response  |
+| MMI Navigation Plus | Yes, option | Yes, standard |
+| MMI main screen size | 10.1" (11.6" option) | 10.1" |
+| MMI main screen resolution | 1540 x 720 (1,764 x 824 option) | 1540 x 720  |
+| MMI secondary screen | | |
+
 
 {{% children description="true" depth="1" %}}
