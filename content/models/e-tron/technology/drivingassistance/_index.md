@@ -40,11 +40,20 @@ The following driver assistance systems are part of the tour driver assistance p
 
 ### Adaptive cruise control (with Stop&Go function)
 
-Adaptive cruise control (ACC) offers relief to drivers especially on long trips and in stop-and-go traffic. It maintains a preset distance to the vehicle ahead by automatically accelerating and braking. The driver can choose from five distance levels and adjust acceleration and control system dynamics with Audi drive select.
+Adaptive cruise control (ACC) offers relief to drivers especially on long trips and in stop-and-go traffic. It maintains a preset distance to the vehicle ahead by automatically accelerating and braking.
+The driver can choose from five distance levels and adjust acceleration and control system dynamics with Audi drive select.
 
-The system uses radar sensors and a front camera. They detect vehicles ahead and measure the distance to them. In interplay with S tronic or tiptronic, the system covers the entire speed range from 0 to 250 km/h (155.3 mph). With a manual transmission, it starts at 30 km/h (18.6 mph). When the system is deactivated, the distance indicator shows the distance to the car ahead and warns drivers when they are tailgating. Its operating speed range is 60 km/h (37.3 mph) and above.
+The system uses radar sensors and a front camera. They detect vehicles ahead and measure the distance to them. 
 
-When combined with S tronic or tiptronic, ACC also includes the Stop&Go function. In heavy traffic, it autonomously decelerates the car to a stop. After a brief stop, it automatically resumes driving, following the vehicle ahead. After a longer stop, the driver must tap the accelerator pedal or the control stalk on the steering column. In addition to the radar sensors and front camera, ultrasonic sensors also monitor the vehicle’s immediate surroundings.
+When the system is deactivated, the distance indicator shows the distance to the car ahead and warns drivers when they are tailgating. 
+
+Its operating speed range is 60 km/h (37.3 mph) and above.
+
+ACC also includes the Stop&Go function. In heavy traffic, it autonomously decelerates the car to a stop.
+
+After a brief stop, it automatically resumes driving, following the vehicle ahead.
+
+After a longer stop, the driver must tap the accelerator pedal or the control stalk on the steering column. In addition to the radar sensors and front camera, ultrasonic sensors also monitor the vehicle’s immediate surroundings.
 
 ### (Predictive) efficiency assist
 
@@ -71,6 +80,9 @@ This is part of the tour package with option id PCC on Audi e-tron
 ### Traffic sign recognition
 
 Camera-based traffic sign recognition detects traffic signs such as speed limit signs (including digital signs), no passing zones, entry restriction signs and other auxiliary signs, and it shows them to the driver in graphic form. They then appear in the driver information system and/or the Audi virtual cockpit as well as in the head-up display. The camera on the windshield also detects temporary speed restrictions such as in construction zones, as well as time- and weather-conditional restrictions. The system shows the currently applicable speed limit. For example, if a lower speed applies when the road is wet, this value is displayed – if the windshield wipers are on. Speed limits that are only in force at certain times of day are only shown at those times. In addition, the driver can choose a warning threshold as an offset to the legal speed limit. When this threshold is exceeded, a visual warning is given.
+
+To turn of that predictive driver assist should follow sign this can be disabled here  MMI - > Car - > Driver Assist - > Adative Cruise Assist ->  Predictive Control -> Use speed limit -> Off
+
 
 ### Emergency assist
 

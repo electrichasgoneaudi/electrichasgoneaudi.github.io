@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron styling
 linktitle: Styling
-description: There is serveral styling options to make your e-tron stick out from the growd
+description: There is serveral styling options to make your e-tron stick out from the crowd
 weight: 4
 ---
 
@@ -13,9 +13,9 @@ The black optics package contains gloss black front, rails and window rims.
 
 ![Standard optics - Florett Silver](standardoptics_florett.png "Standard optics - Florett Silver")
 
-![Standard optics - Florett Silver](blackoptics_florett.png "Black optics - Florett Silver S-Line")
+![Standard optics - Florett Silver](blackoptics_florett.png "Black optics - Florett Silver")
 
-![Standard optics - Florett Silver](standardoptics_florett_sline.png "Standard optics - Florett Silver")
+![Standard optics - Florett Silver](standardoptics_florett_sline.png "Standard optics - Florett Silver S-line")
 
 ![Standard optics - Florett Silver](blackoptics_florett_sline.png "Black optics - Florett Silver S-line")
 
