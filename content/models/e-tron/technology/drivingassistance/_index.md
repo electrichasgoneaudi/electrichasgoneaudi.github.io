@@ -7,13 +7,11 @@ weight: 1
 
 ## Standard driver assistance
 
-The following driver assistance system are standard equipment
+The following driver assistance system are standard equipment on Audi e-tron
 
 ### Hold assist
 
 Hold assist enables convenient drive-offs when the car is on the usual inclines and descents of street traffic, and it prevents the vehicle from rolling. The system automatically switches over to the electromechanical parking brake when the car is stopped for a longer period of time while hold assist is activated. This ensures that the car will remain stationary even without activation of the parking brake. After a stop at a traffic light, for instance, the car drives off as soon as the driver presses the accelerator pedal. The system is activated in MMI
-
-
 
 ### Audi pre sense basic
 
@@ -29,6 +27,8 @@ Parking system plus informs the driver, visually and audibly, about obstacles in
 
 ### Audi active lane assist
 
+![Audi Active Lane assist](activelaneassist.jpg "Audi active lane assist")
+
 Operating at speeds from 65 km/h (40.4 mph), Audi active lane assist helps the driver keep the vehicle in the driving lane. A camera detects lane lines and the track that the car is following between them. In this process, the camera can distinguish between yellow lines in construction zones and standard white markings. If the car approaches a line without the turn signal being activated, the system helps the driver to steer back into the lane by means of gentle but noticeable interventions in the electromechanical power steering. In the MMI system, the driver sets how early the control intervention should occur. In the case of an early steering intervention point, the system guides the driver towards the middle of the lane by gentle, centering steering interventions. With a late steering intervention point, Audi active lane assist does not intervene until shortly before the detected lane marking might be crossed; then it gives a corrective steering intervention in the proper direction. In addition, the driver may choose to be warned by a vibration of the steering wheel when crossing detected lane markings.
 
 ### Speed limiter
@@ -41,10 +41,10 @@ The following driver assistance systems are part of the tour driver assistance p
 
 ## Adaptive cruise assist
 
-The adaptive driving assistant is a combination of adaptive cruise control and lane guidance assistant.
+The adaptive cruise assist is a combination of adaptive cruise control and active lane assist.
 
-The adaptive driving assistant supports the driver in accelerating, braking, maintaining speed and distance
-as well as in lane guidance. 
+The adaptive cruise assist supports the driver in accelerating, braking, maintaining speed and distance
+as well as in lane guidance.
 
 This can increase driving comfort, especially on long journeys. The system recognizes lane markings, side structures, vehicles in adjacent lanes and several vehicles in front within the framework of system limits. From this information, the system derives a virtual driving path and does it
 Vehicle in this.
@@ -53,21 +53,20 @@ With an assisting steering intervention, the system helps to keep the vehicle pe
 
 Thanks to the large number of parameters involved, the adaptive driving assistant offers the most comfortable possible driving in the speed range from 0 to a maximum of 250 km / h and in traffic jams. The adaptive driver assistant uses the radar sensor installed in the front of the vehicle, the front camera and the ultrasonic sensors to permanently monitor the area around the vehicle. The system is also supported by a steering wheel with handle recognition in a specific steering wheel design
 
-### Adaptive cruise control (with Stop&Go function)
+### Adaptive cruise control with speed limiter.
 
-Adaptive cruise control (ACC) offers relief to drivers especially on long trips and in stop-and-go traffic. It maintains a preset distance to the vehicle ahead by automatically accelerating and braking.
-The driver can choose from five distance levels and adjust acceleration and control system dynamics with Audi drive select.
+The Adaptive cruise control (ACC) supports the driver by using the set within the system limits
 
-The system uses radar sensors and a front camera. They detect vehicles ahead and measure the distance to them.
+Speed ​​and the distance to the vehicle in front. If a vehicle in front is detected, it can
 
-When the system is deactivated, the distance indicator shows the distance to the car ahead and warns drivers when they are tailgating.
+System to brake or accelerate the vehicle within the system limits. Even in stop-and-go traffic and in
+The system brakes traffic jams to a standstill and can be automated again depending on the duration of the downtime
+approach.
 
-ACC also includes the Stop&Go function. In heavy traffic, it autonomously decelerates the car to a stop.
+Due to the large number of parameters involved, the adaptive speed assistant offers as much as possible
+comfortable driving in the range from 0 to a maximum of 200 km / h. The system uses radar sensors and a front camera and the ultrasonic sensors to permanently monitor the vehicle's surroundings.
 
-After a brief stop, it automatically resumes driving, following the vehicle ahead.
-
-After a longer stop (more than 12 seconds), the driver must tap the accelerator pedal or the control stalk on the steering column. 
-In addition to the radar sensors and front camera, ultrasonic sensors also monitor the vehicle’s immediate surroundings.
+The included speed limiter helps not to exceed a previously set maximum speed when driving manually. The speed limiter operation can be temporarily deactivated via kick-down and the set maximum speed is exceeded. The function is available from approx. 30 km / h
 
 ### (Predictive) efficiency assist
 
@@ -129,12 +128,15 @@ This system is based on the radar sensors of Audi side assist, which monitor the
 
 ### Cross traffic assist rear
 
+![Cross traffic assist rear](crosstrafficrear.jpg "Cross traffic assist rear")
+
 Cross traffic assist rear warns the driver of approaching vehicles it deems critical when slowly backing up, such as when pulling out of a perpendicular parking spot. It uses the rear radar sensors for this. They cover the zone at the rear, including the driving lanes to the left and right behind the vehicle. The warnings are progressive – initially a visual warning is shown in the MMI display (in the park assist display). The situation is represented in a virtual top view and in the “rear” and “rear side” camera views. Red arrows behind the vehicle point in the direction from which there is a potential hazard. If the driver does not react to the visual display, an audible signal sounds before the system warns the driver with a brake jolt. This helps to avoid accidents while exiting parking spaces.
 
 ### Audi pre sense rear
 
-Audi pre sense rear uses radar sensors in the rear bumper to detect an impending rear-end collision, and it initiates preventive safety measures. These include pretensioning the front seat belts by electric power and closing the windows and sliding sunroof. In addition, the system activates the hazard warning lights to alert following traffic to the critical situation. In this process, the Rear-end collision alert signal (RECAS) is triggered, which flashes the hazard warning lights at a high frequency. Audi pre sense rear is active in background over the car’s entire driving speed range with the exception of trailer towing situations.
+![Audi pre sense rear](audipresenserear.jpg "Audi pre sense rear")
 
+Audi pre sense rear uses radar sensors in the rear bumper to detect an impending rear-end collision, and it initiates preventive safety measures. These include pretensioning the front seat belts by electric power and closing the windows and sliding sunroof. In addition, the system activates the hazard warning lights to alert following traffic to the critical situation. In this process, the Rear-end collision alert signal (RECAS) is triggered, which flashes the hazard warning lights at a high frequency. Audi pre sense rear is active in background over the car’s entire driving speed range with the exception of trailer towing situations.
 
 ### Audi pre sense side
 
