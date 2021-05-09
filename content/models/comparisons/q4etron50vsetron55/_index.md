@@ -20,15 +20,23 @@ weight: 1
 | Max roof weight | 75kg | 75kg |
 | Ground clearance | 165/180mm | 152-248mm |
 | Max DC Chargin | 125 kW | 150 kW |
+| Length | | |
+| Width with mirrors | | |
 | Unladen weight without drive min trim | 2135kg | 2520kg |
 | Virtual Cockpit | Yes, option  | Yes, standard |
-| Virtual Cockpit screensize | 10.25"  |  |
-| Virtual Cockpit resolution |   |  |
+| Virtual Cockpit screensize | 10.25"  | 12.3" |
+| Virtual Cockpit resolution |  1,440 x 540 | 1,920 x 720  |
 | Audi MMI System | MMI touch | MMI Touch Response  |
 | MMI Navigation Plus | Yes, option | Yes, standard |
 | MMI main screen size | 10.1" (11.6" option) | 10.1" |
 | MMI main screen resolution | 1540 x 720 (1,764 x 824 option) | 1540 x 720  |
-| MMI secondary screen | | |
+| MMI secondary screen size | |8.6" |
+| MMI secondary screen resolution | | 1,280 x 660|
+| Night Vision | N/A | Yes, option |
+| Head up display | Yes, option | Yes, option |
+| Adaptive whipers | N/A | Yes, option |
+| Heated front window | Yes, option | N/A |
+| Heated steering wheel | Yes, option | Yes, option |
 
 
 {{% children description="true" depth="1" %}}
