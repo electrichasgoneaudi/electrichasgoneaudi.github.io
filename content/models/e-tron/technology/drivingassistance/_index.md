@@ -5,14 +5,15 @@ description: Audi e-tron serveral driving assistance systems.
 weight: 1
 ---
 
-
 ## Standard driver assistance
 
 The following driver assistance system are standard equipment
 
 ### Hold assist
 
-Hold assist enables convenient drive-offs when the car is on the usual inclines and descents of street traffic, and it prevents the vehicle from rolling. The system automatically switches over to the electromechanical parking brake when the car is stopped for a longer period of time while hold assist is activated. This ensures that the car will remain stationary even without activation of the parking brake. In conjunction with S tronic, after a stop at a traffic light, for instance, the car drives off as soon as the driver presses the accelerator pedal. The system is activated by pushing a button.
+Hold assist enables convenient drive-offs when the car is on the usual inclines and descents of street traffic, and it prevents the vehicle from rolling. The system automatically switches over to the electromechanical parking brake when the car is stopped for a longer period of time while hold assist is activated. This ensures that the car will remain stationary even without activation of the parking brake. After a stop at a traffic light, for instance, the car drives off as soon as the driver presses the accelerator pedal. The system is activated in MMI
+
+
 
 ### Audi pre sense basic
 
@@ -38,26 +39,42 @@ The configurable speed limiter limits driving speed to a value set by the driver
 
 The following driver assistance systems are part of the tour driver assistance package with option id **PCC**
 
+## Adaptive cruise assist
+
+The adaptive driving assistant is a combination of adaptive cruise control and lane guidance assistant.
+
+The adaptive driving assistant supports the driver in accelerating, braking, maintaining speed and distance
+as well as in lane guidance. 
+
+This can increase driving comfort, especially on long journeys. The system recognizes lane markings, side structures, vehicles in adjacent lanes and several vehicles in front within the framework of system limits. From this information, the system derives a virtual driving path and does it
+Vehicle in this.
+
+With an assisting steering intervention, the system helps to keep the vehicle permanently in the center of the lane. At the same time, the set speed is kept constant and the system reacts to vehicles in front with a distance control.
+
+Thanks to the large number of parameters involved, the adaptive driving assistant offers the most comfortable possible driving in the speed range from 0 to a maximum of 250 km / h and in traffic jams. The adaptive driver assistant uses the radar sensor installed in the front of the vehicle, the front camera and the ultrasonic sensors to permanently monitor the area around the vehicle. The system is also supported by a steering wheel with handle recognition in a specific steering wheel design
+
 ### Adaptive cruise control (with Stop&Go function)
 
 Adaptive cruise control (ACC) offers relief to drivers especially on long trips and in stop-and-go traffic. It maintains a preset distance to the vehicle ahead by automatically accelerating and braking.
 The driver can choose from five distance levels and adjust acceleration and control system dynamics with Audi drive select.
 
-The system uses radar sensors and a front camera. They detect vehicles ahead and measure the distance to them. 
+The system uses radar sensors and a front camera. They detect vehicles ahead and measure the distance to them.
 
-When the system is deactivated, the distance indicator shows the distance to the car ahead and warns drivers when they are tailgating. 
-
-Its operating speed range is 60 km/h (37.3 mph) and above.
+When the system is deactivated, the distance indicator shows the distance to the car ahead and warns drivers when they are tailgating.
 
 ACC also includes the Stop&Go function. In heavy traffic, it autonomously decelerates the car to a stop.
 
 After a brief stop, it automatically resumes driving, following the vehicle ahead.
 
-After a longer stop, the driver must tap the accelerator pedal or the control stalk on the steering column. In addition to the radar sensors and front camera, ultrasonic sensors also monitor the vehicle’s immediate surroundings.
+After a longer stop (more than 12 seconds), the driver must tap the accelerator pedal or the control stalk on the steering column. 
+In addition to the radar sensors and front camera, ultrasonic sensors also monitor the vehicle’s immediate surroundings.
 
 ### (Predictive) efficiency assist
 
-Efficiency assist helps the driver to drive preemptively and save fuel. The system works closely together with adaptive cruise control (ACC) or adaptive cruise assist (ACA). It accesses predictive route data from navigation and Car-to-X information. In order to detect traffic signs and other vehicles, the efficiency assist uses the front camera as well as data from the front and rear-facing radar sensors.
+![Predictive efficiency assist](predictiveefficient.jpg "Predictive efficiency assist")
+
+Efficiency assist helps the driver to drive preemptively and save energy. The system works closely together with adaptive cruise control (ACC) or adaptive cruise assist (ACA). It accesses predictive route data from navigation and Car-to-X information. 
+In order to detect traffic signs and other vehicles, the efficiency assist uses the front camera as well as data from the front and rear-facing radar sensors.
 
 The driver is shown corresponding information in the instrument cluster or in the Audi virtual cockpit and the head-up display as soon as it would be sensible to take the foot off the right-hand pedal. Symbols for speed limits, bends, roundabouts, towns, or downhill slopes that indicate to the driver to slow down are displayed on the basis of the route data and recognition of traffic signs. Depending on the model the gas pedal also pulses against the sole of the driver’s foot – a clear indication to take their foot off the gas.
 
@@ -66,6 +83,8 @@ If the cruise assist is switched on or the ACC is activated, efficiency assist r
 The driver can override the system at any time by accelerating and braking. In addition, drivers can individually activate, deactivate and configure many of their detailed functions in the MMI. Depending on the model, the control, for example, can be adapted to the course of the road in three stages: slow, medium or fast.
 
 ### Turn assist
+
+![Turn Assist](turnassist.jpg "Turn assist")
 
 Turn assist monitors the road lane with oncoming traffic by means of radar sensors, the front camera and, in certain models, a laser scanner. Monitoring is initiated as soon as the driver sets the turn signal. When driving off from a stop, or during slow driving up to a speed of 10 km/h (6.2 mph), the system can intervene by applying the brakes to prevent the car from colliding with an oncoming vehicle when turning left or right (country-dependent). This brake intervention keeps the vehicle within its own driving lane. The driver is informed of the intervention by an indicator in the instrument cluster.
 
