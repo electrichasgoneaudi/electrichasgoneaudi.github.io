@@ -6,6 +6,16 @@ weight: 4
 ---
 
 
+## Full body paint or with contrast paint
+
+The standard paint is with Manhatten grey as contrast color.
+
+![Audi Q4 ](paint_navarrablue_1.png "Audi Q4 Sportback 50 e-tron quattro in Navarra blue with contrast color")
+
+For glacier white, mythos black, pepple grey and navarra blue you can get full body paint
+
+![Audi Q4 ](paint_navarrablue_3.png "Audi Q4 Sportback 50 e-tron quattro in Navarra blue with full body paint")
+
 ## Optics
 
 There is 3 different optics to choose from
