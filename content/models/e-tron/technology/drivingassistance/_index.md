@@ -112,15 +112,21 @@ The following driver assistance system are part of the city assistance package w
 
 ### Audi pre sense front / Audi pre sense city
 
+![Pre sense front](presencefront.jpg "Audi pre sense front")
+
 Audi pre sense front and Audi pre sense city utilize the data of radar sensors and/or the front camera, depending on the car model, to compute the probability of a collision. Within the limitations of the system, it warns of collision threats and initiates braking at specific vehicle speeds. Vehicles are detected in the driving speed range of up to 250 km/h (155.3 mph), pedestrians up to around 65 km/h (40.4 mph) or 85 km/h (52.8 mph) depending on the model, as well as cyclists, depending on the system.
 
 If a collision is imminent, the system warns the driver with visual, acoustic and haptic warnings based on a multistage warning concept. If necessary, the system provides braking assistance to reduce vehicle speed or initiates a full brake application to avoid the collision under certain circumstances. Actions are also taken to protect occupants. The hazard warning lights are activated, the seat belts are reversibly pretensioned, the seat position is optimized, and the windows and optional panoramic glass sunroof are closed.
 
 ### Audi side assist
 
+![Audi side assist](audisideassist.jpg "Audi side assist")
+
 The Audi side assist lane-changing assistant helps the driver to change lanes at driving speeds of 15 km/h (9.3 mph) and faster. It uses two rear-mounted radar sensors with a scanning range of roughly 70 meters (229.7 ft). If the system detects a vehicle located in the blind spot or approaching quickly from the rear, a warning LED is lit in the housing of the relevant exterior mirror. If the driver activates the turn signal anyway, the LED flashes several times in rapid succession.
 
 ### Exit warning
+
+![Exit warning](exitwarning.jpg "Exit warning")
 
 Exit warning improves safety in city traffic. If the car has come to a stop and other vehicles or bicyclists classified as critical are approaching from the rear, the system warns passengers not to open the doors. The system does this using LED lights in the door panels. In a situation assessed to be hazardous, the LEDs flicker and light red. The LEDs of Audi side assist are also lit in the relevant exterior side mirror. The exit warning remains active for approximately three minutes after the ignition is turned off.
 
