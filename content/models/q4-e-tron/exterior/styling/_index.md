@@ -8,11 +8,11 @@ weight: 4
 
 ## Full body paint or with contrast paint
 
-The standard paint is with Manhatten grey as contrast color.
+The standard paint is with Manhatten grey as contrast color. Option code **FB5**
 
 ![Audi Q4 ](paint_navarrablue_1.png "Audi Q4 Sportback 50 e-tron quattro in Navarra blue with contrast color")
 
-For glacier white, mythos black, pepple grey and navarra blue you can get full body paint
+For glacier white, mythos black, pepple grey and navarra blue you can get full body paint. Option code **FB4**
 
 ![Audi Q4 ](paint_navarrablue_3.png "Audi Q4 Sportback 50 e-tron quattro in Navarra blue with full body paint")
 
@@ -44,7 +44,7 @@ Rails in black
 
 ### Black Optics
 
-The black optics package contains gloss black front, rails and window rims. 
+The black optics package contains gloss black front, rails and window rims. Option code **4ZD**
 
 ![Audi Q4 ](paint_glacierwhite_3.png "Audi Q4 Sportback 50 e-tron quattro in Glacier white with black optics")
 
