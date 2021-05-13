@@ -9,3 +9,11 @@ weight: 20
 
 {{< youtube 4ihZXQIlpRM >}}
 
+### Car Maniac: Audi Q4 e-tron: So fährt Audis ID.4 / So sieht er innen aus!
+
+{{< youtube VNkrSe-GrZI >}}
+
+### Car Maniac: Audi Q4 etron: Nicht in allem besser als ID.4 & Enyaq
+
+{{< youtube SIhw8g7gS5g >}}
+
