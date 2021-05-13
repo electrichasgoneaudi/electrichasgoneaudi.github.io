@@ -19,7 +19,7 @@ Audi pre sense basic initiates preventive safety measures for occupants as soon 
 
 ### Cruise control
 
-Cruise control maintains a desired driving speed constantly starting at around 30 km/h (18.6 mph) (model dependent), provided that it can be maintained by engine power and engine braking effects. The system offers relief to drivers in this way – especially on long trips. At the same time, the constant speed mode of driving contributes towards lower fuel consumption and lower CO2 emissions. The system is operated via a separate steering column stalk, and the preset driving speed is shown in the instrument cluster. The system is deactivated when the driver brakes. 
+Cruise control maintains a desired driving speed constantly starting at around 30 km/h (18.6 mph) (model dependent), provided that it can be maintained by engine power and engine braking effects. The system offers relief to drivers in this way – especially on long trips. At the same time, the constant speed mode of driving contributes towards lower fuel consumption and lower CO2 emissions. The system is operated via a separate steering column stalk, and the preset driving speed is shown in the instrument cluster. The system is deactivated when the driver brakes.
 
 ### Parking system plus
 
@@ -30,6 +30,8 @@ Parking system plus informs the driver, visually and audibly, about obstacles in
 ![Audi Active Lane assist](activelaneassist.jpg "Audi active lane assist")
 
 Operating at speeds from 65 km/h (40.4 mph), Audi active lane assist helps the driver keep the vehicle in the driving lane. A camera detects lane lines and the track that the car is following between them. In this process, the camera can distinguish between yellow lines in construction zones and standard white markings. If the car approaches a line without the turn signal being activated, the system helps the driver to steer back into the lane by means of gentle but noticeable interventions in the electromechanical power steering. In the MMI system, the driver sets how early the control intervention should occur. In the case of an early steering intervention point, the system guides the driver towards the middle of the lane by gentle, centering steering interventions. With a late steering intervention point, Audi active lane assist does not intervene until shortly before the detected lane marking might be crossed; then it gives a corrective steering intervention in the proper direction. In addition, the driver may choose to be warned by a vibration of the steering wheel when crossing detected lane markings.
+
+The Active Lane Assist can be disabled on the button at the end of the direction handle. It is not possible to permanent disable it.
 
 ### Speed limiter
 
@@ -68,6 +70,13 @@ comfortable driving in the range from 0 to a maximum of 200 km / h. The system u
 
 The included speed limiter helps not to exceed a previously set maximum speed when driving manually. The speed limiter operation can be temporarily deactivated via kick-down and the set maximum speed is exceeded. The function is available from approx. 30 km / h
 
+[Cruise control handle](cruisecontrol.jpg "The cruise control handle controls the function. ")
+
+You enable the cruise control with pressing the buttom at the end. Or you can resume earlier speed with pulling the lever.
+
+Speed is adjusted with pushing the lever up and down. You can control the distance to the car in front with the distance button.
+The lim button on top enable the speed limiter.
+
 ### (Predictive) efficiency assist
 
 ![Predictive efficiency assist](predictiveefficient.jpg "Predictive efficiency assist")
@@ -100,7 +109,6 @@ This is part of the tour package with option id PCC on Audi e-tron
 Camera-based traffic sign recognition detects traffic signs such as speed limit signs (including digital signs), no passing zones, entry restriction signs and other auxiliary signs, and it shows them to the driver in graphic form. They then appear in the driver information system and/or the Audi virtual cockpit as well as in the head-up display. The camera on the windshield also detects temporary speed restrictions such as in construction zones, as well as time- and weather-conditional restrictions. The system shows the currently applicable speed limit. For example, if a lower speed applies when the road is wet, this value is displayed – if the windshield wipers are on. Speed limits that are only in force at certain times of day are only shown at those times. In addition, the driver can choose a warning threshold as an offset to the legal speed limit. When this threshold is exceeded, a visual warning is given.
 
 To turn of that predictive driver assist should follow sign this can be disabled here  MMI - > Car - > Driver Assist - > Adative Cruise Assist ->  Predictive Control -> Use speed limit -> Off
-
 
 ### Emergency assist
 
