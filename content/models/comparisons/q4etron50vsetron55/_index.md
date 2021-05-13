@@ -20,7 +20,7 @@ weight: 1
 | Max roof weight | 75kg | 75kg |
 | Ground clearance | 165/180mm | 152-248mm |
 | Max DC Chargin | 125 kW | 150 kW |
-| Length | | |
+| Length |  | 4901mm|
 | Width with mirrors | | |
 | Unladen weight without drive min trim | 2135kg | 2520kg |
 | Virtual Cockpit | Yes, option  | Yes, standard |
@@ -32,13 +32,29 @@ weight: 1
 | MMI main screen resolution | 1540 x 720 (1,764 x 824 option) | 1540 x 720  |
 | MMI secondary screen size | |8.6" |
 | MMI secondary screen resolution | | 1,280 x 660|
-| Night Vision | N/A | Yes, option |
-| Head up display | Yes, option (AR) | Yes, option |
+| Audi Smartphone Interface | Yes, option | Yes, option |
 | Adaptive whipers | N/A | Yes, option |
 | Heated front window | Yes, option | N/A |
 | Heated steering wheel | Yes, option | Yes, option |
+| Cruise control | Yes, standard | Yes, standard |
+| Active Lane assist | Yes, standard | Yes, standard |
 | Adaptive cruise assist | Yes, option | Yes, option |
 | Adaptive Cruise control with speed limiter | Yes, option | Yes, option |
+| Pre Sense Basic | Yes, option | Yes, option |
+| Pre Sense front | Yes, standard | Yes, standard |
+| Pre Sense rear | Yes, option | Yes, option |
+| Pre Sense side | N/A | Yes, option |
+| Night Vision | N/A | Yes, option |
+| Head up display | Yes, option (AR) | Yes, option |
+| Speed limiter | Yes, standard | Yes, standard |
+| Park assist | N/A | Yes, option |
+| Cross traffic assist rear | Yes, option | Yes, option |
+| [Exit warning](/models/e-tron/technology/drivingassistance/#exit-warning) | Yes, option | Yes, option |
+| Collision avoidance assist | Yes, option | Yes, option |
+| Audi side assist | Yes, option | Yes, option |
+| 360 degree cameras | Yes, option | Yes, option |
+| Reversing camera | Yes, option | Yes, option |
+| Curb warning | N/A | Yes, option
 
 
 {{% children description="true" depth="1" %}}

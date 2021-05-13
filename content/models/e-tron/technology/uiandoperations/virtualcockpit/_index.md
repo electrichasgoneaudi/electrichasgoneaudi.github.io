@@ -9,7 +9,10 @@ weight: 2
 
 The display shows a wide range of information clearly and in neat, sharp, highly detailed graphics. It includes traditional speed, battery state, power bar figures as well as information on navigation, media and driver assistance systems. Fixed indicators are shown along the lower edge; they show the outside temperature, time and odometer readings as well as warning and information symbols. The image is refreshed 60 times per second so that the virtual needle of the rev counter tracks smoothly and very precisely.
 
+![View control](viewcontrol.jpg "Virtual cockpit view is controlled on the steering wheel")
+
 The driver can use the View button on the multifunction steering wheel to switch the Audi virtual cockpit between two views: While the tachometer and speedometer are displayed as large dial-type gages in driving view, a central window dominates in infotainment view. It creates a large stage for the navigation map or for lists in the phone, radio and audio areas. In this case, the tachometer and speedometer are displayed as small dial instruments.
+
 
 ## Virtual cockpit plus
 
@@ -33,6 +36,8 @@ Below you see some of the mode and views available in Virtual Cockpit
 ![Virtual cockpit](view_standard_1.png " Virtual Cockpit standard mode - Nightvision")
 
 ![Virtual cockpit](view_standard_2.png "Virtual Cockpit standard mode infotainment view - Navigation with Google maps")
+
+
 
 
 {{% children description="true" depth="1" %}}

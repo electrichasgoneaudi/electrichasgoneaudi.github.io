@@ -11,15 +11,25 @@ The following driver assistance system are standard equipment on Audi e-tron
 
 ### Hold assist
 
-Hold assist enables convenient drive-offs when the car is on the usual inclines and descents of street traffic, and it prevents the vehicle from rolling. The system automatically switches over to the electromechanical parking brake when the car is stopped for a longer period of time while hold assist is activated. This ensures that the car will remain stationary even without activation of the parking brake. After a stop at a traffic light, for instance, the car drives off as soon as the driver presses the accelerator pedal. The system is activated in MMI
+![Hold Assist](holdassist.jpg "Hold assist helps for hill starting")
+
+Hold assist enables convenient drive-offs when the car is on the usual inclines and descents of street traffic, and it prevents the vehicle from rolling. The system automatically switches over to the electromechanical parking brake when the car is stopped for a longer period of time while hold assist is activated. This ensures that the car will remain stationary even without activation of the parking brake. After a stop at a traffic light, for instance, the car drives off as soon as the driver presses the accelerator pedal. The system is activated in MMI in the following menu.
+
+MMI -> Car - > Setting & Service -> Hold assist -> on/off
 
 ### Audi pre sense basic
+
+![Audi pre sense basic](presensebasic.jpg "As soon as Audi pre sense basic recognizes a critical driving state, the system pretensions the seat belts of the driver and front passenger electrically." )
 
 Audi pre sense basic initiates preventive safety measures for occupants as soon as it recognizes a critical driving state. It utilizes information from various vehicle systems to determine this. For instance, it intervenes if the Electronic Stabilization Control (ESC) sensors detect skidding or hard braking. Then the system pretensions the seat belts of the driver and front passenger electrically to reduce their forward or lateral movements. The side windows and sliding sunroof are automatically closed. In addition, the hazard warning lights are activated to alert following traffic.
 
 ### Cruise control
 
+![Cruise control](cruisecontrol.jpg "Cruise control stalk")
+
 Cruise control maintains a desired driving speed constantly starting at around 30 km/h (18.6 mph) (model dependent), provided that it can be maintained by engine power and engine braking effects. The system offers relief to drivers in this way – especially on long trips. At the same time, the constant speed mode of driving contributes towards lower fuel consumption and lower CO2 emissions. The system is operated via a separate steering column stalk, and the preset driving speed is shown in the instrument cluster. The system is deactivated when the driver brakes.
+
+See also Adaptive Cruise Control below.
 
 ### Parking system plus
 
