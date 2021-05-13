@@ -33,10 +33,12 @@ weight: 1
 | MMI secondary screen size | |8.6" |
 | MMI secondary screen resolution | | 1,280 x 660|
 | Night Vision | N/A | Yes, option |
-| Head up display | Yes, option | Yes, option |
+| Head up display | Yes, option (AR) | Yes, option |
 | Adaptive whipers | N/A | Yes, option |
 | Heated front window | Yes, option | N/A |
 | Heated steering wheel | Yes, option | Yes, option |
+| Adaptive cruise assist | Yes, option | Yes, option |
+| Adaptive Cruise control with speed limiter | Yes, option | Yes, option |
 
 
 {{% children description="true" depth="1" %}}

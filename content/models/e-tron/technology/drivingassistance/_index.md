@@ -70,7 +70,7 @@ comfortable driving in the range from 0 to a maximum of 200 km / h. The system u
 
 The included speed limiter helps not to exceed a previously set maximum speed when driving manually. The speed limiter operation can be temporarily deactivated via kick-down and the set maximum speed is exceeded. The function is available from approx. 30 km / h
 
-[Cruise control handle](cruisecontrol.jpg "The cruise control handle controls the function. ")
+![Cruise control handle](cruisecontrol.jpg "The cruise control handle controls the function. ")
 
 You enable the cruise control with pressing the buttom at the end. Or you can resume earlier speed with pulling the lever.
 
@@ -85,6 +85,8 @@ Efficiency assist helps the driver to drive preemptively and save energy. The sy
 In order to detect traffic signs and other vehicles, the efficiency assist uses the front camera as well as data from the front and rear-facing radar sensors.
 
 The driver is shown corresponding information in the instrument cluster or in the Audi virtual cockpit and the head-up display as soon as it would be sensible to take the foot off the right-hand pedal. Symbols for speed limits, bends, roundabouts, towns, or downhill slopes that indicate to the driver to slow down are displayed on the basis of the route data and recognition of traffic signs. Depending on the model the gas pedal also pulses against the sole of the driver’s foot – a clear indication to take their foot off the gas.
+
+![Efficiency](efficientsymboletron.jpg "e-tron virtual cockpit with symbol showing to lift the right foot")
 
 If the cruise assist is switched on or the ACC is activated, efficiency assist regulates actively. It decelerates and accelerates predictively and adapts the speed to the course of the road and the traffic situation, also taking vehicles driving in front into account. If the driver so wishes, the system controls the freewheeling and coasting operation of the engine in cooperation with other control units. The predictive system always maintains a driving style that reflects the driving program selected – from efficient to sporty – and uses scope for recuperation in the Audi e-tron.
 
