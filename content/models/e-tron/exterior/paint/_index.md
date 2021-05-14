@@ -37,7 +37,7 @@ This has option **VJ1** and is standard on S-line and S exterior trim.
 
 ![full body](fullbodycolor.jpg "Glachier white with full body color")
 
-![full body](fullbodycolor2.jpg "Glachier white with full body color")
+![full body](fullbodycolor2.png "Glachier white with full body color")
 
 ![full body](fullbodycolor3.jpg "Glachier white with full body color")
 
