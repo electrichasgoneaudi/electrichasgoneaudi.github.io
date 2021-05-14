@@ -15,6 +15,14 @@ With an assisting steering intervention, the system helps to keep the vehicle pe
 
 Thanks to the large number of parameters involved, the adaptive driving assistant offers the most comfortable possible driving in the speed range from 0 to a maximum of 250 km / h and in traffic jams. The adaptive driver assistant uses the radar sensor installed in the front of the vehicle, the front camera and the ultrasonic sensors to permanently monitor the area around the vehicle. The system is also supported by a steering wheel with handle recognition in a specific steering wheel design
 
+The below animation show a video of how this work on a Audi A6.
+
+{{< youtube GhozvVWhkHI >}}
+
+The below video show a test of this system
+
+{{< youtube vjsfMmJ4AiM>}}
+
 This option is part of the tour driver assistance package with option id **PCC**
 
 {{% children description="true" depth="1" %}}
