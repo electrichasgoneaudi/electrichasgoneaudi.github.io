@@ -1,0 +1,20 @@
+---
+title: Optics
+linktitle: Optics
+description: The black optics package contains gloss black front, rails and window rims. 
+weight: 4
+---
+
+![Standard optics - Florett Silver](standardoptics_florett.png "Standard optics - Florett Silver")
+
+![Standard optics - Florett Silver](blackoptics_florett.png "Black optics - Florett Silver")
+
+![Standard optics - Florett Silver](standardoptics_florett_sline.png "Standard optics - Florett Silver S-line")
+
+![Standard optics - Florett Silver](blackoptics_florett_sline.png "Black optics - Florett Silver S-line")
+
+![Standard optics - Florett Silver](standaroptics_side.png "Standard optics - Florett Silver")
+
+![Standard optics - Florett Silver](blackoptics_side.png "Black optics - Florett Silver")
+
+{{% children description="true" depth="1" %}}
