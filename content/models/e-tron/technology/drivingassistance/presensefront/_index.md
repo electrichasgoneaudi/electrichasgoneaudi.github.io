@@ -1,6 +1,6 @@
 ---
 title: Audi pre sense front / Audi pre sense city
-linktitle: Pre sense fron
+linktitle: Pre sense front
 description: Audi pre sense front and Audi pre sense city utilize the data of radar sensors and/or the front camera, depending on the car model, to compute the probability of a collision. Within the limitations of the system, it warns of collision threats and initiates braking at specific vehicle speeds.
 weight: 1
 ---

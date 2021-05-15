@@ -11,6 +11,7 @@ weight: 1
 | ----------- | ----------- |----------- |
 | Peal electrical output in KW (hp) | 220(299) | 265(355) |
 | Peak electrical output boost in kW (hp) | N/A | 300 (402) |
+| Drive | Quattro | Quattro |
 | Net battery | 77kWh | 86.5kWh |
 | WLTP Range basic trim | 488km | 441km |
 | Calculated consumption basic trim | 15.8 kWh/100km | 19.6 kWh/100km |
@@ -36,6 +37,7 @@ weight: 1
 | Adaptive whipers | N/A | Yes, option |
 | Heated front window | Yes, option | N/A |
 | Heated steering wheel | Yes, option | Yes, option |
+| Rear window curtains | N/A | Yes, option |
 | Cruise control | Yes, standard | Yes, standard |
 | Active Lane assist | Yes, standard | Yes, standard |
 | Adaptive cruise assist | Yes, option | Yes, option |
@@ -54,7 +56,6 @@ weight: 1
 | Audi side assist | Yes, option | Yes, option |
 | 360 degree cameras | Yes, option | Yes, option |
 | Reversing camera | Yes, option | Yes, option |
-| Curb warning | N/A | Yes, option
-
+| Curb warning | Yes, option | Yes, option
 
 {{% children description="true" depth="1" %}}
