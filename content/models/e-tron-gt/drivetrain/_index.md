@@ -7,7 +7,8 @@ weight: 6
 
 ![Drivetrain](drivetrain.jpg "Audi e-tron GT drivetrain")
 
-Below you find details about the most important components of that drivetrain.
+![Drivetrain](drivetrain2.jpg "Audi e-tron GT drivetrain")
 
+Below you find details about the most important components of that drivetrain.
 
 {{% children description="true" depth="1" %}}
