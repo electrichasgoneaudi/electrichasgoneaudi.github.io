@@ -22,8 +22,12 @@ weight: 1
 | Ground clearance | 165/180mm | 152-248mm |
 | Max DC Chargin | 125 kW | 150 kW |
 | Length | 4588mm | 4901mm|
-| Width with mirrors | 2108mm | |
+| Width with mirrors | 2108mm | 2189mm |
 | Unladen weight without drive min trim | 2135kg | 2520kg |
+| Standard wheels front | 235/55-R19 | 255/55-R19 |
+| Standard wheels rear | 255/50-R19 | 255/55-R19 |
+| Optional wheels front | 235/50-R20, 235/45-R21 | 255/55-R20, 265/45-R21, 265/40-R22 |
+| Optional wheels rear | 255/45-R20,255/40-R21 | 255/55-R20, 265/45-R21, 265/40-R22  |
 | Virtual Cockpit | Yes, option  | Yes, standard |
 | Virtual Cockpit screensize | 10.25"  | 12.3" |
 | Virtual Cockpit resolution |  1,440 x 540 | 1,920 x 720  |
@@ -31,12 +35,16 @@ weight: 1
 | MMI Navigation Plus | Yes, option | Yes, standard |
 | MMI main screen size | 10.1" (11.6" option) | 10.1" |
 | MMI main screen resolution | 1540 x 720 (1,764 x 824 option) | 1540 x 720  |
-| MMI secondary screen size | |8.6" |
-| MMI secondary screen resolution | | 1,280 x 660|
+| MMI secondary screen size | ? |8.6" |
+| MMI secondary screen resolution | ? | 1,280 x 660|
 | Audi Smartphone Interface | Yes, option | Yes, option |
 | Adaptive whipers | N/A | Yes, option |
 | Heated front window | Yes, option | N/A |
 | Heated steering wheel | Yes, option | Yes, option |
+| Heated front seats | Yes, option | Yes, option |
+| Heated rear seats | N/A | Yes, option |
+| Air Condition | Yes, standard | Yes, standard |
+| A/C zones | 2 (3 optional) | 2 (4 optional) |
 | Rear window curtains | N/A | Yes, option |
 | Cruise control | Yes, standard | Yes, standard |
 | Active Lane assist | Yes, standard | Yes, standard |
