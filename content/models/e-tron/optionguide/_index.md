@@ -23,7 +23,7 @@ Improves looks a lot and you dont need to drive around in a fish tank on display
 
 ## Tour package: Option ID PCC
 
-The tour package contains most of the important driver assist functionality  like [Adaptive Cruise Assist](/models/e-tron/technology/drivingassistance/adaptivecruiseassist/), [Adaptive Cruise Control](/models/e-tron/technology/drivingassistance/adaptivecruisecontrol/),  [Predictive efficiency assist](/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/), [Turn Assist](/models/e-tron/technology/drivingassistance/turnassist/)
+The tour package contains most of the important driver assist functionality  like [Adaptive Cruise Assist](/models/e-tron/technology/drivingassistance/adaptivecruiseassist/), [Adaptive Cruise Control](/models/e-tron/technology/drivingassistance/adaptivecruisecontrol/),  [Predictive efficiency assist](/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/), [Turn Assist](/models/e-tron/technology/drivingassistance/turnassist/), [Collision avoidance assist](/models/e-tron/technology/drivingassistance/collisionavoidanceassist/), [Traffic sign recognition](/models/e-tron/technology/drivingassistance/trafficsignrecognition/), [Emergency Assist](/models/e-tron/technology/drivingassistance/emergencyassist/)
 
 ## Side assist package PCH / City package PCM
 

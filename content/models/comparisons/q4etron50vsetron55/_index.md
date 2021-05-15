@@ -21,8 +21,8 @@ weight: 1
 | Max roof weight | 75kg | 75kg |
 | Ground clearance | 165/180mm | 152-248mm |
 | Max DC Chargin | 125 kW | 150 kW |
-| Length |  | 4901mm|
-| Width with mirrors | | |
+| Length | 4588mm | 4901mm|
+| Width with mirrors | 2108mm | |
 | Unladen weight without drive min trim | 2135kg | 2520kg |
 | Virtual Cockpit | Yes, option  | Yes, standard |
 | Virtual Cockpit screensize | 10.25"  | 12.3" |

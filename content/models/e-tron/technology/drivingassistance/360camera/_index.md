@@ -13,4 +13,6 @@ An additional feature for some models is a virtual 3D view. The driver can use t
 
 ![3dview](camera3d.jpg "3D view")
 
+360 camera has option id **PCZ**
+
 {{% children description="true" depth="1" %}}
