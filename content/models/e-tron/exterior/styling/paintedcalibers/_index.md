@@ -16,6 +16,6 @@ The color code in different formats are.
 - Lab 63 49 64
 - CMYK 0 70 98 0
 - HSB 22 86 95
-- NCS S5070 Y50R
+- NCS S1080 Y50R
 
 {{% children description="true" depth="1" %}}
