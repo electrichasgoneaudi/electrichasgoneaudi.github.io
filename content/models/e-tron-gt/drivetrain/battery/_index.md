@@ -1,11 +1,16 @@
 ---
 title: Audi e-tron GT battery
 linktitle: Battery
-description: Audi e-tron GT / RS e-tron GT have the samme type of battery
+description: The lithium-ion battery system of the Audi e-tron GT quattro and the RS e-tron GT can store 83,7 kWh of energy net (93,400 kWh gross).
 weight: 7
 ---
+ It integrates 33 cell modules, each of which comprises 12 pouch cells with flexible outer skin. Each module is fitted with its own computer that monitors the temperature and voltage. The unusually high system voltage of approx. 800 volts enables a powerful continuous output and shortens the charging duration; in addition, it reduces the weight of, and space required by, the wiring.
 
-The battery for Audi e-tron and RS e-tron GT is totally on 93.4kWh. It has totally 33 modules with 12 cells each that gives totally 396 cells.
+The battery system is located beneath the passenger compartment, at the lowest point of the car. This, in combination with the electric motors, provides a low center of gravity appropriate for a sports car and a weight distribution between the front and rear axles that is very close to the ideal value of 50:50.
+
+![Foot garage](battery5.jpg "Battery with foot garage for rear passengers")
+
+ Thirty modules form the lower level of the battery that features a wide recess in the rear section. It creates space for the rear passengers’ feet, which allows them to sit in a low position and also enables the flat vehicle silhouette. The upper “floor” contains three further modules situated below the rear seats. The connections, fuses, and the main control unit are located under the console of the center tunnel. The bottom of the battery is protected by an aluminium plate.
 
 ## Cell technology
 
