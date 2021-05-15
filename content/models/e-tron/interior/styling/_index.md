@@ -11,5 +11,4 @@ weight: 3
 
 ![Glas buttons](glasbuttons.png "Glas buttons")
 
-
 {{% children description="true" depth="1" %}}
