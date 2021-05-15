@@ -1,11 +1,9 @@
 ---
-title: Audi e-tron interior styling
-linktitle: Styling
-description: Audi e-tron have serveral interior styling options
+title: Button styles
+linktitle: Buttons
+description: You can order the e-tron with different button styles
 weight: 3
 ---
-
-## Glas buttons
 
 ![Glas buttons](standardbuttons.png "Standard buttons")
 
