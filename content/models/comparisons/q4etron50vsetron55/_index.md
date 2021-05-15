@@ -57,5 +57,6 @@ weight: 1
 | 360 degree cameras | Yes, option | Yes, option |
 | Reversing camera | Yes, option | Yes, option |
 | Curb warning | Yes, option | Yes, option
+| Crossing assist | N/A | Yes, option |
 
 {{% children description="true" depth="1" %}}

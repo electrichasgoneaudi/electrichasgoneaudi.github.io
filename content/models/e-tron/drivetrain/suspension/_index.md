@@ -39,12 +39,14 @@ the ride height is raised by 13 mm to the ride height previously set. If the spe
 
 ## Lowering the car
 
-Even you can adjust the ride height, some want it even lower. Here are some examples on cars lowered with lowering links
+Even you can adjust the ride height, some want it even lower. Here are some examples on cars lowered with lowering links or software adjustment.
 
 ![Lowered car](lowering1.jpg "Lowered e-tron with 3 cm")
 
 ![Lowered car](lowering2.jpg "Lowered e-tron with 3 cm")
 
 ![Lowered car](lowering3.jpg "Lowered e-tron in Show mode")
+
+![Lowered car](lowering4.jpg "Lowered e-tron with 3 cm ")
 
 {{% children description="true" depth="1" %}}
