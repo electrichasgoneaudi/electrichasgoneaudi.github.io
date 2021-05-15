@@ -24,7 +24,6 @@ The following inlays are available
 
 ![Glas buttons](inlays_aluminium.png "Valnut Inlay option 5TG")
 
-
 ## Ambient lights
 
 You can add ambient lights to the car. There are two options.
