@@ -5,11 +5,32 @@ description: All you ever need to know about battery technology used in electric
 weight: 2
 ---
 
-TODO :-(
-
+**WORK IN PROGRESS**
 
 ## Cell technology
 
+Audi does not produce their own cells. Below you find the different cells used in the different models.
+
+Not all details are open available. If you have info to add, make changes to this page through a pull request.
+
+### LG Chem LGX N2.1
+
+This cell type is used on Audi e-tron 55 and Audi e-tron S.
+|Spec | Value |
+|-----|------|
+| Manufacturer | LG Chem |
+| Model | LGX N2.1 |
+| Nominal Capacity |60 Ah |
+| Nominal Voltage | 3,666666 V |
+| Nominal energy | 219,907 Wh |
+| Thickness|  16,5 mm |
+| Width | 100 mm |
+| Height | 330 mm |
+| Volume | 0,544500 |
+| Weight | 820 g |
+| Volumetric Energy Density | 403 Wh/L |
+| Gravimetric Energy Density | 268 Wh/kg |
+| Chemistry | [NCM 622](https://en.wikipedia.org/wiki/Lithium-ion_battery) |
 
 ### LG Chem LGX E78
 
@@ -19,8 +40,8 @@ This cell type is used on Audi Q4 e-tron.
 |-----|-----|
 | Manufacturer |  LG Chem |
 | Model | LGX E78 |
-| Voltage | 3,65 V |
-| Capacity | 78 Ah |
+| Nominal Capacity | 78 Ah |
+| Nominal Voltage | 3,65 V |
 | Weight | 1.073 g |
 | Gravimetric energy density | 265 Wh/kg |
 | Chemistry | NCM 712 |
@@ -31,6 +52,8 @@ This cell type is used on Audi e-tron GT and Audi RS e-tron GT
 
 |Spec | Value |
 |-----|------|
+| Manufacturer | LG Chem |
+| Model | E66A |
 | Nominal Capacity |64.6 Ah |
 | Minimum Capacity | 63,5 Ah |
 | Nominal Voltage | 3,651515 V |
@@ -41,8 +64,32 @@ This cell type is used on Audi e-tron GT and Audi RS e-tron GT
 | Height | 350 mm |
 | Volume | 0,425880 |
 | Weight | 897 g |
-| Volumetric Energy Density | 648 Wh/L |
+| Volumetric Energy Density | 553 Wh/L |
 | Gravimetric Energy Density | 263 Wh/kg |
 | Chemistry | [NCM 712](https://en.wikipedia.org/wiki/Lithium-ion_battery) |
+
+
+
+## Battery configuration
+
+
+|  | Cell type | Cells | Modules | Voltage | Cell config | Gross cap |
+|-----|------|-----|-----|------|-----|-----|
+| e-tron 55 | LGXN2.1 | 432 | 36 | 396 | 108s4p | 95 kWh |
+| e-tron 55*3 | Samsung | 432 | 36 | 396 | 108s4p | 95 kWh |
+| e-tron 50 | Samsung | 324 | 27 | 396 | 108s3p | 71 kWh |
+| e-tron GT | E66A | 396 | 33 | 723 | 196s2p | 93.4 kWh |
+| RS e-tron GT | E66A | 396 | 33 | 723 | 196s2p | 93.4kWh |
+| Q4 e-tron 50 |LGX E78 | 288 | 12 | 350 |96s3p | 82 kWh |
+| Q4 e-tron 40 |LGX E78 | 288 | 12 | 350 |96s3p | 82 kWh |
+| Q4 e-tron 35 | LGX E78|  196 | 9 | 350 | 96s2p | 55 kWh |
+| Q6 e-tron *1 | LGX E78?|  392? | 16? | 700? | 192s2p? | 110 kWh? |
+| A6 e-tron *2 | LGX E78?|  392? | 16? | 700? | 192s2p? | 110 kWh? |
+
+*1 Audi Q6 details is not yet confirmed.
+
+*2 Audi A6 details is not yet confirmed.
+
+*3 From January 2021 there is some unconfirmed changes that Audi uses Samsung
 
 {{% children description="true" depth="1" %}}

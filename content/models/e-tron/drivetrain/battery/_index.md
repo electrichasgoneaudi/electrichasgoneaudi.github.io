@@ -5,34 +5,55 @@ description: Audi e-tron have two different variants of the battery
 weight: 7
 ---
 
-
-
-### Battery Audi e-tron 55
+## Battery Audi e-tron 55
 
 The battery for Audi e-tron is totally on 95kWh and 396 volt and have the part number  1 AX2
-It has totally 36 modules with 12 cells each that gives totally 432 cells. 
+It has totally 36 modules with 12 cells each that gives totally 432 cells.
 
-The cell type is [LG Pouch Cell](https://www.youtube.com/watch?v=Q2Lczd7MjGc) produced in [Poland](https://www.google.no/maps/search/lg+chem+poland/@51.0183429,16.8906359,995m/data=!3m1!1e3). It is based on [NMC 622 technology](https://en.wikipedia.org/wiki/Lithium-ion_battery)
+### Cell technology
+
+The cell used is LG Chem E66A. The cell type is [LG Pouch Cell](https://www.youtube.com/watch?v=Q2Lczd7MjGc) produced in [Poland](https://www.google.no/maps/search/lg+chem+poland/@51.0183429,16.8906359,995m/data=!3m1!1e3).
+
+|Spec | Value |
+|-----|------|
+| Producer | LG Chem |
+| Model | LGX N2.1 |
+| Nominal Capacity |60 Ah |
+| Nominal Voltage | 3,666666 V |
+| Nominal energy | 219,907 Wh |
+| Thickness|  16,5 mm |
+| Width | 100 mm |
+| Height | 330 mm |
+| Volume | 0,544500 |
+| Weight | 820 g |
+| Volumetric Energy Density | 403 Wh/L |
+| Gravimetric Energy Density | 268 Wh/kg |
+| Chemistry | [NCM 622](https://en.wikipedia.org/wiki/Lithium-ion_battery) |
+
+![Audi](lgchenx21.jpg "LGX N2.1 60AH pouch cell from LG Chem")
 
 **UPDATE AUGUST 2020: AUDI has from [August 2020 started using Samung Prismatic cells also in some E-55](https://www.electrive.net/2020/07/23/audi-chef-duesmann-sieht-batterie-probleme-beim-e-tron-als-geloest/). Currently we dont how this will affect performance**
 
-![bilde](https://user-images.githubusercontent.com/59776765/73131107-48e1e780-4005-11ea-997a-bbfe2f618a44.png)
+**Update January 2021: All deliveries was halted some weeks for recertification of battery because of changes. This might be the transformation to Samsung SDI. Yet
+to be confirmed**
+
+### Battery pack capacity
+
+Each cell is on 60ah and is 3.666666 nominal volt
+In each module the cells are grouped in 4 cells. The cells are coupled in paralell
+giving it 60ah + 60ah + 60ah + 60ah = 240ah capacitance.
+
+The 3 groups with 4 cells are then coupled in serial. Giving it 3.66V + 3.66V + 3,66 volt giving it 11 nominal voltage for each module.
+
+The total nominal voltage is 11 * 36 = 396 volt
+
+396 volt * 240ah = 95.040 kWh capacitiy.
 
 Each module weighs aprox 13kg.
 
 ![bilde](https://user-images.githubusercontent.com/59776765/73131003-90677400-4003-11ea-982c-33dba97a84bc.png)
 
-Each cell is on 60ah and is 3.67 volt
-In each module the cells are grouped in 4 cells. The cells are coupled in paralell
-giving it 60ah + 60ah + 60ah + 60ah = 240ah capacitance.
-
-The 3 groups with 4 cells are then coupled in serial. Giving it 3.66V + 3.66V + 3,66 volt giving it 11 volt for each module
-
 ![bilde](https://user-images.githubusercontent.com/59776765/73913087-6d1baf00-48b6-11ea-9f24-6d5fc9c95e17.png)
-
-11 volt * 240ah * 36 cells = 95.040 kWh capacitiy. 
-
-36 modules a 11 volt is then coupled in serial giving it 396 volt in total.
 
 Total battery weight is 1532.2lb (699,99 kg)
 
@@ -44,6 +65,10 @@ Max charging speed is 150kW.
 ![bilde](https://user-images.githubusercontent.com/59776765/91096009-9b4bbb00-e65d-11ea-8ccf-0fd968ace518.png)
 
 [Diagramm from FASTNED](https://support.fastned.nl/hc/en-gb/articles/360000815988-Charging-with-an-Audi-e-tron)
+
+
+
+### Battery housing
 
 ![bilde](https://user-images.githubusercontent.com/59776765/73116898-731ca200-3f3e-11ea-8e2f-60f522415534.png)
 
