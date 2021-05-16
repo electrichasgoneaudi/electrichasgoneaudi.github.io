@@ -37,6 +37,7 @@ The Q4 35 e-tron battery consist of 8 battery modules with 12 cells in each modu
 | Voltage | 350 V |
 | Total cell weight | 206 kg |
 | TMS | active liquid cooling |
+| Pack weight | 344kg |
 
 ![Q4 35 e-tron battery](q4etron35battery.jpg "Q4 35 e-tron battery")
 
@@ -53,6 +54,8 @@ The Q4 35 e-tron battery consist of 8 battery modules with 12 cells in each modu
 | Voltage | 350 V |
 | Total cell weight | 309 kg |
 | TMS | active liquid cooling |
+| Pack weight | 493kg |
+| Pack density wH/kg | 166 |
 
 ![Q4 35 e-tron battery](q4etron40battery.jpg "Q4 40 e-tron / Q4 50 e-tron battery")
 
