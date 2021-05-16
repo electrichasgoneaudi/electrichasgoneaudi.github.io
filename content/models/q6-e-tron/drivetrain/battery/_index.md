@@ -1,12 +1,12 @@
 ---
-title: Audi A6 e-tron battery
+title: Audi Q6 e-tron battery
 linktitle: Battery
-description: The lithium-ion battery system of the Audi A6 e-tron can store more than 100 kWh of energy and uses 800 volt system.
+description: The lithium-ion battery system of the Audi Q6 e-tron can store more than 100 kWh of energy and uses 800 volt system.
 weight: 7
 ---
 
-That is the only fact what we now at current time. There is no clear information if the 100kWh is net or gross, but based on the range stated for A6 the assumption
-is that it is net.
+That is the only fact what we now at current time. There is no clear information if the 100kWh is net or gross, but based on the range stated for A6 e-tron the assumption
+is that it is net. It would be almost impossible to reach 700km range on a 100kWh gross battery.
 
 Below you find some possible setups based on this information and the fact that Audi/Porsche/Wolkswagen use LC Chem on many other models.
 
@@ -33,7 +33,9 @@ If you use LG Chem E78X on the same configuration you get.
 
 On the MEB platform the setup is 96s2p or 96s3p.  If you assume that Audi/Porsche does want to double it so it goes for 192s2p to get 800 volt you get.
 
-78Ah x 2 x 3,65Volt x 192 = 112.74 kWh Gross. This would mean a net capacity on 100-106kWh depending on the buffers that Audi/Porsche want to enforce.
+78Ah x 2 x 3,65Volt x 192 = 109.34 kWh Gross. This would mean a net capacity on 100-104kWh depending on the buffers that Audi/Porsche want to enforce.
+
+Based on the Q4 weight of the battery pack (493kg on 82kWh) the pack weight would be around 680kg. Litte less than current e-tron 55 pack.
 
 ## 800 Volt with LG Chem E66A
 
