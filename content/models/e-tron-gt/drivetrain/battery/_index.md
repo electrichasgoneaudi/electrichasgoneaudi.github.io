@@ -79,6 +79,8 @@ The standard equipment of the e-tron GT includes a heat pump that heats the inte
 
 The charging flaps of the gran turismo are located behind the front wheels. Both sides feature connections for alternating current (AC) and there is also a connection for direct current (DC) on the right-hand side. The Audi e-tron GT is delivered to its customers with two charging cables as standard: one mode 3 cable for public AC terminals and the charging system compact for the garage. The e-tron GT can charge with 11 kW AC as standard, which allows it to recharge an empty battery overnight. An optional onboard charger for 22 kW is available.
 
+![Charging](charging.jpg "Audi e-tron GT chan charge with up to 270kW")
+
 At a direct current terminal with a voltage of 800 V, for example in the European freeway network from Ionity, the Audi e-tron GT achieves a peak charging capacity of up to 270 kW. This allows it to recharge energy for up to 100 kilometers (62.1 mi) in just over five minutes, and charging from five to 80 percent SoC (state of charge) takes less than 22.5 minutes under ideal conditions. The driver can restrict the charging target in the MMI operating system, for example if the rate appears too high.
 
 {{% children description="true" depth="1" %}}

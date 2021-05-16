@@ -32,5 +32,4 @@ In Shanghai Auto 2021 a [new concept was shown](https://www.motor1.com/photo/576
 
 ![Shanghai concept](shanghaiq2.jpg "Shanghai concept")
 
-
 {{% children description="true" depth="1" %}}
