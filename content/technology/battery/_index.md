@@ -89,4 +89,17 @@ This cell type is used on Audi e-tron GT and Audi RS e-tron GT
 
 *3 From January 2021 there is some unconfirmed changes that Audi uses Samsung
 
+## Battery pack performance
+
+|  | Gross capacity | Net capacity | Max DC Charging | Weight | kWh/kg |
+|-----|------|-----|-----|------|-----|-----|
+| [e-tron 55](/models/e-tron/drivetrain/battery/#battery-audi-e-tron-55) | 95kWh | 86.5kWh | 150kW | 699kg | 0.136 |
+| [e-tron 55*3](/models/e-tron/drivetrain/battery/#battery-audi-e-tron-55) | 95kWh | 86.5kWh | 150kW | 699kg | 0.136 |
+| [e-tron 50](/models/e-tron/drivetrain/battery/#battery-audi-e-tron-50) | 71kWh | 64.7kWh | 125kW | 580 | 0.122 |
+| [e-tron GT](/models/e-tron-gt/drivetrain/battery/) | 93.4kWh | 83.7kWh | 270kW | 630kg | 0.148 |
+| [RS e-tron GT](/models/e-tron-gt/drivetrain/battery/) | 93.4kWh | 83.7kWh | 270kW | 630kg | 0.148 |
+| [Q4 e-tron 50](/models/q4-e-tron/drivetrain/battery/#battery-q4-40-e-tron-and-q4-50-e-tron) | 82kWh | 77kWh | 125kW | 493kg | 0.188 |
+| [Q4 e-tron 40](/models/q4-e-tron/drivetrain/battery/#battery-q4-40-e-tron-and-q4-50-e-tron) | 82kWh | 77kWh | 125kW | 493kg | 0.188 |
+| [Q4 e-tron 35](/models/q4-e-tron/drivetrain/battery/#battery-q4-35) | 55kWh | 52kWh | 100kW | 344kg | 0.160 |
+
 {{% children description="true" depth="1" %}}
