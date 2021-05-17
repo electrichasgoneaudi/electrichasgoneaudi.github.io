@@ -9,8 +9,8 @@ weight: 1
 
 | Specification      | Q4 50 e-tron quattro | e-tron quattro 55|
 | ----------- | ----------- |----------- |
-| Peak electrical output in KW (hp) | 220(299) | 265(355) |
-| Peak electrical output boost in kW (hp) | N/A | 300 (402) |
+| Peak electrical output in KW (hp) | 195(265) | 265(360) |
+| Peak electrical output boost in kW (hp) | 220(299) | 300 (408) |
 | Drive | Quattro | Quattro |
 | Net battery | 77kWh | 86.5kWh |
 | WLTP Range basic trim | 488km | 441km |
