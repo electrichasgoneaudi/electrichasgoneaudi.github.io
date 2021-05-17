@@ -50,9 +50,13 @@ The black optics package contains gloss black front, rails and window rims. Opti
 
 ## Mirrors
 
-The mirrors can be delivered in different styles
+The mirrors can be delivered in different styles.
+
+Painted mirrors in veichle color. Option code **6FG**
 
 ![Painted mirros](paintedmirrors.jpg "Painted mirrors in veichle colors")
+
+Black mirrors. Option code **6FJ**
 
 ![Black mirrors](blackmirrors.jpg "Black mirrors")
 
