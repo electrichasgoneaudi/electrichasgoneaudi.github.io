@@ -92,7 +92,7 @@ This cell type is used on Audi e-tron GT and Audi RS e-tron GT
 ## Battery pack performance
 
 |  | Gross capacity | Net capacity | Max DC Charging | Weight | kWh/kg |
-|-----|------|-----|-----|------|-----|-----|
+|-----|------|-----|-----|------|-----|
 | [e-tron 55](/models/e-tron/drivetrain/battery/#battery-audi-e-tron-55) | 95kWh | 86.5kWh | 150kW | 699kg | 0.136 |
 | [e-tron 55*3](/models/e-tron/drivetrain/battery/#battery-audi-e-tron-55) | 95kWh | 86.5kWh | 150kW | 699kg | 0.136 |
 | [e-tron 50](/models/e-tron/drivetrain/battery/#battery-audi-e-tron-50) | 71kWh | 64.7kWh | 125kW | 580 | 0.122 |
