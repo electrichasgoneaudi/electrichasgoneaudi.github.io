@@ -31,7 +31,7 @@ weight: 20
 
 ### PistonHeads: Porsche Taycan 4S vs Audi e-tron GT for world's best EV
 
-{{< youtube EI3fQsfDgPw&t >}}
+{{< youtube EI3fQsfDgPw >}}
 
 ### Auto Social UK: 2021 Audi E-tron GT - Worth the premium price tag? FIRST DRIVE (Quattro Vorsprung Kemora grey)
 

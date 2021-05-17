@@ -5,9 +5,9 @@ description: Audi e-tron have two different variants of the battery
 weight: 7
 ---
 
-## Battery Audi e-tron 55
+## Battery Audi e-tron 55/e-tron 60S
 
-The battery for Audi e-tron is totally on 95kWh and 396 volt and have the part number  1 AX2
+The battery for Audi e-tron 55/e-tron 60S is totally on 95kWh and 396 volt and have the part number  1 AX2
 It has totally 36 modules with 12 cells each that gives totally 432 cells.
 
 ### Cell technology
@@ -65,8 +65,6 @@ Max charging speed is 150kW.
 ![bilde](https://user-images.githubusercontent.com/59776765/91096009-9b4bbb00-e65d-11ea-8ccf-0fd968ace518.png)
 
 [Diagramm from FASTNED](https://support.fastned.nl/hc/en-gb/articles/360000815988-Charging-with-an-Audi-e-tron)
-
-
 
 ### Battery housing
 
