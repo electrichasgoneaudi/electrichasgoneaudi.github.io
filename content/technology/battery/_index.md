@@ -16,7 +16,7 @@ Not all details are open available. If you have info to add, make changes to thi
 ### LG Chem LGX N2.1
 
 This cell type is used on Audi e-tron 55 and Audi e-tron S.
-|Spec | Value |
+|**Spec** | **Value** |
 |-----|------|
 | Manufacturer | LG Chem |
 | Model | LGX N2.1 |
@@ -50,7 +50,7 @@ This cell type is used on Audi Q4 e-tron.
 
 This cell type is used on Audi e-tron GT and Audi RS e-tron GT
 
-|Spec | Value |
+|**Spec** | **Value** |
 |-----|------|
 | Manufacturer | LG Chem |
 | Model | E66A |
@@ -68,22 +68,19 @@ This cell type is used on Audi e-tron GT and Audi RS e-tron GT
 | Gravimetric Energy Density | 263 Wh/kg |
 | Chemistry | [NCM 712](https://en.wikipedia.org/wiki/Lithium-ion_battery) |
 
-
-
 ## Battery configuration
-
 
 |  | Cell type | Cells | Modules | Voltage | Cell config | Gross cap |
 |-----|------|-----|-----|------|-----|-----|
-| e-tron 55 | LGXN2.1 | 432 | 36 | 396 | 108s4p | 95 kWh |
-| e-tron 55*3 | Samsung | 432 | 36 | 396 | 108s4p | 95 kWh |
-| e-tron 50 | Samsung | 324 | 27 | 396 | 108s3p | 71 kWh |
-| e-tron GT | E66A | 396 | 33 | 723 | 196s2p | 93.4 kWh |
-| RS e-tron GT | E66A | 396 | 33 | 723 | 196s2p | 93.4kWh |
-| Q4 e-tron 50 |LGX E78 | 288 | 12 | 350 |96s3p | 82 kWh |
-| Q4 e-tron 40 |LGX E78 | 288 | 12 | 350 |96s3p | 82 kWh |
-| Q4 e-tron 35 | LGX E78|  196 | 9 | 350 | 96s2p | 55 kWh |
-| Q6 e-tron *1 | LGX E78?|  392? | 16? | 700? | 192s2p? | 110 kWh? |
+| [e-tron 55](/models/e-tron/drivetrain/battery/#battery-audi-e-tron-55) | LGXN2.1 | 432 | 36 | 396 | 108s4p | 95 kWh |
+| [e-tron 55*3](/models/e-tron/drivetrain/battery/#battery-audi-e-tron-55) | Samsung | 432 | 36 | 396 | 108s4p | 95 kWh |
+| [e-tron 50](/models/e-tron/drivetrain/battery/#battery-audi-e-tron-50) | Samsung | 324 | 27 | 396 | 108s3p | 71 kWh |
+| [e-tron GT](/models/e-tron-gt/drivetrain/battery/) | E66A | 396 | 33 | 723 | 196s2p | 93.4 kWh |
+| [RS e-tron GT](/models/e-tron-gt/drivetrain/battery/) | E66A | 396 | 33 | 723 | 196s2p | 93.4kWh |
+| [Q4 e-tron 50](/models/q4-e-tron/drivetrain/battery/#battery-q4-40-e-tron-and-q4-50-e-tron) |LGX E78 | 288 | 12 | 350 |96s3p | 82 kWh |
+| [Q4 e-tron 40](/models/q4-e-tron/drivetrain/battery/#battery-q4-40-e-tron-and-q4-50-e-tron) |LGX E78 | 288 | 12 | 350 |96s3p | 82 kWh |
+| [Q4 e-tron 35](/models/q4-e-tron/drivetrain/battery/#battery-q4-35) | LGX E78|  196 | 9 | 350 | 96s2p | 55 kWh |
+| [Q6 e-tron](/models/q6-e-tron/drivetrain/battery/)*1 | LGX E78?|  392? | 16? | 700? | 192s2p? | 110 kWh? |
 | A6 e-tron *2 | LGX E78?|  392? | 16? | 700? | 192s2p? | 110 kWh? |
 
 *1 Audi Q6 details is not yet confirmed.

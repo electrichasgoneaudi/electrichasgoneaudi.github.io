@@ -9,7 +9,7 @@ weight: 1
 
 | Specification      | Q4 50 e-tron quattro | e-tron quattro 55|
 | ----------- | ----------- |----------- |
-| Peal electrical output in KW (hp) | 220(299) | 265(355) |
+| Peak electrical output in KW (hp) | 220(299) | 265(355) |
 | Peak electrical output boost in kW (hp) | N/A | 300 (402) |
 | Drive | Quattro | Quattro |
 | Net battery | 77kWh | 86.5kWh |
@@ -46,7 +46,7 @@ weight: 1
 | Air Condition | Yes, standard | Yes, standard |
 | A/C zones | 2 (3 optional) | 2 (4 optional) |
 | Rear window curtains | N/A | Yes, option |
-| Cruise control | Yes, standard | Yes, standard |
+| Cruise control | Yes, option | Yes, standard |
 | Active Lane assist | Yes, standard | Yes, standard |
 | Adaptive cruise assist | Yes, option | Yes, option |
 | Adaptive Cruise control with speed limiter | Yes, option | Yes, option |
@@ -60,11 +60,12 @@ weight: 1
 | Park assist | N/A | Yes, option |
 | Cross traffic assist rear | Yes, option | Yes, option |
 | [Exit warning](/models/e-tron/technology/drivingassistance/#exit-warning) | Yes, option | Yes, option |
-| Collision avoidance assist | Yes, option | Yes, option |
+| Collision avoidance assist | Yes, standard | Yes, option |
 | Audi side assist | Yes, option | Yes, option |
 | 360 degree cameras | Yes, option | Yes, option |
 | Reversing camera | Yes, option | Yes, option |
 | Curb warning | Yes, option | Yes, option
 | Crossing assist | N/A | Yes, option |
+| Turn assist | N/A | Yes, option |
 
 {{% children description="true" depth="1" %}}

@@ -7,6 +7,6 @@ weight: 1
 
  When the preset limit is reached, the vehicle gently throttles the speed down. The speed limit is not exceeded even if the driver applies more pressure to the accelerator pedal. However, the driver can temporarily override the limit by kick-down, and the speed limiter can be completely deactivated at any time from the steering column stalk. The speed that has been preset is shown in the instrument cluster.
 
- The speed limiter is standard equipment.
+ The speed limiter is standard equipment. OptionID **8T9**
 
 {{% children description="true" depth="1" %}}
