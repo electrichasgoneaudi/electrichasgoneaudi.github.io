@@ -50,7 +50,7 @@ weight: 1
 | Active Lane assist | Yes, standard | Yes, standard |
 | Adaptive cruise assist | Yes, option | Yes, option |
 | Adaptive Cruise control with speed limiter | Yes, option | Yes, option |
-| Pre Sense Basic | Yes, option | Yes, option |
+| Pre Sense Basic | Yes, option | Yes, standard |
 | Pre Sense front | Yes, standard | Yes, standard |
 | Pre Sense rear | Yes, option | Yes, option |
 | Pre Sense side | N/A | Yes, option |
@@ -67,5 +67,6 @@ weight: 1
 | Curb warning | Yes, option | Yes, option
 | Crossing assist | N/A | Yes, option |
 | Turn assist | N/A | Yes, option |
+| Traffic sign recognition | Yes, option | Yes, option |
 
 {{% children description="true" depth="1" %}}
