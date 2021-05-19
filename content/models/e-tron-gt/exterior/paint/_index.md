@@ -38,9 +38,13 @@ Color Code: **M1**
 
 Color Code: **6Y**
 
-![Audi RS e-tron GT in Mythos Black](paint_daytona_1.jpg "Audi RS e-tron GT in Mythos Black")
+![Audi RS e-tron GT in Mythos Black](paint_daytona_1.jpg "Audi RS e-tron GT in Daytona Pearl Grey")
 
-![Audi RS e-tron GT in Mythos Black](paint_daytona_2.jpg "Audi RS e-tron GT in Mythos Black")
+![Audi RS e-tron GT in Mythos Black](paint_daytona_2.jpg "Audi RS e-tron GT in Daytona Pearl Grey")
+
+![Audi RS e-tron GT in Mythos Black](paint_daytona_3.jpg "Audi RS e-tron GT in Daytona Pearl Grey by Auditography")
+
+![Audi RS e-tron GT in Mythos Black](paint_daytona_4.jpg "Audi RS e-tron GT in Daytona Pearl Grey by Auditography")
 
 ### Tactile Green
 
