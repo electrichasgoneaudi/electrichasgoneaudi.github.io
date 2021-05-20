@@ -13,10 +13,13 @@ The display shows a wide range of information clearly and in neat, sharp, highly
 
 The driver can use the View button on the multifunction steering wheel to switch the Audi virtual cockpit between two views: While the tachometer and speedometer are displayed as large dial-type gages in driving view, a central window dominates in infotainment view. It creates a large stage for the navigation map or for lists in the phone, radio and audio areas. In this case, the tachometer and speedometer are displayed as small dial instruments.
 
-
 ## Virtual cockpit plus
 
 If you buy the virtual cockpit plus option (9S9) you get an additional e-tron sport mode.
+
+The mode can be selected in MMI
+
+![Virtual cockpit modes](virtualcockpit_settings.jpg "Virtual cockpit modes")
 
 ## Mode and views
 
