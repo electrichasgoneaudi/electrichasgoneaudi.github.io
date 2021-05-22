@@ -1,12 +1,14 @@
 ---
-title: Optics
-linktitle: Optics
-description: Audi e-tron GT has some different options for optics and singe frame grill
+title: Optics & Grill
+linktitle: Optics & Grill
+description: Audi e-tron GT has some different options for optics and single frame grill
 weight: 4
 ---
 
-![Standard optics - Florett Silver](black.jpg "Black optics")
+![Standard optics - Daytona Pearl Grey](black.jpg "Black optics")
 
-![Standard optics - Florett Silver](black1.jpg "Black optics")
+![Standard optics - Daytona Pearl Grey](black1.jpg "Black optics")
+
+![Standard optics - Daytona Pearl Grey](daytonablackopticsplus.jpg "Carbon optics with black single frame grill")
 
 {{% children description="true" depth="1" %}}
