@@ -11,7 +11,7 @@ weight: 1
 | ----------- | ----------- |----------- |
 | Peak electrical output in KW (hp) | 195(265) | 265(360) |
 | Peak electrical output boost in kW (hp) | 220(299) | 300 (408) |
-|0 -100 km/h (62.1 mph) in s(boost) | ? (6.2) | 5.7 (6.6)|
+| 0 -100 km/h (62.1 mph) in s(boost) | ? (6.2) | 6.6 (5.7))|
 | Top speed in km/h (mph) | 180 | 200 (124.3) |
 | Drive | Quattro | Quattro |
 | Net battery | 77kWh | 86.5kWh |

@@ -19,11 +19,11 @@ Each seat type have different seat materials in different colors to choose from.
 |Power seat adjustment passenger | Yes, option | Yes, option | Yes, option |
 |Driver seat memory | Yes, option | Yes, option | Yes, option |
 |Passenger seat memory | N/A | N/A | N/A |
-|Extending thigh support |? | ? |? |
-|Electric 4-way lumbar support |? | ? |? |
-|Adjustment of headrest height|? | ? |? |
-|Adjustment of headrest distance|? | ? |? |
-
+|Extending thigh support |N/A | Yes, standard |Yes, standard |
+|Electric 4-way lumbar support |Yes, option | Yes, option |Yes, option |
+|Adjustment of headrest height| Yes, standard | N/A |N/A |
+|Adjustment of headrest distance| N/A | N/A | N/A |
+|Rear seat split | 40:60 (40:20:40 option) | 40:20:40 | 40:20:40 |
 
 ## Standard Seats
 
