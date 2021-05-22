@@ -5,7 +5,7 @@ description: Here you find a detailed comparison between Audi Q4 e-tron 50 Quatt
 weight: 1
 ---
 
-For many buyers this is a important choice. 
+For many buyers this is a real dilemma.  We will try help you choose.
 
 ### Spec comparison
 
@@ -13,7 +13,7 @@ For many buyers this is a important choice.
 | ----------- | ----------- |----------- |
 | Peak electrical output in KW (hp) | 195(265) | 265(360) |
 | Peak electrical output boost in kW (hp) | 220(299) | 300 (408) |
-| 0 -100 km/h (62.1 mph) in s(boost) | ? (6.2) | 6.6 (5.7))|
+| 0 -100 km/h (62.1 mph) in s(boost) | ? (6.2) | 6.6 (5.7)|
 | Top speed in km/h (mph) | 180 | 200 (124.3) |
 | Drive | Quattro | Quattro |
 | Adaptive Air suspension | N/A | Yes, standard |
@@ -29,6 +29,9 @@ For many buyers this is a important choice.
 | Max DC Charging | 125 kW | 150 kW |
 | Length | 4588mm | 4901mm|
 | Width with mirrors | 2108mm | 2189mm |
+| Wheel base | 2764mm | 2928 mm |
+| Track width | 1587mm | 1655mm |
+| Height | 1632mm | 1629 mm |
 | Unladen weight without drive min trim | 2135kg | 2520kg |
 | Cargo space | 520 l| 660 l |
 | Cargo space seat down | 1490l | 1725 l |
@@ -84,6 +87,11 @@ For many buyers this is a important choice.
 ![Comparions](comparison2.jpg "Size comparison Q4 and e-tron")
 
 ![Comparions](comparison3.jpg "Size comparison Q4 and e-tron")
+
+### Summary
+
+e-tron has more standard equipment that is an option on Q4 e-tron.
+Examples are Virtual cockpit, MMI Navigation Plus,
 
 
 {{% children description="true" depth="1" %}}
