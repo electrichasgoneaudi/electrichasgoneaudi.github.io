@@ -9,7 +9,7 @@ Each seat type have different seat materials in different colors to choose from.
 
 ## Seat functionality
 
-|  | Standard Seats | Sport seats | S-line sport seats|
+| **Seat type** | **Standard** | **Sport** | **S-line sport**|
 |-------|-------|-------|-------|
 |Front seat heating| Yes, option | Yes, option | Yes, option |
 |Rear seat heating| N/A | N/A | N/A |
