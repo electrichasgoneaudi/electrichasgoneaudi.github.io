@@ -5,6 +5,10 @@ description: Here you find different reviews of Audi e-tron GT and Audi RS e-tro
 weight: 20
 ---
 
+### Bjørn Nyland: Audi e-tron GT range test
+
+{{< youtube LZ4dypyQokY >}}
+
 ### Carwow: Audi RS e-tron GT 2021 in-depth review...see how I broke it. Oops!
 
 {{< youtube qloYqQ6r_kM >}}

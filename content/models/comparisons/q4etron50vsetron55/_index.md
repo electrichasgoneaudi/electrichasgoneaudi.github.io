@@ -1,11 +1,13 @@
 ---
 title: Q4 50 e-tron quattro vs e-tron quattro 55
 linktitle: Q4 e-tron vs e-tron
-description: Here you find a detailed comparison between Audi Q4 e-tron 50 Quattro and 
+description: Here you find a detailed comparison between Audi Q4 e-tron 50 Quattro and Audi e-tron 55.
 weight: 1
 ---
 
-## Spec comparison
+For many buyers this is a important choice. 
+
+### Spec comparison
 
 | Specification      | Q4 50 e-tron quattro | e-tron quattro 55|
 | ----------- | ----------- |----------- |
@@ -14,6 +16,8 @@ weight: 1
 | 0 -100 km/h (62.1 mph) in s(boost) | ? (6.2) | 6.6 (5.7))|
 | Top speed in km/h (mph) | 180 | 200 (124.3) |
 | Drive | Quattro | Quattro |
+| Adaptive Air suspension | N/A | Yes, standard |
+| Progressive steering | Yes, option | Yes, standard |
 | Net battery | 77kWh | 86.5kWh |
 | WLTP Range basic trim | 488km | 441km |
 | Calculated consumption basic trim | 15.8 kWh/100km | 19.6 kWh/100km |
@@ -22,7 +26,7 @@ weight: 1
 | Max trailer weight | 1200kg | 1800kg |
 | Max roof weight | 75kg | 75kg |
 | Ground clearance | 165/180mm | 152-248mm |
-| Max DC Chargin | 125 kW | 150 kW |
+| Max DC Charging | 125 kW | 150 kW |
 | Length | 4588mm | 4901mm|
 | Width with mirrors | 2108mm | 2189mm |
 | Unladen weight without drive min trim | 2135kg | 2520kg |
@@ -73,7 +77,7 @@ weight: 1
 | Turn assist | N/A | Yes, option |
 | Traffic sign recognition | Yes, option | Yes, option |
 
-## Dimension comparison
+### Dimension comparison
 
 ![Comparions](comparison1.jpg "Size comparison Q4 and e-tron")
 
