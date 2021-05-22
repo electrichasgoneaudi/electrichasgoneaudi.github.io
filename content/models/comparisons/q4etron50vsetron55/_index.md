@@ -11,6 +11,8 @@ weight: 1
 | ----------- | ----------- |----------- |
 | Peak electrical output in KW (hp) | 195(265) | 265(360) |
 | Peak electrical output boost in kW (hp) | 220(299) | 300 (408) |
+|0 -100 km/h (62.1 mph) in s(boost) | ? (6.2) | 5.7 (6.6)|
+| Top speed in km/h (mph) | 180 | 200 (124.3) |
 | Drive | Quattro | Quattro |
 | Net battery | 77kWh | 86.5kWh |
 | WLTP Range basic trim | 488km | 441km |
@@ -24,6 +26,8 @@ weight: 1
 | Length | 4588mm | 4901mm|
 | Width with mirrors | 2108mm | 2189mm |
 | Unladen weight without drive min trim | 2135kg | 2520kg |
+| Cargo space | 520 l| 660 l |
+| Cargo space seat down | 1490l | 1725 l |
 | Standard wheels front | 235/55-R19 | 255/55-R19 |
 | Standard wheels rear | 255/50-R19 | 255/55-R19 |
 | Optional wheels front | 235/50-R20, 235/45-R21 | 255/55-R20, 265/45-R21, 265/40-R22 |
