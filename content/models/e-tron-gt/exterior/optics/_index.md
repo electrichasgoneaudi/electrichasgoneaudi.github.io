@@ -5,10 +5,12 @@ description: Audi e-tron GT has some different options for optics and single fra
 weight: 4
 ---
 
-![Standard optics - Daytona Pearl Grey](black.jpg "Black optics")
+
 
 ![Standard optics - Daytona Pearl Grey](black1.jpg "Black optics")
 
-![Standard optics - Daytona Pearl Grey](daytonablackopticsplus.jpg "Carbon optics with black single frame grill")
+![Standard optics - Daytona Pearl Grey](black.jpg "Black optics plus")
+
+![Standard optics - Daytona Pearl Grey](daytonablackopticsplus.jpg "Carbon optics with black single frame grill and black rings")
 
 {{% children description="true" depth="1" %}}
