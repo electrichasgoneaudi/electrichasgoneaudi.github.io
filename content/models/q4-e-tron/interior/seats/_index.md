@@ -11,17 +11,17 @@ Each seat type have different seat materials in different colors to choose from.
 
 | **Seat type** | **Standard** | **Sport** | **S-line sport**|
 |-------|-------|-------|-------|
-|Front seat heating| Yes, option | Yes, option | Yes, option |
+|Front seat heating| option | option | option |
 |Rear seat heating| N/A | N/A | N/A |
-|Front seat ventilatin| N/A | N/A | N/A |
+|Front seat ventilation| N/A | N/A | N/A |
 |Front seat massage| N/A | N/A | N/A |
-|Power seat adjustment driver | Yes, option | Yes, option | Yes, option |
-|Power seat adjustment passenger | Yes, option | Yes, option | Yes, option |
-|Driver seat memory | Yes, option | Yes, option | Yes, option |
+|Power seat adjustment driver | option | option | option |
+|Power seat adjustment passenger | option | option | option |
+|Driver seat memory | option | option | option |
 |Passenger seat memory | N/A | N/A | N/A |
-|Extending thigh support |N/A | Yes, standard |Yes, standard |
-|Electric 4-way lumbar support |Yes, option | Yes, option |Yes, option |
-|Adjustment of headrest height| Yes, standard | N/A |N/A |
+|Extending thigh support |N/A | standard |standard |
+|Electric 4-way lumbar support |option | option |option |
+|Adjustment of headrest height| standard | N/A |N/A |
 |Adjustment of headrest distance| N/A | N/A | N/A |
 |Rear seat split | 40:60 (40:20:40 option) | 40:20:40 | 40:20:40 |
 
