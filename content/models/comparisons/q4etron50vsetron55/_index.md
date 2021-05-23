@@ -18,23 +18,26 @@ For many buyers this is a real dilemma.  We will try help you choose.
 | Drive | Quattro | Quattro |
 | Adaptive Air suspension | N/A | standard |
 | Progressive steering | option | standard |
+| Audi drive select | option | standard |
+| Gross battery | 82kWh | 95kWh |
 | Net battery | 77kWh | 86.5kWh |
+| Max DC Charging | 125 kW | 150 kW |
 | WLTP Range basic trim | 488km | 441km |
 | Calculated consumption basic trim | 15.8 kWh/100km | 19.6 kWh/100km |
 | WLTP Range top trim | 449km | 369km |
 | Calculated consumption top trim | 17.14 kWh/100km | 23.4 kWh/100km |
 | Max trailer weight | 1200kg | 1800kg |
+| Roof rails | option | option |
 | Max roof weight | 75kg | 75kg |
+| Cargo space | 520 l| 660 l |
+| Cargo space seat down | 1490l | 1725 l |
 | Ground clearance | 165/180mm | 152-248mm |
-| Max DC Charging | 125 kW | 150 kW |
 | Length | 4588mm | 4901mm|
 | Width with mirrors | 2108mm | 2189mm |
 | Wheel base | 2764mm | 2928 mm |
 | Track width | 1587mm | 1655mm |
 | Height | 1632mm | 1629 mm |
 | Unladen weight without drive min trim | 2135kg | 2520kg |
-| Cargo space | 520 l| 660 l |
-| Cargo space seat down | 1490l | 1725 l |
 | Standard wheels front | 235/55-R19 | 255/55-R19 |
 | Standard wheels rear | 255/50-R19 | 255/55-R19 |
 | Optional wheels front | 235/50-R20, 235/45-R21 | 255/55-R20, 265/45-R21, 265/40-R22 |
@@ -56,6 +59,7 @@ For many buyers this is a real dilemma.  We will try help you choose.
 | Heated rear seats | N/A | option |
 | Air Condition | standard | standard |
 | A/C zones | 2 (3 optional) | 2 (4 optional) |
+| Heatpump | option | standard |
 | Rear window curtains | N/A | option |
 | Cruise control | option | standard |
 | Active Lane assist | standard | standard |
@@ -80,6 +84,15 @@ For many buyers this is a real dilemma.  We will try help you choose.
 | Crossing assist | N/A | option |
 | Turn assist | N/A | option |
 | Traffic sign recognition | option | option |
+| HD Matrix | option | option |
+| Digital HD Matrix | N/A | option |
+| Electric adjustable mirrors | standard | standard |
+| Mirrors with memory | option | option |
+| Heated mirrors | option | option |
+| Auto dimming mirrors | option | option |
+| Virtual mirrors | N/A | option |
+| Homelink garage door opener | N/A | option |
+| Audi phone box | option | option |
 
 ### Dimension comparison
 
