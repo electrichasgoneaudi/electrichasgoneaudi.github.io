@@ -26,7 +26,11 @@ Silver optics is the standard front.
 
 ![Audi Q4 ](paint_glacierwhite_4.png "Audi Q4 Sportback 50 e-tron quattro in Glacier white")
 
-![Audi Q4 ](silveroptics.png "Audi Q4 with silver optics")
+![Audi Q4 ](silveroptics.jpg "Audi Q4 with silver optics")
+
+Video with Mythos black with Silver optics. Warning: No privacy windows. Can't unsee.
+
+{{< youtube EVGH1XyWF5Y >}}
 
 ### Shadow optics
 
