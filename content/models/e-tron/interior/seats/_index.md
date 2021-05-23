@@ -11,20 +11,19 @@ Each seat type have different seat materials in different colors to choose from.
 
 | **Seat type** | **Standard** | **Sport** | **S-line sport**| **S-Sport** | **Contur** |
 |-------|-------|-------|-------|-------|-------|
-|Front seat heating| Yes, option | Yes, option | Yes, option | Yes, option | Yes, option |
-|Rear seat heating| Yes, option | Yes, option | Yes, option | Yes, option | Yes, option |
-|Front seat ventilation| N/A | N/A | N/A |N/A |Yes, option |
-|Front seat massage| N/A | N/A | N/A |N/A |Yes, option |
-|Power seat adjustment driver | Yes, option | Yes, option | Yes, standard |Yes, standard | Yes, standard |
-|Power seat adjustment passenger | Yes, option | Yes, option | Yes, option |N/A | Yes, standard |
-|Driver seat memory | Yes, option | Yes, option | Yes, option |N/A | Yes, standard |
-|Passenger seat memory | N/A | N/A | N/A |N/A | Yes, standard |
-|Extending thigh support |N/A | Yes, standard |Yes, standard |
-|Electric 4-way lumbar support |Yes, option | Yes, option |Yes, option |
-|Adjustment of headrest height| Yes, standard | N/A |N/A |
-|Adjustment of headrest distance| N/A | N/A | N/A |
-|Rear seat split | 40:20:40 | 40:20:40 | 40:20:40 |
-
+|Front seat heating| option | option | option | option | option |
+|Rear seat heating| option | option | option | option | option |
+|Front seat ventilation| N/A | N/A | N/A |N/A |option |
+|Front seat massage| N/A | N/A | N/A |N/A |option |
+|Power seat adjustment driver | option | option | standard |standard | standard |
+|Power seat adjustment passenger | option | option | option |N/A | standard |
+|Driver seat memory | option | option | option |N/A | standard |
+|Passenger seat memory | N/A | N/A | N/A |N/A | standard |
+|Extending thigh support |N/A | standard |standard |standard | standard |
+|Electric 4-way lumbar support |option | standard | standard |standard | standard |
+|Adjustment of headrest height| standard | standard | standard |N/A |standard |
+|Adjustment of headrest distance| option | option |option |N/A |standard |
+|Rear seat split | 40:20:40 | 40:20:40 | 40:20:40 |40:20:40 | 40:20:40 |
 
 ## Standard Seats
 

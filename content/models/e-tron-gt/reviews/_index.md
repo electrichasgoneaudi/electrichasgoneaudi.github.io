@@ -9,6 +9,10 @@ weight: 20
 
 {{< youtube LZ4dypyQokY >}}
 
+### Bjørn Nyland: Audi e-tron GT 90-10 % acceleration and noise test
+
+{{< youtube jzOIjxyc7AU >}}
+
 ### Carwow: Audi RS e-tron GT 2021 in-depth review...see how I broke it. Oops!
 
 {{< youtube qloYqQ6r_kM >}}
