@@ -90,8 +90,17 @@ For many buyers this is a real dilemma.  We will try help you choose.
 
 ### Summary
 
-e-tron has more standard equipment that is an option on Q4 e-tron.
-Examples are Virtual cockpit, MMI Navigation Plus,
+e-tron has the biggest battery, but Q4 e-tron has the longest range because being a smaller car requiring less energy.
 
+e-tron has more standard equipment that is an option on Q4 e-tron.
+Examples are Virtual cockpit, MMI Navigation Plus, and Cruise control.
+
+Some equipment is only available on one of the models. Audi e-tron has [NightVision](/models/e-tron/technology/drivingassistance/nightvision/) as an
+option that is not available on Q4. [Adaptive Air Suspension](/models/e-tron/drivetrain/suspension/) is standard on e-tron and not
+available on Q4 e-tron.
+
+Q4 e-tron has heated front windows as an option, but this is not available on Audi e-tron.
+
+Both have Head-Up Display, but only Q4 has AR version.
 
 {{% children description="true" depth="1" %}}

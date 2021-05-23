@@ -7,6 +7,25 @@ weight: 1
 
 Each seat type have different seat materials in different colors to choose from. Making it possible to the interior just as you like it.
 
+## Seat functionality
+
+| **Seat type** | **Standard** | **Sport** | **S-line sport**| **S-Sport** | **Contur** |
+|-------|-------|-------|-------|-------|-------|
+|Front seat heating| Yes, option | Yes, option | Yes, option | Yes, option | Yes, option |
+|Rear seat heating| Yes, option | Yes, option | Yes, option | Yes, option | Yes, option |
+|Front seat ventilation| N/A | N/A | N/A |N/A |Yes, option |
+|Front seat massage| N/A | N/A | N/A |N/A |Yes, option |
+|Power seat adjustment driver | Yes, option | Yes, option | Yes, standard |Yes, standard | Yes, standard |
+|Power seat adjustment passenger | Yes, option | Yes, option | Yes, option |N/A | Yes, standard |
+|Driver seat memory | Yes, option | Yes, option | Yes, option |N/A | Yes, standard |
+|Passenger seat memory | N/A | N/A | N/A |N/A | Yes, standard |
+|Extending thigh support |N/A | Yes, standard |Yes, standard |
+|Electric 4-way lumbar support |Yes, option | Yes, option |Yes, option |
+|Adjustment of headrest height| Yes, standard | N/A |N/A |
+|Adjustment of headrest distance| N/A | N/A | N/A |
+|Rear seat split | 40:20:40 | 40:20:40 | 40:20:40 |
+
+
 ## Standard Seats
 
 ![Standard seats](seats_standard_1.jpg "Standard seats in beige leather")
