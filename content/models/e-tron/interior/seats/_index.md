@@ -77,9 +77,13 @@ Each seat type have different seat materials in different colors to choose from.
 
 ## Individual Contour Seats
 
- The individual contour seats feature 18-way power adjustment with memory function. Their side bolsters and lumbar support can be adjusted pneumatically. With the optional massage function, the user can select from five different intensities in five different programs to have ten air chambers massage their back.
+ The individual contour seats feature 18-way power adjustment with memory function. Their side bolsters and lumbar support can be adjusted pneumatically. 
+ The seats have option id **PS8**.
 
- Option id **PS8**
+With the optional ventilation keeps the seats cool on hot days. This has option **4D3**
+
+With the optional massage function, the user can select from five different intensities in five different programs to have ten air chambers massage their back.
+The massage function has option id **4D8**
  
 ![Individual Contour Seats](seats_individualcontour_1.jpg "Individual Contour Seats")
 
@@ -97,4 +101,4 @@ Each seat type have different seat materials in different colors to choose from.
 
 ![Individual Contour Seats](seats_individualcontour_9.jpg "Individual Contour Seats in perfored black Valcona Leather with ventilation")
 
-![Individual Contour Seats](seats_individualcontour_19.jpg "Individual Contour Seats in perfored black Valcona Leather with ventilation")
+![Individual Contour Seats](seats_individualcontour_10.jpg "Individual Contour Seats in perfored black Valcona Leather with ventilation")
