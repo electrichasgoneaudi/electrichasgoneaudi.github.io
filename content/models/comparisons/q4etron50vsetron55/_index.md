@@ -1,5 +1,5 @@
 ---
-title: Q4 50 e-tron quattro vs e-tron quattro 55
+title: Q4 e-tron 50 quattro vs e-tron 55 quattro 
 linktitle: Q4 e-tron vs e-tron
 description: Here you find a detailed comparison between Audi Q4 e-tron 50 Quattro and Audi e-tron 55.
 weight: 1
@@ -9,7 +9,7 @@ For many buyers this is a real dilemma.  We will try help you choose.
 
 ### Spec comparison
 
-| Specification      | Q4 50 e-tron quattro | e-tron quattro 55|
+|     | **Q4 e-tron 50 quattro** | **e-tron 55 quattro** |
 | ----------- | ----------- |----------- |
 | Peak electrical output in KW (hp) | 195(265) | 265(360) |
 | Peak electrical output boost in kW (hp) | 220(299) | 300 (408) |
