@@ -26,6 +26,8 @@ Silver optics is the standard front.
 
 ![Audi Q4 ](paint_glacierwhite_4.png "Audi Q4 Sportback 50 e-tron quattro in Glacier white")
 
+![Audi Q4 ](silveroptics.png "Audi Q4 with silver optics")
+
 ### Shadow optics
 
 Sets expressive accents in the form of black painted areas on particularly striking design elements on the front, sides and rear.
