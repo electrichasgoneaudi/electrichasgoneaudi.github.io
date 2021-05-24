@@ -14,6 +14,13 @@ The following wheels have been available from Audi to Audi Q4 e-tron. Varies for
 
 ![19 inch 5-arm design](wheel_40S_1.png "19 inch 5-arm design")
 
+
+## 19" 5-W design
+
+ Part No: **40Z**
+
+![19 inch 5-arm design](wheel_40Z_1.png "19 inch 5-W design")
+
 ## 20" 5Y design
 
  Part No: **55J**
