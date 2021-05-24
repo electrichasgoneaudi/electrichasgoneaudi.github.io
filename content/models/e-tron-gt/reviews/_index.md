@@ -17,6 +17,10 @@ weight: 20
 
 {{< youtube qloYqQ6r_kM >}}
 
+### Carwow: Audi RS e-tron GT v Porsche Taycan v Tesla Model S: DRAG RACE
+
+{{< youtube xwHu9xPsE3U >}}
+
 ### AutoTrader: Audi RS e-tron GT Review: Grand Touring Reinvented | 4K
 
 {{< youtube Wj9KNUhV5bY >}}
