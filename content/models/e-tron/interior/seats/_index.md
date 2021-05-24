@@ -5,7 +5,7 @@ description: Audi e-tron have serveral seats options to choose from
 weight: 1
 ---
 
-Each seat type have different seat materials in different colors to choose from. Making it possible to the interior just as you like it.
+Each seat type have different seat materials in different colors to choose from. Making it possible to configure the interior just as you like it.
 
 ## Seat functionality
 
@@ -38,11 +38,16 @@ of individual contour seats. Memory is also used by electric controllable steeri
 
 ### Ventilated seats
 
+For individual contour seats you can get ventilated seats. The fans are adjusted in MMI.
+
+![Ventilated seats](ventilationcontrol.jpg "Ventilation is controlled in mmi")
+
 
 ### Massage
 
+With the optional massage function, the user can select from three different intensities in three different programs to have ten air chambers massage their back.
 
-
+![Massage](massage.jpg "Massage control in MMI")
 
 | **Seat type** | **Standard** | **Sport** | **S-line sport**| **S-Sport** | **Contur** |
 |-------|-------|-------|-------|-------|-------|
@@ -50,6 +55,7 @@ of individual contour seats. Memory is also used by electric controllable steeri
 |Adjustment of headrest distance| option | option |option |N/A |standard |
 |Front seat heating| option | option | option |standard | standard |
 |Rear seat heating| option | option | option | option | option |
+|Power 4-way lumbar adjustment |option | standard | standard |standard | standard |
 |Power seat adjustment driver | option | option | standard |standard | standard |
 |Power seat adjustment passenger | option | option | standard |standard | standard |
 |Driver seat memory | option | option | option |N/A | standard |
@@ -57,7 +63,6 @@ of individual contour seats. Memory is also used by electric controllable steeri
 |Front seat ventilation| N/A | N/A | N/A |N/A |option |
 |Front seat massage| N/A | N/A | N/A |N/A |option |
 |Extending thigh support |N/A | standard |standard |standard | standard |
-|Electric 4-way lumbar support |option | standard | standard |standard | standard |
 |Rear seat split | 40:20:40 | 40:20:40 | 40:20:40 |40:20:40 | 40:20:40 |
 
 ## Standard Seats
@@ -117,7 +122,7 @@ of individual contour seats. Memory is also used by electric controllable steeri
 
 With the optional ventilation keeps the seats cool on hot days. This has option **4D3**
 
-With the optional massage function, the user can select from five different intensities in five different programs to have ten air chambers massage their back.
+With the optional massage function, the user can select from three different intensities in three different programs to have ten air chambers massage their back.
 The massage function has option id **4D8**
  
 ![Individual Contour Seats](seats_individualcontour_1.jpg "Individual Contour Seats")
