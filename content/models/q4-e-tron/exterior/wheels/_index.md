@@ -58,6 +58,8 @@ The following wheels have been available from Audi to Audi Q4 e-tron. Varies for
 
 ![20 inch 5Y design](wheel_56H_1.png "20 inch 5V design")
 
+![20 inch 5Y design](wheel_56H_2.jpg "20 inch 5V design")
+
 ## 21" 5-arm rotor design
 
 8,5 J x 21 with 235/45 R 21 tires front 9,0 J x 21 255/40 R 21 tires rear
