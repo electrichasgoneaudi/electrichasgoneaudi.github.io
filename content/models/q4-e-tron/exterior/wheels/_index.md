@@ -23,22 +23,36 @@ The following wheels have been available from Audi to Audi Q4 e-tron. Varies for
 
 ## 20" 5Y design
 
+8.0J x 20 with 235/50R 20 in front and 9.0J 20 with 255/45R 20 rear.
+
  Part No: **55J**
 
 ![20 inch 5Y design](wheel_55J_1.png "20 inch 5Y design")
 
 ## 20" 5Y graphite grey design
 
+8.0J x 20 with 235/50R 20 in front and 9.0J 20 with 255/45R 20 rear.
+
  Part No: **55K**
 
 ![20 inch 5Y design](wheel_55K_1.png "20 inch 5Y design graphite grey")
 
+
+## 20" 10 spoke design
+
+8.0J x 20 with 235/50R 20 in front and 9.0J 20 with 255/45R 20 rear.
+
+ Part No: **56J**
+
+![20 inch 10-spoke design](wheel_56J_1.png "20 inch 10-spoke design")
+
 ## 20" 5V design
+
+8.0J x 20 with 235/50R 20 in front and 9.0J 20 with 255/45R 20 rear.
 
  Part No: **56H**
 
 ![20 inch 5Y design](wheel_56H_1.png "20 inch 5V design")
-
 
 ## 21" 5-arm rotor design
 
