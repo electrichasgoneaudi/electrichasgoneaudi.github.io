@@ -27,6 +27,14 @@ You can add electric control to seats for height and angel in addition to 4-way 
 
 ![Electric](seats_control_electricwithlumbard.jpg "Electric seats with electric lumbard control")
 
+For the individual contour seats you have additional adjustment in MMI
+
+![Seats control](seats_control_plus.jpg "Electric adjustment of seats")
+
+Electric adjustment of extending thigh support
+
+![Seats control](seats_control_thighstretch.jpg)
+
 ### Memory
 
 All seats with electric adjustment have memory for two seating position for driver. For passenger seats it is only available with combination 
