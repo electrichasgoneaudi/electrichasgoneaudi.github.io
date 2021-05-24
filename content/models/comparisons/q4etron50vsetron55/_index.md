@@ -93,6 +93,9 @@ For many buyers this is a real dilemma.  We will try help you choose.
 | Virtual mirrors | N/A | option |
 | Homelink garage door opener | N/A | option |
 | Audi phone box | option | option |
+| Ventilated seats | N/A | option |
+| Massage seats | N/A | option |
+| Powered steering wheel adjustment | N/A | option |
 
 ### Dimension comparison
 

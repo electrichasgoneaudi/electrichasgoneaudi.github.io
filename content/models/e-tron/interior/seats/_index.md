@@ -9,6 +9,43 @@ Each seat type have different seat materials in different colors to choose from.
 
 ## Seat functionality
 
+The standard seats are manual.
+
+![Manual seats](seats_control_manual.jpg "Manual seat with manual control of height and angel")
+
+### 4-way lumbar support
+
+As an option to standard seats you can add 4-way electric lumbar support that can be adjusted to how you like it. Option id **7P1**
+
+Lumbard support is standard on all seats except standard seats. (Required option)
+
+![Lumbard support](seats_control_manualwithlumbard.jpg "Manual seat with electric lumbard adjustment")
+
+### Electric adjustment
+
+You can add electric control to seats for height and angel.
+
+![Electric](seats_control_electricwithlumbard.jpg "Electric seats with electric lumbard control")
+
+### Memory
+
+It is possible to add memory to seats with electric adjustment for the driver seat. For passenger seats it is only available with combination 
+of individual contour seats.
+
+![Memory buttons](memory_left.jpg "Memory preset in driver door")
+
+![Memory buttons](memory_right.jpg "Memory preset in passenger door")
+
+
+
+
+
+
+### Massage
+
+
+
+
 | **Seat type** | **Standard** | **Sport** | **S-line sport**| **S-Sport** | **Contur** |
 |-------|-------|-------|-------|-------|-------|
 |Front seat heating| option | option | option | option | option |
