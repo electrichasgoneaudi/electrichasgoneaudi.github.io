@@ -58,7 +58,7 @@ For many buyers this is a real dilemma.  We will try help you choose.
 | Heated front seats | option | option |
 | Heated rear seats | N/A | option |
 | Air Condition | standard | standard |
-| A/C zones | 2 (3 optional) | 2 (4 optional) |
+| A/C zones | 1 (3 optional) | 2 (4 optional) |
 | Heatpump | option | standard |
 | Rear window curtains | N/A | option |
 | Cruise control | option | standard |
