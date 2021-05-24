@@ -52,6 +52,8 @@ Rails in black
 
 The black optics package contains gloss black front, rails and window rims. Option code **4ZD**
 
+![Audi Q4 ](paint_glacierwhite_5.jpg "Audi Q4 Sportback 50 e-tron quattro in Glacier white with black optics")
+
 ![Audi Q4 ](paint_glacierwhite_3.png "Audi Q4 Sportback 50 e-tron quattro in Glacier white with black optics")
 
 ## Mirrors

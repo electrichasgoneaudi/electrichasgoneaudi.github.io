@@ -23,22 +23,20 @@ Lumbard support is standard on all seats except standard seats. (Required option
 
 ### Electric adjustment
 
-You can add electric control to seats for height and angel.
+You can add electric control to seats for height and angel in addition to 4-way electric lumbar support. Option id **PV3**
 
 ![Electric](seats_control_electricwithlumbard.jpg "Electric seats with electric lumbard control")
 
 ### Memory
 
-It is possible to add memory to seats with electric adjustment for the driver seat. For passenger seats it is only available with combination 
-of individual contour seats.
+All seats with electric adjustment have memory for two seating position for driver. For passenger seats it is only available with combination 
+of individual contour seats. Memory is also used by electric controllable steering wheel.
 
 ![Memory buttons](memory_left.jpg "Memory preset in driver door")
 
 ![Memory buttons](memory_right.jpg "Memory preset in passenger door")
 
-
-
-
+### Ventilated seats
 
 
 ### Massage
@@ -48,18 +46,18 @@ of individual contour seats.
 
 | **Seat type** | **Standard** | **Sport** | **S-line sport**| **S-Sport** | **Contur** |
 |-------|-------|-------|-------|-------|-------|
-|Front seat heating| option | option | option | option | option |
-|Rear seat heating| option | option | option | option | option |
-|Front seat ventilation| N/A | N/A | N/A |N/A |option |
-|Front seat massage| N/A | N/A | N/A |N/A |option |
-|Power seat adjustment driver | option | option | standard |standard | standard |
-|Power seat adjustment passenger | option | option | option |N/A | standard |
-|Driver seat memory | option | option | option |N/A | standard |
-|Passenger seat memory | N/A | N/A | N/A |N/A | standard |
-|Extending thigh support |N/A | standard |standard |standard | standard |
-|Electric 4-way lumbar support |option | standard | standard |standard | standard |
 |Adjustment of headrest height| standard | standard | standard |N/A |standard |
 |Adjustment of headrest distance| option | option |option |N/A |standard |
+|Front seat heating| option | option | option |standard | standard |
+|Rear seat heating| option | option | option | option | option |
+|Power seat adjustment driver | option | option | standard |standard | standard |
+|Power seat adjustment passenger | option | option | standard |standard | standard |
+|Driver seat memory | option | option | option |N/A | standard |
+|Passenger seat memory | N/A | N/A | N/A |N/A | standard |
+|Front seat ventilation| N/A | N/A | N/A |N/A |option |
+|Front seat massage| N/A | N/A | N/A |N/A |option |
+|Extending thigh support |N/A | standard |standard |standard | standard |
+|Electric 4-way lumbar support |option | standard | standard |standard | standard |
 |Rear seat split | 40:20:40 | 40:20:40 | 40:20:40 |40:20:40 | 40:20:40 |
 
 ## Standard Seats
