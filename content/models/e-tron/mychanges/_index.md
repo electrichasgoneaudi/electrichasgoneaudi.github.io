@@ -42,3 +42,7 @@ If build month is 122019 or later it should be a upgraded version
 ![Chronos Grey](chronosgrey.jpg "New color for 2022 - Chronos Grey")
 
 ![Black edition](blackedition.jpg "Black edition with orange interior details")
+
+![Chronos Grey](chronosgrey2.jpg "New color for 2022 - Chronos Grey")
+
+![Black edition](blackedition2.jpg "Black edition with orange interior details")
