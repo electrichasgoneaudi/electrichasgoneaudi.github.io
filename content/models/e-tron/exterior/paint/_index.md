@@ -83,9 +83,9 @@ Color Code: **L5**
 
 Color Code: **??**
 
-![Audi e-tron 55 in Siam Beige](paint_chronosgrey_1.png "Audi e-tron 55 in Chronos Grey with black optics")
+![Audi e-tron 55 in Siam Beige](paint_chronosgrey_1.jpg "Audi e-tron 55 in Chronos Grey with black optics")
 
-![Audi e-tron 55 in Siam Beige](paint_chronosgrey_2.png "Audi e-tron Sportback 55 in Chronos Grey with black optics")
+![Audi e-tron 55 in Siam Beige](paint_chronosgrey_2.jpg "Audi e-tron Sportback 55 in Chronos Grey with black optics")
 
 ### Typhoon Grey
 
