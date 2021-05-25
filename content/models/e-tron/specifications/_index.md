@@ -10,7 +10,7 @@ weight: 2
 
 | Specification      | Value |
 | ----------- | ----------- |
-| Peak electrical output in kW (hp) | 230 (308) |
+| Peak electrical output in kW (hp) | 230 (312) |
 | Continuous electrical output in kW | 100 |
 | Electrical torque output in Nm (lb-ft) | 	540 (398.3) |
 | 0 -100 km/h (62.1 mph) in s | 6.8<> |
@@ -40,8 +40,8 @@ weight: 2
 
 | Specification      | Value |
 | ----------- | ----------- |
-| Peak electrical output in kW (hp) | 265 (355) |
-| Peak electrical output boost in kW (hp) | 300 (402) |
+| Peak electrical output in kW (hp) | 265 (360) |
+| Peak electrical output boost in kW (hp) | 300 (408) |
 | Continuous electrical output in kW | 100 |
 | Electrical torque output in Nm (lb-ft) | 561 (413.8) |
 | Electrical torque output boost in Nm (lb-ft) | 664 (489.7) |
@@ -74,8 +74,8 @@ weight: 2
 
 | Specification      | Value |
 | ----------- | ----------- |
-| Peak electrical output in kW (hp) | 320 (429) |
-| Peak electrical output boost in kW (hp) | 370 (496) |
+| Peak electrical output in kW (hp) | 320 (435) |
+| Peak electrical output boost in kW (hp) | 370 (503) |
 | Continuous electrical output in kW | 100 |
 | Electrical torque output in Nm (lb-ft) | 561 (413.8) |
 | Electrical torque output boost in Nm (lb-ft) | 664 (489.7) |
@@ -108,7 +108,7 @@ weight: 2
 
 | Specification      | Value |
 | ----------- | ----------- |
-| Peak electrical output in kW (hp) | 230 (308) |
+| Peak electrical output in kW (hp) | 230 (312) |
 | Continuous electrical output in kW | 100 |
 | Electrical torque output in Nm (lb-ft) | 540 (398.3) |
 | 0 -100 km/h (62.1 mph) in s | 6.8<> |
@@ -137,8 +137,8 @@ weight: 2
 
 | Specification      | Value |
 | ----------- | ----------- |
-| Peak electrical output in kW (hp) | 265 (355) |
-| Peak electrical output boost in kW (hp) | 300 (402) |
+| Peak electrical output in kW (hp) | 265 (360) |
+| Peak electrical output boost in kW (hp) | 300 (408) |
 | Continuous electrical output in kW | 100 |
 | Electrical torque output in Nm (lb-ft) | 561 (413.8) |
 | Electrical torque output boost in Nm (lb-ft) | 664 (489.7) |
@@ -171,8 +171,8 @@ weight: 2
 
 | Specification      | Value |
 | ----------- | ----------- |
-| Peak electrical output in kW (hp) | 320 (429) |
-| Peak electrical output boost in kW (hp) | 370 (496) |
+| Peak electrical output in kW (hp) | 320 (435) |
+| Peak electrical output boost in kW (hp) | 370 (503) |
 | Continuous electrical output in kW | 100 |
 | Electrical torque output in Nm (lb-ft) | 561 (413.8) |
 | Electrical torque output boost in Nm (lb-ft) | 664 (489.7) |
