@@ -32,7 +32,7 @@ If build month is 122019 or later it should be a upgraded version
 ### MY2021 - > MY 2022 (from build week 25 2021)
 
 - vin nr has N as 10 digit for 2022 model example: WAUZZZGEX**N**B001235
-- New paint color avaiable: Chronos grey
+- New paint color available: Chronos grey
 - Alcantara is replaced with Dinamica
 - Black optics plus package available (black rings)
 - Black Edition with orange details in interior
