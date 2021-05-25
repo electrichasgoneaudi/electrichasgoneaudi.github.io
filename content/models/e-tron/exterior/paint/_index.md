@@ -79,6 +79,14 @@ Color Code: **L5**
 
 ![Audi e-tron 55 S-line Sportback in Florett Silver with contrast color](paint_florettsilver_3.png "Audi e-tron 55 S-line Sportback in Florett Silver with contrast color")
 
+### Chronos Grey
+
+Color Code: **??**
+
+![Audi e-tron 55 in Siam Beige](paint_chronosgrey_1.png "Audi e-tron 55 in Chronos Grey with black optics")
+
+![Audi e-tron 55 in Siam Beige](paint_chronosgrey_2.png "Audi e-tron Sportback 55 in Chronos Grey with black optics")
+
 ### Typhoon Grey
 
 Color Code: **2L**
