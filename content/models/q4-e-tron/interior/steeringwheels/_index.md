@@ -11,7 +11,7 @@ The double-spoke leather steering wheel is the lowest level trim wheel.
 
 ![Standard wheel](standard.jpg "Double-spoke leather steering wheel")
 
-## Double-spoke leather steering with paddles
+## Double-spoke leather steering with paddles option 2ZQ
 
 The double-spoke leather steering wheel sits comfortably in the hand and the progressive and distinctive steering wheel design in aluminum optics integrates seamlessly into the interior of the vehicle.
 
@@ -26,7 +26,7 @@ Note: can only be ordered in conjunction with steering wheel heating (AI9)
 
 ![2zq](2zq.jpg "Double-spoke leather steering with paddles")
 
-## The double-spoke leather sports steering wheel
+## The double-spoke leather sports steering wheel option 2FS
 
 The double-spoke leather sports steering wheel, which is flattened at the top and bottom, impresses with its sporty look and fits well
 of the hand. The height and distance of the steering wheel can be adjusted manually. The steering wheel is equipped with multifunction buttons with touch controls for convenient operation of the extensive standard and optional infotainment features.
