@@ -5,15 +5,17 @@ description: Audi Q4 e-tron have serveral steering wheel options
 weight: 2
 ---
 
-
 ## Double-spoke leather steering wheel
+
+The double-spoke leather steering wheel is the lowest level trim wheel.
 
 ![Standard wheel](standard.jpg "Double-spoke leather steering wheel")
 
 ## Double-spoke leather steering with paddles
 
-The double-spoke leather steering wheel sits comfortably in the hand and the progressive and distinctive steering wheel design in aluminum optics integrates seamlessly into the interior of the vehicle. The height and distance of the steering wheel can be adjusted manually. To
-simple operation of the extensive standard and optional infotainment features, the steering wheel is equipped with multifunction buttons with touch controls. Shift paddles allow you to change gear manually.
+The double-spoke leather steering wheel sits comfortably in the hand and the progressive and distinctive steering wheel design in aluminum optics integrates seamlessly into the interior of the vehicle.
+
+The height and distance of the steering wheel can be adjusted manually. To simple operation of the extensive standard and optional infotainment features, the steering wheel is equipped with multifunction buttons with touch controls. Shift paddles allow you to change gear manually.
 The recuperation levels can also be changed manually using the rocker switches. When the driver's foot
 takes off the accelerator pedal, kinetic energy can be converted into electricity by means of recuperation, depending on the situation and needs. This can in turn be used to charge the battery, which leads to increased efficiency
 and increased range.
