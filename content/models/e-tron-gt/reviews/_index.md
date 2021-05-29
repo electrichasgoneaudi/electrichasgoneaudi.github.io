@@ -13,6 +13,18 @@ weight: 20
 
 {{< youtube jzOIjxyc7AU >}}
 
+### Bjørn Nyland: Audi e-tron GT road trip to Arctic Circle part 1
+
+{{< youtube CETJRMswTfc >}}
+
+### Bjørn Nyland: Audi e-tron GT road trip to Arctic Circle part 2
+
+{{< youtube Zr3KzrFlAWc >}}
+
+### Bjørn Nyland: Audi e-tron GT charging on 350 kW Ionity
+
+{{< youtube 3IF26OoKJ0 >}}
+
 ### Carwow: Audi RS e-tron GT 2021 in-depth review...see how I broke it. Oops!
 
 {{< youtube qloYqQ6r_kM >}}
