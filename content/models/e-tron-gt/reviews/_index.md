@@ -13,6 +13,10 @@ weight: 20
 
 {{< youtube jzOIjxyc7AU >}}
 
+### Bjørn Nyland: Audi e-tron GT 1000 km challenge
+
+{{< youtube jsq7Sp_YHo0>}}
+
 ### Bjørn Nyland: Audi e-tron GT road trip to Arctic Circle part 1
 
 {{< youtube CETJRMswTfc >}}
