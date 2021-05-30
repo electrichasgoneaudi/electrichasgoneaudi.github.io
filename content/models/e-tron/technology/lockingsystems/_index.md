@@ -25,9 +25,18 @@ To lock the vehicle from the outside, all you have to do is touch one of the sen
 
 The luggage compartment lid can be conveniently unlocked using the luggage compartment button on the convenience key or, if you do not have a free hand, with a foot gesture (kick movement) at the rear.
 
-The engine start authorization is also released without actively actuating the convenience key. To do this, the driver must sit in the vehicle and carry the convenience key with him. The engine is started and switched off using the engine start-stop button in the center console. A high-quality visual differentiation on the top and bottom of the key through high-gloss black components and metal clasps in aluminum look make the innovative functions of the convenience key visible.
-
 ![Kick Sensor](kicksensor.jpg "With advance key you can open tailgate with kicking the foot under the tailgate")
+
+As the standard key, the advance key on Audi e-tron is equipped with Keyless Go. This means
+the engine start authorization is also released without actively actuating the convenience key.
+
+To do this, the driver must sit in the vehicle and carry the convenience key with him.
+
+The engine is started and switched off using the engine start-stop button in the center console.
+
+A high-quality visual differentiation on the top and bottom of the key through high-gloss black components and metal clasps in aluminum look make the innovative functions of the convenience key visible.
+
+![Advance key](advancekey.jpg "Audi Advance key")
 
 ## Advance key with alarm option PG3
 
@@ -38,7 +47,6 @@ Comfort key including sensor-controlled luggage compartment unlocking with lugga
 Anti-theft alarm system
 
 ![Alaram sensor](alarm_sensor_of.jpg "The interior sensor can be switched of by button in door")
-
 
 ## Audi Connect key 2F1
 

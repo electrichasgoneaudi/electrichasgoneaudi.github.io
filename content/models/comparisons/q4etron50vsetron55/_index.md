@@ -96,9 +96,10 @@ For many buyers this is a real dilemma.  We will try help you choose.
 | Ventilated seats | N/A | option |
 | Massage seats | N/A | option |
 | Powered steering wheel adjustment | N/A | option |
+| Powered tailgate | option | standard |
 | KeyLess Go | standard | standard |
 | Keyless Entry | option | option |
-| Theft Alarm | N/A | option |
+| Theft Alarm | option | option |
 | Kick sensor | option | option |
 | Audi connect key | N/A | option |
 
