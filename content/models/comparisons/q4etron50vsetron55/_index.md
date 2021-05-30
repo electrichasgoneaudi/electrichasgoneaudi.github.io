@@ -102,6 +102,7 @@ For many buyers this is a real dilemma.  We will try help you choose.
 | Theft Alarm | option | option |
 | Kick sensor | option | option |
 | Audi connect key | N/A | option |
+| Air quality package | N/A | option |
 
 ### Dimension comparison
 
@@ -125,5 +126,7 @@ available on Q4 e-tron.
 Q4 e-tron has heated front windows as an option, but this is not available on Audi e-tron.
 
 Both have Head-Up Display, but only Q4 has AR version.
+
+e-tron has luxury options like ventilated individual contour seats with massage, powered adjustment of steering wheels, servo closing doors and Air quality package. Non of this is available on
 
 {{% children description="true" depth="1" %}}
