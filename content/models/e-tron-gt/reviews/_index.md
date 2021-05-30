@@ -27,7 +27,7 @@ weight: 20
 
 ### Bjørn Nyland: Audi e-tron GT charging on 350 kW Ionity
 
-{{< youtube 3IF26OoKJ0 >}}
+{{< youtube -3IF26OoKJ0 >}}
 
 ### Bjørn Nyland: Audi e-tron GT headlights test
 
