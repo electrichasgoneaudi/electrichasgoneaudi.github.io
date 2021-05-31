@@ -45,6 +45,13 @@ weight: 20
 
 {{< youtube YZIF5JkIzjw >}}
 
+### auto motor und sport: Audi Q4 e-tron (2021): DAS Premium-Elektroauto für alle? – Vorfahrt (Review) | auto motor und sport
+
+{{< youtube fSpgx9fbyP4 >}}
+
+### Robin TV: Audi Q4 e-tron Sportback - Der sportliche Allrounder
+
+{{< youtube zyxjp3M7r5A >}}
 
 
 
