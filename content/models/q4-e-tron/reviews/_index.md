@@ -65,5 +65,14 @@ weight: 20
 
 {{< youtube U-aONIW1-Ps >}}
 
+### nextmove: Audi Q4 e-tron: bester Audi aller Zeiten oder doch nicht?
+
+{{< youtube shPMULlZOk >}}
+
+
+### Der-Autotester : (2021) Audi Q4 e-tron 50 Sportback - Bezahlbares Elektro-SUV - Fahrbericht - Test - Review
+
+{{< youtube NeIsXIo5M-U >
+
 
 
