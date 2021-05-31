@@ -33,6 +33,10 @@ weight: 20
 
 {{< youtube f1uXXSVLrfI >}}
 
+### Autofans: Audi Q4 e-tron REVIEW | Elektrisch A4 of Q5 alternatief? (2021)
+
+{{< youtube 77OQGSrMPkw >}}
+
 ### Autohub: Der Audi Q4 Sportback 50 e-tron quattro - 2021 - Review, Test, Experten-Talk
 
 {{< youtube Cogcs8ZunQY >}}
