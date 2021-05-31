@@ -29,6 +29,10 @@ weight: 20
 
 {{< youtube g16nV4Y-pjo >}}
 
+### Automann-TV: NEW! Audi Q4 e-tron (306hp) | 0-180 km/h acceleration🏁 | by Automann in 4K
+
+{{< youtube 4piNOluQ178 >}}
+
 ### AutoWeek: Audi Q4 e-tron – AutoWeek Review
 
 {{< youtube f1uXXSVLrfI >}}
