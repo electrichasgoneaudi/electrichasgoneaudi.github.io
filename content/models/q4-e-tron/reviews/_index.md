@@ -53,5 +53,13 @@ weight: 20
 
 {{< youtube zyxjp3M7r5A >}}
 
+### Roland Tameling - HUGE Car Guy: EERSTE TEST Audi Q4 e-tron 50 quattro | Moet Tesla zenuwachtig worden? | HUGE Car Guy Review
+
+{{< youtube t9inyYSJIZg >}}
+
+### AUTO BILD: udi Q4 e-tron (2021) | So fährt Audis neues E-SUV | Erste Fahrt mit Jan Horn
+
+{{< youtube U-aONIW1-Ps >}}
+
 
 
