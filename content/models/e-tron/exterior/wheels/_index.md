@@ -61,6 +61,8 @@ Sold as winter tires by Audi Norway.
 
 ![20-inch 9J 5-twin arm edge design](mtgalvani_2.jpg "20-inch MT Galvani")
 
+![20-inch 9J 5-twin arm edge design](mtgalvani_3.jpg "20-inch MT Galvani")
+
 
 ## 21 inch 15 arm design
 
