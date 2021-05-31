@@ -25,3 +25,19 @@ weight: 20
 
 {{< youtube SIhw8g7gS5g >}}
 
+### Car Maniac: Audi Q4 e tron - Beißt er sich am ENYAQ echt die Zähne aus?
+
+{{< youtube g16nV4Y-pjo >}}
+
+### AutoWeek: Audi Q4 e-tron – AutoWeek Review
+
+{{< youtube f1uXXSVLrfI >}}
+
+### Autohub: Der Audi Q4 Sportback 50 e-tron quattro - 2021 - Review, Test, Experten-Talk
+
+{{< youtube Cogcs8ZunQY >}}
+
+### Autonotizen.de: Audi Q4 Sportback 40 e-tron (150 kW): Elektro-SUV im ersten Test | Review | Autobahn | 2021
+
+{{< youtube Cogcs8ZunQY >}}
+
