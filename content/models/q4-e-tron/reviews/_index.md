@@ -78,5 +78,10 @@ weight: 20
 
 {{< youtube NeIsXIo5M-U >}}
 
+### electric drive : 2021 Audi Q4 50 e-tron quattro Fahrbericht Test Review Verbrauch Reichweite Ladeleistung Preis 
 
+{{< youtube F1Y43isjobs >}}
 
+### NM Garage : Essai Audi Q4 e-tron : l'arme d'électrification massive d'Audi
+
+{{< youtube K9LOBlBZod0 >}}
