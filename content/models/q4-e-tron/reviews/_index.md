@@ -17,6 +17,10 @@ weight: 20
 
 {{< youtube y87pilnpJws >}}
 
+### Automann-TV: NEW! Audi Q4 e-tron (306hp) | 0-180 km/h acceleration🏁 | by Automann in 4K
+
+{{< youtube 4piNOluQ178 >}}
+
 ### Car Maniac: Audi Q4 e-tron: So fährt Audis ID.4 / So sieht er innen aus!
 
 {{< youtube VNkrSe-GrZI >}}
@@ -28,10 +32,6 @@ weight: 20
 ### Car Maniac: Audi Q4 e tron - Beißt er sich am ENYAQ echt die Zähne aus?
 
 {{< youtube g16nV4Y-pjo >}}
-
-### Automann-TV: NEW! Audi Q4 e-tron (306hp) | 0-180 km/h acceleration🏁 | by Automann in 4K
-
-{{< youtube 4piNOluQ178 >}}
 
 ### AutoWeek: Audi Q4 e-tron – AutoWeek Review
 
