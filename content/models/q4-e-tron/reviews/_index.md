@@ -9,6 +9,10 @@ weight: 20
 
 {{< youtube 4ihZXQIlpRM >}}
 
+### Autogefühl: Audi Q4 e-tron SUV vs Sportback driving REVIEW - now the best EV SUV ?
+
+{{< youtube YrVd_9jnFTU >}}
+
 ### Auditography: FIRST DRIVE! 2021 AUDI Q4 SPORTBACK E-TRON 50 QUATTRO - TESLA BEATER & HUGE FUTURE SELLER? IN DETAIL
 
 {{< youtube y87pilnpJws >}}
