@@ -32,8 +32,8 @@ While there are three motor configurations there are only two types of electric 
 
 ### Rear electric motor
 
-The rear electric motor has the following specifictions. It is the same electric motor on all versions of Q4, but it perform different
-on Q35 vs Q40/Q50 because of different battery pack.
+It is the same rear electric motor on all versions of Q4, but it perform different
+on Q35 vs Q40/Q50 because of different battery pack. The rear electric motor has the following specifictions.
 
 - axial parallel achitecture
 - PSM motor with hairpin winding
@@ -47,6 +47,8 @@ on Q35 vs Q40/Q50 because of different battery pack.
 ![Front motor](rearmotor_1.jpg "Rear electric motor")
 
 ### Front electric motor
+
+Only Q5 50 Quattro has the front motor. The front electric motor has the following specifictions.
 
 - coaxial architecture
 - ASM motor with distributed pull-in winding
