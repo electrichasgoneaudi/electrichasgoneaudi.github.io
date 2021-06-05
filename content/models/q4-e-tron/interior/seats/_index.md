@@ -41,12 +41,24 @@ Each seat type have different seat materials in different colors to choose from.
 
 ![Sport seats](seats_sport_2.png "Sport seats in mono.pur 550 black leather (A0)")
 
+![Sport seats](seats_sport_4.jpg "Sport seats in mono.pur 550 black leather (A0)")
+
+![Sport seats](seats_sport_3.jpg "Sport seats in mono.pur 550 black leather (A0)")
+
 ## S-Line Sport Seats
 
 ![S-line Sport seats](seats_sline_1.png "S-line Sport seats with mono.pur 550 leather and facbric in black (AI)")
+
+![S-line Sport seats](seats_sline_5.jpg "S-line Sport seats with mono.pur 550 leather and facbric in grey (FS)")
+
+![S-line Sport seats](seats_sline_6.jpg "S-line Sport seats with mono.pur 550 leather and facbric in grey (FS)")
 
 ![S-line Sport seats](seats_sline_2.png "S-line Sport seats with mono.pur 550 leather in black (A0)")
 
 ![S-line Sport seats](seats_sline_3.png "S-line Sport seats with mono.pur 550 leather and Dinamica facbric in black (AI)")
 
 ![S-line Sport seats](seats_sline_4.png "S-line Sport seats with Feinappa leather in black (A0)")
+
+![S-line Sport seats](seats_sline_8.png "S-line Sport seats with Feinappa leather in black (A0)")
+
+![S-line Sport seats](seats_sline_9.png "S-line Sport seats with Feinappa leather in black (A0)")
