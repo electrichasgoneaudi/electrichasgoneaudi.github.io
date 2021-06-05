@@ -13,9 +13,33 @@ weight: 20
 
 {{< youtube jzOIjxyc7AU >}}
 
+### Bjørn Nyland: Audi e-tron GT 1000 km challenge
+
+{{< youtube jsq7Sp_YHo0>}}
+
+### Bjørn Nyland: Audi e-tron GT road trip to Arctic Circle part 1
+
+{{< youtube CETJRMswTfc >}}
+
+### Bjørn Nyland: Audi e-tron GT road trip to Arctic Circle part 2
+
+{{< youtube Zr3KzrFlAWc >}}
+
+### Bjørn Nyland: Audi e-tron GT charging on 350 kW Ionity
+
+{{< youtube -3IF26OoKJ0 >}}
+
+### Bjørn Nyland: Audi e-tron GT headlights test
+
+{{< youtube TQHzYwTZLY4 >}}
+
 ### Carwow: Audi RS e-tron GT 2021 in-depth review...see how I broke it. Oops!
 
 {{< youtube qloYqQ6r_kM >}}
+
+### Carwow: Audi RS e-tron GT v Porsche Taycan v Tesla Model S: DRAG RACE
+
+{{< youtube xwHu9xPsE3U >}}
 
 ### AutoTrader: Audi RS e-tron GT Review: Grand Touring Reinvented | 4K
 

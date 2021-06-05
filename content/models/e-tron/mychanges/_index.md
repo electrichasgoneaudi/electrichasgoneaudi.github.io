@@ -32,7 +32,17 @@ If build month is 122019 or later it should be a upgraded version
 ### MY2021 - > MY 2022 (from build week 25 2021)
 
 - vin nr has N as 10 digit for 2022 model example: WAUZZZGEX**N**B001235
-- New paint color avaiable: Chronos grey
-- Alcantara is replaced with dinamica
+- New paint color available: Chronos grey
+- Alcantara is replaced with Dinamica
 - Black optics plus package available (black rings)
+- Black Edition with orange details in interior
 - New packages for the US marked
+- The streaming service Apple Music is now available optionally as a new Audi connect service.
+
+![Chronos Grey](chronosgrey.jpg "New color for 2022 - Chronos Grey")
+
+![Black edition](blackedition.jpg "Black edition with orange interior details")
+
+![Chronos Grey](chronosgrey2.jpg "New color for 2022 - Chronos Grey")
+
+![Black edition](blackedition2.jpg "Black edition with orange interior details")

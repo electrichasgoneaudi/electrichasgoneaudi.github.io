@@ -62,6 +62,8 @@ Color code **0E**
 
 ![Audi Q4 ](paint_mythosblack_3.png "Audi Q4 Sportback 50 e-tron quattro in Mythos Black with black optics")
 
+![Audi Q4 ](paint_mythosblack_4.jpg "Audi Q4 e-tron in Mythos Black with black optics")
+
 ## Aurora Violett
 
 Color code **J6**

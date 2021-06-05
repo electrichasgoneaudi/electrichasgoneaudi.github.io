@@ -58,7 +58,7 @@ For many buyers this is a real dilemma.  We will try help you choose.
 | Heated front seats | option | option |
 | Heated rear seats | N/A | option |
 | Air Condition | standard | standard |
-| A/C zones | 2 (3 optional) | 2 (4 optional) |
+| A/C zones | 1 (3 optional) | 2 (4 optional) |
 | Heatpump | option | standard |
 | Rear window curtains | N/A | option |
 | Cruise control | option | standard |
@@ -96,6 +96,13 @@ For many buyers this is a real dilemma.  We will try help you choose.
 | Ventilated seats | N/A | option |
 | Massage seats | N/A | option |
 | Powered steering wheel adjustment | N/A | option |
+| Powered tailgate | option | standard |
+| KeyLess Go | standard | standard |
+| Keyless Entry | option | option |
+| Theft Alarm | option | option |
+| Kick sensor | option | option |
+| Audi connect key | N/A | option |
+| Air quality package | N/A | option |
 
 ### Dimension comparison
 
@@ -119,5 +126,7 @@ available on Q4 e-tron.
 Q4 e-tron has heated front windows as an option, but this is not available on Audi e-tron.
 
 Both have Head-Up Display, but only Q4 has AR version.
+
+e-tron has luxury options like ventilated individual contour seats with massage, powered adjustment of steering wheels, servo closing doors and Air quality package. Non of this is available on
 
 {{% children description="true" depth="1" %}}

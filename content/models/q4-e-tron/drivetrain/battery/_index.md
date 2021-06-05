@@ -63,4 +63,11 @@ The Q4 35 e-tron battery consist of 8 battery modules with 12 cells in each modu
 
 ![Q4 35 e-tron battery](batterycooling.jpg "Q4 35 e-tron battery")
 
+
+## Detail walkthrough of battery
+
+Below you see Sandy Munro go in details about the Q4 battery.
+
+{{< youtube 1hPe82cGLOE>}}
+
 {{% children description="true" depth="1" %}}
