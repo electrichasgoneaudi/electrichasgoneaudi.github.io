@@ -32,7 +32,8 @@ While there are three motor configurations there are only two types of electric 
 
 ### Rear electric motor
 
-The rear electric motor has the following specifictions. It is the same motor on all versions.
+The rear electric motor has the following specifictions. It is the same electric motor on all versions of Q4, but it perform different
+on Q35 vs Q40/Q50 because of different battery pack.
 
 - axial parallel achitecture
 - PSM motor with hairpin winding
@@ -57,7 +58,7 @@ The rear electric motor has the following specifictions. It is the same motor on
 - two-stage speed reduction (~10:1)
 - weight: ~60 kg
 
-![Front motor](fronmotor_1.jpg "Front electric motor")
+![Front motor](frontmotor_1.jpg "Front electric motor")
 
 The principal advantages of the ASM are its short-term overload capacity and the minimal drag losses while idling. For efficiency reasons the front e-axle comes into action only when high power or a strong grip is needed.
 
