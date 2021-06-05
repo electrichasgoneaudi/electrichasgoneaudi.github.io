@@ -59,6 +59,6 @@ Each seat type have different seat materials in different colors to choose from.
 
 ![S-line Sport seats](seats_sline_4.png "S-line Sport seats with Feinappa leather in black (A0)")
 
-![S-line Sport seats](seats_sline_8.png "S-line Sport seats with Feinappa leather in black (A0)")
+![S-line Sport seats](seats_sline_8.jpg "S-line Sport seats with Feinappa leather in black (A0)")
 
-![S-line Sport seats](seats_sline_9.png "S-line Sport seats with Feinappa leather in black (A0)")
+![S-line Sport seats](seats_sline_9.jpg "S-line Sport seats with Feinappa leather in black (A0)")
