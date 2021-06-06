@@ -9,7 +9,7 @@ weight: 6
 
 The below video show some highlights about the MEB platform.
  
-{{< youtube Agd0KroGATc>}}
+{{< youtube _fAVQy7b0QU >}}
 
 Below you find more details about the most important components of that drivetrain.
 
