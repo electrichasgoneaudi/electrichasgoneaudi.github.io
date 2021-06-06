@@ -5,6 +5,10 @@ description: Here you find different reviews of Audi e-tron GT and Audi RS e-tro
 weight: 20
 ---
 
+### Audiotography 2022 AUDI RS E-TRON GT - MOST BEAUTIFUL CAR IN THE WORLD? - TAKEN TO THE AMAZING ALPS & VIEWS
+
+{{< youtube STpb3svvYt4 >}}
+
 ### Bjørn Nyland: Audi e-tron GT range test
 
 {{< youtube LZ4dypyQokY >}}
@@ -48,6 +52,14 @@ weight: 20
 ### Top Gear: FIRST DRIVE: Audi RS e-tron GT, 637bhp EV review... feat. Marques Brownlee
 
 {{< youtube RvZGgjUFAzY >}}
+
+### Top Gear: Chris Harris Drives: Audi RS e-tron GT vs BMW M5 CS | Top Gear
+
+{{< youtube MFPpeXTEcDM >}}
+
+### Auto motor & sport: Sense & Sensibility: Audi e-tron GT vs Porsche Taycan 4S | "Twins fight!"
+
+{{< youtube AvcEa4Urstk >}}
 
 ### Autogefühl: Driving the Audi e-tron GT ! FULL REVIEW of Audi’s EV supercar
 

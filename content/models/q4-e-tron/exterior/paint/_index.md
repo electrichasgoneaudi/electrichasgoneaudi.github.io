@@ -23,6 +23,10 @@ Color code **5Y**
 
 ![Audi Q4 ](paint_geyserblue_1.png "Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color")
 
+The below footage shows dynamic driving scenes of the Audi Q4 Sportback e-tron in the colour Geyser blue on the streets of Lübeck.
+
+{{< youtube NJVqjK02u7M>}}
+
 ## Typhoon Grey
 
 Color code **2L**
@@ -36,6 +40,10 @@ Color code **2L**
 Color code **L5**
 
 ![Audi Q4 ](paint_florettsilver_1.png "Audi Q4 Sportback 50 e-tron quattro in florett silver with contrast color")
+
+The below footage shows dynamic driving scenes of the Audi Q4 Sportback e-tron in the colour Floret silver in the streets of Spain.
+
+{{< youtube JSm8Ov2XGLc >}}
 
 ## Navarra Blue
 
@@ -73,6 +81,10 @@ Color code **J6**
 ![Audi Q4 ](paint_auroraviolett_2.png "Audi Q4 Sportback 50 e-tron quattro in Aurora Violett with contrast color")
 
 ![Audi Q4 ](paint_auroraviolett_3.png "Audi Q4 Sportback 50 e-tron quattro in Aurora Violett with contrast color")
+
+The below vide shos a Audi Q4 Sportback e-tron in Aurora Violett with black optics and S-line exterior.
+
+{{< youtube B7Y5D_BPN9g>}}
 
 ## Glacier White
 
