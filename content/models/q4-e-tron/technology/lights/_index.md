@@ -6,7 +6,7 @@ weight: 3
 ---
 
 
-## The headlights: a choice of four individual and individually selectable daylight driving light signatures
+### The headlights: a choice of four individual and individually selectable daylight driving light signatures
 
 The headlights of the Q4 e-tron and the Q4 Sportback e-tron are fully equipped with LEDs as standard. On request, Audi also offers the Matrix LED headlights – they lend the two electric compact SUVs a look that is full of character and unmistakable, day and night. The next stage of evolution in daytime running lights is totally new among the competition. Using the MMI touch operating system, the driver can switch between four digital light signatures at any time. Each of them generates its own theme and lends the daytime running lights an individual expression. The variant selected is activated the next time the vehicle is started. The below show the 4 different signatures
 
@@ -28,7 +28,7 @@ See video below how HD Matrix works on an e-tron
 
 {{< youtube c9L-mwEpTDo >}}
 
-## Striking taillight signature: the light strip at the rear
+### Striking taillight signature: the light strip at the rear
 
 In combination with the Matrix LED headlights, there is also a particularly elegant light solution at the rear of the compact electric SUV. A light strip runs across its full width; at its center the taillight beams out in a fine line that splits into separate segments at its ends. Each individual segment is modeled as a three-dimensional body, resulting in a light sculpture that is expressive from all perspectives. The light signature opens up into a large light anchor segment on the sides of the vehicle. Its dynamic graphic is inspired by intricate electric circuits and bears the Four Rings radiating in signature red as the central detail. The dynamic turn signals add a further highlight in the reversing lights.
 

@@ -5,6 +5,8 @@ description: The S-line exterior package contains additional styling elements.
 weight: 4
 ---
 
+
+
 The more distinctively contoured bumper is flanked by more expressive air curtains painted in silver.
 
 In addition, the Single frame grill has a shadow look compared with the standard that has a silver look.
@@ -38,7 +40,14 @@ You get a s-line badge with the s-line package.
 
 ![s-line-badge](s-line-badge.jpg "s-line badge")
 
+The option Id is **PY2** for s-line exterior.
 
-S-line can be combined with a [black optics](/models/q4-e-tron/exterior/styling/#black-optics) package
+S-line exterior package can be combined with a [black optics](/models/q4-e-tron/exterior/styling/#black-optics) package
+
+## Additional requiremens with S-line exterior
+
+It is important to know if you want the s-line exterior option (PY2) it is required to have minimum 20" wheels and
+you need to choose sport suspension (option ID **1JC**) or dynamic driver package plus with option PY2.
+
 
 {{% children description="true" depth="1" %}}
