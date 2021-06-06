@@ -23,6 +23,17 @@ The rear diffusor have a more sporty and dynamic look.
 
 ![S-line diffusor](s-line-diffusor.jpg "S-Line rear with more sporty diffusor")
 
+Elements on the door is in silver compared to standard that has body color or contrast color for standard.
+This element is black when combined with black optics.
+
+![Standard side](standard-side.jpg "Standard side with full body color")
+
+![S-line side](s-line-side.jpg "S-line side with silver body element with contrast color")
+
+![S-line side](s-line-side-fullbody.jpg "S-line side full body color with silver element")
+
+![S-line side](s-line-side-fullbody-blackoptics.jpg "S-line side with black optics and full body color with black element ")
+
 You get a s-line badge with the s-line package.
 
 ![s-line-badge](s-line-badge.jpg "s-line badge")
