@@ -23,6 +23,11 @@ The rear diffusor have a more sporty and dynamic look.
 
 ![S-line diffusor](s-line-diffusor.jpg "S-Line rear with more sporty diffusor")
 
+You get a s-line badge with the s-line package.
+
+![s-line-badge](s-line-badge.jpg "s-line badge")
+
+
 S-line can be combined with a [black optics](/models/q4-e-tron/exterior/styling/#black-optics) package
 
 {{% children description="true" depth="1" %}}
