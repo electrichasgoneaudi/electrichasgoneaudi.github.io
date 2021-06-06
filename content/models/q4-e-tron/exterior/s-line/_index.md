@@ -7,9 +7,13 @@ weight: 4
 
 The more distinctively contoured bumper is flanked by more expressive air curtains painted in silver.
 
+In addition, the Single frame grill has a shadow look compared with the standard that has a silver look.
+
 ![Standard front](standard-front.jpg "Standard front")
 
 ![Florett Silver](s-line-front.jpg "S-line front ")
+
+![Shadow single frame grill](s-line-singleframe.jpg "Single frame grill with shadow styling")
 
 The rear diffusor have a more sporty and dynamic look.
 
