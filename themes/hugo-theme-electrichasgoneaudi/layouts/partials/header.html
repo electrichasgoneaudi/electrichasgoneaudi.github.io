@@ -25,6 +25,17 @@
       <link href="{{(printf "css/theme-%s.css" .) | relURL}}" rel="stylesheet">
     {{end}}
     
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-L8KSCGV07R"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+    
+          gtag('config', 'G-L8KSCGV07R');
+        </script>
+
+
     <script src="{{"js/jquery-2.x.min.js" | relURL}}"></script>
 
     {{ partial "custom-head.html" . }}

@@ -47,7 +47,7 @@ S-line exterior package can be combined with a [black optics](/models/q4-e-tron/
 ## Additional requiremens with S-line exterior
 
 It is important to know if you want the s-line exterior option (PY2) it is required to have minimum 20" wheels and
-you need to choose [sport suspension](https://electrichasgoneaudi.net/models/q4-e-tron/drivetrain/suspension/) (option ID **1JC**) or [dynamic package plus](https://electrichasgoneaudi.net/models/q4-e-tron/drivetrain/suspension/#dynamic-package-plus-option-py9) with option PY2.
+you need to choose [sport suspension](https://electrichasgoneaudi.net/models/q4-e-tron/drivetrain/suspension/) (option ID **1JC**) or [dynamic package plus](https://electrichasgoneaudi.net/models/q4-e-tron/drivetrain/suspension/#dynamic-package-plus-option-py9) with option PY9.
 
 
 {{% children description="true" depth="1" %}}
