@@ -43,7 +43,7 @@ fractions = false # disable automatic fraction rendering
 [params]
 editURL = "https://github.com/electrichasgoneaudi/electrichasgoneaudi.github.io/blob/master/content/"
 noHomeIcon = true # default is false
-noSearch = false # default is false
+noSearch = true # default is false
 showVisitedLinks = false # default is false
 
 
