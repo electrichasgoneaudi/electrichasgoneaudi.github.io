@@ -13,6 +13,8 @@ In addition, the Single frame grill has a shadow look compared with the standard
 
 ![Florett Silver](s-line-front.jpg "S-line front ")
 
+![Standard single frame grill](standard-singleframe.jpg "Single frame grill with silver styling")
+
 ![Shadow single frame grill](s-line-singleframe.jpg "Single frame grill with shadow styling")
 
 The rear diffusor have a more sporty and dynamic look.
