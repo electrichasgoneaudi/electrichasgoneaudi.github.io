@@ -46,6 +46,11 @@ on Q35 vs Q40/Q50 because of different battery pack. The rear electric motor has
 
 ![Front motor](rearmotor_1.jpg "Rear electric motor")
 
+Below you see Sandy Munro go through the rear motor
+
+{{< youtube 3Bab6CttkEY >}}
+
+
 ### Front electric motor
 
 Only Q5 50 Quattro has the front motor. The front electric motor has the following specifictions.
