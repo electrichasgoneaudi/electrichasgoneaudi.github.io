@@ -22,6 +22,7 @@ For many buyers this is a real dilemma.  We will try help you choose.
 | Gross battery | 82kWh | 95kWh |
 | Net battery | 77kWh | 86.5kWh |
 | Max DC Charging | 125 kW | 150 kW |
+| Pre heating battery | Yes | No |
 | WLTP Range basic trim | 488km | 441km |
 | Calculated consumption basic trim | 15.8 kWh/100km | 19.6 kWh/100km |
 | WLTP Range top trim | 449km | 369km |
