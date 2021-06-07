@@ -73,7 +73,7 @@ Color code **0E**
 
 ![Audi Q4 ](paint_mythosblack_3.png "Audi Q4 Sportback 50 e-tron quattro in Mythos Black with black optics")
 
-![Audi Q4 ](paint_mythosblack_4.jpg "Audi Q4 e-tron in Mythos Black with black optics")
+
 
 ## Aurora Violett
 
@@ -84,6 +84,8 @@ Color code **J6**
 ![Audi Q4 ](paint_auroraviolett_2.png "Audi Q4 Sportback 50 e-tron quattro in Aurora Violett with contrast color")
 
 ![Audi Q4 ](paint_auroraviolett_3.png "Audi Q4 Sportback 50 e-tron quattro in Aurora Violett with contrast color")
+
+![Audi Q4 ](paint_auroraviolett_4.jpg "Audi Q4 e-tron in Aurora Violett with black optics")
 
 The below vide shos a Audi Q4 Sportback e-tron in Aurora Violett with black optics and S-line exterior.
 
