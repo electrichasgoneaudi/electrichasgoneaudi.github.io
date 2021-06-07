@@ -67,9 +67,9 @@ Color code **2D**
 
 Color code **0E**
 
-![Audi Q4 ](paint_mythosblack_1.png "Audi Q4 Sportback 50 e-tron quattro in Mythos Black")
+![Audi Q4 ](paint_mythosblack_4.jpg "Audi Q4 50 e-tron quattro with s-line exterior in Mythos Black")
 
-![Audi Q4 ](paint_mythosblack_2.png "Audi Q4 Sportback 50 e-tron quattro in Mythos Black")
+![Audi Q4 ](paint_mythosblack_5.jpg "Audi Q4 50 e-tron quattro with s-line exterior in Mythos Black")
 
 ![Audi Q4 ](paint_mythosblack_3.png "Audi Q4 Sportback 50 e-tron quattro in Mythos Black with black optics")
 
