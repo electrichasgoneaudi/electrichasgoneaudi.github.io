@@ -13,7 +13,7 @@ Below you see photos of Audi Q4-etron and Q4 Sportback e-tron with the different
 
 This is the only non metallic pain available. Color code **C2**
 
-![Audi Q4 ](paint_stonegrey_1.jph "Audi Q4 50 e-tron quattro in Stone grey")
+![Audi Q4 ](paint_stonegrey_1.jph "Audi Q4 40 e-tron quattro in Stone grey")
 
 ## Geyser Blue
 
