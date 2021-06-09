@@ -23,7 +23,7 @@ If build month is 122019 or later it should be a upgraded version
 
 - vin nr has M as 10 digit for 2021 model example: WAUZZZGEX**M**B008973
 - Possible to order heated steeringwheel together with ACC
-- Upgraded MMI system. (changes in menus, more powerful)
+- Upgraded MMI system to MIB 3 (Modular Infotainment Toolkit) (changes in menus, more powerful).
 - Replaced USB A with USB C
 - Removed SIM and SD-card input
 ![bilde](https://user-images.githubusercontent.com/59776765/103356641-9be3da80-4ab1-11eb-9248-411935d983ad.png)
@@ -38,6 +38,7 @@ If build month is 122019 or later it should be a upgraded version
 - Black Edition with orange details in interior
 - New packages for the US marked
 - The streaming service Apple Music is now available optionally as a new Audi connect service.
+- Support for Wirless Android Auto
 
 ![Chronos Grey](chronosgrey.jpg "New color for 2022 - Chronos Grey")
 

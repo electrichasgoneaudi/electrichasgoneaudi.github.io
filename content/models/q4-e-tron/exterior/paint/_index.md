@@ -1,21 +1,42 @@
 ---
 title: Audi Q4 e-tron paint colors
 linktitle: Paint
-description: Audi Q4 e-tron comes in different paint colors
+description: Audi Q4 e-tron comes in different paint trims and paint colors
 weight: 1
 ---
+
+## Paint Trims
+
+### Basic paint
+
+On the basic trim the bumpers and wheel arches is not painted
+
+### Contrast paint
+
+The standard paint is with Manhatten grey as contrast color. Option code **FB5**
+
+![Audi Q4 ](paint_navarrablue_1.png "Audi Q4 Sportback 50 e-tron quattro in Navarra blue with contrast color")
+
+### Full body paint or with contrast paint
+
+For glacier white, mythos black, pepple grey and navarra blue you can get full body paint. Option code **FB4**
+
+![Audi Q4 ](paint_navarrablue_3.png "Audi Q4 Sportback 50 e-tron quattro in Navarra blue with full body paint")
+
+
+## Paint colors
 
 The color swatch for the Audi Q4 e-tron and Q4 Sportback e-tron contains eight colors. Their restrained character is inspired by the colors and hues found in nature. The solid paint color is called stone gray, the metallic shades are named aurora violet (new), floret silver, geyser blue, glacier white, mythos black, Navarra blue, and typhoon gray. Aurora violet is a color that has been taken from Audi Sport.
 
 Below you see photos of Audi Q4-etron and Q4 Sportback e-tron with the different colors.
 
-## Stone gray
+### Stone gray
 
 This is the only non metallic pain available. Color code **C2**
 
-![Audi Q4 ](paint_stonegrey_1.jph "Audi Q4 40 e-tron quattro in Stone grey")
+![Audi Q4 ](paint_stonegrey_1.jpg "Audi Q4 40 e-tron quattro in Stone grey")
 
-## Geyser Blue
+### Geyser Blue
 
 Color code **5Y**
 
@@ -25,7 +46,7 @@ The below footage shows dynamic driving scenes of the Audi Q4 Sportback e-tron i
 
 {{< youtube NJVqjK02u7M>}}
 
-## Typhoon Grey
+### Typhoon Grey
 
 Color code **2L**
 
@@ -33,7 +54,7 @@ Color code **2L**
 
 ![Audi Q4 ](paint_typhoongrey_2.png "Audi Q4 50 e-tron quattro in typhoon grey metallic with black optics and contrast color")
 
-## Florett Silver
+### Florett Silver
 
 Color code **L5**
 
@@ -43,7 +64,7 @@ The below footage shows dynamic driving scenes of the Audi Q4 Sportback e-tron i
 
 {{< youtube JSm8Ov2XGLc >}}
 
-## Navarra Blue
+### Navarra Blue
 
 Color code **2D**
 
@@ -59,9 +80,7 @@ Color code **2D**
 
 ![Audi Q4 ](paint_navarrablue_8.jpg "Audi Q4 Sportback 50 e-tron quattro in Navarra blue and full body color")
 
-
-
-## Mythos Black
+### Mythos Black
 
 Color code **0E**
 
@@ -71,9 +90,7 @@ Color code **0E**
 
 ![Audi Q4 ](paint_mythosblack_3.png "Audi Q4 Sportback 50 e-tron quattro in Mythos Black with black optics")
 
-
-
-## Aurora Violett
+### Aurora Violett
 
 Color code **J6**
 
@@ -89,7 +106,7 @@ The below vide shos a Audi Q4 Sportback e-tron in Aurora Violett with black opti
 
 {{< youtube B7Y5D_BPN9g>}}
 
-## Glacier White
+### Glacier White
 
 Color code **2Y**
 
