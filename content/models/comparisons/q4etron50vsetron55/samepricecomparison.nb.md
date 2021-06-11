@@ -122,7 +122,14 @@ Prisene i sammenligningen er basert på priser på audi.no 02.06.2021
 
 **Q4 50 e-tron S-line**
 
-Totalsum: 
+Totalsum: 758.800,-
+
+- Q50 bil: 484.500,-
+- S-Line eksteriør PY2 10.300,-
+- Klima og vinterpakke WNW 11740,-
+- Klimareguleringspakke PYC 6.760,-
+
+
 
 
 
