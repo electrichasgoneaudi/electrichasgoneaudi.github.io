@@ -9,7 +9,7 @@ weight: 5
 
 You can order privacy glass with option id **QL5**
 
-![Panoramic roof](privacywindows.png "Privacy windows")
+![Panoramic roof](privacywindows.jpg "Privacy windows")
 
 
 ## Heated front window
