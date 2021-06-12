@@ -2,7 +2,7 @@
 title: S-line and S exterior package
 linktitle: S-line / S
 description: There is serveral styling options to make your e-tron stick out from the growd
-weight: 4
+weight: 3
 ---
 
 The Sline exterior package contains additional styling elements. In contrast to the basic model, the attachments on the S line exterior are
