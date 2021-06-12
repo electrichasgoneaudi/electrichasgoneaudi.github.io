@@ -15,13 +15,13 @@ Without smartphone interface you are not able to use Android Auto / Apple Carpla
 
 Currently this is only avaiable in the infotainment package with optionID **PYX** that also include phone box, and two USB-C in rear seats.
 
-[See smartphone interface for details.](/models/e-tron/technology/uiandoperations/smartphoneinterface/)
+[See smartphone interface for details.](/models/q4-e-tron/technology/uiandoperations/smartphoneinterface/)
 
 ## Privacy windows: Option ID QL5
 
 Improves looks a lot and you dont need to drive around in a fish tank on display.
 
-[See windows for details](/models/e-tron/exterior/windows/#privacy-glass)
+[See windows for details](/models/q4-e-tron/exterior/windows/#privacy-glass)
 
 ## Assistantpackage Pro: Option ID PY7
 
@@ -36,6 +36,6 @@ Side assist is not part tour package and is included in two different assistant 
 
 With multicolor ambient lightning the look and feel inside the car gets to another planet.
 
-[See ambient lightning to get convinced](/models/e-tron/interior/ambientlights/)
+[See ambient lightning to get convinced](/models/q4-e-tron/interior/ambientlights/)
 
 {{% children description="true" depth="1" %}}

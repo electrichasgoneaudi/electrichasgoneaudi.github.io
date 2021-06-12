@@ -13,7 +13,7 @@ There is 3 different optics to choose from
 
 Silver optics is the standard optic.
 
-![Audi Q4 ](paint_glacierwhite_4.png "Audi Q4 Sportback 50 e-tron quattro in Glacier white")
+![Audi Q4 ](paint_glacierwhite_4.jpg "Audi Q4 Sportback 50 e-tron quattro in Glacier white")
 
 ![Audi Q4 ](silveroptics.jpg "Audi Q4 with silver optics")
 
@@ -41,7 +41,7 @@ Black accents on the front and rear bumpers
 Black moldings around the side windows
 Rails in black
 
-![Audi Q4 ](paint_typhoongrey_1.png "Audi Q4 50 e-tron quattro in typhoon grey and shadow look plus")
+![Audi Q4 ](paint_typhoongrey_1.jpg "Audi Q4 50 e-tron quattro in typhoon grey and shadow look plus")
 
 ### Black Optics
 
@@ -49,6 +49,6 @@ The black optics package contains gloss black front, rails and window rims. Opti
 
 ![Audi Q4 ](paint_glacierwhite_5.jpg "Audi Q4 Sportback 50 e-tron quattro in Glacier white with black optics")
 
-![Audi Q4 ](paint_glacierwhite_3.png "Audi Q4 Sportback 50 e-tron quattro in Glacier white with black optics")
+![Audi Q4 ](paint_glacierwhite_3.jpg "Audi Q4 Sportback 50 e-tron quattro in Glacier white with black optics")
 
 
