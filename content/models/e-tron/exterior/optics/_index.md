@@ -1,7 +1,7 @@
 ---
-title: Optics
+title: Audi e-tron optics
 linktitle: Optics
-description: The black optics package contains gloss black front, rails and window rims. 
+description: Audi e-tron can be deliverd with standard or black optics package. The black optics package contains gloss black front, rails and window rims. 
 weight: 2
 ---
 

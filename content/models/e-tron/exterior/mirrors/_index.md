@@ -1,7 +1,7 @@
 ---
-title: Mirrors
+title: Audi e-tron mirrors
 linktitle: Mirrors
-description: The mirrors can be delivered in different styles
+description: The mirrors can be delivered in 3 different styles and with different functionality.
 weight: 5
 ---
 

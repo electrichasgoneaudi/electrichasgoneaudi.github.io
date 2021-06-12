@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron paint colors
 linktitle: Paint
-description: Audi e-tron comes in different paint colors
+description: You can choose amongst over 10 standard paint colors and 3 different paint trims.
 weight: 1
 ---
 

@@ -21,7 +21,7 @@ The standard paint is with Manhatten grey as contrast color. Option code **FB5**
 
 For glacier white, mythos black, pepple grey and navarra blue you can get full body paint. Option code **FB4**
 
-![Audi Q4 ](paint_navarrablue_3.png "Audi Q4 Sportback 50 e-tron quattro in Navarra blue with full body paint")
+![Audi Q4 ](paint_navarrablue_6.jpg "Audi Q4 Sportback 50 e-tron quattro in Navarra blue with full body paint")
 
 
 ## Paint colors
