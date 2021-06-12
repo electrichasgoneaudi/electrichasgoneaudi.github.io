@@ -9,7 +9,7 @@ weight: 1
 
 ### Basic paint
 
-On the basic trim the bumpers and wheel arches is not painted
+On the basic trim the bumpers and wheel arches are not painted
 
 ### Contrast paint
 
