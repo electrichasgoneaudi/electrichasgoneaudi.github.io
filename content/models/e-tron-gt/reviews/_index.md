@@ -45,6 +45,10 @@ weight: 20
 
 {{< youtube xwHu9xPsE3U >}}
 
+### Carwow: Audi RS e-tron GT v Tesla Model S: 571-mile Scotland-to-London RACE & REVIEW!
+
+{{< youtube 6Q6arK1vluI >}}
+
 ### AutoTrader: Audi RS e-tron GT Review: Grand Touring Reinvented | 4K
 
 {{< youtube Wj9KNUhV5bY >}}

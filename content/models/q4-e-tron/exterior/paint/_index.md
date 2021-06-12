@@ -54,6 +54,10 @@ Color code **2L**
 
 ![Audi Q4 ](paint_typhoongrey_2.jpg "Audi Q4 50 e-tron quattro in typhoon grey metallic with black optics and contrast color")
 
+ The below footage shows dynamic driving scenes of the Audi Q4 e-tron in the colour Typhoon grey on the streets of Lübeck.
+
+{{< youtube H6yfrwDQ95Q >}}
+
 ### Florett Silver
 
 Color code **L5**
