@@ -2,7 +2,7 @@
 title: Painted Calibers
 linktitle: Painted Calibers
 description: You can order orange painted calibers on Audi e-tron. 
-weight: 7
+weight: 8
 ---
 
 The code is **PC2** on e-tron 55/50 and **PC4** on e-tron S.

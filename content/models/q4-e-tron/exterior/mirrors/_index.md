@@ -2,7 +2,7 @@
 title: Mirrors
 linktitle: Mirrors
 description: The mirrors can be delivered in different styles
-weight: 4
+weight: 7
 ---
 
 ## Functionality
