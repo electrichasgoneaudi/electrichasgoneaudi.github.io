@@ -28,6 +28,6 @@ While the tachometer and speedometer are displayed as large dial-type gages in d
 
 It creates a large stage for the navigation map or for lists in the phone, radio and audio areas. In this case, the tachometer and speedometer are displayed as small dial instruments.
 
-![Virtual cockpit](mminavigationvirtualcockpit.jpg) " Virtual Cockpit e-tron mode infotainment view - Nightvision")
+![Virtual cockpit](mminavigationvirtualcockpit.jpg " Virtual Cockpit e-tron mode infotainment view - Nightvision")
 
 {{% children description="true" depth="1" %}}

@@ -23,6 +23,15 @@ Improves looks a lot and you dont need to drive around in a fish tank on display
 
 [See windows for details](/models/q4-e-tron/exterior/windows/#privacy-glass)
 
+## MMI Navigation plus: Option ID PYG
+
+With the MMI Navigation Plus option you get MMI navigation system and Virtual Cockpit.
+
+See details on [MMI Navigation Plus](/models/q4-e-tron/technology/uiandoperations/mmi/#mmi-navigation-plus) and
+[Virtual Cockpit](/models/q4-e-tron/technology/uiandoperations/virtualcockpit/)
+
+
+
 ## Assistantpackage Pro: Option ID PY7
 
 The assistant package pro contains most of the important driver assist functionality  like [Adaptive Cruise Assist](/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/), [Adaptive Cruise Control](/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/)  and [Parking System Plus](/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/)
