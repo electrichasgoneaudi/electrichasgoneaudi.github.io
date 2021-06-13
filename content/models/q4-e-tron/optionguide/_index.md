@@ -25,12 +25,11 @@ Improves looks a lot and you dont need to drive around in a fish tank on display
 
 ## Assistantpackage Pro: Option ID PY7
 
-The assistant package pro contains most of the important driver assist functionality  like [Adaptive Cruise Assist](/models/e-tron/technology/drivingassistance/adaptivecruiseassist/), [Adaptive Cruise Control](/models/e-tron/technology/drivingassistance/adaptivecruisecontrol/),  [Predictive efficiency assist](/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/), [Turn Assist](/models/e-tron/technology/drivingassistance/turnassist/), [Collision avoidance assist](/models/e-tron/technology/drivingassistance/collisionavoidanceassist/),
+The assistant package pro contains most of the important driver assist functionality  like [Adaptive Cruise Assist](/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/), [Adaptive Cruise Control](/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/), [Collision avoidance assist](/models/e-tron/technology/drivingassistance/collisionavoidanceassist/),
 
-## Side assist package PCH / City package PCM
+## Security Package plus: Option ID PYU
 
-Side assist is not part tour package and is included in two different assistant packages. The side assist package include [Side Assist](/models/e-tron/technology/drivingassistance/sideassist/), [exit warning](/models/e-tron/technology/drivingassistance/exitwarning/), [cross traffic assist rear](/models/e-tron/technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](/models/e-tron/technology/drivingassistance/presenserear/). The city pacakge include the same, but in addition
-[Audi pre sense side](/models/e-tron/technology/drivingassistance/presenseside/) and [crossing assist](/models/e-tron/technology/drivingassistance/crossingassist/)
+Side assist is not part tour package and is included in two different assistant packages. The side assist package include [Side Assist](/models/q4-e-tron/technology/drivingassistance/sideassist/), [exit warning](/models/q4-e-tron/technology/drivingassistance/exitwarning/), [cross traffic assist rear](/models/q4-e-tron/technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](/models/q4-e-tron/technology/drivingassistance/presenserear/).
 
 ## Multicolour ambient lightning: Option ID QQ2
 

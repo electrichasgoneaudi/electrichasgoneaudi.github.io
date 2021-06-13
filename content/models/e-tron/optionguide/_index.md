@@ -31,9 +31,10 @@ Protects persons in rear seat from sun.
 
 The tour package contains most of the important driver assist functionality  like [Adaptive Cruise Assist](/models/e-tron/technology/drivingassistance/adaptivecruiseassist/), [Adaptive Cruise Control](/models/e-tron/technology/drivingassistance/adaptivecruisecontrol/),  [Predictive efficiency assist](/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/), [Turn Assist](/models/e-tron/technology/drivingassistance/turnassist/), [Collision avoidance assist](/models/e-tron/technology/drivingassistance/collisionavoidanceassist/), [Traffic sign recognition](/models/e-tron/technology/drivingassistance/trafficsignrecognition/), [Emergency Assist](/models/e-tron/technology/drivingassistance/emergencyassist/)
 
-## Security package plus: Option ID PYU
+## Side assist package PCH / City package PCM
 
-Side assist is not part tour package and is included in two different assistant packages. The side assist package include [Side Assist](/models/q4-e-tron/technology/drivingassistance/sideassist/), [exit warning](/models/q4-e-tron/technology/drivingassistance/exitwarning/), [cross traffic assist rear](/models/q4-e-tron/technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](/models/q4-e-tron/technology/drivingassistance/presenserear/).
+Side assist is not part tour package and is included in two different assistant packages. The side assist package include [Side Assist](/models/e-tron/technology/drivingassistance/sideassist/), [exit warning](/models/e-tron/technology/drivingassistance/exitwarning/), [cross traffic assist rear](/models/e-tron/technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](/models/e-tron/technology/drivingassistance/presenserear/). The city pacakge include the same, but in addition
+[Audi pre sense side](/models/e-tron/technology/drivingassistance/presenseside/) and [crossing assist](/models/e-tron/technology/drivingassistance/crossingassist/)
 
 ## Multicolour ambient lightning: Option ID QQ2
 
