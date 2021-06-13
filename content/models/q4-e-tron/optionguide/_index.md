@@ -25,7 +25,7 @@ Improves looks a lot and you dont need to drive around in a fish tank on display
 
 ## Assistantpackage Pro: Option ID PY7
 
-The assistant package pro contains most of the important driver assist functionality  like [Adaptive Cruise Assist](/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/), [Adaptive Cruise Control](/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/), [Collision avoidance assist](/models/e-tron/technology/drivingassistance/collisionavoidanceassist/),
+The assistant package pro contains most of the important driver assist functionality  like [Adaptive Cruise Assist](/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/), [Adaptive Cruise Control](/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/)  and [Parking System Plus](/models/q4-e-tron/technology/parkingsystemplus/)
 
 ## Security Package plus: Option ID PYU
 
