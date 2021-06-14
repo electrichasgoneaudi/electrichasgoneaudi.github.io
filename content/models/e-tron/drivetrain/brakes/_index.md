@@ -28,15 +28,16 @@ This minimizes possible friction and heat generation and contributes actively to
 
 ## Recuperation
 
-The recuperation technology in e-tron can significantly increase range, depending on topografy on roads. 
+The recuperation technology in e-tron can significantly increase range, depending on topografy on roads.
 
 On e-tron 55 and 50 the recuperation can reach 220kW depending on speed. On e-tron S it can reach 275kW. The most powerful recuperation on the marked.
 
-The video below
-{{< youtube 2WPTHi2FUdQ >}}
+The video below shows how the system works. 
 
+{{< youtube 2WPTHi2FUdQ >}}
 
 {{< youtube ooIO4r585GY >}}
 
+See also article on [one pedal driving](/guides/onepedaldriving/)
 
 {{% children description="true" depth="1" %}}
