@@ -23,6 +23,6 @@ The below video show a test of this system
 
 {{< youtube vjsfMmJ4AiM>}}
 
-This option is part of the tour driver assistance system package pro with option id **PY7**
+This option is part of the assistance system package pro with option id **PY7**
 
 {{% children description="true" depth="1" %}}
