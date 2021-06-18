@@ -98,10 +98,6 @@ Color code **0E**
 
 Color code **J6**
 
-![Audi Q4 ](paint_auroraviolett_1.jpg "Audi Q4 Sportback 50 e-tron quattro in Aurora Violett with contrast color")
-
-![Audi Q4 ](paint_auroraviolett_2.jpg "Audi Q4 Sportback 50 e-tron quattro in Aurora Violett with contrast color")
-
 ![Audi Q4 ](paint_auroraviolett_3.jpg "Audi Q4 Sportback 50 e-tron quattro in Aurora Violett with contrast color")
 
 ![Audi Q4 ](paint_auroraviolett_4.jpg "Audi Q4 Sportback 40 e-tron in Aurora Violett with black optics")
