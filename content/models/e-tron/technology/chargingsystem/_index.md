@@ -44,7 +44,9 @@ Additional features of the e-tron charging system connect include PIN protection
 
 | Connection | Plug  | capacity | 10-100% charging |
 | ------| ------| ---- |------- |
-| 230Volt | Domestic  | 1.8kW |  46 hours |
+| 120Volt | Domestic NEMA 5-20 | 1.2kW |  46 hours |
+| 240Volt | Industrial NEMA 14-50 | 9.6kW |  46 hours |
+| 230Volt | Domestic Type F | 1.8kW |  46 hours |
 | 400V 32A 3phase | Industrial |  22KW | 4 hours |
 | 400V 16A 3phase | Industrial |  11KW | 8 hours |
 | 230V 32A 1phase | Industrial |  7.2KW | 11.5 hours |
