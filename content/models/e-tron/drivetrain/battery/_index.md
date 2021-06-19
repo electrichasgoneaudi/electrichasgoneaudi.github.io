@@ -109,9 +109,14 @@ Max chargespeed is 125kW
 
 ## Summary
 
-etron 55/60S has 95kWh vs 71 kWh on etron 50
-etron 55/60S uses LG pouch battery cells while e-tron 50 uses Samsung prismatic cells
-etron 55/60S can charge with up to 150KW speeed, while e-tron 50 can up to 120 KW.
-etron 55/60S has 36 modules, 50 has 27.
+|Spec | 95kWh pack | 71 kWh pack |
+|---- | -----|-----|
+| Nominal voltage | 396 volt | 396 volt |
+| Modules | 36 | 27 |
+| Cells  | 432  | 324 |
+| Cell type | LG | Samsung SDI |
+| Max  DC Charging | 150kw | 120kw |
+| Cell configuration | 108s4p |108s3p|
+
 
 {{% children description="true" depth="1" %}}
