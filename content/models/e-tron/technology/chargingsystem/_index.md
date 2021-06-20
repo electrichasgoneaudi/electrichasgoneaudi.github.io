@@ -8,7 +8,7 @@ weight: 6
 The Charging System Compact is not the charger, technically speaking. This equipment is known as [EVSE](https://en.wikipedia.org/wiki/Charging_station) (Electric Vehicle Supply Equipment) and serves as a
 controller that ensures safe power delivery between your home and the vehicle. Every Audi e-tron comes equipped with this charging system as standard.
 
-For Levels 1 (120 volt AC) and Level 2 (230/400 volt AC), the actual charging process takes place via the vehicle’s own on-board charger. The onboard charger converts AC power from your home into
+For Levels 1 (120 volt AC) and Level 2 (230/400 volt AC), the actual charging process takes place via the vehicle’s own [on-board charger](../onboardcharger/). The onboard charger converts AC power from your home into
 DC power, which is what batteries use to store and supply energy.
 
 It is currently available in two versions and is meant for use when a fixed level 2 or level 3 installation is not available and you need to charge your e-tron from a domestic or industrial AC socket.
@@ -19,10 +19,10 @@ In the US the charging system has a [J1772 connector](https://en.wikipedia.org/w
 
 ## e-tron charging System Compact
 
-The charging system compact is the standard system provied with e-tron.
+The charging system compact is the standard system provided with e-tron.
 
-It comes in different version based on country it sells. In some countries in europe you can choose
-between 230 volt system and 400 volt system when ordering the car.
+It comes in different versios based on the country it sells. In some countries in Europe you can choose
+between a 230-volt system and a 400-volt system when ordering the car.
 
 ![Charging system](chargingsystemcompact2.jpg "Charging system compact")
 
@@ -69,12 +69,12 @@ The system has optionId **NW2**
 
 ## Use with caution
 
-For home use you it is highly recomended that you use a fixed installed wall charger to reduce the risk of fire. Domestic outlets typical is not created for charging over time.
+For home use, it is highly recommended  that you use a fixed installed wall charger to reduce the risk of fire. Domestic outlets typically are not created for supporting high current over many hours like EV charging.
 
-Thats why the portable charging system often is called an "emergency charging system".
+That's why the portable charging system often is called an "emergency charging system".
 
-Using the same outlet over time casues stress to the outlet and there is high risk for meltdown. Below you see some pictures of outlets that melted for e-tron owners that did not
-install a hardwired charging system. This is not a specific Audi issue, but relevant for all EV that charge with high current.
+Using the same outlet over time causes stress to the outlet and there is a high risk for a meltdown. Below you see some pictures of outlets that melted for e-tron owners that did not
+install a hardwired charging system. This is not a specific Audi issue, but relevant for all EVs that charge with high current.
 
 ![Overheated](burned_nema_14_50.jpg "Burned nema 14-50 outlet used for Audi e-tron")
 
