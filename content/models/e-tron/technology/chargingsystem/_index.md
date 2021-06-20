@@ -2,7 +2,7 @@
 title: Audi e-tron Charging System
 linktitle: Charging System
 description: Audi e-tron includes a portable charging system for temporary level 1 and level 2 charging.
-weight: 2
+weight: 6
 ---
 
 The Charging System Compact is not the charger, technically speaking. This equipment is known as [EVSE](https://en.wikipedia.org/wiki/Charging_station) (Electric Vehicle Supply Equipment) and serves as a

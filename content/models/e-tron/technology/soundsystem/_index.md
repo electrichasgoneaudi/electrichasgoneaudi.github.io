@@ -2,7 +2,7 @@
 title: Audi e-tron infotainment
 linktitle: Soundsystem
 description: You can choose between two different sound systems on Audi e-tron  
-weight: 2
+weight: 7
 ---
 
 ## Audi sound system
