@@ -28,7 +28,7 @@ For many buyers this is a real dilemma.  We will try help you choose.
 | WLTP Range top trim | 449km | 369km |
 | Calculated consumption top trim | 17.14 kWh/100km | 23.4 kWh/100km |
 | Max trailer weight | 1200kg | 1800kg |
-| Roof rails | option | option |
+| Roof rails | standard | option |
 | Max roof weight | 75kg | 75kg |
 | Cargo space | 520 l| 660 l |
 | Cargo space seat down | 1490l | 1725 l |
