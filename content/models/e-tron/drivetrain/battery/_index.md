@@ -34,6 +34,22 @@ The cell used is before january 2021 is LG Chem E66A. The cell type is [LG Pouch
 
 After january 2021 Audi replaced the battery cells on e-tron 55 batteries with [Samsung SDI cells](https://www.electrive.net/2020/07/23/audi-chef-duesmann-sieht-batterie-probleme-beim-e-tron-als-geloest/). This is belived mainly to be becuase of LG focused on other cells to other VAG cars. 
 
+|Spec | Value |
+|-----|------|
+| Producer | Samsung SDI|
+| Model |  |
+| Nominal Capacity |60 Ah |
+| Nominal Voltage | 3,666666 V |
+| Nominal energy | 219,907 Wh |
+| Thickness|  ? |
+| Width | ? |
+| Height | ? |
+| Volume | ? |
+| Weight | ? g |
+| Volumetric Energy Density | ?  Wh/L |
+| Gravimetric Energy Density | ? Wh/kg |
+| Chemistry | [NCM 622](https://en.wikipedia.org/wiki/Lithium-ion_battery) |
+
 ### Battery pack capacity
 
 Each cell is on 60ah and is 3.666666 nominal volt
@@ -84,6 +100,8 @@ They are of type [Samsung Prismatic](https://www.samsungsdi.com/automotive-batte
 Each cell is on 60ah and is 3.67 volt
 In each module the cells are grouped in 3 cells. The cells are coupled in paralell
 giving it 60ah + 60ah + 60ah = 180ah capacitance.
+
+![Connection](connection50.png "Cell connection e-tron 50")
 
 The 4 groups with 3 cells are then coupled in serial. Giving it 3.66V + 3.66V + 3,66  +3.66 volt giving it 14.66 volt for each module
 
