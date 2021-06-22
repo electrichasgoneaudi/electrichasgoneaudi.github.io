@@ -66,7 +66,7 @@ With the optional massage function, the user can select from three different int
 |Power 4-way lumbar adjustment |option | standard | standard |standard | standard |
 |Power seat adjustment driver | option | option | standard |standard | standard |
 |Power seat adjustment passenger | option | option | standard |standard | standard |
-|Driver seat memory | option | option | option |N/A | standard |
+|Driver seat memory | option | option | option | standard | standard |
 |Passenger seat memory | N/A | N/A | N/A |N/A | standard |
 |Front seat ventilation| N/A | N/A | N/A |N/A |option |
 |Front seat massage| N/A | N/A | N/A |N/A |option |

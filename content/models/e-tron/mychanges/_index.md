@@ -13,8 +13,12 @@ weight: 8
 ### MY2020 - > MY2020v2 (build week 49 2019)
 
 - Reduced top buffer. Available battery is increased from 83,6kWh to 86.5kWh
-- Some other hardware changes without any documented effect.
+- Other performance improvments
 - Also available as e-tron 50 with smaller battery
+- Avaiable as Sportback from week 2-2020
+
+![Uppgrades](my2020v2.jpg "Upgrades to e-tron 55 from week 49-2019 and how they affect range")
+
 
 If build month is 122019 or later it should be a upgraded version
 ![bilde](https://user-images.githubusercontent.com/59776765/114271439-a64b3400-9a11-11eb-9e5e-0cae5310ef28.png)
