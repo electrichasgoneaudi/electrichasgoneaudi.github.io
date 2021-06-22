@@ -4,6 +4,9 @@ linktitle: Model Year changes
 description: Here you find the details about the different model years.
 weight: 8
 ---
+
+### MY2019 - Production start Week 36 2018
+
 ### MY2019 - > MY2020 Week 28 2019
 
 - Lidar radar is gone on 2020 model
@@ -13,7 +16,7 @@ weight: 8
 ### MY2020 - > MY2020v2 (build week 49 2019)
 
 - Reduced top buffer. Available battery is increased from 83,6kWh to 86.5kWh
-- Other performance improvments
+- Other efficiency improvments (see diagram below)
 - Also available as e-tron 50 with smaller battery
 - Avaiable as Sportback from week 2-2020
 
