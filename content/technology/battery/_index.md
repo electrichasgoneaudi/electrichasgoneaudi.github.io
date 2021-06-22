@@ -83,12 +83,6 @@ This cell type is used on Audi e-tron GT and Audi RS e-tron GT
 | [Q6 e-tron](/models/q6-e-tron/drivetrain/battery/)*1 | LGX E78?|  392? | 16? | 700? | 192s2p? | 110 kWh? |
 | A6 e-tron *2 | LGX E78?|  392? | 16? | 700? | 192s2p? | 110 kWh? |
 
-*1 Audi Q6 details is not yet confirmed.
-
-*2 Audi A6 details is not yet confirmed.
-
-*3 From January 2021 there is some unconfirmed changes that Audi uses Samsung
-
 ## Battery pack performance
 
 |  | Gross capacity | Net capacity | Max DC Charging | Weight | kWh/kg |
@@ -101,5 +95,12 @@ This cell type is used on Audi e-tron GT and Audi RS e-tron GT
 | [Q4 e-tron 50](/models/q4-e-tron/drivetrain/battery/#battery-q4-40-e-tron-and-q4-50-e-tron) | 82kWh | 77kWh | 125kW | 493kg | 0.188 |
 | [Q4 e-tron 40](/models/q4-e-tron/drivetrain/battery/#battery-q4-40-e-tron-and-q4-50-e-tron) | 82kWh | 77kWh | 125kW | 493kg | 0.188 |
 | [Q4 e-tron 35](/models/q4-e-tron/drivetrain/battery/#battery-q4-35) | 55kWh | 52kWh | 100kW | 344kg | 0.160 |
+
+
+*1 Audi Q6 details is not yet confirmed.
+
+*2 Audi A6 details is not yet confirmed.
+
+*3 From January 2021 Audi uses Samsung cells on e-tron 55
 
 {{% children description="true" depth="1" %}}

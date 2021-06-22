@@ -5,14 +5,14 @@ description: Audi e-tron have two different variants of the battery
 weight: 7
 ---
 
-## Battery Audi e-tron 55/e-tron 60S
+## Battery e-tron 60S and Audi e-tron 55
 
 The battery for Audi e-tron 55/e-tron 60S is totally on 95kWh and 396 volt and have the part number  1 AX2
 It has totally 36 modules with 12 cells each that gives totally 432 cells.
 
 ### Cell technology
 
-The cell used is LG Chem E66A. The cell type is [LG Pouch Cell](https://www.youtube.com/watch?v=Q2Lczd7MjGc) produced in [Poland](https://www.google.no/maps/search/lg+chem+poland/@51.0183429,16.8906359,995m/data=!3m1!1e3).
+The cell used is before january 2021 is LG Chem E66A. The cell type is [LG Pouch Cell](https://www.youtube.com/watch?v=Q2Lczd7MjGc) produced in [Poland](https://www.google.no/maps/search/lg+chem+poland/@51.0183429,16.8906359,995m/data=!3m1!1e3).
 
 |Spec | Value |
 |-----|------|
@@ -32,10 +32,7 @@ The cell used is LG Chem E66A. The cell type is [LG Pouch Cell](https://www.yout
 
 ![Audi](lgchenx21.jpg "LGX N2.1 60AH pouch cell from LG Chem")
 
-**UPDATE AUGUST 2020: AUDI has from [August 2020 started using Samung Prismatic cells also in some E-55](https://www.electrive.net/2020/07/23/audi-chef-duesmann-sieht-batterie-probleme-beim-e-tron-als-geloest/). Currently we dont how this will affect performance**
-
-**Update January 2021: All deliveries was halted some weeks for recertification of battery because of changes. This might be the transformation to Samsung SDI. Yet
-to be confirmed**
+After january 2021 Audi replaced the battery cells on e-tron 55 batteries with [Samsung SDI cells](https://www.electrive.net/2020/07/23/audi-chef-duesmann-sieht-batterie-probleme-beim-e-tron-als-geloest/). This is belived mainly to be becuase of LG focused on other cells to other VAG cars. 
 
 ### Battery pack capacity
 
@@ -96,7 +93,6 @@ The 4 groups with 3 cells are then coupled in serial. Giving it 3.66V + 3.66V + 
 Module with 12 60Ah  Prismatic cells from e-golf. (not found any picture for e-tron)
 
 ![bilde](https://user-images.githubusercontent.com/59776765/73131174-70857f80-4006-11ea-84bd-a1f2d5848613.png)
-
 
 The diagram below shows how the etron 50 / e-tron sportback 50 has less modules.
 
