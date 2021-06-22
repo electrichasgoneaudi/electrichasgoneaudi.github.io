@@ -91,6 +91,8 @@ The battery for Audi e-tron 50 is totaly on 71kWh and
 It has totally 27 modules with 12 cells each that gives totally 324 cells
 3.68 x 60ah x  324 cells = 71.5 kWh.
 
+![e-tron 50 battery](etron50battery.jpg "e-tron 50 battery")
+
 Max charging speed is 120kW.
 
 The cells are produced by Samsung SDI in [Budapest, Hungary](https://www.google.com/maps/place/Samsung+SDI+Hungary+Zrt./@47.6765476,19.168821,2130m/data=!3m1!1e3!4m5!3m4!1s0x0:0x45db42011a2687d9!8m2!3d47.6779532!4d19.170087)
@@ -104,7 +106,6 @@ giving it 60ah + 60ah + 60ah = 180ah capacitance.
 ![Connection](connection50.png "Cell connection e-tron 50")
 
 The 4 groups with 3 cells are then coupled in serial. Giving it 3.66V + 3.66V + 3,66  +3.66 volt giving it 14.66 volt for each module
-
 
 ![bilde](https://user-images.githubusercontent.com/59776765/73117720-11623500-3f4a-11ea-9b37-4b19050ec1df.png)
 
