@@ -18,7 +18,8 @@ weight: 8
 - Reduced top buffer. Available battery is increased from 83,6kWh to 86.5kWh
 - Other efficiency improvments (see diagram below)
 - Also available as e-tron 50 with smaller battery
-- Avaiable as Sportback from week 2-2020
+- Available as Sportback from week 2-2020
+- Upgrade is not available as update to older models
 
 ![Uppgrades](my2020v2.jpg "Upgrades to e-tron 55 from week 49-2019 and how they affect range")
 
