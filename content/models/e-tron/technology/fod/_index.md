@@ -11,11 +11,10 @@ Functions on demand allows you to stay flexible and add further features even af
 
 The following equipment is available for function on demand
 
-- Audi smartphone interface
+- [Audi smartphone interface](/models/e-tron/technology/uiandoperations/smartphoneinterface/)
 - DAB-radio
-- MMI navigation plus
-- LED-Matrix
-- Light function package
+- [LED-Matrix](/models/e-tron/technology/lights/)
+- [Light function package](/models/e-tron/technology/lights/)
 - High Beam assistant
 - Park Assist
 
