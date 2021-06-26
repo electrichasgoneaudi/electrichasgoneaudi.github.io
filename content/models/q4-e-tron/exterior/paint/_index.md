@@ -35,9 +35,9 @@ This is the only non metallic pain available. Color code **C2**
 
 ![Audi Q4 ](paint_stonegrey_1.jpg "Audi Q4 40 e-tron in Stone grey")
 
-![Audi Q4 ](paint_stonegrey_2.jpg "Audi Q4 50 e-tron quattro in Stone grey")
+![Audi Q4 ](paint_stonegrey_2.jpg "Audi Q4 50 e-tron quattro in Stone grey with black optics")
 
-![Audi Q4 ](paint_stonegrey_3.jpg "Audi Q4 50 e-tron quattro in Stone grey")
+![Audi Q4 ](paint_stonegrey_3.jpg "Audi Q4 50 e-tron quattro in Stone grey with black optics")
 
 ### Geyser Blue
 
