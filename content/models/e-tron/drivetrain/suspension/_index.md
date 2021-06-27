@@ -18,6 +18,8 @@ The central chassis control unit, the electronic chassis platform (ECP), individ
 cycles in the order of milliseconds – according to the road surface condition, driving style and the mode the driver sets in the Audi drive select dynamic handling system.
 Solenoid damper valves vary the volumetric flow of the hydraulic fluid.
 
+Adaptive Air Suspension has optionId **1BK** and adaptive air suspension sport has option ID **2MB**
+
 ## Regulating characteristics
 
 ![Audi drive select](audidriveselect.png "Audi Drive Select options adjust ride heights")
