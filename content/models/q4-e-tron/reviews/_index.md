@@ -5,6 +5,18 @@ description: Here you find different reviews of Audi Q4 e-tron
 weight: 20
 ---
 
+### Bjørn Nyland: Audi Q4 e-tron range test
+
+{{< youtube c8Fp1antVfA >}}
+
+### Bjørn Nyland: Audi Q4 e-tron interior review
+
+{{< youtube 19jP4Ot2I68 >}}
+
+### Bjørn Nyland: Audi Q4 e-tron banana box test
+
+{{< youtube CWOiT12WbO8 >}}
+
 ### Autogefühl: The newest Audi EV! Audi Q4 e-tron SUV vs Sportback REVEAL review
 
 {{< youtube 4ihZXQIlpRM >}}

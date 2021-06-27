@@ -23,7 +23,6 @@ For glacier white, mythos black, pepple grey and navarra blue you can get full b
 
 ![Audi Q4 ](paint_navarrablue_6.jpg "Audi Q4 Sportback 50 e-tron quattro in Navarra blue with full body paint")
 
-
 ## Paint colors
 
 The color swatch for the Audi Q4 e-tron and Q4 Sportback e-tron contains eight colors. Their restrained character is inspired by the colors and hues found in nature. The solid paint color is called stone gray, the metallic shades are named aurora violet (new), floret silver, geyser blue, glacier white, mythos black, Navarra blue, and typhoon gray. Aurora violet is a color that has been taken from Audi Sport.
@@ -34,7 +33,11 @@ Below you see photos of Audi Q4-etron and Q4 Sportback e-tron with the different
 
 This is the only non metallic pain available. Color code **C2**
 
-![Audi Q4 ](paint_stonegrey_1.jpg "Audi Q4 40 e-tron quattro in Stone grey")
+![Audi Q4 ](paint_stonegrey_1.jpg "Audi Q4 40 e-tron in Stone grey")
+
+![Audi Q4 ](paint_stonegrey_2.jpg "Audi Q4 50 e-tron quattro in Stone grey with black optics")
+
+![Audi Q4 ](paint_stonegrey_3.jpg "Audi Q4 50 e-tron quattro in Stone grey with black optics")
 
 ### Geyser Blue
 
