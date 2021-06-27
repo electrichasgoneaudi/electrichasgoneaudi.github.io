@@ -22,7 +22,7 @@ All e-tron have powered tailgate.
 
 All door are equiped with lights
 
-![Door lights](doorlight.jpg "Door lights)
+![Door lights](doorlight.jpg "Door lights")
 
 ## Servo closing
 
