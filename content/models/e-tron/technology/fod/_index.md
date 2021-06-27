@@ -13,8 +13,8 @@ The following equipment is available for function on demand
 
 - [Audi smartphone interface](/models/e-tron/technology/uiandoperations/smartphoneinterface/)
 - DAB-radio
-- [LED-Matrix](/models/e-tron/technology/lights/)
-- [Light function package](/models/e-tron/technology/lights/)
+- [LED-Matrix](/models/e-tron/technology/lights/#hd-matrix-led-headlights)
+- [Light function package](/models/e-tron/technology/lights/#hd-matrix-led-headlights)
 - High Beam assistant
 - Park Assist
 
