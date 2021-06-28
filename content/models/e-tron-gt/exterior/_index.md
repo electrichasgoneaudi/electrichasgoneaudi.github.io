@@ -6,7 +6,7 @@ weight: 4
 ---
 
 
-![RS e-tron GT exterior](exterior.jpg "RS e-tron GT exterior")
+![RS e-tron GT exterior](exterior.jpg "RS e-tron GT exterior by Auditography")
 
 See below for the exterior options.
 
