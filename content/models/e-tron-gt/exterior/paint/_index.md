@@ -24,6 +24,14 @@ Color Code: **Y1**
 
 ### Ascari Blue
 
+![Audi e-tron GT in Kemora Grey](paint_ascari_1.jpg "Audi e-tron GT in Ascari Blue")
+
+![Audi e-tron GT in Kemora Grey](paint_ascari_2.jpg "Audi e-tron GT in Ascari Blue")
+
+![Audi e-tron GT in Kemora Grey](paint_ascari_3.jpg "Audi e-tron GT in Ascari Blue")
+
+![Audi e-tron GT in Kemora Grey](paint_ascari_4.jpg "Audi e-tron GT in Ascari Blue")
+
 Color Code **9W**
 
 ### Florett Silver
