@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron wheels
 linktitle: Wheels
-description: Audi e-tron comes in different styling, colors and wheels
+description: Audi e-tron have serveral wheels to choose from.
 weight: 4
 ---
 

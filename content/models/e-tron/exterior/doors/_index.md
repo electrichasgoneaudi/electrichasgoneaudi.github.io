@@ -24,6 +24,14 @@ All door are equiped with lights
 
 ![Door lights](doorlight.jpg "Door lights")
 
+## Entry lights
+
+You can add cool entry lights to the e-tron doors.
+
+![Entry lights](entry-light.jpg "Entry lights")
+
+OptionId ****
+
 ## Servo closing
 
 With servo closing of doors the doors are closed automatic the last cm. 
