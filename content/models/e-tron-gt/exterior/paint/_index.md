@@ -22,6 +22,8 @@ Color Code: **T9**
 
 Color Code: **Y1**
 
+![Audi e-tron GT in Kemora Grey](paint_tangored_1.jpg "Audi RS e-tron GT in Tango Red")
+
 ### Ascari Blue
 
 ![Audi e-tron GT in Kemora Grey](paint_ascari_1.jpg "Audi e-tron GT in Ascari Blue")
