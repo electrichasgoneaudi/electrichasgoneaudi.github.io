@@ -14,6 +14,15 @@ The following wheels have been available from Audi to Audi e-tron. Varies for th
 
 ![20 inch 5 double arm offset design, platina grey by Auditography](wheel_47K_1.jpg "20 inch 5 double arm offset design, platina grey by Auditography")
 
+
+## 20" 5 double arm offset design, black/aluminium
+
+9j x 20 with 245/45 in front and 11J x 20 with 285/40 rear Part No: **47H**
+
+![20 inch 5 double arm offset design, platina grey by Auditography](wheel_47H_1.jpg "20 inch 5 double arm offset design, black/aluminium")
+
+![20 inch 5 double arm offset design, platina grey by Auditography](wheel_47H_2.jpg "20 inch 5 double arm offset design, black/aluminium")
+
 ## 20" 5 arm aero design
 
 9j x 20 with 245/45 in front and 11J x 20 with 285/40 rear Part No: **47I**
