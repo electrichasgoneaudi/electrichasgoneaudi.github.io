@@ -6,12 +6,12 @@ weight: 6
 ---
 
 The Charging System Compact is not the charger, technically speaking. This equipment is known as [EVSE](https://en.wikipedia.org/wiki/Charging_station) (Electric Vehicle Supply Equipment) and serves as a
-controller that ensures safe power delivery between your home and the vehicle. Every Audi e-tron comes equipped with this charging system as standard.
+controller that ensures safe power delivery between your home and the vehicle. Every Audi Q4 e-tron comes equipped with this charging system as standard.
 
 For Levels 1 (120 volt AC) and Level 2 (230/400 volt AC), the actual charging process takes place via the vehicle’s own [on-board charger](../onboardcharger/). The onboard charger converts AC power from your home into
 DC power, which is what batteries use to store and supply energy.
 
-It is meant for use when a fixed level 2 or level 3 installation is not available and you need to charge your e-tron from a domestic or industrial AC socket.
+It is meant for use when a fixed level 2 or level 3 installation is not available and you need to charge your Q4 e-tron from a domestic or industrial AC socket.
 
 In the US the charging system has a [J1772 connector](https://en.wikipedia.org/wiki/SAE_J1772) to connect to the car, while in Europe it has a [Type 2 connector](https://en.wikipedia.org/wiki/Type_2_connector).
 
