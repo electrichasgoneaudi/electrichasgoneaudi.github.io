@@ -7,33 +7,25 @@ weight: 1
 
 Each seat type have different seat materials in different colors to choose from. Making it possible to configure the interior just as you like it.
 
-## Seat functionality
-
-The standard seats are manual.
-
-![Manual seats](seats_control_manual.jpg "Manual seat with manual control of height and angel")
-
-### 4-way lumbar support
-
-As an option to standard seats you can add 4-way electric lumbar support that can be adjusted to how you like it. Option id **7P1**
-
-Lumbard support is standard on all seats except standard seats. (Required option)
-
-![Lumbard support](seats_control_manualwithlumbard.jpg "Manual seat with electric lumbard adjustment")
-
 ### Electric adjustment
 
-All seats have electric adjustment.
+All seats have electric adjustment of seat height, back angel and horisontal placement
 
 ### Memory
 
 On Sport Plus seat you can add memory. It is standard on Sport Pro seats.
 
+![Seat memory](seat_memory.jpg "Seat memory is controlled in driver door")
+
+### 4-way lumbar support
+
+On Sport Plus and Pro seats you have 4-way electric lumbar support that can be adjusted to how you like it. 
+
 ### Ventilated seats
 
-Sport Pro has ventilated seats
+Sport Pro has ventilated seats.
 
-
+![Ventilation control](seat_ventilationcontrol_1.jpg "Seat ventilation is controlled in AC control")
 
 ### Massage
 
