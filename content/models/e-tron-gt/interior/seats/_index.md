@@ -9,7 +9,9 @@ Each seat type have different seat materials in different colors to choose from.
 
 ### Electric adjustment
 
-All seats have electric adjustment of seat height, back angel and horisontal placement
+All seats have electric adjustment of seat height, back angel and horisontal placement.
+
+![Electric adjustment](seat_adjustment_1.jpg "Seat with electric adjustment and lumbar support")
 
 ### Memory
 
@@ -33,7 +35,7 @@ With the optional massage function on Sport Pro seats, the user can select from 
 
 
 | **Seat type** | **Sport** | **Sport Plus** | **Sport Pro**|
-|-------|-------|-------|-------|-------|-------|
+|-------|-------|-------|-------|
 |Adjustment of headrest height | N/A  |N/A ||N/A  |
 |Adjustment of headrest distance| N/A  | N/A | N/A  |
 |Front seat heating| standard |standard | standard |
@@ -65,3 +67,7 @@ With the optional massage function on Sport Pro seats, the user can select from 
 ![Sport Pro seats](seats_sportpro_1.jpg "Sport Pro seats")
 
 ![Sport Pro seats](seats_sportpro_2.jpg "Sport Pro seats")
+
+![Sport Pro seats](seats_sportpro_3.jpg "Sport Pro seats")
+
+![Sport Pro seats](seats_sportpro_4.jpg "Sport Pro seats")
