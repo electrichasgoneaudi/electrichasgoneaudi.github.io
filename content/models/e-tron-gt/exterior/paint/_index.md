@@ -14,27 +14,31 @@ The different standard colors are
 
 Color Code: **T9**
 
-![Audi e-tron GT in Kemora Grey](paint_ibis_1.jpg "Audi e-tron GT in Ibis White")
+![Audi e-tron GT in Ibis White](paint_ibis_1.jpg "Audi e-tron GT in Ibis White")
 
-![Audi e-tron GT in Kemora Grey](paint_ibis_2.jpg "Audi e-tron GT in Ibis White")
+![Audi e-tron GT in Ibis White](paint_ibis_2.jpg "Audi e-tron GT in Ibis White")
+
+![Audi e-tron GT in Ibis White](paint_ibis_3.jpg "Audi e-tron GT in Ibis White")
+
+![Audi e-tron GT in Ibis White](paint_ibis_4.jpg "Audi e-tron GT in Ibis White")
 
 ### Tango Red
 
 Color Code: **Y1**
 
-![Audi e-tron GT in Kemora Grey](paint_tangored_1.jpg "Audi RS e-tron GT in Tango Red")
+![Audi RS e-tron GT in Tango Red](paint_tangored_1.jpg "Audi RS e-tron GT in Tango Red")
 
 ### Ascari Blue
 
-![Audi e-tron GT in Kemora Grey](paint_ascari_1.jpg "Audi e-tron GT in Ascari Blue")
-
-![Audi e-tron GT in Kemora Grey](paint_ascari_2.jpg "Audi e-tron GT in Ascari Blue")
-
-![Audi e-tron GT in Kemora Grey](paint_ascari_3.jpg "Audi e-tron GT in Ascari Blue")
-
-![Audi e-tron GT in Kemora Grey](paint_ascari_4.jpg "Audi e-tron GT in Ascari Blue")
-
 Color Code **9W**
+
+![Audi e-tron GT in Ascari Blue](paint_ascari_1.jpg "Audi e-tron GT in Ascari Blue")
+
+![Audi e-tron GT in Ascari Blue](paint_ascari_2.jpg "Audi e-tron GT in Ascari Blue")
+
+![Audi e-tron GT in Ascari Blue](paint_ascari_3.jpg "Audi e-tron GT in Ascari Blue")
+
+![Audi e-tron GT in Ascari Blue](paint_ascari_4.jpg "Audi e-tron GT in Ascari Blue")
 
 ### Florett Silver
 
