@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 e-tron Charging System
 linktitle: Charging System
-description: Audi q¤ e-tron includes a portable charging system for temporary level 1 and level 2 charging.
+description: Audi Q4 e-tron includes a portable charging system for temporary level 1 and level 2 charging.
 weight: 6
 ---
 
