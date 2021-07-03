@@ -1,5 +1,5 @@
 ---
-title: Audi e-tron technology
+title: Audi e-tron lights technology
 linktitle: Lights
 description: Audi e-tron has a lot of lightning options
 weight: 3
