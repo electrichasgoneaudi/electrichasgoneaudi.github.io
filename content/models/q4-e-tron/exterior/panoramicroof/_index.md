@@ -11,9 +11,9 @@ You can order panoramic roof with option id **3FU**
 
 ![Panoramic roof](panoramaroof.jpg "Panoramic roof")
 
-![Panoramic roof](openroof.jpg "Panoramic roof")
+![Panoramic roof](openroof.jpg "The roof can be tilted.")
 
-![Panoramic roof](openroof_2.jpg "Panoramic roof")
+![Panoramic roof](openroof_2.jpg "The roof can be fully opened giving the cabriolet feeling light")
 
 ![Panoramic roof](control.jpg "The roof controls")
 
