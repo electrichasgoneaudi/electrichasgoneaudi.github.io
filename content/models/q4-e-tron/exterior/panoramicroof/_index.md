@@ -11,4 +11,10 @@ You can order panoramic roof with option id **3FU**
 
 ![Panoramic roof](panoramaroof.jpg "Panoramic roof")
 
+![Panoramic roof](openroof.jpg "Panoramic roof")
+
+![Panoramic roof](openroof_2.jpg "Panoramic roof")
+
+![Panoramic roof](control.jpg "The roof controls")
+
 {{% children description="true" depth="1" %}}
