@@ -40,7 +40,4 @@ Below you see some of the mode and views available in Virtual Cockpit
 
 ![Virtual cockpit](view_standard_2.png "Virtual Cockpit standard mode infotainment view - Navigation with Google maps")
 
-
-
-
 {{% children description="true" depth="1" %}}
