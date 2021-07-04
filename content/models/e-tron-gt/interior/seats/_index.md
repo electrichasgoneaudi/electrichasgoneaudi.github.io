@@ -58,7 +58,7 @@ Sport seats are only available with black leather/artifical leather mono.pur 555
 
 ## Sport Plus Seats
 
-Sport seats are avilable with animal free Dynamica microfiber/artificial mono.pur550 leather and cascade fabric/artifical mono.pur 550 leather.
+Sport seats are available with animal free Dynamica microfiber/artificial mono.pur550 leather and cascade fabric/artifical mono.pur 550 leather.
 
 ![Sport Plus seats](seats_sportplus_1.jpg "Sport Plus seats with cascade fabric/artifical mono.pur 550 leather")
 
