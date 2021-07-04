@@ -50,11 +50,15 @@ With the optional massage function on Sport Pro seats, the user can select from 
 |Extending thigh support |N/A | standard | standard |
 |Rear seat split | 40:20:40 |40:20:40 | 40:20:40 |
 
-## Sport Seast
+## Sport Seats
+
+Sport seats are only available with black leather/artifical leather mono.pur 555 combination
 
 ![Standard seats](seats_sport_1.jpg "Sport seats in leather / mono.pur 550 artifical leather")
 
-## Sport Plus Seasts
+## Sport Plus Seats
+
+Sport seats are avilable with animal free Dynamica microfiber/artificial mono.pur550 leather. 
 
 ![Sport Plus seats](seats_sportplus_1.jpg "Sport Plus seats")
 
@@ -63,6 +67,8 @@ With the optional massage function on Sport Pro seats, the user can select from 
 ![Sport Plus seats](seats_sportplus_3.jpg "Sport Plus seats")
 
 ## Sport Pro Seats
+
+Sport pro seats are available with perforated leather in different colors.
 
 ![Sport Pro seats](seats_sportpro_1.jpg "Sport Pro seats")
 
