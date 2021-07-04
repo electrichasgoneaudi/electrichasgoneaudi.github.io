@@ -14,7 +14,6 @@ The color can change based on your drive mode in [Audi Drive Select](/models/e-t
 
 ![Ambient lights](ambientlight_1.jpg "Multicolor interior lights")
 
-
 See video below why this is the option to get.
 
 {{< youtube hRZpWwWOoLs >}}

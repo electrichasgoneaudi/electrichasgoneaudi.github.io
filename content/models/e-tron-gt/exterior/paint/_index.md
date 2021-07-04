@@ -48,6 +48,8 @@ Color Code: **L5**
 
 Color Code: **M1**
 
+{{< youtube FStjUuXY6-I >}}
+
 ### Daytona Grey
 
 Color Code: **6Y**
@@ -59,6 +61,8 @@ Color Code: **6Y**
 ![Audi RS e-tron GT in Mythos Black](paint_daytona_3.jpg "Audi RS e-tron GT in Daytona Pearl Grey by Auditography")
 
 ![Audi RS e-tron GT in Mythos Black](paint_daytona_4.jpg "Audi RS e-tron GT in Daytona Pearl Grey by Auditography")
+
+{{< youtube Mtr5mCiPyFA >}}
 
 ### Tactile Green
 
@@ -75,6 +79,9 @@ Color Code: **82**
 ![Audi e-tron GT in Kemora Grey](paint_kemora_1.jpg "Audi e-tron GT in Kemora Grey")
 
 ![Audi e-tron GT in Kemora Grey](paint_kemora_2.jpg "Audi e-tron GT in Kemora Grey")
+
+
+{{< youtube lLJ--NYyOG0 >}}
 
 ### Mythos black
 
