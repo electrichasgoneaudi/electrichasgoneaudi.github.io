@@ -31,7 +31,11 @@ Sport Pro has ventilated seats.
 
 ### Massage
 
-With the optional massage function on Sport Pro seats, the user can select from three different intensities in three different programs to have ten air chambers massage their back.
+With the optional massage function on Sport Pro seats, the user can select from three different intensities in 4 different programs to have ten air chambers massage their back.
+
+The massage is controlled from the MMI.
+
+![Massage control](seats_massage.jpg "Massage control")
 
 
 | **Seat type** | **Sport** | **Sport Plus** | **Sport Pro**|
