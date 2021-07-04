@@ -17,5 +17,7 @@ The optional head-up display can display important information on the windshield
 
 Behind the control and display functions in the e-tron GT quattro and RS e-tron GT is the third-generation modular infotainment toolkit (MIB 3), which offers extremely high processing power. It works with the physically separate communication box, which executes all tasks relating to connectivity at great speed, and has an integrated Wi-Fi hotspot. After the vehicle is started, the MIB 3 with all of its functions, apps, and services boots up within a few seconds. The driver can activate an individual dashboard that displays up to three main applications in separate windows.
 
+{{< youtube r-PDDQeejDI >}}
+
 
 {{% children description="true" depth="1" %}}

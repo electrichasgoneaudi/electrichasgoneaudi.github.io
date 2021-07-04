@@ -31,7 +31,7 @@ Sport Pro has ventilated seats.
 
 ### Massage
 
-With the optional massage function on Sport Pro seats, the user can select from three different intensities in 4 different programs to have ten air chambers massage their back.
+With the optional massage function on Sport Pro seats, the user can select from three different intensities in 8 different programs to have ten air chambers massage their back.
 
 The massage is controlled from the MMI.
 
@@ -62,13 +62,18 @@ Sport seats are only available with black leather/artifical leather mono.pur 555
 
 ## Sport Plus Seats
 
-Sport seats are available with animal free Dynamica microfiber/artificial mono.pur550 leather and cascade fabric/artifical mono.pur 550 leather.
+Sport seats are available with animal free Dynamica microfiber/artificial mono.pur550 leather and Kaskade fabric/artifical mono.pur 550 leather.
 
 ![Sport Plus seats](seats_sportplus_1.jpg "Sport Plus seats with cascade fabric/artifical mono.pur 550 leather")
 
 ![Sport Plus seats](seats_sportplus_2.jpg "Sport Plus seats cascade fabric/artifical mono.pur 550 leather")
 
 ![Sport Plus seats](seats_sportplus_3.jpg "Sport Plus seats cascade fabric/artifical mono.pur 550 leather")
+
+For the Color & Trim concept of the Audi e-tron GT the materials were completely redefined and a leather-free interior was developed. This video shows how the fabric Kaskade was developed for the Audi e-tron GT.
+
+{{< youtube vll4qtT-cQU >}}
+
 
 ## Sport Pro Seats
 

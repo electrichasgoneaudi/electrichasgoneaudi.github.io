@@ -5,13 +5,11 @@ description: Audi e-tron GT has a luxury interior with different options in seat
 weight: 5
 ---
 
-
-
 In addition you can select different types of lightning, steeringwheels, interior design.
-
 
 ![Standard seats](interior.jpg "Audi e-tron GT interior by Auditography")
 
+{{< youtube VsdYU7LV8j8 >}}
 
 
 {{% children description="true" depth="1" %}}
