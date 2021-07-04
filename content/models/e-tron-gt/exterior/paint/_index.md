@@ -72,6 +72,8 @@ Color Code: **V0**
 
 ![Audi e-tron GT in Tactile Green](paint_tactilegreen_2.jpg "Audi e-tron GT in Tactile Green by Auditography")
 
+{{< youtube EhJR0IM4uac >}}
+
 ### Kemora Grey
 
 Color Code: **82**
