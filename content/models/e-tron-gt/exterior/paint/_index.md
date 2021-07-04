@@ -18,9 +18,6 @@ Color Code: **T9**
 
 ![Audi e-tron GT in Ibis White](paint_ibis_2.jpg "Audi e-tron GT in Ibis White")
 
-![Audi e-tron GT in Ibis White](paint_ibis_3.jpg "Audi e-tron GT in Ibis White")
-
-![Audi e-tron GT in Ibis White](paint_ibis_4.jpg "Audi e-tron GT in Ibis White")
 
 ### Tango Red
 
@@ -47,6 +44,16 @@ Color Code: **L5**
 ### Suzuka Grey
 
 Color Code: **M1**
+
+![Audi e-tron GT in Ibis White](paint_suzuka_1.jpg "Audi RS e-tron GT in Suzuka Grey")
+
+![Audi e-tron GT in Ibis White](paint_suzuka_2.jpg "Audi RS e-tron GT in Suzuka Grey")
+
+![Audi e-tron GT in Ibis White](paint_suzuka_3.jpg "Audi RS e-tron GT in Suzuka Grey")
+
+![Audi e-tron GT in Ibis White](paint_suzuka_4.jpg "Audi RS e-tron GT in Suzuka Grey")
+
+![Audi e-tron GT in Ibis White](paint_suzuka_5.jpg "Audi RS e-tron GT in Suzuka Grey")
 
 {{< youtube FStjUuXY6-I >}}
 
