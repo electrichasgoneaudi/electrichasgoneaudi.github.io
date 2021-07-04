@@ -7,6 +7,10 @@ weight: 5
 
 This model is not official confirmed from Audi. It is expected to be the replacement to Audi e-tron and will be built on the PPE platform.
 
+It will be build in Brussels.
+
+It is expected that Porche will be building an electric Porsche Cayenne with similar size on the ppe.
+
 [Info from Automobilwoche](https://www.automobilwoche.de/article/20210613/BCONLINE/210619975/1276/exklusiv---ersatz-fuer-den-e-tron-audi-baut-neues-elektro-suv-q-e-tron-in-bruessel)
 
 {{% children description="true" depth="1" %}}
