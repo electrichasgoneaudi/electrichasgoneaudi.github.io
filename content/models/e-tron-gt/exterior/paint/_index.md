@@ -80,7 +80,6 @@ Color Code: **82**
 
 ![Audi e-tron GT in Kemora Grey](paint_kemora_2.jpg "Audi e-tron GT in Kemora Grey")
 
-
 {{< youtube lLJ--NYyOG0 >}}
 
 ### Mythos black
