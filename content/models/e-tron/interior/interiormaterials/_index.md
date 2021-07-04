@@ -1,7 +1,7 @@
 ---
-title: Interior leather
-linktitle: Interior leather
-description: You can interior leather to the car to give it a more exclusive look
+title: Interior materials
+linktitle: Interior materials
+description: You can add interior leather to the car to give it a more exclusive look
 weight: 10
 ---
 
