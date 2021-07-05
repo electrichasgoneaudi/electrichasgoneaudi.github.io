@@ -75,6 +75,8 @@ The refrigerant circuit also helps with cooling during fast DC charging, which c
 
 The standard equipment of the e-tron GT includes a heat pump that heats the interior with the waste heat of the high-voltage components. It can reduce the loss of range that the electric climate control causes in winter in particular significantly. In addition to charging, customers can also manage pre-entry climate control of the interior via their smartphones using the myAudi app. This is done via a powerful high-voltage heating element and does not depend on the car charging via the power grid. Audi equips the e-tron GT with a deluxe auxiliary air-conditioning system as an option that also incorporates the steering wheel rim (if heatable), the exterior mirrors and the rear window.
 
+{{< youtube zdCiTtRR4TE >}}
+
 ## Charging
 
 The charging flaps of the gran turismo are located behind the front wheels. Both sides feature connections for alternating current (AC) and there is also a connection for direct current (DC) on the right-hand side. The Audi e-tron GT is delivered to its customers with two charging cables as standard: one mode 3 cable for public AC terminals and the charging system compact for the garage. The e-tron GT can charge with 11 kW AC as standard, which allows it to recharge an empty battery overnight. An optional onboard charger for 22 kW is available.
