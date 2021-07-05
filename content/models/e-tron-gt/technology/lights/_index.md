@@ -25,4 +25,7 @@ A sculpted light strip spans the entire width of the rear end of the e-tron GT. 
 
 The top-of-the-line headlights offer another characteristic feature: coming home and leaving home animations at the front and rear. The leaving home sequence, which is activated when the doors are unlocked, is inspired by the power of a sound wave: The illumination of the individual elements builds up quickly and strongly, then retreats briefly before going all in the second time. With the RS model, the animations are even more dynamic.
 
+This animation shows the lighting technology including Matrix LED headlights with laser as additional high beam in the Audi e-tron GT.
+{{< youtube NYX8-n0dAmo >}}
+
 {{% children description="true" depth="1" %}}
