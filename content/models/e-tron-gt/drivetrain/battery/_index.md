@@ -58,7 +58,6 @@ The battery housing is secured by means of a steel protective plate. For the bat
 
 ![bilde](battery3.jpg "Audi e-tron GT battery pack")
 
-
 ![bilde](battery1.jpg "Audi e-tron GT battery pack")
 
 ![bilde](battery2.jpg "Audi e-tron GT battery pack")

@@ -23,4 +23,10 @@ In the Audi drive select dynamic handling system (standard), the driver can spec
 
 The controlled rear-axle differential lock, which is integrated in the ECP control operations, is available as standard with the RS e-tron GT and as an option with the e-tron GT. The multi-plate clutch is its core element. It can be actuated fully variably, and the locking range extends from zero to 100 percent. The driver can perceive this on slippery road surfaces and during maximum full-stop braking in particular: In this case, the lock opens up completely, allowing the Electronic Stabilization Control (ESC) to brake each wheel with great precision. It improves traction and stability, increasing lateral acceleration and reducing load change behaviour through targeted torque vectoring. The rear wheel on the inside of the bend is braked in a targeted manner as the car enters a sharp corner – resulting in the car turning slightly into the bend.
 
+## Animation: Audi RS e-tron GT – three-chamber air suspension and all-wheel steering
+
+This animation shows the function of the Three-chamber air suspension and the all-wheel steering in the chassis of the Audi RS e-tron GT.
+
+{{< youtube -RyH8_OgyHs >}}
+
 {{% children description="true" depth="1" %}}
