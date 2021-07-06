@@ -76,7 +76,9 @@ The following wheels have been available from Audi to Audi Q4 e-tron. Varies for
 
  Part No: **C5W**
 
-![20 inch 5Y design](wheel_C5W_1.png "21 inch 5-W design")
+![20 inch 5Y design](wheel_C5W_2.jpg "21 inch 5-W design")
+
+![20 inch 5Y design](wheel_C5W_3.jpg "21 inch 5-W design")
 
 ## 21" 5-W design bronze
 
