@@ -25,7 +25,7 @@ Video with Mythos black with Silver optics. Warning: No privacy windows. Can't u
 
 Shadow optics is the standard optics for S-line exterior
 
-![Shadow optics](shadowlook.jpg "Shadow look")
+![Shadow optics](shadowlook.jpg "Typhoon grey with shadow optics")
 
 ![Shadow optics](shadowlook2.jpg "Florett Silver with Shadow look and contrast color")
 
