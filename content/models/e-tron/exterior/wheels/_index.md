@@ -124,6 +124,8 @@ Audi sport wheels for e-tron 60S. Part No: **U95** Tires 285/40 R21
 
 ![21 inch 10.5J 5-arm star design](wheel_U95_2.jpg "21 inch 10.5J 5-arm star design")
 
+![21 inch 10.5J 5-arm star design](wheel_U95_3.jpg "21 inch 10.5J 5-arm star design")
+
 ## 22" x 9.5J '5-spoke structured' matt titanium finish
 
 Audi Sport alloy wheels. Tires 265/40 R22  Part No: 54L

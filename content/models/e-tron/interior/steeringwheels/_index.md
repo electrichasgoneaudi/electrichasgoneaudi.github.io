@@ -9,9 +9,9 @@ weight: 2
 
 ![Multifunction with and without heating](multifunction.png "Standard Multifuncti wheel without heating option 2ZM with heating")
 
-![Sport w/heating](sport.png "Sport w/heating option 1XW  ")
+![Sport w/heating](sport.png "Sport without heating option 1XW and with option 1XP ")
 
-
+![Sport w/heating](sportflat.jpg "Sport with flatt bottom option 2PF ")
 
 ### Adjustment
 
