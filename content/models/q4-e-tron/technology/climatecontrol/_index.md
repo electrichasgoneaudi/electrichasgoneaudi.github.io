@@ -1,11 +1,11 @@
 ---
-title: Audi Q4 e-tron Air Condition
-linktitle: Air Condition
-description: Audi Q4 e-tron is equipped with 1-zone Air condition as standard.
+title: Audi Q4 e-tron climate control
+linktitle: Climate control
+description: Audi Q4 e-tron is equipped with 1-zone electronic climate control as standard.
 weight: 10
 ---
 
-The controls the are located just below the MMI screen. 
+The controls the are located just below the MMI screen.
 
 ![AC control](ac1zonecontrol.jpg "The AC has a seperate control panel under MMI screen")
 
@@ -21,12 +21,13 @@ It also gives the passenger in the back seat a seperate panel where they can adj
 
 3-zone air condition is part of the climate and winter package with opption id **WNW**
 
-## Comfort remote pre-conditioning
+## Auxiliary air conditioner
 
-From MMI or myAudi app you can start precondition of the car. This is relevant when charging also.
-
-Requires the climate and winter pacakge **WNW**
+Audi e-tron is equipped with an auxiliary air conditioner that can be used when the car is turned off. This can be activated
+from MMI manual or set by a timer. One typical use case is when charging since the car needs to be turned off then and the main AC unit does not work.
 
 ![Pre condition](precondition.jpg "Pre-condition will run for 30 minutes and can be started from MMI or myAudi app" )
+
+The auxiliary air conditioner can also be controlled by the myAudi app. This is useful when you need to heat or cool the car before using it.
 
 {{% children description="true" depth="1" %}}
