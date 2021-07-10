@@ -1,5 +1,5 @@
 ---
-title: Audi e-tron infotainment
+title: Audi e-tron soundsystem
 linktitle: Soundsystem
 description: You can choose between two different sound systems on Audi e-tron  
 weight: 7
@@ -7,7 +7,9 @@ weight: 7
 
 ## Audi sound system
 
-The standard sound system is a 180 Watt 6 channel system with 10 speakers.
+The standard sound system is a 180 Watt 6 channel system with 10 speakers including center speaker and subwoofer.
+
+![Door](standard_door_speakers.jpg "Door with bass and mid speaker")
 
 OptionId **9VD**
 
