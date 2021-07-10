@@ -1,5 +1,5 @@
 ---
-title: Audi pre sense basic
+title: Pre sense basic
 linktitle: Pre Sense basic
 description: Audi pre sense basic initiates preventive safety measures for occupants as soon as it recognizes a critical driving state.
 weight: 1
