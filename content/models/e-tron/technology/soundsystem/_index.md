@@ -23,9 +23,6 @@ The illustration below show where the 16 different speakers are located.
 
 ![Bang & Olufsen](soundsystem1.jpg "Bang & Olufsen sound system with 16 speakers")
 
-
 The option ID for this system is **9VS**
-
-
 
 {{% children description="true" depth="1" %}}
