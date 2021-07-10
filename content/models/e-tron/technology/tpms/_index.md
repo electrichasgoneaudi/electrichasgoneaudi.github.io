@@ -1,16 +1,17 @@
 ---
 title: Tire Pressure Monitoring System TPMS
 linktitle: TPMS
-description: Audi e-tron have two different TPMS systemt to choose from.
+description: Audi e-tron has two different TPMS systems to choose from.
 weight: 8
 ---
 
-Audi e-tron is equiped with indirect TPMS system.  This means it uses the ABS sensor to detect if there are wheels with low pressure compared to the others.
-
+Audi e-tron is equipped with an indirect TPMS system as standard.  This means it uses the ABS sensor to detect if there are wheels with low pressure compared to the others.
 
 ### Direct TPMS
 
-With direct TPMS there is a air pressure sensor in each tire that communicate with the car. THis measure the temprature and pressure for each wheel and present this in the MMI.
+With direct TPMS there is an air pressure sensor in each tire that communicates with the car. This measures the temperature  and pressure for each wheel and presents this in the MMI.
+
+Below you see how MMI indicates that the left front tire has much lower pressure than other wheels.
 
 ![Tire Pressure Measure System](tpms1.jpg "Tire pressure measure system")
 
