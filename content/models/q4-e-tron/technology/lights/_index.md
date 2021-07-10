@@ -5,10 +5,13 @@ description: Audi Q4 e-tron has advanced lightning options
 weight: 3
 ---
 
-
 ### The headlights: a choice of four individual and individually selectable daylight driving light signatures
 
-The headlights of the Q4 e-tron and the Q4 Sportback e-tron are fully equipped with LEDs as standard. On request, Audi also offers the Matrix LED headlights – they lend the two electric compact SUVs a look that is full of character and unmistakable, day and night. The next stage of evolution in daytime running lights is totally new among the competition. Using the MMI touch operating system, the driver can switch between four digital light signatures at any time. Each of them generates its own theme and lends the daytime running lights an individual expression. The variant selected is activated the next time the vehicle is started. The below show the 4 different signatures
+The headlights of the Q4 e-tron and the Q4 Sportback e-tron are fully equipped with LEDs as standard. 
+
+![Standard Head lights](headlightstandard.jpg "Standard LED head lights with LED indicator lights")
+
+On request, Audi also offers the Matrix LED headlights – they lend the two electric compact SUVs a look that is full of character and unmistakable, day and night. The next stage of evolution in daytime running lights is totally new among the competition. Using the MMI touch operating system, the driver can switch between four digital light signatures at any time. Each of them generates its own theme and lends the daytime running lights an individual expression. The variant selected is activated the next time the vehicle is started. The below show the 4 different signatures
 
 ![Signature 1](signature1.jpg "Light signature 1")
 
