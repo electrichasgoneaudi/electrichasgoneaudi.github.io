@@ -21,4 +21,10 @@ Below you see how MMI indicates that the left front tire has much lower pressure
 
 Option Id **7K3**
 
+### Correct pressure
+
+The following table shows the correct tire pressure
+
+![Correct TP Audi e-tron](correcttp.jpg "Correct Tire pressure Audi e-tron")
+
 {{% children description="true" depth="1" %}}
