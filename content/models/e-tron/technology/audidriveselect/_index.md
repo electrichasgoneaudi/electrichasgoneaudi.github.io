@@ -11,6 +11,18 @@ dynamic or particularly energy-efficient.
 
 In individual mode, drivers can configure the setup according to their personal preferences.
 
+Depending on option and setup drive select settings affect the following.
+
+- Motor responsivnes
+- quattro drive
+- adaptive air suspension with electronic damper control
+- dynamic steering
+- HD Matrix LED headlights
+- ambient lighting
+- Electronic stabilisation contol (ESC)
+- Adaptive Cruise Assist
+- Audi Pre Sense
+
 ### Modes
 
 ![Drive Select Menu](driveselectmenu.jpg "Drive Select menu in MMI")
@@ -32,6 +44,8 @@ will be restricted and the hill descent assist* will be activated. The vehicle w
 
 ### Individual settings
 
+![Individual settings](individualsettings.jpg "Individual settings")
+
 #### Drive
 
 The drive system will react to accelerator pedal moves more quickly or in a more balanced manner.
@@ -46,19 +60,6 @@ The suspension adjusts to be tighter or more comfort-oriented when it comes to c
 The vehicle ground clearance is adjusted by the air suspension* based on the setting.
 
 
-In all models, Audi drive select influences the engine characteristic and steering. Optional equipment features may extend the number of tuning parameters (depending on the model).
 
-
-
-They are
-
-
-- quattro drive
-- sport differential
-- adaptive air suspension with electronic damper control
-- dynamic steering, all-wheel steering and dynamic all-wheel steering
-- electromechanical active roll stabilization
-- Matrix LED headlights and HD Matrix LED headlights
-- ambient lighting 
 
 {{% children description="true" depth="1" %}}
