@@ -23,6 +23,9 @@ Depending on option and setup drive select settings affect the following.
 - Adaptive Cruise Assist
 - Audi Pre Sense
 
+
+![Drive Select](driveselectbuttons.jpg "Drive Select are available as seperate buttons and from MMI")
+
 ### Modes
 
 ![Drive Select Menu](driveselectmenu.jpg "Drive Select menu in MMI")
