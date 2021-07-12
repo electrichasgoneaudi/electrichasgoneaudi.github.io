@@ -33,6 +33,10 @@ weight: 20
 
 {{< youtube 5puyCvtaJEQ >}}
 
+### Kris Rifa: Audi Q4 40 E-Tron Range, Efficiency & Charging Test!
+
+{{ youyube cCnp5LynIeo }}
+
 ### Automann-TV: NEW! Audi Q4 e-tron (306hp) | 0-180 km/h acceleration🏁 | by Automann in 4K
 
 {{< youtube 4piNOluQ178 >}}

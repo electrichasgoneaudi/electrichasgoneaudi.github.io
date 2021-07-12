@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron dimensions
 linktitle: Dimensions
-description: Here you find all dimmensions for the Audi e-tron and Audi e-tron sportback. Width, height, depth, +++
+description: Here you find all dimensions for the Audi e-tron and Audi e-tron Sportback. Width, height, depth, +++
 weight: 3
 ---
 
