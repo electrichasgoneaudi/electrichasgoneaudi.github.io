@@ -1,25 +1,18 @@
 ---
 title: Audi e-tron GT
 linktitle: Audi e-tron GT
-description: Electric mobility is becoming dynamic and fascinating, as Audi is proving with the e-tron GT that had world premiere in 2021
+description: Audi e-tron GT is the second full-electric model from Audi. With the Audi RS e-tron GT version, Audi has made their most powerful RS-model ever. And the design makes it one of the most beautiful car in our time. 
 weight: 2
 ---
 
-The four-door coupé reinterprets the classic idea of the gran turismo: Its design is highly emotive, its technology is exhilarating.
+The car is built on the J1 Performance platform, a platform jointly developed by Audi and Porsche.
 
-Two powerful electric motors provide dynamic driving performance and confident electric all-wheel drive. With its net energy content of 84 kWh,
-the high-voltage battery enables ranges of up to 488 km (303.2 mi) and can be recharged extremely quickly, thanks to its 800 V technology.
+Two powerful electric motors provide dynamic driving performance and confident electric all-wheel drive. With its net energy content of 84 kWh, the high-voltage battery enables ranges of up to 488 km (303.2 mi) and can be recharged extremely quickly, thanks to its 800 V technology.
 
-Suspension, lights, controls, connection, or e-tron sport sound:
+![e-tron GT](variants/variants.jpg "Audi e-tron GT & Audi RS e-tron GT")
 
-The Audi e-tron GT quattro and RS e-tron GT kicked off their presales simultaneously in mid-February 2021.
+Audi e-tron GT has a wide range of options and advanced driving technologies. Here on electrichasgoneaudi.net, you find all details about e-tron GT. Everything from the different wheels to choose from to how the different driving assist system works.
 
-Both models demonstrate accumulated technical expertise – and the Audi brand’s strong passion for minute details.
-
-![e-tron GT](etrongt.jpg "Audi e-tron GT")
-
-See the different sections for all details about the Audi e-tron GT.
-
-{{< youtube HMXcuPOaafw >}}
+Below you find the different sections about e-tron GT.
 
 {{% children description="true" depth="1" %}}
