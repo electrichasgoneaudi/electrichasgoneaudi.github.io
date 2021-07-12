@@ -1,6 +1,6 @@
 ---
 title: Audi A6 e-tron
-linktitle: A6 e-tron
+linktitle: Audi A6 e-tron
 description: 
 weight: 5
 ---

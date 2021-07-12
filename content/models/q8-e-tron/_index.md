@@ -1,6 +1,6 @@
 ---
 title: Audi Q8 e-tron
-linktitle: Q8 e-tron
+linktitle: Audi Q8 e-tron
 description: Audi Q8 e-tron will have a world premiere in 2026
 weight: 5
 ---

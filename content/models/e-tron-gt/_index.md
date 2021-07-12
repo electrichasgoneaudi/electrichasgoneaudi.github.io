@@ -1,6 +1,6 @@
 ---
 title: Audi e-tron GT
-linktitle: e-tron GT
+linktitle: Audi e-tron GT
 description: Electric mobility is becoming dynamic and fascinating, as Audi is proving with the e-tron GT that had world premiere in 2021
 weight: 2
 ---

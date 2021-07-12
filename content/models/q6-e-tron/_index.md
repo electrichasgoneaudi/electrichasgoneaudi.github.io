@@ -1,6 +1,6 @@
 ---
 title: Audi Q6 e-tron
-linktitle: Q6 e-tron
+linktitle: Audi Q6 e-tron
 description: Audi Q6 e-tron will have a world premiere in 2022
 weight: 4
 ---

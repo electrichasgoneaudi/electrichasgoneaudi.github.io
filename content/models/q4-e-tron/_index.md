@@ -1,6 +1,6 @@
 ---
 title: Audi q4 e-tron
-linktitle: Q4 e-tron
+linktitle: Audi Q4 e-tron
 description: The Audi Q4 e-tron and the Q4 Sportback e-tron are the first compact electric SUVs from the brand with the Four Rings and the third all-electric model from Audi.
 weight: 3
 ---
