@@ -61,6 +61,9 @@ Color Code: **Y6**
 
 ![Audi e-tron 55 S-line Sportback in Catalunya Red with black optics](paint_catalunyared_2.jpg "Audi e-tron 55 S-line Sportback in Catalunya Red with black optics")
 
+The footage shows driving shots as well as stills of the Audi e-tron S Sportback in the color catalunya red.
+{{< youtube NWJF6w1qECo >}}
+
 ### Plasma Blue
 
 ![Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color](paint_plasmablue_1.jpg "Audi e-tron 55 S-line Sportback inPlasma Blue with contrast color")
@@ -105,11 +108,21 @@ Color Code: **6Y**
 
 ![Audi e-tron 55 Sportback in Daytona Grey](paint_daytona_3.jpg "Audi e-tron 55 Sportback in Daytona Grey with black optics")
 
+The footage shows driving shots as well as stills of the Audi e-tron S Sportback in the color daytona grey.
+
+{{< youtube bzqrdHJpXpA>}}
+
 ### Navarra Blue
 
 Color Code: **2D**
 
 ![Audi e-tron 60S  Sportback in Navarra Blue with contrast color](paint_navarrablue_1.jpg "Audi e-tron 60S  Sportback in Navarra Blue with contrast color")
+
+The footage shows driving shots as well as stills of the Audi e-tron S Sportback in the color navarra blue.
+
+{{< youtube AxA08viUctY >}}
+
+{{< youtube F0S9oqMKB9U >}}
 
 ### Galaxy Blue
 

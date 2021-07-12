@@ -10,6 +10,6 @@ weight: 1
 
 Currently, Audi has 3 different models with a total of 14 variants in sale with many more to come.
 
-See below for our unique in-depth information.
+See below for our unique in-depth information on the different models and variants.
 
 {{% children description="true" depth="1" %}}

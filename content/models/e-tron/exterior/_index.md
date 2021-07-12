@@ -1,11 +1,11 @@
 ---
 title: Audi e-tron exterior
 linktitle: Exterior
-description: Audi e-tron comes in different styling, colors and wheels
+description: There is a huge number of exterior options to the Audi e-tron. Paint colors, body shapes, wheels, paint styles, different optics, mirror types and many more options making it possible to have more than 50.000 different exterior designs. 
 weight: 4
 ---
 
-Buying an Audi e-tron will require you to make lots of decision how the exeriour should be.
+So buying an Audi e-tron will require you to make lots of decision how the exeriour should be.
 
 ![Exterior](exterior.jpg "Audi e-tron Sportback")
 
@@ -25,5 +25,6 @@ So you understand it is possible to make your car unique. And if these options a
 So you understand it is not to show all possible combinations on this site.
 
 See below for details about the exterior options.
+
 
 {{% children description="true" depth="1" %}}
