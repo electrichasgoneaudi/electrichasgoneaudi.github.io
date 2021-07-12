@@ -1,7 +1,7 @@
 ---
 title: Model year changes
 linktitle: Model Year changes
-description: Here you find the details about the different model years.
+description: For every new model year, and sometimes in between there have been done updates to the Audi e-tron. Here you find the details on the different updates.
 weight: 8
 ---
 
