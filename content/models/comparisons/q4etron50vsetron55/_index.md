@@ -43,6 +43,7 @@ For many buyers this is a real dilemma.  We will try help you choose.
 | Standard wheels rear | 255/50-R19 | 255/55-R19 |
 | Optional wheels front | 235/50-R20, 235/45-R21 | 255/55-R20, 265/45-R21, 265/40-R22 |
 | Optional wheels rear | 255/45-R20,255/40-R21 | 255/55-R20, 265/45-R21, 265/40-R22  |
+| TPMS  | Indirect | Indirect (direct option)|
 | Virtual Cockpit | option  | standard |
 | Virtual Cockpit screensize | 10.25"  | 12.3" |
 | Virtual Cockpit resolution |  1,440 x 540 | 1,920 x 720  |

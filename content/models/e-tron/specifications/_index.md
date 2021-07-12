@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron specifications
 linktitle: Specifications
-description: Here you find the most relevant specifications for the different e-tron variants
+description: Here you find the most relevant specifications for the different e-tron variants. Everything from range, top speed, battery size and trailer capacity.
 weight: 2
 ---
 
