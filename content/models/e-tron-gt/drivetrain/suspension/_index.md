@@ -1,6 +1,6 @@
 ---
-title: Audi e-tron GT and RS e-tron GT suspension
-linktitle: Suspension
+title: Audi e-tron GT and RS e-tron GT suspension & Steering
+linktitle: Suspension & Steering
 description: The suspension is one of the elements that play a crucial role in shaping the harmonious overall character of the Audi e-tron GT quattro and the RS e-tron GT.
 weight: 7
 ---

@@ -11,6 +11,10 @@ If the driver wants to ease into an intersection or exit with poor visibility, h
 
 ![crossing assist](crossing_assist.jpg "crossing assist")
 
+{{< youtube 2u5o2lfyQOM >}}
+
+{{< youtube k_U-cGCNYtQ >}}
+
 This is part of the cith package with option id PCM on Audi e-tron
 
 {{% children description="true" depth="1" %}}

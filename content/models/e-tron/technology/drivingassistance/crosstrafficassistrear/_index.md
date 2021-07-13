@@ -12,5 +12,8 @@ It uses the rear radar sensors for this. They cover the zone at the rear, includ
 
 This is part of the city assistance package with option id **PCM**
 
+See video of real world test of this
+
+{{< youtube k_U-cGCNYtQ >}}
 
 {{% children description="true" depth="1" %}}
