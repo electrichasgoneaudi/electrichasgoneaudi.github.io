@@ -8,3 +8,11 @@ weight: 20
 
 
 {{< youtube HMXcuPOaafw >}}
+
+### Audi e-tron GT – Kemora gray
+
+{{< youtube 25yaDI9Vaow >}}
+
+
+### Audi RS e-tron GT – three-chamber air suspension and all-wheel steering
+
