@@ -1,7 +1,7 @@
 ---
 title: Audi Q6 e-tron
 linktitle: Audi Q6 e-tron
-description: Audi Q6 e-tron will have a world premiere in 2022
+description: Audi Q6 e-tron will have a world premiere in 2022 and will be the fourth all-electric model from Audi. It is built on the new PPE platform created together with Porsche. Expected to come in different variants and be the most sporty all-electric SUV from Audi.
 weight: 4
 ---
 
