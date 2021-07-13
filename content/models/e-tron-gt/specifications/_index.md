@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron GT specifications
 linktitle: Specifications
-description: Here you find the most relevant specifications for the different e-tron GT variants
+description: Here you find the most relevant specifications for the different e-tron GT variants. Everything from range, top speed, battery size and cargo capacity.
 weight: 2
 ---
 
@@ -25,10 +25,10 @@ weight: 2
 | Max DC Charging | 270KW |
 | Battery weight | ? kg |
 | kWh/kg | ? |
-| WLTP combined range basic trim  | 488 km       |
+| WLTP combined range basic trim  | 488 km  (303 miles)  |
 | WLTP combined consumption basic trim    | 17.15 kWh/100km        |
 | WLTP combined consumption with charging loss basic trim | 19,9 kWh/100km |
-| WLTP combined range max trim  | 452 km       |
+| WLTP combined range max trim  | 452 km  (280 miles)     |
 | WLTP combined consumption max trim    | 18.52 kWh/100km        |
 | WLTP combined consumption with charging loss max trim | 21.6 kWh/100km |
 | Length | 4989mm(16.4ft) |
@@ -64,10 +64,10 @@ weight: 2
 | Max DC Charging | 270KW |
 | Battery weight | ? kg |
 | kWh/kg | ? |
-| WLTP combined range basic trim  | 472 km       |
+| WLTP combined range basic trim  | 472 km   (293 miles)  |
 | WLTP combined consumption basic trim    | 17.73 kWh/100km        |
 | WLTP combined consumption with charging loss basic trim | 20.6 kWh/100km |
-| WLTP combined range max trim  | 433 km       |
+| WLTP combined range max trim  | 433 km  (269 miles)     |
 | WLTP combined consumption max trim    | 19.3 kWh/100km        |
 | WLTP combined consumption with charging loss max trim | 22.5 kWh/100km |
 | Length | 4989mm(16.4ft) |
