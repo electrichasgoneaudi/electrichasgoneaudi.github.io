@@ -1,0 +1,24 @@
+---
+title: Predictive efficiency assist
+linktitle: Efficiency assist
+description: Predictive Efficiency assist helps the driver to drive preemptively and save energy. 
+weight: 1
+---
+
+![Predictive efficiency assist](predictiveefficient.jpg "Predictive efficiency assist")
+
+The system works closely together with adaptive cruise control (ACC) or adaptive cruise assist (ACA). It accesses predictive route data from navigation and Car-to-X information. 
+In order to detect traffic signs and other vehicles, the efficiency assist uses the front camera as well as data from the front and rear-facing radar sensors.
+
+The driver is shown corresponding information in the instrument cluster or in the Audi virtual cockpit and the head-up display as soon as it would be sensible to take the foot off the right-hand pedal. Symbols for speed limits, bends, roundabouts, towns, or downhill slopes that indicate to the driver to slow down are displayed on the basis of the route data and recognition of traffic signs. Depending on the model the gas pedal also pulses against the sole of the driver’s foot – a clear indication to take their foot off the gas.
+
+![Efficiency](efficientsymboletron.jpg "e-tron virtual cockpit with symbol showing to lift the right foot")
+
+If the cruise assist is switched on or the ACC is activated, efficiency assist regulates actively. It decelerates and accelerates predictively and adapts the speed to the course of the road and the traffic situation, also taking vehicles driving in front into account. If the driver so wishes, the system controls the freewheeling and coasting operation of the engine in cooperation with other control units. The predictive system always maintains a driving style that reflects the driving program selected – from efficient to sporty – and uses scope for recuperation in the Audi e-tron.
+
+The driver can override the system at any time by accelerating and braking. In addition, drivers can individually activate, deactivate and configure many of their detailed functions in the MMI. Depending on the model, the control, for example, can be adapted to the course of the road in three stages: slow, medium or fast.
+
+This option is part of the tour driver assistance package with option id **PCC**
+
+
+{{% children description="true" depth="1" %}}
