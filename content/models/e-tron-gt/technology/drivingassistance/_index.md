@@ -34,7 +34,7 @@ All systems use the central driver assistance controller (zFAS), which uses the 
 | Distance warning | standard |
 | Night Vision | option (9R1) |
 | [Speed limiter](speedlimiter) | standard |
-| Park assist | N/A |
+| Park assist Plus | option (PCV) |
 | [Cross traffic assist rear](crosstrafficassistrear) | option (PCM) |
 | [Exit warning](exitwarning) | option (PYU) |
 | [Collision avoidance assist](collisionavoidanceassist) | standard |
