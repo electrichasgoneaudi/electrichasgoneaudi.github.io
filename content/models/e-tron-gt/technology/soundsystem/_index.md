@@ -9,8 +9,6 @@ weight: 7
 
 The standard sound system is a 180 Watt 6 channel system with 10 speakers including center speaker and subwoofer.
 
-![Door](standard_door_speakers.jpg "Door with bass and mid speaker")
-
 OptionId **9VD**
 
 ## Bang & Olufsen Sound System with 3D sound
