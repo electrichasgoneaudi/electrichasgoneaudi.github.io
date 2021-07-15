@@ -8,24 +8,19 @@ weight: 6
 
 ## Trunk
 
-![Trunk](trunk_1.jpg "Trunk Audi e-tron")
+![Trunk](trunk_1.jpg "Trunk Audi e-tron GT")
 
-![Trunk](trunk_2.jpg "Trunk Audi e-tron")
+![Trunk](trunk_5.jpg "Trunk Audi e-tron GT")
 
 ![Trunk](trunk_3.jpg "The seats have a 40-20-40 confiuguration")
 
+![Trunk](trunk_4.jpg "The seats have a 40-20-40 confiuguration")
+
+![Trunk](trunk_2.jpg "The seats have a 40-20-40 confiuguration")
 
 ## Frunk
 
-![Trunk](frunk_1.jpg "Trunk Audi e-tron")
-
-![Trunk](frunk_2.jpg "Trunk Audi e-tron")
-
-See below for Banana box test for e-tron and e-tron sportback.
-
-{{< youtube 2IYpsPTTZ_k >}}
-
-{{< youtube _1lpYzPEXSw >}}
+![Trunk](frunk_1.jpg "Frunk Audi e-tron GT")
 
 ## Roof storage
 
