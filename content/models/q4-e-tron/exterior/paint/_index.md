@@ -11,6 +11,12 @@ weight: 1
 
 On the basic trim the bumpers and wheel arches are not painted
 
+![Basic trim](paint_basic_1.jpg "Basic trim - wheel archer and bumpers are not painted")
+
+![Basic trim](paint_basic_2.jpg "Basic trim - wheel archer and bumpers are not painted")
+
+![Basic trim](paint_basic_3.jpg "Basic trim - wheel archer and bumpers are not painted")
+
 ### Contrast paint
 
 The standard paint is with Manhatten grey as contrast color. Option code **FB5**

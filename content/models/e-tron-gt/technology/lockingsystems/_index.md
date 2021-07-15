@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron locking systems
+title: Audi e-tron GT locking systems
 linktitle: Access & locking
-description: Audi e-tron have different key and locking options.
+description: Audi e-tron GT have different key and locking options.
 weight: 7
 ---
 
