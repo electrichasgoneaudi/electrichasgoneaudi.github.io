@@ -60,6 +60,12 @@ Sport seats are only available with black leather/artifical leather mono.pur 555
 
 ![Standard seats](seats_sport_1.jpg "Sport seats in leather / mono.pur 550 artifical leather")
 
+![Standard seats](seats_sport_2.jpg "Sport seats in leather / mono.pur 550 artifical leather")
+
+![Standard seats](seats_sport_3.jpg "Sport seats in leather / mono.pur 550 artifical leather")
+
+![Standard seats](seats_sport_4.jpg "Sport seats in leather / mono.pur 550 artifical leather")
+
 ## Sport Plus Seats
 
 Sport seats are available with animal free Dynamica microfiber/artificial mono.pur550 leather and Kaskade fabric/artifical mono.pur 550 leather.
@@ -77,6 +83,10 @@ For the Color & Trim concept of the Audi e-tron GT the materials were completely
 
 ## Sport Pro Seats
 
+Sport Pro seats are the most advanced seats. They have 18-way adjustment to make it possible to adjust it for a perfect fit for the driver/passenger.
+
+![Sport Pro seats](seats_sportpro_7.jpg "Sport Pro seats with 18-way adjustment")
+
 Sport pro seats are available with perforated leather in different colors.
 
 ![Sport Pro seats](seats_sportpro_1.jpg "Sport Pro seats")
@@ -86,3 +96,8 @@ Sport pro seats are available with perforated leather in different colors.
 ![Sport Pro seats](seats_sportpro_3.jpg "Sport Pro seats")
 
 ![Sport Pro seats](seats_sportpro_4.jpg "Sport Pro seats")
+
+![Sport Pro seats](seats_sportpro_5.jpg "Sport Pro seats ventilated leather")
+
+![Sport Pro seats](seats_sportpro_6.jpg "Sport Pro seats ventilated leather")
+
