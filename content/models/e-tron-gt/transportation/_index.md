@@ -1,7 +1,7 @@
 ---
 title: Transportation capabilities
 linktitle: Tranportation Capabilities
-description: In addition to the 5 seats, the e-tron has both a trunk and a frunk in addition to roof storage and trailer capabilities.
+description: In addition to the 5 seats, the e-tron GT has both a trunk and a frunk in addition to roof storage.
 weight: 6
 ---
 
@@ -26,8 +26,4 @@ weight: 6
 
 You can store up to 75kg on the roof.
 
-## Trailer
-
-Audi e-tron can drag trailers up to 1800kg
-
-{{% children description="true" depth="1" %}}
+![Roof Storage](roof_storage_1.jpg "e-tron GT with roof box")
