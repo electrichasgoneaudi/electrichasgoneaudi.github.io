@@ -17,11 +17,15 @@ There are some optional mirros
 - heated, auto dimmed and electric retractable : **6XK**
 - heated, auto dimmed, electric retractable with memory : **6XL**
 
+
 ## Mirror Style
+
+
+![Painted mirror](mirror_painted_2.jpg "Painted mirrors in body color option ID 6FA")
 
 ![Painted mirror](mirror_painted.jpg "Painted mirrors in body color option ID 6FA")
 
-![Black mirror](mirrors_black.png "Black mirror Option ID 6FJ")
+![Black mirror](mirror_black.jpg "Black mirror Option ID 6FJ")
 
 ![Black mirror](mirror_carbon.jpg "Carbon mirro Option ID 6FQ")
 
