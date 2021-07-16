@@ -19,18 +19,10 @@ There are some optional mirros
 
 ## Mirror Style
 
-![Painted mirror](mirrors_painted.png "Painted mirrors in body color")
+![Painted mirror](mirror_painted.jpg "Painted mirrors in body color option ID 6FA")
 
 ![Black mirror](mirrors_black.png "Black mirror Option ID 6FJ")
 
-![Black mirror](mirrors_carbon.png "Carbon mirror")
-
-## Virtual mirrors
-
-The virtual exterior mirrors of the Audi e-tron not only provide a new technology experience, but also many practical benefits in terms of comfort and safety. Their flat support integrates a small camera whose image is digitally processed and shown on high-contrast 7-inch OLED displays in the interior. The driver can enter different settings using the touchscreen function. OptionID **PAF**
-
-![Virtual mirrors](virtualmirrors.jpg "Virtual Mirrors")
-
-![Virtual mirrors](virtualmirrors2.jpg "Virtual Mirrors")
+![Black mirror](mirror_carbon.jpg "Carbon mirro Option ID 6FQ")
 
 {{% children description="true" depth="1" %}}
