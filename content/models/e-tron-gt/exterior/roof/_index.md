@@ -15,6 +15,10 @@ You can order panoramic roof with option id **3FU**
 
 ![Panoramic roof](panoramic_roof_3.jpg "Panoramic roof")
 
+![Panoramic roof](panoramic_roof_4.jpg "Panoramic roof")
+
+![Panoramic roof](panoramic_roof_5.jpg "Panoramic roof")
+
 ## Carbon roof
 
 As an option you can replace the panoramic roof with a carbon roof to reduce roof weight.
@@ -24,5 +28,7 @@ Option **3FI**
 ![Carbon Roof](carbon_roof_1.jpg "Carbon roof")
 
 ![Carbon Roof](carbon_roof_2.jpg "Carbon roof")
+
+![Carbon Roof](carbon_roof_3.jpg "Carbon roof")
 
 {{% children description="true" depth="1" %}}

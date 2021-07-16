@@ -15,4 +15,6 @@ The below image show how Waze warns users about a speed camera in a Audi e-tron.
 
 Android Auto requires you to use cable, but Apple Carplay is supported throug cable and wireless.
 
+Currently this option is only available as part of the Infotainmentpackage with option id **PYX**
+
 {{% children description="true" depth="1" %}}
