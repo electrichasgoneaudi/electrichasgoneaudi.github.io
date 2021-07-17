@@ -12,9 +12,9 @@ There are serveral levels of interior trim.
 - Upper part of instrument cluster in Nappa leather
 - Doors in Dinamica microfiber
 
-## Leather free design package
+## The black leather-free design package
 
-This designpackage is 100% free for real leather.
+The black leather-free design package is available for the sport seats plus.
 
 ![Interior 7 HD](interior_vegan_1.jpg "Interior in ")
 

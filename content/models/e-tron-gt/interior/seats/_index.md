@@ -5,7 +5,7 @@ description: Audi e-tron GT have serveral seats options to choose from
 weight: 1
 ---
 
-Each seat type have different seat materials in different colors to choose from. Making it possible to configure the interior just as you like it.
+Available as standard in the e-tron GT quattro are the sport seats with electric eight-way adjustment and artificial leather/pearl Nappa leather covers. The RS e-tron GT is equipped with sport seats plus with 14-way adjustment, lumbar support and seat heating. The sport seats pro with 18-way adjustment, pneumatic side bolsters, climate control, and (upon request) a massage function are available as an option for both models. In both seat variants, a bezel in the area of the head restraint further sharpens the sporty contour. The seats and steering wheel of the RS model feature special badges, and the pedal caps and footrest are made of stainless steel.
 
 ### Electric adjustment
 
@@ -68,7 +68,7 @@ Sport seats are only available with black leather/artifical leather mono.pur 555
 
 ## Sport Plus Seats
 
-Sport seats are available with animal free Dynamica microfiber/artificial mono.pur550 leather and Kaskade fabric/artifical mono.pur 550 leather.
+Upholstery is available either as a combination of artificial leather and the Kaskade material or as a mixture of mono.pur 550 artificial leather and the microfiber material Dinamica. In both cases, the covers consist predominantly of materials such as polyester fibers that were made from recycled PET bottles, textiles, or residual fibers. Each set of Kaskade covers is made of 119 recycled plastic bottles. Dinamica is a breathable microfiber material made proportionally from recycled polyester fibers and recycled PET. Kaskade is reminiscent of natural fibers such as wool and offers a very pleasant seating feel. The stitching of the seat center panels of both covers is based on the look of the Singleframe.
 
 ![Sport Plus seats](seats_sportplus_1.jpg "Sport Plus seats with cascade fabric/artifical mono.pur 550 leather")
 
