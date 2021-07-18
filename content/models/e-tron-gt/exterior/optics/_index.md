@@ -21,8 +21,6 @@ This is the optics that is standard on Audi e-tron GT. Front elements in Manhatt
 
 ![Standard optics](standardoptics_singleframebody_3.jpg "Standard optics with singleframe grill in body color (Mythos)")
 
-![Standard optics](standardoptics_singleframehekla_1.jpg "Standard optics with singleframe grill in hekla grey")
-
 ![Standard optics](standardoptics_singleframehekla_2.jpg "Standard optics with singleframe grill in hekla grey")
 
 ![Standard optics](standardoptics_singleframehekla_3.jpg "Standard optics with singleframe grill in hekla grey")
@@ -61,7 +59,11 @@ This has option **SL3**
 
 ![Carbon optics](carbonoptics_singleframeblack_4.jpg "Carbon optics with black single frame grill and black rings")
 
-![Carbon optics](carbonoptics_singleframeblack_5.jpg "Carbon optics with black single frame grill and black rings")
+![Carbon optics](carbonoptics_singleframeblack_5.jpg "Carbon optics with black badges and carbon details on diffusor")
+
+![Carbon optics](carbonoptics_singleframeblack_6.jpg "Carbon optics with carbon details above diffusor")
+
+![Carbon optics](carbonoptics_singleframeblack_7.jpg "Carbon optics with carbon details in door")
 
 ## Singleframe grill
 

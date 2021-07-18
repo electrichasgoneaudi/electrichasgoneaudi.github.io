@@ -30,18 +30,11 @@ Depending on option and setup drive select settings affect the following.
 
 ![Drive Select Menu](driveselectmenu.jpg "Drive Select menu in MMI")
 
-**Offroad** - Provides assistance when driving offroad. The vehicle will be raised to the secondhighest level using the air suspension®. The ESC
-will be restricted and the hill descent assist* will be activated. The vehicle will exit this mode after the ignition is switched off.
-
-**allroad** - Provides balanced vehicle handling. The vehicle will be raised to the second-highest level using the air suspension*.
-
 **efficiency** - The vehicle switches to a fuel-efficient vehicle setup and supports the driver with fuel economy messages. The “E” driving program is selected.  
 
 **comfort** - Provides a comfort-oriented vehicle setup and is suited for long drives on highways.
 
-**auto** - Provides an overall comfortable yet dynamic driving feel and is suited for everyday use.
-
-**dynamic** - Gives the driver a sporty driving feel and is suited to a sporty driving style. The “S” driving program is selected.
+**dynamic** - Gives the driver a sporty driving feel and is suited to a sporty driving style. 
 
 **Individual** - Provides the option for personalized vehicle settings.
 
