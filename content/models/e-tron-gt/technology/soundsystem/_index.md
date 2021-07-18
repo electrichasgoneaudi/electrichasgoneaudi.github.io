@@ -11,6 +11,8 @@ The standard sound system is a 150 Watt 6 channel system with 10 speakers includ
 
 OptionId **9VD**
 
+![Door speakers](standard_door_speaker.jpg "Standard door speakers")
+
 ## Bang & Olufsen Sound System with 3D sound
 
 The Bang & Olufsen Sound System with 3D sound offers a fascinating feature for hi-fi fans – sound that includes the spatial dimension of height. It accomplishes this via several additional loudspeakers. The interior is transformed into a broad sound stage where the music unfolds exactly as it was recorded in the concert hall – without any artificial effects. Behind this technology is an algorithm that Audi developed in collaboration with the Fraunhofer Institute in Erlangen. It takes stereo or 5.1 recordings, computes the information for the third dimension and conditions it for the 3D loudspeakers.

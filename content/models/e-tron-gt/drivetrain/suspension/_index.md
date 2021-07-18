@@ -11,7 +11,7 @@ The wheel suspensions are designed as a sporty double wishbone construction. It 
 
 ![Suspension](suspensions1.jpg "Suspension")
 
-As part of the optional dynamic package with id **PA2**, Audi supplies all-wheel steering. A spindle drive turns the rear wheels by a maximum of 2.8 degrees here– in opposite directions up to about 50 km/h (31.1 mph) to increase agility and handling, and in the same direction from about 80 km/h (49.7 mph) to maintain stability. Between 50 (31.1 mph) and 80 km/h (49.7 mph), depending on the driving situation, there is a continuous transition between a steering angle in opposite directions and a steering angle in the same direction. When maneuvering, the all-wheel steering reduces the turning circle by roughly 0.6 meters (2.0 ft).
+As part of the optional dynamic package with id **PA2** on Audi e-tron GT and included as standard on RS e-tron GT, Audi supplies all-wheel steering. A spindle drive turns the rear wheels by a maximum of 2.8 degrees here– in opposite directions up to about 50 km/h (31.1 mph) to increase agility and handling, and in the same direction from about 80 km/h (49.7 mph) to maintain stability. Between 50 (31.1 mph) and 80 km/h (49.7 mph), depending on the driving situation, there is a continuous transition between a steering angle in opposite directions and a steering angle in the same direction. When maneuvering, the all-wheel steering reduces the turning circle by roughly 0.6 meters (2.0 ft).
 
 ![4 wheel steering](4wheelsteering.jpg "Audi e-tron GT 4 wheel steering")
 
