@@ -19,6 +19,8 @@ This is standard wheel on Audi RS e-tron GT
 
 ![Sport w/heating](wheel_1XP_2.jpg "Sport with flatt bottom with perforated leather and heating option 1XP ")
 
+![Sport w/heating](wheel_1XP_3.jpg "On Audi RS e-tron GT you get an RS badge on wheel")
+
 ### Sport with alcantare
 
 This is option *2PF

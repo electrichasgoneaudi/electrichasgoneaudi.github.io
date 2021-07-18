@@ -22,6 +22,8 @@ weight: 6
 
 ![Trunk](frunk_1.jpg "Frunk Audi e-tron GT")
 
+![Trunk](frunk_2.jpg "The frunk can be opened from a button on drivers door")
+
 ## Roof storage
 
 You can store up to 75kg on the roof.
