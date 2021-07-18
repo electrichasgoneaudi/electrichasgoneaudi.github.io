@@ -10,13 +10,13 @@ The following inlays are available as standard
 
 ## Graphite Grey
 
-This is the standard inlay
+This is the standard inlay on Audi e-tron GT
 
-![Inlay](inlays_graphitegray_1.jpg "Graphite Gray Inlay - option 5MT - Standard inlay")
+![Inlay](inlays_graphitegray_1.jpg "Graphite Gray Inlay - option 5MT ")
 
-![Inlay](inlays_graphitegray_2.jpg "Graphite Gray Inlay - option 5MT - Standard inlay")
+![Inlay](inlays_graphitegray_2.jpg "Graphite Gray Inlay - option 5MT")
 
-![Inlay](inlays_graphitegray_3.jpg "Graphite Gray Inlay - option 5MT - Standard inlay")
+![Inlay](inlays_graphitegray_3.jpg "Graphite Gray Inlay - option 5MT")
 
 ## Carbon
 
@@ -29,6 +29,8 @@ This is the standard inlay
 ![Inlay](inlays_carbon_4.jpg "Carbon Inlay - option 5MH")
 
 ## Paladium Silver
+
+This is the standard inlay on Audi RS e-tron GT
 
 ![Inlay](inlays_paladiumsilver_1.jpg "Paladium silver inlay - option 5MY")
 
