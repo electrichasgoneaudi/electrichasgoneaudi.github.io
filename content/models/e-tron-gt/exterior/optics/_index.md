@@ -57,6 +57,12 @@ This has option **SL3**
 
 ![Carbon optics](carbonoptics_singleframeblack_2.jpg "Carbon optics with black single frame grill and black rings")
 
+![Carbon optics](carbonoptics_singleframeblack_3.jpg "Carbon optics with black single frame grill and black rings")
+
+![Carbon optics](carbonoptics_singleframeblack_4.jpg "Carbon optics with black single frame grill and black rings")
+
+![Carbon optics](carbonoptics_singleframeblack_5.jpg "Carbon optics with black single frame grill and black rings")
+
 ## Singleframe grill
 
 The grill can be delivered in 3 different stylings
