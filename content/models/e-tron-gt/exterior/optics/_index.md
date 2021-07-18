@@ -19,19 +19,21 @@ This is the optics that is standard on Audi e-tron GT. Front elements in Manhatt
 
 ![Standard optics](standardoptics_singleframebody_2.jpg "Standard optics with singleframe grill in body color (Suzuka)")
 
+![Standard optics](standardoptics_singleframebody_3.jpg "Standard optics with singleframe grill in body color (Mythos)")
 
 ![Standard optics](standardoptics_singleframehekla_1.jpg "Standard optics with singleframe grill in hekla grey")
+
+![Standard optics](standardoptics_singleframehekla_2.jpg "Standard optics with singleframe grill in hekla grey")
+
+![Standard optics](standardoptics_singleframehekla_3.jpg "Standard optics with singleframe grill in hekla grey")
 
 ### Black optics
 
 This has option **4ZD** and is standard on Audi RS e-tron GT
 
-
-
-
 ### Black optics Plus
 
-This has option **4ZP**. 
+This has option **4ZP**.
 
 ![Standard optics](blackopticsplus_singleframebody_1.jpg "Black optics plus with singleframe grill in body color (Ascari)")
 
