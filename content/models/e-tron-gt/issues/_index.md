@@ -8,7 +8,7 @@ weight: 21
 
 This can be anything from user errors to equipment malfunction on the car.
 
-You find the database [here](https://github.com/electrichasgoneaudi/etron-gt/issues). If you experience an error that is not listed, add it.
+You find the database [here](https://github.com/electrichasgoneaudi/e-tron-gt/issues). If you experience an error that is not listed, add it.
 
 
   
