@@ -88,3 +88,22 @@ The packages include
 ![Interior 7 HD](interior_PEF_1.jpg "RS Design package with red stiching")
 
 ![Interior 7 HD](interior_PEF_2.jpg "RS Design package with red stiching")
+
+## Cognac brown Audi exclusive design package
+
+This is option id **YVA**
+
+![Audi exclusive](interior_YVA_1.jpg "Cognac brown interior. Photo by Auditography")
+
+Audi exclusive cognac brown-jet gray design package for sport seats per front includes:
+
+- Seat center panels, seat side bolsters and head restraints in fine Nappa leather, cognac brown with contrasting stitching in jet gray
+- Door panels, instrument panel cover and upper instrument panel in fine Nappa leather, black with contrasting stitching in jet gray
+- Door trim inserts in black Dinamica microfiber **
+- Armrest in the doors in cognac brown leather with contrasting stitching in jet gray
+- Center console trim including front center armrest in black leather with contrasting stitching in jet gray
+- Steering wheel rim in black leather with contrasting stitching in jet gray
+- Plastic attachments in black
+- Floor mats in black with piping in black and contrasting stitching in jet gray
+
+An offer from Audi Sport GmbH 

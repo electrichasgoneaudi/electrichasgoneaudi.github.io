@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron GT / RS e-tron GT exterior
 linktitle: Exterior
-description: Audi e-tron GT / RS e-tron GT is probably one of the most beautiful cars ever, but still it comes in different styling, colors and wheels options you can choose from to make it even more special.-
+description: Audi e-tron GT / RS e-tron GT is probably one of the most beautiful cars ever, but still it comes in different styling, colors and wheels options you can choose from to make it even more special.
 weight: 4
 ---
 
