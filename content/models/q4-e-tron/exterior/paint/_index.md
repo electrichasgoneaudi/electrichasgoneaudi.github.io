@@ -35,7 +35,7 @@ The color swatch for the Audi Q4 e-tron and Q4 Sportback e-tron contains eight c
 
 Below you see photos of Audi Q4-etron and Q4 Sportback e-tron with the different colors.
 
-### Stone gray
+### Pebble Stone gray
 
 This is the only non metallic pain available. Color code **C2**
 
