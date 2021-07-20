@@ -69,7 +69,7 @@
           <div id="top-bar">
             
 
-            <div id="breadcrumbs" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+            <div id="breadcrumbs">
                 <span id="sidebar-toggle-span" class="adocs-sidebarToggle">
                   <a href="#" id="sidebar-toggle" data-sidebar-toggle="">
                     <i class="fa fa-bars"></i>
@@ -114,7 +114,7 @@
 
 {{define "breadcrumb"}}
 {{ if .page.Parent}}
-{{$value := (printf "<a itemprop='itemListElement' itemtype='https://schema.org/ListItem' href='%s'>%s</a> <span class='adocs-breadcrumb-divider'> / </span> %s" .page.Parent.URL .page.Parent.LinkTitle .value)}}
+{{$value := (printf "<a href='%s'>%s</a> <span class='adocs-breadcrumb-divider'> / </span> %s" .page.Parent.URL .page.Parent.LinkTitle .value)}}
 {{ template "breadcrumb" dict "page" .page.Parent "value" $value }} 
 {{else}}
  {{.value|safeHTML}}
