@@ -1,33 +1,34 @@
 ---
-title: How to protect my e-tron battery
+title: How to protect the battery on my all-electric Audi?
 linktitle: Protecting battery
-description: EV batteries degrades over time. But how can you preserver battery capacity the most?
+description: EV batteries degrade over time. But how can you preserver battery capacity the most?
 weight: 1
 ---
 
+Many factors increase degradation.
 
-There are many factors that increase degredation.
+- High-Speed Charging
+- High Temperature
+- High State of charge over a long time.
 
-- High Speed Charging
-- High Temprature
-- High State of charge over long time.
+Audi has a buffer on top so if you charge to 100% the real SOC is between 96 - 99% depending on which all-electric model/version you have.
 
-Audi has a buffer on top so if you charge to 100% the real SOC is between 96 - 99% depending on version. Audi choose to reduce the top buffer on e-tron 55 on models produced after week 48 in 2019.
+As an example: Audi choose to reduce the top buffer on e-tron 55 on models produced after week 48 in 2019.
 
-![bilde](https://user-images.githubusercontent.com/59776765/74585577-1f055a80-4fde-11ea-90ba-5df3be07a35e.png)
+![bilde](buffersize.png "Buffer size" )
 
-So even e-tron has  a relativly large buffer, charging to 100% is not good for the battery. Audi recomends not to charge more than 80% on daily basis. This is shown in the MMI and in the user manual.
-![bilde](https://user-images.githubusercontent.com/59776765/74585787-182c1700-4fe1-11ea-978a-039a846a7db1.png)
+So even e-tron has a relatively  large buffer, charging to 100% is not good for the battery. Audi recommends not to charge more than 80% on daily basis. This is shown in the MMI and the user manual.
+![bilde](chargingtarget.png "Charging target")
 
 The user manual on charging level
-![bilde](https://user-images.githubusercontent.com/59776765/74599538-f041bf80-5083-11ea-90e6-b4aee2ae6fd7.png)
+![bilde](usermanual.png "Usermanual")
 
-The diagram below show hows battery degrade based on charging habits. 
-![bilde](https://user-images.githubusercontent.com/59776765/74585603-76a3c600-4fde-11ea-96fd-4c99e5f6c2a8.png)
+The diagram below shows hows the battery degrade based on charging habits.
+![bilde](dstcycles.png "Battery degradation")
 
-Based on this the optimal is probably to keep it between 30 and 70%, but how much better it is compared to just charge to 100% is impossible to know. 
+Based on this the optimal is probably to keep it between 30 and 70%, but how much better it is compared to just charge to 100% is impossible to know.
 
-The buffer is limitations on the max and minimum voltage each cell can have. Having a 4% buffer on top means the voltage on each cell is limited to max 96% of the max voltage.
+The buffers are in reality limits on the max and minimum voltage each cell can have. Having a 4% buffer on top means the voltage on each cell is limited to a max of 96% of the max voltage.
 
 ## References
 
@@ -37,6 +38,6 @@ The buffer is limitations on the max and minimum voltage each cell can have. Hav
 
 [Extending Battery Lifetime by Avoiding High SOC ](https://books.google.no/books?id=dG6rDwAAQBAJ&printsec=frontcover&hl=no#v=onepage&q=degradation&f=false)
 
-![bilde](https://user-images.githubusercontent.com/59776765/104805852-54f52500-57d3-11eb-8507-516b099ae7e6.png)
+![bilde](evstoragestress.png)
 
 {{% children description="true" depth="1" %}}
