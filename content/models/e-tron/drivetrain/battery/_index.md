@@ -1,16 +1,13 @@
 ---
 title: Audi e-tron battery
 linktitle: Battery
-description: Audi e-tron have two different variants of the battery
+description: Audi e-tron is delivered with two different battery sizes and serveral variants. 
 weight: 7
 ---
 
-## Battery e-tron 60S and Audi e-tron 55
+## Cell technology
 
-The battery for Audi e-tron 55/e-tron 60S is totally on 95kWh and 396 volt and have the part number  1 AX2
-It has totally 36 modules with 12 cells each that gives totally 432 cells.
-
-### Cell technology
+### LG Chem
 
 The cell used is before january 2021 is LG Chem E66A. The cell type is [LG Pouch Cell](https://www.youtube.com/watch?v=Q2Lczd7MjGc) produced in [Poland](https://www.google.no/maps/search/lg+chem+poland/@51.0183429,16.8906359,995m/data=!3m1!1e3).
 
@@ -32,6 +29,9 @@ The cell used is before january 2021 is LG Chem E66A. The cell type is [LG Pouch
 
 ![Audi](lgchenx21.jpg "LGX N2.1 60AH pouch cell from LG Chem")
 
+
+### Samsung SDI
+
 After january 2021 Audi replaced the battery cells on e-tron 55 batteries with [Samsung SDI cells](https://www.electrive.net/2020/07/23/audi-chef-duesmann-sieht-batterie-probleme-beim-e-tron-als-geloest/). This is belived mainly to be becuase of LG focused on other cells to other VAG cars. 
 
 |Spec | Value |
@@ -49,6 +49,13 @@ After january 2021 Audi replaced the battery cells on e-tron 55 batteries with [
 | Volumetric Energy Density | ?  Wh/L |
 | Gravimetric Energy Density | ? Wh/kg |
 | Chemistry | [NCM 622](https://en.wikipedia.org/wiki/Lithium-ion_battery) |
+
+
+
+## Battery e-tron 60S and Audi e-tron 55
+
+The battery for Audi e-tron 55/e-tron 60S is totally on 95kWh and 396 volt and have the part number  1 AX2
+It has totally 36 modules with 12 cells each that gives totally 432 cells.
 
 ### Battery pack capacity
 
@@ -78,12 +85,6 @@ Max charging speed is 150kW.
 ![bilde](https://user-images.githubusercontent.com/59776765/91096009-9b4bbb00-e65d-11ea-8ccf-0fd968ace518.png)
 
 [Diagramm from FASTNED](https://support.fastned.nl/hc/en-gb/articles/360000815988-Charging-with-an-Audi-e-tron)
-
-### Battery housing
-
-![bilde](https://user-images.githubusercontent.com/59776765/73116898-731ca200-3f3e-11ea-8e2f-60f522415534.png)
-
-![bilde](https://user-images.githubusercontent.com/59776765/73117011-dc50e500-3f3f-11ea-90b9-2e5ac30287d1.png)
 
 ### Battery Audi e-tron 50
 
@@ -115,12 +116,19 @@ Module with 12 60Ah  Prismatic cells from e-golf. (not found any picture for e-t
 
 The diagram below shows how the etron 50 / e-tron sportback 50 has less modules.
 
-
 ![bilde](https://user-images.githubusercontent.com/59776765/73117637-2e4a3880-3f49-11ea-9d09-ca3e6f20a646.png)
-
 
 Max chargespeed is 125kW
 ![bilde](https://user-images.githubusercontent.com/59776765/91096090-b6b6c600-e65d-11ea-8a7a-b6cb98078ef8.png "battery")
+
+## Battery housing
+
+![bilde](https://user-images.githubusercontent.com/59776765/73116898-731ca200-3f3e-11ea-8e2f-60f522415534.png)
+
+![bilde](https://user-images.githubusercontent.com/59776765/73117011-dc50e500-3f3f-11ea-90b9-2e5ac30287d1.png)
+
+
+
 
 ## Summary
 

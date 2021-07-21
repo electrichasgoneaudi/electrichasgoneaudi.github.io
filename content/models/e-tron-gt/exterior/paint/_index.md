@@ -14,6 +14,13 @@ The different standard colors are
 
 Color Code: **T9**
 
+![Audi RS e-tron GT in Ibis White](paint_ibis_1.jpg "Audi RS e-tron GT in Ibis White with carbon optics")
+
+![Audi RS e-tron GT in Ibis White](paint_ibis_2.jpg "Audi RS e-tron GT in Ibis White with carbon optics")
+
+![Audi RS e-tron GT in Ibis White](paint_ibis_3.jpg "Audi RS e-tron GT in Ibis White with carbon optics")
+
+![Audi RS e-tron GT in Ibis White](paint_ibis_4.jpg "Audi RS e-tron GT in Ibis White with carbon optics")
 
 ### Tango Red
 
