@@ -9,7 +9,7 @@ weight: 7
 
 ### LG Chem
 
-The cell used is before january 2021 is LG Chem E66A. The cell type is [LG Pouch Cell](https://www.youtube.com/watch?v=Q2Lczd7MjGc) produced in [Poland](https://www.google.no/maps/search/lg+chem+poland/@51.0183429,16.8906359,995m/data=!3m1!1e3).
+The cell used on e-tron 55 before january 2021 is LG Chem E66A. The cell type is [LG Pouch Cell](https://www.youtube.com/watch?v=Q2Lczd7MjGc) produced in [Poland](https://www.google.no/maps/search/lg+chem+poland/@51.0183429,16.8906359,995m/data=!3m1!1e3).
 
 |Spec | Value |
 |-----|------|
@@ -29,10 +29,14 @@ The cell used is before january 2021 is LG Chem E66A. The cell type is [LG Pouch
 
 ![Audi](lgchenx21.jpg "LGX N2.1 60AH pouch cell from LG Chem")
 
-
 ### Samsung SDI
 
+Audi e-tron 50 has been using Samsung SDI cells sine the beginning. 
+The cells are produced by Samsung SDI in [Budapest, Hungary](https://www.google.com/maps/place/Samsung+SDI+Hungary+Zrt./@47.6765476,19.168821,2130m/data=!3m1!1e3!4m5!3m4!1s0x0:0x45db42011a2687d9!8m2!3d47.6779532!4d19.170087)
+They are of type [Samsung Prismatic](https://www.samsungsdi.com/automotive-battery/products/prismatic-lithium-ion-battery-cell.html)
+
 After january 2021 Audi replaced the battery cells on e-tron 55 batteries with [Samsung SDI cells](https://www.electrive.net/2020/07/23/audi-chef-duesmann-sieht-batterie-probleme-beim-e-tron-als-geloest/). This is belived mainly to be becuase of LG focused on other cells to other VAG cars. 
+
 
 |Spec | Value |
 |-----|------|
@@ -50,14 +54,12 @@ After january 2021 Audi replaced the battery cells on e-tron 55 batteries with [
 | Gravimetric Energy Density | ? Wh/kg |
 | Chemistry | [NCM 622](https://en.wikipedia.org/wiki/Lithium-ion_battery) |
 
+## Battery packs
 
-
-## Battery e-tron 60S and Audi e-tron 55
+### Battery e-tron 60S and Audi e-tron 55
 
 The battery for Audi e-tron 55/e-tron 60S is totally on 95kWh and 396 volt and have the part number  1 AX2
 It has totally 36 modules with 12 cells each that gives totally 432 cells.
-
-### Battery pack capacity
 
 Each cell is on 60ah and is 3.666666 nominal volt
 In each module the cells are grouped in 4 cells. The cells are coupled in paralell
@@ -96,10 +98,6 @@ It has totally 27 modules with 12 cells each that gives totally 324 cells
 
 Max charging speed is 120kW.
 
-The cells are produced by Samsung SDI in [Budapest, Hungary](https://www.google.com/maps/place/Samsung+SDI+Hungary+Zrt./@47.6765476,19.168821,2130m/data=!3m1!1e3!4m5!3m4!1s0x0:0x45db42011a2687d9!8m2!3d47.6779532!4d19.170087)
-
-They are of type [Samsung Prismatic](https://www.samsungsdi.com/automotive-battery/products/prismatic-lithium-ion-battery-cell.html)
-
 Each cell is on 60ah and is 3.67 volt
 In each module the cells are grouped in 3 cells. The cells are coupled in paralell
 giving it 60ah + 60ah + 60ah = 180ah capacitance.
@@ -126,9 +124,6 @@ Max chargespeed is 125kW
 ![bilde](https://user-images.githubusercontent.com/59776765/73116898-731ca200-3f3e-11ea-8e2f-60f522415534.png)
 
 ![bilde](https://user-images.githubusercontent.com/59776765/73117011-dc50e500-3f3f-11ea-90b9-2e5ac30287d1.png)
-
-
-
 
 ## Summary
 
