@@ -73,7 +73,7 @@ The total nominal voltage is 11 * 36 = 396 volt
 
 Each module weighs aprox 13kg.
 
-![bilde](https://user-images.githubusercontent.com/59776765/73131003-90677400-4003-11ea-982c-33dba97a84bc.png)
+![bilde](lgmodule.png)
 
 ![bilde](https://user-images.githubusercontent.com/59776765/73913087-6d1baf00-48b6-11ea-9f24-6d5fc9c95e17.png)
 
@@ -84,7 +84,7 @@ For models produced after that the buffer has been decreased so available is 86.
 
 Max charging speed is 150kW.
 
-![bilde](https://user-images.githubusercontent.com/59776765/91096009-9b4bbb00-e65d-11ea-8ccf-0fd968ace518.png)
+![bilde](chargespeed55.png "Charging curve 55")
 
 [Diagramm from FASTNED](https://support.fastned.nl/hc/en-gb/articles/360000815988-Charging-with-an-Audi-e-tron)
 
@@ -106,24 +106,27 @@ giving it 60ah + 60ah + 60ah = 180ah capacitance.
 
 The 4 groups with 3 cells are then coupled in serial. Giving it 3.66V + 3.66V + 3,66  +3.66 volt giving it 14.66 volt for each module
 
-![bilde](https://user-images.githubusercontent.com/59776765/73117720-11623500-3f4a-11ea-9b37-4b19050ec1df.png)
+![bilde](samsungcells.png)
 
 Module with 12 60Ah  Prismatic cells from e-golf. (not found any picture for e-tron)
 
 ![bilde](https://user-images.githubusercontent.com/59776765/73131174-70857f80-4006-11ea-84bd-a1f2d5848613.png)
 
-The diagram below shows how the etron 50 / e-tron sportback 50 has less modules.
-
-![bilde](https://user-images.githubusercontent.com/59776765/73117637-2e4a3880-3f49-11ea-9d09-ca3e6f20a646.png)
-
-Max chargespeed is 125kW
-![bilde](https://user-images.githubusercontent.com/59776765/91096090-b6b6c600-e65d-11ea-8a7a-b6cb98078ef8.png "battery")
-
 ## Battery housing
 
-![bilde](https://user-images.githubusercontent.com/59776765/73116898-731ca200-3f3e-11ea-8e2f-60f522415534.png)
+![bilde](batteryhousing55.png)
 
-![bilde](https://user-images.githubusercontent.com/59776765/73117011-dc50e500-3f3f-11ea-90b9-2e5ac30287d1.png)
+![bilde](batterycasing.png)
+
+The diagram below shows how the etron 50 / e-tron sportback 50 has less modules.
+
+![bilde](batteryhousing50.png)
+
+## Charging curve
+
+Max chargespeed is 125kW
+![bilde](chargespeed50.png "battery")
+
 
 ## Summary
 
