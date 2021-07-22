@@ -7,6 +7,8 @@ weight: 7
 
 ## Cell technology
 
+Audi/Volkswagen has a multi vendor strategi on cells. So different cells are used on e-tron.
+
 ### LG Chem
 
 The cell used on e-tron 55 before january 2021 is LG Chem E66A. The cell type is [LG Pouch Cell](https://www.youtube.com/watch?v=Q2Lczd7MjGc) produced in [Poland](https://www.google.no/maps/search/lg+chem+poland/@51.0183429,16.8906359,995m/data=!3m1!1e3).
@@ -56,45 +58,52 @@ After january 2021 Audi replaced the battery cells on e-tron 55 batteries with [
 | Gravimetric Energy Density | ? Wh/kg |
 | Chemistry | [NCM 622](https://en.wikipedia.org/wiki/Lithium-ion_battery) |
 
+![e-tron 50 battery](etron50battery.jpg "e-tron battery module with Samsung prismatic cell and battery pack")
+
+![bilde](samsungcells.png "Samsung prismatic cells")
+
 ## Battery packs
 
-### Battery e-tron 60S and Audi e-tron 55
+Currently Audi e-tron is available with 2 different battery pack sizes. It is expected that from 2023 model there will be added a larger pack.
 
-The battery for Audi e-tron 55/e-tron 60S is totally on 95kWh and 396 volt and have the part number  1 AX2
-It has totally 36 modules with 12 cells each that gives totally 432 cells.
+### 95kWh battery
 
-Each cell is on 60ah and is 3.666666 nominal volt
-In each module the cells are grouped in 4 cells. The cells are coupled in paralell
-giving it 60ah + 60ah + 60ah + 60ah = 240ah capacitance.
+The battery for Audi e-tron 55/e-tron 60S is totally on 95kWh and with a nominal voltage on 396 volt.
 
+It consist totally 36 modules with 12 cells each that gives totally 432 cells.
 
+The cells in each module is connected in 4p3s configuration. Meaning 4 and 4 cells are grouped in paralell and
+then connected in serial.
 
-The 3 groups with 4 cells are then coupled in serial. Giving it 3.66V + 3.66V + 3,66 volt giving it 11 nominal voltage for each module.
+![95 kWh module](95kwhconnection.drawio.svg "Connection diagram 95kWh module with 4p3s configuration")
 
-The total nominal voltage is 11 * 36 = 396 volt
+Since each cell is on 60ah each paralell group gives a capacity on 240Ah. (4 x 60ah)
 
-396 volt * 240ah = 95.040 kWh capacitiy.
+When 36 modules like this are connected in serial the nominal voltage is 396 volt.
+
+396volt * 240ah = 95 040 Watt hour (Wh) or 95kWh (kilo Watt Hours)
 
 Each module weighs aprox 13kg.
 
-![bilde](lgmodule.png)
-
-![bilde](https://user-images.githubusercontent.com/59776765/73913087-6d1baf00-48b6-11ea-9f24-6d5fc9c95e17.png)
+![bilde](lgmodule.jpg "Module with LG pouch cell")
 
 Total battery weight is 1532.2lb (699,99 kg)
 
-For models produced before week 47 in 2019, available battery is 83.6 kWh.
-For models produced after that the buffer has been decreased so available is 86.5 kWh increasing the range with 3,4%. 
+For models produced before week 47 in 2019, available battery is 83.6 kWh. This has part number 1 AX2.
+For models produced after that the buffer has been decreased so available is 86.5 kWh increasing the range with 3,4%.
+
+### 71kWh battery
+
+The battery for Audi e-tron 50 is totaly on 71kWh and was created to support a cheaper e-tron.
+
+It has totally 27 modules with 12 cells each that gives totally 324 cells. It is no concedence that it has 27 modules.
+
+One important factor was that it has to have the same nominal voltage on 396 volt. 
+
+This was 
 
 
-
-### Battery Audi e-tron 50
-
-The battery for Audi e-tron 50 is totaly on 71kWh and 
-It has totally 27 modules with 12 cells each that gives totally 324 cells
-3.68 x 60ah x  324 cells = 71.5 kWh.
-
-![e-tron 50 battery](etron50battery.jpg "e-tron 50 battery")
+![95 kWh module](71kwhconnection.drawio.svg "Connection diagram 71kWh module with 3p4s configuration")
 
 Max charging speed is 120kW.
 
@@ -102,11 +111,8 @@ Each cell is on 60ah and is 3.67 volt
 In each module the cells are grouped in 3 cells. The cells are coupled in paralell
 giving it 60ah + 60ah + 60ah = 180ah capacitance.
 
-![Connection](connection50.png "Cell connection e-tron 50")
-
 The 4 groups with 3 cells are then coupled in serial. Giving it 3.66V + 3.66V + 3,66  +3.66 volt giving it 14.66 volt for each module
 
-![bilde](samsungcells.png)
 
 Module with 12 60Ah  Prismatic cells from e-golf. (not found any picture for e-tron)
 
@@ -117,13 +123,11 @@ Module with 12 60Ah  Prismatic cells from e-golf. (not found any picture for e-t
 ![71kWh battery](batterycase50.jpg "71kWh battery for e-tron 50 with 27 modules")
 
 
-![bilde](batteryhousing55.png)
+![bilde](batterycase95kwh.jpg "Battery pack 95kWh")
 
-![bilde](batterycasing.png)
+![bilde](batterycasing.jpg "95kWh battery pack")
 
 The diagram below shows how the etron 50 / e-tron sportback 50 has less modules.
-
-![bilde](batteryhousing50.png)
 
 ![Crash structure](crashstructure.jpg "Integrated crash structure of the lithium-ion battery")
 

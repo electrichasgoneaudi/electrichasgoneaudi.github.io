@@ -15,7 +15,7 @@ In the front this means that passenger and driver can have individual set tempra
 
 ![AC control](ac3zonecontrol.jpg "3 zone ac control with individual temp for driver/passenger")
 
-It also gives the passenger in the back seat a seperate panel where they can adjust the 2 rear zones
+It also gives the passenger in the back seat a seperate panel where they can adjust the rear zone.
 
 ![AC control](rearaccontrol.jpg "The AC has a seperate control panel under MMI screen")
 
