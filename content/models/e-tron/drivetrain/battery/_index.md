@@ -7,7 +7,7 @@ weight: 7
 
 ## Cell technology
 
-Audi/Volkswagen has a multi vendor strategi on cells. So different cells are used on e-tron.
+Audi/Volkswagen has a multi-vendor strategy  on cells. So different cells are used on e-tron.
 
 ### LG Chem
 
@@ -35,11 +35,11 @@ The cell used on e-tron 55 before january 2021 is LG Chem E66A. The cell type is
 
 ### Samsung SDI
 
-Audi e-tron 50 has been using Samsung SDI cells sine the beginning.
+Audi e-tron 50 has been using Samsung SDI cells since the beginning.
 The cells are produced by Samsung SDI in [Budapest, Hungary](https://www.google.com/maps/place/Samsung+SDI+Hungary+Zrt./@47.6765476,19.168821,2130m/data=!3m1!1e3!4m5!3m4!1s0x0:0x45db42011a2687d9!8m2!3d47.6779532!4d19.170087)
 They are of type [Samsung Prismatic](https://www.samsungsdi.com/automotive-battery/products/prismatic-lithium-ion-battery-cell.html)
 
-After january 2021 Audi replaced the battery cells on e-tron 55 batteries with [Samsung SDI cells](https://www.electrive.net/2020/07/23/audi-chef-duesmann-sieht-batterie-probleme-beim-e-tron-als-geloest/). This is belived mainly to be becuase of LG focused on other cells to other VAG cars. 
+After January 2021 Audi replaced the battery cells on e-tron 55 batteries with [Samsung SDI cells](https://www.electrive.net/2020/07/23/audi-chef-duesmann-sieht-batterie-probleme-beim-e-tron-als-geloest/). This is believed  mainly to be because LG focused on other cells to other VAG cars.
 
 
 |Spec | Value |
@@ -64,7 +64,7 @@ After january 2021 Audi replaced the battery cells on e-tron 55 batteries with [
 
 ## Battery packs
 
-Currently Audi e-tron is available with 2 different battery pack sizes. It is expected that from 2023 model there will be added a larger pack.
+Currently, the Audi e-tron is available with 2 different battery pack sizes. It is expected that from the 2023 model there will be added a larger pack.
 
 ### 95kWh battery
 
@@ -100,19 +100,15 @@ It has totally 27 modules with 12 cells each that gives totally 324 cells. It is
 
 One important factor was that it has to have the same nominal voltage on 396 volt. 
 
-This was 
-
+This was possible with changing the battery architecture from 4 cells in paralell to 3 cells in paralell.
 
 ![95 kWh module](71kwhconnection.drawio.svg "Connection diagram 71kWh module with 3p4s configuration")
 
-Max charging speed is 120kW.
+Since each cell is on 60ah each paralell group gives a capacity on 180Ah. (3 x 60ah)
 
-Each cell is on 60ah and is 3.67 volt
-In each module the cells are grouped in 3 cells. The cells are coupled in paralell
-giving it 60ah + 60ah + 60ah = 180ah capacitance.
+When 27 modules like this are connected in serial the nominal voltage is 396 volt.
 
-The 4 groups with 3 cells are then coupled in serial. Giving it 3.66V + 3.66V + 3,66  +3.66 volt giving it 14.66 volt for each module
-
+396volt * 180ah = 71 280 Watt hour (Wh) or 71kWh (kilo Watt Hours)
 
 Module with 12 60Ah  Prismatic cells from e-golf. (not found any picture for e-tron)
 
@@ -120,10 +116,13 @@ Module with 12 60Ah  Prismatic cells from e-golf. (not found any picture for e-t
 
 ## Battery housing
 
+The 71kWh battery consist of 27 modules and all are located on the same "floor".
+
 ![71kWh battery](batterycase50.jpg "71kWh battery for e-tron 50 with 27 modules")
 
+The 95kWh uses a second storage under the rear seats to get rom for the 36 modules.
 
-![bilde](batterycase95kwh.jpg "Battery pack 95kWh")
+![bilde](batterycase95kwh.jpg "Battery pack 95kWh with 36 modules including 5 in the second floor")
 
 ![bilde](batterycasing.jpg "95kWh battery pack")
 
@@ -131,9 +130,11 @@ The diagram below shows how the etron 50 / e-tron sportback 50 has less modules.
 
 ![Crash structure](crashstructure.jpg "Integrated crash structure of the lithium-ion battery")
 
-## Thermal managament
+## Thermal management
 
-## Charging curve
+## Charging performance
+
+Audi e-tron 55/S and Audi e-tron 50 is one of the
 
 Max chargespeed is 125kW
 ![bilde](chargespeed50.png "battery")
@@ -143,7 +144,6 @@ Max charging speed is 150kW.
 ![bilde](chargespeed55.png "Charging curve 55")
 
 [Diagramm from FASTNED](https://support.fastned.nl/hc/en-gb/articles/360000815988-Charging-with-an-Audi-e-tron)
-
 
 ## Summary
 
