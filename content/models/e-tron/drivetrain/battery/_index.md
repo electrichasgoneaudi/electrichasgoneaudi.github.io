@@ -132,9 +132,23 @@ The diagram below shows how the etron 50 / e-tron sportback 50 has less modules.
 
 ## Thermal management
 
+The cell modules in the Audi e-tron can reproducibly discharge and charge electricity over a broad temperature and charge status window.
+
+The can be densely packed to achieve a very high output and energy density in the volume available. A cooling system of flat aluminum extruded sections divided uniformly into small chambers has the task of maintaining the battery’s high-performance operation over the long term.
+
+ Heat is exchanged between the cells and the cooling system beneath them via a thermally conductive gel pressed beneath each cell module. In what is a particularly efficient solution, the gel evenly transfers the waste heat to the coolant via the battery housing.
+
+ ![Cooling](cooling_1.jpg "Cooling the lithium-ion battery via the chiller")
+
+The battery and all of its parameters, such as charge status, power output and thermal management, is managed by the external battery management controller (BMC). This is 
+located in the occupant cell on the right A-pillar of the Audi e-tron. The BMC communicates both with the control units of the electric motors and the cell module controllers (CMC), each 
+of which monitors the current, voltage and temperature of the modules. The battery junction box (BJB), into which the high-voltage relays and fuses are integrated, is the electrical 
+interface to the vehicle. Enclosed in a die-cast aluminum housing, it is located in the front section of the battery system. Data exchange between the BMC, the CMCs and the BJB is via a 
+separate bus system.
+
 ## Charging performance
 
-Audi e-tron 55/S and Audi e-tron 50 is one of the
+Audi e-tron 55/S and Audi e-tron 50 is one of the fastest charging EV's on the marked.
 
 Max chargespeed is 125kW
 ![bilde](chargespeed50.png "battery")
