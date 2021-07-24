@@ -9,11 +9,19 @@ Both values apply for boost with launch control, which the driver can access in 
 
 In the e-tron GT quattro, the front electric motor outputs 175 kW (238 PS), and the rear motor outputs 320 kW (435 PS). Both electric motors keep reserves available for extreme driving situations, which is why the sum of their individual outputs exceeds the drive’s total output of 350 kW (476 PS) considerably. Up to 390 kW (530 PS) are available for roughly 2.5 seconds in boost mode via launch control. The total torque is 630 Nm (464.7 lb-ft). In the RS e-tron GT, the electric motor at the front axle also outputs 175 kW (238 PS), while the motor in the rear outputs 335 kW (456 PS). The total output is 440 kW (598 PS), and the total torque is 830 Nm (612.2 lb-ft). In boost mode, the output briefly increases to 475 kW (646 PS).
 
+![Rear motor](frontmotor_1.jpg "Front electric motor with suspension")
+
+![Rear motor](rearmotor_1.jpg "Rear electric motor with suspension")
+
 ### More copper in the stator: the hairpin winding
 
 The PSM motors (permanently excited synchronous motors) in the e-tron GT are extremely efficient, with an efficiency of considerably more than 90 percent in the majority of all driving situations. They are produced with a complex technology known as hairpin winding. The coils of the stator consist of rectangular copper wires that look similar to hairpins after they have been bent. This allows the wires to be packed more tightly, as a result of which considerably more copper fits into the stator as compared to the conventional round winding. This increases the output and torque and makes the cooling of the electric motors, which takes place via a separate medium-temperature circuit, more efficient.
 
+![Rear motor](rearmotor_3.jpg "Audi e-tron GT electric motor with hairpin winding")
+
 The electric motor, the power electronics, and the transmission form a compact block on both axles. The front motor is installed coaxially and has a ratio of 8.1:1. The rear electric motor is installed parallel to the axles and sends its torque to a two-speed transmission with three shafts. The second gear (ratio of 8.2:1) provides excellent efficiency and also large amounts of reserve power. The first gear, which has a very short ratio of 15.6:1, ensures spirited acceleration right from the start, if the driver so desires. If the driver decides against this, the car moves off in first gear. The driver generally does not need to press a start button to drive off and can just depress the brake pedal and engage the “D” or “R” gear. As soon as they take their foot off the brake pedal, the car starts to roll at low speed.
+
+
 
 ### The new generation of quattro: the electric all-wheel drive
 

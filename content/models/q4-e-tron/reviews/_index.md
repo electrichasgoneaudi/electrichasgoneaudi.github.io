@@ -37,6 +37,10 @@ weight: 20
 
 {{ youyube cCnp5LynIeo }}
 
+### Fully Charged Show: AUDI Q4 E-TRON First Drive: The electric Audi we wanted all along!
+
+{{< youtube PTPnz_Eh0zo >}}
+
 ### Automann-TV: NEW! Audi Q4 e-tron (306hp) | 0-180 km/h acceleration🏁 | by Automann in 4K
 
 {{< youtube 4piNOluQ178 >}}
