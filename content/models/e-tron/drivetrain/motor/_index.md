@@ -88,6 +88,10 @@ This animation shows the cooling and heat dissipation of the twin-coax drive.
 
 {{< youtube YXaR8RSU2Sw >}}
 
+### Brake recuperation: output of up to 265 kW
+
+While braking, the electric motors perform decelerations alone up to around 0.3 g, i.e. the vast majority of all brake applications in everyday driving. The hydraulic wheel brakes are activated only when the driver brakes very heavily. The transition is almost unnoticeable, and recuperation remains active almost up to a standstill. If both electric motors are involved in brake recuperation in order to ensure handling stability, they can recover up to 275 kW of power. In all driving situations – be it full acceleration, dynamic handling, coasting or brake recuperation – the Audi e-tron remains unshakably stable because its control systems for brakes, suspension, drive, and power electronics are closely connected and work together quickly.
+
 ### Differential and electric torque vectoring
 
 In addition to electric all-wheel drive, Audi e-tron S are equipped with electric torque vectoring:
