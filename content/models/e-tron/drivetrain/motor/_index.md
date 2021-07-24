@@ -54,11 +54,11 @@ Total 155kg.
 
 ![Rear Motor ](rear_motordual_schematics.jpg "Rear electric motor with power electronics")
 
-![image](https://user-images.githubusercontent.com/59776765/82730318-00aaab80-9cff-11ea-8c85-f6ed78d9c8b4.png)
+![Rear Motor ](rear_motordual_schematics_2.jpg "Rear electric motor with power electronics")
 
-![image](https://user-images.githubusercontent.com/59776765/82730397-86c6f200-9cff-11ea-9358-e4f54e98b991.png)
+![image](motorschematicsdual.jpg "Dual motors")
 
-![image](https://user-images.githubusercontent.com/59776765/82730399-8d556980-9cff-11ea-8f9d-33e5cff3b0e7.png)
+![image](motorschematicsdual_2.jpg "Dual motors")
 
 ![Rear Motor ](drivetrains.jpg "e-tron s drivetrain with electric motors")
 
