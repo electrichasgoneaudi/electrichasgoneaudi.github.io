@@ -65,7 +65,7 @@ After January 2021 Audi replaced the battery cells on e-tron 55 batteries with [
 
 ## Battery packs
 
-Currently, the Audi e-tron is available with 2 different battery pack sizes. It is expected that from the 2023 model there will be added a larger pack.
+Currently, the Audi e-tron is available with 2 different battery pack sizes. It is expected that from the [2023-model](/models/e-tron/mychanges/) there will be added a larger pack.
 
 ### 95kWh battery
 
@@ -174,8 +174,12 @@ For the 95kWh battery, the max charging speed is 150kW.
 
 There are several cars with higher top speed on charging, but the consistently high performance from low SOC to high SOC makes it overall faster than most other cars.
 
+[Charging curve](chargingcurve.jpg "e-tron 55 charging curve compared with competition")
+
 See video comparison below.
 
 {{< youtube -3IF26OoKJ0 >}}
+
+In cold weather the charging speed typical will get lower in the beginning until temprature comes up. Audi e-tron does not pre-heat battery before charging.
 
 {{% children description="true" depth="1" %}}

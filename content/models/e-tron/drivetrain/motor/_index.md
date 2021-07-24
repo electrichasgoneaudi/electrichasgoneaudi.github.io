@@ -1,13 +1,13 @@
 ---
-title: Audi e-tron motor
-linktitle: Motor
-description: Audi e-tron have two different variants of the battery
+title: Audi e-tron electric motors & setup
+linktitle: Motors
+description: Audi e-tron have powerful electric motors and was the first EV to have a tri motor configuration. Audi e-tron has 3 different motor configuration.
 weight: 7
 ---
 
-him-doerr-34824a163/). 
+### Motor configuration
 
-They have designed two [induction motors](https://en.wikipedia.org/wiki/Induction_motor) (asynchronous motors) 
+They have designed two [induction motors](https://en.wikipedia.org/wiki/Induction_motor) (asynchronous motors) that is used in the 3 different configuration.
 
 Audi e-tron 50 quattro, e-tron 55 quattro and e-tron S uses the same motors but in different configuration 
 
@@ -16,70 +16,39 @@ They are used in different configuration on the different models depending on ve
 
 On e-tron 50 on e-tron 55 they have the 250 in front with a parallel (APA250) axle and the 320 rear with coaxial axle (ATA320). In e-tron S they have the 320 in front (APA320) and two 250 in back (ATA250)
 
-![bilde](https://user-images.githubusercontent.com/59776765/82119308-908bab00-977d-11ea-8cbd-30ece88e2893.png)
-
-
+![bilde](motorconfig_1.png "Motor configuration")
 
 The table below summarizes the performance for the version
 
 
-
-
-
-
 |   | APA250 | ATA320 | APA320 | 2 x ATA250 |
-| ------------- | ------------- | ------------- | ------------- |  ------------- | 
+| ------------- | ------------- | ------------- | ------------- |  ------------- |
 | Power           |                      125 kW  | 140kW | 129kW | 205 kW |
 | Power w/boost | 135 kW  | 165 kW | 157 kW | 276 kW |
 | Torque | 247 Nm  | 314 Nm| 314 Nm | 494 Nm |
 | Torque w/booost | 309 Nm  | 355 Nm| 355 Nm | 618 Nm |
 
+![bilde](motorperformance.png "Electric motor performance figures")
 
+## Drivetrain motor setup
 
-![bilde](https://user-images.githubusercontent.com/59776765/82114014-4fce6a80-975a-11ea-8cfd-f37894021d94.png)
-
-### Gearbox
-The motors have a 2 stage plantaery ger
-
-
-### Cooling
-Each motor have liquid stator cooling, bearing plate cooling and rotor internal cooling that Audi e-tron maximum thermal robustness under all operating conditions.
-
-![bilde](https://user-images.githubusercontent.com/59776765/82115104-12b9a680-9761-11ea-8669-5fd2c9b3bd4a.png)
-
-![bilde](https://user-images.githubusercontent.com/59776765/82119412-9e8dfb80-977e-11ea-9a87-92052ddbce2e.png)
-
-![image](https://user-images.githubusercontent.com/59776765/82736990-e6d48d00-9d2d-11ea-8a6b-eb46172a5d90.png)
-
-This diagram shows how the rotor internal cooling helps keep the temprature low.
-
-![image](https://user-images.githubusercontent.com/59776765/82737121-cce77a00-9d2e-11ea-850d-1d8edb413880.png)
-
-
-
-
-### e-tron 50 & e-tron 55
+### Audi e-tron 55 & Audi e-tron 50 motor setup
 
 For both e-tron 50 and e-tron 55 Audi uses the AKA320 drive unit for the rear. This is a drive unit with 314nm torque (355nm with boost on e-tron 55)  and it has a coaxial configuration on the axels (axels goes through the unit)
 
-With boost 
+The motors have a 2 stage plantaery gear differentsial
 
-![bilde](https://user-images.githubusercontent.com/59776765/82114435-0b909980-975d-11ea-82e5-990fc306089a.png)
+![Front Motor ](front_motor_schematics.jpg "Front electric motor with power electronics")
 
+![Rear Motor ](rear_motor_schematics.jpg "Rear electric motor with power electronics")
 
+![Rear Motor ](drivetrain55_50.jpg "e-tron 50/55 drivetrain with electric motors")
 
+### Audi e-tron 60S 
 
-
-![bilde](https://user-images.githubusercontent.com/59776765/82114443-1ea36980-975d-11ea-88bc-beae9335cf48.png)
-
-
-
-### e-tron S
 In the e-tron S model Audi has moved the rear motor from e-tron 50 and e-tron 55 to the front and taken two front motors and combined them together on the rear axle.
 
 2 x 138 kW boost power  /  2 x 70kW continuous power  /  2 stages, 1 gear  /  liquid cooled
-
-
 
 Total 155kg. 
 
@@ -93,5 +62,24 @@ Total 155kg.
 ![image](https://user-images.githubusercontent.com/59776765/82730397-86c6f200-9cff-11ea-9358-e4f54e98b991.png)
 
 ![image](https://user-images.githubusercontent.com/59776765/82730399-8d556980-9cff-11ea-8f9d-33e5cff3b0e7.png)
+
+
+### Cooling
+
+Each motor have liquid stator cooling, bearing plate cooling and rotor internal cooling that Audi e-tron maximum thermal robustness under all operating conditions.
+
+![bilde](motorcooling_1.png)
+
+![bilde](motorcooling_2.png)
+
+![image](motorcooling_3.png)
+
+This diagram shows how the rotor internal cooling helps keep the temprature low.
+
+![image](motorcooling_4.png)
+
+This animation shows the cooling and heat dissipation of the twin-coax drive.
+
+{{ youtube YXaR8RSU2Sw }}
 
 {{% children description="true" depth="1" %}}
