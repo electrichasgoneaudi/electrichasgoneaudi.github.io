@@ -1,20 +1,20 @@
 ---
 title: Audi e-tron electric motors & setup
 linktitle: Motors
-description: Audi e-tron have powerful electric motors and was the first EV to have a tri motor configuration. Audi e-tron has 3 different motor configuration.
+description: Audi e-tron has powerful electric motors and was the first EV to have a tri-motor configuration. Audi e-tron has 3 different motor configurations.
 weight: 7
 ---
 
 ### Motor configuration
 
-They have designed two [induction motors](https://en.wikipedia.org/wiki/Induction_motor) (asynchronous motors) that is used in the 3 different configuration.
+They have designed two [induction motors](https://en.wikipedia.org/wiki/Induction_motor) (asynchronous motors) that are used in the 3 different configurations.
 
-Audi e-tron 50 quattro, e-tron 55 quattro and e-tron S uses the same motors but in different configuration 
+Audi e-tron 50 quattro, e-tron 55 quattro and e-tron S uses the same motors but in different configuration.
 
-It is one with 247Nm torque called 250 and one with 314Nm torque called 320. 
-They are used in different configuration on the different models depending on version.
+It is one with 247Nm torque called 250 and one with 314Nm torque called 320.
+They are used in different configurations on the different models.
 
-On e-tron 50 on e-tron 55 they have the 250 in front with a parallel (APA250) axle and the 320 rear with coaxial axle (ATA320). In e-tron S they have the 320 in front (APA320) and two 250 in back (ATA250)
+On e-tron 50 on e-tron 55 they have the 250 in front with a parallel (APA250) axle and the 320 rear with coaxial axle (ATA320). In e-tron S they have the 320 in front (APA320) and two 250 in the back (ATA250)
 
 ![bilde](motorconfig_1.png "Motor configuration")
 
@@ -44,7 +44,7 @@ The motors have a 2 stage plantaery gear differentsial
 
 ![Rear Motor ](drivetrain55_50.jpg "e-tron 50/55 drivetrain with electric motors")
 
-### Audi e-tron 60S 
+### Audi e-tron 60S
 
 In the e-tron S model Audi has moved the rear motor from e-tron 50 and e-tron 55 to the front and taken two front motors and combined them together on the rear axle.
 
@@ -66,13 +66,13 @@ This technical animation shows the total axle drive set up in the Audi e-tron S.
 
 {{< youtube flR291q-OdA >}}
 
-Animation of the drivetrain construction, twin motor and coolant circuit of the Audi e-tron S Sportback.
+Animation of the drivetrain construction, twin motor, and coolant circuit of the Audi e-tron S Sportback.
 
 {{< youtube H_BFX4es66E >}}
 
 ### Cooling
 
-Each motor have liquid stator cooling, bearing plate cooling and rotor internal cooling that Audi e-tron maximum thermal robustness under all operating conditions.
+Each motor has liquid stator cooling, bearing plate cooling, and rotor internal cooling that Audi e-tron maximum thermal robustness under all operating conditions.
 
 ![bilde](motorcooling_1.png)
 
@@ -80,12 +80,12 @@ Each motor have liquid stator cooling, bearing plate cooling and rotor internal 
 
 ![image](motorcooling_3.png)
 
-This diagram shows how the rotor internal cooling helps keep the temprature low.
+This diagram shows how the rotor internal cooling helps keep the temperature low.
 
 ![image](motorcooling_4.png)
 
 This animation shows the cooling and heat dissipation of the twin-coax drive.
 
-{{ < youtube YXaR8RSU2Sw > }}
+{{< youtube YXaR8RSU2Sw >}}
 
 {{% children description="true" depth="1" %}}
