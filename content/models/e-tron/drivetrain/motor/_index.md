@@ -50,12 +50,9 @@ In the e-tron S model Audi has moved the rear motor from e-tron 50 and e-tron 55
 
 2 x 138 kW boost power  /  2 x 70kW continuous power  /  2 stages, 1 gear  /  liquid cooled
 
-Total 155kg. 
+Total 155kg.
 
-![bilde](https://user-images.githubusercontent.com/59776765/82114529-8954a500-975d-11ea-8e41-364fab1a2e42.png)
-
-
-![bilde](https://user-images.githubusercontent.com/59776765/82114641-3f1ff380-975e-11ea-94bb-8be06c21d7fc.png)
+![Rear Motor ](rear_motordual_schematics.jpg "Rear electric motor with power electronics")
 
 ![image](https://user-images.githubusercontent.com/59776765/82730318-00aaab80-9cff-11ea-8c85-f6ed78d9c8b4.png)
 
@@ -63,6 +60,15 @@ Total 155kg.
 
 ![image](https://user-images.githubusercontent.com/59776765/82730399-8d556980-9cff-11ea-8f9d-33e5cff3b0e7.png)
 
+![Rear Motor ](drivetrains.jpg "e-tron s drivetrain with electric motors")
+
+This technical animation shows the total axle drive set up in the Audi e-tron S.
+
+{{< youtube flR291q-OdA >}}
+
+Animation of the drivetrain construction, twin motor and coolant circuit of the Audi e-tron S Sportback.
+
+{{< youtube H_BFX4es66E >}}
 
 ### Cooling
 
@@ -80,6 +86,6 @@ This diagram shows how the rotor internal cooling helps keep the temprature low.
 
 This animation shows the cooling and heat dissipation of the twin-coax drive.
 
-{{ youtube YXaR8RSU2Sw }}
+{{ < youtube YXaR8RSU2Sw > }}
 
 {{% children description="true" depth="1" %}}
