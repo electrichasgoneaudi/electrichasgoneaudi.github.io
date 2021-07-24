@@ -130,7 +130,7 @@ The 95kWh uses a second floor under the rear seats to get the room needed for th
 
 ![bilde](batterycasing.jpg "95kWh battery pack")
 
-The diagram below shows how the e-tron 50 / e-tron sportback 50 has fewer modules.
+The diagram below shows how the e-tron 50 / e-tron Sportback 50 has fewer modules.
 
 Sophisticated measures have been taken to protect the high-voltage battery of the Audi etron. A strong enclosing frame of cast aluminum nodes and extruded sections, plus an aluminum plate 3.5 millimeters (0.1 in) thick protect against damage from accidents or curbs. Inside, a framework-like aluminum structure reinforces the battery system. Also 
 comprised of extruded sections, it holds the cell modules like a typecase.
@@ -152,15 +152,11 @@ A cooling system of flat aluminum extruded sections divided uniformly into small
 
  ![Cooling](cooling_1.jpg "Cooling the lithium-ion battery via the chiller")
 
-The battery and all of its parameters, such as charge status, power output and thermal management, is managed by the external battery management controller (BMC). This is 
-located in the occupant cell on the right A-pillar of the Audi e-tron. The BMC communicates both with the control units of the electric motors and the cell module controllers (CMC), each 
-of which monitors the current, voltage and temperature of the modules.
+The battery and all of its parameters, such as charge status, power output, and thermal management, are managed by the external battery management controller (BMC). This is located in the occupant cell on the right A-pillar of the Audi e-tron. The BMC communicates both with the control units of the electric motors and the cell module controllers (CMC), each of which monitors the current, voltage, and temperature of the modules.
 
 ![Battery junction box](batteryjunctionbox.jpg "Battery junction box")
 
-The battery junction box (BJB), into which the high-voltage relays and fuses are integrated, is the electrical 
-interface to the vehicle. Enclosed in a die-cast aluminum housing, it is located in the front section of the battery system. Data exchange between the BMC, the CMCs and the BJB is via a 
-separate bus system.
+The battery junction box (BJB), into which the high-voltage relays and fuses are integrated, is the electrical interface to the vehicle. Enclosed in a die-cast aluminum housing, it is located in the front section of the battery system. Data exchange between the BMC, the CMCs, and the BJB is via a separate bus system.
 
 ## Charging performance
 
@@ -176,7 +172,7 @@ For the 95kWh battery, the max charging speed is 150kW.
 
 [Diagramm from FASTNED](https://support.fastned.nl/hc/en-gb/articles/360000815988-Charging-with-an-Audi-e-tron)
 
-There are serveral car with higher top speed on charging, but the consistet high performance from low SOC to high SOC makes it overall faster than most other cars.
+There are several cars with higher top speed on charging, but the consistently high performance from low SOC to high SOC makes it overall faster than most other cars.
 
 See video comparison below.
 
