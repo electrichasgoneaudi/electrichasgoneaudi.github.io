@@ -7,8 +7,9 @@ weight: 2
 
 Batteries is no new technology. Already in 1802 the first battery capable for mass production was created, but it was note before 1992 that Li-ion batteries was brought to the market by Sony.
 
-This article focus on Li-Ion batteries for EV's.
+This article focus on Li-Ion batteries for EV's and have the goal is to give you a high level understanding.
 
+If you want deep understanding we recomend the [EV battery cards by Dr Cecile Pera at Orovel.Net](https://www.orovel.net/orovel-cards/battery) and [BatteryUniversity](https://batteryuniversity.com/articles)
 
 
 {{% children description="true" depth="1" %}}

@@ -14,6 +14,7 @@ The world premiere was April 14. 2021.
 
 ![Audi e-tron and Audi e-tron Sportback](variants/variants1.jpg "Audi Q4 e-tron and Audi Q4 e-tron Sportback")
 
+Audi Q4 e-tron has a wide range of options and advanced driving technologies. Here on electrichasgoneaudi.net, you find all details about Q4 e-tron. Everything from the different wheels to choose from to how the different driving assist system works.
 
 Below you find every detail you need to know about Audi Q4 e-tron and Audi Q4 e-tron Sportback
 

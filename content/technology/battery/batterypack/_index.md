@@ -8,7 +8,6 @@ weight: 3
 
 Typical a battery pack consist of modules that consist of serveral cells
 
-
 ## Modules
 
 Modules are a combination of cells
@@ -20,8 +19,25 @@ Modules are a combination of cells
 The cells inside a module can be connected different ways.
 
 - Serial connecting gives a higher voltage
-- Paralell connection gives a higher capacity. 
+- Paralell connection gives a higher capacity.
 
+#### Example 1 
+
+Below you see how modules on e-tron 55 are. There are 12 cells per module.
+They are grouped in 3 groups where 4 cells are connected in paralell. Then those groups are connected in serial giving it
+a 3 serial 4 paralell configuration (3s4p). With 60AH for each cell and a nominal voltage on 3.66 this module have a capacity on
+240AH and 11 volts.
+
+![Battery](/models/e-tron/drivetrain/battery/95kwhconnection.drawio.svg/ "3s4p connection")
+
+#### Example 2
+
+Below you see how modules on e-tron 50 are. There are 12 cells per module.
+They are grouped in 4 groups where 2 cells are connected in paralell. Then those groups are connected in serial giving it
+a 4 serial 2 paralell configuration (3s4p). With 60AH for each cell and a nominal voltage on 3.66 this module have a capacity on
+180AH and 14.666 volts.
+
+![Battery](/models/e-tron/drivetrain/battery/71kwhconnection.drawio.svg/ "4s3p connection")
 
 ## Packs
 
