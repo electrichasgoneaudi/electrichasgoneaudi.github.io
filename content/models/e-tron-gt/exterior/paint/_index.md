@@ -26,13 +26,13 @@ Color Code: **T9**
 
 Color Code: **Y1**
 
-![Audi RS e-tron GT in Tango Red](paint_tangored_2.jpg "Audi RS e-tron GT in Tango Red")
+![Audi RS e-tron GT in Tango Red](paint_tangored_2.jpg "Audi e-tron GT in Tango Red")
 
-![Audi RS e-tron GT in Tango Red](paint_tangored_3.jpg "Audi RS e-tron GT in Tango Red")
+![Audi RS e-tron GT in Tango Red](paint_tangored_3.jpg "Audi e-tron GT in Tango Red")
 
-![Audi RS e-tron GT in Tango Red](paint_tangored_4.jpg "Audi RS e-tron GT in Tango Red")
+![Audi RS e-tron GT in Tango Red](paint_tangored_4.jpg "Audi e-tron GT in Tango Red")
 
-![Audi RS e-tron GT in Tango Red](paint_tangored_5.jpg "Audi RS e-tron GT in Tango Red")
+![Audi RS e-tron GT in Tango Red](paint_tangored_5.jpg "Audi e-tron GT in Tango Red")
 
 ![Audi RS e-tron GT in Tango Red](paint_tangored_1.jpg "Audi RS e-tron GT in Tango Red")
 
