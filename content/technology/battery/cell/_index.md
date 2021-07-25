@@ -1,10 +1,12 @@
 ---
-title: Battery parts & chemistry
-linktitle: Parts & Chemistry
+title: Cell & chemistry
+linktitle: Cell & Chemistry
 description: The battery cells 
 weight: 2
 ---
 
+
+## Cell parts
 
 ### Anode
 
@@ -42,12 +44,27 @@ Electrolytes based on solid materials are areas that many works on. These are ca
 
  Currently used collectors are mostly made of aluminum or copper foils.
 
-### Housing
+## Cell Housing
 
 The most common housing
 
+### Pouch
+
+![LG Pouch Cell](lgchenx21.jpg "LG Chem pouch cell")
 
 
+### Prismatic
+
+
+### Cylinder
+
+
+
+
+
+
+
+## Audi cells
 
 
  If you want to get event a deper understanding og the battery chemistry and production we recomend [Orovel cards](https://www.orovel.net/orovel-cards/battery)
