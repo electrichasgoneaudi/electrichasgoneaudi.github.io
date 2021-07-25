@@ -5,12 +5,11 @@ description: Battery pack to ev are often combined of many hundreds of battery c
 weight: 3
 ---
 
-
 Typical a battery pack consist of modules that consist of serveral cells
 
 ## Modules
 
-Modules are a combination of cells
+Modules are a combination of cells. The number of cells in a module varies. 
 
 ![Module](module_lg_pouch.jpg "LG battery module")
 
@@ -39,9 +38,16 @@ a 4 serial 2 paralell configuration (3s4p). With 60AH for each cell and a nomina
 
 ![Battery](/models/e-tron/drivetrain/battery/71kwhconnection.drawio.svg/ "4s3p connection")
 
+### Audi modules
+
+| Module | No of cells | Config | Capacity | Nominal voltage |
+|-----|-----|-----|------|------|
+|e-tron 55 | 12 | 3s4p | 240AH | 11 volts |
+|e-tron 50 | 12 | 4s3p | 180AH | 14.666 volts |
+|e-tron GT | 12 | 6s2p | 129.2AH | 22.13 volts |
+|Q4 e-tron | 24 | 8s3p | 234AH | 29.16 volts |
+
 ## Packs
-
-
 
 ![Batterypack](batterypack_e-tron-gt.jpg "Batterypack with 33 modules")
 
