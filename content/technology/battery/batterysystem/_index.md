@@ -1,15 +1,20 @@
 ---
-title: Battery pack
-linktitle: Battery pack
-description: Battery pack to ev are often combined of many hundreds of battery cells.
+title: Battery system
+linktitle: Battery system
+description: The battery system is the combination of many cells and other control electronics to a complete battery to power the EV.
 weight: 3
 ---
 
-Typical a battery pack consist of modules that consist of serveral cells
+Today this is most typical achived with the Cell2Module technology. Where cells are grouped in to modules that again are grouped in to a battery system.
+
+In the future we will see cars witn Cell2Pack technologies where cells are put directly in to packs and even Cell2Car technology where cell are put directly in to the
+car. More about that later
+
+Typical a battery pack consist of modules that consist of serveral cells.
 
 ## Modules
 
-Modules are a combination of cells. The number of cells in a module varies. 
+Modules are a combination of cells. The number of cells in a module varies.
 
 ![Module](module_lg_pouch.jpg "LG battery module")
 
@@ -20,7 +25,7 @@ The cells inside a module can be connected different ways.
 - Serial connecting gives a higher voltage
 - Paralell connection gives a higher capacity.
 
-#### Example 1 
+#### Example 1
 
 Below you see how modules on e-tron 55 are. There are 12 cells per module.
 They are grouped in 3 groups where 4 cells are connected in paralell. Then those groups are connected in serial giving it
@@ -51,12 +56,11 @@ a 4 serial 2 paralell configuration (3s4p). With 60AH for each cell and a nomina
 
 ![Batterypack](batterypack_e-tron-gt.jpg "Batterypack with 33 modules")
 
-
-
-
 ### Audi Battery packs
 
-#### Battery configuration
+Today all Audi models uses Cell2Module technology
+
+#### Battery pack configuration
 
 |  | Cell type | Cells | Modules | Voltage | Cell config | Gross cap |
 |-----|------|-----|-----|------|-----|-----|
@@ -83,7 +87,6 @@ a 4 serial 2 paralell configuration (3s4p). With 60AH for each cell and a nomina
 | [Q4 e-tron 50](/models/q4-e-tron/drivetrain/battery/#battery-q4-40-e-tron-and-q4-50-e-tron) | 82kWh | 77kWh | 125kW | 493kg | 0.188 |
 | [Q4 e-tron 40](/models/q4-e-tron/drivetrain/battery/#battery-q4-40-e-tron-and-q4-50-e-tron) | 82kWh | 77kWh | 125kW | 493kg | 0.188 |
 | [Q4 e-tron 35](/models/q4-e-tron/drivetrain/battery/#battery-q4-35) | 55kWh | 52kWh | 100kW | 344kg | 0.160 |
-
 
 *1 Audi Q6 details is not yet confirmed.
 
