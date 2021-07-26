@@ -72,60 +72,15 @@ The most common housing
 
 ## Audi cells
 
-### LG Chem LGX N2.1
+The below table list the cells used on the different all-electric Audi models. Click on modelname
+for more details about the cells.
 
-This cell type is used on Audi e-tron 55 and Audi e-tron S.
-|**Spec** | **Value** |
-|-----|------|
-| Manufacturer | LG Chem |
-| Model | LGX N2.1 |
-| Nominal Capacity |60 Ah |
-| Nominal Voltage | 3,666666 V |
-| Nominal energy | 219,907 Wh |
-| Thickness|  16,5 mm |
-| Width | 100 mm |
-| Height | 330 mm |
-| Volume | 0,544500 |
-| Weight | 820 g |
-| Volumetric Energy Density | 403 Wh/L |
-| Gravimetric Energy Density | 268 Wh/kg |
-| Chemistry | [NCM 622](https://en.wikipedia.org/wiki/Lithium-ion_battery) |
-
-### LG Chem LGX E78
-
-This cell type is used on Audi Q4 e-tron.
-
-| **Spec** |  **value** |
-|-----|-----|
-| Manufacturer |  LG Chem |
-| Model | LGX E78 |
-| Nominal Capacity | 78 Ah |
-| Nominal Voltage | 3,65 V |
-| Weight | 1.073 g |
-| Gravimetric energy density | 265 Wh/kg |
-| Chemistry | NCM 712 |
-
-### LG Chem E66A
-
-This cell type is used on Audi e-tron GT and Audi RS e-tron GT
-
-|**Spec** | **Value** |
-|-----|------|
-| Manufacturer | LG Chem |
-| Model | E66A |
-| Nominal Capacity |64.6 Ah |
-| Minimum Capacity | 63,5 Ah |
-| Nominal Voltage | 3,651515 V |
-| Nominal energy | 235,888 Wh |
-| Minimum energy| 232,2 Wh |
-| Thickness|  11,7 mm |
-| Width | 104 mm |
-| Height | 350 mm |
-| Volume | 0,425880 |
-| Weight | 897 g |
-| Volumetric Energy Density | 553 Wh/L |
-| Gravimetric Energy Density | 263 Wh/kg |
-| Chemistry | [NCM 712](https://en.wikipedia.org/wiki/Lithium-ion_battery) |
-
+| Model | Cell | Capacity | Energy Density | Chemistry|
+|-----|------|------|------|------|
+| [Audi e-tron 50](/models/e-tron/drivetrain/battery/#cell-technology) | Samsung SDI | 60AH | ? | NCM 622 |
+| [Audi e-tron 55](/models/e-tron/drivetrain/battery/#cell-technology) | Samsung SDI | 60AH | ? | NCM 622 |
+| [Audi e-tron 55](/models/e-tron/drivetrain/battery/#cell-technology) | LG Chem LGX N2.1 | 60AH | 268 Wh/kg | NCM 622 |
+| [Audi Q4 e-tron](/models/q4-e-tron/drivetrain/battery/#battery-cells) | LG Chem LGX E78 | 78AH | 265 Wh/kg | NCM 712 |
+| [Audi e-tron GT](/models/e-tron-gt/drivetrain/battery/#cell-technology) | LG Chem E66A | 64.6AH | 263 Wh/kg | NCM 712 |
 
 {{% children description="true" depth="1" %}}
