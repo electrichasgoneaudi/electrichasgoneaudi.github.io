@@ -1,9 +1,10 @@
 ---
-title: Thermal management
-linktitle: Thermal managment
+title: Cell balancing
+linktitle: Cell balancing 
 description: Thermal managment is important for battery performance and health
-weight: 6
+weight: 5
 ---
+
 
 
 

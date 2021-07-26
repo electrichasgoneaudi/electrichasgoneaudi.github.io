@@ -2,7 +2,7 @@
 title: Battery Degradation
 linktitle: Degradation
 description: Batteries degradedes over time and reduce the range on EVs. There are to types of degradtion. Calender aging and cycle aging.
-weight: 5
+weight: 7
 ---
 
 

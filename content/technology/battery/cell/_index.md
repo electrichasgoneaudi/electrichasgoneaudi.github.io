@@ -1,11 +1,12 @@
 ---
 title: Cell & chemistry
 linktitle: Cell & Chemistry
-description: The battery cells are the most important part in the battery.
+description: The battery cells are the most important part in the battery system and the most important factor both for cost and performance on EV's.
 weight: 2
 ---
 
 ## Cell parts
+
 
 ### Anode
 
@@ -75,12 +76,12 @@ The most common housing
 The below table list the cells used on the different all-electric Audi models. Click on modelname
 for more details about the cells.
 
-| Model | Cell | Capacity | Energy Density | Chemistry|
-|-----|------|------|------|------|
-| [Audi e-tron 50](/models/e-tron/drivetrain/battery/#cell-technology) | Samsung SDI | 60AH | ? | NCM 622 |
-| [Audi e-tron 55](/models/e-tron/drivetrain/battery/#cell-technology) | Samsung SDI | 60AH | ? | NCM 622 |
-| [Audi e-tron 55](/models/e-tron/drivetrain/battery/#cell-technology) | LG Chem LGX N2.1 | 60AH | 268 Wh/kg | NCM 622 |
-| [Audi Q4 e-tron](/models/q4-e-tron/drivetrain/battery/#battery-cells) | LG Chem LGX E78 | 78AH | 265 Wh/kg | NCM 712 |
-| [Audi e-tron GT](/models/e-tron-gt/drivetrain/battery/#cell-technology) | LG Chem E66A | 64.6AH | 263 Wh/kg | NCM 712 |
+| Model | Cell | Format | Capacity | Energy Density | Chemistry|
+|-----|------|-----|------|------|------|
+| [Audi e-tron 50](/models/e-tron/drivetrain/battery/#cell-technology) | Samsung SDI | Prismatic | 60AH | ? | NCM 622 |
+| [Audi e-tron 55](/models/e-tron/drivetrain/battery/#cell-technology) | Samsung SDI | Prismatic | 60AH | ? | NCM 622 |
+| [Audi e-tron 55](/models/e-tron/drivetrain/battery/#cell-technology) | LG Chem LGX N2.1 | Pouch | 60AH | 268 Wh/kg | NCM 622 |
+| [Audi Q4 e-tron](/models/q4-e-tron/drivetrain/battery/#battery-cells) | LG Chem LGX E78 | Pouch | 78AH | 265 Wh/kg | NCM 712 |
+| [Audi e-tron GT](/models/e-tron-gt/drivetrain/battery/#cell-technology) | LG Chem E66A | Pouch | 64.6AH | 263 Wh/kg | NCM 712 |
 
 {{% children description="true" depth="1" %}}
