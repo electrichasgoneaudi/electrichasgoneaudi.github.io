@@ -95,4 +95,24 @@ Today all Audi models uses Cell2Module technology
 *3 From January 2021 Audi uses Samsung cells on e-tron 55
 
 
+## What is next?
+
+The problem with todays approach with Cell2Modules is that the energy density on the battery system is much lower than on the cell level.
+This is because of all the structural elements in a battery that does not add any energy content to a battery pack.
+
+To reduce this problem Volkswagen is moving to a Cell2Pack technology where Audi with its Artemis project will launch the first car with in 
+late 2024.
+
+The technology is based on putting the cells directly in to the pack increasing the energy density to the battery system. This reduces weight and increases capacity.
+
+On March 15. 2021 the Volkswagen group that Audi is part of presented their strategy as part of Power day.
+
+![Cell to pack](cell2pack.jpg "Volkswagen Cell2Pack technology")
+
+![Cell2Pack](cell2packcomparison.jpg "Volkswagen Cell2Pack comparison")
+
+See the complete presentation.
+
+{{< youtube vdnRfNwj1Fg >}}
+
 {{% children description="true" depth="1" %}}
