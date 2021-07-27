@@ -66,13 +66,13 @@ The full capacity (100%) can then be calculated:
 
 ## What affects capacity
 
-Just one deviation from capacity does not nescerry mean that your battery has degraded.
+Just one deviation from capacity does not necessarily mean that your battery has degraded.
 
 If you have high consumption there will be some loss because of internal resistance. 
 
-If your battery was unbalanced it will also affect.
+If your battery was unbalanced it will also affect the battery capacity.
 
-For the people that love to keep track of this we recomend tracking this from the beginning of ownership. In this way you will know your car more.
+For the people that love to keep track of this, we recommend  tracking this from the beginning of ownership. In this way you will know your car more.
 
 The following example show the stats from an e-tron 55 2020v1 with 83.6kWh capacity from it was new.
 
