@@ -5,7 +5,19 @@ description: The performance of lithium-ion batteries deteriorate over time whet
 weight: 7
 ---
 
- Ageing based on use use are called cycle ageing and ageing based on time is called calendar agein. 
+Ageing based on use are called cycle ageing and ageing based on time is called calendar ageing.
+
+The two main consequences of ageing are energy capacity reduction and power reduction.
+
+In an EV, the energy capacity determines the range an EV can travel on a single charge, and the power determines the maximum acceleration and top speed.
+
+Energy capacity reduction can be caused by a loss of battery charge capacity or in the rise of the impedance.
+
+Loss of the cyclable lithium or deactivation of the active electrode material are the primary sources of capacity reduction.
+
+The rise in impedance is caused by the chemical or physical transformation of the various materials and interfaces.
+
+When the internal impedance increases this affect the power since the battery voltage is reduced.
 
 ## Calender Ageing
 
@@ -23,7 +35,7 @@ The factors that affects calender aging is State of Charge and environmental tem
 
 Cycle ageing is the reduction of energy capcaity or power caused bey charging/discharging. 
 
-
+![Cycles](dstcycles.png "Cycle stress")
 
 ### Scientfictic articles to read to understand more about cycle aging
 
@@ -32,12 +44,10 @@ Cycle ageing is the reduction of energy capcaity or power caused bey charging/di
 - [Nissan Leaf battery degradation data: 24 vs 30 kWh batteries](https://pushevs.com/2018/03/20/nissan-leaf-battery-degradation-data-24-vs-30-kwh-batteries/)
 - [Extending Battery Lifetime by Avoiding High SOC](https://books.google.no/books?id=dG6rDwAAQBAJ&printsec=frontcover&hl=no#v=onepage&q=degradation&f=false)
 
-![Cycles](dstcycles.png "Cycle stress")
-
 ## How to preserve battery
 
 - Don't park car with High SOC over long time
 - Don't park car in extreme heat
-- Dont
+- Limit high speed charging.
 
 {{% children description="true" depth="1" %}}
