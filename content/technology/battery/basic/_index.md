@@ -7,7 +7,7 @@ weight: 1
 
 A Lithium-ion battery is made up of two electrodes (anode & cathode), separator, electrolyte, and two current collectors (positive and negative).
 
-An electrochemical reaction in Anode causes it to release positive lithium ions into the electrolyte.
+During discharge an electrochemical reaction in Anode causes it to release positive lithium ions into the electrolyte.
 The electrolyte carries the positively charged lithium ions from the Anode to the Cathode.
 
 This reaction in Anode is called reduction and the anode is known as the reducing agent because it loses lithium atoms.
