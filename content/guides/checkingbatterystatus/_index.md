@@ -1,5 +1,5 @@
 ---
-title: How to verify battery status
+title: How to verify battery health
 linktitle: Verify battery health
 description: It is possible with simple math to verify the overall status of your battery. This guide explains how.
 weight: 1
@@ -63,5 +63,21 @@ The full capacity (100%) can then be calculated:
  83.333 is the actual capacity of your battery.
 
 83.33/86.5 = 96.34%. Meaning a reduction of almost 4% from the original capacity.
+
+## What affects capacity
+
+Just one deviation from capacity does not nescerry mean that your battery has degraded.
+
+If you have high consumption there will be some loss because of internal resistance. 
+
+If your battery was unbalanced it will also affect.
+
+For the people that love to keep track of this we recomend tracking this from the beginning of ownership. In this way you will know your car more.
+
+The following example show the stats from an e-tron 55 2020v1 with 83.6kWh capacity from it was new.
+
+![Graph](graph1.jpg "Tracking of actual battery capacity compared with total consumption")
+
+![Graph](graph2.jpg "Tracking of actual battery capacity compared with consumption kWh/100 km")
 
 {{% children description="true" depth="1" %}}
