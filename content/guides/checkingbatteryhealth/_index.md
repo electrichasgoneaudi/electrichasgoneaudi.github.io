@@ -23,10 +23,10 @@ For the following examples, we assume you have an e-tron 55 with 86.5kWh net cap
 
 ### Miles example 1
 
-You drive 169 miles with a consumption of 2.6 miles/kWh. You started the trip with 100%
+You drive 169 miles with consumption of 2.6 miles/kWh. You started the trip with 100%
 battery and ended up with 21%.
 
-First you calculate total energy used:
+First, you calculate the total energy used:
 169/2.6 = 65kWh in total.
 
 If you had 21% left, you have used 79%. (100%-21%)
@@ -37,7 +37,7 @@ The full capacity (100%) can then be calculated:
 
 (65/79)*100 = 82.27kWh.
 
-82.27 is the actual capacity on your battery.
+82.27 is the actual capacity of your battery.
 
 82.27/86.5 = 95.1%. Meaning a reduction of almost 5% from the original capacity.
 
