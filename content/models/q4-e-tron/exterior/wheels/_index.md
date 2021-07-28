@@ -96,6 +96,6 @@ The following wheels have been available from Audi to Audi Q4 e-tron. Varies for
 
  Part No: **C1P**
 
-![21 inch 5 Arm rotor design](wheel_C1P_1.png "21 inch 5 Arm rotor design")
+![21 inch 5 Arm rotor design](wheel_C1P_1.jpg "21 inch 5 Arm rotor design")
 
 ![21 inch 5 Arm rotor design](wheel_C1P_2.jpg "21 inch 5 Arm rotor design")

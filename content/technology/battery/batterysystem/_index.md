@@ -94,8 +94,7 @@ Today all Audi models uses Cell2Module technology
 
 *3 From January 2021 Audi uses Samsung cells on e-tron 55
 
-
-## What is next?
+## What is next for Audi?
 
 The problem with todays approach with Cell2Modules is that the energy density on the battery system is much lower than on the cell level.
 This is because of all the structural elements in a battery that does not add any energy content to a battery pack.
