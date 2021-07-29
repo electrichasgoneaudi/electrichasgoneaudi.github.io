@@ -5,15 +5,11 @@ description: From launch 6 variants of Q4 e-tron was available and later more wa
 weight: 1
 ---
 
-
-
-![Audi](variants1.jpg "Audi Q4 variants")
-
 ## Audi Q4 35 e-tron
 
 ![Audi Q4](audi-q4-e-tron-35.jpg "Audi Q4 35 e-tron" )
 
-Audi Q4 35 e-tron is the model with the smallest battery and two wheel drive. 52kWh available battery and WLTP range between 311-341km depending on equipment trim. 170Hp.
+Audi Q4 35 e-tron is the entry model with the smallest battery and two wheel drive. 52kWh available battery and WLTP range between 311-341km depending on equipment trim. 170Hp.
 
 [See detailed specification](/models/q4-e-tron/specifications/#audi-q4-35-e-tron)
 
