@@ -107,27 +107,27 @@ Color code **0E**
 
 ![Audi Q4 ](paint_mythosblack_3.jpg "Audi Q4 Sportback 50 e-tron quattro in Mythos Black with black optics")
 
-### Aurora Violett
+### Aurora Violet
 
 Color code **J6**
 
-![Audi Q4 ](paint_auroraviolett_3.jpg "Audi Q4 Sportback 50 e-tron quattro in Aurora Violett with contrast color")
+![Audi Q4 ](paint_auroraviolet_3.jpg "Audi Q4 Sportback 50 e-tron quattro in Aurora Violet with contrast color")
 
-![Audi Q4 ](paint_auroraviolett_4.jpg "Audi Q4 Sportback 40 e-tron in Aurora Violett with black optics")
+![Audi Q4 ](paint_auroraviolet_4.jpg "Audi Q4 Sportback 40 e-tron in Aurora Violet with black optics")
 
-![Audi Q4 ](paint_auroraviolett_5.jpg "Audi Q4 Sportback 40 e-tron in Aurora Violett with black optics by Auditography")
+![Audi Q4 ](paint_auroraviolet_5.jpg "Audi Q4 Sportback 40 e-tron in Aurora Violet with black optics by Auditography")
 
-![Audi Q4 ](paint_auroraviolett_6.jpg "Audi Q4 Sportback 40 e-tron in Aurora Violett with black optics by Auditography")
+![Audi Q4 ](paint_auroraviolet_6.jpg "Audi Q4 Sportback 40 e-tron in Aurora Violet with black optics by Auditography")
 
-![Audi Q4 ](paint_auroraviolett_7.jpg "Audi Q4 Sportback 50 e-tron in Aurora Violett S-line exterior by Auditography")
+![Audi Q4 ](paint_auroraviolet_7.jpg "Audi Q4 50 e-tron in Aurora Violet S-line exterior by Auditography")
 
-![Audi Q4 ](paint_auroraviolett_8.jpg "Audi Q4 Sportback 50 e-tron in Aurora Violett S-line exterior by Auditography")
+![Audi Q4 ](paint_auroraviolet_8.jpg "Audi Q4 50 e-tron in Aurora Violet S-line exterior by Auditography")
 
-The below video shos a Audi Q4 Sportback e-tron in Aurora Violett with black optics and S-line exterior.
+The below video shos a Audi Q4 Sportback e-tron in Aurora Violet with black optics and S-line exterior.
 
 {{< youtube B7Y5D_BPN9g>}}
 
-See video below of Audi Q4 e-tron in Aurora Violett with S-line exterior
+See video below of Audi Q4 e-tron in Aurora Violet with S-line exterior
 
 {{< youtube AYfDQcJEuJA >}}
 
