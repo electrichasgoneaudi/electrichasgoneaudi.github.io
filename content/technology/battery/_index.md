@@ -1,7 +1,7 @@
 ---
 title: EV Battery technology
-linktitle: Battery
-description: All you ever need to know about battery technology in general and specific the batteries  used in all-electric Audis.
+linktitle: EV Batteries
+description: The battery in all-electric cars is one of the most important parts in an EV. This technology article goes through the different aspects. 
 weight: 2
 ---
 
@@ -13,6 +13,5 @@ and how it affect performance on EV with a specific focus on all-electric Audis.
 ![Battery pack](batterypack.jpg "Audi e-tron 95kWh battery pack")
 
 If you want deep understanding we recomend the [EV battery cards by Dr Cecile Pera at Orovel.Net](https://www.orovel.net/orovel-cards/battery) and [BatteryUniversity](https://batteryuniversity.com/articles)
-
 
 {{% children description="true" depth="1" %}}
