@@ -27,11 +27,11 @@ Audi Q4 50 e-tron quattro is the model with the largest battery and quattro driv
 
 ## Audi Q4 35 Sportback e-tron
 
-Audi Q4 35 Sportback e-tron is the model with the smallest battery and two wheel drive. 52kWh available battery and WLTP range between 341-311km depending on equipment trim. 170Hp.
+Audi Q4 35 Sportback e-tron is the model with the smallest battery and two wheel drive. 52kWh available battery and WLTP range between 344-329km depending on equipment trim. 170Hp.
 
-## Audi 40 Q4 Sportback e-tron
+## Audi Q4 40 Sportback e-tron
 
-Audi Q4 40 Sportback e-tron is the model with the largest battery and two wheel drive. 77kWh available battery and WLTP range between 473-520km depending on equipment trim. 204Hp.
+Audi Q4 40 Sportback e-tron is the model with the largest battery and two wheel drive. 77kWh available battery and WLTP range between 504-534km depending on equipment trim. 204Hp.
 
 ## Audi Q4 50 Sportback e-tron quattro
 
