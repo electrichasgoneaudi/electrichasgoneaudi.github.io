@@ -89,13 +89,13 @@ Color code **2D**
 
 ![Audi Q4 ](paint_navarrablue_2.jpg "Audi Q4 Sportback 50 e-tron quattro in Navarra blue with contrast color")
 
-![Audi Q4 ](paint_navarrablue_5.jpg "Audi Q4 Sportback 50 e-tron quattro in Navarra blue with black optics")
+![Audi Q4 ](paint_navarrablue_5.jpg "Audi Q4 50 e-tron quattro in Navarra blue with black optics")
 
-![Audi Q4 ](paint_navarrablue_6.jpg "Audi Q4 Sportback 50 e-tron quattro in Navarra blue and full body color")
+![Audi Q4 ](paint_navarrablue_6.jpg "Audi Q4 40 e-tron quattro in Navarra blue and full body color")
 
-![Audi Q4 ](paint_navarrablue_7.jpg "Audi Q4 Sportback 50 e-tron quattro in Navarra blue and full body color")
+![Audi Q4 ](paint_navarrablue_7.jpg "Audi Q4 40 e-tron quattro in Navarra blue and full body color")
 
-![Audi Q4 ](paint_navarrablue_8.jpg "Audi Q4 Sportback 50 e-tron quattro in Navarra blue and full body color")
+![Audi Q4 ](paint_navarrablue_8.jpg "Audi Q4 40 e-tron quattro in Navarra blue and full body color")
 
 ### Mythos Black
 
