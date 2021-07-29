@@ -77,8 +77,8 @@ weight: 2
 | Specification      | Value |
 | ----------- | ----------- |
 | Peak electrical output in kW (hp) | 195 (265) |
-| Electrical torque output in Nm (lb-ft) | 460 (339) |
-| 0 -100 km/h (62.1 mph) in s | 6.2  |
+| Electrical torque output in Nm (lb-ft) | ? |
+| 0 -100 km/h (62.1 mph) in s | ?  |
 | Top speed in km/h (mph)| 180 (99) |
 | Drive type | quattro permanent all-wheel drive |
 | Rear motor | permanently excited synchronous motor APP310|
