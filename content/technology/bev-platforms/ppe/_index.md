@@ -22,6 +22,8 @@ and highly scalable architecture that allows both low- and high-floor vehicles t
 Audi is developing various model series on the basis of PPE that will cover the segments from
 the upper medium-size class to the luxury class as SUVs, Sportbacks, Avants and Crossovers with various different vehicle types. In doing so, the brand is also expanding its current model portfolio in the full-size class and luxury segments by adding numerous electric variants.
 
+![Porsche Macan](macan.jpg "Porsche Macan prototype based on PPE")
+
 The technology package on the PPE is generally similar to that of the MEB; in addition, it offers
 great potential in terms of output and performance. As standard, the vehicles are fitted with
 one electric motor in the rear; the top-of-the-range models are equipped with a second electric

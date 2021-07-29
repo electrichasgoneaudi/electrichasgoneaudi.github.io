@@ -23,6 +23,8 @@ used energy during brake applications.
 Audi e-tron is available both with a 2 motor setup and a 3 motor setup, making it the first EV with 3 motors.
 Read all details about [e-tron motors](/models/e-tron/drivetrain/motor).
 
+![Platforms](mlbevo2.jpg "Audi MLB evo platform with 3 motors")
+
 The Audi e-tron can charge using both alternating and direct
 current and is the first series-production vehicle with a charging capacity of up to 150 kW. It
 owes this to its highly efficient thermal management.
