@@ -19,7 +19,7 @@ Audi Q4 e-tron 40 is the model with the largest battery and two wheel drive. 77k
 
 ## Audi Q4 e-tron 45 quattro
 
-Audi Q4 e-tron 45 quattro is the model with the largest battery and quattro drive. 77kWh available battery and WLTP range between 449-488km depending on equipment trim. 265Hp.
+Audi Q4 e-tron 45 quattro is the cheapest model with the largest battery and quattro drive. 77kWh available battery and WLTP range between 449-488km depending on equipment trim. 265Hp.
 
 ## Audi Q4 e-tron 50 quattro
 
