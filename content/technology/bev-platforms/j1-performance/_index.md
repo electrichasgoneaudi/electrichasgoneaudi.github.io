@@ -8,26 +8,21 @@ weight: 2
 ![Audi e-tron GT](/models/e-tron-gt/exterior/paint/paint_tangored_2.jpg "Audi e-tron GT")
 
 [Audi e-tron GT](/models/e-tron-gt) had world premiere in april 2021 and comes in two version based on the J1 performance platform.
-The Audi e-tron GT is equipped with two permanently excited synchronous machines (PSM) that output a system performance of 530 metric hp (390 kW) and 640 Nm 
-(472 lb-ft) of torque.  While Audi RS e-tron GT output a system performance of 645 metric hp (475 kW) and 830 Nm 
-(612.2 lb-ft) of torque.
+The Audi e-tron GT is equipped with two permanently excited synchronous machines (PSM) that output a system performance of 530 metric hp (390 kW) and 640 Nm
+(472 lb-ft) of torque.  While Audi RS e-tron GT output a system performance of 645 metric hp (475 kW) and 830 Nm (612.2 lb-ft) of torque.
 
 ![Drivetrain](drivetrain2.jpg "J1-performance drivetrain for Audi e-tron GT")
 
-The four-door GT is propelled from zero to 100 km/h (62.1 mph) in 3.2 seconds and reaches 200 km/h (124.3 mph) in just over 12 seconds, before propulsion 
-ends at 240 km/h (149.1 mph).
+The four-door Audi RS e-tron GT is propelled from zero to 100 km/h (62.1 mph) in 3.3 seconds and reaches 200 km/h (124.3 mph) in just over 12 seconds, before propulsion 
+ends at 250 km/h (155.3 mph).
 
-If necessary, the Audi e-tron GT can be charged in a short space of time. The high-voltage system is designed for a voltage of 800 volts and allows 
-the battery to be charged to 80 percent in about 20 minutes at a DC terminal with an output of 350 kW.
+If necessary, the Audi e-tron GT can be charged in a short space of time. The high-voltage system in J1-performance platform is designed for a voltage of 800 volts and allows the battery to be charged to 80 percent in 22.5 minutes at a DC terminal with an output of 350 kW.
 
-In accordance with the WLTP standard, the Audi e-tron GT achieves a range of more than 400 kilometers (248.5 mi) on one battery charge.
+In accordance with the WLTP standard, the Audi e-tron GT achieves a range of 472 kilometers (293.5 mi) on one battery charge.
 
-The battery, which has an energy content of more than 90 kWh, is located in the underbody, 
-between the axles. The battery package is designed with recesses in the rear footwell. This 
-provides a high level of seating comfort for all occupants. This special layout allows the drive 
-battery to be integrated in the vehicle floor despite the low body position that is typical for 
-sports cars, thereby creating a very low vehicle center of gravity. At the same time, this creates 
-comfortable seating ergonomics.
+![Battery](/models/e-tron-gt/drivetrain/battery/battery2.jpg "Audi e-tron GT battery with footwell")
+
+The battery, which has an energy content of more than 90 kWh, is located in the underbody, between the axles. The battery package is designed with recesses in the rear footwell. This provides a high level of seating comfort for all occupants. This special layout allows the drive battery to be integrated in the vehicle floor despite the low body position that is typical for sports cars, thereby creating a very low vehicle center of gravity. At the same time, this creates comfortable seating ergonomics.
 
 ![Taycan](taycan.jpg "Porsche Taycan is built on J1-performance platform and share parts with Audi e-tron GT")
 
