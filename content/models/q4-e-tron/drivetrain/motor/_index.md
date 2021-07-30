@@ -17,14 +17,22 @@ The Q4 35 e-tron can cover up to 341 kilometers (211.9 mi) (WLTP cycle) on a sin
 
 ## Range of up to 520 kilometers (323.1 mi): the Q4 40 e-tron
 
-The Audi Q4 40 e-tron features the large battery, which stores a net 77 kWh of energy (82 kWh gross).
+The Audi Q4 40 e-tron features the large battery, which stores a net 76.6 kWh of energy (82 kWh gross).
 The electric motor generates 150 kW (204 PS) and 310 Nm in this configuration. It is the same motor (APP310) used.
 
 ![App 310](app310bag.jpg "The APP 310 motor is so small it fit in a bag")
 
+## Entry model with two electric motors: the Q4 45 e-tron quattro
+
+The Q4 45 e-tron quattro run on the 76.6 kWh battery (82 kWh gross). It supplies two electric motors that combine to produce a maximum output of 195 kW (265 PS) and 460 Nm (339.3 lb-ft) of torque, while making electric all-wheel drive become a reality. 
+
 ## Top model with two electric motors: the Q4 50 e-tron quattro
 
 The top models Q4 50 e-tron quattro and Q4 Sportback 50 e-tron quattro also run on the 77 kWh battery (82 kWh gross). It supplies two electric motors that combine to produce a maximum output of 220 kW (299 PS)(Maximum output determined according to UN-GTR.21.) and 460 Nm (339.3 lb-ft) of torque, while making electric all-wheel drive become a reality. The rear motor generates 150 kW (204 PS) and 310 Nm, the front motor 80 kW (109 PS) and 162 Nm. The electric motors keep reserves available for certain driving situations, which is why the sum of their individual outputs exceeds the drive’s total output.
+
+The full power is only available above 80% SOC. After that it will drop down against 265HP. This screenshot show how the boost level is about 50% at 66% SOC.
+
+![Boost](boost.jpg "about 50% boost at 66% SOC")
 
 ## Motor technology
 
@@ -33,7 +41,7 @@ While there are three motor configurations there are only two types of electric 
 ### Rear electric motor
 
 It is the same rear electric motor on all versions of Q4, but it perform different
-on Q35 vs Q40/Q50 because of different battery pack. The rear electric motor has the following specifictions.
+on Q35 vs Q40/Q45/Q50 because of different battery pack. The rear electric motor has the following specifictions.
 
 - axial parallel achitecture
 - PSM motor with hairpin winding
@@ -53,7 +61,7 @@ Below you see Sandy Munro go through the rear motor
 
 ### Front electric motor
 
-Only Q5 50 Quattro has the front motor. The front electric motor has the following specifictions.
+Only Q5 45 Quattro and 50 Quattro has the front motor. The front electric motor has the following specifictions.
 
 - coaxial architecture
 - ASM motor with distributed pull-in winding
