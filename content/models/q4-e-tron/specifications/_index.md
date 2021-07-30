@@ -209,7 +209,7 @@ weight: 2
 | Max roof weight | 75 kg |
 | Ground clearance | 180mm/165mm (Sport suspension)
 
-## Audi Q4 50 Sportback e-tron quattro
+## Audi Q4 Sportback 50 e-tron quattro
 
 | Specification      | Value |
 | ----------- | ----------- |
