@@ -1,11 +1,11 @@
 ---
 title: Audi Q4 e-tron motor
 linktitle: Motor
-description: Audi Q4 e-tron has 3 different motor configurations.
+description: Audi Q4 e-tron has 4 different motor configurations.
 weight: 6
 ---
 
-The Audi Q4 e-tron and the Q4 Sportback e-tron include a wide range of drives – from the city cruiser to the powerful quattro. They are being launched on the European markets with two different battery sizes and three motor line-ups. In the Q4 35 e-tron and Q4 40 e-tron a permanently excited synchronous machine (PSM) on the rear wheels provides the drive – these two models, along with the R8 V10 RWD high-performance sports car, are the only series-production Audi models with purely rear-wheel drive. The Q4 50 e-tron quattro as the sporty top model uses two electric motors for its electric all-wheel drive.
+The Audi Q4 e-tron and the Q4 Sportback e-tron include a wide range of drives – from the city cruiser to the powerful quattro. They are being launched on the European markets with two different battery sizes and three motor line-ups. In the Q4 35 e-tron and Q4 40 e-tron a permanently excited synchronous machine (PSM) on the rear wheels provides the drive – these two models, along with the R8 V10 RWD high-performance sports car, are the only series-production Audi models with purely rear-wheel drive. The Q4 45 e-tron and the Q4 50 e-tron quattro as the sporty top model uses two electric motors for its electric all-wheel drive.
 
 ## Entry-level model: the Q4 35 e-tron
 
