@@ -80,9 +80,9 @@ Many of the above factors are fixed. Like the e-tron Sportback has less drag tha
 
 But other factors are affected by the equipment you add to your car. If you buy wider tires, you will get a higher consumption and then a shorter range.
 
-The below diagram shows the maximum consumption based on selecting factory options for the car.
+The below diagram shows hows adding the max options of the car increase the WLTP consumption.
 
-![Consumption](wltpconsumptiontoptrim.png "WLTP Consumption top trim")
+![Consumption](optionsconsumption.jpg "WLTP Consumption added with options")
 
 From the diagram, you can see that an Audi e-tron 55 has a consumption of 19.61 kWh/100km in the basic trim, but 23.44 kWh/100km in the top trim.
 Reducing the range from 441km (274 miles)  to 369km (229 miles).
