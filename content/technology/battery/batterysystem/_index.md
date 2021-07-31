@@ -45,12 +45,12 @@ a 4 serial 2 paralell configuration (3s4p). With 60AH for each cell and a nomina
 
 ### Audi modules
 
-| Module | No of cells | Config | Capacity | Nominal voltage |
+| Module | No of cells | Config | Capacity AH | Nominal voltage | kWh |
 |-----|-----|-----|------|------|
-|e-tron 55 | 12 | 3s4p | 240AH | 11 volts |
-|e-tron 50 | 12 | 4s3p | 180AH | 14.666 volts |
-|e-tron GT | 12 | 6s2p | 129.2AH | 22.13 volts |
-|Q4 e-tron | 24 | 8s3p | 234AH | 29.16 volts |
+|e-tron 55 | 12 | 3s4p | 240AH | 11 volts | 2.640 kWh |
+|e-tron 50 | 12 | 4s3p | 180AH | 14.666 volts | 2.640 kWh |
+|e-tron GT | 12 | 6s2p | 129.2AH | 21.909 volts | 2.830kWh |
+|Q4 e-tron | 24 | 8s3p | 234AH | 29.16 volts | 6.825kWh |
 
 ## Packs
 
