@@ -8,7 +8,7 @@ weight: 1
 
 ![bilde](models.jpg "Audi all-electric models")
 
-Currently, Audi has 3 different models with a total of 14 variants in sale with many more to come.
+Currently, Audi has 3 different models with a total of 15 variants in sale with many more to come.
 
 See below for our unique in-depth information on the different models and variants.
 
