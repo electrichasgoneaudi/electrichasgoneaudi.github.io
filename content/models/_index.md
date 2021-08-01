@@ -50,6 +50,8 @@ The Audi Q4 e-tron and the Q4 Sportback e-tron are the first compact electric SU
 
 Audi A6 e-tron was revealed in April 2021 as a concept car. It is expected to have a world premiere in 2023 and will be the fifth all-electric model from Audi. With range up to 700km it will the model with the longest range.
 
+[See all known details about Audi Q6 e-tron](/models/a6-e-tron/)
+
 ## Audi a4 e-tron
 
 Audi A4 e-tron will have a world premiere in 2024
