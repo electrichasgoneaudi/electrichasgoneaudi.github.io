@@ -49,15 +49,28 @@ Each seat type have different seat materials in different colors to choose from.
 
 ## S-Line Sport Seats
 
+### S-line seats with leather/fabric option PWK
+
 ![S-line Sport seats](seats_sline_1.jpg "S-line Sport seats with mono.pur 550 leather and facbric in black (AI)")
 
-![S-line Sport seats](seats_sline_5.jpg "S-line Sport seats with mono.pur 550 leather and facbric in grey (FS)")
 
-![S-line Sport seats](seats_sline_6.jpg "S-line Sport seats with mono.pur 550 leather and facbric in grey (FS)")
+### S-line seats with Leather option PWL
 
-![S-line Sport seats](seats_sline_2.jpg "S-line Sport seats with mono.pur 550 leather in black (A0)")
+![S-line Sport seats](seats_sline_5.jpg "S-line Sport seats with mono.pur 550 leather and facbric in grey (FS) on edition one")
+
+![S-line Sport seats](seats_sline_6.jpg "S-line Sport seats with mono.pur 550 leather and facbric in grey (FS) on edition one")
+
+![S-line Sport seats](seats_sline_2.jpg "S-line Sport seats with mono.pur 550 leather in black (EJ)")
+
+### S-line seats with Leather and Dinamica option PWM
+
+![S-line Sport seats](seats_pwm_1.jpg "S-line Sport seats with mono.pur 550 leather and Dinamica facbric in black (AI)")
+
+![S-line Sport seats](seats_pwm_2.jpg "S-line Sport seats with mono.pur 550 leather and Dinamica facbric in black (AI)")
 
 ![S-line Sport seats](seats_sline_3.jpg "S-line Sport seats with mono.pur 550 leather and Dinamica facbric in black (AI)")
+
+### S-line Sport seats with Feinappa leather option PWN
 
 ![S-line Sport seats](seats_sline_4.jpg "S-line Sport seats with Feinappa leather in black (A0)")
 

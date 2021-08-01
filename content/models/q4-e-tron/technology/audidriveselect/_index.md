@@ -1,13 +1,14 @@
 ---
-title: Audi e-tron drive select 
+title: Audi q¤ e-tron drive select 
 linktitle: Drive Select
-description: Audi e-tron is equipped with drive select as standard.
+description: Audi Q4 e-tron has an option for Audi Drive select.
 weight: 2
 ---
 
+Audi drive select is part of option id **PY8** driving package and option id **PY9** driving package plus. The last one includes damper adjustment.
+
 The Audi drive select dynamic handling system allows drivers to experience different setups in their Audi e-tron.
-Choosing one of the modes auto, comfort, all-road, offroad, dynamic or efficiency changes the characteristic of important drive and suspension components from a comfort bias to distinctly 
-dynamic or particularly energy-efficient.
+Choosing one of the modes auto, comfort,dynamic or efficiency changes the characteristic of important drive and suspension components from a comfort bias to distinctly dynamic or particularly energy-efficient.
 
 In individual mode, drivers can configure the setup according to their personal preferences.
 
@@ -15,7 +16,6 @@ Depending on option and setup drive select settings affect the following.
 
 - Motor responsivnes
 - quattro drive
-- adaptive air suspension with electronic damper control
 - dynamic steering
 - HD Matrix LED headlights
 - ambient lighting
@@ -23,17 +23,11 @@ Depending on option and setup drive select settings affect the following.
 - Adaptive Cruise Assist
 - Audi Pre Sense
 
-
 ![Drive Select](driveselectbuttons.jpg "Drive Select are available as seperate buttons and from MMI")
 
 ### Modes
 
 ![Drive Select Menu](driveselectmenu.jpg "Drive Select menu in MMI")
-
-**Offroad** - Provides assistance when driving offroad. The vehicle will be raised to the secondhighest level using the air suspension®. The ESC
-will be restricted and the hill descent assist* will be activated. The vehicle will exit this mode after the ignition is switched off.
-
-**allroad** - Provides balanced vehicle handling. The vehicle will be raised to the second-highest level using the air suspension*.
 
 **efficiency** - The vehicle switches to a fuel-efficient vehicle setup and supports the driver with fuel economy messages. The “E” driving program is selected.  
 
@@ -59,10 +53,7 @@ The power steering will adapt. Light steering is suitable for long trips on high
 
 #### Suspension
 
-The suspension adjusts to be tighter or more comfort-oriented when it comes to compensating for uneven spots on the road.
-The vehicle ground clearance is adjusted by the air suspension* based on the setting.
-
-
-
+The suspension adjusts to be tighter or more comfort-oriented when it comes to compensating for uneven spots on the road. 
+This requires **PY9** that includes damper control.
 
 {{% children description="true" depth="1" %}}

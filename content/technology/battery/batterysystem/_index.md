@@ -54,7 +54,12 @@ a 4 serial 2 paralell configuration (3s4p). With 60AH for each cell and a nomina
 
 ## Packs
 
+Battery packs consist of several modules placed in a construction that is created to protect them and
+give them optimal conditions. Below you see an battery pack from Audi e-tron GT.
+
 ![Batterypack](batterypack_e-tron-gt.jpg "Batterypack with 33 modules")
+
+Typical the pack is placed at bottom of car. 
 
 ### Audi Battery packs
 
@@ -76,6 +81,8 @@ Today all Audi models uses Cell2Module technology
 | A6 e-tron *2 | LGX E78?|  392? | 16? | 700? | 192s2p? | 110 kWh? |
 
 #### Battery pack performance
+
+In the table below you see the pack performance. See how Q4 have higher density even the cell itself does not have a better density.
 
 |  | Gross capacity | Net capacity | Max DC Charging | Weight | kWh/kg |
 |-----|------|-----|-----|------|-----|
