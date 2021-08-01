@@ -77,6 +77,10 @@ Only Q5 45 Quattro and 50 Quattro has the front motor. The front electric motor 
 
 The principal advantages of the ASM are its short-term overload capacity and the minimal drag losses while idling. For efficiency reasons the front e-axle comes into action only when high power or a strong grip is needed.
 
+## Thermal management
 
+The motors are liquid cooled. Each motor has liquid stator cooling to give maximum thermal robustness under all operating conditions
+
+![Cooling](cooling.jpg "Audi Q4 45/50 e-tron liquid cooling of front and rear motors")
 
 {{% children description="true" depth="1" %}}

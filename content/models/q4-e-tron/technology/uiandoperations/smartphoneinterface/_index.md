@@ -7,6 +7,8 @@ weight: 4
 
 With Audi smartphone interface with option id **IU1** you get the possibility to use Apple Carplay or Android Auto in your MMI system.
 
+![Apple car play](applecarplay.jpg "Apple car play")
+
 This gives you access to many usefull apps like Spotify and Waze directly in MMI.
 
 The below image show how Waze warns users about a speed camera in a Audi e-tron. 
