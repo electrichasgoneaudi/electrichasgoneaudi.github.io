@@ -7,6 +7,8 @@ weight: 1
 
 The Audi MMI® (Multi Media Interface) system was created to streamline the controls for audio, vehicle settings, and available navigation under a common interface, thereby reducing the number of buttons for a cleaner interior appearance.
 
+![MMI](mmi2.jpg "Audi MMI")
+
 ## 10.1 or 11.6 inches: the central MMI touch display
 
 The MMI touch display with acoustic feedback has a 10.1-inch diagonal and a resolution of 1,540 x 720 pixels.
