@@ -75,12 +75,14 @@ Only Q5 45 Quattro and 50 Quattro has the front motor. The front electric motor 
 
 ![Front motor](frontmotor_1.jpg "Front electric motor")
 
-The principal advantages of the ASM are its short-term overload capacity and the minimal drag losses while idling. For efficiency reasons the front e-axle comes into action only when high power or a strong grip is needed.
+![Front motor](frontmotor_2.jpg "Front electric motor")
 
+The principal advantages of the ASM are its short-term overload capacity and the minimal drag losses while idling. For efficiency reasons the front e-axle comes into action only when high power or a strong grip is needed.
 
 ## Gearbox
 
 The powerful APP310 e-drive unit transmits power to the driven wheels using an extremely compact gearbox. The Q4 single gear is able to cope with all driving situations. The mechanism used has only a small number of cogs. This 1-speed gearbox is part of the electric drive system for the modular electric drive matrix (MEB) and is manufactured by Volkswagen Group Components at the Kassel plant.
+
 ![Gearbox](gearbox.jpg "APP310 gearbox")
 
 ## Thermal management
@@ -88,6 +90,5 @@ The powerful APP310 e-drive unit transmits power to the driven wheels using an e
 The motors are liquid cooled. Each motor has liquid stator cooling to give maximum thermal robustness under all operating conditions
 
 ![Cooling](cooling.jpg "Audi Q4 45/50 e-tron liquid cooling of front and rear motors")
-
 
 {{% children description="true" depth="1" %}}

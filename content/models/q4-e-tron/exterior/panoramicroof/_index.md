@@ -15,6 +15,8 @@ You can order panoramic roof with option id **3FU**
 
 ![Panoramic roof](openroof_2.jpg "The roof can be fully opened giving the cabriolet feeling light")
 
+![Panoric roof](inside.jpg "Roof cover both rear and front seats")
+
 ![Panoramic roof](control.jpg "The roof controls")
 
 {{% children description="true" depth="1" %}}
