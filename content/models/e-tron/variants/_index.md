@@ -55,7 +55,12 @@ WLTP-range between 371-441km depending on equipment trim. The two engines output
 
 ### Audi e-tron 55 Sportback
 
-![Audi e-tron 55](audi-e-tron-55-sportback.jpg "Audi e-tron 55 Sportback S-Line in Plasma blue")
+<figure>
+    <a href="audi-e-tron-55-sportback.jpg">
+        <img src="audi-e-tron-55-sportbacks.jpg" alt="Audi e-tron 55 Sportback S-Line in Plasma blue" title="Audi e-tron 55 Sportback S-Line in Plasma blue">
+    </a>
+    <figcaption><h4>Audi e-tron 55 Sportback S-Line in Plasma blue</h4></figcaption>
+</figure>
 
 Audi e-tron 55 Sportback is the Sportback version of e-tron 55. With 95kWh gross battery (86.5kWh net) and 300KW (408HP) engine output.
 WLTP-range between 373-452km depending on equipment trim. The two engines output 300kW (408 hp).
@@ -64,7 +69,12 @@ WLTP-range between 373-452km depending on equipment trim. The two engines output
 
 ### Audi e-tron 60S
 
-![Audi e-tron 60S](audi-e-tron-s.jpg "Audi e-tron 60S")
+<figure>
+    <a href="audi-e-tron-s.jpg">
+        <img src="audi-e-tron-ss.jpg" alt="Audi e-tron 60S" title="Audi e-tron 60S">
+    </a>
+    <figcaption><h4>Audi e-tron 60S</h4></figcaption>
+</figure>
 
 With its wider body and wheels, Audi e-tron 60S looks apart from the e-tron 50/55.
 
@@ -84,7 +94,12 @@ WLTP-range between 343-374km depending on equipment trim.
 
 ### Audi e-tron 60S Sportback
 
-![Audi e-tron 60S Sportback](audi-e-tron-s-sportback.jpg "Audi e-tron 60S Sportback")
+<figure>
+    <a href="audi-e-tron-s-sportback.jpg">
+        <img src="audi-e-tron-s-sportbacks.jpg" alt="Audi e-tron 60S Sportback" title="Audi e-tron 60S Sportback">
+    </a>
+    <figcaption><h4>Audi e-tron 60S Sportback</h4></figcaption>
+</figure>
 
 This is the Sportback version of 60. WLTP-range between 343-374km depending on equipment trim.
 
