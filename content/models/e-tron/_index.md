@@ -11,7 +11,12 @@ The car has been a big success for Audi and in Norway, it even became the most s
 
 In April 2021 e-tron no 100.000 was produced.
 
-![Audi e-tron and Audi e-tron Sportback](variants/variants1.jpg "Audi e-tron 60S and Audi e-tron Sportback 60S")
+<figure>
+    <a href="variants/variants1.jpg">
+        <img src="variants/variants1s.jpg" alt="Audi e-tron 60S and Audi e-tron Sportback 60S" title="Audi e-tron 60S and Audi e-tron Sportback 60S">
+    </a>
+    <figcaption><h4>Audi e-tron 60S and Audi e-tron Sportback 60S</h4></figcaption>
+</figure>
 
 The variants available are
 
