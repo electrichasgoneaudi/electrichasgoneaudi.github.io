@@ -183,27 +183,6 @@ The below footage shows dynamic driving scenes of the Audi Q4 Sportback e-tron i
 Color code **2D**
 
 <figure>
-    <a href="paint_navarrablue_1.jpg">
-        <img src="paint_navarrablue_1s.jpg " alt="Audi Q4 Sportback 50 e-tron quattro in Navarra blue with contrast color" title="Audi Q4 Sportback 50 e-tron quattro in Navarra blue with contrast color">
-    </a>
-    <figcaption><h4>Audi Q4 Sportback 50 e-tron quattro in Navarra blue with contrast color</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="paint_navarrablue_2.jpg">
-        <img src="paint_navarrablue_2s.jpg " alt="Audi Q4 Sportback 50 e-tron quattro in Navarra blue with contrast color" title="Audi Q4 Sportback 50 e-tron quattro in Navarra blue with contrast color">
-    </a>
-    <figcaption><h4>Audi Q4 Sportback 50 e-tron quattro in Navarra blue with contrast color</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="paint_navarrablue_5.jpg">
-        <img src="paint_navarrablue_5s.jpg " alt="Audi Q4 50 e-tron quattro in Navarra blue with black optics" title="Audi Q4 50 e-tron quattro in Navarra blue with black optics">
-    </a>
-    <figcaption><h4>Audi Q4 50 e-tron quattro in Navarra blue with black optics</h4></figcaption>
-</figure>
-
-<figure>
     <a href="paint_navarrablue_6.jpg">
         <img src="paint_navarrablue_6s.jpg " alt="Audi Q4 40 e-tron quattro in Navarra blue and full body color" title="Audi Q4 40 e-tron quattro in Navarra blue and full body color">
     </a>
@@ -242,14 +221,6 @@ Color code **0E**
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro with s-line exterior in Mythos Black</h4></figcaption>
 </figure>
-
-<figure>
-    <a href="paint_mythosblack_3.jpg">
-        <img src="paint_mythosblack_3s.jpg" alt="Audi Q4 Sportback 50 e-tron quattro in Mythos Black with black optics" title="Audi Q4 Sportback 50 e-tron quattro in Mythos Black with black optics">
-    </a>
-    <figcaption><h4>Audi Q4 Sportback 50 e-tron quattro in Mythos Black with black optics</h4></figcaption>
-</figure>
-
 
 ### Aurora Violett
 
@@ -308,34 +279,6 @@ See video below of Audi Q4 e-tron in Aurora Violett with S-line exterior
 ### Glacier White
 
 Color code **2Y**
-
-<figure>
-    <a href="paint_glacierwhite_1.jpg">
-        <img src="paint_glacierwhite_1s.jpg" alt="Audi Q4 Sportback 50 e-tron quattro in Glacier white with contrast color" title="Audi Q4 Sportback 50 e-tron quattro in Glacier white with contrast color">
-    </a>
-    <figcaption><h4>Audi Q4 Sportback 50 e-tron quattro in Glacier white with contrast color</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="paint_glacierwhite_2.jpg">
-        <img src="paint_glacierwhite_2s.jpg" alt="Audi Q4 Sportback 50 e-tron quattro in Glacier white with contrast color" title="Audi Q4 Sportback 50 e-tron quattro in Glacier white with contrast color">
-    </a>
-    <figcaption><h4>Audi Q4 Sportback 50 e-tron quattro in Glacier white with contrast color</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="paint_glacierwhite_3.jpg">
-        <img src="paint_glacierwhite_3s.jpg" alt="Audi Q4 Sportback 50 e-tron quattro in Glacier white with black optics" title="Audi Q4 Sportback 50 e-tron quattro in Glacier white with black optics">
-    </a>
-    <figcaption><h4>Audi Q4 Sportback 50 e-tron quattro in Glacier white with black optics</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="paint_glacierwhite_4.jpg">
-        <img src="paint_glacierwhite_4s.jpg" alt="Audi Q4 Sportback 50 e-tron quattro in Glacier white" title="Audi Q4 Sportback 50 e-tron quattro in Glacier white">
-    </a>
-    <figcaption><h4>Audi Q4 Sportback 50 e-tron quattro in Glacier white</h4></figcaption>
-</figure>
 
 <figure>
     <a href="paint_glacierwhite_5.jpg">
