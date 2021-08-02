@@ -4,6 +4,7 @@ linktitle: Audi Q4 e-tron
 description: The Audi Q4 e-tron and the Q4 Sportback e-tron are the first compact electric SUVs and the third all-electric model from Audi. Available in 7 variants.
 weight: 3
 ---
+<!-- markdownlint-disable MD033 -->
 
 Both SUV and Sportback versions impress with a new spacious dimension in the interior and pioneering solutions when it comes to operation, display, and assist systems. The augmented
 reality head-up display connects the virtual and the real worlds in a totally new way.
@@ -12,7 +13,12 @@ It is based on the MEB platform as Skoda Enyaq and Volkswagen ID4 and ID3.
 
 The world premiere was April 14. 2021.
 
-![Audi e-tron and Audi e-tron Sportback](variants/variants1.jpg "Different variants of Audi Q4 e-tron and Audi Q4 e-tron Sportback")
+<figure>
+    <a href="variants/variants1.jpg">
+        <img src="variants/variants1s.jpg" alt="Different variants of Audi Q4 e-tron and Audi Q4 e-tron Sportback" title="Different variants of Audi Q4 e-tron and Audi Q4 e-tron Sportback">
+    </a>
+    <figcaption><h4>Different variants of Audi Q4 e-tron and Audi Q4 e-tron Sportback</h4></figcaption>
+</figure>
 
 The variants available are
 
