@@ -14,7 +14,10 @@ This include cooling when in use to not overheat.
 
 ![Battery cooling](batterycooling_1.jpg "Battery cooling")
 
-On some cars it can also heat up the battery before charging to improve charging performance. Audi e-tron GT and Audi Q4 has this option.
+On some cars it can also heat up the battery before charging to improve charging performance. 
+This is called Active Precondition. On cold days this is necessary to get the full charging speed. Without it charging will take longer time to get to full capacity.
+
+Audi e-tron GT and Audi Q4 has this capability.
 
 In the picture below you see both cooling circuits and axuilerary heater that can heat up the battery when cold.
 

@@ -14,7 +14,7 @@ See below for our unique in-depth information on the different models and varian
 
 ## Audi e-tron
 
-![Audi e-tron](/models/e-tron/variants/variants1.jpg)
+[![Audi e-tron](/models/e-tron/variants/variants1.jpg)](/models/e-tron/)
 
 The [Audi e-tron](/models/e-tron/) is the first full-electric model from Audi and is available in 6 variants. The sporty SUV combines the space and comfort of a typical luxury class automobile with a range suitable for everyday use, catapulting the driver into a new era with the electrical all-wheel drive.
 
@@ -22,7 +22,7 @@ The [Audi e-tron](/models/e-tron/) is the first full-electric model from Audi an
 
 ## Audi e-tron GT
 
-![Audi e-tron](/models/e-tron-gt/variants/variants.jpg)
+[![Audi e-tron](/models/e-tron-gt/variants/variants.jpg)](/models/e-tron-gt/)
 
 Audi e-tron GT is the second full-electric model from Audi. With the Audi RS e-tron GT version, Audi has made their most powerful RS-model ever. And the design makes it one of the most beautiful car in our time.
 
@@ -30,7 +30,7 @@ Audi e-tron GT is the second full-electric model from Audi. With the Audi RS e-t
 
 ## Audi q4 e-tron
 
-![Audi e-tron](/models/q4-e-tron/variants/variants1.jpg)
+[![Audi e-tron](/models/q4-e-tron/variants/variants1.jpg)](/models/q4-e-tron/)
 
 The Audi Q4 e-tron and the Q4 Sportback e-tron are the first compact electric SUVs and the third all-electric model from Audi. Available in 7 variants.
 
@@ -38,7 +38,7 @@ The Audi Q4 e-tron and the Q4 Sportback e-tron are the first compact electric SU
 
 ## Audi Q6 e-tron
 
-![Audi Q6 e-tron](/models/q6-e-tron/prototype1.jpg)
+[![Audi Q6 e-tron](/models/q6-e-tron/prototype1.jpg)](/models/q6-e-tron/) 
 
 [Audi Q6 e-tron](/models/q6-e-tron/) will have a world premiere in 2022 and will be the fourth all-electric model from Audi. It is built on the new PPE platform created together with Porsche. Expected to come in different variants and be the most sporty all-electric SUV from Audi.
 
@@ -46,7 +46,7 @@ The Audi Q4 e-tron and the Q4 Sportback e-tron are the first compact electric SU
 
 ## Audi A6 e-tron
 
-![Audi A6 e-tron](/models/a6-e-tron/a6-etron-1.jpg)
+[![Audi A6 e-tron](/models/a6-e-tron/a6-etron-1.jpg)](/models/a6-e-tron/)
 
 Audi A6 e-tron was revealed in April 2021 as a concept car. It is expected to have a world premiere in 2023 and will be the fifth all-electric model from Audi. With range up to 700km it will the model with the longest range.
 
