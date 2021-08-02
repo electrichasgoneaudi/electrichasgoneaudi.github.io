@@ -5,7 +5,18 @@ description: Audi Q4 e-tron comes in different paint trims and paint colors
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
-Click pictures for large versions.
+Here you find high resolution picture of real cars in the different standard colors. Click pictures for large versions.
+
+Click on links for quick access to a color.
+
+- [Pebble Stone](/models/q4-e-tron/exterior/paint/#pebble-stone-gray)
+- [Geyser Blue](/models/q4-e-tron/exterior/paint/#geyser-blue)
+- [Typhoon Grey](/models/q4-e-tron/exterior/paint/#typhoon-grey)
+- [Florett Silver](/models/q4-e-tron/exterior/paint/#florett-silver)
+- [Navarra Blue](/models/q4-e-tron/exterior/paint/#navarra-blue)
+- [Mythos Black](/models/q4-e-tron/exterior/paint/#mythos-black)
+- [Aurora Violett](/models/q4-e-tron/exterior/paint/#aurora-violett)
+- [Glacier White](/models/q4-e-tron/exterior/paint/#glacier-white)
 
 ## Paint Trims
 
@@ -297,10 +308,6 @@ See video below of Audi Q4 e-tron in Aurora Violett with S-line exterior
 ### Glacier White
 
 Color code **2Y**
-
-![Audi Q4 ]( "Audi Q4 40 e-tron in Glacier white with contrast color")
-
-![Audi Q4 ](paint_glacierwhite_5.jpg "")
 
 <figure>
     <a href="paint_glacierwhite_1.jpg">
