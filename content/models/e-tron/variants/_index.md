@@ -4,10 +4,15 @@ linktitle: Variants
 description: Audi e-tron is currently available in 6 different variants. Here you find which are available.
 weight: 1
 ---
-
+<!-- markdownlint-disable MD033 -->
 ### Audi e-tron 50
 
-![Audi e-tron 50](audi-e-tron-50.jpg "Audi e-tron 50 in Siam beige and black optics")
+<figure>
+    <a href="audi-e-tron-50.jpg">
+        <img src="audi-e-tron-50s.jpg" alt="Audi e-tron 50 in Siam beige and black optics" title="Audi e-tron 50 in Siam beige and black optics">
+    </a>
+    <figcaption><h4>Audi e-tron 50 in Siam beige and black optics</h4></figcaption>
+</figure>
 
 Audi e-tron 50 is the least expensive version. It has an SUV form factor and the smallest battery.
 71kWh gross battery with 64.7 kWh available. WLTP-range between 282-341km depending on equipment trim. The two engines output 230kW (312 hp).
@@ -18,7 +23,13 @@ It is not possible to differentiate the e-tron 50 from the e-tron 55 by looks.
 
 ### Audi e-tron 50 Sportback
 
-![Audi e-tron 50](audi-e-tron-50-sportback.jpg "Audi e-tron 50 in Siam beige and black optics")
+<figure>
+    <a href="audi-e-tron-50-sportback.jpg">
+        <img src="audi-e-tron-50-sportbacks.jpg" alt="Audi e-tron Sportback 50 in Florett Silver" title="Audi e-tron Sportback 50 in Florett Silver">
+    </a>
+    <figcaption><h4>Audi e-tron Sportback 50 in Florett Silver</h4></figcaption>
+</figure>
+
 
 Audi e-tron 50 Sportback is the least expensive Sportback version. It has a Sportback form factor and the smallest battery.
 71kWh gross battery with 64.7 kWh available. WLTP-range between 282-347km depending on equipment trim. The two engines output 230kW (312 hp).
@@ -29,7 +40,13 @@ It is not possible to differentiate the e-tron 50 Sportback from the e-tron 55 S
 
 ### Audi e-tron 55
 
-![Audi e-tron 55](audi-e-tron-55.jpg "Audi e-tron 55 S-Line in Chronos grey")
+<figure>
+    <a href="audi-e-tron-55.jpg">
+        <img src="audi-e-tron-55s.jpg" alt="Audi e-tron 55 S-Line in Chronos grey" title="Audi e-tron 55 S-Line in Chronos grey">
+    </a>
+    <figcaption><h4>Audi e-tron 55 S-Line in Chronos grey</h4></figcaption>
+</figure>
+
 
 Audi e-tron 55 was the first version available. With 95kWh gross battery (86.5kWh net) and 300KW (408HP) engine output.
 WLTP-range between 371-441km depending on equipment trim. The two engines output 300kW (408 hp).
