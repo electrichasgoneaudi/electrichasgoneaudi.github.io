@@ -39,7 +39,19 @@ The following wheels have been available from Audi to Audi Q4 e-tron. Varies for
 
  Part No: **55K**
 
-![20 inch 5Y design](wheel_55K_1.png "20 inch 5Y design graphite grey")
+<figure>
+    <a href="wheel_55K_1.jpg">
+        <img src="wheel_55K_1s.jpg" alt="20 inch 5Y design graphite grey" title="20 inch 5Y design graphite grey">
+    </a>
+    <figcaption><h4>20 inch 5Y design graphite grey</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="wheel_55K_2.jpg">
+        <img src="wheel_55K_2s.jpg" alt="20 inch 5Y design graphite grey" title="20 inch 5Y design graphite grey">
+    </a>
+    <figcaption><h4>20 inch 5Y design graphite grey</h4></figcaption>
+</figure>
 
 
 ## 20" 10 spoke design
