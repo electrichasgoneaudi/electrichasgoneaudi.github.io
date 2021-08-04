@@ -4,7 +4,7 @@ linktitle: Wheels
 description: Audi e-tron has serveral wheel options.
 weight: 4
 ---
-
+<!-- markdownlint-disable MD033 -->
 
 The following wheels have been available from Audi to Audi Q4 e-tron. Varies for the different markets
 
@@ -66,9 +66,26 @@ The following wheels have been available from Audi to Audi Q4 e-tron. Varies for
 
  Part No: **55L**
 
-![21 inch 5-arm rotor design](wheel_55L_1.png "21 inch 5-arm rotor design")
+<figure>
+    <a href="wheel_55L_1.jpg">
+        <img src="wheel_55L_1s.jpg" alt="21 inch 5-arm rotor design" title="21 inch 5-arm rotor design">
+    </a>
+    <figcaption><h4>21 inch 5-arm rotor design</h4></figcaption>
+</figure>
 
-![21 inch 5-arm rotor design](wheel_55L_2.jpg "21 inch 5-arm rotor design")
+<figure>
+    <a href="wheel_55L_2.jpg">
+        <img src="wheel_55L_2s.jpg" alt="21 inch 5-arm rotor design" title="21 inch 5-arm rotor design">
+    </a>
+    <figcaption><h4>21 inch 5-arm rotor design</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="wheel_55L_3.jpg">
+        <img src="wheel_55L_3s.jpg" alt="21 inch 5-arm rotor design" title="21 inch 5-arm rotor design">
+    </a>
+    <figcaption><h4>21 inch 5-arm rotor design</h4></figcaption>
+</figure>
 
 ## 21" 5-W design
 
@@ -76,9 +93,19 @@ The following wheels have been available from Audi to Audi Q4 e-tron. Varies for
 
  Part No: **C5W**
 
-![20 inch 5Y design](wheel_C5W_2.jpg "21 inch 5-W design")
+<figure>
+    <a href="wheel_C5W_2.jpg">
+        <img src="wheel_C5W_2s.jpg" alt="21 inch 5-W design" title="21 inch 5-W design">
+    </a>
+    <figcaption><h4>21 inch 5-W design</h4></figcaption>
+</figure>
 
-![20 inch 5Y design](wheel_C5W_3.jpg "21 inch 5-W design")
+<figure>
+    <a href="wheel_C5W_3.jpg">
+        <img src="wheel_C5W_3s.jpg" alt="21 inch 5-W design" title="21 inch 5-W design">
+    </a>
+    <figcaption><h4>21 inch 5-W design</h4></figcaption>
+</figure>
 
 ## 21" 5-W design bronze
 
@@ -86,9 +113,19 @@ The following wheels have been available from Audi to Audi Q4 e-tron. Varies for
 
  Part No: **C7A**
 
-![21 inch 5-W design bronze for editin one](wheel_C7A_1.png "21 inch 5-W design bronze for editin one")
+<figure>
+    <a href="wheel_C7A_1.jpg">
+        <img src="wheel_C7A_1s.jpg" alt="21 inch 5-W design bronze for edition one" title="21 inch 5-W design bronze for edition one">
+    </a>
+    <figcaption><h4>21 inch 5-W design bronze for edition one</h4></figcaption>
+</figure>
 
-![21 inch 5-W design bronze for editin one](wheel_C7A_2.jpg "21 inch 5-W design bronze for editin one")
+<figure>
+    <a href="wheel_C7A_2.jpg">
+        <img src="wheel_C7A_2s.jpg" alt="21 inch 5-W design bronze for edition one" title="21 inch 5-W design bronze for edition one">
+    </a>
+    <figcaption><h4>21 inch 5-W design bronze for edition one</h4></figcaption>
+</figure>
 
 ## 21" 5 Arm rotor design
 
@@ -96,6 +133,16 @@ The following wheels have been available from Audi to Audi Q4 e-tron. Varies for
 
  Part No: **C1P**
 
-![21 inch 5 Arm rotor design](wheel_C1P_1.jpg "21 inch 5 Arm rotor design")
+<figure>
+    <a href="wheel_C1P_1.jpg">
+        <img src="wheel_C1P_1s.jpg" alt="21 inch 5 Arm rotor design" title="21 inch 5 Arm rotor design">
+    </a>
+    <figcaption><h4>21 inch 5 Arm rotor design</h4></figcaption>
+</figure>
 
-![21 inch 5 Arm rotor design](wheel_C1P_2.jpg "21 inch 5 Arm rotor design")
+<figure>
+    <a href="wheel_C1P_2.jpg">
+        <img src="wheel_C1P_2s.jpg" alt="21 inch 5 Arm rotor design" title="21 inch 5 Arm rotor design">
+    </a>
+    <figcaption><h4>21 inch 5 Arm rotor design</h4></figcaption>
+</figure>
