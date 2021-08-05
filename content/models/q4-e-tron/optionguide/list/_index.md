@@ -32,7 +32,13 @@ WORK IN PROGRESS
 |  [Cruise control with speed limiter](/models/q4-e-tron/technology/drivingassistance/cruisecontrol/)   |  configurable speed limiter | PYJ |
 |  Security package plus |  The package include [Side Assist](/models/q4-e-tron/technology/drivingassistance/sideassist/), [exit warning](/models/q4-e-tron/technology/drivingassistance/exitwarning/), [cross traffic assist rear](/models/q4-e-tron/technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](/models/q4-e-tron/technology/drivingassistance/presenserear/). | PYU |
 |  Assistant package |  The package include  [Cruise control with speed limiter](/models/q4-e-tron/technology/drivingassistance/cruisecontrol/) and  [Parking system plus](/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/) | PYK |
-| Assistant package plus | The package include  [Adaptive Cruise control with speed limiter]/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/), [Parking system plus](/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/) and [Reversing camera])(/models/q4-e-tron/technology/drivingassistance/reversingcamera/) | PYL |
-
+| Assistant package plus | The package include  [Adaptive Cruise control with speed limiter](/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/), [Parking system plus](/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/) and [Reversing camera])(/models/q4-e-tron/technology/drivingassistance/reversingcamera/) | PYL |
+| Assistant package pro | The package include [Adaptivce Cruise Assist](/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/),  [Adaptive Cruise control with speed limiter](/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/), [Parking system plus](/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/) and [Reversing camera](/models/q4-e-tron/technology/drivingassistance/reversingcamera/) | PY7 |
+| [Active lane assist](/models/q4-e-tron/technology/drivingassistance/activelaneassist/) | Standard | 6I3 | 
+| [Collision avoidance assist](/models/q4-e-tron/technology/drivingassistance/collisionavoidanceassist/) | Standard | 4G3 |
+| [Audi Pre Sense Front](/models/q4-e-tron/technology/drivingassistance/presensefront/) | Standard | 8J3 |
+| Parkingystem rear | Standard | 7X1 |
+| [Parking system plus](/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/)| Front sensors | 7X2 |
+| [Reversing camera](/models/q4-e-tron/technology/drivingassistance/reversingcamera/)  |  Rear camera | KA2 |
 
 {{% children description="true" depth="1" %}}
