@@ -88,6 +88,7 @@ For many buyers this is a real dilemma.  We will try help you choose.
 | Traffic sign recognition | option | option |
 | HD Matrix | option | option |
 | Digital HD Matrix | N/A | option |
+| Headlight washer | option | standard |
 | Electric adjustable mirrors | standard | standard |
 | Mirrors with memory | option | option |
 | Heated mirrors | option | option |
@@ -129,6 +130,6 @@ Q4 e-tron has heated front windows as an option, but this is not available on Au
 
 Both have Head-Up Display, but only Q4 has AR version.
 
-e-tron has luxury options like ventilated individual contour seats with massage, powered adjustment of steering wheels, servo closing doors and Air quality package. Non of this is available on
+e-tron has luxury options like ventilated individual contour seats with massage, powered adjustment of steering wheels, servo closing doors and Air quality package. Non of this is available on Audi Q4 e-tron.
 
 {{% children description="true" depth="1" %}}
