@@ -52,6 +52,10 @@ Color Code **9W**
 
 Color Code: **L5**
 
+![Audi e-tron GT in Ibis White](paint_florett_1.jpg "Audi e-tron GT with Florett Silver with custom full body paint")
+
+![Audi e-tron GT in Ibis White](paint_florett_2.jpg "Audi e-tron GT with Florett Silver with custom full body paint")
+
 ### Suzuka Grey
 
 Color Code: **M1**
