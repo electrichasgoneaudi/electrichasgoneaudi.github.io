@@ -139,7 +139,7 @@ The following wheels have been available from Audi to Audi Q4 e-tron. Varies for
     <figcaption><h4>21 inch 5-W design bronze for edition one</h4></figcaption>
 </figure>
 
-## 21" 5 Arm rotor design
+## 21" 5 Arm rotor aero design
 
 8,5 J x 21 with 235/45 R 21 tires front 9,0 J x 21 255/40 R 21 tires rear
 
@@ -147,14 +147,14 @@ The following wheels have been available from Audi to Audi Q4 e-tron. Varies for
 
 <figure>
     <a href="wheel_C1P_1.jpg">
-        <img src="wheel_C1P_1s.jpg" alt="21 inch 5 Arm rotor design" title="21 inch 5 Arm rotor design">
+        <img src="wheel_C1P_1s.jpg" alt="21 inch 5 Arm rotor aero design" title="21 inch 5 Arm rotor aero design">
     </a>
-    <figcaption><h4>21 inch 5 Arm rotor design</h4></figcaption>
+    <figcaption><h4>21 inch 5 Arm rotor aero design</h4></figcaption>
 </figure>
 
 <figure>
     <a href="wheel_C1P_2.jpg">
-        <img src="wheel_C1P_2s.jpg" alt="21 inch 5 Arm rotor design" title="21 inch 5 Arm rotor design">
+        <img src="wheel_C1P_2s.jpg" alt="21 inch 5 Arm rotor aero design" title="21 inch 5 Arm rotor aero design">
     </a>
-    <figcaption><h4>21 inch 5 Arm rotor design</h4></figcaption>
+    <figcaption><h4>21 inch 5 Arm rotor aero design</h4></figcaption>
 </figure>

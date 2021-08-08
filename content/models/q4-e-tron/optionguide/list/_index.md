@@ -8,7 +8,7 @@ weight: 100
 
 WORK IN PROGRESS
 
-## Paint & Styling
+## Paint Color & Paint trim
 
 | Title | Description | ID |
 |-----|------|------|
@@ -21,8 +21,15 @@ WORK IN PROGRESS
 |  [Aurora Violett](/models/q4-e-tron/exterior/paint/#aurora-violett)| Metallic   |  J6   |
 |  [Glacier White](/models/q4-e-tron/exterior/paint/#glacier-white)| Metallic   | 2Y    |
 |  [Full body paint](/models/q4-e-tron/exterior/paint/#full-body-paint-or-with-contrast-paint)| For Mythos, Navarra, Glacier and Pebble | FB4 |
-|  [Contrast color](/models/q4-e-tron/exterior/paint/#contrast-paint)| In Manhatten Grey | FB5 |
-|
+|  [Contrast paint](/models/q4-e-tron/exterior/paint/#contrast-paint)| In Manhatten Grey | FB5 |
+
+## Exterior packages
+
+| Title | Description | ID |
+|-----|------|------|
+|  [Pebble Stone Grey](/models/q4-e-tron/exterior/paint/#pebble-stone-gray)   | Non metallic   |  C2   |
+
+
 
 ## Wheels
 
@@ -37,7 +44,7 @@ WORK IN PROGRESS
 |  [21" 5-arm rotor design](/models/q4-e-tron/exterior/wheels/#21-5-arm-rotor-design)   |  8,5 J x 21 with 235/45 R 21 tires front 9,0 J x 21 255/40 R 21 tires rear.   |  55L  |
 |  [21" 5-W design](/models/q4-e-tron/exterior/wheels/#21-5-w-design)   |  8,5 J x 21 with 235/45 R 21 tires front 9,0 J x 21 255/40 R 21 tires rear  |  C5W |
 |  [21" 5-W design bronze](/models/q4-e-tron/exterior/wheels/#21-5-w-design-bronze)   |  8,5 J x 21 with 235/45 R 21 tires front 9,0 J x 21 255/40 R 21 tires rear  |  C7A |
-|  [21" 5 Arm rotor design](/models/q4-e-tron/exterior/wheels/#21-5-arm-rotor-design-1)   |  8,5 J x 21 with 235/45 R 21 tires front 9,0 J x 21 255/40 R 21 tires rear  |  C1P |
+|  [21" 5 Arm rotor aero design](/models/q4-e-tron/exterior/wheels/#21-5-arm-rotor-aero-design)   |  8,5 J x 21 with 235/45 R 21 tires front 9,0 J x 21 255/40 R 21 tires rear  |  C1P |
 
 
 ## Assistent system
