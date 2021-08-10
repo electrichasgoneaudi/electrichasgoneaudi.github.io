@@ -23,13 +23,6 @@ WORK IN PROGRESS
 |  [Full body paint](/models/q4-e-tron/exterior/paint/#full-body-paint-or-with-contrast-paint)| For Mythos, Navarra, Glacier and Pebble | FB4 |
 |  [Contrast paint](/models/q4-e-tron/exterior/paint/#contrast-paint)| In Manhatten Grey | FB5 |
 
-## Exterior packages
-
-| Title | Description | ID |
-|-----|------|------|
-|  [Pebble Stone Grey](/models/q4-e-tron/exterior/paint/#pebble-stone-gray)   | Non metallic   |  C2   |
-
-
 
 ## Wheels
 
@@ -46,6 +39,31 @@ WORK IN PROGRESS
 |  [21" 5-W design bronze](/models/q4-e-tron/exterior/wheels/#21-5-w-design-bronze)   |  8,5 J x 21 with 235/45 R 21 tires front 9,0 J x 21 255/40 R 21 tires rear  |  C7A |
 |  [21" 5 Arm rotor aero design](/models/q4-e-tron/exterior/wheels/#21-5-arm-rotor-aero-design)   |  8,5 J x 21 with 235/45 R 21 tires front 9,0 J x 21 255/40 R 21 tires rear  |  C1P |
 
+
+## Tires
+
+| Title | Description | ID |
+|-----|------|------|
+|  Tire repair kit  | Can be combiend with 20" and 21"  |  1S3   |
+| Basic tool kit | In trunk | 1S2 |
+| Tire Pressure System | Standard | 7K1 |
+
+
+## Exterior packages
+
+| Title | Description | ID |
+|-----|------|------|
+| Edition one, Geyser | Edtion one with big equipment package | PFR |
+| Edition one, Geyser | Edtion one with big equipment package | PFP |
+|  Advanced Line  | Includes  [Contrast paint](/models/q4-e-tron/exterior/paint/#contrast-paint),   [19" 5-W design](/models/q4-e-tron/exterior/wheels/#19-5-w-design)  |  PY1   |
+|  S-Line  | Includes  [S-line Styling](/models/q4-e-tron/exterior/s-line/),   [20" 5Y design](/models/q4-e-tron/exterior/wheels/#20-5y-design) |  PY2   |
+
+
+## Equipment packages 
+
+| Title | Description | ID |
+|-----|------|------|
+| Clima and winter package | Includes [3-sone AC](/models/q4-e-tron/technology/climatecontrol/), [Heatpump](/models/q4-e-tron/technology/climatecontrol/), [Heated steeringwheel](/models/q4-e-tron/interior/steeringwheels/), [Auxiliary air conditioner with extra convenience](/models/q4-e-tron/technology/climatecontrol/#auxiliary-air-conditioner)  | WNW |
 
 ## Assistent system
 
