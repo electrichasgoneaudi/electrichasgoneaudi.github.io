@@ -129,6 +129,9 @@ Totalsum: 758.800,-
 - Klima og vinterpakke WNW 11740,-
 - Klimareguleringspakke PYC 6.760,-
 
+**e-tron 55 S-line**
+
+
 
 
 

@@ -44,7 +44,8 @@ For many buyers this is a real dilemma.  We will try help you choose.
 | Optional wheels front | 235/50-R20, 235/45-R21 | 255/55-R20, 265/45-R21, 265/40-R22 |
 | Optional wheels rear | 255/45-R20,255/40-R21 | 255/55-R20, 265/45-R21, 265/40-R22  |
 | TPMS  | Indirect | Indirect (direct option)|
-| Virtual Cockpit | option  | standard |
+| Tire repair set | option(1S3) | standard |
+| Virtual Cockpit | option(WNK)  | standard |
 | Virtual Cockpit screensize | 10.25"  | 12.3" |
 | Virtual Cockpit resolution |  1,440 x 540 | 1,920 x 720  |
 | Audi MMI System | MMI touch | MMI Touch Response  |
@@ -60,8 +61,8 @@ For many buyers this is a real dilemma.  We will try help you choose.
 | Heated front seats | option | option |
 | Heated rear seats | N/A | option |
 | Air Condition | standard | standard |
-| A/C zones | 1 (3 optional) | 2 (4 optional) |
-| Heatpump | option | standard |
+| A/C zones | 1 (3 optional(WNW/PYC)) | 2 (4 optional) |
+| Heatpump | option(WNW) | standard |
 | Rear window curtains | N/A | option |
 | Cruise control | option | standard |
 | Active Lane assist | standard | standard |
