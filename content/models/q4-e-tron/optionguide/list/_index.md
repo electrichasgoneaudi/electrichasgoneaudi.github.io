@@ -63,7 +63,8 @@ WORK IN PROGRESS
 
 | Title | Description | ID |
 |-----|------|------|
-| Clima and winter package | Includes [3-sone AC](/models/q4-e-tron/technology/climatecontrol/), [Heatpump](/models/q4-e-tron/technology/climatecontrol/), [Heated steeringwheel](/models/q4-e-tron/interior/steeringwheels/), [Auxiliary air conditioner with extra convenience](/models/q4-e-tron/technology/climatecontrol/#auxiliary-air-conditioner)  | WNW |
+| Clima and winter package | Includes [3-sone AC](/models/q4-e-tron/technology/climatecontrol/), [Heatpump](/models/q4-e-tron/technology/climatecontrol/#heatpump), [Heated steeringwheel](/models/q4-e-tron/interior/steeringwheels/), [Auxiliary air conditioner with extra convenience](/models/q4-e-tron/technology/climatecontrol/#auxiliary-air-conditioner)  | WNW |
+| Navigation package | MMI Navigation Plus, Traffic Sign Recognition, Audi Virtual Cockpit, Sonos Sound System, Audi Phone Box, Audi smartphone interface, 12-volt and USB-C port| WNK |
 
 ## Assistent system
 
