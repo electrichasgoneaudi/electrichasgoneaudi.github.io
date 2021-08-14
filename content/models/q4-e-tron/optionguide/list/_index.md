@@ -63,8 +63,9 @@ WORK IN PROGRESS
 
 | Title | Description | ID |
 |-----|------|------|
-| Clima and winter package | Includes [3-sone AC](/models/q4-e-tron/technology/climatecontrol/), [Heatpump](/models/q4-e-tron/technology/climatecontrol/#heatpump), [Heated steeringwheel](/models/q4-e-tron/interior/steeringwheels/), [Auxiliary air conditioner with extra convenience](/models/q4-e-tron/technology/climatecontrol/#auxiliary-air-conditioner)  | WNW |
-| Navigation package | MMI Navigation Plus, Traffic Sign Recognition, Audi Virtual Cockpit, Sonos Sound System, Audi Phone Box, Audi smartphone interface, 12-volt and USB-C port| WNK |
+| Clima and winter package | This package includes the following options [3-sone AC](/models/q4-e-tron/technology/climatecontrol/), [Heatpump](/models/q4-e-tron/technology/climatecontrol/#heatpump), [Heated steeringwheel](/models/q4-e-tron/interior/steeringwheels/), [Auxiliary air conditioner with extra convenience](/models/q4-e-tron/technology/climatecontrol/#auxiliary-air-conditioner)  | WNW |
+| Navigation package | This package includes the following options. [MMI Navigation Plus](/models/q4-e-tron/technology/uiandoperations/mmi/#mmi-navigation-plus), [Traffic Sign Recognition](/models/q4-e-tron/technology/drivingassistance/trafficsignrecognition/), [Audi Virtual Cockpit](/models/q4-e-tron/technology/uiandoperations/virtualcockpit/), [Sonos Sound System](/models/q4-e-tron/technology/soundsystem/), Infotainment package with [Audi Phone Box](/models/q4-e-tron/technology/phonebox/), [Audi smartphone interface](/models/q4-e-tron/technology/uiandoperations/smartphoneinterface/), [12-volt and USB-C port](/models/q4-e-tron/technology/connections/)| WNK |
+| Climate package | This package includes the following options [3-sone AC](/models/q4-e-tron/technology/climatecontrol/) and [Auxiliary air conditioner with extra convenience](/models/q4-e-tron/technology/climatecontrol/#auxiliary-air-conditioner) |  PYC |
 
 ## Assistent system
 
