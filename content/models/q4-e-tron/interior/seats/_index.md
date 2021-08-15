@@ -39,7 +39,7 @@ Each seat type have different seat materials in different colors to choose from.
 
 ![Sport seats](seats_sport_1.jpg "Sport seats in black Dynamik fabric (AI)")
 
-![Sport seats](seats_sport_1b.jpg "Sport seats in black Dynamik fabric (AI)")
+![Sport seats](seats_sport1b.jpg "Sport seats in black Dynamik fabric (AI)")
 
 ![Sport seats](seats_sport_2.jpg "Sport seats in mono.pur 550 black leather (A0)")
 

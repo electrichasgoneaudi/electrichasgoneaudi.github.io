@@ -78,16 +78,16 @@ WORK IN PROGRESS
 
 | Title | Description | ID |
 |-----|------|------|
-|Interior package 1 | Normal seats in leather | PWA |
-|Interior package 2 | | PWB |
-|Interior package 3 | | PWC |
-|Interior package 4 | | PWD |
-|Interior package 5 | | PWE |
-|Interior package 6 | | PWK |
-|Interior package 7 | | PWL |
-|Interior package 8 | | PWM |
-|Interior package 9 | | PWN |
-| Red seams from Audi Sport | | YYB |
+|Interior package 1 | [Standard seats](/models/q4-e-tron/interior/seats/#standard-seats) in black leather | PWA |
+|Interior package 2 | [Standard seats](/models/q4-e-tron/interior/seats/#standard-seats) in brown leather | PWB |
+|Interior package 3 | [Standard seats](/models/q4-e-tron/interior/seats/#standard-seats) in beige leather| PWC |
+|Interior package 4 | [Sport seats](/models/q4-e-tron/interior/seats/#sport-seats) in dinamica black | | PWD |
+|Interior package 5 | [Sport seats](/models/q4-e-tron/interior/seats/#sport-seats) in black leather | PWE |
+|Interior package 6 | [S-line Sport seats](/models/q4-e-tron/interior/seats/#s-line-sport-seats) in fabric/leather| PWK |
+|Interior package 7 | [S-line Sport seats](/models/q4-e-tron/interior/seats/#s-line-sport-seats) in black leather | PWL |
+|Interior package 8 | [S-line Sport seats](/models/q4-e-tron/interior/seats/#s-line-sport-seats) in dinamica| PWM |
+|Interior package 9 | [S-line Sport seats](/models/q4-e-tron/interior/seats/#s-line-sport-seats) in feinappa leather| PWN |
+| Red seams from Audi Sport | Can only be combined with interior package 8 or 9 | YYB |
 
 ## Assistent system
 
