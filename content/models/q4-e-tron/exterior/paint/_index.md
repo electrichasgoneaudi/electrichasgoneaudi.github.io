@@ -47,7 +47,8 @@ On the basic trim the bumpers and wheel arches are not painted
 
 ### Contrast paint
 
-The standard paint is with Manhatten grey as contrast color. Option code **FB5**
+If you select Advanced line or s-line [exterior package](/models/q4-e-tron/optionguide/list/#exterior-packages) the
+wheel archer and lower parts of the car is painted in a contrast color. Manhatten grey is used as contrast color. Option code **FB5**
 
 <figure>
     <a href="paint_florettsilver_2.jpg">
@@ -56,7 +57,7 @@ The standard paint is with Manhatten grey as contrast color. Option code **FB5**
     <figcaption><h4>Audi Q4 50 e-tron quattro in florett silver with manhatten contrast color</h4></figcaption>
 </figure>
 
-### Full body paint or with contrast paint
+### Full body paint
 
 For glacier white, mythos black, pepple grey and navarra blue you can get full body paint. Option code **FB4**
 
