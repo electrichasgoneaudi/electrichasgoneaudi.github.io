@@ -89,6 +89,16 @@ WORK IN PROGRESS
 |Interior package 9 | [S-line Sport seats](/models/q4-e-tron/interior/seats/#s-line-sport-seats-with-feinappa-leather-option-pwn) in feinappa leather| PWN |
 | Red seams from Audi Sport | Can only be combined with interior package 8 or 9 | YYB |
 
+## Lights
+
+| Title | Description | ID |
+|-----|------|------|
+|  [Led headlights](/models/q4-e-tron/technology/lights/#standard-headlights) | Standard | 8IT |
+| [Matrix LED Headlights](/models/q4-e-tron/technology/lights/#matrix-headlights) | Includes Head light washers |PXC |
+| Led rear lights |  | 8VG |
+| [High beam assistant](/models/q4-e-tron/technology/lights/#standard-headlights) | For standard headlights | 8G1 |
+| [Head light washers](/models/q4-e-tron/technology/lights/#standard-headlights) | Inlcuded for Matrix | 8X8 |
+
 ## Assistent system
 
 | Title | Description | ID |
