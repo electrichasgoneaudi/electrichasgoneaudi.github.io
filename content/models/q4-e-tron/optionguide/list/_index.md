@@ -78,15 +78,15 @@ WORK IN PROGRESS
 
 | Title | Description | ID |
 |-----|------|------|
-|Interior package 1 | [Standard seats](/models/q4-e-tron/interior/seats/#standard-seats) in black leather | PWA |
-|Interior package 2 | [Standard seats](/models/q4-e-tron/interior/seats/#standard-seats) in brown leather | PWB |
-|Interior package 3 | [Standard seats](/models/q4-e-tron/interior/seats/#standard-seats) in beige leather| PWC |
-|Interior package 4 | [Sport seats](/models/q4-e-tron/interior/seats/#sport-seats) in dinamica black | | PWD |
-|Interior package 5 | [Sport seats](/models/q4-e-tron/interior/seats/#sport-seats) in black leather | PWE |
-|Interior package 6 | [S-line Sport seats](/models/q4-e-tron/interior/seats/#s-line-sport-seats) in fabric/leather| PWK |
-|Interior package 7 | [S-line Sport seats](/models/q4-e-tron/interior/seats/#s-line-sport-seats) in black leather | PWL |
-|Interior package 8 | [S-line Sport seats](/models/q4-e-tron/interior/seats/#s-line-sport-seats) in dinamica| PWM |
-|Interior package 9 | [S-line Sport seats](/models/q4-e-tron/interior/seats/#s-line-sport-seats) in feinappa leather| PWN |
+|Interior package 1 | [Standard seats](/models/q4-e-tron/interior/seats/#standard-seats-in-black-leather-option-pwa) in black leather | PWA |
+|Interior package 2 | [Standard seats](/models/q4-e-tron/interior/seats/#standard-seats-in-brown-leather-option-pwb) in brown leather | PWB |
+|Interior package 3 | [Standard seats](/models/q4-e-tron/interior/seats/#standard-seats-in-beige-leather-option-pwc) in beige leather| PWC |
+|Interior package 4 | [Sport seats](/models/q4-e-tron/interior/seats/#sport-seats-with-dinamica-option-pwd) in dinamica black | | PWD |
+|Interior package 5 | [Sport seats](/models/q4-e-tron/interior/seats/#sport-seats-with-black-leather-option-pwe) in black leather | PWE |
+|Interior package 6 | [S-line Sport seats](/models/q4-e-tron/interior/seats/#s-line-seats-with-leatherfabric-option-pwk) in fabric/leather| PWK |
+|Interior package 7 | [S-line Sport seats](/models/q4-e-tron/interior/seats/#s-line-seats-with-leather-option-pwl) in black leather | PWL |
+|Interior package 8 | [S-line Sport seats](/models/q4-e-tron/interior/seats/#s-line-seats-with-leather-and-dinamica-option-pwm) in dinamica| PWM |
+|Interior package 9 | [S-line Sport seats](/models/q4-e-tron/interior/seats/#s-line-sport-seats-with-feinappa-leather-option-pwn) in feinappa leather| PWN |
 | Red seams from Audi Sport | Can only be combined with interior package 8 or 9 | YYB |
 
 ## Assistent system

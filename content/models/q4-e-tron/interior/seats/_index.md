@@ -27,25 +27,37 @@ Each seat type have different seat materials in different colors to choose from.
 
 ## Standard Seats
 
+### Standard seats in black fabric
+
 ![Standard seats](seats_standard_1.jpg "Standard seats in black fabric (AI)")
 
-![Standard seats](seats_standard_2.jpg "Standard seats in mono.pur 550 black leather (A0)")
+### Standard seats in black leather option PWA
 
-![Standard seats](seats_standard_3.jpg "Standard seats in mono.pur 550 pergament beige leather (BH)")
+![Standard seats](seats_standard_2.jpg "Standard seats in mono.pur 550 black leather (A0) from interior design package 1")
 
-![Standard seats](seats_standard_4.jpg "Standard seats in mono.pur 550 maduro brown leather (FX)")
+### Standard seats in brown leather option PWB
+
+![Standard seats](seats_standard_4.jpg "Standard seats in mono.pur 550 maduro brown leather (FX) from interior design package 2")
+
+### Standard seats in beige leather option PWC
+
+![Standard seats](seats_standard_3.jpg "Standard seats in mono.pur 550 pergament beige leather (BH) from interior design package 3")
 
 ## Sport Seats
 
-![Sport seats](seats_sport_1.jpg "Sport seats in black Dynamik fabric (AI)")
+### Sport seats with dinamica option PWD
 
-![Sport seats](seats_sport1b.jpg "Sport seats in black Dynamik fabric (AI)")
+![Sport seats](seats_sport_1.jpg "Sport seats in black Dynamik fabric (AI) from interior design package 4")
 
-![Sport seats](seats_sport_2.jpg "Sport seats in mono.pur 550 black leather (A0)")
+![Sport seats](seats_sport1b.jpg "Sport seats in black Dynamik fabric (AI) from interior design package 4")
 
-![Sport seats](seats_sport_4.jpg "Sport seats in mono.pur 550 black leather (A0)")
+### Sport seats with black leather option PWE
 
-![Sport seats](seats_sport_3.jpg "Sport seats in mono.pur 550 black leather (A0)")
+![Sport seats](seats_sport_2.jpg "Sport seats in mono.pur 550 black leather (A0) from interior design package 5")
+
+![Sport seats](seats_sport_4.jpg "Sport seats in mono.pur 550 black leather (A0) from interior design package 5")
+
+![Sport seats](seats_sport_3.jpg "Sport seats in mono.pur 550 black leather (A0) from interior design package 5")
 
 ## S-Line Sport Seats
 
@@ -53,12 +65,13 @@ Each seat type have different seat materials in different colors to choose from.
 
 ![S-line Sport seats](seats_sline_1.jpg "S-line Sport seats with mono.pur 550 leather and facbric in black (AI)")
 
-
-### S-line seats with Leather option PWL
+### S-line seats with Leather edition one
 
 ![S-line Sport seats](seats_sline_5.jpg "S-line Sport seats with mono.pur 550 leather and facbric in grey (FS) on edition one")
 
 ![S-line Sport seats](seats_sline_6.jpg "S-line Sport seats with mono.pur 550 leather and facbric in grey (FS) on edition one")
+
+### S-line seats with Leather option PWL
 
 ![S-line Sport seats](seats_sline_2.jpg "S-line Sport seats with mono.pur 550 leather in black (EJ)")
 
