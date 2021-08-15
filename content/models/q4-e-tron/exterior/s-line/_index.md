@@ -42,7 +42,7 @@ You get a s-line badge with the s-line package.
 
 The option Id is **PY2** for s-line exterior.
 
-S-line exterior package can be combined with a [black optics](/models/q4-e-tron/exterior/styling/#black-optics) package
+S-line exterior package can be combined with a [black optics](/models/q4-e-tron/exterior/optics) package
 
 ## Additional requiremens with S-line exterior
 

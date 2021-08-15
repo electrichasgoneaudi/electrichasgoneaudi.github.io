@@ -54,9 +54,9 @@ WORK IN PROGRESS
 | Title | Description | ID |
 |-----|------|------|
 | Edition one, Geyser | Edtion one with big equipment package | PFR |
-| Edition one, Geyser | Edtion one with big equipment package | PFP |
+| Edition one, Typhoon | Edtion one with big equipment package | PFP |
 |  Advanced Line  | Includes  [Contrast paint](/models/q4-e-tron/exterior/paint/#contrast-paint),   [19" 5-W design](/models/q4-e-tron/exterior/wheels/#19-5-w-design)  |  PY1   |
-|  S-Line  | Includes  [S-line Styling](/models/q4-e-tron/exterior/s-line/),   [20" 5Y design](/models/q4-e-tron/exterior/wheels/#20-5y-design) |  PY2   |
+|  S-Line  | Includes [Contrast paint](/models/q4-e-tron/exterior/paint/#contrast-paint),  [S-line Styling](/models/q4-e-tron/exterior/s-line/),   [20" 5Y design](/models/q4-e-tron/exterior/wheels/#20-5y-design) |  PY2   |
 
 
 ## Equipment packages 
@@ -66,6 +66,28 @@ WORK IN PROGRESS
 | Clima and winter package | This package includes the following options [3-sone AC](/models/q4-e-tron/technology/climatecontrol/), [Heatpump](/models/q4-e-tron/technology/climatecontrol/#heatpump), [Heated steeringwheel](/models/q4-e-tron/interior/steeringwheels/), [Auxiliary air conditioner with extra convenience](/models/q4-e-tron/technology/climatecontrol/#auxiliary-air-conditioner)  | WNW |
 | Navigation package | This package includes the following options. [MMI Navigation Plus](/models/q4-e-tron/technology/uiandoperations/mmi/#mmi-navigation-plus), [Traffic Sign Recognition](/models/q4-e-tron/technology/drivingassistance/trafficsignrecognition/), [Audi Virtual Cockpit](/models/q4-e-tron/technology/uiandoperations/virtualcockpit/), [Sonos Sound System](/models/q4-e-tron/technology/soundsystem/), Infotainment package with [Audi Phone Box](/models/q4-e-tron/technology/phonebox/), [Audi smartphone interface](/models/q4-e-tron/technology/uiandoperations/smartphoneinterface/), [12-volt and USB-C port](/models/q4-e-tron/technology/connections/)| WNK |
 | Climate package | This package includes the following options [3-sone AC](/models/q4-e-tron/technology/climatecontrol/) and [Auxiliary air conditioner with extra convenience](/models/q4-e-tron/technology/climatecontrol/#auxiliary-air-conditioner) |  PYC |
+| Function package 2 | Includes storage and trunk package with storage net on front seats, cup holders, flexibile trunk floor, storage net | PYW |
+| Funtion package 1 | Includes wheel bolts with theft security and theft alarm | PYV |
+| Comfort package |  This package includes retractable mirrors, automatic dimmable interior mirror, 4-way electric lumbar support in the front seats with vertical and horizontal adjustment, Comfort center armrests at the front with adjustment in angle and length | PYA |
+| Comfort package plus | This package includes retractable mirrors, automatic dimmable interior mirror, 4-way electric lumbar support in the front seats with vertical and horizontal adjustment, Comfort center armrests at the front with adjustment in angle and length, electric driver seat | PYY |
+| Driver package | Included Audi drive select, dynamic steering | PY8 |
+| Driver package plus | Include Audi drive select, suspension with damper adjustment, dynamic steering | PY9 |
+
+
+## Interior packages
+
+| Title | Description | ID |
+|-----|------|------|
+|Interior package 1 | Normal seats in leather | PWA |
+|Interior package 2 | | PWB |
+|Interior package 3 | | PWC |
+|Interior package 4 | | PWD |
+|Interior package 5 | | PWE |
+|Interior package 6 | | PWK |
+|Interior package 7 | | PWL |
+|Interior package 8 | | PWM |
+|Interior package 9 | | PWN |
+| Red seams from Audi Sport | | YYB |
 
 ## Assistent system
 

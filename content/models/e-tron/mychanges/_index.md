@@ -4,8 +4,17 @@ linktitle: Model Year changes
 description: For every new model year, and sometimes in between there have been done updates to the Audi e-tron. Here you find the details on the different updates.
 weight: 8
 ---
-
+<!-- markdownlint-disable MD033 -->
 ### MY2019 - Production start Week 36 2018
+
+Production started in the [Audi Brussels Plant](https://www.google.com/maps/place/Audi+Brussels/@50.8106698,4.3148004,730m/data=!3m1!1e3!4m5!3m4!1s0x0:0x603fdd7e2d943989!8m2!3d50.8113307!4d4.3149064) in week 36 2018
+
+<figure>
+    <a href="production.jpg">
+        <img src="productions.jpg" alt="Production of Audi e-tron started week 36 2018" title="Production of Audi e-tron started week 36 2018">
+    </a>
+    <figcaption><h4>Production of Audi e-tron started week 36 2018</h4></figcaption>
+</figure>
 
 ### MY2019 - > MY2020 Week 28 2019
 
