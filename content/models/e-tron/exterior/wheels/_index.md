@@ -63,6 +63,13 @@ Sold as winter tires by Audi Norway.
 
 ![20-inch 9J 5-twin arm edge design](mtgalvani_3.jpg "20-inch MT Galvani")
 
+## 20-inch 10J 5V design wheels for e-tron S
+
+Sold as winter tires by Audi Norway. Part No: **CA0**
+
+
+![20-inch 10J 5V design wheels for e-tron S](wheel_CA0_1.jpg "20-inch 10J 5V design wheels for e-tron S")
+
 
 ## 21 inch 15 arm design
 
