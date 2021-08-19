@@ -225,7 +225,7 @@ Color code **0E**
 
 <figure>
     <a href="paint_mythosblack_6.jpg">
-        <img src="paint_mythosblack_6s.jpg" alt="Audi Q4 50 e-tron quattro with s-line exterior and black optics in Mythos Black" title="Audi Q4 50 e-tron quattro with s-line exterior and black optics in Mythos Black">
+        <img src="paint_mythosblack_6s.jpg" alt="Audi Q4 50 e-tron quattro with advance line exterior and black optics in Mythos Black" title="Audi Q4 50 e-tron quattro with s-line exterior and black optics in Mythos Black">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro with s-line exterior and black optics in Mythos Black</h4></figcaption>
 </figure>
@@ -233,7 +233,22 @@ Color code **0E**
 
 <figure>
     <a href="paint_mythosblack_7.jpg">
-        <img src="paint_mythosblack_7s.jpg" alt="Audi Q4 50 e-tron quattro with s-line exterior and black optics in Mythos Black" title="Audi Q4 50 e-tron quattro with s-line exterior and black optics in Mythos Black">
+        <img src="paint_mythosblack_7s.jpg" alt="Audi Q4 50 e-tron quattro with advance line exterior and black optics in Mythos Black" title="Audi Q4 50 e-tron quattro with s-line exterior and black optics in Mythos Black">
+    </a>
+    <figcaption><h4>Audi Q4 50 e-tron quattro with s-line exterior and black optics in Mythos Black</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_mythosblack_8.jpg">
+        <img src="paint_mythosblack_8s.jpg" alt="Audi Q4 50 e-tron quattro with s-line exterior and black optics in Mythos Black" title="Audi Q4 50 e-tron quattro with s-line exterior and black optics in Mythos Black">
+    </a>
+    <figcaption><h4>Audi Q4 50 e-tron quattro with s-line exterior and black optics in Mythos Black</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="paint_mythosblack_9.jpg">
+        <img src="paint_mythosblack_9s.jpg" alt="Audi Q4 50 e-tron quattro with s-line exterior and black optics in Mythos Black" title="Audi Q4 50 e-tron quattro with s-line exterior and black optics in Mythos Black">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro with s-line exterior and black optics in Mythos Black</h4></figcaption>
 </figure>

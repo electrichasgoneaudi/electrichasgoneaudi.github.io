@@ -93,13 +93,67 @@ WORK IN PROGRESS
 
 | Title | Description | ID |
 |-----|------|------|
-|  [Led headlights](/models/q4-e-tron/technology/lights/#standard-headlights) | Standard | 8IT |
+| [Led headlights](/models/q4-e-tron/technology/lights/#standard-headlights) | Standard | 8IT |
 | [Matrix LED Headlights](/models/q4-e-tron/technology/lights/#matrix-headlights) | Includes Head light washers |PXC |
 | Led rear lights |  | 8VG |
 | [High beam assistant](/models/q4-e-tron/technology/lights/#standard-headlights) | For standard headlights | 8G1 |
 | [Head light washers](/models/q4-e-tron/technology/lights/#standard-headlights) | Inlcuded for Matrix | 8X8 |
 
+
+## Mirrors 
+
+| Title | Description | ID |
+|-----|------|------|
+| Exterior mirrors housing| Standard painted in body color | 6FG |
+| Black mirror housing  | 6FJ |
+| Electric adjustable mirrors | Heated  |6XN |
+| Electric retractable mirrors | Only sold as part of PYY/PYA | 6XL |
+| Manual interior mirrors | Standard | 4L2 |
+| Automatic interor mirros | Automiatic dimmable, framless | 4L6 |
+| Projection lights in mirrors |  | 1J2 |
+
+## Roof
+
+| Title | Description | ID |
+|-----|------|------|
+| Panoramic roof |  | 3FU |
+| Rails aluminium | Not sportback | 3S1 |
+| Rails black | Not sportback | 3S2 |
+
+
+## Locking systems
+
+| Title | Description | ID |
+|-----|------|------|
+| Sentral locking | Remote controlle | 4I7 |
+| Comfort key | Key less go | 4K5 |
+| Powered rear door |   | 4E6 |
+
+## Exterior equipment
+
+| Title | Description | ID |
+|-----|------|------|
+| Chrome window list | in aluminium | 4ZB |
+| Lower bumper in antrastitt |  basic  | 2JB |
+| Black optics |  | 4ZD |
+| Preperation for trailer hitch |  | 1D7 |
+| Trailer hitch | - | 1M6 |
+| Model an brand marking | - | 2Z8 |
+| Without performance rating  | - | 2Z7|
+| Without perforance and model | - | 2Z0 |
+
+## Climate
+
+| Title | Description | ID |
+|-----|------|------|
+| 1 zone clima control | Standard | KC0 |
+| 3 zone clima control |  | |
+| Comfort pre climatization |  | GA2 |
+| Heat pump | | 9M3 |
+
 ## Assistent system
+
+
 
 | Title | Description | ID |
 |-----|------|------|
