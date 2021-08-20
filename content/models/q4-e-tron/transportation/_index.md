@@ -68,6 +68,10 @@ You can store up to 75kg on the roof.
 
 ## Trailer
 
-Audi e-tron can drag trailers up to 1800kg
+Audi e-tron can drag trailers up to 1200kg with Audi Q4 e-tron 45/50 Quattro and 1000kg Audi Q4 e-tron 40.
+
+{{< youtube iSW-DfNEXnk >}}
+
+
 
 {{% children description="true" depth="1" %}}
