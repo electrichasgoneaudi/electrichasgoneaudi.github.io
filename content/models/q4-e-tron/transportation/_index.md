@@ -8,6 +8,8 @@ weight: 6
 
 ## Trunk
 
+The cargo volume on Q4 e-tron is on 520 liter. When rear seats are down the total storage capacity is 1490 liter.
+
 <figure>
     <a href="trunk_1.jpg">
         <img src="trunk_1s.jpg" alt="Audi Q4 e-tron trunk" title="Audi Q4 e-tron trunk">
@@ -56,8 +58,7 @@ See below for Banana box test for Audi Q4 e-tron.
 
 ## Roof storage
 
-You can store up to 75kg on the roof.
-
+You can store up to 75kg on the roof. On the SUV version you have rails so you can easly mount a roof box.
 
 <figure>
     <a href="roofbox.jpg">
@@ -68,7 +69,16 @@ You can store up to 75kg on the roof.
 
 ## Trailer
 
-Audi e-tron can drag trailers up to 1200kg with Audi Q4 e-tron 45/50 Quattro and 1000kg Audi Q4 e-tron 40.
+Audi Q4 e-tron can drag trailers up to 1200kg with Audi Q4 e-tron 45/50 Quattro and 1000kg Audi Q4 e-tron 40.
+The towing hitch has option id **1M6**.  An optional towing hitch prepartion has option id **1D7**
+
+
+<figure>
+    <a href="towhitch.jpg">
+        <img src="towhitchs.jpg" alt="Optional retractable tow hitch" title="Optional retractable tow hitch">
+    </a>
+    <figcaption><h4>Optional retractable tow hitch</h4></figcaption>
+</figure>
 
 {{< youtube iSW-DfNEXnk >}}
 
