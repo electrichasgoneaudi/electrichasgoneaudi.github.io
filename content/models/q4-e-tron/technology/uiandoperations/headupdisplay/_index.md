@@ -15,6 +15,8 @@ The field of view for the AR content from the driver’s perspective is equivale
 
 The technical heart of the augmented reality head-up display is the picture generation unit (PGU), which is located deep inside the long instrument panel. A particularly bright LCD directs the light beams it generates onto two level mirrors, and special optical components separate the portions for the near-field and distant areas. The level mirrors direct the beams onto a large concave mirror that can be adjusted electrically. From there, they reach the windshield, which reflects them into what is known as the eyebox and thus onto the driver’s eyes. At an apparent distance of ten meters, or even further away depending on the situation, the driver sees the symbols just as clearly as their real-life environment.
 
+![Head up unit](headupunit.jpg)
+
 ### Predictive picture generator: the AR Creator
 
 What is known as the AR Creator serves as the mastermind and picture generator on the software side – this is a processing unit in the modular infotainment platform (MIB 3) that is comprised of multiple individual modules. The AR Creator renders the display symbols at a rate of 60 frames per second and adapts them to the geometry of the projection optics. At the same time, it calculates their location in relation to the environment, on which it obtains information via the raw data of the front camera, the radar sensor, and the GPS navigation. Its software consists of roughly 600,000 lines of programming code, around 50 percent more than the entire control system of the first version of the Space Shuttle.
