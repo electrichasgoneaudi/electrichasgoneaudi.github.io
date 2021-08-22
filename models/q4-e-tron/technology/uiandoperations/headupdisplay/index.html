@@ -965,6 +965,11 @@ parent">
 <span>Interior & Ambient lights</span>
 </a>
 </li>
+<li data-nav-id=/models/q4-e-tron/interior/storage/ class=dd-item>
+<a href=/models/q4-e-tron/interior/storage/>
+<span>Interior Storage</span>
+</a>
+</li>
 </ul>
 </li>
 <li data-nav-id=/models/q4-e-tron/drivetrain/ class=dd-item>
@@ -1117,6 +1122,28 @@ parent">
 <i class="fa fa-sort-down fa-lg category-icon"></i>
 </a>
 <ul>
+<li data-nav-id=/models/q4-e-tron/technology/uiandoperations/mmi/ class=dd-item>
+<a href=/models/q4-e-tron/technology/uiandoperations/mmi/>
+<span>Audi MMI</span>
+</a>
+</li>
+<li data-nav-id=/models/q4-e-tron/technology/uiandoperations/virtualcockpit/ class=dd-item>
+<a href=/models/q4-e-tron/technology/uiandoperations/virtualcockpit/>
+<span>Virtual Cockpit</span>
+</a>
+</li>
+<li data-nav-id=/models/q4-e-tron/technology/uiandoperations/headupdisplay/ class="dd-item
+parent
+active">
+<a href=/models/q4-e-tron/technology/uiandoperations/headupdisplay/>
+<span>Heads up display</span>
+</a>
+</li>
+<li data-nav-id=/models/q4-e-tron/technology/uiandoperations/smartphoneinterface/ class=dd-item>
+<a href=/models/q4-e-tron/technology/uiandoperations/smartphoneinterface/>
+<span>Smartphone Interface</span>
+</a>
+</li>
 </ul>
 </li>
 <li data-nav-id=/models/q4-e-tron/technology/lights/ class=dd-item>
@@ -1379,6 +1406,7 @@ Heads up display
 <figure><a href=headup.jpg><img src=headup.jpg alt=Headup title="Headup display"></a><figcaption><h4>Headup display</h4></figcaption></figure>
 <h3 id=the-heart-of-the-system-the-picture-generation-unit>The heart of the system: the picture generation unit</h3>
 <p>The technical heart of the augmented reality head-up display is the picture generation unit (PGU), which is located deep inside the long instrument panel. A particularly bright LCD directs the light beams it generates onto two level mirrors, and special optical components separate the portions for the near-field and distant areas. The level mirrors direct the beams onto a large concave mirror that can be adjusted electrically. From there, they reach the windshield, which reflects them into what is known as the eyebox and thus onto the driver’s eyes. At an apparent distance of ten meters, or even further away depending on the situation, the driver sees the symbols just as clearly as their real-life environment.</p>
+<p><img src=headupunit.jpg alt="Head up unit"></p>
 <h3 id=predictive-picture-generator-the-ar-creator>Predictive picture generator: the AR Creator</h3>
 <p>What is known as the AR Creator serves as the mastermind and picture generator on the software side – this is a processing unit in the modular infotainment platform (MIB 3) that is comprised of multiple individual modules. The AR Creator renders the display symbols at a rate of 60 frames per second and adapts them to the geometry of the projection optics. At the same time, it calculates their location in relation to the environment, on which it obtains information via the raw data of the front camera, the radar sensor, and the GPS navigation. Its software consists of roughly 600,000 lines of programming code, around 50 percent more than the entire control system of the first version of the Space Shuttle.</p>
 <p>While performing its computing work, the AR Creator takes into account that there are always a few fractions of a second between the identification of an object by the sensors and the output of the graphic content. During these brief time windows, the Q4 e-tron can change its position considerably, whether due to braking or a pothole. Multiple computations are performed continuously to ensure that the display in the eyebox does not jump into the wrong position. One of them takes place in the camera software. For another, the AR Creator uses the most recent data to make a predictive calculation of the car’s continued forward movement. In a further computation, it estimates the vertical movement on the basis of data supplied by the camera, the radar, and the sensors of the stabilization control (ESC). These insights are incorporated into the “shake compensation,” which takes place a few milliseconds before the picture is output and whose task is to prevent any disruptive shaking of the display.</p>
