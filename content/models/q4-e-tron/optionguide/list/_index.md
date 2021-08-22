@@ -189,15 +189,37 @@ WORK IN PROGRESS
 
 | Title | Description | ID |
 |-----|------|------|
-| MMI navigation plus with MMI touch | Included in PYG/PYH | 7UG |
-| AR-head up display |  | KS3 |
+| [MMI navigation plus with MMI touch](/models/q4-e-tron/technology/uiandoperations/mmi/#mmi-navigation-plus) | Included in PYG/PYH | 7UG |
+| [AR-head up display](/models/q4-e-tron/technology/uiandoperations/headupdisplay/) | Included in PYH  | KS3 |
 | [Digital instrument cluster](/models/q4-e-tron/technology/uiandoperations/virtualcockpit/#standard-digital-instrumention-cluster) | Standard | 7J2 |
-| Audi Virtual cockpit |   | 9S1 | 
-| Camera based traffic sign recognintion | Included in PYG/PYH  | QR9 | 
-| MMI Navigation pro package |   | PYH |
-| MMI Navigation plus package | Includes 7UG + 9S1  |  PYG |
-| Infotainment package | Audi Phone Box, Audi Smartphone interface, 12-volt outlet rear, 2 x USB-C rear | PYX |
-| Infotainment package small | Audi Smartphone interface, 12-volt outlet rear, 2 x USB-C rear | PY3 |
+| [Audi Virtual cockpit](/models/q4-e-tron/technology/uiandoperations/virtualcockpit/) |   | 9S1 | 
+| [Camera based traffic sign recognintion](/models/q4-e-tron/technology/drivingassistance/trafficsignrecognition/) | Included in PYG/PYH  | QR9 |
+| MMI Navigation pro package | Includes [MMI navigation plus with MMI touch](/models/q4-e-tron/technology/uiandoperations/mmi/#mmi-navigation-plus), [Audi Virtual cockpit](/models/q4-e-tron/technology/uiandoperations/virtualcockpit/) [Camera based traffic sign recognintion](/models/q4-e-tron/technology/drivingassistance/trafficsignrecognition/), [Audi Smartphone interface](/models/q4-e-tron/technology/uiandoperations/smartphoneinterface/) and  [AR-head up display](/models/q4-e-tron/technology/uiandoperations/headupdisplay/) | PYH |
+| MMI Navigation plus package | Includes [MMI navigation plus with MMI touch](/models/q4-e-tron/technology/uiandoperations/mmi/#mmi-navigation-plus), [Audi Virtual cockpit](/models/q4-e-tron/technology/uiandoperations/virtualcockpit/) [Camera based traffic sign recognintion](/models/q4-e-tron/technology/drivingassistance/trafficsignrecognition/) |  PYG |
+| Infotainment package | [Audi Phone Box](/models/q4-e-tron/technology/phonebox/), [Audi Smartphone interface](/models/q4-e-tron/technology/uiandoperations/smartphoneinterface/), [12-volt outlet rear](/models/q4-e-tron/technology/connections/), [2 x USB-C rear](/models/q4-e-tron/technology/connections/) | PYX |
+| Infotainment package small |  [Audi Smartphone interface](/models/q4-e-tron/technology/uiandoperations/smartphoneinterface/), [12-volt outlet rear](/models/q4-e-tron/technology/connections/), [2 x USB-C rear](/models/q4-e-tron/technology/connections/)  | PY3 |
+
+
+## Radio and sound system
+
+| Title | Description | ID |
+|-----|------|------|
+| [Audi Sound System](/models/q4-e-tron/technology/soundsystem/#audi-sound-system) | Standard | 9VD | 
+| [Sonos Premium Sound system](/models/q4-e-tron/technology/soundsystem/#sonos-sound-system) |  | 9VS | 
+| DAB Digital Radio | Standard some markets | QV3 | 
+| MMI Radio Plus |  | 7QD |
+
+## Phone and communcation
+
+| Title | Description | ID |
+|-----|------|------|
+| Audi connect Remote & Control for MMI basis |  | EL1 |
+| Audi connect Remote & Control for MMI plus og pro |  | EL5 |
+| Audi Connect navigasjon og infotaiment eSIM 3år connect basispakke |  | IT4 |
+| Audi Connect navigasjon og infotaiment eSIM 3 år connect plus pakke | Included PYG/PYH | IT3 |
+| Bluetooth interface | Standard | 9ZX |
+| [Audi Phone Box](/models/q4-e-tron/technology/phonebox/) | Only in package PYX  | 9ZE |
+| [Audi Smartphone interface](/models/q4-e-tron/technology/uiandoperations/smartphoneinterface/)| Only in PYX/PY3| IU|
 
 ## Assistent system
 

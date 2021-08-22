@@ -9,12 +9,14 @@ The Audi MMI® (Multi Media Interface) system was created to streamline the cont
 
 ![MMI](mmi2.jpg "Audi MMI")
 
-## 10.1 or 11.6 inches: the central MMI touch display
+## MMI Touch
 
-The MMI touch display with acoustic feedback has a 10.1-inch diagonal and a resolution of 1,540 x 720 pixels.
+Audi Q4 e-tron comes with MMI Touch as standard. The MMI touch display with acoustic feedback has a 10.1-inch diagonal and a resolution of 1,540 x 720 pixels.
 
 It is used to control the infotainment system as well as a number of comfort functions.
-In addition, it allows text input in handwriting. In the optional large version, the display comes with an 11.6-inch diagonal and a resolution of 1,764 x 824 pixels. 
+
+
+In addition, it allows text input in handwriting. In the optional large version, the display comes with an 11.6-inch diagonal and a resolution of 1,764 x 824 pixels.
 
 It is the largest display in the Audi portfolio to date and is expected to be available for order this year.
 
@@ -34,3 +36,5 @@ to the main MMI screen:
 ![Navigation](navigationmmiscreen.jpg "Navigation in MMI Main screen")
 
 ![Navigation](mminavigationvirtualcockpit.jpg "Navigation in virtual cockpit")
+
+MMI Navigation plus is available in the [MMI Navigation Plus package](/models/q4-e-tron/optionguide/list/#infotainment) **PYG** and [MMI Navigation Pro](/models/q4-e-tron/optionguide/list/#infotainment) package **PYH**
