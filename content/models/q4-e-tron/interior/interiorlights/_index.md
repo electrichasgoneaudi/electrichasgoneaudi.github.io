@@ -14,7 +14,7 @@ The following interior lights are standard on Audi Q4
 - storage compartment in front centre console (white)
 - illuminated glove compartment
 
-## Ambient lights options
+## Ambient lights package
 
 White lights with option id **QQ8**
 
@@ -26,7 +26,7 @@ In addition to the standard lights you get
 - contour lighting on dashboard (multicoloured)
 - footwell lighting in the front and rear
   
-## Ambient light plus option
+## Ambient light plus package
 
 The ambient lighting package plus with option id **QQ9**. offers the following range of features, some in white light, others with multiple colour adjustment:
 

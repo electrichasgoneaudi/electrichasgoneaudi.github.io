@@ -5,6 +5,8 @@ description: Audi Q4 e-tron have some windows options
 weight: 5
 ---
 
+The standard front window have
+
 ## Privacy glass
 
 You can order privacy glass with option id **QL5**. This gives the car a more exclusive look
@@ -15,9 +17,9 @@ in the luggage room.
 
 ![Privacy windows](paint_typhoongrey_2.jpg "Privacy windows on a Audi Q4 e-tron with Typhoon color" )
 
-## Heated and acoustig front window
+## Heated and acoustic front window
 
-As an option you can order heated front window with acousting glass. 
+As an option you can order heated front window with acoustic glass. 
 
 This has optionId **4GW**
 
