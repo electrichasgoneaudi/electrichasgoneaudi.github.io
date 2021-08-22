@@ -116,7 +116,7 @@ WORK IN PROGRESS
 
 | Title | Description | ID |
 |-----|------|------|
-| Panoramic roof |  | 3FU |
+| [Panoramic roof](/models/q4-e-tron/exterior/panoramicroof/) |  | 3FU |
 | Rails aluminium | Not sportback | 3S1 |
 | Rails black | Not sportback | 3S2 |
 
