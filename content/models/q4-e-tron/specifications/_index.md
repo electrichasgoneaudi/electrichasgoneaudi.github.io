@@ -32,7 +32,7 @@ weight: 2
 | WLTP combined consumption with charging loss top trim | 19.1 kWh/100km |
 | Unladen weight without drive min trim    | 1965 kg       |
 | Carge space | 520 l |
-| Cargo space seat down | 1725 l |
+| Cargo space seat down | 1490 l |
 | Max trailer weight | 1000 kg |
 | Max trailer nose weight | 75kg |
 | Max roof weight | 75 kg |
@@ -66,7 +66,7 @@ weight: 2
 | WLTP combined consumption with charging loss top trim | 20.0 kWh/100km |
 | Unladen weight without drive min trim    | 1940 kg       |
 | Carge space | 520 l |
-| Cargo space seat down | 1725 l |
+| Cargo space seat down | 1490 l |
 | Max trailer weight | 1000 kg |
 | Max trailer nose weight | 75kg |
 | Max roof weight | 75 kg |
@@ -168,8 +168,8 @@ weight: 2
 | WLTP combined consumption top trim    | 16.45 kWh/100km        |
 | WLTP combined consumption with charging loss top trim | 18.7 kWh/100km |
 | Unladen weight without drive min trim    | 1965 kg       |
-| Carge space | 520 l |
-| Cargo space seat down | 1725 l |
+| Carge space | 535 l |
+| Cargo space seat down | 1490 l |
 | Max trailer weight | 1000 kg |
 | Max trailer nose weight | 75kg |
 | Max roof weight | 75 kg |
@@ -203,7 +203,7 @@ weight: 2
 | WLTP combined consumption with charging loss top trim | 19.6 kWh/100km |
 | Unladen weight without drive min trim    | 1940 kg       |
 | Carge space | 520 l |
-| Cargo space seat down | 1725 l |
+| Cargo space seat down | 1490 l |
 | Max trailer weight | 1000 kg |
 | Max trailer nose weight | 75kg |
 | Max roof weight | 75 kg |

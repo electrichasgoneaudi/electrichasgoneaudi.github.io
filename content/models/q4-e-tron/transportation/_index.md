@@ -67,7 +67,7 @@ You can store up to 75kg on the roof. On the SUV version you have rails so you c
     <figcaption><h4>Audi Q4 e-tron with packline roof box</h4></figcaption>
 </figure>
 
-## Trailer
+## Towing capacity
 
 Audi Q4 e-tron can drag trailers up to 1200kg with Audi Q4 e-tron 45/50 Quattro and 1000kg Audi Q4 e-tron 40.
 The towing hitch has option id **1M6**.  An optional towing hitch prepartion has option id **1D7**
