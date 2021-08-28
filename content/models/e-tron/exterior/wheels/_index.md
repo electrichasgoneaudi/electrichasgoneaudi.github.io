@@ -46,12 +46,11 @@ Part No: F08 255/50 R 20 Tires
 
 ## 20-inch 9J 5-twin arm edge design
 
-Audi sport wheels
+Audi sport wheels. Part No: **CN7**
 
 ![20-inch 9J 5-twin arm edge design](wheel_CN7_1.jpg "20-inch 9J 5-twin arm edge design")
 
 ![20-inch 9J 5-twin arm edge design](wheel_CN7_2.jpg "20-inch 9J 5-twin arm edge design")
-
 
 ## 20-inch MT Galvani
 
@@ -70,6 +69,11 @@ Sold as winter tires by Audi Norway. Part No: **CA0**
 
 ![20-inch 10J 5V design wheels for e-tron S](wheel_CA0_1.jpg "20-inch 10J 5V design wheels for e-tron S")
 
+## 21" 10-arm Lamina design
+
+ 9 J x 21 med 255/50 R 21 tires. Sold as winter wheels.
+
+ ![21 inch 10-arm lamina design](wheel_LAMINA21_1.jpg "21 inch 10-arm lamina design")
 
 ## 21 inch 15 arm design
 
@@ -80,15 +84,15 @@ Wheels for Audi e-tron. Part No F49. Tires 265/45 R21
 ![21 inch 15 arm design](wheel_F49_2.jpg "21 inch 15 arm design")
 
 
-## 21 inch 5 Arm Turbing design
+## 21 inch 5 Arm Turbin design
 
 Wheels for Audi e-tron. Part No F48. Tires 265/45 R21
 
-![21 inch 5 Arm Turbing design](wheel_F48_1.jpg "21 inch 5 Arm Turbing design")
+![21 inch 5 Arm Turbin design](wheel_F48_1.jpg "21 inch 5 Arm Turbin design")
 
-![21 inch 5 Arm Turbing design](wheel_F48_2.jpg "21 inch 5 Arm Turbing design")
+![21 inch 5 Arm Turbin design](wheel_F48_2.jpg "21 inch 5 Arm Turbin design")
 
-![21 inch 5 Arm Turbing design](wheel_F48_3.jpg "21 inch 5 Arm Turbing design")
+![21 inch 5 Arm Turbin design](wheel_F48_3.jpg "21 inch 5 Arm Turbin design")
 
 ## 21 inch 5V Arm design
 
@@ -150,3 +154,11 @@ Audi sport wheels for e-tron 60S. Dimensjon 10,5 J x 22 with 285/35 R 22 tires. 
 ![22  5-arms interferenz-design](wheel_V40_1.jpg "22 inch 5-arms interferenz-design")
 
 ![22  5-arms interferenz-design](wheel_V40_2.jpg "22 inch 5-arms interferenz-design")
+
+
+## Inflatable spare wheel
+
+As an option to e-tron you can get an inflatable spare wheels. Option ID **3F1**
+This has a required combination of jack with option id **1S1**
+
+![Spare wheel](sparewheel.jpg "Spare wheel")

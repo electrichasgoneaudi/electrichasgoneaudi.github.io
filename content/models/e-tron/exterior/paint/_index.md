@@ -66,6 +66,8 @@ The footage shows driving shots as well as stills of the Audi e-tron S Sportback
 
 ### Plasma Blue
 
+Color Code: **3D**
+
 ![Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color](paint_plasmablue_1.jpg "Audi e-tron 55 S-line Sportback inPlasma Blue with contrast color")
 
 ![Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color](paint_plasmablue_2.jpg "Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color")
@@ -84,7 +86,7 @@ Color Code: **L5**
 
 ### Chronos Grey
 
-Color Code: **??**
+Color Code: **Z7**
 
 ![Audi e-tron 55 in Siam Beige](paint_chronosgrey_1.jpg "Audi e-tron 55 in Chronos Grey with black optics")
 
@@ -131,6 +133,8 @@ Color Code: **S1**
 ![Audi e-tron 55 in Galaxy Blue](paint_galaxyblue_1.jpg "Audi e-tron 55 in Galaxy Blue")
 
 ### Antigua Blue
+
+Color Code: **??**
 
 ![Audi e-tron 55 in Antigua Blue with contrast color](paint_antiguablue_1.jpg "Audi e-tron 55 in Antigua Blue with contrast color")
 
