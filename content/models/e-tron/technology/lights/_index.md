@@ -41,4 +41,14 @@ The optionID is **PXC** for Digital matrix LED Headlights.
 
 <script src="https://www.audimedia.tv/embed.js" id="amc-video-5298-en"></script>
 
+## Entry Lights
+
+You can order e-tron entry lights option id **9TF**
+
+![Entry lights](entry.jpg "Entry lights")
+
+
 {{% children description="true" depth="1" %}}
+
+
+

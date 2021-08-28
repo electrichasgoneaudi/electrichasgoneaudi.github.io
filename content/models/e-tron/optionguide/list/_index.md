@@ -69,10 +69,33 @@ WORK IN PROGRESS
 
 | Title | Description | ID |
 |-----|------|------|
-| Comfort precondition |  | GA2 |
-| 
+| [Comfort precondition](/models/e-tron/technology/climatecontrol/#auxiliary-air-conditioner-with-extra-convenience) |  | GA2 |
+| Clip for compact CMS |  | NJ2 |
+| [Extra Charge port](/models/e-tron/technology/onboardcharger/#optional-charge-port) |  | JS1 |
+| [Charging system compact](/models/e-tron/technology/chargingsystem/#e-tron-charging-system-compact) |  | NW2 |
+| [Charging system connect](/models/e-tron/technology/chargingsystem/#e-tron-charging-system-connect) |  | NW2 |
+| [22 KW charger](/models/e-tron/technology/onboardcharger/#optional-22kw-charger) |  | KB4 |
+| Charging system 400V 11KW plug |  | 73P|
+| Charging system  22 KW plug |  | 73Q |
+| Charging cable 7.5 m | | EH2 |
+
+## Equipment packages
+
+| Title | Description | ID |
+|-----|------|------|
 
 
 
+## Lights
+
+| Title | Description | ID |
+|-----|------|------|
+| [HD Matrix LED lights](/models/e-tron/technology/lights/#hd-matrix-led-headlights) |  | PX6 |
+| Head light washers | Standard | |
+| [Interior light](/models/e-tron/interior/ambientlights/#standard-interior-lights) |  | |
+| LED e-tron entry lights |  | 9TF |
+
+
+## Mirror and roof system
 
 {{% children description="true" depth="1" %}}
