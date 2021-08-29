@@ -5,7 +5,6 @@ description: Here you find the complete option list with link to details about e
 weight: 100
 ---
 
-
 WORK IN PROGRESS
 
 ## Paint Color & Paint trim
@@ -32,7 +31,6 @@ WORK IN PROGRESS
 |  [Contrast paint](/models/e-tron/exterior/paint/#contrast-paint)| In Manhatten Grey | 2KS |
 |  [Contrast paint for S-line](/models/e-tron/exterior/paint/#contrast-paint)| In Manhatten Grey | 2K8 |
 |  [Contrast paint for S](/models/e-tron/exterior/paint/#contrast-paint)| In Manhatten Grey | 2K9 |
-
 
 ## Wheels
 
@@ -109,7 +107,6 @@ WORK IN PROGRESS
 | [Virtual mirrors](/models/e-tron/exterior/mirrors/#virtual-mirrors) | | PAF |
 | [Panoramic roof](/models/e-tron/exterior/panoramicroof/) | | 3FU |
 
-
 ## Locking system
 
 | Title | Description | ID |
@@ -146,7 +143,6 @@ WORK IN PROGRESS
 | Chrome side list | window frame in Aluminum | 4ZB |
 | [Black optics](/models/e-tron/exterior/optics/) | | 4ZD |
 | [Black optics plus](/models/e-tron/exterior/optics/) |  |  | 
-
 
 ## Seat and leather interior
 
@@ -191,13 +187,12 @@ WORK IN PROGRESS
 | ISOFIX and Top Tether for the rear seat | Standard | |
 | ISOFIX front passenger seat | Standard |  |
 
-
 ## Interior design
 
 | Title | Description | ID |
 |-----|------|------|
-| Moon silver headliner |  |  |
-| Black headliner  |  |  6NQ | 
+| [Moon silver headliner](/models/e-tron/interior/headliner/) |  |  |
+| [Black headliner](/models/e-tron/interior/headliner/)  |  |  6NQ | 
 | [Grey inlay](/models/e-tron/interior/inlays/)  |  |  |
 | [Vulcano ash inlay](/models/e-tron/interior/inlays/) |  | 5MB | 
 | [Valnut inlay](/models/e-tron/interior/inlays/)  |  |  5MG |
@@ -205,31 +200,29 @@ WORK IN PROGRESS
 | [Carbon inlay](/models/e-tron/interior/inlays/)  |  | 5MK | 
 | [Ambient light package](/models/e-tron/interior/ambientlights/#ambient-light-package) | | QQ1 |
 | [Contour and ambient light](/models/e-tron/interior/ambientlights/#multicolor-contourambient-light-pack) |  | QQ2  |
-| Buttons in mat black |  |  |
-| Glass buttons |  | GS5 | 
+| [Buttons in mat black](/models/e-tron/interior/buttons/) |  |  |
+| [Glass buttons](/models/e-tron/interior/buttons/) |  | GS5 | 
 
 ## Steering wheels
 
 | Title | Description | ID |
 |-----|------|------|
-| Multifunction with paddles | Standard | |
-| Heated multifunction with paddles |  | 2ZM | 
-| Sport with paddles and heated |   | 1XP |
-| Sport with paddles  |  | 1XW |
-| Sport contour |  | 2PF | 
-| Electric adjustment | | 2C7 |
+| [Multifunction with paddles](/models/e-tron/interior/steeringwheels/) | Standard | |
+| [Heated multifunction with paddles](/models/e-tron/interior/steeringwheels/) |  | 2ZM | 
+| [Sport with paddles and heated](/models/e-tron/interior/steeringwheels/) |   | 1XP |
+| [Sport with paddles](/models/e-tron/interior/steeringwheels/)  |  | 1XW |
+| [Sport contour](/models/e-tron/interior/steeringwheels/) |  | 2PF | 
+| [Electric adjustment](/models/e-tron/interior/steeringwheels/#adjustment) | | 2C7 |
 
-
-## Climate 
-
+## Climate
 
 | Title | Description | ID |
 |-----|------|------|
 | [2-zone climate control](/models/e-tron/technology/climatecontrol/) | Standard |  |
 | [4-zone climate](/models/e-tron/technology/climatecontrol/#4-zone-electronic-climate-control) |  | 9AQ |
 | [Air Quality package](/models/e-tron/technology/airquality/) |  | 2V9 |
-| Parking climate | Standard |  |
-| Parking climate with extra comfort |  | GA2 |
+| [Parking climate](/models/e-tron/technology/climatecontrol/#auxiliary-air-conditioner) | Standard |  |
+| [Parking climate with extra comfort](/models/e-tron/technology/climatecontrol/#auxiliary-air-conditioner-with-extra-convenience) |  | GA2 |
 
 ## Other interior options
 
