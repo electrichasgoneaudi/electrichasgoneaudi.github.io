@@ -31,8 +31,24 @@ See below for Banana box test for e-tron and e-tron sportback.
 
 You can store up to 75kg on the roof.
 
+Both e-tron and e-tron Sportback models can be equipped with rails for easy mounting of roofbox.
+
+![Roofbox](roofbox1.jpg "Roof box mounted on rails")
+
 ## Trailer
 
-Audi e-tron can drag trailers up to 1800kg
+Audi e-tron can drag trailers up to 1800kg. You can expect the consumption to go up depending on size on trailer
+
+
+### Trailer example 1
+
+In this example the owner pulled a 1800kg trailer with boat. The consumption ended up on 52.5kWh/100km over a distance
+on 568.1km. This gives an theoretical range on 164km.
+
+In miles it is 1.9miles/kWh and range on 101.
+
+![Trailer example](trailerexample1b.jpg "1800kg trailer with boat")
+
+![Trailer example](trailerxample1a.jpg "Consumption")
 
 {{% children description="true" depth="1" %}}
