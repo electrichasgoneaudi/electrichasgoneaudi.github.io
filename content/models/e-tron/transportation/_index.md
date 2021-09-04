@@ -41,7 +41,7 @@ Options ID **3S1** for aluminum rails and **3S2** for black rails.
 
 ![Roofbox](roofbox1.jpg "Roof box mounted on rails")
 
-![handyman](handyman.jpg "Handyman with rails")
+![handyman](handymanrails.jpg "Handyman with rails")
 
 ## Trailer
 

@@ -104,6 +104,8 @@ WORK IN PROGRESS
 | [Mirrors, electric, retractable, curbautomatic, memory](/models/e-tron/exterior/mirrors/#functionality) | | 6XL |
 | [Mirror house in veichle paint](/models/e-tron/exterior/mirrors/#mirror-style) | Standard | |
 | [Mirror house in black](/models/e-tron/exterior/mirrors/#mirror-style) | | 6FJ |
+| [Mirror house in carbon](/models/e-tron/exterior/mirrors/#mirror-style) | | 6FQ |
+| [Mirror house in aluminium](/models/e-tron/exterior/mirrors/#mirror-style) | For e-tron S | |
 | [Virtual mirrors](/models/e-tron/exterior/mirrors/#virtual-mirrors) | | PAF |
 | [Panoramic roof](/models/e-tron/exterior/panoramicroof/) | | 3FU |
 
@@ -126,8 +128,8 @@ WORK IN PROGRESS
 |-----|------|------|
 | [Heat-absorbing glass](/models/e-tron/exterior/windows/) | Standard | |
 | [Windshield in acoustic glass](/models/e-tron/exterior/windows/) | Standard | |
-| [Acoustic glass on side windows](/models/e-tron/exterior/windows/)  |  | VW0 | 
-| [Privacy glass](/models/e-tron/exterior/windows/#privacy-glass) |  | QL5 | 
+| [Acoustic glass on side windows](/models/e-tron/exterior/windows/)  |  | VW0 |
+| [Privacy glass](/models/e-tron/exterior/windows/#privacy-glass) |  | QL5 |
 | Adaptive whipers | | 9PF |
 | [Manual curtain rear](/models/e-tron/interior/curtain/) | | 3Y4 |
 | Sunshades  | Retractable | 5XF |  
@@ -137,12 +139,12 @@ WORK IN PROGRESS
 | Title | Description | ID |
 |-----|------|------|
 | [Trailer hitch preparation](/models/e-tron/transportation/#trailer) | | 1D8 |
-| [Trailer hitch](/models/e-tron/transportation/#trailer) |  | 1D2 | 
-| Rails in aluminium |  | 3S1 |
-| Rails black |  | 3S2 | 
+| [Trailer hitch](/models/e-tron/transportation/#trailer) |  | 1D2 |
+| [Rails in aluminium](/models/e-tron/transportation/#roof-storage) |  | 3S1 |
+| [Rails black](/models/e-tron/transportation/#roof-storage) |  | 3S2 |
 | Chrome side list | window frame in Aluminum | 4ZB |
 | [Black optics](/models/e-tron/exterior/optics/) | | 4ZD |
-| [Black optics plus](/models/e-tron/exterior/optics/) |  |  | 
+| [Black optics plus](/models/e-tron/exterior/optics/) |  |  |
 
 ## Seat and leather interior
 
