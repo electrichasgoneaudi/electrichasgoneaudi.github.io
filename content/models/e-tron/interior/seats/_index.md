@@ -35,6 +35,11 @@ Electric adjustment of extending thigh support
 
 ![Seats control](seats_control_thighstretch.jpg)
 
+### Seat Heating
+
+For seat heating there are two options. Seat heating in fron with option id **4A3** and seat heating in front and rear with
+option id **4A4**
+
 ### Memory
 
 All seats with electric adjustment have memory for two seating position for driver. For passenger seats it is only available with combination 

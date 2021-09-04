@@ -14,7 +14,7 @@ WORK IN PROGRESS
 |  [Brilliant black](/models/e-tron/exterior/paint/#brilliant-black)   | Non metallic   |  A2   |
 |  [Catalunya red](/models/e-tron/exterior/paint/#catalunya-red)  | Metallic   |  Y6   |
 |  [Glacier White](/models/e-tron/exterior/paint/#glacier-white) | Metallic   |  2Y  |
-|  [Siam beige](/models/e-tron/exterior/paint/#siam-beige)
+|  [Siam beige](/models/e-tron/exterior/paint/#siam-beige) | Metallic | 0E |
 |  [Florett Silver](/models/e-tron/exterior/paint/#florett-silver) | Metallic   |  L5   |
 |  [Manhatten Grey](/models/e-tron/exterior/paint/#manhatten-grey) | Metallic | H1 |
 |  [Typhoon Grey](/models/e-tron/exterior/paint/#typhoon-grey) | Metallic | 2L |
@@ -116,8 +116,8 @@ WORK IN PROGRESS
 | [Advance Key with safelock](/models/e-tron/technology/lockingsystems/#advance-key-option-pgc) | | PG3 |
 | [Audi Connect Key](/models/e-tron/technology/lockingsystems/#audi-connect-key-2f1) | | 2F1 |
 | Automatic immobilizer | activates with key |  |
-| Electric rear | Electric opening and closing. Standard | |
-| Servo closing of doors | | GZ2 |
+| [Powered tailgate](/models/e-tron/exterior/doors/#powered-tailgate) | Electric opening and closing. Standard | |
+| [Servo closing of doors](/models/e-tron/exterior/doors/#servo-closing) | | GZ2 |
 | Garage port opener |  | VC2 |  
 
 ## Glass
@@ -159,9 +159,9 @@ WORK IN PROGRESS
 
 | Title | Description | ID |
 |-----|------|------|
-| Upper part of dashboard in leather | | 7HC |
-| Upper and lower part in leather |  | 7HD |
-| Lower part in artifical leather |  | 7HM |
+| [Upper part of dashboard in leather](/models/e-tron/interior/interiormaterials/#leather-on-dashboard-imitated-leather-on-doorscenterconsole) | | 7HC |
+|[Upper and lower part in leather](/models/e-tron/interior/interiormaterials/#full-leather-on-dashboard-door-and-lower-part-of-center-consol) |  | 7HD |
+| [Lower part in artifical leather](/models/e-tron/interior/interiormaterials/#imiated-leather-doors-and-center-consol) |  | 7HM |
 
 ## Seats
 
@@ -178,12 +178,12 @@ WORK IN PROGRESS
 | Height and length adjustable headrest |  | 5ZC |
 | Armrest | Standard | |
 | Comfort armrest |  | 6E3 |
-| Heated front seats |  | 4A3 |
-| Heated front and rear |  | 4A4 |
-| Ventilated seats | | 4D3 |
-| Ventilated and massage seats | | 4D8 |
-| 4-way lumbar support | | 7P1 |
-| Fold-down rear seat back | Standard | |
+| [Heated front seats](/models/e-tron/interior/seats/#seat-heating) |  | 4A3 |
+| [Heated front and rear seats](/models/e-tron/interior/seats/#seat-heating) |  | 4A4 |
+| [Ventilated seats](/models/e-tron/interior/seats/#ventilated-seats) | Only Individual Contour | 4D3 |
+| [Ventilated and massage seats](/models/e-tron/interior/seats/#massage) | Only Individual Contour | 4D8 |
+| [4-way lumbar support](/models/e-tron/interior/seats/#4-way-lumbar-support) | | 7P1 |
+| [Fold-down rear seat back](/models/e-tron/transportation/#trunk) | Standard | |
 | ISOFIX and Top Tether for the rear seat | Standard | |
 | ISOFIX front passenger seat | Standard |  |
 
@@ -258,7 +258,7 @@ aluminum field, without logo |  | VT3 |
 | Digital Radio |  | QV3 | 
 | Digital TV receiver |  |  QDB | 
 | Audi Phone Box |  | 9ZE | 
-| Audi Smartphone interface |  |  1U1 | 
+| [Audi Smartphone interface](/models/e-tron/technology/uiandoperations/smartphoneinterface/) |  |  1U1 | 
 | Bluetooth interface | Standard |  | 
 | Audi connect emergency call |   |  |
 
