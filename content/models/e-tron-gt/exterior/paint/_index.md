@@ -69,15 +69,41 @@ See video below from Auditography
 
 Color Code: **Y1**
 
-![Audi RS e-tron GT in Tango Red](paint_tangored_2.jpg "Audi e-tron GT in Tango Red")
+<figure>
+    <a href="paint_tangored_2.jpg">
+        <img src="paint_tangored_2s.jpg" alt="Audi e-tron GT in Tango Red" title="Audi e-tron GT in Tango Red">
+    </a>
+    <figcaption><h4>Audi e-tron GT in Tango Red</h4></figcaption>
+</figure>
 
-![Audi RS e-tron GT in Tango Red](paint_tangored_3.jpg "Audi e-tron GT in Tango Red")
+<figure>
+    <a href="paint_tangored_3.jpg">
+        <img src="paint_tangored_3s.jpg" alt="Audi e-tron GT in Tango Red" title="Audi e-tron GT in Tango Red">
+    </a>
+    <figcaption><h4>Audi e-tron GT in Tango Red</h4></figcaption>
+</figure>
 
-![Audi RS e-tron GT in Tango Red](paint_tangored_4.jpg "Audi e-tron GT in Tango Red")
+<figure>
+    <a href="paint_tangored_4.jpg">
+        <img src="paint_tangored_4s.jpg" alt="Audi e-tron GT in Tango Red" title="Audi e-tron GT in Tango Red">
+    </a>
+    <figcaption><h4>Audi e-tron GT in Tango Red</h4></figcaption>
+</figure>
 
-![Audi RS e-tron GT in Tango Red](paint_tangored_5.jpg "Audi e-tron GT in Tango Red")
+<figure>
+    <a href="paint_tangored_5.jpg">
+        <img src="paint_tangored_5s.jpg" alt="Audi e-tron GT in Tango Red" title="Audi e-tron GT in Tango Red">
+    </a>
+    <figcaption><h4>Audi e-tron GT in Tango Red</h4></figcaption>
+</figure>
 
-![Audi RS e-tron GT in Tango Red](paint_tangored_1.jpg "Audi RS e-tron GT in Tango Red")
+<figure>
+    <a href="paint_tangored_1.jpg">
+        <img src="paint_tangored_1s.jpg" alt="Audi RS e-tron GT in Tango Red" title="Audi RS e-tron GT in Tango Red">
+    </a>
+    <figcaption><h4>Audi RS e-tron GT in Tango Red</h4></figcaption>
+</figure>
+
 
 ### Ascari Blue
 
