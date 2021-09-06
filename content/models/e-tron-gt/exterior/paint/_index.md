@@ -4,7 +4,7 @@ linktitle: Paint
 description: Audi e-tron GT comes in different paint colors
 weight: 1
 ---
-
+<!-- markdownlint-disable MD033 -->
 
 ## Paint colors
 
@@ -14,13 +14,56 @@ The different standard colors are
 
 Color Code: **T9**
 
-![Audi RS e-tron GT in Ibis White](paint_ibis_1.jpg "Audi RS e-tron GT in Ibis White with carbon optics")
+<figure>
+    <a href="paint_ibis_1.jpg">
+        <img src="paint_ibis_1s.jpg" alt="Audi RS e-tron GT in Ibis White with carbon optics" title="Audi RS e-tron GT in Ibis White with carbon optics">
+    </a>
+    <figcaption><h4>Audi RS e-tron GT in Ibis White with carbon optics</h4></figcaption>
+</figure>
 
-![Audi RS e-tron GT in Ibis White](paint_ibis_2.jpg "Audi RS e-tron GT in Ibis White with carbon optics")
 
-![Audi RS e-tron GT in Ibis White](paint_ibis_3.jpg "Audi RS e-tron GT in Ibis White with carbon optics")
+<figure>
+    <a href="paint_ibis_2.jpg">
+        <img src="paint_ibis_2s.jpg" alt="Audi RS e-tron GT in Ibis White with carbon optics" title="Audi RS e-tron GT in Ibis White with carbon optics">
+    </a>
+    <figcaption><h4>Audi RS e-tron GT in Ibis White with carbon optics</h4></figcaption>
+</figure>
 
-![Audi RS e-tron GT in Ibis White](paint_ibis_4.jpg "Audi RS e-tron GT in Ibis White with carbon optics")
+
+<figure>
+    <a href="paint_ibis_3.jpg">
+        <img src="paint_ibis_3s.jpg" alt="Audi RS e-tron GT in Ibis White with carbon optics" title="Audi RS e-tron GT in Ibis White with carbon optics">
+    </a>
+    <figcaption><h4>Audi RS e-tron GT in Ibis White with carbon optics</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="paint_ibis_4.jpg">
+        <img src="paint_ibis_4s.jpg" alt="Audi RS e-tron GT in Ibis White with carbon optics" title="Audi RS e-tron GT in Ibis White with carbon optics">
+    </a>
+    <figcaption><h4>Audi RS e-tron GT in Ibis White with carbon optics</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="paint_ibis_5.jpg">
+        <img src="paint_ibis_5s.jpg" alt="Audi e-tron GT in Ibis White with black optics" title="Audi e-tron GT in Ibis White with black optics">
+    </a>
+    <figcaption><h4>Audi e-tron GT in Ibis White with black optics</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="paint_ibis_6.jpg">
+        <img src="paint_ibis_6s.jpg" alt="Audi e-tron GT in Ibis White with black optics" title="Audi e-tron GT in Ibis White with black optics">
+    </a>
+    <figcaption><h4>Audi e-tron GT in Ibis White with black optics</h4></figcaption>
+</figure>
+
+See video below from Auditography
+
+{{< youtube v_3eNEnW82k >}}
 
 ### Tango Red
 
