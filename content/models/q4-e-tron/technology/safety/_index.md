@@ -15,7 +15,7 @@ Audi Q4 e-tron has serveral airbags as standard.
 
 ### Head airbags
 
-Both front and rear are protect with head airbags. 
+Both front and rear are protect with head airbags.
 
 ![Front](sideairbags.jpg "Head airbags in front and rear")
 
@@ -32,8 +32,6 @@ included in the Audi Pre senmse backseat package **4X9**
 
 ![Side airbags rear](airbagssiderear.jpg "Air bag side rear is optinal. Only head airbags are stanard on e-tron")
 
-
-
 ## Seat belts
 
 Front seats belts have reversible belt tensioners at the front
@@ -48,9 +46,9 @@ after the belt buckle in the dark.
 
 ## Crash testing
 
-Audi e-tron has received full score on different crash testes. See below. 
+Audi Q4 e-tron has received full score on different crash testes. See below.
 
-### Euro NCAP Crash Test of Audi Q4 e-tron 2022
+### Euro NCAP Crash Test of Audi Q4 e-tron 2021
 
 {{< youtube 5H-6JjP2gAI >}}
 
