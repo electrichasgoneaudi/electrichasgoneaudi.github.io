@@ -2,3 +2,7 @@
 - id: menu-technology
   translation: Technology
 
+
+# Frontpage
+- id: guide-understanding-range
+  translation: Understanding range

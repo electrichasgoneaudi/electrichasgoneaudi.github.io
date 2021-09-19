@@ -193,10 +193,10 @@
                           </a>
                       </li>
                       <li class="a-dotted a-clickable a-list-hasRowLink">
-                          <a href="/guides/understandingrange/" class="a-list-rowLink">
+                          <a href="{{ with .Site.GetPage `/guides/understandingrange/`}}{{.URL}}{{end}}" class="a-list-rowLink">
                               <div class="row">
                                   <div class="col">
-                                      Understanding range
+                                    {{T "guide-understanding-range"}}
                                   </div>
                               </div>
                           </a>
