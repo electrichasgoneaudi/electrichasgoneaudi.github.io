@@ -18,6 +18,10 @@ and lower part of center consol are made of rubber/plastic.
 
 ![Standard Interior](standard_dash.jpg "Standard Dashboard with syntetic leather")
 
+![Standard Interior](standard_dash2.jpg "Standard Dashboard with syntetic leather")
+
+![Standard Interior](standard_dash3.jpg "Standard Dashboard with syntetic leather")
+
 ## Imiated leather doors and center consol
 
 On this option the dashboard is same as standard buth the armrest on doors and the lower part of center consol
@@ -38,6 +42,8 @@ In this option you get leather on upper part of dashboard, and imiated leather o
 ![Full leather](fullleather_6.jpg "Leather on upper part of dashboard")
 
 ![Full leather](fullleather_7.jpg "Leather on upper part of dashboard")
+
+![Full leather](fullleather_8.jpg "Leather on upper part of dashboard")
 
 OptionId **7HC**
 
