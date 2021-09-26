@@ -67,6 +67,6 @@ In miles it is 1.03miles/kWh and range on 89.
 
 ![Trailer example](trailerexample2b.jpg "1800kg trailer with boat")
 
-![Trailer example](trailerxample2a.jpg "Consumption")
+![Trailer example](trailerexample2a.jpg "Consumption")
 
 {{% children description="true" depth="1" %}}

@@ -145,10 +145,8 @@ La oss anta du har  en e-tron 55 med 86.5kWh tilgjengelig batteri og du har lade
 Hvos forbruket ditt har vært 25kWh/100 km på turene før, så vil rekkeviddeindikatoren, eller gjettometeret som mange kaller den, kalkulere at du har en rekkevidde på 346km. (86.5/25*100). Hvis ditt gjennomsnittlige forbruk er 20kWh/100km så vil den kalkulere en rekkevidde på 432km.
 Hvis du har hatt en rekkevidde på 30kWh/100 km den beregnede rekkevidden vil være 288km.
 
-Men dette er gjettninger basert på tidligere turer. Hvis man endrer kjørestil eller kjøreforholdene er annerledes (f.eks regn) så vil den beregnede rekkevidden bli feil. 
+Men dette er gjettninger basert på tidligere turer. Hvis man endrer kjørestil eller kjøreforholdene er annerledes (f.eks regn) så vil den beregnede rekkevidden bli feil.
 
-Hvis du har mange korte turer i kaldt vær, vil du bruke masse energy 
+Hvis du har mange korte turer i kaldt vær, vil du bruke relativt mye energi på å varme opp kupe som gir et høyt forbruk på turene. Men dette gjennomsnittlige forbruket er ikke relevant hvis du dagen etter tar en lang tur. Da vil bilen typisk undervurdere rekkevidden.
 
-If you have done many short trips in cold weather, you would have spent lots of energy to heat up the car. But this average consumption is not relevant if you the next day are taking a long drive. The car would then underestimate the range.
-
-If a route is defined in the car navigation system the car would adjust range based on elevation and road ahead.
+Hvis en rute er definert i navigasjonen så vil bilen justere for eventuelle stigninger/nedstigninger på veien.
