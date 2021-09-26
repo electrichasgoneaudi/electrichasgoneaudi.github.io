@@ -11,35 +11,85 @@ weight: 1
 
 On the basic trim the bumpers and wheel arches is not painted
 
-![Basic](basic1.jpg "Basic with non painted bumpers and wheel arches")
+<figure>
+    <a href="basic1.jpg">
+        <img src="basic1s.jpg" alt="Basic with non painted bumpers and wheel arches" title="Basic with non painted bumpers and wheel arches">
+    </a>
+    <figcaption><h4>Basic with non painted bumpers and wheel arches</h4></figcaption>
+</figure>
 
-![Basic](basic2.jpg "Basic with non painted bumpers and wheel arches")
+<figure>
+    <a href="basic2.jpg">
+        <img src="basic2s.jpg" alt="Basic with non painted bumpers and wheel arches" title="Basic with non painted bumpers and wheel arches">
+    </a>
+    <figcaption><h4>Basic with non painted bumpers and wheel arches</h4></figcaption>
+</figure>
 
-![Basic](basic3.jpg "Basic with non painted bumpers and wheel arches")
+<figure>
+    <a href="basic3.jpg">
+        <img src="basic3s.jpg" alt="Basic with non painted bumpers and wheel arches" title="Basic with non painted bumpers and wheel arches">
+    </a>
+    <figcaption><h4>Basic with non painted bumpers and wheel arches</h4></figcaption>
+</figure>
 
-![Basic](basic4.jpg "Basic with non painted bumpers and wheel arches")
+<figure>
+    <a href="basic4.jpg">
+        <img src="basic4s.jpg" alt="Basic with non painted bumpers and wheel arches" title="Basic with non painted bumpers and wheel arches">
+    </a>
+    <figcaption><h4>Basic with non painted bumpers and wheel arches</h4></figcaption>
+</figure>
 
 ### Contrast paint
 
 You can choose to get bumpers and wheel arches in contrast paint. This is option **2K5**
 The contrast color is manhatten gray on all options except glacier white and florett silver. On those it is typhoon gray.
 
-![Contrast](contrast1.jpg "Glachier white with contrast color")
+<figure>
+    <a href="contrast1.jpg">
+        <img src="contrast1s.jpg" alt="Glacier white with contrast colors" title="Glacier white with contrast color">
+    </a>
+    <figcaption><h4>Glacier white with contrast color</h4></figcaption>
+</figure>
 
-![contrast](contrast2.jpg "Glachier white with contrast color")
+<figure>
+    <a href="contrast2.jpg">
+        <img src="contrast2s.jpg" alt="Glacier white with contrast colors" title="Glacier white with contrast color">
+    </a>
+    <figcaption><h4>Glacier white with contrast color</h4></figcaption>
+</figure>
 
-![contrast](contrast3.jpg "Glachier white with contrast color")
+<figure>
+    <a href="contrast3.jpg">
+        <img src="contrast3s.jpg" alt="Glacier white with contrast colors" title="Glacier white with contrast color">
+    </a>
+    <figcaption><h4>Glacier white with contrast color</h4></figcaption>
+</figure>
 
 ### Full body paint
 
 You can also choose full body paint so bumpers and wheel archers are painted in body color.
 This has option **VJ1** and is standard on S-line and S exterior trim.
 
-![full body](fullbodycolor.jpg "Glachier white with full body color")
+<figure>
+    <a href="fullbodycolor.jpg">
+        <img src="fullbodycolors.jpg" alt="Glacier white with full body color" title="Glacier white with full body color">
+    </a>
+    <figcaption><h4>Glacier white with full body color</h4></figcaption>
+</figure>
 
-![full body](fullbodycolor2.jpg "Glachier white with full body color")
+<figure>
+    <a href="fullbodycolor2.jpg">
+        <img src="fullbodycolor2s.jpg" alt="Glacier white with full body color" title="Glacier white with full body color">
+    </a>
+    <figcaption><h4>Glacier white with full body color</h4></figcaption>
+</figure>
 
-![full body](fullbodycolor3.jpg "Glachier white with full body color")
+<figure>
+    <a href="fullbodycolor3.jpg">
+        <img src="fullbodycolor3s.jpg" alt="Glacier white with full body color" title="Glacier white with full body color">
+    </a>
+    <figcaption><h4>Glacier white with full body color</h4></figcaption>
+</figure>
 
 ## Standard Paint colors
 
@@ -49,17 +99,37 @@ The different standard colors are
 
 Color Code: **2Y**
 
-![Audi e-tron](paint_glacierwhite_1.jpg "Audi e-tron 55 in glacier whit with contrast color")
+<figure>
+    <a href="paint_glacierwhite_1.jpg">
+        <img src="paint_glacierwhite_1s.jpg" alt="Audi e-tron 55 in glacier white with contrast color" title="Audi e-tron 55 in glacier white with contrast color">
+    </a>
+    <figcaption><h4>Audi e-tron 55 in glacier white with contrast color</h4></figcaption>
+</figure>
 
-![Audi e-tron](paint_glacierwhite_2.jpg "Audi e-tron 55 in glacier whit with black optics")
+<figure>
+    <a href="paint_glacierwhite_2.jpg">
+        <img src="paint_glacierwhite_2s.jpg" alt="Audi e-tron 55 in glacier white with black optics" title="Audi e-tron 55 in glacier white with black optics">
+    </a>
+    <figcaption><h4>Audi e-tron 55 in glacier white with black optics</h4></figcaption>
+</figure>
 
 ### Catalunya Red
 
 Color Code: **Y6**
 
-![Audi e-tron 55 S-line Sportback in Catalunya Red with black optics](paint_catalunyared_1.jpg "Audi e-tron 55 S-line Sportback in Catalunya Red with black optics")
+<figure>
+    <a href="paint_catalunyared_1.jpg">
+        <img src="paint_catalunyared_1s.jpg" alt="Audi e-tron 55 S-line Sportback in Catalunya Red with black optics" title="Audi e-tron 55 S-line Sportback in Catalunya Red with black optics">
+    </a>
+    <figcaption><h4>Audi e-tron 55 S-line Sportback in Catalunya Red with black optics</h4></figcaption>
+</figure>
 
-![Audi e-tron 55 S-line Sportback in Catalunya Red with black optics](paint_catalunyared_2.jpg "Audi e-tron 55 S-line Sportback in Catalunya Red with black optics")
+<figure>
+    <a href="paint_catalunyared_2.jpg">
+        <img src="paint_catalunyared_2s.jpg" alt="Audi e-tron 55 S-line Sportback in Catalunya Red with black optics" title="Audi e-tron 55 S-line Sportback in Catalunya Red with black optics">
+    </a>
+    <figcaption><h4>Audi e-tron 55 S-line Sportback in Catalunya Red with black optics</h4></figcaption>
+</figure>
 
 The footage shows driving shots as well as stills of the Audi e-tron S Sportback in the color catalunya red.
 {{< youtube NWJF6w1qECo >}}
