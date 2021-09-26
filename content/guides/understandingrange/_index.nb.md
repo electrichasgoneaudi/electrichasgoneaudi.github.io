@@ -126,27 +126,28 @@ Audier å lære av tidligere kjøreturer for å beregne rekkevidden.
 
 Dette skaper en rekke spørsmål fra eiere om rekkevidden siden mange opplever at rekkevidden varierer på et litt ladenivå.
 
-Nedenfor ser dere eksempler på slike spørsmål fra Facebook grupper. 
+Nedenfor ser dere eksempler på slike spørsmål fra Facebook grupper.
 
-![Facebook questions](facebook.png "Questions from owners about range indication")
+![Facebook questions](facebookno.png "Spørsmål fra eiere basert på rekkeviddeindikator")
 
-So how does the range indicator works? 
+Så hvordan virker rekkeviddeindikatoren?
 
-The range indicator  base its range on the following data
+Rekkeviddeindikatoren baserer beregning av rekkevidde på følgende data.
 
-- Average consumption on the latest trips
-- The state of charge (of much is the battery charged)
-- The planned route in the navigation system
+- Gjennomsnittlig forbruk på de siste turen
+- Hvor mye batteriet er ladet.
+- Planlagt rute i navigasjonssystemet.
 
-![Range indicator](virtualcockpit.png "Virtual cockpit with range indicator")
+![Range indicator](virtualcockpit.png "Virtual cockpit med rekkeviddeindikator")
 
-So assume you have an e-tron 55 with 86.5kWh battery and you have charged it to 100%.
+La oss anta du har  en e-tron 55 med 86.5kWh tilgjengelig batteri og du har ladet til 100%.
 
-If your average consumption was 25kWh/100 on the previous trips, the range indicator, or GOM (guessometer) that many calls it
-would calculate you would have a range on 346km.  If your average consumption was 20kWh/100km it would calculate 432km. And if you are one that likes speed and had an average of 30kWh/100 km your
-calculated range would be 288km.
+Hvos forbruket ditt har vært 25kWh/100 km på turene før, så vil rekkeviddeindikatoren, eller gjettometeret som mange kaller den, kalkulere at du har en rekkevidde på 346km. (86.5/25*100). Hvis ditt gjennomsnittlige forbruk er 20kWh/100km så vil den kalkulere en rekkevidde på 432km.
+Hvis du har hatt en rekkevidde på 30kWh/100 km den beregnede rekkevidden vil være 288km.
 
-But this is the best guess based on previous trips. If you change behavior on the next trip, the range calculated would be wrong.
+Men dette er gjettninger basert på tidligere turer. Hvis man endrer kjørestil eller kjøreforholdene er annerledes (f.eks regn) så vil den beregnede rekkevidden bli feil. 
+
+Hvis du har mange korte turer i kaldt vær, vil du bruke masse energy 
 
 If you have done many short trips in cold weather, you would have spent lots of energy to heat up the car. But this average consumption is not relevant if you the next day are taking a long drive. The car would then underestimate the range.
 
