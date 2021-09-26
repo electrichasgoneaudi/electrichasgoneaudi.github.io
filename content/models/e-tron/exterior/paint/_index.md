@@ -261,11 +261,18 @@ The footage shows driving shots as well as stills of the Audi e-tron S Sportback
 
 Color Code: **2D**
 
-![Audi e-tron 60S  Sportback in Navarra Blue with contrast color](paint_navarrablue_1.jpg "Audi e-tron 60S  Sportback in Navarra Blue with contrast color")
+<figure>
+    <a href="paint_navarrablue_1.jpg">
+        <img src="paint_navarrablue_1s.jpg" alt="Audi e-tron 60S  Sportback in Navarra Blue with contrast color" title="Audi e-tron 60S  Sportback in Navarra Blue with contrast color">
+    </a>
+    <figcaption><h4>Audi e-tron 60S  Sportback in Navarra Blue with contrast color</h4></figcaption>
+</figure>
 
 The footage shows driving shots as well as stills of the Audi e-tron S Sportback in the color navarra blue.
 
 {{< youtube AxA08viUctY >}}
+
+<br />
 
 {{< youtube F0S9oqMKB9U >}}
 
@@ -273,25 +280,56 @@ The footage shows driving shots as well as stills of the Audi e-tron S Sportback
 
 Color Code: **S1**
 
-![Audi e-tron 55 in Galaxy Blue](paint_galaxyblue_1.jpg "Audi e-tron 55 in Galaxy Blue")
+<figure>
+    <a href="paint_galaxyblue_1.jpg">
+        <img src="paint_galaxyblue_1s.jpg" alt="Audi e-tron 55 in Galaxy Blue" title="Audi e-tron 55 in Galaxy Blue">
+    </a>
+    <figcaption><h4>Audi e-tron 55 in Galaxy Blue</h4></figcaption>
+</figure>
 
 ### Antigua Blue
 
 Color Code: **??**
 
-![Audi e-tron 55 in Antigua Blue with contrast color](paint_antiguablue_1.jpg "Audi e-tron 55 in Antigua Blue with contrast color")
+<figure>
+    <a href="paint_antiguablue_1.jpg">
+        <img src="paint_antiguablue_1s.jpg" alt="Audi e-tron 55 in Antigua Blue with contrast color" title="Audi e-tron 55 in Antigua Blue with contrast color">
+    </a>
+    <figcaption><h4>Audi e-tron 55 in Antigua Blue with contrast color</h4></figcaption>
+</figure>
 
-![Audi e-tron 55 in Antigua Blue with contrast color](paint_antiguablue_2.jpg "Audi e-tron 55 S-line in Antigua Blue with black optics")
+<figure>
+    <a href="paint_antiguablue_2.jpg">
+        <img src="paint_antiguablue_2s.jpg" alt="Audi e-tron 55 S-line in Antigua Blue with black optics" title="Audi e-tron 55 S-line in Antigua Blue with black optics">
+    </a>
+    <figcaption><h4>Audi e-tron 55 S-line in Antigua Blue with black optics</h4></figcaption>
+</figure>
 
 ### Siam Beige
 
 Color Code: **OE**
 
-![Audi e-tron 55 in Siam Beige](paint_siambeige_3.jpg "Audi e-tron 55 in Siam Beige with black optics")
+<figure>
+    <a href="paint_siambeige_3.jpg">
+        <img src="paint_siambeige_3s.jpg" alt="Audi e-tron 55 in Siam Beige with black optics" title="Audi e-tron 55 in Siam Beige with black optics">
+    </a>
+    <figcaption><h4>Audi e-tron 55 in Siam Beige with black optics</h4></figcaption>
+</figure>
 
-![Audi e-tron 55 in Siam Beige](paint_siambeige_1.jpg "Audi e-tron 55 in Siam Beige with black optics and contrast color")
+<figure>
+    <a href="paint_siambeige_1.jpg">
+        <img src="paint_siambeige_1s.jpg" alt="Audi e-tron 55 in Siam Beige with black optics and contrast color" title="Audi e-tron 55 in Siam Beige with black optics and contrast color">
+    </a>
+    <figcaption><h4>Audi e-tron 55 in Siam Beige with black optics and contrast color</h4></figcaption>
+</figure>
 
-![Audi e-tron 55 in Siam Beige](paint_siambeige_2.jpg "Audi e-tron 55 in Siam Beige with black optics and contrast color")
+<figure>
+    <a href="paint_siambeige_2.jpg">
+        <img src="paint_siambeige_2s.jpg" alt="Audi e-tron 55 in Siam Beige with black optics and contrast color" title="Audi e-tron 55 in Siam Beige with black optics and contrast color">
+    </a>
+    <figcaption><h4>Audi e-tron 55 in Siam Beige with black optics and contrast color</h4></figcaption>
+</figure>
+
 
 ### Manhatten Grey
 
