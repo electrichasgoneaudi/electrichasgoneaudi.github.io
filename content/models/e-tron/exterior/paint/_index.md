@@ -193,14 +193,6 @@ Below you see some of the colors you can choose from.
     <figcaption><h4>Crystal effect paint finishes</h4></figcaption>
 </figure>
 
-
-<figure>
-    <a href="paint_exclusive_overview2.jpg">
-        <img src="paint_exclusive_overview2s.jpg" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
-    </a>
-    <figcaption><h4>Crystal effect paint finishes</h4></figcaption>
-</figure>
-
 <figure>
     <a href="paint_exclusive_overview3.jpg">
         <img src="paint_exclusive_overview3s.jpg" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
@@ -224,7 +216,7 @@ Below you see some of the colors you can choose from.
 
 ### Sonoma Green
 
-Color Code: **LX6R**
+Color Code: **X6R**
 
 <figure>
     <a href="paint_sonomagreen_1.jpg">
