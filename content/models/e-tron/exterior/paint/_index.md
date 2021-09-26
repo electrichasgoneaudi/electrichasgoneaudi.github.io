@@ -138,47 +138,120 @@ The footage shows driving shots as well as stills of the Audi e-tron S Sportback
 
 Color Code: **3D**
 
-![Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color](paint_plasmablue_1.jpg "Audi e-tron 55 S-line Sportback inPlasma Blue with contrast color")
+<figure>
+    <a href="paint_plasmablue_1.jpg">
+        <img src="paint_plasmablue_1s.jpg" alt="Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color" title="Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color">
+    </a>
+    <figcaption><h4>Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color</h4></figcaption>
+</figure>
 
-![Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color](paint_plasmablue_2.jpg "Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color")
+<figure>
+    <a href="paint_plasmablue_2.jpg">
+        <img src="paint_plasmablue_2s.jpg" alt="Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color" title="Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color">
+    </a>
+    <figcaption><h4>Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color</h4></figcaption>
+</figure>
 
-![Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color](paint_plasmablue_3.jpg "Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color")
+<figure>
+    <a href="paint_plasmablue_3.jpg">
+        <img src="paint_plasmablue_3s.jpg" alt="Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color" title="Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color">
+    </a>
+    <figcaption><h4>Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color</h4></figcaption>
+</figure>
 
 ### Florett Silver
 
 Color Code: **L5**
 
-![Audi e-tron 55 S-line Sportback in Florett Silver with contrast color](paint_florettsilver_1.jpg "Audi e-tron 55 S-line Sportback in Florett Silver with contrast color")
+<figure>
+    <a href="paint_florettsilver_1.jpg">
+        <img src="paint_florettsilver_1s.jpg" alt="Audi e-tron 55 S-line Sportback in Florett Silver with contrast color" title="Audi e-tron 55 S-line Sportback in Florett Silver with contrast color">
+    </a>
+    <figcaption><h4>Audi e-tron 55 S-line Sportback in Florett Silver with contrast color</h4></figcaption>
+</figure>
 
-![Audi e-tron 55 S-line Sportback in Florett Silver with contrast color](paint_florettsilver_2.jpg "Audi e-tron 55 S-line Sportback in Florett Silver with contrast color")
+<figure>
+    <a href="paint_florettsilver_2.jpg">
+        <img src="paint_florettsilver_2s.jpg" alt="Audi e-tron 55 S-line Sportback in Florett Silver with contrast color" title="Audi e-tron 55 S-line Sportback in Florett Silver with contrast color">
+    </a>
+    <figcaption><h4>Audi e-tron 55 S-line Sportback in Florett Silver with contrast color</h4></figcaption>
+</figure>
 
-![Audi e-tron 55 S-line Sportback in Florett Silver with contrast color](paint_florettsilver_3.jpg "Audi e-tron 55 S-line Sportback in Florett Silver with contrast color")
+<figure>
+    <a href="paint_florettsilver_3.jpg">
+        <img src="paint_florettsilver_3s.jpg" alt="Audi e-tron 55 S-line Sportback in Florett Silver with contrast color" title="Audi e-tron 55 S-line Sportback in Florett Silver with contrast color">
+    </a>
+    <figcaption><h4>Audi e-tron 55 S-line Sportback in Florett Silver with contrast color</h4></figcaption>
+</figure>
 
 ### Chronos Grey
 
 Color Code: **Z7**
 
-![Audi e-tron 55 in Siam Beige](paint_chronosgrey_1.jpg "Audi e-tron 55 in Chronos Grey with black optics")
-
-![Audi e-tron 55 in Siam Beige](paint_chronosgrey_2.jpg "Audi e-tron Sportback 55 in Chronos Grey with black optics")
+<figure>
+    <a href="paint_chronosgrey_1.jpg">
+        <img src="paint_chronosgrey_1s.jpg" alt="Audi e-tron 55 in Chronos Grey with black optics" title="Audi e-tron 55 in Chronos Grey with black optics">
+    </a>
+    <figcaption><h4>Audi e-tron 55 in Chronos Grey with black optics</h4></figcaption>
+</figure>
+<figure>
+    <a href="paint_chronosgrey_2.jpg">
+        <img src="paint_chronosgrey_2s.jpg" alt="Audi e-tron Sportback 55 in Chronos Grey with black optics" title="Audi e-tron Sportback 55 in Chronos Grey with black optics">
+    </a>
+    <figcaption><h4>Audi e-tron Sportback 55 in Chronos Grey with black optics</h4></figcaption>
+</figure>
 
 ### Typhoon Grey
 
 Color Code: **2L**
 
-![Audi e-tron 55 in Siam Beige](paint_typhoongrey_1.jpg "Audi e-tron 55 in Typhoon Grey with black optics")
+<figure>
+    <a href="paint_typhoongrey_1.jpg">
+        <img src="paint_typhoongrey_1s.jpg" alt="Audi e-tron 55 in Typhoon Grey with black optics" title="Audi e-tron 55 in Typhoon Grey with black optics">
+    </a>
+    <figcaption><h4>Audi e-tron 55 in Typhoon Grey with black optics</h4></figcaption>
+</figure>
 
-![Audi e-tron 55 in Siam Beige](paint_typhoongrey_2.jpg "Audi e-tron 55 in Typhoon Grey with black optics")
+<figure>
+    <a href="paint_typhoongrey_2.jpg">
+        <img src="paint_typhoongrey_2s.jpg" alt="Audi e-tron 55 in Typhoon Grey with black optics" title="Audi e-tron 55 in Typhoon Grey with black optics">
+    </a>
+    <figcaption><h4>Audi e-tron 55 in Typhoon Grey with black optics</h4></figcaption>
+</figure>
 
 ### Daytona Grey
 
+Only available on S-line and e-tron S.
+
 Color Code: **6Y**
 
-![Audi e-tron 60S Sportback in Daytona Grey](paint_daytona_1.jpg "Audi e-tron 60S  Sportback in Daytona Grey")
+<figure>
+    <a href="paint_daytona_1.jpg">
+        <img src="paint_daytona_1s.jpg" alt="Audi e-tron 60S Sportback in Daytona Grey" title="Audi e-tron 60S Sportback in Daytona Grey">
+    </a>
+    <figcaption><h4>Audi e-tron 60S Sportback in Daytona Grey</h4></figcaption>
+</figure>
 
-![Audi e-tron 55 Sportback in Daytona Grey](paint_daytona_2.jpg "Audi e-tron 55 Sportback in Daytona Grey")
+<figure>
+    <a href="paint_daytona_2.jpg">
+        <img src="paint_daytona_2s.jpg" alt="Audi e-tron 55 Sportback in Daytona Grey" title="Audi e-tron 55 Sportback in Daytona Grey">
+    </a>
+    <figcaption><h4>Audi e-tron 55 Sportback in Daytona Grey</h4></figcaption>
+</figure>
 
-![Audi e-tron 55 Sportback in Daytona Grey](paint_daytona_3.jpg "Audi e-tron 55 Sportback in Daytona Grey with black optics")
+<figure>
+    <a href="paint_daytona_3.jpg">
+        <img src="paint_daytona_3s.jpg" alt="Audi e-tron 55 Sportback in Daytona Grey with black optics" title="Audi e-tron 55 Sportback in Daytona Grey with black optics">
+    </a>
+    <figcaption><h4>Audi e-tron 55 Sportback in Daytona Grey with black optics</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_daytona_4.jpg">
+        <img src="paint_daytona_4s.jpg" alt="Audi e-tron 55 S-line in Daytona Grey with black optics" title="Audi e-tron 55 S-line in Daytona Grey with black optics">
+    </a>
+    <figcaption><h4>Audi e-tron 55 S-line in Daytona Grey with black optics</h4></figcaption>
+</figure>
 
 The footage shows driving shots as well as stills of the Audi e-tron S Sportback in the color daytona grey.
 
