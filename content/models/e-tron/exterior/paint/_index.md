@@ -236,19 +236,26 @@ Color Code: **6Y**
     <a href="paint_daytona_2.jpg">
         <img src="paint_daytona_2s.jpg" alt="Audi e-tron 55 Sportback in Daytona Grey" title="Audi e-tron 55 Sportback in Daytona Grey">
     </a>
-    <figcaption><h4>Audi e-tron 55 Sportback in Daytona Grey</h4></figcaption>
+    <figcaption><h4>Audi e-tron 55 Sportback S-Line in Daytona Grey</h4></figcaption>
 </figure>
 
 <figure>
     <a href="paint_daytona_3.jpg">
         <img src="paint_daytona_3s.jpg" alt="Audi e-tron 55 Sportback in Daytona Grey with black optics" title="Audi e-tron 55 Sportback in Daytona Grey with black optics">
     </a>
-    <figcaption><h4>Audi e-tron 55 Sportback in Daytona Grey with black optics</h4></figcaption>
+    <figcaption><h4>Audi e-tron 55 Sportback  S-Line in Daytona Grey with black optics</h4></figcaption>
 </figure>
 
 <figure>
     <a href="paint_daytona_4.jpg">
         <img src="paint_daytona_4s.jpg" alt="Audi e-tron 55 S-line in Daytona Grey with black optics" title="Audi e-tron 55 S-line in Daytona Grey with black optics">
+    </a>
+    <figcaption><h4>Audi e-tron 55 S-line in Daytona Grey with black optics</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_daytona_5.jpg">
+        <img src="paint_daytona_5s.jpg" alt="Audi e-tron 55 S-line in Daytona Grey with black optics" title="Audi e-tron 55 S-line in Daytona Grey with black optics">
     </a>
     <figcaption><h4>Audi e-tron 55 S-line in Daytona Grey with black optics</h4></figcaption>
 </figure>
