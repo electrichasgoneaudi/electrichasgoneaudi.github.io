@@ -69,61 +69,64 @@ dette drivverket vil ha en forbedret effektivitet.
 
 ![PPE Drivetrain](../../../technology/bev-platforms/ppe/ppepresentation2.png "PPE Drivetrain")
 
-### The internal resistance of the battery
+### Indre motstand i batteri
 
-The internal resistance in the battery causes heat loss in the battery.
+Indre motstand i batteri gir varmetap i batteri og reduserer mengden energi man kan trekke fra batteriet.
 
-### Factors vary based on selected options
+### Egenskaper som endres grunnet valg av ekstrautstyr
 
-Many of the above factors are fixed. Like the e-tron Sportback has less drag than the e-tron SUV because of the body shape.
+Mange av de nevnte faktorene er faste. Som at e-tron Sportback har mindre luftmotstand en e-tron SUV pga av formen på karoseriet. 
 
-But other factors are affected by the equipment you add to your car. If you buy wider tires, you will get a higher consumption and then a shorter range.
+Men andre faktorer er påvirket av valg av utstyr man velger til bilen. Hvis man f.eks kjøper bredere dekk man man få et høyere forbruk og dermed en kortere rekkevidde.
 
-The below diagram shows hows adding the max options of the car increase the WLTP consumption.
+Grafen nedenfor viser hvor mye forbruket kan øke hvis man velger å legge på alt ekstrautstyr som er tilgjengelig. 
 
-![Consumption](optionsconsumption.jpg "WLTP Consumption added with options")
+![Consumption](optionsconsumption.jpg "WLTP forbruk med alt utstyr.")
 
-From the diagram, you can see that an Audi e-tron 55 has a consumption of 19.61 kWh/100km in the basic trim, but 23.44 kWh/100km in the top trim.
-Reducing the range from 441km (274 miles)  to 369km (229 miles).
+Fra grafen kan man se at en Audi e-tron 55 har et forbruk på 19.61 kWh/100km med standard utstyr, men 23.44 kWh/100km med alt utstyr.
 
-## What affects the real-world consumption
+Dette reduserer rekkeviden fra 441km (274 miles)  til 369km (229 miles)-
 
-In the real world, it is almost impossible to get the same range as given by WLTP or EPA. This is because that range is based on
-ideal driving conditions with specific behavior.  
+## Hva påvirker det virkelige forbruket?
 
-### Road condition
+I den virkelige verden er det nesten umulig å få akkurat samme rekkevidde som WLTP eller EPA. Dette er fordi at disse rekkevidden er basert på et helt gitt kjøremønster under kontrollerbare forhold. I den virkelige verden er det en rekke ting som påvirker forbruket.
 
-Road conditions are one of the factors that affect consumption. If it is dry tarmac the rolling resistance is much lower than
-if the road is wet or is packed with snow.
+### Førerforhold
 
-### The speed
+Førerforhold er en av faktorne som påvirker forbruket mest. Hvis det er tørr asfalt så er rullemotstanden mye lavere enn med våt vei eller vei 
+full av snø.
 
-High speed increases the consumption because of higher drag.
+### Hastighet
 
-### The temperature
+Høy fart øker forbruket grunnet høyere luftmotstand. Biler som er mer aerodynamisk vil i mindre grad bli påvirekt av høy fart. 
 
-The temperature affects the range in different ways. If it is cold the air is denser and it is a higher aerodynamical drag.
+F.eks A6 e-tron påvirker mindre av hastighet enn e-tron.
 
-In addition, warm and cold weather could increase the consumption of air condition system in the car.
+### Tempratur
 
-### The driving style
+Tempratureren påvirker rekkevidden på flere måter.  Hvis det er kaldt så er luften tettere noe som gir høyere luftmotstand.
 
-You as a driver can improve range a lot.
+I tilegg, så vil varme eller kalde tempratur øke strømforbruket på klimanlegg for å få riktig tempratur i bil.
 
-- Look ahead and coast as much as possible
-- When needing to reduce speed, start reducing when possible so early that you only use recuperation.
+### Kjørestil
 
-![Audi e-tron S in the wet](etronsinthewet.jpg "Audi e-tron S with a heavy foot")
+Som sjåfør kan du påvirke rekkevidden stort.
 
-## How does the range indicator work on electric Audi
+- Se fremover og planlegg kjøringen slik at du kan rulle mest mulig.
+- Når man trenger å redusere fart, start reduksjon så tidlig at man kun trenger å bruke regenerering for å bremse.
 
-The range indicator on all-electric Audis is much more advanced than many other brands.
+![Audi e-tron S med en tung høyrefot i regnet](etronsinthewet.jpg "Audi e-tron S med en tung høyrefot i regnet")
 
-While some brands show the same range no matter what and ignore the driving condition or the driving style to the owner,
-all-electric Audis tries to learn
-from previous trips and this causes a lot of questions about range from owners since range varies and drops when driving condition worsens.
+## Hvordan virker rekkeviddeindikatoren i elektriske Audier
 
-Below you see some typical questions.
+Rekkeviddeindikatoren i elektriske Audier er mer avansert en rekke andre merker. 
+
+Mens noen merker viser samme rekkevidde uansett vær og kjørestil til eieren prøver helelektriske 
+Audier å lære av tidligere kjøreturer for å beregne rekkevidden.
+
+Dette skaper en rekke spørsmål fra eiere om rekkevidden siden mange opplever at rekkevidden varierer på et litt ladenivå.
+
+Nedenfor ser dere eksempler på slike spørsmål fra Facebook grupper. 
 
 ![Facebook questions](facebook.png "Questions from owners about range indication")
 

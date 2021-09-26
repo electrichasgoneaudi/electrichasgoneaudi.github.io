@@ -4,7 +4,7 @@ linktitle: Paint
 description: You can choose amongst over 10 standard paint colors and 3 different paint trims.
 weight: 1
 ---
-
+<!-- markdownlint-disable MD033 -->
 ## Paint trims
 
 ### Basic paint
@@ -41,7 +41,7 @@ This has option **VJ1** and is standard on S-line and S exterior trim.
 
 ![full body](fullbodycolor3.jpg "Glachier white with full body color")
 
-## Paint colors
+## Standard Paint colors
 
 The different standard colors are
 
@@ -171,3 +171,71 @@ Color Code: **OE**
 ![Audi e-tron 55 in Mythos Black](paint_mythosblack_1.jpg "Audi e-tron 55 in Mythos Black with black optics")
 
 ![Audi e-tron 55 in Mythos Black](paint_mythosblack_2.jpg "Audi e-tron 60 in Mythos Black with black optics")
+
+
+## Audi Exclusive Paint colors
+
+It is possible to order Audi e-tron with Audi exclusive Paint colors. There are lots of colors to choose from.
+
+Below you see some of the colors you can choose from.
+
+<figure>
+    <a href="paint_exclusive_overview1.jpg">
+        <img src="paint_exclusive_overview1s.jpg" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
+    </a>
+    <figcaption><h4>Pearl effect paint finishes</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_exclusive_overview2.jpg">
+        <img src="paint_exclusive_overview2s.jpg" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
+    </a>
+    <figcaption><h4>Crystal effect paint finishes</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="paint_exclusive_overview2.jpg">
+        <img src="paint_exclusive_overview2s.jpg" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
+    </a>
+    <figcaption><h4>Crystal effect paint finishes</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_exclusive_overview3.jpg">
+        <img src="paint_exclusive_overview3s.jpg" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
+    </a>
+    <figcaption><h4>Uni paint finishes</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_exclusive_overview4.jpg">
+        <img src="paint_exclusive_overview4s.jpg" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
+    </a>
+    <figcaption><h4>Metallic paint finishes</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_exclusive_overview5.jpg">
+        <img src="paint_exclusive_overview5s.jpg" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
+    </a>
+    <figcaption><h4>Metallic paint finishes</h4></figcaption>
+</figure>
+
+### Sonoma Green
+
+Color Code: **LX6R**
+
+<figure>
+    <a href="paint_sonomagreen_1.jpg">
+        <img src="paint_sonomagreen_1s.jpg" alt="Basic trim - wheel archer and bumpers are not painted" title="Basic trim - wheel archer and bumpers are not painted">
+    </a>
+    <figcaption><h4>Audi e-tron S in Sonoma Green</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_sonomagreen_2.jpg">
+        <img src="paint_sonomagreen_2s.jpg" alt="Basic trim - wheel archer and bumpers are not painted" title="Basic trim - wheel archer and bumpers are not painted">
+    </a>
+    <figcaption><h4>Audi e-tron S in Sonoma Green</h4></figcaption>
+</figure>
