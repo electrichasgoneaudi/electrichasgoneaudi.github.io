@@ -330,12 +330,16 @@ Color Code: **OE**
     <figcaption><h4>Audi e-tron 55 in Siam Beige with black optics and contrast color</h4></figcaption>
 </figure>
 
-
 ### Manhatten Grey
 
 Color Code: **2Y**
 
-![Audi e-tron 55 in Siam Beige](paint_manhattengrey_1.jpg "Audi e-tron 55 in Manhatten grey")
+<figure>
+    <a href="paint_manhattengrey_1.jpg">
+        <img src="paint_manhattengrey_1s.jpg" alt="Audi e-tron 55 in Manhatten grey" title="Audi e-tron 55 in Manhatten grey">
+    </a>
+    <figcaption><h4>Audi e-tron 55 in Manhatten grey</h4></figcaption>
+</figure>
 
 ### Brilliant Black
 
@@ -343,16 +347,30 @@ The only non metallic color.
 
 Color Code: **A2**
 
-![Audi e-tron 55 in Mythos Black](paint_brilliantblack_1.jpg "Audi e-tron 55 in Brilliant Black")
+<figure>
+    <a href="paint_brilliantblack_1.jpg">
+        <img src="paint_brilliantblack_1s.jpg" alt="Audi e-tron 55 in Brilliant Black" title="Audi e-tron 55 in Brilliant Black">
+    </a>
+    <figcaption><h4>Audi e-tron 55 in Brilliant Black</h4></figcaption>
+</figure>
 
 ### Mythos black
 
 Color Code: **OE**
 
-![Audi e-tron 55 in Mythos Black](paint_mythosblack_1.jpg "Audi e-tron 55 in Mythos Black with black optics")
+<figure>
+    <a href="paint_mythosblack_1.jpg">
+        <img src="paint_mythosblack_1s.jpg" alt="Audi e-tron 55 in Mythos Black with black optics" title="Audi e-tron 55 in Mythos Black with black optics">
+    </a>
+    <figcaption><h4>Audi e-tron 55 in Mythos Black with black optics</h4></figcaption>
+</figure>
 
-![Audi e-tron 55 in Mythos Black](paint_mythosblack_2.jpg "Audi e-tron 60 in Mythos Black with black optics")
-
+<figure>
+    <a href="paint_mythosblack_2.jpg">
+        <img src="paint_mythosblack_2s.jpg" alt="Audi e-tron sportback S60 in Mythos Black with black optics" title="Audi e-tron sportback S60 in Mythos Black with black optics">
+    </a>
+    <figcaption><h4>Audi e-tron sportback S60 in Mythos Black with black optics</h4></figcaption>
+</figure>
 
 ## Audi Exclusive Paint colors
 
