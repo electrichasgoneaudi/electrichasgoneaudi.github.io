@@ -1,8 +1,41 @@
 # Header
+- id: menu-models
+  translation: Models
+
 - id: menu-technology
   translation: Technology
 
+- id: menu-guides
+  translation: Guides
+
 
 # Frontpage
+- id: frontpage-title
+  translation: Electric has gone Audi - Everything about all-electric Audis
+
 - id: guide-understanding-range
   translation: Understanding range
+
+- id: frontpage-jumbotron-title
+  translation: Everything about all-electric cars from Audi
+
+- id: frontpage-jumbotron-description
+  translation: Electrichasgoneaudi.net is the ultimate guide to all-electric cars from Audi. On this site, you find every detail about technology and functionality on previous, current, and future models from Audi.
+
+- id: frontpage-sections-models-title
+  translation: Models
+
+- id: frontpage-sections-models-description
+  translation: Read about the different models.
+
+- id: frontpage-sections-technology-title
+  translation: Technology
+
+- id: frontpage-sections-technology-description
+  translation: Learn about all the unique Audi technology.
+
+- id: frontpage-sections-guides-title
+  translation: Guides
+
+- id: frontpage-sections-guides-description
+  translation:  Tips, guides and advices about electric cars from Audi

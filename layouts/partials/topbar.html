@@ -13,7 +13,7 @@
 
         <!-- Begin .a-globalNav -->
         <nav class="a-globalNav " id="primary-nav">
-          <a href="/" class="a-globalNav-logo">
+          <a href="{{ with .Site.GetPage `/`}}{{.URL}}{{end}}" class="a-globalNav-logo">
             <img src="/images/logo.png" alt="Audi logo"
               class="an-logo adocs-logo">
 
@@ -25,18 +25,18 @@
             <ul id="exCollapsingNavbar">
              
               <li>
-                <a class="a-hvr-underline" href="/models/">
-                  models
+                <a class="a-hvr-underline" href="{{ with .Site.GetPage `/models/`}}{{.URL}}{{end}}">
+                   {{ T "menu-models"}}
                 </a>
               </li>
               <li>
-                <a class="a-hvr-underline " href="/technology/">
+                <a class="a-hvr-underline " href="{{ with .Site.GetPage `/technology/`}}{{.URL}}{{end}}">
                   {{ T "menu-technology"}} 
                 </a>
               </li>
               <li>
-                <a class="a-hvr-underline" href="/guides/">
-                  guides
+                <a class="a-hvr-underline" href="{{ with .Site.GetPage `/guides/`}}{{.URL}}{{end}}">
+                  {{ T "menu-guides"}} 
                 </a>
               </li>
             </ul>

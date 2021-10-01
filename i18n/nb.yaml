@@ -1,8 +1,41 @@
 # Header
+- id: menu-models
+  translation: Modeller
+
 - id: menu-technology
   translation: Teknologi
 
+- id: menu-guides
+  translation: Guider
+
 
 # Frontpage
+- id: frontpage-title
+  translation: Electric has gone Audi - Alt om helelektriske Audier
+
 - id: guide-understanding-range
   translation: Forstå rekkevidde
+
+- id: frontpage-jumbotron-title
+  translation: Alt om helelektriske Audier 
+
+- id: frontpage-jumbotron-description
+  translation: Electrichasgoneaudi.net er den ultimate guiden for helelektriske biler fra Audi. Her finner du alle detaljer om teknologien og funksjonaliteten på tidligere, nåværende og fremtidige modeller fra Audi.
+
+- id: frontpage-sections-models-title
+  translation: Modeller
+
+- id: frontpage-sections-models-description
+  translation: Lær alt om de forskjellige modellene.
+
+- id: frontpage-sections-technology-title
+  translation: Teknologi
+
+- id: frontpage-sections-technology-description
+  translation: Lær alt om den unike Audi teknologien.
+
+- id: frontpage-sections-guides-title
+  translation: Guider
+
+- id: frontpage-sections-guides-description
+  translation:  Tips, guider og råd om elektriske biler fra Audi
