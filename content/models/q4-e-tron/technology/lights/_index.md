@@ -49,6 +49,12 @@ See video below how HD Matrix works on an e-tron
 
 In combination with the Matrix LED headlights, there is also a particularly elegant light solution at the rear of the compact electric SUV. A light strip runs across its full width; at its center the taillight beams out in a fine line that splits into separate segments at its ends. Each individual segment is modeled as a three-dimensional body, resulting in a light sculpture that is expressive from all perspectives. The light signature opens up into a large light anchor segment on the sides of the vehicle. Its dynamic graphic is inspired by intricate electric circuits and bears the Four Rings radiating in signature red as the central detail. The dynamic turn signals add a further highlight in the reversing lights.
 
+![Tailight without matrix](rearwithoutmatrix.jpg "Taillight without matrix with no light bar and only 1 reversing light")
+
+
+![Tailight without matrix](rearwithmatrix.jpg "Taillight with matrix with light bar and 2 reversing light")
+
+
 When the car is unlocked and exited, dynamic “leaving home” and “coming home” light sequences are played in the rear lights and the headlights. The sequences in the headlights vary depending on which daytime running light signature is selected.
 
 
