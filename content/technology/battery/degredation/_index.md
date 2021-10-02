@@ -33,9 +33,21 @@ The factors that affects calender aging is State of Charge and environmental tem
 
 ## Cycle ageing
 
-Cycle ageing is the reduction of energy capcaity or power caused bey charging/discharging. 
+Cycle ageing is the reduction of energy capcaity or power caused bey charging/discharging.
+
+### Cycle aging based on SOC area
+
+The below diagram show how the SOC area used when charging/discharging affect the degredation
 
 ![Cycles](dstcycles.png "Cycle stress")
+
+### Charging speed affect on cycle aging
+
+The most important factor for cycle charging is the charging speed. High speed DC charging
+increase the effect called lithium plating that converts the lithium ions to lithium metal. When this
+happens the available ions in battery is reduced. Higher speed charging increases the amount of litium ions 
+that are not able to reach the anode. This is again caused by limitiations on the chemistry process. If you want to learn more
+about lithium plating you can read [this presentation](https://www.nasa.gov/sites/default/files/atoms/files/1-lithium_plating_azimmerman.pdf) from Nasa.
 
 ### Scientfictic articles to read to understand more about cycle aging
 
