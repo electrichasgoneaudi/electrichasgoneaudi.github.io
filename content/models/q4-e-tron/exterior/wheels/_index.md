@@ -74,7 +74,7 @@ The following wheels have been available from Audi to Audi Q4 e-tron. Varies for
 
 ## 21" 5-arm rotor design
 
-8,5 J x 21 with 235/45 R 21 tires front 9,0 J x 21 255/40 R 21 tires rear
+8,5 J x 21 ET 40 wheels with 235/45 R 21 tires front 9,0 J x 21 ET 42 wheels with 255/40 R 21 tires rear
 
  Part No: **55L**
 
@@ -101,7 +101,7 @@ The following wheels have been available from Audi to Audi Q4 e-tron. Varies for
 
 ## 21" 5-W design
 
-8,5 J x 21 with 235/45 R 21 tires front 9,0 J x 21 255/40 R 21 tires rear
+8,5 J x 21 ET 40 wheels with 235/45 R 21 tires front 9,0 J x 21 ET 42 wheels with 255/40 R 21 tires rear
 
  Part No: **C5W**
 
@@ -121,7 +121,7 @@ The following wheels have been available from Audi to Audi Q4 e-tron. Varies for
 
 ## 21" 5-W design bronze
 
-8,5 J x 21 with 235/45 R 21 tires front 9,0 J x 21 255/40 R 21 tires rear
+8,5 J x 21 ET 40 wheels with 235/45 R 21 tires front 9,0 J x 21 ET 42 wheels with 255/40 R 21 tires rear
 
  Part No: **C7A**
 
@@ -141,7 +141,7 @@ The following wheels have been available from Audi to Audi Q4 e-tron. Varies for
 
 ## 21" 5 Arm rotor aero design
 
-8,5 J x 21 with 235/45 R 21 tires front 9,0 J x 21 255/40 R 21 tires rear
+8,5 J x 21 ET 40 wheels with 235/45 R 21 tires front 9,0 J x 21 ET 42 wheels with 255/40 R 21 tires rear
 
  Part No: **C1P**
 
