@@ -33,6 +33,8 @@ to the main MMI screen:
 - Country information: display of country-specific information
 - Map display and route guidance in the Audi virtual cockpit with 10.25" display
 
+Maps are based on [Here maps](https://www.here.com/strategic-partners/audi)
+
 ![Navigation](navigationmmiscreen.jpg "Navigation in MMI Main screen")
 
 ![Navigation](mminavigationvirtualcockpit.jpg "Navigation in virtual cockpit")
