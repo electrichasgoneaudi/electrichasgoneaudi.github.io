@@ -16,6 +16,12 @@
 - id: guide-understanding-range
   translation: Understanding range
 
+- id: guide-checking-battery
+  translation: Checking battery health
+
+- id: guide-one-pedal-driving
+  translation: One Pedal driving
+
 - id: frontpage-jumbotron-title
   translation: Everything about all-electric cars from Audi
 
@@ -38,4 +44,19 @@
   translation: Guides
 
 - id: frontpage-sections-guides-description
-  translation:  Tips, guides and advices about electric cars from Audi
+  translation: Tips, guides and advices about electric cars from Audi
+  
+- id: guide-buying-title
+  translation: Looking to buy an all electric Audi?
+
+- id: guide-buying-description
+  translation: In the models section, we compare all relevant models in detail to help you pick your all electric Audi. We also have an option guide for each model trying to help you pick the most important options.
+  
+- id: guide-options-q4-etron
+  translation: Options guide Q4 e-tron
+
+- id: guide-options-etron
+  translation: Options guide e-tron
+  
+- id: guide-options-etron-gt
+  translation: Options guide e-tron GT

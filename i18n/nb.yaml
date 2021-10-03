@@ -16,6 +16,12 @@
 - id: guide-understanding-range
   translation: Forstå rekkevidde
 
+- id: guide-checking-battery
+  translation: Sjekke batterihelse
+
+- id: guide-one-pedal-driving
+  translation: En-pedals kjøring
+
 - id: frontpage-jumbotron-title
   translation: Alt om helelektriske Audier 
 
@@ -39,3 +45,18 @@
 
 - id: frontpage-sections-guides-description
   translation:  Tips, guider og råd om elektriske biler fra Audi
+
+- id: guide-buying-title
+  translation: På jakt etter en helelektrisk Audi?
+
+- id: guide-buying-description
+  translation: I modell seksjonen, så sammenligner vi alle relevant modeller for å hjelpe deg velge riktig helelektriske Audi for deg. For hver modell har vi en ekstrautstyr guide for å hjelpe deg velge utstyret du har behov for. 
+
+- id: guide-options-q4-etron
+  translation: Ekstrautstyrsguide Q4 e-tron
+
+- id: guide-options-etron
+  translation: Ekstrautstyrsguide guide e-tron
+  
+- id: guide-options-etron-gt
+  translation: Ekstrautstyrsguide guide e-tron GT

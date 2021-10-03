@@ -59,7 +59,7 @@ Audi A4 e-tron will have a world premiere in 2024
 **unconfirmed**
 
 
-[See all known details about Audi Q6 e-tron](/models/a4-e-tron/)
+[See all known details about Audi A4 e-tron](/models/a4-e-tron/)
 
 ## Audi Q8 e-tron
 
@@ -67,7 +67,7 @@ Audi Q8 e-tron will have a world premiere in 2026
 
 **unconfirmed**
 
-[See all known details about Audi Q6 e-tron](/models/q8-e-tron/)
+[See all known details about Audi Q8 e-tron](/models/q8-e-tron/)
 
 ## Model comparisons
 

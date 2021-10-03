@@ -49,7 +49,7 @@
 
     <div class="row adocs-featuredBlocks">
         <div class="col-12 col-lg-4 mb-5">
-            <a href="/models/" class="a-illustrationLink">
+            <a href="{{ with .Site.GetPage `/models/`}}{{.URL}}{{end}}" class="a-illustrationLink">
                 <h2 class="a-h3">{{T "frontpage-sections-models-title"}}</h2>
                 <p class="a-js-truncate-2">{{T "frontpage-sections-models-description"}}</p>
                 <div class="a-illustration-icon">
@@ -178,7 +178,7 @@
                           <a href="{{ with .Site.GetPage `/guides/onepedaldriving/`}}{{.URL}}{{end}}" class="a-list-rowLink">
                               <div class="row">
                                   <div class="col">
-                                      One Pedal driving
+                                    {{T "guide-one-pedal-driving"}}
                                   </div>
                               </div>
                           </a>
@@ -205,7 +205,7 @@
                         <a href="{{ with .Site.GetPage `/guides/checkingbatteryhealth/`}}{{.URL}}{{end}}" class="a-list-rowLink">
                             <div class="row">
                                 <div class="col">
-                                    Checking battery health
+                                    {{T "guide-checking-battery"}}
                                 </div>
                             </div>
                         </a>
@@ -223,13 +223,31 @@
           <div class="row mx-sm-0 mb-6 mb-lg-8">
               <div class="col-12 col-md-5 p-0">
                   <div class="">
-                      <img src="/images/buying.png" class="mx-4 mt-4" alt="Buying guide">
+                      <img src="/images/buying2s.jpg" class="mx-4 mt-4" alt="Buying guide">
                   </div>
               </div>
               <div class="col-12 col-md-7 d-flex flex-column align-self-center pl-3 pl-md-5 pl-lg-0 pr-4 pr-lg-8">
-                  <h2 class="a-fontSizeXL mb-1">Looking to buy an electric Audi?</h2>
-                  <p class="a-fontSizeS mb-4">In the buying guide section, we compare all relevant models in detail to help you pick your <a href="/models/comparisons/" class="">
-                    electric Audi</a>. We also have an option guide for each model trying to help you pick the most important options.</p>
+                  <h2 class="a-fontSizeXL mb-1">{{T "guide-buying-title"}}</h2>
+                  <p class="a-fontSizeS mb-4">{{T "guide-buying-description"}}</p>
+                  <ul>
+                    <li>
+                        <a href="{{ with .Site.GetPage `/models/e-tron/optionguide/`}}{{.URL}}{{end}}">
+                            {{T "guide-options-etron"}}
+                        </a>
+                    </li>
+                    <li>
+                        <a href="{{ with .Site.GetPage `/models/q4-e-tron/optionguide/`}}{{.URL}}{{end}}">
+                            {{T "guide-options-q4-etron"}}
+                        </a>
+                    </li>
+                    <li>
+                        <a href="{{ with .Site.GetPage `/models/e-tron/optionguide/`}}{{.URL}}{{end}}">
+                            {{T "guide-options-etron-gt"}}
+                        </a>
+                    </li>
+                  </ul>
+                  <br>
+                
               </div>
           </div>
        </div>
