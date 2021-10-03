@@ -6,7 +6,8 @@ weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
 
-The following wheels have been available from Audi to Audi Q4 e-tron. Varies for the different markets
+The following wheels have been available from Audi to Audi Q4 e-tron. Varies for the different markets.
+Center bore is 57.1mm and bolt pattern is 5x112mm.
 
 ## 19" 5-arm design
 
