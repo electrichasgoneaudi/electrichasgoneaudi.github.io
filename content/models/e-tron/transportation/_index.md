@@ -14,6 +14,19 @@ weight: 6
 
 ![Trunk](trunk_3.jpg "The seats have a 40-20-40 confiuguration")
 
+### Luggage compartment seperation net
+
+As an option you can get a net to seperate the luggagee compartment with the passengers. 
+The option id is **3CX**
+
+![Net](net1.jpg "Net")
+
+![Net](net2.jpg "Net")
+
+![Net](net3.jpg "Net")
+
+![Net](net4.jpg "Net")
+
 ## Frunk
 
 ![Trunk](frunk_1.jpg "Trunk Audi e-tron")
