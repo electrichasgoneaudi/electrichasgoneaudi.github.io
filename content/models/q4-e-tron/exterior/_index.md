@@ -11,7 +11,9 @@ Buying an Audi e-tron will require you to make lots of decision how the exeriour
 
 First would be to decide if you want the sportback or SUV body.
 
-Then you need to decide if you want to have s-line, s styling or regular styling making to 6 different looks.
+Then you need to decide if you want to have s-line, s styling or regular styling.
+
+Then you need to decide color and wheels and many other options
 
 See below for the exterior options.
 
