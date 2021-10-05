@@ -68,6 +68,14 @@ For glacier white, mythos black, pepple grey and navarra blue you can get full b
     <figcaption><h4>Audi Q4 Sportback 50 e-tron quattro in Navarra blue with full body paint</h4></figcaption>
 </figure>
 
+
+<figure>
+    <a href="paint_stonegrey_6.jpg">
+        <img src="paint_stonegrey_6s.jpg" alt="Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint" title="Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint">
+    </a>
+    <figcaption><h4>Audi Q4 35 e-tron quattro in Stone grey with black optics, S-line exterior and full body paint</h4></figcaption>
+</figure>
+
 ## Paint colors
 
 The color swatch for the Audi Q4 e-tron and Q4 Sportback e-tron contains eight colors. Their restrained character is inspired by the colors and hues found in nature. The solid paint color is called stone gray, the metallic shades are named aurora violet (new), floret silver, geyser blue, glacier white, mythos black, Navarra blue, and typhoon gray. Aurora violet is a color that has been taken from Audi Sport.
@@ -97,6 +105,20 @@ This is the only non metallic pain available. Color code **C2**
         <img src="paint_stonegrey_3s.jpg" alt="Audi Q4 50 e-tron quattro in Stone grey with black optics" title="Audi Q4 50 e-tron quattro in Stone grey with black optics">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro in Stone grey with black optics</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_stonegrey_4.jpg">
+        <img src="paint_stonegrey_4s.jpg" alt="Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint" title="Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint">
+    </a>
+    <figcaption><h4>Audi Q4 35 e-tron quattro in Stone grey with black optics, S-line exterior and full body paint</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_stonegrey_5.jpg">
+        <img src="paint_stonegrey_5s.jpg" alt="Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint" title="Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint">
+    </a>
+    <figcaption><h4>Audi Q4 35 e-tron quattro in Stone grey with black optics, S-line exterior and full body paint</h4></figcaption>
 </figure>
 
 ### Geyser Blue
