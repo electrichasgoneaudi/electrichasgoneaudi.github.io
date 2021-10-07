@@ -39,11 +39,13 @@ If you set it recuperation to automatic it will only recuperate when you are get
 
 ### Audi Q4 e-tron
 
-On Audi Q4 e-tron you can set the car in B-mode with help of the shifter. In B-mode it the car will regenerate when lifting the pedal. 
+On Audi Q4 e-tron you can set the car in B-mode with help of the shifter. In B-mode the car will regenerate when lifting the watt pedal.
 
 ![Q4 shifters](q4shifter.jpg "Gear shifter Audi Q4 with D/B mode")
 
 ![bilde](regenlevelq4.jpg "The green bar to the right of the big D shows the regen level on Q4 when driving i B mode")
+
+Driving in D-mode and using the brake pedals that automaticly gives regen gives the best effiency. Coast whenever you can.
 
 ## More information
 

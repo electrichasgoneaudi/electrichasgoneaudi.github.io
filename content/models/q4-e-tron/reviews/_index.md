@@ -41,6 +41,10 @@ weight: 20
 
 {{< youtube PTPnz_Eh0zo >}}
 
+### DrivingElectric: New 2021 Audi Q4 e-tron electric SUV review
+
+{{< youtube 9G8H4buyIWU >}}
+
 ### Automann-TV: NEW! Audi Q4 e-tron (306hp) | 0-180 km/h acceleration🏁 | by Automann in 4K
 
 {{< youtube 4piNOluQ178 >}}
