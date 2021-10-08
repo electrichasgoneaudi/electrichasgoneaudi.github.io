@@ -60,6 +60,7 @@ If build month is 122019 or later it should be a upgraded version
 - New packages for the US marked
 - The streaming service Apple Music is now available optionally as a new Audi connect service.
 - Support for Wirless Android Auto
+- Shortcut to charging screen in MMI added to lower MMI screen
 
 ![Chronos Grey](chronosgrey.jpg "New color for 2022 - Chronos Grey")
 
