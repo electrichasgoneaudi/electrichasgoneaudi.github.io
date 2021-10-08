@@ -50,7 +50,11 @@ get 305mm wide tires that increase traction and decreases range.
 
 ![Audi RS e-tron GT](rsetrongt.jpg "Audi RS e-tron GT with 305mm rear tires")
 
-Some tire producers have started producing specific tires for EV with low rolling resistance.
+Some tire producers have started producing specific tires for EV with low rolling resistance that affect range.
+
+Audi delivers theese type of tires on some of the models. See below for very good test
+
+{{< youtube gg5MdeC6qzI>}}
 
 ### Weight
 

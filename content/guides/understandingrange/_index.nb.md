@@ -51,6 +51,11 @@ Audi RS e-tron GT har veldig brede dekk med 285 mm for å få best trekkraft. De
 
 Noen dekkprodusenter har begynt å produsere dekk for elbiler, med lav rullemotstand.
 
+Audi leverer biler med slike dekk på noen av sine modeller/felgkombinasjoner. Se nedenfor for detaljert
+test av slike dekk på e-tron 55.
+
+{{< youtube gg5MdeC6qzI>}}
+
 ### Vekt
 
 En tung bil krever mer energi å forflytte.
