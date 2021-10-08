@@ -83,3 +83,7 @@ In addition, you could expect some other technical improvements that slightly wo
 If they are able to reduce this to 18.5 you could see rated range up to 580km.
 
 But all is unconfirmed. Will be updated when we know more. 
+
+Below there is a Spyshot from [Motor1](https://www.motor1.com/news/227822/best-spy-shots-week/6191390/)
+
+![Audi e-tron 55 Sportback 2023](2023spyshot.jpg "Audi e-tron 55 Sportback 2023")
