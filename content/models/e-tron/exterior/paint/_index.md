@@ -267,6 +267,14 @@ Color Code: **6Y**
     <figcaption><h4>Audi e-tron 55 S-line in Daytona Grey with black optics</h4></figcaption>
 </figure>
 
+
+<figure>
+    <a href="paint_daytona_6.jpg">
+        <img src="paint_daytona_6s.jpg" alt="Audi e-tron 60S Sporttback in Daytona Grey with black optics" title="Audi e-tron 60S Sporttback in Daytona Grey with black optics">
+    </a>
+    <figcaption><h4>Audi e-tron 60S Sporttback in Daytona Grey with black optics</h4></figcaption>
+</figure>
+
 The footage shows driving shots as well as stills of the Audi e-tron S Sportback in the color daytona grey.
 
 {{< youtube bzqrdHJpXpA>}}
