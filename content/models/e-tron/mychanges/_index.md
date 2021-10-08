@@ -60,6 +60,7 @@ If build month is 122019 or later it should be a upgraded version
 - New packages for the US marked
 - The streaming service Apple Music is now available optionally as a new Audi connect service.
 - Support for Wirless Android Auto
+- Shortcut to charging screen in MMI added to lower MMI screen
 
 ![Chronos Grey](chronosgrey.jpg "New color for 2022 - Chronos Grey")
 
@@ -85,5 +86,4 @@ If they are able to reduce this to 18.5 you could see rated range up to 580km.
 But all is unconfirmed. Will be updated when we know more. 
 
 Below there is a Spyshot from [Motor1](https://www.motor1.com/news/227822/best-spy-shots-week/6191390/)
-
 ![Audi e-tron 55 Sportback 2023](2023spyshot.jpg "Audi e-tron 55 Sportback 2023")
