@@ -52,7 +52,7 @@ get 305mm wide tires that increase traction and decreases range.
 
 Some tire producers have started producing specific tires for EV with low rolling resistance that affect range.
 
-Audi delivers theese type of tires on some of the models. See below for very good test
+Audi delivers these types of tires on some of the models. See below for a very good and detailed test that describes the difference between EV optimized tires and regular.
 
 {{< youtube gg5MdeC6qzI>}}
 
