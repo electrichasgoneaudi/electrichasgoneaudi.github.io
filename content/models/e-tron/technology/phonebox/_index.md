@@ -12,8 +12,6 @@ music in the car. Depending on the smartphone model, it is also possible to view
 
 ![Audi Phone Box](phonebox2.jpg "Audi Phone Box holder with inductive charging")
 
-![Audi Phone Box](phonebox3.jpg "Audi Phone Box holder with inductive charging")
-
 The smart phone can be charged and stored safely in the universal holder in the center consol  of the car. The holder is connected to the car's antenna for better reception and voice quality. In addition, the radiation from the mobile phone in the passenger compartment is reduced, as the phone needs less transmission power. 
 
 As more and more mobile phones can be charged wirelessly, the Audi phone box is equipped with an inductive charging function (Qi standard) in addition to the USB port. The charge level is shown on the MMI display. If you leave the car while the phone is in the holder, an alert is triggered
