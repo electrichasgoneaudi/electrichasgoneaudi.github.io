@@ -16,7 +16,7 @@ See below for our unique in-depth information on the different models and varian
 
 [![Audi e-tron](/models/e-tron/variants/variants1.jpg)](/models/e-tron/)
 
-The [Audi e-tron](/models/e-tron/) is the first full-electric model from Audi and is available in 6 variants. The sporty SUV combines the space and comfort of a typical luxury class automobile with a range suitable for everyday use, catapulting the driver into a new era with the electrical all-wheel drive.
+The [Audi e-tron](/models/e-tron/) is the first all-electric model from Audi and is available in 6 variants. The sporty SUV combines the space and comfort of a typical luxury class automobile with a range suitable for everyday use, catapulting the driver into a new era with the electrical all-wheel drive.
 
 [See all details about Audi e-tron](/models/e-tron/)
 
@@ -24,7 +24,7 @@ The [Audi e-tron](/models/e-tron/) is the first full-electric model from Audi an
 
 [![Audi e-tron](/models/e-tron-gt/variants/variants.jpg)](/models/e-tron-gt/)
 
-Audi e-tron GT is the second full-electric model from Audi. With the Audi RS e-tron GT version, Audi has made their most powerful RS-model ever. And the design makes it one of the most beautiful car in our time.
+Audi e-tron GT is the second all-electric model from Audi. With the Audi RS e-tron GT version, Audi has made their most powerful RS-model ever. And the design makes it one of the most beautiful car in our time.
 
 [See all details about Audi e-tron GT](/models/e-tron-gt/)
 
