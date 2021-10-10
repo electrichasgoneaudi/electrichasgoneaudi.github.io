@@ -17,13 +17,17 @@ Thanks to the car status report for the Audi e-tron in Audi connect, you can see
 - Battery charge level
 - Status of the charging plug
 
-## Remote control of locking / unlocking⁴
+## Remote control of locking / unlocking
 
 The car can be easily locked and unlocked using the smartphone via the myAudi app
 
+![Locking](locking.jpg "You can lock and unlock the car from myAudi app")
+
 ## Parking position
 
-The car's parking position is shown on the map in the myAudia app¹, ³ on the smartphone.
+The car's parking position is shown on the map in the myAudia app on the smartphone.
+
+![Parking position](parkingposition.jpg "Parking position")
 
 ## Alert from theft alarm
 
@@ -37,8 +41,22 @@ You can schedule charging and program times via the myAudi app. This protects th
 
 e-tron's parking air conditioner can be controlled with the myAudi app.
 
+![Climate control](climatecontrol1.jpg "You can control temprature, window heading and comfort clima if available")
+
+![Climate control](climatecontrol2.jpg "You can also set a timer on clima")
+
+![Climate control](climatecontrol3.jpg "When started it runs for 30 minutes")
+
+![Climate control](climatecontrol4.jpg "You have also quick start from bottom menu")
+
+![Climate control](climatecontrol5.jpg "Quick start options")
+
 ## Driving data
 
 Get an overview of the electrical consumption, driving time and driving distance
+
+![Driving data](drivingdata.jpg "Driving data short-term memory")
+
+![Driving data](drivingdata2.jpg "Driving data long-term memory")
 
 {{% children description="true" depth="1" %}}

@@ -8,7 +8,9 @@ weight: 1
  Benefit from improved route guidance through comparisons with the latest traffic information from the Internet. Closer networking of the infrastructure makes it faster and more comfortable to search for a parking spot, and the destination search is optimised in such a way that various points of interest in the area can be found quickly and easily. Staying up to date while driving is possible thanks to the read aloud function for Twitter messages, online news, and emails.
 
 ## MyRoute
-  
+
+In the connect category myRoute, you will find all the information for your trip such as navigation, traffic warnings, and parking places at the destination. Thanks to regular online map updates, you are always up-to-date. An overview of all myRoute services can be found below.
+
 ### Google Earth Navigation
 
 Navigation with Google Earth C makes it easier to navigate thanks to high-resolution aerial photos and satellite imagery.
@@ -49,6 +51,8 @@ Furthermore, all targets in the car and on the smartphone are synchronized, no m
 
 ![Route planner](routeplanner3.jpg "RoutePlanner")
 
+![Route planner](routeplannerapp1.jpg "RoutePlanner in myAudi")
+
 ### Predictive routing
 
 The route is calculated on the basis of the current and expected traffic situation. The function calculates the best route to the destination, avoids queues and provides a reliable assessment of the expected arrival time.
@@ -73,11 +77,11 @@ Early warning for increased road safety. With information from the so-called Aud
 
 ## myNetwork
 
-### Wi-Fi zone
+### Wi-Fi hotspot
 
-Audi connect allows you to use wireless internet via a Wi-Fi zone. This is how you can retrieve information and e-mail or surf the web when you are sitting in the back seat or have stopped the car.
+Audi connect allows you to use wireless internet via a Wi-Fi hotspot. This is how you can retrieve information and e-mail or surf the web when you are sitting in the back seat or have stopped the car.
 
-#### Messages
+### Messages
 
 Compose text messages to your car: With the Messages function, you can write text messages quickly, eas
 
@@ -88,6 +92,10 @@ You always have access to the calendar on your smartphone. With the Audi connect
 ### Access to Twitter
 
 With Audi connect and Twitter, you do not have to be afraid of missing out on what is happening. Now you can easily follow current events, such as news feeds and trends, thanks to its integrated reading function.
+
+## myInfo
+
+Current services concerning your travel plans are available in the connect category myInfo. These include weather forecasts or current news from sports and politics. An overview of all myInfo services can be found here.
 
 ### News online (individually)
 
@@ -105,7 +113,11 @@ How will the weather be on the trip? With Audi connect you have a full overview.
 
 ![Weather info](weather3.jpg "Weather for next 7 days")
 
-#### Online media streaming
+## myRoadmusic
+
+In the connect category myRoadmusic, you will find all the options for enjoying music in your Audi. This includes internet radio, use of the media library from the smartphone, and streaming via Napster. An overview of the myRoadmusic service can be found below.
+
+### Online media streaming
 
 With the myAudi app you can listen to your favorite music, whether you are at home or on holiday. All you have to do is connect your smartphone to MMI navigation plus with MMI
 touch response via the wireless network. Then you have access to a comprehensive selection of radio stations at home and abroad, also from third-party providers. Select station from
@@ -122,7 +134,5 @@ The radio automatically and seamlessly switches between classic radio via the FM
 ### Track recognition
 
 Automatic detection of a variety of music tracks played on the radio. Display of additional information such as artist, album and cover. The content and scope of the additional information depends on what is made available by the individual service provider.
-
-
 
 {{% children description="true" depth="1" %}}
