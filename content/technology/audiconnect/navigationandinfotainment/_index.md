@@ -13,6 +13,10 @@ weight: 1
 
 Navigation with Google Earth C makes it easier to navigate thanks to high-resolution aerial photos and satellite imagery.
 
+![Google Earth](googlemap1.jpg "Google earth satelite photos")
+
+![Google satelitte map](satelitmap1.jpg "Audi connect gives Google Satelite maps on selected models")
+
 ### Traffic information online
 
 With traffic information online, you get more information and can choose the best route, so you get there faster. Traffic flow information is displayed in different colors on the navigation map, and the information is used by the dynamic guidance. The data is continuously updated so that you are quickly notified of queues and freeways. The service has good coverage of the road network, including charging roads and city streets. Audi connect - the fast way to the goal
@@ -20,23 +24,30 @@ With traffic information online, you get more information and can choose the bes
 ### Search for special goals (POIs) with voice control
 
 Web-based navigation with Audi connect: Search for special destinations (POIs) with voice control makes driving an interactive experience. Via the web, you have access to a comprehensive database.
-Here you can search for special goals with free text and get pictures, opening hours, and customer reviews. The voice control, which is controlled via keystrokes on the multifunction steering wheel, does the service, even more,
-more comfortable and safe. By searching for special targets with voice control, you do not have to take your eyes off the road when driving. myAudiappen5, 6 also allows you to search for special destinations via your smartphone
+
+Here you can search for special goals with free text and get pictures, opening hours, and customer reviews. The voice control, which is controlled via keystrokes on the multifunction steering wheel, does the service, even more, more comfortable and safe. By searching for special targets with voice control, you do not have to take your eyes off the road when driving. The [myAudi app](../myaudi/) also allows you to search for special destinations via your smartphone
 
 ### Travel information
 
-There is a lot to see: With travel information from Audi connect, you learn more about the areas you drive in, the destination, or another desired place. A search engine delivers professionally prepared information
-about sights, which you can then immediately transfer as a navigation destination.
+There is a lot to see: With travel information from Audi connect, you learn more about the areas you drive in, the destination, or another desired place. A search engine delivers professionally prepared information about sights, which you can then immediately transfer as a navigation destination.
 
 ### Information about parking spaces
 
 Now there is zero stress to park in foreign cities. The function allows you to search for available parking spaces nearby or at the destination and enters them in the navigation system. The system shows parking spaces and detailed additional information, e.g. prices and how many vacancies there are at the moment. In selected cities, you can also see what the chances are of finding one free space in selected streets.
 
+![Parking](parking1.jpg "Parking information")
+
 ### e-tron route planner
 
-The route can be planned in peace and quiet via the myAudi app or directly from the car. In any case, the route along the necessary charging stations is calculated so that the goal is reached. During planning takes the function takes into account the battery charge level and the traffic situation, and shows the arrival time and estimated charging time. To keep the charging time as short as possible, charging is added to fast-charging stations as much as possible. At start-up, the route is transferred seamlessly and easily from the myAudi app to the navigation system, which takes over the guidance. Furthermore, all targets in the car and on the smartphone are synchronized,
-no matter where they were originally stored. This way, you can easily and comfortably plan routes and journeys with your smartphone, and then retrieve them as navigation destinations in the car. If there are delays or traffic disruptions on one of your regular routes, messages appear in the navigation system and on the smartphone. If the original
-charging station can not be reached, a new route is calculated. During an active charge along the route, the remaining charging time and the current state of charge of the battery are displayed.
+The route can be planned in peace and quiet via the myAudi app or directly from the car. In any case, the route along the necessary charging stations is calculated so that the goal is reached. During planning takes the function takes into account the battery charge level and the traffic situation, and shows the arrival time and estimated charging time. To keep the charging time as short as possible, charging is added to fast-charging stations as much as possible. At start-up, the route is transferred seamlessly and easily from the myAudi app to the navigation system, which takes over the guidance.
+
+Furthermore, all targets in the car and on the smartphone are synchronized, no matter where they were originally stored. This way, you can easily and comfortably plan routes and journeys with your smartphone, and then retrieve them as navigation destinations in the car. If there are delays or traffic disruptions on one of your regular routes, messages appear in the navigation system and on the smartphone. If the original charging station can not be reached, a new route is calculated. During an active charge along the route, the remaining charging time and the current state of charge of the battery are displayed.
+
+![Route planner](routeplanner1.jpg "RoutePlanner")
+
+![Route planner](routeplanner2.jpg "RoutePlanner")
+
+![Route planner](routeplanner3.jpg "RoutePlanner")
 
 ### Predictive routing
 
@@ -49,6 +60,8 @@ Obtain special destinations (eg petrol stations and car parks) from third party 
 ### Information about charging stations
 
 Find a charging station near you or at the destination. This allows you to plan necessary stops efficiently, sorted by distance. In addition, you get information about availability, connection and payment methods, provided that this information is available at the charging station.
+
+![Charging](charging1.jpg "Charging stations along the route with information about time needed to charge")
 
 ### Extended 3D city view
 
@@ -110,11 +123,6 @@ The radio automatically and seamlessly switches between classic radio via the FM
 
 Automatic detection of a variety of music tracks played on the radio. Display of additional information such as artist, album and cover. The content and scope of the additional information depends on what is made available by the individual service provider.
 
-![Google satelitte map](satelitmap1.jpg "Audi connect gives Google Satelitt maps on selected models")
-
-### Audi connect Navigation & Infotainment plus
-
-Audi connect Navigation & Infotainment plus includes innovative Audi connect services that complement the Audi connect Navigation & Infotainment package. For example, you can benefit from enhanced usability thanks to natural language interaction or an extended display of your surroundings by means of 3D optics for better orientation.
 
 
 {{% children description="true" depth="1" %}}
