@@ -28,3 +28,7 @@ weight: 20
 ### carwow: Audi e-tron S Sportback: Quicker and better than a Model X?
 
 {{< youtube 3gBU5EvM1KM >}}
+
+### Out of Spec Reviews: I Drive The 500hp Tri-Motor Audi E-Tron S For The First Time!
+
+{{ < youtube hlu-UxCKKFo >}}

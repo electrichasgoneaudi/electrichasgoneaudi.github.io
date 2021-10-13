@@ -6,12 +6,11 @@ weight: 6
 ---
 
 
-
-## Audi e-tron
-
-## Audi e-tron GT
-
-## Audi Q4 e-tron
+| Model | Adjust SOC target | Lock/unlock | Location |
+|------|------|------| ----- | 
+| e-tron |  Yes | Yes | Yes | 
+| q4 e-tron | Yes | N/A | N/A |
+| e-tron GT | Yes | ? | ? |
 
 
 {{% children description="true" depth="1" %}}

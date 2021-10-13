@@ -5,7 +5,7 @@ description: In the Infotainment & Navigation package, Audi connect bundles func
 weight: 1
 ---
 
- Benefit from improved route guidance through comparisons with the latest traffic information from the Internet. Closer networking of the infrastructure makes it faster and more comfortable to search for a parking spot, and the destination search is optimised in such a way that various points of interest in the area can be found quickly and easily. Staying up to date while driving is possible thanks to the read aloud function for Twitter messages, online news, and emails.
+Below you see description of the different parts.
 
 ## MyRoute
 
@@ -74,6 +74,8 @@ The detailed 3D view of buildings makes it easier to orientate.
 ### Hazard information
 
 Early warning for increased road safety. With information from the so-called Audi swarm, you are notified of accidents, accidents, poor visibility and slippery roads. If an Audi with this technology detects a dangerous situation, it reports this to a server, which sends out a warning to all Audi drivers in cars with this service. This is how Audi drivers are notified via the station wagon and navigation system before they reach the danger point, and they thus have the opportunity to react better to dangerous situations. This can help increase safety for Audi drivers and other road users.
+
+![Hazard](swarm1.jpg "They utilize the swarm intelligence of the Audi fleet, in which more than one hundred thousand cars are already gathering information globally.")
 
 ## myNetwork
 

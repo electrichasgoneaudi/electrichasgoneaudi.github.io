@@ -169,6 +169,8 @@ Color Code: **V0**
 
 {{< youtube EhJR0IM4uac >}}
 
+{{< youtube oD6oUiyA9hw >}}
+
 ### Kemora Grey
 
 Color Code: **82**
