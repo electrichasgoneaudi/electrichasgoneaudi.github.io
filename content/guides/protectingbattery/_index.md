@@ -21,7 +21,7 @@ Most EV's has a buffer to protect the battery and the same has the all-electric 
 |------|-------|-------|-------|
 | [e-tron 55/S](/models/e-tron/drivetrain/battery/) | 95 kWh | 8.5kWh (9%)  | 86.5 kWh |
 | [e-tron 50](/models/e-tron/drivetrain/battery/) | 71 kWh | 6.3kWh (8.9%)  | 64.7 kWh |
-| [(RS) e-tron GT](/models/e-tron-gt/drivetrain/battery/) | 95 kWh | 8.5kWh (9%)  | 93.4 kWh |
+| [(RS) e-tron GT](/models/e-tron-gt/drivetrain/battery/) | 93.4 kWh | 9.7kWh (10.4%%)  | 83.7 kWh |
 | [Q4 e-tron 40/45/50](/models/q4-e-tron/drivetrain/battery/#battery-q4-40-e-tron-and-q4-50-e-tron)  | 82 kWh | 5.4kWh (6.6%)  | 76.6 kWh |
 | [Q4 e-tron 35](/models/q4-e-tron/drivetrain/battery/#battery-q4-35) | 55 kWh | 3kWh (5.45%)  | 52 kWh |
 
