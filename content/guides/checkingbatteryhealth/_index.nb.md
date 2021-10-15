@@ -77,7 +77,7 @@ Ny batterimodul ble byttet på garanti.
 
 ## Hvordan beskytte batteriet?
 
-Hvis du ønsker å leser mer hvordan man beskytter batteriet mot degradering så kan du lese [denne guiden](/guides/protectingbattery/).
+Hvis du ønsker å leser mer hvordan man beskytter batteriet mot degradering så kan du lese [denne guiden](/nb/guides/protectingbattery/).
 
 Hvis du ønsker å lære enda mer om batteri kan du lese vår [artikkel om batteri](/technology/battery/).
 
