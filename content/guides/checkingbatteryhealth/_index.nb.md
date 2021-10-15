@@ -54,9 +54,9 @@ For folk som liker å holde styr på dette, anbefaler vi å spore dette fra begy
 
 Følgende eksempel viser statistikken fra en e-tron 55 2020v1 med 83,6 kWh kapasitet fra den var ny.
 
-![Graph](graph1.jpg "Tracking of actual battery capacity compared with total consumption")
+![Graph](graph1.jpg "Loggføring av tilgjengelig batteri sammenlignet med brukt energi Oslo-Trysil over tid.")
 
-![Graph](graph2.jpg "Tracking of actual battery capacity compared with consumption kWh/100 km")
+![Graph](graph2.jpg "Loggføring av tilgjengelig batteri sammenlignet med forbruk  kWh/100 km")
 
 ## Hva hvis avviket er veldig stort?
 
@@ -72,6 +72,13 @@ Her er bilen kjært 118.1km med et forbruk på 21. Prosenten har gått ned fra 1
 
 Beregnet som over gir dette en totalakapasitet på batteriet på 33kWh. Langt under sitt originale 86.5kWh.
 
-Ny batterimodul ble byttet på garanti. 
+Ny batterimodul ble byttet på garanti.
+
+
+## Hvordan beskytte batteriet?
+
+Hvis du ønsker å leser mer hvordan man beskytter batteriet mot degradering så kan du lese [denne guiden](/guides/protectingbattery/).
+
+Hvis du ønsker å lære enda mer om batteri kan du lese vår [artikkel om batteri](/technology/battery/).
 
 {{% children description="true" depth="1" %}}
