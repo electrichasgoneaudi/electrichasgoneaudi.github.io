@@ -1,7 +1,7 @@
 ---
-title: How to verify battery health
-linktitle: Verify battery health
-description: It is possible with simple math to verify the overall status of your battery. This guide explains how.
+title: Hvordan sjekke batterihelsen
+linktitle: Sjekke batteriet.
+description: Det er mulig med enkel matte å kontrollere batteriets generelle helse. Denne guiden forklarer hvordan. 
 weight: 1
 ---
 
