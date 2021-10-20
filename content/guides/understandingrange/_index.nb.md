@@ -101,6 +101,8 @@ I den virkelige verden er det nesten umulig å få akkurat samme rekkevidde som 
 Førerforhold er en av faktorne som påvirker forbruket mest. Hvis det er tørr asfalt så er rullemotstanden mye lavere enn med våt vei eller vei 
 full av snø.
 
+Våt veibane kan i noen tilfeller øke forbruket med mer enn 50% tilsvarende helt tørr veibane.
+
 ### Hastighet
 
 Høy fart øker forbruket grunnet høyere luftmotstand. Biler som er mer aerodynamisk vil i mindre grad bli påvirekt av høy fart. 
@@ -112,6 +114,8 @@ F.eks A6 e-tron påvirker mindre av hastighet enn e-tron.
 Tempratureren påvirker rekkevidden på flere måter.  Hvis det er kaldt så er luften tettere noe som gir høyere luftmotstand.
 
 I tilegg, så vil varme eller kalde tempratur øke strømforbruket på klimanlegg for å få riktig tempratur i bil.
+
+Spesielt på korte turer vil slik oppvarming gjøre at det forbruket blir høyt da mye energi går til å varme i begynnelsen.
 
 ### Kjørestil
 
