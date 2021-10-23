@@ -10,14 +10,18 @@ The navigation system on the Audi e-tron is based on [HERE Maps](https://www.her
 
 The navigation system will help to navigate to your destination, but also will help find charging stations, parking, and other points of interestest along the route.
 
-The navigation system is available in the [virtual cockpit](../virtualcockpit/), the [Head up display](../headupdisplay/), and [Audi MMi](../mmi/) and
-will help to find your trip destination.
+The navigation system is available in the [virtual cockpit](../virtualcockpit/), the [Head up display](../headupdisplay/), and [Audi MMi](../mmi/) and will help to find your trip destination.
+
+You can enable Google maps based satelite photos and google based search. 
+
+Traffic information
 
 ## Additional benefits
 
 - Calculate range more correctly when the destination is set based on information of the route
 - Inform the driver assist system about the road ahead so it can reduce speed based on information about the route or speed limit.
 - Inform the driver assist systems about where you are going, so the car can take preventive measures like reducing speed before you are turning off a road.
+- Tell the garage opener you are closing up to your garage so it can automicly select the correct garage door to open. 
 
 ## Search & Route planning
 
@@ -32,6 +36,18 @@ In the below set of images, you see how it is to search and create a route going
 ![Search](search4.jpg "Step 4: Suggested charging stops")
 
 ![Search](search5.jpg "Step 5: Planned route")
+
+![Search](search6.jpg "When driving the lower MMI screen supports handwriting")
+
+The route planning support up to 10 destinations along a route. 
+
+## Range indication
+
+The Navigation system also support presenting the range on map. The blue area is the theoretical range area.
+
+![Range](range.jpg "Range indicated with the blue area")
+
+![Planet](planet.jpg "You can cover the whole planet with your all-electric Audi")
 
 ## Maps updates
 
