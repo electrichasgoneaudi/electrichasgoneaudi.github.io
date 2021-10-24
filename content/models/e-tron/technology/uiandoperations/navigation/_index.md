@@ -71,4 +71,11 @@ A message will appear if the MMI calculates a better route for the current route
 
 Maps are automatically updated through [Audi Connect](/technology/audiconnect/). It requires a valid subscription to Audi Connect.
 
+## GPS Antenna
+
+The GPS antenna used by the navigation system is located on roof of e-tron
+
+![Antenna](antenna.jpg "GPS antenna on roof of e-tron and e-tron Sportback")
+
+
 {{% children description="true" depth="1" %}}
