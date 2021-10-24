@@ -13,7 +13,6 @@ The image is projected onto the windshield. The information appears to hover aro
 
 ![Heads Up Display](headup2.jpg "Headup with route information and efficient assistant suggesting to slow down")
 
-
 The head up display has optionId **KS1**
 
 {{% children description="true" depth="1" %}}
