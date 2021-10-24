@@ -18,6 +18,8 @@ If the cruise assist is switched on or the ACC is activated, efficiency assist r
 
 The driver can override the system at any time by accelerating and braking. In addition, drivers can individually activate, deactivate and configure many of their detailed functions in the MMI. Depending on the model, the control, for example, can be adapted to the course of the road in three stages: slow, medium or fast.
 
+![Headup](headup.jpg "Efficience assistent in headup suggesting to reduce speed")
+
 This option is part of the tour driver assistance package with option id **PCC**
 
 

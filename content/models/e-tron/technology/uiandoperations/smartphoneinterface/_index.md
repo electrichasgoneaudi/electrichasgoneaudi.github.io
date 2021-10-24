@@ -2,7 +2,7 @@
 title: Smartphone Interface
 linktitle: Smartphone Interface
 description: With the Smartphone Interface option you expand your smartphone in to the MMI system
-weight: 4
+weight: 5
 ---
 
 With Audi smartphone interface with option id **IU1** you get the possibility to use Apple Carplay or Android Auto in your MMI system.

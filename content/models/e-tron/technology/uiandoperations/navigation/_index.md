@@ -2,9 +2,8 @@
 title: Navigation system
 linktitle: Navigation system
 description: Audi e-tron is equipped with MMI Navigation plus that gives navigation over three screens.
-weight: 5
+weight: 2
 ---
-
 
 The navigation system on the Audi e-tron is based on [HERE Maps](https://www.here.com/strategic-alliances/audi/IVIdemo).
 
@@ -14,16 +13,19 @@ The navigation system is available in the [virtual cockpit](../virtualcockpit/),
 
 You can enable Google maps-based Satellite photos and google based search to enrich the experience.
 
-Traffic information
+![Navigation system](navigation2.jpg "The Navigation system in Virtual Cockpit with google maps satellite images")
 
 ## Additional benefits
 
+Using the Audi e-tron Navigation systems has some additional benefits you don't get when using external navigation from your phone.
+
+- Calculate what the charge level will be at your destination
 - Calculate range more correctly when the destination is set based on information of the route
-- Inform the [Efficent Assitant](/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/) and [Adaptive Cruise Assist](/models/e-tron/technology/drivingassistance/adaptivecruiseassist/) about the road ahead so it can reduce speed based on information about the route or speed limit.
+- Inform the [Efficient Assitant](/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/) and [Adaptive Cruise Assist](/models/e-tron/technology/drivingassistance/adaptivecruiseassist/) about the road ahead so it can reduce speed based on information about the route or speed limit.
 - Inform the driver assist systems about where you are going, so the car can take preventive measures like reducing speed before you are turning off a road.
 - Tell the garage opener you are closing up to your garage so it can atomically select the correct garage door to open.
 
-![Headup](headup.jpg "Head-up display with route info and effiency assistant suggesting to slow down")
+![Headup](headup.jpg "Head-up display with route info and efficiency assistant suggesting to slow down")
 
 ## Search & Route planning
 
@@ -37,13 +39,15 @@ In the below set of images, you see how it is to search and create a route going
 
 ![Search](search3.jpg "Step 3: Navigation informs that you don't have enough charge going to IKEA and suggest adding charging along the route")
 
-![Search](search4.jpg "Step 4: Suggested charging stops")
+![Search](search4.jpg "Step 4: Suggested charging stops including expected battery state of charge at destination")
 
 ![Search](search5.jpg "Step 5: Planned route")
 
-![Search](search6.jpg "When driving the lower MMI screen supports handwriting")
+![Search](search6.jpg "When driving the lower MMI screen supports handwriting for search")
 
 The route planning supports up to 10 stopovers along a route.
+
+You can search for points of interest, chargers, parking based from the Here maps database. You can also perform online searches for points of interest.
 
 ## Range indication
 
@@ -73,9 +77,8 @@ Maps are automatically updated through [Audi Connect](/technology/audiconnect/).
 
 ## GPS Antenna
 
-The GPS antenna used by the navigation system is located on roof of e-tron
+The GPS antenna used by the navigation system is located on the roof of e-tron
 
 ![Antenna](antenna.jpg "GPS antenna on roof of e-tron and e-tron Sportback")
-
 
 {{% children description="true" depth="1" %}}

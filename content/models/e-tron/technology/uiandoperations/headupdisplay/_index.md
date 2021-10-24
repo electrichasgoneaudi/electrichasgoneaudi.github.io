@@ -2,7 +2,7 @@
 title: Heads up display
 linktitle: Heads up display
 description: Audi e-tron can be equipped with heads up display
-weight: 3
+weight: 4
 ---
 
 The head-up display projects information relevant to the driver as symbols and numbers that can be quickly perceived within the driver’s direct field of view, including navigation and warning messages and data from assistance systems. The human eye perceives the information extremely quickly – and there’s no need for drivers to refocus from their accustomed long-range view.
