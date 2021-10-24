@@ -29,6 +29,12 @@ Using the Audi e-tron Navigation systems has some additional benefits you don't 
 
 ## Search & Route planning
 
+The e-tron route planner calculates the fastest route, considers traffic and road data, includes the driver’s driving style, calculates the duration of the charging stops and incorporates them in planning the total travel time.
+
+![Navigation system](navigation3.jpg "The Navigation system in Virtual Cockpit with google maps satellite images")
+
+Users receive important information such as the charging capacity or charging connections and plug types for the relevant charging stations. Moreover, the system indicates dynamic availability, for instance, whether or not charging stations are vacant or occupied, always with a bias for moving forward quickly. For example, two short charging processes with high charging capacity may yield time-related advantages over one long stop with low charging capacity. Alternative routes with better charging infrastructure are considered in the calculation of the optimal total travel time as well. The Audi e-tron route planner gives preference to the powerful HPC charging stations (HPC = High Power Charging).
+
 You can plan routes from previous destinations, favorites, contact addresses, and receive destinations from the myAudi app.
 
 In the below set of images, you see how it is to search and create a route going to IKEA from the MMI system.
