@@ -10,6 +10,8 @@ The navigation system on the Audi e-tron is based on [HERE Maps](https://www.her
 
 The navigation system is available in the [virtual cockpit](../virtualcockpit/), the [Head up display](../headupdisplay/), and [Audi MMi](../mmi/) and will help to navigate to your destination, but also will help find charging stations, parking, and other points of interestest along the route.
 
+![Navigation system](navigation.jpg "The Navigation system in Virtual Cockpit and MMI")
+
 You can enable Google maps-based Satellite photos and google based search to enrich the experience.
 
 Traffic information
@@ -17,9 +19,11 @@ Traffic information
 ## Additional benefits
 
 - Calculate range more correctly when the destination is set based on information of the route
-- Inform the driver assist system about the road ahead so it can reduce speed based on information about the route or speed limit.
+- Inform the [Efficent Assitant](/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/) and [Adaptive Cruise Assist](/models/e-tron/technology/drivingassistance/adaptivecruiseassist/) about the road ahead so it can reduce speed based on information about the route or speed limit.
 - Inform the driver assist systems about where you are going, so the car can take preventive measures like reducing speed before you are turning off a road.
 - Tell the garage opener you are closing up to your garage so it can atomically select the correct garage door to open.
+
+![Headup](headup.jpg "Head-up display with route info and effiency assistant suggesting to slow down")
 
 ## Search & Route planning
 
