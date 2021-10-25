@@ -1,23 +1,23 @@
 ---
 title: Navigation system
 linktitle: Navigation system
-description: Audi e-tron is equipped with MMI Navigation plus that gives navigation over three screens.
+description: Audi e-tron is equipped with MMI Navigation plus that helps to navigate to the destination.
 weight: 2
 ---
 
-The navigation system on the Audi e-tron is based on [HERE Maps](https://www.here.com/strategic-alliances/audi/IVIdemo).
+The navigation system on the Audi e-tron is based on maps and data from [HERE Maps](https://www.here.com/strategic-alliances/audi/IVIdemo).
 
 The navigation system is available in the [virtual cockpit](../virtualcockpit/), the [Head up display](../headupdisplay/), and [Audi MMi](../mmi/) and will help to navigate to your destination, but also will help find charging stations, parking, and other points of interestest along the route.
 
 ![Navigation system](navigation.jpg "The Navigation system in Virtual Cockpit and MMI")
 
-You can enable Google maps-based Satellite photos and google based search to enrich the experience.
+You can enable Google maps-based Satellite photos and google based search to enrich the experience even more.
 
 ![Navigation system](navigation2.jpg "The Navigation system in Virtual Cockpit with google maps satellite images")
 
 ## Additional benefits
 
-Using the Audi e-tron Navigation systems has some additional benefits you don't get when using external navigation from your phone.
+Using the Audi e-tron Navigation systems has some additional benefits you don't get when using external navigation from your phone or other GPS unit.
 
 - Calculate what the charge level will be at your destination
 - Calculate range more correctly when the destination is set based on information of the route
