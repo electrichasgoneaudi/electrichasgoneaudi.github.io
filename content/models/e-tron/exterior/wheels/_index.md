@@ -66,6 +66,8 @@ Sold as winter tires by Audi Norway.
 
 Sold as winter tires by Audi Norway. Part No: **CA0**
 
+![20-inch 10J 5V design wheels for e-tron S](wheel_CA0_2.jpg "20-inch 10J 5V design wheels for e-tron S")
+
 
 ![20-inch 10J 5V design wheels for e-tron S](wheel_CA0_1.jpg "20-inch 10J 5V design wheels for e-tron S")
 
