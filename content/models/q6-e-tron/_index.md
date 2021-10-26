@@ -8,7 +8,9 @@ weight: 4
 
 On March 18. 2021 Audi confirmed the Audi Q6 e-tron will have a world premiere in 2022. This will be build on the new PPE platform.
 
-It is also expected it will be an Audi SQ6 e-tron.
+It is also expected it will be an Audi SQ6 e-tron. Se below for spy video and spy photo of the Q6 e-tron testdriving.
+
+{{< youtube KFGy7p0Q3yo>}}
 
 ![Carbuzz photo of Q6 Prototype](prototype1.jpg "Carbuzz photo of Q6 e-tron Prototype")
 
