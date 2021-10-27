@@ -1,19 +1,21 @@
 ---
 title: Navigation system
 linktitle: Navigation system
-description: Audi e-tron is equipped with MMI Navigation plus that helps to navigate to the destination.
+description: Audi Q4 e-tron has an optional navigation system. This is MMI Navigation plus system that helps to navigate to the destination.
 weight: 2
 ---
 
-The navigation system on the Audi e-tron is based on maps and data from [HERE Maps](https://www.here.com/strategic-alliances/audi/IVIdemo).
+The navigation system on the Audi Q4 e-tron is based on maps and data from [HERE Maps](https://www.here.com/strategic-alliances/audi/IVIdemo).
 
 The navigation system is available in the [virtual cockpit](../virtualcockpit/), the [Head up display](../headupdisplay/), and [Audi MMi](../mmi/) and will help to navigate to your destination, but also will help find charging stations, parking, and other points of interestest along the route.
 
-![Navigation system](navigation.jpg "The Navigation system in Virtual Cockpit and MMI")
-
 You can enable Google maps-based Satellite photos and google based search to enrich the experience even more.
 
-![Navigation system](navigation2.jpg "The Navigation system in Virtual Cockpit with google maps satellite images")
+![Navigation](navigationmmiscreen.jpg "Navigation in MMI Main screen")
+
+![Navigation](mminavigationvirtualcockpit.jpg "Navigation in virtual cockpit")
+
+MMI Navigation plus is available in the [MMI Navigation Plus package](/models/q4-e-tron/optionguide/list/#infotainment) **PYG** and [MMI Navigation Pro](/models/q4-e-tron/optionguide/list/#infotainment) package **PYH**
 
 - Detailed route information: map preview, choice of alternative routes, POIs, lane recommendations, motorway exits, detailed intersection maps and much more. Use of navigation data for predictive and efficient driving
 - Personal route assistance: when the function is activated, monitors the traffic situation on regularly travelled routes - e.g. between home and work - and offers a route calculation to avoid traffic jams after a delay of at least five minutes
@@ -21,13 +23,11 @@ You can enable Google maps-based Satellite photos and google based search to enr
 - Country information: display of country-specific information
 - Map display and route guidance in the Audi virtual cockpit
 
-See below for detailed information about the features. 
+See below for detailed information about the features.
 
 ## Search & Route planning
 
 The e-tron route planner calculates the fastest route, considers traffic and road data, includes the driver’s driving style, calculates the duration of the charging stops and incorporates them in planning the total travel time.
-
-![Navigation system](navigation3.jpg "The Navigation system in Virtual Cockpit with google maps satellite images")
 
 Users receive important information such as the charging capacity or charging connections and plug types for the relevant charging stations. Moreover, the system indicates dynamic availability, for instance, whether or not charging stations are vacant or occupied, always with a bias for moving forward quickly. For example, two short charging processes with high charging capacity may yield time-related advantages over one long stop with low charging capacity. Alternative routes with better charging infrastructure are considered in the calculation of the optimal total travel time as well. The Audi e-tron route planner gives preference to the powerful HPC charging stations (HPC = High Power Charging).
 
@@ -44,8 +44,6 @@ In the below set of images, you see how it is to search and create a route going
 ![Search](search4.jpg "Step 4: Suggested charging stops including expected battery state of charge at destination")
 
 ![Search](search5.jpg "Step 5: Planned route")
-
-![Search](search6.jpg "When driving the lower MMI screen supports handwriting for search")
 
 The route planning supports up to 10 stopovers along a route.
 
@@ -73,6 +71,8 @@ By receiving traffic information, the Navigation System calculates a better rout
 
 A message will appear if the MMI calculates a better route for the current route guidance. The predicted delay takes into account future  changes to the traffic situation on the route. 
 
+
+
 ## Additional benefits
 
 Using the Audi e-tron Navigation systems has some additional benefits you don't get when using external navigation from your phone or other GPS unit.
@@ -84,6 +84,8 @@ Using the Audi e-tron Navigation systems has some additional benefits you don't 
 - Tell the garage opener you are closing up to your garage so it can atomically select the correct garage door to open.
 
 ![Headup](headup.jpg "Head-up display with route info and efficiency assistant suggesting to slow down")
+
+
 ## Maps updates
 
 Maps are automatically updated through [Audi Connect](/technology/audiconnect/). It requires a valid subscription to Audi Connect.
