@@ -24,11 +24,9 @@ It includes traditional speed, battery state, power bar figures as well as infor
 
 Fixed indicators are shown along the lower edge; they show the outside temperature, time and odometer readings as well as warning and information symbols.
 
+![Virtual cockpit](mminavigationvirtualcockpit.jpg " Virtual Cockpit classic mode infotainment view")
+
 The image is refreshed 60 times per second so that the virtual needle of the rev counter tracks smoothly and very precisely.
-
-There are 3 modes available.
-
-![Virtual cockpit modes](virtualcockpitmodes.jpg "Virtual cockpit modes")
 
 The driver can use the View button on the multifunction steering wheel to switch the Audi virtual cockpit between two views:
 Infotainment view and driver view
@@ -37,6 +35,10 @@ While the tachometer and speedometer are displayed as large dial-type gages in d
 
 It creates a large stage for the navigation map or for lists in the phone, radio and audio areas. In this case, the tachometer and speedometer are displayed as small dial instruments.
 
-![Virtual cockpit](mminavigationvirtualcockpit.jpg " Virtual Cockpit classic mode infotainment view")
+### Virtual Cockpit Plus
+
+With virtual cockpit you get two different modes. But with Virtual Cockpit plus you get an additional e-tron mode.
+
+![Virtual cockpit modes](virtualcockpitmodes.jpg "Virtual cockpit modes")
 
 {{% children description="true" depth="1" %}}
