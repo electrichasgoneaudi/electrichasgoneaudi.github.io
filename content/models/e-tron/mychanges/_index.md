@@ -58,7 +58,7 @@ If build month is 122019 or later it should be a upgraded version
 - Black optics plus package available (black rings)
 - Black Edition with orange details in interior
 - New packages for the US marked
-- The streaming service Apple Music is now available optionally as a new Audi connect service.
+- The streaming service Apple Music is now available optionally as a new Audi connect service, only in selected markets.
 - Support for Wirless Android Auto
 - Shortcut to charging screen in MMI added to lower MMI screen
 
