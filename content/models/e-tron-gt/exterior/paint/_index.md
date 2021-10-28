@@ -240,5 +240,5 @@ Color Code: **Y1**
     <a href="paint_nardogrey_1.jpg">
         <img src="paint_nardogrey_1s.jpg" alt="Audi e-tron GT in Nardo Grey" title="Audi e-tron GT in Nardo Grey">
     </a>
-    <figcaption><h4>Audi e-tron GT in Nardo Grey</h4></figcaption>
+    <figcaption><h4>Audi e-tron GT in Nardo Grey by @auditography</h4></figcaption>
 </figure>
