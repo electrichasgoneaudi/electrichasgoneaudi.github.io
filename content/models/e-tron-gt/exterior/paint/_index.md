@@ -188,3 +188,57 @@ Color Code: **OE**
 ![Audi e-tron GT in Mythos Black](paint_mythosblack_1.jpg "Audi e-tron GT in Mythos Black")
 
 ![Audi e-tron GT in Mythos Black](paint_mythosblack_2.jpg "Audi e-tron GT in Mythos Black")
+
+
+
+## Audi Exclusive Paint colors
+
+It is possible to order Audi e-tron GT with Audi exclusive Paint colors. There are lots of colors to choose from.
+
+Below you see some of the colors you can choose from.
+
+<figure>
+    <a href="paint_exclusive_overview1.jpg">
+        <img src="paint_exclusive_overview1s.jpg" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
+    </a>
+    <figcaption><h4>Pearl effect paint finishes</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_exclusive_overview2.jpg">
+        <img src="paint_exclusive_overview2s.jpg" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
+    </a>
+    <figcaption><h4>Crystal effect paint finishes</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_exclusive_overview3.jpg">
+        <img src="paint_exclusive_overview3s.jpg" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
+    </a>
+    <figcaption><h4>Uni paint finishes</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_exclusive_overview4.jpg">
+        <img src="paint_exclusive_overview4s.jpg" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
+    </a>
+    <figcaption><h4>Metallic paint finishes</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_exclusive_overview5.jpg">
+        <img src="paint_exclusive_overview5s.jpg" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
+    </a>
+    <figcaption><h4>Metallic paint finishes</h4></figcaption>
+</figure>
+
+### Nardo Grey
+
+Color Code: **Y1**
+
+<figure>
+    <a href="paint_nardogrey_1.jpg">
+        <img src="paint_nardogrey_1s.jpg" alt="Audi e-tron GT in Nardo Grey" title="Audi e-tron GT in Nardo Grey">
+    </a>
+    <figcaption><h4>Audi e-tron GT in Nardo Grey</h4></figcaption>
+</figure>
