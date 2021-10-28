@@ -28,7 +28,7 @@ Production started in the [Audi Brussels Plant](https://www.google.com/maps/plac
 - Other efficiency improvments (see diagram below)
 - Also available as e-tron 50 with smaller battery
 - Available as Sportback from week 2-2020
-- Upgrade is not available as update to older models
+- [Upgrade was made available as upgrade *93M3* to earlier production models from October 28. 2021](https://kommunikasjon.ntb.no/pressemelding/programvareoppgradering-for-audi-e-tron-55-quattro?publisherId=14867825&releaseId=17918998)
 
 ![Uppgrades](my2020v2.jpg "Upgrades to e-tron 55 from week 49-2019 and how they affect range")
 
@@ -58,7 +58,7 @@ If build month is 122019 or later it should be a upgraded version
 - Black optics plus package available (black rings)
 - Black Edition with orange details in interior
 - New packages for the US marked
-- The streaming service Apple Music is now available optionally as a new Audi connect service.
+- The streaming service Apple Music is now available optionally as a new Audi connect service, only in selected markets.
 - Support for Wirless Android Auto
 - Shortcut to charging screen in MMI added to lower MMI screen
 
