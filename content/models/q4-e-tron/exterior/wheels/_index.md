@@ -15,8 +15,19 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
 
  Part No: **40S**
 
-![19 inch 5-arm design](wheel_40S_1.png "19 inch 5-arm design")
+<figure>
+    <a href="wheel_40S_1.jpg">
+        <img src="wheel_40S_1s.jpg" alt="19 inch 5-arm design" title="19 inch 5-arm design">
+    </a>
+    <figcaption><h4>19 inch 5-arm design</h4></figcaption>
+</figure>
 
+<figure>
+    <a href="wheel_40S_2.jpg">
+        <img src="wheel_40S_2s.jpg" alt="19 inch 5-arm design" title="19 inch 5-arm design">
+    </a>
+    <figcaption><h4>19 inch 5-arm design</h4></figcaption>
+</figure>
 
 ## 19" 5-W design
 
@@ -24,7 +35,12 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
 
  Part No: **40Z**
 
-![19 inch 5-arm design](wheel_40Z_1.png "19 inch 5-W design")
+<figure>
+    <a href="wheel_40Z_1.jpg">
+        <img src="wheel_40Z_1s.jpg" alt="19 inch 5-W design" title="19 inch 5-W design">
+    </a>
+    <figcaption><h4>19 inch 5-W design</h4></figcaption>
+</figure>
 
 ## 20" 5Y design
 
@@ -32,7 +48,19 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
 
  Part No: **55J**
 
-![20 inch 5Y design](wheel_55J_1.png "20 inch 5Y design")
+<figure>
+    <a href="wheel_55J_2.jpg">
+        <img src="wheel_55J_2s.jpg" alt="20 inch 5Y design" title="20 inch 5Y design">
+    </a>
+    <figcaption><h4>20 inch 5Y design</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="wheel_55J_1.jpg">
+        <img src="wheel_55J_1s.jpg" alt="20 inch 5Y design" title="20 inch 5Y design graphite grey">
+    </a>
+    <figcaption><h4>20 inch 5Y design</h4></figcaption>
+</figure>
 
 ## 20" 5Y graphite grey design
 
@@ -53,7 +81,6 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
     </a>
     <figcaption><h4>20 inch 5Y design graphite grey</h4></figcaption>
 </figure>
-
 
 ## 20" 10 spoke design
 
