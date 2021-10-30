@@ -173,7 +173,7 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
 
 <figure>
     <a href="wheel_56H_2.jpg">
-        <img src="wheel_56H_2s.jpg" alt="20 inch 5V design" title="20 inch 5V design">
+        <img src="wheel_56H_2.jpg" alt="20 inch 5V design" title="20 inch 5V design">
     </a>
     <figcaption><h4>20 inch 5V design</h4></figcaption>
 </figure>
