@@ -234,11 +234,18 @@ Below you see some of the colors you can choose from.
 
 ### Nardo Grey
 
-Color Code: **Y1**
+Color Code: **Y7C**
 
 <figure>
     <a href="paint_nardogrey_1.jpg">
         <img src="paint_nardogrey_1s.jpg" alt="Audi e-tron GT in Nardo Grey" title="Audi e-tron GT in Nardo Grey">
+    </a>
+    <figcaption><h4>Audi e-tron GT in Nardo Grey by @auditography</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_nardogrey_2.jpg">
+        <img src="paint_nardogrey_2s.jpg" alt="Audi e-tron GT in Nardo Grey" title="Audi e-tron GT in Nardo Grey">
     </a>
     <figcaption><h4>Audi e-tron GT in Nardo Grey by @auditography</h4></figcaption>
 </figure>
