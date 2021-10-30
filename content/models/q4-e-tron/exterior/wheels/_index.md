@@ -164,9 +164,20 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
 
  Part No: **56H**
 
-![20 inch 5Y design](wheel_56H_1.png "20 inch 5V design")
+<figure>
+    <a href="wheel_56H_1.jpg">
+        <img src="wheel_56H_1s.jpg" alt="20 inch 5V design" title="20 inch 5V design">
+    </a>
+    <figcaption><h4>20 inch 5V design</h4></figcaption>
+</figure>
 
-![20 inch 5Y design](wheel_56H_2.jpg "20 inch 5V design")
+<figure>
+    <a href="wheel_56H_2.jpg">
+        <img src="wheel_56H_2s.jpg" alt="20 inch 5V design" title="20 inch 5V design">
+    </a>
+    <figcaption><h4>20 inch 5V design</h4></figcaption>
+</figure>
+
 
 ## 21" 5-arm rotor design
 
