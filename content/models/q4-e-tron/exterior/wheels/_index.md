@@ -42,6 +42,40 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
     <figcaption><h4>19 inch 5-W design</h4></figcaption>
 </figure>
 
+<figure>
+    <a href="wheel_40Z_2.jpg">
+        <img src="wheel_40Z_2s.jpg" alt="19 inch 5-W design" title="19 inch 5-W design">
+    </a>
+    <figcaption><h4>19 inch 5-W design</h4></figcaption>
+</figure>
+
+## 20" 5-spoke V-style design
+
+8.0J x 20 with 235/50R 20 tires in front and 9.0J 20 with 255/45R 20 tires rear.
+
+ Part No: **44L**
+
+<figure>
+    <a href="wheel_44L_2.jpg">
+        <img src="wheel_44L_2s.jpg" alt="5-spoke V-style design" title="5-spoke V-style design">
+    </a>
+    <figcaption><h4>5-spoke V-style design</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="wheel_44L_3.jpg">
+        <img src="wheel_44L_3s.jpg" alt="5-spoke V-style design" title="5-spoke V-style design">
+    </a>
+    <figcaption><h4>5-spoke V-style design</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="wheel_44L_1.jpg">
+        <img src="wheel_44L_1s.jpg" alt="5-spoke V-style design" title="5-spoke V-style design">
+    </a>
+    <figcaption><h4>5-spoke V-style design</h4></figcaption>
+</figure>
+
 ## 20" 5Y design
 
 8.0J x 20 with 235/50R 20 tires in front and 9.0J 20 with 255/45R 20 tires rear.
@@ -62,6 +96,24 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
     <figcaption><h4>20 inch 5Y design</h4></figcaption>
 </figure>
 
+
+<figure>
+    <a href="wheel_55J_3.jpg">
+        <img src="wheel_55J_3s.jpg" alt="20 inch 5Y design" title="20 inch 5Y design graphite grey">
+    </a>
+    <figcaption><h4>20 inch 5Y design</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="wheel_55J_4.jpg">
+        <img src="wheel_55J_4s.jpg" alt="20 inch 5Y design" title="20 inch 5Y design graphite grey">
+    </a>
+    <figcaption><h4>20 inch 5Y design</h4></figcaption>
+</figure>
+
+
+
 ## 20" 5Y graphite grey design
 
 8.0J x 20 with 235/50R 20 tires in front and 9.0J 20 with 255/45R 20 tires rear.
@@ -81,6 +133,22 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
     </a>
     <figcaption><h4>20 inch 5Y design graphite grey</h4></figcaption>
 </figure>
+
+<figure>
+    <a href="wheel_55K_3.jpg">
+        <img src="wheel_55K_3s.jpg" alt="20 inch 5Y design graphite grey" title="20 inch 5Y design graphite grey">
+    </a>
+    <figcaption><h4>20 inch 5Y design graphite grey</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="wheel_55K_4.jpg">
+        <img src="wheel_55K_4s.jpg" alt="20 inch 5Y design graphite grey" title="20 inch 5Y design graphite grey">
+    </a>
+    <figcaption><h4>20 inch 5Y design graphite grey</h4></figcaption>
+</figure>
+
 
 ## 20" 10 spoke design
 
