@@ -156,7 +156,20 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
 
  Part No: **56J**
 
-![20 inch 10-spoke design](wheel_56J_1.png "20 inch 10-spoke design")
+ <figure>
+    <a href="wheel_56J_1.jpg">
+        <img src="wheel_56J_1s.jpg" alt="20 inch 10 spoke design" title="20 inch 10 spoke design">
+    </a>
+    <figcaption><h4>20" 10 spoke design</h4></figcaption>
+</figure>
+
+
+ <figure>
+    <a href="wheel_56J_2.jpg">
+        <img src="wheel_56J_2s.jpg" alt="20 inch 10 spoke design" title="20 inch 10 spoke design">
+    </a>
+    <figcaption><h4>20" 10 spoke design</h4></figcaption>
+</figure>
 
 ## 20" 5V design
 
