@@ -1,53 +1,53 @@
 ---
-title: S-line exterior package
+title: S-line eksteriør pakke
 linktitle: S-line
-description: The S-line exterior package contains additional styling elements. 
+description: S-line eksteriørpakken inneholder ekstra styling elementer. 
 weight: 3
 ---
 
+Den mer karakteristiske støtfangeren er flankert av mer uttrykksfulle sølvfargete luftinntak .
 
-
-The more distinctively contoured bumper is flanked by more expressive air curtains painted in silver.
-
-In addition, the Single frame grill has a shadow look compared with the standard that has a silver look.
+I tillegg har Single frame-grillen et skyggeutseende sammenlignet med standarden som har er ensartet sølvfarge
 
 ![Standard front](standard-front.jpg "Standard front")
 
 ![Florett Silver](s-line-front.jpg "S-line front ")
 
-![Standard single frame grill](standard-singleframe.jpg "standard single frame grill with silver styling")
+![Standard single frame grill](standard-singleframe.jpg "standard single frame grill med sølvfarge")
 
-![Shadow single frame grill](s-line-singleframe.jpg "s-line single frame grill with shadow styling")
+![Shadow single frame grill](s-line-singleframe.jpg "s-line single frame grill med skygge styling")
 
-The rear diffusor have a more sporty and dynamic look.
+Den bakre diffusoren har et mer sporty og dynamisk utseende. 
 
-![Standard diffusor](standard-diffusor.jpg "Standard rear")
+![Standard diffusor](standard-diffusor.jpg "Standard bakdel")
 
-![S-line diffusor](s-line-diffusor.jpg "S-Line rear with more sporty diffusor")
+![S-line diffusor](s-line-diffusor.jpg "S-Line bakdel med en mer sporty diffusor")
 
-Elements on the door is in silver compared to standard that has body color or contrast color for standard.
-This element is black when combined with black optics.
+Elementer på døren er i sølv i forhold til standard som har karrosserifarge eller kontrastfarge for standard.
 
-![Standard side](standard-side.jpg "Standard side with full body color")
+Dette elementet er svart når det kombineres med svart optikk.
 
-![S-line side](s-line-side.jpg "S-line side with silver body element with contrast color")
+![Standard side](standard-side.jpg "Standard side med hellakering")
 
-![S-line side](s-line-side-fullbody.jpg "S-line side full body color with silver element")
+![S-line side](s-line-side.jpg "S-line side med sølvfargede karoserielementer med kontrastfarge")
 
-![S-line side](s-line-side-fullbody-blackoptics.jpg "S-line side with black optics and full body color with black element ")
+![S-line side](s-line-side-fullbody.jpg "S-line side med hellakkert karoseri med sølv elementer")
 
-You get a s-line badge with the s-line package.
+![S-line side](s-line-side-fullbody-blackoptics.jpg "S-line side med svart optikk og helakkering med svarte karoserielementer")
 
-![s-line-badge](s-line-badge.jpg "s-line badge")
+Du får også et S-line merke med S-line eksteriørpakken.
 
-The option Id is **PY2** for s-line exterior.
+![s-line-badge](s-line-badge.jpg "s-line merke")
 
-S-line exterior package can be combined with a [black optics](/models/q4-e-tron/exterior/optics) package
+Opsjonsid er **PY2** for s-line eksteriør
 
-## Additional requiremens with S-line exterior
+S-line eksteriørpakken kan kombinerres med [sort opptikk](/models/q4-e-tron/exterior/optics) pakken
 
-It is important to know if you want the s-line exterior option (PY2) it is required to have minimum 20" wheels and
-you need to choose [sport suspension](https://electrichasgoneaudi.net/models/q4-e-tron/drivetrain/suspension/) (option ID **1JC**) or [dynamic package plus](https://electrichasgoneaudi.net/models/q4-e-tron/drivetrain/suspension/#dynamic-package-plus-option-py9) with option PY9.
+## Tilleggskrav med S-line eksteriør
+
+
+Det er viktig å vite om du vil ha s-line eksteriøralternativet (PY2), må det ha minimum 20" hjul og
+du må velge  [sports dempere](/models/q4-e-tron/drivetrain/suspension/) (option ID **1JC**) eller [dynamikkpakke plus](/models/q4-e-tron/drivetrain/suspension/#dynamic-package-plus-option-py9) med opsjonsID **PY9**.
 
 
 {{% children description="true" depth="1" %}}
