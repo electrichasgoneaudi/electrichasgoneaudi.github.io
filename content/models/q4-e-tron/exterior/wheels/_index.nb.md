@@ -1,17 +1,17 @@
 ---
-title: Audi Q4 e-tron wheels
-linktitle: Wheels
-description: Audi Q4 e-tron has serveral wheel options.
+title: Audi Q4 e-tron felger
+linktitle: Felger
+description: Audi Q4 e-tron har flere felger å velge mellom
 weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
 
-The following wheels have been available from Audi to Audi Q4 e-tron. Varies for the different markets.
-Center bore is 57.1mm and bolt pattern is 5x112mm.
+Følgende felger er tilgjengelig fra Audi til Audi Q4 e-tron.
+Senterboring er 57,1 mm og boltmønster er 5x112 mm.
 
 ## 19" 5-arm design
 
-8,0 J x 19 with 235/55 R 19 tires front and 255/50 R 19 tires rear
+8,0 J x 19 med 235/55 R 19 dekk foran og 255/50 R 19 dekk bak
 
  Part No: **40S**
 
@@ -31,7 +31,7 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
 
 ## 19" 5-W design
 
-8,0 J x 19 with 235/55 R 19 tires front and 255/50 R 19 tires rear
+8,0 J x 19 med 235/55 R 19 dekk foran og 255/50 R 19 dekk bak
 
  Part No: **40Z**
 
@@ -51,7 +51,7 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
 
 ## 20" 5-spoke V-style design
 
-8.0J x 20 with 235/50R 20 tires in front and 9.0J 20 with 255/45R 20 tires rear.
+8.0J x 20 med 235/50R 20 dekk foran og 9.0J 20 med 255/45R 20 dekk bak.
 
  Part No: **44L**
 
@@ -78,7 +78,7 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
 
 ## 20" 5Y design
 
-8.0J x 20 with 235/50R 20 tires in front and 9.0J 20 with 255/45R 20 tires rear.
+8.0J x 20 med 235/50R 20 dekk foran og 9.0J 20 med 255/45R 20 dekk bak.
 
  Part No: **55J**
 
@@ -116,7 +116,7 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
 
 ## 20" 5Y graphite grey design
 
-8.0J x 20 with 235/50R 20 tires in front and 9.0J 20 with 255/45R 20 tires rear.
+8.0J x 20 med 235/50R 20 dekk foran og 9.0J 20 med 255/45R 20 dekk bak.
 
  Part No: **55K**
 
@@ -152,7 +152,7 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
 
 ## 20" 10 spoke design
 
-8.0J x 20 with 235/50R 20 tires in front and 9.0J 20 with 255/45R 20 tires rear.
+8.0J x 20 med 235/50R 20 dekk foran og 9.0J 20 med 255/45R 20 dekk bak.
 
  Part No: **56J**
 
@@ -179,7 +179,7 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
 
 ## 20" 5V design
 
-8.0J x 20 with 235/50R 20 tires in front and 9.0J 20 with 255/45R 20 tires rear.
+8.0J x 20 med 235/50R 20 dekk foran og 9.0J 20 med 255/45R 20 dekk bak.
 
  Part No: **56H**
 
@@ -200,7 +200,7 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
 
 ## 21" 5-arm rotor design
 
-8,5 J x 21 ET 40 wheels with 235/45 R 21 tires front 9,0 J x 21 ET 42 wheels with 255/40 R 21 tires rear
+8,5 J x 21 ET 40 felger med 235/45 R 21 dekk foran 9,0 J x 21 ET 42 felger med  255/40 R 21 dekk bak.
 
  Part No: **55L**
 
@@ -227,7 +227,7 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
 
 ## 21" 5-W design
 
-8,5 J x 21 ET 40 wheels with 235/45 R 21 tires front 9,0 J x 21 ET 42 wheels with 255/40 R 21 tires rear
+8,5 J x 21 ET 40 felger med 235/45 R 21 dekk foran 9,0 J x 21 ET 42 felger med  255/40 R 21 dekk bak.
 
  Part No: **C5W**
 
@@ -247,7 +247,7 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
 
 ## 21" 5-W design bronze
 
-8,5 J x 21 ET 40 wheels with 235/45 R 21 tires front 9,0 J x 21 ET 42 wheels with 255/40 R 21 tires rear
+8,5 J x 21 ET 40 felger med 235/45 R 21 dekk foran 9,0 J x 21 ET 42 felger med  255/40 R 21 dekk bak.
 
  Part No: **C7A**
 
@@ -267,7 +267,7 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
 
 ## 21" 5 Arm rotor aero design
 
-8,5 J x 21 ET 40 wheels with 235/45 R 21 tires front 9,0 J x 21 ET 42 wheels with 255/40 R 21 tires rear
+8,5 J x 21 ET 40 felger med 235/45 R 21 dekk foran 9,0 J x 21 ET 42 felger med  255/40 R 21 dekk bak.
 
  Part No: **C1P**
 
