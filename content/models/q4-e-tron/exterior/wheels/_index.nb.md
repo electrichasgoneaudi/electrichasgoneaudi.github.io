@@ -19,14 +19,14 @@ Senterboring er 57,1 mm og boltmønster er 5x112 mm.
     <a href="wheel_40S_1.jpg">
         <img src="wheel_40S_1s.jpg" alt="19 inch 5-arm design" title="19 inch 5-arm design">
     </a>
-    <figcaption><h4>19 inch 5-arm design</h4></figcaption>
+    <figcaption><h4>19" 5-arm design</h4></figcaption>
 </figure>
 
 <figure>
     <a href="wheel_40S_2.jpg">
         <img src="wheel_40S_2s.jpg" alt="19 inch 5-arm design" title="19 inch 5-arm design">
     </a>
-    <figcaption><h4>19 inch 5-arm design</h4></figcaption>
+    <figcaption><h4>19" 5-arm design</h4></figcaption>
 </figure>
 
 ## 19" 5-W design
@@ -39,14 +39,14 @@ Senterboring er 57,1 mm og boltmønster er 5x112 mm.
     <a href="wheel_40Z_1.jpg">
         <img src="wheel_40Z_1s.jpg" alt="19 inch 5-W design" title="19 inch 5-W design">
     </a>
-    <figcaption><h4>19 inch 5-W design</h4></figcaption>
+    <figcaption><h4>19" 5-W design</h4></figcaption>
 </figure>
 
 <figure>
     <a href="wheel_40Z_2.jpg">
         <img src="wheel_40Z_2s.jpg" alt="19 inch 5-W design" title="19 inch 5-W design">
     </a>
-    <figcaption><h4>19 inch 5-W design</h4></figcaption>
+    <figcaption><h4>19" 5-W design</h4></figcaption>
 </figure>
 
 ## 20" 5-spoke V-style design
