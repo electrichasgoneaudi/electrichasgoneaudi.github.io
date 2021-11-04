@@ -230,7 +230,7 @@ Color code **L5**
     <figcaption><h4>Florettsølv Audi Q4 e-tron 50 quattro med kontrastfarge</h4></figcaption>
 </figure>
 
-The below footage shows dynamic driving scenes of the Audi Q4 Sportback e-tron in the colour Floret silver in the streets of Spain.
+Videoen nedenfor viser en florettsølv Audi Q4 e-tron Sportback
 
 {{< youtube JSm8Ov2XGLc >}}
 
@@ -242,23 +242,22 @@ Color code **2D**
     <a href="paint_navarrablue_6.jpg">
         <img src="paint_navarrablue_6s.jpg " alt="Audi Q4 40 e-tron quattro in Navarra blue and full body color" title="Audi Q4 40 e-tron quattro in Navarra blue and full body color">
     </a>
-    <figcaption><h4>Audi Q4 40 e-tron quattro in Navarra blue and full body color</h4></figcaption>
+    <figcaption><h4>Navarrablå Audi Q4 40 e-tron quattro med hellakkering</h4></figcaption>
 </figure>
 
 <figure>
     <a href="paint_navarrablue_7.jpg">
         <img src="paint_navarrablue_7s.jpg " alt="Audi Q4 40 e-tron quattro in Navarra blue and full body color" title="Audi Q4 40 e-tron quattro in Navarra blue and full body color">
     </a>
-    <figcaption><h4>Audi Q4 40 e-tron quattro in Navarra blue and full body color</h4></figcaption>
+    <figcaption><h4>Navarrablå Audi Q4 40 e-tron quattro med hellakkering</h4></figcaption>
 </figure>
 
 <figure>
     <a href="paint_navarrablue_8.jpg">
         <img src="paint_navarrablue_8s.jpg " alt="Audi Q4 40 e-tron quattro in Navarra blue and full body color" title="Audi Q4 40 e-tron quattro in Navarra blue and full body color">
     </a>
-    <figcaption><h4>Audi Q4 40 e-tron quattro in Navarra blue and full body color</h4></figcaption>
+    <figcaption><h4>Navarrablå Audi Q4 40 e-tron quattro med hellakkering</h4></figcaption>
 </figure>
-
 
 ### Mythossort
 
@@ -268,44 +267,42 @@ Color code **0E**
     <a href="paint_mythosblack_4.jpg">
         <img src="paint_mythosblack_4s.jpg" alt="Audi Q4 50 e-tron quattro with s-line exterior in Mythos Black" title="Audi Q4 50 e-tron quattro with s-line exterior in Mythos Black">
     </a>
-    <figcaption><h4>Audi Q4 50 e-tron quattro with s-line exterior in Mythos Black</h4></figcaption>
+    <figcaption><h4>Mythosblack Audi Q4 50 e-tron quattro med S-line eksteriør</h4></figcaption>
 </figure>
 
 <figure>
     <a href="paint_mythosblack_5.jpg">
         <img src="paint_mythosblack_5s.jpg" alt="Audi Q4 50 e-tron quattro with s-line exterior in Mythos Black" title="Audi Q4 50 e-tron quattro with s-line exterior in Mythos Black">
     </a>
-    <figcaption><h4>Audi Q4 50 e-tron quattro with s-line exterior in Mythos Black</h4></figcaption>
+    <figcaption><h4>Mythosblack Audi Q4 50 e-tron quattro med S-line eksteriør</h4></figcaption>
 </figure>
 
 <figure>
     <a href="paint_mythosblack_6.jpg">
         <img src="paint_mythosblack_6s.jpg" alt="Audi Q4 50 e-tron quattro with advance line exterior and black optics in Mythos Black" title="Audi Q4 50 e-tron quattro with advance line exterior and black optics in Mythos Black">
     </a>
-    <figcaption><h4>Audi Q4 50 e-tron quattro with advance line exterior and black optics in Mythos Black</h4></figcaption>
+    <figcaption><h4>Mythossort Audi Q4 50 e-tron quattro med advance line eksteriør og sort optikk</h4></figcaption>
 </figure>
-
 
 <figure>
     <a href="paint_mythosblack_7.jpg">
         <img src="paint_mythosblack_7s.jpg" alt="Audi Q4 50 e-tron quattro with advance line exterior and black optics in Mythos Black" title="Audi Q4 50 e-tron quattro with advance line exterior and black optics in Mythos Black">
     </a>
-    <figcaption><h4>Audi Q4 50 e-tron quattro with advance line exterior and black optics in Mythos Black</h4></figcaption>
+    <figcaption><h4>Mythossort Audi Q4 50 e-tron quattro med advance line eksteriør og sort optikk</h4></figcaption>
 </figure>
 
 <figure>
     <a href="paint_mythosblack_8.jpg">
         <img src="paint_mythosblack_8s.jpg" alt="Audi Q4 50 e-tron quattro with s-line exterior and black optics in Mythos Black" title="Audi Q4 50 e-tron quattro with s-line exterior and black optics in Mythos Black">
     </a>
-    <figcaption><h4>Audi Q4 50 e-tron quattro with s-line exterior and black optics in Mythos Black</h4></figcaption>
+    <figcaption><h4>Mythossort Audi Q4 50 e-tron quattro med S-line eksteriør og sort optikk</h4></figcaption>
 </figure>
-
 
 <figure>
     <a href="paint_mythosblack_9.jpg">
         <img src="paint_mythosblack_9s.jpg" alt="Audi Q4 50 e-tron quattro with s-line exterior and black optics in Mythos Black" title="Audi Q4 50 e-tron quattro with s-line exterior and black optics in Mythos Black">
     </a>
-    <figcaption><h4>Audi Q4 50 e-tron quattro with s-line exterior and black optics in Mythos Black</h4></figcaption>
+    <figcaption><h4>Mythossort Audi Q4 50 e-tron quattro med S-line eksteriør og sort optikk</h4></figcaption>
 </figure>
 
 ### Aurorafiolett metallic
@@ -315,35 +312,35 @@ Color code **J6**
     <a href="paint_auroraviolet_3.jpg">
         <img src="paint_auroraviolet_3s.jpg" alt="Audi Q4 Sportback 50 e-tron quattro in Aurora Violett with contrast color" title="Audi Q4 Sportback 50 e-tron quattro in Aurora Violett with contrast color">
     </a>
-    <figcaption><h4>Audi Q4 Sportback 50 e-tron quattro in Aurora Violett with contrast color</h4></figcaption>
+    <figcaption><h4>Aurorafiolett Audi Q4 Sportback 50 e-tron quattro med kontrastfarge</h4></figcaption>
 </figure>
 
 <figure>
     <a href="paint_auroraviolet_4.jpg">
         <img src="paint_auroraviolet_4s.jpg" alt="Audi Q4 Sportback 40 e-tron in Aurora Violett with black optics" title="Audi Q4 Sportback 40 e-tron in Aurora Violett with black optics">
     </a>
-    <figcaption><h4>Audi Q4 Sportback 40 e-tron in Aurora Violett with black optics</h4></figcaption>
+    <figcaption><h4>Aurorafiolett Audi Q4 Sportback 40 e-tron med sort optikk</h4></figcaption>
 </figure>
 
 <figure>
     <a href="paint_auroraviolet_5.jpg">
         <img src="paint_auroraviolet_5s.jpg" alt="Audi Q4 Sportback 40 e-tron in Aurora Violett with black optics by Auditography" title="Audi Q4 Sportback 40 e-tron in Aurora Violett with black optics by Auditography">
     </a>
-    <figcaption><h4>Audi Q4 Sportback 40 e-tron in Aurora Violett with black optics by Auditography</h4></figcaption>
+    <figcaption><h4>Aurorafiolett Audi Q4 Sportback 40 e-tron med sort optikk av @Auditography</h4></figcaption>
 </figure>
 
 <figure>
     <a href="paint_auroraviolet_6.jpg">
         <img src="paint_auroraviolet_6s.jpg" alt="Audi Q4 Sportback 40 e-tron in Aurora Violett with black optics by Auditography" title="Audi Q4 Sportback 40 e-tron in Aurora Violett with black optics by Auditography">
     </a>
-    <figcaption><h4>Audi Q4 Sportback 40 e-tron in Aurora Violett with black optics by Auditography</h4></figcaption>
+    <figcaption><h4>Aurorafiolett Audi Q4 Sportback 40 e-tron med sort optikk av @Auditography</h4></figcaption>
 </figure>
 
 <figure>
     <a href="paint_auroraviolet_7.jpg">
         <img src="paint_auroraviolet_7s.jpg" alt="Audi Q4 50 e-tron in Aurora Violett S-line exterior by Auditography" title="Audi Q4 50 e-tron in Aurora Violett S-line exterior by Auditography">
     </a>
-    <figcaption><h4>Audi Q4 50 e-tron in Aurora Violett S-line exterior by Auditography</h4></figcaption>
+    <figcaption><h4>Aurorafiolett Audi Q4 50 e-tron med S-line exterior av @Auditography</h4></figcaption>
 </figure>
 
 <figure>

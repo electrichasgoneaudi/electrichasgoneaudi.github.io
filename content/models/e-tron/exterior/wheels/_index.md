@@ -166,3 +166,8 @@ As an option to e-tron you can get an inflatable spare wheels. Option ID **3F1**
 This has a required combination of jack with option id **1S1**
 
 ![Spare wheel](sparewheel.jpg "Spare wheel")
+
+## Aftemarket wheels
+
+![bcforged eh186 in brushed dark black 10.5 10 ET 28/25 (rear/front)n](aftermarket2.jpg "bcforged eh186 in brushed dark black 10.5 10 ET 28/25 (rear/front)")
+
