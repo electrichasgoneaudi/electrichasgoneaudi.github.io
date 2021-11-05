@@ -5,12 +5,17 @@ description: The first all-electric model, the e-tron is based om MLB evo platfo
 weight: 1
 ---
 
+The e-tron is based on an extensively adapted variant of the modular longitudinal platform (MLB evo).
+The MLB Evo platform is a shared platform that included ICE like Lamborghini URUS and Audi A8.
+But for e-tron Audi built a completely new dedicated chassis and body for e-tron so this can't be compared with other
+EV like VW Golf or others that use modified ICE chassis.
+
+Its foundation is a new body shape with numerous innovative structural elements in the lower area of the vehicle
+center and the roof.
+
 The e-tron marks Audi’s start into the electric era. The SUV is the first vehicle to combine
 electric mobility with Audi quality: A sophisticated drive and recuperation system, all-wheel
-drive and maximum comfort. In short: Vorsprung durch Technik. The e-tron is based on an
-extensively adapted variant of the modular longitudinal platform (MLB evo). Its foundation is a
-new body shape with numerous innovative structural elements in the lower area of the vehicle
-center and the roof.
+drive and maximum comfort. In short: Vorsprung durch Technik.
 
 ![Platforms](mlbevo1.jpg "Audi MLB evo platform")
 
@@ -28,8 +33,5 @@ Read all details about [e-tron motors](/models/e-tron/drivetrain/motor).
 The Audi e-tron can charge using both alternating and direct
 current and is the first series-production vehicle with a charging capacity of up to 150 kW. It
 owes this to its highly efficient thermal management.
-
-It is used by a lot of different models including Lamborghini Urus so it is not a stric EV platform.
-But it was heavliy modified to support EV.
 
 {{% children description="true" depth="1" %}}
