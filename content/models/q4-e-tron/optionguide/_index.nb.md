@@ -9,7 +9,9 @@ Følgende guide er basert på grunnmodellen. Mange markeder har utstyrspakke med
 
 Nedenfor er de viktigste alternativene du må vurdere når du kjøper en Audi Q4 e-tron
 
-## Audi smartphone interface: Alternativ-ID IU1
+![IU1](iu1.jpg)
+
+## Audi smartphone interface: Opsjon IU1
 
 Uten Audi smartphone interface kan du ikke bruke Android Auto / Apple Carplay og deretter bruke apper som Waze eller kontrollere Spotify på en god måte.
 
@@ -17,31 +19,38 @@ Foreløpig er dette kun tilgjengelig i infotainmentpakken med alternativ-ID **PY
 
 [Se Audi smartphone interface for detaljer.](../technology/uiandoperations/smartphoneinterface/)
 
-## Sotede ruter: Opsjopn QL5
+![QL2](ql5.jpg)
+
+## Sotede ruter: Opsjon QL5
 
 Forbedrer utseendet mye, og du trenger ikke å kjøre rundt i en fisketank på utstilling.
 
 [Se vinduer for detaljer](../exterior/windows/#privacy-glass)
 
-## MMI Navigation pluss: Alternativ ID PYG
+![PYG](pyg.jpg)
+
+## MMI Navigation pluss: Opsjon PYG
 
 Med MMI Navigation Plus-alternativet får du MMI-navigasjonssystem og Virtual Cockpit.
+Å ha et innebygd navigasjonssystem gir flere fordeler fremfor å bruke telefonen.
 
-Se detaljer om [MMI Navigation Plus](../technology/uiandoperations/mmi/#mmi-navigation-plus) og
+Se detaljer om [MMI Navigation Plus](../technology/uiandoperations/navigation/) og
 [Virtual Cockpit](../technology/uiandoperations/virtualcockpit/)
 
-## Assistantpackage Pro: Alternativ-ID PY7
+## Assistantpackage Pro: Opsjon PY7
 
-Assistentpakken pro inneholder det meste av de viktige førerassistentfunksjonene som [Adaptive Cruise Assist](/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/), [Adaptive Cruise Control](/models/q4-e-tron /technology/drivingassistance/adaptivecruisecontrol/) og [Parking System Plus](/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/)
+Assistentpakken pro inneholder det meste av de viktige førerassistentfunksjonene som [Adaptive Cruise Assist](../technology/drivingassistance/adaptivecruiseassist/), [Adaptive Cruise Control](../technology/drivingassistance/adaptivecruisecontrol/) og [Parking System Plus](../technology/drivingassistance/parkingsystemplus/)
 
-## Sikkerhetspakke pluss: Alternativ-ID PYU
+## Sikkerhetspakke pluss: Opsjon PYU
 
-Sideassistent er ikke en del av Assistantpackage Pro, men er inkludert i sikkerhetspakken pluss-pakken. Pakken inkluderer [Side Assist](/models/q4-e-tron/technology/drivingassistance/sideassist/), [exit warning](/models/q4-e-tron/technology/drivingassistance/exitwarning/), [cross traffic] assist rear](/models/q4-e-tron/technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](/models/q4-e-tron/technology/drivingassistance/presenserear/).
+Sideassistent er ikke en del av Assistantpackage Pro, men er inkludert i sikkerhetspakken pluss-pakken. Pakken inkluderer [Side Assist](../technology/drivingassistance/sideassist/), [exit warning](../technology/drivingassistance/exitwarning/), [cross traffic assist rear](../technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](../technology/drivingassistance/presenserear/).
 
-## Flerfarget omgivelseslyn: Alternativ ID QQ2
+![QQ2](qq2.jpg)
 
-Med flerfarget omgivelseslyn kommer utseendet og følelsen inne i bilen til en annen planet.
+## Flerfarget ambientlys: Opsjon QQ2
 
-[Se omgivelseslyn for å bli overbevist](/models/q4-e-tron/interiør/ambientlights/)
+Flerfarget ambientlys løfter det innvendige utseendet og følelsen.
+
+[Se omgivelseslyn for å bli overbevist](../interior/interiorlights/)
 
 {{% children description="true" depth="1" %}}

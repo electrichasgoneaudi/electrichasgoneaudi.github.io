@@ -5,10 +5,7 @@ description: Her finner du den komplette ekstrautstyrlisten med lenke til detalj
 weight: 100
 ---
 
-
-WORK IN PROGRESS
-
-## Paint Color & Paint trim
+## Lakkfarger og lakkeringsvalg
 
 | Title | Description | ID |
 |-----|------|------|
@@ -24,7 +21,7 @@ WORK IN PROGRESS
 |  [Contrast paint](/models/q4-e-tron/exterior/paint/#contrast-paint)| In Manhatten Grey | FB5 |
 
 
-## Wheels
+## Felg & dekk
 
 | Title | Description | ID |
 |-----|------|------|
@@ -39,8 +36,7 @@ WORK IN PROGRESS
 |  [21" 5-W design bronze](/models/q4-e-tron/exterior/wheels/#21-5-w-design-bronze)   |  8,5 J x 21 with 235/45 R 21 tires front 9,0 J x 21 255/40 R 21 tires rear  |  C7A |
 |  [21" 5 Arm rotor aero design](/models/q4-e-tron/exterior/wheels/#21-5-arm-rotor-aero-design)   |  8,5 J x 21 with 235/45 R 21 tires front 9,0 J x 21 255/40 R 21 tires rear  |  C1P |
 
-
-## Tires
+## Dekk
 
 | Title | Description | ID |
 |-----|------|------|
@@ -48,8 +44,7 @@ WORK IN PROGRESS
 | Basic tool kit | In trunk | 1S2 |
 | Tire Pressure System | Standard | 7K1 |
 
-
-## Exterior packages
+## Eksteriør pakker
 
 | Title | Description | ID |
 |-----|------|------|
