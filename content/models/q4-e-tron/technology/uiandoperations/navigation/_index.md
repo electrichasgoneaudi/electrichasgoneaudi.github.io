@@ -35,8 +35,6 @@ You can plan routes from previous destinations, favorites, contact addresses, an
 
 In the below set of images, you see how it is to search and create a route going to IKEA from the MMI system.
 
-![Search](search1.jpg "Step 1: Search for IKEA")
-
 ![Search](search2.jpg "Step 2: Selecting correct search result and pressing start")
 
 ![Search](search3.jpg "Step 3: Navigation informs that you don't have enough charge going to IKEA and suggest adding charging along the route")

@@ -7,7 +7,7 @@ weight: 100
 
 The following guide is based on the basic model. Many markets have trim package with options included.
 
-Below are the most important options you need to consider when buying an e-tron
+Below are the most important options you need to consider when buying an Audi Q4 e-tron
 
 ## Smartphone interface: Option ID IU1
 
