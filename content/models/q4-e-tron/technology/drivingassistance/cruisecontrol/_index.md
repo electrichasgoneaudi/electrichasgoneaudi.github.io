@@ -12,6 +12,6 @@ The system offers relief to drivers in this way – especially on long trips. At
 
 See also Adaptive Cruise Control.
 
-Cruise control has optionID **PYJ**
+Cruise control is part of the assistentpackage **PYK**
 
 {{% children description="true" depth="1" %}}

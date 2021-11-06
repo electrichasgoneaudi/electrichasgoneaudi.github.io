@@ -19,7 +19,6 @@ weight: 1
 | [Adaptive Cruise Control with speed limiter](adaptivecruisecontrol) | option |
 | Crossing/Intersection assist | N/A |
 | [Cruise control](cruisecontrol) | option |
-| [Curb warning](curbwarning) | option |
 | [Hold Assist](holdassist) | Standard |
 | [Pre Sense Basic](presensebasic) | option |
 | [Pre Sense front](presensefront) | standard |

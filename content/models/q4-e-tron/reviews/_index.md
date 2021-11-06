@@ -37,6 +37,14 @@ weight: 20
 
 {{< youtube cCnp5LynIeo >}}
 
+### Kris Rifa: Is The Audi Q4 E-Tron a REAL Audi? And is it better than the Skoda Enyaq or VW ID4?
+
+{{< youtube HN-JE8bOzCU >}}
+
+### Kris Rifa: Audi Q4 E-Tron vs Audi E-Tron | Comparison Test | Big E-Tron vs Baby E-Tron
+
+{{< youtube nR7ckW5DrN0 >}}
+
 ### Fully Charged Show: AUDI Q4 E-TRON First Drive: The electric Audi we wanted all along!
 
 {{< youtube PTPnz_Eh0zo >}}

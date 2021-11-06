@@ -1,7 +1,7 @@
 ---
 title: Adaptive cruise control with speed limiter.
 linktitle: Adaptive cruise control
-description: The Adaptive cruise control (ACC) supports the driver by using the set within the system limits
+description: The Adaptive cruise control (ACC) supports the driver within the system limits
 weight: 1
 ---
 
@@ -22,6 +22,6 @@ You enable the cruise control with pressing the buttom at the end. Or you can re
 Speed is adjusted with pushing the lever up and down. You can control the distance to the car in front with the distance button.
 The lim button on top enable the speed limiter.
 
-This option is part of the tour driver assistance package  with option id **PCC**
+This option is part of the assistant package plus with option id **PYL**
 
 {{% children description="true" depth="1" %}}

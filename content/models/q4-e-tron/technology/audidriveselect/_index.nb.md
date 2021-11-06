@@ -28,15 +28,15 @@ Avhengig av alternativ og oppsett påvirker innstillingene for valg av stasjon f
 
 ![Drive Select Menu](driveselectmenu.jpg "Drive Select-meny i MMI")
 
-**effektivitet** - Kjøretøyet bytter til et drivstoffeffektivt kjøretøyoppsett og støtter sjåføren med meldinger om drivstofføkonomi. Kjøreprogrammet "E" er valgt.
+**efficiency** - Kjøretøyet bytter til et drivstoffeffektivt kjøretøyoppsett og støtter sjåføren med meldinger om drivstofføkonomi. Kjøreprogrammet "E" er valgt.
 
-**komfort** - Gir et komfortorientert kjøretøyoppsett og er egnet for lange kjøreturer på motorveier.
+**comfort** - Gir et komfortorientert kjøretøyoppsett og er egnet for lange kjøreturer på motorveier.
 
 **auto** - Gir en generell komfortabel, men dynamisk kjørefølelse og er egnet for daglig bruk.
 
-**dynamisk** - Gir sjåføren en sporty kjørefølelse og passer til en sporty kjørestil. Kjøreprogrammet "S" er valgt.
+**dynamic** - Gir sjåføren en sporty kjørefølelse og passer til en sporty kjørestil. Kjøreprogrammet "S" er valgt.
 
-**Individuell** - Gir mulighet for personlige kjøretøyinnstillinger.
+**Individual** - Gir mulighet for personlige kjøretøyinnstillinger.
 
 ### Individuelle innstillinger
 
