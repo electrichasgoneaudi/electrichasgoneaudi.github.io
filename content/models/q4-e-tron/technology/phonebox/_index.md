@@ -14,6 +14,6 @@ The smart phone can be charged and stored safely in the universal holder in the 
 
 The MMI display that reminds you to bring your phone.
 
-Audi Phone Box as option id **IU1** but is currently only available as part of th [infotainment package](/models/q4-e-tron/optionguide/list/#equipment-packages) with option id **PYX**
+Audi Phone Box as option id **9ZE** but is currently only available as part of th [infotainment package](/models/q4-e-tron/optionguide/list/#equipment-packages) with option id **PYX**
 
 {{% children description="true" depth="1" %}}

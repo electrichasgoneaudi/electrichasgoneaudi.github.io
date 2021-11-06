@@ -25,10 +25,8 @@ To charge the car from AC you need a Wallbox to connect to or the [charging syst
 
 In the illustration below you see the location of the charge units.
 
-![Electric drive]( "Electric drive train with standard and optinal charger location")
-
 <figure>
-    <a href=electricdrivetrain.jpg">
+    <a href="electricdrivetrain.jpg">
         <img src="electricdrivetrains.jpg" alt="Electric drivetrain with chargeport and AC charger" title="Electric drivetrain with chargeport and AC charger">
     </a>
     <figcaption><h4>Electric drivetrain with chargeport and AC charger</h4></figcaption>
