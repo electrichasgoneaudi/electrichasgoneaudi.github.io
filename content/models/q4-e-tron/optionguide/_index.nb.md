@@ -23,7 +23,7 @@ Foreløpig er dette kun tilgjengelig i infotainmentpakken med alternativ-ID **PY
 
 ## Sotede ruter: Opsjon QL5
 
-Forbedrer utseendet mye, og du trenger ikke å kjøre rundt i en fisketank på utstilling.
+Forbedrer utseendet mye, og du trenger ikke å kjøre rundt i et akvarium på utstilling.
 
 [Se vinduer for detaljer](../exterior/windows/#privacy-glass)
 
@@ -43,7 +43,7 @@ Assistentpakken pro inneholder det meste av de viktige førerassistentfunksjonen
 
 ## Sikkerhetspakke pluss: Opsjon PYU
 
-Sideassistent er ikke en del av Assistantpackage Pro, men er inkludert i sikkerhetspakken pluss-pakken. Pakken inkluderer [Side Assist](../technology/drivingassistance/sideassist/), [exit warning](../technology/drivingassistance/exitwarning/), [cross traffic assist rear](../technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](../technology/drivingassistance/presenserear/).
+Sideassistent er ikke en del av Assistantpackage Pro, men er inkludert i sikkerhetspakken pluss-pakken. Pakken inkluderer [Filskifteassistent](../technology/drivingassistance/sideassist/), [exit warning](../technology/drivingassistance/exitwarning/), [Assistent for kryssende trafikk bak](../technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](../technology/drivingassistance/presenserear/).
 
 ![QQ2](qq2.jpg)
 

@@ -59,7 +59,7 @@ så vil hjulbuene og nedre del av bilen være lakkert i kontrastfarge. Manhatten
     <figcaption><h4>Florettsølv lakkert Audi Q4 50 e-tron quattro med manhatten grå kontrastfarge</h4></figcaption>
 </figure>
 
-### Helllakkering
+### Hellakkering
 
 For isbrehvit, mythossort, pebblestonegrå and navarrablå kan du få bilen med hellakkering. Opsjonskode **FB4**
 
