@@ -1,7 +1,7 @@
 ---
-title: Audi Q4 e-tron full options list
-linktitle: Full option list
-description: Here you find the complete option list with link to details about each option
+title: Audi Q4 e-tron ekstrautstyrliste
+linktitle: Ekstrautstyrsliste
+description: Her finner du den komplette ekstrautstyrlisten med lenke til detaljer om hvert alternativ
 weight: 100
 ---
 

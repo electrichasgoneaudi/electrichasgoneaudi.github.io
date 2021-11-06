@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 e-tron options guide
 linktitle: Options Guide
-description: Audi e-tron have so many options that it is almost impossible to get the overview. We try to help you select the most important options.
+description: Audi Q4 e-tron have so many options that it is almost impossible to get the overview. We try to help you select the most important options.
 weight: 100
 ---
 
