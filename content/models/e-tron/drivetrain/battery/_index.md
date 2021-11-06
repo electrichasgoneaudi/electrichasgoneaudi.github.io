@@ -137,10 +137,7 @@ comprised of extruded sections, it holds the cell modules like a typecase.
 
 ![Crash structure](crashstructure.jpg "Integrated crash structure of the lithium-ion battery")
 
-Including the housing with its sophisticated crash structures comprising 47 percent extruded aluminum sections, 36 percent aluminum sheet, and 17 percent diecast aluminum parts, the 
-battery system weighs around 700 kilograms (1,543.2 lb). It is bolted to the body structure of the Audi e-tron at 35 points. This increases its torsional rigidity by 27 percent and 
-contributes to the high level of the safety of the Audi e-tron, as does the cooling system bonded to the outside of the battery housing. Compared to a conventional SUV, the 
-Audi e-tron offers 45 percent higher torsional rigidity, a key parameter for precise handling and acoustic comfort
+Including the housing with its sophisticated crash structures comprising 47 percent extruded aluminum sections, 36 percent aluminum sheet, and 17 percent diecast aluminum parts, the battery system weighs around 700 kilograms (1,543.2 lb). It is bolted to the body structure of the Audi e-tron at 35 points. This increases its torsional rigidity by 27 percent and contributes to the high level of the safety of the Audi e-tron, as does the cooling system bonded to the outside of the battery housing. Compared to a conventional SUV, the Audi e-tron offers 45 percent higher torsional rigidity, a key parameter for precise handling and acoustic comfort
 
 ## Thermal management
 
@@ -180,6 +177,6 @@ See video comparison below.
 
 {{< youtube -3IF26OoKJ0 >}}
 
-In cold weather the charging speed typical will get lower in the beginning until temprature comes up. Audi e-tron does not pre-heat battery before charging.
+In cold weather, the charging speed typical will get lower in the beginning until the temprature comes up. Audi e-tron does not pre-heat the battery before charging.
 
 {{% children description="true" depth="1" %}}
