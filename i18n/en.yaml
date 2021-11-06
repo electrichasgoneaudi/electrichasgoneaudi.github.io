@@ -8,6 +8,8 @@
 - id: menu-guides
   translation: Guides
 
+- id: language
+  translation: Language
 
 # Frontpage
 - id: frontpage-title

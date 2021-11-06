@@ -8,6 +8,8 @@
 - id: menu-guides
   translation: Guider
 
+- id: language
+  translation: Språk
 
 # Frontpage
 - id: frontpage-title
