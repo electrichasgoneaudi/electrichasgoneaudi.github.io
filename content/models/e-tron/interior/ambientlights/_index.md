@@ -23,7 +23,7 @@ The following interior lights are standard on Audi e-tron
 White lights with option id **QQ1** gives you
 
 - White ambient lights in facbric areas in doors
-- Orient lighning in outside door handles
+- Orient lightning in outside door handles
 - White ambient lights in center consol
 
 ## Multicolor contour/ambient light pack
@@ -31,10 +31,10 @@ White lights with option id **QQ1** gives you
 This option with option id **QQ2** gives you.
 
 - White ambient lights in facbric areas in doors
-- Orient lighning in outside door handles
+- Orient lightning in outside door handles
 - Multicolor ambient lights in center consol
 - Multicolor contour lights in center consol
-- Contgour lighning in instrumentpanel and dashboard.
+- Contour lightning in instrumentpanel and dashboard.
 
 The colors can be adjusted with 30 color options per controllable
 
