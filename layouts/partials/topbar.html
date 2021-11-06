@@ -23,7 +23,9 @@
           <button class="navbar-toggler d-md-none" type="button"><span class="sr-only">Vis/skjul meny</span></button>
           <div class="collapse navbar-toggleable-sm a-globalNav-main" id="exCollapsingNavbar2">
             <ul id="exCollapsingNavbar">
-             
+              <li class="d-md-none dropdown">
+                {{- partial "language-switcher.html" . -}}
+              </li>
               <li>
                 <a class="a-hvr-underline" href="{{ with .Site.GetPage `/models/`}}{{.URL}}{{end}}">
                    {{ T "menu-models"}}
@@ -43,6 +45,11 @@
           </div>
 
         </nav> <!-- End .a-globalNav -->
+        <ul class="nav nav-pills a-header-options" id="nav-list">
+          <li class="nav-item dropdown d-none d-md-block">
+            {{- partial "language-switcher.html" . -}}
+          </li>
+        </ul>
         
       </div><!-- End .col -->
     </div> <!-- End .row -->
