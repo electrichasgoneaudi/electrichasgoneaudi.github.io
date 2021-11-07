@@ -28,7 +28,7 @@ Production started in the [Audi Brussels Plant](https://www.google.com/maps/plac
 - Other efficiency improvments (see diagram below)
 - Also available as e-tron 50 with smaller battery
 - Available as Sportback from week 2-2020
-- [Upgrade was made available as upgrade *93M3* to earlier production models from October 28. 2021](https://kommunikasjon.ntb.no/pressemelding/programvareoppgradering-for-audi-e-tron-55-quattro?publisherId=14867825&releaseId=17918998)
+- [Upgrade was made available as upgrade *93M3* to earlier production models from October 28. 2021](https://www.audi-mediacenter.com/en/press-releases/increased-range-for-audi-e-tron-55-quattrosoftware-update-for-20192020-model-years-14346)
 
 ![Uppgrades](my2020v2.jpg "Upgrades to e-tron 55 from week 49-2019 and how they affect range")
 
@@ -83,8 +83,7 @@ For the e-tron 50 they could in theory offer a version with 108s2p with only 74k
 In addition, you could expect some other technical improvements that slightly would reduce consumption. The current minimum WLTP consumption is 19.1 kWh/100km.
 If they are able to reduce this to 18.5 you could see rated range up to 580km.
 
-But all is unconfirmed. Will be updated when we know more. 
-
+But all is unconfirmed. Will be updated when we know more.
 
 Below there is a Spyshot from [Motor1](https://www.motor1.com/news/538895/audi-e-tron-sportback-spied)
 ![Audi e-tron 55 Sportback 2023](2023spyshot.jpg "Audi e-tron 55 Sportback 2023")
