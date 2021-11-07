@@ -1,16 +1,16 @@
 ---
 title: Audi e-tron lakkfarger
 linktitle: Lakkfarger
-description: Du kan velge mellom over 10 standard malingsfarger og 3 forskjellige lakkeringsstiler.
+description: Du kan velge mellom over 10 standard lakkfarger og 3 forskjellige lakkeringsstiler.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
 
-## Malingslister
+## Lakkerings stil
 
-### Grunnmaling
+### Basic lakkering
 
-På grunntrim er støtfangerne og hjulbuene ikke malt
+På basic lakkering er støtfangerne og hjulbuene ikke lakkerte
 
 <figur>
     <a href="basic1.jpg">
@@ -40,7 +40,7 @@ På grunntrim er støtfangerne og hjulbuene ikke malt
     <figcaption><h4>Basic med ulakkerte støtfangere og hjulbuer</h4></figcaption>
 </figur>
 
-### Kontrastmaling
+### Kontrastlakkering
 
 Du kan velge å få støtfangere og hjulbuer i kontrastmaling. Dette er alternativet **2K5**
 Kontrastfargen er manhattengrå på alle alternativer bortsett fra isbrehvit og florett sølv. På dem er det tyfongrått.
@@ -66,37 +66,37 @@ Kontrastfargen er manhattengrå på alle alternativer bortsett fra isbrehvit og 
     <figcaption><h4>Hvit isbre med kontrastfarge</h4></figcaption>
 </figur>
 
-### Helkroppsmaling
+### Hellakkering
 
-Du kan også velge helkarosserimaling slik at støtfangere og hjulbuer er malt i karosserifarge.
-Denne har alternativ **VJ1** og er standard på S-line og S utvendig trim.
+Du kan også velge hellakkering slik at støtfangere og hjulbuer er lakkert i karosserifarge.
+Denne har alternativ **VJ1** og er standard på S-line og S eksteriør.
 
 <figur>
     <a href="fullbodycolor.jpg">
         <img src="fullbodycolors.jpg" alt="Glacier white with full body color" title="Glacier white with full body color">
     </a>
-    <figcaption><h4>Hvit isbre med full kroppsfarge</h4></figcaption>
+    <figcaption><h4>Isbrehvit med hellakkering</h4></figcaption>
 </figur>
 
 <figur>
     <a href="fullbodycolor2.jpg">
         <img src="fullbodycolor2s.jpg" alt="Glacier white with full body color" title="Glacier white with full body color">
     </a>
-    <figcaption><h4>Hvit isbre med full kroppsfarge</h4></figcaption>
+    <figcaption><h4>Isbrehvit med hellakkering</h4></figcaption>
 </figur>
 
 <figur>
     <a href="fullbodycolor3.jpg">
         <img src="fullbodycolor3s.jpg" alt="Glacier white with full body color" title="Glacier white with full body color">
     </a>
-    <figcaption><h4>Hvit isbre med full kroppsfarge</h4></figcaption>
+    <figcaption><h4>Isbrehvit med hellakkering</h4></figcaption>
 </figur>
 
-## Standard malingsfarger
+## Standard lakkfarger
 
 De forskjellige standardfargene er
 
-### Glacier White
+### Isbrehvit metallic
 
 Fargekode: **2Y**
 
@@ -331,7 +331,8 @@ Fargekode: **??**
 </figur>
 
 ### Siam Beige
-r-kode: **OE**
+
+Fargekode: **OE**
 
 <figur>
     <a href="paint_siambeige_3.jpg">
@@ -406,35 +407,35 @@ Under ser du noen av fargene du kan velge mellom.
     <a href="paint_exclusive_overview1.jpg">
         <img src="paint_exclusive_overview1s.jpg" alt="Audi Exclusive malingsfarger" title="Audi Exclusive malingsfarger">
     </a>
-    <figcaption><h4>Perleeffektmaling</h4></figcaption>
+    <figcaption><h4>Perleeffektlakk</h4></figcaption>
 </figur>
 
 <figur>
     <a href="paint_exclusive_overview2.jpg">
         <img src="paint_exclusive_overview2s.jpg" alt="Audi Exclusive malingsfarger" title="Audi Exclusive malingsfarger">
     </a>
-    <figcaption><h4>Krystalleffektmaling</h4></figcaption>
+    <figcaption><h4>Krystalleffektlakk</h4></figcaption>
 </figur>
 
 <figur>
     <a href="paint_exclusive_overview3.jpg">
         <img src="paint_exclusive_overview3s.jpg" alt="Audi Exclusive malingsfarger" title="Audi Exclusive malingsfarger">
     </a>
-    <figcaption><h4>Uni malingsbehandling</h4></figcaption>
+    <figcaption><h4>Unilakk</h4></figcaption>
 </figur>
 
 <figur>
     <a href="paint_exclusive_overview4.jpg">
         <img src="paint_exclusive_overview4s.jpg" alt="Audi Exclusive malingsfarger" title="Audi Exclusive malingsfarger">
     </a>
-    <figcaption><h4>Metallisk maling</h4></figcaption>
+    <figcaption><h4>Metallic lakk</h4></figcaption>
 </figur>
 
 <figur>
     <a href="paint_exclusive_overview5.jpg">
         <img src="paint_exclusive_overview5s.jpg" alt="Audi Exclusive malingsfarger" title="Audi Exclusive malingsfarger">
     </a>
-    <figcaption><h4>Metallisk maling</h4></figcaption>
+    <figcaption><h4>Metallic lakk</h4></figcaption>
 </figur>
 
 ### Sonoma Green

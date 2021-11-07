@@ -5,9 +5,8 @@ description: There is serveral styling options to make your e-tron stick out fro
 weight: 3
 ---
 
-The Sline exterior package contains additional styling elements. In contrast to the basic model, the attachments on the S line exterior are
-painted in the exterior body color – including the wheel arch trims, door sills, bumpers and exterior mirrors. Audi also offers the black styling package that
-accentuates the area of the Singleframe, the side windows, and the bumper. The exterior mirror housings are also available in black as an option.
+The S-line exterior package contains additional styling elements. In contrast to the basic model, the attachments on the S line exterior are
+painted in the exterior body color – including the wheel arch trims, door sills, bumpers and exterior mirrors. Audi also offers the black styling package that accentuates the area of the Singleframe, the side windows, and the bumper. The exterior mirror housings are also available in black as an option.
 
 ## S-line exterior
 

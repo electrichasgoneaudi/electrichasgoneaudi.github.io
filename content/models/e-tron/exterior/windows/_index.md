@@ -26,4 +26,11 @@ This option makes a big difference in the way the e-tron look.
 ![Panoramic roof](privacy_windows_3.jpg "Privacy windows")
 
 
+## Acoustic windows
+
+You can order acoustic windows to reduce noise in the cabin. Option id **VW0**
+
+![Double windows](doublewindows.jpg "Double windows")
+
+
 {{% children description="true" depth="1" %}}

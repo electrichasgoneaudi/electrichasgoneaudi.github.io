@@ -20,7 +20,7 @@ All e-tron have powered tailgate.
 
 ## Door lights
 
-All door are equiped with lights
+If you order the ambientlight options **QQ1** or **QQ2** all door are equiped with lights
 
 ![Door lights](doorlight.jpg "Door lights")
 
