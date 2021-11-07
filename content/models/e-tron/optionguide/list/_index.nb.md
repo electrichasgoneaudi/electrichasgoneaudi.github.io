@@ -5,32 +5,32 @@ description: Her finner du den komplette utstyrlisten til Audi e-tron
 weight: 100
 ---
 
-## Paint Color & Paint trim
+## Lakkfarger og lakkutførelse
 
 | Title | Description | ID |
 |-----|------|------|
-|  [Brilliant black](../../exterior/paint/#brilliant-black)   | Non metallic   |  A2   |
-|  [Catalunya red](../../exterior/paint/#catalunya-red)  | Metallic   |  Y6   |
-|  [Glacier White](../../exterior/paint/#glacier-white) | Metallic   |  2Y  |
-|  [Siam beige](../../exterior/paint/#siam-beige) | Metallic | 0E |
-|  [Florett Silver](../../exterior/paint/#florett-silver) | Metallic   |  L5   |
-|  [Manhatten Grey](../../exterior/paint/#manhatten-grey) | Metallic | H1 |
-|  [Typhoon Grey](../../exterior/paint/#typhoon-grey) | Metallic | 2L |
-|  [Navarra Blue](../../exterior/paint/#navarra-blue)| Metallic   | 2D    |
-|  [Mythos Black](../../exterior/paint/#mythos-black) | Metallic   |  0E   |
-|  [Galaxy Blue](../../exterior/paint/#galaxy-blue)| Metallic   |  S1   |
-|  [Daytona Grey](../../exterior/paint/#daytona-grey) | Metallic, only S/S-line | 6Y |
-|  [Plasma Blue](../../exterior/paint/#plasma-blue) | Metallic  | 3D |
-|  [Antiqua Blue](../../exterior/paint/#antigua-blue) | Metallic | |
-|  [Chronos Grey](../../exterior/paint/#chronos-grey) | Metallic | Z7 |
-|  [Audi exclusive indiviudal](../../exterior/paint/) | Serveral colors | Q0Q0 |
-|  [Basic paint](../../exterior/paint/#basic-paint) | Mounted parts in anthracite with structure.   | |
-|  [Full body paint](../../exterior/paint/#full-body-paint)|  | VJ1 |
-|  [Contrast paint](../../exterior/paint/#contrast-paint)| In Manhatten Grey | 2KS |
-|  [Contrast paint for S-line](../../exterior/paint/#contrast-paint)| In Manhatten Grey | 2K8 |
-|  [Contrast paint for S](../../exterior/paint/#contrast-paint)| In Manhatten Grey | 2K9 |
+|  [Brilliantsort](../../exterior/paint/#brilliantsort)   | Non metallic   |  A2   |
+|  [Catalunyarød](../../exterior/paint/#catalunyarød-metallic)  | Metallic   |  Y6   |
+|  [Isbrehvit](../../exterior/paint/#isbrehvit-metallic) | Metallic   |  2Y  |
+|  [Siambeige](../../exterior/paint/#siambeige-metallic) | Metallic | 0E |
+|  [Florettsølv](../../exterior/paint/#florettsølv-metallic) | Metallic   |  L5   |
+|  [Manhattengrå](../../exterior/paint/#manhattengrå-metallic) | Metallic | H1 |
+|  [Tyfongrå](../../exterior/paint/#tyfongrå-metallic) | Metallic | 2L |
+|  [Navarrablå](../../exterior/paint/#navarrablå-metallic)| Metallic   | 2D    |
+|  [Mythossort](../../exterior/paint/#mythossort-metallic) | Metallic   |  0E   |
+|  [Galaxisblå](../../exterior/paint/#galaxisblå-metallic)| Metallic   |  S1   |
+|  [Daytonagrå](../../exterior/paint/#daytonagrå-metallic) | Metallic, only S/S-line | 6Y |
+|  [Plasmablå](../../exterior/paint/#plasmablå-metallic) | Metallic  | 3D |
+|  [Antiquablå](../../exterior/paint/#antiguablå-metallic) | Metallic | |
+|  [Chronosgrå](../../exterior/paint/#chronosgrå-metallic) | Metallic | Z7 |
+|  [Audi exclusive indiviudal](../../exterior/paint/#audi-exclusive-paint-farger) | Serveral colors | Q0Q0 |
+|  [Basic lakkering](../../exterior/paint/#basic-lakkering) | Mounted parts in anthracite with structure.   | |
+|  [Hellakkering](../../exterior/paint/#full-body-paint)|  | VJ1 |
+|  [Konstrastlakkering](../../exterior/paint/#contrast-paint)| In Manhatten Grey | 2KS |
+|  [Kontrastlakkering for S-line](../../exterior/paint/#contrast-paint)| In Manhatten Grey | 2K8 |
+|  [Konstrastlakkering for S](../../exterior/paint/#contrast-paint)| In Manhatten Grey | 2K9 |
 
-## Wheels
+## Komplette sommer/vinter hjul
 
 | Title | Description | ID |
 |-----|------|------|
@@ -39,21 +39,21 @@ weight: 100
 | [20" 5-arm design](../../exterior/wheels/#20-5-arm-design) |  | 42G |
 | [20" 5-arm dynamic design](../../exterior/wheels/#20-5-arm-dynamic-design) |  |  F08 |
 | [20" 10-arm Lamina design](../../exterior/wheels/#20-10-arm-lamina-design) | Winter |  |
-| [20-inch 9J 5-twin arm edge design](../../exterior/wheels/#20-inch-9j-5-twin-arm-edge-design) |  | CN7 | 
-| [20-inch MT Galvani](../../exterior/wheels/#19-5-arm-aero-design-winter-wheels) | Winter |  |
-| [20-inch 10J 5V design wheels for e-tron S](../../exterior/wheels/#20-inch-10j-5v-design-wheels-for-e-tron-s) | Winter | CA0 |
+| [20" 9J 5-twin arm edge design](../../exterior/wheels/#20-inch-9j-5-twin-arm-edge-design) |  | CN7 | 
+| [20" MT Galvani](../../exterior/wheels/#19-5-arm-aero-design-winter-wheels) | Winter |  |
+| [20" 10J 5V design wheels for e-tron S](../../exterior/wheels/#20-inch-10j-5v-design-wheels-for-e-tron-s) | Winter | CA0 |
 | [21" 10-arm Lamina design](../../exterior/wheels/#21-10-arm-lamina-design) | Winter | |
-| [21 inch 15 arm design](../../exterior/wheels/#21-inch-15-arm-design) | | F49|
-| [21 inch 5 Arm Turbin design](../../exterior/wheels/#21-inch-5-arm-turbin-design) | | F48 |
-| [21 inch 5V Arm design](../../exterior/wheels/#21-inch-5v-arm-design) | | F51 |
-| [21 inch 5V Arm design black](../../exterior/wheels/#21-inch-5v-arm-design-black) | | F50|
-| [21 inch 9.5J 10-spoke rotor gloss Anthracite black](../../exterior/wheels/#21-inch-95j-10-spoke-rotor-gloss-anthracite-black) | | 42P |
-| [21 inch 10.5J 5Y design](../../exterior/wheels/#21-inch--105j-5y-design) | e-tron S | U99 |
-| [21" inch 10.5J 5-arm star design](../../exterior/wheels/#21-inch-105j-5-arm-star-design) | e-tron S |  U95 | 
-| [22" x 9.5J ‘5-spoke structured’ matt titanium finish](../../exterior/wheels/#22-x-95j-5-spoke-structured-matt-titanium-finish) | | 54L |
+| [21"15 arm design](../../exterior/wheels/#21-inch-15-arm-design) | | F49|
+| [21" 5 Arm Turbin design](../../exterior/wheels/#21-inch-5-arm-turbin-design) | | F48 |
+| [21" 5V Arm design](../../exterior/wheels/#21-inch-5v-arm-design) | | F51 |
+| [21" 5V Arm design black](../../exterior/wheels/#21-inch-5v-arm-design-black) | | F50|
+| [21" 9.5J 10-spoke rotor gloss Anthracite black](../../exterior/wheels/#21-inch-95j-10-spoke-rotor-gloss-anthracite-black) | | 42P |
+| [21" 10.5J 5Y design](../../exterior/wheels/#21-inch--105j-5y-design) | e-tron S | U99 |
+| [21" 10.5J 5-arm star design](../../exterior/wheels/#21-inch-105j-5-arm-star-design) | e-tron S |  U95 | 
+| [22" 9.5J ‘5-spoke structured’ matt titanium finish](../../exterior/wheels/#22-x-95j-5-spoke-structured-matt-titanium-finish) | | 54L |
 | [22" 5-arms interferenz-design](../../exterior/wheels/#22-5-arms-interferenz-design) | | V40 | 
 
-## Wheel accessories
+## Dekktilbehør
 
 | Title | Description | ID |
 |-----|------|------|
@@ -63,7 +63,7 @@ weight: 100
 | [Jack](../../exterior/wheels/#inflatable-spare-wheel) | | 1S1|
 | [TPMS](../../technology/tpms/) | Direct | 7K3 |
 
-## Charging and precondition
+## Lading og oppvarming
 
 | Title | Description | ID |
 |-----|------|------|
@@ -77,12 +77,13 @@ weight: 100
 | Charging system  22 KW plug |  | 73Q |
 | Charging cable 7.5 m | | EH2 |
 
-## Equipment packages
+## Utstyrspakker
 
 | Title | Description | ID |
 |-----|------|------|
+| S line interiørpakke | Sort taktrekk, 4-veis korsryggstøtte, Belyste innstegslister foran og bak, Sportsseter, Aluminiumsdekor, Skinn/alcantara  | WQS |
 
-## Lights
+## Lys
 
 | Title | Description | ID |
 |-----|------|------|
@@ -91,7 +92,7 @@ weight: 100
 | [Interior light](../../interior/ambientlights/#standard-interior-lights) |  | |
 | [LED e-tron entry lights](../../technology/lights/#entry-lights) |  | 9TF |
 
-## Mirror and roof system
+## Låsesystemer
 
 | Title | Description | ID |
 |-----|------|------|
@@ -132,7 +133,7 @@ weight: 100
 | [Manual curtain rear](../../interior/curtain/) | | 3Y4 |
 | Sunshades  | Retractable | 5XF |  
 
-## Exterior options
+## Utvendig utstyr
 
 | Title | Description | ID |
 |-----|------|------|
@@ -144,7 +145,7 @@ weight: 100
 | [Black optics](../../exterior/optics/) | | 4ZD |
 | [Black optics plus](../../exterior/optics/) |  |  |
 
-## Seat and leather interior
+## Setetrekk og skinninteriør
 
 | Title | Description | ID |
 |-----|------|------|
@@ -155,7 +156,7 @@ weight: 100
 | Milano leather |  | N5W |
 | Valcona leather |  | N5D, N0K, N2R |
 
-## Dashboard
+## Instrumentpanel
 
 | Title | Description | ID |
 |-----|------|------|
@@ -163,7 +164,7 @@ weight: 100
 |[Upper and lower part in leather](../../interior/interiormaterials/#full-leather-on-dashboard-door-and-lower-part-of-center-consol) |  | 7HD |
 | [Lower part in artifical leather](../../interior/interiormaterials/#imiated-leather-doors-and-center-consol) |  | 7HM |
 
-## Seats
+## Seter
 
 | Title | Description | ID |
 |-----|------|------|
@@ -203,7 +204,7 @@ weight: 100
 | [Buttons in mat black](../../interior/buttons/) |  |  |
 | [Glass buttons](../../interior/buttons/) |  | GS5 | 
 
-## Steering wheels
+## Ratt/betjeningselementer
 
 | Title | Description | ID |
 |-----|------|------|
@@ -214,7 +215,7 @@ weight: 100
 | [Sport contour](../../interior/steeringwheels/) |  | 2PF | 
 | [Electric adjustment](../../interior/steeringwheels/#adjustment) | | 2C7 |
 
-## Climate
+## Klimaanlegg
 
 | Title | Description | ID |
 |-----|------|------|
@@ -224,7 +225,7 @@ weight: 100
 | [Parking climate](../../technology/climatecontrol/#auxiliary-air-conditioner) | Standard |  |
 | [Parking climate with extra comfort](../../technology/climatecontrol/#auxiliary-air-conditioner-with-extra-convenience) |  | GA2 |
 
-## Other interior options
+## Annet innvendig utstyr
 
 | Title | Description | ID |
 |-----|------|------|
@@ -262,12 +263,12 @@ aluminum field, without logo |  | VT3 |
 | Bluetooth interface | Standard |  | 
 | Audi connect emergency call |   |  |
 
-## Driver asssist systems
+## Assistentsystemer
 
 | Title | Description | ID |
 |-----|------|------|
-| Assistantpackage city  | [Crossing assist](../../technology/drivingassistance/crossingassist/), [side assist](../../technology/drivingassistance/sideassist/), [exit warning](../../technology/drivingassistance/exitwarning/), [pre sense rear](../../technology/drivingassistance/presenserear/), [pre sense side](../../technology/drivingassistance/presenseside/), [cross traffic rear](../../technology/drivingassistance/crosstrafficassistrear/) | PCM | 
-| Assistantpackage tour | [Adaptive cruise assist](../../technology/drivingassistance/adaptivecruiseassist/), [Adaptive cruise control](../../technology/drivingassistance/adaptivecruisecontrol/), [efficient assistant](../../technology/drivingassistance/predictiveefficiencyassist/),  [turn assist](../../technology/drivingassistance/turnassist/), [traffic sign recognition](../../technology/drivingassistance/trafficsignrecognition/), [emergency assist](../../technology/drivingassistance/emergencyassist/) | PCC    |
+| Assistentpakke by  | [Crossing assist](../../technology/drivingassistance/crossingassist/), [side assist](../../technology/drivingassistance/sideassist/), [exit warning](../../technology/drivingassistance/exitwarning/), [pre sense rear](../../technology/drivingassistance/presenserear/), [pre sense side](../../technology/drivingassistance/presenseside/), [cross traffic rear](../../technology/drivingassistance/crosstrafficassistrear/) | PCM | 
+| Assistentpakke tur | [Adaptive cruise assist](../../technology/drivingassistance/adaptivecruiseassist/), [Adaptive cruise control](../../technology/drivingassistance/adaptivecruisecontrol/), [efficient assistant](../../technology/drivingassistance/predictiveefficiencyassist/),  [turn assist](../../technology/drivingassistance/turnassist/), [traffic sign recognition](../../technology/drivingassistance/trafficsignrecognition/), [emergency assist](../../technology/drivingassistance/emergencyassist/) | PCC    |
 | [Audi pre sense basic](../../technology/drivingassistance/presensebasic/) | standard |  |
 | [Audi pre sense front](../../technology/drivingassistance/presensefront/) | standard |  |
 | [Cruise control with speed limiter](../../technology/drivingassistance/cruisecontrol/) | standard |  |
@@ -278,7 +279,7 @@ aluminum field, without logo |  | VT3 |
 | Lane assist package |  Includes [side assist](../../technology/drivingassistance/sideassist/), [Exit warning](../../technology/drivingassistance/exitwarning/), [cross traffic rear](../../technology/drivingassistance/crosstrafficassistrear/),  [pre sense rear](../../technology/drivingassistance/presenserear/) | PCH |
 | [Night vision](../../technology/drivingassistance/nightvision/) |   |  9R1 |
 
-## Drivertrain & brakes
+## Understell/Bremser
 
 | Title | Description | ID |
 |-----|------|------|
@@ -289,7 +290,7 @@ aluminum field, without logo |  | VT3 |
 | Disc brakes front and rear |   |   |
 | Disc brakes front and rear with orange painted brake calipers |  | PC2/PC4 |
 
-## Tech / Security
+## Teknikk/sikkerhet
 
 | Title | Description | ID |
 |-----|------|------|
