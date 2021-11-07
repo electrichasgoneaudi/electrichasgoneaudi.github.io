@@ -15,4 +15,6 @@ The below image show how Waze warns users about a speed camera.
 
 Android Auto requires you to use cable, but Apple Carplay is supported throug cable and wireless.
 
+From 2022 model, Android Auto wireless is supported. 
+
 {{% children description="true" depth="1" %}}

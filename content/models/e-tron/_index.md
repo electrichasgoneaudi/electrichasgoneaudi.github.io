@@ -8,7 +8,7 @@ weight: 1
 
 Audi e-tron 55 had its world premiere on September 17. 2018 Later the Sportback was released together with the 50 and S version.
 
-The car has been a big success for Audi and in Norway, it even became the most sold new passenger car in 2020, the first time Audi had this in any market.
+The car has been a big success for Audi and in Norway, it even became the most sold new passenger car in 2020, the first time for Audi in any market.
 
 In April 2021 e-tron no 100.000 was produced.
 
