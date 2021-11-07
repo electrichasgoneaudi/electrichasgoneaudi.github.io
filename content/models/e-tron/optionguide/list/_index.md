@@ -5,8 +5,6 @@ description: Here you find the complete option list with link to details about e
 weight: 100
 ---
 
-WORK IN PROGRESS
-
 ## Paint Color & Paint trim
 
 | Title | Description | ID |

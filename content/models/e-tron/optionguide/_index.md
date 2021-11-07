@@ -21,6 +21,8 @@ Improves looks a lot and you dont need to drive around in a fish tank on display
 
 [See windows for details](/models/e-tron/exterior/windows/#privacy-glass)
 
+![3y4](3y4.jpg)
+
 ## Window curtains
 
 Protects persons in rear seat from sun. 
@@ -36,10 +38,16 @@ The tour package contains most of the important driver assist functionality  lik
 Side assist is not part tour package and is included in two different assistant packages. The side assist package include [Side Assist](/models/e-tron/technology/drivingassistance/sideassist/), [exit warning](/models/e-tron/technology/drivingassistance/exitwarning/), [cross traffic assist rear](/models/e-tron/technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](/models/e-tron/technology/drivingassistance/presenserear/). The city pacakge include the same, but in addition
 [Audi pre sense side](/models/e-tron/technology/drivingassistance/presenseside/) and [crossing assist](/models/e-tron/technology/drivingassistance/crossingassist/)
 
+![QQ2](qq2.jpg)
+
 ## Multicolour ambient lightning: Option ID QQ2
 
 With multicolor ambient lightning the look and feel inside the car gets to another planet.
 
 [See ambient lightning to get convinced](/models/e-tron/interior/ambientlights/)
+
+## Complete equipment list
+
+Se the [complete equipment list](list) for all options.
 
 {{% children description="true" depth="1" %}}

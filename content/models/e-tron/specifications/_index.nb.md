@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron specifications
-linktitle: Specifications
-description: Here you find the most relevant specifications for the different e-tron variants
+title: Audi e-tron spesifikasjoner
+linktitle: Spesifikasjoner
+description: Her finner du de mest relevante spesifikasjonene for de forskjellige Audi e-tron variantene
 weight: 2
 ---
 
