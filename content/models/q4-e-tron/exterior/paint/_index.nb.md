@@ -9,14 +9,14 @@ Her finner du høyoppløste bilder av virkelige bilder i de forskjellige standar
 
 Klikk på lenkene for å gå direkte til en farge.
 
-- [Pebblestonegrå](/models/q4-e-tron/exterior/paint/#pebble-stone-gray)
-- [Geysirblå metallic](/models/q4-e-tron/exterior/paint/#geyser-blue)
-- [Tyfongrå metallic](/models/q4-e-tron/exterior/paint/#typhoon-grey)
-- [Florettsølv metallic](/models/q4-e-tron/exterior/paint/#florett-silver)
-- [Navarrablå metallic](/models/q4-e-tron/exterior/paint/#navarra-blue)
-- [Mythossort](/models/q4-e-tron/exterior/paint/#mythos-black)
-- [Aurorafiolett metallic](/models/q4-e-tron/exterior/paint/#aurora-violett)
-- [Isbrehvit metallic](/models/q4-e-tron/exterior/paint/#glacier-white)
+- [Pebblestonegrå](../../exterior/paint/#pebble-stone-gray)
+- [Geysirblå metallic](../../exterior/paint/#geyser-blue)
+- [Tyfongrå metallic](../../exterior/paint/#typhoon-grey)
+- [Florettsølv metallic](../../exterior/paint/#florett-silver)
+- [Navarrablå metallic](../../exterior/paint/#navarra-blue)
+- [Mythossort](../../exterior/paint/#mythos-black)
+- [Aurorafiolett metallic](../../exterior/paint/#aurora-violett)
+- [Isbrehvit metallic](../../exterior/paint/#glacier-white)
 
 ## Lakkeringsutførelse
 
@@ -49,7 +49,7 @@ På basic lakkering så er ikke støtfangerer eller hjulbuer lakkert.
 
 ### Kontrastlakkering
 
-Hvis du velger Advanced line eller s-line [eksteriørpakker](/models/q4-e-tron/optionguide/list/#exterior-packages)
+Hvis du velger Advanced line eller s-line [eksteriørpakker](../../optionguide/list/#exterior-packages)
 så vil hjulbuene og nedre del av bilen være lakkert i kontrastfarge. Manhatten grå er kontrastfargen som er brukt. Opsjon **FB5**
 
 <figure>

@@ -1,12 +1,27 @@
 ---
 title: Audi e-tron lakkfarger
 linktitle: Lakkfarger
-description: Du kan velge mellom over 10 standard lakkfarger og 3 forskjellige lakkeringsstiler.
+description: Du kan velge mellom over 10 standard lakkfarger og 3 forskjellige lakkeringsutførelser.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
 
-## Lakkerings stil
+Her finner du høyoppløste bilder av virkelige bilder i de forskjellige standardfargene. Klikk på bildene for stor versjon.
+
+Klikk på lenkene for å gå direkte til en farge.
+
+- [Isbrehvit metallic](../../exterior/paint/#isbrehvit-metallic)
+- [Catalunyarød metallic](../../exterior/paint/#catalunyarød-metallic)
+- [Plasmablå metallic](../../exterior/paint/#plasmablå-metallic)
+- [Tyfongrå metallic](../../exterior/paint/#tyfongrå-metallic)
+- [Florettsølv metallic](../../exterior/paint/#florettsølv-metallic)
+- [Navarrablå metallic](../../exterior/paint/#navarrablå-metallic)
+- [Galaxisblå metallic](../../exterior/paint/#galaxisblå-metallic)
+- [Chronosgrå metallic](../../exterior/paint/#chronosgrå-metallic)
+- [Brilliantsort](../../exterior/paint/#brilliantsort)
+- [Mythossort](../../exterior/paint/#mythossort-metallic)
+
+## Lakkeringsutførelse
 
 ### Basic lakkering
 
@@ -49,21 +64,21 @@ Kontrastfargen er manhattengrå på alle alternativer bortsett fra isbrehvit og 
     <a href="contrast1.jpg">
         <img src="contrast1s.jpg" alt="Brehvit med kontrastfarger" title="Brehvit med kontrastfarge">
     </a>
-    <figcaption><h4>Hvit isbre med kontrastfarge</h4></figcaption>
+    <figcaption><h4>Isbrehvit med kontrastlakkering</h4></figcaption>
 </figur>
 
 <figur>
     <a href="contrast2.jpg">
         <img src="contrast2s.jpg" alt="Brehvit med kontrastfarger" title="Brehvit med kontrastfarge">
     </a>
-    <figcaption><h4>Glacier white med kontrastfarge</h4></figcaption>
+    <figcaption><h4>Isbrehvit med kontrastlakkering</h4></figcaption>
 </figur>
 
 <figur>
     <a href="contrast3.jpg">
         <img src="contrast3s.jpg" alt="Brehvit med kontrastfarger" title="Brehvit med kontrastfarge">
     </a>
-    <figcaption><h4>Hvit isbre med kontrastfarge</h4></figcaption>
+    <figcaption><h4>Isbrehvit med kontrastlakkering/h4></figcaption>
 </figur>
 
 ### Hellakkering
@@ -109,42 +124,42 @@ Fargekode: **2Y**
 
 <figur>
     <a href="paint_glacierwhite_2.jpg">
-        <img src="paint_glacierwhite_2s.jpg" alt="Audi e-tron 55 i isbrehvit med svart optikk" title="Audi e-tron 55 i isbrehvit med svart optikk">
+        <img src="paint_glacierwhite_2s.jpg" alt="Audi e-tron 55 i isbrehvit med sort optikk" title="Audi e-tron 55 i isbrehvit med sort optikk">
     </a>
-    <figcaption><h4>Audi e-tron 55 i isbrehvit med svart optikk</h4></figcaption>
+    <figcaption><h4>Audi e-tron 55 i isbrehvit med sort optikk</h4></figcaption>
 </figur>
 
 <figur>
     <a href="paint_glacierwhite_3.jpg">
-        <img src="paint_glacierwhite_3s.jpg" alt="Audi e-tron 55 Sportback S-line i brehvit med svart optikk" title="Audi e-tron 55 Sportback S-line i brehvit med svart optikk">
+        <img src="paint_glacierwhite_3s.jpg" alt="Audi e-tron 55 Sportback S-line i brehvit med sort optikk" title="Audi e-tron 55 Sportback S-line i brehvit med sort optikk">
     </a>
-    <figcaption><h4>Audi e-tron 55 Sportback S-line i isbrehvit med svart optikk</h4></figcaption>
+    <figcaption><h4>Audi e-tron 55 Sportback S-line i isbrehvit med sort optikk</h4></figcaption>
 </figur>
 
-### Catalunya Rød
+### Catalunyarød metallic
 
 Fargekode: **Y6**
 
 <figur>
     <a href="paint_catalunyared_1.jpg">
-        <img src="paint_catalunyared_1s.jpg" alt="Audi e-tron 55 S-line Sportback i Catalunya Rød med svart optikk" title="Audi e-tron 55 S-line Sportback i Catalunya Rød med svart optikk">
+        <img src="paint_catalunyared_1s.jpg" alt="Audi e-tron 55 S-line Sportback i Catalunya Rød med sort optikk" title="Audi e-tron 55 S-line Sportback i Catalunya Rød med sort optikk">
     </a>
-    <figcaption><h4>Audi e-tron 55 S-line Sportback i Catalunya Rød med svart optikk</h4></figcaption>
+    <figcaption><h4>Audi e-tron 55 S-line Sportback i Catalunya Rød med sort optikk</h4></figcaption>
 </figur>
 
 <figur>
     <a href="paint_catalunyared_2.jpg">
-        <img src="paint_catalunyared_2s.jpg" alt="Audi e-tron 55 S-line Sportback i Catalunya Rød med svart optikk" title="Audi e-tron 55 S-line Sportback i Catalunya Rød med svart optikk">
+        <img src="paint_catalunyared_2s.jpg" alt="Audi e-tron 55 S-line Sportback i Catalunya Rød med sort optikk" title="Audi e-tron 55 S-line Sportback i Catalunya Rød med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 S-line Sportback i Catalunya R
 
-ed med svart optikk</h4></figcaption>
+ed med sort optikk</h4></figcaption>
 </figur>
 
 Opptakene viser kjørebilder samt stillbilder av Audi e-tron S Sportback i fargen catalunya red.
 {{< youtube NWJF6w1qECo >}}
 
-### Plasma blå
+### Plasmablå metallic
 
 Fargekode: **3D**
 
@@ -169,7 +184,7 @@ Fargekode: **3D**
     <figcaption><h4>Audi e-tron 55 S-line Sportback i plasmablått med kontrastfarge</h4></figcaption>
 </figur>
 
-### Florett Silver
+### Florettsølv metallic
 
 Fargekode: **L5**
 
@@ -194,42 +209,42 @@ Fargekode: **L5**
     <figcaption><h4>Audi e-tron 55 S-line Sportback i Florett Silver med kontrastfarge</h4></figcaption>
 </figur>
 
-### Chronos Grey
+### Chronosgrå metallic
 
 Fargekode: **Z7**
 
 <figur>
     <a href="paint_chronosgrey_1.jpg">
-        <img src="paint_chronosgrey_1s.jpg" alt="Audi e-tron 55 i Chronos Grey med svart optikk" title="Audi e-tron 55 i Chronos Grey med svart optikk">
+        <img src="paint_chronosgrey_1s.jpg" alt="Audi e-tron 55 i Chronos Grey med sort optikk" title="Audi e-tron 55 i Chronos Grey med sort optikk">
     </a>
-    <figcaption><h4>Audi e-tron 55 i Chronos Grey med svart optikk</h4></figcaption>
+    <figcaption><h4>Audi e-tron 55 i Chronos Grey med sort optikk</h4></figcaption>
 </figur>
 <figur>
     <a href="paint_chronosgrey_2.jpg">
-        <img src="paint_chronosgrey_2s.jpg" alt="Audi e-tron Sportback 55 i Chronos Grey med svart optikk" title="Audi e-tron Sportback 55 i Chronos Grey med svart optikk">
+        <img src="paint_chronosgrey_2s.jpg" alt="Audi e-tron Sportback 55 i Chronos Grey med sort optikk" title="Audi e-tron Sportback 55 i Chronos Grey med sort optikk">
     </a>
-    <figcaption><h4>Audi e-tron Sportback 55 i Chronos Grey med svart optikk</h4></figcaption>
+    <figcaption><h4>Audi e-tron Sportback 55 i Chronos Grey med sort optikk</h4></figcaption>
 </figur>
 
-### Typhoon Grey
+### Tyfongrå metallic
 
 Fargekode: **2L**
 
 <figur>
     <a href="paint_typhoongrey_1.jpg">
-        <img src="paint_typhoongrey_1s.jpg" alt="Audi e-tron 55 i Typhoon Grey med svart optikk" title="Audi e-tron 55 i Typhoon Grey med svart optikk">
+        <img src="paint_typhoongrey_1s.jpg" alt="Audi e-tron 55 i Typhoon Grey med sort optikk" title="Audi e-tron 55 i Typhoon Grey med sort optikk">
     </a>
-    <figcaption><h4>Audi e-tron 55 i Typhoon Grey med svart optikk</h4></figcaption>
+    <figcaption><h4>Audi e-tron 55 i Typhoon Grey med sort optikk</h4></figcaption>
 </figur>
 
 <figur>
     <a href="paint_typhoongrey_2.jpg">
-        <img src="paint_typhoongrey_2s.jpg" alt="Audi e-tron 55 i Typhoon Grey med svart optikk" title="Audi e-tron 55 i Typhoon Grey med svart optikk">
+        <img src="paint_typhoongrey_2s.jpg" alt="Audi e-tron 55 i Typhoon Grey med sort optikk" title="Audi e-tron 55 i Typhoon Grey med sort optikk">
     </a>
-    <figcaption><h4>Audi e-tron 55 i Typhoon Grey med svart optikk</h4></figcaption>
+    <figcaption><h4>Audi e-tron 55 i Typhoon Grey med sort optikk</h4></figcaption>
 </figur>
 
-### Daytona Grey
+### Daytonagrå metallic
 
 Kun tilgjengelig på S-line og e-tron S.
 
@@ -251,38 +266,38 @@ Fargekode: **6Y**
 
 <figur>
     <a href="paint_daytona_3.jpg">
-        <img src="paint_daytona_3s.jpg" alt="Audi e-tron 55 Sportback i Daytona Grey med svart optikk" title="Audi e-tron 55 Sportback i Daytona Grey med svart optikk">
+        <img src="paint_daytona_3s.jpg" alt="Audi e-tron 55 Sportback i Daytona Grey med sort optikk" title="Audi e-tron 55 Sportback i Daytona Grey med sort optikk">
     </a>
-    <figcaption><h4>Audi e-tron 55 Sportback S-Line i Daytona Grey med svart optikk</h4></figcaption>
+    <figcaption><h4>Audi e-tron 55 Sportback S-Line i Daytona Grey med sort optikk</h4></figcaption>
 </figur>
 
 <figur>
     <a href="paint_daytona_4.jpg">
-        <img src="paint_daytona_4s.jpg" alt="Audi e-tron 55 S-line i Daytona Grey med svart optikk" title="Audi e-tron 55 S-line i Daytona Grey med svart optikk">
+        <img src="paint_daytona_4s.jpg" alt="Audi e-tron 55 S-line i Daytona Grey med sort optikk" title="Audi e-tron 55 S-line i Daytona Grey med sort optikk">
     </a>
-    <figcaption><h4>Audi e-tron 55 S-line i Daytona Grey med svart optikk</h4></figcaption>
+    <figcaption><h4>Audi e-tron 55 S-line i Daytona Grey med sort optikk</h4></figcaption>
 </figur>
 
 <figur>
     <a href="paint_daytona_5.jpg">
-        <img src="paint_daytona_5s.jpg" alt="Audi e-tron 55 S-line i Daytona Grey med svart optikk" title="Audi e-tron 55 S-line i Daytona Grey med svart optikk">
+        <img src="paint_daytona_5s.jpg" alt="Audi e-tron 55 S-line i Daytona Grey med sort optikk" title="Audi e-tron 55 S-line i Daytona Grey med sort optikk">
     </a>
-    <figcaption><h4>Audi e-tron 55 S-line i Daytona Grey med svart optikk</h4></figcaption>
+    <figcaption><h4>Audi e-tron 55 S-line i Daytona Grey med sort optikk</h4></figcaption>
 </figur>
 
 
 <figur>
     <a href="paint_daytona_6.jpg">
-        <img src="paint_daytona_6s.jpg" alt="Audi e-tron 60S Sporttback i Daytona Grey med svart optikk" title="Audi e-tron 60S Sporttback i Daytona Grey med svart optikk">
+        <img src="paint_daytona_6s.jpg" alt="Audi e-tron 60S Sporttback i Daytona Grey med sort optikk" title="Audi e-tron 60S Sporttback i Daytona Grey med sort optikk">
     </a>
-    <figcaption><h4>Audi e-tron 60S Sporttback i Daytona Grey med svart optikk</h4></figcaption>
+    <figcaption><h4>Audi e-tron 60S Sporttback i Daytona Grey med sort optikk</h4></figcaption>
 </figur>
 
 Opptakene viser kjørebilder samt stillbilder av Audi e-tron S Sportback i fargen daytona grå.
 
 {{< youtube bzqrdHJpXpA>}}
 
-### Navarra Blue
+### Navarrablå metallic
 
 Fargekode: **2D**
 
@@ -301,7 +316,7 @@ Opptakene viser kjørebilder samt stillbilder av Audi e-tron S Sportback i farge
 
 {{< youtube F0S9oqMKB9U >}}
 
-### Galaxy Blue
+### Galaxisblå metallic
 
 Fargekode: **S1**
 
@@ -325,37 +340,37 @@ Fargekode: **??**
 
 <figur>
     <a href="paint_antiguablue_2.jpg">
-        <img src="paint_antiguablue_2s.jpg" alt="Audi e-tron 55 S-line i Antigua Blue med svart optikk" title="Audi e-tron 55 S-line i Antigua Blue med svart optikk">
+        <img src="paint_antiguablue_2s.jpg" alt="Audi e-tron 55 S-line i Antigua Blue med sort optikk" title="Audi e-tron 55 S-line i Antigua Blue med sort optikk">
     </a>
-    <figcaption><h4>Audi e-tron 55 S-line i Antigua Blue med svart optikk</h4></figcaption>
+    <figcaption><h4>Audi e-tron 55 S-line i Antigua Blue med sort optikk</h4></figcaption>
 </figur>
 
-### Siam Beige
+### Siambeige metallic
 
 Fargekode: **OE**
 
 <figur>
     <a href="paint_siambeige_3.jpg">
-        <img src="paint_siambeige_3s.jpg" alt="Audi e-tron 55 i Siam Beige med svart optikk" title="Audi e-tron 55 i Siam Beige med svart optikk">
+        <img src="paint_siambeige_3s.jpg" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
     </a>
-    <figcaption><h4>Audi e-tron 55 i Siam Beige med svart optikk</h4></figcaption>
+    <figcaption><h4>Audi e-tron 55 i Siam Beige med sort optikk</h4></figcaption>
 </figur>
 
 <figur>
     <a href="paint_siambeige_1.jpg">
-        <img src="paint_siambeige_1s.jpg" alt="Audi e-tron 55 i Siam Beige med svart optikk og kontrastfarge" title="Audi e-tron 55 i Siam Beige med svart optikk og kontrastfarge">
+        <img src="paint_siambeige_1s.jpg" alt="Audi e-tron 55 i Siam Beige med sort optikk og kontrastfarge" title="Audi e-tron 55 i Siam Beige med sort optikk og kontrastfarge">
     </a>
-    <figcaption><h4>Audi e-tron 55 i Siam Beige med svart optikk og kontrastfarge</h4></figcaption>
+    <figcaption><h4>Audi e-tron 55 i Siam Beige med sort optikk og kontrastfarge</h4></figcaption>
 </figur>
 
 <figur>
     <a href="paint_siambeige_2.jpg">
-        <img src="paint_siambeige_2s.jpg" alt="Audi e-tron 55 i Siam Beige med svart optikk og kontrastfarge" title="Audi e-tron 55 i Siam Beige med svart optikk og kontrastfarge">
+        <img src="paint_siambeige_2s.jpg" alt="Audi e-tron 55 i Siam Beige med sort optikk og kontrastfarge" title="Audi e-tron 55 i Siam Beige med sort optikk og kontrastfarge">
     </a>
-    <figcaption><h4>Audi e-tron 55 i Siam Beige med svart optikk og kontrastfarge</h4></figcaption>
+    <figcaption><h4>Audi e-tron 55 i Siam Beige med sort optikk og kontrastfarge</h4></figcaption>
 </figur>
 
-### Manhatten Grey
+### Manhattengrå metallic
 
 Fargekode: **2Y**
 
@@ -366,7 +381,7 @@ Fargekode: **2Y**
     <figcaption><h4>Audi e-tron 55 i Manhatten-grå</h4></figcaption>
 </figur>
 
-### Strålende svart
+### Brilliantsort
 
 Den eneste ikke-metalliske fargen.
 
@@ -379,22 +394,22 @@ Fargekode: **A2**
     <figcaption><h4>Audi e-tron 55 i Brilliant Black</h4></figcaption>
 </figur>
 
-### Mythos svart
+### Mythossort metallic
 
 Fargekode: **OE**
 
 <figur>
     <a href="paint_mythosblack_1.jpg">
-        <img src="paint_mythosblack_1s.jpg" alt="Audi e-tron 55 i Mythos Black med svart optikk" title="Audi e-tron 55 i Mythos Black med svart optikk">
+        <img src="paint_mythosblack_1s.jpg" alt="Audi e-tron 55 i Mythos Black med sort optikk" title="Audi e-tron 55 i Mythos Black med sort optikk">
     </a>
-    <figcaption><h4>Audi e-tron 55 i Mythos Black med svart optikk</h4></figcaption>
+    <figcaption><h4>Audi e-tron 55 i Mythos Black med sort optikk</h4></figcaption>
 </figur>
 
 <figur>
     <a href="paint_mythosblack_2.jpg">
-        <img src="paint_mythosblack_2s.jpg" alt="Audi e-tron sportback S60 i Mythos Black med svart optikk" title="Audi e-tron sportback S60 i Mythos Black med svart optikk">
+        <img src="paint_mythosblack_2s.jpg" alt="Audi e-tron sportback S60 i Mythos Black med sort optikk" title="Audi e-tron sportback S60 i Mythos Black med sort optikk">
     </a>
-    <figcaption><h4>Audi e-tron sportback S60 i Mythos Black med svart optikk</h4></figcaption>
+    <figcaption><h4>Audi e-tron sportback S60 i Mythos Black med sort optikk</h4></figcaption>
 </figur>
 
 ## Audi Exclusive Paint farger
