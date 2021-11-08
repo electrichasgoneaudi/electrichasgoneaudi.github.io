@@ -65,6 +65,13 @@ The contrast color is manhatten gray on all options except glacier white and flo
     <figcaption><h4>Glacier white with contrast color</h4></figcaption>
 </figure>
 
+<figure>
+    <a href="contrast4.jpg">
+        <img src="contrast4s.jpg" alt="Glacier white with contrast colors" title="Glacier white with contrast color">
+    </a>
+    <figcaption><h4>S-Line Glacier white with contrast color</h4></figcaption>
+</figure>
+
 ### Full body paint
 
 You can also choose full body paint so bumpers and wheel archers are painted in body color.

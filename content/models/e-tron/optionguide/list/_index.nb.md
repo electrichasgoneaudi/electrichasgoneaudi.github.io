@@ -25,10 +25,10 @@ weight: 100
 |  [Chronosgrå](../../exterior/paint/#chronosgrå-metallic) | Metallic | Z7 |
 |  [Audi exclusive indiviudal](../../exterior/paint/#audi-exclusive-paint-farger) | Serveral colors | Q0Q0 |
 |  [Basic lakkering](../../exterior/paint/#basic-lakkering) | Mounted parts in anthracite with structure.   | |
-|  [Hellakkering](../../exterior/paint/#full-body-paint)|  | VJ1 |
-|  [Konstrastlakkering](../../exterior/paint/#contrast-paint)| In Manhatten Grey | 2KS |
-|  [Kontrastlakkering for S-line](../../exterior/paint/#contrast-paint)| In Manhatten Grey | 2K8 |
-|  [Konstrastlakkering for S](../../exterior/paint/#contrast-paint)| In Manhatten Grey | 2K9 |
+|  [Hellakkering](../../exterior/paint/#hellakkering)|  | VJ1 |
+|  [Konstrastlakkering](../../exterior/paint/#kontrastlakkering)| In Manhatten Grey | 2KS |
+|  [Kontrastlakkering for S-line](../../exterior/paint/#kontrastlakkering)| In Manhatten Grey | 2K8 |
+|  [Konstrastlakkering for S](../../exterior/paint/#kontrastlakkering)| In Manhatten Grey | 2K9 |
 
 ## Komplette sommer/vinter hjul
 
@@ -57,11 +57,11 @@ weight: 100
 
 | Title | Description | ID |
 |-----|------|------|
-| Tire repair set | | 1G8 |
-| Theft secure bolts and bolt warning | Standard | 1PR |
-| [Spare wheel](../../exterior/wheels/#inflatable-spare-wheel) | Inflatable | 3F1 |
-| [Jack](../../exterior/wheels/#inflatable-spare-wheel) | | 1S1|
-| [TPMS](../../technology/tpms/) | Direct | 7K3 |
+| Dekkreparasjonssett|  | 1G8 |
+| Hjulbolter med tyverisikring og hjulboltvarsling | Standard | 1PR |
+| [Reservejul](../../exterior/wheels/#Reservehjul) | Inflatable | 3F1 |
+| [Verktøy og jekk](../../exterior/wheels/#inflatable-spare-wheel) | | 1S1|
+| [Dekktrykkontrollsystem](../../technology/tpms/) | Direct | 7K3 |
 
 ## Lading og oppvarming
 

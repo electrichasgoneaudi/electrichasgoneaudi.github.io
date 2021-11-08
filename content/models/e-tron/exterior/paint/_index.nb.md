@@ -78,8 +78,15 @@ Kontrastfargen er manhattengrå på alle alternativer bortsett fra isbrehvit og 
     <a href="contrast3.jpg">
         <img src="contrast3s.jpg" alt="Brehvit med kontrastfarger" title="Brehvit med kontrastfarge">
     </a>
-    <figcaption><h4>Isbrehvit med kontrastlakkering/h4></figcaption>
+    <figcaption><h4>Isbrehvit med kontrastlakkering</h4></figcaption>
 </figur>
+
+<figure>
+    <a href="contrast4.jpg">
+        <img src="contrast4s.jpg" alt="Glacier white with contrast colors" title="Glacier white with contrast color">
+    </a>
+    <figcaption><h4>S-Line Isbrehvit med kontrastlakkering og sort optikk</h4></figcaption>
+</figure>
 
 ### Hellakkering
 
