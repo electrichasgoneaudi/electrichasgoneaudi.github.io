@@ -60,7 +60,7 @@ weight: 100
 | Dekkreparasjonssett|  | 1G8 |
 | Hjulbolter med tyverisikring og hjulboltvarsling | Standard | 1PR |
 | [Reservejul](../../exterior/wheels/#Reservehjul) | Inflatable | 3F1 |
-| [Verktøy og jekk](../../exterior/wheels/#inflatable-spare-wheel) | | 1S1|
+| [Verktøy og jekk](../../exterior/wheels/#Reservehjul) | | 1S1|
 | [Dekktrykkontrollsystem](../../technology/tpms/) | Direct | 7K3 |
 
 ## Lading og oppvarming
