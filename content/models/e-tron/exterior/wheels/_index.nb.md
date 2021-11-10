@@ -1,6 +1,6 @@
 ---
 title: Audi e-tron felger
-linktitle: Felger
+linktitle: Felger & dekk
 description: Audi e-tron har flere felger å velge mellom
 weight: 4
 ---
@@ -159,11 +159,3 @@ Audi sport wheels for e-tron 60S. Dimensjon 10,5 J x 22 with 285/35 R 22 tires. 
 
 ![22  5-arms interferenz-design](wheel_V40_2.jpg "22 inch 5-arms interferenz-design")
 
-## Reservehjul
-
-Som ekstrautstyr til e-tron kan du få oppblåsbare reservehjul. Alternativ-ID **3F1**
-Dette har en nødvendig kombinasjon av jack med alternativ-ID **1S1**
-
-![Spare wheel](sparewheel.jpg "Reservehjul")
-
-![Spare wheel](jack.jpg "Jekk som følger med ved kjøp av reservehjul")

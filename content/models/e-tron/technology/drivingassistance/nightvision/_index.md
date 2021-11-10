@@ -10,3 +10,7 @@ weight: 1
 The cooler surroundings appear dark, while animals and people appear strikingly bright.
 
 The system, which has a range of up to 300 meters (984.3 ft), can detect people and larger wild animals at distances between roughly 10 and 90 meters (32.8 and 295.3 ft) and highlights them with yellow markings. If a hazardous situation is detected, a warning sound is emitted. A warning symbol appears in the instrument cluster as well as in the head-up display. Depending on the headlights persons outside of town limits are illuminated with three short flashes of light.
+
+The video below show it in use.
+
+{{< youtube MiiGxtqkDl8 > }}
