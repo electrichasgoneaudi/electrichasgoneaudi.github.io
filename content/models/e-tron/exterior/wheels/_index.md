@@ -158,11 +158,3 @@ Audi sport wheels for e-tron 60S. Dimensjon 10,5 J x 22 with 285/35 R 22 tires. 
 ![22  5-arms interferenz-design](wheel_V40_1.jpg "22 inch 5-arms interferenz-design")
 
 ![22  5-arms interferenz-design](wheel_V40_2.jpg "22 inch 5-arms interferenz-design")
-
-
-## Inflatable spare wheel
-
-As an option to e-tron you can get an inflatable spare wheels. Option ID **3F1**
-This has a required combination of jack with option id **1S1**
-
-![Spare wheel](sparewheel.jpg "Spare wheel")
