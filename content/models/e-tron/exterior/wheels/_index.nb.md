@@ -167,8 +167,3 @@ Dette har en nødvendig kombinasjon av jack med alternativ-ID **1S1**
 ![Spare wheel](sparewheel.jpg "Reservehjul")
 
 ![Spare wheel](jack.jpg "Jekk som følger med ved kjøp av reservehjul")
-
-## Aftemarket wheels
-
-![bcforged eh186 in brushed dark black 10.5 10 ET 28/25 (rear/front)n](aftermarket2.jpg "bcforged eh186 in brushed dark black 10.5 10 ET 28/25 (rear/front)")
-
