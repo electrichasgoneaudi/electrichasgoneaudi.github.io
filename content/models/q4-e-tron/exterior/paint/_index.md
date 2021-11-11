@@ -121,6 +121,22 @@ This is the only non metallic pain available. Color code **C2**
     <figcaption><h4>Audi Q4 35 e-tron in Stone grey with black optics, S-line exterior and full body paint</h4></figcaption>
 </figure>
 
+<figure>
+    <a href="paint_stonegrey_6.jpg">
+        <img src="paint_stonegrey_6s.jpg" alt="Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint" title="Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint">
+    </a>
+    <figcaption><h4>Audi Q4 35 e-tron in Stone grey with black optics, S-line exterior and full body paint</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_stonegrey_7.jpg">
+        <img src="paint_stonegrey_7s.jpg" alt="Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint" title="Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint">
+    </a>
+    <figcaption><h4>Audi Q4 50 e-tron Sportback in Pebblestone grey with standard optics and full body paint</h4></figcaption>
+</figure>
+
+
+
 ### Geyser Blue
 
 Color code **5Y**
