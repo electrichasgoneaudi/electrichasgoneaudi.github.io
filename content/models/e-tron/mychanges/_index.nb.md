@@ -53,12 +53,12 @@ Hvis byggemåneden er 122019 eller senere, bør det være en oppgradert versjon
 ### MY2021V2 - > MY 2022 (fra bygget uke 25 2021)
 
 - vin nr har N som 10 siffer for 2022-modelleksempel: WAUZZZGE0**N**B000625
-- Ny lakkfarge tilgjengelig: Chronos grå
-– Alcantara byttes ut med Dinamica
+- Ny lakkfarge tilgjengelig: [Chronos grå](../exterior/paint/#chronosgrå-metallic)
+- Alcantara byttes ut med Dinamica
 - Svart optikk pluss pakke tilgjengelig (svarte ringer)
 - Black Edition med oransje detaljer i interiøret
 - Nye pakker for USA-merket
-– Strømmetjenesten Apple Music er nå tilgjengelig valgfritt som en ny Audi connect-tjeneste, kun i utvalgte markeder.
+- Strømmetjenesten Apple Music er nå tilgjengelig valgfritt som en ny Audi connect-tjeneste, kun i utvalgte markeder.
 - Støtte for Wirless Android Auto
 - Snarvei til ladeskjerm i MMI lagt til nedre MMI-skjerm
 
