@@ -5,11 +5,9 @@ description: Audi e-tron inkluderer et bærbart ladesystem for midlertidig ladin
 weight: 6
 ---
 
-Charging System Compact er ikke laderen, teknisk sett. Dette utstyret er kjent som [EVSE](https://en.wikipedia.org/wiki/Charging_station) (Electric Vehicle Supply Equipment) og fungerer som en
-kontroller som sørger for sikker strømforsyning mellom hjemmet ditt og kjøretøyet. Hver Audi e-tron er utstyrt med dette ladesystemet som standard.
+Charging System Compact er ikke laderen, teknisk sett. Dette utstyret er kjent som [EVSE](https://en.wikipedia.org/wiki/Charging_station) (Electric Vehicle Supply Equipment) og fungerer som en kontroller som sørger for sikker strømforsyning mellom hjemmet ditt og kjøretøyet. Hver Audi e-tron er utstyrt med dette ladesystemet som standard.
 
-For nivå 1 (120 volt vekselstrøm) og nivå 2 (230/400 volt vekselstrøm), foregår selve ladeprosessen via kjøretøyets egen [ombordlader](../onboardcharger/). Den innebygde laderen konverterer vekselstrøm fra hjemmet til
-DC-strøm, som er det batterier bruker til å lagre og levere energi.
+For nivå 1 (120 volt vekselstrøm) og nivå 2 (230/400 volt vekselstrøm), foregår selve ladeprosessen via kjøretøyets egen [ombordlader](../onboardcharger/). Den innebygde laderen konverterer vekselstrøm fra hjemmet til DC-strøm, som er det batterier bruker til å lagre og levere energi.
 
 Den er for øyeblikket tilgjengelig i to versjoner og er ment for bruk når en fast installasjon på nivå 2 eller nivå 3 ikke er tilgjengelig og du må lade din e-tron fra en husholdnings- eller industrikontakt.
 
@@ -17,9 +15,9 @@ I USA har ladesystemet en [J1772-kontakt](https://en.wikipedia.org/wiki/SAE_J177
 
 ![Ladeport](chargeport_left.jpg "Type 2 Ladeport")
 
-## e-tron ladesystem Kompakt
+## e-tron ladesystem compact
 
-Ladesystemet kompakt er standardsystemet som leveres med e-tron.
+Ladesystemet compact er standardsystemet som leveres med e-tron.
 
 Den kommer i forskjellige versjoner basert på landet den selger. I noen land i Europa kan du velge
 mellom et 230-voltsanlegg og et 400-voltsanlegg ved bestilling av bilen.
@@ -30,11 +28,11 @@ mellom et 230-voltsanlegg og et 400-voltsanlegg ved bestilling av bilen.
 
 {{< youtube YQPsOdMKfWg >}}
 
-## e-tron ladesystem Koble til
+## e-tron ladesystem connect
 
-Det nye ladesystemet Connect, er også designet for en ladekapasitet på opptil 22 kW fra en industriell 400 Volt vekselstrøm utkoblet.
+Det nye ladesystemet Connect, er også designet for en ladekapasitet på opptil 22 kW fra en 400 Volt vekselstrøm industrielltilkobling.
 
-Den er designet for bruk i husholdningsutsalg og kan dermed også brukes når du er borte fra hjemmet. Ved å bruke en passende hjemmeinstallasjon kan e-tron 55-modellene lades helt opp på i underkant av fem timer.
+Den kan også benyttes på vanlige stikkontakter og kan dermed også brukes når du er borte fra hjemmet i nødstilfeller. Ved å bruke en passende hjemmeinstallasjon kan e-tron 55-modellene lades helt opp på i underkant av fem timer.
 
 Ladesystemet Connect består av en betjeningsenhet med en 5-tommers berøringsskjerm og et veggfeste.
 
@@ -51,17 +49,16 @@ For eksempel kan Audi e-tron ta hensyn til behovene til andre forbrukere i husho
 Ladesystemet lar også kundene definere individuelle prioriteringer, for eksempel lading når strømmen er rimeligere under en variabel strømtakst.
 
 Hvis boligen er utstyrt med solcelleanlegg, kan bilen lades fortrinnsvis ved hjelp av strømmen som genereres av systemet. Ladeplanlegging vurderer deretter prognoseperioder med solskinn.
+
 Ytterligere funksjoner til e-tron-ladesystemet Connect inkluderer PIN-beskyttelse mot uautorisert bruk og registrering av ladeenergi.
 
-Systemet har alternativ-ID **NW2**
+Systemet har opsjonsid **NW2**
 
 ## Kapasitet basert på nettverk/uttak
 
 | Tilkobling | Plugg | kapasitet | lader 100 % e-tron 55 |
 | ------| ------| ---- |------- |
-| 120V | Nivå 1 Innenlandsk NEMA 5-20 | 1,2kW | 76 timer |
-| 240V | Innenriks NEMA 14-50 | 9,6kW | 9,5 timer |
-| 230V | Innenriks type F | 1,8kW | 50,5 timer |
+| 230V | Stikkontakt type F | 1,8kW | 50,5 timer |
 | 400V 32A 3-fase | Rød industri | 22KW | 4,5 timer |
 | 400V 16A 3-fase | Rød industri | 11KW | 9 timer |
 | 230V 32A 1fase | Blå industri | 7,2KW | 11,5 timer |
@@ -79,6 +76,6 @@ For hjemmebruk bør du installere en fast ladeløsning. Det finnes mange leveran
 
 De går på 230/240 eller 400 volt avhengig av nettverket i hjemmet ditt.
 
-![Audi veggboks](audiwallbox.jpg "Installer et hardt kablet nivå 2 ladesystem")
+![Audi veggboks](audiwallbox.jpg "Installer et kablet nivå 2 ladesystem")
 
 {{% children description="true" depth="1" %}}

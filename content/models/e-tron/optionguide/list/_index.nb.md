@@ -68,14 +68,14 @@ weight: 100
 | Title | Description | ID |
 |-----|------|------|
 | [Komfort førklimatisering](../../technology/climatecontrol/#auxiliary-air-conditioner-with-extra-convenience) |  | GA2 |
-| Ladeclip |  | NJ2 |
-| [Extra Charge port](../../technology/onboardcharger/#optional-charge-port) |  | JS1 |
-| [Charging system compact](../../technology/chargingsystem/#e-tron-charging-system-compact) |  | NW2 |
-| [Charging system connect](../../technology/chargingsystem/#e-tron-charging-system-connect) |  | NW2 |
-| [22 KW charger](../../technology/onboardcharger/#optional-22kw-charger) |  | KB4 |
-| Charging system 400V 11KW plug |  | 73P|
-| Charging system  22 KW plug |  | 73Q |
-| Charging cable 7.5 m | | EH2 |
+| Ladeclip for feste av ladeutstyr Compact |  | NJ2 |
+| [Ladeuttak høyre side for normallading (AC-lading)](../../technology/onboardcharger/#optional-charge-port) |  | JS1 |
+| [Ladesystem compact](../../technology/chargingsystem/#e-tron-charging-system-compact) | standard  |  |
+| [Ladesystem Connect](../../technology/chargingsystem/#e-tron-charging-system-connect) |  | NW2 |
+| [22 kW ombordlader](../../technology/onboardcharger/#22kw-ombordlader) |  | KB4 |
+| Ladesystem for 400V 16A 11 kW rødt industristøpsel |  | 73P|
+| Ladesystem for 400V 16A 22 kW rødt industristøpsel |  | 73Q |
+| Ladekabel 7,5 m | | EH2 |
 
 ## Utstyrspakker
 
