@@ -4,7 +4,31 @@ linktitle: Uorginale
 description: Here ser du eksempler på forskjellige uorginale felger som eiere har montert
 weight: 4
 ---
+<!-- markdownlint-disable MD033 -->
+## 20-inch MT Galvani
 
+Solgt som vinterdekk i Norge av Audi Norge
+
+<figure>
+    <a href="mtgalvani_1.jpg">
+        <img src="mtgalvani_1s.jpg" alt="20-inch MT Galvani" title="20-inch MT Galvani">
+    </a>
+    <figcaption><h4>20-inch MT Galvani</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="mtgalvani_2.jpg">
+        <img src="mtgalvani_2s.jpg" alt="20-inch MT Galvani" title="20-inch MT Galvani">
+    </a>
+    <figcaption><h4>20-inch MT Galvani</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="mtgalvani_3.jpg">
+        <img src="mtgalvani_3s.jpg" alt="20-inch MT Galvani" title="20-inch MT Galvani">
+    </a>
+    <figcaption><h4>20-inch MT Galvani</h4></figcaption>
+</figure>
 
 ## Vossen
 

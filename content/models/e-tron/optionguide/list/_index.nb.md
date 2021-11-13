@@ -67,8 +67,8 @@ weight: 100
 
 | Title | Description | ID |
 |-----|------|------|
-| [Comfort precondition](../../technology/climatecontrol/#auxiliary-air-conditioner-with-extra-convenience) |  | GA2 |
-| Clip for compact CMS |  | NJ2 |
+| [Komfort førklimatisering](../../technology/climatecontrol/#auxiliary-air-conditioner-with-extra-convenience) |  | GA2 |
+| Ladeclip |  | NJ2 |
 | [Extra Charge port](../../technology/onboardcharger/#optional-charge-port) |  | JS1 |
 | [Charging system compact](../../technology/chargingsystem/#e-tron-charging-system-compact) |  | NW2 |
 | [Charging system connect](../../technology/chargingsystem/#e-tron-charging-system-connect) |  | NW2 |
