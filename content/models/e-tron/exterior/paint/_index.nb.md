@@ -232,6 +232,24 @@ Fargekode: **Z7**
     </a>
     <figcaption><h4>Audi e-tron Sportback 55 i Chronos Grey med sort optikk</h4></figcaption>
 </figur>
+<figur>
+    <a href="paint_chronosgrey_3.jpg">
+        <img src="paint_chronosgrey_3s.jpg" alt="Audi e-tron 55 i Chronos Grey med sort optikk" title="Audi e-tron 55 i Chronos Grey med sort optikk">
+    </a>
+    <figcaption><h4>Audi e-tron 55 i Chronos Grey med sort optikk</h4></figcaption>
+</figur>
+<figur>
+    <a href="paint_chronosgrey_4.jpg">
+        <img src="paint_chronosgrey_4s.jpg" alt="Audi e-tron 55 i Chronos Grey med sort optikk" title="Audi e-tron 55 i Chronos Grey med sort optikk">
+    </a>
+    <figcaption><h4>Audi e-tron 55 i Chronos Grey med sort optikk</h4></figcaption>
+</figur>
+<figur>
+    <a href="paint_chronosgrey_5.jpg">
+        <img src="paint_chronosgrey_5s.jpg" alt="Audi e-tron 55 i Chronos Grey med sort optikk" title="Audi e-tron 55 i Chronos Grey med sort optikk">
+    </a>
+    <figcaption><h4>Audi e-tron 55 i Chronos Grey med sort optikk</h4></figcaption>
+</figur>
 
 ### Tyfongrå metallic
 
