@@ -9,8 +9,10 @@ De vises da i førerinformasjonssystemet og/eller Audi virtual cockpit samt i he
 
 ![Virtual cockpit](virtualcockpit.jpg "Trafikkskiltinformasjon i virtuell cockpit")
 
-For å slå av den prediktive førerassistenten bør du følge skiltet dette kan deaktiveres her MMI -> Bil -> Førerassistent -> Adative Cruise Assist -> Prediktiv kontroll -> Bruk fartsgrense -> Av
+For å slå av den prediktive førerassistenten bør du følge skiltet dette kan deaktiveres her MMI -> Bil -> Førerassistent -> Adative Cruise Assist -> Prediktiv kontroll -> Overta fartsgrense -> Av
 
-Dette alternativet er en del av tursjåførassistansepakken med alternativ-ID **PCC**
+![Overta fartsgrense](speedovertakenb.jpg "Overta fartsgrense kan slås av")
+
+Dette alternativet er en del av [assistentpakken tur](../../../optionguide/list/#assistentsystemer) med alternativ-ID **PCC**
 
 {{% children description="true" depth="1" %}}
