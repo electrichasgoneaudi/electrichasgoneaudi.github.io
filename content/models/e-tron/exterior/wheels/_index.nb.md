@@ -49,6 +49,13 @@ Entry level wheel for winter. 8J x 19" Just stay away. Part No: **2WL**
     <figcaption><h4>20 inch 5-arm design</h4></figcaption>
 </figure>
 
+<figure>
+    <a href="wheel_42G_3.jpg">
+        <img src="wheel_42G_3s.jpg" alt="20 inch 5-arm design" title="20 inch 5-arm designn">
+    </a>
+    <figcaption><h4>20 inch 5-arm design</h4></figcaption>
+</figure>
+
 ## 20" 5-arm dynamic design
 
 Part No: F08 255/50 R 20 Tires
