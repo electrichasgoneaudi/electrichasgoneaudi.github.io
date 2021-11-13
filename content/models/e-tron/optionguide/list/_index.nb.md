@@ -67,7 +67,7 @@ weight: 100
 
 | Title | Description | ID |
 |-----|------|------|
-| [Komfort førklimatisering](../../technology/climatecontrol/#auxiliary-air-conditioner-with-extra-convenience) |  | GA2 |
+| [Komfort førklimatisering](../../technology/climatecontrol/#komfort-førklimatisering) |  | GA2 |
 | Ladeclip for feste av ladeutstyr Compact |  | NJ2 |
 | [Ladeuttak høyre side for normallading (AC-lading)](../../technology/onboardcharger/#optional-charge-port) |  | JS1 |
 | [Ladesystem compact](../../technology/chargingsystem/#e-tron-charging-system-compact) | standard  |  |
