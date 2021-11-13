@@ -69,9 +69,9 @@ weight: 100
 |-----|------|------|
 | [Komfort førklimatisering](../../technology/climatecontrol/#komfort-førklimatisering) |  | GA2 |
 | Ladeclip for feste av ladeutstyr Compact |  | NJ2 |
-| [Ladeuttak høyre side for normallading (AC-lading)](../../technology/onboardcharger/#optional-charge-port) |  | JS1 |
-| [Ladesystem compact](../../technology/chargingsystem/#e-tron-charging-system-compact) | standard  |  |
-| [Ladesystem Connect](../../technology/chargingsystem/#e-tron-charging-system-connect) |  | NW2 |
+| [Ladeuttak høyre side for normallading (AC-lading)](../../technology/onboardcharger/#ekstra-ladeport) |  | JS1 |
+| [Ladesystem compact](../../technology/chargingsystem/#e-tron-ladesystem-compact) | standard  |  |
+| [Ladesystem Connect](../../technology/chargingsystem/#e-tron-ladesystem-connect) |  | NW2 |
 | [22 kW ombordlader](../../technology/onboardcharger/#22kw-ombordlader) |  | KB4 |
 | Ladesystem for 400V 16A 11 kW rødt industristøpsel |  | 73P|
 | Ladesystem for 400V 16A 22 kW rødt industristøpsel |  | 73Q |
@@ -81,7 +81,7 @@ weight: 100
 
 | Title | Description | ID |
 |-----|------|------|
-| S line interiørpakke | Sort taktrekk, 4-veis korsryggstøtte, Belyste innstegslister foran og bak, Sportsseter, Aluminiumsdekor, Skinn/alcantara  | WQS |
+| S line interiørpakke | [Sort taktrekk](../../interior/headliner/#sort), [4-veis korsryggstøtte](../../interior/seats/#4-veis-korsryggstøtte), Belyste innstegslister foran og bak, [S-Line Sportsseter](../../interior/seats/#s-line-sportsseter), Aluminiumsdekor, Skinn/alcantara  | WQS |
 
 ## Lys
 
@@ -92,7 +92,7 @@ weight: 100
 | [Interior light](../../interior/ambientlights/#standard-interior-lights) |  | |
 | [LED e-tron entry lights](../../technology/lights/#entry-lights) |  | 9TF |
 
-## Låsesystemer
+## Speil og taksystemer
 
 | Title | Description | ID |
 |-----|------|------|
@@ -108,7 +108,7 @@ weight: 100
 | [Virtual mirrors](../../exterior/mirrors/#virtual-mirrors) | | PAF |
 | [Panoramic roof](../../exterior/panoramicroof/) | | 3FU |
 
-## Locking system
+## Låsesystemer
 
 | Title | Description | ID |
 |-----|------|------|
