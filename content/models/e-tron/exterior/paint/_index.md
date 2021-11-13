@@ -5,6 +5,28 @@ description: You can choose amongst over 10 standard paint colors and 3 differen
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
+
+Here you find high-res pictures of real cars in the standard paint colors. Click on images for large version.
+
+Click below for direct navigation to paint color
+
+- [Glacier white metallic](../../exterior/paint/#glacier-white)
+- [Catalunya redmetallic](../../exterior/paint/#catalunya-red)
+- [Plasma blue metallic](../../exterior/paint/#plasma-blue)
+- [Typhoon grey metallic](../../exterior/paint/#typhoon-grey)
+- [Florett silver metallic](../../exterior/paint/#florett-silver)
+- [Navarra blue metallic](../../exterior/paint/#navarra-blue)
+- [Galaxy blue metallic](../../exterior/paint/#galaxy-blue)
+- [Chronos grey metallic](../../exterior/paint/#chronos-grey)
+- [Brilliant black](../../exterior/paint/#brilliant-black)
+- [Mythos black](../../exterior/paint/#mythos-black)
+- [Daytona grey](../../exterior/paint/#daytona-grey)
+- [Antiqua blue](../../exterior/paint/#antiqua-blue)
+- [siam-beige](../../exterior/paint/#siam-beige)
+- [manhatten-grey](../../exterior/paint/#manhatten-grey)
+
+In addition you can choose between over 50 [Audi Exclusive paint colors](../../exterior/paint/#audi-exclusive-lakk-farger).
+
 ## Paint trims
 
 ### Basic paint

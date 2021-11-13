@@ -14,12 +14,18 @@ Klikk på lenkene for å gå direkte til en farge.
 - [Catalunyarød metallic](../../exterior/paint/#catalunyarød-metallic)
 - [Plasmablå metallic](../../exterior/paint/#plasmablå-metallic)
 - [Tyfongrå metallic](../../exterior/paint/#tyfongrå-metallic)
+- [Daytonagrå metallic](../../exterior/paint/#daytonagrå-metallic)
 - [Florettsølv metallic](../../exterior/paint/#florettsølv-metallic)
 - [Navarrablå metallic](../../exterior/paint/#navarrablå-metallic)
 - [Galaxisblå metallic](../../exterior/paint/#galaxisblå-metallic)
+- [Antiquablå metallic](../../exterior/paint/#antiquablå-metallic)
 - [Chronosgrå metallic](../../exterior/paint/#chronosgrå-metallic)
+- [Siambeige metallic](../../exterior/paint/#siambeige-metallic)
+- [Manhattengrå metallic](../../exterior/paint/#manhattengrå-metallic)
 - [Brilliantsort](../../exterior/paint/#brilliantsort)
 - [Mythossort](../../exterior/paint/#mythossort-metallic)
+
+I tilegg får kan du velge mellom over 50 [Audi Exclusive farger](../../exterior/paint/#audi-exclusive-lakk-farger).
 
 ## Lakkeringsutførelse
 
@@ -352,7 +358,7 @@ Fargekode: **S1**
     <figcaption><h4>Audi e-tron 55 i Galaxy Blue</h4></figcaption>
 </figur>
 
-### Antigua Blue
+### Antiguablå metallic
 
 Fargekode: **??**
 
@@ -437,9 +443,9 @@ Fargekode: **OE**
     <figcaption><h4>Audi e-tron sportback S60 i Mythos Black med sort optikk</h4></figcaption>
 </figur>
 
-## Audi Exclusive Paint farger
+## Audi Exclusive lakk farger
 
-Det er mulig å bestille Audi e-tron med Audi exclusive Paint farger. Det er mange farger å velge mellom.
+Det er mulig å bestille Audi e-tron med Audi exclusive lakk farger. Det er mange farger å velge mellom.
 
 Under ser du noen av fargene du kan velge mellom.
 
