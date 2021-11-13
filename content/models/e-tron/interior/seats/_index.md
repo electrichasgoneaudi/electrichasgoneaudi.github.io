@@ -108,6 +108,8 @@ With the optional massage function, the user can select from three different int
 
 ![S-line Sport seats](seats_slinesportseats_6.jpg "S-line Sport seats with Alcantara Frequenz/leather")
 
+![S-line Sport seats](seats_slinesportseats_7.jpg "S-line Sport seats with Alcantara Frequenz/leather and orange stichings from 2022 Black edition")
+
 ## S-Sport Seats
 
 ![S-Sport seats](seats_ssportseats_5.jpg "S-Sport seats in black Valcona leather")

@@ -108,6 +108,8 @@ Med den valgfrie massasjefunksjonen kan brukeren velge mellom tre forskjellige i
 
 ![S-line Sportsseter](seats_slinesportseats_6.jpg "S-line Sportsseter med Alcantara Frequenz/skinn")
 
+![S-line Sport seats](seats_slinesportseats_7.jpg "S-line Sportsseter med Alcantara Frequenz/skinn og oransje søm fra 2022 Black edition")
+
 ## S-sportseter
 
 ![S-Sport-seter](seats_ssportseats_5.jpg "S-Sport-seter i svart Valcona-skinn")
