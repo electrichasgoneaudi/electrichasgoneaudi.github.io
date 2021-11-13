@@ -57,7 +57,7 @@ Hvis byggemåneden er 122019 eller senere, bør det være en oppgradert versjon
 - Alcantara byttes ut med Dinamica
 - Svart optikk pluss pakke tilgjengelig (svarte ringer)
 - Black Edition med oransje detaljer i interiøret
-- Nye pakker for USA-merket
+- Nye pakker for USA-markedet
 - Strømmetjenesten Apple Music er nå tilgjengelig valgfritt som en ny Audi connect-tjeneste, kun i utvalgte markeder.
 - Støtte for Wirless Android Auto
 - Snarvei til ladeskjerm i MMI lagt til nedre MMI-skjerm
