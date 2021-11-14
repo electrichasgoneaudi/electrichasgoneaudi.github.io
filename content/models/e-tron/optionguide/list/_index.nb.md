@@ -112,9 +112,9 @@ weight: 100
 
 | Title | Description | ID |
 |-----|------|------|
-| [Standard key](../../technology/lockingsystems/#standard-key) | Remote controll, keyless go |  |  |
-| [Advance Key](../../technology/lockingsystems/#advance-key-option-pgc) | | PGC |
-| [Advance Key with safelock](../../technology/lockingsystems/#advance-key-option-pgc) | | PG3 |
+| [Standard key](../../technology/lockingsystems/#standard-nøkkel) | Remote controll, keyless go |  |  |
+| [Komfortnøkkel](../../technology/lockingsystems/#komfortnøkkel-pgc) | | PGC |
+| [Komfortnøkkel med tyverialarm](../../technology/lockingsystems/#komfortnøkkel-med-tyverialarm-pg3) | Ink safelock | PG3 |
 | [Audi Connect Key](../../technology/lockingsystems/#audi-connect-key-2f1) | | 2F1 |
 | Automatic immobilizer | activates with key |  |
 | [Powered tailgate](../../exterior/doors/#powered-tailgate) | Electric opening and closing. Standard | |

@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron locking systems
-linktitle: Access & locking
-description: Audi e-tron have different key and locking options.
+title: Audi e-tron låsesystemer
+linktitle: Låsesystemer
+description: Audi e-tron har forskjellige nøkkel og låsesystemer som standard eller tileggsutstyr.
 weight: 7
 ---
 
@@ -15,7 +15,7 @@ Motoren startes og slås av ved hjelp av motorstart-stopp-knappen i midtkonsolle
 
 ![Start-knapp](startbutton.jpg "Midtkonsoll med start/stopp-knapp")
 
-## Avansert nøkkelalternativ PGC
+## Komfortnøkkel PGC
 
 Forhånds-/bekvemmelighetsnøkkelen gir praktisk kontroll over tilgang og motorstartautorisasjon uten at nøkkelen må betjenes aktivt
 
@@ -38,7 +38,7 @@ En visuell differensiering av høy kvalitet på toppen og bunnen av nøkkelen gj
 
 ![Advance key](advancekey.jpg "Audi Advance key")
 
-## Advance-tast med alarmalternativ PG3
+## Komfortnøkkel med tyverialarm PG3
 
 Komfortnøkkelen gir praktisk kontroll over tilgang og motorstartautorisasjon uten at nøkkelen må betjenes aktivt
 
