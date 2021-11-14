@@ -282,3 +282,10 @@ Senterboring er 57,1 mm og boltmønster er 5x112 mm.
     </a>
     <figcaption><h4>21" 5 Arm rotor aero design</h4></figcaption>
 </figure>
+
+<figure>
+    <a href="wheel_C1P_3.jpg">
+        <img src="wheel_C1P_2s.jpg" alt="21 inch 5 Arm rotor aero design" title="21 inch 5 Arm rotor aero design">
+    </a>
+    <figcaption><h4>21" 5 Arm rotor aero design</h4></figcaption>
+</figure>
