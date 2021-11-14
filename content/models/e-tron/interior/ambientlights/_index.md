@@ -18,6 +18,8 @@ The following interior lights are standard on Audi e-tron
 - Makup mirror with light
 - Light in back door
 
+![LED front and rear roof module](interiorlights1.jpg "LED front roof module")
+
 ## Ambient light package
 
 White lights with option id **QQ1** gives you

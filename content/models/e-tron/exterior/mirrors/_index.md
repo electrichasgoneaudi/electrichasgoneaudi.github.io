@@ -25,6 +25,8 @@ There are some optional mirros
 
 ![Black mirror](mirrors_carbon.png "Carbon mirror")
 
+![Black mirror](mirrors_aluminum.jpg "Aluminum mirror for e-tron S")
+
 ## Virtual mirrors
 
 The virtual exterior mirrors of the Audi e-tron not only provide a new technology experience, but also many practical benefits in terms of comfort and safety. Their flat support integrates a small camera whose image is digitally processed and shown on high-contrast 7-inch OLED displays in the interior. The driver can enter different settings using the touchscreen function. OptionID **PAF**

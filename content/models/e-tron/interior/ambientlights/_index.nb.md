@@ -17,6 +17,8 @@ Følgende interiørlys er standard på Audi e-tron
 - Sminkespeil med lys
 - Lys i bakdøren
 
+![LED-takmodul foran ](interiorlights1.jpg "LED-takmodul foran")
+
 ## Ambientelyspakke
 
 Hvite lys med alternativ-ID **QQ1** gir deg

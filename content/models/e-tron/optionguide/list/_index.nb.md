@@ -96,17 +96,17 @@ weight: 100
 
 | Title | Description | ID |
 |-----|------|------|
-| Interior mirror | automatic dimming, frameless, standard |  |
-| [Mirrors, electric adjustable and heated](../../exterior/mirrors/#functionality) | Standard | 6XD |
-| [Mirrors, electric with memory](../../exterior/mirrors/#functionality) | | 6XG |
-| [Mirrors, electric, retractable, curbautomatic](../../exterior/mirrors/#functionality) | | 6XK |
-| [Mirrors, electric, retractable, curbautomatic, memory](../../exterior/mirrors/#functionality) | | 6XL |
-| [Mirror house in veichle paint](../../exterior/mirrors/#mirror-style) | Standard | |
-| [Mirror house in black](../../exterior/mirrors/#mirror-style) | | 6FJ |
-| [Mirror house in carbon](../../exterior/mirrors/#mirror-style) | | 6FQ |
-| [Mirror house in aluminium](../../exterior/mirrors/#mirror-style) | For e-tron S | |
-| [Virtual mirrors](../../exterior/mirrors/#virtual-mirrors) | | PAF |
-| [Panoramic roof](../../exterior/panoramicroof/) | | 3FU |
+| Innvendig speil| automatisk avblendbart, uten ramme |  |
+| [Sidespeil, elektrisk justerbare og oppvarmbare](../../exterior/mirrors/#functionality) | Standard | 6XD |
+| [Sidespeil, elektrisk juster- og oppvarmbare samt memory-funksjon](../../exterior/mirrors/#functionality) | | 6XG |
+| [Sidespeil, elektrisk justerbare, oppvarmbare og innfellbare, automatisk avblending på begge sider, med kantsteinautomatikk for sidespeilet på passasjersiden](../../exterior/mirrors/#functionality) | | 6XK |
+| [Sidespeil, elektrisk justerbare, oppvarmbare og innfellbare, automatisk avblendbare på begge sider, med minnefunksjon og kantsteinsautomatikk for speilet på passasjersiden](../../exterior/mirrors/#functionality) | | 6XL |
+| [Speilhus lakkert i bilens farge](../../exterior/mirrors/#mirror-style) | Standard | |
+| [Speilhus i sort](../../exterior/mirrors/#mirror-style) | | 6FJ |
+| [Speilhus i karbon](../../exterior/mirrors/#mirror-style) | | 6FQ |
+| [Speilhus i aluminium](../../exterior/mirrors/#mirror-style) | For e-tron S | |
+| [Virtuelle sidespeil](../../exterior/mirrors/#virtual-mirrors) | | PAF |
+| [Panoramasoltak](../../exterior/panoramicroof/) | | 3FU |
 
 ## Låsesystemer
 

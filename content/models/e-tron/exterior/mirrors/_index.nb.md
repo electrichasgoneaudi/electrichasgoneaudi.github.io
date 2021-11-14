@@ -25,6 +25,8 @@ Det er noen valgfrie speil
 
 ![Svart speil](mirrors_carbon.png "Karbonspeil")
 
+![Black mirror](mirrors_aluminum.jpg "Aluminum speil for e-tron S")
+
 ## Virtuelle speil
 
 De virtuelle utvendige speilene til Audi e-tron gir ikke bare en ny teknologiopplevelse, men også mange praktiske fordeler når det gjelder komfort og sikkerhet. Deres flate støtte integrerer et lite kamera hvis bilde er digitalt behandlet og vist på 7-tommers OLED-skjermer med høy kontrast i interiøret. Sjåføren kan angi forskjellige innstillinger ved hjelp av berøringsskjermfunksjonen. OptionID **PAF**
