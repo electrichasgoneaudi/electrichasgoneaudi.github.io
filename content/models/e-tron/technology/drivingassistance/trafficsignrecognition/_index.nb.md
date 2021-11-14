@@ -9,7 +9,11 @@ De vises da i førerinformasjonssystemet og/eller Audi virtual cockpit samt i he
 
 ![Virtual cockpit](virtualcockpit.jpg "Trafikkskiltinformasjon i virtuell cockpit")
 
-For å slå av den prediktive førerassistenten bør du følge skiltet dette kan deaktiveres her MMI -> Bil -> Førerassistent -> Adative Cruise Assist -> Prediktiv kontroll -> Overta fartsgrense -> Av
+Hvis bilen er utstyrt med Adaptive kjøreassistent så kan du velge at denne skal følge fartsgrensen som skiltgjennkjenningsystemet har identifisert. Standarden er at dette er aktivert. Hvis systemet ikke har klart å lese av noe skilt baserer den seg på kartdata. 
+
+For å slå av at den adaptive kjøreassistenten følger kan du endre innstilling i MMI. 
+
+Velg -> Bil -> Førerassistent -> Adativ kjøreassistent -> Prediktiv kontroll -> Overta fartsgrense -> Av
 
 ![Overta fartsgrense](speedovertakenb.jpg "Overta fartsgrense kan slås av")
 
