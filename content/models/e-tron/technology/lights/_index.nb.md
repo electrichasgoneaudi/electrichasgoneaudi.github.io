@@ -11,7 +11,7 @@ Sammen med det høye effektivitetsnivået tilbyr LED-frontlykter også betydelig
 
 Avhengig av modell er LED-frontlysene utformet forskjellig. I Audi A5 genererer for eksempel 26 lysdioder per frontlykt alle lysfunksjoner. I hver frontlykt jobber 14 LED-er sammen for å generere nær- og fjernlys, og de er supplert med en modul for allværs- og svinglys. En lysleder langs den øvre kanten av frontlykten genererer kjørelys, parkeringslys og blinklys. Spesielle belysningsfunksjoner er tilgjengelige for veikryss, landeveier, motorveier og dårlig vær – og deres samspill med navigasjonssystemet gjør ytelsesområdet deres enda større.
 
-## HD Matrix LED-frontlykter
+## HD Matrix LED-hovedlykter
 
 Matrix LED-frontlykter produserer fjernlyset med bittesmå lysemitterende dioder som er samlet i vanlige reflektorer eller linser, avhengig av modell. Med sin intelligente funksjon lyser de opp veien utmerket uten å blende andre trafikanter.
 
@@ -48,5 +48,9 @@ Alternativ-IDen er **PXC** for LED-frontlykter med digital matrise.
 Du kan bestille e-tron innstegslys alternativ ID **9TF**
 
 ![Entry lights](entry.jpg "Entry lights")
+
+## Lyktespyleranlegg
+
+Audi e-tron har lyktespylere som standard for hovedlyktene.
 
 {{% children description="true" depth="1" %}}

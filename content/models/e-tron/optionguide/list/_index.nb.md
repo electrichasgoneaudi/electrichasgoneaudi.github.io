@@ -81,16 +81,16 @@ weight: 100
 
 | Title | Description | ID |
 |-----|------|------|
-| S line interiørpakke | [Sort taktrekk](../../interior/headliner/#sort), [4-veis korsryggstøtte](../../interior/seats/#4-veis-korsryggstøtte), Belyste innstegslister foran og bak, [S-Line Sportsseter](../../interior/seats/#s-line-sportsseter), Aluminiumsdekor, Skinn/alcantara  | WQS |
+| S line interiørpakke | [Sort taktrekk](../../interior/headliner/#sort), [4-veis korsryggstøtte](../../interior/seats/#4-veis-korsryggstøtte), Belyste innstegslister foran og bak, [S-Line Sportsseter](../../interior/seats/#s-line-sportsseter), [Aluminiumsdekor](../../interior/inlays/), Skinn/alcantara  | WQS |
 
 ## Lys
 
 | Title | Description | ID |
 |-----|------|------|
-| [HD Matrix LED lights](../../technology/lights/#hd-matrix-led-headlights) |  | PX6 |
-| Head light washers | Standard | |
-| [Interior light](../../interior/ambientlights/#standard-interior-lights) |  | |
-| [LED e-tron entry lights](../../technology/lights/#entry-lights) |  | 9TF |
+| [Matrix LED-hovedlykter med dynamiske lyseffekter og dynamisk blinklys foran og bak](../../technology/lights/#hd-matrix-led-hovedlykter) |  | PX6 |
+| [Lyktespyleranlegg](../../technology/lights/#lyktespyleranlegg) | Standard | |
+| [Innvendig belysning](../../interior/ambientlights/#standard-interior-lights) | Standard | |
+| [LED e-tron innstegslys](../../technology/lights/#innstegslys) |  | 9TF |
 
 ## Speil og taksystemer
 
