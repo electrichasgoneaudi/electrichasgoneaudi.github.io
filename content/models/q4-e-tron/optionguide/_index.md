@@ -7,7 +7,7 @@ weight: 100
 
 The following guide is based on the basic model. Many markets have trim package with options included.
 
-Below are the most important options you need to consider when buying an Audi Q4 e-tron
+You should read through the whole [option list](list) but below are the most important options you need to consider when buying an Audi Q4 e-tron.
 
 ![IU1](iu1.jpg)
 
@@ -52,5 +52,9 @@ Side assist is not part Assistantpackage Pro but is included in the security pac
 With multicolor ambient lightning the look and feel inside the car gets to another planet.
 
 [See ambient lightning to get convinced](../interior/interiorlights/)
+
+## Full option list
+
+The full option list is available [here](list).
 
 {{% children description="true" depth="1" %}}
