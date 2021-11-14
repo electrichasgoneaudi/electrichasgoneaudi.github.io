@@ -14,7 +14,7 @@ Klikk på lenkene for å gå direkte til en farge.
 - [Tyfongrå metallic](../../exterior/paint/#typhoon-grey)
 - [Florettsølv metallic](../../exterior/paint/#florett-silver)
 - [Navarrablå metallic](../../exterior/paint/#navarra-blue)
-- [Mythossort](../../exterior/paint/#mythos-black)
+- [Mythossort metallic](../../exterior/paint/#mythossort-metallic)
 - [Aurorafiolett metallic](../../exterior/paint/#aurora-violett)
 - [Isbrehvit metallic](../../exterior/paint/#glacier-white)
 
@@ -273,9 +273,38 @@ Color code **2D**
     <figcaption><h4>Navarrablå Audi Q4 40 e-tron quattro med hellakkering</h4></figcaption>
 </figure>
 
-### Mythossort
+### Mythossort metallic
 
 Color code **0E**
+
+<figure>
+    <a href="paint_mythosblack_10.jpg">
+        <img src="paint_mythosblack_10s.jpg" alt="Mythossort Audi Q4 40 e-tron med S-line eksteriør og hellakkering" title="Mythossort Audi Q4 40 e-tron med S-line eksteriør og hellakkering">
+    </a>
+    <figcaption><h4>Mythossort Audi Q4 40 e-tron med S-line eksteriør og hellakkering</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_mythosblack_11.jpg">
+        <img src="paint_mythosblack_11s.jpg" alt="Mythossort Audi Q4 40 e-tron med S-line eksteriør og hellakkering" title="Mythossort Audi Q4 40 e-tron med S-line eksteriør og hellakkering">
+    </a>
+    <figcaption><h4>Mythossort Audi Q4 40 e-tron med S-line eksteriør og hellakkering</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_mythosblack_12.jpg">
+        <img src="paint_mythosblack_12s.jpg" alt="Mythossort Audi Q4 40 e-tron med S-line eksteriør og hellakkering" title="Mythossort Audi Q4 40 e-tron med S-line eksteriør og hellakkering">
+    </a>
+    <figcaption><h4>Mythossort Audi Q4 40 e-tron med S-line eksteriør og hellakkering</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_mythosblack_13.jpg">
+        <img src="paint_mythosblack_13s.jpg" alt="Mythossort Audi Q4 40 e-tron med S-line eksteriør og hellakkering" title="Mythossort Audi Q4 40 e-tron med S-line eksteriør og hellakkering">
+    </a>
+    <figcaption><h4>Mythossort Audi Q4 40 e-tron med S-line eksteriør og hellakkering</h4></figcaption>
+</figure>
+
 
 <figure>
     <a href="paint_mythosblack_4.jpg">
@@ -303,20 +332,6 @@ Color code **0E**
         <img src="paint_mythosblack_7s.jpg" alt="Audi Q4 50 e-tron quattro with advance line exterior and black optics in Mythos Black" title="Audi Q4 50 e-tron quattro with advance line exterior and black optics in Mythos Black">
     </a>
     <figcaption><h4>Mythossort Audi Q4 50 e-tron quattro med advance line eksteriør og sort optikk</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="paint_mythosblack_8.jpg">
-        <img src="paint_mythosblack_8s.jpg" alt="Audi Q4 50 e-tron quattro with s-line exterior and black optics in Mythos Black" title="Audi Q4 50 e-tron quattro with s-line exterior and black optics in Mythos Black">
-    </a>
-    <figcaption><h4>Mythossort Audi Q4 50 e-tron quattro med S-line eksteriør og sort optikk</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="paint_mythosblack_9.jpg">
-        <img src="paint_mythosblack_9s.jpg" alt="Audi Q4 50 e-tron quattro with s-line exterior and black optics in Mythos Black" title="Audi Q4 50 e-tron quattro with s-line exterior and black optics in Mythos Black">
-    </a>
-    <figcaption><h4>Mythossort Audi Q4 50 e-tron quattro med S-line eksteriør og sort optikk</h4></figcaption>
 </figure>
 
 ### Aurorafiolett metallic
