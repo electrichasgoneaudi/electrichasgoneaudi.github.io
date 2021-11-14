@@ -1,7 +1,7 @@
 ---
 title: Understanding range
 linktitle: Understanding range
-description: For many, the range is the most important aspect of an EV. In this guide, we explain what affects the range of your all-electric Audi.
+description: For many, the range is the most important aspect of an EV. In this guide, we explain what affects the range of your all-electric Audi and why you don't see the range as expected.
 weight: 3
 ---
 

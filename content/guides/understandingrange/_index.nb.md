@@ -1,7 +1,7 @@
 ---
 title: Forstå rekkevidde
 linktitle: Forstå rekkevidde
-description: For mange er rekkevidden det viktigste aspektet ved en elektrisk bil. I denne guiden forklarer vi hva som påvirker rekkevidden til din helelektriske Audi.
+description: For mange er rekkevidden det viktigste aspektet ved en elektrisk bil. I denne guiden forklarer vi hva som påvirker rekkevidden til din helelektriske Audi og hvorfor du ikke opplever den forventede rekkevidden.
 weight: 3
 ---
 
