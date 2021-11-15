@@ -48,13 +48,13 @@ Tyverialarmsystem
 
 ![Alaramsensor](alarm_sensor_of.jpg "Interiørsensoren kan slås av med knapp i døren")
 
-## Audi Connect nøkkel 2F1
+## Audi Connect key 2F1
 
 Audi connect key lar deg sette opp Android-telefonen din som den eneste nøkkelen du trenger.
 
 {{< youtube 6fuv-envA2U>}}
 
-## Replacing battery
+## Batteribytte
 
 {{< youtube CurWSFtxRl4 >}}
 

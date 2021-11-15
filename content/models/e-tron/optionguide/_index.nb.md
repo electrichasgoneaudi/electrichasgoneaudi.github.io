@@ -31,12 +31,11 @@ Beskytter personer i baksetet mot sol.
 
 ## Turpakke: Alternativ ID PCC
 
-Turpakken inneholder det meste av de viktige førerassistentfunksjonene som [Adaptive Cruise Assist](../technology/drivingassistance/adaptivecruiseassist/), [Adaptive Cruise Control](../technology/drivingassistance/ adaptivecruisecontrol/), [Predictive efficiency assist](../technology/drivingassistance/predictiveefficiencyassist/), [Turn Assist](../technology/drivingassistance/turnasist/), [Kollisjonsunngåelsesassistent] (../technology/drivingassistance/collisionavoidanceassist/), [Trafikkskiltgjenkjenning](../technology/drivingassistance/trafikskiltgjenkjenning/), [Emergency Assist](../technology /kjørehjelp/nødhjelp/)
+Turpakken inneholder det meste av de viktige førerassistentfunksjonene som [Adaptive Cruise Assist](../technology/drivingassistance/adaptivecruiseassist/), [Adaptive Cruise Control](../technology/drivingassistance/adaptivecruisecontrol/), [Effektassistent](../technology/drivingassistance/predictiveefficiencyassist/), [Turn Assist](../technology/drivingassistance/turnasist/), [Unnamanøvreringsassistent](../technology/drivingassistance/collisionavoidanceassist/), [Trafikkskiltgjenkjenning](../technology/drivingassistance/trafikskiltgjenkjenning/), [Nødstoppassistent](../technology/drivingassistance/emergencyassist/)
 
 ## Filskiftepakke PCH / Bypakke PCM
 
-Sideassistent er ikke en del av turpakken og er inkludert i to forskjellige assistentpakker. Sideassistentpakken inkluderer [Side Assist](../technology/drivingassistance/sideassist/), [exit warning](../technology/drivingassistance/exitwarning/), [cross traffic assist rear ](../technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](../technology/drivingassistance/presenserear/). Bypakken inkluderer det samme, men i tillegg
-[Audi pre sense side](../technology/drivingassistance/presenseside/) og [crossing assist](../technology/drivingassistance/crossingassist/)
+Sideassistent er ikke en del av turpakken og er inkludert i to forskjellige assistentpakker. Sideassistentpakken inkluderer [Side Assist](../technology/drivingassistance/sideassist/), [exit warning](../technology/drivingassistance/exitwarning/), [cross traffic assist rear](../technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](../technology/drivingassistance/presenserear/). Bypakken inkluderer det samme, men i tillegg [Audi pre sense side](../technology/drivingassistance/presenseside/) og [gatekryssassistent](../technology/drivingassistance/crossingassist/)
 
 ![QQ2](qq2.jpg)
 

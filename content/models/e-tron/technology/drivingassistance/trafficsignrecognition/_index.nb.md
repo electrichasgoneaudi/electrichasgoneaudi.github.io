@@ -11,7 +11,7 @@ De vises da i førerinformasjonssystemet og/eller Audi virtual cockpit samt i he
 
 Hvis bilen er utstyrt med Adaptive kjøreassistent så kan du velge at denne skal følge fartsgrensen som skiltgjennkjenningsystemet har identifisert. Standarden er at dette er aktivert. Hvis systemet ikke har klart å lese av noe skilt baserer den seg på kartdata. 
 
-For å slå av at den adaptive kjøreassistenten følger kan du endre innstilling i MMI. 
+For å slå av at den adaptive kjøreassistenten følger skilt/karthastighet kan du endre innstilling i MMI.
 
 Velg -> Bil -> Førerassistent -> Adativ kjøreassistent -> Prediktiv kontroll -> Overta fartsgrense -> Av
 
