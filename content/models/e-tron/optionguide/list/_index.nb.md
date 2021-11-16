@@ -9,7 +9,7 @@ weight: 100
 
 | Title | Description | ID |
 |-----|------|------|
-|  [Brilliantsort](../../exterior/paint/#brilliantsort)   | Non metallic   |  A2   |
+|  [Brilliantsort](../../exterior/paint/#brilliantsort)   | Unilakk  |  A2   |
 |  [Catalunyarød](../../exterior/paint/#catalunyarød-metallic)  | Metallic   |  Y6   |
 |  [Isbrehvit](../../exterior/paint/#isbrehvit-metallic) | Metallic   |  2Y  |
 |  [Siambeige](../../exterior/paint/#siambeige-metallic) | Metallic | 0E |
@@ -19,16 +19,16 @@ weight: 100
 |  [Navarrablå](../../exterior/paint/#navarrablå-metallic)| Metallic   | 2D    |
 |  [Mythossort](../../exterior/paint/#mythossort-metallic) | Metallic   |  0E   |
 |  [Galaxisblå](../../exterior/paint/#galaxisblå-metallic)| Metallic   |  S1   |
-|  [Daytonagrå](../../exterior/paint/#daytonagrå-metallic) | Metallic, only S/S-line | 6Y |
+|  [Daytonagrå](../../exterior/paint/#daytonagrå-metallic) | Metallic, kun S/S-line | 6Y |
 |  [Plasmablå](../../exterior/paint/#plasmablå-metallic) | Metallic  | 3D |
 |  [Antiquablå](../../exterior/paint/#antiguablå-metallic) | Metallic | |
 |  [Chronosgrå](../../exterior/paint/#chronosgrå-metallic) | Metallic | Z7 |
-|  [Audi exclusive indiviudal](../../exterior/paint/#audi-exclusive-paint-farger) | Serveral colors | Q0Q0 |
-|  [Basic lakkering](../../exterior/paint/#basic-lakkering) | Mounted parts in anthracite with structure.   | |
+|  [Audi exclusive indiviudal](../../exterior/paint/#audi-exclusive-paint-farger) | Over 50 farger | Q0Q0 |
+|  [Basic lakkering](../../exterior/paint/#basic-lakkering) | Deler i antrasitt med struktur.   | |
 |  [Hellakkering](../../exterior/paint/#hellakkering)|  | VJ1 |
-|  [Konstrastlakkering](../../exterior/paint/#kontrastlakkering)| In Manhatten Grey | 2KS |
-|  [Kontrastlakkering for S-line](../../exterior/paint/#kontrastlakkering)| In Manhatten Grey | 2K8 |
-|  [Konstrastlakkering for S](../../exterior/paint/#kontrastlakkering)| In Manhatten Grey | 2K9 |
+|  [Konstrastlakkering](../../exterior/paint/#kontrastlakkering)| I Manhatten Grå | 2KS |
+|  [Kontrastlakkering for S-line](../../exterior/paint/#kontrastlakkering)| I Manhatten Grå | 2K8 |
+|  [Konstrastlakkering for S](../../exterior/paint/#kontrastlakkering)| I Manhatten Grå | 2K9 |
 
 ## Komplette sommer/vinter hjul
 
@@ -49,9 +49,9 @@ weight: 100
 | [21" 5V Arm design black](../../exterior/wheels/#21-inch-5v-arm-design-black) | | F50|
 | [21" 9.5J 10-spoke rotor gloss Anthracite black](../../exterior/wheels/#21-inch-95j-10-spoke-rotor-gloss-anthracite-black) | | 42P |
 | [21" 10.5J 5Y design](../../exterior/wheels/#21-inch--105j-5y-design) | e-tron S | U99 |
-| [21" 10.5J 5-arm star design](../../exterior/wheels/#21-inch-105j-5-arm-star-design) | e-tron S |  U95 | 
+| [21" 10.5J 5-arm star design](../../exterior/wheels/#21-inch-105j-5-arm-star-design) | e-tron S |  U95 |
 | [22" 9.5J ‘5-spoke structured’ matt titanium finish](../../exterior/wheels/#22-x-95j-5-spoke-structured-matt-titanium-finish) | | 54L |
-| [22" 5-arms interferenz-design](../../exterior/wheels/#22-5-arms-interferenz-design) | | V40 | 
+| [22" 5-arms interferenz-design](../../exterior/wheels/#22-5-arms-interferenz-design) | e-tron S | V40 |
 
 ## Dekktilbehør
 
@@ -116,22 +116,22 @@ weight: 100
 | [Komfortnøkkel](../../technology/lockingsystems/#komfortnøkkel-pgc) | | PGC |
 | [Komfortnøkkel med tyverialarm](../../technology/lockingsystems/#komfortnøkkel-med-tyverialarm-pg3) | Ink safelock | PG3 |
 | [Audi Connect Key](../../technology/lockingsystems/#audi-connect-key-2f1) | | 2F1 |
-| Automatic immobilizer | activates with key |  |
-| [Powered tailgate](../../exterior/doors/#powered-tailgate) | Electric opening and closing. Standard | |
-| [Servo closing of doors](../../exterior/doors/#servo-closing) | | GZ2 |
-| Garage port opener |  | VC2 |  
+| Automatisk startsperre | Integrert i motorstyreenheten, automatisk aktivering med nøkkelen. |  |
+| [Elektrisk åpning og lukking av bakluken](../../exterior/doors/#powered-tailgate) | Electric opening and closing. Standard | |
+| [Servolukking av dørene](../../exterior/doors/#servo-closing) | | GZ2 |
+| Garasjeportåpner |  | VC2 |  
 
 ## Glass
 
 | Title | Description | ID |
 |-----|------|------|
-| [Heat-absorbing glass](../../exterior/windows/) | Standard | |
-| [Windshield in acoustic glass](../../exterior/windows/) | Standard | |
-| [Acoustic glass on side windows](../../exterior/windows/)  |  | VW0 |
+| [Varmedempende glass](../../exterior/windows/) | Standard | |
+| [Frontrute i akustikglass](../../exterior/windows/) | Standard | |
+| [Akustikkglass på sideruter](../../exterior/windows/)  |  | VW0 |
 | [Privacy glass](../../exterior/windows/#privacy-glass) |  | QL5 |
-| Adaptive whipers | | 9PF |
-| [Manual curtain rear](../../interior/curtain/) | | 3Y4 |
-| Sunshades  | Retractable | 5XF |  
+| Adaptive vindusviskere med integrerte spylerdyser | | 9PF |
+| [Manuell rullegardin](../../interior/curtain/) | | 3Y4 |
+| Solskjermer | Med belyst make-up-speil, uttrekkbart sideveis. | 5XF |  
 
 ## Utvendig utstyr
 
