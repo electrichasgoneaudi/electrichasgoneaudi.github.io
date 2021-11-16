@@ -259,7 +259,7 @@ Fargekode: **Z7**
 
 Se detaljert video  av @audifansite
 
-{{ < youtube ONXvAX2q2-s > }}
+{{< youtube ONXvAX2q2-s >}}
 
 ### Tyfongrå metallic
 

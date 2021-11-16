@@ -258,7 +258,7 @@ Color Code: **Z7**
 
 See video below for detailed shot by @audifansite
 
-{{ < youtube ONXvAX2q2-s > }}
+{{< youtube ONXvAX2q2-s >}}
 
 ### Typhoon Grey
 
