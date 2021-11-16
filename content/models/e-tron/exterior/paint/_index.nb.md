@@ -257,6 +257,10 @@ Fargekode: **Z7**
     <figcaption><h4>Audi e-tron 55 i Chronos Grey med sort optikk</h4></figcaption>
 </figur>
 
+Se detaljert video  av @audifansite
+
+{{ < youtube ONXvAX2q2-s >}}
+
 ### Tyfongrå metallic
 
 Fargekode: **2L**

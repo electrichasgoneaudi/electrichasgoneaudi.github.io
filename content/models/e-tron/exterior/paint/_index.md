@@ -256,6 +256,10 @@ Color Code: **Z7**
     <figcaption><h4>Audi e-tron 55 in Chronos Grey with black optics</h4></figcaption>
 </figur>
 
+See video below for detailed shot by @audifansite
+
+{{ < youtube ONXvAX2q2-s >}}
+
 ### Typhoon Grey
 
 Color Code: **2L**
