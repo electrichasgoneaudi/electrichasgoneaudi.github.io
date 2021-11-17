@@ -14,3 +14,5 @@ weight: 20
 | 66L1 | [Virtual mirror fix](https://github.com/electrichasgoneaudi/etron-issues/issues/49)  |
 | 57H3 | [Fix for serveral issues](https://github.com/electrichasgoneaudi/etron-issues/issues/48) |
 | 93M1 | Fix battery |
+| 53C8 | Tow hitch fix |
+| 93E8 | Fix charge port |
