@@ -16,3 +16,12 @@ weight: 20
 | 93M1 | Fix battery |
 | 53C8 | Tow hitch fix |
 | 93E8 | Fix charge port |
+| 93L9 | S-Software update for high-voltage charging unit |
+| 93G1 |   |
+| 93H6 |   |
+| 91X4 |   |
+| 47R1 | Brake fix  |
+| 72M1 |            |
+| 42L1 |  Control of bolts | 
+
+

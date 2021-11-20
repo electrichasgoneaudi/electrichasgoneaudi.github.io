@@ -7,7 +7,7 @@ weight: 100
 
 ## Lakkfarger og lakkutførelse
 
-| Title | Description | ID |
+| Utstyr | Beskrivelse | ID |
 |-----|------|------|
 |  [Brilliantsort](../../exterior/paint/#brilliantsort)   | Unilakk  |  A2   |
 |  [Catalunyarød](../../exterior/paint/#catalunyarød-metallic)  | Metallic   |  Y6   |
@@ -32,7 +32,7 @@ weight: 100
 
 ## Komplette sommer/vinter hjul
 
-| Title | Description | ID |
+| Utstyr | Beskrivelse | ID |
 |-----|------|------|
 | [19" 5-arm aero design](../../exterior/wheels/#19-5-arm-aero-design) |  | 40V |
 | [19" 5-arm aero design](../../exterior/wheels/#19-5-arm-aero-design-winter-wheels) | winter | 2WL |
@@ -55,7 +55,7 @@ weight: 100
 
 ## Dekktilbehør
 
-| Title | Description | ID |
+| Utstyr | Beskrivelse | ID |
 |-----|------|------|
 | Dekkreparasjonssett|  | 1G8 |
 | Hjulbolter med tyverisikring og hjulboltvarsling | Standard | 1PR |
@@ -65,7 +65,7 @@ weight: 100
 
 ## Lading og oppvarming
 
-| Title | Description | ID |
+| Utstyr | Beskrivelse | ID |
 |-----|------|------|
 | [Komfort førklimatisering](../../technology/climatecontrol/#komfort-førklimatisering) |  | GA2 |
 | Ladeclip for feste av ladeutstyr Compact |  | NJ2 |
@@ -79,13 +79,13 @@ weight: 100
 
 ## Utstyrspakker
 
-| Title | Description | ID |
+| Utstyr | Beskrivelse | ID |
 |-----|------|------|
 | S line interiørpakke | [Sort taktrekk](../../interior/headliner/#sort), [4-veis korsryggstøtte](../../interior/seats/#4-veis-korsryggstøtte), Belyste innstegslister foran og bak, [S-Line Sportsseter](../../interior/seats/#s-line-sportsseter), [Aluminiumsdekor](../../interior/inlays/), Skinn/alcantara  | WQS |
 
 ## Lys
 
-| Title | Description | ID |
+| Utstyr | Beskrivelse | ID |
 |-----|------|------|
 | [Matrix LED-hovedlykter med dynamiske lyseffekter og dynamisk blinklys foran og bak](../../technology/lights/#hd-matrix-led-hovedlykter) |  | PX6 |
 | [Lyktespyleranlegg](../../technology/lights/#lyktespyleranlegg) | Standard | |
@@ -94,7 +94,7 @@ weight: 100
 
 ## Speil og taksystemer
 
-| Title | Description | ID |
+| Utstyr | Beskrivelse | ID |
 |-----|------|------|
 | Innvendig speil| automatisk avblendbart, uten ramme |  |
 | [Sidespeil, elektrisk justerbare og oppvarmbare](../../exterior/mirrors/#functionality) | Standard | 6XD |
@@ -110,7 +110,7 @@ weight: 100
 
 ## Låsesystemer
 
-| Title | Description | ID |
+| Utstyr | Beskrivelse | ID |
 |-----|------|------|
 | [Standard key](../../technology/lockingsystems/#standard-nøkkel) | Remote controll, keyless go |  |  |
 | [Komfortnøkkel](../../technology/lockingsystems/#komfortnøkkel-pgc) | | PGC |
@@ -123,7 +123,7 @@ weight: 100
 
 ## Glass
 
-| Title | Description | ID |
+| Utstyr | Beskrivelse | ID |
 |-----|------|------|
 | [Varmedempende glass](../../exterior/windows/) | Standard | |
 | [Frontrute i akustikglass](../../exterior/windows/) | Standard | |
@@ -135,19 +135,19 @@ weight: 100
 
 ## Utvendig utstyr
 
-| Title | Description | ID |
+| Utstyr | Beskrivelse | ID |
 |-----|------|------|
-| [Trailer hitch preparation](../../transportation/#trailer) | | 1D8 |
-| [Trailer hitch](../../transportation/#trailer) |  | 1D2 |
-| [Rails in aluminium](../../transportation/#roof-storage) |  | 3S1 |
-| [Rails black](../../transportation/#roof-storage) |  | 3S2 |
-| Chrome side list | window frame in Aluminum | 4ZB |
-| [Black optics](../../exterior/optics/) | | 4ZD |
-| [Black optics plus](../../exterior/optics/) |  |  |
+| [Forberedelse for tilhengerfeste](../../transportation/#trailer) | | 1D8 |
+| [Tilhengerfesteh](../../transportation/#trailer) |  | 1D2 |
+| [Takreling i eloksert aluminium](../../transportation/#roof-storage) |  | 3S1 |
+| [Takreling, sort](../../transportation/#roof-storage) |  | 3S2 |
+| Blanke sidelister | window frame in Aluminum | 4ZB |
+| [Sort optikkpakke](../../exterior/optics/) | | 4ZD |
+| [Sort optikkpakke plus](../../exterior/optics/) |  |  |
 
 ## Setetrekk og skinninteriør
 
-| Title | Description | ID |
+| Utstyr | Beskrivelse | ID |
 |-----|------|------|
 | Effect facbric | Standard seats | |
 | Alcantara/leather | | N7U |
@@ -158,7 +158,7 @@ weight: 100
 
 ## Instrumentpanel
 
-| Title | Description | ID |
+| Utstyr | Beskrivelse | ID |
 |-----|------|------|
 | [Upper part of dashboard in leather](../../interior/interiormaterials/#leather-on-dashboard-imitated-leather-on-doorscenterconsole) | | 7HC |
 |[Upper and lower part in leather](../../interior/interiormaterials/#full-leather-on-dashboard-door-and-lower-part-of-center-consol) |  | 7HD |
@@ -166,7 +166,7 @@ weight: 100
 
 ## Seter
 
-| Title | Description | ID |
+| Utstyr | Beskrivelse | ID |
 |-----|------|------|
 | [Standard seats](../../interior/seats/#standard-seats) | | |
 | [Sport seats](../../interior/seats/#sport-seats)  |  | Q1D |
@@ -190,7 +190,7 @@ weight: 100
 
 ## Interior design
 
-| Title | Description | ID |
+| Utstyr | Beskrivelse | ID |
 |-----|------|------|
 | [Moon silver headliner](../../interior/headliner/) |  |  |
 | [Black headliner](../../interior/headliner/)  |  |  6NQ | 
@@ -206,7 +206,7 @@ weight: 100
 
 ## Ratt/betjeningselementer
 
-| Title | Description | ID |
+| Utstyr | Beskrivelse | ID |
 |-----|------|------|
 | [Multifunction with paddles](../../interior/steeringwheels/) | Standard | |
 | [Heated multifunction with paddles](../../interior/steeringwheels/) |  | 2ZM | 
@@ -217,7 +217,7 @@ weight: 100
 
 ## Klimaanlegg
 
-| Title | Description | ID |
+| Utstyr | Beskrivelse | ID |
 |-----|------|------|
 | [2-zone climate control](../../technology/climatecontrol/) | Standard |  |
 | [4-zone climate](../../technology/climatecontrol/#4-zone-electronic-climate-control) |  | 9AQ |
@@ -227,7 +227,7 @@ weight: 100
 
 ## Annet innvendig utstyr
 
-| Title | Description | ID |
+| Utstyr | Beskrivelse | ID |
 |-----|------|------|
 | None smoker package |  |  |
 | Sigaret lighter and ash tray |  | 9JC |
@@ -243,7 +243,7 @@ aluminum field, without logo |  | VT3 |
 
 ## Infotainment
 
-| Title | Description | ID |
+| Utstyr | Beskrivelse | ID |
 |-----|------|------|
 | [Audi Virtual Cockpit](../../technology/uiandoperations/virtualcockpit/) | Standard |  |
 | [Audi Virtual Cockpit plus](../../technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus) |   | 9S9 |
@@ -265,7 +265,7 @@ aluminum field, without logo |  | VT3 |
 
 ## Assistentsystemer
 
-| Title | Description | ID |
+| Utstyr | Beskrivelse | ID |
 |-----|------|------|
 | Assistentpakke by  | [Crossing assist](../../technology/drivingassistance/crossingassist/), [side assist](../../technology/drivingassistance/sideassist/), [exit warning](../../technology/drivingassistance/exitwarning/), [pre sense rear](../../technology/drivingassistance/presenserear/), [pre sense side](../../technology/drivingassistance/presenseside/), [cross traffic rear](../../technology/drivingassistance/crosstrafficassistrear/) | PCM | 
 | Assistentpakke tur | [Adaptive cruise assist](../../technology/drivingassistance/adaptivecruiseassist/), [Adaptive cruise control](../../technology/drivingassistance/adaptivecruisecontrol/), [efficient assistant](../../technology/drivingassistance/predictiveefficiencyassist/),  [turn assist](../../technology/drivingassistance/turnassist/), [traffic sign recognition](../../technology/drivingassistance/trafficsignrecognition/), [emergency assist](../../technology/drivingassistance/emergencyassist/) | PCC    |
@@ -281,7 +281,7 @@ aluminum field, without logo |  | VT3 |
 
 ## Understell/Bremser
 
-| Title | Description | ID |
+| Utstyr | Beskrivelse | ID |
 |-----|------|------|
 | [Adaptive air suspension](../../drivetrain/suspension/) | Standard  | 1BK | 
 | [Adaptive air suspension sport](../../drivetrain/suspension/) |  | 2MB |
@@ -292,7 +292,7 @@ aluminum field, without logo |  | VT3 |
 
 ## Teknikk/sikkerhet
 
-| Title | Description | ID |
+| Utstyr | Beskrivelse | ID |
 |-----|------|------|
 | [Front airbags](../../technology/safety/#front-airbags) | Standard for front  |   |
 | [Head airbags](../../technology/safety/#head-airbags) | Standard for front and rear |  |
