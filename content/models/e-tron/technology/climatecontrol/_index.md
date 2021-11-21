@@ -39,7 +39,7 @@ Utilization of residual heat
 
 ![First screen menu](firstscreenmenu.jpg "Rear zones can also be checked in front or synchronized with the rest")
 
-4-zone AC has alternative ID ** 9AQ **
+4-zone AC has option ID **9AQ**
 
 ### Auxiliary air conditioner
 
@@ -54,7 +54,7 @@ The Auxiliary air conditioner can not be used if the battery is too low (<30%)
 
 ### Auxiliary air conditioner with extra convenience
 
-You can get the Auxiliary air conditioner with extra convenience as an option. With this option, you can heat windows, seats, and the steering wheel in addition to the cabin. 
+You can get the Auxiliary air conditioner with extra convenience as an option. With this option, you can heat windows, seats, and the steering wheel in addition to the cabin.
  Option id **GA2**
 
 [comfort settings](conviencesettingsnb.jpg "comfort settings")
