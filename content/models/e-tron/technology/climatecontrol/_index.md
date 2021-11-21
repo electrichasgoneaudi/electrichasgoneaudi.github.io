@@ -46,7 +46,7 @@ Utilization of residual heat
 The Audi e-tron is equipped with a Auxiliary air conditioner that can be used when the car is parked. This can be activated
 from the MMI manual or set aside a timer. A typical use case is when you charge since the car must be switched off then and the AC main unit does not work.
 
-![Pre condition](preconditionnb.jpg "Auxiliary air conditioner will run for 30 minutes (60 for lightning charging) and can be started from MMI or myAudi app")
+![Pre condition](precondition.jpg "Auxiliary air conditioner will run for 30 minutes (60 for lightning charging) and can be started from MMI or myAudi app")
 
 The Auxiliary air conditioner can also be controlled by the [myAudi app](../../technology/audiconnect/myaudi/). This is useful when you need to heat or cool the car before using it.
 
@@ -57,6 +57,6 @@ The Auxiliary air conditioner can not be used if the battery is too low (<30%)
 You can get the Auxiliary air conditioner with extra convenience as an option. With this option, you can heat windows, seats, and the steering wheel in addition to the cabin.
  Option id **GA2**
 
-[comfort settings](conviencesettingsnb.jpg "comfort settings")
+[comfort settings](conviencesettings.jpg "comfort settings")
 
 {{% children description="true" depth="1" %}}
