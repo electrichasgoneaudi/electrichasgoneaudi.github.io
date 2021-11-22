@@ -23,7 +23,7 @@ For de følgende eksemplene antar vi at du har en e-tron 55 med 86,5 kWh nettoka
 
 ### Km eksempel 1
 
-Hvis du kjører 240 kilometer med et forbruk på 25kWh/100
+Hvis du kjører 280 kilometer med et forbruk på 25kWh/100
 Du begynte med 100% og endte opp med 16%.
 
 Først beregner du den totale energien som brukes
