@@ -29,7 +29,7 @@ fra MMI manuelt eller satt av en timer. Et typisk brukstilfelle er når du lader
 ![Pre condition](preconditionnb.jpg "Parkeringsklimaanlegg vil kjøre i 30 minutter og kan startes fra MMI eller myAudi-appen" )
 
 Parkeringsklimanlegget kan også styres av myAudi-appen. Dette er nyttig når du skal varme eller avkjøle kupeen før du bruker bilen.
-Batteriet blir ikke direkte oppvarmet i denne prosessen. Ved å navigere til en lynlader vil bilen under gitt forutsettninger aktivere batterivarmer når man nærmer seg laderen.  [Les mer om batteri](../../drivetrain/battery/#termisk-styring).
+Batteriet blir ikke direkte oppvarmet i denne prosessen. Ved å navigere til en lynlader vil bilen under gitt forutsetninger aktivere batterivarmer når man nærmer seg laderen.  [Les mer om batteri](../../drivetrain/battery/#termisk-styring).
 
 Parkeringsklimaanlegget kan ikke brukes hvis batteriet har for lav ladning (<30 %)
 
