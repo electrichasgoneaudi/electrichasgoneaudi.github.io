@@ -149,44 +149,44 @@ weight: 100
 
 | Utstyr | Beskrivelse | ID |
 |-----|------|------|
-| Effect facbric | Standard seats | |
-| Alcantara/leather | | N7U |
-| Alcantara Frequenz/Leather | S-line interior | N7K |
-| Leather / mono pur 550 |  | N4M |
-| Milano leather |  | N5W |
-| Valcona leather |  | N5D, N0K, N2R |
+| Effekt stof | For standardsete foran | |
+| Alcantara/skinn kombinasjon | For sportsseter foran | N7U |
+| Alcantara Frequenz/skinn kombinasjon | S-line interior | N7K |
+| Skinn / mono.pur 550 kunstskinn | For standardseter | N4M |
+| Milano skinninteriør |  | N5W |
+| Valconaskinn |  | N5D, N0K, N2R |
 
 ## Instrumentpanel
 
 | Utstyr | Beskrivelse | ID |
 |-----|------|------|
-| [Upper part of dashboard in leather](../../interior/interiormaterials/#leather-on-dashboard-imitated-leather-on-doorscenterconsole) | | 7HC |
-|[Upper and lower part in leather](../../interior/interiormaterials/#full-leather-on-dashboard-door-and-lower-part-of-center-consol) |  | 7HD |
-| [Lower part in artifical leather](../../interior/interiormaterials/#imiated-leather-doors-and-center-consol) |  | 7HM |
+| [Øvre del av instrumentpanelet i skinn](../../interior/interiormaterials/#leather-on-dashboard-imitated-leather-on-doorscenterconsole) | | 7HC |
+| [Øvre del av instrumentpanelet og nedre interiørelementer i skinn](../../interior/interiormaterials/#full-leather-on-dashboard-door-and-lower-part-of-center-consol) |  | 7HD |
+| [Øvre del av instrumentpanelet og nedre interiørelementer i kunstskinn](../../interior/interiormaterials/#imiated-leather-doors-and-center-consol) |  | 7HM |
 
 ## Seter
 
 | Utstyr | Beskrivelse | ID |
 |-----|------|------|
-| [Standard seats](../../interior/seats/#standard-seats) | | |
-| [Sport seats](../../interior/seats/#sport-seats)  |  | Q1D |
-| [S-Sport seats](../../interior/seats/#s-sport-seats) |  | Q4Q |
-| [Individual Contour seats](../../interior/seats/#individual-contour-seats) |  | PS8
-| [Manual adjustment](../../interior/seats/#seat-functionality) | | |
-| [Electric adjustment with memory](../../interior/seats/#electric-adjustment) | | PV3 |
-| [Electric adjust with memory](../../interior/seats/#electric-adjustment) | For contour seats, standard | PV6 |
-| Height adjustable headrest | Standard for standard and sport seats | |
-| Height and length adjustable headrest |  | 5ZC |
-| Armrest | Standard | |
-| Comfort armrest |  | 6E3 |
-| [Heated front seats](../../interior/seats/#seat-heating) |  | 4A3 |
-| [Heated front and rear seats](../../interior/seats/#seat-heating) |  | 4A4 |
-| [Ventilated seats](../../interior/seats/#ventilated-seats) | Only Individual Contour | 4D3 |
-| [Ventilated and massage seats](../../interior/seats/#massage) | Only Individual Contour | 4D8 |
-| [4-way lumbar support](../../interior/seats/#4-way-lumbar-support) | | 7P1 |
-| [Fold-down rear seat back](../../transportation/#trunk) | Standard | |
-| ISOFIX and Top Tether for the rear seat | Standard | |
-| ISOFIX front passenger seat | Standard |  |
+| [Standard seter foran](../../interior/seats/#standard-seter) | | |
+| [Sportsseter foran](../../interior/seats/#sportsseter  |  | Q1D |
+| [S sportsseter foran](../../interior/seats/#s-sportseter) |  | Q4Q |
+| [Individualkonturseter foran](../../interior/seats/#Individualkonturseter) |  | PS8
+| [Manuelt justebare forseter](../../interior/seats/#setefunksjonalitet) | | |
+| [Forseter med elektrisk justering og minnefunksjon for førersetet](../../interior/seats/#elektrisk-justering) |Ikke i kombinasjon med Individualkonturseter | PV3 |
+| [Elektrisk justerbare forseter med minnefunksjon](../../interior/seats/#elektrisk-justering) | Kun i kombinasjon med Individualkonturseter | PV6 |
+| Hodestøtter foran | Høyden kan stilles inn manuelt. | |
+| Variable hodestøtter for forsetene |  Med manuell justering av hodestøtten i høyde og avstand | 5ZC |
+| Midtarmlene foran | Standard | |
+| Komfortmidtarmlene foran | Kan skyves i lengderetningen og med justerbar helningsvinkel. | 6E3 |
+| [Setevarme foran](../../interior/seats/#setevarme) |  | 4A3 |
+| [Setevarme foran og bak](../../interior/seats/#setevarme) |  | 4A4 |
+| [Seteventilasjon foran](../../interior/seats/#ventilerte-seter) |  | 4D3 |
+| [Seteventilasjon og massasjefunksjon foran](../../interior/seats/#massasje) | Only Individual Contour | 4D8 |
+| [4-veis korsryggstøtte for forsetene](../../interior/seats/#4-way-lumbar-support) | | 7P1 |
+| [Nedfellbar bakseterygg](../../transportation/#trunk) | Standard | |
+| ISOFIX barnesetefeste og Top Tether for baksetet | Standard | |
+| ISOFIX barnesetefeste på passasjersetet foran | Standard |  |
 
 ## Interior design
 

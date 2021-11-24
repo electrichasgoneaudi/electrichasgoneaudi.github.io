@@ -21,26 +21,32 @@ Det gir også passasjeren i baksetet et eget panel hvor de kan justere baksonen.
 
 3-soners klimakontrollsystem er en del av klima- og vinterpakken med opsjons-ID **WNW**
 
-## Komfort førklimatisering
+## Parkeringsklimanlegg
 
 Audi e-tron er utstyrt med et ekstra klimaanlegg som kan brukes når bilen er slått av. Denne kan aktiveres
 fra MMI manuelt eller satt av en timer. Et typisk brukstilfelle er når du lader siden bilen må slås av da og AC-hovedenheten ikke fungerer.
 
-![Pre condition](precondition.jpg "Precondition vil kjøre i 30 minutter og kan startes fra MMI eller myAudi-appen" )
+![Pre condition](preconditionnb.jpg "Precondition vil kjøre i 30 minutter og kan startes fra MMI eller myAudi-appen" )
 
-Ekstraklimaanlegget kan også styres av myAudi-appen. Dette er nyttig når du skal varme eller avkjøle bilen før du bruker den.
+Parkeringsklimanlegget kan også styres av myAudi-appen. Dette er nyttig når du skal varme eller avkjøle kupeen før du bruker bilen.
+Batteriet blir ikke direkte oppvarmet i denne prosessen.
 
-Når du bruker pre-condition-funksjonaliteten, kan du også varme opp rattet og forsetene.
+Parkeringsklimaanlegget kan ikke brukes hvis batteriet har for lav ladning (<30 %)
 
-Hjelpeklimaanlegget med forkondisjoneringsanlegg har Option ID **GA2**, men er standardutstyr.
+## Komfort førklimatisering
+
+Du kan få parkeringsklimanlegg med ekstra komfort som ekstrautstyr. Med dette alternativet kan du varme vinduer, seter og ratt i tillegg til kupeen. Dette forutsetter at du har dette utstyret.
+
+Opsjonsid GA2
+
+![Komfort](conviencesettingsnb.jpg "Komfortinnstillinger")
 
 ## Varmepumpe
 
 Varmepumpen gjenbruker varme fra drivverket for å varme kupéen effektivt.
 
-Dette kan redusere forbruket i kaldt vær og dermed øke rekkevidden. Hvor mye denne hjelpen vil variere med været.
+Dette kan redusere forbruket i kaldt vær og dermed øke rekkevidden. Hvor mye denne hjelpen vil variere med væreto og om bilen har vært forvarmet. Men det er ikke umulig at det kan gi opptil 10% økning av rekkevidden hvis det er kaldt og bilen ikke har vært forvarmet.
 
 Har opsojns-ID **9M3**, men den er bare tilgjengelig som en del av [klima- og vinterpakken](/models/q4-e-tron/optionguide/list/#equipment-packages) **WNW**
-
 
 {{% children description="true" depth="1" %}}

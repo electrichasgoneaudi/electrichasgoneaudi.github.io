@@ -69,7 +69,7 @@ Med den valgfrie massasjefunksjonen kan brukeren velge mellom tre forskjellige i
 |Elektrisk setejustering passasjer | alternativ | alternativ | standard |standard | standard |
 |Minne for førersete | alternativ | alternativ | alternativ | standard | standard |
 |Minne for passasjersete | N/A | N/A | N/A |N/A | standard |
-|Forseteventilasjon| N/A | N/A | N/A |N/A |alternativ |
+|Forseteventilasjon| alternativ | N/A | N/A |N/A |alternativ |
 |Forsetemassasje| N/A | N/A | N/A |I/T |alternativ |
 |Forlengende lårstøtte |N/A | standard |standard |standard | standard |
 |Delt baksete | 40:20:40 | 40:20:40 | 40:20:40 |40:20:40 | 40:20:40 |
@@ -126,16 +126,17 @@ Med den valgfrie massasjefunksjonen kan brukeren velge mellom tre forskjellige i
 
 ![S-Sport-seter](seats_ssportseats_7.jpg "S-Sport-seter i arras rødt Valcona-skinn")
 
-## individuelle konturseter
+## Individualkonturseter
 
- De individuelle kontursetene har 18-veis effektjustering med minnefunksjon. Sidestøttene og korsryggstøtten kan justeres pneumatisk.
+ Individualkontursetene har 18-veis justering med minnefunksjon. Sidestøttene og korsryggstøtten kan justeres pneumatisk.
  Setene har opsjons-ID **PS8**.
 
 Med valgfri ventilasjon holder setene kjølige på varme dager. Dette har alternativet **4D3**
 
 Med den valgfrie massasjefunksjonen kan brukeren velge mellom tre forskjellige intensiteter i tre forskjellige programmer for å få ti luftkamre til å massere ryggen.
+
 Massasjefunksjonen har alternativ-id **4D8**
- 
+
 ![Individuelle konturseter](seats_individualcontour_1.jpg "Individuelle konturseter")
 
 ![Individuelle konturseter](seats_individualcontour_2.jpg "Individuelle konturseter")
