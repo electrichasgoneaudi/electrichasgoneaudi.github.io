@@ -63,7 +63,7 @@ Q4 35 e-tron-batteriet består av 8 batterimoduler med 12 celler i hver modul.
 ![Termisk styring Audi Q4 e-tron](batterycooling.jpg "Termisk styring Audi Q4 e-tron")
 
 
-![Termistyring Audi Q4 e-tron](batterycooling2.jpg "Kjøling av høyspentbatteriet via kjøleren")
+![Termistyring Audi Q4 e-tron](battercooling2.jpg "Kjøling av høyspentbatteriet via kjøleren")
 
 
 ## Detaljert gjennomgang av batteri

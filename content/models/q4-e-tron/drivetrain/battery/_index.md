@@ -63,9 +63,7 @@ The Q4 35 e-tron battery consist of 8 battery modules with 12 cells in each modu
 
 ![Thermal management Audi Q4 e-tron](batterycooling.jpg "Thermal management Audi Q4 e-tron")
 
-
-![Thermal management Audi Q4 e-tron](batterycooling2.jpg "Cooling of the high-voltage battery via the chiller")
-
+![Thermal management Audi Q4 e-tron](battercooling2.jpg "Cooling of the high-voltage battery via the chiller")
 
 ## Detail walkthrough of battery
 
