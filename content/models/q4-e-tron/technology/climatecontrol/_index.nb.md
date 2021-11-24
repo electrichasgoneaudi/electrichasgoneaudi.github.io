@@ -23,7 +23,7 @@ Det gir også passasjeren i baksetet et eget panel hvor de kan justere baksonen.
 
 ## Parkeringsklimanlegg
 
-Audi e-tron er utstyrt med et ekstra klimaanlegg som kan brukes når bilen er slått av. Denne kan aktiveres
+Audi Q4 e-tron er utstyrt med et ekstra klimaanlegg som kan brukes når bilen er parkert og slått av. Denne kan aktiveres
 fra MMI manuelt eller satt av en timer. Et typisk brukstilfelle er når du lader siden bilen må slås av da og AC-hovedenheten ikke fungerer.
 
 ![Pre condition](preconditionnb.jpg "Parkeringsklimaanlegg vil kjøre i 30 minutter og kan startes fra MMI eller myAudi-appen" )
