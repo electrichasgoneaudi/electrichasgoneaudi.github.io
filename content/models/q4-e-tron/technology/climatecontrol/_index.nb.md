@@ -37,7 +37,7 @@ Parkeringsklimaanlegget kan ikke brukes hvis batteriet har for lav ladning (<30 
 
 Du kan få parkeringsklimanlegg med ekstra komfort som ekstrautstyr. Med dette alternativet kan du varme vinduer, seter og ratt i tillegg til kupeen. Dette forutsetter at du har dette utstyret.
 
-Komfort førklimatisering er en del av Klima og vinterpakken med opsjon WNW.
+Komfort førklimatisering er en del av [klima- og vinterpakken](/models/q4-e-tron/optionguide/list/#equipment-packages) med opsjon id WNW.
 
 ![Komfort](conviencesettingsnb.jpg "Komfortinnstillinger")
 
