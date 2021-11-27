@@ -17,7 +17,7 @@ weight: 100
 |  [Mythossort](../../exterior/paint/#mythossort) | Metallic   |  0E   |
 |  [Aurorafiolett](../../exterior/paint/#aurorafiolett-metallic)| Metallic   |  J6   |
 |  [Isbrehvit](../../exterior/paint/#isbrehvit-metallic)| Metallic   | 2Y    |
-|  [Hellakkering i bilens farge](../../exterior/paint/#helllakkering)| Kun for Advanced eller S line og fargene Pebblestonegrå, Isbrehvit, Mythossort eller Navarrablå. | FB4 |
+|  [Hellakkering i bilens farge](../../exterior/paint/#hellakkering)| Kun for Advanced eller S line og fargene Pebblestonegrå, Isbrehvit, Mythossort eller Navarrablå. | FB4 |
 |  [Kontrastlakkering](../../exterior/paint/#kontrastlakkering)| I Manhattan grå| FB5 |
 
 
@@ -40,18 +40,18 @@ weight: 100
 
 | Title | Description | ID |
 |-----|------|------|
-|  Tire repair kit  | Can be combiend with 20" and 21"  |  1S3   |
-| Basic tool kit | In trunk | 1S2 |
-| Tire Pressure System | Standard | 7K1 |
+| Verktøy med dekkreparasjonssett  | Dekkreparasjonssett og kompressor plassert i bagasjerommet.  |  1S3   |
+| Vektøysett basis | Standard | 1S2 |
+| Dekktrykkontrollsystem | Standard | 7K1 |
 
 ## Eksteriør pakker
 
 | Title | Description | ID |
 |-----|------|------|
-| Edition one, Geyser | Edtion one with big equipment package | PFR |
-| Edition one, Typhoon | Edtion one with big equipment package | PFP |
-|  Advanced Line  | Includes  [Contrast paint](../../exterior/paint/#contrast-paint),   [19" 5-W design](../../exterior/wheels/#19-5-w-design)  |  PY1   |
-|  S-Line  | Includes [Contrast paint](../../exterior/paint/#contrast-paint),  [S-line Styling](../../exterior/s-line/),   [20" 5Y design](../../exterior/wheels/#20-5y-design) |  PY2   |
+| Edition One pakke, Geysirblå | Edtion one with big equipment package | PFR |
+| Edition One pakke, Tyfongrå | Edtion one with big equipment package | PFP |
+| Advanced line pakke  | Inkluderer  [Konstrastlakkering](../../exterior/paint/#kontrastlakkering),   [19" 5-W design](../../exterior/wheels/#19-5-w-design)  |  PY1   |
+|  S-Line  | Includes [Kontrastlakkering](../../exterior/paint/#kontrastlakkering),  [S-line Styling](../../exterior/s-line/),   [20" 5Y design](../../exterior/wheels/#20-5y-design) |  PY2   |
 
 ## Utstyrpakker 
 
