@@ -5,7 +5,7 @@ description: Cruisekontroll opprettholder en ønsket kjørehastighet konstant me
 weight: 1
 ---
 
-![Cruisecontrol](cruisecontrol.jpg "Cruise control stang")
+![Cruisecontrol](cruisecontrolhandle.jpg "Cruise control hendel")
 
 Systemet gir avlastning til sjåførene på denne måten – spesielt på lange turer. Samtidig bidrar kjøringen med konstant hastighet til lavere drivstofforbruk og lavere CO2-utslipp. Systemet betjenes via en separat rattstamme, og forhåndsinnstilt kjørehastighet vises i instrumentgruppen. Systemet deaktiveres når føreren bremser.
 
