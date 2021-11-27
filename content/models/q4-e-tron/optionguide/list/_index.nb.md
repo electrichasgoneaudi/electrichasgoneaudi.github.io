@@ -70,16 +70,16 @@ weight: 100
 
 | Title | Description | ID |
 |-----|------|------|
-| Interiørpakke 1 | [Standard seats](../../interior/seats/#standard-seats-in-black-leather-option-pwa) in black leather | PWA |
-| Interiørpakke 2 | [Standard seats](../../interior/seats/#standard-seats-in-brown-leather-option-pwb) in brown leather | PWB |
-| Interiørpakke 3 | [Standard seats](../../interior/seats/#standard-seats-in-beige-leather-option-pwc) in beige leather| PWC |
-| Interiørpakke 4 | [Sport seats](../../interior/seats/#sport-seats-with-dinamica-option-pwd) in dinamica black | | PWD |
-| Interiørpakke 5 | [Sport seats](../../interior/seats/#sport-seats-with-black-leather-option-pwe) in black leather | PWE |
-| Interiørpakke 6 | [S-line Sport seats](../../interior/seats/#s-line-seats-with-leatherfabric-option-pwk) in fabric/leather| PWK |
-| Interiørpakke 7 | [S-line Sport seats](../../interior/seats/#s-line-seats-with-leather-option-pwl) in black leather | PWL |
-| Interiørpakke 8 | [S-line Sport seats](../../interior/seats/#s-line-seats-with-leather-and-dinamica-option-pwm) in dinamica| PWM |
-| Interiørpakke 9 | [S-line Sport seats](../../interior/seats/#s-line-sport-seats-with-feinappa-leather-option-pwn) in feinappa leather| PWN |
-| Røde sømmer fra Audi Sport | Can only be combined with interior package 8 or 9 | YYB |
+| Interiørpakke 1 | [Standard seter](../../interior/seats/#standard-seats-in-black-leather-option-pwa) i sort skinn | PWA |
+| Interiørpakke 2 | [Standard seter](../../interior/seats/#standard-seats-in-brown-leather-option-pwb) i brunt skinn | PWB |
+| Interiørpakke 3 | [Standard seter](../../interior/seats/#standard-seats-in-beige-leather-option-pwc) i beige skinn| PWC |
+| Interiørpakke 4 | [Sport seter](../../interior/seats/#sport-seats-with-dinamica-option-pwd) in dinamica black | | PWD |
+| Interiørpakke 5 | [Sport seter](../../interior/seats/#sport-seats-with-black-leather-option-pwe) i sort skinnr | PWE |
+| Interiørpakke 6 | [S-line Sport seter](../../interior/seats/#s-line-seats-with-leatherfabric-option-pwk) i fabric/leather| PWK |
+| Interiørpakke 7 | [S-line Sport seter](../../interior/seats/#s-line-seats-with-leather-option-pwl) i sort skinn | PWL |
+| Interiørpakke 8 | [S-line Sport seter](../../interior/seats/#s-line-seats-with-leather-and-dinamica-option-pwm) i dinamica| PWM |
+| Interiørpakke 9 | [S-line Sport seter](../../interior/seats/#s-line-sport-seats-with-feinappa-leather-option-pwn) i feinappa skinn| PWN |
+| Røde sømmer fra Audi Sport | Kun i kombinasjon med interiørpakke 8 og 9 | YYB |
 
 ## Lights
 
