@@ -74,8 +74,8 @@ weight: 100
 | Interiørpakke 2 | [Standard seter](../../interior/seats/#standard-seats-in-brown-leather-option-pwb) i brunt skinn | PWB |
 | Interiørpakke 3 | [Standard seter](../../interior/seats/#standard-seats-in-beige-leather-option-pwc) i beige skinn| PWC |
 | Interiørpakke 4 | [Sport seter](../../interior/seats/#sport-seats-with-dinamica-option-pwd) in dinamica black | | PWD |
-| Interiørpakke 5 | [Sport seter](../../interior/seats/#sport-seats-with-black-leather-option-pwe) i sort skinnr | PWE |
-| Interiørpakke 6 | [S-line Sport seter](../../interior/seats/#s-line-seats-with-leatherfabric-option-pwk) i fabric/leather| PWK |
+| Interiørpakke 5 | [Sport seter](../../interior/seats/#sport-seats-with-black-leather-option-pwe) i sort skinn | PWE |
+| Interiørpakke 6 | [S-line Sport seter](../../interior/seats/#s-line-seats-with-leatherfabric-option-pwk) i stoff/skinn| PWK |
 | Interiørpakke 7 | [S-line Sport seter](../../interior/seats/#s-line-seats-with-leather-option-pwl) i sort skinn | PWL |
 | Interiørpakke 8 | [S-line Sport seter](../../interior/seats/#s-line-seats-with-leather-and-dinamica-option-pwm) i dinamica| PWM |
 | Interiørpakke 9 | [S-line Sport seter](../../interior/seats/#s-line-sport-seats-with-feinappa-leather-option-pwn) i feinappa skinn| PWN |
@@ -91,42 +91,41 @@ weight: 100
 | [High beam assistant](../../technology/lights/#standard-headlights) | For standard headlights | 8G1 |
 | [Head light washers](../../technology/lights/#standard-headlights) | Inlcuded for Matrix | 8X8 |
 
-
 ## Speil 
 
 | Title | Description | ID |
 |-----|------|------|
-| Exterior mirrors housing| Standard painted in body color | 6FG |
-| Black mirror housing  | 6FJ |
-| Electric adjustable mirrors | Heated  |6XN |
-| Electric retractable mirrors | Only sold as part of PYY/PYA | 6XL |
-| Manual interior mirrors | Standard | 4L2 |
-| Automatic interor mirros | Automiatic dimmable, framless | 4L6 |
-| Projection lights in mirrors |  | 1J2 |
+| Utvendige speilhus| Lakkert i bilens farge | 6FG |
+| Utvendige speilhus i sort  | 6FJ |
+| Utvendige speil | Elektrisk justerbare og oppvarmede med integrert LED-blinklys, konvekst, plant eller asfærisk speilglass  |6XN |
+| Elektrisk justerbare, oppvarmbare og innfellbare sidespeil | Kun solgt som del av PYY/PYA | 6XL |
+| Innvendig speil, avblendbart | Standard | 4L2 |
+| Automatisk innvendig avblendbart speil | | 4L6 |
+| Projeksjonslys i sidespeilene | Kun solgt som del av PYY/PYA | 1J2 |
 
 ## Tak
 
 | Title | Description | ID |
 |-----|------|------|
-| [Panoramic roof](../../exterior/panoramicroof/) |  | 3FU |
-| Rails aluminium | Not sportback | 3S1 |
-| Rails black | Not sportback | 3S2 |
+| [Panorama glasstak](../../exterior/panoramicroof/) |  | 3FU |
+| Takreling i aluminium | Ikke til Sportback | 3S1 |
+| Takreling i sort | Ikke til Sportback | 3S2 |
 
 ## Låsesystemer
 
 | Title | Description | ID |
 |-----|------|------|
-| Sentral locking | Remote controlle | 4I7 |
-| Comfort key | Key less go | 4K5 |
-| Electric luggage compartment lid |   | 4E6 |
+| Fjernbetjent sentrallås | Standard | 4I7 |
+| Komfortnøkkel | Key less go | 4K5 |
+| Elektrisk bagasjeromsåpner og lukker |   | 4E6 |
 
 ## Glass
 
 | Title | Description | ID |
 |-----|------|------|
-| [Heat reflecting front window](../../exterior/windows/) | Standard | 4GF | 
-| [Heat reflecting side windows](../../exterior/windows/) | standard | 4GC |
-| [Privacy windows](../../exterior/windows/#privacy-glass) | Dark side windows in the  rear | QL5 |
+| [Varmereflekterende frontrute](../../exterior/windows/) | Standard | 4GF | 
+| [Varmedempende glass](../../exterior/windows/) | standard | 4GC |
+| [Privacy-glass](../../exterior/windows/#privacy-glass) | Ekstra mørke ruter på bakdører, sidevinduer bak og bakrute. | QL5 |
 | [Acoustic side windows](../../exterior/windows/#acoustic-windows) | Reduce nois | VW6 | 
 | [Heated and accoustic front window](../../exterior/windows/#heated-and-acoustig-front-window) |  | 4GW |
 
