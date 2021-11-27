@@ -188,7 +188,7 @@ weight: 100
 | ISOFIX barnesetefeste og Top Tether for baksetet | Standard | |
 | ISOFIX barnesetefeste på passasjersetet foran | Standard |  |
 
-## Interior design
+## Interiørdesign
 
 | Utstyr | Beskrivelse | ID |
 |-----|------|------|
@@ -199,31 +199,31 @@ weight: 100
 | [Naturell valnøtt](../../interior/inlays/)  |  |  5MG |
 | [Matt, børstet mørk aluminium dekorinlegg](../../interior/inlays/) | |  5TG |
 | [Dekor carbon quadrat struktur](../../interior/inlays/)  |  | 5MK |
-| [Ambientelyspakke](../../interior/ambientlights/#ambient-light-package) | | QQ1 |
-| [Kontur-/ambientelyspakke, flere farger](../../interior/ambientlights/#multicolor-contourambient-light-pack) |  | QQ2  |
+| [Ambientelyspakke](../../interior/ambientlights/#ambientelyspakke) | | QQ1 |
+| [Kontur-/ambientelyspakke, flere farger](../../interior/ambientlights/#flerfarget-kontur-ambientelyspakke) |  | QQ2  |
 | [Betjeningstaster i matt sort](../../interior/buttons/) | standard |  |
-| [Betjeningstaster i sort glassfinish](../../interior/buttons/) |  | GS5 |
+| [Betjeningstaster i sort glassfinish](../../interior/buttons/#betjeningstaster-i-sort-glassfinish) |  | GS5 |
 
 ## Ratt/betjeningselementer
 
 | Utstyr | Beskrivelse | ID |
 |-----|------|------|
-| [Multifunction with paddles](../../interior/steeringwheels/) | Standard | |
-| [Heated multifunction with paddles](../../interior/steeringwheels/) |  | 2ZM | 
-| [Sport with paddles and heated](../../interior/steeringwheels/) |   | 1XP |
+| [Skinnratt med multifunksjon og girtaster](../../interior/steeringwheels/) | Standard | |
+| [Dobbelteikers skinnratt med multifunksjon, girtaster og rattoppvarming](../../interior/steeringwheels/) |  | 2ZM | 
+| [Sportsratt i skinn med multifunksjon, girtaster og rattoppvarming](../../interior/steeringwheels/) |   | 1XP |
 | [Sport with paddles](../../interior/steeringwheels/)  |  | 1XW |
-| [Sport contour](../../interior/steeringwheels/) |  | 2PF | 
-| [Electric adjustment](../../interior/steeringwheels/#adjustment) | | 2C7 |
+| [Sportskonturratt i skinn med multifunksjon og girtaster med flat underside](../../interior/steeringwheels/) |  | 2PF |
+| [Elektrisk justerbart ratt](../../interior/steeringwheels/#adjustment) | | 2C7 |
 
 ## Klimaanlegg
 
 | Utstyr | Beskrivelse | ID |
 |-----|------|------|
-| [2-zone climate control](../../technology/climatecontrol/) | Standard |  |
-| [4-zone climate](../../technology/climatecontrol/#4-zone-electronic-climate-control) |  | 9AQ |
-| [Air Quality package](../../technology/airquality/) |  | 2V9 |
-| [Parking climate](../../technology/climatecontrol/#auxiliary-air-conditioner) | Standard |  |
-| [Parking climate with extra comfort](../../technology/climatecontrol/#auxiliary-air-conditioner-with-extra-convenience) |  | GA2 |
+| [2-soners komfortklimaautomatikk](../../technology/climatecontrol/) | Standard |  |
+| [4-soners komfortklimaautomatikk](../../technology/climatecontrol/#4-soners-elektronisk-klimakontroll) |  | 9AQ |
+| [Air Quality pakke](../../technology/airquality/) |  | 2V9 |
+| [Parkeringsklimaanlegg](../../technology/climatecontrol/#parkeringsklimanlegg) | Standard |  |
+| [Parkeringsklimaanlegg med ekstra komfort](../../technology/climatecontrol/#parkeringsklimaanlegg-med-ekstra-komfort) |  | GA2 |
 
 ## Annet innvendig utstyr
 

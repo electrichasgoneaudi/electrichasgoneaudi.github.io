@@ -39,7 +39,7 @@ Dette gir i tilegg til egenskapene med 2 soner.
 
 ![First screen menu](firstscreenmenu.jpg "Bakre soner kan også kontrolleres foran eller synkroniseres med resten")
 
-4-soners AC har alternativ ID **9AQ**
+4-soners AC har tilvalgsnr **9AQ**
 
 ### Parkeringsklimanlegg
 
@@ -52,12 +52,12 @@ Parkeringsklimaanlegget kan kan også styres av [myAudi-appen](../../technology/
 
 Parkeringsklimaanlegget kan ikke brukes hvis batteriet har for lav ladning (<30 %)
 
-### Komfort førklimatisering
+### Parkeringsklimaanlegg med ekstra komfort
 
 Du kan få parkeringsklimanlegg med ekstra komfort som ekstrautstyr. Med dette alternativet kan du varme vinduer, seter og ratt i tillegg til kupeen.
 Dette forutsetter at du har dette utstyret.
 
-Opsjonsid **GA2**
+Tilvalgsnr: **GA2**
 
 ![komfortinnstillinger](conviencesettingsnb.jpg "komfortinnstillinger")
 

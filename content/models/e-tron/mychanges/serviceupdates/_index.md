@@ -22,6 +22,4 @@ weight: 20
 | 91X4 |   |
 | 47R1 | Brake fix  |
 | 72M1 |            |
-| 42L1 |  Control of bolts | 
-
-
+| 42L1 |  Control of bolts |

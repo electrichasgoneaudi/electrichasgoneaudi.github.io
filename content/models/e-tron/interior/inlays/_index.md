@@ -15,6 +15,8 @@ The following inlays are available as standard
 
 ![Inlay](inlays_vulcangrey.jpg "Vulcan grey ash option 5MB")
 
+![Inlay](carbon.jpg "Carbon inlay")
+
 You can also order special inlays from the Audi Exclusive collection
 
 ![Inlays](inlay_audiexlusive.png "Audi exclusive collection inlays")
