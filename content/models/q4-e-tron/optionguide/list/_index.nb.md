@@ -57,7 +57,8 @@ weight: 100
 
 | Title | Description | ID |
 |-----|------|------|
-| Clima and winter package | This package includes the following options [3-sone AC](../../technology/climatecontrol/), [Heatpump](../../technology/climatecontrol/#heatpump), [Heated steeringwheel](../../interior/steeringwheels/), [Auxiliary air conditioner with extra convenience](../../technology/climatecontrol/#auxiliary-air-conditioner)  | WNW |
+| Klima- og vinterpakke | Inkluderer følgende [3-soners klimanlegg](../../technology/climatecontrol/), [Varmepumpe](../../technology/climatecontrol/#varmepumpe), [Oppvarmet ratt](../../interior/steeringwheels/), [Parkeringsklimanlegg med ekstra komfort](../../technology/climatecontrol/#parkeringsklimaanlegg-med-ekstra-komfort)  | WNW |
+| Klimapakke | Inneholder [3-soners klimanlegg](../../technology/climatecontrol/) og [Parkeringsklimanlegg med ekstra komfort](../../technology/climatecontrol/#parkeringsklimaanlegg-med-ekstra-komfort) | PYC |
 | Navigation package | This package includes the following options. [MMI Navigation Plus](../../technology/uiandoperations/mmi/#mmi-navigation-plus), [Traffic Sign Recognition](../../technology/drivingassistance/trafficsignrecognition/), [Audi Virtual Cockpit](../../technology/uiandoperations/virtualcockpit/), [Sonos Sound System](../../technology/soundsystem/), Infotainment package with [Audi Phone Box](../../technology/phonebox/), [Audi smartphone interface](../../technology/uiandoperations/smartphoneinterface/), [12-volt and USB-C port](../../technology/connections/)| WNK |
 | Climate package | This package includes the following options [3-sone AC](../../technology/climatecontrol/) and [Auxiliary air conditioner with extra convenience](../../technology/climatecontrol/#auxiliary-air-conditioner) |  PYC |
 | Function package 2 | Includes storage and trunk package with storage net on front seats, cup holders, flexibile trunk floor, storage net | PYW |
