@@ -61,9 +61,10 @@ weight: 100
 | Klimapakke | Inneholder [3-soners klimanlegg](../../technology/climatecontrol/) og [Parkeringsklimanlegg med ekstra komfort](../../technology/climatecontrol/#parkeringsklimaanlegg-med-ekstra-komfort) | PYC |
 | Navigation package | This package includes the following options. [MMI Navigation Plus](../../technology/uiandoperations/mmi/#mmi-navigation-plus), [Traffic Sign Recognition](../../technology/drivingassistance/trafficsignrecognition/), [Audi Virtual Cockpit](../../technology/uiandoperations/virtualcockpit/), [Sonos Sound System](../../technology/soundsystem/), Infotainment package with [Audi Phone Box](../../technology/phonebox/), [Audi smartphone interface](../../technology/uiandoperations/smartphoneinterface/), [12-volt and USB-C port](../../technology/connections/)| WNK |
 | Climate package | This package includes the following options [3-sone AC](../../technology/climatecontrol/) and [Auxiliary air conditioner with extra convenience](../../technology/climatecontrol/#auxiliary-air-conditioner) |  PYC |
-| Function package 2 | Includes storage and trunk package with storage net on front seats, cup holders, flexibile trunk floor, storage net | PYW |
-| Funtion package 1 | Includes wheel bolts with theft security and theft alarm | PYV |
-| Comfort package |  This package includes retractable mirrors, automatic dimmable interior mirror, 4-way electric lumbar support in the front seats with vertical and horizontal adjustment, Comfort center armrests at the front with adjustment in angle and length | PYA |
+| Funksjonspakke 2 | Inkluderer oppbevaring og bagasjeromspakke med oppbevaringsnett på forsetene, koppholdere, fleksibelt bagasjeromsgulv, oppbevaringsnett | PYW |
+| unksjonspakke 1 | Inkluderer tyverialarm og hjulbolter med tyverisikring  | PYV |
+| Komfortpakke |  
+Denne pakken inkluderer uttrekkbare speil, automatisk dimbart innvendig speil, 4-veis elektrisk korsryggstøtte i forsetene med vertikal og horisontal justering, Comfort midtarmlener foran med justering i vinkel og lengde | PYA |
 | Comfort package plus | This package includes retractable mirrors, automatic dimmable interior mirror, 4-way electric lumbar support in the front seats with vertical and horizontal adjustment, Comfort center armrests at the front with adjustment in angle and length, electric driver seat | PYY |
 | Driver package | Included Audi drive select, dynamic steering | PY8 |
 | Driver package plus | Include Audi drive select, suspension with damper adjustment, dynamic steering | PY9 |
