@@ -229,17 +229,16 @@ weight: 100
 
 | Utstyr | Beskrivelse | ID |
 |-----|------|------|
-| None smoker package |  |  |
-| Sigaret lighter and ash tray |  | 9JC |
-| Entry strips front / rear with aluminum panel,
-without lighting and without logo | Standard |  |
-| Illuminated entry strips front / rear with
-aluminum field, without logo |  | VT3 |
-|Illuminated entry moldings with aluminum panels at the front and back, S-logo on the list in front  | S-line/S-line interior | VT5 |
-| 12-volt outlet | Front, rear and luggage compartment | Standard | |
-| Storage and luggage compartment package | - Two cup holders in the rear center console <br> - Cladding in the storage compartment in the spare wheel well <br> - Net in the side of the luggage compartment <br /> - Luggage net for transporting objects (luggage straps)  | QE1 | 
-| Separation net for luggage compartment  |  | 3CX |
-| Flexible folding luggage compartment mat  |  | 6SJ |
+| Ikkerøykerpakke | Standard  |  |
+| Sigarettenner og askebeger| To sigarettennere (12 volt) samt uttakbart askebeger i koppholderne foran. | 9JC |
+| Innstigningslister foran/bak med aluminiumsfelt, uten belysning og uten logo | Standard |  |
+|Belyste innstigningslister foran/bak med aluminiumsfelt, uten logo |  | VT3 |
+|Belyste innstigningslister med aluminiumsfelt foran og bak, S-logo på listen foran  | S-line/S-line interior | VT5 |
+| 12-volts stikkontakt | Front, rear and luggage compartment | Standard | |
+| Oppbevarings- og bagasjeromspakke | - To koppholdere i midtkonsollen bak <br> - Kledning i oppbevaringsrommet i reservehjulsbrønnen<br> - Nett i siden av bagasjerommet <br /> - Bagasjenett til transport av gjenstander (bagasjestropper)  | QE1 |
+| Skillenett for bagasjerom  |  | 3CX |
+| Fleksibelt sammenleggbar bagasjeromsmatte  |  | 6SJ |
+| Bagasjeromstildekning | Manuell bagasjeromstildekning. Kan tas ut og oppbevares i bilen. | |
 
 ## Infotainment
 
@@ -251,24 +250,24 @@ aluminum field, without logo |  | VT3 |
 | [MMI Radio plus](../../technology/uiandoperations/mmi/)  | Standard |  |
 | [MMI Navigation plus](../../technology/uiandoperations/mmi/) | Standard  |   |
 | [Audi Sound system](../../technology/soundsystem/#audi-sound-system) | Standard  |   | 
-| Audi Connect navigation and infotainment | Standard |   |
+| Audi connect navigasjon og infotainment | Standard |   |
 | [Bang & Olufsen Premium sound system](../../technology/soundsystem/#bang--olufsen-sound-system-with-3d-sound) |  | 9VS | 
-| DVD-player |  | 7D5 | 
+| DVD-spiller |  | 7D5 |
 | Audi music interface | Standard |   |
-| Audi music interface rear seat |  | UF8 | 
-| Digital Radio |  | QV3 | 
-| Digital TV receiver |  |  QDB | 
+| Audi music interface i baksetet |  | UF8 |
+| Digital Radio |  | QV3 |
+| Digital TV receiver |  |  QDB |
 | [Audi Phone Box](../../technology/phonebox/) |  | 9ZE | 
-| [Audi Smartphone interface](../../technology/uiandoperations/smartphoneinterface/) |  |  1U1 | 
-| Bluetooth interface | Standard |  | 
-| Audi connect emergency call |   |  |
+| [Audi Smartphone interface](../../technology/uiandoperations/smartphoneinterface/) |  |  1U1 |
+| Bluetooth-grensesnitt | Standard |  |
+| AAudi connect nødanrop og service inkl. e-tron bilstyring |   |  |
 
 ## Assistentsystemer
 
 | Utstyr | Beskrivelse | ID |
 |-----|------|------|
-| Assistentpakke by  | [Crossing assist](../../technology/drivingassistance/crossingassist/), [side assist](../../technology/drivingassistance/sideassist/), [exit warning](../../technology/drivingassistance/exitwarning/), [pre sense rear](../../technology/drivingassistance/presenserear/), [pre sense side](../../technology/drivingassistance/presenseside/), [cross traffic rear](../../technology/drivingassistance/crosstrafficassistrear/) | PCM | 
-| Assistentpakke tur | [Adaptive cruise assist](../../technology/drivingassistance/adaptivecruiseassist/), [Adaptive cruise control](../../technology/drivingassistance/adaptivecruisecontrol/), [efficient assistant](../../technology/drivingassistance/predictiveefficiencyassist/),  [turn assist](../../technology/drivingassistance/turnassist/), [traffic sign recognition](../../technology/drivingassistance/trafficsignrecognition/), [emergency assist](../../technology/drivingassistance/emergencyassist/) | PCC    |
+| Assistentpakke by  | [Gatekryssassistenten](../../technology/drivingassistance/crossingassist/), [Filskifteassistent](../../technology/drivingassistance/sideassist/), [Utstigningsvarsling](../../technology/drivingassistance/exitwarning/), [pre sense rear](../../technology/drivingassistance/presenserear/), [pre sense side](../../technology/drivingassistance/presenseside/), [Assistent for kryssende trafikk bak](../../technology/drivingassistance/crosstrafficassistrear/) | PCM | 
+| Assistentpakke tur | [Adaptiv kjøreassistent](../../technology/drivingassistance/adaptivecruiseassist/), [Adaptiv cruise control med hastighetsbegrenser](../../technology/drivingassistance/adaptivecruisecontrol/), [Effektivitetsassistent](../../technology/drivingassistance/predictiveefficiencyassist/),  [Avkjøringsassistent](../../technology/drivingassistance/turnassist/), [Kamerabaserte visning av fartsgrenser/trafikkskiltgjenkjenning](../../technology/drivingassistance/trafficsignrecognition/), [Nødstoppassistent](../../technology/drivingassistance/emergencyassist/), [Unnamanøvreringsassistent](../../technology/drivingassistance/collisionavoidanceassist/) | PCC    |
 | [Audi pre sense basic](../../technology/drivingassistance/presensebasic/) | standard |  |
 | [Audi pre sense front](../../technology/drivingassistance/presensefront/) | standard |  |
 | [Cruise control with speed limiter](../../technology/drivingassistance/cruisecontrol/) | standard |  |
