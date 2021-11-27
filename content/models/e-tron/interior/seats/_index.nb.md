@@ -61,16 +61,16 @@ Med den valgfrie massasjefunksjonen kan brukeren velge mellom tre forskjellige i
 | **Setetype** | **Standard** | **Sport** | **S-line sport**| **S-Sport** | **Contur** |
 |-------|-------|-------|-------|-------|-------|
 |Justering av hodestøttehøyde| standard | standard | standard |N/A |standard |
-|Justering av nakkestøtteavstand| alternativ | alternativ |opsjon |N/A |standard |
-|Forsetevarme| alternativ | alternativ | alternativ |standard | standard |
-|Baksetevarme| alternativ | alternativ | alternativ | alternativ | alternativ |
-|Elektrisk 4-veis korsryggjustering |alternativ | standard | standard |standard | standard |
-|Elektrisk setejusteringsdriver | alternativ | alternativ | standard |standard | standard |
-|Elektrisk setejustering passasjer | alternativ | alternativ | standard |standard | standard |
-|Minne for førersete | alternativ | alternativ | alternativ | standard | standard |
+|Justering av nakkestøtteavstand| tilvalg | tilvalg |opsjon |N/A |standard |
+|Forsetevarme| tilvalg | tilvalg | tilvalg |standard | standard |
+|Baksetevarme| tilvalg | tilvalg | tilvalg | tilvalg | tilvalg |
+|Elektrisk 4-veis korsryggjustering |tilvalg | standard | standard |standard | standard |
+|Elektrisk setejusteringsdriver | tilvalg | tilvalg | standard |standard | standard |
+|Elektrisk setejustering passasjer | tilvalg | tilvalg | standard |standard | standard |
+|Minne for førersete | tilvalg | tilvalg | tilvalg | standard | standard |
 |Minne for passasjersete | N/A | N/A | N/A |N/A | standard |
-|Forseteventilasjon| alternativ | N/A | N/A |N/A |alternativ |
-|Forsetemassasje| N/A | N/A | N/A |I/T |alternativ |
+|Forseteventilasjon| tilvalg | N/A | N/A |N/A |tilvalg |
+|Forsetemassasje| N/A | N/A | N/A |I/T |tilvalg |
 |Forlengende lårstøtte |N/A | standard |standard |standard | standard |
 |Delt baksete | 40:20:40 | 40:20:40 | 40:20:40 |40:20:40 | 40:20:40 |
 

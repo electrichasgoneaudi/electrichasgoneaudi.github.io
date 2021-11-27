@@ -169,7 +169,7 @@ weight: 100
 | Utstyr | Beskrivelse | ID |
 |-----|------|------|
 | [Standard seter foran](../../interior/seats/#standard-seter) | | |
-| [Sportsseter foran](../../interior/seats/#sportsseter  |  | Q1D |
+| [Sportsseter foran](../../interior/seats/#sportsseter)  |  | Q1D |
 | [S sportsseter foran](../../interior/seats/#s-sportseter) |  | Q4Q |
 | [Individualkonturseter foran](../../interior/seats/#Individualkonturseter) |  | PS8
 | [Manuelt justebare forseter](../../interior/seats/#setefunksjonalitet) | | |
@@ -192,17 +192,17 @@ weight: 100
 
 | Utstyr | Beskrivelse | ID |
 |-----|------|------|
-| [Moon silver headliner](../../interior/headliner/) |  |  |
-| [Black headliner](../../interior/headliner/)  |  |  6NQ | 
-| [Grey inlay](../../interior/inlays/)  |  |  |
-| [Vulcano ash inlay](../../interior/inlays/) |  | 5MB | 
-| [Valnut inlay](../../interior/inlays/)  |  |  5MG |
-| [Aluminum inlay](../../interior/inlays/) | |  5TG |
-| [Carbon inlay](../../interior/inlays/)  |  | 5MK | 
-| [Ambient light package](../../interior/ambientlights/#ambient-light-package) | | QQ1 |
-| [Contour and ambient light](../../interior/ambientlights/#multicolor-contourambient-light-pack) |  | QQ2  |
-| [Buttons in mat black](../../interior/buttons/) |  |  |
-| [Glass buttons](../../interior/buttons/) |  | GS5 | 
+| [Taktrekk i månesølv stoff](../../interior/headliner/) |  |  |
+| [Taktrekk i sort stoff](../../interior/headliner/)  |  |  6NQ |
+| [Grafittgrå finlakk dekorinnlegg](../../interior/inlays/)  | Standard  |  |
+| [Vulkangrå naturell flammeask dekorinlegg](../../interior/inlays/) |  | 5MB |
+| [Naturell valnøtt](../../interior/inlays/)  |  |  5MG |
+| [Matt, børstet mørk aluminium dekorinlegg](../../interior/inlays/) | |  5TG |
+| [Dekor carbon quadrat struktur](../../interior/inlays/)  |  | 5MK |
+| [Ambientelyspakke](../../interior/ambientlights/#ambient-light-package) | | QQ1 |
+| [Kontur-/ambientelyspakke, flere farger](../../interior/ambientlights/#multicolor-contourambient-light-pack) |  | QQ2  |
+| [Betjeningstaster i matt sort](../../interior/buttons/) | standard |  |
+| [Betjeningstaster i sort glassfinish](../../interior/buttons/) |  | GS5 |
 
 ## Ratt/betjeningselementer
 
