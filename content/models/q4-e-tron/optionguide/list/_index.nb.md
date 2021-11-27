@@ -61,8 +61,7 @@ weight: 100
 | Klimapakke | Inneholder [3-soners klimanlegg](../../technology/climatecontrol/) og [Parkeringsklimanlegg med ekstra komfort](../../technology/climatecontrol/#parkeringsklimaanlegg-med-ekstra-komfort) | PYC |
 | Funksjonspakke 2 | Inkluderer oppbevaring og bagasjeromspakke med oppbevaringsnett på forsetene, koppholdere, fleksibelt bagasjeromsgulv, oppbevaringsnett | PYW |
 | Funksjonspakke 1 | Inkluderer tyverialarm og hjulbolter med tyverisikring  | PYV |
-| Komfortpakke |  
-Denne pakken inkluderer uttrekkbare speil, automatisk dimbart innvendig speil, 4-veis elektrisk korsryggstøtte i forsetene med vertikal og horisontal justering, Comfort midtarmlener foran med justering i vinkel og lengde | PYA |
+| Komfortpakke | Denne pakken inkluderer uttrekkbare speil, automatisk dimbart innvendig speil, 4-veis elektrisk korsryggstøtte i forsetene med vertikal og horisontal justering, Comfort midtarmlener foran med justering i vinkel og lengde | PYA |
 | Komforpakke plus | Denne pakken inkluderer uttrekkbare speil, automatisk dimbart innvendig speil, 4-veis elektrisk korsryggstøtte i forsetene med vertikal og horisontal justering, Comfort midtarmlener foran med justering i vinkel og lengde, elektrisk førersete | PYY |
 | Kjørepakke | Inkluderer Audi drive select, dynamic steering | PY8 |
 | Kjørepakke plus | Inkluderer Audi drive select, suspension with damper adjustment, dynamic steering | PY9 |
@@ -71,16 +70,16 @@ Denne pakken inkluderer uttrekkbare speil, automatisk dimbart innvendig speil, 4
 
 | Title | Description | ID |
 |-----|------|------|
-|Interior package 1 | [Standard seats](../../interior/seats/#standard-seats-in-black-leather-option-pwa) in black leather | PWA |
-|Interior package 2 | [Standard seats](../../interior/seats/#standard-seats-in-brown-leather-option-pwb) in brown leather | PWB |
-|Interior package 3 | [Standard seats](../../interior/seats/#standard-seats-in-beige-leather-option-pwc) in beige leather| PWC |
-|Interior package 4 | [Sport seats](../../interior/seats/#sport-seats-with-dinamica-option-pwd) in dinamica black | | PWD |
-|Interior package 5 | [Sport seats](../../interior/seats/#sport-seats-with-black-leather-option-pwe) in black leather | PWE |
-|Interior package 6 | [S-line Sport seats](../../interior/seats/#s-line-seats-with-leatherfabric-option-pwk) in fabric/leather| PWK |
-|Interior package 7 | [S-line Sport seats](../../interior/seats/#s-line-seats-with-leather-option-pwl) in black leather | PWL |
-|Interior package 8 | [S-line Sport seats](../../interior/seats/#s-line-seats-with-leather-and-dinamica-option-pwm) in dinamica| PWM |
-|Interior package 9 | [S-line Sport seats](../../interior/seats/#s-line-sport-seats-with-feinappa-leather-option-pwn) in feinappa leather| PWN |
-| Red seams from Audi Sport | Can only be combined with interior package 8 or 9 | YYB |
+| Interiørpakke 1 | [Standard seats](../../interior/seats/#standard-seats-in-black-leather-option-pwa) in black leather | PWA |
+| Interiørpakke 2 | [Standard seats](../../interior/seats/#standard-seats-in-brown-leather-option-pwb) in brown leather | PWB |
+| Interiørpakke 3 | [Standard seats](../../interior/seats/#standard-seats-in-beige-leather-option-pwc) in beige leather| PWC |
+| Interiørpakke 4 | [Sport seats](../../interior/seats/#sport-seats-with-dinamica-option-pwd) in dinamica black | | PWD |
+| Interiørpakke 5 | [Sport seats](../../interior/seats/#sport-seats-with-black-leather-option-pwe) in black leather | PWE |
+| Interiørpakke 6 | [S-line Sport seats](../../interior/seats/#s-line-seats-with-leatherfabric-option-pwk) in fabric/leather| PWK |
+| Interiørpakke 7 | [S-line Sport seats](../../interior/seats/#s-line-seats-with-leather-option-pwl) in black leather | PWL |
+| Interiørpakke 8 | [S-line Sport seats](../../interior/seats/#s-line-seats-with-leather-and-dinamica-option-pwm) in dinamica| PWM |
+| Interiørpakke 9 | [S-line Sport seats](../../interior/seats/#s-line-sport-seats-with-feinappa-leather-option-pwn) in feinappa leather| PWN |
+| Røde sømmer fra Audi Sport | Can only be combined with interior package 8 or 9 | YYB |
 
 ## Lights
 
