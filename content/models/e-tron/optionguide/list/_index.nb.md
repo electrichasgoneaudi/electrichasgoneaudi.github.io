@@ -270,13 +270,14 @@ weight: 100
 | Assistentpakke tur | [Adaptiv kjøreassistent](../../technology/drivingassistance/adaptivecruiseassist/), [Adaptiv cruise control med hastighetsbegrenser](../../technology/drivingassistance/adaptivecruisecontrol/), [Effektivitetsassistent](../../technology/drivingassistance/predictiveefficiencyassist/),  [Avkjøringsassistent](../../technology/drivingassistance/turnassist/), [Kamerabaserte visning av fartsgrenser/trafikkskiltgjenkjenning](../../technology/drivingassistance/trafficsignrecognition/), [Nødstoppassistent](../../technology/drivingassistance/emergencyassist/), [Unnamanøvreringsassistent](../../technology/drivingassistance/collisionavoidanceassist/) | PCC    |
 | [Audi pre sense basic](../../technology/drivingassistance/presensebasic/) | standard |  |
 | [Audi pre sense front](../../technology/drivingassistance/presensefront/) | standard |  |
-| [Cruise control with speed limiter](../../technology/drivingassistance/cruisecontrol/) | standard |  |
-| [Parking system plus](../../technology/drivingassistance/parkingsystemplus/)  |  standard |   |
-| [Park assist](../../technology/drivingassistance/parkingsystemplus/) | | 7X5 |
-| [360 camera](../../technology/drivingassistance/360camera/) |  |  PCZ |
-| [Traffic sign recognition](../../technology/drivingassistance/trafficsignrecognition/) |  |  |
-| Lane assist package |  Includes [side assist](../../technology/drivingassistance/sideassist/), [Exit warning](../../technology/drivingassistance/exitwarning/), [cross traffic rear](../../technology/drivingassistance/crosstrafficassistrear/),  [pre sense rear](../../technology/drivingassistance/presenserear/) | PCH |
-| [Night vision](../../technology/drivingassistance/nightvision/) |   |  9R1 |
+| [Cruise control med hastighetsbegrenser](../../technology/drivingassistance/cruisecontrol/) | standard |  |
+| [Parkeringshjelp plus med områdevisning](../../technology/drivingassistance/parkingsystemplus/)  |  standard |   |
+| [Parkeringsassistent](../../technology/drivingassistance/parkassist/) | | 7X5 |
+| [360 kamera/Omgivelsesvisning](../../technology/drivingassistance/360camera/) |  |  PCZ |
+| [Kamerabaserte visning av fartsgrenser /trafikkskiltgjenkjenning](../../technology/drivingassistance/trafficsignrecognition/) |  |  |
+| [Audi active lane assist](../../technology/drivingassistance/activelaneassist/)| Standard | |
+| Feltskiftepakke |  Inkludes [Filskifteassistent](../../technology/drivingassistance/sideassist/), [Utstigningsvarsling](../../technology/drivingassistance/exitwarning/), [Assistent for kryssende trafikk bak](../../technology/drivingassistance/crosstrafficassistrear/),  [pre sense rear](../../technology/drivingassistance/presenserear/) | PCH |
+| [Nattsynsassistent](../../technology/drivingassistance/nightvision/) |   |  9R1 |
 
 ## Understell/Bremser
 

@@ -13,4 +13,4 @@ Systemet, som har en rekkevidde på opptil 300 meter (984,3 fot), kan oppdage me
 
 Video nedenfor viser systemet i bruk.
 
-{{ < youtube MiiGxtqkDl8 > }}
+{{< youtube MiiGxtqkDl8 >}}
