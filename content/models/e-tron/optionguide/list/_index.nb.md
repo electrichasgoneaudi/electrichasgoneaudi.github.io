@@ -283,23 +283,21 @@ weight: 100
 
 | Utstyr | Beskrivelse | ID |
 |-----|------|------|
-| [Adaptive air suspension](../../drivetrain/suspension/) | Standard  | 1BK | 
-| [Adaptive air suspension sport](../../drivetrain/suspension/) |  | 2MB |
+| [Adaptiv luftfjæring](../../drivetrain/suspension/) | Standard  | 1BK |
+| [Adaptiv luftfjæring sport](../../drivetrain/suspension/) |  | 2MB |
 | Quattro | Standard |   |
-| Progressive steering | Standard |  |
-| Disc brakes front and rear |   |   |
-| Disc brakes front and rear with orange painted brake calipers |  | PC2/PC4 |
+| Progressiv styring | Standard |  |
+| Skivebremser foran og bak |   |   |
+| Skivebremser foran og bak med oransjelakkerte bremsekalipere |  | PC2/PC4 |
 
 ## Teknikk/sikkerhet
 
 | Utstyr | Beskrivelse | ID |
 |-----|------|------|
-| [Front airbags](../../technology/safety/#front-airbags) | Standard for front  |   |
-| [Head airbags](../../technology/safety/#head-airbags) | Standard for front and rear |  |
-| [Side Airbags](../../technology/safety/#side-airbags-front) front |  Standard |    |
-| [Side Airbags rear](../../technology/safety/#side-airbags-rear)   |     |  4X4 |
-| Button to disable front airbags | For passenger seat, standard |   |
-| [Audi pre-sense rear seat package](../../technology/safety/#audi-pre-sense-back-seat-pacakge) |  | 4X9 |
-
+| [Kollisjonsputer](../../technology/safety/#front-airbags) | Standard for front  |   |
+| [Sidekollisjonsputer foran og hodekollisjonsputer](../../technology/safety/#head-airbags) | Standard for front and rear |  |
+| [Sidekollisjonsputer bak](../../technology/safety/#side-airbags-rear)   |     |  4X4 |
+| Deaktiveringsbryter for kollisjonsputen på passasjersiden foran | For passenger seat, standard |   |
+| [Audi pre sense-baksetepakke](../../technology/safety/#audi-pre-sense-back-seat-pacakge) |  | 4X9 |
 
 {{% children description="true" depth="1" %}}
