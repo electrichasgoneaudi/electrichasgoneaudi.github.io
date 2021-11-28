@@ -1,6 +1,6 @@
 ---
-title: Audi e-tron GT dimmensjoner
-linktitle: Dimmensjoner
+title: Audi e-tron GT dimensjoner
+linktitle: Dimensjoner
 description: Her finner du alle dimensjoner for Audi e-tron GT og Audi RS e-tron GT. Bredde, høyde, dybde, +++
 weight: 3
 ---

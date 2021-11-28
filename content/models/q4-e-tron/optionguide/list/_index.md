@@ -1,12 +1,9 @@
 ---
-title: Audi Q4 e-tron full options list
-linktitle: Full option list
-description: Here you find the complete option list with link to details about each option
+title: Audi Q4 e-tron equpmentlist
+linktitle: Full equipment
+description: Here you find the complete list over standard and optional equipment with link to details about each option
 weight: 100
 ---
-
-
-WORK IN PROGRESS
 
 ## Paint Color & Paint trim
 

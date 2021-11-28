@@ -29,9 +29,8 @@ Foran er det standard med sidekollisjonsputer innebygd i setet som beskytter kro
 
 ### Midtkollisjonspute foran
 
-I tillegg til sidekollisjonsputene foran og bak og hodekollisjonsputene, er det også en såkalt interaksjonspute foran. Innenfor
-systemets begrensinger gir dette beskyttelse for passasjerene i førersetet og passasjersete foran ved en sidekollisjon. 
-Interaksjonskollisjonsputen blåser seg opp mellom forsetene. Ved sidekollisjon blir en kollisjon av de to passasjerene foran
+I tillegg til sidekollisjonsputene foran og bak og hodekollisjonsputene, er det også en såkalt interaksjonspute fora i midten. Innenfor
+systemets begrensinger gir dette beskyttelse for passasjerene i førersetet og passasjersete foran ved en sidekollisjon. Interaksjonskollisjonsputen blåser seg opp mellom forsetene. Ved sidekollisjon blir en kollisjon av de to passasjerene foran
 med hverandre eller med passasjersetet foran minsket i stor grad og risikoen for skader reduseres.
 
 ![Center Airbags](consolairbag.jpg)

@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron utstyrsliste
 linktitle: Utstyrliste
-description: Her finner du den komplette utstyrlisten til Audi e-tron
+description: Her finner du den komplette listen over standard- og ekstrautstyr til Audi e-tron
 weight: 100
 ---
 

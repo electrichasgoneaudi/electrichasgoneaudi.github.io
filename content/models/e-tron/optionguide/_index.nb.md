@@ -1,6 +1,6 @@
 ---
-title: Audi e-tron utstyrsguide
-linktitle: Utstyrsguide
+title: Audi e-tron ekstrautstyrsguide
+linktitle: Ekstrautstyrsguide
 description: Audi e-tron har så mye utstyr å velge mellom slik at det er nesten umulig å ha oversikten. Her prøver vi å hjelpe deg med å velge de viktigste. 
 weight: 100
 ---
