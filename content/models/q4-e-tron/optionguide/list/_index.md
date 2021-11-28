@@ -159,9 +159,9 @@ WORK IN PROGRESS
 
 | Title | Description | ID |
 |-----|------|------|
-| [1 zone clima control](/models/q4-e-tron/technology/climatecontrol/) | Standard | KC0 |
-| [3 zone clima control](/models/q4-e-tron/technology/climatecontrol/) |  | |
-| [Comfort pre climatization](/models/q4-e-tron/technology/climatecontrol/#auxiliary-air-conditioner-with-preconditioner) |  | GA2 |
+| [1-zone clima control](/models/q4-e-tron/technology/climatecontrol/) | Standard | KC0 |
+| [3-zone clima control](/models/q4-e-tron/technology/climatecontrol/#3-zone-climate-control-system) | Part of WNW  | |
+| [Auxiliary air conditioner with extra convenience](/models/q4-e-tron/technology/climatecontrol/#auxiliary-air-conditioner-with-extra-comfort) |  | GA2 |
 | [Heat pump](/models/q4-e-tron/technology/climatecontrol/#heatpump) | | 9M3 |
 
 ## Interior options

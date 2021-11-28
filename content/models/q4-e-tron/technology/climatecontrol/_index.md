@@ -40,9 +40,15 @@ from the MMI manually or set by a timer. One typical use case is when charging s
 
 The auxiliary air conditioner can also be controlled by the myAudi app. This is useful when you need to heat or cool the car before using it.
 
-When using the pre-condition functionality you can also heat the steering wheel and front seats.
+## Auxiliary air conditioner with extra convenience
 
-The Auxiliary air conditioner with preconditioner has Option ID **GA2** but is standard equipment.
+As an option you can get Auxiliary air conditioner with extra convenience
+
+When using the pre-condition functionality you can also heat the steering wheel and front seats if your car have those options.
+
+The Auxiliary air conditioner with extra comfort is part of the [Clima and winter package](/models/q4-e-tron/optionguide/list/#equipment-packages) with option id **WNW**
+
+![Komfort](conviencesettings.jpg "Komfortinnstillinger")
 
 ## Heatpump
 

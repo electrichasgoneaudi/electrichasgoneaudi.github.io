@@ -9,8 +9,6 @@ weight: 1
 
 ![Virtual cockpit](virtualcockpit.jpg "Traffic sign information in virtual cockpit")
 
-To turn of that predictive driver assist should follow sign this can be disabled here  MMI - > Car - > Driver Assist - > Adative Cruise Assist ->  Predictive Control -> Use speed limit -> Off
-
-This option is part of the tour driver assistance package with option id **PCC**
+This optiokn is part of the [navigation packages](../../../optionguide/list/#infotainment) PYG/PYH.
 
 {{% children description="true" depth="1" %}}

@@ -152,42 +152,42 @@ weight: 100
 | [Komfort førklimatisering](../../technology/climatecontrol/#komfort-førklimatisering) |  | GA2 |
 | [Varmepumpe](../../technology/climatecontrol/#varmepumpe) | | 9M3 |
 
-## Interior options
+## Innvendig utstyr
 
 | Tilvalg | Beskrivelse | ID |
 |-----|------|------|
-| [Interior lightning](../../interior/interiorlights/#standard-interior-lights) | Standard | QQO |
-| [Ambient lightning](../../interior/interiorlights/#ambient-lights-package) | white | QQ8 |  
-| [Ambient lightning](../../interior/interiorlights/#ambient-light-plus-package)| multicolor | QQ9 |  
-| Front door sill trims with aluminium inlay, illuminated  |  | VT4|
-| Seat heat front | Standard most markeds | 4A3 |
-|  Non-smoker package | Standard | 9JA |
-|  Smoker package |  | 9JD |
-| 12-volt outlet | Rear seats  | 7B9 |
-| Center consol with cupholders |  Standard |  |
-| Rear seats with 40:20:40 split |     |    |
+| [Innvendig belysning](../../interior/interiorlights/#standard-interior-lights) | Standard | QQO |
+| [Ambiente lyspakke](../../interior/interiorlights/#ambiente-lyspakke) | hvit | QQ8 |  
+| [Ambiente lyspakke plus](../../interior/interiorlights//#ambiente-lyspakke-plus)| flerfarget | QQ9 |  
+| Innstegslister i aluminium foran med lys  |  | VT4|
+| Setevarme foran | Standard | 4A3 |
+| Ikkerøykerpakke | Standard | 9JA |
+| Sigarettenner og askebeger |  | 9JD |
+| 12-volts stikkontakt | Rear seats  | 7B9 |
+| Midtkonsoll med to koppholdere og oppbevaringsrom |  Standard |  |
+| Bakseterygg som kan deles og legges ned 40:20:40 |     |    |
 
-## Steering wheel
+## Ratt/betjeningselementer
 
 | Tilvalg | Beskrivelse | ID |
 |-----|------|------|
-| [multifunction Sport steering wheel](../../interior/steeringwheels/#the-double-spoke-leather-sports-steering-wheel-option-2fs) | Flat top and bottomed twin-spoke leather | 2FS |
-| [multifunction Sport steering wheel](../../interior/steeringwheels/#the-double-spoke-leather-sports-steering-wheel-option-2fs) | Flat top and bottomed twin-spoke leather | 2FS |
-| Heated steering wheel |  | AI9 |
+| [Dobbelteikers sportsratt i skinn, med flat overog underside, multifunksjon og girtaster](../../interior/steeringwheels/#the-double-spoke-leather-sports-steering-wheel-option-2fs) | Flat top and bottomed twin-spoke leather | 2FS |
+| [multifunction Sport steering wheel](../../interior/steeringwheels/#skinnratt-med-dobbleeiker-med-hendler-alternativ-2zq) | Flat top and bottomed twin-spoke leather | 2ZQ |
+| Oppvarmet ratt |  | AI9 |
 
 ## Infotainment
 
 | Tilvalg | Beskrivelse | ID |
 |-----|------|------|
-| [MMI navigation plus with MMI touch](../../technology/uiandoperations/mmi/#mmi-navigation-plus) | Included in PYG/PYH | 7UG |
+| [MMI navigasjon plus med MMI touch](../../technology/uiandoperations/navigation) | Inkludert i PYG/PYH | 7UG |
 | [AR-head up display](../../technology/uiandoperations/headupdisplay/) | Included in PYH  | KS3 |
-| [Digital instrument cluster](../../technology/uiandoperations/virtualcockpit/#standard-digital-instrumention-cluster) | Standard | 7J2 |
-| [Audi Virtual cockpit](../../technology/uiandoperations/virtualcockpit/) |   | 9S1 | 
-| [Camera based traffic sign recognintion](../../technology/drivingassistance/trafficsignrecognition/) | Included in PYG/PYH  | QR9 |
-| MMI Navigation pro package | Includes [MMI navigation plus with MMI touch](../../technology/uiandoperations/mmi/#mmi-navigation-plus), [Audi Virtual cockpit plus](https://electrichasgoneaudi.net../../technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus) [Camera based traffic sign recognintion](../../technology/drivingassistance/trafficsignrecognition/), [Audi Smartphone interface](../../technology/uiandoperations/smartphoneinterface/) and  [AR-head up display](../../technology/uiandoperations/headupdisplay/) | PYH |
-| MMI Navigation plus package | Includes [MMI navigation plus with MMI touch](../../technology/uiandoperations/mmi/#mmi-navigation-plus), [Audi Virtual cockpit](../../technology/uiandoperations/virtualcockpit/) [Camera based traffic sign recognintion](../../technology/drivingassistance/trafficsignrecognition/) |  PYG |
-| Infotainment package | [Audi Phone Box](../../technology/phonebox/), [Audi Smartphone interface](../../technology/uiandoperations/smartphoneinterface/), [12-volt outlet rear](../../technology/connections/), [2 x USB-C rear](../../technology/connections/) | PYX |
-| Infotainment package small |  [Audi Smartphone interface](../../technology/uiandoperations/smartphoneinterface/), [12-volt outlet rear](../../technology/connections/), [2 x USB-C rear](../../technology/connections/)  | PY3 |
+| [Digitalt kombiinstrument](../../technology/uiandoperations/virtualcockpit/#standard-digital-instrumention-cluster) | Standard | 7J2 |
+| [Audi virtual cockpit](../../technology/uiandoperations/virtualcockpit/) |   | 9S1 | 
+| [Kamerabasert trafikkskiltgjenkjenning](../../technology/drivingassistance/trafficsignrecognition/) | Included in PYG/PYH  | QR9 |
+| MMI Navigasjon pro pakke| Inkluder [MMI navigation plus med MMI touch](../../technology/uiandoperations/navigation), [Audi Virtual cockpit plus](https://electrichasgoneaudi.net../../technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus) [Kamerabasert trafikkskiltgjenkjenning](../../technology/drivingassistance/trafficsignrecognition/), [Audi Smartphone interface](../../technology/uiandoperations/smartphoneinterface/) and  [AR-head up display](../../technology/uiandoperations/headupdisplay/) | PYH |
+| MMI Navigation plus pakke | Inkluder [MMI navigation plus med MMI touch](../../technology/uiandoperations/navigation), [Audi Virtual cockpit](../../technology/uiandoperations/virtualcockpit/) [Camera based traffic sign recognintion](../../technology/drivingassistance/trafficsignrecognition/) |  PYG |
+| Infotainment pakke | [Audi Phone Box](../../technology/phonebox/), [Audi Smartphone interface](../../technology/uiandoperations/smartphoneinterface/), [12-volt outlet rear](../../technology/connections/), [2 x USB-C rear](../../technology/connections/) | PYX |
+| Infotainment pakke liten |  [Audi Smartphone interface](../../technology/uiandoperations/smartphoneinterface/), [12-volt outlet rear](../../technology/connections/), [2 x USB-C rear](../../technology/connections/)  | PY3 |
 
 ## Radio and sound system
 
