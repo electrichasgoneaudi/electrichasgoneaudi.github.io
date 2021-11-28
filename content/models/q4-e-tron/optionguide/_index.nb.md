@@ -11,7 +11,7 @@ Du bør lese gjennom den [fulle utstyrslisten](list) for å sikre deg at du ikke
 
 ![IU1](iu1.jpg)
 
-## Audi smartphone interface: Opsjon IU1
+## Audi smartphone interface: tilvalg IU1
 
 Uten Audi smartphone interface kan du ikke bruke Android Auto / Apple Carplay og deretter bruke apper som Waze eller kontrollere Spotify på en god måte.
 
@@ -21,7 +21,7 @@ Foreløpig er dette kun tilgjengelig i infotainmentpakken med alternativ-ID **PY
 
 ![QL2](ql5.jpg)
 
-## Sotede ruter: Opsjon QL5
+## Sotede ruter: tilvalg QL5
 
 Forbedrer utseendet mye, og du trenger ikke å kjøre rundt i et akvarium på utstilling.
 
@@ -29,7 +29,7 @@ Forbedrer utseendet mye, og du trenger ikke å kjøre rundt i et akvarium på ut
 
 ![PYG](pyg.jpg)
 
-## MMI Navigation pluss: Opsjon PYG
+## MMI Navigation pluss: tilvalg PYG
 
 Med MMI Navigation Plus-alternativet får du MMI-navigasjonssystem og Virtual Cockpit.
 Å ha et innebygd navigasjonssystem gir flere fordeler fremfor å bruke telefonen.
@@ -37,17 +37,25 @@ Med MMI Navigation Plus-alternativet får du MMI-navigasjonssystem og Virtual Co
 Se detaljer om [MMI Navigation Plus](../technology/uiandoperations/navigation/) og
 [Virtual Cockpit](../technology/uiandoperations/virtualcockpit/)
 
-## Assistantpackage Pro: Opsjon PY7
+![Matrix](../technology/lights/signature1s.jpg)
+
+## Matrix LED hovedlys
+
+Matrix LED hovedlys får du kraftig forbedret lys på landevei. I tilegg får du den kule røde lysstripen bak. 
+
+Read more about [Matrix LED Headlights](../technology/lights/#matrix-headlights).
+
+## Assistantpackage Pro: tilvalg PY7
 
 Assistentpakken pro inneholder det meste av de viktige førerassistentfunksjonene som [Adaptive Cruise Assist](../technology/drivingassistance/adaptivecruiseassist/), [Adaptive Cruise Control](../technology/drivingassistance/adaptivecruisecontrol/) og [Parking System Plus](../technology/drivingassistance/parkingsystemplus/)
 
-## Sikkerhetspakke pluss: Opsjon PYU
+## Sikkerhetspakke pluss: tilvalg PYU
 
 Sideassistent er ikke en del av Assistantpackage Pro, men er inkludert i sikkerhetspakken pluss-pakken. Pakken inkluderer [Filskifteassistent](../technology/drivingassistance/sideassist/), [exit warning](../technology/drivingassistance/exitwarning/), [Assistent for kryssende trafikk bak](../technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](../technology/drivingassistance/presenserear/).
 
 ![QQ2](qq2.jpg)
 
-## Flerfarget ambientlys: Opsjon QQ2
+## Flerfarget ambientlys: tilvalg QQ2
 
 Flerfarget ambientlys løfter det innvendige utseendet og følelsen.
 
