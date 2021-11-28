@@ -1,8 +1,8 @@
 ---
-title: Audi e-tron problemdatabase
-linktitle: Problemdatabase
-description: Alle bilmodeller har noen problemer og feil. På Github har vi samlet de fleste problemene eiere opplever med bilene.
-weight: 21
+title: Audi e-tron kunnskapsdatabase
+linktitle: Kunnskapsdatabase
+description: Det er ofte mange spørsmål som går igjen på biler. Her har vi samlet vanlige spørsmål og svar samt en oversikt over feil brukere har opplevd.
+weight: 30
 ---
 
 Dette kan være alt fra brukerfeil til utstyrsfeil på bilen. Målet med databasen er å hjelpe deg til å løse problemet ditt raskest mulig.

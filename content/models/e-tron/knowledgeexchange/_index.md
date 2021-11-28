@@ -1,8 +1,8 @@
 ---
-title: Audi e-tron issue database
-linktitle: Issue database
+title: Audi e-tron knowledge exchange
+linktitle: Knowledge exchange
 description: All car models have some issues and problems. On Github we have gathered most of the issues owners experience with the cars. 
-weight: 21
+weight: 30
 ---
 
 
@@ -17,4 +17,3 @@ Some common labels are
 * [Battery](https://github.com/electrichasgoneaudi/etron-issues/issues?q=is%3Aissue+is%3Aopen+label%3Abattery)
 * [Electric motor](https://github.com/electrichasgoneaudi/etron-issues/labels/electric%20motor)
 * [Virtual mirros](https://github.com/electrichasgoneaudi/etron-issues/labels/virtual%20mirrors)
-  

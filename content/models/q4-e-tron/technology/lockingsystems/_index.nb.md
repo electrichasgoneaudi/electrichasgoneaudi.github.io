@@ -1,13 +1,13 @@
 ---
-title: Audi e-tron låsesystemer
+title: Audi Q4 e-tron låsesystemer
 linktitle: Låsesystemer
-description: Audi e-tron har forskjellige nøkkel og låsesystemer som standard eller tileggsutstyr.
+description: Audi Q4 e-tron har forskjellige nøkkel og låsesystemer som standard eller tileggsutstyr.
 weight: 7
 ---
 
 ## Standard nøkkel
 
-Standardnøkkelen på Audi e-tron er utstyrt med Keyless Go. Dette betyr at motorstartautorisasjonen frigis uten aktiv betjening av nøkkelen.
+Standardnøkkelen på Audi Q4 e-tron er utstyrt med Keyless Go. Dette betyr at motorstartautorisasjonen frigis uten aktiv betjening av nøkkelen.
 
 For å gjøre dette må sjåføren sitte i kjøretøyet og ha med seg bekvemmelighetsnøkkelen.
 
@@ -27,7 +27,7 @@ Bagasjeromslokket kan enkelt låses opp ved hjelp av bagasjeromsknappen på bekv
 
 ![Kick Sensor](kicksensor.jpg "Med forhåndsnøkkel kan du åpne bakluken ved å sparke foten under bakluken")
 
-Som standardnøkkel er fremføringsnøkkelen på Audi e-tron utstyrt med Keyless Go. Dette betyr
+Som standardnøkkel er fremføringsnøkkelen på Audi Q4 e-tron utstyrt med Keyless Go. Dette betyr
 motorstartautorisasjonen frigis også uten aktiv betjening av bekvemmelighetsnøkkelen.
 
 For å gjøre dette må sjåføren sitte i kjøretøyet og ha med seg bekvemmelighetsnøkkelen.
@@ -38,21 +38,11 @@ En visuell differensiering av høy kvalitet på toppen og bunnen av nøkkelen gj
 
 ![Advance key](advancekey.jpg "Audi Advance key")
 
-## Komfortnøkkel med tyverialarm PG3
+## Komfortnøkkel i kombinasjon med funksjonspakke 1
 
-Komfortnøkkelen gir praktisk kontroll over tilgang og motorstartautorisasjon uten at nøkkelen må betjenes aktivt
 
-Pakken inkluderer følgende spesialutstyr:
-Komfortnøkkel inkludert sensorstyrt opplåsing av bagasjerom med bagasjeromslokk, elektrisk åpning og lukking (med Safelock *: Safelock forhindrer at dørene åpnes fra innsiden så snart kjøretøyet er låst med kjøretøynøkkelen.)
+Safelock forhindrer at dørene åpnes fra innsiden så snart kjøretøyet er låst med kjøretøynøkkelen.)
 Tyverialarmsystem
-
-![Alaramsensor](alarm_sensor_of.jpg "Interiørsensoren kan slås av med knapp i døren")
-
-## Audi Connect key 2F1
-
-Audi connect key lar deg sette opp Android-telefonen din som den eneste nøkkelen du trenger.
-
-{{< youtube 6fuv-envA2U>}}
 
 ## Batteribytte
 

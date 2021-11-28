@@ -2,7 +2,7 @@
 title: Audi e-tron options guide
 linktitle: Options Guide
 description: Audi e-tron have so many options that it is almost impossible to get the overview. We try to help you select the most important options.
-weight: 100
+weight: 25
 ---
 
 The following guide is based on the basic model. Many markets have trim package with options included.

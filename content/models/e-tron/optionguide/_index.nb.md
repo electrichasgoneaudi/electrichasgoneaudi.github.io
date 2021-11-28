@@ -1,8 +1,8 @@
 ---
-title: Audi e-tron ekstrautstyrsguide
-linktitle: Ekstrautstyrsguide
+title: Audi e-tron utstyrsguide
+linktitle: Utstyrsguide
 description: Audi e-tron har så mye utstyr å velge mellom slik at det er nesten umulig å ha oversikten. Her prøver vi å hjelpe deg med å velge de viktigste. 
-weight: 100
+weight: 25
 ---
 
 Følgende veiledning er basert på grunnmodellen. Mange markeder har trimpakke med tilleggsutstyr. I Norge har man f.eks pakkene Advance Sport og Advance Business som inneholder mye utstyr.
