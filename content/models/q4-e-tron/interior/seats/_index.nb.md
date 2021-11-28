@@ -29,7 +29,11 @@ Hver setetype har forskjellige setematerialer i forskjellige farger å velge mel
 
 ### Standard seter i sort stoff
 
-![Standard seats](seats_standard_1.jpg "Standard seter i sort stoff (AI)")
+![Standard seats](seats_standard_fabric_1.jpg "Standard seter i sort stoff (AI)")
+
+![Standard seats](seats_standard_fabric_2.jpg "Standard seter i sort stoff (AI)")
+
+![Standard seats](seats_standard_fabric_3.jpg "Standard seter i sort stoff (AI)")
 
 ### Standard seter med sort skinn opsjon PWA
 

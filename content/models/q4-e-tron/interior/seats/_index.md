@@ -29,7 +29,11 @@ Each seat type have different seat materials in different colors to choose from.
 
 ### Standard seats in black fabric
 
-![Standard seats](seats_standard_1.jpg "Standard seats in black fabric (AI)")
+![Standard seats](seats_standard_fabric_1.jpg "Standard seats in black fabric (AI)")
+
+![Standard seats](seats_standard_fabric_2.jpg "Standard seats in black fabric (AI)")
+
+![Standard seats](seats_standard_fabric_3.jpg "Standard seats in black fabric (AI)")
 
 ### Standard seats in black leather option PWA
 
