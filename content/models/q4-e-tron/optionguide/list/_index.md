@@ -1,27 +1,34 @@
 ---
-title: Audi Q4 e-tron equpmentlist
-linktitle: Full equipment
+title: Audi Q4 e-tron equipmentlist
+linktitle: Full equipment list
 description: Here you find the complete list over standard and optional equipment with link to details about each option
 weight: 100
 ---
 
 ## Paint Color & Paint trim
 
+![Pebble stone gray](../../exterior/paint/paint_stonegrey_3s.jpg)
+
+Audi Q4 e-tron can be delivered in serveral standard colors and different paint trims. Click on each option below to see examples and detailed info.
+
 | Title | Description | ID |
 |-----|------|------|
-|  [Pebble Stone Grey](/models/q4-e-tron/exterior/paint/#pebble-stone-gray)   | Non metallic   |  C2   |
-|  [Geyser Blue](/models/q4-e-tron/exterior/paint/#geyser-blue)  | Metallic   |  5Y   |
-|  [Typhoon Grey](/models/q4-e-tron/exterior/paint/#typhoon-grey) | Metallic   |  2L  |
-|  [Florett Silver](/models/q4-e-tron/exterior/paint/#florett-silver) | Metallic   |  L5   |
-|  [Navarra Blue](/models/q4-e-tron/exterior/paint/#navarra-blue)| Metallic   | 2D    |
-|  [Mythos Black](/models/q4-e-tron/exterior/paint/#mythos-black) | Metallic   |  0E   |
-|  [Aurora Violett](/models/q4-e-tron/exterior/paint/#aurora-violett)| Metallic   |  J6   |
-|  [Glacier White](/models/q4-e-tron/exterior/paint/#glacier-white)| Metallic   | 2Y    |
+|  [Pebble Stone Grey](/models/q4-e-tron/exterior/paint/#pebble-stone-gray)   | Non metallic paint  |  C2   |
+|  [Geyser Blue](/models/q4-e-tron/exterior/paint/#geyser-blue)  | Metallic paint   |  5Y   |
+|  [Typhoon Grey](/models/q4-e-tron/exterior/paint/#typhoon-grey) | Metallic paint   |  2L  |
+|  [Florett Silver](/models/q4-e-tron/exterior/paint/#florett-silver) | Metallic paint   |  L5   |
+|  [Navarra Blue](/models/q4-e-tron/exterior/paint/#navarra-blue)| Metallic paint   | 2D    |
+|  [Mythos Black](/models/q4-e-tron/exterior/paint/#mythos-black) | Metallic paint   |  0E   |
+|  [Aurora Violett](/models/q4-e-tron/exterior/paint/#aurora-violett)| Metallic paint   |  J6   |
+|  [Glacier White](/models/q4-e-tron/exterior/paint/#glacier-white)| Metallic paint   | 2Y    |
 |  [Full body paint](/models/q4-e-tron/exterior/paint/#full-body-paint-or-with-contrast-paint)| For Mythos, Navarra, Glacier and Pebble | FB4 |
 |  [Contrast paint](/models/q4-e-tron/exterior/paint/#contrast-paint)| In Manhatten Grey | FB5 |
 
-
 ## Wheels
+
+![Wheel](../../exterior/wheels/wheel_55L_3s.jpg)
+
+Audi Q4 e-tron can be delivered with different types of wheels. Both for summer and winter.  Click on each option below to see examples and detailed info
 
 | Title | Description | ID |
 |-----|------|------|
@@ -41,10 +48,9 @@ weight: 100
 
 | Title | Description | ID |
 |-----|------|------|
-|  Tire repair kit  | Can be combiend with 20" and 21"  |  1S3   |
+| Tire repair kit  |  |  1S3   |
 | Basic tool kit | In trunk | 1S2 |
 | Tire Pressure System | Standard | 7K1 |
-
 
 ## Exterior packages
 
@@ -72,6 +78,8 @@ weight: 100
 
 
 ## Interior packages
+
+![Interior](../../interior/seats/seats_pwm_1.jpg)
 
 | Title | Description | ID |
 |-----|------|------|

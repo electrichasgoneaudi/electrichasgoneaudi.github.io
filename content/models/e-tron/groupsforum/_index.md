@@ -19,3 +19,4 @@ weight: 30
 - Facebook Group: [Audi e-tron Owners (by e-tron connect)](https://www.facebook.com/groups/etronconnect/)
 - Online forum: [Audi world](https://www.audiworld.com/forums/audi-e-tron-232/)
 - Online forum: [Audizine](https://www.audizine.com/forum/forumdisplay.php/366-e-tron)
+- Online forum: [e-tron forum](https://www.e-tronforum.com/forums/)
