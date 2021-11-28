@@ -228,30 +228,30 @@ weight: 100
 | Assistentsystempakke Pro med 360 kamera  | Inkluderer [Adaptivce Cruise Assist](../../technology/drivingassistance/adaptivecruiseassist/),[nødstoppassistent](../../technology/drivingassistance/emergencyassist/), [Adaptive Cruise control](../../technology/drivingassistance/adaptivecruisecontrol/), [Parkeringshjelp plus](../../technology/drivingassistance/parkingsystemplus/) og [360 kamera](../../technology/drivingassistance/360camera/) | PY5 |
 |  Sikkerhetspakke plus |  Inkluderer [filskifteassisten](../../technology/drivingassistance/sideassist/), [utstigningsvarsling](../../technology/drivingassistance/exitwarning/), [assistent for kryssende trafikk bak](../../technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](../../technology/drivingassistance/presenserear/). | PYU |
 
-## Drivetrain / brakes
+## Understell/Bremser
 
 | Tilvalg | Beskrivelse | ID |
 |-----|------|------|
-| [Sport suspension](../../drivetrain/suspension/) | Lowered with 15mm | 1JC |
-| [Comfort normal suspension](../../drivetrain/suspension/) | Standard | 6J3 |
-| Parkingbrake, electromechanic | Standard | |
+| [Sportsunderstell](../../drivetrain/suspension/) | Lowered with 15mm | 1JC |
+| [Komfort normalunderstell](../../drivetrain/suspension/) | Standard | 6J3 |
+| Parkeringsbrems, elektromekanisk | Standard | |
 
-## Tech / Security
+## Teknikk/sikkerhet
 
 | Tilvalg | Beskrivelse | ID |
 |-----|------|------|
-| Outside sound | Increased security. Standard | GM1 |
-| Manual or automatic emergency call |  | NZ2 |
-| Electronic immobilizer  |  | 7AA |
-| First aid equipment with warning triangle and reflective vest   |  | 1T3 |
-| Deactivation of passenger airbag    |  |  |
-| Tire pressure warning     |  | 7K1 |
-| Reversible belt tensioners at the front and belt warnings    |  | 9P4 |
-| Front airbags    |  | 4UF |
-| Side airbags at the front    |  | 6C2 |
-| Side airbags front and rear    |  | 6C4 |
-| Electric child safety lock on rear doors  |  | 4H5 |
-| Electromechanical power steering  |  | 1N3 |
-| Progressive steering | | 1N7 |
+| Utvendig lyd | Økt trafikksikkerhet for fotgjengere og syklister ved kjøring i lav hastighet.Økt trafikksikkerhet for fotgjengere og syklister ved kjøring i lav hastighet.. Standard | GM1 |
+| Manuell eller automatisk nødanrop | Standard  | NZ2 |
+| Elektronisk startsperre  | Standard  | 7AA |
+| Førstehjelpsutstyr med varseltrekant og refleksvest | Standard  | 1T3 |
+| Deaktivering av passasjerairbag  |  |  |
+| [Dekktrykkvarsling](../../technology/tpms)     |  | 7K1 |
+| Reversible beltestrammere foran samt beltevarslere |  | 9P4 |
+| [Kollisjonsputer foran](../../technology/safety/) |  | 4UF |
+| [Sidekollisjonsputer foran](../../technology/safety/) |  | 6C2 |
+| [Sidekollisjonsputer foran og bak](../../technology/safety/)  |  | 6C4 |
+| Elektrisk barnesikring på bakdører  |  | 4H5 |
+| Elektromekanisk styring |  | 1N3 |
+| Progresiv styring | Variabel styreutveksling som avhenger av rattutslaget, og hastighetsavhengig servostyring. Standard på quattro modeller. Inkludert i pakke PY8/PY9.  | 1N7 |
 
 {{% children description="true" depth="1" %}}
