@@ -11,7 +11,7 @@ weight: 100
 
 Audi Q4 e-tron kan leveres i en rekke standardfarger og lakkutforminger. Klikk på valgende for detaljer og eksempelbilder i høy oppløsning.
 
-| Tilvalg | Beskrivelse | ID |
+| Utstyr |Beskrivelse | ID |
 |-----|------|------|
 |  [Pebblestonegrå](../../exterior/paint/#pebblestonegrå)   | Unilakk   |  C2   |
 |  [Geysirblå](../../exterior/paint/#geysirblå-metallic)  | Metallic   |  5Y   |
@@ -28,24 +28,24 @@ Audi Q4 e-tron kan leveres i en rekke standardfarger og lakkutforminger. Klikk p
 
 ![Felg](../../exterior/wheels/wheel_55L_3s.jpg)
 
-Audi Q4 e-tron kan leveres med forskjellige typer felger og dekk både for sommer og vinter. Klikk på valgene for detaljert info og høyoppløste bilder. 
+Audi Q4 e-tron kan leveres med forskjellige typer felger og dekk både for sommer og vinter. Klikk på valgene for detaljert info og høyoppløste bilder.
 
-| Tilvalg | Beskrivelse | ID |
+| Utstyr |Beskrivelse | ID |
 |-----|------|------|
-|  [19" 5-arm design](../../exterior/wheels/#19-5-arm-design)   |   8,0 J x 19 with 235/55 R 19 tires front and 255/50 R 19 tires rear   |  40S   |
-|  [19" 5-W design](../../exterior/wheels/#19-5-w-design)   |   8,0 J x 19 with 235/55 R 19 tires front and 255/50 R 19 tires rear   |  40Z   |
-|  [20" 5Y design](../../exterior/wheels/#20-5y-design)   |   8.0J x 20 with 235/50R 20 tires in front and 9.0J 20 with 255/45R 20 tires rear.   |  55J   |
-|  [20" 5Y graphite grey design](../../exterior/wheels/#20-5y-graphite-grey-design)   |  8.0J x 20 with 235/50R 20 tires in front and 9.0J 20 with 255/45R 20 tires rear.   |  55K   |
-|  [20" 10 spoke design](../../exterior/wheels/#20-10-spoke-design)   |  8.0J x 20 with 235/50R 20 tires in front and 9.0J 20 with 255/45R 20 tires rear.   |  56J  |
-|  [20" 5V design](../../exterior/wheels/#20-5v-design)   |  8.0J x 20 with 235/50R 20 tires in front and 9.0J 20 with 255/45R 20 tires rear.   |  56H  |
-|  [21" 5-arm rotor design](../../exterior/wheels/#21-5-arm-rotor-design)   |  8,5 J x 21 with 235/45 R 21 tires front 9,0 J x 21 255/40 R 21 tires rear.   |  55L  |
-|  [21" 5-W design](../../exterior/wheels/#21-5-w-design)   |  8,5 J x 21 with 235/45 R 21 tires front 9,0 J x 21 255/40 R 21 tires rear  |  C5W |
-|  [21" 5-W design bronze](../../exterior/wheels/#21-5-w-design-bronze)   |  8,5 J x 21 with 235/45 R 21 tires front 9,0 J x 21 255/40 R 21 tires rear  |  C7A |
-|  [21" 5 Arm rotor aero design](../../exterior/wheels/#21-5-arm-rotor-aero-design)   |  8,5 J x 21 with 235/45 R 21 tires front 9,0 J x 21 255/40 R 21 tires rear  |  C1P |
+|  [19" 5-arm design](../../exterior/wheels/#19-5-arm-design)   |   8,0 J x 19 med 235/55 R 19 dekk foran og 255/50 R 19 dekk bak   |  40S   |
+|  [19" 5-W design](../../exterior/wheels/#19-5-w-design)   |   8,0 J x 19 med 235/55 R 19 dekk foran og 255/50 R 19 dekk bak   |  40Z   |
+|  [20" 5Y design](../../exterior/wheels/#20-5y-design)   |   8.0J x 20 med 235/50R 20 dekk foran og 9.0J 20 med 255/45R 20 dekk bak rear.   |  55J   |
+|  [20" 5Y graphite grey design](../../exterior/wheels/#20-5y-graphite-grey-design)   |  8.0J x 20 med 235/50R 20 dekk foran og 9.0J 20 med 255/45R 20 dekk bak.   |  55K   |
+|  [20" 10 spoke design](../../exterior/wheels/#20-10-spoke-design)   |  8.0J x 20 med 235/50R 20 dekk foran og 9.0J 20 med 255/45R 20 dekk bak.   |  56J  |
+|  [20" 5V design](../../exterior/wheels/#20-5v-design)   |  8.0J x 20 med 235/50R 20 dekk foran og 9.0J 20 med 255/45R 20 dekk bak.   |  56H  |
+|  [21" 5-arm rotor design](../../exterior/wheels/#21-5-arm-rotor-design)   |  8,5 J x 21 med 235/45 R 21 dekk foran og 9,0 J x 21 255/40 R 21 dekk bak.   |  55L  |
+|  [21" 5-W design](../../exterior/wheels/#21-5-w-design)   |  8,5 J x 21 med 235/45 R 21 dekk foran og 9,0 J x 21 255/40 R 21 dekk bak  |  C5W |
+|  [21" 5-W design bronze](../../exterior/wheels/#21-5-w-design-bronze)   |  8,5 J x 21 med 235/45 R 21 dekk foran og 9,0 J x 21 255/40 R 21 dekk bak  |  C7A |
+|  [21" 5 Arm rotor aero design](../../exterior/wheels/#21-5-arm-rotor-aero-design)   |  8,5 J x 21 med 235/45 R 21 dekk foran og 9,0 J x 21 255/40 R 21 dekk bak  |  C1P |
 
 ## Dekk
 
-| Tilvalg | Beskrivelse | ID |
+| Utstyr |Beskrivelse | ID |
 |-----|------|------|
 | Verktøy med dekkreparasjonssett  | Dekkreparasjonssett og kompressor plassert i bagasjerommet.  |  1S3   |
 | Vektøysett basis | Standard | 1S2 |
@@ -53,7 +53,7 @@ Audi Q4 e-tron kan leveres med forskjellige typer felger og dekk både for somme
 
 ## Eksteriør pakker
 
-| Tilvalg | Beskrivelse | ID |
+| Utstyr |Beskrivelse | ID |
 |-----|------|------|
 | Edition One pakke, Geysirblå | Edtion one with big equipment package | PFR |
 | Edition One pakke, Tyfongrå | Edtion one with big equipment package | PFP |
@@ -62,7 +62,7 @@ Audi Q4 e-tron kan leveres med forskjellige typer felger og dekk både for somme
 
 ## Utstyrpakker
 
-| Tilvalg | Beskrivelse | ID |
+| Utstyr |Beskrivelse | ID |
 |-----|------|------|
 | Klima- og vinterpakke | Inkluderer følgende [3-soners klimanlegg](../../technology/climatecontrol/), [Varmepumpe](../../technology/climatecontrol/#varmepumpe), [Oppvarmet ratt](../../interior/steeringwheels/), [Parkeringsklimanlegg med ekstra komfort](../../technology/climatecontrol/#parkeringsklimaanlegg-med-ekstra-komfort)  | WNW |
 | Klimapakke | Inneholder [3-soners klimanlegg](../../technology/climatecontrol/) og [Parkeringsklimanlegg med ekstra komfort](../../technology/climatecontrol/#parkeringsklimaanlegg-med-ekstra-komfort) | PYC |
@@ -75,7 +75,11 @@ Audi Q4 e-tron kan leveres med forskjellige typer felger og dekk både for somme
 
 ## Interiørpakker
 
-| Tilvalg | Beskrivelse | ID |
+![Interior](../../interior/seats/seats_pwm_1.jpg)
+
+Audi Q4 e-tron kan leveres med forskjellgige seter i forskjellige materialer. Klikk nedenfor på de forskjellige valgene for detaljert info med høyoppløste bilder.
+
+| Utstyr |Beskrivelse | ID |
 |-----|------|------|
 | Interiørpakke 1 | [Standard seter](../../interior/seats/#standard-seats-in-black-leather-option-pwa) i sort skinn | PWA |
 | Interiørpakke 2 | [Standard seter](../../interior/seats/#standard-seats-in-brown-leather-option-pwb) i brunt skinn | PWB |
@@ -90,7 +94,11 @@ Audi Q4 e-tron kan leveres med forskjellige typer felger og dekk både for somme
 
 ## Lights
 
-| Tilvalg | Beskrivelse | ID |
+![Lights](../../technology/lights/signature3s.jpg)
+
+Audi Q4 e-tron har avanserte lys. Klikk nedenfor for detaljert info.
+
+| Utstyr |Beskrivelse | ID |
 |-----|------|------|
 | [Led headlights](../../technology/lights/#standard-headlights) | Standard | 8IT |
 | [Matrix LED Headlights](../../technology/lights/#matrix-headlights) | Includes Head light washers |PXC |
@@ -100,7 +108,7 @@ Audi Q4 e-tron kan leveres med forskjellige typer felger og dekk både for somme
 
 ## Speil
 
-| Tilvalg | Beskrivelse | ID |
+| Utstyr |Beskrivelse | ID |
 |-----|------|------|
 | Utvendige speilhus| Lakkert i bilens farge | 6FG |
 | Utvendige speilhus i sort  | 6FJ |
@@ -112,7 +120,7 @@ Audi Q4 e-tron kan leveres med forskjellige typer felger og dekk både for somme
 
 ## Tak
 
-| Tilvalg | Beskrivelse | ID |
+| Utstyr |Beskrivelse | ID |
 |-----|------|------|
 | [Panorama glasstak](../../exterior/panoramicroof/) |  | 3FU |
 | Takreling i aluminium | Ikke til Sportback | 3S1 |
@@ -120,7 +128,7 @@ Audi Q4 e-tron kan leveres med forskjellige typer felger og dekk både for somme
 
 ## Låsesystemer
 
-| Tilvalg | Beskrivelse | ID |
+| Utstyr |Beskrivelse | ID |
 |-----|------|------|
 | Fjernbetjent sentrallås | Standard | 4I7 |
 | Komfortnøkkel | Key less go | 4K5 |
@@ -128,7 +136,7 @@ Audi Q4 e-tron kan leveres med forskjellige typer felger og dekk både for somme
 
 ## Glass
 
-| Tilvalg | Beskrivelse | ID |
+| Utstyr |Beskrivelse | ID |
 |-----|------|------|
 | [Varmereflekterende frontrute](../../exterior/windows/) | Standard | 4GF |
 | [Varmedempende glass](../../exterior/windows/) | standard | 4GC |
@@ -138,7 +146,7 @@ Audi Q4 e-tron kan leveres med forskjellige typer felger og dekk både for somme
 
 ## Utvendig utstyr
 
-| Tilvalg | Beskrivelse | ID |
+| Utstyr |Beskrivelse | ID |
 |-----|------|------|
 | Blanke sidelister rundt vinduer | Vinduslister i eloksert aluminium | 4ZB |
 | [Nedre del av støtfanger og sider av bilen i basis sort antrasitt kunststoff](../../exterior/paint/#basic-paint) |  basic  | 2JB |
@@ -152,7 +160,7 @@ Audi Q4 e-tron kan leveres med forskjellige typer felger og dekk både for somme
 
 ## Klimaanlegg
 
-| Tilvalg | Beskrivelse | ID |
+| Utstyr |Beskrivelse | ID |
 |-----|------|------|
 | [1 zone clima control](../../technology/climatecontrol/) | Standard | KC0 |
 | [3 zone clima control](../../technology/climatecontrol/) |  | |
@@ -161,7 +169,11 @@ Audi Q4 e-tron kan leveres med forskjellige typer felger og dekk både for somme
 
 ## Innvendig utstyr
 
-| Tilvalg | Beskrivelse | ID |
+![Interior options](../../interior/interiorlights/ambientlights.jpg)
+
+Audi Q4 e-tron her flere valg på interiør. Kikk nedenfor for detaljert informasjon.
+
+| Utstyr |Beskrivelse | ID |
 |-----|------|------|
 | [Innvendig belysning](../../interior/interiorlights/#standard-interior-lights) | Standard | QQO |
 | [Ambiente lyspakke](../../interior/interiorlights/#ambiente-lyspakke) | hvit | QQ8 |  
@@ -176,7 +188,7 @@ Audi Q4 e-tron kan leveres med forskjellige typer felger og dekk både for somme
 
 ## Ratt/betjeningselementer
 
-| Tilvalg | Beskrivelse | ID |
+| Utstyr |Beskrivelse | ID |
 |-----|------|------|
 | [Dobbelteikers sportsratt i skinn, med flat overog underside, multifunksjon og girtaster](../../interior/steeringwheels/#the-double-spoke-leather-sports-steering-wheel-option-2fs) | Flat top and bottomed twin-spoke leather | 2FS |
 | [multifunction Sport steering wheel](../../interior/steeringwheels/#skinnratt-med-dobbleeiker-med-hendler-alternativ-2zq) | Flat top and bottomed twin-spoke leather | 2ZQ |
@@ -184,7 +196,11 @@ Audi Q4 e-tron kan leveres med forskjellige typer felger og dekk både for somme
 
 ## Infotainment
 
-| Tilvalg | Beskrivelse | ID |
+![Infotainment](../../technology/uiandoperations/virtualcockpit/mminavigationvirtualcockpits.jpg)
+
+Audi Q4 e-tron har en rekke infotainmentvalg. Klikk nedfor for detaljert informasjon om mulighetene.
+
+| Utstyr |Beskrivelse | ID |
 |-----|------|------|
 | [MMI navigasjon plus med MMI touch](../../technology/uiandoperations/navigation) | Inkludert i PYG/PYH | 7UG |
 | [AR-head up display](../../technology/uiandoperations/headupdisplay/) | Included in PYH  | KS3 |
@@ -198,7 +214,7 @@ Audi Q4 e-tron kan leveres med forskjellige typer felger og dekk både for somme
 
 ## Radio og høyttalersystemer
 
-| Tilvalg | Beskrivelse | ID |
+| Utstyr |Beskrivelse | ID |
 |-----|------|------|
 | [Audi Sound System](../../technology/soundsystem/#audi-sound-system) | Standard | 9VD | 
 | [Sonos Premium Sound system](../../technology/soundsystem/#sonos-lydsystem) |  | 9VS | 
@@ -207,7 +223,7 @@ Audi Q4 e-tron kan leveres med forskjellige typer felger og dekk både for somme
 
 ## Telefon og kommunikasjon
 
-| Tilvalg | Beskrivelse | ID |
+| Utstyr |Beskrivelse | ID |
 |-----|------|------|
 | Audi connect Remote & Control for MMI basis |  | EL1 |
 | Audi connect Remote & Control for MMI plus og pro |  | EL5 |
@@ -219,7 +235,7 @@ Audi Q4 e-tron kan leveres med forskjellige typer felger og dekk både for somme
 
 ## Assistentsystemer
 
-| Tilvalg | Beskrivelse | ID |
+| Utstyr |Beskrivelse | ID |
 |-----|------|------|
 | [Hastighetsbegrenser](../../technology/drivingassistance/speedlimiter/)   |  configurable speed limiter | 8T9 |
 | [Cruise control med hastighetsbegrenser](../../technology/drivingassistance/cruisecontrol/)   |  configurable speed limiter | PYJ |
@@ -237,7 +253,7 @@ Audi Q4 e-tron kan leveres med forskjellige typer felger og dekk både for somme
 
 ## Understell/Bremser
 
-| Tilvalg | Beskrivelse | ID |
+| Utstyr |Beskrivelse | ID |
 |-----|------|------|
 | [Sportsunderstell](../../drivetrain/suspension/) | Lowered with 15mm | 1JC |
 | [Komfort normalunderstell](../../drivetrain/suspension/) | Standard | 6J3 |
@@ -245,7 +261,7 @@ Audi Q4 e-tron kan leveres med forskjellige typer felger og dekk både for somme
 
 ## Teknikk/sikkerhet
 
-| Tilvalg | Beskrivelse | ID |
+| Utstyr |Beskrivelse | ID |
 |-----|------|------|
 | Utvendig lyd | Økt trafikksikkerhet for fotgjengere og syklister ved kjøring i lav hastighet.Økt trafikksikkerhet for fotgjengere og syklister ved kjøring i lav hastighet.. Standard | GM1 |
 | Manuell eller automatisk nødanrop | Standard  | NZ2 |
