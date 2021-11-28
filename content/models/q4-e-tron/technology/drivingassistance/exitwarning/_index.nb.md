@@ -5,7 +5,7 @@ description: Utkjøringsvarsling forbedrer sikkerheten i bytrafikken. Hvis bilen
 weight: 1
 ---
 
-![Exit warning](exitwarning.jpg "Exit warning")
+![Exit warning](exitwarning.jpg "Utstigningsvarsel")
 
 Dette gjør systemet ved hjelp av LED-lys i dørpanelene. I en situasjon som vurderes til å være farlig, blinker lysdiodene og lyser rødt. Lysdiodene til Audi sideassistent lyser også i det aktuelle sidespeilet. Utgangsvarselet forblir aktiv i omtrent tre minutter etter at tenningen er slått av.
 

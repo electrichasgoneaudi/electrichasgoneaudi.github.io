@@ -31,10 +31,10 @@ En frontradar, ett frontkamera, fire omgivelses-kameraer, to bakradarer og åtte
 | [Assistent for kryssende trafikk bak](crosstrafficassistrear) | Tilleggsutstyr |
 | [Utstigningsvarsling](exitwarning) | Tilleggsutstyr (PYU) |
 | [Unnamanøvreringsassistent](collisionavoidanceassist) | standard |
-| [Sidehjelp](sideassist) | Tilleggsutstyr |
+| [Filskifteassistent](sideassist) | Tilleggsutstyr |
 | [Ryggekamera](reversingcamera) | Tilleggsutstyr |
 | [Avkjøringsassistent](turnassist) | Standard |
-| [Trafikkskiltgjenkjenning](trafikkskiltgjenkjenning) | Tilleggsutstyr |
+| [Trafikkskiltgjenkjenning](trafficsignrecognition) | Tilleggsutstyr |
 
  Nedenfor finner du en detaljert forklaring på hvordan hver førerassistansefunksjonalitet fungerer.
 
