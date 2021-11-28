@@ -7,6 +7,10 @@ weight: 100
 
 ## Lakkfarger og lakkeringsvalg
 
+![Pebble stone gray](../../exterior/paint/paint_stonegrey_3s.jpg)
+
+Audi Q4 e-tron kan leveres i en rekke standardfarger og lakkutforminger. Klikk på valgende for detaljer og eksempelbilder i høy oppløsning.
+
 | Tilvalg | Beskrivelse | ID |
 |-----|------|------|
 |  [Pebblestonegrå](../../exterior/paint/#pebblestonegrå)   | Unilakk   |  C2   |
@@ -20,8 +24,11 @@ weight: 100
 |  [Hellakkering i bilens farge](../../exterior/paint/#hellakkering)| Kun for Advanced eller S line og fargene Pebblestonegrå, Isbrehvit, Mythossort eller Navarrablå. | FB4 |
 |  [Kontrastlakkering](../../exterior/paint/#kontrastlakkering)| I Manhattan grå| FB5 |
 
-
 ## Felg & dekk
+
+![Felg](../../exterior/wheels/wheel_55L_3s.jpg)
+
+Audi Q4 e-tron kan leveres med forskjellige typer felger og dekk både for sommer og vinter. Klikk på valgene for detaljert info og høyoppløste bilder. 
 
 | Tilvalg | Beskrivelse | ID |
 |-----|------|------|

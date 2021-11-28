@@ -53,6 +53,10 @@ weight: 20
 
 {{< youtube 9G8H4buyIWU >}}
 
+### Carbuyer: New Audi Q4 e-tron in-depth review: the best electric Audi!
+
+{{< youtube UrKIzTR3Dfw >}}
+
 ### Out of Spec Reviews: I Drive The Audi Q4 E-Tron For The First Time! (50 AWD Trim)
 
 {{< youtube 0DetrXWCX5I >}}
