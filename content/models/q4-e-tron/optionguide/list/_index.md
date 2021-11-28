@@ -107,8 +107,7 @@ Audi Q4 e-tron has advanced lights options. Click on each option below to see ex
 | [High beam assistant](/models/q4-e-tron/technology/lights/#standard-headlights) | For standard headlights | 8G1 |
 | [Head light washers](/models/q4-e-tron/technology/lights/#standard-headlights) | Inlcuded for Matrix | 8X8 |
 
-
-## Mirrors 
+## Mirrors
 
 | Title | Description | ID |
 |-----|------|------|
@@ -128,7 +127,6 @@ Audi Q4 e-tron has advanced lights options. Click on each option below to see ex
 | [Rails aluminium](../../transportation/#roof-storage) | Not sportback | 3S1 |
 | [Rails black](../../transportation/#roof-storage) | Not sportback | 3S2 |
 
-
 ## Locking systems
 
 | Title | Description | ID |
@@ -136,7 +134,6 @@ Audi Q4 e-tron has advanced lights options. Click on each option below to see ex
 | Sentral locking | Remote controlle | 4I7 |
 | Comfort key | Key less go | 4K5 |
 | Electric luggage compartment lid |   | 4E6 |
-
 
 ## Glas
 
@@ -147,7 +144,6 @@ Audi Q4 e-tron has advanced lights options. Click on each option below to see ex
 | [Privacy windows](/models/q4-e-tron/exterior/windows/#privacy-glass) | Dark side windows in the  rear | QL5 |
 | [Acoustic side windows](/models/q4-e-tron/exterior/windows/#acoustic-windows) | Reduce nois | VW6 | 
 | [Heated and accoustic front window](/models/q4-e-tron/exterior/windows/#heated-and-acoustig-front-window) |  | 4GW |
-
 
 ## Exterior equipment
 
