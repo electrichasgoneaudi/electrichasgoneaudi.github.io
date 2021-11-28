@@ -1,13 +1,13 @@
 ---
-title: Audi Q4 e-tron ekstrautstyrsguide
-linktitle: Ekstrautstyrsguide
+title: Audi Q4 e-tron utstyrsguide
+linktitle: Utstyrsguide
 description: Audi Q4 e-tron har så mange muligheter at det nesten er umulig å få oversikten. Vi prøver å hjelpe deg med å velge de viktigste alternativene. 
 weight: 100
 ---
 
-Følgende guide er basert på grunnmodellen. Mange markeder har utstyrspakke med tilleggsutstyr.
+Følgende guide er basert på grunnmodellen. I Norge har man forskjellige utstyrspakker som samler en del av utstyret i rimeligere pakker.
 
-Nedenfor er de viktigste alternativene du må vurdere når du kjøper en Audi Q4 e-tron
+Du bør lese gjennom den [fulle utstyrslisten](list) for å sikre deg at du ikke glemmer noe som du syns er viktig, men her finner du en oversikt over de tingene vi mener du må huske å vurdere før du bestiller en Audi Q4 e-tron.
 
 ![IU1](iu1.jpg)
 
