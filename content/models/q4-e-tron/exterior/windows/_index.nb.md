@@ -5,27 +5,29 @@ description: Audi Q4 e-tron har noen valg for vinduer
 weight: 5
 ---
 
-The standard front window have
+Audi Q4 e-tron har som standard varmereflekterende frontrute. I tilegg er bakrute, dør- og sidevinduer grønntonet og varmepdempende
 
-## Mørke vinduer
+Bakruten er også oppvarmbar med tidsbryter.
 
-You can order privacy glass with option id **QL5**. Dette gir bilen et mer eksklusivt utseende
+## Privacy-glass (soteded ruter)
+
+Som tilvalg nr **QL5** kan du bestille bilen med privacy-glass. Dette gir bilen et mer eksklusivt utseende
 og redusere sikten for utvendig å se inn i bilen til personer i baksetet eller ting
 i bagasjerommet.
 
-![Panoramic roof](privacywindows.jpg "Privacy windows")
+![Panoramic roof](privacywindows.jpg "Privacy-glass")
 
-![Privacy windows](paint_typhoongrey_2.jpg "Privacy windows on a Audi Q4 e-tron with Typhoon color" )
+![Privacy windows](paint_typhoongrey_2.jpg "Privacy-glass på Audi Q4 e-tron i tyfongrå. Gjør bilen ekstra tøff" )
 
-## Oppvarmet frontvindu med akustikk glass
+## Oppvarmet frontrute med akkustikkglass
 
 Som ekstrautstyr kan du bestille oppvarmet frontvindu med akustisk glass.
 
-Dette er opsjon **4GW**
+Dette er tilvalg nr **4GW**
 
-## Akustiske sidevinduer
+## Akustikkglass på sidevinduer foran
 
-Som en opsjon (**VW6**) kan du bestille akustiske sidevinduer foran.
+Som tilvalg nr **VW6** kan du bestille akustiske sidevinduer foran.
 
 Dette reduserer støy i kupeen.
 

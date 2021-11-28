@@ -5,9 +5,19 @@ description: Audi Q4 e-tron is equipped with 1-zone electronic climate control a
 weight: 10
 ---
 
+The system has the following characteristics.
+
+- Electronic regulation of air temperature, volume and distribution
+- Solar-dependent regulation
+- Automatic recirculation
+- Dust and odor-secreting allergy filter
+- Separate defroster switch for faster defrosting of the front and side windows
+
 The controls are located just below the MMI screen.
 
 ![AC control](ac1zonecontrol.jpg "The AC has a separate control panel under the MMI screen")
+
+## 3-zone climate control system
 
 As an option, you can order a 3-zone climate control system.
 

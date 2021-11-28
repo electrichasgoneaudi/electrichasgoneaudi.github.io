@@ -148,6 +148,7 @@ WORK IN PROGRESS
 | Chrome trim strips on the side windows | in aluminium | 4ZB |
 | [Lower bumper in antrastitt](/models/q4-e-tron/exterior/paint/#basic-paint) |  basic  | 2JB |
 | [Black optics](/models/q4-e-tron/exterior/optics/#black-optics) |  | 4ZD |
+| [Black optics plus](/models/q4-e-tron/exterior/optics/#black-optics) |  | 4ZP |
 | [Preperation for tow hitch](/models/q4-e-tron/transportation/#towing-capacity) |  | 1D7 |
 | [Tow hitch](/models/q4-e-tron/transportation/#towing-capacity) | - | 1M6 |
 | Model an brand marking | - | 2Z8 |

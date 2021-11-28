@@ -7,7 +7,7 @@ weight: 100
 
 ## Lakkfarger og lakkeringsvalg
 
-| Title | Description | ID |
+| Tilvalg | Beskrivelse | ID |
 |-----|------|------|
 |  [Pebblestonegrå](../../exterior/paint/#pebblestonegrå)   | Unilakk   |  C2   |
 |  [Geysirblå](../../exterior/paint/#geysirblå-metallic)  | Metallic   |  5Y   |
@@ -23,7 +23,7 @@ weight: 100
 
 ## Felg & dekk
 
-| Title | Description | ID |
+| Tilvalg | Beskrivelse | ID |
 |-----|------|------|
 |  [19" 5-arm design](../../exterior/wheels/#19-5-arm-design)   |   8,0 J x 19 with 235/55 R 19 tires front and 255/50 R 19 tires rear   |  40S   |
 |  [19" 5-W design](../../exterior/wheels/#19-5-w-design)   |   8,0 J x 19 with 235/55 R 19 tires front and 255/50 R 19 tires rear   |  40Z   |
@@ -38,7 +38,7 @@ weight: 100
 
 ## Dekk
 
-| Title | Description | ID |
+| Tilvalg | Beskrivelse | ID |
 |-----|------|------|
 | Verktøy med dekkreparasjonssett  | Dekkreparasjonssett og kompressor plassert i bagasjerommet.  |  1S3   |
 | Vektøysett basis | Standard | 1S2 |
@@ -46,16 +46,16 @@ weight: 100
 
 ## Eksteriør pakker
 
-| Title | Description | ID |
+| Tilvalg | Beskrivelse | ID |
 |-----|------|------|
 | Edition One pakke, Geysirblå | Edtion one with big equipment package | PFR |
 | Edition One pakke, Tyfongrå | Edtion one with big equipment package | PFP |
 | Advanced line pakke  | Inkluderer  [Konstrastlakkering](../../exterior/paint/#kontrastlakkering),   [19" 5-W design](../../exterior/wheels/#19-5-w-design)  |  PY1   |
 |  S-Line  | Includes [Kontrastlakkering](../../exterior/paint/#kontrastlakkering),  [S-line Styling](../../exterior/s-line/),   [20" 5Y design](../../exterior/wheels/#20-5y-design) |  PY2   |
 
-## Utstyrpakker 
+## Utstyrpakker
 
-| Title | Description | ID |
+| Tilvalg | Beskrivelse | ID |
 |-----|------|------|
 | Klima- og vinterpakke | Inkluderer følgende [3-soners klimanlegg](../../technology/climatecontrol/), [Varmepumpe](../../technology/climatecontrol/#varmepumpe), [Oppvarmet ratt](../../interior/steeringwheels/), [Parkeringsklimanlegg med ekstra komfort](../../technology/climatecontrol/#parkeringsklimaanlegg-med-ekstra-komfort)  | WNW |
 | Klimapakke | Inneholder [3-soners klimanlegg](../../technology/climatecontrol/) og [Parkeringsklimanlegg med ekstra komfort](../../technology/climatecontrol/#parkeringsklimaanlegg-med-ekstra-komfort) | PYC |
@@ -68,7 +68,7 @@ weight: 100
 
 ## Interiørpakker
 
-| Title | Description | ID |
+| Tilvalg | Beskrivelse | ID |
 |-----|------|------|
 | Interiørpakke 1 | [Standard seter](../../interior/seats/#standard-seats-in-black-leather-option-pwa) i sort skinn | PWA |
 | Interiørpakke 2 | [Standard seter](../../interior/seats/#standard-seats-in-brown-leather-option-pwb) i brunt skinn | PWB |
@@ -83,7 +83,7 @@ weight: 100
 
 ## Lights
 
-| Title | Description | ID |
+| Tilvalg | Beskrivelse | ID |
 |-----|------|------|
 | [Led headlights](../../technology/lights/#standard-headlights) | Standard | 8IT |
 | [Matrix LED Headlights](../../technology/lights/#matrix-headlights) | Includes Head light washers |PXC |
@@ -91,9 +91,9 @@ weight: 100
 | [High beam assistant](../../technology/lights/#standard-headlights) | For standard headlights | 8G1 |
 | [Head light washers](../../technology/lights/#standard-headlights) | Inlcuded for Matrix | 8X8 |
 
-## Speil 
+## Speil
 
-| Title | Description | ID |
+| Tilvalg | Beskrivelse | ID |
 |-----|------|------|
 | Utvendige speilhus| Lakkert i bilens farge | 6FG |
 | Utvendige speilhus i sort  | 6FJ |
@@ -105,7 +105,7 @@ weight: 100
 
 ## Tak
 
-| Title | Description | ID |
+| Tilvalg | Beskrivelse | ID |
 |-----|------|------|
 | [Panorama glasstak](../../exterior/panoramicroof/) |  | 3FU |
 | Takreling i aluminium | Ikke til Sportback | 3S1 |
@@ -113,7 +113,7 @@ weight: 100
 
 ## Låsesystemer
 
-| Title | Description | ID |
+| Tilvalg | Beskrivelse | ID |
 |-----|------|------|
 | Fjernbetjent sentrallås | Standard | 4I7 |
 | Komfortnøkkel | Key less go | 4K5 |
@@ -121,39 +121,40 @@ weight: 100
 
 ## Glass
 
-| Title | Description | ID |
+| Tilvalg | Beskrivelse | ID |
 |-----|------|------|
-| [Varmereflekterende frontrute](../../exterior/windows/) | Standard | 4GF | 
+| [Varmereflekterende frontrute](../../exterior/windows/) | Standard | 4GF |
 | [Varmedempende glass](../../exterior/windows/) | standard | 4GC |
-| [Privacy-glass](../../exterior/windows/#privacy-glass) | Ekstra mørke ruter på bakdører, sidevinduer bak og bakrute. | QL5 |
-| [Acoustic side windows](../../exterior/windows/#acoustic-windows) | Reduce nois | VW6 | 
-| [Heated and accoustic front window](../../exterior/windows/#heated-and-acoustig-front-window) |  | 4GW |
+| [Privacy-glass](../../exterior/windows/#privacy-glass-soteded-ruter) | Ekstra mørke ruter på bakdører, sidevinduer bak og bakrute. | QL5 |
+| [Akustikkglass på sidevinduer foran](../../exterior/windows/#oppvarmet-frontrute-med-akkustikkglass) | Reduserer støyen i kupeen | VW6 |
+| [Oppvarmet frontrute med akkustikkglass](../../exterior/windows/#heated-and-acoustig-front-window) |  | 4GW |
 
-## Exterior equipment
+## Utvendig utstyr
 
-| Title | Description | ID |
+| Tilvalg | Beskrivelse | ID |
 |-----|------|------|
-| Chrome trim strips on the side windows | in aluminium | 4ZB |
-| [Lower bumper in antrastitt](../../exterior/paint/#basic-paint) |  basic  | 2JB |
-| [Black optics](../../exterior/optics/#black-optics) |  | 4ZD |
-| [Preperation for tow hitch](../../transportation/#towing-capacity) |  | 1D7 |
-| [Tow hitch](../../transportation/#towing-capacity) | - | 1M6 |
-| Model an brand marking | - | 2Z8 |
-| Without performance rating  | - | 2Z7|
-| Without perforance and model | - | 2Z0 |
+| Blanke sidelister rundt vinduer | Vinduslister i eloksert aluminium | 4ZB |
+| [Nedre del av støtfanger og sider av bilen i basis sort antrasitt kunststoff](../../exterior/paint/#basic-paint) |  basic  | 2JB |
+| [Sort optikkpakke](../../exterior/optics/#black-optics) |  | 4ZD |
+| [Sort optikkpakke plus](../../exterior/optics/#black-optics)|  | 4ZP |
+| [Forberedelse for tilhengerfeste](../../transportation/#towing-capacity) |  | 1D7 |
+| [Tilhengerfeste](../../transportation/#towing-capacity) | - | 1M6 |
+| Modellbetegnelser og effekt-/teknologi-logoer | - | 2Z8 |
+| Uten ytelse og teknologibetegnelse  | - | 2Z7|
+| Uten modell, ytelse og teknologibetegnelse | - | 2Z0 |
 
-## Climate
+## Klimaanlegg
 
-| Title | Description | ID |
+| Tilvalg | Beskrivelse | ID |
 |-----|------|------|
 | [1 zone clima control](../../technology/climatecontrol/) | Standard | KC0 |
 | [3 zone clima control](../../technology/climatecontrol/) |  | |
-| [Comfort pre climatization](../../technology/climatecontrol/#auxiliary-air-conditioner-with-preconditioner) |  | GA2 |
-| [Heat pump](../../technology/climatecontrol/#heatpump) | | 9M3 |
+| [Komfort førklimatisering](../../technology/climatecontrol/#komfort-førklimatisering) |  | GA2 |
+| [Varmepumpe](../../technology/climatecontrol/#varmepumpe) | | 9M3 |
 
 ## Interior options
 
-| Title | Description | ID |
+| Tilvalg | Beskrivelse | ID |
 |-----|------|------|
 | [Interior lightning](../../interior/interiorlights/#standard-interior-lights) | Standard | QQO |
 | [Ambient lightning](../../interior/interiorlights/#ambient-lights-package) | white | QQ8 |  
@@ -168,7 +169,7 @@ weight: 100
 
 ## Steering wheel
 
-| Title | Description | ID |
+| Tilvalg | Beskrivelse | ID |
 |-----|------|------|
 | [multifunction Sport steering wheel](../../interior/steeringwheels/#the-double-spoke-leather-sports-steering-wheel-option-2fs) | Flat top and bottomed twin-spoke leather | 2FS |
 | [multifunction Sport steering wheel](../../interior/steeringwheels/#the-double-spoke-leather-sports-steering-wheel-option-2fs) | Flat top and bottomed twin-spoke leather | 2FS |
@@ -176,7 +177,7 @@ weight: 100
 
 ## Infotainment
 
-| Title | Description | ID |
+| Tilvalg | Beskrivelse | ID |
 |-----|------|------|
 | [MMI navigation plus with MMI touch](../../technology/uiandoperations/mmi/#mmi-navigation-plus) | Included in PYG/PYH | 7UG |
 | [AR-head up display](../../technology/uiandoperations/headupdisplay/) | Included in PYH  | KS3 |
@@ -190,7 +191,7 @@ weight: 100
 
 ## Radio and sound system
 
-| Title | Description | ID |
+| Tilvalg | Beskrivelse | ID |
 |-----|------|------|
 | [Audi Sound System](../../technology/soundsystem/#audi-sound-system) | Standard | 9VD | 
 | [Sonos Premium Sound system](../../technology/soundsystem/#sonos-sound-system) |  | 9VS | 
@@ -199,7 +200,7 @@ weight: 100
 
 ## Phone and communcation
 
-| Title | Description | ID |
+| Tilvalg | Beskrivelse | ID |
 |-----|------|------|
 | Audi connect Remote & Control for MMI basis |  | EL1 |
 | Audi connect Remote & Control for MMI plus og pro |  | EL5 |
@@ -211,7 +212,7 @@ weight: 100
 
 ## Assistent system
 
-| Title | Description | ID |
+| Tilvalg | Beskrivelse | ID |
 |-----|------|------|
 |  [Speed limiter](../../technology/drivingassistance/speedlimiter/)   |  configurable speed limiter | 8T9 |
 |  [Cruise control with speed limiter](../../technology/drivingassistance/cruisecontrol/)   |  configurable speed limiter | PYJ |
@@ -229,7 +230,7 @@ weight: 100
 
 ## Drivetrain / brakes
 
-| Title | Description | ID |
+| Tilvalg | Beskrivelse | ID |
 |-----|------|------|
 | [Sport suspension](../../drivetrain/suspension/) | Lowered with 15mm | 1JC |
 | [Comfort normal suspension](../../drivetrain/suspension/) | Standard | 6J3 |
@@ -237,7 +238,7 @@ weight: 100
 
 ## Tech / Security
 
-| Title | Description | ID |
+| Tilvalg | Beskrivelse | ID |
 |-----|------|------|
 | Outside sound | Increased security. Standard | GM1 |
 | Manual or automatic emergency call |  | NZ2 |

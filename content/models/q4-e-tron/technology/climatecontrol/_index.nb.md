@@ -5,9 +5,19 @@ description: Audi Q4 e-tron er utstyrt med 1-soners elektronisk klimaanlegg som 
 weight: 10
 ---
 
+Anlegget har følgende egenskaper.
+
+- Elektronisk regulering av lufttemperatur, -mengde og -fordeling
+- Solvarmeavhengig regulering
+- Automatisk omluftregulering
+- Støv- og luktutskillende allergifilter
+- Separat defrosterbryter for raskere avising av front- og siderutene
+
 Kontrollene er plassert rett under MMI-skjermen.
 
 ![AC-kontroll](ac1zonecontrol.jpg "AC-en har et eget kontrollpanel under MMI-skjermen")
+
+## 3-soners klimaanlegg
 
 Som ekstrautstyr kan du bestille et 3-soners klimakontrollsystem.
 
@@ -15,11 +25,11 @@ I front betyr dette at passasjer og sjåfør kan ha individuelt innstilte temper
 
 ![AC-kontroll](ac3zonecontrol.jpg "3-soners klimakontrollsystem med individuell temp for sjåfør/passasjer")
 
-Det gir også passasjeren i baksetet et eget panel hvor de kan justere baksonen.
+3-soners klimanlegg gir passasjerene i baksetet egne luftdyser samt et eget panel hvor de kan justere baksonen.
 
 ![AC-kontroll](rearaccontrol.jpg "AC-en har et separat kontrollpanel for baksetene")
 
-3-soners klimakontrollsystem er en del av klima- og vinterpakken med opsjons-ID **WNW**
+3-soners klimakontrollsystem er en del av klima- og vinterpakken med tilvalgs nr **WNW**
 
 ## Parkeringsklimanlegg
 
