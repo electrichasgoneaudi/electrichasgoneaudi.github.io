@@ -11,7 +11,10 @@ Kjøretøy oppdages i kjørehastighetsområdet opptil 250 km/t (155,3 mph), fotg
 
 Hvis en kollisjon er nært forestående, varsler systemet føreren med visuelle, akustiske og haptiske advarsler basert på et flertrinnsvarslingskonsept. Om nødvendig gir systemet bremsehjelp for å redusere kjøretøyets hastighet eller starter en full bremsing for å unngå kollisjonen under visse omstendigheter. Det iverksettes også tiltak for å beskytte beboerne. Varselblinkene er aktivert, setebeltene er reversibelt forspent, seteposisjonen er optimert, og vinduene og valgfri panoramaglasstak lukkes.
 
-Audi pre sense front er standardutstyr på Audi Q4 e-tron. Alternativ-ID **8J3**
+I videoen under fra ca 2:55 så ser du testing av Pre Sense front og hvordan den unngår ulykker.
 
+{{< youtube 5H-6JjP2gAI >}}
+
+Audi pre sense front er standardutstyr på Audi Q4 e-tron i Norge. Tilvalgs **8J3**
 
 {{% children description="true" depth="1" %}}

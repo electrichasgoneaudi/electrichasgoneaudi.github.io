@@ -11,7 +11,10 @@ weight: 1
 
 If a collision is imminent, the system warns the driver with visual, acoustic and haptic warnings based on a multistage warning concept. If necessary, the system provides braking assistance to reduce vehicle speed or initiates a full brake application to avoid the collision under certain circumstances. Actions are also taken to protect occupants. The hazard warning lights are activated, the seat belts are reversibly pretensioned, the seat position is optimized, and the windows and optional panoramic glass sunroof are closed.
 
-Audi pre sense front is standard equipment on Audi Q4 e-tron. Option ID **8J3**
+In the below video below from 2:55 you see testing of Pre Sense front functionality and see how it prevent accidents
 
+{{< youtube 5H-6JjP2gAI >}}
+
+Audi pre sense front is standard equipment on Audi Q4 e-tron. Option ID **8J3**
 
 {{% children description="true" depth="1" %}}

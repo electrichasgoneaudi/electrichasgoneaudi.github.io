@@ -33,7 +33,7 @@ weight: 1
 | [Collision avoidance assist](collisionavoidanceassist) | standard |
 | [Side assist](sideassist) | option |
 | [Reversing camera](reversingcamera) | option |
-| Turn assist | N/A |
+| [Turn assist](turnassist) | N/A |
 | [Traffic sign recognition](trafficsignrecognition) | option |
 
  Below you find a detailed explanation how each driver assistance functionality works.

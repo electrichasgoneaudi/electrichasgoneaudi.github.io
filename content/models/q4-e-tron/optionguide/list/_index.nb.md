@@ -189,16 +189,16 @@ weight: 100
 | Infotainment pakke | [Audi Phone Box](../../technology/phonebox/), [Audi Smartphone interface](../../technology/uiandoperations/smartphoneinterface/), [12-volt outlet rear](../../technology/connections/), [2 x USB-C rear](../../technology/connections/) | PYX |
 | Infotainment pakke liten |  [Audi Smartphone interface](../../technology/uiandoperations/smartphoneinterface/), [12-volt outlet rear](../../technology/connections/), [2 x USB-C rear](../../technology/connections/)  | PY3 |
 
-## Radio and sound system
+## Radio og høyttalersystemer
 
 | Tilvalg | Beskrivelse | ID |
 |-----|------|------|
 | [Audi Sound System](../../technology/soundsystem/#audi-sound-system) | Standard | 9VD | 
-| [Sonos Premium Sound system](../../technology/soundsystem/#sonos-sound-system) |  | 9VS | 
-| DAB Digital Radio | Standard some markets | QV3 | 
+| [Sonos Premium Sound system](../../technology/soundsystem/#sonos-lydsystem) |  | 9VS | 
+| DAB Digital Radio | Standard some markets | QV3 |
 | MMI Radio Plus |  | 7QD |
 
-## Phone and communcation
+## Telefon og kommunikasjon
 
 | Tilvalg | Beskrivelse | ID |
 |-----|------|------|
@@ -207,26 +207,26 @@ weight: 100
 | Audi Connect navigasjon og infotaiment eSIM 3år connect basispakke |  | IT4 |
 | Audi Connect navigasjon og infotaiment eSIM 3 år connect plus pakke | Included PYG/PYH | IT3 |
 | Bluetooth interface | Standard | 9ZX |
-| [Audi Phone Box](../../technology/phonebox/) | Only in package PYX  | 9ZE |
-| [Audi Smartphone interface](../../technology/uiandoperations/smartphoneinterface/)| Only in PYX/PY3| IU|
+| [Audi Phone Box](../../technology/phonebox/) | Kun PYX  | 9ZE |
+| [Audi Smartphone interface](../../technology/uiandoperations/smartphoneinterface/)| Kun in PYX/PY3| IU|
 
-## Assistent system
+## Assistentsystemer
 
 | Tilvalg | Beskrivelse | ID |
 |-----|------|------|
-|  [Speed limiter](../../technology/drivingassistance/speedlimiter/)   |  configurable speed limiter | 8T9 |
-|  [Cruise control with speed limiter](../../technology/drivingassistance/cruisecontrol/)   |  configurable speed limiter | PYJ |
+| [Hastighetsbegrenser](../../technology/drivingassistance/speedlimiter/)   |  configurable speed limiter | 8T9 |
+| [Cruise control med hastighetsbegrenser](../../technology/drivingassistance/cruisecontrol/)   |  configurable speed limiter | PYJ |
 | [Active lane assist](../../technology/drivingassistance/activelaneassist/) | Standard | 6I3 | 
 | [Collision avoidance assist](../../technology/drivingassistance/collisionavoidanceassist/) | Standard | 4G3 |
 | [Audi Pre Sense Front](../../technology/drivingassistance/presensefront/) | Standard | 8J3 |
-| Parkingystem rear | Standard | 7X1 |
-| [Parking system plus](../../technology/drivingassistance/parkingsystemplus/)| Front sensors | 7X2 |
-| [Reversing camera](../../technology/drivingassistance/reversingcamera/)  |  Rear camera | KA2 |
-|  Assist package |  The package include  [Cruise control with speed limiter](../../technology/drivingassistance/cruisecontrol/) and  [Parking system plus](../../technology/drivingassistance/parkingsystemplus/) | PYK |
-| Assist package plus | The package include  [Adaptive Cruise control with speed limiter](../../technology/drivingassistance/adaptivecruisecontrol/), [Parking system plus](../../technology/drivingassistance/parkingsystemplus/) and [Reversing camera](../../technology/drivingassistance/reversingcamera/) | PYL |
-| Assist package pro | The package include [Adaptivce Cruise Assist](../../technology/drivingassistance/adaptivecruiseassist/),  [Adaptive Cruise control with speed limiter](../../technology/drivingassistance/adaptivecruisecontrol/), [Parking system plus](../../technology/drivingassistance/parkingsystemplus/) and [Reversing camera](../../technology/drivingassistance/reversingcamera/) | PY7 |
-|  Security package plus |  The package include [Side Assist](../../technology/drivingassistance/sideassist/), [exit warning](../../technology/drivingassistance/exitwarning/), [cross traffic assist rear](../../technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](../../technology/drivingassistance/presenserear/). | PYU |
-
+| Parkeringssystem bak | Standard | 7X1 |
+| [Parkeringshjelp plus](../../technology/drivingassistance/parkingsystemplus/)| Front sensors | 7X2 |
+| [Ryggekamera](../../technology/drivingassistance/reversingcamera/)  |  Rear camera | KA2 |
+|  Assistentsystempakke |  Inkluderer  [Cruise control med hastighetsbegrenser](../../technology/drivingassistance/cruisecontrol/) og [Parking system plus](../../technology/drivingassistance/parkingsystemplus/) | PYK |
+| Assistentsystempakke plus | Inkluder  [Adaptive Cruise control med hastighetsbegrenser](../../technology/drivingassistance/adaptivecruisecontrol/), [Parking system plus](../../technology/drivingassistance/parkingsystemplus/) og [Reversing camera](../../technology/drivingassistance/reversingcamera/) | PYL |
+| Assistentsystempakke Pro med ryggekamera  | Inkluderer [Adaptivce Cruise Assist](../../technology/drivingassistance/adaptivecruiseassist/),    [nødstoppassistent](../../technology/drivingassistance/emergencyassist/), [Adaptive Cruise control](../../technology/drivingassistance/adaptivecruisecontrol/), [Parkeringshjelp plus](../../technology/drivingassistance/parkingsystemplus/) og [Ryggekamera](../../technology/drivingassistance/reversingcamera/) | PY7 |
+| Assistentsystempakke Pro med 360 kamera  | Inkluderer [Adaptivce Cruise Assist](../../technology/drivingassistance/adaptivecruiseassist/),[nødstoppassistent](../../technology/drivingassistance/emergencyassist/), [Adaptive Cruise control](../../technology/drivingassistance/adaptivecruisecontrol/), [Parkeringshjelp plus](../../technology/drivingassistance/parkingsystemplus/) og [360 kamera](../../technology/drivingassistance/360camera/) | PY5 |
+|  Sikkerhetspakke plus |  Inkluderer [filskifteassisten](../../technology/drivingassistance/sideassist/), [utstigningsvarsling](../../technology/drivingassistance/exitwarning/), [assistent for kryssende trafikk bak](../../technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](../../technology/drivingassistance/presenserear/). | PYU |
 
 ## Drivetrain / brakes
 

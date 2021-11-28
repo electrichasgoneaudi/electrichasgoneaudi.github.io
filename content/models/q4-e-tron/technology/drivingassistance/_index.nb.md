@@ -28,12 +28,12 @@ En frontradar, ett frontkamera, fire omgivelses-kameraer, to bakradarer og åtte
 | Nattsyn | N/A |
 | [Fartsbegrenser](hastighetsbegrenser) | standard |
 | Parkeringshjelp | N/A |
-| [Cross traffic assist bak](crosstrafficassiststrear) | Tilleggsutstyr |
-| [Exit warning](exitwarning) | Tilleggsutstyr (PYU) |
-| [Hjelp til å unngå kollisjon](hjelp til å unngå kollisjon) | standard |
+| [Assistent for kryssende trafikk bak](crosstrafficassistrear) | Tilleggsutstyr |
+| [Utstigningsvarsling](exitwarning) | Tilleggsutstyr (PYU) |
+| [Unnamanøvreringsassistent](collisionavoidanceassist) | standard |
 | [Sidehjelp](sideassist) | Tilleggsutstyr |
-| [Bryggekamera](ryggekamera) | Tilleggsutstyr |
-| Turn assist | N/A |
+| [Ryggekamera](reversingcamera) | Tilleggsutstyr |
+| [Avkjøringsassistent](turnassist) | Standard |
 | [Trafikkskiltgjenkjenning](trafikkskiltgjenkjenning) | Tilleggsutstyr |
 
  Nedenfor finner du en detaljert forklaring på hvordan hver førerassistansefunksjonalitet fungerer.

@@ -5,11 +5,10 @@ description: Assistent for kryssende trafikk bak advarer føreren om kjøretøye
 weight: 1
 ---
 
-![Cross traffic assist rear](crosstrafficrear.jpg "Cross traffic assist rear")
+![Cross traffic assist rear](crosstrafficrear.jpg "Assistent for kryssende trafikk bak")
 
 Den bruker de bakre radarsensorene til dette. De dekker sonen bak, inkludert kjørefeltene til venstre og høyre bak kjøretøyet. Advarslene er progressive – først vises en visuell advarsel i MMI-displayet (i parkeringsassistentdisplayet). Situasjonen er representert i et virtuelt sett ovenfra og i kameravisningene "bak" og "bakside". Røde piler bak kjøretøyet peker i retningen det er en potensiell fare fra. Hvis føreren ikke reagerer på det visuelle displayet, høres et lydsignal før systemet varsler føreren med et bremsestøt. Dette bidrar til å unngå ulykker ved utkjøring av parkeringsplasser.
 
-Dette er en del av sikkerhetspakken pluss med alternativ-ID **PYU**
-
+Dette er en del av sikkerhetspakken pluss med tilvalgsnummer **PYU**
 
 {{% children description="true" depth="1" %}}
