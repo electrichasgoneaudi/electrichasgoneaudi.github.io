@@ -6,10 +6,9 @@ weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
 
-Både SUV- og Sportback -versjoner imponerer med en ny romslig dimensjon i interiøret og banebrytende løsninger når det gjelder betjenings-, display- og hjelpesystemer. Den forsterkede
-reality-head-up-skjerm forbinder det virtuelle og det virkelige verden på en helt ny måte.
+Både SUV- og Sportback -versjoner imponerer med god innvendig plass og banebrytende løsninger når det gjelder betjenings-, display- og hjelpesystemer. AR head-up-display forbinder det virtuelle og det virkelige verden på en helt ny måte.
 
-Den er basert på MEB -plattformen som Skoda Enyaq og Volkswagen ID4 og ID3.
+Audi Q4 e-tron er basert på MEB -plattformen som deles med Skoda Enyaq og Volkswagen ID4 og ID3.
 
 Verdenspremieren var 14. april 2021.
 
@@ -17,7 +16,7 @@ Verdenspremieren var 14. april 2021.
     <a href="/models/q4-e-tron/variants/variants1.jpg">
         <img src="/models/q4-e-tron/variants/variants1s.jpg" alt="Different variants of Audi Q4 e-tron and Audi Q4 e-tron Sportback" title="Different variants of Audi Q4 e-tron and Audi Q4 e-tron Sportback">
     </a>
-    <figcaption><h4>Different variants of Audi Q4 e-tron and Audi Q4 e-tron Sportback</h4></figcaption>
+    <figcaption><h4>Forskjellige varianter av Audi Q4 e-tron og Audi Q4 e-tron Sportback</h4></figcaption>
 </figure>
 
 De tilgjengelige variantene er
@@ -30,7 +29,7 @@ De tilgjengelige variantene er
 - [Audi Q4 Sportback 40 e-tron](/models/q4-e-tron/variants/#audi-q4-sportback-40-e-tron)
 - [Audi Q4 Sportback 50 e-tron](/models/q4-e-tron/variants/#audi-q4-sportback-50-e-tron-quattro)
 
-Audi Q4 e-tron har et bredt spekter av alternativer og avanserte kjøreteknologier. Her på electrichasgoneaudi.net finner du alle detaljer om Q4 e-tron. Alt fra de forskjellige hjulene å velge mellom, og hvordan det forskjellige kjøreassistentsystemet fungerer.
+Audi Q4 e-tron har et bredt spekter av alternativer og avanserte kjøreteknologier. Her på electrichasgoneaudi.net finner du alle detaljer om Q4 e-tron. Alt fra de forskjellige fargene du kan velge mellom, alle felger og dekk, alle typer seter til hvordan de forskjellige kjøreassistentsystemene fungerer og mye mye mer.
 
 Nedenfor finner du alle detaljene du trenger å vite om Audi Q4 e-tron og Audi Q4 e-tron Sportback
 
