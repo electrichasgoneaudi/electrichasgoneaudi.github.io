@@ -6,7 +6,7 @@ weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
 
-Både SUV- og Sportback -versjoner imponerer med god imnnvendig plass og banebrytende løsninger når det gjelder betjenings-, display- og hjelpesystemer. AR head-up-display forbinder det virtuelle og det virkelige verden på en helt ny måte.
+Både SUV- og Sportback -versjoner imponerer med god innvendig plass og banebrytende løsninger når det gjelder betjenings-, display- og hjelpesystemer. AR head-up-display forbinder det virtuelle og det virkelige verden på en helt ny måte.
 
 Audi Q4 e-tron er basert på MEB -plattformen som deles med Skoda Enyaq og Volkswagen ID4 og ID3.
 
