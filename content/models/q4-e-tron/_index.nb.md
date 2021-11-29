@@ -16,7 +16,7 @@ Verdenspremieren var 14. april 2021.
     <a href="/models/q4-e-tron/variants/variants1.jpg">
         <img src="/models/q4-e-tron/variants/variants1s.jpg" alt="Different variants of Audi Q4 e-tron and Audi Q4 e-tron Sportback" title="Different variants of Audi Q4 e-tron and Audi Q4 e-tron Sportback">
     </a>
-    <figcaption><h4>Different variants of Audi Q4 e-tron and Audi Q4 e-tron Sportback</h4></figcaption>
+    <figcaption><h4>Forskjellige varianter av Audi Q4 e-tron og Audi Q4 e-tron Sportback</h4></figcaption>
 </figure>
 
 De tilgjengelige variantene er
