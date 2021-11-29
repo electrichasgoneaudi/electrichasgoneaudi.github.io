@@ -29,7 +29,7 @@ De tilgjengelige variantene er
 - [Audi Q4 Sportback 40 e-tron](/models/q4-e-tron/variants/#audi-q4-sportback-40-e-tron)
 - [Audi Q4 Sportback 50 e-tron](/models/q4-e-tron/variants/#audi-q4-sportback-50-e-tron-quattro)
 
-Audi Q4 e-tron har et bredt spekter av alternativer og avanserte kjøreteknologier. Her på electrichasgoneaudi.net finner du alle detaljer om Q4 e-tron. Alt fra de forskjellige hjulene å velge mellom til hvordan de forskjellige kjøreassistentsystemene fungerer.
+Audi Q4 e-tron har et bredt spekter av alternativer og avanserte kjøreteknologier. Her på electrichasgoneaudi.net finner du alle detaljer om Q4 e-tron. Alt fra de forskjellige fargene du kan velge mellom, alle felger og dekk, alle typer seter til hvordan de forskjellige kjøreassistentsystemene fungerer og mye mye mer.
 
 Nedenfor finner du alle detaljene du trenger å vite om Audi Q4 e-tron og Audi Q4 e-tron Sportback
 
