@@ -8,5 +8,6 @@ weight: 9
 
 ![USB-C](ports1.jpg "USB-C connections")
 
+![USB-C Rear](usbrear.jpg "USB-C connections in rear")
 
 {{% children description="true" depth="1" %}}
