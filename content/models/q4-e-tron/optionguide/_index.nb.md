@@ -41,9 +41,9 @@ Se detaljer om [MMI Navigation Plus](../technology/uiandoperations/navigation/) 
 
 ## Matrix LED hovedlys
 
-Matrix LED hovedlys får du kraftig forbedret lys på landevei. I tilegg får du den kule røde lysstripen bak. 
+Matrix LED hovedlys får du kraftig forbedret lys på landevei. I tilegg er Matrix Led hovedlys et krav for å få den den kule røde lysstripen bak.
 
-Read more about [Matrix LED Headlights](../technology/lights/#matrix-headlights).
+Les mer om [Matrix LED hovedlys](../technology/lights/#matrix-frontlykter).
 
 ## Assistantpackage Pro: tilvalg PY7
 

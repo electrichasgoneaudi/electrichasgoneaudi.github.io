@@ -41,7 +41,7 @@ See details on [MMI Navigation Plus](../technology/uiandoperations/navigation/) 
 
 ## Matrix LED headlights
 
-With Matrix LED headlights you get much improved lights on country road. In addition you get the cool red stripe in rear.
+With Matrix LED headlights you get much improved lights on country road. In addition Matrix LED headlights is a requirement to get the cool red stripe in rear.
 
 Read more about [Matrix LED Headlights](../technology/lights/#matrix-headlights).
 
