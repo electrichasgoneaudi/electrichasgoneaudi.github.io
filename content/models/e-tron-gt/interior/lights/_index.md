@@ -21,7 +21,7 @@ The following interior lights are standard on Audi e-tron GT
 White lights with option id **QQ1** and multicolor with 30 color options per controllable
 area with option id **QQ2**.
 
-![Ambient lights](ambientligtscontrol.jpg "The lighs are controlled in MMI")
+![Ambient lights](ambientlight_control.jpg "The lighs are controlled in MMI")
 
 The color can change based on your drive mode in [Audi Drive Select](/models/e-tron-gt/technology/audidriveselect/).
 
