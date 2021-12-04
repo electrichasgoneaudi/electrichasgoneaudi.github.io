@@ -88,7 +88,7 @@ weight: 100
 |-----|------|------|
 | [HD Matrix LED lights](/models/e-tron/technology/lights/#hd-matrix-led-headlights) |  | PX6 |
 | Head light washers | Standard | |
-| [Interior light](/models/e-tron/interior/ambientlights/#standard-interior-lights) |  | |
+| [Interior light](/models/e-tron/interior/lights/#standard-interior-lights) |  | |
 | [LED e-tron entry lights](/models/e-tron/technology/lights/#entry-lights) |  | 9TF |
 
 ## Mirror and roof system
@@ -198,8 +198,8 @@ weight: 100
 | [Valnut inlay](/models/e-tron/interior/inlays/)  |  |  5MG |
 | [Aluminum inlay](/models/e-tron/interior/inlays/) | |  5TG |
 | [Carbon inlay](/models/e-tron/interior/inlays/)  |  | 5MK | 
-| [Ambient light package](/models/e-tron/interior/ambientlights/#ambient-light-package) | | QQ1 |
-| [Contour and ambient light](/models/e-tron/interior/ambientlights/#multicolor-contourambient-light-pack) |  | QQ2  |
+| [Ambient light package](/models/e-tron/interior/lights/#ambient-light-package) | | QQ1 |
+| [Contour and ambient light](/models/e-tron/interior/lights/#multicolor-contourambient-light-pack) |  | QQ2  |
 | [Buttons in mat black](/models/e-tron/interior/buttons/) |  |  |
 | [Glass buttons](/models/e-tron/interior/buttons/) |  | GS5 | 
 

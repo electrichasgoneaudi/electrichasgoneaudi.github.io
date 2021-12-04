@@ -43,7 +43,7 @@ Sideassistent er ikke en del av turpakken og er inkludert i to forskjellige assi
 
 Med flerfarget ambientbelysning kommer utseendet og følelsen inne i bilen til en annen planet.
 
-[Se ambientbelysning for å bli overbevist](../interior/ambientlights/)
+[Se ambientbelysning for å bli overbevist](../interior/lights/)
 
 ## Komplett utstyrliste
 

@@ -169,15 +169,15 @@ Audi Q4 e-tron har avanserte lys. Klikk nedenfor for detaljert info.
 
 ## Innvendig utstyr
 
-![Interior options](../../interior/interiorlights/ambientlights.jpg)
+![Interior options](../../interior/lights/ambientlights.jpg)
 
 Audi Q4 e-tron her flere valg på interiør. Kikk nedenfor for detaljert informasjon.
 
 | Utstyr |Beskrivelse | ID |
 |-----|------|------|
-| [Innvendig belysning](../../interior/interiorlights/#standard-interior-lights) | Standard | QQO |
-| [Ambiente lyspakke](../../interior/interiorlights/#ambiente-lyspakke) | hvit | QQ8 |  
-| [Ambiente lyspakke plus](../../interior/interiorlights//#ambiente-lyspakke-plus)| flerfarget | QQ9 |  
+| [Innvendig belysning](../../interior/lights/#standard-interior-lights) | Standard | QQO |
+| [Ambiente lyspakke](../../interior/lights/#ambiente-lyspakke) | hvit | QQ8 |  
+| [Ambiente lyspakke plus](../../interior/lights//#ambiente-lyspakke-plus)| flerfarget | QQ9 |  
 | Innstegslister i aluminium foran med lys  |  | VT4|
 | Setevarme foran | Standard | 4A3 |
 | Ikkerøykerpakke | Standard | 9JA |

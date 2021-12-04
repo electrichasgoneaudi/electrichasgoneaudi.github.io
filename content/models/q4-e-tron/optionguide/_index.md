@@ -59,7 +59,7 @@ Side assist is not part Assistantpackage Pro but is included in the security pac
 
 With multicolor ambient lightning the look and feel inside the car gets to another planet.
 
-[See ambient lightning to get convinced](../interior/interiorlights/)
+[See ambient lightning to get convinced](../interior/lights/)
 
 ## Full option list
 

@@ -59,6 +59,6 @@ Sideassistent er ikke en del av Assistantpackage Pro, men er inkludert i sikkerh
 
 Flerfarget ambientlys løfter det innvendige utseendet og følelsen.
 
-[Se omgivelseslyn for å bli overbevist](../interior/interiorlights/)
+[Se omgivelseslyn for å bli overbevist](../interior/lights/)
 
 {{% children description="true" depth="1" %}}

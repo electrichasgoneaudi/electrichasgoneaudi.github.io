@@ -23,9 +23,9 @@ weight: 100
 |  [Daytona Grey](../../exterior/paint/#daytona-grey) | Metallic, only S/S-line | 6Y |
 |  [Ascari Blue](../../exterior/paint/#ascari-blue) | Metallic  | 9W |
 |  [Audi exclusive indiviudal](../../exterior/paint/#audi-exclusive-paint-colors) | Serveral colors | Q0Q0 |
-|  [Single frame grill in hekla grey](../../exterior/optics/#singleframe-in-hekla-grey) |    | 6HD |
-|  [Single frame grill in body color](../../exterior/optics/#singleframe-in-body-color) |    | 6H1 |
-|  [Single frame grill in polished black](../../exterior/optics/#singleframe-in-polished-black) |    | 6H2 |
+|  [Singleframe grille in hekla grey](../../exterior/optics/#singleframe-in-hekla-grey) |    | 6HD |
+|  [Singleframe grille in body color](../../exterior/optics/#singleframe-in-body-color) |    | 6H1 |
+|  [Singleframe grille in polished black](../../exterior/optics/#singleframe-in-polished-black) |    | 6H2 |
 
 ## Wheels
 
@@ -107,7 +107,7 @@ weight: 100
 
 | Title | Description | ID |
 |-----|------|------|
-| [Heat-absorbing glass](../../exterior/windows/) | Standard | 4KC|
+| [Heat-insulating glass](../../exterior/windows/) | Standard | 4KC|
 | [Windshield in acoustic glass](../../exterior/windows/) |  | 4GK |
 | [Acoustic glass on side windows](../../exterior/windows/)  |  | VW0 |
 | [Privacy glass](../../exterior/windows/#privacy-glass) |  | QL5 |
@@ -149,9 +149,9 @@ weight: 100
 | [Electric adjustment](../../interior/seats/#seat-functionality) | |3L5 |
 | [Electric adjustment with memory](../../interior/seats/#electric-adjustment) | | PV3 |
 | [Heated front seats](../../interior/seats/#seat-heating) |  | 4A3 |
-| [Ventilated seats](../../interior/seats/#ventilated-seats) |  | 4D3 |
-| [Ventilated and massage seats](../../interior/seats/#massage) |  | 4D5 |
-| [Fold-down rear seat back](../../transportation/#trunk) | Standard | |
+| [Ventilated seats](../../interior/seats/#ventilated-seats) | Only with pro seats | 4D3 |
+| [Ventilated and massage seats](../../interior/seats/#massage) | Only with pro seats | 4D5 |
+| [Fold-down rear seat back](../../transportation/#trunk) | Standard 40:20:40 | |
 | ISOFIX and Top Tether for the rear seat | Standard | |
 | ISOFIX front passenger seat | Standard |  |
 
@@ -159,17 +159,16 @@ weight: 100
 
 | Title | Description | ID |
 |-----|------|------|
-| [Dinamica headliner](../../interior/headliner/) |  | 6NC |
-| [Black headliner](../../interior/headliner/)  |  |  6NJ | 
-| [Grey inlay](../../interior/inlays/)  |  |  |
-| [Vulcano ash inlay](../../interior/inlays/) |  | 5MB | 
-| [Valnut inlay](../../interior/inlays/)  |  |  5MG |
-| [Aluminum inlay](../../interior/inlays/) | |  5TG |
-| [Carbon inlay](../../interior/inlays/)  |  | 5MK | 
-| [Ambient light package](../../interior/ambientlights/#ambient-light-package) | | QQ1 |
-| [Contour and ambient light](../../interior/ambientlights/#multicolor-contourambient-light-pack) |  | QQ2  |
+| [Headlining in Dinamica Microfibre](../../interior/headliner/) |  | 6NC |
+| [Headlining in black cloth](../../interior/headliner/)  |  |  6NJ |
+| [Inlays in Graphite Grey](../../interior/inlays/)  |  |  |
+| [Inlays in Walnut Grey-Brown](../../interior/inlays/) |  | 5MT |
+| [Inlays in Carbon Twill](../../interior/inlays/)  |  |  5MG |
+| [Inlays in Palladium silver](../../interior/inlays/) | |  5TG |
+| [Interior lightnin](../../interior/lights/) | | Q00 |
+| [Contour and ambient light](../../interior/lights/#multicolor-contourambient-light-pack) |  | QQ2  |
 | [Buttons in mat black](../../interior/buttons/) |  |  |
-| [Glass buttons](../../interior/buttons/) |  | GS5 | 
+| [Glass buttons](../../interior/buttons/) |  | GS5 |
 
 ## Steering wheels
 
@@ -186,9 +185,8 @@ weight: 100
 
 | Title | Description | ID |
 |-----|------|------|
-| [2-zone climate control](../../technology/climatecontrol/) | Standard |  |
-| [4-zone climate](../../technology/climatecontrol/#4-zone-electronic-climate-control) |  | 9AQ |
-| [Air Quality package](../../technology/airquality/) |  | 2V9 |
+| [3-zone climate control](../../technology/climatecontrol/) | Standard | KH5  |
+| [Air Quality package](../../technology/airquality/) |  | 2V4 |
 | [Parking climate](../../technology/climatecontrol/#auxiliary-air-conditioner) | Standard |  |
 | [Parking climate with extra comfort](../../technology/climatecontrol/#auxiliary-air-conditioner-with-extra-convenience) |  | GA2 |
 

@@ -170,15 +170,15 @@ Audi Q4 e-tron has advanced lights options. Click on each option below to see ex
 
 ## Interior options
 
-![Interior options](../../interior/interiorlights/ambientlights.jpg)
+![Interior options](../../interior/lights/ambientlights.jpg)
 
 Audi Q4 e-tron can be delivered with different interior options. Click on each option below to see examples and detailed info.
 
 | Title | Description | ID |
 |-----|------|------|
-| [Interior lightning](/models/q4-e-tron/interior/interiorlights/#standard-interior-lights) | Standard | QQO |
-| [Ambient lightning](/models/q4-e-tron/interior/interiorlights/#ambient-lights-package) | white | QQ8 |  
-| [Ambient lightning](/models/q4-e-tron/interior/interiorlights/#ambient-light-plus-package)| multicolor | QQ9 |  
+| [Interior lightning](/models/q4-e-tron/interior/lights/#standard-interior-lights) | Standard | QQO |
+| [Ambient lightning](/models/q4-e-tron/interior/lights/#ambient-lights-package) | white | QQ8 |  
+| [Ambient lightning](/models/q4-e-tron/interior/lights/#ambient-light-plus-package)| multicolor | QQ9 |  
 | Front door sill trims with aluminium inlay, illuminated  |  | VT4|
 | Seat heat front | Standard most markeds | 4A3 |
 |  Non-smoker package | Standard | 9JA |
