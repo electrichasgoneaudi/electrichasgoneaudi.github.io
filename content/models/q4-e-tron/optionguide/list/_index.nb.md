@@ -151,8 +151,8 @@ Audi Q4 e-tron har avanserte lys. Klikk nedenfor for detaljert info.
 |-----|------|------|
 | Blanke sidelister rundt vinduer | Vinduslister i eloksert aluminium | 4ZB |
 | [Nedre del av støtfanger og sider av bilen i basis sort antrasitt kunststoff](../../exterior/paint/#basic-paint) |  basic  | 2JB |
-| [Sort optikkpakke](../../exterior/optics/#black-optics) |  | 4ZD |
-| [Sort optikkpakke plus](../../exterior/optics/#black-optics)|  | 4ZP |
+| [Sort optikkpakke](../../exterior/optics/#sort-optikk) |  | 4ZD |
+| [Sort optikkpakke plus](../../exterior/optics/#sort-optikk-pluss)|  | 4ZP |
 | [Forberedelse for tilhengerfeste](../../transportation/#towing-capacity) |  | 1D7 |
 | [Tilhengerfeste](../../transportation/#towing-capacity) | - | 1M6 |
 | Modellbetegnelser og effekt-/teknologi-logoer | - | 2Z8 |
