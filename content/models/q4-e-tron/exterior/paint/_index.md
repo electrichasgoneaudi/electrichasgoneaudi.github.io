@@ -217,6 +217,13 @@ Color code **2L**
     <figcaption><h4>Audi Q4 50 e-tron quattro in typhoon grey metallic with shadow optics and contrast color</h4></figcaption>
 </figure>
 
+<figure>
+    <a href="paint_typhoongrey_5.jpg">
+        <img src="paint_typhoongrey_5s.jpg" alt="Audi Q4 Sportback 50 e-tron quattro in typhoon grey metallic with black optics plus and contrast color" title="Audi Q4 Sportback 50 e-tron quattro in typhoon grey metallic with black optics plus and contrast color">
+    </a>
+    <figcaption><h4>Audi Q4 Sportback 50 e-tron quattro in typhoon grey metallic with black optics plus and contrast color by @auditography</h4></figcaption>
+</figure>
+
  The below footage shows dynamic driving scenes of the Audi Q4 e-tron in the colour Typhoon grey on the streets of Lübeck.
 
 {{< youtube H6yfrwDQ95Q >}}

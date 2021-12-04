@@ -4,9 +4,33 @@ linktitle: Wheels
 description: Audi e-tron GT / Audi RS e-tron GT have serveral wheels to choose from.
 weight: 4
 ---
-
+<!-- markdownlint-disable MD033 -->
 
 The following wheels have been available from Audi to Audi e-tron. Varies for the different markets
+
+## 19" 5 segment aero design
+
+<figure>
+    <a href="wheel_47G_1.jpg">
+        <img src="wheel_47G_1s.jpg" alt="19 inch 5 segment areo design" title="19 inch 5 segment areo design">
+    </a>
+    <figcaption><h4>19 inch 5 segment areo design</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="wheel_47G_2.jpg">
+        <img src="wheel_47G_2s.jpg" alt="19 inch 5 segment areo design" title="19 inch 5 segment areo design">
+    </a>
+    <figcaption><h4>19 inch 5 segment areo design</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="wheel_47G_3.jpg">
+        <img src="wheel_47G_3s.jpg" alt="19 inch 5 segment areo design" title="19 inch 5 segment areo design">
+    </a>
+    <figcaption><h4>19 inch 5 segment areo design</h4></figcaption>
+</figure>
 
 ## 20" 5 double arm offset design, platina grey
 
