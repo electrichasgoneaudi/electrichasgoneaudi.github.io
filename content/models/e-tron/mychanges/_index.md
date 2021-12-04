@@ -21,7 +21,7 @@ Production started in the [Audi Brussels Plant](https://www.google.com/maps/plac
 ### MY2019 - > MY2020 Week 28 2019
 
 - Lidar radar is gone on 2020 model
-- It is possible to adjust charging target on 2020 models in app.
+- It is possible to adjust charging target on 2020 models in app. (made avaialable as an update for most 2019)
 - vin nr has a L as 10 digit for 2020 model example:  WAUZZZGE0**L**B028888
 
 ### MY2020 - > MY2020v2 (build week 49 2019)
