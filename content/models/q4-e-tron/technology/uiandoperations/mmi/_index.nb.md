@@ -15,8 +15,10 @@ Audi Q4 e-tron kommer med MMI Touch som standard. MMI-berøringsskjermen med aku
 
 Den brukes til å styre infotainmentsystemet samt en rekke komfortfunksjoner.
 
-I tillegg tillater den tekstinntasting med håndskrift. I den valgfrie store versjonen kommer skjermen med en 11,6-tommers diagonal og en oppløsning på 1 764 x 824 piksler.
+I tillegg tillater den tekstinntasting med håndskrift. 
 
-Det er den største skjermen i Audi-porteføljen til dags dato og forventes å være tilgjengelig for bestilling i 2022.
+Biler produsert fra uke 52 i 2021 som er bestilt med navigasjon vil få en større 11,6-tommers skjerm med en oppløsning på 1 764 x 824 piksler.
+
+Det er den største skjermen i Audi-porteføljen til dags dato. 
 
 ![Audi MMI](mmi.jpg "Audi MMI touch")
