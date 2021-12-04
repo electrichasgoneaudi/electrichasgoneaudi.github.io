@@ -1,9 +1,22 @@
 ---
-title: Ambient lights
-linktitle: Ambient lights
-description: You can add ambient lights to the car. There are two options.
+title: Interior & ambient lights
+linktitle: Interior & ambient lights
+description: Audi e-tron has some standard interior lights and some additional options.
 weight: 3
 ---
+
+## Standard Interior lights
+
+The following interior lights are standard on Audi e-tron GT
+
+- LED front and rear roof module (white)
+- luggage compartment light, left and right (white)
+- illuminated glove compartment
+- Floor lightning in front/rear
+- Makup mirror with light
+- Ligts in door handles inside
+
+## Ambient Lighting
 
 White lights with option id **QQ1** and multicolor with 30 color options per controllable
 area with option id **QQ2**.
