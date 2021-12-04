@@ -24,7 +24,6 @@ The following wheels have been available from Audi to Audi e-tron. Varies for th
     <figcaption><h4>19 inch 5 segment areo design</h4></figcaption>
 </figure>
 
-
 <figure>
     <a href="wheel_47G_3.jpg">
         <img src="wheel_47G_3s.jpg" alt="19 inch 5 segment areo design" title="19 inch 5 segment areo design">

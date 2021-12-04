@@ -16,6 +16,8 @@ Production started in the [Audi Brussels Plant](https://www.google.com/maps/plac
     <figcaption><h4>Production of Audi e-tron started week 36 2018</h4></figcaption>
 </figure>
 
+- vin nr has a K as 10 digit for 2019 model example: WAUZZZGE2**K**B000783
+
 ### MY2019 - > MY2020 Week 28 2019
 
 - Lidar radar is gone on 2020 model
