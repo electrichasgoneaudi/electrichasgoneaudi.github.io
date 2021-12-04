@@ -153,11 +153,6 @@ Sport og S-line sportsetene har utrekkbar lårstøtte.
     <figcaption><h4>Sportsseter med sort Dynamik stoff (AI) from interiørdesignpakke 4</h4></figcaption>
 </figure>
 
-
-![Sport seats](seats_sport_1.jpg "Sportsseter med sort Dynamik stoff (AI) from interiørdesignpakke 4")
-
-![Sport seats](seats_sport1b.jpg "Sportsseter med sort Dynamik stoff (AI) from interiørdesignpakke 4")
-
 ### Sportsseter med sort skinn opsjon PWE
 
 <figure>
