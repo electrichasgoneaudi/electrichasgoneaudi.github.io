@@ -16,11 +16,13 @@ Produksjonen startet hos [Audi Brussels fabrikken](https://www.google.com/maps/p
     <figcaption><h4>Produksjon av Audi e-tron startet uke 36 2018</h4></figcaption>
 </figur>
 
+- vin nr har en K som 10 siffer for 2019-modell eksempel:: WAUZZZGE2**K**B000783
+
 ### MY2019 - > MY2020 Uke 28 2019
 
 - Lidar-radaren er borte på 2020-modellen
 - Det er mulig å justere lademål på 2020-modeller i app. (senere gjort tilgjengelig for 2019)
-- vin nr har en L som 10 siffer for 2020-modelleksempel: WAUZZZGE0**L**B028888
+- vin nr har en L som 10 siffer for 2020-modell eksempel: WAUZZZGE0**L**B028888
 
 ### MY2020 - > MY2020v2 (bygg uke 49 2019)
 
