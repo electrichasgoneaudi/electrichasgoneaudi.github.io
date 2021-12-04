@@ -1,6 +1,6 @@
 ---
-title: Interior & Ambient lights
-linktitle: Interior & Ambient lights
+title: Interior & ambient lights
+linktitle: Interior & ambient lights
 description: Audi e-tron has some standard interior lights and some additional options.
 weight: 3
 ---

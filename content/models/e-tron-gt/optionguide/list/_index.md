@@ -167,18 +167,14 @@ weight: 100
 | [Inlays in Palladium silver](../../interior/inlays/) | |  5TG |
 | [Interior lightnin](../../interior/lights/) | | Q00 |
 | [Contour and ambient light](../../interior/lights/#multicolor-contourambient-light-pack) |  | QQ2  |
-| [Buttons in mat black](../../interior/buttons/) |  |  |
-| [Glass buttons](../../interior/buttons/) |  | GS5 |
 
 ## Steering wheels
 
 | Title | Description | ID |
 |-----|------|------|
-| [Multifunction with paddles](../../interior/steeringwheels/) | Standard | |
-| [Heated multifunction with paddles](../../interior/steeringwheels/) |  | 2ZM | 
-| [Sport with paddles and heated](../../interior/steeringwheels/) |   | 1XP |
-| [Sport with paddles](../../interior/steeringwheels/)  |  | 1XW |
-| [Sport contour](../../interior/steeringwheels/) |  | 2PF | 
+| [Sport contour flat-bottom leather steering wheel, multi-function plus with heating and shift paddles](../../interior/steeringwheels/) |   | 1XP |
+| [Flat-bottomed 3-spoke Alcantara multi-function plus steering wheel](../../interior/steeringwheels/)  |  | 1XW |
+| [Sport contour 3-spoke leather flat bottom steering wheel, multi-function plus and energy recovery paddles](../../interior/steeringwheels/) |  | 2PF |
 | [Electric adjustment](../../interior/steeringwheels/#adjustment) | | 2C7 |
 
 ## Climate
@@ -188,7 +184,7 @@ weight: 100
 | [3-zone climate control](../../technology/climatecontrol/) | Standard | KH5  |
 | [Air Quality package](../../technology/airquality/) |  | 2V4 |
 | [Parking climate](../../technology/climatecontrol/#auxiliary-air-conditioner) | Standard |  |
-| [Parking climate with extra comfort](../../technology/climatecontrol/#auxiliary-air-conditioner-with-extra-convenience) |  | GA2 |
+| [Parking climate with extra comfort](../../technology/climatecontrol/#auxiliary-air-conditioner-with-extra-convenience) |  | standard |
 
 ## Other interior options
 
@@ -196,60 +192,55 @@ weight: 100
 |-----|------|------|
 | None smoker package |  |  |
 | Sigaret lighter and ash tray |  | 9JC |
-| Entry strips front / rear with aluminum panel,
-without lighting and without logo | Standard |  |
-| Illuminated entry strips front / rear with
-aluminum field, without logo |  | VT3 |
-|Illuminated entry moldings with aluminum panels at the front and back, S-logo on the list in front  | S-line/S-line interior | VT5 |
+| Front and rear door sills with aluminium inlays  | Standard | 7MD  |
+| Illuminated Front and rear door sills with aluminium inlays. e-tron GT logo |  | 7M9 |
+| Illuminated Front and rear door sills with carbon inlays. RS logo  | only RS | VT3 |
 | 12-volt outlet | Front, rear and luggage compartment | Standard | |
-| Storage and luggage compartment package | - Two cup holders in the rear center console <br> - Cladding in the storage compartment in the spare wheel well <br> - Net in the side of the luggage compartment <br /> - Luggage net for transporting objects (luggage straps)  | QE1 | 
-| Separation net for luggage compartment  |  | 3CX |
-| Flexible folding luggage compartment mat  |  | 6SJ |
 
 ## Infotainment
 
 | Title | Description | ID |
 |-----|------|------|
 | [Audi Virtual Cockpit](../../technology/uiandoperations/virtualcockpit/) | Standard |  |
-| [Audi Virtual Cockpit plus](../../technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus) |   | 9S9 |
+| [MMI Navigation plus](../../technology/uiandoperations/mmi/) | Standard  | 7UG   |
 | [Head up display](../../technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus) |  | KS1 |
 | [MMI Radio plus](../../technology/uiandoperations/mmi/)  | Standard |  |
-| [MMI Navigation plus](../../technology/uiandoperations/mmi/) | Standard  |   |
-| [Audi Sound system](../../technology/soundsystem/#audi-sound-system) | Standard  |   | 
-| Audi Connect navigation and infotainment | Standard |   |
+| [Audi Sound system](../../technology/soundsystem/#audi-sound-system) | Standard  | 9VD  | 
 | [Bang & Olufsen Premium sound system](../../technology/soundsystem/#bang--olufsen-sound-system-with-3d-sound) |  | 9VS | 
-| DVD-player |  | 7D5 | 
+| Audi Connect navigation and infotainment | Standard |   |
 | Audi music interface | Standard |   |
-| Audi music interface rear seat |  | UF8 | 
-| Digital Radio |  | QV3 | 
-| Digital TV receiver |  |  QDB | 
-| [Audi Phone Box](../../technology/phonebox/) |  | 9ZE | 
-| [Audi Smartphone interface](../../technology/uiandoperations/smartphoneinterface/) |  |  1U1 | 
-| Bluetooth interface | Standard |  | 
-| Audi connect emergency call |   |  |
+| Audi music interface rear seat |  | UF8 |
+| Digital Radio | Standard  | QV3 |
+| [Audi Phone Box](../../technology/phonebox/) |  | 9ZE |
+| [Audi Smartphone interface](../../technology/uiandoperations/smartphoneinterface/) | Standard |  1U1 |
+| Bluetooth interface | Standard | 9ZX |
+| Audi connect emergency call |   | IW3  |
 
 ## Driver asssist systems
 
 | Title | Description | ID |
 |-----|------|------|
-| Assistantpackage city  | [Crossing assist](../../technology/drivingassistance/crossingassist/), [side assist](../../technology/drivingassistance/sideassist/), [exit warning](../../technology/drivingassistance/exitwarning/), [pre sense rear](../../technology/drivingassistance/presenserear/), [pre sense side](../../technology/drivingassistance/presenseside/), [cross traffic rear](../../technology/drivingassistance/crosstrafficassistrear/) | PCM | 
-| Assistantpackage tour | [Adaptive cruise assist](../../technology/drivingassistance/adaptivecruiseassist/), [Adaptive cruise control](../../technology/drivingassistance/adaptivecruisecontrol/), [efficient assistant](../../technology/drivingassistance/predictiveefficiencyassist/),  [turn assist](../../technology/drivingassistance/turnassist/), [traffic sign recognition](../../technology/drivingassistance/trafficsignrecognition/), [emergency assist](../../technology/drivingassistance/emergencyassist/) | PCC    |
-| [Audi pre sense basic](../../technology/drivingassistance/presensebasic/) | standard |  |
-| [Audi pre sense front](../../technology/drivingassistance/presensefront/) | standard |  |
-| [Cruise control with speed limiter](../../technology/drivingassistance/cruisecontrol/) | standard |  |
+| City Assist Pack  | [Crossing assist](../../technology/drivingassistance/crossingassist/), [side assist](../../technology/drivingassistance/sideassist/), [exit warning](../../technology/drivingassistance/exitwarning/), [pre sense rear](../../technology/drivingassistance/presenserear/), [pre sense side](../../technology/drivingassistance/presenseside/), [cross traffic rear](../../technology/drivingassistance/crosstrafficassistrear/) | PCM | 
+| Tour assist pack | [Adaptive cruise assist](../../technology/drivingassistance/adaptivecruiseassist/), [Adaptive cruise control](../../technology/drivingassistance/adaptivecruisecontrol/), [efficient assistant](../../technology/drivingassistance/predictiveefficiencyassist/),  [turn assist](../../technology/drivingassistance/turnassist/),[emergency assist](../../technology/drivingassistance/emergencyassist/) | PCC    |
+| Assist package plus | Contains City Assist package, Tour assist package, Parking assist package and 360 camera | PCJ |
+| [Audi pre sense front](../../technology/drivingassistance/presensefront/) | standard | 6K8 |
+| [Cruise control with speed limiter](../../technology/drivingassistance/cruisecontrol/) | standard | 8T6  |
+| [Adaptive cruise assist](../../technology/drivingassistance/adaptivecruiseassist/)
+| [Audi Drive select](../../technology/audidriveselect/) | Standard  |  |
+| Light and rain sensor | Standard |   |
 | [Parking system plus](../../technology/drivingassistance/parkingsystemplus/)  |  standard |   |
 | [Park assist](../../technology/drivingassistance/parkingsystemplus/) | | 7X5 |
 | [360 camera](../../technology/drivingassistance/360camera/) |  |  PCZ |
-| [Traffic sign recognition](../../technology/drivingassistance/trafficsignrecognition/) |  |  |
-| Lane assist package |  Includes [side assist](../../technology/drivingassistance/sideassist/), [Exit warning](../../technology/drivingassistance/exitwarning/), [cross traffic rear](../../technology/drivingassistance/crosstrafficassistrear/),  [pre sense rear](../../technology/drivingassistance/presenserear/) | PCH |
+| [Traffic sign recognition](../../technology/drivingassistance/trafficsignrecognition/) | Standard  | QR9  |
+| [Audi active lane assist](../../technology/drivingassistance/activelaneassist/) | Standard |  |
 | [Night vision](../../technology/drivingassistance/nightvision/) |   |  9R1 |
 
 ## Drivertrain & brakes
 
 | Title | Description | ID |
 |-----|------|------|
-| [Adaptive air suspension](../../drivetrain/suspension/) | Standard  | 1BK | 
-| [Adaptive air suspension sport](../../drivetrain/suspension/) |  | 2MB |
+| [Adaptive air suspension](../../drivetrain/suspension/) | Standard RS  | 1BK | 
+| [Damper adjustment](../../drivetrain/suspension/) | Standard GT | 1BH |
 | Quattro | Standard |   |
 | Progressive steering | Standard |  |
 | Disc brakes front and rear |   |   |
@@ -265,6 +256,5 @@ aluminum field, without logo |  | VT3 |
 | [Side Airbags rear](../../technology/safety/#side-airbags-rear)   |     |  4X4 |
 | Button to disable front airbags | For passenger seat, standard |   |
 | [Audi pre-sense rear seat package](../../technology/safety/#audi-pre-sense-back-seat-pacakge) |  | 4X9 |
-
 
 {{% children description="true" depth="1" %}}

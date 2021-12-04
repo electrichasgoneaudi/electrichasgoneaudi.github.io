@@ -25,7 +25,6 @@ All systems use the central driver assistance controller (zFAS), which uses the 
 | [Adaptive Cruise Control with speed limiter](adaptivecruisecontrol) | standard |
 | Crossing/Intersection assist | Option (PCM) |
 | [Cruise control](cruisecontrol) | standard |
-| [Curb warning](curbwarning) | option (PCZ) |
 | [Hold Assist](holdassist) | Standard |
 | [Pre Sense Basic](presensebasic) | option |
 | [Pre Sense front](presensefront) | standard |
@@ -41,7 +40,7 @@ All systems use the central driver assistance controller (zFAS), which uses the 
 | [Side assist](sideassist) | option (PCM) |
 | [Reversing camera](reversingcamera) | option (KA2) |
 | Turn assist | Option  |
-| [Traffic sign recognition](trafficsignrecognition) | option (QR9/PCC) |
+| [Traffic sign recognition](trafficsignrecognition) | standard |
 
 See detailed information about the systems below.
 
