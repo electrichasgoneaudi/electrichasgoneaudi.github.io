@@ -107,11 +107,52 @@ Sport og S-line sportsetene har utrekkbar lårstøtte.
 
 ### Standard seter i beige skinn opsjon PWC
 
-![Standard seats](seats_standard_3.jpg "Standard seter med mono.pur 550 pergament beige skinnr (BH) fra interiørdesignpakke 3")
+<figure>
+    <a href="seats_pwc_1.jpg">
+        <img src="seats_pwc_1s.jpg" alt="Standard seter med mono.pur 550 pergament beige skinnr (BH) fra interiørdesignpakke 3" title="Standard seter med mono.pur 550 pergament beige skinnr (BH) fra interiørdesignpakke 3">
+    </a>
+    <figcaption><h4>Standard seter med mono.pur 550 pergament beige skinnr (BH) fra interiørdesignpakke 3</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="seats_pwc_2.jpg">
+        <img src="seats_pwc_2s.jpg" alt="Standard seter med mono.pur 550 pergament beige skinnr (BH) fra interiørdesignpakke 3" title="Standard seter med mono.pur 550 pergament beige skinnr (BH) fra interiørdesignpakke 3">
+    </a>
+    <figcaption><h4>Standard seter med mono.pur 550 pergament beige skinnr (BH) fra interiørdesignpakke 3</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="seats_pwc_3.jpg">
+        <img src="seats_pwc_3s.jpg" alt="Standard seter med mono.pur 550 pergament beige skinnr (BH) fra interiørdesignpakke 3" title="Standard seter med mono.pur 550 pergament beige skinnr (BH) fra interiørdesignpakke 3">
+    </a>
+    <figcaption><h4>Standard seter med mono.pur 550 pergament beige skinnr (BH) fra interiørdesignpakke 3</h4></figcaption>
+</figure>
 
 ## Sportsseter
 
 ### Sportsseter med dinamica opsjon PWD
+
+<figure>
+    <a href="seats_pwd_1.jpg">
+        <img src="seats_pwd_1s.jpg" alt="Sportsseter med sort Dynamik stoff (AI) from interiørdesignpakke 4" title="Sportsseter med sort Dynamik stoff (AI) from interiørdesignpakke 4">
+    </a>
+    <figcaption><h4>Sportsseter med sort Dynamik stoff (AI) from interiørdesignpakke 4</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="seats_pwd_2.jpg">
+        <img src="seats_pwd_2s.jpg" alt="Sportsseter med sort Dynamik stoff (AI) from interiørdesignpakke 4" title="Sportsseter med sort Dynamik stoff (AI) from interiørdesignpakke 4">
+    </a>
+    <figcaption><h4>Sportsseter med sort Dynamik stoff (AI) from interiørdesignpakke 4</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="seats_pwd_3.jpg">
+        <img src="seats_pwd_3s.jpg" alt="Sportsseter med sort Dynamik stoff (AI) from interiørdesignpakke 4" title="Sportsseter med sort Dynamik stoff (AI) from interiørdesignpakke 4">
+    </a>
+    <figcaption><h4>Sportsseter med sort Dynamik stoff (AI) from interiørdesignpakke 4</h4></figcaption>
+</figure>
+
 
 ![Sport seats](seats_sport_1.jpg "Sportsseter med sort Dynamik stoff (AI) from interiørdesignpakke 4")
 
@@ -119,11 +160,19 @@ Sport og S-line sportsetene har utrekkbar lårstøtte.
 
 ### Sportsseter med sort skinn opsjon PWE
 
-![Sport seats](seats_sport_2.jpg "Sportsseter med mono.pur 550 sort skinn (A0) fra interiørdesignpakke 5")
+<figure>
+    <a href="seats_pwe_1.jpg">
+        <img src="seats_pwe_1s.jpg" alt="Sportsseter med mono.pur 550 sort skinn (A0) fra interiørdesignpakke 5" title="Sportsseter med mono.pur 550 sort skinn (A0) fra interiørdesignpakke 5">
+    </a>
+    <figcaption><h4>Sportsseter med mono.pur 550 sort skinn (A0) fra interiørdesignpakke 5</h4></figcaption>
+</figure>
 
-![Sport seats](seats_sport_4.jpg "Sportsseter med mono.pur 550 sort skinn (A0) fra interiørdesignpakke 5")
-
-![Sport seats](seats_sport_3.jpg "Sportsseter med mono.pur 550 sort skinn (A0) fra interiørdesignpakke 5")
+<figure>
+    <a href="seats_pwe_2.jpg">
+        <img src="seats_pwe_2s.jpg" alt="Sportsseter med mono.pur 550 sort skinn (A0) fra interiørdesignpakke 5" title="Sportsseter med mono.pur 550 sort skinn (A0) fra interiørdesignpakke 5">
+    </a>
+    <figcaption><h4>Sportsseter med mono.pur 550 sort skinn (A0) fra interiørdesignpakke 5</h4></figcaption>
+</figure>
 
 ## S-Line sportsseter
 
