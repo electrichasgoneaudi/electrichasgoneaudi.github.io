@@ -4,6 +4,7 @@ linktitle: Seats & Material
 description: Audi Q4 e-tron have serveral seats options to choose from
 weight: 1
 ---
+<!-- markdownlint-disable MD033 -->
 
 Each seat type have different seat materials in different colors to choose from. Making it possible to the interior just as you like it.
 
@@ -29,15 +30,56 @@ Each seat type have different seat materials in different colors to choose from.
 
 ### Standard seats in black fabric
 
-![Standard seats](seats_standard_fabric_1.jpg "Standard seats in black fabric (AI)")
+<figure>
+    <a href="seats_standard_fabric_1.jpg">
+        <img src="seats_standard_fabric_1s.jpg" alt="Standard seats in black fabric (AI)" title="Standard seats in black fabric (AI)">
+    </a>
+    <figcaption><h4>Standard seats in black fabric (AI)</h4></figcaption>
+</figure>
 
-![Standard seats](seats_standard_fabric_2.jpg "Standard seats in black fabric (AI)")
+<figure>
+    <a href="seats_standard_fabric_2.jpg">
+        <img src="seats_standard_fabric_2s.jpg" alt="Standard seats in black fabric (AI)" title="Standard seats in black fabric (AI)">
+    </a>
+    <figcaption><h4>Standard seats in black fabric (AI)</h4></figcaption>
+</figure>
 
-![Standard seats](seats_standard_fabric_3.jpg "Standard seats in black fabric (AI)")
+<figure>
+    <a href="seats_standard_fabric_3.jpg">
+        <img src="seats_standard_fabric_3s.jpg" alt="Standard seats in black fabric (AI)" title="Standard seats in black fabric (AI)">
+    </a>
+    <figcaption><h4>Standard seats in black fabric (AI)</h4></figcaption>
+</figure>
 
 ### Standard seats in black leather option PWA
 
-![Standard seats](seats_standard_2.jpg "Standard seats in mono.pur 550 black leather (A0) from interior design package 1")
+<figure>
+    <a href="seats_pwa_1.jpg">
+        <img src="seats_pwa_1s.jpg" alt="Standard seats in mono.pur 550 black leather (A0) from interior design package 1" title="Standard seats in mono.pur 550 black leather (A0) from interior design package 1">
+    </a>
+    <figcaption><h4>Standard seats in mono.pur 550 black leather (A0) from interior design package 1</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="seats_pwa_2.jpg">
+        <img src="seats_pwa_2s.jpg" alt="Standard seats in mono.pur 550 black leather (A0) from interior design package 1" title="Standard seats in mono.pur 550 black leather (A0) from interior design package 1">
+    </a>
+    <figcaption><h4>Standard seats in mono.pur 550 black leather (A0) from interior design package 1</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="seats_pwa_3.jpg">
+        <img src="seats_pwa_3s.jpg" alt="Standard seats in mono.pur 550 black leather (A0) from interior design package 1" title="Standard seats in mono.pur 550 black leather (A0) from interior design package 1">
+    </a>
+    <figcaption><h4>Standard seats in mono.pur 550 black leather (A0) from interior design package 1</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="seats_pwa_4.jpg">
+        <img src="seats_pwa_4s.jpg" alt="Standard seats in mono.pur 550 black leather (A0) from interior design package 1" title="Standard seats in mono.pur 550 black leather (A0) from interior design package 1">
+    </a>
+    <figcaption><h4>Standard seats in mono.pur 550 black leather (A0) from interior design package 1</h4></figcaption>
+</figure>
 
 ### Standard seats in brown leather option PWB
 
@@ -45,15 +87,51 @@ Each seat type have different seat materials in different colors to choose from.
 
 ### Standard seats in beige leather option PWC
 
-![Standard seats](seats_standard_3.jpg "Standard seats in mono.pur 550 pergament beige leather (BH) from interior design package 3")
+<figure>
+    <a href="seats_pwc_1.jpg">
+        <img src="seats_pwc_1s.jpg" alt="Standard seats in mono.pur 550 pergament beige leather (BH) from interior design package 3" title="Standard seats in mono.pur 550 pergament beige leather (BH) from interior design package 3">
+    </a>
+    <figcaption><h4>Standard seats in mono.pur 550 pergament beige leather (BH) from interior design package 3</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="seats_pwc_2.jpg">
+        <img src="seats_pwc_2s.jpg" alt="Standard seats in mono.pur 550 pergament beige leather (BH) from interior design package 3" title="Standard seats in mono.pur 550 pergament beige leather (BH) from interior design package 3">
+    </a>
+    <figcaption><h4>Standard seats in mono.pur 550 pergament beige leather (BH) from interior design package 3</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="seats_pwc_3.jpg">
+        <img src="seats_pwc_3s.jpg" alt="Standard seats in mono.pur 550 pergament beige leather (BH) from interior design package 3" title="Standard seats in mono.pur 550 pergament beige leather (BH) from interior design package 3">
+    </a>
+    <figcaption><h4>Standard seats in mono.pur 550 pergament beige leather (BH) from interior design package 3</h4></figcaption>
+</figure>
 
 ## Sport Seats
 
 ### Sport seats with dinamica option PWD
 
-![Sport seats](seats_sport_1.jpg "Sport seats in black Dynamik fabric (AI) from interior design package 4")
+<figure>
+    <a href="seats_pwd_1.jpg">
+        <img src="seats_pwd_1s.jpg" alt="Sport seats in black Dynamik fabric (AI) from interior design package 4" title="Sport seats in black Dynamik fabric (AI) from interior design package 4">
+    </a>
+    <figcaption><h4>Sport seats in black Dynamik fabric (AI) from interior design package 4</h4></figcaption>
+</figure>
 
-![Sport seats](seats_sport1b.jpg "Sport seats in black Dynamik fabric (AI) from interior design package 4")
+<figure>
+    <a href="seats_pwd_2.jpg">
+        <img src="seats_pwd_2s.jpg" alt="Sport seats in black Dynamik fabric (AI) from interior design package 4" title="Sport seats in black Dynamik fabric (AI) from interior design package 4">
+    </a>
+    <figcaption><h4>Sport seats in black Dynamik fabric (AI) from interior design package 4</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="seats_pwd_3.jpg">
+        <img src="seats_pwd_3s.jpg" alt="Sport seats in black Dynamik fabric (AI) from interior design package 4" title="Sport seats in black Dynamik fabric (AI) from interior design package 4">
+    </a>
+    <figcaption><h4>Sport seats in black Dynamik fabric (AI) from interior design package 4</h4></figcaption>
+</figure>
 
 ### Sport seats with black leather option PWE
 
