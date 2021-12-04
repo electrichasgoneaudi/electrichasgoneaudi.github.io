@@ -53,6 +53,8 @@ I kombinasjon med Matrix LED-frontlyktene er det også en spesielt elegant lysl�
 
 ![Baklykt uten matrise](rearwithmatrix2.jpg "Baklykt med matrix med lysslist og 2 ryggelys")
 
+![Sammenligning](rearcomparison.jpg "Illustrasjon som viser forskjell mellom bil med Matrix (topp), og uten matrix (bunn)")
+
 Når bilen låses opp og går ut, spilles det dynamiske lyssekvenser for "forlate hjemmet" og "kommer hjem" i baklysene og frontlysene. Sekvensene i frontlysene varierer avhengig av hvilken kjørelyssignatur som er valgt.
 
 <script src="https://www.audimedia.tv/embed.js" id="amc-video-5582-en"></script>

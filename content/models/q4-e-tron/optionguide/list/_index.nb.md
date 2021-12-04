@@ -92,7 +92,7 @@ Audi Q4 e-tron kan leveres med forskjellgige seter i forskjellige materialer. Kl
 | Interiørpakke 9 | [S-line Sport seter](../../interior/seats/#s-line-sport-seats-with-feinappa-leather-option-pwn) i feinappa skinn| PWN |
 | Røde sømmer fra Audi Sport | Kun i kombinasjon med interiørpakke 8 og 9 | YYB |
 
-## Lights
+## Lys
 
 ![Lights](../../technology/lights/signature3s.jpg)
 
@@ -100,9 +100,9 @@ Audi Q4 e-tron har avanserte lys. Klikk nedenfor for detaljert info.
 
 | Utstyr |Beskrivelse | ID |
 |-----|------|------|
-| [Led headlights](../../technology/lights/#standard-headlights) | Standard | 8IT |
-| [Matrix LED Headlights](../../technology/lights/#matrix-headlights) | Includes Head light washers |PXC |
-| Led rear lights |  | 8VG |
+| [LED hovedlys](../../technology/lights/#standard-headlights) | Standard | 8IT |
+| [Matrix LED hovedlys](../../technology/lights/#matrix-headlights) | Inkluderer ledstripe bak |PXC |
+| Led rear lights | standard. Uten ledstripe bak | 8VG |
 | [High beam assistant](../../technology/lights/#standard-headlights) | For standard headlights | 8G1 |
 | [Head light washers](../../technology/lights/#standard-headlights) | Inlcuded for Matrix | 8X8 |
 
