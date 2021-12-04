@@ -159,16 +159,39 @@ Each seat type have different seat materials in different colors to choose from.
 
 ### S-line seats with Leather and Dinamica option PWM
 
-![S-line Sport seats](seats_pwm_1.jpg "S-line Sport seats with mono.pur 550 leather and Dinamica facbric in black (AI)")
+<figure>
+    <a href="seats_pwm_1.jpg">
+        <img src="seats_pwm_1s.jpg" alt="S-line Sport seats with mono.pur 550 leather and Dinamica facbric in black (AI) from interior design package 8" title="S-line Sport seats with mono.pur 550 leather and Dinamica facbric in black (AI) from interior design package 8">
+    </a>
+    <figcaption><h4>S-line Sport seats with mono.pur 550 leather and Dinamica facbric in black (AI) from interior design package 8</h4></figcaption>
+</figure>
 
-![S-line Sport seats](seats_pwm_2.jpg "S-line Sport seats with mono.pur 550 leather and Dinamica facbric in black (AI)")
-
-![S-line Sport seats](seats_sline_3.jpg "S-line Sport seats with mono.pur 550 leather and Dinamica facbric in black (AI)")
+<figure>
+    <a href="seats_pwm_2.jpg">
+        <img src="seats_pwm_2s.jpg" alt="S-line Sport seats with mono.pur 550 leather and Dinamica facbric in black (AI) from interior design package 8" title="S-line Sport seats with mono.pur 550 leather and Dinamica facbric in black (AI) from interior design package 8">
+    </a>
+    <figcaption><h4>S-line Sport seats with mono.pur 550 leather and Dinamica facbric in black (AI) from interior design package 8</h4></figcaption>
+</figure>
 
 ### S-line Sport seats with Feinappa leather option PWN
 
-![S-line Sport seats](seats_sline_4.jpg "S-line Sport seats with Feinappa leather in black (A0)")
+<figure>
+    <a href="seats_pwn_1.jpg">
+        <img src="seats_pwn_1s.jpg" alt="S-line Sport seats with Feinappa leather in black (A0) from interior design package 9" title="S-line Sport seats with Feinappa leather in black (A0) from interior design package 9">
+    </a>
+    <figcaption><h4>S-line Sport seats with Feinappa leather in black (A0) from interior design package 9</h4></figcaption>
+</figure>
 
-![S-line Sport seats](seats_sline_8.jpg "S-line Sport seats with Feinappa leather in black (A0)")
+<figure>
+    <a href="seats_pwn_2.jpg">
+        <img src="seats_pwn_2s.jpg" alt="S-line Sport seats with Feinappa leather in black (A0) from interior design package 9" title="S-line Sport seats with Feinappa leather in black (A0) from interior design package 9">
+    </a>
+    <figcaption><h4>S-line Sport seats with Feinappa leather in black (A0) from interior design package 9</h4></figcaption>
+</figure>
 
-![S-line Sport seats](seats_sline_9.jpg "S-line Sport seats with Feinappa leather in black (A0)")
+<figure>
+    <a href="seats_pwn_3.jpg">
+        <img src="seats_pwn_3s.jpg" alt="S-line Sport seats with Feinappa leather in black (A0) from interior design package 9" title="S-line Sport seats with Feinappa leather in black (A0) from interior design package 9">
+    </a>
+    <figcaption><h4>S-line Sport seats with Feinappa leather in black (A0) from interior design package 9</h4></figcaption>
+</figure>
