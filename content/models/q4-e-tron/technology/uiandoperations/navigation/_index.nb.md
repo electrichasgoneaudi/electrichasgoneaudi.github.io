@@ -17,6 +17,9 @@ Du kan aktivere Google maps-baserte satellittbilder og Google-basert søk for å
 
 MMI Navigation plus er tilgjengelig i [MMI Navigation Plus-pakken](/models/q4-e-tron/optionguide/list/#infotainment) **PYG** og [MMI Navigation Pro](/models/q4-e-tron /optionguide/list/#infotainment) pakke **PYH**
 
+Biler produsert etter uke 51 2022 med navigasjon vil også få en større 11.6" skjerm i MMI. 
+
+
 - Detaljert ruteinformasjon: forhåndsvisning av kart, valg av alternative ruter, POIer, kjørefeltanbefalinger, motorveiavkjørsler, detaljerte veikryss og mye mer. Bruk av navigasjonsdata for prediktiv og effektiv kjøring
 - Personlig ruteassistanse: når funksjonen er aktivert, overvåker trafikksituasjonen på regelmessige reiseruter - f.eks. mellom hjem og jobb - og tilbyr en ruteberegning for å unngå trafikkork etter en forsinkelse på minst fem minutter
 - Trafikkinformasjon på nett
