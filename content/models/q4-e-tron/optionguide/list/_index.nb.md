@@ -131,8 +131,9 @@ Audi Q4 e-tron har avanserte lys. Klikk nedenfor for detaljert info.
 | Utstyr |Beskrivelse | ID |
 |-----|------|------|
 | Fjernbetjent sentrallås | Standard | 4I7 |
-| Komfortnøkkel | Key less go | 4K5 |
+| [Komfortnøkkel](../../technology/lockingsystems/#komfortnøkkel-pgc) | Key less go | 4K5 |
 | Elektrisk bagasjeromsåpner og lukker |   | 4E6 |
+| Garasjeportåpner |   | VC2 |
 
 ## Glass
 
