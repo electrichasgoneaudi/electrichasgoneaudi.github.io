@@ -5,7 +5,6 @@ description: Here you find the complete option list with link to details about e
 weight: 100
 ---
 
-
 ![Paint colors](../../exterior/paint/paint_tangored_2s.jpg)
 
 ## Paint Color & Paint trim
@@ -240,7 +239,7 @@ weight: 100
 
 | Title | Description | ID |
 |-----|------|------|
-| [Adaptive air suspension](../../drivetrain/suspension/) | Standard RS  | 1BK | 
+| [Adaptive air suspension](../../drivetrain/suspension/) | Standard RS  | 1BK |
 | [Damper adjustment](../../drivetrain/suspension/) | Standard GT | 1BH |
 
 | [All-wheel steering](../../drivetrain/suspension/) |  | PHZ |
@@ -260,7 +259,7 @@ weight: 100
 | [Side Airbags](../../technology/safety/#side-airbags-front) front and rear |  Standard |    |
 | Button to disable front airbags | For passenger seat, standard | 4UF  |
 | e-tron sportsound |  | GM3 |
-| Regulated differensial brakes |   | GH3  | 
+| Regulated differensial brakes |   | GH3  |
 | Electric quattro | Standard | 1X1  |
 
 {{% children description="true" depth="1" %}}
