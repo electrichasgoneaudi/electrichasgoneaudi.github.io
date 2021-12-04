@@ -26,6 +26,7 @@ All systems use the central driver assistance controller (zFAS), which uses the 
 | Crossing/Intersection assist | Option (PCM) |
 | [Cruise control](cruisecontrol) | standard |
 | [Hold Assist](holdassist) | Standard |
+| [Park Assist](parkassist) | Option |
 | [Pre Sense Basic](presensebasic) | option |
 | [Pre Sense front](presensefront) | standard |
 | [Pre Sense rear](presenserear) | option (PCM) |

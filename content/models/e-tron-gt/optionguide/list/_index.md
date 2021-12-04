@@ -55,7 +55,7 @@ weight: 100
 | Heatpump | Standard | 9M3 |
 | [Comfort precondition](../../technology/climatecontrol/#auxiliary-air-conditioner-with-extra-convenience) |  | GA2 |
 | Wallmount with Clip for connect |  | NJ2 |
-| [Extra Charge port](../../technology/onboardcharger/#optional-charge-port) |  | JS1 |
+| [Double Charge port](../../technology/onboardcharger/#optional-charge-port) | Standard  | JS1 |
 | [Charging system compact](../../technology/chargingsystem/#e-tron-charging-system-compact) |  | NW1 |
 | [Charging system connect](../../technology/chargingsystem/#e-tron-charging-system-connect) |  | NW2 |
 | [22 KW charger](../../technology/onboardcharger/#optional-22kw-charger) |  | KB4 |
@@ -231,6 +231,7 @@ weight: 100
 | [Parking system plus](../../technology/drivingassistance/parkingsystemplus/)  |  standard |   |
 | [Park assist](../../technology/drivingassistance/parkingsystemplus/) | | 7X5 |
 | [360 camera](../../technology/drivingassistance/360camera/) |  |  PCZ |
+| [Reversing camera](../../technolog/drivingassistance/reversingcamera/)
 | [Traffic sign recognition](../../technology/drivingassistance/trafficsignrecognition/) | Standard  | QR9  |
 | [Audi active lane assist](../../technology/drivingassistance/activelaneassist/) | Standard |  |
 | [Night vision](../../technology/drivingassistance/nightvision/) |   |  9R1 |
@@ -241,10 +242,14 @@ weight: 100
 |-----|------|------|
 | [Adaptive air suspension](../../drivetrain/suspension/) | Standard RS  | 1BK | 
 | [Damper adjustment](../../drivetrain/suspension/) | Standard GT | 1BH |
-| Quattro | Standard |   |
-| Progressive steering | Standard |  |
+
+| [All-wheel steering](../../drivetrain/suspension/) |  | PHZ |
 | Disc brakes front and rear |   |   |
-| Disc brakes front and rear with orange painted brake calipers |  | PC2/PC4 |
+| Carbid brakes with black calipers |   | PC1  |
+| Carbid brakes with orange calipers |   | PC2  |
+| Carbid brakes with red calipers |   | PC3  |
+| Ceramic brakes with grey calipers |   | PC5  |
+| Ceramic brakes with red calipers |   | PC6  |
 
 ## Tech / Security
 
@@ -252,9 +257,10 @@ weight: 100
 |-----|------|------|
 | [Front airbags](../../technology/safety/#front-airbags) | Standard for front  |   |
 | [Head airbags](../../technology/safety/#head-airbags) | Standard for front and rear |  |
-| [Side Airbags](../../technology/safety/#side-airbags-front) front |  Standard |    |
-| [Side Airbags rear](../../technology/safety/#side-airbags-rear)   |     |  4X4 |
-| Button to disable front airbags | For passenger seat, standard |   |
-| [Audi pre-sense rear seat package](../../technology/safety/#audi-pre-sense-back-seat-pacakge) |  | 4X9 |
+| [Side Airbags](../../technology/safety/#side-airbags-front) front and rear |  Standard |    |
+| Button to disable front airbags | For passenger seat, standard | 4UF  |
+| e-tron sportsound |  | GM3 |
+| Regulated differensial brakes |   | GH3  | 
+| Electric quattro | Standard | 1X1  |
 
 {{% children description="true" depth="1" %}}
