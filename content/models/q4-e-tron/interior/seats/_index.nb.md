@@ -4,6 +4,7 @@ linktitle: Seter
 description: Audi Q4 e-tron har flere forskjellige sete & materialvalg opsjoner å velge mellom
 weight: 1
 ---
+<!-- markdownlint-disable MD033 -->
 
 Hver setetype har forskjellige setematerialer i forskjellige farger å velge mellom. Gjør det mulig for interiøret akkurat slik du liker det.
 
@@ -25,19 +26,80 @@ Hver setetype har forskjellige setematerialer i forskjellige farger å velge mel
 |Lengdejustering nakkestøtte| N/A | N/A | N/A |
 |Baksete splitt | 40:60 (40:20:40 option) | 40:20:40 | 40:20:40 |
 
+### Lårstøtte
+
+Sport og S-line sportsetene har utrekkbar lårstøtte.
+
+<figure>
+    <a href="thig_support_1.jpg">
+        <img src="thig_support_1s.jpg" alt="Extending thig support" title="Extending thig support">
+    </a>
+    <figcaption><h4>Lårstøtte</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="thig_support_2.jpg">
+        <img src="thig_support_2s.jpg" alt="Extending thig support" title="Extending thig support">
+    </a>
+    <figcaption><h4>Lårstøtte</h4></figcaption>
+</figure>
+
 ## Standard seter
 
 ### Standard seter i sort stoff
 
-![Standard seats](seats_standard_fabric_1.jpg "Standard seter i sort stoff (AI)")
+<figure>
+    <a href="seats_standard_fabric_1.jpg">
+        <img src="seats_standard_fabric_1s.jpg" alt="Standard seter i sort stoff (AI)" title="Standard seter i sort stoff (AI)">
+    </a>
+    <figcaption><h4>Standard seter i sort stoff (AI)</h4></figcaption>
+</figure>
 
-![Standard seats](seats_standard_fabric_2.jpg "Standard seter i sort stoff (AI)")
+<figure>
+    <a href="seats_standard_fabric_2.jpg">
+        <img src="seats_standard_fabric_2s.jpg" alt="Standard seter i sort stoff (AI)" title="Standard seter i sort stoff (AI)">
+    </a>
+    <figcaption><h4>Standard seter i sort stoff (AI)</h4></figcaption>
+</figure>
 
-![Standard seats](seats_standard_fabric_3.jpg "Standard seter i sort stoff (AI)")
+<figure>
+    <a href="seats_standard_fabric_3.jpg">
+        <img src="seats_standard_fabric_3s.jpg" alt="Standard seter i sort stoff (AI)" title="Standard seter i sort stoff (AI)">
+    </a>
+    <figcaption><h4>Standard seter i sort stoff (AI)</h4></figcaption>
+</figure>
 
 ### Standard seter med sort skinn opsjon PWA
 
-![Standard seats](seats_standard_2.jpg "Standard seter med mono.pur 550 sort skinn (A0) fra interiørdesignpakke 1")
+
+<figure>
+    <a href="seats_pwa_1.jpg">
+        <img src="seats_pwa_1s.jpg" alt="Standard seter med mono.pur 550 sort skinn (A0) fra interiørdesignpakke 1" title="Standard seter med mono.pur 550 sort skinn (A0) fra interiørdesignpakke 1">
+    </a>
+    <figcaption><h4>Standard seter med mono.pur 550 sort skinn (A0) fra interiørdesignpakke 1</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="seats_pwa_2.jpg">
+        <img src="seats_pwa_2s.jpg" alt="Standard seter med mono.pur 550 sort skinn (A0) fra interiørdesignpakke 1" title="Standard seter med mono.pur 550 sort skinn (A0) fra interiørdesignpakke 1">
+    </a>
+    <figcaption><h4>Standard seter med mono.pur 550 sort skinn (A0) fra interiørdesignpakke 1</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="seats_pwa_3.jpg">
+        <img src="seats_pwa_3s.jpg" alt="Standard seter med mono.pur 550 sort skinn (A0) fra interiørdesignpakke 1" title="Standard seter med mono.pur 550 sort skinn (A0) fra interiørdesignpakke 1">
+    </a>
+    <figcaption><h4>Standard seter med mono.pur 550 sort skinn (A0) fra interiørdesignpakke 1</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="seats_pwa_4.jpg">
+        <img src="seats_pwa_4s.jpg" alt="Standard seter med mono.pur 550 sort skinn (A0) fra interiørdesignpakke 1" title="Standard seter med mono.pur 550 sort skinn (A0) fra interiørdesignpakke 1">
+    </a>
+    <figcaption><h4>Standard seter med mono.pur 550 sort skinn (A0) fra interiørdesignpakke 1</h4></figcaption>
+</figure>
+
 
 ### Standard seter med brunt skinn opsjon PWB
 
@@ -71,9 +133,26 @@ Hver setetype har forskjellige setematerialer i forskjellige farger å velge mel
 
 ### S-line sportsseter med skinn edition one
 
-![S-line Sport seats](seats_sline_5.jpg "S-line Sport seats with mono.pur 550 leather and facbric in grey (FS) on edition one")
+<figure>
+    <a href="seats_pfr_1.jpg">
+        <img src="seats_pfr_1s.jpg" alt="S-line sportsseter med skinn edition one" title="S-line sportsseter med skinn edition one">
+    </a>
+    <figcaption><h4>S-line sportsseter med skinn edition one</h4></figcaption>
+</figure>
 
-![S-line Sport seats](seats_sline_6.jpg "S-line Sport seats with mono.pur 550 leather and facbric in grey (FS) on edition one")
+<figure>
+    <a href="seats_pfr_2.jpg">
+        <img src="seats_pfr_2s.jpg" alt="S-line sportsseter med skinn edition one" title="S-line sportsseter med skinn edition one">
+    </a>
+    <figcaption><h4>S-line sportsseter med skinn edition one</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="seats_pfr_3.jpg">
+        <img src="seats_pfr_3s.jpg" alt="S-line sportsseter med skinn edition one" title="S-line sportsseter med skinn edition one">
+    </a>
+    <figcaption><h4>S-line sportsseter med skinn edition one</h4></figcaption>
+</figure>
 
 ### S-line sportsseter med skinn opsjon  PWL
 
@@ -81,16 +160,39 @@ Hver setetype har forskjellige setematerialer i forskjellige farger å velge mel
 
 ### S-line sportsseter med skinn og Dinamica optsjon PWM
 
-![S-line Sport seats](seats_pwm_1.jpg "S-line sportsseter med mono.pur 550 skinn og Dinamica stoff i sort (AI)")
+<figure>
+    <a href="seats_pwm_1.jpg">
+        <img src="seats_pwm_1s.jpg" alt="S-line sportsseter med mono.pur 550 skinn og Dinamica stoff i sort (AI) fra interiørdesignpakke 8" title="S-line sportsseter med mono.pur 550 skinn og Dinamica stoff i sort (AI) fra interiørdesignpakke 8">
+    </a>
+    <figcaption><h4>S-line sportsseter med mono.pur 550 skinn og Dinamica stoff i sort (AI) fra interiørdesignpakke 8</h4></figcaption>
+</figure>
 
-![S-line Sport seats](seats_pwm_2.jpg "S-line sportsseter med mono.pur 550 skinn og Dinamica stoff i sort (AI)")
-
-![S-line Sport seats](seats_sline_3.jpg "S-line sportsseter med mono.pur 550 skinn og Dinamica stoff i sort (AI)")
+<figure>
+    <a href="seats_pwm_2.jpg">
+        <img src="seats_pwm_2s.jpg" alt="S-line sportsseter med mono.pur 550 skinn og Dinamica stoff i sort (AI) fra interiørdesignpakke 8" title="S-line sportsseter med mono.pur 550 skinn og Dinamica stoff i sort (AI) fra interiørdesignpakke 8">
+    </a>
+    <figcaption><h4>S-line sportsseter med mono.pur 550 skinn og Dinamica stoff i sort (AI) fra interiørdesignpakke 8</h4></figcaption>
+</figure>
 
 ### S-line sportsseter med Feinappa skinn opsjon PWN
 
-![S-line Sport seats](seats_sline_4.jpg "S-line sportsseter med Feinappa skinn i sort (A0)")
+<figure>
+    <a href="seats_pwn_1.jpg">
+        <img src="seats_pwn_1s.jpg" alt="S-line sportsseter med Feinappa skinn i sort (A0) fra interiørdesignpakke 9" title="S-line sportsseter med Feinappa skinn i sort (A0) fra interiørdesignpakke 9">
+    </a>
+    <figcaption><h4>S-line sportsseter med Feinappa skinn i sort (A0) fra interiørdesignpakke 9</h4></figcaption>
+</figure>
 
-![S-line Sport seats](seats_sline_8.jpg "S-line sportsseter med Feinappa skinn i sort (A0)")
+<figure>
+    <a href="seats_pwn_2.jpg">
+        <img src="seats_pwn_2s.jpg" alt="S-line sportsseter med Feinappa skinn i sort (A0) fra interiørdesignpakke 9" title="S-line sportsseter med Feinappa skinn i sort (A0) fra interiørdesignpakke 9">
+    </a>
+    <figcaption><h4>S-line sportsseter med Feinappa skinn i sort (A0) fra interiørdesignpakke 9</h4></figcaption>
+</figure>
 
-![S-line Sport seats](seats_sline_9.jpg "S-line sportsseter med Feinappa skinn i sort (A0)")
+<figure>
+    <a href="seats_pwn_3.jpg">
+        <img src="seats_pwn_3s.jpg" alt="S-line sportsseter med Feinappa skinn i sort (A0) fra interiørdesignpakke 9" title="S-line sportsseter med Feinappa skinn i sort (A0) fra interiørdesignpakke 9">
+    </a>
+    <figcaption><h4>S-line sportsseter med Feinappa skinn i sort (A0) fra interiørdesignpakke 9</h4></figcaption>
+</figure>

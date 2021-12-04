@@ -26,6 +26,22 @@ Each seat type have different seat materials in different colors to choose from.
 |Adjustment of headrest distance| N/A | N/A | N/A |
 |Rear seat split | 40:60 (40:20:40 option) | 40:20:40 | 40:20:40 |
 
+### Extending thigh support
+
+<figure>
+    <a href="thig_support_1.jpg">
+        <img src="thig_support_1s.jpg" alt="Extending thig support" title="Extending thig support">
+    </a>
+    <figcaption><h4>Extending thig support - In</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="thig_support_2.jpg">
+        <img src="thig_support_2s.jpg" alt="Extending thig support" title="Extending thig support">
+    </a>
+    <figcaption><h4>Extending thig support - Out</h4></figcaption>
+</figure>
+
 ## Standard Seats
 
 ### Standard seats in black fabric
@@ -149,9 +165,26 @@ Each seat type have different seat materials in different colors to choose from.
 
 ### S-line seats with Leather edition one
 
-![S-line Sport seats](seats_sline_5.jpg "S-line Sport seats with mono.pur 550 leather and facbric in grey (FS) on edition one")
+<figure>
+    <a href="seats_pfr_1.jpg">
+        <img src="seats_pfr_1s.jpg" alt="S-line Sport seats with mono.pur 550 leather and facbric in grey (FS) on edition one" title="S-line Sport seats with mono.pur 550 leather and facbric in grey (FS) on edition one">
+    </a>
+    <figcaption><h4>S-line Sport seats with mono.pur 550 leather and facbric in grey (FS) on edition one</h4></figcaption>
+</figure>
 
-![S-line Sport seats](seats_sline_6.jpg "S-line Sport seats with mono.pur 550 leather and facbric in grey (FS) on edition one")
+<figure>
+    <a href="seats_pfr_2.jpg">
+        <img src="seats_pfr_2s.jpg" alt="S-line Sport seats with mono.pur 550 leather and facbric in grey (FS) on edition one" title="S-line Sport seats with mono.pur 550 leather and facbric in grey (FS) on edition one">
+    </a>
+    <figcaption><h4>S-line Sport seats with mono.pur 550 leather and facbric in grey (FS) on edition one</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="seats_pfr_3.jpg">
+        <img src="seats_pfr_3s.jpg" alt="S-line Sport seats with mono.pur 550 leather and facbric in grey (FS) on edition one" title="S-line Sport seats with mono.pur 550 leather and facbric in grey (FS) on edition one">
+    </a>
+    <figcaption><h4>S-line Sport seats with mono.pur 550 leather and facbric in grey (FS) on edition one</h4></figcaption>
+</figure>
 
 ### S-line seats with Leather option PWL
 
