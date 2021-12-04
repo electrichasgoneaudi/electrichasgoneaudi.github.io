@@ -86,3 +86,10 @@ The black optics package contains gloss black front, rails and window rims. Opti
     </a>
     <figcaption><h4>Audi Q4 Sportback 40 e-tron quattro in Aurora Violett with black optics</h4></figcaption>
 </figure>
+
+
+## Black optics plus
+
+In addition to the black element in black optics package the Audi logo rings is black in rear and bronze in front.
+
+![Black rings rear](blackringsrear.jpg "Black rings rear @auditography")

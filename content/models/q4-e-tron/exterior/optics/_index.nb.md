@@ -84,4 +84,6 @@ Sort optikk pakken inneholder glansfarget sort grill, rails og vinduskanter. Opt
 
 ## Sort Optikk Pluss
 
-Sort optikk pluss gir i tillegg til detaljene i sort optikk pakken over sorte Audi ringer bak og bronse ringer foran. 
+Sort optikk pluss gir i tillegg til detaljene i sort optikk pakken over sorte Audi ringer bak og bronse ringer foran.
+
+![Black rings rear](blackringsrear.jpg "Sorte ringer bak @auditography")
