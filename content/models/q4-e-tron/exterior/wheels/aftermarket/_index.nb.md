@@ -9,21 +9,21 @@ weight: 4
 
 <figure>
     <a href="vossenhf2_1.jpg">
-        <img src="vossenhf2_1s.jpg" alt="21-inch Vossen HF2 9.5 inch wide" title="21-inch Vossen HF2 9.5 inch wide">
+        <img src="vossenhf2_1s.jpg" alt="21 x 9.5 Vossen HF2 with 255/40 Tires" title="21 x 9.5 Vossen HF2 with 255/40 Tires">
     </a>
-    <figcaption><h4>21-inch Vossen HF2 9.5 inch wide</h4></figcaption>
+    <figcaption><h4>21 x 9.5 Vossen HF2 with 255/40 Tires</h4></figcaption>
 </figure>
 
 <figure>
     <a href="vossenhf2_2.jpg">
-        <img src="vossenhf2_2s.jpg" alt="21-inch Vossen HF2 9.5 inch wide" title="21-inch Vossen HF2 9.5 inch wide">
+        <img src="vossenhf2_2s.jpg" alt="21 x 9.5 Vossen HF2 with 255/40 Tires" title="21 x 9.5 Vossen HF2 with 255/40 Tires">
     </a>
-    <figcaption><h4>21-inch Vossen HF2 9.5 inch wide</h4></figcaption>
+    <figcaption><h4>21 x 9.5 Vossen HF2 with 255/40 Tires</h4></figcaption>
 </figure>
 
 <figure>
     <a href="vossenhf2_3.jpg">
-        <img src="vossenhf2_3s.jpg" alt="21-inch Vossen HF2 9.5 inch wide" title="21-inch Vossen HF2 9.5 inch wide">
+        <img src="vossenhf2_3s.jpg" alt="21 x 9.5 Vossen HF2 with 255/40 Tires" title="21 x 9.5 Vossen HF2 with 255/40 Tires">
     </a>
-    <figcaption><h4>21-inch Vossen HF2 9.5 inch wide</h4></figcaption>
+    <figcaption><h4>21 x 9.5 Vossen HF2 with 255/40 Tires</h4></figcaption>
 </figure>
