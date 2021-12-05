@@ -16,6 +16,8 @@ They are only active when ignition is on.
 
 ![12 volt in fron](12voltrear.jpg "12-volt outlet rear")
 
+![12 volt in fron](12voltluggage.jpg "12-volt outlet luggage room")
+
 ## Audi Music interface front
 
 Audi music interface is standard in front. 

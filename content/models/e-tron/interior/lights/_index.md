@@ -20,6 +20,8 @@ The following interior lights are standard on Audi e-tron
 
 ![LED front and rear roof module](interiorlights1.jpg "LED front roof module")
 
+![Audi e-tron luggage room light](interiorlights2.jpg "Luggage room lights")
+
 ## Ambient light package
 
 White lights with option id **QQ1** gives you
