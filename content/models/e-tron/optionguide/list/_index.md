@@ -231,14 +231,12 @@ weight: 100
 |-----|------|------|
 | None smoker package |  |  |
 | Sigaret lighter and ash tray |  | 9JC |
-| Entry strips front / rear with aluminum panel,
-without lighting and without logo | Standard |  |
-| Illuminated entry strips front / rear with
-aluminum field, without logo |  | VT3 |
-|Illuminated entry moldings with aluminum panels at the front and back, S-logo on the list in front  | S-line/S-line interior | VT5 |
+| [Entry strips front / rear with aluminum panel, without lighting and without logo](../../exterior/doors/#door-inlays) | Standard |  |
+| [Illuminated entry strips front / rear with aluminum field, without logo](../../exterior/doors/#door-inlays) |  | VT3 |
+| [Illuminated entry moldings with aluminum panels at the front and back, S-logo on the list in front](../../exterior/doors/#door-inlays)  | S-line/S-line interior | VT5 |
 | 12-volt outlet | Front, rear and luggage compartment | Standard | |
-| Storage and luggage compartment package | - Two cup holders in the rear center console <br> - Cladding in the storage compartment in the spare wheel well <br> - Net in the side of the luggage compartment <br /> - Luggage net for transporting objects (luggage straps)  | QE1 | 
-| Separation net for luggage compartment  |  | 3CX |
+| Storage and luggage compartment package | - Two cup holders in the rear center console <br> - Cladding in the storage compartment in the spare wheel well <br> - [Net in the side of the luggage compartment](../../transportation/#storage-and-luggage-compartment-package) <br /> - Luggage net for transporting objects (luggage straps)  | QE1 | 
+| [Separation net for luggage compartment](../../transportation/#luggage-compartment-seperation-net)  |  | 3CX |
 | Flexible folding luggage compartment mat  |  | 6SJ |
 
 ## Infotainment

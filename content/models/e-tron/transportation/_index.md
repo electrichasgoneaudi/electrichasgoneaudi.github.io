@@ -27,6 +27,15 @@ The option id is **3CX**
 
 ![Net](net4.jpg "Net")
 
+
+### Storage and luggage compartment package
+
+You can order Audi e-tron with storage and luggage compartment package.
+
+This contains the following.
+
+![Storage and luggage compartment package](qe1_1s.jpg "Net in the side of the luggage compartment and luggage net for transporting objects")
+
 ## Frunk
 
 ![Trunk](frunk_1.jpg "Trunk Audi e-tron")

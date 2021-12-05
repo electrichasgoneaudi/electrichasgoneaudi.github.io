@@ -233,12 +233,12 @@ weight: 100
 |-----|------|------|
 | Ikkerøykerpakke | Standard  |  |
 | Sigarettenner og askebeger| To sigarettennere (12 volt) samt uttakbart askebeger i koppholderne foran. | 9JC |
-| Innstigningslister foran/bak med aluminiumsfelt, uten belysning og uten logo | Standard |  |
-|Belyste innstigningslister foran/bak med aluminiumsfelt, uten logo |  | VT3 |
-|Belyste innstigningslister med aluminiumsfelt foran og bak, S-logo på listen foran  | S-line/S-line interior | VT5 |
-| 12-volts stikkontakt | Front, rear and luggage compartment | Standard | |
+| [Innstigningslister foran/bak med aluminiumsfelt, uten belysning og uten logo](../../exterior/doors/#innstegslister) | Standard |  |
+| [Belyste innstigningslister foran/bak med aluminiumsfelt, uten logo](../../exterior/doors/#innstegslister) |  | VT3 |
+| [Belyste innstigningslister med aluminiumsfelt foran og bak, S-logo på listen foran](../../exterior/doors/#innstegslister)  | S-line/S-line interior | VT5 |
+| [12-volts stikkontakt](../../technology/connections/) | Front, rear and luggage compartment | Standard | |
 | Oppbevarings- og bagasjeromspakke | - To koppholdere i midtkonsollen bak <br> - Kledning i oppbevaringsrommet i reservehjulsbrønnen<br> - Nett i siden av bagasjerommet <br /> - Bagasjenett til transport av gjenstander (bagasjestropper)  | QE1 |
-| Skillenett for bagasjerom  |  | 3CX |
+| [Skillenett for bagasjerom](../../transportation/#separasjonsnett-for-bagasjerom)  |  | 3CX |
 | Fleksibelt sammenleggbar bagasjeromsmatte  |  | 6SJ |
 | Bagasjeromstildekning | Manuell bagasjeromstildekning. Kan tas ut og oppbevares i bilen. | |
 

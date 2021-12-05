@@ -1,6 +1,6 @@
 ---
-title: Transportevner 
-linktitle: Transportevner 
+title: Transportkapasitet 
+linktitle: Transportkapasitet 
 description: I tillegg til de 5 setene har e-tron både bagasjerom og frunk i tillegg til takoppbevaring og tilhengermuligheter.
 weight: 6
 ---
@@ -25,6 +25,14 @@ Alternativ-IDen er **3CX**
 ![Net](net3.jpg "Net")
 
 ![Net](net4.jpg "Net")
+
+### Oppbevarings- og bagasjeromspakke
+
+Du kan bestille Audi e-tron med oppbevarings- og bagasjeromspakke
+
+Den inneholder følgende.
+
+![Storage and luggage compartment package](qe1_1s.jpg "Nett i siden av bagasjerommet og bagasjenett til transport av gjenstander")
 
 ## Frunk
 
