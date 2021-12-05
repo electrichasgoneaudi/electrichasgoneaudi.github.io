@@ -135,8 +135,6 @@ This is the only non metallic pain available. Color code **C2**
     <figcaption><h4>Audi Q4 50 e-tron Sportback in Pebblestone grey with standard optics and full body paint</h4></figcaption>
 </figure>
 
-
-
 ### Geyser Blue
 
 Color code **5Y**
@@ -171,15 +169,12 @@ Color code **5Y**
     <figcaption><h4>Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color</h4></figcaption>
 </figure>
 
-
 <figure>
     <a href="paint_geyserblue_5.jpg">
         <img src="paint_geyserblue_5s.jpg" alt="Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color" title="Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color</h4></figcaption>
 </figure>
-
-
 
 The below footage shows dynamic driving scenes of the Audi Q4 Sportback e-tron in the colour Geyser blue on the streets of Lübeck.
 
@@ -221,7 +216,14 @@ Color code **2L**
     <a href="paint_typhoongrey_5.jpg">
         <img src="paint_typhoongrey_5s.jpg" alt="Audi Q4 Sportback 50 e-tron quattro in typhoon grey metallic with black optics plus and contrast color" title="Audi Q4 Sportback 50 e-tron quattro in typhoon grey metallic with black optics plus and contrast color">
     </a>
-    <figcaption><h4>Audi Q4 Sportback 50 e-tron quattro in typhoon grey metallic with black optics plus and contrast color by @auditography</h4></figcaption>
+    <figcaption><h4>Audi Q4 Sportback 50 e-tron quattro in typhoon grey metallic with shadow optics plus and manhatten contrast color by @auditography</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_typhoongrey_6.jpg">
+        <img src="paint_typhoongrey_6s.jpg" alt="Audi Q4 Sportback 50 e-tron quattro in typhoon grey metallic with black optics plus and contrast color" title="Audi Q4 Sportback 50 e-tron quattro in typhoon grey metallic with black optics plus and contrast color">
+    </a>
+    <figcaption><h4>Audi Q4 Sportback 50 e-tron quattro in typhoon grey metallic with shadow optics plus and manhatten contrast color by @auditography</h4></figcaption>
 </figure>
 
  The below footage shows dynamic driving scenes of the Audi Q4 e-tron in the colour Typhoon grey on the streets of Lübeck.
