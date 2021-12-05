@@ -19,6 +19,8 @@ Følgende interiørlys er standard på Audi e-tron
 
 ![LED-takmodul foran ](interiorlights1.jpg "LED-takmodul foran")
 
+![Audi e-tron luggage room light](interiorlights2.jpg "Lys bagasjerom")
+
 ## Ambientelyspakke
 
 Hvite lys med alternativ-ID **QQ1** gir deg

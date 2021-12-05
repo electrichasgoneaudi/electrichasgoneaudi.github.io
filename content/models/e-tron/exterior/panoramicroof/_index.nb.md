@@ -23,4 +23,6 @@ Du kan bestille panoramatak med opsjons-ID **3FU**
 
 ![Panoramisk tak](panoramaroof_rear.jpg "Panoramisk tak")
 
+![Panoramic roof](closedcurtain.jpg "Panorama tak med lukket gardin")
+
 {{% children description="true" depth="1" %}}
