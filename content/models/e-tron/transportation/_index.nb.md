@@ -7,9 +7,9 @@ weight: 6
 
 ## Bagasjerom
 
-![Trunk](trunk_1.jpg "Trunk Audi e-tron")
+![Trunk](trunk_1.jpg "Bagasjerom Audi e-tron")
 
-![Trunk](trunk_2.jpg "Trunk Audi e-tron")
+![Trunk](trunk_5.jpg "Standard bagasjerom Audi e-tron med feste til lastesikring")
 
 ![Trunk](trunk_3.jpg "Setene har en 40-20-40-konfigurasjon")
 
@@ -33,6 +33,8 @@ Du kan bestille Audi e-tron med oppbevarings- og bagasjeromspakke
 Den inneholder følgende.
 
 ![Storage and luggage compartment package](qe1_1s.jpg "Nett i siden av bagasjerommet og bagasjenett til transport av gjenstander")
+
+![Storage and luggage compartment package](clathers.jpg "Kledning i oppbevaringsrommet i reservehjulsbrønnen")
 
 ## Frunk
 

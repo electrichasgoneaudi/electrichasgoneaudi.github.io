@@ -160,10 +160,14 @@ weight: 100
 | Title | Description | ID |
 |-----|------|------|
 | [Upper part of dashboard in leather](/models/e-tron/interior/interiormaterials/#leather-on-dashboard-imitated-leather-on-doorscenterconsole) | | 7HC |
-|[Upper and lower part in leather](/models/e-tron/interior/interiormaterials/#full-leather-on-dashboard-door-and-lower-part-of-center-consol) |  | 7HD |
+| [Upper and lower part in leather](/models/e-tron/interior/interiormaterials/#full-leather-on-dashboard-door-and-lower-part-of-center-consol) |  | 7HD |
 | [Lower part in artifical leather](/models/e-tron/interior/interiormaterials/#imiated-leather-doors-and-center-consol) |  | 7HM |
 
 ## Seats
+
+![Seats](../../interior/seats/seats_individualcontour_8.jpg)
+
+You can choose between serveral seat types and seat materials. Click links below for full details on each option.
 
 | Title | Description | ID |
 |-----|------|------|
@@ -248,17 +252,17 @@ weight: 100
 | [Head up display](/models/e-tron/technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus) |  | KS1 |
 | [MMI Radio plus](/models/e-tron/technology/uiandoperations/mmi/)  | Standard |  |
 | [MMI Navigation plus](/models/e-tron/technology/uiandoperations/mmi/) | Standard  |   |
-| [Audi Sound system](/models/e-tron/technology/soundsystem/#audi-sound-system) | Standard  |   | 
+| [Audi Sound system](/models/e-tron/technology/soundsystem/#audi-sound-system) | Standard  |   |
 | Audi Connect navigation and infotainment | Standard |   |
-| [Bang & Olufsen Premium sound system](/models/e-tron/technology/soundsystem/#bang--olufsen-sound-system-with-3d-sound) |  | 9VS | 
-| DVD-player |  | 7D5 | 
-| Audi music interface | Standard |   |
-| Audi music interface rear seat |  | UF8 | 
-| Digital Radio |  | QV3 | 
-| Digital TV receiver |  |  QDB | 
-| [Audi Phone Box](/models/e-tron/technology/phonebox/) |  | 9ZE | 
-| [Audi Smartphone interface](/models/e-tron/technology/uiandoperations/smartphoneinterface/) |  |  1U1 | 
-| Bluetooth interface | Standard |  | 
+| [Bang & Olufsen Premium sound system](/models/e-tron/technology/soundsystem/#bang--olufsen-sound-system-with-3d-sound) |  | 9VS |
+| DVD-player |  | 7D5 |
+| [Audi music interface](../../technology/connections/)  | Standard |   |
+| [Audi music interface rear seat](../../technology/connections/)  |  | UF8 |
+| Digital Radio |  | QV3 |
+| Digital TV receiver |  |  QDB |
+| [Audi Phone Box](/models/e-tron/technology/phonebox/) |  | 9ZE |
+| [Audi Smartphone interface](/models/e-tron/technology/uiandoperations/smartphoneinterface/) |  |  1U1 |
+| Bluetooth interface | Standard |  |
 | Audi connect emergency call |   |  |
 
 ## Driver asssist systems

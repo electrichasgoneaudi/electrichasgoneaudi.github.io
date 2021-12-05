@@ -167,6 +167,11 @@ weight: 100
 
 ## Seter
 
+![Seats](../../interior/seats/seats_individualcontour_8.jpg)
+
+Du kan velge mellom flere varianter av seter og setematerialer på Audi e-tron. Klikk på lenkene under for detaljer for hvert valg.
+
+
 | Utstyr | Beskrivelse | ID |
 |-----|------|------|
 | [Standard seter foran](../../interior/seats/#standard-seter) | | |
@@ -237,7 +242,7 @@ weight: 100
 | [Belyste innstigningslister foran/bak med aluminiumsfelt, uten logo](../../exterior/doors/#innstegslister) |  | VT3 |
 | [Belyste innstigningslister med aluminiumsfelt foran og bak, S-logo på listen foran](../../exterior/doors/#innstegslister)  | S-line/S-line interior | VT5 |
 | [12-volts stikkontakt](../../technology/connections/) | Front, rear and luggage compartment | Standard | |
-| Oppbevarings- og bagasjeromspakke | - To koppholdere i midtkonsollen bak <br> - Kledning i oppbevaringsrommet i reservehjulsbrønnen<br> - Nett i siden av bagasjerommet <br /> - Bagasjenett til transport av gjenstander (bagasjestropper)  | QE1 |
+| Oppbevarings- og bagasjeromspakke | - To koppholdere i midtkonsollen bak <br> - [Kledning i oppbevaringsrommet i reservehjulsbrønnen](../../transportation/#oppbevarings--og-bagasjeromspakke)<br> - [Nett i siden av bagasjerommet](../../transportation/#oppbevarings--og-bagasjeromspakke) <br /> - [Bagasjenett til transport av gjenstander (bagasjestropper)](../../transportation/#oppbevarings--og-bagasjeromspakke)  | QE1 |
 | [Skillenett for bagasjerom](../../transportation/#separasjonsnett-for-bagasjerom)  |  | 3CX |
 | Fleksibelt sammenleggbar bagasjeromsmatte  |  | 6SJ |
 | Bagasjeromstildekning | Manuell bagasjeromstildekning. Kan tas ut og oppbevares i bilen. | |
@@ -255,8 +260,8 @@ weight: 100
 | Audi connect navigasjon og infotainment | Standard |   |
 | [Bang & Olufsen Premium sound system](../../technology/soundsystem/#bang--olufsen-sound-system-with-3d-sound) |  | 9VS | 
 | DVD-spiller |  | 7D5 |
-| Audi music interface | Standard |   |
-| Audi music interface i baksetet |  | UF8 |
+| [Audi music interface](../../technology/connections/)  | Standard |   |
+| [Audi music interface i baksetet](../../technology/connections/)  |  | UF8 |
 | Digital Radio |  | QV3 |
 | Digital TV receiver |  |  QDB |
 | [Audi Phone Box](../../technology/phonebox/) |  | 9ZE | 
