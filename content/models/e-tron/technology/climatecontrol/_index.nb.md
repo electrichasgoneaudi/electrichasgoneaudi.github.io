@@ -61,4 +61,10 @@ Tilvalgsnr: **GA2**
 
 ![komfortinnstillinger](conviencesettingsnb.jpg "komfortinnstillinger")
 
+### Dobble varme elementer
+
+Standard varmeelement er 5KW. Som tilvalg **7E4** kan man utstyre bilen med et ekstra varmeelement på 5KW som gir total varmeeffekt på 10KW.
+
+Dette er standard på biler solgt av Norsk forhandlere, men kan mangle på importerte biler.
+
 {{% children description="true" depth="1" %}}

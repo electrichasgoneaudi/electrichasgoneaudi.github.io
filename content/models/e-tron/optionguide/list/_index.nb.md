@@ -82,6 +82,7 @@ weight: 100
 | Utstyr | Beskrivelse | ID |
 |-----|------|------|
 | S line interiørpakke | [Sort taktrekk](../../interior/headliner/#sort), [4-veis korsryggstøtte](../../interior/seats/#4-veis-korsryggstøtte), Belyste innstegslister foran og bak, [S-Line Sportsseter](../../interior/seats/#s-line-sportsseter), [Aluminiumsdekor](../../interior/inlays/), Skinn/alcantara  | WQS |
+| Vinterpakke | Inneholder [Setevarme foran](../../interior/seats/#setevarme), [Forberedelse for tilhengerfeste](../../transportation/#trailer), [Sidekollisjonsputer bak](../../technology/safety/#side-airbags-rear), [4-veis korsryggstøtte for forsetene](../../interior/seats/#4-way-lumbar-support), [Takreling i eloksert aluminium](../../transportation/#roof-storage), [Assistentpakke tur](#assistentsystemer), [Parkeringsklimaanlegg med ekstra komfort](../../technology/climatecontrol/#parkeringsklimaanlegg-med-ekstra-komfort)  |  WNW |
 
 ## Lys
 
@@ -224,6 +225,7 @@ weight: 100
 | [Air Quality pakke](../../technology/airquality/) |  | 2V9 |
 | [Parkeringsklimaanlegg](../../technology/climatecontrol/#parkeringsklimanlegg) | Standard |  |
 | [Parkeringsklimaanlegg med ekstra komfort](../../technology/climatecontrol/#parkeringsklimaanlegg-med-ekstra-komfort) |  | GA2 |
+| [Doble varme elementer](/models/e-tron/technology/climatecontrol/#double-varmeelementer) | Standard i norge  | 7E2 |
 
 ## Annet innvendig utstyr
 

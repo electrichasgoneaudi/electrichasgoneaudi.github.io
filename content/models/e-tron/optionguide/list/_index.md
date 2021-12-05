@@ -223,6 +223,7 @@ weight: 100
 | [Air Quality package](/models/e-tron/technology/airquality/) |  | 2V9 |
 | [Parking climate](/models/e-tron/technology/climatecontrol/#auxiliary-air-conditioner) | Standard |  |
 | [Parking climate with extra comfort](/models/e-tron/technology/climatecontrol/#auxiliary-air-conditioner-with-extra-convenience) |  | GA2 |
+| [Double heat elements](/models/e-tron/technology/climatecontrol/#double-heater) | Standard in some markets  | 7E2 |
 
 ## Other interior options
 
