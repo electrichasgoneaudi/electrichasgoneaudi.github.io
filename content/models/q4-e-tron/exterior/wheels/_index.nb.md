@@ -195,6 +195,27 @@ Senterboring er 57,1 mm og boltmønster er 5x112 mm.
     <figcaption><h4>20" 5V design</h4></figcaption>
 </figure>
 
+<figure>
+    <a href="wheel_56H_3.jpg">
+        <img src="wheel_56H_3s.jpg" alt="20 inch 5V design" title="20 inch 5V design">
+    </a>
+    <figcaption><h4>20 inch 5V design</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="wheel_56H_4.jpg">
+        <img src="wheel_56H_4s.jpg" alt="20 inch 5V design" title="20 inch 5V design">
+    </a>
+    <figcaption><h4>20 inch 5V design</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="wheel_56H_5.jpg">
+        <img src="wheel_56H_5s.jpg" alt="20 inch 5V design" title="20 inch 5V design">
+    </a>
+    <figcaption><h4>20 inch 5V design</h4></figcaption>
+</figure>
+
 
 ## 21" 5-arm rotor design
 
