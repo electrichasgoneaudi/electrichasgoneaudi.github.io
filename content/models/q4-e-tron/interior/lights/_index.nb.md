@@ -14,6 +14,8 @@ Følgende interiørlys er standard på Audi Q4
 - oppbevaringsrom i midtkonsollen foran (hvit)
 - opplyst hanskerom
 
+![LED front roof module](standardlights3.jpg "LED-takmodul foran")
+
 ## Ambiente lyspakke
 
 Hvite lys med alternativ-ID **QQ8**

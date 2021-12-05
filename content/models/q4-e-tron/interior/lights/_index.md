@@ -14,6 +14,7 @@ The following interior lights are standard on Audi Q4
 - storage compartment in front centre console (white)
 - illuminated glove compartment
 
+![LED front roof module](standardlights3.jpg "LED front roof module")
 ## Ambient lights package
 
 White lights with option id **QQ8**
