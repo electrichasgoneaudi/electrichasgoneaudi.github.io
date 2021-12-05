@@ -57,7 +57,11 @@ so you can lock the car.
 
 You can get e-tron with different inlays in the door sills
 
+![Inlay](inlaydoors.jpg "Standard auluminium inlays")
 
+![Inlay](inlaydoors.jpg "Illumiated auluminium inlays - option VT3")
+
+![Inlay](vt5_1s.jpg "S-line inlays - option VT5")
 
 
 {{% children description="true" depth="1" %}}

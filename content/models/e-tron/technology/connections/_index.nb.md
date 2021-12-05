@@ -5,7 +5,6 @@ description: Audi e-tron har tilkoblingsmuligheter for USB-C og 12 Volt
 weight: 9
 ---
 
-
 ## 12 Volt
 
 Audi e-tron kommer med 3 stk 12-volts uttak som standard. I forseter, i bakseter og i bagasjerom.
@@ -15,6 +14,8 @@ De er bare aktive når tenningen er på.
 ![12 volt i front](12voltfront.jpg "12-volts uttak foran")
 
 ![12 volt i front](12voltrear.jpg "12-volts uttak bak")
+
+![12 volt in fron](12voltluggage.jpg "12-volts uttak bagasjerom")
 
 ## Audi Music-interface foran
 

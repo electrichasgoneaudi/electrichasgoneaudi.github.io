@@ -36,6 +36,8 @@ This contains the following.
 
 ![Storage and luggage compartment package](qe1_1s.jpg "Net in the side of the luggage compartment and luggage net for transporting objects")
 
+![Storage and luggage compartment package](clathers.jpg "Cloth in storage room for spare wheel")
+
 ## Frunk
 
 ![Trunk](frunk_1.jpg "Trunk Audi e-tron")
