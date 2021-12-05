@@ -5,7 +5,7 @@ description: Here ser du eksempler på forskjellige uorginale felger som eiere h
 weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
-## 21" Vossen HF2
+## 21" Vossen HF2 21x9.5
 
 <figure>
     <a href="vossenhf2_1.jpg">

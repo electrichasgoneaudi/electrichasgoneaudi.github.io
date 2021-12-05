@@ -5,7 +5,7 @@ description: Here you see som examples on aftermarket wheels owners have put on 
 weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
-## 20-inch MT Galvani
+## 21 Vossen HF2 21x9.5
 
 <figure>
     <a href="vossenhf2_1.jpg">
