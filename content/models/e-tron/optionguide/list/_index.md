@@ -128,7 +128,7 @@ weight: 100
 | [Windshield in acoustic glass](/models/e-tron/exterior/windows/) | Standard | |
 | [Acoustic glass on side windows](/models/e-tron/exterior/windows/)  |  | VW0 |
 | [Privacy glass](/models/e-tron/exterior/windows/#privacy-glass) |  | QL5 |
-| Adaptive whipers | | 9PF |
+| [Adaptive whipers](../../technology/whipers/#adaptive-whipers) | | 9PF |
 | [Manual curtain rear](/models/e-tron/interior/curtain/) | | 3Y4 |
 | Sunshades  | Retractable | 5XF |  
 

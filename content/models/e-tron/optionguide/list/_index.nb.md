@@ -130,7 +130,7 @@ weight: 100
 | [Frontrute i akustikglass](../../exterior/windows/) | Standard | |
 | [Akustikkglass på sideruter](../../exterior/windows/)  |  | VW0 |
 | [Privacy glass](../../exterior/windows/#privacy-glass) |  | QL5 |
-| Adaptive vindusviskere med integrerte spylerdyser | | 9PF |
+| [Adaptive vindusviskere med integrerte spylerdyser](../../technology/whipers/#adaptive-vindusviskere) | | 9PF |
 | [Manuell rullegardin](../../interior/curtain/) | | 3Y4 |
 | Solskjermer | Med belyst make-up-speil, uttrekkbart sideveis. | 5XF |  
 
