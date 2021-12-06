@@ -54,6 +54,8 @@ In combination with the Matrix LED headlights, there is also a particularly eleg
 
 ![Tailight without matrix](rearwithmatrix2.jpg "Taillight with matrix with light bar and 2 reversing light")
 
+![Rear comparison](rearcomparison.jpg "Illustration with and without matrix")
+
 
 When the car is unlocked and exited, dynamic “leaving home” and “coming home” light sequences are played in the rear lights and the headlights. The sequences in the headlights vary depending on which daytime running light signature is selected.
 
