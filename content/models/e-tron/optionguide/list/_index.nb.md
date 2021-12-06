@@ -7,6 +7,12 @@ weight: 100
 
 ## Lakkfarger og lakkutførelse
 
+![Pant Colors & Paint trim](../../variants/variants1s.jpg)
+
+Med mer en 60 forskjellige farger og flere lakk utføringer så er det en stor mengde fargekombinasjoner tilgjengelig til Audi e-tron.
+
+Klikk på valgene nedenfor for høyoppløste bilder og detaljer for hver valgmulighet.
+
 | Utstyr | Beskrivelse | ID |
 |-----|------|------|
 |  [Brilliantsort](../../exterior/paint/#brilliantsort)   | Unilakk  |  A2   |
@@ -31,6 +37,10 @@ weight: 100
 |  [Konstrastlakkering for S](../../exterior/paint/#kontrastlakkering)| I Manhatten Grå | 2K9 |
 
 ## Komplette sommer/vinter hjul
+
+![Felger](../../exterior/wheels/wheel_CA0_2s.jpg)
+
+Audi e-tron kan leveres med en rekke felger fra 19" til 22". Klikk på valgene nedenfor for høyoppløste bilder og detaljer.
 
 | Utstyr | Beskrivelse | ID |
 |-----|------|------|

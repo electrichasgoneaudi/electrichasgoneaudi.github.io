@@ -7,6 +7,11 @@ weight: 100
 
 ## Paint Color & Paint trim
 
+![Pant Colors & Paint trim](../../variants/variants1s.jpg)
+
+With more than 60 different colors, serveral paint trim there huge amount of color combination available. 
+Click below for high-res pictures and details of each option. 
+
 | Title | Description | ID |
 |-----|------|------|
 |  [Brilliant black](/models/e-tron/exterior/paint/#brilliant-black)   | Non metallic   |  A2   |
