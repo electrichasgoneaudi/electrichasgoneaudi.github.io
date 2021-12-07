@@ -1,11 +1,11 @@
 ---
-title: Effektassistent
-linktitle: Effektassistent
-description: Effektassistent hjelper sjåføren å kjøre mest mulig energieffektivt. 
+title: Effektivitetsassistent
+linktitle: Effektivitetsassistent
+description: Effektivitetsassistenten hjelper sjåføren å kjøre mest mulig energieffektivt. 
 weight: 1
 ---
 
-![Predictive efficiency assist](predictiveefficient.jpg "Predictive efficiency assist")
+![Predictive efficiency assist](predictiveefficient.jpg "Effektivitetsassistent")
 
 Systemet jobber tett sammen med adaptiv cruisekontroll (ACC) eller adaptiv cruiseassistent (ACA). Den får tilgang til prediktive rutedata fra navigasjon og Car-to-X-informasjon.
 For å oppdage trafikkskilt og andre kjøretøy, bruker effektivitetsassistenten frontkameraet samt data fra front- og bakovervendte radarsensorer.
