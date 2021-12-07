@@ -42,6 +42,16 @@ Each seat type have different seat materials in different colors to choose from.
     <figcaption><h4>Extending thig support - Out</h4></figcaption>
 </figure>
 
+### Electric 4-way lumbar support
+
+<figure>
+    <a href="control_lumbard.jpg">
+        <img src="control_lumbard.jpg" alt="Extending thig support" title="Extending thig support">
+    </a>
+    <figcaption><h4>Extending thig support - Out</h4></figcaption>
+</figure>
+
+
 ## Standard Seats
 
 ### Standard seats in black fabric
