@@ -28,6 +28,7 @@ En frontradar, ett frontkamera, fire omgivelses-kameraer, to bakradarer og åtte
 | Nattsyn | N/A |
 | [Fartsbegrenser](hastighetsbegrenser) | standard |
 | Parkeringshjelp | N/A |
+| [Effektivitetsassistent](predictiveefficiencyassist) | standard |
 | [Assistent for kryssende trafikk bak](crosstrafficassistrear) | Tilleggsutstyr |
 | [Utstigningsvarsling](exitwarning) | Tilleggsutstyr (PYU) |
 | [Unnamanøvreringsassistent](collisionavoidanceassist) | standard |
