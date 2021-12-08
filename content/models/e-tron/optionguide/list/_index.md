@@ -256,7 +256,7 @@ You can choose between serveral seat types and seat materials. Click links below
 | [Audi Virtual Cockpit plus](/models/e-tron/technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus) |   | 9S9 |
 | [Head up display](/models/e-tron/technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus) |  | KS1 |
 | [MMI Radio plus](/models/e-tron/technology/uiandoperations/mmi/)  | Standard |  |
-| [MMI Navigation plus](/models/e-tron/technology/uiandoperations/mmi/) | Standard  |   |
+| [MMI Navigation plus](/models/e-tron/technology/uiandoperations/navigation/) | Standard  |   |
 | [Audi Sound system](/models/e-tron/technology/soundsystem/#audi-sound-system) | Standard  |   |
 | Audi Connect navigation and infotainment | Standard |   |
 | [Bang & Olufsen Premium sound system](/models/e-tron/technology/soundsystem/#bang--olufsen-sound-system-with-3d-sound) |  | 9VS |
