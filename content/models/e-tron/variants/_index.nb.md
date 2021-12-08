@@ -16,9 +16,9 @@ weight: 1
 </figur>
 
 Audi e-tron 50 er den billigste versjonen. Den har en SUV-formfaktor og det minste batteriet.
-71kWh bruttobatteri med 64,7 kWh tilgjengelig. WLTP-rekkevidde mellom 282-341 km avhengig av utstyrsnivå. De to motorene yter 230 kW (312 hk).
+71kWh brutto med 64,7 kWh tilgjengelig. WLTP-rekkevidde mellom 282-341 km avhengig av utstyrsnivå. De to motorene yter tilsammen 230 kW (312 hk).
 
-Det er ikke mulig å skille e-tron 50 fra e-tron 55 etter utseende.
+Det er ikke mulig å skille e-tron 50 fra e-tron 55 utseendemessig.
 
 [Se detaljert spesifikasjon](/models/e-tron/specifications/#audi-e-tron-50)
 
@@ -31,11 +31,10 @@ Det er ikke mulig å skille e-tron 50 fra e-tron 55 etter utseende.
     <figcaption><h4>Audi e-tron Sportback 50 i Florett Silver</h4></figcaption>
 </figur>
 
-
 Audi e-tron 50 Sportback er den billigste Sportback-versjonen. Den har en Sportback-formfaktor og det minste batteriet.
-71kWh bruttobatteri med 64,7 kWh tilgjengelig. WLTP-rekkevidde mellom 282-347 km avhengig av utstyrsnivå. De to motorene yter 230 kW (312 hk).
+71kWh brutto med 64,7 kWh tilgjengelig. WLTP-rekkevidde mellom 282-347 km avhengig av utstyrsnivå. De to motorene yter tilsammen 230 kW (312 hk).
 
-Det er ikke mulig å skille e-tron 50 Sportback fra e-tron 55 Sportback etter utseende.
+Det er ikke mulig å skille e-tron 50 Sportback fra e-tron 55 Sportback utseendemessig.
 
 [Se detaljert spesifikasjon](/models/e-tron/specifications/#audi-e-tron-50-sportback)
 
@@ -48,9 +47,8 @@ Det er ikke mulig å skille e-tron 50 Sportback fra e-tron 55 Sportback etter ut
     <figcaption><h4>Audi e-tron 55 S-Line i Chronos-grå</h4></figcaption>
 </figur>
 
-
-Audi e-tron 55 var den første versjonen tilgjengelig. Med 95 kWh bruttobatteri (86,5 kWh netto) og 300 KW (408 HK) motoreffekt.
-WLTP-rekkevidde mellom 371-441 km avhengig av utstyrsnivå. De to motorene yter 300kW (408 hk).
+Audi e-tron 55 var den første versjonen tilgjengelig. Med et batteri på 95 kWh brutto (86,5 kWh netto) og samlet 300 KW (408 HK) motoreffekt.
+WLTP-rekkevidde mellom 371-441 km avhengig av utstyrsnivå.
 
 [Se detaljert spesifikasjon](/models/e-tron/specifications/#audi-e-tron-55)
 
@@ -63,8 +61,8 @@ WLTP-rekkevidde mellom 371-441 km avhengig av utstyrsnivå. De to motorene yter 
     <figcaption><h4>Audi e-tron 55 Sportback S-Line i plasmablått</h4></figcaption>
 </figur>
 
-Audi e-tron 55 Sportback er Sportback-versjonen av e-tron 55. Med 95kWh bruttobatteri (86,5kWh netto) og 300KW (408HK) motoreffekt.
-WLTP-rekkevidde mellom 373-452 km avhengig av utstyrsnivå. De to motorene yter 300kW (408 hk).
+Audi e-tron 55 Sportback er Sportback-versjonen av e-tron 55. Med et batteri på 95kWh brutto (86,5kWh netto) og 300KW (408HK) motoreffekt.
+WLTP-rekkevidde mellom 373-452 km avhengig av utstyrsnivå.
 
 [Se detaljert spesifikasjon](/models/e-tron/specifications/#audi-e-tron-55-sportback)
 
@@ -81,7 +79,8 @@ Med sitt bredere karosseri og hjul, skiller Audi e-tron 60S seg ut fra e-tron 50
 
 Audi e-tron S har samme batteri som e-tron 55 med 95kWh bruttokapasitet og 86,5kWh nettokapasitet.
 
-Den elektriske drivverket bruker tre elektriske motorer, hvorav to opererer på bakakselen. Den intelligente kjørekontrollen hever kjøretøysikkerheten, og spesielt dynamisk håndtering, til et nytt nivå. I tillegg til elektrisk firehjulsdrift er e-tron 60S utstyrt med elektrisk momentvektoring med aktiv og fullt variabel dreiemomentfordeling på bakakselen.
+Den elektriske drivverket bruker tre elektriske motorer, hvorav to opererer på bakakselen. Den intelligente kjørekontrollen hever kjøretøysikkerheten, og spesielt dynamisk håndtering, til et nytt nivå. 
+I tillegg til elektrisk firehjulsdrift er e-tron 60S utstyrt med elektrisk momentvektoring med aktiv og fullt variabel dreiemomentfordeling på bakakselen.
 
 Audi e-tron S leverer dynamikk i en ny dimensjon. I S-gir gir de full ytelse i åtte sekunder – 370 kW kraft og 973 Nm (717,6 lb-ft) dreiemoment.
 Standardsprinten tar bare 4,5 sekunder og akselerasjonen ender ved 210 km/t (130,5 mph).
@@ -101,7 +100,7 @@ WLTP-rekkevidde mellom 343-374 km avhengig av utstyrsnivå.
     <figcaption><h4>Audi e-tron 60S Sportback</h4></figcaption>
 </figur>
 
-Dette er Sportback-versjonen av 60. WLTP-rekkevidde mellom 343-374 km avhengig av utstyrsnivåning.
+Dette er Sportback-versjonen av 60. WLTP-rekkevidde mellom 343-374 km avhengig av utstyrsnivå.
 
 [Se detaljert spesifikasjon](/models/e-tron/specifications/#audi-e-tron-60s-sportback)
 
