@@ -9,13 +9,13 @@ Følgende veiledning er basert på grunnmodellen. Mange markeder har pakker med 
 
 Nedenfor er de viktigste alternativene du må vurdere når du kjøper en e-tron
 
-## Audi smartphone interface: Alternativ-ID IU1
+## Audi smartphone interface: Tilvalg *IU1*
 
 Uten Audi smartphone interface kan du ikke bruke Android Auto / Apple Carplay og deretter bruke apper som Waze eller kontrollere Spotify på en god måte.
 
 [Se Audi smartphone interface for detaljer.](../technology/uiandoperations/smartphoneinterface/)
 
-## Privacy vinduer (sorte vinduer): Alternativ-ID QL5
+## Privacy vinduer (sorte vinduer): Tilvalg *QL5*
 
 Forbedrer utseendet mye, og du trenger ikke å kjøre rundt som et akvarium på utstilling.
 
@@ -23,23 +23,23 @@ Forbedrer utseendet mye, og du trenger ikke å kjøre rundt som et akvarium på 
 
 ![3y4](3y4.jpg)
 
-## Rullegardiner baksete
+## Rullegardiner baksete: Tilvalg *3Y4*
 
 Beskytter personer i baksetet mot sol.
 
 [Se gardin for detaljer](../interior/curtain)
 
-## Turpakke: Alternativ ID PCC
+## Assistentpakke tur: Tilvalg *PCC*
 
-Turpakken inneholder det meste av de viktige førerassistentfunksjonene som [Adaptive Cruise Assist](../technology/drivingassistance/adaptivecruiseassist/), [Adaptive Cruise Control](../technology/drivingassistance/adaptivecruisecontrol/), [Effektivitetsassistent](../technology/drivingassistance/predictiveefficiencyassist/), [Turn Assist](../technology/drivingassistance/turnasist/), [Unnamanøvreringsassistent](../technology/drivingassistance/collisionavoidanceassist/), [Trafikkskiltgjenkjenning](../technology/drivingassistance/trafikskiltgjenkjenning/), [Nødstoppassistent](../technology/drivingassistance/emergencyassist/)
+Turpakken inneholder det meste av de viktige førerassistentfunksjonene som [Adaptive Cruise Assist](../technology/drivingassistance/adaptivecruiseassist/), [Adaptive Cruise Control](../technology/drivingassistance/adaptivecruisecontrol/), [Effektivitetsassistent](../technology/drivingassistance/predictiveefficiencyassist/), [Avkjøringsassistent](../technology/drivingassistance/turnassist/), [Unnamanøvreringsassistent](../technology/drivingassistance/collisionavoidanceassist/), [Trafikkskiltgjenkjenning](../technology/drivingassistance/trafficsignrecognition/), [Nødstoppassistent](../technology/drivingassistance/emergencyassist/)
 
-## Filskiftepakke PCH / Bypakke PCM
+## Filskiftepakke *PCH* / Assistentpakke by *PCM*
 
-Filskifteassistenten er ikke en del av turpakken og er inkludert i to forskjellige assistentpakker. Filskiftepakken inkluderer [filskifteassistent](../technology/drivingassistance/sideassist/), [utstigningsvarling](../technology/drivingassistance/exitwarning/), [cross traffic assist rear](../technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](../technology/drivingassistance/presenserear/). Bypakken inkluderer det samme, men i tillegg [Audi pre sense side](../technology/drivingassistance/presenseside/) og [gatekryssassistent](../technology/drivingassistance/crossingassist/)
+Filskifteassistenten er ikke en del av turpakken og er inkludert i to forskjellige assistentpakker. Filskiftepakken inkluderer [filskifteassistent](../technology/drivingassistance/sideassist/), [utstigningsvarling](../technology/drivingassistance/exitwarning/), [Assistent for kryssende trafikk bak](../technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](../technology/drivingassistance/presenserear/). Bypakken inkluderer det samme, men i tillegg [Audi pre sense side](../technology/drivingassistance/presenseside/) og [gatekryssassistent](../technology/drivingassistance/crossingassist/)
 
 ![QQ2](qq2.jpg)
 
-## Flerfarget ambientbelysning: Alternativ ID QQ2
+## Flerfarget ambientbelysning: Tilvalg *QQ2*
 
 Med flerfarget ambientbelysning kommer utseendet og følelsen inne i bilen til en annen planet.
 
