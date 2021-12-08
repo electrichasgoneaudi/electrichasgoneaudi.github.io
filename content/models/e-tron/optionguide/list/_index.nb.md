@@ -13,7 +13,7 @@ Med mer en 60 forskjellige farger og flere lakk utføringer så er det en stor m
 
 Klikk på valgene nedenfor for høyoppløste bilder og detaljer for hver valgmulighet.
 
-| Utstyr | Beskrivelse | ID |
+| Utstyr | Beskrivelse | Tilvalg |
 |-----|------|------|
 |  [Brilliantsort](../../exterior/paint/#brilliantsort)   | Unilakk  |  A2   |
 |  [Catalunyarød](../../exterior/paint/#catalunyarød-metallic)  | Metallic   |  Y6   |
@@ -42,7 +42,7 @@ Klikk på valgene nedenfor for høyoppløste bilder og detaljer for hver valgmul
 
 Audi e-tron kan leveres med en rekke felger fra 19" til 22". Klikk på valgene nedenfor for høyoppløste bilder og detaljer.
 
-| Utstyr | Beskrivelse | ID |
+| Utstyr | Beskrivelse | Tilvalg |
 |-----|------|------|
 | [19" 5-arm aero design](../../exterior/wheels/#19-5-arm-aero-design) |  | 40V |
 | [19" 5-arm aero design](../../exterior/wheels/#19-5-arm-aero-design-winter-wheels) | winter | 2WL |
@@ -65,7 +65,7 @@ Audi e-tron kan leveres med en rekke felger fra 19" til 22". Klikk på valgene n
 
 ## Dekktilbehør
 
-| Utstyr | Beskrivelse | ID |
+| Utstyr | Beskrivelse | Tilvalg |
 |-----|------|------|
 | Dekkreparasjonssett|  | 1G8 |
 | Hjulbolter med tyverisikring og hjulboltvarsling | Standard | 1PR |
@@ -75,7 +75,7 @@ Audi e-tron kan leveres med en rekke felger fra 19" til 22". Klikk på valgene n
 
 ## Lading og oppvarming
 
-| Utstyr | Beskrivelse | ID |
+| Utstyr | Beskrivelse | Tilvalg |
 |-----|------|------|
 | [Komfort førklimatisering](../../technology/climatecontrol/#komfort-førklimatisering) |  | GA2 |
 | Ladeclip for feste av ladeutstyr Compact |  | NJ2 |
@@ -89,14 +89,14 @@ Audi e-tron kan leveres med en rekke felger fra 19" til 22". Klikk på valgene n
 
 ## Utstyrspakker
 
-| Utstyr | Beskrivelse | ID |
+| Utstyr | Beskrivelse | Tilvalg |
 |-----|------|------|
 | S line interiørpakke | [Sort taktrekk](../../interior/headliner/#sort), [4-veis korsryggstøtte](../../interior/seats/#4-veis-korsryggstøtte), Belyste innstegslister foran og bak, [S-Line Sportsseter](../../interior/seats/#s-line-sportsseter), [Aluminiumsdekor](../../interior/inlays/), Skinn/alcantara  | WQS |
 | Vinterpakke | Inneholder [Setevarme foran](../../interior/seats/#setevarme), [Forberedelse for tilhengerfeste](../../transportation/#trailer), [Sidekollisjonsputer bak](../../technology/safety/#side-airbags-rear), [4-veis korsryggstøtte for forsetene](../../interior/seats/#4-way-lumbar-support), [Takreling i eloksert aluminium](../../transportation/#roof-storage), [Assistentpakke tur](#assistentsystemer), [Parkeringsklimaanlegg med ekstra komfort](../../technology/climatecontrol/#parkeringsklimaanlegg-med-ekstra-komfort)  |  WNW |
 
 ## Lys
 
-| Utstyr | Beskrivelse | ID |
+| Utstyr | Beskrivelse | Tilvalg |
 |-----|------|------|
 | [Matrix LED-hovedlykter med dynamiske lyseffekter og dynamisk blinklys foran og bak](../../technology/lights/#hd-matrix-led-hovedlykter) |  | PX6 |
 | [Lyktespyleranlegg](../../technology/lights/#lyktespyleranlegg) | Standard | |
@@ -105,7 +105,7 @@ Audi e-tron kan leveres med en rekke felger fra 19" til 22". Klikk på valgene n
 
 ## Speil og taksystemer
 
-| Utstyr | Beskrivelse | ID |
+| Utstyr | Beskrivelse | Tilvalg |
 |-----|------|------|
 | Innvendig speil| automatisk avblendbart, uten ramme |  |
 | [Sidespeil, elektrisk justerbare og oppvarmbare](../../exterior/mirrors/#functionality) | Standard | 6XD |
@@ -121,7 +121,7 @@ Audi e-tron kan leveres med en rekke felger fra 19" til 22". Klikk på valgene n
 
 ## Låsesystemer
 
-| Utstyr | Beskrivelse | ID |
+| Utstyr | Beskrivelse | Tilvalg |
 |-----|------|------|
 | [Standard key](../../technology/lockingsystems/#standard-nøkkel) | Remote controll, keyless go |  |  |
 | [Komfortnøkkel](../../technology/lockingsystems/#komfortnøkkel-pgc) | | PGC |
@@ -134,7 +134,7 @@ Audi e-tron kan leveres med en rekke felger fra 19" til 22". Klikk på valgene n
 
 ## Glass
 
-| Utstyr | Beskrivelse | ID |
+| Utstyr | Beskrivelse | Tilvalg |
 |-----|------|------|
 | [Varmedempende glass](../../exterior/windows/) | Standard | |
 | [Frontrute i akustikglass](../../exterior/windows/) | Standard | |
@@ -146,7 +146,7 @@ Audi e-tron kan leveres med en rekke felger fra 19" til 22". Klikk på valgene n
 
 ## Utvendig utstyr
 
-| Utstyr | Beskrivelse | ID |
+| Utstyr | Beskrivelse | Tilvalg |
 |-----|------|------|
 | [Forberedelse for tilhengerfeste](../../transportation/#trailer) | | 1D8 |
 | [Tilhengerfesteh](../../transportation/#trailer) |  | 1D2 |
@@ -158,7 +158,7 @@ Audi e-tron kan leveres med en rekke felger fra 19" til 22". Klikk på valgene n
 
 ## Setetrekk og skinninteriør
 
-| Utstyr | Beskrivelse | ID |
+| Utstyr | Beskrivelse | Tilvalg |
 |-----|------|------|
 | Effekt stof | For standardsete foran | |
 | Alcantara/skinn kombinasjon | For sportsseter foran | N7U |
@@ -169,7 +169,7 @@ Audi e-tron kan leveres med en rekke felger fra 19" til 22". Klikk på valgene n
 
 ## Instrumentpanel
 
-| Utstyr | Beskrivelse | ID |
+| Utstyr | Beskrivelse | Tilvalg |
 |-----|------|------|
 | [Øvre del av instrumentpanelet i skinn](../../interior/interiormaterials/#leather-on-dashboard-imitated-leather-on-doorscenterconsole) | | 7HC |
 | [Øvre del av instrumentpanelet og nedre interiørelementer i skinn](../../interior/interiormaterials/#full-leather-on-dashboard-door-and-lower-part-of-center-consol) |  | 7HD |
@@ -182,7 +182,7 @@ Audi e-tron kan leveres med en rekke felger fra 19" til 22". Klikk på valgene n
 Du kan velge mellom flere varianter av seter og setematerialer på Audi e-tron. Klikk på lenkene under for detaljer for hvert valg.
 
 
-| Utstyr | Beskrivelse | ID |
+| Utstyr | Beskrivelse | Tilvalg |
 |-----|------|------|
 | [Standard seter foran](../../interior/seats/#standard-seter) | | |
 | [Sportsseter foran](../../interior/seats/#sportsseter)  |  | Q1D |
@@ -206,7 +206,7 @@ Du kan velge mellom flere varianter av seter og setematerialer på Audi e-tron. 
 
 ## Interiørdesign
 
-| Utstyr | Beskrivelse | ID |
+| Utstyr | Beskrivelse | Tilvalg |
 |-----|------|------|
 | [Taktrekk i månesølv stoff](../../interior/headliner/) |  |  |
 | [Taktrekk i sort stoff](../../interior/headliner/)  |  |  6NQ |
@@ -222,7 +222,7 @@ Du kan velge mellom flere varianter av seter og setematerialer på Audi e-tron. 
 
 ## Ratt/betjeningselementer
 
-| Utstyr | Beskrivelse | ID |
+| Utstyr | Beskrivelse | Tilvalg |
 |-----|------|------|
 | [Skinnratt med multifunksjon og girtaster](../../interior/steeringwheels/) | Standard | |
 | [Dobbelteikers skinnratt med multifunksjon, girtaster og rattoppvarming](../../interior/steeringwheels/) |  | 2ZM | 
@@ -233,7 +233,7 @@ Du kan velge mellom flere varianter av seter og setematerialer på Audi e-tron. 
 
 ## Klimaanlegg
 
-| Utstyr | Beskrivelse | ID |
+| Utstyr | Beskrivelse | Tilvalg |
 |-----|------|------|
 | [2-soners komfortklimaautomatikk](../../technology/climatecontrol/) | Standard |  |
 | [4-soners komfortklimaautomatikk](../../technology/climatecontrol/#4-soners-elektronisk-klimakontroll) |  | 9AQ |
@@ -244,7 +244,7 @@ Du kan velge mellom flere varianter av seter og setematerialer på Audi e-tron. 
 
 ## Annet innvendig utstyr
 
-| Utstyr | Beskrivelse | ID |
+| Utstyr | Beskrivelse | Tilvalg |
 |-----|------|------|
 | Ikkerøykerpakke | Standard  |  |
 | Sigarettenner og askebeger| To sigarettennere (12 volt) samt uttakbart askebeger i koppholderne foran. | 9JC |
@@ -259,14 +259,14 @@ Du kan velge mellom flere varianter av seter og setematerialer på Audi e-tron. 
 
 ## Infotainment
 
-| Utstyr | Beskrivelse | ID |
+| Utstyr | Beskrivelse | Tilvalg |
 |-----|------|------|
 | [Audi Virtual Cockpit](../../technology/uiandoperations/virtualcockpit/) | Standard |  |
 | [Audi Virtual Cockpit plus](../../technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus) |   | 9S9 |
 | [Head up display](../../technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus) |  | KS1 |
 | [MMI Radio plus](../../technology/uiandoperations/mmi/)  | Standard |  |
-| [MMI Navigation plus](../../technology/uiandoperations/mmi/) | Standard  |   |
-| [Audi Sound system](../../technology/soundsystem/#audi-sound-system) | Standard  |   | 
+| [MMI Navigation plus](../../technology/uiandoperations/navigation/) | Standard  |   |
+| [Audi Sound system](../../technology/soundsystem/#audi-sound-system) | Standard  |   |
 | Audi connect navigasjon og infotainment | Standard |   |
 | [Bang & Olufsen Premium sound system](../../technology/soundsystem/#bang--olufsen-sound-system-with-3d-sound) |  | 9VS | 
 | DVD-spiller |  | 7D5 |
@@ -281,7 +281,7 @@ Du kan velge mellom flere varianter av seter og setematerialer på Audi e-tron. 
 
 ## Assistentsystemer
 
-| Utstyr | Beskrivelse | ID |
+| Utstyr | Beskrivelse | Tilvalg |
 |-----|------|------|
 | Assistentpakke by  | [Gatekryssassistenten](../../technology/drivingassistance/crossingassist/), [Filskifteassistent](../../technology/drivingassistance/sideassist/), [Utstigningsvarsling](../../technology/drivingassistance/exitwarning/), [pre sense rear](../../technology/drivingassistance/presenserear/), [pre sense side](../../technology/drivingassistance/presenseside/), [Assistent for kryssende trafikk bak](../../technology/drivingassistance/crosstrafficassistrear/) | PCM | 
 | Assistentpakke tur | [Adaptiv kjøreassistent](../../technology/drivingassistance/adaptivecruiseassist/), [Adaptiv cruise control med hastighetsbegrenser](../../technology/drivingassistance/adaptivecruisecontrol/), [Effektivitetsassistent](../../technology/drivingassistance/predictiveefficiencyassist/),  [Avkjøringsassistent](../../technology/drivingassistance/turnassist/), [Kamerabaserte visning av fartsgrenser/trafikkskiltgjenkjenning](../../technology/drivingassistance/trafficsignrecognition/), [Nødstoppassistent](../../technology/drivingassistance/emergencyassist/), [Unnamanøvreringsassistent](../../technology/drivingassistance/collisionavoidanceassist/) | PCC    |
@@ -298,7 +298,7 @@ Du kan velge mellom flere varianter av seter og setematerialer på Audi e-tron. 
 
 ## Understell/Bremser
 
-| Utstyr | Beskrivelse | ID |
+| Utstyr | Beskrivelse | Tilvalg |
 |-----|------|------|
 | [Adaptiv luftfjæring](../../drivetrain/suspension/) | Standard  | 1BK |
 | [Adaptiv luftfjæring sport](../../drivetrain/suspension/) |  | 2MB |
@@ -309,7 +309,7 @@ Du kan velge mellom flere varianter av seter og setematerialer på Audi e-tron. 
 
 ## Teknikk/sikkerhet
 
-| Utstyr | Beskrivelse | ID |
+| Utstyr | Beskrivelse | Tilvalg |
 |-----|------|------|
 | [Kollisjonsputer](../../technology/safety/#front-airbags) | Standard for front  |   |
 | [Sidekollisjonsputer foran og hodekollisjonsputer](../../technology/safety/#head-airbags) | Standard for front and rear |  |
