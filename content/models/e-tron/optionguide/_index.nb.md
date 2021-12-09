@@ -7,7 +7,7 @@ weight: 25
 
 Følgende veiledning er basert på grunnmodellen. Mange markeder har pakker med tilleggsutstyr. I Norge har man f.eks pakkene Advance Sport og Advance Business som inneholder mye utstyr.
 
-Nedenfor er de viktigste alternativene du må vurdere når du kjøper en e-tron
+Nedenfor er de viktigste tilvalgene du må vurdere når du kjøper en Audi e-tron
 
 ## Audi smartphone interface: Tilvalg *IU1*
 
