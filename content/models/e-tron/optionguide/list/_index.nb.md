@@ -130,7 +130,7 @@ Audi e-tron kan leveres med en rekke felger fra 19" til 22". Klikk på valgene n
 | Automatisk startsperre | Integrert i motorstyreenheten, automatisk aktivering med nøkkelen. |  |
 | [Elektrisk åpning og lukking av bakluken](../../exterior/doors/#powered-tailgate) | Electric opening and closing. Standard | |
 | [Servolukking av dørene](../../exterior/doors/#servo-closing) | | GZ2 |
-| Garasjeportåpner |  | VC2 |  
+| [Garasjeportåpner](../../technology/garagedooropener/) |  | VC2 |  
 
 ## Glass
 

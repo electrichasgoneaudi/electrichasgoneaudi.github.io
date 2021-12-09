@@ -13,6 +13,6 @@ Garasjeportåpneren støtter opptil 8  porter og kan bli knyttet til en GPS loka
 
 ![Opener](opener3.jpg "Du kan aktivere garasjeportåpneren fra nedre MMI skjerm. Det er en egen snarvei")
 
-This is option **VC2**
+Dette er tilvalg **VC2**
 
 {{% children description="true" depth="1" %}}
