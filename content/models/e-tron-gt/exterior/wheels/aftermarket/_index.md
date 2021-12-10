@@ -1,5 +1,5 @@
 ---
-title: Audi e-tron aftermarket wheels
+title: Audi e-tron GT aftermarket wheels
 linktitle: Aftermarket
 description: Here you see som examples on aftermarket wheels owners have put on their Audi e-tron GT
 weight: 4
