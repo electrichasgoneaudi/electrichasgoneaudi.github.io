@@ -37,6 +37,10 @@ Click below for high-res pictures and details of each option.
 
 ## Wheels
 
+![Felger](../../exterior/wheels/wheel_CA0_2s.jpg)
+
+Audi e-tron can be delivered with serveral types of wheels from 19" to 22". Click in the wheel options belo for high res pictures and detailed info.
+
 | Title | Description | ID |
 |-----|------|------|
 | [19" 5-arm aero design](../../exterior/wheels/#19-5-arm-aero-design) |  | 40V |
@@ -69,6 +73,8 @@ Click below for high-res pictures and details of each option.
 | [TPMS](../../technology/tpms/) | Direct | 7K3 |
 
 ## Charging and precondition
+
+!["Charging system"](../../technology/chargingsystem/chargingsystemconnect.jpg)
 
 | Title | Description | ID |
 |-----|------|------|

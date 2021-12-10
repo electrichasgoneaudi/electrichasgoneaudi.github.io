@@ -28,6 +28,7 @@ weight: 1
 | Night Vision | N/A |
 | [Speed limiter](speedlimiter) | standard |
 | Park assist | N/A |
+| [Predictive Efficiency Assist](predictiveefficiencyassist) | standard || [Predictive Efficiency Assist](predictiveefficiencyassist) | standard |
 | [Cross traffic assist rear](crosstrafficassistrear) | option |
 | [Exit warning](exitwarning) | option (PYU) |
 | [Collision avoidance assist](collisionavoidanceassist) | standard |
