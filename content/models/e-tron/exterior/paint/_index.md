@@ -404,6 +404,41 @@ Color Code: **OE**
     <figcaption><h4>Audi e-tron 55 in Siam Beige with black optics and contrast color</h4></figcaption>
 </figure>
 
+<figure>
+    <a href="paint_siambeige_4.jpg">
+        <img src="paint_siambeige_4s.jpg" alt="Audi e-tron 55 in Siam Beige with black optics and contrast color" title="Audi e-tron 55 in Siam Beige with black optics and contrast color">
+    </a>
+    <figcaption><h4>Audi e-tron 55 in Siam Beige with black optics and contrast color</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_siambeige_5.jpg">
+        <img src="paint_siambeige_5s.jpg" alt="Audi e-tron 55 in Siam Beige with black optics and contrast color" title="Audi e-tron 55 in Siam Beige with black optics and contrast color">
+    </a>
+    <figcaption><h4>Audi e-tron 55 in Siam Beige with black optics and contrast color</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_siambeige_6.jpg">
+        <img src="paint_siambeige_6s.jpg" alt="Audi e-tron 55 in Siam Beige with black optics and contrast color" title="Audi e-tron 55 in Siam Beige with black optics and contrast color">
+    </a>
+    <figcaption><h4>Audi e-tron 55 in Siam Beige with black optics and contrast color</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_siambeige_7.jpg">
+        <img src="paint_siambeige_7s.jpg" alt="Audi e-tron 55 in Siam Beige with black optics and contrast color" title="Audi e-tron 55 in Siam Beige with black optics and contrast color">
+    </a>
+    <figcaption><h4>Audi e-tron 55 in Siam Beige with black optics and contrast color</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_siambeige_8.jpg">
+        <img src="paint_siambeige_8s.jpg" alt="Audi e-tron 55 in Siam Beige with black optics and contrast color" title="Audi e-tron 55 in Siam Beige with black optics and contrast color">
+    </a>
+    <figcaption><h4>Audi e-tron 55 in Siam Beige with black optics and contrast color</h4></figcaption>
+</figure>
+
 ### Manhatten Grey
 
 Color Code: **2Y**

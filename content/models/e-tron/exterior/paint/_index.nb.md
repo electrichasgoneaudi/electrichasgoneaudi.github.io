@@ -405,6 +405,41 @@ Fargekode: **OE**
     <figcaption><h4>Audi e-tron 55 i Siam Beige med sort optikk og kontrastfarge</h4></figcaption>
 </figur>
 
+<figur>
+    <a href="paint_siambeige_4.jpg">
+        <img src="paint_siambeige_4s.jpg" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
+    </a>
+    <figcaption><h4>Audi e-tron 55 i Siam Beige med sort optikk</h4></figcaption>
+</figur>
+
+<figur>
+    <a href="paint_siambeige_5.jpg">
+        <img src="paint_siambeige_5s.jpg" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
+    </a>
+    <figcaption><h4>Audi e-tron 55 i Siam Beige med sort optikk</h4></figcaption>
+</figur>
+
+<figur>
+    <a href="paint_siambeige_6.jpg">
+        <img src="paint_siambeige_6s.jpg" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
+    </a>
+    <figcaption><h4>Audi e-tron 55 i Siam Beige med sort optikk</h4></figcaption>
+</figur>
+
+<figur>
+    <a href="paint_siambeige_7.jpg">
+        <img src="paint_siambeige_7s.jpg" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
+    </a>
+    <figcaption><h4>Audi e-tron 55 i Siam Beige med sort optikk</h4></figcaption>
+</figur>
+
+<figur>
+    <a href="paint_siambeige_8.jpg">
+        <img src="paint_siambeige_8s.jpg" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
+    </a>
+    <figcaption><h4>Audi e-tron 55 i Siam Beige med sort optikk</h4></figcaption>
+</figur>
+
 ### Manhattengrå metallic
 
 Fargekode: **2Y**
