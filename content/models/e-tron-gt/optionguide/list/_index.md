@@ -241,7 +241,6 @@ weight: 100
 |-----|------|------|
 | [Adaptive air suspension](../../drivetrain/suspension/) | Standard RS  | 1BK |
 | [Damper adjustment](../../drivetrain/suspension/) | Standard GT | 1BH |
-
 | [All-wheel steering](../../drivetrain/suspension/) |  | PHZ |
 | Disc brakes front and rear |   |   |
 | Carbid brakes with black calipers |   | PC1  |
