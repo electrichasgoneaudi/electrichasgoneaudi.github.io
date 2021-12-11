@@ -11,11 +11,13 @@ Hvis du vet hvor mye nettokapasitet bilen din skal ha, kan du enkelt sjekke den.
 
 Slik sjekker du batteriet
 
-1. Lad til 100%
-2. Ta en kjøretur og bruk minst 70% av batteriet. Prøv å holde forbruket lavt.
-3. Noter deg forbruk og kjøreavstand
-4. Noter deg SOC på turens slutt (ladetilstand) (prosent igjen på batteriet)
-5. Beregn faktisk kapasitet
+1. Lad til ca 90%
+2. Koble bilen fra lader og la den stå 2-3 timer. Dette for å sikre at batteriet er skikkelig balansert. Hvis batteriet er i ubalanse vil prosenten synke i denne perioden.
+3. Koble til lader igjen og lad opp til 100%
+4. Ta en kjøretur og bruk minst 70% av batteriet. Prøv å holde forbruket lavt.
+5. Noter deg forbruk og kjøreavstand
+6. Noter deg SOC på turens slutt (ladetilstand) (prosent igjen på batteriet)
+7. Beregn faktisk kapasitet
 
 For de følgende eksemplene antar vi at du har en e-tron 55 med 86,5 kWh nettokapasitet fra fabrikken.
 
@@ -31,7 +33,7 @@ Først beregner du den totale energien som brukes
 (280 * 25)/100 = 70kWh totalt på turen.
 
 Hvis du har 16% igjen har du brukt 84% på turen (100-16)
-
+/
 84% = 70kWh batteri.
 
 Full kapasitet (100%) kan deretter beregnes:
@@ -74,6 +76,18 @@ Beregnet som over gir dette en totalakapasitet på batteriet på 33kWh. Langt un
 
 Ny batterimodul ble byttet på garanti.
 
+## Kan man heller måle hvor mye man lader?
+
+I beregningen over bruker man mengden energi man tar ut av batteriet. Kan man ikke heller bare måle hvor mye man fyller på etter en slik kjøretur og beregne utifra det?
+
+Grunnen til at dette blir mindre nøyaktig er at under lading forsvinner det en del energi i laderen under konverteringen fra vekselstrøm til likestrøm. Det er ikke mulig å vite hvor
+stor dette tapet er nøyaktig.  Audi oppgir indirekte dette tapet for WLTP forbruket. WLTP forbruk er oppgitt inkludert ladetap. Når man vet hvor stort batteriet er og hvor langt man kjørte kan man regne dette ut.
+
+På Audi e-tron oppgis minimum WLTP forbruk til 22.2kWh/100km. Samtidig oppgis rekkevidden til 441km. Når man vet at batteriet er på 86.5kWh vet man for å få 441km ut av det batteriet må man ha et forbruk på 19.6kWh/100. (86.5/4,41)
+22.2/19.6 gir et tap på 13.2%. Dette er et relativt høyt tall og over det man vanligvis ser.
+
+La oss anta at at man har ladet fra 15% - 99% og ladeboksen oppgir at man har ladet 79.15kWh. Dette betyr at å lade hele batteriet krever 94.22kWh Dette tilsvarer 8.8% over batteriet kapasitet. Sannsynligvis er batteriet kapasitet bra i henhold til spesifikasjon,
+men er vanskelig å vite helt sikkert da man ikke vet varmetapet i lader/kabler.
 
 ## Hvordan beskytte batteriet?
 
