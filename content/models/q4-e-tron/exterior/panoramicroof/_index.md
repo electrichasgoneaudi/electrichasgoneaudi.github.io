@@ -5,9 +5,9 @@ description: If you want to stand out in the crowd you can order your Audi Q4 e-
 weight: 6
 ---
 
-Taket kan åpnes. I tillegg til å gi Audi Q4 e-tron et kulere og mer eksklusivt utseende, gir den mer lys inn i bilen og bedre sikt fra innsiden.
+The roof can be opened. In addition to giving the Audi Q4 e-tron a cooler and more exclusive look, it provides more light into the car and better visibility from the inside.
 
-Du kan bestille panoramatak med opsjons-ID **3FU** 
+You can order panoramic roofs with option ID **3FU**
 
 ![Panoramic roof](panoramaroof.jpg "Panoramic roof")
 
