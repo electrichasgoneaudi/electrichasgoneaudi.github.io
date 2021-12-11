@@ -19,4 +19,7 @@ You can order panoramic roof with option id **3FU**
 
 ![Panoramic roof](control.jpg "Takkontrollene")
 
+![Panoramic roof](insideclosed.jpg "Gardin lukket")
+
+
 {{% children description="true" depth="1" %}}

@@ -19,4 +19,7 @@ Du kan bestille panoramatak med opsjons-ID **3FU**
 
 ![Panoramic roof](control.jpg "The roof controls")
 
+![Panoramic roof](insideclosed.jpg "Curtain closed")
+
+
 {{% children description="true" depth="1" %}}

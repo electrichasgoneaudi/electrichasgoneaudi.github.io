@@ -166,6 +166,8 @@ Audi e-tron kan leveres med en rekke felger fra 19" til 22". Klikk på valgene n
 | Skinn / mono.pur 550 kunstskinn | For standardseter | N4M |
 | Milano skinninteriør |  | N5W |
 | Valconaskinn |  | N5D, N0K, N2R |
+| Audi exclusive skinninteriør | | YZI |
+| Utvided Audi exclusive skinninteriør | | YZP |
 
 ## Instrumentpanel
 

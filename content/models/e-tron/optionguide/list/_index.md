@@ -92,6 +92,8 @@ Audi e-tron can be delivered with serveral types of wheels from 19" to 22". Clic
 
 | Title | Description | ID |
 |-----|------|------|
+| S line interior | [Black headliner](../../interior/headliner/#sort), [4-veis korsryggstøtte](../../interior/seats/#4-veis-korsryggstøtte), Belyste innstegslister foran og bak, [S-Line Sportsseter](../../interior/seats/#s-line-sportsseter), [Aluminiumsdekor](../../interior/inlays/), Skinn/alcantara  | WQS |
+| Winterpackage | Inneholder [Setevarme foran](../../interior/seats/#setevarme), [Forberedelse for tilhengerfeste](../../transportation/#trailer), [Sidekollisjonsputer bak](../../technology/safety/#side-airbags-rear), [4-veis korsryggstøtte for forsetene](../../interior/seats/#4-way-lumbar-support), [Takreling i eloksert aluminium](../../transportation/#roof-storage), [Assistentpakke tur](#assistentsystemer), [Parkeringsklimaanlegg med ekstra komfort](../../technology/climatecontrol/#parkeringsklimaanlegg-med-ekstra-komfort)  |  WNW |
 
 ## Lights
 
@@ -165,6 +167,8 @@ Audi e-tron can be delivered with serveral types of wheels from 19" to 22". Clic
 | Leather / mono pur 550 |  | N4M |
 | Milano leather |  | N5W |
 | Valcona leather |  | N5D, N0K, N2R |
+| Audi exclusive leather | | YZI |
+| Extended Audi exclusive leather | | YZP |
 
 ## Dashboard
 
@@ -209,10 +213,11 @@ You can choose between serveral seat types and seat materials. Click links below
 | [Moon silver headliner](../../interior/headliner/) |  |  |
 | [Black headliner](../../interior/headliner/)  |  |  6NQ | 
 | [Grey inlay](../../interior/inlays/)  |  |  |
-| [Vulcano ash inlay](../../interior/inlays/) |  | 5MB | 
+| [Inlays in Fine grain ash, Natural volcanic grey inlays](../../interior/inlays/) |  | 5MB | 
 | [Valnut inlay](../../interior/inlays/)  |  |  5MG |
 | [Aluminum inlay](../../interior/inlays/) | |  5TG |
 | [Carbon inlay](../../interior/inlays/)  |  | 5MK | 
+| [Audi exclusive inlays](../../interior/inlays/)  |  | YTA | 
 | [Ambient light package](../../interior/lights/#ambient-light-package) | | QQ1 |
 | [Contour and ambient light](../../interior/lights/#multicolor-contourambient-light-pack) |  | QQ2  |
 | [Buttons in mat black](../../interior/buttons/) |  |  |
@@ -248,11 +253,12 @@ You can choose between serveral seat types and seat materials. Click links below
 | Sigaret lighter and ash tray |  | 9JC |
 | [Entry strips front / rear with aluminum panel, without lighting and without logo](../../exterior/doors/#door-inlays) | Standard |  |
 | [Illuminated entry strips front / rear with aluminum field, without logo](../../exterior/doors/#door-inlays) |  | VT3 |
-| [Illuminated entry moldings with aluminum panels at the front and back, S-logo on the list in front](../../exterior/doors/#door-inlays)  | S-line/S-line interior | VT5 |
+| [Illuminated door sill trims with aluminium inlays front & rear and S logo in front](../../exterior/doors/#door-inlays)  | S-line/S-line interior | VT5 |
 | [12-volt outlet](../../technology/connections/#12volt) | Front, rear and luggage compartment | Standard | |
 | Storage and luggage compartment package | - Two cup holders in the rear center console <br> - [Cladding in the storage compartment in the spare wheel well](../../transportation/#storage-and-luggage-compartment-package) <br> - [Net in the side of the luggage compartment](../../transportation/#storage-and-luggage-compartment-package) <br /> - [Luggage net for transporting objects (luggage straps)](../../transportation/#storage-and-luggage-compartment-package)  | QE1 | 
 | [Separation net for luggage compartment](../../transportation/#luggage-compartment-seperation-net)  |  | 3CX |
 | Flexible folding luggage compartment mat  |  | 6SJ |
+| Audi exclusive mats | The color of the floor mats, the piping and the seams can be selected from the range of Audi exclusive main colors: alabaster white, cognac brown, diamond silver, havana brown, jet gray, crimson red, ocean blue, black | YTA |
 
 ## Infotainment
 
