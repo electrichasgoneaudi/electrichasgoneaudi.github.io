@@ -37,6 +37,10 @@ weight: 20
 
 {{< youtube TQHzYwTZLY4 >}}
 
+### Out of spec Reviews: This Is The Electric Audi RS e-tron GT And We Take It For A Blast In The Canyons!
+
+{{< youtube F81vPrpeZig >}}
+
 ### Carwow: Audi RS e-tron GT 2021 in-depth review...see how I broke it. Oops!
 
 {{< youtube qloYqQ6r_kM >}}
