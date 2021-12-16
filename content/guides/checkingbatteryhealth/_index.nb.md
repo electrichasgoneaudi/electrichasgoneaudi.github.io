@@ -70,7 +70,7 @@ Nedenfor er et eksempel fra bil med feil på battericelle.
 
 ![VC](vc1.jpg "Data fra bil med feil")
 
-Her er bilen kjørt 118.1km med et forbruk på 21. Prosenten har gått ned fra 100% - 25%.
+Her er bilen kjørt 118.1km med et forbruk på 21kWh/100km. Prosenten har gått ned fra 100% - 25%.
 
 Beregnet som over gir dette en totalakapasitet på batteriet på 33kWh. Langt under sitt originale 86.5kWh.
 
