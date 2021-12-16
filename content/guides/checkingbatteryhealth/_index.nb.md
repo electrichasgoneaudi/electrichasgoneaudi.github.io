@@ -70,7 +70,7 @@ Nedenfor er et eksempel fra bil med feil på battericelle.
 
 ![VC](vc1.jpg "Data fra bil med feil")
 
-Her er bilen kjært 118.1km med et forbruk på 21. Prosenten har gått ned fra 100% - 25%.
+Her er bilen kjørt 118.1km med et forbruk på 21. Prosenten har gått ned fra 100% - 25%.
 
 Beregnet som over gir dette en totalakapasitet på batteriet på 33kWh. Langt under sitt originale 86.5kWh.
 
@@ -80,7 +80,7 @@ Ny batterimodul ble byttet på garanti.
 
 I beregningen over bruker man mengden energi man tar ut av batteriet. Kan man ikke heller bare måle hvor mye man fyller på etter en slik kjøretur og beregne utifra det?
 
-Grunnen til at dette blir mindre nøyaktig er at under lading forsvinner det en del energi i laderen under konverteringen fra vekselstrøm til likestrøm. Det er ikke mulig å vite hvor
+Grunnen til at dette blir mindre nøyaktig er at under lading forsvinner det en del energi i laderen under konverteringen fra vekselstrøm til likestrøm eller i varmetap i kabler og annet elektronikk under hurtiglading. Det er ikke mulig å vite hvor
 stor dette tapet er nøyaktig.  Audi oppgir indirekte dette tapet for WLTP forbruket. WLTP forbruk er oppgitt inkludert ladetap. Når man vet hvor stort batteriet er og hvor langt man kjørte kan man regne dette ut.
 
 På Audi e-tron oppgis minimum WLTP forbruk til 22.2kWh/100km. Samtidig oppgis rekkevidden til 441km. Når man vet at batteriet er på 86.5kWh vet man for å få 441km ut av det batteriet må man ha et forbruk på 19.6kWh/100. (86.5/4,41)
