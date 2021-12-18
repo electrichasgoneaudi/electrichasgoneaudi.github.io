@@ -215,4 +215,11 @@ This has option id **6H2**. Only avaiable with black optic, black optic plus and
     <figcaption><h4>Carbon optics with black single frame grill and black rings</h4></figcaption>
 </figure>
 
+<figure>
+    <a href="blackopticsplus_singleframeblack_1.jpg">
+        <img src="blackopticsplus_singleframeblack_1s.jpg" alt="Black optics plus with black single frame grill and black rings" title="Black optics plus with black single frame grill and black rings">
+    </a>
+    <figcaption><h4>Black optics plus with black single frame grill and black rings</h4></figcaption>
+</figure>
+
 {{% children description="true" depth="1" %}}

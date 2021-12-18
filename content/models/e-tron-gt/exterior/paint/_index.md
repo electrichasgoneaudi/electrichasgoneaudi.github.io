@@ -21,14 +21,12 @@ Color Code: **T9**
     <figcaption><h4>Audi RS e-tron GT in Ibis White with carbon optics</h4></figcaption>
 </figure>
 
-
 <figure>
     <a href="paint_ibis_2.jpg">
         <img src="paint_ibis_2s.jpg" alt="Audi RS e-tron GT in Ibis White with carbon optics" title="Audi RS e-tron GT in Ibis White with carbon optics">
     </a>
     <figcaption><h4>Audi RS e-tron GT in Ibis White with carbon optics</h4></figcaption>
 </figure>
-
 
 <figure>
     <a href="paint_ibis_3.jpg">
@@ -37,7 +35,6 @@ Color Code: **T9**
     <figcaption><h4>Audi RS e-tron GT in Ibis White with carbon optics</h4></figcaption>
 </figure>
 
-
 <figure>
     <a href="paint_ibis_4.jpg">
         <img src="paint_ibis_4s.jpg" alt="Audi RS e-tron GT in Ibis White with carbon optics" title="Audi RS e-tron GT in Ibis White with carbon optics">
@@ -45,14 +42,12 @@ Color Code: **T9**
     <figcaption><h4>Audi RS e-tron GT in Ibis White with carbon optics</h4></figcaption>
 </figure>
 
-
 <figure>
     <a href="paint_ibis_5.jpg">
         <img src="paint_ibis_5s.jpg" alt="Audi e-tron GT in Ibis White with black optics" title="Audi e-tron GT in Ibis White with black optics">
     </a>
     <figcaption><h4>Audi e-tron GT in Ibis White with black optics</h4></figcaption>
 </figure>
-
 
 <figure>
     <a href="paint_ibis_6.jpg">
@@ -109,39 +104,111 @@ Color Code: **Y1**
 
 Color Code **9W**
 
-![Audi e-tron GT in Ascari Blue](paint_ascari_1.jpg "Audi e-tron GT in Ascari Blue")
+<figure>
+    <a href="paint_ascari_1.jpg">
+        <img src="paint_ascari_1s.jpg" alt="Audi e-tron GT in Ascari Blue" title="Audi e-tron GT in Ascari Blue">
+    </a>
+    <figcaption><h4>Audi e-tron GT in Ascari Blue</h4></figcaption>
+</figure>
 
-![Audi e-tron GT in Ascari Blue](paint_ascari_2.jpg "Audi e-tron GT in Ascari Blue")
+<figure>
+    <a href="paint_ascari_2.jpg">
+        <img src="paint_ascari_2s.jpg" alt="Audi e-tron GT in Ascari Blue" title="Audi e-tron GT in Ascari Blue">
+    </a>
+    <figcaption><h4>Audi e-tron GT in Ascari Blue</h4></figcaption>
+</figure>
 
-![Audi e-tron GT in Ascari Blue](paint_ascari_3.jpg "Audi e-tron GT in Ascari Blue")
+<figure>
+    <a href="paint_ascari_3.jpg">
+        <img src="paint_ascari_3s.jpg" alt="Audi e-tron GT in Ascari Blue" title="Audi e-tron GT in Ascari Blue">
+    </a>
+    <figcaption><h4>Audi e-tron GT in Ascari Blue</h4></figcaption>
+</figure>
 
-![Audi e-tron GT in Ascari Blue](paint_ascari_4.jpg "Audi e-tron GT in Ascari Blue")
+<figure>
+    <a href="paint_ascari_4.jpg">
+        <img src="paint_ascari_4s.jpg" alt="Audi e-tron GT in Ascari Blue" title="Audi e-tron GT in Ascari Blue">
+    </a>
+    <figcaption><h4>Audi e-tron GT in Ascari Blue</h4></figcaption>
+</figure>
 
 ### Florett Silver
 
 Color Code: **L5**
 
-![Audi e-tron GT in Ibis White](paint_florett_1.jpg "Audi e-tron GT with Florett Silver with custom full body paint")
+<figure>
+    <a href="paint_florett_1.jpg">
+        <img src="paint_florett_1s.jpg" alt="Audi e-tron GT with Florett Silver with custom full body paint" title="Audi e-tron GT with Florett Silver with custom full body paint">
+    </a>
+    <figcaption><h4>Audi e-tron GT with Florett Silver</h4></figcaption>
+</figure>
 
-![Audi e-tron GT in Ibis White](paint_florett_2.jpg "Audi e-tron GT with Florett Silver with custom full body paint")
+<figure>
+    <a href="paint_florett_2.jpg">
+        <img src="paint_florett_2s.jpg" alt="Audi e-tron GT with Florett Silver with custom full body paint" title="Audi e-tron GT with Florett Silver with custom full body paint">
+    </a>
+    <figcaption><h4>Audi e-tron GT with Florett Silver</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_florett_3.jpg">
+        <img src="paint_florett_3s.jpg" alt="Audi e-tron GT with Florett Silver with custom full body paint" title="Audi e-tron GT with Florett Silver with custom full body paint">
+    </a>
+    <figcaption><h4>Audi e-tron GT with Florett Silver</h4></figcaption>
+</figure>
 
 ### Suzuka Grey
 
 Color Code: **M1**
 
-![Audi e-tron GT in Ibis White](paint_suzuka_1.jpg "Audi RS e-tron GT in Suzuka Grey")
+<figure>
+    <a href="paint_suzuka_1.jpg">
+        <img src="paint_suzuka_1s.jpg" alt="Audi RS e-tron GT in Suzuka Grey" title="Audi RS e-tron GT in Suzuka Grey">
+    </a>
+    <figcaption><h4>Audi RS e-tron GT in Suzuka Grey</h4></figcaption>
+</figure>
 
-![Audi e-tron GT in Ibis White](paint_suzuka_2.jpg "Audi RS e-tron GT in Suzuka Grey")
+<figure>
+    <a href="paint_suzuka_2.jpg">
+        <img src="paint_suzuka_2s.jpg" alt="Audi RS e-tron GT in Suzuka Grey" title="Audi RS e-tron GT in Suzuka Grey">
+    </a>
+    <figcaption><h4>Audi RS e-tron GT in Suzuka Grey</h4></figcaption>
+</figure>
 
-![Audi e-tron GT in Ibis White](paint_suzuka_3.jpg "Audi RS e-tron GT in Suzuka Grey")
+<figure>
+    <a href="paint_suzuka_3.jpg">
+        <img src="paint_suzuka_3s.jpg" alt="Audi RS e-tron GT in Suzuka Grey" title="Audi RS e-tron GT in Suzuka Grey">
+    </a>
+    <figcaption><h4>Audi RS e-tron GT in Suzuka Grey</h4></figcaption>
+</figure>
 
-![Audi e-tron GT in Ibis White](paint_suzuka_4.jpg "Audi e-tron GT in Suzuka Grey")
+<figure>
+    <a href="paint_suzuka_4.jpg">
+        <img src="paint_suzuka_4s.jpg" alt="Audi e-tron GT in Suzuka Grey" title="Audi e-tron GT in Suzuka Grey">
+    </a>
+    <figcaption><h4>Audi e-tron GT in Suzuka Grey</h4></figcaption>
+</figure>
 
-![Audi e-tron GT in Ibis White](paint_suzuka_5.jpg "Audi e-tron GT in Suzuka Grey")
+<figure>
+    <a href="paint_suzuka_5.jpg">
+        <img src="paint_suzuka_5s.jpg" alt="Audi e-tron GT in Suzuka Grey" title="Audi e-tron GT in Suzuka Grey">
+    </a>
+    <figcaption><h4>Audi e-tron GT in Suzuka Grey</h4></figcaption>
+</figure>
 
-![Audi e-tron GT in Ibis White](paint_suzuka_6.jpg "Audi e-tron GT in Suzuka Grey")
+<figure>
+    <a href="paint_suzuka_6.jpg">
+        <img src="paint_suzuka_6s.jpg" alt="Audi e-tron GT in Suzuka Grey" title="Audi e-tron GT in Suzuka Grey">
+    </a>
+    <figcaption><h4>Audi e-tron GT in Suzuka Grey</h4></figcaption>
+</figure>
 
-![Audi e-tron GT in Ibis White](paint_suzuka_7.jpg "Audi e-tron GT in Suzuka Grey")
+<figure>
+    <a href="paint_suzuka_7.jpg">
+        <img src="paint_suzuka_7s.jpg" alt="Audi e-tron GT in Suzuka Grey" title="Audi e-tron GT in Suzuka Grey">
+    </a>
+    <figcaption><h4>Audi e-tron GT in Suzuka Grey</h4></figcaption>
+</figure>
 
 {{< youtube FStjUuXY6-I >}}
 
@@ -149,13 +216,33 @@ Color Code: **M1**
 
 Color Code: **6Y**
 
-![Audi RS e-tron GT in Mythos Black](paint_daytona_1.jpg "Audi RS e-tron GT in Daytona Pearl Grey")
+<figure>
+    <a href="paint_daytona_1.jpg">
+        <img src="paint_daytona_1s.jpg" alt="Audi RS e-tron GT in Daytona Pearl Grey" title="Audi RS e-tron GT in Daytona Pearl Grey">
+    </a>
+    <figcaption><h4>Audi RS e-tron GT in Daytona Pearl Grey</h4></figcaption>
+</figure>
 
-![Audi RS e-tron GT in Mythos Black](paint_daytona_2.jpg "Audi RS e-tron GT in Daytona Pearl Grey")
+<figure>
+    <a href="paint_daytona_2.jpg">
+        <img src="paint_daytona_2s.jpg" alt="Audi RS e-tron GT in Daytona Pearl Grey" title="Audi RS e-tron GT in Daytona Pearl Grey">
+    </a>
+    <figcaption><h4>Audi RS e-tron GT in Daytona Pearl Grey</h4></figcaption>
+</figure>
 
-![Audi RS e-tron GT in Mythos Black](paint_daytona_3.jpg "Audi RS e-tron GT in Daytona Pearl Grey by Auditography")
+<figure>
+    <a href="paint_daytona_3.jpg">
+        <img src="paint_daytona_3s.jpg" alt="Audi RS e-tron GT in Daytona Pearl Grey" title="Audi RS e-tron GT in Daytona Pearl Grey">
+    </a>
+    <figcaption><h4>Audi RS e-tron GT in Daytona Pearl Grey  by @Auditography</h4></figcaption>
+</figure>
 
-![Audi RS e-tron GT in Mythos Black](paint_daytona_4.jpg "Audi RS e-tron GT in Daytona Pearl Grey by Auditography")
+<figure>
+    <a href="paint_daytona_4.jpg">
+        <img src="paint_daytona_4s.jpg" alt="Audi RS e-tron GT in Daytona Pearl Grey" title="Audi RS e-tron GT in Daytona Pearl Grey">
+    </a>
+    <figcaption><h4>Audi RS e-tron GT in Daytona Pearl Grey by @Auditography</h4></figcaption>
+</figure>
 
 {{< youtube Mtr5mCiPyFA >}}
 
@@ -163,9 +250,19 @@ Color Code: **6Y**
 
 Color Code: **V0**
 
-![Audi e-tron GT in Tactile Green](paint_tactilegreen_1.jpg "Audi e-tron GT in Tactile Green")
+<figure>
+    <a href="paint_tactilegreen_1.jpg">
+        <img src="paint_tactilegreen_1s.jpg" alt="Audi e-tron GT in Tactile Green" title="Audi e-tron GT in Tactile Green">
+    </a>
+    <figcaption><h4>Audi e-tron GT in Tactile Green</h4></figcaption>
+</figure>
 
-![Audi e-tron GT in Tactile Green](paint_tactilegreen_2.jpg "Audi e-tron GT in Tactile Green by Auditography")
+<figure>
+    <a href="paint_tactilegreen_2.jpg">
+        <img src="paint_tactilegreen_2s.jpg" alt="Audi e-tron GT in Tactile Green" title="Audi e-tron GT in Tactile Green">
+    </a>
+    <figcaption><h4>Audi e-tron GT in Tactile Green by @Auditography</h4></figcaption>
+</figure>
 
 {{< youtube EhJR0IM4uac >}}
 
@@ -175,9 +272,19 @@ Color Code: **V0**
 
 Color Code: **82**
 
-![Audi e-tron GT in Kemora Grey](paint_kemora_1.jpg "Audi e-tron GT in Kemora Grey")
+<figure>
+    <a href="paint_kemora_1.jpg">
+        <img src="paint_kemora_1s.jpg" alt="Audi e-tron GT in Kemora Grey" title="Audi e-tron GT in Kemora Grey">
+    </a>
+    <figcaption><h4>Audi e-tron GT in Kemora Grey</h4></figcaption>
+</figure>
 
-![Audi e-tron GT in Kemora Grey](paint_kemora_2.jpg "Audi e-tron GT in Kemora Grey")
+<figure>
+    <a href="paint_kemora_2.jpg">
+        <img src="paint_kemora_2s.jpg" alt="Audi e-tron GT in Kemora Grey" title="Audi e-tron GT in Kemora Grey">
+    </a>
+    <figcaption><h4>Audi e-tron GT in Kemora Grey</h4></figcaption>
+</figure>
 
 {{< youtube lLJ--NYyOG0 >}}
 
@@ -185,11 +292,19 @@ Color Code: **82**
 
 Color Code: **OE**
 
-![Audi e-tron GT in Mythos Black](paint_mythosblack_1.jpg "Audi e-tron GT in Mythos Black")
+<figure>
+    <a href="paint_mythosblack_1.jpg">
+        <img src="paint_mythosblack_1s.jpg" alt="Audi e-tron GT in Mythos Black" title="Audi e-tron GT in Mythos Black">
+    </a>
+    <figcaption><h4>Audi e-tron GT in Mythos Black</h4></figcaption>
+</figure>
 
-![Audi e-tron GT in Mythos Black](paint_mythosblack_2.jpg "Audi e-tron GT in Mythos Black")
-
-
+<figure>
+    <a href="paint_mythosblack_2.jpg">
+        <img src="paint_mythosblack_2s.jpg" alt="Audi e-tron GT in Mythos Black" title="Audi e-tron GT in Mythos Black">
+    </a>
+    <figcaption><h4>Audi e-tron GT in Mythos Black</h4></figcaption>
+</figure>
 
 ## Audi Exclusive Paint colors
 
