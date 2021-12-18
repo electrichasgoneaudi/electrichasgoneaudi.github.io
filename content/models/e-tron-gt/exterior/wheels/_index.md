@@ -75,13 +75,6 @@ The following wheels have been available from Audi to Audi e-tron. Varies for th
 
 9.5j x 21 with 265/35 in front and 11.5J x 21 with 305/30 rear Part No: **441**
 
-![21 inch 10 arm trapez modul design titan grey polished](wheel_44I_1.jpg "21 inch 5 dobbel arm concav module black by Auditography")
-
-![21 inch 10 arm trapez modul design titan grey polished](wheel_44I_2.jpg "21 inch 5 dobbel arm concav module black")
-
-![21 inch 10 arm trapez modul design titan grey polished](wheel_44I_3.jpg "21 inch 5 dobbel arm concav module black")
-
-
 <figure>
     <a href="wheel_44I_1.jpg">
         <img src="wheel_44I_1s.jpg" alt="21 inch 5 dobbel arm concav module black by Auditography" title="21 inch 5 dobbel arm concav module black by Auditography">
