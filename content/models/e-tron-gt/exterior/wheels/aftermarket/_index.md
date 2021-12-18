@@ -22,3 +22,12 @@ Vossen HF4T in Sating Black 10x22 5/130 (Flat) front and 12 x 22 5/130 (deep) in
     </a>
     <figcaption><h4>Vossen HF4T in Sating Black 10x22 5/130 (Flat) front and 12 x 22 5/130 (deep) in rear</h4></figcaption>
 </figure>
+
+## 21" GMP Rebel
+
+<figure>
+    <a href="gmp_rebel_1.jpg">
+        <img src="gmp_rebel_1s.jpg" alt="GMP Rebel 21 x 9.5 Front and 21 x 11.5 Rear" title="GMP Rebel 21 x 9.5 Front and 21 x 11.5 Rear">
+    </a>
+    <figcaption><h4>GMP Rebel 21 x 9.5 Front and 21 x 11.5 Rear</h4></figcaption>
+</figure>
