@@ -8,7 +8,27 @@ weight: 1
 
 ## Paint colors
 
-The different standard colors are
+Audi e-tron GT and Audi RS e-tron GT can be delivered with serveral standard colors and more than 50 Audi exclusive colors.
+
+On this page you find high-resolution pictures of real cars with the different colors. Clock on images for full size.
+
+Click on list below for navigating directly to colors or scroll throug the page
+
+- [Paint colors](#paint-colors)
+  - [Ibis White](#ibis-white)
+  - [Tango Red](#tango-red)
+  - [Ascari Blue](#ascari-blue)
+  - [Florett Silver](#florett-silver)
+  - [Suzuka Grey](#suzuka-grey)
+  - [Daytona Grey](#daytona-grey)
+  - [Tactile Green](#tactile-green)
+  - [Kemora Grey](#kemora-grey)
+  - [Mythos black](#mythos-black)
+- [Audi Exclusive Paint colors](#audi-exclusive-paint-colors)
+  - [Nardo Grey](#nardo-grey)
+
+
+For more color options see [optics & grill](../optics)
 
 ### Ibis White
 
