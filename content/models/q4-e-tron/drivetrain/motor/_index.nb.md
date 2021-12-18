@@ -29,9 +29,7 @@ Q4 45 e-tron quattro kjører på 76,6 kWh-batteriet (82 kWh brutto). Den leverer
 
 Toppmodellene Q4 50 e-tron quattro og Q4 Sportback 50 e-tron quattro går også på 77 kWh-batteriet (82 kWh brutto). Den leverer to elektriske motorer som kombineres for å produsere en maksimal effekt på 220 kW (299 PS) (maksimal effekt bestemt i henhold til UN-GTR.21.) og 460 Nm (339,3 lb-ft) dreiemoment, samtidig som den lager elektrisk firehjulsdrift kjøretur blitt en realitet. Den bakre motoren genererer 150 kW (204 PS) og 310 Nm, den fremre motoren 80 kW (109 PS) og 162 Nm. De elektriske motorene holder reserver tilgjengelige for visse kjøresituasjoner, og det er grunnen til at summen av deres individuelle ytelser overstiger frekvensomformerens totale ytelse.
 
-Full effekt er kun tilgjengelig over 80 % SOC. Etter det vil den falle ned mot 265HK. Dette skjermbildet viser hvordan boost-nivået er omtrent 50 % ved 66 % SOC.
-
-![Boost](boost.jpg "omtrent 50 % boost ved 66 % SOC")
+Full effekt er kun tilgjengelig over 80 % SOC. Se [ytelse](#ytelse)
 
 ## Motorteknologi
 
