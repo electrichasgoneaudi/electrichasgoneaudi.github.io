@@ -90,4 +90,18 @@ Motorene er væskekjølte. Hver motor har flytende statorkjøling for å gi maks
 
 ![Cooling](cooling.jpg "Audi Q4 45/50 e-tron væskekjøling av front- og bakmotorer")
 
+## Ytelse
+
+For å beskytte batteriet og annen elektronikk reduserer Audi den tilgjengelige motorkraften avhengig av SOC og temperatur.
+
+For Q50 boost er full kraft bare tilgjengelig over 80 %. Etter det vil den falle ned mot 265HK. Dette skjermbildet viser hvordan boost-nivået er omtrent 50 % ved 66 % SOC.
+
+![Boost](boost.jpg "omtrent 50 % boost ved 66 % SOC")
+
+Men også for de andre modellene vil den redusere effekten under 100 % når SOC er redusert eller temperaturen er lav.
+
+Eksempler
+
+![Redusert effekt](vc2.jpg "70 % strøm på 32 % SOC og 0,5 grader")
+
 {{% children description="true" depth="1" %}}

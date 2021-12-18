@@ -30,9 +30,7 @@ The Q4 45 e-tron quattro run on the 76.6 kWh battery (82 kWh gross). It supplies
 
 The top models Q4 50 e-tron quattro and Q4 Sportback 50 e-tron quattro also run on the 77 kWh battery (82 kWh gross). It supplies two electric motors that combine to produce a maximum output of 220 kW (299 PS)(Maximum output determined according to UN-GTR.21.) and 460 Nm (339.3 lb-ft) of torque, while making electric all-wheel drive become a reality. The rear motor generates 150 kW (204 PS) and 310 Nm, the front motor 80 kW (109 PS) and 162 Nm. The electric motors keep reserves available for certain driving situations, which is why the sum of their individual outputs exceeds the drive’s total output.
 
-The full power is only available above 80% SOC. After that it will drop down against 265HP. This screenshot show how the boost level is about 50% at 66% SOC.
-
-![Boost](boost.jpg "about 50% boost at 66% SOC")
+The full power is only available above 80% SOC. See [Performance](#performance)
 
 ## Motor technology
 
@@ -90,5 +88,19 @@ The powerful APP310 e-drive unit transmits power to the driven wheels using an e
 The motors are liquid cooled. Each motor has liquid stator cooling to give maximum thermal robustness under all operating conditions
 
 ![Cooling](cooling.jpg "Audi Q4 45/50 e-tron liquid cooling of front and rear motors")
+
+## Performance
+
+To protect the battery and other electronics Audi reduces the available power depending on SOC and temprature.
+
+For Q50 boost the full power is only avaible over 80%.  After that it will drop down against 265HP. This screenshot show how the boost level is about 50% at 66% SOC.
+
+![Boost](boost.jpg "about 50% boost at 66% SOC")
+
+But also for the other models it will reduce power below 100% when SOC is reduced or temprature is low.
+
+Examples
+
+![Reduced power](vc2.jpg "70% power on 32% SOC and 0.5 degree")
 
 {{% children description="true" depth="1" %}}
