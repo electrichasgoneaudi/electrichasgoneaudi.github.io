@@ -25,7 +25,7 @@ Klikk på listen nedenfor for å navigere direkte til farger eller bla gjennom s
   - [Kemoragrå](#kemoragrå)
   - [Mythossort](#mythossort)
 - [Individuallakkering Audi exclusive](#individuallakkering-audi-exclusive)
-  - [Nardo Grey](#nardo-grey)
+  - [Nardogrå](#nardogrå)
 
 
 For mere fargevalg se [opptikk og grill](../optics)
@@ -366,7 +366,7 @@ Under ser du noen av fargene du kan velge mellom og eksempler av biler med slike
     <figcaption><h4>Metallic lakk</h4></figcaption>
 </figure>
 
-### Nardo Grey
+### Nardogrå
 
 Fargekode: **Y7C**
 
