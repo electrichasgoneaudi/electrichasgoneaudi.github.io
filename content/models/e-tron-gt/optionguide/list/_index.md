@@ -35,7 +35,7 @@ weight: 100
 | [20" 5 arm aero design](../../exterior/wheels/#20-5-arm-aero-design) |  |  47I |v-design-wheels-for-e-tron-s) | Winter | CA0 |
 | [21" 5 double arm concav module](../../exterior/wheels/#21-5-dobbel-arm-concav-module-black) |  | 44I|
 | [21" 10 spoke trapez module design black](../../exterior/wheels/#21-10-arm-trapez-modul-design-black-polished) | | 47J|
-| [21" 10 spoke trapez module design platina](../../exterior/wheels/#21-10-arm-trapez-modul-design-black-polished) | | 47L|
+| [21" 10 spoke trapez module design platina](../../exterior/wheels/#21-10-arm-trapez-modul-design-platina-grey) | | 47L|
 | [21" 10 spoke trapez module design titan](../../exterior/wheels/#21-10-arm-trapez-modul-design-titan-grey-polished) | | 54C|
 
 ## Wheel accessories

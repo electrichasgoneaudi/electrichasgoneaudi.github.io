@@ -11,7 +11,7 @@ weight: 100
 
 | Title | Description | ID |
 |-----|------|------|
-|  [Ibishvit](../../exterior/paint/#ibihvit)   | Non metallic   |  A2   |
+|  [Ibishvit](../../exterior/paint/#ibishvit)   | Non metallic   |  A2   |
 |  [Mythossort](../../exterior/paint/#mythossort)  | Metallic   |  OE   |
 |  [Florettsølv](../../exterior/paint/#florettsølv) | Metallic   |  L5   |
 |  [Taktikgrønn](../../exterior/paint/#taktikgrønn) | Metallic | V0 |

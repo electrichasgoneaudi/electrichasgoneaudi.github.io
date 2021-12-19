@@ -11,7 +11,7 @@ Nedenfor er de viktigste tilvalgene du må vurdere når du kjøper en e-tron GT
 
 ![Privacy Windows](../exterior/paint/paint_daytona_2s.jpg)
 
-## Privacy windows: Option ID QL5
+## Privacy vinduer: tilvalg QL5
 
 Improves looks a lot and you dont need to drive around in a fish tank on display.
 
