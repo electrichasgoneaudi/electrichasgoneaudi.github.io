@@ -107,6 +107,24 @@ The following wheels have been available from Audi to Audi e-tron. Varies for th
     <figcaption><h4>21 inch 10 arm trapez modul design titan grey polished by @Auditography</h4></figcaption>
 </figure>
 
+<figure>
+    <a href="wheel_54c_2.jpg">
+        <img src="wheel_54c_2s.jpg" alt="21 inch 10 arm trapez modul design titan grey polished by Auditography" title="21 inch 10 arm trapez modul design titan grey polished by Auditography">
+    </a>
+    <figcaption><h4>21 inch 10 arm trapez modul design titan grey polished</h4></figcaption>
+</figure>
+
+## 21" 10 arm trapez modul design platina grey
+
+9.5j x 21 with 265/35 in front and 11.5J x 21 with 305/30 rear Part No: **47L**
+
+<figure>
+    <a href="wheel_47l_1.jpg">
+        <img src="wheel_47l_1s.jpg" alt="21 inch 10 arm trapez modul design titan grey polished by Auditography" title="21 inch 10 arm trapez modul design titan grey polished by Auditography">
+    </a>
+    <figcaption><h4>21 inch 10 arm trapez modul design titan grey polished by @Auditography</h4></figcaption>
+</figure>
+
 ## 21" 10 arm trapez modul design black polished
 
 9.5j x 21 with 265/35 in front and 11.5J x 21 with 305/30 rear Part No: **47J**

@@ -35,16 +35,16 @@ Dette er standard optikk på Audi e-tron GT. Frontelementer i Manhattengrå.
 
 <figure>
     <a href="standardoptics_singleframehekla_2.jpg">
-        <img src="standardoptics_singleframehekla_2s.jpg" alt="Standard otpikk med singleframe grill i heklagrå" title="Standard otpikk med singleframe grill i heklagrå">
+        <img src="standardoptics_singleframehekla_2s.jpg" alt="Standard optikk med singleframe grill i heklagrå" title="Standard optikk med singleframe grill i heklagrå">
     </a>
-    <figcaption><h4>Standard otpikk med singleframe grill i heklagrå</h4></figcaption>
+    <figcaption><h4>Standard optikk med singleframe grill i heklagrå</h4></figcaption>
 </figure>
 
 <figure>
     <a href="standardoptics_singleframehekla_3.jpg">
-        <img src="standardoptics_singleframehekla_3s.jpg" alt="Standard otpikk med singleframe grill i heklagrå" title="Standard otpikk med singleframe grill i heklagrå">
+        <img src="standardoptics_singleframehekla_3s.jpg" alt="Standard optikk med singleframe grill i heklagrå" title="Standard optikk med singleframe grill i heklagrå">
     </a>
-    <figcaption><h4>Standard otpikk med singleframe grill i heklagrå</h4></figcaption>
+    <figcaption><h4>Standard optikk med singleframe grill i heklagrå</h4></figcaption>
 </figure>
 
 <figure>
@@ -166,22 +166,22 @@ Dette er tilvalg **SL3**
 
 ## Singleframe grill
 
-The grill can be delivered in 3 different stylings
+Singleframegrillen kan levers i 3 forskjellige utforminger.
 
-### Singleframe in Hekla grey
+### Singleframe i Heklagrå
 
-This has option id **6HO** and is standard on Audi e-tron GT. This is only available with standard optics. Not avaiable on RS e-tron GT.
+Dette er tilvalg **6HO** og er standard på Audi e-tron GT. Denne er kun tilgjengelig i kombinasjon med standard optikk. Den er ikke tilgjengelig på Audi på RS e-tron GT.
 
 <figure>
     <a href="standardoptics_singleframehekla_1.jpg">
-        <img src="standardoptics_singleframehekla_1s.jpg" alt="Standard otpikk med singleframe grill i heklagrå" title="Standard otpikk med singleframe grill i heklagrå">
+        <img src="standardoptics_singleframehekla_1s.jpg" alt="Standard optikk med singleframe grill i heklagrå" title="Standard optikk med singleframe grill i heklagrå">
     </a>
-    <figcaption><h4>Standard otpikk med singleframe grill i heklagrå</h4></figcaption>
+    <figcaption><h4>Standard optikk med singleframe grill i heklagrå</h4></figcaption>
 </figure>
 
-### Singleframe in body color
+### Singleframe i bilens farge
 
-This has option id **6H1** and is standard on Audi RS e-tron GT. Can be combined with all optics packages.
+Dette er tilvalg **6H1** og er standard på Audi RS e-tron GT. Kan kompineres med alle optikk pakker.
 
 <figure>
     <a href="carbonoptics_singleframebody_1.jpg">
@@ -204,9 +204,9 @@ This has option id **6H1** and is standard on Audi RS e-tron GT. Can be combined
     <figcaption><h4>Optikkpakke i glanset karbon med singleframegrill i bilens farge</h4></figcaption>
 </figure>
 
-### Singleframe in polished black
+### Singleframe i sort glanset
 
-This has option id **6H2**. Only avaiable with black optic, black optic plus and carbon optics.
+Dette er tilvalg **6H2**. Kun tilgjengelig med sort optikkpakke, sort optikkpakke plus og optikkpakke glanset karbon
 
 <figure>
     <a href="carbonoptics_singleframeblack_1.jpg">
@@ -217,9 +217,9 @@ This has option id **6H2**. Only avaiable with black optic, black optic plus and
 
 <figure>
     <a href="blackopticsplus_singleframeblack_1.jpg">
-        <img src="blackopticsplus_singleframeblack_1s.jpg" alt="Black optics plus with black single frame grill and black rings" title="Black optics plus with black single frame grill and black rings">
+        <img src="blackopticsplus_singleframeblack_1s.jpg" alt="Sort optikkpakke plus med sort glanset singleframe grill" title="Sort optikkpakke plus med sort glanset singleframe grill">
     </a>
-    <figcaption><h4>Black optics plus with black single frame grill and black rings</h4></figcaption>
+    <figcaption><h4>Sort optikkpakke plus med sort glanset singleframe grill</h4></figcaption>
 </figure>
 
 {{% children description="true" depth="1" %}}

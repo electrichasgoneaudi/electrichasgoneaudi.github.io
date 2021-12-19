@@ -20,12 +20,12 @@ weight: 100
 |  [Tangorød](../../exterior/paint/#tangorød)| Metallic   |  Y1   |
 |  [Daytonagrå](../../exterior/paint/#daytonagrå) | Metallic, only S/S-line | 6Y |
 |  [Ascariblå](../../exterior/paint/#ascariblå) | Metallic  | 9W |
-|  [Individuallakkering Audi exclusive](../../exterior/paint/#audi-exclusive-paint-colors) | Serveral colors | Q0Q0 |
-|  [Singleframe i heklagrå](../../exterior/optics/#singleframe-in-hekla-grey) |    | 6HD |
-|  [Singleframe i bilens farge](../../exterior/optics/#singleframe-in-body-color) |    | 6H1 |
-|  [Singleframe i sort glanset](../../exterior/optics/#singleframe-in-polished-black) |    | 6H2 |
+|  [Individuallakkering Audi exclusive](../../exterior/paint/#individuallakkering-audi-exclusive) | Serveral colors | Q0Q0 |
+|  [Singleframe i heklagrå](../../exterior/optics/#singleframe-i-heklagrå) |    | 6HD |
+|  [Singleframe i bilens farge](../../exterior/optics/#singleframe-i-bilens-farge) |    | 6H1 |
+|  [Singleframe i sort glanset](../../exterior/optics/#singleframe-i-sort-glanset) |    | 6H2 |
 
-## Wheels
+## Komplette hjul
 
 | Title | Description | ID |
 |-----|------|------|
