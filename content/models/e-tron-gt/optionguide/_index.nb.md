@@ -1,14 +1,13 @@
 ---
-title: Audi e-tron GT options guide
-linktitle: Options Guide
-description: Audi e-tron GT have so many options that it is almost impossible to get the overview. We try to help you select the most important options.
+title: Audi e-tron GT utstyrsguide
+linktitle: Utstyrsguide
+description: Audi e-tron GT og Audi RS e-tron GT har så mange utstyr og tilvalgsmuligheter at det er nesten umulig å få den hele oversikten. Her prøver vi å hjelpe deg med oversikten samt å identifisere de viktigste tilvalgene du må vurdere.
 weight: 100
 ---
 
-The following guide is based on the basic model. Many markets have trim package with options included.
+Guiden er basert på grunnmodellen. Mange markeder har trimpakke med tilleggsutstyr. Norge har f.eks Plus og Pro pakkene med mange tilvalg inkludert.
 
-Below are the most important options you need to consider when buying an e-tron GT
-
+Nedenfor er de viktigste tilvalgene du må vurdere når du kjøper en e-tron GT
 
 ![Privacy Windows](../exterior/paint/paint_daytona_2s.jpg)
 
@@ -34,7 +33,7 @@ With multicolor ambient lightning the look and feel inside the car gets to anoth
 
 [See ambient lightning to get convinced](../interior/ambientlights/)
 
-## Complete equipment list
+## Fullstendig utstyrsliste
 
 Se the [complete equipment list](list) for all options.
 
