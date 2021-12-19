@@ -29,14 +29,14 @@ weight: 100
 
 | Title | Description | ID |
 |-----|------|------|
-| [19" 5-segment aero design](../../exterior/wheels/#19-5-segment-aero-design) |  | 47G |
-| [20" 5 twin spoke offset design platina](../../exterior/wheels/#20-5-double-arm-offset-design-platina-grey) |  | 47K |
-| [20" 5 double arm offset design black](../../exterior/wheels/#20-5-double-arm-offset-design-blackaluminium) |  |  47H |
-| [20" 5 arm aero design](../../exterior/wheels/#20-5-arm-aero-design) |  |  47I |v-design-wheels-for-e-tron-s) | Winter | CA0 |
-| [21" 5 double arm concav module](../../exterior/wheels/#21-5-dobbel-arm-concav-module-black) |  | 44I|
-| [21" 10 spoke trapez module design black](../../exterior/wheels/#21-10-arm-trapez-modul-design-black-polished) | | 47J|
-| [21" 10 spoke trapez module design platina](../../exterior/wheels/#21-10-arm-trapez-modul-design-black-polished) | | 47L|
-| [21" 10 spoke trapez module design titan](../../exterior/wheels/#21-10-arm-trapez-modul-design-titan-grey-polished) | | 54C|
+| [19” – 5-Segment Aero i sort glanset design](../../exterior/wheels/#19-5-segment-aero-i-sort-glanset-design) |  | 47G |
+| [20” – 5-dobbel eket offset design, platinagrå](../../exterior/wheels/#20-5-dobbel-eket-offset-design-platinagrå) |  | 47K |
+| [20” – 5-arms dobbel eket offset style sort/alu](../../exterior/wheels/#20-5-arms-dobbel-eket-offset-style-sortalu) |  |  47H |
+| [20” – 5-eket aerodesign](../../exterior/wheels/#20--5-eket-aerodesign) |  |  47I |v-design-wheels-for-e-tron-s) | Winter | CA0 |
+| [21” – 5-dobbel eket konkavmodul sort med grafisk trykk](../../exterior/wheels/#21-5-dobbel-eket-konkavmodul-sort-med-grafisk-trykk) |  | 44I|
+| [21” – 10-eket trapezmoduldesign i sort høyglans](../../exterior/wheels/#21--10-eket-trapezmoduldesign-i-sort-høyglans) | | 47J|
+| [21” – 10-eket trapezmoduldesign i platingrå](../../exterior/wheels/#21--10-eket-trapezmoduldesign-i-platingrå) | | 47L|
+| [21” – 10-eket trapezmoduldesign i titangrå matt høyglans](../../exterior/wheels/#21--10-eket-trapezmoduldesign-i-titangrå-matt-høyglans) | | 54C|
 
 ## Wheel accessories
 
