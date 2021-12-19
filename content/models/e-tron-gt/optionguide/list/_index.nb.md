@@ -1,29 +1,29 @@
 ---
-title: Audi e-tron GT full options list
-linktitle: Full option list
-description: Here you find the complete option list with link to details about each option
+title: Audi e-tron GT full utstyrliste
+linktitle: Full utstyrsliste
+description: Her finner du den komplette listen med utstyr og tilvalg til Audi RS e-tron GT og Audi e-tron GT
 weight: 100
 ---
 
 ![Paint colors](../../exterior/paint/paint_tangored_2s.jpg)
 
-## Paint Color & Paint trim
+## Lakkfarger
 
 | Title | Description | ID |
 |-----|------|------|
-|  [Ibis White](../../exterior/paint/#ibis-white)   | Non metallic   |  A2   |
-|  [Mythos black](../../exterior/paint/#mythos-black)  | Metallic   |  OE   |
-|  [Florett Silver](../../exterior/paint/#florett-silver) | Metallic   |  L5   |
-|  [Tactile green](../../exterior/paint/#tactile-green) | Metallic | V0 |
-|  [Kemora Grey](../../exterior/paint/#kemora-grey) | Metallic | 8R |
-|  [Suzuka grey](../../exterior/paint/#suzuka-grey) | Metallic   |  M1   |
-|  [Tango red](../../exterior/paint/#tango-red)| Metallic   |  Y1   |
-|  [Daytona Grey](../../exterior/paint/#daytona-grey) | Metallic, only S/S-line | 6Y |
-|  [Ascari Blue](../../exterior/paint/#ascari-blue) | Metallic  | 9W |
-|  [Audi exclusive indiviudal](../../exterior/paint/#audi-exclusive-paint-colors) | Serveral colors | Q0Q0 |
-|  [Singleframe grille in hekla grey](../../exterior/optics/#singleframe-in-hekla-grey) |    | 6HD |
-|  [Singleframe grille in body color](../../exterior/optics/#singleframe-in-body-color) |    | 6H1 |
-|  [Singleframe grille in polished black](../../exterior/optics/#singleframe-in-polished-black) |    | 6H2 |
+|  [Ibishvit](../../exterior/paint/#ibihvit)   | Non metallic   |  A2   |
+|  [Mythossort](../../exterior/paint/#mythossort)  | Metallic   |  OE   |
+|  [Florettsølv](../../exterior/paint/#florettsølv) | Metallic   |  L5   |
+|  [Taktikgrønn](../../exterior/paint/#taktikgrønn) | Metallic | V0 |
+|  [Kemoragrå](../../exterior/paint/#kemoragrå) | Metallic | 8R |
+|  [Suzukagrå](../../exterior/paint/#suzukagrå) | Metallic   |  M1   |
+|  [Tangorød](../../exterior/paint/#tangorød)| Metallic   |  Y1   |
+|  [Daytonagrå](../../exterior/paint/#daytonagrå) | Metallic, only S/S-line | 6Y |
+|  [Ascariblå](../../exterior/paint/#ascariblå) | Metallic  | 9W |
+|  [Individuallakkering Audi exclusive](../../exterior/paint/#audi-exclusive-paint-colors) | Serveral colors | Q0Q0 |
+|  [Singleframe i heklagrå](../../exterior/optics/#singleframe-in-hekla-grey) |    | 6HD |
+|  [Singleframe i bilens farge](../../exterior/optics/#singleframe-in-body-color) |    | 6H1 |
+|  [Singleframe i sort glanset](../../exterior/optics/#singleframe-in-polished-black) |    | 6H2 |
 
 ## Wheels
 
