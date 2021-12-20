@@ -11,11 +11,17 @@ The headlights and rear lights are characteristic elements of the exterior desig
 
 Audi supplies them in LED technology with dynamic turn signals as standard.
 
+## Matrix LED
+
 The matrix LED headlights are also available as an alternative; these come as standard with the RS e-tron GT. Their continuous high beams can shine with maximum brightness without blinding other road users. Option ID **8G4**
 
-![Headlights](headlights_2.jpg " Headlights with laser")
+## Matrix LED with Laser
 
-Topping the range are the matrix LED headlights with Audi laser light. In the center of the headlights, between the low beam and high beam modules, there is a laser spot that is activated from a speed of 70 km/h (43.5 mph) and doubles the range of the high beam. It is framed by an X-shaped trim with expressive design that is a small work of art in itself. Its lower section consists of free-standing elements with edges illuminated in blue. The central wings of the daytime running light signature forms the upper part of the “X.” The daytime running light signature itself has a dual function as a turn signal and consists of a row of sharp angles that give it a digital look. Option ID **PXC**
+![Headlights](headlights_2.jpg "Headlights with laser")
+
+Topping the range are the matrix LED headlights with Audi laser light. In the center of the headlights, between the low beam and high beam modules, there is a laser spot that is activated from a speed of 70 km/h (43.5 mph) and doubles the range of the high beam. It is framed by an X-shaped trim with expressive design that is a small work of art in itself. Its lower section consists of free-standing eleme
+
+## LED taillights
 
 ![Tail lights](taillights_1.jpg "Taillights")
 

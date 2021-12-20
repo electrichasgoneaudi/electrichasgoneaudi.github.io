@@ -39,7 +39,7 @@ weight: 100
 | [21” – 10-eket trapezmoduldesign i platingrå](../../exterior/wheels/#21--10-eket-trapezmoduldesign-i-platingrå) | | 47L|
 | [21” – 10-eket trapezmoduldesign i titangrå matt høyglans](../../exterior/wheels/#21--10-eket-trapezmoduldesign-i-titangrå-matt-høyglans) | | 54C|
 
-## Wheel accessories
+## Tilbehør hjul
 
 | Tittel | Beskrivelse | ID |
 |-----|------|------|
@@ -47,7 +47,7 @@ weight: 100
 | Hjulbolter med tyverisikring | Standard | 1PC |
 | [Dekktrykkontrollsystem (TPMS)](../../technology/tpms/) | Direct | 7K3 |
 
-## Charging and heating
+## Lading og oppvarming
 
 | Tittel | Beskrivelse | ID |
 |-----|------|------|
@@ -60,7 +60,7 @@ weight: 100
 | [22 kW ombordlader](../../technology/onboardcharger/#optional-22kw-charger) |  | KB4 |
 | Charging system 400V 11KW plug |  | 73P|
 
-## Equipment packages
+## Utstyrspakker
 
 | Tittel | Beskrivelse | ID |
 |-----|------|------|
@@ -69,14 +69,14 @@ weight: 100
 | RS design package red |  | PEF |
 | RS design package grey | | PEG |
 
-## Lights
+## Lys
 
 | Tittel | Beskrivelse | ID |
 |-----|------|------|
-| [LED-headlights](../../technology/lights/) | Standard | 8IY |
-| [Matrix LED lights](../../technology/lights/#hd-matrix-led-headlights) |  | 8G4 |
-| [Matrix LED lights with laser](../../technology/lights/) |  | PXC |
-| [LED rear lights](../../technology/lights/) | Standard | 8VM |
+| [LED-hovedlykter med dynamisk blinklys](../../technology/lights/) | Standard | 8IY |
+| [Matrix LED-hovedlys](../../technology/lights/#matrix-led) |  | 8G4 |
+| [Matrix LED med Laserlys](../../technology/lights/#matrix-led-med-laser) |  | PXC |
+| [LED-baklykter med dynamisk blinklys](../../technology/lights/#led-baklys) | Standard | 8VM |
 
 ## Mirror and roof system
 

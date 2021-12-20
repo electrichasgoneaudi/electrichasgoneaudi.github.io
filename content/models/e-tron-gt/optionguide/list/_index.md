@@ -74,8 +74,8 @@ weight: 100
 | Title | Description | ID |
 |-----|------|------|
 | [LED-headlights](../../technology/lights/) | Standard | 8IY |
-| [Matrix LED lights](../../technology/lights/#hd-matrix-led-headlights) |  | 8G4 |
-| [Matrix LED lights with laser](../../technology/lights/) |  | PXC |
+| [Matrix LED lights](../../technology/lights/#matrix-led) |  | 8G4 |
+| [Matrix LED lights with laser](../../technology/lights/#matrix-led-with-laser) |  | PXC |
 | [LED rear lights](../../technology/lights/) | Standard | 8VM |
 
 ## Mirror and roof system
