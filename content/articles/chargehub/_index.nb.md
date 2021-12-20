@@ -40,7 +40,8 @@ Takket være de drøyt 2,45 MWh mellomlagring trenger ladestasjonene i Nürnberg
 
 ## Priser som Wallbox hjemme
 
-Foreløpig kan alle som velger å bruke høyeffektladestasjonene ved Audi charging hub i Nürnberg og har en e-tron Charging Service-kontrakt ta betalt for 31 cent per kilowattime, uansett takst. Det gjør Audi charging hub til et reelt alternativ til å lade hjemme. "Vi gir folk i urbane områder lading til prisen de ville betale for å bruke Wallbox hjemme," sier Hollmig. Audi charging hub i Nürnberg er en åpen ladeplass. Inngangspartiet er til og med tilgjengelig for førere av biler av andre merker.
+Foreløpig kan alle som velger å bruke høyeffektladestasjonene ved Audi charging hub i Nürnberg og har en e-tron Charging Service-kontrakt ta betalt for 31 cent per kilowattime, uansett takst. 
+Det gjør Audi charging hub til et reelt alternativ til å lade hjemme for Tyskerne som er vant med høyere strømpriser en nordmenn. "Vi gir folk i urbane områder lading til prisen de ville betale for å bruke Wallbox hjemme," sier Hollmig. Audi charging hub i Nürnberg er en åpen ladeplass. Inngangspartiet er til og med tilgjengelig for førere av biler av andre merker.
 
 ## Rask og ukomplisert lading
 
