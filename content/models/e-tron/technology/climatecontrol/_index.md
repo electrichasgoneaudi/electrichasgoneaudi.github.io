@@ -57,7 +57,7 @@ The Auxiliary air conditioner can not be used if the battery is too low (<30%)
 You can get the Auxiliary air conditioner with extra convenience as an option. With this option, you can heat windows, seats, and the steering wheel in addition to the cabin.
  Option id **GA2**
 
-[comfort settings](conviencesettings.jpg "comfort settings")
+![comfort settings](conviencesettings.jpg "comfort settings")
 
 ### Double heat elements
 
