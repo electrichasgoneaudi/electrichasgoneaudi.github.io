@@ -4,12 +4,13 @@ linktitle: Full utstyrsliste
 description: Her finner du den komplette listen med utstyr og tilvalg til Audi RS e-tron GT og Audi e-tron GT
 weight: 100
 ---
+<!-- markdownlint-disable MD033 -->
 
 ![Paint colors](../../exterior/paint/paint_tangored_2s.jpg)
 
 ## Lakkfarger
 
-| Title | Description | ID |
+| Tittel | Beskrivelse | ID |
 |-----|------|------|
 |  [Ibishvit](../../exterior/paint/#ibishvit)   | Non metallic   |  A2   |
 |  [Mythossort](../../exterior/paint/#mythossort)  | Metallic   |  OE   |
@@ -27,7 +28,7 @@ weight: 100
 
 ## Komplette hjul
 
-| Title | Description | ID |
+| Tittel | Beskrivelse | ID |
 |-----|------|------|
 | [19” – 5-Segment Aero i sort glanset design](../../exterior/wheels/#19-5-segment-aero-i-sort-glanset-design) |  | 47G |
 | [20” – 5-dobbel eket offset design, platinagrå](../../exterior/wheels/#20-5-dobbel-eket-offset-design-platinagrå) |  | 47K |
@@ -40,7 +41,7 @@ weight: 100
 
 ## Wheel accessories
 
-| Title | Description | ID |
+| Tittel | Beskrivelse | ID |
 |-----|------|------|
 | Dekkreparasjonssett | Med 12-volts kompressor og dekktetningsmiddel, plassert under bagasjeromsgulvet, tillatt topphastighet 80 km/t.| 1G8 |
 | Hjulbolter med tyverisikring | Standard | 1PC |
@@ -48,29 +49,29 @@ weight: 100
 
 ## Charging and heating
 
-| Title | Description | ID |
+| Tittel | Beskrivelse | ID |
 |-----|------|------|
 | Varmepumpe | Standard | 9M3 |
-| [Komfort førklimatisering](../../technology/climatecontrol/#auxiliary-air-conditioner-with-extra-convenience) |  | GA2 |
+| [Komfort førklimatisering](../../technology/climatecontrol/#parkeringsklimanlegg-med-ekstra-komfort) |  | GA2 |
 | Wallmount with Clip for connect |  | NJ2 |
 | [Dobbel ladeport](../../technology/onboardcharger/) | Standard  | JS1 |
-| [Ladesystem compact](../../technology/chargingsystem/#e-tron-charging-system-compact) |  | NW1 |
-| [Ladesystem connect](../../technology/chargingsystem/#e-tron-charging-system-connect) |  | NW2 |
+| [Ladesystem compact](../../technology/chargingsystem/#e-tron-ladesystem-compact) |  | NW1 |
+| [Ladesystem connect](../../technology/chargingsystem/#e-tron-ladesystem-connect) |  | NW2 |
 | [22 kW ombordlader](../../technology/onboardcharger/#optional-22kw-charger) |  | KB4 |
 | Charging system 400V 11KW plug |  | 73P|
 
 ## Equipment packages
 
-| Title | Description | ID |
+| Tittel | Beskrivelse | ID |
 |-----|------|------|
-| Dynamic package |  | PA2 |
-| Dynamic package plus |  | PA3 |
+| Dynamikkpakke | Inneholder <ul><li>quattro med regulert differensialbrems for bakakselen</li><li>Firehjulsstyring</li><li>Adaptiv luftfjæring</li><li>Elektromekanisk styring plus</li></ul>| PA2 |
+| Dynamikkpakke plus | I tillegg til Dynamikkpakke inkluderer Dynamikkpakke plus e-tron sportsound | PA3 |
 | RS design package red |  | PEF |
 | RS design package grey | | PEG |
 
 ## Lights
 
-| Title | Description | ID |
+| Tittel | Beskrivelse | ID |
 |-----|------|------|
 | [LED-headlights](../../technology/lights/) | Standard | 8IY |
 | [Matrix LED lights](../../technology/lights/#hd-matrix-led-headlights) |  | 8G4 |
@@ -79,7 +80,7 @@ weight: 100
 
 ## Mirror and roof system
 
-| Title | Description | ID |
+| Tittel | Beskrivelse | ID |
 |-----|------|------|
 | Interior mirror | automatic dimming, frameless, standard | 4L6 |
 | [Mirrors, electric adjustable and heated](../../exterior/mirrors/#functionality) | Standard | 6XD |
@@ -93,7 +94,7 @@ weight: 100
 
 ## Locking system
 
-| Title | Description | ID |
+| Tittel | Beskrivelse | ID |
 |-----|------|------|
 | [Advance Key](../../technology/lockingsystems/#advance-key-option-pgc) | | 4I3 |
 | [Advance Key with alarm/safelock](../../technology/lockingsystems/#advance-key-with-alarm-option-pgb) | | PGB |
@@ -103,7 +104,7 @@ weight: 100
 
 ## Glass
 
-| Title | Description | ID |
+| Tittel | Beskrivelse | ID |
 |-----|------|------|
 | [Heat-insulating glass](../../exterior/windows/) | Standard | 4KC|
 | [Windshield in acoustic glass](../../exterior/windows/) |  | 4GK |
@@ -112,7 +113,7 @@ weight: 100
 
 ## Exterior options
 
-| Title | Description | ID |
+| Tittel | Beskrivelse | ID |
 |-----|------|------|
 | Black side list | window frame in Aluminum | 4ZC |
 | [Black optics](../../exterior/optics/) | | 4ZD |
@@ -121,7 +122,7 @@ weight: 100
 
 ## Seat and leather interior
 
-| Title | Description | ID |
+| Tittel | Beskrivelse | ID |
 |-----|------|------|
 | Effect facbric | Standard seats | |
 | Alcantara/leather | | N7U |
@@ -132,14 +133,14 @@ weight: 100
 
 ## Dashboard
 
-| Title | Description | ID |
+| Tittel | Beskrivelse | ID |
 |-----|------|------|
 | [Upper part of dashboard in leather](../../interior/interiormaterials/#leather-on-dashboard-imitated-leather-on-doorscenterconsole) | | 7HD |
 |[Upper part in leather, lower part dinamica](../../interior/interiormaterials/#full-leather-on-dashboard-door-and-lower-part-of-center-consol) |  | PEH |
 
 ## Seats
 
-| Title | Description | ID |
+| Tittel | Beskrivelse | ID |
 |-----|------|------|
 | [Sport seats](../../interior/seats/#sport-seats)  |  | 01G |
 | [Sport seats plus](../../interior/seats/#sport-seats-plus)  |  | Q2J |
@@ -155,7 +156,7 @@ weight: 100
 
 ## Interior design
 
-| Title | Description | ID |
+| Tittel | Beskrivelse | ID |
 |-----|------|------|
 | [Headlining in Dinamica Microfibre](../../interior/headliner/) |  | 6NC |
 | [Headlining in black cloth](../../interior/headliner/)  |  |  6NJ |
@@ -168,7 +169,7 @@ weight: 100
 
 ## Steering wheels
 
-| Title | Description | ID |
+| Tittel | Beskrivelse | ID |
 |-----|------|------|
 | [Sport contour flat-bottom leather steering wheel, multi-function plus with heating and shift paddles](../../interior/steeringwheels/) |   | 1XP |
 | [Flat-bottomed 3-spoke Alcantara multi-function plus steering wheel](../../interior/steeringwheels/)  |  | 1XW |
@@ -177,7 +178,7 @@ weight: 100
 
 ## Climate
 
-| Title | Description | ID |
+| Tittel | Beskrivelse | ID |
 |-----|------|------|
 | [3-zone climate control](../../technology/climatecontrol/) | Standard | KH5  |
 | [Air Quality package](../../technology/airquality/) |  | 2V4 |
@@ -186,7 +187,7 @@ weight: 100
 
 ## Other interior options
 
-| Title | Description | ID |
+| Tittel | Beskrivelse | ID |
 |-----|------|------|
 | None smoker package |  |  |
 | Sigaret lighter and ash tray |  | 9JC |
@@ -197,7 +198,7 @@ weight: 100
 
 ## Infotainment
 
-| Title | Description | ID |
+| Tittel | Beskrivelse | ID |
 |-----|------|------|
 | [Audi Virtual Cockpit](../../technology/uiandoperations/virtualcockpit/) | Standard |  |
 | [MMI Navigation plus](../../technology/uiandoperations/mmi/) | Standard  | 7UG   |
@@ -216,7 +217,7 @@ weight: 100
 
 ## Driver asssist systems
 
-| Title | Description | ID |
+| Tittel | Beskrivelse | ID |
 |-----|------|------|
 | City Assist Pack  | [Crossing assist](../../technology/drivingassistance/crossingassist/), [side assist](../../technology/drivingassistance/sideassist/), [exit warning](../../technology/drivingassistance/exitwarning/), [pre sense rear](../../technology/drivingassistance/presenserear/), [pre sense side](../../technology/drivingassistance/presenseside/), [cross traffic rear](../../technology/drivingassistance/crosstrafficassistrear/) | PCM | 
 | Tour assist pack | [Adaptive cruise assist](../../technology/drivingassistance/adaptivecruiseassist/), [Adaptive cruise control](../../technology/drivingassistance/adaptivecruisecontrol/), [efficient assistant](../../technology/drivingassistance/predictiveefficiencyassist/),  [turn assist](../../technology/drivingassistance/turnassist/),[emergency assist](../../technology/drivingassistance/emergencyassist/) | PCC    |
@@ -236,7 +237,7 @@ weight: 100
 
 ## Drivertrain & brakes
 
-| Title | Description | ID |
+| Tittel | Beskrivelse | ID |
 |-----|------|------|
 | [Adaptive air suspension](../../drivetrain/suspension/) | Standard RS  | 1BK |
 | [Damper adjustment](../../drivetrain/suspension/) | Standard GT | 1BH |
@@ -250,7 +251,7 @@ weight: 100
 
 ## Tech / Security
 
-| Title | Description | ID |
+| Tittel | Beskrivelse | ID |
 |-----|------|------|
 | [Front airbags](../../technology/safety/#front-airbags) | Standard for front  |   |
 | [Head airbags](../../technology/safety/#head-airbags) | Standard for front and rear |  |

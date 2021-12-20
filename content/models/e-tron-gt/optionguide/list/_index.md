@@ -4,6 +4,7 @@ linktitle: Full option list
 description: Here you find the complete option list with link to details about each option
 weight: 100
 ---
+<!-- markdownlint-disable MD033 -->
 
 ![Paint colors](../../exterior/paint/paint_tangored_2s.jpg)
 

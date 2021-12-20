@@ -15,7 +15,7 @@ It is currently available in two versions and is meant for use when a fixed leve
 
 In the US the charging system has a [J1772 connector](https://en.wikipedia.org/wiki/SAE_J1772) to connect to the car, while in Europe it has a [Type 2 connector](https://en.wikipedia.org/wiki/Type_2_connector).
 
-![Charge port](chargeport_left.jpg "Type 2 Chargeport")
+![Charge port](chargeport_right.jpg "Type 2 Chargeport")
 
 ## e-tron charging System Compact
 
