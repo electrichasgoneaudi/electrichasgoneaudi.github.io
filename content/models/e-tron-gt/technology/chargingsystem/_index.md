@@ -1,12 +1,12 @@
 ---
-title: Audi e-tron Charging System
+title: Audi e-tron GT Charging System
 linktitle: Charging System
-description: Audi e-tron includes a portable charging system for temporary level 1 and level 2 charging.
+description: Audi e-tron GT  includes a portable charging system for temporary level 1 and level 2 charging.
 weight: 6
 ---
 
 The Charging System Compact is not the charger, technically speaking. This equipment is known as [EVSE](https://en.wikipedia.org/wiki/Charging_station) (Electric Vehicle Supply Equipment) and serves as a
-controller that ensures safe power delivery between your home and the vehicle. Every Audi e-tron comes equipped with this charging system as standard.
+controller that ensures safe power delivery between your home and the vehicle. Every Audi e-tron GT comes equipped with this charging system as standard.
 
 For Levels 1 (120 volt AC) and Level 2 (230/400 volt AC), the actual charging process takes place via the vehicle’s own [on-board charger](../onboardcharger/). The onboard charger converts AC power from your home into
 DC power, which is what batteries use to store and supply energy.
@@ -15,7 +15,7 @@ It is currently available in two versions and is meant for use when a fixed leve
 
 In the US the charging system has a [J1772 connector](https://en.wikipedia.org/wiki/SAE_J1772) to connect to the car, while in Europe it has a [Type 2 connector](https://en.wikipedia.org/wiki/Type_2_connector).
 
-![Passenger charge port](chargeport_right.jpg "Passenger side charge port")
+![Charge port](chargeport_left.jpg "Type 2 Chargeport")
 
 ## e-tron charging System Compact
 
@@ -46,7 +46,7 @@ Audi recommends a three-phase, 400-volt outlet for optimal use of the charging s
 
 In conjunction with a compatible home energy management system from SMA Solar Technology or the Hager Group, the e-tron charging system connect offers additional, intelligent functions.
 
-For example, the Audi e-tron can take account of the needs of other consumers in the household and charge with the remaining power available in order to avoid overloading the home electrical system.
+For example, the Audi e-tron GT can take account of the needs of other consumers in the household and charge with the remaining power available in order to avoid overloading the home electrical system.
 
 The charging system also allows customers to define individual priorities, such as charging when electricity is less expensive under a variable electricity rate.
 

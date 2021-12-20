@@ -53,10 +53,10 @@ weight: 100
 | Varmepumpe | Standard | 9M3 |
 | [Komfort førklimatisering](../../technology/climatecontrol/#auxiliary-air-conditioner-with-extra-convenience) |  | GA2 |
 | Wallmount with Clip for connect |  | NJ2 |
-| [Double Charge port](../../technology/onboardcharger/#optional-charge-port) | Standard  | JS1 |
-| [Charging system compact](../../technology/chargingsystem/#e-tron-charging-system-compact) |  | NW1 |
-| [Charging system connect](../../technology/chargingsystem/#e-tron-charging-system-connect) |  | NW2 |
-| [22 KW charger](../../technology/onboardcharger/#optional-22kw-charger) |  | KB4 |
+| [Dobbel ladeport](../../technology/onboardcharger/) | Standard  | JS1 |
+| [Ladesystem compact](../../technology/chargingsystem/#e-tron-charging-system-compact) |  | NW1 |
+| [Ladesystem connect](../../technology/chargingsystem/#e-tron-charging-system-connect) |  | NW2 |
+| [22 kW ombordlader](../../technology/onboardcharger/#optional-22kw-charger) |  | KB4 |
 | Charging system 400V 11KW plug |  | 73P|
 
 ## Equipment packages
