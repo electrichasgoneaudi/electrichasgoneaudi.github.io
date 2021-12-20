@@ -35,7 +35,6 @@ Cubes are the foundation of the Audi charging hub. The flexible container cubes 
     <figcaption><h4>Audi charging hub</h4></figcaption>
 </figure>
 
-
 Thanks to the roughly 2.45 MWh of interim storage, the charging stations in Nuremberg only need a 200 kW green power connection to the low-voltage network that is already available, which is entirely sufficient for operating the Audi charging hub. The 200 kW are enough to continually fill the storage modules. Solar panels on the roof additionally provide up to 30 kW of green energy. Customers can charge electric cars with up to 320 kW of power at six charging points. A total of about 80 vehicles can be charged here per day without reaching the limits of the energy storage system’s capacity combined with the hub’s 200 kW power input.
 
 The [Audi e-tron GT](../../models/e-tron-gt/) reaches a charging capacity of up to 270 kW. That allows the four-door Coupé to charge enough energy for up to 100 kilometers in about five minutes. A charge from 5 to 80 percent takes roughly 23 minutes.
@@ -48,8 +47,6 @@ Currently, anyone who chooses to use the high-power charging stations at the Aud
 
 Audi customers can use the new reservation function in the myAudi app: they can easily book one of the six charging areas. 
 
-
-
 <figure>
     <a href="chargehub_6.jpg">
         <img src="chargehub_6s.jpg" alt="Audi charging hub" title="Audi charging hub">
@@ -58,11 +55,11 @@ Audi customers can use the new reservation function in the myAudi app: they can 
 </figure>
 
 
-Charging itself is quick and uncomplicated. With Plug and Charge (PnC), it is even possible to charge models with Plug and Charge functionality without an RFID (radio frequency identification) card at two of the six charging points during the pilot phase. The authentication process takes place automatically via encrypted communication as soon as the charging cable is connected to the vehicle. To use this system, drivers must have a PnC-capable model of the Audi e-tron series (Audi e-tron 50/55/S incl. Sportback derivatives with production date after calendar week 48/2021) and an active e-tron Charging Service contract. Customers can spend the 20- to 30-minutes it takes to charge up to 80 percent charging volume – for instance with an Audi e-tron or e-tron GT – in the upstairs lounge.
+Charging itself is quick and uncomplicated. With Plug and Charge (PnC), it is even possible to charge models with Plug and Charge functionality without an RFID (radio frequency identification) card at two of the six charging points during the pilot phase. The authentication process takes place automatically via encrypted communication as soon as the charging cable is connected to the vehicle. To use this system, drivers must have a PnC-capable model of the [Audi e-tron](../../models/e-tron/) series (Audi e-tron 50/55/S incl. Sportback derivatives with production date after calendar week 48/2021) and an active e-tron Charging Service contract. Customers can spend the 20- to 30-minutes it takes to charge up to 80 percent charging volume – for instance with an [Audi e-tron](../../models/e-tron/) or [Audi e-tron GT](../../models/e-tron-gt/) – in the upstairs lounge.
 
 ## Attractive service offerings enhance charging time
 
-The tests that are starting in Nuremberg focus on the new reservation function, customers’ expectations of a premium charging experience, and technical aspects like the requirements for modern battery storage systems. Audi also wants to determine which times of day the facility is particularly frequently used. The goal is to establish the Audi charging hub with appropriate added value for customers. To that end, Audi is offering additional attractive services on-site beyond charging electric cars: an exchange station for electric bike batteries, an electric scooter lending service, information about various Audi products, as well as test drives in theAudi Q4 e-tron and RS e-tron GT, supervised by Audi experts. Additionally, Audi offers a just-in-time delivery service for food, an upscale automat, and mobile car care.
+The tests that are starting in Nuremberg focus on the new reservation function, customers’ expectations of a premium charging experience, and technical aspects like the requirements for modern battery storage systems. Audi also wants to determine which times of day the facility is particularly frequently used. The goal is to establish the Audi charging hub with appropriate added value for customers. To that end, Audi is offering additional attractive services on-site beyond charging electric cars: an exchange station for electric bike batteries, an electric scooter lending service, information about various Audi products, as well as test drives in the [Audi Q4 e-tron](../../models/q4-e-tron/) and [Audi RS e-tron GT](../../models/e-tron-gt), supervised by Audi experts. Additionally, Audi offers a just-in-time delivery service for food, an upscale automat, and mobile car care.
 
 <figure>
     <a href="chargehub_4.jpg">
@@ -82,5 +79,11 @@ During the pilot project in Nuremberg, an employee will attend to visitors’ wi
     </a>
     <figcaption><h4>Audi charging hub lounge</h4></figcaption>
 </figure>
+
+## Video presentation of Audi Charge hub
+
+The following video presents the Audi Charge hub in details.
+
+ {{< youtube l6sCEOaj2-o >}}
 
 {{% children description="true" depth="1" %}}
