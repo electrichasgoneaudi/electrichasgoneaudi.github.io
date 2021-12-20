@@ -23,6 +23,25 @@ Vossen HF4T in Sating Black 10x22 5/130 (Flat) front and 12 x 22 5/130 (deep) in
     <figcaption><h4>Vossen HF4T in Sating Black 10x22 5/130 (Flat) front and 12 x 22 5/130 (deep) in rear</h4></figcaption>
 </figure>
 
+## 22" Vossen HF3
+
+Vossen HF3 in Sating Black 
+
+<figure>
+    <a href="vossen_hf3_5.jpg">
+        <img src="vossen_hf3_5s.jpg" alt="Vossen HF3 in Sating Black" title="Vossen HF3 in Sating Black">
+    </a>
+    <figcaption><h4>Vossen HF3 in Sating Black</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="vossen_hf3_6.jpg">
+        <img src="vossen_hf3_6s.jpg" alt="Vossen HF3 in Sating Black" title="Vossen HF3 in Sating Black">
+    </a>
+    <figcaption><h4>Vossen HF3 in Sating Black</h4></figcaption>
+</figure>
+
+
 ## 21" GMP Rebel
 
 <figure>

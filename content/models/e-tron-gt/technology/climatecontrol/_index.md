@@ -1,13 +1,11 @@
 ---
 title: Audi e-tron GT climate control
 linktitle: Climate control
-description: Audi e-tron GT is equipped with 1-zone electronic climate control as standard.
+description: Audi e-tron GT and Audi RS e-tron GT is equipped with 3-zone electronic climate control as standard.
 weight: 10
 ---
 
 The controls the are located just below the MMI screen.
-
-![AC control](ac1zonecontrol.jpg "The AC has a seperate control panel under MMI screen")
 
 3-zone AC means that in the front this means that passenger and driver can have individual set temprature.
 
@@ -16,7 +14,6 @@ The controls the are located just below the MMI screen.
 It also gives the passenger in the back seat a seperate panel where they can adjust the 2 rear zones
 
 ![AC control](rearaccontrol.jpg "The AC has a seperate control panel under MMI screen")
-
 
 ## Auxiliary air conditioner
 

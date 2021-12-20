@@ -42,16 +42,16 @@ weight: 100
 
 | Title | Description | ID |
 |-----|------|------|
-| Tire repair set | | 1G8 |
-| Theft secure bolts and bolt warning | Standard | 1PC |
-| [TPMS](../../technology/tpms/) | Direct | 7K3 |
+| Dekkreparasjonssett | Med 12-volts kompressor og dekktetningsmiddel, plassert under bagasjeromsgulvet, tillatt topphastighet 80 km/t.| 1G8 |
+| Hjulbolter med tyverisikring | Standard | 1PC |
+| [Dekktrykkontrollsystem (TPMS)](../../technology/tpms/) | Direct | 7K3 |
 
 ## Charging and heating
 
 | Title | Description | ID |
 |-----|------|------|
-| Heatpump | Standard | 9M3 |
-| [Comfort precondition](../../technology/climatecontrol/#auxiliary-air-conditioner-with-extra-convenience) |  | GA2 |
+| Varmepumpe | Standard | 9M3 |
+| [Komfort førklimatisering](../../technology/climatecontrol/#auxiliary-air-conditioner-with-extra-convenience) |  | GA2 |
 | Wallmount with Clip for connect |  | NJ2 |
 | [Double Charge port](../../technology/onboardcharger/#optional-charge-port) | Standard  | JS1 |
 | [Charging system compact](../../technology/chargingsystem/#e-tron-charging-system-compact) |  | NW1 |
