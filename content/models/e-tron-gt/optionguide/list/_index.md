@@ -120,6 +120,24 @@ weight: 100
 | [Black optics plus](../../exterior/optics/) |  | 4ZP  |
 | [Carbon optics](../../exterior/optics/) |  | 5L3  |
 
+
+## Seats
+
+| Title | Description | ID |
+|-----|------|------|
+| [Sport seats](../../interior/seats/#sport-seats)  |  | 01G |
+| [Sport seats plus](../../interior/seats/#sport-seats-plus)  |  | Q2J |
+| [Sport seats pro](../../interior/seats/#s-sport-seats) |  | Q1J |
+| [Electric adjustment](../../interior/seats/#seat-functionality) | |3L5 |
+| [Electric adjustment with memory](../../interior/seats/#electric-adjustment) | | PV3 |
+| [Heated front seats](../../interior/seats/#seat-heating) |  | 4A3 |
+| [Ventilated seats](../../interior/seats/#ventilated-seats) | Only with pro seats | 4D3 |
+| [Ventilated and massage seats](../../interior/seats/#massage) | Only with pro seats | 4D5 |
+| [Fold-down rear seat back](../../transportation/#trunk) | Standard 40:20:40 | |
+| ISOFIX and Top Tether for the rear seat | Standard | |
+| ISOFIX front passenger seat | Standard |  |
+
+
 ## Seat and leather interior
 
 | Title | Description | ID |
@@ -137,22 +155,6 @@ weight: 100
 |-----|------|------|
 | [Upper part of dashboard in leather](../../interior/interiormaterials/#leather-on-dashboard-imitated-leather-on-doorscenterconsole) | | 7HD |
 |[Upper part in leather, lower part dinamica](../../interior/interiormaterials/#full-leather-on-dashboard-door-and-lower-part-of-center-consol) |  | PEH |
-
-## Seats
-
-| Title | Description | ID |
-|-----|------|------|
-| [Sport seats](../../interior/seats/#sport-seats)  |  | 01G |
-| [Sport seats plus](../../interior/seats/#sport-seats-plus)  |  | Q2J |
-| [Sport seats pro](../../interior/seats/#s-sport-seats) |  | Q1J |
-| [Electric adjustment](../../interior/seats/#seat-functionality) | |3L5 |
-| [Electric adjustment with memory](../../interior/seats/#electric-adjustment) | | PV3 |
-| [Heated front seats](../../interior/seats/#seat-heating) |  | 4A3 |
-| [Ventilated seats](../../interior/seats/#ventilated-seats) | Only with pro seats | 4D3 |
-| [Ventilated and massage seats](../../interior/seats/#massage) | Only with pro seats | 4D5 |
-| [Fold-down rear seat back](../../transportation/#trunk) | Standard 40:20:40 | |
-| ISOFIX and Top Tether for the rear seat | Standard | |
-| ISOFIX front passenger seat | Standard |  |
 
 ## Interior design
 
