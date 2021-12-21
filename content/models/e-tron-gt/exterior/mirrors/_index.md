@@ -1,5 +1,5 @@
 ---
-title: Audi e-tron mirrors
+title: Audi e-tron GT mirrors
 linktitle: Mirrors
 description: The mirrors can be delivered in 3 different styles and with different functionality.
 weight: 5
@@ -17,6 +17,7 @@ There are some optional mirros
 - Heated with memory : **6XG**
 - heated, auto dimmed and electric retractable : **6XK**
 - heated, auto dimmed, electric retractable with memory : **6XL**
+
 
 ## Mirror Style
 
