@@ -107,10 +107,11 @@ weight: 100
 
 | Tittel | Beskrivelse | ID |
 |-----|------|------|
-| [Heat-insulating glass](../../exterior/windows/) | Standard | 4KC|
-| [Windshield in acoustic glass](../../exterior/windows/) |  | 4GK |
-| [Acoustic glass on side windows](../../exterior/windows/)  |  | VW0 |
+| [Varmedempende glass](../../exterior/windows/) | Standard | 4KC|
+| [Frontrute med varme- og støydempende glass](../../exterior/windows/) |  | 4GK |
+| [Akustikkglass på sideruter](../../exterior/windows/)  |  | VW0 |
 | [Privacy glass](../../exterior/windows/#privacy-glass) |  | QL5 |
+| Frontrute med klimakomfortglass og støydempende glass | | 4GY |
 
 ## Exterior options
 

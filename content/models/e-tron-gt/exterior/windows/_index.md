@@ -17,7 +17,7 @@ You can order privacy glass with option id **QL5**
     <figcaption><h4>Privacy windows</h4></figcaption>
 </figure>
 
-This option makes a big difference in the way the e-tron look.
+This option makes a big difference in the way the e-tron GT look.
 
 <figure>
     <a href="standard_windows_1.jpg">
@@ -68,5 +68,9 @@ This option makes a big difference in the way the e-tron look.
 Options ID **VW0**
 
 ## Front window with climate comfort glass and noise insulation
+
+The extra, reflective coating prevents the passenger compartment from getting too hot in strong sunlight.
+It provides increased comfort and reduces the air conditioning's energy consumption.
+With area for autopass.  Insulating glass reduces noise from outside.
 
 Option Id **4GY**

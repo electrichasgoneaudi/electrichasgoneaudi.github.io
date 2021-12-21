@@ -100,7 +100,7 @@ weight: 100
 | [Advance Key with alarm/safelock](../../technology/lockingsystems/#advance-key-with-alarm-option-pgb) | | PGB |
 | Automatic immobilizer | activates with key |  |
 | [Powered tailgate](../../exterior/doors/#powered-tailgate) | Electric opening and closing. Standard | |
-| Garage port opener |  | VC2 |  
+| [Garage door opener](../../technology/garagedooropener/) |  | VC2 |  
 
 ## Glass
 
