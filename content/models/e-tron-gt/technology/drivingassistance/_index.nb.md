@@ -5,20 +5,22 @@ description: Audi e-tron GT og RS e-tron GT lanseres på markedet med et bredt u
 weight: 1
 ---
 
-De valgfrie systemene er delt inn i pakkene "Tour" (PCC), "City" og "Park" (PCV), som er kombinert i hjelpesystemet pluss. 
-Nattsynsassistent- og surroundkameraene, som tilbyr et utvalg av forskjellige visninger, er tilgjengelige som ekstra individuelle alternativer. De er også tilgjengelige i "Park"-pakken.
+De valgfrie systemene er delt inn i pakkene "Tour" (PCC), "City" og "Park" (PCV), som er kombinert i hjelpesystemet pluss.
 
-Det viktigste systemet i «Tour»-assistentpakken er adaptiv cruiseassistent, som kombinerer funksjonene til adaptiv cruisekontroll, trafikkorkassistent og aktiv kjørefeltassistent. 
+Nattsynsassistent- og surroundkameraene, som tilbyr et utvalg av forskjellige visninger, er tilgjengelige som ekstra individuelle alternativer. 
+De er også tilgjengelige i "Park"-pakken.
 
-Den kan i stor grad overta langsgående og sideveis føring for føreren i mange situasjoner. 
+Det viktigste systemet i «Tour»-assistentpakken er adaptiv cruiseassistent, som kombinerer funksjonene til adaptiv cruisekontroll, trafikkorkassistent og aktiv kjørefeltassistent.
 
-For å opprettholde sistnevnte, må sjåføren flytte litt på rattet med visse intervaller. 
+Den kan i stor grad overta langsgående og sideveis føring for føreren i mange situasjoner.
+
+For å opprettholde sistnevnte, må sjåføren flytte litt på rattet med visse intervaller.
 
 Når den prediktive effektivitetsassistenten (standard) er aktiv, bremser og akselererer den adaptive cruiseassistenten Audi e-tron GT på en slik måte at den bruker minst mulig energi. For å gjøre det, evaluerer den informasjon fra sensorene ombord og navigasjonsdata, forutsatt at ruteveiledningen er aktiv. «Tour»-assistentpakken inkluderer ytterligere systemer i tillegg: kamerabasert trafikkskiltgjenkjenning og nødhjelpen, samt svingassistenten og kollisjonsunngåelsesassistenten, som kan forhindre kollisjoner med andre kjøretøy.
 
-### Gå ut og la selve parkeringsplassen: (fjern) parkeringshjelp pluss
+### Gå ut og la  bilen parklere selv
 
-Bortsett fra manøverassistenten, er (fjern)parkeringsassistent pluss, som sjåføren aktiverer ved å trykke på en knapp, et av høydepunktene i "Park"-hjelpepakken. Den oppdager egnede parkeringsplasser og kan manøvrere Audi e-tron GT inn og ut av en parallell- eller buktparkeringsplass ved å trykke på en knapp. Sjåføren er ansvarlig for manøveren. De kan forbli inne i bilen eller gå ut på forhånd – i dette tilfellet starter og overvåker de parkeringsmanøveren via myAudi-appen. Ved å holde den tilsvarende knappen trykket, vil e-tron GT rulle inn i rommet, i flere manøvrer om nødvendig. Når den har nådd sin endelige posisjon, slår den av stasjonen, aktiverer parkeringslåsen og låser dørene. «City»-assistentpakken inkluderer følgende sikkerhetssystemer: Audi pre sense bak, sideassistanse, avkjøringsvarsling, veikryssassistent og krysstrafikkassistent bak.
+Bortsett fra manøverassistenten, er parkeringsassistent pluss, som sjåføren aktiverer ved å trykke på en knapp, et av høydepunktene i "Park"-hjelpepakken. Den oppdager egnede parkeringsplasser og kan manøvrere Audi e-tron GT inn og ut av en parallell- eller buktparkeringsplass ved å trykke på en knapp. Sjåføren er ansvarlig for manøveren. De kan forbli inne i bilen eller gå ut på forhånd – i dette tilfellet starter og overvåker de parkeringsmanøveren via myAudi-appen. Ved å holde den tilsvarende knappen trykket, vil e-tron GT rulle inn i rommet, i flere manøvrer om nødvendig. Når den har nådd sin endelige posisjon, slår den av stasjonen, aktiverer parkeringslåsen og låser dørene. «City»-assistentpakken inkluderer følgende sikkerhetssystemer: Audi pre sense bak, sideassistanse, avkjøringsvarsling, veikryssassistent og krysstrafikkassistent bak.
 
 ![Sensorer](sensors.jpg "Audi e-tron GT-sensorer")
 
