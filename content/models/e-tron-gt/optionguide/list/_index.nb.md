@@ -186,7 +186,7 @@ weight: 100
 | Tittel | Beskrivelse | ID |
 |-----|------|------|
 | [3-zone climate control](../../technology/climatecontrol/) | Standard | KH5  |
-| [Air Quality package](../../technology/airquality/) |  | 2V4 |
+| [Premium luftkvalitet](../../technology/airquality/) |  | 2V4 |
 | [Parking climate](../../technology/climatecontrol/#auxiliary-air-conditioner) | Standard |  |
 | [Parking climate with extra comfort](../../technology/climatecontrol/#auxiliary-air-conditioner-with-extra-convenience) |  | standard |
 

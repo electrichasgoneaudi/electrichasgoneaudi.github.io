@@ -23,7 +23,7 @@ All systems use the central driver assistance controller (zFAS), which uses the 
 | [Active Lane assist](activelaneassist) | standard (6I3)|
 | [Adaptive Cruise Assist](adaptivecruiseassist) | option (PCC) |
 | [Adaptive Cruise Control with speed limiter](adaptivecruisecontrol) | standard |
-| Crossing/Intersection assist | Option (PCM) |
+| [Crossing/Intersection assist](crossingassist) | Option (PCM) |
 | [Cruise control](cruisecontrol) | standard |
 | [Hold Assist](holdassist) | Standard |
 | [Park Assist](parkassist) | Option |
@@ -31,8 +31,8 @@ All systems use the central driver assistance controller (zFAS), which uses the 
 | [Pre Sense front](presensefront) | standard |
 | [Pre Sense rear](presenserear) | option (PCM) |
 | Pre Sense side | N/A |
-| Distance warning | standard |
-| Night Vision | option (9R1) |
+| [Distance warning](distancewarning) | standard |
+| [Night Vision](nightvision) | option (9R1) |
 | [Speed limiter](speedlimiter) | standard |
 | Park assist Plus | option (PCV) |
 | [Cross traffic assist rear](crosstrafficassistrear) | option (PCM) |
@@ -40,7 +40,7 @@ All systems use the central driver assistance controller (zFAS), which uses the 
 | [Collision avoidance assist](collisionavoidanceassist) | standard |
 | [Side assist](sideassist) | option (PCM) |
 | [Reversing camera](reversingcamera) | option (KA2) |
-| Turn assist | Option  |
+| [Turn assist](turnassist) | Option  |
 | [Traffic sign recognition](trafficsignrecognition) | standard |
 
 See detailed information about the systems below.
