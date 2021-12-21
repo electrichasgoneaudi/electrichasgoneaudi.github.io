@@ -1,6 +1,6 @@
 ---
 title: Audi e-tron GT låsesystemer
-linktitle: Tilgang og låsi ng
+linktitle: Låsesystemer
 description: Audi e-tron GT og Audi RS e-tron GT har mulighet for forskjellige låsesystemer.
 weight: 7
 ---

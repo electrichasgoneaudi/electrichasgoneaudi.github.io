@@ -93,15 +93,15 @@ weight: 100
 | [Karbontak](../../exterior/roof/) | | 3FG |
 | [Panorama glasstak (fast)](../../exterior/roof/) | | 3FI |
 
-## Locking system
+## Låsesystemer
 
 | Tittel | Beskrivelse | ID |
 |-----|------|------|
-| [Advance Key](../../technology/lockingsystems/#advance-key-option-pgc) | | 4I3 |
-| [Advance Key with alarm/safelock](../../technology/lockingsystems/#advance-key-with-alarm-option-pgb) | | PGB |
-| Automatic immobilizer | activates with key |  |
-| [Powered tailgate](../../exterior/doors/#powered-tailgate) | Electric opening and closing. Standard | |
-| Garage port opener |  | VC2 |  
+| [Komfortnøkkel](../../technology/lockingsystems/#advance-key-option-pgc) | | 4I3 |
+| [Komfortnøkkel med alarm/safelock](../../technology/lockingsystems/#advance-key-with-alarm-option-pgb) | | PGB |
+| Automatisk startsperre | activates with key |  |
+| [Elektrisk bakluke](../../exterior/doors/#elektrisk-bakluke) | Elektrisk åpning og lukking. Standard | |
+| [Garasjeportåpner](../../technology/garagedooropener/) |  | VC2 |  
 
 ## Glass
 

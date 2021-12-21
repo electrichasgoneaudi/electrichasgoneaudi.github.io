@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron GT lights technology
-linktitle: Lights
-description: Audi e-tron GT has a lot of lightning options
+title: Audi e-tron GT lysteknologi
+linktitle: Lys
+description: Audi e-tron GT har avanserte lysmuligheter og velge mellom
 weight: 3
 ---
 
