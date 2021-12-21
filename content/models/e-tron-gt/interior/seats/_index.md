@@ -1,6 +1,6 @@
 ---
-title: Audi e-tron GT seats and interior materials
-linktitle: Seats & Material
+title: Audi e-tron GT seats
+linktitle: Seats
 description: Audi e-tron GT have serveral seats options to choose from
 weight: 1
 ---

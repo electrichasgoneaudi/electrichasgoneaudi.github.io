@@ -1,7 +1,7 @@
 ---
 title: Interior & ambient lights
 linktitle: Interior & ambient lights
-description: Audi e-tron has some standard interior lights and some additional options.
+description: Audi e-tron GT / Audi RS e-tron GT has some standard interior lights and some additional options.
 weight: 3
 ---
 
@@ -26,7 +26,3 @@ area with option id **QQ2**.
 The color can change based on your drive mode in [Audi Drive Select](/models/e-tron-gt/technology/audidriveselect/).
 
 ![Ambient lights](ambientlight_1.jpg "Multicolor interior lights")
-
-See video below why this is the option to get.
-
-{{< youtube hRZpWwWOoLs >}}
