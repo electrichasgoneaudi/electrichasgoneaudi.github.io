@@ -78,19 +78,20 @@ weight: 100
 | [Matrix LED med Laserlys](../../technology/lights/#matrix-led-med-laser) |  | PXC |
 | [LED-baklykter med dynamisk blinklys](../../technology/lights/#led-baklys) | Standard | 8VM |
 
-## Mirror and roof system
+## Speil og taksystemer
 
 | Tittel | Beskrivelse | ID |
 |-----|------|------|
 | Interior mirror | automatic dimming, frameless, standard | 4L6 |
-| [Mirrors, electric adjustable and heated](../../exterior/mirrors/#functionality) | Standard | 6XD |
-| [Mirrors, electric, retractable, curbautomatic](../../exterior/mirrors/#functionality) | | 6XK |
-| [Mirrors, electric, retractable, curbautomatic, memory](../../exterior/mirrors/#functionality) | | 6XL |
-| [Mirror house in veichle paint](../../exterior/mirrors/#mirror-style) | Standard | 6FA |
-| [Mirror house in black](../../exterior/mirrors/#mirror-style) | | 6FJ |
-| [Mirror house in carbon](../../exterior/mirrors/#mirror-style) | | 6FQ |
-| [Panoramic roof](../../exterior/roof/) | | 3FG |
-| [Carbon roof](../../exterior/roof/) | | 3FI |
+| [Speil, elektrisk adjustable and heated](../../exterior/mirrors/#functionality) | Standard | 6XD |
+| [Speil, elektrisk, innfelbart, curbautomatic](../../exterior/mirrors/#functionality) | | 6XK |
+| [Speil, elektrisk, innfelbart, curbautomatic, minne](../../exterior/mirrors/#functionality) | | 6XL |
+| [Utvendige speilhus i bilens farge](../../exterior/mirrors/#mirror-style) | Standard | 6FA |
+| [Utvendige speilhus i sort](../../exterior/mirrors/#mirror-style) | | 6FJ |
+| [Utvendige speilhus i karbon](../../exterior/mirrors/#mirror-style) | | 6FQ |
+| [Automatisk innvendig avblendbart speil](../../interior/mirror/) | | 4L6 |
+| [Karbontak](../../exterior/roof/) | | 3FG |
+| [Panorama glasstak (fast)](../../exterior/roof/) | | 3FI |
 
 ## Locking system
 

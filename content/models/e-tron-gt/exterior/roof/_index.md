@@ -8,7 +8,7 @@ weight: 6
 
 ## Panoramic glass sunroof
 
-You can order panoramic roof with option id **3FU**
+You can order panoramic roof with option id **3FU**. This is the standard roof.
 
 <figure>
     <a href="panoramic_roof_1.jpg">
@@ -47,7 +47,28 @@ You can order panoramic roof with option id **3FU**
 
 ## Carbon roof
 
-As an option you can replace the panoramic roof with a carbon roof to reduce roof weight.
+As an option, you can replace Panorama glass roofs with carbon roofs.
+
+Carbon is a robust and lightweight material. The visible fiber structure has a great visual effect. The properties of the material increase
+agility and dynamism.
+
+The carbon roof of the Audi e-tron GT quattro consists of carbon fiber-reinforced plastic. This is a high-tech material that is
+very stable and light. The carbon roof reduces the car's total weight and lowers the car's center of gravity. This means increased agility and
+driving dynamics in sporty driving. The visible structure of thin carbon fibers demonstrates both sporting properties
+and high quality.
+
+Carbon fiber-reinforced plastic, also called carbon, has long been used in motorsport. Here comes the high-tech
+the advantages of the material are very clear. Carbon components are very stable and lightweight. Used in the right place one can
+component of carbon reduce the car's total weight, in addition to lowering the car's center of gravity, as is the case for the carbon roof on
+Audi e-tron GT four. This means that the car's agility and dynamics increase during sporty driving. Carbon roof visible
+fiber structure also provides a great visual effect. The sporty design and the thin carbon fibers in the plastic reflect it
+very high quality.
+
+Your benefits:
+
+- Visible carbon fiber structure gives a sporty quality character
+- The weight of the car is reduced
+- The car's center of gravity is lowered, this increases the car's agility and dynamics
 
 Option **3FI**
 
