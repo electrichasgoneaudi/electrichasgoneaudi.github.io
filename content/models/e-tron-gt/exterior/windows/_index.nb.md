@@ -61,8 +61,6 @@ Dette påvirker stort hvordan e-tron GT ser ut.
     <figcaption><h4>Mørke ruter</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
-
 ## Frontrute med varme- og støydempende glass
 
 Frontrute i laminert sikkerhetsglass med grå solbeskyttende stripe øverst i frontruten. 
@@ -82,3 +80,5 @@ Frontrute i laminert sikkerhetsglass med grå solbeskyttende stripe øverst i fr
 God utvendig støyisolering pga isolasjonsglass
 
 Tilvalg **4GY**
+
+{{% children description="true" depth="1" %}}

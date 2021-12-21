@@ -61,7 +61,12 @@ This option makes a big difference in the way the e-tron GT look.
     <figcaption><h4>Privacy windows</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+## Windscreen with heat- and noise-reducing glass
+
+Windscreen in laminated safety glass with gray sun-protective strip at the top of the windscreen.
+Good exterior noise insulation due to insulating glass
+
+Optional 4GK 
 
 ## Acoustic windows side windows
 
@@ -74,3 +79,5 @@ It provides increased comfort and reduces the air conditioning's energy consumpt
 With area for autopass.  Insulating glass reduces noise from outside.
 
 Option Id **4GY**
+
+{{% children description="true" depth="1" %}}
