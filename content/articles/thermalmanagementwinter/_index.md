@@ -31,7 +31,7 @@ Low exterior temperatures exacerbate the problem – and affect high-voltage bat
 
 ### What are the effects of cold on charging?
 
-Woltmann: Charging can take longer at low battery temperatures. For that reason, the battery has to be heated during charging, ideally even on the way to charging. Upon connecting with the charging point, the vehicle automatically communicates with the power source.
+***Woltmann***: Charging can take longer at low battery temperatures. For that reason, the battery has to be heated during charging, ideally even on the way to charging. Upon connecting with the charging point, the vehicle automatically communicates with the power source.
 
 That's how the charging point knows how much electricity the battery can absorb at any time. So we ensure that the battery isn’t overloaded. When it’s charging, the battery draws the electricity it needs for heating power from the charging point.
 
@@ -102,5 +102,13 @@ This additional mobile preconditioning of the battery in the e-tron GT quattro a
     <figcaption><h4>Range mode in Audi e-tron GT</h4></figcaption>
 </figur>
 
+
+### Read more about thermal management
+
+You find details about thermal managment in our model section
+
+- [Thermal Management Audi e-tron GT / Audi RS e-tron GT](../../models/e-tron-gt/drivetrain/battery/#thermal-managment)
+- [Thermal management Audi Q4 e-tron](../../models/q4-e-tron/drivetrain/battery/#thermal-management)
+- [Thermal management Audi e-tron](../../models/e-tron/drivetrain/battery/#thermal-management)
 
 {{% children description="true" depth="1" %}}
