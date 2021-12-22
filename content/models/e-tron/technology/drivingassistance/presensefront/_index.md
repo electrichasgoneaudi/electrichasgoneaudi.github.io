@@ -1,17 +1,17 @@
 ---
-title: Audi pre sense front
+title: Audi pre sense front / Audi pre sense city
 linktitle: Pre sense front
-description: Audi pre sense front bruker data fra radarsensorer og/eller frontkameraet, avhengig av bilmodellen, for å beregne sannsynligheten for en kollisjon. Innenfor systemets begrensninger advarer det om kollisjonstrusler og setter i gang bremsing ved spesifikke kjøretøyhastigheter.
+description: Audi pre sense front and Audi pre sense city utilize the data of radar sensors and/or the front camera, depending on the car model, to compute the probability of a collision. Within the limitations of the system, it warns of collision threats and initiates braking at specific vehicle speeds.
 weight: 1
 ---
 
 ![Pre sense front](presencefront.jpg "Audi pre sense front")
 
-  Kjøretøy oppdages i kjørehastighetsområdet opptil 250 km/t (155,3 mph), fotgjengere opp til rundt 65 km/t (40,4 mph) eller 85 km/t (52,8 mph) avhengig av modell, så vel som syklister , avhengig av systemet.
+ Vehicles are detected in the driving speed range of up to 250 km/h (155.3 mph), pedestrians up to around 65 km/h (40.4 mph) or 85 km/h (52.8 mph) depending on the model, as well as cyclists, depending on the system.
 
-Hvis en kollisjon er nært forestående, varsler systemet føreren med visuelle, akustiske og haptiske advarsler basert på et flertrinnsvarslingskonsept. Om nødvendig gir systemet bremsehjelp for å redusere kjøretøyets hastighet eller starter en full bremsing for å unngå kollisjonen under visse omstendigheter. Det iverksettes også tiltak for å beskytte beboerne. Varselblinkene er aktivert, setebeltene er reversibelt forspent, seteposisjonen er optimert, og vinduene og valgfri panoramaglasstak lukkes.
+If a collision is imminent, the system warns the driver with visual, acoustic and haptic warnings based on a multistage warning concept. If necessary, the system provides braking assistance to reduce vehicle speed or initiates a full brake application to avoid the collision under certain circumstances. Actions are also taken to protect occupants. The hazard warning lights are activated, the seat belts are reversibly pretensioned, the seat position is optimized, and the windows and optional panoramic glass sunroof are closed.
 
-Audi pre sense front er standardutstyr på Audi e-tron.
+Audi pre sense front is standard equipment on Audi e-tron GT.
 
 
 {{% children description="true" depth="1" %}}
