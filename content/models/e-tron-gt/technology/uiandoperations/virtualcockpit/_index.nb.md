@@ -1,7 +1,8 @@
 ---
 title: Virtual Cockpit
 linktitle: Virtual Cockpit
-description: Audi virtual cockpit digitalt instrument panel med med en 12.3" skjerm. weight: 2
+description: Audi virtual cockpit digitalt instrument panel med med en 12.3" skjerm. 
+weight: 2
 ---
 
 Den virtuelle cockpit-skjermen har en full HD-oppløsning på 1 920 x 720 piksler. Skjermgrafikken er usedvanlig skarp og svært detaljert.

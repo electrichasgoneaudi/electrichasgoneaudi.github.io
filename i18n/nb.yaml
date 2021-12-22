@@ -8,6 +8,9 @@
 - id: menu-guides
   translation: Guider
 
+- id: menu-articles
+  translation: Artikler
+
 - id: language
   translation: Språk
 

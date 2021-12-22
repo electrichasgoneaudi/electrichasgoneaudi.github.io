@@ -41,6 +41,11 @@
                   {{ T "menu-guides"}} 
                 </a>
               </li>
+              <li>
+                <a class="a-hvr-underline" href="{{ with .Site.GetPage `/articles/`}}{{.URL}}{{end}}">
+                  {{ T "menu-articles"}} 
+                </a>
+              </li>
             </ul>
           </div>
 
