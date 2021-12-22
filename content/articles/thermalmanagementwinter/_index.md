@@ -35,7 +35,6 @@ Woltmann: Charging can take longer at low battery temperatures. For that reason,
 
 That's how the charging point knows how much electricity the battery can absorb at any time. So we ensure that the battery isn’t overloaded. When it’s charging, the battery draws the electricity it needs for heating power from the charging point.
 
-
 <figur>
     <a href="thermalmanagementwinter_3.jpg">
         <img src="thermalmanagementwinter_3s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
@@ -61,6 +60,13 @@ That's how the charging point knows how much electricity the battery can absorb 
 
 This additional mobile preconditioning of the battery in the e-tron GT quattro and RS e-tron GT ensures the best and fastest possible charging results.
 
+<figur>
+    <a href="thermalmanagementwinter_4.jpg">
+        <img src="thermalmanagementwinter_4s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
+    </a>
+    <figcaption><h4>Audi RS e-tron GT & Audi Q4 e-tron</h4></figcaption>
+</figur>
+
 ### How does Audi reduce range loss by heating the interior?
 
 ***Woltmann***: Compared with a combustion engine, an electric car has much less waste heat and energy available for heating. The heat that the battery, electric motor, and power electronics generate can be conducted into the interior with a heat pump. Basically, the heat pump works like a refrigerator – but in reverse. The more waste heat is available, the more efficiently the pump works. In the best case scenario, it can generate up to three kilowatts of heat output from one kilowatt of electrical energy. That technology is very useful particularly in the winter because it replaces a thermoelectric heating element. Depending on the external temperature, the heat pump can reach a higher range in comparison with conventional heating.
@@ -69,16 +75,32 @@ This additional mobile preconditioning of the battery in the e-tron GT quattro a
 
 ***Woltmann*** : Anyone who needs more range as soon as they get into the car should precondition. Ideally, it should be done by AC charging, which is generally more efficient than DC charging because there is less power loss due to the lower currents. AC charging is also gentler because it doesn’t put as much strain on the battery. There is less amperage flowing with AC charging. The battery can absorb that even at very low battery temperatures, which means that the battery doesn't have to be heated as much. Charging should happen – regardless of whether it is AC or DC – immediately before starting a trip via the departure timer in order to use the higher battery temperature to gain range or immediately after driving in order to utilize the higher battery temperature to charge faster and more efficiently.
 
+<figur>
+    <a href="thermalmanagementwinter_5.jpg">
+        <img src="thermalmanagementwinter_5s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
+    </a>
+    <figcaption><h4>Audi Q4 e-tron</h4></figcaption>
+</figur>
+
+
 ### What happens to a cold battery at a fast-charging station?
 
 ***Woltmann***: Regardless of the model, the algorithm in the vehicle recognizes when the car is being charged at a DC fast-charging station. The currents are released regardless of the charge level and temperature. With the active heating that we have implemented, we are significantly reducing the charging time in cold temperatures.
 
 ### When do high-voltage batteries reach their limit?
 
-Woltmann: To protect the battery, we don’t release any more electricity starting when the core temperature reaches minus 30 degrees (-22 Fahrenheit). But for that to happen, the car would have to be exposed to such an extreme temperature over a long period of time. Obviously it is also possible to drive an e-tron model with a sufficient charge level and a preheated high-voltage battery in external temperatures of minus 30 degrees.
+***Woltmann***: To protect the battery, we don’t release any more electricity starting when the core temperature reaches minus 30 degrees (-22 Fahrenheit). But for that to happen, the car would have to be exposed to such an extreme temperature over a long period of time. Obviously it is also possible to drive an e-tron model with a sufficient charge level and a preheated high-voltage battery in external temperatures of minus 30 degrees.
 
 ### From a technical perspective, what additional advice can you give for the winter?
 
-Anzenberger: By using the car’s computer and the range monitor in the Audi MMI with range prediction while driving, customers can directly read how much range they are gaining when, for example, the interior temperature is reduced. The range can be increased with Range Mode. This slightly restricts comfort functions, drive power, and the maximum speed.
+***Anzenberger***: By using the car’s computer and the range monitor in the Audi MMI with range prediction while driving, customers can directly read how much range they are gaining when, for example, the interior temperature is reduced. The range can be increased with Range Mode. This slightly restricts comfort functions, drive power, and the maximum speed.
+
+<figur>
+    <a href="thermalmanagementwinter_8.jpg">
+        <img src="thermalmanagementwinter_8s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
+    </a>
+    <figcaption><h4>Range mode in Audi e-tron GT</h4></figcaption>
+</figur>
+
 
 {{% children description="true" depth="1" %}}
