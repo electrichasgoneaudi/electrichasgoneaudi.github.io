@@ -1,7 +1,7 @@
 ---
-title: Intelligent thermal management in Audi models preserves range and performance
-linktitle: Intelligent thermal management
-description: In the winter, electrically powered cars have to bring the interior and the battery system to the right temperature. This double task already requires a lot of energy from them. 
+title: Intelligent termisk styring i Audi-modeller bevarer rekkevidde og ytelse
+linktitle: Intelligent termisk styring
+description: Om vinteren må elektriske biler bringe interiøret og batterisystemet til riktig temperatur. Denne doble oppgaven krever allerede mye energi fra dem.
 weight: 100001
 ---
 <!-- markdownlint-disable MD033 -->
