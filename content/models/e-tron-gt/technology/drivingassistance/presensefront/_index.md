@@ -11,7 +11,7 @@ weight: 1
 
 If a collision is imminent, the system warns the driver with visual, acoustic and haptic warnings based on a multistage warning concept. If necessary, the system provides braking assistance to reduce vehicle speed or initiates a full brake application to avoid the collision under certain circumstances. Actions are also taken to protect occupants. The hazard warning lights are activated, the seat belts are reversibly pretensioned, the seat position is optimized, and the windows and optional panoramic glass sunroof are closed.
 
-Audi pre sense front is standard equipment on Audi e-tron.
+Audi pre sense front is standard equipment on Audi e-tron GT.
 
 
 {{% children description="true" depth="1" %}}

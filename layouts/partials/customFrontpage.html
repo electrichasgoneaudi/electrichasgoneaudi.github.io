@@ -43,7 +43,52 @@
     {{ if and (.IsHome) (.Params.jumbotron) }}
       {{ partial "jumbotron.html" . }}
     {{end}}
-
+    <div class="container pt-2 pt-md-12 pt-lg-12">
+        <div class="row">
+            <div class="col-12 col-lg-12 mb-12">
+                <a href="{{ with .Site.GetPage `/articles/chargehub/`}}{{.URL}}{{end}}" class="a-illustrationLink">
+                    <div class="">
+                        <img src="articles/chargehub/chargehub_frontpage.jpg">
+                        <div class="a-illustration-overlay">
+                            <span class="sr-only">{{T "frontpage-article-chargehub-title"}}</span>
+                        </div>
+                    </div>
+                    <h2 class="a-h2">{{T "frontpage-article-chargehub-title"}}</h2>
+                    <p class="a-js-truncate-2">{{T "frontpage-article-chargehub-synopsis"}}</p>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="container pt-2 pt-md-3s pt-lg-5">
+        <div class="row">
+            <div class="col-12 col-lg-6 mb-5">
+                <a href="{{ with .Site.GetPage `/articles/electromobilityinwinter/`}}{{.URL}}{{end}}" class="a-illustrationLink">
+                    <div class="">
+                        <img src="articles/electromobilityinwinter/electromobilityinwinter_frontpage.jpg">
+                        <div class="a-illustration-overlay">
+                            <span class="sr-only">{{T "frontpage-article-electromobilityinwinter-title"}}</span>
+                        </div>
+                    </div>
+                    <h2 class="a-h3">{{T "frontpage-article-electromobilityinwinter-title"}}</h2>
+                    <p class="a-js-truncate-2">{{T "frontpage-article-electromobilityinwinter-synopsis"}}</p>
+                   
+                </a>
+            </div>
+            <div class="col-12 col-lg-6 mb-5">
+                <a href="{{ with .Site.GetPage `/models/`}}{{.URL}}{{end}}" class="a-illustrationLink">
+                    <div class="">
+                        <img src="articles/electromobilityinwinter/electromobilityinwinter_frontpage.jpg">
+                        <div class="a-illustration-overlay">
+                            <span class="sr-only">{{T "frontpage-sections-models-title"}}</span>
+                        </div>
+                    </div>
+                    <h2 class="a-h3">{{T "frontpage-article-chargehub-title"}}</h2>
+                    <p class="a-js-truncate-2">{{T "frontpage-sections-models-description"}}</p>
+                   
+                </a>
+            </div>
+        </div>
+    </div>
 
     <div class="container pt-2 pt-md-3 pt-lg-5">
 
