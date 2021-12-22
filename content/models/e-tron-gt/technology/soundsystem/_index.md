@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron soundsystem
 linktitle: Soundsystem
-description: You can choose between two different sound systems on Audi e-tron  
+description: You can choose between two different sound systems on Audi e-tron GT and Audi RS e-tron GT 
 weight: 7
 ---
 
