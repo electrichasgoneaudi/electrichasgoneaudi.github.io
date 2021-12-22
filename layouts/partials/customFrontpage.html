@@ -43,7 +43,7 @@
     {{ if and (.IsHome) (.Params.jumbotron) }}
       {{ partial "jumbotron.html" . }}
     {{end}}
-    <div class="container pt-2 pt-md-12 pt-lg-12">
+    <div class="container">
         <div class="row">
             <div class="col-12 col-lg-12 mb-12">
                 <a href="{{ with .Site.GetPage `/articles/chargehub/`}}{{.URL}}{{end}}" class="a-illustrationLink">
@@ -59,7 +59,7 @@
             </div>
         </div>
     </div>
-    <div class="container pt-2 pt-md-3s pt-lg-5">
+    <div class="container">
         <div class="row">
             <div class="col-12 col-lg-6 mb-5">
                 <a href="{{ with .Site.GetPage `/articles/electromobilityinwinter/`}}{{.URL}}{{end}}" class="a-illustrationLink">
@@ -90,7 +90,7 @@
         </div>
     </div>
 
-    <div class="container pt-2 pt-md-3 pt-lg-5">
+    <div class="container">
 
     <div class="row adocs-featuredBlocks">
         <div class="col-12 col-lg-4 mb-5">
