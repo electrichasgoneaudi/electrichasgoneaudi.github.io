@@ -7,7 +7,7 @@ hidden: true
 
 Målgruppen er alle som eier, alle som vurderer å kjøpe, og alle som ønsker å lære om helelektriske Audier
 
-Nettstedet er fellesskapsdrevet og åpen kildekode, noe som betyr at innholdet administreres av eiere og kan oppdateres av alle som har en Github-konto.
+Nettstedet er fellesskapsdrevet og åpen kildekode, noe som betyr at innholdet administreres av eiere og andre med kunnskap og kan oppdateres av alle som har en Github-konto.
 
 ## Hvilken type innhold finner du?
 
@@ -19,17 +19,16 @@ Eksempler på detaljert informasjon du finner på denne siden er
 - FAQ for hver modell
 - Høyoppløselige bilder av ekte biler som viser de forskjellige malingene, hjulene og andre eksteriør- og interiøralternativer
 - Samling av anmeldelser på nett for hver modell
-- Utstedelsesdatabase for de ulike modellene om vanlige og uvanlige problemer rapportert av eiere i sosiale medier og fora
+- Problemdatabase for de ulike modellene om vanlige og uvanlige problemer rapportert av eiere i sosiale medier og fora
 - Utstyrsguider som prøver å hjelpe deg med å velge de riktige alternativene for deg.
 - Veiledninger om hvordan du sparer batteriet, kjører effektivt++
 - Dybdeartikler om generell EV-teknologi og spesifikk Audi EV-teknologi
 
 ## Hvorfor?
 
-Verden må endre transporten for å bli mer bærekraftig. Å gå over til elbiler er en viktig del av dette og for mange forbrukere er teknologien ny og skummel. Vi håper at denne siden kan hjelpe forbrukere og personer som jobber med bilsalg til å forstå fordelene med elbiler og bidra til en raskere overgang.
+Verden må endre transportsektoren for å bli mer bærekraftig. Å gå over til elbiler er en viktig del av dette og for mange forbrukere er teknologien ny og skummel. Vi håper at denne siden kan hjelpe forbrukere og personer som jobber med bilsalg til å forstå fordelene med elbiler og bidra til en raskere overgang.
 
 ## Hvorfor Audi?
-
 
 Med mer enn 100 års historie har Audi vist at de kan lage biler med ledende teknologi kombinert med et fascinerende dynamisk design.
 
@@ -50,10 +49,10 @@ Som Audi ønsker vi å gjøre verden til en mer bærekraftig verden. Derfor kan 
 
 Innholdet er opprettet ved hjelp av [Markdown](https://en.wikipedia.org/wiki/Markdown) og tilgjengelig på [Github](https://github.com/electrichasgoneaudi/electrichasgoneaudi.github.io).
 
-- [Fork vårt nettstedlager](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+- [Fork vårt repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 - Legg til eller oppdater innholdet
 - Lag en pull-forespørsel
 
 ## Facebook og Instagram
 
-Vi har flere ansiktsgrupper knyttet til de forskjellige modellene. Du finner dem på vår [Facebook-side](https://www.facebook.com/electrichasgoneaudi). Vi har også en Instagram-konto dedikert til alle elektriske Audi. Du finner den her: [https://www.instagram.com/electrichasgoneaudi/](https://www.instagram.com/electrichasgoneaudi/)
+Vi har flere Facebookgrupper knyttet til de forskjellige modellene. Du finner dem på vår [Facebook-side](https://www.facebook.com/electrichasgoneaudi). Vi har også en Instagram-konto dedikert til alle elektriske Audi. Du finner den her: [https://www.instagram.com/electrichasgoneaudi/](https://www.instagram.com/electrichasgoneaudi/)
