@@ -1,7 +1,7 @@
 ---
 title: Intelligent termisk styring i Audi-modeller bevarer rekkevidde og ytelse
 linktitle: Intelligent termisk styring
-description: Om vinteren må elektriske biler bringe interiøret og batterisystemet til riktig temperatur. Denne doble oppgaven krever allerede mye energi fra dem.
+description: Om vinteren må elektriske biler bringe interiøret og batterisystemet til riktig temperatur. Dette krever mye energi. 
 weight: 100001
 ---
 <!-- markdownlint-disable MD033 -->

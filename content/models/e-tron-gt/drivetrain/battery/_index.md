@@ -4,6 +4,8 @@ linktitle: Battery
 description: The lithium-ion battery system of the Audi e-tron GT quattro and the RS e-tron GT can store 83,7 kWh of energy net (93,400 kWh gross).
 weight: 7
 ---
+<!-- markdownlint-disable MD033 -->
+
  It integrates 33 cell modules, each of which comprises 12 pouch cells with flexible outer skin. Each module is fitted with its own computer that monitors the temperature and voltage. The unusually high system voltage of approx. 800 volts enables a powerful continuous output and shortens the charging duration; in addition, it reduces the weight of, and space required by, the wiring.
 
 The battery system is located beneath the passenger compartment, at the lowest point of the car. This, in combination with the electric motors, provides a low center of gravity appropriate for a sports car and a weight distribution between the front and rear axles that is very close to the ideal value of 50:50.
@@ -75,6 +77,19 @@ The refrigerant circuit also helps with cooling during fast DC charging, which c
 The standard equipment of the e-tron GT includes a heat pump that heats the interior with the waste heat of the high-voltage components. It can reduce the loss of range that the electric climate control causes in winter in particular significantly. In addition to charging, customers can also manage pre-entry climate control of the interior via their smartphones using the myAudi app. This is done via a powerful high-voltage heating element and does not depend on the car charging via the power grid. Audi equips the e-tron GT with a deluxe auxiliary air-conditioning system as an option that also incorporates the steering wheel rim (if heatable), the exterior mirrors and the rear window.
 
 {{< youtube zdCiTtRR4TE >}}
+
+### Reduced power when cold
+
+When battery is cold the car reduces the avaialable power to protect the battery. In cold weather you should try to AC charge before leaving home to increase temprature.
+
+<figure>
+    <a href="reducedpower_1.jpg">
+        <img src="reducedpower_1s.jpg" alt="Reduced power avaiable in cold weather" title="Reduced power avaiable in cold weather">
+    </a>
+    <figcaption><h4>Reduced power avaiable in cold weather</h4></figcaption>
+</figure>
+
+You can read more about how Audi protects the battery in [this article](../../../../articles/thermalmanagementwinter).
 
 ## Charging
 
