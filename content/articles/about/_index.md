@@ -9,6 +9,8 @@ The target audience is everyone owning, everyone considering buying, and everyon
 
 The site is community-driven and open source, meaning the content is managed by owners and can be updated by anyone having a Github account.
 
+![Audience](about_2.jpg "We have users from most of the countries on the planet")
+
 ## What type of content do you find?
 
 The level of details on electrichasgoneaudi.net goes beyond any official Audi site or other press sites focusing on cars.

@@ -9,6 +9,8 @@ Målgruppen er alle som eier, alle som vurderer å kjøpe, og alle som ønsker �
 
 Nettstedet er fellesskapsdrevet og åpen kildekode, noe som betyr at innholdet administreres av eiere og andre med kunnskap og kan oppdateres av alle som har en Github-konto.
 
+![Audience](about_2.jpg "Vi har besøkende fra de fleste land på planeten")
+
 ## Hvilken type innhold finner du?
 
 Detaljnivået på electrichasgoneaudi.net går utover alle offisielle Audi-sider eller andre pressesider som fokuserer på biler.
