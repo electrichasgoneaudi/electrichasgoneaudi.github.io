@@ -30,7 +30,6 @@ The world needs to change its transportation to be more sustainable. Moving to e
 
 ## Why Audi?
 
-
 With more than 100-years of history, Audi has shown they can create cars with leading technology combined with a fascinating dynamic design.
 
 Audi has committed to end the development of new internal combustion engine models by the end of 2026 and focus solely on full-electric drivetrains and phase out production of all petrol and diesel engines by 2033. From 2033 on, the future of the Audi brand will be fully electric. The company is continuing to pick up speed along the way. Audi wants to be a sustainable, social, and technological leader by 2030.
