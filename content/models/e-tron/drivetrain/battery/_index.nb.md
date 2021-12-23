@@ -155,6 +155,8 @@ Batteriet og alle dets parametere, som ladestatus, strømutgang og termisk styri
 
 Batterikoblingsboksen (BJB), som høyspentreléene og sikringene er integrert i, er det elektriske grensesnittet til kjøretøyet. Innelukket i et støpt aluminiumshus, er den plassert i den fremre delen av batterisystemet. Datautveksling mellom BMC, CMC og BJB skjer via et separat bussystem.
 
+{{< youtube gzXjFpA8N7U >}}
+
 ## Ladeytelse
 
 Audi e-tron 55/S og Audi e-tron 50 er en av de raskest ladede elbilene på markedet.
