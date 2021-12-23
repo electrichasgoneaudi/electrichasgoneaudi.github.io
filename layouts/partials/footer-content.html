@@ -15,6 +15,9 @@
                     <li>
                         <a href="https://github.com/electrichasgoneaudi/">Github</a>
                     </li>
+                    <li>
+                        <a href="{{ with .Site.GetPage `/articles/about/`}}{{.URL}}{{end}}">{{T "footer-about"}}</a>
+                    </li>
                 </ul>
             </div>
         </div>
