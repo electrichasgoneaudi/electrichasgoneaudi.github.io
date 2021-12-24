@@ -60,11 +60,13 @@ Q4 35 e-tron-batteriet består av 8 batterimoduler med 12 celler i hver modul.
 
 ## Termisk styring
 
-![Termisk styring Audi Q4 e-tron](batterycooling.jpg "Termisk styring Audi Q4 e-tron")
+Det termiske styringssystemet tar sikte på å få batteriet opp til det ideelle temperaturområdet på rundt 30 grader Celsius raskt etter at det er startet og å holde det der til slutten av reisen. Dette sikrer at dens fulle kraft – og dermed kraften til hele drivsystemet – er tilgjengelig etter kort tid selv under ekstremt kalde forhold. Takket være de stabile termiske forholdene kan sjåføren også ringe den gjentatte ganger eller lade batteriet ved en HPC-ladeterminal med høy effekt. Det sofistikerte termiske styringssystemet gir også batteriet en lang livssyklus – Audi garanterer at det fortsatt vil ha minst 70 prosent kapasitet etter åtte års drift eller etter 160 000 kilometer.
 
+![Termisk styring Audi Q4 e-tron](batterycooling.jpg "Termisk styring Audi Q4 e-tron")
 
 ![Termistyring Audi Q4 e-tron](battercooling2.jpg "Kjøling av høyspentbatteriet via kjøleren")
 
+{{< youtube oRt-pWOBao4 >}}
 
 ## Detaljert gjennomgang av batteri
 

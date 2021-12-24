@@ -61,9 +61,13 @@ The Q4 35 e-tron battery consist of 8 battery modules with 12 cells in each modu
 
 ## Thermal management
 
+The thermal management system aims to get the battery up to the ideal temperature range of around 30 degrees Celsius quickly after it is started and to keep it there until the end of the journey. This ensures that its full power – and therefore the power of the entire drive system – is available after a short time even in extremely cold conditions. Thanks to the stable thermal conditions, the driver can also call on it repeatedly or charge the battery at an HPC charging terminal with high output. The sophisticated thermal management system also gives the battery a long life cycle – Audi guarantees that it will still have at least 70 percent capacity after eight years of operation or after 160,000 kilometers.
+
 ![Thermal management Audi Q4 e-tron](batterycooling.jpg "Thermal management Audi Q4 e-tron")
 
 ![Thermal management Audi Q4 e-tron](battercooling2.jpg "Cooling of the high-voltage battery via the chiller")
+
+{{< youtube oRt-pWOBao4 >}}
 
 ## Detail walkthrough of battery
 
