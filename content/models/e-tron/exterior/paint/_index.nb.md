@@ -482,6 +482,13 @@ Fargekode: **OE**
     <figcaption><h4>Audi e-tron sportback S60 i Mythos Black med sort optikk</h4></figcaption>
 </figur>
 
+<figur>
+    <a href="paint_mythosblack_3.jpg">
+        <img src="paint_mythosblack_3s.jpg" alt="Audi e-tron sportback S60 i Mythos Black med sort optikk" title="Audi e-tron sportback S60 i Mythos Black med sort optikk">
+    </a>
+    <figcaption><h4>Audi e-tron S60 i Mythos Black med sort optikk</h4></figcaption>
+</figur>
+
 ## Audi Exclusive lakk farger
 
 Det er mulig å bestille Audi e-tron med Audi exclusive lakk farger. Det er mange farger å velge mellom.
