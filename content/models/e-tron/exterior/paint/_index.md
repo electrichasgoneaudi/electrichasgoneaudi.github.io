@@ -481,6 +481,13 @@ Color Code: **OE**
     <figcaption><h4>Audi e-tron sportback S60 in Mythos Black with black optics</h4></figcaption>
 </figure>
 
+<figure>
+    <a href="paint_mythosblack_3.jpg">
+        <img src="paint_mythosblack_3s.jpg" alt="Audi e-tron  S60 in Mythos Black with black optics" title="Audi e-tron S60 in Mythos Black with black optics">
+    </a>
+    <figcaption><h4>Audi e-tron S60 in Mythos Black with black optics</h4></figcaption>
+</figure>
+
 ## Audi Exclusive Paint colors
 
 It is possible to order Audi e-tron with Audi exclusive Paint colors. There are lots of colors to choose from.
