@@ -93,4 +93,7 @@ In addition to the black element in black optics package the Audi logo rings is 
 
 ![Black rings rear](blackringsrear.jpg "Black rings rear @auditography")
 
+
+You can order black rings later. Part no: 89A 071 801
+
 ![Black ring](blackringcomparison.jpg "Bronze vs chrome ring front")

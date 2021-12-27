@@ -88,4 +88,7 @@ Sort optikk pluss gir i tillegg til detaljene i sort optikk pakken over sorte Au
 
 ![Black rings rear](blackringsrear.jpg "Sorte ringer bak @auditography")
 
+
+Du kan bestille sorte ringer foran i etterkant. Delenr: 89A 071 801
+
 ![Black ring](blackringcomparison.jpg "Bronze vs chrome ringer foran")
