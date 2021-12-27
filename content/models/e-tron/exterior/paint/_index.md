@@ -339,7 +339,21 @@ Color Code: **2D**
     <a href="paint_navarrablue_1.jpg">
         <img src="paint_navarrablue_1s.jpg" alt="Audi e-tron 60S  Sportback in Navarra Blue with contrast color" title="Audi e-tron 60S  Sportback in Navarra Blue with contrast color">
     </a>
-    <figcaption><h4>Audi e-tron 60S  Sportback in Navarra Blue with contrast color</h4></figcaption>
+    <figcaption><h4>Audi e-tron 60S Sportback in Navarra Blue with contrast color</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_navarrablue_2.jpg">
+        <img src="paint_navarrablue_2s.jpg" alt="Audi e-tron 60S  Sportback in Navarra Blue with black optics" title="Audi e-tron 60S  Sportback in Navarra Blue with contrast color">
+    </a>
+    <figcaption><h4>Audi e-tron 60S Sportback in Navarra Blue with black optics</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_navarrablue_3.jpg">
+        <img src="paint_navarrablue_3s.jpg" alt="Audi e-tron 60S  Sportback in Navarra Blue with black optics" title="Audi e-tron 60S  Sportback in Navarra Blue with contrast color">
+    </a>
+    <figcaption><h4>Audi e-tron 60S Sportback in Navarra Blue with black optics</h4></figcaption>
 </figure>
 
 The footage shows driving shots as well as stills of the Audi e-tron S Sportback in the color navarra blue.

@@ -343,6 +343,20 @@ Fargekode: **2D**
     <figcaption><h4>Audi e-tron 60S Sportback i Navarrablått med kontrastfarge</h4></figcaption>
 </figur>
 
+<figur>
+    <a href="paint_navarrablue_2.jpg">
+        <img src="paint_navarrablue_2s.jpg" alt="Audi e-tron 60S Sportback i Navarrablått med  sort optikk" title="Audi e-tron 60S Sportback i Navarrablått med  sort optikk">
+    </a>
+    <figcaption><h4>Audi e-tron 60S Sportback i Navarrablått med sort optikk</h4></figcaption>
+</figur>
+
+<figur>
+    <a href="paint_navarrablue_3.jpg">
+        <img src="paint_navarrablue_3s.jpg" alt="Audi e-tron 60S Sportback i Navarrablått med  sort optikk" title="Audi e-tron 60S Sportback i Navarrablått med  sort optikk">
+    </a>
+    <figcaption><h4>Audi e-tron 60S Sportback i Navarrablått med sort optikk</h4></figcaption>
+</figur>
+
 Opptakene viser kjørebilder samt stillbilder av Audi e-tron S Sportback i fargen navarrablå.
 
 {{< youtube AxA08viUctY >}}
