@@ -92,3 +92,5 @@ The black optics package contains gloss black front, rails and window rims. Opti
 In addition to the black element in black optics package the Audi logo rings is black in rear and bronze in front.
 
 ![Black rings rear](blackringsrear.jpg "Black rings rear @auditography")
+
+![Black ring](blackringcomparison.jpg "Bronze vs chrome ring front")
