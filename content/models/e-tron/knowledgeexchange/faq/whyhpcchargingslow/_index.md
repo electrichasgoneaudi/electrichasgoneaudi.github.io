@@ -1,19 +1,10 @@
 ---
 title: Why does not my Audi e-tron charge as fast as expected on a HPC
 linktitle: Charging
-description: All car models have some issues and problems. On Github we have gathered most of the issues owners experience with the cars. 
+description: Audi e-tron is one of the fastest charging EV's. Still many experience slower charging speed than expected. Why is that? 
 weight: 30
 ---
 
-## Charging
+First. What is the expected charging rate? Under optimal conditions the carge curve will look something like this.
 
-- Why is my charging speed much slower than expected?
-
-## myAudi App
-
-- Why I am not able to control my car throug myAudi? 
-  
-## Consumption & Range
-
-- What is the most efficient recupperation mode
-- Why is my car showing lower range than advertised?
+![Charging curve](../drivetrain/battery/chargespeed55.png)

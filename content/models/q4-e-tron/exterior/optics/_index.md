@@ -91,8 +91,20 @@ The black optics package contains gloss black front, rails and window rims. Opti
 
 In addition to the black element in black optics package the Audi logo rings is black in rear and bronze in front.
 
-![Black rings rear](blackringsrear.jpg "Black rings rear @auditography")
+<figure>
+    <a href="blackopticsplus_1.jpg">
+        <img src="blackopticsplus_1s.jpg" alt="Glacierwhite Audi Q4 e-tron with black optics plus" title="Glacierwhite Audi Q4 e-tron with black optics plus">
+    </a>
+    <figcaption><h4>Glacierwhite Audi Q4 e-tron with black optics plus</h4></figcaption>
+</figure>
 
+
+<figure>
+    <a href="blackopticsplus_2.jpg">
+        <img src="blackopticsplus_2s.jpg" alt="Glacierwhite Audi Q4 e-tron with black optics plus" title="Glacierwhite Audi Q4 e-tron with black optics plus">
+    </a>
+    <figcaption><h4>Glacierwhite Audi Q4 e-tron with black optics plus</h4></figcaption>
+</figure>
 
 You can order black rings later. Part no: 89A 071 801
 

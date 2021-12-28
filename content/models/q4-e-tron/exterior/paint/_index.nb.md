@@ -9,18 +9,18 @@ Her finner du høyoppløste bilder av virkelige bilder i de forskjellige standar
 
 Klikk på lenkene for å gå direkte til en farge.
 
-- [Pebblestonegrå](../../exterior/paint/#pebble-stone-gray)
-- [Geysirblå metallic](../../exterior/paint/#geyser-blue)
-- [Tyfongrå metallic](../../exterior/paint/#typhoon-grey)
-- [Florettsølv metallic](../../exterior/paint/#florett-silver)
-- [Navarrablå metallic](../../exterior/paint/#navarra-blue)
+- [Pebblestonegrå](../../exterior/paint/#pebblestonegrå)
+- [Geysirblå metallic](../../exterior/paint/#geysirblå-metallic)
+- [Tyfongrå metallic](../../exterior/paint/#tyfongrå-metallic)
+- [Florettsølv metallic](../../exterior/paint/#florettsølv-metallic)
+- [Navarrablå metallic](../../exterior/paint/#navarrablå-metallic)
 - [Mythossort metallic](../../exterior/paint/#mythossort-metallic)
-- [Aurorafiolett metallic](../../exterior/paint/#aurora-violett)
-- [Isbrehvit metallic](../../exterior/paint/#glacier-white)
+- [Aurorafiolett metallic](../../exterior/paint/#aurorafiolett-metallic)
+- [Isbrehvit metallic](../../exterior/paint/#isbrehvit-metallic)
 
 ## Lakkeringsutførelse
 
-Audi Q4 e-tron kan leveres med 3 forskjellige lakkeringsutførelser. 
+Audi Q4 e-tron kan leveres med 3 forskjellige lakkeringsutførelser.
 
 ### Basic lakkering
 
@@ -400,15 +400,29 @@ Color code **2Y**
 </figure>
 
 <figure>
-    <a href="paint_glacierwhite_15.jpg">
-        <img src="paint_glacierwhite_15s.jpg" alt="Isbrehvit Audi Q4 50 e-tron quattro S-line med svart optikk og hellakkering" title="Isbrehvit Audi Q4 50 e-tron quattro S-line med svart optikk og hellakkering">
+    <a href="paint_glacierwhite_19.jpg">
+        <img src="paint_glacierwhite_19s.jpg" alt="Isbrehvit Audi Q4 50 e-tron quattro S-line med svart optikk og hellakkering" title="Isbrehvit Audi Q4 50 e-tron quattro S-line med svart optikk og hellakkering">
     </a>
     <figcaption><h4>Isbrehvit Audi Q4 50 e-tron quattro S-line med svart optikk og hellakkering</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="paint_glacierwhite_16.jpg">
-        <img src="paint_glacierwhite_16s.jpg" alt="Isbrehvit Audi Q4 50 e-tron quattro S-line med svart optikk og hellakkering" title="Isbrehvit Audi Q4 50 e-tron quattro S-line med svart optikk og hellakkering">
+    <a href="paint_glacierwhite_18.jpg">
+        <img src="paint_glacierwhite_18s.jpg" alt="Isbrehvit Audi Q4 50 e-tron quattro S-line med svart optikk og hellakkering" title="Isbrehvit Audi Q4 50 e-tron quattro S-line med svart optikk og hellakkering">
+    </a>
+    <figcaption><h4>Isbrehvit Audi Q4 50 e-tron quattro S-line med svart optikk og hellakkering</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_glacierwhite_20.jpg">
+        <img src="paint_glacierwhite_20s.jpg" alt="Isbrehvit Audi Q4 50 e-tron quattro S-line med svart optikk og hellakkering" title="Isbrehvit Audi Q4 50 e-tron quattro S-line med svart optikk og hellakkering">
+    </a>
+    <figcaption><h4>Isbrehvit Audi Q4 50 e-tron quattro S-line med svart optikk og hellakkering</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_glacierwhite_21.jpg">
+        <img src="paint_glacierwhite_21s.jpg" alt="Isbrehvit Audi Q4 50 e-tron quattro S-line med svart optikk og hellakkering" title="Isbrehvit Audi Q4 50 e-tron quattro S-line med svart optikk og hellakkering">
     </a>
     <figcaption><h4>Isbrehvit Audi Q4 50 e-tron quattro S-line med svart optikk og hellakkering</h4></figcaption>
 </figure>
