@@ -143,7 +143,7 @@ Så hvordan virker rekkeviddeindikatoren?
 
 Rekkeviddeindikatoren baserer beregning av rekkevidde på følgende data.
 
-- Gjennomsnittlig forbruk på de siste turen
+- Gjennomsnittlig forbruk på de siste 100km kjørt
 - Hvor mye batteriet er ladet.
 - Planlagt rute i navigasjonssystemet.
 

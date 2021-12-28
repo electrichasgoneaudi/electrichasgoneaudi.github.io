@@ -1,7 +1,7 @@
 ---
 title: Frequenty Asked Questions (FAQ)
 linktitle: FAQ
-description: All car models have some issues and problems. On Github we have gathered most of the issues owners experience with the cars. 
+description: We have collected frequently asked questions about Audi e-tron and try to answer them for you.
 weight: 30
 ---
 

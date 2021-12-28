@@ -136,7 +136,7 @@ So how does the range indicator works?
 
 The range indicator  base its range on the following data
 
-- Average consumption on the latest trips
+- Average consumption on the last 100km driven
 - The state of charge (of much is the battery charged)
 - The planned route in the navigation system
 
