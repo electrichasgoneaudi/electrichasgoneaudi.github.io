@@ -95,7 +95,14 @@ In addition to the black element in black optics package the Audi logo rings is 
     <a href="blackopticsplus_1.jpg">
         <img src="blackopticsplus_1s.jpg" alt="Glacierwhite Audi Q4 e-tron with black optics plus" title="Glacierwhite Audi Q4 e-tron with black optics plus">
     </a>
-    <figcaption><h4>Glacierwhite Audi Q4 e-tron with black optics plus</h4></figcaption>
+    <figcaption><h4>Glacierwhite Audi Q4 e-tron with black optics plus with bronze rings front</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="blackopticsplus_3.jpg">
+        <img src="blackopticsplus_3s.jpg" alt="Glacierwhite Audi Q4 e-tron with black optics plus" title="Glacierwhite Audi Q4 e-tron with black optics plus">
+    </a>
+    <figcaption><h4>Glacierwhite Audi Q4 e-tron with black optics plus with bronze rings front</h4></figcaption>
 </figure>
 
 
@@ -103,7 +110,7 @@ In addition to the black element in black optics package the Audi logo rings is 
     <a href="blackopticsplus_2.jpg">
         <img src="blackopticsplus_2s.jpg" alt="Glacierwhite Audi Q4 e-tron with black optics plus" title="Glacierwhite Audi Q4 e-tron with black optics plus">
     </a>
-    <figcaption><h4>Glacierwhite Audi Q4 e-tron with black optics plus</h4></figcaption>
+    <figcaption><h4>Glacierwhite Audi Q4 e-tron with black optics plus with black rings rear</h4></figcaption>
 </figure>
 
 You can order black rings later. Part no: 89A 071 801

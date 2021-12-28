@@ -16,4 +16,4 @@ weight: 30
 ## Consumption & Range
 
 - What is the most efficient recupperation mode
-- Why is my car showing lower range than advertised?
+- Why is my car showing lower range than advertised at 100%?
