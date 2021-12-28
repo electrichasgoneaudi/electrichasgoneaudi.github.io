@@ -17,7 +17,7 @@ Standardsetene er manuelle.
 
 Som et alternativ til standardseter kan du legge til 4-veis elektrisk korsryggstøtte som kan justeres slik du liker det. Alternativ-ID **7P1**
 
-Lumbard-støtte er standard på alle seter unntatt standardseter. (Obligatorisk alternativ)
+Korsryggstøtte er standard på alle seter unntatt standardseter. (Obligatorisk tilvalg på andre setetyper)
 
 ![Lumbard-støtte](seats_control_manualwithlumbard.jpg "Manuell sete med elektrisk korsryggjustering")
 

@@ -7,7 +7,7 @@ weight: 30
 
 ## Charging
 
-- Why is my charging speed much slower than expected?
+- [Why is my Audi e-tron charging speed much slower than expected](whyhpcchargingslow)
 
 ## myAudi App
 
