@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron knowledge exchange
 linktitle: Knowledge exchange
-description: Sharing knowledge between owners and others with knowledge about the all-electric models from Audi is an important goal with electrichasgoneaudi.net.
+description: Promoting sharing of knowledge between owners and others with knowledge about the all-electric models from Audi is an important goal with electrichasgoneaudi.net.
 weight: 30
 ---
 

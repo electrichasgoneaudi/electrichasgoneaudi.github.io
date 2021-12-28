@@ -1,20 +1,28 @@
 ---
 title: Audi e-tron kunnskapsdatabase
 linktitle: Kunnskapsdatabase
-description: Det er ofte mange spørsmål som går igjen på biler. Her har vi samlet vanlige spørsmål og svar samt en oversikt over feil brukere har opplevd.
+description: Å fremme kunnskapsdeling mellom eiere og andre med kunnskap om de helelektriske modellene fra Audi er et viktig mål med electrichasgoneaudi.net.
 weight: 30
 ---
 
-Dette kan være alt fra brukerfeil til utstyrsfeil på bilen. Målet med databasen er å hjelpe deg til å løse problemet ditt raskest mulig.
+I denne delen finner du følgende
 
-Du finner databasen [her](https://github.com/electrichasgoneaudi/etron-issues/issues). Hvis du opplever en feil som ikke er oppført, legg den til.
+## Ofte stilte spørsmål
 
-Hvis du ser etter et problem for en bestemt kategori, se [etikettside](https://github.com/electrichasgoneaudi/etron-issues/labels).
+Mange eiere og potensielle eiere har spørsmål som andre allerede har spurt om. Vi har forsøkt å samle de vanligste og besvare dem.
 
-Noen vanlige etiketter er
+[Gå til FAQ](faq)
 
-* [Batteri](https://github.com/electrichasgoneaudi/etron-issues/issues?q=is%3Aissue+is%3Aopen+label%3Abattery)
-* [Elektrisk motor](https://github.com/electrichasgoneaudi/etron-issues/labels/electric%20motor)
-* [Virtuelle speil](https://github.com/electrichasgoneaudi/etron-issues/labels/virtual%20mirrors)
+## Problemdatabase
 
-Databasen finnes kun på engelsk
+Alle modeller uansett merke vil ha noen problemer. Vi har laget en problemdatabase for Audi e-tron basert på erfaring fra eiere.
+
+[Gå til problemdatabase](problemdatabase)
+
+## Forum og grupper
+
+Internettfora og grupper er viktige kilder til informasjon blant eiere og potensielle eiere. Dette har revolusjonert hvordan forbrukere blir informert om produkter.
+
+Vi har samlet en liste over de mest relevante forumene og gruppene for Audi e-tron-modellen og dens varianter.
+
+[Gå til forum og grupper](groupsandforum)
