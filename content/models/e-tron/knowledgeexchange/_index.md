@@ -1,19 +1,28 @@
 ---
 title: Audi e-tron knowledge exchange
 linktitle: Knowledge exchange
-description: All car models have some issues and problems. On Github we have gathered most of the issues owners experience with the cars. 
+description: Sharing knowledge between owners and others with knowledge about the all-electric models from Audi is an important goal with electrichasgoneaudi.net.
 weight: 30
 ---
 
+In this section, you find the following
 
-This can be anything from user errors to equipment malfunction on the car.
+## Frequently asked questions
 
-You find the database [here](https://github.com/electrichasgoneaudi/etron-issues/issues). If you experience an error that is not listed, add it.
+Many owners and potential owners have questions that others already have been asking about. We have tried gathering the most common and answering them.
 
-If you are looking for a issue for a specific category see [label page](https://github.com/electrichasgoneaudi/etron-issues/labels).
+[Go to FAQ](faq)
 
-Some common labels are
+## Problem database
 
-* [Battery](https://github.com/electrichasgoneaudi/etron-issues/issues?q=is%3Aissue+is%3Aopen+label%3Abattery)
-* [Electric motor](https://github.com/electrichasgoneaudi/etron-issues/labels/electric%20motor)
-* [Virtual mirros](https://github.com/electrichasgoneaudi/etron-issues/labels/virtual%20mirrors)
+All models of any brand will have some problems. We have created a problem database for Audi e-tron based on experience from owners.
+
+[Go to problem database](problemsdatabase)
+
+## Forum and groups
+
+Internet forums and groups are important sources of information amongst owners and potential owners. This has revolutionized  how consumers are informed about products.
+
+We have gathered a list of the most relevant forum and groups for the Audi e-tron model and its variants.
+
+[Go to forum and groups](groupsforum)
