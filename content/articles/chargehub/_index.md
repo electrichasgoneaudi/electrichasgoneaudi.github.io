@@ -1,5 +1,5 @@
 ---
-title: World first - start of the Audi charging hub as an urban quick-charing concept
+title: World first - start of the Audi charging hub as an urban quick-charging concept
 linktitle: Audi charging hub
 description: With the continuously growing number of electric models, the demands made on charging infrastructure is increasing. Today at the exhibition center in Nuremberg, the first Audi charging hub is going into operation as the only charging concept of its kind in the world.
 weight: 99999
