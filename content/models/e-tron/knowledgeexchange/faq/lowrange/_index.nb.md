@@ -18,12 +18,12 @@ Tabellen nedenfor viser rekkevidden målt etter WLTP standarden. Legg merke til 
 
 | Variant | WLTP-rekkevidde | Forbruk km | Forbruk miles |
 |-------|--------|--------|------|
-| Audi e-tron 50 min trim | 341 km/212 miles | 18,97/100 km | 3,28 miles/kWh |
-| Audi e-tron 55 min trim | 441 km/274 miles | 19,61/100 km | 3,17 miles/kWh |
-| Audi e-tron S min trim | 374 km/232 miles | 23,13/100km | 2,69 miles/kWh |
-| Audi e-tron 50 max trim | 282km/175 miles | 22,94/100 km | 2,71 miles/kWh |
-| Audi e-tron 55 max trim | 369 km/229 miles | 23,44/100km | 2,65 miles/kWh |
-| Audi e-tron S max trim | 343 km/213 miles | 25,22/100 km | 2,46 miles/kWh |
+| Audi e-tron 50 min utstyrsnivå | 341 km/212 miles | 18,97/100 km | 3,28 miles/kWh |
+| Audi e-tron 55 min utstyrsnivå | 441 km/274 miles | 19,61/100 km | 3,17 miles/kWh |
+| Audi e-tron S min utstyrsnivå | 374 km/232 miles | 23,13/100km | 2,69 miles/kWh |
+| Audi e-tron 50 max utstyrsnivå | 282km/175 miles | 22,94/100 km | 2,71 miles/kWh |
+| Audi e-tron 55 max utstyrsnivå | 369 km/229 miles | 23,44/100km | 2,65 miles/kWh |
+| Audi e-tron S max utstyrsnivå | 343 km/213 miles | 25,22/100 km | 2,46 miles/kWh |
 
 ### EPA-rekkevidde
 
@@ -31,8 +31,8 @@ Tabellen nedenfor viser rekkevidden basert på EPA standarden. Legg merke til at
 
 | Variant | WLTP-område | Forbruk km | Forbruk miles |
 |-------|--------|--------|------|
-| Audi e-tron 55 max trim | 357 km/222 miles | 24,23/100 km | 2,57 miles/kWh |
-| Audi e-tron S max trim | 291 km/181 miles | 25,22/100 km | 2,09 miles/kWh |
+| Audi e-tron 55 max utstyrsnivå | 357 km/222 miles | 24,23/100 km | 2,57 miles/kWh |
+| Audi e-tron S max utstyrsnivå | 291 km/181 miles | 25,22/100 km | 2,09 miles/kWh |
 
 I reklame brukes ofte minimum utstyrsnivå når de rapporterer rekkevidden enten i WLTP- eller EPA-nummer.
 
@@ -79,7 +79,7 @@ Hvis gjennomsnittsforbruket på siste turer ikke stemmer overens med estimert re
 
 Vi har sett eksempler på feil som forårsaker lav rekkevidde.
 
-Det første du bør prøve er å beregne batterikapasiteten slik at du er sikker på at det er et problem. Dette vil også gjøre det lettere for deg å dokumentere dette for din forhandler.
+Det første du bør prøve er å beregne batterikapasiteten slik at du er sikker på at det er et problem. Dette vil også gjøre det lettere for deg å dokumentere dette ovenfor din forhandler.
 
 Les denne veiledningen for å [beregne og verifisere din Audi e-tron batteristatus](../../../../../guides/checkingbatteryhealth/)
 
