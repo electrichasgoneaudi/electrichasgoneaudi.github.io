@@ -6,11 +6,13 @@ weight: 30
 hidden: true
 ---
 
-First. What is the expected charging rate? Under optimal conditions, the charge curve will look something like this.
+First. What is the expected charging rate? Under optimal conditions, the charge curve will look like this.
 
-![Charging curve](../../../drivetrain/battery/chargespeed55.png "Charging curve e-tron 55 optimal conditions")
+![Charging curve](chargecurve.jpg "Charging curve e-tron 55 optimal conditions")
 
-That means that you often see 150kWh up to 80% and 100kWh to 85% and still above 50kWh at 100%. This is leading.
+That means that you often see 150kW up to 80% and 100kW to 85% and still above 50kW at 100%. This makes the Audi e-tron one of the fastest charging cars on the market.
+
+![Audi e-tron 55 charging at Ionity](charginghpc.jpg "Audi e-tron 55 charging at Ionity HPC")
 
 But people may see that their charging speed is much slower than this.
 
@@ -18,7 +20,7 @@ But people may see that their charging speed is much slower than this.
 
 ### Reason 1. Cold battery
 
-The most common reason for reduced charging speed is that the battery is cold. The optimal battery temperature  for charging is between 15°C and 30°C (59°F and 86°F).
+The most common reason for reduced charging speed is that the battery is cold. The ideal battery temperature is about 25 to 30 degrees Celsius (77 to 86 degrees Fahrenheit) for maximum charging performance.
 
 When the battery temperature is cold, the chemistry in the battery is not able to receive the same amount of energy, and the charging speed is reduced.
 

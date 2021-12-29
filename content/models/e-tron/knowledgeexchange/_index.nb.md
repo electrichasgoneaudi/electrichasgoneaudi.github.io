@@ -17,7 +17,7 @@ Mange eiere og potensielle eiere har spørsmål som andre allerede har spurt om.
 
 Alle modeller uansett merke vil ha noen problemer. Vi har laget en problemdatabase for Audi e-tron basert på erfaring fra eiere.
 
-[Gå til problemdatabase](problemdatabase)
+[Gå til problemdatabase](problemsdatabase)
 
 ## Forum og grupper
 
@@ -25,4 +25,4 @@ Internettfora og grupper er viktige kilder til informasjon blant eiere og potens
 
 Vi har samlet en liste over de mest relevante forumene og gruppene for Audi e-tron-modellen og dens varianter.
 
-[Gå til forum og grupper](groupsandforum)
+[Gå til forum og grupper](groupsforum)
