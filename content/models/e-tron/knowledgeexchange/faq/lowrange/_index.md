@@ -26,7 +26,7 @@ These numbers are typically different because the drive cycle in these two tests
 
 ### EPA Range
 
-| Variant | WLTP Range | Consumption km | Consumption miles |
+| Variant | EPA Range | Consumption km | Consumption miles |
 |-------|-----------|-----------|------|
 | Audi e-tron 55 max trim |  357km/222 miles | 24.23/100km | 2.57miles/kWh |
 | Audi e-tron S max trim |  291km/181 miles | 25.22/100km | 2.09miles/kWh |
