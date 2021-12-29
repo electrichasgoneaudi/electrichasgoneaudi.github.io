@@ -15,6 +15,8 @@ These numbers are typically different because the drive cycle in these two tests
 
 ### WLTP Range
 
+The table below shows the range measured according to the WLTP standard. Notice how big the difference is between a minimum equipped Audi e-tron and a maximum equipped Audi e-tron.
+
 | Variant | WLTP Range | Consumption km | Consumption miles |
 |-------|-----------|-----------|------|
 | Audi e-tron 50 min trim |  341km/212 miles | 18.97/100km | 3.28miles/kWh |
