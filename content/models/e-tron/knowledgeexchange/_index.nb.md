@@ -1,6 +1,6 @@
 ---
-title: Audi e-tron kunnskapsdatabase
-linktitle: Kunnskapsdatabase
+title: Audi e-tron kunnskapsdeling
+linktitle: Kunnskapsdeling
 description: Å fremme kunnskapsdeling mellom eiere og andre med kunnskap om de helelektriske modellene fra Audi er et viktig mål med electrichasgoneaudi.net.
 weight: 30
 ---

@@ -1,6 +1,6 @@
 ---
-title: Audi e-tron kunnskapsdatabase
-linktitle: Kunnskapsdatabase
+title: Audi e-tron problemdatabase
+linktitle: Problem database
 description: Det er ofte mange spørsmål som går igjen på biler. Her har vi samlet vanlige spørsmål og svar samt en oversikt over feil brukere har opplevd.
 weight: 30
 ---
