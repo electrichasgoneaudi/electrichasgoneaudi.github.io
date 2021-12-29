@@ -28,10 +28,8 @@ These numbers are typically different because the drive cycle in these two tests
 
 | Variant | WLTP Range | Consumption km | Consumption miles |
 |-------|-----------|-----------|------|
-| Audi e-tron 55 min trim |  441km/274 miles | 19.61/100km | 3.17miles/kWh |
-| Audi e-tron S min trim |  374km/232 miles | 23.13/100km | 2.69miles/kWh |
-| Audi e-tron 55 max trim |  369km/229 miles | 23.44/100km | 2.65miles/kWh |
-| Audi e-tron S max trim |  343km/213 miles | 25.22/100km | 2.46miles/kWh |
+| Audi e-tron 55 max trim |  357km/222 miles | 24.23/100km | 2.57miles/kWh |
+| Audi e-tron S max trim |  291km/181 miles | 25.22/100km | 2.09miles/kWh |
 
 In advertising the minimum trim level is often used when they report the range either in WLTP or EPA numbers.
 
@@ -76,15 +74,18 @@ If a route is defined in the car navigation system the car would adjust range ba
 
 If your average consumption on our last trip does not match up with the estimated range it might be a problem with your Audi e-tron.
 
-We have seen examples on defects that causes low range.
+We have seen examples of defects that cause low range.
 
 The first you should try is to calculate the battery capacity so you are sure there is a problem. This would also make it easier for you to document this for your dealer.
 
 Read this guide to [calculate and verify your Audi e-tron battery status](../../../../../guides/checkingbatteryhealth/)
 
-If your conclusion is that the battery capacity is much lower of the specified capacity it might be one of the following problems. Click on the links for problem database with additional info.
+If your conclusion is that the battery capacity is much lower of the specified capacity it might be one of the following problems. Click on the links for the problem database with additional info.
 
 - [Defect battery module](https://github.com/electrichasgoneaudi/etron-issues/issues/9)
 - [Defect BMS module](https://github.com/electrichasgoneaudi/etron-issues/issues/58)
 
-## Learn more about range
+## Learn more about the range
+
+Read our complete range guide **[Understanding range](../../../../../guides/understandingrange/)**.
+See full specification on all variants of [Audi e-tron](../../../specifications). 
