@@ -46,7 +46,3 @@ On Audi Q4 e-tron you can set the car in B-mode with help of the shifter. In B-m
 ![bilde](regenlevelq4.jpg "The green bar to the right of the big D shows the regen level on Q4 when driving i B mode")
 
 Driving in D-mode and using the brake pedals that automaticly gives regen gives the best effiency. Coast whenever you can.
-
-## More information
-
-[In depth article on InsideEevs](https://insideevs.com/news/341641/the-nitty-gritty-details-on-audis-two-pedal-ev-braking-system/)
