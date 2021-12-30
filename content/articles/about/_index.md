@@ -21,7 +21,7 @@ Examples of detailed information you find on this site are
 - FAQ for every model
 - High res pictures of real cars showing the different paints, wheels, and other exterior and interior options
 - Collection of online reviews for each model
-- Issue database for the different models about common and uncommon issues reported by owners in social media and forums
+- Problem databases for the different models about common and uncommon problems & issues reported by owners in social media and forums
 - Options guide trying to help select the correct options for you.
 - Guides on how to preserve the battery, drive efficient++
 - In-depth technology articles about general EV-technology and specific Audi EV-technology
