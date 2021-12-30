@@ -7,6 +7,8 @@ weight: 2
 
 ![Platforms](platforms.jpg "Audi BEV Platforms")
 
-Below you find details about the platforms. You can also [see a video](https://www.youtube.com/watch?v=3zlxM--m05M).
+Below you find details about the platforms. You can also see the video below
+
+{{< youtube 3zlxM--m05M >}}
 
 {{% children description="true" depth="1" %}}

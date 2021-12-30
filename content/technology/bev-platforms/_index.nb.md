@@ -1,12 +1,16 @@
 ---
-title: Audi BEV Platforms
-linktitle: BEV Platforms
-description: Audi has 4 different BEV Platforms they currently use to build their all-electric models.
+title: Audi elbilplattformern
+linktitle: Elbilplattformer
+description: Audi har 4 forskjellige elbilplattformer som de benytter på sine modeller.
 weight: 2
 ---
 
 ![Platforms](platforms.jpg "Audi BEV Platforms")
 
-Below you find details about the platforms. You can also [see a video](https://www.youtube.com/watch?v=3zlxM--m05M).
+Nedenfor finner du detaljer om de forskjellige plattformene.
+
+Du kan også videoen under.
+
+{{< youtube 3zlxM--m05M >}}
 
 {{% children description="true" depth="1" %}}
