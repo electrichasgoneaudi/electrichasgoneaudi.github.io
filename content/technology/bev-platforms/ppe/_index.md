@@ -36,6 +36,8 @@ high charging capacity of 350 kW.
 Battery sizes are unknown at current time, but A6 e-tron concept have 100kWh net and a range of 700 km WLTP.
 This will indicate a consumption on 14.2 kWh/100km that indicate a very efficient drivetrain.
 
+For the [Audi grandshpere concept](../../../articles/audigrandsphereconcept/) Audi uses PPE platform with 120kWh battery.
+
 ![Drivetrain](drivetrain.jpg "PPE-drivetrain")
 
 The dimensions and overhangs of the low-floor Audi models on the PPE platform will be
