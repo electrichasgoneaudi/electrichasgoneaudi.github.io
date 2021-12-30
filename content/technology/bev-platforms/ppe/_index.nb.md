@@ -1,0 +1,70 @@
+---
+title: PPE (Premium Platform Electric)
+linktitle: PPE
+description: For sine fullstørrelsesklasse- og luksusmodeller er Audi avhengig av en fjerde plattform.
+weight: 4
+---
+
+Premium Platform Electric (PPE) er designet og utviklet i samarbeid med Porsche fra
+start. Porsche vil bruke den til sin kommende Porsche Macan, mens Audi vil bruke den til [Audi Q6 e-tron](../../../models/q6-e-tron/)
+og [A6 e-tron](../../../models/a6-e-tron/) og andre.
+
+Med sin spesielle arkitektur gir den forholdene som trengs for ultramoderne
+teknologi som tilfredsstiller de krevende kundeønsker i full størrelse og luksusklassen
+segmenter.
+
+![A6 e-tron](../../../models/a6-e-tron/a6-etron-1.jpg "A6 e-tron")
+
+PPE vil ta på seg rollen i verden av elektriske kjøretøy som modulær langsgående
+plattformen holder i kjøretøy drevet av forbrenningsmotorer. Det er preget av en høyteknologisk
+og svært skalerbar arkitektur som gjør at kjøretøyer i både lavt og høyt gulv kan realiseres.
+
+Audi utvikler ulike modellserier på basis av PPE som skal dekke segmentene fra
+den øvre mellomklasseklassen til luksusklassen som SUV-er, Sportbacks, Avants og Crossovers med ulike kjøretøytyper. Ved å gjøre dette utvider merket også sin nåværende modellportefølje i fullstørrelsesklassen og luksussegmentene ved å legge til en rekke elektriske varianter.
+
+![Porsche Macan](macan.jpg "Porsche Macan prototype basert på PPE")
+
+Teknologipakken på PPE er generelt lik den til MEB; i tillegg tilbyr den
+stort potensial når det gjelder produksjon og ytelse. Som standard er kjøretøyene utstyrt med
+en elektrisk motor bak; toppmodellene er utstyrt med en ekstra elektrisk
+motor på forakselen (PSM eller ASM) som lar dem aktivere firehjulsdrift
+automatisk ved behov. If vil selvsagt også være mulig å realisere annerledes ytelse
+nivåer og batterikapasitet på PPE-plattformen. Som i Audi e-tron GT, staten
+ladningen er 800 volt; i kombinasjon med høyeffektiv termisk styring, muliggjør det en
+høy ladekapasitet på 350 kW.
+
+Batteristørrelser er ukjente for øyeblikket, men A6 e-tron-konseptet har 100 kWh netto og en rekkevidde på 700 km WLTP.
+Dette vil indikere et forbruk på 14,2 kWh/100 km som indikerer en meget effektiv drivlinje.
+
+![Drivetrain](drivetrain.jpg "PPE-drivetrain")
+
+Dimensjonene og overhengene til Audi-modellene med lavt gulv på PPE-plattformen vil være
+litt kortere enn de nåværende forbrenningsmotormodellene på MLB-basis, men vil
+gir større innvendig lengde. Som er typisk for elektriske modeller, er det ingen girkasse eller
+sentertunneler. Som tradisjonelle premiumbiler kan PPE-modellene utstyres med
+en rekke avanserte teknologier: I drivområdet skjer dreiemomentkontroll via dreiemoment
+vectoring, mens de typiske Audi-trekkene til luftfjæring eller firehjulsstyring er inkludert
+opphengsområdet.
+
+{{< youtube U72YuVF_mdI >}}
+
+## Modeller forventes å være på PPE-plattform
+
+- [Audi Q6 e-tron](../../../models/q6-etron) bekreftet
+- [Audi SQ6 e-tron](../../../models/q6-etron) Ubekreftet
+- [Audi A6 e-tron](../../../models/a6-etron) bekreftet
+- [Audi S6 e-tron](../../../models/a6-etron) Ubekreftet
+- [Audi RS6 e-tron](../../../models/a6-etron) Ubekreftet
+- [Audi Q8 e-tron](../../../models/q8-etron) Ubekreftet
+- [Audi A4 e-tron](../../../models/a4-etron) Ubekreftet
+- [Audi A8 e-tron](../../../models/a8-etron) Ubekreftet
+
+## PPE vs MLB evo
+
+I 2020 hadde Audi en presentasjon der de diskuterte noen av forbedringene av den nye plattformen i forhold til MLB evo-plattformen.
+
+![Plattformer](ppepresentation1.png "PPE-oversikt")
+
+![Plattformer](ppepresentation2.png "PPE vs MLB evo")
+
+{{% children description="true" depth="1" %}}

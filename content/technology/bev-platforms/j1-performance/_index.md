@@ -5,9 +5,9 @@ description: The J1 Performance platform is developed together with Porsche and 
 weight: 2
 ---
 
-![Audi e-tron GT](/models/e-tron-gt/exterior/paint/paint_tangored_2.jpg "Audi e-tron GT")
+![Audi e-tron GT](../../../models/e-tron-gt/exterior/paint/paint_tangored_2.jpg "Audi e-tron GT")
 
-[Audi e-tron GT](/models/e-tron-gt) had world premiere in april 2021 and comes in two version based on the J1 performance platform.
+[Audi e-tron GT](../../../models/e-tron-gt) had world premiere in april 2021 and comes in two version based on the J1 performance platform.
 The Audi e-tron GT is equipped with two permanently excited synchronous machines (PSM) that output a system performance of 530 metric hp (390 kW) and 640 Nm
 (472 lb-ft) of torque.  While Audi RS e-tron GT output a system performance of 645 metric hp (475 kW) and 830 Nm (612.2 lb-ft) of torque.
 
@@ -20,7 +20,7 @@ If necessary, the Audi e-tron GT can be charged in a short space of time. The hi
 
 In accordance with the WLTP standard, the Audi e-tron GT achieves a range of 472 kilometers (293.5 mi) on one battery charge.
 
-![Battery](/models/e-tron-gt/drivetrain/battery/battery2.jpg "Audi e-tron GT battery with footwell")
+![Battery](../../../models/e-tron-gt/drivetrain/battery/battery2.jpg "Audi e-tron GT battery with footwell")
 
 The battery, which has an energy content of more than 90 kWh, is located in the underbody, between the axles. The battery package is designed with recesses in the rear footwell. This provides a high level of seating comfort for all occupants. This special layout allows the drive battery to be integrated in the vehicle floor despite the low body position that is typical for sports cars, thereby creating a very low vehicle center of gravity. At the same time, this creates comfortable seating ergonomics.
 
