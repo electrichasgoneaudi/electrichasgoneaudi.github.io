@@ -125,7 +125,7 @@ The headlight units on the upper side of the Singleframe look narrow, like focus
 
 ## Drive system and charging
 
-The technology platform of the Audi grandsphere – what is known as the Premium Platform Electric, or PPE – was conceived exclusively for battery-powered electric drive systems and therefore it takes full advantage of that technology. The key element of PPE is a battery module between the axles that holds around 120 kWh of energy in the grandsphere concept. A flat battery layout is possible because Audi uses the entire vehicle base between the axes.
+The technology platform of the Audi grandsphere – what is known as the [Premium Platform Electric](../../technology/bev-platforms/ppe), or [PPE](../../technology/bev-platforms/ppe) – was conceived exclusively for battery-powered electric drive systems and therefore it takes full advantage of that technology. The key element of [PPE](../../technology/bev-platforms/ppe) is a battery module between the axles that holds around 120 kWh of energy in the grandsphere concept. A flat battery layout is possible because Audi uses the entire vehicle base between the axes.
 
 Together with the large wheels, this produces basic proportions that are perfect not only from a design perspective. The core benefits include a long interior and therefore legroom in both rows of seats. Additionally, the absence of a gearbox cover and a cardan tunnel increases spatial comfort in electric cars.
 
