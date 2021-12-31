@@ -1,6 +1,6 @@
 ---
-title: Audi grandshpere concept - Første klasse mot fremtiden
-linktitle: Audi grandshpere concept
+title: Audi grandsphere concept - Første klasse mot fremtiden
+linktitle: Audi grandsphere concept
 description: Privatjet for veien – På IAA 2021 presenterer Audi konseptstudien Audi grandsphere. Som en førsteklasses flytur kombinerer den 5,35 m lange grandsphere-sedanen luksusen av privat reise med den største komforten med et omfattende tilbud om bordopplevelse.
 weight: 100005
 ---

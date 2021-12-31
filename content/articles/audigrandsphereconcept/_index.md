@@ -1,6 +1,6 @@
 ---
-title: Audi grandshpere concept - First class toward the future
-linktitle: Audi grandshpere concept
+title: Audi grandsphere concept - First class toward the future
+linktitle: Audi grandsphere concept
 description: The private jet for the road – At the IAA 2021, Audi is presenting the Audi grandsphere concept study. Like a first class flight, the 5.35 m (17.6 ft.) long grandsphere sedan combines the luxury of private travel in the greatest of comfort with a comprehensive onboard experience offering.
 weight: 100005
 ---

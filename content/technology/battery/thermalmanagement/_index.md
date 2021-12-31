@@ -1,31 +1,30 @@
 ---
-title: Thermal management
-linktitle: Thermal managment
-description: Thermal managment is important for battery performance and health
+title: Thermal management 
+linktitle: Thermal management 
+description: Thermal management is important for battery performance and health
 weight: 6
 ---
 
-The optimal temprature for a battery is around 20-30 degrees celcius for operating. For storage the optimal temprature
-is even lower.
+The optimal temperature for a battery is around 20-30 degrees Celcius for operating. For storage, the optimal temperature is even lower.
 
-A battery pack have thermal management system to try keep the battery in the best operating condition.
+A battery pack has a thermal management system to try to keep the battery in the best operating condition.
 
-This include cooling when in use to not overheat.
+This includes cooling when in use to not overheat.
 
 ![Battery cooling](batterycooling_1.jpg "Battery cooling")
 
-On some cars it can also heat up the battery before charging to improve charging performance. 
-This is called Active Precondition. On cold days this is necessary to get the full charging speed. Without it charging will take longer time to get to full capacity.
+On some cars, it can also heat the battery before charging to improve charging performance.
 
-Audi e-tron GT and Audi Q4 has this capability.
+This is called Active Precondition. On cold days this is necessary to get the full charging speed. Without it, charging will take a longer time to get to full capacity.
 
-In the picture below you see both cooling circuits and axuilerary heater that can heat up the battery when cold.
+[Audi e-tron GT](../../../models/e-tron-gt/) and [Audi RS e-tron GT](../../../models/e-tron-gt/) have this capability.
 
-![Thermal managment](thermal_management.jpg "Audi Q4 50 thermal management")
+In the picture below you see both cooling circuits and an auxiliary heater that can heat the battery when cold.
 
-In this clip you see details about the thermal management system on [Audi e-tron GT](/models/e-tron-gt).
+![Thermal managment](thermal_management.jpg "Audi e-tron GT thermal management")
+
+In this clip, you see details about the thermal management system on [Audi e-tron GT](/models/e-tron-gt).
 
 {{< youtube zdCiTtRR4TE >}}
-
 
 {{% children description="true" depth="1" %}}
