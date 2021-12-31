@@ -5,6 +5,6 @@ description: Audi connect represents the digital connection between driver, vehi
 weight: 3
 ---
 
-The digital functions and capabilties are described in the below sections.
+The digital functions and capabilities are described in the below sections.
 
 {{% children description="true" depth="1" %}}

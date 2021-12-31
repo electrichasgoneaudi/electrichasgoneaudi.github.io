@@ -1,7 +1,7 @@
 ---
 title: Navigation & Infotainment
 linktitle: Navigation & Infotainment
-description: In the Infotainment & Navigation package, Audi connect bundles functions that take entertainment, information and comfort to a new level.
+description: In the Infotainment & Navigation package, Audi connect bundles functions that take entertainment, information, and comfort to a new level.
 weight: 1
 ---
 
@@ -9,13 +9,13 @@ Below you see description of the different parts.
 
 ## MyRoute
 
-In the connect category myRoute, you will find all the information for your trip such as navigation, traffic warnings, and parking places at the destination. Thanks to regular online map updates, you are always up-to-date. An overview of all myRoute services can be found below.
+In the connect category myRoute, you will find all the information for your trips such as navigation, traffic warnings, and parking places at the destination. Thanks to regular online map updates, you are always up-to-date. An overview of all myRoute services can be found below.
 
 ### Google Earth Navigation
 
 Navigation with Google Earth C makes it easier to navigate thanks to high-resolution aerial photos and satellite imagery.
 
-![Google Earth](googlemap1.jpg "Google earth satelite photos")
+![Google Earth](googlemap1.jpg "Google earth satellite photos")
 
 ![Google satelitte map](satelitmap1.jpg "Audi connect gives Google Satelite maps on selected models")
 
@@ -35,7 +35,7 @@ There is a lot to see: With travel information from Audi connect, you learn more
 
 ### Information about parking spaces
 
-Now there is zero stress to park in foreign cities. The function allows you to search for available parking spaces nearby or at the destination and enters them in the navigation system. The system shows parking spaces and detailed additional information, e.g. prices and how many vacancies there are at the moment. In selected cities, you can also see what the chances are of finding one free space in selected streets.
+Now there is zero stress to park in foreign cities. The function allows you to search for available parking spaces nearby or at the destination and enter them into the navigation system. The system shows parking spaces and detailed additional information, e.g. prices and how many vacancies there are at the moment. In selected cities, you can also see what the chances are of finding one free space in selected streets.
 
 ![Parking](parking1.jpg "Parking information")
 
@@ -43,7 +43,7 @@ Now there is zero stress to park in foreign cities. The function allows you to s
 
 The route can be planned in peace and quiet via the myAudi app or directly from the car. In any case, the route along the necessary charging stations is calculated so that the goal is reached. During planning takes the function takes into account the battery charge level and the traffic situation, and shows the arrival time and estimated charging time. To keep the charging time as short as possible, charging is added to fast-charging stations as much as possible. At start-up, the route is transferred seamlessly and easily from the myAudi app to the navigation system, which takes over the guidance.
 
-Furthermore, all targets in the car and on the smartphone are synchronized, no matter where they were originally stored. This way, you can easily and comfortably plan routes and journeys with your smartphone, and then retrieve them as navigation destinations in the car. If there are delays or traffic disruptions on one of your regular routes, messages appear in the navigation system and on the smartphone. If the original charging station can not be reached, a new route is calculated. During an active charge along the route, the remaining charging time and the current state of charge of the battery are displayed.
+Furthermore, all targets in the car and on the smartphone are synchronized, no matter where they were originally stored. This way, you can easily and comfortably plan routes and journeys with your smartphone, and then retrieve them as navigation destinations in the car. If there are delays or traffic disruptions on one of your regular routes, messages appear in the navigation system and on the smartphone. If the original charging station can not be reached, a new route is calculated. During an active charge along the route, the remaining charging time and the current state of charge of the battery is displayed.
 
 ![Route planner](routeplanner1.jpg "RoutePlanner")
 
@@ -55,15 +55,15 @@ Furthermore, all targets in the car and on the smartphone are synchronized, no m
 
 ### Predictive routing
 
-The route is calculated on the basis of the current and expected traffic situation. The function calculates the best route to the destination, avoids queues and provides a reliable assessment of the expected arrival time.
+The route is calculated based onthe current and expected traffic situation. The function calculates the best route to the destination, avoids queues, and provides a reliable assessment of the expected arrival time.
 
 ### Expanded Special Object View (POI)
 
-Obtain special destinations (eg petrol stations and car parks) from third party suppliers directly from the navigation system. If needed, you can also view dynamic additional information such as customer reviews and opening hours, information about charging stations and available parking spaces.
+Obtain special destinations (eg petrol stations and car parks) from third-party suppliers directly from the navigation system. If needed, you can also view dynamic additional information such as customer reviews and opening hours, information about charging stations, and available parking spaces.
 
 ### Information about charging stations
 
-Find a charging station near you or at the destination. This allows you to plan necessary stops efficiently, sorted by distance. In addition, you get information about availability, connection and payment methods, provided that this information is available at the charging station.
+Find a charging station near you or at the destination. This allows you to plan necessary stops efficiently, sorted by distance. In addition, you get information about availability, connection, and payment methods, provided that this information is available at the charging station.
 
 ![Charging](charging1.jpg "Charging stations along the route with information about time needed to charge")
 
@@ -135,6 +135,6 @@ The radio automatically and seamlessly switches between classic radio via the FM
 
 ### Track recognition
 
-Automatic detection of a variety of music tracks played on the radio. Display of additional information such as artist, album and cover. The content and scope of the additional information depends on what is made available by the individual service provider.
+Automatic detection of a variety of music tracks played on the radio. Display of additional information such as artist, album, and cover. The content and scope of the additional information is depending on what is made available by the individual service provider.
 
 {{% children description="true" depth="1" %}}
