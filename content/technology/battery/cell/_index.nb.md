@@ -1,0 +1,104 @@
+---
+title: Celle og kjemi
+linktitle: Celle og kjemi
+description: Battericellene er den viktigste delen av batterisystemet og den viktigste faktoren både for kostnad og ytelse på elbiler.
+weight: 2
+---
+## Celledeler
+
+### Anode
+
+Anodematerialet i de aller fleste litium-ion-batterier er grafittpulver.
+
+Grafittmaterialer er enten syntetisk produsert eller utvunnet fra bakken, og deretter behandlet før de bakes på en kobberfolie for å tjene som anoder.
+
+Grafittanoder oppfyller spenningskravene til de fleste vanlige Li-ion-katoder, er relativt rimelige, ekstremt lette, porøse og holdbare.
+
+### Katode
+
+Det er flere katodematerialer å velge mellom innenfor Li-ion-batteriet.
+
+Opprinnelig var den primære aktive komponenten i katoden kobolt. For å redusere avhengigheten av kobolt brukes forskjellige kjemier.
+
+#### Litiumnikkel mangan koboltoksider (NMC)
+
+[Lithium nikkel manganese cobalt oxides](https://en.wikipedia.org/wiki/Lithium_nickel_manganese_cobalt_oxides) er den vanligste kjemien på elbiler i dag.
+
+Metallforholdet varierer. Versjonen var NMC 111, deretter var NMC 622 den vanlige etterfulgt av NCM 711. Mange leverandører jobber med å gi celler med et 811 metallforhold.
+
+#### Litium-nikkel-kobolt-aluminiumoksider (NCA)
+
+[Lithium nikkel cobalt aluminium oxides](https://en.wikipedia.org/wiki/Lithium_nickel_cobalt_aluminum_oxides) (NCA) brukes av Panasonic.
+
+#### Litiumjernfosfatbatteri (LFP)
+
+[Lithium iron phosphate batteri](https://en.wikipedia.org/wiki/Lithium_iron_phosphate_battery)
+
+### Seperator
+
+En [separator](https://en.wikipedia.org/wiki/Separator_(electricity)) er en permeabel membran plassert mellom et batteris anode og katode.
+
+### Elektrolytt
+
+Flytende elektrolytter i litiumionbatterier består av litiumsalter i et organisk løsningsmiddel, slik som etylenkarbonat, dimetylkarbonat og dietylkarbonat.
+
+En flytende elektrolytt fungerer som en ledende bane for bevegelse av kationer som går fra de negative til de positive elektrodene under utladning og motsatt retning ved lading.
+
+Elektrolytter basert på faste materialer er områder som mange jobber med. Disse kalles [solid-state-batterier](https://en.wikipedia.org/wiki/Solid-state_battery). Foreløpig er det ingen konkrete planer for noen masseproduksjon EV med Solid-state batterier.
+
+### Nåværende samler
+
+ Strømkollektoren brukes til å gi ledning av elektroner fra innsiden av den elektrokjemiske reaksjonen til den ytre delen uten noen reaksjon innenfor operasjonsvinduet.
+
+ For tiden brukte samlere er for det meste laget av aluminium eller kobberfolier.
+
+## Cellehus
+
+Celler for elbiler kommer i 3 forskjellige hus
+
+### Sylinderhus
+
+En sylindrisk celle består av arklignende anoder, separatorer og katoder som er klemt sammen, rullet sammen og pakket inn i en sylinderformet boks. Dette er formfaktoren som har vært brukt i mange år på markedet.
+
+![Sylinder](cylinder4680.jpg "Tesla 4680 sylinderbatteri")
+
+En fordel er mekanisk stabilitet. Den runde formen på batteriet fordeler det indre trykket fra sidereaksjoner over celleomkretsen nesten jevnt. Dette gjør at cellen kan tolerere et høyere nivå av indre trykk uten deformasjon.
+
+Tesla er en av få elbilprodusenter som bruker dette.
+
+### Prismatisk hus
+
+Li-ion-celler med prismatisk hus består av store ark med anoder, katoder og separatorer som er klemt, rullet opp og presset for å passe inn i et hardplast- eller metallhus i kubisk form. Elektrodene kan også settes sammen ved lagstabling i stedet for gelérulling.
+
+![Samsung Prismatic](samsungprismatic.jpg "Samsung prismatiske celler")
+
+Deler av elektroden og skillearkene til en prismatisk celle som er nær beholderhjørnene kan oppleve mer stress. Dette kan skade elektrodebelegget og føre til ujevn fordeling av elektrolytten.
+
+Når du kombinerer prismatiske celler i pakker, muliggjør den cellebokslignende formen optimal utnyttelse av den tilgjengelige plassen. Imidlertid oppnås denne optimale plassen på bekostning av mer utfordrende termisk styring. Dette er fordi det ikke er mellomrom mellom cellene slik det er i en pakke med sylindriske celler.
+
+### Posehus
+
+Poseceller har ikke en stiv innkapsling som prismatiske celler og sylinderceller og bruker en forseglet fleksibel folie som cellebeholder.
+
+Dette gjør det til den mest effektive bruken av plass og oppnår en emballasjeeffektivitet på 90 til 95 prosent, den høyeste blant batteripakker, fordelene med fleksibel størrelse og sikkerhetsytelse. Eliminering av metallkapslingen reduserer vekten, men cellen trenger litt alternativ støtte i batterirommet.
+
+Svulmende posecellebatteri som et resultat av gassgenerering under lading og utlading
+
+Elektroden og separatorlagene til en posecelle er stablet i stedet for gelérullet. Med poseceller bør designeren tildele nok plass til cellehevelsen. En hevelse på så mye som 8 % til 10 % kan oppstå etter 500 sykluser.
+
+![LG Pouch Cell](lgchenx21.jpg "LG Chem Pouch Cell")
+
+## Audi-celler
+
+Tabellen nedenfor viser cellene som brukes på de forskjellige helelektriske Audi-modellene. Klikk på modellnavn
+for mer informasjon om cellene.
+
+| Model | Cell | Format | Capacity | Energy Density | Chemistry|
+|-----|------|-----|------|------|------|
+| [Audi e-tron 50](../../../models/e-tron/drivetrain/battery/#cell-technology) | Samsung SDI | Prismatic | 60AH | ? | NCM 622 |
+| [Audi e-tron 55](../../../models/e-tron/drivetrain/battery/#cell-technology) | Samsung SDI | Prismatic | 60AH | ? | NCM 622 |
+| [Audi e-tron 55](../../../models/e-tron/drivetrain/battery/#cell-technology) | LG Chem LGX N2.1 | Pouch | 60AH | 268 Wh/kg | NCM 622 |
+| [Audi Q4 e-tron](../../../models/q4-e-tron/drivetrain/battery/#battery-cells) | LG Chem LGX E78 | Pouch | 78AH | 265 Wh/kg | NCM 712 |
+| [Audi e-tron GT](../../../models/e-tron-gt/drivetrain/battery/#cell-technology) | LG Chem E66A | Pouch | 64.6AH | 263 Wh/kg | NCM 712 |
+
+{{% children description="true" depth="1" %}}

@@ -5,12 +5,11 @@ description: The battery system is the combination of many cells and other contr
 weight: 3
 ---
 
-Today this is most typical achived with the Cell2Module technology. Where cells are grouped in to modules that again are grouped in to a battery system.
+Today this is most typically achieved with the Cell2Module technology. Where cells are grouped into modules that again are grouped into a battery system.
 
-In the future we will see cars witn Cell2Pack technologies where cells are put directly in to packs and even Cell2Car technology where cell are put directly in to the
-car. More about that later
+In the future, we will see cars with Cell2Pack technologies where cells are put directly into packs and even Cell2Car technology where cells are put directly into the car. More about that later
 
-Typical a battery pack consist of modules that consist of serveral cells.
+Typical a battery pack consists of modules that consist of several cells.
 
 ## Modules
 
@@ -20,25 +19,24 @@ Modules are a combination of cells. The number of cells in a module varies.
 
 ### Architecture
 
-The cells inside a module can be connected different ways.
+The cells inside a module can be connected in different ways.
 
 - Serial connecting gives a higher voltage
-- Paralell connection gives a higher capacity.
+- Parallel connection gives a higher capacity.
 
 #### Example 1
 
-Below you see how modules on e-tron 55 are. There are 12 cells per module.
-They are grouped in 3 groups where 4 cells are connected in paralell. Then those groups are connected in serial giving it
-a 3 serial 4 paralell configuration (3s4p). With 60AH for each cell and a nominal voltage on 3.66 this module have a capacity on
-240AH and 11 volts.
+Below you see how modules on the Audi e-tron 55 are. There are 12 cells per module.
+They are grouped into 3 groups where 4 cells are connected in parallel. Then those groups are connected in serial giving it
+a 3 serial 4 parallel configuration (3s4p). With 60AH for each cell and a nominal voltage of 3.66 volts, this module has a capacity of 240AH and 11 volts.
 
 ![Battery](/models/e-tron/drivetrain/battery/95kwhconnection.drawio.svg "3s4p connection")
 
 #### Example 2
 
-Below you see how modules on e-tron 50 are. There are 12 cells per module.
-They are grouped in 4 groups where 2 cells are connected in paralell. Then those groups are connected in serial giving it
-a 4 serial 2 paralell configuration (3s4p). With 60AH for each cell and a nominal voltage on 3.66 this module have a capacity on
+Below you see how modules on the Audi e-tron 50 are. There are 12 cells per module.
+They are grouped into 4 groups where 2 cells are connected in parallel. Then those groups are connected in serial giving it
+a 4 serial 2 parallel configuration (3s4p). With 60AH for each cell and a nominal voltage of 3.66 volts, this module has a capacity of
 180AH and 14.666 volts.
 
 ![Battery](/models/e-tron/drivetrain/battery/71kwhconnection.drawio.svg "4s3p connection")
@@ -55,15 +53,15 @@ a 4 serial 2 paralell configuration (3s4p). With 60AH for each cell and a nomina
 ## Packs
 
 Battery packs consist of several modules placed in a construction that is created to protect them and
-give them optimal conditions. Below you see an battery pack from Audi e-tron GT.
+give them optimal conditions. Below you see a battery pack from Audi e-tron GT.
 
-![Batterypack](batterypack_e-tron-gt.jpg "Batterypack with 33 modules")
+![Batterypack](batterypack_e-tron-gt.jpg "Battery pack with 33 modules")
 
-Typical the pack is placed at bottom of car. 
+Typical the pack is placed at bottom of car.
 
 ### Audi Battery packs
 
-Today all Audi models uses Cell2Module technology
+Today all Audi models use Cell2Module technology
 
 #### Battery pack configuration
 
@@ -82,7 +80,7 @@ Today all Audi models uses Cell2Module technology
 
 #### Battery pack performance
 
-In the table below you see the pack performance. See how Q4 have higher density even the cell itself does not have a better density.
+In the table below you see the pack performance. See how Q4 has a higher density even the cell itself does not have a better density.
 
 |  | Gross capacity | Net capacity | Max DC Charging | Weight | kWh/kg |
 |-----|------|-----|-----|------|-----|
@@ -103,15 +101,15 @@ In the table below you see the pack performance. See how Q4 have higher density 
 
 ## What is next for Audi?
 
-The problem with todays approach with Cell2Modules is that the energy density on the battery system is much lower than on the cell level.
+The problem with today's approach with Cell2Modules is that the energy density on the battery system is much lower than on the cell level.
 This is because of all the structural elements in a battery that does not add any energy content to a battery pack.
 
-To reduce this problem Volkswagen is moving to a Cell2Pack technology where Audi with its Artemis project will launch the first car with in 
+To reduce this problem Volkswagen is moving to a Cell2Pack technology where Audi with its Artemis project will launch the first car in
 late 2024.
 
 The technology is based on putting the cells directly in to the pack increasing the energy density to the battery system. This reduces weight and increases capacity.
 
-On March 15. 2021 the Volkswagen group that Audi is part of presented their strategy as part of Power day.
+On March 15. 2021 the Volkswagen group that Audi is part of, presented their strategy as part of Power day.
 
 ![Cell to pack](cell2pack.jpg "Volkswagen Cell2Pack technology")
 
@@ -119,6 +117,6 @@ On March 15. 2021 the Volkswagen group that Audi is part of presented their stra
 
 See the complete presentation.
 
-{{< youtube vdnRfNwj1Fg >}}
+{{< youtube UQZ8KmCItF8 >}}
 
 {{% children description="true" depth="1" %}}

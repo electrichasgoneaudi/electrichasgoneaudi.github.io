@@ -1,7 +1,7 @@
 ---
 title: Cell & chemistry
 linktitle: Cell & Chemistry
-description: The battery cells are the most important part in the battery system and the most important factor both for cost and performance on EV's.
+description: The battery cells are the most important part of the battery system and the most important factor both for cost and performance on EV's.
 weight: 2
 ---
 
@@ -9,27 +9,27 @@ weight: 2
 
 ### Anode
 
-The anode material in vast majority of lithium-ion batteries are graphite powder.
+The anode material in the vast majority of lithium-ion batteries is graphite powder.
 
 Graphite materials are either synthetically-produced or mined from the ground, and then processed before being baked onto a copper foil to serve as anodes.
 
-Graphite anodes meet the voltage requirements of most common Li-ion cathodes, are relatively affordable, extremely light, porous and durable.
+Graphite anodes meet the voltage requirements of most common Li-ion cathodes, are relatively affordable, extremely light, porous, and durable.
 
 ### Cathode
 
 There are multiple cathode materials to choose from within the Li-ion battery space.
 
-Originally, the primary active component of the cathode was cobalt. To reduce the dependencies to cobolt different chemistries are used.
+Originally, the primary active component of the cathode was cobalt. To reduce the dependencies to cobalt different chemistries are used.
 
 #### Lithium nickel manganese cobalt oxides (NMC)
 
-[Lithium nickel manganese cobalt oxides](https://en.wikipedia.org/wiki/Lithium_nickel_manganese_cobalt_oxides) is the most common chemistry on EV's today.
+[Lithium nickel manganese cobalt oxides](https://en.wikipedia.org/wiki/Lithium_nickel_manganese_cobalt_oxides) are the most common chemistry on EV's today.
 
-The metal ratio varies. The versions was NMC 111, then NMC 622 was the common followed by NCM 711. Many vendors are working on providing cells with 811 metal ratio.
+The metal ratio varies. The version was NMC 111, then NMC 622 was the common followed by NCM 711. Many vendors are working on providing cells with an 811 metal ratio.
 
-#### Lithium nickel cobalt aluminium oxides (NCA)
+#### Lithium nickel cobalt aluminum oxides (NCA)
 
-[Lithium nickel cobalt aluminium oxides](https://en.wikipedia.org/wiki/Lithium_nickel_cobalt_aluminium_oxides) (NCA) are used by Panasonic.
+[Lithium nickel cobalt aluminum oxides](https://en.wikipedia.org/wiki/Lithium_nickel_cobalt_aluminum_oxides) (NCA) are used by Panasonic.
 
 #### Lithium iron phosphate battery (LFP)
 
@@ -43,14 +43,13 @@ A [separator](https://en.wikipedia.org/wiki/Separator_(electricity)) is a permea
 
 Liquid electrolytes in lithium-ion batteries consist of lithium salts in an organic solvent, such as ethylene carbonate, dimethyl carbonate, and diethyl carbonate.
 
-A liquid electrolyte acts as a conductive pathway for the movement of cations passing from the negative to the positive electrodes during discharge and the opoosite 
-direction when charging.
+A liquid electrolyte acts as a conductive pathway for the movement of cations passing from the negative to the positive electrodes during discharge and the opposite direction when charging.
 
-Electrolytes based on solid materials are areas that many works on. These are called [solid state batteries](https://en.wikipedia.org/wiki/Solid-state_battery). Currently there is no concrete plans of any mass production EV with Solid state batteries. 
+Electrolytes based on solid materials are areas that many works on. These are called [solid-state batteries](https://en.wikipedia.org/wiki/Solid-state_battery). Currently, there are no concrete plans for any mass production EV with Solid-state batteries.
 
 ### Current collector
 
- The current collector is used to provide conduction of electrons from inside the electrochemical reaction to the external part without any reaction within the operation window.
+ The current collector is used to provide the conduction of electrons from inside the electrochemical reaction to the external part without any reaction within the operation window.
 
  Currently used collectors are mostly made of aluminum or copper foils.
 
@@ -66,7 +65,7 @@ A cylindrical cell consists of sheet-like anodes, separators, and cathodes that 
 
 One advantage is mechanical stability. The round shape of the battery distributes the internal pressure from side reactions over the cell circumference almost evenly. This allows the cell to tolerate a higher level of internal pressure without deformation.
 
-Tesla is one of the few EV manufactors that uses this.
+Tesla is one of the few EV manufacturers that uses this.
 
 ### Prismatic housing
 
@@ -74,7 +73,7 @@ Li-ion cells with prismatic housing consist of large sheets of anodes, cathodes,
 
 ![Samsung Prismatic](samsungprismatic.jpg "Samsung prismatic cells")
 
-Parts of the electrode and separator sheets of a prismatic cell that are close to the container corners can experience more stress. This can damage electrode coating and lead to non-uniform distribution of the electrolyte.
+Parts of the electrode and separator sheets of a prismatic cell that are close to the container corners can experience more stress. This can damage electrode coating and lead to the non-uniform distribution of the electrolyte.
 
 When combining prismatic cells into packs, the cell box-like shape enables optimal use of the available space. However, this optimal space is achieved at the cost of more challenging thermal management. This is because there are no space cavities between the cells as there are in a pack of cylindrical cells.
 
@@ -82,25 +81,25 @@ When combining prismatic cells into packs, the cell box-like shape enables optim
 
 Pouch cells do not have a rigid enclosure like prismatic and cylinder cells and use a sealed flexible foil as the cell container.
 
-This makes it the most efficient use of space and achieves a 90 to 95 percent packaging efficiency, the highest among battery packs, advantages of flexible size and safety performance. Eliminating the metal enclosure reduces weight but the cell needs some alternative support in the battery compartment. 
+This makes it the most efficient use of space and achieves a 90 to 95 percent packaging efficiency, the highest among battery packs, advantages of flexible size, and safety performance. Eliminating the metal enclosure reduces weight but the cell needs some alternative support in the battery compartment.
 
 Swelling Pouch Cell Battery as a Result of Gas Generation During Charge and Discharge
 
-The electrode and separator layers of a pouch cell are stacked rather than jelly rolled. With pouch cells, the designer should allocate enough space for the cell swelling. A swelling of as much as 8% to 10% can occur after 500 cycles. 
+The electrode and separator layers of a pouch cell are stacked rather than jelly-rolled. With pouch cells, the designer should allocate enough space for the cell swelling. A swelling of as much as 8% to 10% can occur after 500 cycles.
 
 ![LG Pouch Cell](lgchenx21.jpg "LG Chem pouch cell")
 
 ## Audi cells
 
-The below table list the cells used on the different all-electric Audi models. Click on modelname
+The below table list the cells used on the different all-electric Audi models. Click on model-name
 for more details about the cells.
 
 | Model | Cell | Format | Capacity | Energy Density | Chemistry|
 |-----|------|-----|------|------|------|
-| [Audi e-tron 50](/models/e-tron/drivetrain/battery/#cell-technology) | Samsung SDI | Prismatic | 60AH | ? | NCM 622 |
-| [Audi e-tron 55](/models/e-tron/drivetrain/battery/#cell-technology) | Samsung SDI | Prismatic | 60AH | ? | NCM 622 |
-| [Audi e-tron 55](/models/e-tron/drivetrain/battery/#cell-technology) | LG Chem LGX N2.1 | Pouch | 60AH | 268 Wh/kg | NCM 622 |
-| [Audi Q4 e-tron](/models/q4-e-tron/drivetrain/battery/#battery-cells) | LG Chem LGX E78 | Pouch | 78AH | 265 Wh/kg | NCM 712 |
-| [Audi e-tron GT](/models/e-tron-gt/drivetrain/battery/#cell-technology) | LG Chem E66A | Pouch | 64.6AH | 263 Wh/kg | NCM 712 |
+| [Audi e-tron 50](../../../models/e-tron/drivetrain/battery/#cell-technology) | Samsung SDI | Prismatic | 60AH | ? | NCM 622 |
+| [Audi e-tron 55](../../../models/e-tron/drivetrain/battery/#cell-technology) | Samsung SDI | Prismatic | 60AH | ? | NCM 622 |
+| [Audi e-tron 55](../../../models/e-tron/drivetrain/battery/#cell-technology) | LG Chem LGX N2.1 | Pouch | 60AH | 268 Wh/kg | NCM 622 |
+| [Audi Q4 e-tron](../../../models/q4-e-tron/drivetrain/battery/#battery-cells) | LG Chem LGX E78 | Pouch | 78AH | 265 Wh/kg | NCM 712 |
+| [Audi e-tron GT](../../../models/e-tron-gt/drivetrain/battery/#cell-technology) | LG Chem E66A | Pouch | 64.6AH | 263 Wh/kg | NCM 712 |
 
 {{% children description="true" depth="1" %}}
