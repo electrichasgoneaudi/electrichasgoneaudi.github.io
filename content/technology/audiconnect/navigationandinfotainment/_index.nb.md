@@ -1,7 +1,7 @@
 ---
-title: Navigation & Infotainment
-linktitle: Navigation & Infotainment
-description: In the Infotainment & Navigation package, Audi connect bundles functions that take entertainment, information, and comfort to a new level.
+title: Navigasjon og infotainment
+linktitle: Navigasjon og infotainment
+description: I Infotainment & Navigation-pakken pakker Audi connect funksjoner som tar underholdning, informasjon og komfort til et nytt nivå.
 weight: 1
 ---
 Nedenfor ser du beskrivelse av de ulike delene.
