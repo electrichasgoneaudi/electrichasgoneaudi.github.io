@@ -34,7 +34,7 @@ On some chargers there is a shared infrastructure and if many charges at the sam
 
 ### Reason 3. Error on charger
 
-In some cases, there are issues with the charger. If there is more than one free charging location there is always the possibility to try other.
+In some cases, there are issues with the charger. If there is more than one available charger at the charging location there is always the possibility to try another.
 
 ## Want to learn more?
 

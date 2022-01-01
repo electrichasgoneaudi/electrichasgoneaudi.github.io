@@ -33,7 +33,7 @@ På noen ladere er det delt infrastruktur og hvis mange lader samtidig, redusere
 
 ### Årsak 3. Feil på laderen
 
-I noen tilfeller er det problemer med laderen. Hvis det er mer enn ett gratis ladested er det alltid mulighet for å prøve andre.
+I noen tilfeller er det problemer med laderen. Hvis det er mer enn tilgjengelig lader på ladestedet er det alltid mulighet for å prøve andre.
 
 ## Vil du lære mer?
 
