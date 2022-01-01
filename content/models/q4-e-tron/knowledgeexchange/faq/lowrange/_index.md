@@ -51,7 +51,7 @@ The range indicator base its range on the following data
 - The state of charge (of much is the battery charged)
 - The planned route in the navigation system
 
-So assume you have an Audi Q5 e-tron 50 with 76.6kWh battery and you have charged it to 100% and your last trip was this
+So assume you have an Audi Q4 e-tron 50 with 76.6kWh battery and you have charged it to 100% and your last trip was this
 
 ![Triphistory](triphistory.jpg "Triphistory")
 

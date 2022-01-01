@@ -51,7 +51,7 @@ Områdeindikatoren baserer rekkevidden på følgende data
 - Ladetilstanden (av mye er batteriet ladet)
 - Den planlagte ruten i navigasjonssystemet
 
-Så anta at du har en Audi Q5 e-tron 50 med 76,6 kWh batteri og at du har ladet den til 100 % og den siste turen din var denne
+Så anta at du har en Audi Q4 e-tron 50 med 76,6 kWh batteri og at du har ladet den til 100 % og den siste turen din var denne
 
 ![Triphistory](triphistory.jpg "Triphistory")
 
