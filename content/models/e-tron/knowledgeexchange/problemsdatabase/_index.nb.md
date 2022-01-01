@@ -17,6 +17,6 @@ Noen vanlige etiketter er
 * [Elektrisk motor](https://github.com/electrichasgoneaudi/etron-issues/labels/electric%20motor)
 * [Panoramatak](https://github.com/electrichasgoneaudi/etron-issues/labels/panoramic%20roof)
 * [Virtuelle speil](https://github.com/electrichasgoneaudi/etron-issues/labels/virtual%20mirrors)
-* [Dører][(https://github.com/electrichasgoneaudi/etron-issues/labels/doors)
+* [Dører](https://github.com/electrichasgoneaudi/etron-issues/labels/doors)
 
 Databasen finnes kun på engelsk

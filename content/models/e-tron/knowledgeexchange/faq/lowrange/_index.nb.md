@@ -88,7 +88,7 @@ Hvis konklusjonen din er at batterikapasiteten er mye lavere enn den angitte kap
 - [Defekt batterimodul](https://github.com/electrichasgoneaudi/etron-issues/issues/9)
 - [Defekt BMS-modul](https://github.com/electrichasgoneaudi/etron-issues/issues/58)
 
-## Lær mer om utvalget
+## Lær mer om rekkevidde
 
 Les vår komplette utvalgsguide **[Forstå rekkevidde](../../../../../guides/understandingrange/)**.
 Se full spesifikasjon for alle varianter av [Audi e-tron](../../../specifications).
