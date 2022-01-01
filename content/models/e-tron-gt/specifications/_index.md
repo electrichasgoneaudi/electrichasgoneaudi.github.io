@@ -42,7 +42,7 @@ weight: 2
 | Max trailer weight | N/A |
 | Max roof weight | 75 kg |
 | Max trailer hitch weight | N/A |
-| Ground Clearance | ?|
+| Ground Clearance | 125mm-165mm (with airsuspension) |
 | Turning circle in m (ft) | 11.6 (38.1) |
 
 ## Audi RS e-tron GT
@@ -81,7 +81,7 @@ weight: 2
 | Max trailer weight | N/A |
 | Max roof weight | 75 kg |
 | Max trailer hitch weight | N/A |
-| Ground Clearance | ? |
+| Ground Clearance | 125mm-165mm |
 | Turning circle in m (ft) | 11.6 (38.1) |
 
 {{% children description="true" depth="1" %}}

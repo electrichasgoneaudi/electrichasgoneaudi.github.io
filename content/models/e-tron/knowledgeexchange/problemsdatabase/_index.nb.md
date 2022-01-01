@@ -1,6 +1,6 @@
 ---
 title: Audi e-tron problemdatabase
-linktitle: Problem database
+linktitle: Problemdatabase
 description: Det er ofte mange spørsmål som går igjen på biler. Her har vi samlet vanlige spørsmål og svar samt en oversikt over feil brukere har opplevd.
 weight: 30
 ---
@@ -15,6 +15,8 @@ Noen vanlige etiketter er
 
 * [Batteri](https://github.com/electrichasgoneaudi/etron-issues/issues?q=is%3Aissue+is%3Aopen+label%3Abattery)
 * [Elektrisk motor](https://github.com/electrichasgoneaudi/etron-issues/labels/electric%20motor)
+* [Panoramatak](https://github.com/electrichasgoneaudi/etron-issues/labels/panoramic%20roof)
 * [Virtuelle speil](https://github.com/electrichasgoneaudi/etron-issues/labels/virtual%20mirrors)
+* [Dører][(https://github.com/electrichasgoneaudi/etron-issues/labels/doors)
 
 Databasen finnes kun på engelsk
