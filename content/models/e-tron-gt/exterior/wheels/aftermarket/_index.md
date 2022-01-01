@@ -25,6 +25,8 @@ Vossen HF4T in satin Black 10x22 5/130 (Flat) front and 12 x 22 5/130 (deep) in 
 
 {{< youtube ef3EFA5qWSc >}}
 
+{{< youtube DTUm9F3l1xE >}}
+
 ## 22" Vossen HF3
 
 Vossen HF3 in satin Black 
