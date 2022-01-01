@@ -16,6 +16,5 @@ Some common labels are
 
 * [Battery](https://github.com/electrichasgoneaudi/q4-e-tron/issues?q=is%3Aissue+is%3Aopen+label%3Abattery)
 * [Electric motor](https://github.com/electrichasgoneaudi/q4-e-tron/labels/electric%20motor)
-* [Virtual mirros](https://github.com/electrichasgoneaudi/q4-e-tron/labels/virtual%20mirrors)
 * [Panorama roof](https://github.com/electrichasgoneaudi/q4-e-tron/labels/panoramic%20roof)
 * [Doors](https://github.com/electrichasgoneaudi/q4-e-tron/labels/doors)

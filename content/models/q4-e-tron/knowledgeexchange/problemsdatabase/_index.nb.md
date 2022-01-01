@@ -16,7 +16,6 @@ Noen vanlige etiketter er
 * [Batteri](https://github.com/electrichasgoneaudi/q4-e-tron/issues?q=is%3Aissue+is%3Aopen+label%3Abattery)
 * [Elektrisk motor](https://github.com/electrichasgoneaudi/q4-e-tron/labels/electric%20motor)
 * [Panoramatak](https://github.com/electrichasgoneaudi/q4-e-tron/labels/panoramic%20roof)
-* [Virtuelle speil](https://github.com/electrichasgoneaudi/q4-e-tron/labels/virtual%20mirrors)
 * [Dører](https://github.com/electrichasgoneaudi/q4-e-tron/labels/doors)
 
 Databasen finnes kun på engelsk
