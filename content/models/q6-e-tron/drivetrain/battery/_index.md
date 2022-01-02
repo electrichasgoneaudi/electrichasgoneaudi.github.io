@@ -12,6 +12,9 @@ It is expected that Q6 will come with two different battery sizes.
 
 ![Battery](battery.png "100Kwh gross pack, 12 modules")
 
+It is expected that the available battery would be 94%. Same as MEB based cars.
+This would mean 94kWh/78kWh available battery on the different versions
+
 ## Cells
 
 Audi has confirmed that the cells will be prismatic cells but it is not confirmed the excact number of cells and type of cells.
