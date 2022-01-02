@@ -2,7 +2,7 @@
 <head>
 <meta charset=utf-8>
 <meta name=viewport content="width=device-width,initial-scale=1">
-<meta name=description content="The lithium-ion battery system of the Audi Q6 e-tron can store more than 100 kWh of energy and uses 800 volt system.">
+<meta name=description content="The lithium-ion battery system of the Audi Q6 e-tron can store up 100 kWh of energy and uses 800 volt system.">
 <title>Audi Q6 e-tron battery :: electrichasgoneaudi.net</title>
 <link rel="shortcut icon" href=/images/favicon.png type=image/x-icon>
 <link href=/css/nucleus.css rel=stylesheet>
@@ -1678,61 +1678,32 @@ active">
 <h1 class=a-fontBold>
 Audi Q6 e-tron battery
 </h1>
-<p class=a-leadText id=leadText>The lithium-ion battery system of the Audi Q6 e-tron can store more than 100 kWh of energy and uses 800 volt system.</p>
-<p>That is the only fact what we now at current time. There is no clear information if the 100kWh is net or gross, but based on the range stated for A6 e-tron the assumption
-is that it is net. It would be almost impossible to reach 700km range on a 100kWh gross battery.</p>
-<p>Below you find some possible setups based on this information and the fact that Audi/Porsche/Wolkswagen use LC Chem on many other models.</p>
-<h2 id=800-volt-with-lg-chem-e78x>800 Volt with LG Chem E78X</h2>
-<p>This scenario assume that PPE will use same battery cells as the MEB platform.</p>
-<table>
-<thead>
-<tr>
-<th><strong>Spec</strong></th>
-<th><strong>value</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Manufacturer</td>
-<td>LG Chem</td>
-</tr>
-<tr>
-<td>Model</td>
-<td>LGX E78</td>
-</tr>
-<tr>
-<td>Voltage</td>
-<td>3,65 V</td>
-</tr>
-<tr>
-<td>Capacity</td>
-<td>78 Ah</td>
-</tr>
-<tr>
-<td>Weight</td>
-<td>1.073 g</td>
-</tr>
-<tr>
-<td>Gravimetric energy density</td>
-<td>265 Wh/kg</td>
-</tr>
-<tr>
-<td>Chemistry</td>
-<td>NCM 712</td>
-</tr>
-</tbody>
-</table>
-<p>On e-tron GT the battery configuration is 198s2p. Meaning 396 cells in total with 2 cells in paralell and 198 cells in serial.
-This is done with the LG Cell 66E cell.</p>
-<p>If you use LG Chem E78X on the same configuration you get.</p>
-<p>78Ah x 2 x 3,65Volt x 198 = 112.74 kWh Gross. This would mean a net capacity on 100-106kWh depending on the buffers that Audi/Porsche want to enforce.</p>
-<p>On the MEB platform the setup is 96s2p or 96s3p. If you assume that Audi/Porsche does want to double it so it goes for 192s2p to get 800 volt you get.</p>
-<p>78Ah x 2 x 3,65Volt x 192 = 109.34 kWh Gross. This would mean a net capacity on 100-104kWh depending on the buffers that Audi/Porsche want to enforce.</p>
-<p>Based on the Q4 weight of the battery pack (493kg on 82kWh) the pack weight would be around 680kg. Litte less than current e-tron 55 pack.</p>
-<h2 id=800-volt-with-lg-chem-e66a>800 Volt with LG Chem E66A</h2>
-<p>To get more than 100kWh you would then need to change to a 196s3p setup if voltage is kept the same. This is very unlikly. But will give</p>
-<p>64.6Ah x 3 x 3,651515Volt x 198 = 140 kWh gross.</p>
-<p>The battery would then be around 950kg heavy.</p>
+<p class=a-leadText id=leadText>The lithium-ion battery system of the Audi Q6 e-tron can store up 100 kWh of energy and uses 800 volt system.</p>
+<p>It is expected that Q6 will come with two different battery sizes.</p>
+<ul>
+<li>100kWh gross with 12 modules</li>
+<li>83.3kWh gross with 10 modules</li>
+</ul>
+<figure><a href=battery.png><img src=battery.png alt=Battery title="100Kwh gross pack, 12 modules"></a><figcaption><h4>100Kwh gross pack, 12 modules</h4></figcaption></figure>
+<h2 id=cells>Cells</h2>
+<p>Audi has confirmed that the cells will be prismatic cells but it is not confirmed the excact number of cells and type of cells.</p>
+<p>To get to 800Volt you need around 200 cells in serial. Audi e-tron GT has 198 and nominal voltage on 723 volt.</p>
+<p>With 12 modules that would mean that the 12 modules version would have a setup like</p>
+<ul>
+<li>180s2p - 360 cells - 650Volt nominal - 76AH cells</li>
+<li>192s2p - 384 cells - 694Volt nominal - 71AH cells</li>
+<li>204s2p - 408 cells - 737Volt nominal - 67AH cells</li>
+<li>216s2p - 432 cells - 780Volt nominal - 63AH cells</li>
+</ul>
+<p>Similar 10 modules version would then have 613 28</p>
+<ul>
+<li>180s2p - 300 cells - 542Volt nominal - 76AH cells</li>
+<li>192s2p - 320 cells - 578Volt nominal - 71AH cells</li>
+<li>204s2p - 340 cells - 614Volt nominal - 67AH cells</li>
+<li>216s2p - 360 cells - 650Volt nominal - 63AH cells</li>
+</ul>
+<p>Porsche Taycan have a version with smaller battery. It has a nominal voltage on 613 volt.
+Based on this we belive that Audi/Porsche will go for a 204s2p setup with 67AH prismatic cells.</p>
 <ul class="children children-li js-moveChildrenFrom">
 </ul>
 <footer class=footline>
