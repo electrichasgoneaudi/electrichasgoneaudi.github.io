@@ -32,7 +32,7 @@ Similar 10 modules version would then have  613 28
 - 204s2p - 340 cells - 614Volt nominal - 67AH cells
 - 216s2p - 360 cells - 650Volt nominal - 63AH cells
 
-Porsche Taycan have a version with smaller battery. It has a nominal voltage on 613 volt.
+Porsche Taycan, that uses same battery as Audi e-tron GT, have a version with smaller battery. It has a nominal voltage on 613 volt.
 Based on this we belive that Audi/Porsche will go for a 204s2p setup with 67AH prismatic cells.
 
 {{% children description="true" depth="1" %}}
