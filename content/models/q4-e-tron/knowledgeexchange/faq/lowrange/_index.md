@@ -23,8 +23,8 @@ The table below shows the range measured according to the WLTP standard. Notice 
 | Audi Q4 e-tron 40 min trim |  521km/324 miles | 14.7/100km | 4.23miles/kWh |
 | Audi Q4 e-tron 50 min trim |  488km/303 miles | 15.70/100km | 3.96miles/kWh |
 | Audi Q4 e-tron 35 max trim |  306km/175 miles | 16.83/100km | 3.69miles/kWh |
-| Audi Q4 e-tron 40 max trim |  369km/229 miles | 17.14/100km | 3.63miles/kWh |
-| Audi Q4 e-tron 50 max trim |  343km/213 miles | 18.59/100km | 3.34 miles/kWh |
+| Audi Q4 e-tron 40 max trim |  447km/278 miles | 17.14/100km | 3.63miles/kWh |
+| Audi Q4 e-tron 50 max trim |  412m/256 miles | 18.59/100km | 3.34 miles/kWh |
 
 ### EPA Range
 
