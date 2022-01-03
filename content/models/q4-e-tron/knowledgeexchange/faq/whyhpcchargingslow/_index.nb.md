@@ -9,9 +9,9 @@ Først. Hva er forventet ladehastighet? Under optimale forhold vil ladekurven se
 
 ![Ladekurve](chargecurve.jpg "Ladekurve e-tron 55 optimale forhold")
 
-Det betyr at du ofte ser 150 kW opp til 80 % og 100 kW til 85 % og fortsatt over 50 kW ved 100 %. Dette gjør Audi e-tron til en av de raskeste ladebilene på markedet.
+Det betyr at du ofte ser 125KW opp til 35% SOC.
 
-![Audi e-tron 55 lader ved Ionity](charginghpc.jpg "Audi e-tron 55 lader ved Ionity HPC")
+![Audi e-tron 55 lader ved Ionity](charginghpc.jpg "Audi Q4 e-tron lader")
 
 Men folk kan se at ladehastigheten deres er mye lavere enn dette.
 

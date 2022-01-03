@@ -1,22 +1,19 @@
 ---
-title: Audi e-tron forum and groups
+title: Audi Q4 e-tron forum and groups
 linktitle: Forum & groups
-description: Online dicussion forum and groups where you can discuss Audi e-tron
+description: Online dicussion forum and groups where you can discuss Audi Q4 e-tron
 weight: 32
 ---
 
 
 ## Norway
 
-- Facebook Group: [Audi e-tron Norge](https://www.facebook.com/groups/361111001113524)
-- Facebook Group: [Audi e-tron Owners Norway](https://www.facebook.com/groups/1483698798331225)
-- Online forum: [elbilforum.no](https://elbilforum.no/index.php?board=92.0)
+- Facebook Group: [Audi Q4 e-tron Owners Norway](https://www.facebook.com/groups/361111001113524) by Electrichasgoneaudi.net
+- Online forum: [elbilforum.no](https://elbilforum.no/index.php?board=266.0)
 
 ## Global
 
-- Facebook Group: [Audi E-Tron Owners Club](https://www.facebook.com/groups/283334458880299)
-- Facebook Group: [Audi e-tron and Audi EV owners](https://www.facebook.com/groups/417406612061449)
-- Facebook Group: [Audi e-tron Owners (by e-tron connect)](https://www.facebook.com/groups/etronconnect/)
+- Facebook Group: [Audi Q4 e-tron & Q4 e-tron Sportback](https://www.facebook.com/groups/353864512531694/)
 - Online forum: [Audi world](https://www.audiworld.com/forums/audi-e-tron-232/)
 - Online forum: [Audizine](https://www.audizine.com/forum/forumdisplay.php/366-e-tron)
 - Online forum: [e-tron forum](https://www.e-tronforum.com/forums/)

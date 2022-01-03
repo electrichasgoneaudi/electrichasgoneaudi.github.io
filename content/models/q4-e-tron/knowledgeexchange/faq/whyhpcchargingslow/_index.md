@@ -1,18 +1,18 @@
 ---
-title: Why is my Audi e-tron charging speed much slower than expected?
+title: Why is my Audi Q4 e-tron charging speed much slower than expected?
 linktitle: Charging
-description: Audi e-tron is one of the fastest charging EV's. Still many experience slower charging speed than expected. Why is that? 
+description: Audi Q4 e-tron is one of the fastest charging EV's in its class. Still many experience slower charging speed than expected. Why is that? 
 weight: 30
 hidden: true
 ---
 
 First. What is the expected charging rate? Under optimal conditions, the charge curve will look like this.
 
-![Charging curve](chargecurve.jpg "Charging curve e-tron 55 optimal conditions")
+![Charging curve](chargecurve.jpg "Charging curve Q4 e-tron optimal conditions")
 
-That means that you often see 150kW up to 80% and 100kW to 85% and still above 50kW at 100%. This makes the Audi e-tron one of the fastest charging cars on the market.
+That means that you often see 125kW up to 35%.
 
-![Audi e-tron 55 charging at Ionity](charginghpc.jpg "Audi e-tron 55 charging at Ionity HPC")
+![Audi Q4 e-tron charging at Ionity](charginghpc.jpg "Audi Q4 e-tron charging")
 
 But people may see that their charging speed is much slower than this.
 

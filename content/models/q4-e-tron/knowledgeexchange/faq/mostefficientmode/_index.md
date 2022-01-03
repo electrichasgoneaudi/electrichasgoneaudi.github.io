@@ -22,7 +22,7 @@ To be able to coast in B-mode you would need to hold foot on the throttle on a s
 
 On other cars, B-mode would be more efficient, but Audi has created blended brakes that always do recuperate when pressing the brake pedal if possible. That's why you don't  waste  energy using the brake pedal on the Audi Q4 e-tron.
 
-![Regen leve](regenlevelq4.jpg "Audi Q4 e-tron power meter showing while doing recuperation")
+![Regen leve](regenlevelq4.jpg "Audi Q4 e-tron power meter showing B mode")
 
 ## Want to learn more
 
