@@ -37,7 +37,7 @@ It creates a large stage for the navigation map or for lists in the phone, radio
 
 ### Virtual Cockpit Plus
 
-With virtual cockpit you get two different modes. But with Virtual Cockpit plus you get an additional e-tron mode.
+With virtual cockpit you get two different modes. But with Virtual Cockpit plus you get an additional e-tron mode. This is part of the [MMI Navigation Pro package **PYH**](../../../optionguide/list/#infotainment)
 
 ![Virtual cockpit modes](virtualcockpitmodes.jpg "Virtual cockpit modes")
 

@@ -36,7 +36,7 @@ Det skaper en stor scene for navigasjonskartet eller for lister i telefon-, radi
 
 ### Virtual Cockpit Plus
 
-Med virtuell cockpit får du to forskjellige moduser. Men med Virtual Cockpit pluss får du en ekstra e-tron-modus.
+Med virtuell cockpit får du to forskjellige moduser. Men med Virtual Cockpit pluss får du en ekstra e-tron-modus. Dette er end el av [MMI Navigation Pro pakken **PYH**](../../../optionguide/list/#infotainment)
 
 ![Virtuelle cockpit-moduser](virtualcockpitmodes.jpg "Virtuelle cockpit-moduser")
 
