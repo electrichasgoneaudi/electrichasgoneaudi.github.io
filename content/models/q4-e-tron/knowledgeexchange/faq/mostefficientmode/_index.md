@@ -24,6 +24,13 @@ On other cars, B-mode would be more efficient, but Audi has created blended brak
 
 ![Regen leve](regenlevelq4.jpg "Audi Q4 e-tron power meter showing B mode")
 
+## How much does it matter?
+
+Even D-mode is the most efficient in most cases the differences could be ignored. If you prefer driving with B-mode in the city (one-pedal-driving) you should just do it.
+The extra range you get from D-mode in the city driving probably is not something you would care about.
+
+On high-way it is much more comfortable to use D-mode in addition to being  more efficient.
+
 ## Want to learn more
 
 Read our  [one-pedal driving guide](../../../../../guides/onepedaldriving/).
