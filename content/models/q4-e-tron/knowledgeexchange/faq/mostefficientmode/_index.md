@@ -9,7 +9,7 @@ hidden: true
 On the Audi Q4 e-tron, there are two drive modes available.
 
 - **D-mode** : car coast when lifting the watt pedal (power)
-- **B-mode (brake)** : car reduces speed while it recuperates energy.
+- **B-mode (brake)** : car reduces speed while it recuperates energy when lifting the watt pedal (power)
 
 ![Q4 shiter](q4shifter.jpg "Drive mode shifter")
 

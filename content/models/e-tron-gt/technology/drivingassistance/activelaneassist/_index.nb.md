@@ -1,5 +1,5 @@
 ---
-title: Audi active lane assist
+title: Audi e-tron GT active lane assist
 linktitle: Active lane assist
 description: Audi active lane assist, som opererer i hastigheter fra 65 km/t (40,4 mph), hjelper føreren med å holde kjøretøyet i kjørefeltet.
 weight: 1
@@ -17,6 +17,6 @@ Active Lane Assist kan deaktiveres på knappen på enden av retningshåndtaket. 
 
 ![Lane assist](laneassistbutton.jpg "Aktiv filassistent kan deaktiveres med knappen på retningshåndtaket")
 
-Aktiv kjørefeltassistent er standardutstyr. (alternativ-ID **6I3**)
+Aktiv kjørefeltassistent er standardutstyr på Audi e-tron GT & Audi RS e-tron GT. (alternativ-ID **6I3**)
 
 {{% children description="true" depth="1" %}}
