@@ -1,7 +1,7 @@
 ---
-title: 360 kamera
+title: Audi e-tron GT 360 kamera
 linktitle: 360 kamera
-description: De fire 360 graders kameraene på kjøretøyet skanner umiddelbar nærhet og viser hindringer innenfor. Sjåfører kan velge mellom ulike visninger som forenkler parkering og manøvrering.
+description: De fire 360 graders kameraene på Audi e-tron GT skanner umiddelbar nærhet og viser hindringer innenfor. Sjåfører kan velge mellom ulike visninger som forenkler parkering og manøvrering.
 weight: 1
 ---
 
