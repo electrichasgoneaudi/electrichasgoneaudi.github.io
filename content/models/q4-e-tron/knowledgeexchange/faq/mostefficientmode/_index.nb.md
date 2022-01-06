@@ -1,7 +1,7 @@
 ---
-title: Which drive mode is most efficient on my Audi Q4 e-tron?
+title: Hvilken kjøremodus er mest energieffektiv på Audi Q4 e-tron?
 linktitle: Drive mode
-description: One common question is related to which drive mode is most efficient on the Audi Q4 e-tron
+description: Et vanlig spørsmål er hvilke kjøremodus som er mest energieffektiv på Audi Q4 e-tron
 weight: 30
 hidden: true
 ---
@@ -13,7 +13,7 @@ På Audi Q4 e-tron er det to tilgjengelige kjøremoduser.
 
 ![Q4 shiter](q4shifter.jpg "Drive mode shifter")
 
-Kan eiere stille spørsmål om hva som er mest effektivt.
+Hvilke av dem er mest effektiv hvis man ønsker lengst mulig rekkevidde?
 
 Svaret er **D-modus**. Årsaken er at i B-modus vil du ende opp med å restituere når det ikke er nødvendig, og som vil miste energi under konverteringen av kinetisk energi til elektrisk energi på batteriet. Rundt 80 % av den kinetiske energien legges inn i batteriet mens det restitueres.
 Hvis du kysser vil du beholde den energien som kinetisk energi.

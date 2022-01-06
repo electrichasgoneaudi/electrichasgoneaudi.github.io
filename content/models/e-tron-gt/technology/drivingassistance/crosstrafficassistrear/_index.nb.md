@@ -1,7 +1,7 @@
 ---
 title:  Assistent for kryssende trafikk bak
 linktitle: Cross traffic assist rear
-description:  Assistent for kryssende trafikk bak advarer føreren om kjøretøyer som nærmer seg den anser som kritiske når han rygger sakte, for eksempel når han kjører ut av en vinkelrett parkeringsplass.
+description:  Audi e-tron GT kan leveres med Assistent for kryssende trafikk bak. Dette assistentsystemet advarer føreren om kjøretøyer som nærmer seg den anser som kritiske når han rygger sakte, for eksempel når han kjører ut av en vinkelrett parkeringsplass.
 weight: 1
 ---
 
