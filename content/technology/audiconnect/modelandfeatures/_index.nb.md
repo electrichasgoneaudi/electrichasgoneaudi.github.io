@@ -8,16 +8,18 @@ weight: 6
 
 | Model | e-tron  | Q4 e-tron | (RS) e-tron GT |
 |------|------|------| ----- |
-| Status | Yes | Yes | Yes |
-| Justering lademål | Yes   | Yes   | Yes   |
-| Lås/åpne | Yes | N/A  |  ? |
-| Plassering | Yes | N/A  | ? |
-| Klimaanlegg | Yes | Yes | Yes |
-| Kjøre data | Yes | N/A  | ? |
-| Utstyr og tekniske data| Yes | Yes | Yes |
-| Charge scheduling | Yes | Yes | Yes |
-| Functions on demand | Yes | N/A | N/A |
-| e-tron Charging Service | Yes | Yes | Yes |
-| Service topics | Yes | Yes | Yes |
+| Status | Ja | Ja | Ja |
+| Status Låsing | Ja | N/A | Ja |
+| Status vinduer | Ja | N/A | Ja |
+| Justering lademål | Ja   | Ja   | Ja   |
+| Lås/åpne | Ja | N/A  |  ? |
+| Plassering | Ja | N/A  | ? |
+| Klimaanlegg | Ja | Ja | Ja |
+| Kjøre data | Ja | N/A  | ? |
+| Utstyr og tekniske data| Ja | Ja | Ja |
+| Charge scheduling | Ja | Ja | Ja |
+| Functions on demand | Ja | N/A | N/A |
+| e-tron Charging Service | Ja | Ja | Ja |
+| Service topics | Ja | Ja | Ja |
 
 {{% children description="true" depth="1" %}}

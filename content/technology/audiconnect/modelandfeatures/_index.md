@@ -8,7 +8,9 @@ weight: 6
 
 | Model | e-tron  | Q4 e-tron | (RS) e-tron GT |
 |------|------|------| ----- |
-| Status | Yes | Yes | Yes |
+| Status Charging | Yes | Yes | Yes |
+| Status Locking | Yes | N/A | Yes |
+| Status Windows | Yes | N/A | Yes |
 | Adjust SOC target | Yes   | Yes   | Yes   |
 | Lock/unlock | Yes | N/A  |  ? |
 | Location | Yes | N/A  | ? |
