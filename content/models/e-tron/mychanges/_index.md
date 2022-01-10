@@ -85,6 +85,8 @@ For the e-tron 50 they could in theory offer a version with 108s2p with only 74k
 In addition, you could expect some other technical improvements that slightly would reduce consumption. The current minimum WLTP consumption is 19.1 kWh/100km.
 If they are able to reduce this to 18.5 you could see rated range up to 580km.
 
+The latest rumours indicate this facelift will be branded as [Audi Q8 e-tron](../../models/q8-e-tron)
+
 But all is unconfirmed. Will be updated when we know more.
 
 Below there is a Spyshot from [Motor1](https://www.motor1.com/news/538895/audi-e-tron-sportback-spied)

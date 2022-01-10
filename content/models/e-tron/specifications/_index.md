@@ -12,7 +12,7 @@ weight: 2
 | ----------- | ----------- |
 | Peak electrical output in kW (hp) | 230 (312) |
 | Continuous electrical output in kW | 100 |
-| Electrical torque output in Nm (lb-ft) | 	540 (398.3) |
+| Electrical torque output in Nm (lb-ft) | 540 (398.3) |
 | 0 -100 km/h (62.1 mph) in s | 6.8<> |
 | Top speed in km/h (mph)| 190 (118.1) |
 | Drive type | quattro permanent all-wheel drive |

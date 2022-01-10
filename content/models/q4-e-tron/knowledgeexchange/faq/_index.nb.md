@@ -1,13 +1,13 @@
 ---
 title: Ofte spurte spørsmål (FAQ)
 linktitle: FAQ
-description: Vi har samlet vanlige spørsmål om Audi e-tron og prøver å svare på dem for deg.
+description: Vi har samlet vanlige spørsmål om Audi Q4 e-tron og prøver å svare på dem for deg.
 weight: 30
 ---
 
 ## Lader
 
-- [Hvorfor er min Audi e-tron ladehastighet mye langsommere enn forventet](whyhpcchargingslow)
+- [Hvorfor er min Audi Q4 e-tron ladehastighet mye langsommere enn forventet](whyhpcchargingslow)
 
 ## myAudi-appen
 
@@ -16,4 +16,4 @@ weight: 30
 ## Forbruk og rekkevidde
 
 - Hva er den mest effektive restitusjonsmodusen
-- [Hvorfor viser min Audi e-tron lavere rekkevidde enn forventet?](lowrange)
+- [Hvorfor viser min Audi Q4 e-tron lavere rekkevidde enn forventet?](lowrange)
