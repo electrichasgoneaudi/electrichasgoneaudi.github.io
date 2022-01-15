@@ -69,6 +69,42 @@ If you have done many short trips in cold weather, you would have spent lots of 
 
 If a route is defined in the car navigation system the car would adjust range based on elevation and road ahead.
 
+The below table show the calculated range based on different average consumption for and Audi Q4 40/45/50 with 76.6kWh available battery.
+
+|consumption kWh/100|consumption miles/kWh|Calculated range km|Calculated range miles|
+|---|---|--|---------|
+|15|4,1|511|317
+|15,5 |4,0|494|307|
+|16|3,9|479|298|
+|16,5|3,8|464|289|
+|17|3,7|451|280|
+|17,5|3,6|438|272|
+|18|3,5|426|264|
+|18,5|3,4|414|257|
+|19|3,3|403|251|
+|19,5|3,2|393|244|
+|20|3,1|383|238|
+|20,5|3,0|374|232|
+|21|3,0|365|227|
+|21,5|2,9|356|221|
+|22|2,8|348|216|
+|22,5|2,8|340|212|
+|23|2,7|333|207|
+|23,5|2,6|326|203|
+|24|2,6|319|198|
+|24,5|2,5|313|194|
+|25|2,5|306|190|
+|25,5|2,4|300|187|
+|26|2,4|295|183|
+|26,5|2,3|289|180|
+|27 |2,3|284|176|
+|27,5|2,3|279|173|
+|28 |2,2|274|170|
+|28,5|2,2|269|167|
+|29 |2,1|264|164|
+|29,5|2,1|260|161|
+|30 |2,1|255|159|
+
 ## The numbers do not match up, can it be something wrong?
 
 If your average consumption on our last trip does not match up with the estimated range it might be a problem with your Audi e-tron.
