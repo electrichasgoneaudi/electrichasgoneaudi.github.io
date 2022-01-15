@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron GT active lane assist
 linktitle: Active lane assist
-description: Operating at speeds from 65 km/h (40.4 mph), Audi active lane assist helps the driver keep the vehicle in the driving lane.
+description: Audi e-tron GT/RS e-tron GT is equipped ein Audi Active Lane assist. Operating at speeds from 65 km/h (40.4 mph), Audi active lane assist helps the driver keep the vehicle in the driving lane.
 weight: 1
 ---
 

@@ -69,7 +69,7 @@ Hvis du har kjørt mange korte turer i kaldt vær, ville du ha brukt mye energi 
 
 Hvis en rute er definert i bilnavigasjonssystemet, vil bilen justere rekkevidden basert på høyde og vei foran.
 
-Tabellen nedenfor viser kalkulert rekkevidde basert på forskjellig gjennomsnittlig forbruk.
+Tabellen nedenfor viser kalkulert rekkevidde basert på forskjellig gjennomsnittlig forbruk for Audi Q4 e-tron 40/45/50 med 76.6kWh tilgjengelig batteri.
 
 |Forbruk kWh/100|Forbruk miles/kWh|Kalkulert rekkevidde km|Kalkulert rekkevidde miles|
 |---|---|--|---------|
