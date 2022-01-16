@@ -107,7 +107,7 @@ Tabellen nedenfor viser kalkulert rekkevidde basert på forskjellig gjennomsnitt
 
 ## Tallene stemmer ikke, kan det være noe galt?
 
-Hvis gjennomsnittsforbruket på vår siste tur ikke stemmer overens med estimert rekkevidde, kan det være et problem med din Audi e-tron.
+Hvis gjennomsnittsforbruket på vår siste tur ikke stemmer overens med estimert rekkevidde, kan det være et problem med din Audi Q4 e-tron.
 
 Det første du bør prøve er å beregne batterikapasiteten slik at du er sikker på at det er et problem. Dette vil også gjøre det lettere for deg å dokumentere dette for din forhandler.
 

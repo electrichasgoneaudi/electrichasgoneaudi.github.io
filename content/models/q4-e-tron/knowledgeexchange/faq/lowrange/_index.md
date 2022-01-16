@@ -107,7 +107,7 @@ The below table show the calculated range based on different average consumption
 
 ## The numbers do not match up, can it be something wrong?
 
-If your average consumption on our last trip does not match up with the estimated range it might be a problem with your Audi e-tron.
+If your average consumption on our last trip does not match up with the estimated range it might be a problem with your Audi Q4 e-tron.
 
 The first you should try is to calculate the battery capacity so you are sure there is a problem. This would also make it easier for you to document this for your dealer.
 

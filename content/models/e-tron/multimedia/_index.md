@@ -41,3 +41,7 @@ weight: 20
 ### Making of Audi e-tron on the Streif | A look behind the scenesok
 
 {{< youtube sNCKWXtCvUY >}}
+
+### Audi e-tron: optimizing your driving range
+
+{{< youtube oSd-a4m9hno >}}
