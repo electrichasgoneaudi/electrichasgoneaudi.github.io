@@ -24,7 +24,7 @@ Dette alternativet kan hjelpe hvis du aldri har vært i stand til å koble deg t
 
 Selv om du står 10 meter unna bilen, vil kommunikasjonen alltid gå gjennom sentrale Audi-servere. Hvis det er dårlig mottak for bilen, er den kanskje ikke online. Bilen kan bruke et annet nettverk enn din mobil. Avhengig av land og leverandør. I Norge brukes telenornettverket.
 
-## Vanlig server- eller programvareproblem
+## Server- eller programvareproblem
 
 Det vanligste problemet er at Audi-servere eller programvare har problemer som hindrer eiere i å få tilgang til funksjonalitet. Dette skjer ofte
 om vinteren når flere brukere prøver å varme opp bilen. Her gjelder det bare å mase på Audi slik at de forstår viktigheten å holde løsningen oppe.
