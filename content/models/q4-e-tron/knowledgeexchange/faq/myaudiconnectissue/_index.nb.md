@@ -8,7 +8,7 @@ hidden: true
 
 Disse operasjonene kan være å starte pre-klimatisering eller endre charing-mål. Eller bare sjekke bilens status.
 
-![Tilkoblingsproblem](connectissue1.jpg "myAudi-feilmelding")
+![Tilkoblingsproblem](connectissuenb3.jpg "myAudi-feilmelding")
 
 Det er ingen felles løsning på dette problemet. Og i mange tilfeller er det ingenting du kan gjøre. Men her er noen av de vanligste problemene og løsningene
 
@@ -22,14 +22,19 @@ Dette alternativet kan hjelpe hvis du aldri har vært i stand til å koble deg t
 
 ## Dårlig nettverksdekning der den er parkert
 
-Selv om du står 10 meter unna bilen, vil kommunikasjonen alltid gå gjennom sentrale Audi-servere. Hvis det er dårlig mottak for bilen, er den kanskje ikke online. Bilen kan bruke et annet nettverk enn cellene dine. Avhengig av land og leverandør.
+Selv om du står 10 meter unna bilen, vil kommunikasjonen alltid gå gjennom sentrale Audi-servere. Hvis det er dårlig mottak for bilen, er den kanskje ikke online. Bilen kan bruke et annet nettverk enn din mobil. Avhengig av land og leverandør. I Norge brukes telenornettverket.
 
 ## Vanlig server- eller programvareproblem
 
 Det vanligste problemet er at Audi-servere eller programvare har problemer som hindrer eiere i å få tilgang til funksjonalitet. Dette skjer ofte
-om vinteren når flere brukere prøver å varme opp bilen.
+om vinteren når flere brukere prøver å varme opp bilen. Her gjelder det bare å mase på Audi slik at de forstår viktigheten å holde løsningen oppe.
 
 Kontakt [Audi Digital Support](https://my.audi.com/)
+
+Telefon: 800 12123 (trykk 1 for Audi connect support eller trykk 2 for Audi lade support)
+
+Audi connect support:
+digitalsupport.no@audi.de
 
 ## Tilbakestilling av bil
 
