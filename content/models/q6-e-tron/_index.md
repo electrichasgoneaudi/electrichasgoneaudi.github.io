@@ -15,8 +15,8 @@ The model will come in different versions with different battery capacities.
 
 It will be delivered in two battery sizes
 
-- 100 kWh gross (94kWh net)
-- 83.3kWh gross (78kWh net).
+- 12 modules with 100 kWh gross (94kWh net)
+- 10 modules with 83.3kWh gross (78kWh net).
 
 This will give the Audi Q6 e-tron a WLTP range of approximately 470-580km depending on the trim level for the biggest battery. (16.2 - 20 kWh/100km)
 
