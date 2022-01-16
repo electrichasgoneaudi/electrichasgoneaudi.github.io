@@ -57,6 +57,10 @@ Audi plans to reduce the number of combinations of options. So instead of most o
 
 ![options](options.jpg "Options")
 
+## Keep youself updated
+
+Join our [Audi Q6 e-tron Facebook group](https://www.facebook.com/groups/114120244068685) to keep yourself updated.
+
 ## Spy photos
 
 See below for spy video and spy photo of the Q6 e-tron test-driving.
