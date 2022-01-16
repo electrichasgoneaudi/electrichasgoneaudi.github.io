@@ -11,9 +11,9 @@ weight: 30
 
 ## myAudi-appen
 
-- Hvorfor kan jeg ikke kontrollere bilen min gjennom myAudi?
+- [Hvorfor jeg ikke kan kontrollere min Audi Q4 e-tron gjennom myAudi appen?](myaudiconnectissue)
   
 ## Forbruk og rekkevidde
 
-- Hva er den mest effektive restitusjonsmodusen
+- [Hvilken kjøremodus er mest energieffektiv på Audi Q4 e-tron?](mostefficientmode)
 - [Hvorfor viser min Audi Q4 e-tron lavere rekkevidde enn forventet?](lowrange)

@@ -11,7 +11,7 @@ weight: 30
 
 ## myAudi App
 
-- [Why I am not able to control my car through myAudi?](myaudiconnectissue) 
+- [Why I am not able to control my Audi Q4 e-tron through myAudi app?](myaudiconnectissue)
   
 ## Consumption & Range
 
