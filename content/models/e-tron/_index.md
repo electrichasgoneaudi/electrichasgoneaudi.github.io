@@ -34,7 +34,7 @@ The battery is available in two sizes
 
 For the biggest battery, this means a WLTP range between 343km - 452 km depending on equipment trim and version.
 
-Read all details about the motors, the battery, suspension and more in our [Audi e-tron drivetrain section](drivetrain)
+Read all details about the motors, the battery, suspension, and more in our [Audi e-tron drivetrain section](drivetrain)
 
 ## Audi e-tron variants
 
@@ -67,16 +67,15 @@ Audi e-tron has a luxury interior with many options on seats, interior design, i
 
 [Go to interior section](interior) to read more about the different interior options available.
 
-
 ## Audi e-tron technology
 
-Vorsprung Durch Technik have in more than 50 years been Audis mantra and Audi e-tron is no exception. It is loaded with advanced technology in many areas like Driver Assistance, lights, charging technology and many more areas to give you a safe, comfortable and luxurios journey.
+Vorsprung Durch Technik have in more than 50 years been Audis mantra and Audi e-tron is no exception. It is loaded with advanced technology in many areas like Driver Assistance, lights, charging technology, and many more areas to give you a safe, comfortable, and luxurious journey.
 
 [Read more in Audi e-tron technology section](technology)
 
 ## Audi e-tron specifications
 
-Here you find the most relevant specifications for the different e-tron variants. Everything from range, top speed, battery size and trailer capacity.
+Here you find the most relevant specifications for the different e-tron variants. Everything from range, top speed, battery size, and trailer capacity.
 
 [Go to the specification sections](specifications)
 
@@ -94,11 +93,11 @@ In addition to the 5 seats, the e-tron has both a trunk and a frunk in addition 
 
 ## Audi e-tron model year changes
 
-For every new model year, and sometimes in between there have been done updates to the Audi e-tron.
+For every new model year, and sometimes in between, Audi has done updates to the Audi e-tron.
 
 We have structured information about the different changes done since production start.
 
-We also have a list over service updates.
+We also have a list of service updates.
 
 [Go to model year changes section](mychanges)
 
@@ -106,7 +105,7 @@ We also have a list over service updates.
 
 Audi e-tron have so many options that it is almost impossible to get the overview.
 
-In our options guide we try to help you select the most important options.
+In our options guide, we try to help you select the most important options.
 
 We also list all options available.
 
@@ -116,7 +115,7 @@ We also list all options available.
 
 Promoting sharing of knowledge between owners and others with knowledge about the all-electric models from Audi is an important goal with electrichasgoneaudi.net.
 
-In our knowledge exchange section we have collected  and answered the most Frequently asked questions about Audi e-tron.
+In our knowledge exchange section,  we have collected and answered the most Frequently asked questions about the Audi e-tron.
 We have also collected common problems in our problem database for Audi e-tron.
 
 [Go to knowledge exchange section](knowledgeexchange)
@@ -129,9 +128,6 @@ We have collected most of the online reviews of Audi e-tron for quick access.
 
 ## Audi e-tron multimedia
 
-Here you find different multimedia content related to Audi e-tron. Mostly videos.
+Here you find different multimedia content related to the Audi e-tron. Mostly videos.
 
 [Go to multimedia section](multimedia)
-
-
-
