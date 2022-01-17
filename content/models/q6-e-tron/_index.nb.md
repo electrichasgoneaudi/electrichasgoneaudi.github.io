@@ -18,7 +18,9 @@ Den vil bli levert i to batteristørrelser
 - 12 moduler med 100 kWh brutto (94 kWh netto)
 - 10 moduler med 83,3kWh brutto (78kWh netto).
 
-Dette vil gi Audi Q6 e-tron en WLTP-rekkevidde på omtrent 470-580 km avhengig av utstyrsnivået på bilen,  for det største batteriet. (16,2 - 20 kWh/100 km)
+Dette vil gi Audi Q6 e-tron med det største batteriet en WLTP-rekkevidde på omtrent 470-580 km avhengig av utstyrsnivået. (estimert 16,2 - 20 kWh/100 km)
+
+På den samme måten vil 1 motors versjonen med drift på bakhjulene og det minste batteriet få en estimert WLTP rekkevidde på 420 -530km.
 
 Batteriet vil ha en 800-volts arkitektur for høyytelseslading.
 
