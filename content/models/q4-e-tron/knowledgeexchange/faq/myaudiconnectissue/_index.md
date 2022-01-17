@@ -1,5 +1,5 @@
 ---
-title: Why I am not able to control my car through myAudi
+title: Why I am not able to control my Audi Q4 e-tron through myAudi app?
 linktitle: My Audi
 description: A common question for Audi Q4 e-tron is related to owners having a problem with myAudi app and performing operations.  
 weight: 30
