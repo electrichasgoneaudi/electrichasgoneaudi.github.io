@@ -7,7 +7,7 @@ weight: 30
 
 ## Lader
 
-- [Hvorfor er min Audi Q4 e-tron ladehastighet mye langsommere enn forventet](whyhpcchargingslow)
+- [Hvorfor lader min Audi Q4 e-tron mye langsommere enn forventet?](whyhpcchargingslow)
 
 ## myAudi-appen
 
