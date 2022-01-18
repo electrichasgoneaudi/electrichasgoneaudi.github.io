@@ -1,13 +1,13 @@
 ---
-title: Hvorfor er ladehastigheten på min Audi e-tron lavere enn forventet?
+title: Hvorfor lader min Audi Q4 e-tron mye langsommere enn forventet?
 linktitle: Ladehastighet
-description: Audi e-tron er en av elbilene som lader raskest, men mange opplever lavere ladehastighet enn forventet. Hvorfor det?
+description: Audi Q4 e-tron kan lade opptil 125KW, men mange opplever lavere ladehastighet enn forventet. Hvorfor det?
 weight: 30
 hidden: true
 ---
 Først. Hva er forventet ladehastighet? Under optimale forhold vil ladekurven se slik ut.
 
-![Ladekurve](chargecurve.jpg "Ladekurve e-tron 55 optimale forhold")
+![Ladekurve](chargecurve.jpg "Ladekurve Audi Q4 e-tron under optimale forhold")
 
 Det betyr at du ofte ser 125KW opp til 35% SOC.
 
@@ -25,7 +25,7 @@ Når batteritemperaturen er kald, klarer ikke kjemien i batteriet å motta samme
 
 #### Hvordan forhindre det?
 
-På Audi e-tron er det ikke mye du kan gjøre mens du kjører, bortsett fra å kjøre lenger før du lader eller hardere som øker temperaturen. På andre modeller som Audi e-tron GT og Audi RS e-tron GT varmer bilen batteriet hvis navigasjonen er satt til en høystrømslader.
+På Audi Q4 e-tron er det ikke mye du kan gjøre mens du kjører, bortsett fra å kjøre lenger før du lader eller hardere som øker temperaturen. På andre modeller som Audi e-tron GT og Audi RS e-tron GT varmer bilen batteriet hvis navigasjonen er satt til en høystrømslader.
 
 ### Årsak 2. Delt infrastruktur
 
