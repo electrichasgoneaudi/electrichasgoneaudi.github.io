@@ -40,8 +40,8 @@ moving from 60AH to 67AH. At the same time, the buffer is expected to be reduced
 
 This should give the following batteries (unconfirmed)
 
-- 79.6 kWh gross / 74.9 kWh net on Audi e-tron 50
-- 105.6 kWh gross / 99 kWh net on Audi e-tron 55 / e-tron S
+- 79.6 kWh gross / 74.9 kWh net on Audi Q8 e-tron 50
+- 105.6 kWh gross / 99 kWh net on Audi Q8 e-tron 55 / e-tron S
 
 Today's Audi e-tron 55/S has a consumption between 19.1kWh/100km and 25.2kWh/100km depending on version and equipment trim. It is expected with new power electronics and some improved aerodynamics
 Audi will be able to lower this to 18.6kWh/100km - 24.7kWh/100km This will give the new Audi Q8 e-tron 55 / Audi Q8 e-tron S a WLTP range between 400km and 532km (248 miles - 330 miles). (up from 343km-452km)
