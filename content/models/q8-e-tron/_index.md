@@ -17,6 +17,7 @@ It is expected that the first owners will receive their Q8 e-tron in Q1 2023. Th
 
 Audi Q8 e-tron has a wide range of options and advanced driving technologies. Here on electrichasgoneaudi.net, you find all details about e-tron. Everything from the different wheels to choose from to how the different driving assist system works.
 
+Wanna keep yourself updated. Join our [Audi Q8 e-tron facebook group](https://www.facebook.com/groups/1070499437069641).
 
 ## Audi Q8 e-tron variants
 

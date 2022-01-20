@@ -18,6 +18,8 @@ Det er forventet at de første eierne vil motta sin Q8 e-tron i Q1 2023. Modelle
 
 Audi Q8 e-tron har et bredt utvalg alternativer og avanserte kjøreteknologier. Her på electrichasgoneaudi.net finner du alle detaljer om e-tron. Alt fra de forskjellige hjulene å velge mellom til hvordan de forskjellige kjøreassistentsystemene fungerer.
 
+Hold deg oppdatert med å melde deg inn i vår [Audi Q8 e-tron owners Norway facebookgruppe](https://www.facebook.com/groups/301614688594314)
+
 ## Audi Q8 e-tron-varianter
 
 Det forventes at Audi Q8 e-tron vil være tilgjengelig i forskjellige varianter med forskjellige karosseridesign, motorer og batterier.
