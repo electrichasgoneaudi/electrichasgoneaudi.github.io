@@ -7,11 +7,11 @@ weight: 3
 <!-- markdownlint-disable MD033 -->
 
 Both SUV and Sportback versions impress with a new spacious dimension in the interior and pioneering solutions when it comes to operation, display, and assist systems. The augmented
-reality head-up display connects the virtual and the real worlds in a totally new way.
+reality head-up display connects the virtual and the real worlds in a new way.
 
 
 
-The world premiere was April 14. 2021.
+The world premiere was on April 14. 2021.
 
 <figure>
     <a href="variants/variants1.jpg">
@@ -40,7 +40,7 @@ Below you find every detail you need to know about the Audi Q4 e-tron and the Au
 
 ### Audi Q4 e-tron drivetrain: Battery and motors
 
-Audi Q4 e-tron is based on the MEB platform that is shared with other models like Skoda Enyaq and Volkswagen ID4 and ID3.
+Audi Q4 e-tron is based on the MEB platform that is shared with other models like Skoda Enyaq, Volkswagen ID4, and ID3.
 
 It is delivered with 2 battery sizes
 
@@ -69,7 +69,7 @@ See all details in the [Audi Q4 e-tron interior section](interior)
 
 Audi Q4 e-tron has a lot of advanced technology. Advanced Matrix lighting, advanced driver assistance systems, Virtual cockpit, AR Head-up display, and many many more
 
-See all details in the [Audi Q4 e-tron technology section](section)
+See all details in the [Audi Q4 e-tron technology section](technology)
 
 ### Audi Q4 e-tron specifications
 

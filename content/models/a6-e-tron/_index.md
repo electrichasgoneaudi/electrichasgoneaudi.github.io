@@ -2,7 +2,7 @@
 title: Audi A6 e-tron
 linktitle: Audi A6 e-tron
 description: Audi A6 e-tron was revealed in April 2021 as a concept car. It is expected to have a world premiere in 2023 and will be the fifth all-electric model from Audi. With range up to 700km it will the model with the longest range.
-weight: 5
+weight: 7
 ---
 
 The concept has 700km WLTP range, a battery on 100kWh net. Indicating that the real consumption for WLTP would be 14.2 kWh/100km.
