@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron GT 360 degree cameras
 linktitle: 360 degree cameras
-description: The four 360 degree cameras on Audi e-tron GT scan the immediate vicinity and display obstacles within. Drivers can choose from different views that simplify parking and maneuvering. 
+description: Audi e-tron GT can be delivered with 360 camera. The four 360 degree cameras on Audi e-tron GT scan the immediate vicinity and display obstacles within. Drivers can choose from different views that simplify parking and maneuvering. 
 weight: 1
 ---
 
@@ -15,6 +15,6 @@ An additional feature for some models is a virtual 3D view. The driver can use t
 
 ![3dview](camera3d_2.jpg "3D view")
 
-360 camera has option id **PCZ**
+360 camera has option id **PCZ**. It is also part of 
 
 {{% children description="true" depth="1" %}}
