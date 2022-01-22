@@ -74,22 +74,10 @@ If build month is 122019 or later it should be a upgraded version
 
 ### MY 2023 (from summer 2022)
 
-This is the first real facelift version of e-tron. It is expected to have a larger battery. What kind of size is currently not confirmed but one theory is that
-they will replace the 432 60AH cells in a 108s4p configuration with a 108s3p configuration with Samsung 94AH cells. In total 324 cells on the e-tron 55.
+This is the first real facelift version of e-tron.
 
-This will keep the nominal voltage at 397 volts but increase gross capacity from 95kWh to 112kWh.  If 108kWh is made available this would increase range
-to 461 - 565km depending on equipment trim this from the current range on 369-452km depending on equipment trim.
+To make the naming logical Audi has decied to rename it to Audi Q8 e-tron.
 
-For the e-tron 50 they could in theory offer a version with 108s2p with only 74kWh gross battery. But this is not likely.
+So 2022 will be the last year of Audi e-tron.
 
-In addition, you could expect some other technical improvements that slightly would reduce consumption. The current minimum WLTP consumption is 19.1 kWh/100km.
-If they are able to reduce this to 18.5 you could see rated range up to 580km.
-
-The latest rumours indicate this facelift will be branded as [Audi Q8 e-tron](../../models/q8-e-tron)
-
-But all is unconfirmed. Will be updated when we know more.
-
-Below there is a Spyshot from [Motor1](https://www.motor1.com/news/538895/audi-e-tron-sportback-spied)
-![Audi e-tron 55 Sportback 2023](2023spyshot.jpg "Audi e-tron 55 Sportback 2023")
-
-![Audi e-tron 55 Sportback 2023](2023spyshot2.jpg "Audi e-tron 55 Sportback 2023")
+See [Audi Q8 e-tron](../../../models/q8-e-tron) for details about the new model.

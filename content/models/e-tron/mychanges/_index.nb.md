@@ -74,18 +74,10 @@ Hvis byggemåneden er 122019 eller senere, bør det være en oppgradert versjon
 
 ### MY 2023 (fra sommeren 2022)
 
-Dette er den første ekte ansiktsløftningen av e-tron. Den forventes å ha et større batteri. Hva slags størrelse er foreløpig ikke bekreftet, men en teori er det de vil erstatte 432 60AH-cellene i en 108s4p-konfigurasjon med en 108s3p-konfigurasjon med Samsung 94AH-celler. Totalt 324 celler på e-tron 55.
+Dette er den første ekte ansiktsløftningsversjonen av e-tron.
 
-Dette vil holde den nominelle spenningen på 397 volt, men øke bruttokapasiteten fra 95kWh til 112kWh. Hvis 108kWh gjøres tilgjengelig vil dette øke rekkevidden til 461 - 565km avhengig av utstyrstrim dette fra gjeldende rekkevidde på 369-452km avhengig av utstyrstrim.
+For å gjøre navngivningen logisk har Audi besluttet å omdøpe den til Audi Q8 e-tron.
 
-For e-tron 50 kunne de i teorien tilby en versjon med 108s2p med kun 74kWh bruttobatteri. Men dette er ikke sannsynlig.
+Så 2022 blir det siste året for Audi e-tron.
 
-I tillegg kan du forvente noen andre tekniske forbedringer som vil redusere forbruket litt. Gjeldende minimums WLTP-forbruk er 19,1 kWh/100 km.
-Hvis de er i stand til å redusere dette til 18,5, kan du se rangert rekkevidde på opptil 580 km.
-
-Men alt er ubekreftet. Oppdateres når vi vet mer.
-
-Nedenfor er det et spionbilder fra [Motor1](https://www.motor1.com/news/538895/audi-e-tron-sportback-spied)
-![Audi e-tron 55 Sportback 2023](2023spyshot.jpg "Audi e-tron 55 Sportback 2023")
-
-![Audi e-tron 55 Sportback 2023](2023spyshot2.jpg "Audi e-tron 55 Sportback 2023")
+Se [Audi Q8 e-tron](../../../models/q8-e-tron) for detaljer om den nye modellen.
