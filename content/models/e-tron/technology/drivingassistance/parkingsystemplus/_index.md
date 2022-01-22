@@ -1,7 +1,7 @@
 ---
-title: Parking system plus
+title: Audi e-tron parking system plus
 linktitle: Parking system plus
-description: Parking system plus informs the driver, visually and audibly, about obstacles in front of and behind the vehicle.
+description: Audi e-tron is equipped with parking system plus. Parking system plus informs the driver, visually and audibly, about obstacles in front of and behind the vehicle.
 weight: 1
 ---
 
@@ -9,6 +9,10 @@ weight: 1
 
  Parking system plus is standard equipment on the Audi e-tron.
 
-![Parking system plus](parkingsystemplus.jpg "Parking system plus")
+![Parking system plus](parkingsystemplus.jpg "Parking system plus indication in mmi")
+
+![Front sensors](frontsensors.jpg "Front sensors")
+
+![Rear sensors](rearsensors.jpg "Rear sensors")
 
 {{% children description="true" depth="1" %}}
