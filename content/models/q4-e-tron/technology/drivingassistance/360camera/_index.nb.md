@@ -1,7 +1,7 @@
 ---
-title: 360 graders kamera
+title: Audi Q4 e-tron 360 graders kamera
 linktitle: 360 graders kamera
-description: De fire 360 graders kameraene på kjøretøyet skanner umiddelbar nærhet og viser hindringer innenfor. Sjåfører kan velge mellom ulike visninger som forenkler parkering og manøvrering.
+description: Audi Q4 e-tron kan leveres med 360 kamera. De fire 360 graders kameraene på kjøretøyet skanner umiddelbar nærhet og viser hindringer innenfor. Sjåfører kan velge mellom ulike visninger som forenkler parkering og manøvrering.
 weight: 1
 ---
 
@@ -15,6 +15,6 @@ En tilleggsfunksjon for noen modeller er en virtuell 3D-visning. Føreren kan br
 
 ![3dview](camera3d_2.jpg "3D-visning")
 
-360-kameraet er original en del av assistentsystempakken pro, men er for øyeblikket ikke tilgjengelig. 
+360-kameraet er original en del av assistentsystempakken pro, men er for øyeblikket ikke tilgjengelig.
 
 {{% children description="true" depth="1" %}}

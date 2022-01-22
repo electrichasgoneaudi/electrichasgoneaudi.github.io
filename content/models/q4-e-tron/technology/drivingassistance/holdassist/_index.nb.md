@@ -1,7 +1,7 @@
 ---
-title: Hold assist
+title: Audi Q4 e-tron hold assist
 linktitle: Hold assist
-description: Hold assist muliggjør praktiske avkjøringer når bilen er på vanlige stigninger og nedstigninger av gatetrafikk, og den hindrer kjøretøyet i å rulle.
+description: Audi Q4 e-tron hold assist. Hold assist muliggjør praktiske avkjøringer når bilen er på vanlige stigninger og nedstigninger av gatetrafikk, og den hindrer kjøretøyet i å rulle.
 weight: 1
 ---
 
@@ -11,4 +11,4 @@ Systemet går automatisk over til den elektromekaniske parkeringsbremsen når bi
 
 MMI -> Bil - > Innstilling & Service -> Hold assist -> på/av 
 
-Hold assist is standard equipment on [Audi Q4 e-tron](../../../)
+Hold assist er standardutstyr på [Audi Q4 e-tron](../../../)

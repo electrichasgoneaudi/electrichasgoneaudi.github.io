@@ -1,7 +1,7 @@
 ---
-title: Hold assist
+title: Audi e-tron GT hold assist
 linktitle: Hold assist
-description: Hold-assistent muliggjør praktiske avkjøringer når bilen er på vanlige stigninger og nedstigninger av gatetrafikk, og den hindrer kjøretøyet i å rulle.
+description: Audi e-tron GT er utstyrt med Hold-assist. Hold-assist muliggjør praktiske avkjøringer når bilen er på vanlige stigninger og nedstigninger av gatetrafikk, og den hindrer kjøretøyet i å rulle.
 weight: 1
 ---
 
@@ -11,4 +11,4 @@ weight: 1
 
 MMI -> Bil - > Innstilling & Service -> Hold assist -> på/av
 
-Hold assist er standardutstyr på Audi e-tron
+Hold assist er standardutstyr på Audi e-tron GT
