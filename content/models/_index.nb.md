@@ -41,6 +41,18 @@ Audi Q4 e-tron og Q4 Sportback e-tron er de første kompakte elektriske SUV-ene 
 
 [Se alle kjente detaljer om Audi Q6 e-tron](/models/q6-e-tron/)
 
+
+## Audi Q8 e-tron
+
+[![Audi Q8 e-tron](/models/q8-e-tron/q8prototypes.jpg)](/models/q8-e-tron/)
+
+Audi Q8 e-tron får verdenspremiere i 2022 og erstatter Audi e-tron. Audi Q8 e-tron er en ansiktsløftning av Audi e-tron og får nytt navn
+for å gjøre den mer logisk navngitt sammen med Q4 e-tron og Q6 e-tron. Batteriet blir litt større som vil øke rekkevidden med 15-20% sammenlignet med Audi e-tron.
+
+[Se alle kjente detaljer om Audi Q8 e-tron](/models/q8-e-tron/)
+
+Meld deg inn i vår norske [Audi Q8 e-tron Facebook gruppe](https://www.facebook.com/groups/301614688594314) for å holde deg oppdatert om modellen.
+
 ## Audi A6 e-tron
 
 [![Audi A6 e-tron](/models/a6-e-tron/a6-etron-1.jpg)](/models/a6-e-tron/)
@@ -56,14 +68,6 @@ Audi A4 e-tron får verdenspremiere i 2024
 ** ubekreftet **
 
 [Se alle kjente detaljer om Audi A4 e-tron](/models/a4-e-tron/)
-
-## Audi Q8 e-tron
-
-Audi Q8 e-tron får verdenspremiere i 2026
-
-** ubekreftet **
-
-[Se alle kjente detaljer om Audi Q8 e-tron](/models/q8-e-tron/)
 
 ## Modellsammenligninger
 

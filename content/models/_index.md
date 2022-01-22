@@ -44,6 +44,17 @@ The Audi Q4 e-tron and the Q4 Sportback e-tron are the first compact electric SU
 
 [See all known details about Audi Q6 e-tron](/models/q6-e-tron/)
 
+## Audi Q8 e-tron
+
+[![Audi Q8 e-tron](/models/q8-e-tron/q8prototypes.jpg)](/models/q8-e-tron/)
+
+Audi Q8 e-tron will have a world premiere in 2022 and will replace the Audi e-tron. The Audi Q8 e-tron is a facelift of the Audi e-tron and is renamed
+to make it more logically named together with the Q4 e-tron and the Q6 e-tron. The battery will be a little larger that will increase the range by 15-20% compared to the Audi e-tron.
+
+[See all known details about Audi Q8 e-tron](/models/q8-e-tron/) 
+
+Also join our [Audi Q8 e-tron facebook group](https://www.facebook.com/groups/1070499437069641) to keep yourself updated on this model.
+
 ## Audi A6 e-tron
 
 [![Audi A6 e-tron](/models/a6-e-tron/a6-etron-1.jpg)](/models/a6-e-tron/)
@@ -58,16 +69,7 @@ Audi A4 e-tron will have a world premiere in 2024
 
 **unconfirmed**
 
-
 [See all known details about Audi A4 e-tron](/models/a4-e-tron/)
-
-## Audi Q8 e-tron
-
-Audi Q8 e-tron will have a world premiere in 2026
-
-**unconfirmed**
-
-[See all known details about Audi Q8 e-tron](/models/q8-e-tron/)
 
 ## Model comparisons
 
