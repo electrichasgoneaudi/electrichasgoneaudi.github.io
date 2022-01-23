@@ -25,7 +25,7 @@ The tour package contains most of the important driver assist functionality  lik
 
 The City assist package include [Side Assist](../technology/drivingassistance/sideassist/), [exit warning](../technology/drivingassistance/exitwarning/), [cross traffic assist rear](../technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](../technology/drivingassistance/presenserear/), [Audi pre sense side](../technology/drivingassistance/presenseside/) and [crossing assist](../technology/drivingassistance/crossingassist/)
 
-![QQ2](../interior/ambientlights/ambientlight_1.jpg)
+![QQ2](../interior/lights/ambientlight_1.jpg)
 
 ## Multicolour ambient lightning: Option ID QQ2
 

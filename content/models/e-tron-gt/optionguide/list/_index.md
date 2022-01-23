@@ -232,7 +232,7 @@ weight: 100
 | [Parking system plus](../../technology/drivingassistance/parkingsystemplus/)  |  standard |   |
 | [Park assist](../../technology/drivingassistance/parkingsystemplus/) | | 7X5 |
 | [360 camera](../../technology/drivingassistance/360camera/) |  |  PCZ |
-| [Reversing camera](../../technolog/drivingassistance/reversingcamera/)
+| [Reversing camera](../../technology/drivingassistance/reversingcamera/)
 | [Traffic sign recognition](../../technology/drivingassistance/trafficsignrecognition/) | Standard  | QR9  |
 | [Audi active lane assist](../../technology/drivingassistance/activelaneassist/) | Standard |  |
 | [Night vision](../../technology/drivingassistance/nightvision/) |   |  9R1 |
