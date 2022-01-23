@@ -1,7 +1,7 @@
 ---
-title: Parking system plus
+title: Audi Q4 e-tron parking system plus
 linktitle: Parking system plus
-description: Parkeringssystem plus informerer føreren, visuelt og hørbart, om hindringer foran og bak kjøretøyet.
+description: Du kan få Audi Q4 e-tron levert med parkeringsystem plus. Parkeringssystem plus informerer føreren, visuelt og hørbart, om hindringer foran og bak kjøretøyet.
 weight: 1
 ---
 
@@ -9,6 +9,10 @@ Advarslene gis når avstanden til en gjenstand i kjørebanen er mindre enn 90 cm
 
   Parkeringssystem pluss er ekstrautstyr på Audi Q4 e-tron. Opsjon **7X2**
 
-![Parking system plus](parkingsystemplus.jpg "Parking system plus")
+![Parking system plus](parkingsystemplus.jpg "Parking system plus med sensorer bak og foran")
+
+![Sensors rear](sensorsrear.jpg "Plassering av bakre sensorer på Audi Q4 e-tron")
+
+![Sensors rear](frontsensors.jpg "Plassering av fremre sensorer på Audi Q4 e-tron")
 
 {{% children description="true" depth="1" %}}

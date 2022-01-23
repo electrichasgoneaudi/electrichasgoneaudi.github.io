@@ -1,7 +1,7 @@
 ---
-title: Adaptive cruise assist
+title: Audi e-tron GT adaptive cruise assist
 linktitle: Adaptive cruise assist
-description: Den adaptive cruiseassistenten er en kombinasjon av adaptiv cruisekontroll og aktiv filassistent.
+description: Audi e-tron GT kan utstyres med adaptive cruise assist. Den adaptive cruiseassistenten er en kombinasjon av adaptiv cruisekontroll og aktiv filassistent.
 weight: 1
 ---
 

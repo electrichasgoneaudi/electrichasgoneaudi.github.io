@@ -1,7 +1,7 @@
 ---
-title: Adaptive cruise control with speed limiter.
+title: Audi e-tron GT adaptive cruise control with speed limiter.
 linktitle: Adaptive cruise control
-description: The Adaptive cruise control (ACC) supports the driver by using the set within the system limits
+description: Audi e-tron GT can be delivered with Adaptive cruise control. The Adaptive cruise control (ACC) supports the driver by using the set within the system limits
 weight: 1
 ---
 

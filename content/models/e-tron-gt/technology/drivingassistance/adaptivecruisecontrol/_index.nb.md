@@ -1,7 +1,7 @@
 ---
-title: Adaptive cruise control med hastighetsbegrensing
+title: Audi e-tron GT adaptive cruise control med hastighetsbegrensing
 linktitle: Adaptive cruise control
-description: Den adaptive cruisekontrollen (ACC) støtter føreren innenfor systemets grenser
+description: Audi e-tron GT kqn utstyres med adaptive cruisecontrol.  Den adaptive cruisekontrollen (ACC) støtter føreren innenfor systemets grenser
 weight: 1
 ---
 
