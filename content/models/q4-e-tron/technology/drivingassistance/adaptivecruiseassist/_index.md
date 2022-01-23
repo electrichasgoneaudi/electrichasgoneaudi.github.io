@@ -1,7 +1,7 @@
 ---
-title: Adaptive cruise assist
+title: Audi Q4 e-tron adaptive cruise assist
 linktitle: Adaptive cruise assist
-description: The adaptive cruise assist is a combination of adaptive cruise control and active lane assist.
+description: Audi Q4 e-tron can be delivered with adaptive cruise assist. The adaptive cruise assist is a combination of adaptive cruise control and active lane assist.
 weight: 1
 ---
 
