@@ -1,7 +1,7 @@
 ---
-title: Nødstoppassistent
+title: Audi Q4 e-tron nødstoppassistent
 linktitle: Nødstoppassistent
-description: Nødstoppassistenten oppdager, innenfor systemets grenser, når føreren er inaktiv. I et slikt tilfelle overtar systemet kontroll over kjøretøyet og bremser det automatisk til stillestående i sin egen kjørebane.
+description: Audi Q4 e-tron kan leveres med nødstoppassiten. Nødstoppassistenten oppdager, innenfor systemets grenser, når føreren er inaktiv. I et slikt tilfelle overtar systemet kontroll over kjøretøyet og bremser det automatisk til stillestående i sin egen kjørebane.
 weight: 1
 ---
 

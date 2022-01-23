@@ -1,7 +1,7 @@
 ---
-title: Emergency assist
+title: Audi e-tron emergency assist
 linktitle: Emergency assist
-description: Emergency assist detects, within system limits, when the driver is inactive. In such a case, the system assumes control of the vehicle and automatically brakes it to a standstill in its own lane.
+description: Audi e-tron can be delivered with emergency assist. Emergency assist detects, within system limits, when the driver is inactive. In such a case, the system assumes control of the vehicle and automatically brakes it to a standstill in its own lane.
 weight: 1
 ---
 
