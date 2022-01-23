@@ -1,7 +1,7 @@
 ---
-title: Predictive efficiency assist
+title: Audi Q4 e-tron predictive efficiency assist
 linktitle: Efficiency assist
-description: Predictive Efficiency assist helps the driver to drive preemptively and save energy. 
+description: Audi Q4 e-tron can be equipped with predictive efficiency assist. Predictive Efficiency assist helps the driver to drive preemptively and save energy. 
 weight: 1
 ---
 

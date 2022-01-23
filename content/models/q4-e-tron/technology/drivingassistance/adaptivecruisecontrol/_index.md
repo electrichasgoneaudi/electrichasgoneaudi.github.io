@@ -1,11 +1,11 @@
 ---
-title: Adaptive cruise control with speed limiter.
+title: Audi Q4 e-tron adaptive cruise control with speed limiter.
 linktitle: Adaptive cruise control
-description: The Adaptive cruise control (ACC) supports the driver within the system limits
+description: Audi Q4 e-tron can be delivered with adaptive cruise control. The Adaptive cruise control (ACC) supports the driver within the system limits
 weight: 1
 ---
 
-Speed ​​and the distance to the vehicle in front. If a vehicle in front is detected, it can brake or accelerate the vehicle within the system limits. Even in stop-and-go traffic and in
+Speed and the distance to the vehicle in front. If a vehicle in front is detected, it can brake or accelerate the vehicle within the system limits. Even in stop-and-go traffic and in
 
 The system brakes traffic jams to a standstill and can be automated again depending on the duration of the downtime
 approach.
@@ -15,7 +15,7 @@ comfortable driving in the range from 0 to a maximum of 200 km / h. The system u
 
 The included speed limiter helps not to exceed a previously set maximum speed when driving manually. The speed limiter operation can be temporarily deactivated via kick-down and the set maximum speed is exceeded. The function is available from approx. 30 km / h
 
-![Cruise control handle](cruisecontrol.jpg "The cruise control handle controls the function. ")
+![Cruise control handle](cruisecontrol.jpg "The cruise control handle controls the function including controlling the distance to the car in front.")
 
 You enable the cruise control with pressing the buttom at the end. Or you can resume earlier speed with pulling the lever.
 

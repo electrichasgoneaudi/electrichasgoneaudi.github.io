@@ -1,7 +1,7 @@
 ---
-title: Effektivitetsassistent
+title: Audi Q4 e-tron effektivitetsassistent
 linktitle: Effektivitetsassistent
-description: Effektivitetsassistenten hjelper sjåføren å kjøre mest mulig energieffektivt. 
+description: Audi Q4 e-tron kan utstyres med effektivitetsassistent. Effektivitetsassistenten hjelper sjåføren å kjøre mest mulig energieffektivt. 
 weight: 1
 ---
 

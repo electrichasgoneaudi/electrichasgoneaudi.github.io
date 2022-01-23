@@ -1,7 +1,7 @@
 ---
-title: Assistent for kryssende trafikk bak
+title: Audi Q4 e-tron assistent for kryssende trafikk bak
 linktitle: Cross traffic assist rear
-description: Assistent for kryssende trafikk bak advarer føreren om kjøretøyer som nærmer seg den anser som kritiske når han rygger sakte, for eksempel når han kjører ut av en vinkelrett parkeringsplass. 
+description: Audi Q4 e-tron kan utstyres med assistent for kryssende trafikk bak. Assistent for kryssende trafikk bak advarer føreren om kjøretøyer som nærmer seg den anser som kritiske når han rygger sakte, for eksempel når han kjører ut av en vinkelrett parkeringsplass. 
 weight: 1
 ---
 

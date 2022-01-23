@@ -1,7 +1,7 @@
 ---
-title: Cruise control
+title: Audi Q4 e-tron cruise control
 linktitle: Cruise control
-description: Cruise control maintains a desired driving speed constantly starting at around 30 km/h (18.6 mph), provided that it can be maintained by engine power and engine braking effects. 
+description: Audi Q4 e-tron can be equipped with cruise control. Cruise control maintains a desired driving speed constantly starting at around 30 km/h (18.6 mph), provided that it can be maintained by engine power and engine braking effects. 
 weight: 1
 ---
 

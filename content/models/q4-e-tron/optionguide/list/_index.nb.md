@@ -243,7 +243,7 @@ Audi Q4 e-tron har en rekke infotainmentvalg. Klikk nedfor for detaljert informa
 | [Active lane assist](../../technology/drivingassistance/activelaneassist/) | Standard | 6I3 | 
 | [Collision avoidance assist](../../technology/drivingassistance/collisionavoidanceassist/) | Standard | 4G3 |
 | [Audi Pre Sense Front](../../technology/drivingassistance/presensefront/) | Standard | 8J3 |
-| [Parkeringssystem bak](../../technology/drivingassistance/parkingsystemplus/) | Standard | 7X1 |
+| [Parkeringssystem bak](../../technology/drivingassistance/parkingsystemrear/) | Standard | 7X1 |
 | [Parkeringshjelp plus](../../technology/drivingassistance/parkingsystemplus/)| Front sensors | 7X2 |
 | [Ryggekamera](../../technology/drivingassistance/reversingcamera/)  |  Rear camera | KA2 |
 |  Assistentsystempakke |  Inkluderer  [Cruise control med hastighetsbegrenser](../../technology/drivingassistance/cruisecontrol/) og [Parking system plus](../../technology/drivingassistance/parkingsystemplus/) | PYK |
