@@ -560,3 +560,59 @@ Color Code: **X6R**
     </a>
     <figcaption><h4>Audi e-tron S in Sonoma Green</h4></figcaption>
 </figure>
+
+
+### Goodwood Green
+
+Color code: Z6X
+
+From Audi Smista [@audismista](https://www.instagram.com/audismista/?hl=en) 
+
+<figure>
+    <a href="paint_goodwoodgreen_1.jpg">
+        <img src="paint_goodwoodgreen_1s.jpg" alt="Audi e-tron in Goodwood Green" title="Audi e-tron in Goodwood Green">
+    </a>
+    <figcaption><h4>Audi e-tron in Goodwood Green</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_goodwoodgreen_2.jpg">
+        <img src="paint_goodwoodgreen_2s.jpg" alt="Audi e-tron in Goodwood Green" title="Audi e-tron in Goodwood Green">
+    </a>
+    <figcaption><h4>Audi e-tron in Goodwood Green</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_goodwoodgreen_3.jpg">
+        <img src="paint_goodwoodgreen_3s.jpg" alt="Audi e-tron in Goodwood Green" title="Audi e-tron in Goodwood Green">
+    </a>
+    <figcaption><h4>Audi e-tron in Goodwood Green</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_goodwoodgreen_4.jpg">
+        <img src="paint_goodwoodgreen_4s.jpg" alt="Audi e-tron in Goodwood Green" title="Audi e-tron in Goodwood Green">
+    </a>
+    <figcaption><h4>Audi e-tron in Goodwood Green</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_goodwoodgreen_5.jpg">
+        <img src="paint_goodwoodgreen_5s.jpg" alt="Audi e-tron in Goodwood Green" title="Audi e-tron in Goodwood Green">
+    </a>
+    <figcaption><h4>Audi e-tron in Goodwood Green</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_goodwoodgreen_6.jpg">
+        <img src="paint_goodwoodgreen_6s.jpg" alt="Audi e-tron in Goodwood Green" title="Audi e-tron in Goodwood Green">
+    </a>
+    <figcaption><h4>Audi e-tron in Goodwood Green</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="paint_goodwoodgreen_7.jpg">
+        <img src="paint_goodwoodgreen_7s.jpg" alt="Audi e-tron in Goodwood Green" title="Audi e-tron in Goodwood Green">
+    </a>
+    <figcaption><h4>Audi e-tron in Goodwood Green</h4></figcaption>
+</figure>
