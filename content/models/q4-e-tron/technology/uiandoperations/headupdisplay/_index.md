@@ -1,6 +1,6 @@
 ---
-title: Heads up display
-linktitle: Heads up display
+title: Audi Q4 e-tron head-up display
+linktitle: Head-up display
 description: With the optional augmented reality head-up display in the Q4 e-tron and Q4 Sportback e-tron, Audi is taking a huge step forward in display technology.
 weight: 3
 ---

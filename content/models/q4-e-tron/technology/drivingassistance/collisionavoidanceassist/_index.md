@@ -1,7 +1,7 @@
 ---
-title: Collision avoidance assist
+title: Audi Q4 e-tron collision avoidance assist
 linktitle: Collision avoidance assist
-description: Collision avoidance assist helps the driver steer around an obstacle in a critical situation. 
+description: Audi Q4 e-tron is equipped with collision avoidance assist. Collision avoidance assist helps the driver steer around an obstacle in a critical situation. 
 weight: 1
 ---
 

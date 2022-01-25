@@ -1,5 +1,5 @@
 ---
-title: Sikkerhetsteknologier
+title: Audi Q4 e-tron sikkerhetsteknologier
 linktitle: Sikkerhet
 description: Audi Q4 e-tron har flere sikkerhetsteknologier for å redusere skader ved kollisjoner
 weight: 10

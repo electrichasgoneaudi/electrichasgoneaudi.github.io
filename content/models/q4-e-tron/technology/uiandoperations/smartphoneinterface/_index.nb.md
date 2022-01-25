@@ -1,7 +1,7 @@
 ---
-title: Smartphone Interface
+title: Audi Q4 e-tron smartphone Interface
 linktitle: Smartphone Interface
-description: With the Smartphone Interface option you expand your smartphone in to the MMI system
+description: Med smarttelefongrensesnittet på Audi Q4 e-tron utvider du smarttelefonen til MMI-systemet
 weight: 4
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Safety technology
+title: Audi Q4 e-tron safety technology
 linktitle: Safety
 description: Audi Q4 e-tron has an serveral safety technologies to reduce damage in collisions
 weight: 10

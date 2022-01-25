@@ -1,11 +1,11 @@
 ---
-title: Exit warning
+title: Audi Q4 e-tron exit warning
 linktitle: Exit warning
-description: Exit warning improves safety in city traffic. If the car has come to a stop and other vehicles or bicyclists classified as critical are approaching from the rear, the system warns passengers not to open the doors.
+description: Audi Q4 e-tron can be equipped with exit warning. Exit warning improves safety in city traffic. If the car has come to a stop and other vehicles or bicyclists classified as critical are approaching from the rear, the system warns passengers not to open the doors.
 weight: 1
 ---
 
-![Exit warning](exitwarning.jpg "Exit warning")
+![Exit warning](exitwarning.jpg "Exit warning Audi Q4 e-tron")
 
  The system does this using LED lights in the door panels. In a situation assessed to be hazardous, the LEDs flicker and light red. The LEDs of Audi side assist are also lit in the relevant exterior side mirror. The exit warning remains active for approximately three minutes after the ignition is turned off.
 

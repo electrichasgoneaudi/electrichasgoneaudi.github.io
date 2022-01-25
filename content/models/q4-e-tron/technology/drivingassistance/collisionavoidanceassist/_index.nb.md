@@ -1,7 +1,7 @@
 ---
-title: Unnamanøvreringsassistent
+title: Audi Q4 e-tron unnamanøvreringsassistent
 linktitle: Unnamanøvreringsassistent
-description: Unnamanøvreringsassistent hjelper føreren med å styre rundt en hindring i en kritisk situasjon.
+description: Audi Q4 e-tron unnamanøvreringsassistent. Unnamanøvreringsassistent hjelper føreren med å styre rundt en hindring i en kritisk situasjon.
 weight: 1
 ---
 
@@ -11,6 +11,6 @@ Først produseres et støt for å advare føreren om faren. Hvis sjåføren da a
 
 ![Collisionavoidance](collisionavoidance.jpg "Kollisjonsunngåelse")
 
-Collision Avoidance er standardutstyr på Audi Q4 e-tron. OptionID **4G3**
+Unnamanøvreringsassistent er standardutstyr på Audi Q4 e-tron. Tilvalgs id **4G3**
 
 {{% children description="true" depth="1" %}}
