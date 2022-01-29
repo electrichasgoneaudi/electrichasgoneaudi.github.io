@@ -1,5 +1,5 @@
 ---
-title: Climate control
+title: Audi e-tron climate control
 linktitle: Climate control
 description: Audi e-tron is equipped with a 2-zone electronic climate control with heat pump as standard.
 weight: 10

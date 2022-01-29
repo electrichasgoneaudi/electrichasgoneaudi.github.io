@@ -1,7 +1,7 @@
 ---
-title: Function on demand
+title: Audi e-tron function on demand
 linktitle: Function on demand
-description: Audi e-tron supports function on demand
+description: Audi e-tron supports function on demand.
 weight: 12
 ---
 

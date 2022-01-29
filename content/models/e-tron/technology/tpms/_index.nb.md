@@ -1,5 +1,5 @@
 ---
-title: Dekktrykkskontroll
+title: Audi e-tron dekktrykkskontroll (TPMS)
 linktitle: TPMS
 description: Audi e-tron har to forskjellige TPMS-systemer å velge mellom.
 weight: 8

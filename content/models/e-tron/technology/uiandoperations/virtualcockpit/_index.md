@@ -1,5 +1,5 @@
 ---
-title: Virtual Cockpit
+title: Audi e-tron virtual Cockpit
 linktitle: Virtual Cockpit
 description: The Audi virtual cockpit is a fully digital instrument cluster with a 12.3-inch TFT screen.
 weight: 3

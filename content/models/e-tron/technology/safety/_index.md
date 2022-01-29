@@ -1,5 +1,5 @@
 ---
-title: Safety technology
+title: Audi e-tron safety technology
 linktitle: Safety
 description: Audi e-tron has an serveral safety technologies to reduce damage in collisions
 weight: 10
@@ -31,8 +31,6 @@ In rear the side air bags is optional. The option ID is **4X4**. It is also
 included in the Audi Pre senmse backseat package **4X9**
 
 ![Side airbags rear](airbagssiderear.jpg "Air bag side rear is optinal. Only head airbags are stanard on e-tron")
-
-
 
 ## Seat belts
 

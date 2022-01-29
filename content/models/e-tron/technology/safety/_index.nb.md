@@ -1,5 +1,5 @@
 ---
-title: Sikkerhetsteknologier
+title: Audi e-tron sikkerhetsteknologier
 linktitle: Sikkerhet
 description: Audi e-tron har flere sikkerhetsteknologier for å redusere skader ved kollisjoner
 weight: 10
@@ -31,8 +31,6 @@ På baksiden er sidekollisjonsputene valgfritt. Alternativ-ID er **4X4**. Det er
 inkludert i Audi Pre senmse baksetepakke **4X9**
 
 ![Sidekollisjonsputer bak](airbagssiderear.jpg "Airbagsiden av kollisjonsputen er optional. Bare hodekollisjonsputer er standard på e-tron")
-
-
 
 ## Setebelter
 

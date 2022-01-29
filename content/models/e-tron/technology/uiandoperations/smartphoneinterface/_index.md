@@ -1,5 +1,5 @@
 ---
-title: Smartphone Interface
+title: Audi e-tron smartphone Interface
 linktitle: Smartphone Interface
 description: With the Smartphone Interface option you expand your smartphone in to the MMI system
 weight: 5

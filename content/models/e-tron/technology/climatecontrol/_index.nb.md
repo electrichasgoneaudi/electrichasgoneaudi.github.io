@@ -1,5 +1,5 @@
 ---
-title: Klimaanlegg
+title: Audi e-tron klimaanlegg
 linktitle: Klimaanlegg
 description: Audi e-tron er utstyrt med 2-soners elektronisk klimaanlegg med varmepumpe som standard.
 weight: 10

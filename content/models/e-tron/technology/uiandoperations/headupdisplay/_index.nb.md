@@ -1,5 +1,5 @@
 ---
-title: Heads up display
+title: Audi e-tron heads up display
 linktitle: Heads up display
 description: Audi e-tron kan utstyres med head-up-display
 weight: 4
