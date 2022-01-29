@@ -1,7 +1,7 @@
 ---
-title: Traffic sign recognition
+title: Audi Q4 e-tron traffic sign recognition
 linktitle: Traffic sign recognition
-description: Camera-based traffic sign recognition detects traffic signs such as speed limit signs (including digital signs), no passing zones, entry restriction signs and other auxiliary signs, and it shows them to the driver in graphic form.
+description: Audi Q4 e-tron can be equipped with traffic sign recognition. Camera-based traffic sign recognition detects traffic signs such as speed limit signs (including digital signs), no passing zones, entry restriction signs and other auxiliary signs, and it shows them to the driver in graphic form.
 weight: 1
 ---
 
@@ -9,6 +9,6 @@ weight: 1
 
 ![Virtual cockpit](virtualcockpit.jpg "Traffic sign information in virtual cockpit")
 
-This optiokn is part of the [navigation packages](../../../optionguide/list/#infotainment) PYG/PYH.
+This option is part of the [navigation packages](../../../optionguide/list/#infotainment) PYG/PYH.
 
 {{% children description="true" depth="1" %}}

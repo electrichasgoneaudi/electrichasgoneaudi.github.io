@@ -14,6 +14,8 @@ Den blå overflaten på kamerabildet indikerer hvor kjøretøyet vil bli plasser
 
  ![Camera](camera.jpg "Ryggekameraet er integrert i håndtakslist på bagasjeromslokket")
 
+![Camera](camera3.jpg "Ryggekameraet har innebygd rengjøringsfunksjon")
+
 Kameraet aktiveres så snart føreren setter bilen i revers eller trykker på kameraknapp i MMI knappen.
 
 Ryggekamera er tilvalg til Audi Q4 e-tron. Er inkludert i assistentsystempakken pluss **PYL** og pro **PY7**

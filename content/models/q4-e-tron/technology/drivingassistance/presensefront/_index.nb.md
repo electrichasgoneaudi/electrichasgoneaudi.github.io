@@ -1,7 +1,7 @@
 ---
-title: Pre sense front
+title: Audi Q4 e-tron pre sense front
 linktitle: Pre sense front
-description: Audi pre sense front bruker data fra radarsensorer og frontkameraet for å beregne sannsynligheten for en kollisjon. Innenfor systemets begrensninger advarer det om kollisjonstrusler og setter i gang bremsing ved spesifikke kjøretøyhastigheter.
+description: Audi Q4 e-tron er utstyrt med pre sense front. Pre sense front bruker data fra radarsensorer og frontkameraet for å beregne sannsynligheten for en kollisjon. Innenfor systemets begrensninger advarer det om kollisjonstrusler og setter i gang bremsing ved spesifikke kjøretøyhastigheter.
 weight: 1
 ---
 

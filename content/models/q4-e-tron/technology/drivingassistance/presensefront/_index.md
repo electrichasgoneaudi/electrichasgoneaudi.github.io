@@ -1,7 +1,7 @@
 ---
-title: Pre sense front
+title: Audi Q4 e-tron pre sense front
 linktitle: Pre sense front
-description: Audi pre sense front utilize the data of radar sensors and the front camera to compute the probability of a collision. Within the limitations of the system, it warns of collision threats and initiates braking at specific vehicle speeds.
+description: Audi Q4 e-tron is equipped wioth pre sense front. Pre sense front utilize the data of radar sensors and the front camera to compute the probability of a collision. Within the limitations of the system, it warns of collision threats and initiates braking at specific vehicle speeds.
 weight: 1
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Pre sense basic
+title: Audi Q4 e-tron pre sense basic
 linktitle: Pre Sense basic
-description: Audi pre sense basic initiates preventive safety measures for occupants as soon as it recognizes a critical driving state.
+description: Audi Q4 e-tron can be equipped with Audi pre sense basic assist system. Audi Pre sense basic initiates preventive safety measures for occupants as soon as it recognizes a critical driving state.
 weight: 1
 ---
 
