@@ -1,7 +1,7 @@
 ---
-title: Fjernlysassistent 
+title: Audi e-tron GT fjernlysassistent 
 linktitle: Fjernlysassistent
-description: Fjernlysassistent bruker et kamera montert på det innvendige speilet.
+description: Audi e-tron GT er utstyrt med fjernlysassistent. Fjernlysassistenten bruker et kamera montert på det innvendige speilet.
 weight: 1
 ---
 

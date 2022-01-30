@@ -1,7 +1,7 @@
 ---
-title: Effektivitetsassistent
+title: Audi e-tron GT effektivitetsassistent
 linktitle: Effektivitetsassistent
-description: Effektivitetsassistenten hjelper sjåføren å kjøre mest mulig energieffektivt. 
+description: Audi e-tron GT kan utstyres med effektivitetsassistent. Effektivitetsassistenten hjelper sjåføren å kjøre mest mulig energieffektivt. 
 weight: 1
 ---
 

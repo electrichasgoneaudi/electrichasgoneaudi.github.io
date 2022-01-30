@@ -1,12 +1,29 @@
 ---
-title: Park assist
-linktitle: Park assist
-description: Parkeringsassistent kan automatisk styre bilen inn på parallelle eller vinkelrette parkeringsplasser. Den bruker ultralydsensorer plassert i støtfangerne foran og bak og på sidene. Føreren trenger bare å akselerere, bremse og skifte gir.
+title: Audi e-tron GT parkeringsassistent
+linktitle: Parkeringsassistent
+description: Parkeringsassistenten bruker ultralydsensorer for å søke etter egnede parkeringsluker langs veien. Den beregner ideelle innkjøringsmanøvre (forover og bakover) for tverrgående parkeringsluker og inn- og utkjøringsmanøvre for langsgående parkeringsluker.
 weight: 1
 ---
 
-Sensorene måler parkeringsplasser langs veien mens de kjører forbi dem i moderat hastighet – maksimalt 20 km/t (12,4 mph) for vinkelrette parkeringsplasser og maksimalt 30 km/t (18,6 mph) for parallelle plasser. En melding vises på MMI-displayet når systemet finner et passende sted. De eneste handlingene som kreves av sjåføren under parkering er akselerasjon, girskift og bremsing. Systemet håndterer styringen. I tillegg hjelper lydsignaler føreren. Parkeringsassistent vil gjøre flere manøvrer, forover og bakover, om nødvendig. Det kan også gå ut fra parallelle parkeringsplasser. Avhengig av modell aktiverer føreren systemet enten via en knapp på midtkonsollen eller en knapp i det nedre infotainmentdisplayet. Maksimal hastighet for alle manøvrer er 7 km/t (4,3 mph).
+Systemet hjelper deg når du skal manøvrere inn i og ut av parkeringsluker. Du behøver bare skifte gir, gi gass og
+bremse i henhold til anvisningene på skjermen, og overvåke parkeringsprosessen. Systemet støtter parkering i flere
+trinn. Det kan vise forventet kjørebane basert på rattutslaget og på den måten advare deg om hindringer ved siden av
+bilen.
 
-Parkeringsassistent har opsjons-ID **7X5** og er tilgjengelig som funksjon på forespørsel via myAudiApp
+![Parking assist](parkassist.jpg " Du aktiverer søk etter parkeringsluker med en tast i midtkonsollen når parkeringshjelpen er slått på i displayet.")
+
+Dine fordeler:
+
+- Hjelper deg å finne passende parkeringsluker langs veien
+- Støtter parkering i flere trinn
+- Varsler om hindringer ved siden av bilen
+- Beregner innkjøringsmanøvre og styrer bilen inn i tverrgående og langsgående parkeringsluker
+- Beregner utkjøringsmanøvre og styrer bilen ut av langsgående parkeringsluker
+
+Se video nedenfor hvordan systemet fungerer demonsterert på en Audi Q7
+
+{{< youtube cgnwnKd4R4Y >}}
+
+Er en del av Assistentpakken Parkering med parkeringsassistent plus med alternativ id **PCV**
 
 {{% children description="true" depth="1" %}}

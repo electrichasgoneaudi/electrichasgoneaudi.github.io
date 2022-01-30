@@ -1,7 +1,7 @@
 ---
-title: High-beam assist
+title: Audi e-tron GT high-beam assist
 linktitle: High-beam assist
-description: High-beam assist utilizes a camera mounted on the interior mirror.
+description: Audi e-tron GT is equipped with high-beam assist. High-beam assist utilizes a camera mounted on the interior mirror.
 weight: 1
 ---
 

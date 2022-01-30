@@ -1,7 +1,7 @@
 ---
-title: Avstandvarsling
+title: Audi e-tron GT avstandvarsling
 linktitle: Avstandvarsling
-description: Avstandsvarslingen varsler deg når du kjører for nærme bilen foran deg.
+description: Audi e-tron GT er utstyrt med avstandsvarling. Avstandsvarslingen varsler deg når du kjører for nærme bilen foran deg.
 weight: 1
 ---
 De fleste andre sjåfører ville ikke tro at noen Audi har slikt utstyr. Den kan justeres til 1, 2 eller 3 sekunder

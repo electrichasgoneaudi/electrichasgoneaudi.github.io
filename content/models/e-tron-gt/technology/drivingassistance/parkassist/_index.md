@@ -1,12 +1,30 @@
 ---
-title: Park assist
+title: Audi e-tron GT park assist
 linktitle: Park assist
-description: Park assist can automatically steer the car into parallel or perpendicular parking spaces. It uses ultrasonic sensors located in the front and rear bumpers and on the sides. The driver only has to accelerate, brake and shift gears.
+description: The park assist uses ultrasonic sensors to search for suitable parking spaces along the road. It calculates ideal entry maneuvers (forward and backward) for transverse parking space and entry and exit maneuvers for longitudinal parking space.
 weight: 1
 ---
 
-The sensors measure parking spaces along the road while driving past them at moderate speed – a maximum of 20 km/h (12.4 mph) for perpendicular parking spaces and a maximum of 30 km/h (18.6 mph) for parallel spaces. A message appears on the MMI display when the system finds a suitable spot. The only actions required of the driver while parking are accelerating, shifting gears and braking. The system handles the steering. In addition, audible signals help the driver. Park assist will make multiple maneuvers, forwards and backwards, if necessary. It can also exit from parallel parking spaces. Depending on the model, the driver activates the system via either a button on the center console or a button in the lower infotainment display. The maximum speed for all maneuvers is 7 km/h (4.3 mph).
+The system helps you when you have to maneuver in and out of parking spaces. You just need to shift gears, accelerate and
+brake according to the on-screen instructions, and monitor the parking process. The system supports parking in several
+step. It can show the expected lane based on the steering angle and thus warn of obstacles next to it
+the car. 
 
-Park assist has option id **7X5** and is available as function on demand throug the myAudiApp
+![Parking assist](parkassist.jpg "You activate the search for parking spaces with a button in the center console when the parking aid is switched on in the display.")
 
-{{% children description="true" depth="1" %}}
+Your benefits:
+
+- Helps you find suitable parking hatches along the road
+- Supports parking in several steps
+- Alerts of obstacles next to the car
+- Calculates the drive-in maneuver and steers the car into transverse and longitudinal parking hatches
+- Calculates exit maneuvers and steers the car out of longitudinal parking hatches
+
+In the video below the system is demonstrated on a Audi Q7
+
+{{< youtube cgnwnKd4R4Y >}}
+
+
+Is part of the Assistant package Parking with parking assistant plus with alternative id **PCV**
+
+{{% children description = "true" depth = "1"%}}
