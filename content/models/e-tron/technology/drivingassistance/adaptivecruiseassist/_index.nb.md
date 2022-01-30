@@ -1,11 +1,11 @@
 ---
-title: Adaptive cruise assist
-linktitle: Adaptive cruise assist
-description: Den adaptive cruiseassistenten er en kombinasjon av adaptiv cruisekontroll og aktiv filassistent.
+title: Audi e-tron adaptiv kjøreassistent
+linktitle: Adaptiv kjøreassistent
+description: Audi e-tron kan utstyres med adaptiv kjøreassistent. Den adaptive kjøreassistenten er en kombinasjon av adaptiv cruisekontroll og aktiv filassistent.
 weight: 1
 ---
 
-Den adaptive cruiseassistenten støtter føreren i å akselerere, bremse, opprettholde hastighet og avstand
+Den adaptive kjøreassistenten støtter føreren i å akselerere, bremse, opprettholde hastighet og avstand
 samt i kjørefeltveiledning.
 
 Dette kan øke kjørekomforten, spesielt på lange reiser. Systemet gjenkjenner kjørefeltmerker, sidestrukturer, kjøretøy i tilstøtende kjørefelt og flere kjøretøy foran innenfor rammen av systemgrensene. Fra denne informasjonen utleder systemet en virtuell kjørebane og gjør det

@@ -1,5 +1,5 @@
 ---
-title: Inlays
+title: Audi e-tron inlays
 linktitle: Inlays
 description: You can choose between different inlays
 weight: 3
