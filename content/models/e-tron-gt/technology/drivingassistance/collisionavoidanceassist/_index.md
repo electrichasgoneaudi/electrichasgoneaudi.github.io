@@ -1,7 +1,7 @@
 ---
-title: Collision avoidance assist
+title: Audi e-tron GT collision avoidance assist
 linktitle: Collision avoidance assist
-description: Collision avoidance assist helps the driver steer around an obstacle in a critical situation. 
+description: Audi e-tron GT can be equipped with collision avoidance assist. Collision avoidance assist helps the driver steer around an obstacle in a critical situation. 
 weight: 1
 ---
 
@@ -11,6 +11,6 @@ First, a jolt is produced to warn the driver of the hazard. If the driver then a
 
 ![Collision avoidance](collisionavoidance.jpg "Collision avoidance")
 
-This is part of the tour package with option id PCC on Audi e-tron
+This is part of the tour package with option id **PCC** on Audi e-tron GT
 
 {{% children description="true" depth="1" %}}

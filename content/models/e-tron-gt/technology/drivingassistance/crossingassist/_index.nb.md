@@ -1,7 +1,7 @@
 ---
-title: Gatekryssassistent
+title: Audi e-tron GT gatekryssassistent
 linktitle: Gatekryssassistent
-description: Gatekryssassistent gjenkjenner kritisk krysstrafikk foran bilen og advarer føreren om det både visuelt og hørbart.
+description: Audi e-tron GT kan leveres med gatekryssassistent. Gatekryssassistenten gjenkjenner kritisk krysstrafikk foran bilen og advarer føreren om det både visuelt og hørbart.
 weight: 1
 ---
 
@@ -15,6 +15,6 @@ Hvis sjåføren ønsker å lette inn i et kryss eller avkjørsel med dårlig sik
 
 {{< youtube k_U-cGCNYtQ >}}
 
-Dette er en del av bypakken med opsjons-id PCM på Audi e-tron
+Dette er en del av assistentpakke-by med tilvalgs-id **PCM** på Audi e-tron GT
 
 {{% children description="true" depth="1" %}}

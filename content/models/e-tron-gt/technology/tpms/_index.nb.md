@@ -1,11 +1,11 @@
 ---
-title: Dekktrykkskontroll
+title: Audi e-tron GT Dekktrykkskontroll
 linktitle: TPMS
-description: Audi e-tron har to forskjellige TPMS-systemer å velge mellom.
+description: Audi e-tron GT har to forskjellige TPMS-systemer å velge mellom.
 weight: 8
 ---
 
-Audi e-tron er utstyrt med et indirekte TPMS-system som standard. Dette betyr at den bruker ABS-sensoren til å oppdage om det er hjul med lavt trykk sammenlignet med de andre.
+Audi e-tron GT er utstyrt med et indirekte TPMS-system som standard. Dette betyr at den bruker ABS-sensoren til å oppdage om det er hjul med lavt trykk sammenlignet med de andre.
 
 ### Direkte TPMS
 

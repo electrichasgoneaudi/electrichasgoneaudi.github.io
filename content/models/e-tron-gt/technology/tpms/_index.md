@@ -1,11 +1,11 @@
 ---
-title: Tire Pressure Monitoring System TPMS
+title: Audi e-tron GT Tire Pressure Monitoring System TPMS
 linktitle: TPMS
 description: Audi e-tron GT has two different TPMS systems to choose from.
 weight: 8
 ---
 
-Audi e-tron is GT equipped with an indirect TPMS system as standard.  This means it uses the ABS sensor to detect if there are wheels with low pressure compared to the others.
+Audi e-tron GT is equipped with an indirect TPMS system as standard.  This means it uses the ABS sensor to detect if there are wheels with low pressure compared to the others.
 
 ### Direct TPMS
 

@@ -15,13 +15,13 @@ komfortabel kjøring i området fra 0 til maksimalt 200 km/t. Systemet bruker ra
 
 Den medfølgende fartsbegrenseren hjelper til med å ikke overskride en tidligere innstilt maksimal hastighet ved manuell kjøring. Hastighetsbegrenseren kan deaktiveres midlertidig via kick-down og innstilt maksimal hastighet overskrides. Funksjonen er tilgjengelig fra ca. 30 km/t
 
-![Cruisekontrollhåndtak](cruisecontrol.jpg "Cruisekontrollhåndtaket styrer funksjonen. ")
+![Cruisekontrollhåndtak](cruisecontrol.jpg "Cruisekontrollhåndtaket styrer funksjonen inkludert avstand til bil foran.")
 
 Du aktiverer cruisekontrollen ved å trykke på knappen på slutten. Eller du kan gjenoppta tidligere hastighet ved å trekke i spaken.
 
 Hastigheten justeres ved å skyve spaken opp og ned. Du kan kontrollere avstanden til bilen foran med avstandsknappen.
 Lim-knappen på toppen aktiverer hastighetsbegrenseren.
 
-Dette alternativet er en del av tursjåførassistansepakken med alternativ-ID **PCC**
+Dette alternativet er en del av assistentpakken tur med tilvalgsid-ID **PCC**
 
 {{% children description="true" depth="1" %}}

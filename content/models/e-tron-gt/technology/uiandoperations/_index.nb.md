@@ -1,5 +1,5 @@
 ---
-title: Brukergrensesnitt og kontroll
+title: Audi e-tron GT brukergrensesnitt og kontroll
 linktitle: Brukergrensesnitt
 description: Brukergrensesnittet og kontroll er atskilt i separate områder i Audi e-tron GT / Audi RS e-tron GT.
 weight: 4

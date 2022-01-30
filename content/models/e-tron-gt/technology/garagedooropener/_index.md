@@ -1,5 +1,5 @@
 ---
-title: Audi e-tron garage door opener
+title: Audi e-tron GT garage door opener
 linktitle: Garage door opener
 description: You can order Audi e-tron GT with a programmable garage door opener. 
 weight: 15

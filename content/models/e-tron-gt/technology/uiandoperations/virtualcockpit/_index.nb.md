@@ -1,5 +1,5 @@
 ---
-title: Virtual Cockpit
+title: Audi e-tron GT virtual Cockpit
 linktitle: Virtual Cockpit
 description: Audi virtual cockpit digitalt instrument panel med med en 12.3" skjerm. 
 weight: 2

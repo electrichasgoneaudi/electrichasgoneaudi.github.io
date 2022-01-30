@@ -1,5 +1,5 @@
 ---
-title: Navigation system
+title: Audi e-tron GT navigation system
 linktitle: Navigation system
 description: Audi e-tron GT has an standard navigation system. This is MMI Navigation plus system that helps to navigate to the destination.
 weight: 2

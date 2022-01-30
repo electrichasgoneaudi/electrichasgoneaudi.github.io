@@ -1,5 +1,5 @@
 ---
-title: Transportkapasitet
+title: Audi e-tron GT transportkapasitet
 linktitle: Transportkapasitet
 description: I tillegg til de 5 setene har e-tron GT både bagasjerom og frunk i tillegg til mulighet for taklast.
 weight: 6

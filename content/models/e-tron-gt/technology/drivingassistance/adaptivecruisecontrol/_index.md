@@ -15,7 +15,7 @@ comfortable driving in the range from 0 to a maximum of 200 km / h. The system u
 
 The included speed limiter helps not to exceed a previously set maximum speed when driving manually. The speed limiter operation can be temporarily deactivated via kick-down and the set maximum speed is exceeded. The function is available from approx. 30 km / h
 
-![Cruise control handle](cruisecontrol.jpg "The cruise control handle controls the function. ")
+![Cruise control handle](cruisecontrol.jpg "The cruise control handle controls the function including distance to car in front")
 
 You enable the cruise control with pressing the buttom at the end. Or you can resume earlier speed with pulling the lever.
 

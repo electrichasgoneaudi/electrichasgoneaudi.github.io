@@ -1,5 +1,5 @@
 ---
-title: Heads up display
+title: Audi e-tron GT Heads up display
 linktitle: Heads up display
 description: Audi e-tron GT og Audi RS e-tron GT kan utstyres med head-up-display.
 weight: 3

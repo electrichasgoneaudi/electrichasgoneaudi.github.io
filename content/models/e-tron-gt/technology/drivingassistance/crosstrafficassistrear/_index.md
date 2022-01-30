@@ -1,5 +1,5 @@
 ---
-title: Cross traffic assist rear
+title: Audi e-tron GT cross traffic assist rear
 linktitle: Cross traffic assist rear
 description: Audi e-tron GT can be delivered with Cross traffic assist rear. This assist system warns the driver of approaching vehicles it deems critical when slowly backing up, such as when pulling out of a perpendicular parking spot. 
 weight: 1

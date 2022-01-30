@@ -1,5 +1,5 @@
 ---
-title: Audi MMI
+title: Audi e-tron GT MMI
 linktitle: Audi MMI
 description: Audi e-tron GT er utstyrt med den siste generasjon av Audi MMI med MMI touch-respons.
 weight: 1

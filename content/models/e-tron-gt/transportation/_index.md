@@ -1,5 +1,5 @@
 ---
-title: Transportation capabilities
+title: Audi e-tron GT transportation capabilities
 linktitle: Tranportation Capabilities
 description: In addition to the 5 seats, the e-tron GT has both a trunk and a frunk in addition to roof storage.
 weight: 6
