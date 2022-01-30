@@ -220,25 +220,25 @@ weight: 100
 | Bluetooth interface | Standard | 9ZX |
 | Audi connect emergency call |   | IW3  |
 
-## Driver asssist systems
+## Assistentsystemer
 
 | Tittel | Beskrivelse | ID |
 |-----|------|------|
-| City Assist Pack  | [Crossing assist](../../technology/drivingassistance/crossingassist/), [side assist](../../technology/drivingassistance/sideassist/), [exit warning](../../technology/drivingassistance/exitwarning/), [pre sense rear](../../technology/drivingassistance/presenserear/), [pre sense side](../../technology/drivingassistance/presenseside/), [cross traffic rear](../../technology/drivingassistance/crosstrafficassistrear/) | PCM | 
-| Tour assist pack | [Adaptive cruise assist](../../technology/drivingassistance/adaptivecruiseassist/), [Adaptive cruise control](../../technology/drivingassistance/adaptivecruisecontrol/), [efficient assistant](../../technology/drivingassistance/predictiveefficiencyassist/),  [turn assist](../../technology/drivingassistance/turnassist/),[emergency assist](../../technology/drivingassistance/emergencyassist/) | PCC    |
-| Assist package plus | Contains City Assist package, Tour assist package, Parking assist package and 360 camera | PCJ |
+| Assistentpakke By | [Crossing assist](../../technology/drivingassistance/crossingassist/), [side assist](../../technology/drivingassistance/sideassist/), [exit warning](../../technology/drivingassistance/exitwarning/), [pre sense rear](../../technology/drivingassistance/presenserear/), [pre sense side](../../technology/drivingassistance/presenseside/), [cross traffic rear](../../technology/drivingassistance/crosstrafficassistrear/) | PCM | 
+| Assistentpakke Tur | [Adaptive cruise assist](../../technology/drivingassistance/adaptivecruiseassist/), [Adaptive cruise control](../../technology/drivingassistance/adaptivecruisecontrol/), [efficient assistant](../../technology/drivingassistance/predictiveefficiencyassist/),  [turn assist](../../technology/drivingassistance/turnassist/),[emergency assist](../../technology/drivingassistance/emergencyassist/) | PCC    |
+| Assistentpakken Plus | Inneholder Assistentpakken By, Assistentpakken Tur, Assistentpakken Parkering og 360 camera | PCJ |
 | [Audi pre sense front](../../technology/drivingassistance/presensefront/) | standard | 6K8 |
 | [Cruise control with speed limiter](../../technology/drivingassistance/cruisecontrol/) | standard | 8T6  |
 | [Adaptive cruise assist](../../technology/drivingassistance/adaptivecruiseassist/)
 | [Audi Drive select](../../technology/audidriveselect/) | Standard  |  |
 | Light and rain sensor | Standard |   |
 | [Parking system plus](../../technology/drivingassistance/parkingsystemplus/)  |  standard |   |
-| [Park assist](../../technology/drivingassistance/parkingsystemplus/) | | 7X5 |
+| [Parkeringsassistent](../../technology/drivingassistance/parkingsystemplus/) | | 7X5 |
 | [360 camera](../../technology/drivingassistance/360camera/) |  |  PCZ |
 | [Ryggekamera](../../technology/drivingassistance/reversingcamera/)
 | [Traffic sign recognition](../../technology/drivingassistance/trafficsignrecognition/) | Standard  | QR9  |
 | [Audi active lane assist](../../technology/drivingassistance/activelaneassist/) | Standard |  |
-| [Night vision](../../technology/drivingassistance/nightvision/) |   |  9R1 |
+| [Nattsynassistent](../../technology/drivingassistance/nightvision/) |   |  9R1 |
 
 ## Drivertrain & brakes
 

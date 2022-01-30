@@ -1,7 +1,7 @@
 ---
-title: Turn assist
+title: Audi e-tron GT turn assist
 linktitle: Turn assist
-description: Turn assist monitors the road lane with oncoming traffic by means of radar sensors, the front camera and, in certain models, a laser scanner.
+description: Audi e-tron GT can be equipped with turn assist. Turn assist monitors the road lane with oncoming traffic by means of radar sensors, the front camera and, in certain models, a laser scanner.
 weight: 1
 ---
 

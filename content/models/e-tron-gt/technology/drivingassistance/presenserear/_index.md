@@ -1,7 +1,7 @@
 ---
-title: Audi pre sense rear
+title: Audi e-tron GT pre sense rear
 linktitle: Pre sense rear
-description: Audi pre sense rear uses radar sensors in the rear bumper to detect an impending rear-end collision, and it initiates preventive safety measures. 
+description: Audi e-tron GT can be equipped with Audi pre sense rear. Audi pre sense rear uses radar sensors in the rear bumper to detect an impending rear-end collision, and it initiates preventive safety measures. 
 weight: 1
 ---
 

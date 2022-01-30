@@ -1,7 +1,7 @@
 ---
-title: Trafikkskiltgjenkjenning 
+title: Audi e-tron GT trafikkskiltgjenkjenning 
 linktitle: Trafikkskiltgjenkjenning
-description: Kamerabasert trafikkskiltgjenkjenning oppdager trafikkskilt som fartsgrenseskilt (inkludert digitale skilt), ingen passeringssoner, adgangsbegrensningsskilt og andre hjelpeskilt, og den viser dem til sjåføren i grafisk form.
+description: Audi e-tron GT kan utstyres med kamerabasert trafikkskiltgjenkjenning. Kamerabasert trafikkskiltgjenkjenning oppdager trafikkskilt som fartsgrenseskilt (inkludert digitale skilt), ingen passeringssoner, adgangsbegrensningsskilt og andre hjelpeskilt, og den viser dem til sjåføren i grafisk form.
 weight: 1
 ---
 

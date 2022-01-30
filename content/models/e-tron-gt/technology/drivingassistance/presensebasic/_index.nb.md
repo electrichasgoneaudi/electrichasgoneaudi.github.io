@@ -1,7 +1,7 @@
 ---
-title: Audi pre sense basic
+title: Audi e-tron GT pre sense basic
 linktitle: Pre Sense basic
-description: Audi pre sense basic iverksetter forebyggende sikkerhetstiltak for passasjerer så snart den oppdager en kritisk kjøretilstand.e.
+description: Audi e-tron GT er utstyrt med Audi pre sense basic. Audi pre sense basic iverksetter forebyggende sikkerhetstiltak for passasjerer så snart den oppdager en kritisk kjøretilstand.e.
 weight: 1
 ---
 

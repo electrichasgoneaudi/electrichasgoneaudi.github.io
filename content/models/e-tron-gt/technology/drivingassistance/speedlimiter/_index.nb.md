@@ -1,6 +1,6 @@
 ---
-title:  Speed limiter
-linktitle: Speed limiter
+title:  Audi e-tron GT fartsbegrenser
+linktitle: Fartsbegrenser
 description: Den konfigurerbare fartsbegrenseren begrenser kjørehastigheten til en verdi satt av sjåføren innenfor hastighetsområdet 30 til 250 km/t (18,6 til 155,3 mph) – noe som er veldig nyttig innenfor bygrenser eller byggesoner, for eksempel.
 weight: 1
 ---

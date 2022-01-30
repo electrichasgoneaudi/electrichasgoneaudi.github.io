@@ -1,7 +1,7 @@
 ---
-title: Filskifteassistent
+title: Audi e-tron GT filskifteassistent
 linktitle: Filskifteassistent
-description: Audi side assist filskifteassistent hjelper føreren med å skifte fil ved kjørehastigheter på 15 km/t (9,3 mph) og raskere.
+description: Audi e-tron GT kan utstyres med filskifteassistent. Audi side assist filskifteassistent hjelper føreren med å skifte fil ved kjørehastigheter på 15 km/t (9,3 mph) og raskere.
 weight: 1
 ---
 

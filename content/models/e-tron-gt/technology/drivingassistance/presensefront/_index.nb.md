@@ -1,7 +1,7 @@
 ---
-title: Audi pre sense front
+title: Audi e-tron GT pre sense front
 linktitle: Pre sense front
-description: Audi pre sense front bruker data fra radarsensorer og/eller frontkameraet, avhengig av bilmodellen, for å beregne sannsynligheten for en kollisjon. Innenfor systemets begrensninger advarer det om kollisjonstrusler og setter i gang bremsing ved spesifikke kjøretøyhastigheter.
+description: Audi e-tron GT er utstyrt med Audi pre sense front. Audi pre sense front bruker data fra radarsensorer og/eller frontkameraet, avhengig av bilmodellen, for å beregne sannsynligheten for en kollisjon. Innenfor systemets begrensninger advarer det om kollisjonstrusler og setter i gang bremsing ved spesifikke kjøretøyhastigheter.
 weight: 1
 ---
 

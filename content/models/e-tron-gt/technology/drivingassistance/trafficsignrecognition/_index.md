@@ -1,7 +1,7 @@
 ---
-title: Traffic sign recognition
+title: Audi e-tron GT traffic sign recognition
 linktitle: Traffic sign recognition
-description: Camera-based traffic sign recognition detects traffic signs such as speed limit signs (including digital signs), no passing zones, entry restriction signs and other auxiliary signs, and it shows them to the driver in graphic form.
+description: Audi e-tron GT can be equipped with camera-based traffic sign recognition. Camera-based traffic sign recognition detects traffic signs such as speed limit signs (including digital signs), no passing zones, entry restriction signs and other auxiliary signs, and it shows them to the driver in graphic form.
 weight: 1
 ---
 

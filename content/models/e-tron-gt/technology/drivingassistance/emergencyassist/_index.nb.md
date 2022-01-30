@@ -1,5 +1,5 @@
 ---
-title: Audi e-tron GT Nødstoppassistent
+title: Audi e-tron GT nødstoppassistent
 linktitle: Nødstoppassistent
 description: Audi e-tron GT kan leveres med nødstoppassisten. Nødstoppassinten  oppdager, innenfor systemets grenser, når føreren er inaktiv. I et slikt tilfelle overtar systemet kontroll over kjøretøyet og bremser det automatisk til stillestående i sin egen kjørebane.
 weight: 1

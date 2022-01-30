@@ -41,7 +41,7 @@ All systems use the central driver assistance controller (zFAS), which uses the 
 | [Side assist](sideassist) | option (PCM) |
 | [Reversing camera](reversingcamera) | option (KA2) |
 | [Turn assist](turnassist) | Option  |
-| [Traffic sign recognition](trafficsignrecognition) | standard |
+| [Traffic sign recognition](trafficsignrecognition) | option (PCC) |
 
 See detailed information about the systems below.
 
