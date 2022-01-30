@@ -1,7 +1,7 @@
 ---
-title: Exit warning
+title: Audi e-tron exit warning
 linktitle: Exit warning
-description: Exit warning improves safety in city traffic. If the car has come to a stop and other vehicles or bicyclists classified as critical are approaching from the rear, the system warns passengers not to open the doors.
+description: Audi e-tron can be delivered with exit warning. Exit warning improves safety in city traffic. If the car has come to a stop and other vehicles or bicyclists classified as critical are approaching from the rear, the system warns passengers not to open the doors.
 weight: 1
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Hold assist
+title: Audi e-tron hold assist
 linktitle: Hold assist
-description: Hold-assistent muliggjør praktiske avkjøringer når bilen er på vanlige stigninger og nedstigninger av gatetrafikk, og den hindrer kjøretøyet i å rulle.
+description: Audi e-tron er utstyrt med hold-assistent. Hold-assistent muliggjør praktiske avkjøringer når bilen er på vanlige stigninger og nedstigninger av gatetrafikk, og den hindrer kjøretøyet i å rulle.
 weight: 1
 ---
 

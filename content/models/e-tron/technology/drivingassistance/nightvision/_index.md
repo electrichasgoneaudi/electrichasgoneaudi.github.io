@@ -1,7 +1,7 @@
 ---
-title: Night vision assist
+title: Audi e-tron night vision assist
 linktitle: Nightvision
-description: The night vision assist that is avaiable for Audi e-tron uses a far infrared camera. It reacts to the heat given off by objects. Converted to black and white images, the information can be viewed in the instrument cluster or Audi virtual cockpit.
+description: Audi e-tron can be equipped with night vision assist. The night vision assist that is avaiable for Audi e-tron uses a far infrared camera. It reacts to the heat given off by objects. Converted to black and white images, the information can be viewed in the instrument cluster or Audi virtual cockpit.
 weight: 1
 ---
 

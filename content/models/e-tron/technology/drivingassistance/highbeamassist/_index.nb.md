@@ -1,7 +1,7 @@
 ---
-title: Fjernlysassistent 
+title: Audi e-tron fjernlysassistent 
 linktitle: Fjernlysassistent
-description: Fjernlysassistent bruker et kamera montert på det innvendige speilet.
+description: Audi e-tron kan utstyres med fjernlysassistent. Fjernlysassistent bruker et kamera montert på det innvendige speilet.
 weight: 1
 ---
 

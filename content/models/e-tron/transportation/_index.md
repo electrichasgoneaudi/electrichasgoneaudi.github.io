@@ -1,7 +1,7 @@
 ---
-title: Transportation capabilities
+title: Audi e-tron transportation capabilities
 linktitle: Tranportation Capabilities
-description: In addition to the 5 seats, the e-tron has both a trunk and a frunk in addition to roof storage and trailer capabilities.
+description: In addition to the 5 seats, the Audi e-tron has both a trunk and a frunk in addition to roof storage and trailer capabilities.
 weight: 6
 ---
 

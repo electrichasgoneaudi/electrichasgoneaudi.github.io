@@ -1,7 +1,7 @@
 ---
-title:  Unnamanøvreringsassistent
+title:  Audi e-tron unnamanøvreringsassistent
 linktitle:  Unnamanøvreringsassistent
-description: Collision avoidance assist helps the driver steer around an obstacle in a critical situation. 
+description: Audi e-tron kan leveres med unnamanøvreringsassistent.  Unnamanøvreringsassistenten hjelper føreren med å styre rundt en hindring i en kritisk situasjon. 
 weight: 1
 ---
 
@@ -11,6 +11,6 @@ Først produseres et støt for å advare sjåføren om faren. Hvis sjåføren da
 
 ![Collisionavoidance](collisionavoidance.jpg "Unnamanøvreringsassistent")
 
-Dette er en del av turpakken med opsjons-id PCC på Audi e-tron
+Dette er en del av turpakken med tilvalgs id  **PCC** på Audi e-tron
 
 {{% children description="true" depth="1" %}}

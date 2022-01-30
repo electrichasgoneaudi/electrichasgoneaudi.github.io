@@ -1,7 +1,7 @@
 ---
-title: Distance warning
+title: Audi e-tron distance warning
 linktitle: Distance warning
-description: The distance warning warns you when you are driving to close to the car in front of you.
+description: Audi e-tron is equipped with distance warning. The distance warning warns you when you are driving to close to the car in front of you.
 weight: 1
 ---
 

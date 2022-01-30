@@ -1,5 +1,5 @@
 ---
-title: Transportkapasitet 
+title: Audi e-tron transportkapasitet 
 linktitle: Transportkapasitet 
 description: I tillegg til de 5 setene har e-tron både bagasjerom og frunk i tillegg til takoppbevaring og tilhengermuligheter.
 weight: 6

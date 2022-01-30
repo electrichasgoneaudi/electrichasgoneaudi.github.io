@@ -1,7 +1,7 @@
 ---
-title: Predictive efficiency assist
+title: Audi e-tron predictive efficiency assist
 linktitle: Efficiency assist
-description: Predictive Efficiency assist helps the driver to drive preemptively and save energy. 
+description: Audi e-tron can be delivered with predictive ffficiency assist. Predictive Efficiency assist helps the driver to drive preemptively and save energy. 
 weight: 1
 ---
 

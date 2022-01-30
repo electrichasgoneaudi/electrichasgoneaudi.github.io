@@ -1,7 +1,7 @@
 ---
-title: Utstigningsvarsling
+title: Audi e-tron utstigningsvarsling
 linktitle: Utstigningsvarsling
-description: Utstigningsvarsling forbedrer sikkerheten i bytrafikken. Hvis bilen har stoppet og andre kjøretøy eller syklister klassifisert som kritiske nærmer seg bakfra, advarer systemet passasjerene om å ikke åpne dørene.
+description: Audi e-tron kan leveres med utstigningsvarsling. Utstigningsvarsling forbedrer sikkerheten i bytrafikken. Hvis bilen har stoppet og andre kjøretøy eller syklister klassifisert som kritiske nærmer seg bakfra, advarer systemet passasjerene om å ikke åpne dørene.
 weight: 1
 ---
 

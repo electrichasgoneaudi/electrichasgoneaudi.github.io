@@ -1,7 +1,7 @@
 ---
-title: Avkjøringsassistent
+title: Audi e-tron avkjøringsassistent
 linktitle: Avkjøringsassistent
-description: Avkjøringsassistent overvåker kjørefeltet med møtende trafikk ved hjelp av radarsensorer, frontkamera og, i enkelte modeller, en laserskanner.
+description: Audi e-tron kan utstyres med avkjøringsassistent. Avkjøringsassistenten overvåker kjørefeltet med møtende trafikk ved hjelp av radarsensorer, frontkamera og, i enkelte modeller, en laserskanner.
 weight: 1
 ---
 

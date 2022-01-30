@@ -1,7 +1,7 @@
 ---
-title: Nattsynsassistent
+title: Audi e-tron nattsynsassistent
 linktitle: Nattsynsassistent
-description: Nattsynsassistenten som er tilgjengelig for Audi e-tron bruker et fjernt infrarødt kamera. Den reagerer på varmen som avgis av gjenstander. Konvertert til svart-hvitt-bilder kan informasjonen ses i instrumentgruppen eller Audi virtual cockpit.
+description: Audi e-tron kan leveres med nattsynsassistent. Nattsynsassistenten som er tilgjengelig for Audi e-tron bruker et fjernt infrarødt kamera. Den reagerer på varmen som avgis av gjenstander. Konvertert til svart-hvitt-bilder kan informasjonen ses i instrumentgruppen eller Audi virtual cockpit.
 weight: 1
 ---
 

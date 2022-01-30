@@ -44,6 +44,8 @@ til tiltakene i Audi pre sense basic. Det reduserer forover- og sidebevegelsene 
 Beltelås med lys gir bedre komfort for passasjerene, og gir kabinen elegant og eksklusiv belysning. Nå er letingen over
 etter beltespennen i mørket.
 
+Tilvalg **4X9**
+
 ## Krasjtesting
 
 Audi e-tron har fått full score på forskjellige kollisjonstester. Se nedenfor.
