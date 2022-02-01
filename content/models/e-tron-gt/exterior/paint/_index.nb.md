@@ -392,7 +392,7 @@ Color code: **872**
 
 <figure>
     <a href="paint_zanzibarbrown_1.jpg">
-        <img src="zanzibarbrown_1s.jpg" alt="Zanzibar brown metallic Audi RS e-tron GT" title="Zanzibar brown metallic Audi RS e-tron GT">
+        <img src="paint_zanzibarbrown_1s.jpg" alt="Zanzibar brown metallic Audi RS e-tron GT" title="Zanzibar brown metallic Audi RS e-tron GT">
     </a>
     <figcaption><h4>Zanzibar brown metallic Audi RS e-tron GT</h4></figcaption>
 </figure>
@@ -400,7 +400,7 @@ Color code: **872**
 
 <figure>
     <a href="paint_zanzibarbrown_2.jpg">
-        <img src="zanzibarbrown_2s.jpg" alt="Zanzibar brown metallic Audi RS e-tron GT" title="Zanzibar brown metallic Audi RS e-tron GT">
+        <img src="paint_zanzibarbrown_2s.jpg" alt="Zanzibar brown metallic Audi RS e-tron GT" title="Zanzibar brown metallic Audi RS e-tron GT">
     </a>
     <figcaption><h4>Zanzibar brown metallic Audi RS e-tron GT</h4></figcaption>
 </figure>
@@ -408,7 +408,7 @@ Color code: **872**
 
 <figure>
     <a href="paint_zanzibarbrown_3.jpg">
-        <img src="zanzibarbrown_3s.jpg" alt="Zanzibar brown metallic Audi RS e-tron GT" title="Zanzibar brown metallic Audi RS e-tron GT">
+        <img src="paint_zanzibarbrown_3s.jpg" alt="Zanzibar brown metallic Audi RS e-tron GT" title="Zanzibar brown metallic Audi RS e-tron GT">
     </a>
     <figcaption><h4>Zanzibar brown metallic Audi RS e-tron GT</h4></figcaption>
 </figure>
@@ -416,7 +416,7 @@ Color code: **872**
 
 <figure>
     <a href="paint_zanzibarbrown_4.jpg">
-        <img src="zanzibarbrown_4s.jpg" alt="Zanzibar brown metallic Audi RS e-tron GT" title="Zanzibar brown metallic Audi RS e-tron GT">
+        <img src="paint_zanzibarbrown_4s.jpg" alt="Zanzibar brown metallic Audi RS e-tron GT" title="Zanzibar brown metallic Audi RS e-tron GT">
     </a>
     <figcaption><h4>Zanzibar brown metallic Audi RS e-tron GT</h4></figcaption>
 </figure>
