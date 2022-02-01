@@ -26,6 +26,7 @@ Klikk på listen nedenfor for å navigere direkte til farger eller bla gjennom s
   - [Mythossort](#mythossort)
 - [Individuallakkering Audi exclusive](#individuallakkering-audi-exclusive)
   - [Nardogrå](#nardogrå)
+  - [Zanzibar brown](#zanzibar-brown)
 
 
 For mere fargevalg se [opptikk og grill](../optics)
@@ -382,4 +383,40 @@ Fargekode: **Y7C**
         <img src="paint_nardogrey_2s.jpg" alt="Nardogrå Audi e-tron GT" title="Nardogrå Audi e-tron GT">
     </a>
     <figcaption><h4>Nardogrå Audi e-tron GT by @auditography</h4></figcaption>
+</figure>
+
+
+### Zanzibar brown
+
+Color code: **872**
+
+<figure>
+    <a href="paint_zanzibarbrown_1.jpg">
+        <img src="zanzibarbrown_1s.jpg" alt="Zanzibar brown metallic Audi RS e-tron GT" title="Zanzibar brown metallic Audi RS e-tron GT">
+    </a>
+    <figcaption><h4>Zanzibar brown metallic Audi RS e-tron GT</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="paint_zanzibarbrown_2.jpg">
+        <img src="zanzibarbrown_2s.jpg" alt="Zanzibar brown metallic Audi RS e-tron GT" title="Zanzibar brown metallic Audi RS e-tron GT">
+    </a>
+    <figcaption><h4>Zanzibar brown metallic Audi RS e-tron GT</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="paint_zanzibarbrown_3.jpg">
+        <img src="zanzibarbrown_3s.jpg" alt="Zanzibar brown metallic Audi RS e-tron GT" title="Zanzibar brown metallic Audi RS e-tron GT">
+    </a>
+    <figcaption><h4>Zanzibar brown metallic Audi RS e-tron GT</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="paint_zanzibarbrown_4.jpg">
+        <img src="zanzibarbrown_4s.jpg" alt="Zanzibar brown metallic Audi RS e-tron GT" title="Zanzibar brown metallic Audi RS e-tron GT">
+    </a>
+    <figcaption><h4>Zanzibar brown metallic Audi RS e-tron GT</h4></figcaption>
 </figure>
