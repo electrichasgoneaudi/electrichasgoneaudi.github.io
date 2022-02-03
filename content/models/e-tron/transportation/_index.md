@@ -36,7 +36,9 @@ This contains the following.
 
 ![Storage and luggage compartment package](qe1_1s.jpg "Net in the side of the luggage compartment and luggage net for transporting objects")
 
-![Storage and luggage compartment package](clathers.jpg "Cloth in storage room for spare wheel")
+![Storage and luggage compartment package](storagebox_trunk.jpg "Removable storage box under floor in trunk")
+
+![Storage and luggage compartment package](storagebox_trunk_2.jpg "Removable storage box under floor in trunk")
 
 ## Frunk
 

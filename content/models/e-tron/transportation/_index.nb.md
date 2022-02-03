@@ -34,7 +34,9 @@ Den inneholder følgende.
 
 ![Storage and luggage compartment package](qe1_1s.jpg "Nett i siden av bagasjerommet og bagasjenett til transport av gjenstander")
 
-![Storage and luggage compartment package](clathers.jpg "Kledning i oppbevaringsrommet i reservehjulsbrønnen")
+![Storage and luggage compartment package](storagebox_trunk.jpg "Uttakbar boks i reservehjulsbrønnen")
+
+![Storage and luggage compartment package](storagebox_trunk_2.jpg "Uttakbar boks i reservehjulsbrønnen")
 
 ## Frunk
 
