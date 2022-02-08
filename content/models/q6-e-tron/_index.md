@@ -5,11 +5,13 @@ description: Audi Q6 e-tron will have a world premiere in 2022 and will be the f
 weight: 4
 ---
 
-It is built on the new PPE platform created together with Porsche.
+It is built on the new [PPE platform](../../technology/bev-platforms/ppe/) created together with Porsche.
 
 The first customers can expect to receive the Audi Q6 e-tron in Q1/Q2 2023.
 
 The model will come in different versions with different battery capacities.
+
+In size it will be between Audi Q4 e-tron and Audi e-tron.
 
 ## Battery & Range
 

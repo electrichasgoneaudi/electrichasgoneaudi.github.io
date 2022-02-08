@@ -57,9 +57,7 @@ opphengsområdet.
 - [Audi A6 e-tron](../../../models/a6-etron) bekreftet
 - [Audi S6 e-tron](../../../models/a6-etron) Ubekreftet
 - [Audi RS6 e-tron](../../../models/a6-etron) Ubekreftet
-- [Audi Q8 e-tron](../../../models/q8-etron) Ubekreftet
 - [Audi A4 e-tron](../../../models/a4-etron) Ubekreftet
-- [Audi A8 e-tron](../../../models/a8-etron) Ubekreftet
 
 ## PPE vs MLB evo
 

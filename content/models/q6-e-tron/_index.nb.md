@@ -5,7 +5,7 @@ description: Audi Q6 e-tron får verdenspremiere i 2022 og blir den fjerde helel
 weight: 4
 ---
 
-Den er bygget på den nye PPE-plattformen laget sammen med Porsche.
+Den er bygget på den nye [PPE-plattformen](../../technology/bev-platforms/ppe/) laget sammen med Porsche.
 
 De første kundene kan forvente å motta Audi Q6 e-tron i Q1/Q2 2023.
 

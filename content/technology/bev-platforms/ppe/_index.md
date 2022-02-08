@@ -33,8 +33,8 @@ levels and battery capacities on the PPE platform. Like in the Audi e-tron GT, t
 of charge is 800 volts; in combination with high-efficiency thermal management, it enables a
 high charging capacity of 350 kW.
 
-Battery sizes are unknown at current time, but A6 e-tron concept have 100kWh net and a range of 700 km WLTP.
-This will indicate a consumption on 14.2 kWh/100km that indicate a very efficient drivetrain.
+Battery sizes are unknown at current time, but A6 e-tron concept have 100kWh gross and a range of 700 km WLTP.
+With a 6% buffer and 94kWh nett battery this will indicate a WLTP combined consumption on 13.4 kWh/100km. This indicates a very efficient drivetrain.
 
 For the [Audi grandshpere concept](../../../articles/audigrandsphereconcept/) Audi uses PPE platform with 120kWh battery.
 
@@ -57,9 +57,7 @@ the suspension area.
 - [Audi A6 e-tron](../../../models/a6-etron) Confirmed
 - [Audi S6 e-tron](../../../models/a6-etron) UnConfirmed
 - [Audi RS6 e-tron](../../../models/a6-etron) UnConfirmed
-- [Audi Q8 e-tron](../../../models/q8-etron) Unconfirmed
 - [Audi A4 e-tron](../../../models/a4-etron) Unconfirmed
-- [Audi A8 e-tron](../../../models/a8-etron) Unconfirmed
 
 ## PPE vs MLB evo
 

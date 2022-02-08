@@ -24,4 +24,5 @@ weight: 20
 | 72M1 |            |
 | 42L1 | Control of bolts |
 | 90R8 | Frontsensor |
-| 94P2 |   |
+| 94P2 |  Fix for Digital matrix |
+| 90R7 | Fix for virtual mirrors |
