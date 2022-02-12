@@ -3,7 +3,6 @@ title: Regenerative braking
 linktitle: Regenerative braking
 description: Regeneration of energy is one of the benefits of an electric drivetrain. In this article, we will try to show how much regeneration can affect consumption.
 weight: 3
-hidden: true
 ---
 
 
