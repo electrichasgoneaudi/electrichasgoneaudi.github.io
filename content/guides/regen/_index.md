@@ -218,3 +218,21 @@ But this is in the best-case scenario where you are able to calculate exactly wh
 
 ## One pedal driving vs manual/automatic regen
 
+On electric Audis, you can use regenerative brakes in different ways
+
+- Manual, only using the brake pedal
+- Automatic, letting the car decide when to regenerate
+- Manual, using steering wheel paddles to regenerate
+- One pedal driving - automatic regenerate when lifting the foot of watt pedal
+
+All methods use the same electric drivetrain components to do braking so they have the same efficiency.
+
+But one-pedal-driving has a little reduced efficiency in scenarios where the driver wants to transition from using power to coasting.
+
+Since you would need to keep your foot on the pedal at a specific position to not use any energy or braking you will always spend more time coming to this position compared to lifting the foot directly off the pedal. In addition, it takes some training to keep the foot in perfect position.
+
+That's why Audi recommends using automatic regen with coasting to save energy.
+
+The difference is small probably less than 10% of the difference between coasting and regenerative braking in the scenarios where coasting is possible. 
+
+For scenarios like scenario 1, there is no difference since you will do regenerative braking to keep the car on the road.
