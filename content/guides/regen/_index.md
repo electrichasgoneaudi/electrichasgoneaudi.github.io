@@ -122,7 +122,12 @@ Before we give you an example of how much energy can be regenerated we need to e
 
 A moving car will have forces based on air resistance that will push against the movement.
 
-![Windtunnel](windtunnels.jpg "Audi e-tron in wind tunnel")
+<figure>
+    <a href="windtunnel.png">
+        <img src="windtunnels.png" alt="Audi e-tron in wind tunnel" title="Audi e-tron in wind tunnel">
+    </a>
+    <figcaption><h4>Audi e-tron in wind tunnel</h4></figcaption>
+</figure>
 
 The formula for drag is:
 
@@ -252,3 +257,5 @@ The difference is small, probably less than 10% of the difference between coasti
 For scenarios like scenario 1, there is no difference since you will do regenerative braking to keep the car on the road.
 
 Since the difference is so small, you should choose based on your personal preference.
+
+You can read more about [one-pedal-driving](../onepedaldriving/)
