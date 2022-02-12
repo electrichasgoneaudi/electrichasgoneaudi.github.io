@@ -52,12 +52,12 @@ opphengsområdet.
 
 ## Modeller forventes å være på PPE-plattform
 
-- [Audi Q6 e-tron](../../../models/q6-etron) bekreftet
-- [Audi SQ6 e-tron](../../../models/q6-etron) Ubekreftet
-- [Audi A6 e-tron](../../../models/a6-etron) bekreftet
-- [Audi S6 e-tron](../../../models/a6-etron) Ubekreftet
-- [Audi RS6 e-tron](../../../models/a6-etron) Ubekreftet
-- [Audi A4 e-tron](../../../models/a4-etron) Ubekreftet
+- [Audi Q6 e-tron](../../../models/q6-e-tron) bekreftet
+- [Audi SQ6 e-tron](../../../models/q6-e-tron) Ubekreftet
+- [Audi A6 e-tron](../../../models/a6-e-tron) bekreftet
+- [Audi S6 e-tron](../../../models/a6-e-tron) Ubekreftet
+- [Audi RS6 e-tron](../../../models/a6-e-tron) Ubekreftet
+- [Audi A4 e-tron](../../../models/a4-e-tron) Ubekreftet
 
 ## PPE vs MLB evo
 

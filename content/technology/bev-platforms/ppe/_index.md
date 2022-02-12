@@ -52,12 +52,12 @@ the suspension area.
 
 ## Models expected to be on PPE platform
 
-- [Audi Q6 e-tron](../../../models/q6-etron) Confirmed
-- [Audi SQ6 e-tron](../../../models/q6-etron) UnConfirmed
-- [Audi A6 e-tron](../../../models/a6-etron) Confirmed
-- [Audi S6 e-tron](../../../models/a6-etron) UnConfirmed
-- [Audi RS6 e-tron](../../../models/a6-etron) UnConfirmed
-- [Audi A4 e-tron](../../../models/a4-etron) Unconfirmed
+- [Audi Q6 e-tron](../../../models/q6-e-tron) Confirmed
+- [Audi SQ6 e-tron](../../../models/q6-e-tron) UnConfirmed
+- [Audi A6 e-tron](../../../models/a6-e-tron) Confirmed
+- [Audi S6 e-tron](../../../models/a6-e-tron) UnConfirmed
+- [Audi RS6 e-tron](../../../models/a6-e-tron) UnConfirmed
+- [Audi A4 e-tron](../../../models/a4-e-tron) Unconfirmed
 
 ## PPE vs MLB evo
 
