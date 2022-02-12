@@ -14,7 +14,7 @@ For quattro models, like the Audi e-tron, both engines can be used for regenerat
 
 For coasting and light braking, only the rear motor is used, but when cornering or hard braking both motors are used.
 
-The brakes also blend in the physical brakes if needed.
+The brakes also blend in the physical brakes if needed mixing it with the regenerative brakes seamlessly.
 
 <figure>
     <a href="recuperation.png">
@@ -179,7 +179,12 @@ Let's take Pikes Peak as an example. This mountain is 14.110 ft (4300 meters) hi
 
 1993 meters for an Audi e-tron 55 at 2900kg is 15.74kWh in potential energy.
 
-![Pikes Peak](pikespeak.jpg "Driving down Pikes Peak in Audi e-tron")
+<figure>
+    <a href="pikespeak.jpg">
+        <img src="pikespeaks.jpg" alt="Driving down Pikes Peak in Audi e-tron" title="Driving down Pikes Peak in Audi e-tron">
+    </a>
+    <figcaption><h4>Driving down Pikes Peak in Audi e-tron</h4></figcaption>
+</figure>
 
 18.6 miles is 30 km. The speed down is low and based on rolling resistance and speed at 40km/h have an energy consumption of 13.1kWh/100km.
 
@@ -195,7 +200,7 @@ In the video below you see a real-world test of just exactly this trip and how m
 
 In this scenario, the car is moving at 75mph (120.7km/h) and needs to make a full stop for a red light.
 
-![Full stop](fullstop.jpg "Making a full stop from 75mph")
+![Full stop](stops.jpg "Making a full stop from 75mph")
 
 As shown in the graph above 75mph for a 2900kg Audi e-tron gives the total kinetic energy of 0,472626718 kWh.
 
@@ -206,6 +211,8 @@ A full trip on 100km (62 miles) with 10 full stops like this would then save 3.8
 This means a consumption reduction of 3.8kWh/100km.  
 
 ### Scenario 3: Reduce speed from 30 mph to fully stop
+
+![Full stop](fullstop.jpg "City driving")
 
 This scenario is a typical city driving scenario. When driving at 30 mph (48.28km/h) the Audi e-tron has a total kinetic energy of 0,075620275kWh.
 
