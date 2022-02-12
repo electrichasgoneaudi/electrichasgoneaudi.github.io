@@ -4,7 +4,7 @@ linktitle: Regenerative braking
 description: Regeneration of energy is one of the benefits of an electric drivetrain. In this article, we will try to show how much regeneration can affect consumption.
 weight: 3
 ---
-
+<!-- markdownlint-disable MD033 -->
 
 ## How does it work?
 
@@ -16,13 +16,16 @@ For coasting and light braking, only the rear motor is used, but when cornering 
 
 The brakes also blend in the physical brakes if needed.
 
-![Recup](recuperation.png "Coasting regneration")
-
+<figure>
+    <a href="recuperation.png">
+        <img src="recuperations.png" alt="Coasting regneration" title="Coasting regneration">
+    </a>
+    <figcaption><h4>Coasting regneration</h4></figcaption>
+</figure>
 
 The below video shows in detail how the different engines are used.
 
 {{< youtube 2WPTHi2FUdQ >}}
-
 
 ## What kind of energy can be regenerated?
 
@@ -104,6 +107,13 @@ The below graph shows the total kinetic energy and the two types of potential en
 
 ![Kinetic](kinetic.png "Graph over kinetic energy")
 
+<figure>
+    <a href="recuperation.png">
+        <img src="recuperations.png" alt="Coasting regneration" title="Coasting regneration">
+    </a>
+    <figcaption><h4>Coasting regneration</h4></figcaption>
+</figure>
+
 ## Understanding energy consumption
 
 Before we give you an example of how much energy can be regenerated we need to explain energy consumption. Because this affects the result.
@@ -149,7 +159,12 @@ This number is an estimate. On wet roads or roads with snow, the rolling resista
 
 The below diagram shows the calculated consumption needed to overcome drag and rolling resistance and consumption from the battery based on 80% efficiency of the drivetrain. The real efficiency is not known but it is expected to be around 80%.
 
-![Consumption](consumption.png "Calculated consumption")
+<figure>
+    <a href="consumption.png">
+        <img src="consumptions.png" alt="Calculated consumption" title="Calculated consumption">
+    </a>
+    <figcaption><h4>Calculated consumption</h4></figcaption>
+</figure>
 
 ## How much can be regenerated?
 
@@ -232,6 +247,8 @@ Since you would need to keep your foot on the pedal at a specific position to no
 
 That's why Audi recommends using automatic regen with coasting to save energy.
 
-The difference is small probably less than 10% of the difference between coasting and regenerative braking in the scenarios where coasting is possible. 
+The difference is small, probably less than 10% of the difference between coasting and regenerative braking in the scenarios where coasting is possible.
 
 For scenarios like scenario 1, there is no difference since you will do regenerative braking to keep the car on the road.
+
+Since the difference is so small, you should choose based on your personal preference.
