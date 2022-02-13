@@ -81,6 +81,10 @@ Se detaljert video av Ibishvit Audi e-tron GT av @Auditography
 
 {{< youtube v_3eNEnW82k >}}
 
+Se også denne fra @Auditography
+
+{{< youtube FU3ka12aE-k >}}
+
 ### Tangorød
 
 Fargekode: **Y1**

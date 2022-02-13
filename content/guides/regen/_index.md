@@ -6,6 +6,12 @@ weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
 
+We will first explain the concept and then give you some scenarios to show how much is regenerated.
+
+We will then go into physics and explain the math behind the scenarios for those who want to understand the details.
+
+In the end, we discuss if regeneration of energy is always the best option.
+
 ## How does it work?
 
 The regeneration happens when the electric motors are used as generators to reduce the speed of a moving vehicle.
@@ -27,7 +33,65 @@ The below video shows in detail how the different engines are used.
 
 {{< youtube 2WPTHi2FUdQ >}}
 
-## What kind of energy can be regenerated?
+## How much can be regenerated?
+
+The following scenarios use math and physics to explain how large the benefits of regenerative braking are.
+
+The details behind the calculation are explained in the physics chapter, but you should know that a moving object has kinetic energy that can be regenerated
+and a car located in an elevated position has potential energy that can be regenerated.
+
+In addition, there is aerodynamic drag and rolling resistance that are forces that works against the movement of the car.
+
+### Scenario 1: Pikes Peak
+
+Let's take Pikes Peak as an example. This mountain is 14.110 ft (4300 meters) high but if you drive down the [first 18.6 miles](https://www.google.com/maps/dir/Pikes+Peak,+Colorado+80809,+United+States/38.9057543,-104.9779289/@38.8779104,-105.0432721,10824m/data=!3m1!1e3!4m9!4m8!1m5!1m1!1s0x8714a806033005bd:0xa67b8c79d6580c1e!2m2!1d-105.0422595!2d38.8408707!1m0!3e0) you [have dropped 6538 ft](https://www.slashgear.com/audi-e-tron-pikes-peak-recuperation-challenge-first-drive-ev-tech-07540279/)  (1993 meters)
+
+1993 meters for an Audi e-tron 55 at 2900kg is 15.74kWh in potential energy.
+
+<figure>
+    <a href="pikespeak.jpg">
+        <img src="pikespeaks.jpg" alt="Driving down Pikes Peak in Audi e-tron" title="Driving down Pikes Peak in Audi e-tron">
+    </a>
+    <figcaption><h4>Driving down Pikes Peak in Audi e-tron</h4></figcaption>
+</figure>
+
+18.6 miles is 30 km. The speed down is low and based on rolling resistance and speed at 40km/h have an energy consumption of 13.1kWh/100km.
+
+For 30km /18.6miles this means 3.9 kWh in total. This energy will be taken from the potential energy.
+
+This means 11.84kWh to regenerate. With 80% efficiency, this would mean 9.5kWh back into the battery.
+
+In the video below you see a real-world test of just exactly this trip and how much they are able to regenerate.
+
+{{< youtube vrYRJ9TuaX0 >}}
+
+### Scenario 2: Fully stop from 75mph
+
+In this scenario, the car is moving at 75mph (120.7km/h) and needs to make a full stop for a red light.
+
+![Full stop](stops.jpg "Making a full stop from 75mph")
+
+As shown in the graph below 75mph for a 2900kg Audi e-tron gives the total kinetic energy of 0,472626718 kWh.
+
+With 80% drivetrain efficiency, this means the car will be able to get 0.38kWh back to the battery.
+
+A full trip on 100km (62 miles) with 10 full stops like this would then save 3.8kWh for the total trip compared with a car with only friction brakes.
+
+This means a consumption reduction of 3.8kWh/100km.  
+
+### Scenario 3: Reduce speed from 30 mph to fully stop
+
+![Full stop](fullstop.jpg "City driving")
+
+This scenario is a typical city driving scenario. When driving at 30 mph (48.28km/h) the Audi e-tron has a total kinetic energy of 0,075620275kWh.
+
+Based on the 80% efficiency of the drivetrain this saves 0,06059kWh back to the battery.
+
+If you drive 100km in city traffic and need to make 100 stops like this you save 6,05 kWh energy.
+
+This reduces energy consumption by 6.05kWh/100km compared to a car with only friction brakes
+
+## Understanding the physics
 
 ### Kinetic energy
 
@@ -123,8 +187,8 @@ Before we give you an example of how much energy can be regenerated we need to e
 A moving car will have forces based on air resistance that will push against the movement.
 
 <figure>
-    <a href="windtunnel.png">
-        <img src="windtunnels.png" alt="Audi e-tron in wind tunnel" title="Audi e-tron in wind tunnel">
+    <a href="windtunnel.jpg">
+        <img src="windtunnels.jpg" alt="Audi e-tron in wind tunnel" title="Audi e-tron in wind tunnel">
     </a>
     <figcaption><h4>Audi e-tron in wind tunnel</h4></figcaption>
 </figure>
@@ -170,57 +234,6 @@ The below diagram shows the calculated consumption needed to overcome drag and r
     </a>
     <figcaption><h4>Calculated consumption</h4></figcaption>
 </figure>
-
-## How much can be regenerated?
-
-### Scenario 1: Pikes Peak
-
-Let's take Pikes Peak as an example. This mountain is 14.110 ft (4300 meters) high but if you drive down the [first 18.6 miles](https://www.google.com/maps/dir/Pikes+Peak,+Colorado+80809,+United+States/38.9057543,-104.9779289/@38.8779104,-105.0432721,10824m/data=!3m1!1e3!4m9!4m8!1m5!1m1!1s0x8714a806033005bd:0xa67b8c79d6580c1e!2m2!1d-105.0422595!2d38.8408707!1m0!3e0) you [have dropped 6538 ft](https://www.slashgear.com/audi-e-tron-pikes-peak-recuperation-challenge-first-drive-ev-tech-07540279/)  (1993 meters)
-
-1993 meters for an Audi e-tron 55 at 2900kg is 15.74kWh in potential energy.
-
-<figure>
-    <a href="pikespeak.jpg">
-        <img src="pikespeaks.jpg" alt="Driving down Pikes Peak in Audi e-tron" title="Driving down Pikes Peak in Audi e-tron">
-    </a>
-    <figcaption><h4>Driving down Pikes Peak in Audi e-tron</h4></figcaption>
-</figure>
-
-18.6 miles is 30 km. The speed down is low and based on rolling resistance and speed at 40km/h have an energy consumption of 13.1kWh/100km.
-
-For 30km /18.6miles this means 3.9 kWh in total. This energy will be taken from the potential energy.
-
-This means 11.84kWh to regenerate. With 80% efficiency, this would mean 9.5kWh back into the battery.
-
-In the video below you see a real-world test of just exactly this trip and how much they are able to regenerate.
-
-{{< youtube vrYRJ9TuaX0 >}}
-
-### Scenario 2: Fully stop from 75mph
-
-In this scenario, the car is moving at 75mph (120.7km/h) and needs to make a full stop for a red light.
-
-![Full stop](stops.jpg "Making a full stop from 75mph")
-
-As shown in the graph above 75mph for a 2900kg Audi e-tron gives the total kinetic energy of 0,472626718 kWh.
-
-With 80% drivetrain efficiency, this means the car will be able to get 0.38kWh back to the battery.
-
-A full trip on 100km (62 miles) with 10 full stops like this would then save 3.8kWh for the total trip compared with a car with only friction brakes.
-
-This means a consumption reduction of 3.8kWh/100km.  
-
-### Scenario 3: Reduce speed from 30 mph to fully stop
-
-![Full stop](fullstop.jpg "City driving")
-
-This scenario is a typical city driving scenario. When driving at 30 mph (48.28km/h) the Audi e-tron has a total kinetic energy of 0,075620275kWh.
-
-Based on the 80% efficiency of the drivetrain this saves 0,06059kWh back to the battery.
-
-If you drive 100km in city traffic and need to make 100 stops like this you save 6,05 kWh energy.
-
-This reduces energy consumption by 6.05kWh/100km compared to a car with only friction brakes
 
 ## Is regen the best option always?
 

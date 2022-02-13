@@ -16,3 +16,6 @@ weight: 20
 
 ### Audi RS e-tron GT – three-chamber air suspension and all-wheel steering
 
+### 2022 AUDI RS E-TRON GT 646HP - IN AMAZING LOCATIONS IN DOHA, QATAR FIFA2022 - IN DETAIL 4K
+
+{{< youtube FU3ka12aE-k >}}
