@@ -272,6 +272,22 @@ Theoretical this can save
 
 But this is in the best-case scenario where you can calculate exactly where to lift the foot of the watt pedal. In the real world, this benefit would be smaller since you would end up needing to add some power or braking at the end when you are not able to calculate this correctly.
 
+## Can you see in the car how much was regenerated?
+
+A common misunderstanding is that you can look at the range reported in the car to see how much was regenerated.
+
+The range meter bases its calculation on the last 100km driven. If we take scenario 4 and assume the car has been driven from sea level up to the top at 650 meters in 80km/h (49.7 mph) the consumption would be 25.4kWh/100km at 650 meters.
+
+On the Audi e-tron 55 with 86.5kWh battery capacity, the range would be calculated to 340km based on this consumption.
+
+After driving down the road section scenario 4 the total consumption from the battery would be reduced from 25.4kWh/100km to 21kWh/100km.
+
+This would increase the calculated range to 411km.  Based on this you could mistakenly believe that you have regenerated 61km, but the correct is 6.8km.
+
+This type of increase you could even see in scenarios where there is no regeneration, but just a decline that reduced the consumption.
+
+The only way to know how much you have regenerated is to look at the state of charge of the battery.
+
 ## One pedal driving vs manual/automatic regen
 
 On electric Audis, you can use regenerative brakes in different ways
