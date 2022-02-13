@@ -55,11 +55,11 @@ Let's take Pikes Peak as an example. This mountain is 14.110 ft (4300 meters) hi
     <figcaption><h4>Driving down Pikes Peak in Audi e-tron</h4></figcaption>
 </figure>
 
-18.6 miles is 30 km. The speed down is low and based on rolling resistance and speed at 40km/h have an energy consumption of 13.1kWh/100km.
+18.6 miles is 30 km. The speed down is low and based on rolling resistance and speed at 40km/h have an energy consumption of 10.52kWh/100km.
 
-For 30km /18.6miles this means 3.9 kWh in total. This energy will be taken from the potential energy.
+For 30km /18.6miles this means 3.15 kWh in total. This energy will be taken from the potential energy.
 
-This means 11.84kWh to regenerate. With 80% efficiency, this would mean 9.5kWh back into the battery.
+This means 12.59kWh to regenerate. With 80% efficiency, this would mean 10.07kWh back into the battery.
 
 In the video below you see a real-world test of just exactly this trip and how much they are able to regenerate.
 
@@ -90,6 +90,23 @@ Based on the 80% efficiency of the drivetrain this saves 0,06059kWh back to the 
 If you drive 100km in city traffic and need to make 100 stops like this you save 6,05 kWh energy.
 
 This reduces energy consumption by 6.05kWh/100km compared to a car with only friction brakes
+
+### Scenario 4: Driving down from Saltfjellet mountain
+
+![Saltfjellet](saltfjellet.jpg "Saltfjellet in winter")
+
+This mountain is located in Northern Norway and the main road from South to North passes over it (E6).
+
+If we take [this section](https://www.google.com/maps/dir/66.6848804,15.4189889/66.8133394,15.4007768/@66.7423002,15.420291,13281m/data=!3m1!1e3) of the road where it starts to go downhill we see that the start is at 650 meters (2132feet) and it ends at 125 meters (410 feet) above sea level. 
+With a distance of 16.4 km (10.2 miles), this gives a decline of 3.1%
+
+This means potential energy of 4.147 kWh.
+
+The speed limit is 80km/h (49.7mph) and based on standard consumption on a dry road, this would mean that this car requires 2.49kWh to roll this distance driven by the potential energy.
+
+The rest could be regenerated, and with 80% efficiency, this gives 1.3kWh back in the battery.
+
+1.3kWh should give 6.8km additional range in 80km/h (49.7mph)
 
 ## Understanding the physics
 
@@ -167,15 +184,13 @@ See [potential energy calculator](https://www.omnicalculator.com/physics/potenti
 
 ### Summary
 
-The below graph shows the total kinetic energy and the two types of potential energy
-
-![Kinetic](kinetic.png "Graph over kinetic energy")
+The below graph shows the total kinetic energy and the two types of kinetic energy energy
 
 <figure>
-    <a href="recuperation.png">
-        <img src="recuperations.png" alt="Coasting regneration" title="Coasting regneration">
+    <a href="kinetic.png">
+        <img src="kinetics.png" alt="Graph over kinetic energy" title="Graph over kinetic energy">
     </a>
-    <figcaption><h4>Coasting regneration</h4></figcaption>
+    <figcaption><h4>Graph over kinetic energy</h4></figcaption>
 </figure>
 
 ## Understanding energy consumption
@@ -235,6 +250,8 @@ The below diagram shows the calculated consumption needed to overcome drag and r
     <figcaption><h4>Calculated consumption</h4></figcaption>
 </figure>
 
+See also [full table](consumptiontable.png) with kinetic energy and consumption for all speeds from 1-100 mph (1-161 km/h)
+
 ## Is regen the best option always?
 
 Since regenerative braking is only 80% efficient it is best to avoid using it when you can. For scenario 1, driving down Pikes Peak is impossible without regenerative braking. If
@@ -243,7 +260,7 @@ rolling resistance and aerodynamic drag to reduce the speed.
 
 This would mean you need to lift your foot from the watt pedal early enough so you stop at the point you want by itself.
 
-So how much energy would that save? There are two factors that reduce total consumption.
+So how much energy would that save? Two factors reduce total consumption.
 
 - You will not lose 20% of the kinetic energy when regening
 - You will not lose 20% of the energy trying to keep the speed
@@ -253,7 +270,7 @@ Theoretical this can save
 - Scenario 2: 1.89 kWh/100km
 - Scenario 3: 3.02 kWh/100km
 
-But this is in the best-case scenario where you are able to calculate exactly where to lift the foot of the watt pedal. In the real world, this benefit would be smaller since you would end up needing to add some power or braking at the end when you are not able to calculate this correctly.
+But this is in the best-case scenario where you can calculate exactly where to lift the foot of the watt pedal. In the real world, this benefit would be smaller since you would end up needing to add some power or braking at the end when you are not able to calculate this correctly.
 
 ## One pedal driving vs manual/automatic regen
 
