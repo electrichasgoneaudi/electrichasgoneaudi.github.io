@@ -288,6 +288,8 @@ This type of increase you could even see in scenarios where there is no regenera
 
 The only way to know how much you have regenerated is to look at the state of charge of the battery.
 
+![SOC](soc.jpg "State of charge, the only way to see how much you have regenerated")
+
 ## One pedal driving vs manual/automatic regen
 
 On electric Audis, you can use regenerative brakes in different ways
