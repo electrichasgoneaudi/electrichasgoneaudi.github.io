@@ -4,6 +4,7 @@ linktitle: Understanding range
 description: For many, the range is the most important aspect of an EV. In this guide, we explain what affects the range of your all-electric Audi and why you don't see the range as expected.
 weight: 3
 ---
+<!-- markdownlint-disable MD033 -->
 
 The range of electric cars is typically given as a [WLTP range](https://en.wikipedia.org/wiki/Worldwide_Harmonised_Light_Vehicles_Test_Procedure) (Worldwide Harmonised Light Vehicles Test Procedure) in
 Europe or [EPA](https://en.wikipedia.org/wiki/Fuel_economy_in_automobiles#EPA_testing_procedure:_2008_and_beyond) in the US.
@@ -38,6 +39,25 @@ The aerodynamic drag affects how much energy is needed to move. The shape of the
 Audi A6 e-tron concept is currently the model with the lowest [drag coefficient](https://en.wikipedia.org/wiki/Drag_coefficient) with a Cw value on only 0.22
 
 ![Audi A6 e-tron concept](audia6etron.jpg "Audi A6 e-tron with Cw value of only 0.22")
+
+In the below graph you see how much consumption the aerodynamic drag causes for the different model series for Audi.
+
+<figure>
+    <a href="aerodynamicdrag.png">
+        <img src="aerodynamicdrags.png" alt="Consumption caused by aerodynamic dra" title="Consumption caused by aerodynamic dra">
+    </a>
+    <figcaption><h4>Consumption caused by aerodynamic dra</h4></figcaption>
+</figure>
+
+Calculated values for consumption only comming from aerodynamic drag based on 80% drivetrain efficiency.
+
+| Speed | Audi e-tron 55 | Audi Q4 e-tron | Audi e-tron GT |
+|-----|---------|-----------|----------|
+| 50km/h (31mph) | 3.04kWh/100km | 2.94 kWh/100km | 2.70kWh/100km |
+| 80km/h (49.7mph) | 7.79 kWh/100km | 7.52 kWh/100km | 6.91kWh/100km |
+| 120km/h (74.6mph) | 17.53kWh/100km | 16.94kWh/100km | 15.55kWh/100km |
+
+You see how at high speed the Audi e-tron GT saves a lot of energy compared to the suv because of less aerodynamic drag.
 
 ### Rolling resistance
 

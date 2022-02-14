@@ -297,7 +297,7 @@ On electric Audis, you can use regenerative brakes in different ways
 - Manual, only using the brake pedal
 - Automatic, letting the car decide when to regenerate
 - Manual, using steering wheel paddles to regenerate
-- One pedal driving - automatic regenerate when lifting the foot of watt pedal
+- One pedal driving - automatic regenerate when lifting the foot off watt pedal
 
 All methods use the same electric drivetrain components to do braking so they have the same efficiency.
 
