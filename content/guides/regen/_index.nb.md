@@ -44,7 +44,7 @@ I tillegg kommer aerodynamisk luftmotstand og rullemotstand som er krefter som v
 
 ### Scenario 1: Pikes Peak
 
-La oss ta Pikes Peak som et eksempel. Dette fjellet er 4300 meter høyt, og hvis du kjører ned de [første 30 kilometerne](https://www.google.com/maps/dir/Pikes+Peak,+Colorado+80809,+United+States/38.9057543,-104.9779289/@38.8779104,-105.0432721,10824m/data=!3m1!1e3!4m9!4m8!1m5!1m1!1s0x8714a806033005bd:0xa67b8c79d6580c1e!2m2!1d-105.0422595!2d38.8408707!1m0!3e0) du [har falt 1993 meter](https://www.slashgear.com/audi-e-tron-pikes-peak-recuperation-challenge-first-drive-ev-tech-07540279/) 
+La oss ta Pikes Peak som et eksempel. Dette fjellet er 4300 meter høyt, og hvis du kjører ned de [første 30 kilometerne](https://www.google.com/maps/dir/Pikes+Peak,+Colorado+80809,+United+States/38.9057543,-104.9779289/@38.8779104,-105.0432721,10824m/data=!3m1!1e3!4m9!4m8!1m5!1m1!1s0x8714a806033005bd:0xa67b8c79d6580c1e!2m2!1d-105.0422595!2d38.8408707!1m0!3e0) har du [redusert høyden med 1993 meter](https://www.slashgear.com/audi-e-tron-pikes-peak-recuperation-challenge-first-drive-ev-tech-07540279/) 
 
 1993 meter for en Audi e-tron 55 på 2900 kg er 15,74 kWh i potensiell energi.
 
