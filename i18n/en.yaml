@@ -29,6 +29,9 @@
  
 - id: guide-preserving-battery
   translation: Preserving battery
+  
+- id: guide-regen
+  translation: Regenerative brakes
 
 - id: frontpage-jumbotron-title
   translation: Everything about all-electric cars from Audi

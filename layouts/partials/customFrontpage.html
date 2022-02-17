@@ -273,6 +273,15 @@
                             </div>
                         </a>
                     </li>
+                    <li class="a-dotted a-clickable a-list-hasRowLink">
+                        <a href="{{ with .Site.GetPage `/guides/regen/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                            <div class="row">
+                                <div class="col">
+                                    {{T "guide-regen"}}
+                                </div>
+                            </div>
+                        </a>
+                    </li>
                   </ul>
               </div>
           </div>
