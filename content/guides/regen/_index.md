@@ -278,15 +278,15 @@ A common misunderstanding is that you can look at the range reported in the car 
 
 The range meter bases its calculation on the last 100km driven. If we take scenario 4 and assume the car has been driven from sea level up to the top at 650 meters in 80km/h (49.7 mph) the consumption would be 25.4kWh/100km at 650 meters.
 
-On the Audi e-tron 55 with 86.5kWh battery capacity, the range would be calculated to 340km (211 miles) based on this consumption.
+On the Audi e-tron 55 with 86.5kWh battery capacity, the range would be calculated to 340km (211 miles) for a full battery based on this consumption.
 
 After driving down the road section scenario 4 the total consumption from the battery would be reduced from 25.4kWh/100km to 21kWh/100km.
 
-This would increase the calculated range to 411km (255 miles).  Based on this you could mistakenly believe that you have regenerated 71km (44 miles), but the correct is 6.8km.(4.2 miles)
+This would increase the calculated range to 411km (255 miles) for a charged 100% battery (less depending on the real SOC).  Based on this you could mistakenly believe that you have regenerated 71km (44 miles), but the correct is 6.8km.(4.2 miles)
 
 This type of increase you could even see in scenarios where there is no regeneration, but just a decline that reduced the consumption.
 
-The only way to know how much you have regenerated is to look at the state of charge of the battery.
+The only way to know how much you have regenerated is to look at how much the state of charge of the battery changes from top to bottom of the montain.
 
 ![SOC](soc.jpg "State of charge, the only way to see how much you have regenerated")
 
