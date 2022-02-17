@@ -252,7 +252,7 @@ Diagrammet nedenfor viser det beregnede forbruket som er nødvendig for å overv
 
 Se også [full tabell](consumptiontable.png) med kinetisk energi og forbruk for alle hastigheter fra 1–100 mph (1–161 km/t)
 
-## Er regen alltid det beste alternativet?
+## Er regenerering alltid det beste alternativet?
 
 Siden regenerativ bremsing bare er 80 % effektiv, er det best å unngå å bruke den når du kan. For scenario 1 er det umulig å kjøre ned Pikes Peak uten regenerativ bremsing. Hvis
 du ikke bruker regen du vil krasje. Men hvis du antar flat vei på scenario 2 og 3, ville du gjort det bedre om du ser fremover og lar bilen rulle slik at den bruker
