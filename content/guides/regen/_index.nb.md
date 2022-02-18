@@ -149,7 +149,7 @@ Formelen for rotasjonsenergi
 - I: treghetsmomentet til objektet, uttrykt i kg*m².
 - ω: vinkelhastigheten til kroppen, uttrykt i radianer per sekund
 
-For et hjul er formelen
+For et hjul er formelen for [treghetsmoment](https://no.wikipedia.org/wiki/Treghetsmoment)
 
 I = M * R²
 
