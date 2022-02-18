@@ -108,7 +108,7 @@ Resten kunne regenereres, og med 80 % effektivitet gir dette 1,3kWh tilbake i ba
 
 1,3 kWh skal gi 6,8 km ekstra rekkevidde i 80 km/t (49,7 mph)
 
-## Forstå fysikken
+## Forstå fysikken bak
 
 ### Kinetisk energi
 
@@ -116,7 +116,7 @@ Et objekt i bevegelse har kinetisk energi. Denne energien avhenger av vekten til
 
 Formelen er
 
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.image?KE&space;=&space;\frac{ 1}{2}mv{2})
+![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.image?KE&space;=&space;\frac{1}{2}mv{2}) 
 
 Hvor
 
@@ -135,7 +135,7 @@ I alle beregninger på denne siden bruker vi Audi e-tron 55 med en vekt på 2900
 | 104,7 km/t | 65 mph | 29,0575 m/s | 0,340083 kWh |
 | 120,7 km/t | 75 mph | 33,528 m/s | 0,452773 kWh |
 
-Du kan bruke denne [kinetic energy-kalkulatoren](https://www.omnicalculator.com/physics/kinetic-energy) for andre hastigheter. Se også grafen under.
+Du kan bruke denne kalkulatoren for [kinetisk energi](https://www.omnicalculator.com/physics/kinetic-energy) for andre hastigheter. Se også grafen under.
 
 ### Rotasjonsenergi
 
