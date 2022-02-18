@@ -286,7 +286,7 @@ Etter å ha kjørt nedover veistrekning scenario 4 vil det totale forbruket fra 
 
 Dette vil øke den beregnede rekkevidden til 411 km (255 miles) for et ladet 100 % batteri (mindre avhengig av den virkelige SOC). Basert på dette kan du feilaktig tro at du har regenerert 71 km (44 miles), men det riktige er 6,8 km. (4,2 miles)
 
-Denne typen økning kan du til og med se i scenarier der det ikke er noen regenerering, men bare en nedkjøring som reduserte forbruket.
+Denne typen økning kan du til og med se i scenarier der det ikke er noen regenerering, men bare en slak nedoverbakke som reduserte forbruket.
 
 Den eneste måten å vite hvor mye du har regenerert er å se på hvor mye ladetilstanden til batteriet endres fra topp til bunn av fjellet.
 
