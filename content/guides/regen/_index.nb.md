@@ -262,8 +262,8 @@ Dette vil bety at du må løfte foten fra wattpedalen tidlig nok slik at du stop
 
 Så hvor mye energi vil det spare? To faktorer reduserer totalforbruket.
 
-– Du vil ikke miste 20 % av den kinetiske energien ved regenering
-– Du vil ikke miste 20 % av energien ved å prøve å holde farten til det punktet du må bremse.
+- Du vil ikke miste 20 % av den kinetiske energien ved regenering
+- Du vil ikke miste 20 % av energien ved å prøve å holde farten til det punktet du må bremse.
 
 Teoretisk kan dette spare
 
