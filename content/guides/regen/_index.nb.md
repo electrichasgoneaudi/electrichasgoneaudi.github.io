@@ -65,7 +65,7 @@ I videoen under ser du en virkelighetstest av akkurat denne turen og hvor mye de
 
 {{< youtube vrYRJ9TuaX0 >}}
 
-### Scenario 2: Full stopp fra 75 mph
+### Scenario 2: Full stopp fra 120km/t
 
 I dette scenariet beveger bilen seg i 120,7 km/t (75 mph) og må stoppe for rødt lys.
 
@@ -79,13 +79,13 @@ En hel tur på 100 km (62 miles) med 10 fulle stopp som dette vil da spare 3,8 k
 
 Dette betyr en forbruksreduksjon på 3,8kWh/100km.
 
-### Scenario 3: Reduser hastigheten fra 30 mph til helt stopp
+### Scenario 3: Reduser hastigheten fra 48 km/t til helt stopp
 
 ![Full stopp](fullstop.jpg "Bykjøring")
 
 Dette scenariet er et typisk bykjøringsscenario. Ved kjøring i 30 mph (48,28 km/t) har Audi e-tron en total kinetisk energi på 0,075620275 kWh.
 
-Basert på drivverkets effektivitet på 80 % sparer dette 0,06059 kWh tilbake til batteriet.
+Basert på drivverkets effektivitet på 80 % gir dette 0,06059 kWh tilbake til batteriet.
 
 Hvis du kjører 100 km i bytrafikk og trenger å gjøre 100 stopp som dette sparer du 6,05 kWh energi.
 
@@ -98,7 +98,7 @@ Dette reduserer energiforbruket med 6,05 kWh/100 km sammenlignet med en bil med 
 Dette fjellet ligger i Nord-Norge og hovedveien fra sør til nord går over det (E6).
 
 Hvis vi tar [denne seksjonen](https://www.google.com/maps/dir/66.6848804,15.4189889/66.8133394,15.4007768/@66.7423002,15.420291,132881m/data) hvor det begynner for å gå nedover ser vi at starten er på 650 meter (2132 fot) og den ender på 125 meter (410 fot) over havet.
-Med en avstand på 16,4 km (10,2 miles), gir dette en nedgang på 3,1 %
+Med en avstand på 16,4 km (10,2 miles), gir dette en nedstigning på 3,1 %
 
 Dette gir potensiell energi på 4.147 kWh.
 
@@ -149,7 +149,7 @@ Formelen for rotasjonsenergi
 - I: treghetsmomentet til objektet, uttrykt i kg*m².
 - ω: vinkelhastigheten til kroppen, uttrykt i radianer per sekund
 
-For et hjul treghetsmoment kan beregnes
+For et hjul er formelen
 
 I = M * R²
 
@@ -157,11 +157,11 @@ For en Audi e-tron gjør vi beregningen for hjulalternativet 265/40 R22. Med en 
 
 I = 30 * 0,3854^2 = 4,4559948
 
-For 80 km/t vil hjulet spinne med 566,89 rpm og den resulterende kinetiske energien vil være 8,724333 Wh eller 0,008724333 kWh for 4 hjul.
+For 80 km/t vil hjulet spinne med 566,89 rotasjoner i minuttet og den resulterende kinetiske energien vil være 8,724333 Wh eller 0,008724333 kWh for 4 hjul.
 
-Merk: Dette er ikke 100 % riktig siden formelen er basert på et hjul med samme form fra senter til kant og vil variere på utformingen av selve felgen. Men det er nærme nok for denne typen beregninger.
+Merk: Dette er ikke 100 % nøyaktig siden formelen er basert på et hjul med samme form fra senter til ytterkant og vil variere på utformingen av selve felgen. Men det er nærme nok for denne typen beregninger.
 
-Hvis du vil beregne, kan du prøve [Rotational Kinetic Energy-kalkulatoren](https://www.omnicalculator.com/physics/rotational-kinetic-energy)
+Hvis du vil beregne selv, kan du prøve [Rotational Kinetic Energy-kalkulatoren](https://www.omnicalculator.com/physics/rotational-kinetic-energy)
 
 ### Gravitasjons-/potensialenergi
 
@@ -230,7 +230,7 @@ For alle beregninger på denne artikkelen antar vi 15 °C
 
 I tillegg til dragkraft er det rullemotstand fra hjul og andre drivverkskomponenter som motvirker bevegelse.
 
-Det er ikke lett å finne dette nummeret, men med å kjenne til totalforbruk og forbruk forårsaket av luftmotstand, og effektiviteten på drivverket er det mulig å estimere rullemotstanden på Audi e-tron.
+Det er ikke lett å finne dette tallet, men med å kjenne til totalforbruk og forbruk forårsaket av luftmotstand, og effektiviteten på drivverket er det mulig å estimere rullemotstanden på Audi e-tron.
 
 Basert på historikken til Audi eiere virker det som å kjøre på tørr flat vei i 80 km/t i sommertemperatur krever rundt 19 kWh/100 km energi fra batteriet.
 Hvis vi antar 80 % effektivitet i drivverket, har vi et energibehov på 15,2 kWh/100 km totalt inkludert luftmotstand.
@@ -270,7 +270,9 @@ Teoretisk kan dette spare
 - Scenario 2: 1,89 kWh/100 km
 - Scenario 3: 3,02 kWh/100 km
 
-Men dette er i beste fall hvor du kan beregne nøyaktig hvor du skal løfte foten av wattpedalen. I den virkelige verden vil denne fordelen være mindre siden du ville ende opp med å måtte legge til litt kraft eller bremse på slutten når du ikke er i stand til å beregne dette riktig.
+Men dette er i beste fall hvor du kan beregne nøyaktig hvor du skal løfte foten av wattpedalen. I den virkelige verden vil denne fordelen være mindre siden du ville ende opp med å måtte legge til litt kraft eller bremse på slutten når du ikke er i stand til å beregne dette 100%.
+
+For scenario 4 vil bilen oppnå en hastighet på ca 130km/t hvis man ikke regenerer. Det kan fort bli dyrt hvis Pelle Politibil står i bunnen av bakken.
 
 ## Kan du se i bilen hvor mye som ble regenerert?
 
@@ -297,7 +299,7 @@ På elektriske Audier kan du bruke regenerative bremser på forskjellige måter
 - Manuell, kun ved bruk av bremsepedalen
 - Automatisk, lar bilen bestemme når den skal regenereres
 - Manuell, ved hjelp av rattpadler for å regenerere
-- En pedals kjøring - automatisk regenerering når du løfter foten av wattpedalen
+- En-pedals-kjøring - fast regenerering når du løfter foten av wattpedalen
 
 Alle metodene bruker de samme elektriske drivverkkomponentene for å bremse slik at de har samme effektivitet.
 
