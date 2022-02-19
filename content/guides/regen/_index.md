@@ -97,7 +97,7 @@ This reduces energy consumption by 6.05kWh/100km compared to a car with only fri
 
 This mountain is located in Northern Norway and the main road from South to North passes over it (E6).
 
-If we take [this section](https://www.google.com/maps/dir/66.6848804,15.4189889/66.8133394,15.4007768/@66.7423002,15.420291,13281m/data=!3m1!1e3) of the road where it starts to go downhill we see that the start is at 650 meters (2132feet) and it ends at 125 meters (410 feet) above sea level. 
+If we take [this section](https://www.google.com/maps/dir/66.6848804,15.4189889/66.8133394,15.4007768/@66.7980852,15.1624003,10z/data=!3m1!4b1) of the road where it starts to go downhill we see that the start is at 650 meters (2132feet) and it ends at 125 meters (410 feet) above sea level. 
 With a distance of 16.4 km (10.2 miles), this gives a decline of 3.1%
 
 This means potential energy of 4.147 kWh.

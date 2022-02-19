@@ -1,7 +1,7 @@
 ---
 title: Regenerativ bremsing
 linktitle: Regenerativ bremsing
-description: Regenerering av energi er en av fordelene med en elektrisk drivlinje. I denne artikkelen skal vi prøve å vise hvor mye regenerering kan påvirke forbruket.
+description: Regenerering av energi, eller rekuperasjon av energi som Audi ofte kaller det er en av fordelene med en elektrisk drivlinje. I denne artikkelen skal vi prøve å vise hvor mye regenerering kan påvirke forbruket.
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
@@ -16,11 +16,11 @@ Til slutt diskuterer vi om regenerering av energi alltid er det beste alternativ
 
 Regenereringen skjer når de elektriske motorene brukes som generatorer for å redusere hastigheten til et kjøretøy i bevegelse.
 
-For quattro-modeller, som Audi e-tron, kan begge motorene brukes til regenerativ bremsing avhengig av scenariet.
+For quattro-modeller, som Audi e-tron og Audi Q4 e-tron 45/50, kan begge motorene brukes til regenerativ bremsing avhengig av scenariet.
 
 Ved lett bremsing brukes kun den bakre motoren, men ved svinger eller hard bremsing brukes begge motorene.
 
-Bremsene blander også inn de fysiske bremsene om nødvendig, og blander dem sømløst med de regenerative bremsene. Dette skjer ved hard bremsing.
+Bremsesystemet kan også blande inn sømløst de fysiske bremsene (skiver/klosser) om nødvendig. Dette skjer ved hard bremsing.
 
 <figur>
     <a href="recuperation.png">
@@ -38,15 +38,18 @@ Videoen nedenfor viser i detalj hvordan de forskjellige motorene brukes.
 De følgende scenariene bruker matematikk og fysikk for å forklare hvor store fordelene med regenerativ bremsing er.
 
 Detaljene bak beregningen er forklart i fysikk-kapittelet, men du bør vite at et objekt i bevegelse har kinetisk energi som kan regenereres
-og en bil plassert i en forhøyet posisjon (som et fjell) har potensiell energi som kan regenereres.
+og en bil plassert i en forhøyet posisjon (som et fjell) har [potensiell energi](https://no.wikipedia.org/wiki/Potensiell_energi) som kan regenereres.
 
-I tillegg kommer aerodynamisk luftmotstand og rullemotstand som er krefter som virker mot bevegelsen til bilen.
+I tillegg kommer aerodynamisk luftmotstand og rullemotstand, som er krefter som virker mot bevegelsen til bilen.
+
+Drivverket er heller ikke uten tap, noe som betyr at noe energi går tapt i konverteringen av energi. Enten fra strøm på batteriet til bevegelse av bilen, eller motsatt, fra bevegelse på bilen til strøm på batteriet.
+På Audi e-tron er denne effektivteten ca 80%.
 
 ### Scenario 1: Pikes Peak
 
 La oss ta Pikes Peak som et eksempel. Dette fjellet er 4300 meter høyt, og hvis du kjører ned de [første 30 kilometerne](https://www.google.com/maps/dir/Pikes+Peak,+Colorado+80809,+United+States/38.9057543,-104.9779289/@38.8779104,-105.0432721,10824m/data=!3m1!1e3!4m9!4m8!1m5!1m1!1s0x8714a806033005bd:0xa67b8c79d6580c1e!2m2!1d-105.0422595!2d38.8408707!1m0!3e0) har du [redusert høyden med 1993 meter](https://www.slashgear.com/audi-e-tron-pikes-peak-recuperation-challenge-first-drive-ev-tech-07540279/) 
 
-1993 meter for en Audi e-tron 55 på 2900 kg er 15,74 kWh i potensiell energi.
+1993 meter for en Audi e-tron 55 på 2900 kg er 15,74 kWh i potensiell energi. Stigningen er i snitt 6.6% for denne strekningen.
 
 <figur>
     <a href="pikespeak.jpg">
@@ -61,7 +64,7 @@ For 30km betyr dette 3,15 kWh totalt. Denne energien vil bli tatt fra den potens
 
 Dette betyr 12,59 kWh å regenerere. Med 80 % effektivitet vil dette bety 10,07 kWh tilbake i batteriet.
 
-I videoen under ser du en virkelighetstest av akkurat denne turen og hvor mye de klarer å regenerere.
+I videoen under ser du en virkelig test av akkurat denne turen og hvor mye de klarer å regenerere.
 
 {{< youtube vrYRJ9TuaX0 >}}
 
@@ -73,7 +76,7 @@ I dette scenariet beveger bilen seg i 120,7 km/t (75 mph) og må stoppe for rød
 
 Som vist i grafen nedenfor gir 120,7 km/t for en 2900 kg Audi e-tron den totale kinetiske energien på 0,472626718 kWh.
 
-Med 80 % drivverkseffektivitet betyr dette at bilen vil kunne få 0,38 kWh tilbake til batteriet.
+Med et drivverk med 80 % effektivitet betyr dette at bilen vil kunne få 0,38 kWh tilbake til batteriet.
 
 En hel tur på 100 km (62 miles) med 10 fulle stopp som dette vil da spare 3,8 kWh for den totale turen sammenlignet med en bil med kun friksjonsbremser.
 
@@ -97,8 +100,8 @@ Dette reduserer energiforbruket med 6,05 kWh/100 km sammenlignet med en bil med 
 
 Dette fjellet ligger i Nord-Norge og hovedveien fra sør til nord går over det (E6).
 
-Hvis vi tar [denne seksjonen](https://www.google.com/maps/dir/66.6848804,15.4189889/66.8133394,15.4007768/@66.7423002,15.420291,132881m/data) hvor det begynner for å gå nedover ser vi at starten er på 650 meter (2132 fot) og den ender på 125 meter (410 fot) over havet.
-Med en avstand på 16,4 km (10,2 miles), gir dette en nedstigning på 3,1 %
+Hvis vi tar [denne seksjonen](https://www.google.com/maps/dir/66.6848804,15.4189889/66.8133394,15.4007768/@66.7980852,15.1624003,10z/data=!3m1!4b1) hvor det begynner for å gå nedover ser vi at starten er på 650 meter (2132 fot) og den ender på 125 meter (410 fot) over havet.
+Med en avstand på 16,4 km (10,2 miles), gir dette en gjennomsnittlig stigning på 3,1 % på dette veistykket.
 
 Dette gir potensiell energi på 4.147 kWh.
 
@@ -228,20 +231,20 @@ For alle beregninger på denne artikkelen antar vi 15 °C
 
 ### Rullemotstand
 
-I tillegg til dragkraft er det rullemotstand fra hjul og andre drivverkskomponenter som motvirker bevegelse.
+I tillegg til luftmotstand er det rullemotstand fra hjul og andre drivverkskomponenter som motvirker bevegelse.
 
-Det er ikke lett å finne dette tallet, men med å kjenne til totalforbruk og forbruk forårsaket av luftmotstand, og effektiviteten på drivverket er det mulig å estimere rullemotstanden på Audi e-tron.
+Det er ikke lett å finne dette tallet, men med å kjenne til totalforbruk og forbruk forårsaket av luftmotstand, og effektiviteten på drivverket, er det mulig å estimere rullemotstanden på Audi e-tron.
 
 Basert på historikken til Audi eiere virker det som å kjøre på tørr flat vei i 80 km/t i sommertemperatur krever rundt 19 kWh/100 km energi fra batteriet.
 Hvis vi antar 80 % effektivitet i drivverket, har vi et energibehov på 15,2 kWh/100 km totalt inkludert luftmotstand.
 
-Hvis vi tar bort energien som trengs for luftmotstand, har vi rundt 8,95 kWh/100 km for å overvinne rullemotstanden.
+Hvis vi tar bort energien som trengs for motvirke luftmotstanden, har vi rundt 8,95 kWh/100 km for å overvinne rullemotstanden.
 
 Dette tallet er et estimat. På våte veier eller veier med snø øker rullemotstanden.
 
 ### Forbrukssammendrag
 
-Diagrammet nedenfor viser det beregnede forbruket som er nødvendig for å overvinne luftmotstand og rullemotstand og forbruk fra batteriet basert på 80 % effektivitet av drivverket. Den reelle effektiviteten er ikke kjent, men den forventes å være rundt 80 %.
+Diagrammet nedenfor viser det beregnede forbruket som er nødvendig for å overvinne luftmotstand og rullemotstand og forbruk fra batteriet basert på 80 % effektivitet av drivverket. Den reelle effektiviteten er ikke kjent, men tester viser at det ligger rundt 80 % for Audi e-tron.
 
 <figur>
     <a href="consumption.png">
@@ -255,7 +258,7 @@ Se også [full tabell](consumptiontable.png) med kinetisk energi og forbruk for 
 ## Er regenerering alltid det beste alternativet?
 
 Siden regenerativ bremsing bare er 80 % effektiv, er det best å unngå å bruke den når du kan. For scenario 1 er det umulig å kjøre ned Pikes Peak uten regenerativ bremsing. Hvis
-du ikke bruker regen du vil krasje. Men hvis du antar flat vei på scenario 2 og 3, ville du gjort det bedre om du ser fremover og lar bilen rulle slik at den bruker
+du ikke bruker regenerative bremsene du vil krasje. Men hvis du antar flat vei på scenario 2 og 3, ville du gjort det bedre om du ser fremover og lar bilen rulle slik at den bruker
 rullemotstand og aerodynamisk luftmotstand for å redusere hastigheten til full stopp.
 
 Dette vil bety at du må løfte foten fra wattpedalen tidlig nok slik at du stopper på det punktet du ønsker av seg selv.
@@ -272,7 +275,7 @@ Teoretisk kan dette spare
 
 Men dette er i beste fall hvor du kan beregne nøyaktig hvor du skal løfte foten av wattpedalen. I den virkelige verden vil denne fordelen være mindre siden du ville ende opp med å måtte legge til litt kraft eller bremse på slutten når du ikke er i stand til å beregne dette 100%.
 
-For scenario 4 vil bilen oppnå en hastighet på ca 130km/t hvis man ikke regenerer. Det kan fort bli dyrt hvis Pelle Politibil står i bunnen av bakken.
+For scenario 4 vil bilen oppnå en hastighet på ca 130km/t hvis man ikke regenerer. Det kan fort bli dyrt hvis Pelle Politibil står i bunnen av bakken. Energimessig vil man da miste all potensiell energi, så i dette scenarioet er det lønnsomt å regenerere for å få noe av den potensielle energien tilbake til batteriet.
 
 ## Kan du se i bilen hvor mye som ble regenerert?
 
@@ -282,7 +285,7 @@ Rekkeviddeberegningen baserer sin beregning på de siste 100 km kjørt. Hvis vi 
 
 På Audi e-tron 55 med 86,5 kWh batterikapasitet, vil rekkevidden bli beregnet til 340 km (211 miles) for et fullt batteri basert på dette forbruket.
 
-Etter å ha kjørt nedover veistrekning scenario 4 vil det totale forbruket fra batteriet reduseres fra 25,4 kWh/100 km til 21 kWh/100 km.
+Etter å ha kjørt nedover veistrekning scenario 4 vil det totale forbruket, for de siste 100km fra batteriet reduseres, fra 25,4 kWh/100 km til 21 kWh/100 km.
 
 Dette vil øke den beregnede rekkevidden til 411 km (255 miles) for et ladet 100 % batteri (mindre avhengig av den virkelige SOC). Basert på dette kan du feilaktig tro at du har regenerert 71 km (44 miles), men det riktige er 6,8 km. (4,2 miles)
 
@@ -307,7 +310,7 @@ Men en-pedals-kjøring har litt redusert effektivitet i scenarier der sjåføren
 
 Siden du må holde foten på pedalen i en bestemt posisjon for ikke å bruke energi eller bremsing, vil du alltid bruke mer tid på å komme til denne posisjonen sammenlignet med å løfte foten direkte fra pedalen. I tillegg krever det litt trening for å holde foten i perfekt posisjon.
 
-Derfor anbefaler Audi å bruke automatisk regen med frihjul for å spare energi.
+Derfor anbefaler Audi å bruke automatisk regen med rulling for å spare energi.
 
 Forskjellen er liten, trolig mindre enn 10 % av forskjellen mellom rulling og regenerativ bremsing i scenariene der rulling er mulig.
 
