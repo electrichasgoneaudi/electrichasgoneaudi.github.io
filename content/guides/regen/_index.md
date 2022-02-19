@@ -26,7 +26,7 @@ The brakes also blend in the physical brakes if needed mixing it with the regene
     <a href="recuperation.png">
         <img src="recuperations.png" alt="Coasting regneration" title="Coasting regneration">
     </a>
-    <figcaption><h4>Coasting regneration</h4></figcaption>
+    <figcaption><h4>Coasting regeneration</h4></figcaption>
 </figure>
 
 The below video shows in detail how the different engines are used.
@@ -41,6 +41,9 @@ The details behind the calculation are explained in the physics chapter, but you
 and a car located in an elevated position has potential energy that can be regenerated.
 
 In addition, there is aerodynamic drag and rolling resistance that are forces that works against the movement of the car.
+
+The drivetrain is also not without loss, which means that some energy is lost in the conversion of energy. Either from power on the battery to movement of the car, or vice versa, from movement on the car to power on the battery.
+On the Audi e-tron, this efficiency is about 80%.
 
 ### Scenario 1: Pikes Peak
 
@@ -87,7 +90,7 @@ This scenario is a typical city driving scenario. When driving at 30 mph (48.28k
 
 Based on the 80% efficiency of the drivetrain this saves 0,06059kWh back to the battery.
 
-If you drive 100km in city traffic and need to make 100 stops like this you save 6,05 kWh energy.
+If you drive 100km in city traffic and need to make 100 stops like this, you save 6,05 kWh energy.
 
 This reduces energy consumption by 6.05kWh/100km compared to a car with only friction brakes
 
@@ -184,7 +187,7 @@ See [potential energy calculator](https://www.omnicalculator.com/physics/potenti
 
 ### Summary
 
-The below graph shows the total kinetic energy and the two types of kinetic energy energy
+The below graph shows the total kinetic energy and the two types of kinetic energy.
 
 <figure>
     <a href="kinetic.png">
@@ -195,7 +198,7 @@ The below graph shows the total kinetic energy and the two types of kinetic ener
 
 ## Understanding energy consumption
 
-Before we give you an example of how much energy can be regenerated we need to explain energy consumption. Because this affects the result.
+Before we give you an example of how much energy can be regenerated, we need to explain energy consumption. Because this affects the result.
 
 ### Consumption by aerodynamic drag
 
@@ -233,9 +236,9 @@ In addition to drag force, there is rolling resistance from wheels and other dri
 It is not easy to find this number, but with knowing the total consumption and the consumption caused by drag, and the efficiency on the drivetrain it is possible to estimate the rolling resistance on the Audi e-tron.
 
 Based on driver history it seems like driving on a dry road at 80 km/h in summer temperature requires around 19kWh/100km energy from the battery.
-If we assume 80% efficiency in the drivetrain we have an energy need of 15.2kWh/100km in total including drag.  
+If we assume 80% efficiency in the drivetrain, we have an energy need of 15.2kWh/100km in total including drag.  
 
-If we take away the energy needed for drag we have around 8.95kWh/100km to overcome rolling resistance.
+If we take away the energy needed for drag, we have around 8.95kWh/100km to overcome rolling resistance.
 
 This number is an estimate. On wet roads or roads with snow, the rolling resistance increases.
 
@@ -255,7 +258,7 @@ See also [full table](consumptiontable.png) with kinetic energy and consumption 
 ## Is regen the best option always?
 
 Since regenerative braking is only 80% efficient it is best to avoid using it when you can. For scenario 1, driving down Pikes Peak is impossible without regenerative braking. If
-you don't use regen you will crash. But if you assume flat road on scenarios 2 and 3, you would do better if you look ahead and let the car coast so it uses the
+you don't use regen you will crash. But if you assume flat road on scenarios 2 and 3, you would do better if you look ahead and let the car coast, so it uses the
 rolling resistance and aerodynamic drag to reduce the speed.
 
 This would mean you need to lift your foot from the watt pedal early enough so you stop at the point you want by itself.
@@ -286,7 +289,7 @@ This would increase the calculated range to 411km (255 miles) for a charged 100%
 
 This type of increase you could even see in scenarios where there is no regeneration, but just a decline that reduced the consumption.
 
-The only way to know how much you have regenerated is to look at how much the state of charge of the battery changes from top to bottom of the montain.
+The only way to know how much you have regenerated is to look at how much the state of charge of the battery changes from top to bottom of the mountain.
 
 ![SOC](soc.jpg "State of charge, the only way to see how much you have regenerated")
 
@@ -299,7 +302,7 @@ On electric Audis, you can use regenerative brakes in different ways
 - Manual, using steering wheel paddles to regenerate
 - One pedal driving - automatic regenerate when lifting the foot off watt pedal
 
-All methods use the same electric drivetrain components to do braking so they have the same efficiency.
+All methods use the same electric drivetrain components to do braking, so they have the same efficiency.
 
 But one-pedal-driving has a little reduced efficiency in scenarios where the driver wants to transition from using power to coasting.
 
