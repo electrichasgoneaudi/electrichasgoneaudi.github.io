@@ -9,7 +9,7 @@ Den er bygget på den nye [PPE-plattformen](../../technology/bev-platforms/ppe/)
 
 De første kundene kan forvente å motta Audi Q6 e-tron i Q1/Q2 2023.
 
-Modellen vil komme i forskjellige versjoner med ulik batterikapasitet og plasserer seg størrelsesmessig mellom [Audi Q4 e-tron](../models/../q4-e-tron/) og [Audi e-tron](../models/e-tron/).
+Modellen vil komme i forskjellige versjoner med ulik batterikapasitet og plasserer seg størrelsesmessig mellom [Audi Q4 e-tron](../../models//q4-e-tron/) og [Audi e-tron](../../models/e-tron/).
 
 
 ![Prototype](prototype5.jpg "Audi Q6 e-tron prototype fra Carscopes")

@@ -11,7 +11,9 @@ The first customers can expect to receive the Audi Q6 e-tron in Q1/Q2 2023.
 
 The model will come in different versions with different battery capacities.
 
-In size it will be between Audi Q4 e-tron and Audi e-tron.
+In size it will be between [Audi Q4 e-tron](../../models//q4-e-tron/) and [Audi e-tron](../../models/e-tron/).
+
+![Prototype](prototype5.jpg "Audi Q6 e-tron prototype by Carscopes")
 
 ## Battery & Range
 
