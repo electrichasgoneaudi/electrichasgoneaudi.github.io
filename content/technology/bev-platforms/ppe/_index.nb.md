@@ -33,8 +33,8 @@ nivåer og batterikapasitet på PPE-plattformen. Som i Audi e-tron GT, staten
 ladningen er 800 volt; i kombinasjon med høyeffektiv termisk styring, muliggjør det en
 høy ladekapasitet på 350 kW.
 
-Batteristørrelser er ukjente for øyeblikket, men A6 e-tron-konseptet har 100 kWh netto og en rekkevidde på 700 km WLTP.
-Dette vil indikere et forbruk på 14,2 kWh/100 km som indikerer en meget effektiv drivlinje.
+Batteristørrelser er ukjente for øyeblikket, men A6 e-tron-konseptet har 100 kWh brutto og en rekkevidde på 700 km WLTP.
+Med 94kWh netto batteri vil det indikere et forbruk på 13,4 kWh/100 km som indikerer en meget effektiv drivlinje.
 
 For [Audi grandshpere concept](../../../articles/audigrandsphereconcept/) bruker Audi PPE platformen med 120kWh batteri.
 
