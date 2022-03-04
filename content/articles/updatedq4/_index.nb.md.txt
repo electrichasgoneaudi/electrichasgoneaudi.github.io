@@ -2,7 +2,7 @@
 title: Høyere ladekapasitet og utvidede nettfunksjoner for Audi Q4 e-tron
 linktitle: Oppdatert Q4 e-tron
 description: På veien med raskere ladetider og flere tilkoblede funksjoner. Audi fremmer konsekvent sin helelektriske Q4 e-tron modellserie. Q4 e-tron og Q4 Sportback e-tron-modellene får en rekke nye funksjoner. Kunder kan se frem til raskere ladetider for modeller med store batterier samt et utvidet tilbud via Audi connect og myAudi-appen.
-weight: 100005
+weight: 99998
 ---
 <!-- markdownlint-disable MD033 -->
 <figure>
