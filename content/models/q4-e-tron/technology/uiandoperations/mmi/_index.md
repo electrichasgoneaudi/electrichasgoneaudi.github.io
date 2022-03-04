@@ -15,8 +15,8 @@ Audi Q4 e-tron comes with MMI Touch as standard. The MMI touch display with acou
 
 It is used to control the infotainment system as well as a number of comfort functions.
 
-In addition, it allows text input in handwriting. In the optional large version, the display comes with an 11.6-inch diagonal and a resolution of 1,764 x 824 pixels.
+In addition, it allows text input in handwriting. In the optional large version, the display comes with an 11.6-inch diagonal and a resolution of 1,764 x 824 pixels. This comes standard with the MMI pro and MMI plus packages.
 
-It is the largest display in the Audi portfolio to date and is expected to be available for order this year.
+
 
 ![Audi MMI](mmi.jpg "Audi MMI touch")

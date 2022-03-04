@@ -74,6 +74,8 @@
 
 - id: footer-about
   translation: About
+
+  ## news
   
 - id: frontpage-article-chargehub-title
   translation: World first - start of the Audi charging hub as an urban quick-charging concept
@@ -98,3 +100,9 @@
 
 - id: frontpage-article-regenerativebraking-synopsis
   translation: Learn how regenerative braking works on all-electric Audis and how much it can affect.
+  
+- id: frontpage-article-updatedq4-title
+  translation: Audi updates Q4 e-tron
+
+- id: frontpage-article-updatedq4-synopsis
+  translation: Audi updates the smallest all-electric model. Thats includes charging up to 135KW and a larger MMI screen.

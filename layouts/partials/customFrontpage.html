@@ -46,6 +46,22 @@
     <div class="container">
         <div class="row">
             <div class="col-12 col-lg-12 mb-12">
+                <a href="{{ with .Site.GetPage `/articles/updatedq4/`}}{{.URL}}{{end}}" class="a-illustrationLink">
+                    <div class="">
+                        <img src="articles/updatedq4/q4update_frontpage.jpg">
+                        <div class="a-illustration-overlay">
+                            <span class="sr-only">{{T "frontpage-article-updatedq4-title"}}</span>
+                        </div>
+                    </div>
+                    <h2 class="a-h2">{{T "frontpage-article-updatedq4-title"}}</h2>
+                    <p class="a-js-truncate-2">{{T "frontpage-article-updatedq4-synopsis"}}</p>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-6 mb-5">
                 <a href="{{ with .Site.GetPage `/guides/regen/`}}{{.URL}}{{end}}" class="a-illustrationLink">
                     <div class="">
                         <img src="guides/regen/pikespeak_frontpage.jpg">
@@ -53,13 +69,25 @@
                             <span class="sr-only">{{T "frontpage-article-regenerativebraking-title"}}</span>
                         </div>
                     </div>
-                    <h2 class="a-h2">{{T "frontpage-article-regenerativebraking-title"}}</h2>
+                    <h2 class="a-h3">{{T "frontpage-article-regenerativebraking-title"}}</h2>
                     <p class="a-js-truncate-2">{{T "frontpage-article-regenerativebraking-synopsis"}}</p>
+                   
+                </a>
+            </div>
+            <div class="col-12 col-lg-6 mb-5">
+                <a href="{{ with .Site.GetPage `/articles/chargehub/`}}{{.URL}}{{end}}" class="a-illustrationLink">
+                    <div class="">
+                        <img src="articles/chargehub/chargehub_frontpage.jpg">
+                        <div class="a-illustration-overlay">
+                            <span class="sr-only">{{T "frontpage-article-chargehub-title"}}</span>
+                        </div>
+                    </div>
+                    <h2 class="a-h3">{{T "frontpage-article-chargehub-title"}}</h2>
+                    <p class="a-js-truncate-2">{{T "frontpage-article-chargehub-synopsis"}}</p>
+                   
                 </a>
             </div>
         </div>
-    </div>
-    <div class="container">
         <div class="row">
             <div class="col-12 col-lg-6 mb-5">
                 <a href="{{ with .Site.GetPage `/articles/electromobilityinwinter/`}}{{.URL}}{{end}}" class="a-illustrationLink">
