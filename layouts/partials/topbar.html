@@ -13,7 +13,7 @@
 
         <!-- Begin .a-globalNav -->
         <nav class="a-globalNav " id="primary-nav">
-          <a href="{{ with .Site.GetPage `/`}}{{.URL}}{{end}}" class="a-globalNav-logo">
+          <a href="{{ with .Site.GetPage `/`}}{{.RelPermalink}}{{end}}" class="a-globalNav-logo">
             <img src="/images/logo.png" alt="Audi logo"
               class="an-logo adocs-logo">
 
@@ -27,22 +27,22 @@
                 {{- partial "language-switcher.html" . -}}
               </li>
               <li>
-                <a class="a-hvr-underline" href="{{ with .Site.GetPage `/models/`}}{{.URL}}{{end}}">
+                <a class="a-hvr-underline" href="{{ with .Site.GetPage `/models/`}}{{.RelPermalink}}{{end}}">
                    {{ T "menu-models"}}
                 </a>
               </li>
               <li>
-                <a class="a-hvr-underline " href="{{ with .Site.GetPage `/technology/`}}{{.URL}}{{end}}">
+                <a class="a-hvr-underline " href="{{ with .Site.GetPage `/technology/`}}{{.RelPermalink}}{{end}}">
                   {{ T "menu-technology"}} 
                 </a>
               </li>
               <li>
-                <a class="a-hvr-underline" href="{{ with .Site.GetPage `/guides/`}}{{.URL}}{{end}}">
+                <a class="a-hvr-underline" href="{{ with .Site.GetPage `/guides/`}}{{.RelPermalink}}{{end}}">
                   {{ T "menu-guides"}} 
                 </a>
               </li>
               <li>
-                <a class="a-hvr-underline" href="{{ with .Site.GetPage `/articles/`}}{{.URL}}{{end}}">
+                <a class="a-hvr-underline" href="{{ with .Site.GetPage `/articles/`}}{{.RelPermalink}}{{end}}">
                   {{ T "menu-articles"}} 
                 </a>
               </li>

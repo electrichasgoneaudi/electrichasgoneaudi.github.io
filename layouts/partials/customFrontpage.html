@@ -62,7 +62,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 col-lg-6 mb-5">
-                <a href="{{ with .Site.GetPage `/guides/regen/`}}{{.URL}}{{end}}" class="a-illustrationLink">
+                <a href="{{ with .Site.GetPage `/guides/regen/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
                     <div class="">
                         <img src="guides/regen/pikespeak_frontpage.jpg">
                         <div class="a-illustration-overlay">
@@ -75,7 +75,7 @@
                 </a>
             </div>
             <div class="col-12 col-lg-6 mb-5">
-                <a href="{{ with .Site.GetPage `/articles/chargehub/`}}{{.URL}}{{end}}" class="a-illustrationLink">
+                <a href="{{ with .Site.GetPage `/articles/chargehub/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
                     <div class="">
                         <img src="articles/chargehub/chargehub_frontpage.jpg">
                         <div class="a-illustration-overlay">
@@ -90,7 +90,7 @@
         </div>
         <div class="row">
             <div class="col-12 col-lg-6 mb-5">
-                <a href="{{ with .Site.GetPage `/articles/electromobilityinwinter/`}}{{.URL}}{{end}}" class="a-illustrationLink">
+                <a href="{{ with .Site.GetPage `/articles/electromobilityinwinter/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
                     <div class="">
                         <img src="articles/electromobilityinwinter/electromobilityinwinter_frontpage.jpg">
                         <div class="a-illustration-overlay">
@@ -103,7 +103,7 @@
                 </a>
             </div>
             <div class="col-12 col-lg-6 mb-5">
-                <a href="{{ with .Site.GetPage `/articles/thermalmanagementwinter/`}}{{.URL}}{{end}}" class="a-illustrationLink">
+                <a href="{{ with .Site.GetPage `/articles/thermalmanagementwinter/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
                     <div class="">
                         <img src="articles/thermalmanagementwinter/thermalmanagementwinter_frontpage.jpg">
                         <div class="a-illustration-overlay">
@@ -122,7 +122,7 @@
 
     <div class="row adocs-featuredBlocks">
         <div class="col-12 col-lg-4 mb-5">
-            <a href="{{ with .Site.GetPage `/models/`}}{{.URL}}{{end}}" class="a-illustrationLink">
+            <a href="{{ with .Site.GetPage `/models/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
                 <h2 class="a-h3">{{T "frontpage-sections-models-title"}}</h2>
                 <p class="a-js-truncate-2">{{T "frontpage-sections-models-description"}}</p>
                 <div class="a-illustration-icon">
@@ -135,7 +135,7 @@
             <div class="a-list-container mb-2 mx-auto mx-lg-2">
                 <ul class="a-list a-list-noIcon">
                     <li class="a-dotted a-clickable a-list-hasRowLink">
-                        <a href="{{ with .Site.GetPage `/models/e-tron/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                        <a href="{{ with .Site.GetPage `/models/e-tron/`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
                             <div class="row">
                                 <div class="col">
                                     Audi e-tron
@@ -144,7 +144,7 @@
                         </a>
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
-                        <a href="{{ with .Site.GetPage `/models/e-tron-gt/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                        <a href="{{ with .Site.GetPage `/models/e-tron-gt/`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
                             <div class="row">
                                 <div class="col">
                                     Audi e-tron GT
@@ -153,7 +153,7 @@
                         </a>
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
-                        <a href="{{ with .Site.GetPage `/models/q4-e-tron`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                        <a href="{{ with .Site.GetPage `/models/q4-e-tron`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
                             <div class="row">
                                 <div class="col">
                                     Audi Q4 e-tron
@@ -162,7 +162,7 @@
                         </a>
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
-                        <a href="{{ with .Site.GetPage `/models/q5-e-tron`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                        <a href="{{ with .Site.GetPage `/models/q5-e-tron`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
                             <div class="row">
                                 <div class="col">
                                     Audi Q5 e-tron
@@ -171,7 +171,7 @@
                         </a>
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
-                        <a href="{{ with .Site.GetPage `/models/q6-e-tron/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                        <a href="{{ with .Site.GetPage `/models/q6-e-tron/`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
                             <div class="row">
                                 <div class="col">
                                     Audi Q6 e-tron
@@ -180,7 +180,7 @@
                         </a>
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
-                        <a href="{{ with .Site.GetPage `/models/q8-e-tron/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                        <a href="{{ with .Site.GetPage `/models/q8-e-tron/`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
                             <div class="row">
                                 <div class="col">
                                     Audi Q8 e-tron
@@ -189,7 +189,7 @@
                         </a>
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
-                        <a href="{{ with .Site.GetPage `/models/a4-e-tron/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                        <a href="{{ with .Site.GetPage `/models/a4-e-tron/`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
                             <div class="row">
                                 <div class="col">
                                     Audi A4 e-tron
@@ -198,7 +198,7 @@
                         </a>
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
-                        <a href="{{ with .Site.GetPage `/models/a6-e-tron/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                        <a href="{{ with .Site.GetPage `/models/a6-e-tron/`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
                             <div class="row">
                                 <div class="col">
                                     Audi A6 e-tron
@@ -210,7 +210,7 @@
             </div>
         </div>
         <div class="col-12 col-lg-4 mb-5">
-            <a href="{{ with .Site.GetPage `/technology/`}}{{.URL}}{{end}}" class="a-illustrationLink">
+            <a href="{{ with .Site.GetPage `/technology/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
                 <h2 class="a-h3">{{T "frontpage-sections-technology-title"}}</h2>
                 <p class="a-js-truncate-2">{{T "frontpage-sections-technology-description"}}</p>
                 <div class="a-illustration-icon">
@@ -223,7 +223,7 @@
             <div class="a-list-container mb-2 mx-auto mx-lg-2">
                 <ul class="a-list a-list-noIcon">
                 <li class="a-dotted a-clickable a-list-hasRowLink">
-                        <a href="{{ with .Site.GetPage `/technology/bev-platforms`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                        <a href="{{ with .Site.GetPage `/technology/bev-platforms`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
                             <div class="row">
                                 <div class="col">
                                     BEV Platforms
@@ -232,7 +232,7 @@
                         </a>
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
-                        <a href="{{ with .Site.GetPage `/technology/battery/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                        <a href="{{ with .Site.GetPage `/technology/battery/`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
                             <div class="row">
                                 <div class="col">
                                     EV Battery
@@ -241,7 +241,7 @@
                         </a>
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
-                        <a href="{{ with .Site.GetPage `/technology/audiconnect/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                        <a href="{{ with .Site.GetPage `/technology/audiconnect/`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
                             <div class="row">
                                 <div class="col">
                                     Audi connect
@@ -253,7 +253,7 @@
             </div>
         </div>
         <div class="col-12 col-lg-4 mb-5">
-              <a href="{{ with .Site.GetPage `/guides/`}}{{.URL}}{{end}}" class="a-illustrationLink">
+              <a href="{{ with .Site.GetPage `/guides/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
                   <h2 class="a-h3">{{T "frontpage-sections-guides-title"}}</h2>
                   <p class="a-js-truncate-2">{{T "frontpage-sections-guides-description"}}</p>
                   <div class="a-illustration-icon">
@@ -266,7 +266,7 @@
               <div class="a-list-container mb-2 mx-auto mx-lg-2">
                   <ul class="a-list a-list-noIcon">
                       <li class="a-dotted a-clickable a-list-hasRowLink">
-                          <a href="{{ with .Site.GetPage `/guides/onepedaldriving/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                          <a href="{{ with .Site.GetPage `/guides/onepedaldriving/`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
                               <div class="row">
                                   <div class="col">
                                     {{T "guide-one-pedal-driving"}}
@@ -275,7 +275,7 @@
                           </a>
                       </li>
                       <li class="a-dotted a-clickable a-list-hasRowLink">
-                          <a href="{{ with .Site.GetPage `/guides/protectingbattery/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                          <a href="{{ with .Site.GetPage `/guides/protectingbattery/`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
                               <div class="row">
                                   <div class="col">
                                     {{T "guide-preserving-battery"}}
@@ -284,7 +284,7 @@
                           </a>
                       </li>
                       <li class="a-dotted a-clickable a-list-hasRowLink">
-                          <a href="{{ with .Site.GetPage `/guides/understandingrange/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                          <a href="{{ with .Site.GetPage `/guides/understandingrange/`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
                               <div class="row">
                                   <div class="col">
                                     {{T "guide-understanding-range"}}
@@ -293,7 +293,7 @@
                           </a>
                       </li>
                       <li class="a-dotted a-clickable a-list-hasRowLink">
-                        <a href="{{ with .Site.GetPage `/guides/checkingbatteryhealth/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                        <a href="{{ with .Site.GetPage `/guides/checkingbatteryhealth/`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
                             <div class="row">
                                 <div class="col">
                                     {{T "guide-checking-battery"}}
@@ -302,7 +302,7 @@
                         </a>
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
-                        <a href="{{ with .Site.GetPage `/guides/regen/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                        <a href="{{ with .Site.GetPage `/guides/regen/`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
                             <div class="row">
                                 <div class="col">
                                     {{T "guide-regen"}}
@@ -331,17 +331,17 @@
                   <p class="a-fontSizeS mb-4">{{T "guide-buying-description"}}</p>
                   <ul>
                     <li>
-                        <a href="{{ with .Site.GetPage `/models/e-tron/optionguide/`}}{{.URL}}{{end}}">
+                        <a href="{{ with .Site.GetPage `/models/e-tron/optionguide/`}}{{.RelPermalink}}{{end}}">
                             {{T "guide-options-etron"}}
                         </a>
                     </li>
                     <li>
-                        <a href="{{ with .Site.GetPage `/models/q4-e-tron/optionguide/`}}{{.URL}}{{end}}">
+                        <a href="{{ with .Site.GetPage `/models/q4-e-tron/optionguide/`}}{{.RelPermalink}}{{end}}">
                             {{T "guide-options-q4-etron"}}
                         </a>
                     </li>
                     <li>
-                        <a href="{{ with .Site.GetPage `/models/e-tron-gt/optionguide/`}}{{.URL}}{{end}}">
+                        <a href="{{ with .Site.GetPage `/models/e-tron-gt/optionguide/`}}{{.RelPermalink}}{{end}}">
                             {{T "guide-options-etron-gt"}}
                         </a>
                     </li>
