@@ -46,6 +46,35 @@
     <div class="container">
         <div class="row">
             <div class="col-12 col-lg-12 mb-12">
+                <a href="{{ with .Site.GetPage `/articles/audidna/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
+                    <div class="">
+                        <img src="articles/audidna/audidna_frontpage.jpg">
+                        <div class="a-illustration-overlay">
+                            <span class="sr-only">{{T "frontpage-article-audidna-title"}}</span>
+                        </div>
+                    </div>
+                    <h2 class="a-h2">{{T "frontpage-article-audidna-title"}}</h2>
+                    <p class="a-js-truncate-2">{{T "frontpage-article-audidna-synopsis"}}</p>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-6 mb-5">
+                <a href="{{ with .Site.GetPage `/articles/secrettrials/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
+                    <div class="">
+                        <img src="articles/secrettrials/secrettrials_frontpage.jpg">
+                        <div class="a-illustration-overlay">
+                            <span class="sr-only">{{T "frontpage-article-secrettrials-title"}}</span>
+                        </div>
+                    </div>
+                    <h2 class="a-h3">{{T "frontpage-article-secrettrials-title"}}</h2>
+                    <p class="a-js-truncate-2">{{T "frontpage-article-secrettrials-synopsis"}}</p>
+                   
+                </a>
+            </div>
+            <div class="col-12 col-lg-6 mb-5">
                 <a href="{{ with .Site.GetPage `/articles/updatedq4/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
                     <div class="">
                         <img src="articles/updatedq4/q4update_frontpage.jpg">
@@ -58,8 +87,6 @@
                 </a>
             </div>
         </div>
-    </div>
-    <div class="container">
         <div class="row">
             <div class="col-12 col-lg-6 mb-5">
                 <a href="{{ with .Site.GetPage `/guides/regen/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
@@ -89,7 +116,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-12 col-lg-6 mb-5">
+            <div class="col-12 col-lg-4 mb-5">
                 <a href="{{ with .Site.GetPage `/articles/electromobilityinwinter/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
                     <div class="">
                         <img src="articles/electromobilityinwinter/electromobilityinwinter_frontpage.jpg">
@@ -102,7 +129,20 @@
                    
                 </a>
             </div>
-            <div class="col-12 col-lg-6 mb-5">
+            <div class="col-12 col-lg-4 mb-5">
+                <a href="{{ with .Site.GetPage `/articles/electromobilityinwinter/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
+                    <div class="">
+                        <img src="articles/electromobilityinwinter/electromobilityinwinter_frontpage.jpg">
+                        <div class="a-illustration-overlay">
+                            <span class="sr-only">{{T "frontpage-article-electromobilityinwinter-title"}}</span>
+                        </div>
+                    </div>
+                    <h2 class="a-h3">{{T "frontpage-article-electromobilityinwinter-title"}}</h2>
+                    <p class="a-js-truncate-2">{{T "frontpage-article-electromobilityinwinter-synopsis"}}</p>
+                   
+                </a>
+            </div>
+            <div class="col-12 col-lg-4 mb-5">
                 <a href="{{ with .Site.GetPage `/articles/thermalmanagementwinter/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
                     <div class="">
                         <img src="articles/thermalmanagementwinter/thermalmanagementwinter_frontpage.jpg">
@@ -119,8 +159,7 @@
     </div>
 
     <div class="container">
-
-    <div class="row adocs-featuredBlocks">
+        <div class="row adocs-featuredBlocks">
         <div class="col-12 col-lg-4 mb-5">
             <a href="{{ with .Site.GetPage `/models/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
                 <h2 class="a-h3">{{T "frontpage-sections-models-title"}}</h2>
