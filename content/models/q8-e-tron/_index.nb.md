@@ -72,4 +72,9 @@ Dimensjonene på Audi Q8 e-tron vil være de samme som Audi e-tron.
 ## Transportmuligheter
 
 I tillegg til de 5 setene har Q8 e-tron både bagasjerom og frunk i tillegg til takoppbevaring og tilhengermuligheter.
+
+Videoen under viser testing av 2023 Audi SQ8 e-tron prototype.
+
+{{< youtube uDzsA8CKdFY >}}
+
 {{% children description="true" depth="1" %}}
