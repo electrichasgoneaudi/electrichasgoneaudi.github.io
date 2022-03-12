@@ -72,3 +72,7 @@ The dimensions on the Audi Q8 e-tron will be the same as the Audi e-tron.
 ## Transportation capabilities
 
 In addition to the 5 seats, the Q8 e-tron has both a trunk and a frunk in addition to roof storage and trailer capabilities.
+
+Video below show testing of 2023 Audi SQ8 e-tron prototype
+
+{{< youtube uDzsA8CKdFY >}}
