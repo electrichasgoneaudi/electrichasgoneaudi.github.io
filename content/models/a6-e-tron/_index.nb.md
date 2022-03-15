@@ -17,14 +17,21 @@ I mars 2022 presenterte Audi også Audi A6 Avant-konseptet til denne bilen.
 
 Forventningen er at A6 e-tron lanseres i 2023 og de første eierne vil motta den tidlig i 2024.
 
-Den vil være basert på den nye [PPE-plattformen](../../technology/bev-platforms/ppe/) som utvikles sammen med Porsche.
-
 <figur>
     <a href="a6-etron-4.jpg">
         <img src="a6-etron-4s.jpg" alt="Audi A6 e-tron konsept" title="Audi A6 e-tron konsept">
     </a>
     <figcaption><h4>Audi A6 e-tron Avant-konsept</h4></figcaption>
 </figur>
+
+Den vil være basert på den nye [PPE-plattformen](../../technology/bev-platforms/ppe/) som utvikles sammen med Porsche.
+
+<figure>
+    <a href="../../technology/bev-platforms/ppe/drivetrain.jpg">
+        <img src="../../technology/bev-platforms/ppe/drivetrain.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
+    </a>
+     <figcaption><h4>Audi A6 e-tron drivetrain</h4></figcaption>
+</figure>
 
 ## Batteri og rekkevidde
 
