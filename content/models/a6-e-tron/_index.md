@@ -17,7 +17,7 @@ March 17. 2022 Audi also presented the Audi A6 Avant concept of this car.
 
 The expectation is that this will be launched in 2023 and the first owners will receive it in early 2024. 
 
-It will be based on the new PPE-platform 
+It will be based on the new [PPE-platform](../../technology/bev-platforms/ppe/) 
 
 <figure>
     <a href="a6-etron-4.jpg">
