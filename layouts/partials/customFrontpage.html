@@ -46,6 +46,22 @@
     <div class="container">
         <div class="row">
             <div class="col-12 col-lg-12 mb-12">
+                <a href="{{ with .Site.GetPage `/models/a6-e-tron/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
+                    <div class="">
+                        <img src="models/a6-e-tron/a6-etron-4.jpg">
+                        <div class="a-illustration-overlay">
+                            <span class="sr-only">{{T "frontpage-article-a6avant-title"}}</span>
+                        </div>
+                    </div>
+                    <h2 class="a-h2">{{T "frontpage-article-a6avant-title"}}</h2>
+                    <p class="a-js-truncate-2">{{T "frontpage-article-a6avant-synopsis"}}</p>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-6 mb-5">
                 <a href="{{ with .Site.GetPage `/articles/audidna/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
                     <div class="">
                         <img src="articles/audidna/audidna_frontpage.jpg">
@@ -57,11 +73,8 @@
                     <p class="a-js-truncate-2">{{T "frontpage-article-audidna-synopsis"}}</p>
                 </a>
             </div>
-        </div>
-    </div>
-    <div class="container">
-        <div class="row">
             <div class="col-12 col-lg-6 mb-5">
+                
                 <a href="{{ with .Site.GetPage `/articles/secrettrials/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
                     <div class="">
                         <img src="articles/secrettrials/secrettrials_frontpage.jpg">
@@ -73,7 +86,10 @@
                     <p class="a-js-truncate-2">{{T "frontpage-article-secrettrials-synopsis"}}</p>
                    
                 </a>
+               
             </div>
+        </div>
+        <div class="row">
             <div class="col-12 col-lg-6 mb-5">
                 <a href="{{ with .Site.GetPage `/articles/updatedq4/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
                     <div class="">
@@ -85,9 +101,8 @@
                     <h2 class="a-h2">{{T "frontpage-article-updatedq4-title"}}</h2>
                     <p class="a-js-truncate-2">{{T "frontpage-article-updatedq4-synopsis"}}</p>
                 </a>
+              
             </div>
-        </div>
-        <div class="row">
             <div class="col-12 col-lg-6 mb-5">
                 <a href="{{ with .Site.GetPage `/guides/regen/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
                     <div class="">
@@ -101,7 +116,10 @@
                    
                 </a>
             </div>
-            <div class="col-12 col-lg-6 mb-5">
+        </div>
+        <div class="row">
+            <div class="col-12 col-lg-4 mb-5">
+                
                 <a href="{{ with .Site.GetPage `/articles/chargehub/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
                     <div class="">
                         <img src="articles/chargehub/chargehub_frontpage.jpg">
@@ -111,21 +129,6 @@
                     </div>
                     <h2 class="a-h3">{{T "frontpage-article-chargehub-title"}}</h2>
                     <p class="a-js-truncate-2">{{T "frontpage-article-chargehub-synopsis"}}</p>
-                   
-                </a>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-12 col-lg-4 mb-5">
-                <a href="{{ with .Site.GetPage `/articles/electromobilityinwinter/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
-                    <div class="">
-                        <img src="articles/electromobilityinwinter/electromobilityinwinter_frontpage.jpg">
-                        <div class="a-illustration-overlay">
-                            <span class="sr-only">{{T "frontpage-article-electromobilityinwinter-title"}}</span>
-                        </div>
-                    </div>
-                    <h2 class="a-h3">{{T "frontpage-article-electromobilityinwinter-title"}}</h2>
-                    <p class="a-js-truncate-2">{{T "frontpage-article-electromobilityinwinter-synopsis"}}</p>
                    
                 </a>
             </div>
