@@ -94,6 +94,10 @@ Join our [Audi A6 e-tron owners](https://www.facebook.com/groups/559047723429763
 
 ## Photos & Video
 
+See detailed video from @auditography
+
+{{< youtube _BhLriimGQE >}}
+
 <figure>
     <a href="a6-etron-1.jpg">
         <img src="a6-etron-1s.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">

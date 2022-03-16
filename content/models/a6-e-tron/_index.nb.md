@@ -94,6 +94,10 @@ Bli med i vår [Audi A6 e-tron Owners Norway](https://www.facebook.com/groups/75
 
 ## Bilder og video
 
+Se detaljert video fra @auditography
+
+{{< youtube _BhLriimGQE >}}
+
 <figur>
     <a href="a6-etron-1.jpg">
         <img src="a6-etron-1s.jpg" alt="Audi A6 e-tron konsept" title="Audi A6 e-tron konsept">
