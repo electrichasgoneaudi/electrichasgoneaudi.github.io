@@ -6,7 +6,7 @@ weight: 7
 ---
 <!-- markdownlint-disable MD033 -->
 
-March 17. 2022 Audi also presented the Audi A6 Avant concept of this car.
+March 17. 2022 Audi also presented the Audi A6 Avant e-tron concept of this car.
 
 <figure>
     <a href="a6-etron-3.jpg">
@@ -21,7 +21,7 @@ The expectation is that this will be launched in 2023 and the first owners will 
     <a href="a6-etron-4.jpg">
         <img src="a6-etron-4s.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
     </a>
-    <figcaption><h4>Audi A6 e-tron Avant concept</h4></figcaption>
+    <figcaption><h4>Audi A6 Avant e-tron concept</h4></figcaption>
 </figure>
 
 It will be based on the new [PPE-platform](../../technology/bev-platforms/ppe/) 
@@ -50,11 +50,11 @@ The battery will have an 800-Volt architecture for high-performance charging.
 
 The expectation is that it will come in different versions
 
-- Audi A6 e-tron / Audi A6 e-tron Avant with small battery
-- Audi A6 / Audi A6 e-tron Avant with large battery
-- Audi A6 quattro / Audi A6 e-tron avant quattro with large battery
-- Audi S6 e-tron Avant
-- Audi RS6 e-tron Avant
+- Audi A6 e-tron / Audi A6 Avant e-tron with small battery
+- Audi A6 / Audi A6 Avant e-tron with large battery
+- Audi A6 quattro / Audi A6 Avant e-tron quattro with large battery
+- Audi S6 Avant e-tron
+- Audi RS6 Avant e-tron
 
 Audi will use different motor setups on the different variants.
 

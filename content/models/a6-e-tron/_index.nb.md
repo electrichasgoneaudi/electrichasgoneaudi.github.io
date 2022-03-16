@@ -50,11 +50,11 @@ Batteriet vil ha en 800-volts arkitektur for høyytelseslading.
 
 Forventningen er at den kommer i forskjellige versjoner
 
-- Audi A6 e-tron / Audi A6 e-tron Avant med lite batteri
-- Audi A6 / Audi A6 e-tron Avant med stort batteri
-- Audi A6 quattro / Audi A6 e-tron avant quattro med stort batteri
-- Audi S6 e-tron Avant
-- Audi RS6 e-tron Avant
+- Audi A6 e-tron / Audi A6 Avant e-tron med lite batteri
+- Audi A6 / Audi A6 Avant e-tron med stort batteri
+- Audi A6 quattro / Audi A6 Avant e-tron quattro med stort batteri
+- Audi S6 Avant e-tron
+- Audi RS6 Avant e-tron
 
 Audi vil bruke ulike motoroppsett på de ulike variantene.
 
