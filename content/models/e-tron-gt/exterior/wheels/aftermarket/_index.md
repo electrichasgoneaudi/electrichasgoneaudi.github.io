@@ -52,6 +52,28 @@ Vossen HF3 in satin Black
     <figcaption><h4>Vossen HF3 in satin Black</h4></figcaption>
 </figure>
 
+## 22" Vossen HF5 
+
+<figure>
+    <a href="vossen_hf5_1.jpg">
+        <img src="vossen_hf5_1s.jpg" alt="Vossen HF5 in satin Black" title="Vossen HF5 in satin Black">
+    </a>
+    <figcaption><h4>Vossen HF5 in satin Black</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="vossen_hf5_2.jpg">
+        <img src="vossen_hf5_2s.jpg" alt="Vossen HF5 in satin Black" title="Vossen HF5 in satin Black">
+    </a>
+    <figcaption><h4>Vossen HF5 in satin Black</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="vossen_hf5_2.jpg">
+        <img src="vossen_hf5_2s.jpg" alt="Vossen HF5 in satin Black" title="Vossen HF5 in satin Black">
+    </a>
+    <figcaption><h4>Vossen HF5 in satin Black</h4></figcaption>
+</figure>
 
 ## 21" GMP Rebel
 
