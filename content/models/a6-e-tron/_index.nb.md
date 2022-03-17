@@ -9,20 +9,13 @@ weight: 7
 I mars 2022 presenterte Audi også Audi A6 Avant-konseptet til denne bilen.
 
 <figur>
-    <a href="a6-etron-3.jpg">
-        <img src="a6-etron-3s.jpg" alt="Audi A6 e-tron konsept" title="Audi A6 e-tron konsept">
+    <a href="a6-etron-7.jpg">
+        <img src="a6-etron-7s.jpg" alt="Audi A6 e-tron konsept" title="Audi A6 e-tron konsept">
     </a>
-    <figcaption><h4>Audi A6 e-tron-konsept</h4></figcaption>
+    <figcaption><h4>Audi A6 e-tron og Audi A6 Avant e-tron konsept</h4></figcaption>
 </figur>
 
 Forventningen er at A6 e-tron lanseres i 2023 og de første eierne vil motta den tidlig i 2024.
-
-<figur>
-    <a href="a6-etron-4.jpg">
-        <img src="a6-etron-4s.jpg" alt="Audi A6 e-tron konsept" title="Audi A6 e-tron konsept">
-    </a>
-    <figcaption><h4>Audi A6 e-tron Avant-konsept</h4></figcaption>
-</figur>
 
 Den vil være basert på den nye [PPE-plattformen](../../technology/bev-platforms/ppe/) som utvikles sammen med Porsche.
 
@@ -49,6 +42,14 @@ Batteriet vil ha en 800-volts arkitektur for høyytelseslading.
 ![Batteri](battery.png "Audi A6 e-tron batteri med 12 moduler og 100kWh brutto")
 
 ## Motor og ytelse
+
+<figur>
+    <a href="a6-etron-6.jpg">
+        <img src="a6-etron-6s.jpg" alt="Audi A6 e-tron konsept" title="Audi A6 e-tron konsept">
+    </a>
+    <figcaption><h4>Audi A6 e-tron Avant-konsept</h4></figcaption>
+</figur>
+
 
 Forventningen er at den kommer i forskjellige versjoner
 
@@ -121,5 +122,13 @@ Audi A6 e-tron tilhenger
 Audi A6 e-tron eksteriørdetaljer
 
 {{< youtube XYq8fbOoyQg >}}
+
+Trailer of the new Audi A6 Avant e-tron concept.
+
+{{< youtube oZbIGpWj8YA >}}
+
+Video of drivetrain
+
+{{< youtube r_wD-LblZqY >}}
 
 {{% children description="true" depth="1" %}}

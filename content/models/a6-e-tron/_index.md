@@ -9,20 +9,13 @@ weight: 7
 March 17. 2022 Audi also presented the Audi A6 Avant e-tron concept of this car.
 
 <figure>
-    <a href="a6-etron-3.jpg">
-        <img src="a6-etron-3s.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
+    <a href="a6-etron-7.jpg">
+        <img src="a6-etron-7s.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
     </a>
-    <figcaption><h4>Audi A6 e-tron concept</h4></figcaption>
+    <figcaption><h4>Audi A6 e-tron and Audi A6 Avant e-tron concept</h4></figcaption>
 </figure>
 
 The expectation is that this will be launched in 2023 and the first owners will receive it in early 2024. 
-
-<figure>
-    <a href="a6-etron-4.jpg">
-        <img src="a6-etron-4s.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
-    </a>
-    <figcaption><h4>Audi A6 Avant e-tron concept</h4></figcaption>
-</figure>
 
 It will be based on the new [PPE-platform](../../technology/bev-platforms/ppe/) 
 
@@ -47,6 +40,13 @@ The battery will have an 800-Volt architecture for high-performance charging.
 ![Battery](battery.png "Audi A6 e-tron battery with 12 modules and 100kWh gross")
 
 ## Motor and performance
+
+<figure>
+    <a href="a6-etron-6.jpg">
+        <img src="a6-etron-6s.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
+    </a>
+    <figcaption><h4>Audi A6 Avant e-tron concept</h4></figcaption>
+</figure>
 
 The expectation is that it will come in different versions
 
@@ -119,5 +119,15 @@ Audi A6 e-tron trailer
 Audi A6 e-tron exterior details
 
 {{< youtube XYq8fbOoyQg >}}
+
+Trailer of the new Audi A6 Avant e-tron concept.
+
+{{< youtube oZbIGpWj8YA >}}
+
+Video of drivetrain
+
+{{< youtube r_wD-LblZqY >}}
+
+
 
 {{% children description="true" depth="1" %}}
