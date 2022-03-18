@@ -15,9 +15,9 @@ March 17. 2022 Audi also presented the Audi A6 Avant e-tron concept of this car.
     <figcaption><h4>Audi A6 e-tron and Audi A6 Avant e-tron concept</h4></figcaption>
 </figure>
 
-The expectation is that this will be launched in 2023 and the first owners will receive it in early 2024. 
+The expectation is that this will be launched in 2023 and the first owners will receive it in early 2024.
 
-It will be based on the new [PPE-platform](../../technology/bev-platforms/ppe/) 
+It will be based on the new [PPE-platform](../../technology/bev-platforms/ppe/) that is co-created with Porsche
 
 <figure>
     <a href="../../technology/bev-platforms/ppe/drivetrain.jpg">
@@ -35,7 +35,7 @@ It will be delivered in two battery sizes
 
 This will give the Audi A6 e-tron a WLTP range of approximately 520-700km depending on the trim level for the biggest battery. (13.4 - 18 kWh/100km)
 
-The battery will have an 800-Volt architecture for high-performance charging.
+The battery will have an 800-Volt architecture for high-performance charging up to 270KW for DC charging. 300km charging takes as little as 10 minutes.
 
 ![Battery](battery.png "Audi A6 e-tron battery with 12 modules and 100kWh gross")
 
@@ -48,13 +48,15 @@ The battery will have an 800-Volt architecture for high-performance charging.
     <figcaption><h4>Audi A6 Avant e-tron concept</h4></figcaption>
 </figure>
 
-The expectation is that it will come in different versions
+The expectation is that it will come in different versions. 
 
-- Audi A6 e-tron / Audi A6 Avant e-tron with small battery
-- Audi A6 / Audi A6 Avant e-tron with large battery
-- Audi A6 quattro / Audi A6 Avant e-tron quattro with large battery
-- Audi S6 Avant e-tron
-- Audi RS6 Avant e-tron
+- Audi A6 e-tron / Audi A6 Avant e-tron with small battery (45 rating)
+- Audi A6 / Audi A6 Avant e-tron with large battery (the version with longest range)(50 rating)
+- Audi A6 quattro / Audi A6 Avant e-tron quattro with large battery (55 rating)
+- Audi S6 Avant e-tron  (60 rating)
+- Audi RS6 Avant e-tron (70 rating)
+
+The concept version have 469HP and 800 nm torque. (60 rating)
 
 Audi will use different motor setups on the different variants.
 

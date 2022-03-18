@@ -4,6 +4,7 @@ linktitle: Forstå rekkevidde
 description: For mange er rekkevidden det viktigste aspektet ved en elektrisk bil. I denne guiden forklarer vi hva som påvirker rekkevidden til din helelektriske Audi og hvorfor du ikke opplever den forventede rekkevidden.
 weight: 3
 ---
+<!-- markdownlint-disable MD033 -->
 
 Rekkevidden på elektriske biler er typisk oppgitt som [WLTP rekkevidde](https://en.wikipedia.org/wiki/Worldwide_Harmonised_Light_Vehicles_Test_Procedure) (Worldwide Harmonised Light Vehicles Test Procedure) i
 Europa eller [EPA](https://en.wikipedia.org/wiki/Fuel_economy_in_automobiles#EPA_testing_procedure:_2008_and_beyond) i USA.
@@ -38,6 +39,37 @@ påvirker det men også utformingen av felger.
 Audi A6 e-tron concept er for øyblikket modellen med lavest [drag coefficient](https://en.wikipedia.org/wiki/Drag_coefficient) med en Cw  verdi på kun 0.22
 
 ![Audi A6 e-tron concept](audia6etron.jpg "Audi A6 e-tron med Cw  verdi på kun 0.22")
+
+Grafen nedenfor viser hvor mye luftmotstanden påvirker forbruker på forskjellige modeller.
+
+<figure>
+    <a href="aerodynamicdrag.png">
+        <img src="aerodynamicdrags.png" alt="Consumption caused by aerodynamic dra" title="Consumption caused by aerodynamic dra">
+    </a>
+    <figcaption><h4>Consumption caused by aerodynamic dra</h4></figcaption>
+</figure>
+
+Calculated values for consumption only comming from aerodynamic drag based on 80% drivetrain efficiency.
+
+| Speed | Audi e-tron 55 | Audi Q4 e-tron | Audi e-tron GT |
+|-----|---------|-----------|----------|
+| 50km/h (31mph) | 3.04kWh/100km | 2.94 kWh/100km | 2.31kWh/100km |
+| 80km/h (49.7mph) | 7.79 kWh/100km | 7.52 kWh/100km | 5.92kWh/100km |
+| 120km/h (74.6mph) | 17.53kWh/100km | 16.94kWh/100km | 13.33kWh/100km |
+
+You see how at high speed the Audi e-tron GT saves a lot of energy compared to the suv because of less aerodynamic drag.
+
+This values are based on the drag coefficient and front area of the models
+
+| Model | Drag coefficient (cd) | Frontal area |
+|----|-----|------|
+| Audi e-tron SUV | 0.28 | 2.65m2 |
+| Audi e-tron Sportback | 0.26 | 2.65m2 |
+| Audi Q4 e-tron SUV | 0.28 | 2.56m2 |
+| Audi Q4 e-tron Sportback | 0.26 | 2.56m2 |
+| Audi e-tron GT | 0.24 | 2.35m2 |
+| Audi A6 e-tron sportback | 0.22 | ?m2 |
+| Audi A6 Avant e-tron sportback | 0.24 | ?m2 |
 
 ### Rullemotstand
 

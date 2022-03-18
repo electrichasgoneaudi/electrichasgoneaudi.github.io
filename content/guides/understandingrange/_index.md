@@ -46,18 +46,30 @@ In the below graph you see how much consumption the aerodynamic drag causes for 
     <a href="aerodynamicdrag.png">
         <img src="aerodynamicdrags.png" alt="Consumption caused by aerodynamic dra" title="Consumption caused by aerodynamic dra">
     </a>
-    <figcaption><h4>Consumption caused by aerodynamic dra</h4></figcaption>
+    <figcaption><h4>Forbruk grunnet luftmotstand</h4></figcaption>
 </figure>
 
-Calculated values for consumption only comming from aerodynamic drag based on 80% drivetrain efficiency.
+Beregnede verdier for forbruk som kun kommer fra aerodynamisk luftmotstand basert på 80 % drivverkseffektivitet.
 
 | Speed | Audi e-tron 55 | Audi Q4 e-tron | Audi e-tron GT |
 |-----|---------|-----------|----------|
-| 50km/h (31mph) | 3.04kWh/100km | 2.94 kWh/100km | 2.70kWh/100km |
-| 80km/h (49.7mph) | 7.79 kWh/100km | 7.52 kWh/100km | 6.91kWh/100km |
-| 120km/h (74.6mph) | 17.53kWh/100km | 16.94kWh/100km | 15.55kWh/100km |
+| 50km/h (31mph) | 3.04kWh/100km | 2.94 kWh/100km | 2.31kWh/100km |
+| 80km/h (49.7mph) | 7.79 kWh/100km | 7.52 kWh/100km | 5.92kWh/100km |
+| 120km/h (74.6mph) | 17.53kWh/100km | 16.94kWh/100km | 13.33kWh/100km |
 
-You see how at high speed the Audi e-tron GT saves a lot of energy compared to the suv because of less aerodynamic drag.
+Du ser hvordan Audi e-tron GT i høy hastighet sparer mye energi sammenlignet med suven på grunn av mindre aerodynamisk luftmotstand.
+
+Disse verdiene er basert på luftmotstandskoeffisienten og størrelsen på frontområdet til modellene 
+
+| Model | Drag coefficient (cd) | Frontal area |
+|----|-----|------|
+| Audi e-tron SUV | 0.28 | 2.65m2 |
+| Audi e-tron Sportback | 0.26 | 2.65m2 |
+| Audi Q4 e-tron SUV | 0.28 | 2.56m2 |
+| Audi Q4 e-tron Sportback | 0.26 | 2.56m2 |
+| Audi e-tron GT | 0.24 | 2.35m2 |
+| Audi A6 e-tron sportback | 0.22 | ?m2 |
+| Audi A6 Avant e-tron sportback | 0.24 | ?m2 |
 
 ### Rolling resistance
 
