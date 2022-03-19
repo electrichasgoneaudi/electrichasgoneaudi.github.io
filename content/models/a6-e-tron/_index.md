@@ -6,7 +6,7 @@ weight: 7
 ---
 <!-- markdownlint-disable MD033 -->
 
-March 17. 2022 Audi also presented the Audi A6 Avant e-tron concept of this car.
+March 17. 2022 Audi also presented the Audi A6 Avant e-tron concept of this model.
 
 <figure>
     <a href="a6-etron-7.jpg">
@@ -17,7 +17,7 @@ March 17. 2022 Audi also presented the Audi A6 Avant e-tron concept of this car.
 
 The expectation is that this will be launched in 2023 and the first owners will receive it in early 2024.
 
-It will be based on the new [PPE-platform](../../technology/bev-platforms/ppe/) that is co-created with Porsche
+It will be based on the new [PPE-platform](../../technology/bev-platforms/ppe/) that is co-created with Porsche.
 
 <figure>
     <a href="../../technology/bev-platforms/ppe/drivetrain.jpg">

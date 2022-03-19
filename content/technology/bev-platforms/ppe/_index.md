@@ -19,7 +19,7 @@ PPE will take on the role in the world of electric vehicles that the modular lon
 platform holds in vehicles powered by combustion engines. It is characterized by a high-tech
 and highly scalable architecture that allows both low- and high-floor vehicles to be realized.
 
-Audi is developing various model series on the basis of PPE that will cover the segments from
+Audi is developing various model series based on PPE that will cover the segments from
 the upper medium-size class to the luxury class as SUVs, Sportbacks, Avants and Crossovers with various different vehicle types. In doing so, the brand is also expanding its current model portfolio in the full-size class and luxury segments by adding numerous electric variants.
 
 ![Porsche Macan](macan.jpg "Porsche Macan prototype based on PPE")
@@ -58,6 +58,34 @@ the suspension area.
 - [Audi S6 e-tron](../../../models/a6-e-tron) UnConfirmed
 - [Audi RS6 e-tron](../../../models/a6-e-tron) UnConfirmed
 - [Audi A4 e-tron](../../../models/a4-e-tron) Unconfirmed
+
+The below video show Audi A6 Avant concept with more details about PPE
+
+{{< youtube r_wD-LblZqY>}}
+
+## Battery
+
+The first models on this platform will come with two battery sizes.
+
+- 12 modules with 100 kWh gross (94kWh net)
+- 10 modules with 83.3kWh gross (78kWh net).
+
+![Battery](battery.png "PPE-battery with 12 modules")
+
+The cells will be [prismatic](../../battery/cell/#prismatic-housing) and each module is expected to have 34 cells on 67AH.
+
+This gives
+
+- 204s2p and 737Volt nominal for the 12 module version
+- 170s2p and 614Volt nominal for the 10 module version
+
+## Motors
+
+Models based on PPE will be delivered with different motor setups in combination with the small and large battery.
+
+![Motors](motors.jpg)
+
+The models will have from around 300HP to close to 700HP depending on setup.
 
 ## PPE vs MLB evo
 

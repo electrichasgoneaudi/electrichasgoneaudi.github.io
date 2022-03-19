@@ -28,12 +28,12 @@ With 12 modules that would mean that the 12 modules version would have a setup l
 - 204s2p - 408 cells - 737Volt nominal - 67AH cells
 - 216s2p - 432 cells - 780Volt nominal - 63AH cells
 
-Similar 10 modules version would then have  613 28
+Similar 10 modules version would then have
 
-- 180s2p - 300 cells - 542Volt nominal - 76AH cells
-- 192s2p - 320 cells - 578Volt nominal - 71AH cells
-- 204s2p - 340 cells - 614Volt nominal - 67AH cells
-- 216s2p - 360 cells - 650Volt nominal - 63AH cells
+- 150s2p - 300 cells - 542Volt nominal - 76AH cells
+- 160s2p - 320 cells - 578Volt nominal - 71AH cells
+- 170s2p - 340 cells - 614Volt nominal - 67AH cells
+- 180s2p - 360 cells - 650Volt nominal - 63AH cells
 
 Porsche Taycan, that uses same battery as Audi e-tron GT, have a version with smaller battery. It has a nominal voltage on 613 volt.
 Based on this we belive that Audi/Porsche will go for a 204s2p setup with 67AH prismatic cells.

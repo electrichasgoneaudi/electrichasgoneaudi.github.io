@@ -59,6 +59,34 @@ opphengsområdet.
 - [Audi RS6 e-tron](../../../models/a6-e-tron) Ubekreftet
 - [Audi A4 e-tron](../../../models/a4-e-tron) Ubekreftet
 
+Videoen nedenfor viser Audi A6 Avant konsept med flere detaljer om PPE
+
+{{< youtube r_wD-LblZqY>}}
+
+## Batteri
+
+De første modellene på denne plattformen kommer med to batteristørrelser.
+
+- 12 moduler med 100 kWh brutto (94 kWh netto)
+- 10 moduler med 83,3kWh brutto (78kWh netto).
+
+![Batteri](battery.png "PPE-batteri med 12 moduler")
+
+Cellene vil være [prismatiske](../../battery/cell/#prismatisk-hus) og hver modul forventes å ha 34 celler på 67AH.
+
+Dette gir
+
+- 204s2p og 737Volt nominell for 12-modulversjonen
+- 170s2p og 614Volt nominell for 10-modulversjonen
+
+## Motorer
+
+Modeller basert på PPE vil bli levert med ulike motoroppsett i kombinasjon med det lille og store batteriet.
+
+![Motorer](motors.jpg)
+
+Modellene vil ha fra rundt 300HK til nærmere 700HK avhengig av oppsett.
+
 ## PPE vs MLB evo
 
 I 2020 hadde Audi en presentasjon der de diskuterte noen av forbedringene av den nye plattformen i forhold til MLB evo-plattformen.
