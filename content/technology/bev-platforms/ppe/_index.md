@@ -4,6 +4,7 @@ linktitle: PPE
 description: For its full-size class and luxury models, Audi is relying on a fourth platform.
 weight: 4
 ---
+<!-- markdownlint-disable MD033 -->
 
 The Premium Platform Electric (PPE) has been designed and developed in cooperation with Porsche from the
 start. Porsche will use it for their upcoming Porsche Macan, while Audi will use it for [Audi Q6 e-tron](../../../models/q6-e-tron/)
@@ -29,14 +30,30 @@ great potential in terms of output and performance. As standard, the vehicles ar
 one electric motor in the rear; the top-of-the-range models are equipped with a second electric
 motor at the front axle (PSM or ASM) that allows them to activate all-wheel drive
 automatically when needed. If will of course also be possible to realize different performance
-levels and battery capacities on the PPE platform. Like in the Audi e-tron GT, the state
-of charge is 800 volts; in combination with high-efficiency thermal management, it enables a
-high charging capacity of 350 kW.
+levels and battery capacities on the PPE platform.
 
-Battery sizes are unknown at current time, but A6 e-tron concept have 100kWh gross and a range of 700 km WLTP.
-With a 6% buffer and 94kWh nett battery this will indicate a WLTP combined consumption on 13.4 kWh/100km. This indicates a very efficient drivetrain.
+## Battery
 
-For the [Audi grandshpere concept](../../../articles/audigrandsphereconcept/) Audi uses PPE platform with 120kWh battery.
+Like in the Audi e-tron GT, the battery will be 800 volts; in combination with high-efficiency thermal management, it enables a
+high charging capacity of up to 270 kW.
+
+All-electric models based on PPE will be delivered with different battery sizes over time. Audi A6 e-tron and Audi Q6 e-tron
+will be deliveres with two different configurations when they are launced.
+
+- 12 modules with 100 kWh gross (94kWh net)
+- 10 modules with 83.3kWh gross (78kWh net).
+
+![Battery](battery.png "PPE-battery with 12 modules")
+
+The cells will be [prismatic](../../battery/cell/#prismatic-housing) and each module is expected to have 34 cells on 67AH.
+
+This gives the following [battery architecture](../../battery/batterysystem/#architecture).
+
+- 204s2p and 737Volt nominal for the 12 module version
+- 170s2p and 614Volt nominal for the 10 module version
+
+More battery sizes will come at a later time.
+For the [Audi grandshpere concept](../../../articles/audigrandsphereconcept/) Audi uses a PPE platform with 120kWh battery.
 
 ![Drivetrain](drivetrain.jpg "PPE-drivetrain")
 
@@ -50,7 +67,15 @@ the suspension area.
 
 {{< youtube U72YuVF_mdI >}}
 
-## Models expected to be on PPE platform
+## Motors
+
+Models based on PPE will be delivered with different motor setups in combination with the small and large batteries.
+
+![Motors](motors.jpg)
+
+The models will have from around 300HP to close to 700HP depending on setup.
+
+## Models expected to be on the PPE platform
 
 - [Audi Q6 e-tron](../../../models/q6-e-tron) Confirmed
 - [Audi SQ6 e-tron](../../../models/q6-e-tron) UnConfirmed
@@ -59,33 +84,18 @@ the suspension area.
 - [Audi RS6 e-tron](../../../models/a6-e-tron) UnConfirmed
 - [Audi A4 e-tron](../../../models/a4-e-tron) Unconfirmed
 
+Audi and Porsche will reuse most parts between the models
+
+<figure>
+    <a href="part.png">
+        <img src="parts.png" alt="Reuse of parts of different PPE models" title="Reuse of parts of different PPE models">
+    </a>
+    <figcaption><h4>Reuse of parts of different PPE models</h4></figcaption>
+</figure>
+
 The below video show Audi A6 Avant concept with more details about PPE
 
 {{< youtube r_wD-LblZqY>}}
-
-## Battery
-
-The first models on this platform will come with two battery sizes.
-
-- 12 modules with 100 kWh gross (94kWh net)
-- 10 modules with 83.3kWh gross (78kWh net).
-
-![Battery](battery.png "PPE-battery with 12 modules")
-
-The cells will be [prismatic](../../battery/cell/#prismatic-housing) and each module is expected to have 34 cells on 67AH.
-
-This gives
-
-- 204s2p and 737Volt nominal for the 12 module version
-- 170s2p and 614Volt nominal for the 10 module version
-
-## Motors
-
-Models based on PPE will be delivered with different motor setups in combination with the small and large battery.
-
-![Motors](motors.jpg)
-
-The models will have from around 300HP to close to 700HP depending on setup.
 
 ## PPE vs MLB evo
 
