@@ -20,10 +20,21 @@ PPE will take on the role in the world of electric vehicles that the modular lon
 platform holds in vehicles powered by combustion engines. It is characterized by a high-tech
 and highly scalable architecture that allows both low- and high-floor vehicles to be realized.
 
-Audi is developing various model series based on PPE that will cover the segments from
-the upper medium-size class to the luxury class as SUVs, Sportbacks, Avants and Crossovers with various different vehicle types. In doing so, the brand is also expanding its current model portfolio in the full-size class and luxury segments by adding numerous electric variants.
-
 ![Porsche Macan](macan.jpg "Porsche Macan prototype based on PPE")
+
+Audi is developing various model series based on PPE that will cover the segments from
+the upper medium-size class to the luxury class as SUVs, Sportbacks, Avants and Crossovers with various different vehicle types. 
+
+In doing so, the brand is also expanding its current model portfolio in the full-size class and luxury segments by adding numerous electric variants.
+
+The diagram below show hows PPE models will be compared to J1 and MEB models in various aspects.
+
+<figure>
+    <a href="comparativeperformance.png">
+        <img src="comparativeperformances.png" alt="PPE models compared with J1 and MEB models" title="PPE models compared with J1 and MEB models">
+    </a>
+    <figcaption><h4>PPE models compared with J1 and MEB models</h4></figcaption>
+</figure>
 
 The technology package on the PPE is generally similar to that of the MEB; in addition, it offers
 great potential in terms of output and performance. As standard, the vehicles are fitted with
