@@ -36,13 +36,6 @@ The diagram below show hows PPE models will be compared to J1 and MEB models in 
     <figcaption><h4>PPE models compared with J1 and MEB models</h4></figcaption>
 </figure>
 
-The technology package on the PPE is generally similar to that of the MEB; in addition, it offers
-great potential in terms of output and performance. As standard, the vehicles are fitted with
-one electric motor in the rear; the top-of-the-range models are equipped with a second electric
-motor at the front axle (PSM or ASM) that allows them to activate all-wheel drive
-automatically when needed. If will of course also be possible to realize different performance
-levels and battery capacities on the PPE platform.
-
 ## Battery
 
 Like in the Audi e-tron GT, the battery will be 800 volts; in combination with high-efficiency thermal management, it enables a
@@ -68,6 +61,21 @@ For the [Audi grandshpere concept](../../../articles/audigrandsphereconcept/) Au
 
 ![Drivetrain](drivetrain.jpg "PPE-drivetrain")
 
+## Motors and performance
+
+The technology package on the PPE is generally similar to that of the MEB; in addition, it offers
+great potential in terms of output and performance. As standard, the vehicles are fitted with
+one electric motor in the rear; the top-of-the-range models are equipped with a second electric
+motor at the front axle (PSM or ASM) that allows them to activate all-wheel drive
+automatically when needed.
+
+If will of course also be possible to realize different performance
+levels and battery capacities on the PPE platform. Models based on PPE will be delivered with different motor setups in combination with the small and large batteries.
+
+![Motors](motors.jpg)
+
+The models will have from around 300HP to close to 700HP depending on setup.
+
 The dimensions and overhangs of the low-floor Audi models on the PPE platform will be
 slightly shorter than those of the current combustion engine models on MLB basis but will
 offer greater interior length. As is typical for electric models, there are no transmission or
@@ -77,14 +85,6 @@ vectoring, while the typical Audi features of air suspension or all-wheel steeri
 the suspension area.
 
 {{< youtube U72YuVF_mdI >}}
-
-## Motors
-
-Models based on PPE will be delivered with different motor setups in combination with the small and large batteries.
-
-![Motors](motors.jpg)
-
-The models will have from around 300HP to close to 700HP depending on setup.
 
 ## Models expected to be on the PPE platform
 
@@ -111,8 +111,6 @@ The below video show Audi A6 Avant concept with more details about PPE
 ## PPE vs MLB evo
 
 In 2020 Audi had a presentation where they discussed some of the improvments of the new platform over the MLB evo platform.
-
-![Platforms](ppepresentation1.png "PPE Overview")
 
 ![Platforms](ppepresentation2.png "PPE vs MLB evo")
 
