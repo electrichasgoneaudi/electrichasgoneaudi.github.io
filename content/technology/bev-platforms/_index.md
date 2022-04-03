@@ -37,7 +37,7 @@ What the modular transversal toolkit (MQB) is for the model range with combustio
 
 ## PPE (Premium Platform Electric)
 
-For its full-size class and luxury models, Audi is relying on a fourth platform.
+For its full-size class and luxury models, Audi is relying on a fourth platform. Audi Q6 e-tron and Audi A6 e-tron will be built on this platform
 
 [![PPE](ppe/drivetrain.jpg)](ppe)
 
