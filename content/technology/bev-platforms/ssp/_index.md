@@ -42,9 +42,19 @@ As PPE and J1 the SSP platform will use 800 volt technology.
 
 One of the key changes to the battery on SSP compared to other platforms is that new unified cell battery technology. VW’s unified cell technology uses the same physical pack formats, just with different chemistries inside, to make designing future EVs less expensive and requiring less time.
 
-[![SSP](ssp/../drivetrain.jpg)](ssp)
-
 ![Unified cell](unifiedcell1.jpg "VW Unified cell")
+
+## Unified Software platform
+
+With more and more integrated functionality and a higher need for integrating sensors and Autonomous driving capabilities,  Volkswagen has decided to create a new integrated software platform to be used on the different models of the different brands.
+
+This will always be connected to receiving software updates, compared with today's platform where updates require visits to the dealer.
+
+VW has created a new company, called Cariad which is responsible for this. Visit their [homepage](https://cariad.technology/) for more info.
+
+See this video for detailed info about the software platforms.
+
+{{< youtube i387_JqUqAI >}}
 
 ## SSP Presentation
 

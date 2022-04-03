@@ -47,6 +47,8 @@ For its full-size class and luxury models, Audi is relying on a fourth platform.
 
 By 2026, the Volkswagen Group will bundle its future technologies on the Scalable Systems Platform (SSP). After the Modular Electric Drive Kit (MEB) and the Premium Platform Electric (PPE), the SSP represents the next generation of all-electric, fully-digital and highly-scalable mechatronics platform.
 
+[![SSP](ssp/drivetrain.jpg)](ssp)
+
 [Learn more about SSP](ssp)
 
 ## Video presentation
