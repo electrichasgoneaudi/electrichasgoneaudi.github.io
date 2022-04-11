@@ -44,19 +44,19 @@ Solgt som vinterdekk i Norge av Audi Norge
     <a href="absf22_1.jpg">
         <img src="absf22_1s.jpg" alt="ABS F22" title="ABS F22">
     </a>
-    <figcaption><h4>29" ABS F22 with 295/35 tires</h4></figcaption>
+    <figcaption><h4>21" ABS F22 with 295/35 tires</h4></figcaption>
 </figure>
 
 <figure>
     <a href="absf22_2.jpg">
         <img src="absf22_2s.jpg" alt="ABS F22" title="ABS F22">
     </a>
-    <figcaption><h4>29" ABS F22 with 295/35 tires</h4></figcaption>
+    <figcaption><h4>21" ABS F22 with 295/35 tires</h4></figcaption>
 </figure>
 
 <figure>
     <a href="absf22_3.jpg">
         <img src="absf22_3s.jpg" alt="ABS F22" title="ABS F22">
     </a>
-    <figcaption><h4>29" ABS F22 with 295/35 tires</h4></figcaption>
+    <figcaption><h4>21" ABS F22 with 295/35 tires</h4></figcaption>
 </figure>
