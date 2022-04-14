@@ -32,7 +32,14 @@ Solgt som vinterdekk i Norge av Audi Norge
 
 ## Vossen
 
-![bcforged eh186 in brushed dark black 10.5 10 ET 28/25 (rear/front)n](aftermarket1.jpg "bcforged eh186 in brushed dark black 10.5 10 ET 28/25 (rear/front)")
+![Vossen HF2](aftermarket1.jpg "Vossen HF2")
+
+<figure>
+    <a href="vossenhf2.jpg">
+        <img src="vossenhf2s.jpg" alt="20-inch MT Galvani" title="22 x 10.5 Vossen HF2">
+    </a>
+    <figcaption><h4>22 x 10.5 Vossen HF2</h4></figcaption>
+</figure>
 
 ## BCforged EH186
 
