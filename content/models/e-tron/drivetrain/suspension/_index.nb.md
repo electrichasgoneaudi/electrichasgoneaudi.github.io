@@ -4,6 +4,7 @@ linktitle: Dempere
 description: Audi e-tron har adaptive air supsension.
 weight: 7
 ---
+<!-- markdownlint-disable MD033 -->
 
 Adaptiv luftfjæring med elektronisk demping er standardutstyr på Audi e-tron. Typen av dempingskontroll som tilbys varierer mellom de to understellsversjonene,
 **adaptiv luftfjæring** og **adaptiv luftfjæring sport** som er standard på e-tron S og S-Line e-tron.
@@ -12,7 +13,12 @@ Den adaptive luftfjæringen – et luftfjæringssystem med kontrollert demping �
 Avhengig av hastigheten og førerens preferanser, justerer den kjørehøyden individuelt i henhold til veiforholdene.
 Luftfjæringen tilbyr også nivåregulering som funksjon av belastning.
 
-![Adaptiv luftfjæring sport](adaptaiveairsuspensionsport.jpg "Audi e-tron S med adaptiv luftfjæring sport")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/adaptaiveairsuspensionsport.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/adaptaiveairsuspensionsports.jpg" alt="Audi e-tron S med adaptiv luftfjæring sport" title="Audi e-tron S med adaptiv luftfjæring sport">
+    </a>
+    <figcaption><h4>Audi e-tron S med adaptiv luftfjæring sport</h4></figcaption>
+</figure>
 
 Den sentrale chassiskontrollenheten, den elektroniske chassisplattformen (ECP), styrer individuelt funksjonen til støtdemperne på hvert hjul kl.
 sykluser i størrelsesorden millisekunder – i henhold til veibanens tilstand, kjørestilen og modusen sjåføren angir i Audi drive select dynamisk håndteringssystem.
@@ -22,14 +28,24 @@ Adaptiv luftfjæring har alternativ-ID **1BK** og adaptiv luftfjæring sport har
 
 ## Regulerende egenskaper
 
-![Audi drive select](audidriveselect.png "Audi Drive Select-alternativer juster kjørehøyder")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/audidriveselect.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/audidriveselects.png" alt="Audi Drive Select-alternativer juster kjørehøyder" title="Audi Drive Select-alternativer juster kjørehøyder">
+    </a>
+    <figcaption><h4>Audi Drive Select-alternativer juster kjørehøyder</h4></figcaption>
+</figure>
 
 Reguleringsegenskapene (regulering av kjørehøyder avhengig av kjøretøyets hastighet og modus) er identiske på begge versjoner.
 På andre Audier som Q7 og Q8 er Adaptive Sports Suspension 1 cm lavere. Men slik er det ikke på Audi e-tron.
 
 Diagrammet under viser hvordan dette justeres avhengig av hastighet.
 
-![Fjæringsmoduser](suspensionmode.png "Justering av adaptiv luftfjæring i forskjellige moduser")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/suspensionmode.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/suspensionmode.png" alt="Justering av adaptiv luftfjæring i forskjellige moduser" title="Justering av adaptiv luftfjæring i forskjellige moduser">
+    </a>
+    <figcaption><h4>Justering av adaptiv luftfjæring i forskjellige moduser</h4></figcaption>
+</figure>
 
 Illustrasjonen viser kontrollstrategien for luftfjæringssystemene. Ved å velge den foretrukne kjøremodusen i Audi drive select, bestemmer føreren kjøretøyets kjørehøyde og dynamiske egenskaper.
 Samtidig stilles også forskjellige kjørehøyder automatisk inn innenfor den valgte kjøremodusen, avhengig av gjeldende kjøretøyhastighet. Et eksempel på dette kan sees i kontrollstrategien når "auto"-modus er valgt:
@@ -43,14 +59,37 @@ kjørehøyden heves med 13 mm til den tidligere innstilte kjørehøyden. Hvis ha
 
 Selv du kan justere kjørehøyden, noen vil ha den enda lavere. Her er noen eksempler på biler senket med senkekoblinger eller programvarejustering.
 
-![Senket bil](lowering1.jpg "Senket e-tron med 3 cm")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering1s.jpg" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
+    </a>
+    <figcaption><h4>Senket e-tron med 3 cm/h4></figcaption>
+</figure>
 
-![Senket bil](lowering2.jpg "Senket e-tron med 3 cm")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering2s.jpg" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
+    </a>
+    <figcaption><h4>Senket e-tron med 3 cm/h4></figcaption>
+</figure>
 
-![Senket bil](lowering3.jpg "Senket e-tron i showmodus")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering3s.jpg" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
+    </a>
+    <figcaption><h4>Lowered e-tron with in show mode</h4></figcaption>
+</figure>
 
-![Senket bil](lowering4.jpg "Senket e-tron med 3 cm ")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering4s.jpg" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
+    </a>
+    <figcaption><h4>Senket e-tron med 3 cm/h4></figcaption>
+</figure>
 
-![Senket bil](lowering5.jpg "Senket e-tron med 3 cm ")
-
-{{% children description="true" depth="1" %}}
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering5.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering5s.jpg" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
+    </a>
+    <figcaption><h4>Senket e-tron med 3 cm/h4></figcaption>
+</figure>

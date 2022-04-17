@@ -75,5 +75,5 @@ Sold as winter tires by Audi Norway.
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/nitro_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/nitro_1s.jpg" alt="21" Nitro Magnum" title="21" Nitro Magnum">
     </a>
-    <figcaption><h4>21" Nitro Magnum</h4></figcaption>
+    <figcaption><h4>22" x 10 Nitro Magnum</h4></figcaption>
 </figure>

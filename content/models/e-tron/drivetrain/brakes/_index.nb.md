@@ -4,6 +4,8 @@ linktitle: Bremser
 description: Audi e-tron er den første elektriske serieproduksjonsmodellen som bruker et elektrohydraulisk integrert bremsekontrollsystem. system.
 weight: 7
 ---
+<!-- markdownlint-disable MD033 -->
+
 
 Bremsene aktiveres hydraulisk, armeringen aktiveres elektrisk, og aktiveringen aktiveres elektronisk.
 
@@ -13,7 +15,12 @@ Hvis gjenvinningsmomentet ikke er tilstrekkelig, genereres hydraulisk trykk for 
 
 Et andre stempel genererer den kjente pedalfølelsen for førerens fot ved hjelp av et trykkbestandig element. Takket være denne bremsepedalsimulatoren, føreren er ikke påvirket av det som skjer i hydraulikken. Ved ABS-bremsing er trykkoppbygging og reduksjon ikke merkbar i form av irriterende harde pulsasjoner.
 
-![bilde](brakesystem.jpg "Audi e-tron bremsesystem")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/brakes/brakesystem.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/brakes/brakesystems.jpg" alt="Audi e-tron bremsesystem" title="Audi e-tron bremsesystem">
+    </a>
+    <figcaption><h4>Audi e-tron bremsesystem</h4></figcaption>
+</figure>
 
 Det elektrohydrauliske bremsesystemet aktiveres når føreren trykker ned venstre pedal så hardt at retardasjonen overstiger 0,3 g; ellers bremser Audi e-tron gjennom restitusjon via de to elektriske motorene. Bremsekontrollsystemet bygger opp bremsetrykk for hjulbremsene med stor presisjon og omtrent dobbelt så raskt som et konvensjonelt system.
 

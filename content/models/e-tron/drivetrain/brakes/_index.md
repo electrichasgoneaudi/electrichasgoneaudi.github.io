@@ -4,6 +4,8 @@ linktitle: Brakes
 description: The Audi e-tron is the first electric series production model uses an electrohydraulically integrated brake control system.
 weight: 7
 ---
+<!-- markdownlint-disable MD033 -->
+
 The wheel brakes are actuated hydraulically, the reinforcement is actuated electrically, and the activation is actuated electronically.
 
 The control unit detects with how much force the driver is depressing the brake pedal and calculates how much braking torque is needed within milliseconds.
@@ -14,7 +16,12 @@ the displacement piston pushes the brake fluid into the brake lines. The transit
 A second piston generates the familiar pedal feeling for the driver’s foot by means of a pressure-resistant element. Thanks to this brake pedal simulator,
 the driver is not affected by what is happening in the hydraulics. In the case of ABS braking, pressure buildup and reduction are not noticeable in the form of irritating hard pulsations.
 
-![bilde](brakesystem.jpg "Audi e-tron brakesystem")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/brakes/brakesystem.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/brakes/brakesystems.jpg" alt="Audi e-tron brakesystem" title="Audi e-tron brakesystem">
+    </a>
+    <figcaption><h4>Audi e-tron brakesystem</h4></figcaption>
+</figure>
 
 The electrohydraulic brake system is activated when the driver depresses the left-hand pedal so hard that the deceleration exceeds 0.3 g; otherwise, the Audi e-tron decelerates
 through recuperation via the two electric motors. The brake control system build up brake pressure for the wheel brakes with great precision and roughly twice as fast as a conventional system.
