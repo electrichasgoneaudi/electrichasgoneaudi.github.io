@@ -16,15 +16,15 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
  Part No: **40S**
 
 <figure>
-    <a href="wheel_40S_1.jpg">
-        <img src="wheel_40S_1s.jpg" alt="19 inch 5-arm design" title="19 inch 5-arm design">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_40S_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_40S_1s.jpg" alt="19 inch 5-arm design" title="19 inch 5-arm design">
     </a>
     <figcaption><h4>19 inch 5-arm design</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="wheel_40S_2.jpg">
-        <img src="wheel_40S_2s.jpg" alt="19 inch 5-arm design" title="19 inch 5-arm design">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_40S_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_40S_2s.jpg" alt="19 inch 5-arm design" title="19 inch 5-arm design">
     </a>
     <figcaption><h4>19 inch 5-arm design</h4></figcaption>
 </figure>
@@ -36,15 +36,15 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
  Part No: **40Z**
 
 <figure>
-    <a href="wheel_40Z_1.jpg">
-        <img src="wheel_40Z_1s.jpg" alt="19 inch 5-W design" title="19 inch 5-W design">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_40Z_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_40Z_1s.jpg" alt="19 inch 5-W design" title="19 inch 5-W design">
     </a>
     <figcaption><h4>19 inch 5-W design</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="wheel_40Z_2.jpg">
-        <img src="wheel_40Z_2s.jpg" alt="19 inch 5-W design" title="19 inch 5-W design">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_40Z_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_40Z_2s.jpg" alt="19 inch 5-W design" title="19 inch 5-W design">
     </a>
     <figcaption><h4>19 inch 5-W design</h4></figcaption>
 </figure>
@@ -56,22 +56,22 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
  Part No: **44L**
 
 <figure>
-    <a href="wheel_44L_2.jpg">
-        <img src="wheel_44L_2s.jpg" alt="5-spoke V-style design" title="5-spoke V-style design">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_44L_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_44L_2s.jpg" alt="5-spoke V-style design" title="5-spoke V-style design">
     </a>
     <figcaption><h4>5-spoke V-style design</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="wheel_44L_3.jpg">
-        <img src="wheel_44L_3s.jpg" alt="5-spoke V-style design" title="5-spoke V-style design">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_44L_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_44L_3s.jpg" alt="5-spoke V-style design" title="5-spoke V-style design">
     </a>
     <figcaption><h4>5-spoke V-style design</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="wheel_44L_1.jpg">
-        <img src="wheel_44L_1s.jpg" alt="5-spoke V-style design" title="5-spoke V-style design">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_44L_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_44L_1s.jpg" alt="5-spoke V-style design" title="5-spoke V-style design">
     </a>
     <figcaption><h4>5-spoke V-style design</h4></figcaption>
 </figure>
@@ -83,31 +83,31 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
  Part No: **55J**
 
 <figure>
-    <a href="wheel_55J_2.jpg">
-        <img src="wheel_55J_2s.jpg" alt="20 inch 5Y design" title="20 inch 5Y design">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_55J_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_55J_2s.jpg" alt="20 inch 5Y design" title="20 inch 5Y design">
     </a>
     <figcaption><h4>20 inch 5Y design</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="wheel_55J_1.jpg">
-        <img src="wheel_55J_1s.jpg" alt="20 inch 5Y design" title="20 inch 5Y design graphite grey">
-    </a>
-    <figcaption><h4>20 inch 5Y design</h4></figcaption>
-</figure>
-
-
-<figure>
-    <a href="wheel_55J_3.jpg">
-        <img src="wheel_55J_3s.jpg" alt="20 inch 5Y design" title="20 inch 5Y design graphite grey">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_55J_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_55J_1s.jpg" alt="20 inch 5Y design" title="20 inch 5Y design graphite grey">
     </a>
     <figcaption><h4>20 inch 5Y design</h4></figcaption>
 </figure>
 
 
 <figure>
-    <a href="wheel_55J_4.jpg">
-        <img src="wheel_55J_4s.jpg" alt="20 inch 5Y design" title="20 inch 5Y design graphite grey">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_55J_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_55J_3s.jpg" alt="20 inch 5Y design" title="20 inch 5Y design graphite grey">
+    </a>
+    <figcaption><h4>20 inch 5Y design</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_55J_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_55J_4s.jpg" alt="20 inch 5Y design" title="20 inch 5Y design graphite grey">
     </a>
     <figcaption><h4>20 inch 5Y design</h4></figcaption>
 </figure>
@@ -121,30 +121,30 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
  Part No: **55K**
 
 <figure>
-    <a href="wheel_55K_1.jpg">
-        <img src="wheel_55K_1s.jpg" alt="20 inch 5Y design graphite grey" title="20 inch 5Y design graphite grey">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_55K_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_55K_1s.jpg" alt="20 inch 5Y design graphite grey" title="20 inch 5Y design graphite grey">
     </a>
     <figcaption><h4>20 inch 5Y design graphite grey</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="wheel_55K_2.jpg">
-        <img src="wheel_55K_2s.jpg" alt="20 inch 5Y design graphite grey" title="20 inch 5Y design graphite grey">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_55K_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_55K_2s.jpg" alt="20 inch 5Y design graphite grey" title="20 inch 5Y design graphite grey">
     </a>
     <figcaption><h4>20 inch 5Y design graphite grey</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="wheel_55K_3.jpg">
-        <img src="wheel_55K_3s.jpg" alt="20 inch 5Y design graphite grey" title="20 inch 5Y design graphite grey">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_55K_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_55K_3s.jpg" alt="20 inch 5Y design graphite grey" title="20 inch 5Y design graphite grey">
     </a>
     <figcaption><h4>20 inch 5Y design graphite grey</h4></figcaption>
 </figure>
 
 
 <figure>
-    <a href="wheel_55K_4.jpg">
-        <img src="wheel_55K_4s.jpg" alt="20 inch 5Y design graphite grey" title="20 inch 5Y design graphite grey">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_55K_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_55K_4s.jpg" alt="20 inch 5Y design graphite grey" title="20 inch 5Y design graphite grey">
     </a>
     <figcaption><h4>20 inch 5Y design graphite grey</h4></figcaption>
 </figure>
@@ -157,22 +157,22 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
  Part No: **56J**
 
  <figure>
-    <a href="wheel_56J_1.jpg">
-        <img src="wheel_56J_1s.jpg" alt="20 inch 10 spoke design" title="20 inch 10 spoke design">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_56J_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_56J_1s.jpg" alt="20 inch 10 spoke design" title="20 inch 10 spoke design">
     </a>
     <figcaption><h4>20" 10 spoke design</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="wheel_56J_3.jpg">
-        <img src="wheel_56J_3s.jpg" alt="20 inch 10 spoke design" title="20 inch 10 spoke design">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_56J_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_56J_3s.jpg" alt="20 inch 10 spoke design" title="20 inch 10 spoke design">
     </a>
     <figcaption><h4>20" 10 spoke design</h4></figcaption>
 </figure>
 
  <figure>
-    <a href="wheel_56J_2.jpg">
-        <img src="wheel_56J_2s.jpg" alt="20 inch 10 spoke design" title="20 inch 10 spoke design">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_56J_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_56J_2s.jpg" alt="20 inch 10 spoke design" title="20 inch 10 spoke design">
     </a>
     <figcaption><h4>20" 10 spoke design</h4></figcaption>
 </figure>
@@ -184,39 +184,39 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
  Part No: **56H**
 
 <figure>
-    <a href="wheel_56H_1.jpg">
-        <img src="wheel_56H_1s.jpg" alt="20 inch 5V design" title="20 inch 5V design">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_56H_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_56H_1s.jpg" alt="20 inch 5V design" title="20 inch 5V design">
     </a>
     <figcaption><h4>20 inch 5V design</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="wheel_56H_2.jpg">
-        <img src="wheel_56H_2.jpg" alt="20 inch 5V design" title="20 inch 5V design">
-    </a>
-    <figcaption><h4>20 inch 5V design</h4></figcaption>
-</figure>
-
-
-<figure>
-    <a href="wheel_56H_3.jpg">
-        <img src="wheel_56H_3s.jpg" alt="20 inch 5V design" title="20 inch 5V design">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_56H_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_56H_2.jpg" alt="20 inch 5V design" title="20 inch 5V design">
     </a>
     <figcaption><h4>20 inch 5V design</h4></figcaption>
 </figure>
 
 
 <figure>
-    <a href="wheel_56H_4.jpg">
-        <img src="wheel_56H_4s.jpg" alt="20 inch 5V design" title="20 inch 5V design">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_56H_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_56H_3s.jpg" alt="20 inch 5V design" title="20 inch 5V design">
     </a>
     <figcaption><h4>20 inch 5V design</h4></figcaption>
 </figure>
 
 
 <figure>
-    <a href="wheel_56H_5.jpg">
-        <img src="wheel_56H_5s.jpg" alt="20 inch 5V design" title="20 inch 5V design">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_56H_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_56H_4s.jpg" alt="20 inch 5V design" title="20 inch 5V design">
+    </a>
+    <figcaption><h4>20 inch 5V design</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_56H_5.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_56H_5s.jpg" alt="20 inch 5V design" title="20 inch 5V design">
     </a>
     <figcaption><h4>20 inch 5V design</h4></figcaption>
 </figure>
@@ -229,22 +229,22 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
  Part No: **55L**
 
 <figure>
-    <a href="wheel_55L_1.jpg">
-        <img src="wheel_55L_1s.jpg" alt="21 inch 5-arm rotor design" title="21 inch 5-arm rotor design">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_55L_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_55L_1s.jpg" alt="21 inch 5-arm rotor design" title="21 inch 5-arm rotor design">
     </a>
     <figcaption><h4>21 inch 5-arm rotor design</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="wheel_55L_2.jpg">
-        <img src="wheel_55L_2s.jpg" alt="21 inch 5-arm rotor design" title="21 inch 5-arm rotor design">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_55L_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_55L_2s.jpg" alt="21 inch 5-arm rotor design" title="21 inch 5-arm rotor design">
     </a>
     <figcaption><h4>21 inch 5-arm rotor design</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="wheel_55L_3.jpg">
-        <img src="wheel_55L_3s.jpg" alt="21 inch 5-arm rotor design" title="21 inch 5-arm rotor design">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_55L_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_55L_3s.jpg" alt="21 inch 5-arm rotor design" title="21 inch 5-arm rotor design">
     </a>
     <figcaption><h4>21 inch 5-arm rotor design</h4></figcaption>
 </figure>
@@ -256,15 +256,15 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
  Part No: **C5W**
 
 <figure>
-    <a href="wheel_C5W_2.jpg">
-        <img src="wheel_C5W_2s.jpg" alt="21 inch 5-W design" title="21 inch 5-W design">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_C5W_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_C5W_2s.jpg" alt="21 inch 5-W design" title="21 inch 5-W design">
     </a>
     <figcaption><h4>21 inch 5-W design</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="wheel_C5W_3.jpg">
-        <img src="wheel_C5W_3s.jpg" alt="21 inch 5-W design" title="21 inch 5-W design">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_C5W_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_C5W_3s.jpg" alt="21 inch 5-W design" title="21 inch 5-W design">
     </a>
     <figcaption><h4>21 inch 5-W design</h4></figcaption>
 </figure>
@@ -276,15 +276,15 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
  Part No: **C7A**
 
 <figure>
-    <a href="wheel_C7A_1.jpg">
-        <img src="wheel_C7A_1s.jpg" alt="21 inch 5-W design bronze for edition one" title="21 inch 5-W design bronze for edition one">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_C7A_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_C7A_1s.jpg" alt="21 inch 5-W design bronze for edition one" title="21 inch 5-W design bronze for edition one">
     </a>
     <figcaption><h4>21 inch 5-W design bronze for edition one</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="wheel_C7A_2.jpg">
-        <img src="wheel_C7A_2s.jpg" alt="21 inch 5-W design bronze for edition one" title="21 inch 5-W design bronze for edition one">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_C7A_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_C7A_2s.jpg" alt="21 inch 5-W design bronze for edition one" title="21 inch 5-W design bronze for edition one">
     </a>
     <figcaption><h4>21 inch 5-W design bronze for edition one</h4></figcaption>
 </figure>
@@ -296,22 +296,22 @@ Center bore is 57.1mm and bolt pattern is 5x112mm.
  Part No: **C1P**
 
 <figure>
-    <a href="wheel_C1P_1.jpg">
-        <img src="wheel_C1P_1s.jpg" alt="21 inch 5 Arm rotor aero design" title="21 inch 5 Arm rotor aero design">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_C1P_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_C1P_1s.jpg" alt="21 inch 5 Arm rotor aero design" title="21 inch 5 Arm rotor aero design">
     </a>
     <figcaption><h4>21 inch 5 Arm rotor aero design</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="wheel_C1P_2.jpg">
-        <img src="wheel_C1P_2s.jpg" alt="21 inch 5 Arm rotor aero design" title="21 inch 5 Arm rotor aero design">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_C1P_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_C1P_2s.jpg" alt="21 inch 5 Arm rotor aero design" title="21 inch 5 Arm rotor aero design">
     </a>
     <figcaption><h4>21 inch 5 Arm rotor aero design</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="wheel_C1P_3.jpg">
-        <img src="wheel_C1P_3s.jpg" alt="21 inch 5 Arm rotor aero design" title="21 inch 5 Arm rotor aero design">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_C1P_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_C1P_3s.jpg" alt="21 inch 5 Arm rotor aero design" title="21 inch 5 Arm rotor aero design">
     </a>
     <figcaption><h4>21 inch 5 Arm rotor aero design</h4></figcaption>
 </figure>
