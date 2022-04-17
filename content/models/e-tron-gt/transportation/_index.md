@@ -29,3 +29,15 @@ weight: 6
 You can store up to 75kg on the roof.
 
 ![Roof Storage](roof_storage_1.jpg "e-tron GT with roof box")
+
+## Real life example how much can be stored
+
+No need to worry about loading capabilities. 
+
+![Real life example](reallife1.jpg "Real life example of storage capacity")
+
+![Real life example](reallife2.jpg "Real life example of storage capacity")
+
+![Real life example](reallife3.jpg "Real life example of storage capacity, 32 bottles in frunk")
+
+![Real life example](reallife4.jpg "Real life example of storage capacity")

@@ -29,3 +29,17 @@ weight: 6
 Du kan lagre opptil 75 kg på taket.
 
 ![Taklagring](roof_storage_1.jpg "e-tron GT med takboks")
+
+
+
+## Eksempel på lagring
+
+Her er noen eksempler på hva man kan lagre
+
+![Real life example](reallife1.jpg "Real life example of storage capacity")
+
+![Real life example](reallife2.jpg "Real life example of storage capacity")
+
+![Real life example](reallife3.jpg "Real life example of storage capacity, 32 bottles in frunk")
+
+![Real life example](reallife4.jpg "Real life example of storage capacity")
