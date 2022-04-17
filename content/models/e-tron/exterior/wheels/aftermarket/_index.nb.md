@@ -10,22 +10,22 @@ weight: 4
 Solgt som vinterdekk i Norge av Audi Norge
 
 <figure>
-    <a href="https://electrichasgoneaudi.blob.core.windows.net/multimedia/models/e-tron/exterior/wheels/aftermarket/mtgalvani_1.jpg">
-        <img src="https://electrichasgoneaudi.blob.core.windows.net/multimedia/models/e-tron/exterior/wheels/aftermarket/mtgalvani_1s.jpg" alt="20-inch MT Galvani" title="20-inch MT Galvani">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/mtgalvani_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/mtgalvani_1s.jpg" alt="20-inch MT Galvani" title="20-inch MT Galvani">
     </a>
     <figcaption><h4>20-inch MT Galvani</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://electrichasgoneaudi.blob.core.windows.net/multimedia/models/e-tron/exterior/wheels/aftermarket/mtgalvani_2.jpg">
-        <img src="https://electrichasgoneaudi.blob.core.windows.net/multimedia/models/e-tron/exterior/wheels/aftermarket/mtgalvani_2s.jpg" alt="20-inch MT Galvani" title="20-inch MT Galvani">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/mtgalvani_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/mtgalvani_2s.jpg" alt="20-inch MT Galvani" title="20-inch MT Galvani">
     </a>
     <figcaption><h4>20-inch MT Galvani</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://electrichasgoneaudi.blob.core.windows.net/multimedia/models/e-tron/exterior/wheels/aftermarket/mtgalvani_3.jpg">
-        <img src="https://electrichasgoneaudi.blob.core.windows.net/multimedia/models/e-tron/exterior/wheels/aftermarket/mtgalvani_3s.jpg" alt="20-inch MT Galvani" title="20-inch MT Galvani">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/mtgalvani_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/mtgalvani_3s.jpg" alt="20-inch MT Galvani" title="20-inch MT Galvani">
     </a>
     <figcaption><h4>20-inch MT Galvani</h4></figcaption>
 </figure>
@@ -35,8 +35,8 @@ Solgt som vinterdekk i Norge av Audi Norge
 ![Vossen HF2](aftermarket1.jpg "Vossen HF2")
 
 <figure>
-    <a href="https://electrichasgoneaudi.blob.core.windows.net/multimedia/models/e-tron/exterior/wheels/aftermarket/vossenhf2.jpg">
-        <img src="https://electrichasgoneaudi.blob.core.windows.net/multimedia/models/e-tron/exterior/wheels/aftermarket/vossenhf2s.jpg" alt="20-inch MT Galvani" title="22 x 10.5 Vossen HF2">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/vossenhf2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/vossenhf2s.jpg" alt="20-inch MT Galvani" title="22 x 10.5 Vossen HF2">
     </a>
     <figcaption><h4>22 x 10.5 Vossen HF2</h4></figcaption>
 </figure>
@@ -48,22 +48,22 @@ Solgt som vinterdekk i Norge av Audi Norge
 ## ABS F22 Dark Tint
 
 <figure>
-    <a href="https://electrichasgoneaudi.blob.core.windows.net/multimedia/models/e-tron/exterior/wheels/aftermarket/absf22_1.jpg">
-        <img src="https://electrichasgoneaudi.blob.core.windows.net/multimedia/models/e-tron/exterior/wheels/aftermarket/absf22_1s.jpg" alt="ABS F22" title="ABS F22">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/absf22_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/absf22_1s.jpg" alt="ABS F22" title="ABS F22">
     </a>
     <figcaption><h4>21" ABS F22 with 295/35 tires</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://electrichasgoneaudi.blob.core.windows.net/multimedia/models/e-tron/exterior/wheels/aftermarket/absf22_2.jpg">
-        <img src="https://electrichasgoneaudi.blob.core.windows.net/multimedia/models/e-tron/exterior/wheels/aftermarket/absf22_2s.jpg" alt="ABS F22" title="ABS F22">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/absf22_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/absf22_2s.jpg" alt="ABS F22" title="ABS F22">
     </a>
     <figcaption><h4>21" ABS F22 with 295/35 tires</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://electrichasgoneaudi.blob.core.windows.net/multimedia/models/e-tron/exterior/wheels/aftermarket/absf22_3.jpg">
-        <img src="https://electrichasgoneaudi.blob.core.windows.net/multimedia/models/e-tron/exterior/wheels/aftermarket/absf22_3s.jpg" alt="ABS F22" title="ABS F22">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/absf22_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/absf22_3s.jpg" alt="ABS F22" title="ABS F22">
     </a>
     <figcaption><h4>21" ABS F22 with 295/35 tires</h4></figcaption>
 </figure>
@@ -72,8 +72,8 @@ Solgt som vinterdekk i Norge av Audi Norge
 ## Nitro Magnum
 
 <figure>
-    <a href="https://electrichasgoneaudi.blob.core.windows.net/multimedia/models/e-tron/exterior/wheels/aftermarket/nitro_1.jpg">
-        <img src="https://electrichasgoneaudi.blob.core.windows.net/multimedia/models/e-tron/exterior/wheels/aftermarket/nitro_1s.jpg" alt="21" Nitro Magnum" title="21" Nitro Magnum">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/nitro_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/nitro_1s.jpg" alt="21" Nitro Magnum" title="21" Nitro Magnum">
     </a>
     <figcaption><h4>21" Nitro Magnum</h4></figcaption>
 </figure>
