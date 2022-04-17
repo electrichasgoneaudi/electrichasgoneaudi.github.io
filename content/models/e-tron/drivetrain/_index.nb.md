@@ -5,9 +5,15 @@ description: Audi bygde en helt ny drivlinje basert på MLB-Evo-plattformen med 
 weight: 6
 ---
 
-![Drivetrain](drivetrain2.jpg "Audi e-tron drivverk")
+<!-- markdownlint-disable MD033 -->
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/drivetrain2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/drivetrain2s.jpg" alt="Audi e-tron drivverk" title="Audi e-tron drivverk">
+    </a>
+    <figcaption><h4>Audi e-tron drivverk</h4></figcaption>
+</figure>
 
 Nedenfor finner du detaljer om de viktigste komponentene i drivverket.
-
 
 {{% children description="true" depth="1" %}}
