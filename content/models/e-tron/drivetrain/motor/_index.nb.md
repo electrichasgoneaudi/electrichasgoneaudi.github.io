@@ -4,7 +4,7 @@ linktitle: Motorer
 description: Audi e-tron har kraftige elektriske motorer og var den første elbilen som hadde en tremotorkonfigurasjon. Audi e-tron har 3 forskjellige motorkonfigurasjoner.
 weight: 7
 ---
-
+<!-- markdownlint-disable MD033 -->
 ### Motorkonfigurasjon
 
 De har designet to [induksjonsmotorer](https://en.wikipedia.org/wiki/Induction_motor) (asynkrone motorer) som brukes i de 3 forskjellige konfigurasjonene.
@@ -16,10 +16,14 @@ De brukes i forskjellige konfigurasjoner på de forskjellige modellene.
 
 På e-tron 50 på e-tron 55 har de 250 foran med parallell (APA250) aksel og 320 bak med koaksial aksel (ATA320). I e-tron S har de 320 foran (APA320) og to 250 bak (ATA250)
 
-![bilde](motorconfig_1.png "Motorkonfigurasjon")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorconfig_1.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorconfig_1s.png" alt="Motor configuration" title="Motor configuration">
+    </a>
+    <figcaption><h4>Motorkonfigurasjon Audi e-tron</h4></figcaption>
+</figure>
 
 Tabellen nedenfor oppsummerer ytelsen for versjonen
-
 
 | | APA250 | ATA320 | APA320 | 2 x ATA250 |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -28,7 +32,12 @@ Tabellen nedenfor oppsummerer ytelsen for versjonen
 | Dreiemoment | 247 Nm | 314 Nm| 314 Nm | 494 Nm |
 | Dreiemoment m/boost | 309 Nm | 355 Nm| 355 Nm | 618 Nm |
 
-![bilde](motorperformance.png "Tall for elektrisk motor")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorperformance.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorperformances.png" alt="Ytelse motorkonfigurasjoner Audi e-tron" title="Ytelse motorkonfigurasjoner Audi e-tron">
+    </a>
+    <figcaption><h4>Ytelse motorkonfigurasjoner Audi e-tron</h4></figcaption>
+</figure>
 
 ## Oppsett av drivverksmotor
 
@@ -37,12 +46,26 @@ Tabellen nedenfor oppsummerer ytelsen for versjonen
 For både e-tron 50 og e-tron 55 bruker Audi drivenheten AKA320 bak. Dette er en drivenhet med 314nm dreiemoment (355nm med boost på e-tron 55) og den har en koaksial konfigurasjon på akslene (aksler går gjennom enheten)
 
 Motorene har en 2-trinns plantaery girdifferensial
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/front_motor_schematics.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/front_motor_schematicss.jpg" alt="Front electric motor with power electronics" title="Front electric motor with power electronics">
+    </a>
+    <figcaption><h4>Elektrisk motor foran med kraftelektronikk</h4></figcaption>
+</figure>
 
-![Frontmotor ](front_motor_schematics.jpg "Elektrisk motor foran med kraftelektronikk")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/rear_motor_schematics.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/rear_motor_schematicss.jpg" alt="Bakremotor med kraftelektronikk" title="Bakremotor med kraftelektronikk">
+    </a>
+    <figcaption><h4>Bakmotor med kraftelektronikk</h4></figcaption>
+</figure>
 
-![Bakmotor ](rear_motor_schematics.jpg "Bakmotor med kraftelektronikk")
-
-![Bakmotor ](drivetrain55_50.jpg "e-tron 50/55 drivverk med elektriske motorer")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/drivetrain55_50.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/drivetrain55_50s.jpg" alt="e-tron 50/55 drivetrain with electric motors" title="e-tron 50/55 drivetrain with electric motors">
+    </a>
+    <figcaption><h4>e-tron 50/55 drivverk med elektriske motorer</h4></figcaption>
+</figure>
 
 ### Audi e-tron 60S
 
@@ -52,15 +75,40 @@ I e-tron S-modellen har Audi flyttet bakmotoren fra e-tron 50 og e-tron 55 til f
 
 Totalt 155 kg.
 
-![Bakmotor ](rear_motordual_schematics.jpg "Bakmotor med kraftelektronikk")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/rear_motordual_schematics.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/rear_motordual_schematicss.jpg" alt="Bakremotor med kraftelektronikk" title="Bakremotor med kraftelektronikk">
+    </a>
+    <figcaption><h4>Bakremotor med kraftelektronikk</h4></figcaption>
+</figure>
 
-![Bakmotor ](rear_motordual_schematics_2.jpg "Bakmotor med kraftelektronikk")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/rear_motordual_schematics_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/rear_motordual_schematics_2s.jpg" alt="Bakremotor med kraftelektronikk" title="Bakremotor med kraftelektronikk">
+    </a>
+    <figcaption><h4>Bakremotor med kraftelektronikk</h4></figcaption>
+</figure>
 
-![image](motorschematicsdual.jpg "Doble motorer")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorschematicsdual.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorschematicsduals.jpg" alt="Bakremotor med kraftelektronikk" title="Bakremotor med kraftelektronikk">
+    </a>
+    <figcaption><h4>Bakremotor med kraftelektronikk</h4></figcaption>
+</figure>
 
-![image](motorschematicsdual_2.jpg "Doble motorer")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorschematicsdual_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorschematicsdual_2s.jpg" alt="Bakremotor med kraftelektronikk" title="Bakremotor med kraftelektronikk">
+    </a>
+    <figcaption><h4>Bakremotor med kraftelektronikk</h4></figcaption>
+</figure>
 
-![Bakmotor ](drivetrains.jpg "e-trons drivverk med elektriske motorer")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/drivetrains.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/drivetrainss.jpg" alt="e-tron s drivetrain with electric motors" title="e-tron s drivetrain with electric motors">
+    </a>
+    <figcaption><h4>Audi e-tron S drivverk med elektriske motorer</h4></figcaption>
+</figure>
 
 Denne tekniske animasjonen viser den totale akseldriften som er satt opp i Audi e-tron S.
 
@@ -74,15 +122,35 @@ Animasjon av drivverkkonstruksjonen, dobbelmotoren og kjølevæskekretsen til Au
 
 Hver motor har flytende statorkjøling, lagerplatekjøling og rotorintern kjøling som Audi e-tron maksimal termisk robusthet under alle driftsforhold.
 
-![bilde](motorkjøling_1.png)
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorcooling_1.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorcooling_1s.png" alt="e-tron s drivetrain with electric motors" title="e-tron s drivetrain with electric motors">
+    </a>
+    <figcaption><h4>Cooling</h4></figcaption>
+</figure>
 
-![bilde](motorkjøling_2.png)
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorcooling_2.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorcooling_2s.png" alt="e-tron s drivetrain with electric motors" title="e-tron s drivetrain with electric motors">
+    </a>
+    <figcaption><h4>Cooling</h4></figcaption>
+</figure>
 
-![image](motorcooling_3.png)
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorcooling_3.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorcooling_3s.png" alt="e-tron s drivetrain with electric motors" title="e-tron s drivetrain with electric motors">
+    </a>
+    <figcaption><h4>Cooling</h4></figcaption>
+</figure>
 
 Dette diagrammet viser hvordan rotorens indre kjøling bidrar til å holde temperaturen lav.
 
-![image](motorcooling_4.png)
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorcooling_4.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorcooling_4s.png" alt="e-tron s drivetrain with electric motors" title="e-tron s drivetrain with electric motors">
+    </a>
+    <figcaption><h4>Cooling</h4></figcaption>
+</figure>
 
 Denne animasjonen viser kjølingen og varmespredningen til twin-coax-stasjonen.
 

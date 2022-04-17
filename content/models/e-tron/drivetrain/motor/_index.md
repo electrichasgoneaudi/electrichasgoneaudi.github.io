@@ -4,6 +4,7 @@ linktitle: Motors
 description: Audi e-tron has powerful electric motors and was the first EV to have a tri-motor configuration. Audi e-tron has 3 different motor configurations.
 weight: 7
 ---
+<!-- markdownlint-disable MD033 -->
 
 ### Motor configuration
 
@@ -16,10 +17,14 @@ They are used in different configurations on the different models.
 
 On e-tron 50 on e-tron 55 they have the 250 in front with a parallel (APA250) axle and the 320 rear with coaxial axle (ATA320). In e-tron S they have the 320 in front (APA320) and two 250 in the back (ATA250)
 
-![bilde](motorconfig_1.png "Motor configuration")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorconfig_1.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorconfig_1s.png" alt="Motor configuration" title="Motor configuration">
+    </a>
+    <figcaption><h4>Motor configuration</h4></figcaption>
+</figure>
 
 The table below summarizes the performance for the version
-
 
 |   | APA250 | ATA320 | APA320 | 2 x ATA250 |
 | ------------- | ------------- | ------------- | ------------- |  ------------- |
@@ -28,7 +33,12 @@ The table below summarizes the performance for the version
 | Torque | 247 Nm  | 314 Nm| 314 Nm | 494 Nm |
 | Torque w/booost | 309 Nm  | 355 Nm| 355 Nm | 618 Nm |
 
-![bilde](motorperformance.png "Electric motor performance figures")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorperformance.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorperformances.png" alt="Electric motor performance figures" title="Electric motor performance figures">
+    </a>
+    <figcaption><h4>Electric motor performance figures</h4></figcaption>
+</figure>
 
 ## Drivetrain motor setup
 
@@ -38,11 +48,26 @@ For both e-tron 50 and e-tron 55 Audi uses the AKA320 drive unit for the rear. T
 
 The motors have a 2 stage plantaery gear differentsial
 
-![Front Motor ](front_motor_schematics.jpg "Front electric motor with power electronics")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/front_motor_schematics.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/front_motor_schematicss.jpg" alt="Front electric motor with power electronics" title="Front electric motor with power electronics">
+    </a>
+    <figcaption><h4>Front electric motor with power electronics</h4></figcaption>
+</figure>
 
-![Rear Motor ](rear_motor_schematics.jpg "Rear electric motor with power electronics")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/rear_motor_schematics.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/rear_motor_schematicss.jpg" alt="Rear electric motor with power electronics" title="Rear electric motor with power electronics">
+    </a>
+    <figcaption><h4>Rear electric motor with power electronics</h4></figcaption>
+</figure>
 
-![Rear Motor ](drivetrain55_50.jpg "e-tron 50/55 drivetrain with electric motors")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/drivetrain55_50.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/drivetrain55_50s.jpg" alt="e-tron 50/55 drivetrain with electric motors" title="e-tron 50/55 drivetrain with electric motors">
+    </a>
+    <figcaption><h4>e-tron 50/55 drivetrain with electric motors</h4></figcaption>
+</figure>
 
 ### Audi e-tron 60S
 
@@ -52,15 +77,40 @@ In the e-tron S model Audi has moved the rear motor from e-tron 50 and e-tron 55
 
 Total 155kg.
 
-![Rear Motor ](rear_motordual_schematics.jpg "Rear electric motor with power electronics")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/rear_motordual_schematics.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/rear_motordual_schematicss.jpg" alt="Rear electric motor with power electronics" title="Rear electric motor with power electronics">
+    </a>
+    <figcaption><h4>Rear electric motor with power electronics</h4></figcaption>
+</figure>
 
-![Rear Motor ](rear_motordual_schematics_2.jpg "Rear electric motor with power electronics")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/rear_motordual_schematics_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/rear_motordual_schematics_2s.jpg" alt="Rear electric motor with power electronics" title="Rear electric motor with power electronics">
+    </a>
+    <figcaption><h4>Rear electric motor with power electronics</h4></figcaption>
+</figure>
 
-![image](motorschematicsdual.jpg "Dual motors")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorschematicsdual.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorschematicsduals.jpg" alt="Rear electric motor with power electronics" title="Rear electric motor with power electronics">
+    </a>
+    <figcaption><h4>Rear electric motor with power electronics</h4></figcaption>
+</figure>
 
-![image](motorschematicsdual_2.jpg "Dual motors")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorschematicsdual_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorschematicsdual_2s.jpg" alt="Rear electric motor with power electronics" title="Rear electric motor with power electronics">
+    </a>
+    <figcaption><h4>Rear electric motor with power electronics</h4></figcaption>
+</figure>
 
-![Rear Motor ](drivetrains.jpg "e-tron s drivetrain with electric motors")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/drivetrains.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/drivetrainss.jpg" alt="e-tron s drivetrain with electric motors" title="e-tron s drivetrain with electric motors">
+    </a>
+    <figcaption><h4>e-tron s drivetrain with electric motors</h4></figcaption>
+</figure>
 
 This technical animation shows the total axle drive set up in the Audi e-tron S.
 
@@ -74,15 +124,36 @@ Animation of the drivetrain construction, twin motor, and coolant circuit of the
 
 Each motor has liquid stator cooling, bearing plate cooling, and rotor internal cooling that Audi e-tron maximum thermal robustness under all operating conditions.
 
-![bilde](motorcooling_1.png)
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorcooling_1.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorcooling_1s.png" alt="e-tron s drivetrain with electric motors" title="e-tron s drivetrain with electric motors">
+    </a>
+    <figcaption><h4>Cooling</h4></figcaption>
+</figure>
 
-![bilde](motorcooling_2.png)
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorcooling_2.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorcooling_2s.png" alt="e-tron s drivetrain with electric motors" title="e-tron s drivetrain with electric motors">
+    </a>
+    <figcaption><h4>Cooling</h4></figcaption>
+</figure>
 
-![image](motorcooling_3.png)
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorcooling_3.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorcooling_3s.png" alt="e-tron s drivetrain with electric motors" title="e-tron s drivetrain with electric motors">
+    </a>
+    <figcaption><h4>Cooling</h4></figcaption>
+</figure>
+
 
 This diagram shows how the rotor internal cooling helps keep the temperature low.
 
-![image](motorcooling_4.png)
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorcooling_4.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorcooling_4s.png" alt="e-tron s drivetrain with electric motors" title="e-tron s drivetrain with electric motors">
+    </a>
+    <figcaption><h4>Cooling</h4></figcaption>
+</figure>
 
 This animation shows the cooling and heat dissipation of the twin-coax drive.
 
