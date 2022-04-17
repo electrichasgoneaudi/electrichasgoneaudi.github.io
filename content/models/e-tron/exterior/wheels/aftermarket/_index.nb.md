@@ -67,3 +67,13 @@ Solgt som vinterdekk i Norge av Audi Norge
     </a>
     <figcaption><h4>21" ABS F22 with 295/35 tires</h4></figcaption>
 </figure>
+
+
+## Nitro Magnum
+
+<figure>
+    <a href="nitro_1.jpg">
+        <img src="nitro_1s.jpg" alt="21" Nitro Magnum" title="21" Nitro Magnum">
+    </a>
+    <figcaption><h4>21" Nitro Magnum</h4></figcaption>
+</figure>
