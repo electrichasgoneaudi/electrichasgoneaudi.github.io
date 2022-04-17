@@ -4,7 +4,7 @@ linktitle: Batteri
 description: Audi e-tron leveres med to forskjellige batteristørrelser. 95kWh og 71kWh.
 weight: 7
 ---
-
+<!-- markdownlint-disable MD033 -->
 ## Celleteknologi
 
 Audi/Volkswagen har en flerleverandørstrategi på celler. Det betyr at Audi bruker forskjellige leverandører av litium-ion-celler for forskjellige batterier.
@@ -13,7 +13,7 @@ Leverandørene har også endret seg siden e-tron hadde verdenspremiere
 
 ### LG Chem
 
-Cellen som ble brukt på e-tron 55 før januar 2021 er LG Chem E66A. Celletypen er [LG Pouch Cell](https://www.youtube.com/watch?v=Q2Lczd7MjGc) produsert i [Polen](https://www.google.no/maps/search/lg+chem+ polen/@51.0183429,16.8906359,995m/data=!3m1!1e3).
+Cellen som ble brukt på e-tron 55 før januar 2021 er LG Chem E66A. Celletypen er [LG Pouch Cell](https://www.youtube.com/watch?v=Q2Lczd7MjGc) produsert i [Polen](https://www.google.no/maps/search/lg+chem+poland/@51.0183429,16.8906359,995m/data=!3m1!1e3)
 
 |Spes. | Verdi |
 |-----|------|
@@ -31,9 +31,19 @@ Cellen som ble brukt på e-tron 55 før januar 2021 er LG Chem E66A. Celletypen 
 | Gravimetrisk energitetthet | 268 Wh/kg |
 | Kjemi | [NCM 622](https://en.wikipedia.org/wiki/Lithium-ion_battery) |
 
-![Audi](lgchenx21.jpg "LGX N2.1 60AH posecelle fra LG Chem")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/lgchenx21.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/lgchenx21s.jpg" alt="LGX N2.1 60AH posecelle fra LG Chem" title="LGX N2.1 60AH posecelle fra LG Chem">
+    </a>
+    <figcaption><h4>LGX N2.1 60AH posecelle fra LG Chem</h4></figcaption>
+</figure>
 
-![LG batterimodul](lgmodule.jpg "Batterimodul med 12 LG Chem-poseceller")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/lgmodule.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/lgmodules.jpg" alt="Batterimodul med 12 LG Chem-poseceller" title="Batterimodul med 12 LG Chem-poseceller">
+    </a>
+    <figcaption><h4>Batterimodul med 12 LG Chem-poseceller</h4></figcaption>
+</figure>
 
 ### Samsung SDI
 
@@ -59,9 +69,19 @@ Etter januar 2021 byttet Audi ut battericellene på e-tron 55-batterier med [Sam
 | Gravimetrisk energitetthet | ? Wh/kg |
 | Kjemi | [NCM 622](https://en.wikipedia.org/wiki/Lithium-ion_battery) |
 
-![e-tron 50 batteri](etron50battery.jpg "e-tron batterimodul med Samsung prismatisk celle og 71 kWh batteripakke")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/etron50battery.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/etron50batterys.jpg" alt="e-tron batterimodul med Samsung prismatisk celle og 71 kWh batteripakke" title="e-tron batterimodul med Samsung prismatisk celle og 71 kWh batteripakke">
+    </a>
+    <figcaption><h4>e-tron batterimodul med Samsung prismatisk celle og 71 kWh batteripakke</h4></figcaption>
+</figure>
 
-![bilde](samsungcells.png "Samsung prismatiske celler")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/samsungcells.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/samsungcellss.png" alt="Samsung prismatiske celler" title="Samsung prismatiske celler">
+    </a>
+    <figcaption><h4>Samsung prismatiske celler</h4></figcaption>
+</figure>
 
 ## Batteripakker
 
@@ -88,7 +108,12 @@ Hver modul er på 11 Volt og har en kapasitet på 240 x 11 = 2640 Wh eller 2,64 
 
 Hver modul veier ca 13 kg.
 
-![bilde](lgmodule.jpg "Modul med LG-posecelle")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/lgmodule.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/lgmodules.jpg" alt="Modul med LG-poseceller" title="Modul med LG-poseceller">
+    </a>
+    <figcaption><h4>Modul med LG-poseceller</h4></figcaption>
+</figure>
 
 Total batterivekt er 1532,2 lb (699,99 kg)
 
@@ -115,27 +140,52 @@ Når 27 moduler som denne er koblet i serie er den nominelle spenningen 396 volt
 
 Hver modul er på 14.666 Volt og har en kapasitet på 14.666 x 14.666 = 2640 Wh eller 2.64 kWh.
 
-![bilde](prismaticcellmodule.jpg "Modul med 12 60Ah prismatiske celler fra e-golf.")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/prismaticcellmodule.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/prismaticcellmodules.jpg" alt="Modul med 12 60Ah prismatiske celler fra e-golf." title="Modul med 12 60Ah prismatiske celler fra e-golf.">
+    </a>
+    <figcaption><h4>Modul med 12 60Ah prismatiske celler fra e-golf.</h4></figcaption>
+</figure>
 
 ## Batterihus
 
 Batteriet på 71kWh består av 27 moduler og alle er plassert i samme "etasje".
 
-![71kWh batteri](batterycase50.jpg "71kWh batteri for e-tron 50 med 27 moduler")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batterycase50.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batterycase50s.jpg" alt="71kWh batteri for e-tron 50 med 27 moduler" title="71kWh batteri for e-tron 50 med 27 moduler">
+    </a>
+    <figcaption><h4>71kWh batteri for e-tron 50 med 27 moduler</h4></figcaption>
+</figure>
 
 De fleste av batterihusdelene gjenbrukes med det større 95kWh-batteriet.
 De 95 kWh bruker en annen etasje under baksetene for å få plass til de 36 modulene.
 
-![bilde](batterycase95kwh.jpg "Batteripakke 95kWh med 36 moduler inkludert 5 i andre etasje")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batterycase95kwh.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batterycase95kwhs.jpg" alt="Batteripakke 95kWh med 36 moduler inkludert 5 i andre etasje" title="Batteripakke 95kWh med 36 moduler inkludert 5 i andre etasje">
+    </a>
+    <figcaption><h4>Batteripakke 95kWh med 36 moduler inkludert 5 i andre etasje</h4></figcaption>
+</figure>
 
-![bilde](batterycasing.jpg "95kWh batteripakke")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batterycasing.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batterycasings.jpg" alt="95kWh batteripakke" title="95kWh batteripakke">
+    </a>
+    <figcaption><h4>95kWh batteripakke</h4></figcaption>
+</figure>
 
 Diagrammet nedenfor viser hvordan e-tron 50 / e-tron Sportback 50 har færre moduler.
 
 Det er iverksatt sofistikerte tiltak for å beskytte høyspentbatteriet til Audi e tron. En sterk omsluttende ramme av støpte aluminiumsnoder og ekstruderte seksjoner, pluss en aluminiumsplate på 3,5 millimeter (0,1 tommer) tykk beskytter mot skade fra ulykker eller fortauskanter. Innvendig forsterker en ramme-lignende aluminiumsstruktur batterisystemet. Også
 består av ekstruderte seksjoner, og holder cellemodulene som en typekasse.
 
-![Crash structure](crashstructure.jpg "Integrert krasjstruktur av litium-ion-batteriet")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/crashstructure.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/crashstructures.jpg" alt="Integrert krasjstruktur av litium-ion-batteriet" title="Integrert krasjstruktur av litium-ion-batteriet">
+    </a>
+    <figcaption><h4>Integrert krasjstruktur av litium-ion-batteriet</h4></figcaption>
+</figure>
 
 Inkludert huset med sine sofistikerte kollisjonsstrukturer som består av 47 prosent ekstruderte aluminiumsseksjoner, 36 prosent aluminiumsplate og 17 prosent pressstøpte aluminiumsdeler, veier batterisystemet rundt 700 kilo. Den er boltet til karosseristrukturen til Audi e-tron på 35 punkter. Dette øker vridningsstivheten med 27 prosent og bidrar til det høye sikkerhetsnivået til Audi e-tron, det samme gjør kjølesystemet festet til utsiden av batterihuset. Sammenlignet med en konvensjonell SUV, tilbyr Audi e-tron 45 prosent høyere vridningsstivhet, en nøkkelparameter for presis håndtering og akustisk komfort
 
@@ -147,11 +197,21 @@ Et kjølesystem av flate ekstruderte aluminiumsseksjoner delt jevnt inn i små k
 
  Varme utveksles mellom cellene og kjølesystemet under dem via en termisk ledende gel presset under hver cellemodul. I det som er en spesielt effektiv løsning, overfører gelen spillvarmen jevnt til kjølevæsken via batterihuset.
 
- ![Cooling](cooling_1.jpg "Kjøling av litium-ion-batteriet via kjøleren")
+ <figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/cooling_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/cooling_1s.jpg" alt="Kjøling av litium-ion-batteriet via kjøleren" title="Kjøling av litium-ion-batteriet via kjøleren">
+    </a>
+    <figcaption><h4>Kjøling av litium-ion-batteriet via kjøleren</h4></figcaption>
+</figure>
 
 Batteriet og alle dets parametere, som ladestatus, strømutgang og termisk styring, administreres av den eksterne batteristyringskontrolleren (BMC). Denne er plassert i passasjercellen på høyre A-stolpe på Audi e-tron. BMC kommuniserer både med kontrollenhetene til de elektriske motorene og cellemodulkontrollerne (CMC), som hver overvåker strømmen, spenningen og temperaturen til modulene.
 
-![Batteri koblingsboks](batteryjunctionbox.jpg "Batteri koblingsboks")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batteryjunctionbox.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batteryjunctionboxs.jpg" alt="Koblingsboks batteri" title="Koblingsboks batteri">
+    </a>
+    <figcaption><h4>Koblingsboks batteri</h4></figcaption>
+</figure>
 
 Batterikoblingsboksen (BJB), som høyspentreléene og sikringene er integrert i, er det elektriske grensesnittet til kjøretøyet. Innelukket i et støpt aluminiumshus, er den plassert i den fremre delen av batterisystemet. Datautveksling mellom BMC, CMC og BJB skjer via et separat bussystem.
 
@@ -163,17 +223,32 @@ Audi e-tron 55/S og Audi e-tron 50 er en av de raskest ladede elbilene på marke
 
 For 71kWh-batteriet er maks ladehastighet 125kW
 
-![bilde](chargespeed50.png "batteri")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/chargespeed50.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/chargespeed50s.png" alt="Ladekurve Audi e-tron 50" title="Ladekurve Audi e-tron 50">
+    </a>
+    <figcaption><h4>Ladekurve Audi e-tron 50</h4></figcaption>
+</figure>
 
 For 95kWh-batteriet er maks ladehastighet 150kW.
 
-![bilde](chargespeed55.png "Ladekurve 55")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/chargespeed55.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/chargespeed55s.png" alt="Ladekurve Audi e-tron 55" title="Ladekurve Audi e-tron 55">
+    </a>
+    <figcaption><h4>Ladekurve Audi e-tron 55</h4></figcaption>
+</figure>
 
 [Diagramm fra FASTNED](https://support.fastned.nl/hc/en-gb/articles/360000815988-Charging-with-an-Audi-e-tron)
 
 Det er flere biler med høyere topphastighet på lading, men den jevnt høye ytelsen fra lav SOC til høy SOC gjør den totalt sett raskere enn de fleste andre biler.
 
-[Ladekurve](chargingcurve.jpg "e-tron 55 ladekurve sammenlignet med konkurrentene")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/chargingcurve.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/chargingcurves.jpg" alt="e-tron 55 ladekurve sammenlignet med konkurrentene" title="e-tron 55 ladekurve sammenlignet med konkurrentene">
+    </a>
+    <figcaption><h4>e-tron 55 ladekurve sammenlignet med konkurrentene</h4></figcaption>
+</figure>
 
 Se videosammenligning nedenfor.
 
