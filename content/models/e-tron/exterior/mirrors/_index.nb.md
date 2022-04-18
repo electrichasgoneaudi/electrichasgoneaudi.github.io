@@ -9,7 +9,12 @@ weight: 5
 
 Elektrisk justerbare speil er standard på Audi e-tron (alternativ ID 6XD). De styres i førerdøren på joysticken.
 
-![Speilkontroll](control.jpg "Speilene styres i førerdøren" )
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/control.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/controls.jpg" alt="Speilene styres i førerdøren" title="Speilene styres i førerdøren">
+    </a>
+    <figcaption><h4>Speilene styres i førerdøren</h4></figcaption>
+</figure>
 
 Det er noen valgfrie speil
 
