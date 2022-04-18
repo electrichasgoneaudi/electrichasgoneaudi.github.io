@@ -4,12 +4,20 @@ linktitle: Mirrors
 description: The mirrors can be delivered in 3 different styles and with different functionality.
 weight: 5
 ---
+<!-- markdownlint-disable MD033 -->
 
 ## Functionality
 
 Electric adjustable mirrors are standard on Audi e-tron (option ID 6XD). They are controlled in the drivers door on the joystick.
 
-![Mirror control](control.jpg "Mirrors are controlled in driver door" )
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/control.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/controls.jpg" alt="Mirrors are controlled in driver door" title="Mirrors are controlled in driver door">
+    </a>
+    <figcaption><h4>Mirrors are controlled in driver door</h4></figcaption>
+</figure>
+
+![Mirror control](control.jpg "" )
 
 There are some optional mirros
 
@@ -19,20 +27,57 @@ There are some optional mirros
 
 ## Mirror Style
 
-![Painted mirror](mirrors_painted.png "Painted mirrors in body color")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/mirrors_painted.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/mirrors_painteds.png" alt="Painted mirrors in body color" title="Painted mirrors in body color">
+    </a>
+    <figcaption><h4>Painted mirrors in body color</h4></figcaption>
+</figure>
 
-![Black mirror](mirrors_black.png "Black mirror Option ID 6FJ")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/mirrors_black.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/mirrors_blacks.png" alt="Black mirror Option ID 6FJ" title="Black mirror Option ID 6FJ">
+    </a>
+    <figcaption><h4>Black mirror Option ID 6FJ</h4></figcaption>
+</figure>
 
-![Black mirror](mirrors_carbon.png "Carbon mirror")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/mirrors_carbon.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/mirrors_carbons.png" alt="Black mirror Option ID 6FJ" title="Black mirror Option ID 6FJ">
+    </a>
+    <figcaption><h4>Carbon mirror</h4></figcaption>
+</figure>
 
-![Black mirror](mirrors_aluminum.jpg "Aluminum mirror for e-tron S")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/mirrors_aluminum.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/mirrors_aluminums.jpg" alt="Aluminum mirror for e-tron S" title="Aluminum mirror for e-tron S">
+    </a>
+    <figcaption><h4>Aluminum mirror for e-tron S</h4></figcaption>
+</figure>
 
 ## Virtual mirrors
 
 The virtual exterior mirrors of the Audi e-tron not only provide a new technology experience, but also many practical benefits in terms of comfort and safety. Their flat support integrates a small camera whose image is digitally processed and shown on high-contrast 7-inch OLED displays in the interior. The driver can enter different settings using the touchscreen function. OptionID **PAF**
 
-![Virtual mirrors](virtualmirrors.jpg "Virtual Mirrors")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/virtualmirrors.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/virtualmirrorss.jpg" alt="Virtual Mirrors" title="Virtual Mirrors">
+    </a>
+    <figcaption><h4>Virtual Mirrors</h4></figcaption>
+</figure>
 
-![Virtual mirrors](virtualmirrors2.jpg "Virtual Mirrors")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/virtualmirrors2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/virtualmirrors2s.jpg" alt="Virtual Mirrors" title="Virtual Mirrors">
+    </a>
+    <figcaption><h4>Virtual Mirrors</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/virtualmirrors3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/virtualmirrors3s.jpg" alt="Virtual Mirrors" title="Virtual Mirrors">
+    </a>
+    <figcaption><h4>Virtual Mirrors</h4></figcaption>
+</figure>
 
 {{% children description="true" depth="1" %}}
