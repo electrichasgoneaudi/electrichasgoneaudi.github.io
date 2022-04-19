@@ -286,6 +286,14 @@ other road users in order to improve road safety. Low beams and high beams are i
 via light segments in the outer sections of the Singleframe and a similarly functioning matrix
 LED surface is located in the rear.
 
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_10.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_10s.jpg" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+    </a>
+    <figcaption><h4>Audi urbansphere concept</h4></figcaption>
+</figure>
+
+
 The lighting units to the right and left of the Singleframe look narrow, like focused eyes. These
 digital lighting units, known as Audi Eyes, echo the logo of the brand with the four rings, as they
 enlarge and isolate the intersection of two rings to form a pupil – a new, unmistakable digital 
