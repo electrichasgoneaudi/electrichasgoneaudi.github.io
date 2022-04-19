@@ -123,17 +123,17 @@ counterparts in the doors create a comforting feeling of security.
     <figcaption><h4>Audi urbansphere concept</h4></figcaption>
 </figure>
 
-The seats also cater to passengers’ changing social needs in a variety of ways. While conversing, 
-they can turn to face each other on their swiveling seats. On the other hand, those who want 
-some seclusion can conceal their head area from the person sitting next to them using a privacy 
-screen mounted behind the headrest. In addition, each seat has its own sound zone with 
+The seats also cater to passengers’ changing social needs in a variety of ways. While conversing,
+they can turn to face each other on their swiveling seats. On the other hand, those who want
+some seclusion can conceal their head area from the person sitting next to them using a privacy
+screen mounted behind the headrest. In addition, each seat has its own sound zone with
 speakers in the headrest area. Individual monitors are also built into the backs of the front seats.
-When passengers want to use the infotainment system together, on the other hand, there is a 
-large-format and transparent OLED screen that pivots vertically from the roof area into the zone 
+When passengers want to use the infotainment system together, on the other hand, there is a
+large-format and transparent OLED screen that pivots vertically from the roof area into the zone
 between the rows of seats. 
-Using this “cinema screen,” which occupies the entire width of the interior, the two passengers 
-in the back row can take part in a video conference together or watch a movie. Even split-screen 
-use is possible. When the screen is not in use, it offers a clear view into the front thanks to its 
+Using this “cinema screen,” which occupies the entire width of the interior, the two passengers
+in the back row can take part in a video conference together or watch a movie. Even split-screen
+use is possible. When the screen is not in use, it offers a clear view into the front thanks to its
 transparent design or – when folded upwards – through the glass roof area to the sky.
 
 
@@ -144,20 +144,20 @@ transparent design or – when folded upwards – through the glass roof area to
     <figcaption><h4>Audi urbansphere concept</h4></figcaption>
 </figure>
 
-Like in the Audi grandsphere concept, the interior of the urbansphere blends space and 
-architecture, digital technology, and authentic materials into a single entity. The lines 
-emphasize the vehicle’s horizontal proportions. The open, wide interior supports the impression 
-of a one-of-a-kind space. The steering wheel, pedals, and conventional dashboard can be hidden 
-during automated driving, which enhances the feeling of transparency and spaciousness. 
-The seating surfaces and backs of the two seats with integrated seat belts are visually separate. 
-Between the rear seats – normally locked in place in a low position – is a center console that 
-swivels upwards. It contains a water dispenser and glasses – another testament to the Audi 
+Like in the Audi grandsphere concept, the interior of the urbansphere blends space and
+architecture, digital technology, and authentic materials into a single entity. The lines
+emphasize the vehicle’s horizontal proportions. The open, wide interior supports the impression
+of a one-of-a-kind space. The steering wheel, pedals, and conventional dashboard can be hidden
+during automated driving, which enhances the feeling of transparency and spaciousness.
+The seating surfaces and backs of the two seats with integrated seat belts are visually separate.
+Between the rear seats – normally locked in place in a low position – is a center console that
+swivels upwards. It contains a water dispenser and glasses – another testament to the Audi
 urbansphere concept’s first-class credentials.
-The Audi urbansphere also qualifies as a wellness zone thanks to innovative digital options that 
-emerged in no small part through input from the co-creation process with Chinese customers. 
-Stress detection is a prime example – this adaptive program uses facial scans and voice analysis 
-to determine how passengers are feeling and offers personalized suggestions for relaxation, for 
-example with a meditation app that can be used via the personal screen and the private sound 
+The Audi urbansphere also qualifies as a wellness zone thanks to innovative digital options that
+emerged in no small part through input from the co-creation process with Chinese customers.
+Stress detection is a prime example – this adaptive program uses facial scans and voice analysis
+to determine how passengers are feeling and offers personalized suggestions for relaxation, for
+example with a meditation app that can be used via the personal screen and the private sound
 zone in the headrests.
 
 <figure>
@@ -167,7 +167,7 @@ zone in the headrests.
     <figcaption><h4>Audi urbansphere concept</h4></figcaption>
 </figure>
 
-## Less is more – displays and operation 
+## Less is more – displays and operation
 
 In the Audi urbansphere, simplicity has become a design principle. Neither circular instruments 
 nor black screens for virtual display concepts are visible before activating the driving functions. 
@@ -195,7 +195,7 @@ throughout the journey.
 
 In addition, a sensor bar is integrated under the projection surfaces for quick switching between 
 content – for instance, for music or navigation. It shows all the functions and applications that 
-are active in the car. Icons flash for the different menus. 
+are active in the car. Icons flash for the different menus.
 
 One particular, extremely innovative control element is located near the door cut-out on the 
 interior cladding: the MMI touchless response. If the passenger is sitting in the upright position, 
@@ -206,7 +206,7 @@ Even if the seat is fully reclined, passengers can still make use of this conven
 to a combination of eye-tracking and gesture control. A sensor directed at the eye detects the 
 line of sight when the control unit is to be engaged. And the passenger only needs to make hand 
 movements that are similar to physical operation – without leaning over – to operate the system 
-without touching a thing. 
+without touching a thing.
 
 Whether it is eye-tracking, gesture or voice control, or touch, the same thing applies to all 
 operation modes: the Audi urbansphere concept adjusts to the individual user and learns his or 
@@ -345,6 +345,13 @@ balancing these perfectly against economy and range requirements.
 One innovative feature is that the motor on the front axle can be deactivated as required in order
 to reduce friction and thus energy consumption when coasting.
 
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_2s.jpg" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+    </a>
+    <figcaption><h4>Audi urbansphere concept</h4></figcaption>
+</figure>
+
 ## Fast charging, high range
 
 The heart of the drive system is the 800 volt charging technology. It ensures that the battery can
@@ -359,19 +366,22 @@ trips, it is generally possible to avoid making unexpected stops to charge.
 
 ## Air suspension for maximum comfort
 
-The front wheels are connected via a 5-link axle that has been specially optimized for electric 
-vehicles. In the rear, there is a multi-link axle that, like the front axle, is made of lightweight 
-aluminum. Despite the long 3.40 meter (11 foot) wheelbase, the steerable rear wheels provide 
+The front wheels are connected via a 5-link axle that has been specially optimized for electric
+vehicles. In the rear, there is a multi-link axle that, like the front axle, is made of lightweight
+aluminum. Despite the long 3.40 meter (11 foot) wheelbase, the steerable rear wheels provide
 excellent maneuverability.
 
-The Audi urbansphere concept, like its closest relative the grandsphere, features Audi adaptive 
-air suspension – a single-chamber air suspension system with semi-active damper control. It 
-offers outstanding comfort not only on city highways, but even on the uneven, often patched 
+The Audi urbansphere concept, like its closest relative the grandsphere, features Audi adaptive
+air suspension – a single-chamber air suspension system with semi-active damper control. It
+offers outstanding comfort not only on city highways, but even on the uneven, often patched
 asphalt of downtown streets with no noticeable body movement
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_2s.jpg" alt="Audi urbansphere concept" title="Audi urbansphere concept">
-    </a>
-    <figcaption><h4>Audi urbansphere concept</h4></figcaption>
-</figure>
+## Video of urbanshpere
+
+Detailed shot
+
+{{< youtube N9NMlLSEGuo >}}
+
+Design video 
+
+{{< youtube sW0dKLJ7oXo >}}
