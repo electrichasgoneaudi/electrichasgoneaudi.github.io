@@ -32,7 +32,12 @@ Sold as winter tires by Audi Norway.
 
 ## Vossen
 
-![Vossen HF2](aftermarket1.jpg "Vossen HF2")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/aftermarket1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/aftermarket1.jpg" alt="20-inch MT Galvani" title="22 x 10.5 Vossen HF2">
+    </a>
+    <figcaption><h4>22 x 10.5 Vossen HF2</h4></figcaption>
+</figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/vossenhf2.jpg">
@@ -43,7 +48,12 @@ Sold as winter tires by Audi Norway.
 
 ## BCforged EH186
 
-![bcforged eh186 in brushed dark black 10.5 10 ET 28/25 (rear/front)n](aftermarket2.jpg "bcforged eh186 in brushed dark black 10.5 10 ET 28/25 (rear/front)")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/aftermarket2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/aftermarket2.jpg" alt="bcforged eh186 in brushed dark black 10.5 10 ET 28/25 (rear/front)" title="bcforged eh186 in brushed dark black 10.5 10 ET 28/25 (rear/front)">
+    </a>
+    <figcaption><h4>bcforged eh186 in brushed dark black 10.5 10 ET 28/25 (rear/front)</h4></figcaption>
+</figure>
 
 ## ABS F22 Dark Tint
 
