@@ -7,8 +7,8 @@ weight: 100005
 <!-- markdownlint-disable MD033 -->
 
 <figure>
-    <a href="audigrandsphereconcept_1.jpg">
-        <img src="audigrandsphereconcept_1s.jpg" alt="Audi grandsphere concept" title="Audi grandsphere concept">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_1s.jpg" alt="Audi grandsphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi grandsphere concept</h4></figcaption>
 </figure>
@@ -40,8 +40,8 @@ Even the “sphere” in the name sends a signal: the heart of the Audi skyspher
 ## Space, form, function – the interior
 
 <figure>
-    <a href="audigrandsphereconcept_6.jpg">
-        <img src="audigrandsphereconcept_6s.jpg" alt="Audi grandsphere doors" title="Audi grandsphere doors">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_6.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_6s.jpg" alt="Audi grandsphere doors" title="Audi grandsphere doors">
     </a>
     <figcaption><h4>Audi grandsphere doors</h4></figcaption>
 </figure>
@@ -55,8 +55,8 @@ The large glass surfaces, expansive windshield, and transparent ceiling also emp
 The change in the comfort zone is radical: if the boss’ seat is in the back in a conventional sedan, first class has now shifted forward into the front row. That is because it is no longer necessarily subordinated, first and foremost, to the driving function and the controls. In level 4 driving, the steering wheel and pedals disappear and the front area of the cabin becomes actual free space in all its breadth, with a perfect view through the large front and side windows, as well as maximum possibilities for movement.
 
 <figure>
-    <a href="audigrandsphereconcept_3.jpg">
-        <img src="audigrandsphereconcept_3s.jpg" alt="Audi grandsphere doors" title="Audi grandsphere doors">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_3s.jpg" alt="Audi grandsphere doors" title="Audi grandsphere doors">
     </a>
     <figcaption><h4>Audi grandsphere doors</h4></figcaption>
 </figure>
@@ -66,8 +66,8 @@ The interior appears particularly wide when the two individual front seats are p
 The seating surfaces and backs of the two seats with integrated belts are visually separate. The side bolsters of the seat backs are discreetly bent, thereby ensuring support while driving through curves. The possible seat positions are optimized for every use: in the upright position, the Audi grandsphere can be perfectly ergonomically controlled – as desired and outside level 4 zones. With the back tilted 40 degrees, passengers can relax and use the infotainment system. Finally, if the back is folded out to 60 degrees, it achieves a perfect resting position. The headrest can be bent 15 degrees forward. Outlets for air that is filtered and temperature controlled – even scented, as desired – as well as speakers that are inaudible to other passengers and allow for a private aural zone are all integrated into this area.
 
 <figure>
-    <a href="audigrandsphereconcept_4.jpg">
-        <img src="audigrandsphereconcept_4s.jpg" alt="Audi grandsphere concept" title="Audi grandsphere concept">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_4s.jpg" alt="Audi grandsphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi grandsphere concept</h4></figcaption>
 </figure>
@@ -81,8 +81,8 @@ One surprise when looking around in the Audi grandsphere's natural-colored, redu
 Instead, there are clearly articulated and sedate areas with materials of the highest quality. Wood and wool, synthetic textile fabrics and metal are visible and pleasant to touch as wall cladding, seat covering, and carpeting. Many of these materials, like the hornbeam veneers, come from sustainable cultivation or are made from recycled raw materials. There is no leather in the Audi grandsphere – even this is in keeping with a progressive understanding of luxury, which is always inseparable from sustainability.
 
 <figure>
-    <a href="audigrandsphereconcept_5.jpg">
-        <img src="audigrandsphereconcept_5s.jpg" alt="Audi grandsphere concept" title="Audi grandsphere concept">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_5.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_5s.jpg" alt="Audi grandsphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi grandsphere concept</h4></figcaption>
 </figure>
@@ -117,8 +117,8 @@ In the front end, there is an innovative interpretation of the Singleframe that 
 The headlight units on the upper side of the Singleframe look narrow, like focused eyes. The lighting units reference the four rings brand logo: they enlarge and isolate the intersection of two rings into a pupil – a new, unmistakable digital light signature. This means that the size of the light areas can be adjusted according to their function as daytime running lights or as dynamically staged blinkers – depending on the traffic situation – and thereby issue an obvious signal in the interest of safety. The same graphic is also in the rear lighting units – another significant characteristic of the Audi light design.
 
 <figure>
-    <a href="audigrandsphereconcept_7.jpg">
-        <img src="audigrandsphereconcept_7s.jpg" alt="Audi grandsphere concept" title="Audi grandsphere concept">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_7.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_7s.jpg" alt="Audi grandsphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi grandsphere concept</h4></figcaption>
 </figure>
@@ -136,8 +136,8 @@ Nonetheless, the Audi grandsphere does not forego the quattro drive system, whic
 The heart of the drive system is the 800 volt charging technology. Like the Audi e-tron GT before it, this technology ensures that the battery can be charged with up to 270 kW in a very short time at fast-charging stations.
 
 <figure>
-    <a href="audigrandsphereconcept_4.jpg">
-        <img src="audigrandsphereconcept_4s.jpg" alt="Audi grandsphere concept" title="Audi grandsphere concept">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_4s.jpg" alt="Audi grandsphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi grandsphere concept with fast charging</h4></figcaption>
 </figure>
