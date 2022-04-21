@@ -74,10 +74,16 @@ Hvis byggemåneden er 122019 eller senere, bør det være en oppgradert versjon
 
 ### MY 2023 (fra sommeren 2022)
 
+- vin nr har O som 10 siffer for 2022-modelleksempel: WAUZZZGE0**O**B001111
+
+### Facelift
+
+Det var forventet at 2023 modellen ville bli lansert som en facelift. Dette er blitt utsatt grunnet leveransesituasjonen i verden.
+
 Dette er den første ekte ansiktsløftningsversjonen av e-tron.
 
 For å gjøre navngivningen logisk har Audi besluttet å omdøpe den til Audi Q8 e-tron.
 
-Så 2022 blir det siste året for Audi e-tron.
+Så 2023 blir det siste året for Audi e-tron.
 
 Se [Audi Q8 e-tron](../../../models/q8-e-tron) for detaljer om den nye modellen.

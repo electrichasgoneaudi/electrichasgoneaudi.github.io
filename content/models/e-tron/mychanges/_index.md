@@ -74,10 +74,17 @@ If build month is 122019 or later it should be a upgraded version
 
 ### MY 2023 (from summer 2022)
 
+- vin nr has O as 10 digit for 2022 model example: WAUZZZGE0**O**B001111
+
+
+### Facelift
+
+It was expected that a new e-tron with increased range would be launched for the 2023 model. This has been postponed. Probably because of the supply issues in the world. 
+
 This is the first real facelift version of e-tron.
 
 To make the naming logical Audi has decied to rename it to Audi Q8 e-tron.
 
-So 2022 will be the last year of Audi e-tron.
+So 2023 will be the last year of Audi e-tron.
 
 See [Audi Q8 e-tron](../../../models/q8-e-tron) for details about the new model.

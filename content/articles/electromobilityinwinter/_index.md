@@ -6,8 +6,8 @@ weight: 100000
 ---
 <!-- markdownlint-disable MD033 -->
 <figur>
-    <a href="electromobilityinwinter_1.jpg">
-        <img src="electromobilityinwinter_1s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_1s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
     </a>
     <figcaption><h4>Electric mobility in winter</h4></figcaption>
 </figur>
@@ -23,8 +23,8 @@ Preconditioning climatizes the interior of the vehicle before departure to the d
 In the purely electric models, the Audi e-tron route planner complements the Audi MMI’s (MMI = Multi Media Interface) navigation features with about 30 pieces of detailed information and helps optimize the demands of e-mobility, especially when driving medium and longer distances: it calculates the fastest route, takes traffic and route data into account, considers the driver’s driving style, calculates how long it will take to charge the vehicle, and includes it in the total driving time. Users are also shown basic information such as the charging power or charging connections and the plug type of the respective charging points. The system also shows whether charging stations are available or occupied. The Audi e-tron route planner gives preference to high-performance HPC charging stations (HPC = High Power Charging = ultra-fast charging) and, in the e-tron GT quattro models, activates battery preconditioning while driving. With an active e-tron route planner, the particular model always looks for the most efficient path to its destination. Additionally, the range calculator on the website shows the differences in range for the Audi e-tron and the Audi e-tron Sportback – depending on external temperature, driving mode, rim size, and use of heating and air conditioning.
 
 <figur>
-    <a href="electromobilityinwinter_3.jpg">
-        <img src="electromobilityinwinter_3s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_3s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
     </a>
     <figcaption><h4>Electric mobility in winter</h4></figcaption>
 </figur>
@@ -42,8 +42,8 @@ The range prognosis is derived from the high-voltage battery’s charge level an
 Anyone who frequently makes short car trips should charge the battery to a maximum of 80 percent in order to save its capacity for longer ranges and to extend its lifespan. On the other hand, it is a good idea to avoid a long-lasting deep discharge when the charge level is below 20 percent. Anyone who frequently makes long car trips can charge up to 100 percent, but should then start driving immediately thereafter. Ideally, anyone who does not drive for longer than 12 hours should keep the charging level between 40 and 80 percent in the winter.
 
 <figur>
-    <a href="electromobilityinwinter_4.jpg">
-        <img src="electromobilityinwinter_4s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_4s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
     </a>
     <figcaption><h4>Electric mobility in winter</h4></figcaption>
 </figur>
@@ -61,8 +61,8 @@ In order to be able to use the Audi e-tron GT’s high HPC charging capacity of 
 Smaller rim sizes, narrower tires, and the right air pressure can reduce the tires’ rolling resistance in the winter. By contrast, roof boxes increase aerodynamic drag. Inside the car, steering wheel and seat heating save energy because they operate close to the body and consume less electricity. Switching to air-circulation mode reduces loss of range.
 
 <figur>
-    <a href="electromobilityinwinter_5.jpg">
-        <img src="electromobilityinwinter_5s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_5.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_5s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
     </a>
     <figcaption><h4>Electric mobility in winter</h4></figcaption>
 </figur>
