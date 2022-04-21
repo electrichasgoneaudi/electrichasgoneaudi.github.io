@@ -9,7 +9,7 @@ The target audience is everyone owning, everyone considering buying, and everyon
 
 The site is community-driven and open source, meaning the content is managed by owners and can be updated by anyone having a Github account.
 
-![Audience](about_2.jpg "We have users from most of the countries on the planet")
+![Audience](https://media.electrichasgoneaudi.net/multimedia/articles/about/about_2.jpg "We have users from most of the countries on the planet")
 
 ## What type of content do you find?
 
@@ -39,8 +39,8 @@ Audi has committed to end the development of new internal combustion engine mode
 That's why we love Audi and why we want to focus our energy and this site on all-electric Audis to help them achieve their goal. Our goal is not only to be the ultimate Audi site but being the ultimate site for any car brand or model. While Audis slogan is "vorsprung durch technik" we also belive in "vorsprung durch informationen".
 
 <figure>
-    <a href="about_1.jpg">
-        <img src="about_1s.jpg" alt="Audi charging hub" title="Audi charging hub">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/about/about_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/about/about_1s.jpg" alt="Audi charging hub" title="Audi charging hub">
     </a>
     <figcaption><h4>Audi is going all-electric</h4></figcaption>
 </figure>
