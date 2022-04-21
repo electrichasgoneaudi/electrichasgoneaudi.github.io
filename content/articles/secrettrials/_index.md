@@ -7,8 +7,8 @@ weight: 99996
 <!-- markdownlint-disable MD033 -->
 
 <figure>
-    <a href="secrettrials1.jpg">
-        <img src="secrettrials1s.jpg" alt="Raphael Kis and the new 2023 Audi SQ8 e-tron prototype" title="Raphael Kis and the new 2023 Audi SQ8 e-tron prototype">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials1s.jpg" alt="Raphael Kis and the new 2023 Audi SQ8 e-tron prototype" title="Raphael Kis and the new 2023 Audi SQ8 e-tron prototype">
     </a>
     <figcaption><h4>Raphael Kis and the new 2023 Audi SQ8 e-tron prototype</h4></figcaption>
 </figure>
@@ -24,8 +24,8 @@ The workshop is on the Volkswagen Group’s extensive testing grounds in Sweden 
 The next-largest town is several kilometers away and even the nearest supermarket is beyond walking distance. Nonetheless, the roughly 150 employees on average, who are there only for Audi, are well supplied. The all-inclusive carefree package includes three mealtimes in the hotel restaurant, two exercise rooms, and a hotel bar. “We’re together with a lot of people – you have to like that. If you’re not up for that, you won’t be able to stand it for long.” Raphael Kis has been at it for 14 years, about 20 weeks per year, of which about ten weeks are in Sweden.
 
 <figure>
-    <a href="secrettrials3.jpg">
-        <img src="secrettrials3s.jpg" alt="2023 Audi SQ8 e-tron prototype" title="2023 Audi SQ8 e-tron prototype">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials3s.jpg" alt="2023 Audi SQ8 e-tron prototype" title="2023 Audi SQ8 e-tron prototype">
     </a>
     <figcaption><h4>2023 Audi SQ8 e-tron prototype</h4></figcaption>
 </figure>
@@ -43,8 +43,8 @@ Thick snowflakes are still fluttering from the sky outside the window, illuminat
 Moments later, the laptop is firmly in its bracket on the passenger seat of a car stickered with camouflage film. Various parameters can be changed on the computer in order to get incrementally closer to the target characteristics. The Audi should be easy to control – including in the threshold range. All control systems have to respond reliably to the driving conditions that are present. Superior traction is also considered a typical Audi characteristic. Despite electric cars, tuning has not fundamentally changed over the years.
 
 <figure>
-    <a href="secrettrials2.jpg">
-        <img src="secrettrials2s.jpg" alt="Adjusting behaviour" title="Adjusting behaviour">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials2s.jpg" alt="Adjusting behaviour" title="Adjusting behaviour">
     </a>
     <figcaption><h4>Adjusting behaviour</h4></figcaption>
 </figure>

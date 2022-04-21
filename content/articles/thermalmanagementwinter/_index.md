@@ -6,8 +6,8 @@ weight: 100001
 ---
 <!-- markdownlint-disable MD033 -->
 <figur>
-    <a href="thermalmanagementwinter_1.jpg">
-        <img src="thermalmanagementwinter_1s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_1s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
     </a>
     <figcaption><h4>Audi Q4 e-tron charging in winter</h4></figcaption>
 </figur>
@@ -19,8 +19,8 @@ Low exterior temperatures exacerbate the problem – and affect high-voltage bat
 ***Thomas Anzenberger***: I can answer that question with an unequivocal no. The size of our high-voltage batteries alone makes doubt about performance and range in the winter unwarranted. Our intelligent thermal management always selects the most efficient methods to heat the battery and the interior appropriately in the winter. As a result, high-voltage batteries have long lifespans, when our customers precondition for each season via what are known as AC charging stations or a home Wallbox. That function is particularly useful in the winter. It goes easy on the cells and simultaneously minimizes range loss because the battery is already in the optimal temperature range and therefore does not need to be heated as much.
 
 <figur>
-    <a href="thermalmanagementwinter_2.jpg">
-        <img src="thermalmanagementwinter_2s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_2s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
     </a>
     <figcaption><h4>Thomas Anzenberger</h4></figcaption>
 </figur>
@@ -36,8 +36,8 @@ Low exterior temperatures exacerbate the problem – and affect high-voltage bat
 That's how the charging point knows how much electricity the battery can absorb at any time. So we ensure that the battery isn’t overloaded. When it’s charging, the battery draws the electricity it needs for heating power from the charging point.
 
 <figur>
-    <a href="thermalmanagementwinter_3.jpg">
-        <img src="thermalmanagementwinter_3s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_3s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
     </a>
     <figcaption><h4>Pierre Woltmann</h4></figcaption>
 </figur>
@@ -61,8 +61,8 @@ That's how the charging point knows how much electricity the battery can absorb 
 This additional mobile preconditioning of the battery in the e-tron GT quattro and RS e-tron GT ensures the best and fastest possible charging results.
 
 <figur>
-    <a href="thermalmanagementwinter_4.jpg">
-        <img src="thermalmanagementwinter_4s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_4s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
     </a>
     <figcaption><h4>Audi RS e-tron GT & Audi Q4 e-tron</h4></figcaption>
 </figur>
@@ -76,8 +76,8 @@ This additional mobile preconditioning of the battery in the e-tron GT quattro a
 ***Woltmann*** : Anyone who needs more range as soon as they get into the car should precondition. Ideally, it should be done by AC charging, which is generally more efficient than DC charging because there is less power loss due to the lower currents. AC charging is also gentler because it doesn’t put as much strain on the battery. There is less amperage flowing with AC charging. The battery can absorb that even at very low battery temperatures, which means that the battery doesn't have to be heated as much. Charging should happen – regardless of whether it is AC or DC – immediately before starting a trip via the departure timer in order to use the higher battery temperature to gain range or immediately after driving in order to utilize the higher battery temperature to charge faster and more efficiently.
 
 <figur>
-    <a href="thermalmanagementwinter_5.jpg">
-        <img src="thermalmanagementwinter_5s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_5.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_5s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
     </a>
     <figcaption><h4>Audi Q4 e-tron</h4></figcaption>
 </figur>
@@ -96,8 +96,8 @@ This additional mobile preconditioning of the battery in the e-tron GT quattro a
 ***Anzenberger***: By using the car’s computer and the range monitor in the Audi MMI with range prediction while driving, customers can directly read how much range they are gaining when, for example, the interior temperature is reduced. The range can be increased with Range Mode. This slightly restricts comfort functions, drive power, and the maximum speed.
 
 <figur>
-    <a href="thermalmanagementwinter_8.jpg">
-        <img src="thermalmanagementwinter_8s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_8.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_8s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
     </a>
     <figcaption><h4>Range mode in Audi e-tron GT</h4></figcaption>
 </figur>

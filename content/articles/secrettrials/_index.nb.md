@@ -7,8 +7,8 @@ weight: 99996
 <!-- markdownlint-disable MD033 -->
 
 <figure>
-    <a href="secrettrials1.jpg">
-        <img src="secrettrials1s.jpg" alt="Raphael Kis and the new 2023 Audi SQ8 e-tron prototype" title="Raphael Kis and the new 2023 Audi SQ8 e-tron prototype">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials1s.jpg" alt="Raphael Kis and the new 2023 Audi SQ8 e-tron prototype" title="Raphael Kis and the new 2023 Audi SQ8 e-tron prototype">
     </a>
     <figcaption><h4>Raphael Kis and the new 2023 Audi SQ8 e-tron prototype</h4></figcaption>
 </figure>
@@ -24,8 +24,8 @@ Verkstedet er på Volkswagen-konsernets omfattende testområde i Sverige – gan
 Den nest største byen ligger flere kilometer unna, og til og med det nærmeste supermarkedet ligger utenfor gangavstand. Likevel er de rundt 150 ansatte i gjennomsnitt, som kun er der for Audi, godt forsynt. Den bekymringsfrie all-inclusive-pakken inkluderer tre måltider i hotellets restaurant, to treningsrom og en hotellbar. "Vi er sammen med mange mennesker - det må du like. Hvis du ikke er klar for det, vil du ikke kunne holde det ut lenge.» Raphael Kis har holdt på i 14 år, omtrent 20 uker per år, hvorav omtrent ti uker i Sverige.
 
 <figur>
-    <a href="secrettrials3.jpg">
-        <img src="secrettrials3s.jpg" alt="2023 Audi SQ8 e-tron prototype" title="2023 Audi SQ8 e-tron prototype">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials3s.jpg" alt="2023 Audi SQ8 e-tron prototype" title="2023 Audi SQ8 e-tron prototype">
     </a>
     <figcaption><h4>2023 Audi SQ8 e-tron prototype</h4></figcaption>
 </figur>
@@ -43,8 +43,8 @@ Fortsatt flagrer tykke snøflak fra himmelen utenfor vinduet, opplyst av lyset f
 Øyeblikk senere sitter den bærbare datamaskinen godt i braketten på passasjersetet til en bil merket med kamuflasjefilm. Ulike parametere kan endres på datamaskinen for å komme gradvis nærmere målegenskapene. Audien skal være lett å kontrollere – også i terskelområde. Alle kontrollsystemer må reagere pålitelig på de kjøreforholdene som er tilstede. Overlegen trekkraft regnes også som en typisk Audi-karakteristikk. Til tross for elbiler har ikke tuning endret seg fundamentalt gjennom årene.
 
 <figur>
-    <a href="secrettrials2.jpg">
-        <img src="secrettrials2s.jpg" alt="Justere atferd" title="Justere atferd">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials2s.jpg" alt="Justere atferd" title="Justere atferd">
     </a>
     <figcaption><h4>Justere atferd</h4></figcaption>
 </figur>
