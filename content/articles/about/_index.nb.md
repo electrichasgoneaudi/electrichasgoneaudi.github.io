@@ -9,7 +9,7 @@ Målgruppen er alle som eier, alle som vurderer å kjøpe, og alle som ønsker �
 
 Nettstedet er fellesskapsdrevet og åpen kildekode, noe som betyr at innholdet administreres av eiere og andre med kunnskap og kan oppdateres av alle som har en Github-konto.
 
-![Audience](about_2.jpg "Vi har besøkende fra de fleste land på planeten")
+![Audience](https://media.electrichasgoneaudi.net/multimedia/articles/about/about_2.jpg "Vi har besøkende fra de fleste land på planeten")
 
 ## Hvilken type innhold finner du?
 
@@ -39,8 +39,8 @@ Audi har forpliktet seg til å avslutte utviklingen av nye forbrenningsmotormode
 Det er derfor vi elsker Audi og derfor ønsker vi å fokusere energien vår og denne siden på helelektriske Audier for å hjelpe dem med å nå målet sitt. Målet vårt er ikke bare å være den ultimate Audi-siden, men å være den ultimate siden for alle bilmerker eller modeller. Mens Audis slagord er "vorsprung durch technik", tror vi også på "vorsprung durch informationen".
 
 <figur>
-    <a href="about_1.jpg">
-        <img src="about_1s.jpg" alt="Audi ladehub" title="Audi ladehub">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/about/about_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/about/about_1s.jpg" alt="Audi ladehub" title="Audi ladehub">
     </a>
     <figcaption><h4>Audi blir helt elektrisk</h4></figcaption>
 </figur>
