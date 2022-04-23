@@ -4,6 +4,8 @@ linktitle: Interior & ambient lights
 description: Audi e-tron has some standard interior lights and some additional options.
 weight: 3
 ---
+<!-- markdownlint-disable MD033 -->
+
 
 
 ## Standard Interior lights
@@ -18,9 +20,21 @@ The following interior lights are standard on Audi e-tron
 - Makup mirror with light
 - Light in back door
 
-![LED front and rear roof module](interiorlights1.jpg "LED front roof module")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/interiorlights1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/interiorlights1s.jpg"
+        alt="LED front roof module" title="LED front roof module">
+    </a>
+    <figcaption><h4>LED front roof module</h4></figcaption>
+</figure>
 
-![Audi e-tron luggage room light](interiorlights2.jpg "Luggage room lights")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/interiorlights2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/interiorlights2s.jpg"
+        alt="Luggage room lights" title="Luggage room lights">
+    </a>
+    <figcaption><h4>Luggage room lights</h4></figcaption>
+</figure>
 
 ## Ambient light package
 
@@ -42,15 +56,39 @@ This option with option id **QQ2** gives you.
 
 The colors can be adjusted with 30 color options per controllable
 
-![Ambient lights](ambientligtscontrol.jpg "The lighs are controlled in MMI")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/ambientligtscontrol.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/ambientligtscontrols.jpg"
+        alt="The lighs are controlled in MMI" title="The lighs are controlled in MMI">
+    </a>
+    <figcaption><h4>The lighs are controlled in MMI</h4></figcaption>
+</figure>
 
 The color can change based on your drive mode in [Audi Drive Select](/models/e-tron/technology/audidriveselect/).
 
-![Ambient lights](multicolor.jpg "Multicolor interior lights")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/multicolor.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/multicolors.jpg"
+        alt="Multicolor interior lights" title="Multicolor interior lights">
+    </a>
+    <figcaption><h4>Multicolor interior lights</h4></figcaption>
+</figure>
 
-![Ambient lights](ambientlight.jpg "Multicolor ambient light")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/ambientlight.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/ambientlights.jpg"
+        alt="Multicolor ambient light" title="Multicolor ambient light">
+    </a>
+    <figcaption><h4>Multicolor ambient light</h4></figcaption>
+</figure>
 
-![Ambient lights](ambientlight2.png "Multicolor ambient light")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/ambientlight2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/ambientlight2s.jpg"
+        alt="Multicolor ambient light" title="Multicolor ambient light">
+    </a>
+    <figcaption><h4>Multicolor ambient light</h4></figcaption>
+</figure>
 
 See video below why this is the option to get.
 
