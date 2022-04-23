@@ -4,6 +4,7 @@ linktitle: Drive Select
 description: Audi e-tron is equipped with drive select as standard.
 weight: 2
 ---
+<!-- markdownlint-disable MD033 -->
 
 The Audi drive select dynamic handling system allows drivers to experience different setups in their Audi e-tron.
 Choosing one of the modes auto, comfort, all-road, offroad, dynamic or efficiency changes the characteristic of important drive and suspension components from a comfort bias to distinctly 
@@ -23,12 +24,23 @@ Depending on option and setup drive select settings affect the following.
 - Adaptive Cruise Assist
 - Audi Pre Sense
 
-
-![Drive Select](driveselectbuttons.jpg "Drive Select are available as seperate buttons and from MMI")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/audidriveselect/driveselectbuttons.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/audidriveselect/driveselectbuttonss.jpg"
+        alt="Drive Select are available as seperate buttons and from MMI" title="Drive Select are available as seperate buttons and from MMI">
+    </a>
+    <figcaption><h4>Drive Select are available as seperate buttons and from MMI</h4></figcaption>
+</figure>
 
 ### Modes
 
-![Drive Select Menu](driveselectmenu.jpg "Drive Select menu in MMI")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/audidriveselect/driveselectmenu.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/audidriveselect/driveselectmenus.jpg"
+        alt="Drive Select menu in MMI" title="Drive Select menu in MMI">
+    </a>
+    <figcaption><h4>Drive Select menu in MMI</h4></figcaption>
+</figure>
 
 **Offroad** - Provides assistance when driving offroad. The vehicle will be raised to the secondhighest level using the air suspension®. The ESC
 will be restricted and the hill descent assist* will be activated. The vehicle will exit this mode after the ignition is switched off.
@@ -47,7 +59,13 @@ will be restricted and the hill descent assist* will be activated. The vehicle w
 
 ### Individual settings
 
-![Individual settings](individualsettings.jpg "Individual settings")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/audidriveselect/individualsettings.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/audidriveselect/individualsettingss.jpg"
+        alt="Individual settings" title="Individual settings">
+    </a>
+    <figcaption><h4>Individual settings</h4></figcaption>
+</figure>
 
 #### Drive
 
@@ -61,8 +79,3 @@ The power steering will adapt. Light steering is suitable for long trips on high
 
 The suspension adjusts to be tighter or more comfort-oriented when it comes to compensating for uneven spots on the road.
 The vehicle ground clearance is adjusted by the air suspension* based on the setting.
-
-
-
-
-{{% children description="true" depth="1" %}}

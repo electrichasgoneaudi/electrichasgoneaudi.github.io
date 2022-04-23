@@ -4,6 +4,7 @@ linktitle: Drive Select
 description: Audi e-tron er utstyrt med Audi drive select som standard
 weight: 2
 ---
+<!-- markdownlint-disable MD033 -->
 
 Audi drive select dynamisk håndteringssystem lar førere oppleve ulike oppsett i sin Audi e-tron.
 Å velge en av modusene auto, komfort, all-road, offroad, dynamisk eller effektivitet endrer karakteristikken til viktige driv- og fjæringskomponenter fra en komfortskjevhet til tydelig
@@ -23,12 +24,23 @@ Avhengig av alternativ og oppsett påvirker innstillingene for valg av stasjon f
 - Adaptiv Cruise Assist
 - Audi Pre Sense
 
-
-![Drive Select](driveselectbuttons.jpg "Drive Select er tilgjengelig som separate knapper og fra MMI")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/audidriveselect/driveselectbuttons.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/audidriveselect/driveselectbuttonss.jpg"
+        alt="Drive Select er tilgjengelig som separate knapper og fra MMI" title="Drive Select er tilgjengelig som separate knapper og fra MMI">
+    </a>
+    <figcaption><h4>Drive Select er tilgjengelig som separate knapper og fra MMI</h4></figcaption>
+</figure>
 
 ### Modi
 
-![Drive Select Menu](driveselectmenu.jpg "Drive Select-meny i MMI")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/audidriveselect/driveselectmenu.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/audidriveselect/driveselectmenus.jpg"
+        alt="Drive Select-meny i MMI" title="Drive Select-meny i MMI">
+    </a>
+    <figcaption><h4>Drive Select-meny i MMI</h4></figcaption>
+</figure>
 
 **Offroad** - Gir assistanse når du kjører offroad. Kjøretøyet heves til det nest høyeste nivået ved hjelp av luftfjæringen®. ESC
 vil være begrenset og bakkenedstigningsassistenten* vil bli aktivert. Kjøretøyet går ut av denne modusen etter at tenningen er slått av.
@@ -47,7 +59,13 @@ vil være begrenset og bakkenedstigningsassistenten* vil bli aktivert. Kjøretø
 
 ### Individuelle innstillinger
 
-![Individuelle innstillinger](individualsettings.jpg "Individuelle innstillinger")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/audidriveselect/individualsettings.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/audidriveselect/individualsettingss.jpg"
+        alt="Individuelle innstillinger" title="Individuelle innstillinger">
+    </a>
+    <figcaption><h4>Individuelle innstillinger</h4></figcaption>
+</figure>
 
 #### Kjøre
 
@@ -61,8 +79,3 @@ Servostyringen vil tilpasse seg. Lett styring egner seg for eksempel for lange t
 
 Fjæringen justeres for å være strammere eller mer komfortorientert når det gjelder å kompensere for ujevne steder på veien.
 Bilens bakkeklaring justeres av luftfjæringen* basert på innstillingen.
-
-
-
-
-{{% children description="true" depth="1" %}}
