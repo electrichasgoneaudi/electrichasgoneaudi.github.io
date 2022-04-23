@@ -6,11 +6,10 @@ weight: 5
 ---
 <!-- markdownlint-disable MD033 -->
 
-
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/interior.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/interiors.jpg"
-        alt="Audi e-tron Sportback" title="Audi e-tron Sportback">
+        alt="Audi e-tron interior" title="Audi e-tron interior">
     </a>
     <figcaption><h4>Audi e-tron interior</h4></figcaption>
 </figure>
