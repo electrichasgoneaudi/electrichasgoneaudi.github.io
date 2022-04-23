@@ -10,8 +10,8 @@ weight: 8
 Production started in the [Audi Brussels Plant](https://www.google.com/maps/place/Audi+Brussels/@50.8106698,4.3148004,730m/data=!3m1!1e3!4m5!3m4!1s0x0:0x603fdd7e2d943989!8m2!3d50.8113307!4d4.3149064) in week 36 2018
 
 <figure>
-    <a href="production.jpg">
-        <img src="productions.jpg" alt="Production of Audi e-tron started week 36 2018" title="Production of Audi e-tron started week 36 2018">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/production.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/productions.jpg" alt="Production of Audi e-tron started week 36 2018" title="Production of Audi e-tron started week 36 2018">
     </a>
     <figcaption><h4>Production of Audi e-tron started week 36 2018</h4></figcaption>
 </figure>
@@ -64,18 +64,39 @@ If build month is 122019 or later it should be a upgraded version
 - Support for Wirless Android Auto
 - Shortcut to charging screen in MMI added to lower MMI screen
 
-![Chronos Grey](chronosgrey.jpg "New color for 2022 - Chronos Grey")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/chronosgrey.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/chronosgreys.jpg" alt="New color for 2022 - Chronos Grey" title="New color for 2022 - Chronos Grey">
+    </a>
+    <figcaption><h4>New color for 2022 - Chronos Grey</h4></figcaption>
+</figure>
 
-![Black edition](blackedition.jpg "Black edition with orange interior details")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/blackedition.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/blackeditions.jpg" alt="Black edition with orange interior details" title="Black edition with orange interior details">
+    </a>
+    <figcaption><h4>Black edition with orange interior details</h4></figcaption>
+</figure>
 
-![Chronos Grey](chronosgrey2.jpg "New color for 2022 - Chronos Grey")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/chronosgrey2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/chronosgrey2s.jpg" alt="New color for 2022 - Chronos Grey" title="New color for 2022 - Chronos Grey">
+    </a>
+    <figcaption><h4>New color for 2022 - Chronos Grey</h4></figcaption>
+</figure>
 
-![Black edition](blackedition2.jpg "Black edition with orange interior details")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/blackedition2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/blackedition2s.jpg" alt="Black edition with orange interior details" title="Black edition with orange interior details">
+    </a>
+    <figcaption><h4>Black edition with orange interior details</h4></figcaption>
+</figure>
 
 ### MY 2023 (from summer 2022)
 
 - vin nr has O as 10 digit for 2022 model example: WAUZZZGE0**O**B001111
-
+- US: [Changed configuration](https://media.audiusa.com/en-us/releases/518) in prestige package.
+- No known technical changes compared to 2022.
 
 ### Facelift
 

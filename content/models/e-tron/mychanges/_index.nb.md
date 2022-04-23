@@ -10,8 +10,8 @@ weight: 8
 Produksjonen startet hos [Audi Brussels fabrikken](https://www.google.com/maps/place/Audi+Brussels/@50.8106698,4.3148004,730m/data=!3m1!1e3!4m5!3m4!1s0x0:0x603fdd7e2d943989!8m2!3d50.8113307!4d4.31490) i uke 36 2018
 
 <figur>
-    <a href="production.jpg">
-        <img src="productions.jpg" alt="Produksjon av Audi e-tron startet uke 36 2018" title="Produksjon av Audi e-tron startet uke 36 2018">
+     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/production.jpg">
+         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/productions.jpg" alt="Produksjon av Audi e-tron startet uke 36 2018" title="Produksjon av Audi e-tron startet uke 36 2018">
     </a>
     <figcaption><h4>Produksjon av Audi e-tron startet uke 36 2018</h4></figcaption>
 </figur>
@@ -64,13 +64,33 @@ Hvis byggemåneden er 122019 eller senere, bør det være en oppgradert versjon
 - Støtte for Wirless Android Auto
 - Snarvei til ladeskjerm i MMI lagt til nedre MMI-skjerm
 
-![Chronos Grey](chronosgrey.jpg "Ny farge for 2022 - Chronos Grey")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/chronosgrey.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/chronosgreys.jpg" alt="Ny farge for 2022 - Chronos Grey" title="Ny farge for 2022 - Chronos Grey">
+    </a>
+    <figcaption><h4>Ny farge for 2022 - Chronos Grey</h4></figcaption>
+</figure>
 
-![Black edition](blackedition.jpg "Svart utgave med oransje interiørdetaljer")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/blackedition.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/blackeditions.jpg" alt="Black edition med oransje interiørdetaljer" title="Black edition med oransje interiørdetaljer">
+    </a>
+    <figcaption><h4>Black edition med oransje interiørdetaljer</h4></figcaption>
+</figure>
 
-![Chronos Grey](chronosgrey2.jpg "Ny farge for 2022 - Chronos Grey")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/chronosgrey2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/chronosgrey2s.jpg" alt="Ny farge for 2022 - Chronos Grey" title="Ny farge for 2022 - Chronos Grey">
+    </a>
+    <figcaption><h4>Ny farge for 2022 - Chronos Grey</h4></figcaption>
+</figure>
 
-![Black edition](blackedition2.jpg "Svart utgave med oransje interiørdetaljer")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/blackedition2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/blackedition2s.jpg" alt="Black edition med oransje interiørdetaljer" title="Black edition med oransje interiørdetaljer">
+    </a>
+    <figcaption><h4>Black edition med oransje interiørdetaljer</h4></figcaption>
+</figure>
 
 ### MY 2023 (fra sommeren 2022)
 
