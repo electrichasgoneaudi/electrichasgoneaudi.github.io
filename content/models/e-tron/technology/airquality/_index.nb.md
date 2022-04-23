@@ -4,7 +4,7 @@ linktitle: Luftkvalitetspakke
 description: Audi e-tron har noe standardutstyr og noen muligheter for å gjøre luften bedre inne i bilen.
 weight: 11
 ---
-
+<!-- markdownlint-disable MD033 -->
 
 ## Luftkvalitetspakke
 
@@ -22,6 +22,10 @@ Luftkvalitetspakken inkluderer en partikkelmålesensor. Den bestemmer nivået av
 
 Alternativ-ID **2V9**
 
-![Luftkvalitetssystem](airqualitypackage.jpg "Luftkvalitetspakkesystem")
-
-{{% children description="true" depth="1" %}}
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/airquality/airqualitypackage.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/airquality/airqualitypackages.jpg"
+        alt="Luftkvalitetspakkesystem" title="Luftkvalitetspakkesystem">
+    </a>
+    <figcaption><h4>Luftkvalitetspakkesystem</h4></figcaption>
+</figure>
