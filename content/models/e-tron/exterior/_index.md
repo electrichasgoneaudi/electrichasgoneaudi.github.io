@@ -4,10 +4,17 @@ linktitle: Exterior
 description: There is a huge number of exterior options to the Audi e-tron. Paint colors, body shapes, wheels, paint styles, different optics, mirror types, and many more options making it possible to have more than 50.000 different exterior designs. 
 weight: 4
 ---
+<!-- markdownlint-disable MD033 -->
 
 So buying an Audi e-tron will require you to make lots of decisions about how the exterior should be.
 
-![Exterior](exterior.jpg "Audi e-tron Sportback")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/exterior.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/exteriors.jpg"
+        alt="Audi e-tron Sportback" title="Audi e-tron Sportback">
+    </a>
+    <figcaption><h4>Audi e-tron Sportback</h4></figcaption>
+</figure>
 
 - The first would be to decide if you want the Sportback or SUV body.
 - Then you need to decide if you want to have s-line, s styling, or regular styling making to 6 different looks.
@@ -25,6 +32,5 @@ So you understand it is possible to make your car unique. And if these options a
 So you understand it is not to show all possible combinations on this site.
 
 See below for details about the exterior options.
-
 
 {{% children description="true" depth="1" %}}

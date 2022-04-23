@@ -4,10 +4,16 @@ linktitle: Eksteriør
 description: Det er et stort antall eksteriøralternativer til Audi e-tron. Lakkfarger, karoseriformer, felger, lakkstiler, forskjellige optikk, speiltyper og mange flere alternativer som gjør det mulig å ha mer enn 50.000 forskjellige eksteriørdesign.
 weight: 4
 ---
-
+<!-- markdownlint-disable MD033 -->
 Så å kjøpe en Audi e-tron vil kreve at du tar mange avgjørelser om hvordan eksteriøret skal være.
 
-![Eksteriør](exterior.jpg "Audi e-tron Sportback")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/exterior.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/exteriors.jpg"
+        alt="Audi e-tron Sportback" title="Audi e-tron Sportback">
+    </a>
+    <figcaption><h4>Audi e-tron Sportback</h4></figcaption>
+</figure>
 
 - Det første ville vært å bestemme om du vil ha Sportback- eller SUV-karosseriet.
 - Deretter må du bestemme om du vil ha s-line, s styling eller vanlig styling til 6 forskjellige utseender.

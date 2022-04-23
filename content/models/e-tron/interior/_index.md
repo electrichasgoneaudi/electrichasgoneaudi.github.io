@@ -4,8 +4,16 @@ linktitle: Interior
 description: Audi e-tron has a luxury interior with many options on seats, interior design, interior lights, and many more so that you can personalize the car as you like it.
 weight: 5
 ---
+<!-- markdownlint-disable MD033 -->
 
-![Standard seats](interior.jpg "Audi e-tron interior")
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/interior.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/interiors.jpg"
+        alt="Audi e-tron Sportback" title="Audi e-tron Sportback">
+    </a>
+    <figcaption><h4>Audi e-tron interior</h4></figcaption>
+</figure>
 
 Below you find the different options.
 
