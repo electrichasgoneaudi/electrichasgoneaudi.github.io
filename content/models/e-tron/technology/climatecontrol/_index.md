@@ -52,9 +52,9 @@ Utilization of residual heat
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/firstscreenmenu.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/firstscreenmenus.jpg"
-        alt="comfort settings" title="comfort settings">
+        alt="The rear zones can be controlled from the front" title="The rear zones can be controlled from the front">
     </a>
-    <figcaption><h4>comfort settings</h4></figcaption>
+    <figcaption><h4>The rear zones can be controlled from the front</h4></figcaption>
 </figure>
 
 4-zone AC has option ID **9AQ**
@@ -67,9 +67,9 @@ from the MMI manual or set aside a timer. A typical use case is when you charge 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/precondition.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/preconditions.jpg"
-        alt="comfort settings" title="comfort settings">
+        alt="Precondidtion will run for 30 minutes" title="Precondidtion will run for 30 minutes">
     </a>
-    <figcaption><h4>comfort settings</h4></figcaption>
+    <figcaption><h4>Precondidtion will run for 30 minutes</h4></figcaption>
 </figure>
 
 The Auxiliary air conditioner can also be controlled by the [myAudi app](../../technology/audiconnect/myaudi/). This is useful when you need to heat or cool the car before using it.

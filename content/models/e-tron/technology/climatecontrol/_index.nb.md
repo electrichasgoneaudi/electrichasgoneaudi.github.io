@@ -7,7 +7,13 @@ weight: 10
 <!-- markdownlint-disable MD033 -->
 Klimaanlegget styres i hovedsak den nedre MMI-skjermen.
 
-![AC-kontroll](accontrol.jpg "I den nedre skjermen kan vifter og temperatur kontrolleres")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/accontrol.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/accontrols.jpg"
+        alt="I den nedre skjermen kan vifter og temperatur kontrolleres" title="I den nedre skjermen kan vifter og temperatur kontrolleres">
+    </a>
+    <figcaption><h4>I den nedre skjermen kan vifter og temperatur kontrolleres</h4></figcaption>
+</figure>
 
 Standardsystemet har følgende egenskaper
 
@@ -35,9 +41,21 @@ Dette gir i tilegg til egenskapene med 2 soner.
 - Utnyttelse av restvarme
 - Personlige innstillinger
 
-![4 zone](4zone.jpg "Display for å styre de to sonene i baksetet")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/4zone.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/4zones.jpg"
+        alt="Display for å styre de to sonene i baksetet" title="Display for å styre de to sonene i baksetet">
+    </a>
+    <figcaption><h4>Display for å styre de to sonene i baksetet</h4></figcaption>
+</figure>
 
-![First screen menu](firstscreenmenu.jpg "Bakre soner kan også kontrolleres foran eller synkroniseres med resten")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/firstscreenmenu.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/firstscreenmenus.jpg"
+        alt="Bakre soner kan også kontrolleres foran eller synkroniseres med resten" title="Bakre soner kan også kontrolleres foran eller synkroniseres med resten">
+    </a>
+    <figcaption><h4>Bakre soner kan også kontrolleres foran eller synkroniseres med resten</h4></figcaption>
+</figure>
 
 4-soners AC har tilvalgsnr **9AQ**
 
@@ -46,7 +64,13 @@ Dette gir i tilegg til egenskapene med 2 soner.
 Audi e-tron er utstyrt med et parkeringsklimaanlegg som kan brukes når bilen er parkert. Denne kan aktiveres
 fra MMI-manual eller satt av en timer. Et typisk brukstilfelle er når du lader siden bilen må slås av da og AC-hovedenheten ikke fungerer.
 
-![Pre condition](preconditionnb.jpg "Parkeringsklimanlegg vil kjøre i 30 minutter (60 ved lynlading) og kan startes fra MMI eller myAudi app" )
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/preconditionnb.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/preconditionnbs.jpg"
+        alt="Parkeringsklimanlegg vil kjøre i 30 minutter (60 ved lynlading) og kan startes fra MMI eller myAudi app" title="Parkeringsklimanlegg vil kjøre i 30 minutter (60 ved lynlading) og kan startes fra MMI eller myAudi app">
+    </a>
+    <figcaption><h4>Parkeringsklimanlegg vil kjøre i 30 minutter (60 ved lynlading) og kan startes fra MMI eller myAudi app</h4></figcaption>
+</figure>
 
 Parkeringsklimaanlegget kan kan også styres av [myAudi-appen](../../technology/audiconnect/myaudi/). Dette er nyttig når du skal varme eller avkjøle bilen før du bruker den.
 
@@ -59,7 +83,13 @@ Dette forutsetter at du har dette utstyret.
 
 Tilvalgsnr: **GA2**
 
-![komfortinnstillinger](conviencesettingsnb.jpg "komfortinnstillinger")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/conviencesettingsnb.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/conviencesettingsnbs.jpg"
+        alt="komfortinnstillinger" title="komfortinnstillinger">
+    </a>
+    <figcaption><h4>komfortinnstillinger</h4></figcaption>
+</figure>
 
 ### Dobble varme elementer
 
