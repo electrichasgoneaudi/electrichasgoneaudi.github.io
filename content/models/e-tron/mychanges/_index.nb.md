@@ -64,30 +64,15 @@ Hvis byggemåneden er 122019 eller senere, bør det være en oppgradert versjon
 - Støtte for Wirless Android Auto
 - Snarvei til ladeskjerm i MMI lagt til nedre MMI-skjerm
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/chronosgrey.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/chronosgreys.jpg" alt="Ny farge for 2022 - Chronos Grey" title="Ny farge for 2022 - Chronos Grey">
+<figur>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_6.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_6s.jpg" alt="Ny farge for 2022 - Chronos Grey" title="Ny farge for 2022 - Chronos Grey">
     </a>
     <figcaption><h4>Ny farge for 2022 - Chronos Grey</h4></figcaption>
-</figure>
-
+</figur>
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/blackedition.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/blackeditions.jpg" alt="Black edition med oransje interiørdetaljer" title="Black edition med oransje interiørdetaljer">
-    </a>
-    <figcaption><h4>Black edition med oransje interiørdetaljer</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/chronosgrey2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/chronosgrey2s.jpg" alt="Ny farge for 2022 - Chronos Grey" title="Ny farge for 2022 - Chronos Grey">
-    </a>
-    <figcaption><h4>Ny farge for 2022 - Chronos Grey</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/blackedition2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/blackedition2s.jpg" alt="Black edition med oransje interiørdetaljer" title="Black edition med oransje interiørdetaljer">
     </a>
     <figcaption><h4>Black edition med oransje interiørdetaljer</h4></figcaption>
 </figure>

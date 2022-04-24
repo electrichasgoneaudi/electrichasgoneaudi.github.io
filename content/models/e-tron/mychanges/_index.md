@@ -64,30 +64,16 @@ If build month is 122019 or later it should be a upgraded version
 - Support for Wirless Android Auto
 - Shortcut to charging screen in MMI added to lower MMI screen
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/chronosgrey.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/chronosgreys.jpg" alt="New color for 2022 - Chronos Grey" title="New color for 2022 - Chronos Grey">
+<figur>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_6.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_6s.jpg" alt="New color for 2022 - Chronos Grey" title="New color for 2022 - Chronos Grey">
     </a>
     <figcaption><h4>New color for 2022 - Chronos Grey</h4></figcaption>
-</figure>
+</figur>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/blackedition.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/blackeditions.jpg" alt="Black edition with orange interior details" title="Black edition with orange interior details">
-    </a>
-    <figcaption><h4>Black edition with orange interior details</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/chronosgrey2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/chronosgrey2s.jpg" alt="New color for 2022 - Chronos Grey" title="New color for 2022 - Chronos Grey">
-    </a>
-    <figcaption><h4>New color for 2022 - Chronos Grey</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/blackedition2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/blackedition2s.jpg" alt="Black edition with orange interior details" title="Black edition with orange interior details">
     </a>
     <figcaption><h4>Black edition with orange interior details</h4></figcaption>
 </figure>

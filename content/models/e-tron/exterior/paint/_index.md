@@ -225,18 +225,11 @@ Color Code: **L5**
 Color Code: **Z7**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_1s.jpg" alt="Audi e-tron 55 in Chronos Grey with black optics" title="Audi e-tron 55 in Chronos Grey with black optics">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_6.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_6s.jpg" alt="Audi e-tron 55 in Chronos Grey with black optics" title="Audi e-tron 55 in Chronos Grey with black optics">
     </a>
     <figcaption><h4>Audi e-tron 55 in Chronos Grey with black optics</h4></figcaption>
 </figure>
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_2s.jpg" alt="Audi e-tron Sportback 55 in Chronos Grey with black optics" title="Audi e-tron Sportback 55 in Chronos Grey with black optics">
-    </a>
-    <figcaption><h4>Audi e-tron Sportback 55 in Chronos Grey with black optics</h4></figcaption>
-</figure>
-
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_3s.jpg" alt="Audi e-tron 55 in Chronos Grey with black optics" title="Audi e-tron 55 in Chronos Grey with black optics">
