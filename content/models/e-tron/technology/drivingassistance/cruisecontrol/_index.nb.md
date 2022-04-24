@@ -5,7 +5,14 @@ description: Audi e-tron har cruise kontroll. Cruisekontroll opprettholder en ø
 weight: 1
 ---
 
-![Cruisecontrol](cruisecontrolhandle.jpg "Cruise control hendel")
+<!-- markdownlint-disable MD033 -->
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/cruisecontrol/cruisecontrolhandle.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/cruisecontrol/cruisecontrolhandles.jpg"
+        alt="Cruise control hendel" title="Cruise control hendel">
+    </a>
+    <figcaption><h4>Cruise control hendel</h4></figcaption>
+</figure>
 
 Systemet gir avlastning til sjåførene på denne måten – spesielt på lange turer. Samtidig bidrar kjøringen med konstant hastighet til lavere drivstofforbruk og lavere CO2-utslipp. Systemet betjenes via en separat rattstamme, og forhåndsinnstilt kjørehastighet vises i instrumentgruppen. Systemet deaktiveres når føreren bremser.
 
