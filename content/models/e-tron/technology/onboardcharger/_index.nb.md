@@ -4,14 +4,21 @@ linktitle: Ombordlader
 description: Audi e-tron har en innbygget ombordlader for vekselstrømlading.
 weight: 5
 ---
+<!-- markdownlint-disable MD033 -->
 
 Den innebygde ombordladeren er ansvarlig for å konvertere fra vekselstrøm til likestrøm (AC til DC).
 
 Standard ombordlader støtter opptil 11KW AC-lading
 
-I USA har ladeporten en [J1772-kontakt](https://en.wikipedia.org/wiki/SAE_J1772) for å koble til bilen, mens den i Europa har en [Type 2-kontakt](https://no) .wikipedia.org/wiki/Type_2_connector).
+I USA har ladeporten en [J1772-kontakt](https://en.wikipedia.org/wiki/SAE_J1772) for å koble til bilen, mens den i Europa har en [Type 2-kontakt](https://wikipedia.org/wiki/Type_2_connector).
 
-![Ladeport](chargeport_left.jpg "Type 2 Ladeport")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargeport_left.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargeport_lefts.jpg"
+        alt="Type 2 Ladeport" title="Type 2 Ladeport">
+    </a>
+    <figcaption><h4>Type 2 Ladeport</h4></figcaption>
+</figure>
 
 For å lade bilen fra AC trenger du en Wallbox å koble til eller [ladesystemet som kan kobles til hjemmekontakten](../chargesystem).
 
@@ -21,7 +28,14 @@ Du kan bestille en ekstra ladeport på passasjersiden. Denne kan kun brukes til 
 
 Dette er alternativ ID **JS1**
 
-![Passasjer ladeport](chargeport_right.jpg "Ytterligere ladeport på passasjersiden")
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargeport_right.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargeport_rights.jpg"
+        alt="Ytterligere ladeport på passasjersiden" title="Ytterligere ladeport på passasjersiden">
+    </a>
+    <figcaption><h4>Ytterligere ladeport på passasjersiden</h4></figcaption>
+</figure>
 
 ### 22KW ombordlader
 
@@ -33,11 +47,23 @@ Du må bestille den ekstra porten **JS1** og [Audi Charging System Connect](../.
 
 I illustrasjonen under ser du plasseringen av ladeenhetene.
 
-![Elektrisk stasjon](electricdrivetrain.jpg "Elektrisk drivverk med standard og optiell laderplassering")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/electricdrivetrain.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/electricdrivetrains.jpg"
+        alt="Elektrisk drivverk med standard og optiell laderplassering" title="Elektrisk drivverk med standard og optiell laderplassering">
+    </a>
+    <figcaption><h4>Elektrisk drivverk med standard og optiell laderplassering</h4></figcaption>
+</figure>
 
- Bare AC-lading går gjennom laderen. For DC-lading er CCS-porten direkte koblet til batteriet.
+Bare AC-lading går gjennom laderen. For DC-lading er CCS-porten direkte koblet til batteriet.
 
-![Wiring](wiringdiagram.jpg "Ladeport/laderkabling")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/wiringdiagram.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/wiringdiagrams.jpg"
+        alt="Ladeport/laderkabling" title="Ladeport/laderkabling">
+    </a>
+    <figcaption><h4>Ladeport/laderkabling</h4></figcaption>
+</figure>
 
 ### Kapasitet basert på nettverk/uttak
 
@@ -51,8 +77,21 @@ I illustrasjonen under ser du plasseringen av ladeenhetene.
 
 ### LED Indicators
 
-![LED](ledlights.jpg "Led Lights")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/ledlights.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/ledlightss.jpg"
+        alt="Led Lights" title="Led Lights">
+    </a>
+    <figcaption><h4>Led Lights</h4></figcaption>
+</figure>
 
-![LED](ledoverview.jpg "LED codes")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/ledoverview.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/ledoverviews.jpg"
+        alt="LED codes" title="LED codes">
+    </a>
+    <figcaption><h4>LED codes</h4></figcaption>
+</figure>
+
 
 {{% children description="true" depth="1" %}}

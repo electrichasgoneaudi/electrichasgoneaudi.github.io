@@ -4,13 +4,18 @@ linktitle: Audi Phone box
 description: With Audi Phone Box you can improve convience with using telephone in the car.
 weight: 9
 ---
+<!-- markdownlint-disable MD033 -->
 
 With  Audi Phone Box Two smartphones can be connected to the car via Bluetooth at the same time. One can, for example, be used to call or play
 music in the car. Depending on the smartphone model, it is also possible to view e-mail and SMS in MMI via Bluetooth.
 
-![Audi Phone Box](phonebox.jpg "Audi Phone Box holder with inductive charging")
-
-![Audi Phone Box](phonebox2.jpg "Audi Phone Box holder with inductive charging")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/phonebox/phonebox.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/phonebox/phoneboxs.jpg"
+        alt="Audi Phone Box holder with inductive charging" title="Audi Phone Box holder with inductive charging">
+    </a>
+    <figcaption><h4>Audi Phone Box holder with inductive charging</h4></figcaption>
+</figure>
 
 The smart phone can be charged and stored safely in the universal holder in the center consol  of the car. The holder is connected to the car's antenna for better reception and voice quality. In addition, the radiation from the mobile phone in the passenger compartment is reduced, as the phone needs less transmission power. 
 
@@ -19,5 +24,3 @@ As more and more mobile phones can be charged wirelessly, the Audi phone box is 
 The MMI display that reminds you to bring your phone.
 
 Audi Phone Box as option id **IU1** but is currently only available as part of th [infotainment package](/models/q4-e-tron/optionguide/list/#equipment-packages) with option id **PYX**
-
-{{% children description="true" depth="1" %}}

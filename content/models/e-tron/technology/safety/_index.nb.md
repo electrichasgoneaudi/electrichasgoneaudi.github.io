@@ -4,33 +4,57 @@ linktitle: Sikkerhet
 description: Audi e-tron har flere sikkerhetsteknologier for å redusere skader ved kollisjoner
 weight: 10
 ---
-
+<!-- markdownlint-disable MD033 -->
 ## Kollisjonsputer
 
 Audi e-tron har flere kollisjonsputer som standard.
 
 ### Kollisjonsputer foran
 
-![Frontkollisjonsputer](frontairbags.jpg "Frontkollisjonsputer - standard")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/safety/frontairbags.jpg">
+      <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/safety/airbagssidefrontss.jpg"
+        alt="Frontkollisjonsputer - standard" title="Frontkollisjonsputer - standard">
+    </a>
+    <figcaption><h4>Frontkollisjonsputer - standard</h4></figcaption>
+</figure>
 
 ### Hodekollisjonsputer
 
 Både foran og bak er beskyttet med hodekollisjonsputer.
 
-![Front](sideairbags.jpg "Hodekollisjonsputer foran og bak")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/safety/sideairbags.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/safety/sideairbagss.jpg"
+        alt="Hodekollisjonsputer foran og bak" title="Hodekollisjonsputer foran og bak">
+    </a>
+    <figcaption><h4>Hodekollisjonsputer foran og bak</h4></figcaption>
+</figure>
 
 ### Sidekollisjonsputer foran
 
 Foran er det standard med sidekollisjonsputer innebygd i setet som beskytter kroppen.
 
-![Sidekollisjonsputer](airbagssidefronts.jpg "Sidekollisjonsputer foran er standard")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/safety/airbagssidefronts.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/safety/airbagssidefronts.jpg"
+        alt="Sidekollisjonsputer foran er standard" title="Sidekollisjonsputer foran er standard">
+    </a>
+    <figcaption><h4>Sidekollisjonsputer foran er standard</h4></figcaption>
+</figure>
 
 ### Sidekollisjonsputer bak
 
 På baksiden er sidekollisjonsputene valgfritt. Alternativ-ID er **4X4**. Det er også
 inkludert i Audi Pre senmse baksetepakke **4X9**
 
-![Sidekollisjonsputer bak](airbagssiderear.jpg "Airbagsiden av kollisjonsputen er optional. Bare hodekollisjonsputer er standard på e-tron")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/safety/airbagssiderear.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/safety/airbagssiderears.jpg"
+        alt="Airbagsiden av kollisjonsputen er optional. Bare hodekollisjonsputer er standard på e-tron" title="Airbagsiden av kollisjonsputen er optional. Bare hodekollisjonsputer er standard på e-tron">
+    </a>
+    <figcaption><h4>Airbagsiden av kollisjonsputen er optional. Bare hodekollisjonsputer er standard på e-tron</h4></figcaption>
+</figure>
 
 ## Setebelter
 

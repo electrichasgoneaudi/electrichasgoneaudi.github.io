@@ -4,7 +4,7 @@ linktitle: Onboard Charger
 description: Audi e-tron has an onboard charger for level 1 and level 2 charging.
 weight: 5
 ---
-
+<!-- markdownlint-disable MD033 -->
 
 The onboard charger is responsible for converting AC to DC.
 
@@ -12,16 +12,27 @@ The standard onboard charger support up to 11KW AC charging
 
 In the US the charging port has a [J1772 connector](https://en.wikipedia.org/wiki/SAE_J1772) to connect to the car, while in Europe it has a [Type 2 connector](https://en.wikipedia.org/wiki/Type_2_connector).
 
-![Charge port](chargeport_left.jpg "Type 2 Chargeport")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargeport_left.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargeport_lefts.jpg"
+        alt="Type 2 Chargeport" title="Type 2 Chargeport">
+    </a>
+    <figcaption><h4>Type 2 Chargeport</h4></figcaption>
+</figure>
 
-To charge the car from AC you need a Wallbox to connect to or the [charging system that can connect to the domestic outlet](../chargingsystem). 
-
+To charge the car from AC you need a Wallbox to connect to or the [charging system that can connect to the domestic outlet](../chargingsystem).
 
 ### Optional charge port
 
 You can order an additional chargeport on the passenger side. This is option ID **JS1**
 
-![Passenger charge port](chargeport_right.jpg "Additional passenger side charge port")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargeport_right.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargeport_rights.jpg"
+        alt="Additional passenger side charge port" title="Additional passenger side charge port">
+    </a>
+    <figcaption><h4>Additional passenger side charge port</h4></figcaption>
+</figure>
 
 ### Optional 22KW charger
 
@@ -33,12 +44,23 @@ You need to order the additional port **JS1** and the [Audi Charging System Conn
 
 In the illustration below you see the location of the charge units.
 
-![Electric drive](electricdrivetrain.jpg "Electric drive train with standard and optinal charger location")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/electricdrivetrain.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/electricdrivetrains.jpg"
+        alt="Electric drive train with standard and optinal charger location" title="Electric drive train with standard and optinal charger location">
+    </a>
+    <figcaption><h4>Electric drive train with standard and optinal charger location</h4></figcaption>
+</figure>
 
- Only AC charging goes throug the charger. For DC charging the CCS port is directly connected to the battery.
+Only AC charging goes throug the charger. For DC charging the CCS port is directly connected to the battery.
 
-![Wiring](wiringdiagram.jpg "Chargport/charger wiring")
-
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/wiringdiagram.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/wiringdiagrams.jpg"
+        alt="Chargport/charger wiring" title="Chargport/charger wiring">
+    </a>
+    <figcaption><h4>Chargport/charger wiring</h4></figcaption>
+</figure>
 
 ### Capacity based on network / outlet
 
@@ -55,8 +77,18 @@ In the illustration below you see the location of the charge units.
 
 ### LED Indicators
 
-![LED](ledlights.jpg "Led Lights")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/ledlights.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/ledlightss.jpg"
+        alt="Led Lights" title="Led Lights">
+    </a>
+    <figcaption><h4>Led Lights</h4></figcaption>
+</figure>
 
-![LED](ledoverview.jpg "LED codes")
-
-{{% children description="true" depth="1" %}}
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/ledoverview.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/ledoverviews.jpg"
+        alt="LED codes" title="LED codes">
+    </a>
+    <figcaption><h4>LED codes</h4></figcaption>
+</figure>
