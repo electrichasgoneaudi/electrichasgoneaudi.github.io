@@ -5,19 +5,39 @@ description: Audi e-tron has two different TPMS systems to choose from.
 weight: 8
 ---
 
+<!-- markdownlint-disable MD033 -->
+
 Audi e-tron is equipped with an indirect TPMS system as standard.  This means it uses the ABS sensor to detect if there are wheels with low pressure compared to the others.
 
 ### Direct TPMS
 
 With direct TPMS there is an air pressure sensor in each tire that communicates with the car. This measures the temperature  and pressure for each wheel and presents this in the MMI.
 
-![Tire Pressure Measure System](tpms3.jpg "Tire pressure measure system")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/tpms/tpms3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/tpms/tpms3s.jpg"
+        alt="Tire pressure measure system" title="Tire pressure measure system">
+    </a>
+    <figcaption><h4>Tire pressure measure system</h4></figcaption>
+</figure>
 
 Below you see how MMI indicates that the left front tire has much lower pressure than other wheels.
 
-![Tire Pressure Measure System](tpms1.jpg "Left front wheel with lower pressure")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/tpms/tpms1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/tpms/tpms1s.jpg"
+        alt="Left front wheel with lower pressure" title="Left front wheel with lower pressure">
+    </a>
+    <figcaption><h4>Left front wheel with lower pressure</h4></figcaption>
+</figure>
 
-![Tire Pressure Measure System](tpms2.jpg "Tire pressure measure system")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/tpms/tpms2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/tpms/tpms2s.jpg"
+        alt="Tire pressure measure system" title="Tire pressure measure system">
+    </a>
+    <figcaption><h4>Tire pressure measure system</h4></figcaption>
+</figure>
 
 Option Id **7K3**
 
@@ -25,6 +45,10 @@ Option Id **7K3**
 
 The following table shows the correct tire pressure
 
-![Correct TP Audi e-tron](correcttp.jpg "Correct Tire pressure Audi e-tron")
-
-{{% children description="true" depth="1" %}}
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/tpms/correcttp.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/tpms/correcttps.jpg"
+        alt="Correct Tire pressure Audi e-tron" title="Correct Tire pressure Audi e-tron">
+    </a>
+    <figcaption><h4>Correct Tire pressure Audi e-tron</h4></figcaption>
+</figure>
