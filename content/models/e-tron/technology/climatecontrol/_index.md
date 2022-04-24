@@ -4,10 +4,16 @@ linktitle: Climate control
 description: Audi e-tron is equipped with a 2-zone electronic climate control with heat pump as standard.
 weight: 10
 ---
-
+<!-- markdownlint-disable MD033 -->
 The air conditioner is mainly controlled by the lower MMI screen.
 
-[AC control](accontrol.jpg "In the lower screen, fans and temperature can be controlled")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/accontrol.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/accontrols.jpg"
+        alt="In the lower screen, fans and temperature can be controlled" title="In the lower screen, fans and temperature can be controlled">
+    </a>
+    <figcaption><h4>In the lower screen, fans and temperature can be controlled</h4></figcaption>
+</figure>
 
 The standard system has the following properties
 
@@ -35,9 +41,21 @@ This provides in addition to the properties with 2 zones.
 Utilization of residual heat
 - Personal settings
 
-![4 zone](4zone.jpg "Display to control the two zones in the rear seat")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/4zone.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/4zones.jpg"
+        alt="Display to control the two zones in the rear seat" title="Display to control the two zones in the rear seat">
+    </a>
+    <figcaption><h4>Display to control the two zones in the rear seat</h4></figcaption>
+</figure>
 
-![First screen menu](firstscreenmenu.jpg "Rear zones can also be checked in front or synchronized with the rest")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/firstscreenmenu.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/firstscreenmenus.jpg"
+        alt="comfort settings" title="comfort settings">
+    </a>
+    <figcaption><h4>comfort settings</h4></figcaption>
+</figure>
 
 4-zone AC has option ID **9AQ**
 
@@ -46,7 +64,13 @@ Utilization of residual heat
 The Audi e-tron is equipped with a Auxiliary air conditioner that can be used when the car is parked. This can be activated
 from the MMI manual or set aside a timer. A typical use case is when you charge since the car must be switched off then and the AC main unit does not work.
 
-![Pre condition](precondition.jpg "Auxiliary air conditioner will run for 30 minutes (60 min during HPC charging) and can be started from MMI or myAudi app")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/precondition.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/preconditions.jpg"
+        alt="comfort settings" title="comfort settings">
+    </a>
+    <figcaption><h4>comfort settings</h4></figcaption>
+</figure>
 
 The Auxiliary air conditioner can also be controlled by the [myAudi app](../../technology/audiconnect/myaudi/). This is useful when you need to heat or cool the car before using it.
 
@@ -57,7 +81,13 @@ The Auxiliary air conditioner can not be used if the battery is too low (<30%)
 You can get the Auxiliary air conditioner with extra convenience as an option. With this option, you can heat windows, seats, and the steering wheel in addition to the cabin.
  Option id **GA2**
 
-![comfort settings](conviencesettings.jpg "comfort settings")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/conviencesettings.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/conviencesettingss.jpg"
+        alt="comfort settings" title="comfort settings">
+    </a>
+    <figcaption><h4>comfort settings</h4></figcaption>
+</figure>
 
 ### Double heat elements
 

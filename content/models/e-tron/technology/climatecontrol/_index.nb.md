@@ -4,7 +4,7 @@ linktitle: Klimaanlegg
 description: Audi e-tron er utstyrt med 2-soners elektronisk klimaanlegg med varmepumpe som standard.
 weight: 10
 ---
-
+<!-- markdownlint-disable MD033 -->
 Klimaanlegget styres i hovedsak den nedre MMI-skjermen.
 
 ![AC-kontroll](accontrol.jpg "I den nedre skjermen kan vifter og temperatur kontrolleres")

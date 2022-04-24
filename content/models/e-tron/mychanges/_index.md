@@ -32,8 +32,12 @@ Production started in the [Audi Brussels Plant](https://www.google.com/maps/plac
 - Available as Sportback from week 2-2020
 - [Upgrade was made available as upgrade *93M3* to earlier production models from October 28. 2021](https://www.audi-mediacenter.com/en/press-releases/increased-range-for-audi-e-tron-55-quattrosoftware-update-for-20192020-model-years-14346)
 
-![Uppgrades](my2020v2.jpg "Upgrades to e-tron 55 from week 49-2019 and how they affect range")
-
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/my2020v2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/my2020v2s.jpg" alt="Upgrades to e-tron 55 from week 49-2019 and how they affect range" title="Upgrades to e-tron 55 from week 49-2019 and how they affect range">
+    </a>
+    <figcaption><h4>Upgrades to e-tron 55 from week 49-2019 and how they affect range</h4></figcaption>
+</figure>
 
 If build month is 122019 or later it should be a upgraded version
 ![bilde](https://user-images.githubusercontent.com/59776765/114271439-a64b3400-9a11-11eb-9e5e-0cae5310ef28.png)

@@ -32,8 +32,12 @@ Produksjonen startet hos [Audi Brussels fabrikken](https://www.google.com/maps/p
 - Tilgjengelig som Sportback fra uke 2-2020
 - [Oppgradering ble gjort tilgjengelig som oppgradering *93M3* til tidligere produksjonsmodeller fra 28. oktober 2021](https://kommunikasjon.ntb.no/pressemelding/programvareoppgradering-for-audi-e-tron-55-quattro?publisherId=14867825&releaseId=17918998)
 
-![Oppgraderinger](my2020v2.jpg "Oppgraderinger til e-tron 55 fra uke 49-2019 og hvordan de påvirker rekkevidden")
-
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/my2020v2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/my2020v2s.jpg" alt="Oppgraderinger til e-tron 55 fra uke 49-2019 og hvordan de påvirker rekkeviddene" title="Oppgraderinger til e-tron 55 fra uke 49-2019 og hvordan de påvirker rekkeviddene">
+    </a>
+    <figcaption><h4>Oppgraderinger til e-tron 55 fra uke 49-2019 og hvordan de påvirker rekkeviddene</h4></figcaption>
+</figure>
 
 Hvis byggemåneden er 122019 eller senere, bør det være en oppgradert versjon
 ![bilde](https://user-images.githubusercontent.com/59776765/114271439-a64b3400-9a11-11eb-9e5e-0cae5310ef28.png)
