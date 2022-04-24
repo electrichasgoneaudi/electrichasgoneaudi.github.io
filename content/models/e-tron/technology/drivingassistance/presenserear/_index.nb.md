@@ -4,8 +4,15 @@ linktitle: Pre sense rear
 description: Audi e-tron kan utstyres med Audi pre sense rear. Audi pre sense rear bruker radarsensorer i støtfangeren bak for å oppdage en forestående kollisjon bakfra, og den setter i gang forebyggende sikkerhetstiltak.
 weight: 1
 ---
+<!-- markdownlint-disable MD033 -->
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/presenserear/audipresenserear.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/presenserear/audipresenserears.jpg"
+        alt="Audi pre sense rear" title="Audi pre sense rear">
+    </a>
+    <figcaption><h4>Audi pre sense rear</h4></figcaption>
+</figure>
 
-![Audi pre sense rear](audipresenserear.jpg "Audi pre sense rear")
 
 Hvis systemet registrerer at det er fare for kollisjon med kjøretøyet
 bak, iverksetter det forebyggende sikkerhetstiltak: sikkerhetsbeltene foran og – i forbindelse med [Audi pre sense

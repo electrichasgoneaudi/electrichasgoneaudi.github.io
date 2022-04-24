@@ -4,8 +4,14 @@ linktitle: Pre sense front
 description: Audi e-tron er utstyrt med Audi pre sense front. Audi pre sense front bruker data fra radarsensorer og/eller frontkameraet, avhengig av bilmodellen, for å beregne sannsynligheten for en kollisjon. Innenfor systemets begrensninger advarer det om kollisjonstrusler og setter i gang bremsing ved spesifikke kjøretøyhastigheter.
 weight: 1
 ---
-
-![Pre sense front](presencefront.jpg "Audi pre sense front")
+<!-- markdownlint-disable MD033 -->
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/presensefront/presencefront.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/presensefront/presencefronts.jpg"
+        alt="Audi pre sense front" title="Audi pre sense front">
+    </a>
+    <figcaption><h4>Audi pre sense front</h4></figcaption>
+</figure>
 
   Kjøretøy oppdages i kjørehastighetsområdet opptil 250 km/t (155,3 mph), fotgjengere opp til rundt 65 km/t (40,4 mph) eller 85 km/t (52,8 mph) avhengig av modell, så vel som syklister , avhengig av systemet.
 

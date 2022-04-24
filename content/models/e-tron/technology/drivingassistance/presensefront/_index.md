@@ -5,7 +5,14 @@ description:  Audi e-tron is equipped wioth Audi pre sense front. Audi pre sense
 weight: 1
 ---
 
-![Pre sense front](presencefront.jpg "Audi pre sense front")
+<!-- markdownlint-disable MD033 -->
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/presensefront/presencefront.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/presensefront/presencefronts.jpg"
+        alt="Audi pre sense front" title="Audi pre sense front">
+    </a>
+    <figcaption><h4>Audi pre sense front</h4></figcaption>
+</figure>
 
  Vehicles are detected in the driving speed range of up to 250 km/h (155.3 mph), pedestrians up to around 65 km/h (40.4 mph) or 85 km/h (52.8 mph) depending on the model, as well as cyclists, depending on the system.
 
