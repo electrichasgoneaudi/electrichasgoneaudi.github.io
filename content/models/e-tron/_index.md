@@ -13,15 +13,20 @@ The model has been a big success for Audi and in Norway, it even became the most
 In April 2021 e-tron no 100.000 was produced.
 
 <figure>
-    <a href="variants/variants1.jpg">
-        <img src="variants/variants1s.jpg" alt="Audi e-tron 60S and Audi e-tron Sportback 60S" title="Audi e-tron 60S and Audi e-tron Sportback 60S">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/variants1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/variants1s.jpg" alt="Audi e-tron 60S and Audi e-tron Sportback 60S" title="Audi e-tron 60S and Audi e-tron Sportback 60S">
     </a>
     <figcaption><h4>Audi e-tron 60S and Audi e-tron Sportback 60S</h4></figcaption>
 </figure>
 
 Audi e-tron has a wide range of options and advanced driving technologies. Here on electrichasgoneaudi.net, you find all details about e-tron. Everything from the different wheels to choose from to how the different driving assist system works.
 
-![Drivetrain](drivetrain/motor/rear_motordual_schematics_2.jpg)
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/drivetrain2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/drivetrain2s.jpg" alt="Audi e-tron drivetrain" title="Audi e-tron drivetrain">
+    </a>
+    <figcaption><h4>Audi e-tron drivetrain</h4></figcaption>
+</figure>
 
 ## Audi e-tron variants
 
@@ -59,7 +64,14 @@ There is a huge number of exterior options to the Audi e-tron. More than 50 Pain
 
 <br/>
 
-![Interior](interior/interior.jpg)
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/interior.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/interiors.jpg"
+        alt="Audi e-tron interior" title="Audi e-tron interior">
+    </a>
+    <figcaption><h4>Audi e-tron interior</h4></figcaption>
+</figure>
+
 
 ## Audi e-tron interior
 
