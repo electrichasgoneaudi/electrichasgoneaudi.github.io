@@ -4,6 +4,7 @@ linktitle: Function on demand
 description: Audi e-tron supports function on demand.
 weight: 12
 ---
+<!-- markdownlint-disable MD033 -->
 
 With functions on demand Audi customers can book additional features for their car post-purchase, easily and conveniently online via myAudi.
 
@@ -18,6 +19,10 @@ The following equipment is available for function on demand
 - High Beam assistant
 - Park Assist
 
-![FOD](fod1.jpg "Function on demand from myAudi app")
-
-{{% children description="true" depth="1" %}}
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/fod/fod1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/fod/fod1s.jpg"
+        alt="Function on demand from myAudi app" title="Function on demand from myAudi app">
+    </a>
+    <figcaption><h4>Function on demand from myAudi app</h4></figcaption>
+</figure>

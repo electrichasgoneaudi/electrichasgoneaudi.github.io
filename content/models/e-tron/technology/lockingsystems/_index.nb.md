@@ -4,7 +4,7 @@ linktitle: Låsesystemer
 description: Audi e-tron har forskjellige nøkkel og låsesystemer som standard eller tileggsutstyr.
 weight: 7
 ---
-
+<!-- markdownlint-disable MD033 -->
 ## Standard nøkkel
 
 Standardnøkkelen på Audi e-tron er utstyrt med Keyless Go. Dette betyr at motorstartautorisasjonen frigis uten aktiv betjening av nøkkelen.
@@ -13,7 +13,13 @@ For å gjøre dette må sjåføren sitte i kjøretøyet og ha med seg bekvemmeli
 
 Motoren startes og slås av ved hjelp av motorstart-stopp-knappen i midtkonsollen.
 
-![Start-knapp](startbutton.jpg "Midtkonsoll med start/stopp-knapp")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/startbutton.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/startbutton.jpg"
+        alt="Midtkonsoll med start/stopp-knapp" title="Midtkonsoll med start/stopp-knapp">
+    </a>
+    <figcaption><h4>Midtkonsoll med start/stopp-knapp</h4></figcaption>
+</figure>
 
 ## Komfortnøkkel PGC
 
@@ -25,7 +31,13 @@ For å låse kjøretøyet fra utsiden trenger du bare å trykke på en av sensor
 
 Bagasjeromslokket kan enkelt låses opp ved hjelp av bagasjeromsknappen på bekvemmelighetsnøkkelen eller, hvis du ikke har fri hånd, med en fotbevegelse (sparkbevegelse) bak.
 
-![Kick Sensor](kicksensor.jpg "Med forhåndsnøkkel kan du åpne bakluken ved å sparke foten under bakluken")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/kicksensor.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/kicksensors.jpg"
+        alt=""Med forhåndsnøkkel kan du åpne bakluken ved å sparke foten under bakluken" title=""Med forhåndsnøkkel kan du åpne bakluken ved å sparke foten under bakluken">
+    </a>
+    <figcaption><h4>"Med forhåndsnøkkel kan du åpne bakluken ved å sparke foten under bakluken</h4></figcaption>
+</figure>
 
 Som standardnøkkel er fremføringsnøkkelen på Audi e-tron utstyrt med Keyless Go. Dette betyr
 motorstartautorisasjonen frigis også uten aktiv betjening av bekvemmelighetsnøkkelen.
@@ -36,7 +48,13 @@ Motoren startes og slås av ved hjelp av motorstart-stopp-knappen i midtkonsolle
 
 En visuell differensiering av høy kvalitet på toppen og bunnen av nøkkelen gjennom høyglans sorte komponenter og metallspenner i aluminiumslook gjør de innovative funksjonene til bekvemmelighetstasten synlige.
 
-![Advance key](advancekey.jpg "Audi Advance key")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/advancekey.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/advancekeys.jpg"
+        alt="Audi Advance key" title="Audi Advance key">
+    </a>
+    <figcaption><h4>Audi Advance key</h4></figcaption>
+</figure>
 
 ## Komfortnøkkel med tyverialarm PG3
 
@@ -46,7 +64,13 @@ Pakken inkluderer følgende spesialutstyr:
 Komfortnøkkel inkludert sensorstyrt opplåsing av bagasjerom med bagasjeromslokk, elektrisk åpning og lukking (med Safelock *: Safelock forhindrer at dørene åpnes fra innsiden så snart kjøretøyet er låst med kjøretøynøkkelen.)
 Tyverialarmsystem
 
-![Alaramsensor](alarm_sensor_of.jpg "Interiørsensoren kan slås av med knapp i døren")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/alarm_sensor_of.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/alarm_sensor_ofs.jpg"
+        alt="Interiørsensoren kan slås av med knapp i døren" title="Interiørsensoren kan slås av med knapp i døren">
+    </a>
+    <figcaption><h4>Interiørsensoren kan slås av med knapp i døren</h4></figcaption>
+</figure>
 
 ## Audi Connect key 2F1
 

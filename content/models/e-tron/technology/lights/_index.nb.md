@@ -4,7 +4,7 @@ linktitle: Lys
 description: Audi e-tron har flere avanserte lysmuligheter
 weight: 3
 ---
-
+<!-- markdownlint-disable MD033 -->
 ### LED-frontlykter
 
 Sammen med det høye effektivitetsnivået tilbyr LED-frontlykter også betydelige fordeler når det gjelder sikkerhet og komfort. Med en fargetemperatur på rundt 5500 Kelvin, ligner lyset deres på dagslys og forårsaker nesten ikke tretthet i øynene – spesielt i mørket og ved ugunstige værforhold. I tillegg gir LED-frontlykter lengre visuell rekkevidde enn xenon-frontlykter. I tåke og nedbør gir de føreren mindre blending. Lysdiodene er vedlikeholdsfrie og designet for å vare bilens levetid. De gir Audi-modellene et særegent utseende og sterke aksenter med deres innovative dag- og nattdesign.
@@ -33,7 +33,14 @@ Se video nedenfor hvordan HD Matrix fungerer på en e-tron
 
 Med de digitale matrix LED-frontlyktene som topputstyr, presenterer Audi en verdensomspennende første i et produksjonskjøretøy: Delt ned i små piksler kan lyset deres lyse opp veien i høy oppløsning. Designet er basert på en teknologi forkortet DMD (digital micromirror device) og brukes også i mange videoprojektorer. I hjertet er det en liten brikke som inneholder en million mikrospeil, hvor hver kantlengde kun måler noen få hundredeler av en millimeter. Ved hjelp av elektrostatiske felt kan hvert enkelt mikrospeil vippes opptil 5000 ganger per sekund. Avhengig av innstillingen rettes LED-lyset enten via linsene ut på veien eller absorberes for å maskere områder av lysstrålen.
 
-![Audi e-tron 55 Sportback i Daytona Grey](digital_matrix_1.jpg "Digital Matrix Head lights")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lights/digital_matrix_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lights/digital_matrix_1s.jpg"
+        alt="Digital Matrix Head lights" title="Digital Matrix Head lights">
+    </a>
+    <figcaption><h4>Digital Matrix Head lights</h4></figcaption>
+</figure>
+
 
 I Audi e-tron Sportback utfører det digitale lyset som vil utvide tilbudet i midten av 2020, flere oppgaver. Den kan generere dynamiske forlate- og komme-hjem-animasjoner som vises som projeksjoner på en vegg eller på bakken. Denne presentasjonen forvandler området foran bilen til en nøye opplyst scene. Ikke bare leverer det digitale lyssystemet sving-, by- og motorveibelysning som versjoner av nærlyset med eksepsjonell presisjon, det supplerer også fjernlyset ved å maskere andre trafikanter med enda større nøyaktighet. Fremfor alt tilbyr den imidlertid innovative funksjoner som kjørefeltlys og orienteringslys. På motorveier skaper kjørefeltlyset et teppe av lys som lyser opp førerens egen kjørefelt sterkt og justerer seg dynamisk når han eller hun skifter kjørefelt. På denne måten forbedrer det førerens bevissthet om det aktuelle kjørefeltet og bidrar til forbedrede veier.
 
@@ -47,7 +54,13 @@ Alternativ-IDen er **PXC** for LED-frontlykter med digital matrise.
 
 Du kan bestille e-tron innstegslys alternativ ID **9TF**
 
-![Entry lights](entry.jpg "Entry lights")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lights/entry.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lights/entrys.jpg"
+        alt="Innstegslys" title="Innstegslys">
+    </a>
+    <figcaption><h4>Innstegslys</h4></figcaption>
+</figure>
 
 ## Lyktespyleranlegg
 

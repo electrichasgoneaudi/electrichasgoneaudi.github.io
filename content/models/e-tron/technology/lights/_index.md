@@ -4,6 +4,7 @@ linktitle: Lights
 description: Audi e-tron has a lot of lightning options
 weight: 3
 ---
+<!-- markdownlint-disable MD033 -->
 
 ## LED headlights
 
@@ -33,7 +34,13 @@ See video below how HD Matrix works on an e-tron
 
 With the digital matrix LED headlights as top-of-the range equipment, Audi presents a worldwide first in a production vehicle: Broken down into minute pixels, their light can illuminate the road in high resolution. The design is based on a technology abbreviated as DMD (digital micromirror device) and is also used in many video projectors. At its heart is a small chip containing one million micromirrors, each of whose edge length measures just a few hundredths of a millimeter. With the help of electrostatic fields, each individual micromirror can be tilted up to 5,000 times per second. Depending on the setting, the LED light is either directed via the lenses onto the road or is absorbed in order to mask out areas of the light beam.
 
-![Audi e-tron 55 Sportback in Daytona Grey](digital_matrix_1.jpg "Digital Matrix Head lights")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lights/digital_matrix_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lights/digital_matrix_1s.jpg"
+        alt="Digital Matrix Head lights" title="Digital Matrix Head lights">
+    </a>
+    <figcaption><h4>Digital Matrix Head lights</h4></figcaption>
+</figure>
 
 In the Audi e-tron Sportback, the digital light that will expand the offering in mid-2020, performs multiple tasks. It can generate dynamic leaving- and coming-home animations that appear as projections on a wall or on the ground. This presentation transforms the area in front of the car into a carefully illuminated stage. Not only does the digital light system deliver cornering, city, and highway lighting as versions of the low-beam light with exceptional precision, it also supplements the high-beam light by masking out other road users with even greater accuracy. Above all, however, it offers innovative functions such as lane light and orientation light. On freeways, the lane light creates a carpet of light that illuminates the driver’s own lane brightly and adjusts dynamically when he or she changes lane. In this way, it improves the driver’s awareness of the relevant lane and contributes to improved road safety. In addition, the orientation light uses darkened areas masked out from the light beam to predictively show the vehicle’s position in the lane, thereby supporting—especially on narrow roads or in highway construction zones—the safe lane centering assist. The marking light function is also used in conjunction with the optional night vision assist. The light automatically draws attention to any pedestrians it detects, thereby reducing the danger of overlooking pedestrians in the immediate vicinity of the lane.
 
@@ -45,10 +52,10 @@ The optionID is **PXC** for Digital matrix LED Headlights.
 
 You can order e-tron entry lights option id **9TF**
 
-![Entry lights](entry.jpg "Entry lights")
-
-
-{{% children description="true" depth="1" %}}
-
-
-
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lights/entry.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lights/entrys.jpg"
+        alt="Entry lights" title="Entry lights">
+    </a>
+    <figcaption><h4>Entry lights</h4></figcaption>
+</figure>
