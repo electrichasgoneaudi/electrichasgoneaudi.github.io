@@ -74,7 +74,6 @@ Only AC charging goes throug the charger. For DC charging the CCS port is direct
 | 230V 32A 1phase | Blue Industrial |  7.2KW | 11.5 hours |
 | 230V 16A 1phase | Blue Industrial |  3.6KW | 23 hours |
 
-
 ### LED Indicators
 
 <figure>

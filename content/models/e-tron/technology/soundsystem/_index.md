@@ -33,7 +33,6 @@ The Bang & Olufsen Sound System with 3D sound offers a fascinating feature for h
     <figcaption><h4>Bass speaker in front door with B&O system</h4></figcaption>
 </figure>
 
-
 In its top version the Bang & Olufsen Sound System implements 3D sound in the rear seating area too. Using the MMI system and a separate control unit for the rear passengers, depending on the model, the sound setting can be optimized to personal preferences – with a focus on either the front or rear seats, or on all seats.
 
 The illustration below show where the 16 different speakers are located.
@@ -47,5 +46,3 @@ The illustration below show where the 16 different speakers are located.
 </figure>
 
 The option ID for this system is **9VS**
-
-{{% children description="true" depth="1" %}}
