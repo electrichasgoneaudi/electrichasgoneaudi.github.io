@@ -8,15 +8,15 @@ hidden: true
 
 First. What is the expected charging rate? Under optimal conditions, the charge curve will look like this.
 
-![Charging curve](chargecurve.jpg "Charging curve e-tron 55 optimal conditions")
+![Charging curve](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.jpg "Charging curve e-tron 55 optimal conditions")
 
 That means that you often see 150kW up to 80% and 100kW to 85% and still above 50kW at 100%. This makes the Audi e-tron one of the fastest charging cars on the market.
 
-![Audi e-tron 55 charging at Ionity](charginghpc.jpg "Audi e-tron 55 charging at Ionity HPC")
+![Audi e-tron 55 charging at Ionity](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/knowledgeexchange/faq/whyhpcchargingslow/charginghpc.jpg "Audi e-tron 55 charging at Ionity HPC")
 
 But people may see that their charging speed is much slower than this.
 
-![Slow charging](slowcharging1.jpg "Example 1 - slow charging curve")
+![Slow charging](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/knowledgeexchange/faq/whyhpcchargingslow/slowcharging1.jpg "Example 1 - slow charging curve")
 
 ### Reason 1. Cold battery
 

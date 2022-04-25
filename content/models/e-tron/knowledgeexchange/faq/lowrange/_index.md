@@ -42,7 +42,7 @@ Many consumers are not aware that adding more equipment like larger wheels reduc
 Owners typically react when their Audi e-tron estimated range is much lower than advertised by Audi.
 Below you see some examples of ranges posted by users in different social media groups.
 
-![Low range](lowrangeexample.jpg)
+![Low range](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/knowledgeexchange/faq/lowrange/lowrangeexample.jpg)
 
 ## Why does the car estimate this range?
 
@@ -56,7 +56,7 @@ So assume you have an e-tron 55 with 86.5kWh battery and you have charged it to 
 
 If you check the driving data in myAudi app on short-term memory you will see your drives.
 
-![Triphistory](triphistory.jpg "Triphistory")
+![Triphistory](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/knowledgeexchange/faq/lowrange/triphistory.jpg "Triphistory")
 
 If we calculate the range based on the consumption on 24.12 with 30.3 kWh/100km we get
 
