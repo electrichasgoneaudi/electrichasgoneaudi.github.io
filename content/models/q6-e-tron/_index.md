@@ -13,7 +13,7 @@ The model will come in different versions with different battery capacities.
 
 In size it will be between [Audi Q4 e-tron](../../models//q4-e-tron/) and [Audi e-tron](../../models/e-tron/).
 
-![Prototype](prototype5.jpg "Audi Q6 e-tron prototype by Carscopes")
+![Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype5.jpg "Audi Q6 e-tron prototype by Carscopes")
 
 ## Battery & Range
 
@@ -26,7 +26,7 @@ This will give the Audi Q6 e-tron a WLTP range of approximately 470-580km depend
 
 The battery will have an 800-Volt architecture for high-performance charging.
 
-![Battery](battery.png "Audi Q6 battery with 12 modules and 100kWh gross")
+![Battery](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/battery.png "Audi Q6 battery with 12 modules and 100kWh gross")
 
 ## Motor and performance
 
@@ -39,7 +39,7 @@ It is expected that the Audi Q6 e-tron comes with different performance versions
 
 Audi will use different motor setups on the different variants.
 
-![Motors](motors.jpg "Motors for Audi Q6 e-tron")
+![Motors](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/motors.jpg "Motors for Audi Q6 e-tron")
 
 ## UI & MMI
 
@@ -59,7 +59,7 @@ Audi Q6 will be available with several options.
 
 Audi plans to reduce the number of combinations of options. So instead of most options being offered separately like Audi e-tron they will introduce options packages.
 
-![options](options.jpg "Options")
+![options](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/options.jpg "Options")
 
 ## Keep youself updated
 
@@ -71,10 +71,10 @@ See below for spy video and spy photo of the Q6 e-tron test-driving.
 
 {{< youtube KFGy7p0Q3yo>}}
 
-![Carbuzz photo of Q6 Prototype](prototype2.jpg "Carbuzz photo of Q6 e-tron Prototype")
+![Carbuzz photo of Q6 Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype2.jpg "Carbuzz photo of Q6 e-tron Prototype")
 
-![Carbuzz photo of Q6 Prototype](prototype3.jpg "Carbuzz photo of Q6 e-tron Prototype")
+![Carbuzz photo of Q6 Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype3.jpg "Carbuzz photo of Q6 e-tron Prototype")
 
-![Carbuzz photo of Q6 Prototype](prototype4.jpg "Carbuzz photo of Q6 e-tron Prototype")
+![Carbuzz photo of Q6 Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype4.jpg "Carbuzz photo of Q6 e-tron Prototype")
 
 {{% children description="true" depth="1" %}}

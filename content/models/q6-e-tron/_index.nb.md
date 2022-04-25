@@ -12,7 +12,7 @@ De første kundene kan forvente å motta Audi Q6 e-tron i Q1/Q2 2023.
 Modellen vil komme i forskjellige versjoner med ulik batterikapasitet og plasserer seg størrelsesmessig mellom [Audi Q4 e-tron](../../models//q4-e-tron/) og [Audi e-tron](../../models/e-tron/).
 
 
-![Prototype](prototype5.jpg "Audi Q6 e-tron prototype fra Carscopes")
+![Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype5.jpg "Audi Q6 e-tron prototype fra Carscopes")
 
 ## Batteri og rekkevidde
 
@@ -27,7 +27,7 @@ På den samme måten vil 1 motors versjonen med drift på bakhjulene og det mins
 
 Batteriet vil ha en 800-volts arkitektur for høyytelseslading.
 
-![Batteri](battery.png "Audi Q6 batteri med 12 moduler og 100kWh brutto")
+![Batteri](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/battery.png "Audi Q6 batteri med 12 moduler og 100kWh brutto")
 
 ## Motor og ytelse
 
@@ -40,7 +40,7 @@ Det forventes at Audi Q6 e-tron kommer i versjoner med forskjellig ytelse.
 
 Audi vil bruke ulike motoroppsett på de ulike variantene.
 
-![Motors](motors.jpg "Motorer for Audi Q6 e-tron")
+![Motors](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/motors.jpg "Motorer for Audi Q6 e-tron")
 
 ## UI og MMI
 
@@ -60,7 +60,7 @@ Audi Q6 vil være tilgjengelig med flere alternativer.
 
 Audi planlegger å redusere antall kombinasjoner av alternativer. Så i stedet for at de fleste alternativene tilbys separat som Audi e-tron, vil de introdusere tilleggspakker.
 
-![options](options.jpg "Alternativer")
+![options](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/options.jpg "Alternativer")
 
 ## Hold deg oppdatert
 
@@ -72,10 +72,10 @@ Se nedenfor for spionvideo og spionbilde av testkjøringen av Q6 e-tron.
 
 {{< youtube KFGy7p0Q3yo>}}
 
-![Carbuzz-bilde av Q6 Prototype](prototype2.jpg "Carbuzz-bilde av Q6 e-tron Prototype")
+![Carbuzz-bilde av Q6 Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype2.jpg "Carbuzz-bilde av Q6 e-tron Prototype")
 
-![Carbuzz-bilde av Q6 Prototype](prototype3.jpg "Carbuzz-bilde av Q6 e-tron Prototype")
+![Carbuzz-bilde av Q6 Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype3.jpg "Carbuzz-bilde av Q6 e-tron Prototype")
 
-![Carbuzz-bilde av Q6 Prototype](prototype4.jpg "Carbuzz-bilde av Q6 e-tron Prototype")
+![Carbuzz-bilde av Q6 Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype4.jpg "Carbuzz-bilde av Q6 e-tron Prototype")
 
 {{% children description="true" depth="1" %}}
