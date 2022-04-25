@@ -9,8 +9,8 @@ weight: 7
 March 17. 2022 Audi also presented the Audi A6 Avant e-tron concept of this model.
 
 <figure>
-    <a href="a6-etron-7.jpg">
-        <img src="a6-etron-7s.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-7.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-7s.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
     </a>
     <figcaption><h4>Audi A6 e-tron and Audi A6 Avant e-tron concept</h4></figcaption>
 </figure>
@@ -37,7 +37,7 @@ This will give the Audi A6 e-tron a WLTP range of approximately 520-700km depend
 
 The battery will have an 800-Volt architecture for high-performance charging up to 270KW for DC charging. 300km charging takes as little as 10 minutes.
 
-![Battery](battery.png "Audi A6 e-tron battery with 12 modules and 100kWh gross")
+![Battery](https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/battery.png "Audi A6 e-tron battery with 12 modules and 100kWh gross")
 
 ## Motor and performance
 
@@ -60,7 +60,7 @@ The concept version have 469HP and 800 nm torque. (60 rating)
 
 Audi will use different motor setups on the different variants.
 
-![Motors](motors.jpg "Motors for Audi A6 e-tron")
+![Motors](https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/motors.jpg "Motors for Audi A6 e-tron")
 
 ## UI & MMI
 
@@ -81,8 +81,8 @@ Audi A6 e-tron will be available with several options.
 - Virtual mirrors
 
 <figure>
-    <a href="a6-etron-5.jpg">
-        <img src="a6-etron-5s.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-5.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-5s.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
     </a>
     <figcaption><h4>Audi A6 e-tron with virtual mirrors</h4></figcaption>
 </figure>
@@ -101,15 +101,15 @@ See detailed video from @auditography
 {{< youtube _BhLriimGQE >}}
 
 <figure>
-    <a href="a6-etron-1.jpg">
-        <img src="a6-etron-1s.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-1s.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
     </a>
     <figcaption><h4>Audi A6 e-tron concept</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="a6-etron-2.jpg">
-        <img src="a6-etron-2s.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-2s.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
     </a>
     <figcaption><h4>Audi A6 e-tron concept</h4></figcaption>
 </figure>
@@ -130,6 +130,3 @@ Video of drivetrain
 
 {{< youtube r_wD-LblZqY >}}
 
-
-
-{{% children description="true" depth="1" %}}
