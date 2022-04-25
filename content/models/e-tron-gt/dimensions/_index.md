@@ -4,14 +4,23 @@ linktitle: Dimensions
 description: Here you find all dimensions for the Audi e-tron GT and Audi RS e-tron GT. Width, height, depth, +++
 weight: 3
 ---
-
+<!-- markdownlint-disable MD033 -->
 
 ## Audi e-tron GT
 
-![Dimensions](etrongt.jpg "Dimensions e-tron GT")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/dimensions/etrongt.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/dimensions/etrongts.jpg" alt="Dimensions e-tron GT" title="Dimensions e-tron GT">
+    </a>
+    <figcaption><h4>Dimensions e-tron GT</h4></figcaption>
+</figure>
 
 ## Audi RS e-tron GT
 
-![Dimensions](rsetrongt.jpg "Dimensions RS e-tron GT")
-
-{{% children description="true" depth="1" %}}
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/dimensions/rsetrongt.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/dimensions/rsetrongts.jpg"
+        alt="Dimensions RS e-tron GT" title="Dimensions RS e-tron GT">
+    </a>
+    <figcaption><h4>Dimensions RS e-tron GT</h4></figcaption>
+</figure>

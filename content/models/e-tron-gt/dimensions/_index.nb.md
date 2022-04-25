@@ -5,13 +5,22 @@ description: Her finner du alle dimensjoner for Audi e-tron GT og Audi RS e-tron
 weight: 3
 ---
 
-
+<!-- markdownlint-disable MD033 -->
 ## Audi e-tron GT
 
-![Dimensions](etrongt.jpg "Dimensions e-tron GT")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/dimensions/etrongt.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/dimensions/etrongts.jpg" alt="dimensjoner e-tron GT" title="dimensjoner e-tron GT">
+    </a>
+    <figcaption><h4>dimensjoner e-tron GT</h4></figcaption>
+</figure>
 
 ## Audi RS e-tron GT
 
-![Dimensions](rsetrongt.jpg "Dimensions RS e-tron GT")
-
-{{% children description="true" depth="1" %}}
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/dimensions/rsetrongt.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/dimensions/rsetrongts.jpg"
+        alt="dimensjoner RS e-tron GT" title="dimensjoner RS e-tron GT">
+    </a>
+    <figcaption><h4>dimensjoner RS e-tron GT</h4></figcaption>
+</figure>
