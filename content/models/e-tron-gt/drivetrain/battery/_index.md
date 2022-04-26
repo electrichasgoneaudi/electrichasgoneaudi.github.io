@@ -10,9 +10,14 @@ weight: 7
 
 The battery system is located beneath the passenger compartment, at the lowest point of the car. This, in combination with the electric motors, provides a low center of gravity appropriate for a sports car and a weight distribution between the front and rear axles that is very close to the ideal value of 50:50.
 
-![Foot garage](battery5.jpg "Battery with foot garage for rear passengers")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery5.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery5s.jpg" alt="Battery with foot garage for rear passengers" title="Battery with foot garage for rear passengers">
+    </a>
+    <figcaption><h4>Battery with foot garage for rear passengers</h4></figcaption>
+</figure>
 
- Thirty modules form the lower level of the battery that features a wide recess in the rear section. It creates space for the rear passengers’ feet, which allows them to sit in a low position and also enables the flat vehicle silhouette. The upper “floor” contains three further modules situated below the rear seats. The connections, fuses, and the main control unit are located under the console of the center tunnel. The bottom of the battery is protected by an aluminium plate.
+Thirty modules form the lower level of the battery that features a wide recess in the rear section. It creates space for the rear passengers’ feet, which allows them to sit in a low position and also enables the flat vehicle silhouette. The upper “floor” contains three further modules situated below the rear seats. The connections, fuses, and the main control unit are located under the console of the center tunnel. The bottom of the battery is protected by an aluminium plate.
 
 ## Cell technology
 
@@ -58,17 +63,37 @@ The waterproof housing is a sandwich construction consisting of a cover at the t
 
 The battery housing is secured by means of a steel protective plate. For the battery frame, the developers opted for a lightweight aluminium design. On the one hand, this provides a lot of installation space for the cell modules - and consequently a high battery capacity. On the other hand, this has made it possible for the vehicle weight to be kept low. Modern joining techniques are used such as MIG welding (metal welding with inert gases) on the battery frame, laser welding on the bulkhead and protection plates and heat-conducting adhesive on the line system under the battery (see below).
 
-![bilde](battery3.jpg "Audi e-tron GT battery pack")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery3s.jpg" alt="Audi e-tron GT battery pack" title="Audi e-tron GT battery pack">
+    </a>
+    <figcaption><h4>Audi e-tron GT battery pack</h4></figcaption>
+</figure>
 
-![bilde](battery1.jpg "Audi e-tron GT battery pack")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery1s.jpg" alt="Audi e-tron GT battery pack" title="Audi e-tron GT battery pack">
+    </a>
+    <figcaption><h4>Audi e-tron GT battery pack</h4></figcaption>
+</figure>
 
-![bilde](battery2.jpg "Audi e-tron GT battery pack")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery2s.jpg" alt="Audi e-tron GT battery pack" title="Audi e-tron GT battery pack">
+    </a>
+    <figcaption><h4>Audi e-tron GT battery pack</h4></figcaption>
+</figure>
 
 ## Thermal managment
 
 Beneath the cell space of the battery, there is a compound structure of flat extruded sections through which a glycol/water mixture flows that circulates in its own low-temperature circuit. The temperature is transferred between the cooling plates and the cell space via a heat-conducting paste. The battery’s feel-good temperature is between 30 and 35 degrees Celsius, and its operating range extends from minus 30 to plus 50 degrees.
 
-![bilde](battery4.jpg "Audi e-tron GT battery cooling circuits")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery4.jpg" alt="Audi e-tron GT battery cooling circuits" title="Audi e-tron GT battery cooling circuits">
+    </a>
+    <figcaption><h4>Audi e-tron GT battery cooling circuits</h4></figcaption>
+</figure>
 
 Four separate coolant circuits, each at its own temperature level, regulate the temperature in the high-voltage components and the interior precisely and quickly. They can be interconnected flexibly as required. If the driver demands a high output several times in a row, valves couple the coolant circuit of the battery with the refrigerant circuit of the air-conditioning system – this intensive cooling keeps the performance of the drive at a consistently high level. The e-tron GT quattro and RS e-tron GT can accelerate to full speed from a standstill up to ten consecutive times.
 
@@ -83,8 +108,8 @@ The standard equipment of the e-tron GT includes a heat pump that heats the inte
 When battery is cold the car reduces the avaialable power to protect the battery. In cold weather you should try to AC charge before leaving home to increase temprature.
 
 <figure>
-    <a href="reducedpower_1.jpg">
-        <img src="reducedpower_1s.jpg" alt="Reduced power avaiable in cold weather" title="Reduced power avaiable in cold weather">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/reducedpower_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/reducedpower_1s.jpg" alt="Reduced power avaiable in cold weather" title="Reduced power avaiable in cold weather">
     </a>
     <figcaption><h4>Reduced power avaiable in cold weather</h4></figcaption>
 </figure>
@@ -95,8 +120,11 @@ You can read more about how Audi protects the battery in [this article](../../..
 
 The charging flaps of the gran turismo are located behind the front wheels. Both sides feature connections for alternating current (AC) and there is also a connection for direct current (DC) on the right-hand side. The Audi e-tron GT is delivered to its customers with two charging cables as standard: one mode 3 cable for public AC terminals and the charging system compact for the garage. The e-tron GT can charge with 11 kW AC as standard, which allows it to recharge an empty battery overnight. An optional onboard charger for 22 kW is available.
 
-![Charging](charging.jpg "Audi e-tron GT chan charge with up to 270kW")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/charging.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/chargings.jpg" alt="Audi e-tron GT chan charge with up to 270kW" title="Audi e-tron GT chan charge with up to 270kW">
+    </a>
+    <figcaption><h4>Audi e-tron GT chan charge with up to 270kW</h4></figcaption>
+</figure>
 
 At a direct current terminal with a voltage of 800 V, for example in the European freeway network from Ionity, the Audi e-tron GT achieves a peak charging capacity of up to 270 kW. This allows it to recharge energy for up to 100 kilometers (62.1 mi) in just over five minutes, and charging from five to 80 percent SoC (state of charge) takes less than 22.5 minutes under ideal conditions. The driver can restrict the charging target in the MMI operating system, for example if the rate appears too high.
-
-{{% children description="true" depth="1" %}}
