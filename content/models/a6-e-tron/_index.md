@@ -42,8 +42,8 @@ The battery will have an 800-Volt architecture for high-performance charging up 
 ## Motor and performance
 
 <figure>
-    <a href="a6-etron-6.jpg">
-        <img src="a6-etron-6s.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-6.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-6s.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
     </a>
     <figcaption><h4>Audi A6 Avant e-tron concept</h4></figcaption>
 </figure>
