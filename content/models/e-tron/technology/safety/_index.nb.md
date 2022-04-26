@@ -36,7 +36,7 @@ Både foran og bak er beskyttet med hodekollisjonsputer.
 Foran er det standard med sidekollisjonsputer innebygd i setet som beskytter kroppen.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/safety/airbagssidefronts.jpg">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/safety/airbagssidefront.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/safety/airbagssidefronts.jpg"
         alt="Sidekollisjonsputer foran er standard" title="Sidekollisjonsputer foran er standard">
     </a>

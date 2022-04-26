@@ -7,7 +7,7 @@ weight: 100
 
 ## Lakkfarger og lakkutførelse
 
-![Pant Colors & Paint trim](../../variants/variants1s.jpg)
+![Pant Colors & Paint trim](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/variants1s.jpg)
 
 Med mer en 60 forskjellige farger og flere lakk utføringer så er det en stor mengde fargekombinasjoner tilgjengelig til Audi e-tron.
 
@@ -38,7 +38,7 @@ Klikk på valgene nedenfor for høyoppløste bilder og detaljer for hver valgmul
 
 ## Komplette sommer/vinter hjul
 
-![Felger](../../exterior/wheels/wheel_CA0_2s.jpg)
+![Felger](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_CA0_2s.jpg)
 
 Audi e-tron kan leveres med en rekke felger fra 19" til 22". Klikk på valgene nedenfor for høyoppløste bilder og detaljer.
 
@@ -179,7 +179,7 @@ Audi e-tron kan leveres med en rekke felger fra 19" til 22". Klikk på valgene n
 
 ## Seter
 
-![Seats](../../interior/seats/seats_individualcontour_8.jpg)
+![Seats](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_8.jpg)
 
 Du kan velge mellom flere varianter av seter og setematerialer på Audi e-tron. Klikk på lenkene under for detaljer for hvert valg.
 

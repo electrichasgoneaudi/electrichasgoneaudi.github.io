@@ -35,8 +35,8 @@ Both front and rear are protect with head airbags.
 In front there is standard with side Airbags build in to the seat that protects the body.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/safety/airbagssidefronts.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/safety/airbagssidefrontss.jpg"
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/safety/airbagssidefront.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/safety/airbagssidefronts.jpg"
         alt="Side airbags front are standard" title="Side airbags front are standard">
     </a>
     <figcaption><h4>Side airbags front are standard</h4></figcaption>
