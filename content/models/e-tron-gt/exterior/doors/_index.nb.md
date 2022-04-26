@@ -4,7 +4,7 @@ linktitle: Dører
 description: Audi har noen muligheter og tilvalg når det gjelder dører og bakluke.
 weight: 8
 ---
-
+<!-- markdownlint-disable MD033 -->
 
 ## Automatisk låsing
 
@@ -22,7 +22,12 @@ Du kan bestille bilen med elektrisk bakluke. Dette er en del av alternativet PGB
 
 Du kan legge til kule innstegslys til e-tron GT-dørene.
 
-![Entry lights](entry-light.jpg "Innstegslys")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/doors/entry-light.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/doors/entry-lights.jpg" alt="Innstegslys" title="Innstegslys">
+    </a>
+    <figcaption><h4>Innstegslys</h4></figcaption>
+</figure>
 
 OptionId ****
 
@@ -39,6 +44,9 @@ Hvis du får [advance key option](../../technology/lockingsystems/#advance-key-o
 Hvis du får [advance key option](../../technology/lockingsystems/#advance-key-option-pgc) får du en låseknapp på bakluken
 slik at du kan låse bilen.
 
-![Baklukelåsing](tailgatelocking.jpg "Baklukelåsing")
-
-{{% children description="true" depth="1" %}}
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/doors/tailgatelocking.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/doors/tailgatelockings.jpg" alt="Baklukelåsing" title="Baklukelåsing">
+    </a>
+    <figcaption><h4>Baklukelåsing</h4></figcaption>
+</figure>

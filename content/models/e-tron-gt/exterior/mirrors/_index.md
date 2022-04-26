@@ -10,7 +10,12 @@ weight: 5
 
 Electric adjustable mirrors are standard on Audi e-tron (option ID 6XD). They are controlled in the drivers door on the joystick.
 
-![Mirror control](control.jpg "Mirrors are controlled in driver door" )
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/mirrors/control.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/mirrors/controls.jpg" alt="Mirrors are controlled in driver door" title="Mirrors are controlled in driver door">
+    </a>
+    <figcaption><h4>Mirrors are controlled in driver door</h4></figcaption>
+</figure>
 
 There are some optional mirros
 
@@ -22,29 +27,29 @@ There are some optional mirros
 ## Mirror Style
 
 <figure>
-    <a href="mirror_painted_1.jpg">
-        <img src="mirror_painted_1s.jpg" alt="Painted mirrors in body color option ID 6FA" title="Painted mirrors in body color option ID 6FA">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/mirrors/mirror_painted_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/mirrors/mirror_painted_1s.jpg" alt="Painted mirrors in body color option ID 6FA" title="Painted mirrors in body color option ID 6FA">
     </a>
     <figcaption><h4>Painted mirrors in body color option ID 6FA</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="mirror_painted_2.jpg">
-        <img src="mirror_painted_2s.jpg" alt="Painted mirrors in body color option ID 6FA" title="Painted mirrors in body color option ID 6FA">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/mirrors/mirror_painted_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/mirrors/mirror_painted_2s.jpg" alt="Painted mirrors in body color option ID 6FA" title="Painted mirrors in body color option ID 6FA">
     </a>
     <figcaption><h4>Painted mirrors in body color option ID 6FA</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="mirror_black.jpg">
-        <img src="mirror_blacks.jpg" alt="Black mirror Option ID 6FJ" title="Black mirror Option ID 6FJ">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/mirrors/mirror_black.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/mirrors/mirror_blacks.jpg" alt="Black mirror Option ID 6FJ" title="Black mirror Option ID 6FJ">
     </a>
     <figcaption><h4>Black mirror Option ID 6FJ</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="mirror_carbon.jpg">
-        <img src="mirror_carbons.jpg" alt="Carbon mirro Option ID 6FQ" title="Carbon mirro Option ID 6FQ">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/mirrors/mirror_carbon.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/mirrors/mirror_carbons.jpg" alt="Carbon mirro Option ID 6FQ" title="Carbon mirro Option ID 6FQ">
     </a>
     <figcaption><h4>Carbon mirro Option ID 6FQ</h4></figcaption>
 </figure>
