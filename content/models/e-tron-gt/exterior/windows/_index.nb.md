@@ -11,8 +11,8 @@ weight: 6
 Du kan få bilen med mørke vinduer. Tilvalg **QL5**
 
 <figure>
-    <a href="privacy_windows.jpg">
-        <img src="privacy_windowss.jpg" alt="Mørke ruter" title="Mørke ruter">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/privacy_windows.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/privacy_windowss.jpg" alt="Mørke ruter" title="Mørke ruter">
     </a>
     <figcaption><h4>Mørke ruter</h4></figcaption>
 </figure>
@@ -20,43 +20,43 @@ Du kan få bilen med mørke vinduer. Tilvalg **QL5**
 Dette påvirker stort hvordan e-tron GT ser ut.
 
 <figure>
-    <a href="standard_windows_1.jpg">
-        <img src="standard_windows_1s.jpg" alt="Standard ruter" title="Standard ruter">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/standard_windows_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/standard_windows_1s.jpg" alt="Standard ruter" title="Standard ruter">
     </a>
     <figcaption><h4>Standard ruter</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="privacy_windows_1.jpg">
-        <img src="privacy_windows_1s.jpg" alt="Mørke ruter" title="Mørke ruter">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/privacy_windows_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/privacy_windows_1s.jpg" alt="Mørke ruter" title="Mørke ruter">
     </a>
     <figcaption><h4>Mørke ruter</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="standard_windows_2.jpg">
-        <img src="standard_windows_2s.jpg" alt="Standard ruter" title="Standard ruter">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/standard_windows_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/standard_windows_2s.jpg" alt="Standard ruter" title="Standard ruter">
     </a>
     <figcaption><h4>Standard ruter</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="privacy_windows_2.jpg">
-        <img src="privacy_windows_2s.jpg" alt="Mørke ruter" title="Mørke ruter">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/privacy_windows_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/privacy_windows_2s.jpg" alt="Mørke ruter" title="Mørke ruter">
     </a>
     <figcaption><h4>Mørke ruter</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="standard_windows_3.jpg">
-        <img src="standard_windows_3s.jpg" alt="Standard ruter" title="Standard ruter">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/standard_windows_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/standard_windows_3s.jpg" alt="Standard ruter" title="Standard ruter">
     </a>
     <figcaption><h4>Standard ruter</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="privacy_windows_3.jpg">
-        <img src="privacy_windows_3s.jpg" alt="Mørke ruter" title="Mørke ruter">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/privacy_windows_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/privacy_windows_3s.jpg" alt="Mørke ruter" title="Mørke ruter">
     </a>
     <figcaption><h4>Mørke ruter</h4></figcaption>
 </figure>

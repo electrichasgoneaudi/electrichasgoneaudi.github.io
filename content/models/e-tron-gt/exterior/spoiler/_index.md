@@ -4,10 +4,12 @@ linktitle: Spoiler
 description: Audi e-tron GT and Audi RS e-tron GT has a spoiler
 weight: 8
 ---
-
+<!-- markdownlint-disable MD033 -->
 It raises automatic when passing 90kmh/55mph
 
-[Audi e-tron GT spoiler](spoiler_1.jpg "Audi e-tron GT spoiler")
-
-
-{{% children description="true" depth="1" %}}
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/spoiler/spoiler_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/spoiler/spoiler_1s.jpg" alt="Spoiler" title="Spoiler">
+    </a>
+    <figcaption><h4>Spoiler</h4></figcaption>
+</figure>
