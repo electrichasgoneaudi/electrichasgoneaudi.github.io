@@ -4,14 +4,21 @@ linktitle: Interior
 description: Audi e-tron GT has a luxury interior with different options in seats and design.
 weight: 5
 ---
-
+<!-- markdownlint-disable MD033 -->
 The interior of the e-tron GT conveys the ultimate gran turismo feel by radiating sportiness, comfort, and expanse in equal measure. Sustainable materials also play an important part in the electric sports car.
 
 ### The interior: sporty and spacious
 
-The strong focus of the interior on the driver – inspired by the “monoposto” concept, a typical design feature of the sporty Audi models – is a characteristic of the e-tron GT. The upper section of the three-dimensional instrument panel is drawn away from the driver in a large, elegant arc. This space is occupied by the display of the Audi virtual cockpit plus, which is shaded by its own cowl. The flat-bottomed steering wheel features multifunction buttons, and its rim can be heated as an option (standard with the RS model ).
+The strong focus of the interior on the driver – inspired by the “monoposto” concept, a typical design feature of the sporty Audi models – is a characteristic of the e-tron GT. The upper section of the three-dimensional instrument panel is drawn away from the driver in a large, elegant arc. This space is occupied by the display of the Audi virtual cockpit plus, which is shaded by its own cowl. The flat-bottomed steering wheel features 
+multifunction buttons, and its rim can be heated as an option (standard with the RS model ).
 
-![Monoposto](monoposto.jpg "Monoposto concept")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/monoposto.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/monoposto.jpg" 
+        alt="Monoposto concept" title="Monoposto concept">
+    </a>
+    <figcaption><h4>Monoposto concept</h4></figcaption>
+</figure>
 
 The center console is tilted toward the driver, and the central MMI touch display is conveniently located in its upper section, where is it easy to see. It is surrounded by a black piano finish bezel that seems to float above the instrument panel and tapers into a wing to the right. When the ambient lighting package plus is on board, the bezel bears a lasered and backlit “e-tron” badge. The standard three-zone automatic air-conditioning is located above the central air vents, where it is easy to reach.
 
@@ -33,7 +40,13 @@ The sport seats pro with 18-way adjustment, pneumatic side bolsters, climate con
 
 The black leather-free design package is available for the sport seats plus. Upholstery is available either as a combination of artificial leather and the Kaskade material or as a mixture of artificial leather and the microfiber material Dinamica. In both cases, the covers consist predominantly of materials such as polyester fibers that were made from recycled PET bottles, textiles, or residual fibers. Each set of Kaskade covers is made of 119 recycled plastic bottles. Dinamica is a breathable microfiber material made proportionally from recycled polyester fibers and recycled PET. Kaskade is reminiscent of natural fibers such as wool and offers a very pleasant seating feel. The stitching of the seat center panels of both covers is based on the look of the Singleframe.
 
-![RS design package](interiormaterials/interior_PEF_1.jpg "RS design package red with carbon inlays and interior lighnting") 
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEF_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEF_1s.jpg" 
+        alt="RS design package red with carbon inlays and interior lighnting" title="RS design package red with carbon inlays and interior lighnting">
+    </a>
+    <figcaption><h4>RS design package red with carbon inlays and interior lighnting</h4></figcaption>
+</figure>
 
 The sport seats pro are made of a combination of two types of leather: fine Nappa leather for the side bolsters and pearl Nappa leather with a perforated honeycomb pattern for the center panels. They are available in black, Santos brown, Arras red, or Monaco gray. The seat colors harmonize with the color-matched interior. In the red and gray RS design packages, red or gray contrasting stitching contrasts with black covers; the seat belts also come in red or gray.
 
@@ -41,7 +54,13 @@ Audi offers a broad range of upholstery materials, from artificial leather and D
 
 The large application area on the instrument panel is painted in a fine paint finish, graphite gray or palladium silver (in the RS model ). Open-pore walnut wood decor or silk-matt carbon with twill are available as alternatives. With the ambient lighting package plus, the “e-tron GT” logo is projected onto the ground when the driver’s door is opened. While aluminum inserts for the door sill trims are standard, the range extends all the way to carbon material with illumination.
 
-![Standard seats](interior.jpg "Audi RS e-tron GT with Audi exclusive interior. Photo by Auditography")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interior.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interior.jpg" 
+        alt="Audi RS e-tron GT with Audi exclusive interior. Photo by Auditography" title="Audi RS e-tron GT with Audi exclusive interior. Photo by Auditography">
+    </a>
+    <figcaption><h4>Audi RS e-tron GT with Audi exclusive interior. Photo by Auditography</h4></figcaption>
+</figure>
 
 The Audi exclusive program from Audi Sport GmbH fulfills many personal customer requests for equipment, in particular with regard to leather, the stitching, and the seat belts, which are available with colored edges. The cognac/jet gray design package is available as an upscale all-in-one solution. The seats are upholstered with brown fine Nappa leather here, and gray contrasting stitching throughout the interior adds highlights from the steering wheel rim to the floor mats.
 

@@ -4,18 +4,42 @@ linktitle: Interiørmaterialer
 description: Du kan velge blant noen interiørmaterialer for å gi Audi e-tron GT et enda mer ekslusivt utseende.  
 weight: 10
 ---
-
+<!-- markdownlint-disable MD033 -->
 Det finnes flere nivåer av interiørdekor og forskjellige designpakker.
 
 ## Standard
 
-![Standard](interior_standard_1.jpg "Standard interiørtrim")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_1s.jpg" 
+        alt="Standard interiørdesign" title="Standard interiørdesign">
+    </a>
+    <figcaption><h4>Standard interiørdesign</h4></figcaption>
+</figure>
 
-![Standard](interior_standard_2.jpg "Standard interiørtrim")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_2.jpg" 
+        alt="Standard interiørdesign" title="Standard interiørdesign">
+    </a>
+    <figcaption><h4>Standard interiørdesign</h4></figcaption>
+</figure>
 
-![Standard](interior_standard_3.jpg "Standard dashbord med syntetisk lær og karboninnlegg")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_3s.jpg" 
+        alt="Standard dashbord med syntetisk lær og karboninnlegg" title="Standard dashbord med syntetisk lær og karboninnlegg">
+    </a>
+    <figcaption><h4>Standard dashbord med syntetisk lær og karboninnlegg</h4></figcaption>
+</figure>
 
-![Standard](interior_standard_4.jpg "Standard dashbord med syntetisk lær og karboninnlegg")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_4s.jpg" 
+        alt="Standard dashbord med syntetisk lær og karboninnlegg" title="Standard dashbord med syntetisk lær og karboninnlegg">
+    </a>
+    <figcaption><h4>Standard dashbord med syntetisk lær og karboninnlegg</h4></figcaption>
+</figure>
 
 ## Øvre og nedre del av dashbord i skinn og Dinamica
 
@@ -69,9 +93,21 @@ Svart søm
 
 Merk: kan kun bestilles sammen med sportsseter foran pluss
 
-![Interiør 7 HD](interior_PEH_1.jpg "Skinnfri interiørdesignpakke")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEH_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEH_1s.jpg"
+        alt="Skinnfri interiørdesignpakke" title="Skinnfri interiørdesignpakke">
+    </a>
+    <figcaption><h4>Skinnfri interiørdesignpakke</h4></figcaption>
+</figure>
 
-![Interior 7 HD](interior_PEH_2.jpg "Skinnfri interiørdesignpakke")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEH_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEH_2s.jpg"
+        alt="Skinnfri interiørdesignpakke" title="Skinnfri interiørdesignpakke">
+    </a>
+    <figcaption><h4>Skinnfri interiørdesignpakke</h4></figcaption>
+</figure>
 
 ## RS-design pakker
 
@@ -84,15 +120,33 @@ Pakkene inkluderer
 - Øvre del av instrumentpanel i alcantara
 - Røde eller grå sømmer
 
-![Interiør 7 HD](interior_PEF_1.jpg "RS Designpakke med røde sømmer")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEF_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEF_1s.jpg"
+        alt="RS Designpakke med røde sømmer" title="RS Designpakke med røde sømmer">
+    </a>
+    <figcaption><h4>RS Designpakke med røde sømmer</h4></figcaption>
+</figure>
 
-![Interiør 7 HD](interior_PEF_2.jpg "RS Designpakke med røde sømmer")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEF_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEF_2s.jpg"
+        alt="RS Designpakke med røde sømmer" title="RS Designpakke med røde sømmer">
+    </a>
+    <figcaption><h4>RS Designpakke med røde sømmer</h4></figcaption>
+</figure>
 
 ## Cognac brun Audi eksklusiv designpakke
 
 Dette er alternativ-ID **YVA**
 
-![Audi exclusive](interior_YVA_1.jpg "Cognac brunt interiør. Foto av Auditography")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_YVA_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_YVA_1s.jpg"
+        alt="Cognac brunt interiør. Foto av Auditography" title="Cognac brunt interiør. Foto av Auditography">
+    </a>
+    <figcaption><h4>Cognac brunt interiør. Foto av Auditography</h4></figcaption>
+</figure>
 
 Audi exclusive cognac brun-jet grå designpakke for sportsseter per front inkluderer:
 

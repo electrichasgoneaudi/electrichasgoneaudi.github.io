@@ -4,19 +4,42 @@ linktitle: Interior materials
 description: You can select specific interior materials to give Audi e-tron GT a more exclusive look
 weight: 10
 ---
-
+<!-- markdownlint-disable MD033 -->
 There are serveral levels of interior trim and different design packages.
 
 ## Standard
 
-![Standard](interior_standard_1.jpg "Standard interior trim")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_1s.jpg" 
+        alt="Standard interior trim" title="Standard interior trim">
+    </a>
+    <figcaption><h4>Standard interior trim</h4></figcaption>
+</figure>
 
-![Standard](interior_standard_2.jpg "Standard interior trim")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_2.jpg" 
+        alt="Standard interior trim" title="Standard interior trim">
+    </a>
+    <figcaption><h4>Standard interior trim</h4></figcaption>
+</figure>
 
-![Standard](interior_standard_3.jpg "Standard dashboard with syntetic leather and carbon inlay")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_3s.jpg" 
+        alt="Standard dashboard with syntetic leather and carbon inlay" title="Standard dashboard with syntetic leather and carbon inlay">
+    </a>
+    <figcaption><h4>Standard dashboard with syntetic leather and carbon inlay</h4></figcaption>
+</figure>
 
-![Standard](interior_standard_4.jpg "Standard dashboard with syntetic leather and carbon inlay")
-
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_4s.jpg" 
+        alt="Standard dashboard with syntetic leather and carbon inlay" title="Standard dashboard with syntetic leather and carbon inlay">
+    </a>
+    <figcaption><h4>Standard dashboard with syntetic leather and carbon inlay</h4></figcaption>
+</figure>
 
 ## Upper and lower part of dashboard in leather and Dinamica
 
@@ -70,9 +93,21 @@ Black stitching
 
 Note: can only be ordered in conjunction with front sports seats plus
 
-![Interior 7 HD](interior_PEH_1.jpg "Leather free interior design package")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEH_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEH_1s.jpg"
+        alt="Leather free interior design package" title="Leather free interior design package">
+    </a>
+    <figcaption><h4>Leather free interior design package</h4></figcaption>
+</figure>
 
-![Interior 7 HD](interior_PEH_2.jpg "Leather free interior design package")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEH_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEH_2s.jpg"
+        alt="Leather free interior design package" title="Leather free interior design package">
+    </a>
+    <figcaption><h4>Leather free interior design package</h4></figcaption>
+</figure>
 
 ## RS-design packages
 
@@ -85,15 +120,33 @@ The packages include
 - Upper part of instrument panel in alcantara
 - Red or grey stitchings
 
-![Interior 7 HD](interior_PEF_1.jpg "RS Design package with red stiching")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEF_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEF_1s.jpg"
+        alt="RS Design package with red stiching" title="RS Design package with red stiching">
+    </a>
+    <figcaption><h4>RS Design package with red stiching</h4></figcaption>
+</figure>
 
-![Interior 7 HD](interior_PEF_2.jpg "RS Design package with red stiching")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEF_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEF_2s.jpg"
+        alt="RS Design package with red stiching" title="RS Design package with red stiching">
+    </a>
+    <figcaption><h4>RS Design package with red stiching</h4></figcaption>
+</figure>
 
 ## Cognac brown Audi exclusive design package
 
 This is option id **YVA**
 
-![Audi exclusive](interior_YVA_1.jpg "Cognac brown interior. Photo by Auditography")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_YVA_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_YVA_1s.jpg"
+        alt="Cognac brown interior. Photo by Auditography" title="Cognac brown interior. Photo by Auditography">
+    </a>
+    <figcaption><h4>Cognac brown interior. Photo by Auditography</h4></figcaption>
+</figure>
 
 Audi exclusive cognac brown-jet gray design package for sport seats per front includes:
 
