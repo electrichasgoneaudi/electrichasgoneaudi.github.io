@@ -4,7 +4,7 @@ linktitle: Seter
 description: Audi e-tron GT  og Audi RS e-tron GT har flere seter å velge mellom.
 weight: 1
 ---
-
+<!-- markdownlint-disable MD033 -->
 Tilgjengelig som standard i e-tron GT quattro er sportssetene med elektrisk 8-veis justering og nappa-skinntrekk i kunstskinn/perle. 
 RS e-tron GT er utstyrt med sportsseter pluss med 14-veis justering, korsryggstøtte og setevarme. 
 
@@ -14,13 +14,25 @@ Sportssetene pro med 18-veis justering, pneumatiske sidestøtter, klimakontroll 
 
 Alle seter har elektrisk justering av setehøyde, ryggvinkel og horisontal plassering.
 
-![Elektrisk justering](seat_adjustment_1.jpg "Sete med elektrisk justering og korsryggstøtte")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seat_adjustment_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seat_adjustment_1s.jpg"
+        alt="Sete med elektrisk justering og korsryggstøtte" title="Sete med elektrisk justering og korsryggstøtte">
+    </a>
+    <figcaption><h4>Sete med elektrisk justering og korsryggstøtte</h4></figcaption>
+</figure>
 
 ### Minne
 
 På Sport Plus sete kan du legge til minne. Det er standard på Sport Pro-seter.
 
-![Seteminne](seat_memory.jpg "Seteminne styres i førerdøren")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seat_memory.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seat_memorys.jpg"
+        alt="Seteminne styres i førerdøren" title="Seteminne styres i førerdøren">
+    </a>
+    <figcaption><h4>Seteminne styres i førerdøren</h4></figcaption>
+</figure>
 
 ### 4-veis korsryggstøtte
 
@@ -30,7 +42,13 @@ På Sport Plus- og Pro-seter har du 4-veis elektrisk korsryggstøtte som kan jus
 
 Sport Pro har ventilerte seter.
 
-![Ventilasjonskontroll](seat_ventilationcontrol_1.jpg "Seteventilasjon styres i AC-kontroll")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seat_ventilationcontrol_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seat_ventilationcontrol_1s.jpg"
+        alt="Seteventilasjon styres i AC-kontroll" title="Seteventilasjon styres i AC-kontroll">
+    </a>
+    <figcaption><h4>Seteventilasjon styres i AC-kontroll</h4></figcaption>
+</figure>
 
 ### Massasje
 
@@ -51,7 +69,13 @@ Tilgjengelige massasjeprogrammer:
 
 Massasjen styres fra MMI.
 
-![Massasjekontroll](seats_massage.jpg "Massasjekontroll")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_massage.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_massage.jpg"
+        alt="Massasjekontroll" title="Massasjekontroll">
+    </a>
+    <figcaption><h4>Massasjekontroll</h4></figcaption>
+</figure>
 
 ### Funksjonsoversikt
 
@@ -76,45 +100,130 @@ Massasjen styres fra MMI.
 
 Sportsseter er kun tilgjengelig med sort skinn/kunstskinn mono.pur 555 kombinasjon
 
-![Standardseter](seats_sport_1.jpg "Sportseter i skinn / mono.pur 550 kunstskinn")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sport_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sport_1s.jpg"
+        alt="Sportseter i skinn / mono.pur 550 kunstskinn"" title="Sportseter i skinn / mono.pur 550 kunstskinn"">
+    </a>
+    <figcaption><h4>Sportseter i skinn / mono.pur 550 kunstskinn"</h4></figcaption>
+</figure>
 
-![Standardseter](seats_sport_2.jpg "Sportseter i skinn / mono.pur 550 kunstskinn")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sport_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sport_2s.jpg"
+        alt="Sportseter i skinn / mono.pur 550 kunstskinn"" title="Sportseter i skinn / mono.pur 550 kunstskinn"">
+    </a>
+    <figcaption><h4>Sportseter i skinn / mono.pur 550 kunstskinn"</h4></figcaption>
+</figure>
 
-![Standardseter](seats_sport_3.jpg "Sportseter i skinn / mono.pur 550 kunstskinn")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sport_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sport_3s.jpg"
+        alt="Sportseter i skinn / mono.pur 550 kunstskinn"" title="Sportseter i skinn / mono.pur 550 kunstskinn"">
+    </a>
+    <figcaption><h4>Sportseter i skinn / mono.pur 550 kunstskinn"</h4></figcaption>
+</figure>
 
-![Standardseter](seats_sport_4.jpg "Sportseter i skinn / mono.pur 550 kunstskinn")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sport_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sport_4s.jpg"
+        alt="Sportseter i skinn / mono.pur 550 kunstskinn"" title="Sportseter i skinn / mono.pur 550 kunstskinn"">
+    </a>
+    <figcaption><h4>Sportseter i skinn / mono.pur 550 kunstskinn"</h4></figcaption>
+</figure>
 
 ## Sport Plus-seter
 
 Polstring er tilgjengelig enten som en kombinasjon av kunstskinn og Kaskade-materialet eller som en blanding av mono.pur 550 kunstskinn og mikrofibermaterialet Dinamica. I begge tilfeller består dekslene hovedsakelig av materialer som polyesterfibre som ble laget av resirkulerte PET-flasker, tekstiler eller restfibre. Hvert sett med Kaskade-deksler er laget av 119 resirkulerte plastflasker. Dinamica er et pustende mikrofibermateriale laget proporsjonalt av resirkulerte polyesterfibre og resirkulert PET. Kaskade minner om naturlige fibre som ull og gir en veldig behagelig sittefølelse. Sømmen på setesenterpanelene på begge dekslene er basert på utseendet til Singleframe.
 
-![Sport Plus-seter](seats_sportplus_1.jpg "Sport Plus-seter med kaskadestoff/kunstig mono.pur 550-skinn")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportplus_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportplus_1s.jpg"
+        alt="Sport Plus-seter med kaskadestoff/kunstig mono.pur 550-skinn" title="Sport Plus-seter med kaskadestoff/kunstig mono.pur 550-skinn">
+    </a>
+    <figcaption><h4>Sport Plus-seter med kaskadestoff/kunstig mono.pur 550-skinn</h4></figcaption>
+</figure>
 
-![Sport Plus-seter](seats_sportplus_2.jpg "Sport Plus-seter kaskadestoff/kunstig mono.pur 550 skinn")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportplus_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportplus_2s.jpg"
+        alt="Sport Plus-seter med kaskadestoff/kunstig mono.pur 550-skinn" title="Sport Plus-seter med kaskadestoff/kunstig mono.pur 550-skinn">
+    </a>
+    <figcaption><h4>Sport Plus-seter med kaskadestoff/kunstig mono.pur 550-skinn</h4></figcaption>
+</figure>
 
-![Sport Plus-seter](seats_sportplus_3.jpg "Sport Plus-seter kaskadestoff/kunstig mono.pur 550 skinn")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportplus_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportplus_3s.jpg"
+        alt="Sport Plus-seter med kaskadestoff/kunstig mono.pur 550-skinn" title="Sport Plus-seter med kaskadestoff/kunstig mono.pur 550-skinn">
+    </a>
+    <figcaption><h4>Sport Plus-seter med kaskadestoff/kunstig mono.pur 550-skinn</h4></figcaption>
+</figure>
 
 For Color & Trim-konseptet til Audi e-tron GT ble materialene fullstendig redefinert og et skinnfritt interiør ble utviklet. Denne videoen viser hvordan stoffet Kaskade ble utviklet for Audi e-tron GT.
 
 {{< youtube vll4qtT-cQU >}}
 
-
 ## Sport Pro-seter
 
 Sport Pro-seter er de mest avanserte setene. De har 18-veis justering for å gjøre det mulig å justere den for perfekt passform for fører/passasjer.
 
-![Sport Pro-seter](seats_sportpro_7.jpg "Sport Pro-seter med 18-veis justering")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportpro_7.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportpro_7s.jpg"
+        alt="Sport Pro-seter med 18-veis justering" title="Sport Pro-seter med 18-veis justering">
+    </a>
+    <figcaption><h4>Sport Pro-seter med 18-veis justering</h4></figcaption>
+</figure>
+
 
 Sport pro-seter er tilgjengelig med perforert skinn i forskjellige farger.
 
-![Sport Pro-seter](seats_sportpro_1.jpg "Sport Pro-seter")
 
-![Sport Pro-seter](seats_sportpro_2.jpg "Sport Pro-seter")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportpro_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportpro_1s.jpg"
+        alt="Sport Pro-seter" title="Sport Pro-seter">
+    </a>
+    <figcaption><h4>Sport Pro-seter</h4></figcaption>
+</figure>
 
-![Sport Pro-seter](seats_sportpro_3.jpg "Sport Pro-seter")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportpro_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportpro_2s.jpg"
+        alt="Sport Pro-seter" title="Sport Pro-seter">
+    </a>
+    <figcaption><h4>Sport Pro-seter</h4></figcaption>
+</figure>
 
-![Sport Pro-seter](seats_sportpro_4.jpg "Sport Pro-seter")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportpro_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportpro_3s.jpg"
+        alt="Sport Pro-seter" title="Sport Pro-seter">
+    </a>
+    <figcaption><h4>Sport Pro-seter</h4></figcaption>
+</figure>
 
-![Sport Pro-seter](seats_sportpro_5.jpg "Sport Pro-seter ventilert skinn")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportpro_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportpro_4s.jpg"
+        alt="Sport Pro-seter" title="Sport Pro-seter">
+    </a>
+    <figcaption><h4>Sport Pro-seter</h4></figcaption>
+</figure>
 
-![Sport Pro-seter](seats_sportpro_6.jpg "Sport Pro-seter ventilert skinn")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportpro_5.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportpro_5s.jpg"
+        alt="Sport Pro-seter ventilert skinn" title="Sport Pro-seter ventilert skinn">
+    </a>
+    <figcaption><h4>Sport Pro-seter ventilert skinn</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportpro_6.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportpro_6s.jpg"
+        alt="Sport Pro-seter ventilert skinn" title="Sport Pro-seter ventilert skinn">
+    </a>
+    <figcaption><h4>Sport Pro-seter ventilert skinn</h4></figcaption>
+</figure>

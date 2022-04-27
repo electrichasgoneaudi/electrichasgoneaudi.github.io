@@ -4,7 +4,7 @@ linktitle: Interior & ambient lights
 description: Audi e-tron GT / Audi RS e-tron GT has some standard interior lights and some additional options.
 weight: 3
 ---
-
+<!-- markdownlint-disable MD033 -->
 ## Standard Interior lights
 
 The following interior lights are standard on Audi e-tron GT
@@ -21,8 +21,20 @@ The following interior lights are standard on Audi e-tron GT
 White lights with option id **QQ1** and multicolor with 30 color options per controllable
 area with option id **QQ2**.
 
-![Ambient lights](ambientlight_control.jpg "The lighs are controlled in MMI")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/lights/ambientlight_control.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/lights/ambientlight_controls.jpg"
+        alt="The lighs are controlled in MMI" title="The lighs are controlled in MMI">
+    </a>
+    <figcaption><h4>The lighs are controlled in MMI</h4></figcaption>
+</figure>
 
 The color can change based on your drive mode in [Audi Drive Select](/models/e-tron-gt/technology/audidriveselect/).
 
-![Ambient lights](ambientlight_1.jpg "Multicolor interior lights")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/lights/ambientlight_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/lights/ambientlight_1s.jpg"
+        alt="Multicolor interior lights" title="Multicolor interior lights">
+    </a>
+    <figcaption><h4>Multicolor interior lights</h4></figcaption>
+</figure>

@@ -4,7 +4,7 @@ linktitle: Interiør & ambientbelysning
 description: Audi e-tron GT / Audi RS e-tron GT har 
 weight: 3
 ---
-
+<!-- markdownlint-disable MD033 -->
 ## Standard interiørlys
 
 Følgende interiørlys er standard på Audi e-tron GT
@@ -21,8 +21,20 @@ Følgende interiørlys er standard på Audi e-tron GT
 Hvite lys med alternativ-ID **QQ1** og flerfarget med 30 fargealternativer per kontrollerbar
 område med alternativ-ID **QQ2**.
 
-![Omgivelseslys](ambientlight_control.jpg "Lysene styres i MMI")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/lights/ambientlight_control.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/lights/ambientlight_controls.jpg"
+        alt="Lysene styres i MMI" title="Lysene styres i MMI">
+    </a>
+    <figcaption><h4>Lysene styres i MMI</h4></figcaption>
+</figure>
 
 Fargen kan endres basert på kjøremodusen din i [Audi Drive Select](/models/e-tron-gt/technology/audidriveselect/).
 
-![Omgivelseslys](ambientlight_1.jpg "Multicolor interiørlys")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/lights/ambientlight_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/lights/ambientlight_1s.jpg"
+        alt="Multicolor interiørlys" title="Multicolor interiørlys">
+    </a>
+    <figcaption><h4>Multicolor interiørlys</h4></figcaption>
+</figure>
