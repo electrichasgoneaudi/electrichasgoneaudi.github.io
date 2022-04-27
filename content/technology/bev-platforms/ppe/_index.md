@@ -14,7 +14,7 @@ With its special architecture, it provides the conditions needed for ultra-moder
 technology that satisfies the demanding customer requests in the full-size and luxury-class
 segments.
 
-![A6 e-tron](../../../models/a6-e-tron/a6-etron-1.jpg "A6 e-tron")
+![A6 e-tron](https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-1.jpg "A6 e-tron")
 
 PPE will take on the role in the world of electric vehicles that the modular longitudinal
 platform holds in vehicles powered by combustion engines. It is characterized by a high-tech
