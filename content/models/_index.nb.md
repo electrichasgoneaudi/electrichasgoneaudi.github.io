@@ -11,7 +11,7 @@ Se nedenfor for vår unike inngående informasjon om de forskjellige modellene o
 
 ## Audi e-tron
 
-[![Audi e-tron](e-tron/variants/variants1.jpg)](/nb/e-tron/)
+[![Audi e-tron](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/variants1.jpg)](/nb/e-tron/)
 
 [Audi e-tron](e-tron/) er den første fullelektriske modellen fra Audi og er tilgjengelig i 6 varianter. Den sportslige SUV-en kombinerer plassen og komforten til en typisk luksusbil med et utvalg som er egnet for daglig bruk, og fører føreren inn i en ny æra med elektrisk firehjulsdrift.
 
@@ -35,7 +35,7 @@ Audi Q4 e-tron og Q4 Sportback e-tron er de første kompakte elektriske SUV-ene 
 
 ## Audi Q6 e-tron
 
-[![Audi Q6 e-tron](q6-e-tron/prototype1.jpg)](q6-e-tron/)
+[![Audi Q6 e-tron](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype1.jpg)](q6-e-tron/)
 
 [Audi Q6 e-tron](q6-e-tron/) får verdenspremiere i 2022 og blir den fjerde helelektriske modellen fra Audi. Den er bygget på den nye PPE -plattformen laget sammen med Porsche. Forventes å komme i forskjellige varianter og være den mest sportslige helelektriske SUV-en fra Audi.
 
@@ -55,7 +55,7 @@ Meld deg inn i vår norske [Audi Q8 e-tron Facebook gruppe](https://www.facebook
 
 ## Audi A6 e-tron
 
-[![Audi A6 e-tron](a6-e-tron/a6-etron-1.jpg)](a6-e-tron/)
+[![Audi A6 e-tron](https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-1.jpg)](a6-e-tron/)
 
 Audi A6 e-tron ble avslørt i april 2021 som en konseptbil. Den forventes å ha verdenspremiere i 2023 og vil være den femte helelektriske modellen fra Audi. Med rekkevidde på opptil 700 km vil den modellen med lengst rekkevidde.
 
