@@ -9,8 +9,7 @@ The following guide is based on the basic model. Many markets have trim package 
 
 Below are the most important options you need to consider when buying an e-tron GT
 
-
-![Privacy Windows](../exterior/paint/paint_daytona_2s.jpg)
+![Privacy Windows](https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_daytona_2s.jpg)
 
 ## Privacy windows: Option ID QL5
 
@@ -26,7 +25,7 @@ The tour package contains most of the important driver assist functionality  lik
 
 The City assist package include [Side Assist](../technology/drivingassistance/sideassist/), [exit warning](../technology/drivingassistance/exitwarning/), [cross traffic assist rear](../technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](../technology/drivingassistance/presenserear/), [Audi pre sense side](../technology/drivingassistance/presenseside/) and [crossing assist](../technology/drivingassistance/crossingassist/)
 
-![QQ2](../interior/lights/ambientlight_1.jpg)
+![QQ2](https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/lights/ambientlight_1s.jpg)
 
 ## Multicolour ambient lightning: Option ID QQ2
 

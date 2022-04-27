@@ -4,10 +4,16 @@ linktitle: Variants
 description: Audi e-tron GT and Audi RS e-tron GT are the two variants available.
 weight: 1
 ---
-
+<!-- markdownlint-disable MD033 -->
 ## Audi e-tron GT
 
-![Audi e-tron GT](e-tron-gt.jpg "Audi e-tron GT")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/variants/e-tron-gt.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/variants/e-tron-gts.jpg"
+        alt="Audi e-tron GT" title="Audi e-tron GT">
+    </a>
+    <figcaption><h4>Audi e-tron GT</h4></figcaption>
+</figure>
 
 With a power output of 390kW (530HP) in boost mode, Audi e-tron GT goes 0-100km/h in only 4.1 seconds. The large battery on 93.4kWh gross (83.7kWh) gives it a WLTP-range between 452-488km (280-303 miles).
 
@@ -15,7 +21,13 @@ With a power output of 390kW (530HP) in boost mode, Audi e-tron GT goes 0-100km/
 
 ## Audi RS e-tron GT
 
-![Audi RS e-tron GT](rs-e-tron-gt.jpg "Audi RS e-tron GT")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/variants/rs-e-tron-gt.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/variants/rs-e-tron-gts.jpg"
+        alt="Audi RS e-tron GT" title="Audi RS e-tron GT">
+    </a>
+    <figcaption><h4>Audi RS e-tron GT</h4></figcaption>
+</figure>
 
 Audi RS e-tron GT looks the same as Audi e-tron GT but has a higher equipment trim with more equipment as standard.
 
