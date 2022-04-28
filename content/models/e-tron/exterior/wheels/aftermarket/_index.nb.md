@@ -88,3 +88,28 @@ Solgt som vinterdekk i Norge av Audi Norge
     </a>
     <figcaption><h4>22" x 10 Nitro Magnum</h4></figcaption>
 </figure>
+
+## Japan Racing JR28
+
+10,5x22 ET32
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/japan_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/japan_1s.jpg" alt="Japan Racing JR28" title="Japan Racing JR28">
+    </a>
+    <figcaption><h4>Japan Racing JR28</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/japan_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/japan_2s.jpg" alt="Japan Racing JR28" title="Japan Racing JR28">
+    </a>
+    <figcaption><h4>Japan Racing JR28</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/japan_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/japan_3s.jpg" alt="Japan Racing JR28" title="Japan Racing JR28">
+    </a>
+    <figcaption><h4>Japan Racing JR28</h4></figcaption>
+</figure>
