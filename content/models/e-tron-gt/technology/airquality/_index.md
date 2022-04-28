@@ -4,7 +4,7 @@ linktitle: Air Quality
 description: Audi e-tron GT have some standard equipment and some options to make the air better inside the car.
 weight: 11
 ---
-
+<!-- markdownlint-disable MD033 -->
 
 ## Air quality package
 
@@ -22,6 +22,12 @@ The air quality package includes a particulate measuring sensor. It determines t
 
 Option id **2V4**
 
-![Air quality system](airqualitypackage.jpg "Air Quality package system")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/airquality/airqualitypackage.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/airquality/airqualitypackages.jpg"
+        alt="Air Quality package system" title="Air Quality package system">
+    </a>
+    <figcaption><h4>Air Quality package system</h4></figcaption>
+</figure>
 
 {{% children description="true" depth="1" %}}
