@@ -90,7 +90,7 @@ Sold as winter tires by Audi Norway.
 
 ## Japan Racing JR28
 
-10,5x22 ET32
+10,5x22 ET32 with 265 x 40 tires
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/japan_1.jpg">

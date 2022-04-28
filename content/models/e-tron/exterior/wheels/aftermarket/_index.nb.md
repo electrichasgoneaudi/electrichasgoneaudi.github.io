@@ -91,7 +91,7 @@ Solgt som vinterdekk i Norge av Audi Norge
 
 ## Japan Racing JR28
 
-10,5x22 ET32
+10,5x22 ET32 med 265 x 40 dekk
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/japan_1.jpg">
