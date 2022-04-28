@@ -4,25 +4,75 @@ linktitle: Transportkapasitet
 description: I tillegg til de 5 setene har e-tron GT både bagasjerom og frunk i tillegg til mulighet for taklast.
 weight: 6
 ---
-
+<!-- markdownlint-disable MD033 -->
 
 ## Bagasjerom
 
-![Trunk](trunk_1.jpg "Trunk Audi e-tron GT")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/transportation/trunk_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/transportation/trunk_1s.jpg"
+        alt="Bagasjerom Audi e-tron GT" title="Bagasjerom Audi e-tron GT">
+    </a>
+    <figcaption><h4>Bagasjerom Audi e-tron GT</h4></figcaption>
+</figure>
 
-![Trunk](trunk_5.jpg "Trunk Audi e-tron GT")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/transportation/trunk_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/transportation/trunk_1s.jpg"
+        alt="Bagasjerom Audi e-tron GT" title="Bagasjerom Audi e-tron GT">
+    </a>
+    <figcaption><h4>Bagasjerom Audi e-tron GT</h4></figcaption>
+</figure>
 
-![Trunk](trunk_3.jpg "Setene har en 40-20-40-konfigurasjon")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/transportation/trunk_5.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/transportation/trunk_5s.jpg"
+        alt="Bagasjerom Audi e-tron GT" title="Bagasjerom Audi e-tron GT">
+    </a>
+    <figcaption><h4>Bagasjerom Audi e-tron GT</h4></figcaption>
+</figure>
 
-![Trunk](trunk_4.jpg "Setene har en 40-20-40-konfigurasjon")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/transportation/trunk_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/transportation/trunk_3s.jpg"
+        alt="Setene har en 40-20-40-konfigurasjon" title="Setene har en 40-20-40-konfigurasjon">
+    </a>
+    <figcaption><h4>Setene har en 40-20-40-konfigurasjon</h4></figcaption>
+</figure>
 
-![Trunk](trunk_2.jpg "Setene har en 40-20-40-konfigurasjon")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/transportation/trunk_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/transportation/trunk_4s.jpg"
+        alt="Setene har en 40-20-40-konfigurasjon" title="Setene har en 40-20-40-konfigurasjon">
+    </a>
+    <figcaption><h4>Setene har en 40-20-40-konfigurasjon</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/transportation/trunk_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/transportation/trunk_2s.jpg"
+        alt="Setene har en 40-20-40-konfigurasjon" title="Setene har en 40-20-40-konfigurasjon">
+    </a>
+    <figcaption><h4>Setene har en 40-20-40-konfigurasjon</h4></figcaption>
+</figure>
 
 ## Frunk
 
-![Trunk](frunk_1.jpg "Frunk Audi e-tron GT")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/transportation/frunk_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/transportation/frunk_1s.jpg"
+        alt="Frunk Audi e-tron GT" title="Frunk Audi e-tron GT">
+    </a>
+    <figcaption><h4>Frunk Audi e-tron GT</h4></figcaption>
+</figure>
 
-![Trunk](frunk_2.jpg "Funken kan åpnes fra en knapp på førerdøren")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/transportation/frunk_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/transportation/frunk_2s.jpg"
+        alt="Funken kan åpnes fra en knapp på førerdøren" title="Funken kan åpnes fra en knapp på førerdøren">
+    </a>
+    <figcaption><h4>Funken kan åpnes fra en knapp på førerdøren</h4></figcaption>
+</figure>
 
 ## Taklast
 
@@ -30,16 +80,46 @@ Du kan lagre opptil 75 kg på taket.
 
 ![Taklagring](roof_storage_1.jpg "e-tron GT med takboks")
 
-
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/transportation/roof_storage_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/transportation/roof_storage_1s.jpg"
+        alt="e-tron GT med takboks" title="e-tron GT med takboks">
+    </a>
+    <figcaption><h4>e-tron GT med takboks</h4></figcaption>
+</figure>
 
 ## Eksempel på lagring
 
 Her er noen eksempler på hva man kan lagre
 
-![Real life example](reallife1.jpg "Real life example of storage capacity")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/transportation/reallife1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/transportation/reallife1s.jpg"
+        alt="Real life example of storage capacity" title="Real life example of storage capacity">
+    </a>
+    <figcaption><h4>Real life example of storage capacity</h4></figcaption>
+</figure>
 
-![Real life example](reallife2.jpg "Real life example of storage capacity")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/transportation/reallife2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/transportation/reallife2s.jpg"
+        alt="Real life example of storage capacity" title="Real life example of storage capacity">
+    </a>
+    <figcaption><h4>Real life example of storage capacity</h4></figcaption>
+</figure>
 
-![Real life example](reallife3.jpg "Real life example of storage capacity, 32 bottles in frunk")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/transportation/reallife3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/transportation/reallife3s.jpg"
+        alt="Real life example of storage capacity" title="Real life example of storage capacity">
+    </a>
+    <figcaption><h4>Real life example of storage capacity. 32 bottles in frunk</h4></figcaption>
+</figure>
 
-![Real life example](reallife4.jpg "Real life example of storage capacity")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/transportation/reallife4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/transportation/reallife4s.jpg"
+        alt="Real life example of storage capacity" title="Real life example of storage capacity">
+    </a>
+    <figcaption><h4>Real life example of storage capacity</h4></figcaption>
+</figure>
