@@ -4,12 +4,18 @@ linktitle: MEB
 description: Hva det modulære transversale verktøysettet (MQB) er for modellutvalget med forbrenningsmotorer, vil det modulære elektrifiseringsverktøysettet (MEB) være for de helelektriske Audi-modellene. 
 weight: 3
 ---
-
+<!-- markdownlint-disable MD033 -->
 MEB gir det tekniske grunnlaget for fremtidens kompakte og mellomstore klassemodeller fra Audi.
 Denne plattformen gir dermed inngangspunktet til den elektriske modellporteføljen til merket
 de fire ringene
 
-![Meb](meb1.jpg "Modular Electrification Toolkit (MEB) drivverk")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/meb1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/meb1s.jpg"
+        alt="Modular Electrification Toolkit (MEB) drivverk" title="Modular Electrification Toolkit (MEB) drivverk">
+    </a>
+    <figcaption><h4>Modular Electrification Toolkit (MEB) drivverk</h4></figcaption>
+</figure>
 
 Ved å bruke den konserndekkende MEB-plattformen kan Audi tilby sine kunder rimelig, men teknisk sett
 sofistikerte elektriske modeller med det umiskjennelige Audi DNA. Fascinerende design, interiør av høy kvalitet og et toppmoderne operativsystem. Bruken av maksimale plattformsynergier i konsernet gjør elektrisk mobilitet attraktiv for mange nye kunder i
@@ -26,7 +32,13 @@ Modeller fra andre merker som for tiden bruker MEB er
 - Skoda Enyaq
 - Cupra Born
 
-![Skoda Enyaq](enyaq.jpg "Skoda Enyaq er bygget på MEB")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/enyaq.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/enyaqs.jpg"
+        alt="Skoda Enyaq er bygget på MEB" title="Skoda Enyaq er bygget på MEB">
+    </a>
+    <figcaption><h4>Skoda Enyaq er bygget på MEB</h4></figcaption>
+</figure>
 
 I motsetning til dagens modeller med forbrenningsmotorer, fronten
 seksjonen er betydelig kortere—forakselen og brannmuren beveger seg fremover, noe som gjør at

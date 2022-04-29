@@ -4,12 +4,18 @@ linktitle: MEB
 description: What the modular transversal toolkit (MQB) is for the model range with combustion engines, the modular electrification toolkit (MEB) will be for the all-electric Audi models.
 weight: 3
 ---
-
+<!-- markdownlint-disable MD033 -->
 The MEB provides the technical basis for the future compact and medium-size class models from Audi.
 This platform thus provides the entry point into the electric model portfolio of the brand with
 the four rings
 
-![Meb](meb1.jpg "Modular Electrification Toolkit (MEB) drivetrain")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/meb1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/meb1s.jpg"
+        alt="Modular Electrification Toolkit (MEB) drivetrain" title="Modular Electrification Toolkit (MEB) drivetrain">
+    </a>
+    <figcaption><h4>Modular Electrification Toolkit (MEB) drivetrain</h4></figcaption>
+</figure>
 
 By using the group-wide MEB platform, Audi can offer its customers affordable yet technically
 sophisticated electric models with the unmistakable Audi DNA. Fascinating design, high-quality interior workmanship, and a top-of-the-line operating system. The use of maximum platform synergies in the Group makes electric mobility attractive to many new customers in
@@ -26,7 +32,13 @@ Models from oter brands that currently use MEB are
 - Skoda Enyaq
 - Cupra Born
 
-![Skoda Enyaq](enyaq.jpg "Skoda Enyaq is built on MEB")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/enyaq.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/enyaqs.jpg"
+        alt="Skoda Enyaq is built on MEB" title="Skoda Enyaq is built on MEB">
+    </a>
+    <figcaption><h4>Skoda Enyaq is built on MEB</h4></figcaption>
+</figure>
 
 In contrast to the current models with combustion engines, the front
 section is considerably shorter—the front axle and firewall move forward, making the

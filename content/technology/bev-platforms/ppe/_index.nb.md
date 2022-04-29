@@ -4,7 +4,7 @@ linktitle: PPE
 description: For sine fullstørrelsesklasse- og luksusmodeller er Audi avhengig av en fjerde plattform.
 weight: 4
 ---
-
+<!-- markdownlint-disable MD033 -->
 Premium Platform Electric (PPE) er designet og utviklet i samarbeid med Porsche fra
 start. Porsche vil bruke den til sin kommende Porsche Macan, mens Audi vil bruke den til [Audi Q6 e-tron](../../../models/q6-e-tron/)
 og [A6 e-tron](../../../models/a6-e-tron/) og andre.
@@ -13,7 +13,14 @@ Med sin spesielle arkitektur gir den forholdene som trengs for ultramoderne
 teknologi som tilfredsstiller de krevende kundeønsker i full størrelse og luksusklassen
 segmenter.
 
-![A6 e-tron](../../../models/a6-e-tron/a6-etron-1.jpg "A6 e-tron")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-1s.jpg"
+        alt="A6 e-tron" title="A6 e-tron">
+    </a>
+    <figcaption><h4>A6 e-tron</h4></figcaption>
+</figure>
+
 
 PPE vil ta på seg rollen i verden av elektriske kjøretøy som modulær langsgående
 plattformen holder i kjøretøy drevet av forbrenningsmotorer. Det er preget av en høyteknologisk
@@ -22,7 +29,13 @@ og svært skalerbar arkitektur som gjør at kjøretøyer i både lavt og høyt g
 Audi utvikler ulike modellserier på basis av PPE som skal dekke segmentene fra
 den øvre mellomklasseklassen til luksusklassen som SUV-er, Sportbacks, Avants og Crossovers med ulike kjøretøytyper. Ved å gjøre dette utvider merket også sin nåværende modellportefølje i fullstørrelsesklassen og luksussegmentene ved å legge til en rekke elektriske varianter.
 
-![Porsche Macan](macan.jpg "Porsche Macan prototype basert på PPE")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/macan.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/macans.jpg"
+        alt="Porsche Macan prototype basert på PPE" title="Porsche Macan prototype basert på PPE">
+    </a>
+    <figcaption><h4>Porsche Macan prototype basert på PPE</h4></figcaption>
+</figure>
 
 Teknologipakken på PPE er generelt lik den til MEB; i tillegg tilbyr den
 stort potensial når det gjelder produksjon og ytelse. Som standard er kjøretøyene utstyrt med
@@ -70,7 +83,13 @@ De første modellene på denne plattformen kommer med to batteristørrelser.
 - 12 moduler med 100 kWh brutto (94 kWh netto)
 - 10 moduler med 83,3kWh brutto (78kWh netto).
 
-![Batteri](battery.png "PPE-batteri med 12 moduler")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/battery.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/batterys.png"
+        alt="PPE-battery with 12 modules" title="PPE-battery with 12 modules">
+    </a>
+    <figcaption><h4>PPE-battery with 12 modules</h4></figcaption>
+</figure>
 
 Cellene vil være [prismatiske](../../battery/cell/#prismatisk-hus) og hver modul forventes å ha 34 celler på 67AH.
 
@@ -83,7 +102,14 @@ Dette gir
 
 Modeller basert på PPE vil bli levert med ulike motoroppsett i kombinasjon med det lille og store batteriet.
 
-![Motorer](motors.jpg)
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/motors.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/motorss.jpg"
+        alt="PPE Motors" title="PPE Motors">
+    </a>
+    <figcaption><h4>PPE Motors</h4></figcaption>
+</figure>
+
 
 Modellene vil ha fra rundt 300HK til nærmere 700HK avhengig av oppsett.
 
@@ -91,8 +117,10 @@ Modellene vil ha fra rundt 300HK til nærmere 700HK avhengig av oppsett.
 
 I 2020 hadde Audi en presentasjon der de diskuterte noen av forbedringene av den nye plattformen i forhold til MLB evo-plattformen.
 
-![Plattformer](ppepresentation1.png "PPE-oversikt")
-
-![Plattformer](ppepresentation2.png "PPE vs MLB evo")
-
-{{% children description="true" depth="1" %}}
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/ppepresentation2.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/ppepresentation2s.png"
+        alt="PPE vs MLB evo" title="PPE vs MLB evo">
+    </a>
+    <figcaption><h4>PPE vs MLB evo</h4></figcaption>
+</figure>
