@@ -19,7 +19,7 @@ Se nedenfor for vår unike inngående informasjon om de forskjellige modellene o
 
 ## Audi e-tron GT
 
-[![Audi e-tron](e-tron-gt/variants/variants.jpg)](e-tron-gt/)
+[![Audi e-tron](https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/variants/variants.jpg)](e-tron-gt/)
 
 Audi e-tron GT er den andre fullelektriske modellen fra Audi. Med Audi RS e-tron GT-versjonen har Audi laget sin kraftigste RS-modell noensinne. Og designet gjør den til en av de vakreste bilene i vår tid.
 

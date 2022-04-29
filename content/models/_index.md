@@ -22,7 +22,7 @@ The [Audi e-tron](e-tron/) is the first all-electric model from Audi and is avai
 
 ## Audi e-tron GT
 
-[![Audi e-tron](e-tron-gt/variants/variants.jpg)](e-tron-gt/)
+[![Audi e-tron](https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/variants/variants.jpg)](e-tron-gt/)
 
 Audi e-tron GT is the second all-electric model from Audi. With the Audi RS e-tron GT version, Audi has made their most powerful RS-model ever. And the design makes it one of the most beautiful car in our time.
 
