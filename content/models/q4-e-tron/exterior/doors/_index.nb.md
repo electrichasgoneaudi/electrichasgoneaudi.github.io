@@ -4,7 +4,7 @@ linktitle: Dører
 description: Audi har noen funksjoner og alternativer på dører og luke.
 weight: 8
 ---
-
+<!-- markdownlint-disable MD033 -->
 ## Automatisk låsing
 
 Du kan aktivere låsing av dører under kjøring. Disse innstillingene finnes i MMI
@@ -30,6 +30,10 @@ Hvis du får [advance key option](../../technology/lockingsystems/#advance-key-o
 Hvis du får [advance key option](../../technology/lockingsystems/#advance-key-option-pgc) får du en låseknapp på bakluken
 slik at du kan låse bilen.
 
-![Baklukelåsing](tailgatelocking.jpg "Baklukelåsing")
-
-{{% children description="true" depth="1" %}}
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/doors/tailgatelocking.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/doors/tailgatelockings.jpg" 
+        alt="Baklukelåsing" title="Baklukelåsing">
+    </a>
+    <figcaption><h4>Baklukelåsing</h4></figcaption>
+</figure>

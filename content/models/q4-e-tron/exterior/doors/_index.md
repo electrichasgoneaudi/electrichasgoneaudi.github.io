@@ -4,7 +4,7 @@ linktitle: Doors
 description: Audi has some feature and options on doors and hatch.
 weight: 8
 ---
-
+<!-- markdownlint-disable MD033 -->
 
 ## Automatic locking
 
@@ -31,6 +31,10 @@ If you get the [advance key option](../../technology/lockingsystems/#advance-key
 If you get the [advance key option](../../technology/lockingsystems/#advance-key-option-pgc) you get a locking button on tailgate
 so you can lock the car.
 
-![Tailgate locking](tailgatelocking.jpg "Tailgate locking")
-
-{{% children description="true" depth="1" %}}
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/doors/tailgatelocking.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/doors/tailgatelockings.jpg" 
+        alt="Tailgate locking" title="Tailgate locking">
+    </a>
+    <figcaption><h4>Tailgate locking</h4></figcaption>
+</figure>

@@ -4,7 +4,7 @@ linktitle: S-line
 description: S-line eksteriørpakken inneholder ekstra styling elementer. 
 weight: 3
 ---
-
+<!-- markdownlint-disable MD033 -->
 Den mer karakteristiske støtfangeren er flankert av mer uttrykksfulle sølvfargete luftinntak .
 
 I tillegg har Single frame-grillen et skyggeutseende sammenlignet med standarden som har er ensartet sølvfarge
