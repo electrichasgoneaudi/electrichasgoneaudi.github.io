@@ -15,8 +15,8 @@ There is 3 different optics to choose from
 Silver optics is the standard optic.
 
 <figure>
-    <a href="silveroptics.jpg">
-        <img src="silveropticss.jpg" alt="Audi Q4 with silver optics in Navarra Blue" title="Audi Q4 with silver optics in Navarra Blue">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/optics/silveroptics.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/optics/silveropticss.jpg" alt="Audi Q4 with silver optics in Navarra Blue" title="Audi Q4 with silver optics in Navarra Blue">
     </a>
     <figcaption><h4>Audi Q4 with silver optics in Navarra Blue</h4></figcaption>
 </figure>
@@ -30,15 +30,15 @@ Video with Mythos black with Silver optics. Warning: No privacy windows. Can't u
 Shadow optics is the standard optics for S-line exterior
 
 <figure>
-    <a href="shadowlook.jpg">
-        <img src="shadowlooks.jpg" alt="Typhoon grey with shadow optics" title="Typhoon grey with shadow optics">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/optics/shadowlook.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/optics/shadowlooks.jpg" alt="Typhoon grey with shadow optics" title="Typhoon grey with shadow optics">
     </a>
     <figcaption><h4>Typhoon grey with shadow optics</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="shadowlook2.jpg">
-        <img src="shadowlook2s.jpg" alt="Florett Silver with Shadow look and contrast color" title="Florett Silver with Shadow look and contrast color">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/optics/shadowlook2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/optics/shadowlook2s.jpg" alt="Florett Silver with Shadow look and contrast color" title="Florett Silver with Shadow look and contrast color">
     </a>
     <figcaption><h4>Florett Silver with Shadow look and contrast color</h4></figcaption>
 </figure>
@@ -56,8 +56,8 @@ Black moldings around the side windows
 Rails in black
 
 <figure>
-    <a href="paint_typhoongrey_1.jpg">
-        <img src="paint_typhoongrey_1s.jpg" alt="Audi Q4 50 e-tron quattro in typhoon grey and shadow look plus" title="Audi Q4 50 e-tron quattro in typhoon grey and shadow look plus">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/optics/paint_typhoongrey_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/optics/paint_typhoongrey_1s.jpg" alt="Audi Q4 50 e-tron quattro in typhoon grey and shadow look plus" title="Audi Q4 50 e-tron quattro in typhoon grey and shadow look plus">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro in typhoon grey and shadow look plus</h4></figcaption>
 </figure>
@@ -67,22 +67,22 @@ Rails in black
 The black optics package contains gloss black front, rails and window rims. Option code **4ZD**
 
 <figure>
-    <a href="optics_black_1.jpg">
-        <img src="optics_black_1s.jpg" alt="Audi Q4 50 e-tron sportback quattro in Stone grey black optics" title="Audi Q4 50 e-tron sportback quattro in Stone grey black optics">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/optics/optics_black_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/optics/optics_black_1s.jpg" alt="Audi Q4 50 e-tron sportback quattro in Stone grey black optics" title="Audi Q4 50 e-tron sportback quattro in Stone grey black optics">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron sportback quattro in Stone grey black optics</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="paint_glacierwhite_5.jpg">
-        <img src="paint_glacierwhite_5s.jpg" alt="Audi Q4 Sportback 50 e-tron quattro in Glacier white with black optics" title="Audi Q4 Sportback 50 e-tron quattro in Glacier white with black optics">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/optics/paint_glacierwhite_5.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/optics/paint_glacierwhite_5s.jpg" alt="Audi Q4 Sportback 50 e-tron quattro in Glacier white with black optics" title="Audi Q4 Sportback 50 e-tron quattro in Glacier white with black optics">
     </a>
     <figcaption><h4>Audi Q4 Sportback 50 e-tron quattro in Glacier white with black optics</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="paint_auroraviolet_4.jpg">
-        <img src="paint_auroraviolet_4s.jpg" alt="Audi Q4 Sportback 40 e-tron quattro in Aurora Violett with black optics" title="Audi Q4 Sportback 40 e-tron quattro in Aurora Violett with black optics">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/optics/paint_auroraviolet_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/optics/paint_auroraviolet_4s.jpg" alt="Audi Q4 Sportback 40 e-tron quattro in Aurora Violett with black optics" title="Audi Q4 Sportback 40 e-tron quattro in Aurora Violett with black optics">
     </a>
     <figcaption><h4>Audi Q4 Sportback 40 e-tron quattro in Aurora Violett with black optics</h4></figcaption>
 </figure>
@@ -92,27 +92,27 @@ The black optics package contains gloss black front, rails and window rims. Opti
 In addition to the black element in black optics package the Audi logo rings is black in rear and bronze in front.
 
 <figure>
-    <a href="blackopticsplus_1.jpg">
-        <img src="blackopticsplus_1s.jpg" alt="Glacierwhite Audi Q4 e-tron with black optics plus" title="Glacierwhite Audi Q4 e-tron with black optics plus">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/optics/blackopticsplus_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/optics/blackopticsplus_1s.jpg" alt="Glacierwhite Audi Q4 e-tron with black optics plus" title="Glacierwhite Audi Q4 e-tron with black optics plus">
     </a>
     <figcaption><h4>Glacierwhite Audi Q4 e-tron with black optics plus with bronze rings front</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="blackopticsplus_3.jpg">
-        <img src="blackopticsplus_3s.jpg" alt="Glacierwhite Audi Q4 e-tron with black optics plus" title="Glacierwhite Audi Q4 e-tron with black optics plus">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/optics/blackopticsplus_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/optics/blackopticsplus_3s.jpg" alt="Glacierwhite Audi Q4 e-tron with black optics plus" title="Glacierwhite Audi Q4 e-tron with black optics plus">
     </a>
     <figcaption><h4>Glacierwhite Audi Q4 e-tron with black optics plus with bronze rings front</h4></figcaption>
 </figure>
 
 
 <figure>
-    <a href="blackopticsplus_2.jpg">
-        <img src="blackopticsplus_2s.jpg" alt="Glacierwhite Audi Q4 e-tron with black optics plus" title="Glacierwhite Audi Q4 e-tron with black optics plus">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/optics/blackopticsplus_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/optics/blackopticsplus_2s.jpg" alt="Glacierwhite Audi Q4 e-tron with black optics plus" title="Glacierwhite Audi Q4 e-tron with black optics plus">
     </a>
     <figcaption><h4>Glacierwhite Audi Q4 e-tron with black optics plus with black rings rear</h4></figcaption>
 </figure>
 
 You can order black rings later. Part no: 89A 071 801
 
-![Black ring](blackringcomparison.jpg "Bronze vs chrome ring front")
+![Black ring](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/optics/blackringcomparison.jpg "Bronze vs chrome ring front")
