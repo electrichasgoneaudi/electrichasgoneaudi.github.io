@@ -33,7 +33,7 @@ so you can lock the car.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/doors/tailgatelocking.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/doors/tailgatelockings.jpg" 
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/doors/tailgatelockings.jpg"
         alt="Tailgate locking" title="Tailgate locking">
     </a>
     <figcaption><h4>Tailgate locking</h4></figcaption>
