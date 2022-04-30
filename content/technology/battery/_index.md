@@ -19,5 +19,3 @@ and how it affects performance on EVs with a specific focus on all-electric Audi
 </figure>
 
 If you want a deep understanding we recommend the [EV battery cards by Dr. Cecile Pera at Orovel.Net](https://www.orovel.net/orovel-cards/battery) and [BatteryUniversity](https://batteryuniversity.com/articles)
-
-

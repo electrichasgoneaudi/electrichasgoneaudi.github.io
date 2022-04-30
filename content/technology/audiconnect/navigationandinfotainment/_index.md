@@ -4,7 +4,7 @@ linktitle: Navigation & Infotainment
 description: In the Infotainment & Navigation package, Audi connect bundles functions that take entertainment, information, and comfort to a new level.
 weight: 1
 ---
-
+<!-- markdownlint-disable MD033 -->
 Below you see description of the different parts.
 
 ## MyRoute
@@ -15,9 +15,21 @@ In the connect category myRoute, you will find all the information for your trip
 
 Navigation with Google Earth C makes it easier to navigate thanks to high-resolution aerial photos and satellite imagery.
 
-![Google Earth](googlemap1.jpg "Google earth satellite photos")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/googlemap1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/googlemap1s.jpg"
+        alt="Google earth satelit photos" title="Google earth satelit photos">
+    </a>
+    <figcaption><h4>Google earth satelit photos</h4></figcaption>
+</figure>
 
-![Google satelitte map](satelitmap1.jpg "Audi connect gives Google Satelite maps on selected models")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/satelitmap1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/satelitmap1.jpg"
+        alt="Google earth satelit photos" title="Google earth satelit photos">
+    </a>
+    <figcaption><h4>Google earth satelit photos</h4></figcaption>
+</figure>
 
 ### Traffic information online
 
@@ -37,7 +49,13 @@ There is a lot to see: With travel information from Audi connect, you learn more
 
 Now there is zero stress to park in foreign cities. The function allows you to search for available parking spaces nearby or at the destination and enter them into the navigation system. The system shows parking spaces and detailed additional information, e.g. prices and how many vacancies there are at the moment. In selected cities, you can also see what the chances are of finding one free space in selected streets.
 
-![Parking](parking1.jpg "Parking information")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/parking1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/parking1s.jpg"
+        alt="Parking information" title="Parking information">
+    </a>
+    <figcaption><h4>Parking information</h4></figcaption>
+</figure>
 
 ### e-tron route planner
 
@@ -45,13 +63,37 @@ The route can be planned in peace and quiet via the myAudi app or directly from 
 
 Furthermore, all targets in the car and on the smartphone are synchronized, no matter where they were originally stored. This way, you can easily and comfortably plan routes and journeys with your smartphone, and then retrieve them as navigation destinations in the car. If there are delays or traffic disruptions on one of your regular routes, messages appear in the navigation system and on the smartphone. If the original charging station can not be reached, a new route is calculated. During an active charge along the route, the remaining charging time and the current state of charge of the battery is displayed.
 
-![Route planner](routeplanner1.jpg "RoutePlanner")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner1s.jpg"
+        alt="RoutePlanner" title="RoutePlanner">
+    </a>
+    <figcaption><h4>RoutePlanner</h4></figcaption>
+</figure>
 
-![Route planner](routeplanner2.jpg "RoutePlanner")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner2s.jpg"
+        alt="RoutePlanner" title="RoutePlanner">
+    </a>
+    <figcaption><h4>RoutePlanner</h4></figcaption>
+</figure>
 
-![Route planner](routeplanner3.jpg "RoutePlanner")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner3s.jpg"
+        alt="RoutePlanner" title="RoutePlanner">
+    </a>
+    <figcaption><h4>RoutePlanner</h4></figcaption>
+</figure>
 
-![Route planner](routeplannerapp1.jpg "RoutePlanner in myAudi")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplannerapp1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplannerapp1s.jpg"
+        alt="RoutePlanner in myAudi" title="RoutePlanner in myAudi">
+    </a>
+    <figcaption><h4>RoutePlanner in myAudi</h4></figcaption>
+</figure>
 
 ### Predictive routing
 
@@ -65,7 +107,13 @@ Obtain special destinations (eg petrol stations and car parks) from third-party 
 
 Find a charging station near you or at the destination. This allows you to plan necessary stops efficiently, sorted by distance. In addition, you get information about availability, connection, and payment methods, provided that this information is available at the charging station.
 
-![Charging](charging1.jpg "Charging stations along the route with information about time needed to charge")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/charging1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/charging1s.jpg"
+        alt="Charging stations along the route with information about time needed to charge" title="Charging stations along the route with information about time needed to charge">
+    </a>
+    <figcaption><h4>Charging stations along the route with information about time needed to charge</h4></figcaption>
+</figure>
 
 ### Extended 3D city view
 
@@ -75,7 +123,13 @@ The detailed 3D view of buildings makes it easier to orientate.
 
 Early warning for increased road safety. With information from the so-called Audi swarm, you are notified of accidents, accidents, poor visibility and slippery roads. If an Audi with this technology detects a dangerous situation, it reports this to a server, which sends out a warning to all Audi drivers in cars with this service. This is how Audi drivers are notified via the station wagon and navigation system before they reach the danger point, and they thus have the opportunity to react better to dangerous situations. This can help increase safety for Audi drivers and other road users.
 
-![Hazard](swarm1.jpg "They utilize the swarm intelligence of the Audi fleet, in which more than one hundred thousand cars are already gathering information globally.")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/swarm1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/swarm1s.jpg"
+        alt="They utilize the swarm intelligence of the Audi fleet, in which more than one hundred thousand cars are already gathering information globally." title="They utilize the swarm intelligence of the Audi fleet, in which more than one hundred thousand cars are already gathering information globally.">
+    </a>
+    <figcaption><h4>They utilize the swarm intelligence of the Audi fleet, in which more than one hundred thousand cars are already gathering information globally.</h4></figcaption>
+</figure>
 
 ## myNetwork
 
@@ -103,17 +157,41 @@ Current services concerning your travel plans are available in the connect categ
 
 Receive important information quickly. Enjoy the journey, while at the same time getting the most important things with you. With Audi connect, you are always up to date, even when you are on the go. Recognized national and international newsrooms send out text and photos about current world events. If the relevant provider supports the service, the news is entered in a results list in the selected language. You can also add your own news sources to myAudi using RSS feeds. For increased safety and comfort, you can have the news read out while you drive. If desirable you can also get the text in MMI. This way you can combine the different functions in the best possible way depending on the current situation.
 
-![News](news1.jpg "News")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/news1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/news1s.jpg"
+        alt="News" title="News">
+    </a>
+    <figcaption><h4>News</h4></figcaption>
+</figure>
 
 ### Weather
 
 How will the weather be on the trip? With Audi connect you have a full overview. Weather reports and extreme weather forecasts are presented on the weather map with easy-to-understand symbols. See detailed hourly forecasts for the next two hours, and keep an eye on the precipitation radar.
 
-![Weather info](weather1.jpg "Weather info")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather1s.jpg"
+        alt="Weather info" title="Weather info">
+    </a>
+    <figcaption><h4>Weather info</h4></figcaption>
+</figure>
 
-![Weather info](weather2.jpg "Weather detailed")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather2s.jpg"
+        alt="Weather detailed" title="Weather detailed">
+    </a>
+    <figcaption><h4>Weather detailed</h4></figcaption>
+</figure>
 
-![Weather info](weather3.jpg "Weather for next 7 days")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather3s.jpg"
+        alt="Weather for next 7 days" title="Weather for next 7 days">
+    </a>
+    <figcaption><h4>Weather for next 7 days</h4></figcaption>
+</figure>
 
 ## myRoadmusic
 
@@ -137,4 +215,3 @@ The radio automatically and seamlessly switches between classic radio via the FM
 
 Automatic detection of a variety of music tracks played on the radio. Display of additional information such as artist, album, and cover. The content and scope of the additional information is depending on what is made available by the individual service provider.
 
-{{% children description="true" depth="1" %}}

@@ -4,6 +4,7 @@ linktitle: Navigasjon og infotainment
 description: I Infotainment & Navigation-pakken pakker Audi connect funksjoner som tar underholdning, informasjon og komfort til et nytt nivå.
 weight: 1
 ---
+<!-- markdownlint-disable MD033 -->
 Nedenfor ser du beskrivelse av de ulike delene.
 
 ## MyRoute
@@ -14,9 +15,22 @@ I koblingskategorien myRoute finner du all informasjon for turene dine som navig
 
 Navigering med Google Earth C gjør det enklere å navigere takket være høyoppløselige flybilder og satellittbilder.
 
-![Google Earth](googlemap1.jpg "Google Earth satellittbilder")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/googlemap1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/googlemap1s.jpg"
+        alt="Google Earth satellittbilder" title="Google Earth satellittbilder">
+    </a>
+    <figcaption><h4>Google Earth satellittbilder</h4></figcaption>
+</figure>
 
-![Google satellittkart](satelitmap1.jpg "Audi connect gir Google satellittkart på utvalgte modeller")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/satelitmap1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/satelitmap1.jpg"
+        alt="Audi connect gir Google satellittkart på utvalgte modeller" title="Audi connect gir Google satellittkart på utvalgte modeller">
+    </a>
+    <figcaption><h4>Audi connect gir Google satellittkart på utvalgte modeller</h4></figcaption>
+</figure>
+
 
 ### Trafikkinformasjon på nettet
 
@@ -36,7 +50,14 @@ Det er mye å se: Med reiseinformasjon fra Audi connect lærer du mer om område
 
 Nå er det null stress å parkere i utenlandske byer. Funksjonen lar deg søke etter ledige parkeringsplasser i nærheten eller på destinasjonen og legge dem inn i navigasjonssystemet. Systemet viser parkeringsplasser og detaljert tilleggsinformasjon, f.eks. priser og hvor mange ledige plasser det er for øyeblikket. I utvalgte byer kan du også se hva sjansene er for å finne én ledig plass i utvalgte gater.
 
-![Parking](parking1.jpg "Parkeringsinformasjon")
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/parking1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/parking1s.jpg"
+        alt="Parking information" title="Parking information">
+    </a>
+    <figcaption><h4>Parking information</h4></figcaption>
+</figure>
 
 ### e-tron ruteplanlegger
 
@@ -44,13 +65,37 @@ Ruten kan planlegges i fred og ro via myAudi-appen eller direkte fra bilen. Rute
 
 Videre er alle mål i bilen og på smarttelefonen synkronisert, uansett hvor de opprinnelig ble lagret. På denne måten kan du enkelt og komfortabelt planlegge ruter og reiser med smarttelefonen, og deretter hente dem som navigasjonsdestinasjoner i bilen. Hvis det er forsinkelser eller trafikkforstyrrelser på en av dine vanlige ruter, vises meldinger i navigasjonssystemet og på smarttelefonen. Hvis den opprinnelige ladestasjonen ikke kan nås, beregnes en ny rute. Under en aktiv lading langs ruten vises gjenværende ladetid og gjeldende ladetilstand for batteriet.
 
-![Ruteplanlegger](ruteplanlegger1.jpg "Ruteplanlegger")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner1s.jpg"
+        alt="Ruteplanlegger" title="Ruteplanlegger">
+    </a>
+    <figcaption><h4>Ruteplanlegger</h4></figcaption>
+</figure>
 
-![Ruteplanlegger](ruteplanlegger2.jpg "Ruteplanlegger")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner2s.jpg"
+        alt="Ruteplanlegger" title="Ruteplanlegger">
+    </a>
+    <figcaption><h4>Ruteplanlegger</h4></figcaption>
+</figure>
 
-![Ruteplanlegger](ruteplanlegger3.jpg "Ruteplanlegger")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner3s.jpg"
+        alt="Ruteplanlegger" title="Ruteplanlegger">
+    </a>
+    <figcaption><h4>Ruteplanlegger</h4></figcaption>
+</figure>
 
-![Ruteplanlegger](ruteplanleggerapp1.jpg "Ruteplanlegger i myAudi")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplannerapp1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplannerapp1s.jpg"
+        alt="Ruteplanlegger i myAudi" title="Ruteplanlegger i myAudi">
+    </a>
+    <figcaption><h4>Ruteplanlegger i myAudi</h4></figcaption>
+</figure>
 
 ### Prediktiv ruting
 
@@ -64,7 +109,13 @@ Skaff spesielle destinasjoner (f.eks. bensinstasjoner og parkeringsplasser) fra 
 
 Finn en ladestasjon nær deg eller på destinasjonen. Dette lar deg planlegge nødvendige stopp effektivt, sortert etter avstand. I tillegg får du informasjon om tilgjengelighet, tilkobling, og betalingsmåter, forutsatt at denne informasjonen er tilgjengelig på ladestasjonen.
 
-![Charging](charging1.jpg "Ladestasjoner langs ruten med informasjon om tiden det tar å lade")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/charging1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/charging1s.jpg"
+        alt="Ladestasjoner langs ruten med informasjon om tiden det tar å lade" title="Ladestasjoner langs ruten med informasjon om tiden det tar å lade">
+    </a>
+    <figcaption><h4>Ladestasjoner langs ruten med informasjon om tiden det tar å lade</h4></figcaption>
+</figure>
 
 ### Utvidet 3D-byvisning
 
@@ -74,7 +125,13 @@ Den detaljerte 3D-visningen av bygninger gjør det lettere å orientere seg.
 
 Tidlig varsling for økt trafikksikkerhet. Med informasjon fra den såkalte Audi-svermen blir du varslet om ulykker, ulykker, dårlig sikt og glatte veier. Hvis en Audi med denne teknologien oppdager en farlig situasjon, rapporterer den dette til en server, som sender ut en advarsel til alle Audi-sjåfører i biler med denne tjenesten. Slik varsles Audi-sjåfører via stasjonsvogn og navigasjonssystem før de når farepunktet, og de får dermed mulighet til å reagere bedre på farlige situasjoner. Dette kan bidra til å øke sikkerheten for Audi-sjåfører og andre trafikanter.
 
-![Hazard](swarm1.jpg "De bruker svermintelligensen til Audi-flåten, der mer enn hundre tusen biler allerede samler informasjon globalt.")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/swarm1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/swarm1s.jpg"
+        alt="De bruker svermintelligensen til Audi-flåten, der mer enn hundre tusen biler allerede samler informasjon globalt." title="De bruker svermintelligensen til Audi-flåten, der mer enn hundre tusen biler allerede samler informasjon globalt.">
+    </a>
+    <figcaption><h4>De bruker svermintelligensen til Audi-flåten, der mer enn hundre tusen biler allerede samler informasjon globalt.</h4></figcaption>
+</figure>
 
 ## mitt nettverk
 
@@ -102,17 +159,41 @@ Aktuelle tjenester angående reiseplanene dine er tilgjengelige i connect-katego
 
 Motta viktig informasjon raskt. Nyt reisen, samtidig som du får med deg det viktigste. Med Audi connect er du alltid oppdatert, selv når du er på farten. Anerkjente nasjonale og internasjonale redaksjoner sender ut tekst og bilder om aktuelle verdensbegivenheter. Hvis den aktuelle leverandøren støtter tjenesten, legges nyhetene inn i en resultatliste på det valgte språket. Du kan også legge til dine egne nyhetskilder til myAudi ved hjelp av RSS-feeder. For økt sikkerhet og komfort kan du få nyhetene lest opp mens du kjører. Hvis ønskelig kan du også få teksten i MMI. På denne måten kan du kombinere de ulike funksjonene på best mulig måte avhengig av den aktuelle situasjonen.
 
-![Nyheter](news1.jpg "Nyheter")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/news1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/news1s.jpg"
+        alt="Nyheter" title="Nyheter">
+    </a>
+    <figcaption><h4>Nyheter</h4></figcaption>
+</figure>
 
 ### Vær
 
 Hvordan blir været på turen? Med Audi connect har du full oversikt. Værmeldinger og ekstremværmeldinger presenteres på værkartet med lettfattelige symboler. Se detaljerte timevarsler for de neste to timene, og hold øye med nedbørradaren.
 
-![Værinfo](weather1.jpg "Værinfo")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather1s.jpg"
+        alt="Værinfo" title="Værinfo">
+    </a>
+    <figcaption><h4>Værinfo</h4></figcaption>
+</figure>
 
-![Værinformasjon](weather2.jpg "Vær detaljert")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather2s.jpg"
+        alt="Vær detaljert" title="Vær detaljert">
+    </a>
+    <figcaption><h4>Vær detaljert</h4></figcaption>
+</figure>
 
-![Værinfo](weather3.jpg "Været for de neste 7 dagene")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather3s.jpg"
+        alt="Været for de neste 7 dagene" title="Været for de neste 7 dagene">
+    </a>
+    <figcaption><h4>Været for de neste 7 dagene</h4></figcaption>
+</figure>
 
 ## myRoadmusic
 
@@ -136,4 +217,3 @@ Radioen bytter automatisk og sømløst mellom klassisk radio via FM-nettet eller
 
 Automatisk deteksjon av en forskjellige musikkspor som spilles på radioen. Visning av tilleggsinformasjon som artist, album og cover. Innholdet og omfanget av tilleggsinformasjonen er avhengig av hva som gjøres tilgjengelig av den enkelte tjenesteleverandør.
 
-{{% children description="true" depth="1" %}}
