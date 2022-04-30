@@ -14,8 +14,8 @@ reality head-up display connects the virtual and the real worlds in a new way.
 The world premiere was on April 14. 2021.
 
 <figure>
-    <a href="variants/variants1.jpg">
-        <img src="variants/variants1s.jpg" alt="Different variants of Audi Q4 e-tron and Audi Q4 e-tron Sportback" title="Different variants of Audi Q4 e-tron and Audi Q4 e-tron Sportback">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/variants1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/variants1s.jpg" alt="Different variants of Audi Q4 e-tron and Audi Q4 e-tron Sportback" title="Different variants of Audi Q4 e-tron and Audi Q4 e-tron Sportback">
     </a>
     <figcaption><h4>Different variants of Audi Q4 e-tron and Audi Q4 e-tron Sportback</h4></figcaption>
 </figure>

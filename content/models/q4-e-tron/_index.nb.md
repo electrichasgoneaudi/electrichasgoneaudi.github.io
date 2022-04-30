@@ -11,8 +11,8 @@ Både SUV- og Sportback-versjonene imponerer med en ny romslig dimensjon i inter
 Verdenspremieren var 14. april 2021.
 
 <figur>
-    <a href="variants/variants1.jpg">
-        <img src="variants/variants1s.jpg" alt="Ulike varianter av Audi Q4 e-tron og Audi Q4 e-tron Sportback" title="Ulike varianter av Audi Q4 e-tron og Audi Q4 e-tron Sportback">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/variants1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/variants1s.jpg" alt="Ulike varianter av Audi Q4 e-tron og Audi Q4 e-tron Sportback" title="Ulike varianter av Audi Q4 e-tron og Audi Q4 e-tron Sportback">
     </a>
     <figcaption><h4>Ulike varianter av Audi Q4 e-tron og Audi Q4 e-tron Sportback</h4></figcaption>
 </figur>

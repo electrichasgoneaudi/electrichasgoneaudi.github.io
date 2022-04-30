@@ -8,8 +8,8 @@ weight: 1
 ## Audi Q4 35 e-tron
 
 <figure>
-    <a href="audi-q4-e-tron-35.jpg">
-        <img src="audi-q4-e-tron-35s.jpg" alt="Audi Q4 35 e-tron" title="Audi Q4 35 e-tron">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-e-tron-35.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-e-tron-35s.jpg" alt="Audi Q4 35 e-tron" title="Audi Q4 35 e-tron">
     </a>
     <figcaption><h4>Audi Q4 35 e-tron</h4></figcaption>
 </figure>
@@ -21,8 +21,8 @@ Audi Q4 35 e-tron is the entry model with the smallest battery and two wheel dri
 ## Audi Q4 40 e-tron
 
 <figure>
-    <a href="audi-q4-e-tron-40.jpg">
-        <img src="audi-q4-e-tron-40s.jpg" alt="Audi Q4 40 e-tron" title="Audi Q4 40 e-tron">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-e-tron-40.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-e-tron-40s.jpg" alt="Audi Q4 40 e-tron" title="Audi Q4 40 e-tron">
     </a>
     <figcaption><h4>Audi Q4 40 e-tron</h4></figcaption>
 </figure>
@@ -34,8 +34,8 @@ Audi Q4 40 e-tron is the model with the largest battery and two wheel drive. 82 
 ## Audi Q4 45 e-tron quattro
 
 <figure>
-    <a href="audi-q4-e-tron-45.jpg">
-        <img src="audi-q4-e-tron-45s.jpg" alt="Audi Q4 45 e-tron quattro" title="Audi Q4 45 e-tron quattro">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-e-tron-45.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-e-tron-45s.jpg" alt="Audi Q4 45 e-tron quattro" title="Audi Q4 45 e-tron quattro">
     </a>
     <figcaption><h4>Audi Q4 45 e-tron quattro</h4></figcaption>
 </figure>
@@ -47,8 +47,8 @@ Audi Q4 45 e-tron quattro is the entry level model with the largest battery and 
 ## Audi Q4 50 e-tron quattro
 
 <figure>
-    <a href="audi-q4-e-tron-50.jpg">
-        <img src="audi-q4-e-tron-50s.jpg" alt="Audi Q4 50 e-tron quattro" title="Audi Q4 50 e-tron quattro">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-e-tron-50.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-e-tron-50s.jpg" alt="Audi Q4 50 e-tron quattro" title="Audi Q4 50 e-tron quattro">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro</h4></figcaption>
 </figure>
@@ -66,8 +66,8 @@ Audi Q4 Sportback 35 e-tron is the model with the smallest battery and two wheel
 ## Audi Q4 Sportback 40 e-tron
 
 <figure>
-    <a href="audi-q4-sportback-e-tron-40.jpg">
-        <img src="audi-q4-sportback-e-tron-40s.jpg" alt="Audi Q4 Sportback 40 e-tron by Auditography" title="Audi Q4 Sportback 40 e-tron by Auditography">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-sportback-e-tron-40.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-sportback-e-tron-40s.jpg" alt="Audi Q4 Sportback 40 e-tron by Auditography" title="Audi Q4 Sportback 40 e-tron by Auditography">
     </a>
     <figcaption><h4>Audi Q4 Sportback 40 e-tron by Auditography</h4></figcaption>
 </figure>
@@ -79,8 +79,8 @@ Audi Q4 Sportback 40 e-tron is the model with the largest battery and two wheel 
 ## Audi Q4 Sportback 50 e-tron quattro
 
 <figure>
-    <a href="audi-q4-sportback-e-tron-50.jpg">
-        <img src="audi-q4-sportback-e-tron-50s.jpg" alt="Audi Q4 Sportback 50 e-tron quattro" title="Audi Q4 Sportback 50 e-tron quattro">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-sportback-e-tron-50.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-sportback-e-tron-50s.jpg" alt="Audi Q4 Sportback 50 e-tron quattro" title="Audi Q4 Sportback 50 e-tron quattro">
     </a>
     <figcaption><h4>Audi Q4 Sportback 50 e-tron quattro</h4></figcaption>
 </figure>
