@@ -15,9 +15,22 @@ Som tilvalg nr **QL5** kan du bestille bilen med privacy-glass. Dette gir bilen 
 og redusere sikten for utvendig å se inn i bilen til personer i baksetet eller ting
 i bagasjerommet.
 
-![Panoramic roof](privacywindows.jpg "Privacy-glass")
 
-![Privacy windows](paint_typhoongrey_2.jpg "Privacy-glass på Audi Q4 e-tron i tyfongrå. Gjør bilen ekstra tøff" )
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/windows/privacywindows.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/windows/privacywindowss.jpg"
+        alt="Privacy windows" title="Privacy windows">
+    </a>
+    <figcaption><h4>Privacy windows</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/windows/paint_typhoongrey_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/windows/paint_typhoongrey_2s.jpg"
+        alt="Privacy-glass på Audi Q4 e-tron i tyfongrå. Gjør bilen ekstra tøff" title="Privacy-glass på Audi Q4 e-tron i tyfongrå. Gjør bilen ekstra tøff">
+    </a>
+    <figcaption><h4>Privacy-glass på Audi Q4 e-tron i tyfongrå. Gjør bilen ekstra tøff</h4></figcaption>
+</figure>
 
 ## Oppvarmet frontrute med akkustikkglass
 
