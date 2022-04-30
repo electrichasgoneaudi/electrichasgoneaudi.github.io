@@ -4,7 +4,7 @@ linktitle: Degradation
 description: The performance of lithium-ion batteries deteriorates over time whether they are used or not. This affects the performance and range of EV's.
 weight: 7
 ---
-
+<!-- markdownlint-disable MD033 -->
 Aging based on use is called cycle aging  and aging based on time is called calendar aging.
 
 The two main consequences of aging are energy capacity reduction and power reduction.
@@ -25,7 +25,13 @@ Most cars are parked more than they are driven. Calendar aging is degradation th
 
 The factors that affect calendar aging are the State of Charge and environmental temperature.
 
-![EV storage stress](evstoragestress.png "Storage stress")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/degredation/evstoragestress.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/degredation/evstoragestress.png"
+        alt="Storage stress" title="Storage stress">
+    </a>
+    <figcaption><h4>Storage stress</h4></figcaption>
+</figure>
 
 ### Scientific articles to read to understand more about Calendar aging
 
@@ -39,7 +45,13 @@ Cycle aging is the reduction of energy capacity or power caused by charging/disc
 
 The below diagram shows how the SOC area used when charging/discharging affect the degradation
 
-![Cycles](dstcycles.png "Cycle stress")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/degredation/dstcycles.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/degredation/dstcycles.png"
+        alt="Cycle stress" title="Cycle stress">
+    </a>
+    <figcaption><h4>Cycle stress</h4></figcaption>
+</figure>
 
 ### Charging speed effect on cycle aging
 
@@ -59,5 +71,3 @@ When this happens the available ions in the battery are reduced. Higher speed ch
 - Don't park the car with High SOC over a long time
 - Don't park the car in extreme heat
 - Limit high-speed charging.
-
-{{% children description="true" depth="1" %}}

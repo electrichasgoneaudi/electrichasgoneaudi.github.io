@@ -4,7 +4,7 @@ linktitle: Cell & Chemistry
 description: The battery cells are the most important part of the battery system and the most important factor both for cost and performance on EV's.
 weight: 2
 ---
-
+<!-- markdownlint-disable MD033 -->
 ## Cell parts
 
 ### Anode
@@ -61,7 +61,13 @@ Cells for EV's come in 3 different housings
 
 A cylindrical cell consists of sheet-like anodes, separators, and cathodes that are sandwiched, rolled up, and packed into a cylinder-shaped can. This is the form factor that has been used for years in the market.
 
-![Cylinder](cylinder4680.jpg "Tesla 4680 cylinder battery")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/cylinder4680.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/cylinder4680s.jpg"
+        alt="Tesla 4680 cylinder battery" title="Tesla 4680 cylinder battery">
+    </a>
+    <figcaption><h4>Tesla 4680 cylinder battery</h4></figcaption>
+</figure>
 
 One advantage is mechanical stability. The round shape of the battery distributes the internal pressure from side reactions over the cell circumference almost evenly. This allows the cell to tolerate a higher level of internal pressure without deformation.
 
@@ -71,7 +77,13 @@ Tesla is one of the few EV manufacturers that uses this.
 
 Li-ion cells with prismatic housing consist of large sheets of anodes, cathodes, and separators sandwiched, rolled up, and pressed to fit into a hard-plastic or metallic housing in cubic form. The electrodes can also be assembled by layer stacking rather than jelly rolling.
 
-![Samsung Prismatic](samsungprismatic.jpg "Samsung prismatic cells")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/samsungprismatic.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/samsungprismatics.jpg"
+        alt="Samsung prismatic cells" title="Samsung prismatic cells">
+    </a>
+    <figcaption><h4>Samsung prismatic cells</h4></figcaption>
+</figure>
 
 Parts of the electrode and separator sheets of a prismatic cell that are close to the container corners can experience more stress. This can damage electrode coating and lead to the non-uniform distribution of the electrolyte.
 
@@ -87,7 +99,13 @@ Swelling Pouch Cell Battery as a Result of Gas Generation During Charge and Disc
 
 The electrode and separator layers of a pouch cell are stacked rather than jelly-rolled. With pouch cells, the designer should allocate enough space for the cell swelling. A swelling of as much as 8% to 10% can occur after 500 cycles.
 
-![LG Pouch Cell](lgchenx21.jpg "LG Chem pouch cell")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/lgchenx21.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/lgchenx21s.jpg"
+        alt="LG Chem pouch cell" title="LG Chem pouch cell">
+    </a>
+    <figcaption><h4>LG Chem pouch cell</h4></figcaption>
+</figure>
 
 ## Audi cells
 

@@ -4,7 +4,7 @@ linktitle: Battery system
 description: The battery system is the combination of many cells and other control electronics to a complete battery to power the EV.
 weight: 3
 ---
-
+<!-- markdownlint-disable MD033 -->
 Today this is most typically achieved with the Cell2Module technology. Where cells are grouped into modules that again are grouped into a battery system.
 
 In the future, we will see cars with Cell2Pack technologies where cells are put directly into packs and even Cell2Car technology where cells are put directly into the car. More about that later
@@ -15,7 +15,13 @@ Typical a battery pack consists of modules that consist of several cells.
 
 Modules are a combination of cells. The number of cells in a module varies.
 
-![Module](module_lg_pouch.jpg "LG battery module")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/module_lg_pouch.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/module_lg_pouch.jpg"
+        alt="LG battery module" title="LG battery module">
+    </a>
+    <figcaption><h4>LG battery module</h4></figcaption>
+</figure>
 
 ### Architecture
 
@@ -55,7 +61,13 @@ a 4 serial 2 parallel configuration (3s4p). With 60AH for each cell and a nomina
 Battery packs consist of several modules placed in a construction that is created to protect them and
 give them optimal conditions. Below you see a battery pack from Audi e-tron GT.
 
-![Batterypack](batterypack_e-tron-gt.jpg "Battery pack with 33 modules")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/batterypack_e-tron-gt.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/batterypack_e-tron-gts.jpg"
+        alt="Battery pack with 33 modules" title="Battery pack with 33 modules">
+    </a>
+    <figcaption><h4>Battery pack with 33 modules</h4></figcaption>
+</figure>
 
 Typical the pack is placed at bottom of the car.
 
@@ -111,12 +123,22 @@ The technology is based on putting the cells directly in to the pack increasing 
 
 On March 15. 2021 the Volkswagen group that Audi is part of, presented their strategy as part of Power day.
 
-![Cell to pack](cell2pack.jpg "Volkswagen Cell2Pack technology")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/cell2pack.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/cell2packs.jpg"
+        alt="Volkswagen Cell2Pack technology" title="Volkswagen Cell2Pack technology">
+    </a>
+    <figcaption><h4>Volkswagen Cell2Pack technology</h4></figcaption>
+</figure>
 
-![Cell2Pack](cell2packcomparison.jpg "Volkswagen Cell2Pack comparison")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/cell2packcomparison.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/cell2packcomparisons.jpg"
+        alt="Volkswagen Cell2Pack comparison" title="Volkswagen Cell2Pack comparison">
+    </a>
+    <figcaption><h4>Volkswagen Cell2Pack comparison</h4></figcaption>
+</figure>
 
 See the complete presentation.
 
 {{< youtube UQZ8KmCItF8 >}}
-
-{{% children description="true" depth="1" %}}

@@ -4,7 +4,7 @@ linktitle: Cell balancing
 description: Cell balancing is important to get the most of the battery. 
 weight: 5
 ---
-
+<!-- markdownlint-disable MD033 -->
 Cell balancing is needed when a group of cells has higher or lower SOC than other groups of cells.
 
 ![Cell balancing](cellbalancing.drawio.svg "Cell balancing")
@@ -16,6 +16,10 @@ To do this, the battery regulation control unit compares the voltages of the cel
 
 On all-electric Audis, it is not possible to check the cell balance without extra tools. ODBEleven is one of these tools that can be used. The below screenshot show that one cell set has 10% SOC and another has 13% soc. Audi e-tron has 108 cell sets with 3 or 4 cells in parallel depending on the version.
 
-![OBDEleven](obdeleven.png "Cell info from OBDEleven")
-
-{{% children description="true" depth="1" %}}
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cellbalancing/obdeleven.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cellbalancing/obdeleven.jpg"
+        alt="Cell info from OBDEleven" title="Cell info from OBDEleven">
+    </a>
+    <figcaption><h4>Cell info from OBDEleven</h4></figcaption>
+</figure>

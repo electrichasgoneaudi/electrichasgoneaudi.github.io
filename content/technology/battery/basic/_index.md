@@ -4,7 +4,7 @@ linktitle: Battery basics
 description: The basic principle of a li-ion battery is that electrical energy is created by an electrochemical reaction between two metals of different affinities.
 weight: 1
 ---
-
+<!-- markdownlint-disable MD033 -->
 A Lithium-ion battery is made up of two electrodes (anode & cathode), separator, electrolyte, and two current collectors (positive and negative).
 
 During discharge an electrochemical reaction in Anode causes it to release positive lithium ions into the electrolyte.

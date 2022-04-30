@@ -4,6 +4,7 @@ linktitle: Batterisystemet
 description: Batterisystemet er kombinasjonen av mange celler og annen kontrollelektronikk til et komplett batteri for å drive elbilen.
 weight: 3
 ---
+<!-- markdownlint-disable MD033 -->
 I dag oppnås dette vanligvis med Cell2Module-teknologien. Hvor celler er gruppert i moduler som igjen er gruppert i et batterisystem.
 
 I fremtiden vil vi se biler med Cell2Pack-teknologier hvor celler legges direkte inn i pakker og til og med Cell2Car-teknologi hvor celler settes direkte inn i bilen. Mer om det senere
@@ -14,7 +15,13 @@ Typisk består en batteripakke av moduler som består av flere celler.
 
 Moduler er en kombinasjon av celler. Antall celler i en modul varierer.
 
-![Module](module_lg_pouch.jpg "LG batterimodul")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/module_lg_pouch.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/module_lg_pouch.jpg"
+        alt="LG batterimodul" title="LG batterimodul">
+    </a>
+    <figcaption><h4>LG batterimodul</h4></figcaption>
+</figure>
 
 ### Arkitektur
 
@@ -54,7 +61,14 @@ en 4 seriell 2 parallell konfigurasjon (3s4p). Med 60AH for hver celle og en nom
 Batteripakker består av flere moduler plassert i en konstruksjon som er laget for å beskytte dem og
 gi dem optimale forhold. Under ser du en batteripakke fra Audi e-tron GT.
 
-![Batterypack](batterypack_e-tron-gt.jpg "Batteripakke med 33 moduler")
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/batterypack_e-tron-gt.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/batterypack_e-tron-gts.jpg"
+        alt="Batteripakke med 33 moduler" title="Batteripakke med 33 moduler">
+    </a>
+    <figcaption><h4>Batteripakke med 33 moduler</h4></figcaption>
+</figure>
 
 Vanligvis er pakken plassert nederst på bilen.
 
@@ -110,12 +124,22 @@ Teknologien er basert på å sette cellene direkte inn i pakken og øke energite
 
 15. mars 2021 presenterte Volkswagen-gruppen som Audi er en del av sin strategi som en del av Power-dagen.
 
-![Cell to pack](cell2pack.jpg "Volkswagen Cell2Pack-teknologi")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/cell2pack.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/cell2packs.jpg"
+        alt="Volkswagen Cell2Pack-teknologi" title="Volkswagen Cell2Pack-teknologi">
+    </a>
+    <figcaption><h4>Volkswagen Cell2Pack-teknologi</h4></figcaption>
+</figure>
 
-![Cell2Pack](cell2packcomparison.jpg "Volkswagen Cell2Pack-sammenligning")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/cell2packcomparison.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/cell2packcomparisons.jpg"
+        alt="Volkswagen Cell2Pack-sammenligning" title="Volkswagen Cell2Pack-sammenligning">
+    </a>
+    <figcaption><h4>Volkswagen Cell2Pack-sammenligning</h4></figcaption>
+</figure>
 
 Se hele presentasjonen.
 
 {{< youtube UQZ8KmCItF8 >}}
-
-{{% children description="true" depth="1" %}}

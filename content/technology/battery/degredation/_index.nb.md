@@ -4,7 +4,7 @@ linktitle: Degradering
 description: Ytelsen til litium-ion-batterier forringes over tid, enten de brukes eller ikke. Dette påvirker ytelsen og rekkevidden til elbiler.
 weight: 7
 ---
-
+<!-- markdownlint-disable MD033 -->
 Degradering basert på bruk kalles syklusdegradering og aldring basert på tid kalles kalenderdegraering
 
 De to hovedkonsekvensene av degradering er energikapasitetsreduksjon og kraftreduksjon.
@@ -25,7 +25,13 @@ De fleste biler står parkert mer enn de blir kjørt. Kalenderaldring er nedbryt
 
 Faktorene som påvirker kalenderaldring er ladetilstand og miljøtemperatur.
 
-![EV storage stress](evstoragestress.png "Lagringsstress")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/degredation/evstoragestress.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/degredation/evstoragestress.png"
+        alt="Lagringsstress" title="Lagringsstress">
+    </a>
+    <figcaption><h4>Lagringsstress</h4></figcaption>
+</figure>
 
 ### Vitenskapelige artikler å lese for å forstå mer om Kalenderaldring
 
@@ -39,7 +45,13 @@ Syklusaldring er reduksjon av energikapasitet eller kraft forårsaket av lading/
 
 Diagrammet nedenfor viser hvordan SOC-området som brukes ved lading/utlading påvirker nedbrytningen
 
-![Cycles](dstcycles.png "Syklusstress")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/degredation/dstcycles.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/degredation/dstcycles.png"
+        alt="Syklusstress" title="Syklusstress">
+    </a>
+    <figcaption><h4>Syklusstress</h4></figcaption>
+</figure>
 
 ### Ladehastighetens effekt på degradering grunnet ladesykluser
 
@@ -60,4 +72,3 @@ Når dette skjer, reduseres de tilgjengelige ionene i batteriet. Høyhastighetsl
 - Ikke parker bilen i ekstrem varme
 - Begrens høyhastighetslading.
 
-{{% children description="true" depth="1" %}}

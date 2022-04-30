@@ -4,6 +4,7 @@ linktitle: Celle og kjemi
 description: Battericellene er den viktigste delen av batterisystemet og den viktigste faktoren både for kostnad og ytelse på elbiler.
 weight: 2
 ---
+<!-- markdownlint-disable MD033 -->
 ## Celledeler
 
 ### Anode
@@ -60,7 +61,13 @@ Celler for elbiler kommer i 3 forskjellige hus
 
 En sylindrisk celle består av arklignende anoder, separatorer og katoder som er klemt sammen, rullet sammen og pakket inn i en sylinderformet boks. Dette er formfaktoren som har vært brukt i mange år på markedet.
 
-![Sylinder](cylinder4680.jpg "Tesla 4680 sylinderbatteri")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/cylinder4680.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/cylinder4680s.jpg"
+        alt="Tesla 4680 sylinderbatteri" title="Tesla 4680 sylinderbatteri">
+    </a>
+    <figcaption><h4>Tesla 4680 sylinderbatteri</h4></figcaption>
+</figure>
 
 En fordel er mekanisk stabilitet. Den runde formen på batteriet fordeler det indre trykket fra sidereaksjoner over celleomkretsen nesten jevnt. Dette gjør at cellen kan tolerere et høyere nivå av indre trykk uten deformasjon.
 
@@ -69,6 +76,15 @@ Tesla er en av få elbilprodusenter som bruker dette.
 ### Prismatisk hus
 
 Li-ion-celler med prismatisk hus består av store ark med anoder, katoder og separatorer som er klemt, rullet opp og presset for å passe inn i et hardplast- eller metallhus i kubisk form. Elektrodene kan også settes sammen ved lagstabling i stedet for gelérulling.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/samsungprismatic.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/samsungprismatics.jpg"
+        alt="Samsung prismatiske celler" title="Samsung prismatiske celler">
+    </a>
+    <figcaption><h4>Samsung prismatiske celler</h4></figcaption>
+</figure>
+
 
 ![Samsung Prismatic](samsungprismatic.jpg "Samsung prismatiske celler")
 
@@ -86,7 +102,13 @@ Svulmende posecellebatteri som et resultat av gassgenerering under lading og utl
 
 Elektroden og separatorlagene til en posecelle er stablet i stedet for gelérullet. Med poseceller bør designeren tildele nok plass til cellehevelsen. En hevelse på så mye som 8 % til 10 % kan oppstå etter 500 sykluser.
 
-![LG Pouch Cell](lgchenx21.jpg "LG Chem Pouch Cell")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/lgchenx21.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/lgchenx21s.jpg"
+        alt="LG Chem pouch cell" title="LG Chem pouch cell">
+    </a>
+    <figcaption><h4>LG Chem pouch cell</h4></figcaption>
+</figure>
 
 ## Audi-celler
 
@@ -101,4 +123,3 @@ for mer informasjon om cellene.
 | [Audi Q4 e-tron](../../../models/q4-e-tron/drivetrain/battery/#battery-cells) | LG Chem LGX E78 | Pouch | 78AH | 265 Wh/kg | NCM 712 |
 | [Audi e-tron GT](../../../models/e-tron-gt/drivetrain/battery/#cell-technology) | LG Chem E66A | Pouch | 64.6AH | 263 Wh/kg | NCM 712 |
 
-{{% children description="true" depth="1" %}}

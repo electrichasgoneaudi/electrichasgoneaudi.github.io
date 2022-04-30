@@ -4,7 +4,7 @@ linktitle: Cellebalansering
 description: Cellebalansering er viktig for å få mest mulig ut av batteriet.
 weight: 5
 ---
-
+<!-- markdownlint-disable MD033 -->
 Cellebalansering er nødvendig når en gruppe celler har høyere eller lavere SOC enn andre grupper av celler.
 
 ![Cellebalansering](cellbalancing.drawio.svg "Cellebalansering")
@@ -16,7 +16,10 @@ For å gjøre dette sammenligner batterireguleringskontrollenheten spenningene t
 
 På helelektriske Audier er det ikke mulig å sjekke cellebalansen uten ekstra verktøy. ODBEleven er et av disse verktøyene som kan brukes. Skjermbildet nedenfor viser at ett cellesett har 10 % SOC og et annet har 13 % soc. Audi e-tron har 108 cellesett med 3 eller 4 celler parallelt avhengig av versjon.
 
-![OBDEleven](obdeleven.png "Celleinfo fra OBDEleven")
-
-
-{{% children description="true" depth="1" %}}
+figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cellbalancing/obdeleven.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cellbalancing/obdeleven.jpg"
+        alt="info fra OBDEleven" title="info fra OBDEleven">
+    </a>
+    <figcaption><h4>info fra OBDEleven</h4></figcaption>
+</figure>

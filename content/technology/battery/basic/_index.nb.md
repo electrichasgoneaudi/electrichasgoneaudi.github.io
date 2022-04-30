@@ -4,7 +4,7 @@ linktitle: Grunnprinsipp
 description: Grunnprinsippet for et li-ion-batteri er at elektrisk energi skapes ved en elektrokjemisk reaksjon mellom to metaller med ulik affinitet.
 weight: 1
 ---
-
+<!-- markdownlint-disable MD033 -->
 Et litiumionbatteri består av to elektroder (anode og katode), separator, elektrolytt og to strømkollektorer (positive og negative).
 
 Under utladning får en elektrokjemisk reaksjon i Anode den til å frigjøre positive litiumioner i elektrolytten.
