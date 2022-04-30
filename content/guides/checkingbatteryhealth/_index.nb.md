@@ -56,9 +56,9 @@ For folk som liker å holde styr på dette, anbefaler vi å spore dette fra begy
 
 Følgende eksempel viser statistikken fra en e-tron 55 2020v1 med 83,6 kWh kapasitet fra den var ny.
 
-![Graph](graph1.jpg "Loggføring av tilgjengelig batteri sammenlignet med brukt energi Oslo-Trysil over tid.")
+![Graph](https://media.electrichasgoneaudi.net/multimedia/guides/checkingbatteryhealth/graph1.jpg "Loggføring av tilgjengelig batteri sammenlignet med brukt energi Oslo-Trysil over tid.")
 
-![Graph](graph2.jpg "Loggføring av tilgjengelig batteri sammenlignet med forbruk  kWh/100 km")
+![Graph](https://media.electrichasgoneaudi.net/multimedia/guides/checkingbatteryhealth/graph2.jpg "Loggføring av tilgjengelig batteri sammenlignet med forbruk  kWh/100 km")
 
 ## Hva hvis avviket er veldig stort?
 
@@ -68,7 +68,7 @@ Da er det en stor fordel at du har beregnet dette og i større grad vet det er e
 
 Nedenfor er et eksempel fra bil med feil på battericelle.
 
-![VC](vc1.jpg "Data fra bil med feil")
+![VC](https://media.electrichasgoneaudi.net/multimedia/guides/checkingbatteryhealth/vc1.jpg "Data fra bil med feil")
 
 Her er bilen kjørt 118.1km med et forbruk på 21kWh/100km. Prosenten har gått ned fra 100% - 25%.
 
