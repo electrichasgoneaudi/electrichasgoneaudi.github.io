@@ -10,7 +10,12 @@ It is based on the MEB platform as Audi Q4 e-tron,  Skoda Enyaq and Volkswagen I
 
 The world premiere was November 18. 2021.
 
-![Variants](variants.jpg "Audi Q5 e-tron")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q5-e-tron/variants.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q5-e-tron/variants.jpg" alt="Audi Q5 e-tron" title="Audi Q5 e-tron">
+    </a>
+    <figcaption><h4>Audi Q5 e-tron</h4></figcaption>
+</figure>
 
 The variants available are
 
