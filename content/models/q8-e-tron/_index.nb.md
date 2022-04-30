@@ -10,8 +10,8 @@ weight: 5
 Det er forventet at de første eierne vil motta sin Q8 e-tron i Q1 2023. Modellen forventes å ha noen utvendige endringer, større batterier og noen andre kraftelektronikkforbedringer for å redusere forbruket.
 
 <figur>
-    <a href="q8prototype.jpg">
-        <img src="q8prototypes.jpg" alt="Audi Q8 e-tron prototype" title="Audi Q8 e-tron prototype">
+     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/q8prototype.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/q8prototypes.jpg" alt="Audi Q8 e-tron prototype" title="Audi Q8 e-tron prototype">
     </a>
     <figcaption><h4>Audi Q8 e-tron prototype</h4></figcaption>
 </figur>
