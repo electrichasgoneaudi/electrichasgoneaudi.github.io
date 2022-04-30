@@ -9,17 +9,50 @@ The roof can be openeded. In addition to give Audi e-tron a cooler and more excl
 
 You can order panoramic roof with option id **3FU**
 
-![Panoramic roof](panoramaroof.jpg "Panoramatak")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/panoramicroof/panoramaroof.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/panoramicroof/panoramaroofs.jpg"
+        alt="Audi Q4 panoramatak" title="Audi Q4 panoramatak">
+    </a>
+    <figcaption><h4>Audi Q4 panoramatak</h4></figcaption>
+</figure>
 
-![Panoramic roof](openroof.jpg "Taket kan tiltes")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/panoramicroof/openroof.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/panoramicroof/openroofs.jpg"
+        alt="Taket kan tiltes" title="Taket kan tiltes">
+    </a>
+    <figcaption><h4>Taket kan tiltes</h4></figcaption>
+</figure>
 
-![Panoramic roof](openroof_2.jpg "Taket kan åpnes helt for å gi deg kabiorelt følelsen")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/panoramicroof/openroof_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/panoramicroof/openroof_2s.jpg"
+        alt="Taket kan åpnes helt for å gi deg kabriolet følelsen" title="Taket kan åpnes helt for å gi deg kabriolet følelsen">
+    </a>
+    <figcaption><h4>Taket kan åpnes helt for å gi deg kabriolet følelsen</h4></figcaption>
+</figure>
 
-![Panoric roof](inside.jpg "Taket dekker båder for og baksiden")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/panoramicroof/inside.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/panoramicroof/insides.jpg"
+        alt="Taket dekker båder for og baksiden" title="Taket dekker båder for og baksiden">
+    </a>
+    <figcaption><h4>Taket dekker båder for og baksiden</h4></figcaption>
+</figure>
 
-![Panoramic roof](control.jpg "Takkontrollene")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/panoramicroof/control.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/panoramicroof/controls.jpg"
+        alt="Takkontrollene" title="Takkontrollene">
+    </a>
+    <figcaption><h4>Takkontrollene</h4></figcaption>
+</figure>
 
-![Panoramic roof](insideclosed.jpg "Gardin lukket")
-
-
-{{% children description="true" depth="1" %}}
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/panoramicroof/insideclosed.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/panoramicroof/insidecloseds.jpg"
+        alt="Gardin lukket" title="Gardin lukket">
+    </a>
+    <figcaption><h4>Gardin lukket</h4></figcaption>
+</figure>
