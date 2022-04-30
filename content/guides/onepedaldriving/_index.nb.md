@@ -21,15 +21,15 @@ Du er også tvunget til å ha foten på pedalen i en bestemt posisjon for å rul
 
 På Audi kan e-tron sette regenering til manuell (MMI -> Kjøretøy -> Effektivitetsassistent -> regenering) og så kan du hver gang du starter en kjøretur, sette restitusjon til maks med rattets restitusjonspadler, og så vil den regenerere hver gang du løfter foten av "gasspedalen" og fungerer som "én-pedal-kjøring".
 
-![bilde](recuperationmode.png "Recuperation mode")
+![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/recuperationmode.png "Recuperation mode")
 
 Med hjulpadlene kan du stille inn restitusjonen til 3 forskjellige nivåer. (for mer eller mindre bremsing). Høy, middels og av.
 
-![bilde](paddleleft.png "Venstre padle for å øke regen.")
+![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/paddleleft.png "Venstre padle for å øke regen.")
 
-![bilde](paddleright.png "Høyre padle for å redusere regen.")
+![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/paddleright.png "Høyre padle for å redusere regen.")
 
-![bilde](regenlevel.png "Dette viser hvordan regen er på 50 % på maks.")
+![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/regenlevel.png "Dette viser hvordan regen er på 50 % på maks.")
 
 Dette anbefales ikke for erfarne sjåfører. Hvis du lærer å rulle vil du få den beste komforten og den beste rekkevidden.
 Neste gang blir den tilbakestilt. For sjåfører som kommer fra andre elbiler, kan dette være måten å avlære den dårlige vanen på.
@@ -40,8 +40,8 @@ Hvis du setter regenering til automatisk, vil den bare regenere seg når du nær
 
 På Audi Q4 e-tron kan du sette bilen i B-modus ved hjelp av giret. I B-modus vil bilen regenerere når du løfter wattpedalen.
 
-![Q4 girskiftere](q4shifter.jpg "Girskifter Audi Q4 med D/B-modus")
+![Q4 girskiftere](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/q4shifter.jpg "Girskifter Audi Q4 med D/B-modus")
 
-![bilde](regenlevelq4.jpg "Den grønne linjen til høyre for den store D viser regennivået på Q4 når du kjører i B-modus")
+![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/regenlevelq4.jpg "Den grønne linjen til høyre for den store D viser regennivået på Q4 når du kjører i B-modus")
 
 Å kjøre i D-modus og bruke bremsepedalene som automatisk gir regen gir best effektivitet. Rull når du kan.
