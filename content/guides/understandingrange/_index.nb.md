@@ -11,13 +11,13 @@ Europa eller [EPA](https://en.wikipedia.org/wiki/Fuel_economy_in_automobiles#EPA
 
 Nedenfor ser du rekkevidden til de forskjellige nåværende og noen fremtidige Audi -modeller. Rekkevidden er fra 341 km (211 miles) til 700 km (435 miles) i henhold til WLTP kombinert standarden. 
 
-![WLTP Range](wltprangebasictrim.png "WLTP rekkevidde helelektriske Audier")
+![WLTP Range](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/wltprangebasictrim.png "WLTP rekkevidde helelektriske Audier")
 
 Det viktigste aspektet av rekkevidde er selvfølgelig hvor stort batteriet er. Et større batteri betyr mer energi å bruke.
 
 Tabellen nedenfor viser tilgjengelig batteristørrelse for de forskjellige modellene. 
 
-![Battery size](batterysize.png "Tilgjengelig batteri helelektriske Audier")
+![Battery size](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/batterysize.png "Tilgjengelig batteri helelektriske Audier")
 
 Men batteriet er ikke den eneste faktoren som påvirker rekkevidden. En annen viktig faktor er hvor effektiv bilen er.
 
@@ -25,7 +25,7 @@ Og med effektivitet betyr det hvor mye energi som brukes fra batteriet for å kj
 
 Diagrammet nedenfor viser det beregnede forbruket i kWh/100km for de forskjellige helelektriske modellene i henhold til WLTP-kombinert standarden.
 
-![Consumption](wltpconsumptionbasictrim.png "Kalkulert forbruk kWh/100km")
+![Consumption](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/wltpconsumptionbasictrim.png "Kalkulert forbruk kWh/100km")
 
 ## Hva påvirker WLTP forbruket?
 
@@ -38,13 +38,13 @@ påvirker det men også utformingen av felger.
 
 Audi A6 e-tron concept er for øyblikket modellen med lavest [drag coefficient](https://en.wikipedia.org/wiki/Drag_coefficient) med en Cw  verdi på kun 0.22
 
-![Audi A6 e-tron concept](audia6etron.jpg "Audi A6 e-tron med Cw  verdi på kun 0.22")
+![Audi A6 e-tron concept](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/audia6etron.jpg "Audi A6 e-tron med Cw  verdi på kun 0.22")
 
 Grafen nedenfor viser hvor mye luftmotstanden påvirker forbruker på forskjellige modeller.
 
 <figure>
-    <a href="aerodynamicdrag.png">
-        <img src="aerodynamicdrags.png" alt="Consumption caused by aerodynamic dra" title="Consumption caused by aerodynamic dra">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/aerodynamicdrag.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/aerodynamicdrags.png" alt="Consumption caused by aerodynamic dra" title="Consumption caused by aerodynamic dra">
     </a>
     <figcaption><h4>Consumption caused by aerodynamic dra</h4></figcaption>
 </figure>
@@ -79,7 +79,7 @@ For et hjul er dette påvirket av bredden på hjulet, vekten på bilen, sammense
 
 Audi RS e-tron GT har veldig brede dekk med 285 mm for å få best trekkraft. Dette øker rullemotstanden. Som et alternativ kan du få 305 mm brede dekk som øker veigrepet og reduserer rekkevidden.
 
-![Audi RS e-tron GT](rsetrongt.jpg "Audi RS e-tron GT med 305mm bakre hjul")
+![Audi RS e-tron GT](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/rsetrongt.jpg "Audi RS e-tron GT med 305mm bakre hjul")
 
 Noen dekkprodusenter har begynt å produsere dekk for elbiler, med lav rullemotstand.
 
@@ -104,7 +104,7 @@ Nyere biler kombinerer ofte disse to teknikkene med en bakre synkron motor som a
 Audi jobber med den nye PPE -plattformen, og allerede nå vet vi det
 dette drivverket vil ha en forbedret effektivitet.
 
-![PPE Drivetrain](../../../technology/bev-platforms/ppe/ppepresentation2.png "PPE Drivetrain")
+![PPE Drivetrain](https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/ppepresentation2.png "PPE Drivetrain")
 
 ### Indre motstand i batteri
 
@@ -118,7 +118,7 @@ Men andre faktorer er påvirket av valg av utstyr man velger til bilen. Hvis man
 
 Grafen nedenfor viser hvor mye forbruket kan øke hvis man velger å legge på alt ekstrautstyr som er tilgjengelig. 
 
-![Consumption](optionsconsumption.jpg "WLTP forbruk med alt utstyr.")
+![Consumption](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/optionsconsumption.jpg "WLTP forbruk med alt utstyr.")
 
 Fra grafen kan man se at en Audi e-tron 55 har et forbruk på 19.61 kWh/100km med standard utstyr, men 23.44 kWh/100km med alt utstyr.
 
@@ -156,7 +156,7 @@ Som sjåfør kan du påvirke rekkevidden stort.
 - Se fremover og planlegg kjøringen slik at du kan rulle mest mulig.
 - Når man trenger å redusere fart, start reduksjon så tidlig at man kun trenger å bruke regenerering for å bremse.
 
-![Audi e-tron S med en tung høyrefot i regnet](etronsinthewet.jpg "Audi e-tron S med en tung høyrefot i regnet")
+![Audi e-tron S med en tung høyrefot i regnet](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/etronsinthewet.jpg "Audi e-tron S med en tung høyrefot i regnet")
 
 ## Hvordan virker rekkeviddeindikatoren i elektriske Audier
 
@@ -169,7 +169,7 @@ Dette skaper en rekke spørsmål fra eiere om rekkevidden siden mange opplever a
 
 Nedenfor ser dere eksempler på slike spørsmål fra Facebook grupper.
 
-![Facebook questions](facebookno.png "Spørsmål fra eiere basert på rekkeviddeindikator")
+![Facebook questions](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/facebookno.png "Spørsmål fra eiere basert på rekkeviddeindikator")
 
 Så hvordan virker rekkeviddeindikatoren?
 
@@ -179,7 +179,7 @@ Rekkeviddeindikatoren baserer beregning av rekkevidde på følgende data.
 - Hvor mye batteriet er ladet.
 - Planlagt rute i navigasjonssystemet.
 
-![Range indicator](virtualcockpit.png "Virtual cockpit med rekkeviddeindikator")
+![Range indicator](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/virtualcockpit.png "Virtual cockpit med rekkeviddeindikator")
 
 La oss anta du har  en e-tron 55 med 86.5kWh tilgjengelig batteri og du har ladet til 100%.
 
