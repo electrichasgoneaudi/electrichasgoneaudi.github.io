@@ -4,7 +4,7 @@ linktitle: Ports and connections
 description: Audi Q4 has options for both USB-C and 12-volt ports in the car.
 weight: 9
 ---
-
+<!-- markdownlint-disable MD033 -->
 
 ![USB-C](ports1.jpg "USB-C connections")
 

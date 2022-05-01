@@ -4,7 +4,7 @@ linktitle: Låsesystemer
 description: Audi Q4 e-tron har forskjellige nøkkel og låsesystemer som standard eller tileggsutstyr.
 weight: 7
 ---
-
+<!-- markdownlint-disable MD033 -->
 ## Standard nøkkel
 
 Standardnøkkelen på Audi Q4 e-tron er utstyrt med Keyless Go. Dette betyr at motorstartautorisasjonen frigis uten aktiv betjening av nøkkelen.

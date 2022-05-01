@@ -4,7 +4,7 @@ linktitle: Sikkerhet
 description: Audi Q4 e-tron har flere sikkerhetsteknologier for å redusere skader ved kollisjoner
 weight: 10
 ---
-
+<!-- markdownlint-disable MD033 -->
 ## Kollisjonsputer
 
 Audi Q4 e-tron har flere kollisjonsputer som standard.

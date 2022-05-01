@@ -4,7 +4,7 @@ linktitle: Assistentsystemer
 description: Audi Q4 e-tron har flere kjøreassistentsystemer for å øke sikkerheten og gjøre hver kjøring mer komfortabel.
 weight: 1
 ---
-
+<!-- markdownlint-disable MD033 -->
 En frontradar, ett frontkamera, fire omgivelses-kameraer, to bakradarer og åtte ultralydsensorer: Når bilen er fullt utstyrt, dekker sensorsystemet til Audi Q4 e-tron og Q4 Sportback e-tron et stort sansefelt og en stort antall trafikksituasjoner.
 
 ![Sensorer Audi Q4 e-tron](sensors.jpg "Audi Q4 e-tron sensorer")

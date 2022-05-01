@@ -4,7 +4,7 @@ linktitle: Safety
 description: Audi Q4 e-tron has an serveral safety technologies to reduce damage in collisions
 weight: 10
 ---
-
+<!-- markdownlint-disable MD033 -->
 ## Airbags
 
 Audi Q4 e-tron has serveral airbags as standard.

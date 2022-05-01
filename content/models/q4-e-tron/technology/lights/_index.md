@@ -4,18 +4,24 @@ linktitle: Lights
 description: Audi Q4 e-tron has advanced lightning options
 weight: 3
 ---
-
+<!-- markdownlint-disable MD033 -->
 ## The headlights
 
 There is two types of headlights available on Audi Q4 e-tron
 
 ### Standard headlights
 
-The headlights of the Q4 e-tron and the Q4 Sportback e-tron are fully equipped with LEDs as standard. 
+The headlights of the Q4 e-tron and the Q4 Sportback e-tron are fully equipped with LEDs as standard.
 
-![Standard Head lights](headlightstandard.jpg "Standard LED head lights with LED indicator lights")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/headlightstandard.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/headlightstandards.jpg" 
+        alt="Standard LED head lights with LED indicator lights" title="Standard LED head lights with LED indicator lights">
+    </a>
+    <figcaption><h4>Standard LED head lights with LED indicator lights</h4></figcaption>
+</figure>
 
-The standard headlights does not include high-beam assistant or head light washers. 
+The standard headlights does not include high-beam assistant or head light washers.
 
 High beam assistant has option id **8G1** and head light washers has option id **8X8**
 
@@ -23,15 +29,45 @@ High beam assistant has option id **8G1** and head light washers has option id *
 
 On request, Audi also offers the Matrix LED headlights – they lend the two electric compact SUVs a look that is full of character and unmistakable, day and night. The next stage of evolution in daytime running lights is totally new among the competition. Using the MMI touch operating system, the driver can switch between four digital light signatures at any time. Each of them generates its own theme and lends the daytime running lights an individual expression. The variant selected is activated the next time the vehicle is started. The below show the 4 different signatures
 
-![Signature 1](signature1.jpg "Light signature 1")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature1s.jpg"
+        alt="Light signature 1" title="Light signature 1">
+    </a>
+    <figcaption><h4>Light signature 1</h4></figcaption>
+</figure>
 
-![Signature 2](signature2.jpg "Light signature 2")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature2s.jpg"
+        alt="Light signature 2" title="Light signature 2">
+    </a>
+    <figcaption><h4>Light signature 2</h4></figcaption>
+</figure>
 
-![Signature 3](signature3.jpg "Light signature 3")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature3s.jpg"
+        alt="Light signature 3" title="Light signature 3">
+    </a>
+    <figcaption><h4>Light signature 3</h4></figcaption>
+</figure>
 
-![Signature 4](signature4.jpg "Light signature 4")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature4s.jpg"
+        alt="Light signature 4" title="Light signature 4">
+    </a>
+    <figcaption><h4>Light signature 4</h4></figcaption>
+</figure>
 
-![Signature menu](signaturemenu.jpg "Signature selection is done in MMI")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signaturemenu.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signaturemenus.jpg"
+        alt="Signature selection is done in MMI" title="Signature selection is done in MMI">
+    </a>
+    <figcaption><h4>Signature selection is done in MMI</h4></figcaption>
+</figure>
 
 The vide below show more details
 
@@ -49,17 +85,31 @@ See video below how HD Matrix works on an e-tron
 
 In combination with the Matrix LED headlights, there is also a particularly elegant light solution at the rear of the compact electric SUV. A light strip runs across its full width; at its center the taillight beams out in a fine line that splits into separate segments at its ends. Each individual segment is modeled as a three-dimensional body, resulting in a light sculpture that is expressive from all perspectives. The light signature opens up into a large light anchor segment on the sides of the vehicle. Its dynamic graphic is inspired by intricate electric circuits and bears the Four Rings radiating in signature red as the central detail. The dynamic turn signals add a further highlight in the reversing lights.
 
-![Tailight without matrix](rearwithoutmatrix.jpg "Taillight without matrix with no light bar and only 1 reversing light")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/rearwithoutmatrix.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/rearwithoutmatrixs.jpg"
+        alt="Taillight without matrix with no light bar and only 1 reversing light" title="Taillight without matrix with no light bar and only 1 reversing light">
+    </a>
+    <figcaption><h4>Taillight without matrix with no light bar and only 1 reversing light</h4></figcaption>
+</figure>
 
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/rearwithmatrix2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/rearwithmatrix2s.jpg"
+        alt="Taillight with matrix with light bar and 2 reversing light" title="Taillight with matrix with light bar and 2 reversing light">
+    </a>
+    <figcaption><h4>Taillight with matrix with light bar and 2 reversing light</h4></figcaption>
+</figure>
 
-![Tailight without matrix](rearwithmatrix2.jpg "Taillight with matrix with light bar and 2 reversing light")
-
-![Rear comparison](rearcomparison.jpg "Illustration with and without matrix")
-
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/rearcomparison.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/rearcomparisons.jpg"
+        alt="Illustration with and without matrix" title="Illustration with and without matrix">
+    </a>
+    <figcaption><h4>Illustration with and without matrix</h4></figcaption>
+</figure>
 
 When the car is unlocked and exited, dynamic “leaving home” and “coming home” light sequences are played in the rear lights and the headlights. The sequences in the headlights vary depending on which daytime running light signature is selected.
 
-
 <script src="https://www.audimedia.tv/embed.js" id="amc-video-5582-en"></script>
 
-{{% children description="true" depth="1" %}}

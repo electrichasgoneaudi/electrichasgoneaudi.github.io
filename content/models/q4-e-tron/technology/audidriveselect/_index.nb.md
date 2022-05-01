@@ -4,6 +4,7 @@ linktitle: Drive Select
 description: Audi Q4 e-tron has an option for Audi Drive select.
 weight: 2
 ---
+<!-- markdownlint-disable MD033 -->
 Audi drive select er en del av alternativ id **PY8** kjørepakke og alternativ id **PY9** kjørepakke pluss. Den siste inkluderer spjeldjustering.
 
 Audi drive select dynamisk håndteringssystem lar førere oppleve ulike oppsett i sin Audi e-tron.

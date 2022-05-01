@@ -4,7 +4,7 @@ linktitle: Ladesystem
 description: Audi Q4 e-tron inkluderer et bærbart nødladesystem for nivå 1 og nivå 2 lading. 
 weight: 6
 ---
-
+<!-- markdownlint-disable MD033 -->
 Charging System Compact er ikke laderen, teknisk sett. Dette utstyret er kjent som [EVSE](https://en.wikipedia.org/wiki/Charging_station) (Electric Vehicle Supply Equipment) og fungerer som en
 kontroller som sørger for sikker strømforsyning mellom hjemmet ditt og kjøretøyet. Hver Audi Q4 e-tron er utstyrt med dette ladesystemet som standard.
 

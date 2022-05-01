@@ -4,7 +4,7 @@ linktitle: Audi Phone box
 description: With Audi Phone Box you can improve convience with using telephone in the car.
 weight: 9
 ---
-
+<!-- markdownlint-disable MD033 -->
 With  Audi Phone Box Two smartphones can be connected to the car via Bluetooth at the same time. One can, for example, be used to call or play
 music in the car. Depending on the smartphone model, it is also possible to view e-mail and SMS in MMI via Bluetooth. 
 

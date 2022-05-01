@@ -4,7 +4,7 @@ linktitle: Audi Phone box
 description: Med Audi Phone Box kan du gjøre det enklere å bruke telefonen i bilen.
 weight: 9
 ---
-
+<!-- markdownlint-disable MD033 -->
 Med Audi Phone Box To smarttelefoner kan kobles til bilen via Bluetooth samtidig. Man kan for eksempel brukes til å ringe eller spille
 musikk i bilen. Avhengig av smarttelefonmodell er det også mulig å se e-post og SMS i MMI via Bluetooth.
 

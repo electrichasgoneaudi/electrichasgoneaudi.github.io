@@ -4,7 +4,7 @@ linktitle: Driver Assistance
 description: Audi Q4 e-tron has several driving assistance systems to increase safety and make every drive more comfortable.
 weight: 1
 ---
-
+<!-- markdownlint-disable MD033 -->
  One front radar, one front camera, four surround-view cameras, two rear radars, and eight ultrasonic sensors: When fully equipped, the sensor system of the Audi Q4 e-tron and the Q4 Sportback e-tron covers a large sensing field and a large number of traffic situations.
  
  ![Sensors Audi Q4 e-tron](sensors.jpg "Audi Q4 e-tron sensors")

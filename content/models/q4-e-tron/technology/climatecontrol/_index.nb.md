@@ -4,7 +4,7 @@ linktitle: Klimaanlegg
 description: Audi Q4 e-tron er utstyrt med 1-soners elektronisk klimaanlegg som standard
 weight: 10
 ---
-
+<!-- markdownlint-disable MD033 -->
 Anlegget har følgende egenskaper.
 
 - Elektronisk regulering av lufttemperatur, -mengde og -fordeling

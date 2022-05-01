@@ -4,7 +4,7 @@ linktitle: Lydsystem
 description: Du kan velge mellom to forskjellige lydsystemer på Audi Q4 e-tron 
 weight: 7
 ---
-
+<!-- markdownlint-disable MD033 -->
 ## Audi sound system
 
 Standard lydsystem er et 180 Watt 6-kanalssystem med 8 høyttalere inkludert senterhøyttaler og subwoofer.

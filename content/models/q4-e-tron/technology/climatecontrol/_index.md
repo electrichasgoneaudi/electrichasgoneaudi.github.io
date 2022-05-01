@@ -4,7 +4,7 @@ linktitle: Climate control
 description: Audi Q4 e-tron is equipped with 1-zone electronic climate control as standard.
 weight: 10
 ---
-
+<!-- markdownlint-disable MD033 -->
 The system has the following characteristics.
 
 - Electronic regulation of air temperature, volume and distribution

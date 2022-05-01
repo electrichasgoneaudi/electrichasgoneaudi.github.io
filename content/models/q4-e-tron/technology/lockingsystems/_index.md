@@ -4,7 +4,7 @@ linktitle: Access & locking
 description: Audi Q4 e-tron have different key and locking options.
 weight: 7
 ---
-
+<!-- markdownlint-disable MD033 -->
 ## Standard key
 
 The standard key on Audi Q4 e-tron is equipped with Keyless Go. This means that the engine start authorization is released without actively actuating the key.
