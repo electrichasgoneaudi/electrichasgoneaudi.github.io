@@ -23,11 +23,23 @@ Avhengig av alternativ og oppsett påvirker innstillingene for valg av stasjon f
 - Adaptiv Cruise Assist
 - Audi Pre Sense
 
-![Drive Select](driveselectbuttons.jpg "Drive Select er tilgjengelig som separate knapper og fra MMI")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/audidriveselect/driveselectbuttons.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/audidriveselect/driveselectbuttonss.jpg"
+        alt="Drive Select er tilgjengelig som separate knapper og fra MMI" title="Drive Select er tilgjengelig som separate knapper og fra MMI">
+    </a>
+    <figcaption><h4>Drive Select er tilgjengelig som separate knapper og fra MMI</h4></figcaption>
+</figure>
 
 ### Modi
 
-![Drive Select Menu](driveselectmenu.jpg "Drive Select-meny i MMI")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/audidriveselect/driveselectmenu.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/audidriveselect/driveselectmenus.jpg"
+        alt="Drive Select-meny i MMI" title="Drive Select-meny i MMI">
+    </a>
+    <figcaption><h4>Drive Select-meny i MMI</h4></figcaption>
+</figure>
 
 **efficiency** - Kjøretøyet bytter til et drivstoffeffektivt kjøretøyoppsett og støtter sjåføren med meldinger om drivstofføkonomi. Kjøreprogrammet "E" er valgt.
 
@@ -41,7 +53,13 @@ Avhengig av alternativ og oppsett påvirker innstillingene for valg av stasjon f
 
 ### Individuelle innstillinger
 
-![Individuelle innstillinger](individualsettings.jpg "Individuelle innstillinger")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/audidriveselect/individualsettings.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/audidriveselect/individualsettingss.jpg"
+        alt="Individuelle innstillinger" title="Individuelle innstillinger">
+    </a>
+    <figcaption><h4>Individuelle innstillinger</h4></figcaption>
+</figure>
 
 #### Kjøre
 

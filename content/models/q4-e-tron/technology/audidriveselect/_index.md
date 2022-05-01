@@ -23,11 +23,23 @@ Depending on option and setup drive select settings affect the following.
 - Adaptive Cruise Assist
 - Audi Pre Sense
 
-![Drive Select](driveselectbuttons.jpg "Drive Select are available as seperate buttons and from MMI")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/audidriveselect/driveselectbuttons.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/audidriveselect/driveselectbuttonss.jpg"
+        alt="Drive Select are available as seperate buttons and from MMI" title="Drive Select are available as seperate buttons and from MMI">
+    </a>
+    <figcaption><h4>Drive Select are available as seperate buttons and from MMI</h4></figcaption>
+</figure>
 
 ### Modes
 
-![Drive Select Menu](driveselectmenu.jpg "Drive Select menu in MMI")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/audidriveselect/driveselectmenu.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/audidriveselect/driveselectmenus.jpg"
+        alt="Drive Select menu in MMI" title="Drive Select menu in MMI">
+    </a>
+    <figcaption><h4>Drive Select menu in MMI</h4></figcaption>
+</figure>
 
 **efficiency** - The vehicle switches to a fuel-efficient vehicle setup and supports the driver with fuel economy messages. The “E” driving program is selected.  
 
@@ -41,7 +53,13 @@ Depending on option and setup drive select settings affect the following.
 
 ### Individual settings
 
-![Individual settings](individualsettings.jpg "Individual settings")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/audidriveselect/individualsettings.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/audidriveselect/individualsettingss.jpg"
+        alt="Individual settings" title="Individual settings">
+    </a>
+    <figcaption><h4>Individual settings</h4></figcaption>
+</figure>
 
 #### Drive
 
