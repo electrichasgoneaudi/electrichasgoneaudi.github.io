@@ -30,7 +30,7 @@ Audi e-tron GT is the second all-electric model from Audi. With the Audi RS e-tr
 
 ## Audi q4 e-tron
 
-[![Audi e-tron](q4-e-tron/variants/variants1.jpg)](q4-e-tron/)
+[![Audi e-tron](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/variants1.jpg)](q4-e-tron/)
 
 The Audi Q4 e-tron and the Q4 Sportback e-tron are the first compact electric SUVs and the third all-electric model from Audi. Available in 7 variants.
 
@@ -46,7 +46,7 @@ The Audi Q4 e-tron and the Q4 Sportback e-tron are the first compact electric SU
 
 ## Audi Q8 e-tron
 
-[![Audi Q8 e-tron](q8-e-tron/q8prototypes.jpg)](q8-e-tron/)
+[![Audi Q8 e-tron](https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/q8prototypes.jpg)](q8-e-tron/)
 
 Audi Q8 e-tron will have a world premiere in 2022 and will replace the Audi e-tron. The Audi Q8 e-tron is a facelift of the Audi e-tron and is renamed
 to make it more logically named together with the Q4 e-tron and the Q6 e-tron. The battery will be a little larger that will increase the range by 15-20% compared to the Audi e-tron.
