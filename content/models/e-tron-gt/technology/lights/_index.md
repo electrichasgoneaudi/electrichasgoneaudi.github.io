@@ -5,7 +5,14 @@ description: Audi e-tron GT has a lot of lightning options
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
-![Headlights](headlights_1.jpg "Headlights")
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_1s.jpg"
+        alt="Headlights" title="Headlights">
+    </a>
+    <figcaption><h4>Headlights</h4></figcaption>
+</figure>
 
 The headlights and rear lights are characteristic elements of the exterior design of the e-tron GT quattro. This is where the character of the electrically powered gran turismo is focused. They are three-dimensional sculptures with a dynamic character and digital aesthetics. The wedge-shaped headlights in the e-tron GT are available in three versions. 
 
@@ -17,13 +24,25 @@ The matrix LED headlights are also available as an alternative; these come as st
 
 ## Matrix LED with Laser
 
-![Headlights](headlights_2.jpg "Headlights with laser")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_2s.jpg"
+        alt="Headlights with laser" title="Headlights with laser">
+    </a>
+    <figcaption><h4>Headlights with laser</h4></figcaption>
+</figure>
 
 Topping the range are the matrix LED headlights with Audi laser light. In the center of the headlights, between the low beam and high beam modules, there is a laser spot that is activated from a speed of 70 km/h (43.5 mph) and doubles the range of the high beam. It is framed by an X-shaped trim with expressive design that is a small work of art in itself. Its lower section consists of free-standing eleme
 
 ## LED taillights
 
-![Tail lights](taillights_1.jpg "Taillights")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/taillights_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/taillights_1s.jpg"
+        alt="Taillights" title="Taillights">
+    </a>
+    <figcaption><h4>Taillights</h4></figcaption>
+</figure>
 
 A sculpted light strip spans the entire width of the rear end of the e-tron GT. It transitions dynamically into arrow segments that increase in size toward the outside, thereby creating an unmistakable, lean tail light signature. Independently of the headlight configuration, the rear lights are fitted entirely with LEDs and dynamic turn signals that spreads out flat under the tail light signature. The brake light is located below, in a low and dark area.
 

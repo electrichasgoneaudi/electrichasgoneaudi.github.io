@@ -5,9 +5,16 @@ description: Audi e-tron GT har avanserte lysmuligheter og velge mellom
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
-![Headlights](headlights_1.jpg "Headlights")
 
-Frontlyktene og baklysene er karakteristiske elementer i eksteriørdesignen til e-tron GT quattro. Det er her karakteren til den elektrisk drevne gran turismo er fokusert. 
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_1s.jpg"
+        alt="Hovedlykter" title="Hovedlykter">
+    </a>
+    <figcaption><h4>Hovedlykter</h4></figcaption>
+</figure>
+
+Frontlyktene og baklysene er karakteristiske elementer i eksteriørdesignen til e-tron GT quattro. Det er her karakteren til den elektrisk drevne gran turismo er fokusert.
 
 De er tredimensjonale skulpturer med dynamisk karakter og digital estetikk. De kileformede frontlyktene i e-tron GT er tilgjengelig i tre versjoner.
 
@@ -19,13 +26,25 @@ Matrix LED-frontlyktene er også tilgjengelig som et alternativ; disse kommer so
 
 ## Matrix LED med laser
 
-![Headlights](headlights_2.jpg "Hovedlykter med laser")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_2s.jpg"
+        alt="Hovedlykter med laser" title="Hovedlykter med laser">
+    </a>
+    <figcaption><h4>Hovedlykter med laser</h4></figcaption>
+</figure>
 
 Toppen er matrise-LED-frontlyktene med Audi laserlys. I midten av frontlysene, mellom nærlys- og fjernlysmodulene, er det et laserpunkt som aktiveres fra en hastighet på 70 km/t (43,5 mph) og dobler rekkevidden til fjernlyset. Den er innrammet av en X-formet trim med uttrykksfull design som er et lite kunstverk i seg selv. Den nedre delen består av frittstående eleme
 
 ## LED-baklys
 
-![Baklykter](taillights_1.jpg "Baklykter")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_2s.jpg"
+        alt="Baklykter" title="Baklykter">
+    </a>
+    <figcaption><h4>Baklykter</h4></figcaption>
+</figure>
 
 En skulpturert lyslist spenner over hele bredden av bakenden av e-tron GT. Den går dynamisk over i pilsegmenter som øker i størrelse mot utsiden, og skaper dermed en umiskjennelig, mager baklyssignatur. Uavhengig av frontlyskonfigurasjonen, er baklysene utstyrt med lysdioder og dynamiske blinklys som sprer seg flatt under baklyssignaturen. Bremselyset er plassert under, i et lavt og mørkt område.
 
@@ -36,5 +55,3 @@ De førsteklasses frontlyktene tilbyr en annen karakteristisk funksjon: å komme
 Denne animasjonen viser lysteknologien inkludert Matrix LED-frontlykter med laser som ekstra fjernlys i Audi e-tron GT.
 
 {{< youtube NYX8-n0dAmo >}}
-
-{{% children description="true" depth="1" %}}
