@@ -9,7 +9,13 @@ weight: 2
 
 Standardinstrumenteringen er en digital skjerm som viser de viktigste bildataene som rekkevidde, hastigheter, batteristatus
 
-![Intrument](multiinstrument.jpg "Kombinasjonsinstrument!")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/multiinstrument.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/multiinstrument.jpg"
+        alt="Kombinasjonsinstrument" title="Kombinasjonsinstrument">
+    </a>
+    <figcaption><h4>Kombinasjonsinstrument</h4></figcaption>
+</figure>
 
 ## Virtuell cockpit-alternativ
 
@@ -23,7 +29,13 @@ Den inkluderer tradisjonell hastighet, batteristatus, strømlinjetall samt infor
 
 Faste indikatorer vises langs den nedre kanten; de viser utetemperatur, tid og kilometerstand samt advarsels- og informasjonssymboler.
 
-![Virtual cockpit](mminavigationvirtualcockpit.jpg " Virtual Cockpit infotainmentvisning i klassisk modus")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/mminavigationvirtualcockpit.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/mminavigationvirtualcockpits.jpg"
+        alt="Virtual Cockpit infotainmentvisning i klassisk modus" title="Virtual Cockpit infotainmentvisning i klassisk modus">
+    </a>
+    <figcaption><h4>Virtual Cockpit infotainmentvisning i klassisk modus</h4></figcaption>
+</figure>
 
 Bildet oppdateres 60 ganger i sekundet slik at den virtuelle nålen til turtelleren sporer jevnt og veldig presist.
 
@@ -38,7 +50,11 @@ Det skaper en stor scene for navigasjonskartet eller for lister i telefon-, radi
 
 Med virtuell cockpit får du to forskjellige moduser. Men med Virtual Cockpit pluss får du en ekstra e-tron-modus. Dette er end el av [MMI Navigation Pro pakken **PYH**](../../../optionguide/list/#infotainment)
 
-![Virtuelle cockpit-moduser](virtualcockpitmodes.jpg "Virtuelle cockpit-moduser")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/virtualcockpitmodes.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/virtualcockpitmodess.jpg"
+        alt="Virtual cockpit moduser" title="Virtual cockpit moduser">
+    </a>
+    <figcaption><h4>Virtual cockpit moduser</h4></figcaption>
+</figure>
 
-
-{{% children description="true" depth="1" %}}
