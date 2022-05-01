@@ -11,7 +11,13 @@ På Audi Q4 e-tron er det to tilgjengelige kjøremoduser.
 - **D-modus** : bil ruller når du løfter wattpedalen (kraft)
 - **B-modus (brems)** : bilen reduserer hastigheten mens den gjenvinner energi.
 
-![Q4 shiter](q4shifter.jpg "Drive mode shifter")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/q4shifter.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/q4shifters.jpg"
+        alt="Drive mode shifter" title="Drive mode shifter">
+    </a>
+    <figcaption><h4>Drive mode shifter</h4></figcaption>
+</figure>
 
 Hvilke av dem er mest effektiv hvis man ønsker lengst mulig rekkevidde?
 
@@ -22,7 +28,13 @@ For å kunne kjøre i B-modus må du holde foten på gassen på et bestemt sted,
 
 På andre biler ville B-modus vært mer effektivt, men Audi har laget blandede bremser som alltid restituerer når du trykker på bremsepedalen hvis mulig. Derfor kaster du ikke bort energi på å bruke bremsepedalen på Audi Q4 e-tron.
 
-![Regen leve](regenlevelq4.jpg "Audi Q4 e-tron effektmåler viser B-modus")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/regenlevelq4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/regenlevelq4.jpg"
+        alt="Audi Q4 e-tron effektmåler viser B-modus" title="Audi Q4 e-tron effektmåler viser B-modus">
+    </a>
+    <figcaption><h4>Audi Q4 e-tron effektmåler viser B-modus</h4></figcaption>
+</figure>
 
 Merk: Hvis "dynamisk"-modus er innstilt i det valgfrie [Audi drive select dynamic handling system](../../../technology/audidriveselect/) (standard i Sportback), skjer restitusjonen også i gir D, men litt svakere enn i B.
 

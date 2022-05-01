@@ -41,7 +41,13 @@ Mange forbrukere er ikke klar over at å legge til mer utstyr som større hjul r
 Eiere reagerer vanligvis når deres Audi Q4 e-tron estimerte rekkevidde er mye lavere enn Audi annonserer.
 Nedenfor ser du noen eksempler på rekkevide lagt ut av brukere i ulike grupper på sosiale medium.
 
-![Lavt område](lowrangeexample.jpg)
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/lowrange/lowrangeexample.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/lowrange/lowrangeexamples.jpg"
+        alt="Eksempel på rapportert rekkevidde" title="Eksempel på rapportert rekkevidde">
+    </a>
+    <figcaption><h4>Eksempel på rapportert rekkevidde</h4></figcaption>
+</figure>
 
 ## Hvorfor anslår bilen denne rekkevidden?
 
@@ -53,7 +59,13 @@ Områdeindikatoren baserer rekkevidden på følgende data
 
 Så anta at du har en Audi Q4 e-tron 50 med 76,6 kWh batteri og at du har ladet den til 100 % og den siste turen din var denne
 
-![Triphistory](triphistory.jpg "Triphistory")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/lowrange/triphistory.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/lowrange/triphistory.jpg"
+        alt="Triphistory" title="Triphistory">
+    </a>
+    <figcaption><h4>Triphistory</h4></figcaption>
+</figure>
 
 Beregner vi rekkevidden ut fra forbruket på 27,6 kWh/100km får vi
 

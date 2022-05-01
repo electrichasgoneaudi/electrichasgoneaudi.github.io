@@ -41,7 +41,13 @@ Many consumers are not aware that adding more equipment like larger wheels reduc
 Owners typically react when their Audi Q4 e-tron estimated range is much lower than advertised by Audi.
 Below you see some examples of ranges posted by users in different social media groups.
 
-![Low range](lowrangeexample.jpg)
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/lowrange/lowrangeexample.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/lowrange/lowrangeexamples.jpg"
+        alt="Example on reported range" title="Example on reported range">
+    </a>
+    <figcaption><h4>Example on reported range</h4></figcaption>
+</figure>
 
 ## Why does the car estimate this range?
 
@@ -53,7 +59,13 @@ The range indicator base its range on the following data
 
 So assume you have an Audi Q4 e-tron 50 with 76.6kWh battery and you have charged it to 100% and your last trip was this
 
-![Triphistory](triphistory.jpg "Triphistory")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/lowrange/triphistory.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/lowrange/triphistory.jpg"
+        alt="Triphistory" title="Triphistory">
+    </a>
+    <figcaption><h4>Triphistory</h4></figcaption>
+</figure>
 
 If we calculate the range based on the consumption on 27.6 kWh/100km we get
 

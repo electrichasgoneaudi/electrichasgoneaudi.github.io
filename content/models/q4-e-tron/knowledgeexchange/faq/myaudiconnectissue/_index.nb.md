@@ -8,7 +8,7 @@ hidden: true
 <!-- markdownlint-disable MD033 -->
 Disse operasjonene kan være å starte pre-klimatisering eller endre charing-mål. Eller bare sjekke bilens status.
 
-![Tilkoblingsproblem](connectissuenb3.jpg "myAudi-feilmelding")
+![Tilkoblingsproblem](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/myaudiconnectissue/connectissuenb3.jpg "myAudi-feilmelding")
 
 Det er ingen felles løsning på dette problemet. Og i mange tilfeller er det ingenting du kan gjøre. Men her er noen av de vanligste problemene og løsningene
 

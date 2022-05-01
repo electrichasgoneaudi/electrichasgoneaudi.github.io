@@ -11,7 +11,13 @@ On the Audi Q4 e-tron, there are two drive modes available.
 - **D-mode** : car coast when lifting the watt pedal (power)
 - **B-mode (brake)** : car reduces speed while it recuperates energy when lifting the watt pedal (power)
 
-![Q4 shiter](q4shifter.jpg "Drive mode shifter")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/q4shifter.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/q4shifters.jpg"
+        alt="Drive mode shifter" title="Drive mode shifter">
+    </a>
+    <figcaption><h4>Drive mode shifter</h4></figcaption>
+</figure>
 
 May owners ask questions about what is most efficient.
 
@@ -22,7 +28,13 @@ To be able to coast in B-mode you would need to hold foot on the throttle on a s
 
 On other cars, B-mode would be more efficient, but Audi has created blended brakes that always do recuperate when pressing the brake pedal if possible. That's why you don't  waste  energy using the brake pedal on the Audi Q4 e-tron.
 
-![Regen leve](regenlevelq4.jpg "Audi Q4 e-tron power meter showing B mode")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/regenlevelq4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/regenlevelq4.jpg"
+        alt="Audi Q4 e-tron power meter showing B mode" title="Audi Q4 e-tron power meter showing B mode">
+    </a>
+    <figcaption><h4>Audi Q4 e-tron power meter showing B mode</h4></figcaption>
+</figure>
 
 Note:  If “dynamic” mode is set in the optional [Audi drive select dynamic handling system](../../../technology/audidriveselect/) (standard in the Sportback), recuperation also takes place in gear D but at a slightly weaker rate than in B.
 

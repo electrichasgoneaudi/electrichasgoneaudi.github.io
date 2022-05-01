@@ -8,15 +8,21 @@ hidden: true
 <!-- markdownlint-disable MD033 -->
 First. What is the expected charging rate? Under optimal conditions, the charge curve will look like this.
 
-![Charging curve](chargecurve.jpg "Charging curve Q4 e-tron optimal conditions")
+![Charging curve](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.jpg "Charging curve Q4 e-tron optimal conditions")
 
 That means that you often see 125kW up to 35%.
 
-![Audi Q4 e-tron charging at Ionity](charginghpc.jpg "Audi Q4 e-tron charging")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/charginghpc.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/charginghpcs.jpg"
+        alt="Audi Q4 e-tron charging" title="Audi Q4 e-tron charging">
+    </a>
+    <figcaption><h4>Audi Q4 e-tron charging</h4></figcaption>
+</figure>
 
 But people may see that their charging speed is much slower than this.
 
-![Slow charging](slowcharging1.jpg "Example 1 - slow charging curve")
+![Slow charging](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/slowcharging1.jpg "Example 1 - slow charging curve")
 
 ### Reason 1. Cold battery
 
