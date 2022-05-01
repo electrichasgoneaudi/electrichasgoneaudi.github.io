@@ -4,7 +4,7 @@ linktitle: Navigasjonssystem
 description: Audi Q4 e-tron har et valgfritt navigasjonssystem. Dette er MMI Navigation plus-systemet som hjelper deg med å navigere til destinasjonen.
 weight: 2
 ---
-
+<!-- markdownlint-disable MD033 -->
 Navigasjonssystemet på Audi Q4 e-tron er basert på kart og data fra [HERE Maps](https://www.here.com/strategic-alliances/audi/IVIdemo).
 
 Navigasjonssystemet er tilgjengelig i [virtual cockpit](../virtualcockpit/), [Head up display](../headupdisplay/) og [Audi MMi](../mmi/) og vil hjelpe deg med å navigere til destinasjonen, men vil også hjelpe deg med å finne ladestasjoner, parkering og andre interessante steder langs ruten.

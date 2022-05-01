@@ -4,7 +4,7 @@ linktitle: Smartphone Interface
 description: Med smarttelefongrensesnittet på Audi Q4 e-tron utvider du smarttelefonen til MMI-systemet
 weight: 4
 ---
-
+<!-- markdownlint-disable MD033 -->
 Med Audi smarttelefongrensesnitt med alternativ-id **IU1** får du muligheten til å bruke Apple Carplay eller Android Auto i ditt MMI-system.
 
 ![Apple car play](applecarplay.jpg "Apple car play")

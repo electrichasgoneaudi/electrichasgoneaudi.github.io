@@ -4,18 +4,30 @@ linktitle: Head-up display
 description: With the optional augmented reality head-up display in the Q4 e-tron and Q4 Sportback e-tron, Audi is taking a huge step forward in display technology.
 weight: 3
 ---
-
+<!-- markdownlint-disable MD033 -->
  The display reflects important information via the windshield on two separate levels, the status section and the augmented reality (AR) section. The information provided by some of the assist systems and the turning arrows of the navigation system as well as its starting points and destinations are visually superimposed in the corresponding place on the real-life outside world as content of the AR section and displayed dynamically. They appear to be floating at a distance of roughly ten meters from the driver. Depending on the situation, they can appear considerably further ahead in some cases. The driver can understand the displays very quickly without being confused or distracted by them, and they are extremely helpful in poor visibility conditions.
 
 The field of view for the AR content from the driver’s perspective is equivalent to a diagonal of around 70 inches. Below it is a flat near-field area window, known as the status section. It displays the speed driven and the traffic signs as well as the assist system and navigation symbols as static displays. It appears to hover about three meters in front of the driver.
 
-![Headup](headup.jpg "Headup display")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/headupdisplay/headup.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/headupdisplay/headups.jpg"
+        alt="Headup display" title="Headup display">
+    </a>
+    <figcaption><h4>Headup display</h4></figcaption>
+</figure>
 
 ### The heart of the system: the picture generation unit
 
 The technical heart of the augmented reality head-up display is the picture generation unit (PGU), which is located deep inside the long instrument panel. A particularly bright LCD directs the light beams it generates onto two level mirrors, and special optical components separate the portions for the near-field and distant areas. The level mirrors direct the beams onto a large concave mirror that can be adjusted electrically. From there, they reach the windshield, which reflects them into what is known as the eyebox and thus onto the driver’s eyes. At an apparent distance of ten meters, or even further away depending on the situation, the driver sees the symbols just as clearly as their real-life environment.
 
-![Head up unit](headupunit.jpg)
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/headupdisplay/headupunit.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/headupdisplay/headupunits.jpg"
+        alt="Headup display unit" title="Headup display unit">
+    </a>
+    <figcaption><h4>Headup display unit</h4></figcaption>
+</figure>
 
 ### Predictive picture generator: the AR Creator
 
@@ -23,7 +35,13 @@ What is known as the AR Creator serves as the mastermind and picture generator o
 
 While performing its computing work, the AR Creator takes into account that there are always a few fractions of a second between the identification of an object by the sensors and the output of the graphic content. During these brief time windows, the Q4 e-tron can change its position considerably, whether due to braking or a pothole. Multiple computations are performed continuously to ensure that the display in the eyebox does not jump into the wrong position. One of them takes place in the camera software. For another, the AR Creator uses the most recent data to make a predictive calculation of the car’s continued forward movement. In a further computation, it estimates the vertical movement on the basis of data supplied by the camera, the radar, and the sensors of the stabilization control (ESC). These insights are incorporated into the “shake compensation,” which takes place a few milliseconds before the picture is output and whose task is to prevent any disruptive shaking of the display.
 
-![Headup](headup2.jpg "Headup display")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/headupdisplay/headup2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/headupdisplay/headup2s.jpg"
+        alt="Headup display" title="Headup display">
+    </a>
+    <figcaption><h4>Headup display</h4></figcaption>
+</figure>
 
 ### Navigation: the drone flies ahead
 
@@ -32,6 +50,10 @@ The augmented reality head-up display demonstrates its strengths in a particular
 Even if the driver has activated the adaptive cruise assist, which keeps the car in the center of the lane, the augmented reality head-up display assists them with visual hints. As soon as the Q4 
 e-tron approaches a lane marking without the turn signal having been activated, the lane departure warning superimposes the real-life lane marking with a red line. Another example is regulation in relation to a vehicle driving in front: If it is active, the car is marked on the display with a colored stripe – this allows the driver to understand the status of the adaptive cruise assist or adaptive cruise control without being distracted. A red marking and a warning symbol appear if the adaptive cruise assist prompts the driver to verify that they are paying attention.
 
-![Headup](headup3.jpg "Headup display")
-
-{{% children description="true" depth="1" %}}
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/headupdisplay/headup3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/headupdisplay/headup3s.jpg"
+        alt="Headup display" title="Headup display">
+    </a>
+    <figcaption><h4>Headup display</h4></figcaption>
+</figure>

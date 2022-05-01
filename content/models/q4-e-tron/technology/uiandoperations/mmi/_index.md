@@ -4,7 +4,7 @@ linktitle: Audi MMI
 description: Audi Q4 e-tron is equipped with MMI touch.
 weight: 1
 ---
-
+<!-- markdownlint-disable MD033 -->
 The Audi MMI® (Multi Media Interface) system was created to streamline the controls for audio, vehicle settings, and available navigation under a common interface, thereby reducing the number of buttons for a cleaner interior appearance.
 
 ![MMI](mmi2.jpg "Audi MMI")

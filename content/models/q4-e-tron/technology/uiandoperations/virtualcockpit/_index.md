@@ -4,7 +4,7 @@ linktitle: Virtual Cockpit
 description: The Audi virtual cockpit is an option that can be added to the Audi Q4 e-tron
 weight: 2
 ---
-
+<!-- markdownlint-disable MD033 -->
 
 ## Standard Digital instrumentation cluster
 

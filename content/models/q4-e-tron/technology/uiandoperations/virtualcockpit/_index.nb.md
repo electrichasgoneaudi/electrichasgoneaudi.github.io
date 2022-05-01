@@ -4,7 +4,7 @@ linktitle: Virtual Cockpit
 description: Audi virtual cockpit er et alternativ som kan legges til Audi Q4 e-tron
 weight: 2
 ---
-
+<!-- markdownlint-disable MD033 -->
 ## Standard digital instrumenteringsklynge
 
 Standardinstrumenteringen er en digital skjerm som viser de viktigste bildataene som rekkevidde, hastigheter, batteristatus
