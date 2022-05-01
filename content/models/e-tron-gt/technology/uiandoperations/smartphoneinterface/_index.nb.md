@@ -11,7 +11,11 @@ Dette gir deg tilgang til mange nyttige apper som Spotify og Waze direkte i MMI.
 
 Bildet nedenfor viser hvordan Waze advarer brukere om et fotoboks.
 
-![Speedcam](speedcam.jpeg "Android Auto med Waze advarsel om hastighetskamera")
 
-Android Auto krever at du bruker kabel, men Apple Carplay støttes via kabel og trådløst.
-{{% children description="true" depth="1" %}}
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/smartphoneinterface/speedcam.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/smartphoneinterface/speedcams.jpg"
+        alt="Android Auto med Waze advarsel om hastighetskamera" title="Android Auto med Waze advarsel om hastighetskamera">
+    </a>
+    <figcaption><h4>Android Auto med Waze advarsel om hastighetskamera</h4></figcaption>
+</figure>
