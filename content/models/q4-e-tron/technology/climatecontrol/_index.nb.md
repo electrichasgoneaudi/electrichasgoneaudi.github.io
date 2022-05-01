@@ -15,7 +15,13 @@ Anlegget har følgende egenskaper.
 
 Kontrollene er plassert rett under MMI-skjermen.
 
-![AC-kontroll](ac1zonecontrol.jpg "AC-en har et eget kontrollpanel under MMI-skjermen")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/ac1zonecontrol.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/ac1zonecontrols.jpg"
+        alt="AC-en har et eget kontrollpanel under MMI-skjermen" title="AC-en har et eget kontrollpanel under MMI-skjermen">
+    </a>
+    <figcaption><h4>AC-en har et eget kontrollpanel under MMI-skjermen</h4></figcaption>
+</figure>
 
 ## 3-soners klimaanlegg
 
@@ -23,11 +29,23 @@ Som ekstrautstyr kan du bestille et 3-soners klimakontrollsystem.
 
 I front betyr dette at passasjer og sjåfør kan ha individuelt innstilte temperaturer.
 
-![AC-kontroll](ac3zonecontrol.jpg "3-soners klimakontrollsystem med individuell temp for sjåfør/passasjer")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/ac3zonecontrol.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/ac3zonecontrols.jpg"
+        alt="3-soners klimakontrollsystem med individuell temp for sjåfør/passasjer" title="3-soners klimakontrollsystem med individuell temp for sjåfør/passasjer">
+    </a>
+    <figcaption><h4>3-soners klimakontrollsystem med individuell temp for sjåfør/passasjer</h4></figcaption>
+</figure>
 
 3-soners klimanlegg gir passasjerene i baksetet egne luftdyser samt et eget panel hvor de kan justere baksonen.
 
-![AC-kontroll](rearaccontrol.jpg "AC-en har et separat kontrollpanel for baksetene")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/rearaccontrol.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/rearaccontrols.jpg"
+        alt="AC-en har et separat kontrollpanel for baksetene" title="AC-en har et separat kontrollpanel for baksetene">
+    </a>
+    <figcaption><h4>AC-en har et separat kontrollpanel for baksetene</h4></figcaption>
+</figure>
 
 3-soners klimakontrollsystem er en del av klima- og vinterpakken med tilvalgs nr **WNW**
 
@@ -49,7 +67,13 @@ Du kan få parkeringsklimanlegg med ekstra komfort som ekstrautstyr. Med dette a
 
 Komfort førklimatisering er en del av [klima- og vinterpakken](/models/q4-e-tron/optionguide/list/#equipment-packages) med opsjon id WNW.
 
-![Komfort](conviencesettingsnb.jpg "Komfortinnstillinger")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/conviencesettingsnb.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/conviencesettingsnbs.jpg"
+        alt="Komfortinnstillinger" title="Komfortinnstillinger">
+    </a>
+    <figcaption><h4>Komfortinnstillinger</h4></figcaption>
+</figure>
 
 ## Varmepumpe
 
@@ -59,4 +83,3 @@ Dette kan redusere forbruket i kaldt vær og dermed øke rekkevidden. Hvor mye d
 
 Har opsojns-ID **9M3**, men den er bare tilgjengelig som en del av [klima- og vinterpakken](/models/q4-e-tron/optionguide/list/#equipment-packages) **WNW**
 
-{{% children description="true" depth="1" %}}
