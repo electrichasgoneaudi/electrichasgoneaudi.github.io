@@ -4,6 +4,7 @@ linktitle: Driver Assistance
 description: The Audi e-tron GT quattro and RS e-tron GT are being launched on the market with a wide range of driver assist systems. The Audi pre sense front and Audi pre sense basic safety systems as well as the lane departure warning system and cruise control system are standard features. 
 weight: 1
 ---
+<!-- markdownlint-disable MD033 -->
 
 The optional systems are subdivided into the “Tour” (PCC),  “City,” and “Park” (PCV) packages, which are combined in the assist system plus. The night vision assist and surround view cameras, which offer a choice of different views, are available as additional individual options. They are also available in the “Park” package.
 
@@ -13,7 +14,13 @@ The most important system in the “Tour” assist package is adaptive cruise as
 
 Aside from the maneuver assist, the (remote) park assist plus, which the driver activates at the push of a button, is one of the highlights of the “Park” assist package. It detects suitable parking spaces and can maneuver the Audi e-tron GT into and out of a parallel or bay parking space at the push of a button. The driver is responsible for the maneuver. They can remain inside the car or get out beforehand – in this case, they start and supervise the parking maneuver via the myAudi app. By keeping the corresponding button pressed, the e-tron GT will roll into the space, in multiple maneuvers if necessary. Once it has reached its final position, it switches off the drive, activates the parking lock, and locks the doors. The “City” assist package includes the following safety systems: Audi pre sense rear, side assist, exit warning, intersection assist, and rear cross-traffic assist.
 
-![Sensors](sensors.jpg "Audi e-tron GT sensors")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/sensors.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/sensorss.jpg"
+        alt="Audi e-tron GT sensors" title="Audi e-tron GT sensors">
+    </a>
+    <figcaption><h4>Audi e-tron GT sensors</h4></figcaption>
+</figure>
 
 All systems use the central driver assistance controller (zFAS), which uses the sensors’ data to continuously compute an exact model of the vehicle’s environment. This way, they can react precisely and promptly to objects, such as by initiating braking. Depending on the selected options, the zFAS receives the data to do this from up to five radar sensors, five visual cameras, the thermal imaging camera for the night vision assist, and 12 ultrasound sensors.
 

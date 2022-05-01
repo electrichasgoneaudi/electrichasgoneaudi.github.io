@@ -4,6 +4,7 @@ linktitle: Assistentsystemer
 description: Audi e-tron GT og RS e-tron GT lanseres på markedet med et bredt utvalg av førerassistentsystemer. Audi pre sense front og Audi pre sense basic sikkerhetssystemer samt active lane assist og cruisekontroll er standardutstyr.
 weight: 1
 ---
+<!-- markdownlint-disable MD033 -->
 
 De valgfrie systemene er delt inn i pakkene "Assistentpakke Tur" (PCC), "Assistentpakke By" og "Assistentpakken Parkering" (PCV), som er kombinert i hjelpesystemet pluss.
 
@@ -29,7 +30,13 @@ Bortsett fra manøverassistenten, er parkeringsassistent pluss, som sjåføren a
 
 «City»-assistentpakken inkluderer følgende sikkerhetssystemer: Audi pre sense bak, sideassistanse, avkjøringsvarsling, veikryssassistent og krysstrafikkassistent bak.
 
-![Sensorer](sensors.jpg "Audi e-tron GT-sensorer")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/sensors.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/sensorss.jpg"
+        alt="Audi e-tron GT-sensorer" title="Audi e-tron GT-sensorer">
+    </a>
+    <figcaption><h4>Audi e-tron GT-sensorer</h4></figcaption>
+</figure>
 
 Alle systemer bruker den sentrale førerassistansekontrolleren (zFAS), som bruker sensorenes data til kontinuerlig å beregne en nøyaktig modell av kjøretøyets miljø. På denne måten kan de reagere presist og raskt på gjenstander, for eksempel ved å sette i gang bremsing. Avhengig av de valgte alternativene, mottar zFAS data for å gjøre dette fra opptil fem radarsensorer, fem visuelle kameraer, termisk bildekamera for nattsynsassistenten og 12 ultralydsensorer.
 

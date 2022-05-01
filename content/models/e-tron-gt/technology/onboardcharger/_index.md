@@ -16,16 +16,16 @@ In the US the charging ports have a [J1772 connector](https://en.wikipedia.org/w
 The driver side port only supports AC charging, while the passenger side port support both AC and DC charging.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/chargeport_right.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/chargeport_rights.jpg"
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/onboardcharger/chargeport_right.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/onboardcharger/chargeport_rights.jpg"
         alt="Passenger side charge port with Type 2 CCS port supporting AC and DC charging" title="Passenger side charge port with Type 2 CCS port supporting AC and DC charging">
     </a>
     <figcaption><h4>Passenger side charge port with Type 2 CCS port supporting AC and DC charging</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/chargeport_left2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/chargeport_left2s.jpg"
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/onboardcharger/chargeport_left2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/onboardcharger/chargeport_left2s.jpg"
         alt="Driver charge port with only Type 2 port for AC charging" title="Driver charge port with only Type 2 port for AC charging">
     </a>
     <figcaption><h4>Driver charge port with only Type 2 port for AC charging</h4></figcaption>
@@ -44,8 +44,8 @@ Option Id **KB4**
 In the illustration below you see the location of the charge units.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/electricdrivetrain.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/electricdrivetrains.jpg"
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/onboardcharger/electricdrivetrain.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/onboardcharger/electricdrivetrains.jpg"
         alt="Electric drive train with the charger location" title="Electric drive train with the charger location">
     </a>
     <figcaption><h4>Electric drive train with the charger location</h4></figcaption>
