@@ -7,9 +7,21 @@ weight: 11
 <!-- markdownlint-disable MD033 -->
 Garasjeportåpneren støtter opptil 8  porter og kan bli knyttet til en GPS lokasjon.
 
-![Opener](opener2.jpg "Du kan programmere opptil 8 porter.")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/garagedooropener/opener2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/garagedooropener/opener2s.jpg"
+        alt="Du kan programmere opptil 8 porter." title="Du kan programmere opptil 8 porter.">
+    </a>
+    <figcaption><h4>Du kan programmere opptil 8 porter.</h4></figcaption>
+</figure>
 
-![Opener](opener1.jpg "Du kan lagre GPS lokasjon til portene slik den foreslår riktig basert på posisjon")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/garagedooropener/opener1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/garagedooropener/opener1s.jpg"
+        alt="Du kan lagre GPS lokasjon til portene slik den foreslår riktig basert på posisjon" title="Du kan lagre GPS lokasjon til portene slik den foreslår riktig basert på posisjon">
+    </a>
+    <figcaption><h4>Du kan lagre GPS lokasjon til portene slik den foreslår riktig basert på posisjon</h4></figcaption>
+</figure>
 
 Dette er tilvalg **VC2**
 
