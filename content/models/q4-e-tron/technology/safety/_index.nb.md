@@ -11,21 +11,46 @@ Audi Q4 e-tron har flere kollisjonsputer som standard.
 
 ### Kollisjonsputer foran
 
-![Frontkollisjonsputer](frontairbags.jpg "Frontkollisjonsputer - standard")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/safety/frontairbags.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/safety/frontairbagss.jpg"
+        alt="Frontkollisjonsputer - standard" title="Frontkollisjonsputer - standard">
+    </a>
+    <figcaption><h4>Frontkollisjonsputer - standard</h4></figcaption>
+</figure>
 
 ### Hodekollisjonsputer
 
 Både foran og bak er beskyttet med hodekollisjonsputer.
 
-![Front](sideairbags.jpg "Hodekollisjonsputer foran og bak")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/safety/sideairbags.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/safety/sideairbagss.jpg"
+        alt="Hodekollisjonsputer foran og bak" title="Hodekollisjonsputer foran og bak">
+    </a>
+    <figcaption><h4>Hodekollisjonsputer foran og bak</h4></figcaption>
+</figure>
 
-![Rear](airbagssiderear2.jpg "Head airbags rear")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/safety/airbagssiderear2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/safety/airbagssiderear2s.jpg"
+        alt="Hodekollisjonsputer bak" title="Hodekollisjonsputer bak">
+    </a>
+    <figcaption><h4>Hodekollisjonsputer bak</h4></figcaption>
+</figure>
+
 
 ### Sidekollisjonsputer foran
 
 Foran er det standard med sidekollisjonsputer innebygd i setet som beskytter kroppen.
 
-![Sidekollisjonsputer](airbagssidefronts.jpg "Sidekollisjonsputer foran er standard")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/safety/airbagssidefront.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/safety/airbagssidefronts.jpg"
+        alt="Sidekollisjonsputer foran er standard" title="Sidekollisjonsputer foran er standard">
+    </a>
+    <figcaption><h4>Sidekollisjonsputer foran er standard</h4></figcaption>
+</figure>
 
 ### Midtkollisjonspute foran
 
@@ -33,13 +58,25 @@ I tillegg til sidekollisjonsputene foran og bak og hodekollisjonsputene, er det 
 systemets begrensinger gir dette beskyttelse for passasjerene i førersetet og passasjersete foran ved en sidekollisjon. Interaksjonskollisjonsputen blåser seg opp mellom forsetene. Ved sidekollisjon blir en kollisjon av de to passasjerene foran
 med hverandre eller med passasjersetet foran minsket i stor grad og risikoen for skader reduseres.
 
-![Center Airbags](consolairbag.jpg)
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/safety/consolairbag.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/safety/consolairbags.jpg"
+        alt="Senter air-bags" title="Senter air-bags">
+    </a>
+    <figcaption><h4>Senter air-bags</h4></figcaption>
+</figure>
 
 ### Sidekollisjonsputer bak
 
 På baksiden er sidekollisjonsputene valgfritt. Opsjonsnummer er **6C4** 
 
-![Sidekollisjonsputer bak](airbagssiderear.jpg "Airbagsiden av kollisjonsputen er optional. Bare hodekollisjonsputer er standard på Q4 e-tron")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/safety/airbagssiderear.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/safety/airbagssiderears.jpg"
+        alt="Valgfri sidekollisjonsputer bak" title="Valgfri sidekollisjonsputer bak">
+    </a>
+    <figcaption><h4>Valgfri sidekollisjonsputer bak</h4></figcaption>
+</figure>
 
 ## Setebelter
 
