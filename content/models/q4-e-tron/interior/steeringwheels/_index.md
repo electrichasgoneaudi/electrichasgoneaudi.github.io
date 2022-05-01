@@ -9,7 +9,14 @@ weight: 2
 
 The double-spoke leather steering wheel is the lowest level trim wheel.
 
-![Standard wheel](standard.jpg "Double-spoke leather steering wheel")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/standard.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/standard.jpg"
+        alt="Double-spoke leather steering wheel" title="Double-spoke leather steering wheel">
+    </a>
+    <figcaption><h4>Double-spoke leather steering wheel</h4></figcaption>
+</figure>
+
 
 ## Double-spoke leather steering with paddles option 2ZQ
 
@@ -24,7 +31,13 @@ due to the delay and the amount of energy recovered as a result. In the maximum 
 Moving the vehicle almost exclusively with the accelerator pedal and without using the brake, the one-pedal feeling can also be experienced. In the minimum level, recuperation is completely deactivated and the vehicle rolls comfortably in the “coasting” mode. The selection of this steering wheel requires the selection of further equipment packages.
 Note: can only be ordered in conjunction with steering wheel heating (AI9)
 
-![2zq](2zq.jpg "Double-spoke leather steering with paddles")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/2zq.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/2zqs.jpg"
+        alt="Double-spoke leather steering with paddles" title="Double-spoke leather steering with paddles">
+    </a>
+    <figcaption><h4>Double-spoke leather steering with paddles</h4></figcaption>
+</figure>
 
 ## The double-spoke leather sports steering wheel option 2FS
 
@@ -40,4 +53,10 @@ Moving the vehicle almost exclusively with the accelerator pedal and without usi
 can thus be experienced. In the minimum level, recuperation is completely deactivated and the vehicle rolls comfortably
 "coasting" operating status
 
-![2zq](2fs.jpg "The double-spoke leather sports steering wheel")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/2fs.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/2fss.jpg"
+        alt="The double-spoke leather sports steering wheel" title="The double-spoke leather sports steering wheel">
+    </a>
+    <figcaption><h4>The double-spoke leather sports steering wheel</h4></figcaption>
+</figure>

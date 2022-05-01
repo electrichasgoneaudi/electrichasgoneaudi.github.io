@@ -9,7 +9,13 @@ weight: 2
 
 Skinnrattet med doble eiker er trimhjulet på laveste nivå.
 
-![Standardhjul](standard.jpg "Dobbelt-eikers skinnratt")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/standard.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/standard.jpg"
+        alt="Dobbelt-eikers skinnratt" title="Dobbelt-eikers skinnratt">
+    </a>
+    <figcaption><h4>Dobbelt-eikers skinnratt</h4></figcaption>
+</figure>
 
 ## Skinnratt med dobbleeiker med hendler alternativ 2ZQ
 
@@ -24,7 +30,13 @@ på grunn av forsinkelsen og mengden energi som gjenvinnes som et resultat. I de
 Beveger du kjøretøyet nesten utelukkende med gasspedalen og uten å bruke bremsen, kan en-pedalfølelsen også oppleves. På minimumsnivået er restitusjonen fullstendig deaktivert og kjøretøyet ruller komfortabelt i "frihjulsmodus". Valget av dette rattet krever valg av ytterligere utstyrspakker.
 Merk: kan kun bestilles i forbindelse med rattvarme (AI9)
 
-![2zq](2zq.jpg "Dobbelt-eikers skinnstyring med årer")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/2zq.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/2zqs.jpg"
+        alt="Dobbelt-eikers skinnstyring med hendler for regenerings" title="Dobbelt-eikers skinnstyring med hendler for regenerings">
+    </a>
+    <figcaption><h4>Dobbelt-eikers skinnstyring med hendler for regenerings</h4></figcaption>
+</figure>
 
 ## Sportsratt med doble eiker, alternativ 2FS
 
@@ -40,4 +52,10 @@ Beveger du kjøretøyet nesten utelukkende med gasspedalen og uten å bruke brem
 kan dermed oppleves. I minimumsnivået er restitusjonen fullstendig deaktivert og kjøretøyet ruller komfortabelt
 driftsstatus "frihjul".
 
-![2zq](2fs.jpg "Det doble eikers sportsrattet i skinn. Standard i Norge")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/2fs.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/2fss.jpg"
+        alt="Det doble eikers sportsrattet i skinn. Standard i Norge" title="Det doble eikers sportsrattet i skinn. Standard i Norge">
+    </a>
+    <figcaption><h4>Det doble eikers sportsrattet i skinn. Standard i Norge</h4></figcaption>
+</figure>
