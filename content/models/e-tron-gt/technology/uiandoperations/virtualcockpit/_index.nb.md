@@ -4,7 +4,7 @@ linktitle: Virtual Cockpit
 description: Audi virtual cockpit digitalt instrument panel med med en 12.3" skjerm. 
 weight: 2
 ---
-
+<!-- markdownlint-disable MD033 -->
 Den virtuelle cockpit-skjermen har en full HD-oppløsning på 1 920 x 720 piksler. Skjermgrafikken er usedvanlig skarp og svært detaljert.
 
 Displayet viser et bredt spekter av informasjon klart og i ryddig, skarp, svært detaljert grafikk. Den inkluderer tradisjonell hastighet, batteristatus, strømlinjetall samt informasjon om navigasjon, media og førerassistentsystemer. Faste indikatorer vises langs den nedre kanten; de viser utetemperatur, klokkeslett og kilometerstand samt advarsels- og informasjonssymboler. Bildet oppdateres 60 ganger i sekundet slik at den virtuelle nålen til turtelleren følger jevnt og svært presist.

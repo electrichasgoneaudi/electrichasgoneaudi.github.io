@@ -4,7 +4,7 @@ linktitle: Virtual Cockpit
 description: The Audi virtual cockpit is a fully digital instrument cluster with a 12.3-inch TFT screen.
 weight: 2
 ---
-
+<!-- markdownlint-disable MD033 -->
  The virtual cockpit display has a full HD resolution of 1,920 x 720 pixels. Its display graphics are exceptionally sharp and highly detailed.
 
 The display shows a wide range of information clearly and in neat, sharp, highly detailed graphics. It includes traditional speed, battery state, power bar figures as well as information on navigation, media and driver assistance systems. Fixed indicators are shown along the lower edge; they show the outside temperature, time and odometer readings as well as warning and information symbols. The image is refreshed 60 times per second so that the virtual needle of the rev counter tracks smoothly and very precisely.

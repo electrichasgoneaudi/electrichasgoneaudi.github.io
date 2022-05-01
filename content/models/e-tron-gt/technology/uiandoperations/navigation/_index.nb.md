@@ -4,18 +4,30 @@ linktitle: Navigasjonssystem
 description: Audi Q4 e-tron har et valgfritt navigasjonssystem. Dette er MMI Navigation plus-systemet som hjelper deg med å navigere til destinasjonen.
 weight: 2
 ---
-
+<!-- markdownlint-disable MD033 -->
 Navigasjonssystemet på Audi Q4 e-tron er basert på kart og data fra [HERE Maps](https://www.here.com/strategic-alliances/audi/IVIdemo).
 
 Navigasjonssystemet er tilgjengelig i [virtual cockpit](../virtualcockpit/), [Head up display](../headupdisplay/) og [Audi MMi](../mmi/) og vil hjelpe deg med å navigere til destinasjonen, men vil også hjelpe deg med å finne ladestasjoner, parkering og andre interessante steder langs ruten.
 
 Du kan aktivere Google maps-baserte satellittbilder og Google-basert søk for å berike opplevelsen enda mer.
 
-![Navigasjon](navigationmmiscreen.jpg "Navigasjon i MMI hovedskjerm")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/navigation/navigationmmiscreen.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/navigation/navigationmmiscreens.jpg"
+        alt="Navigasjon i MMI hovedskjerm" title="Navigasjon i MMI hovedskjerm">
+    </a>
+    <figcaption><h4>Navigasjon i MMI hovedskjerm</h4></figcaption>
+</figure>
 
-![Navigasjon](mminavigationvirtualcockpit.jpg "Navigasjon i virtuell cockpit")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/navigation/mminavigationvirtualcockpit.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/navigation/mminavigationvirtualcockpits.jpg"
+        alt="Navigasjon i virtuell cockpit" title="Navigasjon i virtuell cockpit">
+    </a>
+    <figcaption><h4>Navigasjon i virtuell cockpit</h4></figcaption>
+</figure>
 
-MMI Navigation plus er tilgjengelig i [MMI Navigation Plus-pakken](/models/q4-e-tron/optionguide/list/#infotainment) **PYG** og [MMI Navigation Pro](/models/q4-e-tron /optionguide/list/#infotainment) pakke **PYH**
+MMI Navigation plus er tilgjengelig i [MMI Navigation Plus-pakken](/models/e-tron-gt/optionguide/list/#infotainment) **PYG** og [MMI Navigation Pro](/models/e-tron-gt /optionguide/list/#infotainment) pakke **PYH**
 
 Biler produsert etter uke 51 2022 med navigasjon vil også få en større 11.6" skjerm i MMI. 
 
@@ -38,13 +50,38 @@ Du kan planlegge ruter fra tidligere destinasjoner, favoritter, kontaktadresser 
 
 I bildene nedenfor ser du hvordan det er å søke og lage en rute til IKEA fra MMI-systemet.
 
-![Search](search2.jpg "Trinn 2: Velge riktig søkeresultat og trykke start")
 
-![Search](search3.jpg "Trinn 3: Navigasjon informerer om at du ikke har nok lading ved å gå til IKEA og foreslår å legge til lading langs ruten")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search2s.jpg"
+        alt="Trinn 2: Velge riktig søkeresultat og trykke start" title="Trinn 2: Velge riktig søkeresultat og trykke start">
+    </a>
+    <figcaption><h4>Trinn 2: Velge riktig søkeresultat og trykke start</h4></figcaption>
+</figure>
 
-![Search](search4.jpg "Trinn 4: Foreslåtte ladestopp inkludert forventet batteriladingstilstand på destinasjonen")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search3s.jpg"
+        alt="Trinn 3: Navigasjon informerer om at du ikke har nok lading ved å gå til IKEA og foreslår å legge til lading langs ruten" title="Trinn 3: Navigasjon informerer om at du ikke har nok lading ved å gå til IKEA og foreslår å legge til lading langs ruten">
+    </a>
+    <figcaption><h4>Trinn 3: Navigasjon informerer om at du ikke har nok lading ved å gå til IKEA og foreslår å legge til lading langs ruten</h4></figcaption>
+</figure>
 
-![Search](search5.jpg "Trinn 5: Planlagt rute")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search4s.jpg"
+        alt="Trinn 4: Foreslåtte ladestopp inkludert forventet batteriladingstilstand på destinasjonen" title="Trinn 4: Foreslåtte ladestopp inkludert forventet batteriladingstilstand på destinasjonen">
+    </a>
+    <figcaption><h4>Trinn 4: Foreslåtte ladestopp inkludert forventet batteriladingstilstand på destinasjonen</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search5.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search5s.jpg"
+        alt="Trinn 5: Planlagt rute" title="Trinn 5: Planlagt rute">
+    </a>
+    <figcaption><h4>Trinn 5: Planlagt rute</h4></figcaption>
+</figure>
 
 Ruteplanleggingen støtter opptil 10 mellomlandinger langs en rute.
 
@@ -54,15 +91,34 @@ Du kan søke etter interessepunkter, ladere, parkering basert på kartdatabasen 
 
 Navigasjonssystemet støtter også presentasjon av rekkevidden på kartet. Det blå området er det teoretiske området.
 
-![Range](range.jpg "Rekkevidden angitt med det blå området")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/range.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/ranges.jpg"
+        alt="Rekkevidden angitt med det blå området" title="Rekkevidden angitt med det blå området">
+    </a>
+    <figcaption><h4>Rekkevidden angitt med det blå området</h4></figcaption>
+</figure>
 
-![Planet](planet.jpg "Du kan dekke hele planeten med din helelektriske Audi")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/planet.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/planets.jpg"
+        alt="Du kan dekke hele planeten med din helelektriske Audi" title="Du kan dekke hele planeten med din helelektriske Audi">
+    </a>
+    <figcaption><h4>Du kan dekke hele planeten med din helelektriske Audi</h4></figcaption>
+</figure>
 
 ## Stemmeveiledning
 
 Du kan få taleveiledning under navigering.
 
-![Stemmeveiledning](voiceguidance.jpg "Du kan kontrollere hvor mye stemmeveiledning du trenger")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/voiceguidance.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/voiceguidances.jpg"
+        alt="Du kan kontrollere hvor mye stemmeveiledning du trenger" title="Du kan kontrollere hvor mye stemmeveiledning du trenger">
+    </a>
+    <figcaption><h4>Du kan kontrollere hvor mye stemmeveiledning du trenger</h4></figcaption>
+</figure>
+
 
 ## Trafikkinformasjon
 

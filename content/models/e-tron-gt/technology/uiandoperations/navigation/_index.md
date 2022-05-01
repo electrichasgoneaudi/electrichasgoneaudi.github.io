@@ -4,16 +4,28 @@ linktitle: Navigation system
 description: Audi e-tron GT has an standard navigation system. This is MMI Navigation plus system that helps to navigate to the destination.
 weight: 2
 ---
-
+<!-- markdownlint-disable MD033 -->
 The navigation system on the Audi e-tron GT is based on maps and data from [HERE Maps](https://www.here.com/strategic-alliances/audi/IVIdemo).
 
 The navigation system is available in the [virtual cockpit](../virtualcockpit/), the [Head up display](../headupdisplay/), and [Audi MMi](../mmi/) and will help to navigate to your destination, but also will help find charging stations, parking, and other points of interestest along the route.
 
 You can enable Google maps-based Satellite photos and google based search to enrich the experience even more.
 
-![Navigation](navigationmmiscreen.jpg "Navigation in MMI Main screen")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/navigation/navigationmmiscreen.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/navigation/navigationmmiscreens.jpg"
+        alt="Navigation in MMI Main screen" title="Navigation in MMI Main screen">
+    </a>
+    <figcaption><h4>Navigation in MMI Main screen</h4></figcaption>
+</figure>
 
-![Navigation](mminavigationvirtualcockpit.jpg "Navigation in virtual cockpit with google satelite photos")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/navigation/mminavigationvirtualcockpit.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/navigation/mminavigationvirtualcockpits.jpg"
+        alt="Navigation in virtual cockpit" title="Navigation in virtual cockpit">
+    </a>
+    <figcaption><h4>Navigation in virtual cockpit</h4></figcaption>
+</figure>
 
 - Detailed route information: map preview, choice of alternative routes, POIs, lane recommendations, motorway exits, detailed intersection maps and much more. Use of navigation data for predictive and efficient driving
 - Personal route assistance: when the function is activated, monitors the traffic situation on regularly travelled routes - e.g. between home and work - and offers a route calculation to avoid traffic jams after a delay of at least five minutes
@@ -33,13 +45,38 @@ You can plan routes from previous destinations, favorites, contact addresses, an
 
 In the below set of images, you see how it is to search and create a route going to IKEA from the MMI system.
 
-![Search](search2.jpg "Step 2: Selecting correct search result and pressing start")
 
-![Search](search3.jpg "Step 3: Navigation informs that you don't have enough charge going to IKEA and suggest adding charging along the route")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search2s.jpg"
+        alt="Step 2: Selecting correct search result and pressing start" title="Step 2: Selecting correct search result and pressing start">
+    </a>
+    <figcaption><h4>Step 2: Selecting correct search result and pressing start</h4></figcaption>
+</figure>
 
-![Search](search4.jpg "Step 4: Suggested charging stops including expected battery state of charge at destination")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search3s.jpg"
+        alt="Step 3: Navigation informs that you don't have enough charge going to IKEA and suggest adding charging along the route" title="Step 3: Navigation informs that you don't have enough charge going to IKEA and suggest adding charging along the route">
+    </a>
+    <figcaption><h4>Step 3: Navigation informs that you don't have enough charge going to IKEA and suggest adding charging along the route</h4></figcaption>
+</figure>
 
-![Search](search5.jpg "Step 5: Planned route")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search4s.jpg"
+        alt="Step 4: Suggested charging stops including expected battery state of charge at destination" title="Step 4: Suggested charging stops including expected battery state of charge at destination">
+    </a>
+    <figcaption><h4>Step 4: Suggested charging stops including expected battery state of charge at destination</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search5.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search5s.jpg"
+        alt="Step 5: Planned route" title="Step 5: Planned route">
+    </a>
+    <figcaption><h4>Step 5: Planned route</h4></figcaption>
+</figure>
 
 The route planning supports up to 10 stopovers along a route.
 
@@ -49,15 +86,33 @@ You can search for points of interest, chargers, parking based from the Here map
 
 The Navigation system also supports presenting the range on the map. The blue area is the theoretical range area.
 
-![Range](range.jpg "The Range indicated with the blue area")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/range.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/ranges.jpg"
+        alt="The Range indicated with the blue area" title="The Range indicated with the blue area">
+    </a>
+    <figcaption><h4>The Range indicated with the blue area</h4></figcaption>
+</figure>
 
-![Planet](planet.jpg "You can cover the whole planet with your all-electric Audi")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/planet.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/planets.jpg"
+        alt="You can cover the whole planet with your all-electric Audi" title="You can cover the whole planet with your all-electric Audi">
+    </a>
+    <figcaption><h4>You can cover the whole planet with your all-electric Audi</h4></figcaption>
+</figure>
 
 ## Voice guidance
 
 You can get voice guidance during navigation.
 
-![Voice guidance](voiceguidance.jpg "You can control how much voice guidance you need")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/voiceguidance.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/voiceguidances.jpg"
+        alt="You can control how much voice guidance you need" title="You can control how much voice guidance you need">
+    </a>
+    <figcaption><h4>You can control how much voice guidance you need</h4></figcaption>
+</figure>
 
 ## Traffic information
 

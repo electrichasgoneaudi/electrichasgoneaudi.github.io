@@ -4,7 +4,7 @@ linktitle: Smartphone Interface
 description: With the Smartphone Interface option you expand your smartphone in to the MMI system
 weight: 4
 ---
-
+<!-- markdownlint-disable MD033 -->
 Med Audi Smartphone Interface med tilvalgs **IU1** får du muligheten til å bruke Apple Carplay eller Android Auto i ditt MMI-system.
 
 Dette gir deg tilgang til mange nyttige apper som Spotify og Waze direkte i MMI.
