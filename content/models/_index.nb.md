@@ -27,7 +27,7 @@ Audi e-tron GT er den andre fullelektriske modellen fra Audi. Med Audi RS e-tron
 
 ## Audi q4 e-tron
 
-[![Audi e-tron](q4-e-tron/variants/variants1.jpg)](q4-e-tron/)
+[![Audi e-tron](tps://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/variants1.jpg)](q4-e-tron/)
 
 Audi Q4 e-tron og Q4 Sportback e-tron er de første kompakte elektriske SUV-ene og den tredje helelektriske modellen fra Audi. Tilgjengelig i 7 varianter.
 
@@ -44,7 +44,7 @@ Audi Q4 e-tron og Q4 Sportback e-tron er de første kompakte elektriske SUV-ene 
 
 ## Audi Q8 e-tron
 
-[![Audi Q8 e-tron](q8-e-tron/q8prototypes.jpg)](q8-e-tron)
+[![Audi Q8 e-tron](tps://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/q8prototypes.jpg)](q8-e-tron)
 
 Audi Q8 e-tron får verdenspremiere i 2022 og erstatter Audi e-tron. Audi Q8 e-tron er en ansiktsløftning av Audi e-tron og får nytt navn
 for å gjøre den mer logisk navngitt sammen med Q4 e-tron og Q6 e-tron. Batteriet blir litt større som vil øke rekkevidden med 15-20% sammenlignet med Audi e-tron.
