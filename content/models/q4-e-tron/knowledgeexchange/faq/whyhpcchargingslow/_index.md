@@ -5,7 +5,7 @@ description: Audi Q4 e-tron is one of the fastest charging EV's in its class. St
 weight: 30
 hidden: true
 ---
-
+<!-- markdownlint-disable MD033 -->
 First. What is the expected charging rate? Under optimal conditions, the charge curve will look like this.
 
 ![Charging curve](chargecurve.jpg "Charging curve Q4 e-tron optimal conditions")

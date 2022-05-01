@@ -5,6 +5,7 @@ description: Audi Q4 e-tron kan lade opptil 125KW, men mange opplever lavere lad
 weight: 30
 hidden: true
 ---
+<!-- markdownlint-disable MD033 -->
 Først. Hva er forventet ladehastighet? Under optimale forhold vil ladekurven se slik ut.
 
 ![Ladekurve](chargecurve.jpg "Ladekurve Audi Q4 e-tron under optimale forhold")

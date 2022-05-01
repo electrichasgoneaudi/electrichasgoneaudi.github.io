@@ -5,7 +5,7 @@ description: A common question for Audi Q4 e-tron is related to owners having a 
 weight: 30
 hidden: true
 ---
-
+<!-- markdownlint-disable MD033 -->
 These operations could be start pre-climatization or changing charing target. Or just checking the car status.
 
 ![Connect issue](connectissue1.jpg "myAudi error message")

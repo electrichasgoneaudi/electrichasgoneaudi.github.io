@@ -5,7 +5,7 @@ description: De vanligste spørsmålene er knyttet til hvorfor Audi Q4 e-tron-ei
 weight: 30
 hidden: true
 ---
-
+<!-- markdownlint-disable MD033 -->
 ## Hva er den spesifiserte rekkevidden/forbruket?
 
 Audi oppgir ikke bare ett tall på rekkevidden. Rekkevidden varierer mye mellom variantene og avhengig av utstyrsnivå.

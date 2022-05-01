@@ -5,7 +5,7 @@ description: Et vanlig spørsmål for Audi Q4 e-tron er relatert til eiere som h
 weight: 30
 hidden: true
 ---
-
+<!-- markdownlint-disable MD033 -->
 Disse operasjonene kan være å starte pre-klimatisering eller endre charing-mål. Eller bare sjekke bilens status.
 
 ![Tilkoblingsproblem](connectissuenb3.jpg "myAudi-feilmelding")
