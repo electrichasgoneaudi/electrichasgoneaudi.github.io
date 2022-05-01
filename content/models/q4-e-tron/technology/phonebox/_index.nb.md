@@ -8,7 +8,13 @@ weight: 9
 Med Audi Phone Box To smarttelefoner kan kobles til bilen via Bluetooth samtidig. Man kan for eksempel brukes til å ringe eller spille
 musikk i bilen. Avhengig av smarttelefonmodell er det også mulig å se e-post og SMS i MMI via Bluetooth.
 
-![Audi Phone Box](phonebox.jpg "Audi Phone Box holder med induktiv lading")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/phonebox/phonebox.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/phonebox/phoneboxs.jpg"
+        alt="Audi Phone Box holder med induktiv lading" title="Audi Phone Box holder med induktiv lading">
+    </a>
+    <figcaption><h4>Audi Phone Box holder med induktiv lading</h4></figcaption>
+</figure>
 
 Smarttelefonen kan lades og oppbevares trygt i universalholderen foran på bilen. Holderen kobles til bilens antenne for bedre mottak og stemmekvalitet. I tillegg reduseres strålingen fra mobiltelefonen i kupeen, da telefonen trenger mindre sendekraft. Holderen er 170 x 87 mm. Dette lar også større smarttelefoner passe inn i den. Ettersom stadig flere mobiltelefoner kan lades trådløst, er Audi telefonboks utstyrt med en induktiv ladefunksjon (Qi-standard) i tillegg til USB-porten. Ladenivået vises på MMI-displayet. Forlater du bilen mens telefonen er i holderen, utløses et varsel
 
