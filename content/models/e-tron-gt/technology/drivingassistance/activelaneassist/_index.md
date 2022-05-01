@@ -5,7 +5,14 @@ description: Audi e-tron GT/RS e-tron GT is equipped ein Audi Active Lane assist
 weight: 1
 ---
 
-![Audi Active Lane assist](activelaneassist.jpg "Audi active lane assist")
+<!-- markdownlint-disable MD033 -->
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/activelaneassist/activelaneassist.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/activelaneassist/activelaneassist.jpg"
+        alt="Audi active lane assist" title="Audi active lane assist">
+    </a>
+    <figcaption><h4>Audi active lane assist</h4></figcaption>
+</figure>
 
  A camera detects lane lines and the track that the car is following between them. In this process, the camera can distinguish between yellow lines in construction zones and standard white markings. If the car approaches a line without the turn signal being activated, the system helps the driver to steer back into the lane by means of gentle but noticeable interventions in the electromechanical power steering. In the MMI system, the driver sets how early the control intervention should occur. In the case of an early steering intervention point, the system guides the driver towards the middle of the lane by gentle, centering steering interventions. 
 
