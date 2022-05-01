@@ -4,7 +4,7 @@ linktitle: Ombordlader
 description: Audi e-tron GT and Audi RS e-tron GT have an onboard charger for level 1 and level 2 charging.
 weight: 5
 ---
-
+<!-- markdownlint-disable MD033 -->
 Den innebygde laderen er ansvarlig for å konvertere AC fra veggen til DC som brukes i batteriet.
 
 Standard innebygd lader støtter opptil 11KW AC-lading.
@@ -15,9 +15,21 @@ I USA har ladeportene en [J1772-kontakt](https://en.wikipedia.org/wiki/SAE_J1772
 
 Porten på førersiden støtter kun AC-lading, mens porten på passasjersiden støtter både AC- og DC-lading.
 
-![Passasjerladeport](chargeport_right.jpg "Passasjersideladeport med Type 2 CCS-port som støtter AC- og DC-lading")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/chargeport_right.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/chargeport_rights.jpg"
+        alt="Passasjersideladeport med Type 2 CCS-port som støtter AC- og DC-lading" title="Passasjersideladeport med Type 2 CCS-port som støtter AC- og DC-lading">
+    </a>
+    <figcaption><h4>Passasjersideladeport med Type 2 CCS-port som støtter AC- og DC-lading</h4></figcaption>
+</figure>
 
-![Ladeport for sjåfør](chargeport_left2.jpg "Ladeport for sjåfør med bare Type 2-port for AC-lading")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/chargeport_left2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/chargeport_left2s.jpg"
+        alt="Ladeport for sjåfør med bare Type 2-port for AC-lading" title="Ladeport for sjåfør med bare Type 2-port for AC-lading">
+    </a>
+    <figcaption><h4>Ladeport for sjåfør med bare Type 2-port for AC-lading</h4></figcaption>
+</figure>
 
 For å lade bilen fra AC trenger du en Wallbox å koble til eller [ladesystemet som kan kobles til hjemmenettverket](../chargesystem).
 
@@ -31,9 +43,15 @@ Alternativ-ID **KB4**
 
 I illustrasjonen under ser du plasseringen av ladeenhetene.
 
-![Elektrisk drivenhet](electricdrivetrain.jpg "Elektrisk drivverk med laderens plassering")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/electricdrivetrain.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/electricdrivetrains.jpg"
+        alt="Elektrisk drivverk med laderens plassering" title="Elektrisk drivverk med laderens plassering">
+    </a>
+    <figcaption><h4>Elektrisk drivverk med laderens plassering</h4></figcaption>
+</figure>
 
- Bare AC-lading går gjennom laderen. For DC-lading er CCS-porten direkte koblet til batteriet.
+Bare AC-lading går gjennom laderen. For DC-lading er CCS-porten direkte koblet til batteriet.
 
 ### Kapasitet basert på nettverk/uttak
 

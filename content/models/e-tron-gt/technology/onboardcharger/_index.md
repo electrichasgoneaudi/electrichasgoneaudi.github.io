@@ -4,7 +4,7 @@ linktitle: Onboard Charger
 description: Audi e-tron GT and Audi RS e-tron GT have an onboard charger for level 1 and level 2 charging.
 weight: 5
 ---
-
+<!-- markdownlint-disable MD033 -->
 The onboard charger is responsible for converting AC from the wall to DC used in the battery.
 
 The standard onboard charger support up to 11KW AC charging.
@@ -15,9 +15,21 @@ In the US the charging ports have a [J1772 connector](https://en.wikipedia.org/w
 
 The driver side port only supports AC charging, while the passenger side port support both AC and DC charging.
 
-![Passenger charge port](chargeport_right.jpg "Passenger side charge port with Type 2 CCS port supporting AC and DC charging")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/chargeport_right.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/chargeport_rights.jpg"
+        alt="Passenger side charge port with Type 2 CCS port supporting AC and DC charging" title="Passenger side charge port with Type 2 CCS port supporting AC and DC charging">
+    </a>
+    <figcaption><h4>Passenger side charge port with Type 2 CCS port supporting AC and DC charging</h4></figcaption>
+</figure>
 
-![Driver charge port](chargeport_left2.jpg "Driver charge port with only Type 2 port for AC charging")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/chargeport_left2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/chargeport_left2s.jpg"
+        alt="Driver charge port with only Type 2 port for AC charging" title="Driver charge port with only Type 2 port for AC charging">
+    </a>
+    <figcaption><h4>Driver charge port with only Type 2 port for AC charging</h4></figcaption>
+</figure>
 
 To charge the car from AC you need a Wallbox to connect to or the [charging system that can connect to the domestic outlet](../chargingsystem).
 
@@ -31,7 +43,13 @@ Option Id **KB4**
 
 In the illustration below you see the location of the charge units.
 
-![Electric drive](electricdrivetrain.jpg "Electric drive train with the charger location")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/electricdrivetrain.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/electricdrivetrains.jpg"
+        alt="Electric drive train with the charger location" title="Electric drive train with the charger location">
+    </a>
+    <figcaption><h4>Electric drive train with the charger location</h4></figcaption>
+</figure>
 
  Only AC charging goes through the charger. For DC charging, the CCS port is directly connected to the battery.
 
