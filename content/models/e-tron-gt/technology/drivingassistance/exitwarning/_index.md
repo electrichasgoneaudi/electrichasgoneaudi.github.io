@@ -5,7 +5,14 @@ description: Audi e-tron GT can be equipped with exit warning. Exit warning impr
 weight: 1
 ---
 
-![Exit warning](exitwarning.jpg "Exit warning")
+<!-- markdownlint-disable MD033 -->
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/exitwarning/exitwarning.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/exitwarning/exitwarnings.jpg"
+        alt="Exit warning Audi e-tron GT" title="Exit warning Audi e-tron GT">
+    </a>
+    <figcaption><h4>Exit warning Audi e-tron GT</h4></figcaption>
+</figure>
 
  The system does this using LED lights in the door panels. In a situation assessed to be hazardous, the LEDs flicker and light red. The LEDs of Audi side assist are also lit in the relevant exterior side mirror. The exit warning remains active for approximately three minutes after the ignition is turned off.
 
