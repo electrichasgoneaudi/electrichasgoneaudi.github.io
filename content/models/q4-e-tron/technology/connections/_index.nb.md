@@ -6,7 +6,18 @@ weight: 9
 ---
 
 <!-- markdownlint-disable MD033 -->
-![USB-C](ports1.jpg "USB-C tilkobling")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/connections/ports1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/connections/ports1s.jpg"
+        alt="USB-C kontakt i konsoll" title="USB-C kontakt i konsoll">
+    </a>
+    <figcaption><h4>USB-C kontakt i konsoll</h4></figcaption>
+</figure>
 
-
-{{% children description="true" depth="1" %}}
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/connections/usbrear.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/connections/usbrears.jpg"
+        alt="USB-C kontakt i baksetet" title="USB-C kontakt i baksetet">
+    </a>
+    <figcaption><h4>USB-C kontakt i baksetet</h4></figcaption>
+</figure>
