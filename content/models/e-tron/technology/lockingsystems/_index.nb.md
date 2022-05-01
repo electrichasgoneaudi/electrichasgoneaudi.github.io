@@ -34,9 +34,9 @@ Bagasjeromslokket kan enkelt låses opp ved hjelp av bagasjeromsknappen på bekv
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/kicksensor.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/kicksensors.jpg"
-        alt=""Med forhåndsnøkkel kan du åpne bakluken ved å sparke foten under bakluken" title=""Med forhåndsnøkkel kan du åpne bakluken ved å sparke foten under bakluken">
+        alt="Med komfortnøkkel kan du åpne bakluken ved å sparke foten under bakluken" title="Med komfortnøkkel kan du åpne bakluken ved å sparke foten under bakluken">
     </a>
-    <figcaption><h4>"Med forhåndsnøkkel kan du åpne bakluken ved å sparke foten under bakluken</h4></figcaption>
+    <figcaption><h4>Med komfortnøkkel kan du åpne bakluken ved å sparke foten under bakluken</h4></figcaption>
 </figure>
 
 Som standardnøkkel er fremføringsnøkkelen på Audi e-tron utstyrt med Keyless Go. Dette betyr
@@ -65,11 +65,11 @@ Komfortnøkkel inkludert sensorstyrt opplåsing av bagasjerom med bagasjeromslok
 Tyverialarmsystem
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/alarm_sensor_of.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/alarm_sensor_ofs.jpg"
-        alt="Interiørsensoren kan slås av med knapp i døren" title="Interiørsensoren kan slås av med knapp i døren">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/tailgate_buttons.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/tailgate_buttonss.jpg"
+        alt="Bakluken kan lukkes og låses ved hjelp av knapper" title="Bakluken kan lukkes og låses ved hjelp av knapper">
     </a>
-    <figcaption><h4>Interiørsensoren kan slås av med knapp i døren</h4></figcaption>
+    <figcaption><h4>Bakluken kan lukkes og låses ved hjelp av knapper</h4></figcaption>
 </figure>
 
 ## Audi Connect key 2F1

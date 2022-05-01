@@ -4,7 +4,7 @@ linktitle: Låsesystemer
 description: Audi e-tron GT og Audi RS e-tron GT har mulighet for forskjellige låsesystemer.
 weight: 7
 ---
-
+<!-- markdownlint-disable MD033 -->
 ## Komfortnøkkel (Advance key) 
 
 Standard komfortnøkkel gir praktisk kontroll over tilgang og motorstartautorisasjon uten at nøkkelen må betjenes aktivt
@@ -18,13 +18,25 @@ motorstartautorisasjonen frigis også uten aktiv betjening av komfortnøkkel.
 
 For å gjøre dette må sjåføren sitte i kjøretøyet og ha med seg komfortnøkkelen.
 
-![Start-knapp](startbutton.jpg "Midtkonsoll med start-stopp-knapp")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/startbutton.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/startbutton.jpg"
+        alt="Midtkonsoll med start/stopp-knapp" title="Midtkonsoll med start/stopp-knapp">
+    </a>
+    <figcaption><h4>Midtkonsoll med start/stopp-knapp</h4></figcaption>
+</figure>
 
 Motoren startes og slås av ved hjelp av motorstart-stopp-knappen i midtkonsollen.
 
 En høykvalitets visuell differensiering på toppen og bunnen av nøkkelen gjennom høyglans sorte komponenter og metallspenner i aluminiumslook gjør de innovative funksjonene til bekvemmelighetstasten synlige.
 
-![Advance key](advancekey.jpg "Audi Advance key")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/advancekey.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/advancekeys.jpg"
+        alt="Audi Advance key" title="Audi Advance key">
+    </a>
+    <figcaption><h4>Audi Advance key</h4></figcaption>
+</figure>
 
 Komfortnøkkel er tilvalg **4I3**
 

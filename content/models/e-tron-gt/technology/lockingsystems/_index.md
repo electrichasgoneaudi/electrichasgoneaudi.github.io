@@ -4,7 +4,7 @@ linktitle: Access & locking
 description: Audi e-tron GT have different key and locking options.
 weight: 7
 ---
-
+<!-- markdownlint-disable MD033 -->
 ## Advance key option 4I3
 
 The standard advance/convenience key offers convenient control of access and engine start authorization without the key having to be actively operated
@@ -18,14 +18,25 @@ the engine start authorization is also released without actively actuating the c
 
 To do this, the driver must sit in the vehicle and carry the convenience key with him.
 
-![Start button](startbutton.jpg "Center console with start-stop button")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/startbutton.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/startbutton.jpg"
+        alt="Center console with start/stop button" title="Center console with start/stop button">
+    </a>
+    <figcaption><h4>Center console with start/stop button</h4></figcaption>
+</figure>
 
 The engine is started and switched off using the engine start-stop button in the center console.
 
-
 A high-quality visual differentiation on the top and bottom of the key through high-gloss black components and metal clasps in aluminum look make the innovative functions of the convenience key visible.
 
-![Advance key](advancekey.jpg "Audi Advance key")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/advancekey.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/advancekeys.jpg"
+        alt="Audi Advance key" title="Audi Advance key">
+    </a>
+    <figcaption><h4>Audi Advance key</h4></figcaption>
+</figure>
 
 ## Advance key with alarm option PGB
 
@@ -39,4 +50,10 @@ The package includes the following special equipment:
 
 The luggage compartment lid can be conveniently unlocked with a foot gesture (kick movement) at the rear.
 
-![Tail gate locking](tailgate_buttons.jpg "The tailgate can be closed with buttons and locked")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/tailgate_buttons.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/tailgate_buttonss.jpg"
+        alt="The tailgate can be closed with buttons and locked" title="The tailgate can be closed with buttons and locked">
+    </a>
+    <figcaption><h4>The tailgate can be closed with buttons and locked</h4></figcaption>
+</figure>
