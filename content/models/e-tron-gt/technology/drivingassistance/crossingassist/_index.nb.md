@@ -4,12 +4,18 @@ linktitle: Gatekryssassistent
 description: Audi e-tron GT kan leveres med gatekryssassistent. Gatekryssassistenten gjenkjenner kritisk krysstrafikk foran bilen og advarer føreren om det både visuelt og hørbart.
 weight: 1
 ---
-
+<!-- markdownlint-disable MD033 -->
  Ved hastigheter opp til 10 km/t (6,2 mph) starter den en kort bremsehandling ved behov. Kryssassistent er aktiv i kjøretøyhastigheter på opptil 30 km/t (18,6 mph). Den bruker data fra zFAS sentraldatamaskinen, med den viktigste informasjonen her levert av mellomradarene og laserskanneren.
 
 Hvis sjåføren ønsker å lette inn i et kryss eller avkjørsel med dårlig sikt, kan han eller hun trykke på parkeringsknappen. Dette sender bildene fra 360 graders kameraer til MMI-skjermen. De utvider synsfeltet drastisk, og sjåføren kan velge mellom flere visninger.
 
-![crossing assist](crossing_assist.jpg "crossing assist")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/crossingassist/crossing_assist.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/crossingassist/crossing_assists.jpg"
+        alt="gatekryssassistent" title="gatekryssassistent">
+    </a>
+    <figcaption><h4>gatekryssassistent</h4></figcaption>
+</figure>
 
 {{< youtube 2u5o2lfyQOM >}}
 
