@@ -4,7 +4,7 @@ linktitle: Ratt
 description: Audi Q4 e-tron har flere rattvalg
 weight: 2
 ---
-
+<!-- markdownlint-disable MD033 -->
 ## Dobbelteiket skinnratt
 
 Skinnrattet med doble eiker er trimhjulet på laveste nivå.

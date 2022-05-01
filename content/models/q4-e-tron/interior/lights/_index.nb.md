@@ -4,7 +4,7 @@ linktitle: Innvendig & ambient lys
 description: Audi Q4 e-tron har noen standard interiørlys og noen ekstra tilvalgsmuligheter.
 weight: 3
 ---
-
+<!-- markdownlint-disable MD033 -->
 ## Standard interiørlys
 
 Følgende interiørlys er standard på Audi Q4
@@ -14,7 +14,13 @@ Følgende interiørlys er standard på Audi Q4
 - oppbevaringsrom i midtkonsollen foran (hvit)
 - opplyst hanskerom
 
-![LED front roof module](standardlights3.jpg "LED-takmodul foran")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/standardlights3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/standardlights3.jpg" 
+        alt="LED-takmodul foran" title="LED-takmodul foran">
+    </a>
+    <figcaption><h4>LED-takmodul foran - In</h4></figcaption>
+</figure>
 
 ## Ambiente lyspakke
 
@@ -38,12 +44,36 @@ Omgivelseslyspakken pluss med opsjons-ID **QQ9**. tilbyr følgende rekke funksjo
 - konturbelysning på dashbordet (flerfarget)
 - Gulvbelysning foran og bak
 
-![Ambient lights](ambientligtscontrol.jpg "The lighs are controlled in MMI")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientligtscontrol.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientligtscontrols.jpg" 
+        alt="Lysene kontrolleres i MMI" title="Lysene kontrolleres i MMI">
+    </a>
+    <figcaption><h4>Lysene kontrolleres i MMI - In</h4></figcaption>
+</figure>
 
 Fargen kan endres basert på kjøremodusen din i [Audi Drive Select](/models/q4-e-tron/technology/audidriveselect/).
 
-![Ambient lights](ambientlight.jpg "Multicolor ambient light")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientlight.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientlights.jpg" 
+        alt="Multicolor ambient light" title="Multicolor ambient light">
+    </a>
+    <figcaption><h4>Multicolor ambient light - In</h4></figcaption>
+</figure>
 
-![Ambient lights](ambientlight2.jpg "Multicolor ambient light")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientlight2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientlight2s.jpg" 
+        alt="Multicolor ambient light" title="Multicolor ambient light">
+    </a>
+    <figcaption><h4>Multicolor ambient light - In</h4></figcaption>
+</figure>
 
-![Ambient lights](ambientlight3.jpg "Multicolor ambient light")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientlight3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientlight3s.jpg" 
+        alt="Multicolor ambient light" title="Multicolor ambient light">
+    </a>
+    <figcaption><h4>Multicolor ambient light - In</h4></figcaption>
+</figure>
