@@ -7,7 +7,13 @@ weight: 1
 <!-- markdownlint-disable MD033 -->
 En frontradar, ett frontkamera, fire omgivelses-kameraer, to bakradarer og åtte ultralydsensorer: Når bilen er fullt utstyrt, dekker sensorsystemet til Audi Q4 e-tron og Q4 Sportback e-tron et stort sansefelt og en stort antall trafikksituasjoner.
 
-![Sensorer Audi Q4 e-tron](sensors.jpg "Audi Q4 e-tron sensorer")
+ <figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/sensors.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/sensorss.jpg"
+        alt="Audi Q4 e-tron sensorer" title="Audi Q4 e-tron sensorer">
+    </a>
+    <figcaption><h4>Audi Q4 e-tron sensorer</h4></figcaption>
+</figure>
  
  Viktige førerassistentsystemer kommer som standard, de valgfrie systemene er delt inn i fire pakker: assistentsystempakke (PYK), assistentsystempakke pluss (PYL), assistentsystempakke pro (PY7) og sikkerhetspakke plus (PYU).
 

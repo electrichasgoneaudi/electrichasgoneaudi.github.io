@@ -7,6 +7,14 @@ weight: 1
 <!-- markdownlint-disable MD033 -->
  One front radar, one front camera, four surround-view cameras, two rear radars, and eight ultrasonic sensors: When fully equipped, the sensor system of the Audi Q4 e-tron and the Q4 Sportback e-tron covers a large sensing field and a large number of traffic situations.
  
+ <figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/sensors.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/sensorss.jpg"
+        alt="Audi Q4 e-tron sensors" title="Audi Q4 e-tron sensors">
+    </a>
+    <figcaption><h4>Audi Q4 e-tron sensors</h4></figcaption>
+</figure>
+
  ![Sensors Audi Q4 e-tron](sensors.jpg "Audi Q4 e-tron sensors")
  
  Important driver assist systems come as standard, the optional systems are subdivided into four packages: the assist package (PYK), the assist package plus (PYL), the assist package pro (PY7), and the safety package (PYU).

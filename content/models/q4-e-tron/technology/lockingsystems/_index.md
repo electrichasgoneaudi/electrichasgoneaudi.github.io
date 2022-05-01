@@ -13,7 +13,14 @@ To do this, the driver must sit in the vehicle and carry the convenience key wit
 
 The engine is started and switched off using the engine start-stop button in the center console.
 
-![Start button](startbutton.jpg "Center console with start/stop button")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/startbutton.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/startbuttons.jpg"
+        alt="Center console with start/stop button" title="Center console with start/stop button">
+    </a>
+    <figcaption><h4>Center console with start/stop button</h4></figcaption>
+</figure>
+
 
 ## Advance key option 4K5
 
@@ -25,7 +32,13 @@ To lock the vehicle from the outside, all you have to do is touch one of the sen
 
 If your car is equiped with the electric rear door (option **4E6** ) the luggage compartment lid can be conveniently unlocked using the luggage compartment button on the convenience key or, if you do not have a free hand, with a foot gesture (kick movement) at the rear.
 
-![Kick Sensor](kicksensor.jpg "With advance key you can open tailgate with kicking the foot under the tailgate")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/kicksensor.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/kicksensors.jpg"
+        alt="With advance key you can open tailgate with kicking the foot under the tailgate" title="With advance key you can open tailgate with kicking the foot under the tailgate">
+    </a>
+    <figcaption><h4>With advance key you can open tailgate with kicking the foot under the tailgate</h4></figcaption>
+</figure>
 
 As the standard key, the advance key on Audi e-tron is equipped with Keyless Go. This means
 the engine start authorization is also released without actively actuating the convenience key.
@@ -36,7 +49,13 @@ The engine is started and switched off using the engine start-stop button in the
 
 A high-quality visual differentiation on the top and bottom of the key through high-gloss black components and metal clasps in aluminum look make the innovative functions of the convenience key visible.
 
-![Advance key](advancekey.jpg "Audi Advance key")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/advancekey.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/advancekeys.jpg"
+        alt="Audi Advance key" title="Audi Advance key">
+    </a>
+    <figcaption><h4>Audi Advance key</h4></figcaption>
+</figure>
 
 ## Advance key in combination with function package 1 option 4K6
 
@@ -49,4 +68,3 @@ Anti-theft alarm system
 
 {{< youtube CurWSFtxRl4 >}}
 
-{{% children description="true" depth="1" %}}
