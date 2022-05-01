@@ -4,7 +4,7 @@ linktitle: Lights
 description: Audi e-tron GT has a lot of lightning options
 weight: 3
 ---
-
+<!-- markdownlint-disable MD033 -->
 ![Headlights](headlights_1.jpg "Headlights")
 
 The headlights and rear lights are characteristic elements of the exterior design of the e-tron GT quattro. This is where the character of the electrically powered gran turismo is focused. They are three-dimensional sculptures with a dynamic character and digital aesthetics. The wedge-shaped headlights in the e-tron GT are available in three versions. 

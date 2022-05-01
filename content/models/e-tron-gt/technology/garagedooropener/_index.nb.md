@@ -4,7 +4,7 @@ linktitle: Garasjeportåpner
 description: Audi e-tron GT kan bestilles med garasjeportåpner
 weight: 11
 ---
-
+<!-- markdownlint-disable MD033 -->
 Garasjeportåpneren støtter opptil 8  porter og kan bli knyttet til en GPS lokasjon.
 
 ![Opener](opener2.jpg "Du kan programmere opptil 8 porter.")

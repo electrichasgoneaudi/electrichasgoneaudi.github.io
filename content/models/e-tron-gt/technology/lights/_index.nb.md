@@ -4,7 +4,7 @@ linktitle: Lys
 description: Audi e-tron GT har avanserte lysmuligheter og velge mellom
 weight: 3
 ---
-
+<!-- markdownlint-disable MD033 -->
 ![Headlights](headlights_1.jpg "Headlights")
 
 Frontlyktene og baklysene er karakteristiske elementer i eksteriørdesignen til e-tron GT quattro. Det er her karakteren til den elektrisk drevne gran turismo er fokusert. 
