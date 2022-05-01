@@ -4,8 +4,15 @@ linktitle: Drivetrain
 description: Audi Q4 e-tron is built based on the Volkswagen MEB platform.
 weight: 6
 ---
+<!-- markdownlint-disable MD033 -->
 
-![Drivetrain](drivetrain.jpg "Audi Q4 e-tron drivetrain")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/drivetrain.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/drivetrains.jpg"
+        alt="Audi Q4 e-tron drivetrain" title="Audi Q4 e-tron drivetrain">
+    </a>
+    <figcaption><h4>Audi Q4 e-tron drivetrain</h4></figcaption>
+</figure>
 
 The below video show some highlights about the MEB platform.
  

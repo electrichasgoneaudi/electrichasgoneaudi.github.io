@@ -4,9 +4,8 @@ linktitle: Battery
 description: Audi Q4 e-tron have two different variants of the battery
 weight: 7
 ---
-
+<!-- markdownlint-disable MD033 -->
 The drive portfolio of the two compact electric models lives up to the expectations of very different groups of customers – from the urban commuter to the long-distance driver. It includes two battery variants and three drive variants. The compact battery for the Q4 35 e-tron has a net energy content of 52 kWh (55 kWh gross), while the figures for the large battery in the Q4 40 e-tron and Q4 50 e-tron quattro are 77 (82) kWh.
-
 
 ## Battery cells
 
@@ -39,7 +38,13 @@ The Q4 35 e-tron battery consist of 8 battery modules with 12 cells in each modu
 | TMS | active liquid cooling |
 | Pack weight | 344kg |
 
-![Q4 35 e-tron battery](q4etron35battery.jpg "Q4 35 e-tron battery")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/q4etron35battery.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/q4etron35batterys.jpg"
+        alt="Q4 35 e-tron battery" title="Q4 35 e-tron battery">
+    </a>
+    <figcaption><h4>Q4 35 e-tron battery</h4></figcaption>
+</figure>
 
 ## Battery Q4 40 e-tron and Q4 50 e-tron
 
@@ -57,15 +62,33 @@ The Q4 35 e-tron battery consist of 8 battery modules with 12 cells in each modu
 | Pack weight | 493kg |
 | Pack density wH/kg | 166 |
 
-![Q4 35 e-tron battery](q4etron40battery.jpg "Q4 40 e-tron / Q4 50 e-tron battery")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/q4etron40battery.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/q4etron40batterys.jpg"
+        alt="Q4 40 e-tron / Q4 50 e-tron battery" title="Q4 40 e-tron / Q4 50 e-tron battery">
+    </a>
+    <figcaption><h4>Q4 40 e-tron / Q4 50 e-tron battery</h4></figcaption>
+</figure>
 
 ## Thermal management
 
 The thermal management system aims to get the battery up to the ideal temperature range of around 30 degrees Celsius quickly after it is started and to keep it there until the end of the journey. This ensures that its full power – and therefore the power of the entire drive system – is available after a short time even in extremely cold conditions. Thanks to the stable thermal conditions, the driver can also call on it repeatedly or charge the battery at an HPC charging terminal with high output. The sophisticated thermal management system also gives the battery a long life cycle – Audi guarantees that it will still have at least 70 percent capacity after eight years of operation or after 160,000 kilometers.
 
-![Thermal management Audi Q4 e-tron](batterycooling.jpg "Thermal management Audi Q4 e-tron")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/batterycooling.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/batterycoolings.jpg"
+        alt="Thermal management Audi Q4 e-tron" title="Thermal management Audi Q4 e-tron">
+    </a>
+    <figcaption><h4>Thermal management Audi Q4 e-tron</h4></figcaption>
+</figure>
 
-![Thermal management Audi Q4 e-tron](battercooling2.jpg "Cooling of the high-voltage battery via the chiller")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/battercooling2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/battercooling2s.jpg"
+        alt="Cooling of the high-voltage battery via the chiller" title="Cooling of the high-voltage battery via the chiller">
+    </a>
+    <figcaption><h4>Cooling of the high-voltage battery via the chiller</h4></figcaption>
+</figure>
 
 {{< youtube oRt-pWOBao4 >}}
 

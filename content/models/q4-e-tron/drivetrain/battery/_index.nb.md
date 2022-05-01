@@ -4,7 +4,7 @@ linktitle: Batteri
 description: Audi Q4 e-tron har to forskjellige varianter av batteriet
 weight: 7
 ---
-
+<!-- markdownlint-disable MD033 -->
 Kjøreporteføljen til de to kompakte elektriske modellene lever opp til forventningene til svært forskjellige kundegrupper – fra bypendleren til langdistansesjåføren. Den inkluderer to batterivarianter og tre drivvarianter. Det kompakte batteriet til Q4 35 e-tron har et netto energiinnhold på 52 kWh (55 kWh brutto), mens tallene for det store batteriet i Q4 40 e-tron og Q4 50 e-tron quattro er 77 (82) kWh.
 
 ## Battericeller
@@ -38,7 +38,13 @@ Q4 35 e-tron-batteriet består av 8 batterimoduler med 12 celler i hver modul.
 | TMS | aktiv væskekjøling |
 | Pakkevekt | 344 kg |
 
-![Q4 35 e-tron batteri](q4etron35battery.jpg "Q4 35 e-tron batteri")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/q4etron35battery.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/q4etron35batterys.jpg"
+        alt="Q4 35 e-tron battery" title="Q4 35 e-tron battery">
+    </a>
+    <figcaption><h4>Q4 35 e-tron battery</h4></figcaption>
+</figure>
 
 ## Batteri Q4 40 e-tron og Q4 50 e-tron
 
@@ -56,15 +62,33 @@ Q4 35 e-tron-batteriet består av 8 batterimoduler med 12 celler i hver modul.
 | Pakkevekt | 493 kg |
 | Pakningstetthet wH/kg | 166 |
 
-![Q4 35 e-tron batteri](q4etron40battery.jpg "Q4 40 e-tron / Q4 50 e-tron batteri")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/q4etron40battery.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/q4etron40batterys.jpg"
+        alt="Q4 40 e-tron / Q4 50 e-tron batteri" title="Q4 40 e-tron / Q4 50 e-tron batteri">
+    </a>
+    <figcaption><h4>Q4 40 e-tron / Q4 50 e-tron batteri</h4></figcaption>
+</figure>
 
 ## Termisk styring
 
 Det termiske styringssystemet tar sikte på å få batteriet opp til det ideelle temperaturområdet på rundt 30 grader Celsius raskt etter at det er startet og å holde det der til slutten av reisen. Dette sikrer at dens fulle kraft – og dermed kraften til hele drivsystemet – er tilgjengelig etter kort tid selv under ekstremt kalde forhold. Takket være de stabile termiske forholdene kan sjåføren også ringe den gjentatte ganger eller lade batteriet ved en HPC-ladeterminal med høy effekt. Det sofistikerte termiske styringssystemet gir også batteriet en lang livssyklus – Audi garanterer at det fortsatt vil ha minst 70 prosent kapasitet etter åtte års drift eller etter 160 000 kilometer.
 
-![Termisk styring Audi Q4 e-tron](batterycooling.jpg "Termisk styring Audi Q4 e-tron")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/batterycooling.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/batterycoolings.jpg"
+        alt="Termisk styring Audi Q4 e-tron" title="Termisk styring Audi Q4 e-tron">
+    </a>
+    <figcaption><h4>Termisk styring Audi Q4 e-tron</h4></figcaption>
+</figure>
 
-![Termistyring Audi Q4 e-tron](battercooling2.jpg "Kjøling av høyspentbatteriet via kjøleren")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/battercooling2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/battercooling2s.jpg"
+        alt="Kjøling av høyspentbatteriet via kjøleren" title="Kjøling av høyspentbatteriet via kjøleren">
+    </a>
+    <figcaption><h4>Kjøling av høyspentbatteriet via kjøleren</h4></figcaption>
+</figure>
 
 {{< youtube oRt-pWOBao4 >}}
 

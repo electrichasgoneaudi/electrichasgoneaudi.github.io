@@ -4,15 +4,27 @@ linktitle: Suspension
 description: The Q4 e-tron and the Q4 Sportback e-tron integrate the best conditions for high levels of comfort, driving pleasure, and unshakable stability
 weight: 7
 ---
-{{% children description="true" depth="1" %}}
+<!-- markdownlint-disable MD033 -->
 
 The front axle of the compact electric SUVs is designed in the classic McPherson construction method, the steering is located underneath at the front. A compact five-link design featuring similarities with the rear axle of the large Audi models works at the rear. As with the front axle, it is mounted on a subframe. Several parts of the suspension are made of lightweight aluminum. The track widths are 1,587 millimeters at the front and 1,565 millimeters at the rear.
 
 You can order the Q4 e-tron with sport suspension. The sport suspension (standard in the S line) lowers the body by 15 millimeters.
 
-![Suspension](suspension.jpg "Audi Q4 S-line with standard suspension 180mm ground clearance")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/suspension.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/suspension.jpg"
+        alt="Audi Q4 S-line with standard suspension 180mm ground clearance" title="Audi Q4 S-line with standard suspension 180mm ground clearance">
+    </a>
+    <figcaption><h4>Audi Q4 S-line with standard suspension 180mm ground clearance</h4></figcaption>
+</figure>
 
-![Suspension](slinesuspension.jpg "Audi Q4 S-line with S-Line suspension and 165mm ground clearance")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/slinesuspension.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/slinesuspensions.jpg"
+        alt="Audi Q4 S-line with S-Line suspension and 165mm ground clearance" title="Audi Q4 S-line with S-Line suspension and 165mm ground clearance">
+    </a>
+    <figcaption><h4>Audi Q4 S-line with S-Line suspension and 165mm ground clearance</h4></figcaption>
+</figure>
 
 On request, Audi can equip the two compact electric SUVs with the dynamic package or the dynamic package plus.
 

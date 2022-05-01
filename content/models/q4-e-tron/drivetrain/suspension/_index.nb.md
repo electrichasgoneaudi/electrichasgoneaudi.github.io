@@ -4,14 +4,27 @@ linktitle: Dempere
 description: Q4 e-tron og Q4 Sportback e-tron integrerer de beste forholdene for høye nivåer av komfort, kjøreglede og urokkelig stabilitet
 weight: 7
 ---
+<!-- markdownlint-disable MD033 -->
 
 Forakselen til de kompakte elektriske SUV-ene er designet i den klassiske McPherson-konstruksjonsmetoden, styringen er plassert under foran. En kompakt femleddet design med likheter med bakakselen til de store Audi-modellene fungerer bak. Som med forakselen er den montert på en underramme. Flere deler av fjæringen er laget av lettvektsaluminium. Sporviddene er 1.587 millimeter foran og 1.565 millimeter bak.
 
 Du kan bestille Q4 e-tron med sportsunderstell. Sportsfjæringen (standard i S-linjen) senker karosseriet med 15 millimeter.
 
-![Suspension](suspension.jpg "Audi Q4 S-line med standard oppheng 180 mm bakkeklaring")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/suspension.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/suspension.jpg"
+        alt="Audi Q4 S-line med standard oppheng 180 mm bakkeklaring" title="Audi Q4 S-line med standard oppheng 180 mm bakkeklaring">
+    </a>
+    <figcaption><h4>Audi Q4 S-line med standard oppheng 180 mm bakkeklaring</h4></figcaption>
+</figure>
 
-![Suspension](slinesuspension.jpg "Audi Q4 S-line med S-Line oppheng og 165 mm bakkeklaring")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/slinesuspension.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/slinesuspensions.jpg"
+        alt="Audi Q4 S-line med S-Line oppheng og 165 mm bakkeklaring" title="Audi Q4 S-line med S-Line oppheng og 165 mm bakkeklaring">
+    </a>
+    <figcaption><h4>Audi Q4 S-line med S-Line oppheng og 165 mm bakkeklaring</h4></figcaption>
+</figure>
 
 På forespørsel kan Audi utstyre de to kompakte elektriske SUV-ene med dynamisk pakke eller dynamisk pakke pluss.
 
