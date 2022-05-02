@@ -51,7 +51,7 @@ Med 94kWh netto batteri vil det indikere et forbruk på 13,4 kWh/100 km som indi
 
 For [Audi grandshpere concept](../../../articles/audigrandsphereconcept/) bruker Audi PPE platformen med 120kWh batteri.
 
-![Drivetrain](drivetrain.jpg "PPE-drivetrain")
+![Drivetrain](https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain.jpg "PPE-drivetrain")
 
 Dimensjonene og overhengene til Audi-modellene med lavt gulv på PPE-plattformen vil være
 litt kortere enn de nåværende forbrenningsmotormodellene på MLB-basis, men vil
