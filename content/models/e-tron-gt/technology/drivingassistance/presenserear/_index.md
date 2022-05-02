@@ -14,7 +14,6 @@ weight: 1
     <figcaption><h4>Audi pre sense rear</h4></figcaption>
 </figure>
 
-
 These include pretensioning the front seat belts by electric power and closing the windows and sliding sunroof. In addition, the system activates the hazard warning lights to alert following traffic to the critical situation. In this process, the Rear-end collision alert signal (RECAS) is triggered, which flashes the hazard warning lights at a high frequency. Audi pre sense rear is active in background over the car’s entire driving speed range with the exception of trailer towing situations.
 
 This is part of the city assistance package with option id **PCM**
