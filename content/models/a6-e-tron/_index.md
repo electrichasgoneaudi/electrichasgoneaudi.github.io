@@ -20,8 +20,8 @@ The expectation is that this will be launched in 2023 and the first owners will 
 It will be based on the new [PPE-platform](../../technology/bev-platforms/ppe/) that is co-created with Porsche.
 
 <figure>
-    <a href="../../technology/bev-platforms/ppe/drivetrain.jpg">
-        <img src="../../technology/bev-platforms/ppe/drivetrain.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain.jpgg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrains.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
     </a>
      <figcaption><h4>Audi A6 e-tron drivetrain</h4></figcaption>
 </figure>
