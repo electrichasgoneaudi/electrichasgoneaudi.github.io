@@ -19,8 +19,8 @@ Advarslene gis når avstanden til en gjenstand i kjørebanen er mindre enn 90 cm
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/parkingsystemplus/sensorsrear.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/parkingsystemplus/sensorsrears.jpg"
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/parkingsystemplus/rearsensor.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/parkingsystemplus/rearsensor.jpg"
         alt="Plassering av bakre sensorer på Audi e-tron GT" title="Plassering av bakre sensorer på Audi e-tron GT">
     </a>
     <figcaption><h4>Plassering av bakre sensorer på Audi e-tron GT</h4></figcaption>
