@@ -109,12 +109,29 @@ For many buyers this is a real dilemma.  We will try help you choose.
 | Air quality package | N/A | option |
 
 ### Dimension comparison
+<!-- markdownlint-disable MD033 -->
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison1.jpg"
+        alt="Size comparison Q4 and e-tron" title="Size comparison Q4 and e-tron">
+    </a>
+    <figcaption><h4>Size comparison Q4 and e-tron</h4></figcaption>
+</figure>
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison2.jpg"
+        alt="Size comparison Q4 and e-tron" title="Size comparison Q4 and e-tron">
+    </a>
+    <figcaption><h4>Size comparison Q4 and e-tron</h4></figcaption>
+</figure>
 
-![Comparions](comparison1.jpg "Size comparison Q4 and e-tron")
-
-![Comparions](comparison2.jpg "Size comparison Q4 and e-tron")
-
-![Comparions](comparison3.jpg "Size comparison Q4 and e-tron")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison3.jpg"
+        alt="Size comparison Q4 and e-tron" title="Size comparison Q4 and e-tron">
+    </a>
+    <figcaption><h4>Size comparison Q4 and e-tron</h4></figcaption>
+</figure>
 
 ### Summary
 
