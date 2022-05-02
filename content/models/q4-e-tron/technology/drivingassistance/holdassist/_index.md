@@ -5,7 +5,14 @@ description: Audi Q4 e-tron is equipped with hold assist. Hold assist enables co
 weight: 1
 ---
 
-![Hold Assist](holdassist.jpg "Hold assist helps for hill starting")
+<!-- markdownlint-disable MD033 -->
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/holdassist/holdassist.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/holdassist/holdassists.jpg"
+        alt="Hold Assist hjelper for bakkestart på Audi Q4 e-tron" title="Hold Assist hjelper for bakkestart på Audi Q4 e-tron">
+    </a>
+    <figcaption><h4>Hold assist helps for hill starting the Audi Q4 e-tron</h4></figcaption>
+</figure>
 
  The system automatically switches over to the electromechanical parking brake when the car is stopped for a longer period of time while hold assist is activated or it is stopped using the brake. This ensures that the car will remain stationary even without activation of the parking brake. After a stop at a traffic light, for instance, the car drives off as soon as the driver presses the accelerator pedal. The system is activated in MMI in the following menu.
 
