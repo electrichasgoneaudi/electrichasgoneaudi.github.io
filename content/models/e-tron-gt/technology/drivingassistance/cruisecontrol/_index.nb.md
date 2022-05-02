@@ -5,7 +5,14 @@ description: Audi e-tron GT er utstyrt med cruisekontroll. Cruisekontroll oppret
 weight: 1
 ---
 
-![Cruisecontrol](cruisecontrol.jpg "Cruise control hendel")
+<!-- markdownlint-disable MD033 -->
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/cruisecontrol/cruisecontrol.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/cruisecontrol/cruisecontrols.jpg"
+        alt="Cruise control hendel" title="Cruise control hendel">
+    </a>
+    <figcaption><h4>Cruise control hendel</h4></figcaption>
+</figure>
 
 Systemet gir avlastning til sjåførene på denne måten – spesielt på lange turer. Samtidig bidrar kjøringen med konstant hastighet til lavere drivstofforbruk og lavere CO2-utslipp. Systemet betjenes via en separat rattstamme, og forhåndsinnstilt kjørehastighet vises i instrumentgruppen. Systemet deaktiveres når føreren bremser.
 

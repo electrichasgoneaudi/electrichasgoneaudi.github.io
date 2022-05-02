@@ -5,7 +5,14 @@ description: Audi e-tron GT is equipped with cruise control. Cruise control main
 weight: 1
 ---
 
-![Cruise control](cruisecontrol.jpg "Cruise control stalk")
+<!-- markdownlint-disable MD033 -->
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/cruisecontrol/cruisecontrol.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/cruisecontrol/cruisecontrols.jpg"
+        alt="Cruise control stalk" title="Cruise control stalk">
+    </a>
+    <figcaption><h4>Cruise control stalk</h4></figcaption>
+</figure>
 
 The system offers relief to drivers in this way – especially on long trips. At the same time, the constant speed mode of driving contributes towards lower fuel consumption and lower CO2 emissions. The system is operated via a separate steering column stalk, and the preset driving speed is shown in the instrument cluster. The system is deactivated when the driver brakes.
 

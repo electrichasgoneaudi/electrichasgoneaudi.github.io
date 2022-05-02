@@ -23,8 +23,6 @@ The included speed limiter helps not to exceed a previously set maximum speed wh
     <figcaption><h4>The cruise control handle controls the function</h4></figcaption>
 </figure>
 
-![Cruise control handle](cruisecontrol.jpg "The cruise control handle controls the function including distance to car in front")
-
 You enable the cruise control with pressing the buttom at the end. Or you can resume earlier speed with pulling the lever.
 
 Speed is adjusted with pushing the lever up and down. You can control the distance to the car in front with the distance button.
