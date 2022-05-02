@@ -16,6 +16,3 @@ Maneuvering assist is standard on Audi e-tron GT
     </a>
     <figcaption><h4>Maneuvering assist in MMI</h4></figcaption>
 </figure>
-
-
-{{% children description="true" depth="1" %}}
