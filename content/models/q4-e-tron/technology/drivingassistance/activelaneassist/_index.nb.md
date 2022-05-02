@@ -17,8 +17,12 @@ weight: 1
 
 Active Lane Assist kan deaktiveres på knappen på enden av retningshåndtaket. Det er ikke mulig å deaktivere den permanent.
 
-![Lane assist](laneassistbutton.jpg "Aktiv filassistent kan deaktiveres med knappen på retningshåndtaket")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/activelaneassist/laneassistbutton.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/activelaneassist/laneassistbuttons.jpg"
+        alt="Aktiv filassistent kan deaktiveres med knappen på retningshåndtaket" title="Aktiv filassistent kan deaktiveres med knappen på retningshåndtaket">
+    </a>
+    <figcaption><h4>Aktiv filassistent kan deaktiveres med knappen på retningshåndtaket</h4></figcaption>
+</figure>
 
 Aktiv kjørefeltassistent er standardutstyr.
-
-{{% children description="true" depth="1" %}}

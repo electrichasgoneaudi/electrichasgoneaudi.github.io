@@ -18,8 +18,12 @@ weight: 1
 
 The Active Lane Assist can be disabled on the button at the end of the direction handle. It is not possible to permanent disable it.
 
-![Lane assist](laneassistbutton.jpg "Active lane assist can be disabled with the button on the direction handle")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/activelaneassist/laneassistbutton.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/activelaneassist/laneassistbuttons.jpg"
+        alt="Active lane assist can be disabled with the button on the direction handle" title="Active lane assist can be disabled with the button on the direction handle">
+    </a>
+    <figcaption><h4>Active lane assist can be disabled with the button on the direction handle</h4></figcaption>
+</figure>
 
 Active lane assist is standard equipment.
-
-{{% children description="true" depth="1" %}}
