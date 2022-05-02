@@ -5,7 +5,14 @@ description: Audi e-tron GT kan utstyres med nasttsynassistent. Nattsynsassisten
 weight: 1
 ---
 
-![Night Vision](nightvision.jpg "Night Vision")
+<!-- markdownlint-disable MD033 -->
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/nightvision/nightvision.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/nightvision/nightvisions.jpg"
+        alt="Night vision" title="Night vision">
+    </a>
+    <figcaption><h4>Night vision</h4></figcaption>
+</figure>
 
 De kjøligere omgivelsene virker mørke, mens dyr og mennesker fremstår påfallende lyse.
 

@@ -5,7 +5,14 @@ description: Audi e-tron GT can be equipped with night vission assist. The night
 weight: 1
 ---
 
-![Night Vision](nightvision.jpg "Night vision")
+<!-- markdownlint-disable MD033 -->
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/nightvision/nightvision.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/nightvision/nightvisions.jpg"
+        alt="Night vision" title="Night vision">
+    </a>
+    <figcaption><h4>Night vision</h4></figcaption>
+</figure>
 
 The cooler surroundings appear dark, while animals and people appear strikingly bright.
 
