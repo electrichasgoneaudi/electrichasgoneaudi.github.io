@@ -20,8 +20,8 @@ Forventningen er at A6 e-tron lanseres i 2023 og de første eierne vil motta den
 Den vil være basert på den nye [PPE-plattformen](../../technology/bev-platforms/ppe/) som utvikles sammen med Porsche.
 
 <figure>
-    <a href="../../technology/bev-platforms/ppe/drivetrain.jpg">
-        <img src="../../technology/bev-platforms/ppe/drivetrain.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrains.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
     </a>
      <figcaption><h4>Audi A6 e-tron drivetrain</h4></figcaption>
 </figure>
