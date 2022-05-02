@@ -19,8 +19,8 @@ weight: 1
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/parkingsystemplus/sensorsrear.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/parkingsystemplus/sensorsrears.jpg"
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/parkingsystemplus/rearsensor.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/parkingsystemplus/rearsensor.jpg"
         alt="Location of rear parking sensors on Audi e-tron GT" title="Location of rear parking sensors on Audi e-tron GT">
     </a>
     <figcaption><h4>Location of rear parking sensors on Audi e-tron GT</h4></figcaption>
