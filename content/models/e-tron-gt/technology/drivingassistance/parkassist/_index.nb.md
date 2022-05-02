@@ -18,8 +18,6 @@ bilen.
     <figcaption><h4>Du aktiverer søk etter parkeringsluker med en tast i midtkonsollen når parkeringshjelpen er slått på i displayet.</h4></figcaption>
 </figure>
 
-![Parking assist](parkassist.jpg " Du aktiverer søk etter parkeringsluker med en tast i midtkonsollen når parkeringshjelpen er slått på i displayet.")
-
 Dine fordeler:
 
 - Hjelper deg å finne passende parkeringsluker langs veien
