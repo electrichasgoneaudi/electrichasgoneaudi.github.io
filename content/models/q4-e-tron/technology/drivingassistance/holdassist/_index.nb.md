@@ -8,7 +8,7 @@ weight: 1
 <!-- markdownlint-disable MD033 -->
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/holdassist/holdassist.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/holdassist/holdassists.jpg"
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/holdassist/holdassists.jpg"
         alt="Hold Assist hjelper for bakkestart på Audi Q4 e-tron" title="Hold Assist hjelper for bakkestart på Audi Q4 e-tron">
     </a>
     <figcaption><h4>Hold Assist hjelper for bakkestart på Audi Q4 e-tron</h4></figcaption>
