@@ -19,11 +19,17 @@ The expectation is that this will be launched in 2023 and the first owners will 
 
 It will be based on the new [PPE-platform](../../technology/bev-platforms/ppe/) that is co-created with Porsche.
 
+## Size & design
+
+Even this is an concept, Audi promises that this concept will look very similar to the production ready model.  At 4.96 meters (16.3 ft.) long, 1.96 meters (6.4 ft.) wide, and 1.44 meters (4.7 ft.) high, its body puts it in the luxury class. Its lines are a consistent development in Audi’s contemporary formal language. Significant elements like the closed Singleframe and the continuous strip of lights in the rear emphasize its kinship with the other electrically powered Audis in the e-tron fleet.
+
+Large 22-inch wheels and short overhangs, the flat cabin, and a dynamic roof arch give the Avant proportions that are distinctly reminiscent of a sports car.
+
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain.jpgg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrains.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-6.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-6s.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
     </a>
-     <figcaption><h4>Audi A6 e-tron drivetrain</h4></figcaption>
+    <figcaption><h4>Audi A6 Avant e-tron concept</h4></figcaption>
 </figure>
 
 ## Battery & Range
@@ -42,10 +48,10 @@ The battery will have an 800-Volt architecture for high-performance charging up 
 ## Motor and performance
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-6s.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain.jpgg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrains.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
     </a>
-    <figcaption><h4>Audi A6 Avant e-tron concept</h4></figcaption>
+     <figcaption><h4>Audi A6 e-tron drivetrain</h4></figcaption>
 </figure>
 
 The expectation is that it will come in different versions. 
