@@ -42,8 +42,8 @@ In doing so, the brand is also expanding its current model portfolio in the full
 The diagram below show hows PPE models will be compared to J1 and MEB models in various aspects.
 
 <figure>
-    <a href="comparativeperformance.png">
-        <img src="comparativeperformances.png" alt="PPE models compared with J1 and MEB models" title="PPE models compared with J1 and MEB models">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/comparativeperformance.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/comparativeperformances.png" alt="PPE models compared with J1 and MEB models" title="PPE models compared with J1 and MEB models">
     </a>
     <figcaption><h4>PPE models compared with J1 and MEB models</h4></figcaption>
 </figure>
