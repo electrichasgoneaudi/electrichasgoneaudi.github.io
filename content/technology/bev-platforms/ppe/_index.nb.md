@@ -39,10 +39,22 @@ den øvre mellomklasseklassen til luksusklassen som SUV-er, Sportbacks, Avants o
 
 Teknologipakken på PPE er generelt lik den til MEB; i tillegg tilbyr den
 stort potensial når det gjelder produksjon og ytelse. Som standard er kjøretøyene utstyrt med
-en elektrisk motor bak; toppmodellene er utstyrt med en ekstra elektrisk
-motor på forakselen (PSM eller ASM) som lar dem aktivere firehjulsdrift
+en elektrisk motor bak; toppmodellene er utstyrt med en ekstra elektrisk motor på forakselen (PSM eller ASM) som lar dem aktivere firehjulsdrift
 automatisk ved behov. If vil selvsagt også være mulig å realisere annerledes ytelse
-nivåer og batterikapasitet på PPE-plattformen. Som i Audi e-tron GT, staten
+nivåer og batterikapasitet på PPE-plattformen.
+
+Diagrammet nedenfor viser forskjellene mellom modeller som vil leveres på PPE og J1 og MEB modellene.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/comparativeperformance.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/comparativeperformances.png" alt="PPE modellene sammelignet med J1 og MEB modeller" title="PPE modellene sammelignet med J1 og MEB modeller">
+    </a>
+    <figcaption><h4>PPE modellene sammelignet med J1 og MEB modeller</h4></figcaption>
+</figure>
+
+## Battery 
+
+Som i Audi e-tron GT, staten
 ladningen er 800 volt; i kombinasjon med høyeffektiv termisk styring, muliggjør det en
 høy ladekapasitet på 350 kW.
 
