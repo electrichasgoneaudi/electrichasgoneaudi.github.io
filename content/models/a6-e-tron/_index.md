@@ -17,8 +17,6 @@ March 17. 2022 Audi also presented the Audi A6 Avant e-tron concept of this mode
 
 The expectation is that this will be launched in 2023 and the first owners will receive it in early 2024.
 
-It will be based on the new [PPE-platform](../../technology/bev-platforms/ppe/) that is co-created with Porsche.
-
 ## Size & design
 
 Even this is an concept, Audi promises that this concept will look very similar to the production ready model.  At 4.96 meters (16.3 ft.) long, 1.96 meters (6.4 ft.) wide, and 1.44 meters (4.7 ft.) high, its body puts it in the luxury class. Its lines are a consistent development in Audi’s contemporary formal language. Significant elements like the closed Singleframe and the continuous strip of lights in the rear emphasize its kinship with the other electrically powered Audis in the e-tron fleet.
@@ -32,7 +30,11 @@ Large 22-inch wheels and short overhangs, the flat cabin, and a dynamic roof arc
     <figcaption><h4>Audi A6 Avant e-tron concept</h4></figcaption>
 </figure>
 
-## Battery & Range
+## Drivetrain
+
+Audi A6 e-tron is based on the new [PPE-platform](../../technology/bev-platforms/ppe/) that is co-created with Porsche.
+
+### Battery & Range
 
 It will be delivered in two battery sizes
 
@@ -45,7 +47,7 @@ The battery will have an 800-Volt architecture for high-performance charging up 
 
 ![Battery](https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/battery.png "Audi A6 e-tron battery with 12 modules and 100kWh gross")
 
-## Motor and performance
+### Motor and performance
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain.jpgg">
@@ -67,6 +69,10 @@ The concept version have 469HP and 800 nm torque. (60 rating)
 Audi will use different motor setups on the different variants.
 
 ![Motors](https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/motors.jpg "Motors for Audi A6 e-tron")
+
+### Suspension
+
+Audi A6 e-tron will be available with Adaptive Air suspension.
 
 ## UI & MMI
 
