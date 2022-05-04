@@ -58,7 +58,7 @@ Se alle detaljer i [Audi Q4 e-tron eksteriørseksjon](exterior)
 
 <br />
 
-![Interior](interior/interior.jpg)
+![Interior](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/interior.jpg)
 
 ### Audi Q4 e-tron interiør
 

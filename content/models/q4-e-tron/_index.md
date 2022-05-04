@@ -59,10 +59,9 @@ Audi Q4 e-tron comes in different styling, colors, and wheels.
 
 See all details in the [Audi Q4 e-tron exterior section](exterior)
 
-
 <br />
 
-![Interior](interior/interior.jpg)
+![Interior](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/interior.jpg)
 
 ### Audi Q4 e-tron interior
 

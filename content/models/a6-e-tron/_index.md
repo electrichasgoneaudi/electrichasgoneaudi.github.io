@@ -1,7 +1,7 @@
 ---
 title: Audi A6 e-tron
 linktitle: Audi A6 e-tron
-description: Audi A6 e-tron was first time revealed in April 2021 as a concept car. It is expected to have a world premiere in 2023 and will be the fifth all-electric model from Audi. With a range of up to 700km, it will the all-electric model with the longest range from Audi.
+description: The Audi A6 e-tron was first time revealed in April 2021 as a concept car. It is expected to have a world premiere in 2023 and will be the sixth all-electric model from Audi. With a range of up to 700km, it will be the all-electric model with the longest range from Audi.
 weight: 7
 ---
 <!-- markdownlint-disable MD033 -->
@@ -15,11 +15,11 @@ March 17. 2022 Audi also presented the Audi A6 Avant e-tron concept of this mode
     <figcaption><h4>Audi A6 e-tron and Audi A6 Avant e-tron concept</h4></figcaption>
 </figure>
 
-The expectation is that this will be launched in 2023 and the first owners will receive it in early 2024.
+The expectation is that the first owners will receive it in early 2024.
 
-## Size & design
+## Exterior, size, and design
 
-Even this is an concept, Audi promises that this concept will look very similar to the production ready model.  At 4.96 meters (16.3 ft.) long, 1.96 meters (6.4 ft.) wide, and 1.44 meters (4.7 ft.) high, its body puts it in the luxury class. Its lines are a consistent development in Audi’s contemporary formal language. Significant elements like the closed Singleframe and the continuous strip of lights in the rear emphasize its kinship with the other electrically powered Audis in the e-tron fleet.
+Even though this is a concept, Audi promises that this concept will look very similar to the production-ready model. At 4.96 meters (16.3 ft.) long, 1.96 meters (6.4 ft.) wide, and 1.44 meters (4.7 ft.) high, its body puts it in the luxury class. Its lines are a consistent development in Audi’s contemporary formal language. Significant elements like the closed Singleframe and the continuous strip of lights in the rear emphasize its kinship with the other electrically powered Audis in the e-tron fleet.
 
 Large 22-inch wheels and short overhangs, the flat cabin, and a dynamic roof arch give the Avant proportions that are distinctly reminiscent of a sports car.
 
@@ -30,9 +30,15 @@ Large 22-inch wheels and short overhangs, the flat cabin, and a dynamic roof arc
     <figcaption><h4>Audi A6 Avant e-tron concept</h4></figcaption>
 </figure>
 
+Audi A6 e-tron will be available with S-line exterior, black optics, black windows, virtual mirrors, panoramic roof, several wheels to choose from with sizes from 19" to 22", many different colors including the possibility for Audi exclusive colors making it possible to create your unique design.
+
+## Interior
+
+Audi A6 e-tron will have different seat options with 
+
 ## Drivetrain
 
-Audi A6 e-tron is based on the new [PPE-platform](../../technology/bev-platforms/ppe/) that is co-created with Porsche.
+Audi A6 e-tron is based on the new [PPE-platform](../../technology/bev-platforms/ppe/) that is co-created with Porsche and will come with both 2 wheel drive and quattro version and with at least two different battery sizes.
 
 ### Battery & Range
 
@@ -56,10 +62,10 @@ The battery will have an 800-Volt architecture for high-performance charging up 
      <figcaption><h4>Audi A6 e-tron drivetrain</h4></figcaption>
 </figure>
 
-The expectation is that it will come in different versions. 
+The expectation is that Audi A6 e-tron will come in different versions.
 
-- Audi A6 e-tron / Audi A6 Avant e-tron with small battery (45 rating)
-- Audi A6 / Audi A6 Avant e-tron with large battery (the version with longest range)(50 rating)
+- Rear wheel drive Audi A6 e-tron / Audi A6 Avant e-tron with small battery (45 rating)
+- Rear wheel drive Audi A6 / Audi A6 Avant e-tron with large battery (the version with longest range)(50 rating)
 - Audi A6 quattro / Audi A6 Avant e-tron quattro with large battery (55 rating)
 - Audi S6 Avant e-tron  (60 rating)
 - Audi RS6 Avant e-tron (70 rating)
@@ -74,11 +80,15 @@ Audi will use different motor setups on the different variants.
 
 Audi A6 e-tron will be available with Adaptive Air suspension.
 
+
+## Technology
+
 ## UI & MMI
 
 Audi A6 e-tron will come with a new generation MMI.
 
-It will be based around [Android Automotive](https://source.android.com/devices/automotive/start/what_automotive) 
+It will be based on  [Android Automotive](https://source.android.com/devices/automotive/start/what_automotive) and will feature
+a larger horisontal display mounted on dashboard and virtual cockpit.
 
 ## Options
 

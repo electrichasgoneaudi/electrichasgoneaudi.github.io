@@ -57,4 +57,4 @@ Innholdet er opprettet ved hjelp av [Markdown](https://en.wikipedia.org/wiki/Mar
 
 ## Facebook og Instagram
 
-Vi har flere Facebookgrupper knyttet til de forskjellige modellene. Du finner dem på vår [Facebook-side](https://www.facebook.com/electrichasgoneaudi). Vi har også en Instagram-konto dedikert til alle elektriske Audi. Du finner den her: [https://www.instagram.com/electrichasgoneaudi/](https://www.instagram.com/electrichasgoneaudi/)
+Vi har flere Facebookgrupper knyttet til de forskjellige modellene. Du finner dem på vår [Facebook-side](https://www.facebook.com/electrichasgoneaudi/groups/). Vi har også en Instagram-konto dedikert til alle elektriske Audi. Du finner den her: [https://www.instagram.com/electrichasgoneaudi/](https://www.instagram.com/electrichasgoneaudi/)

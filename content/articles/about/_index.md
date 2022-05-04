@@ -57,4 +57,4 @@ The content is created using [Markdown](https://en.wikipedia.org/wiki/Markdown) 
 
 ## Facebook & Instagram
 
-We have serveral Facegroup groups related to the different models. You find them on our [Facebook page](https://www.facebook.com/electrichasgoneaudi).  We also have a Instagram accound dedicated to all electric Audi. You find it here: [https://www.instagram.com/electrichasgoneaudi/](https://www.instagram.com/electrichasgoneaudi/)
+We have serveral Facegroup groups related to the different models. You find them on our [Facebook page](https://www.facebook.com/electrichasgoneaudi).  We also have a Instagram accound dedicated to all electric Audi. You find it here: [https://www.instagram.com/electrichasgoneaudi/](https://www.instagram.com/electrichasgoneaudi/groups/)
