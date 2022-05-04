@@ -6,7 +6,7 @@
   {{- if .Site.IsMultiLingual -}}
     {{- range .AllTranslations -}}
     <a aria-hidden="true" class="dropdown-item" href="{{ .RelPermalink }}">
-      <img src="/images/{{ .Language }}.svg" class="a-iconLeft a-flag" alt="" />
+      <img src="/images/{{ .Language }}.svg" class="a-iconLeft a-flag" alt="Language flag" />
       <p>
         <span class="a-h3">{{ .Language.LanguageName }}{{- if eq .Language.Lang $currentPage.Language.Lang }} ✓{{- end -}}</span><br>
         {{- if eq .Language.Lang "en" -}}
