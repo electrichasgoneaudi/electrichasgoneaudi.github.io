@@ -1,7 +1,7 @@
 ---
 title: Audi A6 e-tron
 linktitle: Audi A6 e-tron
-description: Audi A6 e-tron ble første gang avslørt i april 2021 som en konseptbil. Den forventes å ha verdenspremiere i 2023 og blir den sjette helelektriske modellen fra Audi. Med en rekkevidde på opptil 700 km blir det den helelektriske modellen med lengst rekkevidde fra Audi.
+description: Audi A6 e-tron ble første gang presentert i april 2021 som en konseptbil. Den forventes å ha verdenspremiere i 2023 og blir den sjette helelektriske modellen fra Audi. Med en rekkevidde på opptil 700 km blir det den helelektriske modellen med lengst rekkevidde fra Audi.
 weight: 7
 ---
 <!-- markdownlint-disable MD033 -->
@@ -98,7 +98,7 @@ Digital Matrix LED og digital OLED-teknologi gjør det mulig å oppnå maksimal 
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-8.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-8s.jpg" alt="Digital matrise med egendefinert lyssignatur" title="Digital matrise med tilpasset lyssignatur">
     </a>
-    <figcaption><h4>Digital matrise med egendefinert lyssignatur</h4></figcaption>
+    <figcaption><h4>Digital Matrix med egendefinert lyssignatur</h4></figcaption>
 </figur>
 
 Tre små, høyoppløselige LED-projektorer er innebygd i hver side av kroppen, og forvandler bakken under dem til en scene når dørene åpnes – små, utvidede, dynamiske lyseffekter møter beboerne med meldinger på deres eget språk.
