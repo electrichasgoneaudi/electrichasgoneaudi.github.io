@@ -17,6 +17,9 @@ March 17. 2022 Audi also presented the Audi A6 Avant e-tron concept of this mode
 
 The expectation is that the first owners will receive it in early 2024.
 
+This article with subsections presents all known info about this model and will be continued updated when we know more. 
+Join our [international Audi A6 e-tron owners group](https://www.facebook.com/groups/5590477234297637) on Facebook to be updated with all the latest info and discuss the car with others.
+
 ## Exterior, size, and design
 
 Even though this is a concept, Audi promises that this concept will look very similar to the production-ready model. At 4.96 meters (16.3 ft.) long, 1.96 meters (6.4 ft.) wide, and 1.44 meters (4.7 ft.) high, its body puts it in the luxury class. Its lines are a consistent development in Audi’s contemporary formal language. Significant elements like the closed Singleframe and the continuous strip of lights in the rear emphasize its kinship with the other electrically powered Audis in the e-tron fleet.
@@ -34,11 +37,11 @@ Audi A6 e-tron will be available with S-line exterior, black optics, black windo
 
 ## Interior
 
-Audi A6 e-tron will have different seat options with 
+Audi A6 e-tron will be available with different seat options. From standard seats, sports seats, and comfort seats. Some with the possibility for ventilation and massage. It will also be available with an animal-free interior and a full leather interior with different colors. An s-line interior will also be available.
 
 ## Drivetrain
 
-Audi A6 e-tron is based on the new [PPE-platform](../../technology/bev-platforms/ppe/) that is co-created with Porsche and will come with both 2 wheel drive and quattro version and with at least two different battery sizes.
+Audi A6 e-tron is based on the new [PPE-platform](../../technology/bev-platforms/ppe/) that is co-created with Porsche and will come with both 2-wheel drive and quattro versions and with at least two different battery sizes.
 
 ### Battery & Range
 
@@ -62,15 +65,15 @@ The battery will have an 800-Volt architecture for high-performance charging up 
      <figcaption><h4>Audi A6 e-tron drivetrain</h4></figcaption>
 </figure>
 
-The expectation is that Audi A6 e-tron will come in different versions.
+The expectation is that the Audi A6 e-tron will come in different versions.
 
-- Rear wheel drive Audi A6 e-tron / Audi A6 Avant e-tron with small battery (45 rating)
-- Rear wheel drive Audi A6 / Audi A6 Avant e-tron with large battery (the version with longest range)(50 rating)
+- Rear- wheel drive Audi A6 e-tron / Audi A6 Avant e-tron with small battery (45 rating)
+- Rear-wheel drive Audi A6 / Audi A6 Avant e-tron with large battery (the version with longest range)(50 rating)
 - Audi A6 quattro / Audi A6 Avant e-tron quattro with large battery (55 rating)
 - Audi S6 Avant e-tron  (60 rating)
 - Audi RS6 Avant e-tron (70 rating)
 
-The concept version have 469HP and 800 nm torque. (60 rating)
+The concept version has 469HP and 800 nm torque. (60 rating)
 
 Audi will use different motor setups on the different variants.
 
@@ -80,27 +83,42 @@ Audi will use different motor setups on the different variants.
 
 Audi A6 e-tron will be available with Adaptive Air suspension.
 
-
 ## Technology
 
-## UI & MMI
+### UI & MMI
 
 Audi A6 e-tron will come with a new generation MMI.
 
 It will be based on  [Android Automotive](https://source.android.com/devices/automotive/start/what_automotive) and will feature
-a larger horisontal display mounted on dashboard and virtual cockpit.
+a larger horizontal display mounted on the dashboard and virtual cockpit.
+
+### Lights technology
+
+Digital Matrix LED and digital OLED technology make it possible to achieve maximum brightness and a wide range of features even with a minimal surface area, while at the same time offering customizable light signatures. The team of Audi lighting designers and developers has once again done an amazing job – this concept car packs a host of new features and personalization options into its lighting units. Most of them are expected to be available in the production model.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-8.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-8s.jpg" alt="Digital Matrix with custom light signature" title="Digital Matrix with custom light signature">
+    </a>
+    <figcaption><h4>Digital Matrix with custom light signature</h4></figcaption>
+</figure>
+
+Three small, high-resolution LED projectors are built into each side of the body, transforming the ground beneath them into a stage when the doors are opened – small, extended, dynamic lighting effects greet the occupants with messages in their own language.
+
+The combination of safety features and aesthetic design is particularly important to Audi. That’s why the small, high-resolution projectors also display warning symbols on the ground – to warn a bike rider that the car door is about to open, for example.
+
+Another four high-resolution LED projectors – inconspicuously integrated into the corners of the vehicle – generate turn signal projections. The design of these projections can be modified to address different markets and approval regions as required.
+
+The Digital Matrix LED front headlights achieve almost cinematic quality. If, for example, the Audi A6 Avant e-tron concept is parked in front of a wall during a break to recharge the battery, the driver and passengers can pass the time playing a video game projected onto it. Instead of on a small screen in the cockpit, they’ll see their current game’s virtual landscapes projected onto the wall in XXL format – and all this via the Digital Matrix LED headlights.
+
+### Driver Assistance
+
+Audi A6 e-tron will be available with different driver assistance packages. Many will be standard while others are options. 
+Systems include Audi Cruise Assist, Audi active lane assist, Audi pre sense, and many many more.
 
 ## Options
 
-Audi A6 e-tron will be available with several options.
-
-- S-line exterior
-- Black optics
-- Different wheels
-- Different seats including seats with massage and ventilation
-- Different driver assistant systems
-- Air suspension
-- Virtual mirrors
+Audi A6 e-tron will be available with several options. Audi plans to reduce the number of combinations of options. So instead of most options being offered separately like the Audi e-tron, they will introduce options packages.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-5.jpg">
@@ -108,13 +126,6 @@ Audi A6 e-tron will be available with several options.
     </a>
     <figcaption><h4>Audi A6 e-tron with virtual mirrors</h4></figcaption>
 </figure>
-
-
-Audi plans to reduce the number of combinations of options. So instead of most options being offered separately like Audi e-tron they will introduce options packages.
-
-### Keep yourself updated about Audi A6 e-tron
-
-Join our [Audi A6 e-tron owners](https://www.facebook.com/groups/5590477234297637) facebook group to be updated with all latest info and discuss the car with others.
 
 ## Photos & Video
 
