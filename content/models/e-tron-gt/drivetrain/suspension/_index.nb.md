@@ -49,6 +49,16 @@ Luftfjæringen kan justere kroppen til forskjellige høyder. Den senker kroppen 
     <figcaption><h4>3-kammer luftfjæring</h4></figcaption>
 </figure>
 
+Diagrammet under viser høyde på dempere basert på innstilling og fart.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/ridelevel.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/ridelevels.png"
+        alt="Understellhøyde Audi e-tron GT med adaptive luftdepmere" title="Understellhøyde Audi e-tron GT med adaptive luftdepmere">
+    </a>
+    <figcaption><h4>Understellshøyde Audi e-tron GT med adaptive luftdepmere</h4></figcaption>
+</figure>
+
 ## Fire kjøremoduser: Audi drive select
 
 I Audi drive select dynamisk håndteringssystem (standard) kan sjåføren spesifisere hvordan dempere, elektriske motorer, to-trinns girkasse og kontrollert bakakselsperre skal fungere. De kan bytte mellom "komfort", "effektivitet", "dynamisk" og "individuell" modus via en fysisk bryter. I «effektivitet»-modus senkes karosseriet til lavt nivå for å fremme bedre luftstrøm, og topphastigheten er begrenset til 140 km/t (87,0 mph); føreren kan imidlertid overstyre denne grensen ved å tråkke tungt på gasspedalen. I "dynamisk" modus er den elektriske firehjulsdriften, fjæringssystemene og den aktive aerodynamikken satt til en sportslig modus.

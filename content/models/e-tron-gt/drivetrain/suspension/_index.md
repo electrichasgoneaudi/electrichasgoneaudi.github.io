@@ -49,6 +49,16 @@ The air suspension can adjust the body to different heights. It lowers the body 
     <figcaption><h4>3 chamber air suspension</h4></figcaption>
 </figure>
 
+The below diagram shows the different ride levels depending on settings and speed with air suspension
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/ridelevel.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/ridelevels.png"
+        alt="Ridelevel Audi e-tron GT with adaptive air suspension" title="Ridelevel Audi e-tron GT with adaptive air suspension">
+    </a>
+    <figcaption><h4>Ridelevel Audi e-tron GT with adaptive air suspension</h4></figcaption>
+</figure>
+
 ## Four driving modes: Audi drive select
 
 In the Audi drive select dynamic handling system (standard), the driver can specify how the dampers, electric motors, two-speed transmission, and controlled rear-axle differential lock are to operate. They can switch between the “comfort,” “efficiency,” “dynamic,” and “individual” modes via a physical switch. In “efficiency” mode, the body is lowered to the low level to promote better airflow and the top speed is limited to 140 km/h (87.0 mph); however, the driver can override this limit by stepping heavily on the accelerator pedal. In “dynamic” mode, the electric all-wheel drive, the suspension systems, and the active aerodynamics are set to a sporty mode.
