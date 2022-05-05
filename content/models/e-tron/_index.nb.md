@@ -115,7 +115,7 @@ Vi har også en liste over tjenesteoppdateringer.
 
 [Gå til seksjon for endringer i modellår](mychanges)
 
-## Audi e-tron valgveiledning
+## Audi e-tron utstyrsguide
 
 Audi e-tron har så mange alternativer at det nesten er umulig å få full oversikt.
 
