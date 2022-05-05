@@ -52,7 +52,7 @@ Batteriet er tilgjengelig i to størrelser
 - 71,2 kWh brutto / 64,7 kWh netto på Audi e-tron 50
 - 95 kWh brutto / 86,5 kWh netto på Audi e-tron 55 / e-tron S
 
-For det største batteriet betyr dette en WLTP-rekkevidde mellom 343 km-452 km (213-280) avhengig av utstyrstrimning og versjon.
+For det største batteriet betyr dette en WLTP-rekkevidde mellom 343 km-452 km (213-280) avhengig av utstyrsnivå og versjon.
 
 Les alle detaljer om motorene, batteriet, fjæringen og mer i [Audi e-tron drivverkseksjonen](drivetrain)
 
@@ -60,7 +60,7 @@ Les alle detaljer om motorene, batteriet, fjæringen og mer i [Audi e-tron drivv
 
 Det er et stort antall eksteriøralternativer til Audi e-tron. Mer enn 50 lakkfarger, to karoseriformer, hjul fra 19" - 22", lakkutforminger, forskjellige optikk, speiltyper og mange flere alternativer gjør det mulig å lage ditt unike design.
 
-[Gå til eksteriørdelen](exterior) for å lese mer om eksteriøralternativene
+[Gå til eksteriøreksjonen](exterior) for å lese mer om alle eksteriørvalgene.
 
 <br/>
 
@@ -79,13 +79,13 @@ Audi e-tron har et luksuriøst interiør med mange muligheter. Dette inkluderer 
 
 Ulike interiørdesign, interiørlys og mye mer slik at du kan tilpasse bilen slik du vil ha den.
 
-[Gå til interiørdelen](interior) for å lese mer om de forskjellige interiøralternativene som er tilgjengelige.
+[Gå til interiørseksjonen](interior) for å lese mer om de forskjellige interiøralternativene som er tilgjengelige.
 
 ## Audi e-tron-teknologi
 
 Vorsprung Durch Technik har i mer enn 50 år vært Audis mantra og Audi e-tron er intet unntak. Den er lastet med avansert teknologi på mange områder som førerassistanse, lys, ladeteknologi og mange flere områder for å gi deg en trygg, komfortabel og luksuriøs reise.
 
-[Les mer i Audi e-tron-teknologidelen](technology)
+[Les mer i Audi e-tron-teknologseksjonen](technology)
 
 ## Audi e-tron spesifikasjoner
 
@@ -105,7 +105,7 @@ I tillegg til de 5 setene har e-tron både bagasjerom og frunk i tillegg til tak
 
 [Les mer i delen for transportegenskaper](transporation)
 
-## Audi e-tron årsmodell endres
+## Audi e-tron årsmodell endringer
 
 For hvert nytt årsmodell, og noen ganger i mellom, har Audi gjort oppdateringer til Audi e-tron.
 
@@ -113,7 +113,7 @@ Vi har strukturert informasjon om de ulike endringene som er gjort siden produks
 
 Vi har også en liste over tjenesteoppdateringer.
 
-[Gå til delen for endringer i modellår](mychanges)
+[Gå til seksjon for endringer i modellår](mychanges)
 
 ## Audi e-tron valgveiledning
 
@@ -123,7 +123,7 @@ I alternativguiden vår prøver vi å hjelpe deg med å velge de viktigste alter
 
 Vi viser også alle tilgjengelige alternativer.
 
-[Gå til alternativguide](optionguide)
+[Gå til utstyrsguide](optionguide)
 
 ## Audi e-tron kunnskapsutveksling
 
