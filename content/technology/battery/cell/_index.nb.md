@@ -85,9 +85,6 @@ Li-ion-celler med prismatisk hus består av store ark med anoder, katoder og sep
     <figcaption><h4>Samsung prismatiske celler</h4></figcaption>
 </figure>
 
-
-![Samsung Prismatic](samsungprismatic.jpg "Samsung prismatiske celler")
-
 Deler av elektroden og skillearkene til en prismatisk celle som er nær beholderhjørnene kan oppleve mer stress. Dette kan skade elektrodebelegget og føre til ujevn fordeling av elektrolytten.
 
 Når du kombinerer prismatiske celler i pakker, muliggjør den cellebokslignende formen optimal utnyttelse av den tilgjengelige plassen. Imidlertid oppnås denne optimale plassen på bekostning av mer utfordrende termisk styring. Dette er fordi det ikke er mellomrom mellom cellene slik det er i en pakke med sylindriske celler.
