@@ -33,7 +33,9 @@ Store 22-tommers hjul og korte overheng, den flate kabinen og en dynamisk takbue
     <figcaption><h4>Audi A6 Avant e-tron-konsept</h4></figcaption>
 </figur>
 
-Audi A6 e-tron vil være tilgjengelig med S-line eksteriør, sort optikk, sorte vinduer, virtuelle speil, panoramatak, flere hjul å velge mellom med størrelser fra 19" til 22", mange forskjellige farger inkludert mulighet for Audi exclusive farger gjør det mulig å lage ditt unike design.## Interiør
+Audi A6 e-tron vil være tilgjengelig med S-line eksteriør, sort optikk, sorte vinduer, virtuelle speil, panoramatak, flere hjul å velge mellom med størrelser fra 19" til 22", mange forskjellige farger inkludert mulighet for Audi exclusive farger gjør det mulig å lage ditt unike design.
+
+## Interiør
 
 Audi A6 e-tron vil være tilgjengelig med ulike setealternativer. Fra standardseter, sportsseter og komfortseter. Noen med mulighet for ventilasjon og massasje. Den vil også være tilgjengelig med dyrefritt interiør og helskinninteriør med forskjellige farger. Et s-line interiør vil også være tilgjengelig.
 
@@ -77,7 +79,7 @@ Audi vil bruke ulike motoroppsett på de ulike variantene.
 
 ![Motorer](https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/motors.jpg "Motorer for Audi A6 e-tron")
 
-### Denpere
+### Dempere
 
 Audi A6 e-tron vil være tilgjengelig med Adaptive Air-Dempere.
 
