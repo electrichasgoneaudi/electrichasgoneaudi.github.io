@@ -84,6 +84,16 @@ opphengsområdet.
 - [Audi RS6 e-tron](../../../models/a6-e-tron) Ubekreftet
 - [Audi A4 e-tron](../../../models/a4-e-tron) Ubekreftet
 
+Audi og Porsche vil gjenbruke mange av delene mellom de forskjellige modellene. 
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/part.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/parts.png" 
+        alt="Gjenbruk av deler mellom modellene" title="Gjenbruk av deler mellom modellene">
+    </a>
+    <figcaption><h4>Gjenbruk av deler mellom modellene</h4></figcaption>
+</figure>
+
 Videoen nedenfor viser Audi A6 Avant konsept med flere detaljer om PPE
 
 {{< youtube r_wD-LblZqY>}}
