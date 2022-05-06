@@ -50,7 +50,7 @@ Den vil bli levert i to batteristørrelser
 - 12 moduler med 100 kWh brutto (94 kWh netto)
 - 10 moduler med 83,3kWh brutto (78kWh netto).
 
-Dette vil gi Audi A6 e-tron en WLTP-rekkevidde på omtrent 520-700 km avhengig av trimnivået for det største batteriet. (13,4 - 18 kWh/100 km)
+Dette vil gi Audi A6 e-tron en WLTP-rekkevidde på omtrent 520-700 km, avhengig av utstyrsnivået på bilen, for biler med det største batteriet. (13,4 - 18 kWh/100 km)
 
 Batteriet vil ha en 800-volts arkitektur for høyytelseslading opp til 270KW for DC-lading. 300 km lading tar så lite som 10 minutter.
 
