@@ -24,6 +24,10 @@ Audi Q6 e-tron vil leveres i mange forskjellige farger inkludert Audi Exclusive 
 
 I tilegg vil man få s-line eksteriørpakke for et mest mulig sportslig preg.
 
+## Interiør
+
+Audi Q6 e-tron vil være tilgjengelig med ulike setealternativer. Fra standardseter, sportsseter og komfortseter. Noen med mulighet for ventilasjon og massasje. Den vil også være tilgjengelig med dyrefritt interiør og helskinninteriør med forskjellige farger. Et s-line interiør vil også være tilgjengelig.
+
 ## Driverk
 
 ### Batteri og rekkevidde
@@ -70,10 +74,11 @@ Den vil være basert rundt [Android Automotive](https://source.android.com/devic
 
 Audi Q6 e-tron vil være tilgjengelig med matrix lykter i tilegg til kjørelys med personlig signatur.
 
+### Kjøreassistanter
 
-### Kjøreassistante
+Audi Q6 e-tron vil leveres med siste generesjon assistentsystemer fra Audi. Dette inkluderer systemer som Adaptive Cruise Assist, Active Line Assiste osv.
 
-Audi Q6 e-tron vil leveres med siste generesjon assistentsystemer fra Audi. Dette inkluderer Adaptive Cruise Assist, Active Line Assiste osv. 
+Bilder av prototypen antyder at den ikke vil leveres med Night Vision, men dette er ikke bekreftet. 
 
 ## Lastekapasitet
 
@@ -82,9 +87,9 @@ Den vil også kunne bruke takboks med en makslast på taket på 75kg.  Den vil i
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype6s.jpg" alt="Audi Q6 e-tron under the hood" title="Audi Q6 e-tron under the hood">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype6s.jpg" alt="Audi Q6 e-tron under panseret" title="Audi Q6 e-tron under panseret">
     </a>
-    <figcaption><h4>Audi Q6 e-tron under the hood</h4></figcaption>
+    <figcaption><h4>Audi Q6 e-tron under panseret</h4></figcaption>
 </figure>
 
 ## Ekstrautstyr

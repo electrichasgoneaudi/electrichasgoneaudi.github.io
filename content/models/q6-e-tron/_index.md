@@ -17,7 +17,14 @@ In size it will be between [Audi Q4 e-tron](../../models//q4-e-tron/) and [Audi 
 
 ![Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype5.jpg "Audi Q6 e-tron prototype by Carscopes")
 
-## Battery & Range
+## Interior
+
+Audi Q6 e-tron will be available with different seat options. From standard seats, sports seats, and comfort seats. Some with the possibility for ventilation and massage. 
+It will also be available with an animal-free interior and a full leather interior with different colors. An s-line interior will also be available.
+
+## Drivetrain
+
+### Battery & Range
 
 It will be delivered in two battery sizes
 
@@ -30,7 +37,7 @@ The battery will have an 800-Volt architecture for high-performance charging.
 
 ![Battery](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/battery.png "Audi Q6 battery with 12 modules and 100kWh gross")
 
-## Motor and performance
+### Motor and performance
 
 It is expected that the Audi Q6 e-tron comes with different performance versions.
 
@@ -43,22 +50,24 @@ Audi will use different motor setups on the different variants.
 
 ![Motors](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/motors.jpg "Motors for Audi Q6 e-tron")
 
-## UI & MMI
+## Technology
+
+### UI & MMI
 
 Audi has confirmed that the Audi Q6 e-tron will be the first car with the new generation MMI.
 
 It will be based around [Android Automotive](https://source.android.com/devices/automotive/start/what_automotive) 
 
-## Transportcapacity
+## Transport capacity
 
 The Audi Q6 e-tron is expected to have a luggage compartment of about 600 liters. It will also be available with a towbar and the maximum capacity is expected to be 2600kg.
 It will also be able to use a roof box with a maximum load on the roof of 75kg. It will not be equipped with frunk. (cargo space under the hood)
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype6s.jpg" alt="Audi Q6 e-tron under panseret" title="Audi Q6 e-tron under panseret">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype6s.jpg" alt="Audi Q6 e-tron under the hood" title="Audi Q6 e-tron under the hood">
     </a>
-    <figcaption><h4>Audi Q6 e-tron under panseret</h4></figcaption>
+    <figcaption><h4>Audi Q6 e-tron under the hood</h4></figcaption>
 </figure>
 
 ## Options
