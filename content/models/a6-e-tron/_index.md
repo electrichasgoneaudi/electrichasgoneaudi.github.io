@@ -1,7 +1,7 @@
 ---
 title: Audi A6 e-tron
 linktitle: Audi A6 e-tron
-description: Audi Q6 e-tron will be available with different motor, battery, technology and design options and have an rang up to 700km(435mi).
+description: Audi A6 e-tron will be available with different motors, batteries, technology, and design options and have a range of up to 700km(435mi).
 weight: 7
 ---
 <!-- markdownlint-disable MD033 -->
