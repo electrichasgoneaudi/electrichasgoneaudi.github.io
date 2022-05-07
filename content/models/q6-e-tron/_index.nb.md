@@ -15,7 +15,17 @@ Modellen vil komme i forskjellige versjoner med ulik batterikapasitet og plasser
 
 ![Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype5.jpg "Audi Q6 e-tron prototype fra Carscopes")
 
-## Batteri og rekkevidde
+## Eksteriør, størrelse og design
+
+Størrelsesmessig vil den være litt mindre enn e-tron og vil ha en lengde på ca 480cm. Vektmessig vil den plassere seg på ca 2300kg avhengig av utstyrsnivå. 
+
+Audi Q6 e-tron vil leveres i mange forskjellige farger inkludert Audi Exclusive farger. Man vil også få forskjellige optikk pakker som gir gode muligeter til gi bilen et personlig design.
+
+I tilegg vil man få s-line eksteriørpakke for et mest mulig sportslig preg.
+
+## Driverk
+
+### Batteri og rekkevidde
 
 Den vil bli levert i to batteristørrelser
 
@@ -30,7 +40,7 @@ Batteriet vil ha en 800-volts arkitektur for høyytelseslading.
 
 ![Batteri](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/battery.png "Audi Q6 batteri med 12 moduler og 100kWh brutto")
 
-## Motor og ytelse
+### Motor og ytelse
 
 Det forventes at Audi Q6 e-tron kommer i versjoner med forskjellig ytelse.
 
@@ -43,23 +53,24 @@ Audi vil bruke ulike motoroppsett på de ulike variantene.
 
 ![Motors](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/motors.jpg "Motorer for Audi Q6 e-tron")
 
+## Teknologi
+
 ## UI og MMI
 
 Audi har bekreftet at Audi Q6 e-tron blir den første bilen med den nye generasjonen MMI.
 
 Den vil være basert rundt [Android Automotive](https://source.android.com/devices/automotive/start/what_automotive)
 
-## Alternativer
+## Transportkapasitet
 
-Audi Q6 vil være tilgjengelig med flere alternativer.
+Audi Q6 e-tron er forventet å ha et bagasjerom på ca 600 liter. Den vil også kunne leveres med hengerfeste og maks kapaistet er forventet til 2600kg. 
+Den vil også kunne bruke takboks med en makslast på taket på 75kg.  Den vil ikke være utstyrt med frunk. (lasterom under panser)
 
-- S-line eksteriør
-- Svart optikk
-- Forskjellige hjul
-- Ulike seter inkludert seter med massasje og ventilasjon
-- Ulike førerassistentsystemer
+## Ekstrautstyr
 
-Audi planlegger å redusere antall kombinasjoner av alternativer. Så i stedet for at de fleste alternativene tilbys separat som Audi e-tron, vil de introdusere tilleggspakker.
+Audi Q6 vil være tilgjengelig med et stort valg av ekstrautstyr.
+
+Audi planlegger å redusere antall kombinasjoner av ekstrautstyr. Så i stedet for at de fleste alternativene tilbys separat som Audi e-tron, vil de introdusere tilleggspakker.
 
 ![options](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/options.jpg "Alternativer")
 
