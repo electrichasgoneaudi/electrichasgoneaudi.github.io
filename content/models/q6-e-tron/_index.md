@@ -56,9 +56,9 @@ It will also be able to use a roof box with a maximum load on the roof of 75kg. 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype6s.jpg" alt="Audi Q6 e-tron under the hood" title="Audi Q6 e-tron under the hood">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype6s.jpg" alt="Audi Q6 e-tron under panseret" title="Audi Q6 e-tron under panseret">
     </a>
-    <figcaption><h4>Audi Q6 e-tron under the hood</h4></figcaption>
+    <figcaption><h4>Audi Q6 e-tron under panseret</h4></figcaption>
 </figure>
 
 ## Options
