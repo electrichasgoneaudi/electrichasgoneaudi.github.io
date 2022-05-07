@@ -19,7 +19,7 @@ The following interior lights are standard on Audi Q4
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/standardlights3.jpg"
         alt="LED front roof module" title="LED front roof module">
     </a>
-    <figcaption><h4>LED front roof module - In</h4></figcaption>
+    <figcaption><h4>LED front roof module</h4></figcaption>
 </figure>
 
 ## Ambient lights package
@@ -49,7 +49,7 @@ The ambient lighting package plus with option id **QQ9**. offers the following r
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientligtscontrols.jpg" 
         alt="The lighs are controlled in MMI" title="The lighs are controlled in MMI">
     </a>
-    <figcaption><h4>The lighs are controlled in MMI - In</h4></figcaption>
+    <figcaption><h4>The lighs are controlled in MMI</h4></figcaption>
 </figure>
 
 The color can change based on your drive mode in [Audi Drive Select](/models/q4-e-tron/technology/audidriveselect/).
@@ -59,7 +59,7 @@ The color can change based on your drive mode in [Audi Drive Select](/models/q4-
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientlights.jpg" 
         alt="Multicolor ambient light" title="Multicolor ambient light">
     </a>
-    <figcaption><h4>Multicolor ambient light - In</h4></figcaption>
+    <figcaption><h4>Multicolor ambient light</h4></figcaption>
 </figure>
 
 <figure>
@@ -67,7 +67,7 @@ The color can change based on your drive mode in [Audi Drive Select](/models/q4-
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientlight2s.jpg" 
         alt="Multicolor ambient light" title="Multicolor ambient light">
     </a>
-    <figcaption><h4>Multicolor ambient light - In</h4></figcaption>
+    <figcaption><h4>Multicolor ambient light</h4></figcaption>
 </figure>
 
 <figure>
@@ -75,5 +75,5 @@ The color can change based on your drive mode in [Audi Drive Select](/models/q4-
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientlight3s.jpg" 
         alt="Multicolor ambient light" title="Multicolor ambient light">
     </a>
-    <figcaption><h4>Multicolor ambient light - In</h4></figcaption>
+    <figcaption><h4>Multicolor ambient light</h4></figcaption>
 </figure>
