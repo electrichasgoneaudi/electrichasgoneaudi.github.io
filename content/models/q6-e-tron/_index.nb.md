@@ -54,13 +54,26 @@ Audi vil bruke ulike motoroppsett på de ulike variantene.
 
 ![Motors](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/motors.jpg "Motorer for Audi Q6 e-tron")
 
+### Dempere og understell
+
+Audi Q6 e-tron vil være tilgjengelig med adaptive air suspension. Sammen med Drive Select gir dette gode muligheter å tilpasse demperne etter kjøreforhold.
+
 ## Teknologi
 
-## UI og MMI
+### UI og MMI
 
 Audi har bekreftet at Audi Q6 e-tron blir den første bilen med den nye generasjonen MMI.
 
 Den vil være basert rundt [Android Automotive](https://source.android.com/devices/automotive/start/what_automotive)
+
+### Lysteknologi
+
+Audi Q6 e-tron vil være tilgjengelig med matrix lykter i tilegg til kjørelys med personlig signatur.
+
+
+### Kjøreassistante
+
+Audi Q6 e-tron vil leveres med siste generesjon assistentsystemer fra Audi. Dette inkluderer Adaptive Cruise Assist, Active Line Assiste osv. 
 
 ## Lastekapasitet
 
