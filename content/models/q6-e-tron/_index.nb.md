@@ -4,6 +4,7 @@ linktitle: Audi Q6 e-tron
 description: Audi Q6 e-tron vil kunne leveres med forskjellige motor, batteri, teknologi og design alternativer og ha rekkevidde på opptil 600km.
 weight: 4
 ---
+<!-- markdownlint-disable MD033 -->
 Audi Q6 e-tron får verdenspremiere i 2022 og blir den fjerde helelektriske modellen fra Audi og den mest sporty SUVen.
 
 Den er bygget på den nye [PPE-plattformen](../../technology/bev-platforms/ppe/) laget sammen med Porsche.
@@ -61,10 +62,17 @@ Audi har bekreftet at Audi Q6 e-tron blir den første bilen med den nye generasj
 
 Den vil være basert rundt [Android Automotive](https://source.android.com/devices/automotive/start/what_automotive)
 
-## Transportkapasitet
+## Lastekapasitet
 
 Audi Q6 e-tron er forventet å ha et bagasjerom på ca 600 liter. Den vil også kunne leveres med hengerfeste og maks kapaistet er forventet til 2600kg. 
 Den vil også kunne bruke takboks med en makslast på taket på 75kg.  Den vil ikke være utstyrt med frunk. (lasterom under panser)
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype6.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype6s.jpg" alt="Audi Q6 e-tron under the hood" title="Audi Q6 e-tron under the hood">
+    </a>
+    <figcaption><h4>Audi Q6 e-tron under the hood</h4></figcaption>
+</figure>
 
 ## Ekstrautstyr
 
