@@ -1,9 +1,11 @@
 ---
 title: Audi Q6 e-tron
 linktitle: Audi Q6 e-tron
-description: Audi Q6 e-tron will have a world premiere in 2022 and will be the fourth all-electric model from Audi and the most sporty SUV.
+description: Audi Q6 e-tron will be available with different motor setup, battery, technology, and design options and have a range of up to 600km(372mi). 
 weight: 4
 ---
+
+Audi Q6 e-tron will have a world premiere in 2022 and will be the fourth all-electric model from Audi and the most sporty SUV.
 
 It is built on the new [PPE platform](../../technology/bev-platforms/ppe/) created together with Porsche.
 

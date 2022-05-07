@@ -1,9 +1,10 @@
 ---
 title: Audi Q6 e-tron
 linktitle: Audi Q6 e-tron
-description: Audi Q6 e-tron får verdenspremiere i 2022 og blir den fjerde helelektriske modellen fra Audi og den mest sporty SUVen.
+description: Audi Q6 e-tron vil kunne leveres med forskjellige motor, batteri, teknologi og design alternativer og ha rekkevidde på opptil 600km.
 weight: 4
 ---
+Audi Q6 e-tron får verdenspremiere i 2022 og blir den fjerde helelektriske modellen fra Audi og den mest sporty SUVen.
 
 Den er bygget på den nye [PPE-plattformen](../../technology/bev-platforms/ppe/) laget sammen med Porsche.
 

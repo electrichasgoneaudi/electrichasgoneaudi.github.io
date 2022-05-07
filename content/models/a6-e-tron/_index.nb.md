@@ -1,14 +1,15 @@
 ---
 title: Audi A6 e-tron
 linktitle: Audi A6 e-tron
-description: Audi A6 e-tron vil leveres med forskjellige motor- og batterialternativer, ha rekkevidde på opptil 700km og ha en rekke teknologi og design muligheter.
+description: Audi A6 e-tron vil kunne leveres med forskjellige motor, batteri, teknologi og design alternativer og ha rekkevidde på opptil 700km.
 weight: 7
 ---
 <!-- markdownlint-disable MD033 -->
 Audi A6 e-tron ble første gang presentert i april 2021 som en konseptbil. Dette blir den sjette helelektriske modellen fra Audi når den lanseres i 2023.
 
 Med en rekkevidde på opptil 700 km blir det den helelektriske modellen med lengst rekkevidde fra Audi.
- I mars 2022 Audi presenterte også Audi A6 Avant e-tron-konseptet til denne modellen.
+
+I mars 2022 Audi presenterte også Audi A6 Avant e-tron-konseptet til denne modellen.
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-7.jpg">
