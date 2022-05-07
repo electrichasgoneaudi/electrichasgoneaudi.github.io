@@ -11,7 +11,7 @@ Se nedenfor for vår unike inngående informasjon om de forskjellige modellene o
 
 ## Audi e-tron
 
-[![Audi e-tron](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/variants1.jpg)](/nb/e-tron/)
+[![Audi e-tron](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/variants1.jpg)](e-tron/)
 
 [Audi e-tron](e-tron/) er den første fullelektriske modellen fra Audi og er tilgjengelig i 6 varianter. Den sportslige SUV-en kombinerer plassen og komforten til en typisk luksusbil med et utvalg som er egnet for daglig bruk, og fører føreren inn i en ny æra med elektrisk firehjulsdrift.
 
@@ -27,7 +27,7 @@ Audi e-tron GT er den andre fullelektriske modellen fra Audi. Med Audi RS e-tron
 
 ## Audi q4 e-tron
 
-[![Audi e-tron](tps://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/variants1.jpg)](q4-e-tron/)
+[![Audi e-tron](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/variants1.jpg)](q4-e-tron/)
 
 Audi Q4 e-tron og Q4 Sportback e-tron er de første kompakte elektriske SUV-ene og den tredje helelektriske modellen fra Audi. Tilgjengelig i 7 varianter.
 

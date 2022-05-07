@@ -1,10 +1,12 @@
 ---
 title: Audi e-tron
 linktitle: Audi e-tron
-description: The Audi e-tron was the first full-electric model from Audi and is available in 6 variants. The sporty SUV combines the space and comfort of a typical luxury class automobile with a range suitable for everyday use.
+description: The Audi e-tron is the first fully electric model from Audi and comes in several variants with many options for motor, battery, technology, and design. 
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
+
+The sporty SUV combines the space and comfort of a typical luxury class automobile with a range suitable for everyday use.
 
 Audi e-tron 55 had its world premiere on September 17. 2018 Later the Sportback was released together with the 50 and S version.
 

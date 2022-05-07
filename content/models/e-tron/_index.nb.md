@@ -1,10 +1,11 @@
 ---
 title: Audi e-tron
 linktitle: Audi e-tron
-description: Audi e-tron er den første fullelektriske modellen fra Audi og er tilgjengelig i 6 varianter. Den sportslige SUV-en kombinerer plassen og komforten til en typisk luksusbil med en rekkevidde som er egnet for daglig bruk, og fører føreren inn i en ny æra med elektrisk firehjulsdrift.
+description: Audi e-tron er den første fullelektriske modellen fra Audi og kommer i flere varianter med mange valgmuligheter for motor, batteri, teknologi og design. 
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
+Den sportslige SUV-en kombinerer plassen og komforten til en typisk luksusbil med en rekkevidde som er egnet for daglig bruk, og fører føreren inn i en ny æra med elektrisk firehjulsdrift.
 
 Audi e-tron 55 hadde verdenspremiere 17. september 2018 Senere ble Sportback lansert sammen med 50 og S-versjonen.
 
@@ -71,7 +72,6 @@ Det er et stort antall eksteriøralternativer til Audi e-tron. Mer enn 50 lakkfa
     </a>
     <figcaption><h4>Audi e-tron interiør</h4></figcaption>
 </figur>
-
 
 ## Audi e-tron interiør
 
@@ -145,4 +145,3 @@ Vi har samlet de fleste online anmeldelser av Audi e-tron for rask tilgang.
 Her finner du forskjellig multimedieinnhold relatert til Audi e-tron. Inkludert verdenspremieren og en make-of-dokumentar av Audi e-tron.
 
 [Gå til multimediedelen](multimedia)
-
