@@ -39,7 +39,8 @@ Audi A6 e-tron will be available with S-line exterior, black optics, black windo
 
 ## Interior
 
-Audi A6 e-tron will be available with different seat options. From standard seats, sports seats, and comfort seats. Some with the possibility for ventilation and massage. It will also be available with an animal-free interior and a full leather interior with different colors. An s-line interior will also be available.
+Audi A6 e-tron will be available with different seat options. From standard seats, sports seats, and comfort seats. Some with the possibility for ventilation and massage. 
+It will also be available with an animal-free interior and a full leather interior with different colors. An s-line interior will also be available.
 
 ## Drivetrain
 

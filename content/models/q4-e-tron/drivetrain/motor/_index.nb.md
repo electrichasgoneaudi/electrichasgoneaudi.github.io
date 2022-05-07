@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 e-tron motor
 linktitle: Motor
-description: Audi Q4 e-tron has 4 different motor configurations.
+description: Audi Q4 e-tron har 4 forskjellige motor konfigurasjoner.
 weight: 6
 ---
 <!-- markdownlint-disable MD033 -->
@@ -29,9 +29,9 @@ Den elektriske motoren genererer 150 kW (204 PS) og 310 Nm i denne konfigurasjon
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/app310bag.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/app310bags.jpg"
-        alt="APP 310-motoren er så liten at den får plass i en pose" title="APP 310-motoren er så liten at den får plass i en pose">
+        alt="APP 310-motoren er så liten at den får plass i en bag" title="APP 310-motoren er så liten at den får plass i en bag">
     </a>
-    <figcaption><h4>APP 310-motoren er så liten at den får plass i en pose</h4></figcaption>
+    <figcaption><h4>APP 310-motoren er så liten at den får plass i en bag</h4></figcaption>
 </figure>
 
 ## Inngangsmodell med to elektriske motorer: Q4 45 e-tron quattro
