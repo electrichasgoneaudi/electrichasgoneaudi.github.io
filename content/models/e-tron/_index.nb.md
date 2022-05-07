@@ -105,7 +105,7 @@ I tillegg til de 5 setene har e-tron både bagasjerom og frunk i tillegg til tak
 
 [Les mer i delen for transportegenskaper](transporation)
 
-## Audi e-tron årsmodell endringer
+## Audi e-tron modellendringer
 
 For hvert nytt årsmodell, og noen ganger i mellom, har Audi gjort oppdateringer til Audi e-tron.
 
