@@ -4,7 +4,7 @@ linktitle: Audi Q6 e-tron
 description: Audi Q6 e-tron will be available with different motors, batteries, technology, and design options and have a range of up to 600km(372mi). 
 weight: 4
 ---
-
+<!-- markdownlint-disable MD033 -->
 Audi Q6 e-tron will have a world premiere in 2022 and will be the fourth all-electric model from Audi and the most sporty SUV.
 
 It is built on the new [PPE platform](../../technology/bev-platforms/ppe/) created together with Porsche.
@@ -48,6 +48,18 @@ Audi will use different motor setups on the different variants.
 Audi has confirmed that the Audi Q6 e-tron will be the first car with the new generation MMI.
 
 It will be based around [Android Automotive](https://source.android.com/devices/automotive/start/what_automotive) 
+
+## Transportcapacity
+
+The Audi Q6 e-tron is expected to have a luggage compartment of about 600 liters. It will also be available with a towbar and the maximum capacity is expected to be 2600kg.
+It will also be able to use a roof box with a maximum load on the roof of 75kg. It will not be equipped with frunk. (cargo space under the hood)
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype6.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype6s.jpg" alt="Audi Q6 e-tron under the hood" title="Audi Q6 e-tron under the hood">
+    </a>
+    <figcaption><h4>Audi Q6 e-tron under the hood</h4></figcaption>
+</figure>
 
 ## Options
 
