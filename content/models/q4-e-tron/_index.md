@@ -20,7 +20,7 @@ The world premiere was on April 14. 2021.
     <figcaption><h4>Different variants of Audi Q4 e-tron and Audi Q4 e-tron Sportback</h4></figcaption>
 </figure>
 
-### Audi Q4 e-tron variants
+## Audi Q4 e-tron variants
 
 From launch, 6 variants of Q4 e-tron were available, and later more was added.
 
@@ -38,7 +38,10 @@ Audi Q4 e-tron has a wide range of options and advanced driving technologies. He
 
 Below you find every detail you need to know about the Audi Q4 e-tron and the Audi Q4 e-tron Sportback. You can also access the sections through the menu.
 
-### Audi Q4 e-tron drivetrain: Battery and motors
+## Audi Q4 e-tron drivetrain
+
+
+### Battery and motors
 
 Audi Q4 e-tron is based on the MEB platform that is shared with other models like Skoda Enyaq, Volkswagen ID4, and ID3.
 
@@ -53,17 +56,24 @@ The range with the biggest battery is between 412 km - 521 km depending on versi
 
 See all details in the [Audi Q4 e-tron drivetrain section](drivetrain)
 
-### Audi Q4 e-tron exterior
+## Audi Q4 e-tron exterior
 
-Audi Q4 e-tron comes in different styling, colors, and wheels.
+The color swatch for the Audi Q4 e-tron and Q4 Sportback e-tron contains eight colors. Their restrained character is inspired by the colors and hues found in nature. The solid paint color is called [stone gray](exterior/paint/#pebble-stone-gray), the metallic shades are named [aurora violet](exterior/paint/#aurora-violett) (new), [floret silver](exterior/paint/#floret-silver), geyser blue, glacier white, mythos black, Navarra blue, and typhoon gray. Aurora violet is a color that has been taken from Audi Sport.
 
-See all details in the [Audi Q4 e-tron exterior section](exterior)
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_typhoongrey_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_typhoongrey_1s.jpg" alt="Audi Q4 50 e-tron quattro in typhoon grey metallic with shadow optics plus optics and mythos contast color" title="Audi Q4 50 e-tron quattro in typhoon grey metallic with shadow optics plus optics and mythos contast color">
+    </a>
+    <figcaption><h4>Audi Q4 50 e-tron quattro in typhoon grey metallic with shadow optics plus optics and mythos contast color</h4></figcaption>
+</figure>
 
-<br />
+Audi supplies both models with the advanced and S line exterior lines as an alternative to the basic version. On the basic vehicle, the wheel arches, the lower section of the bumper, and the diffusor feature an anthracite grain, the gloss package accentuates the side windows. The Singleframe also differs depending on the line – on the S line, chrome elements lend it its own distinctive look. Here, and also in the advanced line, the lower add-on parts feature a contrasting paint finish in metallic Manhattan gray; in the optional full paint finish customers can choose between four colors, while there are also 19- and 20-inch aluminum wheels. The black styling package, which includes the black caps for the exterior mirrors, creates an even sportier appearance. The Four Rings on the Singleframe and the type designation are also available in black. A roof rail comes as standard on the Q4 e-tron.
+
+See all exterior details with high resoultion pictures in the [Audi Q4 e-tron exterior section](exterior)
+
+## Audi Q4 e-tron interior
 
 ![Interior](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/interior.jpg)
-
-### Audi Q4 e-tron interior
 
 Audi Q4 e-tron has a luxury interior with different options in seats and design.
 

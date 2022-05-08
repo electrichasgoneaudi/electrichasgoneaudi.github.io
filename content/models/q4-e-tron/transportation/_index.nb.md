@@ -1,7 +1,7 @@
 ---
 title: Transportkapasitet
 linktitle: Transportkapasitet
-description: I tillegg til de 5 setene har Q4 e-tron ganske stor bagasjerom i tillegg til takoppbevaring og tilhengermuligheter.
+description: I tillegg til de 5 setene for personer har Q4 e-tron ganske stort bagasjerom i tillegg til takoppbevaring og tilhengermuligheter.
 weight: 6
 ---
 <!-- markdownlint-disable MD033 -->

@@ -12,7 +12,7 @@ Click on links for quick access to a color.
 - [Pebble Stone](/models/q4-e-tron/exterior/paint/#pebble-stone-gray)
 - [Geyser Blue](/models/q4-e-tron/exterior/paint/#geyser-blue)
 - [Typhoon Grey](/models/q4-e-tron/exterior/paint/#typhoon-grey)
-- [Florett Silver](/models/q4-e-tron/exterior/paint/#florett-silver)
+- [Floret Silver](/models/q4-e-tron/exterior/paint/#floret-silver)
 - [Navarra Blue](/models/q4-e-tron/exterior/paint/#navarra-blue)
 - [Mythos Black](/models/q4-e-tron/exterior/paint/#mythos-black)
 - [Aurora Violett](/models/q4-e-tron/exterior/paint/#aurora-violett)
@@ -52,9 +52,9 @@ wheel archer and lower parts of the car is painted in a contrast color. Manhatte
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_2s.jpg" alt="Audi Q4 50 e-tron quattro in florett silver with manhatten contrast color" title="Audi Q4 50 e-tron quattro in florett silver with manhatten contrast color">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_2s.jpg" alt="Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color" title="Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color">
     </a>
-    <figcaption><h4>Audi Q4 50 e-tron quattro in florett silver with manhatten contrast color</h4></figcaption>
+    <figcaption><h4>Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color</h4></figcaption>
 </figure>
 
 ### Full body paint
@@ -230,29 +230,29 @@ Color code **2L**
 
 {{< youtube H6yfrwDQ95Q >}}
 
-### Florett Silver
+### Floret Silver
 
 Color code **L5**
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_1s.jpg" alt="Audi Q4 Sportback 50 e-tron quattro in florett silver with contrast color" title="Audi Q4 Sportback 50 e-tron quattro in florett silver with contrast color">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_1s.jpg" alt="Audi Q4 Sportback 50 e-tron quattro in floret silver with contrast color" title="Audi Q4 Sportback 50 e-tron quattro in floret silver with contrast color">
     </a>
-    <figcaption><h4>Audi Q4 Sportback 50 e-tron quattro in florett silver with contrast color</h4></figcaption>
+    <figcaption><h4>Audi Q4 Sportback 50 e-tron quattro in floret silver with contrast color</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_2s.jpg" alt="Audi Q4 50 e-tron quattro in florett silver with manhatten contrast color" title="Audi Q4 50 e-tron quattro in florett silver with manhatten contrast color">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_2s.jpg" alt="Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color" title="Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color">
     </a>
-    <figcaption><h4>Audi Q4 50 e-tron quattro in florett silver with manhatten contrast color</h4></figcaption>
+    <figcaption><h4>Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_3s.jpg" alt="Audi Q4 50 e-tron quattro in florett silver with manhatten contrast color" title="Audi Q4 50 e-tron quattro in florett silver with manhatten contrast color">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_3s.jpg" alt="Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color" title="Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color">
     </a>
-    <figcaption><h4>Audi Q4 50 e-tron quattro in florett silver with manhatten contrast color</h4></figcaption>
+    <figcaption><h4>Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color</h4></figcaption>
 </figure>
 
 The below footage shows dynamic driving scenes of the Audi Q4 Sportback e-tron in the colour Floret silver in the streets of Spain.

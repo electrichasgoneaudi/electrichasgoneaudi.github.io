@@ -12,7 +12,7 @@ Klikk på lenkene for å gå direkte til en farge.
 - [Pebblestonegrå](../../exterior/paint/#pebblestonegrå)
 - [Geysirblå metallic](../../exterior/paint/#geysirblå-metallic)
 - [Tyfongrå metallic](../../exterior/paint/#tyfongrå-metallic)
-- [Florettsølv metallic](../../exterior/paint/#florettsølv-metallic)
+- [Floretsølv metallic](../../exterior/paint/#floretsølv-metallic)
 - [Navarrablå metallic](../../exterior/paint/#navarrablå-metallic)
 - [Mythossort metallic](../../exterior/paint/#mythossort-metallic)
 - [Aurorafiolett metallic](../../exterior/paint/#aurorafiolett-metallic)
@@ -54,9 +54,9 @@ så vil hjulbuene og nedre del av bilen være lakkert i kontrastfarge. Manhatten
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_2s.jpg" alt="Audi Q4 50 e-tron quattro in florettsølv med manhatten grå kontrastfarge" title="Audi Q4 50 e-tron quattro in florettsølv med manhatten grå kontrastfarge">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_2s.jpg" alt="Audi Q4 50 e-tron quattro in floretsølv med manhatten grå kontrastfarge" title="Audi Q4 50 e-tron quattro in floretsølv med manhatten grå kontrastfarge">
     </a>
-    <figcaption><h4>Florettsølv lakkert Audi Q4 50 e-tron quattro med manhatten grå kontrastfarge</h4></figcaption>
+    <figcaption><h4>floretsølv lakkert Audi Q4 50 e-tron quattro med manhatten grå kontrastfarge</h4></figcaption>
 </figure>
 
 ### Hellakkering
@@ -219,32 +219,32 @@ Nedenfor ser man videobilder av Tyfongrå Audi Q4 e-tron
 
 {{< youtube H6yfrwDQ95Q >}}
 
-### Florettsølv metallic
+### floretsølv metallic
 
 Color code **L5**
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_1s.jpg" alt="Audi Q4 Sportback 50 e-tron quattro in florett silver with contrast color" title="Audi Q4 Sportback 50 e-tron quattro in florett silver with contrast color">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_1s.jpg" alt="Audi Q4 Sportback 50 e-tron quattro in floret silver with contrast color" title="Audi Q4 Sportback 50 e-tron quattro in floret silver with contrast color">
     </a>
-    <figcaption><h4>Florettsølv Audi Q4 e-tron Sportback 50 quattro med kontrastfarge</h4></figcaption>
+    <figcaption><h4>floretsølv Audi Q4 e-tron Sportback 50 quattro med kontrastfarge</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_2s.jpg" alt="Audi Q4 50 e-tron quattro in florett silver with manhatten contrast color" title="Audi Q4 50 e-tron quattro in florett silver with manhatten contrast color">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_2s.jpg" alt="Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color" title="Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color">
     </a>
-    <figcaption><h4>Florettsølv Audi Q4 e-tron 50 quattro med kontrastfarge</h4></figcaption>
+    <figcaption><h4>floretsølv Audi Q4 e-tron 50 quattro med kontrastfarge</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_3s.jpg" alt="Audi Q4 50 e-tron quattro in florett silver with manhatten contrast color" title="Audi Q4 50 e-tron quattro in florett silver with manhatten contrast color">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_3s.jpg" alt="Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color" title="Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color">
     </a>
-    <figcaption><h4>Florettsølv Audi Q4 e-tron 50 quattro med kontrastfarge</h4></figcaption>
+    <figcaption><h4>floretsølv Audi Q4 e-tron 50 quattro med kontrastfarge</h4></figcaption>
 </figure>
 
-Videoen nedenfor viser en florettsølv Audi Q4 e-tron Sportback
+Videoen nedenfor viser en floretsølv Audi Q4 e-tron Sportback
 
 {{< youtube JSm8Ov2XGLc >}}
 
