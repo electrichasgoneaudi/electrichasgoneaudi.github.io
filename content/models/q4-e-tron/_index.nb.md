@@ -17,7 +17,7 @@ Verdenspremieren var 14. april 2021.
     <figcaption><h4>Ulike varianter av Audi Q4 e-tron og Audi Q4 e-tron Sportback</h4></figcaption>
 </figur>
 
-### Audi Q4 e-tron-varianter
+## Audi Q4 e-tron-varianter
 
 Fra lanseringen var 6 varianter av Q4 e-tron tilgjengelig, og senere ble flere lagt til.
 
@@ -35,32 +35,39 @@ Audi Q4 e-tron har et bredt utvalg alternativer og avanserte kjøreteknologier. 
 
 Nedenfor finner du alle detaljer du trenger å vite om Audi Q4 e-tron og Audi Q4 e-tron Sportback. Du kan også få tilgang til seksjonene via menyen.
 
-### Audi Q4 e-tron drivverk: Batteri og motorer
+## Audi Q4 e-tron drivverk
 
 Audi Q4 e-tron er basert på MEB-plattformen som deles med andre modeller som Skoda Enyaq, Volkswagen ID4 og ID3.
+
+### Batteri
 
 Den leveres med 2 batteristørrelser
 
 - 55 kWh brutto / 51,5 kWh netto på Audi Q4 e-tron 35
 - 82 kWh brutto / 76,6 kWh netto på Audi Q4 e-tron 40,45 og 50
 
-Den leveres med 1 motor eller 2 motorer. 2 motorer brukes på quattro-versjonene.
-
 Rekkevidden med det største batteriet er mellom 412 km - 521 km avhengig av versjon og utstyrsnivå.
+
+### Motorer
+
+Den leveres med 1 motor eller 2 motorer. 2 motorer brukes på quattro-versjonene. Ytelsen varierer med hvilke batteri som brukes.
+
 
 Se alle detaljer i [Audi Q4 e-tron drivverkseksjonen](drivetrain)
 
-### Audi Q4 e-tron eksteriør
+## Audi Q4 e-tron eksteriør
 
-Audi Q4 e-tron kommer i forskjellige stiler, farger og hjul.
+Fargepaletten for Audi Q4 e-tron og Q4 Sportback e-tron inneholder åtte farger. Deres tilbakeholdne karakter er inspirert av fargene og nyansene som finnes i naturen. Den vanlige lakkfargen heter [pebblestone grå](exterior/paint/#pebblestonegrå), de metallicfargene heter [aurorafiolett](exterior/paint/#aurorafiolett-metallic) (ny), [floret silver](exterior/paint/#floretsølv-metallic), [geyserblå](exterior/paint/#geyserblå), [isbrehvit](exterior/paint/#isbrehvit-metallic), [mythos svart](exterior/paint/#mythossort-metallic), [Navarra blue](exterior/paint/#navarrablå-metallic) og [tyfongrå](exterior/paint/#tyfongrå-metallic). Aurora fiolett er en farge som er hentet fra Audi Sport.
 
-Se alle detaljer i [Audi Q4 e-tron eksteriørseksjon](exterior)
+![Interiør](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_typhoongrey_1s.jpg)
 
-<br />
+Audi leverer begge modellene med de avanserte og [S line](exterior/s-line/) eksteriørlinjene som et alternativ til basisversjonen. På basiskjøretøyet har hjulbuene, den nedre delen av støtfangeren og diffusoren antrasittkorn, glanspakken fremhever sidevinduene. Singleframe er også forskjellig avhengig av hvilke eksteriorpakken man har. – på S-line gir kromelementer den sitt eget særegne utseende. Her, og også i den advance-line, har de nedre tilleggsdelene en kontrastlakk i metallic Manhattan-grå; i valgfri [full paint](exterior/lakk/#full-body-paint) kan kunder velge mellom fire farger, mens det også er 19- og 20-tommers aluminiumsfelger. [sort optikkpakke](exterior/optics/#sort-optikk), med valgfrie [sorte speilhus](exterior/mirrors/#speilstil) for utvendige speil, skaper et enda mer sporty utseende. De fire ringene på Singleframe og typebetegnelsen er også tilgjengelig i sort i [sort optikk plus pakken](exterior/optics/#sort-optikk-pluss). Takrails kommer som standard på Q4 e-tron SUV versjonen.
+
+Lær mer om eksteriørdetaljene og se høyoppløselige bilder av eksteriøret i [Audi Q4 e-tron eksteriørseksjon](exterior)
+
+## Audi Q4 e-tron interiør
 
 ![Interior](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/interior.jpg)
-
-### Audi Q4 e-tron interiør
 
 Audi Q4 e-tron har et luksuriøst interiør med ulike valgmuligheter i seter og design.
 
