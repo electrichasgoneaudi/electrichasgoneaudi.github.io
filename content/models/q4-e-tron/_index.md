@@ -39,7 +39,6 @@ Audi Q4 e-tron has a wide range of options and advanced driving technologies. He
 
 Below you find every detail you need to know about the Audi Q4 e-tron and the Audi Q4 e-tron Sportback. You can also access the sections through the menu.
 
-
 ## Audi Q4 e-tron exterior
 
 A powerful body, a high front, an expressive rear section – the Q4 e-tron and the Q4 Sportback  e-tron exude a strong presence, they announce themselves as electric Audi SUVs at first glance. The two compact electric SUVs bring the progressive design that the brand introduced at the
@@ -61,7 +60,7 @@ Horizontal lines emphasize the width across the whole of the rear section, while
 
 The color swatch for the Audi Q4 e-tron and Q4 Sportback e-tron contains eight colors. Their restrained character is inspired by the colors and hues found in nature. The solid paint color is called [stone gray](exterior/paint/#pebble-stone-gray), the metallic shades are named [aurora violet](exterior/paint/#aurora-violett) (new), [floret silver](exterior/paint/#floret-silver), [geyser blue](exterior/paint/#geyser-blue), [glacier white](exterior/paint/#glacier-white), [mythos black](exterior/paint/#mythos-black), [Navarra blue](exterior/paint/#navarra-blue), and [typhoon gray](exterior/paint/#typhoon-grey). Aurora violet is a color that has been taken from Audi Sport.
 
-Audi supplies both models with the advanced and [S line](exterior/s-line/) exterior lines as an alternative to the basic version. On the basic vehicle, the wheel arches, the lower section of the bumper, and the diffusor feature an anthracite grain, the gloss package accentuate the side windows. 
+Audi supplies both models with the advanced and [S line](exterior/s-line/) exterior lines as an alternative to the basic version. On the basic vehicle, the wheel arches, the lower section of the bumper, and the diffusor feature an anthracite grain, the gloss package accentuate the side windows.
 
 The Singleframe also differs depending on the line – on the S line, chrome elements lend it its own distinctive look. Here, and also in the advanced line, the lower add-on parts feature a contrasting paint finish in metallic Manhattan gray; in the optional [full paint finish](exterior/paint/#full-body-paint) customers can choose between four colors, while there are also 19- and 20-inch aluminum wheels. 
 

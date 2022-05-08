@@ -1,12 +1,14 @@
 ---
 title: Audi q4 e-tron
 linktitle: Audi Q4 e-tron
-description: Audi Q4 e-tron og Q4 Sportback e-tron er de første kompakte elektriske SUV-ene og den tredje helelektriske modellen fra Audi. Tilgjengelig i 7 varianter.
+description: Audi Q4 e-tron kan leveres med forskjellige motorer, batteri, teknologi og design alternativer og ha rekkevidde på opptil 532km
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
 
-Både SUV- og Sportback-versjonene imponerer med en ny romslig dimensjon i interiøret og banebrytende løsninger når det kommer til betjening, display og hjelpesystemer. Den AR head-up display forbinder den virtuelle og den virkelige verdenen på en ny måte.
+ Audi Q4 e-tron og Q4 Sportback e-tron er de første kompakte elektriske SUV-ene og den tredje helelektriske modellen fra Audi. Tilgjengelig i 7 varianter.
+
+Både SUV- og Sportback-versjonene imponerer med stor innvendig plass og banebrytende løsninger når det kommer til betjening, display og assistentsystemer. Head-up display med AR teknologi forbinder den virtuelle og den virkelige verdenen på en ny måte.
 
 Verdenspremieren var 14. april 2021.
 
@@ -35,6 +37,49 @@ Audi Q4 e-tron har et bredt utvalg alternativer og avanserte kjøreteknologier. 
 
 Nedenfor finner du alle detaljer du trenger å vite om Audi Q4 e-tron og Audi Q4 e-tron Sportback. Du kan også få tilgang til seksjonene via menyen.
 
+## Audi Q4 e-tron eksteriør
+
+Et kraftig karosseri, en høy front, et uttrykksfullt bakparti – Q4 e-tron og Q4 Sportback e-tron utstråler en sterk tilstedeværelse, de kunngjør seg selv som elektriske Audi-SUV-er ved første øyekast. De to kompakte elektriske SUV-ene bringer det progressive designet som merket introduserte i begynnelsen av 2019 med Q4 e-tron-konseptet og Q4 Sportback e-tron-konseptet til serieproduksjon og representerer neste steg i designspråket til de elektriske Audi-modellene .
+
+Dens sporty karakter kommer fra de slående proporsjonene – takket være korte overheng foran, store hjul, bred spor og kraftig tonede muskler. Alle linjer er tegnet med maksimal presisjon, og overflatebehandlingen har en tydelig, redusert effekt.
+
+Den høye, oppreiste fronten symboliserer robustheten og styrken til Audi Q4 e-tron og Q4 Sportback e-tron. Deres dominerende element er den store Singleframe – med sine åtte hjørner er den karakteristisk for en SUV fra Audi. En ny funksjon som er typisk for elektriske kjøretøy er den lukkede Singleframe og den omvendte fargedesignen: Kromrammen er omkranset av en bred maske i en mørk kontrastlakk, en strukturert overflate med horisontale innsatser danner innsatsen til radiatorgrillen. De fire ringene integrerer forskjellige sensorer som et full overflateelement som deretter forsvinner bak merkelogoen – en ny funksjon hos Audi. Et kraftig konturformet, buet blad strekker seg under Singleframe, og går skarpt opp i endene.
+
+![Sportback](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_typhoongrey_6s.jpg)
+
+Sett fra siden fanger de uvanlig flate A-stolpene blikket – og gir hele drivhuset en elegant flyt. Taklinjen strekker seg lavt over karosseriet, og ender på Sportback i en lang D-stolpe. Det tredje sidevinduet reiser seg i motsatt retning – et typisk trekk ved Sportback. Toppen av vinduet peker mot spoileren, som sitter på den nedre delen av den delte bakruten. På Q4 e-tron, som har en takkantspoiler som avslutter den kraftige D-stolpen, går en svart innsatslist over hele taklinjen. Den skiller den bakre enden av taket visuelt fra resten av karosseriet og får det til å se ut til å flyte – en effekt som fremhever bilens sportslige karakter.
+
+Sidene på begge elektriske SUV-ene har stramme konturer. På begge modellene sitter ytterspeilene på dørskinnen i stil med en sportsbil. Dørene har overlappende horisontale kanter som skaper et samspill av lys og skygge. I det nedre området av dørene antyder slående konturer høyspentbatteripakken, kjøretøyets bankende hjerte. De muskuløse blemmene, som strekker seg over hjulhusene, fremhever hjulene i et kraftig uttrykk og peker på Audis quattro-ekspertise. De har en litt mykere og mer flytende design enn på modellene med forbrenningsmotor. De bakre blemmene løper rundt D-stolpene og inn i bagasjeromsdekselet.
+
+![Typhoon Grey](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_typhoongrey_1s.jpg)
+
+Horisontale linjer understreker bredden over hele den bakre delen, mens den hevede diffusoren skaper en kraftig, sporty aksent. En e-tron-logo er preget i støtfangeren, en annen i Singleframe
+
+Fargepaletten for Audi Q4 e-tron og Q4 Sportback e-tron inneholder åtte farger. Deres tilbakeholdne karakter er inspirert av fargene og nyansene som finnes i naturen. Den vanlige lakkfargen heter [pebblestone grå](exterior/paint/#pebblestonegrå), de metallicfargene heter [aurorafiolett](exterior/paint/#aurorafiolett-metallic) (ny), [floret silver](exterior/paint/#floretsølv-metallic), [geyserblå](exterior/paint/#geyserblå), [isbrehvit](exterior/paint/#isbrehvit-metallic), [mythos svart](exterior/paint/#mythossort-metallic), [Navarra blue](exterior/paint/#navarrablå-metallic) og [tyfongrå](exterior/paint/#tyfongrå-metallic). Aurora fiolett er en farge som er hentet fra Audi Sport.
+
+Audi leverer begge modellene med de advance eller [S line](exterior/s-line/) eksteriørpakker som et alternativ til basis eksteriør.
+
+På basis versjonen er hjulbuene, den nedre delen av støtfangeren og diffusoren antrasitt grå, glanspakken fremhever sidevinduene. Singleframe er også forskjellig avhengig av hvilke eksteriorpakke man har. – på S-line gir kromelementer den sitt eget særegne utseende. 
+
+På advance-line, har de nedre tilleggsdelene en kontrastlakk i metallic Manhattan-grå. For valgfri [hellakkering](exterior/paint/#full-body-paint) kan kunder velge mellom fire farger, mens det også er 19- og 20-tommers aluminiumsfelger. [sort optikkpakke](exterior/optics/#sort-optikk), med valgfrie [sorte speilhus](exterior/mirrors/#speilstil) for utvendige speil, skaper et enda mer sporty utseende. De fire ringene på Singleframe og typebetegnelsen er også tilgjengelig i sort i [sort optikk plus pakken](exterior/optics/#sort-optikk-pluss). Takrails kommer som standard på Q4 e-tron SUV versjonen.
+
+![Wheels](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_C1P_1s.jpg)
+
+Audi Q4 e-tron og Q4 Sportback e-tron er plantet i bakken – hjulene deres består av [elleve versjoner som varierer i størrelse fra 19 til 21 tommer](exterior/wheels/). Bortsett fra basisversjonen er dette aluminiumsfelger, og hver størrelse inkluderer spesielt aerodynamiske design. I 20-tommerskategorien kommer to hjul fra Audi Sport GmbH, som gir alle fire i 21-tommersklassen. En av dem kommer i matt bronsefinish, en annen i platinggrå. Det tredje er et Aero-hjul, som stort sett er dekket med svarte plastinnlegg.
+
+Alle motorseriene kjører av samlebåndet med en blanding av hjul, noe som ytterligere forbedrer stabiliteten og den sportslige karakteren. Fordekkene er hele 235 millimeter brede, bakdekkene 255 millimeter, mens tverrsnittet varierer avhengig av felgstørrelse. Alle dekkene er optimert for rullemotstand, 21-tommersklassen inkluderer en utpreget sporty dekkvariant for Sportback
+
+Lær mer om eksteriørdetaljene og se høyoppløselige bilder av eksteriøret i [Audi Q4 e-tron eksteriørseksjon](exterior)
+
+## Audi Q4 e-tron interiør
+
+![Interior](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/interior.jpg)
+
+Audi Q4 e-tron har et luksuriøst interiør med ulike valgmuligheter i seter og design.
+
+Se alle detaljer i [Audi Q4 e-tron interiørseksjon](interior)
+
+
 ## Audi Q4 e-tron drivverk
 
 Audi Q4 e-tron er basert på MEB-plattformen som deles med andre modeller som Skoda Enyaq, Volkswagen ID4 og ID3.
@@ -54,26 +99,6 @@ Den leveres med 1 motor eller 2 motorer. 2 motorer brukes på quattro-versjonene
 
 
 Se alle detaljer i [Audi Q4 e-tron drivverkseksjonen](drivetrain)
-
-## Audi Q4 e-tron eksteriør
-
-Fargepaletten for Audi Q4 e-tron og Q4 Sportback e-tron inneholder åtte farger. Deres tilbakeholdne karakter er inspirert av fargene og nyansene som finnes i naturen. Den vanlige lakkfargen heter [pebblestone grå](exterior/paint/#pebblestonegrå), de metallicfargene heter [aurorafiolett](exterior/paint/#aurorafiolett-metallic) (ny), [floret silver](exterior/paint/#floretsølv-metallic), [geyserblå](exterior/paint/#geyserblå), [isbrehvit](exterior/paint/#isbrehvit-metallic), [mythos svart](exterior/paint/#mythossort-metallic), [Navarra blue](exterior/paint/#navarrablå-metallic) og [tyfongrå](exterior/paint/#tyfongrå-metallic). Aurora fiolett er en farge som er hentet fra Audi Sport.
-
-![Interiør](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_typhoongrey_1s.jpg)
-
-Audi leverer begge modellene med de advance eller [S line](exterior/s-line/) eksteriørpakker som et alternativ til basis eksteriør. 
-
-På basis versjonen har hjulbuene, den nedre delen av støtfangeren og diffusoren antrasittkorn, glanspakken fremhever sidevinduene. Singleframe er også forskjellig avhengig av hvilke eksteriorpakken man har. – på S-line gir kromelementer den sitt eget særegne utseende. Her, og også i den advance-line, har de nedre tilleggsdelene en kontrastlakk i metallic Manhattan-grå; i valgfri [full paint](exterior/paint/#full-body-paint) kan kunder velge mellom fire farger, mens det også er 19- og 20-tommers aluminiumsfelger. [sort optikkpakke](exterior/optics/#sort-optikk), med valgfrie [sorte speilhus](exterior/mirrors/#speilstil) for utvendige speil, skaper et enda mer sporty utseende. De fire ringene på Singleframe og typebetegnelsen er også tilgjengelig i sort i [sort optikk plus pakken](exterior/optics/#sort-optikk-pluss). Takrails kommer som standard på Q4 e-tron SUV versjonen.
-
-Lær mer om eksteriørdetaljene og se høyoppløselige bilder av eksteriøret i [Audi Q4 e-tron eksteriørseksjon](exterior)
-
-## Audi Q4 e-tron interiør
-
-![Interior](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/interior.jpg)
-
-Audi Q4 e-tron har et luksuriøst interiør med ulike valgmuligheter i seter og design.
-
-Se alle detaljer i [Audi Q4 e-tron interiørseksjon](interior)
 
 ### Audi Q4 e-tron-teknologi
 
