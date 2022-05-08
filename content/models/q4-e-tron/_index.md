@@ -109,7 +109,6 @@ The [S line interior](interior/sline/) also has a great deal to offer in terms o
 
 See all details in the [Audi Q4 e-tron interior section](interior)
 
-
 ## Audi Q4 e-tron drivetrain
 
 Audi Q4 e-tron is based on the MEB platform that is shared with other models like Skoda Enyaq, Volkswagen ID4, and ID3.
@@ -130,21 +129,13 @@ permanently excited synchronous machine (PSM) on the rear wheels provides the dr
 
 See all details in the [Audi Q4 e-tron drivetrain section](drivetrain)
 
-
 ### Suspension
 
 The Q4 e-tron and the Q4 Sportback e-tron integrate the best conditions for high levels of comfort, driving pleasure, and unshakable stability. In the models with up to 150 kW (204 PS) of power, the rear-wheel drive ensures excellent traction – which the customer can experience in many situations, starting with driving on wet roads. The high-voltage battery is located beneath the passenger compartment, at the lowest point of the car. This is a great advantage for the center of gravity and the distribution of the axle loads: In all drive variants, this distribution is close to the ideal value of 50:50.
 
 The front axle of the compact electric SUVs is designed in the classic McPherson construction method, the steering is located underneath at the front. A compact five-link design featuring similarities with the rear axle of the large Audi models works at the rear. As with the front axle, it is mounted on a subframe. Several parts of the suspension are made of lightweight aluminum.
 
-
-Balanced character; low center of gravity and even axle load distribution because the drive 
-components are installed in a low and central position
-McPherson front axle; rear suspension in sophisticated five-link design
-
-Optional sport suspension (standard in S line), progressive steering (standard in quattro 
-models), Audi drive select (standard in the Sportback), and suspension with damper control
-(option available for all models); close networking between the control systems
+You can get optional sport suspension (standard in S line), progressive steering (standard in quattro models), Audi drive select (standard in the Sportback), and suspension with damper control(option available for all models).
 
 ## Audi Q4 e-tron technology
 

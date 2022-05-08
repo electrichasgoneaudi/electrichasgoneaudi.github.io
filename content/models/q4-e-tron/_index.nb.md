@@ -124,31 +124,83 @@ Den leveres med 1 motor eller 2 motorer. 2 motorer brukes på quattro-versjonene
 
 Se alle detaljer i [Audi Q4 e-tron drivverkseksjonen](drivetrain)
 
-### Audi Q4 e-tron-teknologi
+## Audi Q4 e-tron-teknologi
 
 Audi Q4 e-tron har mye avansert teknologi. Avansert Matrix-belysning, avanserte førerassistansesystemer, virtuell cockpit, AR Head-up-skjerm og mange mange flere
 
+### Assistentsystemer
+
+En frontradar, ett frontkamera, fire surround-kameraer, to bakradarer og åtte ultralydsensorer: Når det er fullt utstyrt, dekker sensorsystemet til Audi Q4 e-tron og Q4 Sportback e-tron et stort sansefelt og en stort antall trafikksituasjoner.
+Viktige førerassistentsystemer kommer som standard, de valgfrie systemene er delt inn i fire pakker: hjelpepakken, hjelpepakken pluss, hjelpepakken pro og sikkerhetspakken.
+
+Et av systemene som er utstyrt som standard er filskiftevarsling – dens styreinngrep kan forhindre at bilen utilsiktet forviller seg ut av kjørefeltet. Ved hjelp av radaren og kameraet kan Audi pre sense front-sikkerhetssystem identifisere forestående kollisjoner foran
+bilen, advar sjåføren og sett i gang bremsing i en nødssituasjon. Svingassistentsystemet støtter føreren på samme måte når han svinger til venstre, kollisjonsforebyggelsesassistenten hjelper dem med å styre rundt hindringer ved å gi styrebevegelser. Det akustiske og optiske parkeringssystemet
+måler avstanden bakover.
+
+Den prediktive effektivitetsassistenten, som evaluerer navigasjonsdata og trafikkskilt, hjelper sjåføren med å spare energi. Når bilen nærmer seg en sone som krever lav hastighet – for eksempel et bebygd område, et veikryss eller en kurve – indikerer det for sjåføren at de bør ta
+foten av høyre pedal. Når de gjør det, styrer systemet frikjøringen og restitusjonen uten at sjåføren trenger å gjøre noe. Fatigue assist bruker definerte mønstre for kontinuerlig å sjekke om sjåføren er i god form. Trafikkskiltgjenkjenningssystemet og
+den prediktive hastighetsbegrenseren runder av rekkevidden til standardsystemene.
+
+### Lys
+
+Frontlyktene til Q4 e-tron og Q4 Sportback e-tron er fullt utstyrt med LED som standard. På forespørsel tilbyr Audi også [Matrix LED-frontlys](teknologi/lys/#matrix-headlights) – de gir de to elektriske kompakte SUV-ene et utseende som er fullt av karakter og umiskjennelig, dag og natt.
+
+Det neste trinnet i utviklingen innen kjørelys er helt nytt blant konkurrentene. Ved å bruke MMI touch-operativsystemet kan sjåføren når som helst bytte mellom fire digitale lyssignaturer. Hver av dem genererer sitt eget tema og gir kjørelysene et individuelt uttrykk. Den valgte varianten aktiveres neste gang kjøretøyet startes.
+
+![Matrix](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature1s.jpg)
+
+Matrix LED-frontlyktene er delt inn i to seksjoner når det gjelder optikk og teknologi. Den helt svarte nedre halvdelen skjuler enhetene for nærlys og Matrix LED-fjernlys. De 16 individuelle lysdiodene som utgjør den er regulert slik at de alltid lyser opp veien så sterkt som mulig uten å blende andre trafikanter.
+
+Den øvre halvdelen danner et lyst øye. Et flatt segment går på tvers av frontlysene her, og tjener en dobbel funksjon ved å generere et fast kjørelys og de dynamiske blinklysene. Over og under er det totalt ni flate kjørelyssegmenter, som sammen med det store vertikale ankersegmentet i ytterkant kan konfigureres til fire digitale lyssignaturer. To lamelllister laget av børstet rustfritt stål deler de digitale kjørelyssegmentene i 49 små seksjoner. Sett fra siden ser de ut til å være godt skjermet, liggende oppå hverandre som lamellene til vertikale persienner; den fulle kraften til de enkelte lyssegmentene er lett synlig forfra – og skaper en fascinerende effekt som leker med lys og skygger.
+
+![Baklykter](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/rearwithmatrix2s.jpg)
+
+I kombinasjon med Matrix LED-lyktene er det også en spesielt elegant lysløsning bak på den kompakte elektriske SUV-en. En lys stripe går over hele bredden; i midten lyser baklyset ut i en fin linje som deler seg i separate segmenter i endene. Hvert individ
+segment er modellert som en tredimensjonal kropp, noe som resulterer i en lysskulptur som er uttrykksfull fra alle perspektiver. Lyssignaturen åpner seg i et stort lysankersegment på sidene av kjøretøyet. Dens dynamiske grafikk er inspirert av intrikate elektriske kretser og bærer
+Fire ringer som stråler i signaturrødt som den sentrale detaljen. De dynamiske blinklysene legger til et ytterligere høydepunkt i ryggelysene.
+
+Når bilen låses opp og forlates, spilles dynamiske lyssekvenser for "forlate hjemmet" og "kommer hjem" i baklysene og frontlysene. Sekvensene i frontlysene varierer avhengig av hvilken kjørelyssignatur som er valgt.
+
+### Brukergrensesnitt
+
+Akkurat som i alle sine modeller er Audi avhengig av et heldigitalt betjenings- og displaykonsept med flat menystruktur i Q4 e-tron og Q4 Sportback e-tron. Den består av fire nivåer: den digitale instrumentgruppen eller Audi virtual cockpit for sjåføren, det sentrale MMI-berøringsdisplayet, den naturlige stemmestyringen og den valgfrie augmented reality head-up-displayet – det er en ny, banebrytende teknologi.
+
+![Virtuell cockpit](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/mminavigationvirtualcockpits.jpg)
+
+Den standard digitale instrumentgruppen måler 10,25 tommer på diagonalen og betjenes fra multifunksjonsrattet. Effektmåleren, som er plassert ved siden av speedometeret på displayet, oppsummerer all viktig informasjon om stasjonen, fra utgang og ladetilstanden til batteriet i prosent og hele veien til restitusjon. Audi virtual cockpit er første alternativnivå. Den integrerer navigasjonskartet og infotainmentkontroll og kan byttes mellom to visninger. Audi virtual cockpit er den beste versjonen. Den tilbyr "klassisk", "sport" og "e-tron"-oppsett, der strømmåleren spiller hovedrollen. Ulike skjermer kan konfigureres fritt her.
+
+![MMI](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/mmi/mmi2s.jpg)
+
+MMI-berøringsskjermen med akustisk tilbakemelding har en 10,1-tommers diagonal og en oppløsning på 1540 x 720 piksler. Den brukes til å styre infotainmentsystemet samt en rekke komfortfunksjoner. I tillegg tillater den tekstinntasting i håndskrift. I den valgfrie store versjonen kommer skjermen med en 11,6-tommers diagonal og en oppløsning på 1 764 x 824 piksler. Det er den største skjermen i Audi-porteføljen til dags dato og forventes å være tilgjengelig for bestilling i år.
+
+Den naturlige stemmestyringen, som aktiveres med nøkkelfrasen «Hey Audi», fungerer som det tredje kontrollnivået i Audi Q4 e-tron og Q4 Sportback e-tron. Den forstår også et stort antall inndata og forespørsler på dagligdagse språk, for eksempel "Hvor er den nærmeste italienske restauranten?" Hvis Audi connect Navigation & Infotainment plus er inkludert, blir informasjonen i mange tilfeller behandlet på nett.
+
+![Headup](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/headupdisplay/headups.jpg)
+
+Med den valgfrie augmented reality head-up-skjermen i Q4 e-tron og Q4 Sportback e-tron, tar Audi et stort skritt fremover innen skjermteknologi. Displayet reflekterer viktig informasjon via frontruten på to separate nivåer, statusdelen og den utvidede
+virkelighetsdelen (AR). Informasjonen fra noen av hjelpesystemene og svingpilene til navigasjonssystemet, samt dets startpunkter og destinasjoner, er visuelt overlagret på det tilsvarende stedet på den virkelige omverdenen som innhold i AR-delen og vises dynamisk. De ser ut til å flyte i en avstand på rundt ti meter fra sjåføren. Avhengig av situasjonen kan de i enkelte tilfeller vises betydelig lenger frem. Sjåføren kan forstå displayene veldig raskt uten å bli forvirret eller distrahert av dem, og de er ekstremt nyttige under dårlige siktforhold.
+
 Se alle detaljer i [Audi Q4 e-tron-teknologiseksjonen](technology)
 
-### Audi Q4 e-tron spesifikasjoner
+## Audi Q4 e-tron spesifikasjoner
 
 Her finner du de mest relevante spesifikasjonene for de forskjellige Q4 e-tron-variantene
 
 Se alle detaljer i [Audi Q4 e-tron-spesifikasjonsdelen](specifications)
 
-### Audi Q4 e-tron dimensjoner
+## Audi Q4 e-tron dimensjoner
 
 Hvor du finner de mest relevante dimensjonene for de ulike variantene
 
 Se alle dimensjoner i [Audi Q4 e-tron dimensjonsseksjonen](dimensions)
 
-### Transportmuligheter
+## Transportmuligheter
 
 I tillegg til de 5 setene har Q4 e-tron ganske stor bagasjerom i tillegg til takoppbevaring og tilhengerkapasitet opp til 1200kg.
 
 Se alle detaljer i [Audi Q4 e-tron transportegenskaper delen](transportation)
 
-### Audi Q4 e-tron kunnskapsutveksling
+## Audi Q4 e-tron kunnskapsutveksling
 
 Å fremme kunnskapsdeling mellom eiere og andre med kunnskap om de helelektriske modellene fra Audi er et viktig mål med electrichasgoneaudi.net.
 
@@ -157,7 +209,7 @@ Vi har også samlet vanlige problemer i vår problemdatabase for Audi Q4 e-tron.
 
 [Gå til delen for kunnskapsutveksling](knowledgeexchange)
 
-### Audi Q4 e-tron utstyrsguide
+## Audi Q4 e-tron utstyrsguide
 
 Audi Q4 e-tron har så mange utstyrsalternativer at det nesten er umulig å få full oversikt.
 
@@ -167,13 +219,13 @@ Vi viser også alle tilgjengelige utstyrsvalg..
 
 [Gå til utstyrsguide](optionguide)
 
-### Audi Q4 e-tron multimedia
+## Audi Q4 e-tron multimedia
 
 I denne delen finner du forskjellig multimedieinnhold relatert til Audi Q4 e-tron. Mest videoer.
 
 [Gå til multimedia](multimedia)
 
-### Audi Q4 e-tron anmeldelser
+## Audi Q4 e-tron anmeldelser
 
 Vi har samlet de fleste online anmeldelser av Audi Q4 e-tron for rask tilgang.
 
