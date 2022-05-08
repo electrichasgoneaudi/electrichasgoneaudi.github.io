@@ -1,7 +1,7 @@
 ---
 title: Audi q4 e-tron
 linktitle: Audi Q4 e-tron
-description: Audi Q4 e-tron id available with different motors, batteries, technology, and design options and have a range of up to 532km(330mi). 
+description: Audi Q4 e-tron is available with different motors, batteries, technology, and design options and have a range of up to 532km(330mi). 
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
@@ -71,7 +71,9 @@ The [black optics package](exterior/optics/#black-optics), with optional [black 
 
 ![Wheels](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_C1P_1s.jpg)
 
-You can select between [11 different wheels from 19" to 21" on both Audi Q4 e-tron and Audi Q4 e-tron Sportback
+The Audi Q4 e-tron and Q4 Sportback e-tron are well-grounded – their wheels comprise [eleven versions ranging in size from 19 to 21 inches](exterior/wheels/). Apart from the basic version, these are aluminum wheels, and each size includes especially aerodynamic designs. In the 20-inch category, two wheels come from Audi Sport GmbH, which provides all four in the 21-inch class. One of them comes in a matte bronze finish, another in platin gray. The third is an Aero wheel, which is largely covered with black plastic inlays.
+
+All motor line-ups drive off the assembly line with a mix of tires, which further enhances stability and the sporty character. The front tires are 235 millimeters wide throughout, the rear tires 255 millimeters, while the cross sections differ depending on the rim size. All tires are optimized for rolling resistance, the 21-inch class includes a decidedly sporty tire variant for the Sportback
 
 Learn more about the exterior details and see high-resolution pictures of the exterior in the [Audi Q4 e-tron exterior section](exterior)
 
