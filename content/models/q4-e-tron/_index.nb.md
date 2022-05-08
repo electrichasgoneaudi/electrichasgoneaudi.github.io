@@ -65,7 +65,7 @@ På advance-line, har de nedre tilleggsdelene en kontrastlakk i metallic Manhatt
 
 ![Wheels](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_C1P_1s.jpg)
 
-Audi Q4 e-tron og Q4 Sportback e-tron er plantet i bakken – hjulene deres består av [elleve versjoner som varierer i størrelse fra 19 til 21 tommer](exterior/wheels/). Bortsett fra basisversjonen er dette aluminiumsfelger, og hver størrelse inkluderer spesielt aerodynamiske design. I 20-tommerskategorien kommer to hjul fra Audi Sport GmbH, som gir alle fire i 21-tommersklassen. En av dem kommer i matt bronsefinish, en annen i platinggrå. Det tredje er et Aero-hjul, som stort sett er dekket med svarte plastinnlegg.
+Audi Q4 e-tron og Q4 Sportback e-tron er godt plantet i bakken – hjulene deres består av [elleve versjoner som varierer i størrelse fra 19 til 21 tommer](exterior/wheels/). Bortsett fra basisversjonen er dette aluminiumsfelger, og hver størrelse inkluderer spesielt aerodynamiske design. I 20-tommerskategorien kommer to hjul fra Audi Sport GmbH, som gir alle fire i 21-tommersklassen. En av dem kommer i matt bronsefinish, en annen i platinggrå. Det tredje er et Aero-hjul, som stort sett er dekket med svarte plastinnlegg.
 
 Alle motorseriene kjører av samlebåndet med en blanding av hjul, noe som ytterligere forbedrer stabiliteten og den sportslige karakteren. Fordekkene er hele 235 millimeter brede, bakdekkene 255 millimeter, mens tverrsnittet varierer avhengig av felgstørrelse. Alle dekkene er optimert for rullemotstand, 21-tommersklassen inkluderer en utpreget sporty dekkvariant for Sportback
 
@@ -73,12 +73,36 @@ Lær mer om eksteriørdetaljene og se høyoppløselige bilder av eksteriøret i 
 
 ## Audi Q4 e-tron interiør
 
-![Interior](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/interior.jpg)
+Den nye teknologiæraen som Audi har tatt fatt på kan også oppleves i interiøret i Q4 e-tron og Q4 Sportback e-tron. Instrumentpanelet introduserer seg selv med progressiv eleganse og understreker den luftige følelsen av romslighet. Cockpiten har en utpreget tredimensjonal design, og dens geometriske volumer henger sammen på en elektrifiserende måte.
 
-Audi Q4 e-tron har et luksuriøst interiør med ulike valgmuligheter i seter og design.
+![Interiør](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/interior2s.jpg)
+
+I begge de elektriske SUV-ene tar betjenings- og displayenhetene funksjonen til designelementer mer enn noen gang. Det digitale instrumentet for føreren er innebygd som en diamant mellom to volumer – et kort på venstre side, som har en luftventil, og et langt på høyre side. Den strekker seg helt til passasjerdøren foran og integrerer ytterligere lufteventiler. Den sentrale MMI-berøringsskjermen, som fremstår som ren og lett, opptar plassen foran den. Den vippes mot føreren og er plassert innenfor ergonomisk rekkevidde.
+
+Et magert innlegg, kjent som teknologilaget, ligger over skjermen og kobler det sammen med instrumentpanelet. Valget av overflatematerialer til dette panelet inkluderer åpenporet kalktre, aluminium i to forskjellige utførelser og plast. Innlegget i S line-interiøret vil også være tilgjengelig som et alternativ kort tid etter markedslansering med et innovativt, antrasittfarget teknisk stoff som er laget delvis av resirkulerte materialer.
+
+![Interiør](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/interior3s.jpg)
+
+Avhengig av utstyrspakken er de videre konturene til instrumentpanelet, som er kjent som aksentflater, utformet i forskjellige sølv- og gråtoner for å matche innlegget. Den mest slående av disse går horisontalt, deler instrumentpanelet i to soner, og er dekorert med et e-tron-merke. Under denne konturen, også vendt mot føreren, ligger betjeningsenheten for klimakontroll. Under den strekker et stort betjeningspanel med svart panel-utseende seg inn i rommet. Den har den kompakte girbryteren for valg av gir, en kapasitiv roterende volumkontroll og start/stopp-knappen. Varselblinkbryteren samt Audi drive select-knappene og ESC-stabiliseringskontrollen er utformet som sømløse berøringsflater i svart panellook og bakgrunnsbelyst med hvit bakgrunnsbelysning.
+
+[Rattene](interior/steeringwheels/) i Audi Q4 e-tron og Q4 Sportback e-tron setter også kursen for fremtidens mobilitet. Med sitt dobbelteikerdesign tilhører de en ny generasjon. De fire ringene på støtdemperen har en flat design, i S-linjens interiør pryder et S-emblem den nederste eiken. De øvre eikene har berøringsflater i et svart panel-utseende, hvor funksjonsområdene også er bakgrunnsbelyst for å indikere de aktive knappene.
+
+Små fremspring skiller dem fra hverandre, noe som gjør dem enklere å bruke, mens knappene gir tilbakemeldinger som er myke å ta på når de trykkes inn. Akkurat som på en smarttelefon er det ikke bare berøringsbevegelser, men også sveipebevegelser, for eksempel for å bla gjennom lister.
+
+[Rattene](interior/steeringwheels/) er tilgjengelig i forskjellige versjoner. Top-of-the-range-versjonen har padler festet til rattet for frikjøring og en todelt trim på eikene. Den oppvarmede kanten er flatet opp i toppen og bunnen her – en løsning som tydelig understreker interiørets futuristiske karakter. Enten det er utseende, funksjon eller følelse – det nye rattet uttrykker tydelig den progressive karakteren til Q4 e-tron.
+
+![Standardseter](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/seats/seats_pwa_1s.jpg)
+Setene er tilgjengelige i en basisversjon og en sportsversjon med visuelt integrerte hodestøtter, og valgfritt med rombemønster.
+
+[Setevarme](interior/seats/#seat-functionality), [elektrisk justering](interior/seats/#sete-funksjonalitet), og [elektrisk korsryggstøtte er tilgjengelig](interior/seats/#sete-funksjonalitet) som en alternativ.
+
+Når det kommer til setefargene kan kundene velge mellom svart, stålgrå, Santos brun og pergament beige. De totalt ni utstyrspakkene inkluderer også en sømpakke. Fem pakker er tilgjengelige for basisversjonen, mens de fire andre er tilgjengelige for S line-interiøret. De har forskjellige dørterskellister, malingsfarger for aksentoverflatene, materialer til armlenene og takbeklædning. Alle valgfrie utstyrspakker for interiøret inkluderer hvit LED-belysning, eller alternativt [multi-color ambient lighting package plus](interior/lys/#ambient-light-plus-package). Noen funksjoner er reservert eksklusivt for S line-interiøret: opplyste dørterskellister i aluminium med S-logo, pedaler med rustfrie stålstøtter, en svart takbeklædning, S-preging i seteryggene, en rattkant laget av perforert skinn med kontrastsøm, og S-merker.
+
+![S-line](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/seats/seats_pwn_2s.jpg)
+
+[S line interiør](interior/sline/) har også mye å tilby når det gjelder møbelmaterialer. Kunder som foretrekker tradisjonelle materialer kan velge mellom en blanding av lær/kunstskinn og det fineste Nappa-skinnet. Kombinasjonen av kunstskinn og mikrofibermaterialet Dinamica tilbyr en innovativ variant. Puls-trekket, også i kombinasjon med kunstskinn, er et annet alternativ for S line-interiøret. Som med Dinamica brukes også her sekundære råvarer, for eksempel laget av gamle PET-flasker.
 
 Se alle detaljer i [Audi Q4 e-tron interiørseksjon](interior)
-
 
 ## Audi Q4 e-tron drivverk
 
