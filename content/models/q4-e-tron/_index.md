@@ -58,18 +58,13 @@ See all details in the [Audi Q4 e-tron drivetrain section](drivetrain)
 
 ## Audi Q4 e-tron exterior
 
-The color swatch for the Audi Q4 e-tron and Q4 Sportback e-tron contains eight colors. Their restrained character is inspired by the colors and hues found in nature. The solid paint color is called [stone gray](exterior/paint/#pebble-stone-gray), the metallic shades are named [aurora violet](exterior/paint/#aurora-violett) (new), [floret silver](exterior/paint/#floret-silver), geyser blue, glacier white, mythos black, Navarra blue, and typhoon gray. Aurora violet is a color that has been taken from Audi Sport.
+The color swatch for the Audi Q4 e-tron and Q4 Sportback e-tron contains eight colors. Their restrained character is inspired by the colors and hues found in nature. The solid paint color is called [stone gray](exterior/paint/#pebble-stone-gray), the metallic shades are named [aurora violet](exterior/paint/#aurora-violett) (new), [floret silver](exterior/paint/#floret-silver), [geyser blue](exterior/paint/#geyser-blue), [glacier white](exterior/paint/#glacier-white), [mythos black](exterior/paint/#mythos-black), [Navarra blue](exterior/paint/#navarra-blue), and [typhoon gray](exterior/paint/#typhoon-grey). Aurora violet is a color that has been taken from Audi Sport.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_typhoongrey_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_typhoongrey_1s.jpg" alt="Audi Q4 50 e-tron quattro in typhoon grey metallic with shadow optics plus optics and mythos contast color" title="Audi Q4 50 e-tron quattro in typhoon grey metallic with shadow optics plus optics and mythos contast color">
-    </a>
-    <figcaption><h4>Audi Q4 50 e-tron quattro in typhoon grey metallic with shadow optics plus optics and mythos contast color</h4></figcaption>
-</figure>
+![Interior](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_typhoongrey_1s.jpg)
 
-Audi supplies both models with the advanced and S line exterior lines as an alternative to the basic version. On the basic vehicle, the wheel arches, the lower section of the bumper, and the diffusor feature an anthracite grain, the gloss package accentuates the side windows. The Singleframe also differs depending on the line – on the S line, chrome elements lend it its own distinctive look. Here, and also in the advanced line, the lower add-on parts feature a contrasting paint finish in metallic Manhattan gray; in the optional full paint finish customers can choose between four colors, while there are also 19- and 20-inch aluminum wheels. The black styling package, which includes the black caps for the exterior mirrors, creates an even sportier appearance. The Four Rings on the Singleframe and the type designation are also available in black. A roof rail comes as standard on the Q4 e-tron.
+Audi supplies both models with the advanced and [S line](exterior/s-line/) exterior lines as an alternative to the basic version. On the basic vehicle, the wheel arches, the lower section of the bumper, and the diffusor feature an anthracite grain, the gloss package accentuate the side windows. The Singleframe also differs depending on the line – on the S line, chrome elements lend it its own distinctive look. Here, and also in the advanced line, the lower add-on parts feature a contrasting paint finish in metallic Manhattan gray; in the optional [full paint finish](exterior/paint/#full-body-paint) customers can choose between four colors, while there are also 19- and 20-inch aluminum wheels. The [black optics package](exterior/optics/#black-optics), with optional [black caps](exterior/mirrors/#mirror-style) for the exterior mirrors, creates an even sportier appearance. The Four Rings on the Singleframe and the type designation are also available in black in the [black optics plus](exterior/optics/#black-optics-plus) package. A roof rail comes as standard on the Q4 e-tron.
 
-See all exterior details with high resoultion pictures in the [Audi Q4 e-tron exterior section](exterior)
+Learn more about the exterior details and see high-resolution pictures of the exterior in the [Audi Q4 e-tron exterior section](exterior)
 
 ## Audi Q4 e-tron interior
 
