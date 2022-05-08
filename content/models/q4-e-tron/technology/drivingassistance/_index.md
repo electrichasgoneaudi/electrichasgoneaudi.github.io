@@ -14,10 +14,8 @@ weight: 1
     </a>
     <figcaption><h4>Audi Q4 e-tron sensors</h4></figcaption>
 </figure>
-
- ![Sensors Audi Q4 e-tron](sensors.jpg "Audi Q4 e-tron sensors")
  
- Important driver assist systems come as standard, the optional systems are subdivided into four packages: the assist package (PYK), the assist package plus (PYL), the assist package pro (PY7), and the safety package (PYU).
+Important driver assist systems come as standard, the optional systems are subdivided into four packages: the assist package (PYK), the assist package plus (PYL), the assist package pro (PY7), and the safety package (PYU).
 
 | **System**    | **Available** |
 | ----------- | ----------- |
