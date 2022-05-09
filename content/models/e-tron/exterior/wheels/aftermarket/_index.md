@@ -112,3 +112,13 @@ Sold as winter tires by Audi Norway.
     </a>
     <figcaption><h4>Japan Racing JR28</h4></figcaption>
 </figure>
+
+
+## Rebel
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/rebel1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/rebel1s.jpg" alt="Rebel 23 inch" title="Rebel 23 inch">
+    </a>
+    <figcaption><h4>Rebel 23 inch</h4></figcaption>
+</figure>
