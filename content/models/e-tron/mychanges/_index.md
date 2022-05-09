@@ -84,7 +84,7 @@ If build month is 122019 or later it should be a upgraded version
 
 ### MY 2023 (from summer 2022)
 
-- vin nr has O as 10 digit for 2022 model example: WAUZZZGE0**O**B001111
+- vin nr has P as 10 digit for 2022 model example: WAUZZZGE0**P**B001111
 - US: [Changed configuration](https://media.audiusa.com/en-us/releases/518) in prestige package.
 - No known technical changes compared to 2022.
 

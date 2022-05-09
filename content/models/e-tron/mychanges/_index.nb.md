@@ -83,7 +83,7 @@ Hvis byggemåneden er 122019 eller senere, bør det være en oppgradert versjon
 
 ### MY 2023 (fra sommeren 2022)
 
-- vin nr har O som 10 siffer for 2022-modelleksempel: WAUZZZGE0**O**B001111
+- vin nr har P som 10 siffer for 2022-modelleksempel: WAUZZZGE0**P**B001111
 
 ### Facelift
 
