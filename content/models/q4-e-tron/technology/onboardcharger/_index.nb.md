@@ -27,9 +27,9 @@ I illustrasjonen under ser du plasseringen av ladeenhetene.
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/onboardcharger/electricdrivetrain.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/onboardcharger/electricdrivetrains.jpg" alt="Elektrisk drivverk med ladeport og AC-lader" title="Elektrisk drivverk med ladeport og AC-lader">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/onboardcharger/electricdrivetrains.jpg" alt="Elektrisk drivlinje med ladeport og AC-lader" title="Elektrisk drivlinje med ladeport og AC-lader">
     </a>
-    <figcaption><h4>Elektrisk drivverk med ladeport og AC-lader</h4></figcaption>
+    <figcaption><h4>Elektrisk drivlinje med ladeport og AC-lader</h4></figcaption>
 </figur>
 
  Bare AC-lading går gjennom laderen. For DC-lading er CCS-porten direkte koblet til batteriet.

@@ -42,7 +42,7 @@ og en bil plassert i en forhøyet posisjon (som et fjell) har [potensiell energi
 
 I tillegg kommer aerodynamisk luftmotstand og rullemotstand, som er krefter som virker mot bevegelsen til bilen.
 
-Drivverket er heller ikke uten tap, noe som betyr at noe energi går tapt i konverteringen av energi. Enten fra strøm på batteriet til bevegelse av bilen, eller motsatt, fra bevegelse på bilen til strøm på batteriet.
+Drivlinjen er heller ikke uten tap, noe som betyr at noe energi går tapt i konverteringen av energi. Enten fra strøm på batteriet til bevegelse av bilen, eller motsatt, fra bevegelse på bilen til strøm på batteriet.
 På Audi e-tron er denne effektivteten ca 80%.
 
 ### Scenario 1: Pikes Peak
@@ -81,7 +81,7 @@ I dette scenariet beveger bilen seg i 120,7 km/t (75 mph) og må stoppe for rød
 
 Som vist i grafen nedenfor gir 120,7 km/t for en 2900 kg Audi e-tron den totale kinetiske energien på 0,472626718 kWh.
 
-Med et drivverk med 80 % effektivitet betyr dette at bilen vil kunne få 0,38 kWh tilbake til batteriet.
+Med en drivlinje med 80 % effektivitet betyr dette at bilen vil kunne få 0,38 kWh tilbake til batteriet.
 
 En hel tur på 100 km (62 miles) med 10 fulle stopp som dette vil da spare 3,8 kWh for den totale turen sammenlignet med en bil med kun friksjonsbremser.
 
@@ -98,7 +98,7 @@ Dette betyr en forbruksreduksjon på 3,8kWh/100km.
 
 Dette scenariet er et typisk bykjøringsscenario. Ved kjøring i 30 mph (48,28 km/t) har Audi e-tron en total kinetisk energi på 0,075620275 kWh.
 
-Basert på drivverkets effektivitet på 80 % gir dette 0,06059 kWh tilbake til batteriet.
+Basert på drivlinjens effektivitet på 80 % gir dette 0,06059 kWh tilbake til batteriet.
 
 Hvis du kjører 100 km i bytrafikk og trenger å gjøre 100 stopp som dette sparer du 6,05 kWh energi.
 
@@ -241,12 +241,12 @@ For alle beregninger på denne artikkelen antar vi 15 °C
 
 ### Rullemotstand
 
-I tillegg til luftmotstand er det rullemotstand fra hjul og andre drivverkskomponenter som motvirker bevegelse.
+I tillegg til luftmotstand er det rullemotstand fra hjul og andre drivlinjekomponenter som motvirker bevegelse.
 
-Det er ikke lett å finne dette tallet, men med å kjenne til totalforbruk og forbruk forårsaket av luftmotstand, og effektiviteten på drivverket, er det mulig å estimere rullemotstanden på Audi e-tron.
+Det er ikke lett å finne dette tallet, men med å kjenne til totalforbruk og forbruk forårsaket av luftmotstand, og effektiviteten på drivlinjen, er det mulig å estimere rullemotstanden på Audi e-tron.
 
 Basert på historikken til Audi eiere virker det som å kjøre på tørr flat vei i 80 km/t i sommertemperatur krever rundt 19 kWh/100 km energi fra batteriet.
-Hvis vi antar 80 % effektivitet i drivverket, har vi et energibehov på 15,2 kWh/100 km totalt inkludert luftmotstand.
+Hvis vi antar 80 % effektivitet i drivlinjen, har vi et energibehov på 15,2 kWh/100 km totalt inkludert luftmotstand.
 
 Hvis vi tar bort energien som trengs for motvirke luftmotstanden, har vi rundt 8,95 kWh/100 km for å overvinne rullemotstanden.
 
@@ -254,7 +254,7 @@ Dette tallet er et estimat. På våte veier eller veier med snø øker rullemots
 
 ### Forbrukssammendrag
 
-Diagrammet nedenfor viser det beregnede forbruket som er nødvendig for å overvinne luftmotstand og rullemotstand og forbruk fra batteriet basert på 80 % effektivitet av drivverket. Den reelle effektiviteten er ikke kjent, men tester viser at det ligger rundt 80 % for Audi e-tron.
+Diagrammet nedenfor viser det beregnede forbruket som er nødvendig for å overvinne luftmotstand og rullemotstand og forbruk fra batteriet basert på 80 % effektivitet av drivlinjen. Den reelle effektiviteten er ikke kjent, men tester viser at det ligger rundt 80 % for Audi e-tron.
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/consumption.png">
@@ -319,7 +319,7 @@ På elektriske Audier kan du bruke regenerative bremser på forskjellige måter
 - Manuell, ved hjelp av rattpadler for å regenerere
 - En-pedals-kjøring - fast regenerering når du løfter foten av wattpedalen
 
-Alle metodene bruker de samme elektriske drivverkkomponentene for å bremse slik at de har samme effektivitet.
+Alle metodene bruker de samme elektriske drivlinjekomponentene for å bremse slik at de har samme effektivitet.
 
 Men en-pedals-kjøring har litt redusert effektivitet i scenarier der sjåføren ønsker å gå over fra å bruke strøm til rulling.
 

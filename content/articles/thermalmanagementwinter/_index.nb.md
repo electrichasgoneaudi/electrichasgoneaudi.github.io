@@ -44,7 +44,7 @@ Slik vet ladepunktet hvor mye strøm batteriet til enhver tid kan absorbere. Så
 
 ### Hva er jobben med termisk styring?
 
-***Anzenberger***: I utgangspunktet er termisk styring ansvarlig for å fordele varmestrømmene mellom drivsystemet, høyspentbatteriet og interiøret. Vårt varmepumpesystem har frifunnet seg godt i denne sammenheng fremfor alt. Den konverterer energi fra drivverket eller luften rundt. Det er varme som er tilgjengelig for batteriet eller, om vinteren, for interiøret også. Å bruke luften rundt som energikilde er relativt nytt: vi bruker den til å balansere den avtagende spillvarmen fra drivverket, som fungerer stadig mer effektivt. På den måten har vi tilgang til to uavhengige systemer via drivverket og luften rundt, som vi bruker til å varme opp interiøret og høyspentbatteriet.
+***Anzenberger***: I utgangspunktet er termisk styring ansvarlig for å fordele varmestrømmene mellom drivsystemet, høyspentbatteriet og interiøret. Vårt varmepumpesystem har frifunnet seg godt i denne sammenheng fremfor alt. Den konverterer energi fra drivlinjen eller luften rundt. Det er varme som er tilgjengelig for batteriet eller, om vinteren, for interiøret også. Å bruke luften rundt som energikilde er relativt nytt: vi bruker den til å balansere den avtagende spillvarmen fra drivlinjen, som fungerer stadig mer effektivt. På den måten har vi tilgang til to uavhengige systemer via drivlinjen og luften rundt, som vi bruker til å varme opp interiøret og høyspentbatteriet.
 
 ### Hvordan reguleres temperaturen på batteriet og interiøret under kjøring?
 

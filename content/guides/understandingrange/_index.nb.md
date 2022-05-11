@@ -92,7 +92,7 @@ test av slike dekk på e-tron 55.
 
 En tung bil krever mer energi å forflytte.
 
-### Effektivtet til drivverk og motorer
+### Effektivtet til drivlinjen
 
 Elektriske motorer er som standard svært effektive, men det er fortsatt noen forskjellige teknologier som gir ulikt forbruk basert på oppsettet.
 
@@ -102,7 +102,7 @@ Induksjonsmotorer bruker litt mer energi på å bevege seg, men har nesten null 
 Nyere biler kombinerer ofte disse to teknikkene med en bakre synkron motor som alltid er i bruk og en induksjonsmotor foran. Eksempel Audi Q4 e-tron quattro 50.
 
 Audi jobber med den nye PPE -plattformen, og allerede nå vet vi det
-dette drivverket vil ha en forbedret effektivitet.
+denne drivlinjen vil ha en forbedret effektivitet.
 
 ![PPE Drivetrain](https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/ppepresentation2.png "PPE Drivetrain")
 

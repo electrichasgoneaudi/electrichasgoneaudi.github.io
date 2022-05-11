@@ -1,6 +1,6 @@
 ---
-title: Audi Q4 e-tron drivverk og motorer
-linktitle: Drivverk
+title: Audi Q4 e-tron drivlinje og motorer
+linktitle: Drivlinje
 description: Audi Q4 e-tron er bygget basert på Volkswagen MEB-plattformen.
 weight: 6
 ---
@@ -18,6 +18,6 @@ Videoen nedenfor viser noen høydepunkter om MEB-plattformen.
  
 {{< youtube _fAVQy7b0QU >}}
 
-Nedenfor finner du flere detaljer om de viktigste komponentene i drivverket.
+Nedenfor finner du flere detaljer om de viktigste komponentene i drivlinjen.
 
 {{% children description="true" depth="1" %}}

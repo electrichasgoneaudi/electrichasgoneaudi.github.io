@@ -49,7 +49,7 @@ In the below graph you see how much consumption the aerodynamic drag causes for 
     <figcaption><h4>Forbruk grunnet luftmotstand</h4></figcaption>
 </figure>
 
-Beregnede verdier for forbruk som kun kommer fra aerodynamisk luftmotstand basert på 80 % drivverkseffektivitet.
+Beregnede verdier for forbruk som kun kommer fra aerodynamisk luftmotstand basert på 80 % drivlinjeseffektivitet.
 
 | Speed | Audi e-tron 55 | Audi Q4 e-tron | Audi e-tron GT |
 |-----|---------|-----------|----------|

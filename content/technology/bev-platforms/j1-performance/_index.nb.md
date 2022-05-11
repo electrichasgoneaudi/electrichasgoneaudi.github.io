@@ -19,9 +19,9 @@ Audi e-tron GT er utstyrt med to permanent eksiterte synkronmaskiner (PSM) som g
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/j1-performance/drivetrain2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/j1-performance/drivetrain2s.jpg"
-        alt="J1-performance drivverk for Audi e-tron GT" title="J1-performance drivverk for Audi e-tron GT">
+        alt="J1-performance drivlinje for Audi e-tron GT" title="J1-performance drivlinje for Audi e-tron GT">
     </a>
-    <figcaption><h4>J1-performance drivverk for Audi e-tron GT</h4></figcaption>
+    <figcaption><h4>J1-performance drivlinje for Audi e-tron GT</h4></figcaption>
 </figure>
 
 Firedørs Audi RS e-tron GT drives fra null til 100 km/t (62,1 mph) på 3,3 sekunder og når 200 km/t (124,3 mph) på litt over 12 sekunder, før fremdrift

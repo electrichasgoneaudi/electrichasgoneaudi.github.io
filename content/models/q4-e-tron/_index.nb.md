@@ -104,7 +104,7 @@ Når det kommer til setefargene kan kundene velge mellom svart, stålgrå, Santo
 
 Se alle detaljer i [Audi Q4 e-tron interiørseksjon](interior)
 
-## Audi Q4 e-tron drivverk
+## Audi Q4 e-tron drivlinje
 
 Audi Q4 e-tron er basert på MEB-plattformen som deles med andre modeller som Skoda Enyaq, Volkswagen ID4 og ID3.
 
@@ -122,7 +122,7 @@ Rekkevidden med det største batteriet er mellom 412 km - 521 km avhengig av ver
 Den leveres med 1 motor eller 2 motorer. 2 motorer brukes på quattro-versjonene. Ytelsen varierer med hvilke batteri som brukes.
 
 
-Se alle detaljer i [Audi Q4 e-tron drivverkseksjonen](drivetrain)
+Se alle detaljer i [Audi Q4 e-tron drivlinjeseksjonen](drivetrain)
 
 ## Audi Q4 e-tron-teknologi
 

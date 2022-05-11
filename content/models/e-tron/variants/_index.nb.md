@@ -79,7 +79,7 @@ Med sitt bredere karosseri og hjul, skiller Audi e-tron 60S seg ut fra e-tron 50
 
 Audi e-tron S har samme batteri som e-tron 55 med 95kWh bruttokapasitet og 86,5kWh nettokapasitet.
 
-Den elektriske drivverket bruker tre elektriske motorer, hvorav to opererer på bakakselen. Den intelligente kjørekontrollen hever kjøretøysikkerheten, og spesielt dynamisk håndtering, til et nytt nivå. 
+Den elektriske drivlinjen bruker tre elektriske motorer, hvorav to opererer på bakakselen. Den intelligente kjørekontrollen hever kjøretøysikkerheten, og spesielt dynamisk håndtering, til et nytt nivå. 
 I tillegg til elektrisk firehjulsdrift er e-tron 60S utstyrt med elektrisk momentvektoring med aktiv og fullt variabel dreiemomentfordeling på bakakselen.
 
 Audi e-tron S leverer dynamikk i en ny dimensjon. I S-gir gir de full ytelse i åtte sekunder – 370 kW kraft og 973 Nm (717,6 lb-ft) dreiemoment.

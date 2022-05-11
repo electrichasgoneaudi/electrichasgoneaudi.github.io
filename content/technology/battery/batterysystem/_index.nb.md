@@ -83,12 +83,12 @@ I dag bruker alle Audi-modeller Cell2Module-teknologi
 | [e-tron 55](/models/e-tron/drivetrain/battery/#battery-audi-e-tron-55) | LGXN2.1 | 432 | 36 | 396 | 108s4p | 95 kWh |
 | [e-tron 55*3](/models/e-tron/drivetrain/battery/#battery-audi-e-tron-55) | Samsung | 432 | 36 | 396 | 108s4p | 95 kWh |
 | [e-tron 50](/models/e-tron/drivetrain/battery/#battery-audi-e-tron-50) | Samsung | 324 | 27 | 396 | 108s3p | 71 kWh |
-| [e-tron GT](/modeller/e-tron-gt/drivverk/batteri/) | E66A | 396 | 33 | 723 | 196s2p | 93,4 kWh |
-| [RS e-tron GT](/modeller/e-tron-gt/drivverk/batteri/) | E66A | 396 | 33 | 723 | 196s2p | 93,4kWh |
+| [e-tron GT](/modeller/e-tron-gt/drivetrain/battery/) | E66A | 396 | 33 | 723 | 196s2p | 93,4 kWh |
+| [RS e-tron GT](/modeller/e-tron-gt/drivetrain/battery/) | E66A | 396 | 33 | 723 | 196s2p | 93,4kWh |
 | [Q4 e-tron 50](/models/q4-e-tron/drivetrain/battery/#battery-q4-40-e-tron-and-q4-50-e-tron) |LGX E78 | 288 | 12 | 350 |96s3p | 82 kWh |
 | [Q4 e-tron 40](/models/q4-e-tron/drivetrain/battery/#battery-q4-40-e-tron-and-q4-50-e-tron) |LGX E78 | 288 | 12 | 350 |96s3p | 82 kWh |
 | [Q4 e-tron 35](/models/q4-e-tron/drivetrain/battery/#battery-q4-35) | LGX E78| 196 | 9 | 350 | 96s2p | 55 kWh |
-| [Q6 e-tron](/modeller/q6-e-tron/drivverk/batteri/)*1 | LGX E78?| 392? | 16? | 700? | 192s2p? | 110 kWh? |
+| [Q6 e-tron](/modeller/q6-e-tron/drivetrain/battery/)*1 | LGX E78?| 392? | 16? | 700? | 192s2p? | 110 kWh? |
 | A6 e-tron *2 | LGX E78?| 392? | 16? | 700? | 192s2p? | 110 kWh? |
 
 #### Batteripakkeytelse
@@ -100,8 +100,8 @@ I tabellen nedenfor ser du pakkens ytelse. Se hvordan Q4 har en høyere tetthet,
 | [e-tron 55](/models/e-tron/drivetrain/battery/#battery-audi-e-tron-55) | 95kWh | 86,5 kWh | 150kW | 699 kg | 0,136 |
 | [e-tron 55*3](/models/e-tron/drivetrain/battery/#battery-audi-e-tron-55) | 95kWh | 86,5 kWh | 150kW | 699 kg | 0,136 |
 | [e-tron 50](/models/e-tron/drivetrain/battery/#battery-audi-e-tron-50) | 71kWh | 64,7kWh | 125kW | 580 | 0,122 |
-| [e-tron GT](/modeller/e-tron-gt/drivverk/batteri/) | 93,4kWh | 83,7kWh | 270kW | 630 kg | 0,148 |
-| [RS e-tron GT](/modeller/e-tron-gt/drivverk/batteri/) | 93,4kWh | 83,7kWh | 270kW | 630 kg | 0,148 |
+| [e-tron GT](/modeller/e-tron-gt/drivetrain/battery/) | 93,4kWh | 83,7kWh | 270kW | 630 kg | 0,148 |
+| [RS e-tron GT](/modeller/e-tron-gt/drivetrain/battery/) | 93,4kWh | 83,7kWh | 270kW | 630 kg | 0,148 |
 | [Q4 e-tron 50](/models/q4-e-tron/drivetrain/battery/#battery-q4-40-e-tron-and-q4-50-e-tron) | 82kWh | 77kWh | 125kW | 493 kg | 0,188 |
 | [Q4 e-tron 40](/models/q4-e-tron/drivetrain/battery/#battery-q4-40-e-tron-and-q4-50-e-tron) | 82kWh | 77kWh | 125kW | 493 kg | 0,188 |
 | [Q4 e-tron 35](/models/q4-e-tron/drivetrain/battery/#battery-q4-35) | 55kWh | 52kWh | 100kW | 344 kg | 0,160 |

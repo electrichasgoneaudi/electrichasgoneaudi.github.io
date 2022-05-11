@@ -17,7 +17,7 @@ Detaljnivået på electrichasgoneaudi.net går utover alle offisielle Audi-sider
 
 Eksempler på detaljert informasjon du finner på denne siden er
 
-- Detaljert produktinformasjon om hver modell. Alt fra drivverket, batteri til den typen skinn setene dine kan ha.
+- Detaljert produktinformasjon om hver modell. Alt fra drivlinjen, batteri til den typen skinn setene dine kan ha.
 - FAQ for hver modell
 - Høyoppløselige bilder av ekte biler som viser de forskjellige malingene, hjulene og andre eksteriør- og interiøralternativer
 - Samling av anmeldelser på nett for hver modell

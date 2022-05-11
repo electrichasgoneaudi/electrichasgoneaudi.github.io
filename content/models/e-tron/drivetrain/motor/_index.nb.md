@@ -39,7 +39,7 @@ Tabellen nedenfor oppsummerer ytelsen for versjonen
     <figcaption><h4>Ytelse motorkonfigurasjoner Audi e-tron</h4></figcaption>
 </figure>
 
-## Oppsett av drivverksmotor
+## Oppsett av drivlinje
 
 ### Audi e-tron 55 & Audi e-tron 50 motoroppsett
 
@@ -64,7 +64,7 @@ Motorene har en 2-trinns plantaery girdifferensial
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/drivetrain55_50.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/drivetrain55_50s.jpg" alt="e-tron 50/55 drivetrain with electric motors" title="e-tron 50/55 drivetrain with electric motors">
     </a>
-    <figcaption><h4>e-tron 50/55 drivverk med elektriske motorer</h4></figcaption>
+    <figcaption><h4>e-tron 50/55 drivlinje med elektriske motorer</h4></figcaption>
 </figure>
 
 ### Audi e-tron 60S
@@ -107,14 +107,14 @@ Totalt 155 kg.
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/drivetrains.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/drivetrainss.jpg" alt="e-tron s drivetrain with electric motors" title="e-tron s drivetrain with electric motors">
     </a>
-    <figcaption><h4>Audi e-tron S drivverk med elektriske motorer</h4></figcaption>
+    <figcaption><h4>Audi e-tron S drivlinje med elektriske motorer</h4></figcaption>
 </figure>
 
 Denne tekniske animasjonen viser den totale akseldriften som er satt opp i Audi e-tron S.
 
 {{< youtube flR291q-OdA >}}
 
-Animasjon av drivverkkonstruksjonen, dobbelmotoren og kjølevæskekretsen til Audi e-tron S Sportback.
+Animasjon av drivlinjekonstruksjonen, dobbelmotoren og kjølevæskekretsen til Audi e-tron S Sportback.
 
 {{< youtube H_BFX4es66E >}}
 

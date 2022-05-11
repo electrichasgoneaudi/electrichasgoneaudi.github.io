@@ -77,7 +77,7 @@ Komfort førklimatisering er en del av [klima- og vinterpakken](/models/q4-e-tro
 
 ## Varmepumpe
 
-Varmepumpen gjenbruker varme fra drivverket for å varme kupéen effektivt.
+Varmepumpen gjenbruker varme fra drivlinjen for å varme kupéen effektivt.
 
 Dette kan redusere forbruket i kaldt vær og dermed øke rekkevidden. Hvor mye denne hjelpen vil variere med væreto og om bilen har vært forvarmet. Men det er ikke umulig at det kan gi opptil 10% økning av rekkevidden hvis det er kaldt og bilen ikke har vært forvarmet.
 

@@ -42,7 +42,7 @@ Audi A6 e-tron vil være tilgjengelig med S-line eksteriør, sort optikk, sorte 
 
 Audi A6 e-tron vil være tilgjengelig med ulike setealternativer. Fra standardseter, sportsseter og komfortseter. Noen med mulighet for ventilasjon og massasje. Den vil også være tilgjengelig med dyrefritt interiør og helskinninteriør med forskjellige farger. Et s-line interiør vil også være tilgjengelig.
 
-## Drivverk
+## Drivlinje
 
 Audi A6 e-tron er basert på den nye [PPE-plattformen](../../technology/bev-platforms/ppe/) som er laget sammen med Porsche og kommer med både 2-hjulsdrift og quattro-versjoner og med minst to forskjellige batteristørrelser.
 
@@ -65,7 +65,7 @@ Batteriet vil ha en 800-volts arkitektur for høyytelseslading opp til 270KW for
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain.jpgg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrains.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
     </a>
-     <figcaption><h4>Audi A6 e-tron drivverk</h4></figcaption>
+     <figcaption><h4>Audi A6 e-tron drivlinje</h4></figcaption>
 </figur>
 
 Forventningen er at Audi A6 e-tron kommer i ulike versjoner.

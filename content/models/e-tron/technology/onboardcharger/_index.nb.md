@@ -50,9 +50,9 @@ I illustrasjonen under ser du plasseringen av ladeenhetene.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/electricdrivetrain.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/electricdrivetrains.jpg"
-        alt="Elektrisk drivverk med standard og optiell laderplassering" title="Elektrisk drivverk med standard og optiell laderplassering">
+        alt="Elektrisk drivlinje med standard og optiell laderplassering" title="Elektrisk drivlinje med standard og optiell laderplassering">
     </a>
-    <figcaption><h4>Elektrisk drivverk med standard og optiell laderplassering</h4></figcaption>
+    <figcaption><h4>Elektrisk drivlinje med standard og optiell laderplassering</h4></figcaption>
 </figure>
 
 Bare AC-lading går gjennom laderen. For DC-lading er CCS-porten direkte koblet til batteriet.

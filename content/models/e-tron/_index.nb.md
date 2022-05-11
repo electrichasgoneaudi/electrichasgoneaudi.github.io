@@ -24,9 +24,9 @@ Audi e-tron har et bredt utvalg alternativer og avanserte kjøreteknologier. Her
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/drivetrain2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/drivetrain2s.jpg" alt="Audi e-tron drivverk" title="Audi e-tron drivverk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/drivetrain2s.jpg" alt="Audi e-tron drivlinje" title="Audi e-tron drivlinje">
     </a>
-    <figcaption><h4>Audi e-tron drivverk</h4></figcaption>
+    <figcaption><h4>Audi e-tron drivlinje</h4></figcaption>
 </figure>
 
 ## Audi e-tron variants
@@ -44,7 +44,7 @@ Audi e-tron har et bredt spekter av alternativer og avanserte kjøreteknologier.
 
 Nedenfor finner du de forskjellige seksjonene om e-tron.
 
-## Audi e-tron drivverk: batteri og motorer
+## Audi e-tron drivlinje: batteri og motorer
 
 Audi bygde en helt ny drivlinje basert på MLB-Evo-plattformen med støtte for opptil 3 kraftige motorer og et stort batteri på 95kWh. Adaptiv luftfjæring og progressiv styring er standard.
 
@@ -55,7 +55,7 @@ Batteriet er tilgjengelig i to størrelser
 
 For det største batteriet betyr dette en WLTP-rekkevidde mellom 343 km-452 km (213-280) avhengig av utstyrsnivå og versjon.
 
-Les alle detaljer om motorene, batteriet, fjæringen og mer i [Audi e-tron drivverkseksjonen](drivetrain)
+Les alle detaljer om motorene, batteriet, fjæringen og mer i [Audi e-tron drivlinjeseksjonen](drivetrain)
 
 ## Audi e-tron eksteriør
 

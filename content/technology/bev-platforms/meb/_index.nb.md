@@ -12,9 +12,9 @@ de fire ringene
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/meb1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/meb1s.jpg"
-        alt="Modular Electrification Toolkit (MEB) drivverk" title="Modular Electrification Toolkit (MEB) drivverk">
+        alt="Modular Electrification Toolkit (MEB) drivlinje" title="Modular Electrification Toolkit (MEB) drivlinje">
     </a>
-    <figcaption><h4>Modular Electrification Toolkit (MEB) drivverk</h4></figcaption>
+    <figcaption><h4>Modular Electrification Toolkit (MEB) drivlinje</h4></figcaption>
 </figure>
 
 Ved å bruke den konserndekkende MEB-plattformen kan Audi tilby sine kunder rimelig, men teknisk sett

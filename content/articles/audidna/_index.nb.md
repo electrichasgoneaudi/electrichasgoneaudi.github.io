@@ -13,7 +13,7 @@ weight: 99997
     <figcaption><h4>2023 Audi SQ8 e-tron prototype og 2022 Audi e-tron S</h4></figcaption>
 </figur>
 
-Avgjørende i så henseende er et fint integrert samspill mellom de ulike komponentene, enten det er fjæring, styring, drivverk samt bremse- og kontrollsystemer. Driv-DNAet, som kan føles og oppleves i hver Audi, defineres i konseptfasen til hver modell og realiseres deretter gjennom både grunnleggende og endelig finjustering. For å nå sine mål styres Audi-utviklerne av grunnleggende egenskaper som brukes til å karakterisere og vurdere kjøreatferd. Disse er: balansert, solid, kontrollert, nettverksbasert, presis og uanstrengt. Resultatet er kjøreopplevelsen som er typisk for en Audi.
+Avgjørende i så henseende er et fint integrert samspill mellom de ulike komponentene, enten det er fjæring, styring, drivlinje samt bremse- og kontrollsystemer. Driv-DNAet, som kan føles og oppleves i hver Audi, defineres i konseptfasen til hver modell og realiseres deretter gjennom både grunnleggende og endelig finjustering. For å nå sine mål styres Audi-utviklerne av grunnleggende egenskaper som brukes til å karakterisere og vurdere kjøreatferd. Disse er: balansert, solid, kontrollert, nettverksbasert, presis og uanstrengt. Resultatet er kjøreopplevelsen som er typisk for en Audi.
 
 "En Audi-sjåfør må kunne føle at det er en Audi - i form av harmoniske, karakteristiske kjøreegenskaper," sier Oliver Hoffmann, Audis styremedlem for teknisk utvikling. "Genene til Audi-følelsen skal være en umiskjennelig opplevelse for kunden." Det gjelder alle kjøresituasjoner, enten det er i stopp-og-kjør trafikk, akselerasjon vekk fra urbane områder, kjøring på svingete veier, endrede veiforhold eller til og med forbikjøringer. "Derfor er Audi DNA også godt forankret i våre elektrisk drevne modeller," forklarer Hoffmann. "Ved en datamaskin, på verkstedet og fremfor alt i omfattende prøvekjøringer flyter subjektive og objektive vurderingskriterier sammen for å kontinuerlig skjerpe ikke bare Audis kjøreegenskaper, men også hele den tekniske utviklingen."
 
@@ -58,7 +58,7 @@ For eksempel styrer den elektriske quattroen i Audi e-tron S dreiemomentet ved b
 
 ## Konsekvente systemreaksjoner, pålitelig kjørekomfort
 
-Alle kjøretøysystemene som er involvert må reagere konsekvent og pålitelig på de gjeldende kjøreforholdene, uavhengig av veibanens beskaffenhet. Kjørekomfort er et eksempel. Finjustert hjuldemping unngår ubehagelige fenomener som etterrystelse, skjelving eller risting, som er indusert av ujevnheter på veien og ofte forsterket av drivverket og hjulharmoniske svingninger. Sluttresultatet er den typiske Audi-kjørekomforten med kraftig reduserte sekundærvibrasjoner. Føreren kan vanskelig oppfatte inngrep i sidedynamikken; de er på det meste intuitivt forståelige.
+Alle kjøretøysystemene som er involvert må reagere konsekvent og pålitelig på de gjeldende kjøreforholdene, uavhengig av veibanens beskaffenhet. Kjørekomfort er et eksempel. Finjustert hjuldemping unngår ubehagelige fenomener som etterrystelse, skjelving eller risting, som er indusert av ujevnheter på veien og ofte forsterket av drivlinjen og hjulharmoniske svingninger. Sluttresultatet er den typiske Audi-kjørekomforten med kraftig reduserte sekundærvibrasjoner. Føreren kan vanskelig oppfatte inngrep i sidedynamikken; de er på det meste intuitivt forståelige.
 
 ## Enkel bilkontroll, selv ved grensene for grep
 

@@ -33,7 +33,7 @@ Det forventes at Audi Q8 e-tron vil være tilgjengelig i forskjellige varianter 
 
 <br />
 
-## Audi Q8 e-tron drivverk: batteri og motorer
+## Audi Q8 e-tron drivlinje: batteri og motorer
 
 Audi Q8 e-tron er bygget på samme MLB-Evo-plattform som Audi e-tron med støtte for opptil 3 kraftige motorer og et nytt større batteri. Adaptiv luftfjæring og progressiv styring er standard.
 
