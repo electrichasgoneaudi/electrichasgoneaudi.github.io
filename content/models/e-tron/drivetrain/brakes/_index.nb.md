@@ -6,12 +6,13 @@ weight: 7
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-Bremsene aktiveres hydraulisk, armeringen aktiveres elektrisk, og aktiveringen aktiveres elektronisk.
+Bremsene aktiveres hydraulisk, bremseforsterkeren aktiveres elektrisk, og aktiveringen aktiveres elektronisk.
 
 Kontrollenheten registrerer med hvor mye kraft føreren trykker ned bremsepedalen og beregner hvor mye bremsemoment som trengs i løpet av millisekunder.
 
-Hvis gjenvinningsmomentet ikke er tilstrekkelig, genereres hydraulisk trykk for den konvensjonelle friksjonsbremsen i tillegg. Sett i bevegelse av en elektrisk spindeldrift, fortrengningsstemplet skyver bremsevæsken inn i bremserørene. Overgangen fra motorbremsen til den rene friksjonsbremsen er jevn, og føreren merker det ikke.
+Hvis regeneringsmomentet ikke er tilstrekkelig, genereres hydraulisk trykk for den konvensjonelle friksjonsbremsen i tillegg.
+
+Sett i bevegelse av en elektrisk spindelpumpe, fortrengningsstemplet skyver bremsevæsken inn i bremserørene. Overgangen fra motorbremsen til den rene friksjonsbremsen er jevn, og føreren merker det ikke.
 
 Et andre stempel genererer den kjente pedalfølelsen for førerens fot ved hjelp av et trykkbestandig element. Takket være denne bremsepedalsimulatoren, føreren er ikke påvirket av det som skjer i hydraulikken. Ved ABS-bremsing er trykkoppbygging og reduksjon ikke merkbar i form av irriterende harde pulsasjoner.
 
@@ -34,9 +35,11 @@ Ellers ville den elektriske motoren måtte bruke verdifull batteristrøm for å 
 
 ## Regenerering
 
-Gjenopprettingsteknologien i e-tron kan øke rekkevidden betydelig, avhengig av topografi på veier.
+Regeneringsteknologien i e-tron kan øke rekkevidden betydelig, avhengig av topografi på veier.
 
 På e-tron 55 og 50 kan gjenvinningen nå 220kW avhengig av hastighet. På e-tron S kan den nå 275kW. Den kraftigste regeneringen på markedet.
+
+Les vår omfattende artikkel om [regenering](../../../../guides/regen) og [en pedals kjøring](../../../../guides/onepedaldriving/).
 
 Videoen nedenfor viser hvordan systemet fungerer.
 
@@ -44,6 +47,3 @@ Videoen nedenfor viser hvordan systemet fungerer.
 
 {{< youtube ooIO4r585GY >}}
 
-Se også artikkel om [én pedalkjøring](/guides/onepedaldriving/)
-
-{{% children description="true" depth="1" %}}
