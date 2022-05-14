@@ -39,7 +39,7 @@ Regeneringsteknologien i e-tron kan øke rekkevidden betydelig, avhengig av topo
 
 På e-tron 55 og 50 kan gjenvinningen nå 220kW avhengig av hastighet. På e-tron S kan den nå 275kW. Den kraftigste regeneringen på markedet.
 
-Les vår omfattende artikkel om [regenering](../../../../guides/regen) og [en pedals kjøring](../../../../guides/onepedaldriving/).
+For å lære mer om hvor mye som kan regenereres les vår omfattende artikkel om [regenering](../../../../guides/regen) og artikkel om [en pedals kjøring](../../../../guides/onepedaldriving/).
 
 Videoen nedenfor viser hvordan systemet fungerer.
 
