@@ -137,5 +137,14 @@ Using the Audi e-tron Navigation systems has some additional benefits you don't 
 
 Maps are automatically updated through [Audi Connect](/technology/audiconnect/). It requires a valid subscription to Audi Connect.
 
+## Enhance navigation with Smartphone Interface
 
-## Enhance with navigation with Smartphone Interface
+With Smartphone Interface you can add extra navigation support through apps like Waze.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/smartphoneinterface.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/smartphoneinterfaces.jpg"
+        alt="Waze navigation combined with incar navigation" title="Waze navigation combined with incar navigation">
+    </a>
+    <figcaption><h4>Waze navigation combined with incar navigation</h4></figcaption>
+</figure>
