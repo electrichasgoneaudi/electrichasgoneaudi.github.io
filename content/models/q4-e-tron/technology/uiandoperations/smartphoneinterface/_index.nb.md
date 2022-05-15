@@ -20,7 +20,7 @@ Dette gir deg tilgang til mange nyttige apper som Spotify og Waze direkte i MMI.
 Bildet nedenfor viser hvordan Waze advarer brukere om et fotoboks i en Audi e-tron.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/smartphoneinterface/speedcamq4.jpeg">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/smartphoneinterface/speedcamq4.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/smartphoneinterface/speedcamq4s.jpg"
         alt="Android Auto med Waze advarsel om fotboks" title="Android Auto med Waze advarsel om fotboks">
     </a>
