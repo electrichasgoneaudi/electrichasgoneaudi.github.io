@@ -22,12 +22,20 @@ The below image show how Waze warns users about a speed camera in a Audi e-tron.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/smartphoneinterface/speedcamq4.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/smartphoneinterface/speedcamq4s.jpg"
-        alt="Android Auto with Waze warning about speedcam" title="Android Auto with Waze warning about speedcam">
+        alt="Android Auto with Waze warning about speedcam on Audi Q4 e-tron" title="Android Auto with Waze warning about speedcam on Audi Q4 e-tron">
     </a>
-    <figcaption><h4>Android Auto with Waze warning about speedcam</h4></figcaption>
+    <figcaption><h4>Android Auto with Waze warning about speedcam on Audi Q4 e-tron</h4></figcaption>
 </figure>
 
-Android Auto requires you to use cable, but Apple Carplay is supported throug cable and wireless.
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/smartphoneinterface/spotifyq4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/smartphoneinterface/spotifyq4s.jpg"
+        alt="Android Auto with Spotify on Audi Q4 e-tron" title="Android Auto with Spotify on Audi Q4 e-tron">
+    </a>
+    <figcaption><h4>Android Auto with Spotify on Audi Q4 e-tron</h4></figcaption>
+</figure>
+
+Both Android Auto and Apple Carplay is supported throug cable and wireless on Audi Q4 e-tron.
 
 Currently this option is only available as part of the [Infotainment package](/models/q4-e-tron/optionguide/list/#infotainment) with option id **PYX**, the [Infotainment small package](/models/q4-e-tron/optionguide/list/#infotainment) with option id **PY3** and the [MMI Navigation Pro pacakge](/models/q4-e-tron/optionguide/list/#infotainment) with option ID **PYH**
 

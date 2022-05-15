@@ -27,7 +27,16 @@ Bildet nedenfor viser hvordan Waze advarer brukere om et fotoboks i en Audi e-tr
     <figcaption><h4>Android Auto med Waze advarsel om fotboks</h4></figcaption>
 </figure>
 
-Android Auto krever at du bruker kabel, men Apple Carplay støttes via kabel og trådløst.
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/smartphoneinterface/spotifyq4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/smartphoneinterface/spotifyq4s.jpg"
+        alt="Android Auto medSpotify i Audi Q4 e-tron" title="Android Auto medSpotify i Audi Q4 e-tron">
+    </a>
+    <figcaption><h4>Android Auto medSpotify i Audi Q4 e-tron</h4></figcaption>
+</figure>
+
+
+Android Auto og Apple Carplay støttes via kabel og trådløst på Audi Q4 e-tron.
 
 Foreløpig er dette alternativet bare tilgjengelig som en del av [Infotainment-pakken](/models/q4-e-tron/optionguide/list/#infotainment) med alternativ-ID **PYX**, [Infotainment small package](/models/ q4-e-tron/optionguide/list/#infotainment) med alternativ-ID **PY3** og [MMI Navigation Pro-pakken](/models/q4-e-tron/optionguide/list/#infotainment) med alternativ-ID **PYH**
 
