@@ -134,3 +134,15 @@ En melding vil vises hvis MMI beregner en bedre rute for gjeldende ruteveilednin
 - Beregn hva ladenivået vil være på destinasjonen
 - Beregn rekkevidde mer korrekt når destinasjonen er satt basert på informasjon om ruten
 - Informer [Efficient Assistant](/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/) og [Adaptive Cruise Assist](/models/e-tron/technology/drivingassistance/adaptivecruiseassist/) om veien videre slik at den kan redusere hastighet basert på inforlek med en farget stripe – dette lar føreren forstå statusen til den adaptive cruiseassistenten eller den adaptive cruisekontrollen uten å bli distrahert. En rød markering og et varselsymbol vises hvis den adaptive cruiseassistenten ber sjåføren om å bekrefte at de tar hensyn.
+
+
+## Forbedre navigasjonen med smarttelefongrensesnitt
+
+Med smarttelefongrensesnitt kan du legge til ekstra navigasjonsstøtte gjennom apper som Waze.
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/smartphoneinterface.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/smartphoneinterfaces.jpg"
+        alt="Waze navigasjon kombinert med bilens navigasjonssystem" title="Waze navigasjon kombinert med bilens navigasjonssystem">
+    </a>
+    <figcaption><h4>Waze navigasjon kombinert med bilens navigasjonssystem</h4></figcaption>
+</figure>

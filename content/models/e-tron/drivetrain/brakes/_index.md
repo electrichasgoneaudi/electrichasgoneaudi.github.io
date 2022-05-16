@@ -39,12 +39,12 @@ The recuperation technology in e-tron can significantly increase range, dependin
 
 On e-tron 55 and 50 the recuperation can reach 220kW depending on speed. On e-tron S it can reach 275kW. The most powerful recuperation on the marked.
 
-The video below shows how the system works. 
+See also articles on [Regenerative braking](../../../../guides/regen) and [one pedal driving](../../../../guides/onepedaldriving/).
+
+The video below shows how the system works.
 
 {{< youtube 2WPTHi2FUdQ >}}
 
 {{< youtube ooIO4r585GY >}}
 
-See also article on [one pedal driving](/guides/onepedaldriving/)
 
-{{% children description="true" depth="1" %}}
