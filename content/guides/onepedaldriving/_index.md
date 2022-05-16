@@ -39,10 +39,20 @@ If you set it recuperation to automatic it will only recuperate when you are get
 
 ### Audi Q4 e-tron
 
-On Audi Q4 e-tron you can set the car in B-mode with help of the shifter. In B-mode the car will regenerate when lifting the watt pedal.
+On the Audi Q4 e-tron, there are two methods to enable one-pedal-driving
+
+#### Brake mode
+
+On the Audi Q4 e-tron, you can set the car in B-mode (brake) with help of the shifter. In B-mode, the car will regenerate almost max when lifting the watt pedal.
 
 ![Q4 shifters](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/q4shifter.jpg "Gear shifter Audi Q4 with D/B mode")
 
-![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/regenlevelq4.jpg "The green bar to the right of the big D shows the regen level on Q4 when driving i B mode")
+#### Dynamic in D mode with regen level set with paddles
 
-Driving in D-mode and using the brake pedals that automaticly gives regen gives the best effiency. Coast whenever you can.
+The second way to enable one-pedal-driving is by setting the car in D-mode with the shifter and using the Dynamic mode in Drive Select.
+
+This makes it possible to set regen to 0,1,2,3 with paddles and the car will remember it. Opposite to other drive select modes where the regen level is reset to 0 when using the throttle.
+
+![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/regenlevelq4.jpg "The green bars to the right of the D shows the regen level set in dynamic mode in drive select")
+
+Driving in D-mode and using the brake pedals that automatically give regen gives the best efficiency. Coast whenever you can.

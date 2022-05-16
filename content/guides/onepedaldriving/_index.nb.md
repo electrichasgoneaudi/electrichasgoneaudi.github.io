@@ -38,10 +38,20 @@ Hvis du setter regenering til automatisk, vil den bare regenere seg når du nær
 
 ### Audi Q4 e-tron
 
-På Audi Q4 e-tron kan du sette bilen i B-modus ved hjelp av giret. I B-modus vil bilen regenerere når du løfter wattpedalen.
+På Audi Q4 e-tron er det to metoder for å muliggjøre én-pedalkjøring
+
+#### Bremsemodus
+
+På Audi Q4 e-tron kan du sette bilen i B-modus (brems) ved hjelp av giret. I B-modus vil bilen regenerere nesten maks når man løfter wattpedalen.
 
 ![Q4 girskiftere](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/q4shifter.jpg "Girskifter Audi Q4 med D/B-modus")
 
-![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/regenlevelq4.jpg "Den grønne linjen til høyre for den store D viser regennivået på Q4 når du kjører i B-modus")
+#### Dynamisk i D-modus med regennivå satt med padler
+
+Den andre måten å aktivere en-pedalkjøring på er ved å sette bilen i D-modus med girbryteren og bruke dynamisk modus i Drive Select.
+
+Dette gjør det mulig å sette regen til 0,1,2,3 med ratthendler og bilen vil huske det. I motsetning til andre drive select moduser der regennivået tilbakestilles til 0 ved bruk av gasspedalen.
+
+![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/regenlevelq4.jpg "De grønne søylene til høyre for D viser regennivået satt i dynamisk modus i drive select")
 
 Å kjøre i D-modus og bruke bremsepedalene som automatisk gir regen gir best effektivitet. Rull når du kan.
