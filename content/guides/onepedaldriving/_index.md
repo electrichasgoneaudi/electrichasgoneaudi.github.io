@@ -11,7 +11,7 @@ Using regeneration instead of physical brakes can significantly reduce consumpti
 
 For many EVs, this is the only way to regenerate energy and thereby the recommended way to drive that specific EV. But for all-electric Audis, there are more efficient ways to drive.
 
-All-electric Audis have advanced blended brakes that can mix regeneration and physical brakes using the brake pedal, meaning if you use the brake pedal up to 0.3G, you will only regenerate and put energy back in the battery. This is possible with brake-by-wire technology.
+All-electric Audis have advanced blended brakes that can mix regeneration and physical brakes using the brake pedal, meaning if you use the brake pedal, you will only regenerate and put energy back in the battery as long as your reduce speed with less than 0.3G. This is possible with brake-by-wire technology developed by Audi that controlls the use of brakes and regeneration in motors.
 
 Using the brake pedal for braking this way is in most cases slightly more efficient than one-pedal driving. That's why Audi wants their drivers to maximize the efficiency with coasting instead of automatic reducing speed when you lift the foot of the gas pedal.
 
