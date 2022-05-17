@@ -1,21 +1,25 @@
 ---
 title: Hvordan bruke en-pedals-kjøring på elektrisk Audi
-linktitle: En pedal kjøring
-description: Mange mindre avanserte elbiler støtter én pedalkjøring, noe som betyr at når du løfter foten fra gasspedalen, vil den aktivt redusere hastigheten ved hjelp av regenerering.
+linktitle: En pedals kjøring
+description: Én pedals kjøring gjør det mulig for sjåfør å bringe bilen til full stopp uten å bruke bremsepedalen. Dette er også mulig på helelektriske Audier.
 weight: 2
 ---
-På denne måten trenger du aldri å bruke bremsepedalen (du kan hvis det er en nødssituasjon). Det er grunnen til at de kaller det "én-pedal-kjøring"
 
-Audi har ikke gjort det mulig å aktivere én pedalkjøring permanent. Det er litt forskjellig på de forskjellige modellene, men prinsippet Audi
-følgende er de samme.
+På elbiler er dette typisk implementert slik at når sjåføren løfter foten av gasspedalen, vil de elektriske motorene begynne å regenerere og dermed redusere hastigheten på bilen med opptil 0,3G. På denne måten trenger du aldri å bruke bremsepedalen (du kan hvis det er en nødssituasjon). Det er grunnen til at de kaller det "én-pedal-kjøring"
 
-De vil heller at sjåførene deres skal maksimere effektiviteten med rulling i stedet for automatisk å redusere hastigheten når du løfter foten på gasspedalen.
+Bruk av regenerering i stedet for fysiske bremser kan redusere forbruket betydelig siden regenerering putter energi tilbake i batteriet i stedet for å skape varme i de fysiske bremsene.
 
-En pedalskjøring er mindre effektiv siden du mister energi sammenlignet med rulling.
+For mange elbiler er dette den eneste måten å regenerere energi og dermed den anbefalte måten å kjøre den spesifikke elbilen på. Men for helelektriske Audier er det mer effektive måter å kjøre på.
 
-Dette er fordi du bare får ca. 80 % av den kinetiske energien den bevegelige bilen har, tilbake til batteriet, når du gjør restitusjon. (Forutsatt at trafikken og veien tillater kyst)
+Helelektriske Audier har avanserte bremser som kan blande regenerering og fysiske bremser ved hjelp av bremsepedalen, noe som betyr at hvis du bruker bremsepedalen opp til 0,3G, vil du kun regenerere og putte energi tilbake i batteriet. Dette er mulig med brake-by-wire-teknologi.
 
-Du er også tvunget til å ha foten på pedalen i en bestemt posisjon for å rulle for å finne posisjonen når ingen energi går ut av batteriet og ingenting går inn.
+Å bruke bremsepedalen til å bremse på denne måten er i de fleste tilfeller litt mer effektivt enn en-pedalkjøring. Derfor vil Audi at førere av Audi  skal maksimere effektiviteten med rulling i stedet for automatisk hastighetsreduksjon når du løfter foten på gasspedalen.
+
+Dette er fordi du bare får ca. 80 % av den kinetiske energien den bevegelige bilen har, tilbake til batteriet, når du gjør regenering. (Forutsatt at trafikken og veien tillater rulling), og bruk av én-pedal kjøring vil for de fleste sjåfører bety at du vil ende opp med å gjøre mer regenering sammenlignet med å bruke bremsepedalen eller la bilen regenerere automatisk bare når det er nødvendig.
+
+Å bruke enpedalkjøring er også mindre komfortabelt siden du er tvunget til å ha foten på pedalen i en bestemt posisjon for å rulle for å finne posisjonen når det ikke går energi ut eller inn av batteriet.
+
+Audi har gjort det mulig å aktivere én pedalkjøring på deres helelektriske modeller. Det er litt forskjellig på de forskjellige modellene, men prinsippet Audi følger er det samme.
 
 ### Audi e-tron
 
