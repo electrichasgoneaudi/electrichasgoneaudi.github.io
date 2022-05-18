@@ -30,11 +30,11 @@ Audi has made it possible to enable one pedal driving on their all-electric mode
 
 ## Audi e-tron
 
-On Audi e-tron can set recuperation to manual (MMI -> Vehicle -> Efficiency Assistant -> Recuperation)  and then you can every time you start a drive, set recuperation to the max with the steering wheel recuperation paddles, and then it will regenerate every time you lift your foot of the "gas pedal" and works as "one-pedal-driving".
+On the Audi e-tron you can set recuperation to manual (MMI -> Vehicle -> Efficiency Assistant -> Recuperation). Then every time you start a drive, set recuperation to the max with the steering wheel recuperation paddles, and then it will regenerate every time you lift your foot off the “throttle pedal” and works as “one-pedal-driving.”
 
 ![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/recuperationmode.png "Recuperation mode")
 
-With the wheel paddles, you can set the recuperation to 3 different levels. (for more or less braking). High, medium and off.
+You can set the recuperation to 3 different levels with the wheel paddles. (for more or less braking). High, medium, and off.
 
 ![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/paddleleft.png "Left paddle to increase regen.")
 
