@@ -5,13 +5,13 @@ description: One-pedal driving allows a driver to bring a vehicle to a complete 
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
-Onr-pedal driving is implemented on EVs so that when the driver lifts the foot from the throttle pedal, the electric motors will start regenerating to reduce the speed of the car by up to 0.3G. You never need to use the brake pedal (you can if it is an emergency). That is the reason they call it "one-pedal" driving.
+One-pedal driving is implemented on EVs so that when the driver lifts the foot from the throttle pedal, the electric motors will start regenerating to reduce the speed of the car by up to 0.3G. You never need to use the brake pedal (you can if it is an emergency). That is the reason they call it "one-pedal" driving.
 
 Using regeneration instead of physical brakes can significantly reduce consumption since regeneration puts energy back into the battery instead of creating heat in the physical brakes.
 
-For some EVs, this is the only way to regenerate energy and, thereby, the recommended way to drive that specific EV. But for all-electric Audis, there are more efficient ways to do it.
+For some EVs, one-pedal driving is the only way to regenerate energy and, thereby, the recommended way to drive that specific EV. But for all-electric Audis, there are more efficient ways to do it.
 
-All-electric Audis have advanced blended brakes that mix regeneration and physical brakes using the brake pedal. Utilizing the brake pedal, you will only regenerate and put energy back into the battery as long as you reduce speed by less than 0.3G. It is possible with brake-by-wire technology developed by Audi that controls the use of brakes and regeneration in motors.
+All-electric Audis have advanced blended brakes that mix regeneration and physical brakes using the brake pedal. Utilizing the brake pedal, you will regenerate and put energy back into the battery as long as you reduce speed by less than 0.3G. Above that, the system will also use physical brakes. This blending is possible with brake-by-wire technology developed by Audi that controls the use of brakes and regeneration in motors.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/recuperation.png">
