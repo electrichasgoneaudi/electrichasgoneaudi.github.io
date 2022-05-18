@@ -4,7 +4,7 @@ linktitle: En pedals kjøring
 description: Én pedals kjøring gjør det mulig for sjåførem å bringe bilen til full stopp uten å bruke bremsepedalen. Dette er også mulig på helelektriske Audier.
 weight: 2
 ---
-
+<!-- markdownlint-disable MD033 -->
 På elbiler er dette typisk implementert slik at når sjåføren løfter foten av gasspedalen, vil de elektriske motorene begynne å regenerere og dermed redusere hastigheten på bilen med opptil 0,3G. På denne måten trenger du aldri å bruke bremsepedalen (du kan hvis det er en nødssituasjon). Det er grunnen til at de kaller det "én-pedal-kjøring"
 
 Bruk av regenerering i stedet for fysiske bremser kan redusere forbruket betydelig siden regenerering putter energi tilbake i batteriet i stedet for å skape varme i de fysiske bremsene.
@@ -12,6 +12,13 @@ Bruk av regenerering i stedet for fysiske bremser kan redusere forbruket betydel
 For mange elbiler er dette den eneste måten å regenerere energi og dermed den anbefalte måten å kjøre den spesifikke elbilen på. Men for helelektriske Audier er det mer effektive måter å kjøre på.
 
 Helelektriske Audier har avanserte bremser som kan blande regenerering og fysiske bremser ved hjelp av bremsepedalen, noe som betyr at hvis du bruker bremsepedalen, vil du kun regenerere og putte energi tilbake i batteriet så lenge reduksjonen av hastighet er mindre enn 0.3G. Dette er mulig med brake-by-wire-teknologi utviklet av Audi som kontrollerer bremsene og regeneringen i motorne.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/recuperation.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/recuperations.png" alt="Kinetisk energi omdannes til energi i batteriet ved regenerering" title="Kinetisk energi omdannes til energi i batteriet ved regenerering">
+    </a>
+    <figcaption><h4>Kinetisk energi omdannes til energi i batteriet ved regenerering</h4></figcaption>
+</figure>
 
 Å bruke bremsepedalen til å bremse på denne måten er i de fleste tilfeller litt mer effektivt enn en-pedalkjøring. Derfor vil Audi at førere av Audi  skal maksimere effektiviteten med rulling i stedet for automatisk hastighetsreduksjon når du løfter foten på gasspedalen.
 
