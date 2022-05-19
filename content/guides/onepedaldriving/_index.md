@@ -65,12 +65,14 @@ In B-mode, the car will regenerate almost maximum level available. (depends on c
 
 The second way to enable one-pedal-driving is by setting the car in D-mode with the shifter and using the Dynamic mode in Drive Select.
 
-This makes it possible to set regen to 0,1,2,3 with paddles and the car will remember it. Opposite to other drive select modes where the regen level is reset to 0 when using the throttle.
+![B-mode](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/q4paddelss.jpg "B-mode - Car regenerates when foot is removed from throttle pedal")
 
-![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/regenlevelq4.jpg "The green bars to the right of the D shows the regen level set in dynamic mode in drive select")
+This makes it possible to set regen to 0,1,2,3 with paddles, and the car will remember it. Opposite to other drive select modes where the regen level is reset to 0 when using the throttle.
+
+![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/regenlevelq4.jpg "The green bars to the right of the D show the regen level set in dynamic mode in drive select.")
 
 Driving in D-mode and using the brake pedals that automatically give regen gives the best efficiency. Coast whenever you can.
 
 ## Audi e-tron GT
 
-On Audi e-tron GT this is the exact way as Audi e-tron.
+On Audi e-tron GT, this is the exact way as Audi e-tron.
