@@ -65,7 +65,7 @@ In B-mode, the car will regenerate almost maximum level available. (depends on c
 
 The second way to enable one-pedal-driving is by setting the car in D-mode with the shifter and using the Dynamic mode in Drive Select.
 
-![B-mode](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/q4paddelss.jpg "B-mode - Car regenerates when foot is removed from throttle pedal")
+![B-mode](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/q4paddelss.jpg "Regen paddle on steering wheel")
 
 This makes it possible to set regen to 0,1,2,3 with paddles, and the car will remember it. Opposite to other drive select modes where the regen level is reset to 0 when using the throttle.
 
