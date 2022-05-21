@@ -43,8 +43,8 @@ Audi A6 e-tron concept is currently the model with the lowest [drag coefficient]
 In the below graph you see how much consumption the aerodynamic drag causes for the different model series for Audi.
 
 <figure>
-    <a href="aerodynamicdrag.png">
-        <img src="aerodynamicdrags.png" alt="Consumption caused by aerodynamic dra" title="Consumption caused by aerodynamic dra">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/https://media.electrichasgoneaudi.net/multimedia/guides/understandingrangeaerodynamicdrag.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/aerodynamicdrags.png" alt="Consumption caused by aerodynamic dra" title="Consumption caused by aerodynamic dra">
     </a>
     <figcaption><h4>Forbruk grunnet luftmotstand</h4></figcaption>
 </figure>

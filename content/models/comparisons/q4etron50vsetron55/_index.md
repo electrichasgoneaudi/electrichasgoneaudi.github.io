@@ -1,11 +1,35 @@
 ---
 title: Q4 e-tron 50 quattro vs e-tron 55 quattro 
 linktitle: Q4 e-tron vs e-tron
-description: Here you find a detailed comparison between Audi Q4 e-tron 50 Quattro and Audi e-tron 55.
+description: Here you find a detailed comparison between the Audi Q4 e-tron 50 Quattro and the Audi e-tron 55.
 weight: 1
 ---
 
-For many buyers this is a real dilemma.  We will try help you choose.
+Even though these models are in different categories, the price can be in the same range depending on the equipment. In addition, people might be willing to increase/reduce their budget depending on the value of money and features.
+
+That's why we in this article will go into the difference between the Audi e-tron 55 and the Audi Q4 e-tron 55
+
+## Introduction
+
+Audi e-tron 55 was Audi's first all-electric model, and it is based on the [MLB-Evo](../../../technology/bev-platforms/mlb-evo/) platform. Traditional models also use that. It was first presented in 2018.  
+
+The Audi Q4 e-tron 50 was presented in 2021 and is based on a dedicated EV platform called [MEB](../../../technology/bev-platforms/meb/). This platform was created by Volkswagen and used by several models.
+
+## Consumption
+
+According to the specification, the consumption is 25% higher on Audi e-tron 55 compared to Audi 40 e-tron 50. In reality, you can see up to 35% difference in consumption. The main reasons for this are smaller tires on the Q4 e-tron 50, more efficient motors, less weight, and a smaller size that causes less aerodynamical drag.
+
+## Range
+
+
+
+## Performance
+
+## Size 
+
+
+## Cargo capacity
+
 
 ### Spec comparison
 
