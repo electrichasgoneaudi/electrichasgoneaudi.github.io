@@ -10,12 +10,12 @@ Even though these models are in different categories, the price can be in the sa
 That's why we in this article will go into the difference between the Audi e-tron 55 and the Audi Q4 e-tron 55
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrangeaerodynamicdrag.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/aerodynamicdrags.png" alt="Consumption caused by aerodynamic dra" title="Consumption caused by aerodynamic dra">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/etronvsq4_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/etronvsq4_1s.jpg"
+        alt="Audi e-tron 55 and Audi Q4 e-tron 55" title="Audi e-tron 55 and Audi Q4 e-tron 55">
     </a>
-    <figcaption><h4>Forbruk grunnet luftmotstand</h4></figcaption>
+    <figcaption><h4>Audi e-tron 55 and Audi Q4 e-tron 55</h4></figcaption>
 </figure>
-
 
 ## Introduction
 
