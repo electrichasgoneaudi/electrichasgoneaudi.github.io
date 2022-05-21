@@ -61,8 +61,12 @@ På Audi Q4 e-tron kan du sette bilen i B-modus (brems) ved hjelp av giret. I B-
 
 Den andre måten å aktivere en-pedalkjøring på er ved å sette bilen i D-modus med girbryteren og bruke dynamisk modus i Drive Select.
 
+![B-mode](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/q4paddelss.jpg "Ratthendler")
+
 Dette gjør det mulig å sette regen til 0,1,2,3 med ratthendler og bilen vil huske det. I motsetning til andre drive select moduser der regennivået tilbakestilles til 0 ved bruk av gasspedalen.
 
 ![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/regenlevelq4.jpg "De grønne søylene til høyre for D viser regennivået satt i dynamisk modus i drive select")
 
 Å kjøre i D-modus og bruke bremsepedalene som automatisk gir regen gir best effektivitet. Rull når du kan.
+
+

@@ -15,14 +15,14 @@ All-electric Audis have advanced blended brakes that mix regeneration and physic
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/recuperation.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/recuperations.png" alt="Kinetic energy is converted to energy in the battery with regeneration" title="Kinetic energy is converted to energy in the battery with regeneration">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/recuperations.png" alt="Kinetic energy is converted to electric energy in the battery with regeneration." title="Kinetic energy is converted to electric energy in the battery with regeneration.">
     </a>
-    <figcaption><h4>Kinetic energy is converted to energy in the battery with regeneration</h4></figcaption>
+    <figcaption><h4>Kinetic energy is converted to electric energy in the battery with regeneration.</h4></figcaption>
 </figure>
 
 Using the brake pedal for braking this way is, in most cases, slightly more efficient than one-pedal driving. That's why Audi wants their drivers to maximize the efficiency with coasting instead of automatic, reducing speed when you lift the foot of the throttle pedal.
 
-One-pedal driving is not recommended because you only get approximately 80% of the kinetic energy the moving car has back to the battery when doing recuperation. (Assuming the traffic and road allow to coast), and using one-pedal driving will, for most drivers, mean you will end up doing more recuperation compared to using the brake pedal or letting the car automatically regenerate only when needed.
+From an efficiency perspective, you should not use one-pedal driving. You only get approximately 80% of the kinetic energy the moving car has back to the battery when doing recuperation. (Assuming the traffic and road allow to coast), and using one-pedal driving will, for most drivers, mean you will end up doing more recuperation compared to using the brake pedal or letting the car automatically regenerate only when needed.
 
 Using one-pedal driving is also less comfortable since you need to have the foot on the pedal at a specific position to freeroll/coast to find the perfect position when no energy is going out of the battery and nothing is going in.
 
@@ -36,16 +36,15 @@ On the Audi e-tron you can set recuperation to manual (MMI -> Vehicle -> Efficie
 
 You can set the recuperation to 3 different levels with the wheel paddles. (for more or less braking). High, medium, and off.
 
-![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/paddleleft.png "Left paddle to increase regen.")
+![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/paddleleft.png "Left paddle to reduce regen.")
 
-![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/paddleright.png "Right paddle to reduce regen.")
+![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/paddleright.png "Right paddle to increase regen.")
 
 ![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/regenlevel.png "This shows how the regen is on 50% on max.")
 
-This is not recommended for experienced drivers. If you learn to coast you will get the best comfort and the best range.
-Next time it will be reset back. For drivers coming from other EV's, this might be the way to unlearn the bad habit.
+### Recommended settings for best efficiency on Audi e-tron
 
-If you set it recuperation to automatic it will only recuperate when you are getting close to other cars or you are close to an intersection or other reasons you need to slow down.  Otherwise, it will coast and save the maximum amount of energy as long you don't press the accelerator.
+If you set its recuperation to automatic, it will only recuperate when you are getting close to other cars or an intersection or need to slow down for different reasons. Otherwise, it will coast and save the maximum amount of energy as long you don’t press the accelerator.
 
 ## Audi Q4 e-tron
 
@@ -53,13 +52,13 @@ On the Audi Q4 e-tron, there are two methods to enable one-pedal-driving
 
 ### Brake mode
 
-On the Audi Q4 e-tron, you can set the car in B-mode (brake) with help of the shifter. 
+On the Audi Q4 e-tron, you can set the car in B-mode (brake) with the help of the shifter.
 
 ![Q4 shifters](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/q4shifter.jpg "Gear shifter Audi Q4 with D/B mode")
 
-In B-mode, the car will regenerate almost maximum level available. (depends on charge level and temprature)
+In B-mode, the car will regenerate at almost the maximum level available. (depends on charge level and temperature)
 
-![B-mode](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/bmode.jpg "B-mode - Car regenerates when foot is removed from throttle pedal")
+![B-mode](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/bmode.jpg "B-mode - when you remove the foot from the throttle pedal, the car regenerates")
 
 ### Dynamic in D mode with regen level set with paddles
 
@@ -67,12 +66,26 @@ The second way to enable one-pedal-driving is by setting the car in D-mode with 
 
 ![B-mode](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/q4paddelss.jpg "Regen paddle on steering wheel")
 
-This makes it possible to set regen to 0,1,2,3 with paddles, and the car will remember it. Opposite to other drive select modes where the regen level is reset to 0 when using the throttle.
+It is possible to set regen to 0,1,2,3 with paddles, and the car will remember it. Opposite to other drive select modes where the regen level is reset to 0 when using the throttle.
 
 ![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/regenlevelq4.jpg "The green bars to the right of the D show the regen level set in dynamic mode in drive select.")
+
+### Recommended settings for best efficiency on Audi Q4 e-tron
 
 Driving in D-mode and using the brake pedals that automatically give regen gives the best efficiency. Coast whenever you can.
 
 ## Audi e-tron GT
 
-On Audi e-tron GT, this is the exact way as Audi e-tron.
+On the Audi e-tron GT you can set recuperation to manual (MMI -> Vehicle -> Efficiency Assistant -> Recuperation). Then every time you start a drive, set recuperation to the max with the steering wheel recuperation paddles, and then it will regenerate every time you lift your foot off the “throttle pedal” and works as “one-pedal-driving.”
+
+![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/recuperationmode.png "Recuperation mode")
+
+You can set the recuperation to 3 different levels with the wheel paddles. (for more or less braking). High, medium, and off.
+
+![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/paddlegts.jpg "Right paddle to increase regen.")
+
+![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/regenlevel.png "This shows how the regen is on 50% on max.")
+
+### Recommended settings for best efficiency on Audi e-tron GT
+
+If you set its recuperation to automatic, it will only recuperate when you are getting close to other cars or an intersection or need to slow down for different reasons. Otherwise, it will coast and save the maximum amount of energy as long you don’t press the accelerator.
