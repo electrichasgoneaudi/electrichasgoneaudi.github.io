@@ -20,9 +20,9 @@ All-electric Audis have advanced blended brakes that mix regeneration and physic
     <figcaption><h4>Kinetic energy is converted to electric energy in the battery with regeneration.</h4></figcaption>
 </figure>
 
-Using the brake pedal for braking this way is, in most cases, slightly more efficient than one-pedal driving. That's why Audi wants their drivers to maximize the efficiency with coasting instead of automatic, reducing speed when you lift the foot of the throttle pedal.
+From an efficiency perspective, you should not use one-pedal driving. You only get approximately 80% of the kinetic energy the moving car has back to the battery when doing recuperation. Using one-pedal driving will, for most drivers, mean you will end up doing more recuperation compared to using the brake pedal or letting the car automatically regenerate only when needed.
 
-From an efficiency perspective, you should not use one-pedal driving. You only get approximately 80% of the kinetic energy the moving car has back to the battery when doing recuperation. (Assuming the traffic and road allow to coast), and using one-pedal driving will, for most drivers, mean you will end up doing more recuperation compared to using the brake pedal or letting the car automatically regenerate only when needed.
+That's why Audi wants their drivers to maximize the efficiency with coasting instead of automatic, reducing speed when you lift the foot of the throttle pedal.
 
 Using one-pedal driving is also less comfortable since you need to have the foot on the pedal at a specific position to freeroll/coast to find the perfect position when no energy is going out of the battery and nothing is going in.
 
