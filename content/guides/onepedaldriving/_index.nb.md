@@ -7,7 +7,7 @@ weight: 2
 <!-- markdownlint-disable MD033 -->
 Enpedalkjøring er implementert på elbiler slik at når sjåføren løfter foten fra gasspedalen, vil de elektriske motorene begynne å regenerere for å redusere hastigheten på bilen med opptil 0,3G. Du trenger aldri å bruke bremsepedalen (du kan hvis det er en nødssituasjon). Det er grunnen til at de kaller det «én-pedal»-kjøring.
 
-Bruk av regenerering i stedet for fysiske bremser kan redusere forbruket betydelig siden regenerering setter energi tilbake i batteriet i stedet for å skape varme i de fysiske bremsene.
+Bruk av regenerering i stedet for fysiske bremser kan [redusere forbruket betydelig](../regen/) siden regenerering setter energi tilbake i batteriet i stedet for å skape varme i de fysiske bremsene.
 
 For noen elbiler er kjøring med én pedal den eneste måten å regenerere energi på, og dermed den anbefalte måten å kjøre den spesifikke elbilen på. Men for helelektriske Audier er det mer effektive måter å gjøre det på.
 

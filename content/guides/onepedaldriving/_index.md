@@ -7,7 +7,7 @@ weight: 2
 <!-- markdownlint-disable MD033 -->
 One-pedal driving is implemented on EVs so that when the driver lifts the foot from the throttle pedal, the electric motors will start regenerating to reduce the speed of the car by up to 0.3G. You never need to use the brake pedal (you can if it is an emergency). That is the reason they call it "one-pedal" driving.
 
-Using regeneration instead of physical brakes can significantly reduce consumption since regeneration puts energy back into the battery instead of creating heat in the physical brakes.
+Using regeneration instead of physical brakes can [significantly reduce consumption](../regen/) since regeneration puts energy back into the battery instead of creating heat in the physical brakes.
 
 For some EVs, one-pedal driving is the only way to regenerate energy and, thereby, the recommended way to drive that specific EV. But for all-electric Audis, there are more efficient ways to do it.
 
