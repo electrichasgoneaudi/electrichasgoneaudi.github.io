@@ -4,10 +4,18 @@ linktitle: Q4 e-tron vs e-tron
 description: Here you find a detailed comparison between the Audi Q4 e-tron 50 Quattro and the Audi e-tron 55.
 weight: 1
 ---
-
+<!-- markdownlint-disable MD033 -->
 Even though these models are in different categories, the price can be in the same range depending on the equipment. In addition, people might be willing to increase/reduce their budget depending on the value of money and features.
 
 That's why we in this article will go into the difference between the Audi e-tron 55 and the Audi Q4 e-tron 55
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrangeaerodynamicdrag.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/aerodynamicdrags.png" alt="Consumption caused by aerodynamic dra" title="Consumption caused by aerodynamic dra">
+    </a>
+    <figcaption><h4>Forbruk grunnet luftmotstand</h4></figcaption>
+</figure>
+
 
 ## Introduction
 
