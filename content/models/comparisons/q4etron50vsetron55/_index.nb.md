@@ -74,7 +74,7 @@ Både Audi e-tron 55 og Audi Q4 e-tron er tilgjengelig med ulike standardfarger,
 
 Audi exclusive farger er tilgjengelige på Audi e-tron. Men det kommer til en kostnad og sannsynligvis ikke noe som vil være en avgjørende faktor.
 
-## Interior
+## Interiør
 
 Det er en mer betydelig forskjell for interiøret. Begge modellene er tilgjengelige med standard og s sportsseter.
 
@@ -83,7 +83,7 @@ Audi e-tron har i tillegg sportsseter og individuelle konturseter.
 Individuelle konturseter er tilgjengelige med massasje og ventilasjon.
 Begge har muligheter for et S-line interiør og flerfarget ambient belysning.
 
-Audi e-tron har også interiørdesignalternativer som et dashbord i skinn og glassknapper.
+Audi e-tron har også interiørdesignalternativer som et dashbord i skinn og glassknapper. Den kan også bestilles med Audi exclusive interiør.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_8.jpg">
