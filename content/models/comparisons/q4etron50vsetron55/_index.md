@@ -297,8 +297,8 @@ Below you see the full specification and options comparison of the models.
 | Homelink garage door opener | option | option |
 | Audi phone box | option | option |
 | Ventilated seats | N/A | option |
-| Massage seats | N/A | option |
-| Powered steering wheel adjustment | N/A | option |
+| Massage seats | N/A | [option](../../e-tron/interior/seats/#massage) |
+| Powered steering wheel adjustment | N/A | [option](../../e-tron/interior/steeringwheels/#adjustment) |
 | Powered tailgate | [option](../../e-tron/exterior/doors/) | [standard](../../e-tron/exterior/doors/) |
 | KeyLess Go | [standard](../../q4-e-tron/technology/lockingsystems/) | [standard](../../e-tron/technology/lockingsystems/) |
 | Keyless Entry | [option](../../q4-e-tron/technology/lockingsystems/) | [option](../../e-tron/technology/lockingsystems/) |
@@ -308,11 +308,11 @@ Below you see the full specification and options comparison of the models.
 | Air quality package | N/A | [option](../../e-tron/technology/airquality/) |
 | Standard colors  |  8  |  14  |
 | Audi exclusive colors | N/A | option |
-| Black optics    | option | option |
-| Tinted windows  | option | option |
-| S-line exterior | option | [option](../../e-tron/exterior/s-line/) |
-| S-line interior | option | [option](../../e-tron/interior/sline/) |
-| Premium Sound system | Sonos | Bang & Olufsen |
+| Black optics    | [option](../../q4-e-tron/exterior/optics/) | [option](../../e-tron/exterior/optics/) |
+| Privacy windows  | [option](../../q4-e-tron/exterior/windows/) | [option](../../e-tron/exterior/windows/) |
+| S-line exterior | [option](../../e-tron/exterior/s-line) | [option](../../e-tron/exterior/s-line/) |
+| S-line interior | [option](../../e-tron/interior/sline/) | [option](../../e-tron/interior/sline/) |
+| Premium Sound system | [Sonos](../../q4-e-tron/technology/soundsystem/) | [Bang & Olufsen](../../e-tron/technology/soundsystem/) |
 
 ### Dimension comparison
 <!-- markdownlint-disable MD033 -->
