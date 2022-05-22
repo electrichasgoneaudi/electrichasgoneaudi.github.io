@@ -38,7 +38,15 @@ In the real world, depending on weather and driving style, the range on the Audi
 
 ## Performance
 
-The Audi e-tron 55 has 408 hp, and the Audi Q4 e-tron has 299 hp. For Q4 e-tron 50, the full power is only available when fully charged and above 23 degrees, while the full power is available in much larger areas for the e-tron. Since the weight I lower on the Q4 e-tron, the difference feels smaller and is probably small enough not to make it the deciding factor between the models.
+The Audi e-tron 55 has 408 hp, and the Audi Q4 e-tron has 299 hp. For the Q4 e-tron 50 quattro, the full power is only available when fully charged and above 23 degrees, while the full power is available in much larger areas for the Audi e-tron. However, since the weight is lower on the Q4 e-tron, the difference feels smaller and is probably small enough not to make it the deciding factor between the models for many.
+
+## Suspension
+
+[Adaptive air suspension](../../e-tron/drivetrain/suspension/) with electronic damping control is standard equipment on the Audi e-tron. Depending on the speed and the driver’s preferences, it individually adjusts the ride height according to the road conditions. The air suspension also offers level control as a function of load.
+
+Aud Q4 e-tron is only available with standard suspension.
+
+For many, this is a deciding factor.
 
 ## Size
 
@@ -105,11 +113,17 @@ For some, the physical buttons for the AC on Q4 are an advantage.
     <figcaption><h4>One screen Audi MMI touch on Audi Q4 e-tron</h4></figcaption>
 </figure>
 
+Audi Q4 e-tron 50 quattro have an option for Sonos sound system. Audi e-tron have an option for Bang & Olufsen. The Bang & Olufsen is a better sound system but probably not so much better that someone would choose model just based on this factor. 
+
 ## Lights
 
 HD matrix is an option on both models. In addition, Q4 has some fabulous new daylight driving lights as an option where drivers can select a different design. For e-tron Digital HD Matrix also is available. 
 
 We don't believe that exterior lights will be a deciding factor for many.
+
+## Noise insulation
+
+The Audi e-tron 55 has better noise insulation. Road noise is better damped on e-tron. This is one of the reason e-tron is much heavier. 
 
 ## Standard equipment
 
@@ -117,7 +131,7 @@ Audi Q4 e-tron 50 has a lower starting price.
 
 Much of this difference is because of standard equipment on the e-tron and not on Q4.
 
-The following equipment is standard on the e-tron 55 but options on the Q4 e-tron 50 quattro
+The following equipment is standard on the e-tron 55, but options on the Q4 e-tron 50 quattro
 
 - [e-tron rear light strip](../../q4-e-tron/technology/lights/#striking-taillight-signature-the-light-strip-at-the-rear)
 - [MMI navigation](../../q4-e-tron/technology/uiandoperations/navigation/)
@@ -134,7 +148,7 @@ In some markets, the base models are not available, and the list with standard e
 
 ## Available options
 
-Most of the options are available on both models, but some are only available on the e-tron. These are:
+Most options are available on both models, but some are only available on the e-tron. These are:
 
 - [Individual Contour seats](../../e-tron/interior/seats/#individual-contour-seats)
 - [Ventilated seats](../../e-tron/interior/seats/#ventilated-seats)
@@ -225,16 +239,17 @@ Below you see the full specification and options comparison of the models.
 | Number of wheels |  |  11 |
 | TPMS  | Indirect | Indirect (direct option)|
 | Tire repair set | option | standard |
-| Virtual Cockpit | option  | standard |
+| Virtual Cockpit | [option](../../q4-e-tron/technology/uiandoperations/virtualcockpit/)  | [standard](../../e-tron/technology/uiandoperations/virtualcockpit/) |
 | Virtual Cockpit screensize | 10.25"  | 12.3" |
 | Virtual Cockpit resolution |  1,440 x 540 | 1,920 x 720  |
-| Audi MMI System | MMI touch | MMI Touch Response  |
-| MMI Navigation Plus | option | standard |
+| Virtual Cockpit plus | [option](../../q4-e-tron/technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus) | [option](../../e-tron/technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus) |
+| Audi MMI System | [MMI touch](../../q4-e-tron/technology/uiandoperations/mmi/) | [MMI Touch Response](../../e-tron/technology/uiandoperations/mmi/)  |
+| MMI Navigation Plus | [option](../../q4-e-tron/technology/uiandoperations/navigation/) | [standard](../../e-tron/technology/uiandoperations/navigation/) |
 | MMI main screen size | 10.1" (11.6" option) | 10.1" |
 | MMI main screen resolution | 1540 x 720 (1,764 x 824 option) | 1540 x 720  |
 | MMI secondary screen size | N/A |8.6" |
 | MMI secondary screen resolution | N/A | 1,280 x 660|
-| Audi Smartphone Interface | option | option |
+| Audi Smartphone Interface | option | [option](../../e-tron/technology/uiandoperations/smartphoneinterface/) |
 | Adaptive whipers | N/A | option |
 | Heated front window | option | N/A |
 | Heated steering wheel | option | option |
