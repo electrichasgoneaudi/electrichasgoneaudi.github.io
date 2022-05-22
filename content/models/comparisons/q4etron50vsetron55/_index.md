@@ -55,9 +55,9 @@ The Audi e-tron is 313 mm longer and 81 mm wider than Q4. The smaller size makes
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/parkingspace.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/parkingspaces.jpg"
-        alt="A typical view for Audi e-tron. Completly filling up parking spaces." title="A typical view for Audi e-tron. Completly filling up parking spaces.">
+        alt="A typical scenario. Audi e-tron is filling a parking space." title="A typical scenario. Audi e-tron is filling a parking space.">
     </a>
-    <figcaption><h4>A typical view for Audi e-tron. Completly filling up parking spaces.</h4></figcaption>
+    <figcaption><h4>A typical scenario. Audi e-tron is filling a parking space.</h4></figcaption>
 </figure>
 
 The size difference can be a deciding argument for Q4 for many people.
@@ -93,6 +93,8 @@ Audi e-tron also has interior styling options like a full leather dashboard and 
     <figcaption><h4>Individual contour seats in Audi e-tron</h4></figcaption>
 </figure>
 
+In addition, the quality of the materials used in the Audi e-tron is more premium, giving it a more luxurious feeling.
+
 ## Driving assistance
 
 Both models are available with almost the same driver-assist systems. However, there is a difference in what is standard. Night vision is only available on the Audi e-tron.
@@ -101,7 +103,7 @@ Both models are available with almost the same driver-assist systems. However, t
 
 For infotainment, there are some differences. Virtual Cockpit and MMI Navigation are standard on the Audi e-tron, while this is an option on the Q4. The MMI system is also different. On the Audi e-tron, there are two screens, while Q4 has only one screen in the center console.
 
-Just one screen has some drawbacks since you lose some functionality available on the second screen and other functionality needs to be put on one screen instead of two, like the navigation search.
+Just one screen has some drawbacks since you lose some functionality available on the second screen and other functionality needs to only use the area on the first screen, like the navigation search.
 
 For some, the physical buttons for the AC on Q4 are an advantage.
 
@@ -142,7 +144,7 @@ The following equipment is standard on the e-tron 55, but options on the Q4 e-tr
 - [Headlight washer](../../q4-e-tron/technology/lights/)
 - [Powered tailgate](../../q4-e-tron/exterior/doors/#powered-tailgate)
 - [Drive select](../../q4-e-tron/technology/audidriveselect/)
-- Adaptive air suspension (not available on the Q4)
+- Adaptive air suspension (not available on the Audi Q4)
 
 In some markets, the base models are not available, and the list with standard equipment in that market can include more on both models.
 
@@ -203,7 +205,6 @@ With the possibility of individual contour seats with massage and ventilation, a
 
 Below you see the full specification and options comparison of the models.
 
-
 |     | **Q4 e-tron 50 quattro** | **e-tron 55 quattro** |
 | ----------- | ----------- |----------- |
 | Peak electrical output in KW (hp) | 195(265) | 265(360) |
@@ -238,7 +239,7 @@ Below you see the full specification and options comparison of the models.
 | Standard wheels rear | 255/50-R19 | 255/55-R19 |
 | Optional wheels front | 235/50-R20, 235/45-R21 | 255/55-R20, 265/45-R21, 265/40-R22 |
 | Optional wheels rear | 255/45-R20,255/40-R21 | 255/55-R20, 265/45-R21, 265/40-R22  |
-| Number of wheels |  |  11 |
+| Number of wheels | 10 |  11 |
 | TPMS  | Indirect | [Indirect (direct option)](../../e-tron/technology/tpms/)|
 | Tire repair set | option | standard |
 | Virtual Cockpit | [option](../../q4-e-tron/technology/uiandoperations/virtualcockpit/)  | [standard](../../e-tron/technology/uiandoperations/virtualcockpit/) |
@@ -251,48 +252,48 @@ Below you see the full specification and options comparison of the models.
 | MMI main screen resolution | 1540 x 720 (1,764 x 824 option) | 1540 x 720  |
 | MMI secondary screen size | N/A |8.6" |
 | MMI secondary screen resolution | N/A | 1,280 x 660|
-| Audi Smartphone Interface | option | [option](../../e-tron/technology/uiandoperations/smartphoneinterface/) |
-| Adaptive whipers | N/A | option |
-| Heated front window | option | N/A |
-| Heated steering wheel | option | option |
-| Heated front seats | option | option |
-| Heated rear seats | N/A | option |
-| Air Condition | standard | standard |
+| Audi Smartphone Interface | [option](../../q4-e-tron/technology/uiandoperations/smartphoneinterface/) | [option](../../e-tron/technology/uiandoperations/smartphoneinterface/) |
+| Adaptive whipers | N/A | [option](../../e-tron/technology/wipers/) |
+| Heated front window | [option](../../q4-e-tron/exterior/windows/#heated-and-acoustic-front-window) | N/A |
+| Heated steering wheel | [option](../../q4-e-tron/interior/steeringwheels/) | [option](../../e-tron/interior/steeringwheels/) |
+| Heated front seats | [option](../../q4-e-tron/interior/seats/) | [option](../../e-tron/interior/seats/) |
+| Heated rear seats | N/A | [option](../../e-tron/interior/seats/) |
+| Air Condition | [standard](../../q4-e-tron/technology/climatecontrol/) | [standard](../../e-tron/technology/climatecontrol/) |
 | A/C zones | 1 (3 optional(WNW/PYC)) | 2 (4 optional) |
-| Heatpump | option | standard |
+| Heatpump | [option](../../q4-e-tron/technology/climatecontrol/) | [standard](../../e-tron/technology/climatecontrol/) |
 | Rear window curtains | N/A | option |
-| Cruise control | option | standard |
+| Cruise control | [option](../../q4-e-tron/technology/drivingassistance/cruisecontrol/) | [standard](../../e-tron/technology/drivingassistance/cruisecontrol/) |
 | Active Lane assist | [standard](../../q4-e-tron/technology/drivingassistance/activelaneassist/) | [standard](../../e-tron/technology/drivingassistance/activelaneassist/) |
 | Adaptive cruise assist | [option](../../e-tron/technology/drivingassistance/adaptivecruiseassist/) | [option](../../e-tron/technology/drivingassistance/adaptivecruiseassist/) |
-| Adaptive Cruise control with speed limiter | option | option |
-| Pre Sense Basic | option | standard |
-| Pre Sense front | standard | standard |
-| Pre Sense rear | option | option |
-| Pre Sense side | N/A | option |
-| Effiency assist | standard | standard |
-| Distance warning | standard | standard |
+| Adaptive Cruise control with speed limiter | [option](../../q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/) | [option](../../e-tron/technology/drivingassistance/adaptivecruisecontrol/) |
+| Pre Sense Basic | [option](../../q4-e-tron/technology/drivingassistance/presensebasic/) | [standard](../../e-tron/technology/drivingassistance/presensebasic/) |
+| Pre Sense front | [standard](../../q4-e-tron/technology/drivingassistance/presensefront/) | [standard](../../q4-e-tron/technology/drivingassistance/presensefront/) |
+| Pre Sense rear | [option](../../q4-e-tron/technology/drivingassistance/presenserear/) | [option](../../e-tron/technology/drivingassistance/presenserear/) |
+| Pre Sense side | N/A | [option](../../e-tron/technology/drivingassistance/presenseside/) |
+| Effiency assist | [standard](../../q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/) | [standard](../../e-tron/technology/drivingassistance/predictiveefficiencyassist/) |
+| Distance warning | [standard](../../q4-e-tron/technology/drivingassistance/distancewarning/) | [standard](../../e-tron/technology/drivingassistance/distancewarning/) |
 | Night Vision | N/A | [option](../../e-tron/technology/drivingassistance/nightvision/) |
-| Head up display | option (AR) | option |
-| Speed limiter | standard | standard |
-| Park assist | N/A | option |
-| Cross traffic assist rear | option | option |
-| Exit warning | option | option |
-| Collision avoidance assist | standard | option |
-| Audi side assist | option | option |
+| Head up display | [option (AR)](../../q4-e-tron/technology/uiandoperations/headupdisplay/) | [option](../../e-tron/technology/uiandoperations/headupdisplay/) |
+| Speed limiter | [standard](../../e-tron/technology/drivingassistance/speedlimiter/) | [standard](../../e-tron/technology/drivingassistance/speedlimiter/) |
+| Park assist | N/A | [option](../../e-tron/technology/drivingassistance/parkassist/) |
+| Cross traffic assist rear | [option](../../q4-e-tron/technology/drivingassistance/crosstrafficassistrear/) | [option](../../e-tron/technology/drivingassistance/crosstrafficassistrear/) |
+| Exit warning | [option](../../q4-e-tron/technology/drivingassistance/exitwarning/) | [option](../../e-tron/technology/drivingassistance/exitwarning/) |
+| Collision avoidance assist | [standard](../../q4-e-tron/technology/drivingassistance/collisionavoidanceassist/) | [option](../../e-tron/technology/drivingassistance/collisionavoidanceassist/) |
+| Audi side assist | [option](../../q4-e-tron/technology/drivingassistance/sideassist/) | [option](../../e-tron/technology/drivingassistance/sideassist/) |
 | 360 degree cameras | [option](../../q4-e-tron/technology/drivingassistance/360camera/) | [option](../../e-tron/technology/drivingassistance/360camera/) |
-| Reversing camera | option | option |
-| Curb warning | option | option
-| Crossing assist | N/A | option |
-| Turn assist | N/A | option |
-| Traffic sign recognition | option | option |
-| HD Matrix | option | option |
-| Digital HD Matrix | N/A | option |
-| Headlight washer | option | standard |
-| Rear light strip | option | standard |
-| Dynamic lightning | option | option |
-| Electric adjustable mirrors | standard | standard |
-| Mirrors with memory | option | option |
-| Heated mirrors | option | option |
+| Reversing camera | option | [option](../../e-tron/technology/drivingassistance/reversingcamera/) |
+| Crossing assist | N/A | [option](../../e-tron/technology/drivingassistance/crossingassist/) |
+| Turn assist | [option](../../q4-e-tron/technology/drivingassistance/turnassist/)| [option](../../e-tron/technology/drivingassistance/turnassist/) |
+| Traffic sign recognition | [option](../../q4-e-tron/technology/drivingassistance/trafficsignrecognition/) | [option](../../e-tron/technology/drivingassistance/trafficsignrecognition/) |
+| HD Matrix | option | [option](../../e-tron/technology/lights/#hd-matrix-led-headlights) |
+| Digital HD Matrix | N/A | [option](../../e-tron/technology/lights/#digital-matrix-led-headlights) |
+| Headlight washer | [option](../../q4-e-tron/technology/lights/) | [standard](../../e-tron/technology/lights/) |
+| Rear light strip | [option](../../q4-e-tron/technology/lights/) | [standard](../../e-tron/technology/lights/) |
+| Dynamic lightning | [option](../../q4-e-tron/technology/lights/) | [option](../../e-tron/technology/lights/) |
+| Entry lights | option | option |
+| Electric adjustable mirrors | [standard](../../q4-e-tron/exterior/mirrors/) | [standard](../../e-tron/exterior/mirrors/) |
+| Mirrors with memory | [option](../../q4-e-tron/exterior/mirrors/) | [option](../../e-tron/exterior/mirrors/) |
+| Heated mirrors | [option](../../q4-e-tron/exterior/mirrors/) | [option](../../e-tron/exterior/mirrors/) |
 | Auto dimming mirrors | option | option |
 | Virtual mirrors | N/A | [option](../../e-tron/exterior/mirrors/#virtual-mirrors) |
 | Homelink garage door opener | [option](../../q4-e-tron/technology/garagedooropener/) | [option](../../e-tron/technology/garagedooropener/) |
@@ -307,8 +308,8 @@ Below you see the full specification and options comparison of the models.
 | Kick sensor | [option](../../q4-e-tron/exterior/doors/) | [option](../../e-tron/exterior/doors/) |
 | Audi connect key | N/A | [option](../../e-tron/technology/lockingsystems/#audi-connect-key-2f1) |
 | Air quality package | N/A | [option](../../e-tron/technology/airquality/) |
-| Standard colors  |  8  |  14  |
-| Audi exclusive colors | N/A | option |
+| Standard colors  |  [8](../../q4-e-tron/exterior/paint/)  |  [14](../../e-tron/exterior/paint/)  |
+| Audi exclusive colors | N/A | [option](../../e-tron/exterior/paint/) |
 | Black optics    | [option](../../q4-e-tron/exterior/optics/) | [option](../../e-tron/exterior/optics/) |
 | Privacy windows  | [option](../../q4-e-tron/exterior/windows/) | [option](../../e-tron/exterior/windows/) |
 | S-line exterior | [option](../../e-tron/exterior/s-line) | [option](../../e-tron/exterior/s-line/) |
