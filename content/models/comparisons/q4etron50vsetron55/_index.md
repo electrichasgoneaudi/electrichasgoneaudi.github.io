@@ -166,6 +166,7 @@ Most options are available on both models, but some are only available on the e-
 - [Audi connect key](../../e-tron/technology/lockingsystems/#audi-connect-key-2f1)
 - [Spare wheel](../../e-tron/technology/lockingsystems/#audi-connect-key-2f1)
 - [Rear window curtains](../../e-tron/interior/curtain/)
+- [Heated rear seats](../../e-tron/interior/seats/#seat-heating)
 
 If one or more of these options are essential for you, this can be a deciding factor.
 
@@ -220,8 +221,8 @@ Below you see the full specification and options comparison of the models.
 | Calculated consumption basic trim | 15.8 kWh/100km | 19.6 kWh/100km |
 | WLTP Range top trim | 449km | 369km |
 | Calculated consumption top trim | 17.14 kWh/100km | 23.4 kWh/100km |
-| Max trailer weight | 1200kg | 1800kg |
-| Roof rails | standard | option |
+| Max trailer weight | [1200kg](../../q4-e-tron/transportation/#trailer) | [1800kg](../../e-tron/transportation/#trailer) |
+| Roof rails | [standard](../../q4-e-tron/transportation/#roof-storage) | [option](../../e-tron/transportation/#roof-storage) |
 | Max roof weight | 75kg | 75kg |
 | Cargo space | 520 l| 660 l |
 | Cargo space seat down | 1490l | 1725 l |
@@ -237,7 +238,7 @@ Below you see the full specification and options comparison of the models.
 | Optional wheels front | 235/50-R20, 235/45-R21 | 255/55-R20, 265/45-R21, 265/40-R22 |
 | Optional wheels rear | 255/45-R20,255/40-R21 | 255/55-R20, 265/45-R21, 265/40-R22  |
 | Number of wheels |  |  11 |
-| TPMS  | Indirect | Indirect (direct option)|
+| TPMS  | Indirect | [Indirect (direct option)](../../e-tron/technology/tpms/)|
 | Tire repair set | option | standard |
 | Virtual Cockpit | [option](../../q4-e-tron/technology/uiandoperations/virtualcockpit/)  | [standard](../../e-tron/technology/uiandoperations/virtualcockpit/) |
 | Virtual Cockpit screensize | 10.25"  | 12.3" |
@@ -298,12 +299,12 @@ Below you see the full specification and options comparison of the models.
 | Ventilated seats | N/A | option |
 | Massage seats | N/A | option |
 | Powered steering wheel adjustment | N/A | option |
-| Powered tailgate | option | standard |
-| KeyLess Go | standard | standard |
-| Keyless Entry | option | option |
-| Theft Alarm | option | option |
-| Kick sensor | option | option |
-| Audi connect key | N/A | option |
+| Powered tailgate | [option](../../e-tron/exterior/doors/) | [standard](../../e-tron/exterior/doors/) |
+| KeyLess Go | [standard](../../q4-e-tron/technology/lockingsystems/) | [standard](../../e-tron/technology/lockingsystems/) |
+| Keyless Entry | [option](../../q4-e-tron/technology/lockingsystems/) | [option](../../e-tron/technology/lockingsystems/) |
+| Theft Alarm | [option](../../q4-e-tron/technology/lockingsystems/) | [option](../../e-tron/technology/lockingsystems/) |
+| Kick sensor | [option](../../q4-e-tron/exterior/doors/) | [option](../../e-tron/exterior/doors/) |
+| Audi connect key | N/A | [option](../../e-tron/technology/lockingsystems/#audi-connect-key-2f1) |
 | Air quality package | N/A | [option](../../e-tron/technology/airquality/) |
 | Standard colors  |  8  |  14  |
 | Audi exclusive colors | N/A | option |
@@ -311,6 +312,7 @@ Below you see the full specification and options comparison of the models.
 | Tinted windows  | option | option |
 | S-line exterior | option | [option](../../e-tron/exterior/s-line/) |
 | S-line interior | option | [option](../../e-tron/interior/sline/) |
+| Premium Sound system | Sonos | Bang & Olufsen |
 
 ### Dimension comparison
 <!-- markdownlint-disable MD033 -->
