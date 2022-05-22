@@ -177,6 +177,7 @@ Most options are available on both models, but some are only available on the e-
 - [Virtual mirrors](../../e-tron/exterior/mirrors/#virtual-mirrors)
 - [Additional charge port](../../e-tron/technology/onboardcharger/#optional-charge-port)
 - [22KW AC charging](../../e-tron/technology/onboardcharger/#optional-22kw-charger)
+- [Orange painted calibers](../../e-tron/exterior/paintedcalibers/)
 
 If one or more of these options are essential for you, this can be a deciding factor.
 
