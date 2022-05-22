@@ -113,7 +113,7 @@ For some, the physical buttons for the AC on Q4 are an advantage.
     <figcaption><h4>One screen Audi MMI touch on Audi Q4 e-tron</h4></figcaption>
 </figure>
 
-Audi Q4 e-tron 50 quattro have an option for Sonos sound system. Audi e-tron have an option for Bang & Olufsen. The Bang & Olufsen is a better sound system but probably not so much better that someone would choose model just based on this factor. 
+Audi Q4 e-tron 50 quattro have an option for Sonos sound system. Audi e-tron has an option for Bang & Olufsen. The Bang & Olufsen is a better sound system but probably not so much better than someone would choose a model just based on this factor.
 
 ## Lights
 
@@ -123,7 +123,7 @@ We don't believe that exterior lights will be a deciding factor for many.
 
 ## Noise insulation
 
-The Audi e-tron 55 has better noise insulation. Road noise is better damped on e-tron. This is one of the reason e-tron is much heavier. 
+The Audi e-tron 55 has better noise insulation. As a result, road noise is better damped on the Audi e-tron. The extra noise insulation is one of the reasons the e-tron is much heavier than the Q4 e-tron.
 
 ## Standard equipment
 
