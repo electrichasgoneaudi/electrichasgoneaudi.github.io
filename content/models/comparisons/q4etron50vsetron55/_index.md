@@ -167,6 +167,7 @@ Most options are available on both models, but some are only available on the e-
 - [Spare wheel](../../e-tron/technology/lockingsystems/#audi-connect-key-2f1)
 - [Rear window curtains](../../e-tron/interior/curtain/)
 - [Heated rear seats](../../e-tron/interior/seats/#seat-heating)
+- [Virtual mirrors](../../e-tron/exterior/mirrors/#virtual-mirrors)
 
 If one or more of these options are essential for you, this can be a deciding factor.
 
@@ -293,10 +294,10 @@ Below you see the full specification and options comparison of the models.
 | Mirrors with memory | option | option |
 | Heated mirrors | option | option |
 | Auto dimming mirrors | option | option |
-| Virtual mirrors | N/A | option |
-| Homelink garage door opener | option | option |
-| Audi phone box | option | option |
-| Ventilated seats | N/A | option |
+| Virtual mirrors | N/A | [option](../../e-tron/exterior/mirrors/#virtual-mirrors) |
+| Homelink garage door opener | [option](../../q4-e-tron/technology/garagedooropener/) | [option](../../e-tron/technology/garagedooropener/) |
+| Audi phone box | [option](../../q4-e-tron/technology/phonebox/) | [option](../../e-tron/technology/phonebox/) |
+| Ventilated seats | N/A | [option](../../e-tron/interior/seats/#ventilated-seats) |
 | Massage seats | N/A | [option](../../e-tron/interior/seats/#massage) |
 | Powered steering wheel adjustment | N/A | [option](../../e-tron/interior/steeringwheels/#adjustment) |
 | Powered tailgate | [option](../../e-tron/exterior/doors/) | [standard](../../e-tron/exterior/doors/) |
