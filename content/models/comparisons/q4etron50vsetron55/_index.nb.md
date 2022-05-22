@@ -40,7 +40,7 @@ I den virkelige verden, avhengig av vær og kjørestil, vil rekkevidden på Audi
 
 Audi e-tron 55 har 408 hk, og Audi Q4 e-tron har 299 hk. For Q4 e-tron 50 quattro er full kraft kun tilgjengelig når den er omtrent fulladet og over 23 grader, mens full kraft er tilgjengelig i mye større områder for Audi e-tron. Men siden vekten er lavere på Q4 e-tron, føles forskjellen mindre og er trolig liten nok til at den ikke er den avgjørende faktoren mellom modellene for mange.
 
-## Suspension
+## Støtdempere
 
 [Adaptive air suspension](../../e-tron/drivetrain/suspension/) med elektronisk dempekontroll er standardutstyr på Audi e-tron. Avhengig av hastigheten og førerens preferanser, justerer den kjørehøyden individuelt i henhold til veiforholdene. Luftfjæringen tilbyr også nivåregulering som funksjon av belastning.
 
