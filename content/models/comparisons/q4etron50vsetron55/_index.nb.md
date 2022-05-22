@@ -213,9 +213,9 @@ Med mulighet for individuelle konturseter med massasje og ventilasjon, adaptiv l
 
 Denne sammenligningen er kanskje ikke aktuell for så mange, men er en måte å vise rell forskjell på pris. For den er langt mindre enn hva man skulle tro basert på basismodellen.
 
-Hvis man velger alle opsjoner koster en Audi Q4 e-tron 50 quattro 779.900,- på Audi.no 22.05.2022. ([PDF](https://electrichasgoneaudi.blob.core.windows.net/multimedia/models/comparisons/q4etron50vsetron55/fullspek_22_05_2022.pdf))
+Hvis man velger alle opsjoner koster en Audi Q4 e-tron 50 quattro 779.900,- på Audi.no 22.05.2022. [Se pristilbud](https://electrichasgoneaudi.blob.core.windows.net/multimedia/models/comparisons/q4etron50vsetron55/fullspek_22_05_2022.pdf)
 
-For "tilsvarende" pris kan man bestille en Audi e-tron 55 S-line black edition. Den vil da koste 792.700,- ([PDF](https://electrichasgoneaudi.blob.core.windows.net/multimedia/models/comparisons/q4etron50vsetron55/fullspek_22_05_2022.pdf))
+For "tilsvarende" pris kan man bestille en Audi e-tron 55 S-line black edition. Den vil da koste 792.700,- [Se pristilbud](https://electrichasgoneaudi.blob.core.windows.net/multimedia/models/comparisons/q4etron50vsetron55/fullspek_22_05_2022.pdf)
 
 Den mangler da
 
@@ -227,7 +227,7 @@ Den mangler da
 - Støydempende glass på sidevinduene
 - LED-velkomstlys med projeksjon
 
-Ved å legge til edition pakken og noe løst utstyr får man dette og havner på 840 600,- ([PDF](https://electrichasgoneaudi.blob.core.windows.net/multimedia/models/comparisons/q4etron50vsetron55/matching_all_equipment.pdf))
+Ved å legge til edition pakken og noe løst utstyr får man dette og havner på 840 600,- [Se pristilbud](https://electrichasgoneaudi.blob.core.windows.net/multimedia/models/comparisons/q4etron50vsetron55/matching_all_equipment.pdf)
 
 Da har man alt utstyret til en fullspekket Audi Q4 e-tron 50 quattro, men i tilegg en del ekstra utstyr som ikke kan skaffes på Q4 e-tron.
 
