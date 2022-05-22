@@ -53,78 +53,104 @@ The size difference can be a deciding argument for Q4 for many people.
 
 ## Cargo capacity
 
-The cargospace on e-tron is about 27% larger on e-tron than Q4. Q4 does not have any frunk, like Audi e-tron.
+The cargo space is about 27% larger on the e-tron than the Q4. Q4 does not have any frunk, like the Audi e-tron.
 
-e-tron can pull a trailer up to 1800kg, while Q4 only have 1200kg trailer capacitiy.
+e-tron can pull a trailer up to 1800kg, while Q4 only has a 1200kg trailer capacity.
 
 ## Exterior
 
-Both Audi e-tron 55 and Audi Q4 e-tron is available with many different standard colors. They can both be equipped with differen wheels, different optics, panoramic roof, s-line exterior and more. Audi e-tron can also be delivered with Audi exclusive colors in addition to the standard colors. But it comes at a cost and probably not something that would be a deciding factor.  
+Both Audi e-tron 55 and Audi Q4 e-tron are available with many different standard colors, wheels, optics, panoramic roof, s-line exterior, and more.
+
+Audi exclusive colors are available on the Audi e-tron. But it comes at a cost and probably not something that would be a deciding factor.
 
 ## Interior
 
-There is a more significant difference for the interior. Both models are available with standard and s sports seats. But the Audi e-tron has, in addition, sports seats and comfort seats. Comfort seats are available with massage and ventilation. 
+There is a more significant difference for the interior. Both models are available with standard and s sports seats.
+
+Audi e-tron has, in addition, sports seats and comfort seats. Comfort seats are available with massage and ventilation.
+Both have options for an S-line interior and multicolor ambient lighting.
+
+Audi e-tron also has interior styling options like a full leather dashboard and glass buttons.
 
 ## Driving assistance
 
-Both models are available with almost the same driver-assist systems. However, there is a difference in what is standard. Night vision is only available on e-tron. 
+Both models are available with almost the same driver-assist systems. However, there is a difference in what is standard. Night vision is only available on e-tron.
 
 ## Infotainment
 
-For infotainment, there are some differences. While the Audi e-tron is delivered as standard with Virtual Cockpit and MMI Navigation, this is an option on Q4. The MMI system is also different. On the Audi e-tron, there is two screens, while Q4 has only one screen in the center console.
-This has some drawbacks since you loose some functionality available on the second screen and other functionality needs to be put on one screen instead of two, like the navigation search.
+For infotainment, there are some differences. Virtual Cockpit and MMI Navigation are standard on the Audi e-tron, while this is an option on the Q4. The MMI system is also different. On the Audi e-tron, there are two screens, while Q4 has only one screen in the center console.
+
+Just one screen has some drawbacks since you lose some functionality available on the second screen and other functionality needs to be put on one screen instead of two, like the navigation search.
 
 For some, the physical buttons for the AC on Q4 are an advantage.
 
 ## Lights
 
-Both models can be delivered with HD matrix. In addition, Q4 has some fabulous new daylight driving lights as an option where drivers can select a different design.
+HD matrix is an option on both models. In addition, Q4 has some fabulous new daylight driving lights as an option where drivers can select a different design. For e-tron Digital HD Matrix also is available. 
 
-## Standard equipment and available options
+We don't believe that exterior lights will be a deciding factor for many.
 
-Audi Q4 e-tron 50 has a lower starting price. Much of this difference is because of equipment that is standard on e-tron and not on Q4. 
+## Standard equipment
 
-Example
+Audi Q4 e-tron 50 has a lower starting price.
 
-- MMI navigation
-- Progressive steering
-- Virtual cockpit
-- Heatpump
-- Split rear seats
+Much of this difference is because of standard equipment on the e-tron and not on Q4.
+
+The following equipment is standard on e-tron 55 but options on Q4 e-tron 50 quattro
+
+- [e-tron rear light strip](../../q4-e-tron/technology/lights/#striking-taillight-signature-the-light-strip-at-the-rear)
+- [MMI navigation](../../q4-e-tron/technology/uiandoperations/navigation/)
+- [Virtual cockpit](../../q4-e-tron/technology/uiandoperations/virtualcockpit/)
+- [Heatpump](../../q4-e-tron/technology/climatecontrol/#heatpump)
+- 40:20:40 rear seats
 - Cruise control
 - Headlight washer
 - Powered tailgate
-- Adaptive air suspension (not available on Q4)
+- Drive select
+- Adaptive air suspension (not available on the Q4)
 
-On Audi e-tron there is also options that is not available on Q4
+In some markets the base models is not available and the list with standard equipment in that marked can include more on both models.
+
+## Available options
+
+Most of the options are available on both models, but some options only are available on the e-tron. These are:
 
 - [Individual Contour seats](../../e-tron/interior/seats/#individual-contour-seats)
 - [Ventilated seats](../../e-tron/interior/seats/#ventilated-seats)
 - [Massage seats](../../e-tron/interior/seats/#massage)
+- [Length adjustable head rest](../../e-tron/interior/seats/#massage)
 - [Night Vision](../../e-tron/technology/drivingassistance/nightvision/)
-- Air Quality package
-- Full leather interior
-- Adaptive whipers
-- Servo closing doors
-- Powered adjustable steering wheel
-- Seat memory passenger seats
+- [Air Quality package](../../e-tron/technology/airquality/)
+- [Full leather interior](../../e-tron/interior/interiormaterials/)
+- [Adaptive wipers](../../e-tron/technology/wipers/#adaptive-wipers)
+- [Servo closing doors](../../e-tron/exterior/doors/#servo-closing)
+- [Powered adjustable steering wheel](../../e-tron/interior/steeringwheels/#adjustment)
+- [Seat memory passenger seats](../../e-tron/interior/seats/#memory)
+- [Glass buttons](../../e-tron/interior/buttons/)
+
+If one or more of this options are important for you this can be a deciding factor.
+
+## Price
+
+The starting price is significantly lower on the Q4 e-tron 50 than Audi e-tron 55. But different markets have different packages that give various price differences. In markets where the buyers freely can select options, the starting price difference is about $20.000 / £20.000
 
 ## So which one should you select?
 
-As typical it all depends on your different needs and preferences.
+As typical, it all depends on your different needs and preferences.
 
-### For the one that prefer range and consumption
+### For the one that prefers range and consumption
 
-For this category the Audi Q4 e-tron 50 is the clear winner. More range and a much lower consumption
+For this category, the Audi Q4 e-tron 50 is the clear winner. More range and a much lower consumption
 
-### For the family with need for much storage
+### For the family with the need for much storage
 
-Audi e-tron have larger cargo capacity and bigger interior. If maximum cargo capacity is the deciding factor. Audi e-tron 55 win this.
+The Audi e-tron has a larger cargo capacity and more room for the passenger. Suppose maximum cargo capacity is the deciding factor. Then, the Audi e-tron 55 win this.
 
-### For the with focus on comfort and luxury
+### For the ones with a focus on comfort and luxury
 
-With the possibility on individual contour seats with massage and ventilation, adaptive air suspension, leading sound insulation Audi e-tron wins
-this. 
+With the possibility of individual contour seats with massage and ventilation, adaptive air suspension, and leading sound insulation Audi e-tron wins this.
+
+## Fully specced Q4 vs same price e-tron
 
 ### Spec comparison
 
@@ -136,7 +162,7 @@ this.
 | Top speed in km/h (mph) | 180 | 200 (124.3) |
 | Drive | Quattro | Quattro |
 | Adaptive Air suspension | N/A | [standard](../../e-tron/drivetrain/suspension/) |
-| Progressive steering | option | [standard](../../e-tron/drivetrain/suspension/) |
+| Progressive steering | [standard](../../q4-e-tron/drivetrain/suspension/) | [standard](../../e-tron/drivetrain/suspension/) |
 | Audi drive select | option | [standard](../../e-tron/technology/audidriveselect/) |
 | Gross battery | 82kWh | [95kWh](../../e-tron/drivetrain/battery/) |
 | Net battery | 77kWh | [86.5kWh](../../e-tron/drivetrain/battery/) |
@@ -172,8 +198,8 @@ this.
 | MMI Navigation Plus | option | standard |
 | MMI main screen size | 10.1" (11.6" option) | 10.1" |
 | MMI main screen resolution | 1540 x 720 (1,764 x 824 option) | 1540 x 720  |
-| MMI secondary screen size | ? |8.6" |
-| MMI secondary screen resolution | ? | 1,280 x 660|
+| MMI secondary screen size | N/A |8.6" |
+| MMI secondary screen resolution | N/A | 1,280 x 660|
 | Audi Smartphone Interface | option | option |
 | Adaptive whipers | N/A | option |
 | Heated front window | option | N/A |
@@ -226,7 +252,7 @@ this.
 | Theft Alarm | option | option |
 | Kick sensor | option | option |
 | Audi connect key | N/A | option |
-| Air quality package | N/A | option |
+| Air quality package | N/A | [option](../../e-tron/technology/airquality/) |
 | Standard colors  |  8  |  14  |
 | Audi exclusive colors | N/A | option |
 | Black optics    | option | option |
