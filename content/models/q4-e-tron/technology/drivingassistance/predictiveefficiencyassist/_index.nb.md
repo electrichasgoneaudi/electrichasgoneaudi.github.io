@@ -1,25 +1,55 @@
 ---
 title: Audi Q4 e-tron effektivitetsassistent
 linktitle: Effektivitetsassistent
-description: Audi Q4 e-tron kan utstyres med effektivitetsassistent. Effektivitetsassistenten hjelper sjåføren å kjøre mest mulig energieffektivt. 
+description: Audi Q4 e-tron er utstyrt med prediktiv effektivitetsassistent. Effektivitetsassistenten kan hjelpe sjåføren til å forutse kjøreruten og innta en økonomisk kjørestil.
 weight: 1
 ---
+
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/predictiveefficient.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/predictiveefficients.jpg"
-        alt="Effektivitetsassistent" title="Effektivitetsassistent">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/audiq4_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/audiq4_1s.jpg"
+        alt="Audi Q4 e-tron utstyrt med prediktiv effektivitetsassistent." title="Audi Q4 e-tron utstyrt med prediktiv effektivitetsassistent.">
     </a>
-    <figcaption><h4>Effektivitetsassistent</h4></figcaption>
+    <figcaption><h4>Audi Q4 e-tron utstyrt med prediktiv effektivitetsassistent.</h4></figcaption>
 </figure>
 
-Systemet jobber tett sammen med adaptiv cruisekontroll (ACC) eller adaptiv cruiseassistent (ACA). Den får tilgang til prediktive rutedata fra navigasjon og Car-to-X-informasjon.
-For å oppdage trafikkskilt og andre kjøretøy, bruker effektivitetsassistenten frontkameraet samt data fra front- og bakovervendte radarsensorer.
+Avhengig av utstyret kan systemet få tilgang til data fra navigasjonssystemet, kameraet bak frontruten og radarsensorene.
 
-Føreren vises tilsvarende informasjon i instrumentgruppen eller i Audi virtual cockpit og head-up-displayet så snart det er fornuftig å ta foten av høyre pedal. Symboler for fartsgrenser, svinger, rundkjøringer, byer eller nedoverbakker som indikerer at sjåføren må bremse ned, vises på grunnlag av rutedata og gjenkjenning av trafikkskilt. Avhengig av modell pulserer gasspedalen også mot fotsålen til føreren – en klar indikasjon på å ta foten av gassen.
+Effektivitetshjelpefunksjonen kan justeres individuelt. Innstillingene avhenger av utstyret som er montert på Audi Q4 e-tron.
 
-Hvis cruiseassistenten er slått på eller ACC er aktivert, regulerer effektivitetsassistenten aktivt. Den bremser og akselererer prediktivt og tilpasser hastigheten til veiforløpet og trafikksituasjonen, og tar også hensyn til kjøretøyer som kjører foran. Hvis sjåføren ønsker det, styrer systemet friløps- og frihjulsdriften til motoren i samarbeid med andre kontrollenheter. Det prediktive systemet opprettholder alltid en kjørestil som gjenspeiler det valgte kjøreprogrammet – fra effektivt til sporty – og utnytter mulighetene for restitusjon i Audi e-tron.
+### Regenering
 
-Føreren kan overstyre systemet når som helst ved å akselerere og bremse. I tillegg kan sjåførene individuelt aktivere, deaktivere og konfigurere mange av sine detaljerte funksjoner i MMI. Avhengig av modell kan styringen for eksempel tilpasses veiforløpet i tre trinn: sakte, middels eller raskt.
+Når du har slått på automatisk restitusjon, på MMI, og tar foten av gasspedalen, styrer effektivitetsassistenten restitusjons- og friløpsfasene avhengig av situasjonen.
 
-Dette alternativet er en del av tursjåførassistansepakken med alternativ-ID **PCC**
+### Prediktive meldinger
+
+Føreren vises tilsvarende informasjon i instrumentgruppen eller Audi virtual cockpit og head-up-displayet så snart det er fornuftig å ta foten av høyre pedal.
+
+Symboler for fartsgrenser, svinger, rundkjøringer, tettsteder eller nedoverbakker som indikerer at sjåføren må bremse ned, vises basert på rutedata og gjenkjenning av trafikkskilt.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/efficiencyassist_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/efficiencyassist_1s.jpg"
+        alt="Prediktiv effektivitetshjelp i Audi Q4 e-tron, og anbefaler å bremse ned på grunn av en rundkjøring." title="Prediktiv effektivitetshjelp i Audi Q4 e-tron, og anbefaler å bremse ned på grunn av en rundkjøring.">
+    </a>
+    <figcaption><h4>Prediktiv effektivitetshjelp i Audi Q4 e-tron, og anbefaler å bremse ned på grunn av en rundkjøring.</h4></figcaption>
+</figure>
+
+### Prediktiv kontroll
+
+Hvis den adaptive cruiseassistenten er slått på eller den adaptive cruisekontrollen er aktivert, regulerer effektivitetsassistenten seg aktivt. Den bremser og akselererer prediktivt og tilpasser hastigheten til veiforløpet og trafikksituasjonen, og tar også hensyn til kjøretøyer som kjører foran.
+
+Det prediktive systemet opprettholder alltid en kjørestil som gjenspeiler det valgte kjøreprogrammet – fra effektivt til sporty.
+
+På Audi Q4 e-tron vil effektivitetsassistent kontrollere restitusjonen/frihjulingen for å maksimere effektiviteten.
+
+Føreren kan når som helst overstyre systemet ved å akselerere og bremse. I tillegg kan sjåførene individuelt aktivere, deaktivere og konfigurere mange av sine detaljerte funksjoner i MMI.
+
+På Audi Q4 e-tron kan styringen for eksempel tilpasses veiens gang i tre trinn: sakte, middels eller raskt.
+
+### Hendelsessymboler
+
+Følgende symboler kan vises avhengig av utstyret som er montert. Effektivitetsassistenten viser hvert symbol for å indikere hendelsen som den nå nå. Noen symboler vises kun når prediktive meldinger er aktivert, og noen vises bare når prediktiv kontroll og adaptiv cruiseassistent er aktivert.
+
+![Symbols](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/symbols.png)

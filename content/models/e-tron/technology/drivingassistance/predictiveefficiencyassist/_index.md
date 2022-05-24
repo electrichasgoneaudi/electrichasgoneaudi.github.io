@@ -13,7 +13,8 @@ weight: 1
     <figcaption><h4>Predictive efficiency assist</h4></figcaption>
 </figure>
 
-The system works closely together with adaptive cruise control (ACC) or adaptive cruise assist (ACA). It accesses predictive route data from navigation and Car-to-X information. 
+The system works closely together with adaptive cruise control (ACC) or adaptive cruise assist (ACA). It accesses predictive route data from navigation and Car-to-X information.
+
 In order to detect traffic signs and other vehicles, the efficiency assist uses the front camera as well as data from the front and rear-facing radar sensors.
 
 The driver is shown corresponding information in the instrument cluster or in the Audi virtual cockpit and the head-up display as soon as it would be sensible to take the foot off the right-hand pedal. Symbols for speed limits, bends, roundabouts, towns, or downhill slopes that indicate to the driver to slow down are displayed on the basis of the route data and recognition of traffic signs. Depending on the model the gas pedal also pulses against the sole of the driver’s foot – a clear indication to take their foot off the gas.
