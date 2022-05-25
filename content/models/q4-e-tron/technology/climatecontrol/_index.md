@@ -54,8 +54,6 @@ The 3-zone climate control system is part of the climate and winter package with
 Audi e-tron is equipped with an auxiliary air conditioner that can be used when the car is turned off. This can be activated
 from the MMI manually or set by a timer. One typical use case is when charging since the car needs to be turned off then and the main AC unit does not work.
 
-![Pre condition](precondition.jpg "Pre-condition will run for 30 minutes and can be started from MMI or the myAudi app" )
-
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/precondition.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/preconditions.jpg"

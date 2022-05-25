@@ -7,7 +7,7 @@ weight: 100
 
 ## Lakkfarger og lakkeringsvalg
 
-![Pebble stone gray](../../exterior/paint/paint_stonegrey_3s.jpg)
+![Pebble stone gray](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_stonegrey_3s.jpg)
 
 Audi Q4 e-tron kan leveres i en rekke standardfarger og lakkutforminger. Klikk på valgende for detaljer og eksempelbilder i høy oppløsning.
 
@@ -26,7 +26,7 @@ Audi Q4 e-tron kan leveres i en rekke standardfarger og lakkutforminger. Klikk p
 
 ## Felg & dekk
 
-![Felg](../../exterior/wheels/wheel_55L_3s.jpg)
+![Felg](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_55L_3s.jpg)
 
 Audi Q4 e-tron kan leveres med forskjellige typer felger og dekk både for sommer og vinter. Klikk på valgene for detaljert info og høyoppløste bilder.
 
@@ -75,7 +75,7 @@ Audi Q4 e-tron kan leveres med forskjellige typer felger og dekk både for somme
 
 ## Interiørpakker
 
-![Interior](../../interior/seats/seats_pwm_1.jpg)
+![Interior](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/seats/seats_pwm_1.jpg)
 
 Audi Q4 e-tron kan leveres med forskjellgige seter i forskjellige materialer. Klikk nedenfor på de forskjellige valgene for detaljert info med høyoppløste bilder.
 
@@ -94,7 +94,7 @@ Audi Q4 e-tron kan leveres med forskjellgige seter i forskjellige materialer. Kl
 
 ## Lys
 
-![Lights](../../technology/lights/signature3s.jpg)
+![Lights](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature3s.jpg)
 
 Audi Q4 e-tron har avanserte lys. Klikk nedenfor for detaljert info.
 
@@ -170,7 +170,7 @@ Audi Q4 e-tron har avanserte lys. Klikk nedenfor for detaljert info.
 
 ## Innvendig utstyr
 
-![Interior options](../../interior/lights/ambientlights.jpg)
+![Interior options](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientlights.jpg)
 
 Audi Q4 e-tron her flere valg på interiør. Kikk nedenfor for detaljert informasjon.
 
@@ -197,7 +197,7 @@ Audi Q4 e-tron her flere valg på interiør. Kikk nedenfor for detaljert informa
 
 ## Infotainment
 
-![Infotainment](../../technology/uiandoperations/virtualcockpit/mminavigationvirtualcockpits.jpg)
+![Infotainment](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/mminavigationvirtualcockpits.jpg)
 
 Audi Q4 e-tron har en rekke infotainmentvalg. Klikk nedfor for detaljert informasjon om mulighetene.
 

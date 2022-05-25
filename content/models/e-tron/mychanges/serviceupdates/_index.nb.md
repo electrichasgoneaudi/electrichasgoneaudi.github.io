@@ -26,3 +26,4 @@ weight: 20
 | 90R8 | Frontsensor |
 | 94P2 |  Fix for Digital matrix |
 | 90R7 | Fix for virtual mirrors |
+| 93N6 | Fix for cell balancing |

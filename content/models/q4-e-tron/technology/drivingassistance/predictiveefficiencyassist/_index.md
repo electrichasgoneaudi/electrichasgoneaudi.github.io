@@ -1,26 +1,55 @@
 ---
 title: Audi Q4 e-tron predictive efficiency assist
 linktitle: Efficiency assist
-description: Audi Q4 e-tron can be equipped with predictive efficiency assist. Predictive Efficiency assist helps the driver to drive preemptively and save energy. 
+description: Audi Q4 e-tron is equipped with predictive efficiency assist. The efficiency assist can help the driver to anticipate the driving route and adopt an economical driving style. 
 weight: 1
 ---
 
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/predictiveefficient.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/predictiveefficients.jpg"
-        alt="Predictive efficiency assist" title="Predictive efficiency assist">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/audiq4_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/audiq4_1s.jpg"
+        alt="Audi Q4 e-tron equipped with predictive efficiency assist." title="Audi Q4 e-tron equipped with predictive efficiency assist.">
     </a>
-    <figcaption><h4>Predictive efficiency assist</h4></figcaption>
+    <figcaption><h4>Audi Q4 e-tron equipped with predictive efficiency assist.</h4></figcaption>
 </figure>
 
-The system works closely together with adaptive cruise control (ACC) or adaptive cruise assist (ACA). It accesses predictive route data from navigation and Car-to-X information. 
-In order to detect traffic signs and other vehicles, the efficiency assist uses the front camera as well as data from the front and rear-facing radar sensors.
+Depending on the equipment, the system can access data from the navigation system, the camera behind the windscreen, and the radar sensors.
 
-The driver is shown corresponding information in the instrument cluster or in the Audi virtual cockpit and the head-up display as soon as it would be sensible to take the foot off the right-hand pedal. Symbols for speed limits, bends, roundabouts, towns, or downhill slopes that indicate to the driver to slow down are displayed on the basis of the route data and recognition of traffic signs. Depending on the model the gas pedal also pulses against the sole of the driver’s foot – a clear indication to take their foot off the gas.
+The efficiency assist function can be ajdustet individually. The settings depend on the equipment fitted on the Audi Q4 e-tron.
 
-If the cruise assist is switched on or the ACC is activated, efficiency assist regulates actively. It decelerates and accelerates predictively and adapts the speed to the course of the road and the traffic situation, also taking vehicles driving in front into account. If the driver so wishes, the system controls the freewheeling and coasting operation of the engine in cooperation with other control units. The predictive system always maintains a driving style that reflects the driving program selected – from efficient to sporty – and uses scope for recuperation in the Audi e-tron.
+### Recuperation
 
-The driver can override the system at any time by accelerating and braking. In addition, drivers can individually activate, deactivate and configure many of their detailed functions in the MMI. Depending on the model, the control, for example, can be adapted to the course of the road in three stages: slow, medium or fast.
+When you have switched on automatic recuperation, on the MMI, and take your foot off the accelerator, the efficiency assist controls the recuperation and coasting phases depending on the situation.
 
-This option is part of the tour driver assistance package with option id **PCC**
+### Predictive Messages
+
+The driver is shown corresponding information in the instrument cluster or the Audi virtual cockpit and the head-up display as soon as it would be sensible to take the foot off the right-hand pedal.
+
+Symbols for speed limits, bends, roundabouts, towns, or downhill slopes that indicate to the driver to slow down are displayed based on the route data and recognition of traffic signs.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/efficiencyassist_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/efficiencyassist_1s.jpg"
+        alt="Predictive efficiency assist in Audi Q4 e-tron, recommending slowing down because of a roundabout." title="Predictive efficiency assist in Audi Q4 e-tron, recommending slowing down because of a roundabout.">
+    </a>
+    <figcaption><h4>Predictive efficiency assist in Audi Q4 e-tron, recommending slowing down because of a roundabout.</h4></figcaption>
+</figure>
+
+### Predictive control
+
+If the adaptive cruise assist is switched on or the adaptive cruise control is activated, efficiency assist regulates actively. It decelerates and accelerates predictively and adapts the speed to the course of the road and the traffic situation, also taking vehicles driving in front into account. 
+
+The predictive system always maintains a driving style that reflects the driving program selected – from efficient to sporty.
+
+On the Audi Q4 e-tron, efficiency assist will control the recuperation/coasting to maximize efficiency. 
+
+The driver can override the system at any time by accelerating and braking. In addition, drivers can individually activate, deactivate and configure many of their detailed functions in the MMI. 
+
+On the Audi Q4 e-tron, the control, for example, can be adapted to the course of the road in three stages: slow, medium or fast.
+
+### Event symbols
+
+The following symbols may appear depending on the equipment fitted. The efficiency assist displays each symbol to indicate the event to which it is currently reaching. Some symbols only occur when the predictive messages are activated, and some only appear when the predictive control and the adaptive cruise assist are activated.
+
+![Symbols](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/symbols.png)
