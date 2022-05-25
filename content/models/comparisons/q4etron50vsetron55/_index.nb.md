@@ -28,7 +28,7 @@ Denne plattformen ble laget av Volkswagen og brukt av flere modeller.
 
 ## Forbruk
 
-I følge spesifikasjonen er forbruket 25 % høyere på Audi e-tron 55 sammenlignet med Audi 40 e-tron 50. I virkeligheten kan du se opptil 35 % forskjell i forbruk. Hovedårsakene til dette er mindre dekk på Q4 e-tron 50, mer effektive motorer, mindre vekt og en mindre størrelse som gir mindre aerodynamisk luftmotstand.
+I følge spesifikasjonen er forbruket 25 % høyere på Audi e-tron 55 sammenlignet med Audi Q4 e-tron 50. I virkeligheten kan du se opptil 35 % forskjell i forbruk. Hovedårsakene til dette er mindre dekk på Q4 e-tron 50, mer effektive motorer, mindre vekt og en mindre størrelse som gir mindre aerodynamisk luftmotstand.
 
 ## Rekkevidde
 
