@@ -38,13 +38,13 @@ Symbols for speed limits, bends, roundabouts, towns, or downhill slopes that ind
 
 ### Predictive control
 
-If the adaptive cruise assist is switched on or the adaptive cruise control is activated, efficiency assist regulates actively. It decelerates and accelerates predictively and adapts the speed to the course of the road and the traffic situation, also taking vehicles driving in front into account. 
+If the [adaptive cruise assist](../adaptivecruiseassist/) is switched on or the [adaptive cruise control](../adaptivecruisecontrol/) is activated, efficiency assist regulates actively. It decelerates and accelerates predictively and adapts the speed to the course of the road and the traffic situation, also taking vehicles driving in front into account.
 
 The predictive system always maintains a driving style that reflects the driving program selected – from efficient to sporty.
 
-On the Audi Q4 e-tron, efficiency assist will control the recuperation/coasting to maximize efficiency. 
+On the Audi Q4 e-tron, efficiency assist will control the recuperation/coasting to maximize efficiency.
 
-The driver can override the system at any time by accelerating and braking. In addition, drivers can individually activate, deactivate and configure many of their detailed functions in the MMI. 
+The driver can override the system at any time by accelerating and braking. In addition, drivers can individually activate, deactivate and configure many of their detailed functions in the MMI.
 
 On the Audi Q4 e-tron, the control, for example, can be adapted to the course of the road in three stages: slow, medium or fast.
 

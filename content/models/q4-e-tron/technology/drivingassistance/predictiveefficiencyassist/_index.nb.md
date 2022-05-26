@@ -38,7 +38,7 @@ Symboler for fartsgrenser, svinger, rundkjøringer, tettsteder eller nedoverbakk
 
 ### Prediktiv kontroll
 
-Hvis den adaptive cruiseassistenten er slått på eller den adaptive cruisekontrollen er aktivert, regulerer effektivitetsassistenten seg aktivt. Den bremser og akselererer prediktivt og tilpasser hastigheten til veiforløpet og trafikksituasjonen, og tar også hensyn til kjøretøyer som kjører foran.
+Hvis [adaptiv kjøreassistent](../adaptivecruiseassist/) er slått på eller den [adaptive cruisekontrollen](../adaptivecruisecontrol/) er aktivert, regulerer effektivitetsassistenten seg aktivt. Den bremser og akselererer prediktivt og tilpasser hastigheten til veiforløpet og trafikksituasjonen, og tar også hensyn til kjøretøyer som kjører foran.
 
 Det prediktive systemet opprettholder alltid en kjørestil som gjenspeiler det valgte kjøreprogrammet – fra effektivt til sporty.
 

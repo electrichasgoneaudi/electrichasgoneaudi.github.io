@@ -121,7 +121,9 @@ The detailed 3D view of buildings makes it easier to orientate.
 
 ### Hazard information
 
-Early warning for increased road safety. With information from the so-called Audi swarm, you are notified of accidents, accidents, poor visibility and slippery roads. If an Audi with this technology detects a dangerous situation, it reports this to a server, which sends out a warning to all Audi drivers in cars with this service. This is how Audi drivers are notified via the station wagon and navigation system before they reach the danger point, and they thus have the opportunity to react better to dangerous situations. This can help increase safety for Audi drivers and other road users.
+Early warning for increased road safety. With information from the so-called Audi swarm, you are notified of accidents, accidents, poor visibility and slippery roads.
+
+If an Audi with this technology detects a dangerous situation, it reports this to a server, which sends out a warning to all Audi drivers in cars with this service.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/swarm1.jpg">
@@ -129,6 +131,18 @@ Early warning for increased road safety. With information from the so-called Aud
         alt="They utilize the swarm intelligence of the Audi fleet, in which more than one hundred thousand cars are already gathering information globally." title="They utilize the swarm intelligence of the Audi fleet, in which more than one hundred thousand cars are already gathering information globally.">
     </a>
     <figcaption><h4>They utilize the swarm intelligence of the Audi fleet, in which more than one hundred thousand cars are already gathering information globally.</h4></figcaption>
+</figure>
+
+This is how Audi drivers are notified via the station wagon and navigation system before they reach the danger point, and they thus have the opportunity to react better to dangerous situations.
+
+This can help increase safety for Audi drivers and other road users.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/swarm2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/swarm2s.jpg"
+        alt="Hazard warning in Audi e-tron" title="Hazard warning in Audi e-tron">
+    </a>
+    <figcaption><h4>Hazard warning in Audi e-tron</h4></figcaption>
 </figure>
 
 ## myNetwork

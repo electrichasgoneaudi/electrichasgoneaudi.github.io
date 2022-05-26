@@ -123,7 +123,9 @@ Den detaljerte 3D-visningen av bygninger gjør det lettere å orientere seg.
 
 ### Fareinformasjon
 
-Tidlig varsling for økt trafikksikkerhet. Med informasjon fra den såkalte Audi-svermen blir du varslet om ulykker, ulykker, dårlig sikt og glatte veier. Hvis en Audi med denne teknologien oppdager en farlig situasjon, rapporterer den dette til en server, som sender ut en advarsel til alle Audi-sjåfører i biler med denne tjenesten. Slik varsles Audi-sjåfører via stasjonsvogn og navigasjonssystem før de når farepunktet, og de får dermed mulighet til å reagere bedre på farlige situasjoner. Dette kan bidra til å øke sikkerheten for Audi-sjåfører og andre trafikanter.
+Tidlig varsling for økt trafikksikkerhet. Med informasjon fra den såkalte Audi-svermen blir du varslet om ulykker, ulykker, dårlig sikt og glatte veier. 
+
+Hvis en Audi med denne teknologien oppdager en farlig situasjon, rapporterer den dette til en server, som sender ut en advarsel til alle Audi-sjåfører i biler med denne tjenesten. 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/swarm1.jpg">
@@ -131,6 +133,16 @@ Tidlig varsling for økt trafikksikkerhet. Med informasjon fra den såkalte Audi
         alt="De bruker svermintelligensen til Audi-flåten, der mer enn hundre tusen biler allerede samler informasjon globalt." title="De bruker svermintelligensen til Audi-flåten, der mer enn hundre tusen biler allerede samler informasjon globalt.">
     </a>
     <figcaption><h4>De bruker svermintelligensen til Audi-flåten, der mer enn hundre tusen biler allerede samler informasjon globalt.</h4></figcaption>
+</figure>
+
+Slik varsles Audi-sjåfører via stasjonsvogn og navigasjonssystem før de når farepunktet, og de får dermed mulighet til å reagere bedre på farlige situasjoner. Dette kan bidra til å øke sikkerheten for Audi-sjåfører og andre trafikanter.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/swarm2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/swarm2s.jpg"
+        alt="Varsling i Audi e-tron" title="Varsling i Audi e-tron">
+    </a>
+    <figcaption><h4>Varsling i Audi e-tron</h4></figcaption>
 </figure>
 
 ## mitt nettverk

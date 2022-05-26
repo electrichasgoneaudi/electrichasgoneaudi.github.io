@@ -1,11 +1,11 @@
 ---
-title: Audi Q4 e-tron adaptive cruise assist
-linktitle: Adaptive cruise assist
-description: Audi Q4 e-tron kan leveres med adaptive cruise assist. Adaptive cruise assist er en kombinasjon av adaptiv cruisekontroll og aktiv filassistente assist.
+title: Audi Q4 e-tron adaptiv kjøreassistent
+linktitle: Adaptiv kjøreassistent
+description: Audi Q4 e-tron kan leveres med adaptiv kjøreassistent. Adaptiv kjøreassistent er en kombinasjon av adaptiv cruisekontroll og aktiv filassistente assist.
 weight: 1
 ---
 
-Adaptive cruise assist støtter føreren i å akselerere, bremse, opprettholde hastighet og avstand
+Adaptiv kjøreassistentt støtter føreren i å akselerere, bremse, opprettholde hastighet og avstand
 samt i kjørefeltveiledning.
 
 Dette kan øke kjørekomforten, spesielt på lange reiser. Systemet gjenkjenner kjørefeltmerker, sidestrukturer, kjøretøy i tilstøtende kjørefelt og flere kjøretøy foran innenfor rammen av systemgrensene. Fra denne informasjonen utleder systemet en virtuell kjørebane og gjør det
@@ -13,7 +13,9 @@ Kjøretøy i denne.
 
 Med et assisterende styreinngrep bidrar systemet til å holde kjøretøyet permanent i midten av kjørefeltet. Samtidig holdes den innstilte hastigheten konstant og systemet reagerer på kjøretøy foran med en avstandskontroll.
 
-Takket være det store antallet parametere som er involvert, tilbyr den adaptive kjøreassistenten mest mulig komfortabel kjøring i hastighetsområdet fra 0 til maksimalt 250 km/t og i trafikkork. Adaptive cruise assist bruker radarsensoren som er installert foran på kjøretøyet, frontkameraet og ultralydsensorene for å overvåke området rundt kjøretøyet permanent. Systemet støttes også av et ratt med håndtaksgjenkjenning i en spesifikk rattdesign
+Takket være det store antallet parametere som er involvert, tilbyr den adaptive kjøreassistenten mest mulig komfortabel kjøring i hastighetsområdet fra 0 til maksimalt 250 km/t og i trafikkork. Adaptiv kjøreassistent bruker radarsensoren som er installert foran på kjøretøyet, frontkameraet og ultralydsensorene for å overvåke området rundt kjøretøyet permanent. 
+
+Systemet støttes også av et ratt med håndtaksgjenkjenning i en spesifikk rattdesign
 
 Animasjonen nedenfor viser en video av hvordan dette fungerer på en Audi A6.
 
