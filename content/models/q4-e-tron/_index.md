@@ -1,29 +1,29 @@
 ---
 title: Audi q4 e-tron
 linktitle: Audi Q4 e-tron
-description: Audi Q4 e-tron is available with different motors, batteries, technology, and design options and have a range of up to 532km(330mi). 
+description: Audi Q4 e-tron is available with different motors, batteries, technology, and design options and has a WLTP range of up to 532km(330mi).
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
 The Audi Q4 e-tron and the Q4 Sportback e-tron are the first compact electric SUVs and the third all-electric model from Audi.
 Available in 7 variants.
 
-Both SUV and Sportback versions impress with a new spacious dimension in the interior and pioneering solutions when it comes to operation, display, and assist systems. The augmented reality head-up display connects the virtual and the real worlds in a new way.
+Both SUV and Sportback versions impress with a new spacious dimension in the interior and pioneering solutions for operation, display, and assist systems. In addition, the augmented reality head-up display connects the virtual and the real worlds in a new way.
 
 The world premiere was on April 14. 2021.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/variants1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/variants1s.jpg" alt="Different variants of Audi Q4 e-tron and Audi Q4 e-tron Sportback" title="Different variants of Audi Q4 e-tron and Audi Q4 e-tron Sportback">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/variants1s.jpg" alt="Different variants of the Audi Q4 e-tron and Audi Q4 e-tron Sportback" title="Different variants of the Audi Q4 e-tron and Audi Q4 e-tron Sportback">
     </a>
-    <figcaption><h4>Different variants of Audi Q4 e-tron and Audi Q4 e-tron Sportback</h4></figcaption>
+    <figcaption><h4>Different variants of the Audi Q4 e-tron and Audi Q4 e-tron Sportback</h4></figcaption>
 </figure>
 
-In this article we go deep in to every aspect of Audi Q4 e-tron. For each area there is subsections with even more details. 
+This article goes deep into every aspect of the Audi Q4 e-tron. For each area, there are subsections with even more details.
 
 ## Audi Q4 e-tron variants
 
-From launch, 6 variants of Q4 e-tron were available, and later more was added.
+Six variants of the Q4 e-tron were available from launch, and later more were added.
 
 The variants available are
 
@@ -35,14 +35,16 @@ The variants available are
 - [Audi Q4 Sportback 40 e-tron](/models/q4-e-tron/variants/#audi-q4-sportback-40-e-tron)
 - [Audi Q4 Sportback 50 e-tron](/models/q4-e-tron/variants/#audi-q4-sportback-50-e-tron-quattro)
 
-Audi Q4 e-tron has a wide range of options and advanced driving technologies. Here on electrichasgoneaudi.net, you find all details about the Audi Q4 e-tron. Everything from the different wheels to choose from to how the different driving assist system works.
+Audi Q4 e-tron has a wide range of options and advanced driving technologies. Here on electrichasgoneaudi.net, you find all details about the Audi Q4 e-tron. Everything from the different wheels to choose from to how the various driving assist system works
 
 Below you find every detail you need to know about the Audi Q4 e-tron and the Audi Q4 e-tron Sportback. You can also access the sections through the menu.
 
 ## Audi Q4 e-tron exterior
 
-A powerful body, a high front, an expressive rear section – the Q4 e-tron and the Q4 Sportback  e-tron exude a strong presence, they announce themselves as electric Audi SUVs at first glance. The two compact electric SUVs bring the progressive design that the brand introduced at the
-beginning of 2019 with the Q4 e-tron concept and the Q4 Sportback e-tron concept to series production and represent the next step in the design language of the [electric Audi models](..).
+With a powerful body, a high front, and an expressive rear section – the Q4 e-tron and the Q4 Sportback e-tron exude a strong presence, and they announce themselves as electric Audi SUVs at first glance.
+
+The two compact electric SUVs bring the progressive design that the brand introduced at the beginning of 2019 with the Q4 e-tron concept and the Q4 Sportback e-tron concept to series production and represent
+the next step in the design language of the [electric Audi models](..).
 
 Its sporty character emerges from the striking proportions – thanks to short front overhangs, large  wheels, a broad track and powerfully toned muscles. All lines are drawn with the maximum precision, and the surface treatment has a clear, pared-back effect.
 
