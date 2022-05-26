@@ -1,21 +1,98 @@
 ---
 title: Audi Q4 e-tron adaptiv kjøreassistent
 linktitle: Adaptiv kjøreassistent
-description: Audi Q4 e-tron kan leveres med adaptiv kjøreassistent. Adaptiv kjøreassistent er en kombinasjon av adaptiv cruisekontroll og aktiv filassistente assist.
+description: Du kan bestille Audi Q4 e-tron med adaptiv kjøreassistent. Den adaptive kjøreassistenten kombinerer adaptiv cruisekontroll og aktiv filassistent.
 weight: 1
 ---
+<!-- markdownlint-disable MD033 -->
+Den adaptive kjøreassistenten støtter sjåføren i akselerasjon, bremsing, opprettholdelse av hastighet og avstand, og kjørefeltveiledning.
 
-Adaptiv kjøreassistentt støtter føreren i å akselerere, bremse, opprettholde hastighet og avstand
-samt i kjørefeltveiledning.
+Adaptiv kjøreassistent kan øke kjørekomforten, spesielt på lange reiser. Systemet gjenkjenner kjørefeltmarkeringer, sidestrukturer, kjøretøy i tilstøtende kjørefelt og flere biler foran innenfor systemets grenser. Fra denne informasjonen utleder systemet en virtuell kjørebane.
 
-Dette kan øke kjørekomforten, spesielt på lange reiser. Systemet gjenkjenner kjørefeltmerker, sidestrukturer, kjøretøy i tilstøtende kjørefelt og flere kjøretøy foran innenfor rammen av systemgrensene. Fra denne informasjonen utleder systemet en virtuell kjørebane og gjør det
-Kjøretøy i denne.
+Med et assisterende styreinngrep bidrar systemet til å holde kjøretøyet permanent i midten av kjørefeltet. Samtidig holdes innstilt hastighet konstant, og systemet reagerer på biler foran med avstandskontroll.
 
-Med et assisterende styreinngrep bidrar systemet til å holde kjøretøyet permanent i midten av kjørefeltet. Samtidig holdes den innstilte hastigheten konstant og systemet reagerer på kjøretøy foran med en avstandskontroll.
+Takket være de mange parameterne som er involvert, tilbyr den adaptive kjøreassistenten den mest komfortable kjøringen i hastighetsområdet fra 0 til maksimalhastigheten til Audi Q4 e-tron og trafikkork.
 
-Takket være det store antallet parametere som er involvert, tilbyr den adaptive kjøreassistenten mest mulig komfortabel kjøring i hastighetsområdet fra 0 til maksimalt 250 km/t og i trafikkork. Adaptiv kjøreassistent bruker radarsensoren som er installert foran på kjøretøyet, frontkameraet og ultralydsensorene for å overvåke området rundt kjøretøyet permanent. 
+Den adaptive kjøreassistenten bruker radarsensoren som er installert foran på kjøretøyet, frontkameraet og ultralydsensorene for å overvåke området rundt bilen permanent.
 
-Systemet støttes også av et ratt med håndtaksgjenkjenning i en spesifikk rattdesign
+Rattet støtter også systemet, og merker om føreren holder rattet eller ikke.
+
+## Bruk
+
+Du aktiverer den adaptive kjøreassistenten ved å trykke på knappen for innstilt hastighet på enden av cruisekontrollspaken for å følge gjeldende hastighet eller trekke i cruisekontrollspaken for å gjenoppta den forrige innstilte hastigheten.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/cruisecontrol.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/cruisecontrols.jpg"
+        alt="Audi Q4 e-tron cruise control hendel styrer funksjonen, inkludert avstanden til bilen foran."
+        title="Audi Q4 e-tron cruise control hendel styrer funksjonen, inkludert avstanden til bilen foran.">
+    </a>
+    <figcaption><h4>Audi Q4 e-tron cruise control hendel styrer funksjonen, inkludert avstanden til bilen foran.</h4></figcaption>
+</figure>
+
+Du kan øke og redusere den innstilte hastigheten fra cruisekontrollspaken i trinn 1 eller 10 km/t. Du kan også styre avstanden til bilen foran deg fra cruisekontrollspaken.
+
+Avstanden kan styres fra ca. 1 til 3,6 sekunder i 5 forskjellige trinn.
+
+Du kan slå av kjørefeltføring for den adaptive kjøreassistenten ved å trykke på enden av blinklyshendelen.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/activelaneassist/laneassistbutton.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/activelaneassist/laneassistbuttons.jpg"
+        alt="Blinklyshendel med knapp for å slå av kjørefeltføring" title="Blinklyshendel med knapp for å slå av kjørefeltføring">
+    </a>
+    <figcaption><h4>Blinklyshendel med knapp for å slå av kjørefeltføring</h4></figcaption>
+</figure>
+
+## Prediktiv regulering
+
+Med prediktiv kontroll tilpasser [effektivitetsassistent](../predictiveefficiencyassist/) den innstilte hastigheten i adaptiv cruisekontroll basert på oppdagede fartsgrenser og den kommende ruten.
+
+Når systemet ikke lenger oppdager noen hendelser, vil adaptiv cruisekontroll akselerere tilbake til den siste hastigheten som føreren satte.
+
+ <figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings1nb.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings1nbs.jpg"
+        alt="Adaptive Cruise assist settings" title="Adaptive Cruise assist settings">
+    </a>
+    <figcaption><h4>Adaptive Cruise assist settings</h4></figcaption>
+</figure>
+
+### Fartsgrenser
+
+Hvis du aktiverer prediktiv kontroll for hastighetsbegrensende vil adaptiv kjøreassistent justere hastigheten i henhold til fartsgrensen som er dokumentert i navigasjonssystemet eller hastigheten som leses av skilt langs veien.
+
+Det er tre valg
+
+- Av
+- På
+- Med avvik
+
+ <figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings2nb.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings2nbs.jpg"
+        alt="Controlling speed in predictive controls" title="Controlling speed in predictive controls">
+    </a>
+    <figcaption><h4>Controlling speed in predictive controls</h4></figcaption>
+</figure>
+
+### Kurveassistent
+
+Den adaptive kjøreassistenten kan bruke informasjon fra navigasjonssystemet for å tilpasse seg veien.
+
+Dette kan være svinger, veikryss eller rundkjøringer. Den adaptive kjøreassistenten vil redusere hastigheten og gå tilbake til den innstilte hastigheten når du har passert det spesifikke området.
+
+Hvis du har satt et navigasjonsmål, vil det også redusere hastigheten før et kryss der du må ta av veien du kjører på.
+
+ <figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings3nb.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings3nbs.jpg"
+        alt="Justeringer for kurveassistent" title="Justeringer for kurveassistent">
+    </a>
+    <figcaption><h4>Justeringer for kurveassistent</h4></figcaption>
+</figure>
+
+## Videos
 
 Animasjonen nedenfor viser en video av hvordan dette fungerer på en Audi A6.
 
