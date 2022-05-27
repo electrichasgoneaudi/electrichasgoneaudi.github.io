@@ -274,7 +274,7 @@ Below you see the full specification and options comparison of the models.
 | Rear window curtains | N/A | option |
 | Cruise control | [option](../../q4-e-tron/technology/drivingassistance/cruisecontrol/) | [standard](../../e-tron/technology/drivingassistance/cruisecontrol/) |
 | Active Lane assist | [standard](../../q4-e-tron/technology/drivingassistance/activelaneassist/) | [standard](../../e-tron/technology/drivingassistance/activelaneassist/) |
-| Adaptive cruise assist | [option](../../e-tron/technology/drivingassistance/adaptivecruiseassist/) | [option](../../e-tron/technology/drivingassistance/adaptivecruiseassist/) |
+| Adaptive cruise assist | [option](../../q4-e-tron/technology/drivingassistance/adaptivecruiseassist/) | [option](../../e-tron/technology/drivingassistance/adaptivecruiseassist/) |
 | Adaptive Cruise control with speed limiter | [option](../../q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/) | [option](../../e-tron/technology/drivingassistance/adaptivecruisecontrol/) |
 | Pre Sense Basic | [option](../../q4-e-tron/technology/drivingassistance/presensebasic/) | [standard](../../e-tron/technology/drivingassistance/presensebasic/) |
 | Pre Sense front | [standard](../../q4-e-tron/technology/drivingassistance/presensefront/) | [standard](../../q4-e-tron/technology/drivingassistance/presensefront/) |

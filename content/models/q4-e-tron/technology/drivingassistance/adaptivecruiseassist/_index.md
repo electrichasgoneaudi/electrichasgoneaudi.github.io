@@ -33,7 +33,15 @@ You enable the Adaptive cruise assist by pressing the set speed button on the en
 You can increase and reduce the set speed from the cruise control stalk in steps 1 or 10 km/h.
 You can also control the distance to the car in front of you from the cruise control stalk.
 
-The distance can be controlled from approx 1 to 3.6 seconds in 5 different steps.
+The distance can be controlled from approx 1 to 3.6 seconds in 5 different steps. The virtual cockpit and the optional head-up display show the distance set.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/headupdistance.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/headupdistances.jpg"
+        alt="Head-up display with distance line" title="Head-up display with distance line">
+    </a>
+    <figcaption><h4>Head-up display with distance line</h4></figcaption>
+</figure>
 
 You can turn off the lane guidance part of the adaptive cruise assist by pressing the end of the direction indicator stalk.
 

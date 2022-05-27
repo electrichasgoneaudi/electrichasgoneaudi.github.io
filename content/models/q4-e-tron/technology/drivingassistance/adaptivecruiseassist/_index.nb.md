@@ -32,7 +32,16 @@ Du aktiverer den adaptive kjøreassistenten ved å trykke på knappen for innsti
 
 Du kan øke og redusere den innstilte hastigheten fra cruisekontrollspaken i trinn 1 eller 10 km/t. Du kan også styre avstanden til bilen foran deg fra cruisekontrollspaken.
 
-Avstanden kan styres fra ca. 1 til 3,6 sekunder i 5 forskjellige trinn.
+Avstanden kan styres fra ca. 1 til 3,6 sekunder i 5 forskjellige trinn. Virtual cockpit og head-up display viser avstandend som er satt.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/headupdistance.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/headupdistances.jpg"
+        alt="Head-up display med avstandslinje" title="Head-up display med avstandslinje">
+    </a>
+    <figcaption><h4>Head-up display med avstandslinje</h4></figcaption>
+</figure>
+
 
 Du kan slå av kjørefeltføring for den adaptive kjøreassistenten ved å trykke på enden av blinklyshendelen.
 
