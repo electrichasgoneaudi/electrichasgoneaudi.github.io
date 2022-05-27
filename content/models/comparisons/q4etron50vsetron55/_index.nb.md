@@ -292,26 +292,26 @@ Nedenfor ser du den fullstendige spesifikasjonen og alternativsammenligningen av
 | Heated rear seats | N/A | [option](../../e-tron/interior/seats/) |
 | Air Condition | [standard](../../q4-e-tron/technology/climatecontrol/) | [standard](../../e-tron/technology/climatecontrol/) |
 | A/C zones | 1 (3 optional(WNW/PYC)) | 2 (4 optional) |
-| Heatpump | [option](../../q4-e-tron/technology/climatecontrol/) | [standard](../../e-tron/technology/climatecontrol/) |
-| Rear window curtains | N/A | option |
+| Varmepumpe | [option](../../q4-e-tron/technology/climatecontrol/) | [standard](../../e-tron/technology/climatecontrol/) |
+| Gardiner bakvindu | N/A | option |
 | Cruise control | [option](../../q4-e-tron/technology/drivingassistance/cruisecontrol/) | [standard](../../e-tron/technology/drivingassistance/cruisecontrol/) |
 | Active Lane assist | [standard](../../q4-e-tron/technology/drivingassistance/activelaneassist/) | [standard](../../e-tron/technology/drivingassistance/activelaneassist/) |
-| Adaptive cruise assist | [option](../../e-tron/technology/drivingassistance/adaptivecruiseassist/) | [option](../../e-tron/technology/drivingassistance/adaptivecruiseassist/) |
-| Adaptive Cruise control with speed limiter | [option](../../q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/) | [option](../../e-tron/technology/drivingassistance/adaptivecruisecontrol/) |
+| Adaptiv kjøreassistent | [option](../../e-tron/technology/drivingassistance/adaptivecruiseassist/) | [option](../../e-tron/technology/drivingassistance/adaptivecruiseassist/) |
+| Adaptive Cruise control med fartsbegrenser | [option](../../q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/) | [option](../../e-tron/technology/drivingassistance/adaptivecruisecontrol/) |
 | Pre Sense Basic | [option](../../q4-e-tron/technology/drivingassistance/presensebasic/) | [standard](../../e-tron/technology/drivingassistance/presensebasic/) |
 | Pre Sense front | [standard](../../q4-e-tron/technology/drivingassistance/presensefront/) | [standard](../../q4-e-tron/technology/drivingassistance/presensefront/) |
 | Pre Sense rear | [option](../../q4-e-tron/technology/drivingassistance/presenserear/) | [option](../../e-tron/technology/drivingassistance/presenserear/) |
 | Pre Sense side | N/A | [option](../../e-tron/technology/drivingassistance/presenseside/) |
-| Effiency assist | [standard](../../q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/) | [standard](../../e-tron/technology/drivingassistance/predictiveefficiencyassist/) |
-| Distance warning | [standard](../../q4-e-tron/technology/drivingassistance/distancewarning/) | [standard](../../e-tron/technology/drivingassistance/distancewarning/) |
+| Effektivitetsassistent | [standard](../../q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/) | [standard](../../e-tron/technology/drivingassistance/predictiveefficiencyassist/) |
+| Avstandsvarsling | [standard](../../q4-e-tron/technology/drivingassistance/distancewarning/) | [standard](../../e-tron/technology/drivingassistance/distancewarning/) |
 | Night Vision | N/A | [option](../../e-tron/technology/drivingassistance/nightvision/) |
 | Head up display | [option (AR)](../../q4-e-tron/technology/uiandoperations/headupdisplay/) | [option](../../e-tron/technology/uiandoperations/headupdisplay/) |
 | Speed limiter | [standard](../../e-tron/technology/drivingassistance/speedlimiter/) | [standard](../../e-tron/technology/drivingassistance/speedlimiter/) |
 | Park assist | N/A | [option](../../e-tron/technology/drivingassistance/parkassist/) |
 | Cross traffic assist rear | [option](../../q4-e-tron/technology/drivingassistance/crosstrafficassistrear/) | [option](../../e-tron/technology/drivingassistance/crosstrafficassistrear/) |
-| Exit warning | [option](../../q4-e-tron/technology/drivingassistance/exitwarning/) | [option](../../e-tron/technology/drivingassistance/exitwarning/) |
+| Utstigningsvarsling| [option](../../q4-e-tron/technology/drivingassistance/exitwarning/) | [option](../../e-tron/technology/drivingassistance/exitwarning/) |
 | Collision avoidance assist | [standard](../../q4-e-tron/technology/drivingassistance/collisionavoidanceassist/) | [option](../../e-tron/technology/drivingassistance/collisionavoidanceassist/) |
-| Audi side assist | [option](../../q4-e-tron/technology/drivingassistance/sideassist/) | [option](../../e-tron/technology/drivingassistance/sideassist/) |
+| Feltskifteassistent | [option](../../q4-e-tron/technology/drivingassistance/sideassist/) | [option](../../e-tron/technology/drivingassistance/sideassist/) |
 | 360 degree cameras | [option](../../q4-e-tron/technology/drivingassistance/360camera/) | [option](../../e-tron/technology/drivingassistance/360camera/) |
 | Reversing camera | option | [option](../../e-tron/technology/drivingassistance/reversingcamera/) |
 | Crossing assist | N/A | [option](../../e-tron/technology/drivingassistance/crossingassist/) |
@@ -340,39 +340,37 @@ Nedenfor ser du den fullstendige spesifikasjonen og alternativsammenligningen av
 | Kick sensor | [option](../../q4-e-tron/exterior/doors/) | [option](../../e-tron/exterior/doors/) |
 | Audi connect key | N/A | [option](../../e-tron/technology/lockingsystems/#audi-connect-key-2f1) |
 | Air quality package | N/A | [option](../../e-tron/technology/airquality/) |
-| Standard colors  |  [8](../../q4-e-tron/exterior/paint/)  |  [14](../../e-tron/exterior/paint/)  |
-| Audi exclusive colors | N/A | [option](../../e-tron/exterior/paint/) |
-| Black optics    | [option](../../q4-e-tron/exterior/optics/) | [option](../../e-tron/exterior/optics/) |
+| Standard farger |  [8](../../q4-e-tron/exterior/paint/)  |  [14](../../e-tron/exterior/paint/)  |
+| Audi exclusive farger | N/A | [option](../../e-tron/exterior/paint/) |
+| Sort optikk   | [option](../../q4-e-tron/exterior/optics/) | [option](../../e-tron/exterior/optics/) |
 | Privacy windows  | [option](../../q4-e-tron/exterior/windows/) | [option](../../e-tron/exterior/windows/) |
-| S-line exterior | [option](../../e-tron/exterior/s-line) | [option](../../e-tron/exterior/s-line/) |
-| S-line interior | [option](../../e-tron/interior/sline/) | [option](../../e-tron/interior/sline/) |
+| S-line eksteriør | [option](../../e-tron/exterior/s-line) | [option](../../e-tron/exterior/s-line/) |
+| S-line interiør | [option](../../e-tron/interior/sline/) | [option](../../e-tron/interior/sline/) |
 | Premium Sound system | [Sonos](../../q4-e-tron/technology/soundsystem/) | [Bang & Olufsen](../../e-tron/technology/soundsystem/) |
 
-### Dimension comparison
+### Sammenligning dimmensjoner
 <!-- markdownlint-disable MD033 -->
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison1.jpg"
-        alt="Size comparison Q4 and e-tron" title="Size comparison Q4 and e-tron">
+        alt="Størrelse sammenligning Q4 og e-tron" title="Størrelse sammenligning Q4 og e-tron">
     </a>
-    <figcaption><h4>Size comparison Q4 and e-tron</h4></figcaption>
+    <figcaption><h4>Størrelse sammenligning Q4 og e-tron</h4></figcaption>
 </figure>
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison2.jpg"
-        alt="Size comparison Q4 and e-tron" title="Size comparison Q4 and e-tron">
+        alt="Størrelse sammenligning Q4 og e-tron" title="Størrelse sammenligning Q4 og e-tron">
     </a>
-    <figcaption><h4>Size comparison Q4 and e-tron</h4></figcaption>
+    <figcaption><h4>Størrelse sammenligning Q4 og e-tron</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison3.jpg"
-        alt="Size comparison Q4 and e-tron" title="Size comparison Q4 and e-tron">
+        alt="Størrelse sammenligning Q4 og e-tron" title="Størrelse sammenligning Q4 og e-tron">
     </a>
-    <figcaption><h4>Size comparison Q4 and e-tron</h4></figcaption>
+    <figcaption><h4>Størrelse sammenligning Q4 og e-tron</h4></figcaption>
 </figure>
-
-
 
 {{% children description="true" depth="1" %}}
