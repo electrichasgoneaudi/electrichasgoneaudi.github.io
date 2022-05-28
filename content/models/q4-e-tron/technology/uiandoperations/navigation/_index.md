@@ -48,6 +48,22 @@ You can plan routes from previous destinations, favorites, contact addresses, an
 In the below set of images, you see how it is to search and create a route going to IKEA from the MMI system.
 
 <figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/searchs.jpg"
+        alt="Step 1: Input for search can be done with hand writing in display" title="Step 1: Input for search can be done with hand writing in display">
+    </a>
+    <figcaption><h4>Step 1: Input for search can be done with hand writing in display</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/searchb.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/searchbs.jpg"
+        alt="Step 1: Input for search can be done with keyboard when car is stationary" title="Step 1: Input for search can be done with keyboard when car is stationary">
+    </a>
+    <figcaption><h4>Step 1: Input for search can be done with keyboard when car is stationary</h4></figcaption>
+</figure>
+
+<figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search2s.jpg"
         alt="Step 2: Selecting correct search result and pressing start" title="Step 2: Selecting correct search result and pressing start">

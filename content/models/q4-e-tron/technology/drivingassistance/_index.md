@@ -30,7 +30,7 @@ Important driver assist systems come as standard, the optional systems are subdi
 | [Pre Sense front](presensefront) | standard |
 | [Pre Sense rear](presenserear) | option |
 | Pre Sense side | N/A |
-| Distance warning | standard |
+| [Distance warning](distancewarning) | standard |
 | Night Vision | N/A |
 | [Speed limiter](speedlimiter) | standard |
 | Park assist | N/A |

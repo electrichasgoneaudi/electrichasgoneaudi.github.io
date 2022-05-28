@@ -7,59 +7,63 @@ weight: 7
 <!-- markdownlint-disable MD033 -->
 ## Standard nøkkel
 
-Standardnøkkelen på Audi Q4 e-tron er utstyrt med Keyless Go. Dette betyr at motorstartautorisasjonen frigis uten aktiv betjening av nøkkelen.
+Keyless Go er standard på Audi Q4 e-tron.
 
-For å gjøre dette må sjåføren sitte i kjøretøyet og ha med seg bekvemmelighetsnøkkelen.
+Keyless Go-utløser gjør det mulig å starte motoren uten å aktivere nøkkelen aktivt.
 
-Motoren startes og slås av ved hjelp av motorstart-stopp-knappen i midtkonsollen.
+Sjåføren må sitte i kjøretøyet og bære nøkkelen.
 
-<figure>
+Motoren starter når du trykker på bremsepedalen og setter bilen i gir. Den stopper når sjåføren forlater kjøretøyet. Føreren kan også bruke start/stopp-knappen for å starte/stoppe tenningen.
+
+<figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/startbutton.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/startbuttons.jpg"
-        alt="Midtkonsoll med start/stopp-knapp" title="Midtkonsoll med start/stopp-knapp">
+        alt="Senterkonsoll med start/stopp-knapp" title="Mentkonsoll med start/stopp-knapp">
     </a>
     <figcaption><h4>Midtkonsoll med start/stopp-knapp</h4></figcaption>
-</figure>
+</figur>
 
-## Komfortnøkkel PGC
+## Advance key 4K5
 
-Forhånds-/bekvemmelighetsnøkkelen gir praktisk kontroll over tilgang og motorstartautorisasjon uten at nøkkelen må betjenes aktivt
+I tillegg til Keyless Go, tilbyr forhånds-/bekvemmelighetsnøkkelen nøkkelfri adgang.
 
-Ved å betjene dørhåndtaket kan kjøretøyet åpnes uten aktiv bruk av nøkkelen. Dette er mulig med alle dører. Adgangsautorisasjonen bekreftes av trådløs kommunikasjon mellom nøkkelen og kjøretøyet.
+Føreren kan åpne kjøretøyet ved å betjene dørhåndtaket uten å bruke nøkkelen aktivt.
 
-For å låse kjøretøyet fra utsiden trenger du bare å trykke på en av sensorknappene på alle dørhåndtakene.
+Nøkkelfri adgang er mulig med alle dører. Trådløs kommunikasjon mellom nøkkelen og kjøretøyet bekrefter tilgangsautorisasjonen.
 
-Bagasjeromslokket kan enkelt låses opp ved hjelp av bagasjeromsknappen på bekvemmelighetsnøkkelen eller, hvis du ikke har fri hånd, med en fotbevegelse (sparkbevegelse) bak.
+For å låse kjøretøyet fra utsiden, må du berøre en av sensorknappene på alle dørhåndtak.
 
-<figure>
+Når det elektriske bakdøralternativet er tilgjengelig (alternativ 4E6), kan bagasjeromslokket enkelt låses opp ved hjelp av bagasjeromsknappen på bekvemmelighetsnøkkelen.
+
+Hvis du ikke har hendene frie, kan du bruke en fotbevegelse (sparkbevegelse) bak.
+
+<figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/kicksensor.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/kicksensors.jpg"
-        alt="Med komfortnøkkel kan du åpne bakluken ved å sparke foten under bakluken" title="Med komfortnøkkel kan du åpne bakluken ved å sparke foten under bakluken">
+        alt="Du kan åpne bakluken med forhåndsnøkkelen ved å sparke foten under bakluken." title="Du kan åpne bakluken med fremføringsnøkkelen ved å sparke foten under bakluken.">
     </a>
-    <figcaption><h4>Med komfortnøkkel kan du åpne bakluken ved å sparke foten under bakluken</h4></figcaption>
-</figure>
+    <figcaption><h4>Du kan åpne bakluken med forhåndsnøkkelen ved å sparke foten under bakluken.</h4></figcaption>
+</figur>
 
-Som standardnøkkel er fremføringsnøkkelen på Audi Q4 e-tron utstyrt med Keyless Go. Dette betyr
-motorstartautorisasjonen frigis også uten aktiv betjening av bekvemmelighetsnøkkelen.
+## Advance-tast i kombinasjon med funksjonspakke 1 alternativ 4K6
 
-For å gjøre dette må sjåføren sitte i kjøretøyet og ha med seg bekvemmelighetsnøkkelen.
+Kjøper du bekvemmelighetsnøkkelen i kombinasjon med funksjonspakke 1 får du samme funksjonalitet som ovenfor, men du får også Safelock.
 
-Motoren startes og slås av ved hjelp av motorstart-stopp-knappen i midtkonsollen.
+Safelock forhindrer at dørene åpnes fra innsiden når de er låst.
 
-En visuell differensiering av høy kvalitet på toppen og bunnen av nøkkelen gjennom høyglans sorte komponenter og metallspenner i aluminiumslook gjør de innovative funksjonene til bekvemmelighetstasten synlige.
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/advancekey.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/advancekeys.jpg"
-        alt="Audi Advance key" title="Audi Advance key">
+Dette alternativet inkluderer også et tyverialarmsystem med en kupe sensor.
+
+## Innstillinger
+
+Du kan konfigurere låsesystemet i Audi Q4 e-tron MMI.
+
+<figur>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/settings1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/settings1s.jpg"
+        alt="Sentrallåsinnstillinger i Audi Q4 e-tron MMI" title="Sentrallåsinnstillinger i Audi Q4 e-tron MMI">
     </a>
-    <figcaption><h4>Audi Advance key</h4></figcaption>
-</figure>
-
-## Komfortnøkkel i kombinasjon med funksjonspakke 1
-
-
-Safelock forhindrer at dørene åpnes fra innsiden så snart kjøretøyet er låst med kjøretøynøkkelen.)
-Tyverialarmsystem
+    <figcaption><h4>Sentrallåsinnstillinger i Audi Q4 e-tron MMI</h4></figcaption>
+</figur>
 
 ## Batteribytte
 
