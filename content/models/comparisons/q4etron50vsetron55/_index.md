@@ -291,7 +291,7 @@ Below you see the full specification and options comparison of the models.
 | Collision avoidance assist | [standard](../../q4-e-tron/technology/drivingassistance/collisionavoidanceassist/) | [option](../../e-tron/technology/drivingassistance/collisionavoidanceassist/) |
 | Audi side assist | [option](../../q4-e-tron/technology/drivingassistance/sideassist/) | [option](../../e-tron/technology/drivingassistance/sideassist/) |
 | 360 degree cameras | [option](../../q4-e-tron/technology/drivingassistance/360camera/) | [option](../../e-tron/technology/drivingassistance/360camera/) |
-| Reversing camera | option | [option](../../e-tron/technology/drivingassistance/reversingcamera/) |
+| Reversing camera | [option](../../q4-e-tron/technology/drivingassistance/reversingcamera/) | [option](../../e-tron/technology/drivingassistance/reversingcamera/) |
 | Crossing assist | N/A | [option](../../e-tron/technology/drivingassistance/crossingassist/) |
 | Turn assist | [option](../../q4-e-tron/technology/drivingassistance/turnassist/)| [option](../../e-tron/technology/drivingassistance/turnassist/) |
 | Traffic sign recognition | [option](../../q4-e-tron/technology/drivingassistance/trafficsignrecognition/) | [option](../../e-tron/technology/drivingassistance/trafficsignrecognition/) |

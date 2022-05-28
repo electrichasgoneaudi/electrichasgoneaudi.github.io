@@ -275,8 +275,8 @@ Nedenfor ser du den fullstendige spesifikasjonen og alternativsammenligningen av
 | TPMS  | Indirect | [Indirect (direct option)](../../e-tron/technology/tpms/)|
 | Tire repair set | option | standard |
 | Virtual Cockpit | [option](../../q4-e-tron/technology/uiandoperations/virtualcockpit/)  | [standard](../../e-tron/technology/uiandoperations/virtualcockpit/) |
-| Virtual Cockpit screensize | 10.25"  | 12.3" |
-| Virtual Cockpit resolution |  1,440 x 540 | 1,920 x 720  |
+| Virtual Cockpit skjermstørrelse | 10.25"  | 12.3" |
+| Virtual Cockpit oppløsning |  1,440 x 540 | 1,920 x 720  |
 | Virtual Cockpit plus | [option](../../q4-e-tron/technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus) | [option](../../e-tron/technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus) |
 | Audi MMI System | [MMI touch](../../q4-e-tron/technology/uiandoperations/mmi/) | [MMI Touch Response](../../e-tron/technology/uiandoperations/mmi/)  |
 | MMI Navigation Plus | [option](../../q4-e-tron/technology/uiandoperations/navigation/) | [standard](../../e-tron/technology/uiandoperations/navigation/) |
@@ -289,7 +289,7 @@ Nedenfor ser du den fullstendige spesifikasjonen og alternativsammenligningen av
 | Heated front window | [option](../../q4-e-tron/exterior/windows/#heated-and-acoustic-front-window) | N/A |
 | Heated steering wheel | [option](../../q4-e-tron/interior/steeringwheels/) | [option](../../e-tron/interior/steeringwheels/) |
 | Heated front seats | [option](../../q4-e-tron/interior/seats/) | [option](../../e-tron/interior/seats/) |
-| Heated rear seats | N/A | [option](../../e-tron/interior/seats/) |
+| Oppvarmede bakseter | N/A | [option](../../e-tron/interior/seats/) |
 | Air Condition | [standard](../../q4-e-tron/technology/climatecontrol/) | [standard](../../e-tron/technology/climatecontrol/) |
 | A/C zones | 1 (3 optional(WNW/PYC)) | 2 (4 optional) |
 | Varmepumpe | [option](../../q4-e-tron/technology/climatecontrol/) | [standard](../../e-tron/technology/climatecontrol/) |
@@ -313,10 +313,11 @@ Nedenfor ser du den fullstendige spesifikasjonen og alternativsammenligningen av
 | Collision avoidance assist | [standard](../../q4-e-tron/technology/drivingassistance/collisionavoidanceassist/) | [option](../../e-tron/technology/drivingassistance/collisionavoidanceassist/) |
 | Feltskifteassistent | [option](../../q4-e-tron/technology/drivingassistance/sideassist/) | [option](../../e-tron/technology/drivingassistance/sideassist/) |
 | 360 degree cameras | [option](../../q4-e-tron/technology/drivingassistance/360camera/) | [option](../../e-tron/technology/drivingassistance/360camera/) |
-| Reversing camera | option | [option](../../e-tron/technology/drivingassistance/reversingcamera/) |
+| Ryggekamera | [option](../../q4-e-tron/technology/drivingassistance/reversingcamera/) | [option](../../e-tron/technology/drivingassistance/reversingcamera/) |
 | Crossing assist | N/A | [option](../../e-tron/technology/drivingassistance/crossingassist/) |
 | Turn assist | [option](../../q4-e-tron/technology/drivingassistance/turnassist/)| [option](../../e-tron/technology/drivingassistance/turnassist/) |
 | Traffic sign recognition | [option](../../q4-e-tron/technology/drivingassistance/trafficsignrecognition/) | [option](../../e-tron/technology/drivingassistance/trafficsignrecognition/) |
+| Creep mode | standard | N/A |
 | HD Matrix | option | [option](../../e-tron/technology/lights/#hd-matrix-led-headlights) |
 | Digital HD Matrix | N/A | [option](../../e-tron/technology/lights/#digital-matrix-led-headlights) |
 | Headlight washer | [option](../../q4-e-tron/technology/lights/) | [standard](../../e-tron/technology/lights/) |
@@ -328,12 +329,12 @@ Nedenfor ser du den fullstendige spesifikasjonen og alternativsammenligningen av
 | Heated mirrors | [option](../../q4-e-tron/exterior/mirrors/) | [option](../../e-tron/exterior/mirrors/) |
 | Auto dimming mirrors | option | option |
 | Virtual mirrors | N/A | [option](../../e-tron/exterior/mirrors/#virtual-mirrors) |
-| Homelink garage door opener | [option](../../q4-e-tron/technology/garagedooropener/) | [option](../../e-tron/technology/garagedooropener/) |
+| Homelink garasjeportåpner | [option](../../q4-e-tron/technology/garagedooropener/) | [option](../../e-tron/technology/garagedooropener/) |
 | Audi phone box | [option](../../q4-e-tron/technology/phonebox/) | [option](../../e-tron/technology/phonebox/) |
-| Ventilated seats | N/A | [option](../../e-tron/interior/seats/#ventilated-seats) |
-| Massage seats | N/A | [option](../../e-tron/interior/seats/#massage) |
-| Powered steering wheel adjustment | N/A | [option](../../e-tron/interior/steeringwheels/#adjustment) |
-| Powered tailgate | [option](../../e-tron/exterior/doors/) | [standard](../../e-tron/exterior/doors/) |
+| Ventilerte seter | N/A | [option](../../e-tron/interior/seats/#ventilated-seats) |
+| Massasje seter | N/A | [option](../../e-tron/interior/seats/#massage) |
+| Elektrisk justering av ratt | N/A | [option](../../e-tron/interior/steeringwheels/#adjustment) |
+| Elektrisk bakluke| [option](../../e-tron/exterior/doors/) | [standard](../../e-tron/exterior/doors/) |
 | KeyLess Go | [standard](../../q4-e-tron/technology/lockingsystems/) | [standard](../../e-tron/technology/lockingsystems/) |
 | Keyless Entry | [option](../../q4-e-tron/technology/lockingsystems/) | [option](../../e-tron/technology/lockingsystems/) |
 | Theft Alarm | [option](../../q4-e-tron/technology/lockingsystems/) | [option](../../e-tron/technology/lockingsystems/) |
