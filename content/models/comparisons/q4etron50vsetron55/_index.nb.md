@@ -239,26 +239,27 @@ Nedenfor ser du den fullstendige spesifikasjonen og alternativsammenligningen av
 
 |     | **Q4 e-tron 50 quattro** | **e-tron 55 quattro** |
 | ----------- | ----------- |----------- |
-| Peak electrical output in KW (hp) | 195(265) | 265(360) |
-| Peak electrical output boost in kW (hp) | 220(299) | 300 (408) |
+| Maks effekt KW (hp) | 195(265) | 265(360) |
+| Maks effekt boost in kW (hp) | 220(299) | 300 (408) |
 | 0 -100 km/h (62.1 mph) in s(boost) | ? (6.2) | 6.6 (5.7)|
 | Top speed in km/h (mph) | 180 | 200 (124.3) |
 | Drive | Quattro | Quattro |
-| Adaptive Air suspension | N/A | [standard](../../e-tron/drivetrain/suspension/) |
-| Progressive steering | [standard](../../q4-e-tron/drivetrain/suspension/) | [standard](../../e-tron/drivetrain/suspension/) |
-| Audi drive select | [option](../../q4-e-tron/technology/audidriveselect/) | [standard](../../e-tron/technology/audidriveselect/) |
-| Gross battery | 82kWh | [95kWh](../../e-tron/drivetrain/battery/) |
+| Maks regenering | [145KW](../../q4-e-tron/drivetrain/brakes/) | [220KW](../../e-tron/drivetrain/brakes/) |
+| Adaptive luftdempere | N/A | [standard](../../e-tron/drivetrain/suspension/) |
+| Progressiv styring | [standard](../../q4-e-tron/drivetrain/suspension/) | [standard](../../e-tron/drivetrain/suspension/) |
+| Audi drive select | [ekstrautstyr](../../q4-e-tron/technology/audidriveselect/) | [standard](../../e-tron/technology/audidriveselect/) |
+| Brutto batteri | 82kWh | [95kWh](../../e-tron/drivetrain/battery/) |
 | Net battery | 77kWh | [86.5kWh](../../e-tron/drivetrain/battery/) |
 | Max DC Charging | 125 kW | [150 kW](../../e-tron/drivetrain/battery/#charging-performance) |
 | AC Charging  | 11 KW | [11KW (22KW optional)](../../e-tron/technology/onboardcharger/#optional-22kw-charger)|
-| Additional charge port | N/A | [option](../../e-tron/technology/onboardcharger/#optional-charge-port) |
+| Additional charge port | N/A | [ekstrautstyr](../../e-tron/technology/onboardcharger/#optional-charge-port) |
 | Pre heating battery | Yes | No |
 | WLTP Range basic trim | 488km | 441km |
 | Calculated consumption basic trim | 15.8 kWh/100km | 19.6 kWh/100km |
 | WLTP Range top trim | 449km | 369km |
 | Calculated consumption top trim | 17.14 kWh/100km | 23.4 kWh/100km |
 | Max trailer weight | [1200kg](../../q4-e-tron/transportation/#trailer) | [1800kg](../../e-tron/transportation/#trailer) |
-| Roof rails | [standard](../../q4-e-tron/transportation/#roof-storage) | [option](../../e-tron/transportation/#roof-storage) |
+| Roof rails | [standard](../../q4-e-tron/transportation/#roof-storage) | [ekstrautstyr](../../e-tron/transportation/#roof-storage) |
 | Max roof weight | 75kg | 75kg |
 | Cargo space | 520 l| 660 l |
 | Cargo space seat down | 1490l | 1725 l |
@@ -276,80 +277,80 @@ Nedenfor ser du den fullstendige spesifikasjonen og alternativsammenligningen av
 | Number of wheels | 10 |  11 |
 | TPMS  | Indirect | [Indirect (direct option)](../../e-tron/technology/tpms/)|
 | Tire repair set | option | standard |
-| Virtual Cockpit | [option](../../q4-e-tron/technology/uiandoperations/virtualcockpit/)  | [standard](../../e-tron/technology/uiandoperations/virtualcockpit/) |
+| Virtual Cockpit | [ekstrautstyr](../../q4-e-tron/technology/uiandoperations/virtualcockpit/)  | [standard](../../e-tron/technology/uiandoperations/virtualcockpit/) |
 | Virtual Cockpit skjermstørrelse | 10.25"  | 12.3" |
 | Virtual Cockpit oppløsning |  1,440 x 540 | 1,920 x 720  |
-| Virtual Cockpit plus | [option](../../q4-e-tron/technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus) | [option](../../e-tron/technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus) |
+| Virtual Cockpit plus | [ekstrautstyr](../../q4-e-tron/technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus) | [ekstrautstyr](../../e-tron/technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus) |
 | Audi MMI System | [MMI touch](../../q4-e-tron/technology/uiandoperations/mmi/) | [MMI Touch Response](../../e-tron/technology/uiandoperations/mmi/)  |
-| MMI Navigation Plus | [option](../../q4-e-tron/technology/uiandoperations/navigation/) | [standard](../../e-tron/technology/uiandoperations/navigation/) |
+| MMI Navigation Plus | [ekstrautstyr](../../q4-e-tron/technology/uiandoperations/navigation/) | [standard](../../e-tron/technology/uiandoperations/navigation/) |
 | MMI main screen size | 10.1" (11.6" option) | 10.1" |
 | MMI main screen resolution | 1540 x 720 (1,764 x 824 option) | 1540 x 720  |
 | MMI secondary screen size | N/A |8.6" |
 | MMI secondary screen resolution | N/A | 1,280 x 660|
-| Audi Smartphone Interface | [option](../../q4-e-tron/technology/uiandoperations/smartphoneinterface/) | [option](../../e-tron/technology/uiandoperations/smartphoneinterface/) |
-| Adaptive whipers | N/A | [option](../../e-tron/technology/wipers/) |
-| Heated front window | [option](../../q4-e-tron/exterior/windows/#heated-and-acoustic-front-window) | N/A |
-| Heated steering wheel | [option](../../q4-e-tron/interior/steeringwheels/) | [option](../../e-tron/interior/steeringwheels/) |
-| Heated front seats | [option](../../q4-e-tron/interior/seats/) | [option](../../e-tron/interior/seats/) |
-| Oppvarmede bakseter | N/A | [option](../../e-tron/interior/seats/) |
+| Audi Smartphone Interface | [ekstrautstyr](../../q4-e-tron/technology/uiandoperations/smartphoneinterface/) | [ekstrautstyr](../../e-tron/technology/uiandoperations/smartphoneinterface/) |
+| Adaptive whipers | N/A | [ekstrautstyr](../../e-tron/technology/wipers/) |
+| Heated front window | [ekstrautstyr](../../q4-e-tron/exterior/windows/#heated-and-acoustic-front-window) | N/A |
+| Heated steering wheel | [ekstrautstyr](../../q4-e-tron/interior/steeringwheels/) | [ekstrautstyr](../../e-tron/interior/steeringwheels/) |
+| Heated front seats | [ekstrautstyr](../../q4-e-tron/interior/seats/) | [ekstrautstyr](../../e-tron/interior/seats/) |
+| Oppvarmede bakseter | N/A | [ekstrautstyr](../../e-tron/interior/seats/) |
 | Air Condition | [standard](../../q4-e-tron/technology/climatecontrol/) | [standard](../../e-tron/technology/climatecontrol/) |
 | A/C zones | 1 (3 optional(WNW/PYC)) | 2 (4 optional) |
-| Varmepumpe | [option](../../q4-e-tron/technology/climatecontrol/) | [standard](../../e-tron/technology/climatecontrol/) |
+| Varmepumpe | [ekstrautstyr](../../q4-e-tron/technology/climatecontrol/) | [standard](../../e-tron/technology/climatecontrol/) |
 | Gardiner bakvindu | N/A | option |
-| Cruise control | [option](../../q4-e-tron/technology/drivingassistance/cruisecontrol/) | [standard](../../e-tron/technology/drivingassistance/cruisecontrol/) |
+| Cruise control | [ekstrautstyr](../../q4-e-tron/technology/drivingassistance/cruisecontrol/) | [standard](../../e-tron/technology/drivingassistance/cruisecontrol/) |
 | Active Lane assist | [standard](../../q4-e-tron/technology/drivingassistance/activelaneassist/) | [standard](../../e-tron/technology/drivingassistance/activelaneassist/) |
-| Adaptiv kjøreassistent | [option](../../e-tron/technology/drivingassistance/adaptivecruiseassist/) | [option](../../e-tron/technology/drivingassistance/adaptivecruiseassist/) |
-| Adaptive Cruise control med fartsbegrenser | [option](../../q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/) | [option](../../e-tron/technology/drivingassistance/adaptivecruisecontrol/) |
-| Pre Sense Basic | [option](../../q4-e-tron/technology/drivingassistance/presensebasic/) | [standard](../../e-tron/technology/drivingassistance/presensebasic/) |
+| Adaptiv kjøreassistent | [ekstrautstyr](../../e-tron/technology/drivingassistance/adaptivecruiseassist/) | [ekstrautstyr](../../e-tron/technology/drivingassistance/adaptivecruiseassist/) |
+| Adaptive Cruise control med fartsbegrenser | [ekstrautstyr](../../q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/) | [ekstrautstyr](../../e-tron/technology/drivingassistance/adaptivecruisecontrol/) |
+| Pre Sense Basic | [ekstrautstyr](../../q4-e-tron/technology/drivingassistance/presensebasic/) | [standard](../../e-tron/technology/drivingassistance/presensebasic/) |
 | Pre Sense front | [standard](../../q4-e-tron/technology/drivingassistance/presensefront/) | [standard](../../q4-e-tron/technology/drivingassistance/presensefront/) |
-| Pre Sense rear | [option](../../q4-e-tron/technology/drivingassistance/presenserear/) | [option](../../e-tron/technology/drivingassistance/presenserear/) |
-| Pre Sense side | N/A | [option](../../e-tron/technology/drivingassistance/presenseside/) |
+| Pre Sense rear | [ekstrautstyr](../../q4-e-tron/technology/drivingassistance/presenserear/) | [ekstrautstyr](../../e-tron/technology/drivingassistance/presenserear/) |
+| Pre Sense side | N/A | [ekstrautstyr](../../e-tron/technology/drivingassistance/presenseside/) |
 | Effektivitetsassistent | [standard](../../q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/) | [standard](../../e-tron/technology/drivingassistance/predictiveefficiencyassist/) |
 | Avstandsvarsling | [standard](../../q4-e-tron/technology/drivingassistance/distancewarning/) | [standard](../../e-tron/technology/drivingassistance/distancewarning/) |
-| Night Vision | N/A | [option](../../e-tron/technology/drivingassistance/nightvision/) |
-| Head up display | [option (AR)](../../q4-e-tron/technology/uiandoperations/headupdisplay/) | [option](../../e-tron/technology/uiandoperations/headupdisplay/) |
-| Speed limiter | [standard](../../e-tron/technology/drivingassistance/speedlimiter/) | [standard](../../e-tron/technology/drivingassistance/speedlimiter/) |
-| Park assist | N/A | [option](../../e-tron/technology/drivingassistance/parkassist/) |
-| Cross traffic assist rear | [option](../../q4-e-tron/technology/drivingassistance/crosstrafficassistrear/) | [option](../../e-tron/technology/drivingassistance/crosstrafficassistrear/) |
-| Utstigningsvarsling| [option](../../q4-e-tron/technology/drivingassistance/exitwarning/) | [option](../../e-tron/technology/drivingassistance/exitwarning/) |
-| Collision avoidance assist | [standard](../../q4-e-tron/technology/drivingassistance/collisionavoidanceassist/) | [option](../../e-tron/technology/drivingassistance/collisionavoidanceassist/) |
-| Feltskifteassistent | [option](../../q4-e-tron/technology/drivingassistance/sideassist/) | [option](../../e-tron/technology/drivingassistance/sideassist/) |
-| 360 degree cameras | [option](../../q4-e-tron/technology/drivingassistance/360camera/) | [option](../../e-tron/technology/drivingassistance/360camera/) |
-| Ryggekamera | [option](../../q4-e-tron/technology/drivingassistance/reversingcamera/) | [option](../../e-tron/technology/drivingassistance/reversingcamera/) |
-| Crossing assist | N/A | [option](../../e-tron/technology/drivingassistance/crossingassist/) |
-| Turn assist | [option](../../q4-e-tron/technology/drivingassistance/turnassist/)| [option](../../e-tron/technology/drivingassistance/turnassist/) |
-| Traffic sign recognition | [option](../../q4-e-tron/technology/drivingassistance/trafficsignrecognition/) | [option](../../e-tron/technology/drivingassistance/trafficsignrecognition/) |
+| Night Vision | N/A | [ekstrautstyr](../../e-tron/technology/drivingassistance/nightvision/) |
+| Head up display | [option (AR)](../../q4-e-tron/technology/uiandoperations/headupdisplay/) | [ekstrautstyr](../../e-tron/technology/uiandoperations/headupdisplay/) |
+| Fartsbegrenser | [standard](../../e-tron/technology/drivingassistance/speedlimiter/) | [standard](../../e-tron/technology/drivingassistance/speedlimiter/) |
+| Park assist | N/A | [ekstrautstyr](../../e-tron/technology/drivingassistance/parkassist/) |
+| Cross traffic assist rear | [ekstrautstyr](../../q4-e-tron/technology/drivingassistance/crosstrafficassistrear/) | [ekstrautstyr](../../e-tron/technology/drivingassistance/crosstrafficassistrear/) |
+| Utstigningsvarsling| [ekstrautstyr](../../q4-e-tron/technology/drivingassistance/exitwarning/) | [ekstrautstyr](../../e-tron/technology/drivingassistance/exitwarning/) |
+| Collision avoidance assist | [standard](../../q4-e-tron/technology/drivingassistance/collisionavoidanceassist/) | [ekstrautstyr](../../e-tron/technology/drivingassistance/collisionavoidanceassist/) |
+| Feltskifteassistent | [ekstrautstyr](../../q4-e-tron/technology/drivingassistance/sideassist/) | [ekstrautstyr](../../e-tron/technology/drivingassistance/sideassist/) |
+| 360 degree cameras | [ekstrautstyr](../../q4-e-tron/technology/drivingassistance/360camera/) | [ekstrautstyr](../../e-tron/technology/drivingassistance/360camera/) |
+| Ryggekamera | [ekstrautstyr](../../q4-e-tron/technology/drivingassistance/reversingcamera/) | [ekstrautstyr](../../e-tron/technology/drivingassistance/reversingcamera/) |
+| Crossing assist | N/A | [ekstrautstyr](../../e-tron/technology/drivingassistance/crossingassist/) |
+| Turn assist | [ekstrautstyr](../../q4-e-tron/technology/drivingassistance/turnassist/)| [ekstrautstyr](../../e-tron/technology/drivingassistance/turnassist/) |
+| Traffic sign recognition | [ekstrautstyr](../../q4-e-tron/technology/drivingassistance/trafficsignrecognition/) | [ekstrautstyr](../../e-tron/technology/drivingassistance/trafficsignrecognition/) |
 | Krypfunksjon | standard | N/A |
-| HD Matrix | option | [option](../../e-tron/technology/lights/#hd-matrix-led-headlights) |
-| Digital HD Matrix | N/A | [option](../../e-tron/technology/lights/#digital-matrix-led-headlights) |
-| Headlight washer | [option](../../q4-e-tron/technology/lights/) | [standard](../../e-tron/technology/lights/) |
-| Rear light strip | [option](../../q4-e-tron/technology/lights/) | [standard](../../e-tron/technology/lights/) |
-| Dynamic lightning | [option](../../q4-e-tron/technology/lights/) | [option](../../e-tron/technology/lights/) |
+| HD Matrix | option | [ekstrautstyr](../../e-tron/technology/lights/#hd-matrix-led-headlights) |
+| Digital HD Matrix | N/A | [ekstrautstyr](../../e-tron/technology/lights/#digital-matrix-led-headlights) |
+| Headlight washer | [ekstrautstyr](../../q4-e-tron/technology/lights/) | [standard](../../e-tron/technology/lights/) |
+| Rear light strip | [ekstrautstyr](../../q4-e-tron/technology/lights/) | [standard](../../e-tron/technology/lights/) |
+| Dynamic lightning | [ekstrautstyr](../../q4-e-tron/technology/lights/) | [ekstrautstyr](../../e-tron/technology/lights/) |
 | Entry lights | option | option |
 | Electric adjustable mirrors | [standard](../../q4-e-tron/exterior/mirrors/) | [standard](../../e-tron/exterior/mirrors/) |
-| Mirrors with memory | [option](../../q4-e-tron/exterior/mirrors/) | [option](../../e-tron/exterior/mirrors/) |
-| Heated mirrors | [option](../../q4-e-tron/exterior/mirrors/) | [option](../../e-tron/exterior/mirrors/) |
+| Mirrors with memory | [ekstrautstyr](../../q4-e-tron/exterior/mirrors/) | [ekstrautstyr](../../e-tron/exterior/mirrors/) |
+| Heated mirrors | [ekstrautstyr](../../q4-e-tron/exterior/mirrors/) | [ekstrautstyr](../../e-tron/exterior/mirrors/) |
 | Auto dimming mirrors | option | option |
-| Virtual mirrors | N/A | [option](../../e-tron/exterior/mirrors/#virtual-mirrors) |
-| Homelink garasjeportåpner | [option](../../q4-e-tron/technology/garagedooropener/) | [option](../../e-tron/technology/garagedooropener/) |
-| Audi phone box | [option](../../q4-e-tron/technology/phonebox/) | [option](../../e-tron/technology/phonebox/) |
-| Ventilerte seter | N/A | [option](../../e-tron/interior/seats/#ventilated-seats) |
-| Massasje seter | N/A | [option](../../e-tron/interior/seats/#massage) |
-| Elektrisk justering av ratt | N/A | [option](../../e-tron/interior/steeringwheels/#adjustment) |
-| Elektrisk bakluke| [option](../../e-tron/exterior/doors/) | [standard](../../e-tron/exterior/doors/) |
+| Virtual mirrors | N/A | [ekstrautstyr](../../e-tron/exterior/mirrors/#virtual-mirrors) |
+| Homelink garasjeportåpner | [ekstrautstyr](../../q4-e-tron/technology/garagedooropener/) | [ekstrautstyr](../../e-tron/technology/garagedooropener/) |
+| Audi phone box | [ekstrautstyr](../../q4-e-tron/technology/phonebox/) | [ekstrautstyr](../../e-tron/technology/phonebox/) |
+| Ventilerte seter | N/A | [ekstrautstyr](../../e-tron/interior/seats/#ventilated-seats) |
+| Massasje seter | N/A | [ekstrautstyr](../../e-tron/interior/seats/#massage) |
+| Elektrisk justering av ratt | N/A | [ekstrautstyr](../../e-tron/interior/steeringwheels/#adjustment) |
+| Elektrisk bakluke| [ekstrautstyr](../../e-tron/exterior/doors/) | [standard](../../e-tron/exterior/doors/) |
 | KeyLess Go | [standard](../../q4-e-tron/technology/lockingsystems/) | [standard](../../e-tron/technology/lockingsystems/) |
-| Keyless Entry | [option](../../q4-e-tron/technology/lockingsystems/) | [option](../../e-tron/technology/lockingsystems/) |
-| Theft Alarm | [option](../../q4-e-tron/technology/lockingsystems/) | [option](../../e-tron/technology/lockingsystems/) |
-| Kick sensor | [option](../../q4-e-tron/exterior/doors/) | [option](../../e-tron/exterior/doors/) |
-| Audi connect key | N/A | [option](../../e-tron/technology/lockingsystems/#audi-connect-key-2f1) |
-| Air quality package | N/A | [option](../../e-tron/technology/airquality/) |
+| Keyless Entry | [ekstrautstyr](../../q4-e-tron/technology/lockingsystems/) | [ekstrautstyr](../../e-tron/technology/lockingsystems/) |
+| Theft Alarm | [ekstrautstyr](../../q4-e-tron/technology/lockingsystems/) | [ekstrautstyr](../../e-tron/technology/lockingsystems/) |
+| Kick sensor | [ekstrautstyr](../../q4-e-tron/exterior/doors/) | [ekstrautstyr](../../e-tron/exterior/doors/) |
+| Audi connect key | N/A | [ekstrautstyr](../../e-tron/technology/lockingsystems/#audi-connect-key-2f1) |
+| Air quality package | N/A | [ekstrautstyr](../../e-tron/technology/airquality/) |
 | Standard farger |  [8](../../q4-e-tron/exterior/paint/)  |  [14](../../e-tron/exterior/paint/)  |
-| Audi exclusive farger | N/A | [option](../../e-tron/exterior/paint/) |
-| Sort optikk   | [option](../../q4-e-tron/exterior/optics/) | [option](../../e-tron/exterior/optics/) |
-| Privacy windows  | [option](../../q4-e-tron/exterior/windows/) | [option](../../e-tron/exterior/windows/) |
-| S-line eksteriør | [option](../../e-tron/exterior/s-line) | [option](../../e-tron/exterior/s-line/) |
-| S-line interiør | [option](../../e-tron/interior/sline/) | [option](../../e-tron/interior/sline/) |
-| Premium Sound system | [Sonos](../../q4-e-tron/technology/soundsystem/) | [Bang & Olufsen](../../e-tron/technology/soundsystem/) |
+| Audi exclusive farger | N/A | [ekstrautstyr](../../e-tron/exterior/paint/) |
+| Sort optikk   | [ekstrautstyr](../../q4-e-tron/exterior/optics/) | [ekstrautstyr](../../e-tron/exterior/optics/) |
+| Mørke vinduer | [ekstrautstyr](../../q4-e-tron/exterior/windows/) | [ekstrautstyr](../../e-tron/exterior/windows/) |
+| S-line eksteriør | [ekstrautstyr](../../e-tron/exterior/s-line) | [ekstrautstyr](../../e-tron/exterior/s-line/) |
+| S-line interiør | [ekstrautstyr](../../e-tron/interior/sline/) | [ekstrautstyr](../../e-tron/interior/sline/) |
+| Premium lydsystem| [Sonos](../../q4-e-tron/technology/soundsystem/) | [Bang & Olufsen](../../e-tron/technology/soundsystem/) |
 
 ### Sammenligning dimmensjoner
 <!-- markdownlint-disable MD033 -->

@@ -222,6 +222,7 @@ Below you see the full specification and options comparison of the models.
 | 0 -100 km/h (62.1 mph) in s(boost) | ? (6.2) | 6.6 (5.7)|
 | Top speed in km/h (mph) | 180 | 200 (124.3) |
 | Drive | Quattro | Quattro |
+| Max recuperation | [145KW](../../q4-e-tron/drivetrain/brakes/) | [220KW](../../e-tron/drivetrain/brakes/) |
 | Adaptive Air suspension | N/A | [standard](../../e-tron/drivetrain/suspension/) |
 | Progressive steering | [standard](../../q4-e-tron/drivetrain/suspension/) | [standard](../../e-tron/drivetrain/suspension/) |
 | Audi drive select | [option](../../q4-e-tron/technology/audidriveselect/) | [standard](../../e-tron/technology/audidriveselect/) |
