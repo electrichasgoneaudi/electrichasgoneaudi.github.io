@@ -5,7 +5,9 @@ description: Her finner du en detaljert sammenligning mellom Audi Q4 e-tron 50 q
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
-Selv om disse modellene er i ulike kategorier, kan prisen ligge i samme område avhengig av utstyrsnivå. I tillegg kan folk være villige til å øke/redusere budsjettet sitt avhengig av hvor mye man får for pengene.
+Selv om disse modellene er i ulike kategorier når det gjelder startpris, kan prisen overlappe avhengig av utstyrsnivå.
+
+I tillegg kan man være villige til å øke/redusere budsjettet sitt avhengig av hvor mye man får for pengene.
 
 Det er derfor vi i denne artikkelen vil gå inn på den detaljerte forskjellen mellom Audi e-tron 55 quattro og Audi Q4 e-tron 50 quattro
 
@@ -270,11 +272,11 @@ Nedenfor ser du den fullstendige spesifikasjonen og alternativsammenligningen av
 | Track width | 1587mm | 1655mm |
 | Height | 1632mm | 1629 mm |
 | Unladen weight without drive min trim | 2135kg | 2520kg |
-| Standard wheels front | 235/55-R19 | 255/55-R19 |
-| Standard wheels rear | 255/50-R19 | 255/55-R19 |
-| Optional wheels front | 235/50-R20, 235/45-R21 | 255/55-R20, 265/45-R21, 265/40-R22 |
-| Optional wheels rear | 255/45-R20,255/40-R21 | 255/55-R20, 265/45-R21, 265/40-R22  |
-| Number of wheels | 10 |  11 |
+| Standardhjul foran | 235/55-R19 | 255/55-R19 |
+| Standardhjul bak | 255/50-R19 | 255/55-R19 |
+| Alternative hjul foran | 235/50-R20, 235/45-R21 | 255/55-R20, 265/45-R21, 265/40-R22 |
+| Alternaive hjul bak | 255/45-R20,255/40-R21 | 255/55-R20, 265/45-R21, 265/40-R22  |
+| Antall felgmuligheter | 10 |  11 |
 | TPMS  | Indirect | [Indirect (direct option)](../../e-tron/technology/tpms/)|
 | Tire repair set | option | standard |
 | Virtual Cockpit | [ekstrautstyr](../../q4-e-tron/technology/uiandoperations/virtualcockpit/)  | [standard](../../e-tron/technology/uiandoperations/virtualcockpit/) |
@@ -290,13 +292,13 @@ Nedenfor ser du den fullstendige spesifikasjonen og alternativsammenligningen av
 | Audi Smartphone Interface | [ekstrautstyr](../../q4-e-tron/technology/uiandoperations/smartphoneinterface/) | [ekstrautstyr](../../e-tron/technology/uiandoperations/smartphoneinterface/) |
 | Adaptive whipers | N/A | [ekstrautstyr](../../e-tron/technology/wipers/) |
 | Heated front window | [ekstrautstyr](../../q4-e-tron/exterior/windows/#heated-and-acoustic-front-window) | N/A |
-| Heated steering wheel | [ekstrautstyr](../../q4-e-tron/interior/steeringwheels/) | [ekstrautstyr](../../e-tron/interior/steeringwheels/) |
-| Heated front seats | [ekstrautstyr](../../q4-e-tron/interior/seats/) | [ekstrautstyr](../../e-tron/interior/seats/) |
+| Oppvarmet ratt | [ekstrautstyr](../../q4-e-tron/interior/steeringwheels/) | [ekstrautstyr](../../e-tron/interior/steeringwheels/) |
+| Oppvarmet forseter | [standard](../../q4-e-tron/interior/seats/) | [standard](../../e-tron/interior/seats/) |
 | Oppvarmede bakseter | N/A | [ekstrautstyr](../../e-tron/interior/seats/) |
 | Air Condition | [standard](../../q4-e-tron/technology/climatecontrol/) | [standard](../../e-tron/technology/climatecontrol/) |
 | A/C zones | 1 (3 optional(WNW/PYC)) | 2 (4 optional) |
 | Varmepumpe | [ekstrautstyr](../../q4-e-tron/technology/climatecontrol/) | [standard](../../e-tron/technology/climatecontrol/) |
-| Gardiner bakvindu | N/A | option |
+| Gardiner bakvindu | N/A | [ekstrautstyr](../../e-tron/interior/curtain/) |
 | Cruise control | [ekstrautstyr](../../q4-e-tron/technology/drivingassistance/cruisecontrol/) | [standard](../../e-tron/technology/drivingassistance/cruisecontrol/) |
 | Active Lane assist | [standard](../../q4-e-tron/technology/drivingassistance/activelaneassist/) | [standard](../../e-tron/technology/drivingassistance/activelaneassist/) |
 | Adaptiv kjøreassistent | [ekstrautstyr](../../e-tron/technology/drivingassistance/adaptivecruiseassist/) | [ekstrautstyr](../../e-tron/technology/drivingassistance/adaptivecruiseassist/) |
@@ -317,9 +319,9 @@ Nedenfor ser du den fullstendige spesifikasjonen og alternativsammenligningen av
 | Feltskifteassistent | [ekstrautstyr](../../q4-e-tron/technology/drivingassistance/sideassist/) | [ekstrautstyr](../../e-tron/technology/drivingassistance/sideassist/) |
 | 360 degree cameras | [ekstrautstyr](../../q4-e-tron/technology/drivingassistance/360camera/) | [ekstrautstyr](../../e-tron/technology/drivingassistance/360camera/) |
 | Ryggekamera | [ekstrautstyr](../../q4-e-tron/technology/drivingassistance/reversingcamera/) | [ekstrautstyr](../../e-tron/technology/drivingassistance/reversingcamera/) |
-| Crossing assist | N/A | [ekstrautstyr](../../e-tron/technology/drivingassistance/crossingassist/) |
+| Kryssningsassistent | N/A | [ekstrautstyr](../../e-tron/technology/drivingassistance/crossingassist/) |
 | Turn assist | [ekstrautstyr](../../q4-e-tron/technology/drivingassistance/turnassist/)| [ekstrautstyr](../../e-tron/technology/drivingassistance/turnassist/) |
-| Traffic sign recognition | [ekstrautstyr](../../q4-e-tron/technology/drivingassistance/trafficsignrecognition/) | [ekstrautstyr](../../e-tron/technology/drivingassistance/trafficsignrecognition/) |
+| Traffikskilt gjenkjenning | [ekstrautstyr](../../q4-e-tron/technology/drivingassistance/trafficsignrecognition/) | [ekstrautstyr](../../e-tron/technology/drivingassistance/trafficsignrecognition/) |
 | Krypfunksjon | standard | N/A |
 | HD Matrix | option | [ekstrautstyr](../../e-tron/technology/lights/#hd-matrix-led-headlights) |
 | Digital HD Matrix | N/A | [ekstrautstyr](../../e-tron/technology/lights/#digital-matrix-led-headlights) |

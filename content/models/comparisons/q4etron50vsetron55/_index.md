@@ -274,7 +274,7 @@ Below you see the full specification and options comparison of the models.
 | Air Condition | [standard](../../q4-e-tron/technology/climatecontrol/) | [standard](../../e-tron/technology/climatecontrol/) |
 | A/C zones | 1 (3 optional(WNW/PYC)) | 2 (4 optional) |
 | Heatpump | [option](../../q4-e-tron/technology/climatecontrol/) | [standard](../../e-tron/technology/climatecontrol/) |
-| Rear window curtains | N/A | option |
+| Rear window curtains | N/A | [option](../../e-tron/interior/curtain/) |
 | Cruise control | [option](../../q4-e-tron/technology/drivingassistance/cruisecontrol/) | [standard](../../e-tron/technology/drivingassistance/cruisecontrol/) |
 | Active Lane assist | [standard](../../q4-e-tron/technology/drivingassistance/activelaneassist/) | [standard](../../e-tron/technology/drivingassistance/activelaneassist/) |
 | Adaptive cruise assist | [option](../../q4-e-tron/technology/drivingassistance/adaptivecruiseassist/) | [option](../../e-tron/technology/drivingassistance/adaptivecruiseassist/) |
