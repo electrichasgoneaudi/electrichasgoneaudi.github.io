@@ -281,7 +281,7 @@ Nedenfor ser du den fullstendige spesifikasjonen og utstyrsammenligningen av mod
 | Alternative hjul foran | 235/50-R20, 235/45-R21 | 255/55-R20, 265/45-R21, 265/40-R22 |
 | Alternaive hjul bak | 255/45-R20,255/40-R21 | 255/55-R20, 265/45-R21, 265/40-R22  |
 | Antall felgmuligheter | 10 |  11 |
-| TPMS  | Indirect | [Indirect (direct ekstrautstyr)](../../e-tron/technology/tpms/)|
+| TPMS  | Indirekte | [Indirekte (direkte ekstrautstyr)](../../e-tron/technology/tpms/)|
 | Reprasjonssett dekk| ekstrautstyr | standard |
 | Virtual Cockpit | [ekstrautstyr](../../q4-e-tron/technology/uiandoperations/virtualcockpit/)  | [standard](../../e-tron/technology/uiandoperations/virtualcockpit/) |
 | Virtual Cockpit skjermstørrelse | 10.25"  | 12.3" |
@@ -289,13 +289,13 @@ Nedenfor ser du den fullstendige spesifikasjonen og utstyrsammenligningen av mod
 | Virtual Cockpit plus | [ekstrautstyr](../../q4-e-tron/technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus) | [ekstrautstyr](../../e-tron/technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus) |
 | Audi MMI System | [MMI touch](../../q4-e-tron/technology/uiandoperations/mmi/) | [MMI Touch Response](../../e-tron/technology/uiandoperations/mmi/)  |
 | MMI Navigation Plus | [ekstrautstyr](../../q4-e-tron/technology/uiandoperations/navigation/) | [standard](../../e-tron/technology/uiandoperations/navigation/) |
-| MMI main screen size | 10.1" (11.6" option) | 10.1" |
-| MMI main screen resolution | 1540 x 720 (1,764 x 824 option) | 1540 x 720  |
-| MMI secondary screen size | N/A |8.6" |
-| MMI secondary screen resolution | N/A | 1,280 x 660|
+| MMI hovedskjerm | 10.1" (11.6" option) | 10.1" |
+| MMI hovedskjerm oppløsning | 1540 x 720 (1,764 x 824 ekstrautstyr) | 1540 x 720  |
+| MMI sekunderskjerm størrelse | N/A |8.6" |
+| MMI sekunderskjerm oppløsning | N/A | 1,280 x 660|
 | Audi Smartphone Interface | [ekstrautstyr](../../q4-e-tron/technology/uiandoperations/smartphoneinterface/) | [ekstrautstyr](../../e-tron/technology/uiandoperations/smartphoneinterface/) |
-| Adaptive whipers | N/A | [ekstrautstyr](../../e-tron/technology/wipers/) |
-| Heated front window | [ekstrautstyr](../../q4-e-tron/exterior/windows/#heated-and-acoustic-front-window) | N/A |
+| Adaptive vindusviskere | N/A | [ekstrautstyr](../../e-tron/technology/wipers/) |
+| Oppvarmet frontrute | [ekstrautstyr](../../q4-e-tron/exterior/windows/#heated-and-acoustic-front-window) | N/A |
 | Oppvarmet ratt | [ekstrautstyr](../../q4-e-tron/interior/steeringwheels/) | [ekstrautstyr](../../e-tron/interior/steeringwheels/) |
 | Oppvarmet forseter | [standard](../../q4-e-tron/interior/seats/) | [standard](../../e-tron/interior/seats/) |
 | Oppvarmede bakseter | N/A | [ekstrautstyr](../../e-tron/interior/seats/) |
@@ -330,12 +330,12 @@ Nedenfor ser du den fullstendige spesifikasjonen og utstyrsammenligningen av mod
 | HD Matrix | option | [ekstrautstyr](../../e-tron/technology/lights/#hd-matrix-led-headlights) |
 | Digital HD Matrix | N/A | [ekstrautstyr](../../e-tron/technology/lights/#digital-matrix-led-headlights) |
 | Headlight washer | [ekstrautstyr](../../q4-e-tron/technology/lights/) | [standard](../../e-tron/technology/lights/) |
-| Rear light strip | [ekstrautstyr](../../q4-e-tron/technology/lights/) | [standard](../../e-tron/technology/lights/) |
+| Ledstripe bak | [ekstrautstyr](../../q4-e-tron/technology/lights/) | [standard](../../e-tron/technology/lights/) |
 | Dynamic lightning | [ekstrautstyr](../../q4-e-tron/technology/lights/) | [ekstrautstyr](../../e-tron/technology/lights/) |
 | Entry lights | option | option |
 | Electric adjustable mirrors | [standard](../../q4-e-tron/exterior/mirrors/) | [standard](../../e-tron/exterior/mirrors/) |
 | Mirrors with memory | [ekstrautstyr](../../q4-e-tron/exterior/mirrors/) | [ekstrautstyr](../../e-tron/exterior/mirrors/) |
-| Heated mirrors | [ekstrautstyr](../../q4-e-tron/exterior/mirrors/) | [ekstrautstyr](../../e-tron/exterior/mirrors/) |
+| Oppvarmede speil | [ekstrautstyr](../../q4-e-tron/exterior/mirrors/) | [ekstrautstyr](../../e-tron/exterior/mirrors/) |
 | Auto dimming mirrors | option | option |
 | Virtual mirrors | N/A | [ekstrautstyr](../../e-tron/exterior/mirrors/#virtual-mirrors) |
 | Homelink garasjeportåpner | [ekstrautstyr](../../q4-e-tron/technology/garagedooropener/) | [ekstrautstyr](../../e-tron/technology/garagedooropener/) |
