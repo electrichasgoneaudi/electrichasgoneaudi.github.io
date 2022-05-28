@@ -262,8 +262,8 @@ Nedenfor ser du den fullstendige spesifikasjonen og utstyrsammenligningen av mod
 | Forvarming av batteri | Nei (kommer) | No |
 | WLTP rekkevidde basismodell | 488km | 441km |
 | Kalkulert forbruk basismodell | 15.8 kWh/100km | 19.6 kWh/100km |
-| WLTP rekkevidde toppmodell | 449km | 369km |
-| Kalkulert forbruk toppmodell | 17.14 kWh/100km | 23.4 kWh/100km |
+| WLTP rekkevidde topputstyrt | 449km | 369km |
+| Kalkulert forbruk topputstyrt | 17.14 kWh/100km | 23.4 kWh/100km |
 | Maks tilhengervekt | [1200kg](../../q4-e-tron/transportation/#trailer) | [1800kg](../../e-tron/transportation/#trailer) |
 | Rails | [standard](../../q4-e-tron/transportation/#roof-storage) | [ekstrautstyr](../../e-tron/transportation/#roof-storage) |
 | Maks takvekg| 75kg | 75kg |
@@ -280,7 +280,7 @@ Nedenfor ser du den fullstendige spesifikasjonen og utstyrsammenligningen av mod
 | Standardhjul bak | 255/50-R19 | 255/55-R19 |
 | Alternative hjul foran | 235/50-R20, 235/45-R21 | 255/55-R20, 265/45-R21, 265/40-R22 |
 | Alternaive hjul bak | 255/45-R20,255/40-R21 | 255/55-R20, 265/45-R21, 265/40-R22  |
-| Antall felgmuligheter | 10 |  11 |
+| Antall felgmuligheter | [10](../../q4-e-tron/exterior/wheels/) |  [11](../../e-tron/exterior/wheels/) |
 | TPMS  | Indirekte | [Indirekte (direkte ekstrautstyr)](../../e-tron/technology/tpms/)|
 | Reprasjonssett dekk| ekstrautstyr | standard |
 | Virtual Cockpit | [ekstrautstyr](../../q4-e-tron/technology/uiandoperations/virtualcockpit/)  | [standard](../../e-tron/technology/uiandoperations/virtualcockpit/) |
@@ -349,7 +349,7 @@ Nedenfor ser du den fullstendige spesifikasjonen og utstyrsammenligningen av mod
 | Theft Alarm | [ekstrautstyr](../../q4-e-tron/technology/lockingsystems/) | [ekstrautstyr](../../e-tron/technology/lockingsystems/) |
 | Kick sensor | [ekstrautstyr](../../q4-e-tron/exterior/doors/) | [ekstrautstyr](../../e-tron/exterior/doors/) |
 | Audi connect key | N/A | [ekstrautstyr](../../e-tron/technology/lockingsystems/#audi-connect-key-2f1) |
-| Air quality package | N/A | [ekstrautstyr](../../e-tron/technology/airquality/) |
+| Luftkvalitetspakke | N/A | [ekstrautstyr](../../e-tron/technology/airquality/) |
 | Standard farger |  [8](../../q4-e-tron/exterior/paint/)  |  [14](../../e-tron/exterior/paint/)  |
 | Audi exclusive farger | N/A | [ekstrautstyr](../../e-tron/exterior/paint/) |
 | Sort optikk   | [ekstrautstyr](../../q4-e-tron/exterior/optics/) | [ekstrautstyr](../../e-tron/exterior/optics/) |
