@@ -17,6 +17,14 @@ Fra førersetet kan du aktivere barnesikkerhet for bakvindu og dører.
 
 Som ekstrautstyr kan du få elektrisk bakluke til Audi Q4 e-tron. Dette er standard på Sportback-versjonen.
 
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/kicksensor.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/kicksensors.jpg"
+        alt="Powered tailgate option 4E6" title="Powered tailgate option 4E6">
+    </a>
+    <figcaption><h4>Powered tailgate option 4E6</h4></figcaption>
+</figure>
+
 ## Nøkkelløs inngang
 
 Hvis du får [advance key option](../../technology/lockingsystems/#advance-key-option-pgc) får du nøkkelfri adgang til bilen
