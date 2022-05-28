@@ -33,7 +33,7 @@ Nøkkelfri adgang er mulig med alle dører. Trådløs kommunikasjon mellom nøkk
 
 For å låse kjøretøyet fra utsiden, må du berøre en av sensorknappene på alle dørhåndtak.
 
-Når det elektriske bakdøralternativet er tilgjengelig (alternativ 4E6), kan bagasjeromslokket enkelt låses opp ved hjelp av bagasjeromsknappen på bekvemmelighetsnøkkelen.
+Når Audi Q4 e-tron er utstyrt med elektrisk baklule, kan bakluken enkelt låses opp ved hjelp av bagasjeromsknappen på nøkkelen.
 
 Hvis du ikke har hendene frie, kan du bruke en fotbevegelse (sparkbevegelse) bak.
 

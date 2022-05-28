@@ -33,7 +33,7 @@ Keyless entry is possible with all doors. Wireless communication between the key
 
 To lock the vehicle from the outside, you must touch one of the sensor buttons on all door handles.
 
-When the electric rear door option is available (option 4E6), the luggage compartment lid can be conveniently unlocked using the luggage compartment button on the convenience key.
+When the Audi Q4 e-tron is equipped with the [powered tailgate option](../../exterior/doors/#powered-tailgate), the luggage compartment lid can be conveniently unlocked using the luggage compartment button on the convenience key.
 
 If you do not have a free hand, you can use a foot gesture (kick movement) at the rear.
 
