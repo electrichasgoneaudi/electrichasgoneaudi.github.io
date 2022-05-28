@@ -6,7 +6,25 @@ weight: 7
 ---
 <!-- markdownlint-disable MD033 -->
 
-Forakselen til de kompakte elektriske SUV-ene er designet i den klassiske McPherson-konstruksjonsmetoden, styringen er plassert under foran. En kompakt femleddet design med likheter med bakakselen til de store Audi-modellene fungerer bak. Som med forakselen er den montert på en underramme. Flere deler av fjæringen er laget av lettvektsaluminium. Sporviddene er 1.587 millimeter foran og 1.565 millimeter bak.
+Forakselen til de kompakte elektriske SUV-ene er designet i den klassiske McPherson-konstruksjonsmetoden, styringen er plassert under foran. 
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/frontsuspension.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/frontsuspensions.jpg"
+        alt="McPherson front støtdemper med elektrisk motor" title="McPherson front støtdemper med elektrisk motor">
+    </a>
+    <figcaption><h4>McPherson front støtdemper med elektrisk motor</h4></figcaption>
+</figure>
+
+En kompakt femleddet design med likheter med bakakselen til de store Audi-modellene fungerer bak. Som med forakselen er den montert på en underramme. Flere deler av fjæringen er laget av lettvektsaluminium. Sporviddene er 1.587 millimeter foran og 1.565 millimeter bak.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/rearsuspension.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/rearsuspensions.jpg"
+        alt="Femleddet bakre støtdempere med elektrisk motor" title="Femleddet bakre støtdempere med elektrisk motor">
+    </a>
+    <figcaption><h4>Femleddet bakre støtdempere med elektrisk motor</h4></figcaption>
+</figure>
 
 Du kan bestille Q4 e-tron med sportsunderstell. Sportsfjæringen (standard i S-linjen) senker karosseriet med 15 millimeter.
 

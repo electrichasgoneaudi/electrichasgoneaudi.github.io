@@ -6,7 +6,28 @@ weight: 7
 ---
 <!-- markdownlint-disable MD033 -->
 
-The front axle of the compact electric SUVs is designed in the classic McPherson construction method, the steering is located underneath at the front. A compact five-link design featuring similarities with the rear axle of the large Audi models works at the rear. As with the front axle, it is mounted on a subframe. Several parts of the suspension are made of lightweight aluminum. The track widths are 1,587 millimeters at the front and 1,565 millimeters at the rear.
+The front axle of the compact electric SUVs is designed in the classic McPherson construction method, the steering is located underneath at the front.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/frontsuspension.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/frontsuspensions.jpg"
+        alt="McPherson front suspension with electric motor" title="McPherson front suspension with electric motor">
+    </a>
+    <figcaption><h4>McPherson front suspension with electric motor</h4></figcaption>
+</figure>
+
+A compact five-link design featuring similarities with the rear axle of the large Audi models works at the rear.
+As with the front axle, it is mounted on a subframe. Several parts of the suspension are made of lightweight aluminum.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/rearsuspension.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/rearsuspensions.jpg"
+        alt="Five link rear suspension with electric motor" title="Five link rear suspension with electric motor">
+    </a>
+    <figcaption><h4>Five link rear suspension with electric motor</h4></figcaption>
+</figure>
+
+The track widths are 1,587 millimeters at the front and 1,565 millimeters at the rear.
 
 You can order the Q4 e-tron with sport suspension. The sport suspension (standard in the S line) lowers the body by 15 millimeters.
 
