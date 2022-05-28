@@ -248,15 +248,15 @@ Nedenfor ser du den fullstendige spesifikasjonen og utstyrsammenligningen av mod
 | Maks effekt KW (hp) | 195(265) | 265(360) |
 | Maks effekt boost in kW (hp) | 220(299) | 300 (408) |
 | 0 -100 km/h (62.1 mph) in s(boost) | ? (6.2) | 6.6 (5.7)|
-| Top speed in km/h (mph) | 180 | 200 (124.3) |
-| Drive | Quattro | Quattro |
+| Toppfart km/h (mph) | 180 | 200 (124.3) |
+| Hjuldrift | Quattro | Quattro |
 | Maks regenering | [145KW](../../q4-e-tron/drivetrain/brakes/) | [220KW](../../e-tron/drivetrain/brakes/) |
 | Adaptive luftdempere | N/A | [standard](../../e-tron/drivetrain/suspension/) |
 | Progressiv styring | [standard](../../q4-e-tron/drivetrain/suspension/) | [standard](../../e-tron/drivetrain/suspension/) |
 | Audi drive select | [ekstrautstyr](../../q4-e-tron/technology/audidriveselect/) | [standard](../../e-tron/technology/audidriveselect/) |
-| Brutto batteri | 82kWh | [95kWh](../../e-tron/drivetrain/battery/) |
-| Netto battery | 77kWh | [86.5kWh](../../e-tron/drivetrain/battery/) |
-| Maks ladehastighet lynlading | 125 kW | [150 kW](../../e-tron/drivetrain/battery/#charging-performance) |
+| Brutto batteri | [82kWh](../../q4-e-tron/drivetrain/battery/) | [95kWh](../../e-tron/drivetrain/battery/) |
+| Netto battery | [77kWh](../../q4-e-tron/drivetrain/battery/) | [86.5kWh](../../e-tron/drivetrain/battery/) |
+| Maks ladehastighet lynlading | [125 kW](../../q4-e-tron/drivetrain/battery/) | [150 kW](../../e-tron/drivetrain/battery/#charging-performance) |
 | Maks ladehastighet AC | 11 KW | [11KW (22KW ekstrautstyr)](../../e-tron/technology/onboardcharger/#optional-22kw-charger)|
 | Ekstra ladeport | N/A | [ekstrautstyr](../../e-tron/technology/onboardcharger/#optional-charge-port) |
 | Forvarming av batteri | Nei (kommer) | No |
@@ -269,10 +269,10 @@ Nedenfor ser du den fullstendige spesifikasjonen og utstyrsammenligningen av mod
 | Maks takvekg| 75kg | 75kg |
 | Lastekapasitet | 520 l| 660 l |
 | Lastekapasitet seter nede| 1490l | 1725 l |
-| Bakkeklaring | 165/180mm | [152-248mm](../../e-tron/drivetrain/suspension/) |
+| Bakkeklaring | [165/180mm](../../q4-e-tron/drivetrain/suspension/) | [152-248mm](../../e-tron/drivetrain/suspension/) |
 | Lengde | 4588mm | 4901mm|
 | Bredde med speil | 2108mm | 2189mm |
-| Wheel base | 2764mm | 2928 mm |
+| Hjulavstand | 2764mm | 2928 mm |
 | Sporvidde | 1587mm | 1655mm |
 | Høyde| 1632mm | 1629 mm |
 | Vekt basismodell | 2135kg | 2520kg |
