@@ -1,19 +1,19 @@
 ---
 title: Audi Q4 e-tron suspension
 linktitle: Suspension 
-description: The Q4 e-tron and the Q4 Sportback e-tron integrate the best conditions for high levels of comfort, driving pleasure, and unshakable stability
+description: The Q4 e-tron and the Q4 Sportback e-tron integrate the best conditions for high comfort, driving pleasure, and unshakable stability.
 weight: 7
 ---
 <!-- markdownlint-disable MD033 -->
 
-The front axle of the compact electric SUVs is designed in the classic McPherson construction method, the steering is located underneath at the front.
+The front axle of the compact electric SUVs is designed in the classic McPherson construction method, and the steering is located underneath at the front.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/frontsuspension.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/frontsuspensions.jpg"
-        alt="McPherson front suspension with electric motor" title="McPherson front suspension with electric motor">
+        alt="McPherson front suspension with the rear electric motor" title="McPherson front suspension with the rear electric motor">
     </a>
-    <figcaption><h4>McPherson front suspension with electric motor</h4></figcaption>
+    <figcaption><h4>McPherson front suspension with the rear electric motor</h4></figcaption>
 </figure>
 
 A compact five-link design featuring similarities with the rear axle of the large Audi models works at the rear.
