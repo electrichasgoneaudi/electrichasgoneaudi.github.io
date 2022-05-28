@@ -102,7 +102,7 @@ Audi e-tron har opsjon for 22KW AC lader.
 
 ## Assistentsystemer
 
-Begge modellene er tilgjengelige med nesten de samme førerassistentsystemene. Det er imidlertid forskjell på hva som er standard. Nattsyn er kun tilgjengelig på Audi e-tron.
+Begge modellene er tilgjengelige med nesten de samme førerassistentsystemene. Det er imidlertid forskjell på hva som er standard. Nattsyn, kryssningsassisten og pre sense side er kun tilgjengelig på Audi e-tron.
 
 ## Infotainment
 
@@ -162,6 +162,8 @@ De fleste alternativene er tilgjengelige på begge modellene, men noen er kun ti
 - [Massasje seter](../../e-tron/interior/seats/#massage)
 - [Lengdejusterbare hodestøtte](../../e-tron/interior/seats/#massage)
 - [Night Vision](../../e-tron/technology/drivingassistance/nightvision/)
+- [Gatekryssassistent](../../e-tron/technology/drivingassistance/crossingassist/)
+- [Pre-sense side](../../e-tron/technology/drivingassistance/presenseside/)
 - [Air Quality package](../../e-tron/technology/airquality/)
 - [Full leather interior](../../e-tron/interior/interiormaterials/)
 - [Adaptive vindusviskere](../../e-tron/technology/wipers/#adaptive-wipers)
@@ -317,7 +319,7 @@ Nedenfor ser du den fullstendige spesifikasjonen og alternativsammenligningen av
 | Crossing assist | N/A | [option](../../e-tron/technology/drivingassistance/crossingassist/) |
 | Turn assist | [option](../../q4-e-tron/technology/drivingassistance/turnassist/)| [option](../../e-tron/technology/drivingassistance/turnassist/) |
 | Traffic sign recognition | [option](../../q4-e-tron/technology/drivingassistance/trafficsignrecognition/) | [option](../../e-tron/technology/drivingassistance/trafficsignrecognition/) |
-| Creep mode | standard | N/A |
+| Krypfunksjon | standard | N/A |
 | HD Matrix | option | [option](../../e-tron/technology/lights/#hd-matrix-led-headlights) |
 | Digital HD Matrix | N/A | [option](../../e-tron/technology/lights/#digital-matrix-led-headlights) |
 | Headlight washer | [option](../../q4-e-tron/technology/lights/) | [standard](../../e-tron/technology/lights/) |

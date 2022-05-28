@@ -102,7 +102,7 @@ Audi e-tron has an option for a 22KW charger.
 
 ## Driving assistance
 
-Both models are available with almost the same driver-assist systems. However, there is a difference in what is standard. Night vision is only available on the Audi e-tron.
+Both models are available with almost the same driver-assist systems. However, there is a difference in what is standard. Night vision, intersection assist and pre-sense side is only available on the Audi e-tron.
 
 ## Infotainment
 
@@ -162,6 +162,8 @@ Most options are available on both models, but some are only available on the e-
 - [Massage seats](../../e-tron/interior/seats/#massage)
 - [Length adjustable headrest](../../e-tron/interior/seats/#massage)
 - [Night Vision](../../e-tron/technology/drivingassistance/nightvision/)
+- [Crossing assist](../../e-tron/technology/drivingassistance/crossingassist/)
+- [Pre-sense side](../../e-tron/technology/drivingassistance/presenseside/)
 - [Air Quality package](../../e-tron/technology/airquality/)
 - [Full leather interior](../../e-tron/interior/interiormaterials/)
 - [Adaptive wipers](../../e-tron/technology/wipers/#adaptive-wipers)
@@ -292,9 +294,10 @@ Below you see the full specification and options comparison of the models.
 | Audi side assist | [option](../../q4-e-tron/technology/drivingassistance/sideassist/) | [option](../../e-tron/technology/drivingassistance/sideassist/) |
 | 360 degree cameras | [option](../../q4-e-tron/technology/drivingassistance/360camera/) | [option](../../e-tron/technology/drivingassistance/360camera/) |
 | Reversing camera | [option](../../q4-e-tron/technology/drivingassistance/reversingcamera/) | [option](../../e-tron/technology/drivingassistance/reversingcamera/) |
-| Crossing assist | N/A | [option](../../e-tron/technology/drivingassistance/crossingassist/) |
+| Crossing/intersection assist | N/A | [option](../../e-tron/technology/drivingassistance/crossingassist/) |
 | Turn assist | [option](../../q4-e-tron/technology/drivingassistance/turnassist/)| [option](../../e-tron/technology/drivingassistance/turnassist/) |
 | Traffic sign recognition | [option](../../q4-e-tron/technology/drivingassistance/trafficsignrecognition/) | [option](../../e-tron/technology/drivingassistance/trafficsignrecognition/) |
+| Creep mode | standard | N/A |
 | HD Matrix | option | [option](../../e-tron/technology/lights/#hd-matrix-led-headlights) |
 | Digital HD Matrix | N/A | [option](../../e-tron/technology/lights/#digital-matrix-led-headlights) |
 | Headlight washer | [option](../../q4-e-tron/technology/lights/) | [standard](../../e-tron/technology/lights/) |
