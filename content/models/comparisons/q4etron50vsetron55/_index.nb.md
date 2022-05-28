@@ -235,9 +235,9 @@ Ved å legge til edition pakken og noe løst utstyr får man dette og havner på
 
 Da har man alt utstyret til en fullspekket Audi Q4 e-tron 50 quattro, men i tilegg en del ekstra utstyr som ikke kan skaffes på Q4 e-tron.
 
-## Spesifikasjonssammenligning
+## Sammenligning spesfikasjoner og utstyr
 
-Nedenfor ser du den fullstendige spesifikasjonen og alternativsammenligningen av modellene.
+Nedenfor ser du den fullstendige spesifikasjonen og utstyrsammenligningen av modellene.
 
 |     | **Q4 e-tron 50 quattro** | **e-tron 55 quattro** |
 | ----------- | ----------- |----------- |
@@ -251,34 +251,34 @@ Nedenfor ser du den fullstendige spesifikasjonen og alternativsammenligningen av
 | Progressiv styring | [standard](../../q4-e-tron/drivetrain/suspension/) | [standard](../../e-tron/drivetrain/suspension/) |
 | Audi drive select | [ekstrautstyr](../../q4-e-tron/technology/audidriveselect/) | [standard](../../e-tron/technology/audidriveselect/) |
 | Brutto batteri | 82kWh | [95kWh](../../e-tron/drivetrain/battery/) |
-| Net battery | 77kWh | [86.5kWh](../../e-tron/drivetrain/battery/) |
-| Max DC Charging | 125 kW | [150 kW](../../e-tron/drivetrain/battery/#charging-performance) |
-| AC Charging  | 11 KW | [11KW (22KW optional)](../../e-tron/technology/onboardcharger/#optional-22kw-charger)|
-| Additional charge port | N/A | [ekstrautstyr](../../e-tron/technology/onboardcharger/#optional-charge-port) |
-| Pre heating battery | Yes | No |
-| WLTP Range basic trim | 488km | 441km |
-| Calculated consumption basic trim | 15.8 kWh/100km | 19.6 kWh/100km |
-| WLTP Range top trim | 449km | 369km |
-| Calculated consumption top trim | 17.14 kWh/100km | 23.4 kWh/100km |
-| Max trailer weight | [1200kg](../../q4-e-tron/transportation/#trailer) | [1800kg](../../e-tron/transportation/#trailer) |
-| Roof rails | [standard](../../q4-e-tron/transportation/#roof-storage) | [ekstrautstyr](../../e-tron/transportation/#roof-storage) |
-| Max roof weight | 75kg | 75kg |
-| Cargo space | 520 l| 660 l |
-| Cargo space seat down | 1490l | 1725 l |
-| Ground clearance | 165/180mm | [152-248mm](../../e-tron/drivetrain/suspension/) |
-| Length | 4588mm | 4901mm|
-| Width with mirrors | 2108mm | 2189mm |
+| Netto battery | 77kWh | [86.5kWh](../../e-tron/drivetrain/battery/) |
+| Maks ladehastighet lynlading | 125 kW | [150 kW](../../e-tron/drivetrain/battery/#charging-performance) |
+| Maks ladehastighet AC | 11 KW | [11KW (22KW ekstrautstyr)](../../e-tron/technology/onboardcharger/#optional-22kw-charger)|
+| Ekstra ladeport | N/A | [ekstrautstyr](../../e-tron/technology/onboardcharger/#optional-charge-port) |
+| Forvarming av batteri | Nei (kommer) | No |
+| WLTP rekkevidde basismodell | 488km | 441km |
+| Kalkulert forbruk basismodell | 15.8 kWh/100km | 19.6 kWh/100km |
+| WLTP rekkevidde toppmodell | 449km | 369km |
+| Kalkulert forbruk toppmodell | 17.14 kWh/100km | 23.4 kWh/100km |
+| Maks tilhengervekt | [1200kg](../../q4-e-tron/transportation/#trailer) | [1800kg](../../e-tron/transportation/#trailer) |
+| Rails | [standard](../../q4-e-tron/transportation/#roof-storage) | [ekstrautstyr](../../e-tron/transportation/#roof-storage) |
+| Maks takvekg| 75kg | 75kg |
+| Lastekapasitet | 520 l| 660 l |
+| Lastekapasitet seter nede| 1490l | 1725 l |
+| Bakkeklaring | 165/180mm | [152-248mm](../../e-tron/drivetrain/suspension/) |
+| Lengde | 4588mm | 4901mm|
+| Bredde med speil | 2108mm | 2189mm |
 | Wheel base | 2764mm | 2928 mm |
-| Track width | 1587mm | 1655mm |
-| Height | 1632mm | 1629 mm |
-| Unladen weight without drive min trim | 2135kg | 2520kg |
+| Sporvidde | 1587mm | 1655mm |
+| Høyde| 1632mm | 1629 mm |
+| Vekt basismodell | 2135kg | 2520kg |
 | Standardhjul foran | 235/55-R19 | 255/55-R19 |
 | Standardhjul bak | 255/50-R19 | 255/55-R19 |
 | Alternative hjul foran | 235/50-R20, 235/45-R21 | 255/55-R20, 265/45-R21, 265/40-R22 |
 | Alternaive hjul bak | 255/45-R20,255/40-R21 | 255/55-R20, 265/45-R21, 265/40-R22  |
 | Antall felgmuligheter | 10 |  11 |
-| TPMS  | Indirect | [Indirect (direct option)](../../e-tron/technology/tpms/)|
-| Tire repair set | option | standard |
+| TPMS  | Indirect | [Indirect (direct ekstrautstyr)](../../e-tron/technology/tpms/)|
+| Reprasjonssett dekk| ekstrautstyr | standard |
 | Virtual Cockpit | [ekstrautstyr](../../q4-e-tron/technology/uiandoperations/virtualcockpit/)  | [standard](../../e-tron/technology/uiandoperations/virtualcockpit/) |
 | Virtual Cockpit skjermstørrelse | 10.25"  | 12.3" |
 | Virtual Cockpit oppløsning |  1,440 x 540 | 1,920 x 720  |
