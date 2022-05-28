@@ -134,6 +134,10 @@ Vi tror ikke at utvendig lys vil være en avgjørende faktor for mange.
 
 Audi e-tron 55 har bedre støyisolering. Som et resultat blir veistøyen bedre dempet på Audi e-tron. Den ekstra støyisolasjonen er en av grunnene til at e-tron er mye tyngre enn Q4 e-tron.
 
+## Krypfunksjon
+
+En av tingene som mange savner på e-tron er krypfunksjon. Dette får du på Q4 e-tron.
+
 ## Standardutstyr
 
 Audi Q4 e-tron 50 har lavere startpris.
@@ -157,7 +161,7 @@ I enkelte markeder er ikke basismodellene tilgjengelige, og listen med standardu
 
 ## Tilgjengelige alternativer
 
-De fleste alternativene er tilgjengelige på begge modellene, men noen er kun tilgjengelig på e-tron. Disse er:
+De fleste utstyrsalternativene er tilgjengelige på begge modellene, men noen er kun tilgjengelig på e-tron. Disse er:
 
 - [Individual Contour seter](../../e-tron/interior/seats/#individual-contour-seats)
 - [Ventilerte seter](../../e-tron/interior/seats/#ventilated-seats)
