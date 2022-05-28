@@ -16,7 +16,15 @@ From driver seat you can enable child safety for rear window and doors.
 
 ## Powered tailgate
 
-As an option you can get powered tailgate to Audi Q4 e-tron. This is standard on the Sportback version.
+As an option (4E6) you can get powered tailgate to Audi Q4 e-tron. This is standard on the Sportback version.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/kicksensor.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/kicksensors.jpg"
+        alt="Powered tailgate option 4E6" title="Powered tailgate option 4E6">
+    </a>
+    <figcaption><h4>Powered tailgate option 4E6</h4></figcaption>
+</figure>
 
 ## Keyless entry
 
