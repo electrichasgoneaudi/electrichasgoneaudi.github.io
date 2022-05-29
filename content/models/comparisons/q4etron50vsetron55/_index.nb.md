@@ -195,6 +195,8 @@ Hvis ett eller flere av disse utstyrsvalgene er avgjørende for deg, kan dette v
 
 Startprisen er betydelig lavere på Q4 e-tron 50 enn Audi e-tron 55. Men ulike markeder har ulike pakker som gir ulike prisforskjeller. I markeder hvor kjøperne fritt kan velge alternativer, er startprisforskjellen rundt 200.000,- for grunnmodellen.
 
+Grunnprisen for Audi Q4 e-tron 50 i Norge er 486.900,- og for Audi e-tron 55 694.500,- Men her er det viktig å lege merke til at man får pakken Advanced Business til 677.500,- for e-tron 55 som inneholder mye utstyr.
+
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/etronvsq4_2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/etronvsq4_2s.jpg"
