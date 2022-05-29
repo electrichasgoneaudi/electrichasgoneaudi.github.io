@@ -480,13 +480,3 @@ Color code **2Y**
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro in Glacier white with black optics and full body paint</h4></figcaption>
 </figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_glacierwhite_13.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_glacierwhite_13s.jpg" alt="Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint" title="Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint">
-    </a>
-    <figcaption><h4>Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint</h4></figcaption>
-</figure>
-
-
-
