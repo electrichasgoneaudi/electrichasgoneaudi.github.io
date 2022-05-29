@@ -143,9 +143,9 @@ En av tingene som mange savner på e-tron er krypfunksjon. Dette får du på Q4 
 
 Audi Q4 e-tron 50 har lavere startpris.
 
-Mye av denne forskjellen skyldes standardutstyr på e-tron og ikke på Q4.
+Mye av denne forskjellen skyldes utstyr som er standard e-tron og ikke på Q4.
 
-Følgende utstyr er standard på e-tron 55, men alternativer på Q4 e-tron 50 quattro
+Følgende utstyr er standard på Audi e-tron 55, men ekstrautstyr på Audi Q4 e-tron 50 quattro
 
 - [e-tron ledstripe bak](../../q4-e-tron/technology/lights/#striking-taillight-signature-the-light-strip-at-the-rear)
 - [MMI navigation](../../q4-e-tron/technology/uiandoperations/navigation/)
@@ -158,7 +158,8 @@ Følgende utstyr er standard på e-tron 55, men alternativer på Q4 e-tron 50 qu
 - [Drive select](../../q4-e-tron/technology/audidriveselect/)
 - Adaptive air suspension (ikke tilgjengelig for Audi Q4)
 
-I enkelte markeder er ikke basismodellene tilgjengelige, og listen med standardutstyr i det markedet kan inneholde mer på begge modellene. I Norge får man en rekke pakker til en gunstig pris sammenlignet med basismodellen.
+I enkelte markeder er ikke grunnmodellene tilgjengelige, og listen med standardutstyr i det markedet kan inneholde mer på begge modellene. 
+I Norge får man en rekke pakker til en gunstig pris sammenlignet med grunnmodellene. Dette gjelder spesielt på e-tron hvor man får pakker som er rimeligere enn grunnmodellen.
 
 ## Tilgjengelige alternativer
 
@@ -192,7 +193,7 @@ Hvis ett eller flere av disse utstyrsvalgene er avgjørende for deg, kan dette v
 
 ## Pris
 
-Startprisen er betydelig lavere på Q4 e-tron 50 enn Audi e-tron 55. Men ulike markeder har ulike pakker som gir ulike prisforskjeller. I markeder hvor kjøperne fritt kan velge alternativer, er startprisforskjellen rundt 200.000,- for basismodellen.
+Startprisen er betydelig lavere på Q4 e-tron 50 enn Audi e-tron 55. Men ulike markeder har ulike pakker som gir ulike prisforskjeller. I markeder hvor kjøperne fritt kan velge alternativer, er startprisforskjellen rundt 200.000,- for grunnmodellen.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/etronvsq4_2.jpg">
@@ -220,7 +221,7 @@ Med mulighet for individuelle konturseter med massasje og ventilasjon, adaptiv l
 
 ## Fullspekket Q4 e-tron 50 quattro vs Audi e-tron 55 til samme pris?
 
-Denne sammenligningen er kanskje ikke aktuell for så mange, men er en måte å vise rell forskjell på pris. For den er langt mindre enn hva man skulle tro basert på basismodellen.
+Denne sammenligningen er kanskje ikke aktuell for så mange, men er en måte å vise rell forskjell på pris. For den er langt mindre enn hva man skulle tro basert på grunnmodellen.
 
 Hvis man velger alle opsjoner koster en Audi Q4 e-tron 50 quattro 779.900,- på Audi.no 22.05.2022. [Se pristilbud](https://electrichasgoneaudi.blob.core.windows.net/multimedia/models/comparisons/q4etron50vsetron55/fullspek_22_05_2022.pdf)
 
@@ -241,7 +242,7 @@ Da har man alt utstyret til en fullspekket Audi Q4 e-tron 50 quattro, men i tile
 
 ## Sammenligning spesfikasjoner og utstyr
 
-Nedenfor ser du den fullstendige spesifikasjonen og utstyrsammenligningen av modellene.
+Nedenfor ser du den fullstendige spesifikasjonen og utstyrsammenligningen av grunnmodellene for Audi Q4 e-tron 50 quattro og Audi e-tron 55.
 
 |     | **Q4 e-tron 50 quattro** | **e-tron 55 quattro** |
 | ----------- | ----------- |----------- |
@@ -260,22 +261,22 @@ Nedenfor ser du den fullstendige spesifikasjonen og utstyrsammenligningen av mod
 | Maks ladehastighet AC | 11 KW | [11KW (22KW ekstrautstyr)](../../e-tron/technology/onboardcharger/#optional-22kw-charger)|
 | Ekstra ladeport | N/A | [ekstrautstyr](../../e-tron/technology/onboardcharger/#optional-charge-port) |
 | Forvarming av batteri | Nei (kommer) | No |
-| WLTP rekkevidde basismodell | 488km | 441km |
-| Kalkulert forbruk basismodell | 15.8 kWh/100km | 19.6 kWh/100km |
+| WLTP rekkevidde grunnmodell | 488km | 441km |
+| Kalkulert forbruk grunnmodell | 15.8 kWh/100km | 19.6 kWh/100km |
 | WLTP rekkevidde topputstyrt | 449km | 369km |
 | Kalkulert forbruk topputstyrt | 17.14 kWh/100km | 23.4 kWh/100km |
 | Maks tilhengervekt | [1200kg](../../q4-e-tron/transportation/#trailer) | [1800kg](../../e-tron/transportation/#trailer) |
-| Rails | [standard](../../q4-e-tron/transportation/#roof-storage) | [ekstrautstyr](../../e-tron/transportation/#roof-storage) |
+| Takrails | [standard](../../q4-e-tron/transportation/#roof-storage) | [ekstrautstyr](../../e-tron/transportation/#roof-storage) |
 | Maks takvekg| 75kg | 75kg |
 | Lastekapasitet | 520 l| 660 l |
 | Lastekapasitet seter nede| 1490l | 1725 l |
 | Bakkeklaring | [165/180mm](../../q4-e-tron/drivetrain/suspension/) | [152-248mm](../../e-tron/drivetrain/suspension/) |
 | Lengde | 4588mm | 4901mm|
 | Bredde med speil | 2108mm | 2189mm |
-| Hjulavstand | 2764mm | 2928 mm |
+| Akselavstand | 2764mm | 2928 mm |
 | Sporvidde | 1587mm | 1655mm |
 | Høyde| 1632mm | 1629 mm |
-| Vekt basismodell | 2135kg | 2520kg |
+| Vekt grunnmodell | 2135kg | 2520kg |
 | Standardhjul foran | 235/55-R19 | 255/55-R19 |
 | Standardhjul bak | 255/50-R19 | 255/55-R19 |
 | Alternative hjul foran | 235/50-R20, 235/45-R21 | 255/55-R20, 265/45-R21, 265/40-R22 |
