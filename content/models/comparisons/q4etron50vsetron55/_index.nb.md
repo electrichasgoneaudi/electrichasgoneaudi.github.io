@@ -9,7 +9,7 @@ Selv om disse modellene er i ulike kategorier når det gjelder startpris, kan pr
 
 I tillegg kan man være villige til å øke/redusere budsjettet sitt avhengig av hvor mye man får for pengene.
 
-Det er derfor vi i denne artikkelen vil gå inn på den detaljerte forskjellen mellom Audi e-tron 55 quattro og Audi Q4 e-tron 50 quattro
+Det er derfor vi i denne artikkelen vil gå inn på de detaljerte forskjellene mellom Audi e-tron 55 quattro og Audi Q4 e-tron 50 quattro
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/etronvsq4_1.jpg">
@@ -25,8 +25,8 @@ Audi e-tron 55 ble presentert i september 2018 og er Audis første helelektriske
 
 I april 2021 presenterte Audi Audi Q4 e-tron 50 som den første mellomstore SUV-en.
 
-En dedikert EV-plattform, kalt [MEB](../../../technology/bev-platforms/meb/), brukes på denne modellen.
-Denne plattformen ble laget av Volkswagen og brukt av flere modeller.
+En dedikert elbilplattform, kalt [MEB](../../../technology/bev-platforms/meb/), brukes på denne modellen.
+Denne plattformen ble laget av Volkswagen og brukes på flere modeller.
 
 ## Forbruk
 
@@ -40,11 +40,12 @@ I den virkelige verden, avhengig av vær og kjørestil, vil rekkevidden på Audi
 
 ## Ytelse
 
-Audi e-tron 55 har 408 hk, og Audi Q4 e-tron har 299 hk. For Q4 e-tron 50 quattro er full kraft kun tilgjengelig når den er omtrent fulladet og over 23 grader, mens full kraft er tilgjengelig i mye større områder for Audi e-tron. Men siden vekten er lavere på Q4 e-tron, føles forskjellen mindre og er trolig liten nok til at den ikke er den avgjørende faktoren mellom modellene for mange.
+Audi e-tron 55 har 408 hk, og Audi Q4 e-tron har 299 hk. For Q4 e-tron 50 quattro er full kraft kun tilgjengelig når den er omtrent fulladet (88%) og over 23 grader, mens full kraft er tilgjengelig i mye større områder for Audi e-tron. Men siden vekten er lavere på Q4 e-tron, føles forskjellen mindre og er trolig liten nok til at den ikke er den avgjørende faktoren mellom modellene for mange.
 
 ## Støtdempere
 
-[Adaptive air suspension](../../e-tron/drivetrain/suspension/) med elektronisk dempekontroll er standardutstyr på Audi e-tron. Avhengig av hastigheten og førerens preferanser, justerer den kjørehøyden individuelt i henhold til veiforholdene. Luftfjæringen tilbyr også nivåregulering som funksjon av belastning.
+[Adaptive air suspension](../../e-tron/drivetrain/suspension/) med elektronisk dempekontroll er standardutstyr på Audi e-tron.
+Avhengig av hastigheten og førerens preferanser, justerer den kjørehøyden individuelt i henhold til veiforholdene. Luftfjæringen tilbyr også nivåregulering som funksjon av belastning.
 
 Aud Q4 e-tron er kun tilgjengelig med standard fjæring.
 
@@ -57,18 +58,18 @@ Audi e-tron er 313 mm lengre og 81 mm bredere enn Q4. Den mindre størrelsen gj�
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/parkingspace.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/parkingspaces.jpg"
-        alt="A typical scenario. Audi e-tron is filling a parking space." title="A typical scenario. Audi e-tron is filling a parking space.">
+        alt="Et typisk scenario. Audi e-tron fyller parkeringsplassene helt." title="Et typisk scenario. Audi e-tron fyller parkeringsplassene helt.">
     </a>
-    <figcaption><h4>A typical scenario. Audi e-tron is filling a parking space.</h4></figcaption>
+    <figcaption><h4>Et typisk scenario. Audi e-tron fyller parkeringsplassene helt.</h4></figcaption>
 </figure>
 
-Størrelsesforskjellen kan være et avgjørende argument for Q4 for mange mennesker.
+Størrelsesforskjellen kan være et avgjørende argument for Q4 for mange.
 
 ## Lastekapasitet
 
 Lasterommet er omtrent 27 % større på e-tron enn Q4. Q4 har ingen frunk, som Audi e-tron.
 
-e-tron kan trekke en tilhenger opp til 1800kg, mens Q4 kun har 1200kg tilhengerkapasitet.
+e-tron kan trekke en tilhenger opp til 1800kg, mens Q4 har 1200kg tilhengerkapasitet.
 
 ## Eksteriør
 
@@ -104,13 +105,13 @@ Audi e-tron har opsjon for 22KW AC lader.
 
 ## Assistentsystemer
 
-Begge modellene er tilgjengelige med nesten de samme førerassistentsystemene. Det er imidlertid forskjell på hva som er standard. Nattsyn, kryssningsassisten og pre sense side er kun tilgjengelig på Audi e-tron.
+Begge modellene er tilgjengelige med nesten de samme førerassistentsystemene. Det er imidlertid forskjell på hva som er standard. Nattsyn, kryssningsassistenten og pre sense side er kun tilgjengelig på Audi e-tron.
 
 ## Infotainment
 
 For infotainment er det noen forskjeller. Virtual Cockpit og MMI Navigation er standard på Audi e-tron, mens dette er tileggsutstyr på Q4. MMI-systemet er også annerledes. På Audi e-tron er det to skjermer, mens Q4 kun har én skjerm i midtkonsollen.
 
-Bare én skjerm har noen ulemper siden du mister noen funksjonalitet som er tilgjengelig på den andre skjermen og annen funksjonalitet bare trenger å bruke området på den første skjermen, som navigasjonssøket.
+Bare én skjerm har noen ulemper siden du mister noen funksjonalitet som er tilgjengelig på den andre skjermen og annen funksjonalitet bare kan bruke området på den første skjermen, som navigasjonssøket.
 
 For noen er de fysiske knappene til AC på Q4 en fordel.
 
@@ -122,11 +123,11 @@ For noen er de fysiske knappene til AC på Q4 en fordel.
     <figcaption><h4>One screen Audi MMI touch on Audi Q4 e-tron</h4></figcaption>
 </figure>
 
-Audi Q4 e-tron 50 quattro har et alternativ for Sonos lydsystem. Audi e-tron har en opsjon for Bang & Olufsen. Bang & Olufsen er et bedre lydsystem, men sannsynligvis ikke så mye bedre enn noen ville valgt en modell bare basert på denne faktoren.
+På Audi Q4 e-tron 50 quattro kan du velge Sonos lydsystem som ekstrautstyr. Audi e-tron har en opsjon for Bang & Olufsen. Bang & Olufsen er et bedre lydsystem, men sannsynligvis ikke så mye bedre enn noen ville valgt en modell bare basert på denne faktoren.
 
 ## Lys
 
-HD-matrix lys er et alternativ på begge modellene. I tillegg har Q4 noen fantastiske nye kjørelys for dagslys som et alternativ der sjåførene kan velge et annet design. For e-tron er Digital HD Matrix også tilgjengelig.
+HD-matrix lys er et ekstrautstyr på begge modellene. I tillegg har Q4 noen fantastiske nye kjørelys for dagslys som et alternativ der sjåførene kan velge et annet design. For e-tron er Digital HD Matrix også tilgjengelig.
 
 Vi tror ikke at utvendig lys vil være en avgjørende faktor for mange.
 
@@ -157,7 +158,7 @@ Følgende utstyr er standard på e-tron 55, men alternativer på Q4 e-tron 50 qu
 - [Drive select](../../q4-e-tron/technology/audidriveselect/)
 - Adaptive air suspension (ikke tilgjengelig for Audi Q4)
 
-I enkelte markeder er ikke basismodellene tilgjengelige, og listen med standardutstyr i det markedet kan inneholde mer på begge modellene.
+I enkelte markeder er ikke basismodellene tilgjengelige, og listen med standardutstyr i det markedet kan inneholde mer på begge modellene. I Norge får man en rekke pakker til en gunstig pris sammenlignet med basismodellen.
 
 ## Tilgjengelige alternativer
 
@@ -187,7 +188,7 @@ De fleste utstyrsalternativene er tilgjengelige på begge modellene, men noen er
 - [22KW AC charging](../../e-tron/technology/onboardcharger/#optional-22kw-charger)
 - [Oransje bremsekalipere](../../e-tron/exterior/paintedcalibers/)
 
-Hvis ett eller flere av disse alternativene er avgjørende for deg, kan dette være en avgjørende faktor.
+Hvis ett eller flere av disse utstyrsvalgene er avgjørende for deg, kan dette være en avgjørende faktor.
 
 ## Pris
 
@@ -223,14 +224,13 @@ Denne sammenligningen er kanskje ikke aktuell for så mange, men er en måte å 
 
 Hvis man velger alle opsjoner koster en Audi Q4 e-tron 50 quattro 779.900,- på Audi.no 22.05.2022. [Se pristilbud](https://electrichasgoneaudi.blob.core.windows.net/multimedia/models/comparisons/q4etron50vsetron55/fullspek_22_05_2022.pdf)
 
-For "tilsvarende" pris kan man bestille en Audi e-tron 55 S-line black edition. Den vil da koste 792.700,- [Se pristilbud](https://electrichasgoneaudi.blob.core.windows.net/multimedia/models/comparisons/q4etron50vsetron55/fullspek_22_05_2022.pdf)
+For "tilsvarende" pris kan man bestille en Audi e-tron 55 S-line black edition. Den vil da koste 792.700,- [Se pristilbud](https://electrichasgoneaudi.blob.core.windows.net/multimedia/models/comparisons/q4etron50vsetron55/matching_e-tron_22_05_2022.pdf)
 
 Den mangler da
 
 - 4 soners klima
 - Bang & Olufsen
-- Matrix 
-- Sorte speilhus
+- Matrix
 - Panoramasoltak
 - Støydempende glass på sidevinduene
 - LED-velkomstlys med projeksjon
