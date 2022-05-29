@@ -135,7 +135,7 @@ The motors are liquid cooled. Each motor has liquid stator cooling to give maxim
 
 To protect the battery and other electronics Audi reduces the available power depending on SOC and temprature.
 
-For Q50 boost the full power is only avaible over 80%.  After that it will drop down against 265HP. This screenshot show how the boost level is about 50% at 66% SOC.
+For Q50 boost the full power is only avaible over 88% and temprature above 23°C.  After that it will drop down against 265HP. This screenshot show how the boost level is about 50% at 66% SOC.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/boost.jpg">

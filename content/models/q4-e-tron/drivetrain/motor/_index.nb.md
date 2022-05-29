@@ -134,7 +134,7 @@ Motorene er væskekjølte. Hver motor har flytende statorkjøling for å gi maks
 
 For å beskytte batteriet og annen elektronikk reduserer Audi den tilgjengelige motorkraften avhengig av SOC og temperatur.
 
-For Q50 boost er full kraft bare tilgjengelig over 80 %. Etter det vil den falle ned mot 265HK. Dette skjermbildet viser hvordan boost-nivået er omtrent 50 % ved 66 % SOC.
+For Q50 boost er full kraft bare tilgjengelig over 88 % og når tempraturen er over 23°C . Etter det vil den falle ned mot 265HK. Dette skjermbildet viser hvordan boost-nivået er omtrent 50 % ved 66 % SOC.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/boost.jpg">
