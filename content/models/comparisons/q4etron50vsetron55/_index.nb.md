@@ -272,6 +272,7 @@ Nedenfor ser du den fullstendige spesifikasjonen og utstyrsammenligningen av gru
 | Maks takvekg| 75kg | 75kg |
 | Lastekapasitet | 520 l| 660 l |
 | Lastekapasitet seter nede| 1490l | 1725 l |
+| Frunk size | [N/A](../../q4-e-tron/transportation/#frunk) | [60L](../../e-tron/transportation/#frunk) |
 | Bakkeklaring | [165/180mm](../../q4-e-tron/drivetrain/suspension/) | [152-248mm](../../e-tron/drivetrain/suspension/) |
 | Lengde | 4588mm | 4901mm|
 | Bredde med speil | 2108mm | 2189mm |

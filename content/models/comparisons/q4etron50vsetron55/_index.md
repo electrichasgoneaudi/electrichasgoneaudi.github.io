@@ -241,6 +241,7 @@ Below you see the full specification and options comparison of the models.
 | Max roof weight | 75kg | 75kg |
 | Cargo space | 520 l| 660 l |
 | Cargo space seat down | 1490l | 1725 l |
+| Frunk size | [N/A](../../q4-e-tron/transportation/#frunk) | [60L](../../e-tron/transportation/#frunk) |
 | Ground clearance | 165/180mm | [152-248mm](../../e-tron/drivetrain/suspension/) |
 | Length | 4588mm | 4901mm|
 | Width with mirrors | 2108mm | 2189mm |
