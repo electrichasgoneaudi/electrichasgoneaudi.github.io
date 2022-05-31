@@ -268,9 +268,9 @@ Nedenfor ser du den fullstendige spesifikasjonen og utstyrsammenligningen av gru
 | Progressiv styring | [standard](../../q4-e-tron/drivetrain/suspension/) | [standard](../../e-tron/drivetrain/suspension/) |
 | Audi drive select | [ekstrautstyr](../../q4-e-tron/technology/audidriveselect/) | [standard](../../e-tron/technology/audidriveselect/) |
 | Brutto batteri | [82kWh](../../q4-e-tron/drivetrain/battery/) | [95kWh](../../e-tron/drivetrain/battery/) |
-| Netto battery | [77kWh](../../q4-e-tron/drivetrain/battery/) | [86.5kWh](../../e-tron/drivetrain/battery/) |
+| Netto batteri | [76.6kWh](../../q4-e-tron/drivetrain/battery/) | [86.5kWh](../../e-tron/drivetrain/battery/) |
 | Maks ladehastighet lynlading | [125 kW](../../q4-e-tron/drivetrain/battery/) | [150 kW](../../e-tron/drivetrain/battery/#charging-performance) |
-| Maks ladehastighet AC | 11 KW | [11KW (22KW ekstrautstyr)](../../e-tron/technology/onboardcharger/#optional-22kw-charger)|
+| Maks ladehastighet AC | [11 KW](../../q4-e-tron/technology/onboardcharger/) | [11KW (22KW ekstrautstyr)](../../e-tron/technology/onboardcharger/#optional-22kw-charger)|
 | Ekstra ladeport | N/A | [ekstrautstyr](../../e-tron/technology/onboardcharger/#optional-charge-port) |
 | Forvarming av batteri | Nei (kommer) | No |
 | WLTP rekkevidde grunnmodell | 488km | 441km |

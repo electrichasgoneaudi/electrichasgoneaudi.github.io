@@ -226,10 +226,10 @@ Below you see the full specification and options comparison of the models.
 | Adaptive Air suspension | N/A | [standard](../../e-tron/drivetrain/suspension/) |
 | Progressive steering | [standard](../../q4-e-tron/drivetrain/suspension/) | [standard](../../e-tron/drivetrain/suspension/) |
 | Audi drive select | [option](../../q4-e-tron/technology/audidriveselect/) | [standard](../../e-tron/technology/audidriveselect/) |
-| Gross battery | 82kWh | [95kWh](../../e-tron/drivetrain/battery/) |
-| Net battery | 77kWh | [86.5kWh](../../e-tron/drivetrain/battery/) |
-| Max DC Charging | 125 kW | [150 kW](../../e-tron/drivetrain/battery/#charging-performance) |
-| AC Charging  | 11 KW | [11KW (22KW optional)](../../e-tron/technology/onboardcharger/#optional-22kw-charger)|
+| Gross battery | [82kWh](../../q4-e-tron/drivetrain/battery/) | [95kWh](../../e-tron/drivetrain/battery/) |
+| Net battery | [77kWh](../../q4-e-tron/drivetrain/battery/) | [86.5kWh](../../e-tron/drivetrain/battery/) |
+| Max DC Charging | [125 kW](../../q4-e-tron/drivetrain/battery/) | [150 kW](../../e-tron/drivetrain/battery/#charging-performance) |
+| AC Charging  | [11 KW](../../q4-e-tron/technology/onboardcharger/) | [11KW (22KW optional)](../../e-tron/technology/onboardcharger/#optional-22kw-charger)|
 | Additional charge port | N/A | [option](../../e-tron/technology/onboardcharger/#optional-charge-port) |
 | Pre heating battery | Yes | No |
 | WLTP Range basic trim | 488km | 441km |
