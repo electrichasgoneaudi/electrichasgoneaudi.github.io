@@ -166,6 +166,7 @@ I Norge får man en rekke pakker til en gunstig pris sammenlignet med grunnmodel
 De fleste utstyrsalternativene er tilgjengelige på begge modellene, men noen er kun tilgjengelig på e-tron. Disse er:
 
 - [Individual Contour seter](../../e-tron/interior/seats/#individual-contour-seats)
+- [Sportsseter med justerbare hodestøtter](../../e-tron/interior/seats/)
 - [Ventilerte seter](../../e-tron/interior/seats/#ventilated-seats)
 - [Massasje seter](../../e-tron/interior/seats/#massage)
 - [Lengdejusterbare hodestøtte](../../e-tron/interior/seats/#massage)
