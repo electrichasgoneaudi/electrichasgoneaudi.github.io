@@ -159,6 +159,7 @@ Most options are available on both models, but some are only available on the e-
 
 - [Individual Contour seats](../../e-tron/interior/seats/#individual-contour-seats)
 - [Ventilated seats](../../e-tron/interior/seats/#ventilated-seats)
+- [Sport seats with adjustable headrest](../../e-tron/interior/seats/)
 - [Massage seats](../../e-tron/interior/seats/#massage)
 - [Length adjustable headrest](../../e-tron/interior/seats/#massage)
 - [Night Vision](../../e-tron/technology/drivingassistance/nightvision/)
