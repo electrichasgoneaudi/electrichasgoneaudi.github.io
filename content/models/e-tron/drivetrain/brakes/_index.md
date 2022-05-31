@@ -35,7 +35,7 @@ The levels are
 - Level 1 approx 0.06G
 - Level 2 approx 0.15G
 
-![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/regenlevel.png "This shows how the regen is on 0.15G (50%) of max.")
+![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/regenlevel.png "Virtual cockpit shows how the regen is on 0.15G (50%) of max.")
 
 Depending on which recuperation mode is enabled, the regen level will be remembered or turned off if the accelerator is pressed.
 
@@ -57,13 +57,13 @@ See also articles on [Regenerative braking](../../../../guides/regen) and [one p
 
 ## Physical brakes
 
-The brake system on the Audi e-tron is based on the 18” brake system used on the Audi Q7.
+As the basis for the brake system, the Audi e-tron uses the brake system from the Audi Q7.
 
 The wheel brakes are actuated hydraulically, the reinforcement is actuated electrically, and the activation is actuated electronically.
 
 The control unit detects how much force the driver is depressing the brake pedal and calculates how much braking torque is needed within milliseconds.
 
-If the recuperation torque is insufficient, hydraulic pressure for the conventional friction brake is generated .
+If the recuperation torque is insufficient, hydraulic pressure for the conventional friction brake is generated.
 
 Put into motion by an electric spindle drive, the displacement piston pushes the brake fluid into the brake lines. As a result, the transition from the engine brake to the pure friction brake is smooth, and the driver does not notice it.
 
@@ -89,7 +89,8 @@ This is barely more than a blink of an eye and creates impressively short brakin
 Otherwise, the electric motor would have to use valuable battery current to decelerate actively at low rotational speeds.
 
 The “brake-by-wire” technology of the electrohydraulically integrated brake control system enables a larger air gap, i.e. a greater distance between the brake pad and brake disk, to be set.
-This minimizes possible friction and heat generation and contributes actively to the vehicle’s long range.
+
+This gap minimizes possible friction and heat generation and contributes actively to the vehicle’s long-range.
 
 ### Disabling to prevent rust
 
