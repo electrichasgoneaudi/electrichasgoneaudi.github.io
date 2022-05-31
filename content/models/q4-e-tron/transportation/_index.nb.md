@@ -67,6 +67,15 @@ Du kan lagre opptil 75 kg på taket. På SUV-versjonen har du skinner slik at du
     <figcaption><h4>Audi Q4 e-tron med packline takboks</h4></figcaption>
 </figur>
 
+## Frunk
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/nofrunk.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/nofrunks.jpg" alt="Audi Q4 e-tron er ikke utstyrt med frunk" title="Audi Q4 e-tron er ikke utstyrt med frunk">
+    </a>
+    <figcaption><h4>Audi Q4 e-tron er ikke utstyrt med frunk</h4></figcaption>
+</figure>
+
 ## Slepekapasitet
 
 Audi Q4 e-tron kan dra tilhengere opp til 1200 kg med Audi Q4 e-tron 45/50 Quattro og 1000 kg Audi Q4 e-tron 40.
