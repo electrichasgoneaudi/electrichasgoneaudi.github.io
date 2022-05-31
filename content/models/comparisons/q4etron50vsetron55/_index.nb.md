@@ -182,7 +182,7 @@ De fleste utstyrsalternativene er tilgjengelige på begge modellene, men noen er
 - [Glass buttons](../../e-tron/interior/buttons/)
 - [Direct TPMS](../../e-tron/technology/tpms/)
 - [Audi connect key](../../e-tron/technology/lockingsystems/#audi-connect-key-2f1)
-- [Reservehjul](../../e-tron/technology/lockingsystems/#audi-connect-key-2f1)
+- [Reservehjul](../../e-tron/exterior/wheels/spare/)
 - [Gardiner bakvinduer](../../e-tron/interior/curtain/)
 - [Varme bakseter](../../e-tron/interior/seats/#seat-heating)
 - [Virtuelle speil](../../e-tron/exterior/mirrors/#virtual-mirrors)

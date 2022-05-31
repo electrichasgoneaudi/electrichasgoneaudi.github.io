@@ -174,7 +174,7 @@ Most options are available on both models, but some are only available on the e-
 - [Glass buttons](../../e-tron/interior/buttons/)
 - [Direct TPMS](../../e-tron/technology/tpms/)
 - [Audi connect key](../../e-tron/technology/lockingsystems/#audi-connect-key-2f1)
-- [Spare wheel](../../e-tron/technology/lockingsystems/#audi-connect-key-2f1)
+- [Spare wheel](../../e-tron/exterior/wheels/spare/)
 - [Rear window curtains](../../e-tron/interior/curtain/)
 - [Heated rear seats](../../e-tron/interior/seats/#seat-heating)
 - [Virtual mirrors](../../e-tron/exterior/mirrors/#virtual-mirrors)
