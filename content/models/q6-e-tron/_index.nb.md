@@ -116,4 +116,3 @@ Se nedenfor for spionvideo og spionbilde av testkjøringen av Q6 e-tron.
 
 ![Carbuzz-bilde av Q6 Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype4.jpg "Carbuzz-bilde av Q6 e-tron Prototype")
 
-{{% children description="true" depth="1" %}}

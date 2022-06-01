@@ -100,4 +100,3 @@ See below for spy video and spy photo of the Q6 e-tron test-driving.
 
 ![Carbuzz photo of Q6 Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype4.jpg "Carbuzz photo of Q6 e-tron Prototype")
 
-{{% children description="true" depth="1" %}}
