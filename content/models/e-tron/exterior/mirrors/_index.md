@@ -57,6 +57,8 @@ There are some optional mirros
 
 The virtual exterior mirrors of the Audi e-tron not only provide a new technology experience, but also many practical benefits in terms of comfort and safety. Their flat support integrates a small camera whose image is digitally processed and shown on high-contrast 7-inch OLED displays in the interior. The driver can enter different settings using the touchscreen function. OptionID **PAF**
 
+The virtual mirrors are not retractable.
+
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/virtualmirrors.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/virtualmirrorss.jpg" alt="Virtual Mirrors" title="Virtual Mirrors">
