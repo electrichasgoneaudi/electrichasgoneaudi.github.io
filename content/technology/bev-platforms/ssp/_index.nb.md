@@ -8,8 +8,8 @@ weight: 5
 I fremtiden vil det være mulig å bygge modeller fra alle merker og segmenter på SSP – mer enn 40 millioner gruppebiler gjennom hele livssyklusen.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/ssp/drivetrain.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/ssp/drivetrains.jpg"
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/drivetrain.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/drivetrains.jpg"
         alt="SSP Drivetrain" title="SSP Drivetrain">
     </a>
     <figcaption><h4>SSP Drivetrain</h4></figcaption>
@@ -18,8 +18,8 @@ I fremtiden vil det være mulig å bygge modeller fra alle merker og segmenter p
 Med SSP kan Volkswagen Group raskt og effektivt gi sine kunder innovative funksjoner i bilene sine, på tvers av de fleste merkene. Dette gjør SSP-nøkkelen til autonom kjøring. Samtidig oppnås betydelige stordriftsfordeler, samtidig som kompleksitet og utviklingskostnader reduseres.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/ssp/ssp1.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/ssp/ssp1s.png"
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/ssp1.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/ssp1s.png"
         alt="SSP vil være den eneste plattformen for VW i fremtiden" title="SSP vil være den eneste plattformen for VW i fremtiden">
     </a>
     <figcaption><h4>SSP vil være den eneste plattformen for VW i fremtiden</h4></figcaption>
@@ -37,8 +37,8 @@ De første modellene fra Audi på denne plattformen forventes å komme
 - Audi Q8 e-tron (2026) (Apollon-prosjektet)
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/ssp/ssp2.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/ssp/ssp2s.png"
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/ssp2.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/ssp2s.png"
         alt="Modeller på SSP" title="Modeller på SSP">
     </a>
     <figcaption><h4>Modeller på SSP</h4></figcaption>
@@ -56,8 +56,8 @@ De første modellene fra Audi på denne plattformen forventes å komme
 Med SSP kan bilmodellene konfigureres i forskjellige oppsett for å støtte modeller fra VW til Porsche.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/ssp/ssp3.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/ssp/ssp3s.png"
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/ssp3.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/ssp3s.png"
         alt="Mange konfigurasjonsmuligheter med SSP" title="Mange konfigurasjonsmuligheter med SSP">
     </a>
     <figcaption><h4>Mange konfigurasjonsmuligheter med SSP</h4></figcaption>
@@ -70,8 +70,8 @@ Som PPE og J1 vil SSP-plattformen bruke 800 volt teknologi.
 En av de viktigste endringene til batteriet på SSP sammenlignet med andre plattformer er den nye enhetlige batteriteknologien. VWs enhetlige celleteknologi bruker de samme fysiske pakkeformatene, bare med forskjellig kjemi inni, for å gjøre design av fremtidige elbiler rimeligere og krever mindre tid.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/ssp/unifiedcell1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/ssp/unifiedcell1s.jpg"
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/unifiedcell1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/unifiedcell1s.jpg"
         alt="VW Unified cell" title="VW Unified cell">
     </a>
     <figcaption><h4>VW Unified cell</h4></figcaption>
