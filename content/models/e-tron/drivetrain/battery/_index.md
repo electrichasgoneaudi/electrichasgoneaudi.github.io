@@ -1,20 +1,19 @@
 ---
 title: Audi e-tron battery
 linktitle: Battery
-description: Audi e-tron is delivered with two different battery sizes. 95kWh and 71kWh. 
+description: The battery on the Audi e-tron is available in two different sizes. 95kWh and 71kWh.
 weight: 7
 ---
 <!-- markdownlint-disable MD033 -->
 
 ## Cell technology
 
-Audi/Volkswagen has a multi-vendor strategy on cells. That means that Audi uses different vendors of Lithium-ion cells for different batteries.
-
-Vendors have also changed since e-tron had the world premiere
+Audi/Volkswagen has a multi-vendor strategy on cells. That means that Audi uses different vendors of Lithium-ion cells for various batteries.
+Vendors have also changed since the e-tron had its world premiere.
 
 ### LG Chem
 
-The cell used on e-tron 55 before january 2021 is LG Chem E66A. The cell type is [LG Pouch Cell](https://www.youtube.com/watch?v=Q2Lczd7MjGc) produced in [Poland](https://www.google.no/maps/search/lg+chem+poland/@51.0183429,16.8906359,995m/data=!3m1!1e3).
+The cell used on e-tron 55 before January 2021 is LG Chem E66A. The cell type is [LG Pouch Cell](https://www.youtube.com/watch?v=Q2Lczd7MjGc), produced in [Poland](https://www.google.no/maps/search/lg+chem+poland/@51.0183429,16.8906359,995m/data=!3m1!1e3).
 
 |Spec | Value |
 |-----|------|
@@ -48,11 +47,10 @@ The cell used on e-tron 55 before january 2021 is LG Chem E66A. The cell type is
 
 ### Samsung SDI
 
-For the 71kWh battery used on Audi e-tron 50, Audi has been using Samsung SDI cells since the beginning.
-The cells are produced by Samsung SDI in [Budapest, Hungary](https://www.google.com/maps/place/Samsung+SDI+Hungary+Zrt./@47.6765476,19.168821,2130m/data=!3m1!1e3!4m5!3m4!1s0x0:0x45db42011a2687d9!8m2!3d47.6779532!4d19.170087)
-They are of type [Samsung Prismatic](https://www.samsungsdi.com/automotive-battery/products/prismatic-lithium-ion-battery-cell.html)
+Audi has been using Samsung SDI cells for the 71kWh battery used on the Audi e-tron 50. Samsung SDI produces the cells in [Budapest, Hungary](https://www.google.com/maps/place/Samsung+SDI+Hungary+Zrt./@47.6765476,19.168821,2130m/data=!3m1!1e3!4m5!3m4!1s0x0:0x45db42011a2687d9!8m2!3d47.6779532!4d19.170087).
+They are of type [Samsung Prismatic](https://www.samsungsdi.com/automotive-battery/products/prismatic-lithium-ion-battery-cell.html).
 
-After January 2021 Audi replaced the battery cells on e-tron 55 batteries with [Samsung SDI cells](https://www.electrive.net/2020/07/23/audi-chef-duesmann-sieht-batterie-probleme-beim-e-tron-als-geloest/). This is believed  mainly to be because LG focused on other cells to other VAG cars.
+After January 2021, Audi replaced the battery cells on e-tron 55 batteries with [Samsung SDI cells](https://www.electrive.net/2020/07/23/audi-chef-duesmann-sieht-batterie-probleme-beim-e-tron-als-geloest/).The change is believed to be mainly because LG focused on other cells to other VAG cars.
 
 |Spec | Value |
 |-----|------|
@@ -86,7 +84,7 @@ After January 2021 Audi replaced the battery cells on e-tron 55 batteries with [
 
 ## Battery packs
 
-Currently, the Audi e-tron is available with 2 different battery pack sizes. It is expected that from the [2023-model](/models/e-tron/mychanges/) there will be added a larger pack.
+Currently, the Audi e-tron is available with 2 different battery pack sizes. It is expected that from the facelift [2024-model](../../mychanges/) there will be added a larger pack.
 
 ### 95kWh battery
 
@@ -99,7 +97,7 @@ then connected in serial.
 
 ![95 kWh module](95kwhconnection.drawio.svg "Connection diagram 95kWh module with 4p3s configuration")
 
-Since each cell is on 60ah each parallel group gives a capacity of 240Ah. (4 x 60ah)
+Since each cell is on 60ah, each parallel group gives a capacity of 240Ah. (4 x 60ah)
 
 When 36 modules like this are connected in serial the nominal voltage is 396 volt.
 
@@ -125,9 +123,9 @@ For models produced after that, the buffer has been decreased so the available c
 
 The battery for the Audi e-tron 50 is totally on 71kWh and was created to support a cheaper e-tron.
 
-It has a total of 27 modules with 12 cells each that give a total of 324 cells. It is no coincidence that it has 27 modules.
+The 71kWh battery pack has 27 modules with 12 cells each, giving 324 cells. It is no coincidence that it has 27 modules.
 
-One important factor was that it has to have the same nominal voltage at 396 volts.
+One factor is it gives the same nominal voltage at 396 volts.
 
 This was possible by changing the battery architecture from 4 cells in parallel to 3 cells in parallel.
 
@@ -135,7 +133,7 @@ This was possible by changing the battery architecture from 4 cells in parallel 
 
 Since each cell is on 60ah each parallel group gives a capacity of 180Ah. (3 x 60ah)
 
-When 27 modules like this are connected in serial the nominal voltage is 396 volt.
+When 27 modules like this are connected in serial, the nominal voltage is 396 volt.
 
 396volt * 180ah = 71 280 Watt-hour (Wh) or 71kWh (kilo Watt Hours)
 
@@ -164,9 +162,9 @@ The 95kWh uses a second floor under the rear seats to get the room needed for th
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batterycase95kwh.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batterycase95kwhs.jpg" alt="Battery pack 95kWh with 36 modules including 5 on the second floor" title="Battery pack 95kWh with 36 modules including 5 on the second floor">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batterycase95kwhs.jpg" alt="Battery pack 95kWh with 36 modules, including five on the second floor" title="Battery pack 95kWh with 36 modules, including five on the second floor">
     </a>
-    <figcaption><h4>Battery pack 95kWh with 36 modules including 5 on the second floor</h4></figcaption>
+    <figcaption><h4>Battery pack 95kWh with 36 modules, including five on the second floor</h4></figcaption>
 </figure>
 
 <figure>
@@ -188,7 +186,7 @@ comprised of extruded sections, it holds the cell modules like a typecase.
     <figcaption><h4>Integrated crash structure of the lithium-ion battery</h4></figcaption>
 </figure>
 
-Including the housing with its sophisticated crash structures comprising 47 percent extruded aluminum sections, 36 percent aluminum sheet, and 17 percent diecast aluminum parts, the battery system weighs around 700 kilograms (1,543.2 lb). It is bolted to the body structure of the Audi e-tron at 35 points. This increases its torsional rigidity by 27 percent and contributes to the high level of the safety of the Audi e-tron, as does the cooling system bonded to the outside of the battery housing. Compared to a conventional SUV, the Audi e-tron offers 45 percent higher torsional rigidity, a key parameter for precise handling and acoustic comfort
+Including the housing with its sophisticated crash structures comprising 47 percent extruded aluminum sections, 36 percent aluminum sheet, and 17 percent diecast aluminum parts, the battery system weighs around 700 kilograms (1,543.2 lb). It is bolted to the body structure of the Audi e-tron at 35 points. This increases its torsional rigidity by 27 percent and contributes to the high level of the safety of the Audi e-tron, as does the cooling system bonded to the outside of the battery housing. Compared to a conventional SUV, the Audi e-tron offers 45 percent higher torsional rigidity, a key parameter for precise handling and acoustic comfort.
 
 ## Thermal management
 
@@ -200,9 +198,9 @@ A cooling system of flat aluminum extruded sections divided uniformly into small
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/cooling_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/cooling_1s.jpg" alt="Cooling the lithium-ion battery via the chille" title="Cooling the lithium-ion battery via the chille">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/cooling_1s.jpg" alt="Cooling the lithium-ion battery via the chiller" title="Cooling the lithium-ion battery via the chiller">
     </a>
-    <figcaption><h4>Cooling the lithium-ion battery via the chille</h4></figcaption>
+    <figcaption><h4>Cooling the lithium-ion battery via the chiller</h4></figcaption>
 </figure>
 
 The battery and all of its parameters, such as charge status, power output, and thermal management, are managed by the external battery management controller (BMC). This is located in the occupant cell on the right A-pillar of the Audi e-tron. The BMC communicates both with the control units of the electric motors and the cell module controllers (CMC), each of which monitors the current, voltage, and temperature of the modules.
@@ -222,7 +220,7 @@ The battery junction box (BJB), into which the high-voltage relays and fuses are
 
 Audi e-tron 55/S and Audi e-tron 50 is one of the fastest charging EVs on the market.
 
-For the 71kWh battery, the max charge speed is 125kW
+For the 71kWh battery, the max charge speed is 125kW.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/chargespeed50.png">
@@ -242,7 +240,7 @@ For the 95kWh battery, the max charging speed is 150kW.
 
 [Diagramm from FASTNED](https://support.fastned.nl/hc/en-gb/articles/360000815988-Charging-with-an-Audi-e-tron)
 
-There are several cars with higher top speed on charging, but the consistently high performance from low SOC to high SOC makes it overall faster than most other cars.
+Several cars have higher top speed on charging, but the consistently high performance from low SOC to high SOC makes it faster than most other cars.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/chargingcurve.jpg">
