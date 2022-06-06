@@ -93,5 +93,17 @@ The towing hitch has option id **1M6**.  An optional towing hitch prepartion has
 {{< youtube iSW-DfNEXnk >}}
 
 
+## Trailer consumption
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trailerexample1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trailerexample1s.jpg" alt="Trailer example 1" title="Trailer example 1">
+    </a>
+    <figcaption><h4>Trailer example 1</h4></figcaption>
+</figure>
+
+The above trailer gave an consumption on 32kWh/100km. 
+
+
 
 {{% children description="true" depth="1" %}}

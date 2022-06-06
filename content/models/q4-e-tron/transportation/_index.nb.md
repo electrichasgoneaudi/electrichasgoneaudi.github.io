@@ -92,5 +92,16 @@ Hengerfestet har opsjons-id **1M6**. Et valgfritt tilhengerfeste har opsjons-ID 
 {{< youtube iSW-DfNEXnk >}}
 
 
+## Forbruk med tilhenger
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trailerexample1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trailerexample1s.jpg" alt="Trailer example 1" title="Trailer example 1">
+    </a>
+    <figcaption><h4>Trailer example 1</h4></figcaption>
+</figure>
+
+Bilen over med henger ga et forbruk på 32kWh/100km. 
+
 
 {{% children description="true" depth="1" %}}
