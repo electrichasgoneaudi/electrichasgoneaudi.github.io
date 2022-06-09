@@ -49,7 +49,15 @@ Følgende innlegg er tilgjengelige som standard
     <figcaption><h4>Carbon inlay</h4></figcaption>
 </figure>
 
-You can also order special inlays from the Audi Exclusive collection
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/inlays/carbon_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/inlays/carbon_2s.jpg"
+        alt="Carbon inlay" title="Carbon inlay">
+    </a>
+    <figcaption><h4>Carbon inlay</h4></figcaption>
+</figure>
+
+Du kan også bestille spesialinnlegg fra Audi Exclusive-kolleksjonen
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/inlays/inlay_audiexlusive.jpg">
@@ -58,9 +66,3 @@ You can also order special inlays from the Audi Exclusive collection
     </a>
     <figcaption><h4>Audi exclusive collection inlays</h4></figcaption>
 </figure>
-
-![Inlay](carbon.jpg "Dekor carbon quadrat struktur 5MK")
-
-Du kan også bestille spesialinnlegg fra Audi Exclusive-kolleksjonen
-
-![Inlays](inlay_audiexlusive.png "Audi exclusive collection dekorinnlegg")

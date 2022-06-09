@@ -48,6 +48,14 @@ The following inlays are available as standard
     <figcaption><h4>Carbon inlay</h4></figcaption>
 </figure>
 
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/inlays/carbon_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/inlays/carbon_2s.jpg"
+        alt="Carbon inlay" title="Carbon inlay">
+    </a>
+    <figcaption><h4>Carbon inlay</h4></figcaption>
+</figure>
+
 You can also order special inlays from the Audi Exclusive collection
 
 <figure>
