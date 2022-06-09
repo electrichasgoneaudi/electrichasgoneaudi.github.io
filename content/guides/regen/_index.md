@@ -79,7 +79,7 @@ In this scenario, the car is moving at 75mph (120.7km/h) and needs to make a ful
     <figcaption><h4>Making a full stop from 75mph</h4></figcaption>
 </figure>
 
-As shown in the graph below 75mph for a 2900kg Audi e-tron gives the total kinetic energy of 0,472626718 kWh.
+As shown in the graph below 75mph for a 2900kg Audi e-tron gives the total kinetic energy of 0,473 kWh.
 
 With 80% drivetrain efficiency, this means the car will be able to get 0.38kWh back to the battery.
 
@@ -97,9 +97,9 @@ This means a consumption reduction of 3.8kWh/100km.
 </figure>
 
 
-This scenario is a typical city driving scenario. When driving at 30 mph (48.28km/h) the Audi e-tron has a total kinetic energy of 0,075620275kWh.
+This scenario is a typical city driving scenario. When driving at 30 mph (48.28km/h) the Audi e-tron has a total kinetic energy of 0,0756kWh.
 
-Based on the 80% efficiency of the drivetrain this saves 0,06059kWh back to the battery.
+Based on the 80% efficiency of the drivetrain this saves 0,061kWh back to the battery.
 
 If you drive 100km in city traffic and need to make 100 stops like this, you save 6,05 kWh energy.
 
@@ -144,10 +144,10 @@ In all calculations on this page, we use the Audi e-tron 55 with a weight of 290
 
 |Speed km/h | mph | m/s | Kinetic energy |
 |----|-----|-----|-----|
-| 50 kmh | 31.07 mph | 13.89 m/s |  0,077696331 kWh |
-| 80 km/h | 49,7 mph | 22.222 m/s| 0.1989 kWh |
-| 104.7km/h | 65 mph | 29.0575 m/s | 0.340083 kWh |
-| 120.7km/h | 75 mph | 33.528 m/s | 0.452773 kWh |
+| 50 kmh | 31.07 mph | 13.89 m/s |  0,0777 kWh |
+| 80 km/h | 49,7 mph | 22.222 m/s| 0.199 kWh |
+| 104.7km/h | 65 mph | 29.0575 m/s | 0.34 kWh |
+| 120.7km/h | 75 mph | 33.528 m/s | 0.453 kWh |
 
 You can use this [kinetic energy calculator](https://www.omnicalculator.com/physics/kinetic-energy) for other speeds. See also the graph below.
 
@@ -171,7 +171,7 @@ For an Audi e-tron, we do the calculation for the wheel option 265/40 R22. With 
 
 I = 30 * 0.3854^2 = 4,4559948
 
-For 80km/h the wheel will spin with 566.89 rpm and the resulting kinetic energy would be 8.724333 Wh or 0,008724333 kWh for 4 wheels.
+For 80km/h the wheel will spin with 566.89 rpm and the resulting kinetic energy would be 8.724 Wh or 0,008724 kWh for 4 wheels.
 
 Note: This is not 100% correct since the formula is based on a wheel with the same form from center to edge. But it is close enough for this kind of calculation.
 

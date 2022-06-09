@@ -79,7 +79,7 @@ I dette scenariet beveger bilen seg i 120,7 km/t (75 mph) og må stoppe for rød
     <figcaption><h4>Full stop fra 120 km/t</h4></figcaption>
 </figure>
 
-Som vist i grafen nedenfor gir 120,7 km/t for en 2900 kg Audi e-tron den totale kinetiske energien på 0,472626718 kWh.
+Som vist i grafen nedenfor gir 120,7 km/t for en 2900 kg Audi e-tron den totale kinetiske energien på 0,473 kWh.
 
 Med en drivlinje med 80 % effektivitet betyr dette at bilen vil kunne få 0,38 kWh tilbake til batteriet.
 
@@ -98,7 +98,7 @@ Dette betyr en forbruksreduksjon på 3,8kWh/100km.
 
 Dette scenariet er et typisk bykjøringsscenario. Ved kjøring i 30 mph (48,28 km/t) har Audi e-tron en total kinetisk energi på 0,075620275 kWh.
 
-Basert på drivlinjens effektivitet på 80 % gir dette 0,06059 kWh tilbake til batteriet.
+Basert på drivlinjens effektivitet på 80 % gir dette 0,061 kWh tilbake til batteriet.
 
 Hvis du kjører 100 km i bytrafikk og trenger å gjøre 100 stopp som dette sparer du 6,05 kWh energi.
 
@@ -143,10 +143,10 @@ I alle beregninger på denne siden bruker vi Audi e-tron 55 med en vekt på 2900
 
 |Hastighet km/t | mph | m/s | Kinetisk energi |
 |----|-----|-----|-----|
-| 50 kmt | 31,07 mph | 13,89 m/s | 0,077696331 kWh |
-| 80 km/t | 49,7 mph | 22.222 m/s| 0,1989 kWh |
-| 104,7 km/t | 65 mph | 29,0575 m/s | 0,340083 kWh |
-| 120,7 km/t | 75 mph | 33,528 m/s | 0,452773 kWh |
+| 50 kmt | 31,07 mph | 13,89 m/s | 0,0777 kWh |
+| 80 km/t | 49,7 mph | 22.222 m/s| 0,199 kWh |
+| 104,7 km/t | 65 mph | 29,0575 m/s | 0,34 kWh |
+| 120,7 km/t | 75 mph | 33,528 m/s | 0,453 kWh |
 
 Du kan bruke denne kalkulatoren for [kinetisk energi](https://www.omnicalculator.com/physics/kinetic-energy) for andre hastigheter. Se også grafen under.
 
@@ -170,7 +170,7 @@ For en Audi e-tron gjør vi beregningen for hjulalternativet 265/40 R22. Med en 
 
 I = 30 * 0,3854^2 = 4,4559948
 
-For 80 km/t vil hjulet spinne med 566,89 rotasjoner i minuttet og den resulterende kinetiske energien vil være 8,724333 Wh eller 0,008724333 kWh for 4 hjul.
+For 80 km/t vil hjulet spinne med 566,89 rotasjoner i minuttet og den resulterende kinetiske energien vil være 8,724 Wh eller 0,008724 kWh for 4 hjul.
 
 Merk: Dette er ikke 100 % nøyaktig siden formelen er basert på et hjul med samme form fra senter til ytterkant og vil variere på utformingen av selve felgen. Men det er nærme nok for denne typen beregninger.
 
@@ -189,7 +189,7 @@ Formelen er ganske enkel.
 - g: gravitasjonsfelt 9,8 m/s^2 på overflaten
 - h: høyde i meter
 
-For eksempel vil Audi e-tron 55 på 2900 kg plassert på 1000 meter (3280 fot) over havet ha en potensiell energi på 7,8998 kWh (28,492,85 Joule)
+For eksempel vil Audi e-tron 55 på 2900 kg plassert på 1000 meter (3280 fot) over havet ha en potensiell energi på 7,9 kWh (28,492,85 Joule)
 
 I områder med høydeforskjeller (som mange steder i Norge) vil den potensielle energien være den største kilden til regenerert energi.
 
