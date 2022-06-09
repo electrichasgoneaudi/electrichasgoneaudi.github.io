@@ -54,13 +54,6 @@ Sold as winter tires by Audi Norway.
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/vossenhf5_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/vossenhf5_1s.jpg" alt="22 x 10.5 Vossen HF5" title="22 x 10.5 Vossen HF5">
-    </a>
-    <figcaption><h4>22 x 10.5 Vossen HF5</h4></figcaption>
-</figure>
-
-<figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/vossenhf5_2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/vossenhf5_2s.jpg" alt="22 x 10.5 Vossen HF5" title="22 x 10.5 Vossen HF5">
     </a>
