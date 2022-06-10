@@ -127,6 +127,28 @@ Sold as winter tires by Audi Norway.
     <figcaption><h4>Japan Racing JR28</h4></figcaption>
 </figure>
 
+## Japan Racing JR26
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/japan_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/japan_4s.jpg" alt="Japan Racing JR26 22 x 10.5 ET27" title="Japan Racing JR26 22 x 10.5 ET27">
+    </a>
+    <figcaption><h4>Japan Racing JR26 22 x 10.5 ET27</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/japan_5.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/japan_5s.jpg" alt="Japan Racing JR26 22 x 10.5 ET27" title="Japan Racing JR26 22 x 10.5 ET27">
+    </a>
+    <figcaption><h4>Japan Racing JR26 22 x 10.5 ET27</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/japan_6.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/japan_6s.jpg" alt="Japan Racing JR26 22 x 10.5 ET27" title="Japan Racing JR26 22 x 10.5 ET27">
+    </a>
+    <figcaption><h4>Japan Racing JR26 22 x 10.5 ET27</h4></figcaption>
+</figure>
 
 ## Rebel
 
