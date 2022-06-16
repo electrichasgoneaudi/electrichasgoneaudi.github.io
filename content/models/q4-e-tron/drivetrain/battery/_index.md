@@ -98,4 +98,33 @@ Below you see Sandy Munro go in details about the Q4 battery.
 
 {{< youtube 1hPe82cGLOE>}}
 
+## Charging performance Audi Q4 e-tron
+
+The first generation of Audi Q4 e-tron had a max charging speed of 100KW for Q4 e-tron 35 and 125KW for the Audi Q4 e-tron 40/45/50 with the below charging curve.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.jpg"
+        alt="Charging curve Q4 e-tron optimal conditions" title="Charging curve Q4 e-tron optimal conditions">
+    </a>
+    <figcaption><h4>Charging curve Q4 e-tron optimal conditions</h4></figcaption>
+</figure>
+
+In march 2022 Audi revaled that they upgraded the charging speed and curve for Audi Q4 e-tron 40/45 and 50.
+
+All these cars will now charge up to 135 kW of power. The ideal 5 to 80 percent charge time is reduced for the Q4 40 e-tron and the Q4 Sportback 40 e-tron to 29 minutes, for the Q4 45 e-tron quattro as well as the Q4 50 e-tron quattro and Q4 Sportback 50 e-tron quattro models to 36 minutes.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/charging.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/chargings.jpg"
+        alt="Audi Q4 e-tron charging at Ionity" title="Audi Q4 e-tron charging at Ionity">
+    </a>
+    <figcaption><h4>Audi Q4 e-tron charging at Ionity</h4></figcaption>
+</figure>
+
+## Battery life time
+
+Audi guarantees that it will still have at least 70 percent capacity after eight years of operation or after 160,000 kilometers.
+
+
 {{% children description="true" depth="1" %}}

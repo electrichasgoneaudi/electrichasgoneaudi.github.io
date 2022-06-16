@@ -17,6 +17,9 @@ weight: 1
 
 Active Lane Assist kan deaktiveres på knappen på enden av retningshåndtaket. Det er ikke mulig å deaktivere den permanent.
 
+Dette er fordi at under [EU kjørtøysregler](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12503-Vehicle-safety-type-approval-of-cars-and-vans-with-emergency-lane-keeping-systems-ELKS-_en), alle nye modeller må være utstyrt med feltholde system fra Juli 2022, og eksisterende modeller fra juli 2024.
+
+
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/activelaneassist/laneassistbutton.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/activelaneassist/laneassistbuttons.jpg"

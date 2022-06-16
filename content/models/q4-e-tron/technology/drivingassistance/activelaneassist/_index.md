@@ -18,6 +18,8 @@ weight: 1
 
 The Active Lane Assist can be disabled on the button at the end of the direction handle. It is not possible to permanent disable it.
 
+This is because under new [EU vehicle safety rules](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12503-Vehicle-safety-type-approval-of-cars-and-vans-with-emergency-lane-keeping-systems-ELKS-_en), all new car and van models must be equipped with emergency lane keeping systems (ELKS) from July 2022, and existing models from July 2024 EU requires.
+
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/activelaneassist/laneassistbutton.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/activelaneassist/laneassistbuttons.jpg"

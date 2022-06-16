@@ -8,7 +8,13 @@ hidden: true
 <!-- markdownlint-disable MD033 -->
 First. What is the expected charging rate? Under optimal conditions, the charge curve will look like this.
 
-![Charging curve](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.jpg "Charging curve Q4 e-tron optimal conditions")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.jpg"
+        alt="Charging curve Q4 e-tron optimal conditions" title="Charging curve Q4 e-tron optimal conditions">
+    </a>
+    <figcaption><h4>Charging curve Q4 e-tron optimal conditions</h4></figcaption>
+</figure>
 
 That means that you often see 125kW up to 35%.
 
