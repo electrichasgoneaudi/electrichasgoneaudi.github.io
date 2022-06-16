@@ -98,4 +98,34 @@ Nedenfor ser du Sandy Munro gå i detaljer om Q4-batteriet.
 
 {{< youtube 1hPe82cGLOE>}}
 
+## Ladeytelse Audi Q4 e-tron
+
+Den første generasjonen av Audi Q4 e-tron hadde en maksimal ladehastighet på 100KW for Q4 e-tron 35 og 125KW for Audi Q4 e-tron 40/45/50 med ladekurven vist nedenfor.
+
+<figur>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.jpg"
+        alt="Ladekurve Q4 e-tron optimale forhold" title="Ladekurve Q4 e-tron optimale forhold">
+    </a>
+    <figcaption><h4>Ladekurve Q4 e-tron optimale forhold</h4></figcaption>
+</figur>
+
+I mars 2022 avslørte Audi at de oppgraderte ladehastigheten og ladekurven for Audi Q4 e-tron 40/45 og 50.
+
+Alle disse bilene vil nå lade opp til 135 kW. Som et resultat reduseres den ideelle ladetiden på 5 til 80 prosent for Q4 40 e-tron og Q4 Sportback 40 e-tron til 29 minutter, for Q4 45 e-tron quattro og Q4 50 e-tron quattro og Q4 Sportback 50 e-tron quattro-modeller til 36 minutter.
+
+<figur>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/charging.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/chargings.jpg"
+        alt="Audi Q4 e-tron lader ved Ionity" title="Audi Q4 e-tron lader ved Ionity">
+    </a>
+    <figcaption><h4>Audi Q4 e-tron lader ved Ionity</h4></figcaption>
+</figur>
+
+Det er foreløpig ikke kjent om de eksisterende bilene får en oppgradering til den nye ladekurven.
+
+## Batterilevetid
+
+Audi garanterer at den fortsatt vil ha minst 70 prosent kapasitet etter åtte års drift eller etter 160.000 kilometer.
+
 {{% children description="true" depth="1" %}}
