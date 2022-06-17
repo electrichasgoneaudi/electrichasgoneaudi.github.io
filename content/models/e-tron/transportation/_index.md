@@ -70,7 +70,7 @@ This contains the following.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/qe1_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/qe1_1ss.jpg" alt="Net in the side of the luggage compartment and luggage net for transporting objects" title="Net in the side of the luggage compartment and luggage net for transporting objects">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/qe1_1s.jpg" alt="Net in the side of the luggage compartment and luggage net for transporting objects" title="Net in the side of the luggage compartment and luggage net for transporting objects">
     </a>
     <figcaption><h4>Net in the side of the luggage compartment and luggage net for transporting objects</h4></figcaption>
 </figure>

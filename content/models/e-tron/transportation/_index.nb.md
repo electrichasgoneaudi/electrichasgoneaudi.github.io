@@ -64,13 +64,13 @@ Alternativ-IDen er **3CX**
 
 ### Oppbevarings- og bagasjeromspakke
 
-Du kan bestille Audi e-tron med oppbevarings- og bagasjeromspakke
+Du kan bestille Audi e-tron med oppbevarings- og bagasjeromspakke med opsjonsnr QE1.
 
 Den inneholder følgende.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/qe1_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/qe1_1ss.jpg" alt="Nett i siden av bagasjerommet og bagasjenett til transport av gjenstander" title="Nett i siden av bagasjerommet og bagasjenett til transport av gjenstander">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/qe1_1s.jpg" alt="Nett i siden av bagasjerommet og bagasjenett til transport av gjenstander" title="Nett i siden av bagasjerommet og bagasjenett til transport av gjenstander">
     </a>
     <figcaption><h4>Nett i siden av bagasjerommet og bagasjenett til transport av gjenstander</h4></figcaption>
 </figure>
