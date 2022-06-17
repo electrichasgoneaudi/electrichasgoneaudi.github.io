@@ -64,7 +64,7 @@ The option id is **3CX**
 
 ### Storage and luggage compartment package
 
-You can order Audi e-tron with storage and luggage compartment package.
+You can order Audi e-tron with storage and luggage compartment package with option QE1.
 
 This contains the following.
 
