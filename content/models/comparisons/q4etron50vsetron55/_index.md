@@ -3,6 +3,7 @@ title: Q4 e-tron 50 quattro vs e-tron 55 quattro
 linktitle: Q4 e-tron vs e-tron
 description: Here you find a detailed comparison between the Audi Q4 e-tron 50 quattro and the Audi e-tron 55 quattro.
 weight: 1
+lastmod: 2022-06-17
 ---
 <!-- markdownlint-disable MD033 -->
 Even though these models are in different categories, the price can be in the same range depending on the equipment level. In addition, people might be willing to increase/reduce their budget depending on the value of money and features.
