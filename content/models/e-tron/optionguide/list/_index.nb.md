@@ -254,7 +254,7 @@ Du kan velge mellom flere varianter av seter og setematerialer på Audi e-tron. 
 | [Belyste innstigningslister foran/bak med aluminiumsfelt, uten logo](../../exterior/doors/#innstegslister) |  | VT3 |
 | [Belyste innstigningslister med aluminiumsfelt foran og bak, S-logo på listen foran](../../exterior/doors/#innstegslister)  | S-line/S-line interior | VT5 |
 | [12-volts stikkontakt](../../technology/connections/) | Front, rear and luggage compartment | Standard | |
-| Oppbevarings- og bagasjeromspakke | - To koppholdere i midtkonsollen bak <br> - [Kledning i oppbevaringsrommet i reservehjulsbrønnen](../../transportation/#oppbevarings--og-bagasjeromspakke)<br> - [Nett i siden av bagasjerommet](../../transportation/#oppbevarings--og-bagasjeromspakke) <br /> - [Bagasjenett til transport av gjenstander (bagasjestropper)](../../transportation/#oppbevarings--og-bagasjeromspakke)  | QE1 |
+| Oppbevarings- og bagasjeromspakke | - To koppholdere i midtkonsollen bak <br> - [Oppevaringboks reservehjulsbrønnen](../../transportation/#oppbevarings--og-bagasjeromspakke)<br> - [Nett i siden av bagasjerommet](../../transportation/#oppbevarings--og-bagasjeromspakke) <br /> - [Bagasjenett til transport av gjenstander (bagasjestropper)](../../transportation/#oppbevarings--og-bagasjeromspakke)  | QE1 |
 | [Skillenett for bagasjerom](../../transportation/#separasjonsnett-for-bagasjerom)  |  | 3CX |
 | Fleksibelt sammenleggbar bagasjeromsmatte  |  | 6SJ |
 | Bagasjeromstildekning | Manuell bagasjeromstildekning. Kan tas ut og oppbevares i bilen. | |
