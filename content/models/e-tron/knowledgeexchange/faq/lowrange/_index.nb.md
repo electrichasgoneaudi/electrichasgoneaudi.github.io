@@ -25,6 +25,8 @@ Tabellen nedenfor viser rekkevidden målt etter WLTP standarden. Legg merke til 
 | Audi e-tron 55 max utstyrsnivå | 369 km/229 miles | 23,44/100km | 2,65 miles/kWh |
 | Audi e-tron S max utstyrsnivå | 343 km/213 miles | 25,22/100 km | 2,46 miles/kWh |
 
+Du finner WLTP rekkevidden for din Audi e-tron i myAudi appen.
+
 ### EPA-rekkevidde
 
 Tabellen nedenfor viser rekkevidden basert på EPA standarden. Legg merke til at rekkeviden oppgitt er god del lavere enn WLTP.
@@ -69,7 +71,7 @@ Samme beregning basert i miles 2,1mi/kWh
 
 Men dette er den beste gjetningen basert på tidligere turer. Hvis du endrer atferd på neste tur, vil rekkevidden som beregnes være feil.
 
-Hvis du har gått mange korte turer i kaldt vær, ville du ha brukt mye energi på å varme opp bilen. Men dette gjennomsnittlige forbruket er ikke relevant hvis du dagen etter skal ta en lang kjøretur. Da ville bilen undervurdere rekkevidden.
+Hvis du har kjørt mange korte turer i kaldt vær, ville du ha brukt mye energi på å varme opp bilen. Men dette gjennomsnittlige forbruket er ikke relevant hvis du dagen etter skal ta en lang kjøretur. Da ville bilen undervurdere rekkevidden.
 
 Hvis en rute er definert i bilnavigasjonssystemet, vil bilen justere rekkevidden basert på høyde og vei foran.
 
