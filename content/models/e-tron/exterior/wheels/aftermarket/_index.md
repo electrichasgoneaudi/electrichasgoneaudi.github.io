@@ -47,6 +47,34 @@ Sold as winter tires by Audi Norway.
 </figure>
 
 <figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/vossen_hf2_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/vossen_hf2_3s.jpg" alt="22 x 10.5 Vossen HF2" title="22 x 10.5 Vossen HF2">
+    </a>
+    <figcaption><h4>22 x 10.5 Vossen HF2</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/vossen_hf2_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/vossen_hf2_4s.jpg" alt="22 x 10.5 Vossen HF2" title="22 x 10.5 Vossen HF2">
+    </a>
+    <figcaption><h4>22 x 10.5 Vossen HF2</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/vossen_hf2_5.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/vossen_hf2_5s.jpg" alt="22 x 10.5 Vossen HF2" title="22 x 10.5 Vossen HF2">
+    </a>
+    <figcaption><h4>22 x 10.5 Vossen HF2</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/vossen_hf2_6.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/vossen_hf2_6s.jpg" alt="22 x 10.5 Vossen HF2" title="22 x 10.5 Vossen HF2">
+    </a>
+    <figcaption><h4>22 x 10.5 Vossen HF2</h4></figcaption>
+</figure>
+
+<figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/vossenhf5_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/vossenhf5_1s.jpg" alt="22 x 10.5 Vossen HF5" title="22 x 10.5 Vossen HF5">
     </a>
@@ -127,27 +155,27 @@ Sold as winter tires by Audi Norway.
     <figcaption><h4>Japan Racing JR28</h4></figcaption>
 </figure>
 
-## Japan Racing JR26
+## Japan Racing JR36
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/japan_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/japan_4s.jpg" alt="Japan Racing JR26 22 x 10.5 ET27" title="Japan Racing JR26 22 x 10.5 ET27">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/japan_4s.jpg" alt="Japan Racing JR36 22 x 10.5 ET27" title="Japan Racing JR36 22 x 10.5 ET27">
     </a>
-    <figcaption><h4>Japan Racing JR26 22 x 10.5 ET27</h4></figcaption>
+    <figcaption><h4>Japan Racing JR36 22 x 10.5 ET27</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/japan_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/japan_5s.jpg" alt="Japan Racing JR26 22 x 10.5 ET27" title="Japan Racing JR26 22 x 10.5 ET27">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/japan_5s.jpg" alt="Japan Racing JR36 22 x 10.5 ET27" title="Japan Racing JR36 22 x 10.5 ET27">
     </a>
-    <figcaption><h4>Japan Racing JR26 22 x 10.5 ET27</h4></figcaption>
+    <figcaption><h4>Japan Racing JR36 22 x 10.5 ET27</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/japan_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/japan_6s.jpg" alt="Japan Racing JR26 22 x 10.5 ET27" title="Japan Racing JR26 22 x 10.5 ET27">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/japan_6s.jpg" alt="Japan Racing JR36 22 x 10.5 ET27" title="Japan Racing JR36 22 x 10.5 ET27">
     </a>
-    <figcaption><h4>Japan Racing JR26 22 x 10.5 ET27</h4></figcaption>
+    <figcaption><h4>Japan Racing JR36 22 x 10.5 ET27</h4></figcaption>
 </figure>
 
 ## Rebel
