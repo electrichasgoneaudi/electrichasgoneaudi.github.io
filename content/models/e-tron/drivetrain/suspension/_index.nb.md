@@ -93,3 +93,11 @@ Selv du kan justere kjørehøyden, noen vil ha den enda lavere. Her er noen ekse
     </a>
     <figcaption><h4>Senket e-tron med 3 cm/h4></figcaption>
 </figure>
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering6.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering6s.jpg" alt="Lowered e-tron with 15mm front and 18mm rear from Dynasty AB" title="Lowered e-tron with 15mm front and 18mm rear from Dynasty AB">
+    </a>
+    <figcaption><h4>senket e-tron med 15mm front og 18mm bak fra Dynasty AB</h4></figcaption>
+</figure>
