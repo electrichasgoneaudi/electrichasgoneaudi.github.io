@@ -121,6 +121,22 @@ Solgt som vinterdekk i Norge av Audi Norge
     <figcaption><h4>21" ABS F22 with 295/35 tires</h4></figcaption>
 </figure>
 
+## Vertini RF1.3
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/vertini_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/vertini_1s.jpg" alt="22x10.5 Vertini RF1.3" title="22x10.5 Vertini RF1.3">
+    </a>
+    <figcaption><h4>22x10.5 Vertini RF1.3</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/vertini_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/vertini_2.jpg" alt="22x10.5 Vertini RF1.3" title="22x10.5 Vertini RF1.3">
+    </a>
+    <figcaption><h4>Dirty 22x10.5 Vertini RF1.3</h4></figcaption>
+</figure>
+
 
 ## Nitro Magnum
 
