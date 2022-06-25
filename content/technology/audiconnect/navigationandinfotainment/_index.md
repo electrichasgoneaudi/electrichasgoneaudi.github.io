@@ -11,7 +11,7 @@ Below you see description of the different parts.
 
 In the connect category myRoute, you will find all the information for your trips such as navigation, traffic warnings, and parking places at the destination. Thanks to regular online map updates, you are always up-to-date. An overview of all myRoute services can be found below.
 
-### Google Earth Navigation
+### Google Earth satellite imagery
 
 Navigation with Google Earth C makes it easier to navigate thanks to high-resolution aerial photos and satellite imagery.
 
@@ -229,3 +229,16 @@ The radio automatically and seamlessly switches between classic radio via the FM
 
 Automatic detection of a variety of music tracks played on the radio. Display of additional information such as artist, album, and cover. The content and scope of the additional information is depending on what is made available by the individual service provider.
 
+### Apple music
+
+Audi directly integrated Apple Music, a premium music streaming subscription service, into select models. Adding Apple Music into the infotainment system allows users to access their subscription directly and intuitively from the Multi-Media Interface (MMI) screen using in-car internet data. This seamless integration allows Apple Music subscribers to find their favorite music and discover even more new music.
+
+The new Apple Music integration allows customers to access their personal Apple Music account directly from the Audi infotainment system, with no Bluetooth or USB required. After linking an active subscription to the vehicle, Apple Music subscribers can access Apple Music’s full catalog of 90 million songs and tens of thousands of playlists, including hundreds of new mood and activity playlists, personalized mixes, and genre stations – all ad-free.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/applemusic.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/applemusics.jpg"
+        alt="Apple music in MMI" title="Apple music in MMI">
+    </a>
+    <figcaption><h4>Apple music in MMI</h4></figcaption>
+</figure>

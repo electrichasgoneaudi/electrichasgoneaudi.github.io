@@ -229,3 +229,16 @@ Radioen bytter automatisk og sømløst mellom klassisk radio via FM-nettet eller
 
 Automatisk deteksjon av en forskjellige musikkspor som spilles på radioen. Visning av tilleggsinformasjon som artist, album og cover. Innholdet og omfanget av tilleggsinformasjonen er avhengig av hva som gjøres tilgjengelig av den enkelte tjenesteleverandør.
 
+### Apple music
+
+Audi integrerte Apple Music, en førsteklasses abonnementstjeneste for musikkstrømming, direkte i utvalgte modeller. Ved å legge til Apple Music i infotainmentsystemet kan brukere få tilgang til abonnementet sitt direkte og intuitivt fra Multi-Media Interface (MMI)-skjermen ved å bruke Internett-data i bilen. Denne sømløse integrasjonen lar Apple Music-abonnenter finne favorittmusikken sin og oppdage enda mer ny musikk.
+
+Den nye Apple Music-integrasjonen lar kunder få tilgang til sin personlige Apple Music-konto direkte fra Audis infotainmentsystem, uten behov for Bluetooth eller USB. Etter å ha koblet et aktivt abonnement til kjøretøyet, kan Apple Music-abonnenter få tilgang til Apple Musics fulle katalog med 90 millioner sanger og titusenvis av spillelister, inkludert hundrevis av nye stemnings- og aktivitetsspillelister, personlige mikser og sjangerstasjoner – alt uten reklame.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/applemusic.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/applemusics.jpg"
+        alt="Apple music in MMI" title="Apple music in MMI">
+    </a>
+    <figcaption><h4>Apple music in MMI</h4></figcaption>
+</figure>
