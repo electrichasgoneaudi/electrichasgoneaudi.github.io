@@ -119,6 +119,14 @@ Find a charging station near you or at the destination. This allows you to plan 
 
 The detailed 3D view of buildings makes it easier to orientate.
 
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/3dcityview.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/3dcityviews.jpg"
+        alt="3D city view" title="3D city view">
+    </a>
+    <figcaption><h4>3D city view</h4></figcaption>
+</figure>
 ### Hazard information
 
 Early warning for increased road safety. With information from the so-called Audi swarm, you are notified of accidents, accidents, poor visibility and slippery roads.

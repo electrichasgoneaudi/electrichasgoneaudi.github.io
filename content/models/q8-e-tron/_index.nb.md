@@ -45,9 +45,9 @@ Dette skal gi følgende batterier (ubekreftet)
 - 79,6 kWh brutto / 74,9 kWh netto på Audi Q8 e-tron 50
 - 105,6 kWh brutto / 99 kWh netto på Audi Q8 e-tron 55 / Q8 e-tron S
 
-Dagens Audi e-tron 55/S har et forbruk mellom 19,1kWh/100km og 25,2kWh/100km avhengig av versjon og utstyrsnivå. Det forventes med ny kraftelektronikk og noe forbedret aerodynamikk at Audi vil kunne senke forbruket til 18,6 kWh/100 km - 24,7 kWh/100 km. Dette vil gi den nye Audi Q8 e-tron 55 / Audi Q8 e-tron S en WLTP rekkevidde mellom 400 km og 532 km (248 miles - 330 miles). (opp fra 343km-452km)
+Dagens Audi e-tron 55/S har et forbruk mellom 19,1kWh/100km og 25,2kWh/100km avhengig av versjon og utstyrsnivå. Det forventes med ny kraftelektronikk og noe forbedret aerodynamikk at Audi vil kunne senke forbruket til 18,6 kWh/100 km - 24,7 kWh/100 km. Dette vil gi den nye Audi Q8 e-tron 55 / Audi Q8 e-tron S en WLTP rekkevidde mellom 400 km og 532 km (248 miles - 330 miles). (opp fra 343km-452km). Dette betyr en rekkeviddeøkning på 16%.
 
-Vi vil vite alle detaljer når Audi Q8 e-tron er ferdigstilt og testet etter WLTP-standarden.
+Vi vil vite alle detaljer når Audi Q8 e-tron er ferdigstilt og testet etter WLTP-standarden. Siste ryktene er at modellen presenteres september 2022.
 
 ## Audi Q8 e-tron eksteriør
 

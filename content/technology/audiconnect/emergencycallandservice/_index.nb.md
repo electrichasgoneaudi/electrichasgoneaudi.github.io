@@ -27,3 +27,15 @@ Dersom bilens sensorer oppdager en mindre ulykke uten å utløse kollisjonsputen
     </a>
     <figcaption><h4>Nødanrop og serviceoperatør er tilgjengelig over midtkonsollen</h4></figcaption>
 </figure>
+
+## Online car care
+
+Audi Online Car Care kan varsle sjåføren når visse funksjoner kan trenge vedlikehold eller inspeksjon, inkludert bremseklosser, sjekk motorlys og kjøretøyvæsker via en tilgjengelig myAudi-app-push-varsling.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/emergencycallandservice/onlinecarcare.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/emergencycallandservice/onlinecarcares.jpg"
+        alt="Online Car Care melding" title="Online Car Care melding">
+    </a>
+    <figcaption><h4>Online Car Care melding</h4></figcaption>
+</figure>
