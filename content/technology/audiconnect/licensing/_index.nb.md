@@ -8,7 +8,7 @@ weight: 8
 
 ### Audi connect navigation & infotainment plus
 
-This license package contains the following features
+Denne lisenspakken gir tilgang til følgende funksjonalitet.
 
 - [Utvided 3D-City visning](../navigationandinfotainment/#extended-3d-city-view)
 - [Apple Music](../navigationandinfotainment/#apple-music)
@@ -24,31 +24,46 @@ This license package contains the following features
 - [Satellitt kart](../navigationandinfotainment/#google-earth-navigation)
 - [Vær](../navigationandinfotainment/#weather)
   
-Lisensen varer 3 år fra bilen er ny og kan fornyes med 1 år eller 1 mnd etter lisensen er utløpt
+Lisensen varer i 3 år fra bilen er ny og kan fornyes med 1 år eller 1 mnd etter lisensen er utløpt
 
 - 2310 NOK for 1 år
 - 231 for 1 mnd
 
 ### Audi connect remote
 
-This license package contains the following features
+Denne lisenspakken gir tilgang til følgende funksjonalitet.
 
 - [Parkeringsposisjon](../etronservices/#parking-position)
 - [Fjernstyring låse/låse opp](../etronservices/#remote-control-of-lockingunlocking)
 - [Bilalarm varsling](../etronservices/#alert-from-theft-alarm)
 - [Bilstatusrapport](../etronservices/#car-status-report)
 
-The license lasts for three years after delivery of the new car and can be renewed for one year/1 month.
+Lisensen har varierende varighet fra bilen er ny og kan fornyes med 1 år eller 1 mnd etter lisensen er utløpt. Noen biler leveres med 10 års lisens, mens andre leveres med 3 års lisens.
 
-Price varies but are approximability
+Pris ukjent.
 
+### Audi connect key
+
+Denne lisenspakken gir tilgang til følgende funksjonalitet.
+
+- [Audi connect key](../../models/e-tron/technology/lockingsystems/#audi-connect-key-2f1)
+
+Dette forutsetter at bilen er utstyrt med Audi Connect Key hardware.
+
+Lisensen varer i 3 år fra bilen er ny og kan fornyes med 1 år eller 1 mnd etter lisensen er utløpt
+
+- 913 NOK for 1 år
+- 91 NOK for 1 mnd
+  
 ### Audi connect safety & service
 
-This license package contains the following features
+Denne lisenspakken gir tilgang til følgende funksjonalitet.
 
 - Audi service request
 - [Emergency call](../emergencycallandservice/#emergency-call)
 - Online Car Care
 - [Online roadsisde assistance](../emergencycallandservice/#online-road-service)
 
-The license lasts for ten years.
+Lisensen varer i 10 år fra bilen er ny.
+
+Pris ukjent.
