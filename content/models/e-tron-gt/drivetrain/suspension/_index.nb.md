@@ -91,7 +91,7 @@ Hvis du ønsker å senke Audi e-tron GT finnes det 3. part løsninger.
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering1s.jpg"
         alt="Audi e-tron GT with Ghost Links" title="Audi e-tron GT with Ghost Links">
     </a>
-    <figcaption><h4>Audi e-tron GT with Ghost Links</h4></figcaption>
+    <figcaption><h4>Audi e-tron GT med Ghost Links - 25mm senket</h4></figcaption>
 </figure>
 
 <figure>
@@ -99,7 +99,7 @@ Hvis du ønsker å senke Audi e-tron GT finnes det 3. part løsninger.
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering2s.jpg"
         alt="Audi e-tron GT with Ghost Links" title="Audi e-tron GT with Ghost Links">
     </a>
-    <figcaption><h4>Audi e-tron GT with Ghost Links</h4></figcaption>
+    <figcaption><h4>Audi e-tron GT med Ghost Links - 25mm senket</h4></figcaption>
 </figure>
 
 <figure>
@@ -107,5 +107,5 @@ Hvis du ønsker å senke Audi e-tron GT finnes det 3. part løsninger.
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering3s.jpg"
         alt="Audi e-tron GT with Ghost Links" title="Audi e-tron GT with Ghost Links">
     </a>
-    <figcaption><h4>Audi e-tron GT with Ghost Links</h4></figcaption>
+    <figcaption><h4>Audi e-tron GT med Ghost Links - 25mm senket</h4></figcaption>
 </figure>
