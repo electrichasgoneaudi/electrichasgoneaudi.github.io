@@ -1,7 +1,7 @@
 ---
 title: Lisenser og pris
 linktitle: Lisenser og pris
-description: The different Audi Connect features have separate licenses and costs for renewal.
+description: Audi connect funksjonaliteten er knyttet opp til forskjellige lisenspakker med forskjellig varighet og pris.
 weight: 8
 ---
 <!-- markdownlint-disable MD033 -->
