@@ -10,19 +10,19 @@ weight: 8
 
 This license package contains the following features
 
-- [Advanced 3D city view](../navigationandinfotainment/#extended-3d-city-view)
+- [Utvided 3D-City visning](../navigationandinfotainment/#extended-3d-city-view)
 - [Apple Music](../navigationandinfotainment/#apple-music)
 - [Dynamic Online POI Information](../navigationandinfotainment/#expanded-special-object-view-poi)
 - [Hazard alerts](../navigationandinfotainment/#hazard-information)
-- [myAudi navigation](../myaudi/)
+- [myAudi navigasjon](../myaudi/)
 - [Online Google special destination search](../navigationandinfotainment/#search-for-special-goals-pois-with-voice-control)
 - [Online news](../navigationandinfotainment/#n|ews-online-individually)
 - [Online speech recogniton](../navigationandinfotainment/#search-for-special-goals-pois-with-voice-control)
-- [Online traffic information](../navigationandinfotainment/#traffic-information-online)
-- [Predictive route guidance](../navigationandinfotainment/#predictive-routing)
+- [Trafikkinformasjon online](../navigationandinfotainment/#traffic-information-online)
+- [Prediktiv vivvisning](../navigationandinfotainment/#predictive-routing)
 - [Roadside parking spaces](../navigationandinfotainment/#information-about-parking-spaces)
-- [Satellite map](../navigationandinfotainment/#google-earth-navigation)
-- [Weather](../navigationandinfotainment/#weather)
+- [Satellitt kart](../navigationandinfotainment/#google-earth-navigation)
+- [Vær](../navigationandinfotainment/#weather)
   
 The license lasts for three years after delivery of the new car and can be renewed for one year/1 month.
 
