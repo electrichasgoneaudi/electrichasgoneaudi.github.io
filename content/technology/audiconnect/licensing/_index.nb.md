@@ -53,7 +53,7 @@ Dette forutsetter at bilen er utstyrt med Audi Connect Key hardware.
 Lisensen varer i 3 år fra bilen er ny og kan fornyes med 1 år eller 1 mnd etter lisensen er utløpt
 
 - 913 NOK for 1 år
-- 91 NOK for 1 mnd
+- 92 NOK for 1 mnd
   
 ### Audi connect safety & service
 
