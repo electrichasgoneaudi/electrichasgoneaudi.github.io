@@ -12,33 +12,31 @@ This license package contains the following features
 
 - [Utvided 3D-City visning](../navigationandinfotainment/#extended-3d-city-view)
 - [Apple Music](../navigationandinfotainment/#apple-music)
-- [Dynamic Online POI Information](../navigationandinfotainment/#expanded-special-object-view-poi)
-- [Hazard alerts](../navigationandinfotainment/#hazard-information)
+- [Dynamic Online POI informasjon](../navigationandinfotainment/#expanded-special-object-view-poi)
+- [Informasjon om farer](../navigationandinfotainment/#hazard-information)
 - [myAudi navigasjon](../myaudi/)
-- [Online Google special destination search](../navigationandinfotainment/#search-for-special-goals-pois-with-voice-control)
-- [Online news](../navigationandinfotainment/#n|ews-online-individually)
+- [Google søk etter spesialmål](../navigationandinfotainment/#search-for-special-goals-pois-with-voice-control)
+- [Nyheter online](../navigationandinfotainment/#n|ews-online-individually)
 - [Online speech recogniton](../navigationandinfotainment/#search-for-special-goals-pois-with-voice-control)
 - [Trafikkinformasjon online](../navigationandinfotainment/#traffic-information-online)
 - [Prediktiv vivvisning](../navigationandinfotainment/#predictive-routing)
-- [Roadside parking spaces](../navigationandinfotainment/#information-about-parking-spaces)
+- [Informasjon om parkering](../navigationandinfotainment/#information-about-parking-spaces)
 - [Satellitt kart](../navigationandinfotainment/#google-earth-navigation)
 - [Vær](../navigationandinfotainment/#weather)
   
-The license lasts for three years after delivery of the new car and can be renewed for one year/1 month.
+Lisensen varer 3 år fra bilen er ny og kan fornyes med 1 år eller 1 mnd etter lisensen er utløpt
 
-Price varies but are approximability
-
-- UK: approx £120 /year
-- Norway: 2300 NOK / year
+- 2310 NOK for 1 år
+- 231 for 1 mnd
 
 ### Audi connect remote
 
 This license package contains the following features
 
-- [Car finder](../etronservices/#parking-position)
-- [Remote locking/unlocking](../etronservices/#remote-control-of-lockingunlocking)
-- [Theft alarm notification](../etronservices/#alert-from-theft-alarm)
-- [Vehicle status report](../etronservices/#car-status-report)
+- [Parkeringsposisjon](../etronservices/#parking-position)
+- [Fjernstyring låse/låse opp](../etronservices/#remote-control-of-lockingunlocking)
+- [Bilalarm varsling](../etronservices/#alert-from-theft-alarm)
+- [Bilstatusrapport](../etronservices/#car-status-report)
 
 The license lasts for three years after delivery of the new car and can be renewed for one year/1 month.
 
