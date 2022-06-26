@@ -81,3 +81,30 @@ This animation shows the function of the Three-chamber air suspension and the al
 
 {{< youtube -RyH8_OgyHs >}}
 
+## Lowering
+
+If you want the Audi e-tron GT lower there are 3. party options
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering1s.jpg"
+        alt="Audi e-tron GT with Ghost Links" title="Audi e-tron GT with Ghost Links">
+    </a>
+    <figcaption><h4>Audi e-tron GT with Ghost Links</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering2s.jpg"
+        alt="Audi e-tron GT with Ghost Links" title="Audi e-tron GT with Ghost Links">
+    </a>
+    <figcaption><h4>Audi e-tron GT with Ghost Links</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering3s.jpg"
+        alt="Audi e-tron GT with Ghost Links" title="Audi e-tron GT with Ghost Links">
+    </a>
+    <figcaption><h4>Audi e-tron GT with Ghost Links</h4></figcaption>
+</figure>

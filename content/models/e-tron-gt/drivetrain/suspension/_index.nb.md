@@ -80,3 +80,32 @@ Den kontrollerte bakakseldifferensialsperren, som er integrert i ECP-kontrollope
 Denne animasjonen viser funksjonen til trekammerluftfjæringen og firehjulsstyringen i chassiset til Audi RS e-tron GT.
 
 {{< youtube -RyH8_OgyHs >}}
+
+
+## Senking
+
+Hvis du ønsker å senke Audi e-tron GT finnes det 3. part løsninger.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering1s.jpg"
+        alt="Audi e-tron GT with Ghost Links" title="Audi e-tron GT with Ghost Links">
+    </a>
+    <figcaption><h4>Audi e-tron GT with Ghost Links</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering2s.jpg"
+        alt="Audi e-tron GT with Ghost Links" title="Audi e-tron GT with Ghost Links">
+    </a>
+    <figcaption><h4>Audi e-tron GT with Ghost Links</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering3s.jpg"
+        alt="Audi e-tron GT with Ghost Links" title="Audi e-tron GT with Ghost Links">
+    </a>
+    <figcaption><h4>Audi e-tron GT with Ghost Links</h4></figcaption>
+</figure>
