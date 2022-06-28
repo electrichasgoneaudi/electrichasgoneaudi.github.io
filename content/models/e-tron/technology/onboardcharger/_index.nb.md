@@ -65,6 +65,15 @@ Bare AC-lading går gjennom laderen. For DC-lading er CCS-porten direkte koblet 
     <figcaption><h4>Ladeport/laderkabling</h4></figcaption>
 </figure>
 
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/charger.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargersd.jpg"
+        alt="Ombordladeren" title="Ombordladeren">
+    </a>
+    <figcaption><h4>Ombordladeren</h4></figcaption>
+</figure>
+
 ### Kapasitet basert på nettverk/uttak
 
 | Tilkobling | Plugg | kapasitet | lader 100 % e-tron 55 |
