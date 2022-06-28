@@ -68,7 +68,7 @@ Bare AC-lading går gjennom laderen. For DC-lading er CCS-porten direkte koblet 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/charger.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargersd.jpg"
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargers.jpg"
         alt="Ombordladeren" title="Ombordladeren">
     </a>
     <figcaption><h4>Ombordladeren</h4></figcaption>

@@ -64,7 +64,7 @@ Only AC charging goes throug the charger. For DC charging the CCS port is direct
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/charger.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargersd.jpg"
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargers.jpg"
         alt="The onboard charger" title="The onboard charger">
     </a>
     <figcaption><h4>The onboard charger</h4></figcaption>
