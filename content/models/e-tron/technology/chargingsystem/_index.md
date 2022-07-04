@@ -122,8 +122,8 @@ For home use you should install a hardwired charging solution. There exist many 
 They run on 230/240 or 400 volt depending on network in your home.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/audiwallbox.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/audiwallboxs.jpg"
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/wallbox.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/wallbokxs.jpg"
         alt="Install a hard wired level 2 charging system" title="Install a hard wired level 2 charging system">
     </a>
     <figcaption><h4>Install a hard wired level 2 charging system</h4></figcaption>
