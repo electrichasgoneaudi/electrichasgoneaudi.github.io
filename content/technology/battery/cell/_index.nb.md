@@ -136,6 +136,8 @@ Den første Audi-modellen vil bruke den i 2025 på den nye [SSP-plattformen](../
     <figcaption><h4>Olaf Scholz med den første enhetlige cellen</h4></figcaption>
 </figur>
 
+Størrelsen på cellene er ca 32 x 12 x 3 cm
+
 Cellene vil bli produsert på [nye Salzgiga](https://www.volkswagen-newsroom.com/en/press-releases/ground-breaking-in-salzgitter-volkswagen-enters-global-battery-business-with-powerco-8050) fabrikk i [Salzgitter Tyskland](https://www.google.com/maps/@52.1896961,10.442521,878m/)
 
 Grunnsteinen for fabrikken ble lagt ned 7. juli 2022.

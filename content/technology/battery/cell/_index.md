@@ -134,6 +134,8 @@ Volkswagen has decided to standardize on a prismatic cell with standard size and
     <figcaption><h4>Olaf Scholz with the first unified  cell</h4></figcaption>
 </figure>
 
+The unified cell dimensions are approximately 32 x 12 x 3 cm.
+
 The cells will be produced on the [new Salzgiga](https://www.volkswagen-newsroom.com/en/press-releases/ground-breaking-in-salzgitter-volkswagen-enters-global-battery-business-with-powerco-8050) factory in [Salzgitter Germany](https://www.google.com/maps/@52.1896961,10.442521,878m/)
 
 The ground breaking cermony for this factory was july 7. 2022.
