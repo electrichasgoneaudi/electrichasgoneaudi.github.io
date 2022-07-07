@@ -120,3 +120,30 @@ for mer informasjon om cellene.
 | [Audi Q4 e-tron](../../../models/q4-e-tron/drivetrain/battery/#battery-cells) | LG Chem LGX E78 | Pouch | 78AH | 265 Wh/kg | NCM 712 |
 | [Audi e-tron GT](../../../models/e-tron-gt/drivetrain/battery/#cell-technology) | LG Chem E66A | Pouch | 64.6AH | 263 Wh/kg | NCM 712 |
 
+## Volkswagen Unified Cell
+
+Volkswagen har bestemt seg for å standardisere på en prismatisk celle med standard størrelse og innpakning.
+
+Den enhetlige cellen kan lages med forskjellige kjemier. Standardiseringen vil redusere cellekostnaden med 50 %. 80 % av VW-modellene vil bruke enhetlige celler.
+
+Den første Audi-modellen vil bruke den i 2025 på den nye [SSP-plattformen](../../bev-platforms/ssp/).
+
+<figur>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/unifiedcell1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/unifiedcell1s.jpg"
+        alt="Olaf Scholz med den første enhetlige cellen" title="Olaf Scholz med den første enhetlige cellen">
+    </a>
+    <figcaption><h4>Olaf Scholz med den første enhetlige cellen</h4></figcaption>
+</figur>
+
+Cellene vil bli produsert på [nye Salzgiga](https://www.volkswagen-newsroom.com/en/press-releases/ground-breaking-in-salzgitter-volkswagen-enters-global-battery-business-with-powerco-8050) fabrikk i [Salzgitter Tyskland](https://www.google.com/maps/@52.1896961,10.442521,878m/)
+
+Grunnsteinen for fabrikken ble lagt ned 7. juli 2022.
+
+<figur>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/salzgiga1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/salzgiga1s.jpg"
+        alt="Salzgiga-fabrikken" title="Salzgiga-fabrikken">
+    </a>
+    <figcaption><h4>Salzgiga-fabrikken</h4></figcaption>
+</figur>
