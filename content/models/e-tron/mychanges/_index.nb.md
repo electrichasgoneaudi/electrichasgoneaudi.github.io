@@ -85,6 +85,19 @@ Hvis byggemåneden er 122019 eller senere, bør det være en oppgradert versjon
 
 - vin nr har P som 10 siffer for 2022-modelleksempel: WAUZZZGE0**P**B001111
 
+
+I slutten av juni 2022, stoppet Audi å ta ordre en rekke steder. Dette for å tømme ordrelistene før produksjonen av facelift skulle starte. 
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/endofproduction.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/endofproductions.jpg" alt="Skjermbilde fra Audi.se som viser at de ikke tar imot ordre lenger" title="Skjermbilde fra Audi.se som viser at de ikke tar imot ordre lenger">
+    </a>
+    <figcaption><h4>Skjermbilde fra Audi.se som viser at de ikke tar imot ordre lenger</h4></figcaption>
+</figure>
+
+
+
 ### Facelift
 
 Det var forventet at 2023 modellen ville bli lansert som en facelift. Dette er blitt utsatt grunnet leveransesituasjonen i verden.

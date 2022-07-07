@@ -88,6 +88,15 @@ If build month is 122019 or later it should be a upgraded version
 - US: [Changed configuration](https://media.audiusa.com/en-us/releases/518) in prestige package.
 - No known technical changes compared to 2022.
 
+In end of June 2022, Audi stopped taking orders on the 2023 Audi e-tron. This to clear the factory backlog before starting producing the facelift version.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/endofproduction.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/endofproductions.jpg" alt="Screenshot from Audi Sweden saying they are no longer taking orders on e-tron" title="Screenshot from Audi Sweden saying they are no longer taking orders on e-tron">
+    </a>
+    <figcaption><h4>Screenshot from Audi Sweden saying they are no longer taking orders on e-tron</h4></figcaption>
+</figure>
+
 ### Facelift
 
 It was expected that a new e-tron with increased range would be launched for the 2023 model. This has been postponed. Probably because of the supply issues in the world. 
