@@ -124,7 +124,7 @@ for mer informasjon om cellene.
 
 Volkswagen har bestemt seg for å standardisere på en prismatisk celle med standard størrelse og innpakning.
 
-Den enhetlige cellen kan lages med forskjellige kjemier. Standardiseringen vil redusere cellekostnaden med 50 %. 80 % av VW-modellene vil bruke enhetlige celler.
+Standardiseringen vil redusere cellekostnaden med 50 %. 80 % av VW-modellene vil bruke enhetlige celler.
 
 Den første Audi-modellen vil bruke den i 2025 på den nye [SSP-plattformen](../../bev-platforms/ssp/).
 
@@ -136,7 +136,20 @@ Den første Audi-modellen vil bruke den i 2025 på den nye [SSP-plattformen](../
     <figcaption><h4>Olaf Scholz med den første enhetlige cellen</h4></figcaption>
 </figur>
 
+VWs unified cells bruker de samme fysiske pakkeformatene, bare med forskjellig kjemi inni, for å gjøre design av fremtidige elbiler rimeligere og krever mindre tid.
+
 Størrelsen på cellene er ca 32 x 12 x 3 cm
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/unifiedcell1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/unifiedcell1s.jpg"
+        alt="VW Unified cell" title="VW Unified cell">
+    </a>
+    <figcaption><h4>VW Unified cell</h4></figcaption>
+</figure>
+
+
+
 
 Cellene vil bli produsert på [nye Salzgiga](https://www.volkswagen-newsroom.com/en/press-releases/ground-breaking-in-salzgitter-volkswagen-enters-global-battery-business-with-powerco-8050) fabrikk i [Salzgitter Tyskland](https://www.google.com/maps/@52.1896961,10.442521,878m/)
 

@@ -122,7 +122,9 @@ for more details about the cells.
 
 ## Volkswagen Unified Cell
 
-Volkswagen has decided to standardize on a prismatic cell with standard size and packaging. The unified cell can be created with different chemistries. The standardization will reduce the cell cost by 50%. 80% of the VW models will use unified cells.
+Volkswagen has decided to standardize on a prismatic cell with standard size and packaging.
+
+The standardization will reduce the cell cost by 50%. 80% of the VW models will use unified cells.
 
  The first Audi model will be using it in 2025 on the new [SSP-platform](../../bev-platforms/ssp/).
 
@@ -134,9 +136,22 @@ Volkswagen has decided to standardize on a prismatic cell with standard size and
     <figcaption><h4>Olaf Scholz with the first unified  cell</h4></figcaption>
 </figure>
 
+VW’s unified cell technology uses the same physical pack formats, just with different chemistries inside, to make designing future EVs less expensive and requiring less time.
 The unified cell dimensions are approximately 32 x 12 x 3 cm.
 
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/unifiedcell1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/unifiedcell1s.jpg"
+        alt="VW Unified cell" title="VW Unified cell">
+    </a>
+    <figcaption><h4>VW Unified cell</h4></figcaption>
+</figure>
+
 The cells will be produced on the [new Salzgiga](https://www.volkswagen-newsroom.com/en/press-releases/ground-breaking-in-salzgitter-volkswagen-enters-global-battery-business-with-powerco-8050) factory in [Salzgitter Germany](https://www.google.com/maps/@52.1896961,10.442521,878m/)
+
+
+
+
 
 The ground breaking cermony for this factory was july 7. 2022.
 
