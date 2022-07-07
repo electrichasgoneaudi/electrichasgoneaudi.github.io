@@ -196,12 +196,32 @@ Solgt som vinterdekk i Norge av Audi Norge
     <figcaption><h4>Japan Racing JR26 22 x 10.5 ET27</h4></figcaption>
 </figure>
 
-
-## Rebel
+## GMP Rebel
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/rebel1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/rebel1s.jpg" alt="Rebel 23 inch" title="Rebel 23 inch">
     </a>
-    <figcaption><h4>Rebel 23 inch</h4></figcaption>
+    <figcaption><h4>GMP Rebel 23 inch</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/rebel2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/rebel2s.jpg" alt="Rebel 23 inch" title="Rebel 23 inch">
+    </a>
+    <figcaption><h4>10x23 ET30 GMP Rebel wheels with 285/35 tires</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/rebel3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/rebel3s.jpg" alt="Rebel 23 inch" title="Rebel 23 inch">
+    </a>
+    <figcaption><h4>10x23 ET30 GMP Rebel wheels with 285/35 tires</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/rebel4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/rebel4s.jpg" alt="Rebel 23 inch" title="Rebel 23 inch">
+    </a>
+    <figcaption><h4>10x23 ET30 GMP Rebel wheels with 285/35 tires</h4></figcaption>
 </figure>
