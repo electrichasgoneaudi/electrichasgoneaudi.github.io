@@ -225,3 +225,33 @@ Solgt som vinterdekk i Norge av Audi Norge
     </a>
     <figcaption><h4>10x23 ET30 GMP Rebel wheels with 285/35 tires</h4></figcaption>
 </figure>
+
+## Asanti Black Label ABL27
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/asanti_1.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/asanti_1s.jpg" alt="22inch Asanti Black Label ABL27 with Hankook Ventus ST - 265/40" title="22inch Asanti Black Label ABL27 with Hankook Ventus ST - 265/40">
+    </a>
+    <figcaption><h4>22inch Asanti Black Label ABL27 with Hankook Ventus ST - 265/40</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/asanti_2.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/asanti_2s.jpg" alt="22inch Asanti Black Label ABL27 with Hankook Ventus ST - 265/40" title="22inch Asanti Black Label ABL27 with Hankook Ventus ST - 265/40">
+    </a>
+    <figcaption><h4>22inch Asanti Black Label ABL27 with Hankook Ventus ST - 265/40</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/asanti_3.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/asanti_3s.jpg" alt="22inch Asanti Black Label ABL27 with Hankook Ventus ST - 265/40" title="22inch Asanti Black Label ABL27 with Hankook Ventus ST - 265/40">
+    </a>
+    <figcaption><h4>22inch Asanti Black Label ABL27 with Hankook Ventus ST - 265/40</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/asanti_4.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/aftermarket/asanti_4s.jpg" alt="22inch Asanti Black Label ABL27 with Hankook Ventus ST - 265/40" title="22inch Asanti Black Label ABL27 with Hankook Ventus ST - 265/40">
+    </a>
+    <figcaption><h4>22inch Asanti Black Label ABL27 with Hankook Ventus ST - 265/40</h4></figcaption>
+</figure>
