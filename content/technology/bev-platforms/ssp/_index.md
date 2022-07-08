@@ -34,8 +34,8 @@ From 2025, Audi’s Artemis project will use significant SSP modules for the fir
 
 The first models from Audi on this platform is expected to by
 
-- Audi A8 e-tron (2025) (Artemis project)
-- Audi Q8 e-tron (2026) (Apollon project)
+- Audi Q8 e-tron in 2025 as 2026 model (Artemis project)
+- Audi A8 e-tron in 2026 as 2027 model (Apollon project)
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/ssp2.png">

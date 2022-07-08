@@ -33,8 +33,8 @@ Fra 2025 vil Audis Artemis-prosjekt bruke betydelige SSP-moduler for første gan
 
 De første modellene fra Audi på denne plattformen forventes å komme
 
-- Audi A8 e-tron (2025) (Artemis-prosjekt)
-- Audi Q8 e-tron (2026) (Apollon-prosjektet)
+- Audi Q8 e-tron (2025) (Artemis-prosjekt)
+- Audi A8 e-tron (2026) (Apollon-prosjektet)
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/ssp2.png">
@@ -67,7 +67,7 @@ Med SSP kan bilmodellene konfigureres i forskjellige oppsett for å støtte mode
 
 Som PPE og J1 vil SSP-plattformen bruke 800 volt teknologi.
 
-En av de viktigste endringene til batteriet på SSP sammenlignet med andre plattformer er den nye enhetlige batteriteknologien. VWs enhetlige celleteknologi bruker de samme fysiske pakkeformatene, bare med forskjellig kjemi inni, for å gjøre design av fremtidige elbiler rimeligere og krever mindre tid.
+En av de viktigste endringene til batteriet på SSP sammenlignet med andre plattformer er den nye enhetlige batteriteknologien. VWs unified cells bruker de samme fysiske pakkeformatene, bare med forskjellig kjemi inni, for å gjøre design av fremtidige elbiler rimeligere og krever mindre tid.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/unifiedcell1.jpg">
