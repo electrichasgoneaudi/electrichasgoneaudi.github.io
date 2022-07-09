@@ -92,6 +92,6 @@ See this video for detailed info about the software platforms.
 
 ## SSP Presentation
 
-[See Audi Chairman Markus Duesmann talk about SSP](https://comsatmedia.s3.eu-west-1.amazonaws.com/vw/vwnewsroom/2021-07-13_strategy_day/vw_210713_strategyday_speech_duesmann_en.mp4)
+[See Audi Chairman Markus Duesmann talk about SSP](https://comsatmedia.s3.eu-west-1.amazonaws.com/vw/vwnewsroom/2021-07-13_strategy_day/vw_210713_strategyday_speech_duesmann_en.mp4) from July 13. 2021
 
 {{% children description="true" depth="1" %}}
