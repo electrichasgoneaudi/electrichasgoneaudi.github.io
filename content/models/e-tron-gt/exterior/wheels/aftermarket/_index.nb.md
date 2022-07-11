@@ -32,6 +32,20 @@ Vossen HF4T in Sating Black 10x22 5/130 (Flat) front and 12 x 22 5/130 (deep) in
     <figcaption><h4>Vossen HF4T in satin Black 10x22 5/130 (Flat) front and 12 x 22 5/130 (deep) in rear</h4></figcaption>
 </figure>
 
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf4t_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf4t_4s.jpg" alt="Vossen HF4T on a Tactical Green RS e-tron GT" title="Vossen HF4T on a Tactical Green RS e-tron GT">
+    </a>
+    <figcaption><h4>Vossen HF4T on a Tactical Green RS e-tron GT</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf4t_5.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf4t_5s.jpg" alt="Vossen HF4T on a Tactical Green RS e-tron GT" title="Vossen HF4T on a Tactical Green RS e-tron GT">
+    </a>
+    <figcaption><h4>Vossen HF4T on a Tactical Green RS e-tron GT</h4></figcaption>
+</figure>
+
 {{< youtube ef3EFA5qWSc >}}
 
 {{< youtube DTUm9F3l1xE >}}
