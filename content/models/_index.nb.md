@@ -71,6 +71,6 @@ Audi A4 e-tron får verdenspremiere i 2024
 
 ## Modellsammenligninger
 
-![bilde](models.jpg "Audi helelektriske modeller")
+![bilde](https://media.electrichasgoneaudi.net/multimedia/models/modelss.jpg "Audi helelektriske modeller")
 
 [Her finner du sammenligninger mellom de forskjellige modellene](comparisons/)
