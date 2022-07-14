@@ -63,14 +63,14 @@ Selv du kan justere kjørehøyden, noen vil ha den enda lavere. Her er noen ekse
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering1s.jpg" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
     </a>
-    <figcaption><h4>Senket e-tron med 3 cm/h4></figcaption>
+    <figcaption><h4>Senket e-tron med 3 cm</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering2s.jpg" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
     </a>
-    <figcaption><h4>Senket e-tron med 3 cm/h4></figcaption>
+    <figcaption><h4>Senket e-tron med 3 cm</h4></figcaption>
 </figure>
 
 <figure>
@@ -84,14 +84,14 @@ Selv du kan justere kjørehøyden, noen vil ha den enda lavere. Her er noen ekse
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering4.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering4s.jpg" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
     </a>
-    <figcaption><h4>Senket e-tron med 3 cm/h4></figcaption>
+    <figcaption><h4>Senket e-tron med 3 cm</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering5.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering5s.jpg" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
     </a>
-    <figcaption><h4>Senket e-tron med 3 cm/h4></figcaption>
+    <figcaption><h4>Senket e-tron med 3 cm</h4></figcaption>
 </figure>
 
 
