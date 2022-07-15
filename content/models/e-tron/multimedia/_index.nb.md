@@ -34,17 +34,9 @@ weight: 20
 
 {{< youtube wOVStiMDq-Y >}}
 
-### A new era of electric mobility: the first fully electric Audi e-tron
-
-{{< youtube sxv5I6CKcwk >}}
-
 ### The Audi e-tron technology demonstrator drives up the Streif | Highlights and a closer look
 
 {{< youtube 8XvpCOZbPOM >}}
-
-### Making of Audi e-tron on the Streif | A look behind the scenesok
-
-{{< youtube sNCKWXtCvUY >}}
 
 ### Audi e-tron: optimizing your driving range
 
