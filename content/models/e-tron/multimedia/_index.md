@@ -45,3 +45,9 @@ weight: 20
 ### Audi e-tron: optimizing your driving range
 
 {{< youtube oSd-a4m9hno >}}
+
+### Emily The Audi Nerd: The Best Looking, Most Luxurious EV on the Market!: 2022 Audi e-tron quattro Chronos Edition
+
+Detailed walkthroug performed by Emily The Audi Nerd
+
+{{< youtube U1rguttyZRs >}}
