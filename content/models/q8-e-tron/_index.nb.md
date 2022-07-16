@@ -37,18 +37,23 @@ Det forventes at Audi Q8 e-tron vil være tilgjengelig i forskjellige varianter 
 
 Audi Q8 e-tron er bygget på samme MLB-Evo-plattform som Audi e-tron med støtte for opptil 3 kraftige motorer og et nytt større batteri. Adaptiv luftfjæring og progressiv styring er standard.
 
-Det forventes at batteriet vil være tilgjengelig i to størrelser. Forutsetningen er at Audi Q8 e-tron vil beholde samme nominelle spenning (396 volt) som Audi e-tron og derfor samme antall celler, men hver celle vil være litt større
+Det forventes at batteriet vil være tilgjengelig i to størrelser.
+
+Q8 e-tron 55 vil ha samme batteri som e-tron 55, men vil ha en redusert buffer og med forbedret effektivitet vil den få en WLTP rekkevidde på opptil 500 km. (opp fra 452 km)
+Dette basert på 89 kWh tilgjengelig batteri og et WLTP-forbruk på 17,8 kWh/100 km.
+
+Forutsetningen er at Audi Q8 e-tron 65 vil beholde samme nominelle spenning (396 volt) som Audi e-tron og derfor samme antall celler, men hver celle vil være litt større
 flytte fra 60AH til 67AH. Samtidig forventes bufferen redusert til 6 %, det samme som Q4 e-tron og forventet på Q6 e-tron.
 
 Dette skal gi følgende batterier (ubekreftet)
 
-- 79,6 kWh brutto / 74,9 kWh netto på Audi Q8 e-tron 50
-- 105,6 kWh brutto / 99 kWh netto på Audi Q8 e-tron 55 / Q8 e-tron S
+- 105,6 kWh brutto / 99 kWh netto på Audi Q8 e-tron 65
 
-Dagens Audi e-tron 55/S har et forbruk mellom 19,1kWh/100km og 25,2kWh/100km avhengig av versjon og utstyrsnivå. Det forventes med ny kraftelektronikk og noe forbedret aerodynamikk at Audi vil kunne senke forbruket til 18,6 kWh/100 km - 24,7 kWh/100 km. Dette vil gi den nye Audi Q8 e-tron 55 / Audi Q8 e-tron S en WLTP rekkevidde mellom 400 km og 532 km (248 miles - 330 miles). (opp fra 343km-452km). Dette betyr en rekkeviddeøkning på 16%.
+Dette vil gi den nye Audi Q8 e-tron 65 en WLTP rekkevidde mellom 400 km og 450 km (248 miles - 280 miles). (opp fra 343 km-374 km på Audi e-tron S) (213 - 232 miles).
 
-Vi vil vite alle detaljer når Audi Q8 e-tron er ferdigstilt og testet etter WLTP-standarden. Siste ryktene er at modellen presenteres september 2022.
+Det betyr en økning på 16 %.
 
+Vi vil vite mer når Audi Q8 e-tron er ferdigstilt og testet etter WLTP-standarder. Det siste ryktet er at det forventes å bli presentert i september 2022.
 ## Audi Q8 e-tron eksteriør
 
 Det vil være et stort antall eksteriøralternativer til Audi Q8 e-tron. Mer enn 50 lakkfarger, to karoseriformer, felger fra 19" - 22", lakkutførelser, forskjellige optikk, speiltyper og mange flere alternativer gjør det mulig å lage ditt unike design.
