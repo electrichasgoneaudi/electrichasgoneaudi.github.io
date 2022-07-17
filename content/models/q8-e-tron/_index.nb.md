@@ -26,8 +26,8 @@ Det forventes at Audi Q8 e-tron vil være tilgjengelig i forskjellige varianter 
 
 - Audi Q8 e-tron 55
 - Audi Q8 e-tron 55 Sportback
-- Audi Q8 e-tron S
-- Audi Q8 e-tron S Sportback
+- Audi Q8 e-tron 65
+- Audi Q8 e-tron 65 Sportback
 
 <br />
 
