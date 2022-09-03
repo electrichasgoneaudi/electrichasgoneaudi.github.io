@@ -24,6 +24,8 @@ Hold deg oppdatert med å melde deg inn i vår [Audi Q8 e-tron owners Norway fac
 
 Det forventes at Audi Q8 e-tron vil være tilgjengelig i forskjellige varianter med forskjellige karosseridesign, motorer og batterier.
 
+- Audi Q8 e-tron 50
+- Audi Q8 e-tron 50 Sportback
 - Audi Q8 e-tron 55
 - Audi Q8 e-tron 55 Sportback
 - Audi Q8 e-tron 65
@@ -33,25 +35,34 @@ Det forventes at Audi Q8 e-tron vil være tilgjengelig i forskjellige varianter 
 
 ## Audi Q8 e-tron drivlinje: batteri og motorer
 
-Audi Q8 e-tron er bygget på samme MLB-Evo-plattform som Audi e-tron med støtte for opptil 3 kraftige motorer og et nytt større batteri. Adaptiv luftfjæring og progressiv styring er standard.
+Audi Q8 e-tron er bygget på samme MLB-Evo-plattform som Audi e-tron, med støtte for opptil 3 kraftige motorer og nye større batterier. Som på Audi e-tron er adaptiv luftfjæring og progressiv styring standard.
 
-Det forventes at batteriet vil være tilgjengelig i to størrelser.
+### Batterier
 
-Q8 e-tron 55 vil ha samme batteri som e-tron 55, men vil ha en redusert buffer og med forbedret effektivitet vil den få en WLTP rekkevidde på opptil 500 km. (opp fra 452 km)
-Dette basert på 89 kWh tilgjengelig batteri og et WLTP-forbruk på 17,8 kWh/100 km.
+Som på Audi e-tron vil batteriet være tilgjengelig i to størrelser.
+Q8 e-tron 50 forventes å ha samme batteristørrelse som Audi e-tron 55
 
-Forutsetningen er at Audi Q8 e-tron 65 vil beholde samme nominelle spenning (396 volt) som Audi e-tron og derfor samme antall celler, men hver celle vil være litt større
-flytte fra 60AH til 67AH. Samtidig forventes bufferen redusert til 6 %, det samme som Q4 e-tron og forventet på Q6 e-tron.
+- 95kWh brutto / 86,6 kWh netto
 
-Dette skal gi følgende batterier (ubekreftet)
+Forutsetningen er at Audi Q8 e-tron 55/ Audi Q8 e-tron S vil beholde samme nominelle spenning (396 volt) som Audi e-tron og derfor samme antall celler, men hver celle vil være litt større, går fra 60AH til 72AH.
+Disse cellene skal gi følgende batteri (ubekreftet)
 
-- 105,6 kWh brutto / 99 kWh netto på Audi Q8 e-tron 65
+- 115 kWh brutto / 105 kWh netto
 
-Dette vil gi den nye Audi Q8 e-tron 65 en WLTP rekkevidde mellom 400 km og 450 km (248 miles - 280 miles). (opp fra 343 km-374 km på Audi e-tron S) (213 - 232 miles).
+### Rekkevidde og effektivitet
 
-Det betyr en økning på 16 %.
+Forbedret aerodynamikk og oppdatert kraftelektronikk bør forbedre effektiviteten. Men ikke mye siden modellene blir tyngre på grunn av større batterier. Tabellen nedenfor antar et redusert forbruk på 0,5 kWh/100 km sammenlignet med Audi e-tron.
 
-Vi vil vite mer når Audi Q8 e-tron er ferdigstilt og testet etter WLTP-standarder. Det siste ryktet er at det forventes å bli presentert i september 2022.
+|Modell | WLTP-forbruk | WLTP-område |
+|-----|--------|--------|
+|Audi Q8 e-tron 50| 18,9 - 22,5 kWh/100 km | 390 - 460 km |
+|Audi Q8 e-tron 55 | 19,1 - 23 kWh/100km | 456 - 550 km |
+|Audi Q8 e-tron S | 22,6 - 24,7 kWh/100 km | 425 - 464 km |
+|Audi Q8 e-tron Sportback 50 | 18,3 - 22,5 kWh/100 km | 450 - 380 km |
+|Audi Q8 e-tron Sportback 55 | 18,6 - 22,7 kWh/100 km | 462 - 565 km |
+|Audi Q8 e-tron Sportback S | 22,3 - 24,4 kWh/100km | 425 - 464 km|
+
+Vi vil vite mer når Audi Q8 e-tron er ferdigstilt og testet etter WLTP-standarder. Det siste ryktet er at det forventes å bli presentert i slutten av 2022.
 ## Audi Q8 e-tron eksteriør
 
 Det vil være et stort antall eksteriøralternativer til Audi Q8 e-tron. Mer enn 50 lakkfarger, to karoseriformer, felger fra 19" - 22", lakkutførelser, forskjellige optikk, speiltyper og mange flere alternativer gjør det mulig å lage ditt unike design.
