@@ -79,6 +79,24 @@ Vorsprung Durch Technik har i mer enn 50 år vært Audis mantra og Audi Q8 e-tro
 
 Sammenlignet med Audi e-tron forventes Audi Q8 e-tron å få nye lys og en ny og oppdatert MMI med større hovedskjerm.
 
+
+Bildene under er fra Q8 e-tron prototype brukt på [E-Cannonball](https://e-cannonball.de/)
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/q8light.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/q8lights.jpg" alt="Audi Q8 e-tron with new headlights" title="Audi Q8 e-tron with new headlights">
+    </a>
+    <figcaption><h4>Audi Q8 e-tron med nye lyse</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/q8mirror.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/q8mirrors.jpg" alt="Audi Q8 e-tron virtual mirrors" title="Audi Q8 e-tron virtual mirrors">
+    </a>
+    <figcaption><h4>Audi Q8 e-tron virtuelle speil</h4></figcaption>
+</figure>
+
 ## Audi Q8 e-tron dimensjoner
 
 Dimensjonene på Audi Q8 e-tron vil være de samme som Audi e-tron.
