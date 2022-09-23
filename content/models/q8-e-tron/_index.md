@@ -1,7 +1,7 @@
 ---
 title: Audi Q8 e-tron
 linktitle: Audi Q8 e-tron
-description: The Audi Q8 e-tron will be launched in 2022, and is in reality the facelift version of the Audi e-tron.
+description: The Audi Q8 e-tron will have a world premiere in november 2022, and is in reality the facelift version of the Audi e-tron.
 weight: 5
 ---
 <!-- markdownlint-disable MD033 -->
