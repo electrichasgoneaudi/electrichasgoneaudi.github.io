@@ -9,12 +9,12 @@ weight: 5
 
 Det er forventet at de første eierne vil motta sin Q8 e-tron i Q1 2023. Modellen forventes å ha noen utvendige endringer, større batterier og noen andre kraftelektronikkforbedringer for å redusere forbruket.
 
-<figur>
-     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/q8prototype.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/q8prototypes.jpg" alt="Audi Q8 e-tron prototype" title="Audi Q8 e-tron prototype">
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_1s.jpg" alt="Audi Q8 e-tron 55 prototype" title="Audi Q8 e-tron 55 prototype">
     </a>
-    <figcaption><h4>Audi Q8 e-tron 65 prototype</h4></figcaption>
-</figur>
+    <figcaption><h4>Audi Q8 e-tron 55 s-line prototype</h4></figcaption>
+</figure>
 
 Audi Q8 e-tron har et bredt utvalg alternativer og avanserte kjøreteknologier. Her på electrichasgoneaudi.net finner du alle detaljer om e-tron. Alt fra de forskjellige hjulene å velge mellom til hvordan de forskjellige kjøreassistentsystemene fungerer.
 
@@ -110,3 +110,40 @@ Videoen under viser testing av 2023 Audi Q8 e-tron 65 prototype.
 {{< youtube uDzsA8CKdFY >}}
 
 {{% children description="true" depth="1" %}}
+
+## Bilder
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_2s.jpg" alt="Audi Q8 e-tron 55 prototype" title="Audi Q8 e-tron 55 prototype">
+    </a>
+    <figcaption><h4>Audi Q8 e-tron 55 s-line prototype</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_3s.jpg" alt="Audi Q8 e-tron 55 prototype" title="Audi Q8 e-tron 55 prototype">
+    </a>
+    <figcaption><h4>Audi Q8 e-tron 55 s-line prototype</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_4s.jpg" alt="Audi Q8 e-tron 55 prototype" title="Audi Q8 e-tron 55 prototype">
+    </a>
+    <figcaption><h4>Audi Q8 e-tron 55 s-line prototype</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_5.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_5s.jpg" alt="Audi Q8 e-tron 55 prototype" title="Audi Q8 e-tron 55 prototype">
+    </a>
+    <figcaption><h4>Audi Q8 e-tron 55 s-line prototype</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_6.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_6s.jpg" alt="Audi Q8 e-tron 55 prototype" title="Audi Q8 e-tron 55 prototype">
+    </a>
+    <figcaption><h4>Audi Q8 e-tron 55 s-line prototype</h4></figcaption>
+</figure>
