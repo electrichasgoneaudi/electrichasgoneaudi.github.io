@@ -31,8 +31,8 @@ weight: 20
 
 ### Out of Spec Reviews: I Drive The 500hp Tri-Motor Audi E-Tron S For The First Time!
 
-{{ < youtube hlu-UxCKKFo >}}
+{{< youtube hlu-UxCKKFo >}}
 
 ### InsideEVs US: Audi E-Tron 70mph Highway Range Test
 
-{{ < youtube tV0jlKX3wJs >}}
+{{< youtube tV0jlKX3wJs >}}
