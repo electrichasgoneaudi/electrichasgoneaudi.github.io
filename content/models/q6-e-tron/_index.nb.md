@@ -5,11 +5,11 @@ description: Audi Q6 e-tron vil kunne leveres med forskjellige motor, batteri, t
 weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
-Audi Q6 e-tron får verdenspremiere i 2022 og blir den fjerde helelektriske modellen fra Audi og den mest sporty SUVen.
+Audi Q6 e-tron får verdenspremiere i 2023 og blir den fjerde helelektriske modellen fra Audi og den mest sporty SUVen.
 
 Den er bygget på den nye [PPE-plattformen](../../technology/bev-platforms/ppe/) laget sammen med Porsche.
 
-De første kundene kan forvente å motta Audi Q6 e-tron i Q1/Q2 2023.
+De første kundene kan forvente å motta Audi Q6 e-tron i Q1/Q2 2024 som 2025 modell.
 
 Modellen vil komme i forskjellige versjoner med ulik batterikapasitet og plasserer seg størrelsesmessig mellom [Audi Q4 e-tron](../../models//q4-e-tron/) og [Audi e-tron](../../models/e-tron/).
 
