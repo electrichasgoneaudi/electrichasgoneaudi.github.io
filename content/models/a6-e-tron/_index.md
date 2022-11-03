@@ -17,7 +17,7 @@ March 17. 2022 Audi also presented the Audi A6 Avant e-tron concept of this mode
     <figcaption><h4>Audi A6 e-tron and Audi A6 Avant e-tron concept</h4></figcaption>
 </figure>
 
-The expectation is that the first owners will receive it in early 2024.
+The expectation is that the first owners will receive it in late 2024.
 
 This article with subsections presents all known info about this model and will be continued updated when we know more. 
 Join our [international Audi A6 e-tron owners group](https://www.facebook.com/groups/5590477234297637) on Facebook to be updated with all the latest info and discuss the car with others.
