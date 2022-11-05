@@ -6,7 +6,7 @@ weight: 5
 ---
 <!-- markdownlint-disable MD033 -->
 
-Come back 00:01 November 09.11 for all details. Details below is only based on early rumors. 
+**Come back 00:01 November 9. 2022 for all details. Details below is only based on early rumors. 
 
 It is expected that the first owners will receive their Q8 e-tron in Q1 2023. The model is expected to have some exterior changes, bigger batteries, and some other power electronics improvements to reduce consumption.
 
