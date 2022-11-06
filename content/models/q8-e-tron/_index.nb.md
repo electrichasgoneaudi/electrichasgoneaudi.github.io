@@ -1,11 +1,12 @@
 ---
 title: Audi Q8 e-tron
 linktitle: Audi Q8 e-tron
-description: Audi Q8 e-tron lanseres november 2022, og er i realiteten facelift av Audi e-tron.
+description: Audi Q8 e-tron lanseres 9. november 2022, og er i realiteten facelift av Audi e-tron.
 weight: 5
 ---
 <!-- markdownlint-disable MD033 -->
 
+**Informasjonen på denne siden er basert på tidlige rykter om modellen. Kl 00:01 9. november vil all offisiell informasjon om modellen legges ut her.
 
 Det er forventet at de første eierne vil motta sin Q8 e-tron i Q1 2023. Modellen forventes å ha noen utvendige endringer, større batterier og noen andre kraftelektronikkforbedringer for å redusere forbruket.
 
