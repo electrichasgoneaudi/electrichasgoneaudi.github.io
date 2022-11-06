@@ -1,6 +1,6 @@
 ---
 title: Audi e-tron facelift - the new 2024 Audi Q8 e-tron
-linktitle: Audi e-tron facelift
+linktitle: Audi Q8 e-tron premiere
 description: The Audi Q8 e-tron is the facelift of the very popular Audi e-tron. With six improved variants, up to 44% longer range, and 9% improved efficiency together with design changes, this is a noticeable upgrade. electrichasgoneaudi.net have all the details. 
 weight: 99994
 ---
@@ -56,7 +56,7 @@ As a prestigious electric SUV model from Audi, the Q8 e-tron ushers in the new c
     <figcaption><h4>Model lettering with an Audi logo on the B-pillar</h4></figcaption>
 </figure>
 
-For all Q8 variants, you can order the model with or without the S-line exterior package. This package contains a sportier front and diffuser.
+For all Q8 variants, you can order the model with or without the [S-line exterior package](../../models/q8-e-tron/exterior/s-line/). This package contains a sportier front and diffuser.
 
 New wheels are available in all sizes for all variants, and many of the Audi e-tron wheels are also available on the Audi Q8 e-tron. See [Audi Q8 wheels](../../models/q8-e-tron/exterior/wheels/) for a complete overview.
 
@@ -66,6 +66,14 @@ New wheels are available in all sizes for all variants, and many of the Audi e-t
     </a>
     <figcaption><h4>Audi Q8 55 Sportback e-tron with new 20-inch wheels</h4></figcaption>
 </figure>
+
+As on the Audi e-tron, an extensive palette of standard colors is available. In addition, you can choose from around 50 Audi-exclusive colors.
+
+There are some new colors available in the standard palette.
+
+See [paint colors](../../models/q8-e-tron/exterior/paint/) for an overview and more pictures.
+
+The option for [painted calibers](../../models/q8-e-tron/exterior/paintedcalibers/) is now in red. This color was orange on the Audi e-tron.
 
 ## Space and comfort
 
@@ -142,22 +150,22 @@ details. Below is the charging curve for Audi Q8 50 e-tron (same as the Audi e-t
 
 ![Charging curve](chargingcurve114.svg)
 
-How does this affect the traveling speed? To answer this, we calculate how long the old and new models need to travel 1000km, starting with a full battery, driving at 120km/h, and only stopping for optimal charging stops. The calculation assumes optimaøl driving conditions with dry roads and temperatures around 20 degrees Celcius.
+How does this affect the traveling speed? To answer this, we calculate how long the old and new models need to travel 1000km, starting with a full battery, driving at 120km/h, and only stopping for optimal charging stops. The calculation assumes optimal driving conditions with dry roads and temperatures around 20 degrees Celcius.
 
-|Variant | Consumption 120km/h | Chargestops | Total time |
-|-------|-------------|-------|------|
-|[Audi e-tron 50](../../models/e-tron/variants/#audi-e-tron-50)                             | 27kWh/100km | 2 x (3%-81%) |10h:0m|
-|[Audi Q8 50 e-tron](../../models/q8-e-tron/variants/#audi-q8-50-e-tron)                    | 27kWh/100km | 2 x (3%-81%) |10h:0m|
-|[Audi e-tron 50 Sportback](../../models/e-tron/variants/#audi-e-tron-50-sportback)         | 27kWh/100km | 2 x (3%-81%) |10h:0m|
-|[Audi Q8 50 Sportback e-tron](../../models/q8-e-tron/variants/#audi-q8-50-sportback-e-tron)| 27kWh/100km | 2 x (3%-81%) |10h:0m|
-|[Audi e-tron 55](../../models/e-tron/variants/#audi-e-tron-55)                             | 27kWh/100km | 2 x (3%-81%) |10h:0m|
-|[Audi Q8 55 e-tron](../../models/q8-e-tron/variants/#audi-q8-55-e-tron)                    | 27kWh/100km | 2 x (3%-81%) |10h:0m|
-|[Audi e-tron 55 Sportback](../../models/e-tron/variants/#audi-e-tron-55)                   | 27kWh/100km | 2 x (3%-81%) |10h:0m|
-|[Audi Q8 55 Sportback e-tron](../../models/q8-e-tron/variants/#audi-q8-55-sportback-e-tron)| 27kWh/100km | 2 x (3%-81%) |10h:0m|
-|[Audi e-tron S](../../models/e-tron/variants/#audi-e-tron-60s)                             | 27kWh/100km | 2 x (3%-81%) |10h:0m|
-|[Audi SQ8 e-tron](../../models/q8-e-tron/variants/#audi-sq8-e-tron)                        | 27kWh/100km | 2 x (3%-81%) |10h:0m|
-|[Audi e-tron S Sportback](../../models/e-tron/variants/#audi-e-tron-60s)                   | 27kWh/100km | 2 x (3%-81%) |10h:0m|
-|[Audi SQ8 e-tron Sportback](../../models/q8-e-tron/variants/#audi-sq8-sportback-e-tron)    | 27kWh/100km | 2 x (3%-81%) |10h:0m|
+|Variant | Consumption 120km/h | Chargestops | Total time | Saved |
+|-------|-------------|-------|------|-----|
+|[Audi e-tron 50](../../models/e-tron/variants/#audi-e-tron-50)                             | 26.5kWh/100km      | 5 x (5%-68%)    |10h:32m |       |
+|[Audi Q8 50 e-tron](../../models/q8-e-tron/variants/#audi-q8-50-e-tron)                    | 26 kWh/100km       | 3 x (15%-80%)   |9h:49m  | -43m  |
+|[Audi e-tron 50 Sportback](../../models/e-tron/variants/#audi-e-tron-50-sportback)         | 25 kWh/100km       | 4 x (3%-76%)    |10h:22m |       |
+|[Audi Q8 50 Sportback e-tron](../../models/q8-e-tron/variants/#audi-q8-50-sportback-e-tron)| 24.5 kWh/100km     | 2 x (5%-80%)    |9h:33m  | -49m  |
+|[Audi e-tron 55](../../models/e-tron/variants/#audi-e-tron-55)                             | 27.5 kWh/100km     | 3 x (6%-80%)    |9h:57m  |       |
+|[Audi Q8 55 e-tron](../../models/q8-e-tron/variants/#audi-q8-55-e-tron)                    | 26 kWh/100km       | 2 x (1%-74%)    |9h:36m  | -21m  |
+|[Audi e-tron 55 Sportback](../../models/e-tron/variants/#audi-e-tron-55)                   | 26 kWh/100km       | 3 x (12%-80%)   |9h:50m  |       |
+|[Audi Q8 55 Sportback e-tron](../../models/q8-e-tron/variants/#audi-q8-55-sportback-e-tron)| 24.5 kWh/100km     | 2 x (3%-81%)    |9h:32m  | -18m  |
+|[Audi e-tron S](../../models/e-tron/variants/#audi-e-tron-60s)                             | 29 kWh/100km       | 3 x (2%-82%)    |10h:05m |       |
+|[Audi SQ8 e-tron](../../models/q8-e-tron/variants/#audi-sq8-e-tron)                        | 28 kWh/100km       | 3 x (16%-71%)   |9h:46m  | -21m  |
+|[Audi e-tron S Sportback](../../models/e-tron/variants/#audi-e-tron-60s)                   | 28 kWh/100km       | 3 x (4%-80%)    |10h:0m  |       |
+|[Audi SQ8 e-tron Sportback](../../models/q8-e-tron/variants/#audi-sq8-sportback-e-tron)    | 26 kWh/100km       | 2 x (1%-74%)    |9h:36m  | -24m  |
 
 The Audi Q8 e-tron charges up to 11 kW at an AC charging station or wall box. Audi offers an [optional AC charger](../../models/q8-e-tron/technology/onboardcharger/#optional-22kw-charger) that supports up to 22 kW AC charging.
 
@@ -195,7 +203,7 @@ The new Audi Q8 e-tron comes standard with adaptive air-suspension controlled sh
 
 Audi adjusted the air suspension to optimize the lateral dynamics of the vehicle. Moreover, its electronic stability control (ESC) will allow for even more maneuverability in the future – especially in tight corners. The Audi Q8 e-tron handles these with noticeably more agility thanks to its revised progressive steering.
 
-The gear ratio of the steering system was changed so that the steering responds much more quickly, even when making delicate steering movements. The effect of the direct steering ratio is supported by more rigid suspension bearings on the front axle. Steering movements are thus transmitted to the wheels more directly, and feedback from steering reactions is also improved. All the chassis control systems were adjusted, but they remain balanced and perfectly attuned – true to the [Audi DNA](../audidna/).
+The gear ratio of the steering system was changed so that the steering responds much more quickly, even when making delicate steering movements. In addition, more rigid suspension bearings on the front axle support the effect of the direct steering ratio. Steering movements are thus transmitted to the wheels more directly, and feedback from steering reactions is also improved. In addition, Audi adjusted all chassis control systems, but they remain balanced and perfectly attuned – true to the [Audi DNA](../audidna/).
 
 ## Further improved aerodynamics
 
@@ -239,9 +247,9 @@ The Q8 e-tron optionally comes with [digital Matrix LED headlights](../../models
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/digitalmatix.gif">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/digitalmatix_st.gif" alt="Audi Q8 e-tron MMI and Virtual cockpit" title="Audi Q8 e-tron MMI and Virtual cockpit">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/digitalmatix_st.gif" alt="Digital Matrix" title="Digital Matrix">
     </a>
-    <figcaption><h4>Audi Q8 e-tron MMI and Virtual cockpit</h4></figcaption>
+    <figcaption><h4>Digital Matrix</h4></figcaption>
 </figure>
 
 ## Luxury-class interior
@@ -279,11 +287,11 @@ The Audi Q8 e-tron will come standard with [MMI Navigation plus](../../models/q8
 
 ## Materials from recycling processes
 
-The Audi Q8 e-tron will be certified as net-carbon-neutral1 for customers in Europe and the USA. Audi also uses recycled materials for some components in the Audi Q8 e-tron. These materials, treated through a recycling process, reduce the resources used and ensure a closed, efficient, and sustainable material loop. In the interior of the Audi Q8 e-tron, Audi uses recycled materials for insulation and damping, as well as for carpeting. In addition, the decorative inlay above the display, called the Tech Layer, is available with a new anthracite-colored technical material partially composed of recycled PET bottles. With the S line equipment package, the sport seats are upholstered in synthetic leather, and the microfiber material Dinamica. Dinamica is made from up to 45 percent polyester fibers manufactured from recycled PET bottles, used textiles, and fiber residue.
+The Audi Q8 e-tron will be certified as net-carbon-neutral1 for customers in Europe and the USA. Audi also uses recycled materials for some components in the Audi Q8 e-tron. These materials, treated through a recycling process, reduce the resources used and ensure a closed, efficient, and sustainable material loop. In the interior of the Audi Q8 e-tron, Audi uses recycled materials for insulation and damping, as well as for carpeting. In addition, the decorative inlay above the display, called the Tech Layer, is available with a new anthracite-colored technical material partially composed of recycled PET bottles. With the S line equipment package, the upholstery for the sports seats is synthetic leather, and the microfiber material Dinamica. Audi makes Dinamica from up to 45 percent polyester fibers manufactured from recycled PET bottles, used textiles, and fiber residue.
 
 In contrast to previous microfiber quality, the production of Dinamica is also solvent-free – another contribution to environmental protection.
 
-Furthermore, some safety-related components that partially comprise mixed automotive plastic waste treated through a chemical recycling process are used for the first time – specifically, the plastic covers for the seatbelt buckles. As part of the PlasticLoop project, Audi worked with the plastics manufacturer LyondellBasell to establish a process in which chemical recycling will be used for the first time to reuse the mixed automotive plastic waste in the series production of the Audi Q8 e-tron. In this process, jointly implemented with LyondellBasell, plastic components from customer vehicles that can no longer be repaired are dismantled and separated from foreign materials, such as metal clips, before being shredded and processed into pyrolysis oil through chemical recycling. This pyrolysis oil is then used as a raw material to produce new plastics in a mass-balance approach2.
+Furthermore, some safety-related components that partially comprise mixed automotive plastic waste treated through a chemical recycling process are used for the first time – specifically, the plastic covers for the seatbelt buckles. As part of the PlasticLoop project, Audi worked with the plastics manufacturer LyondellBasell to establish a process in which chemical recycling will be used for the first time to reuse the mixed automotive plastic waste in the series production of the Audi Q8 e-tron. In this process, jointly implemented with LyondellBasell, plastic components from customer vehicles are dismantled and separated from foreign materials, such as metal clips, before being shredded and processed into pyrolysis oil through chemical recycling. This pyrolysis oil is then used as a raw material to produce new plastics in a mass-balance approach.
 
 ## Market launch in spring 2023
 
