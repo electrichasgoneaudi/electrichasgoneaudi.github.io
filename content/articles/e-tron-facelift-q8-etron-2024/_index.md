@@ -21,13 +21,13 @@ Since then, the model has been setting standards in the electric luxury-class SU
 
 Since introducing the Audi e-tron around four years ago and selling 150,000 units, Audi has been following a systematic electric roadmap. As a result, its electric portfolio now comprises [eight models](../../models/).
 
-By 2026, it will have more than 20. At that point, Audi will only be releasing fully electric models on the global market. “With our corporate strategy [‘Vorsprung 2030’](../vorsprung2030/), we’ve set a fixed date for our withdrawal from combustion engines and clearly decided that Audi will be a fully electric brand within 11 years,” said [Markus Duesmann](https://www.audi.com/en/company/profile/company-management/markus-duesmann.html), Chairman of the Board of Management of AUDI AG. “The new Audi Q8 e-tron, with its improved efficiency and range and refined design, is another important component in our electric portfolio to get people excited about electromobility with emotional models that are suitable for everyday use.” 
+By 2026, it will have more than 20. At that point, Audi will only be releasing fully electric models on the global market. “With our corporate strategy [‘Vorsprung 2030’](../vorsprung2030/), we’ve set a fixed date for our withdrawal from combustion engines and decided that Audi will be a fully electric brand within 11 years,” said [Markus Duesmann](https://www.audi.com/en/company/profile/company-management/markus-duesmann.html), Chairman of the Board of Management of AUDI AG. “The new Audi Q8 e-tron, with its improved efficiency and range and refined design, is another important component in our electric portfolio to get people excited about electromobility with emotional models suitable for everyday use.”
 
-Audi Board Member for Technical Development [Oliver Hoffmann](https://www.linkedin.com/in/oliver-hoffmann-audi/) also focused on the customer benefits enhanced by these refinements. “In the new Q8 e-tron, we were able to significantly increase both battery capacity and charging performance. This allowed us to achieve an optimal balance between energy density and charging capacity, as well as to increase efficiency,” Hoffmann said. “On top of that, we improved the motors, progressive steering, and chassis control systems – and thus the dynamic driving characteristics that are typical of Audi in all versions of the Q8 e-tron.”
+Audi Board Member for Technical Development [Oliver Hoffmann](https://www.linkedin.com/in/oliver-hoffmann-audi/) also focused on the customer benefits enhanced by these refinements. “In the new Q8 e-tron, we significantly increased  battery capacity and charging performance. These changes allowed us to achieve an optimal balance between energy density and charging capacity and increase efficiency,” Hoffmann said. “On top of that, we improved the motors, progressive steering, and chassis control systems – and thus the dynamic driving characteristics typical of Audi in all versions of the Q8 e-tron.”
 
 ## New face, new name, new corporate identity
 
-By calling this model the Q8, Audi is making a clear statement that the Audi Q8 e-tron is the top model among its electric SUVs and crossovers, sitting above [Audi Q4 e-tron](../../models/q4-e-tron) and the upcomming [Audi Q6 e-tron](../../models/q6-e-tron/). 
+By calling this model the Q8, Audi clearly states that the Audi Q8 e-tron is the top model among its electric SUVs and crossovers, sitting above the [Audi Q4 e-tron](../../models/q4-e-tron) and the upcoming [Audi Q6 e-tron](../../models/q6-e-tron/). 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/audi_sq8_article_newface.jpg">
@@ -38,7 +38,7 @@ By calling this model the Q8, Audi is making a clear statement that the Audi Q8 
 
 The Audi Q8 e-tron and Q8 Sportback e-tron are immediately identifiable as fully electric models at first glance. This is thanks to the new front and rear designs that systematically carry Audi’s electric design language forward.
 
-As Audi e-tron you can order the Audi Q8 e-tron with black optics or standard optics. But the difference is that now the single-frame-grill is not included in the black optics package. (Just like optics on Audi e-tron GT). The single frame grill can be ordered in grey, body color or black. In addition you can order Audi Q8 e-tron with a horisontal light strip on top of the single frame grill
+As for the Audi e-tron, you can order the Audi Q8 e-tron with [black optics or standard optics](../../models/q8-e-tron/exterior/optics/).But the difference is that a black single-frame grill is not part of the black optics package.  (Just like [optics on Audi e-tron GT](../../models/e-tron-gt/exterior/optics/)). The single frame grill can be ordered in grey, body color or black. In addition, you can specify Audi Q8 e-tron with a horizontal  light strip on top of the single-frame grill
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/light_demo_sq8.gif">

@@ -1,6 +1,6 @@
 ---
-title: Audi e-tron optics
-linktitle: Optics
+title: Audi Q8 e-tron optics and single-frame-grill
+linktitle: Optics & Grill
 description: Audi e-tron can be deliverd with standard or black optics package. The black optics package contains gloss black front, rails and window rims. 
 weight: 2
 ---
