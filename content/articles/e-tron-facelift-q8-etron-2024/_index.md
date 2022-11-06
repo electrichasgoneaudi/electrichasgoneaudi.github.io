@@ -181,9 +181,9 @@ Instead of 12 coils generating the electromagnetic field, there are now 14. As a
 </figure>
 
 With the e-tron range’s S model, Audi used a three-motor concept for the first time in large-scale production.
-Audi refined this setup for the new SQ8 e-tron. A 124-kW electric motor is at work on the front axle. 
+Audi refined this setup for the new SQ8 e-tron. A 124-kW electric motor is at work on the front axle.
 
-There are two electric motors on the rear axle, each with 98 kW of output, separately powering a rear wheel. This setup allows for a boost performance of up to 370 kW.
+Two electric motors on the rear axle, each with 98 kW of output, separately power a rear wheel. This setup allows for a boost performance of up to 370 kW. 
 
 The motor electronics can distribute the drive torque across both rear electric motors between both wheels within a split second.
 
@@ -193,54 +193,104 @@ The motor electronics can distribute the drive torque across both rear electric 
 
 The new Audi Q8 e-tron comes standard with adaptive air-suspension controlled shock absorption. The height of the car body can be varied by a total of 76 millimeters, depending on the driving situation.
 
-To optimize the lateral dynamics of the vehicle, its air-spring tuning was adjusted. Moreover, its electronic stability control (ESC) will allow for even more maneuverability in the future – especially in tight corners. The Audi Q8 e-tron handles these with noticeably more agility thanks to its revised progressive steering.
+Audi adjusted the air suspension to optimize the lateral dynamics of the vehicle. Moreover, its electronic stability control (ESC) will allow for even more maneuverability in the future – especially in tight corners. The Audi Q8 e-tron handles these with noticeably more agility thanks to its revised progressive steering.
 
-The gear ratio of the steering system was changed so that the steering responds much more quickly, even when making delicate steering movements. The effect of the direct steering ratio is supported by more rigid suspension bearings on the front axle. Steering movements are thus transmitted to the wheels more directly, and feedback from steering reactions is improved as well. All the chassis control systems were adjusted, but they remain balanced and perfectly attuned – true to the [Audi DNA](../audidna/).
+The gear ratio of the steering system was changed so that the steering responds much more quickly, even when making delicate steering movements. The effect of the direct steering ratio is supported by more rigid suspension bearings on the front axle. Steering movements are thus transmitted to the wheels more directly, and feedback from steering reactions is also improved. All the chassis control systems were adjusted, but they remain balanced and perfectly attuned – true to the [Audi DNA](../audidna/).
 
 ## Further improved aerodynamics
 
-With the Audi Q8 e-tron, the topic of aerodynamics was a top priority. Audi reduced the drag coefficient from 0.26 to 0.24 cw for the Q8 Sportback e-tron and from 0.28 to 0.27 cw for the Q8 e-tron.
+With the Audi Q8 e-tron, the topic of aerodynamics was a top priority. By doing this, Audi could reduce the drag coefficient. For example, from 0.26 to 0.24 cw for the Q8 Sportback e-tron and from 0.28 to 0.27 cw for the Q8 e-tron.
 
- The wheel spoilers mounted on the underbody help divert airflow around the wheels. The spoilers on the front axle were enlarged, and the Audi Q8 Sportback e-tron now has spoilers on the rear wheels as well.
+For the Q8 Sportback, this means a reduction in consumption driving at 120km/h at 1.2kWh/100km, and for the Q8 e-tron, 0.6kWh/100km.
 
-With the SQ8 Sportback e-tron, spoilers are only mounted on the rear axle. In the area around the grille, this is the first time an Audi model has had a selfsealing system in addition to the electric shutters that automatically close the radiator. This system further optimizes the airflow at the front of the car and prevents undesired losses.
+The wheel spoilers mounted on the underbody help divert airflow around the wheels. Audi enlarged the spoilers on the front axle, and the Audi Q8 Sportback e-tron now has spoilers on the rear wheels.
+
+Audi only mounted spoilers on the rear axle on the SQ8 Sportback e-tron.
+
+The grille has a self-sealing system and electric shutters that automatically close the radiator. This system further optimizes the airflow at the front of the car and prevents undesired energy losses. The shutters only stay open when needed.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/grille_holes.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/grille_holes_st.jpeg" alt="Audi Q8 e-tron grille with shutters" title="Audi Q8 e-tron grille with shutters">
+    </a>
+    <figcaption><h4>Audi Q8 e-tron grille with shutters</h4></figcaption>
+</figure>
 
 ## Convenient parking with remote park assist plus
 
-There are around [40 driver assistance systems](../../models/q8-e-tron/technology/drivingassistance/) available in the Audi Q8 e-tron. Up to five radar sensors, five cameras and 12 ultrasonic sensors provide environmental information that’s then analyzed by the central driver assistance control unit. Something new is remote park assist plus, which will be available to order starting in 2023. With its help, the Audi Q8 e-tron can maneuver into even the tightest parking spaces.
+There are around [40 driver assistance systems](../../models/q8-e-tron/technology/drivingassistance/) available in the Audi Q8 e-tron. Up to five radar sensors, five cameras, and 12 ultrasonic sensors provide environmental information analyzed by the central driver assistance control unit.
 
-Customers can control the parking procedure through the myAudi app on their smartphones. When the car reaches its final position in the parking space, it automatically switches off, puts on the parking brake, and locks the doors. To leave the parking space, the motor is powered on through the myAudi app, then the vehicle maneuvers out enough for comfortable entry.
+Something new is remote park assist plus, which will be available to order starting in 2023. With its help, the Audi Q8 e-tron can maneuver into even the tightest parking spaces.
+
+Customers can control the parking procedure through the myAudi app on their smartphones. When the car reaches its final position in the parking space, it automatically switches off, puts on the parking brake, and locks the doors. 
+
+When leaving the parking space, the motor is powered on through the myAudi app, then the vehicle maneuvers out enough for comfortable entry.
+
 
 Night Vision is not available on the Q8 e-tron. The new Audi rings make it difficult to fit. So some Audi e-tron owners will miss night vision on the new model.
 
 ## Digital Matrix LED headlights
 
-The Q8 e-tron optionally comes with [digital Matrix LED headlights](../../models/q8-e-tron/technology/lights/#digital-matrix-led-headlights). While driving on the highway, the orientation light marks the car’s position in the lane and helps the driver remain securely in the center in narrow spaces. Three other new features are available as well: enhanced traffic information, the lane light with a direction indicator and the orientation light on country roads.
+The Q8 e-tron optionally comes with [digital Matrix LED headlights](../../models/q8-e-tron/technology/lights/#digital-matrix-led-headlights). While driving on the highway, the orientation light marks the car’s position in the lane and helps the driver remain securely in the center in narrow spaces. Three other new features are also available:
+
+- Enhanced traffic information
+- The lane light with a direction indicator
+- The orientation light on country roads
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/digitalmatix.gif">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/digitalmatix_st.gif" alt="Audi Q8 e-tron MMI and Virtual cockpit" title="Audi Q8 e-tron MMI and Virtual cockpit">
+    </a>
+    <figcaption><h4>Audi Q8 e-tron MMI and Virtual cockpit</h4></figcaption>
+</figure>
 
 ## Luxury-class interior
 
-The glass panorama roof makes the interior appear lighter and reinforces the sense of airiness and expansiveness. The glass elements open and close electronically. The blackout sunshades are controlled just as conveniently. When it’s open, the two-part glass roof improves the climate in the interior thanks to efficient ventilation. An integrated wind deflector reduces wind noise as well. As an alternative to the standard two-zone automatic climate control, Audi is also offering four-zone automatic climate control and an air quality package. The three-stage ventilation provides for comfortable seating, even at high outdoor temperatures. This is available for the standard seats, whose leather is intricately perforated. The highly adjustable individual contour seats are the highlight among the interior options. In addition to pneumatic seat and backrest adjustments, they can also be ordered with a massage function. All furnishings come with optional decorative inlays of porous wood veneers such as grainy ash and sycamore, aluminum or, for the S line and edition S line versions, a carbon fiber structure. New additions include light brown walnut wood and a sustainable technical material made partially from recycled PET bottles.
+The [glass panorama roof](../../models/q8-e-tron/exterior/panoramicroof/) makes the interior appear lighter and reinforces the sense of airiness and expansiveness. The glass elements open and close electronically. You can also block sunlight with the built-in sunshade.
+When the panoramic roof is open, the two-part glass roof improves the climate in the interior thanks to efficient ventilation. An integrated wind deflector reduces wind noise as well.
+
+
+Audi also offers [four-zone automatic climate control](../../models/q8-e-tron/technology/climatecontrol/#4-zone-electronic-climate-control) as an alternative to the [standard two-zone automatic climate control](../../models/q8-e-tron/technology/climatecontrol/) and an [air quality package](../../models/q8-e-tron/technology/airquality/).
+
+The [three-stage ventilation](../../models/q8-e-tron/interior/seats/#ventilated-seats) provides comfortable seating, even at high outdoor temperatures. Ventilation is available for the [standard](../../models/q8-e-tron/interior/seats/#standard-seats) and individual contour seats with perforated leather.
+
+The highly adjustable [individual contour](../../models/q8-e-tron/interior/seats/#individual-contour-seats) seats are the highlight among the [interior options](../../models/q8-e-tron/interior/). In addition to pneumatic seat and backrest adjustments, you can order individual contour seats with a [massage function](../../models/q8-e-tron/interior/seats/#massage).
+
+All furnishings have [optional decorative inlays](../../models/q8-e-tron/interior/inlays/) of porous wood veneers such as grainy ash and sycamore, aluminum, or a carbon fiber structure for the S line and edition S line versions. New additions include light brown walnut wood and sustainable technical material made partially from recycled PET bottles.
 
 ## High-resolution touch displays and voice control
 
-Like all luxury-class Audi models, the Q8 e-tron uses the MMI touch response operating system. 
-Its two large high-resolution displays – the top one with a 10.1-inch diagonal and the bottom one with an 8.6-inch diagonal – replace nearly all conventional switches and knobs. Beyond operation with the two touch displays, a lot of features can be activated through natural voice control. The digital display and operating concept in the Audi Q8 e-tron is rounded out by the standard Audi virtual cockpit with full HD resolution. Specific graphics depict all the important aspects of electric driving, from charging performance to range. On request, a heads-up display can be added. On the German market, the Audi Q8 e-tron* will come standard with MMI Navigation plus. Its media center supports the high-speed data transmission standard LTE Advanced, and it has an integrated WiFi hotspot for the passengers’ mobile devices. The navigation system intelligently recommends destinations based on previously traveled routes. On top of that, the Audi connect Navigation and Infotainment package includes car-to-X services.
+Like all luxury-class Audi models, the Q8 e-tron uses the MMI touch response operating system.
+
+Its two large high-resolution displays – the top with a 10.1-inch diagonal and the bottom with an 8.6-inch diagonal – replace nearly all conventional switches and knobs.  Beyond operation with the two-touch displays, you can activate many features through natural voice control.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/screens_mmi.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/screens_mmi.jpg" alt="Audi Q8 e-tron MMI and Virtual cockpit" title="Audi Q8 e-tron MMI and Virtual cockpit">
+    </a>
+    <figcaption><h4>Audi Q8 e-tron MMI and Virtual cockpit</h4></figcaption>
+</figure>
+
+The digital display and operating concept in the Audi Q8 e-tron include the standard [Audi virtual cockpit](../../models/q8-e-tron/technology/uiandoperations/virtualcockpit/) with full HD resolution. In the virtual cockpit, graphics depict all the important aspects of electric driving, from charging performance to range.
+
+In addition, you can also add a head-up display.
+
+The Audi Q8 e-tron will come standard with [MMI Navigation plus](../../models/q8-e-tron/technology/uiandoperations/navigation/). In addition, its media center supports the high-speed data transmission standard LTE Advanced, and it has an integrated WiFi hotspot for the passengers’ mobile devices. Moreover, the navigation system intelligently recommends destinations based on previously traveled routes. On top of that, the Audi connect Navigation and Infotainment package includes car-to-X services.
 
 ## Materials from recycling processes
 
-The Audi Q8 e-tron will be certified as net-carbon-neutral1 for customers in Europe and the USA. Audi also uses recycled materials for some components in the Audi Q8 e-tron*. These materials, treated through a recycling process, reduce the amount of resources used and ensure a closed, efficient and sustainable material loop. In the interior of the Audi Q8 e-tron*, Audi uses recycled materials for insulation and damping, as well as for carpeting. The decorative inlay above the display, called the Tech Layer, is available with a new anthracite-colored technical material that’s partially composed of recycled PET bottles. With the S line equipment package, the sport seats are upholstered in synthetic leather and the microfiber material Dinamica. Dinamica is made from up to 45 percent polyester fibers that are manufactured from recycled PET bottles, used textiles and fiber residue.
+The Audi Q8 e-tron will be certified as net-carbon-neutral1 for customers in Europe and the USA. Audi also uses recycled materials for some components in the Audi Q8 e-tron. These materials, treated through a recycling process, reduce the resources used and ensure a closed, efficient, and sustainable material loop. In the interior of the Audi Q8 e-tron, Audi uses recycled materials for insulation and damping, as well as for carpeting. In addition, the decorative inlay above the display, called the Tech Layer, is available with a new anthracite-colored technical material partially composed of recycled PET bottles. With the S line equipment package, the sport seats are upholstered in synthetic leather, and the microfiber material Dinamica. Dinamica is made from up to 45 percent polyester fibers manufactured from recycled PET bottles, used textiles, and fiber residue.
 
-In contrast to previous microfiber quality, the production of Dinamica is also solvent-free –
-another contribution to environmental protection.
+In contrast to previous microfiber quality, the production of Dinamica is also solvent-free – another contribution to environmental protection.
 
-Furthermore, some safety-related components that partially comprise mixed automotive plastic waste treated through a chemical recycling process are used for the first time – specifically, the plastic covers for the seatbelt buckles. As part of the PlasticLoop project, Audi worked with the plastics manufacturer LyondellBasell to establish a process in which chemical recycling will be used for the first time to reuse mixed automotive plastic waste in the series production of the Audi Q8 e-tron*. In this process, jointly implemented with LyondellBasell, plastic components from customer vehicles that can no longer be repaired are dismantled and separated from foreign materials such as metal clips before being shredded and processed into pyrolysis oil through chemical recycling. This pyrolysis oil is then used as a raw material in the production of new plastics in a mass-balance approach2.
+Furthermore, some safety-related components that partially comprise mixed automotive plastic waste treated through a chemical recycling process are used for the first time – specifically, the plastic covers for the seatbelt buckles. As part of the PlasticLoop project, Audi worked with the plastics manufacturer LyondellBasell to establish a process in which chemical recycling will be used for the first time to reuse the mixed automotive plastic waste in the series production of the Audi Q8 e-tron. In this process, jointly implemented with LyondellBasell, plastic components from customer vehicles that can no longer be repaired are dismantled and separated from foreign materials, such as metal clips, before being shredded and processed into pyrolysis oil through chemical recycling. This pyrolysis oil is then used as a raw material to produce new plastics in a mass-balance approach2.
 
 ## Market launch in spring 2023
 
-The market launch of the new Audi Q8 e-tron and Audi Q8 Sportback e-tron, which will be available to order starting in mid-November, is planned to happen at the end of February 2023 in Germany and the most important European markets. In the USA, the model is expected to come to the market at the end of April. The base price for the Audi Q8 e-tron* in Germany will be 74,400 euros
-
-
+The market launch of the new Audi Q8 e-tron and Audi Q8 Sportback e-tron, which will be available to order starting in mid-November, is planned to happen at the end of February 2023 in Germany and the most important European markets. Audi expects that to come to the USA market at the end of April. The base price for the Audi Q8 e-tron in Germany will be 74,400 euros.
 
 ## Videos
+
+Below you will find some videoes of the new models. In addition, you will find more in the [multimedia section](../../models/q8-e-tron/multimedia) for the Audi Q8 e-tron.
 
 {{< youtube YSAK8VM5aVE >}}
