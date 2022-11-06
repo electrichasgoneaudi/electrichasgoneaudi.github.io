@@ -167,11 +167,11 @@ Hvordan påvirker dette reisehastigheten? For å svare på dette, beregner vi hv
 |[Audi e-tron S Sportback](../../models/e-tron/variants/#audi-e-tron-60s)                   | 28 kWh/100km       | 3 x (4%-80%)    |10h:0m  |       |
 |[Audi SQ8 e-tron Sportback](../../models/q8-e-tron/variants/#audi-sq8-sportback-e-tron)    | 26 kWh/100km       | 2 x (1%-74%)    |9h:36m  | -24m  |
 
-Som tabellen viser, er 95 kWh-batteriet fortsatt konkurransedyktig mot det nye batteriet og slår til og med det større batteriet på grunn av en flatere kurve for denne avstanden.
+Som tabellen viser, er 95 kWh-batteriet fortsatt konkurransedyktig mot det nye batteriet og slår til og med det større batteriet på grunn av en flatere kurve på denne distansen.
 
 Audi Q8 e-tron lader opptil 11 kW på en AC-ladestasjon eller veggboks. Audi tilbyr en [valgfri AC-lader](../../models/q8-e-tron/technology/onboardcharger/#optional-22kw-lader) som støtter opptil 22 kW AC-lading.
 
-Under ideelle forhold, ved bruk av vekselstrøm, kan Audi Q8 50 e-tron lade 0-100 % på rundt ni timer og 15 minutter (22kW: ca. fire timer og 45 minutter). Imidlertid er tallene til det store batteriet omtrent 11 timer og 30 minutter ved 11 kW og seks timer ved 22 kW. Finn ut mer i [onboard-charger-seksjonen](../../models/q8-e-tron/technology/onboardcharger/#capacity-based-on-network--outlet).
+Under ideelle forhold, ved bruk av vekselstrøm, kan Audi Q8 50 e-tron lade 0-100 % på rundt ni timer og 15 minutter (22kW: ca. fire timer og 45 minutter). Imidlertid er tallene til det store batteriet omtrent 11 timer og 30 minutter ved 11 kW og seks timer ved 22 kW. Finn ut mer i [ombordlader seksjonen](../../models/q8-e-tron/technology/onboardcharger/#capacity-based-on-network--outlet).
 
 Audi Q8 e-tron leveres som standard med Plug & Charge-funksjonen. Ved kompatible ladestasjoner autoriserer kjøretøyet seg selv når ladekabelen settes inn og aktiverer ladepunktet. Fakturering skjer automatisk.
 
@@ -181,7 +181,7 @@ Den nye ladetjenesten Audi Charging, som skal lanseres i 2023 og vil erstatte de
 
 For den nye Audi Q8 e-tron modifiserte Audi den asynkrone motoren på bakakselen.
 
-I stedet for 12 spoler som genererer det elektromagnetiske feltet, er det nå 14. Som et resultat genererer motoren et sterkere magnetfelt med tilsvarende strøminngang, noe som gir mer dreiemoment. Som et resultat krever den elektriske motoren mindre energi for å generere dreiemoment hvis dette ikke er nødvendig. Denne endringen reduserer forbruket og øker rekkevidden.
+I stedet for 12 viklinger som genererer det elektromagnetiske feltet, er det nå 14. Som et resultat genererer motoren et sterkere magnetfelt med tilsvarende strømforbruk, noe som gir mer dreiemoment. Som et resultat krever den elektriske motoren mindre energi for å generere samme dreiemoment hvis dette ikke er nødvendig. Denne endringen reduserer forbruket og øker rekkevidden.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/new_motor_windings.jpg">
@@ -195,7 +195,7 @@ Audi foredlet dette oppsettet for den nye SQ8 e-tron. En 124 kW elektrisk motor 
 
 To elektriske motorer på bakakselen, hver med 98 kW effekt, driver separat et bakhjul. Dette oppsettet gir mulighet for en boost ytelse på opptil 370 kW.
 
-Motorelektronikken kan fordele drivmomentet over begge de bakre elektriske motorene mellom begge hjulene i løpet av et sekund.
+Motorelektronikken kan fordele drivmomentet over begge de bakre elektriske motorene mellom begge hjulene i løpet av millisekunder.
 
 [Les mer i motordelen for Q8 e-tron](../../models/q8-e-tron/drivetrain/motor/)
 
@@ -213,7 +213,7 @@ Med Audi Q8 e-tron var temaet aerodynamikk en topp prioritet. Ved å gjøre dett
 
 For Q8 Sportback betyr dette en reduksjon i forbruket ved 120 km/t ved 1,2 kWh/100 km, og for Q8 e-tron 0,6 kWh/100 km.
 
-Hjulspoilerne montert på undervognen hjelper til med å lede luftstrømmen rundt hjulene. Audi forstørret spoilere på forakselen, og Audi Q8 Sportback e-tron har nå spoilere på bakhjulene.
+Hjulspoilerne montert på understellet hjelper til med å lede luftstrømmen rundt hjulene. Audi forstørret spoilere på forakselen, og Audi Q8 Sportback e-tron har nå spoilere på bakhjulene.
 
 Audi monterte kun spoilere på bakakselen på SQ8 Sportback e-tron.
 
@@ -238,8 +238,6 @@ Når du forlater parkeringsplassen, slås motoren på gjennom myAudi-appen, dere
 
 Night Vision er ikke tilgjengelig på Q8 e-tron. De nye Audi-ringene gjør det vanskelig å montere. Så noen Audi e-tron-eiere vil savne Night Vision på den nye modellen.
 
-## Digital Matrix LED headlights
-
 ## Digital Matrix LED-frontlykter
 
 Q8 e-tron leveres valgfritt med [digital Matrix LED-frontlykter](../../models/q8-e-tron/technology/lights/#digital-matrix-led-headlights). Når du kjører på motorveien, markerer orienteringslyset bilens posisjon i kjørefeltet og hjelper føreren med å holde seg trygt i midten på trange steder. Tre andre nye funksjoner er også tilgjengelige:
@@ -260,7 +258,6 @@ Q8 e-tron leveres valgfritt med [digital Matrix LED-frontlykter](../../models/q8
 [Glasspanoramataket](../../models/q8-e-tron/exterior/panoramicroof/) får interiøret til å virke lettere og forsterker følelsen av luftighet og ekspansivitet. Glasselementene åpnes og lukkes elektronisk. Du kan også blokkere sollys med den innebygde parasollen.
 Når panoramataket er åpent, forbedrer det todelte glasstaket klimaet i interiøret takket være effektiv ventilasjon. En integrert vindavviser reduserer også vindstøy.
 
-
 Audi tilbyr også [fire-soners automatisk klimakontroll](../../models/q8-e-tron/technology/climatecontrol/#4-zone-electronic-climate-control) som et alternativ til [standard to- sone automatisk klimakontroll](../../models/q8-e-tron/technology/climatecontrol/) og en [luftkvalitetspakke](../../models/q8-e-tron/technology/airquality/).
 
 [tre-trinns ventilasjon](../../models/q8-e-tron/interior/seats/#ventilated-seats) gir komfortable sitteplasser, selv ved høye utetemperaturer. Ventilasjon er tilgjengelig for [standard](../../models/q8-e-tron/interior/seats/#standard-seats) og individuelle konturseter med perforert skinn.
@@ -271,7 +268,7 @@ Alle møbler har [valgfrie dekorative innlegg](../../models/q8-e-tron/interior/i
 
 ## Høyoppløselige berøringsskjermer og stemmestyring
 
-Som alle Audi-modeller i luksusklassen bruker Q8 e-tron operativsystemet MMI berøringsrespons.
+Som alle Audi-modeller i luksusklassen bruker Q8 e-tron operativsystemet MMI-touch.
 
 De to store høyoppløselige skjermene – den øverste med en 10,1-tommers diagonal og den nederste med en 8,6-tommers diagonal – erstatter nesten alle konvensjonelle brytere og knotter. Utover betjening med to-touch-skjermene, kan du aktivere mange funksjoner gjennom naturlig stemmestyring.
 
@@ -284,13 +281,13 @@ De to store høyoppløselige skjermene – den øverste med en 10,1-tommers diag
 
 Det digitale displayet og betjeningskonseptet i Audi Q8 e-tron inkluderer standard [Audi virtual cockpit](../../models/q8-e-tron/technology/uiandoperations/virtualcockpit/) med full HD-oppløsning. I den virtuelle cockpiten viser grafikken alle viktige aspekter ved elektrisk kjøring, fra ladeytelse til rekkevidde.
 
-I tillegg kan du også legge til en head-up-skjerm.
+I tillegg kan du også legge til en head-up-display.
 
 Audi Q8 e-tron kommer som standard med [MMI Navigation plus](../../models/q8-e-tron/technology/uiandoperations/navigation/). I tillegg støtter mediasenteret den høyhastighets dataoverføringsstandarden LTE Advanced, og den har en integrert WiFi-hotspot for passasjerenes mobile enheter. Dessuten anbefaler navigasjonssystemet intelligent destinasjoner basert på tidligere reiste ruter. På toppen av det inkluderer Audi connect Navigasjons- og Infotainment-pakken bil-til-X-tjenester.
 
 ## Materialer fra resirkuleringsprosesser
 
-Audi Q8 e-tron vil bli sertifisert som nettokarbonnøytral1 for kunder i Europa og USA. Audi bruker også resirkulerte materialer til enkelte komponenter i Audi Q8 e-tron. Disse materialene, behandlet gjennom en resirkuleringsprosess, reduserer ressursbruken og sikrer en lukket, effektiv og bærekraftig materialkrets. I interiøret i Audi Q8 e-tron bruker Audi resirkulerte materialer til isolasjon og demping, samt til tepper. I tillegg er det dekorative innlegget over skjermen, kalt Tech Layer, tilgjengelig med et nytt antrasittfarget teknisk materiale delvis sammensatt av resirkulerte PET-flasker. Med utstyrspakken S line er trekk til sportssetene syntetisk skinn, og mikrofibermaterialet Dinamica. Audi lager Dinamica av opptil 45 prosent polyesterfibre laget av resirkulerte PET-flasker, brukte tekstiler og fiberrester.
+Audi Q8 e-tron vil bli sertifisert som nettokarbonnøytral for kunder i Europa og USA. Audi bruker også resirkulerte materialer til enkelte komponenter i Audi Q8 e-tron. Disse materialene, behandlet gjennom en resirkuleringsprosess, reduserer ressursbruken og sikrer en lukket, effektiv og bærekraftig materialkrets. I interiøret i Audi Q8 e-tron bruker Audi resirkulerte materialer til isolasjon og demping, samt til tepper. I tillegg er det dekorative innlegget over skjermen, kalt Tech Layer, tilgjengelig med et nytt antrasittfarget teknisk materiale delvis sammensatt av resirkulerte PET-flasker. Med utstyrspakken S line er trekk til sportssetene syntetisk skinn, og mikrofibermaterialet Dinamica. Audi lager Dinamica av opptil 45 prosent polyesterfibre laget av resirkulerte PET-flasker, brukte tekstiler og fiberrester.
 
 I motsetning til tidligere mikrofiberkvalitet er produksjonen av Dinamica også løsemiddelfri – nok et bidrag til miljøvern.
 
@@ -304,4 +301,15 @@ Markedslanseringen av den nye Audi Q8 e-tron og Audi Q8 Sportback e-tron, som vi
 
 Nedenfor finner du noen videoer av de nye modellene. I tillegg finner du mer i [multimediaseksjonen](../../models/q8-e-tron/multimedia) for Audi Q8 e-tron.
 
+
+### Audi Q8 e-tron and Audi SQ8 Sportback e-tron
+
 {{< youtube YSAK8VM5aVE >}}
+
+### Audi Q8 e-tron 55 s-line in Chronos grey
+
+{{< youtube fVh8KrTPEJU >}}
+
+### Audi SQ8 e-tron in ultra blue
+
+{{< youtube VQIl8BN30uM >}}
