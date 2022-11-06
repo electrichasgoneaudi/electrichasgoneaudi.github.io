@@ -167,6 +167,8 @@ How does this affect the traveling speed? To answer this, we calculate how long 
 |[Audi e-tron S Sportback](../../models/e-tron/variants/#audi-e-tron-60s)                   | 28 kWh/100km       | 3 x (4%-80%)    |10h:0m  |       |
 |[Audi SQ8 e-tron Sportback](../../models/q8-e-tron/variants/#audi-sq8-sportback-e-tron)    | 26 kWh/100km       | 2 x (1%-74%)    |9h:36m  | -24m  |
 
+As the table shows, the 95kWh battery is still comparable to the new battery and even beats the larger battery because of a flatter curve for this distance.
+
 The Audi Q8 e-tron charges up to 11 kW at an AC charging station or wall box. Audi offers an [optional AC charger](../../models/q8-e-tron/technology/onboardcharger/#optional-22kw-charger) that supports up to 22 kW AC charging.
 
 Under ideal conditions, using alternating current, the Audi Q8 50 e-tron can charge 0-100% in around nine hours and 15 minutes (22kW: about four hours and 45 minutes). However, the big battery’s numbers are about 11 hours and 30 minutes at 11 kW and six hours at 22 kW. Learn more in the [onboard-charger section](../../models/q8-e-tron/technology/onboardcharger/#capacity-based-on-network--outlet).
