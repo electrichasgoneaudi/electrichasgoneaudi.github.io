@@ -1,35 +1,14 @@
 ---
-title: Audi e-tron wheels
+title: Audi Q8 e-tron wheels
 linktitle: Wheels
-description: Audi e-tron have serveral wheels to choose from.
+description: Audi Q8 e-tron have serveral wheels to choose from.
 weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
 
-The following wheels have been available from Audi to Audi e-tron. Varies for the different markets
+The following wheels have been available from Audi to Audi Q8 e-tron. Varies for the different markets
 
-## 19" 5-arm aero design
-
-Entry level wheel. 8.5J 19" Just stay away. Part No: **40V**
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_40V_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_40V_1s.jpg" alt="19 inch 5-arm aero design" title="19 inch 5-arm aero design">
-    </a>
-    <figcaption><h4>19 inch 5-arm aero design</h4></figcaption>
-</figure>
-
-## 19" 5-arm aero design winter wheels
-
-Entry level wheel for winter. 8J x 19" Just stay away. Part No: **2WL**
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_2WL_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_2WL_1s.jpg" alt="19 inch 5-arm aero design" title="19 inch 5-arm aero design">
-    </a>
-    <figcaption><h4>19 inch 5-arm aero design</h4></figcaption>
-</figure>
-
+Currently we dont have images for all of them on Audi Q8 e-tron. We use pictures with Audi e-tron in these cases.
 
 ## 20" 5-arm design
 

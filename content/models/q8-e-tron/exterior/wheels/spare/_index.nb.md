@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron reservehjul & verktøy
+title: Audi Q8 e-tron reservehjul & verktøy
 linktitle: Reservehjul
-description: Som ekstrautstyr til e-tron kan du få oppblåsbare reservehjul.
+description: Som ekstrautstyr til Q8 e-tron kan du få oppblåsbare reservehjul.
 weight: 4
 ---
 <!-- markdownlint-disable MD033 -->

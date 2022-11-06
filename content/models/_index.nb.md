@@ -37,19 +37,19 @@ Audi Q4 e-tron og Q4 Sportback e-tron er de første kompakte elektriske SUV-ene 
 
 [![Audi Q6 e-tron](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype1.jpg)](q6-e-tron/)
 
-[Audi Q6 e-tron](q6-e-tron/) får verdenspremiere i 2022 og blir den fjerde helelektriske modellen fra Audi. Den er bygget på den nye PPE -plattformen laget sammen med Porsche. Forventes å komme i forskjellige varianter og være den mest sportslige helelektriske SUV-en fra Audi.
+[Audi Q6 e-tron](q6-e-tron/) får verdenspremiere i 2023 og blir den femte helelektriske modellen fra Audi. Den er bygget på den nye PPE -plattformen laget sammen med Porsche. Forventes å komme i forskjellige varianter og være den mest sportslige helelektriske SUV-en fra Audi.
 
 [Se alle kjente detaljer om Audi Q6 e-tron](q6-e-tron/)
 
 
 ## Audi Q8 e-tron
 
-[![Audi Q8 e-tron](tps://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/q8prototypes.jpg)](q8-e-tron)
+[![Audi Q8 e-tron](https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/sq8_and_q8_variants_st.jpg)](q8-e-tron/)
 
-Audi Q8 e-tron får verdenspremiere i 2022 og erstatter Audi e-tron. Audi Q8 e-tron er en ansiktsløftning av Audi e-tron og får nytt navn
-for å gjøre den mer logisk navngitt sammen med Q4 e-tron og Q6 e-tron. Batteriet blir litt større som vil øke rekkevidden med 15-20% sammenlignet med Audi e-tron.
 
-[Se alle kjente detaljer om Audi Q8 e-tron](q8-e-tron)
+Audi Q8 e-tron hadde [verdenspremiere](../articles/e-tron-facelift-q8-etron-2024/) 9. november 2022, og erstattet Audi e-tron. Audi Q8 e-tron er en ansiktsløftning av Audi e-tron og er omdøpt for å gjøre den mer logisk navngitt sammen med Q4 e-tron og Q6 e-tron. I tillegg, med et større batteri og økt effektivitet, ble rekkevidden forbedret med opptil 44 % sammenlignet med samme variant for Audi e-tron.
+
+[Se alle detaljer om Audi Q8 e-tron](q8-e-tron)
 
 Meld deg inn i vår norske [Audi Q8 e-tron Facebook gruppe](https://www.facebook.com/groups/301614688594314) for å holde deg oppdatert om modellen.
 

@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron electric motors & setup
+title: Audi Q8 e-tron electric motors & setup
 linktitle: Motors
-description: Audi e-tron has powerful electric motors and was the first EV to have a tri-motor configuration. Audi e-tron has 3 different motor configurations.
+description: Audi Q8 e-tron has powerful electric motors both in twin and tri-motor configuration. Audi Q8 e-tron has 3 different motor configurations.
 weight: 7
 ---
 <!-- markdownlint-disable MD033 -->
@@ -69,9 +69,9 @@ The motors have a 2 stage plantaery gear differentsial
     <figcaption><h4>e-tron 50/55 drivetrain with electric motors</h4></figcaption>
 </figure>
 
-### Audi e-tron 60S
+### Audi SQ8 e-tron
 
-In the e-tron S model Audi has moved the rear motor from e-tron 50 and e-tron 55 to the front and taken two front motors and combined them together on the rear axle.
+In the SQ8 e-tron model Audi has moved the rear motor from Q8 e-tron 50 and Q8 e-tron 55 to the front and taken two front motors and combined them together on the rear axle.
 
 2 x 138 kW boost power  /  2 x 70kW continuous power  /  2 stages, 1 gear  /  liquid cooled
 

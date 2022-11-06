@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron elektriske motorer & setup
+title: Audi Q8 e-tron elektriske motorer & setup
 linktitle: Motorer
-description: Audi e-tron har kraftige elektriske motorer og var den første elbilen som hadde en tremotorkonfigurasjon. Audi e-tron har 3 forskjellige motorkonfigurasjoner.
+description: Audi Q8 e-tron har kraftige elektriske motorer både i 2 og 3 motorkonfigurasjon. Audi Q8 e-tron har 3 forskjellige motorkonfigurasjoner.
 weight: 7
 ---
 <!-- markdownlint-disable MD033 -->
@@ -67,9 +67,9 @@ Motorene har en 2-trinns plantaery girdifferensial
     <figcaption><h4>e-tron 50/55 drivlinje med elektriske motorer</h4></figcaption>
 </figure>
 
-### Audi e-tron 60S
+### Audi SQ8 e-tron
 
-I e-tron S-modellen har Audi flyttet bakmotoren fra e-tron 50 og e-tron 55 til fronten og tatt to frontmotorer og kombinert dem sammen på bakakselen.
+I SQ8 e-tron modellene har Audi flyttet bakmotoren fra Q8 e-tron 50 og Q8 e-tron 55 til fronten og tatt to frontmotorer og kombinert dem sammen på bakakselen.
 
 2 x 138 kW boosteffekt / 2 x 70kW kontinuerlig effekt / 2 trinn, 1 gir / væskekjølt
 
