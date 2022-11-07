@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron exterior
+title: Audi Q8 e-tron exterior
 linktitle: Exterior
-description: There is a huge number of exterior options to the Audi e-tron. Paint colors, body shapes, wheels, paint styles, different optics, mirror types, and many more options making it possible to have more than 50.000 different exterior designs. 
+description: There is a huge number of exterior options to the Audi Q8 e-tron. Paint colors, body shapes, wheels, paint styles, different optics, color in grille,  mirror types, and many more options making it possible to have more than 50.000 different exterior designs. 
 weight: 4
 ---
 <!-- markdownlint-disable MD033 -->

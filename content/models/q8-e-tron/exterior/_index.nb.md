@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron eksteriør
+title: Audi Q8 e-tron eksteriør
 linktitle: Eksteriør
-description: Det er et stort antall eksteriøralternativer til Audi e-tron. Lakkfarger, karoseriformer, felger, lakkstiler, forskjellige optikk, speiltyper og mange flere alternativer som gjør det mulig å ha mer enn 50.000 forskjellige eksteriørdesign.
+description: Det er et stort antall eksteriøralternativer til Audi Q8 e-tron. Lakkfarger, karoseriformer, felger, lakkstiler, forskjellige optikk, speiltyper og mange flere alternativer som gjør det mulig å ha mer enn 50.000 forskjellige eksteriørdesign.
 weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
@@ -30,6 +30,6 @@ Så du forstår at det er mulig å gjøre bilen din unik. Og hvis disse alternat
 
 Så du forstår at det ikke er mulig å vise alle mulige kombinasjoner på denne siden.
 
-Se nedenfor for detaljer om de utvendige alternativene for eksteriør på Audi e-tron
+Se nedenfor for detaljer om de utvendige alternativene for eksteriør på Audi Q8 e-tron
 
 {{% children description="true" depth="1" %}}

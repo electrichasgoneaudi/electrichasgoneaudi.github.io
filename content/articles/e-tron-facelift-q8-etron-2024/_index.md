@@ -91,19 +91,29 @@ For both body shapes, three drivetrain variants are available.
 The below tables compare the current Audi e-tron variants with the different Q8 e-tron variants for range and consumption for a range-optimized equipment trim. Adding additional equipment like larger wheels will increase consumption and reduce the driving range.
 
 |Variant                 |  WLTP range                                                         |Change |
-|-------------------------------                                                                |-----------|-------|
-| [Audi e-tron 50](../../models/e-tron/variants/#audi-e-tron-50)                                |  341km    |       |
-| [Audi Q8 50 e-tron](../../models/q8-e-tron/variants/#audi-q8-50-e-tron)                       |  491km    | +44%  |
-| [Audi e-tron 50 Sportback](../../models/e-tron/variants/#audi-e-tron-50-sportback)            |  351km    |       |
-| [Audi Q8 50 Sportback e-tron](../../models/q8-e-tron/variants/#audi-q8-50-sportback-e-tron)   |  505km    | +44%  |
-| [Audi e-tron 55](../../models/e-tron/variants/#audi-e-tron-55)                                |  441km    |       |
-| [Audi Q8 55 e-tron](../../models/q8-e-tron/variants/#audi-q8-55-e-tron)                       |  582km    | +32%  |
-| [Audi e-tron 55 Sportback](../../models/e-tron/variants/#audi-e-tron-55)                      |  452km    |       |
-| [Audi Q8 55 Sportback e-tron](../../models/q8-e-tron/variants/#audi-q8-55-sportback-e-tron)   |  600km    | +33%  |
-| [Audi e-tron S](../../models/e-tron/variants/#audi-e-tron-60s)                                |  374km    |       |
-| [Audi SQ8 e-tron](../../models/q8-e-tron/variants/#audi-sq8-e-tron)                           |  494km    | +32%  |
-| [Audi e-tron S Sportback](../../models/e-tron/variants/#audi-e-tron-60s)                      |  379km    |       |
-| [Audi SQ8 e-tron Sportback](../../models/q8-e-tron/variants/#audi-sq8-sportback-e-tron)       |  513km    | +35%  |
+|-------------------------------                                                                |-----------        |-------|
+| [Audi e-tron 50](../../models/e-tron/variants/#audi-e-tron-50)                                |  341km/212mi      |       |
+| [Audi Q8 50 e-tron](../../models/q8-e-tron/variants/#audi-q8-50-e-tron)                       |  491km/305mi      | +44%  |
+| [Audi e-tron 50 Sportback](../../models/e-tron/variants/#audi-e-tron-50-sportback)            |  351km/218mi      |       |
+| [Audi Q8 50 Sportback e-tron](../../models/q8-e-tron/variants/#audi-q8-50-sportback-e-tron)   |  505km/314mi      | +44%  |
+| [Audi e-tron 55](../../models/e-tron/variants/#audi-e-tron-55)                                |  441km/274mi      |       |
+| [Audi Q8 55 e-tron](../../models/q8-e-tron/variants/#audi-q8-55-e-tron)                       |  582km/362mi      | +32%  |
+| [Audi e-tron 55 Sportback](../../models/e-tron/variants/#audi-e-tron-55)                      |  452km/281mi      |       |
+| [Audi Q8 55 Sportback e-tron](../../models/q8-e-tron/variants/#audi-q8-55-sportback-e-tron)   |  600km/373mi      | +33%  |
+| [Audi e-tron S](../../models/e-tron/variants/#audi-e-tron-60s)                                |  374km/232mi      |       |
+| [Audi SQ8 e-tron](../../models/q8-e-tron/variants/#audi-sq8-e-tron)                           |  494km/307mi      | +32%  |
+| [Audi e-tron S Sportback](../../models/e-tron/variants/#audi-e-tron-60s)                      |  379km/235mi      |       |
+| [Audi SQ8 e-tron Sportback](../../models/q8-e-tron/variants/#audi-sq8-sportback-e-tron)       |  513km/319mi      | +35%  |
+
+
+This diagram shows the same including other all-electric SUV models from Audi. (click on diagram for large) (click [here](https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/range_miles.png) for same diagram in miles)
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/range_km.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/range_km_st.png" alt="WLTP range all electric Audi SUV" title="WLTP range all electric Audi SUVt">
+    </a>
+    <figcaption><h4>WLTP range all electric Audi SUV</h4></figcaption>
+</figure>
 
 |Variant | WLTP Consumption | Change |
 |-------|-------------|-------|
@@ -119,6 +129,17 @@ The below tables compare the current Audi e-tron variants with the different Q8 
 |[Audi SQ8 e-tron](../../models/q8-e-tron/variants/#audi-sq8-e-tron)                            | 21.46kWh/100km | -6.7     |
 |[Audi e-tron S Sportback](../../models/e-tron/variants/#audi-e-tron-60s)                       | 22.69kWh/100km |          |
 |[Audi SQ8 e-tron Sportback](../../models/q8-e-tron/variants/#audi-sq8-sportback-e-tron)        | 20.66kWh/100km | -9%      |
+
+The diagram below compares consumption for all all-electric models from Audi. Click on image for large, or click for same diagram for [mi/kWh](https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/consumption_miles.png).
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/consumption_km.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/consumption_km_st.png" alt="WLTP range all electric Audi SUV" title="WLTP range all electric Audi SUVt">
+    </a>
+    <figcaption><h4>WLTP consumption all electric Audi SUV</h4></figcaption>
+</figure>
+
+
 
 The performance has not changed, except for the Audi Q8 e-tron 50 model. This model now has increased power and the same torque as the 55 models.
 
