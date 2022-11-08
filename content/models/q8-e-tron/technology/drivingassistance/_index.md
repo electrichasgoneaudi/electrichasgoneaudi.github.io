@@ -1,11 +1,23 @@
 ---
-title: Audi e-tron driver assistence systems
+title: Audi Q8 e-tron driver assistence systems
 linktitle: Driver Assistance
-description: Audi e-tron has serveral driving assistance systems. Below you find all details.
+description: There are around 40 driver assistance systems available in the Audi Q8 e-tron
 weight: 1
 ---
+<!-- markdownlint-disable MD033 -->
 
- Important driver assist systems come as standard, the optional systems are subdivided into packages: The assist pacakage tour (PCC), assistent package city (PCM), side assist package (PCH). In addition there are other standalone options.
+Up to five radar sensors, five cameras, and 12 ultrasonic sensors provide environmental information analyzed by the central driver assistance control unit.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/technology/drivingassistance/sensors.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/technology/drivingassistance/sensors_st.jpg"
+        alt="Audi Q8 e-tron - sensors and cameraes" title="Audi Q8 e-tron - sensors and cameraes">
+    </a>
+    <figcaption><h4>Audi Q8 e-tron - sensors and cameraes</h4></figcaption>
+</figure>
+
+Important driver assist systems come as standard, the optional systems are subdivided into packages: The assist pacakage tour (PCC), assistent package city (PCM), side assist package (PCH). In addition there are other standalone options.
+
 
 | **System**    | **Available** |
 | ----------- | ----------- |
@@ -22,7 +34,7 @@ weight: 1
 | [Pre Sense rear](presenserear) | option (PCM/PCH) |
 | [Pre Sense side](presenseside) | N/A |
 | [Distance warning](distancewarning) | standard |
-| [Night Vision](nightvision)| option |
+| Night Vision| N/A |
 | [Speed limiter](speedlimiter) | standard |
 | [Park assist](parkassist) | option |
 | [Predictive Efficiency Assist](predictiveefficiencyassist) | standard |

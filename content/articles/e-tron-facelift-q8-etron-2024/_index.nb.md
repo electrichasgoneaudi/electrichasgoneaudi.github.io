@@ -6,7 +6,7 @@ weight: 99994
 ---
 <!-- markdownlint-disable MD033 -->
 
-I denne artikkelen finner du de fleste detaljene og høyoppløselige bilder (klikk på dem). Du finner også mange lenker i modellens beskrivelse for mer informasjon om alternativer og teknologi for Audi Q8 e-tron.
+I denne artikkelen finner du de fleste detaljene og høyoppløselige bilder (klikk på dem). Du finner også mange lenker i modellens beskrivelse for mer informasjon om ekstrautstyr og teknologi for Audi Q8 e-tron.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/audi_sq8_front_article.jpeg">
@@ -17,7 +17,13 @@ I denne artikkelen finner du de fleste detaljene og høyoppløselige bilder (kli
 
 Med Audi e-tron gikk premiumprodusenten inn i elektromobilitetens tidsalder i 2018, og markerte starten på den elektriske fremtiden for de fire ringene.
 
-Siden den gang har modellen satt standarder i det elektriske luksusklassen SUV-segmentet. Den nye Audi Q8 e-tron bygger nå videre på suksesshistorien til denne elektriske pioneren. Den førsteklasses elektriske SUV-en og crossoveren imponerer med sitt optimaliserte kjørekonsept, forbedrede aerodynamikk, høyere ladeytelse og batterikapasitet, og økt [WLTP-rekkevidde](https://evkx.net/guides/understandingrange/wltp/) på opptil 582 kilometer i SUV-versjonen og opptil 600 kilometer i Sportback-versjonen. I tillegg gir betydelige endringer, spesielt foran på kjøretøyet, den nye flaggskip-SUVen et friskere utseende.
+Audi e-tron har vært en enorm suksess siden lanseringen i 2018, og ble Norges mest solgte nybil i 2020. For mange var Audi e-tron første møte med en premium elektrisk SUV og hele
+97 prosent av de som kjøper ny Audi velger elektrisk.
+
+Den nye Audi Q8 e-tron bygger nå videre på suksesshistorien til denne elektriske pioneren. Den førsteklasses elektriske SUV-en og crossoveren imponerer med sitt optimaliserte kjørekonsept,
+forbedrede aerodynamikk, høyere ladeytelse og batterikapasitet, og økt [WLTP-rekkevidde](https://evkx.net/guides/understandingrange/wltp/) på opptil 582 kilometer i SUV-versjonen og opptil 600 kilometer i Sportback-versjonen. 
+
+I tillegg gir betydelige endringer, spesielt foran på kjøretøyet, den nye flaggskip-SUVen et friskere utseende.
 
 Siden introduksjonen av Audi e-tron for rundt fire år siden og solgte 150 000 enheter, har Audi fulgt et systematisk elektrisk veikart. Som et resultat omfatter dens elektriske portefølje nå [åtte modeller](../../models/).
 
@@ -88,7 +94,8 @@ Det er også 62 liter tilgjengelig i oppbevaringsområdet foran, den såkalte "f
 
 For begge karoseriformene er tre drivlinjer tilgjengelig.
 
-Tabellene nedenfor sammenligner gjeldende Audi e-tron-varianter med de forskjellige Q8 e-tron-variantene for rekkevidde og forbruk for en rekkeviddeoptimalisert utstyrsnivå. Å legge til tilleggsutstyr som større felger vil øke forbruket og redusere rekkevidden.
+Tabellene nedenfor sammenligner gjeldende Audi e-tron-varianter med de forskjellige Q8 e-tron-variantene for rekkevidde og forbruk for en rekkeviddeoptimalisert utstyrsnivå. 
+Noe som annet betyr 19" felger. 
 
 |Variant                 |  WLTP rekkevidde                                                         |Endring |
 |-------------------------------                                                                |-----------|-------|
@@ -105,6 +112,15 @@ Tabellene nedenfor sammenligner gjeldende Audi e-tron-varianter med de forskjell
 | [Audi e-tron S Sportback](../../models/e-tron/variants/#audi-e-tron-60s)                      |  379km    |       |
 | [Audi SQ8 e-tron Sportback](../../models/q8-e-tron/variants/#audi-sq8-sportback-e-tron)       |  513km    | +35%  |
 
+Dette diagrammet viser rekkevidden for alle helelektriske SUV til Audi med minimum utstyrskonfigurasjon.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/range_km.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/range_km_st.png" alt="WLTP range all electric Audi SUV" title="WLTP range all electric Audi SUVt">
+    </a>
+    <figcaption><h4>WLTP range all electric Audi SUV</h4></figcaption>
+</figure>
+
 |Variant | WLTP forbruk | Endring |
 |-------|-------------|-------|
 |[Audi e-tron 50](../../models/e-tron/variants/#audi-e-tron-50)                                 | 18.77kWh/100km |          |
@@ -119,6 +135,36 @@ Tabellene nedenfor sammenligner gjeldende Audi e-tron-varianter med de forskjell
 |[Audi SQ8 e-tron](../../models/q8-e-tron/variants/#audi-sq8-e-tron)                            | 21.46kWh/100km | -6.7     |
 |[Audi e-tron S Sportback](../../models/e-tron/variants/#audi-e-tron-60s)                       | 22.69kWh/100km |          |
 |[Audi SQ8 e-tron Sportback](../../models/q8-e-tron/variants/#audi-sq8-sportback-e-tron)        | 20.66kWh/100km | -9%      |
+
+Diagrammet viser forbruket for alle helelektriske SUV fra Audi.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/consumption_km.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/consumption_km_st.png" alt="WLTP range all electric Audi SUV" title="WLTP range all electric Audi SUVt">
+    </a>
+    <figcaption><h4>WLTP consumption all electric Audi SUV</h4></figcaption>
+</figure>
+
+I Norge vil det ikke i utgangspunktet selges modeller med så lavt utstyrsnivå. Som på Audi e-tron vil Advanced være minimum nivå på 50 og 55 og SQ8 har litt mer standardutstyr i Norge.
+
+For advance modellene har vi følgende tall på Audi e-tron og Audi Q8 e-tron for tilsvarende utstyre modeller. Som man ser så øker den relative forskjellen med mer utstyr.
+
+|Variant                                                                                            |  WLTP rekkevidde                                                                         |Endring|
+|-------------------------------                                                                        |-----------|-------|
+| [Audi e-tron 50 Advanced](../../models/e-tron/variants/#audi-e-tron-50)                               |  315km    |       |
+| [Audi Q8 50 e-tron Advanced](../../models/q8-e-tron/variants/#audi-q8-50-e-tron)                      |  458km    | +45%  |
+| [Audi e-tron 50 Sportback Advanced](../../models/e-tron/variants/#audi-e-tron-50-sportback)           |  321km    |       |
+| [Audi Q8 50 Sportback e-tron Advanced](../../models/q8-e-tron/variants/#audi-q8-50-sportback-e-tron)  |  471km    | +47%  |
+| [Audi e-tron 55 Advanced](../../models/e-tron/variants/#audi-e-tron-55)                               |  405km    |       |
+| [Audi Q8 55 e-tron Advanced](../../models/q8-e-tron/variants/#audi-q8-55-e-tron)                      |  539km    | +33%  |
+| [Audi e-tron 55 Sportback Advanced](../../models/e-tron/variants/#audi-e-tron-55)                     |  413km    |       |
+| [Audi Q8 55 Sportback e-tron Advanced](../../models/q8-e-tron/variants/#audi-q8-55-sportback-e-tron)  |  556km    | +35%  |
+| [Audi e-tron S](../../models/e-tron/variants/#audi-e-tron-60s)                                        |  371km    |       |
+| [Audi SQ8 e-tron](../../models/q8-e-tron/variants/#audi-sq8-e-tron)                                   |  491km    | +32%  |
+| [Audi e-tron S Sportback](../../models/e-tron/variants/#audi-e-tron-60s)                              |  375km    |       |
+| [Audi SQ8 e-tron Sportback](../../models/q8-e-tron/variants/#audi-sq8-sportback-e-tron)               |  509km    | +35%  |
+
+
 
 Ytelsen har ikke endret seg, bortsett fra Audi Q8 e-tron 50-modellen. Denne modellen har nå økt kraft og samme dreiemoment som 55-modellene.
 
@@ -293,14 +339,31 @@ I motsetning til tidligere mikrofiberkvalitet er produksjonen av Dinamica også 
 
 I tillegg brukes noen sikkerhetsrelaterte komponenter som delvis består av blandet bilplastavfall behandlet gjennom en kjemisk resirkuleringsprosess for første gang – nærmere bestemt plastdekslene til sikkerhetsbeltespennene. Som en del av PlasticLoop-prosjektet jobbet Audi sammen med plastprodusenten LyondellBasell for å etablere en prosess der kjemisk resirkulering for første gang skal brukes til å gjenbruke det blandede bilplastavfallet i serieproduksjonen av Audi Q8 e-tron. I denne prosessen, implementert i fellesskap med LyondellBasell, blir plastkomponenter fra kundekjøretøyer demontert og separert fra fremmede materialer, for eksempel metallklemmer, før de blir makulert og behandlet til pyrolyseolje gjennom kjemisk resirkulering. Denne pyrolyseoljen brukes deretter som råmateriale for å produsere ny plast i en massebalansemetode.
 
-## Markedslansering våren 2023
+## Første kundebiler på veien våren 2023
 
-Markedslanseringen av den nye Audi Q8 e-tron og Audi Q8 Sportback e-tron, som vil være tilgjengelig for bestilling fra midten av november, er planlagt å skje i slutten av februar 2023 i Tyskland og de viktigste europeiske markedene. Audi forventer at den kommer til USA-markedet i slutten av april. Grunnprisen for Audi Q8 e-tron i Tyskland vil være 74.400 euro.
+Offisiell salgsstart av Audi Q8 e-tron er 14. november, og Audi forventer å se de første kundebilene på norske veier til våren. Bilene vil komme med mer standardutstyr enn sin
+forgjenger.
+
+
+I Norge vil Tilhengerfeste avtagbart og USB C ladeuttak bak være standardutstyr. Dette er tilegg fra Audi e-tron.
+
+Startpris for Q8 e-tron er 658.100 for Q8 e-tron 50 og 751.100 for Q8 e-tron 55.
+For SQ8 e-tron er startprisen 841.100.
+
+Prisene er oppgitt uten frakt/klargjøring og før merverdiavgift og eventuelle avgifter.
+
+## Se alle detaljer i modellseksjonen
+
+I vår modellseksjon for Audi Q8 e-tron finner du all informasjon om utstyr og teknologi.
+
+Hold deg oppdatert med å melde deg inn i vår [Audi Q8 e-tron owners Norway facebookgruppe](https://www.facebook.com/groups/301614688594314)
+
+[Les alt om Audi Q8 e-tron i modellseksjonen](../../models/q8-e-tron/)
+
 
 ## Videoer
 
 Nedenfor finner du noen videoer av de nye modellene. I tillegg finner du mer i [multimediaseksjonen](../../models/q8-e-tron/multimedia) for Audi Q8 e-tron.
-
 
 ### Audi Q8 e-tron and Audi SQ8 Sportback e-tron
 

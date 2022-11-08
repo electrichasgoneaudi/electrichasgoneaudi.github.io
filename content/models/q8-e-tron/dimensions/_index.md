@@ -1,12 +1,14 @@
 ---
 title: Audi Q8 e-tron dimensions
 linktitle: Dimensions
-description: Here you find all dimensions for the Audi e-tron and Audi e-tron Sportback. Width, height, depth, +++
+description: Here you find all dimensions for the Audi Q8 e-tron and Audi Q8 e-tron Sportback. Width, height, depth, +++
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
 
-## Audi e-tron
+Currently the e-tron dimmensions are shown. Picture will be updated when Audi release it
+
+## Audi Q8 e-tron
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/dimensions/dimension.png">
@@ -15,7 +17,7 @@ weight: 3
     <figcaption><h4>Dimensions e-tron</h4></figcaption>
 </figure>
 
-## Audi e-tron Sportback
+## Audi Q8 e-tron Sportback
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/dimensions/dimensionsb.png">

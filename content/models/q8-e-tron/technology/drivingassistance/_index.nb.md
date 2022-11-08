@@ -1,9 +1,20 @@
 ---
-title: Audi e-tron assistentsystemer
+title: Audi Q8 e-tron assistentsystemer
 linktitle: Assistentsystemer
-description: Audi e-tron har en rekke assistentsystemer
+description: Det er rundt 40 førerassistentsystemer tilgjengelig i Audi Q8 e-tron.
 weight: 1
 ---
+<!-- markdownlint-disable MD033 -->
+
+Opptil fem radarsensorer, fem kameraer og 12 ultralydsensorer gir miljøinformasjon analysert av den sentrale førerassistentkontrollenheten.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/technology/drivingassistance/sensors.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/technology/drivingassistance/sensors_st.jpg"
+        alt="Audi Q8 e-tron - sensors and cameraes" title="Audi Q8 e-tron - sensors and cameraes">
+    </a>
+    <figcaption><h4>Audi Q8 e-tron - sensorer og kamera</h4></figcaption>
+</figure>
 
 Viktige førerassistentsystemer kommer som standard, de valgfrie systemene er delt inn i pakker: Assistentpakkereise (PCC), assistentpakkeby (PCM), sideassistentpakke (PCH). I tillegg er det andre frittstående alternativer.
 
@@ -21,7 +32,7 @@ Viktige førerassistentsystemer kommer som standard, de valgfrie systemene er de
 | [Pre Sense rear](presenserear) | option (PCM/PCH) |
 | [Pre Sense side](presenseside) | option |
 | [Distance warning](distancewarning) | standard |
-| [Night Vision](nightvision) | option |
+| Night Vision | N/A |
 | [Speed limiter](speedlimiter) | standard |
 | [Park assist](parkassist) | N/A |
 | [Predictive Efficiency Assist](predictiveefficiencyassist) | standard |
@@ -34,6 +45,6 @@ Viktige førerassistentsystemer kommer som standard, de valgfrie systemene er de
 | [Traffic sign recognition](trafficsignrecognition) | option (QR9/PCC) |
 
 
-See detailed information about the systems below.
+Se detaljert informasjon om systemene nedenfor
 
 {{% children description="true" depth="1" %}}

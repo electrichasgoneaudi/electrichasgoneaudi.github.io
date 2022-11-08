@@ -23,6 +23,8 @@ Wanna keep yourself updated. Join our [Audi Q8 e-tron facebook group](https://ww
 
 ## Audi Q8 e-tron variants
 
+Audi Q8 e-tron is available in 6 variants.
+
 - [Audi Q8 50 e-tron](../../models/q8-e-tron/variants/#audi-q8-50-e-tron) 
 - [Audi Q8 50 Sportback e-tron](../../models/q8-e-tron/variants/#audi-q8-50-sportback-e-tron) 
 - [Audi Q8 55 e-tron](../../models/q8-e-tron/variants/#audi-q8-55-e-tron)
@@ -36,6 +38,8 @@ Wanna keep yourself updated. Join our [Audi Q8 e-tron facebook group](https://ww
     </a>
     <figcaption><h4>Audi Q8 e-tron 55 and Audi Q8 Sportback e-tron</h4></figcaption>
 </figure>
+
+Go to our [Audi e-tron variant sections](variants) for more details.
 
 ## Audi Q8 e-tron drivetrain: battery and motors
 
@@ -51,7 +55,7 @@ The number of modules and cells are the same, but with a new more dense cell Aud
 
 ### Range & efficiency
 
-Improved aerodynamics and updated power electronics should improve efficiency. But not much since the models will be heavier because of larger batteries. The table below assumes a reduced consumption of 0.5kWh/100km compared to the Audi e-tron.
+Audi Q8 e-tron has improved electronics and aerodynamis to reduce drag and consumption. This gives the following range and consumption.
 
 |Variant                                                                                        |  WLTP range       |Change |
 |-------------------------------                                                                |-----------        |-------|
@@ -73,52 +77,40 @@ Improved aerodynamics and updated power electronics should improve efficiency. B
 
 ## Audi Q8 e-tron exterior
 
+[Go to the exterior section](exterior) to read more about the exterior options
+
 There will be a huge number of exterior options to the Audi Q8 e-tron. More than 50 Paint colors, two body shapes,  wheels from 19" - 22", paint styles, different optics, mirror types, and many more options make it possible to create your unique design.
 
 ## Audi Q8 e-tron interior
 
-Audi Q8 e-tron will a have luxury interior with many options. This includes four different seat types including seats with massage and ventilation.
+Audi Q8 e-tron will have luxury interior with many options. This includes four different seat types including seats with massage and ventilation.
 
 Different interior designs, interior lights, and many more so that you can personalize the car as you like it.
 
+[Go to the interior section](interior) to read more about the different interior options available.
+
 ## Audi Q8 e-tron technology
 
-Vorsprung Durch Technik have in more than 50 years been Audis mantra and Audi Q8 e-tron is no exception. It will be loaded with advanced technology in many areas like Driver Assistance, lights, charging technology, and many more areas to give you a safe, comfortable, and luxurious journey.
+Vorsprung Durch Technik have in more than 50 years been Audis mantra and Audi Q8 e-tron is no exception. 
+Audi Q8 e-tron is loaded with advanced technology in many areas like Driver Assistance, lights, charging technology, and many more areas to give you a safe, comfortable, and luxurious journey.
 
-Compared to Audi e-tron the Audi Q8 e-tron is expected to have new lights and a new and updated MMI with a larger main screen. 
+Compared to Audi e-tron the Audi Q8 e-tron have upgraded lights and some new driver assist functionality. 
 
-The picture below show images from prototype used on [E-Cannonball](https://e-cannonball.de/)
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/q8light.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/q8lights.jpg" alt="Audi Q8 e-tron with new headlights" title="Audi Q8 e-tron with new headlights">
-    </a>
-    <figcaption><h4>Audi Q8 e-tron with new headlights</h4></figcaption>
-</figure>
-
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/q8mirror.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/q8mirrors.jpg" alt="Audi Q8 e-tron virtual mirrors" title="Audi Q8 e-tron virtual mirrors">
-    </a>
-    <figcaption><h4>Audi Q8 e-tron virtual mirrors</h4></figcaption>
-</figure>
+[Read more in the Audi Q8 e-tron technology section](technology)
 
 ## Audi Q8 e-tron dimensions
 
 The dimensions on the Audi Q8 e-tron will be the same as the Audi e-tron.
 
+[Go to dimensions](dimensions)
+
 ## Transportation capabilities
 
 In addition to the 5 seats, the Q8 e-tron has both a trunk and a frunk in addition to roof storage and trailer capabilities.
 
-Video below show testing of 2023 Audi Q8 e-tron 65 prototype
+[Read more in the transportation capabilities section](transportation)
 
-{{< youtube uDzsA8CKdFY >}}
-
-
-
-## Images
+## Images and videos
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_2.jpg">

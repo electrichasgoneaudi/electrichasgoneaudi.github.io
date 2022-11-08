@@ -325,3 +325,11 @@ The market launch of the new Audi Q8 e-tron and Audi Q8 Sportback e-tron, which 
 Below you will find some videoes of the new models. In addition, you will find more in the [multimedia section](../../models/q8-e-tron/multimedia) for the Audi Q8 e-tron.
 
 {{< youtube YSAK8VM5aVE >}}
+
+### Audi Q8 e-tron 55 s-line in Chronos grey
+
+{{< youtube fVh8KrTPEJU >}}
+
+### Audi SQ8 e-tron in ultra blue
+
+{{< youtube VQIl8BN30uM >}}

@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron technology
+title: Audi Q8 e-tron technology
 linktitle: Technology
-description: Vorsprung Durch Technik have in more than 50 years been Audis mantra and Audi e-tron is no exception. It is loaded with advanced technology in many areas like Driver Assistance, lights, charging technology and many more areas to give you a safe, comfortable and luxurios journey. 
+description: Vorsprung Durch Technik have in more than 50 years been Audis mantra and Audi Q8 e-tron is no exception. It is loaded with advanced technology in many areas like Driver Assistance, lights, charging technology and many more areas to give you a safe, comfortable and luxurios journey. 
 weight: 7
 ---
 <!-- markdownlint-disable MD033 -->
