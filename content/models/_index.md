@@ -40,18 +40,17 @@ The Audi Q4 e-tron and the Q4 Sportback e-tron are the first compact electric SU
 
 [![Audi Q6 e-tron](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype1.jpg)](q6-e-tron/) 
 
-[Audi Q6 e-tron](q6-e-tron/) will have a world premiere in 2022 and will be the fourth all-electric model from Audi. It is built on the new PPE platform created together with Porsche. Expected to come in different variants and be the most sporty all-electric SUV from Audi.
+[Audi Q6 e-tron](q6-e-tron/) will have a world premiere in 2023 and will be the fifth all-electric model from Audi. It is built on the new PPE platform created together with Porsche. Expected to come in different variants and be the most sporty all-electric SUV from Audi.
 
 [See all known details about Audi Q6 e-tron](q6-e-tron/)
 
 ## Audi Q8 e-tron
 
-[![Audi Q8 e-tron](https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/q8prototypes.jpg)](q8-e-tron/)
+[![Audi Q8 e-tron](https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/sq8_and_q8_variants_st.jpg)](q8-e-tron/)
 
-Audi Q8 e-tron will have a world premiere in 2022 and will replace the Audi e-tron. The Audi Q8 e-tron is a facelift of the Audi e-tron and is renamed
-to make it more logically named together with the Q4 e-tron and the Q6 e-tron. The battery will be a little larger that will increase the range by 15-20% compared to the Audi e-tron.
+The Audi Q8 e-tron had its [world premiere](../articles/e-tron-facelift-q8-etron-2024/) on November 9. 2022, replacing the Audi e-tron. The Audi Q8 e-tron is a facelift of the Audi e-tron and is renamed to make it more logically named together with the Q4 e-tron and the Q6 e-tron. Furthermore, with a larger battery and increased efficiency, that range improved by up to 44% compared to the same variant for the Audi e-tron.
 
-[See all known details about Audi Q8 e-tron](q8-e-tron/) 
+[See all details about Audi Q8 e-tron](q8-e-tron/)
 
 Also join our [Audi Q8 e-tron facebook group](https://www.facebook.com/groups/1070499437069641) to keep yourself updated on this model.
 
