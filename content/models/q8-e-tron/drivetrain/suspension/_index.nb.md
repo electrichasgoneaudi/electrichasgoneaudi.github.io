@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron dempere
+title: Audi Q8 e-tron dempere
 linktitle: Dempere
-description: Audi e-tron har adaptive air supsension.
+description: Audi Q8 e-tron har adaptive air supsension.
 weight: 7
 ---
 <!-- markdownlint-disable MD033 -->
@@ -54,50 +54,3 @@ Hvis kjøretøyet for øyeblikket er innstilt på en annen kjørehøyde, settes 
 Dersom kjøretøyet deretter overskrider en hastighet på 120 km/t, vil kjørehøyden umiddelbart senkes med 13 mm til lavt nivå 1. Hvis hastigheten deretter øker ytterligere til minst 140 km/t og blir der i 20 sekunder, vil turen økes ytterligere til minst 140 km/t. høyde vil
 senkes igjen med ytterligere 13 mm til motorveinivå. Hvis hastigheten deretter reduseres igjen og kjøretøyet kjøres med en hastighet på 110 km/t eller lavere i en varighet på 30 sekunder,
 kjørehøyden heves med 13 mm til den tidligere innstilte kjørehøyden. Hvis hastigheten reduseres ytterligere til 5 km/t, heves kjøretøyet umiddelbart til opprinnelig nivå (normalt nivå).
-
-## Senker bilen
-
-Selv du kan justere kjørehøyden, noen vil ha den enda lavere. Her er noen eksempler på biler senket med senkekoblinger eller programvarejustering.
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering1s.jpg" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
-    </a>
-    <figcaption><h4>Senket e-tron med 3 cm</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering2s.jpg" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
-    </a>
-    <figcaption><h4>Senket e-tron med 3 cm</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering3s.jpg" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
-    </a>
-    <figcaption><h4>Lowered e-tron with in show mode</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering4s.jpg" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
-    </a>
-    <figcaption><h4>Senket e-tron med 3 cm</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering5s.jpg" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
-    </a>
-    <figcaption><h4>Senket e-tron med 3 cm</h4></figcaption>
-</figure>
-
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering6s.jpg" alt="Lowered e-tron with 15mm front and 18mm rear from Dynasty AB" title="Lowered e-tron with 15mm front and 18mm rear from Dynasty AB">
-    </a>
-    <figcaption><h4>senket e-tron med 15mm front og 18mm bak fra Dynasty AB</h4></figcaption>
-</figure>

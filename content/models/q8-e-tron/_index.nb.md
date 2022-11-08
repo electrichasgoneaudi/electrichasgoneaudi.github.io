@@ -1,153 +1,111 @@
 ---
 title: Audi Q8 e-tron
 linktitle: Audi Q8 e-tron
-description: Audi Q8 e-tron lanseres 9. november 2022, og er i realiteten facelift av Audi e-tron.
+description: Audi Q8 e-tron er midtlivsoppdateringen til den svært populære Audi e-tron. Med seks forbedrede varianter, opptil 44 % lengre rekkevidde og 9 % forbedret effektivitet sammen med designendringer. electrichasgoneaudi.net har alle detaljene.
 weight: 5
 ---
 <!-- markdownlint-disable MD033 -->
 
-**Informasjonen på denne siden er basert på tidlige rykter om modellen. Kl 00:01 9. november vil all offisiell informasjon om modellen legges ut her.
+Verdenspremieren var 9. november 2022, og hvis du vil vite alle detaljene om forbedringene fra Audi e-tron bør du lese [verdenspremiereartikkelen først](../../articles/e-tron-facelift-q8-etron-2024/).
 
-Det er forventet at de første eierne vil motta sin Q8 e-tron i Q1 2023. Modellen forventes å ha noen utvendige endringer, større batterier og noen andre kraftelektronikkforbedringer for å redusere forbruket.
+Det forventes at de første eierne vil motta sin Q8 e-tron i Q2 2023.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_1s.jpg" alt="Audi Q8 e-tron 55 prototype" title="Audi Q8 e-tron 55 prototype">
+<figur>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/audi_sq8_front_article.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/audi_sq8_front_article_st.jpeg" alt="Audi SQ8 e-tron" title="Audi Q8 e -tron 55 prototype">
     </a>
-    <figcaption><h4>Audi Q8 e-tron 55 s-line prototype</h4></figcaption>
-</figure>
+    <figcaption><h4>Audi SQ8 e-tron</h4></figcaption>
+</figur>
 
-Audi Q8 e-tron har et bredt utvalg alternativer og avanserte kjøreteknologier. Her på electrichasgoneaudi.net finner du alle detaljer om e-tron. Alt fra de forskjellige hjulene å velge mellom til hvordan de forskjellige kjøreassistentsystemene fungerer.
+Audi Q8 e-tron har et bredt utvalg alternativer og avanserte kjøreteknologier. Her på electrichasgoneaudi.net finner du alle detaljer om Q8 e-tron. Alt fra de forskjellige hjulene å velge mellom til hvordan de forskjellige kjøreassistentsystemene fungerer.
 
 Hold deg oppdatert med å melde deg inn i vår [Audi Q8 e-tron owners Norway facebookgruppe](https://www.facebook.com/groups/301614688594314)
 
 ## Audi Q8 e-tron-varianter
 
-Det forventes at Audi Q8 e-tron vil være tilgjengelig i forskjellige varianter med forskjellige karosseridesign, motorer og batterier.
+Audi Q8 e-tron er tilgjengelig i 6 varianter.
 
-- Audi Q8 e-tron 50
-- Audi Q8 e-tron 50 Sportback
-- Audi Q8 e-tron 55
-- Audi Q8 e-tron 55 Sportback
-- Audi Q8 e-tron 65
-- Audi Q8 e-tron 65 Sportback
+- [Audi Q8 50 e-tron](../../models/q8-e-tron/variants/#audi-q8-50-e-tron)
+- [Audi Q8 50 Sportback e-tron](../../models/q8-e-tron/variants/#audi-q8-50-sportback-e-tron)
+- [Audi Q8 55 e-tron](../../models/q8-e-tron/variants/#audi-q8-55-e-tron)
+- [Audi Q8 55 Sportback e-tron](../../models/q8-e-tron/variants/#audi-q8-55-sportback-e-tron)
+- [Audi SQ8 e-tron](../../models/q8-e-tron/variants/#audi-sq8-e-tron)
+- [Audi SQ8 e-tron Sportback](../../models/q8-e-tron/variants/#audi-sq8-sportback-e-tron)
 
-<br />
+<figur>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/sq8_and_q8_variants.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/sq8_and_q8_variants_st.jpg" alt="Audi Q8 e-tron 55 og Audi Q8 Sportback e-tron" title="Audi Q8 e-tron 55 og Audi Q8 Sportback e-tron">
+    </a>
+    <figcaption><h4>Audi Q8 e-tron 55 og Audi Q8 Sportback e-tron</h4></figcaption>
+</figur>
 
-## Audi Q8 e-tron drivlinje: batteri og motorer
+Gå til vår seksjon for [Audi Q8 e-tron-varianter](variants) for mer informasjon.
 
-Audi Q8 e-tron er bygget på samme MLB-Evo-plattform som Audi e-tron, med støtte for opptil 3 kraftige motorer og nye større batterier. Som på Audi e-tron er adaptiv luftfjæring og progressiv styring standard.
+## Audi Q8 e-tron drivetrain: battery and motors
 
-### Batterier
+The Audi Q8 e-tron is built on the same MLB-Evo platform that the Audi e-tron, with the support of up to 3 powerful motors and new larger batteries. As on the Audi e-tron, adaptive Air suspension and progressive steering are standard.
 
-Som på Audi e-tron vil batteriet være tilgjengelig i to størrelser.
-Q8 e-tron 50 forventes å ha samme batteristørrelse som Audi e-tron 55
+### Batteries
 
-- 95kWh brutto / 86,6 kWh netto
+As on the Audi e-tron, two battery sizes are available on the variants. The battery of the [Q8 50 e-tron](../../models/q8-e-tron/variants/#audi-q8-50-e-tron) has a storage capacity of 89 net kilowatt-hours (95 gross kWh), while the more powerful versions of the Q8 55 e-tron and SQ8 e-tron have 106 net kWh (114 gross kWh). The 95kWh battery used on the 50 variants uses the same battery used on the Audi 55 and S variants.  Thanks to adjusting the battery management system, the battery capacity usable for customers has increased from 86kWh to 89kWh.
 
-Forutsetningen er at Audi Q8 e-tron 55/ Audi Q8 e-tron S vil beholde samme nominelle spenning (396 volt) som Audi e-tron og derfor samme antall celler, men hver celle vil være litt større, går fra 60AH til 72AH.
-Disse cellene skal gi følgende batteri (ubekreftet)
+The number of modules and cells are the same, but with a new more dense cell Audi where able to replace the 60AH cells with a 72AH cells
 
-- 115 kWh brutto / 105 kWh netto
+[Read more in the battery section](drivetrain/battery/)
 
-### Rekkevidde og effektivitet
+### Range & efficiency
 
-Forbedret aerodynamikk og oppdatert kraftelektronikk bør forbedre effektiviteten. Men ikke mye siden modellene blir tyngre på grunn av større batterier. Tabellen nedenfor antar et redusert forbruk på 0,5 kWh/100 km sammenlignet med Audi e-tron.
+Audi Q8 e-tron has improved electronics and aerodynamis to reduce drag and consumption. This gives the following range and consumption.
 
-|Modell | WLTP-forbruk | WLTP-område |
-|-----|--------|--------|
-|Audi Q8 e-tron 50| 18,9 - 22,5 kWh/100 km | 390 - 460 km |
-|Audi Q8 e-tron 55 | 19,1 - 23 kWh/100km | 456 - 550 km |
-|Audi Q8 e-tron S | 22,6 - 24,7 kWh/100 km | 425 - 464 km |
-|Audi Q8 e-tron Sportback 50 | 18,3 - 22,5 kWh/100 km | 450 - 380 km |
-|Audi Q8 e-tron Sportback 55 | 18,6 - 22,7 kWh/100 km | 462 - 565 km |
-|Audi Q8 e-tron Sportback S | 22,3 - 24,4 kWh/100km | 425 - 464 km|
+|Variant                                                                                        |  WLTP range       |Change |
+|-------------------------------                                                                |-----------        |-------|
+| [Audi Q8 50 e-tron](../../models/q8-e-tron/variants/#audi-q8-50-e-tron)                       |  491km/305mi      | +44%  |
+| [Audi Q8 50 Sportback e-tron](../../models/q8-e-tron/variants/#audi-q8-50-sportback-e-tron)   |  505km/314mi      | +44%  |
+| [Audi Q8 55 e-tron](../../models/q8-e-tron/variants/#audi-q8-55-e-tron)                       |  582km/362mi      | +32%  |
+| [Audi Q8 55 Sportback e-tron](../../models/q8-e-tron/variants/#audi-q8-55-sportback-e-tron)   |  600km/373mi      | +33%  |
+| [Audi SQ8 e-tron](../../models/q8-e-tron/variants/#audi-sq8-e-tron)                           |  494km/307mi      | +32%  |
+| [Audi SQ8 e-tron Sportback](../../models/q8-e-tron/variants/#audi-sq8-sportback-e-tron)       |  513km/319mi      | +35%  |
 
-Vi vil vite mer når Audi Q8 e-tron er ferdigstilt og testet etter WLTP-standarder. Det siste ryktet er at det forventes å bli presentert i slutten av 2022.
+|Variant | WLTP Consumption | Change |
+|-------|-------------|-------|
+|[Audi Q8 50 e-tron](../../models/q8-e-tron/variants/#audi-q8-50-e-tron)                        | 18.12kWh/100km | -3.4%    |
+|[Audi Q8 50 Sportback e-tron](../../models/q8-e-tron/variants/#audi-q8-50-sportback-e-tron)    | 17.62kWh/100km | -3.3%    |
+|[Audi Q8 55 e-tron](../../models/q8-e-tron/variants/#audi-q8-55-e-tron)                        | 18.21kWh/100km | - 7.1%   |
+|[Audi Q8 55 Sportback e-tron](../../models/q8-e-tron/variants/#audi-q8-55-sportback-e-tron)    | 17.33kWh/100km | -9%      |
+|[Audi SQ8 e-tron](../../models/q8-e-tron/variants/#audi-sq8-e-tron)                            | 21.46kWh/100km | -6.7     |
+|[Audi SQ8 e-tron Sportback](../../models/q8-e-tron/variants/#audi-sq8-sportback-e-tron)        | 20.66kWh/100km | -9%      |
+
 ## Audi Q8 e-tron eksteriør
 
-Det vil være et stort antall eksteriøralternativer til Audi Q8 e-tron. Mer enn 50 lakkfarger, to karoseriformer, felger fra 19" - 22", lakkutførelser, forskjellige optikk, speiltyper og mange flere alternativer gjør det mulig å lage ditt unike design.
+[Gå til eksteriørdelen](eksteriør) for å lese mer om eksteriøralternativene
+
+Det vil være et stort antall eksteriøralternativer til Audi Q8 e-tron. Mer enn 50 malingsfarger, to kroppsformer, hjul fra 19" - 22", malingsstiler, forskjellige optikk, speiltyper og mange flere alternativer gjør det mulig å lage ditt unike design.
 
 ## Audi Q8 e-tron interiør
 
-Audi Q8 e-tron vil ha et luksuriøst interiør med mange alternativer. Dette inkluderer fire forskjellige setetyper inkludert seter med massasje og ventilasjon.
+Audi Q8 e-tron har et luksuriøst interiør med mange alternativer. Dette inkluderer fire forskjellige setetyper inkludert seter med massasje og ventilasjon.
 
-Ulike interiørdesign, interiørlys og mye mer slik at du kan tilpasse bilen slik du vil ha den.
+Ulike interiørdesign, interiørlys og mye mer slik at du kan tilpasse bilen slik du vil.
+
+[Gå til interiørdelen](interiør) for å lese mer om de forskjellige interiøralternativene som er tilgjengelige.
 
 ## Audi Q8 e-tron-teknologi
 
-Vorsprung Durch Technik har i mer enn 50 år vært Audis mantra og Audi Q8 e-tron er intet unntak. Den vil bli lastet med avansert teknologi på mange områder som førerassistanse, lys, ladeteknologi og mange flere områder for å gi deg en trygg, komfortabel og luksuriøs reise.
+Vorsprung Durch Technik har på mer enn 50 år vært Audis mantra og Audi Q8 e-tron er intet unntak.
+Audi Q8 e-tron er lastet med avansert teknologi på mange områder som førerassistanse, lys, ladeteknologi og mange flere områder for å gi deg en trygg, komfortabel og luksuriøs reise.
 
-Sammenlignet med Audi e-tron forventes Audi Q8 e-tron å få nye lys og en ny og oppdatert MMI med større hovedskjerm.
+Sammenlignet med Audi e-tron har Audi Q8 e-tron oppgraderte lys og noen nye førerassistentfunksjoner.
 
-
-Bildene under er fra Q8 e-tron prototype brukt på [E-Cannonball](https://e-cannonball.de/)
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/q8light.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/q8lights.jpg" alt="Audi Q8 e-tron with new headlights" title="Audi Q8 e-tron with new headlights">
-    </a>
-    <figcaption><h4>Audi Q8 e-tron med nye lyse</h4></figcaption>
-</figure>
-
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/q8mirror.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/q8mirrors.jpg" alt="Audi Q8 e-tron virtual mirrors" title="Audi Q8 e-tron virtual mirrors">
-    </a>
-    <figcaption><h4>Audi Q8 e-tron virtuelle speil</h4></figcaption>
-</figure>
+[Les mer i Audi Q8 e-tron-teknologidelen](technology)
 
 ## Audi Q8 e-tron dimensjoner
 
-Dimensjonene på Audi Q8 e-tron vil være de samme som Audi e-tron.
+Dimensjonene på Audi Q8 e-tron er nesten identiske med Audi e-tron.
+
+[Gå til dimensjoner](dimensions)
 
 ## Transportmuligheter
 
 I tillegg til de 5 setene har Q8 e-tron både bagasjerom og frunk i tillegg til takoppbevaring og tilhengermuligheter.
 
-Videoen under viser testing av 2023 Audi Q8 e-tron 65 prototype.
-
-{{< youtube uDzsA8CKdFY >}}
-
-{{% children description="true" depth="1" %}}
-
-## Bilder
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_2s.jpg" alt="Audi Q8 e-tron 55 prototype" title="Audi Q8 e-tron 55 prototype">
-    </a>
-    <figcaption><h4>Audi Q8 e-tron 55 s-line prototype</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_3s.jpg" alt="Audi Q8 e-tron 55 prototype" title="Audi Q8 e-tron 55 prototype">
-    </a>
-    <figcaption><h4>Audi Q8 e-tron 55 s-line prototype</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_4s.jpg" alt="Audi Q8 e-tron 55 prototype" title="Audi Q8 e-tron 55 prototype">
-    </a>
-    <figcaption><h4>Audi Q8 e-tron 55 s-line prototype</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_5s.jpg" alt="Audi Q8 e-tron 55 prototype" title="Audi Q8 e-tron 55 prototype">
-    </a>
-    <figcaption><h4>Audi Q8 e-tron 55 s-line prototype</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_6s.jpg" alt="Audi Q8 e-tron 55 prototype" title="Audi Q8 e-tron 55 prototype">
-    </a>
-    <figcaption><h4>Audi Q8 e-tron 55 s-line prototype</h4></figcaption>
-</figure>
-
-
-{{< youtube RqMmaZbyeGQ >}}
+[Les mer i delen for transportegenskaper](transportation)

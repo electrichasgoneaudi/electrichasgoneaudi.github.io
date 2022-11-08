@@ -1,6 +1,6 @@
 ---
-title: Audi Q8 e-tron battery
-linktitle: Battery
+title: Audi Q8 e-tron batteri
+linktitle: Batteri
 description: Batteriet på Audi Q8 e-tron er tilgjengelig i to forskjellige størrelser. 95kWh og 114kWh brutto.
 weight: 7
 ---
