@@ -226,34 +226,28 @@ Fargekode: **L5**
 
 Fargekode: **Z7**
 
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_6s.jpg" alt="Audi e-tron 55 i Chronos Grey med sort optikk" title="Audi e-tron 55 i Chronos Grey med sort optikk">
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_chronosgrey_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_chronosgrey_1_st.jpg" alt="Audi e-tron 55 in Chronos Grey with black optics" title="Audi e-tron 55 in Chronos Grey with black optics">
     </a>
-    <figcaption><h4>Audi e-tron 55 i Chronos Grey med sort optikk</h4></figcaption>
-</figur>
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_3s.jpg" alt="Audi e-tron 55 i Chronos Grey med sort optikk" title="Audi e-tron 55 i Chronos Grey med sort optikk">
-    </a>
-    <figcaption><h4>Audi e-tron 55 i Chronos Grey med sort optikk</h4></figcaption>
-</figur>
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_4s.jpg" alt="Audi e-tron 55 i Chronos Grey med sort optikk" title="Audi e-tron 55 i Chronos Grey med sort optikk">
-    </a>
-    <figcaption><h4>Audi e-tron 55 i Chronos Grey med sort optikk</h4></figcaption>
-</figur>
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_5s.jpg" alt="Audi e-tron 55 i Chronos Grey med sort optikk" title="Audi e-tron 55 i Chronos Grey med sort optikk">
-    </a>
-    <figcaption><h4>Audi e-tron 55 i Chronos Grey med sort optikk</h4></figcaption>
-</figur>
+    <figcaption><h4>Audi Q8 55 e-tron in Chronos Grey with black optics</h4></figcaption>
+</figure>
 
-Se detaljert video  av @audifansite
 
-{{< youtube ONXvAX2q2-s >}}
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_chronosgrey_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_chronosgrey_2_st.jpg" alt="Audi e-tron 55 in Chronos Grey with black optics" title="Audi e-tron 55 in Chronos Grey with black optics">
+    </a>
+    <figcaption><h4>Audi Q8 55 e-tron in Chronos Grey with black optics</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_chronosgrey_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_chronosgrey_3_st.jpg" alt="Audi e-tron 55 in Chronos Grey with black optics" title="Audi e-tron 55 in Chronos Grey with black optics">
+    </a>
+    <figcaption><h4>Audi Q8 55 e-tron in Chronos Grey with black optics</h4></figcaption>
+</figure>
 
 ### Tyfongrå metallic
 
@@ -369,6 +363,24 @@ Fargekode: **S1**
     </a>
     <figcaption><h4>Audi e-tron 55 i Galaxy Blue</h4></figcaption>
 </figur>
+
+### Ultra Blue
+
+Color Code: **LG5C**
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_ultrablue.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_ultrablue_st.jpg" alt="Audi e-tron 55 in Galaxy Blue" title="Audi e-tron 55 in Galaxy Blue">
+    </a>
+    <figcaption><h4>Audi SQ8 e-tron Ultra Blue</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_ultrablue_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_ultrablue_2_st.jpg" alt="Audi e-tron 55 in Galaxy Blue" title="Audi e-tron 55 in Galaxy Blue">
+    </a>
+    <figcaption><h4>Audi SQ8 e-tron Ultra Blue</h4></figcaption>
+</figure>
 
 ### Antiguablå metallic
 

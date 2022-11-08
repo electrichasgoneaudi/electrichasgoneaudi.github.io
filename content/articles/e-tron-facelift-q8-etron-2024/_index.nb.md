@@ -376,3 +376,8 @@ Nedenfor finner du noen videoer av de nye modellene. I tillegg finner du mer i [
 ### Audi SQ8 e-tron in ultra blue
 
 {{< youtube VQIl8BN30uM >}}
+
+
+## WORLD PREMIERE! 2023 AUDI SQ8 E-TRON SPORTBACK - NEW NAME & LOOK, WAY BIGGER RANGE AND BATTERY
+
+{{< youtube 6cXS7g8HL4A >}}
