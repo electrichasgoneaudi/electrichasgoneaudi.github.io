@@ -145,9 +145,9 @@ Diagrammet viser forbruket for alle helelektriske SUV fra Audi.
     <figcaption><h4>WLTP consumption all electric Audi SUV</h4></figcaption>
 </figure>
 
-I Norge vil det ikke i utgangspunktet selges modeller med så lavt utstyrsnivå. Som på Audi e-tron vil Advanced være minimum nivå på 50 og 55 og SQ8 har litt mer standardutstyr i Norge.
+I Norge vil det ikke i utgangspunktet selges modeller med så lavt utstyrsnivå. Som på Audi e-tron vil Advanced utstyrsnivå være minimum nivå på 50 og 55 og SQ8 har litt mer standardutstyr i Norge.
 
-For advance modellene har vi følgende tall på Audi e-tron og Audi Q8 e-tron for tilsvarende utstyre modeller. Som man ser så øker den relative forskjellen med mer utstyr.
+For Advance modellene har vi følgende tall på Audi e-tron og Audi Q8 e-tron for tilsvarende utstyre modeller. Som man ser så øker den relative forskjellen med mer utstyr.
 
 |Variant                                                                                            |  WLTP rekkevidde                                                                         |Endring|
 |-------------------------------                                                                        |-----------|-------|

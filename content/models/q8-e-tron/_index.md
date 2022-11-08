@@ -112,39 +112,5 @@ In addition to the 5 seats, the Q8 e-tron has both a trunk and a frunk in additi
 
 ## Images and videos
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_2s.jpg" alt="Audi Q8 e-tron 55 prototype" title="Audi Q8 e-tron 55 prototype">
-    </a>
-    <figcaption><h4>Audi Q8 e-tron 55 s-line prototype</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_3s.jpg" alt="Audi Q8 e-tron 55 prototype" title="Audi Q8 e-tron 55 prototype">
-    </a>
-    <figcaption><h4>Audi Q8 e-tron 55 s-line prototype</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_4s.jpg" alt="Audi Q8 e-tron 55 prototype" title="Audi Q8 e-tron 55 prototype">
-    </a>
-    <figcaption><h4>Audi Q8 e-tron 55 s-line prototype</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_5s.jpg" alt="Audi Q8 e-tron 55 prototype" title="Audi Q8 e-tron 55 prototype">
-    </a>
-    <figcaption><h4>Audi Q8 e-tron 55 s-line prototype</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/cannonball_6s.jpg" alt="Audi Q8 e-tron 55 prototype" title="Audi Q8 e-tron 55 prototype">
-    </a>
-    <figcaption><h4>Audi Q8 e-tron 55 s-line prototype</h4></figcaption>
-</figure>
 
 {{< youtube RqMmaZbyeGQ >}}
