@@ -274,38 +274,26 @@ Audi sport wheels for e-tron 60S. Part No: **U95** Tires 285/40 R21
 Audi Sport alloy wheels. Tires 265/40 R22  Part No: 54L
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_54L_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_54L_3s.jpg" alt="22 inch x 9.5J '5-spoke structured'" title="22 inch x 9.5J '5-spoke structured'">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/54l_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/54l_1_st.jpg" alt="22 inch x 9.5J '5-spoke structured'" title="22 inch x 9.5J '5-spoke structured'">
     </a>
     <figcaption><h4>22 inch x 9.5J '5-spoke structured'</h4></figcaption>
 </figure>
 
+## 22" 5-arm design
+
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_54L_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_54L_1s.jpg" alt="22 inch x 9.5J '5-spoke structured'" title="22 inch x 9.5J '5-spoke structured'">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/unknown_1.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/unknown_1_st.jpeg" alt="22 inch 5-arms interferenz-design" title="22 inch 5-arms interferenz-design">
     </a>
-    <figcaption><h4>22 inch x 9.5J '5-spoke structured'</h4></figcaption>
+    <figcaption><h4>22 inch 5-arms design</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_54L_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_54L_2s.jpg" alt="22 inch x 9.5J '5-spoke structured'" title="22 inch x 9.5J '5-spoke structured'">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/unknown_2.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/unknown_2_st.jpeg" alt="22 inch 5-arms interferenz-design" title="22 inch 5-arms interferenz-design">
     </a>
-    <figcaption><h4>22 inch x 9.5J '5-spoke structured'</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_54L_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_54L_4s.jpg" alt="22 inch x 9.5J '5-spoke structured'" title="22 inch x 9.5J '5-spoke structured'">
-    </a>
-    <figcaption><h4>22 inch x 9.5J '5-spoke structured'</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_54L_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_54L_5s.jpg" alt="22 inch x 9.5J '5-spoke structured'" title="22 inch x 9.5J '5-spoke structured'">
-    </a>
-    <figcaption><h4>22 inch x 9.5J '5-spoke structured'</h4></figcaption>
+    <figcaption><h4>22 inch 5-arms design</h4></figcaption>
 </figure>
 
 ## 22" 5-arms interferenz-design
@@ -327,8 +315,23 @@ Audi sport wheels for e-tron 60S. Dimensjon 10,5 J x 22 with 285/35 R 22 tires. 
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_V40_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_V40_3s.jpg" alt="22 inch 5-arms interferenz-design" title="22 inch 5-arms interferenz-design">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/v40black_1.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/v40black_1_st.jpeg" alt="22 inch 5-arms interferenz-design" title="22 inch 5-arms interferenz-design">
     </a>
-    <figcaption><h4>22" 5-arms interferenz-design</h4></figcaption>
+    <figcaption><h4>22" 5-arms interferenz-design black</h4></figcaption>
 </figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/v40black_2.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/v40black_2_st.jpeg" alt="22 inch 5-arms interferenz-design" title="22 inch 5-arms interferenz-design">
+    </a>
+    <figcaption><h4>22" 5-arms interferenz-design black</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/v40black_3.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/v40black_3_st.jpeg" alt="22 inch 5-arms interferenz-design" title="22 inch 5-arms interferenz-design">
+    </a>
+    <figcaption><h4>22" 5-arms interferenz-design black</h4></figcaption>
+</figure>
+

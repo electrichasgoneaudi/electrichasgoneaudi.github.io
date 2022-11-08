@@ -1,49 +1,35 @@
 ---
 title: Audi Q8 e-tron optics and single-frame-grill
 linktitle: Optics & Grill
-description: Audi e-tron can be deliverd with standard or black optics package. The black optics package contains gloss black front, rails and window rims. 
+description: Audi Q8 e-tron can be deliverd with standard or black optics package and grill in different colors. 
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/optics/standardoptics_florett.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/optics/standardoptics_floretts.png" alt="Standard optics - Florett Silver" title="Standard optics - Florett Silver">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/optics/silveroptics_greygrille.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/optics/silveroptics_greygrille_st.jpg" alt="Standard optics - Grey grille" title="Standard optics - Grey grille">
     </a>
-    <figcaption><h4>Standard optics - Florett Silver</h4></figcaption>
+    <figcaption><h4>Standard optics - Grey grille</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/optics/blackoptics_florett.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/optics/blackoptics_floretts.png" alt="Black optics - Florett Silver" title="Black optics - Florett Silver">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/optics/black_optics_black_grille.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/optics/black_optics_black_grille_st.jpeg" alt="Black optics with black grille" title="Black optics with black grille">
     </a>
-    <figcaption><h4>Black optics - Florett Silver</h4></figcaption>
+    <figcaption><h4>Black optics with black grille</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/optics/standardoptics_florett_sline.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/optics/standardoptics_florett_slines.png" alt="Standard optics - Florett Silver S-line" title="Standard optics - Florett Silver S-line">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/optics/black_optics_silver_grille.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/optics/black_optics_silver_grille_st.jpeg" alt="Black optics- silver grille" title="Black optics- silver grille">
     </a>
-    <figcaption><h4>Standard optics - Florett Silver S-line</h4></figcaption>
+    <figcaption><h4>Black optics- silver grille</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/optics/blackoptics_florett_sline.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/optics/blackoptics_florett_slines.png" alt="Black optics - Florett Silver S-line" title="Black optics - Florett Silver S-line">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/optics/blackoptics_bodycolor_grille.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/optics/blackoptics_bodycolor_grille_st.jpg" alt="Black optics - body color grille" title="Black optics - body color grille">
     </a>
-    <figcaption><h4>Black optics - Florett Silver S-line</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/optics/standaroptics_side.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/optics/standaroptics_sides.png" alt="Standard optics - Florett Silver" title="Standard optics - Florett Silver">
-    </a>
-    <figcaption><h4>Standard optics - Florett Silver</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/optics/blackoptics_side.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/optics/blackoptics_sides.png" alt="Black optics - Florett Silver" title="Black optics - Florett Silver">
-    </a>
-    <figcaption><h4>Black optics - Florett Silver</h4></figcaption>
+    <figcaption><h4>Black optics - body color grille</h4></figcaption>
 </figure>

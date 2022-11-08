@@ -1,32 +1,18 @@
 ---
-title: Audi e-tron lakkerte kalipere
+title: Audi Q8 e-tron lakkerte kalipere
 linktitle: Lakkerte kalipere
-description: Du kan bestille oransje lakkerte bremsekalipere på Audi e-tron.
+description: Du kan bestille røde lakkerte bremsekalipere på Audi Q8 e-tron.
 weight: 8
 ---
 <!-- markdownlint-disable MD033 -->
 
 Koden er **PC2** på e-tron 55/50 og **PC4** på e-tron S.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paintedcalibers/paintedcalibers.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paintedcalibers/paintedcaliberss.png" alt="Lakkerte kalipere på e-tron S" title="Lakkerte kalipere på e-tron S">
-    </a>
-    <figcaption><h4>Lakkerte kalipere på e-tron S</h4></figcaption>
-</figure>
-
-Fargekoden i forskjellige formater er.
-
-- HEX f36f21
-- RGB 243 111 33
-- Lab 63 49 64
-- CMYK 0 70 98 0
-- HSB 22 86 95
-- NCS S1080 Y50R
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paintedcalibers/paintedcalipers2.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paintedcalibers/paintedcalipers2s.png" alt="Lakkerte kalipere på e-tron S" title="Lakkerte kalipere på e-tron S">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paintedcalibers/red_caliber.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paintedcalibers/red_caliber_st.jpeg" alt="Painted Calibers på e-tron S" title="Painted Calibers på e-tron S">
     </a>
-    <figcaption><h4>Lakkerte kalipere på e-tron S</h4></figcaption>
+    <figcaption><h4>Lakkerte bremsekalipere på Q8 e-tron</h4></figcaption>
 </figure>
+

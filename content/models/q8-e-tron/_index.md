@@ -39,7 +39,7 @@ Audi Q8 e-tron is available in 6 variants.
     <figcaption><h4>Audi Q8 e-tron 55 and Audi Q8 Sportback e-tron</h4></figcaption>
 </figure>
 
-Go to our [Audi e-tron variant sections](variants) for more details.
+Go to our [Audi Q8 e-tron variant sections](variants) for more details.
 
 ## Audi Q8 e-tron drivetrain: battery and motors
 
@@ -83,7 +83,7 @@ There will be a huge number of exterior options to the Audi Q8 e-tron. More than
 
 ## Audi Q8 e-tron interior
 
-Audi Q8 e-tron will have luxury interior with many options. This includes four different seat types including seats with massage and ventilation.
+Audi Q8 e-tron has have luxury interior with many options. This includes four different seat types including seats with massage and ventilation.
 
 Different interior designs, interior lights, and many more so that you can personalize the car as you like it.
 
@@ -100,7 +100,7 @@ Compared to Audi e-tron the Audi Q8 e-tron have upgraded lights and some new dri
 
 ## Audi Q8 e-tron dimensions
 
-The dimensions on the Audi Q8 e-tron will be the same as the Audi e-tron.
+The dimensions on the Audi Q8 e-tron almost identical as the Audi e-tron.
 
 [Go to dimensions](dimensions)
 
@@ -109,8 +109,3 @@ The dimensions on the Audi Q8 e-tron will be the same as the Audi e-tron.
 In addition to the 5 seats, the Q8 e-tron has both a trunk and a frunk in addition to roof storage and trailer capabilities.
 
 [Read more in the transportation capabilities section](transportation)
-
-## Images and videos
-
-
-{{< youtube RqMmaZbyeGQ >}}
