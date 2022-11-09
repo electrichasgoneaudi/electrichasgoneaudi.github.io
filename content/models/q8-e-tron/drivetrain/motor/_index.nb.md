@@ -9,12 +9,23 @@ weight: 7
 
 De har designet to [induksjonsmotorer](https://en.wikipedia.org/wiki/Induction_motor) (asynkrone motorer) som brukes i de 3 forskjellige konfigurasjonene.
 
-Audi e-tron 50 quattro, e-tron 55 quattro og e-tron S bruker de samme motorene, men i forskjellig konfigurasjon.
+For Audi Q8 e-tron modifiserte Audi den asynkrone motoren på bakakselen.
+
+I stedet for 12 viklinger som genererer det elektromagnetiske feltet, er det nå 14. Som et resultat genererer motoren et sterkere magnetfelt med tilsvarende strømforbruk, noe som gir mer dreiemoment. Som et resultat krever den elektriske motoren mindre energi for å generere samme dreiemoment hvis dette ikke er nødvendig. Denne endringen reduserer forbruket og øker rekkevidden.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/motor/windings.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/motor/windings_st.jpg" alt="Motor configuration" title="Motor configuration">
+    </a>
+    <figcaption><h4>Improved rear motor with 14 windings</h4></figcaption>
+</figure>
+
+Audi Q8 50 e-tron, Q8 55 e-tron og SQ8 e-tron bruker de samme motorene, men i forskjellig konfigurasjon.
 
 Det er en med 247Nm dreiemoment kalt 250 og en med 314Nm dreiemoment kalt 320.
 De brukes i forskjellige konfigurasjoner på de forskjellige modellene.
 
-På e-tron 50 på e-tron 55 har de 250 foran med parallell (APA250) aksel og 320 bak med koaksial aksel (ATA320). I e-tron S har de 320 foran (APA320) og to 250 bak (ATA250)
+På Q8 50 e-tron og på Q8 55 e-tron har de 250 foran med parallell (APA250) aksel og 320 bak med koaksial aksel (ATA320). I e-tron S har de 320 foran (APA320) og to 250 bak (ATA250)
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorconfig_1.png">

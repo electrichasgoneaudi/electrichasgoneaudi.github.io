@@ -83,7 +83,6 @@ The motors have a 2 stage plantaery gear differentsial
     <figcaption><h4>Q8 50/55 e-tron drivetrain with electric motors</h4></figcaption>
 </figure>
 
-
 {{< youtube pX6gu9vakmY >}}
 
 ### Audi SQ8 e-tron
