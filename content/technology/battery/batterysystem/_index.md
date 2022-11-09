@@ -104,6 +104,10 @@ In the table below you see the pack performance. See how Q4 has a higher density
 | [Q4 e-tron 50](/models/q4-e-tron/drivetrain/battery/#battery-q4-40-e-tron-and-q4-50-e-tron) | 82kWh | 77kWh | 125kW | 493kg | 0.188 |
 | [Q4 e-tron 40](/models/q4-e-tron/drivetrain/battery/#battery-q4-40-e-tron-and-q4-50-e-tron) | 82kWh | 77kWh | 125kW | 493kg | 0.188 |
 | [Q4 e-tron 35](/models/q4-e-tron/drivetrain/battery/#battery-q4-35) | 55kWh | 52kWh | 100kW | 344kg | 0.160 |
+| [Q8 50 e-tron](/models/q8-e-tron/drivetrain/battery/#battery-audi-e-tron-55) | 95kWh | 89kWh | 150kW | 699kg | 0.136 |
+| [Q8 55 e-tron / SQ8](/models/q8-e-tron/drivetrain/battery/#battery-audi-e-tron-55) | 114kWh | 104Wh | 170kW | 727kg | 0.157 |
+
+
 
 *1 Audi Q6 details are not yet confirmed.
 
