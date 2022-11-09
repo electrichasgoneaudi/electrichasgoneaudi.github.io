@@ -118,7 +118,7 @@ The battery and all of its parameters, such as charge status, power output, and 
 
 The battery junction box (BJB), into which the high-voltage relays and fuses are integrated, is the electrical interface to the vehicle. Enclosed in a die-cast aluminum housing, it is located in the front section of the battery system. Data exchange between the BMC, the CMCs, and the BJB is via a separate bus system.
 
-{{< youtube gzXjFpA8N7U >}}
+{{< youtube UxhGAj6c84Q >}}
 
 ## Charging performance
 
