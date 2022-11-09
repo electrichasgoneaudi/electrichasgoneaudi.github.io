@@ -226,6 +226,15 @@ Audi sport wheels for Audi e-tron. Part No 42P. Tires 265/45 R21
     <figcaption><h4>21 inch 9.5J 10-spoke rotor gloss Anthracite black</h4></figcaption>
 </figure>
 
+## 21" Aero black
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/q8new21black.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/q8new21black_st.jpg" alt="21 inch aero black" title="21 inch aero black">
+    </a>
+    <figcaption><h4>21 inch aero black</h4></figcaption>
+</figure>
+
 ## 21 inch  10.5J 5Y design
 
 Audi sport wheels for Audi e-tron S. Part no **U99** Tires 285/40 R21
