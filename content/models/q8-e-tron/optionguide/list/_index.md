@@ -1,9 +1,11 @@
 ---
-title: Audi e-tron full options list
+title: Audi Q8 e-tron full options list
 linktitle: Full option list
 description: Here you find the complete option list with link to details about each option
 weight: 100
 ---
+
+Not 100% confirmed yet
 
 ## Paint Color & Paint trim
 
@@ -296,7 +298,6 @@ You can choose between serveral seat types and seat materials. Click links below
 | [360 camera](../../technology/drivingassistance/360camera/) |  |  PCZ |
 | [Traffic sign recognition](../../technology/drivingassistance/trafficsignrecognition/) |  |  |
 | Lane assist package |  Includes [side assist](../../technology/drivingassistance/sideassist/), [Exit warning](../../technology/drivingassistance/exitwarning/), [cross traffic rear](../../technology/drivingassistance/crosstrafficassistrear/),  [pre sense rear](../../technology/drivingassistance/presenserear/) | PCH |
-| [Night vision](../../technology/drivingassistance/nightvision/) |   |  9R1 |
 
 ## Drivertrain & brakes
 

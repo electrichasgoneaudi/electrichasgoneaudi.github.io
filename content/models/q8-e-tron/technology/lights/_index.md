@@ -46,7 +46,8 @@ In the Audi e-tron Sportback, the digital light that will expand the offering in
 
 The optionID is **PXC** for Digital matrix LED Headlights.
 
-<script src="https://www.audimedia.tv/embed.js" id="amc-video-5298-en"></script>
+
+{{< youtube J47JrqqfP6Y >}}
 
 ## Entry Lights
 

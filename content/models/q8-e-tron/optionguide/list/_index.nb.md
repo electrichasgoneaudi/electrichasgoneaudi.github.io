@@ -1,9 +1,11 @@
 ---
-title: Audi e-tron utstyrsliste
+title: Audi Q8 e-tron utstyrsliste
 linktitle: Utstyrliste
-description: Her finner du den komplette listen over standard- og ekstrautstyr til Audi e-tron
+description: Her finner du den komplette listen over standard- og ekstrautstyr til Audi Q8 e-tron
 weight: 100
 ---
+
+Not 100% confirmed
 
 ## Lakkfarger og lakkutførelse
 
@@ -279,7 +281,7 @@ Du kan velge mellom flere varianter av seter og setematerialer på Audi e-tron. 
 | [Audi Phone Box](../../technology/phonebox/) |  | 9ZE | 
 | [Audi Smartphone interface](../../technology/uiandoperations/smartphoneinterface/) |  |  1U1 |
 | Bluetooth-grensesnitt | Standard |  |
-| AAudi connect nødanrop og service inkl. e-tron bilstyring |   |  |
+| Audi connect nødanrop og service inkl. e-tron bilstyring |   |  |
 
 ## Assistentsystemer
 
@@ -296,7 +298,7 @@ Du kan velge mellom flere varianter av seter og setematerialer på Audi e-tron. 
 | [Kamerabaserte visning av fartsgrenser /trafikkskiltgjenkjenning](../../technology/drivingassistance/trafficsignrecognition/) |  |  |
 | [Audi active lane assist](../../technology/drivingassistance/activelaneassist/)| Standard | |
 | Feltskiftepakke |  Inkludes [Filskifteassistent](../../technology/drivingassistance/sideassist/), [Utstigningsvarsling](../../technology/drivingassistance/exitwarning/), [Assistent for kryssende trafikk bak](../../technology/drivingassistance/crosstrafficassistrear/),  [pre sense rear](../../technology/drivingassistance/presenserear/) | PCH |
-| [Nattsynsassistent](../../technology/drivingassistance/nightvision/) |   |  9R1 |
+
 
 ## Understell/Bremser
 

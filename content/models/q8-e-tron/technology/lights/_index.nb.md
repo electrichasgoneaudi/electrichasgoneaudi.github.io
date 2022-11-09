@@ -48,7 +48,7 @@ trygghet. I tillegg bruker orienteringslyset mørke områder som er maskert fra 
 
 Alternativ-IDen er **PXC** for LED-frontlykter med digital matrise.
 
-<script src="https://www.audimedia.tv/embed.js" id="amc-video-5298-en"></script>
+{{< youtube J47JrqqfP6Y >}}
 
 ## Innstegslys
 
