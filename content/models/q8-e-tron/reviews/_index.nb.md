@@ -8,3 +8,7 @@ weight: 20
 ## Autogefuhl new Audi Q8 e-tron vs SQ8 Sportback etron REVEAL - striking back against BMW iX and EQE SUV
 
 {{< youtube wwcEZosp5SM >}}
+
+## Fully Charged Show: This Is Audi’s Most Advanced Electric Car Yet!
+
+{{< youtube tpKKOTrVr5w >}}

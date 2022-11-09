@@ -6,16 +6,30 @@ weight: 7
 ---
 <!-- markdownlint-disable MD033 -->
 
+
 ### Motor configuration
 
-They have designed two [induction motors](https://en.wikipedia.org/wiki/Induction_motor) (asynchronous motors) that are used in the 3 different configurations.
+They have designed two [induction motors](https://en.wikipedia.org/wiki/Induction_motor) (asynchronous motors) that are used in the 3 different configurations. The motors used in Audi Q8 e-tron is an improved version of the one used in [Audi e-tron](../../../e-tron/drivetrain/motor/).
 
-Audi e-tron 50 quattro, e-tron 55 quattro and e-tron S uses the same motors but in different configuration.
+For Audi Q8 e-tron, Audi modified the asynchronous motor on the rear axle.
+
+Instead of 12 coils generating the electromagnetic field, there are now 14. As a result, the motor generates a stronger magnetic field with similar electricity input, allowing for more torque. As a result, the electric motor requires less energy to generate torque if this isn’t needed. This change lowers consumption and increases range.
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/motor/windings.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/motor/windings_st.jpg" alt="Motor configuration" title="Motor configuration">
+    </a>
+    <figcaption><h4>Improved rear motor with 14 windings</h4></figcaption>
+</figure>
+
+
+Audi Q8 50 e-tron, Q8 55 e-tron and SQ8 e-tron uses the same motors but in different configuration.
 
 It is one with 247Nm torque called 250 and one with 314Nm torque called 320.
 They are used in different configurations on the different models.
 
-On e-tron 50 on e-tron 55 they have the 250 in front with a parallel (APA250) axle and the 320 rear with coaxial axle (ATA320). In e-tron S they have the 320 in front (APA320) and two 250 in the back (ATA250)
+On Q8 50 e-tron on Q8 55 e-tron they have the 250 in front with a parallel (APA250) axle and the 320 rear with coaxial axle (ATA320). In SQ8 e-tron they have the 320 in front (APA320) and two 250 in the back (ATA250)
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/motorconfig_1.png">
@@ -42,9 +56,9 @@ The table below summarizes the performance for the version
 
 ## Drivetrain motor setup
 
-### Audi e-tron 55 & Audi e-tron 50 motor setup
+### Audi Q8 50 e-tron & Audi Q8 50 e-tron motor setup
 
-For both e-tron 50 and e-tron 55 Audi uses the AKA320 drive unit for the rear. This is a drive unit with 314nm torque (355nm with boost on e-tron 55)  and it has a coaxial configuration on the axels (axels goes through the unit)
+For both Q8 50 e-tron and Q8 55 e-tron  Audi uses the AKA320 drive unit for the rear. This is a drive unit with 314nm torque (355nm with boost on Q8 55 e-tron)  and it has a coaxial configuration on the axels (axels goes through the unit)
 
 The motors have a 2 stage plantaery gear differentsial
 
@@ -66,8 +80,11 @@ The motors have a 2 stage plantaery gear differentsial
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/drivetrain55_50.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/motor/drivetrain55_50s.jpg" alt="e-tron 50/55 drivetrain with electric motors" title="e-tron 50/55 drivetrain with electric motors">
     </a>
-    <figcaption><h4>e-tron 50/55 drivetrain with electric motors</h4></figcaption>
+    <figcaption><h4>Q8 50/55 e-tron drivetrain with electric motors</h4></figcaption>
 </figure>
+
+
+{{< youtube pX6gu9vakmY >}}
 
 ### Audi SQ8 e-tron
 

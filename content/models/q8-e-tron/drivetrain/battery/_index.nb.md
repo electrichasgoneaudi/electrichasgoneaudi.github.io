@@ -114,7 +114,7 @@ Batteriet og alle dets parametere, som ladestatus, strømutgang og termisk styri
 
 Batterikoblingsboksen (BJB), som høyspentreléene og sikringene er integrert i, er det elektriske grensesnittet til kjøretøyet. Innelukket i et støpt aluminiumshus, er den plassert i den fremre delen av batterisystemet. Datautveksling mellom BMC, CMC og BJB skjer via et separat bussystem.
 
-{{< youtube UxhGAj6c84Q >}}
+{{< youtube n64NPVqRrVI >}}
 
 ## Ladeytelse
 
