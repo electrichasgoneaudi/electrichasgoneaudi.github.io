@@ -6,15 +6,16 @@ weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
 
-Foreløpig vises skisse for Audi e-tron. Bildet oppdateres når Audi frigjør dette. 
+Foreløpig vises skisse for Audi e-tron sportback. Bildet oppdateres når Audi frigjør dette. 
 
 ## Audi Q8 e-tron
 
+
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/dimensions/dimension.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/dimensions/dimensions.png" alt="Dimensjoner e-tron" title="Dimensjoner e-tron">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/dimensions/suvdim.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/dimensions/suvdim_st.jpg" alt="Dimensions e-tron" title="Dimensions e-tron">
     </a>
-    <figcaption><h4>Dimensjoner e-tron</h4></figcaption>
+    <figcaption><h4>Dimensions Q8 e-tron</h4></figcaption>
 </figure>
 
 ## Audi Q8 Sportback e-tron 
