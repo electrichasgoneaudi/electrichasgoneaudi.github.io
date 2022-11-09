@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron lysteknologi
+title: Audi Q8 e-tron lysteknologi
 linktitle: Lys
-description: Audi e-tron har flere avanserte lysmuligheter
+description: Audi Q8 e-tron har flere avanserte lysmuligheter
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
@@ -42,7 +42,7 @@ Med de digitale matrix LED-frontlyktene som topputstyr, presenterer Audi en verd
 </figure>
 
 
-I Audi e-tron Sportback utfører det digitale lyset som vil utvide tilbudet i midten av 2020, flere oppgaver. Den kan generere dynamiske forlate- og komme-hjem-animasjoner som vises som projeksjoner på en vegg eller på bakken. Denne presentasjonen forvandler området foran bilen til en nøye opplyst scene. Ikke bare leverer det digitale lyssystemet sving-, by- og motorveibelysning som versjoner av nærlyset med eksepsjonell presisjon, det supplerer også fjernlyset ved å maskere andre trafikanter med enda større nøyaktighet. Fremfor alt tilbyr den imidlertid innovative funksjoner som kjørefeltlys og orienteringslys. På motorveier skaper kjørefeltlyset et teppe av lys som lyser opp førerens egen kjørefelt sterkt og justerer seg dynamisk når han eller hun skifter kjørefelt. På denne måten forbedrer det førerens bevissthet om det aktuelle kjørefeltet og bidrar til forbedrede veier.
+I Audi Q8 e-tron Sportback utfører det digitale lyset flere oppgaver. Den kan generere dynamiske forlate- og komme-hjem-animasjoner som vises som projeksjoner på en vegg eller på bakken. Denne presentasjonen forvandler området foran bilen til en nøye opplyst scene. Ikke bare leverer det digitale lyssystemet sving-, by- og motorveibelysning som versjoner av nærlyset med eksepsjonell presisjon, det supplerer også fjernlyset ved å maskere andre trafikanter med enda større nøyaktighet. Fremfor alt tilbyr den imidlertid innovative funksjoner som kjørefeltlys og orienteringslys. På motorveier skaper kjørefeltlyset et teppe av lys som lyser opp førerens egen kjørefelt sterkt og justerer seg dynamisk når han eller hun skifter kjørefelt. På denne måten forbedrer det førerens bevissthet om det aktuelle kjørefeltet og bidrar til forbedrede veier.
 
 trygghet. I tillegg bruker orienteringslyset mørke områder som er maskert fra lysstrålen for å prediktivt vise kjøretøyets posisjon i kjørefeltet, og støtter derved – spesielt på smale veier eller i motorveisanlegg – den trygge kjørefeltsentreringsassistenten. Markeringslysfunksjonen brukes også sammen med den valgfrie nattsynsassistenten. Lyset trekker automatisk oppmerksomheten til alle fotgjengere det oppdager, og reduserer dermed faren for å overse fotgjengere i umiddelbar nærhet av kjørefeltet.
 

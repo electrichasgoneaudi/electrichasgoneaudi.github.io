@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron lights technology
+title: Audi Q8 e-tron lights technology
 linktitle: Lights
-description: Audi e-tron has a lot of lightning options
+description: Audi Q8 e-tron has a lot of lightning options
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
@@ -22,11 +22,11 @@ The LEDs in the Matrix LED headlights also assume the function of cornering ligh
 
 Audi introduced the next development stage of this technology, the HD Matrix LED high beam, in the A8 (D5). Each headlight integrates 32 small, individually controllable light-emitting diodes. They are arranged in two rows in a common housing. Thanks to the new configuration and to a low beam that is also variable, the HD Matrix LED headlights illuminate the road particularly dynamically and precisely.
 
-HD Matrix LED lights is installed on all e-trons, but you need to buy an option to active it. The optionId is **PX6**
+HD Matrix LED lights is installed on all Q8 e-trons, but you need to buy an option to active it. The optionId is **PX6**
 
 If you dont buy this option when ordering the car you can also buy it as [function on demand](/models/e-tron/technology/fod/) from the myAudi app. Note it requires two packages to get the full matrix experience as described above. The HD Matrix and Light Function package.
 
-See video below how HD Matrix works on an e-tron
+See video below how HD Matrix works on an Audi e-tron
 
 {{< youtube c9L-mwEpTDo >}}
 
@@ -42,7 +42,7 @@ With the digital matrix LED headlights as top-of-the range equipment, Audi prese
     <figcaption><h4>Digital Matrix Head lights</h4></figcaption>
 </figure>
 
-In the Audi e-tron Sportback, the digital light that will expand the offering in mid-2020, performs multiple tasks. It can generate dynamic leaving- and coming-home animations that appear as projections on a wall or on the ground. This presentation transforms the area in front of the car into a carefully illuminated stage. Not only does the digital light system deliver cornering, city, and highway lighting as versions of the low-beam light with exceptional precision, it also supplements the high-beam light by masking out other road users with even greater accuracy. Above all, however, it offers innovative functions such as lane light and orientation light. On freeways, the lane light creates a carpet of light that illuminates the driver’s own lane brightly and adjusts dynamically when he or she changes lane. In this way, it improves the driver’s awareness of the relevant lane and contributes to improved road safety. In addition, the orientation light uses darkened areas masked out from the light beam to predictively show the vehicle’s position in the lane, thereby supporting—especially on narrow roads or in highway construction zones—the safe lane centering assist. The marking light function is also used in conjunction with the optional night vision assist. The light automatically draws attention to any pedestrians it detects, thereby reducing the danger of overlooking pedestrians in the immediate vicinity of the lane.
+In the Audi Q8 e-tron Sportback, the digital light performs multiple tasks. It can generate dynamic leaving- and coming-home animations that appear as projections on a wall or on the ground. This presentation transforms the area in front of the car into a carefully illuminated stage. Not only does the digital light system deliver cornering, city, and highway lighting as versions of the low-beam light with exceptional precision, it also supplements the high-beam light by masking out other road users with even greater accuracy. Above all, however, it offers innovative functions such as lane light and orientation light. On freeways, the lane light creates a carpet of light that illuminates the driver’s own lane brightly and adjusts dynamically when he or she changes lane. In this way, it improves the driver’s awareness of the relevant lane and contributes to improved road safety. In addition, the orientation light uses darkened areas masked out from the light beam to predictively show the vehicle’s position in the lane, thereby supporting—especially on narrow roads or in highway construction zones—the safe lane centering assist. The marking light function is also used in conjunction with the optional night vision assist. The light automatically draws attention to any pedestrians it detects, thereby reducing the danger of overlooking pedestrians in the immediate vicinity of the lane.
 
 The optionID is **PXC** for Digital matrix LED Headlights.
 
@@ -51,7 +51,7 @@ The optionID is **PXC** for Digital matrix LED Headlights.
 
 ## Entry Lights
 
-You can order e-tron entry lights option id **9TF**
+You can order Q8 e-tron entry lights option id **9TF**
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lights/entry.jpg">
