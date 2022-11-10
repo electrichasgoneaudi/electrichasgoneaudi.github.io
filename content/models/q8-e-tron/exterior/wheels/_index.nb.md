@@ -118,8 +118,8 @@ Wheels for Audi e-tron. Part No F48. Tires 265/45 R21
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/F48_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/F48_3_st.jpg" alt="21 inch 5 Arm Turbin design" title="21 inch 5 Arm Turbin design">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/F48_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/F48_2_st.jpg" alt="21 inch 5 Arm Turbin design" title="21 inch 5 Arm Turbin design">
     </a>
     <figcaption><h4>21 inch 5 Arm Turbin design</h4></figcaption>
 </figure>

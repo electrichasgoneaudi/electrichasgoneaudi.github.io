@@ -129,8 +129,8 @@ Wheels for Audi e-tron. Part No F48. Tires 265/45 R21
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/F48_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/F48_3_st.jpg" alt="21 inch 5 Arm Turbin design" title="21 inch 5 Arm Turbin design">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/F48_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/F48_2_st.jpg" alt="21 inch 5 Arm Turbin design" title="21 inch 5 Arm Turbin design">
     </a>
     <figcaption><h4>21 inch 5 Arm Turbin design</h4></figcaption>
 </figure>
@@ -147,15 +147,22 @@ Wheels for Audi e-tron. Part No F48. Tires 265/45 R21
 Audi sport wheels for Audi e-tron. Part No 42P. Tires 265/45 R21
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_42P_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_42P_1s.jpg" alt="21 inch 9.5J 10-spoke rotor gloss Anthracite black" title="21 inch 9.5J 10-spoke rotor gloss Anthracite black">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/42P_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/42P_1_st.jpg" alt="21 inch 9.5J 10-spoke rotor gloss Anthracite black" title="21 inch 9.5J 10-spoke rotor gloss Anthracite black">
     </a>
     <figcaption><h4>21 inch 9.5J 10-spoke rotor gloss Anthracite black</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_42P_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_42P_2s.jpg" alt="21 inch 9.5J 10-spoke rotor gloss Anthracite black" title="21 inch 9.5J 10-spoke rotor gloss Anthracite black">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/42P_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/42P_2_st.jpg" alt="21 inch 9.5J 10-spoke rotor gloss Anthracite black" title="21 inch 9.5J 10-spoke rotor gloss Anthracite black">
+    </a>
+    <figcaption><h4>21 inch 9.5J 10-spoke rotor gloss Anthracite black</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/42P_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/42P_3_st.jpg" alt="21 inch 9.5J 10-spoke rotor gloss Anthracite black" title="21 inch 9.5J 10-spoke rotor gloss Anthracite black">
     </a>
     <figcaption><h4>21 inch 9.5J 10-spoke rotor gloss Anthracite black</h4></figcaption>
 </figure>
