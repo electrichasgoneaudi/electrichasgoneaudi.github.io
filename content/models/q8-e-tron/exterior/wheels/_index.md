@@ -59,6 +59,30 @@ Currently we dont have images for all of them on Audi Q8 e-tron. We use pictures
 </figure>
 
 
+## 20" 5-arm aero ring design
+
+ 9 J x 20 med 255/50 R 20 tires. Part No: **42G**
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/42H_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/42H_1_st.jpg" alt="20 inch 5-arm aero ring design" title="20 inch 5-arm aero ring design">
+    </a>
+    <figcaption><h4>20 inch 5-arm aero ring design</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/42H_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/42H_2_st.jpg" alt="20 inch 5-arm aero ring design" title="20 inch 5-arm aero ring design">
+    </a>
+    <figcaption><h4>20 inch 5-arm aero ring design</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/42H_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/42H_3_st.jpg" alt="20 inch 5-arm aero ring design" title="20 inch 5-arm aero ring design">
+    </a>
+    <figcaption><h4>20 inch 5-arm aero ring design</h4></figcaption>
+</figure>
 
 ## 20" 5-arm design
 
@@ -139,6 +163,55 @@ Sold as winter tires by Audi to e-tron S Part No: **CA0**
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_LAMINA21_1s.jpg" alt="21 inch 10-arm lamina design" title="21 inch 10-arm lamina design">
     </a>
     <figcaption><h4>21 inch 10-arm lamina design</h4></figcaption>
+</figure>
+
+## 21 inch 5 arm aero struktur
+
+Wheels for Audi e-tron. Part No F49. Tires 265/45 R21 Part **47C**
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/47C_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/47C_1_st.jpg" alt="21 inch 5 arm aero struktur" title="21 inch 5 arm aero struktur">
+    </a>
+    <figcaption><h4>21 inch 5 arm aero struktur</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/47C_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/47C_2_st.jpg" alt="21 inch 5 arm aero struktur" title="21 inch 5 arm aero struktur">
+    </a>
+    <figcaption><h4>21 inch 5 arm aero struktur</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/47C_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/47C_3_st.jpg" alt="21 inch 5 arm aero struktur" title="21 inch 5 arm aero struktur">
+    </a>
+    <figcaption><h4>21 inch 5 arm aero struktur</h4></figcaption>
+</figure>
+
+## 21 inch 5 arm aero struktur black
+
+Wheels for Audi e-tron. Part No F49. Tires 265/45 R21 Part **47D**
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/47D_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/47D_1_st.jpg" alt="21 inch 5 arm aero struktur black" title="21 inch 5 arm aero struktur black">
+    </a>
+    <figcaption><h4>21 inch 5 arm aero struktur black</h4></figcaption>
+</figure>
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/47D_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/47D_2_st.jpg" alt="21 inch 5 arm aero struktur black" title="21 inch 5 arm aero struktur black">
+    </a>
+    <figcaption><h4>21 inch 5 arm aero struktur black</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/47D_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/47D_3_st.jpg" alt="21 inch 5 arm aero struktur black" title="21 inch 5 arm aero struktur black">
+    </a>
+    <figcaption><h4>21 inch 5 arm aero struktur black</h4></figcaption>
 </figure>
 
 ## 21 inch 15 arm design
