@@ -1,5 +1,5 @@
 ---
-title: Audi e-tron paint colors
+title: Audi Q8 e-tron paint colors
 linktitle: Paint
 description: You can choose amongst over 10 standard paint colors and 3 different paint trims.
 weight: 1
@@ -12,7 +12,6 @@ Click below for direct navigation to paint color
 
 - [Glacier white metallic](../../exterior/paint/#glacier-white)
 - [Catalunya redmetallic](../../exterior/paint/#catalunya-red)
-- [Plasma blue metallic](../../exterior/paint/#plasma-blue)
 - [Typhoon grey metallic](../../exterior/paint/#typhoon-grey)
 - [Florett silver metallic](../../exterior/paint/#florett-silver)
 - [Navarra blue metallic](../../exterior/paint/#navarra-blue)
@@ -22,8 +21,8 @@ Click below for direct navigation to paint color
 - [Brilliant black](../../exterior/paint/#brilliant-black)
 - [Mythos black](../../exterior/paint/#mythos-black)
 - [Daytona grey](../../exterior/paint/#daytona-grey)
-- [Antiqua blue](../../exterior/paint/#antiqua-blue)
 - [siam-beige](../../exterior/paint/#siam-beige)
+- [Madeira Brown metallic](../../exterior/paint/#madeira-brown)
 - [manhatten-grey](../../exterior/paint/#manhatten-grey)
 
 In addition you can choose between over 50 [Audi Exclusive paint colors](../../exterior/paint/#audi-exclusive-lakk-farger).
@@ -170,31 +169,6 @@ Color Code: **Y6**
 
 The footage shows driving shots as well as stills of the Audi e-tron S Sportback in the color catalunya red.
 {{< youtube NWJF6w1qECo >}}
-
-### Plasma Blue
-
-Color Code: **3D**
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_1s.jpg" alt="Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color" title="Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color">
-    </a>
-    <figcaption><h4>Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_2s.jpg" alt="Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color" title="Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color">
-    </a>
-    <figcaption><h4>Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_3s.jpg" alt="Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color" title="Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color">
-    </a>
-    <figcaption><h4>Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color</h4></figcaption>
-</figure>
 
 ### Florett Silver
 
@@ -379,24 +353,6 @@ Color Code: **LG5C**
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_ultrablue_2_st.jpg" alt="Audi e-tron 55 in Galaxy Blue" title="Audi e-tron 55 in Galaxy Blue">
     </a>
     <figcaption><h4>Audi SQ8 e-tron Ultra Blue</h4></figcaption>
-</figure>
-
-### Antigua Blue
-
-Color Code: **??**
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_antiguablue_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_antiguablue_1s.jpg" alt="Audi e-tron 55 in Antigua Blue with contrast color" title="Audi e-tron 55 in Antigua Blue with contrast color">
-    </a>
-    <figcaption><h4>Audi e-tron 55 in Antigua Blue with contrast color</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_antiguablue_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_antiguablue_2s.jpg" alt="Audi e-tron 55 S-line in Antigua Blue with black optics" title="Audi e-tron 55 S-line in Antigua Blue with black optics">
-    </a>
-    <figcaption><h4>Audi e-tron 55 S-line in Antigua Blue with black optics</h4></figcaption>
 </figure>
 
 ### Siam Beige

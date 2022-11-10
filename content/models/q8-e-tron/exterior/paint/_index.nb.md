@@ -1,5 +1,5 @@
 ---
-title: Audi e-tron lakkfarger
+title: Audi Q8 e-tron lakkfarger
 linktitle: Lakkfarger
 description: Du kan velge mellom over 10 standard lakkfarger og 3 forskjellige lakkeringsutførelser.
 weight: 1
@@ -12,15 +12,14 @@ Klikk på lenkene for å gå direkte til en farge.
 
 - [Isbrehvit metallic](../../exterior/paint/#isbrehvit-metallic)
 - [Catalunyarød metallic](../../exterior/paint/#catalunyarød-metallic)
-- [Plasmablå metallic](../../exterior/paint/#plasmablå-metallic)
 - [Tyfongrå metallic](../../exterior/paint/#tyfongrå-metallic)
 - [Daytonagrå metallic](../../exterior/paint/#daytonagrå-metallic)
 - [Florettsølv metallic](../../exterior/paint/#florettsølv-metallic)
 - [Navarrablå metallic](../../exterior/paint/#navarrablå-metallic)
 - [Galaxisblå metallic](../../exterior/paint/#galaxisblå-metallic)
-- [Antiquablå metallic](../../exterior/paint/#antiquablå-metallic)
 - [Chronosgrå metallic](../../exterior/paint/#chronosgrå-metallic)
 - [Siambeige metallic](../../exterior/paint/#siambeige-metallic)
+- [Madeira Brown metallic](../../exterior/paint/#madeira-brown)
 - [Manhattengrå metallic](../../exterior/paint/#manhattengrå-metallic)
 - [Brilliantsort](../../exterior/paint/#brilliantsort)
 - [Mythossort](../../exterior/paint/#mythossort-metallic)
@@ -171,31 +170,6 @@ ed med sort optikk</h4></figcaption>
 
 Opptakene viser kjørebilder samt stillbilder av Audi e-tron S Sportback i fargen catalunya red.
 {{< youtube NWJF6w1qECo >}}
-
-### Plasmablå metallic
-
-Fargekode: **3D**
-
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_1s.jpg" alt="Audi e-tron 55 S-line Sportback i plasmablå med kontrastfarge" title="Audi e-tron 55 S-line Sportback i plasmablå med kontrastfarge">
-    </a>
-    <figcaption><h4>Audi e-tron 55 S-line Sportback i plasmablått med kontrastfarge</h4></figcaption>
-</figur>
-
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_2s.jpg" alt="Audi e-tron 55 S-line Sportback i plasmablå med kontrastfarge" title="Audi e-tron 55 S-line Sportback i plasmablå med kontrastfarge">
-    </a>
-    <figcaption><h4>Audi e-tron 55 S-line Sportback i plasmablått med kontrastfarge</h4></figcaption>
-</figur>
-
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_3s.jpg" alt="Audi e-tron 55 S-line Sportback i plasmablå med kontrastfarge" title="Audi e-tron 55 S-line Sportback i plasmablå med kontrastfarge">
-    </a>
-    <figcaption><h4>Audi e-tron 55 S-line Sportback i plasmablått med kontrastfarge</h4></figcaption>
-</figur>
 
 ### Florettsølv metallic
 
@@ -384,24 +358,6 @@ Color Code: **LG5C**
     </a>
     <figcaption><h4>Audi SQ8 e-tron Ultra Blue</h4></figcaption>
 </figure>
-
-### Antiguablå metallic
-
-Fargekode: **??**
-
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_antiguablue_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_antiguablue_1s.jpg" alt="Audi e-tron 55 i Antigua Blue med kontrastfarge" title="Audi e-tron 55 i Antigua Blue med kontrastfarge">
-    </a>
-    <figcaption><h4>Audi e-tron 55 i Antigua Blue med kontrastfarge</h4></figcaption>
-</figur>
-
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_antiguablue_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_antiguablue_2s.jpg" alt="Audi e-tron 55 S-line i Antigua Blue med sort optikk" title="Audi e-tron 55 S-line i Antigua Blue med sort optikk">
-    </a>
-    <figcaption><h4>Audi e-tron 55 S-line i Antigua Blue med sort optikk</h4></figcaption>
-</figur>
 
 ### Siambeige metallic
 
