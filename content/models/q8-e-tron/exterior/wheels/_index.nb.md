@@ -8,6 +8,52 @@ weight: 4
 
 Nedenfor viser felger tilgjengelig. Foreløpig har vi ikke bilder av alle modellene på Q8 e-tron. Her bruker vi bilde av Audi e-tron
 
+## 19" aero design
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/19inch_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/19inch_1_st.jpg" alt="19 inch aero design" title="19 inch aero design">
+    </a>
+    <figcaption><h4>19 inch aero design</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/19inch_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/19inch_2_st.jpg" alt="19 inch aero design" title="19 inch aero design">
+    </a>
+    <figcaption><h4>19 inch aero design</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/19inch_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/19inch_3_st.jpg" alt="19 inch aero design" title="19 inch aero design">
+    </a>
+    <figcaption><h4>19 inch aero design</h4></figcaption>
+</figure>
+
+## 19" aero struktur design
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/19inchstructur_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/19inchstructur_1_st.jpg" alt="19 inch aero struktur design" title="19 inch aero struktur design">
+    </a>
+    <figcaption><h4>19 inch aero struktur design</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/19inchstructur_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/19inchstructur_2_st.jpg" alt="19 inch aero struktur design" title="19 inch aero struktur design">
+    </a>
+    <figcaption><h4>19 inch aero struktur design</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/19inchstructur_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/19inchstructur_3_st.jpg" alt="19 inch aero struktur design" title="19 inch aero struktur design">
+    </a>
+    <figcaption><h4>19 inch aero struktur design</h4></figcaption>
+</figure>
+
 
 ## 20" 5-arm design
 
