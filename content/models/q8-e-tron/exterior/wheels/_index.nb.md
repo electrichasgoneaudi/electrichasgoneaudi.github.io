@@ -131,52 +131,6 @@ Wheels for Audi e-tron. Part No F48. Tires 265/45 R21
     <figcaption><h4>21 inch 5 Arm Turbin design</h4></figcaption>
 </figure>
 
-
-
-## 21 inch 5V Arm design
-
-Wheels for Audi e-tron. Part No F51. Tires 265/45 R21
-
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_F51_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_F51_1s.jpg" alt="21 inch 5V Arm design" title="21 inch 5V Arm design">
-    </a>
-    <figcaption><h4>21 inch 5V Arm design</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_F51_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_F51_2s.jpg" alt="21 inch 5V Arm design" title="21 inch 5V Arm design">
-    </a>
-    <figcaption><h4>21 inch 5V Arm design</h4></figcaption>
-</figure>
-
-## 21 inch 5V Arm design black
-
-Wheels for Audi e-tron. Part No F50. Tires 265/45 R21
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_F50_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_F50_1s.jpg" alt="21 inch 5V Arm design black" title="21 inch 5V Arm design black">
-    </a>
-    <figcaption><h4>21 inch 5V Arm design black</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_F50_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_F50_2s.jpg" alt="21 inch 5V Arm design black" title="21 inch 5V Arm design black">
-    </a>
-    <figcaption><h4>21 inch 5V Arm design black</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_F50_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_F50_3s.jpg" alt="21 inch 5V Arm design black" title="21 inch 5V Arm design black">
-    </a>
-    <figcaption><h4>21 inch 5V Arm design black</h4></figcaption>
-</figure>
-
 ## 21 inch 9.5J 10-spoke rotor gloss Anthracite black
 
 Audi sport wheels for Audi e-tron. Part No 42P. Tires 265/45 R21
