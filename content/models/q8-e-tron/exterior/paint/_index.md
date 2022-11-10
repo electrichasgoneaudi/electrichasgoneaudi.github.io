@@ -459,6 +459,40 @@ Color Code: **OE**
     <figcaption><h4>Audi e-tron 55 in Siam Beige with black optics and contrast color</h4></figcaption>
 </figure>
 
+### Madeira brown
+
+New color for Q8
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_madeirabrown_1.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_madeirabrown_1_st.jpeg" alt="Audi Q8 55 Sportback e-tron in Madeira Brown Metallic" title="Audi Q8 55 Sportback e-tron in Madeira Brown Metallic">
+    </a>
+    <figcaption><h4>Audi Q8 55 Sportback e-tron in Madeira Brown Metallic</h4></figcaption>
+</figure>
+
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_madeirabrown_2.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_madeirabrown_2_st.jpeg" alt="Audi Q8 55 Sportback e-tron in Madeira Brown Metallic" title="Audi Q8 55 Sportback e-tron in Madeira Brown Metallic">
+    </a>
+    <figcaption><h4>Audi Q8 55 Sportback e-tron in Madeira Brown Metallic</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_madeirabrown_3.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_madeirabrown_3_st.jpeg" alt="Audi Q8 55 Sportback e-tron in Madeira Brown Metallic" title="Audi Q8 55 Sportback e-tron in Madeira Brown Metallic">
+    </a>
+    <figcaption><h4>Audi Q8 55 Sportback e-tron in Madeira Brown Metallic</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_madeirabrown_4.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_madeirabrown_4_st.jpeg" alt="Audi Q8 55 Sportback e-tron in Madeira Brown Metallic" title="Audi Q8 55 Sportback e-tron in Madeira Brown Metallic">
+    </a>
+    <figcaption><h4>Audi Q8 55 Sportback e-tron in Madeira Brown Metallic</h4></figcaption>
+</figure>
+
 ### Manhatten Grey
 
 Color Code: **2Y**
@@ -488,25 +522,34 @@ Color Code: **A2**
 Color Code: **OE**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_mythosblack_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_mythosblack_1s.jpg" alt="Audi e-tron 55 in Mythos Black with black optics" title="Audi e-tron 55 in Mythos Black with black optics">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_mythosblack_1.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_mythosblack_1_st.jpeg" alt="Audi SQ8 e-tron in Mythos Black with black optics and black grille" title="Audi SQ8 e-tron in Mythos Black with black optics and black grille">
     </a>
-    <figcaption><h4>Audi e-tron 55 in Mythos Black with black optics</h4></figcaption>
+    <figcaption><h4>Audi SQ8 e-tron in Mythos Black with black optics and black grille</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_mythosblack_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_mythosblack_2s.jpg" alt="Audi e-tron sportback S60 in Mythos Black with black optics" title="Audi e-tron sportback S60 in Mythos Black with black optics">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_mythosblack_2.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_mythosblack_2_st.jpeg" alt="Audi SQ8 e-tron in Mythos Black with black optics and black grille" title="Audi SQ8 e-tron in Mythos Black with black optics and black grille">
     </a>
-    <figcaption><h4>Audi e-tron sportback S60 in Mythos Black with black optics</h4></figcaption>
+    <figcaption><h4>Audi SQ8 e-tron in Mythos Black with black optics and black grille</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_mythosblack_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_mythosblack_3s.jpg" alt="Audi e-tron  S60 in Mythos Black with black optics" title="Audi e-tron S60 in Mythos Black with black optics">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_mythosblack_3.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_mythosblack_3_st.jpeg" alt="Audi SQ8 e-tron in Mythos Black with black optics and black grille" title="Audi SQ8 e-tron in Mythos Black with black optics and black grille">
     </a>
-    <figcaption><h4>Audi e-tron S60 in Mythos Black with black optics</h4></figcaption>
+    <figcaption><h4>Audi SQ8 e-tron in Mythos Black with black optics and black grille</h4></figcaption>
 </figure>
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_mythosblack_4.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_mythosblack_4_st.jpeg" alt="Audi SQ8 e-tron in Mythos Black with black optics and black grille" title="Audi SQ8 e-tron in Mythos Black with black optics and black grille">
+    </a>
+    <figcaption><h4>Audi SQ8 e-tron in Mythos Black with black optics and black grille</h4></figcaption>
+</figure>
+
 
 ## Audi Exclusive Paint colors
 
