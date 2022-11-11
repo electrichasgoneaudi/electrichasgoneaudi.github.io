@@ -190,6 +190,13 @@ Wheels for Audi e-tron. Part No F49. Tires 265/45 R21 Part **47C**
     <figcaption><h4>21 inch 5 arm aero struktur</h4></figcaption>
 </figure>
 
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/47C_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/47C_4_st.jpg" alt="21 inch 5 arm aero struktur" title="21 inch 5 arm aero struktur">
+    </a>
+    <figcaption><h4>21 inch 5 arm aero struktur</h4></figcaption>
+</figure>
+
 ## 21 inch 5 arm aero struktur black
 
 Wheels for Audi e-tron. Part No F49. Tires 265/45 R21 Part **47D**
@@ -214,6 +221,21 @@ Wheels for Audi e-tron. Part No F49. Tires 265/45 R21 Part **47D**
     <figcaption><h4>21 inch 5 arm aero struktur black</h4></figcaption>
 </figure>
 
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/47D_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/47D_4_st.jpg" alt="21 inch 5 arm aero struktur black" title="21 inch 5 arm aero struktur black">
+    </a>
+    <figcaption><h4>21 inch 5 arm aero struktur black</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/q8new21black.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/q8new21black_st.jpg" alt="21 inch aero black" title="21 inch aero black">
+    </a>
+    <figcaption><h4>21 inch 5 arm aero struktur black</h4></figcaption>
+</figure>
+
+
 ## 21 inch 15 arm design
 
 Wheels for Audi e-tron. Part No F49. Tires 265/45 R21
@@ -235,6 +257,13 @@ Wheels for Audi e-tron. Part No F49. Tires 265/45 R21
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/F49_3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/F49_3_st.jpg" alt="21 inch 15 arm design" title="21 inch 15 arm design">
+    </a>
+    <figcaption><h4>21 inch 15 arm design</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/F49_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/F49_4_st.jpg" alt="21 inch 15 arm design" title="21 inch 15 arm design">
     </a>
     <figcaption><h4>21 inch 15 arm design</h4></figcaption>
 </figure>
@@ -265,9 +294,16 @@ Wheels for Audi e-tron. Part No F48. Tires 265/45 R21
     <figcaption><h4>21 inch 5 Arm Turbin design</h4></figcaption>
 </figure>
 
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/F48_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/F48_4_st.jpg" alt="21 inch 5 Arm Turbin design" title="21 inch 5 Arm Turbin design">
+    </a>
+    <figcaption><h4>21 inch 5 Arm Turbin design</h4></figcaption>
+</figure>
+
 ## 21 inch 9.5J 10-spoke rotor gloss Anthracite black
 
-Audi sport wheels for Audi e-tron. Part No 42P. Tires 265/45 R21
+Audi sport wheels for Audi Q8 e-tron. Part No 42P. Tires 265/45 R21
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/42P_1.jpg">
@@ -290,13 +326,11 @@ Audi sport wheels for Audi e-tron. Part No 42P. Tires 265/45 R21
     <figcaption><h4>21 inch 9.5J 10-spoke rotor gloss Anthracite black</h4></figcaption>
 </figure>
 
-## 21" Aero black
-
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/q8new21black.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/q8new21black_st.jpg" alt="21 inch aero black" title="21 inch aero black">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/42P_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/42P_4_st.jpg" alt="21 inch 9.5J 10-spoke rotor gloss Anthracite black" title="21 inch 9.5J 10-spoke rotor gloss Anthracite black">
     </a>
-    <figcaption><h4>21 inch aero black</h4></figcaption>
+    <figcaption><h4>21 inch 9.5J 10-spoke rotor gloss Anthracite black</h4></figcaption>
 </figure>
 
 ## 21 inch  10.5J 5Y design
@@ -353,6 +387,19 @@ Audi Sport alloy wheels. Tires 265/40 R22  Part No: 54L
     <figcaption><h4>22 inch x 9.5J '5-spoke structured'</h4></figcaption>
 </figure>
 
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/54l_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/54l_2_st.jpg" alt="22 inch x 9.5J '5-spoke structured'" title="22 inch x 9.5J '5-spoke structured'">
+    </a>
+    <figcaption><h4>22 inch x 9.5J '5-spoke structured'</h4></figcaption>
+</figure>
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/54l_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/54l_4_st.jpg" alt="22 inch x 9.5J '5-spoke structured'" title="22 inch x 9.5J '5-spoke structured'">
+    </a>
+    <figcaption><h4>22 inch x 9.5J '5-spoke structured'</h4></figcaption>
+</figure>
+
 ## 22" 5-arm design
 
 <figure>
@@ -374,19 +421,18 @@ Audi Sport alloy wheels. Tires 265/40 R22  Part No: 54L
 Audi sport wheels for e-tron 60S. Dimensjon 10,5 J x 22 with 285/35 R 22 tires. Part No: V40
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_V40_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_V40_1s.jpg" alt="22 inch 5-arms interferenz-design" title="22 inch 5-arms interferenz-design">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/v40_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/v40_1_st.jpg" alt="22 inch 5-arms interferenz-design" title="22 inch 5-arms interferenz-design">
     </a>
     <figcaption><h4>22 inch 5-arms interferenz-design</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_V40_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_V40_2s.jpg" alt="22 inch 5-arms interferenz-design" title="22 inch 5-arms interferenz-design">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/v40_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/v40_2_st.jpg" alt="22 inch 5-arms interferenz-design" title="22 inch 5-arms interferenz-design">
     </a>
     <figcaption><h4>22 inch 5-arms interferenz-design</h4></figcaption>
 </figure>
-
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/v40black_1.jpeg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/v40black_1_st.jpeg" alt="22 inch 5-arms interferenz-design" title="22 inch 5-arms interferenz-design">
