@@ -436,50 +436,51 @@ Audi Sport alloy wheels. Tires 265/40 R22  Part No: 54L
 
 ## 22" 5-arm design
 
-Part C8E
+ Audi Sport alloy wheels. Tires 265/40 R22 Part C8E
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/C8E_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/C8E_1_st.jpg" alt="22 inch x 9.5J '5-spoke structured'" title="22 inch x 9.5J '5-spoke structured'">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/C8E_1_st.jpg" alt="22 tommer x 9.5J '5-spoke structured'" title="22 tommer x 9.5J '5-spoke structured'">
     </a>
-    <figcaption><h4>22 inch 6-arms design</h4></figcaption>
+    <figcaption><h4>22 tommer 6-arms design</h4></figcaption>
 </figure>
 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/C8E_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/C8E_1_st.jpg" alt="22 inch x 9.5J '5-spoke structured'" title="22 inch x 9.5J '5-spoke structured'">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/C8E_2_st.jpg" alt="22 tommer x 9.5J '5-spoke structured'" title="22 tommer x 9.5J '5-spoke structured'">
     </a>
-    <figcaption><h4>22 inch 6-arms design</h4></figcaption>
+    <figcaption><h4>22 tommer 6-arms design</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/C8E_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/C8E_3_st.jpg" alt="22 inch x 9.5J '5-spoke structured'" title="22 inch x 9.5J '5-spoke structured'">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/C8E_3_st.jpg" alt="22 tommer x 9.5J '5-spoke structured'" title="22 tommer x 9.5J '5-spoke structured'">
     </a>
-    <figcaption><h4>22 inch 6-arms design</h4></figcaption>
+    <figcaption><h4>22 tommer 6-arms design</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/C8E_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/C8E_4_stjpg" alt="22 inch x 9.5J '5-spoke structured'" title="22 inch x 9.5J '5-spoke structured'">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/C8E_4_stjpg" alt="22 tommer x 9.5J '5-spoke structured'" title="22 tommer x 9.5J '5-spoke structured'">
     </a>
-    <figcaption><h4>22 inch 6-arms design</h4></figcaption>
+    <figcaption><h4>22 tommer 6-arms design</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/unknown_1.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/unknown_1_st.jpeg" alt="22 inch 5-arms interferenz-design" title="22 inch 5-arms interferenz-design">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/unknown_1_st.jpeg" alt="22 tommer 5-arms interferenz-design" title="22 tommer 5-arms interferenz-design">
     </a>
-    <figcaption><h4>22 inch 6-arms design</h4></figcaption>
+    <figcaption><h4>22 tommer 6-arms design</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/unknown_2.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/unknown_2_st.jpeg" alt="22 inch 5-arms interferenz-design" title="22 inch 5-arms interferenz-design">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/unknown_2_st.jpeg" alt="22 tommer 5-arms interferenz-design" title="22 tommer 5-arms interferenz-design">
     </a>
-    <figcaption><h4>22 inch 6-arms design</h4></figcaption>
+    <figcaption><h4>22 tommer 6-arms design</h4></figcaption>
 </figure>
+
 
 ## 22" 5-arms interferenz-design
 
