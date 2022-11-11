@@ -461,7 +461,7 @@ Audi Sport alloy wheels. Tires 265/40 R22  Part No: 54L
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/C8E_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/C8E_4_stjpg" alt="22 tommer x 9.5J '5-spoke structured'" title="22 tommer x 9.5J '5-spoke structured'">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/wheels/C8E_4_st.jpg" alt="22 tommer x 9.5J '5-spoke structured'" title="22 tommer x 9.5J '5-spoke structured'">
     </a>
     <figcaption><h4>22 tommer 6-arms design</h4></figcaption>
 </figure>
