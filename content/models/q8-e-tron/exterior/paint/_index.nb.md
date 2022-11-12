@@ -11,10 +11,10 @@ Her finner du høyoppløste bilder av virkelige bilder i de forskjellige standar
 Klikk på lenkene for å gå direkte til en farge.
 
 - [Lakkeringsutførelse](#lakkeringsutførelse)
-  - [Basic lakkering](#basic-lakkering)
   - [Kontrastlakkering](#kontrastlakkering)
   - [Hellakkering](#hellakkering)
 - [Standard lakkfarger](#standard-lakkfarger)
+  - [Magnet grå](#magnet-grå)
   - [Isbrehvit metallic](#isbrehvit-metallic)
   - [Soneirarød metallic](#soneirarød-metallic)
   - [Chronosgrå metallic](#chronosgrå-metallic)
@@ -33,38 +33,6 @@ Klikk på lenkene for å gå direkte til en farge.
 I tilegg får kan du velge mellom over 50 [Audi Exclusive farger](../../exterior/paint/#audi-exclusive-lakk-farger).
 
 ## Lakkeringsutførelse
-
-### Basic lakkering
-
-På basic lakkering er støtfangerne og hjulbuene ikke lakkerte
-
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/basic1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/basic1s.jpg" alt="Grunnleggende med ulakkerte støtfangere og hjulbuer" title="Grunnleggende med ulakkerte støtfangere og hjulbuer">
-    </a>
-    <figcaption><h4>Basic med ulakkerte støtfangere og hjulbuer</h4></figcaption>
-</figur>
-
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/basic2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/basic2s.jpg" alt="Basic med ulakkerte støtfangere og hjulbuer" title="Basic med ulakkerte støtfangere og hjulbuer">
-    </a>
-    <figcaption><h4>Basic med ulakkerte støtfangere og hjulbuer</h4></figcaption>
-</figur>
-
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/basic3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/basic3s.jpg" alt="Basic med ulakkerte støtfangere og hjulbuer" title="Basic med ulakkerte støtfangere og hjulbuer">
-    </a>
-    <figcaption><h4>Basic med ulakkerte støtfangere og hjulbuer</h4></figcaption>
-</figur>
-
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/basic4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/basic4s.jpg" alt="Grunnleggende med ulakkerte støtfangere og hjulbuer" title="Grunnleggende med ulakkerte støtfangere og hjulbuer">
-    </a>
-    <figcaption><h4>Basic med ulakkerte støtfangere og hjulbuer</h4></figcaption>
-</figur>
 
 ### Kontrastlakkering
 
@@ -128,6 +96,24 @@ Denne har alternativ **VJ1** og er standard på S-line og S eksteriør.
 ## Standard lakkfarger
 
 De forskjellige standardfargene er
+
+### Magnet grå
+
+Standard color. Solid
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_magnetgrey_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_magnetgrey_1_st.jpg" alt="Audi Q8 e-tron in in magnet grey with black optics" title="Audi Q8 e-tron in in magnet grey with black optics">
+    </a>
+    <figcaption><h4>Audi Q8 e-tron in in magnet grey with black optics</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_magnetgrey_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_magnetgrey_2_st.jpg" alt="Audi Q8 e-tron in in magnet grey with black optics" title="Audi Q8 e-tron in in magnet grey with black optics">
+    </a>
+    <figcaption><h4>Audi Q8 e-tron in in magnet grey with black optics</h4></figcaption>
+</figure>
 
 ### Isbrehvit metallic
 

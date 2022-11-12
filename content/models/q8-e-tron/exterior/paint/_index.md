@@ -14,6 +14,7 @@ Click below for direct navigation to paint color
   - [Contrast paint](#contrast-paint)
   - [Full body paint](#full-body-paint)
 - [Standard Paint colors](#standard-paint-colors)
+  - [Magnet grey](#magnet-grey)
   - [Glacier White](#glacier-white)
   - [Soneira Red](#soneira-red)
   - [Chronos Grey](#chronos-grey)
@@ -94,6 +95,24 @@ This has option **VJ1** and is standard on S-line and S exterior trim.
 ## Standard Paint colors
 
 The different standard colors are
+
+### Magnet grey
+
+Standard color. Solid
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_magnetgrey_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_magnetgrey_1_st.jpg" alt="Audi Q8 e-tron in in magnet grey with black optics" title="Audi Q8 e-tron in in magnet grey with black optics">
+    </a>
+    <figcaption><h4>Audi Q8 e-tron in in magnet grey with black optics</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_magnetgrey_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_magnetgrey_2_st.jpg" alt="Audi Q8 e-tron in in magnet grey with black optics" title="Audi Q8 e-tron in in magnet grey with black optics">
+    </a>
+    <figcaption><h4>Audi Q8 e-tron in in magnet grey with black optics</h4></figcaption>
+</figure>
 
 ### Glacier White
 
