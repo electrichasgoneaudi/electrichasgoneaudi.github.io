@@ -10,19 +10,25 @@ Her finner du høyoppløste bilder av virkelige bilder i de forskjellige standar
 
 Klikk på lenkene for å gå direkte til en farge.
 
-- [Isbrehvit metallic](../../exterior/paint/#isbrehvit-metallic)
-- [Catalunyarød metallic](../../exterior/paint/#catalunyarød-metallic)
-- [Tyfongrå metallic](../../exterior/paint/#tyfongrå-metallic)
-- [Daytonagrå metallic](../../exterior/paint/#daytonagrå-metallic)
-- [Florettsølv metallic](../../exterior/paint/#florettsølv-metallic)
-- [Navarrablå metallic](../../exterior/paint/#navarrablå-metallic)
-- [Galaxisblå metallic](../../exterior/paint/#galaxisblå-metallic)
-- [Chronosgrå metallic](../../exterior/paint/#chronosgrå-metallic)
-- [Siambeige metallic](../../exterior/paint/#siambeige-metallic)
-- [Madeira Brown metallic](../../exterior/paint/#madeira-brown)
-- [Manhattengrå metallic](../../exterior/paint/#manhattengrå-metallic)
-- [Brilliantsort](../../exterior/paint/#brilliantsort)
-- [Mythossort](../../exterior/paint/#mythossort-metallic)
+- [Lakkeringsutførelse](#lakkeringsutførelse)
+  - [Basic lakkering](#basic-lakkering)
+  - [Kontrastlakkering](#kontrastlakkering)
+  - [Hellakkering](#hellakkering)
+- [Standard lakkfarger](#standard-lakkfarger)
+  - [Isbrehvit metallic](#isbrehvit-metallic)
+  - [Soneirarød metallic](#soneirarød-metallic)
+  - [Chronosgrå metallic](#chronosgrå-metallic)
+  - [Daytonagrå metallic](#daytonagrå-metallic)
+  - [Plasma Blue](#plasma-blue)
+  - [Ultra Blue](#ultra-blue)
+  - [Siambeige metallic](#siambeige-metallic)
+  - [Madeira brown](#madeira-brown)
+  - [Manhattengrå metallic](#manhattengrå-metallic)
+  - [Brilliantsort](#brilliantsort)
+  - [Mythossort metallic](#mythossort-metallic)
+- [Audi Exclusive lakk farger](#audi-exclusive-lakk-farger)
+  - [Sonoma Green](#sonoma-green)
+  - [Goodwood Green](#goodwood-green)
 
 I tilegg får kan du velge mellom over 50 [Audi Exclusive farger](../../exterior/paint/#audi-exclusive-lakk-farger).
 
@@ -148,55 +154,28 @@ Fargekode: **2Y**
     <figcaption><h4>Audi e-tron 55 Sportback S-line i isbrehvit med sort optikk</h4></figcaption>
 </figur>
 
-### Catalunyarød metallic
+### Soneirarød metallic
 
-Fargekode: **Y6**
-
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_catalunyared_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_catalunyared_1s.jpg" alt="Audi e-tron 55 S-line Sportback i Catalunya Rød med sort optikk" title="Audi e-tron 55 S-line Sportback i Catalunya Rød med sort optikk">
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_soneirared_metallic.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_soneirared_metallic.jpg" alt="Audi Q8 e-tron S-line i soneirarød med sort optikk" title="Audi Q8 e-tron S-line i soneirarød med sort optikk">
     </a>
-    <figcaption><h4>Audi e-tron 55 S-line Sportback i Catalunya Rød med sort optikk</h4></figcaption>
-</figur>
+    <figcaption><h4>Audi Q8 e-tron S-line i soneirarød med sort optikk</h4></figcaption>
+</figure>
 
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_catalunyared_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_catalunyared_2s.jpg" alt="Audi e-tron 55 S-line Sportback i Catalunya Rød med sort optikk" title="Audi e-tron 55 S-line Sportback i Catalunya Rød med sort optikk">
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_soneirared_metallic_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_soneirared_metallic_2_st.jpg" alt="Audi Q8 e-tron S-line i soneirarød med sort optikk" title="Audi Q8 e-tron S-line i soneirarød med sort optikk">
     </a>
-    <figcaption><h4>Audi e-tron 55 S-line Sportback i Catalunya R
+    <figcaption><h4>Audi Q8 e-tron S-line i soneirarød med sort optikk</h4></figcaption>
+</figure>
 
-ed med sort optikk</h4></figcaption>
-</figur>
-
-Opptakene viser kjørebilder samt stillbilder av Audi e-tron S Sportback i fargen catalunya red.
-{{< youtube NWJF6w1qECo >}}
-
-### Florettsølv metallic
-
-Fargekode: **L5**
-
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_florettsilver_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_florettsilver_1s.jpg" alt="Audi e-tron 55 S-line Sportback i Florett Silver med kontrastfarge" title="Audi e-tron 55 S-line Sportback i Florett Silver med kontrastfarge">
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_soneirared_metallic_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_soneirared_metallic_3_st.jpg" alt="Audi Q8 e-tron S-line i soneirarød med sort optikk" title="Audi Q8 e-tron S-line i soneirarød med sort optikk">
     </a>
-    <figcaption><h4>Audi e-tron 55 S-line Sportback i Florett Silver med kontrastfarge</h4></figcaption>
-</figur>
-
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_florettsilver_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_florettsilver_2s.jpg" alt="Audi e-tron 55 S-line Sportback i Florett Silver med kontrastfarge" title="Audi e-tron 55 S-line Sportback i Florett Silver med kontrastfarge">
-    </a>
-    <figcaption><h4>Audi e-tron 55 S-line Sportback i Florett Silver med kontrastfarge</h4></figcaption>
-</figur>
-
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_florettsilver_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_florettsilver_3s.jpg" alt="Audi e-tron 55 S-line Sportback i Florett Silver med kontrastfarge" title="Audi e-tron 55 S-line Sportback i Florett Silver med kontrastfarge">
-    </a>
-    <figcaption><h4>Audi e-tron 55 S-line Sportback i Florett Silver med kontrastfarge</h4></figcaption>
-</figur>
-
-
+    <figcaption><h4>Audi Q8 e-tron S-line i soneirarød med sort optikk</h4></figcaption>
+</figure>
 
 
 ### Chronosgrå metallic
@@ -205,48 +184,30 @@ Fargekode: **Z7**
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_chronosgrey_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_chronosgrey_1_st.jpg" alt="Audi e-tron 55 in Chronos Grey with black optics" title="Audi e-tron 55 in Chronos Grey with black optics">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_chronosgrey_1_st.jpg" alt="Audi e-tron 55 in Chronos Grey med sort optikk" title="Audi e-tron 55 in Chronos Grey med sort optikk">
     </a>
-    <figcaption><h4>Audi Q8 55 e-tron in Chronos Grey with black optics</h4></figcaption>
+    <figcaption><h4>Audi Q8 55 e-tron in Chronos Grey med sort optikk</h4></figcaption>
 </figure>
 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_chronosgrey_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_chronosgrey_2_st.jpg" alt="Audi e-tron 55 in Chronos Grey with black optics" title="Audi e-tron 55 in Chronos Grey with black optics">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_chronosgrey_2_st.jpg" alt="Audi e-tron 55 in Chronos Grey med sort optikk" title="Audi e-tron 55 in Chronos Grey med sort optikk">
     </a>
-    <figcaption><h4>Audi Q8 55 e-tron in Chronos Grey with black optics</h4></figcaption>
+    <figcaption><h4>Audi Q8 55 e-tron in Chronos Grey med sort optikk</h4></figcaption>
 </figure>
 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_chronosgrey_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_chronosgrey_3_st.jpg" alt="Audi e-tron 55 in Chronos Grey with black optics" title="Audi e-tron 55 in Chronos Grey with black optics">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_chronosgrey_3_st.jpg" alt="Audi e-tron 55 in Chronos Grey med sort optikk" title="Audi e-tron 55 in Chronos Grey med sort optikk">
     </a>
-    <figcaption><h4>Audi Q8 55 e-tron in Chronos Grey with black optics</h4></figcaption>
+    <figcaption><h4>Audi Q8 55 e-tron in Chronos Grey med sort optikk</h4></figcaption>
 </figure>
-
-### Tyfongrå metallic
-
-Fargekode: **2L**
-
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_typhoongrey_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_typhoongrey_1s.jpg" alt="Audi e-tron 55 i Typhoon Grey med sort optikk" title="Audi e-tron 55 i Typhoon Grey med sort optikk">
-    </a>
-    <figcaption><h4>Audi e-tron 55 i Typhoon Grey med sort optikk</h4></figcaption>
-</figur>
-
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_typhoongrey_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_typhoongrey_2s.jpg" alt="Audi e-tron 55 i Typhoon Grey med sort optikk" title="Audi e-tron 55 i Typhoon Grey med sort optikk">
-    </a>
-    <figcaption><h4>Audi e-tron 55 i Typhoon Grey med sort optikk</h4></figcaption>
-</figur>
 
 ### Daytonagrå metallic
 
-Kun tilgjengelig på S-line og e-tron S.
+Kun tilgjengelig på S-line og SQ8 e-tron
 
 Fargekode: **6Y**
 
@@ -297,49 +258,31 @@ Opptakene viser kjørebilder samt stillbilder av Audi e-tron S Sportback i farge
 
 {{< youtube bzqrdHJpXpA>}}
 
-### Navarrablå metallic
 
-Fargekode: **2D**
+### Plasma Blue
 
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_navarrablue_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_navarrablue_1s.jpg" alt="Audi e-tron 60S Sportback i Navarrablått med kontrastfarge" title="Audi e-tron 60S Sportback i Navarrablått med kontrastfarge">
+Color Code: **3D**
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_1s.jpg" alt="Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color" title="Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color">
     </a>
-    <figcaption><h4>Audi e-tron 60S Sportback i Navarrablått med kontrastfarge</h4></figcaption>
-</figur>
+    <figcaption><h4>Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color</h4></figcaption>
+</figure>
 
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_navarrablue_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_navarrablue_2s.jpg" alt="Audi e-tron 60S Sportback i Navarrablått med  sort optikk" title="Audi e-tron 60S Sportback i Navarrablått med  sort optikk">
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_2s.jpg" alt="Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color" title="Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color">
     </a>
-    <figcaption><h4>Audi e-tron 60S Sportback i Navarrablått med sort optikk</h4></figcaption>
-</figur>
+    <figcaption><h4>Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color</h4></figcaption>
+</figure>
 
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_navarrablue_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_navarrablue_3s.jpg" alt="Audi e-tron 60S Sportback i Navarrablått med  sort optikk" title="Audi e-tron 60S Sportback i Navarrablått med  sort optikk">
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_3s.jpg" alt="Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color" title="Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color">
     </a>
-    <figcaption><h4>Audi e-tron 60S Sportback i Navarrablått med sort optikk</h4></figcaption>
-</figur>
-
-Opptakene viser kjørebilder samt stillbilder av Audi e-tron S Sportback i fargen navarrablå.
-
-{{< youtube AxA08viUctY >}}
-
-<br />
-
-{{< youtube F0S9oqMKB9U >}}
-
-### Galaxisblå metallic
-
-Fargekode: **S1**
-
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_galaxyblue_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_galaxyblue_1s.jpg" alt="Audi e-tron 55 i Galaxy Blue" title="Audi e-tron 55 i Galaxy Blue">
-    </a>
-    <figcaption><h4>Audi e-tron 55 i Galaxy Blue</h4></figcaption>
-</figur>
+    <figcaption><h4>Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color</h4></figcaption>
+</figure>
 
 ### Ultra Blue
 
@@ -484,31 +427,31 @@ Fargekode: **OE**
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_mythosblack_1.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_mythosblack_1_st.jpeg" alt="Audi SQ8 e-tron in Mythos Black with black optics and black grille" title="Audi SQ8 e-tron in Mythos Black with black optics and black grille">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_mythosblack_1_st.jpeg" alt="Audi SQ8 e-tron in Mythos Black med sort optikk and black grille" title="Audi SQ8 e-tron in Mythos Black med sort optikk and black grille">
     </a>
-    <figcaption><h4>Audi SQ8 e-tron in Mythos Black with black optics and black grille</h4></figcaption>
+    <figcaption><h4>Audi SQ8 e-tron in Mythos Black med sort optikk and black grille</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_mythosblack_2.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_mythosblack_2_st.jpeg" alt="Audi SQ8 e-tron in Mythos Black with black optics and black grille" title="Audi SQ8 e-tron in Mythos Black with black optics and black grille">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_mythosblack_2_st.jpeg" alt="Audi SQ8 e-tron in Mythos Black med sort optikk and black grille" title="Audi SQ8 e-tron in Mythos Black med sort optikk and black grille">
     </a>
-    <figcaption><h4>Audi SQ8 e-tron in Mythos Black with black optics and black grille</h4></figcaption>
+    <figcaption><h4>Audi SQ8 e-tron in Mythos Black med sort optikk and black grille</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_mythosblack_3.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_mythosblack_3_st.jpeg" alt="Audi SQ8 e-tron in Mythos Black with black optics and black grille" title="Audi SQ8 e-tron in Mythos Black with black optics and black grille">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_mythosblack_3_st.jpeg" alt="Audi SQ8 e-tron in Mythos Black med sort optikk and black grille" title="Audi SQ8 e-tron in Mythos Black med sort optikk and black grille">
     </a>
-    <figcaption><h4>Audi SQ8 e-tron in Mythos Black with black optics and black grille</h4></figcaption>
+    <figcaption><h4>Audi SQ8 e-tron in Mythos Black med sort optikk and black grille</h4></figcaption>
 </figure>
 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_mythosblack_4.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_mythosblack_4_st.jpeg" alt="Audi SQ8 e-tron in Mythos Black with black optics and black grille" title="Audi SQ8 e-tron in Mythos Black with black optics and black grille">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_mythosblack_4_st.jpeg" alt="Audi SQ8 e-tron in Mythos Black med sort optikk and black grille" title="Audi SQ8 e-tron in Mythos Black med sort optikk and black grille">
     </a>
-    <figcaption><h4>Audi SQ8 e-tron in Mythos Black with black optics and black grille</h4></figcaption>
+    <figcaption><h4>Audi SQ8 e-tron in Mythos Black med sort optikk and black grille</h4></figcaption>
 </figure>
 
 ## Audi Exclusive lakk farger

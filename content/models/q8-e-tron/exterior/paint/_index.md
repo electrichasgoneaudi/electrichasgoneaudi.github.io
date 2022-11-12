@@ -10,56 +10,27 @@ Here you find high-res pictures of real cars in the standard paint colors. Click
 
 Click below for direct navigation to paint color
 
-- [Glacier white metallic](../../exterior/paint/#glacier-white)
-- [Catalunya redmetallic](../../exterior/paint/#catalunya-red)
-- [Typhoon grey metallic](../../exterior/paint/#typhoon-grey)
-- [Florett silver metallic](../../exterior/paint/#florett-silver)
-- [Navarra blue metallic](../../exterior/paint/#navarra-blue)
-- [Galaxy blue metallic](../../exterior/paint/#galaxy-blue)
-- [Ultra blue metallic](../../exterior/paint/#ultra-blue)
-- [Chronos grey metallic](../../exterior/paint/#chronos-grey)
-- [Brilliant black](../../exterior/paint/#brilliant-black)
-- [Mythos black](../../exterior/paint/#mythos-black)
-- [Daytona grey](../../exterior/paint/#daytona-grey)
-- [siam-beige](../../exterior/paint/#siam-beige)
-- [Madeira Brown metallic](../../exterior/paint/#madeira-brown)
-- [manhatten-grey](../../exterior/paint/#manhatten-grey)
+- [Paint trims](#paint-trims)
+  - [Contrast paint](#contrast-paint)
+  - [Full body paint](#full-body-paint)
+- [Standard Paint colors](#standard-paint-colors)
+  - [Glacier White](#glacier-white)
+  - [Soneira Red](#soneira-red)
+  - [Chronos Grey](#chronos-grey)
+  - [Daytona Grey](#daytona-grey)
+  - [Plasma Blue](#plasma-blue)
+  - [Ultra Blue](#ultra-blue)
+  - [Siam Beige](#siam-beige)
+  - [Madeira brown](#madeira-brown)
+  - [Manhatten Grey](#manhatten-grey)
+  - [Mythos black](#mythos-black)
+- [Audi Exclusive Paint colors](#audi-exclusive-paint-colors)
+  - [Sonoma Green](#sonoma-green)
+  - [Goodwood Green](#goodwood-green)
 
 In addition you can choose between over 50 [Audi Exclusive paint colors](../../exterior/paint/#audi-exclusive-lakk-farger).
 
 ## Paint trims
-
-### Basic paint
-
-On the basic trim the bumpers and wheel arches is not painted
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/basic1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/basic1s.jpg" alt="Basic with non painted bumpers and wheel arches" title="Basic with non painted bumpers and wheel arches">
-    </a>
-    <figcaption><h4>Basic with non painted bumpers and wheel arches</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/basic2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/basic2s.jpg" alt="Basic with non painted bumpers and wheel arches" title="Basic with non painted bumpers and wheel arches">
-    </a>
-    <figcaption><h4>Basic with non painted bumpers and wheel arches</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/basic3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/basic3s.jpg" alt="Basic with non painted bumpers and wheel arches" title="Basic with non painted bumpers and wheel arches">
-    </a>
-    <figcaption><h4>Basic with non painted bumpers and wheel arches</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/basic4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/basic4s.jpg" alt="Basic with non painted bumpers and wheel arches" title="Basic with non painted bumpers and wheel arches">
-    </a>
-    <figcaption><h4>Basic with non painted bumpers and wheel arches</h4></figcaption>
-</figure>
 
 ### Contrast paint
 
@@ -149,50 +120,29 @@ Color Code: **2Y**
     <figcaption><h4>Audi e-tron 55 Sportback S-line in glacier white with black optics</h4></figcaption>
 </figure>
 
-### Catalunya Red
+### Soneira Red
 
-Color Code: **Y6**
+Color Code: **??**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_catalunyared_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_catalunyared_1s.jpg" alt="Audi e-tron 55 S-line Sportback in Catalunya Red with black optics" title="Audi e-tron 55 S-line Sportback in Catalunya Red with black optics">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_soneirared_metallic.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_soneirared_metallic.jpg" alt="Audi Q8 e-tron S-line in Soneira red with black optics" title="Audi Q8 e-tron S-line in Soneira red with black optics">
     </a>
-    <figcaption><h4>Audi e-tron 55 S-line Sportback in Catalunya Red with black optics</h4></figcaption>
+    <figcaption><h4>Audi Q8 e-tron S-line in Soneira red with black optics</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_catalunyared_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_catalunyared_2s.jpg" alt="Audi e-tron 55 S-line Sportback in Catalunya Red with black optics" title="Audi e-tron 55 S-line Sportback in Catalunya Red with black optics">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_soneirared_metallic_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_soneirared_metallic_2_st.jpg" alt="Audi Q8 e-tron S-line in Soneira red with black optics" title="Audi Q8 e-tron S-line in Soneira red with black optics">
     </a>
-    <figcaption><h4>Audi e-tron 55 S-line Sportback in Catalunya Red with black optics</h4></figcaption>
-</figure>
-
-The footage shows driving shots as well as stills of the Audi e-tron S Sportback in the color catalunya red.
-{{< youtube NWJF6w1qECo >}}
-
-### Florett Silver
-
-Color Code: **L5**
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_florettsilver_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_florettsilver_1s.jpg" alt="Audi e-tron 55 S-line Sportback in Florett Silver with contrast color" title="Audi e-tron 55 S-line Sportback in Florett Silver with contrast color">
-    </a>
-    <figcaption><h4>Audi e-tron 55 S-line Sportback in Florett Silver with contrast color</h4></figcaption>
+    <figcaption><h4>Audi Q8 e-tron S-line in Soneira red with black optics</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_florettsilver_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_florettsilver_2s.jpg" alt="Audi e-tron 55 S-line Sportback in Florett Silver with contrast color" title="Audi e-tron 55 S-line Sportback in Florett Silver with contrast color">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_soneirared_metallic_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_soneirared_metallic_3_st.jpg" alt="Audi Q8 e-tron S-line in Soneira red with black optics" title="Audi Q8 e-tron S-line in Soneira red with black optics">
     </a>
-    <figcaption><h4>Audi e-tron 55 S-line Sportback in Florett Silver with contrast color</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_florettsilver_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_florettsilver_3s.jpg" alt="Audi e-tron 55 S-line Sportback in Florett Silver with contrast color" title="Audi e-tron 55 S-line Sportback in Florett Silver with contrast color">
-    </a>
-    <figcaption><h4>Audi e-tron 55 S-line Sportback in Florett Silver with contrast color</h4></figcaption>
+    <figcaption><h4>Audi Q8 e-tron S-line in Soneira red with black optics</h4></figcaption>
 </figure>
 
 ### Chronos Grey
@@ -220,24 +170,6 @@ Color Code: **Z7**
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_chronosgrey_3_st.jpg" alt="Audi e-tron 55 in Chronos Grey with black optics" title="Audi e-tron 55 in Chronos Grey with black optics">
     </a>
     <figcaption><h4>Audi Q8 55 e-tron in Chronos Grey with black optics</h4></figcaption>
-</figure>
-
-### Typhoon Grey
-
-Color Code: **2L**
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_typhoongrey_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_typhoongrey_1s.jpg" alt="Audi e-tron 55 in Typhoon Grey with black optics" title="Audi e-tron 55 in Typhoon Grey with black optics">
-    </a>
-    <figcaption><h4>Audi e-tron 55 in Typhoon Grey with black optics</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_typhoongrey_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_typhoongrey_2s.jpg" alt="Audi e-tron 55 in Typhoon Grey with black optics" title="Audi e-tron 55 in Typhoon Grey with black optics">
-    </a>
-    <figcaption><h4>Audi e-tron 55 in Typhoon Grey with black optics</h4></figcaption>
 </figure>
 
 ### Daytona Grey
@@ -293,48 +225,29 @@ The footage shows driving shots as well as stills of the Audi e-tron S Sportback
 
 {{< youtube bzqrdHJpXpA>}}
 
-### Navarra Blue
+### Plasma Blue
 
-Color Code: **2D**
+Color Code: **3D**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_navarrablue_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_navarrablue_1s.jpg" alt="Audi e-tron 60S  Sportback in Navarra Blue with contrast color" title="Audi e-tron 60S  Sportback in Navarra Blue with contrast color">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_1s.jpg" alt="Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color" title="Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color">
     </a>
-    <figcaption><h4>Audi e-tron 60S Sportback in Navarra Blue with contrast color</h4></figcaption>
+    <figcaption><h4>Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_navarrablue_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_navarrablue_2s.jpg" alt="Audi e-tron 60S  Sportback in Navarra Blue with black optics" title="Audi e-tron 60S  Sportback in Navarra Blue with contrast color">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_2s.jpg" alt="Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color" title="Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color">
     </a>
-    <figcaption><h4>Audi e-tron 60S Sportback in Navarra Blue with black optics</h4></figcaption>
+    <figcaption><h4>Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_navarrablue_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_navarrablue_3s.jpg" alt="Audi e-tron 60S  Sportback in Navarra Blue with black optics" title="Audi e-tron 60S  Sportback in Navarra Blue with contrast color">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_3s.jpg" alt="Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color" title="Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color">
     </a>
-    <figcaption><h4>Audi e-tron 60S Sportback in Navarra Blue with black optics</h4></figcaption>
-</figure>
-
-The footage shows driving shots as well as stills of the Audi e-tron S Sportback in the color navarra blue.
-
-{{< youtube AxA08viUctY >}}
-
-<br />
-
-{{< youtube F0S9oqMKB9U >}}
-
-### Galaxy Blue
-
-Color Code: **S1**
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_galaxyblue_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_galaxyblue_1s.jpg" alt="Audi e-tron 55 in Galaxy Blue" title="Audi e-tron 55 in Galaxy Blue">
-    </a>
-    <figcaption><h4>Audi e-tron 55 in Galaxy Blue</h4></figcaption>
+    <figcaption><h4>Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color</h4></figcaption>
 </figure>
 
 ### Ultra Blue
@@ -458,19 +371,6 @@ Color Code: **2Y**
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_manhattengrey_1s.jpg" alt="Audi e-tron 55 in Manhatten grey" title="Audi e-tron 55 in Manhatten grey">
     </a>
     <figcaption><h4>Audi e-tron 55 in Manhatten grey</h4></figcaption>
-</figure>
-
-### Brilliant Black
-
-The only non metallic color.
-
-Color Code: **A2**
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_brilliantblack_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_brilliantblack_1s.jpg" alt="Audi e-tron 55 in Brilliant Black" title="Audi e-tron 55 in Brilliant Black">
-    </a>
-    <figcaption><h4>Audi e-tron 55 in Brilliant Black</h4></figcaption>
 </figure>
 
 ### Mythos black
