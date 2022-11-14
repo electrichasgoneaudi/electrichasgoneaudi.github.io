@@ -7,22 +7,30 @@ weight: 7
 <!-- markdownlint-disable MD033 -->
 
 Adaptive air suspension with electronic damping control is standard equipment on the Audi e-tron. The type of damping control provided varies between the two running gear versions,
-**adaptive air suspension** and **adaptive air suspension sport** that is standard on e-tron S and S-Line e-tron.
+**adaptive air suspension** and **adaptive air suspension sport** that is standard on SQ8 e-tron S and Q8 e-tron S-Line.
 
-The adaptive air suspension – an air suspension system with controlled damping – offers a wide range between smooth cruising and sporty handling.
-Depending on the speed and the driver’s preferences, it individually adjusts the ride height according to the road conditions.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/suspension/suspension1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/suspension/suspension1_st.jpg" alt="Audi Q8 e-tron with adaptive air suspension" title="Audi Q8 e-tron with adaptive air suspension">
+    </a>
+    <figcaption><h4>Audi Q8 e-tron with adaptive air suspension</h4></figcaption>
+</figure>
+
+The adaptive air suspension – an air suspension system with controlled damping – offers a wide range between smooth cruising and sporty handling. Depending on the speed and the driver’s preferences, it individually adjusts the ride height according to the road conditions.
 The air suspension also offers level control as a function of load.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/adaptaiveairsuspensionsport.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/adaptaiveairsuspensionsports.jpg" alt="Audi e-tron S with adaptive air suspension sport" title="Audi e-tron S with adaptive air suspension sport">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/suspension/suspension2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/suspension/suspension2_st.jpg" alt="Audi Q8 e-tron with adaptive air suspension" title="Audi Q8 e-tron with adaptive air suspension">
     </a>
-    <figcaption><h4>Audi e-tron S with adaptive air suspension sport</h4></figcaption>
+    <figcaption><h4>Audi Q8 e-tron with adaptive air suspension</h4></figcaption>
 </figure>
 
-The central chassis control unit, the electronic chassis platform (ECP), individually controls the function of the shock absorbers on each wheel at
-cycles in the order of milliseconds – according to the road surface condition, driving style and the mode the driver sets in the Audi drive select dynamic handling system.
+The central chassis control unit, the electronic chassis platform (ECP), individually controls the function of the shock absorbers on each wheel at cycles in the order of milliseconds – according to the road surface condition, driving style and the mode the driver sets in the Audi drive select dynamic handling system.
 Solenoid damper valves vary the volumetric flow of the hydraulic fluid.
+
+
 
 Adaptive Air Suspension has optionId **1BK** and adaptive air suspension sport has option ID **2MB**
 

@@ -9,6 +9,57 @@ weight: 3
 S-line eksteriørpakken inneholder ekstra stylingelementer. I motsetning til grunnmodellen er festene på S line eksteriør
 lakkert i utvendig karosserifarge – inkludert hjulbuelister, dørterskler, støtfangere og utvendige speil. Audi tilbyr også den svarte stylingpakken som fremhever området til Singleframe, sidevinduene og støtfangeren. Ytterspeilhusene er også tilgjengelige i sort som ekstrautstyr.
 
+
+## Advance line (standard)
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_1.jpg" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
+    </a>
+    <figcaption><h4>Q8 e-tron in chronos grey in Advance line</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_2.jpg" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
+    </a>
+    <figcaption><h4>Q8 e-tron in chronos grey in Advance line</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_3.jpg" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
+    </a>
+    <figcaption><h4>Q8 e-tron in chronos grey in Advance line</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_4.jpg" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
+    </a>
+    <figcaption><h4>Q8 e-tron in chronos grey in Advance line</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_5.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_5.jpg" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
+    </a>
+    <figcaption><h4>Q8 e-tron in chronos grey in Advance line</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_6.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_6.jpg" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
+    </a>
+    <figcaption><h4>Q8 e-tron in chronos grey in Advance line</h4></figcaption>
+</figure>
+
 ## S-linje eksteriør
 
 Den mer karakteristiske støtfangeren er flankert av mer uttrykksfulle luftgardiner, som forbedrer luftstrømmen. De

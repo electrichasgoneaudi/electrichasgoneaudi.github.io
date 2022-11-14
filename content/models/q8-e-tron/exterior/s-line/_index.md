@@ -9,6 +9,56 @@ weight: 3
 The S-line exterior package contains additional styling elements. In contrast to the basic model, the attachments on the S line exterior are
 painted in the exterior body color – including the wheel arch trims, door sills, bumpers and exterior mirrors. Audi also offers the black styling package that accentuates the area of the Singleframe, the side windows, and the bumper. The exterior mirror housings are also available in black as an option.
 
+## Advance line (standard)
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_1.jpg" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
+    </a>
+    <figcaption><h4>Q8 e-tron in chronos grey in Advance line</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_2.jpg" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
+    </a>
+    <figcaption><h4>Q8 e-tron in chronos grey in Advance line</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_3.jpg" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
+    </a>
+    <figcaption><h4>Q8 e-tron in chronos grey in Advance line</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_4.jpg" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
+    </a>
+    <figcaption><h4>Q8 e-tron in chronos grey in Advance line</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_5.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_5.jpg" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
+    </a>
+    <figcaption><h4>Q8 e-tron in chronos grey in Advance line</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_6.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_6.jpg" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
+    </a>
+    <figcaption><h4>Q8 e-tron in chronos grey in Advance line</h4></figcaption>
+</figure>
+
 ## S-line exterior
 
 The more distinctively contoured bumper is flanked by more expressive air curtains, which improve the air flow. They
