@@ -14,7 +14,7 @@ painted in the exterior body color – including the wheel arch trims, door sill
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_1.jpg" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_1_st.jpg" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
     </a>
     <figcaption><h4>Q8 e-tron in chronos grey in Advance line</h4></figcaption>
 </figure>
@@ -22,7 +22,7 @@ painted in the exterior body color – including the wheel arch trims, door sill
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_2.jpg" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_2_st.jpg" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
     </a>
     <figcaption><h4>Q8 e-tron in chronos grey in Advance line</h4></figcaption>
 </figure>
@@ -30,7 +30,7 @@ painted in the exterior body color – including the wheel arch trims, door sill
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_3.jpg" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_3_st.jpg" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
     </a>
     <figcaption><h4>Q8 e-tron in chronos grey in Advance line</h4></figcaption>
 </figure>
@@ -38,7 +38,7 @@ painted in the exterior body color – including the wheel arch trims, door sill
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_4.jpg" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_4_st.jpg" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
     </a>
     <figcaption><h4>Q8 e-tron in chronos grey in Advance line</h4></figcaption>
 </figure>
@@ -46,7 +46,7 @@ painted in the exterior body color – including the wheel arch trims, door sill
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_5.jpg" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_5_st.jpg" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
     </a>
     <figcaption><h4>Q8 e-tron in chronos grey in Advance line</h4></figcaption>
 </figure>
@@ -54,7 +54,7 @@ painted in the exterior body color – including the wheel arch trims, door sill
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_6.jpg" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_6_st.jpg" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
     </a>
     <figcaption><h4>Q8 e-tron in chronos grey in Advance line</h4></figcaption>
 </figure>
@@ -64,44 +64,51 @@ painted in the exterior body color – including the wheel arch trims, door sill
 The more distinctively contoured bumper is flanked by more expressive air curtains, which improve the air flow. They
 extend below the headlights, thereby creating a dynamic appearance even from a distance. An S line emblem adorns the radiator grille, while the
 illuminated aluminum door sill trims feature an #S logo.
-
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/blackoptics_florett.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/blackoptics_floretts.jpg" alt="Black optics - Florett Silver standard front" title="Black optics - Florett Silver standard front">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/sline_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/s-line_1_st.jpg" alt="Q8 e-tron in chronos grey in S-line" title="Q8 e-tron in chronos grey in S-line">
     </a>
-    <figcaption><h4>Black optics - Florett Silver standard front</h4></figcaption>
+    <figcaption><h4>Q8 e-tron in chronos grey in S-line</h4></figcaption>
 </figure>
 
+
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/blackoptics_florett_sline.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/blackoptics_florett_slines.jpg" alt="Black optics - Florett Silver S-Line front" title="Black optics - Florett Silver S-Line front">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/s-line_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/s-line_2_st.jpg" alt="Q8 e-tron in chronos grey in S-line" title="Q8 e-tron in chronos grey in S-line">
     </a>
-    <figcaption><h4>Black optics - Florett Silver S-Line front</h4></figcaption>
+    <figcaption><h4>Q8 e-tron in chronos grey in S-line</h4></figcaption>
 </figure>
 
+
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/slinebadge.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/slinebadges.jpg" alt="S-Line-merke" title="S-Line-merke">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/s-line_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/s-line_3_st.jpg" alt="Q8 e-tron in chronos grey in S-line" title="Q8 e-tron in chronos grey in S-line">
     </a>
-    <figcaption><h4>S-Line-merke</h4></figcaption>
+    <figcaption><h4>Q8 e-tron in chronos grey in S-line</h4></figcaption>
 </figure>
 
-The rear diffusor have a more sporty and dynamic look.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/rear-standard.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/rear-standards.jpg"
-        alt="Standard rear" title="Standard rear">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/s-line_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/s-line_4_st.jpg" alt="Q8 e-tron in chronos grey in S-line" title="Q8 e-tron in chronos grey in S-line">
     </a>
-    <figcaption><h4>Standard rear</h4></figcaption>
+    <figcaption><h4>Q8 e-tron in chronos grey in S-line</h4></figcaption>
 </figure>
 
+
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/rear-sline.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/rear-slines.jpg"
-        alt="S-Line rear with more sporty diffusor" title="S-Line rear with more sporty diffusor">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/s-line_5.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/s-line_5_st.jpg" alt="Q8 e-tron in chronos grey in S-line" title="Q8 e-tron in chronos grey in S-line">
     </a>
-    <figcaption><h4>S-Line rear with more sporty diffusor</h4></figcaption>
+    <figcaption><h4>Q8 e-tron in chronos grey in S-line</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/s-line_6.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/s-line_6_st.jpg" alt="Q8 e-tron in chronos grey in S-line" title="Q8 e-tron in chronos grey in S-line">
+    </a>
+    <figcaption><h4>Q8 e-tron in chronos grey in S-line</h4></figcaption>
 </figure>
 
 ## S exterior
