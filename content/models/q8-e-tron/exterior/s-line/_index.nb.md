@@ -121,18 +121,43 @@ opplyste dørterskellister i aluminium har en #S-logo.
  
  Dørinnsatsene og husene til sidespeilene er laget av aluminium, og front- og bakenden er dekorert med S-merker. Audi kan male tilbehør som frontleppe, hjulbuer og terskellister i kontrastfarge på forespørsel.
 
+
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/swheelarcher.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/swheelarchers.jpg"
-        alt="S hjulbue" title="S hjulbue">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/sq_1.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/sq_1_st.jpeg"
+        alt="SQ styling with" title="SQ styling with">
     </a>
-    <figcaption><h4>S hjulbue</h4></figcaption>
+    <figcaption><h4>SQ styling with</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/srear.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/srears.jpg"
-        alt="S bak med s-line diffusor og S-merkee" title="S bak med s-line diffusor og S-merke">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/sq_2.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/sq_2_st.jpeg"
+        alt="SQ styling with" title="SQ styling with">
     </a>
-    <figcaption><h4>S bak med s-line diffusor og S-merke</h4></figcaption>
+    <figcaption><h4>SQ styling with</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/sq_3.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/sq_3_st.jpeg"
+        alt="SQ styling with" title="SQ styling with">
+    </a>
+    <figcaption><h4>SQ styling with</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/sq_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/sq_4_st.jpg"
+        alt="SQ styling with" title="SQ styling with">
+    </a>
+    <figcaption><h4>SQ styling with</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/sq_5.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/sq_5_st.jpg"
+        alt="SQ styling with" title="SQ styling with">
+    </a>
+    <figcaption><h4>SQ styling with</h4></figcaption>
 </figure>
