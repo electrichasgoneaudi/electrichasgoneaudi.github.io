@@ -1,5 +1,5 @@
 ---
-title: Audi e-tron smartphone Interface
+title: Audi Q8 e-tron smartphone Interface
 linktitle: Smartphone Interface
 description: Med alternativet Smartphone Interface utvider du smarttelefonen til MMI-systemet
 weight: 5

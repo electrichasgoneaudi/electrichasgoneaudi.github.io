@@ -1,5 +1,5 @@
 ---
-title: Audi e-tron transportkapasitet 
+title: Audi Q8 e-tron transportkapasitet 
 linktitle: Transportkapasitet 
 description: I tillegg til de 5 setene har e-tron både bagasjerom og frunk i tillegg til takoppbevaring og tilhengermuligheter.
 weight: 6
@@ -9,16 +9,16 @@ weight: 6
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/trunk_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/trunk_1s.jpg" alt="Bagasjerom Audi e-tron" title="Bagasjerom Audi e-tron">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/trunk_1s.jpg" alt="Bagasjerom Audi Q8 e-tron" title="Bagasjerom Audi Q8 e-tron">
     </a>
-    <figcaption><h4>Bagasjerom Audi e-tron</h4></figcaption>
+    <figcaption><h4>Bagasjerom Audi Q8 e-tron</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/trunk_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/trunk_5s.jpg" alt="Standard bagasjerom Audi e-tron med feste til lastesikring" title="Standard bagasjerom Audi e-tron med feste til lastesikring">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/trunk_5s.jpg" alt="Standard bagasjerom Audi Q8 e-tron med feste til lastesikring" title="Standard bagasjerom Audi Q8 e-tron med feste til lastesikring">
     </a>
-    <figcaption><h4>Standard bagasjerom Audi e-tron med feste til lastesikring</h4></figcaption>
+    <figcaption><h4>Standard bagasjerom Audi Q8 e-tron med feste til lastesikring</h4></figcaption>
 </figure>
 
 <figure>
@@ -64,7 +64,7 @@ Alternativ-IDen er **3CX**
 
 ### Oppbevarings- og bagasjeromspakke
 
-Du kan bestille Audi e-tron med oppbevarings- og bagasjeromspakke med opsjonsnr QE1.
+Du kan bestille Audi Q8 e-tron med oppbevarings- og bagasjeromspakke med opsjonsnr QE1.
 
 Den inneholder følgende.
 
@@ -93,16 +93,16 @@ Den inneholder følgende.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/frunk_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/frunk_1s.jpg" alt="Frunk Audi e-tron" title="Frunk Audi e-tron">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/frunk_1s.jpg" alt="Frunk Audi Q8 e-tron" title="Frunk Audi Q8 e-tron">
     </a>
-    <figcaption><h4>Frunk Audi e-tron</h4></figcaption>
+    <figcaption><h4>Frunk Audi Q8 e-tron</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/frunk_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/frunk_2s.jpg" alt="Frunk Audi e-tron" title="Frunk Audi e-tron">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/frunk_2s.jpg" alt="Frunk Audi Q8 e-tron" title="Frunk Audi Q8 e-tron">
     </a>
-    <figcaption><h4>Frunk Audi e-tron</h4></figcaption>
+    <figcaption><h4>Frunk Audi Q8 e-tron</h4></figcaption>
 </figure>
 
 Se nedenfor for Bananabox-test for e-tron og e-tron sportback.
@@ -156,7 +156,7 @@ Alternativer ID **3S1** for aluminiumsskinner og **3S2** for svarte skinner.
 
 ## Trailer
 
-Audi e-tron kan dra tilhengere opp til 1800 kg. Du kan forvente at forbruket går opp avhengig av størrelse på tilhenger
+Audi Q8 e-tron kan dra tilhengere opp til 1800 kg. Du kan forvente at forbruket går opp avhengig av størrelse på tilhenger
 
 ### Trailereksempel 1
 

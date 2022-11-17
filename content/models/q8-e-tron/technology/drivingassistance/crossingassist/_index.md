@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron crossing assist
+title: Audi Q8 e-tron crossing assist
 linktitle: Crossing assist
-description: Audi e-tron can be equipped with crossing assist. Crossing assist recognizes critical cross traffic in front of the car and warns the driver of it both visually and audibly.
+description: Audi Q8 e-tron can be equipped with crossing assist. Crossing assist recognizes critical cross traffic in front of the car and warns the driver of it both visually and audibly.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
@@ -22,6 +22,6 @@ If the driver wants to ease into an intersection or exit with poor visibility, h
 
 {{< youtube k_U-cGCNYtQ >}}
 
-This is part of the city package with option id **PCM** on Audi e-tron
+This is part of the city package with option id **PCM** on Audi Q8 e-tron
 
 {{% children description="true" depth="1" %}}

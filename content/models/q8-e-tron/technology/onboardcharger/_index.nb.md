@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron ombordlader
+title: Audi Q8 e-tron ombordlader
 linktitle: Ombordlader
-description: Audi e-tron har en innbygget ombordlader for vekselstrømlading.
+description: Audi Q8 e-tron har en innbygget ombordlader for vekselstrømlading.
 weight: 5
 ---
 <!-- markdownlint-disable MD033 -->

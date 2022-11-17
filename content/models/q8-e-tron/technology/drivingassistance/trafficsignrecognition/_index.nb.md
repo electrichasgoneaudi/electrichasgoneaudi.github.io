@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron trafikkskiltgjenkjenning 
+title: Audi Q8 e-tron trafikkskiltgjenkjenning 
 linktitle: Trafikkskiltgjenkjenning
-description: Audi e-tron kan leveres med kamerabasert trafikkskiltgjenkjenning. Kamerabasert trafikkskiltgjenkjenning oppdager trafikkskilt som fartsgrenseskilt (inkludert digitale skilt), ingen passeringssoner, adgangsbegrensningsskilt og andre hjelpeskilt, og den viser dem til sjåføren i grafisk form.
+description: Audi Q8 e-tron kan leveres med kamerabasert trafikkskiltgjenkjenning. Kamerabasert trafikkskiltgjenkjenning oppdager trafikkskilt som fartsgrenseskilt (inkludert digitale skilt), ingen passeringssoner, adgangsbegrensningsskilt og andre hjelpeskilt, og den viser dem til sjåføren i grafisk form.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->

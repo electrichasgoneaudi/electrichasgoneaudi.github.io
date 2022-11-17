@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron MMI
+title: Audi Q8 e-tron MMI
 linktitle: Audi MMI
-description: Audi e-tron er utstyrt med den siste generasjon av Audi sitt MMI-system med MMI touch-respons.
+description: Audi Q8 e-tron er utstyrt med den siste generasjon av Audi sitt MMI-system med MMI touch-respons.
 weight: 1
 ---
 
@@ -17,7 +17,7 @@ Audi MMI® (Multi Media Interface)-systemet ble laget for å strømlinjeforme ko
 </figure>
 
 
- Etter premieren i fjerde generasjon av Audi A8 (2017) blir den nå innlemmet i andre modelllinjer som Audi e-tron. Det sentrale elementet er den 10,1-tommers berøringsskjermen i svart panelteknologi. Når den ikke er i bruk, smelter skjermen nesten usynlig inn i den høyglanssvarte frontplaten på instrumentpanelet. Når du starter systemet, vises brukergrensesnittet med sin konsise grafikk. Med en oppløsning på 1 540 x 720 piksler gir TFT-skjermen knivskarpe bilder og høy kontrast, selv når den ses fra en vinkel. Det store displayet brukes til å kontrollere navigasjon, media og kjøretøyfunksjoner. Sjåføren kan klikke, sveipe, zoome og rulle på den. Menystrukturen inkludert søkefunksjonene er intuitiv og flat, som på en moderne smarttelefon.
+ Etter premieren i fjerde generasjon av Audi A8 (2017) blir den nå innlemmet i andre modelllinjer som Audi Q8 e-tron. Det sentrale elementet er den 10,1-tommers berøringsskjermen i svart panelteknologi. Når den ikke er i bruk, smelter skjermen nesten usynlig inn i den høyglanssvarte frontplaten på instrumentpanelet. Når du starter systemet, vises brukergrensesnittet med sin konsise grafikk. Med en oppløsning på 1 540 x 720 piksler gir TFT-skjermen knivskarpe bilder og høy kontrast, selv når den ses fra en vinkel. Det store displayet brukes til å kontrollere navigasjon, media og kjøretøyfunksjoner. Sjåføren kan klikke, sveipe, zoome og rulle på den. Menystrukturen inkludert søkefunksjonene er intuitiv og flat, som på en moderne smarttelefon.
 
 Nøkkelstyrken til MMI berøringsresponsteknologi er dens haptiske tilbakemelding. Når en finger berører skjermglasset, aktiveres ikke en funksjon umiddelbart – et forsiktig trykk med et definert trykk kreves for å gjøre det. Den mekaniske pulsen som sjåføren føler som bekreftelsestilbakemelding, skapes av en elektromagnet som forskyver det fjærmonterte displayet veldig litt sidelengs – omtrent med bredden til et menneskehår. Samtidig avgir en liten høyttaler en klikklyd.
 

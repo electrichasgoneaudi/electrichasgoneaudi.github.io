@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron luftkvalitetspakke
+title: Audi Q8 e-tron luftkvalitetspakke
 linktitle: Luftkvalitetspakke
-description: Audi e-tron har noe standardutstyr og noen muligheter for å gjøre luften bedre inne i bilen.
+description: Audi Q8 e-tron har noe standardutstyr og noen muligheter for å gjøre luften bedre inne i bilen.
 weight: 11
 ---
 <!-- markdownlint-disable MD033 -->

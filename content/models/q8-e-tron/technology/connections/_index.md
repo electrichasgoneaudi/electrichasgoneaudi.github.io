@@ -1,14 +1,14 @@
 ---
-title: Audi e-tron ports and connection
+title: Audi Q8 e-tron ports and connection
 linktitle: Ports and connections
-description: Audi e-tron has options for both USB-C and 12-volt ports in the car.
+description: Audi Q8 e-tron has options for both USB-C and 12-volt ports in the car.
 weight: 9
 ---
 <!-- markdownlint-disable MD033 -->
 
 ## 12 Volt
 
-Audi e-tron comes with 3 12-volt outlets as standard. In front seats, in rear seats and in luggage compartment.
+Audi Q8 e-tron comes with 3 12-volt outlets as standard. In front seats, in rear seats and in luggage compartment.
 
 They are only active when ignition is on.
 

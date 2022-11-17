@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron emergency assist
+title: Audi Q8 e-tron emergency assist
 linktitle: Emergency assist
-description: Audi e-tron can be delivered with emergency assist. Emergency assist detects, within system limits, when the driver is inactive. In such a case, the system assumes control of the vehicle and automatically brakes it to a standstill in its own lane.
+description: Audi Q8 e-tron can be delivered with emergency assist. Emergency assist detects, within system limits, when the driver is inactive. In such a case, the system assumes control of the vehicle and automatically brakes it to a standstill in its own lane.
 weight: 1
 ---
 

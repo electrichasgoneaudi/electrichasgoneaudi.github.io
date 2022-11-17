@@ -1,13 +1,13 @@
 ---
-title: Audi e-tron Charging System
+title: Audi Q8 e-tron Charging System
 linktitle: Charging System
-description: Audi e-tron includes a portable charging system for temporary level 1 and level 2 charging.
+description: Audi Q8 e-tron includes a portable charging system for temporary level 1 and level 2 charging.
 weight: 6
 ---
 <!-- markdownlint-disable MD033 -->
 
 The Charging System Compact is not the charger, technically speaking. This equipment is known as [EVSE](https://en.wikipedia.org/wiki/Charging_station) (Electric Vehicle Supply Equipment) and serves as a
-controller that ensures safe power delivery between your home and the vehicle. Every Audi e-tron comes equipped with this charging system as standard.
+controller that ensures safe power delivery between your home and the vehicle. Every Audi Q8 e-tron comes equipped with this charging system as standard.
 
 For Levels 1 (120 volt AC) and Level 2 (230/400 volt AC), the actual charging process takes place via the vehicle’s own [on-board charger](../onboardcharger/). The onboard charger converts AC power from your home into
 DC power, which is what batteries use to store and supply energy.
@@ -71,7 +71,7 @@ Audi recommends a three-phase, 400-volt outlet for optimal use of the charging s
 
 In conjunction with a compatible home energy management system from SMA Solar Technology or the Hager Group, the e-tron charging system connect offers additional, intelligent functions.
 
-For example, the Audi e-tron can take account of the needs of other consumers in the household and charge with the remaining power available in order to avoid overloading the home electrical system.
+For example, the Audi Q8 e-tron can take account of the needs of other consumers in the household and charge with the remaining power available in order to avoid overloading the home electrical system.
 
 The charging system also allows customers to define individual priorities, such as charging when electricity is less expensive under a variable electricity rate.
 
@@ -104,17 +104,17 @@ install a hardwired charging system. This is not a specific Audi issue, but rele
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/burned_nema_14_50.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/burned_nema_14_50s.jpg"
-        alt="Burned nema 14-50 outlet used for Audi e-tron" title="Burned nema 14-50 outlet used for Audi e-tron">
+        alt="Burned nema 14-50 outlet used for Audi Q8 e-tron" title="Burned nema 14-50 outlet used for Audi Q8 e-tron">
     </a>
-    <figcaption><h4>Burned nema 14-50 outlet used for Audi e-tron</h4></figcaption>
+    <figcaption><h4>Burned nema 14-50 outlet used for Audi Q8 e-tron</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/burned_nema_14_50_2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/burned_nema_14_50_2s.jpg"
-        alt="Burned nema 14-50 outlet used for Audi e-tron" title="Burned nema 14-50 outlet used for Audi e-tron">
+        alt="Burned nema 14-50 outlet used for Audi Q8 e-tron" title="Burned nema 14-50 outlet used for Audi Q8 e-tron">
     </a>
-    <figcaption><h4>Burned nema 14-50 outlet used for Audi e-tron</h4></figcaption>
+    <figcaption><h4>Burned nema 14-50 outlet used for Audi Q8 e-tron</h4></figcaption>
 </figure>
 
 For home use you should install a hardwired charging solution. There exist many providers of these type of equipment.

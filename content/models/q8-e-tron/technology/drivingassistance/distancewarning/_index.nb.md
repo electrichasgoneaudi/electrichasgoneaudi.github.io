@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron avstandvarsling
+title: Audi Q8 e-tron avstandvarsling
 linktitle: Avstandvarsling
-description: Audi e-tron er utstyrt med avstandsvarling. Avstandsvarslingen varsler deg når du kjører for nærme bilen foran deg.
+description: Audi Q8 e-tron er utstyrt med avstandsvarling. Avstandsvarslingen varsler deg når du kjører for nærme bilen foran deg.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->

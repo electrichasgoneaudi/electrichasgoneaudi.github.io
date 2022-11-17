@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron lydsystem
+title: Audi Q8 e-tron lydsystem
 linktitle: Lydsystem
-description: Du kan velge mellom to forskjellige lydsystem for Audi e-tron
+description: Du kan velge mellom to forskjellige lydsystem for Audi Q8 e-tron
 weight: 7
 ---
 <!-- markdownlint-disable MD033 -->

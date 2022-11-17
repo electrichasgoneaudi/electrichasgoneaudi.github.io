@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron adaptive cruise assist
+title: Audi Q8 e-tron adaptive cruise assist
 linktitle: Adaptive cruise assist
-description: Audi e-tron can be equipped with adaptivce cruise assist. The adaptive cruise assist is a combination of adaptive cruise control and active lane assist.
+description: Audi Q8 e-tron can be equipped with adaptivce cruise assist. The adaptive cruise assist is a combination of adaptive cruise control and active lane assist.
 weight: 1
 ---
 

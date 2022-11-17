@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron gatekryssassistent
+title: Audi Q8 e-tron gatekryssassistent
 linktitle: Gatekryssassistent
-description: Audi e-tron kan leveres med gatekryssassistent. Gatekryssassistenten gjenkjenner kritisk krysstrafikk foran bilen og advarer føreren om det både visuelt og hørbart.
+description: Audi Q8 e-tron kan leveres med gatekryssassistent. Gatekryssassistenten gjenkjenner kritisk krysstrafikk foran bilen og advarer føreren om det både visuelt og hørbart.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
@@ -21,6 +21,6 @@ Hvis sjåføren ønsker å lette inn i et kryss eller avkjørsel med dårlig sik
 
 {{< youtube k_U-cGCNYtQ >}}
 
-Dette er en del av bypakken med tilvalgs ID **PCM** på Audi e-tron
+Dette er en del av bypakken med tilvalgs ID **PCM** på Audi Q8 e-tron
 
 {{% children description="true" depth="1" %}}

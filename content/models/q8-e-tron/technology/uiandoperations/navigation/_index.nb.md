@@ -1,11 +1,11 @@
 ---
-title: Audi e-tron navigasjonssystem
+title: Audi Q8 e-tron navigasjonssystem
 linktitle: Navigasjonssystem
-description: Audi e-tron er utstyrt med MMI Navigation plus som hjelper deg å komme frem til destinasjon.
+description: Audi Q8 e-tron er utstyrt med MMI Navigation plus som hjelper deg å komme frem til destinasjon.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
-Navigasjonssystemet på Audi e-tron er basert på kart og data fra [HERE Maps](https://www.here.com/strategic-alliances/audi/IVIdemo).
+Navigasjonssystemet på Audi Q8 e-tron er basert på kart og data fra [HERE Maps](https://www.here.com/strategic-alliances/audi/IVIdemo).
 
 Navigasjonssystemet er tilgjengelig i [virtual cockpit](../virtualcockpit/), [Head up display](../headupdisplay/) og [Audi MMi](../mmi/) og vil hjelpe deg med å navigere til destinasjonen, men vil også hjelpe deg med å finne ladestasjoner, parkering og andre interessante steder langs ruten.
 
@@ -48,7 +48,7 @@ e-tron-ruteplanleggeren beregner den raskeste ruten, tar hensyn til trafikk- og 
     <figcaption><h4>Navigasjonssystemet i Virtual Cockpit med google maps satellittbilder</h4></figcaption>
 </figure>
 
-Brukerne får viktig informasjon som ladekapasitet eller ladetilkoblinger og pluggtyper for de aktuelle ladestasjonene. Dessuten indikerer systemet dynamisk tilgjengelighet, for eksempel om ladestasjoner er ledige eller okkuperte, alltid med en skjevhet for å gå raskt fremover. For eksempel kan to korte ladeprosesser med høy ladekapasitet gi tidsmessige fordeler fremfor ett langt stopp med lav ladekapasitet. Alternative ruter med bedre ladeinfrastruktur vurderes også i beregningen av optimal total reisetid. Audi e-tron ruteplanlegger foretrekker de kraftige HPC-ladestasjonene (HPC = High Power Charging).
+Brukerne får viktig informasjon som ladekapasitet eller ladetilkoblinger og pluggtyper for de aktuelle ladestasjonene. Dessuten indikerer systemet dynamisk tilgjengelighet, for eksempel om ladestasjoner er ledige eller okkuperte, alltid med en skjevhet for å gå raskt fremover. For eksempel kan to korte ladeprosesser med høy ladekapasitet gi tidsmessige fordeler fremfor ett langt stopp med lav ladekapasitet. Alternative ruter med bedre ladeinfrastruktur vurderes også i beregningen av optimal total reisetid. Audi Q8 e-tron ruteplanlegger foretrekker de kraftige HPC-ladestasjonene (HPC = High Power Charging).
 
 Du kan planlegge ruter fra tidligere destinasjoner, favoritter, kontaktadresser og motta destinasjoner fra myAudi-appen.
 
@@ -149,7 +149,7 @@ En melding vil vises hvis MMI beregner en bedre rute for gjeldende ruteveilednin
 
 ## Ytterligere fordeler
 
-Å bruke Audi e-tron navigasjonssystemer har noen tilleggsfordeler du ikke får når du bruker ekstern navigasjon fra telefonen eller annen GPS-enhet.
+Å bruke Audi Q8 e-tron navigasjonssystemer har noen tilleggsfordeler du ikke får når du bruker ekstern navigasjon fra telefonen eller annen GPS-enhet.
 
 - Beregn hva ladenivået vil være på destinasjonen
 - Beregn rekkevidde mer korrekt når destinasjonen er satt basert på informasjon om ruten

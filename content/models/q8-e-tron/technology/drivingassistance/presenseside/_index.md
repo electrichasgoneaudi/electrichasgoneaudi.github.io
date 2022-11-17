@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron pre sense side
+title: Audi Q8 e-tron pre sense side
 linktitle: Pre sense side
-description: Audi e-tron can be equipped with Audi pre sense side. Audi pre sense side reacts in the event of a collision from the side. Amongst ohthers it uses the radar sensors of the crossing assist to calculate the probability of an accident involving traffic approaching from the side.
+description: Audi Q8 e-tron can be equipped with Audi pre sense side. Audi pre sense side reacts in the event of a collision from the side. Amongst ohthers it uses the radar sensors of the crossing assist to calculate the probability of an accident involving traffic approaching from the side.
 weight: 1
 ---
 

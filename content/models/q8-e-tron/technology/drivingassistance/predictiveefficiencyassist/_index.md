@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron predictive efficiency assist
+title: Audi Q8 e-tron predictive efficiency assist
 linktitle: Efficiency assist
-description: Audi e-tron can be delivered with predictive efficiency assist. Predictive Efficiency assist helps the driver to drive preemptively and save energy. 
+description: Audi Q8 e-tron can be delivered with predictive efficiency assist. Predictive Efficiency assist helps the driver to drive preemptively and save energy. 
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
@@ -27,7 +27,7 @@ The driver is shown corresponding information in the instrument cluster or in th
     <figcaption><h4>e-tron virtual cockpit with symbol showing to lift the right foot</h4></figcaption>
 </figure>
 
-If the cruise assist is switched on or the ACC is activated, efficiency assist regulates actively. It decelerates and accelerates predictively and adapts the speed to the course of the road and the traffic situation, also taking vehicles driving in front into account. If the driver so wishes, the system controls the freewheeling and coasting operation of the engine in cooperation with other control units. The predictive system always maintains a driving style that reflects the driving program selected – from efficient to sporty – and uses scope for recuperation in the Audi e-tron.
+If the cruise assist is switched on or the ACC is activated, efficiency assist regulates actively. It decelerates and accelerates predictively and adapts the speed to the course of the road and the traffic situation, also taking vehicles driving in front into account. If the driver so wishes, the system controls the freewheeling and coasting operation of the engine in cooperation with other control units. The predictive system always maintains a driving style that reflects the driving program selected – from efficient to sporty – and uses scope for recuperation in the Audi Q8 e-tron.
 
 The driver can override the system at any time by accelerating and braking. In addition, drivers can individually activate, deactivate and configure many of their detailed functions in the MMI. Depending on the model, the control, for example, can be adapted to the course of the road in three stages: slow, medium or fast.
 

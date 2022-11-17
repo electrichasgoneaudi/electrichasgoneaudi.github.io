@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron onboard Charger
+title: Audi Q8 e-tron onboard Charger
 linktitle: Onboard Charger
-description: Audi e-tron has an onboard charger for level 1 and level 2 charging.
+description: Audi Q8 e-tron has an onboard charger for level 1 and level 2 charging.
 weight: 5
 ---
 <!-- markdownlint-disable MD033 -->

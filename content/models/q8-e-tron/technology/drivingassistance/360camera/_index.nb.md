@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron 360 kamera
+title: Audi Q8 e-tron 360 kamera
 linktitle: 360 kamera
-description: Audi e-tron kan leveres med 360 kamera . De fire 360 graders kameraene på kjøretøyet skanner umiddelbar nærhet og viser hindringer innenfor. Sjåfører kan velge mellom ulike visninger som forenkler parkering og manøvrering.
+description: Audi Q8 e-tron kan leveres med 360 kamera . De fire 360 graders kameraene på kjøretøyet skanner umiddelbar nærhet og viser hindringer innenfor. Sjåfører kan velge mellom ulike visninger som forenkler parkering og manøvrering.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->

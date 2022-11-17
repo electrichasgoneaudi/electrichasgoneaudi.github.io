@@ -26,7 +26,7 @@ HD Matrix LED lights is installed on all Q8 e-trons, but you need to buy an opti
 
 If you dont buy this option when ordering the car you can also buy it as [function on demand](/models/e-tron/technology/fod/) from the myAudi app. Note it requires two packages to get the full matrix experience as described above. The HD Matrix and Light Function package.
 
-See video below how HD Matrix works on an Audi e-tron
+See video below how HD Matrix works on an Audi Q8 e-tron
 
 {{< youtube c9L-mwEpTDo >}}
 

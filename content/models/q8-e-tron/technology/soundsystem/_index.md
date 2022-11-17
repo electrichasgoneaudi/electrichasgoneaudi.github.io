@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron soundsystem
+title: Audi Q8 e-tron soundsystem
 linktitle: Soundsystem
-description: You can choose between two different sound systems on Audi e-tron  
+description: You can choose between two different sound systems on Audi Q8 e-tron  
 weight: 7
 ---
 

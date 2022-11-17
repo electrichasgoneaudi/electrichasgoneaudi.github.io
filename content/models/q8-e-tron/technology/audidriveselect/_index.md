@@ -1,12 +1,12 @@
 ---
-title: Audi e-tron drive select 
+title: Audi Q8 e-tron drive select 
 linktitle: Drive Select
-description: Audi e-tron is equipped with drive select as standard.
+description: Audi Q8 e-tron is equipped with drive select as standard.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
 
-The Audi drive select dynamic handling system allows drivers to experience different setups in their Audi e-tron.
+The Audi drive select dynamic handling system allows drivers to experience different setups in their Audi Q8 e-tron.
 Choosing one of the modes auto, comfort, all-road, offroad, dynamic or efficiency changes the characteristic of important drive and suspension components from a comfort bias to distinctly 
 dynamic or particularly energy-efficient.
 

@@ -1,13 +1,13 @@
 ---
-title: Audi e-tron tilkoblinger
+title: Audi Q8 e-tron tilkoblinger
 linktitle: Tilkoblingsmuligheter
-description: Audi e-tron har tilkoblingsmuligheter for USB-C og 12 Volt
+description: Audi Q8 e-tron har tilkoblingsmuligheter for USB-C og 12 Volt
 weight: 9
 ---
 <!-- markdownlint-disable MD033 -->
 ## 12 Volt
 
-Audi e-tron kommer med 3 stk 12-volts uttak som standard. I forseter, i bakseter og i bagasjerom.
+Audi Q8 e-tron kommer med 3 stk 12-volts uttak som standard. I forseter, i bakseter og i bagasjerom.
 
 De er bare aktive når tenningen er på.
 

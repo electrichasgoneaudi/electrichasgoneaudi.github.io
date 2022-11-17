@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron garasjeportåpner
+title: Audi Q8 e-tron garasjeportåpner
 linktitle: Garasjeportåpner
-description: Audi e-tron kan bestilles med garasjeportåpner
+description: Audi Q8 e-tron kan bestilles med garasjeportåpner
 weight: 11
 ---
 <!-- markdownlint-disable MD033 -->

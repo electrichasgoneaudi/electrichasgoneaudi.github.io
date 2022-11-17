@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron fjernlysassistent 
+title: Audi Q8 e-tron fjernlysassistent 
 linktitle: Fjernlysassistent
-description: Audi e-tron kan utstyres med fjernlysassistent. Fjernlysassistent bruker et kamera montert på det innvendige speilet.
+description: Audi Q8 e-tron kan utstyres med fjernlysassistent. Fjernlysassistent bruker et kamera montert på det innvendige speilet.
 weight: 1
 ---
 

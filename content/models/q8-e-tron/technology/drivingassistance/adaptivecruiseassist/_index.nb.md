@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron adaptiv kjøreassistent
+title: Audi Q8 e-tron adaptiv kjøreassistent
 linktitle: Adaptiv kjøreassistent
-description: Audi e-tron kan utstyres med adaptiv kjøreassistent. Den adaptive kjøreassistenten er en kombinasjon av adaptiv cruisekontroll og aktiv filassistent.
+description: Audi Q8 e-tron kan utstyres med adaptiv kjøreassistent. Den adaptive kjøreassistenten er en kombinasjon av adaptiv cruisekontroll og aktiv filassistent.
 weight: 1
 ---
 

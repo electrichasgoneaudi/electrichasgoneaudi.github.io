@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron klimaanlegg
+title: Audi Q8 e-tron klimaanlegg
 linktitle: Klimaanlegg
-description: Audi e-tron er utstyrt med 2-soners elektronisk klimaanlegg med varmepumpe som standard.
+description: Audi Q8 e-tron er utstyrt med 2-soners elektronisk klimaanlegg med varmepumpe som standard.
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -61,7 +61,7 @@ Dette gir i tilegg til egenskapene med 2 soner.
 
 ### Parkeringsklimanlegg
 
-Audi e-tron er utstyrt med et parkeringsklimaanlegg som kan brukes når bilen er parkert. Denne kan aktiveres
+Audi Q8 e-tron er utstyrt med et parkeringsklimaanlegg som kan brukes når bilen er parkert. Denne kan aktiveres
 fra MMI-manual eller satt av en timer. Et typisk brukstilfelle er når du lader siden bilen må slås av da og AC-hovedenheten ikke fungerer.
 
 <figure>

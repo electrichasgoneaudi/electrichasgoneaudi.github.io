@@ -1,13 +1,13 @@
 ---
-title: Audi e-tron Tire Pressure Monitoring System TPMS
+title: Audi Q8 e-tron Tire Pressure Monitoring System TPMS
 linktitle: TPMS
-description: Audi e-tron has two different TPMS systems to choose from.
+description: Audi Q8 e-tron has two different TPMS systems to choose from.
 weight: 8
 ---
 
 <!-- markdownlint-disable MD033 -->
 
-Audi e-tron is equipped with an indirect TPMS system as standard.  This means it uses the ABS sensor to detect if there are wheels with low pressure compared to the others.
+Audi Q8 e-tron is equipped with an indirect TPMS system as standard.  This means it uses the ABS sensor to detect if there are wheels with low pressure compared to the others.
 
 ### Direct TPMS
 
@@ -48,7 +48,7 @@ The following table shows the correct tire pressure
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/tpms/correcttp.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/tpms/correcttps.jpg"
-        alt="Correct Tire pressure Audi e-tron" title="Correct Tire pressure Audi e-tron">
+        alt="Correct Tire pressure Audi Q8 e-tron" title="Correct Tire pressure Audi Q8 e-tron">
     </a>
-    <figcaption><h4>Correct Tire pressure Audi e-tron</h4></figcaption>
+    <figcaption><h4>Correct Tire pressure Audi Q8 e-tron</h4></figcaption>
 </figure>

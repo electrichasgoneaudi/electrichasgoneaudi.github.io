@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron climate control
+title: Audi Q8 e-tron climate control
 linktitle: Climate control
-description: Audi e-tron is equipped with a 2-zone electronic climate control with heat pump as standard.
+description: Audi Q8 e-tron is equipped with a 2-zone electronic climate control with heat pump as standard.
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -61,7 +61,7 @@ Utilization of residual heat
 
 ### Auxiliary air conditioner
 
-The Audi e-tron is equipped with a Auxiliary air conditioner that can be used when the car is parked. This can be activated
+The Audi Q8 e-tron is equipped with a Auxiliary air conditioner that can be used when the car is parked. This can be activated
 from the MMI manual or set aside a timer. A typical use case is when you charge since the car must be switched off then and the AC main unit does not work.
 
 <figure>

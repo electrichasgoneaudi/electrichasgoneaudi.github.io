@@ -64,6 +64,6 @@ Du kan bestille e-tron innstegslys alternativ ID **9TF**
 
 ## Lyktespyleranlegg
 
-Audi e-tron har lyktespylere som standard for hovedlyktene.
+Audi Q8 e-tron har lyktespylere som standard for hovedlyktene.
 
 {{% children description="true" depth="1" %}}

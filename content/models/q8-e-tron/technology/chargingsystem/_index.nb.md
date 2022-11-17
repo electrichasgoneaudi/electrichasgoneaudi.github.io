@@ -1,12 +1,12 @@
 ---
-title: Audi e-tron ladesystem
+title: Audi Q8 e-tron ladesystem
 linktitle: Ladesystem
-description: Audi e-tron inkluderer et bærbart ladesystem for midlertidig lading 1 og 2.
+description: Audi Q8 e-tron inkluderer et bærbart ladesystem for midlertidig lading 1 og 2.
 weight: 6
 ---
 <!-- markdownlint-disable MD033 -->
 
-Ladesystem kompakt er ikke laderen, teknisk sett. Dette utstyret er kjent som [EVSE](https://en.wikipedia.org/wiki/Charging_station) (Electric Vehicle Supply Equipment) og fungerer som en kontroller som sørger for sikker strømforsyning mellom hjemmet ditt og kjøretøyet. Hver Audi e-tron er utstyrt med dette ladesystemet som standard.
+Ladesystem kompakt er ikke laderen, teknisk sett. Dette utstyret er kjent som [EVSE](https://en.wikipedia.org/wiki/Charging_station) (Electric Vehicle Supply Equipment) og fungerer som en kontroller som sørger for sikker strømforsyning mellom hjemmet ditt og kjøretøyet. Hver Audi Q8 e-tron er utstyrt med dette ladesystemet som standard.
 
 For nivå 1 (120 volt vekselstrøm) og nivå 2 (230/400 volt vekselstrøm), foregår selve ladeprosessen via kjøretøyets egen [ombordlader](../onboardcharger/). Den innebygde laderen konverterer vekselstrøm fra hjemmet til DC-strøm, som er det batterier bruker til å lagre og levere energi.
 
@@ -69,7 +69,7 @@ Audi anbefaler et trefaset, 400-volts uttak for optimal bruk av ladesystemets ti
 
 I forbindelse med et kompatibelt energistyringssystem for hjemmet fra SMA Solar Technology eller Hager Group, tilbyr e-tron ladesystem connect flere, intelligente funksjoner.
 
-For eksempel kan Audi e-tron ta hensyn til behovene til andre forbrukere i husholdningen og lade med den gjenværende strøm tilgjengelig for å unngå overbelastning av hjemmets elektriske system.
+For eksempel kan Audi Q8 e-tron ta hensyn til behovene til andre forbrukere i husholdningen og lade med den gjenværende strøm tilgjengelig for å unngå overbelastning av hjemmets elektriske system.
 
 Ladesystemet lar også kundene definere individuelle prioriteringer, for eksempel lading når strømmen er rimeligere under en variabel strømtakst.
 

@@ -1,12 +1,12 @@
 ---
-title: Audi e-tron dekktrykkskontroll (TPMS)
+title: Audi Q8 e-tron dekktrykkskontroll (TPMS)
 linktitle: TPMS
-description: Audi e-tron har to forskjellige TPMS-systemer å velge mellom.
+description: Audi Q8 e-tron har to forskjellige TPMS-systemer å velge mellom.
 weight: 8
 ---
 <!-- markdownlint-disable MD033 -->
 
-Audi e-tron er utstyrt med et indirekte TPMS-system som standard. Dette betyr at den bruker ABS-sensoren til å oppdage om det er hjul med lavt trykk sammenlignet med de andre.
+Audi Q8 e-tron er utstyrt med et indirekte TPMS-system som standard. Dette betyr at den bruker ABS-sensoren til å oppdage om det er hjul med lavt trykk sammenlignet med de andre.
 
 ### Direkte TPMS
 
@@ -46,7 +46,7 @@ Følgende tabell viser riktig dekktrykk
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/tpms/correcttp.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/tpms/correcttps.jpg"
-        alt="Riktig dekktrykk Audi e-tron" title="Riktig dekktrykk Audi e-tron">
+        alt="Riktig dekktrykk Audi Q8 e-tron" title="Riktig dekktrykk Audi Q8 e-tron">
     </a>
-    <figcaption><h4>Riktig dekktrykk Audi e-tron</h4></figcaption>
+    <figcaption><h4>Riktig dekktrykk Audi Q8 e-tron</h4></figcaption>
 </figure>

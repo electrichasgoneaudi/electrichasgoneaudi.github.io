@@ -1,7 +1,7 @@
 ---
-title:  Audi e-tron fartsbegrenseren
+title:  Audi Q8 e-tron fartsbegrenseren
 linktitle: Fartsbegrenser
-description: Audi e-tron er utstyrt med fartsbegrenser. Den konfigurerbare fartsbegrenseren begrenser kjørehastigheten til en verdi satt av sjåføren innenfor hastighetsområdet 30 til 250 km/t (18,6 til 155,3 mph) – noe som er veldig nyttig innenfor bygrenser eller byggesoner, for eksempel.
+description: Audi Q8 e-tron er utstyrt med fartsbegrenser. Den konfigurerbare fartsbegrenseren begrenser kjørehastigheten til en verdi satt av sjåføren innenfor hastighetsområdet 30 til 250 km/t (18,6 til 155,3 mph) – noe som er veldig nyttig innenfor bygrenser eller byggesoner, for eksempel.
 weight: 1
 ---
 

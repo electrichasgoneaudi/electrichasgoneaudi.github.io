@@ -1,13 +1,13 @@
 ---
-title: Audi e-tron sikkerhetsteknologier
+title: Audi Q8 e-tron sikkerhetsteknologier
 linktitle: Sikkerhet
-description: Audi e-tron har flere sikkerhetsteknologier for å redusere skader ved kollisjoner
+description: Audi Q8 e-tron har flere sikkerhetsteknologier for å redusere skader ved kollisjoner
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
 ## Kollisjonsputer
 
-Audi e-tron har flere kollisjonsputer som standard.
+Audi Q8 e-tron har flere kollisjonsputer som standard.
 
 ### Kollisjonsputer foran
 
@@ -72,22 +72,22 @@ Tilvalg **4X9**
 
 ## Krasjtesting
 
-Audi e-tron har fått full score på forskjellige kollisjonstester. Se nedenfor.
+Audi Q8 e-tron har fått full score på forskjellige kollisjonstester. Se nedenfor.
 
-### Euro NCAP kollisjonstest av Audi e-tron 2019
+### Euro NCAP kollisjonstest av Audi Q8 e-tron 2019
 
 {{< youtube Go0_PztwYeE >}}
 
 
-### 2019 Audi e-tron på førersiden liten overlapping IIHS kollisjonstest
+### 2019 Audi Q8 e-tron på førersiden liten overlapping IIHS kollisjonstest
 
 {{< youtube 02TDZn0s-zM >}}
 
-### 2019 Audi e-tron side IIHS kollisjonstest
+### 2019 Audi Q8 e-tron side IIHS kollisjonstest
 
 {{< youtube 8km4p2WEtYA >}}
 
-### 2019 Audi e-tron moderat overlapp IIHS kollisjonstest
+### 2019 Audi Q8 e-tron moderat overlapp IIHS kollisjonstest
 
 {{< youtube V2jTxkptYm8 >}}
 

@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron avkjøringsassistent
+title: Audi Q8 e-tron avkjøringsassistent
 linktitle: Avkjøringsassistent
-description: Audi e-tron kan utstyres med avkjøringsassistent. Avkjøringsassistenten overvåker kjørefeltet med møtende trafikk ved hjelp av radarsensorer, frontkamera og, i enkelte modeller, en laserskanner.
+description: Audi Q8 e-tron kan utstyres med avkjøringsassistent. Avkjøringsassistenten overvåker kjørefeltet med møtende trafikk ved hjelp av radarsensorer, frontkamera og, i enkelte modeller, en laserskanner.
 weight: 1
 ---
 
@@ -9,9 +9,9 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/turnassist/turnassist.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/turnassist/turnassists.jpg"
-        alt="Audi e-tron avkjøringsassistent" title="Audi e-tron avkjøringsassistent">
+        alt="Audi Q8 e-tron avkjøringsassistent" title="Audi Q8 e-tron avkjøringsassistent">
     </a>
-    <figcaption><h4>Audi e-tron avkjøringsassistent</h4></figcaption>
+    <figcaption><h4>Audi Q8 e-tron avkjøringsassistent</h4></figcaption>
 </figure>
 
 

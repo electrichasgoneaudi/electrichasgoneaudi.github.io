@@ -1,13 +1,13 @@
 ---
-title: Audi e-tron vindusviskere
+title: Audi Q8 e-tron vindusviskere
 linktitle: Vindusviskere
-description: Audi e-tron har to forskjellige typer vindusviskere å velge mellom.
+description: Audi Q8 e-tron har to forskjellige typer vindusviskere å velge mellom.
 weight: 8
 ---
 <!-- markdownlint-disable MD033 -->
 ## Standard vindusviskere
 
-Audi e-tron er utstyrt med standard manuell vindusviskere hvor man selv kan styre hastigheten.
+Audi Q8 e-tron er utstyrt med standard manuell vindusviskere hvor man selv kan styre hastigheten.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/wipers/wipers_1.jpg">
@@ -19,7 +19,7 @@ Audi e-tron er utstyrt med standard manuell vindusviskere hvor man selv kan styr
 
 ### Adaptive vindusviskere
 
-Som ekstrautstyr kan du få adaptive vindusviskere på Audi e-tron. Adaptive vindusviskere har dyser i selve viskerarmene for forbedret sikt under bruk.
+Som ekstrautstyr kan du få adaptive vindusviskere på Audi Q8 e-tron. Adaptive vindusviskere har dyser i selve viskerarmene for forbedret sikt under bruk.
 
 De adaptive piskerne tar hensyn til kjørehastigheten, utetemperaturen og graden av smuss og justerer sprøytemønsteret for å rengjøre frontruten raskt og pålitelig, uten å forstyrre førerens sikt under operasjonen.
 

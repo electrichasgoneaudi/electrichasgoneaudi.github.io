@@ -1,5 +1,5 @@
 ---
-title: Audi e-tron virtual Cockpit
+title: Audi Q8 e-tron virtual Cockpit
 linktitle: Virtual Cockpit
 description: Audi virtual cockpit er en heldigital instrumentklynge med en 12,3-tommers TFT-skjerm.
 weight: 3

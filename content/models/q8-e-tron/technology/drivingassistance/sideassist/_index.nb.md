@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron filskifteassistent
+title: Audi Q8 e-tron filskifteassistent
 linktitle: Filskifteassistent
-description: Audi e-tron kan leveres med filskifteassistent. Filskifteassistenten hjelper føreren med å skifte fil ved kjørehastigheter på 15 km/t (9,3 mph) og raskere.
+description: Audi Q8 e-tron kan leveres med filskifteassistent. Filskifteassistenten hjelper føreren med å skifte fil ved kjørehastigheter på 15 km/t (9,3 mph) og raskere.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->

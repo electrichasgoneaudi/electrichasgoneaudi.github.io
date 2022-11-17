@@ -1,13 +1,13 @@
 ---
-title: Audi e-tron locking systems
+title: Audi Q8 e-tron locking systems
 linktitle: Access & locking
-description: Audi e-tron have different key and locking options.
+description: Audi Q8 e-tron have different key and locking options.
 weight: 7
 ---
 <!-- markdownlint-disable MD033 -->
 ## Standard key
 
-The standard key on Audi e-tron is equipped with Keyless Go. This means that the engine start authorization is released without actively actuating the key. 
+The standard key on Audi Q8 e-tron is equipped with Keyless Go. This means that the engine start authorization is released without actively actuating the key. 
 
 To do this, the driver must sit in the vehicle and carry the convenience key with him.
 
@@ -39,7 +39,7 @@ The luggage compartment lid can be conveniently unlocked using the luggage compa
     <figcaption><h4>With advance key you can open tailgate with kicking the foot under the tailgate</h4></figcaption>
 </figure>
 
-As the standard key, the advance key on Audi e-tron is equipped with Keyless Go. This means
+As the standard key, the advance key on Audi Q8 e-tron is equipped with Keyless Go. This means
 the engine start authorization is also released without actively actuating the convenience key.
 
 To do this, the driver must sit in the vehicle and carry the convenience key with him.

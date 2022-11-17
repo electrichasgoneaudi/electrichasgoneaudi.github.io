@@ -1,13 +1,13 @@
 ---
-title: Audi e-tron safety technology
+title: Audi Q8 e-tron safety technology
 linktitle: Safety
-description: Audi e-tron has an serveral safety technologies to reduce damage in collisions
+description: Audi Q8 e-tron has an serveral safety technologies to reduce damage in collisions
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
 ## Airbags
 
-Audi e-tron has serveral airbags as standard.
+Audi Q8 e-tron has serveral airbags as standard.
 
 ### Front airbags
 
@@ -71,22 +71,22 @@ Option **4X9**
 
 ## Crash testing
 
-Audi e-tron has received full score on different crash testes. See below. 
+Audi Q8 e-tron has received full score on different crash testes. See below. 
 
-### Euro NCAP Crash Test of Audi e-tron 2019
+### Euro NCAP Crash Test of Audi Q8 e-tron 2019
 
 {{< youtube Go0_PztwYeE >}}
 
 
-### 2019 Audi e-tron driver-side small overlap IIHS crash test
+### 2019 Audi Q8 e-tron driver-side small overlap IIHS crash test
 
 {{< youtube 02TDZn0s-zM >}}
 
-### 2019 Audi e-tron side IIHS crash test
+### 2019 Audi Q8 e-tron side IIHS crash test
 
 {{< youtube 8km4p2WEtYA >}}
 
-### 2019 Audi e-tron moderate overlap IIHS crash test
+### 2019 Audi Q8 e-tron moderate overlap IIHS crash test
 
 {{< youtube V2jTxkptYm8 >}}
 

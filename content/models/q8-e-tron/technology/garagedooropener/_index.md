@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron garage door opener
+title: Audi Q8 e-tron garage door opener
 linktitle: Garage door opener
-description: You can order Audi e-tron with a programmable garage door opener. 
+description: You can order Audi Q8 e-tron with a programmable garage door opener. 
 weight: 15
 ---
 <!-- markdownlint-disable MD033 -->

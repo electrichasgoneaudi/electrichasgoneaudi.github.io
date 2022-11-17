@@ -1,15 +1,15 @@
 ---
-title: Audi e-tron whindshield wipers
+title: Audi Q8 e-tron whindshield wipers
 linktitle: Windshield wipers
-description: Audi e-tron has two different windhshield wipers to choose from
+description: Audi Q8 e-tron has two different windhshield wipers to choose from
 weight: 12
 ---
 <!-- markdownlint-disable MD033 -->
 ### Standard wipers
 
-Audi e-tron is equipped with standard manual windscreen wipers where you can control the speed yourself.
+Audi Q8 e-tron is equipped with standard manual windscreen wipers where you can control the speed yourself.
 
-Audi e-tron er utstyrt med standard manuelle vindusviskere hvor man selv kan styre hastighet.
+Audi Q8 e-tron er utstyrt med standard manuelle vindusviskere hvor man selv kan styre hastighet.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/wipers/wipers_1.jpg">
@@ -21,7 +21,7 @@ Audi e-tron er utstyrt med standard manuelle vindusviskere hvor man selv kan sty
 
 ### Adaptive wipers
 
-As an option you can get adaptive windshield wipers on Audi e-tron. Adaptive wipers features fluid spray nozzles within the wiper arms themselves for improved visibility during the wiping operation.
+As an option you can get adaptive windshield wipers on Audi Q8 e-tron. Adaptive wipers features fluid spray nozzles within the wiper arms themselves for improved visibility during the wiping operation.
 
 The adaptive wipers takes into account the driving speed, the outside temperature and the degree of dirt and adjusts the spray pattern to clean the windshield fast and reliably, without distorting the driver’s view during the operation.
 

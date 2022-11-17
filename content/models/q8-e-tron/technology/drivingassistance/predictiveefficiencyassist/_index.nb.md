@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron effektivitetsassistent
+title: Audi Q8 e-tron effektivitetsassistent
 linktitle: Effektivitetsassistent
-description: Audi e-tron kan leveres med effektivitetsassistent. Effektivitetsassistenten hjelper sjåføren å kjøre mest mulig energieffektivt. 
+description: Audi Q8 e-tron kan leveres med effektivitetsassistent. Effektivitetsassistenten hjelper sjåføren å kjøre mest mulig energieffektivt. 
 weight: 1
 ---
 
@@ -27,7 +27,7 @@ Føreren vises tilsvarende informasjon i instrumentgruppen eller i Audi virtual 
     <figcaption><h4>e-tron virtuell cockpit med symbol som viser for å løfte høyre fot</h4></figcaption>
 </figure>
 
-Hvis cruiseassistenten er slått på eller ACC er aktivert, regulerer effektivitetsassistenten aktivt. Den bremser og akselererer prediktivt og tilpasser hastigheten til veiforløpet og trafikksituasjonen, og tar også hensyn til kjøretøyer som kjører foran. Hvis sjåføren ønsker det, styrer systemet friløps- og frihjulsdriften til motoren i samarbeid med andre kontrollenheter. Det prediktive systemet opprettholder alltid en kjørestil som gjenspeiler det valgte kjøreprogrammet – fra effektivt til sporty – og utnytter mulighetene for restitusjon i Audi e-tron.
+Hvis cruiseassistenten er slått på eller ACC er aktivert, regulerer effektivitetsassistenten aktivt. Den bremser og akselererer prediktivt og tilpasser hastigheten til veiforløpet og trafikksituasjonen, og tar også hensyn til kjøretøyer som kjører foran. Hvis sjåføren ønsker det, styrer systemet friløps- og frihjulsdriften til motoren i samarbeid med andre kontrollenheter. Det prediktive systemet opprettholder alltid en kjørestil som gjenspeiler det valgte kjøreprogrammet – fra effektivt til sporty – og utnytter mulighetene for restitusjon i Audi Q8 e-tron.
 
 Føreren kan overstyre systemet når som helst ved å akselerere og bremse. I tillegg kan sjåførene individuelt aktivere, deaktivere og konfigurere mange av sine detaljerte funksjoner i MMI. Avhengig av modell kan styringen for eksempel tilpasses veiforløpet i tre trinn: sakte, middels eller raskt.
 

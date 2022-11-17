@@ -1,14 +1,14 @@
 ---
-title: Audi e-tron brakes & recuperation
+title: Audi Q8 e-tron brakes & recuperation
 linktitle: Brakes & recuperation
-description: The Audi e-tron is the first electric series-production model that uses an electrohydraulically integrated brake control system.
+description: The Audi Q8 e-tron uses an electrohydraulically integrated brake control system.
 weight: 7
 ---
 <!-- markdownlint-disable MD033 -->
 
 ## Regenerative brakes
 
-With its recuperation concept, the Audi e-tron can recover most of the kinetic energy during braking (recuperation– electric motors in generator mode) and significantly increase range, depending on the topography. On the Audi e-tron, there are three ways to recuperate energy:
+With its recuperation concept, the Audi Q8 e-tron can recover most of the kinetic energy during braking (recuperation– electric motors in generator mode) and significantly increase range, depending on the topography. On the Audi Q8 e-tron, there are three ways to recuperate energy:
 
 ### Automatic recuperation
 
@@ -20,13 +20,13 @@ When the car enters a zone that enforces a lower speed or when it comes up behin
 
 If the distance available is too short, it switches to coasting recuperation up to 0.15 g.
 
-The predictive efficiency assist system must be activated in the Audi e-tron for automatic recuperation to cut in.
+The predictive efficiency assist system must be activated in the Audi Q8 e-tron for automatic recuperation to cut in.
 
 When braking, the motor at the rear alone performs the deceleration in most everyday driving situations.
 
 ### Manual recuperation via the paddle levers
 
-On the steering wheel, the Audi e-tron has paddle levers to set recuperation in three different levels manually
+On the steering wheel, the Audi Q8 e-tron has paddle levers to set recuperation in three different levels manually
  ![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/paddleright.png "Right paddle to increase regen.")
 
 The levels are
@@ -57,7 +57,7 @@ See also articles on [Regenerative braking](../../../../guides/regen) and [one p
 
 ## Physical brakes
 
-As the basis for the brake system, the Audi e-tron uses the brake system from the Audi Q7.
+As the basis for the brake system, the Audi Q8 e-tron uses the brake system from the Audi Q7.
 
 The wheel brakes are actuated hydraulically, the reinforcement is actuated electrically, and the activation is actuated electronically.
 
@@ -73,14 +73,14 @@ In the case of ABS braking, pressure buildup and reduction are not noticeable in
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/brakes/brakesystem.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/brakes/brakesystems.jpg" alt="Audi e-tron brake system" title="Audi e-tron brake system">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/brakes/brakesystems.jpg" alt="Audi Q8 e-tron brake system" title="Audi Q8 e-tron brake system">
     </a>
-    <figcaption><h4>Audi e-tron brake system</h4></figcaption>
+    <figcaption><h4>Audi Q8 e-tron brake system</h4></figcaption>
 </figure>
 
 The electro-hydraulic brake system is activated when the driver depresses the left-hand pedal so hard that the deceleration exceeds 0.3 g. 
 
-Otherwise, the Audi e-tron decelerates through recuperation via the two electric motors. The brake control system builds up brake pressure for the wheel brakes with great precision and is roughly twice as fast as a conventional brake system.
+Otherwise, the Audi Q8 e-tron decelerates through recuperation via the two electric motors. The brake control system builds up brake pressure for the wheel brakes with great precision and is roughly twice as fast as a conventional brake system.
 
 When automated emergency braking is performed, there are only 150 milliseconds between the initiation of the brake application and the presence of maximum brake pressure between the pads and disks.
 
@@ -94,7 +94,7 @@ This gap minimizes possible friction and heat generation and contributes activel
 
 ### Disabling to prevent rust
 
-The Audi e-tron has a built-in system to reduce rust on the brake discs. The Audi e-tron will try cleaning the brake disc for rust. The braking system typically disconnects regen for the first braking of the day.
+The Audi Q8 e-tron has a built-in system to reduce rust on the brake discs. The Audi Q8 e-tron will try cleaning the brake disc for rust. The braking system typically disconnects regen for the first braking of the day.
 
 ## Videos
 

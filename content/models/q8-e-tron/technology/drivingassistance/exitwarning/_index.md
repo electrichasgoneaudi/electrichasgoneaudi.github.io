@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron exit warning
+title: Audi Q8 e-tron exit warning
 linktitle: Exit warning
-description: Audi e-tron can be delivered with exit warning. Exit warning improves safety in city traffic. If the car has come to a stop and other vehicles or bicyclists classified as critical are approaching from the rear, the system warns passengers not to open the doors.
+description: Audi Q8 e-tron can be delivered with exit warning. Exit warning improves safety in city traffic. If the car has come to a stop and other vehicles or bicyclists classified as critical are approaching from the rear, the system warns passengers not to open the doors.
 weight: 1
 ---
 
@@ -11,7 +11,7 @@ weight: 1
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/exitwarning/exitwarnings.jpg"
         alt="Exit warning" title="Exit warning">
     </a>
-    <figcaption><h4>Exit warning Audi e-tron</h4></figcaption>
+    <figcaption><h4>Exit warning Audi Q8 e-tron</h4></figcaption>
 </figure>
 
  The system does this using LED lights in the door panels. In a situation assessed to be hazardous, the LEDs flicker and light red. The LEDs of Audi side assist are also lit in the relevant exterior side mirror. The exit warning remains active for approximately three minutes after the ignition is turned off.

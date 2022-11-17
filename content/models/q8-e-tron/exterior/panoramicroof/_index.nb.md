@@ -1,12 +1,12 @@
 ---
-title: Audi e-tron panoramatak
+title: Audi Q8 e-tron panoramatak
 linktitle: Panoramatak
-description: Ønsker du å skille deg ut i mengden kan du bestille din e-tron med panoramatak.
+description: Ønsker du å skille deg ut i mengden kan du bestille din Q8 e-tron med panoramatak.
 weight: 6
 ---
 <!-- markdownlint-disable MD033 -->
 
-Taket kan åpnes. I tillegg til å gi Audi e-tron et kulere utseende, gir den mer lys inn i bilen og bedre sikt fra innsiden.
+Taket kan åpnes. I tillegg til å gi Audi Q8 e-tron et kulere utseende, gir den mer lys inn i bilen og bedre sikt fra innsiden.
 
 ## Panoramasoltak i glass
 

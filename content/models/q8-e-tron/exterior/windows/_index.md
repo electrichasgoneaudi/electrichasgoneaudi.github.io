@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron windows 
+title: Audi Q8 e-tron windows 
 linktitle: Windows
-description: Audi e-tron have some windows options.
+description: Audi Q8 e-tron have some windows options.
 weight: 6
 ---
 <!-- markdownlint-disable MD033 -->

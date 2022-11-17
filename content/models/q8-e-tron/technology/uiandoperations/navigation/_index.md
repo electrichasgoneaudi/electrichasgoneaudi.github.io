@@ -1,12 +1,12 @@
 ---
-title: Audi e-tron navigation system
+title: Audi Q8 e-tron navigation system
 linktitle: Navigation system
-description: Audi e-tron is equipped with MMI Navigation plus that helps to navigate to the destination.
+description: Audi Q8 e-tron is equipped with MMI Navigation plus that helps to navigate to the destination.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
 
-The navigation system on the Audi e-tron is based on maps and data from [HERE Maps](https://www.here.com/strategic-alliances/audi/IVIdemo).
+The navigation system on the Audi Q8 e-tron is based on maps and data from [HERE Maps](https://www.here.com/strategic-alliances/audi/IVIdemo).
 
 The navigation system is available in the [virtual cockpit](../virtualcockpit/), the [Head up display](../headupdisplay/), and [Audi MMi](../mmi/) and will help to navigate to your destination, but also will help find charging stations, parking, and other points of interestest along the route.
 
@@ -48,7 +48,7 @@ The e-tron route planner calculates the fastest route, considers traffic and roa
     <figcaption><h4>The Navigation system in Virtual Cockpit with google maps satellite image</h4></figcaption>
 </figure>
 
-Users receive important information such as the charging capacity or charging connections and plug types for the relevant charging stations. Moreover, the system indicates dynamic availability, for instance, whether or not charging stations are vacant or occupied, always with a bias for moving forward quickly. For example, two short charging processes with high charging capacity may yield time-related advantages over one long stop with low charging capacity. Alternative routes with better charging infrastructure are considered in the calculation of the optimal total travel time as well. The Audi e-tron route planner gives preference to the powerful HPC charging stations (HPC = High Power Charging).
+Users receive important information such as the charging capacity or charging connections and plug types for the relevant charging stations. Moreover, the system indicates dynamic availability, for instance, whether or not charging stations are vacant or occupied, always with a bias for moving forward quickly. For example, two short charging processes with high charging capacity may yield time-related advantages over one long stop with low charging capacity. Alternative routes with better charging infrastructure are considered in the calculation of the optimal total travel time as well. The Audi Q8 e-tron route planner gives preference to the powerful HPC charging stations (HPC = High Power Charging).
 
 You can plan routes from previous destinations, favorites, contact addresses, and receive destinations from the myAudi app.
 
@@ -148,7 +148,7 @@ A message will appear if the MMI calculates a better route for the current route
 
 ## Additional benefits
 
-Using the Audi e-tron Navigation systems has some additional benefits you don't get when using external navigation from your phone or other GPS unit.
+Using the Audi Q8 e-tron Navigation systems has some additional benefits you don't get when using external navigation from your phone or other GPS unit.
 
 - Calculate what the charge level will be at your destination
 - Calculate range more correctly when the destination is set based on information of the route
