@@ -100,12 +100,6 @@ I slutten av juni 2022, stoppet Audi å ta ordre en rekke steder. Dette for å t
 
 ### Facelift
 
-Det var forventet at 2023 modellen ville bli lansert som en facelift. Dette er blitt utsatt grunnet leveransesituasjonen i verden.
-
-Dette er den første ekte ansiktsløftningsversjonen av e-tron.
-
-For å gjøre navngivningen logisk har Audi besluttet å omdøpe den til Audi Q8 e-tron.
-
-Så 2023 blir det siste året for Audi e-tron.
+Det var forventet at en ny e-tron med økt rekkevidde skulle lanseres for 2023-modellen, men dette ble forsinket, og den ble lansert 9. november 2022, som Audi Q8 e-tron. Så 2023 blir det siste året for Audi e-tron.
 
 Se [Audi Q8 e-tron](../../../models/q8-e-tron) for detaljer om den nye modellen.

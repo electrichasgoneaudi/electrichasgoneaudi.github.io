@@ -98,13 +98,7 @@ In end of June 2022, Audi stopped taking orders on the 2023 Audi e-tron. This to
 </figure>
 
 ### Facelift
+It was expected that a new e-tron with an increased range would be launched for the 2023 model, but this was delayed, and it was launched on November 9. 2022, as the Audi Q8 e-tron. So 2023 will be the last year of the Audi e-tron.
 
-It was expected that a new e-tron with increased range would be launched for the 2023 model. This has been postponed. Probably because of the supply issues in the world. 
 
-This is the first real facelift version of e-tron.
-
-To make the naming logical Audi has decied to rename it to Audi Q8 e-tron.
-
-So 2023 will be the last year of Audi e-tron.
-
-See [Audi Q8 e-tron](../../../models/q8-e-tron) for details about the new model.
+See [Audi Q8 e-tron](../../../models/q8-e-tron) for details about the new model
