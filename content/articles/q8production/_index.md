@@ -1,7 +1,7 @@
 ---
 title: Audi Q8 e-tron production start
 linktitle: Audi Q8 e-tron production
-description: On December 14, the first Audi Q8 e-tron drives off the production line at the Brussels plant. It marks the beginning of an era for the new top model in Audi’s electric SUV range. 
+description: On December 14, the first Audi Q8 e-tron drove off the production line at the Brussels plant. It marks the beginning of an era for the new top model in Audi’s electric SUV range. 
 weight: 99994
 ---
 <!-- markdownlint-disable MD033 -->
