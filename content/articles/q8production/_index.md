@@ -1,12 +1,12 @@
 ---
 title: Audi Q8 e-tron production start
 linktitle: Audi Q8 e-tron production
-description: On December 14, the first Audi Q8 e-tron drives off the production line at the Brussels plant. It marks the beginning of an era for the new top model in Audi’s electric SUV range. The plant has been a role model for sustainable production since the production of the Audi e-tron began. Around 160,000 units of Audi’s first electric model have been delivered since 2018.
+description: On December 14, the first Audi Q8 e-tron drives off the production line at the Brussels plant. It marks the beginning of an era for the new top model in Audi’s electric SUV range. 
 weight: 99994
 ---
 <!-- markdownlint-disable MD033 -->
 
-On December 14, the first Audi Q8 e-tron drives off the production line at the Brussels plant. It marks the beginning of an era for the new top model in Audi’s electric SUV range. The plant has been a role model for sustainable production since the production of the Audi e-tron began. Around 160,000 units of Audi’s first electric model have been delivered since 2018.
+ The plant has been a role model for sustainable production since the production of the Audi e-tron began. Around 160,000 units of Audi’s first electric model have been delivered since 2018.
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production1.jpg">
@@ -15,8 +15,7 @@ On December 14, the first Audi Q8 e-tron drives off the production line at the B
     <figcaption><h4>Audi Q8 e-tron production started december 14. 2022</h4></figcaption>
 </figur>
 
-
-Audi board member for Production and Logistics Gerd Walker underlines the importance of the brand’s new top model: “With its increased efficiency and range, as well as its sharpened design, the new Audi Q8 e-tron is a strong statement for electromobility.” Walker also highlights the outstanding role of the Brussels site as a pioneer for sustainable production: “Brussels has done valuable pioneering work. We are learning from our experience of having delivered around 160,000 vehicles worldwide. As the next step, we will leverage this experience to ramp up battery production in Ingolstadt. ”The battery assembly facility in Brussels is playing a groundbreaking role for the entire Group.
+Audi board member for Production and Logistics Gerd Walker underlines the importance of the brand’s new top model: “With its increased efficiency and range, as well as its sharpened design, the [new Audi Q8 e-tron](../e-tron-facelift-q8-etron-2024/) is a strong statement for electromobility.” Walker also highlights the outstanding role of the Brussels site as a pioneer for sustainable production: “Brussels has done valuable pioneering work. We are learning from our experience of having delivered around 160,000 vehicles worldwide. As the next step, we will leverage this experience to ramp up battery production in Ingolstadt. ”The battery assembly facility in Brussels is playing a groundbreaking role for the entire Group.
 
 Unlike many competitors, Audi focuses on transforming production from the inside out with the aim of heralding the future of production at Audi, the 360factory. Meanwhile, Brussels is a model for some areas of this innovative plant concept. To Audi, investing in existing plants is ‘sustainability in action’ – economically, ecologically, and socially. “The path Audi is taking conserves resources and accelerates our transformation,” Walker emphasizes. For Xavier Ros, Audi board member for Human Resources and Organization, Brussels provides valuable insights concerning targeted employee qualification programs. “The experience Brussels has gained since 2018 can be used across locations throughout the Audi Group.”
 
@@ -26,7 +25,6 @@ Unlike many competitors, Audi focuses on transforming production from the inside
     </a>
     <figcaption><h4>Audi Q8 e-tron production started december 14. 2022</h4></figcaption>
 </figur>
-
 
 Audi Brussels CEO Volker Germann also highlights the role the staff have played: “Building the Audi Q8 e-tron will take more than just our entire infrastructure. Above all, it is our team of passionate employees who come together to make this car.”
 
@@ -55,3 +53,8 @@ The new Q8 e-tron’s optimized drive concept, improved aerodynamics, and higher
     </a>
     <figcaption><h4>Audi Q8 e-tron production started december 14. 2022</h4></figcaption>
 </figur>
+
+
+The below video shows the factory
+
+{{< youtube ThUvtsYyIZI >}}
