@@ -23,19 +23,17 @@ To get to 800Volt you need around 200 cells in serial. Audi e-tron GT has 198 an
 
 With 12 modules that would mean that the 12 modules version would have a setup like
 
-- 180s2p - 360 cells - 650Volt nominal - 76AH cells
-- 192s2p - 384 cells - 694Volt nominal - 71AH cells
-- 204s2p - 408 cells - 737Volt nominal - 67AH cells
-- 216s2p - 432 cells - 780Volt nominal - 63AH cells
+- 180s2p - 360 cells - 660Volt nominal - 76AH cells (100.3kWh net)
+- 192s2p - 384 cells - 704Volt nominal - 72AH cells (101.3kWh net)
+- 204s2p - 408 cells - 748Volt nominal - 67AH cells (100.2kWh net)
 
 Similar 10 modules version would then have
 
-- 150s2p - 300 cells - 542Volt nominal - 76AH cells
-- 160s2p - 320 cells - 578Volt nominal - 71AH cells
+- 150s2p - 300 cells - 542Volt nominal - 76AH cells 
+- 160s2p - 320 cells - 578Volt nominal - 72AH cells
 - 170s2p - 340 cells - 614Volt nominal - 67AH cells
-- 180s2p - 360 cells - 650Volt nominal - 63AH cells
 
-Porsche Taycan, that uses same battery as Audi e-tron GT, have a version with smaller battery. It has a nominal voltage on 613 volt.
-Based on this we belive that Audi/Porsche will go for a 204s2p setup with 67AH prismatic cells.
+We belive Audi will use the same new cells that are in Audi Q8 55 e-tron with 72AH cells. 
+
 
 {{% children description="true" depth="1" %}}
