@@ -14,6 +14,14 @@ The model will come in different versions with different battery capacities, and
 
 ![Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype5.jpg "Audi Q6 e-tron prototype by Carscopes")
 
+## Exterior
+
+The Audi Q6 e-tron will be available in SUV and Sportback designs, just like the Audi Q4 e-tron and Audi Q8 e-tron. In addition, it will have a large set of available colors, and you can order it with Audi-exclusive colors.
+
+Black optics and black optics plus packages will be options. Same with tinted windows and a panoramic roof.
+
+There will be wheel options from 19" to 22" to choose from.
+
 ## Interior
 
 The Audi Q6 e-tron will be available with different seat options. From standard seats, sports seats, and comfort seats. Some with the possibility of ventilation and massage. It will also be available with an animal-free interior and a full leather interior with different colors. An s-line interior will also be an option.
