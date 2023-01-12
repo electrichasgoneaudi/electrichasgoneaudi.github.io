@@ -86,9 +86,9 @@ On the other, two-valve shock absorbers can be adjusted independently, providing
 
 The wheel widths on the front and rear axles will differ significantly to accommodate the rear-focused weight distribution – for more grip and driving dynamics. In addition, wheel sizes of up to 22 inches will provide further performance potential.
 
-The Audi Drive Select is combined with the air suspension in the all-electric Q6, but may also be combined with the steel suspension. The system reacts to the condition of the road but also to the speed, longitudinal and lateral acceleration, accelerator pedal modulation, steering behaviour, and the position level of the car.
+The Audi Drive Select is combined with the air suspension in the all-electric Q6 but may also be combined with the steel suspension. The system reacts to the condition of the road but also the speed, longitudinal and lateral acceleration, accelerator pedal modulation, steering behavior, and the position level of the car.
 
-The Q6 e-tron have a completely revised double wishbone axle with detached strut level at the front. Its kinematics and elastokinematics enable improved responsiveness, steering precision and straight-line driving. The multi-link axle at the rear is connected to the body via an elastically mounted sub-frame, while the rear electric drive unit is fastened directly to the structure at four points – a special feature of the Performance styling at the rear. This has a positive effect on the driving dynamics with precise wheel guidance and high transverse rigidity, and on the NVH behaviour (NVH = Noise, Vibration, Harshness).
+The Q6 e-tron has a completely revised double wishbone axle with a detached strut level at the front. Its kinematics and elastokinematics enable improved responsiveness, steering precision, and straight-line driving. In addition, the multi-link axle at the rear is connected to the body via an elastically mounted sub-frame, while the rear electric drive unit is fastened directly to the structure at four points – a special feature of the Performance styling at the rear. This design positively affects the driving dynamics with precise wheel guidance, high transverse rigidity, and NVH behavior (NVH = Noise, Vibration, Harshness).
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain2.jpg">
@@ -97,7 +97,7 @@ The Q6 e-tron have a completely revised double wishbone axle with detached strut
     <figcaption><h4>PPE drivetrain</h4></figcaption>
 </figure>
 
-The top versions will have Porsche Torque Vectoring Plus as standard: an electronically controlled differential lock on the rear axle. This control strategy is independent of the respective driving situation and ensures greater traction, driving stability and transverse dynamics. The steering behaviour and precision are supported by targeted dynamic braking interventions on the rear axle.
+The top versions will have an electronically controlled differential lock on the rear axle. This control strategy is independent of the respective driving situation and ensures greater traction, driving stability, and transverse dynamics. In addition, targeted, dynamic braking interventions on the rear axle support the steering behavior and precision.
 
 ## Technology
 
