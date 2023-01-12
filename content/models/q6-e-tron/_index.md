@@ -20,7 +20,7 @@ The Audi Q6 e-tron will be available in SUV and Sportback designs, just like the
 
 Black optics and black optics plus packages will be options. Same with tinted windows and a panoramic roof.
 
-There will be wheel options from 19" to 22" to choose from.
+There will be wheel options from 19 to 22 inches.
 
 ## Interior
 
@@ -61,17 +61,21 @@ Audi will use different motor setups on the different variants.
 
 Audi uses permanently excited synchronous electric motors (PSM) with hairpin winding on the PPE platform.
 
-In this design, the rotor of the AC motor is fitted with permanent magnets that generate a permanent magnetic field in the motor. As a result, compared to asynchronous motors (ASM), PSMs offer higher power and torque densities, greater efficiency, and better reproducibility of the power output.
+Permanent magnets are fitted on the AC motor's rotor, generating a permanent magnetic field. As a result, compared to asynchronous motors (ASM), PSMs offer higher power and torque densities, greater efficiency, and better reproducibility of the power output.
 
-For the top variants SQ6 e-tron and RSQ6 e-tron, the engineers are creating a dynamic, sporty driving experience with a fully variable electronically controlled rear differential and a so-called ‘Performance rear axle’. Added to this is a powerful electric motor positioned behind the rear axle. This setup enables a rear-dominant all-wheel application across a wide spectrum. Moreover, in combination with the dynamic torque distribution in the all-wheel drive, it also supports high agility when accelerating out of corners.
+For the top variants SQ6 e-tron and RSQ6 e-tron, the engineers are creating a dynamic, sporty driving experience with a fully variable electronically controlled rear differential and a so-called 'Performance rear axle.' Added to this is a powerful electric motor positioned behind the rear axle. This setup enables a rear-dominant all-wheel application across a wide spectrum. Moreover, in combination with the dynamic torque distribution in the all-wheel drive, it also supports high agility when accelerating out of corners.
 
-In the all-electric Q6 e-tron only the latest-generation PSM motors is to be used. To maximise the power density, the water jacket cooling was optimised in comparison to the e-tron GT. An example of the further comprehensive optimisations in the PSMs is what is known as the double V lamination – the arrangement of the magnets within the rotors.
+Audi will use only the latest-generation PSM motors that have several improvements. Audi has optimized the water jacket cooling to maximize the power density and used double V lamination on magnets.
 
-The development of the power electronics has also taken a big step forward: to optimise the effectiveness, silicon carbide (SiC) is used instead of silicon as the semiconductor material in the pulse inverter (PWR) on the rear axle. This significantly reduces switching losses in the PWR and enables higher switching frequencies.
+The development of power electronics has also taken a big step forward. Silicon carbide (SiC) is used instead of silicon as the pulse inverter (PWR) semiconductor material on the rear axle. This technology significantly reduces switching losses in the PWR, enables higher switching frequencies, and improves efficiency.
 
 ### Suspension and steering
 
-The two-valve shock absorbers will be a new feature in Audi Q6 e-tron. On the one hand, they offer improved performance due to a significantly greater damper characteristic spread. On the other, two-valve shock absorbers can be adjusted independently of each other, providing an appreciable increase in comfort. This versatility makes the differences between the driving programmes even more tangible, putting each individual driving programme in the future Q6 e-tron on its own distinct level. Additionally, depending on the speed, the body can be lowered in combination with the air suspension, and this improves the aerodynamics for increased range.
+The Audi Q6 e-tron will have new shock absorbers. As standard, they come with steel springs or optional air suspension.
+
+The two-valve shock absorbers will be a new feature in the Audi Q6 e-tron. On the one hand, they offer improved performance due to a significantly greater damper characteristic spread. 
+
+On the other, two-valve shock absorbers can be adjusted independently, providing an appreciable increase in comfort. This versatility makes the differences between the driving programs even more tangible, putting each driving program in the future Q6 e-tron on its distinct level. Additionally, depending on the speed, the body can be lowered in combination with the air suspension, improving the aerodynamics for an increased range.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain1.jpg">
@@ -80,7 +84,7 @@ The two-valve shock absorbers will be a new feature in Audi Q6 e-tron. On the on
     <figcaption><h4>PPE drivetrain</h4></figcaption>
 </figure>
 
-The wheel widths on the front and rear axles will differ even more significantly in order to accommodate the rear-focused weight distribution – for more grip and driving dynamics. The wheel sizes of up to 22 inches will provide further performance potential.
+The wheel widths on the front and rear axles will differ significantly to accommodate the rear-focused weight distribution – for more grip and driving dynamics. In addition, wheel sizes of up to 22 inches will provide further performance potential.
 
 The Audi Drive Select is combined with the air suspension in the all-electric Q6, but may also be combined with the steel suspension. The system reacts to the condition of the road but also to the speed, longitudinal and lateral acceleration, accelerator pedal modulation, steering behaviour, and the position level of the car.
 
