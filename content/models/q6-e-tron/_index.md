@@ -110,13 +110,12 @@ The top versions will have an electronically controlled differential lock on the
 
 ### UI & MMI
 
-Audi has confirmed that the Audi Q6 e-tron will be the first car with the new generation MMI. 
-For the new system Audi will use [Android Automotive](https://source.android.com/devices/automotive/start/what_automotive).
+Audi has confirmed that the Audi Q6 e-tron will be the first car with the new generation MMI.
+For this new MMI system, Audi will use [Android Automotive](https://source.android.com/devices/automotive/start/what_automotive).
 
 ## Transport capacity
 
-Electrichasgoneaudi.net expects the Audi Q6 e-tron to have a luggage compartment of about 550-600 liters. It will also be available with a towbar, and the maximum capacity is expected to be 2600kg. It will also be able to use a roof box with a maximum load on the roof of 75kg.
-
+Electrichasgoneaudi.net expects the Audi Q6 e-tron to have a luggage compartment of about 550-600 liters. It will also be available with a towbar, and the maximum capacity is 2000-2500kg. It will also be able to use a roof box with a maximum load on the roof of 75kg.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype6.jpg">
