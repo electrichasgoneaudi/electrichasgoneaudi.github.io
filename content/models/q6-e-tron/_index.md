@@ -12,6 +12,8 @@ The first customers can expect to receive the Audi Q6 e-tron in Q1/Q2 2024 as a 
 
 The model will come in different versions with different battery capacities, and in size, it will be between the [Audi Q4 e-tron](../../models//q4-e-tron/) and [Audi Q8 e-tron](../../models/q8-e-tron/).
 
+This article summarizes what we know and expect from the new model. If you want to keep yourself updated on this model, join our [Audi Q6 e-tron Facebook group](https://www.facebook.com/groups/114120244068685) to keep yourself updated.
+
 ![Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype5.jpg "Audi Q6 e-tron prototype by Carscopes")
 
 ## Exterior
@@ -21,6 +23,8 @@ The Audi Q6 e-tron will be available in SUV and Sportback designs, just like the
 Black optics and black optics plus packages will be options. Same with tinted windows and a panoramic roof.
 
 There will be wheel options from 19 to 22 inches.
+
+![Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype7.jpg "Audi Q6 Sportback e-tron prototype by Motor1.com")
 
 ## Interior
 
@@ -55,7 +59,7 @@ Electrichasgoneaudi.net expects the Audi Q6 e-tron to come in different performa
 - Audi SQ6 e-tron
 - Audi RSQ6 e-tron with 450kW and +1000nm
 
-Audi will use different motor setups on the different variants.
+Audi will use different motor setups on the om the variants.
 
 ![Motors](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/motors.jpg "Motors for Audi Q6 e-tron")
 
@@ -73,9 +77,12 @@ The development of power electronics has also taken a big step forward. Silicon 
 
 The Audi Q6 e-tron will have new shock absorbers. As standard, they come with steel springs or optional air suspension.
 
-The two-valve shock absorbers will be a new feature in the Audi Q6 e-tron. On the one hand, they offer improved performance due to a significantly greater damper characteristic spread. 
+The two-valve shock absorbers will be a new feature in the Audi Q6 e-tron. On the one hand, they offer improved performance due to a significantly greater damper characteristic spread.
+On the other, two-valve shock absorbers can be adjusted independently, providing an appreciable increase in comfort. This versatility makes the differences between the driving programs even more tangible, putting each driving program in the future Q6 e-tron on its distinct level. 
 
-On the other, two-valve shock absorbers can be adjusted independently, providing an appreciable increase in comfort. This versatility makes the differences between the driving programs even more tangible, putting each driving program in the future Q6 e-tron on its distinct level. Additionally, depending on the speed, the body can be lowered in combination with the air suspension, improving the aerodynamics for an increased range.
+The Audi Drive Select is combined with air suspension and with steel suspension. The system reacts to the condition of the road but also the speed, longitudinal and lateral acceleration, accelerator pedal modulation, steering behavior, and the position level of the car.
+
+With air suspension, depending on the speed, the body can be lowered in combination with the air suspension, improving the aerodynamics for an increased range.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain1.jpg">
@@ -103,9 +110,8 @@ The top versions will have an electronically controlled differential lock on the
 
 ### UI & MMI
 
-Audi has confirmed that the Audi Q6 e-tron will be the first car with the new generation MMI.
-
-It will be based around [Android Automotive](https://source.android.com/devices/automotive/start/what_automotive) 
+Audi has confirmed that the Audi Q6 e-tron will be the first car with the new generation MMI. 
+For the new system Audi will use [Android Automotive](https://source.android.com/devices/automotive/start/what_automotive).
 
 ## Transport capacity
 
@@ -126,16 +132,12 @@ Audi Q6 will be available with several options.
 - S-line exterior
 - Black optics
 - Different wheels
-- Different seats including seats with massage and ventilation
+- Different seats, including seats with massage and ventilation
 - Different driver assistant systems
 
-Audi plans to reduce the number of combinations of options. So instead of most options being offered separately like Audi e-tron they will introduce options packages.
+Audi plans to reduce the number of combinations of options. So instead of most options being offered separately, like on the Audi Q8 e-tron, they will introduce options packages.
 
 ![options](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/options.jpg "Options")
-
-## Keep youself updated
-
-Join our [Audi Q6 e-tron Facebook group](https://www.facebook.com/groups/114120244068685) to keep yourself updated.
 
 ## Spy photos
 
