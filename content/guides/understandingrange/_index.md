@@ -148,7 +148,7 @@ how adding 5KW heating on top of the WLTP consumption will affect range.  Up to 
 
 This not something that easily can be resolved. Heatpump can reduce this heat consumption depending on temprature. Better insulation of the cars also
 
-![How 5KW heating affect range on Audi Q4 50 e-tron and Audi e-tron 55"](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/heating.jpg "How 5KW heating affect range on Audi Q4 50 e-tron and Audi e-tron 55")
+![How 5KW heating affect range on Audi Q4 50 e-tron and Audi e-tron 55](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/heating.jpg "How 5KW heating affect range on Audi Q4 50 e-tron and Audi e-tron 55")
 
 ### The driving style
 
