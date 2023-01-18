@@ -13720,18 +13720,22 @@ blockquote::before, blockquote::after {
 
 @font-face {
   font-family: 'Inter-light';
+  font-feature-settings: "cv05";
   src: url("../fonts/Inter-Light.woff"); }
 
 @font-face {
   font-family: 'Inter-reg';
+  font-feature-settings: "cv05";
   src: url("../fonts/Inter-Regular.woff"); }
 
 @font-face {
   font-family: 'Inter-medium';
+  font-feature-settings: "cv05";
   src: url("../fonts/Inter-Medium.woff"); }
 
 @font-face {
   font-family: 'Inter-bold';
+  font-feature-settings: "cv05";
   src: url("../fonts/Inter-Bold.woff"); }
 
 a[href^="http"]:not([href*='electrichasgoneaudi.net']):not([href*='media.electrichasgoneaudi.net']):not([href*='local.altinn'])::after {
