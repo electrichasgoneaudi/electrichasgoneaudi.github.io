@@ -13,13 +13,13 @@ weight: 99990
     <figcaption><h4>Audi activesphere concept</h4></figcaption>
 </figure>
 
- Following on from the Audi skysphere roadster in 2021, and both the Audi grandsphere sedan, and the Audi urbansphere space concept in April 2022, a four-door crossover coupé with an astonishingly versatile body design is now making its debut. Standing 4.98 meters long, the highly elegant car is more than a mere luxury-class sports car, with impressive ground clearance, and large 22-inch wheels announcing its off-road talent. The Sportback rear of the activesphere can turn into an open cargo bed (“active back”) at the touch of a button – perfect for carrying recreational equipment such as e-bikes or water and winter sports gear.
+ Following on from the [Audi skysphere roadster](../audiskysphereconcept/) in 2021, and both the [Audi grandsphere sedan](../audigrandsphereconcept/), and the [Audi urbansphere space concept](../audiurbanshpereconcept/) in April 2022, a four-door crossover coupé with an astonishingly versatile body design is now making its debut. Standing 4.98 meters long, the highly elegant car is more than a mere luxury-class sports car, with impressive ground clearance, and large 22-inch wheels announcing its off-road talent. The Sportback rear of the activesphere can turn into an open cargo bed (“active back”) at the touch of a button – perfect for carrying recreational equipment such as e-bikes or water and winter sports gear.
 
 By combining opposites in perfect synthesis, the Audi activesphere proves to be a versatile crosser of boundaries, with a drive system and suspension which make it equally adept on both on and off the road. The steering wheel and pedals allow the driver to actively control the car, while also offering autonomous driving for a more relaxed time on the road. As a coupé that is as elegant as it is dynamic, it features classic proportions and lines, but in just a few seconds, the car transforms into a pickup for transporting top-class sports gear – there is even enough space for two e-bikes in the cargo bed.
 
 The concept car was conceived and designed at the Audi Design Studio in Malibu, just a stone’s throw away from the Pacific Coast Highway, the legendary coastal road. Studio manager Gael Buzyn and his team are the creative minds behind the project. He describes the idea behind the project: “The activesphere is unique. It is a new type of crossover that cleverly combines the elegance of an Audi Sportback, the practicality of a SUV and true offroad capabilities.”
 
-With an electric drive and quick-charging technology from Audi’s PPE modular system, the Audi activesphere joins the sphere family of concept vehicles. With no local emissions, a range of over 600 km, and extremely fast charging times thanks to 800-volt technology, it combines the sustainability, dynamics and long-distance capability of state-of-the-art electric vehicles.
+With an electric drive and quick-charging technology from Audi’s [PPE](../../technology/bev-platforms/ppe/) modular system, the Audi activesphere joins the sphere family of concept vehicles. With no local emissions, a range of over 600 km, and extremely fast charging times thanks to 800-volt technology, it combines the sustainability, dynamics and long-distance capability of state-of-the-art electric vehicles.
 
 Oliver Hoffmann, Member of the Board of Management for Technical Development: “The sphere concept vehicles show our vision for the premium mobility of the future. We are experiencing a paradigm shift, especially in the interior of our future Audi models. The interior becomes a place where the passengers feel at home and can connect to the world outside at the same time. The most important technical innovation in the Audi activesphere is our adaptation of augmented reality for mobility. Audi dimensions creates the perfect synthesis between the surroundings and digital reality.”
 
@@ -52,6 +52,14 @@ The absence of hard edges results in smooth transitions between convex and conca
 Glass surfaces make up a significant part of the vehicle’s body – and by no means just at head height. The front end of the activesphere features the brand face, the Singleframe, designed as a transparent glazing to afford passengers an unobstructed view through the large frunk of the road in front of the vehicle.
 
 There are also glass surfaces on the side in the lower door area, which seem to dissolve the boundary between the natural world and the interior when the activesphere is in off-road mode. The wide, curved tailgate features extensive glazing for optimum lighting, whilst even the roof itself is transparent, letting plenty of daylight into the interior.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere6.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere6_mt.jpeg" alt="Audi activesphere concept" title="Audi grandsphere concept">
+    </a>
+    <figcaption><h4>Audi activesphere concept</h4></figcaption>
+</figure>
+
 
 The exterior look specifically signals the vehicle’s off-road capability and, with its voluminous wheel arches, portrays the variable, electronically controlled quattro all-wheel drive. The Audi activesphere’s ground clearance is also variable; ideal for off-road use, it can be increased by 40 millimeters from the basic height of 208 millimeters, or lowered by the same amount when driving on-road. This benefits both the center of gravity and aerodynamics when driving fast. The approach angle of the Audi activesphere – relevant for off-road drives – is 18.9 degrees, the departure angle 28.1 degrees.
 
