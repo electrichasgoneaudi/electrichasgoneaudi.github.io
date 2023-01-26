@@ -7,8 +7,8 @@ weight: 99990
 <!-- markdownlint-disable MD033 -->
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere1_mt.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere1_mt.jpg" alt="Audi grandsphere concept" title="Audi grandsphere concept">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere1_mt.jpg" alt="Audi activesphere concept" title="Audi activesphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept</h4></figcaption>
 </figure>
@@ -30,6 +30,14 @@ High-tech headsets provide a view of the real environment and the route, while s
 This means all driver-relevant information, such as driving status and navigation, can be displayed. And in the interior, headset users can see control panels and other virtual displays in a tidy, minimalist design that remains hidden to the unaided eye. Mixed reality optics gives users the ability to interact precisely with these real, yet invisible, touch-sensitive zones, as the headsets display and carry out functions by reacting in real time when users touch them.
 
 As a perfect all-rounder, the Audi activesphere concept is ideally suited for the high demands of a future-oriented generation of Audi customers – people for whom individual mobility and sustainability are not mutually exclusive. Also, owners who expect their vehicle to deliver the brand’s typical aesthetics and dynamism in the highest degree, combined with future-oriented technology. For these customers, the Audi activesphere concept acts as a fascinating vision of crossing the boundaries between these dimensions.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere2.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere2_mt.jpeg" alt="Audi activesphere concept" title="Audi grandsphere concept">
+    </a>
+    <figcaption><h4>Audi activesphere concept</h4></figcaption>
+</figure>
+
 
 ### Robust elegance – exterior design
 
@@ -70,6 +78,14 @@ A ski rack is integrated in the center of the roof structure. Completely flush i
 “Sphere” sets the tone: the common name component of the Audi skysphere, grandsphere, urbansphere, and now also the activesphere, alludes to the interior. Kilowatts and km/h or lateral acceleration are no longer at the top of the design specifications for this new generation of cars. Instead, the starting point is the interior, the occupants’ living and experience sphere whilst traveling. Their needs and desires shape the space, the architecture, and the functions.
 
 With that reassessment, the design process itself changes. At the beginning of all discussions, the focus is directed toward the interior and its design. Only then are the package, proportions, and lines of the exterior designed.
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere4.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere4_mt.jpeg" alt="Audi activesphere concept" title="Audi grandsphere concept">
+    </a>
+    <figcaption><h4>Audi activesphere concept</h4></figcaption>
+</figure>
 
 #### Functional and minimalist – the interior
 
