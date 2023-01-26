@@ -169,6 +169,8 @@ Due to its dimensions and performance level, the Audi activesphere concept lends
 
 Like the related Audi grandsphere and Audi urbansphere concept cars, the activesphere concept draws on this modular system for series production. It is being developed under Audi’s leadership together with Porsche AG – the first Audi production vehicles based on PPE will be presented, one after the other, before the end of 2023.
 
+Read more about the upcomming [PPE](../../technology/bev-platforms/ppe/) models in our [Audi Q6 e-tron section](../../models/q6-e-tron/) and our [Audi A6 e-tron section](../../models/a6-e-tron/). 
+
 The [PPE](../../technology/bev-platforms/ppe/) is designed exclusively for battery-electric drive systems and can therefore take full advantage of all the benefits of this technology – for the betterment of the cars’ driving characteristics, economy, and package options.
 
 As a result, Audi can effectively expand the range of electric vehicles in its portfolio via the high-volume B- and C-segments. In addition, economies of scale will allow luxury-class technology and various different model versions to be incorporated into a wide-ranging lineup of models unrivaled in the premium market.
