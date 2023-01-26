@@ -87,6 +87,13 @@ The Audi activesphere concept is a crosser of boundaries, which means it is a ma
 
 If required, the transparent rear window slides are almost flush with the roof of the Audi activesphere. At the same time, the lower, vertical segment of the rear folds horizontally – this opens up an ample cargo bed called the active back that features brackets for e-bikes, for example. The lateral surfaces of the rear, the C-pillars, remain in position to maintain the activesphere’s dynamic silhouette, whilst a motorized bulkhead deploys from behind the rear seats in order to isolate the cabine from the elements.
 
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere8.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere8_mt.jpeg" alt="Audi activesphere concept" title="Audi activesphere concept">
+    </a>
+    <figcaption><h4>Audi activesphere concept with bikes</h4></figcaption>
+</figure>
+
 A ski rack is integrated in the center of the roof structure. Completely flush in nominal position and practically invisibly in the roof arch, it extends if required, so that skis can be safely attached and transported.
 
 ### Prioritized interior – people-focused
