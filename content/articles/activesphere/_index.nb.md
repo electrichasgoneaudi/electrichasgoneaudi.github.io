@@ -196,7 +196,13 @@ Og på mindre enn 25 minutter lader 100 kWh-batteriet fra 5 til 80 prosent. Samm
 
 ### Videos
 
+{{< youtube umm8qNWIJ4w >}}
+
+
+
 {{< youtube 8e65RS2R0E8 >}}
+
+
 
 
 {{< youtube WSblPNgiZY8 >}}

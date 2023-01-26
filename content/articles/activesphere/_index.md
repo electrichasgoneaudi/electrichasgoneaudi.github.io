@@ -198,7 +198,13 @@ And in less than 25 minutes, the 100 kWh battery charges from 5 to 80 percent. T
 
 ### Videos
 
+{{< youtube umm8qNWIJ4w >}}
+
+
+
 {{< youtube 8e65RS2R0E8 >}}
+
+
 
 
 {{< youtube WSblPNgiZY8 >}}
