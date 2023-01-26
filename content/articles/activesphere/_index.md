@@ -65,6 +65,14 @@ As with its relative, the Audi grandsphere concept, the doors of the Audi active
 
 Right and left above the Singleframe, the narrow headlight units appear like focused eyes. The lighting units echo the logo of the brand with the four rings by enlarging and isolating the intersection of two rings to form a pupil – a new, unmistakable digital light signature that Audi first introduced in the Audi grandsphere: the Audi eye. In the activesphere, this signature is now varied – on-road and off-road driving modes each have their own variant. Daytime running lights and rear lights use ultra-fine micro-LED technology for even greater precision and contrast.
 
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere5.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere5_mt.jpg" alt="Audi activesphere concept" title="Audi activesphere concept">
+    </a>
+    <figcaption><h4>Audi activesphere concept</h4></figcaption>
+</figure>
+
+
 ### Sportback and active back – variable rear architecture
 
 The Audi activesphere concept is a crosser of boundaries, which means it is a master of metamorphosis. Its rear section in particular reflects the active lifestyle of its customers and makes it possible to transport even bulky sports gear– without sacrificing the elegance and sportiness of the Sportback silhouette.
@@ -111,6 +119,13 @@ The centerpiece of the new system is innovative mixed reality headsets – avail
 
 In the early days, VR goggles were limited to depicting a virtual reality without any real-world elements. However, technology evolved into augmented reality, whereby the real world is superimposed with virtual content. Mixed reality is now able to depict virtual content with spatial reference to the real world in three dimensions. There’s no doubt about it: in the future, mixed reality will take the possibilities of AR head-up displays to a whole new level in terms of flexibility, precision, and displayable content.
 
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere6.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere6_mt.jpeg" alt="Audi activesphere concept" title="Audi grandsphere concept">
+    </a>
+    <figcaption><h4>Audi activesphere concept</h4></figcaption>
+</figure>
+
 The Audi activesphere concept is the first to use a pioneering generation of this technology, which in turn adds the dimension of interaction to the dimension of superimposed real and digital worlds. With unprecedented optical precision, highest resolution, and excellent contrast, the system brings control surfaces and displays, invisible to the unaided eye, into the user’s field of vision while behind the steering wheel.
 
 In other words, the user can view virtual content, which is initially for information only. If the user focuses with his or her eyes on the information, thus signaling interest, the system displays more detailed information. Content becomes an active and interactive element as soon as the user is focused and engages, i.e., with gestures.
@@ -130,6 +145,8 @@ The connection between the headset users and the car, along with its ecosystem, 
 Conversely, the activesphere passenger can take his or her headset out of the car and onto the ski slope to help navigate the bike trail or to find the ideal descent when skiing downhill.
 
 Information about the car itself, the battery range, and the nearest charging stations can also be accessed inside and outside the vehicle. And when needed, there are also advance warnings such as of low tire pressure as well as a weather forecast function as a criterion for selecting a route.
+
+{{< youtube uAQSOZ20TfQ >}}
 
 ### PPE – customized drive technology
 
