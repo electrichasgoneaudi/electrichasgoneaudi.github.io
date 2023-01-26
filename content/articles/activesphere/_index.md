@@ -133,24 +133,24 @@ Information about the car itself, the battery range, and the nearest charging st
 
 ### PPE – customized drive technology
 
-Due to its dimensions and performance level, the Audi activesphere concept lends itself to the use of Audi’s most innovative electric drive system: the Premium Platform Electric, or PPE for short.
+Due to its dimensions and performance level, the Audi activesphere concept lends itself to the use of Audi’s most innovative electric drive system: the [Premium Platform Electric](../../technology/bev-platforms/ppe/), or [PPE](../../technology/bev-platforms/ppe/) for short.
 
 Like the related Audi grandsphere and Audi urbansphere concept cars, the activesphere concept draws on this modular system for series production. It is being developed under Audi’s leadership together with Porsche AG – the first Audi production vehicles based on PPE will be presented, one after the other, before the end of 2023.
 
-The PPE is designed exclusively for battery-electric drive systems and can therefore take full advantage of all the benefits of this technology – for the betterment of the cars’ driving characteristics, economy, and package options.
+The [PPE](../../technology/bev-platforms/ppe/) is designed exclusively for battery-electric drive systems and can therefore take full advantage of all the benefits of this technology – for the betterment of the cars’ driving characteristics, economy, and package options.
 
 As a result, Audi can effectively expand the range of electric vehicles in its portfolio via the high-volume B- and C-segments. In addition, economies of scale will allow luxury-class technology and various different model versions to be incorporated into a wide-ranging lineup of models unrivaled in the premium market.
 
-The PPE is the first platform designed to accommodate an unprecedented range of high-volume automobiles – including SUVs and CUVs with high ground clearance as well as cars with a flat silhouette that are part of Audi’s core product range, such as the Audi A6 series, whose external dimensions and wheelbase are almost identical to the Audi activesphere concept.
+The [PPE](../../technology/bev-platforms/ppe/) is the first platform designed to accommodate an unprecedented range of high-volume automobiles – including SUVs and CUVs with high ground clearance as well as cars with a flat silhouette that are part of Audi’s core product range, such as the Audi A6 series, whose external dimensions and wheelbase are almost identical to the Audi activesphere concept.
 
-The key element of the future PPE fleet is a battery module between the axles; in the Audi activesphere concept, it holds around 100 kWh of energy. Using the entire car width between the axles makes it possible to achieve a relatively flat layout for the battery.
+The key element of the future [PPE](../../technology/bev-platforms/ppe/) fleet is a battery module between the axles; in the Audi activesphere concept, it holds around 100 kWh of energy. Using the entire car width between the axles makes it possible to achieve a relatively flat layout for the battery.
 
 Electric motors on the front and rear axles of the all-wheel drive Audi activesphere concept together deliver a total output of 325 kW and a system torque of 720 Newton meters. The front and rear wheels are connected via a five-link axle. The concept car features Audi adaptive air suspension with adaptive dampers.
 
 ### Fast charging with 800 volts
 
-The heart of the drive technology in all future PPE models will be the 800-volt charging technology. This ensures that the battery, like the one in the Audi e-tron GT quattro before it, can be charged with up to 270 kW in a very short time at fast-charging stations. This revolutionary technology will enter the high-volume mid-range and luxury segments with the PPE for the very first time.
+The heart of the drive technology in all future [PPE](../../technology/bev-platforms/ppe/) models will be the 800-volt charging technology. This ensures that the battery, like the one in the Audi e-tron GT quattro before it, can be charged with up to 270 kW in a very short time at fast-charging stations. This revolutionary technology will enter the high-volume mid-range and luxury segments with the PPE for the very first time.
 
-The PPE technology enables charging times that come close to a conventional refueling stop for a combustion engine car. Just 10 minutes is sufficient time to take enough energy on board to power the car for more than 300 kilometers.
+The [PPE](../../technology/bev-platforms/ppe/) technology enables charging times that come close to a conventional refueling stop for a combustion engine car. Just 10 minutes is sufficient time to take enough energy on board to power the car for more than 300 kilometers.
 
 And in less than 25 minutes, the 100 kWh battery charges from 5 to 80 percent. Together with its range of well over 600 kilometers, the Audi activesphere thus positions itself as unconditionally suitable for long distances, when need be.
