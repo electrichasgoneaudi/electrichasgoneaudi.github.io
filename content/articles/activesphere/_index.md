@@ -54,10 +54,10 @@ Glass surfaces make up a significant part of the vehicle’s body – and by no 
 There are also glass surfaces on the side in the lower door area, which seem to dissolve the boundary between the natural world and the interior when the activesphere is in off-road mode. The wide, curved tailgate features extensive glazing for optimum lighting, whilst even the roof itself is transparent, letting plenty of daylight into the interior.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere6.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere6_mt.jpeg" alt="Audi activesphere concept" title="Audi grandsphere concept">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere7.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere7_mt.jpeg" alt="Audi activesphere concept" title="Audi grandsphere concept">
     </a>
-    <figcaption><h4>Audi activesphere concept</h4></figcaption>
+    <figcaption><h4>Audi activesphere concept glass surface</h4></figcaption>
 </figure>
 
 
