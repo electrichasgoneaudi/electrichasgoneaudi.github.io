@@ -188,3 +188,10 @@ The heart of the drive technology in all future [PPE](../../technology/bev-platf
 The [PPE](../../technology/bev-platforms/ppe/) technology enables charging times that come close to a conventional refueling stop for a combustion engine car. Just 10 minutes is sufficient time to take enough energy on board to power the car for more than 300 kilometers.
 
 And in less than 25 minutes, the 100 kWh battery charges from 5 to 80 percent. Together with its range of well over 600 kilometers, the Audi activesphere thus positions itself as unconditionally suitable for long distances, when need be.
+
+### Videos
+
+{{< youtube 8e65RS2R0E8 >}}
+
+
+{{< youtube WSblPNgiZY8 >}}
