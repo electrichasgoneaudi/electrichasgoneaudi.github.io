@@ -113,6 +113,13 @@ The four individual seats are suspended like extensions of the high, full-length
 
 When the Audi activesphere concept is driving in autonomous mode, the dashboard, steering wheel, and pedals disappear into an invisible position. Especially in the first row of seats, a wide space opens in front of the driver, which extends to the front end of the activesphere – and beyond. For a clear field of vision, the fully glazed Singleframe gives passengers an unobstructed view of the road in front.
 
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere8.jpeg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere8_mt.jpeg" alt="Audi activesphere concept" title="Audi grandsphere concept">
+    </a>
+    <figcaption><h4>Audi activesphere concept autonomous mode</h4></figcaption>
+</figure>
+
 The dashboard itself works like a xlarge soundbar (through the wood lammels) as well as a smart, full width airvent in both the deployed and stowed position.
 
 If the driver wants to take over the wheel, the dashboard, along with the steering wheel, swivels out from its flush position below the windshield – each driver can adjust the ideal ergonomic position individually. The MMI touchless controls in the doors are always accessible to the eye and the hand,for example to control windows and seat adjustments.
