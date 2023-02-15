@@ -19,7 +19,7 @@ Denne artikkelen oppsummerer hva vi vet og forventer av den nye modellen. Hvis d
 
 ## Eksteriør, størrelse og design
 
-Audi Q6 e-tron vil være tilgjengelig i SUV- og Sportback-design, akkurat som Audi Q4 e-tron og Audi Q8 e-tron. I tillegg vil den ha et stort sett med tilgjengelige farger, og du kan bestille den med Audi-eksklusive farger.
+Audi Q6 e-tron vil være tilgjengelig i SUV- og Sportback-design, akkurat som Audi Q4 e-tron og Audi Q8 e-tron. I tillegg vil den ha et stort sett med tilgjengelige farger, og du kan bestille den med Audi-exclusive farger.
 
 Svart optikk og svart optikk pluss-pakker vil være alternativer. Samme med tonede vinduer og panoramatak.
 
@@ -40,8 +40,10 @@ Vi forventer at batteriet med lanseringen har følgende spesifikasjoner
 - Tolv moduler/384 celler med 101,3 kWh brutto (97 kWh netto)
 - Ti moduler/320 celler med 84,4kWh brutto (80,8 kWh netto).
 
-Disse batteriene vil gi Audi Q6 e-tron en WLTP-rekkevidde på omtrent 485-600 km, avhengig av trimnivået for det største batteriet. (16,2 - 20 kWh/100 km)
-Takket være 800-volts teknologi kan Q6 e-tron lades med en ladekapasitet på mer enn 270kW.
+Disse batteriene vil gi Audi Q6 e-tron en WLTP-rekkevidde på omtrent 485-600 km, avhengig av utstyrsnivået på bilen, for det største batteriet. (16,2 - 20 kWh/100 km)
+Takket være 800-volts teknologi kan Q6 e-tron lades med en ladekapasitet på mer enn 270kW. Spionbildet under viser ladefart på 271KW ved 18% SOC.
+
+![Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/charging.jpg "Audi Q6 e-tron prototype lading")
 
 Du kan lade batteriet fra fem til 80 prosent på mindre enn 25 minutter på en 800-volts 350KW-lader.
 
@@ -94,7 +96,7 @@ Hjulbreddene på for- og bakakselen vil variere betydelig for å imøtekomme den
 
 Audi Drive Select er kombinert med luftfjæringen i den helelektriske Q6, men kan også kombineres med stålfjæringen. Systemet reagerer på veiens tilstand, men også hastigheten, langsgående og sideakselerasjon, gasspedalmodulering, styreoppførsel og bilens posisjonsnivå.
 
-Q6 e-tron har en fullstendig revidert dobbel bærearmaksel med frittliggende stagnivå foran. Kinematikken og elastokinematikken muliggjør forbedret respons, styrepresisjon og rettlinjet kjøring. I tillegg er multilinkakselen bak koblet til karosseriet via en elastisk montert underramme, mens den bakre elektriske drivenheten er festet direkte til strukturen på fire punkter – en spesiell egenskap ved Performance-stylingen bak. . Denne designen påvirker kjøredynamikken positivt med presis hjulføring, høy tverrstivhet og NVH-adferd (NVH = Noise, Vibration, Harshness).
+Q6 e-tron har en fullstendig revidert dobbel bærearmaksel med frittliggende stagnivå foran. Kinematikken og elastokinematikken muliggjør forbedret respons, styrepresisjon og rettlinjet kjøring. I tillegg er multilinkakselen bak koblet til karosseriet via en elastisk montert underramme, mens den bakre elektriske drivenheten er festet direkte til strukturen på fire punkter – en spesiell egenskap ved Performance-stylingen bak. Denne designen påvirker kjøredynamikken positivt med presis hjulføring, høy tverrstivhet og NVH-adferd (NVH = Noise, Vibration, Harshness).
 
 <figur>
      <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain2.jpg">

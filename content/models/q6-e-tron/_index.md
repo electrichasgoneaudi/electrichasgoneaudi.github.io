@@ -44,6 +44,8 @@ We expect the battery with the launch to have the following specifications
 These batteries will give the Audi Q6 e-tron a WLTP range of approximately 485-600km, depending on the trim level for the largest battery. (16.2 - 20 kWh/100km)
 Thanks to 800-volt technology, the Q6 e-tron can be charged with a charging capacity of more than 270kW.  
 
+![Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/charging.jpg "Audi Q6 e-tron prototype charging by Auto Week NL")
+
 You can charge the battery from five to 80 percent in less than 25 minutes on an 800-volt 350KW charger.
 
 If the station uses 400-volt technology, the Q6 e-tron uses 'bank charging' for the first time, whereby corresponding high-voltage switches (gates) are automatically switched in the battery before the actual charging process begins. This technology effectively splits the 800-volt battery into two batteries with a nominal voltage of 400 volts each that can charge in parallel on one 400-volt charging station without an additional HV booster. The states of charge of the two battery halves are first aligned. This functionality will only be available on the 100kWh battery.
