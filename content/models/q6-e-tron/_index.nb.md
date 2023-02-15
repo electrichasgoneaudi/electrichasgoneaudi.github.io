@@ -107,6 +107,8 @@ Q6 e-tron har en fullstendig revidert dobbel bærearmaksel med frittliggende sta
 
 Toppversjonene vil ha elektronisk styrt differensialsperre på bakakselen. Denne kontrollstrategien er uavhengig av den respektive kjøresituasjonen og sikrer bedre trekkraft, kjørestabilitet og tverrdynamikk. I tillegg støtter målrettede, dynamiske bremseinngrep på bakakselen styreoppførselen og presisjonen.
 
+Som ekstrautstyr vil man kunne bestille Q6 e-tron med styring på bakakseleren. Slik e-tron GT tilbyr i dag.
+
 ## Teknologi
 
 ### UI og MMI

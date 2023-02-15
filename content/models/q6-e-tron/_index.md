@@ -108,6 +108,8 @@ The Q6 e-tron has a completely revised double wishbone axle with a detached stru
 
 The top versions will have an electronically controlled differential lock on the rear axle. This control strategy is independent of the respective driving situation and ensures greater traction, driving stability, and transverse dynamics. In addition, targeted, dynamic braking interventions on the rear axle support the steering behavior and precision.
 
+Audi Q6 e-tron will also be available with rear-axle steering. This reduces the turn circle.
+
 ## Technology
 
 ### UI & MMI
