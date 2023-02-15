@@ -21,13 +21,13 @@ Denne artikkelen oppsummerer hva vi vet og forventer av den nye modellen. Hvis d
 
 Audi Q6 e-tron vil være tilgjengelig i SUV- og Sportback-design, akkurat som Audi Q4 e-tron og Audi Q8 e-tron. I tillegg vil den ha et stort sett med tilgjengelige farger, og du kan bestille den med Audi-exclusive farger.
 
-Svart optikk og svart optikk pluss-pakker vil være alternativer. Samme med tonede vinduer og panoramatak.
+Svart optikk og svart optikk pluss-pakker vil være alternativer. Samme med mørke vinduer og panoramatak.
 
 Det vil være hjulalternativer fra 19 til 22 tommer.
 
 ## Interiør
 
-Audi Q6 e-tron vil være tilgjengelig med forskjellige setealternativer. Fra standardseter, sportsseter og komfortseter. Noen med mulighet for ventilasjon og massasje. Den vil også være tilgjengelig med dyrefritt interiør og helskinninteriør med forskjellige farger. Et s-line interiør vil også være et alternativ.
+Audi Q6 e-tron vil være tilgjengelig med forskjellige setealternativer. Fra standardseter, sportsseter og komfortseter. Noen med mulighet for ventilasjon og massasje. Den vil også være tilgjengelig med vegan interiør og helskinninteriør med forskjellige farger. Et s-line interiør vil også være et alternativ.
 
 ## Drivverk
 
@@ -127,9 +127,9 @@ Electrichasgoneaudi.net forventer at Audi Q6 e-tron har et bagasjerom på ca 550
      <figcaption><h4>Audi Q6 e-tron under panseret</h4></figcaption>
 </figur>
 
-## Ekstrauutstyr og tilvalg
+## Ekstrautstyr og tilvalg
 
-Audi Q6 vil være tilgjengelig med flere alternativer.
+Audi Q6 vil være tilgjengelig med flere utstyrsvalg.
 
 - S-line eksteriør
 - Svart optikk
@@ -152,4 +152,3 @@ Se nedenfor for spionvideo og spionbilde av testkjøringen av Q6 e-tron.
 ![Carbuzz-bilde av Q6 Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype3.jpg "Carbuzz-bilde av Q6 e-tron Prototype")
 
 ![Carbuzz-bilde av Q6 Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype4.jpg "Carbuzz-bilde av Q6 e-tron Prototype")
-
