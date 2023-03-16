@@ -14,7 +14,13 @@ The model will come in different versions with different battery capacities, and
 
 This article summarizes what we know and expect from the new model. If you want to keep yourself updated on this model, join our [Audi Q6 e-tron Facebook group](https://www.facebook.com/groups/114120244068685) to keep yourself updated.
 
-![Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype5.jpg "Audi Q6 e-tron prototype by Carscopes")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_1_st.jpg" alt="Audi Q6 prototype wintertesting" title="Audi Q6 prototype wintertesting">
+    </a>
+    <figcaption><h4>Audi Q6 prototype wintertesting</h4></figcaption>
+</figure>
+
 
 ## Exterior
 
@@ -72,6 +78,14 @@ Permanent magnets are fitted on the AC motor's rotor, generating a permanent mag
 For the top variants SQ6 e-tron and RSQ6 e-tron, the engineers are creating a dynamic, sporty driving experience with a fully variable electronically controlled rear differential and a so-called 'Performance rear axle.' Added to this is a powerful electric motor positioned behind the rear axle. This setup enables a rear-dominant all-wheel application across a wide spectrum. Moreover, in combination with the dynamic torque distribution in the all-wheel drive, it also supports high agility when accelerating out of corners.
 
 Audi will use only the latest-generation PSM motors that have several improvements. Audi has optimized the water jacket cooling to maximize the power density and used double V lamination on magnets.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_2_st.jpg" alt="Audi Q6 prototype wintertesting" title="Audi Q6 prototype wintertesting">
+    </a>
+    <figcaption><h4>Audi Q6 prototype wintertesting</h4></figcaption>
+</figure>
+
 
 The development of power electronics has also taken a big step forward. Silicon carbide (SiC) is used instead of silicon as the pulse inverter (PWR) semiconductor material on the rear axle. This technology significantly reduces switching losses in the PWR, enables higher switching frequencies, and improves efficiency.
 
@@ -148,9 +162,24 @@ See below for spy video and spy photo of the Q6 e-tron test-driving.
 
 {{< youtube KFGy7p0Q3yo>}}
 
-![Carbuzz photo of Q6 Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype2.jpg "Carbuzz photo of Q6 e-tron Prototype")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_3_st.jpg" alt="Audi Q6 prototype wintertesting" title="Audi Q6 prototype wintertesting">
+    </a>
+    <figcaption><h4>Audi Q6 prototype wintertesting</h4></figcaption>
+</figure>
 
-![Carbuzz photo of Q6 Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype3.jpg "Carbuzz photo of Q6 e-tron Prototype")
 
-![Carbuzz photo of Q6 Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype4.jpg "Carbuzz photo of Q6 e-tron Prototype")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_4_st.jpg" alt="Audi Q6 prototype wintertesting" title="Audi Q6 prototype wintertesting">
+    </a>
+    <figcaption><h4>Audi Q6 prototype wintertesting</h4></figcaption>
+</figure>
 
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_5.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_5_st.jpg" alt="Audi Q6 prototype wintertesting" title="Audi Q6 prototype wintertesting">
+    </a>
+    <figcaption><h4>Audi Q6 prototype wintertesting</h4></figcaption>
+</figure>

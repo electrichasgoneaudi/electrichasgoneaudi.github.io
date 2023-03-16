@@ -15,7 +15,12 @@ Modellen kommer i forskjellige versjoner med forskjellige batterikapasiteter, og
 
 Denne artikkelen oppsummerer hva vi vet og forventer av den nye modellen. Hvis du ønsker å holde deg oppdatert på denne modellen, bli med i vår internasjonale [Audi Q6 e-tron Facebook-gruppen](https://www.facebook.com/groups/114120244068685)  eller vår Norske [Audi Q6 e-tron Facebook-gruppen](https://www.facebook.com/groups/454688995817417)  for å holde deg oppdatert.
 
-![Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype5.jpg "Audi Q6 e-tron prototype by Carscopes")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_1_st.jpg" alt="Audi Q6 prototype vintertesting" title="Audi Q6 prototype vintertesting">
+    </a>
+    <figcaption><h4>Audi Q6 prototype vintertesting</h4></figcaption>
+</figure>
 
 ## Eksteriør, størrelse og design
 
@@ -73,6 +78,13 @@ For toppvariantene SQ6 e-tron og RSQ6 e-tron skaper ingeniørene en dynamisk, sp
 Audi vil kun bruke siste generasjons PSM-motorer som har flere forbedringer. Audi har optimalisert vannkappekjølingen for å maksimere krafttettheten og brukt dobbel V-laminering på magneter.
 
 Utviklingen av kraftelektronikk har også tatt et stort skritt fremover. Silisiumkarbid (SiC) brukes i stedet for silisium som pulsinverter (PWR) halvledermateriale på bakakselen. Denne teknologien reduserer svitsjetap i PWR betydelig, muliggjør høyere svitsjefrekvenser og forbedrer effektiviteten.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_2_st.jpg" alt="Audi Q6 prototype vintertesting" title="Audi Q6 prototype vintertesting">
+    </a>
+    <figcaption><h4>Audi Q6 prototype vintertesting</h4></figcaption>
+</figure>
 
 ### Dempere og styring
 
@@ -147,8 +159,25 @@ Se nedenfor for spionvideo og spionbilde av testkjøringen av Q6 e-tron.
 
 {{< youtube KFGy7p0Q3yo>}}
 
-![Carbuzz-bilde av Q6 Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype2.jpg "Carbuzz-bilde av Q6 e-tron Prototype")
 
-![Carbuzz-bilde av Q6 Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype3.jpg "Carbuzz-bilde av Q6 e-tron Prototype")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_3_st.jpg" alt="Audi Q6 prototype vintertesting" title="Audi Q6 prototype vintertesting">
+    </a>
+    <figcaption><h4>Audi Q6 prototype vintertesting</h4></figcaption>
+</figure>
 
-![Carbuzz-bilde av Q6 Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype4.jpg "Carbuzz-bilde av Q6 e-tron Prototype")
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_4_st.jpg" alt="Audi Q6 prototype vintertesting" title="Audi Q6 prototype vintertesting">
+    </a>
+    <figcaption><h4>Audi Q6 prototype vintertesting</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_5.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_5_st.jpg" alt="Audi Q6 prototype vintertesting" title="Audi Q6 prototype vintertesting">
+    </a>
+    <figcaption><h4>Audi Q6 prototype vintertesting</h4></figcaption>
+</figure>
