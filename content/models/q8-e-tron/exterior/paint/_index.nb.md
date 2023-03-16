@@ -39,32 +39,18 @@ I tilegg får kan du velge mellom over 50 [Audi Exclusive farger](../../exterior
 Du kan velge å få støtfangere og hjulbuer i kontrastmaling. Dette er alternativet **2K5**
 Kontrastfargen er manhattengrå på alle alternativer bortsett fra isbrehvit og florett sølv. På dem er det tyfongrått.
 
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/contrast1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/contrast1s.jpg" alt="Brehvit med kontrastfarger" title="Brehvit med kontrastfarge">
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/contrast_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/contrast_1_st.jpg" alt="Chronos grå med kontrastlakkering og sort opptikk" title="Chronos grå med kontrastlakkering og sort opptikk">
     </a>
-    <figcaption><h4>Isbrehvit med kontrastlakkering</h4></figcaption>
-</figur>
-
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/contrast2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/contrast2s.jpg" alt="Brehvit med kontrastfarger" title="Brehvit med kontrastfarge">
-    </a>
-    <figcaption><h4>Isbrehvit med kontrastlakkering</h4></figcaption>
-</figur>
-
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/contrast3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/contrast3s.jpg" alt="Brehvit med kontrastfarger" title="Brehvit med kontrastfarge">
-    </a>
-    <figcaption><h4>Isbrehvit med kontrastlakkering</h4></figcaption>
-</figur>
+    <figcaption><h4>Chronos grå med kontrastlakkering og sort opptikk</h4></figcaption>
+</figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/contrast4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/contrast4s.jpg" alt="Glacier white with contrast colors" title="Glacier white with contrast color">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/contrast_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/contrast_2_st.jpg" alt="Chronos grå med kontrastlakkering og sort opptikk" title="Chronos grå med kontrastlakkering og sort opptikk">
     </a>
-    <figcaption><h4>S-Line Isbrehvit med kontrastlakkering og sort optikk</h4></figcaption>
+    <figcaption><h4>Chronos grå med kontrastlakkering og sort opptikk</h4></figcaption>
 </figure>
 
 ### Hellakkering
