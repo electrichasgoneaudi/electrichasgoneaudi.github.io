@@ -35,7 +35,7 @@ Audi Q4 e-tron og Q4 Sportback e-tron er de første kompakte elektriske SUV-ene 
 
 ## Audi Q6 e-tron
 
-[![Audi Q6 e-tron](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype1.jpg)](q6-e-tron/)
+[![Audi Q6 e-tron](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_1_st.jpg)](q6-e-tron/)
 
 [Audi Q6 e-tron](q6-e-tron/) får verdenspremiere i 2023 og blir den femte helelektriske modellen fra Audi. Den er bygget på den nye PPE -plattformen laget sammen med Porsche. Forventes å komme i forskjellige varianter og være den mest sportslige helelektriske SUV-en fra Audi.
 
