@@ -335,6 +335,11 @@ New color for Q8
     <figcaption><h4>Audi Q8 55 Sportback e-tron in Madeira Brown Metallic</h4></figcaption>
 </figure>
 
+Se Video fra Auditography
+
+{{< youtube 1Z6m_SvMmAk >}}
+
+
 ### Manhattengrå metallic
 
 Fargekode: **2Y**
