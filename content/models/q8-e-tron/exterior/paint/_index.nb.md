@@ -183,53 +183,12 @@ Kun tilgjengelig på S-line og SQ8 e-tron
 
 Fargekode: **6Y**
 
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_1s.jpg" alt="Audi e-tron 60S Sportback i Daytona Grey" title="Audi e-tron 60S Sportback i Daytona Grey">
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_daytona_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_daytona_1_st.jpg" alt="Audi Q8 e-tron in Daytona grey with black optics" title="Audi Q8 e-tron in Daytona grey with black optics">
     </a>
-    <figcaption><h4>Audi e-tron 60S Sportback i Daytona Grey</h4></figcaption>
-</figur>
-
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_2s.jpg" alt="Audi e-tron 55 Sportback i Daytona Grey" title="Audi e-tron 55 Sportback i Daytona Grey">
-    </a>
-    <figcaption><h4>Audi e-tron 55 Sportback S-Line i Daytona Grey</h4></figcaption>
-</figur>
-
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_3s.jpg" alt="Audi e-tron 55 Sportback i Daytona Grey med sort optikk" title="Audi e-tron 55 Sportback i Daytona Grey med sort optikk">
-    </a>
-    <figcaption><h4>Audi e-tron 55 Sportback S-Line i Daytona Grey med sort optikk</h4></figcaption>
-</figur>
-
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_4s.jpg" alt="Audi e-tron 55 S-line i Daytona Grey med sort optikk" title="Audi e-tron 55 S-line i Daytona Grey med sort optikk">
-    </a>
-    <figcaption><h4>Audi e-tron 55 S-line i Daytona Grey med sort optikk</h4></figcaption>
-</figur>
-
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_5s.jpg" alt="Audi e-tron 55 S-line i Daytona Grey med sort optikk" title="Audi e-tron 55 S-line i Daytona Grey med sort optikk">
-    </a>
-    <figcaption><h4>Audi e-tron 55 S-line i Daytona Grey med sort optikk</h4></figcaption>
-</figur>
-
-
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_6s.jpg" alt="Audi e-tron 60S Sporttback i Daytona Grey med sort optikk" title="Audi e-tron 60S Sporttback i Daytona Grey med sort optikk">
-    </a>
-    <figcaption><h4>Audi e-tron 60S Sporttback i Daytona Grey med sort optikk</h4></figcaption>
-</figur>
-
-Opptakene viser kjørebilder samt stillbilder av Audi e-tron S Sportback i fargen daytona grå.
-
-{{< youtube bzqrdHJpXpA>}}
-
+    <figcaption><h4>Audi Q8 e-tron in Daytona grey with black optics</h4></figcaption>
+</figure>
 
 ### Plasma Blue
 
