@@ -235,10 +235,32 @@ The footage shows driving shots as well as stills of the Audi e-tron S Sportback
 Color Code: **3D**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_1s.jpg" alt="Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color" title="Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_plasmablue_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_plasmablue_1_st.jpg" alt="Audi Q8 e-tron in Plasma Blue with contrast color and standard optics" title="Audi Q8 e-tron in Plasma Blue with contrast color and standard optics">
     </a>
-    <figcaption><h4>Audi e-tron 55 S-line Sportback in Plasma Blue with contrast color</h4></figcaption>
+    <figcaption><h4>Audi Q8 e-tron in Plasma Blue with contrast color and standard optics</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_plasmablue_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_plasmablue_2_st.jpg" alt="Audi Q8 e-tron in Plasma Blue with contrast color and standard optics" title="Audi Q8 e-tron in Plasma Blue with contrast color and standard optics">
+    </a>
+    <figcaption><h4>Audi Q8 e-tron in Plasma Blue with contrast color and standard optics</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_plasmablue_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_plasmablue_3_st.jpg" alt="Audi Q8 e-tron in Plasma Blue with black optics" title="Audi Q8 e-tron in Plasma Blue with black optics">
+    </a>
+    <figcaption><h4>Audi Q8 e-tron in Plasma Blue with black optics</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_plasmablue_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_plasmablue_4_st.jpg" alt="Audi Q8 e-tron in Plasma Blue with black optics" title="Audi Q8 e-tron in Plasma Blue with black optics">
+    </a>
+    <figcaption><h4>Audi Q8 e-tron in Plasma Blue with black optics</h4></figcaption>
 </figure>
 
 <figure>
