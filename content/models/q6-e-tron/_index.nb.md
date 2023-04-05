@@ -153,11 +153,11 @@ Audi planlegger å redusere antall kombinasjoner av ekstrautstyr. Så i stedet f
 
 ![options](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/options.jpg "Ekstrautstyr")
 
-## Spionbilder
+## Prototype testing
 
-Se nedenfor for spionvideo og spionbilde av testkjøringen av Q6 e-tron.
+Se nedenfor video og bilder av testkjøringen av Q6 e-tron.
 
-{{< youtube KFGy7p0Q3yo>}}
+{{< youtube wUCeZqJFHdM >}}
 
 
 <figure>
