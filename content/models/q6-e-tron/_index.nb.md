@@ -157,7 +157,7 @@ Audi planlegger å redusere antall kombinasjoner av ekstrautstyr. Så i stedet f
 
 Se nedenfor video og bilder av testkjøringen av Q6 e-tron.
 
-{{< youtube wUCeZqJFHdM >}}
+{{< youtube pbKUA1PNAAw >}}
 
 
 <figure>
