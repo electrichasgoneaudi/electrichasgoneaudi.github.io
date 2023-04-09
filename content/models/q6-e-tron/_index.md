@@ -158,7 +158,7 @@ Audi plans to reduce the number of combinations of options. So instead of most o
 
 ## Prototype testing
 
-See below for video and images of the Q6 e-tron test-driving.
+See below for video and images of the Q6 e-tron test-driving in winter.
 
 {{< youtube pbKUA1PNAAw >}}
 
