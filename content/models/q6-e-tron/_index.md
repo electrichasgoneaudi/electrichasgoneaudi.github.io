@@ -156,11 +156,11 @@ Audi plans to reduce the number of combinations of options. So instead of most o
 
 ![options](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/options.jpg "Options")
 
-## Spy photos
+## Prototype testing
 
-See below for spy video and spy photo of the Q6 e-tron test-driving.
+See below for video and images of the Q6 e-tron test-driving in winter.
 
-{{< youtube KFGy7p0Q3yo>}}
+{{< youtube pbKUA1PNAAw >}}
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_3.jpg">
