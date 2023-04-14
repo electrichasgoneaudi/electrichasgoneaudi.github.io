@@ -611,3 +611,38 @@ From Audi Smista [@audismista](https://www.instagram.com/audismista/?hl=en)
     </a>
     <figcaption><h4>Goodwood Green Audi e-tron</h4></figcaption>
 </figure>
+
+## Orange Flame
+
+Color code  6201 Bentley
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_orangeflame_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_orangeflame_1_st.jpg" alt="Audi e-tron in Orange Flame" title="Audi e-tron in Orange Flame">
+    </a>
+    <figcaption><h4>Audi e-tron in Orange Flame</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_orangeflame_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_orangeflame_2_st.jpg" alt="Audi e-tron in Orange Flame" title="Audi e-tron in Orange Flame">
+    </a>
+    <figcaption><h4>Audi e-tron in Orange Flame</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_orangeflame_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_orangeflame_3_st.jpg" alt="Audi e-tron in Orange Flame" title="Audi e-tron in Orange Flame">
+    </a>
+    <figcaption><h4>Audi e-tron in Orange Flame</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_orangeflame_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_orangeflame_4_st.jpg" alt="Audi e-tron in Orange Flame" title="Audi e-tron in Orange Flame">
+    </a>
+    <figcaption><h4>Audi e-tron in Orange Flame</h4></figcaption>
+</figure>
