@@ -190,6 +190,27 @@ Color Code: **6Y**
     <figcaption><h4>Audi Q8 e-tron in Daytona grey with black optics</h4></figcaption>
 </figure>
 
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_daytona_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_daytona_2_st.jpg" alt="Audi Q8 e-tron in Daytona grey with black optics" title="Audi Q8 e-tron in Daytona grey with black optics">
+    </a>
+    <figcaption><h4>Audi Q8 e-tron in Daytona grey with black optics</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_daytona_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_daytona_3_st.jpg" alt="Audi Q8 e-tron in Daytona grey with black optics" title="Audi Q8 e-tron in Daytona grey with black optics">
+    </a>
+    <figcaption><h4>Audi Q8 e-tron in Daytona grey with black optics</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_daytona_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_daytona_4_st.jpg" alt="Audi Q8 e-tron in Daytona grey with black optics" title="Audi Q8 e-tron in Daytona grey with black optics">
+    </a>
+    <figcaption><h4>Audi Q8 e-tron in Daytona grey with black optics</h4></figcaption>
+</figure>
+
 ### Plasma Blue
 
 Color Code: **3D**
