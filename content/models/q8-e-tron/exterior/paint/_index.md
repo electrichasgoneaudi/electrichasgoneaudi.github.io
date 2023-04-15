@@ -100,6 +100,14 @@ Standard color. Solid
     <figcaption><h4>Audi Q8 e-tron in in magnet grey with black optics</h4></figcaption>
 </figure>
 
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_magnetgrey_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_magnetgrey_3_st.jpg" alt="Audi Q8 e-tron in in magnet grey with black optics" title="Audi Q8 e-tron in in magnet grey with black optics">
+    </a>
+    <figcaption><h4>Audi Q8 e-tron in in magnet grey with black optics</h4></figcaption>
+</figure>
+
+
 ### Glacier White
 
 Color Code: **2Y**
