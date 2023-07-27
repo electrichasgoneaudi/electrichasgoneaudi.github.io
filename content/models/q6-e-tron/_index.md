@@ -15,10 +15,10 @@ The model will come in different versions with different battery capacities, and
 This article summarizes what we know and expect from the new model. If you want to keep yourself updated on this model, join our [Audi Q6 e-tron Facebook group](https://www.facebook.com/groups/114120244068685) to keep yourself updated.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_1_st.jpg" alt="Audi Q6 prototype wintertesting" title="Audi Q6 prototype wintertesting">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_1_st.jpg" alt="Audi Q6 prototype testdrive" title="Audi Q6 prototype testdrive">
     </a>
-    <figcaption><h4>Audi Q6 prototype wintertesting</h4></figcaption>
+    <figcaption><h4>Audi Q6 prototype testdrive</h4></figcaption>
 </figure>
 
 
@@ -40,11 +40,11 @@ The Audi Q6 e-tron will be available with different seat options. From standard 
 
 ### Battery & Range
 
-The battery in the Q6 e-tron consists of twelve or ten modules with prismatic cells. The nickel, cobalt, and manganese ratio is 8:1:1, and the battery achieves a higher energy density. The cell technology is similar to the new battery on the [Audi Q8 e-tron 55](../q8-e-tron/drivetrain/battery/).
+The battery in the Q6 e-tron consists of twelve or ten modules with prismatic cells. The nickel, cobalt, and manganese ratio is 8:1:1, and the battery achieves a higher energy density. 
 
 We expect the battery with the launch to have the following specifications
 
-- Twelve modules/384 cells with 101.3 kWh gross (97 kWh net)
+- Twelve modules/180 cells with 100 kWh gross (94 kWh net)
 - Ten modules/320 cells with 84.4kWh gross (80.8 kWh net).
 
 These batteries will give the Audi Q6 e-tron a WLTP range of approximately 485-600km, depending on the trim level for the largest battery. (16.2 - 20 kWh/100km)
@@ -63,8 +63,8 @@ If the station uses 400-volt technology, the Q6 e-tron uses 'bank charging' for 
 Electrichasgoneaudi.net expects the Audi Q6 e-tron to come in different performance versions.
 
 - 2-wheel drive (Audi Q6 e-tron 45?)
-- quattro drive (Audi Q6 e-tron 55?)
-- Audi SQ6 e-tron
+- Audi Q6 e-tron 55 quattro with 282KW/382hp + 20kw boost (confirmed)
+- Audi SQ6 e-tron  with 380KW/510hP + 20kw boost  (confirmed)
 - Audi RSQ6 e-tron with 450kW and +1000nm
 
 Audi will use different motor setups on the om the variants.
@@ -158,9 +158,19 @@ Audi plans to reduce the number of combinations of options. So instead of most o
 
 ## Prototype testing
 
+{{< youtube qvQCDJ3sgJk >}}
+
 See below for video and images of the Q6 e-tron test-driving in winter.
 
 {{< youtube pbKUA1PNAAw >}}
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_1_st.jpg" alt="Audi Q6 prototype wintertesting" title="Audi Q6 prototype wintertesting">
+    </a>
+    <figcaption><h4>Audi Q6 prototype wintertesting</h4></figcaption>
+</figure>
+
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_3.jpg">
