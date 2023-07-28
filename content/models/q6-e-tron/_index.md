@@ -71,11 +71,11 @@ Audi will use different motor setups on the om the variants.
 
 ![Motors](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/motors.jpg "Motors for Audi Q6 e-tron")
 
-Audi uses permanently excited synchronous electric motors (PSM) with hairpin winding on the PPE platform.
+Audi uses permanently excited synchronous electric motors (PSM) with hairpin winding on the PPE platform for rear motor and asyncronous motors on the front. 
 
 Permanent magnets are fitted on the AC motor's rotor, generating a permanent magnetic field. As a result, compared to asynchronous motors (ASM), PSMs offer higher power and torque densities, greater efficiency, and better reproducibility of the power output.
 
-For the top variants SQ6 e-tron and RSQ6 e-tron, the engineers are creating a dynamic, sporty driving experience with a fully variable electronically controlled rear differential and a so-called 'Performance rear axle.' Added to this is a powerful electric motor positioned behind the rear axle. This setup enables a rear-dominant all-wheel application across a wide spectrum. Moreover, in combination with the dynamic torque distribution in the all-wheel drive, it also supports high agility when accelerating out of corners.
+For the top variants RSQ6 e-tron, the engineers are creating a dynamic, sporty driving experience with a fully variable electronically controlled rear differential and a so-called 'Performance rear axle.' Added to this is a powerful electric motor positioned behind the rear axle. This setup enables a rear-dominant all-wheel application across a wide spectrum. Moreover, in combination with the dynamic torque distribution in the all-wheel drive, it also supports high agility when accelerating out of corners.
 
 Audi will use only the latest-generation PSM motors that have several improvements. Audi has optimized the water jacket cooling to maximize the power density and used double V lamination on magnets.
 
