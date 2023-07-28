@@ -45,7 +45,7 @@ The battery in the Q6 e-tron consists of twelve or ten modules with prismatic ce
 We expect the battery with the launch to have the following specifications
 
 - Twelve modules/180 cells with 100 kWh gross (94 kWh net)
-- Ten modules/320 cells with 84.4kWh gross (80.8 kWh net).
+- Ten modules/150 cells with 84.4kWh gross (80.8 kWh net).
 
 These batteries will give the Audi Q6 e-tron a WLTP range of approximately 485-600km, depending on the trim level for the largest battery. (16.2 - 20 kWh/100km)
 Thanks to 800-volt technology, the Q6 e-tron can be charged with a charging capacity of more than 270kW.  
@@ -62,10 +62,11 @@ If the station uses 400-volt technology, the Q6 e-tron uses 'bank charging' for 
 
 Electrichasgoneaudi.net expects the Audi Q6 e-tron to come in different performance versions.
 
-- 2-wheel drive (Audi Q6 e-tron 45?)
+- 2-wheel drive standard range (Audi Q6 e-tron 40?)
+- 2-wheel drive long range (Audi Q6 e-tron 45?)
 - Audi Q6 e-tron 55 quattro with 282KW/382hp + 20kw boost (confirmed)
 - Audi SQ6 e-tron  with 380KW/510hP + 20kw boost  (confirmed)
-- Audi RSQ6 e-tron with 450kW and +1000nm
+- Audi RSQ6 e-tron with 450kW and +1000nm and rear axle steering
 
 Audi will use different motor setups on the om the variants.
 
