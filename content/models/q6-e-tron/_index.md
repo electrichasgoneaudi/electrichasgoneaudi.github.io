@@ -158,9 +158,43 @@ Audi plans to reduce the number of combinations of options. So instead of most o
 
 ![options](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/options.jpg "Options")
 
-## Prototype testing
+## Prototype testing and other media
+
+Below you find videos and images of the prototype with information about the technology
+
+
+### Video by Auditography
+
+{{< youtube a66ub_pUwtY >}}
+
+### Audi Q6 e-tron Prototype Drive – Trailer
 
 {{< youtube qvQCDJ3sgJk >}}
+
+### Audi Q6 e-tron Experience – Prototype Drive
+
+{{< youtube qvQCDJ3sgJk >}}
+
+
+### Audi Q6 e-tron Experience – Interview with Dr. Michael Kruppa
+
+{{< youtube Cb4u-sS1P_k >}}
+
+### Audi Q6 e-tron Insights – #01 Light Technology
+
+{{< youtube BaKm8bMrdto >}}
+
+
+### Audi Q6 e-tron prototype – Digital light signature and Matrix LED headlights
+
+{{< youtube dYRrjRDXvBk >}}
+
+
+### Oled Rear lights
+
+{{< youtube OMx8x8J6Pro >}}
+
+
 
 See below for video and images of the Q6 e-tron test-driving in winter.
 
