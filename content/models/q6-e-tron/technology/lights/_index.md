@@ -25,7 +25,24 @@ The second-generation of digital OLED technology shapes the look of new Audi mod
 
 The headlights and rear lights look alive at first glance – this is how customers should imagine the active digital light signature, a world first from the brand with the four rings. It comes as part of the optional package of digital light signatures. “The Audi Q6 e-tron marks the first time in a production model that we are designing both the shape of the lights and their entire movement. Thanks to a perfect symbiosis between lighting design and the new technology, the new Audi Q6 e-tron lights look more vibrant and intelligent than ever before. We’ve given the light signatures their own personality and the digital world its own aesthetics at the same time”, explains César Muntada, Head of Lighting Design. “With the world’s first active digital light signature, the Q6 e-tron is ushering in a new era of distinctive design and aesthetics unique to Audi.”
 
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/lights/lights_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/lights/lights_3_st.jpg" alt="Audi Q6 e-tron head lights" title="Audi Q6 e-tron head lights">
+    </a>
+    <figcaption><h4>Audi Q6 e-tron head lights</h4></figcaption>
+</figure>
+
+
 A software module in one of the Audi Q6 e-tron's domain computers, jointly developed by Audi and the Group’s software company CARIAD, makes this type of light signature possible. In the case of the second-generation digital OLED rear lights, the six 360-segment OLED panels generate a new image every ten milliseconds using a specially developed algorithm. This algorithm lets the active digital light signature demonstrate the car’s vibrancy and ability to interact personally by making the Q6 e-tron’s “brain activity” visible through constant movement. The active digital light signature at the front is created via the interaction of the algorithm with 12 dimmable segments, while at the rear, all the digital OLED segments are used. The individual light segments interact so that the light signature's overall image does not vary in luminous intensity.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_2_st.jpg" alt="Audi Q6 e-tron rear lights" title="Audi Q6 e-tron rear lights">
+    </a>
+    <figcaption><h4>Audi Q6 e-tron rear lights</h4></figcaption>
+</figure>
+
 
 ## The second-generation of digital OLED technology
 
@@ -42,11 +59,27 @@ In 2020, Audi Q5 customers could select an individual rear light signature for t
 
 In 2022 this option became standard in the Audi A8 with digital OLED rear lights. The car’s bus system allowed its software to control each rear light panel and each OLED segment individually. In the A8, customers could select from three rear light signatures via the MMI; in the S8, they could choose from four.
 
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/lights/lights_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/lights/lights_2_st.jpg" alt="Audi Q6 e-tron rear lights" title="Audi Q6 e-tron rear lights">
+    </a>
+    <figcaption><h4>Audi Q6 e-tron rear lights</h4></figcaption>
+</figure>
+
+
+
 “Audi recognized the potential of using OLED technology in rear lights early on and has since continued to systematically advance their development and digitalization as the only car manufacturer to do so. As a result, we can now offer our customers an ever-new range of lighting functions,” explains Stephan Berlitz, Head of Lighting Development, demonstrating a clear strategy behind the use of this technology. “Digital OLEDs are more efficient, lighter, and more homogeneous than traditional lighting systems,” Berlitz continues, offering a glimpse of the future: “Due to their strong contrast, they are gradually turning into exterior displays, making them an important enabler of communication with the car’s surroundings. With the proximity indication function, we have been using light to interact with other road users since 2020. The Audi Q6 e-tron now adds the communication light to improve road safety further.”
 
 ## The second-generation digital OLED rear lights in detail
 
 With the next generation of digital OLEDs in the rear lights that now follow in the Audi Q6 e-tron, Audi is significantly expanding the range of functions and design freedom while, above all, improving road safety. For the first time, the digital OLED rear lights can specifically communicate with the immediate environment (car-to-X communication). The number of segments per digital OLED panel has increased from six to 60 compared to the first generation. Six OLED panels with 360 segments in total are used in the Q6 e-tron's rear lights. The new E3 electronic architecture makes it possible to control this significantly increased number of segments using a software module on one of the domain computers. The steady increase in the number of segments per digital OLED panel will, in the future, make it possible to develop the rear of the car into a display that further improves car-to-X communication and road safety.
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/lights/lights_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/lights/lights_1_st.jpg" alt="Audi Q6 e-tron head lights" title="Audi Q6 e-tron head lights">
+    </a>
+    <figcaption><h4>Audi Q6 e-tron head lights</h4></figcaption>
+</figure>
 
 The innovative digital OLED technology creates the conditions for a completely new rear light design, ensuring a one-of-a-kind homogeneity and very high contrast. There are other advantages: Surface light sources do not require additional reflectors, light guides, or optics, making them very efficient. Together, these properties allow Audi’s engineers and designers to break down the design boundaries between two- and three-dimensionality. In other words, the brand with the four rings is creating three-dimensional shapes on two-dimensional surfaces. In addition to an integrated, expressive LED light strip at the rear, 3D glass successfully separates the rear light signature from the other lighting functions.
 
