@@ -36,14 +36,6 @@ The headlights and rear lights look alive at first glance – this is how custom
 
 A software module in one of the Audi Q6 e-tron's domain computers, jointly developed by Audi and the Group’s software company CARIAD, makes this type of light signature possible. In the case of the second-generation digital OLED rear lights, the six 360-segment OLED panels generate a new image every ten milliseconds using a specially developed algorithm. This algorithm lets the active digital light signature demonstrate the car’s vibrancy and ability to interact personally by making the Q6 e-tron’s “brain activity” visible through constant movement. The active digital light signature at the front is created via the interaction of the algorithm with 12 dimmable segments, while at the rear, all the digital OLED segments are used. The individual light segments interact so that the light signature's overall image does not vary in luminous intensity.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_2_st.jpg" alt="Audi Q6 e-tron rear lights" title="Audi Q6 e-tron rear lights">
-    </a>
-    <figcaption><h4>Audi Q6 e-tron rear lights</h4></figcaption>
-</figure>
-
-
 ## The second-generation of digital OLED technology
 
 A brief overview of digital OLED technology 1.0: In 2016, Audi introduced a new lighting technology to the automotive industry in the TT RS. It was the first time organic LEDs (OLEDs for short) were used for rear lights. OLED elements are semiconductor-based surface light sources that generate light with perfect homogeneity and high contrast values. Their brightness is also adjustable. In addition, the shape of OLED lights can be configured freely and divided precisely into switchable segments. Dynamic lighting scenarios in the OLED rear lights also debuted in the Audi TT RS.
