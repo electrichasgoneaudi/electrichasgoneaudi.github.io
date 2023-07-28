@@ -127,6 +127,17 @@ Audi Q6 e-tron will also be available with rear-axle steering. This reduces the 
 
 ## Technology
 
+### Lights 
+
+Audi Q6 e-tron will have new light technology. Read all about it in our [separate light section](technology/lights)
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_4_st.jpg" alt="Audi Q6 e-tron head lights" title="Audi Q6 e-tron head lights">
+    </a>
+    <figcaption><h4>Audi Q6 e-tron head lights</h4></figcaption>
+</figure>
+
 ### UI & MMI
 
 Audi has confirmed that the Audi Q6 e-tron will be the first car with the new generation MMI.
