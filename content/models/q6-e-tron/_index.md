@@ -134,7 +134,7 @@ For this new MMI system, Audi will use [Android Automotive](https://source.andro
 
 ## Transport capacity
 
-Electrichasgoneaudi.net expects the Audi Q6 e-tron to have a luggage compartment of about 550-600 liters. It will also be available with a towbar, and the maximum capacity is 2000-2500kg. It will also be able to use a roof box with a maximum load on the roof of 75kg.
+Electrichasgoneaudi.net expects the Audi Q6 e-tron to have a luggage compartment of about 550-600 liters. It will also be available with a towbar, and the maximum capacity is 2000-2500kg. It will also be able to use a roof box with a maximum load on the roof of 75kg. I will have a Frunk with about 50 liter capacity.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype6.jpg">
@@ -152,6 +152,7 @@ Audi Q6 will be available with several options.
 - Different wheels
 - Different seats, including seats with massage and ventilation
 - Different driver assistant systems
+- Different lights
 
 Audi plans to reduce the number of combinations of options. So instead of most options being offered separately, like on the Audi Q8 e-tron, they will introduce options packages.
 
