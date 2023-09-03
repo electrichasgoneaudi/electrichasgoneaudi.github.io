@@ -15,10 +15,10 @@ The model will come in different versions with different battery capacities, and
 This article summarizes what we know and expect from the new model. If you want to keep yourself updated on this model, join our [Audi Q6 e-tron Facebook group](https://www.facebook.com/groups/114120244068685) to keep yourself updated.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_1_st.jpg" alt="Audi Q6 prototype wintertesting" title="Audi Q6 prototype wintertesting">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_1_st.jpg" alt="Audi Q6 prototype testdrive" title="Audi Q6 prototype testdrive">
     </a>
-    <figcaption><h4>Audi Q6 prototype wintertesting</h4></figcaption>
+    <figcaption><h4>Audi Q6 prototype testdrive</h4></figcaption>
 </figure>
 
 
@@ -95,12 +95,12 @@ The Audi Q6 e-tron will be available with different seat options. From standard 
 
 ### Battery & Range
 
-The battery in the Q6 e-tron consists of twelve or ten modules with prismatic cells. The nickel, cobalt, and manganese ratio is 8:1:1, and the battery achieves a higher energy density. The cell technology is similar to the new battery on the [Audi Q8 e-tron 55](../q8-e-tron/drivetrain/battery/).
+The battery in the Q6 e-tron consists of twelve or ten modules with prismatic cells. The nickel, cobalt, and manganese ratio is 8:1:1, and the battery achieves a higher energy density. 
 
 We expect the battery with the launch to have the following specifications
 
-- Twelve modules/384 cells with 101.3 kWh gross (97 kWh net)
-- Ten modules/320 cells with 84.4kWh gross (80.8 kWh net).
+- Twelve modules/180 cells with 100 kWh gross (94 kWh net)
+- Ten modules/150 cells with 84.4kWh gross (80.8 kWh net).
 
 These batteries will give the Audi Q6 e-tron a WLTP range of approximately 485-600km, depending on the trim level for the largest battery. (16.2 - 20 kWh/100km)
 Thanks to 800-volt technology, the Q6 e-tron can be charged with a charging capacity of more than 270kW.  
@@ -117,20 +117,21 @@ If the station uses 400-volt technology, the Q6 e-tron uses 'bank charging' for 
 
 Electrichasgoneaudi.net expects the Audi Q6 e-tron to come in different performance versions.
 
-- 2-wheel drive (Audi Q6 e-tron 45?)
-- quattro drive (Audi Q6 e-tron 55?)
-- Audi SQ6 e-tron
-- Audi RSQ6 e-tron with 450kW and +1000nm
+- 2-wheel drive standard range (Audi Q6 e-tron 40?)
+- 2-wheel drive long range (Audi Q6 e-tron 45?)
+- Audi Q6 e-tron 55 quattro with 282KW/382hp + 20kw boost (confirmed)
+- Audi SQ6 e-tron  with 380KW/510hP + 20kw boost  (confirmed)
+- Audi RSQ6 e-tron with 450kW and +1000nm and rear axle steering
 
 Audi will use different motor setups on the om the variants.
 
 ![Motors](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/motors.jpg "Motors for Audi Q6 e-tron")
 
-Audi uses permanently excited synchronous electric motors (PSM) with hairpin winding on the PPE platform.
+Audi uses permanently excited synchronous electric motors (PSM) with hairpin winding on the PPE platform for rear motor and asyncronous motors on the front. 
 
 Permanent magnets are fitted on the AC motor's rotor, generating a permanent magnetic field. As a result, compared to asynchronous motors (ASM), PSMs offer higher power and torque densities, greater efficiency, and better reproducibility of the power output.
 
-For the top variants SQ6 e-tron and RSQ6 e-tron, the engineers are creating a dynamic, sporty driving experience with a fully variable electronically controlled rear differential and a so-called 'Performance rear axle.' Added to this is a powerful electric motor positioned behind the rear axle. This setup enables a rear-dominant all-wheel application across a wide spectrum. Moreover, in combination with the dynamic torque distribution in the all-wheel drive, it also supports high agility when accelerating out of corners.
+For the top variants RSQ6 e-tron, the engineers are creating a dynamic, sporty driving experience with a fully variable electronically controlled rear differential and a so-called 'Performance rear axle.' Added to this is a powerful electric motor positioned behind the rear axle. This setup enables a rear-dominant all-wheel application across a wide spectrum. Moreover, in combination with the dynamic torque distribution in the all-wheel drive, it also supports high agility when accelerating out of corners.
 
 Audi will use only the latest-generation PSM motors that have several improvements. Audi has optimized the water jacket cooling to maximize the power density and used double V lamination on magnets.
 
@@ -181,6 +182,17 @@ Audi Q6 e-tron will also be available with rear-axle steering. This reduces the 
 
 ## Technology
 
+### Lights 
+
+Audi Q6 e-tron will have new light technology. Read all about it in our [separate light section](technology/lights)
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_4_st.jpg" alt="Audi Q6 e-tron head lights" title="Audi Q6 e-tron head lights">
+    </a>
+    <figcaption><h4>Audi Q6 e-tron head lights</h4></figcaption>
+</figure>
+
 ### UI & MMI
 
 Audi has confirmed that the Audi Q6 e-tron will be the first car with the new generation MMI.
@@ -195,7 +207,7 @@ For this new MMI system, Audi will use [Android Automotive](https://source.andro
 
 ## Transport capacity
 
-Electrichasgoneaudi.net expects the Audi Q6 e-tron to have a luggage compartment of about 550-600 liters. It will also be available with a towbar, and the maximum capacity is 2000-2500kg. It will also be able to use a roof box with a maximum load on the roof of 75kg.
+Electrichasgoneaudi.net expects the Audi Q6 e-tron to have a luggage compartment of about 550-600 liters. It will also be available with a towbar, and the maximum capacity is 2000-2500kg. It will also be able to use a roof box with a maximum load on the roof of 75kg. I will have a Frunk with about 50 liter capacity.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype6.jpg">
@@ -213,16 +225,61 @@ Audi Q6 will be available with several options.
 - Different wheels
 - Different seats, including seats with massage and ventilation
 - Different driver assistant systems
+- Different lights
 
 Audi plans to reduce the number of combinations of options. So instead of most options being offered separately, like on the Audi Q8 e-tron, they will introduce options packages.
 
 ![options](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/options.jpg "Options")
 
-## Prototype testing
+## Prototype testing and other media
+
+Below you find videos and images of the prototype with information about the technology
+
+
+### Video by Auditography
+
+{{< youtube a66ub_pUwtY >}}
+
+### Audi Q6 e-tron Prototype Drive – Trailer
+
+{{< youtube _lN6cB5bk_g >}}
+
+### Audi Q6 e-tron Experience – Prototype Drive
+
+{{< youtube qvQCDJ3sgJk >}}
+
+
+### Audi Q6 e-tron Experience – Interview with Dr. Michael Kruppa
+
+{{< youtube Cb4u-sS1P_k >}}
+
+### Audi Q6 e-tron Insights – #01 Light Technology
+
+{{< youtube BaKm8bMrdto >}}
+
+
+### Audi Q6 e-tron prototype – Digital light signature and Matrix LED headlights
+
+{{< youtube dYRrjRDXvBk >}}
+
+
+### Oled Rear lights
+
+{{< youtube OMx8x8J6Pro >}}
+
+
 
 See below for video and images of the Q6 e-tron test-driving in winter.
 
 {{< youtube pbKUA1PNAAw >}}
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_1_st.jpg" alt="Audi Q6 prototype wintertesting" title="Audi Q6 prototype wintertesting">
+    </a>
+    <figcaption><h4>Audi Q6 prototype wintertesting</h4></figcaption>
+</figure>
+
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_3.jpg">
