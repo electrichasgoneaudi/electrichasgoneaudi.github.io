@@ -36,6 +36,61 @@ There will be wheel options from 19 to 22 inches.
 
 The Audi Q6 e-tron will be available with different seat options. From standard seats, sports seats, and comfort seats. Some with the possibility of ventilation and massage. It will also be available with an animal-free interior and a full leather interior with different colors. An s-line interior will also be an option.
 
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_2.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_2_st.jpg" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
+    </a>
+    <figcaption><h4>Audi Q6 e-tron interior</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_3.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_3_st.jpg" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
+    </a>
+    <figcaption><h4>Audi Q6 e-tron interior</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_4_st.jpg" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
+    </a>
+    <figcaption><h4>Audi Q6 e-tron interior</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_5.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_5_st.jpg" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
+    </a>
+    <figcaption><h4>Audi Q6 e-tron interior</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_6.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_6_st.jpg" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
+    </a>
+    <figcaption><h4>Audi Q6 e-tron interior</h4></figcaption>
+</figure>
+
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_7.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_7_st.jpg" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
+    </a>
+    <figcaption><h4>Audi Q6 e-tron interior</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_8.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_8_st.jpg" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
+    </a>
+    <figcaption><h4>Audi Q6 e-tron interior</h4></figcaption>
+</figure>
+
 ## Drivetrain
 
 ### Battery & Range
@@ -130,6 +185,13 @@ Audi Q6 e-tron will also be available with rear-axle steering. This reduces the 
 
 Audi has confirmed that the Audi Q6 e-tron will be the first car with the new generation MMI.
 For this new MMI system, Audi will use [Android Automotive](https://source.android.com/devices/automotive/start/what_automotive).
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_1.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_1_st.jpg" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
+    </a>
+    <figcaption><h4>Audi Q6 e-tron with 14" infotainment, 12" driver display and 11" passenger screen</h4></figcaption>
+</figure>
 
 ## Transport capacity
 
