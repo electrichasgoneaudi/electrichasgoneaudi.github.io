@@ -67,12 +67,12 @@ will be delivered with two different configurations when they are launched.
     <figcaption><h4>PPE-battery with 12 modules</h4></figcaption>
 </figure>
 
-The cells will be [prismatic](../../battery/cell/#prismatic-housing) and each module is expected to have 34 cells on 67AH.
+The cells will be [prismatic](../../battery/cell/#prismatic-housing) and each module is expected to have 15 cells on 152AH.
 
 This gives the following [battery architecture](../../battery/batterysystem/#architecture).
 
-- 204s2p and 737Volt nominal for the 12 module version
-- 170s2p and 614Volt nominal for the 10 module version
+- 180s1p and 662 Volt nominal for the 12 module version
+- 150s1p and 551 volt nominal for the 10 module version
 
 More battery sizes will come at a later time.
 For the [Audi grandshpere concept](../../../articles/audigrandsphereconcept/) Audi uses a PPE platform with 120kWh battery.

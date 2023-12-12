@@ -17,23 +17,12 @@ This would mean 94kWh/78kWh available battery on the different versions
 
 ## Cells
 
-Audi has confirmed that the cells will be prismatic cells but it is not confirmed the excact number of cells and type of cells.
-
-To get to 800Volt you need around 200 cells in serial. Audi e-tron GT has 198 and nominal voltage on 723 volt.
+Porsche has confirmed the setup of the PPE battery. The cell will be a 152ah cell with 15 cells in each module.
 
 With 12 modules that would mean that the 12 modules version would have a setup like
 
-- 180s2p - 360 cells - 660Volt nominal - 76AH cells (100.3kWh net)
-- 192s2p - 384 cells - 704Volt nominal - 72AH cells (101.3kWh net)
-- 204s2p - 408 cells - 748Volt nominal - 67AH cells (100.2kWh net)
-
-Similar 10 modules version would then have
-
-- 150s2p - 300 cells - 542Volt nominal - 76AH cells 
-- 160s2p - 320 cells - 578Volt nominal - 72AH cells
-- 170s2p - 340 cells - 614Volt nominal - 67AH cells
-
-We belive Audi will use the same new cells that are in Audi Q8 55 e-tron with 72AH cells. 
+- 180s1p and 662 Volt nominal for the 12 module version
+- 150s1p and 551 volt nominal for the 10 module version
 
 
 {{% children description="true" depth="1" %}}
