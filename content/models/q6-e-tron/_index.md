@@ -95,11 +95,11 @@ The Audi Q6 e-tron will be available with different seat options. From standard 
 
 ### Battery & Range
 
-The battery in the Q6 e-tron consists of twelve or ten modules with prismatic cells. The nickel, cobalt, and manganese ratio is 8:1:1, and the battery achieves a higher energy density. 
+The battery in the Q6 e-tron consists of twelve or ten modules with prismatic cells. The nickel, cobalt, and manganese ratio is 8:1:1, and the battery achieves a higher energy density.
 
 We expect the battery with the launch to have the following specifications
 
-- Twelve modules/180 cells with 100 kWh gross (94 kWh net)
+- Twelve modules/180 cells with 100 kWh gross (96.8 kWh net)
 - Ten modules/150 cells with 84.4kWh gross (80.8 kWh net).
 
 These batteries will give the Audi Q6 e-tron a WLTP range of approximately 485-600km, depending on the trim level for the largest battery. (16.2 - 20 kWh/100km)
