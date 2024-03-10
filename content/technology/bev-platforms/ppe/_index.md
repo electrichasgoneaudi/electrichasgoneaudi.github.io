@@ -7,7 +7,7 @@ weight: 4
 <!-- markdownlint-disable MD033 -->
 
 The Premium Platform Electric (PPE) has been designed and developed in cooperation with Porsche from the
-start. Porsche will use it for their upcoming Porsche Macan, while Audi will use it for [Audi Q6 e-tron](../../../models/q6-e-tron/)
+start. Porsche use it for their upcoming Porsche Macan, while Audi use it for [Audi Q6 e-tron](../../../models/q6-e-tron/)
 and [A6 e-tron](../../../models/a6-e-tron/), and others.
 
 With its special architecture, it provides the conditions needed for ultra-modern
@@ -56,8 +56,8 @@ high charging capacity of up to 270 kW.
 All-electric models based on PPE will be delivered with different battery sizes over time. Audi A6 e-tron and Audi Q6 e-tron
 will be delivered with two different configurations when they are launched.
 
-- 12 modules with 100 kWh gross (94kWh net)
-- 10 modules with 83.3kWh gross (78kWh net).
+- 12 modules with 100 kWh gross (95kWh net)
+- 10 modules with 83.3kWh gross (79kWh net).
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/battery.png">
@@ -121,7 +121,8 @@ the suspension area.
 ## Models expected to be on the PPE platform
 
 - [Audi Q6 e-tron](../../../models/q6-e-tron) Confirmed
-- [Audi SQ6 e-tron](../../../models/q6-e-tron) UnConfirmed
+- [Audi SQ6 e-tron](../../../models/q6-e-tron) Confirmed
+- [Audi RSQ6 e-tron](../../../models/q6-e-tron) UnConfirmed
 - [Audi A6 e-tron](../../../models/a6-e-tron) Confirmed
 - [Audi S6 e-tron](../../../models/a6-e-tron) UnConfirmed
 - [Audi RS6 e-tron](../../../models/a6-e-tron) UnConfirmed
