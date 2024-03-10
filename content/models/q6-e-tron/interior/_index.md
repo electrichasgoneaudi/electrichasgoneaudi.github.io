@@ -1,6 +1,6 @@
 ---
 title: Audi Q6 e-tron interior
-linktitle: Interiorinterior
+linktitle: Interior
 description: Audi Q6 e-tron offers a modern interior with serveral premium features.
 weight: 7
 ---
