@@ -104,4 +104,4 @@ Hengerfestet har opsjons-id **1M6**. Et valgfritt tilhengerfeste har opsjons-ID 
 Bilen over med henger ga et forbruk på 32kWh/100km. 
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

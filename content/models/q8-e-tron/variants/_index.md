@@ -103,4 +103,4 @@ This is the Sportback version of Audi SQ8 WLTP-range between 469-513km depending
 
 [See detailed specification](../specifications/#audi-sq8-sportback-e-tron)
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

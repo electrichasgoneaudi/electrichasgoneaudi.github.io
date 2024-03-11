@@ -80,4 +80,4 @@ The virtual mirrors are not retractable.
     <figcaption><h4>Virtual Mirrors</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

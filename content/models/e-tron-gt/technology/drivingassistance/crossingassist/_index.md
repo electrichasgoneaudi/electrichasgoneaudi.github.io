@@ -23,4 +23,4 @@ If the driver wants to ease into an intersection or exit with poor visibility, h
 
 This is part of the cith package with option id **PCM** on Audi e-tron GT
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

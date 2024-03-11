@@ -19,4 +19,4 @@ Overvåking settes i gang så snart føreren setter blinklyset. Når du kjører 
 
 Dette alternativet er en del av assistentsystem pakke tur med alternativ-ID **PCC**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

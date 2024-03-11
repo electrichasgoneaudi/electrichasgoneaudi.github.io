@@ -47,4 +47,4 @@ Viktige førerassistentsystemer kommer som standard, de valgfrie systemene er de
 
 Se detaljert informasjon om systemene nedenfor
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

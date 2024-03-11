@@ -20,4 +20,4 @@ First, a jolt is produced to warn the driver of the hazard. If the driver then a
 
 This is part of the tour package with option id **PCC** on Audi e-tron GT
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

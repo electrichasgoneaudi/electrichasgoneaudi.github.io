@@ -19,4 +19,4 @@ En tilleggsfunksjon for noen modeller er en virtuell 3D-visning. Føreren kan br
 
 360-kameraet er original en del av assistentsystempakken pro, men er for øyeblikket ikke tilgjengelig.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

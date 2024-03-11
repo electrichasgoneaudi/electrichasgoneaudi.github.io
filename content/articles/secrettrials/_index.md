@@ -65,4 +65,4 @@ Darkness has long fallen once more over the testing grounds when Kis takes his j
 
 {{< youtube uDzsA8CKdFY >}}
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

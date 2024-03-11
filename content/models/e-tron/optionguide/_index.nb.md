@@ -49,4 +49,4 @@ Med flerfarget ambientbelysning kommer utseendet og følelsen inne i bilen til e
 
 Se også den  [komplette utstyrlisten](list) for alle muligheter slik at du ikke går glipp av noe.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

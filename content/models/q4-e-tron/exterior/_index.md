@@ -23,4 +23,4 @@ Then you need to decide color and wheels and many other options
 
 See below for the exterior options.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

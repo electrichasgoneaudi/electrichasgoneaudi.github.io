@@ -19,4 +19,4 @@ These include pretensioning the front seat belts by electric power and closing t
 This is part of the city assistance package with option id **PCM**
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

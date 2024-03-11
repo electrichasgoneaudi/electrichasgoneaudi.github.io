@@ -110,4 +110,4 @@ Du finner detaljer om termisk styring i vår modellseksjon
 - [Termisk styring Audi Q4 e-tron](../../models/q4-e-tron/drivetrain/battery/#thermal-management)
 - [Termisk styring Audi e-tron](../../models/e-tron/drivetrain/battery/#thermal-management)
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

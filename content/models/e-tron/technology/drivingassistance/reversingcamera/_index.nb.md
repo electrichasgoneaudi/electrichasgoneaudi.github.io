@@ -17,4 +17,4 @@ Den viser beregnet kjørespor basert på styrevinkelen samt hjelpelinjer og lede
 
 Ryggekamera er standardutstyr. Se også [360 kamera](../360camera/)
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

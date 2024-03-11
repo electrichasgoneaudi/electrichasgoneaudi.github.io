@@ -9,4 +9,4 @@ weight: 1
 
 This is part of the city assistance package with option id **PCM**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

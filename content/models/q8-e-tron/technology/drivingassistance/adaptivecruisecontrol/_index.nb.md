@@ -31,4 +31,4 @@ Lim-knappen på toppen aktiverer hastighetsbegrenseren.
 
 Dette alternativet er en del av tursjåførassistansepakken med alternativ-ID **PCC**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

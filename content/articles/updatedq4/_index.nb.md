@@ -32,4 +32,4 @@ Den gratis [myAudi-appen](../../technology/audiconnect/myaudi/) tilbyr også nye
 
 [Black Optics Plus Package](../../models/q4-e-tron/exterior/optics/#black-optics-plus) tilbyr en unik måte å fremheve og tilpasse det dynamiske utseendet til Audi Q4 e ytterligere -tron. Svarte aksenter i Singleframe-området samt de sorte Audi-ringene og grillrammen fremhever fronten. De fremre og bakre støtfangerne er også i svart, og det samme er rammer på sidevinduene. I tillegg kommer alle Q4 e-tron-modeller nå i sort (tidligere kun på edition one).
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

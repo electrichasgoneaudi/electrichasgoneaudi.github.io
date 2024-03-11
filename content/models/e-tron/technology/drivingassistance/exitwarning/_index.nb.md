@@ -21,4 +21,4 @@ Dette systemet er basert på radarsensorene til Audi side assist, som overvåker
 Dette er en del av byhjelpspakken med alternativ-ID **PCM**
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

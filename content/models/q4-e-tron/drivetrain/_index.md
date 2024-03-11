@@ -20,4 +20,4 @@ The below video show some highlights about the MEB platform.
 
 Below you find more details about the most important components of that drivetrain.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

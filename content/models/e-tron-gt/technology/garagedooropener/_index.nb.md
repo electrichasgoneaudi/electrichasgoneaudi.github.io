@@ -25,4 +25,4 @@ Garasjeportåpneren støtter opptil 8  porter og kan bli knyttet til en GPS loka
 
 Dette er tilvalg **VC2**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

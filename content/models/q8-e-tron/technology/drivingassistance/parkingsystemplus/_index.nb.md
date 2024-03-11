@@ -31,4 +31,4 @@ Advarslene gis når avstanden til en gjenstand i kjørebanen er mindre enn 90 cm
     </a>
     <figcaption><h4>Front sensors</h4></figcaption>
 </figure>
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -69,4 +69,4 @@ Alle systemer bruker den sentrale førerassistansekontrolleren (zFAS), som bruke
 
 See detailed information about the systems below.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

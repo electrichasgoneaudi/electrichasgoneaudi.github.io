@@ -15,4 +15,4 @@ I tilegg kan du velge forskjellig typer interiørlys, ratt og interiørdesign.
     <figcaption><h4>Audi Q4 e-tron interiør - In</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

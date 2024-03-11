@@ -8,4 +8,4 @@ Systemet kan oppdage trusselen om sidekollisjoner i hastigheter på opptil ca. 6
 
 Dette er en del av assistentpakken by med tilvalgs-ID **PCM**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -222,4 +222,4 @@ Dette er tilvalg **6H2**. Kun tilgjengelig med sort optikkpakke, sort optikkpakk
     <figcaption><h4>Sort optikkpakke plus med sort glanset singleframe grill</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

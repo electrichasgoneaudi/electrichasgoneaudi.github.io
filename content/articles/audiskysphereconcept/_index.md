@@ -121,4 +121,4 @@ These concept cars feature a new design that ultimately reimagines the interior,
 
 Customized infotainment options are also available, such as linking the on-board streaming service to music and video providers used at home. And in a further step, Audi also aims to provide personalized and exclusive options for users of its luxury cars in the future – such as concerts, cultural events, or even sporting events that are only available upon special invitation. In this way, a vehicle like the Audi skysphere concept will become a platform for experiences that expand horizons beyond the mere ride in just a few years.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

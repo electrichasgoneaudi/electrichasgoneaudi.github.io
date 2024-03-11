@@ -79,4 +79,4 @@ De går på 230/240 eller 400 volt avhengig av nettverket i hjemmet ditt.
     <figcaption><h4>Installer et kablet nivå 2 ladesystem</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

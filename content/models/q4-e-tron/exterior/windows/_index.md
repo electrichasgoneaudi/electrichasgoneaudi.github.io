@@ -41,4 +41,4 @@ As an option (optionID **VW6**) you can order acousting window for the side wind
 
 This reduce noise in the cabin.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -26,4 +26,4 @@ Currently the e-tron sportback dimensions are shown. Picture will be updated whe
     <figcaption><h4>Dimensions e-tron Sportback</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

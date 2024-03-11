@@ -89,4 +89,4 @@ I dette intervjuet forteller Carsten Jablonowski, Chassis Development AUDI AG, o
 
 {{< youtube eT0tQg1m6rs >}}
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -35,4 +35,4 @@ Kameraet aktiveres så snart føreren legger i revers eller trykker på den resp
 
 Ryggekamera er standard på Audi e-tron GT. Ofte erstattes det med [360-kamera](../360camera).
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

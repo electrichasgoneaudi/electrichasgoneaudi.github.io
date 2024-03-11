@@ -15,4 +15,4 @@ weight: 6
 
 Below you find details about the most important components of that drivetrain.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

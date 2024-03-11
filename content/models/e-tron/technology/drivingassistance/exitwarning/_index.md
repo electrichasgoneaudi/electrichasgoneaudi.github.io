@@ -21,4 +21,4 @@ This system is based on the radar sensors of Audi side assist, which monitor the
 This is part of the city assistance package with option id **PCM**
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

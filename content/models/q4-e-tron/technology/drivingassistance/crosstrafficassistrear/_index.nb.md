@@ -18,4 +18,4 @@ Den bruker de bakre radarsensorene til dette. De dekker sonen bak, inkludert kjÃ
 
 Dette er en del av sikkerhetspakken pluss med tilvalgsnummer **PYU**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

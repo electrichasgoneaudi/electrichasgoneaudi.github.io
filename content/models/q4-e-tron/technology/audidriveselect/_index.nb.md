@@ -74,4 +74,4 @@ Servostyringen vil tilpasse seg. Lett styring passer for eksempel for lange ture
 Fjæringen justeres for å være strammere eller mer komfortorientert når det gjelder å kompensere for ujevne steder på veien.
 Dette krever **PY9** som inkluderer spjeldstyring.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

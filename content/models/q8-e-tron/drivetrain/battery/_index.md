@@ -140,4 +140,4 @@ details. Below is the charging curve for Audi Q8 50 e-tron (same as the Audi e-t
 
 As the table shows, the 95kWh battery is still comparable to the new battery and even beats the larger battery because of a flatter curve for this distance.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

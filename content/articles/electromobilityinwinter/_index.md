@@ -67,4 +67,4 @@ Smaller rim sizes, narrower tires, and the right air pressure can reduce the tir
     <figcaption><h4>Electric mobility in winter</h4></figcaption>
 </figur>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -32,4 +32,4 @@ Så du forstår at det ikke er mulig å vise alle mulige kombinasjoner på denne
 
 Se nedenfor for detaljer om de utvendige alternativene for eksteriør på Audi Q8 e-tron
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

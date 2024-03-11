@@ -80,4 +80,4 @@ With area for autopass.  Insulating glass reduces noise from outside.
 
 Option Id **4GY**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

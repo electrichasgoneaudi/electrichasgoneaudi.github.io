@@ -22,4 +22,4 @@ weight: 6
 | e-tron Charging Service | Yes | Yes | Yes |
 | Service topics | Yes | Yes | Yes |
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

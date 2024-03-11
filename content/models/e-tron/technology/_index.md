@@ -16,4 +16,4 @@ weight: 7
 
 Below you see details about the different technology areas on Audi e-tron.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

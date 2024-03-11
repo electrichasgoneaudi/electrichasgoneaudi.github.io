@@ -18,4 +18,4 @@ Systemet gir avlastning til sjåførene på denne måten – spesielt på lange 
 
 Cruise control er standard på Audi Q8 e-tron men ersattes ofte av [Adaptive Cruise Control](../adaptivecruisecontrol/)
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

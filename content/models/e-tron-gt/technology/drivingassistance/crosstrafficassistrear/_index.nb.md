@@ -23,4 +23,4 @@ Se video av hvordan det virker nedenfor.
 
 {{< youtube Hxc2IdMYrTU >}}
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

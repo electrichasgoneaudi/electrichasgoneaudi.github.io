@@ -10,4 +10,4 @@ weight: 1
 This option is part of the assistance system package pro with option id **PY7**
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

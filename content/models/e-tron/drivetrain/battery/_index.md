@@ -255,4 +255,4 @@ See video comparison below.
 
 In cold weather, the charging speed typical will get lower in the beginning until the temprature comes up. Audi e-tron does not pre-heat the battery before charging.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -9,4 +9,4 @@ During charging, an external electrical power source (the charging circuit) appl
 
 ![Battery charging](batteryconceptcharging.drawio.svg "Charging process")
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

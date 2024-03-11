@@ -21,4 +21,4 @@ See also Adaptive Cruise Control.
 
 Cruise control is part of the assistentpackage **PYK**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

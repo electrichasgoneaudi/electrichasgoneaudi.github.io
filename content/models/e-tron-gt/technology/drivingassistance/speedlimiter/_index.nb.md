@@ -9,4 +9,4 @@ Når den forhåndsinnstilte grensen er nådd, struper kjøretøyet hastigheten f
 
 Fartsbegrenseren er standardutstyr.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

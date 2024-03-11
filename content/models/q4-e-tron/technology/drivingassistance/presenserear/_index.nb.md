@@ -18,4 +18,4 @@ Disse inkluderer forstramming av setebeltene foran med elektrisk kraft og lukkin
 
 Dette er en del av sikkerhetspakken pluss med tilvalgs ID **PYU**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -34,4 +34,4 @@ In the video below the system is demonstrated on a Audi Q7
 
 Is part of the Assistant package Parking with parking assistant plus with alternative id **PCV**
 
-{{% children description = "true" depth = "1"%}}
+{{<children description="true" />}}

@@ -19,4 +19,4 @@ weight: 1
 
 Turn assist is an standard option on Q4 e-tron and part of option **4G3**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

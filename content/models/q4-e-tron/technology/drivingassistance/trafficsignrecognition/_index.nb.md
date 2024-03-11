@@ -17,4 +17,4 @@ Innenfor systemets begrensninger registrerer systemet start og slutt på motorve
 
 Dette tilvalget er en del av [Navigasjonspakkene](../../../optionguide/list/#infotainment) PYG/PYH.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

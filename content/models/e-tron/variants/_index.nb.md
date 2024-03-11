@@ -104,4 +104,4 @@ Dette er Sportback-versjonen av 60. WLTP-rekkevidde mellom 343-374 km avhengig a
 
 [Se detaljert spesifikasjon](/models/e-tron/specifications/#audi-e-tron-60s-sportback)
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

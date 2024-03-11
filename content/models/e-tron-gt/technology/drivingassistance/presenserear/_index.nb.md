@@ -19,4 +19,4 @@ Disse inkluderer forstramming av setebeltene foran med elektrisk kraft og lukkin
 Dette er en del av assistentpakken-by med tilvalgs-ID **PCM**
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

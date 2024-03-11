@@ -17,4 +17,4 @@ weight: 1
 
 Reversing camera is standard on Audi e-tron. See also [360 camera](../360camera/)
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

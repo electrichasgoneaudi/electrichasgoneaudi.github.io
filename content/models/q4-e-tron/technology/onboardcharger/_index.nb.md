@@ -45,4 +45,4 @@ I illustrasjonen under ser du plasseringen av ladeenhetene.
 | 230V 32A 1fase | Blå industri | 7,2KW | 10,7 timer |
 | 230V 16A 1fase | Blå industri | 3,6KW | 21.4 timer |
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

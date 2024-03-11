@@ -23,4 +23,4 @@ Da må du bestemme farge og hjul og mange andre alternativer
 
 Se de utvendige alternativene nedenfor.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

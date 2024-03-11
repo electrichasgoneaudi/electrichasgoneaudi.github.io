@@ -10,4 +10,4 @@ It detects light sources – the headlights of oncoming vehicles, tail lights of
 
 This is part of the HD-matrix lightning.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

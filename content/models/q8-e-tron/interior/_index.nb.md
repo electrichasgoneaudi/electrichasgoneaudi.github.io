@@ -16,4 +16,4 @@ weight: 5
 
 Nedenfor finner du de forskjellige valgene du har.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -111,4 +111,4 @@ You find details about thermal managment in our model section
 - [Thermal management Audi Q4 e-tron](../../models/q4-e-tron/drivetrain/battery/#thermal-management)
 - [Thermal management Audi e-tron](../../models/e-tron/drivetrain/battery/#thermal-management)
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

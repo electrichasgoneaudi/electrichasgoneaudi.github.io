@@ -33,4 +33,4 @@ So you understand it is not to show all possible combinations on this site.
 
 See below for details about the exterior options.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

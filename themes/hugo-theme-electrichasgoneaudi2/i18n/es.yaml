@@ -1,0 +1,113 @@
+# Menu
+- id: menu-technology
+  translation: tecnología
+
+- id: menu-guides
+  translation: guías
+
+- id: menu-search
+  translation: búsqueda de vehículos eléctricos
+
+- id: menu-brands
+  translation: Marcas y modelos
+
+- id: language
+  translation: idioma
+
+# Common Sections
+- id: common-section-search-title
+  translation: búsqueda de vehículos eléctricos
+
+- id: common-section-search-description
+  translation: EVKX.net tiene la base de datos de vehículos eléctricos más completa. Busque y filtre según muchas características y especificaciones.
+
+- id: common-section-search-link
+  translation: Ir a la búsqueda de vehículos eléctricos
+
+- id: common-section-mostsold-world-title
+  translation: Los vehículos eléctricos más vendidos a nivel mundial
+
+- id: common-section-mostsold-world-description
+  translation: A continuación encontrará los 10 modelos de vehículos eléctricos más vendidos del mundo. Haga clic en el nombre para obtener información completa.
+
+- id: common-section-technology-title
+  translation: Aprenda la tecnología de los vehículos eléctricos
+
+- id: common-section-technology-description
+  translation: EVKX.net ofrece la colección más extensa de artículos detallados sobre la tecnología de vehículos eléctricos.
+
+- id: common-section-technology-gotosection
+  translation: Ver todos los artículos en nuestra sección de tecnología.
+
+- id: common-section-technology-section-battery
+  translation: batería
+
+- id: common-section-technology-section-adas
+  translation: Sistemas avanzados de asistencia al conductor
+
+- id: common-section-technology-section-motors
+  translation: motores eléctricos
+
+- id: common-section-technology-section-suspension
+  translation: suspensión
+
+- id: common-section-technology-section-brakes
+  translation: frenos
+
+- id: common-section-technology-section-lights
+  translation: luces
+
+- id: common-section-technology-section-regen
+  translation: frenado regenerativo
+
+- id: common-section-technology-section-seats
+  translation: asientos
+
+- id: common-section-technology-section-sensors
+  translation: Sensores y cámaras
+
+- id: common-section-technology-section-ui
+  translation: interfaz de usuario
+
+- id: common-section-guides-title
+  translation: guías
+
+- id: common-section-guides-description
+  translation: A continuación encontrará diferentes guías para poseer un vehículo eléctrico y utilizar este sitio.
+
+- id: common-section-guides-gotosection
+  translation: Vea todas nuestras guías.
+
+- id: common-section-guides-section-search
+  translation: Cómo utilizar la búsqueda EV
+
+- id: common-section-guides-section-preservebattery
+  translation: Preservar la batería
+
+- id: common-section-guides-section-preservebattery-description
+  translation: En esta guía te explicamos qué puedes hacer para que la batería dure el mayor tiempo posible.
+
+- id: common-section-guides-section-understandingrange
+  translation: comprensión del rango
+
+- id: common-section-guides-section-understandingrange-description
+  translation: Para muchos, la autonomía del vehículo eléctrico es el aspecto más esencial. Conozca qué aspectos del vehículo eléctrico afectan la autonomía nominal y comprenda qué lo afecta en el mundo real.
+
+- id: common-section-guides-section-vehicletypes
+  translation: tipos de vehículos
+
+- id: common-section-guides-section-reviewers
+  translation: Revisores de vehículos eléctricos
+
+- id: common-section-guides-section-checkingbatteryhealth
+  translation: Cómo verificar el estado de la batería
+
+- id: common-section-models-title
+  translation: Marcas y modelos
+
+- id: common-section-models-description
+  translation: lea sobre las diferentes marcas, sus estrategias de vehículos eléctricos y la información más completa sobre todos los modelos a continuación.
+
+- id: common-section-latest-reviews
+  translation: Últimas reseñas en línea
+  

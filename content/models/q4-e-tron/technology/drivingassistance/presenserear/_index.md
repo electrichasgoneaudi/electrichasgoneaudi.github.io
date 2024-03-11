@@ -18,4 +18,4 @@ These include pretensioning the front seat belts by electric power and closing t
 
 This is part of the security package plus option id **PYU**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -61,4 +61,4 @@ Flerfarget ambientlys løfter det innvendige utseendet og følelsen.
 
 [Se omgivelseslys for å bli overbevist](../interior/lights/)
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

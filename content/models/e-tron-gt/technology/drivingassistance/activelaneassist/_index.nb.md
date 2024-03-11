@@ -39,4 +39,4 @@ Active Lane Assist kan deaktiveres på knappen på enden av retningshåndtaket. 
 
 Aktiv kjørefeltassistent er standardutstyr på Audi e-tron GT & Audi RS e-tron GT. (alternativ-ID **6I3**)
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

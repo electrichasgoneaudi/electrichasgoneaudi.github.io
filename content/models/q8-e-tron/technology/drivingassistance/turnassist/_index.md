@@ -18,4 +18,4 @@ Monitoring is initiated as soon as the driver sets the turn signal. When driving
 
 This option is part of the tour driver assistance package with option id **PCC**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

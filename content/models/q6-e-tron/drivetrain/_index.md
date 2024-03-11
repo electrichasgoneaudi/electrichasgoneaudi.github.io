@@ -11,4 +11,4 @@ Currently we dont know much about Q6 e-tron (confirmed) and SQ6 e-tron (unconfir
 
 Below you find details about the most important components of that drivetrain.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

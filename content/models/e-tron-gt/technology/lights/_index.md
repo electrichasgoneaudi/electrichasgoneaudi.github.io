@@ -53,4 +53,4 @@ The top-of-the-line headlights offer another characteristic feature: coming home
 This animation shows the lighting technology including Matrix LED headlights with laser as additional high beam in the Audi e-tron GT.
 {{< youtube NYX8-n0dAmo >}}
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

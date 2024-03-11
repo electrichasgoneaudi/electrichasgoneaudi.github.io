@@ -16,4 +16,4 @@ weight: 6
 
 Nedenfor finner du detaljer om de viktigste komponentene i drivlinjen.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

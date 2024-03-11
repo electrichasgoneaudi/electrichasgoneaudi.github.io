@@ -56,4 +56,4 @@ Uavhengig av kjøremodus kan føreren bruke vippebryterne på rattet til å just
 
 Under bremsing utfører elmotorene retardasjoner alene opp til rundt 0,3 g, det vil si det store flertallet av alle bremsinger i hverdagskjøring. De hydrauliske hjulbremsene aktiveres kun når føreren bremser svært kraftig. Overgangen er nesten umerkelig, og restitusjonen forblir aktiv nesten opp til en stillstand. Hvis begge elektriske motorer er involvert i bremsegjenvinning for å sikre håndteringsstabilitet, kan de gjenvinne opptil 265 kW effekt. I alle kjøresituasjoner – det være seg full akselerasjon, dynamisk håndtering, frikjøring eller restitusjon av bremser – forblir gran turismo urokkelig stabil fordi kontrollsystemene for bremser, fjæring, driv og kraftelektronikk er tett forbundet og jobber raskt sammen.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

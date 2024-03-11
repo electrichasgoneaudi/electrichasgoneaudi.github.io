@@ -26,4 +26,4 @@ Audi pre sense rear er aktiv i bakgrunnen over hele bilens kjørehastighetsområ
 
 Dette er en del av byhjelpspakken med alternativ-ID **PCM**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

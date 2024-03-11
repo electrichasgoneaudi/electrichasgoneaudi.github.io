@@ -95,4 +95,4 @@ The standar heater is 5 KW. As option **7E4** you can get a second heat element 
 
 This is standard in some cold markets.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

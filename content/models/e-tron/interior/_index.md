@@ -16,4 +16,4 @@ weight: 5
 
 Below you find the different options.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -74,4 +74,4 @@ The power steering will adapt. Light steering is suitable for long trips on high
 The suspension adjusts to be tighter or more comfort-oriented when it comes to compensating for uneven spots on the road. 
 This requires **PY9** that includes damper control.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

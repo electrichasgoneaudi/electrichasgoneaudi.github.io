@@ -19,4 +19,4 @@ Dette systemet er basert på radarsensorene til Audi side assist, som overvåker
 
 Dette er en del av sikkerhetspakken pluss med alternativ-ID **PYU**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

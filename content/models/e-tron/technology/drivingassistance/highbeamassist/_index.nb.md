@@ -9,4 +9,4 @@ Den oppdager lyskilder – for eksempel frontlyktene til møtende kjøretøy, ba
 
 Dette er en del av HD-matrix.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

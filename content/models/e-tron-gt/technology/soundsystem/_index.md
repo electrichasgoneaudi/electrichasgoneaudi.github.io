@@ -44,4 +44,4 @@ The illustration below show where the 16 different speakers are located.
 
 The option ID for this system is **9VS**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

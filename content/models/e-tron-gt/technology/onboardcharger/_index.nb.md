@@ -66,4 +66,4 @@ Bare AC-lading går gjennom laderen. For DC-lading er CCS-porten direkte koblet 
 | 230V 16A 1phase | Blue Industrial |  3.6KW | 23 hours |
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -136,4 +136,4 @@ En melding vil vises hvis MMI beregner en bedre rute for gjeldende ruteveilednin
 - Beregn rekkevidde mer korrekt når destinasjonen er satt basert på informasjon om ruten
 - Informer [Efficient Assistant](/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/) og [Adaptive Cruise Assist](/models/e-tron/technology/drivingassistance/adaptivecruiseassist/) om veien videre slik at den kan redusere hastighet basert på inforlek med en farget stripe – dette lar føreren forstå statusen til den adaptive cruiseassistenten eller den adaptive cruisekontrollen uten å bli distrahert. En rød markering og et varselsymbol vises hvis den adaptive cruiseassistenten ber sjåføren om å bekrefte at de tar hensyn.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

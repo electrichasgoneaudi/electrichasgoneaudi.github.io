@@ -49,4 +49,4 @@ Important driver assist systems come as standard, the optional systems are subdi
 
 See detailed information about the systems below.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

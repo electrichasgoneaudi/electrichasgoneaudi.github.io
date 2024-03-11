@@ -17,4 +17,4 @@ Dette er valg nr **3Y4**
     <figcaption><h4>Gardin</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

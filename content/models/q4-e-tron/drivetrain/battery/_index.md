@@ -128,4 +128,4 @@ It is currently not known if the existing cars will get an upgrade to the new ch
 
 Audi guarantees that it will still have at least 70 percent capacity after eight years of operation or after 160,000 kilometers.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

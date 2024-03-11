@@ -35,4 +35,4 @@ En tilleggsfunksjon for noen modeller er en virtuell 3D-visning. Føreren kan br
 
 360-kamera(Omgivelsesvisning) har alternativ-ID **PCZ** (omgivelsesvisning).
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

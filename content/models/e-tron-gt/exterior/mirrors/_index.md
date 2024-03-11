@@ -54,4 +54,4 @@ There are some optional mirros
     <figcaption><h4>Carbon mirro Option ID 6FQ</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

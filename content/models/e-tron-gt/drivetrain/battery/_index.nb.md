@@ -132,4 +132,4 @@ Ladeklaffene til gran turismo er plassert bak forhjulene. Begge sider har koblin
 
 På en likestrømsterminal med en spenning på 800 V, for eksempel i det europeiske motorveinettet fra Ionity, oppnår Audi e-tron GT en toppladekapasitet på opptil 270 kW. Dette gjør at den kan lade opp energi i opptil 100 kilometer (62,1 mi) på litt over fem minutter, og lading fra fem til 80 prosent SoC (ladetilstand) tar mindre enn 22,5 minutter under ideelle forhold. Sjåføren kan begrense lademålet i MMI-operativsystemet, for eksempel hvis hastigheten virker for høy.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -143,4 +143,4 @@ Maps are automatically updated through [Audi Connect](/technology/audiconnect/).
 The GPS antenna used by the navigation system is located on the roof of e-tron GT
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

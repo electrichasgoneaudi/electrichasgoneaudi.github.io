@@ -9,4 +9,4 @@ Sensorene måler parkeringsplasser langs veien mens de kjører forbi dem i moder
 
 Parkeringsassistent har tilvalgs-id **7X5** og er tilgjengelig som [funksjon på forespørsel](../../fod) via myAudiApp
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

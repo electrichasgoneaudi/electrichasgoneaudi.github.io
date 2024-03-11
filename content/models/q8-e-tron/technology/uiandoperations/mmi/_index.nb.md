@@ -43,4 +43,4 @@ Overflatene på de to skjermene har en type anti-fingeravtrykkbelegg. Dette gjø
 The [following document](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/mmi/MMI%20Menu%20overview.pdf) presents the full menu overview
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

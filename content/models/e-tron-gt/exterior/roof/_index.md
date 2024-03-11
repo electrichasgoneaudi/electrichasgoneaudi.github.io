@@ -93,4 +93,4 @@ Option **3FI**
     <figcaption><h4>Carbon roof</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

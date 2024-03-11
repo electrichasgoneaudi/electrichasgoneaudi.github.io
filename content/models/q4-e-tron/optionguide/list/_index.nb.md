@@ -278,4 +278,4 @@ Audi Q4 e-tron har en rekke infotainmentvalg. Klikk nedfor for detaljert informa
 | Elektromekanisk styring |  | 1N3 |
 | Progresiv styring | Variabel styreutveksling som avhenger av rattutslaget, og hastighetsavhengig servostyring. Standard på quattro modeller. Inkludert i pakke PY8/PY9.  | 1N7 |
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

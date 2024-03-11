@@ -5,4 +5,4 @@ description: Her finner du generell informasjon om teknologi brukt på helelektr
 weight: 2
 ---
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

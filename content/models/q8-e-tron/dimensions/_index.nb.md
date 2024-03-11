@@ -27,4 +27,4 @@ Foreløpig vises skisse for Audi e-tron sportback. Bildet oppdateres når Audi f
     <figcaption><h4>Dimensjoner e-tron Sportback</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

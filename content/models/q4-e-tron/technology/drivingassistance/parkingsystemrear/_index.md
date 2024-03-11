@@ -29,4 +29,4 @@ weight: 1
 Many replaces parking system rear with [parking system plus](../parkingsystemplus/)
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -81,4 +81,4 @@ God utvendig støyisolering pga isolasjonsglass
 
 Tilvalg **4GY**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

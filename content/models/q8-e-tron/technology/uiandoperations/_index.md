@@ -7,4 +7,4 @@ weight: 4
 
 With their new large Digital screen 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

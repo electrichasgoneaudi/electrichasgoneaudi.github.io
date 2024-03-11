@@ -20,4 +20,4 @@ If a collision is imminent, the system warns the driver with visual, acoustic an
 
 Audi pre sense front is standard equipment on Audi Q8 e-tron.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

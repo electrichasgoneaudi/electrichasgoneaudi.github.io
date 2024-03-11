@@ -38,4 +38,4 @@ The Active Lane Assist can be disabled on the button at the end of the direction
 
 Active lane assist is standard equipment. (optionId **6I3**)
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

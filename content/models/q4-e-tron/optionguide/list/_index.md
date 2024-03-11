@@ -277,4 +277,4 @@ Audi Q4 e-tron has serveral infotainment options. Click on each option below to 
 | Electromechanical power steering  |  | 1N3 |
 | Progressive steering | | 1N7 |
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

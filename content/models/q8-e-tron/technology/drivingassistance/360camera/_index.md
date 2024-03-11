@@ -36,4 +36,4 @@ An additional feature for some models is a virtual 3D view. The driver can use t
 
 360 camera has option id **PCZ** on Audi Q8 e-tron
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

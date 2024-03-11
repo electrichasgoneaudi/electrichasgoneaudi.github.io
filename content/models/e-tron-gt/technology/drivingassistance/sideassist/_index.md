@@ -18,4 +18,4 @@ weight: 1
 
 This is part of the city assistance package with option id **PCM** and side assist pacakge with option id **PCH**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

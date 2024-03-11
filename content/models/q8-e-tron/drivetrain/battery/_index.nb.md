@@ -136,4 +136,4 @@ detaljer. Nedenfor er ladekurven for Audi Q8 50 e-tron (samme som Audi e-tron 55
 
 Som tabellen viser, er 95 kWh-batteriet fortsatt sammenlignbart med det nye batteriet og slår til og med det større batteriet på grunn av en flatere kurve for denne avstanden.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -38,4 +38,4 @@ Videon under viser hvordan den kan programmeres.
 
 {{< youtube bTaQN1YJ0hU >}}
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

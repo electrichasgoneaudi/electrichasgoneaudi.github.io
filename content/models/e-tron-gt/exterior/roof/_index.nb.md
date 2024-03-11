@@ -94,4 +94,4 @@ Tilvalg **3FI**
     <figcaption><h4>Karbontak</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

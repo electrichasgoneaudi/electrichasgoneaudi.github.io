@@ -72,4 +72,4 @@ På 2019 og 2020-modellene var SIM-kort og SD-kort standard.
     <figcaption><h4>SD-card og sim på 2019/2020 modell</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

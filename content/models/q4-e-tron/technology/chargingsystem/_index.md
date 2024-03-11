@@ -97,4 +97,4 @@ They run on 230/240 or 400 volt depending on network in your home.
     <figcaption><h4>Install a hard wired level 2 charging system</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

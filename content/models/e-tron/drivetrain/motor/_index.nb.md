@@ -178,4 +178,4 @@ ECP er hjernen blant kontrollenhetene: Den gir det avgjørende bidraget til styr
 
 {{< youtube buKN2-faawA >}}
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

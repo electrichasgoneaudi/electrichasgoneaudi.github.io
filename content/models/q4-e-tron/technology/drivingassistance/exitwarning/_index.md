@@ -21,4 +21,4 @@ This system is based on the radar sensors of Audi side assist, which monitor the
 This is part of the security package plus with option id **PYU**
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

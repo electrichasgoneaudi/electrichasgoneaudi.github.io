@@ -1,0 +1,114 @@
+# Header
+# Menu
+- id: menu-technology
+  translation: Teknologi
+
+- id: menu-guides
+  translation: Guider
+
+- id: menu-search
+  translation: Elbil søk
+
+- id: menu-brands
+  translation: Merker & Modeller
+
+- id: language
+  translation: Språk
+
+# Common Sections
+- id: common-section-search-title
+  translation: Elbil søk
+
+- id: common-section-search-description
+  translation: EVKX.net har den mest komplette elbil-databasen. Søk og filtrer på mange funksjoner og spesifikasjoner.
+
+- id: common-section-search-link
+  translation: Gå til elbilsøk
+
+- id: common-section-mostsold-world-title
+  translation: Mest solgte elbiler globalt
+
+- id: common-section-mostsold-world-description
+  translation: Nedenfor finner du de 10 mest solgte EV-modellene i verden. Klikk på navnet for full info.
+
+- id: common-section-technology-title
+  translation: Lær elbilteknologi
+
+- id: common-section-technology-description
+  translation: EVKX tilbyr den mest omfattende samlingen av dybdeartikler om elbil-teknologi.
+
+- id: common-section-technology-gotosection
+  translation: Se alle artiklene i vår teknologiseksjon.
+
+- id: common-section-technology-section-battery
+  translation: Batteri
+
+- id: common-section-technology-section-adas
+  translation: Advanced Driver Assistance Systems
+
+- id: common-section-technology-section-motors
+  translation: Elektriske motorer
+
+- id: common-section-technology-section-suspension
+  translation: Hjuloppheng
+
+- id: common-section-technology-section-brakes
+  translation: Bremser
+
+- id: common-section-technology-section-lights
+  translation: Lys
+
+- id: common-section-technology-section-regen
+  translation: Regenerativ bremsing
+
+- id: common-section-technology-section-seats
+  translation: Seter
+
+- id: common-section-technology-section-sensors
+  translation: Sensorer og kameraer
+
+- id: common-section-technology-section-ui
+  translation: Brukergrensesnitt
+
+- id: common-section-guides-title
+  translation: Guider
+
+- id: common-section-guides-description
+  translation: Nedenfor finner du forskjellige guider for å eie en elbil og for bruk av denne siden.
+
+- id: common-section-guides-gotosection
+  translation: Se alle våre guider.
+
+- id: common-section-guides-section-search
+  translation: Hvordan bruke elbilsøket
+
+- id: common-section-guides-section-preservebattery
+  translation: Bevaring av batteri
+
+- id: common-section-guides-section-preservebattery-description
+  translation: I denne guiden forklarer vi hva du kan gjøre for å få batteriet til å vare lengst mulig.
+
+- id: common-section-guides-section-understandingrange
+  translation: Forstå rekkevidde
+
+- id: common-section-guides-section-understandingrange-description
+  translation: For mange er rekkevidden til elbilen det viktigste aspektet. Lær hvilke aspekter ved elbilen som påvirker den nominelle rekkevidden og forstå hva som påvirker den i den virkelige verden.
+
+- id: common-section-guides-section-vehicletypes
+  translation: Kjøretøystyper
+
+- id: common-section-guides-section-reviewers
+  translation: Elbil-testere og influencere
+
+- id: common-section-guides-section-checkingbatteryhealth
+  translation: Hvordan sjekke batterihelsen
+
+- id: common-section-models-title
+  translation: Merker & Modeller
+
+- id: common-section-models-description
+  translation: Les om de forskjellige merkene, deres EV-strategier og den mest komplette informasjonen om alle modellene nedenfor.
+  
+- id: common-section-latest-reviews
+  translation: Nyeste tester og omtaler
+

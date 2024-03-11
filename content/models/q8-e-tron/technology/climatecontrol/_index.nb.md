@@ -97,4 +97,4 @@ Standard varmeelement er 5KW. Som tilvalg **7E4** kan man utstyre bilen med et e
 
 Dette er standard på biler solgt av Norsk forhandlere, men kan mangle på importerte biler.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

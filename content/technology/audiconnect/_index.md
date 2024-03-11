@@ -7,4 +7,4 @@ weight: 3
 
 The digital functions and capabilities are described in the below sections.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

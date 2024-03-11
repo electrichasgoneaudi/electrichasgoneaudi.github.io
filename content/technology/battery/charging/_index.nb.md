@@ -9,4 +9,4 @@ Under lading påfører en ekstern elektrisk strømkilde (ladekretsen) en overspe
 
 ![Battery charging](batteryconceptcharging.drawio.svg "Ladeprosess")
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

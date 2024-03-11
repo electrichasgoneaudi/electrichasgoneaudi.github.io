@@ -46,4 +46,4 @@ The Audi e-tron can charge using both alternating and direct
 current and is the first series-production vehicle with a charging capacity of up to 150 kW. It
 owes this to its highly efficient thermal management.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

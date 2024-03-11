@@ -89,4 +89,4 @@ Audi Q4 50 Sportback e-tron quattro is the model with the largest battery and qu
 
 [See detailed specification](/models/q4-e-tron/specifications/#audi-q4-sportback-50-e-tron-quattro)
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -27,4 +27,4 @@ MMI-displayet viser det visuelt. Et hvitt segment viser et detektert objekt uten
     <figcaption><h4>Plassering av bakre sensorer på Audi Q4 e-tron</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

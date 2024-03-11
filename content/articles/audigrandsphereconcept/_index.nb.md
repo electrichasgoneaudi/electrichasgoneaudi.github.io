@@ -155,4 +155,4 @@ Forhjulene er koblet sammen via en femleddet aksel, spesielt optimalisert for el
 
 {{< youtube z6PIrszFWSg >}}
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

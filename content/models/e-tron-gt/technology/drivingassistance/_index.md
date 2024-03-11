@@ -52,4 +52,4 @@ All systems use the central driver assistance controller (zFAS), which uses the 
 
 See detailed information about the systems below.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

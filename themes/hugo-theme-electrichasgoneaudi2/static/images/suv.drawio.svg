@@ -1,0 +1,36 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="563px" height="245px" viewBox="-0.5 -0.5 563 245" content="&lt;mxfile&gt;&lt;diagram id=&quot;MSNbthUEIxrM_3RmRiEU&quot; name=&quot;Page-1&quot;&gt;1VdNc5swEP01vgMCbB8TN20vnemMp+1ZQTJoKhAj5K/8+i5GGCEgMokzbU9mn56k1dvVerVAm/z0ReIy+yYI5YvAI6cF+rQIAoRWMfzUyLlBfC9GDZJKRjTWAVv2QluiRveM0KpHVEJwxco+mIiioInqYVhKcezTdoL3dy1xSgfANsF8iP5iRGUNugqWHf6VsjRrd/bjdTOS45asT1JlmIijAaGnBdpIIVTzlZ82lNfqtbo08z5PjF4dk7RQN03Qjh0w3+vDacfUuT0tzABhwXg8ZkzRbYmTeuQIwQUsUzkHy4dPXJWN2jt2orDBo16bSkVPkw7612NDwlCRUyXPQNETVloonSoo1Pax0933NJaZmrcg1rFOr0t3csCHVmRcneAWdQryUKcUWIUoaF+RHeN8I7iQFy7aYbLECeCVkuI3NUaewzjyQhjJxQE/X9b2wJK0Yi+mLRRWhg03i5o2Jcw0df4bSOM+JYP8dsbDEDwa0bvFJOVYsUN/+bEY6B2+CwYbX8O97Ic7tKNYib1MqJ5k5vXMdRSWKVWDdSCS+GzQyppQTbu7Hs/OKa/82OIjB9/O/tjBX48fe4ofBjP50Tz/IzSTH83zJ/at9Vcz+ZGD7/X5gSO+kZV2geO8dnVz8m1/1q/z7fRxyGlH159H7zsDH81t6irttZrcVHzb3Hlz8f3Xa51dpK7VZG6xcy50p2qHgnnpN+A7rs/gOrj4r/vz/gwM3Bkoxb4gdbNzSTlHg2S2AzpfF+9vkVA0LpuzR4qsNHlLi4TQf6FROJFapkbrj5IoHEi0/fFzoBIcTvWl6HeJWowRfTBnaQFmAmJQwB9rqRg8Vx70QM4I4VMNfBedukHciULpB1e4uo/29rUO0VD7eER7dA/tVzf8ifzN900YWv+iH/nAAbN7WjYFsXuho6c/&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <ellipse cx="80" cy="160" rx="50" ry="50" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <path d="M 20 170 L 36.84 119.49 Q 40 110 49.9 108.59 L 100.1 101.41 Q 110 100 115.55 108.32 L 124.45 121.68 Q 130 130 132.43 139.7 L 137.57 160.3 Q 140 170 150 170 L 360 170 Q 370 170 373.94 160.81 L 396.06 109.19 Q 400 100 410 100 L 470 100 Q 480 100 482.75 109.62 L 497.25 160.38 Q 500 170 509.49 166.84 L 550.51 153.16 Q 560 150 560 140 L 560 130 Q 560 120 559.09 110.04 L 550.91 19.96 Q 550 10 540.51 6.84 L 529.49 3.16 Q 520 0 510 0 L 240 0 Q 230 0 222 6 L 158 54 Q 150 60 140.03 60.83 L 39.97 69.17 Q 30 70 20.51 73.16 L 9.49 76.84 Q 0 80 0 90 L 0 150 Q 0 160 8.94 164.47 L 20 170" fill="none" stroke="#b46504" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 220 60 L 260 60 Q 270 60 270 50 L 270 20 Q 270 10 260 10 L 240 10 Q 230 10 222.32 16.4 L 177.68 53.6 Q 170 60 180 60 L 220 60" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="300" y="10" width="100" height="50" rx="7.5" ry="7.5" fill="none" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="430" y="10" width="90" height="50" rx="7.5" ry="7.5" fill="none" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="230" y="200" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 215px; margin-left: 231px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 48px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                SUV
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="260" y="229" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="48px" text-anchor="middle">
+                    SUV
+                </text>
+            </switch>
+        </g>
+        <ellipse cx="440" cy="160" rx="50" ry="50" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>

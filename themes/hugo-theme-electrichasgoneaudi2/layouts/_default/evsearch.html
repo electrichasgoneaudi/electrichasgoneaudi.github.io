@@ -1,0 +1,44 @@
+
+<!DOCTYPE html>
+<html lang="no" style="background-color: #EFEFEF;">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        {{ partial "meta.html" . }}
+        {{if .IsHome}}
+        <title>Electric Vehicle Knowledge eXchange- Everything about all-electric cars</title>
+        {{else}}
+        <title>{{ .Title }} :: EVKX.net</title>
+        {{end}}
+        <link rel="shortcut icon" href="{{"images/favicon.png" | relURL}}" type="image/x-icon" />
+        <link href="{{"css/bootstrap.min.css" | relURL}}" rel="stylesheet">
+        <link href="{{"css/bootstrap-icons.css" | relURL}}" rel="stylesheet">
+        <link rel="preconnect" href='https://rsms.me/'>
+        <link rel="stylesheet" href='https://rsms.me/inter/inter.css'>
+        
+        {{ partial "custom-head2.html" . }}
+        <style>
+          :root #header + #content > #left > #rlblock_left {
+            display:none !important;
+          }
+        </style>
+      
+      <link rel="stylesheet" href="/public/assets/entrypoint.css">
+      </head>
+
+<body data-url="{{ .RelPermalink }}">
+    {{ partial "navbar.html" . }}
+    <aside>
+      {{ partial "menuaccordion-simple.html" . }}
+    </aside>
+    <main>
+    <div class="container" id="root"></div>
+    <script type="module" src="/public/assets/entrypoint.js"></script>
+  </main>
+  <footer class="container bg-dark">          
+    {{ partial "footercontent.html" . }}
+  </footer>
+<script src="/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+

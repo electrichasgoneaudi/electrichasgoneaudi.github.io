@@ -21,4 +21,4 @@ Bildet nedenfor viser hvordan Waze advarer brukere om et fotoboks.
 
 På 2019 modellen var bare kablet Android Auto og Apple Carplay støttet. Fra 2020 fikk man støtte for trådløs Apple Carplay og fra 2022 modellen fikk man støtte for trådløs Android Auto.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

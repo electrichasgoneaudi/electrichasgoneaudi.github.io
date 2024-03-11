@@ -82,4 +82,4 @@ Audi connect key lets you set up your Android phone as the only key you need.
 
 {{< youtube CurWSFtxRl4 >}}
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

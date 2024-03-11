@@ -15,4 +15,4 @@ weight: 4
 
 See below for the exterior options.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

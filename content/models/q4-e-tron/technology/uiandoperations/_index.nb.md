@@ -17,4 +17,4 @@ Den består av fire nivåer: det digitale instrumentpanelet eller Audi virtual c
     <figcaption><h4>Audi Q4 brukergrensesnitt og operasjoner</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -55,4 +55,4 @@ Speil med minne leveres kun sammen med elektriske seter med minne. : **6XL**
     <figcaption><h4>Utvendige speilhus i karbon - tilvalg 6FQ</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

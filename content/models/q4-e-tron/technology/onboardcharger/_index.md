@@ -45,4 +45,4 @@ In the illustration below you see the location of the charge units.
 | 230V 32A 1phase | Blue Industrial |  7.2KW | 10.7 hours |
 | 230V 16A 1phase | Blue Industrial |  3.6KW | 21.4 hours |
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -58,4 +58,4 @@ The drive management distributes the torques of the electric motors between the 
 
 The technology layout on J1-performance platform allows for numerous suspension and performance features, for example all-wheel steering or a sport differential, providing excellent traction and a high level of vehicle dynamics.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

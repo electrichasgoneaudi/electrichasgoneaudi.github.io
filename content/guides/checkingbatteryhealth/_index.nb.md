@@ -95,4 +95,4 @@ Hvis du ønsker å leser mer hvordan man beskytter batteriet mot degradering så
 
 Hvis du ønsker å lære enda mer om batteri kan du lese vår [artikkel om batteri](../../technology/battery/).
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

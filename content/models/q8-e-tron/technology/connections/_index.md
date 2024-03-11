@@ -73,4 +73,4 @@ On 2019 and 2020 models SIM card and SD-card was available-
     <figcaption><h4>SD-card and sim on 2019/2020</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

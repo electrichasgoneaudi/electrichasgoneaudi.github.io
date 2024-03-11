@@ -9,4 +9,4 @@ weight: 1
 
  The speed limiter is standard equipment.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

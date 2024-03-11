@@ -5,4 +5,4 @@ description: Her finner du forskjellige guider.
 weight: 3
 ---
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

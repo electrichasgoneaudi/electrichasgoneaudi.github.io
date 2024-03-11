@@ -19,4 +19,4 @@ The image is projected onto the windshield. The information appears to hover aro
 
 The head up display has optionId **KS1**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

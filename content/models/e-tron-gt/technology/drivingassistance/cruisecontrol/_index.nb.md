@@ -18,4 +18,4 @@ Systemet gir avlastning til sjåførene på denne måten – spesielt på lange 
 
 Se også [Adaptive Cruise Control](../adaptivecruisecontrol/)
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

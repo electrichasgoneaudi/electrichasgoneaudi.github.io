@@ -58,4 +58,4 @@ It comes with different setups with 2 different battery sizes and both 2 wheel d
 
 Later the [Audi Q5 e-tron](../../../models/q5-e-tron) had its world premiere. A China-only (currently) model based on MEB.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

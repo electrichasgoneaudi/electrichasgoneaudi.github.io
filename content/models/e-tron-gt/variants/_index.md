@@ -35,4 +35,4 @@ With a power output of 475kW (645HP) in boost mode, Audi RS e-tron GT goes 0-100
 
 [See full technical details](/models/e-tron-gt/specifications/#audi-rs-e-tron-gt)
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

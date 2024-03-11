@@ -39,4 +39,4 @@ The below video show how it can be programmed
 
 {{< youtube bTaQN1YJ0hU >}}
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

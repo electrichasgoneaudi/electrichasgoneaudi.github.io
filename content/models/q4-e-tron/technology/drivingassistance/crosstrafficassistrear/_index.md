@@ -21,4 +21,4 @@ It uses the rear radar sensors for this. They cover the zone at the rear, includ
 This is part of the security package plus with option id **PYU**
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

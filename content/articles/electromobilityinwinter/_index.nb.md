@@ -68,4 +68,4 @@ Mindre felgstørrelser, smalere dekk og riktig lufttrykk kan redusere dekkenes r
 </figur>
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -8,4 +8,4 @@ weight: 6
 
 TODO when we know :-)
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

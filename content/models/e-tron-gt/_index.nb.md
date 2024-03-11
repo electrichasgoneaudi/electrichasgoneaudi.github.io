@@ -21,4 +21,4 @@ Audi e-tron GT har et bredt spekter av alternativer og avanserte kjøreteknologi
 
 Nedenfor finner du alle detaljer om e-tron GT. 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

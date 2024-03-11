@@ -20,4 +20,4 @@ Videoen nedenfor viser noen høydepunkter om MEB-plattformen.
 
 Nedenfor finner du flere detaljer om de viktigste komponentene i drivlinjen.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

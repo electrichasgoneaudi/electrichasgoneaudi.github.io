@@ -86,4 +86,4 @@ The following video presents the Audi Charge hub in details.
 
  {{< youtube l6sCEOaj2-o >}}
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

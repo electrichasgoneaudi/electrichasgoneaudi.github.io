@@ -18,4 +18,4 @@ Den bruker to bakmonterte radarsensorer med en skannerekkevidde på omtrent 70 m
 
 Dette er en del av byassistansepakken med alternativ-ID **PCM** og sideassistansepakke med alternativ-ID **PCH**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

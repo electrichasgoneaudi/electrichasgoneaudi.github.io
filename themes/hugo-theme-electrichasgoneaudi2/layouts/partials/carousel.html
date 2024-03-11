@@ -1,0 +1,76 @@
+<div class="container mb-4">
+	<div id="latestNewsCarousel" class="carousel slide" data-bs-ride="carousel">
+		<div class="carousel-indicators">
+			<button type="button" data-bs-target="#latestNewsCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+			<button type="button" data-bs-target="#latestNewsCarousel" data-bs-slide-to="1" class="" aria-current="true" aria-label="Slide 2"></button>
+			<button type="button" data-bs-target="#latestNewsCarousel" data-bs-slide-to="2" class="" aria-current="true" aria-label="Slide 3"></button>
+			<button type="button" data-bs-target="#latestNewsCarousel" data-bs-slide-to="3" class="" aria-current="true" aria-label="Slide 4"></button>
+			<button type="button" data-bs-target="#latestNewsCarousel" data-bs-slide-to="4" class="" aria-current="true" aria-label="Slide 5"></button>
+			<button type="button" data-bs-target="#latestNewsCarousel" data-bs-slide-to="5" class="" aria-current="true" aria-label="Slide 6"></button>
+		</div>
+		<div class="carousel-inner">
+			<div class="carousel-item active image-box">
+				<a href="{{ with .Site.GetPage `/models/porsche/taycan/taycan_turbo_gt/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_gt/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Porsche Taycan Turbo GT</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-4507a85e"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
+				<a href="{{ with .Site.GetPage `/models/porsche/taycan/taycan_turbo_s_sport_turismo/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_s_sport_turismo/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Porsche Taycan Turbo S Sport Turismo</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-20589934"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
+				<a href="{{ with .Site.GetPage `/models/li_auto/mega/mega/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/li_auto/mega/mega/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Li Auto MEGA</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-9e00b193"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
+				<a href="{{ with .Site.GetPage `/models/renault/5/5_e-tech_52kwh_150hp/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Renault 5 E-Tech 52kWh 150hp</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-794641c4"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
+				<a href="{{ with .Site.GetPage `/models/peugot/3008/e-3008/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/peugot/3008/e-3008/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Peugot E-3008</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-b546fa9c"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
+				<a href="{{ with .Site.GetPage `/models/volvo/ec40/ec40_twin_motor/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/volvo/ec40/ec40_twin_motor/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Volvo EC40 Twin Motor</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-9141e2cc"}}</p>
+				</div>
+			</div>
+		</div>
+		<button class="carousel-control-prev" type="button" data-bs-target="#latestNewsCarousel" data-bs-slide="prev">
+			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			<span class="visually-hidden">Previous</span>
+		</button>
+		<button class="carousel-control-next" type="button" data-bs-target="#latestNewsCarousel" data-bs-slide="next">
+			<span class="carousel-control-next-icon" aria-hidden="true"></span>
+			<span class="visually-hidden">Next</span>
+		</button>
+	</div>
+</div>

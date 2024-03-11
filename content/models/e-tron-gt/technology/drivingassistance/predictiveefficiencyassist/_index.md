@@ -34,4 +34,4 @@ The driver can override the system at any time by accelerating and braking. In a
 This option is part of the tour driver assistance package with option id **PCC**
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

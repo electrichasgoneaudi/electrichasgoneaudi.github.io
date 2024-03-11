@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ .Page.Language | default " en" }}">
+{{ partial "headstandard.html" . }}
+<body class="a-page" data-url="{{ .RelPermalink }}">
+  {{ partial "navbar.html" . }}
+  {{ partial "addsensetop.html" . }}
+  <aside>
+    {{ partial "menuaccordion-simple.html" . }}
+  </aside>
+  <main>
+    {{ partial "carousel.html" . }}
+    {{ partial "technologyfrontpage.html" . }}
+    {{ partial "secondrowarticles.html" . }}
+    {{ partial "guidesfrontpage.html" . }}
+    {{ partial "thirdrowarticles.html" . }}
+    {{ partial "latestreviews.html" . }}
+    {{ partial "modelmostsoldfrontpage.html" . }}
+  </main>
+  <footer class="container bg-dark">
+    {{ partial "footercontent.html" . }}
+  </footer>
+  </div> <!-- End container -->
+  <script src="/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

@@ -17,4 +17,4 @@ weight: 1
 
 This option is part of the [navigation packages](../../../optionguide/list/#infotainment) PYG/PYH.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

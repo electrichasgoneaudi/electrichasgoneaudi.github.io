@@ -44,4 +44,4 @@ Som tilvalg nr **VW6** kan du bestille akustiske sidevinduer foran.
 
 Dette reduserer støy i kupeen.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

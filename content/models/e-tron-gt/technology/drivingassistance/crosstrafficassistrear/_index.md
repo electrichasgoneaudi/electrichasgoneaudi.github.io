@@ -23,4 +23,4 @@ See video of real world test of this
 
 {{< youtube k_U-cGCNYtQ >}}
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

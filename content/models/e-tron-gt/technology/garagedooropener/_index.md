@@ -25,4 +25,4 @@ The garage door opener support up to 8 ports and the yan be mapped to a GPS loca
 
 This is option **VC2**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

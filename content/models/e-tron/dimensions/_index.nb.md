@@ -24,4 +24,4 @@ weight: 3
     <figcaption><h4>Dimensjoner e-tron Sportback</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

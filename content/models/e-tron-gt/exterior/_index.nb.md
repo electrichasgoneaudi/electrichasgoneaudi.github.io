@@ -16,4 +16,4 @@ weight: 4
 
 Se nedenfor for detaljer om eksteriør og tilvalgsmuligheter.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -28,4 +28,4 @@ Følgende utstyr er tilgjengelig for funksjon på forespørsel
 </figure>
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

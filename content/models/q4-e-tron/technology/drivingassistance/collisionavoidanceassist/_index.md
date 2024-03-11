@@ -19,4 +19,4 @@ First, a jolt is produced to warn the driver of the hazard. If the driver then a
 
 Collision Avoidance is standard equipment on Audi Q4 e-tron. OptionID **4G3**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

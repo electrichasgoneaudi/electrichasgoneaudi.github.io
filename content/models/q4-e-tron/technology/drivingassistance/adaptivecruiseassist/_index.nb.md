@@ -113,4 +113,4 @@ Videoen nedenfor viser en test av dette systemet
 
 Dette alternativet er en del av assistansesystempakken pro med alternativ-ID **PY7**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

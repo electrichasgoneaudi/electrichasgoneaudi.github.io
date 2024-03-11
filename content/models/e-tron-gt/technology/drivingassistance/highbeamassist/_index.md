@@ -11,4 +11,4 @@ weight: 1
 This is part of the HD-matrix lightning.
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

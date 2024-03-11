@@ -244,4 +244,4 @@ weight: 2
 | Ground clearance | 180mm/165mm (Sport suspension)
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

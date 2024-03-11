@@ -21,4 +21,4 @@ Audi e-tron GT has a wide range of options and advanced driving technologies. He
 
 Below you find the different sections about e-tron GT.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

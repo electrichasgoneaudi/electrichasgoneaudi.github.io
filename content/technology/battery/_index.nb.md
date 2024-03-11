@@ -20,4 +20,4 @@ og hvordan det påvirker ytelsen på elbiler med et spesifikt fokus på helelekt
 
 Hvis du vil ha en dyp forståelse, anbefaler vi [EV-batterikortene av Dr. Cecile Pera på Orovel.Net](https://www.orovel.net/orovel-cards/battery) og [BatteryUniversity](https://batteryuniversity) .com/artikler)
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

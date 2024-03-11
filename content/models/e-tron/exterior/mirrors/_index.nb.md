@@ -79,4 +79,4 @@ De virtuelle speilene er ikke innfellbare.
     <figcaption><h4>Virtuelle speil</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

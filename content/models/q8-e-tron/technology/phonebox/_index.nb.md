@@ -24,4 +24,4 @@ MMI-skjermen som minner deg på å ta med telefonen.
 
 Audi Phone Box som alternativ-ID **IU1**, men er foreløpig bare tilgjengelig som en del av [infotainment-pakken](/models/q4-e-tron/optionguide/list/#equipment-packages) med alternativ-ID **PYX**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

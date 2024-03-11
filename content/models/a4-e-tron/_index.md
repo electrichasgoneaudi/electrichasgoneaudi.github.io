@@ -7,4 +7,4 @@ weight: 6
 
 This model is not official confirmed from Audi. It will be built on the [PPE platform](/technology/bev-platforms/ppe/).
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

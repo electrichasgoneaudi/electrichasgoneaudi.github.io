@@ -32,4 +32,4 @@ Se video nedenfor hvordan systemet fungerer demonsterert på en Audi Q7
 
 Er en del av Assistentpakken Parkering med parkeringsassistent plus med alternativ id **PCV**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

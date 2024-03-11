@@ -30,4 +30,4 @@ Option id **2V9**
     <figcaption><h4>Air Quality package system</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

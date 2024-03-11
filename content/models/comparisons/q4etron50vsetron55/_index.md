@@ -360,4 +360,4 @@ Below you see the full specification and options comparison of the models.
 
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

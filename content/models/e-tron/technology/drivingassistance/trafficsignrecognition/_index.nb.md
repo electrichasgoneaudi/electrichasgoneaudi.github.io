@@ -32,4 +32,4 @@ Velg -> Bil -> Førerassistent -> Adativ kjøreassistent -> Prediktiv kontroll -
 
 Dette alternativet er en del av [assistentpakken tur](../../../optionguide/list/#assistentsystemer) med alternativ-ID **PCC**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

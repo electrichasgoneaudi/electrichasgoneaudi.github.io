@@ -35,4 +35,4 @@ It is activated as soon as the driver engages reverse gear or pushes the respect
 
 Reversing camera is standard on Audi e-tron GT.  Often it is replaced with [360 camera](../360camera).
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

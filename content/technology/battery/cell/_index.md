@@ -163,4 +163,4 @@ The ground breaking cermony for this factory was july 7. 2022.
     <figcaption><h4>Salzgiga factory</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

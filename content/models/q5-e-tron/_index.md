@@ -23,4 +23,4 @@ The variants available are
 - [Audi Q5 40 e-tron](/models/q5-e-tron/variants/#audi-q5-40-e-tron)
 - [Audi Q5 50 e-tron quattro](/models/q5-e-tron/variants/#audi-q5-50-e-tron-quattro)
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

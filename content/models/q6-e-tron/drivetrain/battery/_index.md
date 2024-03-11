@@ -25,4 +25,4 @@ With 12 modules that would mean that the 12 modules version would have a setup l
 - 150s1p and 551 volt nominal for the 10 module version
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

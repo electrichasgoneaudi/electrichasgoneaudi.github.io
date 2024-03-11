@@ -15,4 +15,4 @@ In addition you can select different types of lightning, steeringwheels, interio
     <figcaption><h4>Audi Q4 e-tron interior - In</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

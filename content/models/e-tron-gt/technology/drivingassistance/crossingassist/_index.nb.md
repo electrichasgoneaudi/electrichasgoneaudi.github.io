@@ -23,4 +23,4 @@ Hvis sjåføren ønsker å lette inn i et kryss eller avkjørsel med dårlig sik
 
 Dette er en del av assistentpakke-by med tilvalgs-id **PCM** på Audi e-tron GT
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

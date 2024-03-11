@@ -66,4 +66,4 @@ The Audi exclusive program from Audi Sport GmbH fulfills many personal customer 
 
 Below you find all details about the interior options.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

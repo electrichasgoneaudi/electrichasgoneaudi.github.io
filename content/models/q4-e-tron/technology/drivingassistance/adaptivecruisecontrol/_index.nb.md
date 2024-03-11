@@ -30,4 +30,4 @@ Lim-knappen på toppen aktiverer hastighetsbegrenseren.
 
 Dette alternativet er en del assistentsystempakken plus med opsjonsid **PYL**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -9,4 +9,4 @@ Nødhjelp overvåker førerens styreaktivitet. Hvis den oppdager at føreren er 
 
 Dette alternativet er en del av tour assist pakken med tilvalgs id **PCC**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

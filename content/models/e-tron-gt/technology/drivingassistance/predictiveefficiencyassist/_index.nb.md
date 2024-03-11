@@ -37,4 +37,4 @@ Føreren kan overstyre systemet når som helst ved å akselerere og bremse. I ti
 Dette alternativet er en del av tursjåførassistansepakken med alternativ-ID **PCC**
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

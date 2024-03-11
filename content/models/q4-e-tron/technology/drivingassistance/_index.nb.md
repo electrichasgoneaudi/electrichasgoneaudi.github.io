@@ -46,4 +46,4 @@ En frontradar, ett frontkamera, fire omgivelses-kameraer, to bakradarer og åtte
  Nedenfor finner du en detaljert forklaring på hvordan hver førerassistansefunksjonalitet fungerer.
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

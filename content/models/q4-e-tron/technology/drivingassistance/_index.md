@@ -45,4 +45,4 @@ Important driver assist systems come as standard, the optional systems are subdi
 
  Below you find a detailed explanation how each driver assistance functionality works.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

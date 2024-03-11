@@ -18,4 +18,4 @@ and the optional augmented reality head-up display – it is a new, pioneering p
     <figcaption><h4>Audi Q4 User interface and operationseversing light</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

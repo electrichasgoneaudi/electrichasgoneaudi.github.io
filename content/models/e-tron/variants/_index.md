@@ -105,4 +105,4 @@ This is the Sportback version of 60. WLTP-range between 343-374km depending on e
 
 [See detailed specification](/models/e-tron/specifications/#audi-e-tron-60s-sportback)
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -18,4 +18,4 @@ The system offers relief to drivers in this way – especially on long trips. At
 
 See also [Adaptive Cruise Control](../adaptivecruisecontrol)
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

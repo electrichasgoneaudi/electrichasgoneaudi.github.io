@@ -59,4 +59,4 @@ Drivstyringen fordeler dreiemomentene til de elektriske motorene mellom akslene 
 
 Teknologioppsettet på J1 Performance platformen tillater en rekke fjærings- og ytelsesfunksjoner, for eksempel firehjulsstyring eller en sportsdifferensial, som gir utmerket trekkraft og et høyt nivå av kjøretøydynamikk.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

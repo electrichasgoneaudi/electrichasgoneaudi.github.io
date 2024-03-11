@@ -21,4 +21,4 @@ See video how it works.
 
 {{< youtube SwBQhV4hOi0 >}}
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

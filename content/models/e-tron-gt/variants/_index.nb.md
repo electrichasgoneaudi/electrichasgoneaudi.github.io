@@ -35,4 +35,4 @@ Med en effekt på 475 kW (645 HK) i boost-modus går Audi RS e-tron GT 0-100 km/
 
 [Se alle tekniske detaljer](/models/e-tron-gt/specifications/#audi-rs-e-tron-gt)
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

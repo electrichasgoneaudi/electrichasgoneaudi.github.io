@@ -19,4 +19,4 @@ Bildet projiseres på frontruten. Informasjonen ser ut til å sveve rundt to met
 
 Head up-skjermen har alternativ-ID **KS1**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}
