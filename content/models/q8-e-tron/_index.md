@@ -11,7 +11,7 @@ The world premiere was November 9. 2022 and if you want to know all the details 
 It is expected that the first owners will receive their Q8 e-tron in Q2 2023. 
 
 
-{{< sitefiguresized thumb="articles/e-tron-facelift-q8-etron-2024/audi_sq8_front_article_st.jpeg" width="3000" height="2249" title="Audi SQ8 e-tron" >}}
+{{< sitefiguresized thumb="articles/e-tron-facelift-q8-etron-2024/audi_sq8_front_article_st.jpeg" width="3000" height="1999" title="Audi SQ8 e-tron" >}}
 
 Audi Q8 e-tron has a wide range of options and advanced driving technologies. Here on electrichasgoneaudi.net, you find all details about Q8 e-tron. Everything from the different wheels to choose from to how the different driving assist system works.
 
@@ -28,12 +28,8 @@ Audi Q8 e-tron is available in 6 variants.
 - [Audi SQ8 e-tron](../../models/q8-e-tron/variants/#audi-sq8-e-tron)
 - [Audi SQ8 e-tron Sportback](../../models/q8-e-tron/variants/#audi-sq8-sportback-e-tron)
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/sq8_and_q8_variants.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/sq8_and_q8_variants_st.jpg" alt="Audi Q8 e-tron 55 and Audi Q8 Sportback e-tron" title="Audi Q8 e-tron 55 and Audi Q8 Sportback e-tron">
-    </a>
-    <figcaption><h4>Audi Q8 e-tron 55 and Audi Q8 Sportback e-tron</h4></figcaption>
-</figure>
+{{< sitefiguresized thumb="models/q8-e-tron/sq8_and_q8_variants_st.jpg" width="3000" height="2249" title="Audi Q8 e-tron 55 and Audi Q8 Sportback e-tron" >}}
+
 
 Go to our [Audi Q8 e-tron variant sections](variants) for more details.
 
@@ -53,14 +49,56 @@ The number of modules and cells are the same, but with a new more dense cell Aud
 
 Audi Q8 e-tron has improved electronics and aerodynamis to reduce drag and consumption. This gives the following range and consumption.
 
-|Variant                                                                                        |  WLTP range       |Change |
-|-------------------------------                                                                |-----------        |-------|
-| [Audi Q8 50 e-tron](../../models/q8-e-tron/variants/#audi-q8-50-e-tron)                       |  491km/305mi      | +44%  |
-| [Audi Q8 50 Sportback e-tron](../../models/q8-e-tron/variants/#audi-q8-50-sportback-e-tron)   |  505km/314mi      | +44%  |
-| [Audi Q8 55 e-tron](../../models/q8-e-tron/variants/#audi-q8-55-e-tron)                       |  582km/362mi      | +32%  |
-| [Audi Q8 55 Sportback e-tron](../../models/q8-e-tron/variants/#audi-q8-55-sportback-e-tron)   |  600km/373mi      | +33%  |
-| [Audi SQ8 e-tron](../../models/q8-e-tron/variants/#audi-sq8-e-tron)                           |  494km/307mi      | +32%  |
-| [Audi SQ8 e-tron Sportback](../../models/q8-e-tron/variants/#audi-sq8-sportback-e-tron)       |  513km/319mi      | +35%  |
+
+<table class="table table-striped border">
+    <thead>
+        <tr>
+        <th>Variant
+        </th>
+        <th>WLTP range
+        </th>
+        <th>Change
+    </thead>
+    <tbody>
+    <tr>
+        <td><a href="../../models/q8-e-tron/variants/#audi-q8-50-e-tron">Audi Q8 50 e-tron</a></td>
+        <td>491km/305mi</td>
+        <td>+44%</td>
+    </tr>
+   <tr>
+        <td><a href="../../models/q8-e-tron/variants/#audi-q8-50-sportback-e-tron">Audi Q8 50 Sportback e-tron</a></td>
+        <td>505km/314mi</td>
+        <td>+44%</td>
+    </tr>
+      <tr>
+        <td><a href="../../models/q8-e-tron/variants/#audi-q8-55-e-tron">Audi Q8 55 e-tron</a></td>
+        <td>582km/362mi</td>
+        <td>+32%</td>
+    </tr>
+    <tr>
+        <td><a href="../../models/q8-e-tron/variants/#audi-q8-55-sportback-e-tron">Audi Q8 55 Sportback e-tron</a></td>
+        <td>600km/373mi</td>
+        <td>+33%</td>
+    </tr>
+    <tr>
+        <td><a href="../../models/q8-e-tron/variants/#audi-sq8-e-tron">Audi SQ8 e-tron</a></td>
+        <td>494km/307mi  </td>
+        <td>+32% </td>
+    </tr>
+    <tr>
+        <td><a href="../../models/q8-e-tron/variants/#audi-sq8-e-tron">Audi SQ8 e-tron</a></td>
+        <td>494km/307mi  </td>
+        <td>+32% </td>
+    </tr>
+    <tr>
+        <td><a href="../../models/q8-e-tron/variants/#audi-sq8-sportback-e-tron">Audi SQ8 e-tron Sportback</a></td>
+        <td>513km/319mi</td>
+        <td>+35%</td>
+    </tr>
+</tbody>
+</table>
+
+
 
 |Variant | WLTP Consumption | Change |
 |-------|-------------|-------|
