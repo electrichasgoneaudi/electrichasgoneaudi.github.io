@@ -1,7 +1,7 @@
 # theme.toml template for a Hugo theme
 # See https://github.com/spf13/hugoThemes#themetoml for an example
 
-name = "hugo-theme-evkx2"
+name = "hugo-theme-electrichasgoneaudi2"
 license = "MIT"
 licenselink = "https://github.com/evkx/hugo-theme-evkx/blob/master/LICENSE.md"
 description = "evkx theme for Hugo"
