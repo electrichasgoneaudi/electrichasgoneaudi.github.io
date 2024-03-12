@@ -7,12 +7,7 @@ weight: 1
 <!-- markdownlint-disable MD033 -->
 ### Audi Q8 50 e-tron
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/variants/q8_50_etron.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/variants/q8_50_etron_st.jpg" alt="Audi Q8 50 e-tron" title="Audi Q8 50 e-tron">
-    </a>
-    <figcaption><h4>Audi Q8 50 e-tron</h4></figcaption>
-</figure>
+{{< sitefiguresized thumb="models/q8-e-tron/variants/q8_50_etron_st.jpg" width="3000" height="2250" title="Audi Q8 50 e-tron" >}}
 
 Audi Q8 50 e-tron is the least expensive version. It has an SUV form factor and the smallest battery.
 95kWh gross battery with 89 kWh available. WLTP-range between 406-491km depending on equipment trim. The two engines output 250kW (312 hp).
@@ -23,12 +18,7 @@ It is not possible to differentiate the Q8 50 e-tron from the Q8 55 e-tron by lo
 
 ### Audi Q8 50 Sportback e-tron
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/variants/q8_50_sportback_etronm.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/variants/q8_50_sportback_etronm_st.jpeg" alt="Audi Q8 50 Sportback e-tron" title="Audi Q8 50 Sportback e-tron">
-    </a>
-    <figcaption><h4>Audi Q8 50 Sportback e-tron</h4></figcaption>
-</figure>
+{{< sitefiguresized thumb="models/q8-e-tron/variants/q8_50_sportback_etronm_st.jpeg" width="3000" height="1999" title="Audi Q8 50 Sportback e-tron" >}}
 
 Audi e-tron 50 Sportback is the least expensive Sportback version. It has a Sportback form factor and the smallest battery.
 95kWh gross battery with 89 kWh available. WLTP-range between 412-505km depending on equipment trim. The two engines output 230kW (312 hp).
