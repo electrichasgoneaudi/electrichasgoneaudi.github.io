@@ -10,12 +10,8 @@ The world premiere was November 9. 2022 and if you want to know all the details 
 
 It is expected that the first owners will receive their Q8 e-tron in Q2 2023. 
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/audi_sq8_front_article.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/audi_sq8_front_article_st.jpeg" alt="Audi SQ8 e-tron" title="Audi Q8 e-tron 55 prototype">
-    </a>
-    <figcaption><h4>Audi SQ8 e-tron</h4></figcaption>
-</figure>
+
+{{< sitefiguresized thumb="articles/e-tron-facelift-q8-etron-2024/audi_sq8_front_article_st.jpeg" width="3000" height="2249" title="Audi SQ8 e-tron" >}}
 
 Audi Q8 e-tron has a wide range of options and advanced driving technologies. Here on electrichasgoneaudi.net, you find all details about Q8 e-tron. Everything from the different wheels to choose from to how the different driving assist system works.
 
