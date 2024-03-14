@@ -13,7 +13,7 @@ I e-tron GT quattro yter den fremre elektriske motoren 175 kW (238 PS), og den b
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/motor/frontmotor_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/motor/frontmotor_1.jpg"
-        alt="Elektrisk motor foran med fjæring" title="Elektrisk motor foran med fjæring">
+        class="img-fluid" alt="Elektrisk motor foran med fjæring" title="Elektrisk motor foran med fjæring">
     </a>
     <figcaption><h4>Elektrisk motor foran med fjæring</h4></figcaption>
 </figure>
@@ -21,7 +21,7 @@ I e-tron GT quattro yter den fremre elektriske motoren 175 kW (238 PS), og den b
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/motor/rearmotor_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/motor/rearmotor_1s.jpg"
-        alt="Bakmotor med støtdempere" title="Bakmotor med støtdempere">
+        class="img-fluid" alt="Bakmotor med støtdempere" title="Bakmotor med støtdempere">
     </a>
     <figcaption><h4>Bakmotor med støtdempere</h4></figcaption>
 </figure>
@@ -33,7 +33,7 @@ PSM-motorene (permanent eksiterte synkronmotorer) i e-tron GT er ekstremt effekt
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/motor/rearmotor_3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/motor/rearmotor_3s.jpg"
-        alt="Audi e-tron GT elektrisk motor med hårnålsvikling" title="Audi e-tron GT elektrisk motor med hårnålsvikling">
+        class="img-fluid" alt="Audi e-tron GT elektrisk motor med hårnålsvikling" title="Audi e-tron GT elektrisk motor med hårnålsvikling">
     </a>
     <figcaption><h4>Audi e-tron GT elektrisk motor med hårnålsvikling</h4></figcaption>
 </figure>

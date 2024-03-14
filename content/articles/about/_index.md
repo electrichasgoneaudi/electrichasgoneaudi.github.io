@@ -40,7 +40,7 @@ That’s why we love Audi and want to focus our energy and this site on all-elec
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/about/about_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/about/about_1s.jpg" alt="Audi charging hub" title="Audi charging hub">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/about/about_1s.jpg" class="img-fluid" alt="Audi charging hub" title="Audi charging hub">
     </a>
     <figcaption><h4>Audi is going all-electric</h4></figcaption>
 </figure>

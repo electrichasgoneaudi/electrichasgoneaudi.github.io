@@ -15,7 +15,7 @@ multifunction buttons, and its rim can be heated as an option (standard with the
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/monoposto.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/monoposto.jpg" 
-        alt="Monoposto concept" title="Monoposto concept">
+        class="img-fluid" alt="Monoposto concept" title="Monoposto concept">
     </a>
     <figcaption><h4>Monoposto concept</h4></figcaption>
 </figure>
@@ -43,7 +43,7 @@ The black leather-free design package is available for the sport seats plus. Uph
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEF_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEF_1s.jpg" 
-        alt="RS design package red with carbon inlays and interior lighnting" title="RS design package red with carbon inlays and interior lighnting">
+        class="img-fluid" alt="RS design package red with carbon inlays and interior lighnting" title="RS design package red with carbon inlays and interior lighnting">
     </a>
     <figcaption><h4>RS design package red with carbon inlays and interior lighnting</h4></figcaption>
 </figure>
@@ -57,7 +57,7 @@ The large application area on the instrument panel is painted in a fine paint fi
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interior.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interior.jpg" 
-        alt="Audi RS e-tron GT with Audi exclusive interior. Photo by Auditography" title="Audi RS e-tron GT with Audi exclusive interior. Photo by Auditography">
+        class="img-fluid" alt="Audi RS e-tron GT with Audi exclusive interior. Photo by Auditography" title="Audi RS e-tron GT with Audi exclusive interior. Photo by Auditography">
     </a>
     <figcaption><h4>Audi RS e-tron GT with Audi exclusive interior. Photo by Auditography</h4></figcaption>
 </figure>

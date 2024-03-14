@@ -8,7 +8,7 @@ weight: 99997
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidnas.jpg" alt="2023 Audi SQ8 e-tron prototype and 2022 Audi e-tron S" title="2023 Audi SQ8 e-tron prototype and 2022 Audi e-tron S">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidnas.jpg" class="img-fluid" alt="2023 Audi SQ8 e-tron prototype and 2022 Audi e-tron S" title="2023 Audi SQ8 e-tron prototype and 2022 Audi e-tron S">
     </a>
     <figcaption><h4>2023 Audi SQ8 e-tron prototype and 2022 Audi e-tron S</h4></figcaption>
 </figure>
@@ -25,7 +25,7 @@ Straight ahead stability, steering demand, and deceleration build-up are criteri
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna5s.jpg" alt="2022 Audi e-tron S driving characteristics" title="2022 Audi e-tron S driving characteristics">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna5s.jpg" class="img-fluid" alt="2022 Audi e-tron S driving characteristics" title="2022 Audi e-tron S driving characteristics">
     </a>
     <figcaption><h4>2022 Audi e-tron S driving characteristics</h4></figcaption>
 </figure>
@@ -38,7 +38,7 @@ The result: a predictable steering angle dependent yaw behaviour combined with a
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna2s.jpg" alt="2022 Audi e-tron S" title="2022 Audi e-tron S">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna2s.jpg" class="img-fluid" alt="2022 Audi e-tron S" title="2022 Audi e-tron S">
     </a>
     <figcaption><h4>2022 Audi e-tron S</h4></figcaption>
 </figure>
@@ -51,7 +51,7 @@ For instance, the electric quattro in the Audi e-tron S governs the torque on de
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna3s.jpg" alt="2023 Audi SQ8 e-tron Sportback prototype" title="2023 Audi SQ8 e-tron Sportback prototype">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna3s.jpg" class="img-fluid" alt="2023 Audi SQ8 e-tron Sportback prototype" title="2023 Audi SQ8 e-tron Sportback prototype">
     </a>
     <figcaption><h4>2023 Audi SQ8 e-tron Sportback prototype</h4></figcaption>
 </figure>
@@ -68,7 +68,7 @@ The mastermind of the regulating systems and control units is the Electronic Cha
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna4s.jpg" alt="2023 Audi SQ8 e-tron Sportback prototype" title="2023 Audi SQ8 e-tron Sportback prototype">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna4s.jpg" class="img-fluid" alt="2023 Audi SQ8 e-tron Sportback prototype" title="2023 Audi SQ8 e-tron Sportback prototype">
     </a>
     <figcaption><h4>2023 Audi SQ8 e-tron Sportback prototype</h4></figcaption>
 </figure>

@@ -14,7 +14,7 @@ Audi e-tron er utstyrt med standard manuelle vindusviskere hvor man selv kan sty
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/wipers/wipers_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/wipers/wipers_1s.jpg"
-        alt="Adjustment of spray pattern" title="Adjustment of spray pattern">
+        class="img-fluid" alt="Adjustment of spray pattern" title="Adjustment of spray pattern">
     </a>
     <figcaption><h4>Adjustment of spray pattern</h4></figcaption>
 </figure>
@@ -28,7 +28,7 @@ The adaptive wipers takes into account the driving speed, the outside temperatur
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/wipers/adaptive1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/wipers/adaptive1.jpg"
-        alt="Adjustment of spray pattern" title="Adjustment of spray pattern">
+        class="img-fluid" alt="Adjustment of spray pattern" title="Adjustment of spray pattern">
     </a>
     <figcaption><h4>Adjustment of spray pattern</h4></figcaption>
 </figure>
@@ -40,7 +40,7 @@ The wiper and washing system is completely heated. A heating element in the wipe
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/wipers/adaptive2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/wipers/adaptive2.jpg"
-        alt="Heated arm and nozzle" title="Heated arm and nozzle">
+        class="img-fluid" alt="Heated arm and nozzle" title="Heated arm and nozzle">
     </a>
     <figcaption><h4>Heated arm and nozzle</h4></figcaption>
 </figure>

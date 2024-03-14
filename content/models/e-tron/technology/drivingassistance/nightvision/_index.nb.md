@@ -9,7 +9,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/nightvision/nightvision.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/nightvision/nightvisions.jpg"
-        alt="Night vision" title="Night vision">
+        class="img-fluid" alt="Night vision" title="Night vision">
     </a>
     <figcaption><h4>Night vision</h4></figcaption>
 </figure>
@@ -21,7 +21,7 @@ Systemet, som har en rekkevidde på opptil 300 meter (984,3 fot), kan oppdage me
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/nightvision/nightvisioncamera.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/nightvision/nightvisioncameras.jpg"
-        alt="Night vision" title="Night vision">
+        class="img-fluid" alt="Night vision" title="Night vision">
     </a>
     <figcaption><h4>Night vision kamera</h4></figcaption>
 </figure>
@@ -29,7 +29,7 @@ Systemet, som har en rekkevidde på opptil 300 meter (984,3 fot), kan oppdage me
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/nightvision/camera.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/nightvision/cameras.jpg"
-        alt="Night vision" title="Night vision">
+        class="img-fluid" alt="Night vision" title="Night vision">
     </a>
     <figcaption><h4>Night vision kamera</h4></figcaption>
 </figure>

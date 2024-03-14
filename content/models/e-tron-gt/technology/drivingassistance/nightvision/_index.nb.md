@@ -9,7 +9,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/nightvision/nightvision.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/nightvision/nightvisions.jpg"
-        alt="Night vision" title="Night vision">
+        class="img-fluid" alt="Night vision" title="Night vision">
     </a>
     <figcaption><h4>Night vision</h4></figcaption>
 </figure>

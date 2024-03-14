@@ -44,7 +44,7 @@ Nedenfor ser du noen eksempler på rekkevide lagt ut av brukere i ulike grupper 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/lowrange/lowrangeexample.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/lowrange/lowrangeexamples.jpg"
-        alt="Eksempel på rapportert rekkevidde" title="Eksempel på rapportert rekkevidde">
+        class="img-fluid" alt="Eksempel på rapportert rekkevidde" title="Eksempel på rapportert rekkevidde">
     </a>
     <figcaption><h4>Eksempel på rapportert rekkevidde</h4></figcaption>
 </figure>
@@ -62,7 +62,7 @@ Så anta at du har en Audi Q4 e-tron 50 med 76,6 kWh batteri og at du har ladet 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/lowrange/triphistory.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/lowrange/triphistory.jpg"
-        alt="Triphistory" title="Triphistory">
+        class="img-fluid" alt="Triphistory" title="Triphistory">
     </a>
     <figcaption><h4>Triphistory</h4></figcaption>
 </figure>

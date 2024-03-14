@@ -15,7 +15,7 @@ Det er derfor vi i denne artikkelen vil gå inn på de detaljerte forskjellene m
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/etronvsq4_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/etronvsq4_1s.jpg"
-        alt="Audi e-tron 55 quattro og Audi Q4 e-tron 50 quattro" title="Audi e-tron 55 quattro og Audi Q4 e-tron 50 quattro">
+        class="img-fluid" alt="Audi e-tron 55 quattro og Audi Q4 e-tron 50 quattro" title="Audi e-tron 55 quattro og Audi Q4 e-tron 50 quattro">
     </a>
     <figcaption><h4>Audi e-tron 55 quattro og Audi Q4 e-tron 50 quattro</h4></figcaption>
 </figure>
@@ -59,7 +59,7 @@ Audi e-tron er 313 mm lengre og 81 mm bredere enn Q4. Den mindre størrelsen gj�
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/parkingspace.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/parkingspaces.jpg"
-        alt="Et typisk scenario. Audi e-tron fyller parkeringsplassene helt." title="Et typisk scenario. Audi e-tron fyller parkeringsplassene helt.">
+        class="img-fluid" alt="Et typisk scenario. Audi e-tron fyller parkeringsplassene helt." title="Et typisk scenario. Audi e-tron fyller parkeringsplassene helt.">
     </a>
     <figcaption><h4>Et typisk scenario. Audi e-tron fyller parkeringsplassene helt.</h4></figcaption>
 </figure>
@@ -92,7 +92,7 @@ Audi e-tron har også interiørdesignalternativer som et dashbord i skinn og gla
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_8.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_8s.jpg"
-        alt="Individual contour seats in Audi e-tron" title="Individual contour seats in Audi e-tron">
+        class="img-fluid" alt="Individual contour seats in Audi e-tron" title="Individual contour seats in Audi e-tron">
     </a>
     <figcaption><h4>Individual contour seats in Audi e-tron</h4></figcaption>
 </figure>
@@ -119,7 +119,7 @@ For noen er de fysiske knappene til AC på Q4 en fordel.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/mmi/mmi.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/mmi/mmis.jpg"
-        alt="One screen Audi MMI touch on Audi Q4 e-tron" title="One screen Audi MMI touch on Audi Q4 e-tron">
+        class="img-fluid" alt="One screen Audi MMI touch on Audi Q4 e-tron" title="One screen Audi MMI touch on Audi Q4 e-tron">
     </a>
     <figcaption><h4>One screen Audi MMI touch on Audi Q4 e-tron</h4></figcaption>
 </figure>
@@ -202,7 +202,7 @@ Grunnprisen for Audi Q4 e-tron 50 i Norge er 486.900,- og for Audi e-tron 55 694
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/etronvsq4_2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/etronvsq4_2s.jpg"
-        alt="Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro" title="Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro">
+        class="img-fluid" alt="Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro" title="Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro">
     </a>
     <figcaption><h4>Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro</h4></figcaption>
 </figure>
@@ -249,7 +249,7 @@ For tiden inkluderer prisen på e-tron også vinterdekk slik at den praktiske pr
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/configurator.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/configurator.jpg"
-        alt="Fra configurator. 783.700,- vs 851.600,-" title="Fra configurator. 783.700,- vs 851.600,-">
+        class="img-fluid" alt="Fra configurator. 783.700,- vs 851.600,-" title="Fra configurator. 783.700,- vs 851.600,-">
     </a>
     <figcaption><h4>Fra configurator. 783.700,- vs 851.600,-</h4></figcaption>
 </figure>
@@ -379,14 +379,14 @@ Nedenfor ser du den fullstendige spesifikasjonen og utstyrsammenligningen av gru
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison1.jpg"
-        alt="Størrelse sammenligning Q4 og e-tron" title="Størrelse sammenligning Q4 og e-tron">
+        class="img-fluid" alt="Størrelse sammenligning Q4 og e-tron" title="Størrelse sammenligning Q4 og e-tron">
     </a>
     <figcaption><h4>Størrelse sammenligning Q4 og e-tron</h4></figcaption>
 </figure>
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison2.jpg"
-        alt="Størrelse sammenligning Q4 og e-tron" title="Størrelse sammenligning Q4 og e-tron">
+        class="img-fluid" alt="Størrelse sammenligning Q4 og e-tron" title="Størrelse sammenligning Q4 og e-tron">
     </a>
     <figcaption><h4>Størrelse sammenligning Q4 og e-tron</h4></figcaption>
 </figure>
@@ -394,7 +394,7 @@ Nedenfor ser du den fullstendige spesifikasjonen og utstyrsammenligningen av gru
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison3.jpg"
-        alt="Størrelse sammenligning Q4 og e-tron" title="Størrelse sammenligning Q4 og e-tron">
+        class="img-fluid" alt="Størrelse sammenligning Q4 og e-tron" title="Størrelse sammenligning Q4 og e-tron">
     </a>
     <figcaption><h4>Størrelse sammenligning Q4 og e-tron</h4></figcaption>
 </figure>

@@ -15,7 +15,7 @@ In the US the charging port has a [J1772 connector](https://en.wikipedia.org/wik
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargeport_left.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargeport_lefts.jpg"
-        alt="Type 2 Chargeport" title="Type 2 Chargeport">
+        class="img-fluid" alt="Type 2 Chargeport" title="Type 2 Chargeport">
     </a>
     <figcaption><h4>Type 2 Chargeport</h4></figcaption>
 </figure>
@@ -29,7 +29,7 @@ You can order an additional chargeport on the passenger side. This is option ID 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargeport_right.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargeport_rights.jpg"
-        alt="Additional passenger side charge port" title="Additional passenger side charge port">
+        class="img-fluid" alt="Additional passenger side charge port" title="Additional passenger side charge port">
     </a>
     <figcaption><h4>Additional passenger side charge port</h4></figcaption>
 </figure>
@@ -47,7 +47,7 @@ In the illustration below you see the location of the charge units.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/electricdrivetrain.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/electricdrivetrains.jpg"
-        alt="Electric drive train with standard and optinal charger location" title="Electric drive train with standard and optinal charger location">
+        class="img-fluid" alt="Electric drive train with standard and optinal charger location" title="Electric drive train with standard and optinal charger location">
     </a>
     <figcaption><h4>Electric drive train with standard and optinal charger location</h4></figcaption>
 </figure>
@@ -57,7 +57,7 @@ Only AC charging goes throug the charger. For DC charging the CCS port is direct
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/wiringdiagram.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/wiringdiagrams.jpg"
-        alt="Chargport/charger wiring" title="Chargport/charger wiring">
+        class="img-fluid" alt="Chargport/charger wiring" title="Chargport/charger wiring">
     </a>
     <figcaption><h4>Chargport/charger wiring</h4></figcaption>
 </figure>
@@ -65,7 +65,7 @@ Only AC charging goes throug the charger. For DC charging the CCS port is direct
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/charger.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargers.jpg"
-        alt="The onboard charger" title="The onboard charger">
+        class="img-fluid" alt="The onboard charger" title="The onboard charger">
     </a>
     <figcaption><h4>The onboard charger</h4></figcaption>
 </figure>
@@ -87,7 +87,7 @@ Only AC charging goes throug the charger. For DC charging the CCS port is direct
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/ledlights.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/ledlightss.jpg"
-        alt="Led Lights" title="Led Lights">
+        class="img-fluid" alt="Led Lights" title="Led Lights">
     </a>
     <figcaption><h4>Led Lights</h4></figcaption>
 </figure>
@@ -95,7 +95,7 @@ Only AC charging goes throug the charger. For DC charging the CCS port is direct
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/ledoverview.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/ledoverviews.jpg"
-        alt="LED codes" title="LED codes">
+        class="img-fluid" alt="LED codes" title="LED codes">
     </a>
     <figcaption><h4>LED codes</h4></figcaption>
 </figure>

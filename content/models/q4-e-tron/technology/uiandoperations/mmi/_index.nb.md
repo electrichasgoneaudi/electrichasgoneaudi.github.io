@@ -10,7 +10,7 @@ Audi MMI® (Multi Media Interface)-systemet ble laget for å strømlinjeforme ko
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/mmi/mmi2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/mmi/mmi2s.jpg"
-        alt="Audi MMI" title="Audi MMI">
+        class="img-fluid" alt="Audi MMI" title="Audi MMI">
     </a>
     <figcaption><h4>Audi MMI</h4></figcaption>
 </figure>
@@ -30,7 +30,7 @@ Det er den største skjermen i Audi-porteføljen til dags dato.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/mmi/mmi.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/mmi/mmis.jpg"
-        alt="Audi MMI touch" title="Audi MMI touch">
+        class="img-fluid" alt="Audi MMI touch" title="Audi MMI touch">
     </a>
     <figcaption><h4>Audi MMI touch</h4></figcaption>
 </figure>

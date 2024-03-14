@@ -9,7 +9,7 @@ weight: 2
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/platforms.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/platformss.jpg"
-        alt="Audi BEV Platforms" title="Audi BEV Platforms">
+        class="img-fluid" alt="Audi BEV Platforms" title="Audi BEV Platforms">
     </a>
     <figcaption><h4>Audi BEV Platforms</h4></figcaption>
 </figure>

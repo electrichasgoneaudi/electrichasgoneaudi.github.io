@@ -16,7 +16,7 @@ Frontlyktene til Q4 e-tron og Q4 Sportback e-tron er fullt utstyrt med LED som s
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/headlightstandard.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/headlightstandards.jpg" 
-        alt="Standard LED frontlykter med LED-indikatorlys" title="Standard LED frontlykter med LED-indikatorlys">
+        class="img-fluid" alt="Standard LED frontlykter med LED-indikatorlys" title="Standard LED frontlykter med LED-indikatorlys">
     </a>
     <figcaption><h4>Standard LED frontlykter med LED-indikatorlys</h4></figcaption>
 </figure>
@@ -32,7 +32,7 @@ På forespørsel tilbyr Audi også Matrix LED-frontlysene – de gir de to elekt
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature1s.jpg"
-        alt="Lyssignatur 1" title="Lyssignatur 1">
+        class="img-fluid" alt="Lyssignatur 1" title="Lyssignatur 1">
     </a>
     <figcaption><h4>Lyssignatur 1</h4></figcaption>
 </figure>
@@ -40,7 +40,7 @@ På forespørsel tilbyr Audi også Matrix LED-frontlysene – de gir de to elekt
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature2s.jpg"
-        alt="Lyssignatur 2" title="Lyssignatur 2">
+        class="img-fluid" alt="Lyssignatur 2" title="Lyssignatur 2">
     </a>
     <figcaption><h4>Lyssignatur 2</h4></figcaption>
 </figure>
@@ -48,7 +48,7 @@ På forespørsel tilbyr Audi også Matrix LED-frontlysene – de gir de to elekt
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature3s.jpg"
-        alt="Lyssignatur 3" title="Lyssignatur 3">
+        class="img-fluid" alt="Lyssignatur 3" title="Lyssignatur 3">
     </a>
     <figcaption><h4>Lyssignatur 3</h4></figcaption>
 </figure>
@@ -56,7 +56,7 @@ På forespørsel tilbyr Audi også Matrix LED-frontlysene – de gir de to elekt
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature4.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature4s.jpg"
-        alt="Lyssignatur 4" title="Lyssignatur 4">
+        class="img-fluid" alt="Lyssignatur 4" title="Lyssignatur 4">
     </a>
     <figcaption><h4>Lyssignatur 4</h4></figcaption>
 </figure>
@@ -64,7 +64,7 @@ På forespørsel tilbyr Audi også Matrix LED-frontlysene – de gir de to elekt
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signaturemenu.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signaturemenus.jpg"
-        alt="Signaturvalg gjøres i MMI" title="Signaturvalg gjøres i MMI">
+        class="img-fluid" alt="Signaturvalg gjøres i MMI" title="Signaturvalg gjøres i MMI">
     </a>
     <figcaption><h4>Signaturvalg gjøres i MMI</h4></figcaption>
 </figure>
@@ -88,7 +88,7 @@ I kombinasjon med Matrix LED-frontlyktene er det også en spesielt elegant lysl�
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/rearwithoutmatrix.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/rearwithoutmatrixs.jpg"
-        alt="Baklykt uten matrix uten lyslist og kun 1 ryggelys" title="Baklykt uten matrix uten lyslist og kun 1 ryggelys">
+        class="img-fluid" alt="Baklykt uten matrix uten lyslist og kun 1 ryggelys" title="Baklykt uten matrix uten lyslist og kun 1 ryggelys">
     </a>
     <figcaption><h4>Baklykt uten matrix uten lyslist og kun 1 ryggelys</h4></figcaption>
 </figure>
@@ -96,7 +96,7 @@ I kombinasjon med Matrix LED-frontlyktene er det også en spesielt elegant lysl�
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/rearwithmatrix2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/rearwithmatrix2s.jpg"
-        alt="Baklykt med matrix med lysslist og 2 ryggelys" title="Baklykt med matrix med lysslist og 2 ryggelys">
+        class="img-fluid" alt="Baklykt med matrix med lysslist og 2 ryggelys" title="Baklykt med matrix med lysslist og 2 ryggelys">
     </a>
     <figcaption><h4>Taillight with matrix with light bar and 2 reversing light</h4></figcaption>
 </figure>
@@ -104,7 +104,7 @@ I kombinasjon med Matrix LED-frontlyktene er det også en spesielt elegant lysl�
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/rearcomparison.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/rearcomparisons.jpg"
-        alt="Illustrasjon som viser forskjell mellom bil med Matrix (topp), og uten matrix (bunn)" title="Illustrasjon som viser forskjell mellom bil med Matrix (topp), og uten matrix (bunn)">
+        class="img-fluid" alt="Illustrasjon som viser forskjell mellom bil med Matrix (topp), og uten matrix (bunn)" title="Illustrasjon som viser forskjell mellom bil med Matrix (topp), og uten matrix (bunn)">
     </a>
     <figcaption><h4>Illustrasjon som viser forskjell mellom bil med Matrix (topp), og uten matrix (bunn)</h4></figcaption>
 </figure>

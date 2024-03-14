@@ -7,7 +7,7 @@ weight: 100000
 <!-- markdownlint-disable MD033 -->
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_1s.jpg" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_1s.jpg" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
     </a>
     <figcaption><h4>Elbil om vinteren</h4></figcaption>
 </figur>
@@ -24,7 +24,7 @@ I de rent elektriske modellene kompletterer Audi e-tron-ruteplanleggeren Audi MM
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_3s.jpg" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_3s.jpg" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
     </a>
     <figcaption><h4>Elektrisk mobilitet om vinteren</h4></figcaption>
 </figur>
@@ -43,7 +43,7 @@ Alle som hyppig tar korte bilturer bør lade batteriet til maks 80 pr cent for �
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_4s.jpg" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_4s.jpg" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
     </a>
     <figcaption><h4>Elektrisk mobilitet om vinteren</h4></figcaption>
 </figur>
@@ -62,7 +62,7 @@ Mindre felgstørrelser, smalere dekk og riktig lufttrykk kan redusere dekkenes r
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_5s.jpg" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_5s.jpg" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
     </a>
     <figcaption><h4>Elektrisk mobilitet om vinteren</h4></figcaption>
 </figur>

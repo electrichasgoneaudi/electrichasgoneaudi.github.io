@@ -18,7 +18,7 @@ In the US the charging system has a [J1772 connector](https://en.wikipedia.org/w
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/chargingsystem/chargeport_right.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/chargingsystem/chargeport_rights.jpg"
-        alt="Type 2 Chargeport" title="Type 2 Chargeport">
+        class="img-fluid" alt="Type 2 Chargeport" title="Type 2 Chargeport">
     </a>
     <figcaption><h4>Type 2 Chargeport</h4></figcaption>
 </figure>
@@ -33,7 +33,7 @@ between a 230-volt system and a 400-volt system when ordering the car.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/chargingsystemcompact2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/chargingsystemcompact2s.jpg"
-        alt="Charging system compact" title="Charging system compact">
+        class="img-fluid" alt="Charging system compact" title="Charging system compact">
     </a>
     <figcaption><h4>Charging system compact</h4></figcaption>
 </figure>
@@ -41,7 +41,7 @@ between a 230-volt system and a 400-volt system when ordering the car.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/chargingsystemcompact.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/chargingsystemcompacts.jpg"
-        alt="Charging system compact" title="Charging system compact">
+        class="img-fluid" alt="Charging system compact" title="Charging system compact">
     </a>
     <figcaption><h4>Charging system compact</h4></figcaption>
 </figure>
@@ -63,7 +63,7 @@ Audi recommends a three-phase, 400-volt outlet for optimal use of the charging s
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/chargingsystemconnect.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/chargingsystemconnects.jpg"
-        alt="Charging system connect" title="Charging system connect">
+        class="img-fluid" alt="Charging system connect" title="Charging system connect">
     </a>
     <figcaption><h4>Charging system connect</h4></figcaption>
 </figure>
@@ -103,7 +103,7 @@ install a hardwired charging system. This is not a specific Audi issue, but rele
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/burned_nema_14_50.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/burned_nema_14_50s.jpg"
-        alt="Burned nema 14-50 outlet used for Audi e-tron" title="Burned nema 14-50 outlet used for Audi e-tron">
+        class="img-fluid" alt="Burned nema 14-50 outlet used for Audi e-tron" title="Burned nema 14-50 outlet used for Audi e-tron">
     </a>
     <figcaption><h4>Burned nema 14-50 outlet used for Audi e-tron</h4></figcaption>
 </figure>
@@ -111,7 +111,7 @@ install a hardwired charging system. This is not a specific Audi issue, but rele
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/burned_nema_14_50_2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/burned_nema_14_50_2s.jpg"
-        alt="Burned nema 14-50 outlet used for Audi e-tron" title="Burned nema 14-50 outlet used for Audi e-tron">
+        class="img-fluid" alt="Burned nema 14-50 outlet used for Audi e-tron" title="Burned nema 14-50 outlet used for Audi e-tron">
     </a>
     <figcaption><h4>Burned nema 14-50 outlet used for Audi e-tron</h4></figcaption>
 </figure>
@@ -123,7 +123,7 @@ They run on 230/240 or 400 volt depending on network in your home.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/audiwallbox.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/audiwallboxs.jpg"
-        alt="Install a hard wired level 2 charging system" title="Install a hard wired level 2 charging system">
+        class="img-fluid" alt="Install a hard wired level 2 charging system" title="Install a hard wired level 2 charging system">
     </a>
     <figcaption><h4>Install a hard wired level 2 charging system</h4></figcaption>
 </figure>

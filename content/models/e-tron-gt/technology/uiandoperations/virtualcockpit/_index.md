@@ -12,7 +12,7 @@ The display shows a wide range of information clearly and in neat, sharp, highly
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/virtualcockpit/viewcontrol.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/virtualcockpit/viewcontrols.jpg"
-        alt="Virtual cockpit view is controlled on the steering wheel" title="Virtual cockpit view is controlled on the steering wheel">
+        class="img-fluid" alt="Virtual cockpit view is controlled on the steering wheel" title="Virtual cockpit view is controlled on the steering wheel">
     </a>
     <figcaption><h4>Virtual cockpit view is controlled on the steering wheel</h4></figcaption>
 </figure>
@@ -28,7 +28,7 @@ The mode can be selected in MMI
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/virtualcockpit/virtualcockpit_settings.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/virtualcockpit/virtualcockpit_settingss.jpg"
-        alt="Virtual cockpit modes" title="Virtual cockpit modes">
+        class="img-fluid" alt="Virtual cockpit modes" title="Virtual cockpit modes">
     </a>
     <figcaption><h4>Virtual cockpit modes</h4></figcaption>
 </figure>
@@ -40,7 +40,7 @@ Below you see some of the mode and views available in Virtual Cockpit
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/virtualcockpit/virtualcockpit_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/virtualcockpit/virtualcockpit_1s.jpg"
-        alt="Virtual cockpit" title="Virtual cockpit">
+        class="img-fluid" alt="Virtual cockpit" title="Virtual cockpit">
     </a>
     <figcaption><h4>Virtual cockpit</h4></figcaption>
 </figure>
@@ -48,7 +48,7 @@ Below you see some of the mode and views available in Virtual Cockpit
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/virtualcockpit/virtualcockpit_2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/virtualcockpit/virtualcockpit_2s.jpg"
-        alt="Virtual cockpit" title="Virtual cockpit">
+        class="img-fluid" alt="Virtual cockpit" title="Virtual cockpit">
     </a>
     <figcaption><h4>Virtual cockpit</h4></figcaption>
 </figure>

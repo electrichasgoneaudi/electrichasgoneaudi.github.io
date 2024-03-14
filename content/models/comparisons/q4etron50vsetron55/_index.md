@@ -13,7 +13,7 @@ That's why we in this article will go into the detailed difference between the A
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/etronvsq4_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/etronvsq4_1s.jpg"
-        alt="Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro" title="Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro">
+        class="img-fluid" alt="Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro" title="Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro">
     </a>
     <figcaption><h4>Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro</h4></figcaption>
 </figure>
@@ -56,7 +56,7 @@ The Audi e-tron is 313 mm longer and 81 mm wider than Q4. The smaller size makes
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/parkingspace.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/parkingspaces.jpg"
-        alt="A typical scenario. Audi e-tron is filling a parking space." title="A typical scenario. Audi e-tron is filling a parking space.">
+        class="img-fluid" alt="A typical scenario. Audi e-tron is filling a parking space." title="A typical scenario. Audi e-tron is filling a parking space.">
     </a>
     <figcaption><h4>A typical scenario. Audi e-tron is filling a parking space.</h4></figcaption>
 </figure>
@@ -89,7 +89,7 @@ Audi e-tron also has interior styling options like a full leather dashboard and 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_8.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_8s.jpg"
-        alt="Individual contour seats in Audi e-tron" title="Individual contour seats in Audi e-tron">
+        class="img-fluid" alt="Individual contour seats in Audi e-tron" title="Individual contour seats in Audi e-tron">
     </a>
     <figcaption><h4>Individual contour seats in Audi e-tron</h4></figcaption>
 </figure>
@@ -116,7 +116,7 @@ For some, the physical buttons for the AC on Q4 are an advantage.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/mmi/mmi.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/mmi/mmis.jpg"
-        alt="One screen Audi MMI touch on Audi Q4 e-tron" title="One screen Audi MMI touch on Audi Q4 e-tron">
+        class="img-fluid" alt="One screen Audi MMI touch on Audi Q4 e-tron" title="One screen Audi MMI touch on Audi Q4 e-tron">
     </a>
     <figcaption><h4>One screen Audi MMI touch on Audi Q4 e-tron</h4></figcaption>
 </figure>
@@ -192,7 +192,7 @@ The starting price is significantly lower on the Q4 e-tron 50 than Audi e-tron 5
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/etronvsq4_2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/etronvsq4_2s.jpg"
-        alt="Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro" title="Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro">
+        class="img-fluid" alt="Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro" title="Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro">
     </a>
     <figcaption><h4>Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro</h4></figcaption>
 </figure>
@@ -338,14 +338,14 @@ Below you see the full specification and options comparison of the models.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison1.jpg"
-        alt="Size comparison Q4 and e-tron" title="Size comparison Q4 and e-tron">
+        class="img-fluid" alt="Size comparison Q4 and e-tron" title="Size comparison Q4 and e-tron">
     </a>
     <figcaption><h4>Size comparison Q4 and e-tron</h4></figcaption>
 </figure>
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison2.jpg"
-        alt="Size comparison Q4 and e-tron" title="Size comparison Q4 and e-tron">
+        class="img-fluid" alt="Size comparison Q4 and e-tron" title="Size comparison Q4 and e-tron">
     </a>
     <figcaption><h4>Size comparison Q4 and e-tron</h4></figcaption>
 </figure>
@@ -353,7 +353,7 @@ Below you see the full specification and options comparison of the models.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison3.jpg"
-        alt="Size comparison Q4 and e-tron" title="Size comparison Q4 and e-tron">
+        class="img-fluid" alt="Size comparison Q4 and e-tron" title="Size comparison Q4 and e-tron">
     </a>
     <figcaption><h4>Size comparison Q4 and e-tron</h4></figcaption>
 </figure>

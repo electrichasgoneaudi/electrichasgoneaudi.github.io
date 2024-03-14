@@ -9,7 +9,7 @@ weight: 3
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_1s.jpg"
-        alt="Headlights" title="Headlights">
+        class="img-fluid" alt="Headlights" title="Headlights">
     </a>
     <figcaption><h4>Headlights</h4></figcaption>
 </figure>
@@ -27,7 +27,7 @@ The matrix LED headlights are also available as an alternative; these come as st
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_2s.jpg"
-        alt="Headlights with laser" title="Headlights with laser">
+        class="img-fluid" alt="Headlights with laser" title="Headlights with laser">
     </a>
     <figcaption><h4>Headlights with laser</h4></figcaption>
 </figure>
@@ -39,7 +39,7 @@ Topping the range are the matrix LED headlights with Audi laser light. In the ce
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/taillights_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/taillights_1s.jpg"
-        alt="Taillights" title="Taillights">
+        class="img-fluid" alt="Taillights" title="Taillights">
     </a>
     <figcaption><h4>Taillights</h4></figcaption>
 </figure>

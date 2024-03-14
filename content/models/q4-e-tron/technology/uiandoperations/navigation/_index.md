@@ -14,7 +14,7 @@ You can enable Google maps-based Satellite photos and google based search to enr
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/navigationmmiscreen.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/navigationmmiscreens.jpg"
-        alt="Navigation in MMI Main screen" title="Navigation in MMI Main screen">
+        class="img-fluid" alt="Navigation in MMI Main screen" title="Navigation in MMI Main screen">
     </a>
     <figcaption><h4>Navigation in MMI Main screen</h4></figcaption>
 </figure>
@@ -22,7 +22,7 @@ You can enable Google maps-based Satellite photos and google based search to enr
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/mminavigationvirtualcockpit.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/mminavigationvirtualcockpits.jpg"
-        alt="Navigation in virtual cockpit" title="Navigation in virtual cockpit">
+        class="img-fluid" alt="Navigation in virtual cockpit" title="Navigation in virtual cockpit">
     </a>
     <figcaption><h4>Navigation in virtual cockpit</h4></figcaption>
 </figure>
@@ -50,7 +50,7 @@ In the below set of images, you see how it is to search and create a route going
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/searchs.jpg"
-        alt="Step 1: Input for search can be done with hand writing in display" title="Step 1: Input for search can be done with hand writing in display">
+        class="img-fluid" alt="Step 1: Input for search can be done with hand writing in display" title="Step 1: Input for search can be done with hand writing in display">
     </a>
     <figcaption><h4>Step 1: Input for search can be done with hand writing in display</h4></figcaption>
 </figure>
@@ -58,7 +58,7 @@ In the below set of images, you see how it is to search and create a route going
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/searchb.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/searchbs.jpg"
-        alt="Step 1: Input for search can be done with keyboard when car is stationary" title="Step 1: Input for search can be done with keyboard when car is stationary">
+        class="img-fluid" alt="Step 1: Input for search can be done with keyboard when car is stationary" title="Step 1: Input for search can be done with keyboard when car is stationary">
     </a>
     <figcaption><h4>Step 1: Input for search can be done with keyboard when car is stationary</h4></figcaption>
 </figure>
@@ -66,7 +66,7 @@ In the below set of images, you see how it is to search and create a route going
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search2s.jpg"
-        alt="Step 2: Selecting correct search result and pressing start" title="Step 2: Selecting correct search result and pressing start">
+        class="img-fluid" alt="Step 2: Selecting correct search result and pressing start" title="Step 2: Selecting correct search result and pressing start">
     </a>
     <figcaption><h4>Step 2: Selecting correct search result and pressing start</h4></figcaption>
 </figure>
@@ -74,7 +74,7 @@ In the below set of images, you see how it is to search and create a route going
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search3s.jpg"
-        alt="Step 3: Navigation informs that you don't have enough charge going to IKEA and suggest adding charging along the route" title="Step 3: Navigation informs that you don't have enough charge going to IKEA and suggest adding charging along the route">
+        class="img-fluid" alt="Step 3: Navigation informs that you don't have enough charge going to IKEA and suggest adding charging along the route" title="Step 3: Navigation informs that you don't have enough charge going to IKEA and suggest adding charging along the route">
     </a>
     <figcaption><h4>Step 3: Navigation informs that you don't have enough charge going to IKEA and suggest adding charging along the route</h4></figcaption>
 </figure>
@@ -82,7 +82,7 @@ In the below set of images, you see how it is to search and create a route going
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search4.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search4s.jpg"
-        alt="Step 4: Suggested charging stops including expected battery state of charge at destination" title="Step 4: Suggested charging stops including expected battery state of charge at destination">
+        class="img-fluid" alt="Step 4: Suggested charging stops including expected battery state of charge at destination" title="Step 4: Suggested charging stops including expected battery state of charge at destination">
     </a>
     <figcaption><h4>Step 4: Suggested charging stops including expected battery state of charge at destination</h4></figcaption>
 </figure>
@@ -90,7 +90,7 @@ In the below set of images, you see how it is to search and create a route going
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search5.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search5s.jpg"
-        alt="Step 5: Planned route" title="Step 5: Planned route">
+        class="img-fluid" alt="Step 5: Planned route" title="Step 5: Planned route">
     </a>
     <figcaption><h4>Step 5: Planned route</h4></figcaption>
 </figure>
@@ -106,7 +106,7 @@ The Navigation system also supports presenting the range on the map. The blue ar
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/range.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/ranges.jpg"
-        alt="The Range indicated with the blue area" title="The Range indicated with the blue area">
+        class="img-fluid" alt="The Range indicated with the blue area" title="The Range indicated with the blue area">
     </a>
     <figcaption><h4>The Range indicated with the blue area</h4></figcaption>
 </figure>
@@ -114,7 +114,7 @@ The Navigation system also supports presenting the range on the map. The blue ar
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/planet.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/planets.jpg"
-        alt="You can cover the whole planet with your all-electric Audi" title="You can cover the whole planet with your all-electric Audi">
+        class="img-fluid" alt="You can cover the whole planet with your all-electric Audi" title="You can cover the whole planet with your all-electric Audi">
     </a>
     <figcaption><h4>You can cover the whole planet with your all-electric Audi</h4></figcaption>
 </figure>
@@ -126,7 +126,7 @@ You can get voice guidance during navigation.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/voiceguidance.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/voiceguidances.jpg"
-        alt="You can control how much voice guidance you need" title="You can control how much voice guidance you need">
+        class="img-fluid" alt="You can control how much voice guidance you need" title="You can control how much voice guidance you need">
     </a>
     <figcaption><h4>You can control how much voice guidance you need</h4></figcaption>
 </figure>
@@ -160,7 +160,7 @@ With Smartphone Interface you can add extra navigation support through apps like
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/smartphoneinterface.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/smartphoneinterfaces.jpg"
-        alt="Waze navigation combined with incar navigation" title="Waze navigation combined with incar navigation">
+        class="img-fluid" alt="Waze navigation combined with incar navigation" title="Waze navigation combined with incar navigation">
     </a>
     <figcaption><h4>Waze navigation combined with incar navigation</h4></figcaption>
 </figure>

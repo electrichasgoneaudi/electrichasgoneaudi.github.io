@@ -40,7 +40,7 @@ Det er derfor vi elsker Audi og derfor ønsker vi å fokusere energien vår og d
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/about/about_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/about/about_1s.jpg" alt="Audi ladehub" title="Audi ladehub">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/about/about_1s.jpg" class="img-fluid" alt="Audi ladehub" title="Audi ladehub">
     </a>
     <figcaption><h4>Audi blir helt elektrisk</h4></figcaption>
 </figur>

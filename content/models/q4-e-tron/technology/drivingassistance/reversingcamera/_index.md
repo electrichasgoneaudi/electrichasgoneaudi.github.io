@@ -9,7 +9,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/reversingcamera/rearviewcamera.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/reversingcamera/rearviewcameras.jpg"
-        alt="Reversing camera" title="Reversing camera">
+        class="img-fluid" alt="Reversing camera" title="Reversing camera">
     </a>
     <figcaption><h4>Reversing camera</h4></figcaption>
 </figure>
@@ -21,7 +21,7 @@ The blue pictured surface in the camera image indicates where the vehicle will b
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/reversingcamera/camera.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/reversingcamera/cameras.jpg"
-        alt="Reversing camera" title="Reversing camera">
+        class="img-fluid" alt="Reversing camera" title="Reversing camera">
     </a>
     <figcaption><h4>Reversing camera</h4></figcaption>
 </figure>
@@ -29,7 +29,7 @@ The blue pictured surface in the camera image indicates where the vehicle will b
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/reversingcamera/camera3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/reversingcamera/camera3s.jpg"
-        alt="The camera has cleaning function." title="The camera has cleaning function.">
+        class="img-fluid" alt="The camera has cleaning function." title="The camera has cleaning function.">
     </a>
     <figcaption><h4>The camera has cleaning function.</h4></figcaption>
 </figure>

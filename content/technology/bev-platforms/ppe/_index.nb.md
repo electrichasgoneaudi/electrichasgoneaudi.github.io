@@ -16,7 +16,7 @@ segmenter.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-1s.jpg"
-        alt="A6 e-tron" title="A6 e-tron">
+        class="img-fluid" alt="A6 e-tron" title="A6 e-tron">
     </a>
     <figcaption><h4>A6 e-tron</h4></figcaption>
 </figure>
@@ -32,7 +32,7 @@ den øvre mellomklasseklassen til luksusklassen som SUV-er, Sportbacks, Avants o
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/macan.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/macans.jpg"
-        alt="Porsche Macan prototype basert på PPE" title="Porsche Macan prototype basert på PPE">
+        class="img-fluid" alt="Porsche Macan prototype basert på PPE" title="Porsche Macan prototype basert på PPE">
     </a>
     <figcaption><h4>Porsche Macan prototype basert på PPE</h4></figcaption>
 </figure>
@@ -47,7 +47,7 @@ Diagrammet nedenfor viser forskjellene mellom modeller som vil leveres på PPE o
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/comparativeperformance.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/comparativeperformances.png" alt="PPE modellene sammelignet med J1 og MEB modeller" title="PPE modellene sammelignet med J1 og MEB modeller">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/comparativeperformances.png" class="img-fluid" alt="PPE modellene sammelignet med J1 og MEB modeller" title="PPE modellene sammelignet med J1 og MEB modeller">
     </a>
     <figcaption><h4>PPE modellene sammelignet med J1 og MEB modeller</h4></figcaption>
 </figure>
@@ -89,7 +89,7 @@ Audi og Porsche vil gjenbruke mange av delene mellom de forskjellige modellene.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/part.png">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/parts.png" 
-        alt="Gjenbruk av deler mellom modellene" title="Gjenbruk av deler mellom modellene">
+        class="img-fluid" alt="Gjenbruk av deler mellom modellene" title="Gjenbruk av deler mellom modellene">
     </a>
     <figcaption><h4>Gjenbruk av deler mellom modellene</h4></figcaption>
 </figure>
@@ -108,7 +108,7 @@ De første modellene på denne plattformen kommer med to batteristørrelser.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/battery.png">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/batterys.png"
-        alt="PPE-battery with 12 modules" title="PPE-battery with 12 modules">
+        class="img-fluid" alt="PPE-battery with 12 modules" title="PPE-battery with 12 modules">
     </a>
     <figcaption><h4>PPE-battery with 12 modules</h4></figcaption>
 </figure>
@@ -127,7 +127,7 @@ Modeller basert på PPE vil bli levert med ulike motoroppsett i kombinasjon med 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/motors.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/motorss.jpg"
-        alt="PPE Motors" title="PPE Motors">
+        class="img-fluid" alt="PPE Motors" title="PPE Motors">
     </a>
     <figcaption><h4>PPE Motors</h4></figcaption>
 </figure>
@@ -142,7 +142,7 @@ I 2020 hadde Audi en presentasjon der de diskuterte noen av forbedringene av den
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/ppepresentation2.png">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/ppepresentation2s.png"
-        alt="PPE vs MLB evo" title="PPE vs MLB evo">
+        class="img-fluid" alt="PPE vs MLB evo" title="PPE vs MLB evo">
     </a>
     <figcaption><h4>PPE vs MLB evo</h4></figcaption>
 </figure>

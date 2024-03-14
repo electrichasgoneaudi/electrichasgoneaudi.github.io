@@ -12,7 +12,7 @@ Hjulopphengene er utformet som en sporty dobbel bærearmkonstruksjon. Den har kl
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/suspensions1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/suspensions1s.jpg"
-        alt="Støtdempere" title="Støtdempere">
+        class="img-fluid" alt="Støtdempere" title="Støtdempere">
     </a>
     <figcaption><h4>Støtdempere</h4></figcaption>
 </figure>
@@ -22,7 +22,7 @@ Som en del av den valgfrie dynamiske pakken med id **PA2** på Audi e-tron GT og
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/4wheelsteering.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/4wheelsteerings.jpg"
-        alt="Audi e-tron GT 4-hjulsstyring" title="Audi e-tron GT 4-hjulsstyring">
+        class="img-fluid" alt="Audi e-tron GT 4-hjulsstyring" title="Audi e-tron GT 4-hjulsstyring">
     </a>
     <figcaption><h4>Audi e-tron GT 4-hjulsstyring</h4></figcaption>
 </figure>
@@ -34,7 +34,7 @@ Mens den adaptive luftfjæringen er ekstrautstyr i Audi e-tron GT quattro, komme
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/suspension3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/suspension3s.jpg"
-        alt="3-kammer luftfjæring" title="3-kammer luftfjæring">
+        class="img-fluid" alt="3-kammer luftfjæring" title="3-kammer luftfjæring">
     </a>
     <figcaption><h4>3-kammer luftfjæring</h4></figcaption>
 </figure>
@@ -44,7 +44,7 @@ Luftfjæringen kan justere kroppen til forskjellige høyder. Den senker kroppen 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/suspension2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/suspension2s.jpg"
-        alt="3-kammer luftfjæring" title="3-kammer luftfjæring">
+        class="img-fluid" alt="3-kammer luftfjæring" title="3-kammer luftfjæring">
     </a>
     <figcaption><h4>3-kammer luftfjæring</h4></figcaption>
 </figure>
@@ -54,7 +54,7 @@ Diagrammet under viser høyde på dempere basert på innstilling og fart.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/ridelevel.png">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/ridelevels.png"
-        alt="Understellhøyde Audi e-tron GT med adaptive luftdepmere" title="Understellhøyde Audi e-tron GT med adaptive luftdepmere">
+        class="img-fluid" alt="Understellhøyde Audi e-tron GT med adaptive luftdepmere" title="Understellhøyde Audi e-tron GT med adaptive luftdepmere">
     </a>
     <figcaption><h4>Understellshøyde Audi e-tron GT med adaptive luftdepmere</h4></figcaption>
 </figure>
@@ -66,7 +66,7 @@ I Audi drive select dynamisk håndteringssystem (standard) kan sjåføren spesif
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/driveselect_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/driveselect_1s.jpg"
-        alt="Drive Select-meny" title="Drive Select-meny">
+        class="img-fluid" alt="Drive Select-meny" title="Drive Select-meny">
     </a>
     <figcaption><h4>Drive Select-meny</h4></figcaption>
 </figure>
@@ -89,7 +89,7 @@ Hvis du ønsker å senke Audi e-tron GT finnes det 3. part løsninger.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering1s.jpg"
-        alt="Audi e-tron GT with Ghost Links" title="Audi e-tron GT with Ghost Links">
+        class="img-fluid" alt="Audi e-tron GT with Ghost Links" title="Audi e-tron GT with Ghost Links">
     </a>
     <figcaption><h4>Audi e-tron GT med Ghost Links - 25mm senket</h4></figcaption>
 </figure>
@@ -97,7 +97,7 @@ Hvis du ønsker å senke Audi e-tron GT finnes det 3. part løsninger.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering2s.jpg"
-        alt="Audi e-tron GT with Ghost Links" title="Audi e-tron GT with Ghost Links">
+        class="img-fluid" alt="Audi e-tron GT with Ghost Links" title="Audi e-tron GT with Ghost Links">
     </a>
     <figcaption><h4>Audi e-tron GT med Ghost Links - 25mm senket</h4></figcaption>
 </figure>
@@ -105,7 +105,7 @@ Hvis du ønsker å senke Audi e-tron GT finnes det 3. part løsninger.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering3s.jpg"
-        alt="Audi e-tron GT with Ghost Links" title="Audi e-tron GT with Ghost Links">
+        class="img-fluid" alt="Audi e-tron GT with Ghost Links" title="Audi e-tron GT with Ghost Links">
     </a>
     <figcaption><h4>Audi e-tron GT med Ghost Links - 25mm senket</h4></figcaption>
 </figure>

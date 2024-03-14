@@ -9,7 +9,7 @@ e-tron GT quattro kommer som standard med stålskiver med en diameter på 360 mi
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/brakes/brakes2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/brakes/brakes2s.jpg" alt="Carbid bremser" title="Carbid bremser">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/brakes/brakes2s.jpg" class="img-fluid" alt="Carbid bremser" title="Carbid bremser">
     </a>
     <figcaption><h4>Carbid bremser</h4></figcaption>
 </figure>
@@ -18,7 +18,7 @@ e-tron GT quattro kommer som standard med stålskiver med en diameter på 360 mi
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/brakes/brakes1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/brakes/brakes1s.jpg" alt="Keramiske bremser" title="Keramiske bremser">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/brakes/brakes1s.jpg" class="img-fluid" alt="Keramiske bremser" title="Keramiske bremser">
     </a>
     <figcaption><h4>Keramiske bremser</h4></figcaption>
 </figure>

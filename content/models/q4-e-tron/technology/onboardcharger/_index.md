@@ -14,7 +14,7 @@ In the US the charging port has a [J1772 connector](https://en.wikipedia.org/wik
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/onboardcharger/chargeport_right.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/onboardcharger/chargeport_rights.jpg" alt="Type 2 Chargeport" title="Type 2 Chargeport">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/onboardcharger/chargeport_rights.jpg" class="img-fluid" alt="Type 2 Chargeport" title="Type 2 Chargeport">
     </a>
     <figcaption><h4>Type 2 Chargeport</h4></figcaption>
 </figure>
@@ -27,7 +27,7 @@ In the illustration below you see the location of the charge units.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/onboardcharger/electricdrivetrain.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/onboardcharger/electricdrivetrains.jpg" alt="Electric drivetrain with chargeport and AC charger" title="Electric drivetrain with chargeport and AC charger">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/onboardcharger/electricdrivetrains.jpg" class="img-fluid" alt="Electric drivetrain with chargeport and AC charger" title="Electric drivetrain with chargeport and AC charger">
     </a>
     <figcaption><h4>Electric drivetrain with chargeport and AC charger</h4></figcaption>
 </figure>

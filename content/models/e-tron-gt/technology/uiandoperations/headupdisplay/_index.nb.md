@@ -10,7 +10,7 @@ Head-up-displayet projiserer informasjon som er relevant for sjåføren som symb
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/headupdisplay/headup.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/headupdisplay/headups.jpg"
-        alt="Heads up display på Audi e-tron GT"" title="Heads up display på Audi e-tron GT"">
+        class="img-fluid" alt="Heads up display på Audi e-tron GT"" title="Heads up display på Audi e-tron GT"">
     </a>
     <figcaption><h4>Heads up display på Audi e-tron GT"</h4></figcaption>
 </figure>

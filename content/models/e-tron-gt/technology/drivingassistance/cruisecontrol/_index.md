@@ -9,7 +9,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/cruisecontrol/cruisecontrol.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/cruisecontrol/cruisecontrols.jpg"
-        alt="Cruise control stalk" title="Cruise control stalk">
+        class="img-fluid" alt="Cruise control stalk" title="Cruise control stalk">
     </a>
     <figcaption><h4>Cruise control stalk</h4></figcaption>
 </figure>

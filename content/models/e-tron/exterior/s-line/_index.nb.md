@@ -17,21 +17,21 @@ opplyste dørterskellister i aluminium har en #S-logo.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/blackoptics_florett.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/blackoptics_floretts.jpg" alt="Svart optikk - Florett Silver standard foran" title="Svart optikk - Florett Silver standard foran">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/blackoptics_floretts.jpg" class="img-fluid" alt="Svart optikk - Florett Silver standard foran" title="Svart optikk - Florett Silver standard foran">
     </a>
     <figcaption><h4>Svart optikk - Florett Silver standard foran</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/blackoptics_florett_sline.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/blackoptics_florett_slines.jpg" alt="Svart optikk - Florett Silver S-Line foran" title="Svart optikk - Florett Silver S-Line foran">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/blackoptics_florett_slines.jpg" class="img-fluid" alt="Svart optikk - Florett Silver S-Line foran" title="Svart optikk - Florett Silver S-Line foran">
     </a>
     <figcaption><h4>Svart optikk - Florett Silver S-Line foran</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/slinebadge.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/slinebadges.jpg" alt="S-Line-merke" title="S-Line-merke">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/slinebadges.jpg" class="img-fluid" alt="S-Line-merke" title="S-Line-merke">
     </a>
     <figcaption><h4>S-Line-merke</h4></figcaption>
 </figure>
@@ -41,7 +41,7 @@ Den bakre diffusoren har et mer sporty og dynamisk utseende.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/rear-standard.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/rear-standards.jpg"
-        alt="Standard rear" title="Standard rear">
+        class="img-fluid" alt="Standard rear" title="Standard rear">
     </a>
     <figcaption><h4>Standard bak</h4></figcaption>
 </figure>
@@ -49,7 +49,7 @@ Den bakre diffusoren har et mer sporty og dynamisk utseende.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/rear-sline.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/rear-slines.jpg"
-        alt="S-Line bak med mer sporty diffusor" title="S-Line bak med mer sporty diffusor">
+        class="img-fluid" alt="S-Line bak med mer sporty diffusor" title="S-Line bak med mer sporty diffusor">
     </a>
     <figcaption><h4>S-Line bak med mer sporty diffusor</h4></figcaption>
 </figure>
@@ -65,7 +65,7 @@ Den bakre diffusoren har et mer sporty og dynamisk utseende.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/swheelarcher.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/swheelarchers.jpg"
-        alt="S hjulbue" title="S hjulbue">
+        class="img-fluid" alt="S hjulbue" title="S hjulbue">
     </a>
     <figcaption><h4>S hjulbue</h4></figcaption>
 </figure>
@@ -73,7 +73,7 @@ Den bakre diffusoren har et mer sporty og dynamisk utseende.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/srear.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/srears.jpg"
-        alt="S bak med s-line diffusor og S-merkee" title="S bak med s-line diffusor og S-merke">
+        class="img-fluid" alt="S bak med s-line diffusor og S-merkee" title="S bak med s-line diffusor og S-merke">
     </a>
     <figcaption><h4>S bak med s-line diffusor og S-merke</h4></figcaption>
 </figure>

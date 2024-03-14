@@ -9,7 +9,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/exitwarning/exitwarning.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/exitwarning/exitwarnings.jpg"
-        alt="Exit warning" title="Exit warning">
+        class="img-fluid" alt="Exit warning" title="Exit warning">
     </a>
     <figcaption><h4>Exit warning Audi e-tron</h4></figcaption>
 </figure>

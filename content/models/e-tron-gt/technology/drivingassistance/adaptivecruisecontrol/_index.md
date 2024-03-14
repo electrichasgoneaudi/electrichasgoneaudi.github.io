@@ -18,7 +18,7 @@ The included speed limiter helps not to exceed a previously set maximum speed wh
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/adaptivecruisecontrol/cruisecontrol.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/adaptivecruisecontrol/cruisecontrols.jpg"
-        alt="The cruise control handle controls the function" title="The cruise control handle controls the function">
+        class="img-fluid" alt="The cruise control handle controls the function" title="The cruise control handle controls the function">
     </a>
     <figcaption><h4>The cruise control handle controls the function</h4></figcaption>
 </figure>

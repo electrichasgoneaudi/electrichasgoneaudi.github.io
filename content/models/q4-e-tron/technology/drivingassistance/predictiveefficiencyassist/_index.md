@@ -9,7 +9,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/audiq4_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/audiq4_1s.jpg"
-        alt="Audi Q4 e-tron equipped with predictive efficiency assist." title="Audi Q4 e-tron equipped with predictive efficiency assist.">
+        class="img-fluid" alt="Audi Q4 e-tron equipped with predictive efficiency assist." title="Audi Q4 e-tron equipped with predictive efficiency assist.">
     </a>
     <figcaption><h4>Audi Q4 e-tron equipped with predictive efficiency assist.</h4></figcaption>
 </figure>
@@ -31,7 +31,7 @@ Symbols for speed limits, bends, roundabouts, towns, or downhill slopes that ind
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/efficiencyassist_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/efficiencyassist_1s.jpg"
-        alt="Predictive efficiency assist in Audi Q4 e-tron, recommending slowing down because of a roundabout." title="Predictive efficiency assist in Audi Q4 e-tron, recommending slowing down because of a roundabout.">
+        class="img-fluid" alt="Predictive efficiency assist in Audi Q4 e-tron, recommending slowing down because of a roundabout." title="Predictive efficiency assist in Audi Q4 e-tron, recommending slowing down because of a roundabout.">
     </a>
     <figcaption><h4>Predictive efficiency assist in Audi Q4 e-tron, recommending slowing down because of a roundabout.</h4></figcaption>
 </figure>

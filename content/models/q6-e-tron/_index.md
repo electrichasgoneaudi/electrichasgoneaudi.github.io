@@ -16,7 +16,7 @@ This article summarizes what we know and expect from the new model. If you want 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_1_st.jpg" alt="Audi Q6 prototype testdrive" title="Audi Q6 prototype testdrive">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_1_st.jpg" class="img-fluid" alt="Audi Q6 prototype testdrive" title="Audi Q6 prototype testdrive">
     </a>
     <figcaption><h4>Audi Q6 prototype testdrive</h4></figcaption>
 </figure>
@@ -38,7 +38,7 @@ The Audi Q6 e-tron will be available with different seat options. From standard 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_2_st.jpg" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_2_st.jpg" class="img-fluid" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
     </a>
     <figcaption><h4>Audi Q6 e-tron interior</h4></figcaption>
 </figure>
@@ -46,7 +46,7 @@ The Audi Q6 e-tron will be available with different seat options. From standard 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_3_st.jpg" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_3_st.jpg" class="img-fluid" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
     </a>
     <figcaption><h4>Audi Q6 e-tron interior</h4></figcaption>
 </figure>
@@ -54,14 +54,14 @@ The Audi Q6 e-tron will be available with different seat options. From standard 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_4_st.jpg" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_4_st.jpg" class="img-fluid" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
     </a>
     <figcaption><h4>Audi Q6 e-tron interior</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_5_st.jpg" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_5_st.jpg" class="img-fluid" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
     </a>
     <figcaption><h4>Audi Q6 e-tron interior</h4></figcaption>
 </figure>
@@ -69,7 +69,7 @@ The Audi Q6 e-tron will be available with different seat options. From standard 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_6_st.jpg" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_6_st.jpg" class="img-fluid" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
     </a>
     <figcaption><h4>Audi Q6 e-tron interior</h4></figcaption>
 </figure>
@@ -78,7 +78,7 @@ The Audi Q6 e-tron will be available with different seat options. From standard 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_7.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_7_st.jpg" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_7_st.jpg" class="img-fluid" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
     </a>
     <figcaption><h4>Audi Q6 e-tron interior</h4></figcaption>
 </figure>
@@ -86,7 +86,7 @@ The Audi Q6 e-tron will be available with different seat options. From standard 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_8.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_8_st.jpg" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_8_st.jpg" class="img-fluid" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
     </a>
     <figcaption><h4>Audi Q6 e-tron interior</h4></figcaption>
 </figure>
@@ -137,7 +137,7 @@ Audi will use only the latest-generation PSM motors that have several improvemen
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_2_st.jpg" alt="Audi Q6 prototype wintertesting" title="Audi Q6 prototype wintertesting">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_2_st.jpg" class="img-fluid" alt="Audi Q6 prototype wintertesting" title="Audi Q6 prototype wintertesting">
     </a>
     <figcaption><h4>Audi Q6 prototype wintertesting</h4></figcaption>
 </figure>
@@ -158,7 +158,7 @@ With air suspension, depending on the speed, the body can be lowered in combinat
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain1_st.jpg" alt="PPE drivetrain" title="PPE drivetrain">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain1_st.jpg" class="img-fluid" alt="PPE drivetrain" title="PPE drivetrain">
     </a>
     <figcaption><h4>PPE drivetrain</h4></figcaption>
 </figure>
@@ -171,7 +171,7 @@ The Q6 e-tron has a completely revised double wishbone axle with a detached stru
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain2_st.jpg" alt="PPE drivetrain" title="PPE drivetrain">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain2_st.jpg" class="img-fluid" alt="PPE drivetrain" title="PPE drivetrain">
     </a>
     <figcaption><h4>PPE drivetrain</h4></figcaption>
 </figure>
@@ -188,7 +188,7 @@ Audi Q6 e-tron will have new light technology. Read all about it in our [separat
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_4_st.jpg" alt="Audi Q6 e-tron head lights" title="Audi Q6 e-tron head lights">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_4_st.jpg" class="img-fluid" alt="Audi Q6 e-tron head lights" title="Audi Q6 e-tron head lights">
     </a>
     <figcaption><h4>Audi Q6 e-tron head lights</h4></figcaption>
 </figure>
@@ -200,7 +200,7 @@ For this new MMI system, Audi will use [Android Automotive](https://source.andro
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_1_st.jpg" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_1_st.jpg" class="img-fluid" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
     </a>
     <figcaption><h4>Audi Q6 e-tron with 14" infotainment, 12" driver display and 11" passenger screen</h4></figcaption>
 </figure>
@@ -211,7 +211,7 @@ Electrichasgoneaudi.net expects the Audi Q6 e-tron to have a luggage compartment
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype6s.jpg" alt="Audi Q6 e-tron under the hood" title="Audi Q6 e-tron under the hood">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype6s.jpg" class="img-fluid" alt="Audi Q6 e-tron under the hood" title="Audi Q6 e-tron under the hood">
     </a>
     <figcaption><h4>Audi Q6 e-tron under the hood</h4></figcaption>
 </figure>
@@ -275,7 +275,7 @@ See below for video and images of the Q6 e-tron test-driving in winter.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_1_st.jpg" alt="Audi Q6 prototype wintertesting" title="Audi Q6 prototype wintertesting">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_1_st.jpg" class="img-fluid" alt="Audi Q6 prototype wintertesting" title="Audi Q6 prototype wintertesting">
     </a>
     <figcaption><h4>Audi Q6 prototype wintertesting</h4></figcaption>
 </figure>
@@ -283,7 +283,7 @@ See below for video and images of the Q6 e-tron test-driving in winter.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_3_st.jpg" alt="Audi Q6 prototype wintertesting" title="Audi Q6 prototype wintertesting">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_3_st.jpg" class="img-fluid" alt="Audi Q6 prototype wintertesting" title="Audi Q6 prototype wintertesting">
     </a>
     <figcaption><h4>Audi Q6 prototype wintertesting</h4></figcaption>
 </figure>
@@ -291,14 +291,14 @@ See below for video and images of the Q6 e-tron test-driving in winter.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_4_st.jpg" alt="Audi Q6 prototype wintertesting" title="Audi Q6 prototype wintertesting">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_4_st.jpg" class="img-fluid" alt="Audi Q6 prototype wintertesting" title="Audi Q6 prototype wintertesting">
     </a>
     <figcaption><h4>Audi Q6 prototype wintertesting</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_5_st.jpg" alt="Audi Q6 prototype wintertesting" title="Audi Q6 prototype wintertesting">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_5_st.jpg" class="img-fluid" alt="Audi Q6 prototype wintertesting" title="Audi Q6 prototype wintertesting">
     </a>
     <figcaption><h4>Audi Q6 prototype wintertesting</h4></figcaption>
 </figure>

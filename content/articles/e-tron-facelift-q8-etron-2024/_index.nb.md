@@ -10,7 +10,7 @@ I denne artikkelen finner du de fleste detaljene og høyoppløselige bilder (kli
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/audi_sq8_front_article.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/audi_sq8_front_article_st.jpeg" alt="Audi e-tron drivetrain" title="Audi e-tron drivetrain">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/audi_sq8_front_article_st.jpeg" class="img-fluid" alt="Audi e-tron drivetrain" title="Audi e-tron drivetrain">
     </a>
     <figcaption><h4>Audi SQ8 e-tron</h4></figcaption>
 </figure>
@@ -37,7 +37,7 @@ Ved å kalle denne modellen Q8, sier Audi tydelig at Audi Q8 e-tron er toppmodel
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/audi_sq8_article_newface.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/audi_sq8_article_newface_st.jpg" alt="Audi SQ8 e-tron grill" title="Audi SQ8 e-tron grill">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/audi_sq8_article_newface_st.jpg" class="img-fluid" alt="Audi SQ8 e-tron grill" title="Audi SQ8 e-tron grill">
     </a>
     <figcaption><h4>Audi SQ8 e-tron front</h4></figcaption>
 </figure>
@@ -48,7 +48,7 @@ Som på Audi e-tron, kan du bestille Audi Q8 e-tron med [svart optikk eller stan
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/light_demo_sq8.gif">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/light_demo_sq8_st.gif" alt="Audi SQ8 e-tron with new lights in single frame grille" title="Audi SQ8 e-tron with new lights in single frame grille">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/light_demo_sq8_st.gif" class="img-fluid" alt="Audi SQ8 e-tron with new lights in single frame grille" title="Audi SQ8 e-tron with new lights in single frame grille">
     </a>
     <figcaption><h4>Audi SQ8 e-tron med lys i grill</h4></figcaption>
 </figure>
@@ -57,7 +57,7 @@ Som en prestisjefylt elektrisk SUV-modell fra Audi, innleder Q8 e-tron den nye b
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/audi_sq8_b_pillar.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/audi_sq8_b_pillar_st.jpeg" alt="Model lettering with an Audi logo on the B-pillar" title="Model lettering with an Audi logo on the B-pillar">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/audi_sq8_b_pillar_st.jpeg" class="img-fluid" alt="Model lettering with an Audi logo on the B-pillar" title="Model lettering with an Audi logo on the B-pillar">
     </a>
     <figcaption><h4>Modellbetegnelse med Audi-logo på B-stolpenr</h4></figcaption>
 </figure>
@@ -68,7 +68,7 @@ Nye felger finnes i alle størrelser for alle varianter, og mange av Audi e-tron
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/new_20_wheels_audi_q8_e-tron.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/new_20_wheels_audi_q8_e-tron_st.jpeg" alt="Audi Q8 55 Sportback e-tron with new 22 inch wheels" title="Audi Q8 55 Sportback e-tron with new 22 tommers felger wheels">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/new_20_wheels_audi_q8_e-tron_st.jpeg" class="img-fluid" alt="Audi Q8 55 Sportback e-tron with new 22 inch wheels" title="Audi Q8 55 Sportback e-tron with new 22 tommers felger wheels">
     </a>
     <figcaption><h4>Audi Q8 55 Sportback e-tron med nye 22" felger</h4></figcaption>
 </figure>
@@ -116,7 +116,7 @@ Dette diagrammet viser rekkevidden for alle helelektriske SUV til Audi med minim
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/range_km.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/range_km_st.png" alt="WLTP range all electric Audi SUV" title="WLTP range all electric Audi SUVt">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/range_km_st.png" class="img-fluid" alt="WLTP range all electric Audi SUV" title="WLTP range all electric Audi SUVt">
     </a>
     <figcaption><h4>WLTP range all electric Audi SUV</h4></figcaption>
 </figure>
@@ -140,7 +140,7 @@ Diagrammet viser forbruket for alle helelektriske SUV fra Audi.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/consumption_km.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/consumption_km_st.png" alt="WLTP range all electric Audi SUV" title="WLTP range all electric Audi SUVt">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/consumption_km_st.png" class="img-fluid" alt="WLTP range all electric Audi SUV" title="WLTP range all electric Audi SUVt">
     </a>
     <figcaption><h4>WLTP consumption all electric Audi SUV</h4></figcaption>
 </figure>
@@ -231,7 +231,7 @@ I stedet for 12 viklinger som genererer det elektromagnetiske feltet, er det nå
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/new_motor_windings.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/new_motor_windings_st.jpg" alt="Updated rear motor Audi Q8 e-tron" title="Updated rear motor Audi Q8 e-tron">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/new_motor_windings_st.jpg" class="img-fluid" alt="Updated rear motor Audi Q8 e-tron" title="Updated rear motor Audi Q8 e-tron">
     </a>
     <figcaption><h4>Updated rear motor Audi Q8 e-tron</h4></figcaption>
 </figure>
@@ -267,7 +267,7 @@ Grillen har et selvforseglingssystem og elektriske persienner som automatisk luk
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/grille_holes.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/grille_holes_st.jpeg" alt="Audi Q8 e-tron grille with shutters" title="Audi Q8 e-tron grille with shutters">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/grille_holes_st.jpeg" class="img-fluid" alt="Audi Q8 e-tron grille with shutters" title="Audi Q8 e-tron grille with shutters">
     </a>
     <figcaption><h4>Audi Q8 e-tron grille with shutters</h4></figcaption>
 </figure>
@@ -294,7 +294,7 @@ Q8 e-tron leveres valgfritt med [digital Matrix LED-frontlykter](../../models/q8
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/digitalmatix.gif">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/digitalmatix_st.gif" alt="Digital Matrix" title="Digital Matrix">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/digitalmatix_st.gif" class="img-fluid" alt="Digital Matrix" title="Digital Matrix">
     </a>
     <figcaption><h4>Digital Matrix</h4></figcaption>
 </figure>
@@ -320,7 +320,7 @@ De to store høyoppløselige skjermene – den øverste med en 10,1-tommers diag
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/screens_mmi.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/screens_mmi.jpg" alt="Audi Q8 e-tron MMI and Virtual cockpit" title="Audi Q8 e-tron MMI and Virtual cockpit">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/screens_mmi.jpg" class="img-fluid" alt="Audi Q8 e-tron MMI and Virtual cockpit" title="Audi Q8 e-tron MMI and Virtual cockpit">
     </a>
     <figcaption><h4>Audi Q8 e-tron MMI and Virtual cockpit</h4></figcaption>
 </figure>

@@ -18,7 +18,7 @@ The engine starts when pressing the brake pedal and setting the car in gear. It 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/startbutton.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/startbuttons.jpg"
-        alt="Center console with start/stop button" title="Center console with start/stop button">
+        class="img-fluid" alt="Center console with start/stop button" title="Center console with start/stop button">
     </a>
     <figcaption><h4>Center console with start/stop button</h4></figcaption>
 </figure>
@@ -40,7 +40,7 @@ If you do not have a free hand, you can use a foot gesture (kick movement) at th
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/kicksensor.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/kicksensors.jpg"
-        alt="You can open the tailgate with the advance key by kicking the foot under the tailgate." title="You can open the tailgate with the advance key by kicking the foot under the tailgate.">
+        class="img-fluid" alt="You can open the tailgate with the advance key by kicking the foot under the tailgate." title="You can open the tailgate with the advance key by kicking the foot under the tailgate.">
     </a>
     <figcaption><h4>You can open the tailgate with the advance key by kicking the foot under the tailgate.</h4></figcaption>
 </figure>
@@ -60,7 +60,7 @@ You can configure the locking system in Audi Q4 e-tron MMI.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/settings1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/settings1s.jpg"
-        alt="Central locking settings in Audi Q4 e-tron MMI" title="Central locking settings in Audi Q4 e-tron MMI">
+        class="img-fluid" alt="Central locking settings in Audi Q4 e-tron MMI" title="Central locking settings in Audi Q4 e-tron MMI">
     </a>
     <figcaption><h4>Central locking settings in Audi Q4 e-tron MMI</h4></figcaption>
 </figure>

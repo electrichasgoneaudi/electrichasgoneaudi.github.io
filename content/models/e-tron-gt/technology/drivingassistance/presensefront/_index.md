@@ -9,7 +9,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/presensefront/presencefront.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/presensefront/presencefronts.jpg"
-        alt="Audi pre sense front" title="Audi pre sense front">
+        class="img-fluid" alt="Audi pre sense front" title="Audi pre sense front">
     </a>
     <figcaption><h4>Audi pre sense front</h4></figcaption>
 </figure>

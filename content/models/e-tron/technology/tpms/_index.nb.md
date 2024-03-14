@@ -14,7 +14,7 @@ Med direkte TPMS er det en lufttrykksensor i hvert dekk som kommuniserer med bil
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/tpms/tpms3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/tpms/tpms3s.jpg"
-        alt="Dekktrykkmålesystem" title="Dekktrykkmålesystem">
+        class="img-fluid" alt="Dekktrykkmålesystem" title="Dekktrykkmålesystem">
     </a>
     <figcaption><h4>Dekktrykkmålesystem</h4></figcaption>
 </figure>
@@ -24,7 +24,7 @@ Nedenfor ser du hvordan MMI indikerer at venstre fordekk har mye lavere trykk en
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/tpms/tpms1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/tpms/tpms1s.jpg"
-        alt="Venstre forhjul med lavere trykk" title="Venstre forhjul med lavere trykk">
+        class="img-fluid" alt="Venstre forhjul med lavere trykk" title="Venstre forhjul med lavere trykk">
     </a>
     <figcaption><h4>Venstre forhjul med lavere trykk</h4></figcaption>
 </figure>
@@ -32,7 +32,7 @@ Nedenfor ser du hvordan MMI indikerer at venstre fordekk har mye lavere trykk en
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/tpms/tpms2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/tpms/tpms2s.jpg"
-        alt="Dekktrykkmålesystem" title="Dekktrykkmålesystem">
+        class="img-fluid" alt="Dekktrykkmålesystem" title="Dekktrykkmålesystem">
     </a>
     <figcaption><h4>Dekktrykkmålesystem</h4></figcaption>
 </figure>
@@ -46,7 +46,7 @@ Følgende tabell viser riktig dekktrykk
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/tpms/correcttp.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/tpms/correcttps.jpg"
-        alt="Riktig dekktrykk Audi e-tron" title="Riktig dekktrykk Audi e-tron">
+        class="img-fluid" alt="Riktig dekktrykk Audi e-tron" title="Riktig dekktrykk Audi e-tron">
     </a>
     <figcaption><h4>Riktig dekktrykk Audi e-tron</h4></figcaption>
 </figure>

@@ -19,7 +19,7 @@ Audi forbedret drivverket for Audi Q8 e-tron med større batterier, forbedrede m
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/drivetrain.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/drivetrain_st.jpg" alt="Audi Q8 e-tron drivverk" title="Audi Q8 e-tron drivverk ">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/drivetrain_st.jpg" class="img-fluid" alt="Audi Q8 e-tron drivverk" title="Audi Q8 e-tron drivverk ">
     </a>
     <figcaption><h4>Audi Q8 e-tron drivverk</h4></figcaption>
 </figur>

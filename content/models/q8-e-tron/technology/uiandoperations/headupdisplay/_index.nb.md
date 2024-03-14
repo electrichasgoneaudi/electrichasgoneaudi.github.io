@@ -11,7 +11,7 @@ Head-up-displayet projiserer informasjon som er relevant for føreren som symbol
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/headupdisplay/headup.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/headupdisplay/headup.jpg"
-        alt="Heads up display på Audi Q8 e-tron" title="Heads up display på Audi Q8 e-tron">
+        class="img-fluid" alt="Heads up display på Audi Q8 e-tron" title="Heads up display på Audi Q8 e-tron">
     </a>
     <figcaption><h4>Heads up display på Audi Q8 e-tron</h4></figcaption>
 </figure>
@@ -21,7 +21,7 @@ Bildet projiseres på frontruten. Informasjonen ser ut til å sveve rundt to met
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/headupdisplay/headup2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/headupdisplay/headup2s.jpg"
-        alt="Headup med ruteinformasjon og effektiv assistent som foreslår å bremse ned" title="Headup med ruteinformasjon og effektiv assistent som foreslår å bremse ned">
+        class="img-fluid" alt="Headup med ruteinformasjon og effektiv assistent som foreslår å bremse ned" title="Headup med ruteinformasjon og effektiv assistent som foreslår å bremse ned">
     </a>
     <figcaption><h4>Headup med ruteinformasjon og effektiv assistent som foreslår å bremse ned</h4></figcaption>
 </figure>

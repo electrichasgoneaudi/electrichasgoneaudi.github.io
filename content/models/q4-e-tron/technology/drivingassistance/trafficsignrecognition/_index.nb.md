@@ -10,7 +10,7 @@ Innenfor systemets begrensninger registrerer systemet start og slutt på motorve
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/trafficsignrecognition/virtualcockpit.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/trafficsignrecognition/virtualcockpits.jpg"
-        alt="Trafikkskiltinformasjon i virtuell cockpit" title="Trafikkskiltinformasjon i virtuell cockpit">
+        class="img-fluid" alt="Trafikkskiltinformasjon i virtuell cockpit" title="Trafikkskiltinformasjon i virtuell cockpit">
     </a>
     <figcaption><h4>Trafikkskiltinformasjon i virtuell cockpit</h4></figcaption>
 </figure>

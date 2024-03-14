@@ -8,7 +8,7 @@ weight: 100006
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_1s.jpg" alt="Audi skysphere concept" title="Audi skysphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_1s.jpg" class="img-fluid" alt="Audi skysphere concept" title="Audi skysphere concept">
     </a>
     <figcaption><h4>Audi skysphere concept</h4></figcaption>
 </figure>
@@ -21,7 +21,7 @@ To give passengers the maximum amount of freedom, the Audi skysphere concept was
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_4s.jpg" alt="Audi skysphere concept Grand Touring mode" title="Audi skysphere concept Grand Touring mode">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_4s.jpg" class="img-fluid" alt="Audi skysphere concept Grand Touring mode" title="Audi skysphere concept Grand Touring mode">
     </a>
     <figcaption><h4>Audi skysphere concept sport mode</h4></figcaption>
 </figure>
@@ -30,7 +30,7 @@ With the touch of button, the driver can take advantage of their freedom and cho
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_3s.jpg" alt="Audi skysphere concept Grand Touring mode" title="Audi skysphere concept Grand Touring mode">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_3s.jpg" class="img-fluid" alt="Audi skysphere concept Grand Touring mode" title="Audi skysphere concept Grand Touring mode">
     </a>
     <figcaption><h4>Audi skysphere concept Grand Touring mode</h4></figcaption>
 </figure>
@@ -58,7 +58,7 @@ The vehicle features double wishbone axles in the front and the rear. The upper 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_7.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_7s.jpg" alt="Audi skysphere concept" title="Audi skysphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_7s.jpg" class="img-fluid" alt="Audi skysphere concept" title="Audi skysphere concept">
     </a>
     <figcaption><h4>Audi skysphere concept</h4></figcaption>
 </figure>
@@ -80,7 +80,7 @@ The rear end is also dominated by a digitally controlled LED surface that extend
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_6s.jpg" alt="Audi skysphere concept" title="Audi skysphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_6s.jpg" class="img-fluid" alt="Audi skysphere concept" title="Audi skysphere concept">
     </a>
     <figcaption><h4>Audi skysphere concept</h4></figcaption>
 </figure>
@@ -99,7 +99,7 @@ As a result, control elements such as the steering wheel and pedals can be swive
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_5s.jpg" alt="Audi skysphere concept" title="Audi skysphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_5s.jpg" class="img-fluid" alt="Audi skysphere concept" title="Audi skysphere concept">
     </a>
     <figcaption><h4>Audi skysphere concept</h4></figcaption>
 </figure>

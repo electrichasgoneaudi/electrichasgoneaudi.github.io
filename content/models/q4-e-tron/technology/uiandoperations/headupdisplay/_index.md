@@ -12,7 +12,7 @@ The field of view for the AR content from the driver’s perspective is equivale
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/headupdisplay/headup.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/headupdisplay/headups.jpg"
-        alt="Headup display" title="Headup display">
+        class="img-fluid" alt="Headup display" title="Headup display">
     </a>
     <figcaption><h4>Headup display</h4></figcaption>
 </figure>
@@ -24,7 +24,7 @@ The technical heart of the augmented reality head-up display is the picture gene
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/headupdisplay/headupunit.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/headupdisplay/headupunits.jpg"
-        alt="Headup display unit" title="Headup display unit">
+        class="img-fluid" alt="Headup display unit" title="Headup display unit">
     </a>
     <figcaption><h4>Headup display unit</h4></figcaption>
 </figure>
@@ -38,7 +38,7 @@ While performing its computing work, the AR Creator takes into account that ther
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/headupdisplay/headup2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/headupdisplay/headup2s.jpg"
-        alt="Headup display" title="Headup display">
+        class="img-fluid" alt="Headup display" title="Headup display">
     </a>
     <figcaption><h4>Headup display</h4></figcaption>
 </figure>
@@ -53,7 +53,7 @@ e-tron approaches a lane marking without the turn signal having been activated, 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/headupdisplay/headup3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/headupdisplay/headup3s.jpg"
-        alt="Headup display" title="Headup display">
+        class="img-fluid" alt="Headup display" title="Headup display">
     </a>
     <figcaption><h4>Headup display</h4></figcaption>
 </figure>

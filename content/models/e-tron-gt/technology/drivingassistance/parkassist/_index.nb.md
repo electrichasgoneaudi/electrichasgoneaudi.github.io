@@ -13,7 +13,7 @@ bilen.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/parkassist/parkassist.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/parkassist/parkassists.jpg"
-        alt="Du aktiverer søk etter parkeringsluker med en tast i midtkonsollen når parkeringshjelpen er slått på i displayet." title="Du aktiverer søk etter parkeringsluker med en tast i midtkonsollen når parkeringshjelpen er slått på i displayet.">
+        class="img-fluid" alt="Du aktiverer søk etter parkeringsluker med en tast i midtkonsollen når parkeringshjelpen er slått på i displayet." title="Du aktiverer søk etter parkeringsluker med en tast i midtkonsollen når parkeringshjelpen er slått på i displayet.">
     </a>
     <figcaption><h4>Du aktiverer søk etter parkeringsluker med en tast i midtkonsollen når parkeringshjelpen er slått på i displayet.</h4></figcaption>
 </figure>

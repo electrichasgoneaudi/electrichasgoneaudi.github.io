@@ -13,7 +13,7 @@ When using regenerative brakes, the rear and front motor (on Q4 45/50) are used 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/brakes/recuperation.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/brakes/recuperations.jpg"
-        alt="Audi Q4 e-tron recuperation" title="Audi Q4 e-tron recuperation">
+        class="img-fluid" alt="Audi Q4 e-tron recuperation" title="Audi Q4 e-tron recuperation">
     </a>
     <figcaption><h4>Audi Q4 e-tron recuperation</h4></figcaption>
 </figure>
@@ -54,7 +54,7 @@ Audi uses disk brakes for the front wheels.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/brakes/frontbrake.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/brakes/frontbrakes.jpg"
-        alt="Front brake" title="Front brake">
+        class="img-fluid" alt="Front brake" title="Front brake">
     </a>
     <figcaption><h4>Front brake</h4></figcaption>
 </figure>
@@ -64,7 +64,7 @@ On the rear wheels it uses drum brakes.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/brakes/rearbrake.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/brakes/rearbrakes.jpg"
-        alt="Rear brake" title="Rear brake">
+        class="img-fluid" alt="Rear brake" title="Rear brake">
     </a>
     <figcaption><h4>Rear brake</h4></figcaption>
 </figure>

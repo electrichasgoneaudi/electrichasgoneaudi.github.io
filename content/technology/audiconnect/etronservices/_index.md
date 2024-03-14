@@ -24,7 +24,7 @@ The car can be easily locked and unlocked using the smartphone via the myAudi ap
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/locking.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/lockings.jpg"
-        alt="You can lock and unlock the car from the myAudi app" title="You can lock and unlock the car from the myAudi app">
+        class="img-fluid" alt="You can lock and unlock the car from the myAudi app" title="You can lock and unlock the car from the myAudi app">
     </a>
     <figcaption><h4>You can lock and unlock the car from the myAudi app</h4></figcaption>
 </figure>
@@ -36,7 +36,7 @@ The car's parking position is shown on the map in the myAudi app on the smartpho
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/parkingposition.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/parkingpositions.jpg"
-        alt="Parking position" title="Parking position">
+        class="img-fluid" alt="Parking position" title="Parking position">
     </a>
     <figcaption><h4>Parking position</h4></figcaption>
 </figure>
@@ -56,7 +56,7 @@ e-tron's parking air conditioner can be controlled with the myAudi app.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/climatecontrol1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/climatecontrol1s.jpg"
-        alt="You can control temperature, window heating, and comfort climate if available" title="You can control temperature, window heating, and comfort climate if available">
+        class="img-fluid" alt="You can control temperature, window heating, and comfort climate if available" title="You can control temperature, window heating, and comfort climate if available">
     </a>
     <figcaption><h4>You can control temperature, window heating, and comfort climate if available</h4></figcaption>
 </figure>
@@ -64,7 +64,7 @@ e-tron's parking air conditioner can be controlled with the myAudi app.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/climatecontrol2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/climatecontrol2s.jpg"
-        alt="You can also set a timer on climate" title="You can also set a timer on climate">
+        class="img-fluid" alt="You can also set a timer on climate" title="You can also set a timer on climate">
     </a>
     <figcaption><h4>You can also set a timer on climate</h4></figcaption>
 </figure>
@@ -72,7 +72,7 @@ e-tron's parking air conditioner can be controlled with the myAudi app.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/climatecontrol3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/climatecontrol3s.jpg"
-        alt="When started it runs for 30 minutes" title="When started it runs for 30 minutes">
+        class="img-fluid" alt="When started it runs for 30 minutes" title="When started it runs for 30 minutes">
     </a>
     <figcaption><h4>When started it runs for 30 minutes</h4></figcaption>
 </figure>
@@ -80,7 +80,7 @@ e-tron's parking air conditioner can be controlled with the myAudi app.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/climatecontrol4.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/climatecontrol4s.jpg"
-        alt="You have also a quick start from the bottom menu" title="You have also a quick start from the bottom menu">
+        class="img-fluid" alt="You have also a quick start from the bottom menu" title="You have also a quick start from the bottom menu">
     </a>
     <figcaption><h4>You have also a quick start from the bottom menu</h4></figcaption>
 </figure>
@@ -88,7 +88,7 @@ e-tron's parking air conditioner can be controlled with the myAudi app.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/climatecontrol5.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/climatecontrol5s.jpg"
-        alt="quickstart options" title="quickstart options">
+        class="img-fluid" alt="quickstart options" title="quickstart options">
     </a>
     <figcaption><h4>quickstart options</h4></figcaption>
 </figure>
@@ -100,7 +100,7 @@ Get an overview of the electrical consumption, driving time, and driving distanc
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/drivingdata.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/drivingdatas.jpg"
-        alt="Driving data short-term memory" title="Driving data short-term memory">
+        class="img-fluid" alt="Driving data short-term memory" title="Driving data short-term memory">
     </a>
     <figcaption><h4>Driving data short-term memory</h4></figcaption>
 </figure>
@@ -108,7 +108,7 @@ Get an overview of the electrical consumption, driving time, and driving distanc
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/drivingdata2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/drivingdata2s.jpg"
-        alt="Driving data long-term memory" title="Driving data long-term memory">
+        class="img-fluid" alt="Driving data long-term memory" title="Driving data long-term memory">
     </a>
     <figcaption><h4>Driving data long-term memory</h4></figcaption>
 </figure>

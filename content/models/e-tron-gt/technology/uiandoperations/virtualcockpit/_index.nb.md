@@ -12,7 +12,7 @@ Displayet viser et bredt spekter av informasjon klart og i ryddig, skarp, svært
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/virtualcockpit/viewcontrol.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/virtualcockpit/viewcontrols.jpg"
-        alt="Virtuell cockpitvisning styres på rattet" title="Virtuell cockpitvisning styres på rattet">
+        class="img-fluid" alt="Virtuell cockpitvisning styres på rattet" title="Virtuell cockpitvisning styres på rattet">
     </a>
     <figcaption><h4>Virtuell cockpitvisning styres på rattet</h4></figcaption>
 </figure>
@@ -28,7 +28,7 @@ Modusen kan velges i MMI
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/virtualcockpit/virtualcockpit_settings.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/virtualcockpit/virtualcockpit_settingss.jpg"
-        alt="Virtual cockpit modes" title="Virtual cockpit modes">
+        class="img-fluid" alt="Virtual cockpit modes" title="Virtual cockpit modes">
     </a>
     <figcaption><h4>Virtual cockpit modes</h4></figcaption>
 </figure>
@@ -40,7 +40,7 @@ Nedenfor ser du noen av modusene og visningene som er tilgjengelige i Virtual Co
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/virtualcockpit/virtualcockpit_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/virtualcockpit/virtualcockpit_1s.jpg"
-        alt="Virtual cockpit" title="Virtual cockpit">
+        class="img-fluid" alt="Virtual cockpit" title="Virtual cockpit">
     </a>
     <figcaption><h4>Virtual cockpit</h4></figcaption>
 </figure>
@@ -48,7 +48,7 @@ Nedenfor ser du noen av modusene og visningene som er tilgjengelige i Virtual Co
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/virtualcockpit/virtualcockpit_2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/virtualcockpit/virtualcockpit_2s.jpg"
-        alt="Virtual cockpit" title="Virtual cockpit">
+        class="img-fluid" alt="Virtual cockpit" title="Virtual cockpit">
     </a>
     <figcaption><h4>Virtual cockpit</h4></figcaption>
 </figure>

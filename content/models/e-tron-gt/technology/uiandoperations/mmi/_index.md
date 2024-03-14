@@ -14,7 +14,7 @@ The e-tron GT quattro and RS e-tron GT come as standard with the MMI navigation 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/mmi/mmi_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/mmi/mmi_1s.jpg"
-        alt="Audi MMI - searching for charging station" title="Audi MMI - searching for charging station">
+        class="img-fluid" alt="Audi MMI - searching for charging station" title="Audi MMI - searching for charging station">
     </a>
     <figcaption><h4>Audi MMI - searching for charging station</h4></figcaption>
 </figure>

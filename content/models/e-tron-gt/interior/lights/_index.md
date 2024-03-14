@@ -24,7 +24,7 @@ area with option id **QQ2**.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/lights/ambientlight_control.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/lights/ambientlight_controls.jpg"
-        alt="The lighs are controlled in MMI" title="The lighs are controlled in MMI">
+        class="img-fluid" alt="The lighs are controlled in MMI" title="The lighs are controlled in MMI">
     </a>
     <figcaption><h4>The lighs are controlled in MMI</h4></figcaption>
 </figure>
@@ -34,7 +34,7 @@ The color can change based on your drive mode in [Audi Drive Select](/models/e-t
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/lights/ambientlight_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/lights/ambientlight_1s.jpg"
-        alt="Multicolor interior lights" title="Multicolor interior lights">
+        class="img-fluid" alt="Multicolor interior lights" title="Multicolor interior lights">
     </a>
     <figcaption><h4>Multicolor interior lights</h4></figcaption>
 </figure>

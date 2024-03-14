@@ -7,7 +7,7 @@ weight: 2
 <!-- markdownlint-disable MD033 -->
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tangored_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tangored_2s.jpg" alt="Audi e-tron GT in Tango Red" title="Audi e-tron GT in Tango Red">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tangored_2s.jpg" class="img-fluid" alt="Audi e-tron GT in Tango Red" title="Audi e-tron GT in Tango Red">
     </a>
     <figcaption><h4>Audi e-tron GT</h4></figcaption>
 </figure>
@@ -19,7 +19,7 @@ Audi e-tron GT er utstyrt med to permanent eksiterte synkronmaskiner (PSM) som g
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/j1-performance/drivetrain2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/j1-performance/drivetrain2s.jpg"
-        alt="J1-performance drivlinje for Audi e-tron GT" title="J1-performance drivlinje for Audi e-tron GT">
+        class="img-fluid" alt="J1-performance drivlinje for Audi e-tron GT" title="J1-performance drivlinje for Audi e-tron GT">
     </a>
     <figcaption><h4>J1-performance drivlinje for Audi e-tron GT</h4></figcaption>
 </figure>
@@ -34,7 +34,7 @@ I samsvar med WLTP-standarden oppnår Audi e-tron GT en rekkevidde på 472 kilom
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery2s.jpg" 
-        alt="Audi e-tron GT batteri" title="Audi e-tron GT batteri">
+        class="img-fluid" alt="Audi e-tron GT batteri" title="Audi e-tron GT batteri">
     </a>
     <figcaption><h4>Audi e-tron GT batteri</h4></figcaption>
 </figure>
@@ -44,7 +44,7 @@ Batteriet, som har et energiinnhold på over 90 kWh, er plassert i undervognen, 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/j1-performance/taycan.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/j1-performance/taycans.jpg"
-        alt="Porsche Taycan is built on J1-performance platform and share parts with Audi e-tron GT" title="Porsche Taycan is built on J1-performance platform and share parts with Audi e-tron GT">
+        class="img-fluid" alt="Porsche Taycan is built on J1-performance platform and share parts with Audi e-tron GT" title="Porsche Taycan is built on J1-performance platform and share parts with Audi e-tron GT">
     </a>
     <figcaption><h4>Porsche Taycan is built on J1-performance platform and share parts with Audi e-tron GT</h4></figcaption>
 </figure>

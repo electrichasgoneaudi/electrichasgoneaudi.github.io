@@ -8,7 +8,7 @@ weight: 1
 ### Audi Q8 50 e-tron
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/variants/q8_50_etron.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/variants/q8_50_etron_st.jpg" alt="Audi Q8 50 e-tron" title="Audi Q8 50 e-tron ">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/variants/q8_50_etron_st.jpg" class="img-fluid" alt="Audi Q8 50 e-tron" title="Audi Q8 50 e-tron ">
     </a>
     <figcaption><h4>Audi Q8 50 e-tron</h4></figcaption>
 </figur>
@@ -24,7 +24,7 @@ Det er ikke mulig å skille Q8 50 e-tron fra Q8 55 e-tron etter utseende.
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/variants/q8_50_sportback_etronm.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/variants/q8_50_sportback_etronm_st.jpeg" alt="Audi Q8 50 Sportback e-tron" title="Audi Q8 50 Sportback e -tron">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/variants/q8_50_sportback_etronm_st.jpeg" class="img-fluid" alt="Audi Q8 50 Sportback e-tron" title="Audi Q8 50 Sportback e -tron">
     </a>
     <figcaption><h4>Audi Q8 50 Sportback e-tron</h4></figcaption>
 </figur>
@@ -40,7 +40,7 @@ Det er ikke mulig å skille Q8 50 Sportback e-tron fra Q8 55 Sportback e-tron et
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/variants/q8_55_etron.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/variants/q8_55_etron_st.jpg" alt="Audi Q8 55 e-tron" title="Audi Q8 55 e-tron ">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/variants/q8_55_etron_st.jpg" class="img-fluid" alt="Audi Q8 55 e-tron" title="Audi Q8 55 e-tron ">
     </a>
     <figcaption><h4>Audi Q8 55 e-tron</h4></figcaption>
 </figur>
@@ -54,7 +54,7 @@ WLTP-rekkevidde mellom 487-582 km avhengig av utstyrstrim. De to motorene yter 3
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/variants/q8_55_sportback.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/variants/q8_55_sportback_st.jpeg" alt="Audi Q8 55 Sportback e-tron" title="Audi Q8 55 Sportback e -tron">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/variants/q8_55_sportback_st.jpeg" class="img-fluid" alt="Audi Q8 55 Sportback e-tron" title="Audi Q8 55 Sportback e -tron">
     </a>
     <figcaption><h4>Audi Q8 55 Sportback e-tron</h4></figcaption>
 </figur>
@@ -68,7 +68,7 @@ WLTP-rekkevidde mellom 373-452 km avhengig av utstyrstrim. De to motorene yter 3
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/variants/sq8_etron.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/variants/sq8_etron_st.jpeg" alt="Audi SQ8 e-tron" title="Audi SQ8 e-tron">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/variants/sq8_etron_st.jpeg" class="img-fluid" alt="Audi SQ8 e-tron" title="Audi SQ8 e-tron">
     </a>
     <figcaption><h4>Audi SQ8 e-tron</h4></figcaption>
 </figur>
@@ -93,7 +93,7 @@ WLTP-rekkevidde mellom 454-494 km avhengig av utstyrstrim.
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/variants/sq8_sportback.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/variants/sq8_sportback_st.jpg" alt="Audi SQ8 Sportback e-tron" title="Audi SQ8 Sportback e-tron ">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/variants/sq8_sportback_st.jpg" class="img-fluid" alt="Audi SQ8 Sportback e-tron" title="Audi SQ8 Sportback e-tron ">
     </a>
     <figcaption><h4>Audi SQ8 Sportback e-tron</h4></figcaption>
 </figur>

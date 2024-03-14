@@ -10,7 +10,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/trafficsignrecognition/virtualcockpit.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/trafficsignrecognition/virtualcockpits.jpg"
-        alt="Traffic sign information in virtual cockpit" title="Traffic sign information in virtual cockpit">
+        class="img-fluid" alt="Traffic sign information in virtual cockpit" title="Traffic sign information in virtual cockpit">
     </a>
     <figcaption><h4>Traffic sign information in virtual cockpit</h4></figcaption>
 </figure>

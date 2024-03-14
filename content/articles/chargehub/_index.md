@@ -8,7 +8,7 @@ weight: 99999
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_1s.jpg" alt="Audi charging hub" title="Audi charging hub">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_1s.jpg" class="img-fluid" alt="Audi charging hub" title="Audi charging hub">
     </a>
     <figcaption><h4>Audi charging hub</h4></figcaption>
 </figure>
@@ -19,7 +19,7 @@ With the pilot location, Audi is road-testing its new charging concept for the f
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_2s.jpg" alt="Audi charging hub" title="Audi charging hub">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_2s.jpg" class="img-fluid" alt="Audi charging hub" title="Audi charging hub">
     </a>
     <figcaption><h4>Audi charging hub</h4></figcaption>
 </figure>
@@ -30,7 +30,7 @@ Cubes are the foundation of the Audi charging hub. The flexible container cubes 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_3s.jpg" alt="Audi charging hub" title="Audi charging hub">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_3s.jpg" class="img-fluid" alt="Audi charging hub" title="Audi charging hub">
     </a>
     <figcaption><h4>Audi charging hub</h4></figcaption>
 </figure>
@@ -49,7 +49,7 @@ Audi customers can use the new reservation function in the myAudi app: they can 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_6s.jpg" alt="Audi charging hub" title="Audi charging hub">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_6s.jpg" class="img-fluid" alt="Audi charging hub" title="Audi charging hub">
     </a>
     <figcaption><h4>Audi charging hub reservation</h4></figcaption>
 </figure>
@@ -63,7 +63,7 @@ The tests that are starting in Nuremberg focus on the new reservation function, 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_4s.jpg" alt="Audi charging hub" title="Audi charging hub">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_4s.jpg" class="img-fluid" alt="Audi charging hub" title="Audi charging hub">
     </a>
     <figcaption><h4>Audi charging hub lounge</h4></figcaption>
 </figure>
@@ -75,7 +75,7 @@ During the pilot project in Nuremberg, an employee will attend to visitors’ wi
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_5s.jpg" alt="Audi charging hub" title="Audi charging hub">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_5s.jpg" class="img-fluid" alt="Audi charging hub" title="Audi charging hub">
     </a>
     <figcaption><h4>Audi charging hub lounge</h4></figcaption>
 </figure>

@@ -8,7 +8,7 @@ weight: 100006
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_1s.jpg" alt="Audi skysphere concept" title="Audi skysphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_1s.jpg" class="img-fluid" alt="Audi skysphere concept" title="Audi skysphere concept">
     </a>
     <figcaption><h4>Audi skysphere concept</h4></figcaption>
 </figure>
@@ -20,7 +20,7 @@ For å gi passasjerene maksimal frihet, ble Audi skysphere-konseptet designet fo
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_4s.jpg" alt="Audi skysphere-konsept Grand Touring-modus" title="Audi skysphere-konsept Grand Touring-modus">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_4s.jpg" class="img-fluid" alt="Audi skysphere-konsept Grand Touring-modus" title="Audi skysphere-konsept Grand Touring-modus">
     </a>
     <figcaption><h4>Audi skysphere konsept sportsmodus</h4></figcaption>
 </figur>
@@ -29,7 +29,7 @@ Med et knappetrykk kan sjåføren dra nytte av friheten og velge sin egen kjøre
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_3s.jpg" alt="Audi skysphere-konsept Grand Touring-modus" title="Audi skysphere-konsept Grand Touring-modus">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_3s.jpg" class="img-fluid" alt="Audi skysphere-konsept Grand Touring-modus" title="Audi skysphere-konsept Grand Touring-modus">
     </a>
     <figcaption><h4>Audi skysphere-konsept Grand Touring-modus</h4></figcaption>
 </figur>
@@ -57,7 +57,7 @@ Kjøretøyet har doble bærearmaksler foran og bak. Øvre og nedre bærearm er s
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_7.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_7s.jpg" alt="Audi skysphere concept" title="Audi skysphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_7s.jpg" class="img-fluid" alt="Audi skysphere concept" title="Audi skysphere concept">
     </a>
     <figcaption><h4>Audi skysphere-konsept</h4></figcaption>
 </figur>
@@ -79,7 +79,7 @@ Bakenden domineres også av en digitalt kontrollert LED-overflate som strekker s
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_6s.jpg" alt="Audi skysphere concept" title="Audi skysphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_6s.jpg" class="img-fluid" alt="Audi skysphere concept" title="Audi skysphere concept">
     </a>
     <figcaption><h4>Audi skysphere-konsept</h4></figcaption>
 </figur>
@@ -98,7 +98,7 @@ Som et resultat kan kontrollelementer som ratt og pedaler svinges til en usynlig
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_5s.jpg" alt="Audi skysphere concept" title="Audi skysphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_5s.jpg" class="img-fluid" alt="Audi skysphere concept" title="Audi skysphere concept">
     </a>
     <figcaption><h4>Audi skysphere-konsept</h4></figcaption>
 </figur>

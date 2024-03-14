@@ -9,7 +9,7 @@ weight: 1
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-50.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-50s.jpg" alt="Audi e-tron 50 in Siam beige and black optics" title="Audi e-tron 50 in Siam beige and black optics">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-50s.jpg" class="img-fluid" alt="Audi e-tron 50 in Siam beige and black optics" title="Audi e-tron 50 in Siam beige and black optics">
     </a>
     <figcaption><h4>Audi e-tron 50 in Siam beige and black optics</h4></figcaption>
 </figure>
@@ -25,7 +25,7 @@ It is not possible to differentiate the e-tron 50 from the e-tron 55 by looks.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-50-sportback.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-50-sportbacks.jpg" alt="Audi e-tron Sportback 50 in Florett Silver" title="Audi e-tron Sportback 50 in Florett Silver">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-50-sportbacks.jpg" class="img-fluid" alt="Audi e-tron Sportback 50 in Florett Silver" title="Audi e-tron Sportback 50 in Florett Silver">
     </a>
     <figcaption><h4>Audi e-tron Sportback 50 in Florett Silver</h4></figcaption>
 </figure>
@@ -42,7 +42,7 @@ It is not possible to differentiate the e-tron 50 Sportback from the e-tron 55 S
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-55.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-55s.jpg" alt="Audi e-tron 55 S-Line in Chronos grey" title="Audi e-tron 55 S-Line in Chronos grey">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-55s.jpg" class="img-fluid" alt="Audi e-tron 55 S-Line in Chronos grey" title="Audi e-tron 55 S-Line in Chronos grey">
     </a>
     <figcaption><h4>Audi e-tron 55 S-Line in Chronos grey</h4></figcaption>
 </figure>
@@ -57,7 +57,7 @@ WLTP-range between 371-441km depending on equipment trim. The two engines output
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-55-sportback.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-55-sportbacks.jpg" alt="Audi e-tron 55 Sportback S-Line in Plasma blue" title="Audi e-tron 55 Sportback S-Line in Plasma blue">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-55-sportbacks.jpg" class="img-fluid" alt="Audi e-tron 55 Sportback S-Line in Plasma blue" title="Audi e-tron 55 Sportback S-Line in Plasma blue">
     </a>
     <figcaption><h4>Audi e-tron 55 Sportback S-Line in Plasma blue</h4></figcaption>
 </figure>
@@ -71,7 +71,7 @@ WLTP-range between 373-452km depending on equipment trim. The two engines output
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-s.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-ss.jpg" alt="Audi e-tron 60S" title="Audi e-tron 60S">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-ss.jpg" class="img-fluid" alt="Audi e-tron 60S" title="Audi e-tron 60S">
     </a>
     <figcaption><h4>Audi e-tron 60S</h4></figcaption>
 </figure>
@@ -96,7 +96,7 @@ WLTP-range between 343-374km depending on equipment trim.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-s-sportback.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-s-sportbacks.jpg" alt="Audi e-tron 60S Sportback" title="Audi e-tron 60S Sportback">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-s-sportbacks.jpg" class="img-fluid" alt="Audi e-tron 60S Sportback" title="Audi e-tron 60S Sportback">
     </a>
     <figcaption><h4>Audi e-tron 60S Sportback</h4></figcaption>
 </figure>

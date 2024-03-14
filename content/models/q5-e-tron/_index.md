@@ -12,7 +12,7 @@ The world premiere was November 18. 2021.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q5-e-tron/variants.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q5-e-tron/variants.jpg" alt="Audi Q5 e-tron" title="Audi Q5 e-tron">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q5-e-tron/variants.jpg" class="img-fluid" alt="Audi Q5 e-tron" title="Audi Q5 e-tron">
     </a>
     <figcaption><h4>Audi Q5 e-tron</h4></figcaption>
 </figure>

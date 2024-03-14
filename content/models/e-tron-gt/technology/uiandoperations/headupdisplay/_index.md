@@ -10,7 +10,7 @@ The head-up display projects information relevant to the driver as symbols and n
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/headupdisplay/headup.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/headupdisplay/headups.jpg"
-        alt="Heads up display on Audi e-tron GT" title="Heads up display on Audi e-tron GT">
+        class="img-fluid" alt="Heads up display on Audi e-tron GT" title="Heads up display on Audi e-tron GT">
     </a>
     <figcaption><h4>Heads up display on Audi e-tron GT</h4></figcaption>
 </figure>

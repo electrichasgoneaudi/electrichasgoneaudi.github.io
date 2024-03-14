@@ -8,7 +8,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/reversingcamera/rearviewcamera.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/reversingcamera/rearviewcameras.jpg"
-        alt="Ryggekamera i MMI Audi e-tron GT" title="Ryggekamera i MMI Audi e-tron GT">
+        class="img-fluid" alt="Ryggekamera i MMI Audi e-tron GT" title="Ryggekamera i MMI Audi e-tron GT">
     </a>
     <figcaption><h4>Ryggekamera i MMI Audi e-tron GT</h4></figcaption>
 </figure>
@@ -18,7 +18,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/reversingcamera/camera.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/reversingcamera/cameras.jpg"
-        alt="Ryggekameraet er integrert i håndtakslist på bagasjeromslokket" title="Ryggekameraet er integrert i håndtakslist på bagasjeromslokket">
+        class="img-fluid" alt="Ryggekameraet er integrert i håndtakslist på bagasjeromslokket" title="Ryggekameraet er integrert i håndtakslist på bagasjeromslokket">
     </a>
     <figcaption><h4>Ryggekameraet er integrert i håndtakslist på bagasjeromslokket"</h4></figcaption>
 </figure>
@@ -26,7 +26,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/reversingcamera/camerarearlocation.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/reversingcamera/camerarearlocations.jpg"
-        alt="Kameraet har spylefunksjon" title="Kameraet har spylefunksjon">
+        class="img-fluid" alt="Kameraet har spylefunksjon" title="Kameraet har spylefunksjon">
     </a>
     <figcaption><h4>Kameraet har spylefunksjon</h4></figcaption>
 </figure>

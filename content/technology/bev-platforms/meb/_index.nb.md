@@ -12,7 +12,7 @@ de fire ringene
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/meb1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/meb1s.jpg"
-        alt="Modular Electrification Toolkit (MEB) drivlinje" title="Modular Electrification Toolkit (MEB) drivlinje">
+        class="img-fluid" alt="Modular Electrification Toolkit (MEB) drivlinje" title="Modular Electrification Toolkit (MEB) drivlinje">
     </a>
     <figcaption><h4>Modular Electrification Toolkit (MEB) drivlinje</h4></figcaption>
 </figure>
@@ -35,7 +35,7 @@ Modeller fra andre merker som for tiden bruker MEB er
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/enyaq.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/enyaqs.jpg"
-        alt="Skoda Enyaq er bygget på MEB" title="Skoda Enyaq er bygget på MEB">
+        class="img-fluid" alt="Skoda Enyaq er bygget på MEB" title="Skoda Enyaq er bygget på MEB">
     </a>
     <figcaption><h4>Skoda Enyaq er bygget på MEB</h4></figcaption>
 </figure>

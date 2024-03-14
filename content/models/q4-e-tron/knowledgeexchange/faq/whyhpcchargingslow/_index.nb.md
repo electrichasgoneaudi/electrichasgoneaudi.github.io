@@ -15,7 +15,7 @@ Det betyr at du ofte ser 125KW opp til 35% SOC.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/charginghpc.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/charginghpcs.jpg"
-        alt="Audi Q4 e-tron lader" title="Audi Q4 e-tron lader">
+        class="img-fluid" alt="Audi Q4 e-tron lader" title="Audi Q4 e-tron lader">
     </a>
     <figcaption><h4>Audi Q4 e-tron lader</h4></figcaption>
 </figure>

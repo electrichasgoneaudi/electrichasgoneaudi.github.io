@@ -12,7 +12,7 @@ Displayet viser et bredt spekter av informasjon klart og i ryddig, skarp, svært
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/viewcontrol.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/viewcontrols.jpg"
-        alt="Virtuell cockpitvisning styres på rattet" title="Virtuell cockpitvisning styres på rattet">
+        class="img-fluid" alt="Virtuell cockpitvisning styres på rattet" title="Virtuell cockpitvisning styres på rattet">
     </a>
     <figcaption><h4>Virtuell cockpitvisning styres på rattet</h4></figcaption>
 </figure>
@@ -28,7 +28,7 @@ Modusen kan velges i MMI
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/virtualcockpit_settings.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/virtualcockpit_settingss.jpg"
-        alt="Virtuelle cockpit-moduser" title="Virtuelle cockpit-moduser">
+        class="img-fluid" alt="Virtuelle cockpit-moduser" title="Virtuelle cockpit-moduser">
     </a>
     <figcaption><h4>Virtuelle cockpit-moduser</h4></figcaption>
 </figure>
@@ -41,7 +41,7 @@ Nedenfor ser du noen av modusene og visningene som er tilgjengelige i Virtual Co
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_etron_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_etron_1s.jpg"
-        alt="Virtual Cockpit e-tron-modus infotainmentvisning - Nightvision" title="Virtual Cockpit e-tron-modus infotainmentvisning - Nightvision">
+        class="img-fluid" alt="Virtual Cockpit e-tron-modus infotainmentvisning - Nightvision" title="Virtual Cockpit e-tron-modus infotainmentvisning - Nightvision">
     </a>
     <figcaption><h4>Virtual Cockpit e-tron-modus infotainmentvisning - Nightvision</h4></figcaption>
 </figure>
@@ -49,7 +49,7 @@ Nedenfor ser du noen av modusene og visningene som er tilgjengelige i Virtual Co
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_etron_3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_etron_3s.jpg"
-        alt="Virtual Cockpit e-tron-modus infotainmentvisning - Navigasjon med Google maps" title="Virtual Cockpit e-tron-modus infotainmentvisning - Navigasjon med Google maps">
+        class="img-fluid" alt="Virtual Cockpit e-tron-modus infotainmentvisning - Navigasjon med Google maps" title="Virtual Cockpit e-tron-modus infotainmentvisning - Navigasjon med Google maps">
     </a>
     <figcaption><h4>Virtual Cockpit e-tron-modus infotainmentvisning - Navigasjon med Google maps</h4></figcaption>
 </figure>
@@ -57,7 +57,7 @@ Nedenfor ser du noen av modusene og visningene som er tilgjengelige i Virtual Co
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_etron_4.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_etron_4s.jpg"
-        alt="Virtual Cockpit e-tron-modus kjørevisning - Navigasjon med Google-kart og aktiv rute" title="Virtual Cockpit e-tron-modus kjørevisning - Navigasjon med Google-kart og aktiv rute">
+        class="img-fluid" alt="Virtual Cockpit e-tron-modus kjørevisning - Navigasjon med Google-kart og aktiv rute" title="Virtual Cockpit e-tron-modus kjørevisning - Navigasjon med Google-kart og aktiv rute">
     </a>
     <figcaption><h4>Virtual Cockpit e-tron-modus kjørevisning - Navigasjon med Google-kart og aktiv rute</h4></figcaption>
 </figure>
@@ -65,7 +65,7 @@ Nedenfor ser du noen av modusene og visningene som er tilgjengelige i Virtual Co
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_sport_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_sport_1s.jpg"
-        alt="Virtual Cockpit sportsmodus infotainmentvisning - Navigering med Google maps" title="Virtual Cockpit sportsmodus infotainmentvisning - Navigering med Google maps">
+        class="img-fluid" alt="Virtual Cockpit sportsmodus infotainmentvisning - Navigering med Google maps" title="Virtual Cockpit sportsmodus infotainmentvisning - Navigering med Google maps">
     </a>
     <figcaption><h4>Virtual Cockpit sportsmodus infotainmentvisning - Navigering med Google maps</h4></figcaption>
 </figure>
@@ -73,7 +73,7 @@ Nedenfor ser du noen av modusene og visningene som er tilgjengelige i Virtual Co
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_standard_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_standard_1s.jpg"
-        alt="Virtual Cockpit standardmodus - Nightvision" title="Virtual Cockpit standardmodus - Nightvision">
+        class="img-fluid" alt="Virtual Cockpit standardmodus - Nightvision" title="Virtual Cockpit standardmodus - Nightvision">
     </a>
     <figcaption><h4>Virtual Cockpit standardmodus - Nightvision</h4></figcaption>
 </figure>
@@ -81,7 +81,7 @@ Nedenfor ser du noen av modusene og visningene som er tilgjengelige i Virtual Co
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_standard_2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_standard_2s.jpg"
-        alt="Virtual Cockpit standardmodus infotainmentvisning - Navigasjon med Google maps" title="Virtual Cockpit standardmodus infotainmentvisning - Navigasjon med Google maps">
+        class="img-fluid" alt="Virtual Cockpit standardmodus infotainmentvisning - Navigasjon med Google maps" title="Virtual Cockpit standardmodus infotainmentvisning - Navigasjon med Google maps">
     </a>
     <figcaption><h4>Virtual Cockpit standardmodus infotainmentvisning - Navigasjon med Google maps</h4></figcaption>
 </figure>

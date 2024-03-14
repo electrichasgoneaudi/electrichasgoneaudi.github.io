@@ -13,7 +13,7 @@ OptionId **9VD**
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/soundsystem/standard_door_speaker.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/soundsystem/standard_door_speakers.jpg"
-        alt="Standard door speakers" title="Standard door speakers">
+        class="img-fluid" alt="Standard door speakers" title="Standard door speakers">
     </a>
     <figcaption><h4>Standard door speakers</h4></figcaption>
 </figure>
@@ -25,7 +25,7 @@ The Bang & Olufsen Sound System with 3D sound offers a fascinating feature for h
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/soundsystem/bo_door_speaker.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/soundsystem/bo_door_speakers.jpg"
-        alt="Bass speaker in front door with B&O system" title="Bass speaker in front door with B&O system">
+        class="img-fluid" alt="Bass speaker in front door with B&O system" title="Bass speaker in front door with B&O system">
     </a>
     <figcaption><h4>Bass speaker in front door with B&O system</h4></figcaption>
 </figure>
@@ -37,7 +37,7 @@ The illustration below show where the 16 different speakers are located.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/soundsystem/soundsystem1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/soundsystem/soundsystem1s.jpg"
-        alt="Bang & Olufsen sound system with 16 speakers" title="Bang & Olufsen sound system with 16 speakers">
+        class="img-fluid" alt="Bang & Olufsen sound system with 16 speakers" title="Bang & Olufsen sound system with 16 speakers">
     </a>
     <figcaption><h4>Bang & Olufsen sound system with 16 speakers</h4></figcaption>
 </figure>

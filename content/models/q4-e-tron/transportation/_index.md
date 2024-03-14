@@ -12,42 +12,42 @@ The cargo volume on Q4 e-tron is on 520 liter. When rear seats are down the tota
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_1s.jpg" alt="Audi Q4 e-tron trunk" title="Audi Q4 e-tron trunk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_1s.jpg" class="img-fluid" alt="Audi Q4 e-tron trunk" title="Audi Q4 e-tron trunk">
     </a>
     <figcaption><h4>Audi Q4 e-tron trunk</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_2s.jpg" alt="Audi Q4 e-tron trunk" title="Audi Q4 e-tron trunk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_2s.jpg" class="img-fluid" alt="Audi Q4 e-tron trunk" title="Audi Q4 e-tron trunk">
     </a>
     <figcaption><h4>Audi Q4 e-tron trunk</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_3s.jpg" alt="Audi Q4 e-tron trunk" title="Audi Q4 e-tron trunk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_3s.jpg" class="img-fluid" alt="Audi Q4 e-tron trunk" title="Audi Q4 e-tron trunk">
     </a>
     <figcaption><h4>Audi Q4 e-tron trunk</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_4s.jpg" alt="Audi Q4 e-tron trunk" title="Audi Q4 e-tron trunk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_4s.jpg" class="img-fluid" alt="Audi Q4 e-tron trunk" title="Audi Q4 e-tron trunk">
     </a>
     <figcaption><h4>Audi Q4 e-tron trunk</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_5s.jpg" alt="Audi Q4 e-tron trunk" title="Audi Q4 e-tron trunk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_5s.jpg" class="img-fluid" alt="Audi Q4 e-tron trunk" title="Audi Q4 e-tron trunk">
     </a>
     <figcaption><h4>Audi Q4 e-tron trunk</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_6s.jpg" alt="Audi Q4 e-tron trunk" title="Audi Q4 e-tron trunk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_6s.jpg" class="img-fluid" alt="Audi Q4 e-tron trunk" title="Audi Q4 e-tron trunk">
     </a>
     <figcaption><h4>Audi Q4 e-tron trunk</h4></figcaption>
 </figure>
@@ -62,7 +62,7 @@ You can store up to 75kg on the roof. On the SUV version you have rails so you c
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/roofbox.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/roofboxs.jpg" alt="Audi Q4 e-tron with packline roof box" title="Audi Q4 e-tron with packline roof box">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/roofboxs.jpg" class="img-fluid" alt="Audi Q4 e-tron with packline roof box" title="Audi Q4 e-tron with packline roof box">
     </a>
     <figcaption><h4>Audi Q4 e-tron with packline roof box</h4></figcaption>
 </figure>
@@ -71,7 +71,7 @@ You can store up to 75kg on the roof. On the SUV version you have rails so you c
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/nofrunk.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/nofrunks.jpg" alt="Audi Q4 e-tron does not have a frunk" title="Audi Q4 e-tron does not have a frunk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/nofrunks.jpg" class="img-fluid" alt="Audi Q4 e-tron does not have a frunk" title="Audi Q4 e-tron does not have a frunk">
     </a>
     <figcaption><h4>Audi Q4 e-tron does not have a frunk</h4></figcaption>
 </figure>
@@ -85,7 +85,7 @@ The towing hitch has option id **1M6**.  An optional towing hitch prepartion has
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/towhitch.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/towhitchs.jpg" alt="Optional retractable tow hitch" title="Optional retractable tow hitch">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/towhitchs.jpg" class="img-fluid" alt="Optional retractable tow hitch" title="Optional retractable tow hitch">
     </a>
     <figcaption><h4>Optional retractable tow hitch</h4></figcaption>
 </figure>
@@ -97,7 +97,7 @@ The towing hitch has option id **1M6**.  An optional towing hitch prepartion has
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trailerexample1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trailerexample1s.jpg" alt="Trailer example 1" title="Trailer example 1">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trailerexample1s.jpg" class="img-fluid" alt="Trailer example 1" title="Trailer example 1">
     </a>
     <figcaption><h4>Trailer example 1</h4></figcaption>
 </figure>

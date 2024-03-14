@@ -12,21 +12,21 @@ The following wheels have been available from Audi to Audi e-tron GT. Varies for
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47G_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47G_1s.jpg" alt="19 inch 5 segment areo design" title="19 inch 5 segment areo design">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47G_1s.jpg" class="img-fluid" alt="19 inch 5 segment areo design" title="19 inch 5 segment areo design">
     </a>
     <figcaption><h4>19 inch 5 segment areo design</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47G_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47G_2s.jpg" alt="19 inch 5 segment areo design" title="19 inch 5 segment areo design">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47G_2s.jpg" class="img-fluid" alt="19 inch 5 segment areo design" title="19 inch 5 segment areo design">
     </a>
     <figcaption><h4>19 inch 5 segment areo design</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47G_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47G_3s.jpg" alt="19 inch 5 segment areo design" title="19 inch 5 segment areo design">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47G_3s.jpg" class="img-fluid" alt="19 inch 5 segment areo design" title="19 inch 5 segment areo design">
     </a>
     <figcaption><h4>19 inch 5 segment areo design</h4></figcaption>
 </figure>
@@ -37,7 +37,7 @@ The following wheels have been available from Audi to Audi e-tron GT. Varies for
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47K_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47K_1s.jpg" alt="20 inch 5 double arm offset design, platina grey by Auditography" title="20 inch 5 double arm offset design, platina grey by Auditography">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47K_1s.jpg" class="img-fluid" alt="20 inch 5 double arm offset design, platina grey by Auditography" title="20 inch 5 double arm offset design, platina grey by Auditography">
     </a>
     <figcaption><h4>20 inch 5 double arm offset design, platina grey by @Auditography</h4></figcaption>
 </figure>
@@ -48,14 +48,14 @@ The following wheels have been available from Audi to Audi e-tron GT. Varies for
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47H_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47H_1s.jpg" alt="20 inch 5 double arm offset design, black/aluminium" title="20 inch 5 double arm offset design, black/aluminium">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47H_1s.jpg" class="img-fluid" alt="20 inch 5 double arm offset design, black/aluminium" title="20 inch 5 double arm offset design, black/aluminium">
     </a>
     <figcaption><h4>20 inch 5 double arm offset design, black/aluminium</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47H_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47H_2s.jpg" alt="20 inch 5 double arm offset design, black/aluminium" title="20 inch 5 double arm offset design, black/aluminium">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47H_2s.jpg" class="img-fluid" alt="20 inch 5 double arm offset design, black/aluminium" title="20 inch 5 double arm offset design, black/aluminium">
     </a>
     <figcaption><h4>20 inch 5 double arm offset design, black/aluminium</h4></figcaption>
 </figure>
@@ -66,7 +66,7 @@ The following wheels have been available from Audi to Audi e-tron GT. Varies for
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47I_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47I_1s.jpg" alt="20 inch5 arm aero design by @Auditography" title="20 inch5 arm aero design by @Auditography">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47I_1s.jpg" class="img-fluid" alt="20 inch5 arm aero design by @Auditography" title="20 inch5 arm aero design by @Auditography">
     </a>
     <figcaption><h4>20 inch5 arm aero design by @Auditography</h4></figcaption>
 </figure>
@@ -77,21 +77,21 @@ The following wheels have been available from Audi to Audi e-tron GT. Varies for
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_44I_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_44I_1s.jpg" alt="21 inch 5 dobbel arm concav module black by Auditography" title="21 inch 5 dobbel arm concav module black by Auditography">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_44I_1s.jpg" class="img-fluid" alt="21 inch 5 dobbel arm concav module black by Auditography" title="21 inch 5 dobbel arm concav module black by Auditography">
     </a>
     <figcaption><h4>21 inch 5 dobbel arm concav module black by @Auditography</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_44I_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_44I_2s.jpg" alt="21 inch 5 dobbel arm concav module black" title="21 inch 5 dobbel arm concav module black">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_44I_2s.jpg" class="img-fluid" alt="21 inch 5 dobbel arm concav module black" title="21 inch 5 dobbel arm concav module black">
     </a>
     <figcaption><h4>21 inch 5 dobbel arm concav module black</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_44I_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_44I_3s.jpg" alt="21 inch 5 dobbel arm concav module black" title="21 inch 5 dobbel arm concav module black">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_44I_3s.jpg" class="img-fluid" alt="21 inch 5 dobbel arm concav module black" title="21 inch 5 dobbel arm concav module black">
     </a>
     <figcaption><h4>21 inch 5 dobbel arm concav module black</h4></figcaption>
 </figure>
@@ -102,14 +102,14 @@ The following wheels have been available from Audi to Audi e-tron GT. Varies for
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_54c_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_54c_1s.jpg" alt="21 inch 10 arm trapez modul design titan grey polished by Auditography" title="21 inch 10 arm trapez modul design titan grey polished by Auditography">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_54c_1s.jpg" class="img-fluid" alt="21 inch 10 arm trapez modul design titan grey polished by Auditography" title="21 inch 10 arm trapez modul design titan grey polished by Auditography">
     </a>
     <figcaption><h4>21 inch 10 arm trapez modul design titan grey polished by @Auditography</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_54c_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_54c_2s.jpg" alt="21 inch 10 arm trapez modul design titan grey polished by Auditography" title="21 inch 10 arm trapez modul design titan grey polished by Auditography">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_54c_2s.jpg" class="img-fluid" alt="21 inch 10 arm trapez modul design titan grey polished by Auditography" title="21 inch 10 arm trapez modul design titan grey polished by Auditography">
     </a>
     <figcaption><h4>21 inch 10 arm trapez modul design titan grey polished</h4></figcaption>
 </figure>
@@ -120,7 +120,7 @@ The following wheels have been available from Audi to Audi e-tron GT. Varies for
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47l_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47l_1s.jpg" alt="21 inch 10 arm trapez modul design titan grey polished by Auditography" title="21 inch 10 arm trapez modul design titan grey polished by Auditography">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47l_1s.jpg" class="img-fluid" alt="21 inch 10 arm trapez modul design titan grey polished by Auditography" title="21 inch 10 arm trapez modul design titan grey polished by Auditography">
     </a>
     <figcaption><h4>21 inch 10 arm trapez modul design titan grey polished by @Auditography</h4></figcaption>
 </figure>
@@ -131,35 +131,35 @@ The following wheels have been available from Audi to Audi e-tron GT. Varies for
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47J_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47J_1s.jpg" alt="21 inch 10 arm trapez modul design black polished" title="21 inch 10 arm trapez modul design black polished">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47J_1s.jpg" class="img-fluid" alt="21 inch 10 arm trapez modul design black polished" title="21 inch 10 arm trapez modul design black polished">
     </a>
     <figcaption><h4>21 inch 10 arm trapez modul design black polished</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47J_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47J_2s.jpg" alt="21 inch 10 arm trapez modul design black polished" title="21 inch 10 arm trapez modul design black polished">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47J_2s.jpg" class="img-fluid" alt="21 inch 10 arm trapez modul design black polished" title="21 inch 10 arm trapez modul design black polished">
     </a>
     <figcaption><h4>21 inch 10 arm trapez modul design black polished</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47J_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47J_3s.jpg" alt="21 inch 10 arm trapez modul design black polished" title="21 inch 10 arm trapez modul design black polished">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47J_3s.jpg" class="img-fluid" alt="21 inch 10 arm trapez modul design black polished" title="21 inch 10 arm trapez modul design black polished">
     </a>
     <figcaption><h4>21 inch 10 arm trapez modul design black polished</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47J_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47J_4s.jpg" alt="21 inch 10 arm trapez modul design black polished" title="21 inch 10 arm trapez modul design black polished">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47J_4s.jpg" class="img-fluid" alt="21 inch 10 arm trapez modul design black polished" title="21 inch 10 arm trapez modul design black polished">
     </a>
     <figcaption><h4>21 inch 10 arm trapez modul design black polished</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47J_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47J_5s.jpg" alt="21 inch 10 arm trapez modul design black polished" title="21 inch 10 arm trapez modul design black polished">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/wheel_47J_5s.jpg" class="img-fluid" alt="21 inch 10 arm trapez modul design black polished" title="21 inch 10 arm trapez modul design black polished">
     </a>
     <figcaption><h4>21 inch 10 arm trapez modul design black polished</h4></figcaption>
 </figure>

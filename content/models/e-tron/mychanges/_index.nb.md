@@ -11,7 +11,7 @@ Produksjonen startet hos [Audi Brussels fabrikken](https://www.google.com/maps/p
 
 <figur>
      <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/production.jpg">
-         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/productions.jpg" alt="Produksjon av Audi e-tron startet uke 36 2018" title="Produksjon av Audi e-tron startet uke 36 2018">
+         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/productions.jpg" class="img-fluid" alt="Produksjon av Audi e-tron startet uke 36 2018" title="Produksjon av Audi e-tron startet uke 36 2018">
     </a>
     <figcaption><h4>Produksjon av Audi e-tron startet uke 36 2018</h4></figcaption>
 </figur>
@@ -34,7 +34,7 @@ Produksjonen startet hos [Audi Brussels fabrikken](https://www.google.com/maps/p
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/my2020v2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/my2020v2s.jpg" alt="Oppgraderinger til e-tron 55 fra uke 49-2019 og hvordan de påvirker rekkeviddene" title="Oppgraderinger til e-tron 55 fra uke 49-2019 og hvordan de påvirker rekkeviddene">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/my2020v2s.jpg" class="img-fluid" alt="Oppgraderinger til e-tron 55 fra uke 49-2019 og hvordan de påvirker rekkeviddene" title="Oppgraderinger til e-tron 55 fra uke 49-2019 og hvordan de påvirker rekkeviddene">
     </a>
     <figcaption><h4>Oppgraderinger til e-tron 55 fra uke 49-2019 og hvordan de påvirker rekkeviddene</h4></figcaption>
 </figure>
@@ -70,13 +70,13 @@ Hvis byggemåneden er 122019 eller senere, bør det være en oppgradert versjon
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_6s.jpg" alt="Ny farge for 2022 - Chronos Grey" title="Ny farge for 2022 - Chronos Grey">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_6s.jpg" class="img-fluid" alt="Ny farge for 2022 - Chronos Grey" title="Ny farge for 2022 - Chronos Grey">
     </a>
     <figcaption><h4>Ny farge for 2022 - Chronos Grey</h4></figcaption>
 </figur>
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/blackedition.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/blackeditions.jpg" alt="Black edition med oransje interiørdetaljer" title="Black edition med oransje interiørdetaljer">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/blackeditions.jpg" class="img-fluid" alt="Black edition med oransje interiørdetaljer" title="Black edition med oransje interiørdetaljer">
     </a>
     <figcaption><h4>Black edition med oransje interiørdetaljer</h4></figcaption>
 </figure>
@@ -91,7 +91,7 @@ I slutten av juni 2022, stoppet Audi å ta ordre en rekke steder. Dette for å t
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/endofproduction.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/endofproductions.jpg" alt="Skjermbilde fra Audi.se som viser at de ikke tar imot ordre lenger" title="Skjermbilde fra Audi.se som viser at de ikke tar imot ordre lenger">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/endofproductions.jpg" class="img-fluid" alt="Skjermbilde fra Audi.se som viser at de ikke tar imot ordre lenger" title="Skjermbilde fra Audi.se som viser at de ikke tar imot ordre lenger">
     </a>
     <figcaption><h4>Skjermbilde fra Audi.se som viser at de ikke tar imot ordre lenger</h4></figcaption>
 </figure>

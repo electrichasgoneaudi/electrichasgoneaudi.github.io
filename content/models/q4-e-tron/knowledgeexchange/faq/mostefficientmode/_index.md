@@ -14,7 +14,7 @@ On the Audi Q4 e-tron, there are two drive modes available.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/q4shifter.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/q4shifters.jpg"
-        alt="Drive mode shifter" title="Drive mode shifter">
+        class="img-fluid" alt="Drive mode shifter" title="Drive mode shifter">
     </a>
     <figcaption><h4>Drive mode shifter</h4></figcaption>
 </figure>
@@ -31,7 +31,7 @@ On other cars, B-mode would be more efficient, but Audi has created blended brak
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/regenlevelq4.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/regenlevelq4.jpg"
-        alt="Audi Q4 e-tron power meter showing B mode" title="Audi Q4 e-tron power meter showing B mode">
+        class="img-fluid" alt="Audi Q4 e-tron power meter showing B mode" title="Audi Q4 e-tron power meter showing B mode">
     </a>
     <figcaption><h4>Audi Q4 e-tron power meter showing B mode</h4></figcaption>
 </figure>

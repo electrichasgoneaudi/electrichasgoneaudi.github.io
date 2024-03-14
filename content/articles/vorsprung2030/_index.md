@@ -21,7 +21,7 @@ Speaking at the “Corporate & Business” theme day during the Audi Media Days 
 
 <figure>
     <a href="vorsprung2030_1.jpg">
-        <img src="vorsprung2030_1s.jpg" alt="Audi charging hub" title="Audi charging hub">
+        <img src="vorsprung2030_1s.jpg" class="img-fluid" alt="Audi charging hub" title="Audi charging hub">
     </a>
     <figcaption><h4>Audi charging hub</h4></figcaption>
 </figure>

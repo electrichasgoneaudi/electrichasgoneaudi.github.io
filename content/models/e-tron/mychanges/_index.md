@@ -11,7 +11,7 @@ Production started in the [Audi Brussels Plant](https://www.google.com/maps/plac
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/production.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/productions.jpg" alt="Production of Audi e-tron started week 36 2018" title="Production of Audi e-tron started week 36 2018">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/productions.jpg" class="img-fluid" alt="Production of Audi e-tron started week 36 2018" title="Production of Audi e-tron started week 36 2018">
     </a>
     <figcaption><h4>Production of Audi e-tron started week 36 2018</h4></figcaption>
 </figure>
@@ -34,7 +34,7 @@ Production started in the [Audi Brussels Plant](https://www.google.com/maps/plac
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/my2020v2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/my2020v2s.jpg" alt="Upgrades to e-tron 55 from week 49-2019 and how they affect range" title="Upgrades to e-tron 55 from week 49-2019 and how they affect range">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/my2020v2s.jpg" class="img-fluid" alt="Upgrades to e-tron 55 from week 49-2019 and how they affect range" title="Upgrades to e-tron 55 from week 49-2019 and how they affect range">
     </a>
     <figcaption><h4>Upgrades to e-tron 55 from week 49-2019 and how they affect range</h4></figcaption>
 </figure>
@@ -70,14 +70,14 @@ If build month is 122019 or later it should be a upgraded version
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_6s.jpg" alt="New color for 2022 - Chronos Grey" title="New color for 2022 - Chronos Grey">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_6s.jpg" class="img-fluid" alt="New color for 2022 - Chronos Grey" title="New color for 2022 - Chronos Grey">
     </a>
     <figcaption><h4>New color for 2022 - Chronos Grey</h4></figcaption>
 </figur>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/blackedition.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/blackeditions.jpg" alt="Black edition with orange interior details" title="Black edition with orange interior details">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/blackeditions.jpg" class="img-fluid" alt="Black edition with orange interior details" title="Black edition with orange interior details">
     </a>
     <figcaption><h4>Black edition with orange interior details</h4></figcaption>
 </figure>
@@ -92,7 +92,7 @@ In end of June 2022, Audi stopped taking orders on the 2023 Audi e-tron. This to
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/endofproduction.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/endofproductions.jpg" alt="Screenshot from Audi Sweden saying they are no longer taking orders on e-tron" title="Screenshot from Audi Sweden saying they are no longer taking orders on e-tron">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/endofproductions.jpg" class="img-fluid" alt="Screenshot from Audi Sweden saying they are no longer taking orders on e-tron" title="Screenshot from Audi Sweden saying they are no longer taking orders on e-tron">
     </a>
     <figcaption><h4>Screenshot from Audi Sweden saying they are no longer taking orders on e-tron</h4></figcaption>
 </figure>

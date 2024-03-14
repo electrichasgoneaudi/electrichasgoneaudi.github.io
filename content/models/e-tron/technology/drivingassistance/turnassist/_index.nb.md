@@ -9,7 +9,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/turnassist/turnassist.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/turnassist/turnassists.jpg"
-        alt="Audi e-tron avkjøringsassistent" title="Audi e-tron avkjøringsassistent">
+        class="img-fluid" alt="Audi e-tron avkjøringsassistent" title="Audi e-tron avkjøringsassistent">
     </a>
     <figcaption><h4>Audi e-tron avkjøringsassistent</h4></figcaption>
 </figure>

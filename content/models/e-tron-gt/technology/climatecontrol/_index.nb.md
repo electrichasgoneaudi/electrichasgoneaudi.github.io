@@ -12,7 +12,7 @@ Kontrollene er plassert rett under MMI-skjermen.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/climatecontrol/ac3zonecontrol.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/climatecontrol/ac3zonecontrol.jpg"
-        alt="3-soners AC-kontroll med individuell temp for sjåfør/passasjer" title="3-soners AC-kontroll med individuell temp for sjåfør/passasjer">
+        class="img-fluid" alt="3-soners AC-kontroll med individuell temp for sjåfør/passasjer" title="3-soners AC-kontroll med individuell temp for sjåfør/passasjer">
     </a>
     <figcaption><h4>3-soners AC-kontroll med individuell temp for sjåfør/passasjer</h4></figcaption>
 </figure>
@@ -22,7 +22,7 @@ Det gir også passasjeren i baksetet et eget panel der de kan justere baksonen
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/climatecontrol/rearaccontrol.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/climatecontrol/rearaccontrol.jpg"
-        alt="Seperat styring for baksetet" title="Seperat styring for baksetet">
+        class="img-fluid" alt="Seperat styring for baksetet" title="Seperat styring for baksetet">
     </a>
     <figcaption><h4>Seperat styring for baksetet</h4></figcaption>
 </figure>
@@ -34,7 +34,7 @@ Audi e-tron GT er utstyrt med et parkeringsklimaanlegg som kan brukes når bilen
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/climatecontrol/precondition.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/climatecontrol/preconditions.jpg"
-        alt="Pre-condition vil kjøre i 30 minutter og kan startes fra MMI eller myAudi-appen" title="Pre-condition vil kjøre i 30 minutter og kan startes fra MMI eller myAudi-appen">
+        class="img-fluid" alt="Pre-condition vil kjøre i 30 minutter og kan startes fra MMI eller myAudi-appen" title="Pre-condition vil kjøre i 30 minutter og kan startes fra MMI eller myAudi-appen">
     </a>
     <figcaption><h4>Pre-condition vil kjøre i 30 minutter og kan startes fra MMI eller myAudi-appen</h4></figcaption>
 </figure>
@@ -51,7 +51,7 @@ På Audi e-tron GT / RS e-tron GT Ekstra klimaanlegg med ekstra bekvemmelighet e
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/climatecontrol/conviencesettings.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/climatecontrol/conviencesettingss.jpg"
-        alt="komfortinnstillinger" title="komfortinnstillinger">
+        class="img-fluid" alt="komfortinnstillinger" title="komfortinnstillinger">
     </a>
     <figcaption><h4>komfortinnstillinger</h4></figcaption>
 </figure>

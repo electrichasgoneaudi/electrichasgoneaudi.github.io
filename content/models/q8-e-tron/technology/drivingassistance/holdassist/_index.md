@@ -8,7 +8,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/holdassist/holdassist.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/holdassist/holdassists.jpg"
-        alt="Hold assist helps for hill starting" title="Hold assist helps for hill starting">
+        class="img-fluid" alt="Hold assist helps for hill starting" title="Hold assist helps for hill starting">
     </a>
     <figcaption><h4>Hold assist helps for hill starting</h4></figcaption>
 </figure>

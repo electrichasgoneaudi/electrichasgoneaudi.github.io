@@ -8,7 +8,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/nightvision/nightvision.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/nightvision/nightvisions.jpg"
-        alt="Night vision" title="Night vision">
+        class="img-fluid" alt="Night vision" title="Night vision">
     </a>
     <figcaption><h4>Night vision</h4></figcaption>
 </figure>
@@ -20,7 +20,7 @@ The system, which has a range of up to 300 meters (984.3 ft), can detect people 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/nightvision/nightvisioncamera.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/nightvision/nightvisioncameras.jpg"
-        alt="Night vision" title="Night vision">
+        class="img-fluid" alt="Night vision" title="Night vision">
     </a>
     <figcaption><h4>Night vision camera</h4></figcaption>
 </figure>
@@ -28,7 +28,7 @@ The system, which has a range of up to 300 meters (984.3 ft), can detect people 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/nightvision/camera.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/nightvision/cameras.jpg"
-        alt="Night vision" title="Night vision">
+        class="img-fluid" alt="Night vision" title="Night vision">
     </a>
     <figcaption><h4>Night vision camera</h4></figcaption>
 </figure>

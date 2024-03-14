@@ -12,7 +12,7 @@ Standardinstrumenteringen er en digital skjerm som viser de viktigste bildataene
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/multiinstrument.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/multiinstrument.jpg"
-        alt="Kombinasjonsinstrument" title="Kombinasjonsinstrument">
+        class="img-fluid" alt="Kombinasjonsinstrument" title="Kombinasjonsinstrument">
     </a>
     <figcaption><h4>Kombinasjonsinstrument</h4></figcaption>
 </figure>
@@ -32,7 +32,7 @@ Faste indikatorer vises langs den nedre kanten; de viser utetemperatur, tid og k
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/mminavigationvirtualcockpit.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/mminavigationvirtualcockpits.jpg"
-        alt="Virtual Cockpit infotainmentvisning i klassisk modus" title="Virtual Cockpit infotainmentvisning i klassisk modus">
+        class="img-fluid" alt="Virtual Cockpit infotainmentvisning i klassisk modus" title="Virtual Cockpit infotainmentvisning i klassisk modus">
     </a>
     <figcaption><h4>Virtual Cockpit infotainmentvisning i klassisk modus</h4></figcaption>
 </figure>
@@ -53,7 +53,7 @@ Med virtuell cockpit får du to forskjellige moduser. Men med Virtual Cockpit pl
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/virtualcockpitmodes.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/virtualcockpitmodess.jpg"
-        alt="Virtual cockpit moduser" title="Virtual cockpit moduser">
+        class="img-fluid" alt="Virtual cockpit moduser" title="Virtual cockpit moduser">
     </a>
     <figcaption><h4>Virtual cockpit moduser</h4></figcaption>
 </figure>

@@ -14,7 +14,7 @@ The world premiere was on April 14. 2021.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/variants1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/variants1s.jpg" alt="Different variants of the Audi Q4 e-tron and Audi Q4 e-tron Sportback" title="Different variants of the Audi Q4 e-tron and Audi Q4 e-tron Sportback">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/variants1s.jpg" class="img-fluid" alt="Different variants of the Audi Q4 e-tron and Audi Q4 e-tron Sportback" title="Different variants of the Audi Q4 e-tron and Audi Q4 e-tron Sportback">
     </a>
     <figcaption><h4>Different variants of the Audi Q4 e-tron and Audi Q4 e-tron Sportback</h4></figcaption>
 </figure>

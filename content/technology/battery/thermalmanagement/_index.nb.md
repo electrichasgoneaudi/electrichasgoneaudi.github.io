@@ -14,7 +14,7 @@ Dette inkluderer kjøling når den er i bruk for ikke å overopphetes.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/thermalmanagement/batterycooling_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/thermalmanagement/batterycooling_1.jpg"
-        alt="Batterikjøling" title="Batterikjøling">
+        class="img-fluid" alt="Batterikjøling" title="Batterikjøling">
     </a>
     <figcaption><h4>Batterikjøling</h4></figcaption>
 </figure>
@@ -30,7 +30,7 @@ På bildet under ser du både kjølekretser og en tilleggsvarmer som kan varme o
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/thermalmanagement/thermal_management.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/thermalmanagement/thermal_managements.jpg"
-        alt="Audi e-tron GT termisk styring" title="Audi e-tron GT termisk styring">
+        class="img-fluid" alt="Audi e-tron GT termisk styring" title="Audi e-tron GT termisk styring">
     </a>
     <figcaption><h4>Audi e-tron GT termisk styring</h4></figcaption>
 </figure>

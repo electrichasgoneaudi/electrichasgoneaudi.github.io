@@ -8,7 +8,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/reversingcamera/rearviewcamera.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/reversingcamera/rearviewcameras.jpg"
-        alt="Reversing camera in MMI Audi e-tron GT" title="Reversing camera in MMI Audi e-tron GT">
+        class="img-fluid" alt="Reversing camera in MMI Audi e-tron GT" title="Reversing camera in MMI Audi e-tron GT">
     </a>
     <figcaption><h4>Reversing camera in MMI Audi e-tron GT</h4></figcaption>
 </figure>
@@ -18,7 +18,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/reversingcamera/camera.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/reversingcamera/cameras.jpg"
-        alt="The reversing camera is inconspicuously integrated into the handle trim strip of the luggage compartment lid." title="The reversing camera is inconspicuously integrated into the handle trim strip of the luggage compartment lid.">
+        class="img-fluid" alt="The reversing camera is inconspicuously integrated into the handle trim strip of the luggage compartment lid." title="The reversing camera is inconspicuously integrated into the handle trim strip of the luggage compartment lid.">
     </a>
     <figcaption><h4>The reversing camera is inconspicuously integrated into the handle trim strip of the luggage compartment lid."</h4></figcaption>
 </figure>
@@ -26,7 +26,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/reversingcamera/camerarearlocation.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/reversingcamera/camerarearlocations.jpg"
-        alt="The camera has washing functionality" title="The camera has washing functionality">
+        class="img-fluid" alt="The camera has washing functionality" title="The camera has washing functionality">
     </a>
     <figcaption><h4>The camera has washing functionality"</h4></figcaption>
 </figure>

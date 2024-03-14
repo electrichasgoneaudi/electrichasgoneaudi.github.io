@@ -11,7 +11,7 @@ Elektrisk justerbare speil er standard på Audi e-tron (alternativ ID 6XD). De s
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/control.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/controls.jpg" alt="Speilene styres i førerdøren" title="Speilene styres i førerdøren">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/controls.jpg" class="img-fluid" alt="Speilene styres i førerdøren" title="Speilene styres i førerdøren">
     </a>
     <figcaption><h4>Speilene styres i førerdøren</h4></figcaption>
 </figure>
@@ -26,28 +26,28 @@ Det er noen valgfrie speil
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/mirrors_painted.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/mirrors_painteds.png" alt="Lakkerte speilhus i bilens farger" title="Lakkerte speilhus i bilens farger">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/mirrors_painteds.png" class="img-fluid" alt="Lakkerte speilhus i bilens farger" title="Lakkerte speilhus i bilens farger">
     </a>
     <figcaption><h4>Lakkerte speilhus i bilens farger</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/mirrors_black.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/mirrors_blacks.png" alt="Black mirror Option ID 6FJ" title="Black mirror Option ID 6FJ">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/mirrors_blacks.png" class="img-fluid" alt="Black mirror Option ID 6FJ" title="Black mirror Option ID 6FJ">
     </a>
     <figcaption><h4>Black mirror Option ID 6FJ</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/mirrors_carbon.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/mirrors_carbons.png" alt="Black mirror Option ID 6FJ" title="Black mirror Option ID 6FJ">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/mirrors_carbons.png" class="img-fluid" alt="Black mirror Option ID 6FJ" title="Black mirror Option ID 6FJ">
     </a>
     <figcaption><h4>Karbonspeil</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/mirrors_aluminum.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/mirrors_aluminums.jpg" alt="Aluminum speil for e-tron S" title="Aluminum speil for e-tron S">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/mirrors_aluminums.jpg" class="img-fluid" alt="Aluminum speil for e-tron S" title="Aluminum speil for e-tron S">
     </a>
     <figcaption><h4>Aluminum speil for e-tron S</h4></figcaption>
 </figure>
@@ -60,21 +60,21 @@ De virtuelle speilene er ikke innfellbare.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/virtualmirrors.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/virtualmirrorss.jpg" alt="Virtuelle speil" title="Virtuelle speil">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/virtualmirrorss.jpg" class="img-fluid" alt="Virtuelle speil" title="Virtuelle speil">
     </a>
     <figcaption><h4>Virtuelle speil</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/virtualmirrors2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/virtualmirrors2s.jpg" alt="Virtuelle speil" title="Virtuelle speil">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/virtualmirrors2s.jpg" class="img-fluid" alt="Virtuelle speil" title="Virtuelle speil">
     </a>
     <figcaption><h4>Virtuelle speil</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/virtualmirrors3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/virtualmirrors3s.jpg" alt="Virtuelle speil" title="Virtuelle speil">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/mirrors/virtualmirrors3s.jpg" class="img-fluid" alt="Virtuelle speil" title="Virtuelle speil">
     </a>
     <figcaption><h4>Virtuelle speil</h4></figcaption>
 </figure>

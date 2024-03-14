@@ -33,14 +33,14 @@ The cell used on e-tron 55 before January 2021 is LG Chem E66A. The cell type is
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/lgchenx21.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/lgchenx21s.jpg" alt="LGX N2.1 60AH pouch cell from LG Chem" title="LGX N2.1 60AH pouch cell from LG Chem">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/lgchenx21s.jpg" class="img-fluid" alt="LGX N2.1 60AH pouch cell from LG Chem" title="LGX N2.1 60AH pouch cell from LG Chem">
     </a>
     <figcaption><h4>LGX N2.1 60AH pouch cell from LG Chem</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/lgmodule.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/lgmodules.jpg" alt="Battery module with 12 LG Chem pouch cells" title="LGX N2.1 60AH pouch cell from LG Chem">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/lgmodules.jpg" class="img-fluid" alt="Battery module with 12 LG Chem pouch cells" title="LGX N2.1 60AH pouch cell from LG Chem">
     </a>
     <figcaption><h4>Battery module with 12 LG Chem pouch cells</h4></figcaption>
 </figure>
@@ -70,14 +70,14 @@ After January 2021, Audi replaced the battery cells on e-tron 55 batteries with 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/etron50battery.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/etron50batterys.jpg" alt="e-tron battery module with Samsung prismatic cell and 71kWh battery pack" title="e-tron battery module with Samsung prismatic cell and 71kWh battery pack">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/etron50batterys.jpg" class="img-fluid" alt="e-tron battery module with Samsung prismatic cell and 71kWh battery pack" title="e-tron battery module with Samsung prismatic cell and 71kWh battery pack">
     </a>
     <figcaption><h4>e-tron battery module with Samsung prismatic cell and 71kWh battery pack</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/samsungcells.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/samsungcellss.png" alt="Samsung prismatic cells" title="Samsung prismatic cells">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/samsungcellss.png" class="img-fluid" alt="Samsung prismatic cells" title="Samsung prismatic cells">
     </a>
     <figcaption><h4>Samsung prismatic cells</h4></figcaption>
 </figure>
@@ -109,7 +109,7 @@ Each module weighs approx 13kg.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/lgmodule.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/lgmodules.jpg" alt="Module with LG pouch cell" title="Module with LG pouch cell">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/lgmodules.jpg" class="img-fluid" alt="Module with LG pouch cell" title="Module with LG pouch cell">
     </a>
     <figcaption><h4>Module with LG pouch cells</h4></figcaption>
 </figure>
@@ -141,7 +141,7 @@ Each module is on 14.666 Volt and has a capacity of 14.666 x 14.666 = 2640 Wh or
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/prismaticcellmodule.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/prismaticcellmodules.jpg" alt="Module with 12 60Ah  Prismatic cells from e-golf." title="Module with 12 60Ah  Prismatic cells from e-golf.">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/prismaticcellmodules.jpg" class="img-fluid" alt="Module with 12 60Ah  Prismatic cells from e-golf." title="Module with 12 60Ah  Prismatic cells from e-golf.">
     </a>
     <figcaption><h4>Module with 12 60Ah  Prismatic cells from e-golf.</h4></figcaption>
 </figure>
@@ -152,7 +152,7 @@ The 71kWh battery consist of 27 modules and all are located on the same "floor".
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batterycase50.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batterycase50s.jpg" alt="71kWh battery for e-tron 50 with 27 modules" title="71kWh battery for e-tron 50 with 27 modules">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batterycase50s.jpg" class="img-fluid" alt="71kWh battery for e-tron 50 with 27 modules" title="71kWh battery for e-tron 50 with 27 modules">
     </a>
     <figcaption><h4>71kWh battery for e-tron 50 with 27 modules</h4></figcaption>
 </figure>
@@ -162,14 +162,14 @@ The 95kWh uses a second floor under the rear seats to get the room needed for th
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batterycase95kwh.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batterycase95kwhs.jpg" alt="Battery pack 95kWh with 36 modules, including five on the second floor" title="Battery pack 95kWh with 36 modules, including five on the second floor">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batterycase95kwhs.jpg" class="img-fluid" alt="Battery pack 95kWh with 36 modules, including five on the second floor" title="Battery pack 95kWh with 36 modules, including five on the second floor">
     </a>
     <figcaption><h4>Battery pack 95kWh with 36 modules, including five on the second floor</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batterycasing.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batterycasings.jpg" alt="95kWh battery pack" title="95kWh battery pack">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batterycasings.jpg" class="img-fluid" alt="95kWh battery pack" title="95kWh battery pack">
     </a>
     <figcaption><h4>95kWh battery pack</h4></figcaption>
 </figure>
@@ -181,7 +181,7 @@ comprised of extruded sections, it holds the cell modules like a typecase.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/crashstructure.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/crashstructures.jpg" alt="Integrated crash structure of the lithium-ion battery" title="Integrated crash structure of the lithium-ion battery">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/crashstructures.jpg" class="img-fluid" alt="Integrated crash structure of the lithium-ion battery" title="Integrated crash structure of the lithium-ion battery">
     </a>
     <figcaption><h4>Integrated crash structure of the lithium-ion battery</h4></figcaption>
 </figure>
@@ -198,7 +198,7 @@ A cooling system of flat aluminum extruded sections divided uniformly into small
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/cooling_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/cooling_1s.jpg" alt="Cooling the lithium-ion battery via the chiller" title="Cooling the lithium-ion battery via the chiller">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/cooling_1s.jpg" class="img-fluid" alt="Cooling the lithium-ion battery via the chiller" title="Cooling the lithium-ion battery via the chiller">
     </a>
     <figcaption><h4>Cooling the lithium-ion battery via the chiller</h4></figcaption>
 </figure>
@@ -207,7 +207,7 @@ The battery and all of its parameters, such as charge status, power output, and 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batteryjunctionbox.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batteryjunctionboxs.jpg" alt="Battery junction box" title="Battery junction box">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batteryjunctionboxs.jpg" class="img-fluid" alt="Battery junction box" title="Battery junction box">
     </a>
     <figcaption><h4>Battery junction box</h4></figcaption>
 </figure>
@@ -224,7 +224,7 @@ For the 71kWh battery, the max charge speed is 125kW.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/chargespeed50.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/chargespeed50s.png" alt="Charging curve Audi e-tron 50" title="Charging curve Audi e-tron 50">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/chargespeed50s.png" class="img-fluid" alt="Charging curve Audi e-tron 50" title="Charging curve Audi e-tron 50">
     </a>
     <figcaption><h4>Charging curve Audi e-tron 50</h4></figcaption>
 </figure>
@@ -233,7 +233,7 @@ For the 95kWh battery, the max charging speed is 150kW.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/chargespeed55.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/chargespeed55s.png" alt="Charging curve Audi e-tron 55" title="Charging curve Audi e-tron 55">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/chargespeed55s.png" class="img-fluid" alt="Charging curve Audi e-tron 55" title="Charging curve Audi e-tron 55">
     </a>
     <figcaption><h4>Charging curve Audi e-tron 55</h4></figcaption>
 </figure>
@@ -244,7 +244,7 @@ Several cars have higher top speed on charging, but the consistently high perfor
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/chargingcurve.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/chargingcurves.jpg" alt="e-tron 55 charging curve compared with competition" title="e-tron 55 charging curve compared with competition">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/chargingcurves.jpg" class="img-fluid" alt="e-tron 55 charging curve compared with competition" title="e-tron 55 charging curve compared with competition">
     </a>
     <figcaption><h4>e-tron 55 charging curve compared with competition</h4></figcaption>
 </figure>

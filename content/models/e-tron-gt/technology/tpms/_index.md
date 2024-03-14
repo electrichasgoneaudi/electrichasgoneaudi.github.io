@@ -14,7 +14,7 @@ With direct TPMS there is an air pressure sensor in each tire that communicates 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/tpms/tpms3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/tpms/tpms3s.jpg"
-        alt="Tire pressure measure system" title="Tire pressure measure system">
+        class="img-fluid" alt="Tire pressure measure system" title="Tire pressure measure system">
     </a>
     <figcaption><h4>Tire pressure measure system</h4></figcaption>
 </figure>
@@ -24,7 +24,7 @@ Below you see how MMI indicates that the left front tire has much lower pressure
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/tpms/tpms3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/tpms/tpms3s.jpg"
-        alt="Left front wheel with lower pressure" title="Left front wheel with lower pressure">
+        class="img-fluid" alt="Left front wheel with lower pressure" title="Left front wheel with lower pressure">
     </a>
     <figcaption><h4>Left front wheel with lower pressure</h4></figcaption>
 </figure>
@@ -32,7 +32,7 @@ Below you see how MMI indicates that the left front tire has much lower pressure
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/tpms/tpms3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/tpms/tpms3s.jpg"
-        alt="Tire pressure measure system" title="Tire pressure measure system">
+        class="img-fluid" alt="Tire pressure measure system" title="Tire pressure measure system">
     </a>
     <figcaption><h4>Tire pressure measure system</h4></figcaption>
 </figure>

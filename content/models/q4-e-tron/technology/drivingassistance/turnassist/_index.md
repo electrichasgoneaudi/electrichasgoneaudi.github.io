@@ -10,7 +10,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/turnassist/turnassist.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/turnassist/turnassists.jpg"
-        alt="Turn assist Audi Q4 e-tron" title="Turn assist Audi Q4 e-tron">
+        class="img-fluid" alt="Turn assist Audi Q4 e-tron" title="Turn assist Audi Q4 e-tron">
     </a>
     <figcaption><h4>Turn assist Audi Q4 e-tron</h4></figcaption>
 </figure>)

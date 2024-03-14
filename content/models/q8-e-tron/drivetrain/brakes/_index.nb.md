@@ -72,7 +72,7 @@ Ved ABS-bremsing merkes ikke trykkoppbygging og reduksjon i form av irriterende 
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/brakes/brakesystem.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/brakes/brakesystems.jpg" alt="Audi Q8 e-tron bremsesystem" title="Audi Q8 e-tron bremsesystem ">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/brakes/brakesystems.jpg" class="img-fluid" class="img-fluid" alt="Audi Q8 e-tron bremsesystem" title="Audi Q8 e-tron bremsesystem ">
     </a>
     <figcaption><h4>Audi Q8 e-tron bremsesystem</h4></figcaption>
 </figur>

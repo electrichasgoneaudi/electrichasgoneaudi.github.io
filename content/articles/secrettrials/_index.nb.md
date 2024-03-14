@@ -8,7 +8,7 @@ weight: 99996
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials1s.jpg" alt="Raphael Kis and the new 2023 Audi SQ8 e-tron prototype" title="Raphael Kis and the new 2023 Audi SQ8 e-tron prototype">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials1s.jpg" class="img-fluid" alt="Raphael Kis and the new 2023 Audi SQ8 e-tron prototype" title="Raphael Kis and the new 2023 Audi SQ8 e-tron prototype">
     </a>
     <figcaption><h4>Raphael Kis and the new 2023 Audi SQ8 e-tron prototype</h4></figcaption>
 </figure>
@@ -25,7 +25,7 @@ Den nest største byen ligger flere kilometer unna, og til og med det nærmeste 
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials3s.jpg" alt="2023 Audi SQ8 e-tron prototype" title="2023 Audi SQ8 e-tron prototype">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials3s.jpg" class="img-fluid" alt="2023 Audi SQ8 e-tron prototype" title="2023 Audi SQ8 e-tron prototype">
     </a>
     <figcaption><h4>2023 Audi SQ8 e-tron prototype</h4></figcaption>
 </figur>
@@ -44,7 +44,7 @@ Fortsatt flagrer tykke snøflak fra himmelen utenfor vinduet, opplyst av lyset f
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials2s.jpg" alt="Justere atferd" title="Justere atferd">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials2s.jpg" class="img-fluid" alt="Justere atferd" title="Justere atferd">
     </a>
     <figcaption><h4>Justere atferd</h4></figcaption>
 </figur>

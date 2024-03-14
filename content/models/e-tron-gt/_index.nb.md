@@ -12,7 +12,7 @@ To kraftige elektriske motorer gir dynamisk kjøreytelse og trygg elektrisk fire
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/variants/variants.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/variants/variantss.jpg"
-        alt="Audi e-tron GT & Audi RS e-tron GT" title="Audi e-tron GT & Audi RS e-tron GT">
+        class="img-fluid" alt="Audi e-tron GT & Audi RS e-tron GT" title="Audi e-tron GT & Audi RS e-tron GT">
     </a>
     <figcaption><h4>Audi e-tron GT & Audi RS e-tron GT</h4></figcaption>
 </figure>

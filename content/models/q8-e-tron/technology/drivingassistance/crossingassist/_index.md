@@ -13,7 +13,7 @@ If the driver wants to ease into an intersection or exit with poor visibility, h
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/crossingassist/crossing_assist.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/crossingassist/crossing_assists.jpg"
-        alt="crossing assist" title="crossing assist">
+        class="img-fluid" alt="crossing assist" title="crossing assist">
     </a>
     <figcaption><h4>crossing assist</h4></figcaption>
 </figure>

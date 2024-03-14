@@ -10,7 +10,7 @@ A virtual overhead view shown in the MMI display gives the driver an overview of
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/360camera/camerarear.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/360camera/camerarears.jpg"
-        alt="Rear camera view combined with top view" title="Rear camera view combined with top view">
+        class="img-fluid" alt="Rear camera view combined with top view" title="Rear camera view combined with top view">
     </a>
     <figcaption><h4>Rear camera view combined with top view</h4></figcaption>
 </figure>
@@ -20,7 +20,7 @@ An additional feature for some models is a virtual 3D view. The driver can use t
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/360camera/camera3d.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/360camera/camera3ds.jpg"
-        alt="3D view combined with top view" title="3D view combined with top view">
+        class="img-fluid" alt="3D view combined with top view" title="3D view combined with top view">
     </a>
     <figcaption><h4>3D view combined with top view</h4></figcaption>
 </figure>
@@ -28,7 +28,7 @@ An additional feature for some models is a virtual 3D view. The driver can use t
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/360camera/camera3d_2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/360camera/camera3d_2s.jpg"
-        alt="3D view combined with top view" title="3D view combined with top view">
+        class="img-fluid" alt="3D view combined with top view" title="3D view combined with top view">
     </a>
     <figcaption><h4>3D view combined with top view</h4></figcaption>
 </figure>

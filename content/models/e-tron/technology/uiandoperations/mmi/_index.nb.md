@@ -11,7 +11,7 @@ Audi MMI® (Multi Media Interface)-systemet ble laget for å strømlinjeforme ko
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/mmi/both_screens_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/mmi/both_screens_1s.jpg"
-        alt="Audi MMI touch" title="Audi MMI touch">
+        class="img-fluid" alt="Audi MMI touch" title="Audi MMI touch">
     </a>
     <figcaption><h4>Audi MMI touch</h4></figcaption>
 </figure>
@@ -28,7 +28,7 @@ Det nedre displayet i midtkonsollen brukes til å betjene klimaanlegget og bekve
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/mmi/second_screen_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/mmi/second_screen_1s.jpg"
-        alt="Nedre skjerm" title="Nedre skjerm">
+        class="img-fluid" alt="Nedre skjerm" title="Nedre skjerm">
     </a>
     <figcaption><h4>Nedre skjerm</h4></figcaption>
 </figure>

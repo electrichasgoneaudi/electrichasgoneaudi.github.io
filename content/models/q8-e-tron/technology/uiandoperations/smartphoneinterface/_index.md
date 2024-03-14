@@ -15,7 +15,7 @@ The below image show how Waze warns users about a speed camera.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/smartphoneinterface/speedcam.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/smartphoneinterface/speedcams.jpg"
-        alt="Android Auto with Waze warning about speedcam" title="Android Auto with Waze warning about speedcam">
+        class="img-fluid" alt="Android Auto with Waze warning about speedcam" title="Android Auto with Waze warning about speedcam">
     </a>
     <figcaption><h4>Android Auto with Waze warning about speedcam</h4></figcaption>
 </figure>

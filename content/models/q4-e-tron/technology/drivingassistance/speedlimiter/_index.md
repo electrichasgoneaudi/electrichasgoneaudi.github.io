@@ -10,7 +10,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/speedlimiter/speedlimiterhandle.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/speedlimiter/speedlimiterhandles.jpg"
-        alt="The speed limiter is controlled on top of cruise control handle" title="The speed limiter is controlled on top of cruise control handle">
+        class="img-fluid" alt="The speed limiter is controlled on top of cruise control handle" title="The speed limiter is controlled on top of cruise control handle">
     </a>
     <figcaption><h4>The speed limiter is controlled on top of cruise control handle</h4></figcaption>
 </figure>

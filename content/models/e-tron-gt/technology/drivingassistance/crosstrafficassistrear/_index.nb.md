@@ -10,7 +10,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/crosstrafficassistrear/crosstrafficrear.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/crosstrafficassistrear/crosstrafficrears.jpg"
-        alt="assistent for kryssende trafikk bak" title="assistent for kryssende trafikk bak">
+        class="img-fluid" alt="assistent for kryssende trafikk bak" title="assistent for kryssende trafikk bak">
     </a>
     <figcaption><h4>assistent for kryssende trafikk bak</h4></figcaption>
 </figure>

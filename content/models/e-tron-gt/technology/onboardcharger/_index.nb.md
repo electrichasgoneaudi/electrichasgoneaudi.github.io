@@ -18,7 +18,7 @@ Porten på førersiden støtter kun AC-lading, mens porten på passasjersiden st
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/onboardcharger/chargeport_right.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/onboardcharger/chargeport_rights.jpg"
-        alt="Passasjersideladeport med Type 2 CCS-port som støtter AC- og DC-lading" title="Passasjersideladeport med Type 2 CCS-port som støtter AC- og DC-lading">
+        class="img-fluid" alt="Passasjersideladeport med Type 2 CCS-port som støtter AC- og DC-lading" title="Passasjersideladeport med Type 2 CCS-port som støtter AC- og DC-lading">
     </a>
     <figcaption><h4>Passasjersideladeport med Type 2 CCS-port som støtter AC- og DC-lading</h4></figcaption>
 </figure>
@@ -26,7 +26,7 @@ Porten på førersiden støtter kun AC-lading, mens porten på passasjersiden st
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/onboardcharger/chargeport_left2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/onboardcharger/chargeport_left2s.jpg"
-        alt="Ladeport for sjåfør med bare Type 2-port for AC-lading" title="Ladeport for sjåfør med bare Type 2-port for AC-lading">
+        class="img-fluid" alt="Ladeport for sjåfør med bare Type 2-port for AC-lading" title="Ladeport for sjåfør med bare Type 2-port for AC-lading">
     </a>
     <figcaption><h4>Ladeport for sjåfør med bare Type 2-port for AC-lading</h4></figcaption>
 </figure>
@@ -46,7 +46,7 @@ I illustrasjonen under ser du plasseringen av ladeenhetene.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/onboardcharger/electricdrivetrain.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/onboardcharger/electricdrivetrains.jpg"
-        alt="Elektrisk drivlinje med laderens plassering" title="Elektrisk drivlinje med laderens plassering">
+        class="img-fluid" alt="Elektrisk drivlinje med laderens plassering" title="Elektrisk drivlinje med laderens plassering">
     </a>
     <figcaption><h4>Elektrisk drivlinje med laderens plassering</h4></figcaption>
 </figure>

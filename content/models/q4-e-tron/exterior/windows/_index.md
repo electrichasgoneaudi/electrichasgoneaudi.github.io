@@ -16,7 +16,7 @@ in the luggage room.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/windows/privacywindows.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/windows/privacywindowss.jpg"
-        alt="Privacy windows" title="Privacy windows">
+        class="img-fluid" alt="Privacy windows" title="Privacy windows">
     </a>
     <figcaption><h4>Privacy windows</h4></figcaption>
 </figure>
@@ -24,7 +24,7 @@ in the luggage room.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/windows/paint_typhoongrey_2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/windows/paint_typhoongrey_2s.jpg"
-        alt="Privacy windows on a Audi Q4 e-tron with Typhoon color" title="Privacy windows on a Audi Q4 e-tron with Typhoon color">
+        class="img-fluid" alt="Privacy windows on a Audi Q4 e-tron with Typhoon color" title="Privacy windows on a Audi Q4 e-tron with Typhoon color">
     </a>
     <figcaption><h4>Privacy windows on a Audi Q4 e-tron with Typhoon color</h4></figcaption>
 </figure>

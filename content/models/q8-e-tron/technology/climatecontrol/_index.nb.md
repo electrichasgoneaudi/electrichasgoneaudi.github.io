@@ -10,7 +10,7 @@ Klimaanlegget styres i hovedsak den nedre MMI-skjermen.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/accontrol.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/accontrols.jpg"
-        alt="I den nedre skjermen kan vifter og temperatur kontrolleres" title="I den nedre skjermen kan vifter og temperatur kontrolleres">
+        class="img-fluid" alt="I den nedre skjermen kan vifter og temperatur kontrolleres" title="I den nedre skjermen kan vifter og temperatur kontrolleres">
     </a>
     <figcaption><h4>I den nedre skjermen kan vifter og temperatur kontrolleres</h4></figcaption>
 </figure>
@@ -44,7 +44,7 @@ Dette gir i tilegg til egenskapene med 2 soner.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/4zone.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/4zones.jpg"
-        alt="Display for å styre de to sonene i baksetet" title="Display for å styre de to sonene i baksetet">
+        class="img-fluid" alt="Display for å styre de to sonene i baksetet" title="Display for å styre de to sonene i baksetet">
     </a>
     <figcaption><h4>Display for å styre de to sonene i baksetet</h4></figcaption>
 </figure>
@@ -52,7 +52,7 @@ Dette gir i tilegg til egenskapene med 2 soner.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/firstscreenmenu.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/firstscreenmenus.jpg"
-        alt="Bakre soner kan også kontrolleres foran eller synkroniseres med resten" title="Bakre soner kan også kontrolleres foran eller synkroniseres med resten">
+        class="img-fluid" alt="Bakre soner kan også kontrolleres foran eller synkroniseres med resten" title="Bakre soner kan også kontrolleres foran eller synkroniseres med resten">
     </a>
     <figcaption><h4>Bakre soner kan også kontrolleres foran eller synkroniseres med resten</h4></figcaption>
 </figure>
@@ -67,7 +67,7 @@ fra MMI-manual eller satt av en timer. Et typisk brukstilfelle er når du lader 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/preconditionnb.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/preconditionnbs.jpg"
-        alt="Parkeringsklimanlegg vil kjøre i 30 minutter (60 ved lynlading) og kan startes fra MMI eller myAudi app" title="Parkeringsklimanlegg vil kjøre i 30 minutter (60 ved lynlading) og kan startes fra MMI eller myAudi app">
+        class="img-fluid" alt="Parkeringsklimanlegg vil kjøre i 30 minutter (60 ved lynlading) og kan startes fra MMI eller myAudi app" title="Parkeringsklimanlegg vil kjøre i 30 minutter (60 ved lynlading) og kan startes fra MMI eller myAudi app">
     </a>
     <figcaption><h4>Parkeringsklimanlegg vil kjøre i 30 minutter (60 ved lynlading) og kan startes fra MMI eller myAudi app</h4></figcaption>
 </figure>
@@ -86,7 +86,7 @@ Tilvalgsnr: **GA2**
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/conviencesettingsnb.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/conviencesettingsnbs.jpg"
-        alt="komfortinnstillinger" title="komfortinnstillinger">
+        class="img-fluid" alt="komfortinnstillinger" title="komfortinnstillinger">
     </a>
     <figcaption><h4>komfortinnstillinger</h4></figcaption>
 </figure>

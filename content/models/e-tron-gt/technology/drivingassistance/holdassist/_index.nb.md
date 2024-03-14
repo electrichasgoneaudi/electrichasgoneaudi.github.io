@@ -8,7 +8,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/holdassist/holdassist.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/holdassist/holdassists.jpg"
-        alt="Hold Assist hjelper for bakkestart på Audi RS e-tron GT" title="Hold Assist hjelper for bakkestart på Audi RS e-tron GT">
+        class="img-fluid" alt="Hold Assist hjelper for bakkestart på Audi RS e-tron GT" title="Hold Assist hjelper for bakkestart på Audi RS e-tron GT">
     </a>
     <figcaption><h4>Hold Assist hjelper for bakkestart på Audi RS e-tron GT</h4></figcaption>
 </figure>
