@@ -3,6 +3,7 @@ title: Audi q4 e-tron
 linktitle: Audi Q4 e-tron
 description: Audi Q4 e-tron kan leveres med forskjellige motorer, batteri, teknologi og design alternativer og ha rekkevidde på opptil 532km
 weight: 3
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 
