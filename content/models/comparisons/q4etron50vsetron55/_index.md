@@ -217,16 +217,71 @@ With the possibility of individual contour seats with massage and ventilation, a
 
 Below you see the full specification and options comparison of the models.
 
+
+<table class="table table-striped border">
+    <thead>
+        <tr>
+        <th>
+        </th>
+        <th>Q4 e-tron 50 quattro
+        </th>
+        <th>e-tron 55 quattro
+    </thead>
+    <tbody>
+    <tr>
+        <td>Peak electrical output in KW (hp)</td>
+        <td>195(265)</td>
+        <td>265(360)</td>
+    </tr>
+    <tr>
+        <td>Peak electrical output boost in kW (hp)</td>
+        <td>220(299) </td>
+        <td>300 (408)</td>
+    </tr>
+     <tr>
+        <td>0 -100 km/h (62.1 mph) in s(boost)</td>
+        <td> ? (6.2)  </td>
+        <td>6.6 (5.7)</td>
+    </tr>
+     <tr>
+        <td>Top speed in km/h (mph)</td>
+        <td>180  </td>
+        <td>200 (124.3)</td>
+    </tr>
+      <tr>
+        <td>Drive</td>
+        <td>Quattro </td>
+        <td>Quattro</td>
+    </tr>
+    <tr>
+        <td>Max recuperation</td>
+        <td><a href="../../q4-e-tron/drivetrain/brakes/">145KW</a> </td>
+        <td><a href="../../e-tron/drivetrain/brakes/">220KW</a></td>
+    </tr>
+    <tr>
+        <td>Adaptive Air suspension</td>
+        <td>N/A </td>
+        <td><a href="../../e-tron/drivetrain/suspension/">standard</a></td>
+    </tr>
+    <tr>
+        <td>Progressive steering</td>
+        <td><a href="../../q4-e-tron/drivetrain/suspension/">standard</a> </td>
+        <td><a href="../../e-tron/drivetrain/suspension/">standard</a></td>
+    </tr>
+    <tr>
+        <td>Progressive steering</td>
+        <td><a href="../../q4-e-tron/drivetrain/suspension/">standard</a> </td>
+        <td><a href="../../e-tron/drivetrain/suspension/">standard</a></td>
+    </tr>
+
+</tbody>
+</table>
+
+
+
+
 |     | **Q4 e-tron 50 quattro** | **e-tron 55 quattro** |
 | ----------- | ----------- |----------- |
-| Peak electrical output in KW (hp) | 195(265) | 265(360) |
-| Peak electrical output boost in kW (hp) | 220(299) | 300 (408) |
-| 0 -100 km/h (62.1 mph) in s(boost) | ? (6.2) | 6.6 (5.7)|
-| Top speed in km/h (mph) | 180 | 200 (124.3) |
-| Drive | Quattro | Quattro |
-| Max recuperation | [145KW](../../q4-e-tron/drivetrain/brakes/) | [220KW](../../e-tron/drivetrain/brakes/) |
-| Adaptive Air suspension | N/A | [standard](../../e-tron/drivetrain/suspension/) |
-| Progressive steering | [standard](../../q4-e-tron/drivetrain/suspension/) | [standard](../../e-tron/drivetrain/suspension/) |
 | Audi drive select | [option](../../q4-e-tron/technology/audidriveselect/) | [standard](../../e-tron/technology/audidriveselect/) |
 | Gross battery | [82kWh](../../q4-e-tron/drivetrain/battery/) | [95kWh](../../e-tron/drivetrain/battery/) |
 | Net battery | [77kWh](../../q4-e-tron/drivetrain/battery/) | [86.5kWh](../../e-tron/drivetrain/battery/) |

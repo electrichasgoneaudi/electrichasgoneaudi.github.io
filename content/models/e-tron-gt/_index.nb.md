@@ -3,6 +3,7 @@ title: Audi e-tron GT
 linktitle: Audi e-tron GT
 description: Audi e-tron GT er den andre helelektriske modellen fra Audi. Med Audi RS e-tron GT-versjonen har Audi laget sin kraftigste RS-modell noensinne. Og designet gjør den til en av de vakreste bilene i vår tid.
 weight: 2
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 Bilen er bygget på J1 Performance -plattformen, en plattform i fellesskap utviklet av Audi og Porsche.

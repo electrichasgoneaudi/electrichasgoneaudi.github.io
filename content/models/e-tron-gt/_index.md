@@ -3,6 +3,7 @@ title: Audi e-tron GT
 linktitle: Audi e-tron GT
 description: Audi e-tron GT is the second all-electric model from Audi. With the Audi RS e-tron GT version, Audi has made their most powerful RS-model ever. And the design makes it one of the most beautiful car in our time. 
 weight: 2
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 The car is built on the J1 Performance platform, a platform jointly developed by Audi and Porsche.

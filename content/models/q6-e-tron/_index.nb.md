@@ -3,6 +3,7 @@ title: Audi Q6 e-tron
 linktitle: Audi Q6 e-tron
 description: Audi Q6 e-tron vil kunne leveres med forskjellige motor, batteri, teknologi og design alternativer og ha rekkevidde på opptil 600km.
 weight: 4
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 

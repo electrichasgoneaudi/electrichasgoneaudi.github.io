@@ -50,7 +50,7 @@ See below for our unique in-depth information on the different models and varian
 </div>
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="q8-e-tron/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/sq8_and_q8_variants_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Acura" ></a>
+	<a href="q8-e-tron/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/sq8_and_q8_variants_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q8 e-tron" ></a>
 	<h2>Audi Q8 e-tron</h2>
 	<p>
 		The Audi Q8 e-tron had its <a href="../articles/e-tron-facelift-q8-etron-2024/">world premiere</a> on November 9. 2022, replacing the Audi e-tron. The Audi Q8 e-tron is a facelift of the Audi e-tron and is renamed to make it more logically named together with the Q4 e-tron and the Q6 e-tron. Furthermore, with a larger battery and increased efficiency, that range improved by up to 44% compared to the same variant for the Audi e-tron.
@@ -60,7 +60,7 @@ See below for our unique in-depth information on the different models and varian
 
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="a6-e-tron/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/sq8_and_q8_variants_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Acura" ></a>
+	<a href="a6-e-tron/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron" ></a>
 	<h2>Audi A6 e-tron</h2>
 	<p>
 		Audi A6 e-tron was revealed in April 2021 as a concept car. It is expected to have a world premiere in 2023 and will be the fifth all-electric model from Audi. With range up to 700km it will the model with the longest range.
@@ -70,7 +70,6 @@ See below for our unique in-depth information on the different models and varian
 
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="a4-e-tron/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/sq8_and_q8_variants_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Acura" ></a>
 	<h2>Audi A4 e-tron</h2>
 	<p>
 		Audi A4 e-tron will have a world premiere in 2024
@@ -81,7 +80,7 @@ See below for our unique in-depth information on the different models and varian
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="a4-e-tron/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/modelss.jpg" class="img-fluid mb-2" class="img-fluid" alt="Acura" ></a>
-	<h2>Model comparisons/h2>
+	<h2>Model comparisons</h2>
 	<p>
 	</p>
 	<a href="comparisons/" class="btn btn-outline-primary" role="button">Here you find comparisons between the different models</a>

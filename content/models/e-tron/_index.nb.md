@@ -3,6 +3,7 @@ title: Audi e-tron
 linktitle: Audi e-tron
 description: Audi e-tron er den første fullelektriske modellen fra Audi og kommer i flere varianter med mange valgmuligheter for motor, batteri, teknologi og design. 
 weight: 1
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 Den sportslige SUV-en kombinerer plassen og komforten til en typisk luksusbil med en rekkevidde som er egnet for daglig bruk, og fører føreren inn i en ny æra med elektrisk firehjulsdrift.

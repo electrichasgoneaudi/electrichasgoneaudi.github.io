@@ -3,6 +3,7 @@ title: Audi Q6 e-tron
 linktitle: Audi Q6 e-tron
 description: Audi Q6 e-tron will be available with different motors, batteries, technology, design options, and a range of up to 600km(372 mi). 
 weight: 4
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 The Audi Q6 e-tron will have a world premiere in 2023 and will be the fifth all-electric model from Audi and the most sporty SUV.

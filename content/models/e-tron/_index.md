@@ -3,6 +3,7 @@ title: Audi e-tron
 linktitle: Audi e-tron
 description: The Audi e-tron is the first fully electric model from Audi and comes in several variants with many options for motor, battery, technology, and design. 
 weight: 1
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 
