@@ -16,7 +16,7 @@ Motoren startes og slås av ved hjelp av motorstart-stopp-knappen i midtkonsolle
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/startbutton.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/startbutton.jpg"
-        alt="Midtkonsoll med start/stopp-knapp" title="Midtkonsoll med start/stopp-knapp">
+        class="img-fluid" alt="Midtkonsoll med start/stopp-knapp" title="Midtkonsoll med start/stopp-knapp">
     </a>
     <figcaption><h4>Midtkonsoll med start/stopp-knapp</h4></figcaption>
 </figure>
@@ -34,7 +34,7 @@ Bagasjeromslokket kan enkelt låses opp ved hjelp av bagasjeromsknappen på bekv
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/kicksensor.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/kicksensors.jpg"
-        alt="Med komfortnøkkel kan du åpne bakluken ved å sparke foten under bakluken" title="Med komfortnøkkel kan du åpne bakluken ved å sparke foten under bakluken">
+        class="img-fluid" alt="Med komfortnøkkel kan du åpne bakluken ved å sparke foten under bakluken" title="Med komfortnøkkel kan du åpne bakluken ved å sparke foten under bakluken">
     </a>
     <figcaption><h4>Med komfortnøkkel kan du åpne bakluken ved å sparke foten under bakluken</h4></figcaption>
 </figure>
@@ -51,7 +51,7 @@ En visuell differensiering av høy kvalitet på toppen og bunnen av nøkkelen gj
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/advancekey.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/advancekeys.jpg"
-        alt="Audi Advance key" title="Audi Advance key">
+        class="img-fluid" alt="Audi Advance key" title="Audi Advance key">
     </a>
     <figcaption><h4>Audi Advance key</h4></figcaption>
 </figure>
@@ -67,7 +67,7 @@ Tyverialarmsystem
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/tailgate_buttons.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/tailgate_buttonss.jpg"
-        alt="Bakluken kan lukkes og låses ved hjelp av knapper" title="Bakluken kan lukkes og låses ved hjelp av knapper">
+        class="img-fluid" alt="Bakluken kan lukkes og låses ved hjelp av knapper" title="Bakluken kan lukkes og låses ved hjelp av knapper">
     </a>
     <figcaption><h4>Bakluken kan lukkes og låses ved hjelp av knapper</h4></figcaption>
 </figure>

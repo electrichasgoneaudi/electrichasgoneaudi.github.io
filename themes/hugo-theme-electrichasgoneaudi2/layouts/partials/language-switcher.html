@@ -9,7 +9,7 @@
     {{- range .AllTranslations -}}
     <li>
       <a class="dropdown-item" href="{{ .RelPermalink }}">
-        <img src="/images/{{ .Language }}.svg" width="20px" class="img-fluid" alt="Language flag" /> {{ .Language.LanguageName }}{{- if eq .Language.Lang $currentPage.Language.Lang }} ✓{{- end -}}
+        <img src="/images/{{ .Language }}.svg" width="20px" class="img-fluid" class="img-fluid" alt="Language flag" /> {{ .Language.LanguageName }}{{- if eq .Language.Lang $currentPage.Language.Lang }} ✓{{- end -}}
       </a>
     </li>
   {{- end -}}

@@ -7,7 +7,7 @@ weight: 100001
 <!-- markdownlint-disable MD033 -->
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_1s.jpg" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_1s.jpg" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
     </a>
     <figcaption><h4>Audi Q4 e-tron lader om vinteren</h4></figcaption>
 </figur>
@@ -20,7 +20,7 @@ Lave ytre temperaturer forverrer problemet – og påvirker ytelsen til høyspen
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_2s.jpg" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_2s.jpg" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
     </a>
     <figcaption><h4>Thomas Anzenberger</h4></figcaption>
 </figur>
@@ -37,7 +37,7 @@ Slik vet ladepunktet hvor mye strøm batteriet til enhver tid kan absorbere. Så
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_3s.jpg" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_3s.jpg" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
     </a>
     <figcaption><h4>Pierre Woltmann</h4></figcaption>
 </figur>
@@ -62,7 +62,7 @@ Denne ekstra mobile forkondisjoneringen av batteriet i e-tron GT quattro og RS e
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_4s.jpg" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_4s.jpg" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
     </a>
     <figcaption><h4>Audi RS e-tron GT og Audi Q4 e-tron</h4></figcaption>
 </figur>
@@ -77,7 +77,7 @@ Denne ekstra mobile forkondisjoneringen av batteriet i e-tron GT quattro og RS e
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_5s.jpg" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_5s.jpg" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
     </a>
     <figcaption><h4>Audi Q4 e-tron</h4></figcaption>
 </figur>
@@ -96,7 +96,7 @@ Denne ekstra mobile forkondisjoneringen av batteriet i e-tron GT quattro og RS e
 
 <figur>
      <a href="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_8.jpg">
-         <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_8s.jpg" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
+         <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_8s.jpg" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
      </a>
      <figcaption><h4>Rekkeviddemodus i Audi e-tron GT</h4></figcaption>
 </figur>

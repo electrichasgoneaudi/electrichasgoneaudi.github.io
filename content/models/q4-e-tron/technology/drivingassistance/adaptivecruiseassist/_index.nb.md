@@ -24,7 +24,7 @@ Du aktiverer den adaptive kjøreassistenten ved å trykke på knappen for innsti
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/cruisecontrol.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/cruisecontrols.jpg"
-        alt="Audi Q4 e-tron cruise control hendel styrer funksjonen, inkludert avstanden til bilen foran."
+        class="img-fluid" alt="Audi Q4 e-tron cruise control hendel styrer funksjonen, inkludert avstanden til bilen foran."
         title="Audi Q4 e-tron cruise control hendel styrer funksjonen, inkludert avstanden til bilen foran.">
     </a>
     <figcaption><h4>Audi Q4 e-tron cruise control hendel styrer funksjonen, inkludert avstanden til bilen foran.</h4></figcaption>
@@ -37,7 +37,7 @@ Avstanden kan styres fra ca. 1 til 3,6 sekunder i 5 forskjellige trinn. Virtual 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/headupdistance.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/headupdistances.jpg"
-        alt="Head-up display med avstandslinje" title="Head-up display med avstandslinje">
+        class="img-fluid" alt="Head-up display med avstandslinje" title="Head-up display med avstandslinje">
     </a>
     <figcaption><h4>Head-up display med avstandslinje</h4></figcaption>
 </figure>
@@ -48,7 +48,7 @@ Du kan slå av kjørefeltføring for den adaptive kjøreassistenten ved å trykk
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/activelaneassist/laneassistbutton.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/activelaneassist/laneassistbuttons.jpg"
-        alt="Blinklyshendel med knapp for å slå av kjørefeltføring" title="Blinklyshendel med knapp for å slå av kjørefeltføring">
+        class="img-fluid" alt="Blinklyshendel med knapp for å slå av kjørefeltføring" title="Blinklyshendel med knapp for å slå av kjørefeltføring">
     </a>
     <figcaption><h4>Blinklyshendel med knapp for å slå av kjørefeltføring</h4></figcaption>
 </figure>
@@ -62,7 +62,7 @@ Når systemet ikke lenger oppdager noen hendelser, vil adaptiv cruisekontroll ak
  <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings1nb.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings1nbs.jpg"
-        alt="Adaptive Cruise assist settings" title="Adaptive Cruise assist settings">
+        class="img-fluid" alt="Adaptive Cruise assist settings" title="Adaptive Cruise assist settings">
     </a>
     <figcaption><h4>Adaptive Cruise assist settings</h4></figcaption>
 </figure>
@@ -80,7 +80,7 @@ Det er tre valg
  <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings2nb.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings2nbs.jpg"
-        alt="Controlling speed in predictive controls" title="Controlling speed in predictive controls">
+        class="img-fluid" alt="Controlling speed in predictive controls" title="Controlling speed in predictive controls">
     </a>
     <figcaption><h4>Controlling speed in predictive controls</h4></figcaption>
 </figure>
@@ -96,7 +96,7 @@ Hvis du har satt et navigasjonsmål, vil det også redusere hastigheten før et 
  <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings3nb.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings3nbs.jpg"
-        alt="Justeringer for kurveassistent" title="Justeringer for kurveassistent">
+        class="img-fluid" alt="Justeringer for kurveassistent" title="Justeringer for kurveassistent">
     </a>
     <figcaption><h4>Justeringer for kurveassistent</h4></figcaption>
 </figure>

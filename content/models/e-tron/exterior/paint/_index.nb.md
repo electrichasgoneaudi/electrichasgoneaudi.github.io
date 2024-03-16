@@ -35,28 +35,28 @@ På basic lakkering er støtfangerne og hjulbuene ikke lakkerte
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/basic1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/basic1s.jpg" alt="Grunnleggende med ulakkerte støtfangere og hjulbuer" title="Grunnleggende med ulakkerte støtfangere og hjulbuer">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/basic1s.jpg" class="img-fluid" alt="Grunnleggende med ulakkerte støtfangere og hjulbuer" title="Grunnleggende med ulakkerte støtfangere og hjulbuer">
     </a>
     <figcaption><h4>Basic med ulakkerte støtfangere og hjulbuer</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/basic2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/basic2s.jpg" alt="Basic med ulakkerte støtfangere og hjulbuer" title="Basic med ulakkerte støtfangere og hjulbuer">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/basic2s.jpg" class="img-fluid" alt="Basic med ulakkerte støtfangere og hjulbuer" title="Basic med ulakkerte støtfangere og hjulbuer">
     </a>
     <figcaption><h4>Basic med ulakkerte støtfangere og hjulbuer</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/basic3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/basic3s.jpg" alt="Basic med ulakkerte støtfangere og hjulbuer" title="Basic med ulakkerte støtfangere og hjulbuer">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/basic3s.jpg" class="img-fluid" alt="Basic med ulakkerte støtfangere og hjulbuer" title="Basic med ulakkerte støtfangere og hjulbuer">
     </a>
     <figcaption><h4>Basic med ulakkerte støtfangere og hjulbuer</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/basic4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/basic4s.jpg" alt="Grunnleggende med ulakkerte støtfangere og hjulbuer" title="Grunnleggende med ulakkerte støtfangere og hjulbuer">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/basic4s.jpg" class="img-fluid" alt="Grunnleggende med ulakkerte støtfangere og hjulbuer" title="Grunnleggende med ulakkerte støtfangere og hjulbuer">
     </a>
     <figcaption><h4>Basic med ulakkerte støtfangere og hjulbuer</h4></figcaption>
 </figur>
@@ -68,28 +68,28 @@ Kontrastfargen er manhattengrå på alle alternativer bortsett fra isbrehvit og 
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/contrast1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/contrast1s.jpg" alt="Brehvit med kontrastfarger" title="Brehvit med kontrastfarge">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/contrast1s.jpg" class="img-fluid" alt="Brehvit med kontrastfarger" title="Brehvit med kontrastfarge">
     </a>
     <figcaption><h4>Isbrehvit med kontrastlakkering</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/contrast2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/contrast2s.jpg" alt="Brehvit med kontrastfarger" title="Brehvit med kontrastfarge">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/contrast2s.jpg" class="img-fluid" alt="Brehvit med kontrastfarger" title="Brehvit med kontrastfarge">
     </a>
     <figcaption><h4>Isbrehvit med kontrastlakkering</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/contrast3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/contrast3s.jpg" alt="Brehvit med kontrastfarger" title="Brehvit med kontrastfarge">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/contrast3s.jpg" class="img-fluid" alt="Brehvit med kontrastfarger" title="Brehvit med kontrastfarge">
     </a>
     <figcaption><h4>Isbrehvit med kontrastlakkering</h4></figcaption>
 </figur>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/contrast4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/contrast4s.jpg" alt="Glacier white with contrast colors" title="Glacier white with contrast color">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/contrast4s.jpg" class="img-fluid" alt="Glacier white with contrast colors" title="Glacier white with contrast color">
     </a>
     <figcaption><h4>S-Line Isbrehvit med kontrastlakkering og sort optikk</h4></figcaption>
 </figure>
@@ -101,21 +101,21 @@ Denne har alternativ **VJ1** og er standard på S-line og S eksteriør.
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/fullbodycolor.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/fullbodycolors.jpg" alt="Glacier white with full body color" title="Glacier white with full body color">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/fullbodycolors.jpg" class="img-fluid" alt="Glacier white with full body color" title="Glacier white with full body color">
     </a>
     <figcaption><h4>Isbrehvit med hellakkering</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/fullbodycolor2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/fullbodycolor2s.jpg" alt="Glacier white with full body color" title="Glacier white with full body color">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/fullbodycolor2s.jpg" class="img-fluid" alt="Glacier white with full body color" title="Glacier white with full body color">
     </a>
     <figcaption><h4>Isbrehvit med hellakkering</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/fullbodycolor3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/fullbodycolor3s.jpg" alt="Glacier white with full body color" title="Glacier white with full body color">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/fullbodycolor3s.jpg" class="img-fluid" alt="Glacier white with full body color" title="Glacier white with full body color">
     </a>
     <figcaption><h4>Isbrehvit med hellakkering</h4></figcaption>
 </figur>
@@ -130,21 +130,21 @@ Fargekode: **2Y**
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_glacierwhite_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_glacierwhite_1s.jpg" alt="Audi e-tron 55 i isbrehvit med kontrastfarge" title="Audi e-tron 55 i isbrehvit med kontrastfarge">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_glacierwhite_1s.jpg" class="img-fluid" alt="Audi e-tron 55 i isbrehvit med kontrastfarge" title="Audi e-tron 55 i isbrehvit med kontrastfarge">
     </a>
     <figcaption><h4>Audi e-tron 55 i isbrehvit med kontrastfarge</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_glacierwhite_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_glacierwhite_2s.jpg" alt="Audi e-tron 55 i isbrehvit med sort optikk" title="Audi e-tron 55 i isbrehvit med sort optikk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_glacierwhite_2s.jpg" class="img-fluid" alt="Audi e-tron 55 i isbrehvit med sort optikk" title="Audi e-tron 55 i isbrehvit med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 i isbrehvit med sort optikk</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_glacierwhite_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_glacierwhite_3s.jpg" alt="Audi e-tron 55 Sportback S-line i brehvit med sort optikk" title="Audi e-tron 55 Sportback S-line i brehvit med sort optikk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_glacierwhite_3s.jpg" class="img-fluid" alt="Audi e-tron 55 Sportback S-line i brehvit med sort optikk" title="Audi e-tron 55 Sportback S-line i brehvit med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 Sportback S-line i isbrehvit med sort optikk</h4></figcaption>
 </figur>
@@ -155,14 +155,14 @@ Fargekode: **Y6**
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_catalunyared_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_catalunyared_1s.jpg" alt="Audi e-tron 55 S-line Sportback i Catalunya Rød med sort optikk" title="Audi e-tron 55 S-line Sportback i Catalunya Rød med sort optikk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_catalunyared_1s.jpg" class="img-fluid" alt="Audi e-tron 55 S-line Sportback i Catalunya Rød med sort optikk" title="Audi e-tron 55 S-line Sportback i Catalunya Rød med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 S-line Sportback i Catalunya Rød med sort optikk</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_catalunyared_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_catalunyared_2s.jpg" alt="Audi e-tron 55 S-line Sportback i Catalunya Rød med sort optikk" title="Audi e-tron 55 S-line Sportback i Catalunya Rød med sort optikk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_catalunyared_2s.jpg" class="img-fluid" alt="Audi e-tron 55 S-line Sportback i Catalunya Rød med sort optikk" title="Audi e-tron 55 S-line Sportback i Catalunya Rød med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 S-line Sportback i Catalunya R
 
@@ -178,21 +178,21 @@ Fargekode: **3D**
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_1s.jpg" alt="Audi e-tron 55 S-line Sportback i plasmablå med kontrastfarge" title="Audi e-tron 55 S-line Sportback i plasmablå med kontrastfarge">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_1s.jpg" class="img-fluid" alt="Audi e-tron 55 S-line Sportback i plasmablå med kontrastfarge" title="Audi e-tron 55 S-line Sportback i plasmablå med kontrastfarge">
     </a>
     <figcaption><h4>Audi e-tron 55 S-line Sportback i plasmablått med kontrastfarge</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_2s.jpg" alt="Audi e-tron 55 S-line Sportback i plasmablå med kontrastfarge" title="Audi e-tron 55 S-line Sportback i plasmablå med kontrastfarge">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_2s.jpg" class="img-fluid" alt="Audi e-tron 55 S-line Sportback i plasmablå med kontrastfarge" title="Audi e-tron 55 S-line Sportback i plasmablå med kontrastfarge">
     </a>
     <figcaption><h4>Audi e-tron 55 S-line Sportback i plasmablått med kontrastfarge</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_3s.jpg" alt="Audi e-tron 55 S-line Sportback i plasmablå med kontrastfarge" title="Audi e-tron 55 S-line Sportback i plasmablå med kontrastfarge">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_plasmablue_3s.jpg" class="img-fluid" alt="Audi e-tron 55 S-line Sportback i plasmablå med kontrastfarge" title="Audi e-tron 55 S-line Sportback i plasmablå med kontrastfarge">
     </a>
     <figcaption><h4>Audi e-tron 55 S-line Sportback i plasmablått med kontrastfarge</h4></figcaption>
 </figur>
@@ -203,21 +203,21 @@ Fargekode: **L5**
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_florettsilver_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_florettsilver_1s.jpg" alt="Audi e-tron 55 S-line Sportback i Florett Silver med kontrastfarge" title="Audi e-tron 55 S-line Sportback i Florett Silver med kontrastfarge">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_florettsilver_1s.jpg" class="img-fluid" alt="Audi e-tron 55 S-line Sportback i Florett Silver med kontrastfarge" title="Audi e-tron 55 S-line Sportback i Florett Silver med kontrastfarge">
     </a>
     <figcaption><h4>Audi e-tron 55 S-line Sportback i Florett Silver med kontrastfarge</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_florettsilver_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_florettsilver_2s.jpg" alt="Audi e-tron 55 S-line Sportback i Florett Silver med kontrastfarge" title="Audi e-tron 55 S-line Sportback i Florett Silver med kontrastfarge">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_florettsilver_2s.jpg" class="img-fluid" alt="Audi e-tron 55 S-line Sportback i Florett Silver med kontrastfarge" title="Audi e-tron 55 S-line Sportback i Florett Silver med kontrastfarge">
     </a>
     <figcaption><h4>Audi e-tron 55 S-line Sportback i Florett Silver med kontrastfarge</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_florettsilver_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_florettsilver_3s.jpg" alt="Audi e-tron 55 S-line Sportback i Florett Silver med kontrastfarge" title="Audi e-tron 55 S-line Sportback i Florett Silver med kontrastfarge">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_florettsilver_3s.jpg" class="img-fluid" alt="Audi e-tron 55 S-line Sportback i Florett Silver med kontrastfarge" title="Audi e-tron 55 S-line Sportback i Florett Silver med kontrastfarge">
     </a>
     <figcaption><h4>Audi e-tron 55 S-line Sportback i Florett Silver med kontrastfarge</h4></figcaption>
 </figur>
@@ -228,25 +228,25 @@ Fargekode: **Z7**
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_6s.jpg" alt="Audi e-tron 55 i Chronos Grey med sort optikk" title="Audi e-tron 55 i Chronos Grey med sort optikk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_6s.jpg" class="img-fluid" alt="Audi e-tron 55 i Chronos Grey med sort optikk" title="Audi e-tron 55 i Chronos Grey med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 i Chronos Grey med sort optikk</h4></figcaption>
 </figur>
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_3s.jpg" alt="Audi e-tron 55 i Chronos Grey med sort optikk" title="Audi e-tron 55 i Chronos Grey med sort optikk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_3s.jpg" class="img-fluid" alt="Audi e-tron 55 i Chronos Grey med sort optikk" title="Audi e-tron 55 i Chronos Grey med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 i Chronos Grey med sort optikk</h4></figcaption>
 </figur>
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_4s.jpg" alt="Audi e-tron 55 i Chronos Grey med sort optikk" title="Audi e-tron 55 i Chronos Grey med sort optikk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_4s.jpg" class="img-fluid" alt="Audi e-tron 55 i Chronos Grey med sort optikk" title="Audi e-tron 55 i Chronos Grey med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 i Chronos Grey med sort optikk</h4></figcaption>
 </figur>
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_5s.jpg" alt="Audi e-tron 55 i Chronos Grey med sort optikk" title="Audi e-tron 55 i Chronos Grey med sort optikk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_5s.jpg" class="img-fluid" alt="Audi e-tron 55 i Chronos Grey med sort optikk" title="Audi e-tron 55 i Chronos Grey med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 i Chronos Grey med sort optikk</h4></figcaption>
 </figur>
@@ -261,14 +261,14 @@ Fargekode: **2L**
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_typhoongrey_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_typhoongrey_1s.jpg" alt="Audi e-tron 55 i Typhoon Grey med sort optikk" title="Audi e-tron 55 i Typhoon Grey med sort optikk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_typhoongrey_1s.jpg" class="img-fluid" alt="Audi e-tron 55 i Typhoon Grey med sort optikk" title="Audi e-tron 55 i Typhoon Grey med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 i Typhoon Grey med sort optikk</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_typhoongrey_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_typhoongrey_2s.jpg" alt="Audi e-tron 55 i Typhoon Grey med sort optikk" title="Audi e-tron 55 i Typhoon Grey med sort optikk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_typhoongrey_2s.jpg" class="img-fluid" alt="Audi e-tron 55 i Typhoon Grey med sort optikk" title="Audi e-tron 55 i Typhoon Grey med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 i Typhoon Grey med sort optikk</h4></figcaption>
 </figur>
@@ -281,35 +281,35 @@ Fargekode: **6Y**
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_1s.jpg" alt="Audi e-tron 60S Sportback i Daytona Grey" title="Audi e-tron 60S Sportback i Daytona Grey">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_1s.jpg" class="img-fluid" alt="Audi e-tron 60S Sportback i Daytona Grey" title="Audi e-tron 60S Sportback i Daytona Grey">
     </a>
     <figcaption><h4>Audi e-tron 60S Sportback i Daytona Grey</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_2s.jpg" alt="Audi e-tron 55 Sportback i Daytona Grey" title="Audi e-tron 55 Sportback i Daytona Grey">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_2s.jpg" class="img-fluid" alt="Audi e-tron 55 Sportback i Daytona Grey" title="Audi e-tron 55 Sportback i Daytona Grey">
     </a>
     <figcaption><h4>Audi e-tron 55 Sportback S-Line i Daytona Grey</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_3s.jpg" alt="Audi e-tron 55 Sportback i Daytona Grey med sort optikk" title="Audi e-tron 55 Sportback i Daytona Grey med sort optikk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_3s.jpg" class="img-fluid" alt="Audi e-tron 55 Sportback i Daytona Grey med sort optikk" title="Audi e-tron 55 Sportback i Daytona Grey med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 Sportback S-Line i Daytona Grey med sort optikk</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_4s.jpg" alt="Audi e-tron 55 S-line i Daytona Grey med sort optikk" title="Audi e-tron 55 S-line i Daytona Grey med sort optikk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_4s.jpg" class="img-fluid" alt="Audi e-tron 55 S-line i Daytona Grey med sort optikk" title="Audi e-tron 55 S-line i Daytona Grey med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 S-line i Daytona Grey med sort optikk</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_5s.jpg" alt="Audi e-tron 55 S-line i Daytona Grey med sort optikk" title="Audi e-tron 55 S-line i Daytona Grey med sort optikk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_5s.jpg" class="img-fluid" alt="Audi e-tron 55 S-line i Daytona Grey med sort optikk" title="Audi e-tron 55 S-line i Daytona Grey med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 S-line i Daytona Grey med sort optikk</h4></figcaption>
 </figur>
@@ -317,7 +317,7 @@ Fargekode: **6Y**
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_6s.jpg" alt="Audi e-tron 60S Sporttback i Daytona Grey med sort optikk" title="Audi e-tron 60S Sporttback i Daytona Grey med sort optikk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_daytona_6s.jpg" class="img-fluid" alt="Audi e-tron 60S Sporttback i Daytona Grey med sort optikk" title="Audi e-tron 60S Sporttback i Daytona Grey med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 60S Sporttback i Daytona Grey med sort optikk</h4></figcaption>
 </figur>
@@ -332,21 +332,21 @@ Fargekode: **2D**
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_navarrablue_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_navarrablue_1s.jpg" alt="Audi e-tron 60S Sportback i Navarrablått med kontrastfarge" title="Audi e-tron 60S Sportback i Navarrablått med kontrastfarge">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_navarrablue_1s.jpg" class="img-fluid" alt="Audi e-tron 60S Sportback i Navarrablått med kontrastfarge" title="Audi e-tron 60S Sportback i Navarrablått med kontrastfarge">
     </a>
     <figcaption><h4>Audi e-tron 60S Sportback i Navarrablått med kontrastfarge</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_navarrablue_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_navarrablue_2s.jpg" alt="Audi e-tron 60S Sportback i Navarrablått med  sort optikk" title="Audi e-tron 60S Sportback i Navarrablått med  sort optikk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_navarrablue_2s.jpg" class="img-fluid" alt="Audi e-tron 60S Sportback i Navarrablått med  sort optikk" title="Audi e-tron 60S Sportback i Navarrablått med  sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 60S Sportback i Navarrablått med sort optikk</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_navarrablue_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_navarrablue_3s.jpg" alt="Audi e-tron 60S Sportback i Navarrablått med  sort optikk" title="Audi e-tron 60S Sportback i Navarrablått med  sort optikk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_navarrablue_3s.jpg" class="img-fluid" alt="Audi e-tron 60S Sportback i Navarrablått med  sort optikk" title="Audi e-tron 60S Sportback i Navarrablått med  sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 60S Sportback i Navarrablått med sort optikk</h4></figcaption>
 </figur>
@@ -365,7 +365,7 @@ Fargekode: **S1**
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_galaxyblue_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_galaxyblue_1s.jpg" alt="Audi e-tron 55 i Galaxy Blue" title="Audi e-tron 55 i Galaxy Blue">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_galaxyblue_1s.jpg" class="img-fluid" alt="Audi e-tron 55 i Galaxy Blue" title="Audi e-tron 55 i Galaxy Blue">
     </a>
     <figcaption><h4>Audi e-tron 55 i Galaxy Blue</h4></figcaption>
 </figur>
@@ -376,14 +376,14 @@ Fargekode: **??**
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_antiguablue_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_antiguablue_1s.jpg" alt="Audi e-tron 55 i Antigua Blue med kontrastfarge" title="Audi e-tron 55 i Antigua Blue med kontrastfarge">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_antiguablue_1s.jpg" class="img-fluid" alt="Audi e-tron 55 i Antigua Blue med kontrastfarge" title="Audi e-tron 55 i Antigua Blue med kontrastfarge">
     </a>
     <figcaption><h4>Audi e-tron 55 i Antigua Blue med kontrastfarge</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_antiguablue_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_antiguablue_2s.jpg" alt="Audi e-tron 55 S-line i Antigua Blue med sort optikk" title="Audi e-tron 55 S-line i Antigua Blue med sort optikk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_antiguablue_2s.jpg" class="img-fluid" alt="Audi e-tron 55 S-line i Antigua Blue med sort optikk" title="Audi e-tron 55 S-line i Antigua Blue med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 S-line i Antigua Blue med sort optikk</h4></figcaption>
 </figur>
@@ -394,56 +394,56 @@ Fargekode: **OE**
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_3s.jpg" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_3s.jpg" class="img-fluid" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 i Siam Beige med sort optikk</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_1s.jpg" alt="Audi e-tron 55 i Siam Beige med sort optikk og kontrastfarge" title="Audi e-tron 55 i Siam Beige med sort optikk og kontrastfarge">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_1s.jpg" class="img-fluid" alt="Audi e-tron 55 i Siam Beige med sort optikk og kontrastfarge" title="Audi e-tron 55 i Siam Beige med sort optikk og kontrastfarge">
     </a>
     <figcaption><h4>Audi e-tron 55 i Siam Beige med sort optikk og kontrastfarge</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_2s.jpg" alt="Audi e-tron 55 i Siam Beige med sort optikk og kontrastfarge" title="Audi e-tron 55 i Siam Beige med sort optikk og kontrastfarge">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_2s.jpg" class="img-fluid" alt="Audi e-tron 55 i Siam Beige med sort optikk og kontrastfarge" title="Audi e-tron 55 i Siam Beige med sort optikk og kontrastfarge">
     </a>
     <figcaption><h4>Audi e-tron 55 i Siam Beige med sort optikk og kontrastfarge</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_4s.jpg" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_4s.jpg" class="img-fluid" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 i Siam Beige med sort optikk</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_5s.jpg" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_5s.jpg" class="img-fluid" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 i Siam Beige med sort optikk</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_6s.jpg" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_6s.jpg" class="img-fluid" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 i Siam Beige med sort optikk</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_7.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_7s.jpg" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_7s.jpg" class="img-fluid" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 i Siam Beige med sort optikk</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_8.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_8s.jpg" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_8s.jpg" class="img-fluid" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 i Siam Beige med sort optikk</h4></figcaption>
 </figur>
@@ -454,7 +454,7 @@ Fargekode: **2Y**
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_manhattengrey_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_manhattengrey_1s.jpg" alt="Audi e-tron 55 i Manhatten grå" title="Audi e-tron 55 i Manhatten grå">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_manhattengrey_1s.jpg" class="img-fluid" alt="Audi e-tron 55 i Manhatten grå" title="Audi e-tron 55 i Manhatten grå">
     </a>
     <figcaption><h4>Audi e-tron 55 i Manhatten-grå</h4></figcaption>
 </figur>
@@ -467,7 +467,7 @@ Fargekode: **A2**
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_brilliantblack_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_brilliantblack_1s.jpg" alt="Audi e-tron 55 i Brilliant Black" title="Audi e-tron 55 i Brilliant Black">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_brilliantblack_1s.jpg" class="img-fluid" alt="Audi e-tron 55 i Brilliant Black" title="Audi e-tron 55 i Brilliant Black">
     </a>
     <figcaption><h4>Audi e-tron 55 i Brilliant Black</h4></figcaption>
 </figur>
@@ -478,21 +478,21 @@ Fargekode: **OE**
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_mythosblack_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_mythosblack_1s.jpg" alt="Audi e-tron 55 i Mythos Black med sort optikk" title="Audi e-tron 55 i Mythos Black med sort optikk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_mythosblack_1s.jpg" class="img-fluid" alt="Audi e-tron 55 i Mythos Black med sort optikk" title="Audi e-tron 55 i Mythos Black med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 i Mythos Black med sort optikk</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_mythosblack_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_mythosblack_2s.jpg" alt="Audi e-tron sportback S60 i Mythos Black med sort optikk" title="Audi e-tron sportback S60 i Mythos Black med sort optikk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_mythosblack_2s.jpg" class="img-fluid" alt="Audi e-tron sportback S60 i Mythos Black med sort optikk" title="Audi e-tron sportback S60 i Mythos Black med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron sportback S60 i Mythos Black med sort optikk</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_mythosblack_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_mythosblack_3s.jpg" alt="Audi e-tron sportback S60 i Mythos Black med sort optikk" title="Audi e-tron sportback S60 i Mythos Black med sort optikk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_mythosblack_3s.jpg" class="img-fluid" alt="Audi e-tron sportback S60 i Mythos Black med sort optikk" title="Audi e-tron sportback S60 i Mythos Black med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron S60 i Mythos Black med sort optikk</h4></figcaption>
 </figur>
@@ -505,35 +505,35 @@ Under ser du noen av fargene du kan velge mellom.
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview1s.jpg" alt="Audi Exclusive malingsfarger" title="Audi Exclusive malingsfarger">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview1s.jpg" class="img-fluid" alt="Audi Exclusive malingsfarger" title="Audi Exclusive malingsfarger">
     </a>
     <figcaption><h4>Perleeffektlakk</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview2s.jpg" alt="Audi Exclusive malingsfarger" title="Audi Exclusive malingsfarger">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview2s.jpg" class="img-fluid" alt="Audi Exclusive malingsfarger" title="Audi Exclusive malingsfarger">
     </a>
     <figcaption><h4>Krystalleffektlakk</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview3s.jpg" alt="Audi Exclusive malingsfarger" title="Audi Exclusive malingsfarger">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview3s.jpg" class="img-fluid" alt="Audi Exclusive malingsfarger" title="Audi Exclusive malingsfarger">
     </a>
     <figcaption><h4>Unilakk</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview4s.jpg" alt="Audi Exclusive malingsfarger" title="Audi Exclusive malingsfarger">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview4s.jpg" class="img-fluid" alt="Audi Exclusive malingsfarger" title="Audi Exclusive malingsfarger">
     </a>
     <figcaption><h4>Metallic lakk</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview5s.jpg" alt="Audi Exclusive malingsfarger" title="Audi Exclusive malingsfarger">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview5s.jpg" class="img-fluid" alt="Audi Exclusive malingsfarger" title="Audi Exclusive malingsfarger">
     </a>
     <figcaption><h4>Metallic lakk</h4></figcaption>
 </figur>
@@ -544,14 +544,14 @@ Fargekode: **X6R**
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_sonomagreen_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_sonomagreen_1s.jpg" alt="Grunnleggende trim - hjulbueskytter og støtfangere er ikke malt" title="Grunnleggende trim - hjulbueskytter og støtfangere er ikke malt">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_sonomagreen_1s.jpg" class="img-fluid" alt="Grunnleggende trim - hjulbueskytter og støtfangere er ikke malt" title="Grunnleggende trim - hjulbueskytter og støtfangere er ikke malt">
     </a>
     <figcaption><h4>Audi e-tron S i Sonoma Green</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_sonomagreen_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_sonomagreen_2s.jpg" alt="Grunnleggende trim - hjulbueskytter og støtfangere er ikke malt" title="Grunnleggende trim - hjulbueskytter og støtfangere er ikke malt">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_sonomagreen_2s.jpg" class="img-fluid" alt="Grunnleggende trim - hjulbueskytter og støtfangere er ikke malt" title="Grunnleggende trim - hjulbueskytter og støtfangere er ikke malt">
     </a>
     <figcaption><h4>Audi e-tron S i Sonoma Green</h4></figcaption>
 </figur>
@@ -565,49 +565,49 @@ From Audi Smista [@audismista](https://www.instagram.com/audismista/?hl=en)
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_1s.jpg" alt="Goodwood Green Audi e-tron" title="Goodwood Green Audi e-tron">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_1s.jpg" class="img-fluid" alt="Goodwood Green Audi e-tron" title="Goodwood Green Audi e-tron">
     </a>
     <figcaption><h4>Goodwood Green Audi e-tron</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_2s.jpg" alt="Goodwood Green Audi e-tron" title="Goodwood Green Audi e-tron">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_2s.jpg" class="img-fluid" alt="Goodwood Green Audi e-tron" title="Goodwood Green Audi e-tron">
     </a>
     <figcaption><h4>Goodwood Green Audi e-tron</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_3s.jpg" alt="Goodwood Green Audi e-tron" title="Goodwood Green Audi e-tron">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_3s.jpg" class="img-fluid" alt="Goodwood Green Audi e-tron" title="Goodwood Green Audi e-tron">
     </a>
     <figcaption><h4>Goodwood Green Audi e-tron</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_4s.jpg" alt="Goodwood Green Audi e-tron" title="Goodwood Green Audi e-tron">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_4s.jpg" class="img-fluid" alt="Goodwood Green Audi e-tron" title="Goodwood Green Audi e-tron">
     </a>
     <figcaption><h4>Goodwood Green Audi e-tron</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_5s.jpg" alt="Goodwood Green Audi e-tron" title="Goodwood Green Audi e-tron">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_5s.jpg" class="img-fluid" alt="Goodwood Green Audi e-tron" title="Goodwood Green Audi e-tron">
     </a>
     <figcaption><h4>Goodwood Green Audi e-tron</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_6s.jpg" alt="Goodwood Green Audi e-tron" title="Goodwood Green Audi e-tron">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_6s.jpg" class="img-fluid" alt="Goodwood Green Audi e-tron" title="Goodwood Green Audi e-tron">
     </a>
     <figcaption><h4>Goodwood Green Audi e-tron</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_7.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_7s.jpg" alt="Goodwood Green Audi e-tron" title="Goodwood Green Audi e-tron">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_7s.jpg" class="img-fluid" alt="Goodwood Green Audi e-tron" title="Goodwood Green Audi e-tron">
     </a>
     <figcaption><h4>Goodwood Green Audi e-tron</h4></figcaption>
 </figure>
@@ -618,7 +618,7 @@ Color code  6201 Bentley
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_orangeflame_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_orangeflame_1_st.jpg" alt="Audi e-tron in Orange Flame" title="Audi e-tron in Orange Flame">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_orangeflame_1_st.jpg" class="img-fluid" alt="Audi e-tron in Orange Flame" title="Audi e-tron in Orange Flame">
     </a>
     <figcaption><h4>Audi e-tron in Orange Flame</h4></figcaption>
 </figure>
@@ -626,7 +626,7 @@ Color code  6201 Bentley
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_orangeflame_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_orangeflame_2_st.jpg" alt="Audi e-tron in Orange Flame" title="Audi e-tron in Orange Flame">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_orangeflame_2_st.jpg" class="img-fluid" alt="Audi e-tron in Orange Flame" title="Audi e-tron in Orange Flame">
     </a>
     <figcaption><h4>Audi e-tron in Orange Flame</h4></figcaption>
 </figure>
@@ -634,7 +634,7 @@ Color code  6201 Bentley
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_orangeflame_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_orangeflame_3_st.jpg" alt="Audi e-tron in Orange Flame" title="Audi e-tron in Orange Flame">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_orangeflame_3_st.jpg" class="img-fluid" alt="Audi e-tron in Orange Flame" title="Audi e-tron in Orange Flame">
     </a>
     <figcaption><h4>Audi e-tron in Orange Flame</h4></figcaption>
 </figure>
@@ -642,7 +642,7 @@ Color code  6201 Bentley
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_orangeflame_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_orangeflame_4_st.jpg" alt="Audi e-tron in Orange Flame" title="Audi e-tron in Orange Flame">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_orangeflame_4_st.jpg" class="img-fluid" alt="Audi e-tron in Orange Flame" title="Audi e-tron in Orange Flame">
     </a>
     <figcaption><h4>Audi e-tron in Orange Flame</h4></figcaption>
 </figure>

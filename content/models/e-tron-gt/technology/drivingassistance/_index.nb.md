@@ -33,7 +33,7 @@ Bortsett fra manøverassistenten, er parkeringsassistent pluss, som sjåføren a
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/sensors.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/sensorss.jpg"
-        alt="Audi e-tron GT-sensorer" title="Audi e-tron GT-sensorer">
+        class="img-fluid" alt="Audi e-tron GT-sensorer" title="Audi e-tron GT-sensorer">
     </a>
     <figcaption><h4>Audi e-tron GT-sensorer</h4></figcaption>
 </figure>

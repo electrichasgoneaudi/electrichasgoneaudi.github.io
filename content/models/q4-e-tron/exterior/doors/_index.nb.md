@@ -20,7 +20,7 @@ Som ekstrautstyr kan du få elektrisk bakluke til Audi Q4 e-tron. Dette er stand
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/kicksensor.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/kicksensors.jpg"
-        alt="Powered tailgate option 4E6" title="Powered tailgate option 4E6">
+        class="img-fluid" alt="Powered tailgate option 4E6" title="Powered tailgate option 4E6">
     </a>
     <figcaption><h4>Powered tailgate option 4E6</h4></figcaption>
 </figure>
@@ -41,7 +41,7 @@ slik at du kan låse bilen.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/doors/tailgatelocking.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/doors/tailgatelockings.jpg" 
-        alt="Baklukelåsing" title="Baklukelåsing">
+        class="img-fluid" alt="Baklukelåsing" title="Baklukelåsing">
     </a>
     <figcaption><h4>Baklukelåsing</h4></figcaption>
 </figure>

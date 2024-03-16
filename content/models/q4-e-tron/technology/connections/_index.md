@@ -8,7 +8,7 @@ weight: 9
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/connections/ports1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/connections/ports1s.jpg"
-        alt="USB-C connections" title="USB-C connections">
+        class="img-fluid" alt="USB-C connections" title="USB-C connections">
     </a>
     <figcaption><h4>USB-C connections</h4></figcaption>
 </figure>
@@ -16,7 +16,7 @@ weight: 9
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/connections/usbrear.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/connections/usbrears.jpg"
-        alt="USB-C connections in rear" title="USB-C connections in rear">
+        class="img-fluid" alt="USB-C connections in rear" title="USB-C connections in rear">
     </a>
     <figcaption><h4>USB-C connections in rear</h4></figcaption>
 </figure>

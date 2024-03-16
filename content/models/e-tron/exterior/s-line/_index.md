@@ -17,21 +17,21 @@ illuminated aluminum door sill trims feature an #S logo.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/blackoptics_florett.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/blackoptics_floretts.jpg" alt="Black optics - Florett Silver standard front" title="Black optics - Florett Silver standard front">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/blackoptics_floretts.jpg" class="img-fluid" alt="Black optics - Florett Silver standard front" title="Black optics - Florett Silver standard front">
     </a>
     <figcaption><h4>Black optics - Florett Silver standard front</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/blackoptics_florett_sline.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/blackoptics_florett_slines.jpg" alt="Black optics - Florett Silver S-Line front" title="Black optics - Florett Silver S-Line front">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/blackoptics_florett_slines.jpg" class="img-fluid" alt="Black optics - Florett Silver S-Line front" title="Black optics - Florett Silver S-Line front">
     </a>
     <figcaption><h4>Black optics - Florett Silver S-Line front</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/slinebadge.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/slinebadges.jpg" alt="S-Line-merke" title="S-Line-merke">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/slinebadges.jpg" class="img-fluid" alt="S-Line-merke" title="S-Line-merke">
     </a>
     <figcaption><h4>S-Line-merke</h4></figcaption>
 </figure>
@@ -41,7 +41,7 @@ The rear diffusor have a more sporty and dynamic look.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/rear-standard.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/rear-standards.jpg"
-        alt="Standard rear" title="Standard rear">
+        class="img-fluid" alt="Standard rear" title="Standard rear">
     </a>
     <figcaption><h4>Standard rear</h4></figcaption>
 </figure>
@@ -49,7 +49,7 @@ The rear diffusor have a more sporty and dynamic look.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/rear-sline.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/rear-slines.jpg"
-        alt="S-Line rear with more sporty diffusor" title="S-Line rear with more sporty diffusor">
+        class="img-fluid" alt="S-Line rear with more sporty diffusor" title="S-Line rear with more sporty diffusor">
     </a>
     <figcaption><h4>S-Line rear with more sporty diffusor</h4></figcaption>
 </figure>
@@ -65,7 +65,7 @@ The rear diffusor have a more sporty and dynamic look.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/swheelarcher.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/swheelarchers.jpg"
-        alt="S wheel archer" title="S wheel archer">
+        class="img-fluid" alt="S wheel archer" title="S wheel archer">
     </a>
     <figcaption><h4>S wheel archer</h4></figcaption>
 </figure>
@@ -73,7 +73,7 @@ The rear diffusor have a more sporty and dynamic look.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/srear.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/srears.jpg"
-        alt="S rear with s-line diffusor and S badge" title="S rear with s-line diffusor and S badge">
+        class="img-fluid" alt="S rear with s-line diffusor and S badge" title="S rear with s-line diffusor and S badge">
     </a>
     <figcaption><h4>S rear with s-line diffusor and S badge</h4></figcaption>
 </figure>

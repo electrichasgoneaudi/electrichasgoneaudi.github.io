@@ -24,7 +24,7 @@ Du kan legge til kule innstegslys til e-tron GT-dørene.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/doors/entry-light.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/doors/entry-lights.jpg" alt="Innstegslys" title="Innstegslys">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/doors/entry-lights.jpg" class="img-fluid" alt="Innstegslys" title="Innstegslys">
     </a>
     <figcaption><h4>Innstegslys</h4></figcaption>
 </figure>
@@ -46,7 +46,7 @@ slik at du kan låse bilen.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/doors/tailgatelocking.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/doors/tailgatelockings.jpg" alt="Baklukelåsing" title="Baklukelåsing">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/doors/tailgatelockings.jpg" class="img-fluid" alt="Baklukelåsing" title="Baklukelåsing">
     </a>
     <figcaption><h4>Baklukelåsing</h4></figcaption>
 </figure>

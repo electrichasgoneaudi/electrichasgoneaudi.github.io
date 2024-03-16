@@ -10,7 +10,7 @@ weight: 2
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/steeringwheels/multifunction.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/steeringwheels/multifunctions.jpg"
-        alt="Standard multifunksjonsratt uten varme. Alternativ 2ZM med varme" title="Standard multifunksjonsratt uten varme. Alternativ 2ZM med varme">
+        class="img-fluid" alt="Standard multifunksjonsratt uten varme. Alternativ 2ZM med varme" title="Standard multifunksjonsratt uten varme. Alternativ 2ZM med varme">
     </a>
     <figcaption><h4>Standard multifunksjonsratt uten varme. Alternativ 2ZM med varme</h4></figcaption>
 </figure>
@@ -18,7 +18,7 @@ weight: 2
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/steeringwheels/sport.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/steeringwheels/sports.jpg"
-        alt="Sport uten varme alternativ 1XW og med alternativ 1XP" title="Sport uten varme alternativ 1XW og med alternativ 1XP">
+        class="img-fluid" alt="Sport uten varme alternativ 1XW og med alternativ 1XP" title="Sport uten varme alternativ 1XW og med alternativ 1XP">
     </a>
     <figcaption><h4>Sport uten varme alternativ 1XW og med alternativ 1XP</h4></figcaption>
 </figure>
@@ -26,7 +26,7 @@ weight: 2
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/steeringwheels/sportflat.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/steeringwheels/sportflats.jpg"
-        alt="Sport med flat bunn alternativ 2PF" title="Sport med flat bunn alternativ 2PF">
+        class="img-fluid" alt="Sport med flat bunn alternativ 2PF" title="Sport med flat bunn alternativ 2PF">
     </a>
     <figcaption><h4>Sport med flat bunn alternativ 2PF</h4></figcaption>
 </figure>
@@ -40,7 +40,7 @@ Som ekstrautstyr får du elektrisk justert ratt
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/steeringwheels/electricadjustment.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/steeringwheels/electricadjustments.jpg"
-        alt="Knapp for å justere høyde og dybde på elektrisk ratt" title="Knapp for å justere høyde og dybde på elektrisk ratt">
+        class="img-fluid" alt="Knapp for å justere høyde og dybde på elektrisk ratt" title="Knapp for å justere høyde og dybde på elektrisk ratt">
     </a>
     <figcaption><h4>Knapp for å justere høyde og dybde på elektrisk ratt</h4></figcaption>
 </figure>

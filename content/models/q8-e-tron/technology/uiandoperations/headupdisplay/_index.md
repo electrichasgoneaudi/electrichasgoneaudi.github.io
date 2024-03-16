@@ -11,7 +11,7 @@ The head-up display projects information relevant to the driver as symbols and n
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/headupdisplay/headup.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/headupdisplay/headup.jpg"
-        alt="Heads up display on Audi Q8 e-tron" title="Heads up display on Audi Q8 e-tron">
+        class="img-fluid" alt="Heads up display on Audi Q8 e-tron" title="Heads up display on Audi Q8 e-tron">
     </a>
     <figcaption><h4>Heads up display on Audi Q8 e-tron</h4></figcaption>
 </figure>
@@ -21,7 +21,7 @@ The image is projected onto the windshield. The information appears to hover aro
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/headupdisplay/headup2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/headupdisplay/headup2s.jpg"
-        alt="Headup with route information and efficient assistant suggesting to slow down" title="Headup with route information and efficient assistant suggesting to slow down">
+        class="img-fluid" alt="Headup with route information and efficient assistant suggesting to slow down" title="Headup with route information and efficient assistant suggesting to slow down">
     </a>
     <figcaption><h4>Headup with route information and efficient assistant suggesting to slow down</h4></figcaption>
 </figure>

@@ -9,7 +9,7 @@ Anlegget har vært et forbilde for bærekraftig produksjon siden produksjonen av
 
 <figur>
      <a href="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production1.jpg">
-         <img src="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production1_st.jpg" alt="Audi Q8 e-tron-produksjon startet 14. desember 2022" title="Audi Q8 e-tron-produksjon startet 14. desember 2022">
+         <img src="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production1_st.jpg" class="img-fluid" alt="Audi Q8 e-tron-produksjon startet 14. desember 2022" title="Audi Q8 e-tron-produksjon startet 14. desember 2022">
      </a>
      <figcaption><h4>Produksjonen av Audi Q8 e-tron startet 14. desember 2022</h4></figcaption>
 </figur>
@@ -20,7 +20,7 @@ I motsetning til mange konkurrenter, fokuserer Audi på å transformere produksj
 
 <figur>
      <a href="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production2.jpg">
-         <img src="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production2_st.jpg" alt="Audi Q8 e-tron-produksjon startet 14. desember 2022" title="Audi Q8 e-tron-produksjon startet 14. desember 2022">
+         <img src="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production2_st.jpg" class="img-fluid" alt="Audi Q8 e-tron-produksjon startet 14. desember 2022" title="Audi Q8 e-tron-produksjon startet 14. desember 2022">
      </a>
      <figcaption><h4>Produksjonen av Audi Q8 e-tron startet 14. desember 2022</h4></figcaption>
 </figur>
@@ -33,7 +33,7 @@ Audi Q8 e-tron vil nå kunder i Europa og USA som en sertifisert netto karbonnø
 
 <figur>
      <a href="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production3.jpg">
-         <img src="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production3_st.jpg" alt="Audi Q8 e-tron-produksjon startet 14. desember 2022" title="Audi Q8 e-tron-produksjon startet 14. desember 2022">
+         <img src="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production3_st.jpg" class="img-fluid" alt="Audi Q8 e-tron-produksjon startet 14. desember 2022" title="Audi Q8 e-tron-produksjon startet 14. desember 2022">
      </a>
      <figcaption><h4>Produksjonen av Audi Q8 e-tron startet 14. desember 2022</h4></figcaption>
 </figur>
@@ -45,7 +45,7 @@ Den nye Q8 e-trons optimaliserte kjørekonsept, forbedrede aerodynamikk og høye
 
 <figur>
      <a href="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production4.jpg">
-         <img src="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production4_st.jpg" alt="Audi Q8 e-tron-produksjon startet 14. desember 2022" title="Audi Q8 e-tron-produksjon startet 14. desember 2022">
+         <img src="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production4_st.jpg" class="img-fluid" alt="Audi Q8 e-tron-produksjon startet 14. desember 2022" title="Audi Q8 e-tron-produksjon startet 14. desember 2022">
      </a>
      <figcaption><h4>Produksjonen av Audi Q8 e-tron startet 14. desember 2022</h4></figcaption>
 </figur>

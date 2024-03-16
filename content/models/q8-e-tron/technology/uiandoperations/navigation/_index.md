@@ -13,7 +13,7 @@ The navigation system is available in the [virtual cockpit](../virtualcockpit/),
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/navigation.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/navigations.jpg"
-        alt="The Navigation system in Virtual Cockpit and MMI" title="The Navigation system in Virtual Cockpit and MMI">
+        class="img-fluid" alt="The Navigation system in Virtual Cockpit and MMI" title="The Navigation system in Virtual Cockpit and MMI">
     </a>
     <figcaption><h4>The Navigation system in Virtual Cockpit and MMI</h4></figcaption>
 </figure>
@@ -23,7 +23,7 @@ You can enable Google maps-based Satellite photos and google based search to enr
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/navigation2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/navigation2s.jpg"
-        alt="The Navigation system in Virtual Cockpit with google maps satellite image" title="The Navigation system in Virtual Cockpit with google maps satellite image">
+        class="img-fluid" alt="The Navigation system in Virtual Cockpit with google maps satellite image" title="The Navigation system in Virtual Cockpit with google maps satellite image">
     </a>
     <figcaption><h4>The Navigation system in Virtual Cockpit with google maps satellite image</h4></figcaption>
 </figure>
@@ -43,7 +43,7 @@ The e-tron route planner calculates the fastest route, considers traffic and roa
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/navigation3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/navigation3s.jpg"
-        alt="The Navigation system in Virtual Cockpit with google maps satellite image" title="The Navigation system in Virtual Cockpit with google maps satellite image">
+        class="img-fluid" alt="The Navigation system in Virtual Cockpit with google maps satellite image" title="The Navigation system in Virtual Cockpit with google maps satellite image">
     </a>
     <figcaption><h4>The Navigation system in Virtual Cockpit with google maps satellite image</h4></figcaption>
 </figure>
@@ -57,7 +57,7 @@ In the below set of images, you see how it is to search and create a route going
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search1s.jpg"
-        alt="Step 1: Search for IKEA" title="Step 1: Search for IKEA">
+        class="img-fluid" alt="Step 1: Search for IKEA" title="Step 1: Search for IKEA">
     </a>
     <figcaption><h4>Step 1: Search for IKEA</h4></figcaption>
 </figure>
@@ -65,7 +65,7 @@ In the below set of images, you see how it is to search and create a route going
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search2s.jpg"
-        alt="Step 2: Selecting correct search result and pressing start" title="Step 2: Selecting correct search result and pressing start">
+        class="img-fluid" alt="Step 2: Selecting correct search result and pressing start" title="Step 2: Selecting correct search result and pressing start">
     </a>
     <figcaption><h4>Step 2: Selecting correct search result and pressing start"</h4></figcaption>
 </figure>
@@ -73,7 +73,7 @@ In the below set of images, you see how it is to search and create a route going
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search3s.jpg"
-        alt="Step 3: Navigation informs that you don't have enough charge going to IKEA and suggest adding charging along the route" title="Step 3: Navigation informs that you don't have enough charge going to IKEA and suggest adding charging along the route">
+        class="img-fluid" alt="Step 3: Navigation informs that you don't have enough charge going to IKEA and suggest adding charging along the route" title="Step 3: Navigation informs that you don't have enough charge going to IKEA and suggest adding charging along the route">
     </a>
     <figcaption><h4>Step 3: Navigation informs that you don't have enough charge going to IKEA and suggest adding charging along the route</h4></figcaption>
 </figure>
@@ -81,7 +81,7 @@ In the below set of images, you see how it is to search and create a route going
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search4.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search4s.jpg"
-        alt="Step 4: Suggested charging stops including expected battery state of charge at destination" title="Step 4: Suggested charging stops including expected battery state of charge at destination">
+        class="img-fluid" alt="Step 4: Suggested charging stops including expected battery state of charge at destination" title="Step 4: Suggested charging stops including expected battery state of charge at destination">
     </a>
     <figcaption><h4>Step 4: Suggested charging stops including expected battery state of charge at destination</h4></figcaption>
 </figure>
@@ -89,7 +89,7 @@ In the below set of images, you see how it is to search and create a route going
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search5.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search5s.jpg"
-        alt="Step 5: Planned route" title="Step 5: Planned route">
+        class="img-fluid" alt="Step 5: Planned route" title="Step 5: Planned route">
     </a>
     <figcaption><h4>Step 5: Planned route</h4></figcaption>
 </figure>
@@ -97,7 +97,7 @@ In the below set of images, you see how it is to search and create a route going
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search6.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search6s.jpg"
-        alt="When driving the lower MMI screen supports handwriting for search" title="When driving the lower MMI screen supports handwriting for search">
+        class="img-fluid" alt="When driving the lower MMI screen supports handwriting for search" title="When driving the lower MMI screen supports handwriting for search">
     </a>
     <figcaption><h4>When driving the lower MMI screen supports handwriting for search</h4></figcaption>
 </figure>
@@ -113,7 +113,7 @@ The Navigation system also supports presenting the range on the map. The blue ar
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/range.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/ranges.jpg"
-        alt="The Range indicated with the blue area" title="The Range indicated with the blue area">
+        class="img-fluid" alt="The Range indicated with the blue area" title="The Range indicated with the blue area">
     </a>
     <figcaption><h4>The Range indicated with the blue area</h4></figcaption>
 </figure>
@@ -121,7 +121,7 @@ The Navigation system also supports presenting the range on the map. The blue ar
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/planet.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/planets.jpg"
-        alt="You can cover the whole planet with your all-electric Audi" title="You can cover the whole planet with your all-electric Audi">
+        class="img-fluid" alt="You can cover the whole planet with your all-electric Audi" title="You can cover the whole planet with your all-electric Audi">
     </a>
     <figcaption><h4>You can cover the whole planet with your all-electric Audi</h4></figcaption>
 </figure>
@@ -133,7 +133,7 @@ You can get voice guidance during navigation.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/voiceguidance.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/voiceguidance.jpg"
-        alt="You can control how much voice guidance you need" title="You can control how much voice guidance you need">
+        class="img-fluid" alt="You can control how much voice guidance you need" title="You can control how much voice guidance you need">
     </a>
     <figcaption><h4>You can control how much voice guidance you need</h4></figcaption>
 </figure>
@@ -159,7 +159,7 @@ Using the Audi Q8 e-tron Navigation systems has some additional benefits you don
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/headup.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/headups.jpg"
-        alt="Head-up display with route info and efficiency assistant suggesting to slow down" title="Head-up display with route info and efficiency assistant suggesting to slow down">
+        class="img-fluid" alt="Head-up display with route info and efficiency assistant suggesting to slow down" title="Head-up display with route info and efficiency assistant suggesting to slow down">
     </a>
     <figcaption><h4>Head-up display with route info and efficiency assistant suggesting to slow down</h4></figcaption>
 </figure>
@@ -175,7 +175,7 @@ The GPS antenna used by the navigation system is located on the roof of e-tron
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/antenna.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/antennas.jpg"
-        alt="GPS antenna on roof of e-tron and e-tron Sportback" title="GPS antenna on roof of e-tron and e-tron Sportback">
+        class="img-fluid" alt="GPS antenna on roof of e-tron and e-tron Sportback" title="GPS antenna on roof of e-tron and e-tron Sportback">
     </a>
     <figcaption><h4>GPS antenna on roof of e-tron and e-tron Sportback</h4></figcaption>
 </figure>

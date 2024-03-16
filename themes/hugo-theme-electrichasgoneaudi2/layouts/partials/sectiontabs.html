@@ -46,7 +46,6 @@
         {{ end }}
      </ul>
     {{ end }}
-
     {{ $numberOfPages :=  (len .Pages ) }}
     {{ .Scratch.Set "pages" .Pages }}
       {{ if .Sections}}
@@ -64,6 +63,8 @@
 {{ $currentNode := .currentnode }}
 {{with .sect}}
 {{safeHTML .Params.head}}
+<!--Trix to not go more than one level down-->
+{{ if .Parent.Params.shownavtabs }}
       <li class="nav-item">
 
         {{ if eq . $currentNode }}
@@ -76,9 +77,10 @@
           {{if .Params.navicon }}
           <a class="nav-link" href="{{ .RelPermalink}}"><i class="{{ .Params.navicon }}"></i> {{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}</a>
           {{else}}
-          <a class="nav-link" href="{{ .RelPermalink}}">{{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}</a>
+          <a class="nav-link" href="{{ .RelPermalink}}"><b></b>{{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}</a>
             {{end}}
         {{ end }}
       </li>
+      {{ end }}
 {{ end }}
 {{ end }}

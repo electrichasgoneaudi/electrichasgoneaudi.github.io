@@ -12,7 +12,7 @@ Navigasjonssystemet er tilgjengelig i [virtual cockpit](../virtualcockpit/), [He
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/navigation.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/navigations.jpg"
-        alt="Navigasjonssystemet i Virtual Cockpit og MMI" title=Navigasjonssystemet i Virtual Cockpit og MMI">
+        class="img-fluid" alt="Navigasjonssystemet i Virtual Cockpit og MMI" title=Navigasjonssystemet i Virtual Cockpit og MMI">
     </a>
     <figcaption><h4>Navigasjonssystemet i Virtual Cockpit og MMI</h4></figcaption>
 </figure>
@@ -22,7 +22,7 @@ Du kan aktivere Google maps-baserte satellittbilder og google-basert søk for å
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/navigation2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/navigation2s.jpg"
-        alt="Navigasjonssystemet i Virtual Cockpit med google maps satellittbilder" title="Navigasjonssystemet i Virtual Cockpit med google maps satellittbilder">
+        class="img-fluid" alt="Navigasjonssystemet i Virtual Cockpit med google maps satellittbilder" title="Navigasjonssystemet i Virtual Cockpit med google maps satellittbilder">
     </a>
     <figcaption><h4>Navigasjonssystemet i Virtual Cockpit med google maps satellittbilder</h4></figcaption>
 </figure>
@@ -43,7 +43,7 @@ e-tron-ruteplanleggeren beregner den raskeste ruten, tar hensyn til trafikk- og 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/navigation.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/navigations.jpg"
-        alt="Navigasjonssystemet i Virtual Cockpit med google maps satellittbilder" title=Navigasjonssystemet i Virtual Cockpit med google maps satellittbilder">
+        class="img-fluid" alt="Navigasjonssystemet i Virtual Cockpit med google maps satellittbilder" title=Navigasjonssystemet i Virtual Cockpit med google maps satellittbilder">
     </a>
     <figcaption><h4>Navigasjonssystemet i Virtual Cockpit med google maps satellittbilder</h4></figcaption>
 </figure>
@@ -57,7 +57,7 @@ I bildene nedenfor ser du hvordan det er å søke og lage en rute til IKEA fra M
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search1s.jpg"
-        alt="Trinn 1: Søk etter IKEA" title="Trinn 1: Søk etter IKEA">
+        class="img-fluid" alt="Trinn 1: Søk etter IKEA" title="Trinn 1: Søk etter IKEA">
     </a>
     <figcaption><h4>Trinn 1: Søk etter IKEA</h4></figcaption>
 </figure>
@@ -65,7 +65,7 @@ I bildene nedenfor ser du hvordan det er å søke og lage en rute til IKEA fra M
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search2s.jpg"
-        alt="Trinn 2: Velge riktig søkeresultat og trykke start" title="Trinn 2: Velge riktig søkeresultat og trykke start">
+        class="img-fluid" alt="Trinn 2: Velge riktig søkeresultat og trykke start" title="Trinn 2: Velge riktig søkeresultat og trykke start">
     </a>
     <figcaption><h4>Trinn 2: Velge riktig søkeresultat og trykke start"</h4></figcaption>
 </figure>
@@ -73,7 +73,7 @@ I bildene nedenfor ser du hvordan det er å søke og lage en rute til IKEA fra M
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search3s.jpg"
-        alt="Trinn 3: Navigasjon informerer om at du ikke har nok lading ved å gå til IKEA og foreslår å legge til lading langs ruten" title="Trinn 3: Navigasjon informerer om at du ikke har nok lading ved å gå til IKEA og foreslår å legge til lading langs ruten">
+        class="img-fluid" alt="Trinn 3: Navigasjon informerer om at du ikke har nok lading ved å gå til IKEA og foreslår å legge til lading langs ruten" title="Trinn 3: Navigasjon informerer om at du ikke har nok lading ved å gå til IKEA og foreslår å legge til lading langs ruten">
     </a>
     <figcaption><h4>Trinn 3: Navigasjon informerer om at du ikke har nok lading ved å gå til IKEA og foreslår å legge til lading langs ruten</h4></figcaption>
 </figure>
@@ -81,7 +81,7 @@ I bildene nedenfor ser du hvordan det er å søke og lage en rute til IKEA fra M
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search4.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search4s.jpg"
-        alt="Trinn 4: Foreslåtte ladestopp inkludert forventet batteriladingstilstand på destinasjonen" title="Trinn 4: Foreslåtte ladestopp inkludert forventet batteriladingstilstand på destinasjonen">
+        class="img-fluid" alt="Trinn 4: Foreslåtte ladestopp inkludert forventet batteriladingstilstand på destinasjonen" title="Trinn 4: Foreslåtte ladestopp inkludert forventet batteriladingstilstand på destinasjonen">
     </a>
     <figcaption><h4>Trinn 4: Foreslåtte ladestopp inkludert forventet batteriladingstilstand på destinasjonen</h4></figcaption>
 </figure>
@@ -89,7 +89,7 @@ I bildene nedenfor ser du hvordan det er å søke og lage en rute til IKEA fra M
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search5.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search5s.jpg"
-        alt="Trinn 5: Planlagt rute" title="Trinn 5: Planlagt rute">
+        class="img-fluid" alt="Trinn 5: Planlagt rute" title="Trinn 5: Planlagt rute">
     </a>
     <figcaption><h4>Trinn 5: Planlagt rute</h4></figcaption>
 </figure>
@@ -97,7 +97,7 @@ I bildene nedenfor ser du hvordan det er å søke og lage en rute til IKEA fra M
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search6.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search6s.jpg"
-        alt="Når du kjører, støtter den nedre MMI-skjermen håndskrift for søk" title="Når du kjører, støtter den nedre MMI-skjermen håndskrift for søk">
+        class="img-fluid" alt="Når du kjører, støtter den nedre MMI-skjermen håndskrift for søk" title="Når du kjører, støtter den nedre MMI-skjermen håndskrift for søk">
     </a>
     <figcaption><h4>Når du kjører, støtter den nedre MMI-skjermen håndskrift for søk</h4></figcaption>
 </figure>
@@ -113,7 +113,7 @@ Navigasjonssystemet støtter også presentasjon av rekkevidden på kartet. Det b
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/range.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/ranges.jpg"
-        alt="Rekkevidden angitt med det blå området" title="Rekkevidden angitt med det blå området">
+        class="img-fluid" alt="Rekkevidden angitt med det blå området" title="Rekkevidden angitt med det blå området">
     </a>
     <figcaption><h4>Rekkevidden angitt med det blå området</h4></figcaption>
 </figure>
@@ -121,7 +121,7 @@ Navigasjonssystemet støtter også presentasjon av rekkevidden på kartet. Det b
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/planet.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/planets.jpg"
-        alt="Du kan dekke hele planeten med din helelektriske Audi" title="Du kan dekke hele planeten med din helelektriske Audi">
+        class="img-fluid" alt="Du kan dekke hele planeten med din helelektriske Audi" title="Du kan dekke hele planeten med din helelektriske Audi">
     </a>
     <figcaption><h4>Du kan dekke hele planeten med din helelektriske Audi</h4></figcaption>
 </figure>
@@ -133,7 +133,7 @@ Du kan få taleveiledning under navigering.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/voiceguidance.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/voiceguidance.jpg"
-        alt="Du kan kontrollere hvor mye stemmeveiledning du trenger" title="Du kan kontrollere hvor mye stemmeveiledning du trenger">
+        class="img-fluid" alt="Du kan kontrollere hvor mye stemmeveiledning du trenger" title="Du kan kontrollere hvor mye stemmeveiledning du trenger">
     </a>
     <figcaption><h4>Du kan kontrollere hvor mye stemmeveiledning du trenger</h4></figcaption>
 </figure>
@@ -160,7 +160,7 @@ En melding vil vises hvis MMI beregner en bedre rute for gjeldende ruteveilednin
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/headup.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/headups.jpg"
-        alt="Head-up-display med ruteinformasjon og effektivitetsassistent som foreslår å bremse ned" title="Head-up-display med ruteinformasjon og effektivitetsassistent som foreslår å bremse ned">
+        class="img-fluid" alt="Head-up-display med ruteinformasjon og effektivitetsassistent som foreslår å bremse ned" title="Head-up-display med ruteinformasjon og effektivitetsassistent som foreslår å bremse ned">
     </a>
     <figcaption><h4>Head-up-display med ruteinformasjon og effektivitetsassistent som foreslår å bremse ned</h4></figcaption>
 </figure>
@@ -176,7 +176,7 @@ GPS-antennen som brukes av navigasjonssystemet er plassert på taket av e-tron
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/antenna.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/antennas.jpg"
-        alt="GPS antenna på taket e-tron og e-tron Sportback" title="GPS antenna på taket e-tron og e-tron Sportback">
+        class="img-fluid" alt="GPS antenna på taket e-tron og e-tron Sportback" title="GPS antenna på taket e-tron og e-tron Sportback">
     </a>
     <figcaption><h4>GPS antenna på taket e-tron og e-tron Sportback</h4></figcaption>
 </figure>

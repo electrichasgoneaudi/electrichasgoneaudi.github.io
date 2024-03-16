@@ -10,7 +10,7 @@ weight: 1
  <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/sensors.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/sensorss.jpg"
-        alt="Audi Q4 e-tron sensors" title="Audi Q4 e-tron sensors">
+        class="img-fluid" alt="Audi Q4 e-tron sensors" title="Audi Q4 e-tron sensors">
     </a>
     <figcaption><h4>Audi Q4 e-tron sensors</h4></figcaption>
 </figure>

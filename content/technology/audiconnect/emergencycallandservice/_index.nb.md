@@ -23,7 +23,7 @@ Dersom bilens sensorer oppdager en mindre ulykke uten å utløse kollisjonsputen
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/emergencycallandservice/servicebuttons.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/emergencycallandservice/servicebuttonss.jpg"
-        alt="Nødanrop og serviceoperatør er tilgjengelig over midtkonsollen" title="Nødanrop og serviceoperatør er tilgjengelig over midtkonsollen">
+        class="img-fluid" alt="Nødanrop og serviceoperatør er tilgjengelig over midtkonsollen" title="Nødanrop og serviceoperatør er tilgjengelig over midtkonsollen">
     </a>
     <figcaption><h4>Nødanrop og serviceoperatør er tilgjengelig over midtkonsollen</h4></figcaption>
 </figure>
@@ -35,7 +35,7 @@ Audi Online Car Care kan varsle sjåføren når visse funksjoner kan trenge vedl
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/emergencycallandservice/onlinecarcare.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/emergencycallandservice/onlinecarcares.jpg"
-        alt="Online Car Care melding" title="Online Car Care melding">
+        class="img-fluid" alt="Online Car Care melding" title="Online Car Care melding">
     </a>
     <figcaption><h4>Online Car Care melding</h4></figcaption>
 </figure>

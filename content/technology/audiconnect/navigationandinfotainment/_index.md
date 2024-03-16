@@ -18,7 +18,7 @@ Navigation with Google Earth C makes it easier to navigate thanks to high-resolu
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/googlemap1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/googlemap1s.jpg"
-        alt="Google earth satelit photos" title="Google earth satelit photos">
+        class="img-fluid" alt="Google earth satelit photos" title="Google earth satelit photos">
     </a>
     <figcaption><h4>Google earth satelit photos</h4></figcaption>
 </figure>
@@ -26,7 +26,7 @@ Navigation with Google Earth C makes it easier to navigate thanks to high-resolu
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/satelitmap1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/satelitmap1.jpg"
-        alt="Google earth satelit photos" title="Google earth satelit photos">
+        class="img-fluid" alt="Google earth satelit photos" title="Google earth satelit photos">
     </a>
     <figcaption><h4>Google earth satelit photos</h4></figcaption>
 </figure>
@@ -52,7 +52,7 @@ Now there is zero stress to park in foreign cities. The function allows you to s
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/parking1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/parking1s.jpg"
-        alt="Parking information" title="Parking information">
+        class="img-fluid" alt="Parking information" title="Parking information">
     </a>
     <figcaption><h4>Parking information</h4></figcaption>
 </figure>
@@ -66,7 +66,7 @@ Furthermore, all targets in the car and on the smartphone are synchronized, no m
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner1s.jpg"
-        alt="RoutePlanner" title="RoutePlanner">
+        class="img-fluid" alt="RoutePlanner" title="RoutePlanner">
     </a>
     <figcaption><h4>RoutePlanner</h4></figcaption>
 </figure>
@@ -74,7 +74,7 @@ Furthermore, all targets in the car and on the smartphone are synchronized, no m
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner2s.jpg"
-        alt="RoutePlanner" title="RoutePlanner">
+        class="img-fluid" alt="RoutePlanner" title="RoutePlanner">
     </a>
     <figcaption><h4>RoutePlanner</h4></figcaption>
 </figure>
@@ -82,7 +82,7 @@ Furthermore, all targets in the car and on the smartphone are synchronized, no m
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner3s.jpg"
-        alt="RoutePlanner" title="RoutePlanner">
+        class="img-fluid" alt="RoutePlanner" title="RoutePlanner">
     </a>
     <figcaption><h4>RoutePlanner</h4></figcaption>
 </figure>
@@ -90,7 +90,7 @@ Furthermore, all targets in the car and on the smartphone are synchronized, no m
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplannerapp1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplannerapp1s.jpg"
-        alt="RoutePlanner in myAudi" title="RoutePlanner in myAudi">
+        class="img-fluid" alt="RoutePlanner in myAudi" title="RoutePlanner in myAudi">
     </a>
     <figcaption><h4>RoutePlanner in myAudi</h4></figcaption>
 </figure>
@@ -110,7 +110,7 @@ Find a charging station near you or at the destination. This allows you to plan 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/charging1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/charging1s.jpg"
-        alt="Charging stations along the route with information about time needed to charge" title="Charging stations along the route with information about time needed to charge">
+        class="img-fluid" alt="Charging stations along the route with information about time needed to charge" title="Charging stations along the route with information about time needed to charge">
     </a>
     <figcaption><h4>Charging stations along the route with information about time needed to charge</h4></figcaption>
 </figure>
@@ -123,7 +123,7 @@ The detailed 3D view of buildings makes it easier to orientate.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/3dcityview.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/3dcityviews.jpg"
-        alt="3D city view" title="3D city view">
+        class="img-fluid" alt="3D city view" title="3D city view">
     </a>
     <figcaption><h4>3D city view</h4></figcaption>
 </figure>
@@ -136,7 +136,7 @@ If an Audi with this technology detects a dangerous situation, it reports this t
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/swarm1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/swarm1s.jpg"
-        alt="They utilize the swarm intelligence of the Audi fleet, in which more than one hundred thousand cars are already gathering information globally." title="They utilize the swarm intelligence of the Audi fleet, in which more than one hundred thousand cars are already gathering information globally.">
+        class="img-fluid" alt="They utilize the swarm intelligence of the Audi fleet, in which more than one hundred thousand cars are already gathering information globally." title="They utilize the swarm intelligence of the Audi fleet, in which more than one hundred thousand cars are already gathering information globally.">
     </a>
     <figcaption><h4>They utilize the swarm intelligence of the Audi fleet, in which more than one hundred thousand cars are already gathering information globally.</h4></figcaption>
 </figure>
@@ -148,7 +148,7 @@ This can help increase safety for Audi drivers and other road users.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/swarm2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/swarm2s.jpg"
-        alt="Hazard warning in Audi e-tron" title="Hazard warning in Audi e-tron">
+        class="img-fluid" alt="Hazard warning in Audi e-tron" title="Hazard warning in Audi e-tron">
     </a>
     <figcaption><h4>Hazard warning in Audi e-tron</h4></figcaption>
 </figure>
@@ -182,7 +182,7 @@ Receive important information quickly. Enjoy the journey, while at the same time
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/news1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/news1s.jpg"
-        alt="News" title="News">
+        class="img-fluid" alt="News" title="News">
     </a>
     <figcaption><h4>News</h4></figcaption>
 </figure>
@@ -194,7 +194,7 @@ How will the weather be on the trip? With Audi connect you have a full overview.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather1s.jpg"
-        alt="Weather info" title="Weather info">
+        class="img-fluid" alt="Weather info" title="Weather info">
     </a>
     <figcaption><h4>Weather info</h4></figcaption>
 </figure>
@@ -202,7 +202,7 @@ How will the weather be on the trip? With Audi connect you have a full overview.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather2s.jpg"
-        alt="Weather detailed" title="Weather detailed">
+        class="img-fluid" alt="Weather detailed" title="Weather detailed">
     </a>
     <figcaption><h4>Weather detailed</h4></figcaption>
 </figure>
@@ -210,7 +210,7 @@ How will the weather be on the trip? With Audi connect you have a full overview.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather3s.jpg"
-        alt="Weather for next 7 days" title="Weather for next 7 days">
+        class="img-fluid" alt="Weather for next 7 days" title="Weather for next 7 days">
     </a>
     <figcaption><h4>Weather for next 7 days</h4></figcaption>
 </figure>
@@ -246,7 +246,7 @@ The new Apple Music integration allows customers to access their personal Apple 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/applemusic.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/applemusics.jpg"
-        alt="Apple music in MMI" title="Apple music in MMI">
+        class="img-fluid" alt="Apple music in MMI" title="Apple music in MMI">
     </a>
     <figcaption><h4>Apple music in MMI</h4></figcaption>
 </figure>

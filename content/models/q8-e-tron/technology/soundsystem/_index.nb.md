@@ -12,7 +12,7 @@ Standard lydsystemet er et 180 Watt 6-kanalssystem med 10 høyttalere inkludert 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/soundsystem/standard_door_speakers.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/soundsystem/standard_door_speakerss.jpg"
-        alt="Dør med bass og mellomhøyttaler" title="Dør med bass og mellomhøyttaler">
+        class="img-fluid" alt="Dør med bass og mellomhøyttaler" title="Dør med bass og mellomhøyttaler">
     </a>
     <figcaption><h4>Dør med bass og mellomhøyttaler</h4></figcaption>
 </figure>
@@ -26,7 +26,7 @@ Bang & Olufsen lydsystem med 3D-lyd tilbyr en fascinerende funksjon for hi-fi-fa
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/soundsystem/bo_door_speaker.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/soundsystem/bo_door_speakers.jpg"
-        alt="Basshøyttaler i inngangsdør med B&O-system" title="Basshøyttaler i inngangsdør med B&O-system">
+        class="img-fluid" alt="Basshøyttaler i inngangsdør med B&O-system" title="Basshøyttaler i inngangsdør med B&O-system">
     </a>
     <figcaption><h4>Basshøyttaler i inngangsdør med B&O-system</h4></figcaption>
 </figure>
@@ -38,7 +38,7 @@ Illustrasjonen under viser hvor de 16 forskjellige høyttalerne er plassert.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/soundsystem/soundsystem1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/soundsystem/soundsystem1s.jpg"
-        alt="Bang & Olufsen lydsystem med 16 høyttalere" title="Bang & Olufsen lydsystem med 16 høyttalere">
+        class="img-fluid" alt="Bang & Olufsen lydsystem med 16 høyttalere" title="Bang & Olufsen lydsystem med 16 høyttalere">
     </a>
     <figcaption><h4>Bang & Olufsen lydsystem med 16 høyttalere</h4></figcaption>
 </figure>

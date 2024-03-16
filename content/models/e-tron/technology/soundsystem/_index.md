@@ -14,7 +14,7 @@ The standard sound system is a 180 Watt 6 channel system with 10 speakers includ
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/soundsystem/standard_door_speakers.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/soundsystem/standard_door_speakerss.jpg"
-        alt="Door with bass and mid speaker" title="Door with bass and mid speaker">
+        class="img-fluid" alt="Door with bass and mid speaker" title="Door with bass and mid speaker">
     </a>
     <figcaption><h4>Door with bass and mid speaker</h4></figcaption>
 </figure>
@@ -28,7 +28,7 @@ The Bang & Olufsen Sound System with 3D sound offers a fascinating feature for h
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/soundsystem/bo_door_speaker.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/soundsystem/bo_door_speakers.jpg"
-        alt="Bass speaker in front door with B&O system" title="Bass speaker in front door with B&O system">
+        class="img-fluid" alt="Bass speaker in front door with B&O system" title="Bass speaker in front door with B&O system">
     </a>
     <figcaption><h4>Bass speaker in front door with B&O system</h4></figcaption>
 </figure>
@@ -40,7 +40,7 @@ The illustration below show where the 16 different speakers are located.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/soundsystem/soundsystem1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/soundsystem/soundsystem1s.jpg"
-        alt="Bang & Olufsen sound system with 16 speakers" title="Bang & Olufsen sound system with 16 speakers">
+        class="img-fluid" alt="Bang & Olufsen sound system with 16 speakers" title="Bang & Olufsen sound system with 16 speakers">
     </a>
     <figcaption><h4>Bang & Olufsen sound system with 16 speakers</h4></figcaption>
 </figure>

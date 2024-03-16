@@ -41,7 +41,7 @@ The Q4 35 e-tron battery consist of 8 battery modules with 12 cells in each modu
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/q4etron35battery.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/q4etron35batterys.jpg"
-        alt="Q4 35 e-tron battery" title="Q4 35 e-tron battery">
+        class="img-fluid" alt="Q4 35 e-tron battery" title="Q4 35 e-tron battery">
     </a>
     <figcaption><h4>Q4 35 e-tron battery</h4></figcaption>
 </figure>
@@ -65,7 +65,7 @@ The Q4 35 e-tron battery consist of 8 battery modules with 12 cells in each modu
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/q4etron40battery.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/q4etron40batterys.jpg"
-        alt="Q4 40 e-tron / Q4 50 e-tron battery" title="Q4 40 e-tron / Q4 50 e-tron battery">
+        class="img-fluid" alt="Q4 40 e-tron / Q4 50 e-tron battery" title="Q4 40 e-tron / Q4 50 e-tron battery">
     </a>
     <figcaption><h4>Q4 40 e-tron / Q4 50 e-tron battery</h4></figcaption>
 </figure>
@@ -77,7 +77,7 @@ The thermal management system aims to get the battery up to the ideal temperatur
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/batterycooling.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/batterycoolings.jpg"
-        alt="Thermal management Audi Q4 e-tron" title="Thermal management Audi Q4 e-tron">
+        class="img-fluid" alt="Thermal management Audi Q4 e-tron" title="Thermal management Audi Q4 e-tron">
     </a>
     <figcaption><h4>Thermal management Audi Q4 e-tron</h4></figcaption>
 </figure>
@@ -85,7 +85,7 @@ The thermal management system aims to get the battery up to the ideal temperatur
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/battercooling2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/battercooling2s.jpg"
-        alt="Cooling of the high-voltage battery via the chiller" title="Cooling of the high-voltage battery via the chiller">
+        class="img-fluid" alt="Cooling of the high-voltage battery via the chiller" title="Cooling of the high-voltage battery via the chiller">
     </a>
     <figcaption><h4>Cooling of the high-voltage battery via the chiller</h4></figcaption>
 </figure>
@@ -105,7 +105,7 @@ The first generation of Audi Q4 e-tron had a max charging speed of 100KW for the
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.jpg"
-        alt="Charging curve Q4 e-tron optimal conditions" title="Charging curve Q4 e-tron optimal conditions">
+        class="img-fluid" alt="Charging curve Q4 e-tron optimal conditions" title="Charging curve Q4 e-tron optimal conditions">
     </a>
     <figcaption><h4>Charging curve Q4 e-tron optimal conditions</h4></figcaption>
 </figure>
@@ -117,7 +117,7 @@ All these cars will now charge up to 135 kW of power. As a result, the ideal 5 t
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/charging.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/chargings.jpg"
-        alt="Audi Q4 e-tron charging at Ionity" title="Audi Q4 e-tron charging at Ionity">
+        class="img-fluid" alt="Audi Q4 e-tron charging at Ionity" title="Audi Q4 e-tron charging at Ionity">
     </a>
     <figcaption><h4>Audi Q4 e-tron charging at Ionity</h4></figcaption>
 </figure>

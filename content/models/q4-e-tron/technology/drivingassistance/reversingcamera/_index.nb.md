@@ -9,7 +9,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/reversingcamera/rearviewcamera.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/reversingcamera/rearviewcameras.jpg"
-        alt="Ryggekamera" title="Ryggekamera">
+        class="img-fluid" alt="Ryggekamera" title="Ryggekamera">
     </a>
     <figcaption><h4>Ryggekamera</h4></figcaption>
 </figure>
@@ -21,7 +21,7 @@ Den blå overflaten på kamerabildet indikerer hvor kjøretøyet vil bli plasser
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/reversingcamera/camera.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/reversingcamera/cameras.jpg"
-        alt="Ryggekameraet er integrert i håndtakslist på bagasjeromslokket" title="Ryggekameraet er integrert i håndtakslist på bagasjeromslokket">
+        class="img-fluid" alt="Ryggekameraet er integrert i håndtakslist på bagasjeromslokket" title="Ryggekameraet er integrert i håndtakslist på bagasjeromslokket">
     </a>
     <figcaption><h4>Ryggekameraet er integrert i håndtakslist på bagasjeromslokket</h4></figcaption>
 </figure>
@@ -29,7 +29,7 @@ Den blå overflaten på kamerabildet indikerer hvor kjøretøyet vil bli plasser
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/reversingcamera/camera3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/reversingcamera/camera3s.jpg"
-        alt="Ryggekameraet har innebygd rengjøringsfunksjon" title="Ryggekameraet har innebygd rengjøringsfunksjon">
+        class="img-fluid" alt="Ryggekameraet har innebygd rengjøringsfunksjon" title="Ryggekameraet har innebygd rengjøringsfunksjon">
     </a>
     <figcaption><h4>Ryggekameraet har innebygd rengjøringsfunksjon</h4></figcaption>
 </figure>

@@ -9,7 +9,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/predictiveefficient.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/predictiveefficients.jpg"
-        alt="Effektivitetsassistent" title="Effektivitetsassistent">
+        class="img-fluid" alt="Effektivitetsassistent" title="Effektivitetsassistent">
     </a>
     <figcaption><h4>Effektivitetsassistent</h4></figcaption>
 </figure>
@@ -22,7 +22,7 @@ Føreren vises tilsvarende informasjon i instrumentgruppen eller i Audi virtual 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/efficientsymboletron.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/efficientsymboletrons.jpg"
-        alt="e-tron virtual cockpit with symbol showing to lift the right foot" title="e-tron virtual cockpit with symbol showing to lift the right foot">
+        class="img-fluid" alt="e-tron virtual cockpit with symbol showing to lift the right foot" title="e-tron virtual cockpit with symbol showing to lift the right foot">
     </a>
     <figcaption><h4>e-tron virtual cockpit with symbol showing to lift the right foot</h4></figcaption>
 </figure>

@@ -17,7 +17,7 @@ segments.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-1s.jpg"
-        alt="A6 e-tron" title="A6 e-tron">
+        class="img-fluid" alt="A6 e-tron" title="A6 e-tron">
     </a>
     <figcaption><h4>A6 e-tron</h4></figcaption>
 </figure>
@@ -29,7 +29,7 @@ and highly scalable architecture that allows both low- and high-floor vehicles t
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/macan.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/macans.jpg"
-        alt="Porsche Macan prototype based on PPE" title="Porsche Macan prototype based on PPE">
+        class="img-fluid" alt="Porsche Macan prototype based on PPE" title="Porsche Macan prototype based on PPE">
     </a>
     <figcaption><h4>Porsche Macan prototype based on PPE</h4></figcaption>
 </figure>
@@ -43,7 +43,7 @@ The diagram below show hows PPE models will be compared to J1 and MEB models in 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/comparativeperformance.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/comparativeperformances.png" alt="PPE models compared with J1 and MEB models" title="PPE models compared with J1 and MEB models">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/comparativeperformances.png" class="img-fluid" alt="PPE models compared with J1 and MEB models" title="PPE models compared with J1 and MEB models">
     </a>
     <figcaption><h4>PPE models compared with J1 and MEB models</h4></figcaption>
 </figure>
@@ -62,7 +62,7 @@ will be delivered with two different configurations when they are launched.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/battery.png">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/batterys.png"
-        alt="PPE-battery with 12 modules" title="PPE-battery with 12 modules">
+        class="img-fluid" alt="PPE-battery with 12 modules" title="PPE-battery with 12 modules">
     </a>
     <figcaption><h4>PPE-battery with 12 modules</h4></figcaption>
 </figure>
@@ -80,7 +80,7 @@ For the [Audi grandshpere concept](../../../articles/audigrandsphereconcept/) Au
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrains.jpg"
-        alt="PPE-drivetrain" title="PPE-drivetrain">
+        class="img-fluid" alt="PPE-drivetrain" title="PPE-drivetrain">
     </a>
     <figcaption><h4>PPE-drivetrain</h4></figcaption>
 </figure>
@@ -99,7 +99,7 @@ levels and battery capacities on the PPE platform. Models based on PPE will be d
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/motors.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/motorss.jpg"
-        alt="PPE Motors" title="PPE Motors">
+        class="img-fluid" alt="PPE Motors" title="PPE Motors">
     </a>
     <figcaption><h4>PPE Motors</h4></figcaption>
 </figure>
@@ -132,7 +132,7 @@ Audi and Porsche will reuse most parts between the models
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/part.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/parts.png" alt="Reuse of parts of different PPE models" title="Reuse of parts of different PPE models">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/parts.png" class="img-fluid" alt="Reuse of parts of different PPE models" title="Reuse of parts of different PPE models">
     </a>
     <figcaption><h4>Reuse of parts of different PPE models</h4></figcaption>
 </figure>
@@ -148,7 +148,7 @@ In 2020 Audi had a presentation where they discussed some of the improvements of
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/ppepresentation2.png">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/ppepresentation2s.png"
-        alt="PPE vs MLB evo" title="PPE vs MLB evo">
+        class="img-fluid" alt="PPE vs MLB evo" title="PPE vs MLB evo">
     </a>
     <figcaption><h4>PPE vs MLB evo</h4></figcaption>
 </figure>

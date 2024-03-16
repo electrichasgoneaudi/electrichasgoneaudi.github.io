@@ -12,7 +12,7 @@ Hvis sjåføren ønsker å lette inn i et kryss eller avkjørsel med dårlig sik
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/crossingassist/crossing_assist.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/crossingassist/crossing_assists.jpg"
-        alt="gatekryssassistent" title="gatekryssassistent">
+        class="img-fluid" alt="gatekryssassistent" title="gatekryssassistent">
     </a>
     <figcaption><h4>gatekryssassistent</h4></figcaption>
 </figure>

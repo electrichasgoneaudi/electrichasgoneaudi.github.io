@@ -9,7 +9,7 @@ weight: 3
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_1s.jpg"
-        alt="Hovedlykter" title="Hovedlykter">
+        class="img-fluid" alt="Hovedlykter" title="Hovedlykter">
     </a>
     <figcaption><h4>Hovedlykter</h4></figcaption>
 </figure>
@@ -29,7 +29,7 @@ Matrix LED-frontlyktene er også tilgjengelig som et alternativ; disse kommer so
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_2s.jpg"
-        alt="Hovedlykter med laser" title="Hovedlykter med laser">
+        class="img-fluid" alt="Hovedlykter med laser" title="Hovedlykter med laser">
     </a>
     <figcaption><h4>Hovedlykter med laser</h4></figcaption>
 </figure>
@@ -41,7 +41,7 @@ Toppen er matrise-LED-frontlyktene med Audi laserlys. I midten av frontlysene, m
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_2s.jpg"
-        alt="Baklykter" title="Baklykter">
+        class="img-fluid" alt="Baklykter" title="Baklykter">
     </a>
     <figcaption><h4>Baklykter</h4></figcaption>
 </figure>

@@ -9,7 +9,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/exitwarning/exitwarning.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/exitwarning/exitwarnings.jpg"
-        alt="Utstigningsvarsling Audi e-tron" title="Utstigningsvarsling Audi e-tron">
+        class="img-fluid" alt="Utstigningsvarsling Audi e-tron" title="Utstigningsvarsling Audi e-tron">
     </a>
     <figcaption><h4>Utstigningsvarsling Audi e-tron GT</h4></figcaption>
 </figure>

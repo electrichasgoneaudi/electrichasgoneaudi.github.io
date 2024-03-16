@@ -19,7 +19,7 @@ På helelektriske Audier er det ikke mulig å sjekke cellebalansen uten ekstra v
 figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cellbalancing/obdeleven.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cellbalancing/obdeleven.jpg"
-        alt="info fra OBDEleven" title="info fra OBDEleven">
+        class="img-fluid" alt="info fra OBDEleven" title="info fra OBDEleven">
     </a>
     <figcaption><h4>info fra OBDEleven</h4></figcaption>
 </figure>

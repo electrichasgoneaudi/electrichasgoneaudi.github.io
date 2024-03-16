@@ -8,7 +8,7 @@ weight: 99996
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials1s.jpg" alt="Raphael Kis and the new 2023 Audi SQ8 e-tron prototype" title="Raphael Kis and the new 2023 Audi SQ8 e-tron prototype">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials1s.jpg" class="img-fluid" alt="Raphael Kis and the new 2023 Audi SQ8 e-tron prototype" title="Raphael Kis and the new 2023 Audi SQ8 e-tron prototype">
     </a>
     <figcaption><h4>Raphael Kis and the new 2023 Audi SQ8 e-tron prototype</h4></figcaption>
 </figure>
@@ -25,7 +25,7 @@ The next-largest town is several kilometers away and even the nearest supermarke
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials3s.jpg" alt="2023 Audi SQ8 e-tron prototype" title="2023 Audi SQ8 e-tron prototype">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials3s.jpg" class="img-fluid" alt="2023 Audi SQ8 e-tron prototype" title="2023 Audi SQ8 e-tron prototype">
     </a>
     <figcaption><h4>2023 Audi SQ8 e-tron prototype</h4></figcaption>
 </figure>
@@ -44,7 +44,7 @@ Moments later, the laptop is firmly in its bracket on the passenger seat of a ca
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials2s.jpg" alt="Adjusting behaviour" title="Adjusting behaviour">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/secrettrials/secrettrials2s.jpg" class="img-fluid" alt="Adjusting behaviour" title="Adjusting behaviour">
     </a>
     <figcaption><h4>Adjusting behaviour</h4></figcaption>
 </figure>

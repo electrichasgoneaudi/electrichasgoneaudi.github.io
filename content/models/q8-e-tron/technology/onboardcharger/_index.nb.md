@@ -15,7 +15,7 @@ I USA har ladeporten en [J1772-kontakt](https://en.wikipedia.org/wiki/SAE_J1772)
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargeport_left.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargeport_lefts.jpg"
-        alt="Type 2 Ladeport" title="Type 2 Ladeport">
+        class="img-fluid" alt="Type 2 Ladeport" title="Type 2 Ladeport">
     </a>
     <figcaption><h4>Type 2 Ladeport</h4></figcaption>
 </figure>
@@ -32,7 +32,7 @@ Dette er alternativ ID **JS1**
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargeport_right.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargeport_rights.jpg"
-        alt="Ytterligere ladeport på passasjersiden" title="Ytterligere ladeport på passasjersiden">
+        class="img-fluid" alt="Ytterligere ladeport på passasjersiden" title="Ytterligere ladeport på passasjersiden">
     </a>
     <figcaption><h4>Ytterligere ladeport på passasjersiden</h4></figcaption>
 </figure>
@@ -50,7 +50,7 @@ I illustrasjonen under ser du plasseringen av ladeenhetene.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/electricdrivetrain.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/electricdrivetrains.jpg"
-        alt="Elektrisk drivlinje med standard og optiell laderplassering" title="Elektrisk drivlinje med standard og optiell laderplassering">
+        class="img-fluid" alt="Elektrisk drivlinje med standard og optiell laderplassering" title="Elektrisk drivlinje med standard og optiell laderplassering">
     </a>
     <figcaption><h4>Elektrisk drivlinje med standard og optiell laderplassering</h4></figcaption>
 </figure>
@@ -60,7 +60,7 @@ Bare AC-lading går gjennom laderen. For DC-lading er CCS-porten direkte koblet 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/wiringdiagram.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/wiringdiagrams.jpg"
-        alt="Ladeport/laderkabling" title="Ladeport/laderkabling">
+        class="img-fluid" alt="Ladeport/laderkabling" title="Ladeport/laderkabling">
     </a>
     <figcaption><h4>Ladeport/laderkabling</h4></figcaption>
 </figure>
@@ -69,7 +69,7 @@ Bare AC-lading går gjennom laderen. For DC-lading er CCS-porten direkte koblet 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/charger.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargers.jpg"
-        alt="Ombordladeren" title="Ombordladeren">
+        class="img-fluid" alt="Ombordladeren" title="Ombordladeren">
     </a>
     <figcaption><h4>Ombordladeren</h4></figcaption>
 </figure>
@@ -89,7 +89,7 @@ Bare AC-lading går gjennom laderen. For DC-lading er CCS-porten direkte koblet 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/ledlights.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/ledlightss.jpg"
-        alt="Led Lights" title="Led Lights">
+        class="img-fluid" alt="Led Lights" title="Led Lights">
     </a>
     <figcaption><h4>Led Lights</h4></figcaption>
 </figure>
@@ -97,7 +97,7 @@ Bare AC-lading går gjennom laderen. For DC-lading er CCS-porten direkte koblet 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/ledoverview.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/ledoverviews.jpg"
-        alt="LED codes" title="LED codes">
+        class="img-fluid" alt="LED codes" title="LED codes">
     </a>
     <figcaption><h4>LED codes</h4></figcaption>
 </figure>

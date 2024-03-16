@@ -28,7 +28,7 @@ Faktorene som påvirker kalenderaldring er ladetilstand og miljøtemperatur.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/degredation/evstoragestress.png">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/degredation/evstoragestress.png"
-        alt="Lagringsstress" title="Lagringsstress">
+        class="img-fluid" alt="Lagringsstress" title="Lagringsstress">
     </a>
     <figcaption><h4>Lagringsstress</h4></figcaption>
 </figure>
@@ -48,7 +48,7 @@ Diagrammet nedenfor viser hvordan SOC-området som brukes ved lading/utlading p�
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/degredation/dstcycles.png">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/degredation/dstcycles.png"
-        alt="Syklusstress" title="Syklusstress">
+        class="img-fluid" alt="Syklusstress" title="Syklusstress">
     </a>
     <figcaption><h4>Syklusstress</h4></figcaption>
 </figure>

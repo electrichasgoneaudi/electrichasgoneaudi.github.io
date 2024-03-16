@@ -8,7 +8,7 @@ weight: 99990
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere1_mt.jpg" alt="Audi activesphere concept" title="Audi activesphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere1_mt.jpg" class="img-fluid" alt="Audi activesphere concept" title="Audi activesphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept</h4></figcaption>
 </figure>
@@ -33,7 +33,7 @@ As a perfect all-rounder, the Audi activesphere concept is ideally suited for th
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere2.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere2_mt.jpeg" alt="Audi activesphere concept" title="Audi grandsphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere2_mt.jpeg" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept</h4></figcaption>
 </figure>
@@ -55,7 +55,7 @@ There are also glass surfaces on the side in the lower door area, which seem to 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere7.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere7_mt.jpeg" alt="Audi activesphere concept" title="Audi grandsphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere7_mt.jpeg" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept glass surface</h4></figcaption>
 </figure>
@@ -75,7 +75,7 @@ Right and left above the Singleframe, the narrow headlight units appear like foc
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere5.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere5_mt.jpeg" alt="Audi activesphere concept" title="Audi activesphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere5_mt.jpeg" class="img-fluid" alt="Audi activesphere concept" title="Audi activesphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept</h4></figcaption>
 </figure>
@@ -89,7 +89,7 @@ If required, the transparent rear window slides are almost flush with the roof o
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere8.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere8_mt.jpeg" alt="Audi activesphere concept" title="Audi activesphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere8_mt.jpeg" class="img-fluid" alt="Audi activesphere concept" title="Audi activesphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept with bikes</h4></figcaption>
 </figure>
@@ -105,7 +105,7 @@ With that reassessment, the design process itself changes. At the beginning of a
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere4.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere4_mt.jpeg" alt="Audi activesphere concept" title="Audi grandsphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere4_mt.jpeg" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept</h4></figcaption>
 </figure>
@@ -122,7 +122,7 @@ When the Audi activesphere concept is driving in autonomous mode, the dashboard,
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere8.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere8_mt.jpeg" alt="Audi activesphere concept" title="Audi grandsphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere8_mt.jpeg" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept autonomous mode</h4></figcaption>
 </figure>
@@ -143,7 +143,7 @@ In the early days, VR goggles were limited to depicting a virtual reality withou
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere6.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere6_mt.jpeg" alt="Audi activesphere concept" title="Audi grandsphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere6_mt.jpeg" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept</h4></figcaption>
 </figure>

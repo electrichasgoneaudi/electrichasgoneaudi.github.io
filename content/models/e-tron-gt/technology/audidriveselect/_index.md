@@ -26,7 +26,7 @@ Depending on option and setup drive select settings affect the following.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/audidriveselect/driveselectbuttons.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/audidriveselect/driveselectbuttons.jpg"
-        alt="Drive Select are available as seperate buttons and from MMI" title="Drive Select are available as seperate buttons and from MMI">
+        class="img-fluid" alt="Drive Select are available as seperate buttons and from MMI" title="Drive Select are available as seperate buttons and from MMI">
     </a>
     <figcaption><h4>Drive Select are available as seperate buttons and from MMI</h4></figcaption>
 </figure>
@@ -36,7 +36,7 @@ Depending on option and setup drive select settings affect the following.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/audidriveselect/driveselectmenu.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/audidriveselect/driveselectmenus.jpg"
-        alt="Drive Select menu in MMI" title="Drive Select menu in MMI">
+        class="img-fluid" alt="Drive Select menu in MMI" title="Drive Select menu in MMI">
     </a>
     <figcaption><h4>Drive Select menu in MMI</h4></figcaption>
 </figure>
@@ -54,7 +54,7 @@ Depending on option and setup drive select settings affect the following.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/audidriveselect/individualsettings.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/audidriveselect/individualsettingss.jpg"
-        alt="Individual settings" title="Individual settings">
+        class="img-fluid" alt="Individual settings" title="Individual settings">
     </a>
     <figcaption><h4>Individual settings</h4></figcaption>
 </figure>

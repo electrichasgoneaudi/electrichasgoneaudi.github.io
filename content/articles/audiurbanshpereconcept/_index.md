@@ -14,7 +14,7 @@ the senses and offer a whole new level of experience.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_1s.jpg" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_1s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere concept</h4></figcaption>
 </figure>
@@ -63,7 +63,7 @@ conventions of the segment.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_5s.jpg" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_5s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere concept</h4></figcaption>
 </figure>
@@ -121,7 +121,7 @@ exceptionally spacious experience of the interior.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_3s.jpg" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_3s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere concept</h4></figcaption>
 </figure>
@@ -148,7 +148,7 @@ transparent design or – when folded upwards – through the glass roof area to
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_4s.jpg" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_4s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere concept</h4></figcaption>
 </figure>
@@ -172,7 +172,7 @@ zone in the headrests.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_7.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_7s.jpg" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_7s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere concept</h4></figcaption>
 </figure>
@@ -191,7 +191,7 @@ interior.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_9.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_9s.jpg" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_9s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere concept</h4></figcaption>
 </figure>
@@ -272,7 +272,7 @@ do in the significantly flatter grandsphere.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_6s.jpg" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_6s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere concept</h4></figcaption>
 </figure>
@@ -295,7 +295,7 @@ LED surface is located in the rear.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_10.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_10s.jpg" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_10s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere concept</h4></figcaption>
 </figure>
@@ -320,7 +320,7 @@ the entire surface acts as a glare-free lighting unit.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_8.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_8s.jpg" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_8s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere concept</h4></figcaption>
 </figure>
@@ -347,7 +347,7 @@ in both rows of seats.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_11.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_11s.jpg" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_11s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere concept - 24 inch wheeels</h4></figcaption>
 </figure>
@@ -369,7 +369,7 @@ to reduce friction and thus energy consumption when coasting.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_2s.jpg" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_2s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere concept</h4></figcaption>
 </figure>

@@ -18,7 +18,7 @@ Navigering med Google Earth C gjør det enklere å navigere takket være høyopp
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/googlemap1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/googlemap1s.jpg"
-        alt="Google Earth satellittbilder" title="Google Earth satellittbilder">
+        class="img-fluid" alt="Google Earth satellittbilder" title="Google Earth satellittbilder">
     </a>
     <figcaption><h4>Google Earth satellittbilder</h4></figcaption>
 </figure>
@@ -26,7 +26,7 @@ Navigering med Google Earth C gjør det enklere å navigere takket være høyopp
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/satelitmap1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/satelitmap1.jpg"
-        alt="Audi connect gir Google satellittkart på utvalgte modeller" title="Audi connect gir Google satellittkart på utvalgte modeller">
+        class="img-fluid" alt="Audi connect gir Google satellittkart på utvalgte modeller" title="Audi connect gir Google satellittkart på utvalgte modeller">
     </a>
     <figcaption><h4>Audi connect gir Google satellittkart på utvalgte modeller</h4></figcaption>
 </figure>
@@ -54,7 +54,7 @@ Nå er det null stress å parkere i utenlandske byer. Funksjonen lar deg søke e
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/parking1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/parking1s.jpg"
-        alt="Parking information" title="Parking information">
+        class="img-fluid" alt="Parking information" title="Parking information">
     </a>
     <figcaption><h4>Parking information</h4></figcaption>
 </figure>
@@ -68,7 +68,7 @@ Videre er alle mål i bilen og på smarttelefonen synkronisert, uansett hvor de 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner1s.jpg"
-        alt="Ruteplanlegger" title="Ruteplanlegger">
+        class="img-fluid" alt="Ruteplanlegger" title="Ruteplanlegger">
     </a>
     <figcaption><h4>Ruteplanlegger</h4></figcaption>
 </figure>
@@ -76,7 +76,7 @@ Videre er alle mål i bilen og på smarttelefonen synkronisert, uansett hvor de 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner2s.jpg"
-        alt="Ruteplanlegger" title="Ruteplanlegger">
+        class="img-fluid" alt="Ruteplanlegger" title="Ruteplanlegger">
     </a>
     <figcaption><h4>Ruteplanlegger</h4></figcaption>
 </figure>
@@ -84,7 +84,7 @@ Videre er alle mål i bilen og på smarttelefonen synkronisert, uansett hvor de 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner3s.jpg"
-        alt="Ruteplanlegger" title="Ruteplanlegger">
+        class="img-fluid" alt="Ruteplanlegger" title="Ruteplanlegger">
     </a>
     <figcaption><h4>Ruteplanlegger</h4></figcaption>
 </figure>
@@ -92,7 +92,7 @@ Videre er alle mål i bilen og på smarttelefonen synkronisert, uansett hvor de 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplannerapp1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplannerapp1s.jpg"
-        alt="Ruteplanlegger i myAudi" title="Ruteplanlegger i myAudi">
+        class="img-fluid" alt="Ruteplanlegger i myAudi" title="Ruteplanlegger i myAudi">
     </a>
     <figcaption><h4>Ruteplanlegger i myAudi</h4></figcaption>
 </figure>
@@ -112,7 +112,7 @@ Finn en ladestasjon nær deg eller på destinasjonen. Dette lar deg planlegge n�
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/charging1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/charging1s.jpg"
-        alt="Ladestasjoner langs ruten med informasjon om tiden det tar å lade" title="Ladestasjoner langs ruten med informasjon om tiden det tar å lade">
+        class="img-fluid" alt="Ladestasjoner langs ruten med informasjon om tiden det tar å lade" title="Ladestasjoner langs ruten med informasjon om tiden det tar å lade">
     </a>
     <figcaption><h4>Ladestasjoner langs ruten med informasjon om tiden det tar å lade</h4></figcaption>
 </figure>
@@ -130,7 +130,7 @@ Hvis en Audi med denne teknologien oppdager en farlig situasjon, rapporterer den
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/swarm1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/swarm1s.jpg"
-        alt="De bruker svermintelligensen til Audi-flåten, der mer enn hundre tusen biler allerede samler informasjon globalt." title="De bruker svermintelligensen til Audi-flåten, der mer enn hundre tusen biler allerede samler informasjon globalt.">
+        class="img-fluid" alt="De bruker svermintelligensen til Audi-flåten, der mer enn hundre tusen biler allerede samler informasjon globalt." title="De bruker svermintelligensen til Audi-flåten, der mer enn hundre tusen biler allerede samler informasjon globalt.">
     </a>
     <figcaption><h4>De bruker svermintelligensen til Audi-flåten, der mer enn hundre tusen biler allerede samler informasjon globalt.</h4></figcaption>
 </figure>
@@ -140,7 +140,7 @@ Slik varsles Audi-sjåfører via stasjonsvogn og navigasjonssystem før de når 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/swarm2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/swarm2s.jpg"
-        alt="Varsling i Audi e-tron" title="Varsling i Audi e-tron">
+        class="img-fluid" alt="Varsling i Audi e-tron" title="Varsling i Audi e-tron">
     </a>
     <figcaption><h4>Varsling i Audi e-tron</h4></figcaption>
 </figure>
@@ -174,7 +174,7 @@ Motta viktig informasjon raskt. Nyt reisen, samtidig som du får med deg det vik
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/news1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/news1s.jpg"
-        alt="Nyheter" title="Nyheter">
+        class="img-fluid" alt="Nyheter" title="Nyheter">
     </a>
     <figcaption><h4>Nyheter</h4></figcaption>
 </figure>
@@ -186,7 +186,7 @@ Hvordan blir været på turen? Med Audi connect har du full oversikt. Værmeldin
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather1s.jpg"
-        alt="Værinfo" title="Værinfo">
+        class="img-fluid" alt="Værinfo" title="Værinfo">
     </a>
     <figcaption><h4>Værinfo</h4></figcaption>
 </figure>
@@ -194,7 +194,7 @@ Hvordan blir været på turen? Med Audi connect har du full oversikt. Værmeldin
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather2s.jpg"
-        alt="Vær detaljert" title="Vær detaljert">
+        class="img-fluid" alt="Vær detaljert" title="Vær detaljert">
     </a>
     <figcaption><h4>Vær detaljert</h4></figcaption>
 </figure>
@@ -202,7 +202,7 @@ Hvordan blir været på turen? Med Audi connect har du full oversikt. Værmeldin
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather3s.jpg"
-        alt="Været for de neste 7 dagene" title="Været for de neste 7 dagene">
+        class="img-fluid" alt="Været for de neste 7 dagene" title="Været for de neste 7 dagene">
     </a>
     <figcaption><h4>Været for de neste 7 dagene</h4></figcaption>
 </figure>
@@ -238,7 +238,7 @@ Den nye Apple Music-integrasjonen lar kunder få tilgang til sin personlige Appl
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/applemusic.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/applemusics.jpg"
-        alt="Apple music in MMI" title="Apple music in MMI">
+        class="img-fluid" alt="Apple music in MMI" title="Apple music in MMI">
     </a>
     <figcaption><h4>Apple music in MMI</h4></figcaption>
 </figure>

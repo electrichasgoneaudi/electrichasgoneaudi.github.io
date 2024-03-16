@@ -37,42 +37,42 @@ Fargekode: **T9**
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ibis_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ibis_1s.jpg" alt="Ibishvit Audi RS e-tron GT med optikkpakke i glanset karbon" title="Ibishvit Audi RS e-tron GT med optikkpakke i glanset karbon">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ibis_1s.jpg" class="img-fluid" alt="Ibishvit Audi RS e-tron GT med optikkpakke i glanset karbon" title="Ibishvit Audi RS e-tron GT med optikkpakke i glanset karbon">
     </a>
     <figcaption><h4>Ibishvit Audi RS e-tron GT med optikkpakke i glanset karbon</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ibis_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ibis_2s.jpg" alt="Ibishvit Audi RS e-tron GT med optikkpakke i glanset karbon" title="Ibishvit Audi RS e-tron GT med optikkpakke i glanset karbon">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ibis_2s.jpg" class="img-fluid" alt="Ibishvit Audi RS e-tron GT med optikkpakke i glanset karbon" title="Ibishvit Audi RS e-tron GT med optikkpakke i glanset karbon">
     </a>
     <figcaption><h4>Ibishvit Audi RS e-tron GT med optikkpakke i glanset karbon</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ibis_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ibis_3s.jpg" alt="Ibishvit Audi RS e-tron GT med optikkpakke i glanset karbon" title="Ibishvit Audi RS e-tron GT med optikkpakke i glanset karbon">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ibis_3s.jpg" class="img-fluid" alt="Ibishvit Audi RS e-tron GT med optikkpakke i glanset karbon" title="Ibishvit Audi RS e-tron GT med optikkpakke i glanset karbon">
     </a>
     <figcaption><h4>Ibishvit Audi RS e-tron GT med optikkpakke i glanset karbon</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ibis_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ibis_4s.jpg" alt="Ibishvit Audi RS e-tron GT med optikkpakke i glanset karbon" title="Ibishvit Audi RS e-tron GT med optikkpakke i glanset karbon">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ibis_4s.jpg" class="img-fluid" alt="Ibishvit Audi RS e-tron GT med optikkpakke i glanset karbon" title="Ibishvit Audi RS e-tron GT med optikkpakke i glanset karbon">
     </a>
     <figcaption><h4>Ibishvit Audi RS e-tron GT med optikkpakke i glanset karbon</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ibis_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ibis_5s.jpg" alt="Ibishvit Audi e-tron GT med sort optikkpakke" title="Ibishvit Audi e-tron GT med sort optikkpakke">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ibis_5s.jpg" class="img-fluid" alt="Ibishvit Audi e-tron GT med sort optikkpakke" title="Ibishvit Audi e-tron GT med sort optikkpakke">
     </a>
     <figcaption><h4>Ibishvit Audi e-tron GT med sort optikkpakke av @Auditography</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ibis_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ibis_6s.jpg" alt="Ibishvit Audi e-tron GT med sort optikkpakke" title="Ibishvit Audi e-tron GT med sort optikkpakke">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ibis_6s.jpg" class="img-fluid" alt="Ibishvit Audi e-tron GT med sort optikkpakke" title="Ibishvit Audi e-tron GT med sort optikkpakke">
     </a>
     <figcaption><h4>Ibishvit Audi e-tron GT med sort optikkpakke av @Auditography</h4></figcaption>
 </figure>
@@ -91,35 +91,35 @@ Fargekode: **Y1**
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tangored_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tangored_2s.jpg" alt="Tangorød Audi e-tron GT" title="Tangorød Audi e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tangored_2s.jpg" class="img-fluid" alt="Tangorød Audi e-tron GT" title="Tangorød Audi e-tron GT">
     </a>
     <figcaption><h4>Tangorød Audi e-tron GT</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tangored_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tangored_3s.jpg" alt="Tangorød Audi e-tron GT" title="Tangorød Audi e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tangored_3s.jpg" class="img-fluid" alt="Tangorød Audi e-tron GT" title="Tangorød Audi e-tron GT">
     </a>
     <figcaption><h4>Tangorød Audi e-tron GT</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tangored_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tangored_4s.jpg" alt="Tangorød Audi e-tron GT" title="Tangorød Audi e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tangored_4s.jpg" class="img-fluid" alt="Tangorød Audi e-tron GT" title="Tangorød Audi e-tron GT">
     </a>
     <figcaption><h4>Tangorød Audi e-tron GT</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tangored_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tangored_5s.jpg" alt="Tangorød Audi e-tron GT" title="Tangorød Audi e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tangored_5s.jpg" class="img-fluid" alt="Tangorød Audi e-tron GT" title="Tangorød Audi e-tron GT">
     </a>
     <figcaption><h4>Tangorød Audi e-tron GT</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tangored_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tangored_1s.jpg" alt="Audi RS e-tron GT in Tango Red" title="Audi RS e-tron GT in Tango Red">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tangored_1s.jpg" class="img-fluid" alt="Audi RS e-tron GT in Tango Red" title="Audi RS e-tron GT in Tango Red">
     </a>
     <figcaption><h4>Audi RS e-tron GT in Tango Red</h4></figcaption>
 </figure>
@@ -130,28 +130,28 @@ Fargekode: **9W**
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ascari_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ascari_1s.jpg" alt="Ascariblå Audi e-tron GT" title="Ascariblå Audi e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ascari_1s.jpg" class="img-fluid" alt="Ascariblå Audi e-tron GT" title="Ascariblå Audi e-tron GT">
     </a>
     <figcaption><h4>Ascariblå Audi e-tron GT</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ascari_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ascari_2s.jpg" alt="Ascariblå Audi e-tron GT" title="Ascariblå Audi e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ascari_2s.jpg" class="img-fluid" alt="Ascariblå Audi e-tron GT" title="Ascariblå Audi e-tron GT">
     </a>
     <figcaption><h4>Ascariblå Audi e-tron GT</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ascari_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ascari_3s.jpg" alt="Ascariblå Audi e-tron GT" title="Ascariblå Audi e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ascari_3s.jpg" class="img-fluid" alt="Ascariblå Audi e-tron GT" title="Ascariblå Audi e-tron GT">
     </a>
     <figcaption><h4>Ascariblå Audi e-tron GT</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ascari_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ascari_4s.jpg" alt="Ascariblå Audi e-tron GT" title="Ascariblå Audi e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_ascari_4s.jpg" class="img-fluid" alt="Ascariblå Audi e-tron GT" title="Ascariblå Audi e-tron GT">
     </a>
     <figcaption><h4>Ascariblå Audi e-tron GT</h4></figcaption>
 </figure>
@@ -162,21 +162,21 @@ Fargekode: **L5**
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_florett_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_florett_1s.jpg" alt="Florettsølv Audi e-tron GT with custom full body paint" title="Florettsølv Audi e-tron GT with custom full body paint">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_florett_1s.jpg" class="img-fluid" alt="Florettsølv Audi e-tron GT with custom full body paint" title="Florettsølv Audi e-tron GT with custom full body paint">
     </a>
     <figcaption><h4>Florettsølv Audi e-tron GT</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_florett_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_florett_2s.jpg" alt="Florettsølv Audi e-tron GT with custom full body paint" title="Florettsølv Audi e-tron GT with custom full body paint">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_florett_2s.jpg" class="img-fluid" alt="Florettsølv Audi e-tron GT with custom full body paint" title="Florettsølv Audi e-tron GT with custom full body paint">
     </a>
     <figcaption><h4>Florettsølv Audi e-tron GT</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_florett_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_florett_3s.jpg" alt="Florettsølv Audi e-tron GT with custom full body paint" title="Florettsølv Audi e-tron GT with custom full body paint">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_florett_3s.jpg" class="img-fluid" alt="Florettsølv Audi e-tron GT with custom full body paint" title="Florettsølv Audi e-tron GT with custom full body paint">
     </a>
     <figcaption><h4>Florettsølv Audi e-tron GT</h4></figcaption>
 </figure>
@@ -187,49 +187,49 @@ Fargekode: **M1**
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_suzuka_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_suzuka_1s.jpg" alt="Suzukagrå Audi RS e-tron GT" title="Suzukagrå Audi RS e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_suzuka_1s.jpg" class="img-fluid" alt="Suzukagrå Audi RS e-tron GT" title="Suzukagrå Audi RS e-tron GT">
     </a>
     <figcaption><h4>Suzukagrå Audi RS e-tron GT</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_suzuka_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_suzuka_2s.jpg" alt="Suzukagrå Audi RS e-tron GT" title="Suzukagrå Audi RS e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_suzuka_2s.jpg" class="img-fluid" alt="Suzukagrå Audi RS e-tron GT" title="Suzukagrå Audi RS e-tron GT">
     </a>
     <figcaption><h4>Suzukagrå Audi RS e-tron GT</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_suzuka_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_suzuka_3s.jpg" alt="Suzukagrå Audi RS e-tron GT" title="Suzukagrå Audi RS e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_suzuka_3s.jpg" class="img-fluid" alt="Suzukagrå Audi RS e-tron GT" title="Suzukagrå Audi RS e-tron GT">
     </a>
     <figcaption><h4>Suzukagrå Audi RS e-tron GT</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_suzuka_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_suzuka_4s.jpg" alt="Suzukagrå Audi e-tron GT" title="Suzukagrå Audi e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_suzuka_4s.jpg" class="img-fluid" alt="Suzukagrå Audi e-tron GT" title="Suzukagrå Audi e-tron GT">
     </a>
     <figcaption><h4>Suzukagrå Audi e-tron GT</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_suzuka_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_suzuka_5s.jpg" alt="Suzukagrå Audi e-tron GT" title="Suzukagrå Audi e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_suzuka_5s.jpg" class="img-fluid" alt="Suzukagrå Audi e-tron GT" title="Suzukagrå Audi e-tron GT">
     </a>
     <figcaption><h4>Suzukagrå Audi e-tron GT</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_suzuka_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_suzuka_6s.jpg" alt="Suzukagrå Audi e-tron GT" title="Suzukagrå Audi e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_suzuka_6s.jpg" class="img-fluid" alt="Suzukagrå Audi e-tron GT" title="Suzukagrå Audi e-tron GT">
     </a>
     <figcaption><h4>Suzukagrå Audi e-tron GT</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_suzuka_7.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_suzuka_7s.jpg" alt="Suzukagrå Audi e-tron GT" title="Suzukagrå Audi e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_suzuka_7s.jpg" class="img-fluid" alt="Suzukagrå Audi e-tron GT" title="Suzukagrå Audi e-tron GT">
     </a>
     <figcaption><h4>Suzukagrå Audi e-tron GT</h4></figcaption>
 </figure>
@@ -242,28 +242,28 @@ Fargekode: **6Y**
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_daytona_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_daytona_1s.jpg" alt="Daytonagrå Audi RS e-tron GT" title="Daytonagrå Audi RS e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_daytona_1s.jpg" class="img-fluid" alt="Daytonagrå Audi RS e-tron GT" title="Daytonagrå Audi RS e-tron GT">
     </a>
     <figcaption><h4>Daytonagrå Audi RS e-tron GT</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_daytona_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_daytona_2s.jpg" alt="Daytonagrå Audi RS e-tron GT" title="Daytonagrå Audi RS e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_daytona_2s.jpg" class="img-fluid" alt="Daytonagrå Audi RS e-tron GT" title="Daytonagrå Audi RS e-tron GT">
     </a>
     <figcaption><h4>Daytonagrå Audi RS e-tron GT</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_daytona_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_daytona_3s.jpg" alt="Daytonagrå Audi RS e-tron GT" title="Daytonagrå Audi RS e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_daytona_3s.jpg" class="img-fluid" alt="Daytonagrå Audi RS e-tron GT" title="Daytonagrå Audi RS e-tron GT">
     </a>
     <figcaption><h4>Daytonagrå Audi RS e-tron GT av @Auditography</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_daytona_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_daytona_4s.jpg" alt="Daytonagrå Audi RS e-tron GT" title="Daytonagrå Audi RS e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_daytona_4s.jpg" class="img-fluid" alt="Daytonagrå Audi RS e-tron GT" title="Daytonagrå Audi RS e-tron GT">
     </a>
     <figcaption><h4>Daytonagrå Audi RS e-tron GT av @Auditography</h4></figcaption>
 </figure>
@@ -276,14 +276,14 @@ Fargekode: **V0**
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tactilegreen_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tactilegreen_1s.jpg" alt="Taktikgrønn Audi e-tron GT" title="Taktikgrønn Audi e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tactilegreen_1s.jpg" class="img-fluid" alt="Taktikgrønn Audi e-tron GT" title="Taktikgrønn Audi e-tron GT">
     </a>
     <figcaption><h4>Taktikgrønn Audi e-tron GT</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tactilegreen_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tactilegreen_2s.jpg" alt="Taktikgrønn Audi e-tron GT" title="Taktikgrønn Audi e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tactilegreen_2s.jpg" class="img-fluid" alt="Taktikgrønn Audi e-tron GT" title="Taktikgrønn Audi e-tron GT">
     </a>
     <figcaption><h4>Taktikgrønn Audi e-tron GT av @Auditography</h4></figcaption>
 </figure>
@@ -298,14 +298,14 @@ Fargekode: **82**
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_kemora_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_kemora_1s.jpg" alt="Kemoragrå Audi e-tron GT" title="Kemoragrå Audi e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_kemora_1s.jpg" class="img-fluid" alt="Kemoragrå Audi e-tron GT" title="Kemoragrå Audi e-tron GT">
     </a>
     <figcaption><h4>Kemoragrå Audi e-tron GT</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_kemora_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_kemora_2s.jpg" alt="Kemoragrå Audi e-tron GT" title="Kemoragrå Audi e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_kemora_2s.jpg" class="img-fluid" alt="Kemoragrå Audi e-tron GT" title="Kemoragrå Audi e-tron GT">
     </a>
     <figcaption><h4>Kemoragrå Audi e-tron GT</h4></figcaption>
 </figure>
@@ -318,14 +318,14 @@ Fargekode: **OE**
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_mythosblack_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_mythosblack_1s.jpg" alt="Mytossort Audi e-tron GT" title="Mytossort Audi e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_mythosblack_1s.jpg" class="img-fluid" alt="Mytossort Audi e-tron GT" title="Mytossort Audi e-tron GT">
     </a>
     <figcaption><h4>Mytossort Audi e-tron GT</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_mythosblack_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_mythosblack_2s.jpg" alt="Mytossort Audi e-tron GT" title="Mytossort Audi e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_mythosblack_2s.jpg" class="img-fluid" alt="Mytossort Audi e-tron GT" title="Mytossort Audi e-tron GT">
     </a>
     <figcaption><h4>Mytossort Audi e-tron GT</h4></figcaption>
 </figure>
@@ -338,35 +338,35 @@ Under ser du noen av fargene du kan velge mellom og eksempler av biler med slike
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_exclusive_overview1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_exclusive_overview1s.jpg" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_exclusive_overview1s.jpg" class="img-fluid" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
     </a>
     <figcaption><h4>Perleeffekt lakk</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_exclusive_overview2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_exclusive_overview2s.jpg" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_exclusive_overview2s.jpg" class="img-fluid" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
     </a>
     <figcaption><h4>Krystalleffekt lakk</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_exclusive_overview3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_exclusive_overview3s.jpg" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_exclusive_overview3s.jpg" class="img-fluid" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
     </a>
     <figcaption><h4>Unilakk</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_exclusive_overview4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_exclusive_overview4s.jpg" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_exclusive_overview4s.jpg" class="img-fluid" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
     </a>
     <figcaption><h4>Metallic lakk</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_exclusive_overview5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_exclusive_overview5s.jpg" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_exclusive_overview5s.jpg" class="img-fluid" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
     </a>
     <figcaption><h4>Metallic lakk</h4></figcaption>
 </figure>
@@ -377,14 +377,14 @@ Fargekode: **Y7C**
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_nardogrey_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_nardogrey_1s.jpg" alt="Nardogrå Audi e-tron GT" title="Nardogrå Audi e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_nardogrey_1s.jpg" class="img-fluid" alt="Nardogrå Audi e-tron GT" title="Nardogrå Audi e-tron GT">
     </a>
     <figcaption><h4>Nardogrå Audi e-tron GT by @auditography</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_nardogrey_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_nardogrey_2s.jpg" alt="Nardogrå Audi e-tron GT" title="Nardogrå Audi e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_nardogrey_2s.jpg" class="img-fluid" alt="Nardogrå Audi e-tron GT" title="Nardogrå Audi e-tron GT">
     </a>
     <figcaption><h4>Nardogrå Audi e-tron GT by @auditography</h4></figcaption>
 </figure>
@@ -396,7 +396,7 @@ Color code: **872**
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_zanzibarbrown_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_zanzibarbrown_1s.jpg" alt="Zanzibar brown metallic Audi RS e-tron GT" title="Zanzibar brown metallic Audi RS e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_zanzibarbrown_1s.jpg" class="img-fluid" alt="Zanzibar brown metallic Audi RS e-tron GT" title="Zanzibar brown metallic Audi RS e-tron GT">
     </a>
     <figcaption><h4>Zanzibar brown metallic Audi RS e-tron GT</h4></figcaption>
 </figure>
@@ -404,7 +404,7 @@ Color code: **872**
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_zanzibarbrown_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_zanzibarbrown_2s.jpg" alt="Zanzibar brown metallic Audi RS e-tron GT" title="Zanzibar brown metallic Audi RS e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_zanzibarbrown_2s.jpg" class="img-fluid" alt="Zanzibar brown metallic Audi RS e-tron GT" title="Zanzibar brown metallic Audi RS e-tron GT">
     </a>
     <figcaption><h4>Zanzibar brown metallic Audi RS e-tron GT</h4></figcaption>
 </figure>
@@ -412,7 +412,7 @@ Color code: **872**
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_zanzibarbrown_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_zanzibarbrown_3s.jpg" alt="Zanzibar brown metallic Audi RS e-tron GT" title="Zanzibar brown metallic Audi RS e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_zanzibarbrown_3s.jpg" class="img-fluid" alt="Zanzibar brown metallic Audi RS e-tron GT" title="Zanzibar brown metallic Audi RS e-tron GT">
     </a>
     <figcaption><h4>Zanzibar brown metallic Audi RS e-tron GT</h4></figcaption>
 </figure>
@@ -420,7 +420,7 @@ Color code: **872**
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_zanzibarbrown_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_zanzibarbrown_4s.jpg" alt="Zanzibar brown metallic Audi RS e-tron GT" title="Zanzibar brown metallic Audi RS e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_zanzibarbrown_4s.jpg" class="img-fluid" alt="Zanzibar brown metallic Audi RS e-tron GT" title="Zanzibar brown metallic Audi RS e-tron GT">
     </a>
     <figcaption><h4>Zanzibar brown metallic Audi RS e-tron GT</h4></figcaption>
 </figure>

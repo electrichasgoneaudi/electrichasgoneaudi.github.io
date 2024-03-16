@@ -23,7 +23,7 @@ If the car's sensors detect a minor accident without triggering the airbags and/
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/emergencycallandservice/servicebuttons.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/emergencycallandservice/servicebuttonss.jpg"
-        alt="Emergency call and service operator is available above the center console" title="Emergency call and service operator is available above the center console">
+        class="img-fluid" alt="Emergency call and service operator is available above the center console" title="Emergency call and service operator is available above the center console">
     </a>
     <figcaption><h4>Emergency call and service operator is available above the center console</h4></figcaption>
 </figure>
@@ -35,7 +35,7 @@ Audi Online Car Care can notify the driver when certain features may need mainte
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/emergencycallandservice/onlinecarcare.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/emergencycallandservice/onlinecarcares.jpg"
-        alt="Online Car Care message" title="Online Car Care message">
+        class="img-fluid" alt="Online Car Care message" title="Online Car Care message">
     </a>
     <figcaption><h4>Online Car Care message</h4></figcaption>
 </figure>

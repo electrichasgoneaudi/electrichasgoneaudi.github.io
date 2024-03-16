@@ -44,7 +44,7 @@ Grafen nedenfor viser hvor mye luftmotstanden påvirker forbruker på forskjelli
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/aerodynamicdrag.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/aerodynamicdrags.png" alt="Consumption caused by aerodynamic dra" title="Consumption caused by aerodynamic dra">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/aerodynamicdrags.png" class="img-fluid" alt="Consumption caused by aerodynamic dra" title="Consumption caused by aerodynamic dra">
     </a>
     <figcaption><h4>Consumption caused by aerodynamic dra</h4></figcaption>
 </figure>

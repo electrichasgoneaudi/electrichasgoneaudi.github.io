@@ -9,7 +9,7 @@
   translation: EV Search
 
 - id: menu-brands
-  translation: Brands & Models
+  translation: Models
 
 - id: language
   translation: Language
@@ -34,7 +34,7 @@
   translation: Learn EV technology
 
 - id: common-section-technology-description
-  translation: EVKX.net offers the most extensive collection of in-depth articles about EV technology. 
+  translation: Learn about the EV technology and how to use your EV
 
 - id: common-section-technology-gotosection
   translation: See all articles in our technology section.
@@ -68,6 +68,9 @@
 
 - id: common-section-technology-section-ui
   translation: User interface
+
+- id: common-section-technology-section-platforms
+  translation: EV platforms
 
 - id: common-section-guides-title
   translation: Guides
@@ -103,13 +106,16 @@
   translation: How to verify battery health
 
 - id: common-section-models-title
-  translation: Brands & Models
+  translation: Models
 
 - id: common-section-models-description
   translation: Please read about the different Brands, their EV strategies, and the most complete info on all models below.
 
 - id: common-section-latest-reviews
   translation: Latest online reviews
+
+- id: common-section-articles
+  translation: Articles
 
 
 

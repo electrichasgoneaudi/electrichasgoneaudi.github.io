@@ -44,7 +44,7 @@ In the below graph you see how much consumption the aerodynamic drag causes for 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/aerodynamicdrag.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/aerodynamicdrags.png" alt="Consumption caused by aerodynamic dra" title="Consumption caused by aerodynamic dra">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/aerodynamicdrags.png" class="img-fluid" alt="Consumption caused by aerodynamic dra" title="Consumption caused by aerodynamic dra">
     </a>
     <figcaption><h4>Forbruk grunnet luftmotstand</h4></figcaption>
 </figure>

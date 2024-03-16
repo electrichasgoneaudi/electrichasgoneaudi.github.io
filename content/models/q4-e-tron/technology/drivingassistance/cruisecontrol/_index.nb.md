@@ -9,7 +9,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/cruisecontrol/cruisecontrol.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/cruisecontrol/cruisecontrol.jpg"
-        alt="Cruise control hendel" title="Cruise control hendel">
+        class="img-fluid" alt="Cruise control hendel" title="Cruise control hendel">
     </a>
     <figcaption><h4>Cruise control hendel</h4></figcaption>
 </figure>

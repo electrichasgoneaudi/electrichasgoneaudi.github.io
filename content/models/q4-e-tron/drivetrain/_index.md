@@ -9,7 +9,7 @@ weight: 6
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/drivetrain.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/drivetrains.jpg"
-        alt="Audi Q4 e-tron drivetrain" title="Audi Q4 e-tron drivetrain">
+        class="img-fluid" alt="Audi Q4 e-tron drivetrain" title="Audi Q4 e-tron drivetrain">
     </a>
     <figcaption><h4>Audi Q4 e-tron drivetrain</h4></figcaption>
 </figure>

@@ -10,7 +10,7 @@ A BMS often consists of electronics both on the module level and on the pack lev
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterymanagment/batterymanagement1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterymanagment/batterymanagement1s.jpg"
-        alt="Battery management electronics for Audi e-tron battery pack" title="Battery management electronics for Audi e-tron battery pack">
+        class="img-fluid" alt="Battery management electronics for Audi e-tron battery pack" title="Battery management electronics for Audi e-tron battery pack">
     </a>
     <figcaption><h4>Battery management electronics for Audi e-tron battery pack</h4></figcaption>
 </figure>

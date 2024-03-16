@@ -15,7 +15,7 @@ Luftfjæringen tilbyr også nivåregulering som funksjon av belastning.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/adaptaiveairsuspensionsport.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/adaptaiveairsuspensionsports.jpg" alt="Audi e-tron S med adaptiv luftfjæring sport" title="Audi e-tron S med adaptiv luftfjæring sport">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/adaptaiveairsuspensionsports.jpg" class="img-fluid" alt="Audi e-tron S med adaptiv luftfjæring sport" title="Audi e-tron S med adaptiv luftfjæring sport">
     </a>
     <figcaption><h4>Audi e-tron S med adaptiv luftfjæring sport</h4></figcaption>
 </figure>
@@ -30,7 +30,7 @@ Adaptiv luftfjæring har alternativ-ID **1BK** og adaptiv luftfjæring sport har
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/audidriveselect.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/audidriveselects.png" alt="Audi Drive Select-alternativer juster kjørehøyder" title="Audi Drive Select-alternativer juster kjørehøyder">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/audidriveselects.png" class="img-fluid" alt="Audi Drive Select-alternativer juster kjørehøyder" title="Audi Drive Select-alternativer juster kjørehøyder">
     </a>
     <figcaption><h4>Audi Drive Select-alternativer juster kjørehøyder</h4></figcaption>
 </figure>
@@ -42,7 +42,7 @@ Diagrammet under viser hvordan dette justeres avhengig av hastighet.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/suspensionmode.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/suspensionmode.png" alt="Justering av adaptiv luftfjæring i forskjellige moduser" title="Justering av adaptiv luftfjæring i forskjellige moduser">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/suspensionmode.png" class="img-fluid" alt="Justering av adaptiv luftfjæring i forskjellige moduser" title="Justering av adaptiv luftfjæring i forskjellige moduser">
     </a>
     <figcaption><h4>Justering av adaptiv luftfjæring i forskjellige moduser</h4></figcaption>
 </figure>
@@ -61,35 +61,35 @@ Selv du kan justere kjørehøyden, noen vil ha den enda lavere. Her er noen ekse
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering1s.jpg" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering1s.jpg" class="img-fluid" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
     </a>
     <figcaption><h4>Senket e-tron med 3 cm</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering2s.jpg" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering2s.jpg" class="img-fluid" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
     </a>
     <figcaption><h4>Senket e-tron med 3 cm</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering3s.jpg" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering3s.jpg" class="img-fluid" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
     </a>
     <figcaption><h4>Lowered e-tron with in show mode</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering4s.jpg" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering4s.jpg" class="img-fluid" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
     </a>
     <figcaption><h4>Senket e-tron med 3 cm</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering5s.jpg" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering5s.jpg" class="img-fluid" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
     </a>
     <figcaption><h4>Senket e-tron med 3 cm</h4></figcaption>
 </figure>
@@ -97,7 +97,7 @@ Selv du kan justere kjørehøyden, noen vil ha den enda lavere. Her er noen ekse
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering6s.jpg" alt="Lowered e-tron with 15mm front and 18mm rear from Dynasty AB" title="Lowered e-tron with 15mm front and 18mm rear from Dynasty AB">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering6s.jpg" class="img-fluid" alt="Lowered e-tron with 15mm front and 18mm rear from Dynasty AB" title="Lowered e-tron with 15mm front and 18mm rear from Dynasty AB">
     </a>
     <figcaption><h4>senket e-tron med 15mm front og 18mm bak fra Dynasty AB</h4></figcaption>
 </figure>

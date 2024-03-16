@@ -25,7 +25,7 @@ Option id **2V4**
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/airquality/airqualitypackage.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/airquality/airqualitypackages.jpg"
-        alt="Air Quality package system" title="Air Quality package system">
+        class="img-fluid" alt="Air Quality package system" title="Air Quality package system">
     </a>
     <figcaption><h4>Air Quality package system</h4></figcaption>
 </figure>

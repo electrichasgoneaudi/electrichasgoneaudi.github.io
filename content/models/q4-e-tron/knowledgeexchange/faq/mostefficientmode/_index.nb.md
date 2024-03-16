@@ -14,7 +14,7 @@ På Audi Q4 e-tron er det to tilgjengelige kjøremoduser.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/q4shifter.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/q4shifters.jpg"
-        alt="Drive mode shifter" title="Drive mode shifter">
+        class="img-fluid" alt="Drive mode shifter" title="Drive mode shifter">
     </a>
     <figcaption><h4>Drive mode shifter</h4></figcaption>
 </figure>
@@ -31,7 +31,7 @@ På andre biler ville B-modus vært mer effektivt, men Audi har laget blandede b
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/regenlevelq4.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/regenlevelq4.jpg"
-        alt="Audi Q4 e-tron effektmåler viser B-modus" title="Audi Q4 e-tron effektmåler viser B-modus">
+        class="img-fluid" alt="Audi Q4 e-tron effektmåler viser B-modus" title="Audi Q4 e-tron effektmåler viser B-modus">
     </a>
     <figcaption><h4>Audi Q4 e-tron effektmåler viser B-modus</h4></figcaption>
 </figure>

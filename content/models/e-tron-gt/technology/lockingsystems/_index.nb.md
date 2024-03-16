@@ -21,7 +21,7 @@ For å gjøre dette må sjåføren sitte i kjøretøyet og ha med seg komfortnø
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/startbutton.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/startbutton.jpg"
-        alt="Midtkonsoll med start/stopp-knapp" title="Midtkonsoll med start/stopp-knapp">
+        class="img-fluid" alt="Midtkonsoll med start/stopp-knapp" title="Midtkonsoll med start/stopp-knapp">
     </a>
     <figcaption><h4>Midtkonsoll med start/stopp-knapp</h4></figcaption>
 </figure>
@@ -33,7 +33,7 @@ En høykvalitets visuell differensiering på toppen og bunnen av nøkkelen gjenn
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/advancekey.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/advancekeys.jpg"
-        alt="Audi Advance key" title="Audi Advance key">
+        class="img-fluid" alt="Audi Advance key" title="Audi Advance key">
     </a>
     <figcaption><h4>Audi Advance key</h4></figcaption>
 </figure>

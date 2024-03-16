@@ -11,7 +11,7 @@ Opptil fem radarsensorer, fem kameraer og 12 ultralydsensorer gir miljøinformas
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/technology/drivingassistance/sensors.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/technology/drivingassistance/sensors_st.jpg"
-        alt="Audi Q8 e-tron - sensors and cameraes" title="Audi Q8 e-tron - sensors and cameraes">
+        class="img-fluid" alt="Audi Q8 e-tron - sensors and cameraes" title="Audi Q8 e-tron - sensors and cameraes">
     </a>
     <figcaption><h4>Audi Q8 e-tron - sensorer og kamera</h4></figcaption>
 </figure>

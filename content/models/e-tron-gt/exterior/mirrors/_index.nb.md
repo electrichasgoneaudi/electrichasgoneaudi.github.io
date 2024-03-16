@@ -14,7 +14,7 @@ De kontrolleres i førerdøren.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/mirrors/control.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/mirrors/controls.jpg" alt="Speilene er kontrollert fra førerdøren" title="Speilene er kontrollert fra førerdøren">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/mirrors/controls.jpg" class="img-fluid" alt="Speilene er kontrollert fra førerdøren" title="Speilene er kontrollert fra førerdøren">
     </a>
     <figcaption><h4>Speilene er kontrollert fra førerdøren</h4></figcaption>
 </figure>
@@ -29,28 +29,28 @@ Speil med minne leveres kun sammen med elektriske seter med minne. : **6XL**
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/mirrors/mirror_painted_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/mirrors/mirror_painted_1s.jpg" alt="Painted mirrors in body color option ID 6FA" title="Painted mirrors in body color option ID 6FA">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/mirrors/mirror_painted_1s.jpg" class="img-fluid" alt="Painted mirrors in body color option ID 6FA" title="Painted mirrors in body color option ID 6FA">
     </a>
     <figcaption><h4>LakUtvendige speilhus i bilens farge - tilvalg 6FA</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/mirrors/mirror_painted_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/mirrors/mirror_painted_2s.jpg" alt="Painted mirrors in body color option ID 6FA" title="Painted mirrors in body color option ID 6FA">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/mirrors/mirror_painted_2s.jpg" class="img-fluid" alt="Painted mirrors in body color option ID 6FA" title="Painted mirrors in body color option ID 6FA">
     </a>
     <figcaption><h4>Utvendige speilhus i bilens farge - tilvalg 6FA</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/mirrors/mirror_black.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/mirrors/mirror_blacks.jpg" alt="Black mirror Option ID 6FJ" title="Black mirror Option ID 6FJ">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/mirrors/mirror_blacks.jpg" class="img-fluid" alt="Black mirror Option ID 6FJ" title="Black mirror Option ID 6FJ">
     </a>
     <figcaption><h4>Utvendige speilhus i sort - tilvalg 6FJ</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/mirrors/mirror_carbon.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/mirrors/mirror_carbons.jpg" alt="Carbon mirro Option ID 6FQ" title="Carbon mirro Option ID 6FQ">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/mirrors/mirror_carbons.jpg" class="img-fluid" alt="Carbon mirro Option ID 6FQ" title="Carbon mirro Option ID 6FQ">
     </a>
     <figcaption><h4>Utvendige speilhus i karbon - tilvalg 6FQ</h4></figcaption>
 </figure>

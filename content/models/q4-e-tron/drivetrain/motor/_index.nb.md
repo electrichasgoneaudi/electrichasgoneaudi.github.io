@@ -16,7 +16,7 @@ Q4 35 e-tron kan dekke opptil 341 kilometer (211,9 mi) (WLTP-syklus) på én enk
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/app310b.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/app310bs.jpg"
-        alt="APP 310 motor" title="APP 310 motor">
+        class="img-fluid" alt="APP 310 motor" title="APP 310 motor">
     </a>
     <figcaption><h4>APP 310 motor</h4></figcaption>
 </figure>
@@ -29,7 +29,7 @@ Den elektriske motoren genererer 150 kW (204 PS) og 310 Nm i denne konfigurasjon
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/app310bag.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/app310bags.jpg"
-        alt="APP 310-motoren er så liten at den får plass i en bag" title="APP 310-motoren er så liten at den får plass i en bag">
+        class="img-fluid" alt="APP 310-motoren er så liten at den får plass i en bag" title="APP 310-motoren er så liten at den får plass i en bag">
     </a>
     <figcaption><h4>APP 310-motoren er så liten at den får plass i en bag</h4></figcaption>
 </figure>
@@ -65,7 +65,7 @@ på Q35 vs Q40/Q45/Q50 på grunn av forskjellig batteripakke. Den bakre elektris
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/rearmotor_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/rearmotor_1s.jpg"
-        alt="Elektrisk motor bak" title="Elektrisk motor bak">
+        class="img-fluid" alt="Elektrisk motor bak" title="Elektrisk motor bak">
     </a>
     <figcaption><h4>Elektrisk motor bak</h4></figcaption>
 </figure>
@@ -91,7 +91,7 @@ Kun Q5 45 Quattro og 50 Quattro har frontmotor. Den fremre elektriske motoren ha
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/frontmotor_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/frontmotor_1s.jpg"
-        alt="Elektrisk motor foran" title="Elektrisk motor foran">
+        class="img-fluid" alt="Elektrisk motor foran" title="Elektrisk motor foran">
     </a>
     <figcaption><h4>Elektrisk motor foran</h4></figcaption>
 </figure>
@@ -99,7 +99,7 @@ Kun Q5 45 Quattro og 50 Quattro har frontmotor. Den fremre elektriske motoren ha
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/frontmotor_2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/frontmotor_2s.jpg"
-        alt="Elektrisk motor foran" title="Elektrisk motor foran">
+        class="img-fluid" alt="Elektrisk motor foran" title="Elektrisk motor foran">
     </a>
     <figcaption><h4>Elektrisk motor foran</h4></figcaption>
 </figure>
@@ -113,7 +113,7 @@ Den kraftige APP310 e-drive-enheten overfører kraft til de drevne hjulene ved h
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/gearbox.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/gearboxs.jpg"
-        alt="APP310 gearbox" title="APP310 gearbox">
+        class="img-fluid" alt="APP310 gearbox" title="APP310 gearbox">
     </a>
     <figcaption><h4>APP310 gearbox</h4></figcaption>
 </figure>
@@ -125,7 +125,7 @@ Motorene er væskekjølte. Hver motor har flytende statorkjøling for å gi maks
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/cooling.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/coolings.jpg"
-        alt="Audi Q4 45/50 e-tron væskekjøling av front- og bakmotorer" title="Audi Q4 45/50 e-tron væskekjøling av front- og bakmotorer">
+        class="img-fluid" alt="Audi Q4 45/50 e-tron væskekjøling av front- og bakmotorer" title="Audi Q4 45/50 e-tron væskekjøling av front- og bakmotorer">
     </a>
     <figcaption><h4>Audi Q4 45/50 e-tron væskekjøling av front- og bakmotorer</h4></figcaption>
 </figure>
@@ -139,7 +139,7 @@ For Q50 boost er full kraft bare tilgjengelig over 88 % og når tempraturen er o
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/boost.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/boosts.jpg"
-        alt="omtrent 50 % boost ved 66 % SOC" title="omtrent 50 % boost ved 66 % SOC">
+        class="img-fluid" alt="omtrent 50 % boost ved 66 % SOC" title="omtrent 50 % boost ved 66 % SOC">
     </a>
     <figcaption><h4>omtrent 50 % boost ved 66 % SOC</h4></figcaption>
 </figure>
@@ -151,7 +151,7 @@ Eksempler
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/vc2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/vc2s.jpg"
-        alt="70 % strøm på 32 % SOC og 0,5 grader" title="70 % strøm på 32 % SOC og 0,5 grader">
+        class="img-fluid" alt="70 % strøm på 32 % SOC og 0,5 grader" title="70 % strøm på 32 % SOC og 0,5 grader">
     </a>
     <figcaption><h4>70 % strøm på 32 % SOC og 0,5 grader</h4></figcaption>
 </figure>

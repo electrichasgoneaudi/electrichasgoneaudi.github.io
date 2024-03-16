@@ -24,7 +24,7 @@ The brakes also blend in the physical brakes if needed mixing it with the regene
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/recuperation.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/recuperations.png" alt="Coasting regneration" title="Coasting regneration">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/recuperations.png" class="img-fluid" alt="Coasting regneration" title="Coasting regneration">
     </a>
     <figcaption><h4>Coasting regeneration</h4></figcaption>
 </figure>
@@ -53,7 +53,7 @@ Let's take Pikes Peak as an example. This mountain is 14.110 ft (4300 meters) hi
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/pikespeak.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/pikespeaks.jpg" alt="Driving down Pikes Peak in Audi e-tron" title="Driving down Pikes Peak in Audi e-tron">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/pikespeaks.jpg" class="img-fluid" alt="Driving down Pikes Peak in Audi e-tron" title="Driving down Pikes Peak in Audi e-tron">
     </a>
     <figcaption><h4>Driving down Pikes Peak in Audi e-tron</h4></figcaption>
 </figure>
@@ -74,7 +74,7 @@ In this scenario, the car is moving at 75mph (120.7km/h) and needs to make a ful
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/stops.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/stops.jpg" alt="Making a full stop from 75mph" title="Making a full stop from 75mph">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/stops.jpg" class="img-fluid" alt="Making a full stop from 75mph" title="Making a full stop from 75mph">
     </a>
     <figcaption><h4>Making a full stop from 75mph</h4></figcaption>
 </figure>
@@ -91,7 +91,7 @@ This means a consumption reduction of 3.8kWh/100km.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/fullstop.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/fullstops.jpg" alt="Making a full stop from 75mph" title="Making a full stop from 75mph">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/fullstops.jpg" class="img-fluid" alt="Making a full stop from 75mph" title="Making a full stop from 75mph">
     </a>
     <figcaption><h4>Making a full stop from 75mph</h4></figcaption>
 </figure>
@@ -202,7 +202,7 @@ The below graph shows the total kinetic energy and the two types of kinetic ener
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/kinetic.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/kinetics.png" alt="Graph over kinetic energy" title="Graph over kinetic energy">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/kinetics.png" class="img-fluid" alt="Graph over kinetic energy" title="Graph over kinetic energy">
     </a>
     <figcaption><h4>Graph over kinetic energy</h4></figcaption>
 </figure>
@@ -217,7 +217,7 @@ A moving car will have forces based on air resistance that will push against the
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/windtunnel.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/windtunnels.jpg" alt="Audi e-tron in wind tunnel" title="Audi e-tron in wind tunnel">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/windtunnels.jpg" class="img-fluid" alt="Audi e-tron in wind tunnel" title="Audi e-tron in wind tunnel">
     </a>
     <figcaption><h4>Audi e-tron in wind tunnel</h4></figcaption>
 </figure>
@@ -259,7 +259,7 @@ The below diagram shows the calculated consumption needed to overcome drag and r
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/consumption.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/consumptions.png" alt="Calculated consumption" title="Calculated consumption">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/consumptions.png" class="img-fluid" alt="Calculated consumption" title="Calculated consumption">
     </a>
     <figcaption><h4>Calculated consumption</h4></figcaption>
 </figure>
@@ -304,7 +304,7 @@ The only way to know how much you have regenerated is to look at how much the st
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/soc.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/soc.jpg" alt="State of charge, the only way to see how much you have regenerated" title="State of charge, the only way to see how much you have regenerated">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/soc.jpg" class="img-fluid" alt="State of charge, the only way to see how much you have regenerated" title="State of charge, the only way to see how much you have regenerated">
     </a>
     <figcaption><h4>State of charge, the only way to see how much you have regenerated</h4></figcaption>
 </figure>

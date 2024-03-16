@@ -13,7 +13,7 @@ Advarslene gis når avstanden til en gjenstand i kjørebanen er mindre enn 90 cm
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/parkingsystemplus/parkingsystemplus.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/parkingsystemplus/parkingsystempluss.jpg"
-        alt="Parking system plus med sensorer bak og foran" title="Parking system plus med sensorer bak og foran">
+        class="img-fluid" alt="Parking system plus med sensorer bak og foran" title="Parking system plus med sensorer bak og foran">
     </a>
     <figcaption><h4>Parking system plus med sensorer bak og foran</h4></figcaption>
 </figure>
@@ -21,7 +21,7 @@ Advarslene gis når avstanden til en gjenstand i kjørebanen er mindre enn 90 cm
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/parkingsystemplus/rearsensor.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/parkingsystemplus/rearsensor.jpg"
-        alt="Plassering av bakre sensorer på Audi e-tron GT" title="Plassering av bakre sensorer på Audi e-tron GT">
+        class="img-fluid" alt="Plassering av bakre sensorer på Audi e-tron GT" title="Plassering av bakre sensorer på Audi e-tron GT">
     </a>
     <figcaption><h4>Plassering av bakre sensorer på Audi e-tron GT</h4></figcaption>
 </figure>
@@ -29,7 +29,7 @@ Advarslene gis når avstanden til en gjenstand i kjørebanen er mindre enn 90 cm
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/parkingsystemplus/frontsensors.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/parkingsystemplus/frontsensorss.jpg"
-        alt="Plassering av fremre sensorer på Audi e-tron GT" title="Plassering av fremre sensorer på Audi e-tron GT">
+        class="img-fluid" alt="Plassering av fremre sensorer på Audi e-tron GT" title="Plassering av fremre sensorer på Audi e-tron GT">
     </a>
     <figcaption><h4>Plassering av fremre sensorer på Audi e-tron GT</h4></figcaption>
 </figure>

@@ -13,7 +13,7 @@ Batterisystemet er plassert under kupeen, på det laveste punktet i bilen. Dette
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery5.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery5s.jpg" 
-        alt="Batteri med fotgarasje for passasjerer bak" title="Batteri med fotgarasje for passasjerer bak">
+        class="img-fluid" alt="Batteri med fotgarasje for passasjerer bak" title="Batteri med fotgarasje for passasjerer bak">
     </a>
     <figcaption><h4>Batteri med fotgarasje for passasjerer bak</h4></figcaption>
 </figure>
@@ -66,21 +66,21 @@ Batterihuset er sikret ved hjelp av en stålbeskyttelsesplate. For batterirammen
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery3s.jpg" alt="Audi e-tron GT batteripakke" title="Audi e-tron GT batteripakke">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery3s.jpg" class="img-fluid" alt="Audi e-tron GT batteripakke" title="Audi e-tron GT batteripakke">
     </a>
     <figcaption><h4>Audi e-tron GT batteripakke</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery1s.jpg" alt="Audi e-tron GT batteripakke" title="Audi e-tron GT batteripakke">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery1s.jpg" class="img-fluid" alt="Audi e-tron GT batteripakke" title="Audi e-tron GT batteripakke">
     </a>
     <figcaption><h4>Audi e-tron GT batteripakke</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery2s.jpg" alt="Audi e-tron GT batteripakke" title="Audi e-tron GT batteripakke">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery2s.jpg" class="img-fluid" alt="Audi e-tron GT batteripakke" title="Audi e-tron GT batteripakke">
     </a>
     <figcaption><h4>Audi e-tron GT batteripakke</h4></figcaption>
 </figure>
@@ -91,7 +91,7 @@ Under cellerommet til batteriet er det en sammensatt struktur av flate ekstruder
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery4.jpg" alt="Audi e-tron GT batterikjølekretser" title="Audi e-tron GT batterikjølekretser">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery4.jpg" class="img-fluid" alt="Audi e-tron GT batterikjølekretser" title="Audi e-tron GT batterikjølekretser">
     </a>
     <figcaption><h4>Audi e-tron GT batterikjølekretser</h4></figcaption>
 </figure>
@@ -112,7 +112,7 @@ Når batteriet er kaldt, reduserer bilen den tilgjengelige kraften for å beskyt
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/reducedpower_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/reducedpower_1s.jpg" alt="Reduced power avaiable in cold weather" title="Reduced power avaiable in cold weather">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/reducedpower_1s.jpg" class="img-fluid" alt="Reduced power avaiable in cold weather" title="Reduced power avaiable in cold weather">
     </a>
     <figcaption><h4>Reduced power avaiable in cold weather</h4></figcaption>
 </figure>
@@ -125,7 +125,7 @@ Ladeklaffene til gran turismo er plassert bak forhjulene. Begge sider har koblin
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/charging.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/chargings.jpg" alt="Audi e-tron GT kan lade med opptil 270kW" title="Audi e-tron GT kan lade med opptil 270kW">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/chargings.jpg" class="img-fluid" alt="Audi e-tron GT kan lade med opptil 270kW" title="Audi e-tron GT kan lade med opptil 270kW">
     </a>
     <figcaption><h4>Audi e-tron GT kan lade med opptil 270kW</h4></figcaption>
 </figure>

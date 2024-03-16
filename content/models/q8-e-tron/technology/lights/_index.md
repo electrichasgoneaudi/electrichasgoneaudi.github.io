@@ -37,7 +37,7 @@ With the digital matrix LED headlights as top-of-the range equipment, Audi prese
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lights/digital_matrix_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lights/digital_matrix_1s.jpg"
-        alt="Digital Matrix Head lights" title="Digital Matrix Head lights">
+        class="img-fluid" alt="Digital Matrix Head lights" title="Digital Matrix Head lights">
     </a>
     <figcaption><h4>Digital Matrix Head lights</h4></figcaption>
 </figure>
@@ -56,7 +56,7 @@ You can order Q8 e-tron entry lights option id **9TF**
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lights/entry.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lights/entrys.jpg"
-        alt="Entry lights" title="Entry lights">
+        class="img-fluid" alt="Entry lights" title="Entry lights">
     </a>
     <figcaption><h4>Entry lights</h4></figcaption>
 </figure>

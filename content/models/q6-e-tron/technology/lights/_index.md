@@ -13,7 +13,7 @@ The Q6 e-tron not only marks a new chapter in electromobility at Audi; lighting 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_4_st.jpg" alt="Audi Q6 e-tron head lights" title="Audi Q6 e-tron head lights">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_4_st.jpg" class="img-fluid" alt="Audi Q6 e-tron head lights" title="Audi Q6 e-tron head lights">
     </a>
     <figcaption><h4>Audi Q6 e-tron head lights</h4></figcaption>
 </figure>
@@ -28,7 +28,7 @@ The headlights and rear lights look alive at first glance – this is how custom
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/lights/lights_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/lights/lights_3_st.jpg" alt="Audi Q6 e-tron head lights" title="Audi Q6 e-tron head lights">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/lights/lights_3_st.jpg" class="img-fluid" alt="Audi Q6 e-tron head lights" title="Audi Q6 e-tron head lights">
     </a>
     <figcaption><h4>Audi Q6 e-tron head lights</h4></figcaption>
 </figure>
@@ -42,7 +42,7 @@ A brief overview of digital OLED technology 1.0: In 2016, Audi introduced a new 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_2_st.jpg" alt="Audi Q6 e-tron rear lights" title="Audi Q6 e-tron rear lights">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_2_st.jpg" class="img-fluid" alt="Audi Q6 e-tron rear lights" title="Audi Q6 e-tron rear lights">
     </a>
     <figcaption><h4>Audi Q6 e-tron rear lights</h4></figcaption>
 </figure>
@@ -53,7 +53,7 @@ In 2022 this option became standard in the Audi A8 with digital OLED rear lights
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/lights/lights_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/lights/lights_2_st.jpg" alt="Audi Q6 e-tron rear lights" title="Audi Q6 e-tron rear lights">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/lights/lights_2_st.jpg" class="img-fluid" alt="Audi Q6 e-tron rear lights" title="Audi Q6 e-tron rear lights">
     </a>
     <figcaption><h4>Audi Q6 e-tron rear lights</h4></figcaption>
 </figure>
@@ -68,7 +68,7 @@ With the next generation of digital OLEDs in the rear lights that now follow in 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/lights/lights_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/lights/lights_1_st.jpg" alt="Audi Q6 e-tron head lights" title="Audi Q6 e-tron head lights">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/lights/lights_1_st.jpg" class="img-fluid" alt="Audi Q6 e-tron head lights" title="Audi Q6 e-tron head lights">
     </a>
     <figcaption><h4>Audi Q6 e-tron head lights</h4></figcaption>
 </figure>

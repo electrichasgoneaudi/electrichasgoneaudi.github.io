@@ -20,7 +20,7 @@ kjøring og maksimal komfort. Kort sagt: Vorsprung durch Technik.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/mlb-evo/mlbevo1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/mlb-evo/mlbevo1s.jpg"
-        alt="Audi MLB evo platform" title="Audi MLB evo platform">
+        class="img-fluid" alt="Audi MLB evo platform" title="Audi MLB evo platform">
     </a>
     <figcaption><h4>Audi MLB evo platform</h4></figcaption>
 </figure>
@@ -37,7 +37,7 @@ Les alle detaljer om [e-tron-motorer](../../modeller/e-tron/drivetrain/motor).
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/mlb-evo/mlbevo2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/mlb-evo/mlbevo2s.jpg"
-        alt="Audi MLB evo-plattform med 3 motorer" title="Audi MLB evo-plattform med 3 motorer">
+        class="img-fluid" alt="Audi MLB evo-plattform med 3 motorer" title="Audi MLB evo-plattform med 3 motorer">
     </a>
     <figcaption><h4>Audi MLB evo-plattform med 3 motorer</h4></figcaption>
 </figure>

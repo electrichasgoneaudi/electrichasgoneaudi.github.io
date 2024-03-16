@@ -16,7 +16,7 @@ The Q4 35 e-tron can cover up to 341 kilometers (211.9 mi) (WLTP cycle) on a sin
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/app310b.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/app310bs.jpg"
-        alt="APP 310 motor" title="APP 310 motor">
+        class="img-fluid" alt="APP 310 motor" title="APP 310 motor">
     </a>
     <figcaption><h4>APP 310 motor</h4></figcaption>
 </figure>
@@ -29,7 +29,7 @@ The electric motor generates 150 kW (204 PS) and 310 Nm in this configuration. I
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/app310bag.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/app310bags.jpg"
-        alt="The APP 310 motor is so small it fit in a bag" title="The APP 310 motor is so small it fit in a bag">
+        class="img-fluid" alt="The APP 310 motor is so small it fit in a bag" title="The APP 310 motor is so small it fit in a bag">
     </a>
     <figcaption><h4>The APP 310 motor is so small it fit in a bag</h4></figcaption>
 </figure>
@@ -65,7 +65,7 @@ on Q35 vs Q40/Q45/Q50 because of different battery pack. The rear electric motor
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/rearmotor_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/rearmotor_1s.jpg"
-        alt="Rear electric motor" title="Rear electric motor">
+        class="img-fluid" alt="Rear electric motor" title="Rear electric motor">
     </a>
     <figcaption><h4>Rear electric motor</h4></figcaption>
 </figure>
@@ -92,7 +92,7 @@ Only Q5 45 Quattro and 50 Quattro has the front motor. The front electric motor 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/frontmotor_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/frontmotor_1s.jpg"
-        alt="Front electric motor" title="Front electric motor">
+        class="img-fluid" alt="Front electric motor" title="Front electric motor">
     </a>
     <figcaption><h4>Front electric motor</h4></figcaption>
 </figure>
@@ -100,7 +100,7 @@ Only Q5 45 Quattro and 50 Quattro has the front motor. The front electric motor 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/frontmotor_2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/frontmotor_2s.jpg"
-        alt="Front electric motor" title="Front electric motor">
+        class="img-fluid" alt="Front electric motor" title="Front electric motor">
     </a>
     <figcaption><h4>Front electric motor</h4></figcaption>
 </figure>
@@ -114,7 +114,7 @@ The powerful APP310 e-drive unit transmits power to the driven wheels using an e
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/gearbox.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/gearboxs.jpg"
-        alt="APP310 gearbox" title="APP310 gearbox">
+        class="img-fluid" alt="APP310 gearbox" title="APP310 gearbox">
     </a>
     <figcaption><h4>APP310 gearbox</h4></figcaption>
 </figure>
@@ -126,7 +126,7 @@ The motors are liquid cooled. Each motor has liquid stator cooling to give maxim
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/cooling.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/coolings.jpg"
-        alt="Audi Q4 45/50 e-tron liquid cooling of front and rear motors" title="Audi Q4 45/50 e-tron liquid cooling of front and rear motors">
+        class="img-fluid" alt="Audi Q4 45/50 e-tron liquid cooling of front and rear motors" title="Audi Q4 45/50 e-tron liquid cooling of front and rear motors">
     </a>
     <figcaption><h4>Audi Q4 45/50 e-tron liquid cooling of front and rear motors</h4></figcaption>
 </figure>
@@ -140,7 +140,7 @@ For Q50 boost the full power is only avaible over 88% and temprature above 23°C
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/boost.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/boosts.jpg"
-        alt="about 50% boost at 66% SOC" title="about 50% boost at 66% SOC">
+        class="img-fluid" alt="about 50% boost at 66% SOC" title="about 50% boost at 66% SOC">
     </a>
     <figcaption><h4>about 50% boost at 66% SOC</h4></figcaption>
 </figure>
@@ -152,7 +152,7 @@ Examples
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/vc2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/vc2s.jpg"
-        alt="70% power on 32% SOC and 0.5 degree" title="70% power on 32% SOC and 0.5 degree">
+        class="img-fluid" alt="70% power on 32% SOC and 0.5 degree" title="70% power on 32% SOC and 0.5 degree">
     </a>
     <figcaption><h4>70% power on 32% SOC and 0.5 degree</h4></figcaption>
 </figure>

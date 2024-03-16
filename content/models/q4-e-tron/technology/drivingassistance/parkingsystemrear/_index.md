@@ -11,7 +11,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/parkingsystemrear/parkingsystemrear.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/parkingsystemrear/parkingsystemrears.jpg"
-        alt="Parking system rear with sensors in back on Audi Q4 e-tron combined with reversing camera" title="Parking system rear with sensors in back on Audi Q4 e-tron combined with reversing camera">
+        class="img-fluid" alt="Parking system rear with sensors in back on Audi Q4 e-tron combined with reversing camera" title="Parking system rear with sensors in back on Audi Q4 e-tron combined with reversing camera">
     </a>
     <figcaption><h4>Parking system rear with sensors in back on Audi Q4 e-tron combined with reversing camera</h4></figcaption>
 </figure>
@@ -20,7 +20,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/sensorsrear.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/sensorsrears.jpg"
-        alt="Location of rear parking sensors on Audi Q4 e-tron" title="Location of rear parking sensors on Audi Q4 e-tron">
+        class="img-fluid" alt="Location of rear parking sensors on Audi Q4 e-tron" title="Location of rear parking sensors on Audi Q4 e-tron">
     </a>
     <figcaption><h4>Location of rear parking sensors on Audi Q4 e-tron</h4></figcaption>
 </figure>

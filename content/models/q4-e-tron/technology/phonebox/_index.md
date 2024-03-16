@@ -11,7 +11,7 @@ music in the car. Depending on the smartphone model, it is also possible to view
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/phonebox/phonebox.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/phonebox/phoneboxs.jpg"
-        alt="Audi Phone Box holder with inductive charging" title="Audi Phone Box holder with inductive charging">
+        class="img-fluid" alt="Audi Phone Box holder with inductive charging" title="Audi Phone Box holder with inductive charging">
     </a>
     <figcaption><h4>Audi Phone Box holder with inductive charging</h4></figcaption>
 </figure>

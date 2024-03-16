@@ -17,7 +17,7 @@ Aside from the maneuver assist, the (remote) park assist plus, which the driver 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/sensors.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/sensorss.jpg"
-        alt="Audi e-tron GT sensors" title="Audi e-tron GT sensors">
+        class="img-fluid" alt="Audi e-tron GT sensors" title="Audi e-tron GT sensors">
     </a>
     <figcaption><h4>Audi e-tron GT sensors</h4></figcaption>
 </figure>

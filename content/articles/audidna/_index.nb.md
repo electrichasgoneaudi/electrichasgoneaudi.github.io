@@ -8,7 +8,7 @@ weight: 99997
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidnas.jpg" alt="2023 Audi SQ8 e-tron prototype og 2022 Audi e-tron S" title="2023 Audi SQ8 e-tron prototype og 2022 Audi e-tron S">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidnas.jpg" class="img-fluid" alt="2023 Audi SQ8 e-tron prototype og 2022 Audi e-tron S" title="2023 Audi SQ8 e-tron prototype og 2022 Audi e-tron S">
     </a>
     <figcaption><h4>2023 Audi SQ8 e-tron prototype og 2022 Audi e-tron S</h4></figcaption>
 </figur>
@@ -25,7 +25,7 @@ Rett frem stabilitet, styrebehov og oppbygging av retardasjon er kriterier for e
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna5s.jpg" alt="2022 Audi e-tron S kjøreegenskaper" title="2022 Audi e-tron S kjøreegenskaper">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna5s.jpg" class="img-fluid" alt="2022 Audi e-tron S kjøreegenskaper" title="2022 Audi e-tron S kjøreegenskaper">
     </a>
     <figcaption><h4>2022 Audi e-tron S kjøreegenskaper</h4></figcaption>
 </figur>
@@ -38,7 +38,7 @@ Resultatet: en forutsigbar styrevinkelavhengig giradferd kombinert med en lett o
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna2s.jpg" alt="2022 Audi e-tron S" title="2022 Audi e-tron S">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna2s.jpg" class="img-fluid" alt="2022 Audi e-tron S" title="2022 Audi e-tron S">
     </a>
     <figcaption><h4>2022 Audi e-tron S</h4></figcaption>
 </figur>
@@ -51,7 +51,7 @@ For eksempel styrer den elektriske quattroen i Audi e-tron S dreiemomentet ved b
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna3s.jpg" alt="2023 Audi SQ8 e-tron Sportback prototype" title="2023 Audi SQ8 e-tron Sportback prototype">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna3s.jpg" class="img-fluid" alt="2023 Audi SQ8 e-tron Sportback prototype" title="2023 Audi SQ8 e-tron Sportback prototype">
     </a>
     <figcaption><h4>2023 Audi SQ8 e-tron Sportback-prototype</h4></figcaption>
 </figur>
@@ -68,7 +68,7 @@ Hovedhjernen til reguleringssystemene og kontrollenhetene er den elektroniske ch
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna4s.jpg" alt="2023 Audi SQ8 e-tron Sportback prototype" title="2023 Audi SQ8 e-tron Sportback prototype">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna4s.jpg" class="img-fluid" alt="2023 Audi SQ8 e-tron Sportback prototype" title="2023 Audi SQ8 e-tron Sportback prototype">
     </a>
     <figcaption><h4>2023 Audi SQ8 e-tron Sportback-prototype</h4></figcaption>
 </figur>

@@ -64,7 +64,7 @@ A cylindrical cell consists of sheet-like anodes, separators, and cathodes that 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/cylinder4680.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/cylinder4680s.jpg"
-        alt="Tesla 4680 cylinder battery" title="Tesla 4680 cylinder battery">
+        class="img-fluid" alt="Tesla 4680 cylinder battery" title="Tesla 4680 cylinder battery">
     </a>
     <figcaption><h4>Tesla 4680 cylinder battery</h4></figcaption>
 </figure>
@@ -80,7 +80,7 @@ Li-ion cells with prismatic housing consist of large sheets of anodes, cathodes,
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/samsungprismatic.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/samsungprismatics.jpg"
-        alt="Samsung prismatic cells" title="Samsung prismatic cells">
+        class="img-fluid" alt="Samsung prismatic cells" title="Samsung prismatic cells">
     </a>
     <figcaption><h4>Samsung prismatic cells</h4></figcaption>
 </figure>
@@ -102,7 +102,7 @@ The electrode and separator layers of a pouch cell are stacked rather than jelly
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/lgchenx21.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/lgchenx21s.jpg"
-        alt="LG Chem pouch cell" title="LG Chem pouch cell">
+        class="img-fluid" alt="LG Chem pouch cell" title="LG Chem pouch cell">
     </a>
     <figcaption><h4>LG Chem pouch cell</h4></figcaption>
 </figure>
@@ -131,7 +131,7 @@ The standardization will reduce the cell cost by 50%. 80% of the VW models will 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/unifiedcell1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/unifiedcell1s.jpg"
-        alt="Olaf Scholz with the first unified  cell" title="Olaf Scholz with the first unified cell">
+        class="img-fluid" alt="Olaf Scholz with the first unified  cell" title="Olaf Scholz with the first unified cell">
     </a>
     <figcaption><h4>Olaf Scholz with the first unified  cell</h4></figcaption>
 </figure>
@@ -142,7 +142,7 @@ The unified cell dimensions are approximately 32 x 12 x 3 cm.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/unifiedcell1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/unifiedcell1s.jpg"
-        alt="VW Unified cell" title="VW Unified cell">
+        class="img-fluid" alt="VW Unified cell" title="VW Unified cell">
     </a>
     <figcaption><h4>VW Unified cell</h4></figcaption>
 </figure>
@@ -158,7 +158,7 @@ The ground breaking cermony for this factory was july 7. 2022.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/salzgiga1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/salzgiga1s.jpg"
-        alt="Salzgiga factory" title="Salzgiga factory">
+        class="img-fluid" alt="Salzgiga factory" title="Salzgiga factory">
     </a>
     <figcaption><h4>Salzgiga factory</h4></figcaption>
 </figure>

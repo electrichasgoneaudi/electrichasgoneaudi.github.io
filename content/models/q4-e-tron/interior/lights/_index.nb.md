@@ -17,7 +17,7 @@ Følgende interiørlys er standard på Audi Q4
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/standardlights3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/standardlights3.jpg" 
-        alt="LED-takmodul foran" title="LED-takmodul foran">
+        class="img-fluid" alt="LED-takmodul foran" title="LED-takmodul foran">
     </a>
     <figcaption><h4>LED-takmodul foran</h4></figcaption>
 </figure>
@@ -47,7 +47,7 @@ Omgivelseslyspakken pluss med opsjons-ID **QQ9**. tilbyr følgende rekke funksjo
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientligtscontrol.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientligtscontrols.jpg" 
-        alt="Lysene kontrolleres i MMI" title="Lysene kontrolleres i MMI">
+        class="img-fluid" alt="Lysene kontrolleres i MMI" title="Lysene kontrolleres i MMI">
     </a>
     <figcaption><h4>Lysene kontrolleres i MMI</h4></figcaption>
 </figure>
@@ -57,7 +57,7 @@ Fargen kan endres basert på kjøremodusen din i [Audi Drive Select](/models/q4-
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientlight.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientlights.jpg" 
-        alt="Multicolor ambient light" title="Multicolor ambient light">
+        class="img-fluid" alt="Multicolor ambient light" title="Multicolor ambient light">
     </a>
     <figcaption><h4>Multicolor ambient light</h4></figcaption>
 </figure>
@@ -65,7 +65,7 @@ Fargen kan endres basert på kjøremodusen din i [Audi Drive Select](/models/q4-
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientlight2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientlight2s.jpg" 
-        alt="Multicolor ambient light" title="Multicolor ambient light">
+        class="img-fluid" alt="Multicolor ambient light" title="Multicolor ambient light">
     </a>
     <figcaption><h4>Multicolor ambient light</h4></figcaption>
 </figure>
@@ -73,7 +73,7 @@ Fargen kan endres basert på kjøremodusen din i [Audi Drive Select](/models/q4-
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientlight3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientlight3s.jpg" 
-        alt="Multicolor ambient light" title="Multicolor ambient light">
+        class="img-fluid" alt="Multicolor ambient light" title="Multicolor ambient light">
     </a>
     <figcaption><h4>Multicolor ambient light</h4></figcaption>
 </figure>

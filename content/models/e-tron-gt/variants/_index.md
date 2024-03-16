@@ -10,7 +10,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/variants/e-tron-gt.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/variants/e-tron-gts.jpg"
-        alt="Audi e-tron GT" title="Audi e-tron GT">
+        class="img-fluid" alt="Audi e-tron GT" title="Audi e-tron GT">
     </a>
     <figcaption><h4>Audi e-tron GT</h4></figcaption>
 </figure>
@@ -24,7 +24,7 @@ With a power output of 390kW (530HP) in boost mode, Audi e-tron GT goes 0-100km/
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/variants/rs-e-tron-gt.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/variants/rs-e-tron-gts.jpg"
-        alt="Audi RS e-tron GT" title="Audi RS e-tron GT">
+        class="img-fluid" alt="Audi RS e-tron GT" title="Audi RS e-tron GT">
     </a>
     <figcaption><h4>Audi RS e-tron GT</h4></figcaption>
 </figure>

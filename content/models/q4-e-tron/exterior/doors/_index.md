@@ -21,7 +21,7 @@ As an option (4E6) you can get powered tailgate to Audi Q4 e-tron. This is stand
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/kicksensor.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/kicksensors.jpg"
-        alt="Powered tailgate option 4E6" title="Powered tailgate option 4E6">
+        class="img-fluid" alt="Powered tailgate option 4E6" title="Powered tailgate option 4E6">
     </a>
     <figcaption><h4>Powered tailgate option 4E6</h4></figcaption>
 </figure>
@@ -42,7 +42,7 @@ so you can lock the car.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/doors/tailgatelocking.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/doors/tailgatelockings.jpg"
-        alt="Tailgate locking" title="Tailgate locking">
+        class="img-fluid" alt="Tailgate locking" title="Tailgate locking">
     </a>
     <figcaption><h4>Tailgate locking</h4></figcaption>
 </figure>

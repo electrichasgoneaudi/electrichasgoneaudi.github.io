@@ -12,7 +12,7 @@ the four rings
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/meb1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/meb1s.jpg"
-        alt="Modular Electrification Toolkit (MEB) drivetrain" title="Modular Electrification Toolkit (MEB) drivetrain">
+        class="img-fluid" alt="Modular Electrification Toolkit (MEB) drivetrain" title="Modular Electrification Toolkit (MEB) drivetrain">
     </a>
     <figcaption><h4>Modular Electrification Toolkit (MEB) drivetrain</h4></figcaption>
 </figure>
@@ -35,7 +35,7 @@ Models from oter brands that currently use MEB are
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/enyaq.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/enyaqs.jpg"
-        alt="Skoda Enyaq is built on MEB" title="Skoda Enyaq is built on MEB">
+        class="img-fluid" alt="Skoda Enyaq is built on MEB" title="Skoda Enyaq is built on MEB">
     </a>
     <figcaption><h4>Skoda Enyaq is built on MEB</h4></figcaption>
 </figure>

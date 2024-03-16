@@ -10,20 +10,10 @@ Currently the e-tron sportback dimensions are shown. Picture will be updated whe
 
 ## Audi Q8 e-tron
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/dimensions/suvdim.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/dimensions/suvdim_st.jpg" alt="Dimensions e-tron" title="Dimensions e-tron">
-    </a>
-    <figcaption><h4>Dimensions Q8 e-tron</h4></figcaption>
-</figure>
+{{< sitefiguresized thumb="models/q8-e-tron/dimensions/suvdim_st.jpg" width="1666" height="2176" title="Dimensions Q8 e-tron" >}}
 
 ## Audi Q8 e-tron Sportback
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/dimensions/dimensionsb.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/dimensions/dimensionsbs.png" alt="Dimensions e-tron Sportback" title="Dimensions e-tron Sportback">
-    </a>
-    <figcaption><h4>Dimensions e-tron Sportback</h4></figcaption>
-</figure>
+{{< sitefiguresized thumb="models/e-tron/dimensions/dimensionsbs.png" width="1666" height="2176" title="Dimensions e-tron Sportback" >}}
 
 {{<children description="true" />}}

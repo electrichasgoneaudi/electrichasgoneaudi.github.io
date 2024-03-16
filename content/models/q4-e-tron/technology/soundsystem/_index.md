@@ -19,7 +19,7 @@ sound philosophy across the entire model range. Thanks to its flexibility, it le
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/soundsystem/sonosspeaker.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/soundsystem/sonosspeakers.jpg"
-        alt="Sonos front speaker" title="Sonos front speaker">
+        class="img-fluid" alt="Sonos front speaker" title="Sonos front speaker">
     </a>
     <figcaption><h4>Sonos front speaker</h4></figcaption>
 </figure>
@@ -29,7 +29,7 @@ In the Q4 e-tron and the Q4 Sportback e-tron, the Sonamic Panorama algorithm, wh
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/soundsystem/soundsystem1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/soundsystem/soundsystem1s.jpg"
-        alt="Sonos Sound System 10 speaker placement" title="Sonos Sound System 10 speaker placement">
+        class="img-fluid" alt="Sonos Sound System 10 speaker placement" title="Sonos Sound System 10 speaker placement">
     </a>
     <figcaption><h4>Sonos Sound System 10 speaker placement</h4></figcaption>
 </figure>

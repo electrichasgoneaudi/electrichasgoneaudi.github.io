@@ -15,7 +15,7 @@ Helelektriske Audier har avanserte bremser som blander regenerering og fysiske b
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/recuperation.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/recuperations.png" alt="Kinetisk energi omdannes til energi i batteriet ved regenerering" title="Kinetisk energi omdannes til energi i batteriet ved regenerering">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/recuperations.png" class="img-fluid" alt="Kinetisk energi omdannes til energi i batteriet ved regenerering" title="Kinetisk energi omdannes til energi i batteriet ved regenerering">
     </a>
     <figcaption><h4>Kinetisk energi omdannes til energi i batteriet ved regenerering</h4></figcaption>
 </figure>

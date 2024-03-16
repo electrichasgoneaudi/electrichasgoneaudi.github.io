@@ -10,7 +10,7 @@ weight: 99994
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production1_st.jpg" alt="Audi Q8 e-tron production started december 14. 2022" title="Audi Q8 e-tron production started december 14. 2022">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production1_st.jpg" class="img-fluid" alt="Audi Q8 e-tron production started december 14. 2022" title="Audi Q8 e-tron production started december 14. 2022">
     </a>
     <figcaption><h4>Audi Q8 e-tron production started december 14. 2022</h4></figcaption>
 </figur>
@@ -21,7 +21,7 @@ Unlike many competitors, Audi focuses on transforming production from the inside
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production2_st.jpg" alt="Audi Q8 e-tron production started december 14. 2022" title="Audi Q8 e-tron production started december 14. 2022">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production2_st.jpg" class="img-fluid" alt="Audi Q8 e-tron production started december 14. 2022" title="Audi Q8 e-tron production started december 14. 2022">
     </a>
     <figcaption><h4>Audi Q8 e-tron production started december 14. 2022</h4></figcaption>
 </figur>
@@ -34,7 +34,7 @@ The Audi Q8 e-tron will reach customers in Europe and the United States as a cer
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production3_st.jpg" alt="Audi Q8 e-tron production started december 14. 2022" title="Audi Q8 e-tron production started december 14. 2022">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production3_st.jpg" class="img-fluid" alt="Audi Q8 e-tron production started december 14. 2022" title="Audi Q8 e-tron production started december 14. 2022">
     </a>
     <figcaption><h4>Audi Q8 e-tron production started december 14. 2022</h4></figcaption>
 </figur>
@@ -49,7 +49,7 @@ The new Q8 e-tron’s optimized drive concept, improved aerodynamics, and higher
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production4_st.jpg" alt="Audi Q8 e-tron production started december 14. 2022" title="Audi Q8 e-tron production started december 14. 2022">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production4_st.jpg" class="img-fluid" alt="Audi Q8 e-tron production started december 14. 2022" title="Audi Q8 e-tron production started december 14. 2022">
     </a>
     <figcaption><h4>Audi Q8 e-tron production started december 14. 2022</h4></figcaption>
 </figur>

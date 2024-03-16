@@ -10,7 +10,7 @@ weight: 3
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/dimensions/etrongt.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/dimensions/etrongts.jpg" alt="Dimensions e-tron GT" title="Dimensions e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/dimensions/etrongts.jpg" class="img-fluid" alt="Dimensions e-tron GT" title="Dimensions e-tron GT">
     </a>
     <figcaption><h4>Dimensions e-tron GT</h4></figcaption>
 </figure>
@@ -20,7 +20,7 @@ weight: 3
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/dimensions/rsetrongt.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/dimensions/rsetrongts.jpg"
-        alt="Dimensions RS e-tron GT" title="Dimensions RS e-tron GT">
+        class="img-fluid" alt="Dimensions RS e-tron GT" title="Dimensions RS e-tron GT">
     </a>
     <figcaption><h4>Dimensions RS e-tron GT</h4></figcaption>
 </figure>

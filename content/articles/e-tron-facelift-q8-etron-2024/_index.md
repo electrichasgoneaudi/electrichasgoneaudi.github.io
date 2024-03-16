@@ -8,12 +8,7 @@ weight: 99994
 
 In this article, you will find most of the details and high-resolution pictures(click on them). You also find many links in the model's description for more information about options and technology for the Audi Q8 e-tron.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/audi_sq8_front_article.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/audi_sq8_front_article_st.jpeg" alt="Audi e-tron drivetrain" title="Audi e-tron drivetrain">
-    </a>
-    <figcaption><h4>Audi SQ8 e-tron</h4></figcaption>
-</figure>
+{{< sitefiguresized thumb="articles/e-tron-facelift-q8-etron-2024/audi_sq8_front_article_st.jpeg" width="3000" height="1999" title="Audi SQ8 e-tron" >}}
 
  With the Audi e-tron, the premium manufacturer entered the age of electromobility in 2018, marking the start of the electric future for the four rings.
 
@@ -29,43 +24,26 @@ Audi Board Member for Technical Development [Oliver Hoffmann](https://www.linked
 
 By calling this model the Q8, Audi clearly states that the Audi Q8 e-tron is the top model among its electric SUVs and crossovers, sitting above the [Audi Q4 e-tron](../../models/q4-e-tron) and the upcoming [Audi Q6 e-tron](../../models/q6-e-tron/). 
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/audi_sq8_article_newface.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/audi_sq8_article_newface_st.jpg" alt="Audi SQ8 e-tron grill" title="Audi SQ8 e-tron grill">
-    </a>
-    <figcaption><h4>Audi SQ8 e-tron front</h4></figcaption>
-</figure>
+
+{{< sitefiguresized thumb="articles/e-tron-facelift-q8-etron-2024/audi_sq8_article_newface_st.jpg" width="3000" height="2249" title="Audi SQ8 e-tron front" >}}
 
 The Audi Q8 e-tron and Q8 Sportback e-tron are immediately identifiable as fully electric models at first glance, thanks to the new front and rear designs that systematically carry Audi’s electric design language forward.
 
 As for the Audi e-tron, you can order the Audi Q8 e-tron with [black optics or standard optics](../../models/q8-e-tron/exterior/optics/). But the difference is that a black single-frame grill is not part of the black optics package.  (Just like [the optics on Audi e-tron GT](../../models/e-tron-gt/exterior/optics/)). Therefore, you can order the single-frame grill in grey, body color, or black. In addition, you can specify the Audi Q8 e-tron with a horizontal light strip on top of the single-frame grille.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/light_demo_sq8.gif">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/light_demo_sq8_st.gif" alt="Audi SQ8 e-tron with new lights in single frame grille" title="Audi SQ8 e-tron with new lights in single frame grille">
-    </a>
-    <figcaption><h4>Audi SQ8 e-tron with new lights in single frame grille</h4></figcaption>
-</figure>
+
+{{< sitefiguresized thumb="articles/e-tron-facelift-q8-etron-2024/light_demo_sq8_st.gif" width="1200" height="900" title="Audi SQ8 e-tron with new lights in single frame grille" >}}
 
 As a prestigious electric SUV model from Audi, the Q8 e-tron ushers in the new corporate identity with a two-dimensional design of the four rings on the exterior. In addition, the model lettering with an Audi logo on the B-pillar is also new.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/audi_sq8_b_pillar.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/audi_sq8_b_pillar_st.jpeg" alt="Model lettering with an Audi logo on the B-pillar" title="Model lettering with an Audi logo on the B-pillar">
-    </a>
-    <figcaption><h4>Model lettering with an Audi logo on the B-pillar</h4></figcaption>
-</figure>
+{{< sitefiguresized thumb="articles/e-tron-facelift-q8-etron-2024/audi_sq8_b_pillar_st.jpeg" width="3000" height="1999" title="Model lettering with an Audi logo on the B-pilla" >}}
 
 For all Q8 variants, you can order the model with or without the [S-line exterior package](../../models/q8-e-tron/exterior/s-line/). This package contains a sportier front and diffuser.
 
 New wheels are available in all sizes for all variants, and many of the Audi e-tron wheels are also available on the Audi Q8 e-tron. See [Audi Q8 wheels](../../models/q8-e-tron/exterior/wheels/) for a complete overview.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/new_20_wheels_audi_q8_e-tron.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/new_20_wheels_audi_q8_e-tron_st.jpeg" alt="Audi Q8 55 Sportback e-tron with new 20 inch wheels" title="Audi Q8 55 Sportback e-tron with new 20 inch wheels">
-    </a>
-    <figcaption><h4>Audi Q8 55 Sportback e-tron with new 20-inch wheels</h4></figcaption>
-</figure>
+
+{{< sitefiguresized thumb="articles/e-tron-facelift-q8-etron-2024/new_20_wheels_audi_q8_e-tron_st.jpeg" width="3000" height="1999" title="Audi SQ8 e-tron" >}}
 
 As on the Audi e-tron, an extensive palette of standard colors is available. In addition, you can choose from around 50 Audi-exclusive colors.
 
@@ -108,12 +86,8 @@ The below tables compare the current Audi e-tron variants with the different Q8 
 
 This diagram shows the same including other all-electric SUV models from Audi. (click on diagram for large) (click [here](https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/range_miles.png) for same diagram in miles)
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/range_km.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/range_km_st.png" alt="WLTP range all electric Audi SUV" title="WLTP range all electric Audi SUVt">
-    </a>
-    <figcaption><h4>WLTP range all electric Audi SUV</h4></figcaption>
-</figure>
+
+{{< sitefiguresized thumb="articles/e-tron-facelift-q8-etron-2024/range_km_st.png" width="2116" height="1316" title="WLTP range all electric Audi SUVe" >}}
 
 |Variant | WLTP Consumption | Change |
 |-------|-------------|-------|
@@ -132,12 +106,8 @@ This diagram shows the same including other all-electric SUV models from Audi. (
 
 The diagram below compares consumption for all all-electric models from Audi. Click on image for large, or click for same diagram for [mi/kWh](https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/consumption_miles.png).
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/consumption_km.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/consumption_km_st.png" alt="WLTP range all electric Audi SUV" title="WLTP range all electric Audi SUVt">
-    </a>
-    <figcaption><h4>WLTP consumption all electric Audi SUV</h4></figcaption>
-</figure>
+
+{{< sitefiguresized thumb="articles/e-tron-facelift-q8-etron-2024/consumption_km_st.png" width="2116" height="1316" title="WLTP consumption all electric Audi SUV" >}}
 
 What if you have more equipment? The following table compares the Advanced trim level. The difference is even larger. 
 
@@ -182,9 +152,14 @@ At a high-powered charging station, the Audi Q8 50 e-tron reaches a maximum char
 Audi e-tron has been market-leading in average charging speed since its introduction. So how does this compare to the facelift? Together with [EVKX.net](https://evkx.net), electrichasgoneaudi.net gives you the
 details. Below is the charging curve for Audi Q8 50 e-tron (same as the Audi e-tron 55) and the Audi Q8 e-tron 55 with the new battery.
 
-![Charging curve](chargingcurve95.svg)
 
-![Charging curve](chargingcurve114.svg)
+<img src="chargingcurve95.svg" class="img-fluid">
+
+
+
+<img src="chargingcurve114.svg" class="img-fluid">
+
+
 
 How does this affect the traveling speed? To answer this, we calculate how long the old and new models need to travel 1000km, starting with a full battery, driving at 120km/h, and only stopping for optimal charging stops. The calculation assumes optimal driving conditions with dry roads and temperatures around 20 degrees Celcius.
 
@@ -221,7 +196,7 @@ Instead of 12 coils generating the electromagnetic field, there are now 14. As a
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/new_motor_windings.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/new_motor_windings_st.jpg" alt="Updated rear motor Audi Q8 e-tron" title="Updated rear motor Audi Q8 e-tron">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/new_motor_windings_st.jpg" class="img-fluid" alt="Updated rear motor Audi Q8 e-tron" class="img-fluid" title="Updated rear motor Audi Q8 e-tron">
     </a>
     <figcaption><h4>Updated rear motor Audi Q8 e-tron</h4></figcaption>
 </figure>
@@ -257,7 +232,7 @@ The grille has a self-sealing system and electric shutters that automatically cl
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/grille_holes.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/grille_holes_st.jpeg" alt="Audi Q8 e-tron grille with shutters" title="Audi Q8 e-tron grille with shutters">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/grille_holes_st.jpeg" class="img-fluid" alt="Audi Q8 e-tron grille with shutters" class="img-fluid" title="Audi Q8 e-tron grille with shutters">
     </a>
     <figcaption><h4>Audi Q8 e-tron grille with shutters</h4></figcaption>
 </figure>
@@ -285,7 +260,7 @@ The Q8 e-tron optionally comes with [digital Matrix LED headlights](../../models
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/digitalmatix.gif">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/digitalmatix_st.gif" alt="Digital Matrix" title="Digital Matrix">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/digitalmatix_st.gif" class="img-fluid" class="img-fluid" alt="Digital Matrix" title="Digital Matrix">
     </a>
     <figcaption><h4>Digital Matrix</h4></figcaption>
 </figure>
@@ -312,7 +287,7 @@ Its two large high-resolution displays – the top with a 10.1-inch diagonal and
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/screens_mmi.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/screens_mmi.jpg" alt="Audi Q8 e-tron MMI and Virtual cockpit" title="Audi Q8 e-tron MMI and Virtual cockpit">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/screens_mmi_st.jpg" class="img-fluid" class="img-fluid" alt="Audi Q8 e-tron MMI and Virtual cockpit" title="Audi Q8 e-tron MMI and Virtual cockpit">
     </a>
     <figcaption><h4>Audi Q8 e-tron MMI and Virtual cockpit</h4></figcaption>
 </figure>

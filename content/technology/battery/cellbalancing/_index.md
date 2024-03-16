@@ -19,7 +19,7 @@ On all-electric Audis, it is not possible to check the cell balance without extr
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cellbalancing/obdeleven.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cellbalancing/obdeleven.jpg"
-        alt="Cell info from OBDEleven" title="Cell info from OBDEleven">
+        class="img-fluid" alt="Cell info from OBDEleven" title="Cell info from OBDEleven">
     </a>
     <figcaption><h4>Cell info from OBDEleven</h4></figcaption>
 </figure>
