@@ -79,7 +79,7 @@ See below for our unique in-depth information on the different models and varian
 </div>
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="a4-e-tron/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/modelss.jpg" class="img-fluid mb-2" class="img-fluid" alt="Acura" ></a>
+	<a href="comparisons/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/modelss.jpg" class="img-fluid mb-2" class="img-fluid" alt="Acura" ></a>
 	<h2>Model comparisons</h2>
 	<p>
 	</p>

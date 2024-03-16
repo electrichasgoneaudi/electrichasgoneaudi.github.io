@@ -5,9 +5,9 @@ description: Audi Q6 e-tron drivetrain
 weight: 7
 ---
 
-![Drivetrain](drivetrain.jpg "Audi/Porsche PPE drivetrain")
 
-Currently we dont know much about Q6 e-tron (confirmed) and SQ6 e-tron (unconfirmed).
+{{< sitefiguresized thumb="technology/bev-platforms/ppe/drivetrain.jpg" width="1700" height="1300" title="Audi/Porsche PPE drivetrain" >}}
+
 
 Below you find details about the most important components of that drivetrain.
 

@@ -7,10 +7,11 @@ weight: 7
 
 It is expected that Q6 will come with two different battery sizes.
 
-- 100kWh gross with 12 modules
-- 83.3kWh gross with 10 modules
+- 100kWh gross/95kWh net with 12 modules
+- 83.3kWh/78kWh net gross with 10 modules
 
-![Battery](battery.png "100Kwh gross pack, 12 modules")
+
+{{< sitefiguresized thumb="technology/bev-platforms/ppe/battery_st.png" width="1500" height="826" title="100Kwh gross pack, 12 modules" >}}
 
 It is expected that the available battery would be 94%. Same as MEB based cars.
 This would mean 94kWh/78kWh available battery on the different versions

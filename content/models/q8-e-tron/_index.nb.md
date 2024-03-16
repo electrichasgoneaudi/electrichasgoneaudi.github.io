@@ -10,12 +10,8 @@ Verdenspremieren var 9. november 2022, og hvis du vil vite alle detaljene om for
 
 Det forventes at de første eierne vil motta sin Q8 e-tron i Q2 2023.
 
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/audi_sq8_front_article.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/audi_sq8_front_article_st.jpeg" class="img-fluid" alt="Audi SQ8 e-tron" title="Audi Q8 e -tron 55 prototype">
-    </a>
-    <figcaption><h4>Audi SQ8 e-tron</h4></figcaption>
-</figur>
+{{< sitefiguresized thumb="articles/e-tron-facelift-q8-etron-2024/audi_sq8_front_article_st.jpeg" width="3000" height="1999" title="Audi SQ8 e-tron" >}}
+
 
 Audi Q8 e-tron har et bredt utvalg alternativer og avanserte kjøreteknologier. Her på electrichasgoneaudi.net finner du alle detaljer om Q8 e-tron. Alt fra de forskjellige hjulene å velge mellom til hvordan de forskjellige kjøreassistentsystemene fungerer.
 
@@ -32,12 +28,7 @@ Audi Q8 e-tron er tilgjengelig i 6 varianter.
 - [Audi SQ8 e-tron](../../models/q8-e-tron/variants/#audi-sq8-e-tron)
 - [Audi SQ8 e-tron Sportback](../../models/q8-e-tron/variants/#audi-sq8-sportback-e-tron)
 
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/sq8_and_q8_variants.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/sq8_and_q8_variants_st.jpg" class="img-fluid" alt="Audi Q8 e-tron 55 og Audi Q8 Sportback e-tron" title="Audi Q8 e-tron 55 og Audi Q8 Sportback e-tron">
-    </a>
-    <figcaption><h4>Audi Q8 e-tron 55 og Audi Q8 Sportback e-tron</h4></figcaption>
-</figur>
+{{< sitefiguresized thumb="models/q8-e-tron/sq8_and_q8_variants_st.jpg" width="3000" height="2249" title="Audi Q8 e-tron 55 and Audi Q8 Sportback e-tron" >}}
 
 Gå til vår seksjon for [Audi Q8 e-tron-varianter](variants) for mer informasjon.
 
