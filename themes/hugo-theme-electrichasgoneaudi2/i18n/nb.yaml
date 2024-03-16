@@ -10,7 +10,7 @@
   translation: Elbil søk
 
 - id: menu-brands
-  translation: Merker & Modeller
+  translation: Modeller
 
 - id: language
   translation: Språk
@@ -70,6 +70,9 @@
 - id: common-section-technology-section-ui
   translation: Brukergrensesnitt
 
+- id: common-section-technology-section-platforms
+  translation: Elbilplatformer
+
 - id: common-section-guides-title
   translation: Guider
 
@@ -112,3 +115,5 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: common-section-articles
+  translation: Artikler
