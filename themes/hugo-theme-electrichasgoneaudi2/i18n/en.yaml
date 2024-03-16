@@ -24,11 +24,11 @@
 - id: common-section-search-link
   translation: Go to EV Search
 
-- id: common-section-mostsold-world-title
-  translation: Most sold EVs globaly
+- id: common-section-modelrange-title
+  translation: Audi all-electric models
 
-- id: common-section-mostsold-world-description
-  translation: Below, you find the top 10 most-sold EV models in the world. Click on the name for full info.
+- id: common-section-modelrange-description
+  translation: Click on link for direct access to the different model info for Audi all-electric models
 
 - id: common-section-technology-title
   translation: Learn EV technology
