@@ -6,10 +6,10 @@ weight: 4
 shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-The Audi Q6 e-tron will have a world premiere in 2023 and will be the fifth all-electric model from Audi and the most sporty SUV.
+The Audi Q6 e-tron will have a world premiere March 18 2024 and will be the fifth all-electric model from Audi and the most sporty SUV.
 
 Audi builds the Q6 e-tron on the new [PPE platform](../../technology/bev-platforms/ppe/) created together with Porsche.
-The first customers can expect to receive the Audi Q6 e-tron in Q1/Q2 2024 as a 2025 model.
+The first customers can expect to receive the Audi Q6 e-tron in summer 2024 as a 2025 model.
 
 The model will come in different versions with different battery capacities, and in size, it will be between the [Audi Q4 e-tron](../../models//q4-e-tron/) and [Audi Q8 e-tron](../../models/q8-e-tron/).
 
