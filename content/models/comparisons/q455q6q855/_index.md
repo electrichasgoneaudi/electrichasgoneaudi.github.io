@@ -1,7 +1,7 @@
 ---
 title: Q4 e-tron 55 quattro vs Q6 e-tron quattro vs Q8 e-tron 55 
 linktitle: Q4 vs Q6 vs Q6
-description: Here you find a detailed comparison between the Audi Q4 e-tron 50 quattro and the Audi e-tron 55 quattro.
+description: Here you find a detailed comparison between the Audi Q4 e-tron 55 quattro, the Audi Q6 e-tron quattro and the Audi Q8 e-tron 55 quattro.
 weight: 1
 lastmod: 2022-06-17
 ---
@@ -13,19 +13,11 @@ lastmod: 2022-06-17
 
 Even though these models are in different categories, the price can be in the same range depending on the equipment level. In addition, people might be willing to increase/reduce their budget depending on the value of money and features.
 
-That's why we in this article will go into the detailed difference between the Audi e-tron 55 quattro and the Audi Q4 e-tron 50 quattro
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/etronvsq4_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/etronvsq4_1s.jpg"
-        class="img-fluid" alt="Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro" title="Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro">
-    </a>
-    <figcaption><h4>Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro</h4></figcaption>
-</figure>
+That's why we in this article will go into the detailed difference between the the Audi Q4 e-tron 55 quattro, Audi Q8 e-tron 55 quattro and the new Audi Q6 e-tron quattro
 
 ## Introduction
 
-Audi e-tron 55 was presented in September 2018 and is Audi’s first all-electric model. The [MLB-Evo](../../../technology/bev-platforms/mlb-evo/) platform is the basis for this model. Traditional models also use this platform.
+Audi Q8 e-tron 55 was presented in [September 2022](../../../articles/e-tron-facelift-q8-etron-2024/) and is Audi’s first all-electric model. The [MLB-Evo](../../../technology/bev-platforms/mlb-evo/) platform is the basis for this model. Traditional models also use this platform.
 
 In April 2021, Audi presented the Audi Q4 e-tron 50 as the first mid-size SUV.
 
@@ -168,7 +160,6 @@ Most options are available on both models, but some are only available on the e-
 - [Sport seats with adjustable headrest](../../q8-e-tron/interior/seats/)
 - [Massage seats](../../q8-e-tron/interior/seats/#massage)
 - [Length adjustable headrest](../../q8-e-tron/interior/seats/#massage)
-- [Night Vision](../../q8-e-tron/technology/drivingassistance/nightvision/)
 - [Crossing assist](../../q8-e-tron/technology/drivingassistance/crossingassist/)
 - [Pre-sense side](../../q8-e-tron/technology/drivingassistance/presenseside/)
 - [Air Quality package](../../q8-e-tron/technology/airquality/)
@@ -237,13 +228,13 @@ Below you see the full specification and options comparison of the models.
     <tbody>
     <tr>
         <td>Peak electrical output in KW (hp)</td>
-        <td>195(265)</td>
+        <td>210(286)</td>
         <td>?</td>
         <td>265(360)</td>
     </tr>
     <tr>
         <td>Peak electrical output boost in kW (hp)</td>
-        <td>220(299) </td>
+        <td>250(340) </td>
         <td>?</td>
         <td>300 (408)</td>
     </tr>
@@ -251,7 +242,7 @@ Below you see the full specification and options comparison of the models.
         <td>0 -100 km/h (62.1 mph) in s(boost)</td>
         <td> ? (6.2)  </td>
         <td>?</td>
-        <td>6.6 (5.7)</td>
+        <td>6.6 (5.6)</td>
     </tr>
      <tr>
         <td>Top speed in km/h (mph)</td>
@@ -293,19 +284,19 @@ Below you see the full specification and options comparison of the models.
         <td>Gross battery</td>
         <td><a href="../../q4-e-tron/drivetrain/battery/">82 kWh</a> </td>
         <td>?</td>
-        <td><a href="../../q8-e-tron/drivetrain/battery/">95 kWh</a></td>
+        <td><a href="../../q8-e-tron/drivetrain/battery/">114 kWh</a></td>
     </tr>
     <tr>
         <td>Net battery</td>
-        <td><a href="../../q4-e-tron/drivetrain/battery/">77 kWh</a> </td>
+        <td><a href="../../q4-e-tron/drivetrain/battery/">76.6 kWh</a> </td>
         <td>?</td>
-        <td><a href="../../q8-e-tron/drivetrain/battery/">86.5 kWh</a></td>
+        <td><a href="../../q8-e-tron/drivetrain/battery/">106 kWh</a></td>
     </tr>
         <tr>
         <td>Max DC Charging</td>
-        <td><a href="../../q4-e-tron/drivetrain/battery/">125 kW</a> </td>
-        <td>?</td>
-        <td><a href="../../q8-e-tron/drivetrain/battery/">150 kW</a></td>
+        <td><a href="../../q4-e-tron/drivetrain/battery/">175 kW</a> </td>
+        <td><a href="../../q6-e-tron/drivetrain/battery/">270 kW</a></td>
+        <td><a href="../../q8-e-tron/drivetrain/battery/">170 kW</a></td>
     </tr>
     <tr>
         <td>AC Charging</td>
@@ -329,25 +320,25 @@ Below you see the full specification and options comparison of the models.
         <td>WLTP Range basic trim </td>
         <td>488km</td>
         <td>?</td>
-        <td>441km</td>
+        <td>582km</td>
     </tr>
     <tr>
         <td>Calculated consumption basic trim  </td>
         <td>15.8 kWh/100km</td>
         <td>?</td>
-        <td>19.6 kWh/100km</td>
+        <td>18.2 kWh/100km</td>
     </tr>
    <tr>
         <td>WLTP Range top trim </td>
         <td>449km</td>
         <td>?</td>
-        <td>369km</td>
+        <td>487km</td>
     </tr>
     <tr>
         <td>Calculated consumption top trim</td>
         <td>17.14 kWh/100km</a> </td>
         <td>?</td>
-        <td>23.4 kWh/100km </td>
+        <td>21.8 kWh/100km </td>
     </tr>
     <tr>
         <td>Max trailer weight </td>
@@ -369,21 +360,21 @@ Below you see the full specification and options comparison of the models.
     </tr>
       <tr>
         <td>Cargo space </td>
-        <td>520 l</a> </td>
-         <td>?</td>
-        <td>660 l </td>
+        <td>520 liter</a> </td>
+         <td>520 liter</td>
+        <td>660 liter </td>
     </tr>
     <tr>
         <td>Cargo space seat down </td>
-        <td>1490l</a> </td>
-         <td>?</td>
-        <td>1725 l  </td>
+        <td>1490 liter</td>
+         <td>1529 liter</td>
+        <td>1725 liter</td>
     </tr>
     <tr>
         <td>Frunk size </td>
         <td><a href="../../q4-e-tron/transportation/#frunke">N/A</a> </td>
-         <td>?</td>
-        <td><a href="../../q8-e-tron/transportation/#frunk">60l</a></td>
+         <td><a href="../../q6-e-tron/transportation/#frunk">64 liters</a></td>
+        <td><a href="../../q8-e-tron/transportation/#frunk">60 liters</a></td>
     </tr>
     <tr>
         <td>Ground clearance</td>

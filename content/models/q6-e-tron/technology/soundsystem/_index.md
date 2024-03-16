@@ -15,13 +15,7 @@ The standard sound system is a 180 Watt 6 channel system with 10 speakers includ
 
 ## Bang & Olufsen Sound System with 3D sound
 
+{{< sitefiguresized thumb="models/q6-e-tron/technology/soundsystem/soundsystem_1_st.jpg" width="3000" height="1783" title="Bang & Olufsen sound system with 20 speakers" >}}
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/soundsystem/soundsystem1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/soundsystem/soundsystem1s.jpg"
-        class="img-fluid" alt="Bang & Olufsen sound system with 20 speakers" title="Bang & Olufsen sound system with 16 speakers">
-    </a>
-    <figcaption><h4>Bang & Olufsen sound system with 20 speakers</h4></figcaption>
-</figure>
 
-The option ID for this system is **9VS**
+
