@@ -31,7 +31,7 @@ Black optics and black optics plus packages will be options. Same with tinted wi
 
 There will be wheel options from 19 to 22 inches.
 
-![Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype7.jpg "Audi Q6 Sportback e-tron prototype by Motor1.com")
+![Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype7_st.jpg "Audi Q6 Sportback e-tron prototype by Motor1.com")
 
 ## Interior
 
@@ -106,13 +106,13 @@ We expect the battery with the launch to have the following specifications
 These batteries will give the Audi Q6 e-tron a WLTP range of approximately 485-600km, depending on the trim level for the largest battery. (16.2 - 20 kWh/100km)
 Thanks to 800-volt technology, the Q6 e-tron can be charged with a charging capacity of more than 270kW.  
 
-![Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/charging.jpg "Audi Q6 e-tron prototype charging by Auto Week NL")
+![Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/charging_st.jpg "Audi Q6 e-tron prototype charging by Auto Week NL")
 
 You can charge the battery from five to 80 percent in less than 25 minutes on an 800-volt 350KW charger.
 
 If the station uses 400-volt technology, the Q6 e-tron uses 'bank charging' for the first time, whereby corresponding high-voltage switches (gates) are automatically switched in the battery before the actual charging process begins. This technology effectively splits the 800-volt battery into two batteries with a nominal voltage of 400 volts each that can charge in parallel on one 400-volt charging station without an additional HV booster. The states of charge of the two battery halves are first aligned. This functionality will only be available on the 100kWh battery.
 
-![Battery](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/battery.png "Audi Q6 battery with 12 modules and 100kWh gross")
+![Battery](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/battery_st.png "Audi Q6 battery with 12 modules and 100kWh gross")
 
 ### Motor and performance
 
@@ -126,7 +126,7 @@ Electrichasgoneaudi.net expects the Audi Q6 e-tron to come in different performa
 
 Audi will use different motor setups on the om the variants.
 
-![Motors](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/motors.jpg "Motors for Audi Q6 e-tron")
+![Motors](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/motors_st.jpg "Motors for Audi Q6 e-tron")
 
 Audi uses permanently excited synchronous electric motors (PSM) with hairpin winding on the PPE platform for rear motor and asyncronous motors on the front. 
 
@@ -230,7 +230,7 @@ Audi Q6 will be available with several options.
 
 Audi plans to reduce the number of combinations of options. So instead of most options being offered separately, like on the Audi Q8 e-tron, they will introduce options packages.
 
-![options](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/options.jpg "Options")
+![options](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/options_st.jpg "Options")
 
 ## Prototype testing and other media
 
