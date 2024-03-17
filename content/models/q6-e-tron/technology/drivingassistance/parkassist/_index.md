@@ -1,7 +1,7 @@
 ---
-title: Audi Q8 e-tron park assist
+title: Audi Q6 e-tron park assist
 linktitle: Park assist
-description: Audi Q8 e-tron can be equipped with park assist. Park assist can automatically steer the car into parallel or perpendicular parking spaces. It uses ultrasonic sensors located in the front and rear bumpers and on the sides. The driver only has to accelerate, brake and shift gears.
+description: Audi Q6 e-tron can be equipped with park assist. Park assist can automatically steer the car into parallel or perpendicular parking spaces. It uses ultrasonic sensors located in the front and rear bumpers and on the sides. The driver only has to accelerate, brake and shift gears.
 weight: 1
 ---
 

@@ -229,7 +229,7 @@ Below you see the full specification and options comparison of the models.
     <tr>
         <td>Peak electrical output in KW (hp)</td>
         <td>210(286)</td>
-        <td>?</td>
+        <td>285</td>
         <td>265(360)</td>
     </tr>
     <tr>
@@ -241,13 +241,13 @@ Below you see the full specification and options comparison of the models.
      <tr>
         <td>0 -100 km/h (62.1 mph) in s(boost)</td>
         <td> ? (6.2)  </td>
-        <td>?</td>
+        <td>5.9</td>
         <td>6.6 (5.6)</td>
     </tr>
      <tr>
         <td>Top speed in km/h (mph)</td>
         <td>180  </td>
-        <td>?</td>
+        <td>210</td>
         <td>200 (124.3)</td>
     </tr>
       <tr>
@@ -265,31 +265,31 @@ Below you see the full specification and options comparison of the models.
     <tr>
         <td>Adaptive Air suspension</td>
         <td>N/A </td>
-        <td>?</td>
+        <td><a href="../../q8-e-tron/drivetrain/suspension/">option</a></td>
         <td><a href="../../q8-e-tron/drivetrain/suspension/">standard</a></td>
     </tr>
     <tr>
         <td>Progressive steering</td>
         <td><a href="../../q4-e-tron/drivetrain/suspension/">standard</a> </td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/drivetrain/suspension/">standard</a></td>
         <td><a href="../../q8-e-tron/drivetrain/suspension/">standard</a></td>
     </tr>
     <tr>
         <td>Audi drive select</td>
         <td><a href="../../q4-e-tron/technology/audidriveselect/">option</a> </td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/technology/audidriveselect/">standard</a</td>
         <td><a href="../../q8-e-tron/technology/audidriveselect/">standard</a></td>
     </tr>
     <tr>
         <td>Gross battery</td>
         <td><a href="../../q4-e-tron/drivetrain/battery/">82 kWh</a> </td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/drivetrain/battery/">100 kWh</a></td>
         <td><a href="../../q8-e-tron/drivetrain/battery/">114 kWh</a></td>
     </tr>
     <tr>
         <td>Net battery</td>
         <td><a href="../../q4-e-tron/drivetrain/battery/">76.6 kWh</a> </td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/drivetrain/battery/">94.9 kWh</a></td>
         <td><a href="../../q8-e-tron/drivetrain/battery/">106 kWh</a></td>
     </tr>
         <tr>
@@ -301,31 +301,31 @@ Below you see the full specification and options comparison of the models.
     <tr>
         <td>AC Charging</td>
         <td><a href="../../q4-e-tron/technology/onboardcharger/">11 kW</a> </td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/technology/onboardcharger/">11KW</a></td>
         <td><a href="../../q8-e-tron/technology/onboardcharger/#optional-22kw-charger">11KW (22KW optional)</a></td>
     </tr>
     <tr>
         <td>Additional charge port</td>
         <td>N/A</td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/technology/onboardcharger/#optional-charge-port">optional</a></td>
         <td><a href="../../q8-e-tron/technology/onboardcharger/#optional-charge-port">optional</a></td>
     </tr>
     <tr>
         <td>Pre heating battery</td>
         <td>Yes</td>
-        <td>?</td>
+        <td>Yes</td>
         <td>No</td>
     </tr>
     <tr>
         <td>WLTP Range basic trim </td>
-        <td>488km</td>
-        <td>?</td>
-        <td>582km</td>
+        <td>488 km</td>
+        <td>625 km</td>
+        <td>582 km</td>
     </tr>
     <tr>
         <td>Calculated consumption basic trim  </td>
         <td>15.8 kWh/100km</td>
-        <td>?</td>
+        <td>15.18 kWh/100km</td>
         <td>18.2 kWh/100km</td>
     </tr>
    <tr>
@@ -343,20 +343,20 @@ Below you see the full specification and options comparison of the models.
     <tr>
         <td>Max trailer weight </td>
         <td><a href="../../q4-e-tron/transportation/#trailer">1200 kg</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/transportation/#trailer">2400 kg</a></td>
         <td><a href="../../q8-e-tron/transportation/#trailer">1800 kg</a></td>
     </tr>
     <tr>
         <td>Roof rails </td>
         <td><a href="../../q4-e-tron/transportation/#roof-storage">standard</a> </td>
-         <td>?</td>
+         <td><a href="../../q6-e-tron/transportation/#roof-storage">standard</a></td>
         <td><a href="../../q8-e-tron/transportation/#roof-storage">option</a></td>
     </tr>
     <tr>
         <td>Max roof weight</td>
-        <td>75kg</a> </td>
-         <td>?</td>
-        <td>75kg</td>
+        <td>75 kg</a> </td>
+         <td>75 kg</td>
+        <td>75 kg</td>
     </tr>
       <tr>
         <td>Cargo space </td>
@@ -379,13 +379,13 @@ Below you see the full specification and options comparison of the models.
     <tr>
         <td>Ground clearance</td>
         <td><a href="../../q4-e-tron/drivetrain/suspension/">165/180mm</a> </td>
-         <td>?</td>
+         <td><a href="../../q4-e-tron/drivetrain/suspension/">164/186/157-232mm</a></td>
         <td><a href="../../q8-e-tron/drivetrain/suspension/">152-248mm</a></td>
     </tr>
     <tr>
         <td>Length</td>
         <td>4588mm</td>
-         <td>?</td>
+         <td>4771mm</td>
         <td>4901mm</td>
     </tr>
     <tr>
@@ -397,7 +397,7 @@ Below you see the full specification and options comparison of the models.
     <tr>
         <td>Wheel base</td>
         <td>2764mm</td>
-         <td>?</td>
+         <td>2899mm</td>
         <td>2928 mm</td>
     </tr>
     <tr>
@@ -409,13 +409,13 @@ Below you see the full specification and options comparison of the models.
     <tr>
         <td>Height</td>
         <td>1632mm</td>
-         <td>?</td>
+         <td>1648mm</td>
         <td>1629 mm</td>
     </tr>
     <tr>
         <td>Unladen weight without drive min trim</td>
         <td>2135kg</td>
-         <td>?</td>
+         <td>2xxx?</td>
         <td>2520kg</td>
     </tr>
     <tr>
@@ -455,7 +455,7 @@ Below you see the full specification and options comparison of the models.
         <td><a href="../../q8-e-tron/technology/tpms/">Indirect (direct option)</a></td>
     </tr>
     <tr>
-        <td>Tire repair set  </td>
+        <td>Tire repair set</td>
         <td>option</td>
          <td>?</td>
         <td>standard</td>
@@ -481,13 +481,13 @@ Below you see the full specification and options comparison of the models.
      <tr>
         <td>Virtual Cockpit plus </td>
         <td><a href="../../q4-e-tron/technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus">option</a> </td>
-         <td>?</td>
+        <td><a href="../../q6-e-tron/technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus">standard</a></td>
         <td><a href="../../q8-e-tron/technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus">option</a></td>
     </tr>
     <tr>
         <td>Audi MMI System </td>
         <td><a href="../../q4-e-tron/technology/uiandoperations/mmi/">MMI touch</a> </td>
-         <td>?</td>
+         <td><a href="../../q8-e-tron/technology/uiandoperations/mmi/">MMI Touch Response</a></td>
         <td><a href="../../q8-e-tron/technology/uiandoperations/mmi/">MMI Touch Response</a></td>
     </tr>
         <tr>
@@ -499,7 +499,7 @@ Below you see the full specification and options comparison of the models.
     <tr>
         <td>MMI main screen size</td>
         <td><a href="../../q4-e-tron/technology/uiandoperations/mmi/">10.1" (11.6" option) </a> </td>
-         <td>14"</td>
+         <td><a href="../../q6-e-tron/technology/uiandoperations/mmi/">14.5"</a></td>
         <td><a href="../../q8-e-tron/technology/uiandoperations/mmi//">10.1</a></td>
     </tr>
         <tr>
@@ -511,7 +511,7 @@ Below you see the full specification and options comparison of the models.
     <tr>
         <td>Audi Smartphone Interface</td>
         <td><a href="../../q4-e-tron/technology/uiandoperations/smartphoneinterface/">option</a> </td>
-         <td>?</td>
+         <td><a href="../../q6-e-tron/technology/uiandoperations/smartphoneinterface/">standard</a></td>
         <td><a href="../../q8-e-tron/technology/uiandoperations/smartphoneinterface/">option</a></td>
     </tr>
     <tr>
@@ -529,25 +529,25 @@ Below you see the full specification and options comparison of the models.
     <tr>
         <td>Heated steering wheel </td>
         <td><a href="../../q4-e-tron/interior/steeringwheels">option</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/interior/steeringwheels">option</a></td>
       <td><a href="../../q8-e-tron/interior/steeringwheels/">option</a></td>
     </tr>
     <tr>
         <td>Heated front seats</td>
         <td><a href="../../q4-e-tron/interior/seats">option</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/interior/seats">option</a></td>
       <td><a href="../../q8-e-tron/interior/seats/">option</a></td>
     </tr>
         <tr>
         <td>Air Condition</td>
         <td><a href="../../q4-e-tron/technology/climatecontrol/">standard</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/technology/climatecontrol/">standard</a></td>
         <td><a href="../../q8-e-tron/technology/climatecontrol/">standard</a></td>
     </tr>
     <tr>
         <td> A/C zones</td>
         <td><a href="../../q4-e-tron/technology/climatecontrol/">1 (3 optional(WNW/PYC))</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/technology/climatecontrol/">3</a></td>
         <td><a href="../../q8-e-tron/technology/climatecontrol/">2 (4 optional)</a></td>
     </tr>
     <tr>
@@ -577,13 +577,13 @@ Below you see the full specification and options comparison of the models.
     <tr>
         <td>Adaptive cruise assist</td>
         <td><a href="../../q4-e-tron/technology/drivingassistance/adaptivecruiseassist/">option</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/adaptivecruiseassist/">option</a></td>
         <td><a href="../../q8-e-tron/technology/drivingassistance/adaptivecruiseassist/">option</a></td>
     </tr>
     <tr>
         <td>Adaptive Cruise control with speed limiter</td>
         <td><a href="../../q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/">option</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/adaptivecruisecontrol/">option</a></td>
         <td><a href="../../q8-e-tron/technology/drivingassistance/adaptivecruisecontrol/">option</a></td>
     </tr>
     <tr>
@@ -595,13 +595,13 @@ Below you see the full specification and options comparison of the models.
     <tr>
         <td>Pre Sense front</td>
         <td><a href="../../q4-e-tron/technology/drivingassistance/presensefront/">standard</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/presensefront/">standard</a></td>
         <td><a href="../../q4-e-tron/technology/drivingassistance/presensefront/">standard</a></td>
     </tr>
     <tr>
         <td>Pre Sense rear </td>
         <td><a href="../../q4-e-tron/technology/drivingassistance/presenserear/">option</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/presenserear/">option</a></td>
         <td><a href="../../q8-e-tron/technology/drivingassistance/presenserear/">option</a></td>
     </tr>
     <tr>
@@ -613,104 +613,104 @@ Below you see the full specification and options comparison of the models.
     <tr>
         <td>Effiency assist</td>
         <td><a href="../../q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/">standard</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/predictiveefficiencyassist/">standard</a></td>
         <td><a href="../../q8-e-tron/technology/drivingassistance/predictiveefficiencyassist/">standard</a></td>
     </tr>
     <tr>
         <td>Distance warning</td>
         <td><a href="../../q4-e-tron/technology/drivingassistance/distancewarning/">standard</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/distancewarning/">standard</a></td>
         <td><a href="../../q8-e-tron/technology/drivingassistance/distancewarning/">standard</a></td>
     </tr>
     <tr>
         <td>Night Vision</td>
         <td>N/A</td>
-        <td>?</td>
+        <td>N/A</td>
         <td><a href="../../q8-e-tron/technology/drivingassistance/nightvision/">option</a></td>
     </tr>
     <tr>
         <td>Head up display</td>
         <td><a href="../../q4-e-tron/technology/uiandoperations/headupdisplay/">option</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/technology/uiandoperations/headupdisplay/">option</a></td>
         <td><a href="../../q8-e-tron/technology/uiandoperations/headupdisplay/">option</a></td>
     </tr>
     <tr>
         <td>Speed limiter </td>
         <td><a href="../../q4-e-tron/technology/drivingassistance/speedlimiter/">standard</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/speedlimiter/">standard</a></td>
         <td><a href="../../q8-e-tron/technology/drivingassistance/speedlimiter/">standard</a></td>
     </tr>
         <tr>
         <td>Park assist</td>
            <td>N/A</td>
-         <td>?</td>
+       <td><a href="../../q6-e-tron/technology/drivingassistance/parkassist/">option</a></td>
        <td><a href="../../q8-e-tron/technology/drivingassistance/parkassist/">option</a></td>
     </tr>
         <tr>
         <td>Cross traffic assist rear </td>
         <td><a href="../../q4-e-tron/technology/drivingassistance/crosstrafficassistrear/">option</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/crosstrafficassistrear/">option</a></td>
         <td><a href="../../q8-e-tron/technology/drivingassistance/crosstrafficassistrear/">option</a></td>
     </tr>
         <tr>
         <td>Exit warning</td>
         <td><a href="../../q4-e-tron/technology/drivingassistance/exitwarning/">option</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/exitwarning/">option</a></td>
         <td><a href="../../q8-e-tron/technology/drivingassistance/exitwarning/">option</a></td>
     </tr>
     <tr>
         <td>Collision avoidance assist</td>
         <td><a href="../../q4-e-tron/technology/drivingassistance/collisionavoidanceassist/">option</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/collisionavoidanceassist/">option</a></td>
         <td><a href="../../q8-e-tron/technology/drivingassistance/collisionavoidanceassist/">option</a></td>
     </tr>
         <tr>
         <td>Audi side assist</td>
         <td><a href="../../q4-e-tron/technology/drivingassistance/sideassist/">option</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/sideassist/">option</a></td>
         <td><a href="../../q8-e-tron/technology/drivingassistance/sideassist/">option</a></td>
     </tr>
         <tr>
         <td>360 degree cameras</td>
         <td><a href="../../q4-e-tron/technology/drivingassistance/360camera/">option</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/360camera/">option</a></td>
         <td><a href="../../q8-e-tron/technology/drivingassistance/360camera/">option</a></td>
     </tr>
     <tr>
         <td>Reversing camera</td>
         <td><a href="../../q4-e-tron/technology/drivingassistance/reversingcamera/">option</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/360camera">standard</a></td>
         <td><a href="../../q8-e-tron/technology/drivingassistance/360camera">option</a></td>
     </tr>
     <tr>
         <td>Crossing/intersection assist</td>
         <td> N/A </td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/crossingassist">option</a></td>
         <td><a href="../../q8-e-tron/technology/drivingassistance/crossingassist">option</a></td>
     </tr>
         <tr>
         <td>Turn assist</td>
         <td><a href="../../q4-e-tron/technology/drivingassistance/turnassist/">option</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/turnassist/">option</a></td>
         <td><a href="../../q8-e-tron/technology/drivingassistance/turnassist/">option</a></td>
     </tr>
     <tr>
         <td>Traffic sign recognition</td>
         <td><a href="../../q4-e-tron/technology/drivingassistance/trafficsignrecognition/">option</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/trafficsignrecognition/">option</a></td>
         <td><a href="../../q8-e-tron/technology/drivingassistance/trafficsignrecognition/">option</a></td>
     </tr>
     <tr>
         <td>Creep mode</td>
         <td>standard</td>
-        <td>?</td>
+        <td>standard</td>
         <td>N/A </td>
     </tr>
     </tr>
         <tr>
         <td>HD Matrix</td>
         <td><a href="../../q8-e-tron/technology/lights/#hd-matrix-led-headlights">option</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/technology/lights/#hd-matrix-led-headlights">option</a></td>
         <td><a href="../../q4-e-tron/technology/lights/#hd-matrix-led-headlights">option</a></td>
     </tr>
     <tr>
@@ -722,19 +722,19 @@ Below you see the full specification and options comparison of the models.
     <tr>
         <td>Headlight washer</td>
         <td><a href="../../q4-e-tron/technology/lights/">option</a></td>
-        <td>?</td>
+        <td>N/A</td>
         <td><a href="../../q8-e-tron/technology/lights/">standard</a></td>
     </tr>
     <tr>
         <td>Rear light strip </td>
         <td><a href="../../q4-e-tron/technology/lights/">option</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/technology/lights/">option</a></td>
         <td><a href="../../q8-e-tron/technology/lights/">standard</a></td>
     </tr>
     <tr>
         <td>Dynamic lightning</td>
         <td><a href="../../q4-e-tron/technology/lights/">option</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/technology/lights/">option</a></td>
         <td><a href="../../q8-e-tron/technology/lights/">option</a></td>
     </tr>
     <tr>
@@ -818,13 +818,13 @@ Below you see the full specification and options comparison of the models.
     <tr>
         <td>Theft Alarm </td>
         <td><a href="../../q4-e-tron/technology/lockingsystems/">option</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/technology/lockingsystems/">option</a></td>
         <td><a href="../../q8-e-tron/technology/lockingsystems/">option</a></td>
     </tr>
     <tr>
         <td>Kick sensor</td>
         <td><a href="../../q4-e-tron/exterior/doors/">option</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/exterior/doors/">option</a></td>
         <td><a href="../../q8-e-tron/exterior/doors/">option</a></td>
     </tr>
      <tr>
@@ -836,20 +836,20 @@ Below you see the full specification and options comparison of the models.
          <tr>
         <td>Air quality package</td>
         <td>N/A</td>
-        <td>?</td>
+        <td>N/A</td>
         <td><a href="../../q8-e-tron/technology/airquality/">option</a></td>
     </tr>
     <tr>
         <td> Standard colors </td>
         <td><a href="../../q4-e-tron/exterior/paint/">8</a></td>
-        <td>?</td>
-        <td><a href="../../q8-e-tron/exterior/paint/">14</a></td>
+        <td><a href="../../q8-e-tron/exterior/paint/">9</a></td>
+        <td><a href="../../q8-e-tron/exterior/paint/">9</a></td>
     </tr>
         <tr>
         <td> Audi exclusive colors </td>
         <td>N/A</td>
-        <td>?</td>
-        <td><a href="../../q8-e-tron/exterior/paint">14</a></td>
+        <td><a href="../../q8-e-tron/exterior/paint">Option</a></td>
+        <td><a href="../../q8-e-tron/exterior/paint">Option</a></td>
     </tr>
     <tr>
         <td>Black optics</td>
@@ -860,19 +860,19 @@ Below you see the full specification and options comparison of the models.
     <tr>
         <td>Privacy windows</td>
        <td><a href="../../q4-e-tron/exterior/windows/">option</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/exterior/windows/">option</a></td>
         <td><a href="../../q8-e-tron/exterior/windows/">option</a></td>
     </tr>
     <tr>
         <td>S-line exterior</td>
        <td><a href="../../q8-e-tron/exterior/s-line">option</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/exterior/s-line/">option</a></td>
         <td><a href="../../q8-e-tron/exterior/s-line/">option</a></td>
     </tr>
     <tr>
         <td>S-line interior</td>
        <td><a href="../../q8-e-tron/interior/sline/">option</a></td>
-        <td>?</td>
+          <td><a href="../../q6-e-tron/interior/sline/">option</a></td>
         <td><a href="../../q8-e-tron/interior/sline/">option</a></td>
     </tr>
     <tr>

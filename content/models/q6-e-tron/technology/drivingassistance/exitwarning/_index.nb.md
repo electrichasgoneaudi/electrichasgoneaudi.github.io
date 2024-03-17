@@ -1,7 +1,7 @@
 ---
-title: Audi Q8 e-tron utstigningsvarsling
+title: Audi Q6 e-tron utstigningsvarsling
 linktitle: Utstigningsvarsling
-description: Audi Q8 e-tron kan leveres med utstigningsvarsling. Utstigningsvarsling forbedrer sikkerheten i bytrafikken. Hvis bilen har stoppet og andre kjøretøy eller syklister klassifisert som kritiske nærmer seg bakfra, advarer systemet passasjerene om å ikke åpne dørene.
+description: Audi Q6 e-tron kan leveres med utstigningsvarsling. Utstigningsvarsling forbedrer sikkerheten i bytrafikken. Hvis bilen har stoppet og andre kjøretøy eller syklister klassifisert som kritiske nærmer seg bakfra, advarer systemet passasjerene om å ikke åpne dørene.
 weight: 1
 ---
 
@@ -9,9 +9,9 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/exitwarning/exitwarning.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/exitwarning/exitwarnings.jpg"
-        class="img-fluid" alt="Utstigningsvarsling Audi Q8 e-tron" title="Utstigningsvarsling Audi Q8 e-tron">
+        class="img-fluid" alt="Utstigningsvarsling Audi Q6 e-tron" title="Utstigningsvarsling Audi Q6 e-tron">
     </a>
-    <figcaption><h4>Utstigningsvarsling Audi Q8 e-tron</h4></figcaption>
+    <figcaption><h4>Utstigningsvarsling Audi Q6 e-tron</h4></figcaption>
 </figure>
 
 Dette gjør systemet ved hjelp av LED-lys i dørpanelene. I en situasjon som vurderes til å være farlig, blinker lysdiodene og lyser rødt. Lysdiodene til Audi sideassistent lyser også i det aktuelle sidespeilet. Utgangsvarselet forblir aktiv i omtrent tre minutter etter at tenningen er slått av.

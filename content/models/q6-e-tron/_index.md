@@ -1,19 +1,17 @@
 ---
 title: Audi Q6 e-tron
 linktitle: Audi Q6 e-tron
-description: Audi Q6 e-tron will be available with different motors, batteries, technology, design options, and a range of up to 600km(372 mi). 
+description: The Audi Q6 e-tron is the newest all-electric model from Audi and has set a new standard in many aspects for Audi.
 weight: 4
 shownavtabs: true
 ---
+
 <!-- markdownlint-disable MD033 -->
-The Audi Q6 e-tron will have a world premiere March 18 2024 and will be the fifth all-electric model from Audi and the most sporty SUV.
+The Audi Q6 e-tron had its world premiere on March 18, 2024. It is Audi's fifth all-electric model and the most sporty SUV. In size, it is between the [Audi Q4 e-tron](../../models/q4-e-tron/) and the [Audi Q8 e-tron](../../models/q8-e-tron/).
 
-Audi builds the Q6 e-tron on the new [PPE platform](../../technology/bev-platforms/ppe/) created together with Porsche.
-The first customers can expect to receive the Audi Q6 e-tron in summer 2024 as a 2025 model.
+Audi built the Q6 e-tron on the new [PPE platform](../../technology/bev-platforms/ppe/) created by Porsche and Audi. The first customers can expect to receive the Audi Q6 e-tron in the summer of 2024 as a 2025 model.
 
-The model will come in different versions with different battery capacities, and in size, it will be between the [Audi Q4 e-tron](../../models//q4-e-tron/) and [Audi Q8 e-tron](../../models/q8-e-tron/).
-
-This article summarizes what we know and expect from the new model. If you want to keep yourself updated on this model, join our [Audi Q6 e-tron Facebook group](https://www.facebook.com/groups/114120244068685) to keep yourself updated.
+If you want to discuss this model with the electrichasgoneaudi community, join our [Audi Q6 e-tron Facebook group](https://www.facebook.com/groups/114120244068685). 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_1.jpg">
@@ -23,15 +21,36 @@ This article summarizes what we know and expect from the new model. If you want 
 </figure>
 
 
+## Audi Q6 e-tron variants.
+
+Two variants will be available to order from March 2024, and others will follow.
+
+The Audi Q6 e-tron quattro and the Audi SQ6 e-tron have SUV bodies. At a later stage, Sportback versions (SUV Coupe) will be available.
+
+- [Audi Q6 e-tron quattro](variants/#audi-q6-e-tron-quattro) with 100kWh battery and up to 625 km WLTP range (From 74.700 euros)
+- [Audi SQ6 e-tron](variants/#audi-sq6-e-tron) with 100 kWh battery and up to 615 km WLTP range (From 93.800 euros)
+
+Electrichasgoneaudi.net expects the following variants to be available at a later time.
+
+- Audi Q6 50 e-tron with 100kWh battery and up to approx 650km WLTP range (confirmed)
+- Audi Q6 45 e-tron with 83kWh battery and up to approx 540 km WLTP Range (confirmed)
+- Audi Q6 Sportback e-tron quattro with 100kWh battery and up to  approx 640 km WLTP range
+- Audi SQ6 Sportback e-tron with 100 kWh battery and up to 625 km  WLT range
+- Audi Q6 Sportback 50 e-tron with 100kWh battery and up to approx 650km WLTP range
+- Audi Q6 Sportback 45 e-tron with 83kWh battery and up to 540 km WLTP Range
+  
+See more details in the [variants section](variants/).
+
+
 ## Exterior
 
 The Audi Q6 e-tron will be available in SUV and Sportback designs, just like the Audi Q4 e-tron and Audi Q8 e-tron. In addition, it will have a large set of available colors, and you can order it with Audi-exclusive colors.
 
 Black optics and black optics plus packages will be options. Same with tinted windows and a panoramic roof.
 
-There will be wheel options from 19 to 22 inches.
+There will be wheel options from 19 to 21 inches.
 
-![Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype7_st.jpg "Audi Q6 Sportback e-tron prototype by Motor1.com")
+
 
 ## Interior
 
