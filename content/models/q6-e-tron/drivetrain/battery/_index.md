@@ -16,6 +16,14 @@ It is expected that Q6 will come with two different battery sizes.
 It is expected that the available battery would be 94%. Same as MEB based cars.
 This would mean 94kWh/78kWh available battery on the different versions
 
+<figure>
+    <a href="https://evkx.net/images/models/porsche/macan/macan_4/chargingcurve.svg">
+        <img src="https://evkx.net/images/models/porsche/macan/macan_4/chargingcurve.svg" class="img-fluid" alt="Charging Curve" title="Charging Curve">
+    </a>
+    <figcaption><h4>Charging Curve</h4></figcaption>
+</figure>
+
+
 ## Cells
 
 Porsche has confirmed the setup of the PPE battery. The cell will be a 152ah cell with 15 cells in each module.
