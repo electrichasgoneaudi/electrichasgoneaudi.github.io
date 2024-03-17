@@ -77,13 +77,8 @@ This gives the following [battery architecture](../../battery/batterysystem/#arc
 More battery sizes will come at a later time.
 For the [Audi grandshpere concept](../../../articles/audigrandsphereconcept/) Audi uses a PPE platform with 120kWh battery.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrains.jpg"
-        class="img-fluid" alt="PPE-drivetrain" title="PPE-drivetrain">
-    </a>
-    <figcaption><h4>PPE-drivetrain</h4></figcaption>
-</figure>
+
+{{< sitefiguresized thumb="technology/bev-platforms/ppe/drivetrains_st.jpg" width="1700" height="1300" title="PPE-drivetrain" >}}
 
 ## Motors and performance
 

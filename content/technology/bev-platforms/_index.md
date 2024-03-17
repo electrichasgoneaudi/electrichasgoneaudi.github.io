@@ -18,45 +18,52 @@ In addition, they are working on the new SSP platform that will be used on model
 
 Below you find details about the different platforms.
 
-## MLB EVO
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="mlb-evo/"><img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/meb1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<h2>MLB EVO</h2>
+	<p>
+		The Audi e-tron is based on an extensively adapted variant of the modular longitudinal platform (MLB evo). The MLB Evo platform is a shared platform that included ICE like Lamborghini URUS and Audi A8. But for e-tron Audi built a completely new dedicated chassis and body for e-tron
+	</p>
+	<a href="mlb-evo/" class="btn btn-outline-primary" role="button">Learn all about MLB-EVO platform</a>
+</div>
 
-The Audi e-tron is based on an extensively adapted variant of the modular longitudinal platform (MLB evo). The MLB Evo platform is a shared platform that included ICE like Lamborghini URUS and Audi A8. But for e-tron Audi built a completely new dedicated chassis and body for e-tron
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="j1-performance/"><img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/j1-performance/drivetrain2_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<h2>J1 performance platform</h2>
+	<p>
+		The J1 Performance platform is developed together with Porsche and used for the Audi e-tron GT and Audi RS e-tron GT.
+	</p>
+	<a href="j1-performance/" class="btn btn-outline-primary" role="button">Learn all about J1 performance platform</a>
+</div>
 
-[![MLB EVo](https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/mlb-evo/mlbevo2s.jpg)](mlb-evo)
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="meb/"><img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/meb1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<h2>Modular Electrification Toolkit (MEB)</h2>
+	<p>
+		What the modular transversal toolkit (MQB) is for the model range with combustion engines, the modular electrification toolkit (MEB) will be for the all-electric Audi models. It is used for the smaller Audi models like Audi Q4 e-tron and Audi Q5 e-tron.
+	</p>
+	<a href="meb/" class="btn btn-outline-primary" role="button">Learn all about PPE</a>
+</div>
 
-[Learn more about MLB-EVO platform](mlb-evo)
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="ppe/"><img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<h2>PPE (Premium Platform Electric)</h2>
+	<p>
+		For its full-size class and luxury models, Audi is relying on a fourth platform. Audi Q6 e-tron and Audi A6 e-tron will be built on this platform
+	</p>
+	<a href="ppe/" class="btn btn-outline-primary" role="button">Learn all about PPE</a>
+</div>
 
-## J1 performance platform
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="ssp/"><img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/drivetrain_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<h2>SSP (Scalable Systems Platform)</h2>
+	<p>
+		By 2026, the Volkswagen Group will bundle its future technologies on the Scalable Systems Platform (SSP). After the Modular Electric Drive Kit (MEB) and the Premium Platform Electric (PPE), the SSP represents the next generation of all-electric, fully-digital and highly-scalable mechatronics platform.
+	</p>
+	<a href="ssp/" class="btn btn-outline-primary" role="button">Learn all about SSP</a>
+</div>
 
-The J1 Performance platform is developed together with Porsche and used for the Audi e-tron GT and Audi RS e-tron GT.
 
-[![J1 performance](https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/j1-performance/drivetrain2.jpg)](j1-performance)
-
-[Learn more about the J1 performance platform](j1-performance)
-
-## Modular Electrification Toolkit (MEB)
-
-What the modular transversal toolkit (MQB) is for the model range with combustion engines, the modular electrification toolkit (MEB) will be for the all-electric Audi models. It is used for the smaller Audi models like Audi Q4 e-tron and Audi Q5 e-tron.
-
-[![Meb](https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/meb1.jpg)](meb)
-
-[Learn more about the MEB](meb)
-
-## PPE (Premium Platform Electric)
-
-For its full-size class and luxury models, Audi is relying on a fourth platform. Audi Q6 e-tron and Audi A6 e-tron will be built on this platform
-
-[![PPE](https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain.jpg)](ppe)
-
-[Learn more about PPE](ppe/drivetrain.jpg)
-
-## SSP (Scalable Systems Platform)
-
-By 2026, the Volkswagen Group will bundle its future technologies on the Scalable Systems Platform (SSP). After the Modular Electric Drive Kit (MEB) and the Premium Platform Electric (PPE), the SSP represents the next generation of all-electric, fully-digital and highly-scalable mechatronics platform.
-
-[![SSP](https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/drivetrain.jpg)](ssp)
-
-[Learn more about SSP](ssp)
 
 ## Video presentation
 

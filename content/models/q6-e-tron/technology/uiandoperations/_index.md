@@ -15,12 +15,19 @@ For the front passenger, the digital stage is systematically and individually co
 
 The optional augmented reality (AR) head-up display (HUD) for the Q6 e‑tron represents a significant advance in display technology at Audi. It reflects a large, tilted image plane across the windshield to the driver, showing relevant information such as speed, traffic signs, and assistance and navigation icons. The image plane is tilted forward for an enhanced AR experience. The focus of the human eye moves along with it. This process and the high virtual image distance create the impression that the items depicted are floating up to 200 meters (656 ft) away and that they interact directly with the environment. The driver can quickly understand the displays without being confused or distracted by them. They offer significant support, particularly in conditions with poor visibility. The field of view for AR content corresponds to a diagonal of about 88 inches from the driver’s perspective.
 
-
-
-
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="mmi/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/uiandoperations/mmi/mmi_3_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
 	<h2>MMI</h2>
+	<p>
+		Audi Q6 e-tron MMI is based on Android Automotive and have a has serveral screens.
+	</p>
+	<a href="mmi/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron MMI</a>
+</div>
+
+
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="headupdisplay/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/uiandoperations/headupdisplay/hud_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<h2>Head-up display</h2>
 	<p>
 		Audi Q6 e-tron MMI is based on Android Automotive and have a has serveral screens.
 	</p>
