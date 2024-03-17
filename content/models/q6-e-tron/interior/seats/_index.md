@@ -49,7 +49,7 @@ With the optional massage function, the user can select from three different int
         <tr>
         <th>
         </th>
-        <th>Standard Seat
+        <th>Standard
         </th>
         <th>Sport 
         </th>
@@ -68,23 +68,76 @@ With the optional massage function, the user can select from three different int
         <td>N/A</td>
         <td>N/A</td>
     </tr>
+    <tr>
+        <td>Front seat heating</td>
+        <td>?</td>
+        <td>?</td>
+        <td>?</td>
+    </tr>
+    <tr>
+        <td>Rear seat heating</td>
+        <td>?</td>
+        <td>?</td>
+        <td>?</td>
+    </tr>
+    <tr>
+        <td>Power 4-way lumbar adjustment</td>
+        <td>?</td>
+        <td>?</td>
+        <td>?</td>
+    </tr>
+    <tr>
+        <td>Power seat adjustment driver</td>
+        <td>?</td>
+        <td>?</td>
+        <td>?</td>
+    </tr>
+        <tr>
+        <td>Power seat adjustment passenger</td>
+        <td>?</td>
+        <td>?</td>
+        <td>?</td>
+    </tr>
+    <tr>
+        <td>Driver seat memory</td>
+        <td>?</td>
+        <td>?</td>
+        <td>?</td>
+    </tr>
+     <tr>
+        <td>Passenger seat memory</td>
+        <td>?</td>
+        <td>?</td>
+        <td>?</td>
+    </tr>
+         <tr>
+        <td>Front seat ventilation</td>
+        <td>?</td>
+        <td>?</td>
+        <td>?</td>
+    </tr>
+             <tr>
+        <td>Front seat massage</td>
+        <td>?</td>
+        <td>?</td>
+        <td>?</td>
+    </tr>
+    <tr>
+        <td>Extending thigh support</td>
+        <td>?</td>
+        <td>?</td>
+        <td>?</td>
+    </tr>
+        <tr>
+        <td>Rear seat split</td>
+        <td>40:20:40</td>
+        <td>40:20:40</td>
+        <td>40:20:40</td>
+    </tr>
   </tbody>
 </table>
+</div>
 
-
-| **Seat type** | **Standard** | **Sport** | **S-line sport**| **S-Sport** | **Contur** |
-|-------|-------|-------|-------|-------|-------|
-|Front seat heating| option | option | option |standard | standard |
-|Rear seat heating| option | option | option | option | option |
-|Power 4-way lumbar adjustment |option | standard | standard |standard | standard |
-|Power seat adjustment driver | option | option | standard |standard | standard |
-|Power seat adjustment passenger | option | option | standard |standard | standard |
-|Driver seat memory | option | option | option | standard | standard |
-|Passenger seat memory | N/A | N/A | N/A |N/A | standard |
-|Front seat ventilation| N/A | N/A | N/A |N/A |option |
-|Front seat massage| N/A | N/A | N/A |N/A |option |
-|Extending thigh support |N/A | standard |standard |standard | standard |
-|Rear seat split | 40:20:40 | 40:20:40 | 40:20:40 |40:20:40 | 40:20:40 |
 
 ## Standard Seats
 

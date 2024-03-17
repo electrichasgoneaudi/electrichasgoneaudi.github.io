@@ -164,7 +164,7 @@ With air suspension, depending on the speed, the body can be lowered in combinat
     <figcaption><h4>PPE drivetrain</h4></figcaption>
 </figure>
 
-The wheel widths on the front and rear axles will differ significantly to accommodate the rear-focused weight distribution – for more grip and driving dynamics. In addition, wheel sizes of up to 22 inches will provide further performance potential.
+The wheel widths on the front and rear axles will differ significantly to accommodate the rear-focused weight distribution – for more grip and driving dynamics. 
 
 The Audi Drive Select is combined with the air suspension in the all-electric Q6 but may also be combined with the steel suspension. The system reacts to the condition of the road but also the speed, longitudinal and lateral acceleration, accelerator pedal modulation, steering behavior, and the position level of the car.
 
@@ -179,7 +179,6 @@ The Q6 e-tron has a completely revised double wishbone axle with a detached stru
 
 The top versions will have an electronically controlled differential lock on the rear axle. This control strategy is independent of the respective driving situation and ensures greater traction, driving stability, and transverse dynamics. In addition, targeted, dynamic braking interventions on the rear axle support the steering behavior and precision.
 
-Audi Q6 e-tron will also be available with rear-axle steering. This reduces the turn circle.
 
 ## Technology
 

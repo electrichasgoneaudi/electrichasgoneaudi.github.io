@@ -34,6 +34,6 @@ Below you see details about the different technology areas on Audi Q6 e-tron.
 	<p>
 		Audi Q6 e-tron offers a standard soundsystem and a optional soundsystem from Bang & Olufsen.
 	</p>
-	<a href="soundsystem/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron UI</a>
+	<a href="soundsystem/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron seats</a>
 </div>
 
