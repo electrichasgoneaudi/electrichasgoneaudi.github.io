@@ -11,13 +11,13 @@ Europa eller [EPA](https://en.wikipedia.org/wiki/Fuel_economy_in_automobiles#EPA
 
 Nedenfor ser du rekkevidden til de forskjellige nåværende og noen fremtidige Audi -modeller. Rekkevidden er fra 341 km (211 miles) til 700 km (435 miles) i henhold til WLTP kombinert standarden. 
 
-![WLTP Range](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/wltprangebasictrim.png "WLTP rekkevidde helelektriske Audier")
+{{< sitefiguresized thumb="guides/understandingrange/wltprangebasictrim_st.png" width="2074" height="1316" title="WLTP rekkevidde helelektriske Audier" >}}
 
 Det viktigste aspektet av rekkevidde er selvfølgelig hvor stort batteriet er. Et større batteri betyr mer energi å bruke.
 
 Tabellen nedenfor viser tilgjengelig batteristørrelse for de forskjellige modellene. 
 
-![Battery size](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/batterysize.png "Tilgjengelig batteri helelektriske Audier")
+{{< sitefiguresized thumb="guides/understandingrange/batterysize_st.png" width="2075" height="1478" title="Tilgjengelig batteri helelektriske Audier" >}}
 
 Men batteriet er ikke den eneste faktoren som påvirker rekkevidden. En annen viktig faktor er hvor effektiv bilen er.
 
