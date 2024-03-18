@@ -171,3 +171,8 @@ Nedenfor finner du noen videoer av de nye modellene. I tillegg finner du mer i [
 
 {{< youtube VSARj5tSvPc >}}
 
+### Audi Q6 e-tron final REVEAL of the Porsche Macan EV brother
+
+{{< youtube BucVRnrE2qM >}}
+
+

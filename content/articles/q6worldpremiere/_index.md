@@ -6,6 +6,7 @@ weight: 99989
 ---
 <!-- markdownlint-disable MD033 -->
 
+{{< sitefiguresized thumb="models/q6-e-tron/q6dynamic_1_st.jpg" width="3000" height="1999" title="Audi SQ6 e-tron" >}}
 
 The Audi Q6 e-tron1 is the first production model on the Premium Platform Electric (PPE), marking the next step in the company's transformation into a provider of premium electric mobility. With its characteristics, the electric SUV stands for Vorsprung durch Technik. The model is defined not only by impressive driving and charging performance, but also by increased efficiency and long range. The Audi Q6 e-tron1 embodies typical Audi SUV styling with a further refined e-tron design language. The new design philosophy in the interior and pioneering technologies debuting in the new model, begin the next chapter in electric mobility for the Four Rings and make Vorsprung durch Technik a tangible experience every day. With the Q6 e-tron range, e mobility is coming from the Ingolstadt plant for the first time. The Audi Q6 e-tron quattro1 and SQ6 e-tron2 will be available to order from March 2024 at a price of 74.700 and 93.800 euros and will be delivered to customers in the third quarter of 2024.
 
@@ -25,7 +26,8 @@ Thanks to 800‑volt technology and a maximum charging capacity of 270 kW as sta
 
 An important component in increasing the efficiency and therefore the range of the Audi Q6 e-tron1 is the advanced recuperation system. Around 95 percent of all everyday braking processes can be handled by this system. The Audi Q6 e-tron1 recuperates at up to 220 kW.
 
-Typical Audi SUV design: the exterior
+## Typical Audi SUV design: the exterior
+
 The Audi Q6 e-tron1 is positioned in the premium midsize segment and, with a length of 4,771 millimeters (15.6 ft), a width of 1,993 millimeters (6.5 ft) and a height of 1,648 millimeters (5.4 ft), the SUV offers maximum space, comfort and suitability for everyday use. The wheelbase of 2,899 millimeters (9.5 ft) allows plenty of legroom in the second row of seats. With these dimensions, the Audi Q6 e-tron1 offers sufficient space for five passengers and luggage and offers high utility value. Audi thus fulfills the requirements customers place on an SUV.
 
 The Audi Q6 e-tron1 comes with perfect proportions thanks to the Premium Platform Electric. The ratio of a long wheelbase to very short overhangs forms the basis for the familiar powerful, dynamic package seen in the exterior of Audi's Q models. The Audi Q6 e-tron1 also embodies the further developed e-tron-specific design language.
@@ -45,7 +47,8 @@ With the second generation of digital OLED rear lights, the Audi Q6 e-tron1 take
 
 The technology, which is debuting in the Audi Q6 e-tron1, also sets new standards in terms of individualization: With a total of up to eight digital light signatures in the redesigned daytime running lights of the Matrix LED headlights and in the digital OLED rear lights 2.0, owners can individualize their Q6 e-tron1 in a completely new way.
 
-A new design philosophy goes into series production with the Q6 e-tron1
+## A new design philosophy goes into series production with the Q6 e-tron
+
 The interior of the Audi Q6 e-tron1 is orientated towards the needs of the user more than ever. The three-dimensional and high-contrast design of the interior deliberately places elements in the foreground or background, creating a spatial architecture that is tailored to the occupants in terms of design and ergonomics. The Audi MMI panoramic display and the MMI passenger display form a visually clear digital stage. The interior emphasizes a homely ambience. The “Softwrap” extends from the doors across the entire cockpit to the center console, creating a homogeneous and enveloping feeling of space. The same colors and high-quality materials, some of which are recycled, can also be found in the seats. The materials used were selected from a functional point of view and at the same time ensure a clear design differentiation between the various vehicle areas in the interior. Comfort-oriented areas are designed with generous surfaces and soft materials. In contrast, the precisely designed control areas in high-quality high-gloss black emphasize the clarity of interaction with the vehicle.
 
 Thanks to the new PPE, which was developed specifically for e-mobility, the vehicle has a generous feeling of space and roominess as well as a high level of everyday practicality. The interior offers plenty of storage space and compartments. The increased comfort of the middle seat in the rear is typical of an electric car with a long wheelbase (2,899 millimeters, equivalent to 9.5 ft) and lacking a central tunnel. The trunk offers 526 liters (18.5 cu ft) of storage space. If the rear seat bench is folded down, the storage space increases to up to 1,529 liters (53.9 cu ft). The rear seats can be folded down separately (40:20:40). A further 64 liters (2.2 cu ft) of storage are available in the frunk (front trunk) under the front hood - a convenient place to stow smaller travel bags, for example. As a result, the Audi Q6 e-tron1 offers sufficient space for five passengers and their luggage. With its high utility value, it fulfils the requirements that customers place on an Audi SUV.
@@ -53,7 +56,8 @@ Thanks to the new PPE, which was developed specifically for e-mobility, the vehi
 E3 1.2 - high-performance and future-oriented electronic architecture
 With the newly developed electronic architecture E3 1.2, customers experience digitalization in the vehicle more directly than ever before. The name E3 stands for End-to-End Electronic Architecture. During development, the overriding goal was to create a future-proof, standardized framework. The function-oriented architecture is based on a new domain computer structure with five high-performance computers (High-Performance Computing Platform, HCP), which control all vehicle functions - from infotainment and driving functions through to semi-automated driving in later evolutionary stages. The most powerful electronic architecture to date in terms of computing power is consistently geared towards customer requirements. One focus of development was on high-performance and secure networking of domain computers, control units, sensors, and actuators in order to master more complex systems and maintain modularity. In addition, the E3 1.2 is characterized by a high-performance and seamless backend connection for Car-to-X swarm data applications and computationally intensive offboard functions. It is debuting in the Audi Q6 e-tron1, designed to be used across models, and forms the basis for future innovations.
 
-Digital Stage: new display and operating concept
+## Digital Stage: new display and operating concept
+
 The Audi Q6 e-tron model series has a fully connected and digital interior based on the new electronic architecture. Made up by the Audi MMI panoramic display and the MMI passenger display, the so-called Digital Stage is a key feature of the interior. The clearly grouped displays are perfectly integrated into the design concept and give the interior a generous and airy feeling of space. The slim, free-standing Audi MMI panoramic display has a curved design and OLED technology and consists of the 11.9-inch Audi virtual cockpit and the 14.5-inch MMI touch display. The driver's area is designed as a curve and the display with its concave shape is oriented towards the driver. The contours of the curved display are also reminiscent of the single frame typical of Audi. The ambient lighting makes the Curved Display seem to float at night and creates a suitable setting. Especially for the front passengers, Audi complements the digital stage with the 10.9-inch MMI front passenger display with Active Privacy Mode, which prevents it from distracting the driver while on the move. This allows the front passenger to stream films/video content, assist with navigation, or even find a charging station for example.
 
 With the optional Augmented Reality Head-Up Display, another central element of the digital stage, Audi is taking a major step forward in display technology. It reflects a large tilted image plane across the windshield towards the driver and shows relevant information such as speed, traffic signs, assistance, and navigation symbols. The image plane is tilted forwards to enhance the augmented reality impression. The focus of the human eye moves with it. This process and the far virtual distance of the image create the impression that the elements shown are floating up to 200 meters (656 ft) away. Virtual content is thus seamlessly integrated into reality.
@@ -62,7 +66,8 @@ The information can be understood quickly without irritating or distracting the 
 
 Audi's self-learning voice assistant, the Audi Assistant, can be used to control numerous vehicle functions. The digital assistant with AI support is deeply integrated into the vehicle and, for the first time, is displayed using an avatar in the central touch display of the MMI and in the augmented reality head-up display. The new voice assistant understands more than 800 voice commands. It can also be activated via various touchpoints and via the myAudi app, for example. The voice assistant learns continuously based on user behavior and thus provides support to the person driving. This support can be grouped into three categories: proactive suggestions (context information is used to proactively suggest functions for activation based on this data), smart routines (automatically recognizes recurring operating sequences, such as using the seat climate control from certain outside temperatures) and intelligent lists (such as call lists). The spoken commands are also shown on the display (see-what-you-speak principle). The assistant constantly learns from user behavior and thus supports the driver.
 
-Infotainment – integrates customers’ digital world
+## Infotainment – integrates customers’ digital world
+
 The new infotainment system uses Android Automotive OS as its operating system for the first time. Content is always up to date thanks to over-the-air updates. The latest Audi connect services and the enhanced e-tron route planner, included as standard, are therefore always up to date. Apps such as YouTube are available via the store for third-party apps, which is integrated directly into the MMI and does not require a smartphone.
 
 The store gives customers access to a wide range of apps. Applications from categories including the following are available at launch: Music, video, gaming, navigation, parking & charging, productivity, weather, and news services. The store is constantly being expanded and the app portfolio is market-specific.
@@ -83,33 +88,32 @@ Relating to the driver assistance systems of the new Q6 e-tron1, Audi provides a
 
 Rear parking assistance, cruise control, lane departure warning, efficiency assist, active front assist and a distraction and drowsiness warning system are all on board as standard from launch. Customers have the option of further assistance systems and a safety package as part of various equipment packages.
 
-Materials from recycling processes
+## Materials from recycling processes
+
 Materials prepared using recycling processes reduce the use of primary resources in the production of the Q6 e-tron1 and ensure a closed and therefore efficient and sustainable material cycle. In addition to materials made from recycled polyester, the plastic components typical of electric models such as the frunk and the adjacent covers in the front section of the Q6 e-tron1 are also made from recycled material. This also applies to the covers below the windshield and over the HVAC intake.
 
 To produce the steel required for the outer roof section of all Q6 e-tron models, Audi uses scrap steel, some of which comes from end-of-life vehicles previously in use by customers. The proportion of scrap used in steel production averages up to 15 percent (mass balance approach based on currently planned production figures). This component is a good example of how Audi intends to use more post-consumer secondary materials in its products in the future.
 
-Sustainable and flexible: production of the Audi Q6 e-tron
-1
+## Sustainable and flexible: production of the Audi Q6 e-tron
 
 The Q6 e-tron model family, the first all-electric model series produced at the Ingolstadt plant, stands for Audi's commitment to sustainability, from production to product. The company is gradually refitting all production sites for the manufacture of all-electric models instead of building new ones. In line with the early decision to phase out the combustion engine, Audi has also intensively promoted the transformation of its employees and trained the workforce for fields of the future, for example in the new battery assembly plant in Ingolstadt. The brand with the four rings is thus increasing vertical integration and bringing important skills to the sites. At the same time, Audi is creating new job opportunities.
 
 In order to produce the Q6 e-tron series sustainably and efficiently, Audi uses existing structures and systems. The brand seamlessly integrates the model series into existing assembly lines, such as the body shop for the PPE. The bodies for the PPE models are produced at the Ingolstadt plant in a building covering around 148,000 square meters (almost 1,600,000 sq ft). The bodywork components for the Q6 e-tron series are made by 328 employees per shift and 1,150 robots with a degree of automation of 87 percent.
 
 
-
-
 ## Videos
 
-Below you will find some videoes of the new models. In addition, you will find more in the [multimedia section](../../models/q6-e-tron/multimedia) for the Audi Q8 e-tron.
+Below you will find some videoes of the new models. In addition, you will find more in the [multimedia section](../../models/q6-e-tron/multimedia) for the Audi Q6 e-tron.
 
-{{< youtube YSAK8VM5aVE >}}
+### Audi Q6 e tron – Design – Animation
 
-### Audi Q8 e-tron 55 s-line in Chronos grey
+{{< youtube k7_USzuIDLU >}}
 
-{{< youtube fVh8KrTPEJU >}}
+### Audi Q6 e tron – New display operating concept – Animation
 
-### Audi SQ8 e-tron in ultra blue
+{{< youtube VSARj5tSvPc >}}
 
-{{< youtube VQIl8BN30uM >}}
+### Audi Q6 e-tron final REVEAL of the Porsche Macan EV brother
 
-## WORLD PREMIERE! 2023 AUDI SQ8 E-TRON SPORTBACK - NEW NAME & LOOK, WAY BIGGER RANGE AND BATTERY
+{{< youtube BucVRnrE2qM >}}
+
