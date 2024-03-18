@@ -47,6 +47,9 @@ modellene ha et WLTP-forbruk på mellom 18,4 og 17,5 kWh per 100 km.
 Audi Q6 e-tron vil gjøre akselerasjonen fra 0 til 100 km/h på 5,9 sekunder. Tilsvarende
 for SQ6 er 4,3 sekunder. Toppfarten er respektive 210 km/h og 230 km/h.
 
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/plasmablue_1_st.jpg" width="3000" height="2250" title="Plasma blå Audi Q6 e-tron " >}}
+
+
 ## Nyskapende ladeteknologi
 
 Takket være 800-volt-teknologi og en maksimal ladeeffekt på 270 kW som standard, vil
