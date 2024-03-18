@@ -8,6 +8,9 @@ weight: 1
 
 Each seat type have different seat materials in different colors to choose from. Making it possible to configure the interior just as you like it.
 
+{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/seatsdesigns_1_st.jpg" width="3000" height="2249" title="Seats design Audi Q6 - Standard, Sport and Sport plus" >}}
+
+
 ## Seat functionality
 
 
@@ -102,7 +105,7 @@ With the optional massage function, the user can select from three different int
         <td>Driver seat memory</td>
         <td>?</td>
         <td>?</td>
-        <td>?</td>
+        <td>Standard</td>
     </tr>
      <tr>
         <td>Passenger seat memory</td>
@@ -112,13 +115,13 @@ With the optional massage function, the user can select from three different int
     </tr>
          <tr>
         <td>Front seat ventilation</td>
-        <td>?</td>
+        <td>N/A</td>
         <td>Option</td>
         <td>Option</td>
     </tr>
     <tr>
         <td>Front seat massage</td>
-        <td>?</td>
+        <td>N/A</td>
         <td>Option</td>
         <td>Option</td>
     </tr>
