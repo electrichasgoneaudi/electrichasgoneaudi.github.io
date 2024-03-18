@@ -288,7 +288,7 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
     <tr>
         <td>WLTP Range basic trim </td>
         <td>523 km</td>
-        <td>625 km</td>
+        <td>619 km</td>
         <td>582 km</td>
     </tr>
     <tr>
@@ -516,7 +516,7 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
     <tr>
         <td>Heated steering wheel </td>
         <td><a href="../../q4-e-tron/interior/steeringwheels">ekstrautstyr</a></td>
-        <td><a href="../../q6-e-tron/interior/steeringwheels">ekstrautstyr</a></td>
+        <td><a href="../../q6-e-tron/interior/steeringwheels">standard</a></td>
       <td><a href="../../q8-e-tron/interior/steeringwheels/">ekstrautstyr</a></td>
     </tr>
     <tr>
@@ -570,7 +570,7 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
     <tr>
         <td>Adaptive Cruise control with speed limiter</td>
         <td><a href="../../q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/">ekstrautstyr</a></td>
-        <td><a href="../../q6-e-tron/technology/drivingassistance/adaptivecruisecontrol/">ekstrautstyr</a></td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/adaptivecruisecontrol/">standard</a></td>
         <td><a href="../../q8-e-tron/technology/drivingassistance/adaptivecruisecontrol/">ekstrautstyr</a></td>
     </tr>
     <tr>
