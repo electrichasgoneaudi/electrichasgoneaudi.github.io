@@ -234,7 +234,7 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
     <tr>
         <td>Adaptive Air suspension</td>
         <td>N/A </td>
-        <td><a href="../../q8-e-tron/drivetrain/suspension/">option</a></td>
+        <td><a href="../../q8-e-tron/drivetrain/suspension/">ekstrautstyr</a></td>
         <td><a href="../../q8-e-tron/drivetrain/suspension/">standard</a></td>
     </tr>
     <tr>
@@ -245,7 +245,7 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
     </tr>
     <tr>
         <td>Audi drive select</td>
-        <td><a href="../../q4-e-tron/technology/audidriveselect/">option</a> </td>
+        <td><a href="../../q4-e-tron/technology/audidriveselect/">ekstrautstyr</a> </td>
         <td><a href="../../q6-e-tron/technology/audidriveselect/">standard</a</td>
         <td><a href="../../q8-e-tron/technology/audidriveselect/">standard</a></td>
     </tr>
@@ -319,7 +319,7 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
         <td>Roof rails </td>
         <td><a href="../../q4-e-tron/transportation/#roof-storage">standard</a> </td>
          <td><a href="../../q6-e-tron/transportation/#roof-storage">standard</a></td>
-        <td><a href="../../q8-e-tron/transportation/#roof-storage">option</a></td>
+        <td><a href="../../q8-e-tron/transportation/#roof-storage">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Max roof weight</td>
@@ -443,13 +443,13 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
     </tr>
     <tr>
         <td>Tire repair set</td>
-        <td>option</td>
+        <td>ekstrautstyr</td>
          <td>?</td>
         <td>standard</td>
     </tr>
     <tr>
         <td>Virtual Cockpit</td>
-        <td><a href="../../q4-e-tron/technology/uiandoperations/virtualcockpit/">option</a> </td>
+        <td><a href="../../q4-e-tron/technology/uiandoperations/virtualcockpit/">ekstrautstyr</a> </td>
          <td>?</td>
         <td><a href="../../q8-e-tron/technology/uiandoperations/virtualcockpit/">standard</a></td>
     </tr>
@@ -467,9 +467,9 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
     </tr>
      <tr>
         <td>Virtual Cockpit plus </td>
-        <td><a href="../../q4-e-tron/technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus">option</a> </td>
+        <td><a href="../../q4-e-tron/technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus">ekstrautstyr</a> </td>
         <td><a href="../../q6-e-tron/technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus">standard</a></td>
-        <td><a href="../../q8-e-tron/technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus">option</a></td>
+        <td><a href="../../q8-e-tron/technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Audi MMI System </td>
@@ -479,7 +479,7 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
     </tr>
         <tr>
         <td>MMI Navigation Plus</td>
-        <td><a href="../../q4-e-tron/technology/uiandoperations/navigation">option</a> </td>
+        <td><a href="../../q4-e-tron/technology/uiandoperations/navigation">ekstrautstyr</a> </td>
          <td>?</td>
         <td><a href="../../q8-e-tron/technology/uiandoperations/navigation/">standard</a></td>
     </tr>
@@ -497,33 +497,33 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
     </tr>
     <tr>
         <td>Audi Smartphone Interface</td>
-        <td><a href="../../q4-e-tron/technology/uiandoperations/smartphoneinterface/">option</a> </td>
+        <td><a href="../../q4-e-tron/technology/uiandoperations/smartphoneinterface/">ekstrautstyr</a> </td>
          <td><a href="../../q6-e-tron/technology/uiandoperations/smartphoneinterface/">standard</a></td>
-        <td><a href="../../q8-e-tron/technology/uiandoperations/smartphoneinterface/">option</a></td>
+        <td><a href="../../q8-e-tron/technology/uiandoperations/smartphoneinterface/">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Adaptive whipers</td>
         <td>N/A</td>
         <td>N/A</td>
-        <td><a href="../../q8-e-tron/technology/wipers/">option</a></td>
+        <td><a href="../../q8-e-tron/technology/wipers/">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Heated front window </td>
-        <td><a href="../../q4-e-tron/exterior/windows/#heated-and-acoustic-front-window">option</a></td>
+        <td><a href="../../q4-e-tron/exterior/windows/#heated-and-acoustic-front-window">ekstrautstyr</a></td>
         <td>?</td>
         <td>N/A</td>
     </tr>
     <tr>
         <td>Heated steering wheel </td>
-        <td><a href="../../q4-e-tron/interior/steeringwheels">option</a></td>
-        <td><a href="../../q6-e-tron/interior/steeringwheels">option</a></td>
-      <td><a href="../../q8-e-tron/interior/steeringwheels/">option</a></td>
+        <td><a href="../../q4-e-tron/interior/steeringwheels">ekstrautstyr</a></td>
+        <td><a href="../../q6-e-tron/interior/steeringwheels">ekstrautstyr</a></td>
+      <td><a href="../../q8-e-tron/interior/steeringwheels/">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Heated front seats</td>
-        <td><a href="../../q4-e-tron/interior/seats">option</a></td>
-        <td><a href="../../q6-e-tron/interior/seats">option</a></td>
-      <td><a href="../../q8-e-tron/interior/seats/">option</a></td>
+        <td><a href="../../q4-e-tron/interior/seats">ekstrautstyr</a></td>
+        <td><a href="../../q6-e-tron/interior/seats">ekstrautstyr</a></td>
+      <td><a href="../../q8-e-tron/interior/seats/">ekstrautstyr</a></td>
     </tr>
         <tr>
         <td>Air Condition</td>
@@ -539,7 +539,7 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
     </tr>
     <tr>
         <td> Heatpump</td>
-        <td><a href="../../q4-e-tron/technology/climatecontrol/">option</a></td>
+        <td><a href="../../q4-e-tron/technology/climatecontrol/">ekstrautstyr</a></td>
          <td>?</td>
         <td><a href="../../q8-e-tron/technology/climatecontrol/">standard</a></td>
     </tr>
@@ -547,11 +547,11 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
         <td> Rear window curtains </td>
         <td> N/A </td>
         <td>?</td>
-        <td><a href="../../q8-e-tron/interior/curtain">option</a></td>
+        <td><a href="../../q8-e-tron/interior/curtain">ekstrautstyr</a></td>
     </tr>
      <tr>
         <td>Cruise control</td>
-        <td><a href="../../q4-e-tron/technology/drivingassistance/cruisecontrol/">option</a></td>
+        <td><a href="../../q4-e-tron/technology/drivingassistance/cruisecontrol/">ekstrautstyr</a></td>
         <td>?</td>
         <td><a href="../../q8-e-tron/technology/drivingassistance/cruisecontrol/">standard</a></td>
     </tr>
@@ -563,21 +563,21 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
     </tr>
     <tr>
         <td>Adaptive cruise assist</td>
-        <td><a href="../../q4-e-tron/technology/drivingassistance/adaptivecruiseassist/">option</a></td>
-        <td><a href="../../q6-e-tron/technology/drivingassistance/adaptivecruiseassist/">option</a></td>
-        <td><a href="../../q8-e-tron/technology/drivingassistance/adaptivecruiseassist/">option</a></td>
+        <td><a href="../../q4-e-tron/technology/drivingassistance/adaptivecruiseassist/">ekstrautstyr</a></td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/adaptivecruiseassist/">ekstrautstyr</a></td>
+        <td><a href="../../q8-e-tron/technology/drivingassistance/adaptivecruiseassist/">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Adaptive Cruise control with speed limiter</td>
-        <td><a href="../../q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/">option</a></td>
-        <td><a href="../../q6-e-tron/technology/drivingassistance/adaptivecruisecontrol/">option</a></td>
-        <td><a href="../../q8-e-tron/technology/drivingassistance/adaptivecruisecontrol/">option</a></td>
+        <td><a href="../../q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/">ekstrautstyr</a></td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/adaptivecruisecontrol/">ekstrautstyr</a></td>
+        <td><a href="../../q8-e-tron/technology/drivingassistance/adaptivecruisecontrol/">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Pre Sense Basic</td>
-        <td><a href="../../q4-e-tron/technology/drivingassistance/presensebasic/">option</a></td>
+        <td><a href="../../q4-e-tron/technology/drivingassistance/presensebasic/">ekstrautstyr</a></td>
         <td>?</td>
-        <td><a href="../../q8-e-tron/technology/drivingassistance/presensebasic/">option</a></td>
+        <td><a href="../../q8-e-tron/technology/drivingassistance/presensebasic/">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Pre Sense front</td>
@@ -587,15 +587,15 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
     </tr>
     <tr>
         <td>Pre Sense rear </td>
-        <td><a href="../../q4-e-tron/technology/drivingassistance/presenserear/">option</a></td>
-        <td><a href="../../q6-e-tron/technology/drivingassistance/presenserear/">option</a></td>
-        <td><a href="../../q8-e-tron/technology/drivingassistance/presenserear/">option</a></td>
+        <td><a href="../../q4-e-tron/technology/drivingassistance/presenserear/">ekstrautstyr</a></td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/presenserear/">ekstrautstyr</a></td>
+        <td><a href="../../q8-e-tron/technology/drivingassistance/presenserear/">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Pre Sense side</td>
         <td>N/A</td>
         <td>?</td>
-        <td><a href="../../q8-e-tron/technology/drivingassistance/presenseside/">option</a></td>
+        <td><a href="../../q8-e-tron/technology/drivingassistance/presenseside/">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Effiency assist</td>
@@ -613,13 +613,13 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
         <td>Night Vision</td>
         <td>N/A</td>
         <td>N/A</td>
-        <td><a href="../../q8-e-tron/technology/drivingassistance/nightvision/">option</a></td>
+        <td><a href="../../q8-e-tron/technology/drivingassistance/nightvision/">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Head up display</td>
-        <td><a href="../../q4-e-tron/technology/uiandoperations/headupdisplay/">option</a></td>
-        <td><a href="../../q6-e-tron/technology/uiandoperations/headupdisplay/">option</a></td>
-        <td><a href="../../q8-e-tron/technology/uiandoperations/headupdisplay/">option</a></td>
+        <td><a href="../../q4-e-tron/technology/uiandoperations/headupdisplay/">ekstrautstyr</a></td>
+        <td><a href="../../q6-e-tron/technology/uiandoperations/headupdisplay/">ekstrautstyr</a></td>
+        <td><a href="../../q8-e-tron/technology/uiandoperations/headupdisplay/">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Speed limiter </td>
@@ -630,62 +630,62 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
         <tr>
         <td>Park assist</td>
            <td>N/A</td>
-       <td><a href="../../q6-e-tron/technology/drivingassistance/parkassist/">option</a></td>
-       <td><a href="../../q8-e-tron/technology/drivingassistance/parkassist/">option</a></td>
+       <td><a href="../../q6-e-tron/technology/drivingassistance/parkassist/">ekstrautstyr</a></td>
+       <td><a href="../../q8-e-tron/technology/drivingassistance/parkassist/">ekstrautstyr</a></td>
     </tr>
         <tr>
         <td>Cross traffic assist rear </td>
-        <td><a href="../../q4-e-tron/technology/drivingassistance/crosstrafficassistrear/">option</a></td>
-        <td><a href="../../q6-e-tron/technology/drivingassistance/crosstrafficassistrear/">option</a></td>
-        <td><a href="../../q8-e-tron/technology/drivingassistance/crosstrafficassistrear/">option</a></td>
+        <td><a href="../../q4-e-tron/technology/drivingassistance/crosstrafficassistrear/">ekstrautstyr</a></td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/crosstrafficassistrear/">ekstrautstyr</a></td>
+        <td><a href="../../q8-e-tron/technology/drivingassistance/crosstrafficassistrear/">ekstrautstyr</a></td>
     </tr>
         <tr>
         <td>Exit warning</td>
-        <td><a href="../../q4-e-tron/technology/drivingassistance/exitwarning/">option</a></td>
-        <td><a href="../../q6-e-tron/technology/drivingassistance/exitwarning/">option</a></td>
-        <td><a href="../../q8-e-tron/technology/drivingassistance/exitwarning/">option</a></td>
+        <td><a href="../../q4-e-tron/technology/drivingassistance/exitwarning/">ekstrautstyr</a></td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/exitwarning/">ekstrautstyr</a></td>
+        <td><a href="../../q8-e-tron/technology/drivingassistance/exitwarning/">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Collision avoidance assist</td>
-        <td><a href="../../q4-e-tron/technology/drivingassistance/collisionavoidanceassist/">option</a></td>
-        <td><a href="../../q6-e-tron/technology/drivingassistance/collisionavoidanceassist/">option</a></td>
-        <td><a href="../../q8-e-tron/technology/drivingassistance/collisionavoidanceassist/">option</a></td>
+        <td><a href="../../q4-e-tron/technology/drivingassistance/collisionavoidanceassist/">ekstrautstyr</a></td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/collisionavoidanceassist/">ekstrautstyr</a></td>
+        <td><a href="../../q8-e-tron/technology/drivingassistance/collisionavoidanceassist/">ekstrautstyr</a></td>
     </tr>
         <tr>
         <td>Audi side assist</td>
-        <td><a href="../../q4-e-tron/technology/drivingassistance/sideassist/">option</a></td>
-        <td><a href="../../q6-e-tron/technology/drivingassistance/sideassist/">option</a></td>
-        <td><a href="../../q8-e-tron/technology/drivingassistance/sideassist/">option</a></td>
+        <td><a href="../../q4-e-tron/technology/drivingassistance/sideassist/">ekstrautstyr</a></td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/sideassist/">ekstrautstyr</a></td>
+        <td><a href="../../q8-e-tron/technology/drivingassistance/sideassist/">ekstrautstyr</a></td>
     </tr>
         <tr>
         <td>360 degree cameras</td>
-        <td><a href="../../q4-e-tron/technology/drivingassistance/360camera/">option</a></td>
-        <td><a href="../../q6-e-tron/technology/drivingassistance/360camera/">option</a></td>
-        <td><a href="../../q8-e-tron/technology/drivingassistance/360camera/">option</a></td>
+        <td><a href="../../q4-e-tron/technology/drivingassistance/360camera/">ekstrautstyr</a></td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/360camera/">ekstrautstyr</a></td>
+        <td><a href="../../q8-e-tron/technology/drivingassistance/360camera/">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Reversing camera</td>
-        <td><a href="../../q4-e-tron/technology/drivingassistance/reversingcamera/">option</a></td>
+        <td><a href="../../q4-e-tron/technology/drivingassistance/reversingcamera/">ekstrautstyr</a></td>
         <td><a href="../../q6-e-tron/technology/drivingassistance/360camera">standard</a></td>
-        <td><a href="../../q8-e-tron/technology/drivingassistance/360camera">option</a></td>
+        <td><a href="../../q8-e-tron/technology/drivingassistance/360camera">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Crossing/intersection assist</td>
         <td> N/A </td>
-        <td><a href="../../q6-e-tron/technology/drivingassistance/crossingassist">option</a></td>
-        <td><a href="../../q8-e-tron/technology/drivingassistance/crossingassist">option</a></td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/crossingassist">ekstrautstyr</a></td>
+        <td><a href="../../q8-e-tron/technology/drivingassistance/crossingassist">ekstrautstyr</a></td>
     </tr>
         <tr>
         <td>Turn assist</td>
-        <td><a href="../../q4-e-tron/technology/drivingassistance/turnassist/">option</a></td>
-        <td><a href="../../q6-e-tron/technology/drivingassistance/turnassist/">option</a></td>
-        <td><a href="../../q8-e-tron/technology/drivingassistance/turnassist/">option</a></td>
+        <td><a href="../../q4-e-tron/technology/drivingassistance/turnassist/">ekstrautstyr</a></td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/turnassist/">ekstrautstyr</a></td>
+        <td><a href="../../q8-e-tron/technology/drivingassistance/turnassist/">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Traffic sign recognition</td>
-        <td><a href="../../q4-e-tron/technology/drivingassistance/trafficsignrecognition/">option</a></td>
-        <td><a href="../../q6-e-tron/technology/drivingassistance/trafficsignrecognition/">option</a></td>
-        <td><a href="../../q8-e-tron/technology/drivingassistance/trafficsignrecognition/">option</a></td>
+        <td><a href="../../q4-e-tron/technology/drivingassistance/trafficsignrecognition/">ekstrautstyr</a></td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/trafficsignrecognition/">ekstrautstyr</a></td>
+        <td><a href="../../q8-e-tron/technology/drivingassistance/trafficsignrecognition/">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Creep mode</td>
@@ -696,39 +696,39 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
     </tr>
         <tr>
         <td>HD Matrix</td>
-        <td><a href="../../q8-e-tron/technology/lights/#hd-matrix-led-headlights">option</a></td>
-        <td><a href="../../q6-e-tron/technology/lights/#hd-matrix-led-headlights">option</a></td>
-        <td><a href="../../q4-e-tron/technology/lights/#hd-matrix-led-headlights">option</a></td>
+        <td><a href="../../q8-e-tron/technology/lights/#hd-matrix-led-headlights">ekstrautstyr</a></td>
+        <td><a href="../../q6-e-tron/technology/lights/#hd-matrix-led-headlights">ekstrautstyr</a></td>
+        <td><a href="../../q4-e-tron/technology/lights/#hd-matrix-led-headlights">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Digital HD Matrix</td>
         <td>N/A </td>
         <td>N/A</td>
-        <td><a href="../../q8-e-tron/technology/lights/#digital-matrix-led-headlights">option</a></td>
+        <td><a href="../../q8-e-tron/technology/lights/#digital-matrix-led-headlights">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Headlight washer</td>
-        <td><a href="../../q4-e-tron/technology/lights/">option</a></td>
+        <td><a href="../../q4-e-tron/technology/lights/">ekstrautstyr</a></td>
         <td>N/A</td>
         <td><a href="../../q8-e-tron/technology/lights/">standard</a></td>
     </tr>
     <tr>
         <td>Rear light strip </td>
-        <td><a href="../../q4-e-tron/technology/lights/">option</a></td>
-        <td><a href="../../q6-e-tron/technology/lights/">option</a></td>
+        <td><a href="../../q4-e-tron/technology/lights/">ekstrautstyr</a></td>
+        <td><a href="../../q6-e-tron/technology/lights/">ekstrautstyr</a></td>
         <td><a href="../../q8-e-tron/technology/lights/">standard</a></td>
     </tr>
     <tr>
         <td>Dynamic lightning</td>
-        <td><a href="../../q4-e-tron/technology/lights/">option</a></td>
-        <td><a href="../../q6-e-tron/technology/lights/">option</a></td>
-        <td><a href="../../q8-e-tron/technology/lights/">option</a></td>
+        <td><a href="../../q4-e-tron/technology/lights/">ekstrautstyr</a></td>
+        <td><a href="../../q6-e-tron/technology/lights/">ekstrautstyr</a></td>
+        <td><a href="../../q8-e-tron/technology/lights/">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Entry lights</td>
-        <td>option</td>
+        <td>ekstrautstyr</td>
         <td>?</td>
-        <td>option</td>
+        <td>ekstrautstyr</td>
     </tr>
     <tr>
         <td>Electric adjustable mirrors</td>
@@ -738,55 +738,55 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
     </tr>   
     <tr>
         <td>Mirrors with memory</td>
-        <td><a href="../../q4-e-tron/exterior/mirrors/">option</a></td>
-        <td><a href="../../q6-e-tron/exterior/mirrors/">option</a></td>
-        <td><a href="../../q8-e-tron/exterior/mirrors/">option</a></td>
+        <td><a href="../../q4-e-tron/exterior/mirrors/">ekstrautstyr</a></td>
+        <td><a href="../../q6-e-tron/exterior/mirrors/">ekstrautstyr</a></td>
+        <td><a href="../../q8-e-tron/exterior/mirrors/">ekstrautstyr</a></td>
     </tr>
      <tr>
         <td>Auto dimming mirrors</td>
-        <td><a href="../../q4-e-tron/exterior/mirrors/">option</a></td>
-        <td><a href="../../q6-e-tron/exterior/mirrors/">option</a></td>
-        <td><a href="../../q8-e-tron/exterior/mirrors/">option</a></td>
+        <td><a href="../../q4-e-tron/exterior/mirrors/">ekstrautstyr</a></td>
+        <td><a href="../../q6-e-tron/exterior/mirrors/">ekstrautstyr</a></td>
+        <td><a href="../../q8-e-tron/exterior/mirrors/">ekstrautstyr</a></td>
     </tr>
      <tr>
         <td>Virtual mirrors</td>
         <td>N/A </td>
         <td>N/A</td>
-        <td><a href="../../q8-e-tron/exterior/mirrors/">option</a></td>
+        <td><a href="../../q8-e-tron/exterior/mirrors/">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Homelink garage door opener </td>
-        <td><a href="../../q4-e-tron/technology/garagedooropener/">option</a></td>
-        <td><a href="../../q6-e-tron/technology/garagedooropener/">option</a></td>
-        <td><a href="../../q8-e-tron/technology/garagedooropener/">option</a></td>
+        <td><a href="../../q4-e-tron/technology/garagedooropener/">ekstrautstyr</a></td>
+        <td><a href="../../q6-e-tron/technology/garagedooropener/">ekstrautstyr</a></td>
+        <td><a href="../../q8-e-tron/technology/garagedooropener/">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Audi phone box </td>
-        <td><a href="../../q4-e-tron/technology/phonebox/">option</a></td>
+        <td><a href="../../q4-e-tron/technology/phonebox/">ekstrautstyr</a></td>
         <td><a href="../../q6-e-tron/technology/phonebox/">standard</a></td>
-        <td><a href="../../q8-e-tron/technology/phonebox/">option</a></td>
+        <td><a href="../../q8-e-tron/technology/phonebox/">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Ventilated seats </td>
         <td>N/A</td>
-        <td><a href="../../q6-e-tron/interior/seats/#ventilated-seats">option</a></td>
-        <td><a href="../../q8-e-tron/interior/seats/#ventilated-seats">option</a></td>
+        <td><a href="../../q6-e-tron/interior/seats/#ventilated-seats">ekstrautstyr</a></td>
+        <td><a href="../../q8-e-tron/interior/seats/#ventilated-seats">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Massage seats </td>
         <td>N/A</td>
-        <td><a href="../../q6-e-tron/interior/seats/#massage">option</a></td>
-        <td><a href="../../q8-e-tron/interior/seats/#massage">option</a></td>
+        <td><a href="../../q6-e-tron/interior/seats/#massage">ekstrautstyr</a></td>
+        <td><a href="../../q8-e-tron/interior/seats/#massage">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Powered steering wheel adjustment </td>
         <td>N/A</td>
-        <td><a href="../../q6-e-tron/interior/steeringwheels/#adjustment">option</a></td>
-        <td><a href="../../q8-e-tron/interior/steeringwheels/#adjustment">option</a></td>
+        <td><a href="../../q6-e-tron/interior/steeringwheels/#adjustment">ekstrautstyr</a></td>
+        <td><a href="../../q8-e-tron/interior/steeringwheels/#adjustment">ekstrautstyr</a></td>
     </tr>
         <tr>
         <td>Powered tailgate</td>
-        <td><a href="../../q4-e-tron/exterior/doors/">option</a></td>
+        <td><a href="../../q4-e-tron/exterior/doors/">ekstrautstyr</a></td>
         <td><a href="../../q6-e-tron/exterior/doors/">standard</a></td>
         <td><a href="../../q8-e-tron/exterior/doors/">standard</a></td>
     </tr>
@@ -798,33 +798,33 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
     </tr>
         <tr>
         <td>Keyless Entry</td>
-        <td><a href="../../q4-e-tron/technology/lockingsystems/">option</a></td>
-        <td><a href="../../q6-e-tron/technology/lockingsystems/">option</a></td>
-        <td><a href="../../q8-e-tron/technology/lockingsystems/">option</a></td>
+        <td><a href="../../q4-e-tron/technology/lockingsystems/">ekstrautstyr</a></td>
+        <td><a href="../../q6-e-tron/technology/lockingsystems/">ekstrautstyr</a></td>
+        <td><a href="../../q8-e-tron/technology/lockingsystems/">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Theft Alarm </td>
-        <td><a href="../../q4-e-tron/technology/lockingsystems/">option</a></td>
-        <td><a href="../../q6-e-tron/technology/lockingsystems/">option</a></td>
-        <td><a href="../../q8-e-tron/technology/lockingsystems/">option</a></td>
+        <td><a href="../../q4-e-tron/technology/lockingsystems/">ekstrautstyr</a></td>
+        <td><a href="../../q6-e-tron/technology/lockingsystems/">ekstrautstyr</a></td>
+        <td><a href="../../q8-e-tron/technology/lockingsystems/">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Kick sensor</td>
-        <td><a href="../../q4-e-tron/exterior/doors/">option</a></td>
-        <td><a href="../../q6-e-tron/exterior/doors/">option</a></td>
-        <td><a href="../../q8-e-tron/exterior/doors/">option</a></td>
+        <td><a href="../../q4-e-tron/exterior/doors/">ekstrautstyr</a></td>
+        <td><a href="../../q6-e-tron/exterior/doors/">ekstrautstyr</a></td>
+        <td><a href="../../q8-e-tron/exterior/doors/">ekstrautstyr</a></td>
     </tr>
      <tr>
         <td>Audi connect key</td>
         <td>N/A</td>
         <td>N/A?</td>
-        <td><a href="../../q8-e-tron/technology/lockingsystems/#audi-connect-key-2f1">option</a></td>
+        <td><a href="../../q8-e-tron/technology/lockingsystems/#audi-connect-key-2f1">ekstrautstyr</a></td>
     </tr>
          <tr>
         <td>Air quality package</td>
         <td>N/A</td>
         <td>N/A</td>
-        <td><a href="../../q8-e-tron/technology/airquality/">option</a></td>
+        <td><a href="../../q8-e-tron/technology/airquality/">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td> Standard colors </td>
@@ -835,32 +835,32 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
         <tr>
         <td> Audi exclusive colors </td>
         <td>N/A</td>
-        <td><a href="../../q8-e-tron/exterior/paint">Option</a></td>
-        <td><a href="../../q8-e-tron/exterior/paint">Option</a></td>
+        <td><a href="../../q8-e-tron/exterior/paint">ekstrautstyr</a></td>
+        <td><a href="../../q8-e-tron/exterior/paint">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Black optics</td>
-       <td><a href="../../q4-e-tron/exterior/optics/">option</a></td>
+       <td><a href="../../q4-e-tron/exterior/optics/">ekstrautstyr</a></td>
         <td>?</td>
-        <td><a href="../../q8-e-tron/exterior/optics/">option</a></td>
+        <td><a href="../../q8-e-tron/exterior/optics/">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Privacy windows</td>
-       <td><a href="../../q4-e-tron/exterior/windows/">option</a></td>
-        <td><a href="../../q6-e-tron/exterior/windows/">option</a></td>
-        <td><a href="../../q8-e-tron/exterior/windows/">option</a></td>
+       <td><a href="../../q4-e-tron/exterior/windows/">ekstrautstyr</a></td>
+        <td><a href="../../q6-e-tron/exterior/windows/">ekstrautstyr</a></td>
+        <td><a href="../../q8-e-tron/exterior/windows/">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>S-line exterior</td>
-       <td><a href="../../q8-e-tron/exterior/s-line">option</a></td>
-        <td><a href="../../q6-e-tron/exterior/s-line/">option</a></td>
-        <td><a href="../../q8-e-tron/exterior/s-line/">option</a></td>
+       <td><a href="../../q8-e-tron/exterior/s-line">ekstrautstyr</a></td>
+        <td><a href="../../q6-e-tron/exterior/s-line/">ekstrautstyr</a></td>
+        <td><a href="../../q8-e-tron/exterior/s-line/">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>S-line interior</td>
-       <td><a href="../../q8-e-tron/interior/sline/">option</a></td>
-          <td><a href="../../q6-e-tron/interior/sline/">option</a></td>
-        <td><a href="../../q8-e-tron/interior/sline/">option</a></td>
+       <td><a href="../../q8-e-tron/interior/sline/">ekstrautstyr</a></td>
+          <td><a href="../../q6-e-tron/interior/sline/">ekstrautstyr</a></td>
+        <td><a href="../../q8-e-tron/interior/sline/">ekstrautstyr</a></td>
     </tr>
     <tr>
         <td>Premium Sound system</td>

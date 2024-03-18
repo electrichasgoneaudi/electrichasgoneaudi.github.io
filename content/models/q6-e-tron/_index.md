@@ -13,12 +13,7 @@ Audi built the Q6 e-tron on the new [PPE platform](../../technology/bev-platform
 
 If you want to discuss this model with the electrichasgoneaudi community, join our [Audi Q6 e-tron Facebook group](https://www.facebook.com/groups/114120244068685). 
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_1_st.jpg" class="img-fluid" alt="Audi Q6 prototype testdrive" title="Audi Q6 prototype testdrive">
-    </a>
-    <figcaption><h4>Audi Q6 prototype testdrive</h4></figcaption>
-</figure>
+{{< sitefiguresized thumb="models/q6-e-tron/q6dynamic_1_st.jpg" width="3000" height="1999" title="Audi SQ6 e-tron" >}}
 
 
 ## Audi Q6 e-tron variants.

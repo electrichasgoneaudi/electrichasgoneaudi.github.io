@@ -29,3 +29,8 @@ You can store up to 75kg on the roof.
 ## Trailer
 
 The trailer capacity is 2400kg for a braked trailer
+
+
+## Storage overview
+
+{{< sitefiguresized thumb="models/q6-e-tron/transportation/storage_1_st.jpg" width="3000" height="1840" title="Storage overview" >}}
