@@ -101,34 +101,24 @@ oppfattes raskt uten at føreren distraheres. Bildeflaten til head-up displayet 
 
 Audis selvlærende stemmeassistent, Audi Assistant, er basert på kunstig intelligens.
 
-For første gang vises denne også som en avatar i bilens sentrale MMI-display og i head-
-up displayet. Stemmeassistenten forstår mer enn 800 talekommandoer. Den aktiveres via flere trykkpunkter – eller via «my Audi»-appen. Assistenten lærer kontinuerlig
-basert på hvordan den brukes, slik at den blir stadig mer personlig tilpasset.
+For første gang vises denne også som en avatar i bilens sentrale MMI-display og i head- up displayet. Stemmeassistenten forstår mer enn 800 talekommandoer. Den aktiveres via flere trykkpunkter – eller via «my Audi»-appen. Assistenten lærer kontinuerlig basert på hvordan den brukes, slik at den blir stadig mer personlig tilpasset.
 
 I tillegg er også tredjepartsapper tilgjengelig via bilens MMI-system direkte, og trenger
 ikke kjøres via en smarttelefon. Bilens app-utvalg vil utvikles kontinuerlig, og også
 tilpasses det området der bilen brukes.
-Audi Q6 e-tron kommer med Bang & Olufsen Premium sound system, med 20
-høyttalere og 830 watt effekt. Fire av høyttalerne er bygget inn i hodestøttene til
-forsetene.
+
+Audi Q6 e-tron kommer med Bang & Olufsen Premium sound system, med 20 høyttalere og 830 watt effekt. Fire av høyttalerne er bygget inn i hodestøttene til forsetene.
 
 ## Neste generasjons OLED-teknologi
 
 Også lysteknologien på Audi Q6 e-tron markerer et viktig teknologiskille. For første
-gang vil de digitale OLED-baklysene kunne kommunisere målrettet med bilens
-
-omgivelser (Car-to-X). Områdevarslingen som er kjent fra andre Audi-modeller er i Q6 e-
-tron utvidet til å inkludere kommunikasjonslysene. Dette varsler medtrafikanter om
-
-ulykker eller farer langs veien. I tillegg til den vanlige baklysgrafikken vil de digitale
-OLED-kommunikasjonslysene vise en egen, statisk lyssignatur med varselsymboler i en
+gang vil de digitale OLED-baklysene kunne kommunisere målrettet med bilens omgivelser (Car-to-X). Områdevarslingen som er kjent fra andre Audi-modeller er i Q6 e-tron utvidet til å inkludere kommunikasjonslysene. Dette varsler medtrafikanter om ulykker eller farer langs veien. I tillegg til den vanlige baklysgrafikken vil de digitale OLED-kommunikasjonslysene vise en egen, statisk lyssignatur med varselsymboler i en
 kritisk kjøre- eller trafikksituasjon.
-Den nye teknologien i Audi Q6 e-tron gir også nye muligheter for individualisering. Med
 
-opptil åtte individuelle lyssignaturer i Matrix LED-frontlyktene og de digitale OLED-
-baklyktene kan eierne gi bilen sitt personlige uttrykk på en helt ny måte.
+Den nye teknologien i Audi Q6 e-tron gir også nye muligheter for individualisering. Med opptil åtte individuelle lyssignaturer i Matrix LED-frontlyktene og de digitale OLED-baklyktene kan eierne gi bilen sitt personlige uttrykk på en helt ny måte.
 
-Presise kjøreegenskaper takket være ny styring og kraftdistribusjon
+## Presise kjøreegenskaper takket være ny styring og kraftdistribusjon
+
 Flere av komponentene i bilens nye understell tar kjøredynamikken til et nytt nivå. Et
 typisk kjennemerke for Audi er overlegen og enkel kontrollerbar akselerasjon og
 bremsing under alle kjøreforhold. Kjøredynamikken til Audi Q6 e-tron har en
@@ -138,6 +128,7 @@ kinematiske egenskaper.
 Tannstangstyringen er nå montert på en hjelperamme. Sammen med den nye
 forakselen gir det forbedret kjøredynamikk og styrerespons, og gjør at bilen føles mer
 agil.
+
 Den raskt regulerbare quattro-teknologien er nå videreutviklet med prioritering av
 dreiemoment bak, som forsterker den dynamiske kjøreopplevelsen i Audi Q6 e-tron.
 Ulike størrelser på de elektriske motorene gir mer kraft til bakhjulene, også ved full
@@ -151,12 +142,11 @@ modell ut fra PPE-plattformen fra Audi er A6 e-tron som har verdenspremiere sene
 tron og SQ6 e-tron inkluderer frakt og leveringsomkostninger i Oslo.
 
 
-
 ## Se alle detaljer i modellseksjonen
 
 I vår modellseksjon for Audi Q8 e-tron finner du all informasjon om utstyr og teknologi.
 
-Hold deg oppdatert med å melde deg inn i vår [Audi Q6 e-tron owners Norway facebookgruppe](https://www.facebook.com/groups/301614688594314)
+Hold deg oppdatert med å melde deg inn i vår [Audi Q6 e-tron owners Norway facebookgruppe](https://www.facebook.com/groups/454688995817417)
 
 [Les alt om Audi Q6 e-tron i modellseksjonen](../../models/q6-e-tron/)
 
