@@ -45,6 +45,8 @@ Black optics and black optics plus packages will be options. Same with tinted wi
 
 There will be wheel options from 19 to 21 inches.
 
+{{< sitefiguresized thumb="models/q6-e-tron/q6exterior_1_st.jpg" width="3000" height="1999" title="Audi SQ6 e-tron" >}}
+
 
 
 ## Interior
@@ -112,12 +114,11 @@ The Audi Q6 e-tron will be available with different seat options. From standard 
 
 The battery in the Q6 e-tron consists of twelve or ten modules with prismatic cells. The nickel, cobalt, and manganese ratio is 8:1:1, and the battery achieves a higher energy density.
 
-We expect the battery with the launch to have the following specifications
+The battery with the launch to have the following specifications
 
 - Twelve modules/180 cells with 100 kWh gross (96.8 kWh net)
-- Ten modules/150 cells with 84.4kWh gross (80.8 kWh net).
 
-These batteries will give the Audi Q6 e-tron a WLTP range of approximately 485-600km, depending on the trim level for the largest battery. (16.2 - 20 kWh/100km)
+These batteries will give the Audi Q6 e-tron a WLTP 625km, depending on the trim level for the largest battery. (15.18 kWh/100km)
 Thanks to 800-volt technology, the Q6 e-tron can be charged with a charging capacity of more than 270kW.  
 
 ![Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/charging_st.jpg "Audi Q6 e-tron prototype charging by Auto Week NL")
@@ -126,7 +127,8 @@ You can charge the battery from five to 80 percent in less than 25 minutes on an
 
 If the station uses 400-volt technology, the Q6 e-tron uses 'bank charging' for the first time, whereby corresponding high-voltage switches (gates) are automatically switched in the battery before the actual charging process begins. This technology effectively splits the 800-volt battery into two batteries with a nominal voltage of 400 volts each that can charge in parallel on one 400-volt charging station without an additional HV booster. The states of charge of the two battery halves are first aligned. This functionality will only be available on the 100kWh battery.
 
-![Battery](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/battery_st.png "Audi Q6 battery with 12 modules and 100kWh gross")
+[Read all about the battery](drivetrain/battery/)
+
 
 ### Motor and performance
 
