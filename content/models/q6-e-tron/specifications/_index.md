@@ -27,18 +27,18 @@ weight: 2
     <tbody>
         <tr>
             <td>Peak electrical output in KW (hp)</td>
+            <td>285</td>
+        </tr>
+        <tr>
+            <td>Peak electrical output boost in kW (hp)</td>
             <td></td>
         </tr>
         <tr>
-            <td> Peak electrical output boost in kW (hp)</td>
+            <td>Continuous electrical output in kW</td>
             <td></td>
         </tr>
         <tr>
-            <td> Continuous electrical output in kW</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td> Electrical torque output in Nm (lb-ft) </td>
+            <td>Electrical torque output in Nm (lb-ft) </td>
             <td></td>
         </tr>
         <tr>
@@ -47,7 +47,7 @@ weight: 2
         </tr>
         <tr>
             <td>0 -100 km/h (62.1 mph) in s </td>
-            <td></td>
+            <td>5.9</td>
         </tr>
         <tr>
             <td>Top speed in km/h (mph)</td>

@@ -1,7 +1,7 @@
 ---
-title: Audi Q8 e-tron nødstoppassistent
+title: Audi Q6 e-tron nødstoppassistent
 linktitle: Nødstoppassistent
-description: Audi Q8 e-tron kan leveres med nødstoppassistent. Nødstoppassistenen oppdager, innenfor systemets grenser, når føreren er inaktiv. I et slikt tilfelle overtar systemet kontroll over kjøretøyet og bremser det automatisk til stillestående i sin egen kjørebane.
+description: Audi Q6 e-tron kan leveres med nødstoppassistent. Nødstoppassistenen oppdager, innenfor systemets grenser, når føreren er inaktiv. I et slikt tilfelle overtar systemet kontroll over kjøretøyet og bremser det automatisk til stillestående i sin egen kjørebane.
 weight: 1
 ---
 

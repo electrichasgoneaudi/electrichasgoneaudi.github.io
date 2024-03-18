@@ -1,5 +1,5 @@
 ---
-title: Audi Q8 e-tron parkeringsassistent
+title: Audi Q6 e-tron parkeringsassistent
 linktitle: Parkeringsassistent
 description: Parkeringsassistent kan automatisk styre bilen inn på parallelle eller vinkelrette parkeringsplasser. Den bruker ultralydsensorer plassert i støtfangerne foran og bak og på sidene. Føreren trenger bare å akselerere, bremse og skifte gir.
 weight: 1

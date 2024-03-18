@@ -1,7 +1,7 @@
 ---
-title: Audi Q8 e-tron pre sense front
+title: Audi Q6 e-tron pre sense front
 linktitle: Pre sense front
-description: Audi Q8 e-tron er utstyrt med Audi pre sense front. Audi pre sense front bruker data fra radarsensorer og/eller frontkameraet, avhengig av bilmodellen, for å beregne sannsynligheten for en kollisjon. Innenfor systemets begrensninger advarer det om kollisjonstrusler og setter i gang bremsing ved spesifikke kjøretøyhastigheter.
+description: Audi Q6 e-tron er utstyrt med Audi pre sense front. Audi pre sense front bruker data fra radarsensorer og/eller frontkameraet, avhengig av bilmodellen, for å beregne sannsynligheten for en kollisjon. Innenfor systemets begrensninger advarer det om kollisjonstrusler og setter i gang bremsing ved spesifikke kjøretøyhastigheter.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
@@ -17,6 +17,6 @@ weight: 1
 
 Hvis en kollisjon er nært forestående, varsler systemet føreren med visuelle, akustiske og haptiske advarsler basert på et flertrinnsvarslingskonsept. Om nødvendig gir systemet bremsehjelp for å redusere kjøretøyets hastighet eller starter en full bremsing for å unngå kollisjonen under visse omstendigheter. Det iverksettes også tiltak for å beskytte beboerne. Varselblinkene er aktivert, setebeltene er reversibelt forspent, seteposisjonen er optimert, og vinduene og valgfri panoramaglasstak lukkes.
 
-Audi pre sense front er standardutstyr på Audi Q8 e-tron.
+Audi pre sense front er standardutstyr på Audi Q6 e-tron.
 
 {{<children description="true" />}}

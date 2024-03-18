@@ -1,7 +1,7 @@
 ---
-title: Audi Q8 e-tron traffic sign recognition
+title: Audi Q6 e-tron traffic sign recognition
 linktitle: Traffic sign recognition
-description: Audi Q8 e-tron can be equipped with traffic sign recognition. Camera-based traffic sign recognition detects traffic signs such as speed limit signs (including digital signs), no passing zones, entry restriction signs and other auxiliary signs, and it shows them to the driver in graphic form.
+description: Audi Q6 e-tron can be equipped with traffic sign recognition. Camera-based traffic sign recognition detects traffic signs such as speed limit signs (including digital signs), no passing zones, entry restriction signs and other auxiliary signs, and it shows them to the driver in graphic form.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->

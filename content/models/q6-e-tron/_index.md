@@ -1,26 +1,40 @@
 ---
 title: Audi Q6 e-tron
 linktitle: Audi Q6 e-tron
-description: Audi Q6 e-tron will be available with different motors, batteries, technology, design options, and a range of up to 600km(372 mi). 
+description: The Audi Q6 e-tron is the newest all-electric model from Audi and has set a new standard in many aspects for Audi.
 weight: 4
 shownavtabs: true
 ---
+
 <!-- markdownlint-disable MD033 -->
-The Audi Q6 e-tron will have a world premiere March 18 2024 and will be the fifth all-electric model from Audi and the most sporty SUV.
+The Audi Q6 e-tron had its world premiere on March 18, 2024. It is Audi's fifth all-electric model and the most sporty SUV. In size, it is between the [Audi Q4 e-tron](../../models/q4-e-tron/) and the [Audi Q8 e-tron](../../models/q8-e-tron/).
 
-Audi builds the Q6 e-tron on the new [PPE platform](../../technology/bev-platforms/ppe/) created together with Porsche.
-The first customers can expect to receive the Audi Q6 e-tron in summer 2024 as a 2025 model.
+Audi built the Q6 e-tron on the new [PPE platform](../../technology/bev-platforms/ppe/) created by Porsche and Audi. The first customers can expect to receive the Audi Q6 e-tron in the summer of 2024 as a 2025 model.
 
-The model will come in different versions with different battery capacities, and in size, it will be between the [Audi Q4 e-tron](../../models//q4-e-tron/) and [Audi Q8 e-tron](../../models/q8-e-tron/).
+If you want to discuss this model with the electrichasgoneaudi community, join our [Audi Q6 e-tron Facebook group](https://www.facebook.com/groups/114120244068685). 
 
-This article summarizes what we know and expect from the new model. If you want to keep yourself updated on this model, join our [Audi Q6 e-tron Facebook group](https://www.facebook.com/groups/114120244068685) to keep yourself updated.
+{{< sitefiguresized thumb="models/q6-e-tron/q6dynamic_1_st.jpg" width="3000" height="1999" title="Audi SQ6 e-tron" >}}
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_1_st.jpg" class="img-fluid" alt="Audi Q6 prototype testdrive" title="Audi Q6 prototype testdrive">
-    </a>
-    <figcaption><h4>Audi Q6 prototype testdrive</h4></figcaption>
-</figure>
+
+## Audi Q6 e-tron variants.
+
+Two variants will be available to order from March 2024, and others will follow.
+
+The Audi Q6 e-tron quattro and the Audi SQ6 e-tron have SUV bodies. At a later stage, Sportback versions (SUV Coupe) will be available.
+
+- [Audi Q6 e-tron quattro](variants/#audi-q6-e-tron-quattro) with 100kWh battery and up to 625 km WLTP range (From 74.700 euros)
+- [Audi SQ6 e-tron](variants/#audi-sq6-e-tron) with 100 kWh battery and up to 615 km WLTP range (From 93.800 euros)
+
+Electrichasgoneaudi.net expects the following variants to be available at a later time.
+
+- Audi Q6 50 e-tron with 100kWh battery and up to approx 650km WLTP range (confirmed)
+- Audi Q6 45 e-tron with 83kWh battery and up to approx 540 km WLTP Range (confirmed)
+- Audi Q6 Sportback e-tron quattro with 100kWh battery and up to  approx 640 km WLTP range
+- Audi SQ6 Sportback e-tron with 100 kWh battery and up to 625 km  WLT range
+- Audi Q6 Sportback 50 e-tron with 100kWh battery and up to approx 650km WLTP range
+- Audi Q6 Sportback 45 e-tron with 83kWh battery and up to 540 km WLTP Range
+  
+See more details in the [variants section](variants/).
 
 
 ## Exterior
@@ -29,9 +43,11 @@ The Audi Q6 e-tron will be available in SUV and Sportback designs, just like the
 
 Black optics and black optics plus packages will be options. Same with tinted windows and a panoramic roof.
 
-There will be wheel options from 19 to 22 inches.
+There will be wheel options from 19 to 21 inches.
 
-![Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype7_st.jpg "Audi Q6 Sportback e-tron prototype by Motor1.com")
+{{< sitefiguresized thumb="models/q6-e-tron/q6exterior_1_st.jpg" width="3000" height="1999" title="Audi SQ6 e-tron" >}}
+
+
 
 ## Interior
 
@@ -98,12 +114,11 @@ The Audi Q6 e-tron will be available with different seat options. From standard 
 
 The battery in the Q6 e-tron consists of twelve or ten modules with prismatic cells. The nickel, cobalt, and manganese ratio is 8:1:1, and the battery achieves a higher energy density.
 
-We expect the battery with the launch to have the following specifications
+The battery with the launch to have the following specifications
 
 - Twelve modules/180 cells with 100 kWh gross (96.8 kWh net)
-- Ten modules/150 cells with 84.4kWh gross (80.8 kWh net).
 
-These batteries will give the Audi Q6 e-tron a WLTP range of approximately 485-600km, depending on the trim level for the largest battery. (16.2 - 20 kWh/100km)
+These batteries will give the Audi Q6 e-tron a WLTP 625km, depending on the trim level for the largest battery. (15.18 kWh/100km)
 Thanks to 800-volt technology, the Q6 e-tron can be charged with a charging capacity of more than 270kW.  
 
 ![Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/charging_st.jpg "Audi Q6 e-tron prototype charging by Auto Week NL")
@@ -112,7 +127,8 @@ You can charge the battery from five to 80 percent in less than 25 minutes on an
 
 If the station uses 400-volt technology, the Q6 e-tron uses 'bank charging' for the first time, whereby corresponding high-voltage switches (gates) are automatically switched in the battery before the actual charging process begins. This technology effectively splits the 800-volt battery into two batteries with a nominal voltage of 400 volts each that can charge in parallel on one 400-volt charging station without an additional HV booster. The states of charge of the two battery halves are first aligned. This functionality will only be available on the 100kWh battery.
 
-![Battery](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/battery_st.png "Audi Q6 battery with 12 modules and 100kWh gross")
+[Read all about the battery](drivetrain/battery/)
+
 
 ### Motor and performance
 

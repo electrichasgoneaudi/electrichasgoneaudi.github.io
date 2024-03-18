@@ -1,27 +1,40 @@
 ---
 title: Audi Q6 e-tron
 linktitle: Audi Q6 e-tron
-description: Audi Q6 e-tron vil kunne leveres med forskjellige motor, batteri, teknologi og design alternativer og ha rekkevidde på opptil 600km.
+description: Audi Q6 e-tron er den nyeste helelektriske modellen fra Audi og har satt en ny standard på mange måter for Audi.
 weight: 4
 shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 
-Audi Q6 e-tron får verdenspremiere i slutten av 2023 og blir den femte helelektriske modellen fra Audi og den mest sportslige SUV-en.
+Audi Q6 e-tron hadde verdenspremiere 18. mars 2024. Det er Audis femte helelektriske modell og den mest sportslige SUV-en. I størrelse er den mellom [Audi Q4 e-tron](../../models/q4-e-tron/) og [Audi Q8 e-tron](../../models/q8- e-tron/).
 
-Audi bygger Q6 e-tron på den nye [PPE-plattformen](../../technology/bev-platforms/ppe/) laget sammen med Porsche.
-De første kundene kan forvente å motta Audi Q6 e-tron i Q2/Q3 2024 som en 2025-modell.
+Audi bygde Q6 e-tron på den nye [PPE-plattformen](../../technology/bev-platforms/ppe/) laget av Porsche og Audi. De første kundene kan forvente å motta Audi Q6 e-tron sommeren 2024 som 2025-modell.
 
-Modellen kommer i forskjellige versjoner med forskjellige batterikapasiteter, og i størrelse vil den være mellom [Audi Q4 e-tron](../../models//q4-e-tron/) og [Audi Q8 e -tron](../../models/q8-e-tron/).
+Hvis du vil diskutere denne modellen med electrichasgoneaudi-fellesskapet, bli med i [Audi Q6 e-tron Facebook-gruppen](https://www.facebook.com/groups/114120244068685).
 
-Denne artikkelen oppsummerer hva vi vet og forventer av den nye modellen. Hvis du ønsker å holde deg oppdatert på denne modellen, bli med i vår internasjonale [Audi Q6 e-tron Facebook-gruppen](https://www.facebook.com/groups/114120244068685)  eller vår Norske [Audi Q6 e-tron Facebook-gruppen](https://www.facebook.com/groups/454688995817417)  for å holde deg oppdatert.
+{{< sitefiguresized thumb="models/q6-e-tron/q6dynamic_1_st.jpg" width="3000" height="1999" title="Audi SQ6 e-tron" >}}
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_1_st.jpg" class="img-fluid" alt="Audi Q6 prototype vintertesting" title="Audi Q6 prototype vintertesting">
-    </a>
-    <figcaption><h4>Audi Q6 prototype vintertesting</h4></figcaption>
-</figure>
+
+## Audi Q6 e-tron-varianter.
+
+To varianter vil være tilgjengelig for bestilling fra mars 2024, og andre vil følge.
+
+Audi Q6 e-tron quattro og Audi SQ6 e-tron har SUV-karosserier. På et senere tidspunkt vil Sportback-versjoner (SUV Coupe) være tilgjengelige.
+
+- [Audi Q6 e-tron quattro](varianter/#audi-q6-e-tron-quattro) med 100 kWh batteri og opptil 625 km WLTP rekkevidde (fra 74 700 euro)
+- [Audi SQ6 e-tron](varianter/#audi-sq6-e-tron) med 100 kWh batteri og opptil 615 km WLTP rekkevidde (fra 93 800 euro)
+
+Electrichasgoneaudi.net forventer at følgende varianter vil være tilgjengelige på et senere tidspunkt.
+
+- Audi Q6 50 e-tron med 100 kWh batteri og opptil ca. 650 km WLTP rekkevidde (bekreftet)
+- Audi Q6 45 e-tron med 83kWh batteri og opptil ca. 540 km WLTP rekkevidde (bekreftet)
+- Audi Q6 Sportback e-tron quattro med 100 kWh batteri og opptil ca. 640 km WLTP rekkevidde
+- Audi SQ6 Sportback e-tron med 100 kWh batteri og opptil 625 km WLT rekkevidde
+- Audi Q6 Sportback 50 e-tron med 100 kWh batteri og opptil ca. 650 km WLTP rekkevidde
+- Audi Q6 Sportback 45 e-tron med 83kWh batteri og opptil 540 km WLTP rekkevidde
+  
+Se flere detaljer i [varianter-delen](varianter/).
 
 ## Eksteriør, størrelse og design
 
