@@ -22,3 +22,14 @@ Audi SQ6 e-tron2 viser frem sin elektriske kraft på en sporty og elegant måte.
 Apropos hjulområdet, Audi Q6 e-tron starter med 18-tommers ti-eikers felger som standard og 19-tommers «5-dobbelt-eiker dynamisk»-hjul i grafittgrå i S Line. Hjul opp til 21 tommer er tilgjengelig som ekstrautstyr. I tillegg til standardhjulene til de respektive Q6 e-tron-modellene, er det totalt syv andre ulike design – fra sporty til elegant – å velge mellom; fire av disse kommer fra Audi Sport. SQ6 e-tron2 starter med 20-tommers hjul.
 
 Enten magnetisk grå eller Ascari blå metallic, de to utgavene en-modellene presenterer Audi Q6 e-tron med visuelle høydepunkter: S line-design, radiatorgrill i karosserifarge, 21-tommers hjul, bremsekalipere i rødt, dimmede Matrix LED-frontlys pluss, LED baklys pro, utvendig pakke sort. Med utgaven én grå får kundene en nøkkel trimmet for å matche bilens farge (magnetisk grå eller Ascari blå) og med Audi-ringene på baksiden.
+
+Se nedenfor for detaljer om de utvendige alternativene.
+
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+<a href="paintcolors/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/exterior/paint/plasmablue_1_st.jpg" class="img-fluid mb- 2" class="img-fluid" alt="Audi Q6 e-tron-lys" ></a>
+<h2>Lakkfarger</h2>
+<p>
+Audi Q6 e-tron tilbyr en stor mengde lakkfarger å velge mellom
+</p>
+<a href="paintcolors/" class="btn btn-outline-primary" role="button">Lær alt om Audi Q6 e-tron malingsfarger</a>
+</div>

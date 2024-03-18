@@ -24,20 +24,10 @@ Speaking of the wheel range, the Audi Q6 e-tron starts with 18-inch ten-spoke wh
 
 Whether magnetic grey or Ascari blue metallic, the two edition one models present the Audi Q6 e-tron with visual highlights: S line design, radiator grille in body color, 21-inch wheels, brake calipers in red, dimmed Matrix LED headlights plus, LED rear light pro, exterior package black. With the edition one grey, customers receive a key trimmed to match the car’s color (magnetic grey or Ascari blue) and with the Audi rings on the back.
 
-
-
-
-
-
-
-So you understand it is possible to make your car unique. And if these options are not enough for you you can order the car with exclusive paints in additional colors.
-
-So you understand it is not to show all possible combinations on this site.
-
 See below for details about the exterior options.
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="paintcolors/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/soundsystem/soundsystem_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<a href="paintcolors/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/exterior/paint/plasmablue_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
 	<h2>Paintcolors</h2>
 	<p>
 		Audi Q6 e-tron offers a large amount of paint colors to choose from
