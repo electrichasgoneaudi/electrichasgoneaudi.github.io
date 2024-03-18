@@ -26,10 +26,10 @@ Enten magnetisk grå eller Ascari blå metallic, de to utgavene en-modellene pre
 Se nedenfor for detaljer om de utvendige alternativene.
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-<a href="paintcolors/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/exterior/paint/plasmablue_1_st.jpg" class="img-fluid mb- 2" class="img-fluid" alt="Audi Q6 e-tron-lys" ></a>
+<a href="paint/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/exterior/paint/plasmablue_1_st.jpg" class="img-fluid mb- 2" class="img-fluid" alt="Audi Q6 e-tron-lys" ></a>
 <h2>Lakkfarger</h2>
 <p>
 Audi Q6 e-tron tilbyr en stor mengde lakkfarger å velge mellom
 </p>
-<a href="paintcolors/" class="btn btn-outline-primary" role="button">Lær alt om Audi Q6 e-tron malingsfarger</a>
+<a href="paint/" class="btn btn-outline-primary" role="button">Lær alt om Audi Q6 e-tron malingsfarger</a>
 </div>
