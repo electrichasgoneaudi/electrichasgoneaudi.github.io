@@ -12,6 +12,8 @@ The Audi Q6 e-tron is the first production model on the Premium Platform Electri
 
 The PPE, developed jointly with Porsche, and the E3 1.2 electronic architecture are important milestones in the expansion of Audi's global range of electrically powered models. They mark the start of a comprehensive strengthening and rejuvenation of the model portfolio. The Q6 e-tron underpins Audi’s promise to offer electric vehicles in all core segments by 2027. “Built on the new PPE platform, the Audi Q6 e-tron is the next technological leap in premium electric mobility for our customers," said Gernot Döllner, Chairman of the Board of Management of AUDI AG, at the world premiere at the main plant in Ingolstadt. "The PPE shows how we are pooling expertise within the Volkswagen Group and thus making electric mobility scalable. Thanks to the PPE, we are able to launch high-volume models with high technical standards in different segments and thus further electrify our portfolio," the Audi CEO added.
 
+{{< sitefiguresized thumb="articles/q6worldpremiere/audiceo_1_st.jpg" width="3000" height="1999" title="Audi CEO, Gernot Döllner" >}}
+
 The flexibility of the PPE helps in giving the future models their independent character and the typical Audi DNA, despite shared technical underpinnings.
 
 The Q6 e-tron sets standards in terms of e‑performance, range, and charging. It embodies typical Audi SUV styling with a further refined e-tron design language and a high level of everyday usability. Thanks to the new E3 1.2 electronic architecture, the Q6 e-tron model series represents the technological spearhead of the Audi portfolio.
