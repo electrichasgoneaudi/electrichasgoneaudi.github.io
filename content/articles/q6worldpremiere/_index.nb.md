@@ -83,6 +83,8 @@ og MMI passasjerdisplay. Den frittstående MMI-panoramaskjermen er buet og har
 OLED-teknologi. Den består av 11,9 tommer Audi virtual cockpit og en MMI-
 touchskjerm på 14,5 tommer.
 
+{{< sitefiguresized thumb="models/q6-e-tron/technology/uiandoperations/mmi/mmi_3_st.jpg" width="3000" height="2077" title="Audi Q6 e-tron with virtual cockpit, MMI screen and MMI front passenger screen" >}}
+
 Førerområdet er designet som en bue, og displayet er orientert mot føreren. I mørket
 gir ambientbelysningen en illusjon av at hele displayet svever fritt.
 Til passasjeren foran har Audi utviklet et eget 10,9-tommers MMI-passasjerdisplay. Det
