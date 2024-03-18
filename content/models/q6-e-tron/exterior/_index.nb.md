@@ -1,35 +1,24 @@
 ---
-title: Audi Q8 e-tron eksteriør
+title: Audi Q6 e-tron eksteriør
 linktitle: Eksteriør
-description: Det er et stort antall eksteriøralternativer til Audi Q8 e-tron. Lakkfarger, karoseriformer, felger, lakkstiler, forskjellige optikk, speiltyper og mange flere alternativer som gjør det mulig å ha mer enn 50.000 forskjellige eksteriørdesign.
+description: Det er et stort antall eksteriøralternativer til Audi Q6 e-tron. Lakkfarger, karosseriformer, hjul, lakkstiler, forskjellig optikk, farge på grillen, speiltyper og mange flere alternativer som gjør det mulig å bestille bilen etter dine preferanser.
 weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
-Så å kjøpe en Audi e-tron vil kreve at du tar mange avgjørelser om hvordan eksteriøret skal være.
+Audi Q6 e-tron har perfekte proporsjoner og er en videreutvikling av Audis e-tron-design. I bilens karosseri er myke former i konstant samspill med brettene og kantene, og gir dynamikk til skyggene selv når de står stille. Den stående fronten med den helt lukkede og omvendte Singleframe følger designspråket spesifikt for elektriske Audi-modeller. Den vertikale utformingen av frontenden gir et kraftig og selvsikkert inntrykk. En maske i selenittsølv eller høyglanssvart rammer inn det svært tredimensjonale gitteret og sideluftinntakene. De høyt posisjonerte kjørelysene gir Q6 e-tron et veldig slående og selvsikkert utseende.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/q8exterior.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/q8exterior_st.jpg"
-        class="img-fluid" alt="Audi e-tron Sportback" title="Audi e-tron Sportback">
-    </a>
-    <figcaption><h4>Audi Q8 e-tron and Audi SQ8</h4></figcaption>
-</figure>
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/exterior_1_st.jpg" width="3000" height="2077" title="Audi Q6 prototype vintertesting" >}}
 
-- Det første ville vært å bestemme om du vil ha Sportback- eller SUV-karosseriet.
-- Deretter må du bestemme om du vil ha s-line, s styling eller vanlig styling til 6 forskjellige utseender.
-- Audi e-tron kan leveres i 9 standardfarger for vanlige og 9 standardfarger for S-Line/S eksteriør som gir 54 forskjellige utseender
-- For hver av fargene kan du bestemme om du vil ha kontrastfarge som gjør det til 108 forskjellige utseender.
-– For hver av disse kan du bestemme om du vil ha svart optikk eller ikke. Gjør det til 216 forskjellige utseende.
-- Du kan også velge mellom 4 forskjellige speil som gir 864 forskjellige utseender.
-- Du kan velge mellom 10 forskjellige felger som gjør det til 8640 forskjellige utseende.
-- Du kan velge å ha mørkte ruter eller ikke. Som gjør det til 17280 forskjellige utseende.
-- Du kan velge å ha lakkert bremsekaliber eller ikke. Gjør det 34560 forskjellige utseende.
-- Du kan velge å ha et panoramatak som gjør det til totalt 69.120 utseende du kan bestille fra Audi.
+Drivhuset strekker seg lavt og stramt over den kraftige kroppen. Den er lett avsmalnet bakover, og de svakt skrånende D-stolpene flyter elegant inn i karosseriets muskuløse skuldre. Fortsettelsen mellom D-stolpen og taket får kupeen til å fremstå mer langstrakt og kjøretøyet mer dynamisk. En fremtredende linje som strekker seg fra baklysene til bakdørene understreker den øvre delen av quattro-blemmene - konturene av kroppen som de svakt skrånende D-stolpene støttes på. Blærene er et kjerneelement i Audis design-DNA. Audi kaller dette sentrale designprinsippet «å synliggjøre teknologi». Takket være de stramme og nøyaktig tegnede quattro-blemmene, legemliggjør bilen en viss dynamikk selv når den står stille. Formen på Audi Q6 e-tron minner om Audi e-tron GT3.
 
-Så du forstår at det er mulig å gjøre bilen din unik. Og hvis disse alternativene ikke er nok for deg, kan du bestille bilen med eksklusive malinger i flere farger.
+Dens kraftige og sporty holdning, når den er stasjonær, understrekes ytterligere av de sterkt innfelte og terskler og forklær med aksent i svart. De nesten perfekte proporsjonene med korte overheng og lang akselavstand støtter denne designfilosofien. Terskelen er satt av i svart, og understreker plasseringen av batteriet. Det er her hjertet til det helelektriske kjøretøyet med 800-volts teknologi slår – og Audi e-trons designfilosofi setter utslippsfri kjøring i sentrum av designet. Den dynamisk avsmalnende bakdelen skaper en blanding av sporty eleganse og kraft. Den rene og store bakre arkitekturen med den kontinuerlige lysstripen gir Audi Q6 e-tron den klarheten og selvfølelsen som er typisk for Audi.
 
-Så du forstår at det ikke er mulig å vise alle mulige kombinasjoner på denne siden.
+Eksteriøret på Audi Q6 e-tron er differensiert mellom en attraktiv inngangsvariant og S line-varianten. Ved markedslansering er opptil åtte eksteriørfarger inkludert standardfargen magnetisk grå solid samt Manhattan grå metallic, isbrehvit metallic, steinrød eller mythos svart metallic tilgjengelig. De understreker den kraftige og progressive utformingen av eksteriøret. To nyanser av blått er tilgjengelig: plasmablått og ascariblått. Daytona grå er forbeholdt S line-varianten og S-modellen. Den svarte pro-stylingpakken kan bestilles som ekstrautstyr for Q6 e-tron med S line eller SQ6 e-tron2. Den er preget av svarte aksenter for enda mer eleganse og sportslighet. Pakken inkluderer mørke Audi-ringer foran og bak, mørke vinduslister, tilleggsdeler inkludert radiatorgrillen i karosserifarge, sorte ytre speilhus, svarte innsatser i den omvendte, lukkede Singleframe, og støtfangerne foran og bak.
 
-Se nedenfor for detaljer om de utvendige alternativene for eksteriør på Audi Q8 e-tron
+Samspillet av eksteriørfarger og eksteriørpakker med kontrastlakk i mythos sort som standard eller i karosserifarge på forespørsel gir mange muligheter for individualisering.
 
-{{<children description="true" />}}
+Audi SQ6 e-tron2 viser frem sin elektriske kraft på en sporty og elegant måte. Sølvfargede tilleggsdeler setter aksenter foran og bak - en eksklusiv funksjon for S-modellene, det samme gjør de utvendige speilhusene i aluminiumsutseende. Det horisontale bladet bak har også et aluminiumsutseende, det samme gjør elementene i sideskjørtene og Singleframe. SQ6 e-tron2 kommer med sorte 18-tommers bremsekalipere med diamant S-logo og 20-tommers hjul i fem-dobbelt-eikers design i matt palladium som standard.
+
+Apropos hjulområdet, Audi Q6 e-tron starter med 18-tommers ti-eikers felger som standard og 19-tommers «5-dobbelt-eiker dynamisk»-hjul i grafittgrå i S Line. Hjul opp til 21 tommer er tilgjengelig som ekstrautstyr. I tillegg til standardhjulene til de respektive Q6 e-tron-modellene, er det totalt syv andre ulike design – fra sporty til elegant – å velge mellom; fire av disse kommer fra Audi Sport. SQ6 e-tron2 starter med 20-tommers hjul.
+
+Enten magnetisk grå eller Ascari blå metallic, de to utgavene en-modellene presenterer Audi Q6 e-tron med visuelle høydepunkter: S line-design, radiatorgrill i karosserifarge, 21-tommers hjul, bremsekalipere i rødt, dimmede Matrix LED-frontlys pluss, LED baklys pro, utvendig pakke sort. Med utgaven én grå får kundene en nøkkel trimmet for å matche bilens farge (magnetisk grå eller Ascari blå) og med Audi-ringene på baksiden.

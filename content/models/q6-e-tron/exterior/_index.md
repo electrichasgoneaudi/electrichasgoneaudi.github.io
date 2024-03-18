@@ -8,8 +8,7 @@ weight: 4
 
 The Audi Q6 e-tron has perfect proportions and is a further evolution of Audi's e-tron design. In the car’s bodywork, soft shapes are in constant interplay with the creases and edges, lending dynamism to the shadows even when stationary. The upright front with the completely closed and inverted Singleframe follows the design language specific to electric Audi models. The vertical design of the front end makes a powerful and confident impression. A mask in selenite silver or high-gloss black frames the highly three-dimensional grille and the side air intakes. The high-positioned daytime running lights give the Q6 e-tron a very striking and confident appearance.
 
-
-{{< sitefiguresized thumb="models/q6-e-tron/wintertesting_2_st.jpg" width="3000" height="2077" title="Audi Q6 prototype wintertesting" >}}
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/exterior_1_st.jpg" width="3000" height="2077" title="Audi Q6 prototype wintertesting" >}}
 
 The greenhouse stretches low and taut over the powerful body. It is slightly tapared towards the rear, and the gently sloping D-pillars flow elegantly into the bodywork’s muscular shoulders. The continuation between the D-pillar and the roof makes the cabin appear more elongated and the vehicle more dynamic. A prominent line that extends from the rear lights to the rear doors emphasizes the upper section of the quattro blisters - the contours of the body on which the gently sloping D-pillars are supported. The blisters are a core element of Audi's design DNA. Audi calls this central design principle "making technology visible". Thanks to the taut and precisely drawn quattro blisters, the car embodies a certain dynamism even when stationary. The shape of the Audi Q6 e-tron is reminiscent of the Audi e-tron GT3.
 
