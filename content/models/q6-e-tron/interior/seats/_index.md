@@ -113,20 +113,20 @@ With the optional massage function, the user can select from three different int
          <tr>
         <td>Front seat ventilation</td>
         <td>?</td>
-        <td>?</td>
-        <td>?</td>
+        <td>Option</td>
+        <td>Option</td>
     </tr>
-             <tr>
+    <tr>
         <td>Front seat massage</td>
         <td>?</td>
-        <td>?</td>
-        <td>?</td>
+        <td>Option</td>
+        <td>Option</td>
     </tr>
     <tr>
         <td>Extending thigh support</td>
-        <td>?</td>
-        <td>?</td>
-        <td>?</td>
+        <td>N/A</td>
+        <td>Standard</td>
+        <td>Standard</td>
     </tr>
         <tr>
         <td>Rear seat split</td>
@@ -144,5 +144,15 @@ With the optional massage function, the user can select from three different int
 
 ## Sport Seats
 
+{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/frontseats_1_st.jpg" width="3000" height="2249" title="Sport Seats" >}}
+
+{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/rearseats_1_st.jpg" width="3000" height="2249" title="Rear seats for Sport Seats option" >}}
+
 
 ## Sport Seats Plus
+
+
+{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/frontseats_3_st.jpg" width="3000" height="2249" title="Sport Seats Plus" >}}
+
+
+{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/rearseats_3_st.jpg" width="3000" height="2249" title="Sport Seats Plus" >}}
