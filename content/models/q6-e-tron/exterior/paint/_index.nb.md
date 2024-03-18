@@ -1,7 +1,7 @@
 ---
 title: Audi Q6 e-tron lakkfarger
 linktitle: Lakkfarger
-description: You can choose amongst over 10 standard paint colors and 3 different paint trims.
+description: You can choose amongst over 8 standard paint colors.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
@@ -12,16 +12,16 @@ Click below for direct navigation to paint color
 
 - [Standard Paint colors](#standard-paint-colors)
   - [Magnet grey](#magnet-grey)
+  - [Acari Blue](#ascari-blue)
   - [Glacier White](#glacier-white)
-  - [Soneira Red](#soneira-red)
-  - [Chronos Grey](#chronos-grey)
-  - [Daytona Grey](#daytona-grey)
-  - [Plasma Blue](#plasma-blue)
-  - [Ultra Blue](#ultra-blue)
-  - [Siam Beige](#siam-beige)
-  - [Madeira brown](#madeira-brown)
   - [Manhatten Grey](#manhatten-grey)
   - [Mythos black](#mythos-black)
+  - [Plasma Blue](#plasma-blue)
+  - [Soneira Red](#soneira-red)
+  - [Daytona Grey](#daytona-grey)
+
+
+
 - [Audi Exclusive Paint colors](#audi-exclusive-paint-colors)
 
 In addition you can choose between over 50 [Audi Exclusive paint colors](../../exterior/paint/#audi-exclusive-lakk-farger).
