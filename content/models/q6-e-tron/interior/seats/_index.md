@@ -92,19 +92,19 @@ With the optional massage function, the user can select from three different int
     <tr>
         <td>Power seat adjustment driver</td>
         <td>?</td>
-        <td>?</td>
-        <td>?</td>
+        <td>Standard</td>
+        <td>Standard</td>
     </tr>
         <tr>
         <td>Power seat adjustment passenger</td>
         <td>?</td>
-        <td>?</td>
-        <td>?</td>
+        <td>Standard</td>
+        <td>Standard</td>
     </tr>
     <tr>
         <td>Driver seat memory</td>
         <td>?</td>
-        <td>?</td>
+        <td>Standard</td>
         <td>Standard</td>
     </tr>
      <tr>
