@@ -24,3 +24,12 @@ Spesifikke funksjoner i interiøret er forbeholdt SQ6 e-tron2, for eksempel den 
 
 Takket være den nye Premium Platform Electric, som ble utviklet spesielt for e-mobilitet, har kjøretøyet også en sjenerøs følelse av plass og romslighet samt et høyt nivå av hverdagsbruk. Spesielt pakken til denne SUV-en er spesialdesignet for å møte behovene til SUV-kunder. Interiøret byr på rikelig med oppbevaringsplass og oppbevaringsrom. I midtkonsollen er det to koppholdere, en trådløs mobiltelefonlader og et oppbevaringsrom under midtarmlenet med mer enn fem liter (0,17 cu ft) lagringsplass. Den større komforten i andre seterad er typisk for en elbil uten midttunnel. Bagasjerommet tilbyr 526 liter (18,6 cu ft) lagringsplass. Hvis baksetebenken legges ned, øker lagringsplassen til opptil 1529 liter (54 cu ft). Baksetene kan legges ned separat (40:20:40). Ytterligere 64 liter (2,3 cu ft) kan oppbevares i bagasjerommet (fremre bagasjerom) under panseret - et praktisk sted å oppbevare for eksempel mindre reisevesker.
 
+
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="seats/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/seats/seatsdesigns_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<h2>Seats</h2>
+	<p>
+Audi Q6 e-tron tilbyr tre forskjellige setealternativer
+	</p>
+	<a href="seats/" class="btn btn-outline-primary" role="button">Lær alt om Audi Q6 e-tron seter</a>
+</div>

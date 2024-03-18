@@ -25,3 +25,14 @@ Specific features in the interior are reserved for the SQ6 e-tron2, for example,
 Thanks to the new Premium Platform Electric, which was developed specifically for e-mobility, the vehicle also has a generous feeling of space and roominess as well as a high level of everyday usability. The package of this SUV, in particular, has been specially designed to meet the needs of SUV customers. The interior offers plenty of storage space and stowage compartments. In the center console, there are two cup holders, a wireless cell phone charger, and a storage compartment below the center armrest with more than five liters (0.17 cu ft) of storage space. The greater comfort in the second row of seats is typical of an electric car without a center tunnel. The trunk offers 526 liters (18.6 cu ft) of storage space. If the rear seat bench is folded down, the storage space increases to up to 1,529 liters (54 cu ft). The rear seats can be folded down separately (40:20:40). A further 64 liters (2.3 cu ft) can be stored in the frunk (front trunk) under the hood - a convenient place to stow smaller travel bags, for example.
 
 
+
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="seats/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/seats/seatsdesigns_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<h2>Seats</h2>
+	<p>
+		Audi Q6 e-tron offers three different seat options
+	</p>
+	<a href="seats/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron seats</a>
+</div>
+
+
