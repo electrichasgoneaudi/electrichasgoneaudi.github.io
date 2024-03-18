@@ -49,6 +49,8 @@ Standard color. Solid
 
 {{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/ascariblue_3_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in ascari blue" >}}
 
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/ascariblue_4_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in ascari blue" >}}
+
 
 
 ### Glacier White
@@ -92,6 +94,10 @@ Color Code: **3D**
 
 {{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/plasmablue_3_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in plasma blue" >}}
 
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/plasmablue_4_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in plasma blue" >}}
+
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/plasmablue_5_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in plasma blue" >}}
+
 ### Soneira Red
 
 Color Code: **??**
@@ -114,6 +120,10 @@ Color Code: **6Y**
 {{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/daytonagray_2_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in  Daytona gray" >}}
 
 {{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/daytonagray_3_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in  Daytona gray" >}}
+
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/daytonagray_4_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in  Daytona gray" >}}
+
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/daytonagray_5_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in  Daytona gray" >}}
 
 
 
