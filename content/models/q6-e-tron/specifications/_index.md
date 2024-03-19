@@ -139,7 +139,7 @@ weight: 2
     <tbody>
         <tr>
             <td>Peak electrical output in KW (hp)</td>
-            <td>285 </td>
+            <td>355 </td>
         </tr>
         <tr>
             <td>Peak electrical output boost in kW (hp)</td>
