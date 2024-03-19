@@ -42,9 +42,6 @@ Post-conditioning and continuous conditioning are also new in the PPE thermal ma
 
 Due to high temperature homogeneity within the battery, performance can be increased - which is why the coolant is directed below the modules according to the U-flow principle. The battery cooling plate is also a structural component of the battery, which allows an additional floor panel in the HV space of the battery housing to be eliminated and the thermal connection to the modules to be optimized using a heat-conducting paste.
 
-
-
-
 ## Charging curve
 
 Below is the charging curve for 100 kWh battery. Source [EVKX.net](https://evkx.net/models/audi/q6_e-tron/q6_e-tron_quattro/chargingcurve/) 
