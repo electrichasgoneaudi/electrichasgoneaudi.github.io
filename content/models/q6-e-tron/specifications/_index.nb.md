@@ -129,6 +129,8 @@ weight: 2
 ## Audi SQ6 e-tron 
 
 
+
+
 <table class="table table-striped border">
     <thead>
         <tr>
@@ -161,11 +163,11 @@ weight: 2
         </tr>
         <tr>
             <td>0 -100 km/h (62.1 mph) in s </td>
-            <td>5.9</td>
+            <td>4.3</td>
         </tr>
         <tr>
             <td>Top speed in km/h (mph)</td>
-            <td>210</td>
+            <td>230</td>
         </tr>
         <tr>
             <td>Drive type </td>
@@ -245,3 +247,4 @@ weight: 2
         </tr>
     </tbody>
 </table>
+

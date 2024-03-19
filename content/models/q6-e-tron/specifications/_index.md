@@ -39,7 +39,7 @@ weight: 2
         </tr>
         <tr>
             <td>0 -100 km/h (62.1 mph) in s </td>
-            <td>5.9</td>
+            <td>Europe 5.9 / US: 5.0</td>
         </tr>
         <tr>
             <td>Top speed in km/h (mph)</td>
@@ -159,11 +159,11 @@ weight: 2
         </tr>
         <tr>
             <td>0 -100 km/h (62.1 mph) in s </td>
-            <td>5.9</td>
+            <td>4.3</td>
         </tr>
         <tr>
             <td>Top speed in km/h (mph)</td>
-            <td>210</td>
+            <td>230</td>
         </tr>
         <tr>
             <td>Drive type </td>
