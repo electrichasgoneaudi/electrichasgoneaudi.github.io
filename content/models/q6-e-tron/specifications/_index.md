@@ -19,11 +19,11 @@ weight: 2
     <tbody>
         <tr>
             <td>Peak electrical output in KW (hp)</td>
-            <td>285 </td>
+            <td>Europe: ?kW / US: 315kW  </td>
         </tr>
         <tr>
             <td>Peak electrical output boost in kW (hp)</td>
-            <td>285</td>
+            <td>Europe: 285kW / US 340kW </td>
         </tr>
         <tr>
             <td>Continuous electrical output in kW</td>
