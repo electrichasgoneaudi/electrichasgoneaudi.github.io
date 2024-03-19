@@ -4,13 +4,9 @@ linktitle: Spesifikasjoner
 description: Her finner du de mest relevante spesifikasjonene for de forskjellige Audi Q6 e-tron variantene
 weight: 2
 ---
-<div class="alert alert-primary" role="alert">
- Come back Monday March 18 2024 19.00 CET for full info
-</div>
 
 
-
-## Audi Q6 55 e-tron
+## Audi Q6 e-tron quattro
 
 
 <table class="table table-striped border">
@@ -121,7 +117,7 @@ weight: 2
         </tr>
         <tr>
             <td> Max trailer hitch weight</td>
-            <td></td>
+            <td>75kg</td>
         </tr>
          <tr>
             <td>Ground Clearance</td>
