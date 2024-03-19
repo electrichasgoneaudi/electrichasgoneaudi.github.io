@@ -119,7 +119,7 @@ weight: 2
         </tr>
          <tr>
             <td>Ground Clearance</td>
-            <td></td>
+            <td>184mm/164mm/157-232mm (standard/sport/adaptive air)</td>
         </tr>
     </tbody>
 </table>
