@@ -6,12 +6,8 @@ weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
 
-<div class="alert alert-primary" role="alert">
- Come back Monday March 18 2024 19.00 CET for full info
-</div>
+{{< sitefiguresized thumb="models/q6-e-tron/dimmensions/dimmensions_1_st.png" width="3000" height="1999" title="Audi Q6 e-tron" >}}
 
-## Audi Q6 e-tron
+{{< sitefiguresized thumb="models/q6-e-tron/dimmensions/dimmensions_2_st.png" width="3000" height="1999" title="Audi Q6 e-tron" >}}
 
-
-
-{{<children description="true" />}}
+{{< sitefiguresized thumb="models/q6-e-tron/dimmensions/dimmensions_3_st.png" width="3000" height="1999" title="Audi Q6 e-tron" >}}
