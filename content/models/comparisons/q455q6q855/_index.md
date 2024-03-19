@@ -871,3 +871,13 @@ Below, you will see the models' full specifications and comparison options.
 </tbody>
 </table>
 </div>
+
+## Dimmensions
+
+
+{{< sitefiguresized thumb="models/comparisons/q455q6q855/dimmensions_1_st.png" width="3000" height="1999" title="Audi Q4 e-tron vs Audi Q6 e-tron vs Audi Q8 e-tron" >}}
+
+{{< sitefiguresized thumb="models/comparisons/q455q6q855/dimmensions_2_st.png" width="3000" height="1999" title="Audi Q4 e-tron vs Audi Q6 e-tron vs Audi Q8 e-tron" >}}
+
+{{< sitefiguresized thumb="models/comparisons/q455q6q855/dimmensions_3_st.png" width="3000" height="1999" title="Audi Q4 e-tron vs Audi Q6 e-tron vs Audi Q8 e-tron" >}}
+
