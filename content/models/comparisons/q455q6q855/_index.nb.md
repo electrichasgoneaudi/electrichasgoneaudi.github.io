@@ -390,13 +390,13 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
         <td>Unladen weight without drive min trim</td>
         <td>2235kg</td>
          <td>2350kg</td>
-        <td>2520kg</td>
+        <td>2510kg</td>
     </tr>
     <tr>
         <td>Gross Vehicle Weight</td>
         <td>2750kg</td>
-         <td>2350kg</td>
-        <td>2520kg</td>
+         <td>?kg</td>
+        <td>3180kg</td>
     </tr>
     <tr>
         <td>Max Payload</td>
