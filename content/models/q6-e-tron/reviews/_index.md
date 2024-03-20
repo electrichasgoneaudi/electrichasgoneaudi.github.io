@@ -19,3 +19,7 @@ weight: 20
 
 {{< youtube iZHC_LGFekw >}}
 
+
+## Fully charged show: The Q6 E-Tron Is Audi's Most Important Electric Car Yet!
+
+{{< youtube _ZOVyDOQ0rI >}}

@@ -390,7 +390,7 @@ Below, you will see the models' full specifications and comparison options.
     <tr>
         <td>Unladen weight without drive min trim</td>
         <td>2235kg</td>
-         <td>2xxx?</td>
+         <td>2350kg</td>
         <td>2520kg</td>
     </tr>
     <tr>

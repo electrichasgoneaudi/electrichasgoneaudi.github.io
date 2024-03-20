@@ -8,3 +8,9 @@ weight: 1
 The Audi MMI® (Multi Media Interface) system was created to streamline the controls for audio, vehicle settings, and available navigation under a common interface, thereby reducing the number of buttons for a cleaner interior appearance.
 
 {{< sitefiguresized thumb="models/q6-e-tron/technology/uiandoperations/mmi/mmi_3_st.jpg" width="3000" height="2077" title="Audi Q6 e-tron with virtual cockpit, MMI screen and MMI front passenger screen" >}}
+
+
+
+## Passenger screen
+
+{{< sitefiguresized thumb="models/q6-e-tron/technology/uiandoperations/mmi/passengerscreen_1.jpg" width="3000" height="2249" title="Audi Q6 e-tron front passenger screen" >}}
