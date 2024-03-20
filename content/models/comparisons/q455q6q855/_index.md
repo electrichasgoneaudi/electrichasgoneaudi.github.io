@@ -160,14 +160,6 @@ If one or more of these options are essential for you, this can be a deciding fa
 
 The starting price is significantly lower on the Q4 e-tron 50 than Audi e-tron 55. But different markets have different packages that give various price differences. In markets where the buyers freely can select options, the starting price difference is about $20.000 / £20.000
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/etronvsq4_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/etronvsq4_2s.jpg"
-        class="img-fluid" alt="Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro" title="Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro">
-    </a>
-    <figcaption><h4>Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro</h4></figcaption>
-</figure>
-
 ## So which one should you select?
 
 As typical, it all depends on your different needs and preferences.
@@ -402,7 +394,7 @@ Below, you will see the models' full specifications and comparison options.
     <tr>
         <td>Gross Vehicle Weight</td>
         <td>2750kg</td>
-         <td>2xxx?</td>
+         <td>2350kg</td>
         <td>2520kg</td>
     </tr>
     <tr>
@@ -480,7 +472,7 @@ Below, you will see the models' full specifications and comparison options.
     <tr>
         <td>Audi MMI System </td>
         <td><a href="../../q4-e-tron/technology/uiandoperations/mmi/">MMI touch</a> </td>
-         <td><a href="../../q8-e-tron/technology/uiandoperations/mmi/">MMI Touch Response</a></td>
+         <td><a href="../../q6-e-tron/technology/uiandoperations/mmi/">MMI Panorama</a></td>
         <td><a href="../../q8-e-tron/technology/uiandoperations/mmi/">MMI Touch Response</a></td>
     </tr>
         <tr>
@@ -496,10 +488,16 @@ Below, you will see the models' full specifications and comparison options.
         <td><a href="../../q8-e-tron/technology/uiandoperations/mmi//">10.1</a></td>
     </tr>
         <tr>
-        <td>MMI main screen resolution</td>
-        <td><a href="../../q4-e-tron/technology/uiandoperations/mmi/">1540 x 720 (1,764 x 824 option) </a> </td>
-         <td>?</td>
-        <td><a href="../../q8-e-tron/technology/uiandoperations/mmi//">1540 x 720</a></td>
+        <td>MMI secondary screen size</td>
+        <td><a href="../../q4-e-tron/technology/uiandoperations/mmi/">N/A</a> </td>
+         <td><a href="../../q6-e-tron/technology/uiandoperations/mmi/">N/A</a></td>
+        <td><a href="../../q8-e-tron/technology/uiandoperations/mmi//">10.1</a></td>
+    </tr>
+        <tr>
+        <td>MMI passenger screen size</td>
+        <td><a href="../../q4-e-tron/technology/uiandoperations/mmi/">N/A</a> </td>
+         <td><a href="../../q6-e-tron/technology/uiandoperations/mmi/">10.9"</a></td>
+        <td><a href="../../q8-e-tron/technology/uiandoperations/mmi//">N/A</a></td>
     </tr>
     <tr>
         <td>Audi Smartphone Interface</td>
