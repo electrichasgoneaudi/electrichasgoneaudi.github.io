@@ -94,7 +94,7 @@ weight: 2
             <td></td>
         </tr>
         <tr>
-            <td>Cargo volume trunk<td>
+            <td>Cargo volume trunk</td>
             <td>526</td>
         </tr>
         <tr>
@@ -214,7 +214,7 @@ weight: 2
             <td></td>
         </tr>
         <tr>
-            <td>Cargo volume trunk<td>
+            <td>Cargo volume trunk</td>
             <td>526</td>
         </tr>
         <tr>
