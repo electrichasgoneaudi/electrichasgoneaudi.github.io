@@ -43,4 +43,4 @@ These are the super-performance versions. I expected around 600HP, like the Maca
 Sportback versions of the above models will also be released. The First Sportback versions are expected to have their world premiere in the summer of 2024.
 
 
-![Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype7_st.jpg "Audi Q6 Sportback e-tron prototype by Motor1.com")
+{{< sitefiguresized thumb="models/q6-e-tron/prototype7_st.jpg" width="1920" height="1080" title="Audi Q6 Sportback e-tron prototype by Motor1.com" >}}

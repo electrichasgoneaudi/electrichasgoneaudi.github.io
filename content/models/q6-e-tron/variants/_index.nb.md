@@ -43,4 +43,5 @@ Dette er de superytende versjonene. Jeg forventet rundt 600 HK, som Macan Turbo.
 Sportback-versjoner av de ovennevnte modellene vil også bli utgitt. De første Sportback-versjonene forventes å ha verdenspremiere sommeren 2024.
 
 
-![Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototype7_st.jpg "Audi Q6 Sportback e-tron prototype by Motor1.com")
+{{< sitefiguresized thumb="models/q6-e-tron/prototype7_st.jpg" width="1920" height="1080" title="Audi Q6 Sportback e-tron prototype by Motor1.com" >}}
+
