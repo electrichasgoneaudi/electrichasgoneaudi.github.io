@@ -3,12 +3,13 @@ title: Q4 e-tron 55 quattro vs Q6 e-tron quattro vs Q8 e-tron 55
 linktitle: Q4 vs Q6 vs Q6
 description: Here, you find a detailed comparison between the Audi Q4 e-tron 55 quattro, the Audi Q6 e-tron quattro, and the Audi Q8 e-tron 55 quattro.
 weight: 1
-lastmod: 2022-06-17
 ---
 <!-- markdownlint-disable MD033 -->
 
 Even though these models are in different categories, their prices can be in the same range depending on the equipment level. In addition, people might be willing to increase or reduce their budget depending on the value of money and features.
 This article will detail the difference between the Audi Q4 e-tron 55 Quattro, the Audi Q8 e-tron 55 Quattro, and the new Audi Q6 e-tron Quattro.
+
+{{< sitefiguresized thumb="models/comparisons/q455q6q855/q4_1_st.jpg" width="3000" height="2000" title="Audi Q4 e-tron" >}}
 
 ## Introduction
 
@@ -23,6 +24,9 @@ by Porsche and Audi.
 ## Consumption
 
 According to the specification, the consumption of the Audi Q8 e-tron 55 is 20% higher than that of the Audi Q6 e-tron quattro, while that of the Audi Q4 e-tron 55 is about 3% higher than that of the Q6. In the real world, you can see up to a 35% difference in consumption. The main reasons for this are more efficient motors, less weight, and a smaller size that causes less aerodynamic drag.
+
+{{< sitefiguresized thumb="models/comparisons/q455q6q855/q6_1_st.jpg" width="3000" height="2250" title="Audi Q6 e-tron" >}}
+
 
 ## Range
 
@@ -57,6 +61,8 @@ The Q8 e-tron can pull up to 1800kg, while the Q4 has a trailer capacity of only
 All models have various standard colors, wheels, optics, panoramic roofs, s-line exteriors, etc.
 
 Audi exclusive colors are available on the Audi Q8 e-tron and Audi Q6 e-tron. But they come at a cost and are probably not a deciding factor.
+
+{{< sitefiguresized thumb="models/comparisons/q455q6q855/q8_1_st.jpg" width="3000" height="2250" title="Audi Q8 e-tron" >}}
 
 ## Interior
 

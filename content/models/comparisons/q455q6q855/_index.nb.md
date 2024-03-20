@@ -10,6 +10,8 @@ weight: 1
 Selv om disse modellene er i forskjellige kategorier, kan prisene ligge i samme område avhengig av utstyrsnivå. I tillegg kan folk være villige til å øke eller redusere budsjettet sitt avhengig av verdien av penger og funksjoner.
 Denne artikkelen vil detaljere forskjellen mellom Audi Q4 e-tron 55 Quattro, Audi Q8 e-tron 55 Quattro og den nye Audi Q6 e-tron Quattro.
 
+{{< sitefiguresized thumb="models/comparisons/q455q6q855/q4_1_st.jpg" width="3000" height="2000" title="Audi Q4 e-tron" >}}
+
 ## Introduksjon
 
 Audi Q8 e-tron 55 ble presentert i [september 2022](../../../articles/e-tron-facelift-q8-etron-2024/) Det er en oppgradering av Audis første helelektriske modell , Audi e-tron. Den er basert på plattformen [MLB-Evo](../../../technology/bev-platforms/mlb-evo/), som også brukes i tradisjonelle modeller.
@@ -23,6 +25,8 @@ av Porsche og Audi.
 ## Forbruk
 
 I følge spesifikasjonen er forbruket til Audi Q8 e-tron 55 20 % høyere enn for Audi Q6 e-tron quattro, mens forbruket til Audi Q4 e-tron 55 er ca. 3 % høyere enn for Q6 . I den virkelige verden kan du se opptil 35 % forskjell i forbruk. Hovedårsakene til dette er mer effektive motorer, mindre vekt og en mindre størrelse som forårsaker mindre aerodynamisk luftmotstand.
+
+{{< sitefiguresized thumb="models/comparisons/q455q6q855/q6_1_st.jpg" width="3000" height="2250" title="Audi Q6 e-tron" >}}
 
 ## Rekkevidde
 
@@ -57,6 +61,9 @@ Q8 e-tron kan trekke opptil 1800 kg, mens Q4 har en tilhengerkapasitet på kun 1
 Alle modellene har ulike standardfarger, hjul, optikk, panoramatak, s-line eksteriør m.m.
 
 Audi exclusive farger er tilgjengelige på Audi Q8 e-tron og Audi Q6 e-tron. Men de har en kostnad og er sannsynligvis ikke en avgjørende faktor.
+
+
+{{< sitefiguresized thumb="models/comparisons/q455q6q855/q8_1_st.jpg" width="3000" height="2250" title="Audi Q8 e-tron" >}}
 
 ## Interiør
 
