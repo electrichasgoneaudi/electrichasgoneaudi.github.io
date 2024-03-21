@@ -59,7 +59,7 @@ weight: 2
         </tr>
         <tr>
             <td>Battery size net</td>
-            <td>95 kWh</td>
+            <td>94.9 kWh</td>
         </tr>
         <tr>
             <td>Max DC Charging </td>
@@ -195,7 +195,7 @@ weight: 2
         </tr>
         <tr>
             <td>Battery size net</td>
-            <td>95 kWh</td>
+            <td>94.9 kWh</td>
         </tr>
         <tr>
             <td>Max DC Charging </td>
@@ -203,11 +203,11 @@ weight: 2
         </tr>
         <tr>
             <td>WLTP combined range basic trim </td>
-            <td>625km</td>
+            <td>598km</td>
         </tr>
         <tr>
             <td>WLTP combined consumption basic trim </td>
-            <td>15.18 kWh/100km</td>
+            <td>15.87 kWh/100km</td>
         </tr>
         <tr>
             <td>WLTP combined consumption with charging loss basic trim</td>
