@@ -3,6 +3,7 @@ title: Audi Q8 e-tron hjuloppheng
 linktitle: Hjuloppheng
 description: Audi Q6 e-tron har flere valg for hjuloppheng.
 weight: 7
+sectiontabs: "/models/q6-e-tron/drivetrain/"
 ---
 
 De fleste systemene og komponentene som tilhører chassiset til Q6 e-tron modellserien er nyutviklinger. Eksperter tuner dem i tråd med det velkjente Audi-DNAet for å skape et høyt nivå av emosjonalitet og den førsteklasses opplevelsen som er typisk for Audi.

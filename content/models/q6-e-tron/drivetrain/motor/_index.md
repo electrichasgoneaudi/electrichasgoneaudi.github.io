@@ -3,6 +3,7 @@ title: Audi Q6 e-tron motors
 linktitle: Motors
 description: Audi Q6 e-tron have different motor configurations.
 weight: 6
+sectiontabs: "/models/q6-e-tron/drivetrain/"
 ---
 
 When developing the new electric motors, the focus was on a modular electric axle system with optimal acoustics, efficiency, and power density. Another goal of the development in this area was a scalable electric drive system with a high level of component integration. The completely newly developed modular drive system consists of three main components: electric motor, power electronics (pulse inverter), and transmission. All components are characterized by a higher degree of efficiency. They are more compact than the current electric models in the portfolio and have a scalable design. This means that the torque output can be varied by changing the length of the electric motor.

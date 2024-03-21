@@ -3,6 +3,7 @@ title: Audi Q6 e-tron suspension
 linktitle: Suspension 
 description: Audi Q6 e-tron has serveral suspension options.
 weight: 7
+sectiontabs: "/models/q6-e-tron/drivetrain/"
 ---
 <!-- markdownlint-disable MD033 -->
 

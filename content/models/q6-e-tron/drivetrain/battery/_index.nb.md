@@ -3,7 +3,9 @@ title: Audi Q6 e-tron batteri
 linktitle: Batteri
 description: Lithium-ion batterisystemet til Audi Q6 e-tron kan lagre opptil 100 kWh energi og bruker 800 volt system.
 vekt: 7
----Q6 e-tron-serien, bygget i Ingolstadt, er den første helelektriske høyvolumsmodellen produsert på et tysk Audi-anlegg. Samtidig konsoliderer merket med de fire ringene nye ferdigheter og teknologier ved selskapets hovedkvarter med monteringen av det nyutviklede høyspenningsbatteriet (HV) for Premium Platform Electric (PPE). Takket være den nye batterienheten øker Audi gradvis det vertikale produksjonsområdet for helelektriske modeller og samler erfaring for produksjon av batterimoduler lenger ned i linjen.
+sectiontabs: "/models/q6-e-tron/drivetrain/"
+---
+Q6 e-tron-serien, bygget i Ingolstadt, er den første helelektriske høyvolumsmodellen produsert på et tysk Audi-anlegg. Samtidig konsoliderer merket med de fire ringene nye ferdigheter og teknologier ved selskapets hovedkvarter med monteringen av det nyutviklede høyspenningsbatteriet (HV) for Premium Platform Electric (PPE). Takket være den nye batterienheten øker Audi gradvis det vertikale produksjonsområdet for helelektriske modeller og samler erfaring for produksjon av batterimoduler lenger ned i linjen.
 
 Som en del av produksjonen av Audi Q6 e-tron-serien, monteres cirka 1000 høyspenningsbatterier (HV) hver dag på et område på rundt 30 000 kvadratmeter. Totalt jobber ca 300 ansatte i batterimontering i tre skift. Automatiseringsraten stiger til rundt 90 prosent. For hvert høyspentbatteri faller produksjonstiden fra omtrent to timer til bare 55 minutter. Sammenlignet med batterisystemene Audi har brukt til dags dato, består batteriet til PPE av kun tolv moduler med totalt 180 prismatiske celler. Til sammenligning: HV-batteriet i Q8 e-tron består av 36 moduler og 432 celler. Den betydelige utvidelsen av cellene tilsvarer tett systemspenningen på 800 volt for å oppnå best mulig balanse mellom rekkevidde og ladeytelse.
 

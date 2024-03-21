@@ -406,13 +406,13 @@ Below, you will see the models' full specifications and comparison options.
     <tr>
         <td>Standard wheels front</td>
         <td>235/55-R19</td>
-         <td>?</td>
+         <td>235/60-R18</td>
         <td>255/55-R19</td>
     </tr>
     <tr>
         <td>Standard wheels rear</td>
         <td>255/50-R19 </td>
-         <td>?</td>
+         <td>255/55-R18</td>
         <td>255/55-R19</td>
     </tr>
     <tr>
@@ -456,12 +456,6 @@ Below, you will see the models' full specifications and comparison options.
         <td>10.25"</td>
          <td>11.9"</td>
         <td>12.3"</td>
-    </tr>
-    <tr>
-        <td>Virtual Cockpit resolution</td>
-        <td>1,440 x 540 </td>
-         <td>?</td>
-        <td>1,920 x 720 </td>
     </tr>
      <tr>
         <td>Virtual Cockpit plus </td>
