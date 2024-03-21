@@ -1,7 +1,7 @@
 ---
-title: Audi Q6 e-tron dimensions
-linktitle: Dimensions
-description: Here you find all dimensions for the Audi Q6 e-tron. Width, height, length, +++
+title: Audi Q6 e-tron dimensjoner
+linktitle: Dimensjoner
+description: Her finner du alle dimensjoner til Audi Q6 e-tron. Bredde, høyde, lengde, +++
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->

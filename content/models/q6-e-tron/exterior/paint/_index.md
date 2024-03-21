@@ -3,6 +3,7 @@ title: Audi Q6 e-tron paint colors
 linktitle: Paint
 description: You can choose amongst over 8 standard paint colors.
 weight: 1
+sectiontabs: "/models/q6-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 

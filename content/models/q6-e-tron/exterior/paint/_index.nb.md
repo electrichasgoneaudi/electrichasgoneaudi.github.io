@@ -3,6 +3,7 @@ title: Audi Q6 e-tron lakkfarger
 linktitle: Lakkfarger
 description: You can choose amongst over 8 standard paint colors.
 weight: 1
+sectiontabs: "/nb/models/q6-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 

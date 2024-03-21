@@ -4,7 +4,9 @@ linktitle: Transportkapasitet
 description: I tillegg til de 5 setene har Q6 e-tron både bagasjerom og frunk i tillegg til takoppbevaring og tilhengermuligheter.
 weight: 6
 ---
-<!-- markdownlint-disable MD033 -->## Trunk
+<!-- markdownlint-disable MD033 -->
+
+## Trunk
 
 Bagasjerommet har 526 liter lagringsvolum. Med nedfelte seter øker den til 1529 liter.
 
