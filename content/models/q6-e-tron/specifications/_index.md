@@ -135,7 +135,7 @@ weight: 2
         </tr>
         <tr>
             <td>Turning circle in m (ft)</td>
-            <td>2.1 (39.7)</td>
+            <td>12.1 (39.7)</td>
         </tr>
     </tbody>
 </table>
@@ -271,7 +271,7 @@ weight: 2
         </tr>
                 <tr>
             <td>Turning circle in m (ft)</td>
-            <td>2.1 (39.7)</td>
+            <td>12.1 (39.7)</td>
         </tr>
     </tbody>
 </table>
