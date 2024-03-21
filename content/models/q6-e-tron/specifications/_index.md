@@ -19,7 +19,7 @@ weight: 2
     <tbody>
         <tr>
             <td>Peak electrical output in KW (hp)</td>
-            <td>Europe: ?kW / US: 315kW  </td>
+            <td>Europe: 285kW / US: 315kW  </td>
         </tr>
         <tr>
             <td>Peak electrical output boost in kW (hp)</td>
@@ -35,7 +35,7 @@ weight: 2
         </tr>
         <tr>
             <td>Electrical torque output boost in Nm (lb-ft) </td>
-            <td>?</td>
+            <td>855</td>
         </tr>
         <tr>
             <td>0 -100 km/h (62.1 mph) in s </td>
@@ -128,6 +128,14 @@ weight: 2
          <tr>
             <td>Ground Clearance</td>
             <td>184mm/164mm/157-232mm (standard/sport/adaptive air)</td>
+        </tr>
+        <tr>
+            <td>Drag coefficient Cd / frontal area A in m2 (sq ft)</td>
+            <td>0.30 / 2.73 (29.4)</td>
+        </tr>
+        <tr>
+            <td>Turning circle in m (ft)</td>
+            <td>2.1 (39.7)</td>
         </tr>
     </tbody>
 </table>
@@ -231,11 +239,11 @@ weight: 2
         </tr>
         <tr>
             <td>Cargo volume trunk</td>
-            <td>526</td>
+            <td>514</td>
         </tr>
         <tr>
             <td>Cargo volume rear seat folded</td>
-            <td>1529</td>
+            <td>1517</td>
         </tr>
         <tr>
             <td>Cargo volume frunk</td>
@@ -255,7 +263,15 @@ weight: 2
         </tr>
          <tr>
             <td>Ground Clearance</td>
-            <td></td>
+            <td>164mm/157-232mm (sport/adaptive air)</td>
+        </tr>
+                <tr>
+            <td>Drag coefficient Cd / frontal area A in m2 (sq ft)</td>
+            <td>0.30 / 2.73 (29.4)</td>
+        </tr>
+                <tr>
+            <td>Turning circle in m (ft)</td>
+            <td>2.1 (39.7)</td>
         </tr>
     </tbody>
 </table>
