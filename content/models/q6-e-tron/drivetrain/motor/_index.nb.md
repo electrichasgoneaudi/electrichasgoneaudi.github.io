@@ -3,7 +3,7 @@ title: Audi Q6 e-tron motors
 linktitle: Motors
 description: Audi Q6 e-tron har forskjellige motoroppsett
 weight: 6
-sectiontabs: "/models/q6-e-tron/drivetrain/"
+sectiontabs: "/nb/models/q6-e-tron/drivetrain/"
 ---
 Ved utviklingen av de nye elektriske motorene var fokuset på et modulært elektrisk akselsystem med optimal akustikk, effektivitet og krafttetthet. Et annet mål med utviklingen på dette området var et skalerbart elektrisk drivsystem med høy grad av komponentintegrasjon. Det helt nyutviklede modulære drivsystemet består av tre hovedkomponenter: elektrisk motor, kraftelektronikk (pulsomformer) og transmisjon. Alle komponenter er preget av en høyere grad av effektivitet. De er mer kompakte enn de nåværende elektriske modellene i porteføljen og har en skalerbar design. Dette betyr at dreiemomentutgangen kan varieres ved å endre lengden på elmotoren.
 

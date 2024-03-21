@@ -31,4 +31,11 @@ Below you find details about the most important components of that drivetrain.
 	<a href="suspension/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron suspension</a>
 </div>
 
-{{<children description="true" />}}
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="motor/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/drivetrain/motors/rearmotor_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<h2>Motors</h2>
+	<p>
+		Audi Q6 e-tron offers different motor setup
+	</p>
+	<a href="motor/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron motors</a>
+</div>
