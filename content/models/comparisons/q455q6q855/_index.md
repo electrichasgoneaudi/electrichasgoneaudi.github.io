@@ -364,7 +364,7 @@ Below, you will see the models' full specifications and comparison options.
     <tr>
         <td>Width with mirrors</td>
         <td>2108mm</td>
-         <td>?</td>
+         <td>2193mm</td>
         <td>2189mm</td>
     </tr>
     <tr>
@@ -376,7 +376,7 @@ Below, you will see the models' full specifications and comparison options.
     <tr>
         <td>Track width</td>
         <td>1587mm</td>
-         <td>?</td>
+         <td>1661/1640mm (front/rear(</td>
         <td>1655mm</td>
     </tr>
     <tr>
@@ -394,25 +394,25 @@ Below, you will see the models' full specifications and comparison options.
     <tr>
         <td>Gross Vehicle Weight</td>
         <td>2750kg</td>
-         <td>?kg</td>
+         <td>2965kg</td>
         <td>3180kg</td>
     </tr>
     <tr>
         <td>Max Payload</td>
         <td>590kg</td>
-         <td>?</td>
+         <td>640</td>
         <td>670kg</td>
     </tr>
     <tr>
         <td>Standard wheels front</td>
         <td>235/55-R19</td>
-         <td>235/60-R18</td>
+         <td>235/65-R18</td>
         <td>255/55-R19</td>
     </tr>
     <tr>
         <td>Standard wheels rear</td>
         <td>255/50-R19 </td>
-         <td>255/55-R18</td>
+         <td>255/60 R18</td>
         <td>255/55-R19</td>
     </tr>
     <tr>
@@ -448,7 +448,7 @@ Below, you will see the models' full specifications and comparison options.
     <tr>
         <td>Virtual Cockpit</td>
         <td><a href="../../q4-e-tron/technology/uiandoperations/virtualcockpit/">option</a> </td>
-         <td>?</td>
+         <td><a href="../../q6-e-tron/technology/uiandoperations/virtualcockpit/">standard</a></td>
         <td><a href="../../q8-e-tron/technology/uiandoperations/virtualcockpit/">standard</a></td>
     </tr>
     <tr>
