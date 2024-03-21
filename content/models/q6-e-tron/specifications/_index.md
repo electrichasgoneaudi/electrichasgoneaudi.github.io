@@ -123,7 +123,7 @@ weight: 2
         </tr>
         <tr>
             <td>Max trailer hitch weight</td>
-            <td></td>
+            <td>100 kg</td>
         </tr>
          <tr>
             <td>Ground Clearance</td>
@@ -259,7 +259,7 @@ weight: 2
         </tr>
         <tr>
             <td>Max trailer hitch weight</td>
-            <td></td>
+            <td>100 kg</td>
         </tr>
          <tr>
             <td>Ground Clearance</td>
