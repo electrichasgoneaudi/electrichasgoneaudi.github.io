@@ -90,8 +90,16 @@ weight: 2
             <td>19.4 kWh/100km</td>
         </tr>
         <tr>
-            <td>Unladen weight without drive min trim </td>
-            <td></td>
+            <td>Unladen weight without driver min trim </td>
+            <td>2325kg</td>
+        </tr>
+        <tr>
+            <td>Gross Weight </td>
+            <td>2965kg</td>
+        </tr>
+        <tr>
+            <td>Max load including driver </td>
+            <td>640kg</td>
         </tr>
         <tr>
             <td>Cargo volume trunk</td>
@@ -209,9 +217,17 @@ weight: 2
             <td>WLTP combined consumption with charging loss max trim</td>
             <td></td>
         </tr>
+         <tr>
+            <td>Unladen weight without driver min trim </td>
+            <td>2350kg</td>
+        </tr>
         <tr>
-            <td>Unladen weight without drive min trim </td>
-            <td></td>
+            <td>Gross Weight </td>
+            <td>2965kg</td>
+        </tr>
+        <tr>
+            <td>Max load including driver </td>
+            <td>615kg</td>
         </tr>
         <tr>
             <td>Cargo volume trunk</td>
