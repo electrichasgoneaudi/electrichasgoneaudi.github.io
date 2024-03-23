@@ -352,6 +352,17 @@ You can choose between serveral seat types and seat materials. Click links below
         </td>
     </tr>
      <tr>
+        <td>Komfortpakke</td>
+        <td>
+            <ul>
+                <li>Automatisk avblendbart innvendig speil</li>
+                <li>Elektrisk justerbare, avblendbare, oppvarmbare og innfellbare utvendig speil</li>
+                <li>Komfort midtarmlene</li>
+                <li>LED projeksjonslys i speilene</li>
+            </ul>
+        </td>
+    </tr>
+     <tr>
         <td>Komfortpakke Plus</td>
         <td>
             <ul>
@@ -374,6 +385,17 @@ You can choose between serveral seat types and seat materials. Click links below
                 <li>Elektriske seter foran med minne for førersete</li>
                 <li>Elektrisk rattstamme</li>
                 <li>Garasjeportåpner</li>
+            </ul>
+        </td>
+    </tr>
+      <tr>
+        <td>Assistentpakke Plus</td>
+        <td>
+            <ul>
+                <li>Adaptiv cruise control</li>
+                <li>Trafikkskiltgjenkjenning</li>
+                <li>Omgivelseskamera</li>
+                <li>Parkeringsassistent og parkeringshjelp</li>
             </ul>
         </td>
     </tr>
