@@ -1,13 +1,14 @@
 ---
-title: Audi Q8 e-tron utstyrsliste
+title: Audi Q6 e-tron utstyrsliste
 linktitle: Utstyrliste
-description: Her finner du den komplette listen over standard- og ekstrautstyr til Audi Q8 e-tron
+description: Her finner du den komplette listen over standard- og ekstrautstyr til Audi Q6 e-tron
 weight: 100
 ---
+<!-- markdownlint-disable MD033 -->
 
 Not 100% confirmed yet
 
-## Paint Color & Paint trim
+## Lakkfarger
 
 
 {{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/plasmablue_4_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in plasma blue" >}}
@@ -39,27 +40,12 @@ Click below for high-res pictures and details of each option.
             <td>Metallic</td>
             <td>2D</td>
         </tr>
-        <tr>
-            <td><a href="../../exterior/paint/#catalunya-red">Catalunya red</a></td>
-            <td>Metallic</td>
-            <td>Y6</td>
-        </tr>
-        <tr>
+            <tr>
             <td><a href="../../exterior/paint/#glacier-white">Glacier White</a></td>
             <td>Metallic</td>
             <td>2Y</td>
         </tr>
-         <tr>
-            <td><a href="../../exterior/paint/#siam-beige">Siam beige</a></td>
-            <td>Metallic</td>
-            <td>0E</td>
-        </tr>
-        <tr>
-            <td><a href="../../exterior/paint/#florett-silver">Florett Silver</a></td>
-            <td>Metallic</td>
-            <td>L5</td>
-        </tr>
-        <tr>
+              <tr>
             <td><a href="../../exterior/paint/#manhatten-grey">Manhatten Grey</a></td>
             <td>Metallic</td>
             <td>H1</td>
@@ -69,30 +55,20 @@ Click below for high-res pictures and details of each option.
             <td>Metallic</td>
             <td>0E</td>
         </tr>
-        <tr>
-            <td><a href="../../exterior/paint/#galaxy-blue">Galaxy Blue</a></td>
+                <tr>
+            <td><a href="../../exterior/paint/#plasma-blue">Plasma Blue</a></td>
             <td>Metallic</td>
-            <td>S1</td>
+            <td>3D</td>
+        </tr>
+       <tr>
+            <td><a href="../../exterior/paint/#soneira-red">Soneira Red red</a></td>
+            <td>Metallic</td>
+            <td>Y6</td>
         </tr>
         <tr>
             <td><a href="../../exterior/paint/#galaxy-blue">Daytona Grey</a></td>
             <td>Metallic, only S/S-line</td>
             <td>6Y</td>
-        </tr>
-        <tr>
-            <td><a href="../../exterior/paint/#plasma-blue">Plasma Blue</a></td>
-            <td>Metallic</td>
-            <td>3D</td>
-        </tr>
-        <tr>
-            <td><a href="../../exterior/paint/#antigua-blue">Antiqua Blue</a></td>
-            <td>Metallic</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="../../exterior/paint/#chronos-grey">Chronos Grey</a></td>
-            <td>Metallic</td>
-            <td>Z7</td>
         </tr>
          <tr>
             <td><a href="../../exterior/paint/">Audi exclusive indiviudal</a></td>
@@ -103,11 +79,11 @@ Click below for high-res pictures and details of each option.
 </table>
 </div>
 
-## Wheels
+## Felger
 
 {{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheels_1_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in wheels" >}}
 
-Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 22". Click in the wheel options belo for high res pictures and detailed info.
+Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 21". Click in the wheel options below for high res pictures and detailed info.
 
 <div class="table-responsive">
 <table class="table table-striped border">
