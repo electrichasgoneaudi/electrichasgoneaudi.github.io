@@ -327,10 +327,7 @@ You can choose between serveral seat types and seat materials. Click links below
 </div>
 
 
-
-
-## Equipment packages
-
+## Utstyrspakker
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -343,8 +340,31 @@ You can choose between serveral seat types and seat materials. Click links below
     </thead>
     <tbody>
     <tr>
-        <td>Storage package with frunk</td>
-        <td>Net back of rear sets, 64 liters frunk, storage room center consol, storage room driver side, </td>
+        <td>Oppbevaringspakke med frunk</td>
+        <td>
+            <ul>
+                <li>Oppbevaringsnett på baksiden av fronsetene</li>
+                <li>Oppbevaringsrom i midtkonsollen</li>
+                <li>Oppbevaringsrom på førersiden</li>
+                <li>Bagasjeromsnett</li>
+                <li>Frunk</li>
+            </ul>
+        </td>
+    </tr>
+     <tr>
+        <td>Komfortpakke Pro</td>
+        <td>
+            <ul>
+                <li>Automatisk avblendbart innvendig speil</li>
+                <li>Elektrisk justerbare, avblendbare, oppvarmbare og  innfellbare utvendig speil. </li>
+                <li>Komfort midtarmlene</li>
+                <li>LED projeksjonslys i speilene</li>
+                <li>Elektriske seter foran</li>
+                <li>Minne for førersete og speil</li>
+                <li>Elektrisk rattstamme</li>
+                <li>Garasjeportåpner</li>
+            </ul>
+        </td>
     </tr>
     </tbody>
 </table>
