@@ -7,7 +7,6 @@ weight: 1
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 
-
 Currently, Audi has four different models and 15 variants in sale, with many more to come.
 See below for our unique, in-depth information on the different models and variants.
 
@@ -44,8 +43,6 @@ See below for our unique, in-depth information on the different models and varia
 	</p>
 	<a href="e-tron-gt/" class="btn btn-outline-primary" role="button">See all the details about the Audi e-tron GT.</a>
 </div>
-
-
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="a6-e-tron/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron" ></a>
 	<h2>Audi A6 e-tron</h2>
