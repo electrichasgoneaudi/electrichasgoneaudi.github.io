@@ -193,9 +193,43 @@ Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 22". C
 
 ## Seats
 
-![Seats](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_8.jpg)
+{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/frontseats_5_st.jpg" width="3000" height="2250" title="Sport Seats" >}}
 
 You can choose between serveral seat types and seat materials. Click links below for full details on each option.
+
+
+<div class="table-responsive">
+<table class="table table-striped border">
+    <thead>
+        <tr>
+        <th>Title
+        </th>
+        <th>Description
+        </th>
+        <th>
+            ID
+        </th>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="../../interior/seats/">Standard Seats</a></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="../../interior/seats/">Sport Seats</a></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="../../interior/seats/">Sport Seats Plus</a></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
 
 
 ## Interior design

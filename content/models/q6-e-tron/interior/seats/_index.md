@@ -80,14 +80,14 @@ With the optional massage function, the user can select from three different int
     <tr>
         <td>Rear seat heating</td>
         <td>?</td>
-        <td>?</td>
-        <td>?</td>
+        <td>Option</td>
+        <td>Option</td>
     </tr>
     <tr>
         <td>Power 4-way lumbar adjustment</td>
         <td>?</td>
-        <td>?</td>
-        <td>?</td>
+        <td>Standard</td>
+        <td>Standard</td>
     </tr>
     <tr>
         <td>Power seat adjustment driver</td>
@@ -103,17 +103,29 @@ With the optional massage function, the user can select from three different int
     </tr>
     <tr>
         <td>Driver seat memory</td>
-        <td>?</td>
+        <td>N/A</td>
         <td>Standard</td>
         <td>Standard</td>
     </tr>
      <tr>
         <td>Passenger seat memory</td>
-        <td>?</td>
-        <td>?</td>
-        <td>?</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>N/A</td>
     </tr>
-         <tr>
+        <tr>
+        <td>Driver seat easy access</td>
+        <td>N/A</td>
+        <td>Standard</td>
+        <td>Standard</td>
+    </tr>
+     <tr>
+        <td>Passenger seat easy access</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
         <td>Front seat ventilation</td>
         <td>N/A</td>
         <td>Option</td>
@@ -149,13 +161,17 @@ With the optional massage function, the user can select from three different int
 
 {{< sitefiguresized thumb="models/q6-e-tron/interior/seats/frontseats_1_st.jpg" width="3000" height="2249" title="Sport Seats" >}}
 
+{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/frontseats_5_st.jpg" width="3000" height="2250" title="Sport Seats" >}}
+
+{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/frontseats_4_st.jpg" width="3000" height="2249" title="S-line Sport Seats" >}}
+
 {{< sitefiguresized thumb="models/q6-e-tron/interior/seats/rearseats_1_st.jpg" width="3000" height="2249" title="Rear seats for Sport Seats option" >}}
+
+{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/frontseats_4_st.jpg" width="1920" height="1080" title="S-line Sport Seats" >}}
 
 
 ## Sport Seats Plus
 
-
 {{< sitefiguresized thumb="models/q6-e-tron/interior/seats/frontseats_3_st.jpg" width="3000" height="2249" title="Sport Seats Plus" >}}
-
 
 {{< sitefiguresized thumb="models/q6-e-tron/interior/seats/rearseats_3_st.jpg" width="3000" height="2249" title="Sport Seats Plus" >}}
