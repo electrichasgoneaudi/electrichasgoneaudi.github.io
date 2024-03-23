@@ -12,7 +12,7 @@ See below for our unique, in-depth information on the different models and varia
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="q4-e-tron/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/variants1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Acura" ></a>
-	<h2>Audi q4 e-tron</h2>
+	<h2>Audi Q4 e-tron</h2>
 	<p>
 		The Audi Q4 e-tron and the Q4 Sportback e-tron are the first compact electric SUVs and the third all-electric model from Audi. Available in 7 variants.
 	</p>

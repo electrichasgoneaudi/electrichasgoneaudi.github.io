@@ -11,7 +11,7 @@ See below for our unique, in-depth information on the different models and varia
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="q4-e-tron/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/variants1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Acura" ></a>
-	<h2>Audi q4 e-tron</h2>
+	<h2>Audi Q4 e-tron</h2>
 	<p>
 		Audi Q4 e-tron og Q4 Sportback e-tron er de første kompakte elektriske SUV-ene og den tredje helelektriske modellen fra Audi. Tilgjengelig i 7 varianter.
 	</p>
