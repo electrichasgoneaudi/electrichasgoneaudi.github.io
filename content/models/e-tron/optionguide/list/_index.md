@@ -4,36 +4,123 @@ linktitle: Full option list
 description: Here you find the complete option list with link to details about each option
 weight: 100
 ---
-
+<!-- markdownlint-disable MD033 -->
 ## Paint Color & Paint trim
 
 ![Pant Colors & Paint trim](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/variants1s.jpg)
 
 With more than 60 different colors, serveral paint trim there huge amount of color combination available. 
 Click below for high-res pictures and details of each option. 
-
-| Title | Description | ID |
-|-----|------|------|
-|  [Brilliant black](../../exterior/paint/#brilliant-black)   | Non metallic   |  A2   |
-|  [Catalunya red](../../exterior/paint/#catalunya-red)  | Metallic   |  Y6   |
-|  [Glacier White](../../exterior/paint/#glacier-white) | Metallic   |  2Y  |
-|  [Siam beige](../../exterior/paint/#siam-beige) | Metallic | 0E |
-|  [Florett Silver](../../exterior/paint/#florett-silver) | Metallic   |  L5   |
-|  [Manhatten Grey](../../exterior/paint/#manhatten-grey) | Metallic | H1 |
-|  [Typhoon Grey](../../exterior/paint/#typhoon-grey) | Metallic | 2L |
-|  [Navarra Blue](../../exterior/paint/#navarra-blue)| Metallic   | 2D    |
-|  [Mythos Black](../../exterior/paint/#mythos-black) | Metallic   |  0E   |
-|  [Galaxy Blue](../../exterior/paint/#galaxy-blue)| Metallic   |  S1   |
-|  [Daytona Grey](../../exterior/paint/#daytona-grey) | Metallic, only S/S-line | 6Y |
-|  [Plasma Blue](../../exterior/paint/#plasma-blue) | Metallic  | 3D |
-|  [Antiqua Blue](../../exterior/paint/#antigua-blue) | Metallic | |
-|  [Chronos Grey](../../exterior/paint/#chronos-grey) | Metallic | Z7 |
-|  [Audi exclusive indiviudal](../../exterior/paint/) | Serveral colors | Q0Q0 |
-|  [Basic paint](../../exterior/paint/#basic-paint) | Mounted parts in anthracite with structure.   | |
-|  [Full body paint](../../exterior/paint/#full-body-paint)|  | VJ1 |
-|  [Contrast paint](../../exterior/paint/#contrast-paint)| In Manhatten Grey | 2KS |
-|  [Contrast paint for S-line](../../exterior/paint/#contrast-paint)| In Manhatten Grey | 2K8 |
-|  [Contrast paint for S](../../exterior/paint/#contrast-paint)| In Manhatten Grey | 2K9 |
+<div class="table-responsive">
+<table class="table table-striped border">
+    <thead>
+        <tr>
+        <th>Title
+        </th>
+        <th>Description
+        </th>
+        <th>
+            ID
+        </th>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="../../exterior/paint//#brilliant-black">Brilliant black</a></td>
+            <td>Non metallic</td>
+            <td>A2</td>
+        </tr>
+        <tr>
+            <td><a href="../../exterior/paint/#catalunya-red">Catalunya red</a></td>
+            <td>Metallic</td>
+            <td>Y6</td>
+        </tr>
+        <tr>
+            <td><a href="../../exterior/paint/#glacier-white">Glacier White</a></td>
+            <td>Metallic</td>
+            <td>2Y</td>
+        </tr>
+         <tr>
+            <td><a href="../../exterior/paint/#siam-beige">Siam beige</a></td>
+            <td>Metallic</td>
+            <td>0E</td>
+        </tr>
+        <tr>
+            <td><a href="../../exterior/paint/#florett-silver">Florett Silver</a></td>
+            <td>Metallic</td>
+            <td>L5</td>
+        </tr>
+        <tr>
+            <td><a href="../../exterior/paint/#manhatten-grey">Manhatten Grey</a></td>
+            <td>Metallic</td>
+            <td>H1</td>
+        </tr>
+        <tr>
+            <td><a href="../../exterior/paint/#navarra-blue">Navarra Blue</a></td>
+            <td>Metallic</td>
+            <td>2D</td>
+        </tr>
+        <tr>
+            <td><a href="../../exterior/paint/#mythos-black">Mythos Black</a></td>
+            <td>Metallic</td>
+            <td>0E</td>
+        </tr>
+        <tr>
+            <td><a href="../../exterior/paint/#galaxy-blue">Galaxy Blue</a></td>
+            <td>Metallic</td>
+            <td>S1</td>
+        </tr>
+        <tr>
+            <td><a href="../../exterior/paint/#galaxy-blue">Daytona Grey</a></td>
+            <td>Metallic, only S/S-line</td>
+            <td>6Y</td>
+        </tr>
+        <tr>
+            <td><a href="../../exterior/paint/#plasma-blue">Plasma Blue</a></td>
+            <td>Metallic</td>
+            <td>3D</td>
+        </tr>
+        <tr>
+            <td><a href="../../exterior/paint/#antigua-blue">Antiqua Blue</a></td>
+            <td>Metallic</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="../../exterior/paint/#chronos-grey">Chronos Grey</a></td>
+            <td>Metallic</td>
+            <td>Z7</td>
+        </tr>
+         <tr>
+            <td><a href="../../exterior/paint/">Audi exclusive indiviudal</a></td>
+            <td>Serveral colors</td>
+            <td>Q0Q0</td>
+        </tr>
+        <tr>
+            <td><a href="../../exterior/paint/">Basic paint</a></td>
+            <td>Mounted parts in anthracite with structure.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="../../exterior/paint/#full-body-paint">Full body paint</a></td>
+            <td>Mounted parts in anthracite with structure.</td>
+            <td>VJ1</td>
+        </tr>
+        <tr>
+            <td><a href="../../exterior/paint/#contrast-pain">Contrast paint</a></td>
+            <td>In Manhatten Grey </td>
+            <td>2KS</td>
+        </tr>
+         <tr>
+            <td><a href="../../exterior/paint/#contrast-paint">Contrast paint for S-line</a></td>
+            <td>In Manhatten Grey </td>
+            <td>2KS</td>
+        </tr>
+           <tr>
+            <td><a href="../../exterior/paint/#contrast-paint">Contrast paint for S</a></td>
+            <td>In Manhatten Grey </td>
+            <td>2K9</td>
+        </tr>
+    </tbody>
+</table>
 
 ## Wheels
 
