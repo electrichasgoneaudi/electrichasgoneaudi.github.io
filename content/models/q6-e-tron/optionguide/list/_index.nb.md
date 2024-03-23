@@ -6,7 +6,12 @@ weight: 100
 ---
 <!-- markdownlint-disable MD033 -->
 
-Not 100% confirmed yet
+## Lanseringspakker
+
+[Se denne PDF for lanseringspakker ved salgsstart 27.03.2024](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/files/Q6_etron_lanseringspakker.pdf)
+
+
+
 
 ## Lakkfarger
 
