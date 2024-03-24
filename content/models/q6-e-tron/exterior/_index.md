@@ -5,6 +5,7 @@ description: There is a huge number of exterior options to the Audi Q6 e-tron. P
 weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 
 The Audi Q6 e-tron has perfect proportions and is a further evolution of Audi's e-tron design. In the car’s bodywork, soft shapes are in constant interplay with the creases and edges, lending dynamism to the shadows even when stationary. The upright front with the completely closed and inverted Singleframe follows the design language specific to electric Audi models. The vertical design of the front end makes a powerful and confident impression. A mask in selenite silver or high-gloss black frames the highly three-dimensional grille and the side air intakes. The high-positioned daytime running lights give the Q6 e-tron a very striking and confident appearance.
 
@@ -33,4 +34,13 @@ See below for details about the exterior options.
 		Audi Q6 e-tron offers a large amount of paint colors to choose from
 	</p>
 	<a href="paint/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron paint colors</a>
+</div>
+
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="wheels/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/exterior/wheels/wheels_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<h2>Wheels</h2>
+	<p>
+		Audi Q6 e-tron offers serveral wheel options
+	</p>
+	<a href="wheels/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron wheel options</a>
 </div>
