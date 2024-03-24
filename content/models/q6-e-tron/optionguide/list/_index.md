@@ -124,42 +124,42 @@ Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 22". C
     </thead>
     <tbody>
         <tr>
-            <td>Felger fra Audi Sport i 10-eikers trapesdesign i sort metallic, glanspolerte</td>
+            <td><a href="../../exterior/wheels/">Felger fra Audi Sport i 10-eikers trapesdesign i sort metallic, glanspolerte</a></td>
             <td>Dimensjon 8,5J | 10,0 J x 20 med 255/50 | 285/45 R 20 dekk</td>
             <td></td>
         </tr>
          <tr>
-            <td>Felger fra Audi Sport i 5-arms aerodesign i sort metallic, glanspolerte, mørke</td>
+            <td><a href="../../exterior/wheels/">Felger fra Audi Sport i 5-arms aerodesign i sort metallic, glanspolerte, mørke</a></td>
             <td>Dimensjon 9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21 dekk</td>
             <td></td>
         </tr>
         <tr>
-            <td>Felger fra Audi Sport i 5-dobbelteikers offsettdesign, grå silkematt, glanspolerte </td>
+            <td><a href="../../exterior/wheels/">Felger fra Audi Sport i 5-dobbelteikers offsettdesign, grå silkematt, glanspolerte</a> </td>
             <td>Dimensjon 8,5 J | 10,0 J x 20 med 255/50 | 285/45 R 20 dekk</td>
             <td></td>
         </tr>
         <tr>
-            <td>Felger fra Audi Sport i 5 Y-eikers dynamikkdesign i sort metallic, glanspolerte</td>
+            <td><a href="../../exterior/wheels/">Felger fra Audi Sport i 5 Y-eikers dynamikkdesign i sort metallic, glanspolerte</a></td>
             <td>Dimensjon 9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21 dekk</td>
             <td></td>
         </tr>
         <tr>
-            <td>Felger i 5-arms strukturdesign, grafittgrå, glanspolerte</td>
+            <td><a href="../../exterior/wheels/">Felger i 5-arms strukturdesign, grafittgrå, glanspolerte</a></td>
             <td>Dimensjon 8,5 J | 10,0 J x 20 med 255/50 | 285/45 R 20 dekk</td>
             <td></td>
         </tr>
          <tr>
-            <td>Felger i 5-dobbelteikers dynamikkdesign, grafittgrå, glanspolerte</td>
+            <td><a href="../../exterior/wheels/">Felger i 5-dobbelteikers dynamikkdesign, grafittgrå, glanspolerte</a></td>
             <td>Dimensjon 8,0 J | 9,0 J x 19 med 235/60 | 255/55 R 19 dekk</td>
             <td></td>
         </tr>
         <tr>
-            <td>Felger i 5-V-eikers strukturdesign, grafittgrå, glanspolerte</td>
+            <td><a href="../../exterior/wheels/">Felger i 5-V-eikers strukturdesign, grafittgrå, glanspolerte</a></td>
             <td>Dimensjon 9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21 dekk</td>
             <td></td>
         </tr>
                 <tr>
-            <td>Felger fra Audi Sport i 5-arms aerodesign i sort metallic, glanspolerte, mørke</td>
+            <td><a href="../../exterior/wheels/">Felger fra Audi Sport i 5-arms aerodesign i sort metallic, glanspolerte, mørke</a></td>
             <td>Dimensjon 9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21 dekk</td>
             <td></td>
         </tr>
