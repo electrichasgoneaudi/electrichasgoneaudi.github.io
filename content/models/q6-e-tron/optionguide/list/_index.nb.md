@@ -10,17 +10,9 @@ weight: 100
 
 [Se denne PDF for lanseringspakker ved salgsstart 27.03.2024](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/files/Q6_etron_lanseringspakker.pdf)
 
-
-
-
 ## Lakkfarger
 
-
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/plasmablue_4_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in plasma blue" >}}
-
-
-With more than 60 different colors, serveral paint trim there huge amount of color combination available. 
-Click below for high-res pictures and details of each option. 
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/plasmablue_4_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron i plasma blå" >}}
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -28,7 +20,7 @@ Click below for high-res pictures and details of each option.
         <tr>
         <th>Title
         </th>
-        <th>Description
+        <th>Beskrivelse
         </th>
         <th>
             ID
@@ -149,7 +141,7 @@ Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 21". C
 
 
 
-## Lights
+## Lys
 
 
 
@@ -158,20 +150,87 @@ Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 21". C
 
 ## Locking system
 
-
-
 ## Glass
 
+## Eksteriør
 
-## Exterior options
+<div class="table-responsive">
+<table class="table table-striped border">
+    <thead>
+        <tr>
+        <th>Title
+        </th>
+        <th>Description
+        </th>
+        <th>
+            ID
+        </th>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="../../exterior/wheels/">S Line eksteriør</a></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="../../exterior/wheels/">Sort optikk pakke</a></td>
+            <td>tvang til S line eksteriør</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="../../exterior/wheels/">Røde bremsekalippere</a></td>
+            <td>tvang til S line eksteriør</td>
+            <td></td>
+        </tr>
+                <tr>
+            <td><a href="../../exterior/wheels/">Hellakkering</a></td>
+            <td>(standard på S-line og SQ6)</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+</div>
 
 
+
+## Vinduer
+
+
+<div class="table-responsive">
+<table class="table table-striped border">
+    <thead>
+        <tr>
+        <th>Title
+        </th>
+        <th>Description
+        </th>
+        <th>
+            ID
+        </th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Mørke ruter</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Akustikkglass</td>
+            <td></td>
+            <td></td>
+        </tr>
+                <tr>
+            <td>Manuelle solgardiner bak</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+</div>
 
 ## Seat and leather interior
 
-
-
-## Seats
+## Seter
 
 
 {{< sitefiguresized thumb="models/q6-e-tron/interior/seats/frontseats_5_st.jpg" width="3000" height="2250" title="Sport Seats" >}}
@@ -211,31 +270,45 @@ You can choose between serveral seat types and seat materials. Click links below
 </table>
 </div>
 
-
-
 ## Interior design
-
-
 
 ## Steering wheels
 
-
-
 ## Climate
 
-
-
-
 ## Other interior options
-
-
 
 ## Infotainment
 
 
+<div class="table-responsive">
+<table class="table table-striped border">
+    <thead>
+        <tr>
+        <th>Title
+        </th>
+        <th>Description
+        </th>
+        <th>
+            ID
+        </th>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="../../technology/soundsystem/">Bang & Olufsen lydssystem</a></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="../../technology/soundsystem/">Høyttalere i hødestøttene</a></td>
+            <td>fås kun i kombinasjon med MMI Experience Pro</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+</div>
 
 ## Driver assist systems
-
 
 
 ## Drivertrain & brakes
@@ -326,7 +399,6 @@ You can choose between serveral seat types and seat materials. Click links below
 </table>
 </div>
 
-
 ## Utstyrspakker
 
 <div class="table-responsive">
@@ -396,6 +468,14 @@ You can choose between serveral seat types and seat materials. Click links below
                 <li>Trafikkskiltgjenkjenning</li>
                 <li>Omgivelseskamera</li>
                 <li>Parkeringsassistent og parkeringshjelp</li>
+            </ul>
+        </td>
+    </tr>
+     <tr>
+        <td>MMI Experience Pro</td>
+        <td>
+            <ul>
+                <li>Bang & Olufsen lydsystem</li>
             </ul>
         </td>
     </tr>
