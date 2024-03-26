@@ -544,19 +544,19 @@ Below, you will see the models' full specifications and comparison options.
     <tr>
         <td> Rear window curtains </td>
         <td> N/A </td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/interior/curtain">option</a></td>
         <td><a href="../../q8-e-tron/interior/curtain">option</a></td>
     </tr>
      <tr>
         <td>Cruise control</td>
         <td><a href="../../q4-e-tron/technology/drivingassistance/cruisecontrol/">option</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/cruisecontrol/">standard</a></td>
         <td><a href="../../q8-e-tron/technology/drivingassistance/cruisecontrol/">standard</a></td>
     </tr>
     <tr>
         <td>Active Lane assist</td>
         <td><a href="../../q4-e-tron/technology/drivingassistance/activelaneassist/">standard</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/technology/drivingassistance/adaptivecruiseassist/">standard</a></td>
         <td><a href="../../q8-e-tron/technology/drivingassistance/adaptivecruiseassist/">standard</a></td>
     </tr>
     <tr>
@@ -846,6 +846,18 @@ Below, you will see the models' full specifications and comparison options.
         <td>Privacy windows</td>
        <td><a href="../../q4-e-tron/exterior/windows/">option</a></td>
         <td><a href="../../q6-e-tron/exterior/windows/">option</a></td>
+        <td><a href="../../q8-e-tron/exterior/windows/">option</a></td>
+    </tr>
+    <tr>
+        <td>Accoustic windows front</td>
+        <td><a href="../../q4-e-tron/exterior/windows/">option</a></td>
+        <td><a href="../../q6-e-tron/exterior/windows/">option</a></td>
+        <td><a href="../../q8-e-tron/exterior/windows/">option</a></td>
+    </tr>
+    <tr>
+        <td>Accoustic windows rear</td>
+        <td>N/A</td>
+        <td>N/A</td>
         <td><a href="../../q8-e-tron/exterior/windows/">option</a></td>
     </tr>
     <tr>
