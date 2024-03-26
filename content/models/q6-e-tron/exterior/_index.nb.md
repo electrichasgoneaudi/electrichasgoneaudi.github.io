@@ -38,10 +38,19 @@ Audi Q6 e-tron tilbyr en stor mengde lakkfarger å velge mellom
 
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="wheels/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/exterior/wheels/wheels_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<a href="wheels/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/exterior/wheels/wheeltype_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
 	<h2>Felg & dekk</h2>
 	<p>
 		Audi Q6 e-tron tilbyr flere hjulalternativer
 	</p>
 	<a href="wheels/" class="btn btn-outline-primary" role="button">Lær alt om Audi Q6 e-tron hjulalternativer</a>
+</div>
+
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="paintedcalibers/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/exterior/paintedcalibers/calibers_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<h2>Lakkerte bremsekalipere</h2>
+	<p>
+		Audi Q6 e-tron kan leveres med lakkerte bremsekalibere
+	</p>
+	<a href="paintedcalibers/" class="btn btn-outline-primary" role="button">Lær alt om Audi Q6 e-tron lakkerte bremsekalibere</a>
 </div>

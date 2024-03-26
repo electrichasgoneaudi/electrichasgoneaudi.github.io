@@ -3,6 +3,7 @@ title: Audi Q6 e-tron lakkerte kalipere
 linktitle: Lakkerte kalipere
 description: Du kan bestille røde lakkerte bremsekalipere på Audi Q6 e-tron.
 weight: 8
+sectiontabs: "/nb/models/q6-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 

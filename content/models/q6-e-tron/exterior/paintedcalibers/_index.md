@@ -3,6 +3,7 @@ title: Audi Q6 e-tron painted calibers
 linktitle: Painted Calibers
 description: You can order red painted calibers on Audi Q6 e-tron. 
 weight: 8
+sectiontabs: "/models/q6-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 
