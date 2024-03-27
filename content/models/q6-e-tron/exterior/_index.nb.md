@@ -63,3 +63,11 @@ Audi Q6 e-tron tilbyr en stor mengde lakkfarger å velge mellom
 	</p>
 	<a href="panoramicroof/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron panoramic roof</a>
 </div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="s-line/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/exterior/s-line/comparison_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<h2>S-Line eksteriør</h2>
+	<p>
+		Audi Q6 e-tron kan leveres med s-line eksteriør pakke
+	</p>
+	<a href="s-line/" class="btn btn-outline-primary" role="button">Lær alt om Audi Q6 e-tron eksteriørpakker</a>
+</div>
