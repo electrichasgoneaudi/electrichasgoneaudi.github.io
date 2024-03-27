@@ -5,6 +5,7 @@ description: The interior of the Audi Q6 e-tron is oriented towards the needs of
 weight: 7
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 
 The properties of materials used were incorporated into the interior design at a very early stage of the development process and, in combination with the Audi MMI panoramic display and the MMI passenger display, create a visually clear digital stage. 
 
@@ -20,7 +21,20 @@ In the S line version and the S model, customers can choose a technical fabric i
 
 The materials used were selected from a functional point of view and at the same time ensure a clear design differentiation of the various vehicle areas in the interior. Comfort-oriented areas are designed with generous surfaces and soft materials. In contrast, the precisely designed control surfaces in high-quality, high-gloss black emphasize the clarity of interaction.
 
+## Interior packages
+
+Audi has created some interior packages that combines seats and material sections for seats and interior. 
+
+### Package 
+
+
+
+## Interior SQ6
+
 Specific features in the interior are reserved for the SQ6 e-tron, for example, the red ring around the start/stop button, the diamond with the S lettering in the seat, or S-specific displays in the MMI as well as black-painted brake calipers with S lettering on the exterior, the exterior mirror housing in Unique Chrome Silver, bumpers with aluminum inserts, the S sports suspension, and the e-tron sports sound with S tuning.
+
+
+## Interior space
 
 Thanks to the new Premium Platform Electric, which was developed specifically for e-mobility, the vehicle also has a generous feeling of space and roominess as well as a high level of everyday usability. The package of this SUV, in particular, has been specially designed to meet the needs of SUV customers. The interior offers plenty of storage space and stowage compartments. In the center console, there are two cup holders, a wireless cell phone charger, and a storage compartment below the center armrest with more than five liters (0.17 cu ft) of storage space. The greater comfort in the second row of seats is typical of an electric car without a center tunnel. The trunk offers 526 liters (18.6 cu ft) of storage space. If the rear seat bench is folded down, the storage space increases to up to 1,529 liters (54 cu ft). The rear seats can be folded down separately (40:20:40). A further 64 liters (2.3 cu ft) can be stored in the frunk (front trunk) under the hood - a convenient place to stow smaller travel bags, for example.
 

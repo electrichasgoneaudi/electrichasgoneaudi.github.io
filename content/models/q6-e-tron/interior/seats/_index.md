@@ -3,6 +3,7 @@ title: Audi Q6 e-tron seats and interior materials
 linktitle: Seats & Material
 description: Audi Q6 e-tron have serveral seats options to choose from
 weight: 1
+sectiontabs: "/models/q6-e-tron/interior/"
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -10,41 +11,31 @@ Each seat type have different seat materials in different colors to choose from.
 
 {{< sitefiguresized thumb="models/q6-e-tron/interior/seats/seatsdesigns_1_st.jpg" width="3000" height="2249" title="Seats design Audi Q6 - Standard, Sport and Sport plus" >}}
 
-
 ## Seat functionality
-
 
 ### 4-way lumbar support
 
-As an option to standard seats you can add 4-way electric lumbar support that can be adjusted to how you like it. Option id **7P1**
-
-Lumbard support is standard on all seats except standard seats. (Required option)
+4-way lumbar support is standard on Sport and Sport Plus seats
 
 ### Electric adjustment
 
-You can add electric control to seats for height and angel in addition to 4-way electric lumbar support. Option id **PV3**
-
-
-For the individual contour seats you have additional adjustment in MMI.
-Both upper and lower side support and thigh support is controlled in MMI both for left and right seate
+You can add electric control to seats for height and angel for Sports seats. Electric adjustment is standard on Sport Seats Plus.
 
 ### Seat Heating
 
-For seat heating there are two options. Seat heating in fron with option id **4A3** and seat heating in front and rear with
-option id **4A4**
+Front and rear seat heating is part of the winter package.
 
 ### Memory
 
-All seats with electric adjustment have memory for two seating position for driver. For passenger seats it is only available with combination 
-of individual contour seats. Memory is also used by electric controllable steering wheel.
+All seats with electric adjustment have memory for two driver seating positions. The electric-controllable steering wheel and mirrors also use memory.
 
 ### Ventilated seats
 
-For individual contour seats you can get ventilated seats. The fans are adjusted in MMI.
+The Sport seats can be equipped with ventilation for hot summer days. It requires perforated leather. 
 
 ### Massage
 
-With the optional massage function, the user can select from three different intensities in eight different programs to have ten air chambers massage their back.
+The Sport Seats Plus is equipped with a massage function. You can select different massage programs in MMI.
 
 <div class="table-responsive">
 <table class="table table-striped border">

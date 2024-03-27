@@ -233,8 +233,168 @@ You can choose between serveral seat types and seat materials. Click links below
 
 
 
-## Interior design
+## Interior packages
 
+<div class="table-responsive">
+<table class="table table-striped border">
+     <thead>
+         <tr>
+         <th>Title
+         </th>
+         <th>Description
+         </th>
+         <th>
+             PR. no
+         </th>
+     </thead>
+     <tbody>
+          <tr>
+             <td>Interior package with normal seats in black fabric</td>
+             <td>
+                 <ul>
+                     <li>Upper and lower interior elements in black artificial leather</li>
+                     <li>Upper part of the instrument panel in black with steel gray contrast stitching</li>
+                     <li>Double-spoke leather steering wheel with multifunction and rocker keys</li>
+                     <li>Interior decor in volcanic grey</li>
+                     <li>Covering in fabric, grey</li>
+                 </ul>
+             </td>
+             <td>
+             99K
+             </td>
+         </tr>
+         <tr>
+             <td>Interior package with sports seats in black fabric</td>
+             <td>
+                 <ul>
+                     <li>4-way lumbar support in the front seats, electric</li>
+                     <li>Upper and lower interior elements in black synthetic leather</li>
+                     <li>Upper part of the instrument panel in black with steel gray contrast stitching</li>
+                     <li>Double-spoke leather steering wheel with multifunction and rocker keys</li>
+                     <li>Interior decor in volcanic grey</li>
+                     <li>Covering in fabric, grey</li>
+                 </ul>
+             </td>
+             <td>
+             99K
+             </td>
+         </tr>
+           <tr>
+             <td>Interior package with sports seats in beige leather/artificial leather</td>
+             <td>
+                 <ul>
+                     <li>4-way lumbar support in the front seats, electric</li>
+                     <li>Upper and lower interior elements in black artificial leather</li>
+                     <li>Upper part of the instrument panel in black with steel gray contrast stitching</li>
+                     <li>Double-spoke leather steering wheel with multifunction and rocker keys</li>
+                     <li>Interior decor in brushed anthracite-coloured aluminium</li>
+                     <li>Covering in fabric, grey</li>
+                     <li>Force ventilated front seats</li>
+                 </ul>
+             </td>
+             <td>
+             PWF
+             </td>
+         </tr>
+         <tr>
+             <td>Interior package with S line sports seats in black fabric/artificial leather</td>
+             <td>
+                 <ul>
+                     <li>4-way lumbar support in the front seats, electric</li>
+                     <li> Upper and lower interior elements in black synthetic leather</li>
+                     <li>Upper part of the instrument panel in black with steel gray contrast stitching</li>
+                     <li>3-spoke sports steering wheel in leather with multifunction and rocker buttons</li>
+                     <li>Interior decor in brushed anthracite-coloured aluminium</li>
+                     <li>Covering in fabric, black</li>
+                 </ul>
+             </td>
+             <td>
+             PWK
+             </td>
+         </tr>
+         <tr>
+             <td>Interior package with S line sports seats in black leather/artificial leather</td>
+             <td>
+                 <ul>
+                     <li>4-way lumbar support in the front seats, electric</li>
+                     <li>Upper and lower interior elements in black artificial leather</li>
+                     <li>Upper part of the instrument panel in black with steel gray contrast stitching</li>
+                     <li>3-spoke sports steering wheel in leather with multifunction and rocker buttons</li>
+                     <li>Interior decor in brushed anthracite-coloured aluminium</li>
+                     <li>Covering in fabric, black</li>
+                 </ul>
+             </td>
+             <td>
+             PWL
+             </td>
+         </tr>
+         <tr>
+             <td>Interior package with S line sports seats in gray leather/artificial leather </td>
+             <td>
+                 <ul>
+                     <li>4-way lumbar support in the front seats, electric</li>
+                     <li>Upper and lower interior elements in black synthetic leather</li>
+                     <li>Upper part of the instrument panel in black with steel gray contrast stitching</li>
+                     <li>3-spoke sports steering wheel in leather with multifunction and rocker buttons</li>
+                     <li>Interior decor in brushed anthracite-coloured aluminium</li>
+                     <li>Covering in fabric, black</li>
+                 </ul>
+             </td>
+             <td>
+             PWM
+             </td>
+         </tr>
+         <tr>
+             <td>Interior package with S line sports seats plus in black leather</td>
+             <td>
+                 <ul>
+                     <li> Lumbar support with pneumatic adjustment and massage function for the front seats </li>
+                     <li>Upper and lower interior elements in black dinamica microfibre</li>
+                     <li>Upper part of the instrument panel in black with steel gray contrast stitching</li>
+                     <li>3-spoke sports steering wheel in leather with multifunction and rocker buttons</li>
+                     <li>Interior decor in brushed anthracite-coloured aluminium</li>
+                     <li>Covering in fabric, black</li>
+                    </ul>
+             </td>
+             <td>
+             PWO
+             </td>
+         </tr>
+           <tr>
+             <td>Interior package with Sports seats plus with S logo in red fine nappa leather</td>
+             <td>
+                 <ul>
+                     <li> Lumbar support with pneumatic adjustment and massage function for the front seats </li>
+                     <li>Upper and lower interior elements in black dinamica microfibre</li>
+                     <li>Upper part of the instrument panel in black with steel gray contrast stitching</li>
+                     <li>3-spoke sports steering wheel in leather with multifunction and rocker buttons</li>
+                     <li>Interior decor in brushed anthracite-coloured aluminium</li>
+                     <li>Covering in fabric, black</li>
+                 </ul>
+             </td>
+             <td>
+             PWQ
+             </td>
+         </tr>
+          <tr>
+             <td>Interior package with S line sports seats plus in black dinamica/artificial leather</td>
+             <td>
+                 <ul>
+                     <li> Lumbar support with pneumatic adjustment and massage function for the front seats </li>
+                     <li>Upper and lower interior elements in black dinamica microfibre</li>
+                     <li>Upper part of the instrument panel in black with steel gray contrast stitching</li>
+                     <li>3-spoke sports steering wheel in leather with multifunction and rocker buttons</li>
+                     <li>Interior decor in brushed anthracite-coloured aluminium</li>
+                     <li>Covering in fabric, black</li>
+                 </ul>
+             </td>
+             <td>
+             PWN
+             </td>
+         </tr>
+     </tbody>
+</table>
+</div>
 
 
 ## Steering wheels

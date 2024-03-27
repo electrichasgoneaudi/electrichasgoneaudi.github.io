@@ -3,6 +3,7 @@ title: "Audi Q6 e-tron seter og interiørmaterialer"
 linktitle: "Seter og materialer"
 description: "Audi Q6 e-tron har flere setealternativer å velge mellom"
 weight: 1
+sectiontabs: "/nb/models/q6-e-tron/interior/"
 ---
 
 
@@ -11,41 +12,31 @@ Hver setetype har forskjellige setematerialer i forskjellige farger å velge mel
 
 {{< sitefiguresized thumb="models/q6-e-tron/interior/seats/seatsdesigns_1_st.jpg" width="3000" height="2249" title="Seter design Audi Q6 - Standard, Sport og Sport plus" >}}
 
-
 ## Setefunksjonalitet
-
 
 ### 4-veis korsryggstøtte
 
-Som et alternativ til standardseter kan du legge til 4-veis elektrisk korsryggstøtte som kan justeres slik du liker det. Alternativ-ID **7P1**
-
-Lumbard-støtte er standard på alle seter unntatt standardseter. (Obligatorisk alternativ)
+4-veis korsryggstøtte er standard på Sport- og Sport Plus-seter
 
 ### Elektrisk justering
 
-Du kan legge til elektrisk kontroll til seter for høyde og vinkel i tillegg til 4-veis elektrisk korsryggstøtte. Alternativ-ID **PV3**
-
-
-For de individuelle kontursetene har du ekstra justering i MMI.
-Både øvre og nedre sidestøtte og lårstøtte styres i MMI både for venstre og høyre sete
+Du kan legge til elektrisk kontroll til seter for høyde og engel for sportsseter. Elektrisk justering er standard på Sport Seats Plus.
 
 ### Setevarme
 
-For setevarme er det to alternativer. Setevarme foran med alternativ id **4A3** og setevarme foran og bak med
-alternativ-ID **4A4**
+For- og baksetevarme er en del av vinterpakken.
 
 ### Minne
 
-Alle seter med elektrisk justering har minne for to sitteplasser for fører. For passasjerseter er den kun tilgjengelig med kombinasjon
-av individuelle konturseter. Minne brukes også av elektrisk kontrollerbart ratt.
+Alle seter med elektrisk justering har minne for to førersetestillinger. Det elektrisk kontrollerbare rattet og speilene bruker også minne.
 
 ### Ventilerte seter
 
-For individuelle konturseter kan du få ventilerte seter. Viftene justeres i MMI.
+Sportssetene kan utstyres med ventilasjon for varme sommerdager. Det krever perforert skinn.
 
 ### Massasje
 
-Med den valgfrie massasjefunksjonen kan brukeren velge mellom tre forskjellige intensiteter i åtte forskjellige programmer for å få ti luftkamre til å massere ryggen.
+Sport Seats Plus er utstyrt med en massasjefunksjon. Du kan velge forskjellige massasjeprogrammer i MMI.
 
 <div class="table-responsive">
 <table class="table table-striped border">
