@@ -281,8 +281,7 @@ You can choose between serveral seat types and seat materials. Click links below
 </table>
 </div>
 
-## Interior design
-
+## Interiørpakker
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -293,7 +292,7 @@ You can choose between serveral seat types and seat materials. Click links below
         <th>Description
         </th>
         <th>
-            PR ID
+            PR.nr
         </th>
     </thead>
     <tbody>
@@ -343,6 +342,102 @@ You can choose between serveral seat types and seat materials. Click links below
             </td>
             <td>
             PWF
+            </td>
+        </tr>
+        <tr>
+            <td>Interiørpakke med S line sportsseter i sort stoff/kunstskinn</td>
+            <td>
+                <ul>
+                    <li>4-veis korsryggstøtte i forsetene, elektrisk</li>
+                    <li> Øvre og nedre interiørelementer i sort kunstskinn</li>
+                    <li>Øvre del av instrumentpanelet i sort med stålgrå kontrastsøm</li>
+                    <li>3-eikers sportsratt i skinn med multifunksjon og vippetaster</li>
+                    <li>Interiørdekor i børstet antrasittfarget aluminium</li>
+                    <li>Taktrekk i stoff, sort</li>
+                </ul>
+            </td>
+            <td>
+            PWK
+            </td>
+        </tr>
+        <tr>
+            <td>Interiørpakke med S line sportsseter i sort skinn/kunstskinn</td>
+            <td>
+                <ul>
+                    <li>4-veis korsryggstøtte i forsetene, elektrisk</li>
+                    <li>Øvre og nedre interiørelementer i sort kunstskinn</li>
+                    <li>Øvre del av instrumentpanelet i sort med stålgrå kontrastsøm</li>
+                    <li>3-eikers sportsratt i skinn med multifunksjon og vippetaster</li>
+                    <li>Interiørdekor i børstet antrasittfarget aluminium</li>
+                    <li>Taktrekk i stoff, sort</li>
+                </ul>
+            </td>
+            <td>
+            PWL
+            </td>
+        </tr>
+        <tr>
+            <td>Interiørpakke med S line sportsseter i grått skinn/kunstskinn </td>
+            <td>
+                <ul>
+                    <li>4-veis korsryggstøtte i forsetene, elektrisk</li>
+                    <li>Øvre og nedre interiørelementer i sort kunstskinn</li>
+                    <li>Øvre del av instrumentpanelet i sort med stålgrå kontrastsøm</li>
+                    <li>3-eikers sportsratt i skinn med multifunksjon og vippetaster</li>
+                    <li>Interiørdekor i børstet antrasittfarget aluminium</li>
+                    <li>Taktrekk i stoff, sort</li>
+                </ul>
+            </td>
+            <td>
+            PWM
+            </td>
+        </tr>
+        <tr>
+            <td>Interiørpakke med S line sportsseter plus i sort skinn</td>
+            <td>
+                <ul>
+                    <li> Korsryggstøtte med pneumatisk justering og massasjefunksjon for forsetene </li>
+                    <li>Øvre og nedre interiørelementer i sort dinamica mikrofiber</li>
+                    <li>Øvre del av instrumentpanelet i sort med stålgrå kontrastsøm</li>
+                    <li>3-eikers sportsratt i skinn med multifunksjon og vippetaster</li>
+                    <li>Interiørdekor i børstet antrasittfarget aluminium</li>
+                    <li>Taktrekk i stoff, sort</li>
+                </ul>
+            </td>
+            <td>
+            PWO
+            </td>
+        </tr>
+          <tr>
+            <td>Interiørpakke med Sportsseter plus med S logo i rødt feinnappa skinn</td>
+            <td>
+                <ul>
+                    <li> Korsryggstøtte med pneumatisk justering og massasjefunksjon for forsetene </li>
+                    <li>Øvre og nedre interiørelementer i sort dinamica mikrofiber</li>
+                    <li>Øvre del av instrumentpanelet i sort med stålgrå kontrastsøm</li>
+                    <li>3-eikers sportsratt i skinn med multifunksjon og vippetaster</li>
+                    <li>Interiørdekor i børstet antrasittfarget aluminium</li>
+                    <li>Taktrekk i stoff, sort</li>
+                </ul>
+            </td>
+            <td>
+            PWQ
+            </td>
+        </tr>
+         <tr>
+            <td>Interiørpakke med S line sportsseter plus i sort dinamica/kunstskinn</td>
+            <td>
+                <ul>
+                    <li> Korsryggstøtte med pneumatisk justering og massasjefunksjon for forsetene </li>
+                    <li>Øvre og nedre interiørelementer i sort dinamica mikrofiber</li>
+                    <li>Øvre del av instrumentpanelet i sort med stålgrå kontrastsøm</li>
+                    <li>3-eikers sportsratt i skinn med multifunksjon og vippetaster</li>
+                    <li>Interiørdekor i børstet antrasittfarget aluminium</li>
+                    <li>Taktrekk i stoff, sort</li>
+                </ul>
+            </td>
+            <td>
+            PWN
             </td>
         </tr>
     </tbody>
