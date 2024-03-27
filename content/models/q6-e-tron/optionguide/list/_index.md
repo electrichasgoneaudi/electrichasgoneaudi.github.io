@@ -3,6 +3,7 @@ title: Audi Q6 e-tron full options list
 linktitle: Full option list
 description: Here you find the complete option list with link to details about each option
 weight: 100
+sectiontabs: "/models/q6-e-tron/optionguide/"
 ---
 <!-- markdownlint-disable MD033 -->
 

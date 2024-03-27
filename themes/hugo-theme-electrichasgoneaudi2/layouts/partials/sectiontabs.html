@@ -95,9 +95,9 @@
           {{end}}
         {{else  if eq .RelPermalink $currentNode.Params.sectiontabs }}
             {{if .Params.navicon }}
-            <a class="nav-link active" href="{{ $currentNode.RelPermalink}}"><i class="{{ .Params.navicon }}"></i> {{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}</a>
+            <a class="nav-link active" href="{{ .RelPermalink}}"><i class="{{ .Params.navicon }}"></i>AAA {{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}</a>
             {{else}}
-            <a class="nav-link active" href="{{ $currentNode.RelPermalink}}">
+            <a class="nav-link active" href="{{ .RelPermalink}}">
               {{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}</a>
             {{end}}
         {{else}}

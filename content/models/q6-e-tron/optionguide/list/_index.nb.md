@@ -3,6 +3,7 @@ title: Audi Q6 e-tron utstyrsliste
 linktitle: Utstyrliste
 description: Her finner du den komplette listen over standard- og ekstrautstyr til Audi Q6 e-tron
 weight: 100
+sectiontabs: "/nb/models/q6-e-tron/optionguide/"
 ---
 <!-- markdownlint-disable MD033 -->
 
