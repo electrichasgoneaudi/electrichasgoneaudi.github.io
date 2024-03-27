@@ -54,9 +54,9 @@ With the optional massage function, the user can select from three different int
         </th>
         <th>Standard
         </th>
-        <th>Sport 
+        <th>Sport
         </th>
-        <th>Sport Plus 
+        <th>Sport Plus
     </thead>
     <tbody>
     <tr>
@@ -98,13 +98,13 @@ With the optional massage function, the user can select from three different int
         <tr>
         <td>Power seat adjustment passenger</td>
         <td>?</td>
-        <td>Standard</td>
+        <td>Option</td>
         <td>Standard</td>
     </tr>
     <tr>
         <td>Driver seat memory</td>
         <td>N/A</td>
-        <td>Standard</td>
+        <td>Option</td>
         <td>Standard</td>
     </tr>
      <tr>
@@ -143,7 +143,19 @@ With the optional massage function, the user can select from three different int
         <td>Standard</td>
         <td>Standard</td>
     </tr>
+    <tr>
+        <td>Massage front seats</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>Standard</td>
+    </tr>
         <tr>
+        <td>Ventilation front seats</td>
+        <td>N/A</td>
+        <td>Option</td>
+        <td>N/A</td>
+    </tr>
+     <tr>
         <td>Rear seat split</td>
         <td>40:20:40</td>
         <td>40:20:40</td>

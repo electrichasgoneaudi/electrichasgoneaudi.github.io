@@ -29,49 +29,59 @@ sectiontabs: "/nb/models/q6-e-tron/optionguide/"
     </thead>
     <tbody>
         <tr>
-            <td><a href="../../exterior/paint/#magnet-grey">Magnet grey</a></td>
+            <td><a href="../../exterior/paint/#magnet-grey">Magnetgrå</a></td>
             <td>Non metallic</td>
             <td>A2</td>
         </tr>
         <tr>
-            <td><a href="../../exterior/paint/#ascari-blue">Ascari Blue</a></td>
+            <td><a href="../../exterior/paint/#ascari-blue">Ascariblå</a></td>
             <td>Metallic</td>
             <td>2D</td>
         </tr>
             <tr>
-            <td><a href="../../exterior/paint/#glacier-white">Glacier White</a></td>
+            <td><a href="../../exterior/paint/#glacier-white">Isbrehvit</a></td>
             <td>Metallic</td>
             <td>2Y</td>
         </tr>
               <tr>
-            <td><a href="../../exterior/paint/#manhatten-grey">Manhatten Grey</a></td>
+            <td><a href="../../exterior/paint/#manhatten-grey">Manhatten grå</a></td>
             <td>Metallic</td>
             <td>H1</td>
         </tr>
         <tr>
-            <td><a href="../../exterior/paint/#mythos-black">Mythos Black</a></td>
+            <td><a href="../../exterior/paint/#mythos-black">Mythos sort</a></td>
             <td>Metallic</td>
             <td>0E</td>
         </tr>
                 <tr>
-            <td><a href="../../exterior/paint/#plasma-blue">Plasma Blue</a></td>
+            <td><a href="../../exterior/paint/#plasma-blue">Plasmablå</a></td>
             <td>Metallic</td>
             <td>3D</td>
         </tr>
        <tr>
-            <td><a href="../../exterior/paint/#soneira-red">Soneira Red red</a></td>
+            <td><a href="../../exterior/paint/#soneira-red">Soneirarød</a></td>
             <td>Metallic</td>
             <td>Y6</td>
         </tr>
         <tr>
-            <td><a href="../../exterior/paint/#galaxy-blue">Daytona Grey</a></td>
-            <td>Metallic, only S/S-line</td>
+            <td><a href="../../exterior/paint/#galaxy-blue">Daytonagrå</a></td>
+            <td>Metallic, kun S/S-line</td>
             <td>6Y</td>
         </tr>
          <tr>
             <td><a href="../../exterior/paint/">Audi exclusive indiviudal</a></td>
             <td>Serveral colors</td>
             <td>Q0Q0</td>
+        </tr>
+         <tr>
+            <td><a href="../../exterior/paint/">Hellakkering</a></td>
+            <td></td>
+            <td>FB4</td>
+        </tr>
+        <tr>
+            <td><a href="../../exterior/paint/">Kontrastlakkering i mythos sort</a></td>
+            <td></td>
+            <td>FB5</td>
         </tr>
     </tbody>
 </table>
@@ -97,42 +107,42 @@ Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 21". C
     </thead>
     <tbody>
         <tr>
-            <td><a href="../../exterior/wheels/">Felger fra Audi Sport i 10-eikers trapesdesign i sort metallic, glanspolerte</a></td>
+            <td><a href="../../exterior/wheels/">10-eikers trapesdesign i sort metallic, glanspolerte</a></td>
             <td>Dimensjon 8,5J | 10,0 J x 20 med 255/50 | 285/45 R 20 dekk</td>
-            <td></td>
+            <td>58R</td>
         </tr>
          <tr>
-            <td><a href="../../exterior/wheels/">Felger fra Audi Sport i 5-arms aerodesign i sort metallic, glanspolerte, mørke</a></td>
+            <td><a href="../../exterior/wheels/">5-arms aerodesign i sort metallic, glanspolerte, mørke</a></td>
             <td>Dimensjon 9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21 dekk</td>
-            <td></td>
+            <td>C9K</td>
         </tr>
         <tr>
-            <td><a href="../../exterior/wheels/">Felger fra Audi Sport i 5-dobbelteikers offsettdesign, grå silkematt, glanspolerte </a></td>
+            <td><a href="../../exterior/wheels/">5-dobbelteikers offsettdesign, grå silkematt, glanspolerte </a></td>
             <td>Dimensjon 8,5 J | 10,0 J x 20 med 255/50 | 285/45 R 20 dekk</td>
-            <td></td>
+            <td>58Q</td>
         </tr>
         <tr>
-            <td><a href="../../exterior/wheels/">Felger fra Audi Sport i 5 Y-eikers dynamikkdesign i sort metallic, glanspolerte</a></td>
+            <td><a href="../../exterior/wheels/">5 Y-eikers dynamikkdesign i sort metallic, glanspolerte</a></td>
             <td>Dimensjon 9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21 dekk</td>
-            <td></td>
+            <td>V39</td>
         </tr>
         <tr>
             <td><a href="../../exterior/wheels/">Felger i 5-arms strukturdesign, grafittgrå, glanspolerte</a></td>
             <td>Dimensjon 8,5 J | 10,0 J x 20 med 255/50 | 285/45 R 20 dekk</td>
-            <td></td>
+            <td>52T</td>
         </tr>
          <tr>
             <td><a href="../../exterior/wheels/">Felger i 5-dobbelteikers dynamikkdesign, grafittgrå, glanspolerte</a></td>
             <td>Dimensjon 8,0 J | 9,0 J x 19 med 235/60 | 255/55 R 19 dekk</td>
-            <td></td>
+            <td>41M</td>
         </tr>
         <tr>
             <td><a href="../../exterior/wheels/">Felger i 5-V-eikers strukturdesign, grafittgrå, glanspolerte</a></td>
             <td>Dimensjon 9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21 dekk</td>
-            <td></td>
+            <td>46X</td>
         </tr>
                 <tr>
-            <td><a href="../../exterior/wheels/">Felger fra Audi Sport i 5-arms aerodesign i sort metallic, glanspolerte, mørke</a></td>
+            <td><a href="../../exterior/wheels/">5-arms aerodesign i sort metallic, glanspolerte, mørke</a></td>
             <td>Dimensjon 9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21 dekk</td>
             <td></td>
         </tr>
@@ -273,13 +283,6 @@ You can choose between serveral seat types and seat materials. Click links below
 
 ## Interior design
 
-## Steering wheels
-
-## Climate
-
-## Other interior options
-
-## Infotainment
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -290,17 +293,105 @@ You can choose between serveral seat types and seat materials. Click links below
         <th>Description
         </th>
         <th>
-            ID
+            PR ID
         </th>
     </thead>
     <tbody>
-        <tr>
-            <td><a href="../../technology/soundsystem/">Bang & Olufsen lydssystem</a></td>
-            <td></td>
-            <td></td>
+         <tr>
+            <td>Interiørpakke med normalseter i sort stoff</td>
+            <td>
+                <ul>
+                    <li>Øvre og nedre interiørelementer i sort kunstskinn</li>
+                    <li>Øvre del av instrumentpanelet i sort med stålgrå kontrastsøm</li>
+                    <li>Dobbelteikers skinnratt med multifunksjon og vippetaster</li>
+                    <li>Interiørdekor i vulkangrå</li>
+                    <li>Taktrekk i stoff, grå</li>
+                </ul>
+            </td>
+            <td>
+            99K
+            </td>
         </tr>
         <tr>
-            <td><a href="../../technology/soundsystem/">Høyttalere i hødestøttene</a></td>
+            <td>Interiørpakke med sportsseter i sort stoff</td>
+            <td>
+                <ul>
+                    <li>4-veis korsryggstøtte i forsetene, elektrisk</li>
+                    <li>Øvre og nedre interiørelementer i sort kunstskinn</li>
+                    <li>Øvre del av instrumentpanelet i sort med stålgrå kontrastsøm</li>
+                    <li>Dobbelteikers skinnratt med multifunksjon og vippetaster</li>
+                    <li>Interiørdekor i vulkangrå</li>
+                    <li>Taktrekk i stoff, grå</li>
+                </ul>
+            </td>
+            <td>
+            99K
+            </td>
+        </tr>
+          <tr>
+            <td>Interiørpakke med sportsseter i beige skinn/kunstskinn</td>
+            <td>
+                <ul>
+                    <li>4-veis korsryggstøtte i forsetene, elektrisk</li>
+                    <li>Øvre og nedre interiørelementer i sort kunstskinn</li>
+                    <li>Øvre del av instrumentpanelet i sort med stålgrå kontrastsøm</li>
+                    <li>Dobbelteikers skinnratt med multifunksjon og vippetaster</li>
+                    <li>Interiørdekor i børstet antrasittfarget aluminium</li>
+                    <li>Taktrekk i stoff, grå</li>
+                    <li>Tvang til ventilerte seter foran</li>
+                </ul>
+            </td>
+            <td>
+            PWF
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+
+## Steering wheels
+
+## Climate
+
+## Other interior options
+
+## Navigasjon, multimedia, sound system og kommunikasjon
+
+<div class="table-responsive">
+<table class="table table-striped border">
+    <thead>
+        <tr>
+        <th>Title
+        </th>
+        <th>Description
+        </th>
+        <th>
+            PR ID
+        </th>
+    </thead>
+    <tbody>
+    <tr>
+            <td><a href="../../technology/phonebox/">Audi Phone BOX</a></td>
+            <td></td>
+            <td>9ZE</td>
+        </tr>
+         <tr>
+            <td>MMI Experience Pro</td>
+            <td>
+                <ul>
+                    <li>Bang & Olufsen lydsystem</li>
+                    <li>AR Head-up-display</li>
+                    <li>Ambiente lyspakke plus</li>
+                    <li>Integrert MS office</li>
+                </ul>
+            </td>
+            <td>
+            PYH
+            </td>
+        </tr>
+         <tr>
+            <td><a href="../../technology/soundsystem/">Høyttalere i hodestøttene</a></td>
             <td>fås kun i kombinasjon med MMI Experience Pro</td>
             <td></td>
         </tr>
@@ -327,13 +418,13 @@ You can choose between serveral seat types and seat materials. Click links below
     <tbody>
         <tr>
             <td><a href="../../technology/drivingassistance/crossingassist/">Crossing assist</a></td>
-            <td></td>
-            <td></td>
+            <td>standard</td>
+            <td>JX1</td>
         </tr>
         <tr>
             <td><a href="../../technology/drivingassistance/sideassist/">Side assist</a></td>
-            <td></td>
-            <td></td>
+            <td>standard</td>
+            <td>79H</td>
         </tr>
         <tr>
             <td><a href="../../technology/drivingassistance/exitwarning/">exit warning</a></td>
@@ -355,11 +446,6 @@ You can choose between serveral seat types and seat materials. Click links below
             <td></td>
             <td></td>
         </tr>
-         <tr>
-            <td><a href="../../technology/drivingassistance/adaptivecruiseassist/">Adaptive cruise assist</a></td>
-            <td></td>
-            <td></td>
-        </tr>
         <tr>
             <td><a href="../../technology/drivingassistance/adaptivecruisecontrol/">Adaptive cruise control</a></td>
             <td></td>
@@ -372,11 +458,6 @@ You can choose between serveral seat types and seat materials. Click links below
         </tr>
         <tr>
             <td><a href="../../technology/drivingassistance/turnassist/">Turn assist</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="../../technology/drivingassistance/trafficsignrecognition">Traffic sign recognition</a></td>
             <td></td>
             <td></td>
         </tr>
@@ -410,16 +491,49 @@ You can choose between serveral seat types and seat materials. Click links below
             <td></td>
             <td></td>
         </tr>
-        <tr>
-            <td><a href="../../technology/drivingassistance/parkassist/">Park assist</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="../../technology/drivingassistance/360camera/">360 camera</a></td>
-            <td></td>
-            <td></td>
-        </tr>
+       <tr>
+        <td>Assistentpakke Plus</td>
+        <td>
+            <ul>
+                <li><a href="../../technology/drivingassistance/adaptivecruisecontrol/">Adaptive cruise control</a></li>
+                <li><a href="../../technology/drivingassistance/trafficsignrecognition">Traffic sign recognition</a></li>
+                <li><a href="../../technology/drivingassistance/360camera/">Omgivelseskamera</a></li>
+                <li><a href="../../technology/drivingassistance/parkassist/">Parkeringsassistent</a> og parkeringshjelp</li>
+            </ul>
+        </td>
+        <td>
+        PYI
+        </td>
+    </tr>
+    <tr>
+        <td>Assistentpakke Plus</td>
+        <td>
+            <ul>
+                <li><a href="../../technology/drivingassistance/adaptivecruisecontrol/">Adaptive cruise control</a></li>
+                <li><a href="../../technology/drivingassistance/trafficsignrecognition">Traffic sign recognition</a></li>
+                <li><a href="../../technology/drivingassistance/360camera/">Omgivelseskamera</a></li>
+                <li><a href="../../technology/drivingassistance/parkassist/">Parkeringsassistent</a> og parkeringshjelp</li>
+                <li><a href="../../technology/drivingassistance/adaptivecruiseassist/">Adaptive cruise assist</a></li>
+            </ul>
+        </td>
+        <td>
+        PYL
+        </td>
+    </tr>
+    <tr>
+        <td>Sikkerhetspakke</td>
+        <td>
+            <ul>
+              <li>Nødbremseassistent bak</li>
+              <li>Proaktiv passasjerbeskyttelse 360</li>
+              <li>Sidekollisjonsputer bak</li>
+              <li>Filskifteassistent med nødstopp</li>
+            </ul>
+        </td>
+        <td>
+        PYL
+        </td>
+    </tr>
     </tbody>
 </table>
 </div>
@@ -574,23 +688,14 @@ You can choose between serveral seat types and seat materials. Click links below
             </ul>
         </td>
     </tr>
-      <tr>
-        <td>Assistentpakke Plus</td>
+
+    <tr>
+        <td>Vinterpakke</td>
         <td>
             <ul>
-                <li>Adaptiv cruise control</li>
-                <li>Trafikkskiltgjenkjenning</li>
-                <li>Omgivelseskamera</li>
-                <li>Parkeringsassistent og parkeringshjelp</li>
-            </ul>
-        </td>
-    </tr>
-     <tr>
-        <td>MMI Experience Pro</td>
-        <td>
-            <ul>
-                <li>Bang & Olufsen lydsystem</li>
-                 <li>Head-up-display</li>
+                <li>Komfort førklimatisering</li>
+                 <li>Rattoppvarming</li>
+                 <li>Setevarme foran og bak</li>
             </ul>
         </td>
     </tr>

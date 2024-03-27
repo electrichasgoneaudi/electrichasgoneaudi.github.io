@@ -133,6 +133,18 @@ Med den valgfrie massasjefunksjonen kan brukeren velge mellom tre forskjellige i
         <td>Standard</td>
     </tr>
         <tr>
+        <td>Massage front seats</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>Standard</td>
+    </tr>
+        <tr>
+        <td>Ventilation front seats</td>
+        <td>N/A</td>
+        <td>Option</td>
+        <td>N/A</td>
+    </tr>
+        <tr>
         <td>Rear seat split</td>
         <td>40:20:40</td>
         <td>40:20:40</td>
