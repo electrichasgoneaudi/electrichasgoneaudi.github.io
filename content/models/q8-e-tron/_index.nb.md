@@ -3,6 +3,7 @@ title: Audi Q8 e-tron
 linktitle: Audi Q8 e-tron
 description: Audi Q8 e-tron er midtlivsoppdateringen til den svært populære Audi e-tron. Med seks forbedrede varianter, opptil 44 % lengre rekkevidde og 9 % forbedret effektivitet sammen med designendringer. electrichasgoneaudi.net har alle detaljene.
 weight: 5
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 

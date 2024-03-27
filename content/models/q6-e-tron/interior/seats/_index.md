@@ -134,7 +134,7 @@ With the optional massage function, the user can select from three different int
     <tr>
         <td>Front seat massage</td>
         <td>N/A</td>
-        <td>Option</td>
+        <td>N/A</td>
         <td>Option</td>
     </tr>
     <tr>
