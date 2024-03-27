@@ -166,11 +166,23 @@ With the optional massage function, the user can select from three different int
 </div>
 
 
-## Standard Seats
+## Normal Seats
 
 {{< sitefiguresized thumb="models/q6-e-tron/interior/seats/frontseats_7_st.jpg" width="2560" height="1388" title="Normal seats with fabric -Interior package 99K" >}}
 
+{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/frontseats_8_st.jpg" width="2560" height="1388" title="Normal seats with brown leather" >}}
+
+{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/frontseats_9_st.jpg" width="2560" height="1388" title="Normal seats with black leather" >}}
+
+{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/frontseats_13_st.jpg" width="2560" height="1388" title="Normal seats beige leather" >}}
+
 ## Sport Seats
+
+{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/frontseats_10_st.jpg" width="2560" height="1388" title="Sport seats with fabric - Interior package PWD" >}}
+
+{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/frontseats_11_st.jpg" width="2560" height="1388" title="Sport seats with black leather" >}}
+
+{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/frontseats_12_st.jpg" width="2560" height="1388" title="S-line Sport seats with fabric -Interior package PWK" >}}
 
 {{< sitefiguresized thumb="models/q6-e-tron/interior/seats/frontseats_1_st.jpg" width="3000" height="2249" title="Sport Seats - Interior package PWF" >}}
 
@@ -182,12 +194,16 @@ With the optional massage function, the user can select from three different int
 
 {{< sitefiguresized thumb="models/q6-e-tron/interior/seats/rearseats_2_st.jpg" width="1920" height="1080" title="S-line Sport Seats  - Interior package PWK" >}}
 
+{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/frontseats_14_st.jpg" width="2560" height="1381" title="S-line Sport Seats with black leather" >}}
+
+{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/frontseats_15_st.jpg" width="2560" height="1378" title="S-line Sport Seats with grey leather" >}}
 
 ## Sport Seats Plus
 
-{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/frontseats_3_st.jpg" width="3000" height="2249" title="Sport Seats Plus" >}}
+{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/frontseats_3_st.jpg" width="3000" height="2249" title="Sport Seats Plus with dinamica" >}}
 
-{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/frontseats_6_st.jpg" width="1920" height="1920" title="Sport Seats Plus" >}}
+{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/frontseats_6_st.jpg" width="1920" height="1920" title="Sport Seats Plus with dinamica" >}}
 
-{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/rearseats_3_st.jpg" width="3000" height="2249" title="Sport Seats Plus" >}}
+{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/rearseats_3_st.jpg" width="3000" height="2249" title="Sport Seats Plus with dinamica" >}}
 
+{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/frontseats_16_st.jpg" width="2560" height="1385" title="Sport Seats Plus in nappa leather" >}}
