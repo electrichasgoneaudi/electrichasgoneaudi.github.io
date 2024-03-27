@@ -35,7 +35,6 @@ See below for details about the exterior options.
 	</p>
 	<a href="paint/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron paint colors</a>
 </div>
-
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="wheels/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/exterior/wheels/wheeltype_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
 	<h2>Wheels</h2>
@@ -44,7 +43,6 @@ See below for details about the exterior options.
 	</p>
 	<a href="wheels/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron wheel options</a>
 </div>
-
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="paintedcalibers/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/exterior/paintedcalibers/calibers_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
 	<h2>Painted calibers</h2>
@@ -53,7 +51,6 @@ See below for details about the exterior options.
 	</p>
 	<a href="paintedcalibers/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron painted calibers</a>
 </div>
-
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="panoramicroof/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/exterior/panoramicroof/panoramic_2_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
 	<h2>Panoramic roof</h2>
@@ -61,4 +58,12 @@ See below for details about the exterior options.
 		Audi Q6 e-tron offers panoramic roof as an option
 	</p>
 	<a href="panoramicroof/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron panoramic roof</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="s-line/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/exterior/s-line/comparison_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<h2>S-Line exterior</h2>
+	<p>
+		Audi Q6 e-tron offers s-line exterior package as an option
+	</p>
+	<a href="s-line/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron s-line exterior package</a>
 </div>
