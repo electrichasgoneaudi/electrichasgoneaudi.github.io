@@ -9,29 +9,104 @@ sectiontabs: "/models/q6-e-tron/exterior/"
 
 The following wheels is available to select to Audi Q6 e-tron
 
+## 18" 10-Spoke
 
-## 19"
+8,0J|9,0Jx18, Wheels 235/65|255/60 R18
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeltype_7_st.jpg" width="1153" height="457" title="Rims, 5-double spoke flag, 8.0J|9.0Jx19, tires 235/60|255/55 R19" >}}
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_18inch_1.jpg" width="2300" height="1000" title="10-spoke 18-inch" >}}
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeltype_8_st.jpg" width="1144" height="465" title="Rims in 5-double-spoke dynamic design, graphite grey, high-gloss polished 8,0 J | 9,0 J x 19 med 235/60 | 255/55 R 19" >}}
+## 19" 5-double spoke flag
+
+8.0J|9.0Jx19, tires 235/60|255/55 R19
+
+**Option** 41A
+
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_41a_1.jpg" width="2300" height="1000" title="5-double spoke flag" >}}
+
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_41a_2.jpg" width="750" height="750" title="5-double spoke flag" >}}
+
+## 19" 5-double-spoke dynamic design
+
+ 8.0J|9.0Jx19, tires 235/60|255/55 R19
+
+**Option** 41M
+
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_41m_1.jpg" width="2300" height="1000" title="5-double spoke flag" >}}
+
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_41m_2.jpg" width="750" height="750" title="5-double spoke flag" >}}
 
 
-## 20"
+## 20"  10-spoke trapezoidal design in black metallic, gloss polished
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeltype_1_st.jpg" width="1144" height="497" title="Rims from Audi Sport in 10-spoke trapezoidal design in black metallic, gloss polished  8,5J | 10,0 J x 20 med 255/50 | 285/45 R 20" >}}
+8,5J | 10,0 J x 20 med 255/50 | 285/45 R 20
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeltype_3_st.jpg" width="1141" height="448" title="Rims from Audi Sport in 5-double-spoke offset design, gray silk matt, high-gloss polished 8,5 J | 10,0 J x 20 med 255/50 | 285/45 R 20" >}}
+**Option** 58R
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeltype_5_st.jpg" width="1149" height="437" title="Rims in 5-spoke structural design, graphite grey, high-gloss polished 8,5 J | 10,0 J x 20 med 255/50 | 285/45 R 20" >}}
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_58r_1.jpg" width="2300" height="1000" title="10-spoke trapezoidal design" >}}
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeltype_6_st.jpg" width="1135" height="463" title="Rims, 5-double spoke Falx, 8.5J|10.0Jx20, tires 255/50|285/45 R20" >}}
-
-## 21"
-
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeltype_2_st.jpg" width="1141" height="468" title="Rims from Audi Sport in 5-arm aero design in black metallic, gloss polished , darkness 9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21" >}}
-
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeltype_4_st.jpg" width="1134" height="444" title="Rims from Audi Sport in 5 Y-spoke dynamic design in black metallic, polished 9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21" >}}
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_58r_2.jpg" width="750" height="750" title="10-spoke trapezoidal design" >}}
 
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeltype_9_st.jpg" width="1135" height="468"  title="Rims in 5-V spoke structure design, graphite grey, gloss polished 9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21" >}}
+## 20"  5-double-spoke offset design, gray silk matt, high-gloss polished
+
+8,5 J | 10,0 J x 20 med 255/50 | 285/45 R 20
+
+**Option** 58Q
+
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_58q_1.jpg" width="2300" height="1000" title="5-double-spoke offset design," >}}
+
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_58q_2.jpg" width="750" height="750" title="5--double-spoke offset design," >}}
+
+
+## 20"  5-spoke structural design, graphite grey, high-gloss polished
+
+8,5 J | 10,0 J x 20 med 255/50 | 285/45 R 20
+
+**Option** 52T
+
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_52t_1.jpg" width="2300" height="1000" title="5-spoke structural design" >}}
+
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_52t_2.jpg" width="750" height="750" title="5-spoke structural design" >}}
+
+
+## 20"  5-double spoke Falx
+
+8,5 J | 10,0 J x 20 med 255/50 | 285/45 R 20
+
+**Option** 54V
+
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_54v_1.jpg" width="2300" height="1000" title="5-double spoke Falx" >}}
+
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_54v_2.jpg" width="750" height="750" title="5-double spoke Falx" >}}
+
+## 21" 5-arm aero design in black metallic, gloss polished
+
+9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21
+
+**Option** C9K
+
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_c9k_1.jpg" width="2300" height="1000" title="5-arm aero design in black metallic, gloss polished" >}}
+
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_c9k_2.jpg" width="750" height="750" title="5-arm aero design in black metallic, gloss polished" >}}
+
+
+## 21" 5 Y-spoke dynamic design in black metallic, polished
+
+9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21
+
+**Option** V39
+
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_v39_1.jpg" width="2300" height="1000" title="5 Y-spoke dynamic design in black metallic, polished" >}}
+
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_v39_2.jpg" width="750" height="750" title="5 Y-spoke dynamic design in black metallic, polished" >}}
+
+
+## 21" 5-V spoke structure design, graphite grey, gloss polished
+
+9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21
+
+**Option** 46X 
+
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_46x_1.jpg" width="2300" height="1000" title="5-V spoke structure design, graphite grey, gloss polished" >}}
+
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_46x_2.jpg" width="750" height="750" title="5-V spoke structure design, graphite grey, gloss polished" >}}
