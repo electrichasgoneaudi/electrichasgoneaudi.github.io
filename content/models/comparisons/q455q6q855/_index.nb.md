@@ -395,19 +395,19 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
     <tr>
         <td>Gross Vehicle Weight</td>
         <td>2750kg</td>
-         <td>?kg</td>
+         <td>2965kg</td>
         <td>3180kg</td>
     </tr>
     <tr>
         <td>Max Payload</td>
         <td>590kg</td>
-         <td>?</td>
+         <td>640kg</td>
         <td>670kg</td>
     </tr>
     <tr>
         <td>Standard wheels front</td>
         <td>235/55-R19</td>
-         <td>640</td>
+         <td>235/65-R18</td>
         <td>255/55-R19</td>
     </tr>
     <tr>
@@ -429,7 +429,7 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
         <td>255/55-R20, 265/45-R21, 265/40-R22 </td>
     </tr>
     <tr>
-        <td>Number of wheels </td>
+        <td>Antall felgmuligheter </td>
         <td>10</td>
          <td>?</td>
         <td>11</td>
@@ -618,7 +618,7 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
         <td>Night Vision</td>
         <td>N/A</td>
         <td>N/A</td>
-        <td><a href="../../q8-e-tron/technology/drivingassistance/nightvision/">ekstrautstyr</a></td>
+        <td>N/A</td>
     </tr>
     <tr>
         <td>Head up display</td>

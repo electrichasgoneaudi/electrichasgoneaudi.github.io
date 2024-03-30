@@ -611,7 +611,7 @@ Below, you will see the models' full specifications and comparison options.
         <td>Night Vision</td>
         <td>N/A</td>
         <td>N/A</td>
-        <td><a href="../../q8-e-tron/technology/drivingassistance/nightvision/">option</a></td>
+        <td>N/A</td>
     </tr>
     <tr>
         <td>Head up display</td>
