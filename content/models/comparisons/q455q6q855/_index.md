@@ -188,9 +188,9 @@ Below, you will see the models' full specifications and comparison options.
         </th>
         <th>Q4 e-tron 55 quattro
         </th>
-        <th>Q6 e-tron quattro 
+        <th>Q6 e-tron quattro
         </th>
-        <th>Q8 e-tron 55 
+        <th>Q8 e-tron 55
     </thead>
     <tbody>
     <tr>
@@ -268,19 +268,19 @@ Below, you will see the models' full specifications and comparison options.
     <tr>
         <td>AC Charging</td>
         <td><a href="../../q4-e-tron/technology/onboardcharger/">11 kW</a> </td>
-        <td><a href="../../q6-e-tron/technology/onboardcharger/">11KW</a></td>
+        <td><a href="../../q6-e-tron/technology/onboardcharger/">11KW (22KW optional later)</a></td>
         <td><a href="../../q8-e-tron/technology/onboardcharger/#optional-22kw-charger">11KW (22KW optional)</a></td>
     </tr>
     <tr>
         <td>Additional charge port</td>
         <td>N/A</td>
-        <td><a href="../../q6-e-tron/technology/onboardcharger/#optional-charge-port">optional</a></td>
+        <td><a href="../../q6-e-tron/technology/onboardcharger/">standard</a></td>
         <td><a href="../../q8-e-tron/technology/onboardcharger/#optional-charge-port">optional</a></td>
     </tr>
     <tr>
         <td>Pre heating battery</td>
-        <td>Yes</td>
-        <td>Yes</td>
+        <td>Yes (Navigation)</td>
+        <td>Yes (Navigation)</td>
         <td>No</td>
     </tr>
     <tr>
@@ -298,13 +298,13 @@ Below, you will see the models' full specifications and comparison options.
    <tr>
         <td>WLTP Range top trim </td>
         <td>450km</td>
-        <td>?</td>
+        <td>540km</td>
         <td>487km</td>
     </tr>
     <tr>
         <td>Calculated consumption top trim</td>
         <td>17.14 kWh/100km</a> </td>
-        <td>?</td>
+        <td>17.6 kWh/100km</td>
         <td>21.8 kWh/100km </td>
     </tr>
     <tr>
@@ -376,7 +376,7 @@ Below, you will see the models' full specifications and comparison options.
     <tr>
         <td>Track width</td>
         <td>1587mm</td>
-         <td>1661/1640mm (front/rear(</td>
+         <td>1661/1640mm (front/rear)</td>
         <td>1655mm</td>
     </tr>
     <tr>
@@ -428,7 +428,7 @@ Below, you will see the models' full specifications and comparison options.
         <td>255/55-R20, 265/45-R21, 265/40-R22 </td>
     </tr>
     <tr>
-        <td>Number of wheels </td>
+        <td>Number of wheel options </td>
         <td>10</td>
          <td>?</td>
         <td>11</td>
@@ -472,7 +472,7 @@ Below, you will see the models' full specifications and comparison options.
         <tr>
         <td>MMI Navigation Plus</td>
         <td><a href="../../q4-e-tron/technology/uiandoperations/navigation">option</a> </td>
-         <td>?</td>
+         <td><a href="../../q6-e-tron/technology/uiandoperations/navigation/">standard</a></td>
         <td><a href="../../q8-e-tron/technology/uiandoperations/navigation/">standard</a></td>
     </tr>
     <tr>
@@ -538,7 +538,7 @@ Below, you will see the models' full specifications and comparison options.
     <tr>
         <td> Heatpump</td>
         <td><a href="../../q4-e-tron/technology/climatecontrol/">option</a></td>
-         <td>?</td>
+         <td><a href="../../q6-e-tron/technology/climatecontrol/">standard</a></td>
         <td><a href="../../q8-e-tron/technology/climatecontrol/">standard</a></td>
     </tr>
     <tr>
@@ -725,7 +725,7 @@ Below, you will see the models' full specifications and comparison options.
     <tr>
         <td>Entry lights</td>
         <td>option</td>
-        <td>?</td>
+        <td>option</td>
         <td>option</td>
     </tr>
     <tr>
@@ -815,7 +815,7 @@ Below, you will see the models' full specifications and comparison options.
      <tr>
         <td>Audi connect key</td>
         <td>N/A</td>
-        <td>N/A?</td>
+        <td><a href="../../q8-e-tron/technology/lockingsystems/#audi-connect-key-2f1">option</a></td>
         <td><a href="../../q8-e-tron/technology/lockingsystems/#audi-connect-key-2f1">option</a></td>
     </tr>
          <tr>
@@ -839,7 +839,7 @@ Below, you will see the models' full specifications and comparison options.
     <tr>
         <td>Black optics</td>
        <td><a href="../../q4-e-tron/exterior/optics/">option</a></td>
-        <td>?</td>
+        <td><a href="../../q6-e-tron/exterior/optics/">option</a></td>
         <td><a href="../../q8-e-tron/exterior/optics/">option</a></td>
     </tr>
     <tr>

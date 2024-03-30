@@ -189,9 +189,9 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
         </th>
         <th>Q4 e-tron 55 quattro
         </th>
-        <th>Q6 e-tron quattro 
+        <th>Q6 e-tron quattro
         </th>
-        <th>Q8 e-tron 55 
+        <th>Q8 e-tron 55
     </thead>
     <tbody>
     <tr>
@@ -275,7 +275,7 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
     <tr>
         <td>Additional charge port</td>
         <td>N/A</td>
-        <td><a href="../../q6-e-tron/technology/onboardcharger/#optional-charge-port">optional</a></td>
+        <td><a href="../../q6-e-tron/technology/onboardcharger/#optional-charge-port">standard</a></td>
         <td><a href="../../q8-e-tron/technology/onboardcharger/#optional-charge-port">optional</a></td>
     </tr>
     <tr>
@@ -299,13 +299,13 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
    <tr>
         <td>WLTP Range top trim </td>
         <td>450km</td>
-        <td>?</td>
+        <td>540km</td>
         <td>487km</td>
     </tr>
     <tr>
         <td>Calculated consumption top trim</td>
         <td>17.14 kWh/100km</a> </td>
-        <td>?</td>
+        <td>17.6 kWh/100km</td>
         <td>21.8 kWh/100km </td>
     </tr>
     <tr>
@@ -365,7 +365,7 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
     <tr>
         <td>Width with mirrors</td>
         <td>2108mm</td>
-         <td>?</td>
+         <td>2193mm</td>
         <td>2189mm</td>
     </tr>
     <tr>
@@ -377,7 +377,7 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
     <tr>
         <td>Track width</td>
         <td>1587mm</td>
-         <td>?</td>
+         <td>1661/1640mm (front/rear)</td>
         <td>1655mm</td>
     </tr>
     <tr>
@@ -407,13 +407,13 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
     <tr>
         <td>Standard wheels front</td>
         <td>235/55-R19</td>
-         <td>?</td>
+         <td>640</td>
         <td>255/55-R19</td>
     </tr>
     <tr>
         <td>Standard wheels rear</td>
         <td>255/50-R19 </td>
-         <td>?</td>
+         <td>235/65-R18</td>
         <td>255/55-R19</td>
     </tr>
     <tr>
@@ -545,7 +545,7 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
     <tr>
         <td> Heatpump</td>
         <td><a href="../../q4-e-tron/technology/climatecontrol/">ekstrautstyr</a></td>
-         <td>?</td>
+        <td><a href="../../q6-e-tron/technology/climatecontrol/">standard</a></td>
         <td><a href="../../q8-e-tron/technology/climatecontrol/">standard</a></td>
     </tr>
     <tr>
