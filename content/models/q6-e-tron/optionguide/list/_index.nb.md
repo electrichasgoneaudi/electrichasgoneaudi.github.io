@@ -179,24 +179,44 @@ Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 21". C
     </thead>
     <tbody>
         <tr>
-            <td><a href="../../exterior/wheels/">S Line eksteriør</a></td>
+            <td><a href="../../exterior/s-line/">S Line eksteriør</a></td>
             <td></td>
-            <td></td>
+            <td>PY2</td>
         </tr>
         <tr>
-            <td><a href="../../exterior/wheels/">Sort optikk pakke</a></td>
+            <td><a href="../../exterior/optics/">Sort optikk pakke</a></td>
             <td>tvang til S line eksteriør</td>
             <td></td>
         </tr>
         <tr>
-            <td><a href="../../exterior/wheels/">Røde bremsekalippere</a></td>
+            <td><a href="../../exterior/paintedcalibers/">Røde bremsekalippere</a></td>
             <td>tvang til S line eksteriør</td>
             <td></td>
         </tr>
-                <tr>
-            <td><a href="../../exterior/wheels/">Hellakkering</a></td>
-            <td>(standard på S-line og SQ6)</td>
+        <tr>
+            <td>Sorte vinduslister</td>
+            <td>Standard</td>
+            <td>4ZA</td>
+        </tr>
+        <tr>
+            <td>Sorte takrails</td>
+            <td>Standard</td>
+            <td>3S2</td>
+        </tr>
+        <tr>
+            <td>Blanke takrails</td>
+            <td>Standard</td>
+            <td>3S1</td>
+        </tr>
+        <tr>
+            <td>Modellbetegnelse på bakluke</td>
+            <td>Standard</td>
+            <td>2Z7</td>
+        </tr>
+        <tr>
+            <td>Uten modellbetegnelse på bakluke</td>
             <td></td>
+            <td>2Z0</td>
         </tr>
     </tbody>
 </table>
