@@ -110,3 +110,7 @@ The following wheels have been available from Audi to Audi Q6 e-tron. Varies for
 {{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_46x_1.jpg" width="2300" height="1000" title="5-V spoke structure design, graphite grey, gloss polished" >}}
 
 {{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_46x_2.jpg" width="750" height="750" title="5-V spoke structure design, graphite grey, gloss polished" >}}
+
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_46x_2.jpg" width="1200" height="600" title="5-V spoke structure design, graphite grey, gloss polished" >}}
+
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_46x_2.jpg" width="1200" height="1200" title="5-V spoke structure design, graphite grey, gloss polished" >}}
