@@ -24,6 +24,9 @@ The Audi Q6 e-tron quattro and the Audi SQ6 e-tron have SUV bodies. At a later s
 
 - [Audi Q6 e-tron quattro](variants/#audi-q6-e-tron-quattro) with 100kWh battery and up to 625 km WLTP range (From 74.700 euros)
 - [Audi SQ6 e-tron](variants/#audi-sq6-e-tron) with 100 kWh battery and up to 615 km WLTP range (From 93.800 euros)
+- [Audi Q6L e-tron quattro](variants/#audi-q6-e-tron-quattro) with 107kWh battery and up to 700 km CLTC range (China Only)
+- [Audi Q6L e-tron](variants/#audi-q6-e-tron-quattro) with 107kWh battery and up to 700 km CLTC range (China Only)
+
 
 Electrichasgoneaudi.net expects the following variants to be available at a later time.
 
@@ -53,60 +56,10 @@ There will be wheel options from 19 to 21 inches.
 
 The Audi Q6 e-tron will be available with different seat options. From standard seats, sports seats, and comfort seats. Some with the possibility of ventilation and massage. It will also be available with an animal-free interior and a full leather interior with different colors. An s-line interior will also be an option.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_2_st.jpg" class="img-fluid" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
-    </a>
-    <figcaption><h4>Audi Q6 e-tron interior</h4></figcaption>
-</figure>
 
+{{< sitefiguresized thumb="models/q6-e-tron/interior/interior_5_st.jpg" width="3000" height="2249" title="Audi Q6 interior" >}}
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_3_st.jpg" class="img-fluid" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
-    </a>
-    <figcaption><h4>Audi Q6 e-tron interior</h4></figcaption>
-</figure>
-
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_4_st.jpg" class="img-fluid" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
-    </a>
-    <figcaption><h4>Audi Q6 e-tron interior</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_5_st.jpg" class="img-fluid" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
-    </a>
-    <figcaption><h4>Audi Q6 e-tron interior</h4></figcaption>
-</figure>
-
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_6_st.jpg" class="img-fluid" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
-    </a>
-    <figcaption><h4>Audi Q6 e-tron interior</h4></figcaption>
-</figure>
-
-
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_7.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_7_st.jpg" class="img-fluid" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
-    </a>
-    <figcaption><h4>Audi Q6 e-tron interior</h4></figcaption>
-</figure>
-
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_8.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/interior_8_st.jpg" class="img-fluid" alt="Audi Q6 e-tron interior" title="Audi Q6 e-tron interior">
-    </a>
-    <figcaption><h4>Audi Q6 e-tron interior</h4></figcaption>
-</figure>
+See all details in the [Audi Q6 e-tron interior section](interior/)
 
 ## Drivetrain
 
@@ -285,36 +238,3 @@ Below you find videos and images of the prototype with information about the tec
 
 
 
-See below for video and images of the Q6 e-tron test-driving in winter.
-
-{{< youtube pbKUA1PNAAw >}}
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_1_st.jpg" class="img-fluid" alt="Audi Q6 prototype wintertesting" title="Audi Q6 prototype wintertesting">
-    </a>
-    <figcaption><h4>Audi Q6 prototype wintertesting</h4></figcaption>
-</figure>
-
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_3_st.jpg" class="img-fluid" alt="Audi Q6 prototype wintertesting" title="Audi Q6 prototype wintertesting">
-    </a>
-    <figcaption><h4>Audi Q6 prototype wintertesting</h4></figcaption>
-</figure>
-
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_4_st.jpg" class="img-fluid" alt="Audi Q6 prototype wintertesting" title="Audi Q6 prototype wintertesting">
-    </a>
-    <figcaption><h4>Audi Q6 prototype wintertesting</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_5_st.jpg" class="img-fluid" alt="Audi Q6 prototype wintertesting" title="Audi Q6 prototype wintertesting">
-    </a>
-    <figcaption><h4>Audi Q6 prototype wintertesting</h4></figcaption>
-</figure>
