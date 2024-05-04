@@ -18,9 +18,9 @@ If you want to discuss this model with the electrichasgoneaudi community, join o
 
 ## Audi Q6 e-tron variants.
 
-Two variants will be available to order from March 2024, and others will follow.
+Audi has currently released information about four variants that are available to order. 
 
-The Audi Q6 e-tron quattro and the Audi SQ6 e-tron have SUV bodies. At a later stage, Sportback versions (SUV Coupe) will be available.
+At a later stage, Sportback versions (SUV Coupe) will be available.
 
 - [Audi Q6 e-tron quattro](variants/#audi-q6-e-tron-quattro) with 100kWh battery and up to 625 km WLTP range (From 74.700 euros)
 - [Audi SQ6 e-tron](variants/#audi-sq6-e-tron) with 100 kWh battery and up to 615 km WLTP range (From 93.800 euros)
@@ -37,25 +37,24 @@ Electrichasgoneaudi.net expects the following variants to be available at a late
 - Audi Q6 Sportback 50 e-tron with 100kWh battery and up to approx 650km WLTP range
 - Audi Q6 Sportback 45 e-tron with 83kWh battery and up to 540 km WLTP Range
   
-See more details in the [variants section](variants/).
-
+See all details in the [Audi Q6 e-tron variants section](variants/).
 
 ## Exterior
 
-The Audi Q6 e-tron will be available in SUV and Sportback designs, just like the Audi Q4 e-tron and Audi Q8 e-tron. In addition, it will have a large set of available colors, and you can order it with Audi-exclusive colors.
+The Audi Q6 e-tron will be available in SUV and Sportback designs, just like the Audi Q4 e-tron and Audi Q8 e-tron. In addition, it has a large set of available colors, and you can order it with Audi-exclusive colors.
 
-Black optics and black optics plus packages will be options. Same with tinted windows and a panoramic roof.
-
-There will be wheel options from 19 to 21 inches.
+Black optics and black optics plus packages are options. Same with tinted windows and a panoramic roof.
 
 {{< sitefiguresized thumb="models/q6-e-tron/q6exterior_1_st.jpg" width="3000" height="1999" title="Audi SQ6 e-tron" >}}
 
+There are currently wheel options from 19 to 21 inches.
+
+See all details in the [Audi Q6 e-tron exterior section](exterior/).
 
 
 ## Interior
 
 The Audi Q6 e-tron will be available with different seat options. From standard seats, sports seats, and comfort seats. Some with the possibility of ventilation and massage. It will also be available with an animal-free interior and a full leather interior with different colors. An s-line interior will also be an option.
-
 
 {{< sitefiguresized thumb="models/q6-e-tron/interior/interior_5_st.jpg" width="3000" height="2249" title="Audi Q6 interior" >}}
 
@@ -70,11 +69,13 @@ The battery in the Q6 e-tron consists of twelve or ten modules with prismatic ce
 The battery with the launch to have the following specifications
 
 - Twelve modules/180 cells with 100 kWh gross (96.8 kWh net)
+- Twelve modules/192 cells with 107 kWh gross (96.8 kWh net)
 
 These batteries will give the Audi Q6 e-tron a WLTP 625km, depending on the trim level for the largest battery. (15.18 kWh/100km)
 Thanks to 800-volt technology, the Q6 e-tron can be charged with a charging capacity of more than 270kW.  
 
-![Prototype](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/charging_st.jpg "Audi Q6 e-tron prototype charging by Auto Week NL")
+
+{{< sitefiguresized thumb="models/q6-e-tron/charging_st.jpg" width="1200" height="800" title="Audi Q6 e-tron prototype charging by Auto Week NL" >}}
 
 You can charge the battery from five to 80 percent in less than 25 minutes on an 800-volt 350KW charger.
 
@@ -85,17 +86,18 @@ If the station uses 400-volt technology, the Q6 e-tron uses 'bank charging' for 
 
 ### Motor and performance
 
-Electrichasgoneaudi.net expects the Audi Q6 e-tron to come in different performance versions.
+The Audi Q6 e-tron comes in different performance versions.
 
 - 2-wheel drive standard range (Audi Q6 e-tron 40?)
 - 2-wheel drive long range (Audi Q6 e-tron 45?)
-- Audi Q6 e-tron 55 quattro with 282KW/382hp + 20kw boost (confirmed)
-- Audi SQ6 e-tron  with 380KW/510hP + 20kw boost  (confirmed)
+- Audi Q6 e-tron 55 quattro with 282KW/382hp + 20kw boost
+- Audi SQ6 e-tron  with 380KW/510hP + 20kw boost
 - Audi RSQ6 e-tron with 450kW and +1000nm and rear axle steering
 
 Audi will use different motor setups on the om the variants.
 
-![Motors](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/motors_st.jpg "Motors for Audi Q6 e-tron")
+
+{{< sitefiguresized thumb="models/q6-e-tron/motors_st.jpg" width="1768" height="868" title="Motors for Audi Q6 e-tron" >}}
 
 Audi uses permanently excited synchronous electric motors (PSM) with hairpin winding on the PPE platform for rear motor and asyncronous motors on the front. 
 
@@ -104,14 +106,6 @@ Permanent magnets are fitted on the AC motor's rotor, generating a permanent mag
 For the top variants RSQ6 e-tron, the engineers are creating a dynamic, sporty driving experience with a fully variable electronically controlled rear differential and a so-called 'Performance rear axle.' Added to this is a powerful electric motor positioned behind the rear axle. This setup enables a rear-dominant all-wheel application across a wide spectrum. Moreover, in combination with the dynamic torque distribution in the all-wheel drive, it also supports high agility when accelerating out of corners.
 
 Audi will use only the latest-generation PSM motors that have several improvements. Audi has optimized the water jacket cooling to maximize the power density and used double V lamination on magnets.
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_2_st.jpg" class="img-fluid" alt="Audi Q6 prototype wintertesting" title="Audi Q6 prototype wintertesting">
-    </a>
-    <figcaption><h4>Audi Q6 prototype wintertesting</h4></figcaption>
-</figure>
-
 
 The development of power electronics has also taken a big step forward. Silicon carbide (SiC) is used instead of silicon as the pulse inverter (PWR) semiconductor material on the rear axle. This technology significantly reduces switching losses in the PWR, enables higher switching frequencies, and improves efficiency.
 
@@ -126,12 +120,7 @@ The Audi Drive Select is combined with air suspension and with steel suspension.
 
 With air suspension, depending on the speed, the body can be lowered in combination with the air suspension, improving the aerodynamics for an increased range.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain1_st.jpg" class="img-fluid" alt="PPE drivetrain" title="PPE drivetrain">
-    </a>
-    <figcaption><h4>PPE drivetrain</h4></figcaption>
-</figure>
+{{< sitefiguresized thumb="models/q6-e-tron/drivetrain/drivetrain_1_st.jpg" width="3000" height="1925" title="Audi Q6 e-tron drivetrain" >}}
 
 The wheel widths on the front and rear axles will differ significantly to accommodate the rear-focused weight distribution – for more grip and driving dynamics. 
 
@@ -200,41 +189,11 @@ Audi plans to reduce the number of combinations of options. So instead of most o
 
 ![options](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/options_st.jpg "Options")
 
-## Prototype testing and other media
-
-Below you find videos and images of the prototype with information about the technology
-
+## Media
 
 ### Video by Auditography
 
-{{< youtube a66ub_pUwtY >}}
-
-### Audi Q6 e-tron Prototype Drive – Trailer
-
-{{< youtube _lN6cB5bk_g >}}
-
-### Audi Q6 e-tron Experience – Prototype Drive
-
-{{< youtube qvQCDJ3sgJk >}}
-
-
-### Audi Q6 e-tron Experience – Interview with Dr. Michael Kruppa
-
-{{< youtube Cb4u-sS1P_k >}}
-
-### Audi Q6 e-tron Insights – #01 Light Technology
-
-{{< youtube BaKm8bMrdto >}}
-
-
-### Audi Q6 e-tron prototype – Digital light signature and Matrix LED headlights
-
-{{< youtube dYRrjRDXvBk >}}
-
-
-### Oled Rear lights
-
-{{< youtube OMx8x8J6Pro >}}
+{{< youtube 57PHF0qkvlQ >}}
 
 
 
