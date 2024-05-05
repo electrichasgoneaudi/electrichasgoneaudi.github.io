@@ -222,7 +222,39 @@ Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 21". C
 </table>
 </div>
 
+## Lys 
 
+<div class="table-responsive">
+<table class="table table-striped border">
+    <thead>
+        <tr>
+        <th>Title
+        </th>
+        <th>Description
+        </th>
+        <th>
+            ID
+        </th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>LED Hovedlykter</td>
+            <td>Standard</td>
+            <td>8IY/8J</td>
+        </tr>
+        <tr>
+            <td>Fjernlysassistent</td>
+            <td>Standard</td>
+            <td>8G1</td>
+        </tr>
+        <tr>
+            <td>LED Matrix</td>
+            <td>Standard Tech Pro / Tech Plus</td>
+            <td>8IY/8G4</td>
+        </tr>
+    </tbody>
+</table>
+</div>
 
 ## Speil, taksystemer og vinduer
 
@@ -777,6 +809,8 @@ You can choose between serveral seat types and seat materials. Click links below
         </th>
         <th>Description
         </th>
+        <th>ID
+        </td>
     </thead>
     <tbody>
     <tr>
@@ -790,6 +824,8 @@ You can choose between serveral seat types and seat materials. Click links below
                 <li>Frunk</li>
             </ul>
         </td>
+         <td>QE2
+        </td>
     </tr>
      <tr>
         <td>Komfortpakke</td>
@@ -800,6 +836,8 @@ You can choose between serveral seat types and seat materials. Click links below
                 <li>Komfort midtarmlene</li>
                 <li>LED projeksjonslys i speilene</li>
             </ul>
+        </td>
+          <td>PG9
         </td>
     </tr>
      <tr>
@@ -812,6 +850,8 @@ You can choose between serveral seat types and seat materials. Click links below
                 <li>LED projeksjonslys i speilene</li>
                 <li>Elektriske seter foran med minne for førersete</li>
             </ul>
+        </td>
+        <td>PG5
         </td>
     </tr>
      <tr>
@@ -827,6 +867,8 @@ You can choose between serveral seat types and seat materials. Click links below
                 <li>Garasjeportåpner</li>
             </ul>
         </td>
+        <td>PG6
+        </td>
     </tr>
     <tr>
         <td>Vinterpakke</td>
@@ -836,6 +878,98 @@ You can choose between serveral seat types and seat materials. Click links below
                  <li>Rattoppvarming</li>
                  <li>Setevarme foran og bak</li>
             </ul>
+        </td>
+        <td>
+        </td>
+    </tr>
+      <tr>
+        <td>Tech</td>
+        <td>
+            <ul>
+                <li>Komfortpakke</li>
+                <li>Komfort førklimatisering</li>
+                <li>Rattoppvarming</li>
+                <li>Setevarme foran og bak</li>
+                <li>LED-hovedlys pluss</li>
+                <li>Rensesystem for lyskastere</li>
+                <li>LED-baklys</li>
+                <li>Fjernlysassistenter</li>
+                <li>Dobbeleiker skinnratt med multifunksjon og Skift padleårer</li>
+                <li>Parkeringshjelp pluss med avstandsvisning</li>
+                <li>Omkringliggende kameraer</li>
+                <li>Parkeringsassistenter pluss</li>
+                <li>Adaptiv cruiseassistent</li>
+            </ul>
+        </td>
+        <td>
+        PQA
+        </td>
+    </tr>
+       <tr>
+        <td>Tech Plus</td>
+        <td>
+            <ul>
+                <li>Komfortpakke Plus</li>
+                <li>Komfort førklimatisering</li>
+                <li>Rattoppvarming</li>
+                <li>Setevarme foran og bak</li>
+                <li>Matrix LED-frontlykter</li>
+                <li>Rensesystem for lyskastere</li>
+                <li>LED-baklys</li>
+                <li>Fjernlysassistenter</li>
+                <li>Dobbeleiker skinnratt med multifunksjon og Skift padleårer</li>
+                <li>Parkeringshjelp pluss med avstandsvisning</li>
+                <li>Omkringliggende kameraer</li>
+                <li>Parkeringsassistenter pluss</li>
+                <li>Adaptiv cruiseassistent</li>
+                <li>MMI passasjerdisplay</li>
+                <li>Digitale lyssignaturer</li>
+                <li>e-tron sportslyd</li>
+                <li>S sportsunderstell</li>
+                <li>Sidekollisjonsputer foran og bak med hodekollisjonsputesystem og
+Interaksjonskollisjonspute foran</li>
+                <li>Blindsonevarsling</li>
+                <li>Nødstoppassistent unnamanøvringsassistent</li>
+                <li>proaktiv passasjerbeskyttelse foran, på siden og bak</li>
+                <li>Passasjerdeteksjon bak</li>
+            </ul>
+        </td>
+        <td>
+        PQB
+        </td>
+    </tr>
+           <tr>
+        <td>Tech Pro Q6</td>
+        <td>
+            <ul>
+                <li>Komfortpakke Pro</li>
+                <li>Komfort førklimatisering</li>
+                <li>Rattoppvarming</li>
+                <li>Setevarme foran og bak</li>
+                <li><a href="../../technology/lights/">Matrix LED-frontlykter</a></li>
+                <li>Rensesystem for lyskastere</li>
+                <li>Digitale OLED-baklys</li>
+                <li>Fjernlysassistenter</li>
+                <li>Dobbeleiker skinnratt med multifunksjon og Skift padleårer</li>
+                <li>Parkeringshjelp pluss med avstandsvisning</li>
+                <li>Omkringliggende kameraer</li>
+                <li>Parkeringsassistenter pluss</li>
+                <li>Adaptiv cruise control</li>
+                <li>Adaptiv cruise assist</li>
+                <li>MMI passasjerdisplay</li>
+                <li>Digitale lyssignaturer</li>
+                <li>e-tron sportslyd</li>
+                <li>Sidekollisjonsputer foran og bak med hodekollisjonsputesystem og
+Interaksjonskollisjonspute foran</li>
+                <li><a href="../../technology/drivingassistance/sideassist/">Blindsonevarsling</a></li>
+                <li>Nødstoppassistent unnamanøvringsassistent</li>
+                <li>proaktiv passasjerbeskyttelse foran, på siden og bak</li>
+                <li>Passasjerdeteksjon bak</li>
+                <li><a href="../../drivetrain/suspension">Adaptiv luftfjæring</a></li>
+            </ul>
+        </td>
+        <td>
+        PQC
         </td>
     </tr>
     </tbody>

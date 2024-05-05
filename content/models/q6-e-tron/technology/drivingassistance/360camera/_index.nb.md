@@ -1,7 +1,7 @@
 ---
-title: Audi Q8 e-tron 360 kamera
+title: Audi Q6 e-tron 360 kamera
 linktitle: 360 kamera
-description: Audi Q8 e-tron kan leveres med 360 kamera . De fire 360 graders kameraene på kjøretøyet skanner umiddelbar nærhet og viser hindringer innenfor. Sjåfører kan velge mellom ulike visninger som forenkler parkering og manøvrering.
+description: Audi Q6 e-tron leveres med 360 kamera som standard. De fire 360 graders kameraene på kjøretøyet skanner umiddelbar nærhet og viser hindringer innenfor. Sjåfører kan velge mellom ulike visninger som forenkler parkering og manøvrering.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
@@ -32,7 +32,3 @@ En tilleggsfunksjon for noen modeller er en virtuell 3D-visning. Føreren kan br
     </a>
     <figcaption><h4>3D visning</h4></figcaption>
 </figure>
-
-360-kamera(Omgivelsesvisning) har alternativ-ID **PCZ** (omgivelsesvisning).
-
-{{<children description="true" />}}
