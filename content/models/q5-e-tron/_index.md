@@ -3,6 +3,7 @@ title: Audi Q5 e-tron
 linktitle: Audi Q5 e-tron
 description: The Audi Q5 e-tron is a 7 seater version of Audi Q4 and comes in 3 variants. It is only sold in China.
 weight: 3
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 

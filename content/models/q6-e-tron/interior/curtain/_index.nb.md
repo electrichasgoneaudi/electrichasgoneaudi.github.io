@@ -9,11 +9,5 @@ Har du barn i baksetet er det på det sterkeste anbefalt.
 
 Dette er valg nr **3Y4**
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/curtain/curtain.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/curtain/curtains.jpg"
-        class="img-fluid" alt="Gardin" title="Gardin">
-    </a>
-    <figcaption><h4>Gardin</h4></figcaption>
-</figure>
+{{< sitefiguresized thumb="models/q6-e-tron/interior/curtain/curtain_1_st.jpg" width="1280" height="720" title="Audi Q6 rear door curtain" >}}
 

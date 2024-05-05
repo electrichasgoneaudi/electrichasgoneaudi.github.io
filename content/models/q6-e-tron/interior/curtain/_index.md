@@ -8,10 +8,5 @@ weight: 9
 
 This option has optionId **3Y4**
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/curtain/curtain.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/curtain/curtains.jpg"
-        class="img-fluid" alt="Curtain" title="Curtain">
-    </a>
-    <figcaption><h4>Curtain</h4></figcaption>
-</figure>
+
+{{< sitefiguresized thumb="models/q6-e-tron/interior/curtain/curtain_1_st.jpg" width="1280" height="720" title="Audi Q6 rear door curtain" >}}

@@ -224,7 +224,7 @@ Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 21". C
 
 
 
-## Vinduer
+## Speil, taksystemer og vinduer
 
 
 <div class="table-responsive">
@@ -241,19 +241,44 @@ Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 21". C
     </thead>
     <tbody>
         <tr>
-            <td>Mørke ruter</td>
-            <td></td>
-            <td></td>
+            <td>Speilhus i bilens farge</td>
+            <td>Standard Q6</td>
+            <td>6FA</td>
         </tr>
         <tr>
-            <td>Akustikkglass</td>
-            <td></td>
-            <td></td>
+            <td>Speilhus i krom matt sølv</td>
+            <td>Standard SQ6</td>
+            <td>6FA</td>
         </tr>
-                <tr>
+         <tr>
+            <td>Panoramasoltak</td>
+            <td></td>
+            <td>3FU</td>
+        </tr>
+        <tr>
+            <td>Frontrute av støydempende glass</td>
+            <td>Standard</td>
+            <td>4GQ</td>
+        </tr>
+        <tr>
+            <td>Sidevinduer og bakrute med varmedempende glass</td>
+            <td>Standard</td>
+            <td>4KC</td>
+        </tr>
+          <tr>
+            <td>Støydempende glass i dørvinduene foran</td>
+            <td></td>
+            <td>VW5</td>
+        </tr>
+        <tr>
+            <td>Ekstra mørke ruter</td>
+            <td></td>
+            <td>QL5</td>
+        </tr>
+        <tr>
             <td>Manuelle solgardiner bak</td>
             <td></td>
-            <td></td>
+            <td>3Y4</td>
         </tr>
     </tbody>
 </table>
@@ -803,7 +828,6 @@ You can choose between serveral seat types and seat materials. Click links below
             </ul>
         </td>
     </tr>
-
     <tr>
         <td>Vinterpakke</td>
         <td>

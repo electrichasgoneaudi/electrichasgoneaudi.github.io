@@ -174,8 +174,65 @@ Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 22". C
 
 
 
-## Mirror and roof system
 
+## Speil, taksystemer og vinduer
+
+<div class="table-responsive">
+<table class="table table-striped border">
+     <thead>
+         <tr>
+         <th>Title
+         </th>
+         <th>Description
+         </th>
+         <th>
+             ID
+         </th>
+     </thead>
+     <tbody>
+         <tr>
+             <td>Mirror housing in the color of the car</td>
+             <td>Standard Q6</td>
+             <td>6FA</td>
+         </tr>
+         <tr>
+             <td>Mirror housing in chrome matt silver</td>
+             <td>Standard SQ6</td>
+             <td>6FA</td>
+         </tr>
+          <tr>
+             <td>Panoramic sunroof</td>
+             <td></td>
+             <td>3FU</td>
+         </tr>
+         <tr>
+             <td>Windscreen made of noise-reducing glass</td>
+             <td>Default</td>
+             <td>4GQ</td>
+         </tr>
+         <tr>
+             <td>Side windows and rear window with heat-absorbing glass</td>
+             <td>Default</td>
+             <td>4KC</td>
+         </tr>
+           <tr>
+             <td>Noise dampening glass in the front door windows</td>
+             <td></td>
+             <td>VW5</td>
+         </tr>
+         <tr>
+             <td>Extra dark squares</td>
+             <td></td>
+             <td>QL5</td>
+         </tr>
+         <tr>
+             <td><a href="../../interior/curtain/">Manual rear sun blinds</a></td>
+             <td></td>
+             <td>3Y4</td>
+         </tr>
+     </tbody>
+</table>
+</div>
 
 ## Locking system
 
