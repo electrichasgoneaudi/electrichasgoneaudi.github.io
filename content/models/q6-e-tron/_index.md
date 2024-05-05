@@ -148,8 +148,7 @@ With the optional Augmented Reality Head-Up Display, another central element of 
 
 The new infotainment system uses  [Android Automotive](https://source.android.com/devices/automotive/start/what_automotive) OS as its operating system for the first time. Content is always up to date thanks to over-the-air updates. 
 
-
-Read all about the transportation capabilites in the [Audi Q6 e-tron transportation capability sections](transportation)
+Read all about the new UI & MMI system in the [Audi Q6 e-tron UI & MMI sections](technology/uiandoperations)
 
 ## Transport capacity
 
