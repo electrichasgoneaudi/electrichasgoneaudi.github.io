@@ -1,125 +1,179 @@
 ---
-title: Audi Q6 e-tron lights technology
+title: Audi Q6 e-tron lysteknologi
 linktitle: Audi Q6 e-tron lights
-description: With second-generation digital OLED rear lights, the Audi Q6 e-tron is taking light design, range of functions, and road safety to a new level.
+description: Audi Q6 e-tron har avanserte lysalternativer for frontlys, kjørelys og baklys.
 weight: 4
+sectiontabs: "/nb/models/q6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
+## Hovedlys og kjørelys
+
+Det er tre forskjellige nivåer av frontlykter og DRL på Audi Q6 e-tron.
+
+### Standard LED-frontlykter og DRL
+
+Som standard leverer Audi Audi Q6 med LED-lykter og DRL.
+
+LED-frontlyktene gir en belysning av veien som ligner på dagslys og imponerer med lavt energiforbruk, lang levetid og god sikt for andre.
+
+LED-frontlysene inkluderer følgende funksjoner:
+
+- Dimmede frontlykter
+- Fjernlys
+- Kjørelys
+- Posisjonslys
+- Blinkende lys
+
+{{< sitefiguresized thumb="models/q6-e-tron/technology/lights/standardled_2_st.jpg" width="1920" height="1440" title="Audi Q6 e-tron med standard LED-frontlys" >}}
+
+### LED Plus frontlykter & DRL
+
+LED-frontlyktene pluss gir en belysning av veien som ligner på dagslys og imponerer med lavt energiforbruk, lange levetid og gode sikt for andre.
+
+Adaptive lysfunksjoner tilpasser veibelysningen til den respektive kjøresituasjonen.
+
+Den dynamiske belysningen til å komme hjem/hjem-funksjonen gir ekstra lysstyrke på vei til og fra kjøretøyet.
+
+LED-frontlysene pluss inkluderer følgende funksjoner:
+
+- Visuelt forbedret/digitalt kjørelys med 61 segmenter
+- Dimmede frontlykter
+- Fjernlys
+- Posisjonslys
+- Blinkende lys
+- Lyktespylere
+- Hjørnelys (tillegg til sidebelysningen ved svinging)
+- Allværslys (for å redusere gjenskinn under dårlige siktforhold)
+- Motorveilys (utvidet lysrekkevidde ved høye hastigheter)
+- Statisk kurvelys (tillegg til sidebelysningen i trange kurver)
+- Manøvreringslys (belysning av manøvreringsområdet på forsiden ved rygging)
+- automatisk dynamisk justering av lysområdet
+- Krysslys (tillegg til sidebelysningen i kryssingsområdet i forbindelse med MMI navigation plus)
+- Dynamisk belysning for å komme hjem/hjem-funksjonen mens den står stille
+
+{{< sitefiguresized thumb="models/q6-e-tron/technology/lights/headlights_2_st.jpg" width="1920" height="1440" title="Audi Q6 e-tron med LED Plus-lykter og Matrix DRL" > }}
+
+Med disse frontlyktene har du maskinvaren for LED Matrix. Denne kan bestilles som funksjon på forespørsel.
+
+### LED Matrix frontlykter
+
+Audi Matrix LED-teknologien muliggjør presis og høyoppløselig belysning av veien. Blendende effekter på møtende eller forangående kjøretøy kan reduseres betydelig.
+
+Hvis kjøretøy oppdages av kamerasystemet, skjuler systemet selektivt kun dette området, mens fjernlyset forblir aktivt i de resterende segmentene. Den betydelig forbedrede belysningen av veien sammenlignet med LED-lykter kan øke sikkerheten og komforten når du kjører i mørket.
+
+{{< sitefiguresized thumb="models/q6-e-tron/technology/lights/headlights_1_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron med LED Matrix frontlykter og Matrix DRL" > }}
+
+## Baklys
+
+Også bak er det tre alternativer
+### LED-baklys
+
+Lyssignaturen er et synlig identifikasjonsmerke bak.
+Bremselysene i LED-teknologi gjør at de blir lagt merke til tidligere av føreren takket være deres raskere aktivering
+etterfølgende trafikk.
+LED-baklysene inkluderer:
+
+- Blinkende lys
+- Bremselys
+- Baklys
+- Bakre nummerskiltlys
+- Ryggelys
+
+### LED Pro
+
+Lyssignaturen med en sammenhengende stripe med lys er et synlig identifikasjonsmerke bakover.
+Den opplyste lyslisten bak forbinder baklysene og er et visuelt designhøydepunkt.
+Bremselysene i LED-teknologi gjør at de blir lagt merke til tidligere av føreren takket være deres raskere aktivering
+etterfølgende trafikk.
+Ved blinking går det dynamiske blinklyset alltid utover i svingretningen og er derfor lett merkbart.
+Den dynamiske belysningen av «kommer hjem/hjem»-funksjonen begynner på tvers av hele lyslisten
+progressiv uttalelse og gir ekstra lysstyrke på vei til og fra kjøretøyet.
+LED-baklysene pro inkluderer:
+
+- dynamiske blinklys
+- Bremselys
+- Baklys
+- Bakre nummerskiltlys
+- Ryggelys
+- opplyst stripe med lys
+- Dynamisk belysning for å komme hjem/hjem-funksjonen mens den står stille
+
+### OLED
+
+Med andregenerasjons digitale OLED-baklys tar Audi Q6 e-tron lysdesign, funksjonsutvalg og trafikksikkerhet til et nytt nivå.
+
+Audi utvikler gradvis teknologien til intelligente displayer som kan kommunisere med andre trafikanter ved å vise informasjon via utvendige lys – dette er det nye kommunikasjonslyset. Den aktive digitale lyssignaturen er en annen verdensførste som debuterer i Audi Q6 e-tron. Den gjør et helt nytt og levende inntrykk, og viser vei til fremtiden for Audis lysteknologi. For første gang kan kunder valgfritt velge digitale lyssignaturer for denne nye utviklingen av digitale kjørelys i Matrix LED-frontlyktene og den nye generasjonen av digitale OLED-baklys. I tillegg kan kunder bestille digitale lyssignaturer på forespørsel.
+
+Q6 e-tron markerer ikke bare et nytt kapittel innen elektromobilitet hos Audi; lysteknologi er en viktig del av Audis DNA. Med verdens første aktive digitale lyssignatur innleder Audi Q6 e-tron en ny æra preget av særegen design og estetikk unik for Audi.
 
 
- Audi is gradually developing the technology into intelligent displays that can communicate with other road users by displaying information via the exterior lights – this is the new communication light. The active digital light signature is another world first making its debut in the Audi Q6 e-tron. It makes an entirely new and vibrant impression, pointing the way to the future of Audi lighting technology. For the first time, customers can optionally select digital light signatures for this new evolution of digital daytime running lights in the Matrix LED headlights and the new generation of digital OLED rear lights. In addition, customers may book digital light signatures on demand.
+{{< sitefiguresized thumb="models/q6-e-tron/technology/lights/lights_2_st.jpg" width="3000" height="2000" title="Audi Q6 e-tron baklys" >}}
 
-The Q6 e-tron not only marks a new chapter in electromobility at Audi; lighting technology is an important part of Audi’s DNA. With the world’s first active digital light signature, the Audi Q6 e-tron ushers in a new era characterized by distinctive design and aesthetics unique to Audi.
+Andregenerasjons digital OLED-teknologi former utseendet til nye Audi-modeller og øker funksjonsutvalget mange ganger. Dette forbedrer igjen trafikksikkerheten, noe som på imponerende vis demonstreres av kommunikasjonslyset i de digitale OLED-baklysene. Q6 e-tron setter også nye standarder innen personalisering: Med totalt åtte valgfrie digitale lyssignaturer i de redesignede kjørelysene i Matrix LED-frontlysene og digitale OLED-baklys 2.0, kan kundene designe utseendet til Q6 e-tron som aldri før. Dette er mulig via MMI og, for første gang, via myAudi-appen. Kunder kan også kjøpe digitale lyssignaturer etter å ha kjøpt bilen.
+#### Signatur og bevegelse kombinert for første gang: den aktive digitale lyssignaturen
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_4_st.jpg" class="img-fluid" alt="Audi Q6 e-tron head lights" title="Audi Q6 e-tron head lights">
-    </a>
-    <figcaption><h4>Audi Q6 e-tron head lights</h4></figcaption>
-</figure>
+Frontlyktene og baklysene ser levende ut ved første øyekast – slik bør kundene forestille seg den aktive digitale lyssignaturen, en verdensnyhet fra merket med de fire ringene. Den kommer som en del av den valgfrie pakken med digitale lyssignaturer. "Audi Q6 e-tron markerer første gang i en produksjonsmodell at vi designer både formen på lysene og hele bevegelsen deres. Takket være en perfekt symbiose mellom lysdesign og den nye teknologien ser de nye Audi Q6 e-tron lysene mer levende og intelligente ut enn noen gang før. Vi har gitt lyssignaturene deres egen personlighet og den digitale verden sin egen estetikk på samme tid, forklarer César Muntada, Head of Lighting Design. "Med verdens første aktive digitale lyssignatur, innleder Q6 e-tron en ny æra med særegen design og estetikk unik for Audi."
 
+En programvaremodul i en av Audi Q6 e-trons domenedatamaskiner, utviklet i fellesskap av Audi og konsernets programvareselskap CARIAD, gjør denne typen lyssignatur mulig. Når det gjelder andregenerasjons digitale OLED-baklykter, genererer de seks 360-segment OLED-panelene et nytt bilde hvert tiende millisekund ved hjelp av en spesialutviklet algoritme. Denne algoritmen lar den aktive digitale lyssignaturen demonstrere bilens livlighet og evne til å samhandle personlig ved å gjøre Q6 e-trons "hjerneaktivitet" synlig gjennom konstant bevegelse. Den aktive digitale lyssignaturen foran skapes via interaksjonen av algoritmen med 12 dimbare segmenter, mens på baksiden brukes alle de digitale OLED-segmentene. De enkelte lyssegmentene samhandler slik at lyssignaturens helhetsbilde ikke varierer i lysstyrke.
 
-The second-generation of digital OLED technology shapes the look of new Audi models and increases their range of functions many times over. This, in turn, improves road safety, as impressively demonstrated by the communication light in the digital OLED rear lights. The Q6 e-tron also sets new standards in personalization: With a total of eight optional digital light signatures in the redesigned daytime running lights in the Matrix LED headlights and digital OLED rear lights 2.0, customers can design the look of their Q6 e-tron like never before. This is possible via the MMI and, for the first time, via the myAudi app. Customers are also able to buy digital light signatures after purchasing their car.
+#### Den andre generasjonen av digital OLED-teknologi
 
-## Signature and movement combined for the first time: the active digital light signature
+En kort oversikt over digital OLED-teknologi 1.0: I 2016 introduserte Audi en ny lysteknologi til bilindustrien i TT RS. Det var første gang organiske LED-er (OLED-er for korte) ble brukt til baklys. OLED-elementer er halvlederbaserte overflatelyskilder som genererer lys med perfekt homogenitet og høye kontrastverdier. Lysstyrken deres er også justerbar. I tillegg kan formen på OLED-lys konfigureres fritt og deles nøyaktig inn i omskiftbare segmenter. Dynamiske lysscenarier i OLED-baklysene debuterte også i Audi TT RS.
 
-The headlights and rear lights look alive at first glance – this is how customers should imagine the active digital light signature, a world first from the brand with the four rings. It comes as part of the optional package of digital light signatures. “The Audi Q6 e-tron marks the first time in a production model that we are designing both the shape of the lights and their entire movement. Thanks to a perfect symbiosis between lighting design and the new technology, the new Audi Q6 e-tron lights look more vibrant and intelligent than ever before. We’ve given the light signatures their own personality and the digital world its own aesthetics at the same time”, explains César Muntada, Head of Lighting Design. “With the world’s first active digital light signature, the Q6 e-tron is ushering in a new era of distinctive design and aesthetics unique to Audi.”
+I 2020 kunne Audi Q5-kunder velge en individuell baklyssignatur for første gang takket være de digitale OLED-baklysene. Med denne prestasjonen ble Audi den første bilprodusenten som modifiserte baklyssignaturen digitalt. Skiftet var basert på OLEDs kjerneegenskaper: høy kontrast, segmentering i skiftbare soner, høy lyshomogenitet og evnen til å arrangere segmentene veldig tett. Audi er fortsatt den eneste bilprodusenten som tilbyr denne teknologiske utviklingen.
 
+I 2022 ble dette alternativet standard i Audi A8 med digitale OLED-baklys. Bilens bussystem tillot programvaren å kontrollere hvert baklyspanel og hvert OLED-segment individuelt. I A8 kunne kundene velge mellom tre baklyssignaturer via MMI; i S8 kunne de velge mellom fire.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/lights/lights_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/lights/lights_3_st.jpg" class="img-fluid" alt="Audi Q6 e-tron head lights" title="Audi Q6 e-tron head lights">
-    </a>
-    <figcaption><h4>Audi Q6 e-tron head lights</h4></figcaption>
-</figure>
-
-
-A software module in one of the Audi Q6 e-tron's domain computers, jointly developed by Audi and the Group’s software company CARIAD, makes this type of light signature possible. In the case of the second-generation digital OLED rear lights, the six 360-segment OLED panels generate a new image every ten milliseconds using a specially developed algorithm. This algorithm lets the active digital light signature demonstrate the car’s vibrancy and ability to interact personally by making the Q6 e-tron’s “brain activity” visible through constant movement. The active digital light signature at the front is created via the interaction of the algorithm with 12 dimmable segments, while at the rear, all the digital OLED segments are used. The individual light segments interact so that the light signature's overall image does not vary in luminous intensity.
-
-## The second-generation of digital OLED technology
-
-A brief overview of digital OLED technology 1.0: In 2016, Audi introduced a new lighting technology to the automotive industry in the TT RS. It was the first time organic LEDs (OLEDs for short) were used for rear lights. OLED elements are semiconductor-based surface light sources that generate light with perfect homogeneity and high contrast values. Their brightness is also adjustable. In addition, the shape of OLED lights can be configured freely and divided precisely into switchable segments. Dynamic lighting scenarios in the OLED rear lights also debuted in the Audi TT RS.
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_2_st.jpg" class="img-fluid" alt="Audi Q6 e-tron rear lights" title="Audi Q6 e-tron rear lights">
-    </a>
-    <figcaption><h4>Audi Q6 e-tron rear lights</h4></figcaption>
-</figure>
-
-In 2020, Audi Q5 customers could select an individual rear light signature for the first time thanks to the digital OLED rear lights. With this accomplishment, Audi became the first automotive manufacturer to modify the rear light signature digitally. The shift was based on OLEDs’ core properties: high contrast, segmentation into switchable zones, high light homogeneity, and the ability to arrange the segments very tightly. Audi remains the only car manufacturer to offer this evolution of technology.
-
-In 2022 this option became standard in the Audi A8 with digital OLED rear lights. The car’s bus system allowed its software to control each rear light panel and each OLED segment individually. In the A8, customers could select from three rear light signatures via the MMI; in the S8, they could choose from four.
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/lights/lights_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/lights/lights_2_st.jpg" class="img-fluid" alt="Audi Q6 e-tron rear lights" title="Audi Q6 e-tron rear lights">
-    </a>
-    <figcaption><h4>Audi Q6 e-tron rear lights</h4></figcaption>
-</figure>
+{{< sitefiguresized thumb="models/q6-e-tron/technology/lights/oleddetails_1_st.jpg" width="3000" height="1625" title="Audi Q6 e-tron med OLED-baklys" >}}
 
 
 
-“Audi recognized the potential of using OLED technology in rear lights early on and has since continued to systematically advance their development and digitalization as the only car manufacturer to do so. As a result, we can now offer our customers an ever-new range of lighting functions,” explains Stephan Berlitz, Head of Lighting Development, demonstrating a clear strategy behind the use of this technology. “Digital OLEDs are more efficient, lighter, and more homogeneous than traditional lighting systems,” Berlitz continues, offering a glimpse of the future: “Due to their strong contrast, they are gradually turning into exterior displays, making them an important enabler of communication with the car’s surroundings. With the proximity indication function, we have been using light to interact with other road users since 2020. The Audi Q6 e-tron now adds the communication light to improve road safety further.”
+"Audi erkjente tidlig potensialet ved å bruke OLED-teknologi i baklys og har siden fortsatt systematisk fremme utviklingen og digitaliseringen som den eneste bilprodusenten som gjør det. Som et resultat kan vi nå tilby våre kunder et stadig nytt utvalg av belysningsfunksjoner, forklarer Stephan Berlitz, Head of Lighting Development, og demonstrerer en klar strategi bak bruken av denne teknologien. "Digitale OLED-er er mer effektive, lettere og mer homogene enn tradisjonelle belysningssystemer," fortsetter Berlitz, og gir et glimt av fremtiden: "På grunn av deres sterke kontrast, blir de gradvis til utvendige skjermer, noe som gjør dem til en viktig muliggjører for kommunikasjon med bilens omgivelser. Med funksjonen for nærhetsindikasjon har vi brukt lys for å samhandle med andre trafikanter siden 2020. Audi Q6 e-tron legger nå til kommunikasjonslyset for å forbedre trafikksikkerheten ytterligere.»
+#### Andregenerasjons digitale OLED-baklys i detalj
 
-## The second-generation digital OLED rear lights in detail
+Med neste generasjon digitale OLED-er i baklysene som nå følger i Audi Q6 e-tron, utvider Audi funksjonsutvalget og designfriheten betydelig samtidig som den forbedrer trafikksikkerheten. For første gang kan de digitale OLED-baklysene kommunisere spesifikt med nærmiljøet (bil-til-X-kommunikasjon). Antall segmenter per digitalt OLED-panel har økt fra seks til 60 sammenlignet med første generasjon. Seks OLED-paneler med totalt 360 segmenter brukes i Q6 e-trons baklys. Den nye E3 elektroniske arkitekturen gjør det mulig å kontrollere dette betydelig økte antallet segmenter ved hjelp av en programvaremodul på en av domenedatamaskinene. Den jevne økningen i antall segmenter per digitalt OLED-panel vil i fremtiden gjøre det mulig å utvikle baksiden av bilen til et display som ytterligere forbedrer bil-til-X-kommunikasjon og trafikksikkerhet.
 
-With the next generation of digital OLEDs in the rear lights that now follow in the Audi Q6 e-tron, Audi is significantly expanding the range of functions and design freedom while, above all, improving road safety. For the first time, the digital OLED rear lights can specifically communicate with the immediate environment (car-to-X communication). The number of segments per digital OLED panel has increased from six to 60 compared to the first generation. Six OLED panels with 360 segments in total are used in the Q6 e-tron's rear lights. The new E3 electronic architecture makes it possible to control this significantly increased number of segments using a software module on one of the domain computers. The steady increase in the number of segments per digital OLED panel will, in the future, make it possible to develop the rear of the car into a display that further improves car-to-X communication and road safety.
+Den innovative digitale OLED-teknologien skaper forutsetninger for et helt nytt baklysdesign, som sikrer en unik homogenitet og svært høy kontrast. Det er andre fordeler: Overflatelyskilder krever ikke ekstra reflektorer, lysledere eller optikk, noe som gjør dem svært effektive. Sammen gjør disse egenskapene det mulig for Audis ingeniører og designere å bryte ned designgrensene mellom to- og tredimensjonalitet. Med andre ord, merket med de fire ringene skaper tredimensjonale former på todimensjonale overflater. I tillegg til en integrert, uttrykksfull LED-lyslist bak, skiller 3D-glass baklyset fra de andre lysfunksjonene.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/lights/lights_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/lights/lights_1_st.jpg" class="img-fluid" alt="Audi Q6 e-tron head lights" title="Audi Q6 e-tron head lights">
-    </a>
-    <figcaption><h4>Audi Q6 e-tron head lights</h4></figcaption>
-</figure>
-
-The innovative digital OLED technology creates the conditions for a completely new rear light design, ensuring a one-of-a-kind homogeneity and very high contrast. There are other advantages: Surface light sources do not require additional reflectors, light guides, or optics, making them very efficient. Together, these properties allow Audi’s engineers and designers to break down the design boundaries between two- and three-dimensionality. In other words, the brand with the four rings is creating three-dimensional shapes on two-dimensional surfaces. In addition to an integrated, expressive LED light strip at the rear, 3D glass successfully separates the rear light signature from the other lighting functions.
-
-Audi is also innovating the front of the car. The next generation of digital daytime running lights and the light modules are now visually separate, creating greater design clarity. The designers have designed the individual LEDs – 70 in total – in this new evolution of digital daytime running lights as transparent 3D objects. The front section of the digital daytime running lights features a precise prismatic structure, while a metalized 3D trim surrounds them to draw the focus to the car’s digital eyes.
-
-## Improved safety thanks to intelligent headlights and rear lights
-
-Audi has also taken the car’s safety features to a new level. Proximity indication, a feature familiar to other Audi models, is expanded in the new Q6 e-tron to include a communication light. Integrated with the digital OLED rear lights, it warns other road users forsighted of accidents and breakdowns by displaying a specific static rear light signature with integrated warning symbols and the regular rear light graphic in critical road situations. The assistance system thus aids Audi drivers forsighted and all other road users. As with the advanced traffic information system in the A8, which warns road users of accidents or hazards via the digitalized headlights, the communication light uses data from the swarm. In addition, second-generation digital OLED rear lights activate the communication light with warning symbols for emergency assist, RECAS (rear-end collision alert signal), hazard warning lights, emergency calls (eCall), roadside assistance calls (bCall), and emergency brake lights.
-
-The communication light also adds an extra dimension to the exit warning function. Previously, it only informed the occupants when exiting the car, for example, if another car or a bicycle was approaching. But now, a specially adapted light signature in the rear light graphic warn cyclists or drivers approaching from behind. In this way, the Audi Q6 e-tron extends its safety concept to other road users, increasing road safety for everyone.
-
-Finally, the communication light also uses a specific light signature at the front and rear to indicate the car’s park assist status when it is in automated parking mode. This makes it clear to road users in the immediate vicinity that the car is safe to approach.
-
-## A new level of freedom: digital light signatures available via the MMI and the myAudi app
-
-With up to eight digital light signatures for the headlights and rear lights, drivers can enjoy a new level of freedom in personalizing their Q6 e-tron. Customers can select a signature in one of two ways, via the myAudi app or in the car via the MMI. Six additional signatures with a coming home/leaving home lighting scenario and the corresponding digital light signature are available through additional optional packages.
-
-Via the myAudi app, customers can activate their personal light signatures from outside the car and experience the dynamic lighting scenario and the coming home/leaving home function right on their car. It’s the same with the communication light in the second-generation digital OLED rear lights and proximity indication. On request, the Matrix LED headlights can provide a live demonstration of the sign glare suppression and object masking features.
-
-For an even greater degree of personalization for the Q6 e-tron, customers can book the package of digital light signatures for the LED headlights plus/Matrix LED headlights and digital OLED rear lights after purchasing their car using on-demand functions. Customers can purchase the features permanently or for a specific period. This flexibility lets Audi customers design their Q6 e-tron with up to eight digital light signatures (only in conjunction with digital OLED rear lights and LED headlights plus/Matrix LED headlights) to suit personal preferences. Finally, they can also purchase high-beam assist and the Matrix package on demand.
+Audi fornyer også fronten på bilen. Den neste generasjonen av digitale kjørelys og lysmodulene er nå visuelt adskilte, noe som skaper større designklarhet. Designerne har designet de individuelle LED-ene – 70 totalt – i denne nye utviklingen av digitale kjørelys som transparente 3D-objekter. Den fremre delen av de digitale kjørelysene har en presis prismatisk struktur, mens en metallisert 3D-trim omgir dem for å trekke fokus til bilens digitale øyne.
 
 
+{{< sitefiguresized thumb="models/q6-e-tron/technology/lights/animation_rear_2.gif" width="1920" height="1440" title="Audi Q6 e-tron med OLED-baklys" >}}
+
+## Forbedret sikkerhet takket være intelligente frontlykter og baklys
+
+Audi har også tatt bilens sikkerhetsfunksjoner til et nytt nivå. Nærhetsindikasjon, en funksjon som er kjent for andre Audi-modeller, utvides i den nye Q6 e-tron til å inkludere et kommunikasjonslys. Integrert med de digitale OLED-baklysene, advarer den andre trafikanter som er forutsett om ulykker og havarier ved å vise en spesifikk statisk baklyssignatur med integrerte varselsymboler og den vanlige baklysgrafikken i kritiske veisituasjoner. Assistansesystemet hjelper dermed Audi-sjåfører forutseende og alle andre trafikanter. Som med det avanserte trafikkinformasjonssystemet i A8, som varsler trafikanter om ulykker eller farer via de digitaliserte frontlyktene, bruker kommunikasjonslyset data fra svermen. I tillegg aktiverer andregenerasjons digitale OLED-baklykter kommunikasjonslyset med varselsymboler for nødhjelp, RECAS (kollisjonsvarslingssignal bakfra), varselblink, nødanrop (eCall), veihjelpsanrop (bCall) og nødhjelp bremselys.
+
+Kommunikasjonslyset gir også en ekstra dimensjon til utgangsvarselfunksjonen. Tidligere informerte den kun passasjerene når de gikk ut av bilen, for eksempel om en annen bil eller en sykkel nærmet seg. Men nå advarer en spesialtilpasset lyssignatur i baklysgrafikken syklister eller sjåfører som nærmer seg bakfra. På denne måten utvider Audi Q6 e-tron sikkerhetskonseptet til andre trafikanter, og øker trafikksikkerheten for alle.
+
+Til slutt bruker kommunikasjonslyset også en spesifikk lyssignatur foran og bak for å indikere bilens parkeringsassistentstatus når den er i automatisk parkeringsmodus. Dette gjør det klart for trafikanter i umiddelbar nærhet at bilen er trygg å nærme seg.## Et nytt nivå av frihet: digitale lyssignaturer tilgjengelig via MMI og myAudi-appen
+
+Med opptil åtte digitale lyssignaturer for frontlyktene og baklysene, kan sjåførene nyte et nytt nivå av frihet når det gjelder å tilpasse sin Q6 e-tron. Kunder kan velge en signatur på en av to måter, via myAudi-appen eller i bilen via MMI. Seks ekstra signaturer med et belysningsscenario for å komme hjem/forlate hjemmet og den tilsvarende digitale lyssignaturen er tilgjengelige gjennom tilleggspakker.
 
 
-
-## Prototype testing and other media
-
-Below you find videos and images of the prototype with information about the technology
+{{< sitefiguresized thumb="models/q6-e-tron/technology/lights/frontdesign_1_st.jpg" width="3000" height="1664" title="Audi Q6 e-tron signaturfrontlykter" >}}
 
 
-### Audi Q6 e-tron Experience – Interview with Dr. Michael Kruppa
+Via myAudi-appen kan kundene aktivere sine personlige lyssignaturer fra utsiden av bilen og oppleve det dynamiske lysscenarioet og funksjonen å komme hjem/fra hjem rett på bilen. Det er det samme med kommunikasjonslyset i andregenerasjons digitale OLED-baklys og nærhetsindikasjon. På forespørsel kan Matrix LED-frontlyktene gi en live demonstrasjon av skiltrefleksdemping og objektmaskering.
+
+{{< sitefiguresized thumb="models/q6-e-tron/technology/lights/reardesign_1_st.jpg" width="3000" height="1706" title="Audi Q6 e-tron signatur baklys" >}}
+
+
+For en enda større grad av personalisering for Q6 e-tron kan kundene bestille pakken med digitale lyssignaturer for LED-hovedlyktene pluss/Matrix LED-lyktene og digitale OLED-baklysene etter å ha kjøpt bilen ved hjelp av on-demand-funksjoner. Kunder kan kjøpe funksjonene permanent eller for en bestemt periode. Denne fleksibiliteten lar Audi-kunder designe sin Q6 e-tron med opptil åtte digitale lyssignaturer (kun i forbindelse med digitale OLED-baklys og LED-hovedlys pluss/Matrix LED-frontlys) for å passe personlige preferanser. Til slutt kan de også kjøpe fjernlysassistent og Matrix-pakken på forespørsel.
+
+### Audi Q6 e-tron Experience – Intervju med Dr. Michael Kruppa
 
 {{< youtube Cb4u-sS1P_k >}}
 
-### Audi Q6 e-tron Insights – #01 Light Technology
+### Lysteknologien til Audi Q6 e-tron
 
-{{< youtube BaKm8bMrdto >}}
+{{< youtube jhT5iWUqOGE >}}
 
 
-### Audi Q6 e-tron – LED head lights plus / matrix LED head lights – Animation
+### Audi Q6 e-tron – LED-hodelykter pluss / matrix LED-hodelykter – Animasjon
 
 {{< youtube ug_uoBNOV6g >}}
 
-### Audi Q6 e-tron prototype – Digital light signature and Matrix LED headlights
-
-{{< youtube dYRrjRDXvBk >}}
-
-
-### Oled Rear lights
+### Oled Baklykter
 
 {{< youtube OMx8x8J6Pro >}}

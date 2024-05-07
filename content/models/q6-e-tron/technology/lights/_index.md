@@ -42,6 +42,7 @@ The LED headlights plus include the following functionalities:
 - High beam
 - Position light
 - Flashing light
+- Lyktespylere
 - Cornering light (supplement to the side lighting when turning)
 - All-weather light (to reduce glare in poor visibility conditions)
 - Highway lights (extended lighting range at high speeds)
@@ -52,6 +53,8 @@ The LED headlights plus include the following functionalities:
 - Dynamic lighting for the coming home/leaving home function while stationary
 
 {{< sitefiguresized thumb="models/q6-e-tron/technology/lights/headlights_2_st.jpg" width="1920" height="1440" title="Audi Q6 e-tron with LED Plus headlights & Matrix DRL" >}}
+
+With this headlights you have the hardware for LED Matrix. This can be ordered as function-on-demand.
 
 ### LED Matrix headlights
 
@@ -96,7 +99,6 @@ The LED rear lights pro include:
 - Reversing lights
 - illuminated strip of lights
 - Dynamic lighting for the coming home/leaving home function while stationary
-
 
 ### OLED 
 
@@ -164,13 +166,6 @@ Via the myAudi app, customers can activate their personal light signatures from 
 
 
 For an even greater degree of personalization for the Q6 e-tron, customers can book the package of digital light signatures for the LED headlights plus/Matrix LED headlights and digital OLED rear lights after purchasing their car using on-demand functions. Customers can purchase the features permanently or for a specific period. This flexibility lets Audi customers design their Q6 e-tron with up to eight digital light signatures (only in conjunction with digital OLED rear lights and LED headlights plus/Matrix LED headlights) to suit personal preferences. Finally, they can also purchase high-beam assist and the Matrix package on demand.
-
-
-
-## Prototype testing and other media
-
-Below you find videos and images of the prototype with information about the technology
-
 
 ### Audi Q6 e-tron Experience – Interview with Dr. Michael Kruppa
 

@@ -891,7 +891,7 @@ You can choose between serveral seat types and seat materials. Click links below
                 <li>Rattoppvarming</li>
                 <li>Setevarme foran og bak</li>
                 <li>LED-hovedlys pluss</li>
-                <li>Rensesystem for lyskastere</li>
+                <li>Lyktespylere</li>
                 <li>LED-baklys</li>
                 <li>Fjernlysassistenter</li>
                 <li>Dobbeleiker skinnratt med multifunksjon og Skift padleårer</li>
@@ -914,7 +914,7 @@ You can choose between serveral seat types and seat materials. Click links below
                 <li>Rattoppvarming</li>
                 <li>Setevarme foran og bak</li>
                 <li>Matrix LED-frontlykter</li>
-                <li>Rensesystem for lyskastere</li>
+                <li>Lyktespylere</li>
                 <li>LED-baklys</li>
                 <li>Fjernlysassistenter</li>
                 <li>Dobbeleiker skinnratt med multifunksjon og Skift padleårer</li>
@@ -947,7 +947,7 @@ Interaksjonskollisjonspute foran</li>
                 <li>Rattoppvarming</li>
                 <li>Setevarme foran og bak</li>
                 <li><a href="../../technology/lights/">Matrix LED-frontlykter</a></li>
-                <li>Rensesystem for lyskastere</li>
+                <li>Lyktespylere</li>
                 <li>Digitale OLED-baklys</li>
                 <li>Fjernlysassistenter</li>
                 <li>Dobbeleiker skinnratt med multifunksjon og Skift padleårer</li>
