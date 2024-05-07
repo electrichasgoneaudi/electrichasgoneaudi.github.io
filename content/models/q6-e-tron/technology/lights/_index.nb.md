@@ -51,7 +51,7 @@ LED-frontlysene pluss inkluderer følgende funksjoner:
 - Krysslys (tillegg til sidebelysningen i kryssingsområdet i forbindelse med MMI navigation plus)
 - Dynamisk belysning for å komme hjem/hjem-funksjonen mens den står stille
 
-{{< sitefiguresized thumb="models/q6-e-tron/technology/lights/headlights_2_st.jpg" width="1920" height="1440" title="Audi Q6 e-tron med LED Plus-lykter og Matrix DRL" > }}
+{{< sitefiguresized thumb="models/q6-e-tron/technology/lights/headlights_2_st.jpg" width="1920" height="1440" title="Audi Q6 e-tron med LED Plus-lykter og Matrix DRL" >}}
 
 Med disse frontlyktene har du maskinvaren for LED Matrix. Denne kan bestilles som funksjon på forespørsel.
 
@@ -61,7 +61,7 @@ Audi Matrix LED-teknologien muliggjør presis og høyoppløselig belysning av ve
 
 Hvis kjøretøy oppdages av kamerasystemet, skjuler systemet selektivt kun dette området, mens fjernlyset forblir aktivt i de resterende segmentene. Den betydelig forbedrede belysningen av veien sammenlignet med LED-lykter kan øke sikkerheten og komforten når du kjører i mørket.
 
-{{< sitefiguresized thumb="models/q6-e-tron/technology/lights/headlights_1_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron med LED Matrix frontlykter og Matrix DRL" > }}
+{{< sitefiguresized thumb="models/q6-e-tron/technology/lights/headlights_1_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron med LED Matrix frontlykter og Matrix DRL" >}}
 
 ## Baklys
 
