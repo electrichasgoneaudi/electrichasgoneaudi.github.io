@@ -269,7 +269,7 @@ Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 22". C
             <td></td>
         </tr>
          <tr>
-            <td><a href="../../exterior/wheels/">Felger fra Audi Sport i 5-arms aerodesign i sort metallic, glanspolerte, mørke</a></td>
+            <td><a href="../../exterior/wheels/">5-arm 'aero' metallic black gloss turned finish Audi Sport alloy wheels</a></td>
             <td>Dimensjon 9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21 dekk</td>
             <td></td>
         </tr>
@@ -279,7 +279,7 @@ Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 22". C
             <td></td>
         </tr>
         <tr>
-            <td><a href="../../exterior/wheels/">Felger fra Audi Sport i 5 Y-eikers dynamikkdesign i sort metallic, glanspolerte</a></td>
+            <td><a href="../../exterior/wheels/">5-Y-spoke 'dynamic' style, metallic black, gloss turned finish Audi Sport alloy wheels</a></td>
             <td>Dimensjon 9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21 dekk</td>
             <td></td>
         </tr>
@@ -382,13 +382,67 @@ Duration can be selected</td>
             <td>Standard SQ6 and parth of Tech (PQA)</td>
         </tr>
         <tr>
-            <td>Fjernlysassistent</td>
-            <td>Standard</td>
-            <td>8G1</td>
+            <td>Matrix LED headlights</td>
+            <td>In addition to the functions of the LED headlight plus, the highly adaptive light distribution of the Matrix function enables precise and high-resolution illumination of the street. Glaring effects on oncoming or preceding vehicles can be significantly reduced. If vehicles are detected by the camera system, it is blinding The system selectively only switches off this area, while the high beam remains active in the remaining segments.
+            In the edition one, the Matrix LED headlights are darkened.
+            The dynamic lighting of the coming home/leaving home function across the entire lighting strip ensures additional brightness on the way to or from the vehicle.
+            </td>
+            <td>Tech Pro or Tech Plus</td>
         </tr>
         <tr>
-            <td>LED Matrix</td>
-            <td>Standard Tech Pro / Tech Plus</td>
+            <td>LED rear lights</td>
+            <td>The light signature is a visible identification mark to the rear.
+            The brake lights in LED technology enable them to be noticed earlier by the driver thanks to their quicker activation
+            subsequent traffic.
+            The LED tail lights include:
+            <ul>
+            <li>Flashing lights</li>
+            <li>Brake-lights</li>
+            <li>Rear lights</li>
+            <li>Rear license plate lights</li>
+            <li>Reversing lights</li>
+            </ul>
+            </td>
+            <td></td>
+        </tr>
+         <tr>
+            <td>LED rear lights pro</td>
+            <td>The light signature with a continuous strip of lights is a visible identification mark towards the rear.
+                The illuminated light strip in the rear connects the rear lights and is a visual design highlight.
+                The brake lights in LED technology enable them to be noticed earlier by the driver thanks to their quicker activation
+                subsequent traffic.
+                When flashing, the dynamic flashing light always runs to the outside in the direction of the turn and is therefore easily noticeable.
+                The dynamic lighting of the coming home/leaving home function begins across the entire lighting strip
+                progressive statement and provides additional brightness on the way to and from the vehicle.
+                The LED rear lights pro include:
+                <ul>
+                <li>dynamic flashing lights</li>
+                <li>Brake-lights</li>
+                <li>Rear lights</li>
+                <li>Rear license plate lights</li>
+                <li>Reversing lights</li>
+                <li>illuminated strip of lights</li>
+                <li>Dynamic lighting for the coming home/leaving home function while stationary</li
+                </ul></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Digital light signatures</td>
+                <td>Innovative technology meets striking design. Light is becoming digital. Distinctive and dynamic day and night Night. With six selectable combinations of daytime running lights and taillight signatures and futuristic-looking dynamic lighting.
+                Six additional combinations of daytime running lights and taillight signatures are available as an option. By between  The appearance of the can be selected from the various graphics in the MMI or in the myAudi App
+                Vehicle can be individually designed again and again. With the active digital light signatures, a new lighting design can be experienced. The digital light signatures can be purchased subsequently as Functions on Demand functions</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>High beam assistant</td>
+            <td>By automatically switching the high beam on and off, the dazzling of oncoming traffic and other traffic participants is reduced within the system limits.
+            The high beam assistant offers:
+            <ul>
+            <li>Independent detection of headlights of oncoming traffic, taillights of other vehicles and light sources Localities within the system boundaries</li>
+            <li>Automatic switching on or off of the high beam depending on the traffic situation</li>
+            <li>Improved visibility and increased comfort</li>
+            </ul>
+            </td>
             <td>8IY/8G4</td>
         </tr>
     </tbody>
