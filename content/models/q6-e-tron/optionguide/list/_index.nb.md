@@ -11,6 +11,149 @@ sectiontabs: "/nb/models/q6-e-tron/optionguide/"
 
 [Se denne PDF for lanseringspakker ved salgsstart 27.03.2024](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/files/Q6_etron_lanseringspakker.pdf)
 
+## Teknologipakker
+
+For Audi Q6 så har Audi sanlet teknologi i forskjellige pakker.  Valg av teknologipakke påvirker hvilket annet ekstrautstyr som kan velges. 
+
+<div class="table-responsive">
+<table class="table table-striped border">
+    <thead>
+        <tr>
+        <th>Title
+        </th>
+        <th>Description
+        </th>
+        <th>ID
+        </td>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Tech</td>
+        <td>
+            <ul>
+                <li>Komfortpakke</li>
+                <li>Komfort førklimatisering</li>
+                <li>Rattoppvarming</li>
+                <li>Setevarme foran og bak</li>
+                <li><a href="../../technology/lights/">LED-hovedlys pluss</a></li>
+                <li><a href="../../technology/lights/">Lyktespylere</a></li>
+                <li><a href="../../technology/lights/">LED-baklys</a></li>
+                <li><a href="../../technology/lights/">Fjernlysassistenter</a></li>
+                <li>Dobbeleiker skinnratt med multifunksjon og Skift padleårer</li>
+                <li>Parkeringshjelp pluss med avstandsvisning</li>
+                <li><a href="../../technology/drivingassistance/360camera/">360 kamera</a></li>
+                <li>Parkeringsassistenter pluss</li>
+                <li>Adaptiv cruiseassistent</li>
+            </ul>
+        </td>
+        <td>
+        PQA
+        </td>
+    </tr>
+       <tr>
+        <td>Tech Plus</td>
+        <td>
+            <ul>
+                <li>Komfortpakke Plus</li>
+                <li>Komfort førklimatisering</li>
+                <li>Rattoppvarming</li>
+                <li>Setevarme foran og bak</li>
+                <li><a href="../../technology/lights/">Matrix LED-frontlykter</a></li>
+                <li><a href="../../technology/lights/">Lyktespylere</a></li>
+                <li><a href="../../technology/lights/">LED-baklys</a></li>
+                <li><a href="../../technology/lights/">Fjernlysassistent</a></li>
+                <li>Dobbeleiker skinnratt med multifunksjon og Skift padleårer</li>
+                <li>Parkeringshjelp pluss med avstandsvisning</li>
+                <li><a href="../../technology/drivingassistance/360camera/">360 kamera</a></li>
+                <li>Parkeringsassistenter pluss</li>
+                <li>Adaptiv cruiseassistent</li>
+                <li>MMI passasjerdisplay</li>
+                <li><a href="../../technology/lights/">Digitale lyssignaturer</a></li>
+                <li>e-tron sportslyd</li>
+                <li>S sportsunderstell</li>
+                <li>Sidekollisjonsputer foran og bak med hodekollisjonsputesystem og Interaksjonskollisjonspute foran</li>
+                <li><a href="../../technology/drivingassistance/sideassist/">Blindsonevarsling</a></li>
+                <li>Nødstoppassistent unnamanøvringsassistent</li>
+                <li>proaktiv passasjerbeskyttelse foran, på siden og bak</li>
+                <li>Passasjerdeteksjon bak</li>
+            </ul>
+        </td>
+        <td>
+        PQB
+        </td>
+    </tr>
+    <tr>
+        <td>Tech Pro Q6</td>
+        <td>
+            <ul>
+                <li>Komfortpakke Pro</li>
+                <li>Komfort førklimatisering</li>
+                <li>Rattoppvarming</li>
+                <li>Setevarme foran og bak</li>
+                <li><a href="../../technology/lights/">Matrix LED-frontlykter</a></li>
+                <li><a href="../../technology/lights/">Lyktespylere</a></li>
+                <li><a href="../../technology/lights/">Digitale OLED-baklys</a></li>
+                <li><a href="../../technology/lights/">Fjernlysassistent</a></li>
+                <li>Dobbeleiker skinnratt med multifunksjon og Skift padleårer</li>
+                <li>Parkeringshjelp pluss med avstandsvisning</li>
+                <li><a href="../../technology/drivingassistance/360camera/">360 kamera</a></li>
+                <li>Parkeringsassistenter pluss</li>
+                <li><a href="../../technology/drivingassistance/adaptivecruisecontrol/">Adaptiv cruise control</a></li>
+                <li><a href="../../technology/drivingassistance/adaptivecruiseassist/">Adaptiv cruise assist</a></li>
+                <li><a href="../../technology/uiandoperations/mmi/">MMI passasjerdisplay</a></li>
+                <li><a href="../../technology/lights/">Digitale lyssignaturer</a></li>
+                <li>e-tron sportslyd</li>
+                <li><a href="../../technology/safety">Sidekollisjonsputer foran og bak med hodekollisjonsputesystem og Interaksjonskollisjonspute foran</a></li>
+                <li><a href="../../technology/drivingassistance/sideassist/">Blindsonevarsling</a></li>
+                <li>Nødstoppassistent</li>
+                <li><a href="../../technology/drivingassistance/collisionavoidanceassist/">Unnamanøvringsassistent</a></li>
+                <li>Proaktiv passasjerbeskyttelse foran, på siden og bak</li>
+                <li>Passasjerdeteksjon bak</li>
+                <li><a href="../../drivetrain/suspension">Adaptiv luftfjæring</a></li>
+            </ul>
+        </td>
+        <td>
+        PQC
+        </td>
+    </tr>
+        <tr>
+        <td>Tech Pro SQ6</td>
+        <td>
+            <ul>
+                <li>Komfortpakke Pro</li>
+                <li>Komfort førklimatisering</li>
+                <li>Rattoppvarming</li>
+                <li>Setevarme foran og bak</li>
+                <li><a href="../../technology/lights/">Matrix LED-frontlykter</a></li>
+                <li><a href="../../technology/lights/">Lyktespylere</a></li>
+                <li><a href="../../technology/lights/">Digitale OLED-baklys</a></li>
+                <li><a href="../../technology/lights/">Fjernlysassistent</a></li>
+                <li>Dobbeleiker skinnratt med multifunksjon og Skift padleårer</li>
+                <li>Parkeringshjelp pluss med avstandsvisning</li>
+                <li><a href="../../technology/drivingassistance/360camera/">360 kamera</a></li>
+                <li>Parkeringsassistenter pluss</li>
+                <li><a href="../../technology/drivingassistance/adaptivecruisecontrol/">Adaptiv cruise control</a></li>
+                <li><a href="../../technology/drivingassistance/adaptivecruiseassist/">Adaptiv cruise assist</a></li>
+                <li><a href="../../technology/uiandoperations/mmi/">MMI passasjerdisplay</a></li>
+                <li><a href="../../technology/lights/">Digitale lyssignaturer</a></li>
+                <li>e-tron sportslyd</li>
+                <li><a href="../../technology/safety">Sidekollisjonsputer foran og bak med hodekollisjonsputesystem og Interaksjonskollisjonspute foran</a></li>
+                <li><a href="../../technology/drivingassistance/sideassist/">Blindsonevarsling</a></li>
+                <li>Nødstoppassistent</li>
+                <li><a href="../../technology/drivingassistance/collisionavoidanceassist/">Unnamanøvringsassistent</a></li>
+                <li><a href="../../technology/safety">Proaktiv passasjerbeskyttelse foran, på siden og bak</a></li>
+                <li>Passasjerdeteksjon bak</li>
+                <li><a href="../../drivetrain/suspension">Adaptiv luftfjæring sport</a></li>
+            </ul>
+        </td>
+        <td>
+        PQD
+        </td>
+    </tr>
+    </tbody>
+</table>
+</div>
+
 ## Lakkfarger
 
 {{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/plasmablue_4_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron i plasma blå" >}}
@@ -937,8 +1080,42 @@ You can choose between serveral seat types and seat materials. Click links below
         PQB
         </td>
     </tr>
-           <tr>
+    <tr>
         <td>Tech Pro Q6</td>
+        <td>
+            <ul>
+                <li>Komfortpakke Pro</li>
+                <li>Komfort førklimatisering</li>
+                <li>Rattoppvarming</li>
+                <li>Setevarme foran og bak</li>
+                <li><a href="../../technology/lights/">Matrix LED-frontlykter</a></li>
+                <li><a href="../../technology/lights/">Lyktespylere</a></li>
+                <li><a href="../../technology/lights/">Digitale OLED-baklys</a></li>
+                <li><a href="../../technology/lights/">Fjernlysassistent</a></li>
+                <li>Dobbeleiker skinnratt med multifunksjon og Skift padleårer</li>
+                <li>Parkeringshjelp pluss med avstandsvisning</li>
+                <li><a href="../../technology/drivingassistance/360camera/">360 kamera</a></li>
+                <li>Parkeringsassistenter pluss</li>
+                <li><a href="../../technology/drivingassistance/adaptivecruisecontrol/">Adaptiv cruise control</a></li>
+                <li><a href="../../technology/drivingassistance/adaptivecruiseassist/">Adaptiv cruise assist</a></li>
+                <li>MMI passasjerdisplay</li>
+                <li><a href="../../technology/lights/">Digitale lyssignaturer</a></li>
+                <li>e-tron sportslyd</li>
+                <li><a href="../../technology/safety">Sidekollisjonsputer foran og bak med hodekollisjonsputesystem og Interaksjonskollisjonspute foran</a></li>
+                <li><a href="../../technology/drivingassistance/sideassist/">Blindsonevarsling</a></li>
+                <li>Nødstoppassistent</li>
+                <li><a href="../../technology/drivingassistance/collisionavoidanceassist/">Unnamanøvringsassistent</a></li>
+                <li>Proaktiv passasjerbeskyttelse foran, på siden og bak</li>
+                <li>Passasjerdeteksjon bak</li>
+                <li><a href="../../drivetrain/suspension">Adaptiv luftfjæring</a></li>
+            </ul>
+        </td>
+        <td>
+        PQC
+        </td>
+    </tr>
+        <tr>
+        <td>Tech Pro SQ6</td>
         <td>
             <ul>
                 <li>Komfortpakke Pro</li>
@@ -956,19 +1133,19 @@ You can choose between serveral seat types and seat materials. Click links below
                 <li>Adaptiv cruise control</li>
                 <li>Adaptiv cruise assist</li>
                 <li>MMI passasjerdisplay</li>
-                <li>Digitale lyssignaturer</li>
+                <li><a href="../../technology/lights/">Digitale lyssignaturer</a></li>
                 <li>e-tron sportslyd</li>
                 <li><a href="../../technology/safety">Sidekollisjonsputer foran og bak med hodekollisjonsputesystem og Interaksjonskollisjonspute foran</a></li>
                 <li><a href="../../technology/drivingassistance/sideassist/">Blindsonevarsling</a></li>
                 <li>Nødstoppassistent</li>
-                <li>Unnamanøvringsassistent</li>
-                <li>Proaktiv passasjerbeskyttelse foran, på siden og bak</li>
-                <li><a href="Pre-sense back seat</li>
-                <li><a href="../../drivetrain/suspension">Adaptiv luftfjæring</a></li>
+                <li><a href="../../technology/drivingassistance/collisionavoidanceassist/">Unnamanøvringsassistent</a></li>
+                <li><a href="../../technology/safety">Proaktiv passasjerbeskyttelse foran, på siden og bak</a></li>
+                <li>Passasjerdeteksjon bak</li>
+                <li><a href="../../drivetrain/suspension">Adaptiv luftfjæring sport</a></li>
             </ul>
         </td>
         <td>
-        PQC
+        PQD
         </td>
     </tr>
     </tbody>

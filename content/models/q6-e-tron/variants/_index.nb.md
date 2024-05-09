@@ -8,19 +8,71 @@ weight: 1
 {{< sitefiguresized thumb="models/q6-e-tron/variants/variants_1_st.jpg" width="3000" height="2250" title="Audi SQ6 e-tron & Audi Q6 e-tron" >}}
 
 
-<!-- markdownlint-disable MD033 -->
-### Audi Q6 e-tron quattro
+<!-- markdownlint-disable MD033 -->### Audi Q6 e-tron quattro
 
 Denne varianten er entry quattro-modellen med 285kW/385HP for EU-versjonen og 340kW og 433 BPH for den amerikanske versjonen.
 
-[See detailed specification](../specifications/#audi-q6-e-tron-quattro)
+Audi Q6 SUV e-tron inkluderer følgende som standard
+Omfang:
+
+**Ytre:**
+
+- avansert eksteriør
+- Bunnlinje i Mythos Black kontrastlakk
+- Enkel ramme i kroppsfarge
+- LED-frontlykter og LED-baklys
+- Hjul, 10-eiker, 8,0 J x 18 med dekk 235/65 R 18
+foran, 9,0 J x 18 med dekk 255/60 R 18 bak
+- Sort vinduskant
+- Takreling matt sort
+
+**Interiør:**
+
+- Standard forseter i stoffargument
+- Dekorativt innlegg fin vulkangrå lakk
+- Myk innpakning
+- Dobbeleikert skinnratt med multifunksjon
+- Pakke med omgivelseslys
+- Dørterskelplater med aluminiumsinnsatser foran
+
+[Se detaljert spesifikasjon](../specifications/#audi-q6-e-tron-quattro)
 
 ### Audi SQ6 e-tron
 
-Performance variant. 
+Ytelsesvariant.
 
-[See detailed specification](../specifications/#audi-q8-50-sportback-e-tron)
+Audi SQ6 SUV e-tron inkluderer følgende som standard
+Omfang:
 
+**Ytre:**
+
+- S modell eksteriør
+- Bunnlinje i Mythos Black kontrastlakk
+- Enkel ramme i kroppsfarge med aluminiumsinnsatser
+- LED-hovedlys pluss med dynamisk belysning
+og LED-baklys pro med et kontinuerlig lysbånd
+- S sportsunderstell
+  -Hjul, 5-arms struktur, grafittgrå, høyglans finish2,
+8,5 J x 20 med dekk 255/50 R 20 foran, 10,0 J x 20
+med 285/45 R 20 dekk bak
+- Sort vinduskant
+- Ytterspeilhus i krom-look matt sølv
+- Takrails i aluminium
+- e-tron sportslyd
+  
+**Interiør:**
+
+- Sportsseter i sort skinn/kunstskinn kombinasjon
+- Dekorativt innlegg i aluminium mattbørstet antrasitt
+- Myk innpakning
+- Skinnsportsratt, 3-eiker, flatet i topp og bunn
+med multifunksjons- og girsvinger inkludert S-emblem
+- Pedaler og fotstøtte laget av rustfritt stål
+- Pakke med omgivelseslys
+- Dørterskelplater med aluminiumsinnsatser foran, opplyst
+med S-bokstav
+
+[Se detaljert spesifikasjon](../specifications/#audi-sq6-e-tron)
 
 ## Upcoming versions
 

@@ -7,13 +7,152 @@ sectiontabs: "/models/q6-e-tron/optionguide/"
 ---
 <!-- markdownlint-disable MD033 -->
 
-Not 100% confirmed yet
+## Technology packages
+
+For the Audi Q6, Audi has integrated technology in different packages. The choice of technology package affects which other optional extras can be selected.
+
+<div class="table-responsive">
+<table class="table table-striped border">
+    <thead>
+        <tr>
+        <th>Title
+        </th>
+        <th>Description
+        </th>
+        <th>ID
+        </td>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Tech</td>
+        <td>
+            <ul>
+                <li>Comfort package</li>
+                <li>Comfort remote preconditioning</li>
+                <li>Heated steering wheel </li>
+                <li>Heated front and outer rear seats</li>
+                <li><a href="../../technology/lights/">LED headlights plus </a></li>
+                <li><a href="../../technology/lights/">Headlight cleaning system</a></li>
+                <li><a href="../../technology/lights/">LED rear lights pro</a></li>
+                <li><a href="../../technology/lights/">High beam assist</a></li>
+                <li>Dobbeleiker skinnratt med multifunksjon og Skift padleårer</li>
+                <li>Parking system plus with 360° display</li>
+                <li><a href="../../technology/drivingassistance/360camera/">360 camera</a></li>
+                <li>Park Assist Plus</li>
+                <li><a href="../../technology/drivingassistance/adaptivecruisecontrol/">Adaptiv cruise control</a></li>
+            </ul>
+        </td>
+        <td>
+        PQA
+        </td>
+    </tr>
+       <tr>
+        <td>Tech Plus</td>
+        <td>
+            <ul>
+                <li>Comfort package Plus</li>
+                <li>Comfort remote preconditioning</li>
+                <li>Heated steering wheel </li>
+                <li>Heated front and outer rear seats</li>
+                <li><a href="../../technology/lights/">Matrix LED headlights</a></li>
+                <li><a href="../../technology/lights/">Headlight cleaning system</a></li>
+                <li><a href="../../technology/lights/">LED rear lights pro</a></li>
+                <li><a href="../../technology/lights/">High beam assist</a></li>
+                <li>Dobbeleiker skinnratt med multifunksjon og Skift padleårer</li>
+                <li>Parking system plus with 360° display</li>
+                <li><a href="../../technology/drivingassistance/360camera/">360 camera</a></li>
+                <li>Park Assist Plus</li>
+                <li><a href="../../technology/drivingassistance/adaptivecruisecontrol/">Adaptiv cruise control</a></li>
+                <li>MMI passasjerdisplay</li>
+                <li><a href="../../technology/lights/">Digitale lyssignaturer</a></li>
+                <li>e-tron sportslyd</li>
+                <li><a href="../../drivetrain/suspension">Sport suspension</a></li>
+                <li>Side airbags in front and rear with head airbag system and front interaction airbag</li>
+                <li><a href="../../technology/drivingassistance/sideassist/">Blindsonevarsling</a></li>
+                <li>Nødstoppassistent unnamanøvringsassistent</li>
+            <li><a href="../../technology/safety">Proactive passenger protection system for front, sides and rear</a></li>
+                <li>Occupant detection in rear seat area</li>
+            </ul>
+        </td>
+        <td>
+        PQB
+        </td>
+    </tr>
+    <tr>
+        <td>Tech Pro Q6</td>
+        <td>
+            <ul>
+                <li>Comfort package Pro</li>
+                <li>Comfort remote preconditioning</li>
+                <li>Heated steering wheel </li>
+                <li>Heated front and outer rear seats</li>
+                <li><a href="../../technology/lights/">Matrix LED headlights</a></li>
+                <li><a href="../../technology/lights/">Headlight cleaning system</a></li>
+                <li><a href="../../technology/lights/">Digitale OLED-rear lights</a></li>
+                <li><a href="../../technology/lights/">High beam assist</a></li>
+                <li>Dobbeleiker skinnratt med multifunksjon og Skift padleårer</li>
+                <li>Parking system plus with 360° display</li>
+                <li><a href="../../technology/drivingassistance/360camera/">360 kamera</a></li>
+                <li>Park Assist Plus</li>
+                <li><a href="../../technology/drivingassistance/adaptivecruisecontrol/">Adaptiv cruise control</a></li>
+                <li><a href="../../technology/drivingassistance/adaptivecruiseassist/">Adaptiv cruise assist</a></li>
+                <li><a href="../../technology/uiandoperations/mmi/">MMI passasjerdisplay</a></li>
+                <li><a href="../../technology/lights/">Digitale lyssignaturer</a></li>
+                <li>e-tron sportslyd</li>
+                <li><a href="../../technology/safety">Side airbags in front and rear with head airbag system and front interaction airbag</a></li>
+                <li><a href="../../technology/drivingassistance/sideassist/">Blindsonevarsling</a></li>
+                   <li>Emergencyassist</li>
+                <li><a href="../../technology/drivingassistance/collisionavoidanceassist/">Unnamanøvringsassistent</a></li>
+                <li><a href="../../technology/safety">Proactive passenger protection system for front, sides and rear</a></li>
+                <li>Occupant detection in rear seat area</li>
+                <li><a href="../../drivetrain/suspension">Adaptiv luftfjæring</a></li>
+            </ul>
+        </td>
+        <td>
+        PQC
+        </td>
+    </tr>
+        <tr>
+        <td>Tech Pro SQ6</td>
+        <td>
+            <ul>
+                <li>Comfort package Pro</li>
+                <li>Comfort remote preconditioning</li>
+               <li>Heated steering wheel </li>
+                <li>Setevarme foran og bak</li>
+                <li><a href="../../technology/lights/">Matrix LED headlights</a></li>
+                <li><a href="../../technology/lights/">Headlight cleaning system</a></li>
+                <li><a href="../../technology/lights/">Digitale OLED-rear lights</a></li>
+                <li><a href="../../technology/lights/">High beam assist</a></li>
+                <li>Dobbeleiker skinnratt med multifunksjon og Skift padleårer</li>
+                <li>Parking system plus with 360° display</li>
+                <li>360 kamera</li>
+                <li>Park Assist Plus</li>
+                <li><a href="../../technology/drivingassistance/adaptivecruisecontrol/">Adaptiv cruise control</a></li>
+                <li><a href="../../technology/drivingassistance/adaptivecruiseassist/">Adaptiv cruise assist</a></li>
+                <li><a href="../../technology/uiandoperations/mmi/">MMI passasjerdisplay</a></li>
+                <li><a href="../../technology/lights/">Digitale lyssignaturer</a></li>
+                <li>e-tron sportslyd</li>
+                <li><a href="../../technology/safety">Side airbags in front and rear with head airbag system and front interaction airbag</a></li>
+                <li><a href="../../technology/drivingassistance/sideassist/">Blindsonevarsling</a></li>
+                <li>Emergencyassist</li>
+                <li><a href="../../technology/drivingassistance/collisionavoidanceassist/">Unnamanøvringsassistent</a></li>
+                <li><a href="../../technology/safety">Proactive passenger protection system for front, sides and rear</a></li>
+                <li>Passasjerdeteksjon bak</li>
+                <li><a href="../../drivetrain/suspension">Adaptiv luftfjæring sport</a></li>
+            </ul>
+        </td>
+        <td>
+        PQD
+        </td>
+    </tr>
+    </tbody>
+</table>
+</div>
 
 ## Paint Color & Paint trim
 
-
 {{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/plasmablue_4_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in plasma blue" >}}
-
 
 With more than 60 different colors, serveral paint trim there huge amount of color combination available. 
 Click below for high-res pictures and details of each option. 
@@ -563,9 +702,6 @@ You can choose between serveral seat types and seat materials. Click links below
 </table>
 </div>
 
-
-
-
 ## Equipment packages
 
 
@@ -577,18 +713,46 @@ You can choose between serveral seat types and seat materials. Click links below
         </th>
         <th>Description
         </th>
+        <th>
+            ID
+        </th>
     </thead>
     <tbody>
+     <tr>
+        <td>Storage package</td>
+        <td>Storage and luggage compartment package and front luggage compartment includes:
+             <ul>
+                <li>Storage net on the back of the front seat backrests </li>
+                <li>Storage compartment in the centre console</li>
+                <li>Storage compartment on the driver side</li>
+                <li>Lockable glove compartment</li>
+                <li>Luggage compartment net</li>
+                <li>Net in luggage compartment recess, left and right</li>
+                <li>Tensioning strap on luggage compartment side</li>
+            </ul>
+        </td>
+        <td>
+        QE1
+        </td>
+    </tr>
     <tr>
         <td>Storage package with frunk</td>
-        <td>Net back of rear sets, 64 liters frunk, storage room center consol, storage room driver side, </td>
+        <td>Storage and luggage compartment package and front luggage compartment includes:
+             <ul>
+                <li>Storage net on the back of the front seat backrests </li>
+                <li>Storage compartment in the centre console</li>
+                <li>Storage compartment on the driver side</li>
+                <li>Lockable glove compartment</li>
+                <li>Luggage compartment net</li>
+                <li>Net in luggage compartment recess, left and right</li>
+                <li>Tensioning strap on luggage compartment side</li>
+                <li>Additional storage space under the bonnet with a capacity of 64 litres</li>
+            </ul>
+        </td>
+        <td>
+        QE2
+        </td>
     </tr>
     </tbody>
 </table>
 </div>
-
-
-
-
-
-{{<children description="true" />}}

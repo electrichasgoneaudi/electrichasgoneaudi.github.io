@@ -19,4 +19,5 @@ Først produseres et støt for å advare sjåføren om faren. Hvis sjåføren da
     <figcaption><h4>Unnamanøvreringsassistent</h4></figcaption>
 </figure>
 
-Dette er en del av turpakken med tilvalgs id  **PCC** på Audi Q8 e-tron
+
+This standard
