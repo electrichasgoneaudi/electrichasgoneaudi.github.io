@@ -295,8 +295,39 @@ Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 21". C
 
 
 
-## Lys
+## Lys 
 
+<div class="table-responsive">
+<table class="table table-striped border">
+    <thead>
+        <tr>
+        <th>Title
+        </th>
+        <th>Description
+        </th>
+        <th>
+            ID
+        </th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>LED Hovedlykter</td>
+            <td>Standard</td>
+            <td>8IY/8J</td>
+        </tr>
+        <tr>
+            <td>Fjernlysassistent</td>
+            <td>Standard</td>
+            <td>8G1</td>
+        </tr>
+        <tr>
+            <td>LED Matrix</td>
+            <td>Standard Tech Pro / Tech Plus</td>
+            <td>8IY/8G4</td>
+        </tr>
+    </tbody>
+</table>
+</div>
 
 
 ## Mirror and roof system
@@ -365,39 +396,7 @@ Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 21". C
 </table>
 </div>
 
-## Lys 
 
-<div class="table-responsive">
-<table class="table table-striped border">
-    <thead>
-        <tr>
-        <th>Title
-        </th>
-        <th>Description
-        </th>
-        <th>
-            ID
-        </th>
-    </thead>
-    <tbody>
-        <tr>
-            <td>LED Hovedlykter</td>
-            <td>Standard</td>
-            <td>8IY/8J</td>
-        </tr>
-        <tr>
-            <td>Fjernlysassistent</td>
-            <td>Standard</td>
-            <td>8G1</td>
-        </tr>
-        <tr>
-            <td>LED Matrix</td>
-            <td>Standard Tech Pro / Tech Plus</td>
-            <td>8IY/8G4</td>
-        </tr>
-    </tbody>
-</table>
-</div>
 
 ## Speil, taksystemer og vinduer
 

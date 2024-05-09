@@ -264,7 +264,7 @@ Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 22". C
     </thead>
     <tbody>
         <tr>
-            <td><a href="../../exterior/wheels/">Felger fra Audi Sport i 10-eikers trapesdesign i sort metallic, glanspolerte</a></td>
+            <td><a href="../../exterior/wheels/">10-spoke trapezoid, metallic black, gloss turned finish Audi Sport alloy wheels</a></td>
             <td>Dimensjon 8,5J | 10,0 J x 20 med 255/50 | 285/45 R 20 dekk</td>
             <td></td>
         </tr>
@@ -274,7 +274,7 @@ Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 22". C
             <td></td>
         </tr>
         <tr>
-            <td><a href="../../exterior/wheels/">Felger fra Audi Sport i 5-dobbelteikers offsettdesign, grå silkematt, glanspolerte</a> </td>
+            <td><a href="../../exterior/wheels/">5-twin-spoke offset, matt grey, gloss turned finish Audi Sport alloy wheels</a> </td>
             <td>Dimensjon 8,5 J | 10,0 J x 20 med 255/50 | 285/45 R 20 dekk</td>
             <td></td>
         </tr>
@@ -284,7 +284,7 @@ Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 22". C
             <td></td>
         </tr>
         <tr>
-            <td><a href="../../exterior/wheels/">Felger i 5-arms strukturdesign, grafittgrå, glanspolerte</a></td>
+            <td><a href="../../exterior/wheels/">'5-arm' structure style, graphite grey, gloss turned finish alloy wheels</a></td>
             <td>Dimensjon 8,5 J | 10,0 J x 20 med 255/50 | 285/45 R 20 dekk</td>
             <td></td>
         </tr>
@@ -310,6 +310,90 @@ Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 22". C
 
 
 ## Lights
+
+
+<div class="table-responsive">
+<table class="table table-striped border">
+    <thead>
+        <tr>
+        <th>Title
+        </th>
+        <th>Description
+        </th>
+        <th>
+            ID
+        </th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Daytime running lights with assistant driving lights and coming and leaving home function automatically</td>
+            <td>Standard</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Preparation for further lighting functions</td>
+            <td>After the vehicle has been delivered, additional Functions on Demand functions can be booked via the myAudi Shop if required. To do this, simply visit the online shop, which you can access via myAudi. The right one can also be found there
+Duration can be selected</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Headlight cleaning system</td>
+            <td>The headlight cleaning system ensures more by cleaning the headlight with water and high pressure Light on the street.
+            </td>
+            <td>Part of Tech packages (PQA,PQB, PQC). Standard SQ6</td>
+        </tr>
+        <tr>
+            <td>LED headlights</td>
+            <td>The LED headlights produce illumination of the road similar to daylight and impress with their low level
+                Energy consumption, a long service life and good visibility for others.
+                The LED headlights include the following functionalities:
+                <ul>
+                <li>Dimmed headlights</li>
+                <li>High beam</li>
+                <li>Daytime running lights</li>
+                <li>Position light</li>
+                <li>Flashing light</li>
+            </td>
+            <td>Standard Q6</td>
+        </tr>
+        <tr>
+            <td>LED headlights plus</td>
+            <td>LED headlights plus produce illumination of the road similar to daylight and impress with their low energy consumption, long service life and good visibility for others.
+            Adaptive lighting functions adapt the illumination of the road to the respective driving situation.
+            The dynamic lighting of the coming home/leaving home function provides additional brightness on the way
+            from or to the vehicle.
+            The LED headlights plus include the following functionalities:
+            <ul>
+            <li>Visually enhanced/digital daytime running lights</li>
+            <li>Dimmed headlights</li>
+            <li>High beam</li>
+            <li>Position light</li>
+            <li>Flashing light</li>
+            <li>Cornering light (supplement to the side lighting when turning)</li>
+            <li>All-weather light (to reduce glare in poor visibility conditions)</li>
+            <li>Highway lights (extended lighting range at high speeds)</li>
+            <li>Static cornering light (supplement to the side lighting in tight curves)</li>
+            <li>Maneuvering light (illumination of the maneuvering area at the front and side when reversing)</li>
+            <li>automatic-dynamic headlight range adjustment</li>
+            <li>Crossing light (supplement to the side lighting in the crossing area in conjunction with MMI Navigation plus)</li>
+            <li>Dynamic lighting for the coming home/leaving home function while stationary</li>
+            </ul>
+            </td>
+            <td>Standard SQ6 and parth of Tech (PQA)</td>
+        </tr>
+        <tr>
+            <td>Fjernlysassistent</td>
+            <td>Standard</td>
+            <td>8G1</td>
+        </tr>
+        <tr>
+            <td>LED Matrix</td>
+            <td>Standard Tech Pro / Tech Plus</td>
+            <td>8IY/8G4</td>
+        </tr>
+    </tbody>
+</table>
+</div>
 
 
 
