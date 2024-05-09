@@ -3,6 +3,7 @@ title: Adaptive cruise control with speed limiter.
 linktitle: Adaptive cruise control
 description: The Adaptive cruise control (ACC) supports the driver within the system limits
 weight: 1
+sectiontabs: "/models/q6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 

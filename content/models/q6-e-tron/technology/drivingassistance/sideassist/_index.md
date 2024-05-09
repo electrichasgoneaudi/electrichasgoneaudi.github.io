@@ -3,6 +3,7 @@ title: Audi Q6 e-tron side assist
 linktitle: Side assist
 description: Audi Q6 e-tron can be delivered with Audi side assist. The Audi side assist lane-changing assistant helps the driver to change lanes at driving speeds of 15 km/h (9.3 mph) and faster.
 weight: 1
+sectiontabs: "/models/q6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 <figure>

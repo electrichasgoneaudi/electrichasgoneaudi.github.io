@@ -1,8 +1,9 @@
 ---
-title: Audi Q8 e-tron collision avoidance assist
+title: Audi Q6 e-tron collision avoidance assist
 linktitle: Collision avoidance assist
-description: Audi Q8 e-tron can be equipped with collision avoidance assist. Collision avoidance assist helps the driver steer around an obstacle in a critical situation. 
+description: Audi Q6 e-tron is equipped with collision avoidance assist. Collision avoidance assist helps the driver steer around an obstacle in a critical situation. 
 weight: 1
+sectiontabs: "/models/q6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 

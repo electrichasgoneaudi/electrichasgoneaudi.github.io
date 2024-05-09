@@ -3,6 +3,7 @@ title: Audi Q6 e-tron traffic sign recognition
 linktitle: Traffic sign recognition
 description: Audi Q6 e-tron can be equipped with traffic sign recognition. Camera-based traffic sign recognition detects traffic signs such as speed limit signs (including digital signs), no passing zones, entry restriction signs and other auxiliary signs, and it shows them to the driver in graphic form.
 weight: 1
+sectiontabs: "/models/q6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -20,4 +21,3 @@ To turn of that predictive driver assist should follow sign this can be disabled
 
 This option is part of the tour driver assistance package with option id **PCC**
 
-{{<children description="true" />}}

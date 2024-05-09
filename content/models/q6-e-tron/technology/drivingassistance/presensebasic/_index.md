@@ -3,6 +3,7 @@ title: Audi Q6 e-tron pre sense basic
 linktitle: Pre Sense basic
 description: Audi Q6 e-tron is equipped with Audi pre sense basic. Audi pre sense basic initiates preventive safety measures for occupants as soon as it recognizes a critical driving state.
 weight: 1
+sectiontabs: "/models/q6-e-tron/technology/"
 ---
 
 <!-- markdownlint-disable MD033 -->

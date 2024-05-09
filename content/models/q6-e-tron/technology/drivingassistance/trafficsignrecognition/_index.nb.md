@@ -3,6 +3,7 @@ title: Audi Q6 e-tron trafikkskiltgjenkjenning
 linktitle: Trafikkskiltgjenkjenning
 description: Audi Q6 e-tron kan leveres med kamerabasert trafikkskiltgjenkjenning. Kamerabasert trafikkskiltgjenkjenning oppdager trafikkskilt som fartsgrenseskilt (inkludert digitale skilt), ingen passeringssoner, adgangsbegrensningsskilt og andre hjelpeskilt, og den viser dem til sjåføren i grafisk form.
 weight: 1
+sectiontabs: "/models/q6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -32,4 +33,3 @@ Velg -> Bil -> Førerassistent -> Adativ kjøreassistent -> Prediktiv kontroll -
 
 Dette alternativet er en del av [assistentpakken tur](../../../optionguide/list/#assistentsystemer) med alternativ-ID **PCC**
 
-{{<children description="true" />}}

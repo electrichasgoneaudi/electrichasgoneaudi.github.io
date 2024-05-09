@@ -3,6 +3,7 @@ title: Audi Q6 e-tron reversing camera
 linktitle: Reversing camera
 description: Audi Q6 e-tron can be delivered with revering camera. The reversing camera simplifies maneuvering by showing the zone behind the vehicle on the MMI display.
 weight: 1
+sectiontabs: "/models/q6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 <figure>

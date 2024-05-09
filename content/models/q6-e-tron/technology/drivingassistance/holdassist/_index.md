@@ -3,6 +3,7 @@ title: Audi Q6 e-tron hold assist
 linktitle: Hold assist
 description: Hold assist enables convenient drive-offs when the car is on the usual inclines and descents of street traffic, and it prevents the vehicle from rolling.
 weight: 1
+sectiontabs: "/models/q6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 <figure>

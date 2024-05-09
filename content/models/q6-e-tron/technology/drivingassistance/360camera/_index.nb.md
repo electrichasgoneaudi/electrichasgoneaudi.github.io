@@ -3,6 +3,7 @@ title: Audi Q6 e-tron 360 kamera
 linktitle: 360 kamera
 description: Audi Q6 e-tron leveres med 360 kamera som standard. De fire 360 graders kameraene på kjøretøyet skanner umiddelbar nærhet og viser hindringer innenfor. Sjåfører kan velge mellom ulike visninger som forenkler parkering og manøvrering.
 weight: 1
+sectiontabs: "/nb/models/q6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 Et virtuelt overheadbilde vist i MMI-displayet gir føreren en oversikt over den generelle parkeringssituasjonen. Panoramautsikten foran og bak dekker en vinkel på nesten 180 grader og gir bedre sikt ved utkjøring av trange parkeringsplasser, gårdsinnganger og uoversiktlige veikryss. Ledelinjer i ryggekameravisningen gjør det lettere å parkere på loddrette plasser og å koble til tilhengere. Utsikten fra frontkameraet hjelper ved manøvrering, da det oppdager hindringer foran bilen. Systemet aktiveres automatisk når du kjører i revers eller ved å trykke på en knapp.

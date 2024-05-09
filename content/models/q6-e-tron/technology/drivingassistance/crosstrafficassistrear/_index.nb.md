@@ -1,8 +1,9 @@
 ---
-title:  Audi Q8 e-tron assistent for kryssende trafikk bak
+title:  Audi Q6 e-tron assistent for kryssende trafikk bak
 linktitle: Cross traffic assist rear
-description: Audi Q8 e-tron kan utstyres med assistent for kryssende trafikk. Assistent for kryssende trafikk bak advarer føreren om kjøretøyer som nærmer seg den anser som kritiske når han rygger sakte, for eksempel når han kjører ut av en vinkelrett parkeringsplass.
+description: Audi Q6 e-tron kan utstyres med assistent for kryssende trafikk. Assistent for kryssende trafikk bak advarer føreren om kjøretøyer som nærmer seg den anser som kritiske når han rygger sakte, for eksempel når han kjører ut av en vinkelrett parkeringsplass.
 weight: 1
+sectiontabs: "/nb/models/q6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 <figure>

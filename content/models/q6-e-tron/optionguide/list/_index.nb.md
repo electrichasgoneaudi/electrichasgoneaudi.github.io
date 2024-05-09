@@ -890,10 +890,10 @@ You can choose between serveral seat types and seat materials. Click links below
                 <li>Komfort førklimatisering</li>
                 <li>Rattoppvarming</li>
                 <li>Setevarme foran og bak</li>
-                <li>LED-hovedlys pluss</li>
-                <li>Lyktespylere</li>
-                <li>LED-baklys</li>
-                <li>Fjernlysassistenter</li>
+                <li><a href="../../technology/lights/">LED-hovedlys pluss</a></li>
+                <li><a href="../../technology/lights/">Lyktespylere</a></li>
+                <li><a href="../../technology/lights/">LED-baklys</a></li>
+                <li><a href="../../technology/lights/">Fjernlysassistenter</a></li>
                 <li>Dobbeleiker skinnratt med multifunksjon og Skift padleårer</li>
                 <li>Parkeringshjelp pluss med avstandsvisning</li>
                 <li>Omkringliggende kameraer</li>
@@ -913,22 +913,21 @@ You can choose between serveral seat types and seat materials. Click links below
                 <li>Komfort førklimatisering</li>
                 <li>Rattoppvarming</li>
                 <li>Setevarme foran og bak</li>
-                <li>Matrix LED-frontlykter</li>
-                <li>Lyktespylere</li>
-                <li>LED-baklys</li>
-                <li>Fjernlysassistenter</li>
+                <li><a href="../../technology/lights/">Matrix LED-frontlykter</a></li>
+                <li><a href="../../technology/lights/">Lyktespylere</a></li>
+                <li><a href="../../technology/lights/">LED-baklys</a></li>
+                <li><a href="../../technology/lights/">Fjernlysassistent</a></li>
                 <li>Dobbeleiker skinnratt med multifunksjon og Skift padleårer</li>
                 <li>Parkeringshjelp pluss med avstandsvisning</li>
                 <li>Omkringliggende kameraer</li>
                 <li>Parkeringsassistenter pluss</li>
                 <li>Adaptiv cruiseassistent</li>
                 <li>MMI passasjerdisplay</li>
-                <li>Digitale lyssignaturer</li>
+                <li><a href="../../technology/lights/">Digitale lyssignaturer</a></li>
                 <li>e-tron sportslyd</li>
                 <li>S sportsunderstell</li>
-                <li>Sidekollisjonsputer foran og bak med hodekollisjonsputesystem og
-Interaksjonskollisjonspute foran</li>
-                <li>Blindsonevarsling</li>
+                <li>Sidekollisjonsputer foran og bak med hodekollisjonsputesystem og Interaksjonskollisjonspute foran</li>
+                <li><a href="../../technology/drivingassistance/sideassist/">Blindsonevarsling</a></li>
                 <li>Nødstoppassistent unnamanøvringsassistent</li>
                 <li>proaktiv passasjerbeskyttelse foran, på siden og bak</li>
                 <li>Passasjerdeteksjon bak</li>
@@ -947,24 +946,24 @@ Interaksjonskollisjonspute foran</li>
                 <li>Rattoppvarming</li>
                 <li>Setevarme foran og bak</li>
                 <li><a href="../../technology/lights/">Matrix LED-frontlykter</a></li>
-                <li>Lyktespylere</li>
-                <li>Digitale OLED-baklys</li>
-                <li>Fjernlysassistenter</li>
+                <li><a href="../../technology/lights/">Lyktespylere</a></li>
+                <li><a href="../../technology/lights/">Digitale OLED-baklys</a></li>
+                <li><a href="../../technology/lights/">Fjernlysassistent</a></li>
                 <li>Dobbeleiker skinnratt med multifunksjon og Skift padleårer</li>
                 <li>Parkeringshjelp pluss med avstandsvisning</li>
-                <li>Omkringliggende kameraer</li>
+                <li>360 kamera</li>
                 <li>Parkeringsassistenter pluss</li>
                 <li>Adaptiv cruise control</li>
                 <li>Adaptiv cruise assist</li>
                 <li>MMI passasjerdisplay</li>
                 <li>Digitale lyssignaturer</li>
                 <li>e-tron sportslyd</li>
-                <li>Sidekollisjonsputer foran og bak med hodekollisjonsputesystem og
-Interaksjonskollisjonspute foran</li>
+                <li><a href="../../technology/safety">Sidekollisjonsputer foran og bak med hodekollisjonsputesystem og Interaksjonskollisjonspute foran</a></li>
                 <li><a href="../../technology/drivingassistance/sideassist/">Blindsonevarsling</a></li>
-                <li>Nødstoppassistent unnamanøvringsassistent</li>
-                <li>proaktiv passasjerbeskyttelse foran, på siden og bak</li>
-                <li>Passasjerdeteksjon bak</li>
+                <li>Nødstoppassistent</li>
+                <li>Unnamanøvringsassistent</li>
+                <li>Proaktiv passasjerbeskyttelse foran, på siden og bak</li>
+                <li><a href="Pre-sense back seat</li>
                 <li><a href="../../drivetrain/suspension">Adaptiv luftfjæring</a></li>
             </ul>
         </td>

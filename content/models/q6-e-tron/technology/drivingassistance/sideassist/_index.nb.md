@@ -3,6 +3,7 @@ title: Audi Q6 e-tron filskifteassistent
 linktitle: Filskifteassistent
 description: Audi Q6 e-tron kan leveres med filskifteassistent. Filskifteassistenten hjelper føreren med å skifte fil ved kjørehastigheter på 15 km/t (9,3 mph) og raskere.
 weight: 1
+sectiontabs: "/nb/models/q6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 <figure>

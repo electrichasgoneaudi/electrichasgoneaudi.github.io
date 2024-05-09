@@ -1,8 +1,9 @@
 ---
-title: Audi Q8 e-tron gatekryssassistent
+title: Audi Q6 e-tron gatekryssassistent
 linktitle: Gatekryssassistent
-description: Audi Q8 e-tron kan leveres med gatekryssassistent. Gatekryssassistenten gjenkjenner kritisk krysstrafikk foran bilen og advarer føreren om det både visuelt og hørbart.
+description: Audi Q6 e-tron kan leveres med gatekryssassistent. Gatekryssassistenten gjenkjenner kritisk krysstrafikk foran bilen og advarer føreren om det både visuelt og hørbart.
 weight: 1
+sectiontabs: "/nb/models/q6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
  Ved hastigheter opp til 10 km/t (6,2 mph) starter den en kort bremsehandling ved behov. Kryssassistent er aktiv i kjøretøyhastigheter på opptil 30 km/t (18,6 mph). Den bruker data fra zFAS sentraldatamaskinen, med den viktigste informasjonen her levert av mellomradarene og laserskanneren.

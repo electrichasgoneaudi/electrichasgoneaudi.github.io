@@ -1,8 +1,9 @@
 ---
-title:  Audi Q8 e-tron unnamanøvreringsassistent
+title:  Audi Q6 e-tron unnamanøvreringsassistent
 linktitle:  Unnamanøvreringsassistent
-description: Audi Q8 e-tron kan leveres med unnamanøvreringsassistent.  Unnamanøvreringsassistenten hjelper føreren med å styre rundt en hindring i en kritisk situasjon. 
+description: Audi Q6 e-tron leveres med unnamanøvreringsassistent.  Unnamanøvreringsassistenten hjelper føreren med å styre rundt en hindring i en kritisk situasjon. 
 weight: 1
+sectiontabs: "/nb/models/q6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 

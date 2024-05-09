@@ -3,6 +3,7 @@ title: Audi Q6 e-tron exit warning
 linktitle: Exit warning
 description: Audi Q6 e-tron can be delivered with exit warning. Exit warning improves safety in city traffic. If the car has come to a stop and other vehicles or bicyclists classified as critical are approaching from the rear, the system warns passengers not to open the doors.
 weight: 1
+sectiontabs: "/models/q6-e-tron/technology/"
 ---
 
 <!-- markdownlint-disable MD033 -->

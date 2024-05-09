@@ -3,6 +3,7 @@ title: Audi Q6 e-tron maneuvering assist
 linktitle: Maneuvering assist
 description: Audi Q6 e-tron is equipped with Maneuvering assist. Maneuvering assist recognizes moving and stationary objects larger than 10 centimeters (3.9 in), such as a pillar in a parking garage or a moving vehicle. 
 weight: 1
+sectiontabs: "/models/q6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 

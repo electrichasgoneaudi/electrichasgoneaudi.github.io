@@ -3,6 +3,7 @@ title: Audi Q6 e-tron manøvreringsassistent
 linktitle: Manøvreringsassistent
 description: Audi Q6 e-tron er utstyrt med manøvreringsassistent. Manøvreringsassistent gjenkjenner bevegelige og stillestående gjenstander som er større enn 10 centimeter (3,9 tommer), for eksempel en søyle i et parkeringshus eller et kjøretøy i bevegelse.
 weight: 1
+sectiontabs: "/nb/models/q6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 

@@ -3,6 +3,7 @@ title: Audi Q6 e-tron parking system plus
 linktitle: Parking system plus
 description: Audi Q6 e-tron is equipped with parking system plus. Parking system plus informs the driver, visually and audibly, about obstacles in front of and behind the vehicle.
 weight: 1
+sectiontabs: "/models/q6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 

@@ -3,6 +3,7 @@ title: Audi Q6 e-tron cruise control
 linktitle: Cruise control
 description: Audi Q6 e-tron is equipped with cruise control. Cruise control maintains a desired driving speed constantly starting at around 30 km/h (18.6 mph), provided that it can be maintained by engine power and engine braking effects. 
 weight: 1
+sectiontabs: "/models/q6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 <figure>

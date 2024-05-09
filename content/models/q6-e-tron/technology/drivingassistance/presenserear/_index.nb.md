@@ -3,6 +3,7 @@ title: Audi Q6 e-tron pre sense rear
 linktitle: Pre sense rear
 description: Audi Q6 e-tron kan utstyres med Audi pre sense rear. Audi pre sense rear bruker radarsensorer i støtfangeren bak for å oppdage en forestående kollisjon bakfra, og den setter i gang forebyggende sikkerhetstiltak.
 weight: 1
+sectiontabs: "/nb/models/q6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 <figure>

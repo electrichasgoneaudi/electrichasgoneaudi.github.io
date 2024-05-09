@@ -1,8 +1,9 @@
 ---
-title: Audi Q8 e-tron active lane assist
+title: Audi Q6 e-tron active lane assist
 linktitle: Active lane assist
-description: Audi Q8 e-tron is equipped with active lane assist. Operating at speeds from 65 km/h (40.4 mph), Audi active lane assist helps the driver keep the vehicle in the driving lane.
+description: Audi Q6 e-tron is equipped with active lane assist. Operating at speeds from 65 km/h (40.4 mph), Audi active lane assist helps the driver keep the vehicle in the driving lane.
 weight: 1
+sectiontabs: "/models/q6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 <figure>

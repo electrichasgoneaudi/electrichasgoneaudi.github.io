@@ -3,6 +3,7 @@ title: Audi Q6 e-tron pre sense front
 linktitle: Pre sense front
 description: Audi Q6 e-tron er utstyrt med Audi pre sense front. Audi pre sense front bruker data fra radarsensorer og/eller frontkameraet, avhengig av bilmodellen, for å beregne sannsynligheten for en kollisjon. Innenfor systemets begrensninger advarer det om kollisjonstrusler og setter i gang bremsing ved spesifikke kjøretøyhastigheter.
 weight: 1
+sectiontabs: "/nb/models/q6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 <figure>

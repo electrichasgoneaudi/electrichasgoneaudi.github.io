@@ -3,6 +3,7 @@ title: Audi Q6 e-tron predictive efficiency assist
 linktitle: Efficiency assist
 description: Audi Q6 e-tron can be delivered with predictive efficiency assist. Predictive Efficiency assist helps the driver to drive preemptively and save energy. 
 weight: 1
+sectiontabs: "/models/q6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 <figure>

@@ -3,6 +3,7 @@ title: Audi Q6 e-tron turn assist
 linktitle: Turn assist
 description: Audi Q6 e-tron can be equipped with turn assist. Turn assist monitors the road lane with oncoming traffic by means of radar sensors, the front camera and, in certain models, a laser scanner.
 weight: 1
+sectiontabs: "/models/q6-e-tron/technology/"
 ---
 
 <!-- markdownlint-disable MD033 -->

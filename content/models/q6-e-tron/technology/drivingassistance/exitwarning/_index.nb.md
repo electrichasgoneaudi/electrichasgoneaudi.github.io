@@ -3,6 +3,7 @@ title: Audi Q6 e-tron utstigningsvarsling
 linktitle: Utstigningsvarsling
 description: Audi Q6 e-tron kan leveres med utstigningsvarsling. Utstigningsvarsling forbedrer sikkerheten i bytrafikken. Hvis bilen har stoppet og andre kjøretøy eller syklister klassifisert som kritiske nærmer seg bakfra, advarer systemet passasjerene om å ikke åpne dørene.
 weight: 1
+sectiontabs: "/nb/models/q6-e-tron/technology/"
 ---
 
 <!-- markdownlint-disable MD033 -->

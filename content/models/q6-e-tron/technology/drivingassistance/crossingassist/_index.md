@@ -1,8 +1,9 @@
 ---
-title: Audi Q8 e-tron crossing assist
+title: Audi Q6 e-tron crossing assist
 linktitle: Crossing assist
-description: Audi Q8 e-tron can be equipped with crossing assist. Crossing assist recognizes critical cross traffic in front of the car and warns the driver of it both visually and audibly.
+description: Audi Q6 e-tron can be equipped with crossing assist. Crossing assist recognizes critical cross traffic in front of the car and warns the driver of it both visually and audibly.
 weight: 1
+sectiontabs: "/nb/models/q6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 

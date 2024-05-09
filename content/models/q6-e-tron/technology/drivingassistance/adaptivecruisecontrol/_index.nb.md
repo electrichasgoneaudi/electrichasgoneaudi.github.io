@@ -3,6 +3,7 @@ title: Adaptive cruise control med hastighetsbegrensing
 linktitle: Adaptive cruise control
 description: Den adaptive cruisekontrollen (ACC) støtter føreren innenfor systemets grenser
 weight: 1
+sectiontabs: "/nb/models/q6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 

@@ -3,6 +3,7 @@ title: Audi Q6 e-tron avkjøringsassistent
 linktitle: Avkjøringsassistent
 description: Audi Q6 e-tron kan utstyres med avkjøringsassistent. Avkjøringsassistenten overvåker kjørefeltet med møtende trafikk ved hjelp av radarsensorer, frontkamera og, i enkelte modeller, en laserskanner.
 weight: 1
+sectiontabs: "/nb/models/q6-e-tron/technology/"
 ---
 
 <!-- markdownlint-disable MD033 -->

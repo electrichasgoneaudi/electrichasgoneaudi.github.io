@@ -5,6 +5,8 @@ description: Vorsprung Durch Technik har i mer enn 50 år vært Audis mantra og 
 vekt: 7
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
+
 
 Nedenfor ser du detaljer om de forskjellige teknologiområdene på Audi Q6 e-tron.
 
@@ -28,10 +30,21 @@ Med andregenerasjons digitale OLED-baklys tar Audi Q6 e-tron lysdesign, funksjon
 </div>
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-<a href="soundsystem/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/soundsystem/soundsystem_1_st.jpg" class="img-fluid mb- 2" class="img-fluid" alt="Audi Q6 e-tron-lys" ></a>
+<a href="soundsystem/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/collisionavoidanceassist/collisionavoidance_st.jpg" class="img-fluid mb- 2" class="img-fluid" alt="Audi Q6 e-tron-lys" ></a>
 <h2>Lydsystem</h2>
 <p>
 Audi Q6 e-tron tilbyr et standard lydsystem og et valgfritt lydsystem fra Bang & Olufsen.
 </p>
 <a href="soundsystem/" class="btn btn-outline-primary" role="button">Finn ut alt om Audi Q6 e-tron seter</a>
+</div>
+
+
+
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="safety/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/safety/airbags_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<h2>Safety</h2>
+	<p>
+		Audi Q6 e-tron have serveral standard and optional safety systems
+	</p>
+	<a href="safety/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron safety systems</a>
 </div>
