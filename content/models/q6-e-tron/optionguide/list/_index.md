@@ -7,6 +7,8 @@ sectiontabs: "/models/q6-e-tron/optionguide/"
 ---
 <!-- markdownlint-disable MD033 -->
 
+In most countries there will be preconfigured trim levels that combine some of the options.
+
 ## Technology packages
 
 For the Audi Q6, Audi has integrated technology in different packages. The choice of technology package affects which other optional extras can be selected.
@@ -493,7 +495,6 @@ It consists of a darkened rear window and darkened rear door and side windows</t
 
 ## Exterior options
 
-
 <div class="table-responsive">
 <table class="table table-striped border">
      <thead>
@@ -596,17 +597,53 @@ You can choose between serveral seat types and seat materials. Click links below
     <tbody>
         <tr>
             <td><a href="../../interior/seats/">Standard Seats</a></td>
-            <td></td>
+            <td>The standard seats offer pleasant seating comfort and can be combined with different seat cover materials and colors.</td>
             <td></td>
         </tr>
         <tr>
             <td><a href="../../interior/seats/">Sport Seats</a></td>
-            <td></td>
+            <td>tailored to sporting ambitions; Front sports seats with a distinctive shape and individual adjustment
+The front sports seats also have:
+• manually extendable thigh support
+• visually integrated headrests
+• Pronounced seat side bolsters for better lateral support when cornering</td>
             <td></td>
         </tr>
         <tr>
             <td><a href="../../interior/seats/">Sport Seats Plus</a></td>
+            <td>The sports seats plus at the front are particularly characterized by striking details such as the integrated headrests and S embossing
+out of.
+The sports seats plus at the front also have:
+• manually extendable thigh support
+• manually adjustable belt height
+• visually integrated headrests
+• Pronounced seat side bolsters for better lateral support when cornering
+• Decorative panel in the backrest head with S embossing</td>
             <td></td>
+        </tr>
+        <tr>
+            <td><a href="../../interior/seats/">Front seats manually adjustable</a></td>
+            <td>A variety of manual setting options are available:
+                • Seat height
+                • Longitudinal seat position
+                • Backrest angle
+                • Headrest and belt height.</td>
+            <td></td>
+        </tr> 
+        <tr>
+            <td><a href="../../interior/seats/">Electrically adjustable front seats</a></td>
+            <td>A variety of electrical setting options are available:
+• Seat height
+• Longitudinal seat position
+• Seat and backrest inclination</td>
+            <td></td>
+        </tr>
+                <tr>
+            <td><a href="../../interior/seats/">Memory function for the driver's seat and the exterior mirrors</a></td>
+            <td>A variety of electrical setting options are available:
+• Seat height
+• Longitudinal seat position
+• Seat and backrest inclination</td>
             <td></td>
         </tr>
     </tbody>
