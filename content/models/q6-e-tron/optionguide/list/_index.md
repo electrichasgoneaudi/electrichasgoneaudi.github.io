@@ -283,9 +283,7 @@ Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 22". C
 </div>
 
 
-
 ## Lights
-
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -301,24 +299,24 @@ Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 22". C
     </thead>
     <tbody>
         <tr>
-            <td>Daytime running lights with assistant driving lights and coming and leaving home function automatically</td>
+            <td><a href="../../technology/lights/">Daytime running lights with assistant driving lights and coming and leaving home function automatically</a></td>
             <td>Standard</td>
             <td></td>
         </tr>
         <tr>
-            <td>Preparation for further lighting functions</td>
+            <td><a href="../../technology/lights/">Preparation for further lighting functions</a></td>
             <td>After the vehicle has been delivered, additional Functions on Demand functions can be booked via the myAudi Shop if required. To do this, simply visit the online shop, which you can access via myAudi. The right one can also be found there
 Duration can be selected</td>
             <td></td>
         </tr>
         <tr>
-            <td>Headlight cleaning system</td>
+            <td><a href="../../technology/lights/">Headlight cleaning system</a></td>
             <td>The headlight cleaning system ensures more by cleaning the headlight with water and high pressure Light on the street.
             </td>
             <td>Part of Tech packages (PQA,PQB, PQC). Standard SQ6</td>
         </tr>
         <tr>
-            <td>LED headlights</td>
+            <td><a href="../../technology/lights/">LED headlights</a></td>
             <td>The LED headlights produce illumination of the road similar to daylight and impress with their low level
                 Energy consumption, a long service life and good visibility for others.
                 The LED headlights include the following functionalities:
@@ -332,7 +330,7 @@ Duration can be selected</td>
             <td>Standard Q6</td>
         </tr>
         <tr>
-            <td>LED headlights plus</td>
+            <td><a href="../../technology/lights/">LED headlights plus</a></td>
             <td>LED headlights plus produce illumination of the road similar to daylight and impress with their low energy consumption, long service life and good visibility for others.
             Adaptive lighting functions adapt the illumination of the road to the respective driving situation.
             The dynamic lighting of the coming home/leaving home function provides additional brightness on the way
@@ -357,7 +355,7 @@ Duration can be selected</td>
             <td>Standard SQ6 and parth of Tech (PQA)</td>
         </tr>
         <tr>
-            <td>Matrix LED headlights</td>
+            <td><a href="../../technology/lights/">Matrix LED headlights</a></td>
             <td>In addition to the functions of the LED headlight plus, the highly adaptive light distribution of the Matrix function enables precise and high-resolution illumination of the street. Glaring effects on oncoming or preceding vehicles can be significantly reduced. If vehicles are detected by the camera system, it is blinding The system selectively only switches off this area, while the high beam remains active in the remaining segments.
             In the edition one, the Matrix LED headlights are darkened.
             The dynamic lighting of the coming home/leaving home function across the entire lighting strip ensures additional brightness on the way to or from the vehicle.
@@ -365,7 +363,7 @@ Duration can be selected</td>
             <td>Tech Pro or Tech Plus</td>
         </tr>
         <tr>
-            <td>LED rear lights</td>
+            <td><a href="../../technology/lights/">LED rear lights</a></td>
             <td>The light signature is a visible identification mark to the rear.
             The brake lights in LED technology enable them to be noticed earlier by the driver thanks to their quicker activation
             subsequent traffic.
@@ -381,7 +379,7 @@ Duration can be selected</td>
             <td></td>
         </tr>
          <tr>
-            <td>LED rear lights pro</td>
+            <td><a href="../../technology/lights/">LED rear lights pro</a></td>
             <td>The light signature with a continuous strip of lights is a visible identification mark towards the rear.
                 The illuminated light strip in the rear connects the rear lights and is a visual design highlight.
                 The brake lights in LED technology enable them to be noticed earlier by the driver thanks to their quicker activation
@@ -424,10 +422,7 @@ Duration can be selected</td>
 </table>
 </div>
 
-
-
-
-## Speil, taksystemer og vinduer
+## Mirrors, roof systems and windows
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -496,15 +491,87 @@ It consists of a darkened rear window and darkened rear door and side windows</t
 </table>
 </div>
 
-## Locking system
-
-
 ## Exterior options
 
 
-
-## Seat and leather interior
-
+<div class="table-responsive">
+<table class="table table-striped border">
+     <thead>
+         <tr>
+         <th>Title
+         </th>
+         <th>Description
+         </th>
+         <th>
+             ID
+         </th>
+     </thead>
+     <tbody>
+         <tr>
+             <td>Bumper advanced</td>
+             <td>Standard Q6</td>
+             <td></td>
+         </tr>
+         <tr>
+             <td>Bumper S model</td>
+             <td>Radiator grille in body color
+                Accents in matt aluminum silver and selenite silver
+            </td>
+             <td>Standard SQ6</td>
+         </tr>
+           <tr>
+             <td>Door handles in body color</td>
+             <td>Standard</td>
+             <td></td>
+         </tr>
+          <tr>
+             <td>Black window trim</td>
+             <td></td>
+             <td>Standard</td>
+         </tr>
+         <tr>
+             <td>Exterieur S line</td>
+             <td>The sportiness comes into its own very effectively through dynamic design elements and striking accents.
+Exterior S line includes:
+• S line bumper with radiator grille in body color and accents in dark selenite silver in the front and rear areas
+• Wheels, 5-double-spoke dynamics, graphite gray, high-sheen finish2, 8.0 J | 9.0 J x 19, tires 235/60 | 255/55 R19</td>
+             <td></td>
+         </tr>
+         <tr>
+             <td>Black exterior package</td>
+             <td>Black design elements create an impressive contrast to the vehicle paint. This brings the sportiness and progressive design to even greater advantage.
+The black exterior package includes:
+• Exterior mirror housing black
+• Dark window trim and add-on parts with Audi rings at the front and rear in anthracite gray
+• for SQ6 SUV e-tron additional roof rails in black
+Note: in the Q6 SUV e-tron quattro can only be ordered in conjunction with the S line exterior (PY2).</td>
+             <td></td>
+         </tr>
+           <tr>
+             <td>No model identification at the rear</td>
+             <td></td>
+             <td>2Z0</td>
+         </tr>
+         <tr>
+             <td>Preparation for trailer hitch</td>
+             <td>The equipment enables a trailer hitch to be retrofitted later and already includes the necessary technical requirements.
+A towing hitch is available from Audi Genuine Accessories. It should be retrofitted by a specialist workshop, as additional modifications to the vehicle may be necessary.</td>
+             <td>Standard</td>
+         </tr>
+         <tr>
+             <td>Trailer hitch can be swiveled mechanically</td>
+             <td>The towing hitch with a mechanically swiveling ball head can be conveniently operated using a button in the luggage compartment
+unlock electrically.
+The trailer is stabilized while driving via the electronic stabilization control (ESC). A swiveling system socket enables the continuous operation of electrical devices in the trailer or caravan. The trailer hitch and the system socket can be swiveled invisibly behind the bumper apron.
+In conjunction with a driver assistance system, available in the technology packages, the trailer hitch
+The trailer assistant is also included (standard equipment in the SQ6 SUV e-tron): The trailer assistant16 supports
+when using the vehicle as a towing vehicle and is compatible with all trailers with a rigid drawbar. When reversing, the trailer can be steered automatically using the trailer assistant16. The direction is conveniently controlled via touch operation on the MMI touch display. When reversing, the camera image shows the system status and the reaction of the trailer as well as the current or desired articulation angle. When the system is active
+A collision between the vehicle and the trailer when reversing can be avoided.</td>
+             <td>1D4</td>
+         </tr>
+     </tbody>
+</table>
+</div>
 
 
 ## Seats
