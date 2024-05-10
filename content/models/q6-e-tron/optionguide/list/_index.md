@@ -35,7 +35,7 @@ For the Audi Q6, Audi has integrated technology in different packages. The choic
                 <li><a href="../../technology/lights/">Headlight cleaning system</a></li>
                 <li><a href="../../technology/lights/">LED rear lights pro</a></li>
                 <li><a href="../../technology/lights/">High beam assist</a></li>
-                <li>Dobbeleiker skinnratt med multifunksjon og Skift padleårer</li>
+                <li>Double-spoke leather steering wheel with multifunction and shift paddles</li>
                 <li>Parking system plus with 360° display</li>
                 <li><a href="../../technology/drivingassistance/360camera/">360 camera</a></li>
                 <li>Park Assist Plus</li>
@@ -58,17 +58,17 @@ For the Audi Q6, Audi has integrated technology in different packages. The choic
                 <li><a href="../../technology/lights/">Headlight cleaning system</a></li>
                 <li><a href="../../technology/lights/">LED rear lights pro</a></li>
                 <li><a href="../../technology/lights/">High beam assist</a></li>
-                <li>Dobbeleiker skinnratt med multifunksjon og Skift padleårer</li>
+                <li>Double-spoke leather steering wheel with multifunction and shift paddles</li>
                 <li>Parking system plus with 360° display</li>
                 <li><a href="../../technology/drivingassistance/360camera/">360 camera</a></li>
                 <li>Park Assist Plus</li>
                 <li><a href="../../technology/drivingassistance/adaptivecruisecontrol/">Adaptiv cruise control</a></li>
-                <li>MMI passasjerdisplay</li>
-                <li><a href="../../technology/lights/">Digitale lyssignaturer</a></li>
+                <li><a href="../../technology/uiandoperations/mmi/">MMI passenger display</a></li>
+                <li><a href="../../technology/lights/">Digital lightsignatures</a></li>
                 <li>e-tron sportslyd</li>
                 <li><a href="../../drivetrain/suspension">Sport suspension</a></li>
                 <li>Side airbags in front and rear with head airbag system and front interaction airbag</li>
-                <li><a href="../../technology/drivingassistance/sideassist/">Blindsonevarsling</a></li>
+                <li><a href="../../technology/drivingassistance/sideassist/">Side Assist</a></li>
                 <li>Nødstoppassistent unnamanøvringsassistent</li>
             <li><a href="../../technology/safety">Proactive passenger protection system for front, sides and rear</a></li>
                 <li>Occupant detection in rear seat area</li>
@@ -90,22 +90,22 @@ For the Audi Q6, Audi has integrated technology in different packages. The choic
                 <li><a href="../../technology/lights/">Headlight cleaning system</a></li>
                 <li><a href="../../technology/lights/">Digitale OLED-rear lights</a></li>
                 <li><a href="../../technology/lights/">High beam assist</a></li>
-                <li>Dobbeleiker skinnratt med multifunksjon og Skift padleårer</li>
+                <li>Double-spoke leather steering wheel with multifunction and shift paddles</li>
                 <li>Parking system plus with 360° display</li>
                 <li><a href="../../technology/drivingassistance/360camera/">360 kamera</a></li>
                 <li>Park Assist Plus</li>
                 <li><a href="../../technology/drivingassistance/adaptivecruisecontrol/">Adaptiv cruise control</a></li>
                 <li><a href="../../technology/drivingassistance/adaptivecruiseassist/">Adaptiv cruise assist</a></li>
-                <li><a href="../../technology/uiandoperations/mmi/">MMI passasjerdisplay</a></li>
-                <li><a href="../../technology/lights/">Digitale lyssignaturer</a></li>
+                <li><a href="../../technology/uiandoperations/mmi/">MMI passenger display</a></li>
+                <li><a href="../../technology/lights/">Digital lightsignatures</a></li>
                 <li>e-tron sportslyd</li>
                 <li><a href="../../technology/safety">Side airbags in front and rear with head airbag system and front interaction airbag</a></li>
-                <li><a href="../../technology/drivingassistance/sideassist/">Blindsonevarsling</a></li>
+                <li><a href="../../technology/drivingassistance/sideassist/">Side Assist</a></li>
                    <li>Emergencyassist</li>
                 <li><a href="../../technology/drivingassistance/collisionavoidanceassist/">Unnamanøvringsassistent</a></li>
                 <li><a href="../../technology/safety">Proactive passenger protection system for front, sides and rear</a></li>
                 <li>Occupant detection in rear seat area</li>
-                <li><a href="../../drivetrain/suspension">Adaptiv luftfjæring</a></li>
+                <li><a href="../../drivetrain/suspension">Adaptiv air suspension</a></li>
             </ul>
         </td>
         <td>
@@ -124,22 +124,22 @@ For the Audi Q6, Audi has integrated technology in different packages. The choic
                 <li><a href="../../technology/lights/">Headlight cleaning system</a></li>
                 <li><a href="../../technology/lights/">Digitale OLED-rear lights</a></li>
                 <li><a href="../../technology/lights/">High beam assist</a></li>
-                <li>Dobbeleiker skinnratt med multifunksjon og Skift padleårer</li>
+                <li>Double-spoke leather steering wheel with multifunction and shift paddles</li>
                 <li>Parking system plus with 360° display</li>
                 <li>360 kamera</li>
                 <li>Park Assist Plus</li>
                 <li><a href="../../technology/drivingassistance/adaptivecruisecontrol/">Adaptiv cruise control</a></li>
                 <li><a href="../../technology/drivingassistance/adaptivecruiseassist/">Adaptiv cruise assist</a></li>
-                <li><a href="../../technology/uiandoperations/mmi/">MMI passasjerdisplay</a></li>
-                <li><a href="../../technology/lights/">Digitale lyssignaturer</a></li>
+                <li><a href="../../technology/uiandoperations/mmi/">MMI passenger display</a></li>
+                <li><a href="../../technology/lights/">Digital lightsignatures</a></li>
                 <li>e-tron sportslyd</li>
                 <li><a href="../../technology/safety">Side airbags in front and rear with head airbag system and front interaction airbag</a></li>
-                <li><a href="../../technology/drivingassistance/sideassist/">Blindsonevarsling</a></li>
+                <li><a href="../../technology/drivingassistance/sideassist/">Side Assist</a></li>
                 <li>Emergencyassist</li>
                 <li><a href="../../technology/drivingassistance/collisionavoidanceassist/">Unnamanøvringsassistent</a></li>
                 <li><a href="../../technology/safety">Proactive passenger protection system for front, sides and rear</a></li>
                 <li>Passasjerdeteksjon bak</li>
-                <li><a href="../../drivetrain/suspension">Adaptiv luftfjæring sport</a></li>
+                <li><a href="../../drivetrain/suspension">Adaptiv air suspension sport</a></li>
             </ul>
         </td>
         <td>
@@ -173,35 +173,25 @@ Click below for high-res pictures and details of each option.
         <tr>
             <td><a href="../../exterior/paint/#magnet-grey">Magnet grey</a></td>
             <td>Non metallic</td>
-            <td>A2</td>
+            <td>G5</td>
         </tr>
         <tr>
             <td><a href="../../exterior/paint/#ascari-blue">Ascari Blue</a></td>
             <td>Metallic</td>
-            <td>2D</td>
+            <td>9W</td>
         </tr>
         <tr>
-            <td><a href="../../exterior/paint/#catalunya-red">Catalunya red</a></td>
+            <td><a href="../../exterior/paint/#soneira-red">Soneira red</a></td>
             <td>Metallic</td>
-            <td>Y6</td>
+            <td>G1</td>
         </tr>
         <tr>
             <td><a href="../../exterior/paint/#glacier-white">Glacier White</a></td>
             <td>Metallic</td>
             <td>2Y</td>
         </tr>
-         <tr>
-            <td><a href="../../exterior/paint/#siam-beige">Siam beige</a></td>
-            <td>Metallic</td>
-            <td>0E</td>
-        </tr>
         <tr>
-            <td><a href="../../exterior/paint/#florett-silver">Florett Silver</a></td>
-            <td>Metallic</td>
-            <td>L5</td>
-        </tr>
-        <tr>
-            <td><a href="../../exterior/paint/#manhatten-grey">Manhatten Grey</a></td>
+            <td><a href="../../exterior/paint/#manhatten-grey">Manhatten grey</a></td>
             <td>Metallic</td>
             <td>H1</td>
         </tr>
@@ -209,11 +199,6 @@ Click below for high-res pictures and details of each option.
             <td><a href="../../exterior/paint/#mythos-black">Mythos Black</a></td>
             <td>Metallic</td>
             <td>0E</td>
-        </tr>
-        <tr>
-            <td><a href="../../exterior/paint/#galaxy-blue">Galaxy Blue</a></td>
-            <td>Metallic</td>
-            <td>S1</td>
         </tr>
         <tr>
             <td><a href="../../exterior/paint/#galaxy-blue">Daytona Grey</a></td>
@@ -224,16 +209,6 @@ Click below for high-res pictures and details of each option.
             <td><a href="../../exterior/paint/#plasma-blue">Plasma Blue</a></td>
             <td>Metallic</td>
             <td>3D</td>
-        </tr>
-        <tr>
-            <td><a href="../../exterior/paint/#antigua-blue">Antiqua Blue</a></td>
-            <td>Metallic</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="../../exterior/paint/#chronos-grey">Chronos Grey</a></td>
-            <td>Metallic</td>
-            <td>Z7</td>
         </tr>
          <tr>
             <td><a href="../../exterior/paint/">Audi exclusive indiviudal</a></td>
@@ -470,36 +445,46 @@ Duration can be selected</td>
          <tr>
              <td>Mirror housing in the color of the car</td>
              <td>Standard Q6</td>
-             <td>6FA</td>
+             <td></td>
          </tr>
          <tr>
              <td>Mirror housing in chrome matt silver</td>
              <td>Standard SQ6</td>
-             <td>6FA</td>
+             <td></td>
+         </tr>
+           <tr>
+             <td>Projection light in the exterior mirrors</td>
+             <td>Standard SQ6</td>
+             <td></td>
          </tr>
           <tr>
              <td>Panoramic sunroof</td>
-             <td></td>
+             <td><p>The two-part, electrically operated glass roof has extra-large, tinted glass surfaces. These give the interior of the vehicle an exclusive atmosphere and underline the progressive design of the interior with a pleasant lighting mood.</p>
+             <p>
+             When opened, the panoramic glass roof also ensures a refreshing interior climate. An integrated wind deflector reduces wind noise.
+             </p><p>
+            For convenient operation, the glass element is raised and opened as well as the sun blinds are operated electrically. The panoramic glass roof can be operated from the outside using the remote control key using a convenient locking mechanism.</p></td>
              <td>3FU</td>
          </tr>
          <tr>
-             <td>Windscreen made of noise-reducing glass</td>
-             <td>Default</td>
-             <td>4GQ</td>
+             <td>Thermal insulation and acoustic glazing on the windshield</td>
+             <td>Standard</td>
+             <td></td>
          </tr>
          <tr>
              <td>Side windows and rear window with heat-absorbing glass</td>
              <td>Default</td>
-             <td>4KC</td>
+             <td></td>
          </tr>
            <tr>
              <td>Noise dampening glass in the front door windows</td>
-             <td></td>
+             <td>Front door windows with acoustic glazing ensure improved external noise insulation.</td>
              <td>VW5</td>
          </tr>
          <tr>
-             <td>Extra dark squares</td>
-             <td></td>
+             <td>Privacy Windows</td>
+             <td>protects against sunlight and unwanted views into the rear vehicle interior
+It consists of a darkened rear window and darkened rear door and side windows</td>
              <td>QL5</td>
          </tr>
          <tr>
@@ -512,10 +497,6 @@ Duration can be selected</td>
 </div>
 
 ## Locking system
-
-
-
-## Glass
 
 
 ## Exterior options
