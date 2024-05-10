@@ -542,9 +542,9 @@ Exterior S line includes:
              <td>Black exterior package</td>
              <td>Black design elements create an impressive contrast to the vehicle paint. This brings the sportiness and progressive design to even greater advantage.
 The black exterior package includes:
-• Exterior mirror housing black
-• Dark window trim and add-on parts with Audi rings at the front and rear in anthracite gray
-• for SQ6 SUV e-tron additional roof rails in black
+<ul><li>Exterior mirror housing black</li>
+<li>Dark window trim and add-on parts with Audi rings at the front and rear in anthracite gray</li>
+<li>for SQ6 SUV e-tron additional roof rails in black</li>
 Note: in the Q6 SUV e-tron quattro can only be ordered in conjunction with the S line exterior (PY2).</td>
              <td></td>
          </tr>
@@ -604,9 +604,10 @@ You can choose between serveral seat types and seat materials. Click links below
             <td><a href="../../interior/seats/">Sport Seats</a></td>
             <td>tailored to sporting ambitions; Front sports seats with a distinctive shape and individual adjustment
 The front sports seats also have:
-• manually extendable thigh support
-• visually integrated headrests
-• Pronounced seat side bolsters for better lateral support when cornering</td>
+<ul>
+<li>manually extendable thigh support</li>
+<li>visually integrated headrests</li>
+<li>Pronounced seat side bolsters for better lateral support when cornering</li></ul></td>
             <td></td>
         </tr>
         <tr>
@@ -614,28 +615,29 @@ The front sports seats also have:
             <td>The sports seats plus at the front are particularly characterized by striking details such as the integrated headrests and S embossing
 out of.
 The sports seats plus at the front also have:
-• manually extendable thigh support
-• manually adjustable belt height
-• visually integrated headrests
-• Pronounced seat side bolsters for better lateral support when cornering
-• Decorative panel in the backrest head with S embossing</td>
+<ul>
+<li>manually extendable thigh support</li>
+<li>manually adjustable belt height</li>
+<li>visually integrated headrests</li>
+<li>Pronounced seat side bolsters for better lateral support when cornering</li>
+<li>Decorative panel in the backrest head with S embossing</li></ul></td>
             <td></td>
         </tr>
         <tr>
             <td><a href="../../interior/seats/">Front seats manually adjustable</a></td>
             <td>A variety of manual setting options are available:
-                • Seat height
-                • Longitudinal seat position
-                • Backrest angle
-                • Headrest and belt height.</td>
+            <ul><li>Seat height</li>
+            <li>Longitudinal seat position</li>
+            <li>Backrest angle</li>
+            <li>Headrest and belt height.</li></ul></td>
             <td></td>
         </tr> 
         <tr>
             <td><a href="../../interior/seats/">Electrically adjustable front seats</a></td>
             <td>A variety of electrical setting options are available:
-• Seat height
-• Longitudinal seat position
-• Seat and backrest inclination</td>
+            <ul><li>Seat height</li>
+            <li>Longitudinal seat position</li>
+            <li>Seat and backrest inclination</li></ul></td>
             <td></td>
         </tr>
                 <tr>
