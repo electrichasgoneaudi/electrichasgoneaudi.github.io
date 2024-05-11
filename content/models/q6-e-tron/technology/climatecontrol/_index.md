@@ -3,6 +3,7 @@ title: Audi Q6 e-tron climate control
 linktitle: Climate control
 description: Audi Q6 e-tron is equipped with a 3-zone electronic climate control with heat pump as standard.
 weight: 10
+sectiontabs: "/models/q6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 
