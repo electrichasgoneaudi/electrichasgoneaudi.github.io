@@ -54,3 +54,12 @@ Below you see details about the different technology areas on Audi Q6 e-tron.
 	</p>
 	<a href="safety/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron safety systems</a>
 </div>
+
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="climatecontrol/"><img src="ttps://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/climatecontrol/interior_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<h2>Climate system</h2>
+	<p>
+		Audi Q6 e-tron is equipped with a 3-zone electronic climate control with heat pump as standard.
+	</p>
+	<a href="climatecontrol/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron climate system</a>
+</div>

@@ -48,3 +48,15 @@ Audi Q6 e-tron tilbyr et standard lydsystem og et valgfritt lydsystem fra Bang &
 	</p>
 	<a href="safety/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron safety systems</a>
 </div>
+
+
+
+
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<a href="climatecontrol/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/climatecontrol/interior_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<h2>Klimasystem</h2>
+	<p>
+		Audi Q6 e-tron er utstyrt med 3-soners elektronisk klimaanlegg med varmepumpe som standard.
+	</p>
+	<a href="climatecontrol/" class="btn btn-outline-primary" role="button">Lær alt om Audi Q6 e-tron klima system</a>
+</div>

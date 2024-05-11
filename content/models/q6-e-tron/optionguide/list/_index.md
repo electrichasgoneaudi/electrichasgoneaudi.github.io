@@ -640,12 +640,19 @@ The sports seats plus at the front also have:
             <li>Seat and backrest inclination</li></ul></td>
             <td></td>
         </tr>
-                <tr>
+        <tr>
             <td><a href="../../interior/seats/">Memory function for the driver's seat and the exterior mirrors</a></td>
             <td>A variety of electrical setting options are available:
-• Seat height
-• Longitudinal seat position
-• Seat and backrest inclination</td>
+                <ul><li>Seat height</li>
+                <li>Longitudinal seat position</li>
+                <li>Seat and backrest inclination</li>
+                </ul></td>
+            <td></td>
+        </tr>
+                <tr>
+            <td><a href="../../interior/seats/">4-way lumbar support for the front seats</a></td>
+            <td>AElectrically, horizontally and vertically individually adjustable in four directions, the lumbar support ensures a relaxed, ergonomic sitting posture.
+Note: in the Q6 SUV e-tron quattro can only be ordered in conjunction with an interior package</td>
             <td></td>
         </tr>
     </tbody>
@@ -821,13 +828,303 @@ The sports seats plus at the front also have:
 ## Steering wheels
 
 
+<div class="table-responsive">
+<table class="table table-striped border">
+    <thead>
+        <tr>
+        <th>Title
+        </th>
+        <th>Description
+        </th>
+        <th>
+            ID
+        </th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Double-spoke leather steering wheel with multifunction</td>
+            <td>The progressive and striking double-spoke aluminum-look leather steering wheel fits well in the hand and integrates itself
+seamlessly into the interior of the vehicle.
+The steering wheel is equipped with multifunction buttons with touch controls to make it easy to operate the extensive standard and optional infotainment features available at an additional cost.</td>
+            <td>standard Q6</td>
+        </tr>
+        <tr>
+            <td>Sports leather steering wheel, 3-spoke, flattened at the top and bottom
+with multifunction and switching paddles</td>
+            <td>The progressive and striking sports leather steering wheel in 3-spoke design is flattened at the top and bottom and offers a particularly sporty look. It sits comfortably in the hand and integrates seamlessly into the vehicle's interior.
+The steering wheel is equipped with multifunction buttons with touch controls to make it easy to operate the extensive standard and optional infotainment features available at an additional cost.
+Rocker switches enable the recuperation levels to be changed manually. These allow adaptation to individual needs and differ in the strength of the delay and the amount of energy recovered that can be used to charge the battery. This can increase efficiency and increase the range
+become.
+Note: in the Q6 SUV e-tron quattro only available in conjunction with selected interior packages</td>
+            <td>standard SQ6</td>
+        </tr>
+        <tr>
+            <td>Double-spoke leather steering wheel with multifunction and
+Shift paddles</td>
+            <td>The progressive and striking double-spoke aluminum-look leather steering wheel fits well in the hand and integrates itself
+seamlessly into the interior of the vehicle.
+The steering wheel is equipped with multifunction buttons with touch controls to make it easy to operate the extensive standard and optional infotainment features available at an additional cost.
+Rocker switches enable the recuperation levels to be changed manually. These allow adaptation to individual needs and differ in the strength of the delay and the amount of energy recovered that can be used to charge the battery. This can increase efficiency and increase the range
+become.</td>
+            <td>2ZQ</td>
+        </tr>
+         <tr>
+            <td>Double-spoke sports leather steering wheel, flattened at the top and bottom, with multifunction and shift paddles</td>
+            <td>The progressive and striking double-spoke sports leather steering wheel in aluminum look is flattened at the top and bottom
+impresses with its sporty look. It sits comfortably in the hand and integrates seamlessly into the vehicle's interior.
+The steering wheel is equipped with multifunction buttons with touch controls to make it easy to operate the extensive standard and optional infotainment features available at an additional cost.
+Rocker switches enable the recuperation levels to be changed manually. These allow adaptation to individual needs and differ in the strength of the delay and the amount of energy recovered that can be used to charge the battery. This can increase efficiency and increase the range
+become.
+Note: cannot be ordered in conjunction with the edition one in conjunction with a tech package</td>
+            <td>2FS</td>
+        </tr>
+        <tr>
+            <td>Heated steering wheel</td>
+            <td>with heated steering wheel rim
+Note: only available in conjunction with Tech (PQA), Tech plus (PQB), Tech pro (PQC/PQD) or in edition one</td>
+            <td>standard</td>
+        </tr>
+         <tr>
+            <td>Electric steering wheel adjustment</td>
+            <td>The steering wheel can be easily adjusted in height and distance to the individually optimal position at the push of a button. If necessary, the automatic entry and exit system moves the steering wheel into a position that makes getting in and out more comfortable. In
+Connection to the front seats is electrically adjustable and also has a memory function, which saves the individual height and distance settings of the steering wheel.</td>
+            <td>standard</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
 
 ## Climate
 
 
 
+<div class="table-responsive">
+<table class="table table-striped border">
+    <thead>
+        <tr>
+        <th>Title
+        </th>
+        <th>Description
+        </th>
+        <th>
+            ID
+        </th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Automatic air circulation control</td>
+            <td>The filter insert can remove fine dust particles, such as: B. nanofibers, with a diameter smaller than 2.5 micrometers
+be filtered out. This means that the automatic recirculation air control can help to improve indoor air quality
+improve</td>
+            <td>standard</td>
+        </tr>
+                <tr>
+            <td>Heat pump</td>
+            <td>The heat pump uses the waste heat from the electric drive components as well as the system limits
+Outside air to warm up the vehicle interior. This supports the provision of the required heating output at low outside temperatures. The electrical energy that is not used for heating, for example
+also have a positive effect on range</td>
+            <td>standard</td>
+        </tr>
+             <tr>
+            <td>3-zone comfort automatic climate control</td>
+            <td>electronically controlled automatic climate control for pleasant and comfortable air conditioning of the vehicle interior;
+including versatile setting options and additional functions
+The 3-zone comfort automatic climate control contains the following functions:
+<ul><li>Electronic control of air temperature, quantity and distribution</li>
+<li>Sun position-dependent control</li>
+<li>Comfort assistant with 4 predefined climate modes that can be activated via a button</li>
+<li>Front and rear window defrost buttons</li>
+<li>automatic recirculation air control</li>
+<li>Dust and odor separating cabin filter, which reduces the load on the vehicle interior
+Dust particles, odors and allergens</li>
+<li>Climate control panel for setting the rear room temperature in the rear center console</li>
+<li>Air vents in the rear center console</li></ul></td>
+            <td>standard</td>
+        </tr>
+        <tr>
+            <td>Comfort auxiliary air conditioning</td>
+            <td><p>The comfort auxiliary air conditioning cools or heats the interior to a desired temperature before driving. So
+                A very high level of climate comfort is achieved as soon as you get into the vehicle. If further optional equipment is available at an additional cost, such as seat heating, steering wheel heating and glass surface heating have been selected, these can also be activated. The comfort auxiliary air conditioning can be planned and planned specifically by entering a departure time immediately before the start of the journey. The desired temperature can be individually adjusted.</p>
+                <p>The functions can be conveniently programmed and activated via the MMI touch in the vehicle or via the myAudi app5, 10. The comfort auxiliary air conditioning works regardless of whether the car is currently being charged via the charging infrastructure or not – provided that the high-voltage battery has a sufficiently high charge level. When the vehicle is unlocked with the remote control key, “brief air conditioning” can also be started.</p>
+                Note: only available in conjunction with Tech (PQA), Tech plus (PQB), Tech pro (PQC/PQD) or in edition one</td>
+            <td>GA2</td>
+        </tr>
+        <tr>
+            <td>heated seats in the front</td>
+            <td>The seat heating heats the center of the seat and backrest as well as in conjunction with leather upholstery and sports seats
+            front or sports seats plus the front side bolsters of the front seats.
+            The seat heating for the driver and front passenger seats can be individually adjusted to three levels in the MMI touch display. With the
+            The seat climate balance function can be used to heat the seat back and seat surface of the front seats via the MMI touch display
+            be regulated individually</td>
+            <td></td>
+        </tr>
+            <tr>
+            <td>Heated seats front and rear</td>
+            <td>The seat heating heats the seat and backrest center panels of the front and outer rear seats as well as in conjunction with
+                a leather interior and sports seats at the front or sports seats plus the side bolsters of the front seats.
+                The seat heating for the driver and front passenger seats can be individually adjusted to three levels in the MMI touch display. With the
+                The seat climate balance function can be used to heat the seat back and seat surface of the front seats via the MMI touch display
+                be regulated individually.
+The outer rear seats can also be adjusted separately in three stages. It is operated either in the MMI touch display or directly on the climate control panel on the center console.
+Note: only available in conjunction with Tech (PQA), Tech plus (PQB), Tech pro (PQC/PQD) or in edition one</td>
+            <td></td>
+        </tr>
+                    <tr>
+            <td>Front seat ventilation</td>
+            <td>Active seat ventilation regulates the ventilation of the driver and front passenger seats. For ventilation, air is blown through using a fan
+the perforated leather of the seat and backrest center panel is sucked in. The strength of the airflow is available in three levels directly in the MMI
+touch display adjustable. Protection against hypothermia is achieved through automatic heating.
+With the seat climate balance function, the ventilation of the seat back and seat surface can be adjusted individually via the MMI touch display
+be managed.
+Note: When it comes to front seat ventilation, the leather on the ventilated front and unventilated outer rear seats is perforated.
+In the Q6 SUV e-tron quattro only in conjunction with the interior packages PWE, PWF or PWL and comfort package plus or
+available per; in the SQ6 SUV e-tron only in conjunction with front sports seats and leather/artificial leather mono.pur 550 combination
+(standard equipment) available</td>
+            <td>4D3</td>
+        </tr>
+    </tbody>
+</table>
+</div>
 
-## Other interior options
+
+
+## Comfort and function
+
+
+<div class="table-responsive">
+<table class="table table-striped border">
+    <thead>
+        <tr>
+        <th>Title
+        </th>
+        <th>Description
+        </th>
+        <th>
+            ID
+        </th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Remote key</td>
+            <td>The radio key is used to unlock and lock the doors, luggage compartment and loading access. The engine is started and stopped using the start-stop button. The range of functions includes keyless go and the convenient closing/opening of the windows.</td>
+            <td>standard Q6</td>
+        </tr>
+         <tr>
+            <td>Comfort key</td>
+            <td>The convenience key can be used to control the vehicle through wireless communication between the key and the vehicle
+can be opened by operating the door handle without actively using the key. This is possible for all doors.
+All you have to do is carry the convenience key with you.
+The key is recognized by the vehicle using ultra-wideband technology. To lock the vehicle from the outside
+All you have to do is touch one of the sensor buttons located on all door handles.
+The electric luggage compartment lid can be conveniently unlocked using the luggage compartment button on the convenience key
+or, if you don't have your hand free, you can do it with a foot gesture by making a kick movement at the rear. By actuation
+The button on the luggage compartment lid or on the key will open the luggage compartment lid after it has been removed from the vehicle
+automatically closed.
+The engine start authorization is also released without actively pressing the convenience key. The convenience key must be carried in the vehicle. The vehicle is started and stopped using the start-stop button in the center console.
+Note: in the Q6 SUV e-tron quattro only available in conjunction with a comfort package.</td>
+            <td>standard Q6</td>
+        </tr>
+                <tr>
+            <td>Digital key</td>
+            <td>The digital key is a feature that is not yet available. The future availability
+This digital key and individual functions also depend on the specific equipment used mobile device and its operating system as well as the settings of the required app. In the future, the digital key should include the following functions: Carrying the digital key alone
+A compatible smartphone or a smartwatch is enough to unlock or lock the vehicle.
+The digital key offers:
+<ul><li>Up to 5 digital vehicle keys that can be passed on to other people easily and conveniently via the myAudi app5, 21 on the
+Smartphone20 can be passed on</li>
+<li>an NFC-enabled key card for quick distribution to third parties (e.g. valet parking)</li>
+</ul>
+The electric luggage compartment lid can be conveniently unlocked using the luggage compartment button on the digital key
+or, if you don't have your hand free, you can do it with a foot gesture by making a kick movement at the rear.
+
+In addition, an activated and verified myAudi Account of the main user of the vehicle is required to use the service. The myAudi App, for issuing and managing digital vehicle keys is available free of charge.
+After setup, the digital key is stored on the secure element of the mobile device20 and transmitted via the
+Ultra-wideband technology detected by the vehicle.
+Note: in the Q6 SUV e-tron quattro only available in conjunction with a comfort package
+</td>
+            <td>standard SQ6</td>
+        </tr>
+         <tr>
+            <td>Automatically dimming interior mirror</td>
+            <td>The automatically dimming interior mirror reduces glare. The following traffic can do this in the dark
+be better perceived.
+Note: in the Q6 SUV e-tron quattro only available in conjunction with a comfort package</td>
+            <td>standard SQ6</td>
+        </tr>
+            <tr>
+            <td>Electrically adjustable, heated exterior mirrors
+foldable, automatically dimming on both sides</td>
+            <td>The exterior mirrors with integrated LED flashing lights and automatic curb function for the driver and front passenger exterior mirrors have mirror glass in the shapes of convex and aspherical.
+Thanks to the automatic curb function, the front passenger exterior mirror folds down when reverse gear is engaged, giving the person driving a better view of the curb. Both the driver and front passenger exterior mirrors fold down. The mirrors can also be lowered manually using the driver's door control unit in the vehicle.
+Note: in the Q6 SUV e-tron quattro only available in conjunction with a comfort package</td>
+            <td>standard SQ6</td>
+        </tr>
+            <tr>
+            <td>Luggage compartment lid opens and closes electrically</td>
+            <td>The luggage compartment lid is opened electrically after unlocking and can also be closed again at the touch of a button
+become.
+Closing the luggage compartment lid using the button on the inside is just as easy and convenient as opening it
+the luggage compartment lid, the vehicle key button (in conjunction with the convenience key9) or using the button in the
+Drivers door.
+If you don't have your hand free, you can easily unlock the electric luggage compartment lid with a foot gesture
+possible by kicking movement at the rear.
+The closing aid makes it easier to close manually if necessary. Opening the luggage compartment lid at low ceiling heights is made even more comfortable and safer thanks to a programmable opening angle.</td>
+            <td>standard</td>
+        </tr>
+          <tr>
+            <td>Anti-theft alarm system</td>
+            <td>The anti-theft alarm system is used to monitor doors, front and luggage compartment lids.
+The Safelock23, which is linked to the door locks, prevents the doors from being opened from the inside as soon as the vehicle is over the door
+Vehicle key has been locked.
+The radio key is used to unlock and lock the doors, luggage compartment and loading access. The engine is started and stopped using the start-stop button. Included in the range of functions are Keyless-Go and the
+Comfortable closing/opening of the windows.
+The anti-theft alarm system also offers:
+<ul><li>Ultrasound-based interior monitoring that can be switched off</li>
+<li>Warning in case of theft by tilt angle sensor</li>
+<li>Battery-powered signal horn against line manipulation</li>
+Note: cannot be ordered in conjunction with Tech (PQA), Tech plus (PQB), Tech pro (PQC) or edition one</td>
+            <td>PG2</td>
+        </tr>
+          <tr>
+            <td>Comfort package</td>
+            <td>Simply carrying the digital key is enough to open, lock or authorize the engine to start
+                a compatible smartphone or a smartwatch.
+            The comfort package includes:
+            <li>Exterior mirrors are electrically adjustable, heated and foldable, automatically dimming on both sides</li>
+            <li>Automatically dimming interior mirror</li>
+            <li>Comfort center armrest at the front</li>
+            <li>Projection light in the exterior mirrors</li>
+            <li>Comfort key, without Safelock</li>
+            <li>digital key</li>
+            (The digital key is a feature that is not yet available. Future availability
+            This digital key and individual functions also depend on the specific equipment used
+            depending on the mobile device and its operating system as well as the settings of the required app.)
+            Note: can only be ordered in conjunction with Tech (PQA);
+            not available in edition one in conjunction with Tech</td>
+                        <td>PG9</td>
+        </tr>
+       <tr>
+            <td>Comfort package with anti-theft package </td>
+            <td>Simply carrying the digital key is enough to open, lock or authorize the engine to start
+                a compatible smartphone or a smartwatch.
+            The comfort package includes:
+            <li>Exterior mirrors are electrically adjustable, heated and foldable, automatically dimming on both sides</li>
+            <li>Automatically dimming interior mirror</li>
+            <li>Comfort center armrest at the front</li>
+            <li>Projection light in the exterior mirrors</li>
+            <li>Comfort key, without Safelock</li>
+            <li>digital key</li>
+            (The digital key is a feature that is not yet available. Future availability
+            This digital key and individual functions also depend on the specific equipment used
+            depending on the mobile device and its operating system as well as the settings of the required app.)
+            Note: can only be ordered in conjunction with Tech (PQA);
+            not available in edition one in conjunction with Tech</td>
+                        <td>PG9</td>
+        </tr>
+    </tbody>
+</table>
+</div>
 
 
 
