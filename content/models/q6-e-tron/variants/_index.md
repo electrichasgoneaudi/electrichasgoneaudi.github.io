@@ -8,6 +8,37 @@ weight: 1
 {{< sitefiguresized thumb="models/q6-e-tron/variants/variants_1_st.jpg" width="3000" height="2250" title="Audi SQ6 e-tron & Audi Q6 e-tron" >}}
 
 <!-- markdownlint-disable MD033 -->
+### Audi Q6 e-tron performance
+
+This variant is the rwd model with the large battery with 285kW/385HP for the EU version and 340kW and 433 BPH for the US version.
+
+The Audi Q6 SUV e-tron includes the following as standard
+Scopes:
+
+**Exterior:**
+
+- advanced exterior
+- Bottom line in Mythos Black contrast paint finish
+- Single frame in body color
+- LED headlights and LED taillights
+- Wheels, 10-spoke, 8.0 J x 18 with tires 235/65 R 18
+front, 9.0 J x 18 with tires 255/60 R 18 rear
+- Black window trim
+- Roof rails matt black
+
+**Interior:**
+
+- Standard front seats in fabric argument
+- Decorative inlay fine volcano gray lacquer
+- Softwrap
+- Double-spoke leather steering wheel with multifunction
+- Ambient lighting package
+- Door sill plates with aluminum inserts at the front
+
+[See detailed specification](../specifications/#audi-q6-e-tron-performance)
+
+
+
 ### Audi Q6 e-tron quattro
 
 This variant is the entry quattro model with 285kW/385HP for the EU version and 340kW and 433 BPH for the US version.
@@ -76,12 +107,7 @@ with S lettering
 
 ## Upcoming versions
 
-### Audi Q6 50 e-tron
-
-This variant is the long-range version with RWD and 100kWh battery. I expected WLTP to be around 650km. This variant is confirmed, but the name is not official. 
-
-
-### Audi Q6 45 e-tron
+### Audi Q6 e-tron
 
 This variant is the standard range version with RWD and 83kWh battery. I expected WLTP to be around 500km. This variant is confirmed, but the name is not official. 
 

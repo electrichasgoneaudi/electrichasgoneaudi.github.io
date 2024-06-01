@@ -8,7 +8,38 @@ weight: 1
 {{< sitefiguresized thumb="models/q6-e-tron/variants/variants_1_st.jpg" width="3000" height="2250" title="Audi SQ6 e-tron & Audi Q6 e-tron" >}}
 
 
-<!-- markdownlint-disable MD033 -->### Audi Q6 e-tron quattro
+<!-- markdownlint-disable MD033 -->
+### Audi Q6 e-tron performance
+
+Denne varianten er rwd-modellen med stort 100kWh batteri og 285kW/385HP for EU-versjonen.
+
+Audi Q6 SUV e-tron inkluderer følgende som standard
+Omfang:
+
+**Ytre:**
+
+- avansert eksteriør
+- Bunnlinje i Mythos Black kontrastlakk
+- Enkel ramme i kroppsfarge
+- LED-frontlykter og LED-baklys
+- Hjul, 10-eiker, 8,0 J x 18 med dekk 235/65 R 18
+foran, 9,0 J x 18 med dekk 255/60 R 18 bak
+- Sort vinduskant
+- Takreling matt sort
+
+**Interiør:**
+
+- Standard forseter i stoffargument
+- Dekorativt innlegg fin vulkangrå lakk
+- Myk innpakning
+- Dobbeleikert skinnratt med multifunksjon
+- Pakke med omgivelseslys
+- Dørterskelplater med aluminiumsinnsatser foran
+
+[Se detaljert spesifikasjon](../specifications/#audi-q6-e-tron-quattro)
+
+
+### Audi Q6 e-tron quattro
 
 Denne varianten er entry quattro-modellen med 285kW/385HP for EU-versjonen og 340kW og 433 BPH for den amerikanske versjonen.
 
@@ -74,14 +105,8 @@ med S-bokstav
 
 [Se detaljert spesifikasjon](../specifications/#audi-sq6-e-tron)
 
-## Upcoming versions
 
-### Audi Q6 50 e-tron
-
-Denne varianten er langdistanseversjonen med RWD og 100kWh batteri. Jeg forventet at WLTP skulle være rundt 650 km. Denne varianten er bekreftet, men navnet er ikke offisielt.
-
-
-### Audi Q6 45 e-tron
+### Audi Q6 e-tron
 
 Denne varianten er standardversjonen med RWD og 83kWh batteri. Jeg forventet at WLTP skulle være rundt 500 km. Denne varianten er bekreftet, men navnet er ikke offisielt.
 
