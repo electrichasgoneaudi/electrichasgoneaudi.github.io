@@ -1,7 +1,7 @@
 ---
 title: Audi Q6 e-tron varianter
 linktitle: Varianter
-description: The Audi Q6 e-tron is currently available in 2 different variants, with more expected variants.
+description: The Audi Q6 e-tron is currently available in 4 different variants, with more expected variants.
 weight: 1
 ---
 
@@ -11,14 +11,13 @@ weight: 1
 <!-- markdownlint-disable MD033 -->
 ### Audi Q6 e-tron performance
 
-Denne varianten er rwd-modellen med stort 100kWh batteri og 285kW/385HP for EU-versjonen.
+Denne varianten er rwd-modellen med stort 100kWh batteri og 240kW/326hp.
 
 Audi Q6 SUV e-tron inkluderer følgende som standard
-Omfang:
 
-**Ytre:**
+**Eksterioer:**
 
-- avansert eksteriør
+- Advanced eksteriør
 - Bunnlinje i Mythos Black kontrastlakk
 - Enkel ramme i kroppsfarge
 - LED-frontlykter og LED-baklys

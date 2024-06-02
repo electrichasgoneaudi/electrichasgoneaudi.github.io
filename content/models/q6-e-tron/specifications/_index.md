@@ -4,7 +4,7 @@ linktitle: Specifications
 description: Here you find the most relevant specifications for the different Q8 e-tron variants. Everything from range, top speed, battery size and trailer capacity.
 weight: 2
 ---
-
+<!-- markdownlint-disable MD033 -->
 
 ## Audi Q6 e-tron performance
 
@@ -20,11 +20,7 @@ weight: 2
     <tbody>
         <tr>
             <td>Peak electrical output in KW (hp)</td>
-            <td>Europe: 285kW / US: 315kW  </td>
-        </tr>
-        <tr>
-            <td>Peak electrical output boost in kW (hp)</td>
-            <td>Europe: 285kW / US 340kW </td>
+            <td>240kW(326hp)  </td>
         </tr>
         <tr>
             <td>Continuous electrical output in kW</td>
@@ -32,15 +28,11 @@ weight: 2
         </tr>
         <tr>
             <td>Electrical torque output in Nm (lb-ft) </td>
-            <td>?</td>
-        </tr>
-        <tr>
-            <td>Electrical torque output boost in Nm (lb-ft) </td>
-            <td>855</td>
+            <td>485</td>
         </tr>
         <tr>
             <td>0 -100 km/h (62.1 mph) in s </td>
-            <td>Europe 5.9 / US: 5.0</td>
+            <td>Europe 6.7</td>
         </tr>
         <tr>
             <td>Top speed in km/h (mph)</td>
@@ -48,7 +40,7 @@ weight: 2
         </tr>
         <tr>
             <td>Drive type </td>
-            <td>quattro permanent all-wheel drive</td>
+            <td>rwd-wheel drive</td>
         </tr>
         <tr>
             <td>Battery type</td>
@@ -92,11 +84,11 @@ weight: 2
         </tr>
         <tr>
             <td>Unladen weight without driver min trim </td>
-            <td>2325kg</td>
+            <td>2200kg</td>
         </tr>
         <tr>
             <td>Gross Weight </td>
-            <td>2965kg</td>
+            <td>2815kg</td>
         </tr>
         <tr>
             <td>Max load including driver </td>
@@ -116,7 +108,7 @@ weight: 2
         </tr>
         <tr>
             <td>Max trailer weight</td>
-            <td>2400 kg</td>
+            <td>2000 kg</td>
         </tr>
         <tr>
             <td>Max roof weight</td>

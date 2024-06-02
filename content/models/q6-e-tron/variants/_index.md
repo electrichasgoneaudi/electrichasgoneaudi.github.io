@@ -1,7 +1,7 @@
 ---
 title: Audi Q6 e-tron variants
 linktitle: Variants
-description: The Audi Q6 e-tron is currently available in 2 different variants, with more expected variants.
+description: The Audi Q6 e-tron is currently available in 4 different variants, with more expected variants.
 weight: 1
 ---
 
@@ -10,9 +10,10 @@ weight: 1
 <!-- markdownlint-disable MD033 -->
 ### Audi Q6 e-tron performance
 
-This variant is the rwd model with the large battery with 285kW/385HP for the EU version and 340kW and 433 BPH for the US version.
+This variant is the rwd model with a 100kWh battery and 240kW/326hp.
 
 The Audi Q6 SUV e-tron includes the following as standard
+
 Scopes:
 
 **Exterior:**
