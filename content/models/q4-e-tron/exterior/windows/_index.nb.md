@@ -3,6 +3,7 @@ title: Audi Q4 e-tron vinduer
 linktitle: Vinduer
 description: Audi Q4 e-tron har noen valg for vinduer
 weight: 5
+sectiontabs: "/nb/models/q4-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 Audi Q4 e-tron har som standard varmereflekterende frontrute. I tilegg er bakrute, dør- og sidevinduer grønntonet og varmepdempende

@@ -3,6 +3,7 @@ title: Audi Q4 e-tron aftermarket wheels
 linktitle: Aftermarket
 description: Here you see som examples on aftermarket wheels owners have put on their Audi Q4 e-tron
 weight: 4
+sectiontabs: "/models/q4-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 ## 21 Vossen HF2 21x9.5

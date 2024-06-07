@@ -3,6 +3,7 @@ title: Audi Q4 e-tron windows
 linktitle: Windows
 description: Audi Q4 e-tron have some windows options
 weight: 5
+sectiontabs: "/models/q4-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 The standard front window have

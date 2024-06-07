@@ -3,6 +3,7 @@ title: Audi Q4 e-tron paint colors
 linktitle: Paint
 description: Audi Q4 e-tron comes in different paint trims and paint colors
 weight: 1
+sectiontabs: "/models/q4-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 Here you find high resolution picture of real cars in the different standard colors. Click pictures for large versions.

@@ -3,6 +3,7 @@ title: Audi Q4 e-tron optics
 linktitle: Optics
 description: There is serveral optics options to make your Q4 e-tron stick out from the crowd
 weight: 2
+sectiontabs: "/models/q4-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 

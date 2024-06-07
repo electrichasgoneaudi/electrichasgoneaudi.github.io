@@ -3,6 +3,7 @@ title: Audi Q4 e-tron dører og bakluke
 linktitle: Dører
 description: Audi har noen funksjoner og alternativer på dører og luke.
 weight: 8
+sectiontabs: "/nb/models/q4-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 ## Automatisk låsing

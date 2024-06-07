@@ -3,6 +3,7 @@ title: Audi Q4 e-tron speil
 linktitle: Speilene
 description: Speilene kan leveres i forskjellige varianter. 
 weight: 7
+sectiontabs: "/nb/models/q4-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 ## Funksjonalitet

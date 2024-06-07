@@ -3,6 +3,7 @@ title: Mirrors
 linktitle: Mirrors
 description: The mirrors can be delivered in different styles
 weight: 7
+sectiontabs: "/models/q4-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 ## Functionality

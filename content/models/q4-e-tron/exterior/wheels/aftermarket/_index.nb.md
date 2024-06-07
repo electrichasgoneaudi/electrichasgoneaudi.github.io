@@ -3,6 +3,7 @@ title: Audi e-tron uoriginale hjul
 linktitle: Uorginale
 description: Here ser du eksempler på forskjellige uorginale felger som eiere har montert
 weight: 4
+sectiontabs: "/nb/models/q4-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 ## 21" Vossen HF2 21x9.5

@@ -3,6 +3,7 @@ title: Audi Q4 e-tron optikk
 linktitle: Optikk
 description: Audi Q4 e-tron kan leveres med flere forskjellige optikk utseender.
 weight: 2
+sectiontabs: "/nb/models/q4-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 

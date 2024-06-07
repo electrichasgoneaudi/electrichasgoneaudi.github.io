@@ -3,6 +3,7 @@ title: Audi Q4 e-tron panoramatak
 linktitle: Panoramatak
 description: Hvis du vil skille deg ut kan du bestille Audi Q4 e-tron med panoramatak.
 weight: 6
+sectiontabs: "/nb/models/q4-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 The roof can be openeded. In addition to give Audi e-tron a cooler and more exclusive look it gives more light in to the car and better view from the inside.

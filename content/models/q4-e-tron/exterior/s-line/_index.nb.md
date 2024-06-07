@@ -3,6 +3,7 @@ title: Audi Q4 e-tron s-line eksteriør pakke
 linktitle: S-line
 description: Audi Q4 e-tron kan leveres med s-line eksteriørpakke. S-line eksteriørpakken inneholder ekstra styling elementer. 
 weight: 3
+sectiontabs: "/nb/models/q4-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 Den mer karakteristiske støtfangeren er flankert av mer uttrykksfulle sølvfargete luftinntak .

@@ -3,6 +3,7 @@ title: Audi Q4 e-tron panoramic roof
 linktitle: Panoramic roof
 description: If you want to stand out in the crowd you can order your Audi Q4 e-tron with panoramic roof.
 weight: 6
+sectiontabs: "/models/q4-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 The roof can be opened. In addition to giving the Audi Q4 e-tron a cooler and more exclusive look, it provides more light into the car and better visibility from the inside.

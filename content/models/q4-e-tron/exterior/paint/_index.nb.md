@@ -3,6 +3,7 @@ title: Audi Q4 e-tron lakkfarger
 linktitle: Lakkfarger
 description: Audi Q4 e-tron kan leveres i en rekke farger og lakkerings utforminger.
 weight: 1
+sectiontabs: "/nb/models/q4-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 Her finner du høyoppløste bilder av virkelige bilder i de forskjellige standardfargene. Klikk på bildene for stor versjon.
