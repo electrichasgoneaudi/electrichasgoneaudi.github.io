@@ -39,8 +39,14 @@ Produksjonen startet hos [Audi Brussels fabrikken](https://www.google.com/maps/p
     <figcaption><h4>Oppgraderinger til e-tron 55 fra uke 49-2019 og hvordan de påvirker rekkeviddene</h4></figcaption>
 </figure>
 
-Hvis byggemåneden er 122019 eller senere, bør det være en oppgradert versjon
-![bilde](https://user-images.githubusercontent.com/59776765/114271439-a64b3400-9a11-11eb-9e5e-0cae5310ef28.png)
+<figure>
+    <a href="https://user-images.githubusercontent.com/59776765/114271439-a64b3400-9a11-11eb-9e5e-0cae5310ef28.png">
+        <img src="https://user-images.githubusercontent.com/59776765/114271439-a64b3400-9a11-11eb-9e5e-0cae5310ef28.png" class="img-fluid" alt="Black edition with orange interior details" title="Black edition with orange interior details">
+    </a>
+    <figcaption><h4>Hvis byggemåneden er 122019 eller senere, bør det være en oppgradert versjon</h4></figcaption>
+</figure>
+
+
 
 ### MY2020v2 - > MY2021 (fra byggeuke 32. august 2020)
 

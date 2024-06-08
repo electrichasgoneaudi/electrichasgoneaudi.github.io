@@ -39,8 +39,12 @@ Production started in the [Audi Brussels Plant](https://www.google.com/maps/plac
     <figcaption><h4>Upgrades to e-tron 55 from week 49-2019 and how they affect range</h4></figcaption>
 </figure>
 
-If build month is 122019 or later it should be a upgraded version
-![bilde](https://user-images.githubusercontent.com/59776765/114271439-a64b3400-9a11-11eb-9e5e-0cae5310ef28.png)
+<figure>
+    <a href="https://user-images.githubusercontent.com/59776765/114271439-a64b3400-9a11-11eb-9e5e-0cae5310ef28.png">
+        <img src="https://user-images.githubusercontent.com/59776765/114271439-a64b3400-9a11-11eb-9e5e-0cae5310ef28.png" class="img-fluid" alt="Black edition with orange interior details" title="Black edition with orange interior details">
+    </a>
+    <figcaption><h4>If build month is 122019 or later it should be a upgraded version</h4></figcaption>
+</figure>
 
 ### MY2020v2 - > MY2021 (from build week 32 August 2020)
 
@@ -48,9 +52,14 @@ If build month is 122019 or later it should be a upgraded version
 - Possible to order heated steeringwheel together with ACC
 - Upgraded MMI system to MIB 3 (Modular Infotainment Toolkit) (changes in menus, more powerful).
 - Replaced USB A with USB C
-- Removed SIM and SD-card input
-![bilde](https://user-images.githubusercontent.com/59776765/103356641-9be3da80-4ab1-11eb-9248-411935d983ad.png)
 - Also available as e-tron 60 with 3 motors.
+
+<figure>
+    <a href="https://user-images.githubusercontent.com/59776765/103356641-9be3da80-4ab1-11eb-9248-411935d983ad.png">
+        <img src="https://user-images.githubusercontent.com/59776765/103356641-9be3da80-4ab1-11eb-9248-411935d983ad.png" class="img-fluid" alt="Black edition with orange interior details" title="Black edition with orange interior details">
+    </a>
+    <figcaption><h4>Removed SIM and SD-card input</h4></figcaption>
+</figure>
 
 ### MY2021 -> MY2021V2 (approx week 1 2021)
   
@@ -98,6 +107,7 @@ In end of June 2022, Audi stopped taking orders on the 2023 Audi e-tron. This to
 </figure>
 
 ### Facelift
+
 It was expected that a new e-tron with an increased range would be launched for the 2023 model, but this was delayed, and it was launched on November 9. 2022, as the Audi Q8 e-tron. So 2023 will be the last year of the Audi e-tron.
 
 
