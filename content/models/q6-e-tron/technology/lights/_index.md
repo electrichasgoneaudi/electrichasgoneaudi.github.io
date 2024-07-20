@@ -11,12 +11,7 @@ weight: 4
 
 The Q6 e-tron not only marks a new chapter in electromobility at Audi; lighting technology is an important part of Audi’s DNA. With the world’s first active digital light signature, the Audi Q6 e-tron ushers in a new era characterized by distinctive design and aesthetics unique to Audi.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_4_st.jpg" alt="Audi Q6 e-tron head lights" title="Audi Q6 e-tron head lights">
-    </a>
-    <figcaption><h4>Audi Q6 e-tron head lights</h4></figcaption>
-</figure>
+
 
 
 The second-generation of digital OLED technology shapes the look of new Audi models and increases their range of functions many times over. This, in turn, improves road safety, as impressively demonstrated by the communication light in the digital OLED rear lights. The Q6 e-tron also sets new standards in personalization: With a total of eight optional digital light signatures in the redesigned daytime running lights in the Matrix LED headlights and digital OLED rear lights 2.0, customers can design the look of their Q6 e-tron like never before. This is possible via the MMI and, for the first time, via the myAudi app. Customers are also able to buy digital light signatures after purchasing their car.
@@ -75,6 +70,13 @@ With the next generation of digital OLEDs in the rear lights that now follow in 
 
 The innovative digital OLED technology creates the conditions for a completely new rear light design, ensuring a one-of-a-kind homogeneity and very high contrast. There are other advantages: Surface light sources do not require additional reflectors, light guides, or optics, making them very efficient. Together, these properties allow Audi’s engineers and designers to break down the design boundaries between two- and three-dimensionality. In other words, the brand with the four rings is creating three-dimensional shapes on two-dimensional surfaces. In addition to an integrated, expressive LED light strip at the rear, 3D glass successfully separates the rear light signature from the other lighting functions.
 
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_4.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_4_st.jpg" alt="Audi Q6 e-tron head lights" title="Audi Q6 e-tron head lights">
+    </a>
+    <figcaption><h4>Audi Q6 e-tron head lights with seperate lights</h4></figcaption>
+</figure>
+
 Audi is also innovating the front of the car. The next generation of digital daytime running lights and the light modules are now visually separate, creating greater design clarity. The designers have designed the individual LEDs – 70 in total – in this new evolution of digital daytime running lights as transparent 3D objects. The front section of the digital daytime running lights features a precise prismatic structure, while a metalized 3D trim surrounds them to draw the focus to the car’s digital eyes.
 
 ## Improved safety thanks to intelligent headlights and rear lights
@@ -92,8 +94,6 @@ With up to eight digital light signatures for the headlights and rear lights, dr
 Via the myAudi app, customers can activate their personal light signatures from outside the car and experience the dynamic lighting scenario and the coming home/leaving home function right on their car. It’s the same with the communication light in the second-generation digital OLED rear lights and proximity indication. On request, the Matrix LED headlights can provide a live demonstration of the sign glare suppression and object masking features.
 
 For an even greater degree of personalization for the Q6 e-tron, customers can book the package of digital light signatures for the LED headlights plus/Matrix LED headlights and digital OLED rear lights after purchasing their car using on-demand functions. Customers can purchase the features permanently or for a specific period. This flexibility lets Audi customers design their Q6 e-tron with up to eight digital light signatures (only in conjunction with digital OLED rear lights and LED headlights plus/Matrix LED headlights) to suit personal preferences. Finally, they can also purchase high-beam assist and the Matrix package on demand.
-
-
 
 
 
