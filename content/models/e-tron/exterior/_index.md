@@ -11,7 +11,7 @@ So buying an Audi e-tron will require you to make lots of decisions about how th
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/exterior.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/exteriors.jpg"
-        alt="Audi e-tron Sportback" title="Audi e-tron Sportback">
+        class="img-fluid" alt="Audi e-tron Sportback" title="Audi e-tron Sportback">
     </a>
     <figcaption><h4>Audi e-tron Sportback</h4></figcaption>
 </figure>
@@ -33,4 +33,4 @@ So you understand it is not to show all possible combinations on this site.
 
 See below for details about the exterior options.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

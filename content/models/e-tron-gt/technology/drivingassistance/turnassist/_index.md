@@ -10,7 +10,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/turnassist/turnassist.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/turnassist/turnassists.jpg"
-        alt="Turn assist Audi e-tron GT" title="Turn assist Audi e-tron GT">
+        class="img-fluid" alt="Turn assist Audi e-tron GT" title="Turn assist Audi e-tron GT">
     </a>
     <figcaption><h4>Turn assist Audi e-tron GT</h4></figcaption>
 </figure>
@@ -19,4 +19,4 @@ weight: 1
 
 This option is part of the tour driver assistance package with option id **PCC**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

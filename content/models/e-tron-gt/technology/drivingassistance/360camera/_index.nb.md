@@ -10,7 +10,7 @@ Et virtuelt kameraplassedring ovenfra vist i MMI-displayet gir føreren en overs
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/360camera/camerarear.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/360camera/camerarears.jpg"
-        alt="Ryggekamera kombinert meed topp view" title="Ryggekamera kombinert meed topp view">
+        class="img-fluid" alt="Ryggekamera kombinert meed topp view" title="Ryggekamera kombinert meed topp view">
     </a>
     <figcaption><h4>Ryggekamera kombinert meed topp view</h4></figcaption>
 </figure>
@@ -20,7 +20,7 @@ En tilleggsfunksjon for noen modeller er en virtuell 3D-visning. Føreren kan br
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/360camera/camera3d.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/360camera/camera3ds.jpg"
-        alt="3D-visning kombinert med topp view" title="3D-visning kombinert med topp view">
+        class="img-fluid" alt="3D-visning kombinert med topp view" title="3D-visning kombinert med topp view">
     </a>
     <figcaption><h4>3D-visning kombinert med topp view</h4></figcaption>
 </figure>
@@ -28,7 +28,7 @@ En tilleggsfunksjon for noen modeller er en virtuell 3D-visning. Føreren kan br
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/360camera/camera3d_2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/360camera/camera3d_2s.jpg"
-        alt="3D-visning kombinert med topp view" title="3D-visning kombinert med topp view">
+        class="img-fluid" alt="3D-visning kombinert med topp view" title="3D-visning kombinert med topp view">
     </a>
     <figcaption><h4>3D-visning kombinert med topp view</h4></figcaption>
 </figure>

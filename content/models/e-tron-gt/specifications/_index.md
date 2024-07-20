@@ -84,4 +84,4 @@ weight: 2
 | Ground Clearance | 125mm-165mm |
 | Turning circle in m (ft) | 11.6 (38.1) |
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

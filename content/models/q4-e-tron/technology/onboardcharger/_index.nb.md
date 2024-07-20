@@ -14,7 +14,7 @@ I USA har ladeporten en [J1772-kontakt](https://en.wikipedia.org/wiki/SAE_J1772)
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/onboardcharger/chargeport_right.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/onboardcharger/chargeport_rights.jpg" alt="Type 2 Chargeport" title="Type 2 Chargeport">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/onboardcharger/chargeport_rights.jpg" class="img-fluid" alt="Type 2 Chargeport" title="Type 2 Chargeport">
     </a>
     <figcaption><h4>Type 2-ladeport</h4></figcaption>
 </figur>
@@ -27,7 +27,7 @@ I illustrasjonen under ser du plasseringen av ladeenhetene.
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/onboardcharger/electricdrivetrain.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/onboardcharger/electricdrivetrains.jpg" alt="Elektrisk drivlinje med ladeport og AC-lader" title="Elektrisk drivlinje med ladeport og AC-lader">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/onboardcharger/electricdrivetrains.jpg" class="img-fluid" alt="Elektrisk drivlinje med ladeport og AC-lader" title="Elektrisk drivlinje med ladeport og AC-lader">
     </a>
     <figcaption><h4>Elektrisk drivlinje med ladeport og AC-lader</h4></figcaption>
 </figur>
@@ -45,4 +45,4 @@ I illustrasjonen under ser du plasseringen av ladeenhetene.
 | 230V 32A 1fase | Blå industri | 7,2KW | 10,7 timer |
 | 230V 16A 1fase | Blå industri | 3,6KW | 21.4 timer |
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -7,7 +7,7 @@ weight: 99999
 <!-- markdownlint-disable MD033 -->
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_1s.jpg" alt="Audi charging hub" title="Audi charging hub">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_1s.jpg" class="img-fluid" alt="Audi charging hub" title="Audi charging hub">
     </a>
     <figcaption><h4>Audi-charging hub</h4></figcaption>
 </figur>
@@ -18,7 +18,7 @@ Med pilotplasseringen tester Audi for første gang sitt nye ladekonsept. "Vi øn
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_2s.jpg" alt="Audi-charging hub" title="Audi-charging hub">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_2s.jpg" class="img-fluid" alt="Audi-charging hub" title="Audi-charging hub">
     </a>
     <figcaption><h4>Audi-charging hub</h4></figcaption>
 </figur>
@@ -29,7 +29,7 @@ Kuber er grunnlaget for Audis charging hub. De fleksible beholderkubene kan mont
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_3s.jpg" alt="Audi-charging hub" title="Audi-charging hub">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_3s.jpg" class="img-fluid" alt="Audi-charging hub" title="Audi-charging hub">
     </a>
     <figcaption><h4>Audi-charging hub</h4></figcaption>
 </figur>
@@ -49,7 +49,7 @@ Audi-kunder kan bruke den nye reservasjonsfunksjonen i myAudi-appen: De kan enke
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_6s.jpg" alt="Audi charging hub" title="Audi charging hub">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_6s.jpg" class="img-fluid" alt="Audi charging hub" title="Audi charging hub">
     </a>
     <figcaption><h4>Audi ladesenterreservasjon</h4></figcaption>
 </figur>
@@ -63,7 +63,7 @@ Testene som starter i Nürnberg fokuserer på den nye reservasjonsfunksjonen, ku
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_4s.jpg" alt="Audi-charging hub" title="Audi-charging hub">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_4s.jpg" class="img-fluid" alt="Audi-charging hub" title="Audi-charging hub">
     </a>
     <figcaption><h4>Audi ladesentersalong</h4></figcaption>
 </figur>
@@ -75,7 +75,7 @@ Under pilotprosjektet i Nürnberg vil en ansatt ivareta besøkendes ønsker mell
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_5s.jpg" alt="Audi-charging hub" title="Audi-charging hub">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_5s.jpg" class="img-fluid" alt="Audi-charging hub" title="Audi-charging hub">
     </a>
     <figcaption><h4>Audi ladesentersalong</h4></figcaption>
 </figur>
@@ -86,4 +86,4 @@ Følgende video presenterer Audi Charge hub i detaljer.
 
  {{< youtube l6sCEOaj2-o >}}
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

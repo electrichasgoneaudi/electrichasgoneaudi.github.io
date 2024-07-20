@@ -19,7 +19,7 @@ lydfilosofi over hele modellutvalget. Takket være sin fleksibilitet gir den rom
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/soundsystem/sonosspeaker.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/soundsystem/sonosspeakers.jpg"
-        alt="Sonos-fronthøyttaler" title="Sonos-fronthøyttaler">
+        class="img-fluid" alt="Sonos-fronthøyttaler" title="Sonos-fronthøyttaler">
     </a>
     <figcaption><h4>Sonos-fronthøyttaler</h4></figcaption>
 </figure>
@@ -29,7 +29,7 @@ I Q4 e-tron og Q4 Sportback e-tron distribuerer Sonamic Panorama-algoritmen, som
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/soundsystem/soundsystem1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/soundsystem/soundsystem1s.jpg"
-        alt="Sonos Sound System 10 høyttalerplasserin" title="Sonos Sound System 10 høyttalerplasserin">
+        class="img-fluid" alt="Sonos Sound System 10 høyttalerplasserin" title="Sonos Sound System 10 høyttalerplasserin">
     </a>
     <figcaption><h4>Sonos Sound System 10 høyttalerplasserin</h4></figcaption>
 </figure>

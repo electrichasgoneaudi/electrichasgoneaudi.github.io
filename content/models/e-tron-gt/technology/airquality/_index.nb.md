@@ -23,10 +23,10 @@ Alternativ-ID **2V4**
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/airquality/airqualitypackage.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/airquality/airqualitypackages.jpg"
-        alt="Luftkvalitetspakkesystem" title="Luftkvalitetspakkesystem">
+        class="img-fluid" alt="Luftkvalitetspakkesystem" title="Luftkvalitetspakkesystem">
     </a>
     <figcaption><h4>Luftkvalitetspakkesystem</h4></figcaption>
 </figure>
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

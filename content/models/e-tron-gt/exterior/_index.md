@@ -8,11 +8,11 @@ weight: 4
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/exterior.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/exteriors.jpg" alt="RS e-tron GT exterior by Auditography" title="RS e-tron GT exterior by Auditography">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/exteriors.jpg" class="img-fluid" alt="RS e-tron GT exterior by Auditography" title="RS e-tron GT exterior by Auditography">
     </a>
     <figcaption><h4>RS e-tron GT exterior by Auditography</h4></figcaption>
 </figure>
 
 See below for the exterior options.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

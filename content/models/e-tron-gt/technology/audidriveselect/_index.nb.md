@@ -26,7 +26,7 @@ Avhengig av alternativ og oppsett påvirker innstillingene for valg av stasjon f
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/audidriveselect/driveselectbuttons.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/audidriveselect/driveselectbuttonss.jpg"
-        alt="Drive Select er tilgjengelig som separate knapper og fra MMI" title="Drive Select er tilgjengelig som separate knapper og fra MMI">
+        class="img-fluid" alt="Drive Select er tilgjengelig som separate knapper og fra MMI" title="Drive Select er tilgjengelig som separate knapper og fra MMI">
     </a>
     <figcaption><h4>Drive Select er tilgjengelig som separate knapper og fra MMI</h4></figcaption>
 </figure>
@@ -36,7 +36,7 @@ Avhengig av alternativ og oppsett påvirker innstillingene for valg av stasjon f
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/audidriveselect/driveselectmenu.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/audidriveselect/driveselectmenus.jpg"
-        alt="Drive Select-meny i MMI" title="Drive Select-meny i MMI">
+        class="img-fluid" alt="Drive Select-meny i MMI" title="Drive Select-meny i MMI">
     </a>
     <figcaption><h4>Drive Select-meny i MMI</h4></figcaption>
 </figure>
@@ -54,7 +54,7 @@ Avhengig av alternativ og oppsett påvirker innstillingene for valg av stasjon f
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/audidriveselect/individualsettings.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/audidriveselect/individualsettingss.jpg"
-        alt="Individuelle innstillinger" title="Individuelle innstillinger">
+        class="img-fluid" alt="Individuelle innstillinger" title="Individuelle innstillinger">
     </a>
     <figcaption><h4>Individuelle innstillinger</h4></figcaption>
 </figure>

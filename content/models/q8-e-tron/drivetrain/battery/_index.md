@@ -32,7 +32,7 @@ Each module weighs approx 13kg.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/72ah_cell.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/72ah_cell_st.png" alt="Module with new 72AH cells" title="Module with new 72AH cells">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/72ah_cell_st.png" class="img-fluid" class="img-fluid" alt="Module with new 72AH cells" title="Module with new 72AH cells">
     </a>
     <figcaption><h4>Module with new 72AH cells</h4></figcaption>
 </figure>
@@ -66,7 +66,7 @@ The 95kWh uses a second floor under the rear seats to get the room needed for th
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/pack114.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/pack114_st.png" alt="Battery pack 114kWh with 36 modules, including five on the second floor" title="Battery pack 114kWh with 36 modules, including five on the second floor">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/pack114_st.png" class="img-fluid" alt="Battery pack 114kWh with 36 modules, including five on the second floor" title="Battery pack 114kWh with 36 modules, including five on the second floor">
     </a>
     <figcaption><h4>Battery pack 114kWh with 36 modules, including five on the second floor</h4></figcaption>
 </figure>
@@ -74,7 +74,7 @@ The 95kWh uses a second floor under the rear seats to get the room needed for th
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/pack114_2.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/pack114_2_st.png" alt="Battery pack 114kWh with 36 modules, including five on the second floor" title="Battery pack 114kWh with 36 modules, including five on the second floor">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/pack114_2_st.png" class="img-fluid" alt="Battery pack 114kWh with 36 modules, including five on the second floor" title="Battery pack 114kWh with 36 modules, including five on the second floor">
     </a>
     <figcaption><h4>Battery pack 114kWh with 36 modules, including five on the second floor</h4></figcaption>
 </figure>
@@ -85,7 +85,7 @@ comprised of extruded sections, it holds the cell modules like a typecase.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/crashstructure.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/crashstructures.jpg" alt="Integrated crash structure of the lithium-ion battery" title="Integrated crash structure of the lithium-ion battery">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/crashstructures.jpg" class="img-fluid" alt="Integrated crash structure of the lithium-ion battery" title="Integrated crash structure of the lithium-ion battery">
     </a>
     <figcaption><h4>Integrated crash structure of the lithium-ion battery</h4></figcaption>
 </figure>
@@ -102,7 +102,7 @@ A cooling system of flat aluminum extruded sections divided uniformly into small
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/cooling.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/cooling_st.png" alt="Cooling the lithium-ion battery via the chiller" title="Cooling the lithium-ion battery via the chiller">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/cooling_st.png" class="img-fluid" alt="Cooling the lithium-ion battery via the chiller" title="Cooling the lithium-ion battery via the chiller">
     </a>
     <figcaption><h4>Cooling the lithium-ion battery via the chiller</h4></figcaption>
 </figure>
@@ -111,7 +111,7 @@ The battery and all of its parameters, such as charge status, power output, and 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batteryjunctionbox.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batteryjunctionboxs.jpg" alt="Battery junction box" title="Battery junction box">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batteryjunctionboxs.jpg" class="img-fluid" alt="Battery junction box" title="Battery junction box">
     </a>
     <figcaption><h4>Battery junction box</h4></figcaption>
 </figure>
@@ -140,4 +140,4 @@ details. Below is the charging curve for Audi Q8 50 e-tron (same as the Audi e-t
 
 As the table shows, the 95kWh battery is still comparable to the new battery and even beats the larger battery because of a flatter curve for this distance.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

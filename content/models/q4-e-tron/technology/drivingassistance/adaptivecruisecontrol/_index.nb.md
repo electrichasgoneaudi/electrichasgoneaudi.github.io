@@ -18,7 +18,7 @@ Den medfølgende fartsbegrenseren hjelper til med å ikke overskride en tidliger
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/cruisecontrol.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/cruisecontrols.jpg"
-        alt="Cruisekontrollhåndtaket styrer funksjonen. Her kan man velge avstand til bil foran på Audi Q4 e-tron" title="Cruisekontrollhåndtaket styrer funksjonen. Her kan man velge avstand til bil foran på Audi Q4 e-tron">
+        class="img-fluid" alt="Cruisekontrollhåndtaket styrer funksjonen. Her kan man velge avstand til bil foran på Audi Q4 e-tron" title="Cruisekontrollhåndtaket styrer funksjonen. Her kan man velge avstand til bil foran på Audi Q4 e-tron">
     </a>
     <figcaption><h4>Cruisekontrollhåndtaket styrer funksjonen. Her kan man velge avstand til bil foran på Audi Q4 e-tron</h4></figcaption>
 </figure>
@@ -30,4 +30,4 @@ Lim-knappen på toppen aktiverer hastighetsbegrenseren.
 
 Dette alternativet er en del assistentsystempakken plus med opsjonsid **PYL**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

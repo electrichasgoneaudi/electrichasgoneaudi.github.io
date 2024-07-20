@@ -65,4 +65,4 @@ With multicolor ambient lightning the look and feel inside the car gets to anoth
 
 The full option list is available [here](list).
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

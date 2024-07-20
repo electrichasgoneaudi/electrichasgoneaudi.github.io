@@ -18,7 +18,7 @@ The included speed limiter helps not to exceed a previously set maximum speed wh
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/cruisecontrol.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/cruisecontrols.jpg"
-        alt="The cruise control handle controls the function including controlling the distance to the car in front." title="The cruise control handle controls the function including controlling the distance to the car in front.">
+        class="img-fluid" alt="The cruise control handle controls the function including controlling the distance to the car in front." title="The cruise control handle controls the function including controlling the distance to the car in front.">
     </a>
     <figcaption><h4>The cruise control handle controls the function including controlling the distance to the car in front.</h4></figcaption>
 </figure>
@@ -30,4 +30,4 @@ The lim button on top enable the speed limiter.
 
 This option is part of the assistant package plus with option id **PYL**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

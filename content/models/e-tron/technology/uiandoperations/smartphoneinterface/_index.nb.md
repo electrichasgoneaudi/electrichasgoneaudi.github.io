@@ -14,11 +14,11 @@ Bildet nedenfor viser hvordan Waze advarer brukere om et fotoboks.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/smartphoneinterface/speedcam.jpeg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/smartphoneinterface/speedcams.jpg"
-        alt="Android Auto med Waze advarsel om hastighetskamera" title="Android Auto med Waze advarsel om hastighetskamera">
+        class="img-fluid" alt="Android Auto med Waze advarsel om hastighetskamera" title="Android Auto med Waze advarsel om hastighetskamera">
     </a>
     <figcaption><h4>Android Auto med Waze advarsel om hastighetskamera</h4></figcaption>
 </figure>
 
 På 2019 modellen var bare kablet Android Auto og Apple Carplay støttet. Fra 2020 fikk man støtte for trådløs Apple Carplay og fra 2022 modellen fikk man støtte for trådløs Android Auto.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

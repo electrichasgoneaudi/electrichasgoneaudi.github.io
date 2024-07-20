@@ -263,4 +263,4 @@ weight: 100
 | Regulated differensial brakes |   | GH3  |
 | Electric quattro | Standard | 1X1  |
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

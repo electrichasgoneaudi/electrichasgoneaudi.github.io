@@ -12,35 +12,35 @@ You can order panoramic roof with option id **3FU**. This is the standard roof.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_1s.jpg" alt="Panoramic roof" title="Panoramic roof">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_1s.jpg" class="img-fluid" alt="Panoramic roof" title="Panoramic roof">
     </a>
     <figcaption><h4>Panoramic roof</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_2s.jpg" alt="Panoramic roof" title="Panoramic roof">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_2s.jpg" class="img-fluid" alt="Panoramic roof" title="Panoramic roof">
     </a>
     <figcaption><h4>Panoramic roof</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_3s.jpg" alt="Panoramic roof" title="Panoramic roof">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_3s.jpg" class="img-fluid" alt="Panoramic roof" title="Panoramic roof">
     </a>
     <figcaption><h4>Panoramic roof</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_4s.jpg" alt="Panoramic roof" title="Panoramic roof">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_4s.jpg" class="img-fluid" alt="Panoramic roof" title="Panoramic roof">
     </a>
     <figcaption><h4>Panoramic roof</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_5s.jpg" alt="Panoramic roof" title="Panoramic roof">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_5s.jpg" class="img-fluid" alt="Panoramic roof" title="Panoramic roof">
     </a>
     <figcaption><h4>Panoramic roof</h4></figcaption>
 </figure>
@@ -74,23 +74,23 @@ Option **3FI**
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/carbon_roof_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/carbon_roof_1s.jpg" alt="Carbon roof" title="Carbon roof">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/carbon_roof_1s.jpg" class="img-fluid" alt="Carbon roof" title="Carbon roof">
     </a>
     <figcaption><h4>Carbon roof</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/carbon_roof_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/carbon_roof_2s.jpg" alt="Carbon roof" title="Carbon roof">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/carbon_roof_2s.jpg" class="img-fluid" alt="Carbon roof" title="Carbon roof">
     </a>
     <figcaption><h4>Carbon roof</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/carbon_roof_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/carbon_roof_3s.jpg" alt="Carbon roof" title="Carbon roof">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/carbon_roof_3s.jpg" class="img-fluid" alt="Carbon roof" title="Carbon roof">
     </a>
     <figcaption><h4>Carbon roof</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -10,7 +10,7 @@ The code is **PC2** on e-tron 55/50 and **PC4** on e-tron S.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paintedcalibers/paintedcalibers.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paintedcalibers/paintedcaliberss.png" alt="Painted Calibers på e-tron S" title="Painted Calibers på e-tron S">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paintedcalibers/paintedcaliberss.png" class="img-fluid" alt="Painted Calibers på e-tron S" title="Painted Calibers på e-tron S">
     </a>
     <figcaption><h4>Painted Calibers på e-tron S</h4></figcaption>
 </figure>
@@ -28,7 +28,7 @@ The color code in different formats are.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paintedcalibers/paintedcalipers2.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paintedcalibers/paintedcalipers2s.png" alt="Painted Calibers på e-tron S" title="Painted Calibers på e-tron S">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paintedcalibers/paintedcalipers2s.png" class="img-fluid" alt="Painted Calibers på e-tron S" title="Painted Calibers på e-tron S">
     </a>
     <figcaption><h4>Painted Calibers på e-tron S</h4></figcaption>
 </figure>

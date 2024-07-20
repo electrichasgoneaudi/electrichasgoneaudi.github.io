@@ -12,7 +12,7 @@ The double-spoke leather steering wheel is the lowest level trim wheel.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/standard.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/standard.jpg"
-        alt="Double-spoke leather steering wheel" title="Double-spoke leather steering wheel">
+        class="img-fluid" alt="Double-spoke leather steering wheel" title="Double-spoke leather steering wheel">
     </a>
     <figcaption><h4>Double-spoke leather steering wheel</h4></figcaption>
 </figure>
@@ -34,7 +34,7 @@ Note: can only be ordered in conjunction with steering wheel heating (AI9)
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/2zq.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/2zqs.jpg"
-        alt="Double-spoke leather steering with paddles" title="Double-spoke leather steering with paddles">
+        class="img-fluid" alt="Double-spoke leather steering with paddles" title="Double-spoke leather steering with paddles">
     </a>
     <figcaption><h4>Double-spoke leather steering with paddles</h4></figcaption>
 </figure>
@@ -56,7 +56,7 @@ can thus be experienced. In the minimum level, recuperation is completely deacti
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/2fs.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/2fss.jpg"
-        alt="The double-spoke leather sports steering wheel" title="The double-spoke leather sports steering wheel">
+        class="img-fluid" alt="The double-spoke leather sports steering wheel" title="The double-spoke leather sports steering wheel">
     </a>
     <figcaption><h4>The double-spoke leather sports steering wheel</h4></figcaption>
 </figure>

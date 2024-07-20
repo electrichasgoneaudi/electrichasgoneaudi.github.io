@@ -10,7 +10,7 @@ En frontradar, ett frontkamera, fire omgivelses-kameraer, to bakradarer og åtte
  <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/sensors.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/sensorss.jpg"
-        alt="Audi Q4 e-tron sensorer" title="Audi Q4 e-tron sensorer">
+        class="img-fluid" alt="Audi Q4 e-tron sensorer" title="Audi Q4 e-tron sensorer">
     </a>
     <figcaption><h4>Audi Q4 e-tron sensorer</h4></figcaption>
 </figure>
@@ -46,4 +46,4 @@ En frontradar, ett frontkamera, fire omgivelses-kameraer, to bakradarer og åtte
  Nedenfor finner du en detaljert forklaring på hvordan hver førerassistansefunksjonalitet fungerer.
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

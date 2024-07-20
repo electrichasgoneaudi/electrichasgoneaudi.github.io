@@ -9,7 +9,7 @@ weight: 1
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-e-tron-35.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-e-tron-35s.jpg" alt="Audi Q4 35 e-tron" title="Audi Q4 35 e-tron">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-e-tron-35s.jpg" class="img-fluid" alt="Audi Q4 35 e-tron" title="Audi Q4 35 e-tron">
     </a>
     <figcaption><h4>Audi Q4 35 e-tron</h4></figcaption>
 </figure>
@@ -22,7 +22,7 @@ Audi Q4 35 e-tron is the entry model with the smallest battery and two wheel dri
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-e-tron-40.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-e-tron-40s.jpg" alt="Audi Q4 40 e-tron" title="Audi Q4 40 e-tron">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-e-tron-40s.jpg" class="img-fluid" alt="Audi Q4 40 e-tron" title="Audi Q4 40 e-tron">
     </a>
     <figcaption><h4>Audi Q4 40 e-tron</h4></figcaption>
 </figure>
@@ -35,7 +35,7 @@ Audi Q4 40 e-tron is the model with the largest battery and two wheel drive. 82 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-e-tron-45.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-e-tron-45s.jpg" alt="Audi Q4 45 e-tron quattro" title="Audi Q4 45 e-tron quattro">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-e-tron-45s.jpg" class="img-fluid" alt="Audi Q4 45 e-tron quattro" title="Audi Q4 45 e-tron quattro">
     </a>
     <figcaption><h4>Audi Q4 45 e-tron quattro</h4></figcaption>
 </figure>
@@ -48,7 +48,7 @@ Audi Q4 45 e-tron quattro is the entry level model with the largest battery and 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-e-tron-50.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-e-tron-50s.jpg" alt="Audi Q4 50 e-tron quattro" title="Audi Q4 50 e-tron quattro">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-e-tron-50s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro" title="Audi Q4 50 e-tron quattro">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro</h4></figcaption>
 </figure>
@@ -67,7 +67,7 @@ Audi Q4 Sportback 35 e-tron is the model with the smallest battery and two wheel
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-sportback-e-tron-40.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-sportback-e-tron-40s.jpg" alt="Audi Q4 Sportback 40 e-tron by Auditography" title="Audi Q4 Sportback 40 e-tron by Auditography">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-sportback-e-tron-40s.jpg" class="img-fluid" alt="Audi Q4 Sportback 40 e-tron by Auditography" title="Audi Q4 Sportback 40 e-tron by Auditography">
     </a>
     <figcaption><h4>Audi Q4 Sportback 40 e-tron by Auditography</h4></figcaption>
 </figure>
@@ -80,7 +80,7 @@ Audi Q4 Sportback 40 e-tron is the model with the largest battery and two wheel 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-sportback-e-tron-50.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-sportback-e-tron-50s.jpg" alt="Audi Q4 Sportback 50 e-tron quattro" title="Audi Q4 Sportback 50 e-tron quattro">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/audi-q4-sportback-e-tron-50s.jpg" class="img-fluid" alt="Audi Q4 Sportback 50 e-tron quattro" title="Audi Q4 Sportback 50 e-tron quattro">
     </a>
     <figcaption><h4>Audi Q4 Sportback 50 e-tron quattro</h4></figcaption>
 </figure>
@@ -89,4 +89,4 @@ Audi Q4 50 Sportback e-tron quattro is the model with the largest battery and qu
 
 [See detailed specification](/models/q4-e-tron/specifications/#audi-q4-sportback-50-e-tron-quattro)
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

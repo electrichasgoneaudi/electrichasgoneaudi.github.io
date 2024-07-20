@@ -18,7 +18,7 @@ Motoren starter når du trykker på bremsepedalen og setter bilen i gir. Den sto
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/startbutton.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/startbuttons.jpg"
-        alt="Senterkonsoll med start/stopp-knapp" title="Mentkonsoll med start/stopp-knapp">
+        class="img-fluid" alt="Senterkonsoll med start/stopp-knapp" title="Mentkonsoll med start/stopp-knapp">
     </a>
     <figcaption><h4>Midtkonsoll med start/stopp-knapp</h4></figcaption>
 </figur>
@@ -40,7 +40,7 @@ Hvis du ikke har hendene frie, kan du bruke en fotbevegelse (sparkbevegelse) bak
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/kicksensor.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/kicksensors.jpg"
-        alt="Du kan åpne bakluken med forhåndsnøkkelen ved å sparke foten under bakluken." title="Du kan åpne bakluken med fremføringsnøkkelen ved å sparke foten under bakluken.">
+        class="img-fluid" alt="Du kan åpne bakluken med forhåndsnøkkelen ved å sparke foten under bakluken." title="Du kan åpne bakluken med fremføringsnøkkelen ved å sparke foten under bakluken.">
     </a>
     <figcaption><h4>Du kan åpne bakluken med forhåndsnøkkelen ved å sparke foten under bakluken.</h4></figcaption>
 </figur>
@@ -60,7 +60,7 @@ Du kan konfigurere låsesystemet i Audi Q4 e-tron MMI.
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/settings1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/settings1s.jpg"
-        alt="Sentrallåsinnstillinger i Audi Q4 e-tron MMI" title="Sentrallåsinnstillinger i Audi Q4 e-tron MMI">
+        class="img-fluid" alt="Sentrallåsinnstillinger i Audi Q4 e-tron MMI" title="Sentrallåsinnstillinger i Audi Q4 e-tron MMI">
     </a>
     <figcaption><h4>Sentrallåsinnstillinger i Audi Q4 e-tron MMI</h4></figcaption>
 </figur>
@@ -69,4 +69,4 @@ Du kan konfigurere låsesystemet i Audi Q4 e-tron MMI.
 
 {{< youtube CurWSFtxRl4 >}}
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

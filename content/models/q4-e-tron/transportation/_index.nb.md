@@ -12,42 +12,42 @@ Lastevolumet på Q4 e-tron er på 520 liter. Når baksetene er nede er den total
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_1s.jpg" alt="Audi Q4 e-tron trunk" title="Audi Q4 e-tron trunk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_1s.jpg" class="img-fluid" alt="Audi Q4 e-tron trunk" title="Audi Q4 e-tron trunk">
     </a>
     <figcaption><h4>Audi Q4 e-tron bagasjerom</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_2s.jpg" alt="Audi Q4 e-tron trunk" title="Audi Q4 e-tron trunk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_2s.jpg" class="img-fluid" alt="Audi Q4 e-tron trunk" title="Audi Q4 e-tron trunk">
     </a>
     <figcaption><h4>Audi Q4 e-tron bagasjerom</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_3s.jpg" alt="Audi Q4 e-tron trunk" title="Audi Q4 e-tron trunk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_3s.jpg" class="img-fluid" alt="Audi Q4 e-tron trunk" title="Audi Q4 e-tron trunk">
     </a>
     <figcaption><h4>Audi Q4 e-tron bagasjerom</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_4s.jpg" alt="Audi Q4 e-tron trunk" title="Audi Q4 e-tron trunk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_4s.jpg" class="img-fluid" alt="Audi Q4 e-tron trunk" title="Audi Q4 e-tron trunk">
     </a>
     <figcaption><h4>Audi Q4 e-tron bagasjerom</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_5s.jpg" alt="Audi Q4 e-tron trunk" title="Audi Q4 e-tron trunk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_5s.jpg" class="img-fluid" alt="Audi Q4 e-tron trunk" title="Audi Q4 e-tron trunk">
     </a>
     <figcaption><h4>Audi Q4 e-tron bagasjerom</h4></figcaption>
 </figur>
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_6s.jpg" alt="Audi Q4 e-tron trunk" title="Audi Q4 e-tron trunk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trunk_6s.jpg" class="img-fluid" alt="Audi Q4 e-tron trunk" title="Audi Q4 e-tron trunk">
     </a>
     <figcaption><h4>Audi Q4 e-tron bagasjerom</h4></figcaption>
 </figur>
@@ -62,7 +62,7 @@ Du kan lagre opptil 75 kg på taket. På SUV-versjonen har du skinner slik at du
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/roofbox.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/roofboxs.jpg" alt="Audi Q4 e-tron med packline takboks" title="Audi Q4 e-tron med packline takboks">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/roofboxs.jpg" class="img-fluid" alt="Audi Q4 e-tron med packline takboks" title="Audi Q4 e-tron med packline takboks">
     </a>
     <figcaption><h4>Audi Q4 e-tron med packline takboks</h4></figcaption>
 </figur>
@@ -71,7 +71,7 @@ Du kan lagre opptil 75 kg på taket. På SUV-versjonen har du skinner slik at du
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/nofrunk.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/nofrunks.jpg" alt="Audi Q4 e-tron er ikke utstyrt med frunk" title="Audi Q4 e-tron er ikke utstyrt med frunk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/nofrunks.jpg" class="img-fluid" alt="Audi Q4 e-tron er ikke utstyrt med frunk" title="Audi Q4 e-tron er ikke utstyrt med frunk">
     </a>
     <figcaption><h4>Audi Q4 e-tron er ikke utstyrt med frunk</h4></figcaption>
 </figure>
@@ -83,7 +83,7 @@ Hengerfestet har opsjons-id **1M6**. Et valgfritt tilhengerfeste har opsjons-ID 
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/towhitch.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/towhitchs.jpg" alt="Valgfritt uttrekkbart tilhengerfeste" title="Valgfritt uttrekkbart tilhengerfeste">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/towhitchs.jpg" class="img-fluid" alt="Valgfritt uttrekkbart tilhengerfeste" title="Valgfritt uttrekkbart tilhengerfeste">
     </a>
     <figcaption><h4>Valgfritt uttrekkbart tilhengerfeste</h4></figcaption>
 </figur>
@@ -96,7 +96,7 @@ Hengerfestet har opsjons-id **1M6**. Et valgfritt tilhengerfeste har opsjons-ID 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trailerexample1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trailerexample1s.jpg" alt="Trailer example 1" title="Trailer example 1">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/trailerexample1s.jpg" class="img-fluid" alt="Trailer example 1" title="Trailer example 1">
     </a>
     <figcaption><h4>Trailer example 1</h4></figcaption>
 </figure>
@@ -104,4 +104,4 @@ Hengerfestet har opsjons-id **1M6**. Et valgfritt tilhengerfeste har opsjons-ID 
 Bilen over med henger ga et forbruk på 32kWh/100km. 
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

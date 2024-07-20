@@ -7,7 +7,7 @@ weight: 100005
 <!-- markdownlint-disable MD033 -->
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_1s.jpg" alt="Audi grandsphere-konsept" title="Audi grandsphere-konsept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_1s.jpg" class="img-fluid" alt="Audi grandsphere-konsept" title="Audi grandsphere-konsept">
     </a>
     <figcaption><h4>Audi grandsphere-konsept</h4></figcaption>
 </figur>
@@ -40,7 +40,7 @@ Selv "sfæren" i navnet sender et signal: Hjertet til Audi skysphere, grandspher
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_6s.jpg" alt="Audi grandsphere-dører" title="Audi grandsphere-dører">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_6s.jpg" class="img-fluid" alt="Audi grandsphere-dører" title="Audi grandsphere-dører">
     </a>
     <figcaption><h4>Audi grandsphere-dører</h4></figcaption>
 </figur>
@@ -55,7 +55,7 @@ Endringen i komfortsonen er radikal: Hvis sjefens sete er bakerst i en vanlig se
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_3s.jpg" alt="Audi grandsphere-dører" title="Audi grandsphere-dører">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_3s.jpg" class="img-fluid" alt="Audi grandsphere-dører" title="Audi grandsphere-dører">
     </a>
     <figcaption><h4>Audi grandsphere-dører</h4></figcaption>
 </figur>
@@ -66,7 +66,7 @@ Sitteflatene og ryggen til de to setene med integrerte belter er visuelt atskilt
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_4s.jpg" alt="Audi grandsphere-konsept" title="Audi grandsphere-konsept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_4s.jpg" class="img-fluid" alt="Audi grandsphere-konsept" title="Audi grandsphere-konsept">
     </a>
     <figcaption><h4>Audi grandsphere-konsept</h4></figcaption>
 </figur>
@@ -81,7 +81,7 @@ I stedet er det tydelig artikulerte og sedate områder med materialer av høyest
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_5s.jpg" alt="Audi grandsphere-konsept" title="Audi grandsphere-konsept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_5s.jpg" class="img-fluid" alt="Audi grandsphere-konsept" title="Audi grandsphere-konsept">
     </a>
     <figcaption><h4>Audi grandsphere-konsept</h4></figcaption>
 </figur>
@@ -117,7 +117,7 @@ Frontlyktene på oversiden av Singleframe ser smale ut, som fokuserte øyne. Bel
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_7.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_7s.jpg" alt="Audi grandsphere-konsept" title="Audi grandsphere-konsept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_7s.jpg" class="img-fluid" alt="Audi grandsphere-konsept" title="Audi grandsphere-konsept">
     </a>
     <figcaption><h4>Audi grandsphere-konsept</h4></figcaption>
 </figur>
@@ -136,7 +136,7 @@ Hjertet i drivsystemet er 800 volts ladeteknologi. I likhet med Audi e-tron GT f
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_4s.jpg" alt="Audi grandsphere-konsept" title="Audi grandsphere-konsept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_4s.jpg" class="img-fluid" alt="Audi grandsphere-konsept" title="Audi grandsphere-konsept">
     </a>
     <figcaption><h4>Audi grandsphere-konsept med hurtiglading</h4></figcaption>
 </figur>
@@ -155,4 +155,4 @@ Forhjulene er koblet sammen via en femleddet aksel, spesielt optimalisert for el
 
 {{< youtube z6PIrszFWSg >}}
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

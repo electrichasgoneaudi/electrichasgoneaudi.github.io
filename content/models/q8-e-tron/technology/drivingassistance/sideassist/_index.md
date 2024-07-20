@@ -8,7 +8,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/sideassist/audisideassist.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/sideassist/audisideassists.jpg"
-        alt="Audi side assist" title="Audi side assist">
+        class="img-fluid" alt="Audi side assist" title="Audi side assist">
     </a>
     <figcaption><h4>Audi side assist</h4></figcaption>
 </figure>
@@ -17,4 +17,4 @@ weight: 1
 
 This is part of the city assistance package with option id **PCM** and side assist pacakge with option id **PCH**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

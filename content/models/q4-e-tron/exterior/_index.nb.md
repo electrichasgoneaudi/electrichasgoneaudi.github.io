@@ -10,7 +10,7 @@ Når du kjøper en Audi e-tron, må du ta mange beslutninger om hvordan exeriour
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/exterior.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/exteriors.jpg"
-        alt="Mange utvendige alternative" title="Mange utvendige alternative">
+        class="img-fluid" alt="Mange utvendige alternative" title="Mange utvendige alternative">
     </a>
     <figcaption><h4>Mange utvendige alternative</h4></figcaption>
 </figure>
@@ -23,4 +23,4 @@ Da må du bestemme farge og hjul og mange andre alternativer
 
 Se de utvendige alternativene nedenfor.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

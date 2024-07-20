@@ -9,7 +9,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/presensebasic/presensebasic.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/presensebasic/presensebasics.jpg"
-        alt="Så snart Audi pre sense basic gjenkjenner en kritisk kjøretilstand, spenner systemet opp sikkerhetsbeltene til sjåføren og passasjeren foran." title="Så snart Audi pre sense basic gjenkjenner en kritisk kjøretilstand, spenner systemet opp sikkerhetsbeltene til sjåføren og passasjeren foran.">
+        class="img-fluid" alt="Så snart Audi pre sense basic gjenkjenner en kritisk kjøretilstand, spenner systemet opp sikkerhetsbeltene til sjåføren og passasjeren foran." title="Så snart Audi pre sense basic gjenkjenner en kritisk kjøretilstand, spenner systemet opp sikkerhetsbeltene til sjåføren og passasjeren foran.">
     </a>
     <figcaption><h4>Så snart Audi pre sense basic gjenkjenner en kritisk kjøretilstand, spenner systemet opp sikkerhetsbeltene til sjåføren og passasjeren foran.</h4></figcaption>
 </figure>

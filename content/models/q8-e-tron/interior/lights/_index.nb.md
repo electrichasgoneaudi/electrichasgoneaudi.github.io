@@ -20,7 +20,7 @@ Følgende interiørlys er standard på Audi e-tron
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/interiorlights1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/interiorlights1s.jpg"
-        alt="LED-takmodul foran" title="LED-takmodul foran">
+        class="img-fluid" alt="LED-takmodul foran" title="LED-takmodul foran">
     </a>
     <figcaption><h4>LED-takmodul foran</h4></figcaption>
 </figure>
@@ -28,7 +28,7 @@ Følgende interiørlys er standard på Audi e-tron
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/interiorlights2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/interiorlights2s.jpg"
-        alt="Lys bagasjerom" title="Lys bagasjerom">
+        class="img-fluid" alt="Lys bagasjerom" title="Lys bagasjerom">
     </a>
     <figcaption><h4>Lys bagasjerom</h4></figcaption>
 </figure>
@@ -60,7 +60,7 @@ Fargetilpasningen skjer separat for kontur- og ambientebelysningen som gir 900 f
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/ambientligtscontrol.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/ambientligtscontrols.jpg"
-        alt="Lysene styres i MMI" title="Lysene styres i MMI">
+        class="img-fluid" alt="Lysene styres i MMI" title="Lysene styres i MMI">
     </a>
     <figcaption><h4>Lysene styres i MMI</h4></figcaption>
 </figure>
@@ -68,7 +68,7 @@ Fargetilpasningen skjer separat for kontur- og ambientebelysningen som gir 900 f
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/ambientligscontrol2nb.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/ambientligscontrol2nbs.jpg"
-        alt="Kontroll av linjebelysning" title="Kontroll av linjebelysning">
+        class="img-fluid" alt="Kontroll av linjebelysning" title="Kontroll av linjebelysning">
     </a>
     <figcaption><h4>The lighs are controlled in MMI</h4></figcaption>
 </figure>
@@ -78,7 +78,7 @@ Fargen kan endres basert på kjøremodusen din i [Audi Drive Select](/models/e-t
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/multicolor.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/multicolors.jpg"
-        alt="Flerfarget interiørlys" title="Flerfarget interiørlys">
+        class="img-fluid" alt="Flerfarget interiørlys" title="Flerfarget interiørlys">
     </a>
     <figcaption><h4>Flerfarget interiørlys</h4></figcaption>
 </figure>
@@ -86,7 +86,7 @@ Fargen kan endres basert på kjøremodusen din i [Audi Drive Select](/models/e-t
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/ambientlight.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/ambientlights.jpg"
-        alt="Flerfarget omgivelseslys" title="Flerfarget omgivelseslys">
+        class="img-fluid" alt="Flerfarget omgivelseslys" title="Flerfarget omgivelseslys">
     </a>
     <figcaption><h4>Flerfarget omgivelseslys</h4></figcaption>
 </figure>
@@ -94,7 +94,7 @@ Fargen kan endres basert på kjøremodusen din i [Audi Drive Select](/models/e-t
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/ambientlight2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/ambientlight2s.jpg"
-        alt="Flerfarget omgivelseslys" title="Flerfarget omgivelseslys">
+        class="img-fluid" alt="Flerfarget omgivelseslys" title="Flerfarget omgivelseslys">
     </a>
     <figcaption><h4>Flerfarget omgivelseslys</h4></figcaption>
 </figure>

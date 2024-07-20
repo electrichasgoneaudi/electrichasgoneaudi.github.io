@@ -10,7 +10,7 @@ Så å kjøpe en Audi e-tron vil kreve at du tar mange avgjørelser om hvordan e
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/q8exterior.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/q8exterior_st.jpg"
-        alt="Audi e-tron Sportback" title="Audi e-tron Sportback">
+        class="img-fluid" alt="Audi e-tron Sportback" title="Audi e-tron Sportback">
     </a>
     <figcaption><h4>Audi Q8 e-tron and Audi SQ8</h4></figcaption>
 </figure>
@@ -32,4 +32,4 @@ Så du forstår at det ikke er mulig å vise alle mulige kombinasjoner på denne
 
 Se nedenfor for detaljer om de utvendige alternativene for eksteriør på Audi Q8 e-tron
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

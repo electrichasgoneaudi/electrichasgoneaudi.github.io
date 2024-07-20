@@ -12,7 +12,7 @@ Først produseres et støt for å advare føreren om faren. Hvis sjåføren da a
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/collisionavoidanceassist/collisionavoidance.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/collisionavoidanceassist/collisionavoidances.jpg"
-        alt="Unnamanøvreringsassistent" title="Unnamanøvreringsassistent">
+        class="img-fluid" alt="Unnamanøvreringsassistent" title="Unnamanøvreringsassistent">
     </a>
     <figcaption><h4>Unnamanøvreringsassistent</h4></figcaption>
 </figure>
@@ -20,4 +20,4 @@ Først produseres et støt for å advare føreren om faren. Hvis sjåføren da a
 
 Unnamanøvreringsassistent er standardutstyr på Audi Q4 e-tron. Tilvalgs id **4G3**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

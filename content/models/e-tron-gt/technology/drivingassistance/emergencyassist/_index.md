@@ -9,4 +9,4 @@ weight: 1
 
 This option is part of [the tour driver assistance package](../../../optionguide/list/#driver-asssist-systems) with option id **PCC**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

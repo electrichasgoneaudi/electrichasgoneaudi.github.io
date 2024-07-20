@@ -9,7 +9,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/exitwarning/exitwarning.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/exitwarning/exitwarnings.jpg"
-        alt="Exit warning" title="Exit warning">
+        class="img-fluid" alt="Exit warning" title="Exit warning">
     </a>
     <figcaption><h4>Exit warning Audi Q8 e-tron</h4></figcaption>
 </figure>
@@ -21,4 +21,4 @@ This system is based on the radar sensors of Audi side assist, which monitor the
 This is part of the city assistance package with option id **PCM**
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

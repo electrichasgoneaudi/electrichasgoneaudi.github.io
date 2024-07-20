@@ -18,7 +18,7 @@ Moduler er en kombinasjon av celler. Antall celler i en modul varierer.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/module_lg_pouch.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/module_lg_pouch.jpg"
-        alt="LG batterimodul" title="LG batterimodul">
+        class="img-fluid" alt="LG batterimodul" title="LG batterimodul">
     </a>
     <figcaption><h4>LG batterimodul</h4></figcaption>
 </figure>
@@ -65,7 +65,7 @@ gi dem optimale forhold. Under ser du en batteripakke fra Audi e-tron GT.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/batterypack_e-tron-gt.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/batterypack_e-tron-gts.jpg"
-        alt="Batteripakke med 33 moduler" title="Batteripakke med 33 moduler">
+        class="img-fluid" alt="Batteripakke med 33 moduler" title="Batteripakke med 33 moduler">
     </a>
     <figcaption><h4>Batteripakke med 33 moduler</h4></figcaption>
 </figure>
@@ -130,7 +130,7 @@ Teknologien er basert på å sette cellene direkte inn i pakken og øke energite
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/cell2pack.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/cell2packs.jpg"
-        alt="Volkswagen Cell2Pack-teknologi" title="Volkswagen Cell2Pack-teknologi">
+        class="img-fluid" alt="Volkswagen Cell2Pack-teknologi" title="Volkswagen Cell2Pack-teknologi">
     </a>
     <figcaption><h4>Volkswagen Cell2Pack-teknologi</h4></figcaption>
 </figure>
@@ -138,7 +138,7 @@ Teknologien er basert på å sette cellene direkte inn i pakken og øke energite
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/cell2packcomparison.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/cell2packcomparisons.jpg"
-        alt="Volkswagen Cell2Pack-sammenligning" title="Volkswagen Cell2Pack-sammenligning">
+        class="img-fluid" alt="Volkswagen Cell2Pack-sammenligning" title="Volkswagen Cell2Pack-sammenligning">
     </a>
     <figcaption><h4>Volkswagen Cell2Pack-sammenligning</h4></figcaption>
 </figure>

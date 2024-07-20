@@ -12,9 +12,9 @@ Den består av fire nivåer: det digitale instrumentpanelet eller Audi virtual c
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/uiandoperations.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/uiandoperationss.jpg"
-        alt="Audi Q4 brukergrensesnitt og operasjoner" title="Audi Q4 brukergrensesnitt og operasjoner">
+        class="img-fluid" alt="Audi Q4 brukergrensesnitt og operasjoner" title="Audi Q4 brukergrensesnitt og operasjoner">
     </a>
     <figcaption><h4>Audi Q4 brukergrensesnitt og operasjoner</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

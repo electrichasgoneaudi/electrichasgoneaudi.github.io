@@ -9,7 +9,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/presensefront/presencefront.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/presensefront/presencefronts.jpg"
-        alt="Audi pre sense front" title="Audi pre sense front">
+        class="img-fluid" alt="Audi pre sense front" title="Audi pre sense front">
     </a>
     <figcaption><h4>Audi pre sense front</h4></figcaption>
 </figure>
@@ -20,4 +20,4 @@ If a collision is imminent, the system warns the driver with visual, acoustic an
 
 Audi pre sense front is standard equipment on Audi Q8 e-tron.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -11,7 +11,7 @@ Garasjeportåpneren støtter opptil 8  porter og kan bli knyttet til en GPS loka
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/garagedooropener/opener2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/garagedooropener/opener2s.jpg"
-        alt="Du kan programmere opptil 8 porter." title="Du kan programmere opptil 8 porter.">
+        class="img-fluid" alt="Du kan programmere opptil 8 porter." title="Du kan programmere opptil 8 porter.">
     </a>
     <figcaption><h4>Du kan programmere opptil 8 porter.</h4></figcaption>
 </figure>
@@ -19,7 +19,7 @@ Garasjeportåpneren støtter opptil 8  porter og kan bli knyttet til en GPS loka
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/garagedooropener/opener1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/garagedooropener/opener1s.jpg"
-        alt="Du kan lagre GPS lokasjon til portene slik den foreslår riktig basert på posisjon" title="Du kan lagre GPS lokasjon til portene slik den foreslår riktig basert på posisjon">
+        class="img-fluid" alt="Du kan lagre GPS lokasjon til portene slik den foreslår riktig basert på posisjon" title="Du kan lagre GPS lokasjon til portene slik den foreslår riktig basert på posisjon">
     </a>
     <figcaption><h4>Du kan lagre GPS lokasjon til portene slik den foreslår riktig basert på posisjon</h4></figcaption>
 </figure>
@@ -27,7 +27,7 @@ Garasjeportåpneren støtter opptil 8  porter og kan bli knyttet til en GPS loka
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/garagedooropener/opener3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/garagedooropener/opener3s.jpg"
-        alt="Du kan aktivere garasjeportåpneren fra nedre MMI skjerm. Det er en egen snarvei" title="Du kan aktivere garasjeportåpneren fra nedre MMI skjerm. Det er en egen snarvei">
+        class="img-fluid" alt="Du kan aktivere garasjeportåpneren fra nedre MMI skjerm. Det er en egen snarvei" title="Du kan aktivere garasjeportåpneren fra nedre MMI skjerm. Det er en egen snarvei">
     </a>
     <figcaption><h4>Du kan aktivere garasjeportåpneren fra nedre MMI skjerm. Det er en egen snarvei</h4></figcaption>
 </figure>
@@ -38,4 +38,4 @@ Videon under viser hvordan den kan programmeres.
 
 {{< youtube bTaQN1YJ0hU >}}
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

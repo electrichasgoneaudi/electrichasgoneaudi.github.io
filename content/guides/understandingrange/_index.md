@@ -11,13 +11,14 @@ Europe or [EPA](https://evkx.net/guides/understandingrange/epa/) in the US.
 
 Below you see the range of the different current and some future Audi models. The range is from 341km (211 miles) to 700km (435 miles) according to the WLTP combined standard.
 
-![WLTP Range](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/wltprangebasictrim.png "WLTP Range all-electric Audis")
+
+{{< sitefiguresized thumb="guides/understandingrange/wltprangebasictrim_st.png" width="2074" height="1316" title="WLTP Range all-electric Audis" >}}
 
 The most important aspect of range is of course how large the battery is. A larger battery means more energy to use.
 
 The below chart shows the available battery size for the different models.
 
-![Battery size](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/batterysize.png "Available battery all-electric Audis")
+{{< sitefiguresized thumb="guides/understandingrange/batterysize_st.png" width="2075" height="1478" title="Available battery all-electric Audis" >}}
 
 But the battery is not the only factor in the stated range. Another important factor is how efficient the car is.
 
@@ -26,7 +27,7 @@ how many kWh is needed to drive 100km. In the US and the UK, it is rated as mile
 
 The below diagram shows the calculated consumption in kWh/100km for the different all-electric models is according to WLTP combined rating.
 
-![Consumption](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/wltpconsumptionbasictrim.png "Calculated consumption kWh/100km")
+{{< sitefiguresized thumb="guides/understandingrange/wltpconsumptionbasictrim_st.png" width="2059" height="1284" title="Calculated consumption kWh/100km" >}}
 
 ## What affects the WLTP consumption?
 
@@ -38,16 +39,11 @@ The aerodynamic drag affects how much energy is needed to move. The shape of the
 
 Audi A6 e-tron concept is currently the model with the lowest [drag coefficient](https://en.wikipedia.org/wiki/Drag_coefficient) with a Cw value on only 0.22
 
-![Audi A6 e-tron concept](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/audia6etron.jpg "Audi A6 e-tron with Cw value of only 0.22")
+{{< sitefiguresized thumb="guides/understandingrange/audia6etron_st.jpg" width="2059" height="1284" title="Audi A6 e-tron with Cw value of only 0.22" >}}
 
 In the below graph you see how much consumption the aerodynamic drag causes for the different model series for Audi.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/aerodynamicdrag.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/aerodynamicdrags.png" alt="Consumption caused by aerodynamic dra" title="Consumption caused by aerodynamic dra">
-    </a>
-    <figcaption><h4>Forbruk grunnet luftmotstand</h4></figcaption>
-</figure>
+{{< sitefiguresized thumb="guides/understandingrange/aerodynamicdrags_st.png" width="2976" height="1721" title="Consumption caused by aerodynamic dra" >}}
 
 Beregnede verdier for forbruk som kun kommer fra aerodynamisk luftmotstand basert på 80 % drivlinjeseffektivitet.
 
@@ -80,7 +76,7 @@ This is affected by the width of the tires, the weight of the car, the tire comp
 Audi RS e-tron GT has very wide tires with 285mm to get the best traction. This increases rolling resistance. As an option, you can
 get 305mm wide tires that increase traction and decreases range.
 
-![Audi RS e-tron GT](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/rsetrongt.jpg "Audi RS e-tron GT with 305mm rear tires")
+{{< sitefiguresized thumb="guides/understandingrange/rsetrongt_st.jpg" width="1579" height="1157" title="Audi RS e-tron GT with 305mm rear tires" >}}
 
 Some tire producers have started producing specific tires for EV with low rolling resistance that affect range.
 
@@ -104,7 +100,7 @@ Newer cars often combine these two techniques having a rear synchronous motor al
 Audi is working on the new PPE platform and already now we know that
 this drivetrain will have a improved effiency
 
-![PPE Drivetrain](https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/ppepresentation2.png "PPE Drivetrain")
+{{< sitefiguresized thumb="technology/bev-platforms/ppe/ppepresentation2_st.png" width="2016" height="1147" title="PPE Drivetrain" >}}
 
 ### The internal resistance of the battery
 
@@ -118,7 +114,7 @@ But other factors are affected by the equipment you add to your car. If you buy 
 
 The below diagram shows hows adding the max options of the car increase the WLTP consumption.
 
-![Consumption](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/optionsconsumption.jpg "WLTP Consumption added with options")
+{{< sitefiguresized thumb="guides/understandingrange/optionsconsumption_st.jpg" width="2276" height="1536" title="WLTP Consumption added with options" >}}
 
 From the diagram, you can see that an Audi e-tron 55 has a consumption of 19.61 kWh/100km in the basic trim, but 23.44 kWh/100km in the top trim.
 Reducing the range from 441km (274 miles)  to 369km (229 miles).
@@ -148,7 +144,7 @@ how adding 5KW heating on top of the WLTP consumption will affect range.  Up to 
 
 This not something that easily can be resolved. Heatpump can reduce this heat consumption depending on temprature. Better insulation of the cars also
 
-![How 5KW heating affect range on Audi Q4 50 e-tron and Audi e-tron 55](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/heating.jpg "How 5KW heating affect range on Audi Q4 50 e-tron and Audi e-tron 55")
+{{< sitefiguresized thumb="guides/understandingrange/heating_st.jpg" width="1855" height="847" title="How 5KW heating affect range on Audi Q4 50 e-tron and Audi e-tron 55" >}}
 
 ### The driving style
 
@@ -157,7 +153,7 @@ You as a driver can improve range a lot.
 - Look ahead and coast as much as possible
 - When needing to reduce speed, start reducing when possible so early that you only use recuperation.
 
-![Audi e-tron S in the wet](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/etronsinthewet.jpg "Audi e-tron S with a heavy foot")
+{{< sitefiguresized thumb="guides/understandingrange/etronsinthewet.jpg" width="2511" height="1578" title="Audi e-tron S in the wet" >}}
 
 ## How does the range indicator work on electric Audi
 
@@ -179,7 +175,7 @@ The range indicator  base its range on the following data
 - The state of charge (of much is the battery charged)
 - The planned route in the navigation system
 
-![Range indicator](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/virtualcockpit.png "Virtual cockpit with range indicator")
+{{< sitefiguresized thumb="guides/understandingrange/virtualcockpit_st.png" width="2000" height="941" title="Virtual cockpit with range indicator" >}}
 
 So assume you have an e-tron 55 with 86.5kWh battery and you have charged it to 100%.
 

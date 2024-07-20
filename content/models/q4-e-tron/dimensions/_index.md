@@ -11,7 +11,7 @@ weight: 3
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/dimensions/dimension.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/dimensions/dimension.jpg"
-        alt="Dimensions q4 e-tron" title="Dimensions q4 e-tron">
+        class="img-fluid" alt="Dimensions q4 e-tron" title="Dimensions q4 e-tron">
     </a>
     <figcaption><h4>Dimensions q4 e-tron</h4></figcaption>
 </figure>
@@ -21,7 +21,7 @@ weight: 3
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/dimensions/dimension.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/dimensions/dimension.jpg"
-        alt="Dimensions Q4 e-tron Sportback" title="Dimensions Q4 e-tron Sportback">
+        class="img-fluid" alt="Dimensions Q4 e-tron Sportback" title="Dimensions Q4 e-tron Sportback">
     </a>
     <figcaption><h4>Dimensions Q4 e-tron Sportback</h4></figcaption>
 </figure>

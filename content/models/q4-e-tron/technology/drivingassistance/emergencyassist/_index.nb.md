@@ -9,4 +9,4 @@ Nødstoppassistenten overvåker førerens styreaktivitet. Hvis den oppdager at f
 
 Dette alternativet er en del av assistansesystempakken pro med tilvalgsnr  **PY7** / **PY5**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

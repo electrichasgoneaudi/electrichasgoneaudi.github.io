@@ -11,7 +11,7 @@ Advarslene gis når avstanden til en gjenstand i kjørebanen er mindre enn 90 cm
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/parkingsystemplus/parkingsystemplus.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/parkingsystemplus/parkingsystempluss.jpg"
-        alt="Parking system plus i MMI" title="Parking system plus i MMI">
+        class="img-fluid" alt="Parking system plus i MMI" title="Parking system plus i MMI">
     </a>
     <figcaption><h4>Parking system plus i MMI</h4></figcaption>
 </figure>
@@ -19,7 +19,7 @@ Advarslene gis når avstanden til en gjenstand i kjørebanen er mindre enn 90 cm
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/parkingsystemplus/frontsensors.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/parkingsystemplus/frontsensorss.jpg"
-        alt="Parking system plus i MMI" title="Parking system plus i MMI">
+        class="img-fluid" alt="Parking system plus i MMI" title="Parking system plus i MMI">
     </a>
     <figcaption><h4>Front sensors</h4></figcaption>
 </figure>
@@ -27,8 +27,8 @@ Advarslene gis når avstanden til en gjenstand i kjørebanen er mindre enn 90 cm
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/parkingsystemplus/rearsensors.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/parkingsystemplus/rearsensorss.jpg"
-        alt="Parking system plus i MMI" title="Parking system plus i MMI">
+        class="img-fluid" alt="Parking system plus i MMI" title="Parking system plus i MMI">
     </a>
     <figcaption><h4>Front sensors</h4></figcaption>
 </figure>
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

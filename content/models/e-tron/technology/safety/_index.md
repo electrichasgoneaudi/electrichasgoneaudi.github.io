@@ -13,7 +13,7 @@ Audi e-tron has serveral airbags as standard.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/safety/frontairbags.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/safety/frontairbagss.jpg" alt="Front airbags - standard" title="Front airbags - standard">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/safety/frontairbagss.jpg" class="img-fluid" alt="Front airbags - standard" title="Front airbags - standard">
     </a>
     <figcaption><h4>Front airbags - standard</h4></figcaption>
 </figure>
@@ -25,7 +25,7 @@ Both front and rear are protect with head airbags.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/safety/sideairbags.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/safety/sideairbagss.jpg"
-        alt="Head airbags in front and rear" title="Head airbags in front and rear">
+        class="img-fluid" alt="Head airbags in front and rear" title="Head airbags in front and rear">
     </a>
     <figcaption><h4>Head airbags in front and rear</h4></figcaption>
 </figure>
@@ -37,7 +37,7 @@ In front there is standard with side Airbags build in to the seat that protects 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/safety/airbagssidefront.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/safety/airbagssidefronts.jpg"
-        alt="Side airbags front are standard" title="Side airbags front are standard">
+        class="img-fluid" alt="Side airbags front are standard" title="Side airbags front are standard">
     </a>
     <figcaption><h4>Side airbags front are standard</h4></figcaption>
 </figure>
@@ -50,7 +50,7 @@ included in the Audi Pre senmse backseat package **4X9**
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/safety/airbagssiderear.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/safety/airbagssiderears.jpg"
-        alt="Air bag side rear is optinal. Only head airbags are stanard on e-tron" title="Air bag side rear is optinal. Only head airbags are stanard on e-tron">
+        class="img-fluid" alt="Air bag side rear is optinal. Only head airbags are stanard on e-tron" title="Air bag side rear is optinal. Only head airbags are stanard on e-tron">
     </a>
     <figcaption><h4>Air bag side rear is optinal. Only head airbags are stanard on e-tron</h4></figcaption>
 </figure>
@@ -90,4 +90,4 @@ Audi e-tron has received full score on different crash testes. See below.
 
 {{< youtube V2jTxkptYm8 >}}
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -1,0 +1,38 @@
+<header class="sticky-top bg-dark">
+  <div class="container">
+    <nav class="navbar navbar-expand-lg bg-dark border-bottom border-body" data-bs-theme="dark">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="{{ with .Site.GetPage `/`}}{{.RelPermalink}}{{end}}">
+          <img class="img-fluid" src="/images/logo200b.png" class="img-fluid" alt="EHGA logo">
+        </a>
+         <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-ld-0">
+            <li class="nav-item">
+              <a class="nav-link" href="{{ with .Site.GetPage `/models/`}}{{.RelPermalink}}{{end}}">
+                {{ T "menu-models"}}
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{ with .Site.GetPage `/technology/`}}{{.RelPermalink}}{{end}}">
+                {{ T "menu-technology"}}
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{ with .Site.GetPage `/guides/`}}{{.RelPermalink}}{{end}}">           
+                {{ T "menu-guides"}} 
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{ with .Site.GetPage `/articles/`}}{{.RelPermalink}}{{end}}">
+                {{ T "menu-articles"}}
+              </a>
+            </li>
+          </ul>
+        </div>
+        <button type="button" class="btn btn-outline-dark" data-bs-toggle="offcanvas" data-bs-target="#offcanvasDarkNavbar" aria-controls="offcanvasDarkNavbar" aria-label="Toggle navigation"> 
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      </div>
+    </nav>
+  </div>
+</header>

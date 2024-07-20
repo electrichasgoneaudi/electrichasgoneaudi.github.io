@@ -9,7 +9,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/turnassist/turnassist.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/turnassist/turnassists.jpg"
-        alt="Audi Q4 e-tron avkjøringsassistent" title="Audi Q4 e-tron avkjøringsassistent">
+        class="img-fluid" alt="Audi Q4 e-tron avkjøringsassistent" title="Audi Q4 e-tron avkjøringsassistent">
     </a>
     <figcaption><h4>Audi Q4 e-tron avkjøringsassistent</h4></figcaption>
 </figure>
@@ -18,4 +18,4 @@ Overvåking settes i gang så snart føreren setter blinklyset. Når du kjører 
 
 Avkjøringsassistent er standard på Q4 e-tron og del av alternativ **4G3**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

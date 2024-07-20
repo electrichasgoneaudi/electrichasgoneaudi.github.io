@@ -12,7 +12,7 @@ Først produseres et støt for å advare sjåføren om faren. Hvis sjåføren da
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/collisionavoidanceassist/collisionavoidance.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/collisionavoidanceassist/collisionavoidances.jpg"
-        alt="Unnamanøvreringsassistent" title="Unnamanøvreringsassistent">
+        class="img-fluid" alt="Unnamanøvreringsassistent" title="Unnamanøvreringsassistent">
     </a>
     <figcaption><h4>Unnamanøvreringsassistent</h4></figcaption>
 </figure>
@@ -20,4 +20,4 @@ Først produseres et støt for å advare sjåføren om faren. Hvis sjåføren da
 
 Dette er en del av turpakken med tilvalgs-id **PCC** på Audi e-tron GT
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

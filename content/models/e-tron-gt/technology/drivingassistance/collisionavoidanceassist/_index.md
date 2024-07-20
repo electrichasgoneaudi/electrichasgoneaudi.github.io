@@ -12,7 +12,7 @@ First, a jolt is produced to warn the driver of the hazard. If the driver then a
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/collisionavoidanceassist/collisionavoidance.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/collisionavoidanceassist/collisionavoidances.jpg"
-        alt="Collision avoidance" title="Collision avoidance">
+        class="img-fluid" alt="Collision avoidance" title="Collision avoidance">
     </a>
     <figcaption><h4>Collision avoidance</h4></figcaption>
 </figure>
@@ -20,4 +20,4 @@ First, a jolt is produced to warn the driver of the hazard. If the driver then a
 
 This is part of the tour package with option id **PCC** on Audi e-tron GT
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

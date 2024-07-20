@@ -3,6 +3,7 @@ title: Audi q4 e-tron
 linktitle: Audi Q4 e-tron
 description: Audi Q4 e-tron is available with different motors, batteries, technology, and design options and has a WLTP range of up to 532km(330mi).
 weight: 3
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 The Audi Q4 e-tron and the Q4 Sportback e-tron are the first compact electric SUVs and the third all-electric model from Audi.
@@ -12,12 +13,7 @@ Both SUV and Sportback versions impress with a new spacious dimension in the int
 
 The world premiere was on April 14. 2021.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/variants1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/variants/variants1s.jpg" alt="Different variants of the Audi Q4 e-tron and Audi Q4 e-tron Sportback" title="Different variants of the Audi Q4 e-tron and Audi Q4 e-tron Sportback">
-    </a>
-    <figcaption><h4>Different variants of the Audi Q4 e-tron and Audi Q4 e-tron Sportback</h4></figcaption>
-</figure>
+{{< sitefiguresized thumb="models/q4-e-tron/variants/variants1_st.jpg" width="2500" height="1041" title="Different variants of the Audi Q4 e-tron and Audi Q4 e-tron Sportback" >}}
 
 This article goes deep into every aspect of the Audi Q4 e-tron. For each area, there are subsections with even more details.
 
@@ -50,13 +46,15 @@ Its sporty character emerges from the striking proportions – thanks to short f
 
 The high, upright front symbolizes the robustness and strength of the Audi Q4 e-tron and the Q4 Sportback e-tron. Their dominant element is the large Singleframe – with its eight corners, it is characteristic of an SUV from Audi. A new feature that is typical for electric vehicles is the enclosed Singleframe and the inverted color design: The chrome frame is bordered by a wide mask in a dark contrasting paint finish, a structured surface with horizontal inserts forms the insert for the radiator grille. The Four Rings integrate various sensors as a full-surface element which then disappear behind the brand logo – a new feature at Audi. A powerfully contoured, curved blade extends under the Singleframe, running sharply up at the ends.
 
-![Sportback](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_typhoongrey_6s.jpg)
+
+{{< sitefiguresized thumb="models/q4-e-tron/exterior/paint/paint_typhoongrey_6s_st.jpg" width="800" height="533" title="Audi Q4 Sportback" >}}
 
 When viewed from the side, the unusually flat A-pillars catch the eye – and provide the entire greenhouse with an elegant flow. The roofline stretches low over the body, ending on the Sportback in a long D-pillar. The third side window rises up in an opposing direction – a typical feature of the Sportback. The top of the window points toward the spoiler, which sits on the lower section of the split rear window. On the Q4 e-tron, which has a roof edge spoiler that finishes off the powerful D-pillar, a black insert strip runs across the whole of the roofline. It separates the rear end of the roof visually from the rest of the body and makes it appear to float – an effect that accentuates the sporty character of the vehicle.
 
 The sides of both electric SUVs feature taut contours. In both models, the external mirrors sit on the door rail in the style of a sports car. The doors feature overlapping horizontal edges that create an interplay of light and shadow. In the lower area of the doors, striking contours hint at the high-voltage battery pack, the vehicle’s beating heart. The muscular blisters, which extend across the wheel housings, highlight the wheels in a powerful expression and point to Audi’s quattro expertise. They feature a slightly softer and more flowing design than on the models with a combustion engine. The rear blisters run around the D-pillars and into the luggage compartment cover.
 
-![Typhoon Grey](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_typhoongrey_1s.jpg)
+{{< sitefiguresized thumb="models/q4-e-tron/exterior/paint/paint_typhoongrey_1_st.jpg" width="2470" height="1372" title="Audi Q4 Typhoon Grey" >}}
+
 
 Horizontal lines emphasize the width across the whole of the rear section, while the raised diffusor creates a powerful, sporty accent. An e-tron logo is embossed in the bumper, another one in the Singleframe
 
@@ -66,7 +64,9 @@ Audi supplies both models with the advanced and [S line](exterior/s-line/) exter
 
 The Singleframe also differs depending on the line – on the S line, chrome elements lend it its own distinctive look. Here, and also in the advanced line, the lower add-on parts feature a contrasting paint finish in metallic Manhattan gray; in the optional [full paint finish](exterior/paint/#full-body-paint) customers can choose between four colors, while there are also 19- and 20-inch aluminum wheels. 
 
-![Black optics](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/optics/optics_black_1.jpg)
+
+{{< sitefiguresized thumb="models/q4-e-tron/exterior/optics/optics_black_1_st.jpg" width="2100" height="1500" title="Black optics" >}}
+
 
 The [black optics package](exterior/optics/#black-optics), with optional [black caps](exterior/mirrors/#mirror-style) for the [exterior mirrors](exterior/mirrors/), creates an even sportier appearance. The Four Rings on the Singleframe and the type designation are also available in black in the [black optics plus](exterior/optics/#black-optics-plus) package. A roof rail comes as standard on the Q4 e-tron.
 

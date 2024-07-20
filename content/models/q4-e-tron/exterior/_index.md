@@ -10,7 +10,7 @@ Buying an Audi e-tron will require you to make lots of decision how the exeriour
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/exterior.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/exteriors.jpg"
-        alt="Lots of exterior options" title="Lots of exterior options">
+        class="img-fluid" alt="Lots of exterior options" title="Lots of exterior options">
     </a>
     <figcaption><h4>Lots of exterior options</h4></figcaption>
 </figure>
@@ -23,4 +23,4 @@ Then you need to decide color and wheels and many other options
 
 See below for the exterior options.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

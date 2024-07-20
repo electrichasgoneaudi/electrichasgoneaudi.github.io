@@ -12,7 +12,7 @@ The wheel suspensions are designed as a sporty double wishbone construction. It 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/suspensions1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/suspensions1s.jpg"
-        alt="Suspension" title="Suspension">
+        class="img-fluid" alt="Suspension" title="Suspension">
     </a>
     <figcaption><h4>Suspension</h4></figcaption>
 </figure>
@@ -22,7 +22,7 @@ As part of the optional dynamic package with id **PA2** on Audi e-tron GT and in
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/4wheelsteering.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/4wheelsteerings.jpg"
-        alt="Audi e-tron GT 4 wheel steering" title="Audi e-tron GT 4 wheel steering">
+        class="img-fluid" alt="Audi e-tron GT 4 wheel steering" title="Audi e-tron GT 4 wheel steering">
     </a>
     <figcaption><h4>Audi e-tron GT 4 wheel steering</h4></figcaption>
 </figure>
@@ -34,7 +34,7 @@ While the adaptive air suspension is optional in the Audi e-tron GT quattro, it 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/suspension3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/suspension3s.jpg"
-        alt="3 chamber air suspension" title="3 chamber air suspension">
+        class="img-fluid" alt="3 chamber air suspension" title="3 chamber air suspension">
     </a>
     <figcaption><h4>3 chamber air suspension</h4></figcaption>
 </figure>
@@ -44,7 +44,7 @@ The air suspension can adjust the body to different heights. It lowers the body 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/suspension2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/suspension2s.jpg"
-        alt="3 chamber air suspension" title="3 chamber air suspension">
+        class="img-fluid" alt="3 chamber air suspension" title="3 chamber air suspension">
     </a>
     <figcaption><h4>3 chamber air suspension</h4></figcaption>
 </figure>
@@ -54,7 +54,7 @@ The below diagram shows the different ride levels depending on settings and spee
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/ridelevel.png">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/ridelevels.png"
-        alt="Ridelevel Audi e-tron GT with adaptive air suspension" title="Ridelevel Audi e-tron GT with adaptive air suspension">
+        class="img-fluid" alt="Ridelevel Audi e-tron GT with adaptive air suspension" title="Ridelevel Audi e-tron GT with adaptive air suspension">
     </a>
     <figcaption><h4>Ridelevel Audi e-tron GT with adaptive air suspension</h4></figcaption>
 </figure>
@@ -66,7 +66,7 @@ In the Audi drive select dynamic handling system (standard), the driver can spec
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/driveselect_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/driveselect_1s.jpg"
-        alt="Drive Select menu" title="Drive Select menu">
+        class="img-fluid" alt="Drive Select menu" title="Drive Select menu">
     </a>
     <figcaption><h4>Drive Select menu</h4></figcaption>
 </figure>
@@ -88,7 +88,7 @@ If you want the Audi e-tron GT lower there are 3. party options
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering1s.jpg"
-        alt="Audi e-tron GT with Ghost Links" title="Audi e-tron GT with Ghost Links">
+        class="img-fluid" alt="Audi e-tron GT with Ghost Links" title="Audi e-tron GT with Ghost Links">
     </a>
     <figcaption><h4>Audi e-tron GT with Ghost Links - 25mm lowered</h4></figcaption>
 </figure>
@@ -96,7 +96,7 @@ If you want the Audi e-tron GT lower there are 3. party options
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering2s.jpg"
-        alt="Audi e-tron GT with Ghost Links" title="Audi e-tron GT with Ghost Links">
+        class="img-fluid" alt="Audi e-tron GT with Ghost Links" title="Audi e-tron GT with Ghost Links">
     </a>
     <figcaption><h4>Audi e-tron GT with Ghost Links - 25mm lowered</h4></figcaption>
 </figure>
@@ -104,7 +104,7 @@ If you want the Audi e-tron GT lower there are 3. party options
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering3s.jpg"
-        alt="Audi e-tron GT with Ghost Links" title="Audi e-tron GT with Ghost Links">
+        class="img-fluid" alt="Audi e-tron GT with Ghost Links" title="Audi e-tron GT with Ghost Links">
     </a>
     <figcaption><h4>Audi e-tron GT with Ghost Links - 25mm lowered</h4></figcaption>
 </figure>

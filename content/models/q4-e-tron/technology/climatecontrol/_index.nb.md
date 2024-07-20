@@ -18,7 +18,7 @@ Kontrollene er plassert rett under MMI-skjermen.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/ac1zonecontrol.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/ac1zonecontrols.jpg"
-        alt="AC-en har et eget kontrollpanel under MMI-skjermen" title="AC-en har et eget kontrollpanel under MMI-skjermen">
+        class="img-fluid" alt="AC-en har et eget kontrollpanel under MMI-skjermen" title="AC-en har et eget kontrollpanel under MMI-skjermen">
     </a>
     <figcaption><h4>AC-en har et eget kontrollpanel under MMI-skjermen</h4></figcaption>
 </figure>
@@ -32,7 +32,7 @@ I front betyr dette at passasjer og sjåfør kan ha individuelt innstilte temper
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/ac3zonecontrol.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/ac3zonecontrols.jpg"
-        alt="3-soners klimakontrollsystem med individuell temp for sjåfør/passasjer" title="3-soners klimakontrollsystem med individuell temp for sjåfør/passasjer">
+        class="img-fluid" alt="3-soners klimakontrollsystem med individuell temp for sjåfør/passasjer" title="3-soners klimakontrollsystem med individuell temp for sjåfør/passasjer">
     </a>
     <figcaption><h4>3-soners klimakontrollsystem med individuell temp for sjåfør/passasjer</h4></figcaption>
 </figure>
@@ -42,7 +42,7 @@ I front betyr dette at passasjer og sjåfør kan ha individuelt innstilte temper
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/rearaccontrol.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/rearaccontrols.jpg"
-        alt="AC-en har et separat kontrollpanel for baksetene" title="AC-en har et separat kontrollpanel for baksetene">
+        class="img-fluid" alt="AC-en har et separat kontrollpanel for baksetene" title="AC-en har et separat kontrollpanel for baksetene">
     </a>
     <figcaption><h4>AC-en har et separat kontrollpanel for baksetene</h4></figcaption>
 </figure>
@@ -70,7 +70,7 @@ Komfort førklimatisering er en del av [klima- og vinterpakken](/models/q4-e-tro
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/conviencesettingsnb.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/conviencesettingsnbs.jpg"
-        alt="Komfortinnstillinger" title="Komfortinnstillinger">
+        class="img-fluid" alt="Komfortinnstillinger" title="Komfortinnstillinger">
     </a>
     <figcaption><h4>Komfortinnstillinger</h4></figcaption>
 </figure>

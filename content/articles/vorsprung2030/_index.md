@@ -21,7 +21,7 @@ Speaking at the “Corporate & Business” theme day during the Audi Media Days 
 
 <figure>
     <a href="vorsprung2030_1.jpg">
-        <img src="vorsprung2030_1s.jpg" alt="Audi charging hub" title="Audi charging hub">
+        <img src="vorsprung2030_1s.jpg" class="img-fluid" alt="Audi charging hub" title="Audi charging hub">
     </a>
     <figcaption><h4>Audi charging hub</h4></figcaption>
 </figure>
@@ -62,4 +62,4 @@ As such, it is only logical for Audi to continue expanding its business in China
 
 “Our approach here is based on the idea of ‘In China for China’, and as such, Audi is focusing on the specific needs of customers in the world’s largest automotive market and actively driving innovation,” said Werner Eichhorn, president of Audi China. “Together with our two partners FAW and SAIC, we are well prepared for the challenges of the future.” To date, Audi has shipped a total of more than 7 million vehicles in the Chinese market, selling 727,358 vehicles in China in 2020 alone. In the first half of 2021, this figure stood at 418,749 vehicles.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

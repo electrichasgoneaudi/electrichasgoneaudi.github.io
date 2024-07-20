@@ -321,4 +321,4 @@ Du kan velge mellom flere varianter av seter og setematerialer på Audi e-tron. 
 | Deaktiveringsbryter for kollisjonsputen på passasjersiden foran | For passenger seat, standard |   |
 | [Audi pre sense-baksetepakke](../../technology/safety/#audi-pre-sense-back-seat-pacakge) |  | 4X9 |
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -14,7 +14,7 @@ Interiørets sterke fokus på føreren – inspirert av «monoposto»-konseptet,
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/monoposto.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/monoposto.jpg" 
-        alt="Monoposto concept" title="Monoposto concept">
+        class="img-fluid" alt="Monoposto concept" title="Monoposto concept">
     </a>
     <figcaption><h4>Monoposto concept</h4></figcaption>
 </figure>
@@ -42,7 +42,7 @@ Den svarte skinnfrie designpakken er tilgjengelig for sportssetene pluss. Polstr
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEF_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEF_1s.jpg" 
-        alt="RS designpakke rød med karboninnlegg og interiørlys" title="RS designpakke rød med karboninnlegg og interiørlys">
+        class="img-fluid" alt="RS designpakke rød med karboninnlegg og interiørlys" title="RS designpakke rød med karboninnlegg og interiørlys">
     </a>
     <figcaption><h4>RS designpakke rød med karboninnlegg og interiørlys</h4></figcaption>
 </figure>
@@ -57,7 +57,7 @@ Det store bruksområdet på instrumentpanelet er malt i finlakkert finish, grafi
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interior.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interior.jpg" 
-        alt="Audi RS e-tron GT med Audi eksklusivt interiør. Foto av Auditography" title="Audi RS e-tron GT med Audi eksklusivt interiør. Foto av Auditography">
+        class="img-fluid" alt="Audi RS e-tron GT med Audi eksklusivt interiør. Foto av Auditography" title="Audi RS e-tron GT med Audi eksklusivt interiør. Foto av Auditography">
     </a>
     <figcaption><h4>Audi RS e-tron GT med Audi eksklusivt interiør. Foto av Auditography</h4></figcaption>
 </figure>
@@ -66,4 +66,4 @@ Audi exclusive-programmet fra Audi Sport GmbH oppfyller mange personlige kundefo
 
 Nedenfor finner du alle detaljer om interiøralternativene.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

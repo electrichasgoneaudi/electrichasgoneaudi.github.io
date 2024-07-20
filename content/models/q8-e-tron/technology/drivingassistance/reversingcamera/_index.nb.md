@@ -8,7 +8,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/reversingcamera/rearviewcamera.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/reversingcamera/rearviewcameras.jpg"
-        alt="ryggekamera" title="ryggekamera">
+        class="img-fluid" alt="ryggekamera" title="ryggekamera">
     </a>
     <figcaption><h4>ryggekamera</h4></figcaption>
 </figure>
@@ -17,4 +17,4 @@ Den viser beregnet kjørespor basert på styrevinkelen samt hjelpelinjer og lede
 
 Ryggekamera er standardutstyr. Se også [360 kamera](../360camera/)
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

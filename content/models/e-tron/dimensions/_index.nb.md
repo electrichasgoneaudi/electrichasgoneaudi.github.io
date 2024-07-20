@@ -10,7 +10,7 @@ weight: 3
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/dimensions/dimension.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/dimensions/dimensions.png" alt="Dimensjoner e-tron" title="Dimensjoner e-tron">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/dimensions/dimensions.png" class="img-fluid" alt="Dimensjoner e-tron" title="Dimensjoner e-tron">
     </a>
     <figcaption><h4>Dimensjoner e-tron</h4></figcaption>
 </figure>
@@ -19,9 +19,9 @@ weight: 3
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/dimensions/dimensionsb.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/dimensions/dimensionsbs.png" alt="Dimensjoner e-tron Sportback" title="Dimensjoner e-tron Sportback">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/dimensions/dimensionsbs.png" class="img-fluid" alt="Dimensjoner e-tron Sportback" title="Dimensjoner e-tron Sportback">
     </a>
     <figcaption><h4>Dimensjoner e-tron Sportback</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -20,7 +20,7 @@ drive and maximum comfort. In short: Vorsprung durch Technik.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/mlb-evo/mlbevo1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/mlb-evo/mlbevo1s.jpg"
-        alt="Audi MLB evo platform" title="Audi MLB evo platform">
+        class="img-fluid" alt="Audi MLB evo platform" title="Audi MLB evo platform">
     </a>
     <figcaption><h4>Audi MLB evo platform</h4></figcaption>
 </figure>
@@ -37,7 +37,7 @@ Read all details about [e-tron motors](/models/e-tron/drivetrain/motor).
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/mlb-evo/mlbevo2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/mlb-evo/mlbevo2s.jpg"
-        alt="Audi MLB evo platform with 3 motors" title="Audi MLB evo platform with 3 motors">
+        class="img-fluid" alt="Audi MLB evo platform with 3 motors" title="Audi MLB evo platform with 3 motors">
     </a>
     <figcaption><h4>Audi MLB evo platform with 3 motors</h4></figcaption>
 </figure>
@@ -46,4 +46,4 @@ The Audi e-tron can charge using both alternating and direct
 current and is the first series-production vehicle with a charging capacity of up to 150 kW. It
 owes this to its highly efficient thermal management.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

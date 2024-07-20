@@ -14,7 +14,7 @@ OptionId **9VD**
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/soundsystem/standard_door_speaker.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/soundsystem/standard_door_speakers.jpg"
-        alt="Standard dørhøyttalere" title="Standard dørhøyttalere">
+        class="img-fluid" alt="Standard dørhøyttalere" title="Standard dørhøyttalere">
     </a>
     <figcaption><h4>Standard dørhøyttalere</h4></figcaption>
 </figure>
@@ -26,7 +26,7 @@ Bang & Olufsen lydsystem med 3D-lyd tilbyr en fascinerende funksjon for hi-fi-fa
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/soundsystem/bo_door_speaker.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/soundsystem/bo_door_speakers.jpg"
-        alt="Basshøyttaler i inngangsdør med B&O system" title="Basshøyttaler i inngangsdør med B&O system">
+        class="img-fluid" alt="Basshøyttaler i inngangsdør med B&O system" title="Basshøyttaler i inngangsdør med B&O system">
     </a>
     <figcaption><h4>Basshøyttaler i inngangsdør med B&O system</h4></figcaption>
 </figure>
@@ -38,7 +38,7 @@ Illustrasjonen under viser hvor de 16 forskjellige høyttalerne er plassert.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/soundsystem/soundsystem1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/soundsystem/soundsystem1s.jpg"
-        alt="Bang & Olufsen lydsystem med 16 høyttalere" title="Bang & Olufsen lydsystem med 16 høyttalere">
+        class="img-fluid" alt="Bang & Olufsen lydsystem med 16 høyttalere" title="Bang & Olufsen lydsystem med 16 høyttalere">
     </a>
     <figcaption><h4>Bang & Olufsen lydsystem med 16 høyttalere</h4></figcaption>
 </figure>

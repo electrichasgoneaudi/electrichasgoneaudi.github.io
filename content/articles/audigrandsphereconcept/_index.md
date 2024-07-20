@@ -8,7 +8,7 @@ weight: 100005
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_1s.jpg" alt="Audi grandsphere concept" title="Audi grandsphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_1s.jpg" class="img-fluid" alt="Audi grandsphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi grandsphere concept</h4></figcaption>
 </figure>
@@ -41,7 +41,7 @@ Even the “sphere” in the name sends a signal: the heart of the Audi skyspher
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_6s.jpg" alt="Audi grandsphere doors" title="Audi grandsphere doors">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_6s.jpg" class="img-fluid" alt="Audi grandsphere doors" title="Audi grandsphere doors">
     </a>
     <figcaption><h4>Audi grandsphere doors</h4></figcaption>
 </figure>
@@ -56,7 +56,7 @@ The change in the comfort zone is radical: if the boss’ seat is in the back in
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_3s.jpg" alt="Audi grandsphere doors" title="Audi grandsphere doors">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_3s.jpg" class="img-fluid" alt="Audi grandsphere doors" title="Audi grandsphere doors">
     </a>
     <figcaption><h4>Audi grandsphere doors</h4></figcaption>
 </figure>
@@ -67,7 +67,7 @@ The seating surfaces and backs of the two seats with integrated belts are visual
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_4s.jpg" alt="Audi grandsphere concept" title="Audi grandsphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_4s.jpg" class="img-fluid" alt="Audi grandsphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi grandsphere concept</h4></figcaption>
 </figure>
@@ -82,7 +82,7 @@ Instead, there are clearly articulated and sedate areas with materials of the hi
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_5s.jpg" alt="Audi grandsphere concept" title="Audi grandsphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_5s.jpg" class="img-fluid" alt="Audi grandsphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi grandsphere concept</h4></figcaption>
 </figure>
@@ -118,7 +118,7 @@ The headlight units on the upper side of the Singleframe look narrow, like focus
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_7.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_7s.jpg" alt="Audi grandsphere concept" title="Audi grandsphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_7s.jpg" class="img-fluid" alt="Audi grandsphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi grandsphere concept</h4></figcaption>
 </figure>
@@ -137,7 +137,7 @@ The heart of the drive system is the 800 volt charging technology. Like the Audi
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_4s.jpg" alt="Audi grandsphere concept" title="Audi grandsphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_4s.jpg" class="img-fluid" alt="Audi grandsphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi grandsphere concept with fast charging</h4></figcaption>
 </figure>
@@ -156,4 +156,4 @@ The reason: the Audi grandsphere concept has active suspension. The high-tech sy
 
 {{< youtube z6PIrszFWSg >}}
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

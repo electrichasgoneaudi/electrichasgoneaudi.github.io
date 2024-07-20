@@ -8,7 +8,7 @@ weight: 3
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/headliner/headliner_black.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/headliner/headliner_blacks.jpg"
-        alt="Standard sort taktrekk - tilvalg 6NJ" title="Standard sort taktrekk - tilvalg 6NJ">
+        class="img-fluid" alt="Standard sort taktrekk - tilvalg 6NJ" title="Standard sort taktrekk - tilvalg 6NJ">
     </a>
     <figcaption><h4>Standard sort taktrekk - tilvalg 6NJ</h4></figcaption>
 </figure>
@@ -16,7 +16,7 @@ weight: 3
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/headliner/headliner_dinamica.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/headliner/headliner_dinamicas.jpg"
-        alt="Dinamica taktrekk - tilvalg 6NC" title="Dinamica taktrekk - tilvalg 6NC">
+        class="img-fluid" alt="Dinamica taktrekk - tilvalg 6NC" title="Dinamica taktrekk - tilvalg 6NC">
     </a>
     <figcaption><h4>Dinamica taktrekk - tilvalg 6NC</h4></figcaption>
 </figure>

@@ -56,4 +56,4 @@ High temperatures hurt the battery. If you live in an area with high temperature
 
 You can find more about degradation in our [battery guide](../../../technology/battery/).
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

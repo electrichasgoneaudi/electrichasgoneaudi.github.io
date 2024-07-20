@@ -3,6 +3,7 @@ title: Audi Q4 e-tron windows
 linktitle: Windows
 description: Audi Q4 e-tron have some windows options
 weight: 5
+sectiontabs: "/models/q4-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 The standard front window have
@@ -16,7 +17,7 @@ in the luggage room.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/windows/privacywindows.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/windows/privacywindowss.jpg"
-        alt="Privacy windows" title="Privacy windows">
+        class="img-fluid" alt="Privacy windows" title="Privacy windows">
     </a>
     <figcaption><h4>Privacy windows</h4></figcaption>
 </figure>
@@ -24,7 +25,7 @@ in the luggage room.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/windows/paint_typhoongrey_2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/windows/paint_typhoongrey_2s.jpg"
-        alt="Privacy windows on a Audi Q4 e-tron with Typhoon color" title="Privacy windows on a Audi Q4 e-tron with Typhoon color">
+        class="img-fluid" alt="Privacy windows on a Audi Q4 e-tron with Typhoon color" title="Privacy windows on a Audi Q4 e-tron with Typhoon color">
     </a>
     <figcaption><h4>Privacy windows on a Audi Q4 e-tron with Typhoon color</h4></figcaption>
 </figure>
@@ -41,4 +42,4 @@ As an option (optionID **VW6**) you can order acousting window for the side wind
 
 This reduce noise in the cabin.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

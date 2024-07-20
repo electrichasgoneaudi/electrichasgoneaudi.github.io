@@ -24,7 +24,7 @@ Bremsesystemet kan også blande inn sømløst de fysiske bremsene (skiver/klosse
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/recuperation.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/recuperations.png" alt="Coasting regneration" title="Coasting regneration">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/recuperations.png" class="img-fluid" alt="Coasting regneration" title="Coasting regneration">
     </a>
     <figcaption><h4>Coasting regneration</h4></figcaption>
 </figur>
@@ -53,7 +53,7 @@ La oss ta Pikes Peak som et eksempel. Dette fjellet er 4300 meter høyt, og hvis
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/pikespeak.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/pikespeaks.jpg" alt="Kjøre ned Pikes Peak i Audi e-tron" title="Kjøre ned Pikes Peak i Audi e-tron">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/pikespeaks.jpg" class="img-fluid" alt="Kjøre ned Pikes Peak i Audi e-tron" title="Kjøre ned Pikes Peak i Audi e-tron">
     </a>
     <figcaption><h4>Audi e-tron på vei ned Pikes Peak</h4></figcaption>
 </figur>
@@ -74,7 +74,7 @@ I dette scenariet beveger bilen seg i 120,7 km/t (75 mph) og må stoppe for rød
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/stops.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/stops.jpg" alt="Full stop fra 120 km/t" title="Full stop fra 120 km/t">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/stops.jpg" class="img-fluid" alt="Full stop fra 120 km/t" title="Full stop fra 120 km/t">
     </a>
     <figcaption><h4>Full stop fra 120 km/t</h4></figcaption>
 </figure>
@@ -91,7 +91,7 @@ Dette betyr en forbruksreduksjon på 3,8kWh/100km.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/fullstop.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/fullstops.jpg" alt="Bykjøring" title="Bykjøring">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/fullstops.jpg" class="img-fluid" alt="Bykjøring" title="Bykjøring">
     </a>
     <figcaption><h4>Bykjøring</h4></figcaption>
 </figure>
@@ -201,7 +201,7 @@ Grafen nedenfor viser den totale kinetiske energien og de to typene kinetisk ene
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/kinetic.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/kinetics.png" alt="Graf over kinetisk energi" title="Graf over kinetisk energi">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/kinetics.png" class="img-fluid" alt="Graf over kinetisk energi" title="Graf over kinetisk energi">
     </a>
     <figcaption><h4>Graff over kinetisk energi</h4></figcaption>
 </figur>
@@ -216,7 +216,7 @@ En bil i bevegelse vil ha krefter basert på luftmotstand som vil presse mot bev
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/windtunnel.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/windtunnels.jpg" alt="Audi e-tron i vindtunnel" title="Audi e-tron i vindtunnel">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/windtunnels.jpg" class="img-fluid" alt="Audi e-tron i vindtunnel" title="Audi e-tron i vindtunnel">
     </a>
     <figcaption><h4>Audi e-tron i vindtunnel</h4></figcaption>
 </figur>
@@ -258,7 +258,7 @@ Diagrammet nedenfor viser det beregnede forbruket som er nødvendig for å overv
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/consumption.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/consumptions.png" alt="Kalkulert forbruk" title="Kalkulert forbruk">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/consumptions.png" class="img-fluid" alt="Kalkulert forbruk" title="Kalkulert forbruk">
     </a>
     <figcaption><h4>Beregnet forbruk</h4></figcaption>
 </figur>
@@ -305,7 +305,7 @@ Den eneste måten å vite hvor mye du har regenerert er å se på hvor mye ladet
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/soc.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/soc.jpg" alt="Ladetilstand, den eneste måten å se hvor mye du har regenerert" title="Ladetilstand, den eneste måten å se hvor mye du har regenerert">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/soc.jpg" class="img-fluid" alt="Ladetilstand, den eneste måten å se hvor mye du har regenerert" title="Ladetilstand, den eneste måten å se hvor mye du har regenerert">
     </a>
     <figcaption><h4>Ladetilstand, den eneste måten å se hvor mye du har regenerert</h4></figcaption>
 </figure>

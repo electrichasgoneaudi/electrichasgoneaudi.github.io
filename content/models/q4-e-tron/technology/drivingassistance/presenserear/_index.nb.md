@@ -9,7 +9,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/presenserear/audipresenserear.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/presenserear/audipresenserears.jpg"
-        alt="Audi pre sense rear" title="Audi pre sense rear">
+        class="img-fluid" alt="Audi pre sense rear" title="Audi pre sense rear">
     </a>
     <figcaption><h4>Audi pre sense rear</h4></figcaption>
 </figure>
@@ -18,4 +18,4 @@ Disse inkluderer forstramming av setebeltene foran med elektrisk kraft og lukkin
 
 Dette er en del av sikkerhetspakken pluss med tilvalgs ID **PYU**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

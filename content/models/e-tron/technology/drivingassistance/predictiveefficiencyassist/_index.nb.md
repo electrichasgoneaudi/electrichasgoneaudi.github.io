@@ -9,7 +9,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/predictiveefficient.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/predictiveefficients.jpg"
-        alt="Effektivitetsassistent" title="Effektivitetsassistent">
+        class="img-fluid" alt="Effektivitetsassistent" title="Effektivitetsassistent">
     </a>
     <figcaption><h4>Effektivitetsassistent</h4></figcaption>
 </figure>
@@ -22,7 +22,7 @@ Føreren vises tilsvarende informasjon i instrumentgruppen eller i Audi virtual 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/efficientsymboletron.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/efficientsymboletrons.jpg"
-        alt="e-tron virtuell cockpit med symbol som viser for å løfte høyre fot" title="e-tron virtuell cockpit med symbol som viser for å løfte høyre fot">
+        class="img-fluid" alt="e-tron virtuell cockpit med symbol som viser for å løfte høyre fot" title="e-tron virtuell cockpit med symbol som viser for å løfte høyre fot">
     </a>
     <figcaption><h4>e-tron virtuell cockpit med symbol som viser for å løfte høyre fot</h4></figcaption>
 </figure>
@@ -34,7 +34,7 @@ Føreren kan overstyre systemet når som helst ved å akselerere og bremse. I ti
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/headup.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/headups.jpg"
-        alt="Effektivitetsassistent i headup foreslår å redusere hastigheten" title="Effektivitetsassistent i headup foreslår å redusere hastigheten">
+        class="img-fluid" alt="Effektivitetsassistent i headup foreslår å redusere hastigheten" title="Effektivitetsassistent i headup foreslår å redusere hastigheten">
     </a>
     <figcaption><h4>Effektivitetsassistent i headup foreslår å redusere hastigheten</h4></figcaption>
 </figure>

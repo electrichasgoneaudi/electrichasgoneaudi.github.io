@@ -15,7 +15,7 @@ All-electric Audis have advanced blended brakes that mix regeneration and physic
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/recuperation.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/recuperations.png" alt="Kinetic energy is converted to electric energy in the battery with regeneration." title="Kinetic energy is converted to electric energy in the battery with regeneration.">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/recuperations.png" class="img-fluid" alt="Kinetic energy is converted to electric energy in the battery with regeneration." title="Kinetic energy is converted to electric energy in the battery with regeneration.">
     </a>
     <figcaption><h4>Kinetic energy is converted to electric energy in the battery with regeneration.</h4></figcaption>
 </figure>

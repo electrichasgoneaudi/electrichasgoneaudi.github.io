@@ -16,7 +16,7 @@ The engine is started and switched off using the engine start-stop button in the
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/startbutton.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/startbutton.jpg"
-        alt="Center console with start/stop button" title="Center console with start/stop button">
+        class="img-fluid" alt="Center console with start/stop button" title="Center console with start/stop button">
     </a>
     <figcaption><h4>Center console with start/stop button</h4></figcaption>
 </figure>
@@ -34,7 +34,7 @@ The luggage compartment lid can be conveniently unlocked using the luggage compa
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/kicksensor.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/kicksensors.jpg"
-        alt="With advance key you can open tailgate with kicking the foot under the tailgate" title="With advance key you can open tailgate with kicking the foot under the tailgate">
+        class="img-fluid" alt="With advance key you can open tailgate with kicking the foot under the tailgate" title="With advance key you can open tailgate with kicking the foot under the tailgate">
     </a>
     <figcaption><h4>With advance key you can open tailgate with kicking the foot under the tailgate</h4></figcaption>
 </figure>
@@ -51,7 +51,7 @@ A high-quality visual differentiation on the top and bottom of the key through h
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/advancekey.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/advancekeys.jpg"
-        alt="Audi Advance key" title="Audi Advance key">
+        class="img-fluid" alt="Audi Advance key" title="Audi Advance key">
     </a>
     <figcaption><h4>Audi Advance key</h4></figcaption>
 </figure>
@@ -67,7 +67,7 @@ Anti-theft alarm system
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/alarm_sensor_of.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/alarm_sensor_ofs.jpg"
-        alt="The interior sensor can be switched of by button in door" title="The interior sensor can be switched of by button in door">
+        class="img-fluid" alt="The interior sensor can be switched of by button in door" title="The interior sensor can be switched of by button in door">
     </a>
     <figcaption><h4>The interior sensor can be switched of by button in door</h4></figcaption>
 </figure>
@@ -82,4 +82,4 @@ Audi connect key lets you set up your Android phone as the only key you need.
 
 {{< youtube CurWSFtxRl4 >}}
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

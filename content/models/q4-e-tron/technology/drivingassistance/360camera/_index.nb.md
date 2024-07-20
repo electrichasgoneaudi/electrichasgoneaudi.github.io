@@ -10,7 +10,7 @@ Et virtuelt overheadbilde vist i MMI-displayet gir føreren en oversikt over den
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/360camera/360camera.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/360camera/360cameras.jpg"
-        alt="360 kamera Audi Q4 e-tron" title="360 kamera Audi Q4 e-tron">
+        class="img-fluid" alt="360 kamera Audi Q4 e-tron" title="360 kamera Audi Q4 e-tron">
     </a>
     <figcaption><h4>360 kamera Audi Q4 e-tron</h4></figcaption>
 </figure>
@@ -19,4 +19,4 @@ En tilleggsfunksjon for noen modeller er en virtuell 3D-visning. Føreren kan br
 
 360-kameraet er original en del av assistentsystempakken pro, men er for øyeblikket ikke tilgjengelig.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

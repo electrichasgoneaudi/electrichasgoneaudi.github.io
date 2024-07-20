@@ -50,4 +50,4 @@ With multicolor ambient lightning the look and feel inside the car gets to anoth
 
 Se the [complete equipment list](list) for all options.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

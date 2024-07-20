@@ -36,7 +36,7 @@ Med de digitale matrix LED-frontlyktene som topputstyr, presenterer Audi en verd
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lights/digital_matrix_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lights/digital_matrix_1s.jpg"
-        alt="Digital Matrix Head lights" title="Digital Matrix Head lights">
+        class="img-fluid" alt="Digital Matrix Head lights" title="Digital Matrix Head lights">
     </a>
     <figcaption><h4>Digital Matrix Head lights</h4></figcaption>
 </figure>
@@ -57,7 +57,7 @@ Du kan bestille e-tron innstegslys alternativ ID **9TF**
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lights/entry.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lights/entrys.jpg"
-        alt="Innstegslys" title="Innstegslys">
+        class="img-fluid" alt="Innstegslys" title="Innstegslys">
     </a>
     <figcaption><h4>Innstegslys</h4></figcaption>
 </figure>
@@ -66,4 +66,4 @@ Du kan bestille e-tron innstegslys alternativ ID **9TF**
 
 Audi Q8 e-tron har lyktespylere som standard for hovedlyktene.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

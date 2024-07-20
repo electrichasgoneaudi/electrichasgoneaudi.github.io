@@ -12,7 +12,7 @@ Audi Q8 e-tron er utstyrt med standard manuell vindusviskere hvor man selv kan s
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/wipers/wipers_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/wipers/wipers_1s.jpg"
-        alt="Adjustment of spray pattern" title="Adjustment of spray pattern">
+        class="img-fluid" alt="Adjustment of spray pattern" title="Adjustment of spray pattern">
     </a>
     <figcaption><h4>Adjustment of spray pattern</h4></figcaption>
 </figure>
@@ -26,7 +26,7 @@ De adaptive piskerne tar hensyn til kjørehastigheten, utetemperaturen og graden
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/wipers/adaptive1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/wipers/adaptive1.jpg"
-        alt="Justering av sprøytemønster" title="Justering av sprøytemønster">
+        class="img-fluid" alt="Justering av sprøytemønster" title="Justering av sprøytemønster">
     </a>
     <figcaption><h4>Justering av sprøytemønster</h4></figcaption>
 </figure>
@@ -38,7 +38,7 @@ Visker- og vaskesystemet er fullstendig oppvarmet. Et varmeelement i viskerarmen
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/wipers/adaptive1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/wipers/adaptive1.jpg"
-        alt="Oppvarmet arm og dyse" title="Oppvarmet arm og dyse">
+        class="img-fluid" alt="Oppvarmet arm og dyse" title="Oppvarmet arm og dyse">
     </a>
     <figcaption><h4>Oppvarmet arm og dyse</h4></figcaption>
 </figure>

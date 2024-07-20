@@ -12,9 +12,9 @@ Dette er valg nr **3Y4**
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/curtain/curtain.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/curtain/curtains.jpg"
-        alt="Gardin" title="Gardin">
+        class="img-fluid" alt="Gardin" title="Gardin">
     </a>
     <figcaption><h4>Gardin</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

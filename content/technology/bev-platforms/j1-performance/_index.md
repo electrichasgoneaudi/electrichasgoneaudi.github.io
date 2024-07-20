@@ -7,7 +7,7 @@ weight: 2
 <!-- markdownlint-disable MD033 -->
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tangored_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tangored_2s.jpg" alt="Audi e-tron GT in Tango Red" title="Audi e-tron GT in Tango Red">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tangored_2s.jpg" class="img-fluid" alt="Audi e-tron GT in Tango Red" title="Audi e-tron GT in Tango Red">
     </a>
     <figcaption><h4>Audi e-tron GT</h4></figcaption>
 </figure>
@@ -19,7 +19,7 @@ The Audi e-tron GT is equipped with two permanently excited synchronous machines
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/j1-performance/drivetrain2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/j1-performance/drivetrain2s.jpg"
-        alt="J1-performance drivetrain for Audi e-tron GT" title="J1-performance drivetrain for Audi e-tron GT">
+        class="img-fluid" alt="J1-performance drivetrain for Audi e-tron GT" title="J1-performance drivetrain for Audi e-tron GT">
     </a>
     <figcaption><h4>J1-performance drivetrain for Audi e-tron GT</h4></figcaption>
 </figure>
@@ -33,7 +33,7 @@ In accordance with the WLTP standard, the Audi e-tron GT achieves a range of 472
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery2s.jpg" alt="Audi e-tron GT battery pack" title="Audi e-tron GT battery pack">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery2s.jpg" class="img-fluid" alt="Audi e-tron GT battery pack" title="Audi e-tron GT battery pack">
     </a>
     <figcaption><h4>Audi e-tron GT battery pack</h4></figcaption>
 </figure>
@@ -43,7 +43,7 @@ The battery, which has an energy content of more than 90 kWh, is located in the 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/j1-performance/taycan.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/j1-performance/taycans.jpg"
-        alt="Porsche Taycan is built on J1-performance platform and share parts with Audi e-tron GT" title="Porsche Taycan is built on J1-performance platform and share parts with Audi e-tron GT">
+        class="img-fluid" alt="Porsche Taycan is built on J1-performance platform and share parts with Audi e-tron GT" title="Porsche Taycan is built on J1-performance platform and share parts with Audi e-tron GT">
     </a>
     <figcaption><h4>Porsche Taycan is built on J1-performance platform and share parts with Audi e-tron GT</h4></figcaption>
 </figure>
@@ -58,4 +58,4 @@ The drive management distributes the torques of the electric motors between the 
 
 The technology layout on J1-performance platform allows for numerous suspension and performance features, for example all-wheel steering or a sport differential, providing excellent traction and a high level of vehicle dynamics.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

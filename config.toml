@@ -7,12 +7,12 @@ staticDir = "static"
 publishDir = "public"
 
 title = "Electric has gone Audi"
-theme = "hugo-theme-electrichasgoneaudi"
+theme = "hugo-theme-electrichasgoneaudi2"
 metadataFormat = "yaml"
 pluralizeListTitles = false
 preservetaxonomynames = true
 enableEmoji = true
-enableGitInfo = false
+enableGitInfo = true
 disableKinds = ["RSS"] # page home section taxonomy taxonomyTerm RSS sitemap robotsTXT 404
 
 [languages]

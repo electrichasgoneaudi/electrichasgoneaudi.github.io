@@ -41,7 +41,7 @@ Q4 35 e-tron-batteriet består av 8 batterimoduler med 12 celler i hver modul.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/q4etron35battery.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/q4etron35batterys.jpg"
-        alt="Q4 35 e-tron battery" title="Q4 35 e-tron battery">
+        class="img-fluid" alt="Q4 35 e-tron battery" title="Q4 35 e-tron battery">
     </a>
     <figcaption><h4>Q4 35 e-tron battery</h4></figcaption>
 </figure>
@@ -65,7 +65,7 @@ Q4 35 e-tron-batteriet består av 8 batterimoduler med 12 celler i hver modul.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/q4etron40battery.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/q4etron40batterys.jpg"
-        alt="Q4 40 e-tron / Q4 50 e-tron batteri" title="Q4 40 e-tron / Q4 50 e-tron batteri">
+        class="img-fluid" alt="Q4 40 e-tron / Q4 50 e-tron batteri" title="Q4 40 e-tron / Q4 50 e-tron batteri">
     </a>
     <figcaption><h4>Q4 40 e-tron / Q4 50 e-tron batteri</h4></figcaption>
 </figure>
@@ -77,7 +77,7 @@ Det termiske styringssystemet tar sikte på å få batteriet opp til det ideelle
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/batterycooling.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/batterycoolings.jpg"
-        alt="Termisk styring Audi Q4 e-tron" title="Termisk styring Audi Q4 e-tron">
+        class="img-fluid" alt="Termisk styring Audi Q4 e-tron" title="Termisk styring Audi Q4 e-tron">
     </a>
     <figcaption><h4>Termisk styring Audi Q4 e-tron</h4></figcaption>
 </figure>
@@ -85,7 +85,7 @@ Det termiske styringssystemet tar sikte på å få batteriet opp til det ideelle
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/battercooling2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/battercooling2s.jpg"
-        alt="Kjøling av høyspentbatteriet via kjøleren" title="Kjøling av høyspentbatteriet via kjøleren">
+        class="img-fluid" alt="Kjøling av høyspentbatteriet via kjøleren" title="Kjøling av høyspentbatteriet via kjøleren">
     </a>
     <figcaption><h4>Kjøling av høyspentbatteriet via kjøleren</h4></figcaption>
 </figure>
@@ -105,7 +105,7 @@ Den første generasjonen av Audi Q4 e-tron hadde en maksimal ladehastighet på 1
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.jpg"
-        alt="Ladekurve Q4 e-tron optimale forhold" title="Ladekurve Q4 e-tron optimale forhold">
+        class="img-fluid" alt="Ladekurve Q4 e-tron optimale forhold" title="Ladekurve Q4 e-tron optimale forhold">
     </a>
     <figcaption><h4>Ladekurve Q4 e-tron optimale forhold</h4></figcaption>
 </figur>
@@ -117,7 +117,7 @@ Alle disse bilene vil nå lade opp til 135 kW. Som et resultat reduseres den ide
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/charging.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/chargings.jpg"
-        alt="Audi Q4 e-tron lader ved Ionity" title="Audi Q4 e-tron lader ved Ionity">
+        class="img-fluid" alt="Audi Q4 e-tron lader ved Ionity" title="Audi Q4 e-tron lader ved Ionity">
     </a>
     <figcaption><h4>Audi Q4 e-tron lader ved Ionity</h4></figcaption>
 </figur>
@@ -128,4 +128,4 @@ Det er foreløpig ikke kjent om de eksisterende bilene får en oppgradering til 
 
 Audi garanterer at den fortsatt vil ha minst 70 prosent kapasitet etter åtte års drift eller etter 160.000 kilometer.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -12,7 +12,7 @@ The display shows a wide range of information clearly and in neat, sharp, highly
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/viewcontrol.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/viewcontrols.jpg"
-        alt="Virtual cockpit view is controlled on the steering wheel" title="Virtual cockpit view is controlled on the steering wheel">
+        class="img-fluid" alt="Virtual cockpit view is controlled on the steering wheel" title="Virtual cockpit view is controlled on the steering wheel">
     </a>
     <figcaption><h4>Virtual cockpit view is controlled on the steering wheel</h4></figcaption>
 </figure>
@@ -28,7 +28,7 @@ The mode can be selected in MMI
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/virtualcockpit_settings.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/virtualcockpit_settingss.jpg"
-        alt="Virtual cockpit modes" title="Virtual cockpit modes">
+        class="img-fluid" alt="Virtual cockpit modes" title="Virtual cockpit modes">
     </a>
     <figcaption><h4>Virtual cockpit modes</h4></figcaption>
 </figure>
@@ -40,7 +40,7 @@ Below you see some of the mode and views available in Virtual Cockpit
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_etron_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_etron_1s.jpg"
-        alt="Virtual Cockpit e-tron mode infotainment view - Nightvision" title="Virtual Cockpit e-tron mode infotainment view - Nightvision">
+        class="img-fluid" alt="Virtual Cockpit e-tron mode infotainment view - Nightvision" title="Virtual Cockpit e-tron mode infotainment view - Nightvision">
     </a>
     <figcaption><h4>Virtual Cockpit e-tron mode infotainment view - Nightvision</h4></figcaption>
 </figure>
@@ -48,7 +48,7 @@ Below you see some of the mode and views available in Virtual Cockpit
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_etron_3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_etron_3s.jpg"
-        alt="Virtual Cockpit e-tron mode infotainment view - Navigation with Google maps" title="Virtual Cockpit e-tron mode infotainment view - Navigation with Google maps">
+        class="img-fluid" alt="Virtual Cockpit e-tron mode infotainment view - Navigation with Google maps" title="Virtual Cockpit e-tron mode infotainment view - Navigation with Google maps">
     </a>
     <figcaption><h4>Virtual Cockpit e-tron mode infotainment view - Navigation with Google maps</h4></figcaption>
 </figure>
@@ -56,7 +56,7 @@ Below you see some of the mode and views available in Virtual Cockpit
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_etron_4.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_etron_4s.jpg"
-        alt="Virtual Cockpit e-tron mode driving view - Navigation with Google maps and active route" title="Virtual Cockpit e-tron mode driving view - Navigation with Google maps and active route">
+        class="img-fluid" alt="Virtual Cockpit e-tron mode driving view - Navigation with Google maps and active route" title="Virtual Cockpit e-tron mode driving view - Navigation with Google maps and active route">
     </a>
     <figcaption><h4>Virtual Cockpit e-tron mode driving view - Navigation with Google maps and active route</h4></figcaption>
 </figure>
@@ -64,7 +64,7 @@ Below you see some of the mode and views available in Virtual Cockpit
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_sport_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_sport_1s.jpg"
-        alt="Virtual Cockpit sport mode infotainment view - Navigation with Google maps" title="Virtual Cockpit sport mode infotainment view - Navigation with Google maps">
+        class="img-fluid" alt="Virtual Cockpit sport mode infotainment view - Navigation with Google maps" title="Virtual Cockpit sport mode infotainment view - Navigation with Google maps">
     </a>
     <figcaption><h4>Virtual Cockpit sport mode infotainment view - Navigation with Google maps</h4></figcaption>
 </figure>
@@ -72,7 +72,7 @@ Below you see some of the mode and views available in Virtual Cockpit
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_standard_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_standard_1s.jpg"
-        alt="Virtual Cockpit standard mode - Nightvision" title="Virtual Cockpit standard mode - Nightvision">
+        class="img-fluid" alt="Virtual Cockpit standard mode - Nightvision" title="Virtual Cockpit standard mode - Nightvision">
     </a>
     <figcaption><h4>Virtual Cockpit standard mode - Nightvision</h4></figcaption>
 </figure>
@@ -80,7 +80,7 @@ Below you see some of the mode and views available in Virtual Cockpit
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_standard_2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_standard_2s.jpg"
-        alt="Virtual Cockpit standard mode infotainment view - Navigation with Google maps" title="Virtual Cockpit standard mode infotainment view - Navigation with Google maps">
+        class="img-fluid" alt="Virtual Cockpit standard mode infotainment view - Navigation with Google maps" title="Virtual Cockpit standard mode infotainment view - Navigation with Google maps">
     </a>
     <figcaption><h4>Virtual Cockpit standard mode infotainment view - Navigation with Google maps</h4></figcaption>
 </figure>

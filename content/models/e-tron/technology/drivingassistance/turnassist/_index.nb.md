@@ -9,7 +9,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/turnassist/turnassist.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/turnassist/turnassists.jpg"
-        alt="Audi e-tron avkjøringsassistent" title="Audi e-tron avkjøringsassistent">
+        class="img-fluid" alt="Audi e-tron avkjøringsassistent" title="Audi e-tron avkjøringsassistent">
     </a>
     <figcaption><h4>Audi e-tron avkjøringsassistent</h4></figcaption>
 </figure>
@@ -19,4 +19,4 @@ Overvåking settes i gang så snart føreren setter blinklyset. Når du kjører 
 
 Dette alternativet er en del av assistentsystem pakke tur med alternativ-ID **PCC**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

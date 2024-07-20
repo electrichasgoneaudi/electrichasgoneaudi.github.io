@@ -11,7 +11,7 @@ Den hjelper til med å unngå forestående kollisjoner ved å bruke advarende st
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/maneuveringassist/manuveringassist.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/maneuveringassist/manuveringassists.jpg"
-        alt="Manøvreringsassistanse i MMI" title="Manøvreringsassistanse i MMI">
+        class="img-fluid" alt="Manøvreringsassistanse i MMI" title="Manøvreringsassistanse i MMI">
     </a>
     <figcaption><h4>Manøvreringsassistanse i MMI</h4></figcaption>
 </figure>
@@ -19,4 +19,4 @@ Den hjelper til med å unngå forestående kollisjoner ved å bruke advarende st
  Manøvreringsassistent er standard på Audi e-tron GT
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

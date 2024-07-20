@@ -3,6 +3,7 @@ title: Mirrors
 linktitle: Mirrors
 description: The mirrors can be delivered in different styles
 weight: 7
+sectiontabs: "/models/q4-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 ## Functionality
@@ -12,7 +13,7 @@ Electric adjustable mirrors with heating are standard on Audi e-tron (option ID 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/mirrors/control.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/mirrors/controls.jpg"
-        alt="Mirrors are controlled in driver door" title="Mirrors are controlled in driver door">
+        class="img-fluid" alt="Mirrors are controlled in driver door" title="Mirrors are controlled in driver door">
     </a>
     <figcaption><h4>Mirrors are controlled in driver door</h4></figcaption>
 </figure>
@@ -34,7 +35,7 @@ This is the standard option.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/mirrors/paintedmirrors.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/mirrors/paintedmirrorss.jpg"
-        alt="Painted mirrors in veichle colors" title="Painted mirrors in veichle colors">
+        class="img-fluid" alt="Painted mirrors in veichle colors" title="Painted mirrors in veichle colors">
     </a>
     <figcaption><h4>Painted mirrors in veichle colors</h4></figcaption>
 </figure>
@@ -44,7 +45,7 @@ Black mirrors. Option code **6FJ**
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/mirrors/blackmirrors.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/mirrors/blackmirrorss.jpg"
-        alt="Black mirrors" title="Black mirrors">
+        class="img-fluid" alt="Black mirrors" title="Black mirrors">
     </a>
     <figcaption><h4>Black mirrors</h4></figcaption>
 </figure>

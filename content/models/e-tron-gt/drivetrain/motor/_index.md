@@ -13,7 +13,7 @@ In the e-tron GT quattro, the front electric motor outputs 175 kW (238 PS), and 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/motor/frontmotor_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/motor/frontmotor_1.jpg"
-        alt="Front electric motor with suspension" title="Front electric motor with suspension">
+        class="img-fluid" alt="Front electric motor with suspension" title="Front electric motor with suspension">
     </a>
     <figcaption><h4>Front electric motor with suspension</h4></figcaption>
 </figure>
@@ -21,7 +21,7 @@ In the e-tron GT quattro, the front electric motor outputs 175 kW (238 PS), and 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/motor/rearmotor_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/motor/rearmotor_1s.jpg"
-        alt="Rear electric motor with suspension" title="Rear electric motor with suspension">
+        class="img-fluid" alt="Rear electric motor with suspension" title="Rear electric motor with suspension">
     </a>
     <figcaption><h4>Rear electric motor with suspension</h4></figcaption>
 </figure>
@@ -33,7 +33,7 @@ The PSM motors (permanently excited synchronous motors) in the e-tron GT are ext
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/motor/rearmotor_3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/motor/rearmotor_3s.jpg"
-        alt="Audi e-tron GT electric motor with hairpin winding" title="Audi e-tron GT electric motor with hairpin winding">
+        class="img-fluid" alt="Audi e-tron GT electric motor with hairpin winding" title="Audi e-tron GT electric motor with hairpin winding">
     </a>
     <figcaption><h4>Audi e-tron GT electric motor with hairpin winding</h4></figcaption>
 </figure>

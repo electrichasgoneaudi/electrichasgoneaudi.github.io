@@ -12,7 +12,7 @@ The controls are located just below the MMI screen.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/climatecontrol/ac3zonecontrol.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/climatecontrol/ac3zonecontrol.jpg"
-        alt="3 zone ac control with an individual temp for driver/passenger" title="3 zone ac control with an individual temp for driver/passenger">
+        class="img-fluid" alt="3 zone ac control with an individual temp for driver/passenger" title="3 zone ac control with an individual temp for driver/passenger">
     </a>
     <figcaption><h4>3 zone ac control with an individual temp for driver/passenger</h4></figcaption>
 </figure>
@@ -22,7 +22,7 @@ It also gives the passenger in the back seat a separate panel where they can adj
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/climatecontrol/rearaccontrol.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/climatecontrol/rearaccontrol.jpg"
-        alt="Seperate control for back seat" title="Seperate control for back seat">
+        class="img-fluid" alt="Seperate control for back seat" title="Seperate control for back seat">
     </a>
     <figcaption><h4>Seperate control for back seat</h4></figcaption>
 </figure>
@@ -35,7 +35,7 @@ from the MMI manual or set aside a timer. A typical use case is when you charge 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/climatecontrol/precondition.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/climatecontrol/precondition.jpg"
-        alt="Pre-condition will run for 30 minutes and can be started from MMI or myAudi app" title="Pre-condition will run for 30 minutes and can be started from MMI or myAudi app">
+        class="img-fluid" alt="Pre-condition will run for 30 minutes and can be started from MMI or myAudi app" title="Pre-condition will run for 30 minutes and can be started from MMI or myAudi app">
     </a>
     <figcaption><h4>Pre-condition will run for 30 minutes and can be started from MMI or myAudi app</h4></figcaption>
 </figure>
@@ -53,7 +53,7 @@ On Audi e-tron GT / RS e-tron GT Auxiliary air conditioner with extra convenienc
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/climatecontrol/conviencesettings.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/climatecontrol/conviencesettingss.jpg"
-        alt="comfort settings" title="comfort settings">
+        class="img-fluid" alt="comfort settings" title="comfort settings">
     </a>
     <figcaption><h4>comfort settings</h4></figcaption>
 </figure>

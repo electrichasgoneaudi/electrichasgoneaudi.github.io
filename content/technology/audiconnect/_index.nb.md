@@ -7,4 +7,4 @@ weight: 3
 
 De digitale funksjonene og egenskapene er beskrevet i avsnittene nedenfor.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

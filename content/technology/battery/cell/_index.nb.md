@@ -64,7 +64,7 @@ En sylindrisk celle består av arklignende anoder, separatorer og katoder som er
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/cylinder4680.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/cylinder4680s.jpg"
-        alt="Tesla 4680 sylinderbatteri" title="Tesla 4680 sylinderbatteri">
+        class="img-fluid" alt="Tesla 4680 sylinderbatteri" title="Tesla 4680 sylinderbatteri">
     </a>
     <figcaption><h4>Tesla 4680 sylinderbatteri</h4></figcaption>
 </figure>
@@ -80,7 +80,7 @@ Li-ion-celler med prismatisk hus består av store ark med anoder, katoder og sep
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/samsungprismatic.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/samsungprismatics.jpg"
-        alt="Samsung prismatiske celler" title="Samsung prismatiske celler">
+        class="img-fluid" alt="Samsung prismatiske celler" title="Samsung prismatiske celler">
     </a>
     <figcaption><h4>Samsung prismatiske celler</h4></figcaption>
 </figure>
@@ -102,7 +102,7 @@ Elektroden og separatorlagene til en posecelle er stablet i stedet for gelérull
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/lgchenx21.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/lgchenx21s.jpg"
-        alt="LG Chem pouch cell" title="LG Chem pouch cell">
+        class="img-fluid" alt="LG Chem pouch cell" title="LG Chem pouch cell">
     </a>
     <figcaption><h4>LG Chem pouch cell</h4></figcaption>
 </figure>
@@ -131,7 +131,7 @@ Den første Audi-modellen vil bruke den i 2025 på den nye [SSP-plattformen](../
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/unifiedcell1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/unifiedcell1s.jpg"
-        alt="Olaf Scholz med den første enhetlige cellen" title="Olaf Scholz med den første enhetlige cellen">
+        class="img-fluid" alt="Olaf Scholz med den første enhetlige cellen" title="Olaf Scholz med den første enhetlige cellen">
     </a>
     <figcaption><h4>Olaf Scholz med den første enhetlige cellen</h4></figcaption>
 </figur>
@@ -143,7 +143,7 @@ Størrelsen på cellene er ca 32 x 12 x 3 cm
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/unifiedcell1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/unifiedcell1s.jpg"
-        alt="VW Unified cell" title="VW Unified cell">
+        class="img-fluid" alt="VW Unified cell" title="VW Unified cell">
     </a>
     <figcaption><h4>VW Unified cell</h4></figcaption>
 </figure>
@@ -158,7 +158,7 @@ Grunnsteinen for fabrikken ble lagt ned 7. juli 2022.
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/salzgiga1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/salzgiga1s.jpg"
-        alt="Salzgiga-fabrikken" title="Salzgiga-fabrikken">
+        class="img-fluid" alt="Salzgiga-fabrikken" title="Salzgiga-fabrikken">
     </a>
     <figcaption><h4>Salzgiga-fabrikken</h4></figcaption>
 </figur>

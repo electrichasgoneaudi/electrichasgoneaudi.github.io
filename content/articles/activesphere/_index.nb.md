@@ -8,7 +8,7 @@ weight: 99990
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere1_mt.jpg" alt="Audi activesphere concept" title="Audi activesphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere1_mt.jpg" class="img-fluid" alt="Audi activesphere concept" title="Audi activesphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept</h4></figcaption>
 </figure>
@@ -33,7 +33,7 @@ Som en perfekt allrounder er Audi activesphere-konseptet ideelt egnet for de hø
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere2.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere2_mt.jpeg" alt="Audi activesphere concept" title="Audi grandsphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere2_mt.jpeg" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept</h4></figcaption>
 </figure>
@@ -55,7 +55,7 @@ Det er også glassflater på siden i det nedre dørområdet, som ser ut til å l
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere7.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere7_mt.jpeg" alt="Audi activesphere concept" title="Audi grandsphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere7_mt.jpeg" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept glass surface</h4></figcaption>
 </figure>
@@ -74,7 +74,7 @@ Høyre og venstre over Singleframe ser de smale frontlysenhetene ut som fokusert
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere5.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere5_mt.jpeg" alt="Audi activesphere concept" title="Audi activesphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere5_mt.jpeg" class="img-fluid" alt="Audi activesphere concept" title="Audi activesphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept</h4></figcaption>
 </figure>
@@ -87,7 +87,7 @@ Om nødvendig er de gjennomsiktige bakrutegliderne nesten i flukt med taket på 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere8.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere8_mt.jpeg" alt="Audi activesphere concept" title="Audi activesphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere8_mt.jpeg" class="img-fluid" alt="Audi activesphere concept" title="Audi activesphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept with bikes</h4></figcaption>
 </figure>
@@ -103,7 +103,7 @@ Med den revurderingen endres selve designprosessen. I begynnelsen av alle diskus
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere4.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere4_mt.jpeg" alt="Audi activesphere concept" title="Audi grandsphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere4_mt.jpeg" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept</h4></figcaption>
 </figure>
@@ -120,7 +120,7 @@ Når Audi activesphere-konseptet kjører i autonom modus, forsvinner dashbordet,
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere8.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere8_mt.jpeg" alt="Audi activesphere concept" title="Audi grandsphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere8_mt.jpeg" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept autonomous mode</h4></figcaption>
 </figure>
@@ -141,7 +141,7 @@ I de tidlige dagene var VR-briller begrenset til å skildre en virtuell virkelig
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere6.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere6_mt.jpeg" alt="Audi activesphere concept" title="Audi grandsphere concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere6_mt.jpeg" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept</h4></figcaption>
 </figure>

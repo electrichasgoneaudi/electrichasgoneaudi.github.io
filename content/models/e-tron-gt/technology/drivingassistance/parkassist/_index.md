@@ -14,7 +14,7 @@ the car.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/parkassist/parkassist.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/parkassist/parkassists.jpg"
-        alt="You activate the search for parking spaces with a button in the center console when the parking aid is switched on in the display." title="You activate the search for parking spaces with a button in the center console when the parking aid is switched on in the display.">
+        class="img-fluid" alt="You activate the search for parking spaces with a button in the center console when the parking aid is switched on in the display." title="You activate the search for parking spaces with a button in the center console when the parking aid is switched on in the display.">
     </a>
     <figcaption><h4>You activate the search for parking spaces with a button in the center console when the parking aid is switched on in the display.</h4></figcaption>
 </figure>
@@ -34,4 +34,4 @@ In the video below the system is demonstrated on a Audi Q7
 
 Is part of the Assistant package Parking with parking assistant plus with alternative id **PCV**
 
-{{% children description = "true" depth = "1"%}}
+{{<children description="true" />}}

@@ -25,4 +25,4 @@ The below video show a test of this system
 
 This option is part of the tour driver assistance package with option id **PCC**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

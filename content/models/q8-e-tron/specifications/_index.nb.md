@@ -206,4 +206,4 @@ weight: 2
 | Max trailer hitch weight | 80 kg |
 | Ground Clearance | 152 - 248 mm | 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -18,7 +18,7 @@ The driver side port only supports AC charging, while the passenger side port su
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/onboardcharger/chargeport_right.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/onboardcharger/chargeport_rights.jpg"
-        alt="Passenger side charge port with Type 2 CCS port supporting AC and DC charging" title="Passenger side charge port with Type 2 CCS port supporting AC and DC charging">
+        class="img-fluid" alt="Passenger side charge port with Type 2 CCS port supporting AC and DC charging" title="Passenger side charge port with Type 2 CCS port supporting AC and DC charging">
     </a>
     <figcaption><h4>Passenger side charge port with Type 2 CCS port supporting AC and DC charging</h4></figcaption>
 </figure>
@@ -26,7 +26,7 @@ The driver side port only supports AC charging, while the passenger side port su
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/onboardcharger/chargeport_left2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/onboardcharger/chargeport_left2s.jpg"
-        alt="Driver charge port with only Type 2 port for AC charging" title="Driver charge port with only Type 2 port for AC charging">
+        class="img-fluid" alt="Driver charge port with only Type 2 port for AC charging" title="Driver charge port with only Type 2 port for AC charging">
     </a>
     <figcaption><h4>Driver charge port with only Type 2 port for AC charging</h4></figcaption>
 </figure>
@@ -46,7 +46,7 @@ In the illustration below you see the location of the charge units.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/onboardcharger/electricdrivetrain.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/onboardcharger/electricdrivetrains.jpg"
-        alt="Electric drive train with the charger location" title="Electric drive train with the charger location">
+        class="img-fluid" alt="Electric drive train with the charger location" title="Electric drive train with the charger location">
     </a>
     <figcaption><h4>Electric drive train with the charger location</h4></figcaption>
 </figure>
@@ -66,4 +66,4 @@ In the illustration below you see the location of the charge units.
 | 230V 16A 1phase | Blue Industrial |  3.6KW | 23 hours |
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

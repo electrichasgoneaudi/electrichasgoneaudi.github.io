@@ -14,7 +14,7 @@ This includes cooling when in use to not overheat.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/thermalmanagement/batterycooling_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/thermalmanagement/batterycooling_1.jpg"
-        alt="Battery cooling" title="Battery cooling">
+        class="img-fluid" alt="Battery cooling" title="Battery cooling">
     </a>
     <figcaption><h4>Battery cooling</h4></figcaption>
 </figure>
@@ -30,7 +30,7 @@ In the picture below you see both cooling circuits and an auxiliary heater that 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/thermalmanagement/thermal_management.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/thermalmanagement/thermal_managements.jpg"
-        alt="Audi e-tron GT thermal management" title="Audi e-tron GT thermal management">
+        class="img-fluid" alt="Audi e-tron GT thermal management" title="Audi e-tron GT thermal management">
     </a>
     <figcaption><h4>Audi e-tron GT thermal management</h4></figcaption>
 </figure>

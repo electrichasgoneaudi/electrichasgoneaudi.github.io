@@ -3,6 +3,7 @@ title: Audi Q4 e-tron vinduer
 linktitle: Vinduer
 description: Audi Q4 e-tron har noen valg for vinduer
 weight: 5
+sectiontabs: "/nb/models/q4-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 Audi Q4 e-tron har som standard varmereflekterende frontrute. I tilegg er bakrute, dør- og sidevinduer grønntonet og varmepdempende
@@ -19,7 +20,7 @@ i bagasjerommet.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/windows/privacywindows.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/windows/privacywindowss.jpg"
-        alt="Privacy windows" title="Privacy windows">
+        class="img-fluid" alt="Privacy windows" title="Privacy windows">
     </a>
     <figcaption><h4>Privacy windows</h4></figcaption>
 </figure>
@@ -27,7 +28,7 @@ i bagasjerommet.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/windows/paint_typhoongrey_2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/windows/paint_typhoongrey_2s.jpg"
-        alt="Privacy-glass på Audi Q4 e-tron i tyfongrå. Gjør bilen ekstra tøff" title="Privacy-glass på Audi Q4 e-tron i tyfongrå. Gjør bilen ekstra tøff">
+        class="img-fluid" alt="Privacy-glass på Audi Q4 e-tron i tyfongrå. Gjør bilen ekstra tøff" title="Privacy-glass på Audi Q4 e-tron i tyfongrå. Gjør bilen ekstra tøff">
     </a>
     <figcaption><h4>Privacy-glass på Audi Q4 e-tron i tyfongrå. Gjør bilen ekstra tøff</h4></figcaption>
 </figure>
@@ -44,4 +45,4 @@ Som tilvalg nr **VW6** kan du bestille akustiske sidevinduer foran.
 
 Dette reduserer støy i kupeen.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

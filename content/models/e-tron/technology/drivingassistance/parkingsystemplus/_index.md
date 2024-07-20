@@ -13,7 +13,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/parkingsystemplus/parkingsystemplus.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/parkingsystemplus/parkingsystempluss.jpg"
-        alt="Parking system plus indication in mmi" title="Parking system plus indication in mmi">
+        class="img-fluid" alt="Parking system plus indication in mmi" title="Parking system plus indication in mmi">
     </a>
     <figcaption><h4>Parking system plus indication in mmi</h4></figcaption>
 </figure>
@@ -21,7 +21,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/parkingsystemplus/frontsensors.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/parkingsystemplus/frontsensorss.jpg"
-        alt="Parking system plus indication in mmi" title="Parking system plus indication in mmi">
+        class="img-fluid" alt="Parking system plus indication in mmi" title="Parking system plus indication in mmi">
     </a>
     <figcaption><h4>Front sensors</h4></figcaption>
 </figure>
@@ -29,7 +29,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/parkingsystemplus/rearsensors.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/parkingsystemplus/rearsensorss.jpg"
-        alt="Parking system plus indication in mmi" title="Parking system plus indication in mmi">
+        class="img-fluid" alt="Parking system plus indication in mmi" title="Parking system plus indication in mmi">
     </a>
     <figcaption><h4>Front sensors</h4></figcaption>
 </figure>

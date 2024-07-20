@@ -1,0 +1,52 @@
+<div class="offcanvas offcanvas-end text-bg-dark" tabindex="-1" id="offcanvasDarkNavbar" aria-labelledby="offcanvasDarkNavbar">
+  <div class="offcanvas-header">
+    <h5 class="offcanvas-title" id="offcanvasDarkNavbar">EVKX.net</h5>
+    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+  </div>
+  <div class="offcanvas-body">
+    <nav class="links w-100" id="evkx-nav" aria-label="evkx navigation" data-bs-theme="dark">
+
+
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item list-group-item-action"> <a href="{{ with .Site.GetPage `/models/`}}{{.RelPermalink}}{{end}}" class="text-decoration-none text-white">
+          <i class="bi-car-front me-2"></i>{{ T "common-section-models-title"}}
+        </a>
+        </li>
+        <li class="list-group-item list-group-item-action">
+          <a href="{{ with .Site.GetPage `/technology/`}}{{.RelPermalink}}{{end}}" class="text-decoration-none text-white">
+            <i class="bi-info-square me-2"></i>{{ T "common-section-technology-title"}}
+          </a>
+        </li>
+        <li class="list-group-item list-group-item-action">
+          <a href="{{ with .Site.GetPage `/guides/`}}{{.RelPermalink}}{{end}}" class="text-decoration-none text-white">
+            <i class="bi-question-square me-2"></i>{{ T "common-section-guides-title"}}
+          </a>
+        </li>
+        <li class="list-group-item list-group-item-action">
+          <a href="{{ with .Site.GetPage `/articles/`}}{{.RelPermalink}}{{end}}" class="text-decoration-none text-white">
+            <i class="bi-question-square me-2"></i>{{ T "common-section-articles"}}
+          </a>
+        </li>
+      </ul>
+
+      <div class="accordion accordion-flush" id="evkxmenuaccordion">
+        <div class="accordion-item">
+          <h2 class="accordion-header">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseLanguage" aria-expanded="false" aria-controls="collapseLanguage">
+            <i class="bi-translate me-2"></i>{{ T "language"}}
+            </button>
+          </h2>
+          <div id="collapseLanguage" class="accordion-collapse collapse" data-bs-parent="#evkxmenuaccordion">
+            <div class="accordion-body">
+              {{ partial "language-switcheraccordion.html" . }}
+
+            </div>
+          </div>
+        </div>
+        </div>
+    </nav>
+  </div>
+</div>
+
+

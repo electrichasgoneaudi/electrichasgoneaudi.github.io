@@ -10,7 +10,7 @@ En BMS består ofte av elektronikk både på modulnivå og på pakkenivå.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterymanagment/batterymanagement1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterymanagment/batterymanagement1s.jpg"
-        alt="Batteristyringselektronikk for Audi e-tron batteripakke" title="Batteristyringselektronikk for Audi e-tron batteripakke">
+        class="img-fluid" alt="Batteristyringselektronikk for Audi e-tron batteripakke" title="Batteristyringselektronikk for Audi e-tron batteripakke">
     </a>
     <figcaption><h4>Batteristyringselektronikk for Audi e-tron batteripakke</h4></figcaption>
 </figure>

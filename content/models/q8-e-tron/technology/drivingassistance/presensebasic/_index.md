@@ -9,7 +9,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/presensebasic/presensebasic.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/presensebasic/presensebasics.jpg"
-        alt="As soon as Audi pre sense basic recognizes a critical driving state, the system pretensions the seat belts of the driver and front passenger electrically." title="As soon as Audi pre sense basic recognizes a critical driving state, the system pretensions the seat belts of the driver and front passenger electrically.">
+        class="img-fluid" alt="As soon as Audi pre sense basic recognizes a critical driving state, the system pretensions the seat belts of the driver and front passenger electrically." title="As soon as Audi pre sense basic recognizes a critical driving state, the system pretensions the seat belts of the driver and front passenger electrically.">
     </a>
     <figcaption><h4>As soon as Audi pre sense basic recognizes a critical driving state, the system pretensions the seat belts of the driver and front passenger electrically.</h4></figcaption>
 </figure>

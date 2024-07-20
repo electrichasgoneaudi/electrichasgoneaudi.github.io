@@ -11,7 +11,7 @@ De vises da i førerinformasjonssystemet og/eller Audi virtual cockpit samt i he
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/trafficsignrecognition/virtualcockpit.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/trafficsignrecognition/virtualcockpits.jpg"
-        alt="Trafikkskiltinformasjon i virtuell cockpit" title="Trafikkskiltinformasjon i virtuell cockpit">
+        class="img-fluid" alt="Trafikkskiltinformasjon i virtuell cockpit" title="Trafikkskiltinformasjon i virtuell cockpit">
     </a>
     <figcaption><h4>Trafikkskiltinformasjon i virtuell cockpit</h4></figcaption>
 </figure>
@@ -25,11 +25,11 @@ Velg -> Bil -> Førerassistent -> Adativ kjøreassistent -> Prediktiv kontroll -
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/trafficsignrecognition/speedovertakenb.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/trafficsignrecognition/speedovertakenbs.jpg"
-        alt="Overta fartsgrense kan slås av" title="Overta fartsgrense kan slås av">
+        class="img-fluid" alt="Overta fartsgrense kan slås av" title="Overta fartsgrense kan slås av">
     </a>
     <figcaption><h4>Overta fartsgrense kan slås av</h4></figcaption>
 </figure>
 
 Dette alternativet er en del av [assistentpakken tur](../../../optionguide/list/#assistentsystemer) med alternativ-ID **PCC**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

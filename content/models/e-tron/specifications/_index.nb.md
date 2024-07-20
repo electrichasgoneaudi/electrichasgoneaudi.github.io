@@ -186,4 +186,4 @@ weight: 2
 | Max roof weight | 75 kg |
 | Max trailer hitch weight | 80 kg |
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

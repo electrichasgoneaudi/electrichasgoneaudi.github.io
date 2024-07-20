@@ -5,4 +5,4 @@ description:  Here you find articles and news related to all-electric veicheles 
 weight: 4
 ---
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

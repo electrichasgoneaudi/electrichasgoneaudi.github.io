@@ -14,7 +14,7 @@ MMI-displayet viser det visuelt. Et hvitt segment viser et detektert objekt uten
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/parkingsystemrear/parkingsystemrear.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/parkingsystemrear/parkingsystemrears.jpg"
-        alt="Parkeringsystem bak med sensorer bak" title="Parkeringsystem bak med sensorer bak">
+        class="img-fluid" alt="Parkeringsystem bak med sensorer bak" title="Parkeringsystem bak med sensorer bak">
     </a>
     <figcaption><h4>Parkeringsystem bak med sensorer bak</h4></figcaption>
 </figure>
@@ -22,9 +22,9 @@ MMI-displayet viser det visuelt. Et hvitt segment viser et detektert objekt uten
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/sensorsrear.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/sensorsrears.jpg"
-        alt="Plassering av bakre sensorer på Audi Q4 e-tron" title="Plassering av bakre sensorer på Audi Q4 e-tron">
+        class="img-fluid" alt="Plassering av bakre sensorer på Audi Q4 e-tron" title="Plassering av bakre sensorer på Audi Q4 e-tron">
     </a>
     <figcaption><h4>Plassering av bakre sensorer på Audi Q4 e-tron</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

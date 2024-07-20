@@ -12,7 +12,7 @@ March 17. 2022 Audi also presented the Audi A6 Avant e-tron concept of this mode
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-7.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-7s.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-7s.jpg" class="img-fluid" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
     </a>
     <figcaption><h4>Audi A6 e-tron and Audi A6 Avant e-tron concept</h4></figcaption>
 </figure>
@@ -30,7 +30,7 @@ Large 22-inch wheels and short overhangs, the flat cabin, and a dynamic roof arc
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-6s.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-6s.jpg" class="img-fluid" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
     </a>
     <figcaption><h4>Audi A6 Avant e-tron concept</h4></figcaption>
 </figure>
@@ -63,7 +63,7 @@ The battery will have an 800-Volt architecture for high-performance charging up 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain.jpgg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrains.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrains.jpg" class="img-fluid" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
     </a>
      <figcaption><h4>Audi A6 e-tron drivetrain</h4></figcaption>
 </figure>
@@ -101,7 +101,7 @@ Digital Matrix LED and digital OLED technology make it possible to achieve maxim
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-8.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-8s.jpg" alt="Digital Matrix with custom light signature" title="Digital Matrix with custom light signature">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-8s.jpg" class="img-fluid" alt="Digital Matrix with custom light signature" title="Digital Matrix with custom light signature">
     </a>
     <figcaption><h4>Digital Matrix with custom light signature</h4></figcaption>
 </figure>
@@ -125,7 +125,7 @@ Audi A6 e-tron will be available with several options. Audi plans to reduce the 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-5s.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-5s.jpg" class="img-fluid" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
     </a>
     <figcaption><h4>Audi A6 e-tron with virtual mirrors</h4></figcaption>
 </figure>
@@ -138,14 +138,14 @@ See detailed video from @auditography
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-1s.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-1s.jpg" class="img-fluid" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
     </a>
     <figcaption><h4>Audi A6 e-tron concept</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-2s.jpg" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-2s.jpg" class="img-fluid" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
     </a>
     <figcaption><h4>Audi A6 e-tron concept</h4></figcaption>
 </figure>

@@ -31,7 +31,7 @@ Hver modul veier ca 13 kg.
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/72ah_cell.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/72ah_cell_st.png" alt="Modul med nye 72AH-celler" title="Modul med nye 72AH-celler ">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/72ah_cell_st.png" class="img-fluid" class="img-fluid" alt="Modul med nye 72AH-celler" title="Modul med nye 72AH-celler ">
     </a>
     <figcaption><h4>Modul med nye 72AH-celler</h4></figcaption>
 </figur>
@@ -63,7 +63,7 @@ De fleste av batterihusdelene gjenbrukes med det større 95kWh-batteriet.
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/pack114.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/pack114_st.png" alt="Batteripakke 114kWh med 36 moduler, inkludert fem i andre etasje" title="Batteripakke 114kWh med 36 moduler, inkludert fem i andre etasje">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/pack114_st.png" class="img-fluid" alt="Batteripakke 114kWh med 36 moduler, inkludert fem i andre etasje" title="Batteripakke 114kWh med 36 moduler, inkludert fem i andre etasje">
     </a>
     <figcaption><h4>Batteripakke 114kWh med 36 moduler, inkludert fem i andre etasje</h4></figcaption>
 </figur>
@@ -71,7 +71,7 @@ De fleste av batterihusdelene gjenbrukes med det større 95kWh-batteriet.
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/pack114_2.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/pack114_2_st.png" alt="Batteripakke 114kWh med 36 moduler, inkludert fem i andre etasje" title="Batteripakke 114kWh med 36 moduler, inkludert fem i andre etasje">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/pack114_2_st.png" class="img-fluid" alt="Batteripakke 114kWh med 36 moduler, inkludert fem i andre etasje" title="Batteripakke 114kWh med 36 moduler, inkludert fem i andre etasje">
     </a>
     <figcaption><h4>Batteripakke 114kWh med 36 moduler, inkludert fem i andre etasje</h4></figcaption>
 </figur>
@@ -82,7 +82,7 @@ består av ekstruderte seksjoner, den holder cellemodulene som en typekasse.
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/crashstructure.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/crashstructures.jpg" alt="Integrert krasjstruktur av litium-ion-batteriet" title="Integrert krasjstruktur av litium-ion-batteriet">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/crashstructures.jpg" class="img-fluid" alt="Integrert krasjstruktur av litium-ion-batteriet" title="Integrert krasjstruktur av litium-ion-batteriet">
     </a>
     <figcaption><h4>Integrert krasjstruktur for litium-ion-batteriet</h4></figcaption>
 </figur>
@@ -98,7 +98,7 @@ Et kjølesystem av flate ekstruderte aluminiumsseksjoner delt jevnt inn i små k
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/cooling.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/cooling_st.png" alt="Kjøling av litium-ion-batteriet via kjøleren" title="Kjøling litium-ion-batteriet via kjøleren">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/cooling_st.png" class="img-fluid" alt="Kjøling av litium-ion-batteriet via kjøleren" title="Kjøling litium-ion-batteriet via kjøleren">
     </a>
     <figcaption><h4>Kjøling av litium-ion-batteriet via kjøleren</h4></figcaption>
 </figur>
@@ -107,7 +107,7 @@ Batteriet og alle dets parametere, som ladestatus, strømutgang og termisk styri
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batteryjunctionbox.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batteryjunctionboxs.jpg" alt="Batterikoblingsboks" title="Batterikoblingsboks">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batteryjunctionboxs.jpg" class="img-fluid" alt="Batterikoblingsboks" title="Batterikoblingsboks">
     </a>
     <figcaption><h4>Batterikoblingsboks</h4></figcaption>
 </figur>
@@ -136,4 +136,4 @@ detaljer. Nedenfor er ladekurven for Audi Q8 50 e-tron (samme som Audi e-tron 55
 
 Som tabellen viser, er 95 kWh-batteriet fortsatt sammenlignbart med det nye batteriet og slår til og med det større batteriet på grunn av en flatere kurve for denne avstanden.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -8,7 +8,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/holdassist/holdassist.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/holdassist/holdassists.jpg"
-        alt="Hold assist helps for hill starting the Audi (RS) e-tron GT" title="Hold assist helps for hill starting the Audi (RS) e-tron GT">
+        class="img-fluid" alt="Hold assist helps for hill starting the Audi (RS) e-tron GT" title="Hold assist helps for hill starting the Audi (RS) e-tron GT">
     </a>
     <figcaption><h4>Hold assist helps for hill starting the Audi (RS) e-tron GT</h4></figcaption>
 </figure>

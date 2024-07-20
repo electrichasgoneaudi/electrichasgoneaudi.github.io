@@ -8,11 +8,11 @@ weight: 6
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/drivetrain2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/drivetrain2s.jpg" alt="Audi e-tron drivetrain" title="Audi e-tron drivetrain">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/drivetrain2s.jpg" class="img-fluid" alt="Audi e-tron drivetrain" title="Audi e-tron drivetrain">
     </a>
     <figcaption><h4>Audi e-tron drivetrain</h4></figcaption>
 </figure>
 
 Below you find details about the most important components of that drivetrain.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

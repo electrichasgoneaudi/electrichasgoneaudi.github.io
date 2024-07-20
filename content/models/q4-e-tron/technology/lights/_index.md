@@ -16,7 +16,7 @@ The headlights of the Q4 e-tron and the Q4 Sportback e-tron are fully equipped w
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/headlightstandard.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/headlightstandards.jpg" 
-        alt="Standard LED head lights with LED indicator lights" title="Standard LED head lights with LED indicator lights">
+        class="img-fluid" alt="Standard LED head lights with LED indicator lights" title="Standard LED head lights with LED indicator lights">
     </a>
     <figcaption><h4>Standard LED head lights with LED indicator lights</h4></figcaption>
 </figure>
@@ -32,7 +32,7 @@ On request, Audi also offers the Matrix LED headlights – they lend the two ele
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature1s.jpg"
-        alt="Light signature 1" title="Light signature 1">
+        class="img-fluid" alt="Light signature 1" title="Light signature 1">
     </a>
     <figcaption><h4>Light signature 1</h4></figcaption>
 </figure>
@@ -40,7 +40,7 @@ On request, Audi also offers the Matrix LED headlights – they lend the two ele
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature2s.jpg"
-        alt="Light signature 2" title="Light signature 2">
+        class="img-fluid" alt="Light signature 2" title="Light signature 2">
     </a>
     <figcaption><h4>Light signature 2</h4></figcaption>
 </figure>
@@ -48,7 +48,7 @@ On request, Audi also offers the Matrix LED headlights – they lend the two ele
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature3s.jpg"
-        alt="Light signature 3" title="Light signature 3">
+        class="img-fluid" alt="Light signature 3" title="Light signature 3">
     </a>
     <figcaption><h4>Light signature 3</h4></figcaption>
 </figure>
@@ -56,7 +56,7 @@ On request, Audi also offers the Matrix LED headlights – they lend the two ele
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature4.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature4s.jpg"
-        alt="Light signature 4" title="Light signature 4">
+        class="img-fluid" alt="Light signature 4" title="Light signature 4">
     </a>
     <figcaption><h4>Light signature 4</h4></figcaption>
 </figure>
@@ -64,7 +64,7 @@ On request, Audi also offers the Matrix LED headlights – they lend the two ele
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signaturemenu.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signaturemenus.jpg"
-        alt="Signature selection is done in MMI" title="Signature selection is done in MMI">
+        class="img-fluid" alt="Signature selection is done in MMI" title="Signature selection is done in MMI">
     </a>
     <figcaption><h4>Signature selection is done in MMI</h4></figcaption>
 </figure>
@@ -88,7 +88,7 @@ In combination with the Matrix LED headlights, there is also a particularly eleg
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/rearwithoutmatrix.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/rearwithoutmatrixs.jpg"
-        alt="Taillight without matrix with no light bar and only 1 reversing light" title="Taillight without matrix with no light bar and only 1 reversing light">
+        class="img-fluid" alt="Taillight without matrix with no light bar and only 1 reversing light" title="Taillight without matrix with no light bar and only 1 reversing light">
     </a>
     <figcaption><h4>Taillight without matrix with no light bar and only 1 reversing light</h4></figcaption>
 </figure>
@@ -96,7 +96,7 @@ In combination with the Matrix LED headlights, there is also a particularly eleg
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/rearwithmatrix2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/rearwithmatrix2s.jpg"
-        alt="Taillight with matrix with light bar and 2 reversing light" title="Taillight with matrix with light bar and 2 reversing light">
+        class="img-fluid" alt="Taillight with matrix with light bar and 2 reversing light" title="Taillight with matrix with light bar and 2 reversing light">
     </a>
     <figcaption><h4>Taillight with matrix with light bar and 2 reversing light</h4></figcaption>
 </figure>
@@ -104,7 +104,7 @@ In combination with the Matrix LED headlights, there is also a particularly eleg
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/rearcomparison.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/rearcomparisons.jpg"
-        alt="Illustration with and without matrix" title="Illustration with and without matrix">
+        class="img-fluid" alt="Illustration with and without matrix" title="Illustration with and without matrix">
     </a>
     <figcaption><h4>Illustration with and without matrix</h4></figcaption>
 </figure>

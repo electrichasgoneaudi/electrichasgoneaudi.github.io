@@ -10,7 +10,7 @@ The air conditioner is mainly controlled by the lower MMI screen.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/accontrol.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/accontrols.jpg"
-        alt="In the lower screen, fans and temperature can be controlled" title="In the lower screen, fans and temperature can be controlled">
+        class="img-fluid" alt="In the lower screen, fans and temperature can be controlled" title="In the lower screen, fans and temperature can be controlled">
     </a>
     <figcaption><h4>In the lower screen, fans and temperature can be controlled</h4></figcaption>
 </figure>
@@ -44,7 +44,7 @@ Utilization of residual heat
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/4zone.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/4zones.jpg"
-        alt="Display to control the two zones in the rear seat" title="Display to control the two zones in the rear seat">
+        class="img-fluid" alt="Display to control the two zones in the rear seat" title="Display to control the two zones in the rear seat">
     </a>
     <figcaption><h4>Display to control the two zones in the rear seat</h4></figcaption>
 </figure>
@@ -52,7 +52,7 @@ Utilization of residual heat
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/firstscreenmenu.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/firstscreenmenus.jpg"
-        alt="The rear zones can be controlled from the front" title="The rear zones can be controlled from the front">
+        class="img-fluid" alt="The rear zones can be controlled from the front" title="The rear zones can be controlled from the front">
     </a>
     <figcaption><h4>The rear zones can be controlled from the front</h4></figcaption>
 </figure>
@@ -67,7 +67,7 @@ from the MMI manual or set aside a timer. A typical use case is when you charge 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/precondition.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/preconditions.jpg"
-        alt="Precondidtion will run for 30 minutes" title="Precondidtion will run for 30 minutes">
+        class="img-fluid" alt="Precondidtion will run for 30 minutes" title="Precondidtion will run for 30 minutes">
     </a>
     <figcaption><h4>Precondidtion will run for 30 minutes</h4></figcaption>
 </figure>
@@ -84,7 +84,7 @@ You can get the Auxiliary air conditioner with extra convenience as an option. W
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/conviencesettings.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/climatecontrol/conviencesettingss.jpg"
-        alt="comfort settings" title="comfort settings">
+        class="img-fluid" alt="comfort settings" title="comfort settings">
     </a>
     <figcaption><h4>comfort settings</h4></figcaption>
 </figure>
@@ -95,4 +95,4 @@ The standar heater is 5 KW. As option **7E4** you can get a second heat element 
 
 This is standard in some cold markets.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

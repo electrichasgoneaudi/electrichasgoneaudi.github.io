@@ -11,7 +11,7 @@ The front axle of the compact electric SUVs is designed in the classic McPherson
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/frontsuspension.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/frontsuspensions.jpg"
-        alt="McPherson front suspension with the rear electric motor" title="McPherson front suspension with the rear electric motor">
+        class="img-fluid" alt="McPherson front suspension with the rear electric motor" title="McPherson front suspension with the rear electric motor">
     </a>
     <figcaption><h4>McPherson front suspension with the rear electric motor</h4></figcaption>
 </figure>
@@ -22,7 +22,7 @@ As with the front axle, it is mounted on a subframe. Several parts of the suspen
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/rearsuspension.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/rearsuspensions.jpg"
-        alt="Five link rear suspension with electric motor" title="Five link rear suspension with electric motor">
+        class="img-fluid" alt="Five link rear suspension with electric motor" title="Five link rear suspension with electric motor">
     </a>
     <figcaption><h4>Five link rear suspension with electric motor</h4></figcaption>
 </figure>
@@ -34,7 +34,7 @@ You can order the Q4 e-tron with sport suspension. The sport suspension (standar
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/suspension.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/suspension.jpg"
-        alt="Audi Q4 S-line with standard suspension 180mm ground clearance" title="Audi Q4 S-line with standard suspension 180mm ground clearance">
+        class="img-fluid" alt="Audi Q4 S-line with standard suspension 180mm ground clearance" title="Audi Q4 S-line with standard suspension 180mm ground clearance">
     </a>
     <figcaption><h4>Audi Q4 S-line with standard suspension 180mm ground clearance</h4></figcaption>
 </figure>
@@ -42,7 +42,7 @@ You can order the Q4 e-tron with sport suspension. The sport suspension (standar
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/slinesuspension.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/slinesuspensions.jpg"
-        alt="Audi Q4 S-line with S-Line suspension and 165mm ground clearance" title="Audi Q4 S-line with S-Line suspension and 165mm ground clearance">
+        class="img-fluid" alt="Audi Q4 S-line with S-Line suspension and 165mm ground clearance" title="Audi Q4 S-line with S-Line suspension and 165mm ground clearance">
     </a>
     <figcaption><h4>Audi Q4 S-line with S-Line suspension and 165mm ground clearance</h4></figcaption>
 </figure>

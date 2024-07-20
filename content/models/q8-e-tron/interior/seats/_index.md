@@ -15,7 +15,7 @@ The standard seats are manual.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_control_manual.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_control_manuals.jpg"
-        alt="Manual seat with manual control of height and angel" title="Manual seat with manual control of height and angel">
+        class="img-fluid" alt="Manual seat with manual control of height and angel" title="Manual seat with manual control of height and angel">
     </a>
     <figcaption><h4>Manual seat with manual control of height and angel</h4></figcaption>
 </figure>
@@ -29,7 +29,7 @@ Lumbard support is standard on all seats except standard seats. (Required option
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_control_manualwithlumbard.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_control_manualwithlumbards.jpg"
-        alt="Manual seat with electric lumbard adjustment" title="Manual seat with electric lumbard adjustment">
+        class="img-fluid" alt="Manual seat with electric lumbard adjustment" title="Manual seat with electric lumbard adjustment">
     </a>
     <figcaption><h4>Manual seat with electric lumbard adjustment</h4></figcaption>
 </figure>
@@ -41,7 +41,7 @@ You can add electric control to seats for height and angel in addition to 4-way 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_control_electricwithlumbard.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_control_electricwithlumbards.jpg"
-        alt="Electric seats with electric lumbard control" title="Electric seats with electric lumbard control">
+        class="img-fluid" alt="Electric seats with electric lumbard control" title="Electric seats with electric lumbard control">
     </a>
     <figcaption><h4>Electric seats with electric lumbard control</h4></figcaption>
 </figure>
@@ -52,7 +52,7 @@ Both upper and lower side support and thigh support is controlled in MMI both fo
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_control_plus.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_control_pluss.jpg"
-        alt="Electric adjustment of Individual Contour Seats" title="Electric adjustment of Individual Contour Seats">
+        class="img-fluid" alt="Electric adjustment of Individual Contour Seats" title="Electric adjustment of Individual Contour Seats">
     </a>
     <figcaption><h4>Electric adjustment of Individual Contour Seats</h4></figcaption>
 </figure>
@@ -70,7 +70,7 @@ of individual contour seats. Memory is also used by electric controllable steeri
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/memory_left.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/memory_lefts.jpg"
-        alt="Memory preset in driver door" title="Memory preset in driver door">
+        class="img-fluid" alt="Memory preset in driver door" title="Memory preset in driver door">
     </a>
     <figcaption><h4>Memory preset in driver door</h4></figcaption>
 </figure>
@@ -78,7 +78,7 @@ of individual contour seats. Memory is also used by electric controllable steeri
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/memory_right.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/memory_rights.jpg"
-        alt="Memory preset in passenger door" title="Memory preset in passenger door">
+        class="img-fluid" alt="Memory preset in passenger door" title="Memory preset in passenger door">
     </a>
     <figcaption><h4>Memory preset in passenger door</h4></figcaption>
 </figure>
@@ -90,7 +90,7 @@ For individual contour seats you can get ventilated seats. The fans are adjusted
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/ventilationcontrol.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/ventilationcontrols.jpg"
-        alt="Ventilation is controlled in mmi" title="Ventilation is controlled in mmi">
+        class="img-fluid" alt="Ventilation is controlled in mmi" title="Ventilation is controlled in mmi">
     </a>
     <figcaption><h4>Ventilation is controlled in mmi</h4></figcaption>
 </figure>
@@ -102,7 +102,7 @@ With the optional massage function, the user can select from three different int
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/massage.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/massages.jpg"
-        alt="Massage control in MMI" title="Massage control in MMI">
+        class="img-fluid" alt="Massage control in MMI" title="Massage control in MMI">
     </a>
     <figcaption><h4>Massage control in MMI</h4></figcaption>
 </figure>
@@ -128,7 +128,7 @@ With the optional massage function, the user can select from three different int
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_standard_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_standard_1s.jpg"
-        alt="Standard seats in beige leather" title="Standard seats in beige leather">
+        class="img-fluid" alt="Standard seats in beige leather" title="Standard seats in beige leather">
     </a>
     <figcaption><h4>Standard seats in beige leather</h4></figcaption>
 </figure>
@@ -136,7 +136,7 @@ With the optional massage function, the user can select from three different int
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_standard_2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_standard_2s.jpg"
-        alt="Standard seats in black leather" title="Standard seats in black leather">
+        class="img-fluid" alt="Standard seats in black leather" title="Standard seats in black leather">
     </a>
     <figcaption><h4>Standard seats in black leather</h4></figcaption>
 </figure>
@@ -144,7 +144,7 @@ With the optional massage function, the user can select from three different int
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_standard_3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_standard_3s.jpg"
-        alt="Standard seats in brown leather" title="Standard seats in brown leather">
+        class="img-fluid" alt="Standard seats in brown leather" title="Standard seats in brown leather">
     </a>
     <figcaption><h4>Standard seats in brown leather</h4></figcaption>
 </figure>
@@ -152,7 +152,7 @@ With the optional massage function, the user can select from three different int
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_standard_4.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_standard_4s.jpg"
-        alt="Standard seats in fabric" title="Standard seats in fabric">
+        class="img-fluid" alt="Standard seats in fabric" title="Standard seats in fabric">
     </a>
     <figcaption><h4>Standard seats in fabric</h4></figcaption>
 </figure>
@@ -160,7 +160,7 @@ With the optional massage function, the user can select from three different int
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_standard_5.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_standard_5s.jpg"
-        alt="Standard seats in fabric" title="Standard seats in fabric">
+        class="img-fluid" alt="Standard seats in fabric" title="Standard seats in fabric">
     </a>
     <figcaption><h4>Standard seats in fabric</h4></figcaption>
 </figure>
@@ -170,7 +170,7 @@ With the optional massage function, the user can select from three different int
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_sportseats_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_sportseats_1s.jpg"
-        alt="Sport seats in black Valcona leather" title="Sport seats in black Valcona leather">
+        class="img-fluid" alt="Sport seats in black Valcona leather" title="Sport seats in black Valcona leather">
     </a>
     <figcaption><h4>Sport seats in black Valcona leather</h4></figcaption>
 </figure>
@@ -178,7 +178,7 @@ With the optional massage function, the user can select from three different int
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_sportseats_2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_sportseats_2s.jpg"
-        alt="Sport seats in black Valcona leather" title="Sport seats in black Valcona leather">
+        class="img-fluid" alt="Sport seats in black Valcona leather" title="Sport seats in black Valcona leather">
     </a>
     <figcaption><h4>Sport seats in black Valcona leather</h4></figcaption>
 </figure>
@@ -186,7 +186,7 @@ With the optional massage function, the user can select from three different int
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_sportseats_3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_sportseats_3s.jpg"
-        alt="Sport seats in Alcantara" title="Sport seats in Alcantara">
+        class="img-fluid" alt="Sport seats in Alcantara" title="Sport seats in Alcantara">
     </a>
     <figcaption><h4>Sport seats in Alcantara</h4></figcaption>
 </figure>
@@ -196,7 +196,7 @@ With the optional massage function, the user can select from three different int
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_slinesportseats_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_slinesportseats_1s.jpg"
-        alt="S-line Sport seats" title="S-line Sport seats">
+        class="img-fluid" alt="S-line Sport seats" title="S-line Sport seats">
     </a>
     <figcaption><h4>S-line Sport seats</h4></figcaption>
 </figure>
@@ -204,7 +204,7 @@ With the optional massage function, the user can select from three different int
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_slinesportseats_2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_slinesportseats_2s.jpg"
-        alt="S-line Sport seats" title="S-line Sport seats">
+        class="img-fluid" alt="S-line Sport seats" title="S-line Sport seats">
     </a>
     <figcaption><h4>S-line Sport seats</h4></figcaption>
 </figure>
@@ -212,7 +212,7 @@ With the optional massage function, the user can select from three different int
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_slinesportseats_3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_slinesportseats_3s.jpg"
-        alt="S-line Sport seats" title="S-line Sport seats">
+        class="img-fluid" alt="S-line Sport seats" title="S-line Sport seats">
     </a>
     <figcaption><h4>S-line Sport seats</h4></figcaption>
 </figure>
@@ -220,7 +220,7 @@ With the optional massage function, the user can select from three different int
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_slinesportseats_4.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_slinesportseats_4s.jpg"
-        alt="S-line Sport seats with Alcantara Frequenz/leather" title="S-line Sport seats with Alcantara Frequenz/leather">
+        class="img-fluid" alt="S-line Sport seats with Alcantara Frequenz/leather" title="S-line Sport seats with Alcantara Frequenz/leather">
     </a>
     <figcaption><h4>S-line Sport seats with Alcantara Frequenz/leather</h4></figcaption>
 </figure>
@@ -228,7 +228,7 @@ With the optional massage function, the user can select from three different int
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_slinesportseats_5.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_slinesportseats_5s.jpg"
-        alt="S-line Sport seats with Alcantara Frequenz/leather" title="S-line Sport seats with Alcantara Frequenz/leather">
+        class="img-fluid" alt="S-line Sport seats with Alcantara Frequenz/leather" title="S-line Sport seats with Alcantara Frequenz/leather">
     </a>
     <figcaption><h4>S-line Sport seats with Alcantara Frequenz/leather</h4></figcaption>
 </figure>
@@ -236,7 +236,7 @@ With the optional massage function, the user can select from three different int
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_slinesportseats_6.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_slinesportseats_6s.jpg"
-        alt="S-line Sport seats with Alcantara Frequenz/leather" title="S-line Sport seats with Alcantara Frequenz/leather">
+        class="img-fluid" alt="S-line Sport seats with Alcantara Frequenz/leather" title="S-line Sport seats with Alcantara Frequenz/leather">
     </a>
     <figcaption><h4>S-line Sport seats with Alcantara Frequenz/leather</h4></figcaption>
 </figure>
@@ -244,7 +244,7 @@ With the optional massage function, the user can select from three different int
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_slinesportseats_7.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_slinesportseats_7s.jpg"
-        alt="S-line Sport seats with Alcantara Frequenz/leather and orange stichings from 2022 Black edition" title="S-line Sport seats with Alcantara Frequenz/leather and orange stichings from 2022 Black edition">
+        class="img-fluid" alt="S-line Sport seats with Alcantara Frequenz/leather and orange stichings from 2022 Black edition" title="S-line Sport seats with Alcantara Frequenz/leather and orange stichings from 2022 Black edition">
     </a>
     <figcaption><h4>S-line Sport seats with Alcantara Frequenz/leather and orange stichings from 2022 Black edition</h4></figcaption>
 </figure>
@@ -254,7 +254,7 @@ With the optional massage function, the user can select from three different int
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_ssportseats_5.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_ssportseats_5s.jpg"
-        alt="S-Sport seats in black Valcona leather" title="S-Sport seats in black Valcona leather">
+        class="img-fluid" alt="S-Sport seats in black Valcona leather" title="S-Sport seats in black Valcona leather">
     </a>
     <figcaption><h4>S-Sport seats in black Valcona leather</h4></figcaption>
 </figure>
@@ -263,7 +263,7 @@ With the optional massage function, the user can select from three different int
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_ssportseats_6.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_ssportseats_6s.jpg"
-        alt="S-Sport seats in black Valcona leather" title="S-Sport seats in black Valcona leather">
+        class="img-fluid" alt="S-Sport seats in black Valcona leather" title="S-Sport seats in black Valcona leather">
     </a>
     <figcaption><h4>S-Sport seats in black Valcona leather</h4></figcaption>
 </figure>
@@ -271,7 +271,7 @@ With the optional massage function, the user can select from three different int
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_ssportseats_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_ssportseats_1s.jpg"
-        alt="S-Sport seats in black Valcona leather" title="S-Sport seats in black Valcona leather">
+        class="img-fluid" alt="S-Sport seats in black Valcona leather" title="S-Sport seats in black Valcona leather">
     </a>
     <figcaption><h4>S-Sport seats in black Valcona leather</h4></figcaption>
 </figure>
@@ -279,7 +279,7 @@ With the optional massage function, the user can select from three different int
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_ssportseats_2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_ssportseats_2s.jpg"
-        alt="S-Sport seats in rotor gray Valcona leather" title="S-Sport seats in rotor gray Valcona leather">
+        class="img-fluid" alt="S-Sport seats in rotor gray Valcona leather" title="S-Sport seats in rotor gray Valcona leather">
     </a>
     <figcaption><h4>S-Sport seats in rotor gray Valcona leather</h4></figcaption>
 </figure>
@@ -287,7 +287,7 @@ With the optional massage function, the user can select from three different int
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_ssportseats_3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_ssportseats_3s.jpg"
-        alt="S-Sport seats in rotor gray Valcona leather" title="S-Sport seats in rotor gray Valcona leather">
+        class="img-fluid" alt="S-Sport seats in rotor gray Valcona leather" title="S-Sport seats in rotor gray Valcona leather">
     </a>
     <figcaption><h4>S-Sport seats in rotor gray Valcona leather</h4></figcaption>
 </figure>
@@ -295,7 +295,7 @@ With the optional massage function, the user can select from three different int
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_ssportseats_4.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_ssportseats_4s.jpg"
-        alt="S-Sport seats in rotor gray Valcona leather" title="S-Sport seats in rotor gray Valcona leather">
+        class="img-fluid" alt="S-Sport seats in rotor gray Valcona leather" title="S-Sport seats in rotor gray Valcona leather">
     </a>
     <figcaption><h4>S-Sport seats in rotor gray Valcona leather</h4></figcaption>
 </figure>
@@ -303,7 +303,7 @@ With the optional massage function, the user can select from three different int
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_ssportseats_7.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_ssportseats_7s.jpg"
-        alt="S-Sport seats in arras red Valcona leather" title="S-Sport seats in arras red Valcona leather">
+        class="img-fluid" alt="S-Sport seats in arras red Valcona leather" title="S-Sport seats in arras red Valcona leather">
     </a>
     <figcaption><h4>S-Sport seats in arras red Valcona leather</h4></figcaption>
 </figure>
@@ -321,7 +321,7 @@ The massage function has option id **4D8**
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_1s.jpg"
-        alt="Individual Contour Seats" title="Individual Contour Seats">
+        class="img-fluid" alt="Individual Contour Seats" title="Individual Contour Seats">
     </a>
     <figcaption><h4>Individual Contour Seats</h4></figcaption>
 </figure>
@@ -330,7 +330,7 @@ The massage function has option id **4D8**
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_2s.jpg"
-        alt="Individual Contour Seats" title="Individual Contour Seats">
+        class="img-fluid" alt="Individual Contour Seats" title="Individual Contour Seats">
     </a>
     <figcaption><h4>Individual Contour Seats</h4></figcaption>
 </figure>
@@ -339,7 +339,7 @@ The massage function has option id **4D8**
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_3s.jpg"
-        alt="Individual Contour Seats" title="Individual Contour Seats">
+        class="img-fluid" alt="Individual Contour Seats" title="Individual Contour Seats">
     </a>
     <figcaption><h4>Individual Contour Seats</h4></figcaption>
 </figure>
@@ -347,7 +347,7 @@ The massage function has option id **4D8**
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_4.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_4s.jpg"
-        alt="Individual Contour Seats" title="Individual Contour Seats">
+        class="img-fluid" alt="Individual Contour Seats" title="Individual Contour Seats">
     </a>
     <figcaption><h4>Individual Contour Seats</h4></figcaption>
 </figure>
@@ -355,7 +355,7 @@ The massage function has option id **4D8**
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_5.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_5s.jpg"
-        alt="Individual Contour Seats" title="Individual Contour Seats">
+        class="img-fluid" alt="Individual Contour Seats" title="Individual Contour Seats">
     </a>
     <figcaption><h4>Individual Contour Seats</h4></figcaption>
 </figure>
@@ -363,7 +363,7 @@ The massage function has option id **4D8**
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_7.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_7s.jpg"
-        alt="Individual Contour Seats in black Valcona Leather" title="Individual Contour Seats in black Valcona Leather">
+        class="img-fluid" alt="Individual Contour Seats in black Valcona Leather" title="Individual Contour Seats in black Valcona Leather">
     </a>
     <figcaption><h4>Individual Contour Seats in black Valcona Leather</h4></figcaption>
 </figure>
@@ -371,7 +371,7 @@ The massage function has option id **4D8**
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_8.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_8s.jpg"
-        alt="Individual Contour Seats in black Valcona Leather" title="Individual Contour Seats in black Valcona Leather">
+        class="img-fluid" alt="Individual Contour Seats in black Valcona Leather" title="Individual Contour Seats in black Valcona Leather">
     </a>
     <figcaption><h4>Individual Contour Seats in black Valcona Leather</h4></figcaption>
 </figure>
@@ -379,7 +379,7 @@ The massage function has option id **4D8**
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_9.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_9s.jpg"
-        alt="Individual Contour Seats in perfored black Valcona Leather with ventilation" title="Individual Contour Seats in perfored black Valcona Leather with ventilation">
+        class="img-fluid" alt="Individual Contour Seats in perfored black Valcona Leather with ventilation" title="Individual Contour Seats in perfored black Valcona Leather with ventilation">
     </a>
     <figcaption><h4>Individual Contour Seats in perfored black Valcona Leather with ventilation</h4></figcaption>
 </figure>
@@ -387,7 +387,7 @@ The massage function has option id **4D8**
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_10.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_10s.jpg"
-        alt="Individual Contour Seats in perfored black Valcona Leather with ventilation" title="Individual Contour Seats in perfored black Valcona Leather with ventilation">
+        class="img-fluid" alt="Individual Contour Seats in perfored black Valcona Leather with ventilation" title="Individual Contour Seats in perfored black Valcona Leather with ventilation">
     </a>
     <figcaption><h4>Individual Contour Seats in perfored black Valcona Leather with ventilation</h4></figcaption>
 </figure>

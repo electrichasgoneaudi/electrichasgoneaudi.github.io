@@ -18,7 +18,7 @@ Den medfølgende fartsbegrenseren hjelper til med å ikke overskride en tidliger
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/adaptivecruisecontrol/cruisecontrol.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/adaptivecruisecontrol/cruisecontrols.jpg"
-        alt="Cruisekontrollhåndtaket styrer funksjonen." title="Cruisekontrollhåndtaket styrer funksjonen.">
+        class="img-fluid" alt="Cruisekontrollhåndtaket styrer funksjonen." title="Cruisekontrollhåndtaket styrer funksjonen.">
     </a>
     <figcaption><h4>Cruisekontrollhåndtaket styrer funksjonen.</h4></figcaption>
 </figure>
@@ -30,4 +30,4 @@ Lim-knappen på toppen aktiverer hastighetsbegrenseren.
 
 Dette alternativet er en del av assistentpakken tur med tilvalgsid-ID **PCC**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

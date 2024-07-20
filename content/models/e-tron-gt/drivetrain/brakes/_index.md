@@ -10,7 +10,7 @@ The e-tron GT quattro comes as standard with steel disks with a diameter of 360 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/brakes/brakes2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/brakes/brakes2s.jpg" alt="Carbid brakes" title="Carbid brakes">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/brakes/brakes2s.jpg" class="img-fluid" alt="Carbid brakes" title="Carbid brakes">
     </a>
     <figcaption><h4>Carbid brakes</h4></figcaption>
 </figure>
@@ -19,7 +19,7 @@ The e-tron GT quattro comes as standard with steel disks with a diameter of 360 
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/brakes/brakes1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/brakes/brakes1s.jpg" alt="Ceramic brakes" title="Ceramic brakes">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/brakes/brakes1s.jpg" class="img-fluid" alt="Ceramic brakes" title="Ceramic brakes">
     </a>
     <figcaption><h4>Ceramic brakes</h4></figcaption>
 </figure>

@@ -9,7 +9,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/presensefront/presencefront.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/presensefront/presencefronts.jpg"
-        alt="Audi pre sense front" title="Audi pre sense front">
+        class="img-fluid" alt="Audi pre sense front" title="Audi pre sense front">
     </a>
     <figcaption><h4>Audi pre sense front</h4></figcaption>
 </figure>
@@ -25,4 +25,4 @@ I videoen under fra ca 2:55 så ser du testing av Pre Sense front og hvordan den
 
 Audi pre sense front er standardutstyr på Audi Q4 e-tron i Norge. Tilvalgs **8J3**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

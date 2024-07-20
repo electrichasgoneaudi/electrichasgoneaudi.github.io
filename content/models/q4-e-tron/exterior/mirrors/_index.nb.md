@@ -3,6 +3,7 @@ title: Audi Q4 e-tron speil
 linktitle: Speilene
 description: Speilene kan leveres i forskjellige varianter. 
 weight: 7
+sectiontabs: "/nb/models/q4-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 ## Funksjonalitet
@@ -12,7 +13,7 @@ Elektrisk justerbare speil med varme er standard på Audi e-tron (opsjon ID 6XN)
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/mirrors/control.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/mirrors/controls.jpg"
-        alt="Speilene er kontrollert i førerdør" title="Speilene er kontrollert i førerdør">
+        class="img-fluid" alt="Speilene er kontrollert i førerdør" title="Speilene er kontrollert i førerdør">
     </a>
     <figcaption><h4>Speilene er kontrollert i førerdør</h4></figcaption>
 </figure>
@@ -33,7 +34,7 @@ Dette er standardalternativet.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/mirrors/paintedmirrors.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/mirrors/paintedmirrorss.jpg"
-        alt="Lakkerte speil" title="Lakkerte speil">
+        class="img-fluid" alt="Lakkerte speil" title="Lakkerte speil">
     </a>
     <figcaption><h4>Lakkerte speil</h4></figcaption>
 </figure>
@@ -43,7 +44,7 @@ Sorte speil. Opsjon **6FJ**
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/mirrors/blackmirrors.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/mirrors/blackmirrorss.jpg"
-        alt="Sorte speil" title="Sorte speil">
+        class="img-fluid" alt="Sorte speil" title="Sorte speil">
     </a>
     <figcaption><h4>Sorte speil</h4></figcaption>
 </figure>

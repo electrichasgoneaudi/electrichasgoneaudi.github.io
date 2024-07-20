@@ -5,4 +5,4 @@ description: Her finner du relevante sammenligninger mellom forskjellige modelle
 weight: 100
 ---
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

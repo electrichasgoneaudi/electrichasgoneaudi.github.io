@@ -9,7 +9,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/presensefront/presencefront.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/presensefront/presencefronts.jpg"
-        alt="Audi pre sense front" title="Audi pre sense front">
+        class="img-fluid" alt="Audi pre sense front" title="Audi pre sense front">
     </a>
     <figcaption><h4>Audi pre sense front</h4></figcaption>
 </figure>
@@ -25,4 +25,4 @@ In the below video below from 2:55 you see testing of Pre Sense front functional
 
 Audi pre sense front is standard equipment on Audi Q4 e-tron. Option ID **8J3**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

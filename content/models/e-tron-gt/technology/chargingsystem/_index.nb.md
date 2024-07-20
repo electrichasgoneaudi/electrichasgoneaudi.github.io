@@ -17,7 +17,7 @@ I USA har ladesystemet en [J1772-kontakt](https://en.wikipedia.org/wiki/SAE_J177
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/chargingsystem/chargeport_right.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/chargingsystem/chargeport_rights.jpg"
-        alt="Type 2 Ladeport" title="Type 2 Ladeport">
+        class="img-fluid" alt="Type 2 Ladeport" title="Type 2 Ladeport">
     </a>
     <figcaption><h4>Type 2 Ladeport</h4></figcaption>
 </figure>
@@ -32,7 +32,7 @@ mellom et 230-voltsanlegg og et 400-voltsanlegg ved bestilling av bilen.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/chargingsystemcompact2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/chargingsystemcompact2s.jpg"
-        alt="Ladesystem kompakt" title="Ladesystem kompakt">
+        class="img-fluid" alt="Ladesystem kompakt" title="Ladesystem kompakt">
     </a>
     <figcaption><h4>Ladesystem kompakt</h4></figcaption>
 </figure>
@@ -40,7 +40,7 @@ mellom et 230-voltsanlegg og et 400-voltsanlegg ved bestilling av bilen.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/chargingsystemcompact.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/chargingsystemcompacts.jpg"
-        alt="Ladesystem kompakt" title="Ladesystem kompakt">
+        class="img-fluid" alt="Ladesystem kompakt" title="Ladesystem kompakt">
     </a>
     <figcaption><h4>Ladesystem kompakt</h4></figcaption>
 </figure>
@@ -62,7 +62,7 @@ Audi anbefaler et trefaset, 400-volts uttak for optimal bruk av ladesystemets ti
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/chargingsystemconnect.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/chargingsystemconnects.jpg"
-        alt="Charging system connect" title="Charging system connect">
+        class="img-fluid" alt="Charging system connect" title="Charging system connect">
     </a>
     <figcaption><h4>ladesystem connect</h4></figcaption>
 </figure>
@@ -104,9 +104,9 @@ De går på 230/240 eller 400 volt avhengig av nettverket i hjemmet ditt.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/audiwallbox.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/audiwallboxs.jpg"
-        alt="Installer et kablet nivå 2 ladesystem" title="Installer et kablet nivå 2 ladesystem">
+        class="img-fluid" alt="Installer et kablet nivå 2 ladesystem" title="Installer et kablet nivå 2 ladesystem">
     </a>
     <figcaption><h4>Installer et kablet nivå 2 ladesystem</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

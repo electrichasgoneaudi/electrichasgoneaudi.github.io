@@ -11,7 +11,7 @@ In the future, it will be possible to build models from all brands and segments 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/drivetrain.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/drivetrains.jpg"
-        alt="SSP Drivetrain" title="SSP Drivetrain">
+        class="img-fluid" alt="SSP Drivetrain" title="SSP Drivetrain">
     </a>
     <figcaption><h4>SSP Drivetrain</h4></figcaption>
 </figure>
@@ -21,7 +21,7 @@ With the SSP, the Volkswagen Group can rapidly and efficiently provide its custo
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/ssp1.png">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/ssp1s.png"
-        alt="SSP will be the only platform for VW in the future" title="SSP will be the only platform for VW in the future">
+        class="img-fluid" alt="SSP will be the only platform for VW in the future" title="SSP will be the only platform for VW in the future">
     </a>
     <figcaption><h4>SSP will be the only platform for VW in the future</h4></figcaption>
 </figure>
@@ -40,14 +40,14 @@ The first models from Audi on this platform is expected to by
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/ssp2.png">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/ssp2s.png"
-        alt="Models on SSP" title="Models on SSP">
+        class="img-fluid" alt="Models on SSP" title="Models on SSP">
     </a>
     <figcaption><h4>Models on SSP</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_1s.jpg" alt="Skyspehere concept can be a reality on SSP" title="Skyspehere concept can be a reality on SSP">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_1s.jpg" class="img-fluid" alt="Skyspehere concept can be a reality on SSP" title="Skyspehere concept can be a reality on SSP">
     </a>
     <figcaption><h4>Skyspehere concept can be a reality on SSP</h4></figcaption>
 </figure>
@@ -59,7 +59,7 @@ With SSP the car models can be configured in different setups to support models 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/ssp3.png">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/ssp3s.png"
-        alt="Serveral configuration possibilities with SSP" title="Serveral configuration possibilities with SSP">
+        class="img-fluid" alt="Serveral configuration possibilities with SSP" title="Serveral configuration possibilities with SSP">
     </a>
     <figcaption><h4>Serveral configuration possibilities with SSP</h4></figcaption>
 </figure>
@@ -73,7 +73,7 @@ One of the key changes to the battery on SSP compared to other platforms is that
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/unifiedcell1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/unifiedcell1s.jpg"
-        alt="VW Unified cell" title="VW Unified cell">
+        class="img-fluid" alt="VW Unified cell" title="VW Unified cell">
     </a>
     <figcaption><h4>VW Unified cell</h4></figcaption>
 </figure>
@@ -94,4 +94,4 @@ See this video for detailed info about the software platforms.
 
 [See Audi Chairman Markus Duesmann talk about SSP](https://comsatmedia.s3.eu-west-1.amazonaws.com/vw/vwnewsroom/2021-07-13_strategy_day/vw_210713_strategyday_speech_duesmann_en.mp4) from July 13. 2021
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

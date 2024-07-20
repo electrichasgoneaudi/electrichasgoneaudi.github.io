@@ -10,7 +10,7 @@ Et virtuelt overheadbilde vist i MMI-displayet gir føreren en oversikt over den
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/360camera/camerarear.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/360camera/camerarears.jpg"
-        alt="Bakkamera" title="Bakkamera">
+        class="img-fluid" alt="Bakkamera" title="Bakkamera">
     </a>
     <figcaption><h4>Bakkamera</h4></figcaption>
 </figure>
@@ -20,7 +20,7 @@ En tilleggsfunksjon for noen modeller er en virtuell 3D-visning. Føreren kan br
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/360camera/camera3d.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/360camera/camera3ds.jpg"
-        alt="3D visning" title="3D visning">
+        class="img-fluid" alt="3D visning" title="3D visning">
     </a>
     <figcaption><h4>3D visning</h4></figcaption>
 </figure>
@@ -28,11 +28,11 @@ En tilleggsfunksjon for noen modeller er en virtuell 3D-visning. Føreren kan br
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/360camera/camera3d_2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/360camera/camera3d_2s.jpg"
-        alt="3D visning" title="3D visning">
+        class="img-fluid" alt="3D visning" title="3D visning">
     </a>
     <figcaption><h4>3D visning</h4></figcaption>
 </figure>
 
 360-kamera(Omgivelsesvisning) har alternativ-ID **PCZ** (omgivelsesvisning).
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

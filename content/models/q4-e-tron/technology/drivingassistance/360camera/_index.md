@@ -10,7 +10,7 @@ A virtual overhead view shown in the MMI display gives the driver an overview of
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/360camera/360camera.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/360camera/360cameras.jpg"
-        alt="360 camera Audi Q4 e-tron" title="360 camera Audi Q4 e-tron">
+        class="img-fluid" alt="360 camera Audi Q4 e-tron" title="360 camera Audi Q4 e-tron">
     </a>
     <figcaption><h4>360 camera Audi Q4 e-tron</h4></figcaption>
 </figure>
@@ -19,4 +19,4 @@ An additional feature for some models is a virtual 3D view. The driver can use t
 
 360 camera has option id **PCZ** on Audi Q4 e-tron.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -106,4 +106,4 @@ weight: 2
 | Max roof weight | ? kg |
 | Ground clearance | 180mm/165mm (Sport suspension)
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

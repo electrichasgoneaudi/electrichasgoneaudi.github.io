@@ -1,0 +1,76 @@
+<div class="container mb-4">
+	<div id="latestNewsCarousel" class="carousel slide" data-bs-ride="carousel">
+		<div class="carousel-indicators">
+			<button type="button" data-bs-target="#latestNewsCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+			<button type="button" data-bs-target="#latestNewsCarousel" data-bs-slide-to="1" class="" aria-current="true" aria-label="Slide 2"></button>
+			<button type="button" data-bs-target="#latestNewsCarousel" data-bs-slide-to="2" class="" aria-current="true" aria-label="Slide 3"></button>
+			<button type="button" data-bs-target="#latestNewsCarousel" data-bs-slide-to="3" class="" aria-current="true" aria-label="Slide 4"></button>
+			<button type="button" data-bs-target="#latestNewsCarousel" data-bs-slide-to="4" class="" aria-current="true" aria-label="Slide 5"></button>
+			<button type="button" data-bs-target="#latestNewsCarousel" data-bs-slide-to="5" class="" aria-current="true" aria-label="Slide 6"></button>
+		</div>
+		<div class="carousel-inner">
+			<div class="carousel-item active image-box">
+				<a href="{{ with .Site.GetPage `/articles/etrongtrefresh/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/variants/variants_2_mt.jpg" class="d-block w-100 image-cropped-calc" class="img-fluid" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>{{T "ffrontpage-article-etronggtrefresh-title"}}</h4>
+					<p class="d-none d-md-block">{{T "frontpage-article-etronggtrefresh-synopsis"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item image-box">
+				<a href="{{ with .Site.GetPage `/articles/q6worldpremiere/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/q6dynamic_1_mt.jpg" class="d-block w-100 image-cropped-calc" class="img-fluid" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>{{T "frontpage-article-q6worldpremiere-title"}}</h4>
+					<p class="d-none d-md-block">{{T "frontpage-article-q6worldpremiere-synopsis"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
+				<a href="{{ with .Site.GetPage `/models/q6-e-tron/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/wintertesting_1_mt.jpg" class="d-block w-100 image-cropped-calc" class="img-fluid" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>{{T "frontpage-article-q6wintertesting-title"}}</h4>
+					<p class="d-none d-md-block">{{T "frontpage-article-q6wintertesting-synopsis"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
+				<a href="{{ with .Site.GetPage `/articles/activesphere/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere1_mt.jpg" class="d-block w-100 image-cropped-calc" class="img-fluid" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>{{T "frontpage-article-activesphere-title"}}</h4>
+					<p class="d-none d-md-block">{{T "frontpage-article-activesphere-synopsis"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
+				<a href="{{ with .Site.GetPage `/articles/q8production/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production1_mt.jpg" class="d-block w-100 image-cropped-calc" class="img-fluid" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>{{T "frontpage-article-q8production-title"}}</h4>
+					<p class="d-none d-md-block">{{T "frontpage-article-q8production-synopsis"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
+				<a href="{{ with .Site.GetPage `/articles/e-tron-facelift-q8-etron-2024/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/audi_sq8_front_article_mt.jpeg" class="d-block w-100 image-cropped-calc" class="img-fluid" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>{{T "frontpage-article-q8worldpremiere-title"}}</h4>
+					<p class="d-none d-md-block">{{T "frontpage-article-q8worldpremiere-synopsis"}}}</p>
+				</div>
+			</div>
+		</div>
+		<button class="carousel-control-prev" type="button" data-bs-target="#latestNewsCarousel" data-bs-slide="prev">
+			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			<span class="visually-hidden">Previous</span>
+		</button>
+		<button class="carousel-control-next" type="button" data-bs-target="#latestNewsCarousel" data-bs-slide="next">
+			<span class="carousel-control-next-icon" aria-hidden="true"></span>
+			<span class="visually-hidden">Next</span>
+		</button>
+	</div>
+</div>

@@ -9,7 +9,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/cruisecontrol/cruisecontrolhandle.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/cruisecontrol/cruisecontrolhandles.jpg"
-        alt="Cruise control hendel" title="Cruise control hendel">
+        class="img-fluid" alt="Cruise control hendel" title="Cruise control hendel">
     </a>
     <figcaption><h4>Cruise control hendel</h4></figcaption>
 </figure>
@@ -18,4 +18,4 @@ Systemet gir avlastning til sjåførene på denne måten – spesielt på lange 
 
 Cruise control er standard på Audi e-tron men ersattes ofte av [Adaptive Cruise Control](../adaptivecruisecontrol/)
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

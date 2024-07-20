@@ -14,7 +14,7 @@ Trenger du data til Wifi-sonen eller nettradio i bilen må du kjøpe en ekstra d
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/dataplan/simport.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/dataplan/simports.jpg"
-        alt="På Audi e-tron 2019/2020-modeller var det en sim-kortinngang" title="På Audi e-tron 2019/2020-modeller var det en sim-kortinngang">
+        class="img-fluid" alt="På Audi e-tron 2019/2020-modeller var det en sim-kortinngang" title="På Audi e-tron 2019/2020-modeller var det en sim-kortinngang">
     </a>
     <figcaption><h4>På Audi e-tron 2019/2020-modeller var det en sim-kortinngang</h4></figcaption>
 </figure>

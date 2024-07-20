@@ -13,7 +13,7 @@ Ved bruk av regenerative bremser, brukes den bakre og fremre motoren (på Q4 45/
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/brakes/recuperation.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/brakes/recuperations.jpg"
-        alt="Audi Q4 e-tron recuperation" title="Audi Q4 e-tron recuperation">
+        class="img-fluid" alt="Audi Q4 e-tron recuperation" title="Audi Q4 e-tron recuperation">
     </a>
     <figcaption><h4>Audi Q4 e-tron recuperation</h4></figcaption>
 </figur>
@@ -56,7 +56,7 @@ Audi bruker skivebremser for forhjulene.
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/brakes/frontbrake.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/brakes/frontbrakes.jpg"
-        alt="Frontbrems" title="Frontbrems">
+        class="img-fluid" alt="Frontbrems" title="Frontbrems">
     </a>
     <figcaption><h4>Frontbrems</h4></figcaption>
 </figur>
@@ -66,7 +66,7 @@ På bakhjulene bruker den trommelbremser.
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/brakes/rearbrake.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/brakes/rearbrakes.jpg"
-        alt="Brems bak" title="Brems bak">
+        class="img-fluid" alt="Brems bak" title="Brems bak">
     </a>
     <figcaption><h4>Bakbrems</h4></figcaption>
 </figur>

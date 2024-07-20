@@ -9,7 +9,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/audiq4_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/audiq4_1s.jpg"
-        alt="Audi Q4 e-tron utstyrt med prediktiv effektivitetsassistent." title="Audi Q4 e-tron utstyrt med prediktiv effektivitetsassistent.">
+        class="img-fluid" alt="Audi Q4 e-tron utstyrt med prediktiv effektivitetsassistent." title="Audi Q4 e-tron utstyrt med prediktiv effektivitetsassistent.">
     </a>
     <figcaption><h4>Audi Q4 e-tron utstyrt med prediktiv effektivitetsassistent.</h4></figcaption>
 </figure>
@@ -31,7 +31,7 @@ Symboler for fartsgrenser, svinger, rundkjøringer, tettsteder eller nedoverbakk
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/efficiencyassist_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/efficiencyassist_1s.jpg"
-        alt="Prediktiv effektivitetshjelp i Audi Q4 e-tron, og anbefaler å bremse ned på grunn av en rundkjøring." title="Prediktiv effektivitetshjelp i Audi Q4 e-tron, og anbefaler å bremse ned på grunn av en rundkjøring.">
+        class="img-fluid" alt="Prediktiv effektivitetshjelp i Audi Q4 e-tron, og anbefaler å bremse ned på grunn av en rundkjøring." title="Prediktiv effektivitetshjelp i Audi Q4 e-tron, og anbefaler å bremse ned på grunn av en rundkjøring.">
     </a>
     <figcaption><h4>Prediktiv effektivitetshjelp i Audi Q4 e-tron, og anbefaler å bremse ned på grunn av en rundkjøring.</h4></figcaption>
 </figure>

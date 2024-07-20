@@ -14,7 +14,7 @@ You can manage all your Audis in the same app
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapps.jpg"
-        alt="in the myAudi app, you can control your different cars" title="in the myAudi app, you can control your different cars">
+        class="img-fluid" alt="in the myAudi app, you can control your different cars" title="in the myAudi app, you can control your different cars">
     </a>
     <figcaption><h4>in the myAudi app, you can control your different cars</h4></figcaption>
 </figure>
@@ -26,7 +26,7 @@ You get the current car status.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp1s.jpg"
-        alt="You can see the overall status" title="You can see the overall status">
+        class="img-fluid" alt="You can see the overall status" title="You can see the overall status">
     </a>
     <figcaption><h4>You can see the overall status</h4></figcaption>
 </figure>
@@ -36,7 +36,7 @@ You get the current car status.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp2s.jpg"
-        alt="You can see the different functions" title="You can see the different functions">
+        class="img-fluid" alt="You can see the different functions" title="You can see the different functions">
     </a>
     <figcaption><h4>You can see the different functions</h4></figcaption>
 </figure>
@@ -49,7 +49,7 @@ the most you should only charge to 100% when you need to.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp3s.jpg"
-        alt="Setting charging target" title="Setting charging target">
+        class="img-fluid" alt="Setting charging target" title="Setting charging target">
     </a>
     <figcaption><h4>Setting charging target</h4></figcaption>
 </figure>
@@ -59,7 +59,7 @@ the most you should only charge to 100% when you need to.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp4.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp4s.jpg"
-        alt="You can start the climate control" title="You can start the climate control">
+        class="img-fluid" alt="You can start the climate control" title="You can start the climate control">
     </a>
     <figcaption><h4>You can start the climate control</h4></figcaption>
 </figure>
@@ -69,7 +69,7 @@ the most you should only charge to 100% when you need to.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp5.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp5s.jpg"
-        alt="You can see the full equipment list of your car" title="You can see the full equipment list of your car">
+        class="img-fluid" alt="You can see the full equipment list of your car" title="You can see the full equipment list of your car">
     </a>
     <figcaption><h4>You can see the full equipment list of your car</h4></figcaption>
 </figure>
@@ -79,7 +79,7 @@ the most you should only charge to 100% when you need to.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp6.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp6s.jpg"
-        alt="You can see short-term memory driver data" title="You can see short-term memory driver data">
+        class="img-fluid" alt="You can see short-term memory driver data" title="You can see short-term memory driver data">
     </a>
     <figcaption><h4>You can see short-term memory driver data</h4></figcaption>
 </figure>
@@ -87,7 +87,7 @@ the most you should only charge to 100% when you need to.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp7.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp7s.jpg"
-        alt="You can see long-term memory driver data" title="You can see long-term memory driver data">
+        class="img-fluid" alt="You can see long-term memory driver data" title="You can see long-term memory driver data">
     </a>
     <figcaption><h4>You can see long-term memory driver data</h4></figcaption>
 </figure>

@@ -43,7 +43,7 @@
   translation: Models
 
 - id: frontpage-sections-models-description
-  translation: Read about the different models.
+  translation: Read all about the current, upcomming and previous all electric models from Audi
 
 - id: frontpage-sections-technology-title
   translation: Technology
@@ -172,3 +172,21 @@
 
 - id: frontpage-article-prototypetestdrive-synopsis
   translation: Audi has released more information about the upcoming Audi Q6 e-tron. 
+
+- id: frontpage-article-q6worldpremiere-title
+  translation: Audi Q6 e-tron world premiere
+
+- id: frontpage-article-q6worldpremiere-synopsis
+  translation: Read all details about this new premium SUV 
+
+- id: frontpage-article-q4vsq6vsq8-title
+  translation: Q4 e-tron vs Q6 e-tron vs Q8 e-tron
+
+- id: frontpage-article-q4vsq6vsq8-synopsis
+  translation: Read the world most detailed comparions between the new Q6 e-tron and Q4 and Q8 e-tron
+
+- id: frontpage-article-etronggtrefresh-title
+  translation: Audi e-tron GT refresh
+
+- id: frontpage-article-etronggtrefresh-synopsis
+  translation: More power, more range and new variants. 

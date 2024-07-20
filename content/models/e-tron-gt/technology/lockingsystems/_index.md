@@ -21,7 +21,7 @@ To do this, the driver must sit in the vehicle and carry the convenience key wit
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/startbutton.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/startbutton.jpg"
-        alt="Center console with start/stop button" title="Center console with start/stop button">
+        class="img-fluid" alt="Center console with start/stop button" title="Center console with start/stop button">
     </a>
     <figcaption><h4>Center console with start/stop button</h4></figcaption>
 </figure>
@@ -33,7 +33,7 @@ A high-quality visual differentiation on the top and bottom of the key through h
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/advancekey.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/advancekeys.jpg"
-        alt="Audi Advance key" title="Audi Advance key">
+        class="img-fluid" alt="Audi Advance key" title="Audi Advance key">
     </a>
     <figcaption><h4>Audi Advance key</h4></figcaption>
 </figure>
@@ -53,7 +53,7 @@ The luggage compartment lid can be conveniently unlocked with a foot gesture (ki
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/tailgate_buttons.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/tailgate_buttonss.jpg"
-        alt="The tailgate can be closed with buttons and locked" title="The tailgate can be closed with buttons and locked">
+        class="img-fluid" alt="The tailgate can be closed with buttons and locked" title="The tailgate can be closed with buttons and locked">
     </a>
     <figcaption><h4>The tailgate can be closed with buttons and locked</h4></figcaption>
 </figure>

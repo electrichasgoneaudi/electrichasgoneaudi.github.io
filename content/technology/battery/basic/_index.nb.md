@@ -29,4 +29,4 @@ lage en ekstern krets gjennom en elektrisk motor eller en annen elektronisk komp
 
 Strømkollektorene fungerer som en elektrisk leder mellom elektroden og eksterne kretser.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -10,9 +10,9 @@ I tilegg kan du velge forskjellig typer interiørlys, ratt og interiørdesign.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/interior.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/interiors.jpg" 
-        alt="Audi Q4 e-tron interiør" title="Audi Q4 e-tron interiør">
+        class="img-fluid" alt="Audi Q4 e-tron interiør" title="Audi Q4 e-tron interiør">
     </a>
     <figcaption><h4>Audi Q4 e-tron interiør - In</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

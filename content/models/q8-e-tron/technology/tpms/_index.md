@@ -16,7 +16,7 @@ With direct TPMS there is an air pressure sensor in each tire that communicates 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/tpms/tpms3.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/tpms/tpms3s.jpg"
-        alt="Tire pressure measure system" title="Tire pressure measure system">
+        class="img-fluid" alt="Tire pressure measure system" title="Tire pressure measure system">
     </a>
     <figcaption><h4>Tire pressure measure system</h4></figcaption>
 </figure>
@@ -26,7 +26,7 @@ Below you see how MMI indicates that the left front tire has much lower pressure
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/tpms/tpms1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/tpms/tpms1s.jpg"
-        alt="Left front wheel with lower pressure" title="Left front wheel with lower pressure">
+        class="img-fluid" alt="Left front wheel with lower pressure" title="Left front wheel with lower pressure">
     </a>
     <figcaption><h4>Left front wheel with lower pressure</h4></figcaption>
 </figure>
@@ -34,7 +34,7 @@ Below you see how MMI indicates that the left front tire has much lower pressure
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/tpms/tpms2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/tpms/tpms2s.jpg"
-        alt="Tire pressure measure system" title="Tire pressure measure system">
+        class="img-fluid" alt="Tire pressure measure system" title="Tire pressure measure system">
     </a>
     <figcaption><h4>Tire pressure measure system</h4></figcaption>
 </figure>
@@ -48,7 +48,7 @@ The following table shows the correct tire pressure
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/tpms/correcttp.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/tpms/correcttps.jpg"
-        alt="Correct Tire pressure Audi Q8 e-tron" title="Correct Tire pressure Audi Q8 e-tron">
+        class="img-fluid" alt="Correct Tire pressure Audi Q8 e-tron" title="Correct Tire pressure Audi Q8 e-tron">
     </a>
     <figcaption><h4>Correct Tire pressure Audi Q8 e-tron</h4></figcaption>
 </figure>

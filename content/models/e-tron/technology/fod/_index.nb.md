@@ -22,10 +22,10 @@ Følgende utstyr er tilgjengelig for funksjon på forespørsel
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/fod/fod1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/fod/fod1s.jpg"
-        alt="Funksjon på forespørsel fra myAudi-appen" title="Funksjon på forespørsel fra myAudi-appen">
+        class="img-fluid" alt="Funksjon på forespørsel fra myAudi-appen" title="Funksjon på forespørsel fra myAudi-appen">
     </a>
     <figcaption><h4>Funksjon på forespørsel fra myAudi-appen</h4></figcaption>
 </figure>
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

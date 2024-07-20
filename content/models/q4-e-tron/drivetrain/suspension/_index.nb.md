@@ -11,7 +11,7 @@ Forakselen til de kompakte elektriske SUV-ene er designet i den klassiske McPher
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/frontsuspension.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/frontsuspensions.jpg"
-        alt="McPherson front støtdemper med elektrisk motor" title="McPherson front støtdemper med elektrisk motor">
+        class="img-fluid" alt="McPherson front støtdemper med elektrisk motor" title="McPherson front støtdemper med elektrisk motor">
     </a>
     <figcaption><h4>McPherson front støtdemper med elektrisk motor</h4></figcaption>
 </figure>
@@ -21,7 +21,7 @@ En kompakt femleddet design med likheter med bakakselen til de store Audi-modell
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/rearsuspension.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/rearsuspensions.jpg"
-        alt="Femleddet bakre støtdempere med elektrisk motor" title="Femleddet bakre støtdempere med elektrisk motor">
+        class="img-fluid" alt="Femleddet bakre støtdempere med elektrisk motor" title="Femleddet bakre støtdempere med elektrisk motor">
     </a>
     <figcaption><h4>Femleddet bakre støtdempere med elektrisk motor</h4></figcaption>
 </figure>
@@ -31,7 +31,7 @@ Du kan bestille Q4 e-tron med sportsunderstell. Sportsfjæringen (standard i S-l
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/suspension.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/suspension.jpg"
-        alt="Audi Q4 S-line med standard oppheng 180 mm bakkeklaring" title="Audi Q4 S-line med standard oppheng 180 mm bakkeklaring">
+        class="img-fluid" alt="Audi Q4 S-line med standard oppheng 180 mm bakkeklaring" title="Audi Q4 S-line med standard oppheng 180 mm bakkeklaring">
     </a>
     <figcaption><h4>Audi Q4 S-line med standard oppheng 180 mm bakkeklaring</h4></figcaption>
 </figure>
@@ -39,7 +39,7 @@ Du kan bestille Q4 e-tron med sportsunderstell. Sportsfjæringen (standard i S-l
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/slinesuspension.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/slinesuspensions.jpg"
-        alt="Audi Q4 S-line med S-Line oppheng og 165 mm bakkeklaring" title="Audi Q4 S-line med S-Line oppheng og 165 mm bakkeklaring">
+        class="img-fluid" alt="Audi Q4 S-line med S-Line oppheng og 165 mm bakkeklaring" title="Audi Q4 S-line med S-Line oppheng og 165 mm bakkeklaring">
     </a>
     <figcaption><h4>Audi Q4 S-line med S-Line oppheng og 165 mm bakkeklaring</h4></figcaption>
 </figure>

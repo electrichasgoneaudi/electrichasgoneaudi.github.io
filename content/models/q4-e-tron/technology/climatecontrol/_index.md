@@ -18,7 +18,7 @@ The controls are located just below the MMI screen.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/ac1zonecontrol.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/ac1zonecontrols.jpg"
-        alt="The AC has a separate control panel under the MMI screen" title="The AC has a separate control panel under the MMI screen">
+        class="img-fluid" alt="The AC has a separate control panel under the MMI screen" title="The AC has a separate control panel under the MMI screen">
     </a>
     <figcaption><h4>The AC has a separate control panel under the MMI screen</h4></figcaption>
 </figure>
@@ -32,7 +32,7 @@ In the front, this means that the passenger and driver can have individual set t
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/ac3zonecontrol.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/ac3zonecontrols.jpg"
-        alt="3 zone climate control system with an individual temp for driver/passenger" title="3 zone climate control system with an individual temp for driver/passenger">
+        class="img-fluid" alt="3 zone climate control system with an individual temp for driver/passenger" title="3 zone climate control system with an individual temp for driver/passenger">
     </a>
     <figcaption><h4>3 zone climate control system with an individual temp for driver/passenger</h4></figcaption>
 </figure>
@@ -42,7 +42,7 @@ It also gives the passenger in the back seat a separate panel where they can adj
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/rearaccontrol.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/rearaccontrols.jpg"
-        alt="The AC has a separate control panel for the rear seats" title="The AC has a separate control panel for the rear seats">
+        class="img-fluid" alt="The AC has a separate control panel for the rear seats" title="The AC has a separate control panel for the rear seats">
     </a>
     <figcaption><h4>The AC has a separate control panel for the rear seats</h4></figcaption>
 </figure>
@@ -57,7 +57,7 @@ from the MMI manually or set by a timer. One typical use case is when charging s
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/precondition.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/preconditions.jpg"
-        alt="Pre-condition will run for 30 minutes and can be started from MMI or the myAudi app" title="Pre-condition will run for 30 minutes and can be started from MMI or the myAudi app">
+        class="img-fluid" alt="Pre-condition will run for 30 minutes and can be started from MMI or the myAudi app" title="Pre-condition will run for 30 minutes and can be started from MMI or the myAudi app">
     </a>
     <figcaption><h4>Pre-condition will run for 30 minutes and can be started from MMI or the myAudi app</h4></figcaption>
 </figure>
@@ -75,7 +75,7 @@ The Auxiliary air conditioner with extra comfort is part of the [Clima and winte
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/conviencesettings.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/conviencesettings.jpg"
-        alt="Comfort settings" title="Comfort settings">
+        class="img-fluid" alt="Comfort settings" title="Comfort settings">
     </a>
     <figcaption><h4>Comfort settings</h4></figcaption>
 </figure>
@@ -88,4 +88,4 @@ This can reduce consumption in cold weather and by that increase the range. How 
 
 Has option Id **9M3** but it is only available as part of the [climate- and winter-package](/models/q4-e-tron/optionguide/list/#equipment-packages) **WNW**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

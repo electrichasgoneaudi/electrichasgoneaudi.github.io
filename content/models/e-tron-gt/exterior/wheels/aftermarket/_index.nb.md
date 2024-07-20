@@ -13,35 +13,35 @@ Vossen HF4T in Sating Black 10x22 5/130 (Flat) front and 12 x 22 5/130 (deep) in
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf4t_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf4t_1s.jpg" alt="Vossen HF4T in Sating Black 10x22 5/130 (Flat) front and 12 x 22 5/130 (deep) in rear" title="Vossen HF4T in Sating Black 10x22 5/130 (Flat) front and 12 x 22 5/130 (deep) in rear">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf4t_1s.jpg" class="img-fluid" alt="Vossen HF4T in Sating Black 10x22 5/130 (Flat) front and 12 x 22 5/130 (deep) in rear" title="Vossen HF4T in Sating Black 10x22 5/130 (Flat) front and 12 x 22 5/130 (deep) in rear">
     </a>
     <figcaption><h4>Vossen HF4T in Sating Black 10x22 5/130 (Flat) front and 12 x 22 5/130 (deep) in rear</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf4t_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf4t_2s.jpg" alt="Vossen HF4T in Sating Black 10x22 5/130 (Flat) front and 12 x 22 5/130 (deep) in rear" title="Vossen HF4T in Sating Black 10x22 5/130 (Flat) front and 12 x 22 5/130 (deep) in rear">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf4t_2s.jpg" class="img-fluid" alt="Vossen HF4T in Sating Black 10x22 5/130 (Flat) front and 12 x 22 5/130 (deep) in rear" title="Vossen HF4T in Sating Black 10x22 5/130 (Flat) front and 12 x 22 5/130 (deep) in rear">
     </a>
     <figcaption><h4>Vossen HF4T in Sating Black 10x22 5/130 (Flat) front and 12 x 22 5/130 (deep) in rear</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf4t_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf4t_3s.jpg" alt="Vossen HF4T in satin Black 10x22 5/130 (Flat) front and 12 x 22 5/130 (deep) in rear" title="Vossen HF4T in satin Black 10x22 5/130 (Flat) front and 12 x 22 5/130 (deep) in rear">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf4t_3s.jpg" class="img-fluid" alt="Vossen HF4T in satin Black 10x22 5/130 (Flat) front and 12 x 22 5/130 (deep) in rear" title="Vossen HF4T in satin Black 10x22 5/130 (Flat) front and 12 x 22 5/130 (deep) in rear">
     </a>
     <figcaption><h4>Vossen HF4T in satin Black 10x22 5/130 (Flat) front and 12 x 22 5/130 (deep) in rear</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf4t_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf4t_4s.jpg" alt="Vossen HF4T on a Tactical Green RS e-tron GT" title="Vossen HF4T on a Tactical Green RS e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf4t_4s.jpg" class="img-fluid" alt="Vossen HF4T on a Tactical Green RS e-tron GT" title="Vossen HF4T on a Tactical Green RS e-tron GT">
     </a>
     <figcaption><h4>Vossen HF4T on a Tactical Green RS e-tron GT</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf4t_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf4t_5s.jpg" alt="Vossen HF4T on a Tactical Green RS e-tron GT" title="Vossen HF4T on a Tactical Green RS e-tron GT">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf4t_5s.jpg" class="img-fluid" alt="Vossen HF4T on a Tactical Green RS e-tron GT" title="Vossen HF4T on a Tactical Green RS e-tron GT">
     </a>
     <figcaption><h4>Vossen HF4T on a Tactical Green RS e-tron GT</h4></figcaption>
 </figure>
@@ -56,14 +56,14 @@ Vossen HF3 in satin Black
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf3_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf3_5s.jpg" alt="Vossen HF3 in satin Black" title="Vossen HF3 in satin Black">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf3_5s.jpg" class="img-fluid" alt="Vossen HF3 in satin Black" title="Vossen HF3 in satin Black">
     </a>
     <figcaption><h4>Vossen HF3 in satin Black</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf3_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf3_6s.jpg" alt="Vossen HF3 in satin Black" title="Vossen HF3 in satin Black">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf3_6s.jpg" class="img-fluid" alt="Vossen HF3 in satin Black" title="Vossen HF3 in satin Black">
     </a>
     <figcaption><h4>Vossen HF3 in satin Black</h4></figcaption>
 </figure>
@@ -72,21 +72,21 @@ Vossen HF3 in satin Black
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf5_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf5_1s.jpg" alt="Vossen HF5 in satin Black" title="Vossen HF5 in satin Black">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf5_1s.jpg" class="img-fluid" alt="Vossen HF5 in satin Black" title="Vossen HF5 in satin Black">
     </a>
     <figcaption><h4>Vossen HF5 in satin Black</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf5_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf5_2s.jpg" alt="Vossen HF5 in satin Black" title="Vossen HF5 in satin Black">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf5_2s.jpg" class="img-fluid" alt="Vossen HF5 in satin Black" title="Vossen HF5 in satin Black">
     </a>
     <figcaption><h4>Vossen HF5 in satin Black</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf5_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf5_3s.jpg" alt="Vossen HF5 in satin Black" title="Vossen HF5 in satin Black">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/vossen_hf5_3s.jpg" class="img-fluid" alt="Vossen HF5 in satin Black" title="Vossen HF5 in satin Black">
     </a>
     <figcaption><h4>Vossen HF5 in satin Black</h4></figcaption>
 </figure>
@@ -96,7 +96,7 @@ Vossen HF3 in satin Black
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/gmp_rebel_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/gmp_rebel_1s.jpg" alt="GMP Rebel 21 x 9.5 Front and 21 x 11.5 Rear" title="GMP Rebel 21 x 9.5 Front and 21 x 11.5 Rear">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/gmp_rebel_1s.jpg" class="img-fluid" alt="GMP Rebel 21 x 9.5 Front and 21 x 11.5 Rear" title="GMP Rebel 21 x 9.5 Front and 21 x 11.5 Rear">
     </a>
     <figcaption><h4>GMP Rebel 21 x 9.5 Front and 21 x 11.5 Rear</h4></figcaption>
 </figure>
@@ -107,7 +107,7 @@ Vossen HF3 in satin Black
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/niche_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/niche_1s.jpg" alt="21 inch Niche M147" title="21 inch Niche M147">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/niche_1s.jpg" class="img-fluid" alt="21 inch Niche M147" title="21 inch Niche M147">
     </a>
     <figcaption><h4>21 inch Niche M147</h4></figcaption>
 </figure>
@@ -115,7 +115,7 @@ Vossen HF3 in satin Black
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/niche_.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/niche_2s.jpg" alt="21 inch Niche M147" title="21 inch Niche M147">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/niche_2s.jpg" class="img-fluid" alt="21 inch Niche M147" title="21 inch Niche M147">
     </a>
     <figcaption><h4>21 inch Niche M147</h4></figcaption>
 </figure>
@@ -123,7 +123,7 @@ Vossen HF3 in satin Black
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/niche_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/niche_3s.jpg" alt="21 inch Niche M147" title="21 inch Niche M147">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/niche_3s.jpg" class="img-fluid" alt="21 inch Niche M147" title="21 inch Niche M147">
     </a>
     <figcaption><h4>21 inch Niche M147</h4></figcaption>
 </figure>
@@ -131,7 +131,7 @@ Vossen HF3 in satin Black
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/niche_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/niche_4s.jpg" alt="21 inch Niche M147" title="21 inch Niche M147">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/wheels/aftermarket/niche_4s.jpg" class="img-fluid" alt="21 inch Niche M147" title="21 inch Niche M147">
     </a>
     <figcaption><h4>21 inch Niche M147</h4></figcaption>
 </figure>

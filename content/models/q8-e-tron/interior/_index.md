@@ -9,11 +9,11 @@ weight: 5
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/interior.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/interiors.jpg"
-        alt="Audi e-tron interior" title="Audi e-tron interior">
+        class="img-fluid" alt="Audi e-tron interior" title="Audi e-tron interior">
     </a>
     <figcaption><h4>Audi Q8 e-tron interior</h4></figcaption>
 </figure>
 
 Below you find the different options.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

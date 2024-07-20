@@ -7,7 +7,7 @@ weight: 100000
 <!-- markdownlint-disable MD033 -->
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_1s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_1s.jpg" class="img-fluid" alt="Electric mobility in winter" title="Electric mobility in winter">
     </a>
     <figcaption><h4>Electric mobility in winter</h4></figcaption>
 </figur>
@@ -24,7 +24,7 @@ In the purely electric models, the Audi e-tron route planner complements the Aud
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_3s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_3s.jpg" class="img-fluid" alt="Electric mobility in winter" title="Electric mobility in winter">
     </a>
     <figcaption><h4>Electric mobility in winter</h4></figcaption>
 </figur>
@@ -43,7 +43,7 @@ Anyone who frequently makes short car trips should charge the battery to a maxim
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_4s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_4s.jpg" class="img-fluid" alt="Electric mobility in winter" title="Electric mobility in winter">
     </a>
     <figcaption><h4>Electric mobility in winter</h4></figcaption>
 </figur>
@@ -62,9 +62,9 @@ Smaller rim sizes, narrower tires, and the right air pressure can reduce the tir
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_5s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_5s.jpg" class="img-fluid" alt="Electric mobility in winter" title="Electric mobility in winter">
     </a>
     <figcaption><h4>Electric mobility in winter</h4></figcaption>
 </figur>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

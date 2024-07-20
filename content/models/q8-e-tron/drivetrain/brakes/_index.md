@@ -73,7 +73,7 @@ In the case of ABS braking, pressure buildup and reduction are not noticeable in
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/brakes/brakesystem.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/brakes/brakesystems.jpg" alt="Audi Q8 e-tron brake system" title="Audi Q8 e-tron brake system">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/brakes/brakesystems.jpg" class="img-fluid" class="img-fluid" alt="Audi Q8 e-tron brake system" title="Audi Q8 e-tron brake system">
     </a>
     <figcaption><h4>Audi Q8 e-tron brake system</h4></figcaption>
 </figure>

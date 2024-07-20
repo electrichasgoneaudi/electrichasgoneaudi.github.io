@@ -9,11 +9,11 @@ weight: 6
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/drivetrain2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/drivetrain2s.jpg" alt="Audi e-tron drivlinje" title="Audi e-tron drivlinje">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/drivetrain2s.jpg" class="img-fluid" alt="Audi e-tron drivlinje" title="Audi e-tron drivlinje">
     </a>
     <figcaption><h4>Audi e-tron drivlinje</h4></figcaption>
 </figure>
 
 Nedenfor finner du detaljer om de viktigste komponentene i drivlinjen.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

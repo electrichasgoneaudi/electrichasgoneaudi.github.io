@@ -9,7 +9,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/activelaneassist/activelaneassist.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/activelaneassist/activelaneassist.jpg"
-        alt="Audi active lane assist" title="Audi active lane assist">
+        class="img-fluid" alt="Audi active lane assist" title="Audi active lane assist">
     </a>
     <figcaption><h4>Audi active lane assist</h4></figcaption>
 </figure>
@@ -21,7 +21,7 @@ weight: 1
  <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/activelaneassist/vibrationmenu.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/activelaneassist/vibrationmenus.jpg"
-        alt="You can disable wheel vibration" title="You can disable wheel vibration">
+        class="img-fluid" alt="You can disable wheel vibration" title="You can disable wheel vibration">
     </a>
     <figcaption><h4>You can disable wheel vibration</h4></figcaption>
 </figure>
@@ -31,11 +31,11 @@ The Active Lane Assist can be disabled on the button at the end of the direction
  <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/activelaneassist/laneassistbutton.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/activelaneassist/laneassistbuttons.jpg"
-        alt="Active lane assist can be disabled with the button on the direction handle" title="Active lane assist can be disabled with the button on the direction handle">
+        class="img-fluid" alt="Active lane assist can be disabled with the button on the direction handle" title="Active lane assist can be disabled with the button on the direction handle">
     </a>
     <figcaption><h4>Active lane assist can be disabled with the button on the direction handle</h4></figcaption>
 </figure>
 
 Active lane assist is standard equipment. (optionId **6I3**)
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

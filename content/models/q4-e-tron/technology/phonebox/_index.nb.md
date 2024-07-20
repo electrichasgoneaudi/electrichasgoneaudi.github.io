@@ -11,7 +11,7 @@ musikk i bilen. Avhengig av smarttelefonmodell er det også mulig å se e-post o
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/phonebox/phonebox.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/phonebox/phoneboxs.jpg"
-        alt="Audi Phone Box holder med induktiv lading" title="Audi Phone Box holder med induktiv lading">
+        class="img-fluid" alt="Audi Phone Box holder med induktiv lading" title="Audi Phone Box holder med induktiv lading">
     </a>
     <figcaption><h4>Audi Phone Box holder med induktiv lading</h4></figcaption>
 </figure>
@@ -22,4 +22,4 @@ MMI-skjermen som minner deg på å ta med telefonen.
 
 Audi Phone Box som alternativ-ID **9ZE**, men er foreløpig bare tilgjengelig som en del av [infotainment-pakken](/models/q4-e-tron/optionguide/list/#equipment-packages) med alternativ-ID **PYX* *
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

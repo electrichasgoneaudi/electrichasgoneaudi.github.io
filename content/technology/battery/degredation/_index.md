@@ -28,7 +28,7 @@ The factors that affect calendar aging are the State of Charge and environmental
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/degredation/evstoragestress.png">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/degredation/evstoragestress.png"
-        alt="Storage stress" title="Storage stress">
+        class="img-fluid" alt="Storage stress" title="Storage stress">
     </a>
     <figcaption><h4>Storage stress</h4></figcaption>
 </figure>
@@ -48,7 +48,7 @@ The below diagram shows how the SOC area used when charging/discharging affect t
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/degredation/dstcycles.png">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/degredation/dstcycles.png"
-        alt="Cycle stress" title="Cycle stress">
+        class="img-fluid" alt="Cycle stress" title="Cycle stress">
     </a>
     <figcaption><h4>Cycle stress</h4></figcaption>
 </figure>

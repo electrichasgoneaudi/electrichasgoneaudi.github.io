@@ -1,4 +1,4 @@
-198000000---
+---
 title: Audi Q8 e-tron MMI
 linktitle: Audi MMI
 description: Audi Q8 e-tron is equipped with the latest evolution stage of its MMI operating concepts with the MMI touch response.
@@ -10,7 +10,7 @@ The Audi MMI® (Multi Media Interface) system was created to streamline the cont
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/mmi/both_screens_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/mmi/both_screens_1s.jpg"
-        alt="Audi MMI touch" title="Audi MMI touch">
+        class="img-fluid" alt="Audi MMI touch" title="Audi MMI touch">
     </a>
     <figcaption><h4>Audi MMI touch</h4></figcaption>
 </figure>
@@ -27,7 +27,7 @@ A second display on the console of the center tunnel is used to operate the air 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/mmi/second_screen_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/mmi/second_screen_1s.jpg"
-        alt="Second display" title="Second display">
+        class="img-fluid" alt="Second display" title="Second display">
     </a>
     <figcaption><h4>Second display</h4></figcaption>
 </figure>

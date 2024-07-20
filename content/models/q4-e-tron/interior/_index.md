@@ -10,9 +10,9 @@ In addition you can select different types of lightning, steeringwheels, interio
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/interior.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/interiors.jpg" 
-        alt="Audi Q4 e-tron interior" title="Audi Q4 e-tron interior">
+        class="img-fluid" alt="Audi Q4 e-tron interior" title="Audi Q4 e-tron interior">
     </a>
     <figcaption><h4>Audi Q4 e-tron interior - In</h4></figcaption>
 </figure>
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

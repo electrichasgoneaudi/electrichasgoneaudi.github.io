@@ -10,7 +10,7 @@ Så å kjøpe en Audi e-tron vil kreve at du tar mange avgjørelser om hvordan e
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/exterior.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/exteriors.jpg"
-        alt="Audi e-tron Sportback" title="Audi e-tron Sportback">
+        class="img-fluid" alt="Audi e-tron Sportback" title="Audi e-tron Sportback">
     </a>
     <figcaption><h4>Audi e-tron Sportback</h4></figcaption>
 </figure>
@@ -32,4 +32,4 @@ Så du forstår at det ikke er mulig å vise alle mulige kombinasjoner på denne
 
 Se nedenfor for detaljer om de utvendige alternativene for eksteriør på Audi e-tron
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

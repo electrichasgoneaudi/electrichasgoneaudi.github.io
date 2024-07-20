@@ -12,7 +12,7 @@ Skinnrattet med doble eiker er trimhjulet på laveste nivå.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/standard.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/standard.jpg"
-        alt="Dobbelt-eikers skinnratt" title="Dobbelt-eikers skinnratt">
+        class="img-fluid" alt="Dobbelt-eikers skinnratt" title="Dobbelt-eikers skinnratt">
     </a>
     <figcaption><h4>Dobbelt-eikers skinnratt</h4></figcaption>
 </figure>
@@ -33,7 +33,7 @@ Merk: kan kun bestilles i forbindelse med rattvarme (AI9)
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/2zq.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/2zqs.jpg"
-        alt="Dobbelt-eikers skinnstyring med hendler for regenerings" title="Dobbelt-eikers skinnstyring med hendler for regenerings">
+        class="img-fluid" alt="Dobbelt-eikers skinnstyring med hendler for regenerings" title="Dobbelt-eikers skinnstyring med hendler for regenerings">
     </a>
     <figcaption><h4>Dobbelt-eikers skinnstyring med hendler for regenerings</h4></figcaption>
 </figure>
@@ -55,7 +55,7 @@ driftsstatus "frihjul".
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/2fs.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/2fss.jpg"
-        alt="Det doble eikers sportsrattet i skinn. Standard i Norge" title="Det doble eikers sportsrattet i skinn. Standard i Norge">
+        class="img-fluid" alt="Det doble eikers sportsrattet i skinn. Standard i Norge" title="Det doble eikers sportsrattet i skinn. Standard i Norge">
     </a>
     <figcaption><h4>Det doble eikers sportsrattet i skinn. Standard i Norge</h4></figcaption>
 </figure>

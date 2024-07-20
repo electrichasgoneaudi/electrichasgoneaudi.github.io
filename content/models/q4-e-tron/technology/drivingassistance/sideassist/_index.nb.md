@@ -9,7 +9,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/sideassist/audisideassist.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/sideassist/audisideassists.jpg"
-        alt="Audi side assist" title="Audi side assist">
+        class="img-fluid" alt="Audi side assist" title="Audi side assist">
     </a>
     <figcaption><h4>Audi side assist</h4></figcaption>
 </figure>
@@ -21,7 +21,7 @@ Dette er en del av sikkerhetspakken pluss tilvalgs ID **PYU**
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/sideassist/mirrors.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/sideassist/mirrorss.jpg"
-        alt="Audi Q4 speil med indikasjonslys for filskifteassistent" title="Audi Q4 speil med indikasjonslys for filskifteassistent">
+        class="img-fluid" alt="Audi Q4 speil med indikasjonslys for filskifteassistent" title="Audi Q4 speil med indikasjonslys for filskifteassistent">
     </a>
     <figcaption><h4>Audi Q4 speil med indikasjonslys for filskifteassistent</h4></figcaption>
 </figure>

@@ -10,7 +10,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/cruisecontrol/cruisecontrol.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/cruisecontrol/cruisecontrols.jpg"
-        alt="Cruise control stalk" title="Cruise control stalk">
+        class="img-fluid" alt="Cruise control stalk" title="Cruise control stalk">
     </a>
     <figcaption><h4>Cruise control stalk</h4></figcaption>
 </figure>
@@ -21,4 +21,4 @@ See also Adaptive Cruise Control.
 
 Cruise control is part of the assistentpackage **PYK**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

@@ -44,7 +44,7 @@ Below you see some examples of ranges posted by users in different social media 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/lowrange/lowrangeexample.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/lowrange/lowrangeexamples.jpg"
-        alt="Example on reported range" title="Example on reported range">
+        class="img-fluid" alt="Example on reported range" title="Example on reported range">
     </a>
     <figcaption><h4>Example on reported range</h4></figcaption>
 </figure>
@@ -62,7 +62,7 @@ So assume you have an Audi Q4 e-tron 50 with 76.6kWh battery and you have charge
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/lowrange/triphistory.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/lowrange/triphistory.jpg"
-        alt="Triphistory" title="Triphistory">
+        class="img-fluid" alt="Triphistory" title="Triphistory">
     </a>
     <figcaption><h4>Triphistory</h4></figcaption>
 </figure>

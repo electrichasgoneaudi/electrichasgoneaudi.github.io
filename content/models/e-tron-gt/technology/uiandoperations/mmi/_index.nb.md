@@ -14,7 +14,7 @@ e-tron GT quattro og RS e-tron GT kommer som standard med MMI navigation plus in
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/mmi/mmi_1.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/mmi/mmi_1s.jpg"
-        alt="Audi MMI - søker etter ladestasjonn" title="Audi MMI - søker etter ladestasjonn">
+        class="img-fluid" alt="Audi MMI - søker etter ladestasjonn" title="Audi MMI - søker etter ladestasjonn">
     </a>
     <figcaption><h4>Audi MMI - søker etter ladestasjonn</h4></figcaption>
 </figure>

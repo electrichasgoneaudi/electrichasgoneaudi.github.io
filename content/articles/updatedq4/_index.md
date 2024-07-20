@@ -8,7 +8,7 @@ weight: 99998
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/updatedq4/q4charging.jpg">
-<img src="https://media.electrichasgoneaudi.net/multimedia/articles/updatedq4/q4chargings.jpg" alt="Audi Q4 e-tron charging" title="Audi Q4 e-tron charging">
+<img src="https://media.electrichasgoneaudi.net/multimedia/articles/updatedq4/q4chargings.jpg" class="img-fluid" alt="Audi Q4 e-tron charging" title="Audi Q4 e-tron charging">
     </a>
     <figcaption><h4>Audi Q4 e-tron charging</h4></figcaption>
 </figure>
@@ -33,4 +33,4 @@ The free [myAudi app](../../technology/audiconnect/myaudi/) also offers new feat
 
 The [Black Optics Plus Package](../../models/q4-e-tron/exterior/optics/#black-optics-plus) offers a unique means to further accent and customize the dynamic appearance of the Audi Q4 e-tron. Black accents in the Singleframe area as well as the black Audi rings and grille frame highlight the front end. The front and rear bumpers are also accented in black, as is the trim on the side windows. In addition, all Q4 e-tron models now come in black (previously only edition one).
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

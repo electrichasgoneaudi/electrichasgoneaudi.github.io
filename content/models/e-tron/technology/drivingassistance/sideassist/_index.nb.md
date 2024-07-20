@@ -8,7 +8,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/sideassist/audisideassist.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/sideassist/audisideassists.jpg"
-        alt="Audi side assist/ filskifteassistent" title="Audi side assist/ filskifteassistent">
+        class="img-fluid" alt="Audi side assist/ filskifteassistent" title="Audi side assist/ filskifteassistent">
     </a>
     <figcaption><h4>Audi side assist/ filskifteassistent</h4></figcaption>
 </figure>
@@ -18,4 +18,4 @@ Den bruker to bakmonterte radarsensorer med en skannerekkevidde på omtrent 70 m
 
 Dette er en del av byassistansepakken med alternativ-ID **PCM** og sideassistansepakke med alternativ-ID **PCH**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

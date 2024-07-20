@@ -11,7 +11,7 @@ A virtual overhead view shown in the MMI display gives the driver an overview of
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/360camera/camerarear.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/360camera/camerarears.jpg"
-        alt="Rear camera" title="Rear camera">
+        class="img-fluid" alt="Rear camera" title="Rear camera">
     </a>
     <figcaption><h4>Rear camera</h4></figcaption>
 </figure>
@@ -21,7 +21,7 @@ An additional feature for some models is a virtual 3D view. The driver can use t
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/360camera/camera3d.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/360camera/camera3ds.jpg"
-        alt="3D view" title="3D view">
+        class="img-fluid" alt="3D view" title="3D view">
     </a>
     <figcaption><h4>3D view</h4></figcaption>
 </figure>
@@ -29,11 +29,11 @@ An additional feature for some models is a virtual 3D view. The driver can use t
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/360camera/camera3d_2.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/360camera/camera3d_2s.jpg"
-        alt="3D view" title="3D view">
+        class="img-fluid" alt="3D view" title="3D view">
     </a>
     <figcaption><h4>3D view</h4></figcaption>
 </figure>
 
 360 camera has option id **PCZ** on Audi e-tron
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

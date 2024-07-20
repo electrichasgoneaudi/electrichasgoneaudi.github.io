@@ -12,7 +12,7 @@ Adaptive air suspension with electronic damping control is standard equipment on
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/suspension/suspension1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/suspension/suspension1_st.jpg" alt="Audi Q8 e-tron with adaptive air suspension" title="Audi Q8 e-tron with adaptive air suspension">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/suspension/suspension1_st.jpg" class="img-fluid" alt="Audi Q8 e-tron with adaptive air suspension" title="Audi Q8 e-tron with adaptive air suspension">
     </a>
     <figcaption><h4>Audi Q8 e-tron with adaptive air suspension</h4></figcaption>
 </figure>
@@ -22,7 +22,7 @@ The air suspension also offers level control as a function of load.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/suspension/suspension2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/suspension/suspension2_st.jpg" alt="Audi Q8 e-tron with adaptive air suspension" title="Audi Q8 e-tron with adaptive air suspension">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/suspension/suspension2_st.jpg" class="img-fluid" alt="Audi Q8 e-tron with adaptive air suspension" title="Audi Q8 e-tron with adaptive air suspension">
     </a>
     <figcaption><h4>Audi Q8 e-tron with adaptive air suspension</h4></figcaption>
 </figure>
@@ -38,7 +38,7 @@ Adaptive Air Suspension has optionId **1BK** and adaptive air suspension sport h
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/audidriveselect.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/audidriveselects.png" alt="Audi Drive Select options adjust ride heights" title="Audi Drive Select options adjust ride heights">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/audidriveselects.png" class="img-fluid" alt="Audi Drive Select options adjust ride heights" title="Audi Drive Select options adjust ride heights">
     </a>
     <figcaption><h4>Audi Drive Select options adjust ride heights</h4></figcaption>
 </figure>
@@ -50,7 +50,7 @@ The diagram below show how this is adjusted depending on speed.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/suspensionmode.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/suspensionmode.png" alt="Adjustment of adaptive air suspension in different modes" title="Adjustment of adaptive air suspension in different modes">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/suspensionmode.png" class="img-fluid" alt="Adjustment of adaptive air suspension in different modes" title="Adjustment of adaptive air suspension in different modes">
     </a>
     <figcaption><h4>Adjustment of adaptive air suspension in different modes</h4></figcaption>
 </figure>

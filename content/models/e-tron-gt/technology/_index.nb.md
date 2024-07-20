@@ -6,4 +6,4 @@ weight: 7
 ---
 
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

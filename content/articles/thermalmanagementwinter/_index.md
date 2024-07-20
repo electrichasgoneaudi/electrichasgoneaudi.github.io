@@ -7,7 +7,7 @@ weight: 100001
 <!-- markdownlint-disable MD033 -->
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_1s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_1s.jpg" class="img-fluid" alt="Electric mobility in winter" title="Electric mobility in winter">
     </a>
     <figcaption><h4>Audi Q4 e-tron charging in winter</h4></figcaption>
 </figur>
@@ -20,7 +20,7 @@ Low exterior temperatures exacerbate the problem – and affect high-voltage bat
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_2s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_2s.jpg" class="img-fluid" alt="Electric mobility in winter" title="Electric mobility in winter">
     </a>
     <figcaption><h4>Thomas Anzenberger</h4></figcaption>
 </figur>
@@ -37,7 +37,7 @@ That's how the charging point knows how much electricity the battery can absorb 
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_3s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_3s.jpg" class="img-fluid" alt="Electric mobility in winter" title="Electric mobility in winter">
     </a>
     <figcaption><h4>Pierre Woltmann</h4></figcaption>
 </figur>
@@ -62,7 +62,7 @@ This additional mobile preconditioning of the battery in the e-tron GT quattro a
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_4s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_4s.jpg" class="img-fluid" alt="Electric mobility in winter" title="Electric mobility in winter">
     </a>
     <figcaption><h4>Audi RS e-tron GT & Audi Q4 e-tron</h4></figcaption>
 </figur>
@@ -77,7 +77,7 @@ This additional mobile preconditioning of the battery in the e-tron GT quattro a
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_5s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_5s.jpg" class="img-fluid" alt="Electric mobility in winter" title="Electric mobility in winter">
     </a>
     <figcaption><h4>Audi Q4 e-tron</h4></figcaption>
 </figur>
@@ -97,7 +97,7 @@ This additional mobile preconditioning of the battery in the e-tron GT quattro a
 
 <figur>
     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_8.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_8s.jpg" alt="Electric mobility in winter" title="Electric mobility in winter">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_8s.jpg" class="img-fluid" alt="Electric mobility in winter" title="Electric mobility in winter">
     </a>
     <figcaption><h4>Range mode in Audi e-tron GT</h4></figcaption>
 </figur>
@@ -111,4 +111,4 @@ You find details about thermal managment in our model section
 - [Thermal management Audi Q4 e-tron](../../models/q4-e-tron/drivetrain/battery/#thermal-management)
 - [Thermal management Audi e-tron](../../models/e-tron/drivetrain/battery/#thermal-management)
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

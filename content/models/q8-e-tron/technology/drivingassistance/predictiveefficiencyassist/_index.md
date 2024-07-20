@@ -8,7 +8,7 @@ weight: 1
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/predictiveefficient.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/predictiveefficients.jpg"
-        alt="Predictive efficiency assist" title="Predictive efficiency assist">
+        class="img-fluid" alt="Predictive efficiency assist" title="Predictive efficiency assist">
     </a>
     <figcaption><h4>Predictive efficiency assist</h4></figcaption>
 </figure>
@@ -22,7 +22,7 @@ The driver is shown corresponding information in the instrument cluster or in th
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/efficientsymboletron.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/efficientsymboletrons.jpg"
-        alt="e-tron virtual cockpit with symbol showing to lift the right foot" title="e-tron virtual cockpit with symbol showing to lift the right foot">
+        class="img-fluid" alt="e-tron virtual cockpit with symbol showing to lift the right foot" title="e-tron virtual cockpit with symbol showing to lift the right foot">
     </a>
     <figcaption><h4>e-tron virtual cockpit with symbol showing to lift the right foot</h4></figcaption>
 </figure>
@@ -34,7 +34,7 @@ The driver can override the system at any time by accelerating and braking. In a
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/headup.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/headups.jpg"
-        alt="Efficience assistent in headup suggesting to reduce speed" title="Efficience assistent in headup suggesting to reduce speed">
+        class="img-fluid" alt="Efficience assistent in headup suggesting to reduce speed" title="Efficience assistent in headup suggesting to reduce speed">
     </a>
     <figcaption><h4>Efficience assistent in headup suggesting to reduce speed</h4></figcaption>
 </figure>

@@ -9,4 +9,4 @@ The sensors measure parking spaces along the road while driving past them at mod
 
 Park assist has option id **7X5** and is available as [function on demand](../../fod) throug the myAudiApp
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

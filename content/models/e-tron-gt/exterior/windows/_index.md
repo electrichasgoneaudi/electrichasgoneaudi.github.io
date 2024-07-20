@@ -12,7 +12,7 @@ You can order privacy glass with option id **QL5**
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/privacy_windows.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/privacy_windowss.jpg" alt="Privacy windows" title="Privacy windows">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/privacy_windowss.jpg" class="img-fluid" alt="Privacy windows" title="Privacy windows">
     </a>
     <figcaption><h4>Privacy windows</h4></figcaption>
 </figure>
@@ -21,42 +21,42 @@ This option makes a big difference in the way the e-tron GT look.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/standard_windows_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/standard_windows_1s.jpg" alt="Standard clear windows" title="Standard clear windows">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/standard_windows_1s.jpg" class="img-fluid" alt="Standard clear windows" title="Standard clear windows">
     </a>
     <figcaption><h4>Standard clear windows</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/privacy_windows_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/privacy_windows_1s.jpg" alt="Privacy windows" title="Privacy windows">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/privacy_windows_1s.jpg" class="img-fluid" alt="Privacy windows" title="Privacy windows">
     </a>
     <figcaption><h4>Privacy windows</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/standard_windows_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/standard_windows_2s.jpg" alt="Standard clear windows" title="Standard clear windows">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/standard_windows_2s.jpg" class="img-fluid" alt="Standard clear windows" title="Standard clear windows">
     </a>
     <figcaption><h4>Standard clear windows</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/privacy_windows_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/privacy_windows_2s.jpg" alt="Privacy windows" title="Privacy windows">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/privacy_windows_2s.jpg" class="img-fluid" alt="Privacy windows" title="Privacy windows">
     </a>
     <figcaption><h4>Privacy windows</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/standard_windows_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/standard_windows_3s.jpg" alt="Standard clear windows" title="Standard clear windows">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/standard_windows_3s.jpg" class="img-fluid" alt="Standard clear windows" title="Standard clear windows">
     </a>
     <figcaption><h4>Standard clear windows</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/privacy_windows_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/privacy_windows_3s.jpg" alt="Privacy windows" title="Privacy windows">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/windows/privacy_windows_3s.jpg" class="img-fluid" alt="Privacy windows" title="Privacy windows">
     </a>
     <figcaption><h4>Privacy windows</h4></figcaption>
 </figure>
@@ -80,4 +80,4 @@ With area for autopass.  Insulating glass reduces noise from outside.
 
 Option Id **4GY**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

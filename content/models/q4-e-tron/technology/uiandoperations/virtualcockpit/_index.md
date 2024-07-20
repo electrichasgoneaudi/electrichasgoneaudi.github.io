@@ -13,7 +13,7 @@ The standard instrumentation is a digital screen showing the main car data as ra
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/multiinstrument.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/multiinstrument.jpg"
-        alt="Combination instrument!" title="Combination instrument!">
+        class="img-fluid" alt="Combination instrument!" title="Combination instrument!">
     </a>
     <figcaption><h4>Combination instrument!</h4></figcaption>
 </figure>
@@ -33,7 +33,7 @@ Fixed indicators are shown along the lower edge; they show the outside temperatu
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/mminavigationvirtualcockpit.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/mminavigationvirtualcockpits.jpg"
-        alt="Virtual Cockpit classic mode infotainment view" title="Virtual Cockpit classic mode infotainment view">
+        class="img-fluid" alt="Virtual Cockpit classic mode infotainment view" title="Virtual Cockpit classic mode infotainment view">
     </a>
     <figcaption><h4>Virtual Cockpit classic mode infotainment view</h4></figcaption>
 </figure>
@@ -54,7 +54,7 @@ With virtual cockpit you get two different modes. But with Virtual Cockpit plus 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/virtualcockpitmodes.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/virtualcockpitmodess.jpg"
-        alt="Virtual cockpit modes" title="Virtual cockpit modes">
+        class="img-fluid" alt="Virtual cockpit modes" title="Virtual cockpit modes">
     </a>
     <figcaption><h4>Virtual cockpit modes</h4></figcaption>
 </figure>

@@ -10,7 +10,7 @@ Når den forhåndsinnstilte grensen er nådd, struper kjøretøyet hastigheten f
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/speedlimiter/speedlimiterhandle.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/speedlimiter/speedlimiterhandles.jpg"
-        alt="Fartsbegrenseren kontrolleres fra toppen av cruisekontroll hendelen eller fra MMI." title="Fartsbegrenseren kontrolleres fra toppen av cruisekontroll hendelen eller fra MMI.">
+        class="img-fluid" alt="Fartsbegrenseren kontrolleres fra toppen av cruisekontroll hendelen eller fra MMI." title="Fartsbegrenseren kontrolleres fra toppen av cruisekontroll hendelen eller fra MMI.">
     </a>
     <figcaption><h4>Fartsbegrenseren kontrolleres fra toppen av cruisekontroll hendelen eller fra MMI.</h4></figcaption>
 </figure>

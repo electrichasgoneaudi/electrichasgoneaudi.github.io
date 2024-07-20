@@ -13,7 +13,7 @@ and how it affects performance on EVs with a specific focus on all-electric Audi
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterypack.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterypacks.jpg"
-        alt="Audi e-tron 95kWh battery pack" title="Audi e-tron 95kWh battery pack">
+        class="img-fluid" alt="Audi e-tron 95kWh battery pack" title="Audi e-tron 95kWh battery pack">
     </a>
     <figcaption><h4>Audi e-tron 95kWh battery pack</h4></figcaption>
 </figure>

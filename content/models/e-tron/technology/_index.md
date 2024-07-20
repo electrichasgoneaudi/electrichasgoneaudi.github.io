@@ -9,11 +9,11 @@ weight: 7
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/technology.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/technologys.jpg"
-        alt="Lights  is one of the areas where Audi is leading. E-tron is the first Audi with Digital HD Matrix Lights" title="Lights  is one of the areas where Audi is leading. E-tron is the first Audi with Digital HD Matrix Lights">
+        class="img-fluid" alt="Lights  is one of the areas where Audi is leading. E-tron is the first Audi with Digital HD Matrix Lights" title="Lights  is one of the areas where Audi is leading. E-tron is the first Audi with Digital HD Matrix Lights">
     </a>
     <figcaption><h4>Lights  is one of the areas where Audi is leading. E-tron is the first Audi with Digital HD Matrix Lights</h4></figcaption>
 </figure>
 
 Below you see details about the different technology areas on Audi e-tron.
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}

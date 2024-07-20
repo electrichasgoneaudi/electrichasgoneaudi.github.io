@@ -1,0 +1,122 @@
+# Menu
+- id: menu-technology
+  translation: Technology
+
+- id: menu-guides
+  translation: Guides
+
+- id: menu-search
+  translation: EV Search
+
+- id: menu-brands
+  translation: Models
+
+- id: language
+  translation: Language
+
+# Common Sections
+- id: common-section-search-title
+  translation: EV Search
+
+- id: common-section-search-description
+  translation: EVKX.net has the most complete EV database. Search and filter on a lot of features & specifications.
+
+- id: common-section-search-link
+  translation: Go to EV Search
+
+- id: common-section-modelrange-title
+  translation: Audi all-electric models
+
+- id: common-section-modelrange-description
+  translation: Click on link for direct access to the different model info for Audi all-electric models
+
+- id: common-section-technology-title
+  translation: Learn EV technology
+
+- id: common-section-technology-description
+  translation: Learn about the EV technology and how to use your EV
+
+- id: common-section-technology-gotosection
+  translation: See all articles in our technology section.
+
+- id: common-section-technology-section-battery
+  translation: Battery
+
+- id: common-section-technology-section-adas
+  translation: Advanced Driver Assistance Systems
+
+- id: common-section-technology-section-motors
+  translation: Electric motors
+
+- id: common-section-technology-section-suspension
+  translation: Suspension
+
+- id: common-section-technology-section-brakes
+  translation: Brakes
+
+- id: common-section-technology-section-lights
+  translation: Lights
+
+- id: common-section-technology-section-regen
+  translation: Regenerative braking
+
+- id: common-section-technology-section-seats
+  translation: Seats
+
+- id: common-section-technology-section-sensors
+  translation: Sensors & Cameras
+
+- id: common-section-technology-section-ui
+  translation: User interface
+
+- id: common-section-technology-section-platforms
+  translation: EV platforms
+
+- id: common-section-guides-title
+  translation: Guides
+
+- id: common-section-guides-description
+  translation: Below, you find different guides for owning an EV and for using this site.
+
+- id: common-section-guides-gotosection
+  translation: Se all our guides.
+
+- id: common-section-guides-section-search
+  translation: How to use EV Search
+
+- id: common-section-guides-section-preservebattery
+  translation: Preserving battery
+
+- id: common-section-guides-section-preservebattery-description
+  translation: In this guide we explain what you can do to make the battery last the longest possible. 
+
+- id: common-section-guides-section-understandingrange
+  translation: Understanding range
+
+- id: common-section-guides-section-understandingrange-description
+  translation: For many, the range of the EV is the most essential aspect. Learn what aspects of the EV affect the rated range and understand what affects it in the real world.
+
+- id: common-section-guides-section-vehicletypes
+  translation: Vehicletypes
+
+- id: common-section-guides-section-reviewers
+  translation: EV Reviewers
+
+- id: common-section-guides-section-checkingbatteryhealth
+  translation: How to verify battery health
+
+- id: common-section-models-title
+  translation: Models
+
+- id: common-section-models-description
+  translation: Please read about the different Brands, their EV strategies, and the most complete info on all models below.
+
+- id: common-section-latest-reviews
+  translation: Latest online reviews
+
+- id: common-section-articles
+  translation: Articles
+
+
+
+   

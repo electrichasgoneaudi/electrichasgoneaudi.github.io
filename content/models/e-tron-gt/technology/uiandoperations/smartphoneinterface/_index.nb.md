@@ -15,7 +15,7 @@ Bildet nedenfor viser hvordan Waze advarer brukere om et fotoboks.
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/smartphoneinterface/speedcam.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/smartphoneinterface/speedcams.jpg"
-        alt="Android Auto med Waze advarsel om hastighetskamera" title="Android Auto med Waze advarsel om hastighetskamera">
+        class="img-fluid" alt="Android Auto med Waze advarsel om hastighetskamera" title="Android Auto med Waze advarsel om hastighetskamera">
     </a>
     <figcaption><h4>Android Auto med Waze advarsel om hastighetskamera</h4></figcaption>
 </figure>

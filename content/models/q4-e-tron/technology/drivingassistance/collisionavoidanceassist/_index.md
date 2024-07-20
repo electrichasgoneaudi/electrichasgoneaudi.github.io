@@ -12,11 +12,11 @@ First, a jolt is produced to warn the driver of the hazard. If the driver then a
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/collisionavoidanceassist/collisionavoidance.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/collisionavoidanceassist/collisionavoidances.jpg"
-        alt="Collision avoidance" title="Collision avoidance">
+        class="img-fluid" alt="Collision avoidance" title="Collision avoidance">
     </a>
     <figcaption><h4>Collision avoidance</h4></figcaption>
 </figure>
 
 Collision Avoidance is standard equipment on Audi Q4 e-tron. OptionID **4G3**
 
-{{% children description="true" depth="1" %}}
+{{<children description="true" />}}
