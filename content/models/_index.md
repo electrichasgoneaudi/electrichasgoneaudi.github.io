@@ -36,7 +36,7 @@ See below for our unique, in-depth information on the different models and varia
 	<a href="q8-e-tron/" class="btn btn-outline-primary" role="button">See all known details about the Audi Q8 e-tron.</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="e-tron-gt/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/variants/variants_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Acura" ></a>
+	<a href="e-tron-gt/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/variants/variants_2_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Acura" ></a>
 	<h2>Audi e-tron GT</h2>
 	<p>
 		Audi e-tron GT is the second all-electric model from Audi. With the Audi RS e-tron GT version, Audi has made their most potent RS model ever. And the design makes it one of the most beautiful cars of our time.
