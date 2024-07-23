@@ -40,8 +40,8 @@ WLTP-range between 487-582km depending on equipment trim. The two engines output
 
 {{< sitefiguresized thumb="models/q8-e-tron/variants/q8_55_sportback_st.jpeg" width="3000" height="2002" title="Audi Q8 55 Sportback e-tron" >}}
 
-Audi Q8 55 Sportback e-tron is the Sportback version of e-tron 55. With 95kWh gross battery (86.5kWh net) and 300KW (408HP) engine output.
-WLTP-range between 373-452km depending on equipment trim. The two engines output 300kW (408 hp).
+Audi Q8 55 Sportback e-tron is the Sportback version of Q8 e-tron 55. With 114kWh gross battery (105 Wh net) and 300KW (408HP) engine output.
+WLTP-range between 495-600km depending on equipment trim. The two engines output 300kW (408 hp).
 
 [See detailed specification](../specifications/#audi-Q8-55-sportback-e-tron)
 

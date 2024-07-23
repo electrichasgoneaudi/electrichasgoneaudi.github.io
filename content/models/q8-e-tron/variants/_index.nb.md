@@ -59,8 +59,8 @@ WLTP-rekkevidde mellom 487-582 km avhengig av utstyrstrim. De to motorene yter 3
     <figcaption><h4>Audi Q8 55 Sportback e-tron</h4></figcaption>
 </figur>
 
-Audi Q8 55 Sportback e-tron er Sportback-versjonen av e-tron 55. Med 95kWh bruttobatteri (86,5kWh netto) og 300KW (408HK) motoreffekt.
-WLTP-rekkevidde mellom 373-452 km avhengig av utstyrstrim. De to motorene yter 300kW (408 hk).
+Audi Q8 55 Sportback e-tron er Sportback-versjonen av Q8 e-tron 55. Med 114kWh bruttobatteri (106kWh netto) og 300KW (408HK) motoreffekt.
+WLTP-rekkevidde mellom 495-600 km avhengig av utstyrstrim. De to motorene yter 300kW (408 hk).
 
 [Se detaljert spesifikasjon](../specifications/#audi-Q8-55-sportback-e-tron)
 

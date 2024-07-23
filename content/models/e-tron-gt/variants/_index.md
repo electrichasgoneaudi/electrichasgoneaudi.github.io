@@ -5,15 +5,37 @@ description: Audi e-tron GT and Audi RS e-tron GT are the two variants available
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
+
+
+## Current variants
+
+
+### Audi S e-etron GT
+
+{{< sitefiguresized thumb="models/e-tron-gt/variants/s-e-tron_gt_st.jpg" width="3000" height="2250" title="Audi e-tron GT performance" >}}
+
+
+### Audi RS e-tron GT
+
+{{< sitefiguresized thumb="models/e-tron-gt/variants/rs-e-tron-gt_2_st.jpg" width="3000" height="2250" title="Audi e-tron GT performance" >}}
+
+### Audi RS e-tron GT Performance
+
+
+{{< sitefiguresized thumb="models/e-tron-gt/variants/rs-e-tron-gt-performance_st.jpg" width="3000" height="2250" title="Audi e-tron GT performance" >}}
+
+
+
+## Discontuinued Variants
+
+The first generations
+
+
+
 ## Audi e-tron GT
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/variants/e-tron-gt.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/variants/e-tron-gts.jpg"
-        class="img-fluid" alt="Audi e-tron GT" title="Audi e-tron GT">
-    </a>
-    <figcaption><h4>Audi e-tron GT</h4></figcaption>
-</figure>
+
+{{< sitefiguresized thumb="models/e-tron-gt/variants/e-tron-gt_st.jpg" width="2200" height="1200" title="Audi e-tron GT GEN 1" >}}
 
 With a power output of 390kW (530HP) in boost mode, Audi e-tron GT goes 0-100km/h in only 4.1 seconds. The large battery on 93.4kWh gross (83.7kWh) gives it a WLTP-range between 452-488km (280-303 miles).
 
@@ -21,13 +43,7 @@ With a power output of 390kW (530HP) in boost mode, Audi e-tron GT goes 0-100km/
 
 ## Audi RS e-tron GT
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/variants/rs-e-tron-gt.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/variants/rs-e-tron-gts.jpg"
-        class="img-fluid" alt="Audi RS e-tron GT" title="Audi RS e-tron GT">
-    </a>
-    <figcaption><h4>Audi RS e-tron GT</h4></figcaption>
-</figure>
+{{< sitefiguresized thumb="models/e-tron-gt/variants/rs-e-tron-gt_st.jpg" width="2200" height="1100" title="Audi RS e-tron GT GEN 1" >}}
 
 Audi RS e-tron GT looks the same as Audi e-tron GT but has a higher equipment trim with more equipment as standard.
 
