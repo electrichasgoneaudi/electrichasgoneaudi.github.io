@@ -6,7 +6,7 @@ weight: 7
 ---
 <!-- markdownlint-disable MD033 -->
 
-The Audi A6 e-tron was first time revealed in April 2021 as a concept car. It is expected to have a world premiere in 2023 and will be the sixth all-electric model from Audi. With a range of up to 700km, it will be the all-electric model with the longest range from Audi.
+The Audi A6 e-tron was first time revealed in April 2021 as a concept car. It is expected to have a world premiere July 31. 2024 and will be the sixth all-electric model from Audi. With a range of up to 700km, it will be the all-electric model with the longest range from Audi.
 
 March 17. 2022 Audi also presented the Audi A6 Avant e-tron concept of this model.
 
@@ -70,13 +70,13 @@ The battery will have an 800-Volt architecture for high-performance charging up 
 
 The expectation is that the Audi A6 e-tron will come in different versions.
 
-- Rear- wheel drive Audi A6 e-tron / Audi A6 Avant e-tron with small battery (45 rating)
-- Rear-wheel drive Audi A6 / Audi A6 Avant e-tron with large battery (the version with longest range)(50 rating)
-- Audi A6 quattro / Audi A6 Avant e-tron quattro with large battery (55 rating)
-- Audi S6 Avant e-tron  (60 rating)
-- Audi RS6 Avant e-tron (70 rating)
+- Rear- wheel drive Audi A6 e-tron / Audi A6 Avant e-tron with small battery 
+- Rear-wheel drive Audi A6 / Audi A6 Avant performance e-tron with large battery (the version with longest range)
+- Audi A6 quattro / Audi A6 Avant e-tron quattro with large battery 
+- Audi S6 Avant e-tron with 517HP
+- Audi RS6 Avant e-tron with 640 HP
 
-The concept version has 469HP and 800 nm torque. (60 rating)
+The concept version has 469HP and 800 nm torque. 
 
 Audi will use different motor setups on the different variants.
 

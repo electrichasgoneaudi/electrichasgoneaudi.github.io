@@ -7,13 +7,8 @@ weight: 4
 <!-- markdownlint-disable MD033 -->
 Buying an Audi e-tron will require you to make lots of decision how the exeriour should be.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/exterior.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/exteriors.jpg"
-        class="img-fluid" alt="Lots of exterior options" title="Lots of exterior options">
-    </a>
-    <figcaption><h4>Lots of exterior options</h4></figcaption>
-</figure>
+{{< sitefiguresized thumb="models/q4-e-tron/exterior/exterior.jpg" width="2500" height="1041" title="Lots of exterior options" >}}
+
 
 First would be to decide if you want the sportback or SUV body.
 

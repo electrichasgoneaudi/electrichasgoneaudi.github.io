@@ -10,13 +10,7 @@ Bilen er bygget på J1 Performance -plattformen, en plattform i fellesskap utvik
 
 To kraftige elektriske motorer gir dynamisk kjøreytelse og trygg elektrisk firehjulsdrift. Med et netto energiinnhold på 84 kWh, muliggjør høyspenningsbatteriet rekkevidder på opptil 488 km (303,2 mi) og kan lades ekstremt raskt, takket være sin 800 V-teknologi.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/variants/variants.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/variants/variantss.jpg"
-        class="img-fluid" alt="Audi e-tron GT & Audi RS e-tron GT" title="Audi e-tron GT & Audi RS e-tron GT">
-    </a>
-    <figcaption><h4>Audi e-tron GT & Audi RS e-tron GT</h4></figcaption>
-</figure>
+{{< sitefiguresized thumb="models/e-tron-gt/variants/variants_2_st.jpg" width="3000" height="2250" title="Audi S e-tron GT, Audi RS e-tron GT and Audi RS e-tron GT performance" >}}
 
 Audi e-tron GT har et bredt spekter av alternativer og avanserte kjøreteknologier. Her på electrichasgoneaudi.net finner du alle detaljer om e-tron GT. Alt fra de forskjellige hjulene å velge mellom, og hvordan det forskjellige kjøreassistentsystemene fungerer.
 

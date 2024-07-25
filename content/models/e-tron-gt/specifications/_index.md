@@ -85,9 +85,25 @@ navicon: bi-layout-text-sidebar-reverse
 
 
 
+<<<<<<< HEAD
 ## Range & Consumption
 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
+=======
+<div class="accordion" id="accordionExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        Audi S e-tron GT
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+      
+      
+## Performance
+
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -102,30 +118,52 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Basic trim WLTP range
 			</td>
 			<td>
 				598 km
+=======
+				Peak power
+			</td>
+			<td>
+				500 KW (680 hp /671 bhp)
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Basic trim WLTP consumption
 			</td>
 			<td>
 				16,2 kWh/100km
+=======
+				Electrical torque output
+			</td>
+			<td>
+				740 nm (546 lb-ft)
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Basic trim WLTP consumption with charging loss
 			</td>
 			<td>
 				18,7 kWh/100km
+=======
+				Top speed
+			</td>
+			<td>
+				245 kph (152 mph)
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Top trim WLTP range
 			</td>
 			<td>
@@ -146,6 +184,12 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				20,8 kwh/100km
+=======
+				0-100km/h (0-62 mph)
+			</td>
+			<td>
+				3,4 s
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 	</tbody>
@@ -153,6 +197,77 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 
 
+<<<<<<< HEAD
+=======
+## Range & Consumption
+
+Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP range</a>
+			</td>
+			<td>
+				609 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
+			</td>
+			<td>
+				15,9 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
+			</td>
+			<td>
+				17,2 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
+			</td>
+			<td>
+				565 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
+			</td>
+			<td>
+				17,2 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
+			</td>
+			<td>
+				21,8 kwh/100km
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 ## Battery & Charging
 
 <table class="table table-striped border">
@@ -169,7 +284,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Battery gross
+=======
+				<a href="/technology/battery/buffer/">Battery gross</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				105 kWh
@@ -177,7 +296,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Battery net
+=======
+				<a href="/technology/battery/buffer/">Battery net</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				97 kWh
@@ -185,7 +308,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Max DC charging
+=======
+				<a href="/technology/battery/charging/">Max DC charging</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				320 kW
@@ -201,7 +328,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Pack Configuration
+=======
+				<a href="/technology/battery/batterypack/">Pack Configuration</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				198s2p
@@ -209,7 +340,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Nominal voltage
+=======
+				<a href="/technology/battery/batterypack/">Nominal voltage</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				725
@@ -217,7 +352,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Cathode Materials
+=======
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				NMC
@@ -225,6 +364,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 	</tbody>
 </table>
+<<<<<<< HEAD
 
 
 
@@ -1691,6 +1831,21 @@ This model is available with a seat configuration with five seats.
             <div class="accordion-body">
 
 ## Performance
+=======
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+      Audi RS e-tron GT 
+      </button>
+    </h2>
+    <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+      
+### Performance
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 
 <table class="table table-striped border">
 	<thead>
@@ -1757,9 +1912,14 @@ This model is available with a seat configuration with five seats.
 
 
 
+<<<<<<< HEAD
 ## Range & Consumption
 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
+=======
+### Range & Consumption
+
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -1825,7 +1985,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 
 
+<<<<<<< HEAD
 ## Battery & Charging
+=======
+### Battery & Charging
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 
 <table class="table table-striped border">
 	<thead>
@@ -1897,10 +2061,26 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 	</tbody>
 </table>
+<<<<<<< HEAD
 
 
 
 ### Chargeports
+=======
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+       Audi RS e-tron GT Performance
+      </button>
+    </h2>
+    <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+       
+### Performance
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 
 <table class="table table-striped border">
 	<thead>
@@ -1916,46 +2096,82 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Chargeport placement
 			</td>
 			<td>
 				RightFrontSide
+=======
+				Peak power
+			</td>
+			<td>
+				610 KW (829 hp /818 bhp)
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Type chargeport Europe
 			</td>
 			<td>
 				CCS2
+=======
+				Peak power with  boost
+			</td>
+			<td>
+				680 Kw
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Type chargeport North America
 			</td>
 			<td>
 				CCS1
+=======
+				Electrical torque output
+			</td>
+			<td>
+				1027 nm (758 lb-ft)
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Type chargeport China
 			</td>
 			<td>
 				GBT
+=======
+				Electrical torque output boost
+			</td>
+			<td>
+				1027 Nm
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Type chargeport Japan
 			</td>
 			<td>
 				CHAdeMO
+=======
+				Top speed
+			</td>
+			<td>
+				250 kph (155 mph)
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Type chargeport Oceania (Australia, New Zealand ++)
 			</td>
 			<td>
@@ -2022,12 +2238,24 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				CCS2
+=======
+				0-100km/h (0-62 mph) boost
+			</td>
+			<td>
+				2,5 s
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 	</tbody>
 </table>
 
+<<<<<<< HEAD
 ## Dimensions
+=======
+
+
+### Range & Consumption
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 
 <table class="table table-striped border">
 	<thead>
@@ -2043,46 +2271,82 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Length
 			</td>
 			<td>
 				4989 mm (196,4")
+=======
+				Basic trim WLTP range
+			</td>
+			<td>
+				598 km
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Height
 			</td>
 			<td>
 				1396 mm (55,0")
+=======
+				Basic trim WLTP consumption
+			</td>
+			<td>
+				16,2 kWh/100km
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Width excluding mirrors
 			</td>
 			<td>
 				1964 mm (77,3")
+=======
+				Basic trim WLTP consumption with charging loss
+			</td>
+			<td>
+				18,7 kWh/100km
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Width including mirrors
 			</td>
 			<td>
 				2158 mm (85,0")
+=======
+				Top trim WLTP range
+			</td>
+			<td>
+				527 km
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Wheelbase
 			</td>
 			<td>
 				2900 mm (114,2")
+=======
+				Top trim WLTP consumption
+			</td>
+			<td>
+				18,4 kWh/100km
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Track width front
 			</td>
 			<td>
@@ -2135,12 +2399,24 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				11,6 meter (456,7")
+=======
+				Top trim WLTP consumption with charging loss
+			</td>
+			<td>
+				20,8 kwh/100km
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 	</tbody>
 </table>
 
+<<<<<<< HEAD
 ## Cargo Capacity and Towing Ability
+=======
+
+
+### Battery & Charging
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 
 <table class="table table-striped border">
 	<thead>
@@ -2156,54 +2432,105 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Curb weight
 			</td>
 			<td>
 				2340 kg (5159 lbs)
+=======
+				Battery gross
+			</td>
+			<td>
+				105 kWh
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Maximum total weight
 			</td>
 			<td>
 				2860 kg (6305 lbs)
+=======
+				Battery net
+			</td>
+			<td>
+				97 kWh
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Maximum load including weight driver
 			</td>
 			<td>
 				520 kg (1146 lbs)
+=======
+				Max DC charging
+			</td>
+			<td>
+				320 kW
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Maks roof cargo
 			</td>
 			<td>
 				75 kg (165 lbs)
+=======
+				Number of modules
+			</td>
+			<td>
+				33
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Trunk capacity
 			</td>
 			<td>
 				405 liter (14 cu-ft)
+=======
+				Pack Configuration
+			</td>
+			<td>
+				198s2p
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Size frunk
 			</td>
 			<td>
 				85 liter (3 cu-ft)
+=======
+				Nominal voltage
+			</td>
+			<td>
+				725
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Cathode Materials
+			</td>
+			<td>
+				NMC
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 	</tbody>
 </table>
+<<<<<<< HEAD
 
 ## Suspension
 
@@ -3363,6 +3690,21 @@ This model is available with a seat configuration with five seats.
             <div class="accordion-body">
 
 ## Performance
+=======
+      </div>
+    </div>
+  </div>
+   <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+        Audi e-tron GT (2021-2024)
+      </button>
+    </h2>
+    <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+       
+### Performance
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 
 <table class="table table-striped border">
 	<thead>
@@ -3413,9 +3755,14 @@ This model is available with a seat configuration with five seats.
 
 
 
+<<<<<<< HEAD
 ## Range & Consumption
 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
+=======
+### Range & Consumption
+
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -3430,7 +3777,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Basic trim WLTP range
+=======
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP range</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				609 km
@@ -3438,7 +3789,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Basic trim WLTP consumption
+=======
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				15,9 kWh/100km
@@ -3446,7 +3801,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Basic trim WLTP consumption with charging loss
+=======
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				17,2 kWh/100km
@@ -3454,7 +3813,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Top trim WLTP range
+=======
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				565 km
@@ -3462,7 +3825,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Top trim WLTP consumption
+=======
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				17,2 kWh/100km
@@ -3470,7 +3837,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Top trim WLTP consumption with charging loss
+=======
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				21,8 kwh/100km
@@ -3481,7 +3852,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 
 
+<<<<<<< HEAD
 ## Battery & Charging
+=======
+### Battery & Charging
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 
 <table class="table table-striped border">
 	<thead>
@@ -3497,7 +3872,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Battery gross
+=======
+				<a href="/technology/battery/buffer/">Battery gross</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				105 kWh
@@ -3505,7 +3884,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Battery net
+=======
+				<a href="/technology/battery/buffer/">Battery net</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				97 kWh
@@ -3513,7 +3896,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Max DC charging
+=======
+				<a href="/technology/battery/charging/">Max DC charging</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				320 kW
@@ -3529,7 +3916,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Pack Configuration
+=======
+				<a href="/technology/battery/batterypack/">Pack Configuration</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				198s2p
@@ -3537,7 +3928,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Nominal voltage
+=======
+				<a href="/technology/battery/batterypack/">Nominal voltage</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				725
@@ -3545,7 +3940,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Cathode Materials
+=======
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				NMC
@@ -3553,6 +3952,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 	</tbody>
 </table>
+<<<<<<< HEAD
 
 
 
@@ -6697,6 +7097,19 @@ This model is available with a seat configuration with five seats.
         </h2>
         <div id="panelsStayOpen-collapse24b4f50d-534e-452d-87fe-349ec1c9f154" class="accordion-collapse collapse">
             <div class="accordion-body">
+=======
+      </div>
+    </div>
+  </div>
+   <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+        Audi RS e-tron GT
+      </button>
+    </h2>
+    <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 
 ## Performance
 
@@ -6771,11 +7184,16 @@ This model is available with a seat configuration with five seats.
 	</tbody>
 </table>
 
+<<<<<<< HEAD
 
 
 ## Range & Consumption
 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
+=======
+## Range & Consumption
+
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -6790,7 +7208,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Basic trim WLTP range
+=======
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP range</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				495 km
@@ -6798,7 +7220,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Basic trim WLTP consumption
+=======
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				16,9 kWh/100km
@@ -6806,7 +7232,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Basic trim WLTP consumption with charging loss
+=======
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				19,8 kWh/100km
@@ -6814,7 +7244,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Top trim WLTP range
+=======
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				447 km
@@ -6822,7 +7256,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Top trim WLTP consumption
+=======
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				18,7 kWh/100km
@@ -6830,7 +7268,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Top trim WLTP consumption with charging loss
+=======
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				22,1 kwh/100km
@@ -6839,8 +7281,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	</tbody>
 </table>
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 ## Battery & Charging
 
 <table class="table table-striped border">
@@ -6857,7 +7302,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Battery gross
+=======
+				<a href="/technology/battery/buffer/">Battery gross</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				93,4 kWh
@@ -6865,7 +7314,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Battery net
+=======
+				<a href="/technology/battery/buffer/">Battery net</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				83,7 kWh
@@ -6873,7 +7326,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Max DC charging
+=======
+				<a href="/technology/battery/charging/">Max DC charging</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				270 kW
@@ -6889,7 +7346,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Pack Configuration
+=======
+				<a href="/technology/battery/batterypack/">Pack Configuration</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				198s2p
@@ -6897,7 +7358,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Nominal voltage
+=======
+				<a href="/technology/battery/batterypack/">Nominal voltage</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				725
@@ -6905,7 +7370,11 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Cathode Materials
+=======
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				NMC
@@ -6913,6 +7382,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 	</tbody>
 </table>
+<<<<<<< HEAD
 
 
 
@@ -8369,4 +8839,9 @@ This model is available with a seat configuration with five seats.
 </div>
 </div>
 </div>
+=======
+      </div>
+    </div>
+  </div>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 </div>

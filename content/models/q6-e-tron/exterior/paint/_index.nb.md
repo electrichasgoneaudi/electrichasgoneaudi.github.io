@@ -60,6 +60,10 @@ Color Code: **2Y**
 
 {{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/glacierwhite_3_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in glacier white" >}}
 
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/glacierwhite_4_st.jpg" width="3000" height="1996" title="Audi Q6 e-tron in glacier white" >}}
+
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/glacierwhite_5_st.jpg" width="3000" height="1999" title="Audi Q6 e-tron in glacier white" >}}
+
 ### Manhatten Grey
 
 Color Code: **2Y**

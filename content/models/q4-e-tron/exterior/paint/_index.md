@@ -25,26 +25,13 @@ Click on links for quick access to a color.
 
 On the basic trim the bumpers and wheel arches are not painted
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_basic_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_basic_1s.jpg" class="img-fluid" alt="Basic trim - wheel archer and bumpers are not painted" title="Click for large: Basic trim - wheel archer and bumpers are not painted">
-    </a>
-    <figcaption><h4>Basic trim - wheel archer and bumpers are not painted</h4></figcaption>
-</figure>
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_basic_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_basic_2s.jpg" class="img-fluid" alt="Basic trim - wheel archer and bumpers are not painted" title="Click for large: Basic trim - wheel archer and bumpers are not painted">
-    </a>
-    <figcaption><h4>Basic trim - wheel archer and bumpers are not painted</h4></figcaption>
-</figure>
+{{< sitefiguresized thumb="models/q4-e-tron/exterior/paint/paint_basic_1_st.jpg" width="2500" height="1240" title="Basic trim - wheel archer and bumpers are not painted" >}}
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_basic_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_basic_3s.jpg" class="img-fluid" alt="Basic trim - wheel archer and bumpers are not painted" title="Click for large: Basic trim - wheel archer and bumpers are not painted">
-    </a>
-    <figcaption><h4>Basic trim - wheel archer and bumpers are not painted</h4></figcaption>
-</figure>
+
+{{< sitefiguresized thumb="models/q4-e-tron/exterior/paint/paint_basic_2_st.jpg" width="2500" height="1550" title="Basic trim - wheel archer and bumpers are not painted" >}}
+
+{{< sitefiguresized thumb="models/q4-e-tron/exterior/paint/paint_basic_3_st.jpg" width="2500" height="1872" title="Basic trim - wheel archer and bumpers are not painted" >}}
 
 ### Contrast paint
 

@@ -85,47 +85,92 @@ navicon: bi-layout-text-sidebar-reverse
 
 
 
+<<<<<<< HEAD
 ## Rekkevidde og forbruk
 
 Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinfo](../rangeandconsumption/) for detaljerte eksempler på rekkevidde fra den virkelige verden. Besøk vår [Rekkeviddeguide](../../../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
+=======
+<div class="accordion" id="accordionExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        Audi S e-tron GT
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+      
+      
+## Performance
+
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 <table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
+<<<<<<< HEAD
 				Spesifikasjon
 			</th>
 			<th>
 				Verdi
+=======
+				Spec
+			</th>
+			<th>
+				Value
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				WLTP-område for grunnleggende trim
 			</td>
 			<td>
 				598 km
+=======
+				Peak power
+			</td>
+			<td>
+				500 KW (680 hp /671 bhp)
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Basic trim WLTP-forbruk
 			</td>
 			<td>
 				16,2 kWh/100km
+=======
+				Electrical torque output
+			</td>
+			<td>
+				740 nm (546 lb-ft)
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Basic trim WLTP-forbruk med ladetap
 			</td>
 			<td>
 				18,7 kWh/100km
+=======
+				Top speed
+			</td>
+			<td>
+				245 kph (152 mph)
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Topputstyrt WLTP-rekkevidde
 			</td>
 			<td>
@@ -146,6 +191,12 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				20,8 kwh/100km
+=======
+				0-100km/h (0-62 mph)
+			</td>
+			<td>
+				3,4 s
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 	</tbody>
@@ -153,23 +204,107 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 
 
+<<<<<<< HEAD
 ## Batteri og lading
 
+=======
+## Range & Consumption
+
+Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 <table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
+<<<<<<< HEAD
 				Spesifikasjon
 			</th>
 			<th>
 				Verdi
+=======
+				Spec
+			</th>
+			<th>
+				Value
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Brutto batteristørrelse
+=======
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP range</a>
+			</td>
+			<td>
+				609 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
+			</td>
+			<td>
+				15,9 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
+			</td>
+			<td>
+				17,2 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
+			</td>
+			<td>
+				565 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
+			</td>
+			<td>
+				17,2 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
+			</td>
+			<td>
+				21,8 kwh/100km
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+
+## Battery & Charging
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				<a href="/technology/battery/buffer/">Battery gross</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				105 kWh
@@ -177,7 +312,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Netto batteristørrelse
+=======
+				<a href="/technology/battery/buffer/">Battery net</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				97 kWh
@@ -185,7 +324,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Maks DC-lading
+=======
+				<a href="/technology/battery/charging/">Max DC charging</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				320 kW
@@ -193,7 +336,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Antall moduler
+=======
+				Number of modules
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				33
@@ -201,7 +348,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Pakkekonfigurasjon
+=======
+				<a href="/technology/battery/batterypack/">Pack Configuration</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				198s2p
@@ -209,7 +360,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Nominell spenning
+=======
+				<a href="/technology/battery/batterypack/">Nominal voltage</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				725
@@ -217,7 +372,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Katodematerialer
+=======
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				NMC
@@ -225,33 +384,64 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 	</tbody>
 </table>
+<<<<<<< HEAD
 
 
 
 ### Ladeporter
+=======
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+      Audi RS e-tron GT 
+      </button>
+    </h2>
+    <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+      
+### Performance
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 
 <table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
+<<<<<<< HEAD
 				Spesifikasjon
 			</th>
 			<th>
 				Verdi
+=======
+				Spec
+			</th>
+			<th>
+				Value
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Ladeportplassering
 			</td>
 			<td>
 				RightFrontSide
+=======
+				Peak power
+			</td>
+			<td>
+				560 KW (761 hp /751 bhp)
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Type ladeport Europa
 			</td>
 			<td>
@@ -1715,6 +1905,9 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		<tr>
 			<td>
 				Maks effekt med boost
+=======
+				Peak power with  boost
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				630 Kw
@@ -1722,15 +1915,26 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Dreiemoment
 			</td>
 			<td>
 				865 nm
+=======
+				Electrical torque output
+			</td>
+			<td>
+				865 nm (638 lb-ft)
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Dreiemoment med boost
+=======
+				Electrical torque output boost
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				865 Nm
@@ -1738,15 +1942,26 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Topphastighet
 			</td>
 			<td>
 				250 km/t
+=======
+				Top speed
+			</td>
+			<td>
+				250 kph (155 mph)
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				0-100 km/t (0-62 mph) boost
+=======
+				0-100km/h (0-62 mph) boost
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				2,8 s
@@ -1757,24 +1972,40 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 
 
+<<<<<<< HEAD
 ## Rekkevidde og forbruk
 
 Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinfo](../rangeandconsumption/) for detaljerte eksempler på rekkevidde fra den virkelige verden. Besøk vår [Rekkeviddeguide](../../../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
+=======
+### Range & Consumption
+
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 <table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
+<<<<<<< HEAD
 				Spesifikasjon
 			</th>
 			<th>
 				Verdi
+=======
+				Spec
+			</th>
+			<th>
+				Value
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				WLTP-område for grunnleggende trim
+=======
+				Basic trim WLTP range
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				598 km
@@ -1782,7 +2013,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Basic trim WLTP-forbruk
+=======
+				Basic trim WLTP consumption
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				16,2 kWh/100km
@@ -1790,7 +2025,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Basic trim WLTP-forbruk med ladetap
+=======
+				Basic trim WLTP consumption with charging loss
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				18,7 kWh/100km
@@ -1798,7 +2037,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Topputstyrt WLTP-rekkevidde
+=======
+				Top trim WLTP range
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				527 km
@@ -1806,7 +2049,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Topputstyrt WLTP-forbruk
+=======
+				Top trim WLTP consumption
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				18,4 kWh/100km
@@ -1814,7 +2061,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Topputstyrt WLTP-forbruk med ladetap
+=======
+				Top trim WLTP consumption with charging loss
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				20,8 kwh/100km
@@ -1825,23 +2076,38 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 
 
+<<<<<<< HEAD
 ## Batteri og lading
+=======
+### Battery & Charging
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 
 <table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
+<<<<<<< HEAD
 				Spesifikasjon
 			</th>
 			<th>
 				Verdi
+=======
+				Spec
+			</th>
+			<th>
+				Value
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Brutto batteristørrelse
+=======
+				Battery gross
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				105 kWh
@@ -1849,7 +2115,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Netto batteristørrelse
+=======
+				Battery net
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				97 kWh
@@ -1857,7 +2127,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Maks DC-lading
+=======
+				Max DC charging
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				320 kW
@@ -1865,7 +2139,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Antall moduler
+=======
+				Number of modules
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				33
@@ -1873,7 +2151,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Pakkekonfigurasjon
+=======
+				Pack Configuration
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				198s2p
@@ -1881,7 +2163,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Nominell spenning
+=======
+				Nominal voltage
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				725
@@ -1889,7 +2175,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Katodematerialer
+=======
+				Cathode Materials
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				NMC
@@ -1897,65 +2187,124 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 	</tbody>
 </table>
+<<<<<<< HEAD
 
 
 
 ### Ladeporter
+=======
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+       Audi RS e-tron GT Performance
+      </button>
+    </h2>
+    <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+       
+### Performance
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 
 <table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
+<<<<<<< HEAD
 				Spesifikasjon
 			</th>
 			<th>
 				Verdi
+=======
+				Spec
+			</th>
+			<th>
+				Value
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Ladeportplassering
 			</td>
 			<td>
 				RightFrontSide
+=======
+				Peak power
+			</td>
+			<td>
+				610 KW (829 hp /818 bhp)
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Type ladeport Europa
 			</td>
 			<td>
 				CCS2
+=======
+				Peak power with  boost
+			</td>
+			<td>
+				680 Kw
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Type ladeport Nord-Amerika
 			</td>
 			<td>
 				CCS1
+=======
+				Electrical torque output
+			</td>
+			<td>
+				1027 nm (758 lb-ft)
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Skriv ladeport Kina
 			</td>
 			<td>
 				GBT
+=======
+				Electrical torque output boost
+			</td>
+			<td>
+				1027 Nm
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Skriv ladeport Japan
 			</td>
 			<td>
 				CHAdeMO
+=======
+				Top speed
+			</td>
+			<td>
+				250 kph (155 mph)
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Skriv ladeport Oceania (Australia, New Zealand ++)
 			</td>
 			<td>
@@ -2022,67 +2371,122 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				CCS2
+=======
+				0-100km/h (0-62 mph) boost
+			</td>
+			<td>
+				2,5 s
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 	</tbody>
 </table>
 
+<<<<<<< HEAD
 ## Dimensjoner
+=======
+
+
+### Range & Consumption
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 
 <table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
+<<<<<<< HEAD
 				Spesifikasjon
 			</th>
 			<th>
 				Verdi
+=======
+				Spec
+			</th>
+			<th>
+				Value
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Lengde
 			</td>
 			<td>
 				4989 mm
+=======
+				Basic trim WLTP range
+			</td>
+			<td>
+				598 km
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Høyde
 			</td>
 			<td>
 				1396 mm
+=======
+				Basic trim WLTP consumption
+			</td>
+			<td>
+				16,2 kWh/100km
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Bredde uten speil
 			</td>
 			<td>
 				1964 mm
+=======
+				Basic trim WLTP consumption with charging loss
+			</td>
+			<td>
+				18,7 kWh/100km
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Bredde inkludert speil
 			</td>
 			<td>
 				2158 mm
+=======
+				Top trim WLTP range
+			</td>
+			<td>
+				527 km
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Akselavstand
 			</td>
 			<td>
 				2900 mm
+=======
+				Top trim WLTP consumption
+			</td>
+			<td>
+				18,4 kWh/100km
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Sporbredde foran
 			</td>
 			<td>
@@ -2135,120 +2539,234 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				11,6 meter
+=======
+				Top trim WLTP consumption with charging loss
+			</td>
+			<td>
+				20,8 kwh/100km
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 	</tbody>
 </table>
 
+<<<<<<< HEAD
 ## Lastekapasitet og slepeevne
+=======
+
+
+### Battery & Charging
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 
 <table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
+<<<<<<< HEAD
 				Spesifikasjon
 			</th>
 			<th>
 				Verdi
+=======
+				Spec
+			</th>
+			<th>
+				Value
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Egenvekt
 			</td>
 			<td>
 				2340 kg
+=======
+				Battery gross
+			</td>
+			<td>
+				105 kWh
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Tillatt totalvekt
 			</td>
 			<td>
 				2860 kg
+=======
+				Battery net
+			</td>
+			<td>
+				97 kWh
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
 				520 kg
+=======
+				Max DC charging
+			</td>
+			<td>
+				320 kW
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Maks taklast
 			</td>
 			<td>
 				75 kg
+=======
+				Number of modules
+			</td>
+			<td>
+				33
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Størrelse bagasjerom
 			</td>
 			<td>
 				405 liter
+=======
+				Pack Configuration
+			</td>
+			<td>
+				198s2p
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Størrelse frunk
 			</td>
 			<td>
 				85 liter
+=======
+				Nominal voltage
+			</td>
+			<td>
+				725
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Cathode Materials
+			</td>
+			<td>
+				NMC
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 	</tbody>
 </table>
+<<<<<<< HEAD
 
 ## Hjuloppheng
 
 Modellen tilbyr 2 fjæringsvarianter
 
 ### Adaptive Air Suspension
+=======
+      </div>
+    </div>
+  </div>
+   <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+        Audi e-tron GT (2021-2024)
+      </button>
+    </h2>
+    <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+       
+### Performance
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 
 <table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
+<<<<<<< HEAD
 				Spesifikasjon
 			</th>
 			<th>
 				Verdi
+=======
+				Spec
+			</th>
+			<th>
+				Value
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Adaptiv fjæring
 			</td>
 			<td>
 				Ja, standardutstyr
+=======
+				Peak power
+			</td>
+			<td>
+				500 KW (680 hp /671 bhp)
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Justerbar demping foran
 			</td>
 			<td>
 				Ja, standardutstyr
+=======
+				Electrical torque output
+			</td>
+			<td>
+				740 nm (546 lb-ft)
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Justerbar demping bak
 			</td>
 			<td>
 				Ja, standardutstyr
+=======
+				Top speed
+			</td>
+			<td>
+				245 kph (152 mph)
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Justerbar høyde foran
 			</td>
 			<td>
@@ -3403,6 +3921,9 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		<tr>
 			<td>
 				0-100 km/t (0-62 mph)
+=======
+				0-100km/h (0-62 mph)
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				3,4 s
@@ -3413,24 +3934,40 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 
 
+<<<<<<< HEAD
 ## Rekkevidde og forbruk
 
 Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinfo](../rangeandconsumption/) for detaljerte eksempler på rekkevidde fra den virkelige verden. Besøk vår [Rekkeviddeguide](../../../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
+=======
+### Range & Consumption
+
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 <table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
+<<<<<<< HEAD
 				Spesifikasjon
 			</th>
 			<th>
 				Verdi
+=======
+				Spec
+			</th>
+			<th>
+				Value
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				WLTP-område for grunnleggende trim
+=======
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP range</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				609 km
@@ -3438,7 +3975,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Basic trim WLTP-forbruk
+=======
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				15,9 kWh/100km
@@ -3446,7 +3987,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Basic trim WLTP-forbruk med ladetap
+=======
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				17,2 kWh/100km
@@ -3454,7 +3999,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Topputstyrt WLTP-rekkevidde
+=======
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				565 km
@@ -3462,7 +4011,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Topputstyrt WLTP-forbruk
+=======
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				17,2 kWh/100km
@@ -3470,7 +4023,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Topputstyrt WLTP-forbruk med ladetap
+=======
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				21,8 kwh/100km
@@ -3481,23 +4038,38 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 
 
+<<<<<<< HEAD
 ## Batteri og lading
+=======
+### Battery & Charging
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 
 <table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
+<<<<<<< HEAD
 				Spesifikasjon
 			</th>
 			<th>
 				Verdi
+=======
+				Spec
+			</th>
+			<th>
+				Value
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Brutto batteristørrelse
+=======
+				<a href="/technology/battery/buffer/">Battery gross</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				105 kWh
@@ -3505,7 +4077,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Netto batteristørrelse
+=======
+				<a href="/technology/battery/buffer/">Battery net</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				97 kWh
@@ -3513,7 +4089,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Maks DC-lading
+=======
+				<a href="/technology/battery/charging/">Max DC charging</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				320 kW
@@ -3521,7 +4101,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Antall moduler
+=======
+				Number of modules
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				33
@@ -3529,7 +4113,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Pakkekonfigurasjon
+=======
+				<a href="/technology/battery/batterypack/">Pack Configuration</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				198s2p
@@ -3537,7 +4125,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Nominell spenning
+=======
+				<a href="/technology/battery/batterypack/">Nominal voltage</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				725
@@ -3545,7 +4137,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Katodematerialer
+=======
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				NMC
@@ -3553,33 +4149,64 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 	</tbody>
 </table>
+<<<<<<< HEAD
 
 
 
 ### Ladeporter
+=======
+      </div>
+    </div>
+  </div>
+   <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+        Audi RS e-tron GT
+      </button>
+    </h2>
+    <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+
+## Performance
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 
 <table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
+<<<<<<< HEAD
 				Spesifikasjon
 			</th>
 			<th>
 				Verdi
+=======
+				Spec
+			</th>
+			<th>
+				Value
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Ladeportplassering
 			</td>
 			<td>
 				RightFrontSide
+=======
+				Peak power
+			</td>
+			<td>
+				440 KW (598 hp /590 bhp)
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Type ladeport Europa
 			</td>
 			<td>
@@ -6723,6 +7350,9 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		<tr>
 			<td>
 				Maks effekt med boost
+=======
+				Peak power with  boost
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				475 Kw
@@ -6730,15 +7360,26 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Dreiemoment
 			</td>
 			<td>
 				830 nm
+=======
+				Electrical torque output
+			</td>
+			<td>
+				830 nm (613 lb-ft)
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Dreiemoment med boost
+=======
+				Electrical torque output boost
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				830 Nm
@@ -6746,15 +7387,26 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Topphastighet
 			</td>
 			<td>
 				250 km/t
+=======
+				Top speed
+			</td>
+			<td>
+				250 kph (155 mph)
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				0-100 km/t (0-62 mph)
+=======
+				0-100km/h (0-62 mph)
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				4,5 s
@@ -6762,7 +7414,11 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				0-100 km/t (0-62 mph) boost
+=======
+				0-100km/h (0-62 mph) boost
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				3,3 s
@@ -6771,26 +7427,42 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 	</tbody>
 </table>
 
+<<<<<<< HEAD
 
 
 ## Rekkevidde og forbruk
 
 Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinfo](../rangeandconsumption/) for detaljerte eksempler på rekkevidde fra den virkelige verden. Besøk vår [Rekkeviddeguide](../../../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
+=======
+## Range & Consumption
+
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 <table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
+<<<<<<< HEAD
 				Spesifikasjon
 			</th>
 			<th>
 				Verdi
+=======
+				Spec
+			</th>
+			<th>
+				Value
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				WLTP-område for grunnleggende trim
+=======
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP range</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				495 km
@@ -6798,7 +7470,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Basic trim WLTP-forbruk
+=======
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				16,9 kWh/100km
@@ -6806,7 +7482,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Basic trim WLTP-forbruk med ladetap
+=======
+				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				19,8 kWh/100km
@@ -6814,7 +7494,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Topputstyrt WLTP-rekkevidde
+=======
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				447 km
@@ -6822,7 +7506,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Topputstyrt WLTP-forbruk
+=======
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				18,7 kWh/100km
@@ -6830,7 +7518,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Topputstyrt WLTP-forbruk med ladetap
+=======
+				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				22,1 kwh/100km
@@ -6839,25 +7531,40 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	</tbody>
 </table>
 
+<<<<<<< HEAD
 
 
 ## Batteri og lading
+=======
+## Battery & Charging
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 
 <table class="table table-striped border">
 	<thead>
 			<tr>
 			<th>
+<<<<<<< HEAD
 				Spesifikasjon
 			</th>
 			<th>
 				Verdi
+=======
+				Spec
+			</th>
+			<th>
+				Value
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</th>
 			</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Brutto batteristørrelse
+=======
+				<a href="/technology/battery/buffer/">Battery gross</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				93,4 kWh
@@ -6865,7 +7572,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Netto batteristørrelse
+=======
+				<a href="/technology/battery/buffer/">Battery net</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				83,7 kWh
@@ -6873,7 +7584,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Maks DC-lading
+=======
+				<a href="/technology/battery/charging/">Max DC charging</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				270 kW
@@ -6881,7 +7596,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Antall moduler
+=======
+				Number of modules
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				33
@@ -6889,7 +7608,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Pakkekonfigurasjon
+=======
+				<a href="/technology/battery/batterypack/">Pack Configuration</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				198s2p
@@ -6897,7 +7620,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Nominell spenning
+=======
+				<a href="/technology/battery/batterypack/">Nominal voltage</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				725
@@ -6905,7 +7632,11 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+<<<<<<< HEAD
 				Katodematerialer
+=======
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 			</td>
 			<td>
 				NMC
@@ -6913,6 +7644,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 	</tbody>
 </table>
+<<<<<<< HEAD
 
 
 
@@ -8369,4 +9101,9 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 </div>
 </div>
 </div>
+=======
+      </div>
+    </div>
+  </div>
+>>>>>>> c075385e19cba7b2385759e1c0911277e728d1bc
 </div>
