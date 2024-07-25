@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron 50 spesifikasjoner
+title: Audi e-tron spesifikasjoner
 linktitle: "Spesifikasjoner"
-description: "EVKX.net gir deg alle spesifikasjonene for Audi e-tron 50."
+description: "electrichasgoneaudi.net gir deg alle spesifikasjonene for Audi e-tron."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse

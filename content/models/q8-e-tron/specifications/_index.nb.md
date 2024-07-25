@@ -1,7 +1,7 @@
 ---
-title: Audi Q8 50 e-tron spesifikasjoner
+title: Audi Q8 e-tron spesifikasjoner
 linktitle: "Spesifikasjoner"
-description: "EVKX.net gir deg alle spesifikasjonene for Audi Q8 50 e-tron."
+description: "electrichasgoneaudi.net gir deg alle spesifikasjonene for Audi Q8 e-tron."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse

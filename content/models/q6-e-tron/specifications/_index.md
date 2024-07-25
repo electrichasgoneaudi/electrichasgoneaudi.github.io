@@ -1,7 +1,7 @@
 ---
-title: Audi Q6L e-tron quattro specifications
+title: Audi Q6 e-tron specifications
 linktitle: "Specifications"
-description: "EVKX.net gives you the full specifications for Audi Q6L e-tron quattro."
+description: "electrichasgoneaudi.net gives you the full specifications for Audi Q6 e-tron."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse

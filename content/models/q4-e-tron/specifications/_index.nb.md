@@ -1,7 +1,7 @@
 ---
-title: Audi Q4 35 e-tron (GEN1) spesifikasjoner
+title: Audi Q4 e-tron spesifikasjoner
 linktitle: "Spesifikasjoner"
-description: "EVKX.net gir deg alle spesifikasjonene for Audi Q4 35 e-tron (GEN1)."
+description: "electrichasgoneaudi.net gir deg alle spesifikasjonene for Audi Q4 e-tron."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
