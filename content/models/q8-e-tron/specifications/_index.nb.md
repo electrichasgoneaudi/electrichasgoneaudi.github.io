@@ -2035,14 +2035,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Kanaler
-			</td>
-			<td>
-				10
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Total effekt
 			</td>
 			<td>
@@ -2069,14 +2061,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		<tr>
 			<td>
 				Antall høyttalere
-			</td>
-			<td>
-				16
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Kanaler
 			</td>
 			<td>
 				16
@@ -4137,14 +4121,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Kanaler
-			</td>
-			<td>
-				10
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Total effekt
 			</td>
 			<td>
@@ -4171,14 +4147,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		<tr>
 			<td>
 				Antall høyttalere
-			</td>
-			<td>
-				16
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Kanaler
 			</td>
 			<td>
 				16
@@ -6279,14 +6247,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Kanaler
-			</td>
-			<td>
-				10
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Total effekt
 			</td>
 			<td>
@@ -6313,14 +6273,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		<tr>
 			<td>
 				Antall høyttalere
-			</td>
-			<td>
-				16
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Kanaler
 			</td>
 			<td>
 				16
@@ -8421,14 +8373,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Kanaler
-			</td>
-			<td>
-				10
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Total effekt
 			</td>
 			<td>
@@ -8455,14 +8399,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		<tr>
 			<td>
 				Antall høyttalere
-			</td>
-			<td>
-				16
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Kanaler
 			</td>
 			<td>
 				16
@@ -10523,14 +10459,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Kanaler
-			</td>
-			<td>
-				10
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Total effekt
 			</td>
 			<td>
@@ -10557,14 +10485,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		<tr>
 			<td>
 				Antall høyttalere
-			</td>
-			<td>
-				16
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Kanaler
 			</td>
 			<td>
 				16
@@ -12327,14 +12247,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Kanaler
-			</td>
-			<td>
-				10
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Total effekt
 			</td>
 			<td>
@@ -12361,14 +12273,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		<tr>
 			<td>
 				Antall høyttalere
-			</td>
-			<td>
-				16
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Kanaler
 			</td>
 			<td>
 				16
@@ -14131,14 +14035,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Kanaler
-			</td>
-			<td>
-				10
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Total effekt
 			</td>
 			<td>
@@ -14165,14 +14061,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		<tr>
 			<td>
 				Antall høyttalere
-			</td>
-			<td>
-				16
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Kanaler
 			</td>
 			<td>
 				16
