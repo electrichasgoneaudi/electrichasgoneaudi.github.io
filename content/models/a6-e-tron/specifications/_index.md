@@ -45,15 +45,7 @@ navicon: bi-layout-text-sidebar-reverse
 				Electrical torque output
 			</td>
 			<td>
-				855 nm (631 lb-ft)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Electrical torque output boost
-			</td>
-			<td>
-				855 Nm
+				565 nm (417 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -66,7 +58,7 @@ navicon: bi-layout-text-sidebar-reverse
 		</tr>
 		<tr>
 			<td>
-				0-100km/h (0-62 mph) boost
+				0-100km/h (0-62 mph)
 			</td>
 			<td>
 				5,4 s
@@ -121,7 +113,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Top trim WLTP range
 			</td>
 			<td>
-				650 km
+				627 km
 			</td>
 		</tr>
 		<tr>
@@ -129,7 +121,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Top trim WLTP consumption
 			</td>
 			<td>
-				14,6 kWh/100km
+				15,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -545,7 +537,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 The model offers 2 suspension variants
 
-### Sport
+### Standard
 
 <table class="table table-striped border">
 	<thead>
@@ -604,7 +596,7 @@ The model offers 2 suspension variants
 				Max ground clearance
 			</td>
 			<td>
-				134 mm (5,3")
+				143 mm (5,6")
 			</td>
 		</tr>
 		<tr>
@@ -612,7 +604,7 @@ The model offers 2 suspension variants
 				Minimum ground clearance
 			</td>
 			<td>
-				134 mm (5,3")
+				143 mm (5,6")
 			</td>
 		</tr>
 		<tr>
@@ -733,7 +725,7 @@ The model offers 2 suspension variants
 				Minimum ground clearance
 			</td>
 			<td>
-				125 mm (4,9")
+				105 mm (4,1")
 			</td>
 		</tr>
 		<tr>
@@ -1658,15 +1650,7 @@ This model is available with a seat configuration with five seats.
 				Electrical torque output
 			</td>
 			<td>
-				855 nm (631 lb-ft)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Electrical torque output boost
-			</td>
-			<td>
-				855 Nm
+				565 nm (417 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -1679,7 +1663,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				0-100km/h (0-62 mph) boost
+				0-100km/h (0-62 mph)
 			</td>
 			<td>
 				5,4 s
@@ -1710,7 +1694,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Basic trim WLTP range
 			</td>
 			<td>
-				750 km
+				756 km
 			</td>
 		</tr>
 		<tr>
@@ -1718,7 +1702,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Basic trim WLTP consumption
 			</td>
 			<td>
-				12,7 kWh/100km
+				12,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -1734,7 +1718,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Top trim WLTP range
 			</td>
 			<td>
-				685 km
+				673 km
 			</td>
 		</tr>
 		<tr>
@@ -1742,7 +1726,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Top trim WLTP consumption
 			</td>
 			<td>
-				13,9 kWh/100km
+				14,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -2027,7 +2011,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Frontal area
 			</td>
 			<td>
-				2,73
+				2,46
 			</td>
 		</tr>
 		<tr>
@@ -2051,7 +2035,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				12,1 meter (476,4")
+				12,3 meter (484,3")
 			</td>
 		</tr>
 	</tbody>
@@ -2076,7 +2060,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Curb weight
 			</td>
 			<td>
-				2350 kg (5181 lbs)
+				2175 kg (4795 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -2084,7 +2068,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Maximum total weight
 			</td>
 			<td>
-				2965 kg (6537 lbs)
+				2750 kg (6063 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -2092,7 +2076,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Maximum load including weight driver
 			</td>
 			<td>
-				615 kg (1356 lbs)
+				575 kg (1268 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -2124,7 +2108,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Size frunk
 			</td>
 			<td>
-				64 liter (2 cu-ft)
+				27 liter (1 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -2158,7 +2142,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 The model offers 2 suspension variants
 
-### Sport
+### Standard
 
 <table class="table table-striped border">
 	<thead>
@@ -2217,7 +2201,7 @@ The model offers 2 suspension variants
 				Max ground clearance
 			</td>
 			<td>
-				134 mm (5,3")
+				143 mm (5,6")
 			</td>
 		</tr>
 		<tr>
@@ -2225,7 +2209,7 @@ The model offers 2 suspension variants
 				Minimum ground clearance
 			</td>
 			<td>
-				134 mm (5,3")
+				143 mm (5,6")
 			</td>
 		</tr>
 		<tr>
@@ -2346,7 +2330,7 @@ The model offers 2 suspension variants
 				Minimum ground clearance
 			</td>
 			<td>
-				125 mm (4,9")
+				105 mm (4,1")
 			</td>
 		</tr>
 		<tr>
@@ -3300,6 +3284,14 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
+				0-100km/h (0-62 mph)
+			</td>
+			<td>
+				4,1 s
+			</td>
+		</tr>
+		<tr>
+			<td>
 				0-100km/h (0-62 mph) boost
 			</td>
 			<td>
@@ -3331,7 +3323,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Basic trim WLTP range
 			</td>
 			<td>
-				640 km
+				647 km
 			</td>
 		</tr>
 		<tr>
@@ -3339,7 +3331,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Basic trim WLTP consumption
 			</td>
 			<td>
-				14,8 kWh/100km
+				14,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -3355,7 +3347,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Top trim WLTP range
 			</td>
 			<td>
-				585 km
+				609 km
 			</td>
 		</tr>
 		<tr>
@@ -3363,7 +3355,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Top trim WLTP consumption
 			</td>
 			<td>
-				16,2 kWh/100km
+				15,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -3624,7 +3616,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width including mirrors
 			</td>
 			<td>
-				2193 mm (86,3")
+				2137 mm (84,1")
 			</td>
 		</tr>
 		<tr>
@@ -3640,7 +3632,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0,24
+				0,26
 			</td>
 		</tr>
 		<tr>
@@ -3648,7 +3640,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Frontal area
 			</td>
 			<td>
-				2,73
+				2,48
 			</td>
 		</tr>
 		<tr>
@@ -3656,7 +3648,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Overhang angle front
 			</td>
 			<td>
-				16,3
+				13,5
 			</td>
 		</tr>
 		<tr>
@@ -3664,7 +3656,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Overhang angle rear
 			</td>
 			<td>
-				23,7
+				16,6
 			</td>
 		</tr>
 		<tr>
@@ -3672,7 +3664,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				12,1 meter (476,4")
+				12,3 meter (484,3")
 			</td>
 		</tr>
 	</tbody>
@@ -3697,7 +3689,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Curb weight
 			</td>
 			<td>
-				2350 kg (5181 lbs)
+				2335 kg (5148 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -3705,7 +3697,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Maximum total weight
 			</td>
 			<td>
-				2965 kg (6537 lbs)
+				2880 kg (6349 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -3713,7 +3705,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Maximum load including weight driver
 			</td>
 			<td>
-				615 kg (1356 lbs)
+				545 kg (1202 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -3776,131 +3768,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 </table>
 
 ## Suspension
-
-The model offers 2 suspension variants
-
-### Sport
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Value
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Adaptive suspension
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Adjustable damping front
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Adjustable damping rear
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Adjustable height front
-			</td>
-			<td>
-				Not available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Adjustable height rear
-			</td>
-			<td>
-				Not available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Max ground clearance
-			</td>
-			<td>
-				134 mm (5,3")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minimum ground clearance
-			</td>
-			<td>
-				134 mm (5,3")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Damper type front
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Damper type rear
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Spring type front
-			</td>
-			<td>
-				Coil Spring
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Spring type rear
-			</td>
-			<td>
-				Coil Spring
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Suspension type front
-			</td>
-			<td>
-				Multilink
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Suspension type rear
-			</td>
-			<td>
-				Multi-link
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Adaptive Air Suspension Sport
 
 <table class="table table-striped border">
 	<thead>
@@ -3967,7 +3834,7 @@ The model offers 2 suspension variants
 				Minimum ground clearance
 			</td>
 			<td>
-				125 mm (4,9")
+				105 mm (4,1")
 			</td>
 		</tr>
 		<tr>
@@ -4921,6 +4788,14 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
+				0-100km/h (0-62 mph)
+			</td>
+			<td>
+				4,1 s
+			</td>
+		</tr>
+		<tr>
+			<td>
 				0-100km/h (0-62 mph) boost
 			</td>
 			<td>
@@ -4952,7 +4827,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Basic trim WLTP range
 			</td>
 			<td>
-				640 km
+				675 km
 			</td>
 		</tr>
 		<tr>
@@ -4960,7 +4835,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Basic trim WLTP consumption
 			</td>
 			<td>
-				14,8 kWh/100km
+				14,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -4976,7 +4851,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Top trim WLTP range
 			</td>
 			<td>
-				585 km
+				638 km
 			</td>
 		</tr>
 		<tr>
@@ -4984,7 +4859,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Top trim WLTP consumption
 			</td>
 			<td>
-				16,2 kWh/100km
+				14,9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -4992,7 +4867,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Top trim WLTP consumption with charging loss
 			</td>
 			<td>
-				17,4 kwh/100km
+				16,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -5318,7 +5193,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Curb weight
 			</td>
 			<td>
-				2350 kg (5181 lbs)
+				2325 kg (5126 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -5334,7 +5209,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Maximum load including weight driver
 			</td>
 			<td>
-				615 kg (1356 lbs)
+				640 kg (1411 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -5397,131 +5272,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 </table>
 
 ## Suspension
-
-The model offers 2 suspension variants
-
-### Sport
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Value
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Adaptive suspension
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Adjustable damping front
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Adjustable damping rear
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Adjustable height front
-			</td>
-			<td>
-				Not available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Adjustable height rear
-			</td>
-			<td>
-				Not available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Max ground clearance
-			</td>
-			<td>
-				134 mm (5,3")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minimum ground clearance
-			</td>
-			<td>
-				134 mm (5,3")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Damper type front
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Damper type rear
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Spring type front
-			</td>
-			<td>
-				Coil Spring
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Spring type rear
-			</td>
-			<td>
-				Coil Spring
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Suspension type front
-			</td>
-			<td>
-				Multilink
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Suspension type rear
-			</td>
-			<td>
-				Multi-link
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Adaptive Air Suspension Sport
 
 <table class="table table-striped border">
 	<thead>
@@ -5588,7 +5338,7 @@ The model offers 2 suspension variants
 				Minimum ground clearance
 			</td>
 			<td>
-				125 mm (4,9")
+				105 mm (4,1")
 			</td>
 		</tr>
 		<tr>
