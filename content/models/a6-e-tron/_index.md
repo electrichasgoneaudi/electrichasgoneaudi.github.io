@@ -1,14 +1,15 @@
 ---
 title: Audi A6 e-tron
 linktitle: Audi A6 e-tron
-description: Audi A6 e-tron will be available with different motors, batteries, technology, and design options and have a range of up to 700km(435mi).
+description: Audi A6 e-tron will be available with different motors, batteries, technology, and design options and have a range of up to 750km.
 weight: 7
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 
-The Audi A6 e-tron was first time revealed in April 2021 as a concept car. It is expected to have a world premiere July 31. 2024 and will be the sixth all-electric model from Audi. With a range of up to 700km, it will be the all-electric model with the longest range from Audi.
+The Audi A6 e-tron was first time revealed in April 2021 as a concept car and had a world premiere July 31. 2024 and was thesixth all-electric model from Audi. With a range of up to 750km, it will be the all-electric model with the longest range from Audi.
 
-March 17. 2022 Audi also presented the Audi A6 Avant e-tron concept of this model.
+Audi A6 is available both as Sportback and Avant
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-7.jpg">
@@ -19,14 +20,13 @@ March 17. 2022 Audi also presented the Audi A6 Avant e-tron concept of this mode
 
 The expectation is that the first owners will receive it in late 2024.
 
-This article with subsections presents all known info about this model and will be continued updated when we know more. 
 Join our [international Audi A6 e-tron owners group](https://www.facebook.com/groups/5590477234297637) on Facebook to be updated with all the latest info and discuss the car with others.
 
 ## Exterior, size, and design
 
 Even though this is a concept, Audi promises that this concept will look very similar to the production-ready model. At 4.96 meters (16.3 ft.) long, 1.96 meters (6.4 ft.) wide, and 1.44 meters (4.7 ft.) high, its body puts it in the luxury class. Its lines are a consistent development in Audi’s contemporary formal language. Significant elements like the closed Singleframe and the continuous strip of lights in the rear emphasize its kinship with the other electrically powered Audis in the e-tron fleet.
 
-Large 22-inch wheels and short overhangs, the flat cabin, and a dynamic roof arch give the Avant proportions that are distinctly reminiscent of a sports car.
+Large 21-inch wheels and short overhangs, the flat cabin, and a dynamic roof arch give the Avant proportions that are distinctly reminiscent of a sports car.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-6.jpg">
@@ -35,7 +35,7 @@ Large 22-inch wheels and short overhangs, the flat cabin, and a dynamic roof arc
     <figcaption><h4>Audi A6 Avant e-tron concept</h4></figcaption>
 </figure>
 
-Audi A6 e-tron will be available with S-line exterior, black optics, black windows, virtual mirrors, panoramic roof, several wheels to choose from with sizes from 19" to 22", many different colors including the possibility for Audi exclusive colors making it possible to create your unique design.
+Audi A6 e-tron is available with S-line exterior, black optics, black windows, virtual mirrors, panoramic roof, several wheels to choose from with sizes from 19" to 21", many different colors including the possibility for Audi exclusive colors making it possible to create your unique design.
 
 ## Interior
 
@@ -50,19 +50,27 @@ Audi A6 e-tron is based on the new [PPE-platform](../../technology/bev-platforms
 
 It will be delivered in two battery sizes
 
-- 12 modules with 100 kWh gross (94kWh net)
+- 12 modules with 100 kWh gross (94.9kWh net)
 - 10 modules with 83.3kWh gross (78kWh net).
 
-This will give the Audi A6 e-tron a WLTP range of approximately 520-700km depending on the trim level for the biggest battery. (13.4 - 18 kWh/100km)
+This will give the Audi A6 e-tron a WLTP range of approximately 520-750km depending on the trim level for the biggest battery. (13.4 - 18 kWh/100km)
 
-The battery will have an 800-Volt architecture for high-performance charging up to 270KW for DC charging. 300km charging takes as little as 10 minutes.
+The battery will has an 800-Volt architecture for high-performance charging up to 270KW for DC charging. 300km charging takes as little as 10 minutes.
 
 ![Battery](https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/battery.png "Audi A6 e-tron battery with 12 modules and 100kWh gross")
+
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/battery.png">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/battery_mt.png" class="img-fluid" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
+    </a>
+     <figcaption><h4>Audi A6 e-tron drivetrain</h4></figcaption>
+</figure>
+
 
 ### Motor and performance
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain.jpgg">
+    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain.jpg">
         <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrains.jpg" class="img-fluid" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
     </a>
      <figcaption><h4>Audi A6 e-tron drivetrain</h4></figcaption>
@@ -70,17 +78,20 @@ The battery will have an 800-Volt architecture for high-performance charging up 
 
 The expectation is that the Audi A6 e-tron will come in different versions.
 
-- Rear- wheel drive Audi A6 e-tron / Audi A6 Avant e-tron with small battery 
-- Rear-wheel drive Audi A6 / Audi A6 Avant performance e-tron with large battery (the version with longest range)
+- Rear- wheel drive Audi A6 Sportback e-tron / Audi A6 Avant e-tron with small battery 
+- Rear-wheel drive Audi A6 Sportback e-tron performance / Audi A6 Avant performance e-tron with large battery (the version with longest range)
 - Audi A6 quattro / Audi A6 Avant e-tron quattro with large battery 
 - Audi S6 Avant e-tron with 517HP
 - Audi RS6 Avant e-tron with 640 HP
 
-The concept version has 469HP and 800 nm torque. 
-
 Audi will use different motor setups on the different variants.
 
-![Motors](https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/motors.jpg "Motors for Audi A6 e-tron")
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/motors.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/motors_mt.jpg" class="img-fluid" alt="Audi A6 e-tron concept" title="Audi A6 e-tron motors">
+    </a>
+     <figcaption><h4>Audi A6 e-tron motors</h4></figcaption>
+</figure>
 
 ### Suspension
 
