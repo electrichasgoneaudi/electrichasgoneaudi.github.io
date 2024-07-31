@@ -67,7 +67,11 @@ Et spesielt høydepunkt i den nye Audi A6 e-tron er utstyravhengig belysning av 
 
 Interiøret i Audi A6 e-tron er konsekvent tilpasset brukernes behov. Det tredimensjonale og høy-kontrast designet plasserer elementer bevisst i forgrunnen eller bakgrunnen, og skaper en romlig arkitektur som er skreddersydd til de reisende når det gjelder design og ergonomi. MMI panoramaskjermen, med sin buede design og OLED-teknologi, består av en 11,9-tommers Audi virtual cockpit og en 14,5-tommers MMI berøringsskjerm, og sammen med den 10,9-tommers MMI frontpassasjerskjermen, danner de en digital scene med visuelt klart design.
 
+{{< sitefiguresized thumb="models/a6-e-tron/technology/uiandoperations/mmi/mmi_1_st.jpg" width="3000" height="2249" title="MMI Panoramic Display" >}}
+
 Aktiv personvernsmodus tillater frontpassasjeren å nyte underholdningsinnhold mens man reiser, for eksempel å se på filmer eller strømme serier, uten å distrahere føreren. Avhengig av aktuell hastighet og seteopptakelse, blir lyset rettet (personvernsmodus på) eller diffust (innhold synlig for alle) via en intelligent styreenhet.
+
+{{< sitefiguresized thumb="models/a6-e-tron/technology/uiandoperations/mmi/mmi_3_st.jpg" width="3000" height="2249" title="MMI Panoramic Display" >}}
 
 Audi tar et betydelig skritt fremover i displayteknologi med den valgfrie andre generasjonens augmented reality head-up display (AR HuD), et annet sentralt element i den digitale scenen.
 

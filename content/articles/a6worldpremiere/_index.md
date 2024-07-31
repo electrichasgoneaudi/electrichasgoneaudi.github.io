@@ -144,14 +144,21 @@ ergonomics. The MMI panoramic display, with its curved design and OLED technolog
 11.9-inch Audi virtual cockpit and the 14.5-inch MMI touch display and, together with the 10.9-inch
 MMI front passenger display, forms a digital stage with visually clear design.
 
+{{< sitefiguresized thumb="models/a6-e-tron/technology/uiandoperations/mmi/mmi_1_st.jpg" width="3000" height="2249" title="MMI Panoramic Display" >}}
+
 Active Privacy Mode allows the front seat passenger to enjoy entertainment content while traveling,
 such as watching movies or streaming series, without distracting the driver. Depending on the current
 speed, and seat occupancy, the light is directed (privacy mode on) or diffused (content visible to all)
 via an intelligent control unit.
 
+{{< sitefiguresized thumb="models/a6-e-tron/technology/uiandoperations/mmi/mmi_3_st.jpg" width="3000" height="2249" title="MMI Panoramic Display" >}}
+
+
 Audi is taking a significant step forward in display technology with the optional
 second-generation augmented reality head-up display (AR HuD), another central element of the digital
 stage.
+
+
 
 The display reflects a large, tilted image plane across the windshield towards the driver. It shows
 relevant information such as speed, traffic signs, assistance, and navigation symbols.
@@ -167,8 +174,9 @@ clearly visible in the angle of the A-pillar and the door sill.
 A digital wrap is also created here, which extends from mirror to mirror across the entire digital
 instrument panel and is connected via the dynamic interaction light at the base of the windshield.
 Essential functions such as mirror adjustment, lighting, and locking systems are integrated compactly
-into the central control panel in the driver&#39;s door. An optional four-zone automatic air conditioning
-system and the air quality package with aroma fragrance and ionizer complete the elegant ambiance.
+into the central control panel in the driver&#39;s door. 
+
+An optional four-zone automatic air conditioning system and the air quality package with aroma fragrance and ionizer complete the elegant ambiance.
 
 ## A smart panoramic glass roof with switchable transparency
 
