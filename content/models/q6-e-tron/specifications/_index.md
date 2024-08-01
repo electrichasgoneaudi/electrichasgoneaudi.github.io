@@ -1757,7 +1757,7 @@ This model is available with a seat configuration with five seats.
 				Android Auto support
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1765,7 +1765,7 @@ This model is available with a seat configuration with five seats.
 				Apple Carplay support
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -3628,7 +3628,7 @@ This model is available with a seat configuration with five seats.
 				Android Auto support
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -3636,7 +3636,7 @@ This model is available with a seat configuration with five seats.
 				Apple Carplay support
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -5498,7 +5498,7 @@ This model is available with a seat configuration with five seats.
 				Android Auto support
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -5506,7 +5506,7 @@ This model is available with a seat configuration with five seats.
 				Apple Carplay support
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -7119,7 +7119,7 @@ This model is available with a seat configuration with five seats.
 				Android Auto support
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -7127,7 +7127,7 @@ This model is available with a seat configuration with five seats.
 				Apple Carplay support
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>

@@ -487,7 +487,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Trunk capacity
 			</td>
 			<td>
-				514 liter (18 cu-ft)
+				502 liter (18 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -495,7 +495,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Trunk capacity with all rear seats folded
 			</td>
 			<td>
-				1517 liter (54 cu-ft)
+				1422 liter (50 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -511,7 +511,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Max trailer weight braked
 			</td>
 			<td>
-				2400 kg (5291 lbs)
+				2100 kg (4630 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -1476,7 +1476,7 @@ This model is available with a seat configuration with five seats.
 				Android Auto support
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1484,7 +1484,7 @@ This model is available with a seat configuration with five seats.
 				Apple Carplay support
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -3081,7 +3081,7 @@ This model is available with a seat configuration with five seats.
 				Android Auto support
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -3089,7 +3089,7 @@ This model is available with a seat configuration with five seats.
 				Apple Carplay support
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -4585,7 +4585,7 @@ This model is available with a seat configuration with five seats.
 				Android Auto support
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -4593,7 +4593,7 @@ This model is available with a seat configuration with five seats.
 				Apple Carplay support
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -6089,7 +6089,7 @@ This model is available with a seat configuration with five seats.
 				Android Auto support
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -6097,7 +6097,7 @@ This model is available with a seat configuration with five seats.
 				Apple Carplay support
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
