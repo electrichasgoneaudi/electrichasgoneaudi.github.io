@@ -86,7 +86,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				WLTP-område for grunnleggende trim
+				WLTP-rekkevidde for grunnmodell
 			</td>
 			<td>
 				720 km
@@ -94,7 +94,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk
+				WLTP-forbruk grunnmodell
 			</td>
 			<td>
 				13,2 kWh/100km
@@ -102,7 +102,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk med ladetap
+				WLTP-forbruk grunnmodell med ladetap
 			</td>
 			<td>
 				14,8 kWh/100km
@@ -516,7 +516,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Maksimum vekt tilhenger med bremse
+				Maksvekt tilhenger m/brems
 			</td>
 			<td>
 				750 kg
@@ -553,7 +553,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptiv understell
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -674,7 +674,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptiv understell
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -1030,7 +1030,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -1054,7 +1054,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av ryggstøtten
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -1094,7 +1094,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Seteventilasjon
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -1457,7 +1457,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Voice control
+				Stemmestyring
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -1647,10 +1647,26 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
+				Maks effekt med boost
+			</td>
+			<td>
+				280 Kw
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Dreiemoment
 			</td>
 			<td>
 				565 nm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Dreiemoment med boost
+			</td>
+			<td>
+				565 Nm
 			</td>
 		</tr>
 		<tr>
@@ -1664,6 +1680,14 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		<tr>
 			<td>
 				0-100 km/t (0-62 mph)
+			</td>
+			<td>
+				5,4 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100 km/t (0-62 mph) boost
 			</td>
 			<td>
 				5,4 s
@@ -1691,7 +1715,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				WLTP-område for grunnleggende trim
+				WLTP-rekkevidde for grunnmodell
 			</td>
 			<td>
 				756 km
@@ -1699,7 +1723,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk
+				WLTP-forbruk grunnmodell
 			</td>
 			<td>
 				12,6 kWh/100km
@@ -1707,7 +1731,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk med ladetap
+				WLTP-forbruk grunnmodell med ladetap
 			</td>
 			<td>
 				14,0 kWh/100km
@@ -2092,7 +2116,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse bagasjerom
 			</td>
 			<td>
-				514 liter
+				502 liter
 			</td>
 		</tr>
 		<tr>
@@ -2100,7 +2124,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse med alle bakseter lagt ned
 			</td>
 			<td>
-				1517 liter
+				1330 liter
 			</td>
 		</tr>
 		<tr>
@@ -2121,7 +2145,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Maksimum vekt tilhenger med bremse
+				Maksvekt tilhenger m/brems
 			</td>
 			<td>
 				750 kg
@@ -2158,7 +2182,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptiv understell
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -2279,7 +2303,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptiv understell
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -2635,7 +2659,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -2659,7 +2683,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av ryggstøtten
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -2699,7 +2723,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Seteventilasjon
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -3062,7 +3086,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Voice control
+				Stemmestyring
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -3320,7 +3344,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				WLTP-område for grunnleggende trim
+				WLTP-rekkevidde for grunnmodell
 			</td>
 			<td>
 				647 km
@@ -3328,7 +3352,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk
+				WLTP-forbruk grunnmodell
 			</td>
 			<td>
 				14,7 kWh/100km
@@ -3336,7 +3360,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk med ladetap
+				WLTP-forbruk grunnmodell med ladetap
 			</td>
 			<td>
 				16,4 kWh/100km
@@ -3750,7 +3774,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Maksimum vekt tilhenger med bremse
+				Maksvekt tilhenger m/brems
 			</td>
 			<td>
 				750 kg
@@ -3783,7 +3807,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptiv understell
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -4139,7 +4163,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -4163,7 +4187,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av ryggstøtten
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -4203,7 +4227,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Seteventilasjon
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -4566,7 +4590,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Voice control
+				Stemmestyring
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -4824,7 +4848,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				WLTP-område for grunnleggende trim
+				WLTP-rekkevidde for grunnmodell
 			</td>
 			<td>
 				675 km
@@ -4832,7 +4856,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk
+				WLTP-forbruk grunnmodell
 			</td>
 			<td>
 				14,1 kWh/100km
@@ -4840,7 +4864,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk med ladetap
+				WLTP-forbruk grunnmodell med ladetap
 			</td>
 			<td>
 				15,7 kWh/100km
@@ -5136,7 +5160,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Drag-koeffisient
 			</td>
 			<td>
-				0,21
+				0,24
 			</td>
 		</tr>
 		<tr>
@@ -5144,7 +5168,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Frontalområde
 			</td>
 			<td>
-				2,73
+				2,46
 			</td>
 		</tr>
 		<tr>
@@ -5152,7 +5176,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Overhengsvinkel foran
 			</td>
 			<td>
-				16,3
+				13,5
 			</td>
 		</tr>
 		<tr>
@@ -5160,7 +5184,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Overhengsvinkel bak
 			</td>
 			<td>
-				23,7
+				17,2
 			</td>
 		</tr>
 		<tr>
@@ -5225,7 +5249,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse bagasjerom
 			</td>
 			<td>
-				514 liter
+				502 liter
 			</td>
 		</tr>
 		<tr>
@@ -5233,7 +5257,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse med alle bakseter lagt ned
 			</td>
 			<td>
-				1517 liter
+				1330 liter
 			</td>
 		</tr>
 		<tr>
@@ -5254,7 +5278,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Maksimum vekt tilhenger med bremse
+				Maksvekt tilhenger m/brems
 			</td>
 			<td>
 				750 kg
@@ -5287,7 +5311,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptiv understell
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -5643,7 +5667,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -5667,7 +5691,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av ryggstøtten
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -5707,7 +5731,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Seteventilasjon
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -6070,7 +6094,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Voice control
+				Stemmestyring
 			</td>
 			<td>
 				Ja, standardutstyr

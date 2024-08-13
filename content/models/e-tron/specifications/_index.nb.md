@@ -86,7 +86,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				WLTP-område for grunnleggende trim
+				WLTP-rekkevidde for grunnmodell
 			</td>
 			<td>
 				341 km
@@ -94,7 +94,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk
+				WLTP-forbruk grunnmodell
 			</td>
 			<td>
 				18,8 kWh/100km
@@ -102,7 +102,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk med ladetap
+				WLTP-forbruk grunnmodell med ladetap
 			</td>
 			<td>
 				21,7 kWh/100km
@@ -516,7 +516,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Maksimum vekt tilhenger med bremse
+				Maksvekt tilhenger m/brems
 			</td>
 			<td>
 				750 kg
@@ -527,7 +527,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maksvekt på tilhengerkobling
 			</td>
 			<td>
-				100 kg
+				80 kg
 			</td>
 		</tr>
 	</tbody>
@@ -553,7 +553,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptiv understell
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -674,7 +674,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptiv understell
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -1940,7 +1940,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Voice control
+				Stemmestyring
 			</td>
 			<td>
 			</td>
@@ -2172,7 +2172,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				WLTP-område for grunnleggende trim
+				WLTP-rekkevidde for grunnmodell
 			</td>
 			<td>
 				351 km
@@ -2180,7 +2180,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk
+				WLTP-forbruk grunnmodell
 			</td>
 			<td>
 				18,2 kWh/100km
@@ -2188,7 +2188,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk med ladetap
+				WLTP-forbruk grunnmodell med ladetap
 			</td>
 			<td>
 				21,6 kWh/100km
@@ -2602,7 +2602,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Maksimum vekt tilhenger med bremse
+				Maksvekt tilhenger m/brems
 			</td>
 			<td>
 				750 kg
@@ -2613,7 +2613,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maksvekt på tilhengerkobling
 			</td>
 			<td>
-				100 kg
+				80 kg
 			</td>
 		</tr>
 	</tbody>
@@ -2639,7 +2639,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptiv understell
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -2760,7 +2760,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptiv understell
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -4026,7 +4026,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Voice control
+				Stemmestyring
 			</td>
 			<td>
 			</td>
@@ -4282,7 +4282,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				WLTP-område for grunnleggende trim
+				WLTP-rekkevidde for grunnmodell
 			</td>
 			<td>
 				441 km
@@ -4290,7 +4290,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk
+				WLTP-forbruk grunnmodell
 			</td>
 			<td>
 				19,5 kWh/100km
@@ -4298,7 +4298,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk med ladetap
+				WLTP-forbruk grunnmodell med ladetap
 			</td>
 			<td>
 				22,2 kWh/100km
@@ -4712,7 +4712,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Maksimum vekt tilhenger med bremse
+				Maksvekt tilhenger m/brems
 			</td>
 			<td>
 				750 kg
@@ -4723,7 +4723,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maksvekt på tilhengerkobling
 			</td>
 			<td>
-				100 kg
+				80 kg
 			</td>
 		</tr>
 	</tbody>
@@ -4749,7 +4749,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptiv understell
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -4870,7 +4870,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptiv understell
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -6136,7 +6136,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Voice control
+				Stemmestyring
 			</td>
 			<td>
 			</td>
@@ -6392,7 +6392,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				WLTP-område for grunnleggende trim
+				WLTP-rekkevidde for grunnmodell
 			</td>
 			<td>
 				452 km
@@ -6400,7 +6400,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk
+				WLTP-forbruk grunnmodell
 			</td>
 			<td>
 				19,0 kWh/100km
@@ -6408,7 +6408,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk med ladetap
+				WLTP-forbruk grunnmodell med ladetap
 			</td>
 			<td>
 				21,6 kWh/100km
@@ -6822,7 +6822,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Maksimum vekt tilhenger med bremse
+				Maksvekt tilhenger m/brems
 			</td>
 			<td>
 				750 kg
@@ -6833,7 +6833,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maksvekt på tilhengerkobling
 			</td>
 			<td>
-				100 kg
+				80 kg
 			</td>
 		</tr>
 	</tbody>
@@ -6859,7 +6859,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptiv understell
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -6980,7 +6980,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptiv understell
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -8246,7 +8246,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Voice control
+				Stemmestyring
 			</td>
 			<td>
 			</td>
@@ -8502,7 +8502,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				WLTP-område for grunnleggende trim
+				WLTP-rekkevidde for grunnmodell
 			</td>
 			<td>
 				374 km
@@ -8510,7 +8510,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk
+				WLTP-forbruk grunnmodell
 			</td>
 			<td>
 				23,0 kWh/100km
@@ -8518,7 +8518,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk med ladetap
+				WLTP-forbruk grunnmodell med ladetap
 			</td>
 			<td>
 				26,1 kWh/100km
@@ -8932,7 +8932,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Maksimum vekt tilhenger med bremse
+				Maksvekt tilhenger m/brems
 			</td>
 			<td>
 				750 kg
@@ -8943,7 +8943,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maksvekt på tilhengerkobling
 			</td>
 			<td>
-				100 kg
+				80 kg
 			</td>
 		</tr>
 	</tbody>
@@ -8969,7 +8969,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptiv understell
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -9090,7 +9090,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptiv understell
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -10034,7 +10034,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Voice control
+				Stemmestyring
 			</td>
 			<td>
 			</td>
@@ -10290,7 +10290,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				WLTP-område for grunnleggende trim
+				WLTP-rekkevidde for grunnmodell
 			</td>
 			<td>
 				379 km
@@ -10298,7 +10298,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk
+				WLTP-forbruk grunnmodell
 			</td>
 			<td>
 				22,7 kWh/100km
@@ -10306,7 +10306,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk med ladetap
+				WLTP-forbruk grunnmodell med ladetap
 			</td>
 			<td>
 				25,7 kWh/100km
@@ -10720,7 +10720,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Maksimum vekt tilhenger med bremse
+				Maksvekt tilhenger m/brems
 			</td>
 			<td>
 				750 kg
@@ -10731,7 +10731,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maksvekt på tilhengerkobling
 			</td>
 			<td>
-				100 kg
+				80 kg
 			</td>
 		</tr>
 	</tbody>
@@ -10757,7 +10757,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptiv understell
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -10878,7 +10878,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptiv understell
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -11822,7 +11822,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Voice control
+				Stemmestyring
 			</td>
 			<td>
 			</td>

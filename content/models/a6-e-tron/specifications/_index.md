@@ -1030,7 +1030,7 @@ This model is available with a seat configuration with five seats.
 				Height adjustable headrest
 			</td>
 			<td>
-				Not Available
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -1054,7 +1054,7 @@ This model is available with a seat configuration with five seats.
 				Backrest side bolster adjustment
 			</td>
 			<td>
-				Not Available
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -1094,7 +1094,7 @@ This model is available with a seat configuration with five seats.
 				Seat ventilation
 			</td>
 			<td>
-				Not Available
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -1647,10 +1647,26 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
+				Peak power with  boost
+			</td>
+			<td>
+				280 Kw
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Electrical torque output
 			</td>
 			<td>
 				565 nm (417 lb-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electrical torque output boost
+			</td>
+			<td>
+				565 Nm
 			</td>
 		</tr>
 		<tr>
@@ -1664,6 +1680,14 @@ This model is available with a seat configuration with five seats.
 		<tr>
 			<td>
 				0-100km/h (0-62 mph)
+			</td>
+			<td>
+				5,4 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100km/h (0-62 mph) boost
 			</td>
 			<td>
 				5,4 s
@@ -2092,7 +2116,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Trunk capacity
 			</td>
 			<td>
-				514 liter (18 cu-ft)
+				502 liter (18 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -2100,7 +2124,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Trunk capacity with all rear seats folded
 			</td>
 			<td>
-				1517 liter (54 cu-ft)
+				1330 liter (47 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -2635,7 +2659,7 @@ This model is available with a seat configuration with five seats.
 				Height adjustable headrest
 			</td>
 			<td>
-				Not Available
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -2659,7 +2683,7 @@ This model is available with a seat configuration with five seats.
 				Backrest side bolster adjustment
 			</td>
 			<td>
-				Not Available
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -2699,7 +2723,7 @@ This model is available with a seat configuration with five seats.
 				Seat ventilation
 			</td>
 			<td>
-				Not Available
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -4139,7 +4163,7 @@ This model is available with a seat configuration with five seats.
 				Height adjustable headrest
 			</td>
 			<td>
-				Not Available
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -4163,7 +4187,7 @@ This model is available with a seat configuration with five seats.
 				Backrest side bolster adjustment
 			</td>
 			<td>
-				Not Available
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -4203,7 +4227,7 @@ This model is available with a seat configuration with five seats.
 				Seat ventilation
 			</td>
 			<td>
-				Not Available
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -5136,7 +5160,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0,21
+				0,24
 			</td>
 		</tr>
 		<tr>
@@ -5144,7 +5168,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Frontal area
 			</td>
 			<td>
-				2,73
+				2,46
 			</td>
 		</tr>
 		<tr>
@@ -5152,7 +5176,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Overhang angle front
 			</td>
 			<td>
-				16,3
+				13,5
 			</td>
 		</tr>
 		<tr>
@@ -5160,7 +5184,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Overhang angle rear
 			</td>
 			<td>
-				23,7
+				17,2
 			</td>
 		</tr>
 		<tr>
@@ -5225,7 +5249,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Trunk capacity
 			</td>
 			<td>
-				514 liter (18 cu-ft)
+				502 liter (18 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -5233,7 +5257,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Trunk capacity with all rear seats folded
 			</td>
 			<td>
-				1517 liter (54 cu-ft)
+				1330 liter (47 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -5643,7 +5667,7 @@ This model is available with a seat configuration with five seats.
 				Height adjustable headrest
 			</td>
 			<td>
-				Not Available
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -5667,7 +5691,7 @@ This model is available with a seat configuration with five seats.
 				Backrest side bolster adjustment
 			</td>
 			<td>
-				Not Available
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -5707,7 +5731,7 @@ This model is available with a seat configuration with five seats.
 				Seat ventilation
 			</td>
 			<td>
-				Not Available
+				Standard feature
 			</td>
 		</tr>
 		<tr>

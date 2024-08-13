@@ -102,7 +102,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				WLTP-område for grunnleggende trim
+				WLTP-rekkevidde for grunnmodell
 			</td>
 			<td>
 				598 km
@@ -110,7 +110,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk
+				WLTP-forbruk grunnmodell
 			</td>
 			<td>
 				16,2 kWh/100km
@@ -118,7 +118,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk med ladetap
+				WLTP-forbruk grunnmodell med ladetap
 			</td>
 			<td>
 				18,7 kWh/100km
@@ -553,7 +553,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptiv understell
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -674,7 +674,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptiv understell
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -1510,7 +1510,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Voice control
+				Stemmestyring
 			</td>
 			<td>
 			</td>
@@ -1758,7 +1758,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				WLTP-område for grunnleggende trim
+				WLTP-rekkevidde for grunnmodell
 			</td>
 			<td>
 				598 km
@@ -1766,7 +1766,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk
+				WLTP-forbruk grunnmodell
 			</td>
 			<td>
 				16,2 kWh/100km
@@ -1774,7 +1774,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk med ladetap
+				WLTP-forbruk grunnmodell med ladetap
 			</td>
 			<td>
 				18,7 kWh/100km
@@ -2209,7 +2209,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptiv understell
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -2330,7 +2330,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptiv understell
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -3166,7 +3166,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Voice control
+				Stemmestyring
 			</td>
 			<td>
 			</td>
@@ -3398,7 +3398,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				WLTP-område for grunnleggende trim
+				WLTP-rekkevidde for grunnmodell
 			</td>
 			<td>
 				609 km
@@ -3406,7 +3406,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk
+				WLTP-forbruk grunnmodell
 			</td>
 			<td>
 				15,9 kWh/100km
@@ -3414,7 +3414,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk med ladetap
+				WLTP-forbruk grunnmodell med ladetap
 			</td>
 			<td>
 				17,2 kWh/100km
@@ -3849,7 +3849,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptiv understell
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -3970,7 +3970,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptiv understell
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -4806,7 +4806,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Voice control
+				Stemmestyring
 			</td>
 			<td>
 			</td>
@@ -5062,7 +5062,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				WLTP-område for grunnleggende trim
+				WLTP-rekkevidde for grunnmodell
 			</td>
 			<td>
 				488 km
@@ -5070,7 +5070,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk
+				WLTP-forbruk grunnmodell
 			</td>
 			<td>
 				17,2 kWh/100km
@@ -5078,7 +5078,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk med ladetap
+				WLTP-forbruk grunnmodell med ladetap
 			</td>
 			<td>
 				17,2 kWh/100km
@@ -5513,7 +5513,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptiv understell
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -5634,7 +5634,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptiv understell
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -6470,7 +6470,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Voice control
+				Stemmestyring
 			</td>
 			<td>
 			</td>
@@ -6726,7 +6726,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				WLTP-område for grunnleggende trim
+				WLTP-rekkevidde for grunnmodell
 			</td>
 			<td>
 				495 km
@@ -6734,7 +6734,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk
+				WLTP-forbruk grunnmodell
 			</td>
 			<td>
 				16,9 kWh/100km
@@ -6742,7 +6742,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-forbruk med ladetap
+				WLTP-forbruk grunnmodell med ladetap
 			</td>
 			<td>
 				19,8 kWh/100km
@@ -7177,7 +7177,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptiv understell
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -7298,7 +7298,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv fjæring
+				Adaptiv understell
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -8134,7 +8134,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Voice control
+				Stemmestyring
 			</td>
 			<td>
 			</td>

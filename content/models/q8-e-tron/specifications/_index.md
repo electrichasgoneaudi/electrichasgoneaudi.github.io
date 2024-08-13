@@ -527,7 +527,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Maximum tow ball weight
 			</td>
 			<td>
-				100 kg (220 lbs)
+				80 kg (176 lbs)
 			</td>
 		</tr>
 	</tbody>
@@ -2597,7 +2597,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Maximum tow ball weight
 			</td>
 			<td>
-				100 kg (220 lbs)
+				80 kg (176 lbs)
 			</td>
 		</tr>
 	</tbody>
@@ -4723,7 +4723,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Maximum tow ball weight
 			</td>
 			<td>
-				100 kg (220 lbs)
+				80 kg (176 lbs)
 			</td>
 		</tr>
 	</tbody>
@@ -6849,7 +6849,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Maximum tow ball weight
 			</td>
 			<td>
-				100 kg (220 lbs)
+				80 kg (176 lbs)
 			</td>
 		</tr>
 	</tbody>
@@ -8935,7 +8935,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Maximum tow ball weight
 			</td>
 			<td>
-				100 kg (220 lbs)
+				80 kg (176 lbs)
 			</td>
 		</tr>
 	</tbody>
@@ -11045,7 +11045,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Maximum tow ball weight
 			</td>
 			<td>
-				100 kg (220 lbs)
+				80 kg (176 lbs)
 			</td>
 		</tr>
 	</tbody>
@@ -12833,7 +12833,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Maximum tow ball weight
 			</td>
 			<td>
-				100 kg (220 lbs)
+				80 kg (176 lbs)
 			</td>
 		</tr>
 	</tbody>
