@@ -1,15 +1,13 @@
 ---
-title: Audi Q6 e-tron seats and interior materials
+title: Audi A6 e-tron seats and interior materials
 linktitle: Seats & Material
-description: Audi Q6 e-tron have serveral seats options to choose from
+description: Audi A6 e-tron have serveral seats options to choose from
 weight: 1
-sectiontabs: "/models/q6-e-tron/interior/"
+sectiontabs: "/models/a6-e-tron/interior/"
 ---
 <!-- markdownlint-disable MD033 -->
 
 Each seat type have different seat materials in different colors to choose from. Making it possible to configure the interior just as you like it.
-
-{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/seatsdesigns_1_st.jpg" width="3000" height="2249" title="Seats design Audi Q6 - Standard, Sport and Sport plus" >}}
 
 ## Seat functionality
 

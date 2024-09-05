@@ -1,16 +1,14 @@
 ---
 title: "Audi Q6 e-tron seter og interiørmaterialer"
 linktitle: "Seter og materialer"
-description: "Audi Q6 e-tron har flere setealternativer å velge mellom"
+description: "Audi A6 e-tron har flere setealternativer å velge mellom"
 weight: 1
-sectiontabs: "/nb/models/q6-e-tron/interior/"
+sectiontabs: "/nb/models/a6-e-tron/interior/"
 ---
 
 
 <!-- markdownlint-disable MD033 -->
 Hver setetype har forskjellige setematerialer i forskjellige farger å velge mellom. Gjør det mulig å konfigurere interiøret akkurat slik du vil ha det.
-
-{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/seatsdesigns_1_st.jpg" width="3000" height="2249" title="Seter design Audi Q6 - Standard, Sport og Sport plus" >}}
 
 ## Setefunksjonalitet
 
