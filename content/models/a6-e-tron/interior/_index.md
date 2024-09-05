@@ -28,7 +28,7 @@ The interior offers plentiful storage space and various compartments. The center
 	<p>
 		Audi A6 e-tron offers three different seat options
 	</p>
-	<a href="seats/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron seats</a>
+	<a href="seats/" class="btn btn-outline-primary" role="button">Learn all about Audi A6 e-tron seats</a>
 </div>
 
 
