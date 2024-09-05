@@ -120,7 +120,7 @@ The Sport Seats Plus is equipped with a massage function. You can select differe
         <td>Front seat ventilation</td>
         <td>N/A</td>
         <td>Option</td>
-        <td>Option</td>
+        <td>N/A</td>
     </tr>
     <tr>
         <td>Front seat massage</td>

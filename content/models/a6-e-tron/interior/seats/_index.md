@@ -1,42 +1,41 @@
 ---
-title: "Audi Q6 e-tron seter og interiørmaterialer"
-linktitle: "Seter og materialer"
-description: "Audi Q6 e-tron har flere setealternativer å velge mellom"
+title: Audi Q6 e-tron seats and interior materials
+linktitle: Seats & Material
+description: Audi Q6 e-tron have serveral seats options to choose from
 weight: 1
-sectiontabs: "/nb/models/q6-e-tron/interior/"
+sectiontabs: "/models/q6-e-tron/interior/"
 ---
-
-
 <!-- markdownlint-disable MD033 -->
-Hver setetype har forskjellige setematerialer i forskjellige farger å velge mellom. Gjør det mulig å konfigurere interiøret akkurat slik du vil ha det.
 
-{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/seatsdesigns_1_st.jpg" width="3000" height="2249" title="Seter design Audi Q6 - Standard, Sport og Sport plus" >}}
+Each seat type have different seat materials in different colors to choose from. Making it possible to configure the interior just as you like it.
 
-## Setefunksjonalitet
+{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/seatsdesigns_1_st.jpg" width="3000" height="2249" title="Seats design Audi Q6 - Standard, Sport and Sport plus" >}}
 
-### 4-veis korsryggstøtte
+## Seat functionality
 
-4-veis korsryggstøtte er standard på Sport- og Sport Plus-seter
+### 4-way lumbar support
 
-### Elektrisk justering
+4-way lumbar support is standard on Sport and Sport Plus seats
 
-Du kan legge til elektrisk kontroll til seter for høyde og engel for sportsseter. Elektrisk justering er standard på Sport Seats Plus.
+### Electric adjustment
 
-### Setevarme
+You can add electric control to seats for height and angel for Sports seats. Electric adjustment is standard on Sport Seats Plus.
 
-For- og baksetevarme er en del av vinterpakken.
+### Seat Heating
 
-### Minne
+Front and rear seat heating is part of the winter package.
 
-Alle seter med elektrisk justering har minne for to førersetestillinger. Det elektrisk kontrollerbare rattet og speilene bruker også minne.
+### Memory
 
-### Ventilerte seter
+All seats with electric adjustment have memory for two driver seating positions. The electric-controllable steering wheel and mirrors also use memory.
 
-Sportssetene kan utstyres med ventilasjon for varme sommerdager. Det krever perforert skinn.
+### Ventilated seats
 
-### Massasje
+The Sport seats can be equipped with ventilation for hot summer days. It requires perforated leather. 
 
-Sport Seats Plus er utstyrt med en massasjefunksjon. Du kan velge forskjellige massasjeprogrammer i MMI.
+### Massage
+
+The Sport Seats Plus is equipped with a massage function. You can select different massage programs in MMI.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -54,12 +53,12 @@ Sport Seats Plus er utstyrt med en massasjefunksjon. Du kan velge forskjellige m
     <tr>
         <td>Adjustment of headrest height</td>
         <td>Standard</td>
-        <td>N/A</td>
-        <td>N/A</td>
+        <td>Standard</td>
+        <td>Standard</td>
     </tr>
    <tr>
         <td>Adjustment of headrest distance</td>
-        <td>N/A</td>
+        <td>Optional</td>
         <td>N/A</td>
         <td>N/A</td>
     </tr>
@@ -121,7 +120,7 @@ Sport Seats Plus er utstyrt med en massasjefunksjon. Du kan velge forskjellige m
         <td>Front seat ventilation</td>
         <td>N/A</td>
         <td>Option</td>
-        <td>N/A</td>
+        <td>Option</td>
     </tr>
     <tr>
         <td>Front seat massage</td>

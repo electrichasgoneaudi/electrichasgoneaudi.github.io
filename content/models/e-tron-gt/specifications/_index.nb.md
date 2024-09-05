@@ -813,7 +813,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setedybdejustering
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -842,26 +842,10 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av høyde, hvile og vinkel
+				Minne
 			</td>
 			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne førersete
-			</td>
-			<td>
-				Valgfri funksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne passasjersete
-			</td>
-			<td>
-				Ikke tilgjengelig
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -925,7 +909,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -974,7 +958,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setedybdejustering
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -1003,26 +987,10 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av høyde, hvile og vinkel
+				Minne
 			</td>
 			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne førersete
-			</td>
-			<td>
-				Valgfri funksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne passasjersete
-			</td>
-			<td>
-				Ikke tilgjengelig
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -1086,7 +1054,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -1135,7 +1103,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setedybdejustering
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -1164,23 +1132,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av høyde, hvile og vinkel
-			</td>
-			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne førersete
-			</td>
-			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne passasjersete
+				Minne
 			</td>
 			<td>
 				Standardfunksjon
@@ -1247,7 +1199,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -2469,7 +2421,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setedybdejustering
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -2498,26 +2450,10 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av høyde, hvile og vinkel
+				Minne
 			</td>
 			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne førersete
-			</td>
-			<td>
-				Valgfri funksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne passasjersete
-			</td>
-			<td>
-				Ikke tilgjengelig
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -2581,7 +2517,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -2630,7 +2566,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setedybdejustering
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -2659,26 +2595,10 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av høyde, hvile og vinkel
+				Minne
 			</td>
 			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne førersete
-			</td>
-			<td>
-				Valgfri funksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne passasjersete
-			</td>
-			<td>
-				Ikke tilgjengelig
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -2742,7 +2662,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -2791,7 +2711,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setedybdejustering
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -2820,23 +2740,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av høyde, hvile og vinkel
-			</td>
-			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne førersete
-			</td>
-			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne passasjersete
+				Minne
 			</td>
 			<td>
 				Standardfunksjon
@@ -2903,7 +2807,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -4109,7 +4013,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setedybdejustering
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -4138,26 +4042,10 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av høyde, hvile og vinkel
+				Minne
 			</td>
 			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne førersete
-			</td>
-			<td>
-				Valgfri funksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne passasjersete
-			</td>
-			<td>
-				Ikke tilgjengelig
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -4221,7 +4109,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -4270,7 +4158,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setedybdejustering
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -4299,26 +4187,10 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av høyde, hvile og vinkel
+				Minne
 			</td>
 			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne førersete
-			</td>
-			<td>
-				Valgfri funksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne passasjersete
-			</td>
-			<td>
-				Ikke tilgjengelig
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -4382,7 +4254,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -4431,7 +4303,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setedybdejustering
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -4460,23 +4332,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av høyde, hvile og vinkel
-			</td>
-			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne førersete
-			</td>
-			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne passasjersete
+				Minne
 			</td>
 			<td>
 				Standardfunksjon
@@ -4543,7 +4399,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -5773,7 +5629,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setedybdejustering
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -5802,26 +5658,10 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av høyde, hvile og vinkel
+				Minne
 			</td>
 			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne førersete
-			</td>
-			<td>
-				Valgfri funksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne passasjersete
-			</td>
-			<td>
-				Ikke tilgjengelig
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -5885,7 +5725,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -5934,7 +5774,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setedybdejustering
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -5963,26 +5803,10 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av høyde, hvile og vinkel
+				Minne
 			</td>
 			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne førersete
-			</td>
-			<td>
-				Valgfri funksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne passasjersete
-			</td>
-			<td>
-				Ikke tilgjengelig
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -6046,7 +5870,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -6095,7 +5919,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setedybdejustering
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -6124,23 +5948,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av høyde, hvile og vinkel
-			</td>
-			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne førersete
-			</td>
-			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne passasjersete
+				Minne
 			</td>
 			<td>
 				Standardfunksjon
@@ -6207,7 +6015,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -7437,7 +7245,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setedybdejustering
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -7466,26 +7274,10 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av høyde, hvile og vinkel
+				Minne
 			</td>
 			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne førersete
-			</td>
-			<td>
-				Valgfri funksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne passasjersete
-			</td>
-			<td>
-				Ikke tilgjengelig
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -7549,7 +7341,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -7598,7 +7390,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setedybdejustering
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -7627,26 +7419,10 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av høyde, hvile og vinkel
+				Minne
 			</td>
 			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne førersete
-			</td>
-			<td>
-				Valgfri funksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne passasjersete
-			</td>
-			<td>
-				Ikke tilgjengelig
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -7710,7 +7486,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -7759,7 +7535,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setedybdejustering
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -7788,23 +7564,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av høyde, hvile og vinkel
-			</td>
-			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne førersete
-			</td>
-			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne passasjersete
+				Minne
 			</td>
 			<td>
 				Standardfunksjon
@@ -7871,7 +7631,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>

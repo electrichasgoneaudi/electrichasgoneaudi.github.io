@@ -44,7 +44,7 @@ Sport Seats Plus er utstyrt med en massasjefunksjon. Du kan velge forskjellige m
         <tr>
         <th>
         </th>
-        <th>Standard
+        <th>Normal
         </th>
         <th>Sport
         </th>
@@ -77,14 +77,14 @@ Sport Seats Plus er utstyrt med en massasjefunksjon. Du kan velge forskjellige m
     </tr>
     <tr>
         <td>Power 4-way lumbar adjustment</td>
-        <td>NA</td>
+        <td>N/A</td>
         <td>Standard</td>
         <td>Standard</td>
     </tr>
     <tr>
         <td>Power seat adjustment driver</td>
         <td>N/A</td>
-        <td>Standard</td>
+        <td>Option</td>
         <td>Standard</td>
     </tr>
         <tr>
@@ -105,28 +105,16 @@ Sport Seats Plus er utstyrt med en massasjefunksjon. Du kan velge forskjellige m
         <td>N/A</td>
         <td>N/A</td>
     </tr>
-        <tr>
-        <td>Driver seat easy access</td>
-        <td>N/A</td>
-        <td>Standard</td>
-        <td>Standard</td>
-    </tr>
-     <tr>
-        <td>Passenger seat easy access</td>
-        <td>N/A</td>
-        <td>N/A</td>
-        <td>N/A</td>
-    </tr>
-    <tr>
+         <tr>
         <td>Front seat ventilation</td>
         <td>N/A</td>
         <td>Option</td>
-        <td>N/A</td>
+        <td>Option</td>
     </tr>
     <tr>
         <td>Front seat massage</td>
         <td>N/A</td>
-        <td>N/A</td>
+        <td>Option</td>
         <td>Option</td>
     </tr>
     <tr>
@@ -135,7 +123,7 @@ Sport Seats Plus er utstyrt med en massasjefunksjon. Du kan velge forskjellige m
         <td>Standard</td>
         <td>Standard</td>
     </tr>
-    <tr>
+        <tr>
         <td>Massage front seats</td>
         <td>N/A</td>
         <td>N/A</td>
@@ -147,7 +135,7 @@ Sport Seats Plus er utstyrt med en massasjefunksjon. Du kan velge forskjellige m
         <td>Option</td>
         <td>N/A</td>
     </tr>
-     <tr>
+        <tr>
         <td>Rear seat split</td>
         <td>40:20:40</td>
         <td>40:20:40</td>

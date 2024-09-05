@@ -797,7 +797,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -826,26 +826,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
+				Memory
 			</td>
 			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
-			</td>
-			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -958,7 +942,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -987,26 +971,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
+				Memory
 			</td>
 			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
-			</td>
-			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -1070,7 +1038,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -1119,7 +1087,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -1148,26 +1116,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
+				Memory
 			</td>
 			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
-			</td>
-			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -1231,7 +1183,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -1280,7 +1232,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -1309,26 +1261,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
+				Memory
 			</td>
 			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
-			</td>
-			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -1392,7 +1328,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -1441,7 +1377,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -1470,23 +1406,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
-			</td>
-			<td>
-				Standard feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Standard feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
+				Memory
 			</td>
 			<td>
 				Standard feature
@@ -1553,7 +1473,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -2883,7 +2803,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -2912,26 +2832,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
+				Memory
 			</td>
 			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
-			</td>
-			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -3044,7 +2948,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -3073,26 +2977,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
+				Memory
 			</td>
 			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
-			</td>
-			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -3156,7 +3044,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -3205,7 +3093,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -3234,26 +3122,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
+				Memory
 			</td>
 			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
-			</td>
-			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -3317,7 +3189,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -3366,7 +3238,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -3395,26 +3267,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
+				Memory
 			</td>
 			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
-			</td>
-			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -3478,7 +3334,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -3527,7 +3383,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -3556,23 +3412,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
-			</td>
-			<td>
-				Standard feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Standard feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
+				Memory
 			</td>
 			<td>
 				Standard feature
@@ -3639,7 +3479,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -5009,7 +4849,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -5038,26 +4878,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
+				Memory
 			</td>
 			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
-			</td>
-			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -5170,7 +4994,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -5199,26 +5023,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
+				Memory
 			</td>
 			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
-			</td>
-			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -5282,7 +5090,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -5331,7 +5139,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -5360,26 +5168,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
+				Memory
 			</td>
 			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
-			</td>
-			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -5443,7 +5235,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -5492,7 +5284,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -5521,26 +5313,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
+				Memory
 			</td>
 			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
-			</td>
-			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -5604,7 +5380,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -5653,7 +5429,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -5682,23 +5458,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
-			</td>
-			<td>
-				Standard feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Standard feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
+				Memory
 			</td>
 			<td>
 				Standard feature
@@ -5765,7 +5525,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -7135,7 +6895,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -7143,7 +6903,7 @@ This model is available with a seat configuration with five seats.
 				Seat height adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -7151,7 +6911,7 @@ This model is available with a seat configuration with five seats.
 				Backrest angle adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -7164,26 +6924,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
+				Memory
 			</td>
 			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
-			</td>
-			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -7239,7 +6983,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -7296,7 +7040,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -7304,7 +7048,7 @@ This model is available with a seat configuration with five seats.
 				Seat height adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -7312,7 +7056,7 @@ This model is available with a seat configuration with five seats.
 				Backrest angle adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -7325,26 +7069,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
+				Memory
 			</td>
 			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
-			</td>
-			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -7400,7 +7128,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -7408,7 +7136,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -7457,7 +7185,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -7486,26 +7214,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
+				Memory
 			</td>
 			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
-			</td>
-			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -7561,7 +7273,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -7569,7 +7281,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -7618,7 +7330,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -7647,26 +7359,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
+				Memory
 			</td>
 			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
-			</td>
-			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -7730,7 +7426,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -7779,7 +7475,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -7787,7 +7483,7 @@ This model is available with a seat configuration with five seats.
 				Seat height adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -7795,7 +7491,7 @@ This model is available with a seat configuration with five seats.
 				Backrest angle adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -7803,28 +7499,12 @@ This model is available with a seat configuration with five seats.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
-			</td>
-			<td>
-				Standard feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Standard feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
+				Memory
 			</td>
 			<td>
 				Standard feature
@@ -7883,7 +7563,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -7891,7 +7571,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -9221,7 +8901,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -9250,26 +8930,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
+				Memory
 			</td>
 			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
-			</td>
-			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -9382,7 +9046,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -9411,26 +9075,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
+				Memory
 			</td>
 			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
-			</td>
-			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -9494,7 +9142,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -9543,7 +9191,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -9572,26 +9220,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
+				Memory
 			</td>
 			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
-			</td>
-			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -9655,7 +9287,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -9704,7 +9336,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -9733,26 +9365,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
+				Memory
 			</td>
 			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
-			</td>
-			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -9816,7 +9432,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -9865,7 +9481,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -9894,23 +9510,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
-			</td>
-			<td>
-				Standard feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Standard feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
+				Memory
 			</td>
 			<td>
 				Standard feature
@@ -9977,7 +9577,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -11331,7 +10931,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -11360,26 +10960,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
+				Memory
 			</td>
 			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
-			</td>
-			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -11443,7 +11027,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -11492,7 +11076,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -11521,26 +11105,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
+				Memory
 			</td>
 			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
-			</td>
-			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -11604,7 +11172,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -11653,7 +11221,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -11682,23 +11250,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
-			</td>
-			<td>
-				Standard feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Standard feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
+				Memory
 			</td>
 			<td>
 				Standard feature
@@ -11765,7 +11317,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -13119,7 +12671,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -13148,26 +12700,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
+				Memory
 			</td>
 			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
-			</td>
-			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -13231,7 +12767,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -13280,7 +12816,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -13309,26 +12845,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
+				Memory
 			</td>
 			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
-			</td>
-			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -13392,7 +12912,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -13441,7 +12961,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -13470,23 +12990,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Electric adjustment of height, recline and angle
-			</td>
-			<td>
-				Standard feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory driver seat
-			</td>
-			<td>
-				Standard feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passenger seat
+				Memory
 			</td>
 			<td>
 				Standard feature
@@ -13553,7 +13057,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
