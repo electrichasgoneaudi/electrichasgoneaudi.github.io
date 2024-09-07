@@ -1,36 +1,31 @@
 ---
-title: Audi A6 e-tron seats and interior materials
+title: Audi A6 e-tron Seats and Interior Materials
 linktitle: Seats & Material
-description: Audi A6 e-tron have serveral seats options to choose from
+description: The Audi A6 e-tron offers several seat options to choose from
 weight: 1
-sectiontabs: "/models/a6-e-tron/interior/"
+sectiontabs: "/nb/models/a6-e-tron/interior/"
 ---
 <!-- markdownlint-disable MD033 -->
 
-The seat options are part of different interior packages that offers differt seat materials and colors.
+The seat options are part of different interior packages that offer various seat materials and colors.
 
+## Seat Functionality
 
-## Seat functionality
+### 4-Way Lumbar Support
 
-### 4-way lumbar support
+The 4-way lumbar support for the front seats is electrically adjustable horizontally and vertically in four directions, ensuring a relaxed, ergonomic seating position. It is standard on all seat types.
 
-4-way lumbar support is standard on Sport and Sport Plus seats
-
-
-4-way lumbar support for the front seats Electrically adjustable horizontally and vertically in four directions, the lumbar support ensures a relaxed, ergonomic seating position.
-
-
-### Electric adjustment
+### Electric Adjustment
 
 Electric adjustment of:
 
 - Seat height
 - Seat longitudinal position
 - Seat and backrest angle
-  
-For sports seats in the front and sports seats plus in the front, additionally with manual adjustment of the thigh support.
 
-Note: In the A6 e-tron, only available in combination with Tech plus (PQB) or Tech pro (PQC).
+Standard for sports seats in the front and sports seats plus in the front, there is also manual adjustment of the thigh support.
+
+*Note: In the A6 e-tron, only available in combination with Tech plus (PQB) or Tech pro (PQC).*
 
 ### Seat Heating
 
@@ -40,15 +35,15 @@ Front and rear seat heating is part of the winter package.
 
 The memory function for the driver's side offers two memory slots for the electrically adjustable driver's seat, the exterior mirrors, and the steering wheel. The settings can be saved and retrieved using the memory button in the door panel. Additionally, the last position is automatically saved in the personal profile.
 
-Note: In the A6 e-tron, only available in combination with Tech plus (PQB) or Tech pro (PQC).
+*Note: In the A6 e-tron, only available in combination with Tech plus (PQB) or Tech pro (PQC).*
 
-### Ventilated seats
+### Ventilated Seats
 
-The Sport seats can be equipped with ventilation for hot summer days. It requires perforated leather. 
+The sport seats can be equipped with ventilation for hot summer days. This requires perforated leather.
 
 ### Massage
 
-The Sport Seats Plus is equipped with a massage function. You can select different massage programs in MMI.
+The sport seats plus are equipped with a massage function. You can select different massage programs in the MMI.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -168,7 +163,6 @@ The Sport Seats Plus is equipped with a massage function. You can select differe
   </tbody>
 </table>
 </div>
-
 
 ## Standard Seats
 
