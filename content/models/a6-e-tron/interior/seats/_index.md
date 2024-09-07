@@ -7,7 +7,8 @@ sectiontabs: "/models/a6-e-tron/interior/"
 ---
 <!-- markdownlint-disable MD033 -->
 
-Each seat type have different seat materials in different colors to choose from. Making it possible to configure the interior just as you like it.
+The seat options are part of different interior packages that offers differt seat materials and colors.
+
 
 ## Seat functionality
 
@@ -15,9 +16,21 @@ Each seat type have different seat materials in different colors to choose from.
 
 4-way lumbar support is standard on Sport and Sport Plus seats
 
+
+4-way lumbar support for the front seats Electrically adjustable horizontally and vertically in four directions, the lumbar support ensures a relaxed, ergonomic seating position.
+
+
 ### Electric adjustment
 
-You can add electric control to seats for height and angel for Sports seats. Electric adjustment is standard on Sport Seats Plus.
+Electric adjustment of:
+
+- Seat height
+- Seat longitudinal position
+- Seat and backrest angle
+  
+For sports seats in the front and sports seats plus in the front, additionally with manual adjustment of the thigh support.
+
+Note: In the A6 e-tron, only available in combination with Tech plus (PQB) or Tech pro (PQC).
 
 ### Seat Heating
 
@@ -25,7 +38,9 @@ Front and rear seat heating is part of the winter package.
 
 ### Memory
 
-All seats with electric adjustment have memory for two driver seating positions. The electric-controllable steering wheel and mirrors also use memory.
+The memory function for the driver's side offers two memory slots for the electrically adjustable driver's seat, the exterior mirrors, and the steering wheel. The settings can be saved and retrieved using the memory button in the door panel. Additionally, the last position is automatically saved in the personal profile.
+
+Note: In the A6 e-tron, only available in combination with Tech plus (PQB) or Tech pro (PQC).
 
 ### Ventilated seats
 
@@ -74,7 +89,7 @@ The Sport Seats Plus is equipped with a massage function. You can select differe
     </tr>
     <tr>
         <td>Power 4-way lumbar adjustment</td>
-        <td>NA</td>
+        <td>Standard</td>
         <td>Standard</td>
         <td>Standard</td>
     </tr>
@@ -157,11 +172,11 @@ The Sport Seats Plus is equipped with a massage function. You can select differe
 
 ## Standard Seats
 
-### für Normalsitze vorn:
+### Interior with standard seats, black fabric
 
- • Sitzmittelbahnen in Stoff Argument schwarz
- • Sitzseitenwangen und Kopfstützen in Stoff uni schwarz
- Die Sitzbezüge im Fond sind optisch an die Vordersitze angepasst.
+- Seat center sections in Argument black fabric
+- Seat side bolsters and headrests in plain black fabric
+- The rear seat covers are visually matched to the front seats.
 
 {{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_standard_st.jpg" width="1920" height="1440" title="Normal seats with fabric -Interior package 99K" >}}
 
