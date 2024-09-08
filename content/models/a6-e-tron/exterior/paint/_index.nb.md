@@ -3,7 +3,7 @@ title: Audi A6 e-tron lakkfarger
 linktitle: Lakk
 description: Du kan velge mellom 8 standard lakkfarger.
 weight: 1
-sectiontabs: "/models/a6-e-tron/exterior/"
+sectiontabs: "/nb/models/a6-e-tron/exterior/"
 ---
 
 <!-- markdownlint-disable MD033 -->
