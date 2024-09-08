@@ -33,31 +33,24 @@ The following variants are or will be available from autumn 2024:
 Learn more about the variants in our [Audi A6 e-tron variants section](variants/).
 
 
-## Exterior, size, and design
+## Exterior and design
 
-The body’s clean design focuses on dynamism, progressiveness, and elegance. The front is
-simultaneously harmonious and expressive. The slim design of the daytime running lights and the
-wide grille make the A6 e-tron appear flat and wide on the road.
+The Audi A6 e-tron features a clean design focused on dynamism, progressiveness, and elegance, with a harmonious and expressive front. The black mask surrounding the closed and inverted single frame integrates the main headlights and other functional elements, 
+making them almost invisible. The dynamic roofline and quattro blisters emphasize the quattro drive, while the battery is highlighted by a black insert in the sill area. The rear combines sporty elegance with full power, featuring a continuous light strip and a striking spoiler lip. 
 
-A black mask surrounds the closed and inverted single frame, reflecting the distinct design language
-of the e-tron models. The main headlights and other functional elements, such as the Advanced Driver
-Assistance System (ADAS) sensors and the air intakes, are integrated into the dark mask, making
-them almost invisible.
+The Audi A6 e-tron offers various wheel designs and up to eight exterior colors, including exclusive options for the S line variant and S model. You can read everything about exterior options like paint colors, wheel options, styling, and much more in our [exterior section](exterior/).
 
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-6s.jpg" class="img-fluid" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
-    </a>
-    <figcaption><h4>Audi A6 Avant e-tron concept</h4></figcaption>
-</figure>
-
-Audi A6 e-tron is available with S-line exterior, black optics, black windows, virtual mirrors, panoramic roof, several wheels to choose from with sizes from 19" to 21", many different colors including the possibility for Audi exclusive colors making it possible to create your unique design.
+<a href="exterior"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/exterior/paint/malpeloblue_4_st.jpg" class="img-fluid" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept"></a>
 
 ## Interior
 
-Audi A6 e-tron will be available with different seat options. From standard seats, sports seats, and comfort seats. Some with the possibility for ventilation and massage. 
-It will also be available with an animal-free interior and a full leather interior with different colors. An s-line interior will also be available.
+The interior of the Audi A6 e-tron is consistently geared towards the users’ needs. The
+three-dimensional and high-contrast design deliberately places elements in the foreground or
+background, creating a spatial architecture tailored to the occupants in terms of design and
+ergonomics.
+
+Audi A6 e-tron is available with different seat options, interior materials, colors. Read all about the interior options in our [Audi A6 e-tron interior section](interior/).
+
 
 ## Drivetrain
 
