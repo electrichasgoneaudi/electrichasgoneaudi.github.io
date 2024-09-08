@@ -1,32 +1,49 @@
 ---
 title: Audi A6 e-tron
 linktitle: Audi A6 e-tron
-description: Audi A6 e-tron will be available with different motors, batteries, technology, and design options and have a range of up to 750km.
+description: The Audi A6 e-tron offers various motors, batteries, technology, and design options, with a range of up to 750km.
 weight: 7
 shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 
-The Audi A6 e-tron was first time revealed in April 2021 as a concept car and had a world premiere July 31. 2024 and was thesixth all-electric model from Audi. With a range of up to 750km, it will be the all-electric model with the longest range from Audi.
+The Audi A6 e-tron was first revealed in April 2021 as a concept car and had its world premiere on July 31, 2024. It is the sixth all-electric model from Audi. With a range of up to 750km, it will be the all-electric model with the longest range from Audi.
 
-Audi A6 is available both as Sportback and Avant
+The Audi A6 is available in both Sportback and Avant versions.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-7.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-7s.jpg" class="img-fluid" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
-    </a>
-    <figcaption><h4>Audi A6 e-tron and Audi A6 Avant e-tron concept</h4></figcaption>
-</figure>
+{{< sitefiguresized thumb="models/a6-e-tron/variants/variants_1_st.jpg" width="3000" height="2250" title="Audi A6 e-tron variants" >}}
 
-The expectation is that the first owners will receive it in late 2024.
+The first owners are expected to receive their cars in late 2024.
 
-Join our [international Audi A6 e-tron owners group](https://www.facebook.com/groups/5590477234297637) on Facebook to be updated with all the latest info and discuss the car with others.
+Join our [international Audi A6 e-tron owners group](https://www.facebook.com/groups/5590477234297637) on Facebook to stay updated with the latest information and discuss the car with others.
+
+## Audi A6 e-tron Variants
+
+The following variants are or will be available from autumn 2024:
+
+- Audi A6 Sportback e-tron
+- Audi A6 Sportback e-tron Performance
+- Audi A6 Sportback e-tron Quattro
+- Audi S6 Sportback e-tron
+- Audi A6 Avant e-tron
+- Audi A6 Avant e-tron Performance
+- Audi A6 Avant e-tron Quattro
+- Audi S6 Avant e-tron
+
+Learn more about the variants in our [Audi A6 e-tron variants section](variants/).
+
 
 ## Exterior, size, and design
 
-Even though this is a concept, Audi promises that this concept will look very similar to the production-ready model. At 4.96 meters (16.3 ft.) long, 1.96 meters (6.4 ft.) wide, and 1.44 meters (4.7 ft.) high, its body puts it in the luxury class. Its lines are a consistent development in Audi’s contemporary formal language. Significant elements like the closed Singleframe and the continuous strip of lights in the rear emphasize its kinship with the other electrically powered Audis in the e-tron fleet.
+The body’s clean design focuses on dynamism, progressiveness, and elegance. The front is
+simultaneously harmonious and expressive. The slim design of the daytime running lights and the
+wide grille make the A6 e-tron appear flat and wide on the road.
 
-Large 21-inch wheels and short overhangs, the flat cabin, and a dynamic roof arch give the Avant proportions that are distinctly reminiscent of a sports car.
+A black mask surrounds the closed and inverted single frame, reflecting the distinct design language
+of the e-tron models. The main headlights and other functional elements, such as the Advanced Driver
+Assistance System (ADAS) sensors and the air intakes, are integrated into the dark mask, making
+them almost invisible.
+
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-6.jpg">

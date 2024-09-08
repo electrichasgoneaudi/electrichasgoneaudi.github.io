@@ -1,28 +1,36 @@
 ---
 title: Audi A6 e-tron
 linktitle: Audi A6 e-tron
-description: Audi A6 e-tron vil kunne leveres med forskjellige motor, batteri, teknologi og design alternativer og ha rekkevidde på opptil 700km.
+description: Audi A6 e-tron tilbyr forskjellige motorer, batterier, teknologi og designalternativer, med en rekkevidde på opptil 750 km.
 weight: 7
 shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-Audi A6 e-tron ble første gang presentert i april 2021 som en konseptbil. Dette blir den sjette helelektriske modellen fra Audi når den lanseres i 2023.
 
-Med en rekkevidde på opptil 700 km blir det den helelektriske modellen med lengst rekkevidde fra Audi.
+Audi A6 e-tron ble først avduket i april 2021 som en konseptbil og hadde sin verdenspremiere 31. juli 2024. Det er den sjette helelektriske modellen fra Audi. Med en rekkevidde på opptil 750 km vil det være den helelektriske modellen med lengst rekkevidde fra Audi.
 
-I mars 2022 Audi presenterte også Audi A6 Avant e-tron-konseptet til denne modellen.
+Audi A6 er tilgjengelig i både Sportback- og Avant-versjoner.
 
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-7.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-7s.jpg" class="img-fluid" alt="Audi A6 e-tron concept" title="Audi A6 e- tron-konsept">
-    </a>
-    <figcaption><h4>Audi A6 e-tron og Audi A6 Avant e-tron concept</h4></figcaption>
-</figur>
+{{< sitefiguresized thumb="models/a6-e-tron/variants/variants_1_st.jpg" width="3000" height="2250" title="Audi A6 e-tron varianter" >}}
 
-Forventningen er at de første eierne får den sent i 2024.
+De første eierne forventes å motta bilene sine sent i 2024.
 
-Denne artikkelen med underseksjoner presenterer all kjent informasjon om denne modellen og vil fortsette å oppdateres når vi vet mer.
 Bli med i vår [Audi A6 e-tron Owners Norway](https://www.facebook.com/groups/752306502112784) Facebookgruppe eller bli med i den internasjonale [Audi A6 e-tron Owners](https://www.facebook.com/groups/5590477234297637) Facebookgruppe for å holde deg oppdatert med all siste info og diskutere bilen med andre.
+
+## Audi A6 e-tron Varianter
+
+Følgende varianter er eller vil være tilgjengelige fra høsten 2024:
+
+- Audi A6 Sportback e-tron
+- Audi A6 Sportback e-tron Performance
+- Audi A6 Sportback e-tron Quattro
+- Audi S6 Sportback e-tron
+- Audi A6 Avant e-tron
+- Audi A6 Avant e-tron Performance
+- Audi A6 Avant e-tron Quattro
+- Audi S6 Avant e-tron
+
+Lær mer om variantene i vår [Audi A6 e-tron varianter seksjon](variants/).
 
 ## Eksteriør, størrelse og design
 
