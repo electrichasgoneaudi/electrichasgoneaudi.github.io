@@ -54,7 +54,7 @@ Se nedenfor for detaljer om eksteriøralternativene.
     <a href="panoramicroof/" class="btn btn-outline-primary" role="button">Lær alt om Audi A6 e-tron panoramatak</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-    <a href="s-line/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/exterior/s-line/comparison_st.jpg" class="img-fluid mb-2" alt="Audi Q6 e-tron lys" ></a>
+    <a href="s-line/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/exterior/s-line/sline_1_st.jpg" class="img-fluid mb-2" alt="Audi Q6 e-tron lys" ></a>
     <h2>S-Line eksteriør</h2>
     <p>
         Audi A6 e-tron tilbyr s-line eksteriørpakke som et alternativ
