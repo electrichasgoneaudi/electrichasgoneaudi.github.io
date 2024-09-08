@@ -22,7 +22,7 @@ The exterior of the Audi A6 e-tron differs between the variants basic, S line an
 See below for details about the exterior options.
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="paint/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/exterior/paint/plasmablue_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<a href="paint/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/exterior/paint/plasmablue_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
 	<h2>Paintcolors</h2>
 	<p>
 		Audi A6 e-tron offers a large amount of paint colors to choose from

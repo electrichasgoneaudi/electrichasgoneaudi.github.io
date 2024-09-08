@@ -22,7 +22,7 @@ Eksteriøret til Audi A6 e-tron varierer mellom variantene basic, S line og S mo
 Se nedenfor for detaljer om eksteriøralternativene.
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-    <a href="paint/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/exterior/paint/plasmablue_1_st.jpg" class="img-fluid mb-2" alt="Audi Q6 e-tron lys" ></a>
+    <a href="paint/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/exterior/paint/plasmablue_1_st.jpg" class="img-fluid mb-2" alt="Audi Q6 e-tron lys" ></a>
     <h2>Lakkfarger</h2>
     <p>
         Audi A6 e-tron tilbyr et stort utvalg av lakkfarger å velge mellom
