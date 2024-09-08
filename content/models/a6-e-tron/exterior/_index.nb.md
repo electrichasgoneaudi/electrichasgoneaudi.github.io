@@ -59,5 +59,5 @@ Se nedenfor for detaljer om eksteriøralternativene.
     <p>
         Audi A6 e-tron tilbyr s-line eksteriørpakke som et alternativ
     </p>
-    <a href="s-line/" class="btn btn-outline-primary" role="button">Lær alt om Audi Q6 e-tron s-line eksteriørpakke</a>
+    <a href="s-line/" class="btn btn-outline-primary" role="button">Lær alt om Audi A6 e-tron s-line eksteriørpakke</a>
 </div>

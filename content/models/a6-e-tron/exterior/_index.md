@@ -54,7 +54,7 @@ See below for details about the exterior options.
 	<a href="panoramicroof/" class="btn btn-outline-primary" role="button">Learn all about Audi A6 e-tron panoramic roof</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="s-line/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/exterior/s-line/sline_1_st.jpg class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron lights" ></a>
+	<a href="s-line/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/exterior/s-line/sline_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron lights" ></a>
 	<h2>S-Line exterior</h2>
 	<p>
 		Audi A6 e-tron offers s-line exterior package as an option
