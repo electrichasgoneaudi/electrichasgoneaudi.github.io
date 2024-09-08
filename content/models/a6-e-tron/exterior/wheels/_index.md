@@ -21,7 +21,7 @@ The following wheels is available to select to Audi A6 e-tron
 
 8,0 J | 9,0 J x 20, Tires 235/45 | 265/40 R 20
 
-**Option** 41A
+**Option** 44L
 
 {{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_44l_1_st.jpg" width="1920" height="1440" title="5-double-spoke embossing, platinum gray" >}}
 
@@ -29,7 +29,7 @@ The following wheels is available to select to Audi A6 e-tron
 
 ### 20" 5-Arm-Aero, graphite gray, high-gloss turned
 
-8,0 J | 9,0 J x 20, Reifen 235/45 | 265/40 R 20
+8,0 J | 9,0 J x 20, Tires 235/45 | 265/40 R 20
 
 **Option** 55J
 
@@ -38,81 +38,66 @@ The following wheels is available to select to Audi A6 e-tron
 {{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_55j_2_st.jpg" width="1920" height="1440" title="5-Arm-Aero, graphite gray, high-gloss turned" >}}
 
 
-### 20"  Audi Sport, 5-Speichen-Tripod, schwarz metallic, glanzgedreht
+### 20"  Audi Sport, 5-Spoke Tripod, black metallic, high-gloss turned
 
-8,0 J | 9,0 J x 20, Reifen 235/45 | 265/40 R 20
+8,0 J | 9,0 J x 20, Tires 235/45 | 265/40 R 20
 
 **Option** 56J
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_56j_1_st.jpg" width="1920" height="1440" title="10-spoke trapezoidal design" >}}
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_56j_1_st.jpg" width="1920" height="1440" title="Audi Sport, 5-Spoke Tripod, black metallic, high-gloss turne" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_56j_2_st.jpg" width="1920" height="1440"  title="10-spoke trapezoidal design" >}}
-
-
-## 20"  5-double-spoke offset design, gray silk matt, high-gloss polished
-
-8,5 J | 10,0 J x 20 med 255/50 | 285/45 R 20
-
-**Option** 58Q
-
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_58q_1_st.jpg" width="1920" height="1440" title="5-double-spoke offset design," >}}
-
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_58q_2_st.jpg" width="1920" height="1440"  title="5--double-spoke offset design," >}}
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_56j_2_st.jpg" width="1920" height="1440"  title="Audi Sport, 5-Spoke Tripod, black metallic, high-gloss turne" >}}
 
 
-## 20"  5-spoke structural design, graphite grey, high-gloss polished
+### 20" Audi Sport, 10-Spoke Aero, gray silk matte, high-gloss turned
 
-8,5 J | 10,0 J x 20 med 255/50 | 285/45 R 20
+8,0 J | 9,0 J x 20, Tires 235/45 | 265/40 R 2
 
-**Option** 52T
+**Option** 56H
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_52t_1_st.jpg" width="1920" height="1440" title="5-spoke structural design" >}}
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_56h_1_st.jpg" width="1920" height="1440" title="Audi Sport, 10-Spoke Aero, gray silk matte, high-gloss turned" >}}
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_52t_2_st.jpg" width="1920" height="1440"  title="5-spoke structural design" >}}
-
-
-## 20"  5-double spoke Falx
-
-8,5 J | 10,0 J x 20 med 255/50 | 285/45 R 20
-
-**Option** 54V
-
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_54v_1_st.jpg" width="1920" height="1440" title="5-double spoke Falx" >}}
-
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_54v_2_st.jpg" width="1920" height="1440"  title="5-double spoke Falx" >}}
-
-## 21" 5-arm aero design in black metallic, gloss polished
-
-9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21
-
-**Option** C9K
-
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_c9k_1_st.jpg" width="1920" height="1440" title="5-arm aero design in black metallic, gloss polished" >}}
-
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_c9k_2_st.jpg" width="1920" height="1440"  title="5-arm aero design in black metallic, gloss polished" >}}
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_56h_2_st.jpg" width="1920" height="1440"  title="Audi Sport, 10-Spoke Aero, gray silk matte, high-gloss turned" >}}
 
 
-## 21" 5 Y-spoke dynamic design in black metallic, polished
+## 21" Multi-Spoke S, graphite gray, high-gloss turned
 
-9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21
+8,5 J | 9,5 J x 21, Tires 245/40 | 275/35 R 21
 
-**Option** V39
+**Option** 55I
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_v39_1_st.jpg" width="1920" height="1440" title="5 Y-spoke dynamic design in black metallic, polished" >}}
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_55I_1_st.jpg" width="1920" height="1440" title="Multi-Spoke S, graphite gray, high-gloss turned" >}}
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_v39_2_st.jpg" width="1920" height="1440"  title="5 Y-spoke dynamic design in black metallic, polished" >}}
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_55I_2_st.jpg" width="1920" height="1440"  title="Multi-Spoke S, graphite gray, high-gloss turned" >}}
 
 
-## 21" 5-V spoke structure design, graphite grey, gloss polished
+## 21"  Audi Sport, 5-Arm Dynamic, black metallic
 
-9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21
+8,5 J | 9,5 J x 21, Tires 245/40 | 275/35 R 21
 
-**Option** 46X 
+**Option** 58S
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_46x_1_st.jpg" width="1920" height="1440" title="5-V spoke structure design, graphite grey, gloss polished" >}}
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_58S_1_st.jpg" width="1920" height="1440" title="Audi Sport, 5-Arm Dynamic, black metallic" >}}
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_46x_2_st.jpg" width="1920" height="1440"  title="5-V spoke structure design, graphite grey, gloss polished" >}}
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_58S_2_st.jpg" width="1920" height="1440"  title="Audi Sport, 5-Arm Dynamic, black metallic" >}}
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_46x_3_st.jpg" width="1200" height="600" title="5-V spoke structure design, graphite grey, gloss polished" >}}
+## 21" Audi Sport, 5-Arm Dynamic, black metallic, high-gloss turned
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_46x_4_st.jpg" width="1200" height="1200" title="5-V spoke structure design, graphite grey, gloss polished" >}}
+8,5 J | 9,5 J x 21, Tires 245/40 | 275/35 R 21
+
+**Option** 56E
+
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_56e_1_st.jpg" width="1920" height="1440" title="Audi Sport, 5-Arm Dynamic, black metallic, high-gloss turned" >}}
+
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_56e_2_st.jpg" width="1920" height="1440"  title="Audi Sport, 5-Arm Dynamic, black metallic, high-gloss turned" >}}
+
+
+## 21" Audi Sport, 5-Double Spoke, black metallic, high-gloss turned, darkened 
+
+8,5 J | 9,5 J x 21, Tires 245/40 | 275/35 R 21
+
+**Option** 65W
+
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_65w_1_st.jpg" width="1920" height="1440" title="Audi Sport, 5-Double Spoke, black metallic, high-gloss turned, darkened " >}}
+
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_65w_2_st.jpg" width="1920" height="1440"  title="Audi Sport, 5-Double Spoke, black metallic, high-gloss turned, darkened " >}}

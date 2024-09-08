@@ -1,117 +1,100 @@
 ---
-title: Audi A6 e-tron felger & dekk
+title: Audi A6 e-tron felger
 linktitle: Felger
-description: Audi A6 e-tron kan leveres med forskjellige typer felger og dekk
+description: Audi A6 e-tron har flere felger å velge mellom.
 weight: 4
-sectiontabs: "/nb/models/a6-e-tron/exterior/"
+sectiontabs: "/models/a6-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 
-The following wheels have been available from Audi to Audi Q6 e-tron. Varies for the different markets
+Følgende felger er tilgjengelige for Audi A6 e-tron
 
-## 18" 10-Spoke
+### 19" 5-Arm-Dynamik, platina grå
 
-8,0J|9,0Jx18, Wheels 235/65|255/60 R18
+8,0 J | 8,5 J x 19, Dekk 225/25 | 245/50 R 19
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_18inch_1.jpg" width="2300" height="1000" title="10-spoke 18-inch" >}}
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_19inch_1_st.jpg" width="1920" height="1440" title="5-Arm-Dynamik, platina grå" >}}
 
-## 19" 5-double spoke flag
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_19inch_2_st.jpg" width="1920" height="1440" title="5-Arm-Dynamik, platina grå" >}}
 
-8.0J|9.0Jx19, tires 235/60|255/55 R19
+### 20" 5-dobbelteiker preging, platina grå
 
-**Option** 41A
+8,0 J | 9,0 J x 20, Dekk 235/45 | 265/40 R 20
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_41a_1.jpg" width="2300" height="1000" title="5-double spoke flag" >}}
+**Alternativ** 44L
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_41a_2.jpg" width="750" height="750" title="5-double spoke flag" >}}
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_44l_1_st.jpg" width="1920" height="1440" title="5-dobbelteiker preging, platina grå" >}}
 
-## 19" 5-double-spoke dynamic design
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_44l_2_st.jpg" width="1920" height="1440" title="5-dobbelteiker preging, platina grå" >}}
 
- 8.0J|9.0Jx19, tires 235/60|255/55 R19
+### 20" 5-Arm-Aero, grafitt grå, høyglanspolert
 
-**Option** 41M
+8,0 J | 9,0 J x 20, Dekk 235/45 | 265/40 R 20
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_41m_1.jpg" width="2300" height="1000" title="5-double spoke flag" >}}
+**Alternativ** 55J
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_41m_2.jpg" width="750" height="750" title="5-double spoke flag" >}}
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_55j_1_st.jpg" width="1920" height="1440" title="5-Arm-Aero, grafitt grå, høyglanspolert" >}}
 
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_55j_2_st.jpg" width="1920" height="1440" title="5-Arm-Aero, grafitt grå, høyglanspolert" >}}
 
-## 20"  10-spoke trapezoidal design in black metallic, gloss polished
+### 20" Audi Sport, 5-eikers tripod, svart metallic, høyglanspolert
 
-8,5J | 10,0 J x 20 med 255/50 | 285/45 R 20
+8,0 J | 9,0 J x 20, Dekk 235/45 | 265/40 R 20
 
-**Option** 58R
+**Alternativ** 56J
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_58r_1.jpg" width="2300" height="1000" title="10-spoke trapezoidal design" >}}
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_56j_1_st.jpg" width="1920" height="1440" title="Audi Sport, 5-eikers tripod, svart metallic, høyglanspolert" >}}
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_58r_2.jpg" width="750" height="750" title="10-spoke trapezoidal design" >}}
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_56j_2_st.jpg" width="1920" height="1440" title="Audi Sport, 5-eikers tripod, svart metallic, høyglanspolert" >}}
+### 20" Audi Sport, 10-eikers Aero, grå silkematt, høyglanspolert
 
+8,0 J | 9,0 J x 20, Dekk 235/45 | 265/40 R 20
 
-## 20"  5-double-spoke offset design, gray silk matt, high-gloss polished
+**Alternativ** 56H
 
-8,5 J | 10,0 J x 20 med 255/50 | 285/45 R 20
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_56h_1_st.jpg" width="1920" height="1440" title="Audi Sport, 10-eikers Aero, grå silkematt, høyglanspolert" >}}
 
-**Option** 58Q
-
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_58q_1.jpg" width="2300" height="1000" title="5-double-spoke offset design," >}}
-
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_58q_2.jpg" width="750" height="750" title="5--double-spoke offset design," >}}
-
-
-## 20"  5-spoke structural design, graphite grey, high-gloss polished
-
-8,5 J | 10,0 J x 20 med 255/50 | 285/45 R 20
-
-**Option** 52T
-
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_52t_1.jpg" width="2300" height="1000" title="5-spoke structural design" >}}
-
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_52t_2.jpg" width="750" height="750" title="5-spoke structural design" >}}
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_56h_2_st.jpg" width="1920" height="1440" title="Audi Sport, 10-eikers Aero, grå silkematt, høyglanspolert" >}}
 
 
-## 20"  5-double spoke Falx
+## 21" Multi-eikers S, grafittgrå, høyglanspolert
 
-8,5 J | 10,0 J x 20 med 255/50 | 285/45 R 20
+8,5 J | 9,5 J x 21, Dekk 245/40 | 275/35 R 21
 
-**Option** 54V
+**Alternativ** 55I
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_54v_1.jpg" width="2300" height="1000" title="5-double spoke Falx" >}}
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_55I_1_st.jpg" width="1920" height="1440" title="Multi-eikers S, grafittgrå, høyglanspolert" >}}
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_54v_2.jpg" width="750" height="750" title="5-double spoke Falx" >}}
-
-## 21" 5-arm aero design in black metallic, gloss polished
-
-9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21
-
-**Option** C9K
-
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_c9k_1.jpg" width="2300" height="1000" title="5-arm aero design in black metallic, gloss polished" >}}
-
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_c9k_2.jpg" width="750" height="750" title="5-arm aero design in black metallic, gloss polished" >}}
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_55I_2_st.jpg" width="1920" height="1440" title="Multi-eikers S, grafittgrå, høyglanspolert" >}}
 
 
-## 21" 5 Y-spoke dynamic design in black metallic, polished
+## 21" Audi Sport, 5-Arm Dynamic, svart metallic
 
-9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21
+8,5 J | 9,5 J x 21, Dekk 245/40 | 275/35 R 21
 
-**Option** V39
+**Alternativ** 58S
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_v39_1.jpg" width="2300" height="1000" title="5 Y-spoke dynamic design in black metallic, polished" >}}
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_58S_1_st.jpg" width="1920" height="1440" title="Audi Sport, 5-Arm Dynamic, svart metallic" >}}
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_v39_2.jpg" width="750" height="750" title="5 Y-spoke dynamic design in black metallic, polished" >}}
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_58S_2_st.jpg" width="1920" height="1440" title="Audi Sport, 5-Arm Dynamic, svart metallic" >}}
+
+## 21" Audi Sport, 5-Arm Dynamic, svart metallic, høyglanspolert
+
+8,5 J | 9,5 J x 21, Dekk 245/40 | 275/35 R 21
+
+**Alternativ** 56E
+
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_56e_1_st.jpg" width="1920" height="1440" title="Audi Sport, 5-Arm Dynamic, svart metallic, høyglanspolert" >}}
+
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_56e_2_st.jpg" width="1920" height="1440" title="Audi Sport, 5-Arm Dynamic, svart metallic, høyglanspolert" >}}
 
 
-## 21" 5-V spoke structure design, graphite grey, gloss polished
+## 21" Audi Sport, 5-dobbelteiker, svart metallic, høyglanspolert, mørklagt
 
-9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21
+8,5 J | 9,5 J x 21, Dekk 245/40 | 275/35 R 21
 
-**Option** 46X 
+**Alternativ** 65W
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_46x_1.jpg" width="2300" height="1000" title="5-V spoke structure design, graphite grey, gloss polished" >}}
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_65w_1_st.jpg" width="1920" height="1440" title="Audi Sport, 5-dobbelteiker, svart metallic, høyglanspolert, mørklagt" >}}
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_46x_2.jpg" width="750" height="750" title="5-V spoke structure design, graphite grey, gloss polished" >}}
-
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_46x_3.jpg" width="1200" height="600" title="5-V spoke structure design, graphite grey, gloss polished" >}}
-
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_46x_4.jpg" width="1200" height="1200" title="5-V spoke structure design, graphite grey, gloss polished" >}}
-
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_65w_2_st.jpg" width="1920" height="1440" title="Audi Sport, 5-dobbelteiker, svart metallic, høyglanspolert, mørklagt" >}}
