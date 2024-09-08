@@ -27,31 +27,31 @@ Se nedenfor for detaljer om eksteriøralternativene.
     <p>
         Audi A6 e-tron tilbyr et stort utvalg av lakkfarger å velge mellom
     </p>
-    <a href="paint/" class="btn btn-outline-primary" role="button">Lær alt om Audi Q6 e-tron lakkfarger</a>
+    <a href="paint/" class="btn btn-outline-primary" role="button">Lær alt om Audi A6 e-tron lakkfarger</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-    <a href="wheels/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/exterior/wheels/wheeltype_1_st.jpg" class="img-fluid mb-2" alt="Audi Q6 e-tron lys" ></a>
+    <a href="wheels/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/exterior/wheels/wheels_1_st.jpg" class="img-fluid mb-2" alt="Audi Q6 e-tron lys" ></a>
     <h2>Hjul</h2>
     <p>
         Audi A6 e-tron tilbyr flere hjulalternativer
     </p>
-    <a href="wheels/" class="btn btn-outline-primary" role="button">Lær alt om Audi Q6 e-tron hjulalternativer</a>
+    <a href="wheels/" class="btn btn-outline-primary" role="button">Lær alt om Audi A6 e-tron hjulalternativer</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-    <a href="paintedcalibers/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/exterior/paintedcalibers/calibers_1_st.jpg" class="img-fluid mb-2" alt="Audi Q6 e-tron lys" ></a>
+    <a href="paintedcalibers/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/exterior/paintedcalibers/calibers_1_st.jpg" class="img-fluid mb-2" alt="Audi Q6 e-tron lys" ></a>
     <h2>Malte kalipere</h2>
     <p>
         Audi A6 e-tron tilbyr malte kalipere som et alternativ
     </p>
-    <a href="paintedcalibers/" class="btn btn-outline-primary" role="button">Lær alt om Audi Q6 e-tron malte kalipere</a>
+    <a href="paintedcalibers/" class="btn btn-outline-primary" role="button">Lær alt om Audi A6 e-tron malte kalipere</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-    <a href="panoramicroof/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/exterior/panoramicroof/panoramic_2_st.jpg" class="img-fluid mb-2" alt="Audi Q6 e-tron lys" ></a>
+    <a href="panoramicroof/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/exterior/panoramicroof/roof_1_st.jpg" class="img-fluid mb-2" alt="Audi Q6 e-tron lys" ></a>
     <h2>Panoramatak</h2>
     <p>
         Audi A6 e-tron tilbyr panoramatak som et alternativ
     </p>
-    <a href="panoramicroof/" class="btn btn-outline-primary" role="button">Lær alt om Audi Q6 e-tron panoramatak</a>
+    <a href="panoramicroof/" class="btn btn-outline-primary" role="button">Lær alt om Audi A6 e-tron panoramatak</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
     <a href="s-line/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/exterior/s-line/comparison_st.jpg" class="img-fluid mb-2" alt="Audi Q6 e-tron lys" ></a>
