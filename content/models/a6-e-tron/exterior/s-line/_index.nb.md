@@ -3,7 +3,7 @@ title: S-line and S exterior package
 linktitle: S-line / S
 description: There is serveral styling options to make your e-tron stick out from the crowd
 weight: 3
-sectiontabs: "/nb/models/q6-e-tron/exterior/"
+sectiontabs: "/nb/models/a6-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 

@@ -1,9 +1,9 @@
 ---
-title: Audi Q6 e-tron felger & dekk
+title: Audi A6 e-tron felger & dekk
 linktitle: Felger
-description: Audi Q6 e-tron kan leveres med forskjellige typer felger og dekk
+description: Audi A6 e-tron kan leveres med forskjellige typer felger og dekk
 weight: 4
-sectiontabs: "/nb/models/q6-e-tron/exterior/"
+sectiontabs: "/nb/models/a6-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 

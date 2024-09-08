@@ -3,7 +3,7 @@ title: Audi Q6 e-tron panoramatak
 linktitle: Panoramatak
 description: Ønsker du å skille deg ut i mengden kan du bestille din Q6 e-tron med panoramatak.
 weight: 6
-sectiontabs: "/nb/models/q6-e-tron/exterior/"
+sectiontabs: "/nb/models/a6-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 

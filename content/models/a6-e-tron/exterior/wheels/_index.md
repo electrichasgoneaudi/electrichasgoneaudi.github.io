@@ -3,7 +3,7 @@ title: Audi Q6 e-tron wheels
 linktitle: Wheels
 description: Audi Q6 e-tron have serveral wheels to choose from.
 weight: 4
-sectiontabs: "/models/q6-e-tron/exterior/"
+sectiontabs: "/models/a6-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 

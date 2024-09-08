@@ -1,9 +1,9 @@
 ---
-title: Audi Q6 e-tron vinduer 
+title: Audi A6 e-tron vinduer 
 linktitle: Windows
-description: Audi Q6 e-tron har noen valg for vinduer
+description: Audi A6 e-tron har noen valg for vinduer
 weight: 6
-sectiontabs: "/nb/models/q6-e-tron/exterior/"
+sectiontabs: "/nb/models/a6-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 

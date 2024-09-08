@@ -1,9 +1,9 @@
 ---
-title: Audi Q6 e-tron windows 
+title: Audi A6 e-tron windows 
 linktitle: Windows
 description: Audi Q6 e-tron have some windows options.
 weight: 6
-sectiontabs: "/models/q6-e-tron/exterior/"
+sectiontabs: "/models/a6-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 

@@ -3,7 +3,7 @@ title: Audi Q6 e-tron panoramic roof
 linktitle: Panoramic roof
 description: If you want to stand out in the crowd you can order your Q6 e-tron with panoramic roof.
 weight: 6
-sectiontabs: "/models/q6-e-tron/exterior/"
+sectiontabs: "/models/a6-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 
