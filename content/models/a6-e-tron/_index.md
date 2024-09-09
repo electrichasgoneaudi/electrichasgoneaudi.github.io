@@ -51,30 +51,24 @@ ergonomics.
 
 Audi A6 e-tron is available with different seat options, interior materials, colors. Read all about the interior options in our [Audi A6 e-tron interior section](interior/).
 
+<a href="interior"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/interior/seats/seatconfig_pwo_2_st.jpg" class="img-fluid" alt="Audi A6 e-tron interior" title="Audi A6 e-tron interior"></a>
 
 ## Drivetrain
 
-Audi A6 e-tron is based on the new [PPE-platform](../../technology/bev-platforms/ppe/) that is co-created with Porsche and will come with both 2-wheel drive and quattro versions and with at least two different battery sizes.
+Audi A6 e-tron is based on the new [PPE-platform](../../technology/bev-platforms/ppe/) that is co-created with Porsche available with both 2-wheel drive and quattro versions and with at least two different battery sizes.
 
 ### Battery & Range
 
 It will be delivered in two battery sizes
 
 - 12 modules with 100 kWh gross (94.9kWh net)
-- 10 modules with 83.3kWh gross (78kWh net).
+- 10 modules with 83.3kWh gross (75.8kWh net).
 
 This will give the Audi A6 e-tron a WLTP range of approximately 520-750km depending on the trim level for the biggest battery. (13.4 - 18 kWh/100km)
 
 The battery will has an 800-Volt architecture for high-performance charging up to 270KW for DC charging. 300km charging takes as little as 10 minutes.
 
-![Battery](https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/battery.png "Audi A6 e-tron battery with 12 modules and 100kWh gross")
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/battery.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/battery_mt.png" class="img-fluid" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
-    </a>
-     <figcaption><h4>Audi A6 e-tron drivetrain</h4></figcaption>
-</figure>
+<a href="drivetrain/battery"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/battery_st.png" class="img-fluid" alt="Audi A6 e-tron interior" title="Audi A6 e-tron interior"></a>
 
 
 ### Motor and performance

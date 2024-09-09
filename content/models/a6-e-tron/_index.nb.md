@@ -32,24 +32,22 @@ Følgende varianter er eller vil være tilgjengelige fra høsten 2024:
 
 Lær mer om variantene i vår [Audi A6 e-tron varianter seksjon](variants/).
 
-## Eksteriør, størrelse og design
+## Eksteriør og design
 
-Selv om dette er et konsept, lover Audi at dette konseptet vil ligne veldig på den produksjonsklare modellen. Med en lengde på 4,96 meter (16,3 fot), 1,96 meter (6,4 fot) bred og 1,44 meter (4,7 fot) høy plasserer kroppen den i luksusklassen. Linjene er en konsekvent utvikling i Audis moderne formspråk. Betydelige elementer som den lukkede Singleframe og den kontinuerlige lysstripen bak understreker slektskapet med de andre elektrisk drevne Audiene i e-tron-flåten.
+Audi A6 e-tron har et rent design som fokuserer på dynamikk, fremskritt og eleganse, med en harmonisk og uttrykksfull front. Den svarte masken rundt den lukkede og inverterte enkeltrammen integrerer hovedlyktene og andre funksjonelle elementer, og gjør dem nesten usynlige. Den dynamiske taklinjen og quattro-skjermene understreker quattro-driften, mens batteriet fremheves av en svart innlegg i terskelområdet. Bakparten kombinerer sportslig eleganse med full kraft, med en kontinuerlig lysstripe og en iøynefallende spoilerleppe.
 
-Store 22-tommers hjul og korte overheng, den flate kabinen og en dynamisk takbue gir Avant-proporsjoner som minner tydelig om en sportsbil.
+Audi A6 e-tron tilbyr ulike felgdesign og opptil åtte eksteriørfarger, inkludert eksklusive alternativer for S line-varianten og S-modellen. Du kan lese alt om eksteriøralternativer som lakkfarger, felgalternativer, styling og mye mer i vår [eksteriørseksjon](exterior/).
 
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-6s.jpg" class="img-fluid" alt="Audi A6 e-tron concept" title="Audi A6 e- tron-konsept">
-    </a>
-    <figcaption><h4>Audi A6 Avant e-tron-konsept</h4></figcaption>
-</figur>
-
-Audi A6 e-tron vil være tilgjengelig med S-line eksteriør, sort optikk, sorte vinduer, virtuelle speil, panoramatak, flere hjul å velge mellom med størrelser fra 19" til 22", mange forskjellige farger inkludert mulighet for Audi exclusive farger gjør det mulig å lage ditt unike design.
+<a href="exterior"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/exterior/paint/malpeloblue_4_st.jpg" class="img-fluid" alt="Audi A6 e-tron konsept" title="Audi A6 e-tron konsept"></a>
 
 ## Interiør
 
-Audi A6 e-tron vil være tilgjengelig med ulike setealternativer. Fra standardseter, sportsseter og komfortseter. Noen med mulighet for ventilasjon og massasje. Den vil også være tilgjengelig med dyrefritt interiør og helskinninteriør med forskjellige farger. Et s-line interiør vil også være tilgjengelig.
+Interiøret i Audi A6 e-tron er konsekvent tilpasset brukernes behov. Det tredimensjonale og kontrastrike designet plasserer bevisst elementer i forgrunnen eller bakgrunnen, og skaper en romlig arkitektur som er skreddersydd for passasjerene når det gjelder design og ergonomi.
+
+Audi A6 e-tron er tilgjengelig med ulike setealternativer, interiørmaterialer og farger. Les alt om interiøralternativene i vår [Audi A6 e-tron interiørseksjon](interior/).
+
+<a href="interior"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/interior/seats/seatconfig_pwo_2_st.jpg" class="img-fluid" alt="Audi A6 e-tron interiør" title="Audi A6 e-tron interiør"></a>
+
 
 ## Drivlinje
 

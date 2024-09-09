@@ -1,9 +1,9 @@
 ---
-title: Audi Q6 e-tron battery
+title: Audi A6 e-tron battery
 linktitle: Battery
-description: The lithium-ion battery system of the Audi Q6 e-tron can store up 100 kWh of energy and uses 800 volt system.
+description: The lithium-ion battery system of the Audi A6 e-tron can store up 100 kWh of energy and uses 800 volt system.
 weight: 7
-sectiontabs: "/models/q6-e-tron/drivetrain/"
+sectiontabs: "/models/a6-e-tron/drivetrain/"
 ---
 
 The Q6 e-tron series, built in Ingolstadt, is the first fully electric high-volume model manufactured at a German Audi site. Simultaneously, the brand with the four rings is consolidating new skills and technologies at its company headquarters with the assembly of the newly developed high-voltage (HV) battery for the Premium Platform Electric (PPE). Thanks to the new battery assembly, Audi is gradually increasing the vertical range of manufacture for fully electric models and gathering experience for battery module production further down the line.

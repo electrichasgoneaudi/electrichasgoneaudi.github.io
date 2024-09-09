@@ -1,7 +1,7 @@
 ---
-title: Audi Q6 e-tron motors
+title: Audi A6 e-tron motors
 linktitle: Motors
-description: Audi Q6 e-tron har forskjellige motoroppsett
+description: Audi A6 e-tron har forskjellige motoroppsett
 weight: 6
 sectiontabs: "/nb/models/q6-e-tron/drivetrain/"
 ---
