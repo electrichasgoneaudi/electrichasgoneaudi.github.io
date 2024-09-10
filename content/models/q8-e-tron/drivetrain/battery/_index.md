@@ -126,9 +126,9 @@ The battery junction box (BJB), into which the high-voltage relays and fuses are
 Audi e-tron has been market-leading in average charging speed since its introduction. So how does this compare to the facelift? Together with [EVKX.net](https://evkx.net), electrichasgoneaudi.net gives you the
 details. Below is the charging curve for Audi Q8 50 e-tron (same as the Audi e-tron 55) and the Audi Q8 e-tron 55 with the new battery.
 
-<img src="/images/models/audi/q8_e-tron/q8_50_e-tron/chargingcurve.svg" alt="Charge curve Q8 e-tron 50" class="img-fluid">
+<img src="https://evkx.net/images/models/audi/q8_e-tron/q8_50_e-tron/chargingcurve.svg" alt="Charge curve Q8 e-tron 50" class="img-fluid">
 
-<img src="/images/models/audi/q8_e-tron/q8_55_e-tron/chargingcurve.svg" alt="Charge curve Q8 e-tron 55" class="img-fluid">
+<img src="https://evkx.net/images/models/audi/q8_e-tron/q8_55_e-tron/chargingcurve.svg" alt="Charge curve Q8 e-tron 55" class="img-fluid">
 
 
 |Variant | Consumption 120km/h | Chargestops | Total time | Saved |
