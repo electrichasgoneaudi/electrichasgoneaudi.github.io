@@ -18,7 +18,7 @@ The battery for the Audi SQ8 e-tron and Audi Q8 e-tron has a gross capacity of 1
 It consists of 36 modules with 12 cells each, which gives a total of 432.
 The cells in each module are connected in a 4p3s configuration. Meaning 4 and 4 cells are grouped in parallel and then connected in serial.
 
-![114 kWh module](95kwhconnection.drawio.svg "Connection diagram 114kWh module with 4p3s configuration")
+<img src="95kwhconnection.drawio.svg" alt="Connection diagram 114kWh module with 4p3s configuration" class="img-fluid">
 
 Since each cell is on 72ah, each parallel group gives a capacity of 288Ah. (4 x 72ah)
 
