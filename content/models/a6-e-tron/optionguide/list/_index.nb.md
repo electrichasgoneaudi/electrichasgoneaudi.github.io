@@ -230,19 +230,19 @@ For Audi Q6 så har Audi sanlet teknologi i forskjellige pakker.  Valg av teknol
 </table>
 </div>
 
-## Felger
+## Hjul
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheels_1_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in wheels" >}}
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_65w_1_st.jpg" width="3000" height="2249" title="Audi A6 e-tron med hjul" >}}
 
-Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 21". Click in the wheel options below for high res pictures and detailed info.
+Audi A6 e-tron kan leveres med flere typer hjul fra 19" til 21". Klikk på hjulalternativene nedenfor for høyoppløselige bilder og detaljert informasjon.
 
 <div class="table-responsive">
 <table class="table table-striped border">
     <thead>
         <tr>
-        <th>Title
+        <th>Tittel
         </th>
-        <th>Description
+        <th>Beskrivelse
         </th>
         <th>
             ID
@@ -250,50 +250,53 @@ Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 21". C
     </thead>
     <tbody>
         <tr>
-            <td><a href="../../exterior/wheels/">10-eikers trapesdesign i sort metallic, glanspolerte</a></td>
-            <td>Dimensjon 8,5J | 10,0 J x 20 med 255/50 | 285/45 R 20 dekk</td>
-            <td>58R</td>
-        </tr>
-         <tr>
-            <td><a href="../../exterior/wheels/">5-arms aerodesign i sort metallic, glanspolerte, mørke</a></td>
-            <td>Dimensjon 9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21 dekk</td>
-            <td>C9K</td>
-        </tr>
-        <tr>
-            <td><a href="../../exterior/wheels/">5-dobbelteikers offsettdesign, grå silkematt, glanspolerte </a></td>
-            <td>Dimensjon 8,5 J | 10,0 J x 20 med 255/50 | 285/45 R 20 dekk</td>
-            <td>58Q</td>
-        </tr>
-        <tr>
-            <td><a href="../../exterior/wheels/">5 Y-eikers dynamikkdesign i sort metallic, glanspolerte</a></td>
-            <td>Dimensjon 9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21 dekk</td>
-            <td>V39</td>
-        </tr>
-        <tr>
-            <td><a href="../../exterior/wheels/">Felger i 5-arms strukturdesign, grafittgrå, glanspolerte</a></td>
-            <td>Dimensjon 8,5 J | 10,0 J x 20 med 255/50 | 285/45 R 20 dekk</td>
-            <td>52T</td>
-        </tr>
-         <tr>
-            <td><a href="../../exterior/wheels/">Felger i 5-dobbelteikers dynamikkdesign, grafittgrå, glanspolerte</a></td>
-            <td>Dimensjon 8,0 J | 9,0 J x 19 med 235/60 | 255/55 R 19 dekk</td>
-            <td>41M</td>
-        </tr>
-        <tr>
-            <td><a href="../../exterior/wheels/">Felger i 5-V-eikers strukturdesign, grafittgrå, glanspolerte</a></td>
-            <td>Dimensjon 9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21 dekk</td>
-            <td>46X</td>
-        </tr>
-                <tr>
-            <td><a href="../../exterior/wheels/">5-arms aerodesign i sort metallic, glanspolerte, mørke</a></td>
-            <td>Dimensjon 9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21 dekk</td>
+            <td><a href="../../exterior/wheels/">5-Arm-Dynamik, platinum gray</a></td>
+            <td>8,0 J | 8,5 J x 19, Dekk 225/25 | 245/50 R 19</td>
             <td></td>
+        </tr>
+         <tr>
+            <td><a href="../../exterior/wheels/">5-double-spoke embossing, platinum gray</a></td>
+            <td>8,0 J | 9,0 J x 20, Dekk 235/45 | 265/40 R 20</td>
+            <td>44L</td>
+        </tr>
+        <tr>
+            <td><a href="../../exterior/wheels/">20" 5-Arm-Aero, graphite gray, high-gloss turned</a> </td>
+            <td>8,0 J | 9,0 J x 20, Dekk 235/45 | 265/40 R 20</td>
+            <td>55J</td>
+        </tr>
+        <tr>
+            <td><a href="../../exterior/wheels/">20" Audi Sport, 5-Spoke Tripod, black metallic, high-gloss turned</a></td>
+            <td>8,0 J | 9,0 J x 20, Dekk 235/45 | 265/40 R 20</td>
+            <td>56J</td>
+        </tr>
+        <tr>
+            <td><a href="../../exterior/wheels/">20" Audi Sport, 10-Spoke Aero, gray silk matte, high-gloss turned</a></td>
+            <td>8,0 J | 9,0 J x 20, Dekk 235/45 | 265/40 R 2</td>
+            <td>56H</td>
+        </tr>
+         <tr>
+            <td><a href="../../exterior/wheels/">21" Multi-Spoke S, graphite gray, high-gloss turnedd</a></td>
+            <td>8,5 J | 9,5 J x 21, Dekk 245/40 | 275/35 R 21</td>
+            <td>55L</td>
+        </tr>
+         <tr>
+            <td><a href="../../exterior/wheels/">21" Audi Sport, 5-Arm Dynamic, black metallic</a></td>
+            <td>8,5 J | 9,5 J x 21, Dekk 245/40 | 275/35 R 21</td>
+            <td>58S</td>
+        </tr>
+        <tr>
+            <td><a href="../../exterior/wheels/">21" Audi Sport, 5-Arm Dynamic, black metallic, high-gloss turned</a></td>
+            <td>8,5 J | 9,5 J x 21, Dekk 245/40 | 275/35 R 21</td>
+            <td>56E</td>
+        </tr>
+        <tr>
+            <td><a href="../../exterior/wheels/">Audi Sport, 5-Double Spoke, black metallic, high-gloss turned, darkened</a></td>
+            <td>8,5 J | 9,5 J x 21, Dekk 245/40 | 275/35 R 21</td>
+            <td>65W</td>
         </tr>
     </tbody>
 </table>
 </div>
-
-
 
 ## Lys 
 

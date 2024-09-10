@@ -45,7 +45,8 @@ The battery for the Audi Q8 50 e-tron has a gross capacity of 95kWh (89kWh net) 
 It consists of 36 modules with 12 cells each, which gives a total of 432.
 The cells in each module are connected in a 4p3s configuration. Meaning 4 and 4 cells are grouped in parallel and then connected in serial.
 
-![95 kWh module](95kwhconnection.drawio.svg "Connection diagram 95kWh module with 4p3s configuration")
+
+<img src="95kwhconnection.drawio.svg" alt="Connection diagram 95kWh module with 4p3s configuration" class="img-fluid">
 
 Since each cell is on 60ah, each parallel group gives a capacity of 240Ah. (4 x 60ah)
 
@@ -125,9 +126,10 @@ The battery junction box (BJB), into which the high-voltage relays and fuses are
 Audi e-tron has been market-leading in average charging speed since its introduction. So how does this compare to the facelift? Together with [EVKX.net](https://evkx.net), electrichasgoneaudi.net gives you the
 details. Below is the charging curve for Audi Q8 50 e-tron (same as the Audi e-tron 55) and the Audi Q8 e-tron 55 with the new battery.
 
-![Charging curve](../../../../../../articles/e-tron-facelift-q8-etron-2024/chargingcurve95.svg)
+<img src="/images/models/audi/q8_e-tron/q8_50_e-tron/chargingcurve.svg" alt="Charge curve Q8 e-tron 50" class="img-fluid">
 
-![Charging curve](../../../../../../articles/e-tron-facelift-q8-etron-2024/chargingcurve114.svg)
+<img src="/images/models/audi/q8_e-tron/q8_55_e-tron/chargingcurve.svg" alt="Charge curve Q8 e-tron 55" class="img-fluid">
+
 
 |Variant | Consumption 120km/h | Chargestops | Total time | Saved |
 |-------|-------------|-------|------|-----|

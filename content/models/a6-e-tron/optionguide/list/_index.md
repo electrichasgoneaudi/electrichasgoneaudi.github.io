@@ -63,10 +63,10 @@ For the Audi A6, Audi has integrated technology in different packages. The choic
                 <li>Memory function for the driver’s seat</li>
                 <li>Adaptive cruise assistant plus</li>
                 <li>Proactive occupant protection front, side, and rear</li>
-                <li>e-tron sportslyd</li>
+                <li>e-tron sports sound</li>
                 <li>Side airbags in front and rear with head airbag system and front interaction airbag</li>
-                <li><a href="../../technology/drivingassistance/sideassist/">Side Assist</a></li>
-                <li>Nødstoppassistent unnamanøvringsassistent</li>
+                <li>Side Assist</a></li>
+                <li><a href="../../technology/drivingassistance/">Lane change and exit warning, rear cross-traffic assistant, and rear turn assistant</a></li>
                 <li><a href="../../technology/safety">Proactive passenger protection system for front, sides and rear</a></li>
                 <li>Occupant detection in rear seat area</li>
             </ul>
@@ -91,13 +91,12 @@ For the Audi A6, Audi has integrated technology in different packages. The choic
                 <li><a href="../../technology/drivingassistance/adaptivecruiseassist/">Adaptiv cruise assist</a></li>
                 <li><a href="../../technology/uiandoperations/mmi/">MMI passenger display</a></li>
                 <li><a href="../../technology/lights/">Digital lightsignatures</a></li>
-                <li>e-tron sportslyd</li>
+                <li>e-tron sports sound</li>
                 <li><a href="../../technology/safety">Side airbags in front and rear with head airbag system and front interaction airbag</a></li>
-                <li><a href="../../technology/drivingassistance/sideassist/">Side Assist</a></li>
-                   <li>Emergencyassist</li>
-                <li><a href="../../technology/drivingassistance/collisionavoidanceassist/">Unnamanøvringsassistent</a></li>
+                <li><a href="../../technology/drivingassistance/">Lane change and exit warning, rear cross-traffic assistant, and rear turn assistant</a></li>
                 <li><a href="../../technology/safety">Proactive passenger protection system for front, sides and rear</a></li>
                 <li>Occupant detection in rear seat area</li>
+                <li>Digital key</li>
                 <li><a href="../../drivetrain/suspension">Adaptiv air suspension</a></li>
                 <li>Soft-close function for doors</li>
                 <li>Electrically adjustable steering column</li>
@@ -146,7 +145,7 @@ For the Audi A6, Audi has integrated technology in different packages. The choic
 
 ## Paint Color & Paint trim
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/plasmablue_4_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in plasma blue" >}}
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/plasmablue_3_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in plasma blue" >}}
 
 With more than 60 different colors, serveral paint trim there huge amount of color combination available. 
 Click below for high-res pictures and details of each option. 
@@ -215,9 +214,9 @@ Click below for high-res pictures and details of each option.
 
 ## Wheels
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheels_1_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in wheels" >}}
+{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_65w_1_st.jpg" width="3000" height="2249" title="Audi A6 e-tron in wheels" >}}
 
-Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 22". Click in the wheel options belo for high res pictures and detailed info.
+Audi A6 e-tron can be delivered with serveral types of wheels from 19" to 21". Click in the wheel options belo for high res pictures and detailed info.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -233,44 +232,49 @@ Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 22". C
     </thead>
     <tbody>
         <tr>
-            <td><a href="../../exterior/wheels/">10-spoke trapezoid, metallic black, gloss turned finish Audi Sport alloy wheels</a></td>
-            <td>Dimensjon 8,5J | 10,0 J x 20 med 255/50 | 285/45 R 20 dekk</td>
+            <td><a href="../../exterior/wheels/">5-Arm-Dynamik, platinum gray</a></td>
+            <td>8,0 J | 8,5 J x 19, Tires 225/25 | 245/50 R 19</td>
             <td></td>
         </tr>
          <tr>
-            <td><a href="../../exterior/wheels/">5-arm 'aero' metallic black gloss turned finish Audi Sport alloy wheels</a></td>
-            <td>Dimensjon 9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21 dekk</td>
-            <td></td>
+            <td><a href="../../exterior/wheels/">5-double-spoke embossing, platinum gray</a></td>
+            <td>8,0 J | 9,0 J x 20, Tires 235/45 | 265/40 R 20</td>
+            <td>44L</td>
         </tr>
         <tr>
-            <td><a href="../../exterior/wheels/">5-twin-spoke offset, matt grey, gloss turned finish Audi Sport alloy wheels</a> </td>
-            <td>Dimensjon 8,5 J | 10,0 J x 20 med 255/50 | 285/45 R 20 dekk</td>
-            <td></td>
+            <td><a href="../../exterior/wheels/">20" 5-Arm-Aero, graphite gray, high-gloss turned</a> </td>
+            <td>8,0 J | 9,0 J x 20, Tires 235/45 | 265/40 R 20</td>
+            <td>55J</td>
         </tr>
         <tr>
-            <td><a href="../../exterior/wheels/">5-Y-spoke 'dynamic' style, metallic black, gloss turned finish Audi Sport alloy wheels</a></td>
-            <td>Dimensjon 9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21 dekk</td>
-            <td></td>
+            <td><a href="../../exterior/wheels/">20" Audi Sport, 5-Spoke Tripod, black metallic, high-gloss turned</a></td>
+            <td>8,0 J | 9,0 J x 20, Tires 235/45 | 265/40 R 20</td>
+            <td>56J</td>
         </tr>
         <tr>
-            <td><a href="../../exterior/wheels/">'5-arm' structure style, graphite grey, gloss turned finish alloy wheels</a></td>
-            <td>Dimensjon 8,5 J | 10,0 J x 20 med 255/50 | 285/45 R 20 dekk</td>
-            <td></td>
+            <td><a href="../../exterior/wheels/">20" Audi Sport, 10-Spoke Aero, gray silk matte, high-gloss turned</a></td>
+            <td>8,0 J | 9,0 J x 20, Tires 235/45 | 265/40 R 2</td>
+            <td>56H</td>
         </tr>
          <tr>
-            <td><a href="../../exterior/wheels/">Felger i 5-dobbelteikers dynamikkdesign, grafittgrå, glanspolerte</a></td>
-            <td>Dimensjon 8,0 J | 9,0 J x 19 med 235/60 | 255/55 R 19 dekk</td>
-            <td></td>
+            <td><a href="../../exterior/wheels/">21" Multi-Spoke S, graphite gray, high-gloss turnedd</a></td>
+            <td>8,5 J | 9,5 J x 21, Tires 245/40 | 275/35 R 21</td>
+            <td>55L</td>
+        </tr>
+         <tr>
+            <td><a href="../../exterior/wheels/">21" Audi Sport, 5-Arm Dynamic, black metallic</a></td>
+            <td>8,5 J | 9,5 J x 21, Tires 245/40 | 275/35 R 21</td>
+            <td>58S</td>
         </tr>
         <tr>
-            <td><a href="../../exterior/wheels/">Felger i 5-V-eikers strukturdesign, grafittgrå, glanspolerte</a></td>
-            <td>Dimensjon 9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21 dekk</td>
-            <td></td>
+            <td><a href="../../exterior/wheels/">21" Audi Sport, 5-Arm Dynamic, black metallic, high-gloss turned</a></td>
+            <td>8,5 J | 9,5 J x 21, Tires 245/40 | 275/35 R 21</td>
+            <td>56E</td>
         </tr>
-                <tr>
-            <td><a href="../../exterior/wheels/">Felger fra Audi Sport i 5-arms aerodesign i sort metallic, glanspolerte, mørke</a></td>
-            <td>Dimensjon 9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21 dekk</td>
-            <td></td>
+        <tr>
+            <td><a href="../../exterior/wheels/">Audi Sport, 5-Double Spoke, black metallic, high-gloss turned, darkened</a></td>
+            <td>8,5 J | 9,5 J x 21, Tires 245/40 | 275/35 R 21</td>
+            <td>65W</td>
         </tr>
     </tbody>
 </table>
