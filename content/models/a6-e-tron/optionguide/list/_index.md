@@ -350,7 +350,7 @@ Duration can be selected</td>
             <li>Dynamic lighting for the coming home/leaving home function while stationary</li>
             </ul>
             </td>
-            <td>Standard SQ6 and parth of Tech (PQA)</td>
+            <td>Standard S6 and parth of Tech (PQA)</td>
         </tr>
         <tr>
             <td><a href="../../technology/lights/">Matrix LED headlights</a></td>
@@ -393,8 +393,30 @@ Duration can be selected</td>
                 <li>Rear license plate lights</li>
                 <li>Reversing lights</li>
                 <li>illuminated strip of lights</li>
-                <li>Dynamic lighting for the coming home/leaving home function while stationary</li
+                <li>Dynamic lighting for the coming home/leaving home function while stationary</li>
                 </ul></td>
+            <td></td>
+        </tr>
+           <tr>
+            <td><a href="../../technology/lights/">Digital OLED rear lights</a></td>
+            <td>
+                        The second generation of the innovative, digital OLED technology of the rear lights enables a new level of novel light design and achieves impressive homogeneity and sharp contrasts in illumination.
+                            The light signature with a continuous light strip is a visible identification mark to the rear. Three-dimensional effects enable impressive light scenarios and staging. In conjunction with the digital light signature equipment9, 10, up to eight different tail light signatures are possible.
+                            The digital OLED rear lights include:
+                            <ul>
+                            <li>Dynamic turn signals</li>
+                            <li>Continuous light strip</li>
+                            <li>Dynamic light staging of the Coming Home/Leaving Home function</li>
+                            <li>In conjunction with the digital light signature equipment9, 10, up to eight different tail light signatures selectable via MMI or the myAudi App</li>
+                            <li>Approach detection</li>
+                            <li>Communication light</li>
+                            </ul>
+                            The communication light proactively warns other road users of accidents and breakdowns by displaying warning symbols in the digital OLED rear light. The data from local hazard information is used to warn of events on the route such as breakdowns, accidents, reduced visibility, and skidding hazards.
+                            Furthermore, in the communication light the illuminated area of the digital OLED segments automatically enlarges when other road users approach the stationary vehicle from behind.
+                            During an automated parking process the communication light displays a specific tail light signature with a corresponding indicator symbol within the digital OLED rear light.
+                            The division of the OLEDs into small, individually controllable segments with a three-dimensional effect enables new light scenarios with impressive staging. The dynamic light staging of the Coming Home/Leaving Home function appears almost futuristic. It is also coordinated with the selected tail light signature and provides additional brightness on the way to or from the vehicle.
+                            Note: Only available in conjunction with Tech Pro (PQC) in the A6 e-tron and S6 e-tron.
+            </td>     </td>
             <td></td>
         </tr>
         <tr>

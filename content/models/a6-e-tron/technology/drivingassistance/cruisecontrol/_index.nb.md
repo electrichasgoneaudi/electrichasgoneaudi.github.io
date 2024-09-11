@@ -1,0 +1,22 @@
+---
+title: Audi Q6 e-tron cruise kontroll
+linktitle: Cruise control
+description: Audi Q6 e-tron har cruise kontroll. Cruisekontroll opprettholder en ønsket kjørehastighet konstant med start på rundt 30 km/t (18,6 mph), forutsatt at den kan opprettholdes av motorkraft og motorbremseffekt.
+weight: 1
+sectiontabs: "/nb/models/q6-e-tron/technology/"
+---
+
+<!-- markdownlint-disable MD033 -->
+<figure>
+    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/cruisecontrol/cruisecontrolhandle.jpg">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/cruisecontrol/cruisecontrolhandles.jpg"
+        class="img-fluid" alt="Cruise control hendel" title="Cruise control hendel">
+    </a>
+    <figcaption><h4>Cruise control hendel</h4></figcaption>
+</figure>
+
+Systemet gir avlastning til sjåførene på denne måten – spesielt på lange turer. Samtidig bidrar kjøringen med konstant hastighet til lavere drivstofforbruk og lavere CO2-utslipp. Systemet betjenes via en separat rattstamme, og forhåndsinnstilt kjørehastighet vises i instrumentgruppen. Systemet deaktiveres når føreren bremser.
+
+Cruise control er standard på Audi Q8 e-tron men ersattes ofte av [Adaptive Cruise Control](../adaptivecruisecontrol/)
+
+{{<children description="true" />}}
