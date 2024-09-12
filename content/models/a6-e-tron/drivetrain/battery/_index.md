@@ -49,8 +49,8 @@ Below is the charging curve for 100 kWh battery. Source [EVKX.net](https://evkx.
 
 
 <figure>
-    <a href="https://evkx.net/images/models/audi/q6_e-tron/q6_e-tron_quattro/chargingcurve.svg">
-        <img src="https://evkx.net/images/models/audi/q6_e-tron/q6_e-tron_quattro/chargingcurve.svg"" class="img-fluid" alt="Charging Curve" title="Charging Curve">
+    <a href="https://evkx.net/images/models/audi/a6_e-tron/a6_sportback_e-tron_performance/chargingcurve.svg">
+        <img src="https://evkx.net/images/models/audi/a6_e-tron/a6_sportback_e-tron_performance/chargingcurve.svg"" class="img-fluid" alt="Charging Curve" title="Charging Curve">
     </a>
     <figcaption><h4>Charging Curve</h4></figcaption>
 </figure>

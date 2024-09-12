@@ -43,4 +43,11 @@ På grunn av høy temperaturhomogenitet inne i batteriet, kan ytelsen økes - de
 
 ## Ladekurve
 
-Nedenfor er ladekurven for 100 kWh batteri. Kilde [EVKX.net](https://evkx.net/models/audi/q6_e-tron/q6_e-tron_quattro/chargingcurve/)
+Nedenfor er ladekurven for 100 kWh batteri. 
+
+<figure>
+    <a href="https://evkx.net/images/models/audi/a6_e-tron/a6_sportback_e-tron_performance/chargingcurve.svg">
+        <img src="https://evkx.net/images/models/audi/a6_e-tron/a6_sportback_e-tron_performance/chargingcurve.svg"" class="img-fluid" alt="Charging Curve" title="Charging Curve">
+    </a>
+    <figcaption><h4>Charging Curve</h4></figcaption>
+</figure>

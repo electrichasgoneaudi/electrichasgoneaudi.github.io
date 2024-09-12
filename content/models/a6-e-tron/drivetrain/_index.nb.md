@@ -6,7 +6,7 @@ weight: 7
 ---
 
 
-{{< sitefiguresized thumb="technology/bev-platforms/ppe/drivetrain.jpg" width="1700" height="1300" title="Audi/Porsche PPE drivetrain" >}}
+{{< sitefiguresized thumb="models/a6-e-tron/drivetrain/drivetrain_1_st.jpg" width="3000" height="1640" title="Audi a6 e-tron drivetrain" >}}
 
 
 Below you find details about the most important components of that drivetrain.
