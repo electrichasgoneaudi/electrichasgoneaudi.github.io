@@ -61,7 +61,7 @@ Audi Matrix LED-teknologien muliggjør presis og høyoppløselig belysning av ve
 
 Hvis kjøretøy oppdages av kamerasystemet, skjuler systemet selektivt kun dette området, mens fjernlyset forblir aktivt i de resterende segmentene. Den betydelig forbedrede belysningen av veien sammenlignet med LED-lykter kan øke sikkerheten og komforten når du kjører i mørket.
 
-{{< sitefiguresized thumb="models/q6-e-tron/technology/lights/headlights_1_st.jpg" width="3000" height="2249" title="Audi A6 e-tron med LED Matrix frontlykter og Matrix DRL" >}}
+{{< sitefiguresized thumb="models/a6-e-tron/technology/lights/headlights_ledplus_1_st.jpg" width="3000" height="1707" title="Audi A6 e-tron with standard LED headlights" >}}
 
 ## Baklys
 
@@ -107,7 +107,9 @@ Audi utvikler gradvis teknologien til intelligente displayer som kan kommunisere
 A6 e-tron markerer ikke bare et nytt kapittel innen elektromobilitet hos Audi; lysteknologi er en viktig del av Audis DNA. Med verdens første aktive digitale lyssignatur innleder Audi A6 e-tron en ny æra preget av særegen design og estetikk unik for Audi.
 
 
-{{< sitefiguresized thumb="models/q6-e-tron/technology/lights/lights_2_st.jpg" width="3000" height="2000" title="Audi A6 e-tron baklys" >}}
+{{< sitefiguresized thumb="models/a6-e-tron/technology/lights/headlights_2_st.jpg" width="3000" height="1999" title="Audi A6 e-tron headllights" >}}
+
+
 
 Andregenerasjons digital OLED-teknologi former utseendet til nye Audi-modeller og øker funksjonsutvalget mange ganger. Dette forbedrer igjen trafikksikkerheten, noe som på imponerende vis demonstreres av kommunikasjonslyset i de digitale OLED-baklysene. A6 e-tron setter også nye standarder innen personalisering: Med totalt åtte valgfrie digitale lyssignaturer i de redesignede kjørelysene i Matrix LED-frontlysene og digitale OLED-baklys 2.0, kan kundene designe utseendet til A6 e-tron som aldri før. Dette er mulig via MMI og, for første gang, via myAudi-appen. Kunder kan også kjøpe digitale lyssignaturer etter å ha kjøpt bilen.
 #### Signatur og bevegelse kombinert for første gang: den aktive digitale lyssignaturen
@@ -124,8 +126,8 @@ I 2020 kunne Audi Q5-kunder velge en individuell baklyssignatur for første gang
 
 I 2022 ble dette alternativet standard i Audi A8 med digitale OLED-baklys. Bilens bussystem tillot programvaren å kontrollere hvert baklyspanel og hvert OLED-segment individuelt. I A8 kunne kundene velge mellom tre baklyssignaturer via MMI; i S8 kunne de velge mellom fire.
 
-{{< sitefiguresized thumb="models/q6-e-tron/technology/lights/oleddetails_1_st.jpg" width="3000" height="1625" title="Audi A6 e-tron med OLED-baklys" >}}
 
+{{< sitefiguresized thumb="models/a6-e-tron/technology/lights/oledrearlights_1_st.jpg" width="3000" height="1777" title="Audi A6 e-tron with OLED taillights" >}}
 
 
 "Audi erkjente tidlig potensialet ved å bruke OLED-teknologi i baklys og har siden fortsatt systematisk fremme utviklingen og digitaliseringen som den eneste bilprodusenten som gjør det. Som et resultat kan vi nå tilby våre kunder et stadig nytt utvalg av belysningsfunksjoner, forklarer Stephan Berlitz, Head of Lighting Development, og demonstrerer en klar strategi bak bruken av denne teknologien. "Digitale OLED-er er mer effektive, lettere og mer homogene enn tradisjonelle belysningssystemer," fortsetter Berlitz, og gir et glimt av fremtiden: "På grunn av deres sterke kontrast, blir de gradvis til utvendige skjermer, noe som gjør dem til en viktig muliggjører for kommunikasjon med bilens omgivelser. Med funksjonen for nærhetsindikasjon har vi brukt lys for å samhandle med andre trafikanter siden 2020. Audi A6 e-tron legger nå til kommunikasjonslyset for å forbedre trafikksikkerheten ytterligere.»
@@ -138,7 +140,8 @@ Den innovative digitale OLED-teknologien skaper forutsetninger for et helt nytt 
 Audi fornyer også fronten på bilen. Den neste generasjonen av digitale kjørelys og lysmodulene er nå visuelt adskilte, noe som skaper større designklarhet. Designerne har designet de individuelle LED-ene – 70 totalt – i denne nye utviklingen av digitale kjørelys som transparente 3D-objekter. Den fremre delen av de digitale kjørelysene har en presis prismatisk struktur, mens en metallisert 3D-trim omgir dem for å trekke fokus til bilens digitale øyne.
 
 
-{{< sitefiguresized thumb="models/q6-e-tron/technology/lights/animation_rear_2.gif" width="1920" height="1440" title="Audi A6 e-tron med OLED-baklys" >}}
+{{< sitefiguresized thumb="models/a6-e-tron/technology/lights/headlights_2_st.jpg" width="3000" height="1999" title="Audi A6 e-tron headllights" >}}
+
 
 ## Forbedret sikkerhet takket være intelligente frontlykter og baklys
 
