@@ -1,123 +1,175 @@
 ---
-title: Audi Q6 e-tron varianter
+title: Audi A6 e-tron varianter
 linktitle: Varianter
-description: The Audi Q6 e-tron is currently available in 4 different variants, with more expected variants.
+description: Audi A6 e-tron er forventet å være tilgjengelig i 4 forskjellige varianter, med flere forventede varianter.
 weight: 1
 ---
 
-{{< sitefiguresized thumb="models/q6-e-tron/variants/variants_1_st.jpg" width="3000" height="2250" title="Audi SQ6 e-tron & Audi Q6 e-tron" >}}
-
-
 <!-- markdownlint-disable MD033 -->
-### Audi Q6 e-tron performance
 
-Denne varianten er rwd-modellen med stort 100kWh batteri og 240kW/326hp.
+{{< sitefiguresized thumb="models/a6-e-tron/variants/variants_1_st.jpg" width="3000" height="2250" title="Audi A6 e-tron varianter" >}}
 
-Audi Q6 SUV e-tron inkluderer følgende som standard
+### Audi A6 Sportback e-tron
 
-**Eksterioer:**
+Denne varianten er standardversjonen med bakhjulsdrift og 83kWh batteri. Forventet WLTP er rundt 500km. Denne varianten er bekreftet, men navnet er ikke offisielt.
 
-- Advanced eksteriør
-- Bunnlinje i Mythos Black kontrastlakk
-- Enkel ramme i kroppsfarge
-- LED-frontlykter og LED-baklys
-- Hjul, 10-eiker, 8,0 J x 18 med dekk 235/65 R 18
-foran, 9,0 J x 18 med dekk 255/60 R 18 bak
-- Sort vinduskant
-- Takreling matt sort
+### Audi A6 Sportback e-tron performance
 
-**Interiør:**
+Denne varianten er bakhjulsdriftsmodellen med et 100kWh batteri og 240kW/326hk.
 
-- Standard forseter i stoffargument
-- Dekorativt innlegg fin vulkangrå lakk
-- Myk innpakning
-- Dobbeleikert skinnratt med multifunksjon
-- Pakke med omgivelseslys
-- Dørterskelplater med aluminiumsinnsatser foran
+Audi A6 Sportback e-tron inkluderer følgende standardfunksjoner:
 
-[Se detaljert spesifikasjon](../specifications/#audi-q6-e-tron-quattro)
-
-
-### Audi Q6 e-tron quattro
-
-Denne varianten er entry quattro-modellen med 285kW/385HP for EU-versjonen og 340kW og 433 BPH for den amerikanske versjonen.
-
-Audi Q6 SUV e-tron inkluderer følgende som standard
-Omfang:
-
-**Ytre:**
-
-- avansert eksteriør
-- Bunnlinje i Mythos Black kontrastlakk
-- Enkel ramme i kroppsfarge
-- LED-frontlykter og LED-baklys
-- Hjul, 10-eiker, 8,0 J x 18 med dekk 235/65 R 18
-foran, 9,0 J x 18 med dekk 255/60 R 18 bak
-- Sort vinduskant
-- Takreling matt sort
+**Eksteriør:**
+- Avansert eksteriør
+- Singleframe i karosserifarge
+- LED-frontlykter og LED-baklykter
+- Felger, 5-arm dynamisk, platina grå, 8.0 J | 8.5 J x 19, dekk 225/25 | 245/50 R 19
+- Vindu trim i matt aluminium sølv
+- Bakre diffuser i høyglans svart
 
 **Interiør:**
+- Standard forseter i Argument stoff
+- Dekorative innlegg i matt børstet antrasitt aluminium
+- Softwrap
+- Dobbelt-eiket skinnratt med multifunksjon og krom-look applikasjon
+- Ambient belysningspakke
+- Dørterskeltrimmer med aluminiuminnlegg foran
 
-- Standard forseter i stoffargument
-- Dekorativt innlegg fin vulkangrå lakk
-- Myk innpakning
-- Dobbeleikert skinnratt med multifunksjon
-- Pakke med omgivelseslys
-- Dørterskelplater med aluminiumsinnsatser foran
+For mer informasjon om standardutstyret, vennligst se utstyrsseksjonen.
 
-[Se detaljert spesifikasjon](../specifications/#audi-q6-e-tron-quattro)
+[Se detaljert spesifikasjon](../specifications/)
 
-### Audi SQ6 e-tron
+### Audi A6 Avant e-tron performance
 
-Ytelsesvariant.
+Audi A6 Avant e-tron inkluderer følgende standardfunksjoner:
 
-Audi SQ6 SUV e-tron inkluderer følgende som standard
-Omfang:
+**Eksteriør:**
+- Avansert eksteriør
+- Singleframe i karosserifarge
+- LED-frontlykter og LED-baklykter
+- Felger, 5-arm dynamisk, platina grå, 8.0 J | 8.5 J x 19, dekk 225/25 | 245/50 R 19
+- Vindu trim i matt aluminium sølv, takspoiler trim i matt sølv krom look
+- Bakre diffuser i høyglans svart
 
-**Ytre:**
-
-- S modell eksteriør
-- Bunnlinje i Mythos Black kontrastlakk
-- Enkel ramme i kroppsfarge med aluminiumsinnsatser
-- LED-hovedlys pluss med dynamisk belysning
-og LED-baklys pro med et kontinuerlig lysbånd
-- S sportsunderstell
-  -Hjul, 5-arms struktur, grafittgrå, høyglans finish2,
-8,5 J x 20 med dekk 255/50 R 20 foran, 10,0 J x 20
-med 285/45 R 20 dekk bak
-- Sort vinduskant
-- Ytterspeilhus i krom-look matt sølv
-- Takrails i aluminium
-- e-tron sportslyd
-  
 **Interiør:**
+- Standard forseter i Argument stoff
+- Dekorative innlegg i matt børstet antrasitt aluminium
+- Softwrap
+- Dobbelt-eiket skinnratt med multifunksjon og krom-look applikasjon
+- Ambient belysningspakke
+- Dørterskeltrimmer med aluminiuminnlegg foran
+- Skillevegg
 
-- Sportsseter i sort skinn/kunstskinn kombinasjon
-- Dekorativt innlegg i aluminium mattbørstet antrasitt
-- Myk innpakning
-- Skinnsportsratt, 3-eiker, flatet i topp og bunn
-med multifunksjons- og girsvinger inkludert S-emblem
-- Pedaler og fotstøtte laget av rustfritt stål
-- Pakke med omgivelseslys
-- Dørterskelplater med aluminiumsinnsatser foran, opplyst
-med S-bokstav
+For mer informasjon om standardutstyret, vennligst se utstyrsseksjonen.
+
+[Se detaljert spesifikasjon](../specifications/)
+
+### Audi A6 Sportback e-tron quattro
+
+Denne varianten er inngangsmodellen med quattro og 285kW/385HK for EU-versjonen og 340kW og 433 BPH for US-versjonen.
+
+**Eksteriør:**
+- Avansert eksteriør
+- Singleframe i karosserifarge
+- LED-frontlykter og LED-baklykter
+- Felger, 5-arm dynamisk, platina grå, 8.0 J | 8.5 J x 19, dekk 225/25 | 245/50 R 19
+- Vindu trim i matt aluminium sølv, takspoiler trim i matt sølv krom look
+- Bakre diffuser i høyglans svart
+
+**Interiør:**
+- Standard forseter i Argument stoff
+- Dekorative innlegg i matt børstet antrasitt aluminium
+- Softwrap
+- Dobbelt-eiket skinnratt med multifunksjon og krom-look applikasjon
+- Ambient belysningspakke
+- Dørterskeltrimmer med aluminiuminnlegg foran
+- Skillevegg
+
+For mer informasjon om standardutstyret, vennligst se utstyrsseksjonen.
+
+[Se detaljert spesifikasjon](../specifications/)
+
+### Audi A6 Avant e-tron quattro
+
+**Eksteriør:**
+- Avansert eksteriør
+- Singleframe i karosserifarge
+- LED-frontlykter og LED-baklykter
+- Felger, 5-arm dynamisk, platina grå, 8.0 J | 8.5 J x 19, dekk 225/25 | 245/50 R 19
+- Vindu trim i matt aluminium sølv, takspoiler trim i matt sølv krom look
+- Bakre diffuser i høyglans svart
+
+**Interiør:**
+- Standard forseter i Argument stoff
+- Dekorative innlegg i matt børstet antrasitt aluminium
+- Softwrap
+- Dobbelt-eiket skinnratt med multifunksjon og krom-look applikasjon
+- Ambient belysningspakke
+- Dørterskeltrimmer med aluminiuminnlegg foran
+- Skillevegg
+
+For mer informasjon om standardutstyret, vennligst se utstyrsseksjonen.
+
+[Se detaljert spesifikasjon](../specifications/)
+
+### Audi S6 Sportback e-tron
+
+Performance variant.
+
+Audi S6 Sportback e-tron inkluderer følgende standardfunksjoner:
+
+**Eksteriør:**
+- Singleframe i karosserifarge med sølvinnsats
+- Opplyste Audi-ringer bak
+- LED-frontlykter pluss og LED-baklykter pro
+- Audi Sport felger, 5-eiket tripod, svart metallic, 
+  glans-snudde, 8.0 J | 9.0 J x 20, dekk 235/45 | 265/40 R 20*
+- Foran skivebremser, 20 tommer, svarte bremsekalipere med S-logo 
+  og bakre skivebremser, 18 tommer, svarte bremsekalipere
+- Eksteriør speilhus i matt sølv krom look
+- Vindu trim i matt aluminium sølv
+- Side luftinntak foran i matt sølv krom look
+- Bakspoiler i høyglans svart
+- Bakre diffuser i høyglans svart med aksenter i matt sølv krom look
+
+**Interiør:**
+- S interiør med sportseter, skinn/kunstskinn kombinasjon i svart
+- Dekorative innlegg i matt børstet aluminium med lineær preging i antrasitt
+- Softwrap
+- Sport skinnratt, 3-eiket, flatt på toppen og bunnen, med 
+  multifunksjon og skiftepaddler med S-emblem og applikasjon 
+  i krom look
+- Ambient belysningspakke
+- Dørterskeltrimmer med aluminiuminnlegg foran, opplyst, 
+  med S-logo
 
 [Se detaljert spesifikasjon](../specifications/#audi-sq6-e-tron)
 
+### Audi S6 Avant e-tron
 
-### Audi Q6 e-tron
+Audi S6 Avant e-tron inkluderer følgende standardfunksjoner:
 
-Denne varianten er standardversjonen med RWD og 83kWh batteri. Jeg forventet at WLTP skulle være rundt 500 km. Denne varianten er bekreftet, men navnet er ikke offisielt.
+**Eksteriør:**
+- Singleframe i karosserifarge med sølvinnsats
+- Opplyste Audi-ringer bak
+- LED-frontlykter pluss og LED-baklykter pro
+- Audi Sport felger, 5-eiket tripod, svart metallic, glans-snudde, 8.0 J | 9.0 J x 20, dekk 235/45 | 265/40 R 20*
+- Foran skivebremser, 20 tommer, svarte bremsekalipere med S-logo og bakre skivebremser, 18 tommer, svarte bremsekalipere
+- Eksteriør speilhus i matt sølv krom look
+- Vindu trim i matt aluminium sølv, takspoiler trim i matt sølv krom look
+- Takspoiler
+- Side luftinntak foran i matt sølv krom look
+- Bakre diffuser i høyglans svart med aksenter i matt sølv krom look
 
+**Interiør:**
+- S interiør med sportseter, skinn/kunstskinn kombinasjon i svart
+- Dekorative innlegg i matt børstet aluminium med lineær preging i antrasitt
+- Softwrap
+- Sport skinnratt, 3-eiket, flatt på toppen og bunnen, med multifunksjon og skiftepaddler med S-emblem og applikasjon i krom look
+- Ambient belysningspakke
+- Dørterskeltrimmer med aluminiuminnlegg foran, opplyst, med S-logo
+- Skillevegg
 
-### Audi RSQ6 
+### Audi RS6 Avant e-tron
 
-Dette er de superytende versjonene. Jeg forventet rundt 600 HK, som Macan Turbo. Denne varianten er ikke bekreftet, men prototyper har blitt sett testet.
-
-## Sportback version
-
-Sportback-versjoner av de ovennevnte modellene vil også bli utgitt. De første Sportback-versjonene forventes å ha verdenspremiere sommeren 2024.
-
-
-{{< sitefiguresized thumb="models/q6-e-tron/prototype7_st.jpg" width="1920" height="1080" title="Audi Q6 Sportback e-tron prototype by Motor1.com" >}}
-
+Dette er super-performance versjonene. Forventet rundt 600HK, som Macan Turbo. Denne varianten er ikke bekreftet, men prototyper har blitt sett testet.
