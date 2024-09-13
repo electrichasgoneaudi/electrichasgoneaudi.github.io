@@ -1,5 +1,5 @@
 ---
-title: Audi Q6 e-tron interior
+title: Audi A6 e-tron interior
 linktitle: Interior
 description: The interior of the Audi A6 e-tron is consistently geared towards the users’ needs.
 weight: 7
@@ -23,7 +23,7 @@ The interior offers plentiful storage space and various compartments. The center
 
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="seats/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/interior/seats/seatdesign_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<a href="seats/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/interior/seats/seatdesign_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron lights" ></a>
 	<h2>Seats</h2>
 	<p>
 		Audi A6 e-tron offers three different seat options

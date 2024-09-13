@@ -163,3 +163,5 @@ Via myAudi-appen kan kundene aktivere sine personlige lyssignaturer fra utsiden 
 
 
 For en enda større grad av personalisering for A6 e-tron kan kundene bestille pakken med digitale lyssignaturer for LED-hovedlyktene pluss/Matrix LED-lyktene og digitale OLED-baklysene etter å ha kjøpt bilen ved hjelp av on-demand-funksjoner. Kunder kan kjøpe funksjonene permanent eller for en bestemt periode. Denne fleksibiliteten lar Audi-kunder designe sin A6 e-tron med opptil åtte digitale lyssignaturer (kun i forbindelse med digitale OLED-baklys og LED-hovedlys pluss/Matrix LED-frontlys) for å passe personlige preferanser. Til slutt kan de også kjøpe fjernlysassistent og Matrix-pakken på forespørsel.
+
+{{< youtube uFxy0cYKrD8 >}}
