@@ -42,7 +42,9 @@ Standard color. Solid
 
 {{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/ascariblue_3_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in ascari blue" >}}
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/ascariblue_4_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in ascari blue" >}}
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/ascariblue_5_st.jpg" width="2300" height="1500" title="Audi Q6 e-tron in ascari blue" >}}
+
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/ascariblue_6_st.jpg" width="3000" height="2003" title="Audi Q6 e-tron in ascari blue" >}}
 
 
 
