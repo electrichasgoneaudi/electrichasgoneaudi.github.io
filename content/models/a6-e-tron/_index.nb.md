@@ -126,25 +126,37 @@ Digital Matrix LED-frontlyktene oppnår nærmest kinokvalitet. Hvis for eksempel
 Audi A6 e-tron vil være tilgjengelig med forskjellige førerassistansepakker. Mange vil være standard mens andre er alternativer.
 Systemene inkluderer Audi Cruise Assist, Audi active lane assist, Audi pre sense og mange mange flere.
 
-## Tilvalg
+## Utstyrsnivå og utstyrsvalg
 
-Audi A6 e-tron vil være tilgjengelig med flere alternativer. Audi planlegger å redusere antall kombinasjoner av alternativer. Så i stedet for at de fleste alternativene tilbys separat som Audi e-tron, vil de introdusere tilleggspakker.
+Audi A6 e-tron er tilgjengelig med flere alternativer og utstyrsnivåer.
 
-<figur>
-     <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-5.jpg">
-         <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-5s.jpg" class="img-fluid" alt="Audi A6 e-tron concept" title="Audi A6 e- tron-konsept">
-     </a>
-     <figcaption><h4>Audi A6 e-tron med virtuelle speil</h4></figcaption>
-</figur>
+- S-line eksteriør
+- Sorte optikk
+- Ulike hjul
+- Ulike seter, inkludert seter med massasje og ventilasjon
+- Ulike førerassistentsystemer
+- Ulike lys
+
+Audi har redusert antall kombinasjoner av alternativer. Så i stedet for at de fleste alternativene tilbys separat, som på Audi Q8 e-tron, har de introdusert utstyrspakker.
+
+Les alt om alternativene i [Audi A6 e-tron utstyrsseksjonen](optionguide)
 
 ## Bilder og video
 
-Se detaljert video fra @auditography
+See detailed video from @auditography
 
+<p>
 {{< youtube Pn421Y2GjEY >}}
+</p>
 
+<p>
 {{< youtube _j9uw6lxT3I >}}
+</p>
 
+<p>
 {{< youtube eqIbYx5QW0k >}}
+</p
 
+<p>
 {{< youtube 0wUaMniPIIY >}}
+</p>
