@@ -5,15 +5,4 @@ description: We have collected frequently asked questions about Audi e-tron and 
 weight: 30
 ---
 
-## Charging
-
-- [Why is my Audi e-tron charging speed much slower than expected](whyhpcchargingslow)
-
-## myAudi App
-
-- Why I am not able to control my car throug myAudi? 
-  
-## Consumption & Range
-
-- What is the most efficient recupperation mode
-- [Why is my Audi e-tron showing a lower range than expected?](lowrange)
+Will be updated when there is common question
