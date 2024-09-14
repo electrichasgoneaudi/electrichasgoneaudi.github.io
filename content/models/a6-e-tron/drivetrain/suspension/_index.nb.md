@@ -10,17 +10,13 @@ De fleste systemene og komponentene som tilhører chassiset til A6 e-tron modell
 
 Den delvis redesignede forakselen har en betydelig innflytelse på kjøredynamikken til Audi A6 e-tron. For første gang i en Audi-modell er kontrollarmene plassert foran opphengsarmene i kjøreretningen. Dette resulterer fremfor alt i pakkefordeler til fordel for arrangementet av høyspenningsbatteriet
 
-{{< sitefiguresized thumb="models/q6-e-tron/drivetrain/suspension/suspension_1_st.jpg" width="3000" height="2056" title="Audi A6 frontfjæring med standard komfortfjæring" >}}
-
-{{< sitefiguresized thumb="models/q6-e-tron/drivetrain/suspension/suspension_2_st.jpg" width="3000" height="2056" title="Audi A6 frontfjæring med adaptiv luftfjæring" >}}
+{{< sitefiguresized thumb="models/a6-e-tron/drivetrain/suspension/suspension_1_st.jpg" width="3000" height="1710" title="Audi A6 front suspension with adaptive air suspension" >}}
 
 De nyutviklede komponentene fører til forbedrede kinematiske egenskaper. Styringen er nå boltet til en underramme. Den raffinerte akselkinematikken gir merkbart mer kjøredynamikk. Den nye forakselen forbedrer også styreoppførselen. Dette gjør at kjøretøyet fremstår betydelig mer smidig. Den avstivete torsjonsstangen i styringen bidrar også til økt styrepresisjon. Nye programvaremoduler i styringen, samt modifiserte hjulseksjoner, optimaliserer styretilbakemeldingen ytterligere og dermed styrefølelsen.
 
 Med kombinasjonen av det nye passive dempingsystemet FSD (Frequency Selective Damping) og den mer smidige forakselen er Audi A6 e-tron enda mer dyktig på vei. FSD reduserer dempingskrefter, spesielt ved høye frekvenser, for eksempel på brostein, og opprettholder høye dempekrefter ved lave frekvenser, slik som de som oppstår ved filbytte eller svinger. Den adaptive luftfjæringen – luftfjæringen med kontrollert demping – gir kjøretøyet stor spredning mellom jevn kjørekomfort og sportslig håndtering. Avhengig av hastighet og førerens ønsker tilpasser den seg individuelt til veiforholdene og regulerer kjørehøyden på ulike nivåer. Luftfjæringen tilbyr også nivåkontroll for ulike belastningsforhold.
 
-{{< sitefiguresized thumb="models/q6-e-tron/drivetrain/suspension/suspension_3_st.jpg" width="3000" height="2056" title="Audi A6 frontfjæring med standard komfortfjæring" >}}
-
-{{< sitefiguresized thumb="models/q6-e-tron/drivetrain/suspension/suspension_4_st.jpg" width="3000" height="2056" title="Audi A6 frontfjæring med adaptiv luftfjæring" >}}
+{{< sitefiguresized thumb="models/a6-e-tron/drivetrain/suspension/suspension_2_st.jpg" width="3000" height="1710" title="Audi A6 rear suspension with adaptive air suspension" >}}
 
 Den sentrale chassiskontrollenheten, Electronic Chassis Platform (ECP), regulerer driften av demperne individuelt for hvert hjul hvert millisekund – avhengig av veibanen, kjørestilen og modusen valgt i Audi drive select dynamisk håndteringssystem. Elektromagnetiske spjeldventiler varierer strømmen av hydraulikkvæsken. Den elektronisk styrte, adaptive luftfjæringen (tilleggsutstyr) med trinnløst justerbart dempesystem på alle fire hjul regulerer automatisk kjøretøyets nivå og demping. Dette gir den elektriske SUV-en høy kjørekomfort på den ene siden, men tilbyr også forbedret kjøredynamikk på den andre. Ulike moduser, inkludert nivåkontroll og manuell løftefunksjon på alle fire hjul og senkefunksjon på bakakselen, stilles inn via Audi drive select. Avhengig av valgt modus, senkes kjøretøyet med opptil 30 millimeter (1,2 tommer) avhengig av hastigheten. Senking av bakakselen (minus 50 millimeter (2 tommer), aktivert av en knapp i bagasjerommet) gjør det lettere å få tilgang til bagasjerommet og koble til en tilhenger.
 

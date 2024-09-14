@@ -149,35 +149,7 @@ Audi A6 e-tron will be available with several options. Audi plans to reduce the 
 
 See detailed video from @auditography
 
-{{< youtube _BhLriimGQE >}}
+{{< youtube Pn421Y2GjEY >}}
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-1s.jpg" class="img-fluid" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
-    </a>
-    <figcaption><h4>Audi A6 e-tron concept</h4></figcaption>
-</figure>
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-2s.jpg" class="img-fluid" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
-    </a>
-    <figcaption><h4>Audi A6 e-tron concept</h4></figcaption>
-</figure>
-
-Audi A6 e-tron trailer
-
-{{< youtube kYJJm3qIfDY >}}
-
-Audi A6 e-tron exterior details
-
-{{< youtube XYq8fbOoyQg >}}
-
-Trailer of the new Audi A6 Avant e-tron concept.
-
-{{< youtube oZbIGpWj8YA >}}
-
-Video of drivetrain
-
-{{< youtube r_wD-LblZqY >}}
-
+{{< youtube _j9uw6lxT3I >}}

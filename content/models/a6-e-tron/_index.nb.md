@@ -141,35 +141,7 @@ Audi A6 e-tron vil være tilgjengelig med flere alternativer. Audi planlegger å
 
 Se detaljert video fra @auditography
 
-{{< youtube _BhLriimGQE >}}
+{{< youtube Pn421Y2GjEY >}}
 
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-1s.jpg" class="img-fluid" alt="Audi A6 e-tron konsept" title="Audi A6 e-tron konsept">
-    </a>
-    <figcaption><h4>Audi A6 e-tron-konsept</h4></figcaption>
-</figur>
 
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-2s.jpg" class="img-fluid" alt="Audi A6 e-tron konsept" title="Audi A6 e-tron konsept">
-    </a>
-    <figcaption><h4>Audi A6 e-tron-konsept</h4></figcaption>
-</figur>
-
-Audi A6 e-tron tilhenger
-
-{{< youtube kYJJm3qIfDY >}}
-
-Audi A6 e-tron eksteriørdetaljer
-
-{{< youtube XYq8fbOoyQg >}}
-
-Trailer of the new Audi A6 Avant e-tron concept.
-
-{{< youtube oZbIGpWj8YA >}}
-
-Video of drivetrain
-
-{{< youtube r_wD-LblZqY >}}
-
+{{< youtube _j9uw6lxT3I >}}
