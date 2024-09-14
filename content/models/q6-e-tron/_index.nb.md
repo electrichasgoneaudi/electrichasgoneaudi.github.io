@@ -124,32 +124,15 @@ Q6 e-tron har en fullstendig revidert dobbel bærearmaksel med frittstående sta
 
 ## Teknologi
 
-### Lys
+Audi A6 e-tron viser frem banebrytende teknologi, med vekt på avansert belysning og digitale funksjoner. Den tilbyr digitale kjørelys med LED-teknologi og andre generasjons digitale OLED-baklys, som inkluderer rundt 45 segmenter per panel for forbedret bil-til-x-kommunikasjon og trafikksikkerhet. Baklysene kan vise advarselssymboler i kritiske situasjoner, og frontlysene har tolv dimbare segmenter for en dynamisk lys signatur.
 
-  For første gang kan kunder valgfritt velge digitale lyssignaturer for denne nye utviklingen av digitale kjørelys i Matrix LED-frontlyktene og den nye generasjonen av digitale OLED-baklys. I tillegg kan kunder bestille digitale lyssignaturer på forespørsel.
+Inne i A6 e-tron finner du MMI panoramadisplay med OLED-teknologi, bestående av en 11,9-tommers virtuell cockpit, en 14,5-tommers berøringsskjerm og en 10,9-tommers skjerm for forsetepassasjeren. Aktiv personvernmodus lar passasjerer nyte underholdning uten å distrahere sjåføren. Den valgfrie andre generasjons augmented reality head-up displayen (AR HuD) projiserer relevant informasjon på frontruten.
 
-Q6 e-tron markerer ikke bare et nytt kapittel innen elektromobilitet hos Audi; lysteknologi er en viktig del av Audis DNA. Med verdens første aktive digitale lyssignatur innleder Audi Q6 e-tron en ny æra preget av særegen design og estetikk unik for Audi.
+Infotainmentsystemet kjører på Android Automotive OS, og støtter over-the-air oppdateringer og tredjepartsapper via Audi Application Store. Talekontrollen er betydelig utvidet med Audi-assistenten, som integrerer ChatGPT for naturlig språkinteraksjon.
 
-Med andregenerasjons digitale OLED-baklykter tar Audi Q6 e-tron lysdesign, funksjonsutvalg og trafikksikkerhet til et nytt nivå.
+Bang & Olufsen Premium Sound System med høyttalere i nakkestøttene gir en oppslukende lydopplevelse.
 
-{{< sitefiguresized thumb="models/q6-e-tron/technology/lights/headlights_1_st.jpg" width="3000" height="2250" title="Audi Q6 e-tron frontlys" >}}
-
-Les alt om det i vår [Audi Q6 e-tron lysseksjon](technology/lights)
-
-
-### UI og MMI
-
-Audi Q6 e-tron modellserien har et fullstendig sammenkoblet og digitalt interiør basert på den nye elektroniske arkitekturen. Den såkalte Digital Stage består av Audi MMI-panoramaskjermen og MMI-passasjerdisplayet, og er en nøkkelfunksjon i interiøret.
-
-Med den valgfrie Augmented Reality Head-Up Display, et annet sentralt element på den digitale scenen, tar Audi et stort skritt fremover innen displayteknologi.
-
-{{< sitefiguresized thumb="models/q6-e-tron/technology/uiandoperations/virtualcockpit/virtualcockpit_1_st.jpg" width="1920" height="900" title="Audi Q6 e-tron med virtuell cockpit og MMI Panorama" >}}
-
-Det nye infotainmentsystemet bruker [Android Automotive](https://source.android.com/devices/automotive/start/what_automotive) OS som operativsystem for første gang. Innholdet er alltid oppdatert takket være over-the-air oppdateringer.
-
-
-Les alt om det nye UI & MMI-systemet i [Audi Q6 e-tron UI & MMI-seksjonen](technology/uiandoperations)
-
+Les alt om teknologien i vår [Audi A6 e-tron teknologiseksjon](technology)
 
 ## Transportkapasitet
 

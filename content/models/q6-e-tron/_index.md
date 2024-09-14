@@ -125,30 +125,15 @@ The Q6 e-tron has a completely revised double wishbone axle with a detached stru
 
 ## Technology
 
-### Lights 
+The Audi A6 e-tron showcases cutting-edge technology, emphasizing advanced lighting and digital features. It offers digital daytime running lights with LED technology and second-generation digital OLED rear lights, which include around 45 segments per panel for enhanced car-to-x communication and road safety. The rear lights can display warning symbols in critical situations, and the front lights feature twelve dimmable segments for a dynamic light signature.
 
- For the first time, customers can optionally select digital light signatures for this new evolution of digital daytime running lights in the Matrix LED headlights and the new generation of digital OLED rear lights. In addition, customers may book digital light signatures on demand.
+Inside, the A6 e-tron features the MMI panoramic display with OLED technology, consisting of an 11.9-inch virtual cockpit, a 14.5-inch touch display, and a 10.9-inch front passenger display. Active Privacy Mode allows passengers to enjoy entertainment without distracting the driver. The optional second-generation augmented reality head-up display (AR HuD) projects relevant information onto the windshield.
 
-The Q6 e-tron not only marks a new chapter in electromobility at Audi; lighting technology is an important part of Audi’s DNA. With the world’s first active digital light signature, the Audi Q6 e-tron ushers in a new era characterized by distinctive design and aesthetics unique to Audi.
+The infotainment system runs on Android Automotive OS, supporting over-the-air updates and third-party apps via the Audi Application Store. Voice control is significantly expanded with the Audi assistant, which integrates ChatGPT for natural language interaction.
 
-With second-generation digital OLED rear lights, the Audi Q6 e-tron is taking light design, range of functions, and road safety to a new level.
+The Bang & Olufsen Premium Sound System with headrest loudspeakers provides an immersive audio experience. 
 
-{{< sitefiguresized thumb="models/q6-e-tron/technology/lights/headlights_1_st.jpg" width="3000" height="2250" title="Audi Q6 e-tron head lights" >}}
-
-Read all about it in our [Audi Q6 e-tron  light section](technology/lights)
-
-
-### UI & MMI
-
-The Audi Q6 e-tron model series has a fully connected and digital interior based on the new electronic architecture. Made up by the Audi MMI panoramic display and the MMI passenger display, the so-called Digital Stage is a key feature of the interior.
-
-With the optional Augmented Reality Head-Up Display, another central element of the digital stage, Audi is taking a major step forward in display technology.
-
-{{< sitefiguresized thumb="models/q6-e-tron/technology/uiandoperations/virtualcockpit/virtualcockpit_1_st.jpg" width="1920" height="900" title="Audi Q6 e-tron with virtual cockpit and MMI Panorama" >}}
-
-The new infotainment system uses  [Android Automotive](https://source.android.com/devices/automotive/start/what_automotive) OS as its operating system for the first time. Content is always up to date thanks to over-the-air updates. 
-
-Read all about the new UI & MMI system in the [Audi Q6 e-tron UI & MMI sections](technology/uiandoperations)
+Read all about the technology in our [Audi A6 e-tron technology section](technology)
 
 ## Transport capacity
 
