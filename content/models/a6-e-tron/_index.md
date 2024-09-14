@@ -96,18 +96,22 @@ The Digital Matrix LED front headlights achieve almost cinematic quality. If, fo
 Audi A6 e-tron will be available with different driver assistance packages. Many will be standard while others are options. 
 Systems include Audi Cruise Assist, Audi active lane assist, Audi pre sense, and many many more.
 
-## Options
+## Trim level and equipment options
 
-Audi A6 e-tron will be available with several options. Audi plans to reduce the number of combinations of options. So instead of most options being offered separately like the Audi e-tron, they will introduce options packages.
+Audi A6 e-tron is available with several options and trim levels.
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-5s.jpg" class="img-fluid" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
-    </a>
-    <figcaption><h4>Audi A6 e-tron with virtual mirrors</h4></figcaption>
-</figure>
+- S-line exterior
+- Black optics
+- Different wheels
+- Different seats, including seats with massage and ventilation
+- Different driver assistant systems
+- Different lights
 
-## Photos & Video
+Audi have reduce the number of combinations of options. So instead of most options being offered separately, like on the Audi Q8 e-tron, they have introduced options packages.
+
+Read all about the options in the [Audi A6 e-tron options sections](optionguide)
+
+## Media
 
 See detailed video from @auditography
 
