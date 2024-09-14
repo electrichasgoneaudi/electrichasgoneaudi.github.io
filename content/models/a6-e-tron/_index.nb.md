@@ -95,36 +95,15 @@ Audi A6 e-tron vil være tilgjengelig med Adaptive Air-Dempere.
 
 ## Teknologi
 
-### UI og MMI
+Audi A6 e-tron viser frem banebrytende teknologi, med vekt på avansert belysning og digitale funksjoner. Den tilbyr digitale kjørelys med LED-teknologi og andre generasjons digitale OLED-baklys, som inkluderer rundt 45 segmenter per panel for forbedret bil-til-x-kommunikasjon og trafikksikkerhet. Baklysene kan vise varselsymboler i kritiske situasjoner, og frontlysene har tolv dimbare segmenter for en dynamisk lys signatur.
 
-Audi A6 e-tron kommer med en ny generasjon MMI.
+Inne i A6 e-tron finner du MMI panoramadisplay med OLED-teknologi, bestående av en 11,9-tommers virtuell cockpit, en 14,5-tommers berøringsskjerm og en 10,9-tommers skjerm for forsetepassasjeren. Active Privacy Mode lar passasjerene nyte underholdning uten å distrahere sjåføren. Den valgfrie andre generasjons augmented reality head-up displayen (AR HuD) projiserer relevant informasjon på frontruten.
 
-Den vil være basert på [Android Automotive](https://source.android.com/devices/automotive/start/what_automotive) og vil inneholde
-et større horisontalt display montert på dashbordet og virtuell cockpit.
+Infotainmentsystemet kjører på Android Automotive OS, og støtter over-the-air oppdateringer og tredjepartsapper via Audi Application Store. Talekontrollen er betydelig utvidet med Audi-assistenten, som integrerer ChatGPT for naturlig språkinteraksjon.
 
-### Lysteknologi
+Bang & Olufsen Premium Sound System med høyttalere i nakkestøttene gir en oppslukende lydopplevelse.
 
-Digital Matrix LED og digital OLED-teknologi gjør det mulig å oppnå maksimal lysstyrke og et bredt spekter av funksjoner selv med en minimal overflate, samtidig som de tilbyr tilpassbare lyssignaturer. Teamet av Audi-lysdesignere og -utviklere har nok en gang gjort en fantastisk jobb – denne konseptbilen pakker en rekke nye funksjoner og personaliseringsmuligheter inn i belysningsenhetene. De fleste av dem forventes å være tilgjengelige i produksjonsmodellen.
-
-<figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-8.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-8s.jpg" class="img-fluid" alt="Digital matrise med egendefinert lyssignatur" title="Digital matrise med tilpasset lyssignatur">
-    </a>
-    <figcaption><h4>Digital Matrix med egendefinert lyssignatur</h4></figcaption>
-</figur>
-
-Tre små, høyoppløselige LED-projektorer er innebygd i hver side av kroppen, og forvandler bakken under dem til en scene når dørene åpnes – små, utvidede, dynamiske lyseffekter møter beboerne med meldinger på deres eget språk.
-
-Kombinasjonen av sikkerhetsfunksjoner og estetisk design er spesielt viktig for Audi. Derfor viser de små, høyoppløselige projektorene også varselsymboler på bakken – for eksempel for å advare en syklist om at bildøren er i ferd med å åpne seg.
-
-Ytterligere fire høyoppløselige LED-projektorer – upåfallende integrert i hjørnene på kjøretøyet – genererer blinklysprojeksjoner. Utformingen av disse anslagene kan endres for å adressere ulike markeder og godkjenningsregioner etter behov.
-
-Digital Matrix LED-frontlyktene oppnår nærmest kinokvalitet. Hvis for eksempel Audi A6 Avant e-tron-konseptet parkeres foran en vegg i en pause for å lade opp batteriet, kan sjåføren og passasjerene fordrive tiden med å spille et videospill som projiseres på den. I stedet for på en liten skjerm i cockpiten, vil de se det nåværende spillets virtuelle landskap projisert på veggen i XXL-format – og alt dette via Digital Matrix LED-frontlyktene.
-
-### Sjåførassistanse
-
-Audi A6 e-tron vil være tilgjengelig med forskjellige førerassistansepakker. Mange vil være standard mens andre er alternativer.
-Systemene inkluderer Audi Cruise Assist, Audi active lane assist, Audi pre sense og mange mange flere.
+Les alt om teknologien i vår [Audi A6 e-tron teknologiseksjon](technology)
 
 ## Utstyrsnivå og utstyrsvalg
 

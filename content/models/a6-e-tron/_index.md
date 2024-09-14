@@ -62,39 +62,17 @@ The Audi A6 e-tron is a high-performance electric vehicle with a 100 kWh lithium
 
 <a href="drivetrain"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/drivetrain/drivetrain_1_st.jpg" class="img-fluid" alt="Audi A6 e-tron interior" title="Audi A6 e-tron interior"></a>
 
-
 ## Technology
 
-### UI & MMI
+The Audi A6 e-tron showcases cutting-edge technology, emphasizing advanced lighting and digital features. It offers digital daytime running lights with LED technology and second-generation digital OLED rear lights, which include around 45 segments per panel for enhanced car-to-x communication and road safety. The rear lights can display warning symbols in critical situations, and the front lights feature twelve dimmable segments for a dynamic light signature.
 
-Audi A6 e-tron will come with a new generation MMI.
+Inside, the A6 e-tron features the MMI panoramic display with OLED technology, consisting of an 11.9-inch virtual cockpit, a 14.5-inch touch display, and a 10.9-inch front passenger display. Active Privacy Mode allows passengers to enjoy entertainment without distracting the driver. The optional second-generation augmented reality head-up display (AR HuD) projects relevant information onto the windshield.
 
-It will be based on  [Android Automotive](https://source.android.com/devices/automotive/start/what_automotive) and will feature
-a larger horizontal display mounted on the dashboard and virtual cockpit.
+The infotainment system runs on Android Automotive OS, supporting over-the-air updates and third-party apps via the Audi Application Store. Voice control is significantly expanded with the Audi assistant, which integrates ChatGPT for natural language interaction.
 
-### Lights technology
+The Bang & Olufsen Premium Sound System with headrest loudspeakers provides an immersive audio experience.
 
-Digital Matrix LED and digital OLED technology make it possible to achieve maximum brightness and a wide range of features even with a minimal surface area, while at the same time offering customizable light signatures. The team of Audi lighting designers and developers has once again done an amazing job – this concept car packs a host of new features and personalization options into its lighting units. Most of them are expected to be available in the production model.
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-8.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-8s.jpg" class="img-fluid" alt="Digital Matrix with custom light signature" title="Digital Matrix with custom light signature">
-    </a>
-    <figcaption><h4>Digital Matrix with custom light signature</h4></figcaption>
-</figure>
-
-Three small, high-resolution LED projectors are built into each side of the body, transforming the ground beneath them into a stage when the doors are opened – small, extended, dynamic lighting effects greet the occupants with messages in their own language.
-
-The combination of safety features and aesthetic design is particularly important to Audi. That’s why the small, high-resolution projectors also display warning symbols on the ground – to warn a bike rider that the car door is about to open, for example.
-
-Another four high-resolution LED projectors – inconspicuously integrated into the corners of the vehicle – generate turn signal projections. The design of these projections can be modified to address different markets and approval regions as required.
-
-The Digital Matrix LED front headlights achieve almost cinematic quality. If, for example, the Audi A6 Avant e-tron concept is parked in front of a wall during a break to recharge the battery, the driver and passengers can pass the time playing a video game projected onto it. Instead of on a small screen in the cockpit, they’ll see their current game’s virtual landscapes projected onto the wall in XXL format – and all this via the Digital Matrix LED headlights.
-
-### Driver Assistance
-
-Audi A6 e-tron will be available with different driver assistance packages. Many will be standard while others are options. 
-Systems include Audi Cruise Assist, Audi active lane assist, Audi pre sense, and many many more.
+Read all about the technology in our [Audi A6 e-tron technology section](technology)
 
 ## Trim level and equipment options
 
