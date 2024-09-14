@@ -1,22 +1,17 @@
 ---
-title: Audi e-tron problemdatabase
+title: Audi Q6 e-tron Problemdatabase
 linktitle: Problemdatabase
-description: Det er ofte mange spørsmål som går igjen på biler. Her har vi samlet vanlige spørsmål og svar samt en oversikt over feil brukere har opplevd.
+description: Oppdag vanlige problemer og feil rapportert av Audi Q6 e-tron-eiere. Utforsk vårt GitHub-repositorium for detaljert informasjon.
 weight: 30
 ---
 
-Dette kan være alt fra brukerfeil til utstyrsfeil på bilen. Målet med databasen er å hjelpe deg til å løse problemet ditt raskest mulig.
+Hver bilmodell har sine problemer, alt fra brukerfeil til utstyrsfeil.
 
-Du finner databasen [her](https://github.com/electrichasgoneaudi/etron-issues/issues). Hvis du opplever en feil som ikke er oppført, legg den til.
+Utforsk databasen [her](https://github.com/electrichasgoneaudi/q6-e-tron/issues). Hvis du støter på et problem som ikke er oppført, er du velkommen til å legge det til.
 
-Hvis du ser etter et problem for en bestemt kategori, se [etikettside](https://github.com/electrichasgoneaudi/etron-issues/labels).
+For problemer kategorisert etter spesifikke etiketter, besøk [etikettsiden](https://github.com/electrichasgoneaudi/q6-e-tron/labels).
 
-Noen vanlige etiketter er
+Vanlige etiketter inkluderer:
 
-* [Batteri](https://github.com/electrichasgoneaudi/etron-issues/issues?q=is%3Aissue+is%3Aopen+label%3Abattery)
-* [Elektrisk motor](https://github.com/electrichasgoneaudi/etron-issues/labels/electric%20motor)
-* [Panoramatak](https://github.com/electrichasgoneaudi/etron-issues/labels/panoramic%20roof)
-* [Virtuelle speil](https://github.com/electrichasgoneaudi/etron-issues/labels/virtual%20mirrors)
-* [Dører](https://github.com/electrichasgoneaudi/etron-issues/labels/doors)
-
-Databasen finnes kun på engelsk
+* [Programvare](https://github.com/electrichasgoneaudi/q6-e-tron/issues?q=is%3Aissue+is%3Aopen+label%3ASoftware)
+* [Feil](https://github.com/electrichasgoneaudi/q6-e-tron/issues?q=is%3Aissue+is%3Aopen+label%3Abug)

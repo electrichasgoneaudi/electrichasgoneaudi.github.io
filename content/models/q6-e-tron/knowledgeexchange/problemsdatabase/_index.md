@@ -9,7 +9,7 @@ Every car model has its share of issues, ranging from user errors to equipment m
 
 Explore the database [here](https://github.com/electrichasgoneaudi/q6-e-tron/issues). If you encounter an issue not listed, feel free to add it.
 
-For issues categorized by specific labels, visit the [label page](https://github.com/electrichasgoneaudi/etron-issues/labels).
+For issues categorized by specific labels, visit the [label page](https://github.com/electrichasgoneaudi/q6-e-tron/labels).
 
 Common labels include:
 
