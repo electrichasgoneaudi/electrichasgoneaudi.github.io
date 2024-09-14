@@ -12,8 +12,12 @@ weight: 30
 ## myAudi-appen
 
 - Hvorfor kan jeg ikke kontrollere bilen min gjennom myAudi?
-  
+
 ## Forbruk og rekkevidde
 
 - Hva er den mest effektive restitusjonsmodusen
 - [Hvorfor viser min Audi e-tron lavere rekkevidde enn forventet?](lowrange)
+
+## Internett i bilen
+
+- [Les her om hvordan du setter det opp og kjøper mer data om du trenger det](internet-in-the-car)

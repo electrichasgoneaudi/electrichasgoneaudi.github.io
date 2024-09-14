@@ -5,4 +5,6 @@ description: We have collected frequently asked questions about Audi e-tron and 
 weight: 30
 ---
 
-Will be updated when there is common question
+## Internet in the car
+
+- [Read about how to setup and buy data quotes for you use](internet-in-the-car)
