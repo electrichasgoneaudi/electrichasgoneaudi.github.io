@@ -276,6 +276,26 @@ Audi A6 e-tron can be delivered with serveral types of wheels from 19" to 21". C
             <td>8,5 J | 9,5 J x 21, Tires 245/40 | 275/35 R 21</td>
             <td>65W</td>
         </tr>
+        <tr>
+            <td>Tire Repair Kit</td>
+            <td>With the tire sealant and the 12-volt compressor, the tire can be temporarily repaired in the event of a flat tire on vehicles without a full-size spare wheel or run-flat tire. For continued driving, e.g., to the workshop, a maximum speed of 80 km/h is allowed.</td>
+            <td>1G8</td>
+        <tr>     
+            <td>Tire Pressure Monitoring System</td>
+            <td>In the event of a pressure loss in one or more tires, an optical and acoustic warning is issued in the Audi virtual cockpit plus.</td>
+            <td>7K1</td>
+        </tr>
+        <tr>
+            <td>Anti-theft Wheel Bolts</td>
+            <td>Wheel bolts can only be loosened with the supplied adapter. The adapter head has a shape that is individually adapted to the wheel bolts of the vehicle and can only be used for these.</td>
+            <td>1PD</td>
+        </tr>
+        <tr>
+            <td>Audi New Car Tire Warranty</td>
+            <td>The Audi new car tire warranty with a term of 36 months from the handover of the vehicle to the first customer – for all Audi models.
+            When you purchase your new Audi through purchase, financing, or leasing, you receive the Audi new car tire warranty on all Audi original tires mounted on the vehicle at the factory. This also includes additional Audi original tires as part of winter complete wheels (4 pieces) that you purchase together with your new Audi.</td>
+            <td>Y4R</td>
+        </tr>
     </tbody>
 </table>
 </div>
@@ -296,6 +316,12 @@ Audi A6 e-tron can be delivered with serveral types of wheels from 19" to 21". C
         </th>
     </thead>
     <tbody>
+        <tr>
+             <td>Preparation for further lighting functions</td>
+             <td>After the vehicle has been delivered, additional Functions on Demand functions can be booked via the myAudi Shop if required. To do this, simply visit the online shop, which you can access via myAudi. The right one can also be found there
+    Duration can be selected</td>
+             <td></td>
+         </tr>       
         <tr>
             <td><a href="../../technology/lights/">Daytime running lights with assistant driving lights and coming and leaving home function automatically</a></td>
             <td>Standard</td>
@@ -400,23 +426,23 @@ Duration can be selected</td>
            <tr>
             <td><a href="../../technology/lights/">Digital OLED rear lights</a></td>
             <td>
-                        The second generation of the innovative, digital OLED technology of the rear lights enables a new level of novel light design and achieves impressive homogeneity and sharp contrasts in illumination.
-                            The light signature with a continuous light strip is a visible identification mark to the rear. Three-dimensional effects enable impressive light scenarios and staging. In conjunction with the digital light signature equipment9, 10, up to eight different tail light signatures are possible.
-                            The digital OLED rear lights include:
-                            <ul>
-                            <li>Dynamic turn signals</li>
-                            <li>Continuous light strip</li>
-                            <li>Dynamic light staging of the Coming Home/Leaving Home function</li>
-                            <li>In conjunction with the digital light signature equipment9, 10, up to eight different tail light signatures selectable via MMI or the myAudi App</li>
-                            <li>Approach detection</li>
-                            <li>Communication light</li>
-                            </ul>
-                            The communication light proactively warns other road users of accidents and breakdowns by displaying warning symbols in the digital OLED rear light. The data from local hazard information is used to warn of events on the route such as breakdowns, accidents, reduced visibility, and skidding hazards.
-                            Furthermore, in the communication light the illuminated area of the digital OLED segments automatically enlarges when other road users approach the stationary vehicle from behind.
-                            During an automated parking process the communication light displays a specific tail light signature with a corresponding indicator symbol within the digital OLED rear light.
-                            The division of the OLEDs into small, individually controllable segments with a three-dimensional effect enables new light scenarios with impressive staging. The dynamic light staging of the Coming Home/Leaving Home function appears almost futuristic. It is also coordinated with the selected tail light signature and provides additional brightness on the way to or from the vehicle.
-                            Note: Only available in conjunction with Tech Pro (PQC) in the A6 e-tron and S6 e-tron.
-            </td>     </td>
+                The second generation of the innovative, digital OLED technology of the rear lights enables a new level of novel light design and achieves impressive homogeneity and sharp contrasts in illumination.
+                    The light signature with a continuous light strip is a visible identification mark to the rear. Three-dimensional effects enable impressive light scenarios and staging. In conjunction with the digital light signature equipment9, 10, up to eight different tail light signatures are possible.
+                    The digital OLED rear lights include:
+                    <ul>
+                    <li>Dynamic turn signals</li>
+                    <li>Continuous light strip</li>
+                    <li>Dynamic light staging of the Coming Home/Leaving Home function</li>
+                    <li>In conjunction with the digital light signature equipment up to eight different tail light signatures selectable via MMI or the myAudi App</li>
+                    <li>Approach detection</li>
+                    <li>Communication light</li>
+                    </ul>
+                    The communication light proactively warns other road users of accidents and breakdowns by displaying warning symbols in the digital OLED rear light. The data from local hazard information is used to warn of events on the route such as breakdowns, accidents, reduced visibility, and skidding hazards.
+                    Furthermore, in the communication light the illuminated area of the digital OLED segments automatically enlarges when other road users approach the stationary vehicle from behind.
+                    During an automated parking process the communication light displays a specific tail light signature with a corresponding indicator symbol within the digital OLED rear light.
+                    The division of the OLEDs into small, individually controllable segments with a three-dimensional effect enables new light scenarios with impressive staging. The dynamic light staging of the Coming Home/Leaving Home function appears almost futuristic. It is also coordinated with the selected tail light signature and provides additional brightness on the way to or from the vehicle.
+                    Note: Only available in conjunction with Tech Pro (PQC) in the A6 e-tron and S6 e-tron.
+            </td>     
             <td></td>
         </tr>
         <tr>
@@ -427,6 +453,16 @@ Duration can be selected</td>
             <td></td>
         </tr>
         <tr>
+            <td>Illuminated Audi Rings at the rear</td>
+            <td>The illuminated Audi rings at the rear are a luminous statement for the Audi brand and make your Audi unmistakable. Through the coming-home/leaving-home function of the rear lights, the rings are impressively staged even when stationary.
+            Note: In the A6 e-tron, it can only be ordered in conjunction with Tech (PQA), Tech Plus (PQB), or Tech Pro (PQC).</td>
+            <td></td>
+        </tr>     <tr>
+            <td>Headlight cleaning system</td>
+            <td>The headlight cleaning system ensures more light on the road by cleaning the headlight with water and high pressure.
+            Note: In the A6 e-tron, it can only be ordered in conjunction with Tech (PQA), Tech Plus (PQB), or Tech Pro (PQC).</td>
+            <td></td>
+        </tr>     <tr>
             <td>High beam assistant</td>
             <td>By automatically switching the high beam on and off, the dazzling of oncoming traffic and other traffic participants is reduced within the system limits.
             The high beam assistant offers:

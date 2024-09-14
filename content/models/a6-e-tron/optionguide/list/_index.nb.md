@@ -294,19 +294,36 @@ Audi A6 e-tron kan leveres med flere typer hjul fra 19" til 21". Klikk på hjula
             <td>8,5 J | 9,5 J x 21, Dekk 245/40 | 275/35 R 21</td>
             <td>65W</td>
         </tr>
+        <tr>
+            <td>Dekk reparasjonssett</td>     <td>Med tetningsmassen og 12-volts kompressoren kan dekket midlertidig repareres ved punktering på kjøretøy uten fullverdig reservehjul eller run-flat dekk. For videre kjøring, f.eks. til verkstedet, er en maksimal hastighet på 80 km/t tillatt.</td>     <td>1G8</td>
+        <tr>     
+            <td>Tire Pressure Monitoring System</td>
+            <td>In the event of a pressure loss in one or more tires, an optical and acoustic warning is issued in the Audi virtual cockpit plus.</td>
+            <td>7K1</td>
+        </tr>
+        <tr>
+            <td>Anti-theft Wheel Bolts</td>
+            <td>Wheel bolts can only be loosened with the supplied adapter. The adapter head has a shape that is individually adapted to the wheel bolts of the vehicle and can only be used for these.</td>
+            <td>1PD</td>
+        </tr>
+        <tr>
+            <td>Audi New Car Tire Warranty</td>
+            <td>The Audi new car tire warranty with a term of 36 months from the handover of the vehicle to the first customer – for all Audi models.
+            When you purchase your new Audi through purchase, financing, or leasing, you receive the Audi new car tire warranty on all Audi original tires mounted on the vehicle at the factory. This also includes additional Audi original tires as part of winter complete wheels (4 pieces) that you purchase together with your new Audi.</td>
+            <td>Y4R</td>
+        </tr>
     </tbody>
 </table>
-</div>
 
-## Lys 
+## Lys
 
 <div class="table-responsive">
 <table class="table table-striped border">
     <thead>
         <tr>
-        <th>Title
+        <th>Tittel
         </th>
-        <th>Description
+        <th>Beskrivelse
         </th>
         <th>
             ID
@@ -314,24 +331,166 @@ Audi A6 e-tron kan leveres med flere typer hjul fra 19" til 21". Klikk på hjula
     </thead>
     <tbody>
         <tr>
-            <td>LED Hovedlykter</td>
+             <td>Forberedelse for ytterligere lysfunksjoner</td>
+             <td>Etter at kjøretøyet er levert, kan ytterligere Functions on Demand-funksjoner bestilles via myAudi Shop om nødvendig. For å gjøre dette, besøk nettbutikken, som du kan få tilgang til via myAudi. Den riktige kan også finnes der
+    Varighet kan velges</td>
+             <td></td>
+         </tr>       
+        <tr>
+            <td><a href="../../technology/lights/">Kjørelys med assistentkjørelys og automatisk coming og leaving home-funksjon</a></td>
             <td>Standard</td>
-            <td>8IY/8J</td>
+            <td></td>
         </tr>
         <tr>
-            <td>Fjernlysassistent</td>
-            <td>Standard</td>
-            <td>8G1</td>
+            <td><a href="../../technology/lights/">Forberedelse for ytterligere lysfunksjoner</a></td>
+            <td>Etter at kjøretøyet er levert, kan ytterligere Functions on Demand-funksjoner bestilles via myAudi Shop om nødvendig. For å gjøre dette, besøk nettbutikken, som du kan få tilgang til via myAudi. Den riktige kan også finnes der
+Varighet kan velges</td>
+            <td></td>
         </tr>
         <tr>
-            <td>LED Matrix</td>
-            <td>Standard Tech Pro / Tech Plus</td>
+            <td><a href="../../technology/lights/">Lyktespylersystem</a></td>
+            <td>Lyktespylersystemet sørger for mer lys på veien ved å rengjøre lykten med vann og høyt trykk.
+            </td>
+            <td>Del av Tech-pakker (PQA, PQB, PQC). Standard SQ6</td>
+        </tr>
+        <tr>
+            <td><a href="../../technology/lights/">LED-frontlykter</a></td>
+            <td>LED-frontlyktene produserer belysning av veien som ligner dagslys og imponerer med sitt lave
+                energiforbruk, lang levetid og god synlighet for andre.
+                LED-frontlyktene inkluderer følgende funksjoner:
+                <ul>
+                <li>Nærlys</li>
+                <li>Fjernlys</li>
+                <li>Kjørelys</li>
+                <li>Posisjonslys</li>
+                <li>Blinklys</li>
+            </td>
+            <td>Standard Q6</td>
+        </tr>
+        <tr>
+            <td><a href="../../technology/lights/">LED-frontlykter pluss</a></td>
+            <td>LED-frontlykter pluss produserer belysning av veien som ligner dagslys og imponerer med sitt lave energiforbruk, lang levetid og god synlighet for andre.
+            Adaptive lysfunksjoner tilpasser belysningen av veien til den respektive kjøresituasjonen.
+            Den dynamiske belysningen av coming home/leaving home-funksjonen gir ekstra lysstyrke på vei
+            fra eller til kjøretøyet.
+            LED-frontlykter pluss inkluderer følgende funksjoner:
+            <ul>
+            <li>Visuelt forbedrede/digitale kjørelys</li>
+            <li>Nærlys</li>
+            <li>Fjernlys</li>
+            <li>Posisjonslys</li>
+            <li>Blinklys</li>
+            <li>Svingelys (tillegg til sidebelysning ved svinging)</li>
+            <li>Allværslys (for å redusere blending i dårlige siktforhold)</li>
+            <li>Motorveilykter (utvidet belysningsrekkevidde ved høye hastigheter)</li>
+            <li>Statisk svingelys (tillegg til sidebelysning i skarpe svinger)</li>
+            <li>Manøvreringslys (belysning av manøvreringsområdet foran og på siden ved rygging)</li>
+            <li>Automatisk-dynamisk lykteregulering</li>
+            <li>Krysslys (tillegg til sidebelysning i kryssområdet i forbindelse med MMI Navigation plus)</li>
+            <li>Dynamisk belysning for coming home/leaving home-funksjonen mens kjøretøyet står stille</li>
+            </ul>
+            </td>
+            <td>Standard S6 og del av Tech (PQA)</td>
+        </tr>
+        <tr>
+            <td><a href="../../technology/lights/">Matrix LED-frontlykter</a></td>
+            <td>I tillegg til funksjonene til LED-frontlykter pluss, muliggjør den svært adaptive lysfordelingen av Matrix-funksjonen presis og høyoppløselig belysning av veien. Blendende effekter på møtende eller forankjørende kjøretøy kan reduseres betydelig. Hvis kjøretøy oppdages av kamerasystemet, blender systemet selektivt bare dette området, mens fjernlyset forblir aktivt i de gjenværende segmentene.
+            I edition one er Matrix LED-frontlyktene mørklagte.
+            Den dynamiske belysningen av coming home/leaving home-funksjonen over hele lysstripen gir ekstra lysstyrke på vei til eller fra kjøretøyet.
+            </td>
+            <td>Tech Pro eller Tech Plus</td>
+        </tr>
+        <tr>
+            <td><a href="../../technology/lights/">LED rear lights</a></td>
+            <td>The light signature is a visible identification mark to the rear.
+            The brake lights in LED technology enable them to be noticed earlier by the driver thanks to their quicker activation
+            subsequent traffic.
+            The LED tail lights include:
+            <ul>
+            <li>Flashing lights</li>
+            <li>Brake-lights</li>
+            <li>Rear lights</li>
+            <li>Rear license plate lights</li>
+            <li>Reversing lights</li>
+            </ul>
+            </td>
+            <td></td>
+        </tr>
+         <tr>
+            <td><a href="../../technology/lights/">LED rear lights pro</a></td>
+            <td>The light signature with a continuous strip of lights is a visible identification mark towards the rear.
+                The illuminated light strip in the rear connects the rear lights and is a visual design highlight.
+                The brake lights in LED technology enable them to be noticed earlier by the driver thanks to their quicker activation
+                subsequent traffic.
+                When flashing, the dynamic flashing light always runs to the outside in the direction of the turn and is therefore easily noticeable.
+                The dynamic lighting of the coming home/leaving home function begins across the entire lighting strip
+                progressive statement and provides additional brightness on the way to and from the vehicle.
+                The LED rear lights pro include:
+                <ul>
+                <li>dynamic flashing lights</li>
+                <li>Brake-lights</li>
+                <li>Rear lights</li>
+                <li>Rear license plate lights</li>
+                <li>Reversing lights</li>
+                <li>illuminated strip of lights</li>
+                <li>Dynamic lighting for the coming home/leaving home function while stationary</li>
+                </ul></td>
+            <td></td>
+        </tr>
+           <tr>
+            <td><a href="../../technology/lights/">Digital OLED rear lights</a></td>
+            <td>
+                The second generation of the innovative, digital OLED technology of the rear lights enables a new level of novel light design and achieves impressive homogeneity and sharp contrasts in illumination.
+                    The light signature with a continuous light strip is a visible identification mark to the rear. Three-dimensional effects enable impressive light scenarios and staging. In conjunction with the digital light signature equipment9, 10, up to eight different tail light signatures are possible.
+                    The digital OLED rear lights include:
+                    <ul>
+                    <li>Dynamic turn signals</li>
+                    <li>Continuous light strip</li>
+                    <li>Dynamic light staging of the Coming Home/Leaving Home function</li>
+                    <li>In conjunction with the digital light signature equipment up to eight different tail light signatures selectable via MMI or the myAudi App</li>
+                    <li>Approach detection</li>
+                    <li>Communication light</li>
+                    </ul>
+                    The communication light proactively warns other road users of accidents and breakdowns by displaying warning symbols in the digital OLED rear light. The data from local hazard information is used to warn of events on the route such as breakdowns, accidents, reduced visibility, and skidding hazards.
+                    Furthermore, in the communication light the illuminated area of the digital OLED segments automatically enlarges when other road users approach the stationary vehicle from behind.
+                    During an automated parking process the communication light displays a specific tail light signature with a corresponding indicator symbol within the digital OLED rear light.
+                    The division of the OLEDs into small, individually controllable segments with a three-dimensional effect enables new light scenarios with impressive staging. The dynamic light staging of the Coming Home/Leaving Home function appears almost futuristic. It is also coordinated with the selected tail light signature and provides additional brightness on the way to or from the vehicle.
+                    Note: Only available in conjunction with Tech Pro (PQC) in the A6 e-tron and S6 e-tron.
+            </td>     
+            <td></td>
+        </tr>
+        <tr>
+            <td>Digital light signatures</td>
+                <td>Innovative technology meets striking design. Light is becoming digital. Distinctive and dynamic day and night Night. With six selectable combinations of daytime running lights and taillight signatures and futuristic-looking dynamic lighting.
+                Six additional combinations of daytime running lights and taillight signatures are available as an option. By between  The appearance of the can be selected from the various graphics in the MMI or in the myAudi App
+                Vehicle can be individually designed again and again. With the active digital light signatures, a new lighting design can be experienced. The digital light signatures can be purchased subsequently as Functions on Demand functions</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Illuminated Audi Rings at the rear</td>
+            <td>The illuminated Audi rings at the rear are a luminous statement for the Audi brand and make your Audi unmistakable. Through the coming-home/leaving-home function of the rear lights, the rings are impressively staged even when stationary.
+            Note: In the A6 e-tron, it can only be ordered in conjunction with Tech (PQA), Tech Plus (PQB), or Tech Pro (PQC).</td>
+            <td></td>
+        </tr>     <tr>
+            <td>Headlight cleaning system</td>
+            <td>The headlight cleaning system ensures more light on the road by cleaning the headlight with water and high pressure.
+            Note: In the A6 e-tron, it can only be ordered in conjunction with Tech (PQA), Tech Plus (PQB), or Tech Pro (PQC).</td>
+            <td></td>
+        </tr>     <tr>
+            <td>High beam assistant</td>
+            <td>By automatically switching the high beam on and off, the dazzling of oncoming traffic and other traffic participants is reduced within the system limits.
+            The high beam assistant offers:
+            <ul>
+            <li>Independent detection of headlights of oncoming traffic, taillights of other vehicles and light sources Localities within the system boundaries</li>
+            <li>Automatic switching on or off of the high beam depending on the traffic situation</li>
+            <li>Improved visibility and increased comfort</li>
+            </ul>
+            </td>
             <td>8IY/8G4</td>
         </tr>
     </tbody>
 </table>
 </div>
-
 
 ## Mirror and roof system
 
