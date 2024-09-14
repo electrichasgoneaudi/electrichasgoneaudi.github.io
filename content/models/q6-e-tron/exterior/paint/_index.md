@@ -44,6 +44,8 @@ Standard color. Solid
 
 {{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/magneticgray_4_st.jpg" width="3000" height="2250" title="Audi Q6 e-tron in magnet gray" >}}
 
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/magneticgray_5_st.jpg" width="2048" height="1536" title="Audi Q6 e-tron in magnet gray" >}}
+
 ### Ascari Blue
 
 {{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/ascariblue_1_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in ascari blue" >}}
