@@ -55,51 +55,13 @@ Audi A6 e-tron is available with different seat options, interior materials, col
 
 ## Drivetrain
 
-Audi A6 e-tron is based on the new [PPE-platform](../../technology/bev-platforms/ppe/) that is co-created with Porsche available with both 2-wheel drive and quattro versions and with at least two different battery sizes.
+The Audi A6 e-tron is a high-performance electric vehicle with a 100 kWh lithium-ion battery, offering a range of up to 756 kilometers. It features powerful electric motors, with the A6 e-tron performance variant delivering up to 270 kW and the S6 e-tron up to 370 kW. The vehicle supports rapid charging with 800-volt technology, allowing for a range of up to 310 kilometers in just ten minutes. Advanced recuperation and an integrated Brake System enhance efficiency. The suspension system, including an optional adaptive air suspension, provides a balance between comfort and sporty handling.
 
-### Battery & Range
-
-It will be delivered in two battery sizes
-
-- 12 modules with 100 kWh gross (94.9kWh net)
-- 10 modules with 83.3kWh gross (75.8kWh net).
-
-This will give the Audi A6 e-tron a WLTP range of approximately 520-750km depending on the trim level for the biggest battery. (13.4 - 18 kWh/100km)
-
-The battery will has an 800-Volt architecture for high-performance charging up to 270KW for DC charging. 300km charging takes as little as 10 minutes.
-
-<a href="drivetrain/battery"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/battery_st.png" class="img-fluid" alt="Audi A6 e-tron interior" title="Audi A6 e-tron interior"></a>
+[Read all about the drivetrain including the battery, suspension and motors.](drivetrain)
 
 
-### Motor and performance
+<a href="drivetrain"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/drivetrain/drivetrain_1_st.jpg" class="img-fluid" alt="Audi A6 e-tron interior" title="Audi A6 e-tron interior"></a>
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrains.jpg" class="img-fluid" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
-    </a>
-     <figcaption><h4>Audi A6 e-tron drivetrain</h4></figcaption>
-</figure>
-
-The expectation is that the Audi A6 e-tron will come in different versions.
-
-- Rear- wheel drive Audi A6 Sportback e-tron / Audi A6 Avant e-tron with small battery 
-- Rear-wheel drive Audi A6 Sportback e-tron performance / Audi A6 Avant performance e-tron with large battery (the version with longest range)
-- Audi A6 quattro / Audi A6 Avant e-tron quattro with large battery 
-- Audi S6 Avant e-tron with 517HP
-- Audi RS6 Avant e-tron with 640 HP
-
-Audi will use different motor setups on the different variants.
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/motors.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/motors_mt.jpg" class="img-fluid" alt="Audi A6 e-tron concept" title="Audi A6 e-tron motors">
-    </a>
-     <figcaption><h4>Audi A6 e-tron motors</h4></figcaption>
-</figure>
-
-### Suspension
-
-Audi A6 e-tron will be available with Adaptive Air suspension.
 
 ## Technology
 
@@ -149,10 +111,18 @@ Audi A6 e-tron will be available with several options. Audi plans to reduce the 
 
 See detailed video from @auditography
 
+<p>
 {{< youtube Pn421Y2GjEY >}}
+</p>
 
+<p>
 {{< youtube _j9uw6lxT3I >}}
+</p>
 
+<p>
 {{< youtube eqIbYx5QW0k >}}
+</p
 
+<p>
 {{< youtube 0wUaMniPIIY >}}
+</p>

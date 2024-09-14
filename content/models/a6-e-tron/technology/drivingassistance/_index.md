@@ -1,16 +1,20 @@
 ---
-title: Audi Q6 e-tron driver assistence systems
+title: Audi A6 e-tron driver assistence systems
 linktitle: Driver Assistance
-description: There are around 40 driver assistance systems available in the Audi Q6 e-tron
+description: There are around 40 driver assistance systems available in the Audi A6 e-tron
 weight: 1
-sectiontabs: "/models/q6-e-tron/technology/"
+sectiontabs: "/models/a6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+With the A6 e-tron driver assistance systems, Audi provides a wide range of functions that make everyday life easier and significantly increase road safety for all road users.
+
+The adaptive driving assistant plus is a new feature of the A6 e-tron. It supports the driver when accelerating, braking, maintaining speed and the set distance, and with lane guidance. This can increase driving comfort, especially on long journeys. In addition to various sensors, depending on the region, the system uses high-resolution map data and swarm data from other vehicles aggregated in the cloud to improve driving behavior. Applying this fusion of information, the vehicle calculates the route ahead to enable a comfortable driving experience across the entire speed range and in traffic jams.
+
+Park assist plus, a reversing camera, the traffic sign-based speed limiter, camera-based traffic sign recognition, adaptive cruise control, park assist plus with distance display, lane departure warning, and distraction and drowsiness warning will come as standard at market launch.
+
 Up to five radar sensors, five cameras, and 12 ultrasonic sensors provide environmental information analyzed by the central driver assistance control unit.
-
-Important driver assist systems come as standard, the optional systems are subdivided into packages: The assist pacakage tour (PCC), assistent package city (PCM), side assist package (PCH). In addition there are other standalone options.
-
 
 <div class="table-responsive">
 <table class="table table-striped border">
