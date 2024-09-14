@@ -495,17 +495,23 @@ Duration can be selected</td>
      <tbody>
          <tr>
              <td>Mirror housing in the color of the car</td>
-             <td>Standard Q6</td>
+             <td>Standard</td>
              <td></td>
          </tr>
          <tr>
+            <td>Außenspiegelgehäuse schwarz</td>
+            <td>Hinweis: im A6 e-tron nur bestellbar in Verbindung mit Exterieurpaket schwarz (PAH) und Exterieur S line (PY2); 
+im S6 e-tron nur bestellbar in Verbindung mit Exterieurpaket schwarz (PAH</td>
+            <td></td>
+         </tr>
+         <tr>
              <td>Mirror housing in chrome matt silver</td>
-             <td>Standard SQ6</td>
+             <td>Standard S6</td>
              <td></td>
          </tr>
-           <tr>
+        <tr>
              <td>Projection light in the exterior mirrors</td>
-             <td>Standard SQ6</td>
+             <td>Standard</td>
              <td></td>
          </tr>
           <tr>

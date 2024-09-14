@@ -13,14 +13,13 @@ Click below for direct navigation to paint color
 
 - [Standard Paint colors](#standard-paint-colors)
   - [Magnet grey](#magnet-grey)
-  - [Acari Blue](#ascari-blue)
+  - [Ascari Blue](#ascari-blue)
   - [Glacier White](#glacier-white)
   - [Manhatten Grey](#manhatten-grey)
   - [Mythos black](#mythos-black)
-  - [Plasma Blue](#plasma-blue)
+- [Plasma blue](#plasma-blue)
   - [Soneira Red](#soneira-red)
   - [Daytona Grey](#daytona-grey)
-
 - [Audi Exclusive Paint colors](#audi-exclusive-paint-colors)
 
 In addition you can choose between over 50 [Audi Exclusive paint colors](../../exterior/paint/#audi-exclusive-lakk-farger).
@@ -34,13 +33,13 @@ The different standard colors are
 
 Standard color. Solid
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/magneticgray_1_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in magnetic gray" >}}
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/magneticgray_1_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in magnet gray" >}}
 
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/magneticgray_2_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in magnetic gray" >}}
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/magneticgray_2_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in magnet gray" >}}
 
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/magneticgray_3_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in magnetic gray" >}}
+{{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/magneticgray_3_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in magnet gray" >}}
 
 ### Ascari Blue
 
