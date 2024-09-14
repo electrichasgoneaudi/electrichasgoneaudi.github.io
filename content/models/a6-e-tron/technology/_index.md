@@ -44,22 +44,3 @@ Below you see details about the different technology areas on Audi A6 e-tron.
 	</p>
 	<a href="drivingassistance/" class="btn btn-outline-primary" role="button">Learn all about Audi A6 e-tron driver assistance systems</a>
 </div>
-
-
-<div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="safety/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/technology/safety/airbags_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron lights" ></a>
-	<h2>Safety</h2>
-	<p>
-		Audi A6 e-tron have serveral standard and optional safety systems
-	</p>
-	<a href="safety/" class="btn btn-outline-primary" role="button">Learn all about Audi A6 e-tron safety systems</a>
-</div>
-
-<div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="climatecontrol/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/technology/climatecontrol/interior_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron Climate system" ></a>
-	<h2>Climate system</h2>
-	<p>
-		Audi A6 e-tron is equipped with a 3-zone electronic climate control with heat pump as standard.
-	</p>
-	<a href="climatecontrol/" class="btn btn-outline-primary" role="button">Learn all about Audi A6 e-tron climate system</a>
-</div>
