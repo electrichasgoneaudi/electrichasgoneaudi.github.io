@@ -47,7 +47,7 @@ Man har denne velkomstsiden som viser status. Mest sannsynlig vil du gå rett ti
 
 Her vises status og du kan f.eks velg eå endre abonnement eller endre/knytte opp en betalingsmetode.
 
-Du har valget for 'Velg maksimal granse for påfyll' det angir hvor mange ganger du tillater at det automatisk opprettes ny data pakke pr mnd. Dette er for at det ikke skal bare fylle og fylle om du av en eller annen grunn plutselig begynner å bruk mengde med data.
+Du har valget for 'Velg maksimal granse for påfyll' det angir hvor mange ganger du tillater at det automatisk opprettes ny data pakke pr mnd. Dette er for at det ikke skal bare fylle og fylle om du av en eller annen grunn plutselig begynner å bruke store mengder med data.
 ![](image-5.png)
 
 Velger du å endre abonnement kommer det opp en slik side :
