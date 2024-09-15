@@ -39,7 +39,7 @@ Det letteste er kanskje å bruke din nettleser. og Åpne denne adressen :
 https://internetinthecar.telia.vodafone.com/m2miitcfo/faces/account.jspx
 
 
-Du må nok logge på, jeg opplever at nettleseren husker innloggingen for en stund.
+Du må nok logge på, jeg opplever at nettleseren husker innloggingen for en stund. Om du må logge på så er det myAudi bruker og passord du må bruke. Du vil kjenne igjen den påloggingsdialogen når du ser den.
 
 Man har denne velkomstsiden som viser status. Mest sannsynlig vil du gå rett til ADMINISTRER valget
 ![](image-4.png)
