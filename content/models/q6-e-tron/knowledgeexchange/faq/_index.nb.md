@@ -21,3 +21,7 @@ weight: 30
 ## Internett i bilen
 
 - [Les her om hvordan du setter det opp og kjøper mer data om du trenger det](internet-in-the-car)
+
+## Garasjeportåpner
+
+- [Les her om hvordan du setter det opp garasjeportåpner](garagedoor-programming)
