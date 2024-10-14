@@ -1403,14 +1403,6 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Speed limiter
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Efficiency assist
 			</td>
 			<td>
@@ -3027,14 +3019,6 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Speed limiter
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Efficiency assist
 			</td>
 			<td>
@@ -4639,14 +4623,6 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				Yes (Audi Collision Avoidance Assist), optional equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Speed limiter
-			</td>
-			<td>
-				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -6259,14 +6235,6 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Speed limiter
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Efficiency assist
 			</td>
 			<td>
@@ -7871,14 +7839,6 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				Yes (Audi Collision Avoidance Assist), optional equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Speed limiter
-			</td>
-			<td>
-				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -9491,14 +9451,6 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Speed limiter
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Efficiency assist
 			</td>
 			<td>
@@ -11103,14 +11055,6 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				Yes (Audi Collision Avoidance Assist), optional equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Speed limiter
-			</td>
-			<td>
-				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -12723,14 +12667,6 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Speed limiter
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Efficiency assist
 			</td>
 			<td>
@@ -14339,14 +14275,6 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Speed limiter
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Efficiency assist
 			</td>
 			<td>
@@ -15951,14 +15879,6 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				Yes (Audi Collision Avoidance Assist), optional equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Speed limiter
-			</td>
-			<td>
-				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -17595,14 +17515,6 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Speed limiter
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Efficiency assist
 			</td>
 			<td>
@@ -19207,14 +19119,6 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				Yes (Audi Collision Avoidance Assist), optional equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Speed limiter
-			</td>
-			<td>
-				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -20827,14 +20731,6 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Speed limiter
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Efficiency assist
 			</td>
 			<td>
@@ -22439,14 +22335,6 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				Yes (Audi Collision Avoidance Assist), optional equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Speed limiter
-			</td>
-			<td>
-				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -24079,14 +23967,6 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				Yes (Audi Collision Avoidance Assist), optional equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Speed limiter
-			</td>
-			<td>
-				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>

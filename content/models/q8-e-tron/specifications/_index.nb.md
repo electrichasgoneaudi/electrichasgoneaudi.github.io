@@ -1779,14 +1779,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fartsbegrenser
-			</td>
-			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Effektivitetsassistent
 			</td>
 			<td>
@@ -3781,14 +3773,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 			</td>
 			<td>
 				Ja (Audi Collision Avoidance Assist), tileggsutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Fartsbegrenser
-			</td>
-			<td>
-				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -5831,14 +5815,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fartsbegrenser
-			</td>
-			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Effektivitetsassistent
 			</td>
 			<td>
@@ -7877,14 +7853,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fartsbegrenser
-			</td>
-			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Effektivitetsassistent
 			</td>
 			<td>
@@ -9883,14 +9851,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fartsbegrenser
-			</td>
-			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Effektivitetsassistent
 			</td>
 			<td>
@@ -11623,14 +11583,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fartsbegrenser
-			</td>
-			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Effektivitetsassistent
 			</td>
 			<td>
@@ -13359,14 +13311,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 			</td>
 			<td>
 				Ja (Audi Collision Avoidance Assist), tileggsutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Fartsbegrenser
-			</td>
-			<td>
-				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
