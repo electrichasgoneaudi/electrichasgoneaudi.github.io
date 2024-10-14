@@ -9,7 +9,16 @@
 			<button type="button" data-bs-target="#latestNewsCarousel" data-bs-slide-to="5" class="" aria-current="true" aria-label="Slide 6"></button>
 		</div>
 		<div class="carousel-inner">
-			<div class="carousel-item active image-box">
+			<div class="carousel-item active  image-box">
+				<a href="{{ with .Site.GetPage `/articles/q6sportbackpremiere/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/variants/variants_2_mt.jpg" class="d-block w-100 image-cropped-calc" class="img-fluid" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>{{T "frontpage-article-q6sportbackpremiere-title"}}</h4>
+					<p class="d-none d-md-block">{{T "frontpage-article-q6sportbackpremiere-synopsis"}}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
 				<a href="{{ with .Site.GetPage `/articles/a6worldpremiere/`}}{{.RelPermalink}}{{end}}">
 					<img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/variants/variants_1_mt.jpg" class="d-block w-100 image-cropped-calc" class="img-fluid" alt="...">
 				</a>
@@ -61,15 +70,6 @@
 				<div class="carousel-caption">
 					<h4>{{T "frontpage-article-q8production-title"}}</h4>
 					<p class="d-none d-md-block">{{T "frontpage-article-q8production-synopsis"}}</p>
-				</div>
-			</div>
-			<div class="carousel-item  image-box">
-				<a href="{{ with .Site.GetPage `/articles/e-tron-facelift-q8-etron-2024/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/audi_sq8_front_article_mt.jpeg" class="d-block w-100 image-cropped-calc" class="img-fluid" alt="...">
-				</a>
-				<div class="carousel-caption">
-					<h4>{{T "frontpage-article-q8worldpremiere-title"}}</h4>
-					<p class="d-none d-md-block">{{T "frontpage-article-q8worldpremiere-synopsis"}}}</p>
 				</div>
 			</div>
 		</div>

@@ -1,69 +1,98 @@
 ---
 title: Audi Q6 e-tron varianter
 linktitle: Varianter
-description: The Audi Q6 e-tron is currently available in 4 different variants, with more expected variants.
+description: Audi Q6 e-tron er for øyeblikket tilgjengelig i 4 forskjellige varianter, med flere forventede varianter.
 weight: 1
 ---
 
 {{< sitefiguresized thumb="models/q6-e-tron/variants/variants_1_st.jpg" width="3000" height="2250" title="Audi SQ6 e-tron & Audi Q6 e-tron" >}}
 
-
 <!-- markdownlint-disable MD033 -->
-### Audi Q6 e-tron performance
+### Audi Q6 e-tron
 
-Denne varianten er rwd-modellen med stort 100kWh batteri og 240kW/326hp.
+Denne varianten er rwd-modellen med et 83kWh batteri og 240kW/326hk.
 
 Audi Q6 SUV e-tron inkluderer følgende som standard
 
-**Eksterioer:**
+Omfang:
 
-- Advanced eksteriør
+**Eksteriør:**
+
+- avansert eksteriør
 - Bunnlinje i Mythos Black kontrastlakk
-- Enkel ramme i kroppsfarge
-- LED-frontlykter og LED-baklys
-- Hjul, 10-eiker, 8,0 J x 18 med dekk 235/65 R 18
-foran, 9,0 J x 18 med dekk 255/60 R 18 bak
-- Sort vinduskant
-- Takreling matt sort
+- Enkelt ramme i karosserifarge
+- LED-frontlykter og LED-baklykter
+- Hjul, 10-eikers, 8.0 J x 18 med dekk 235/65 R 18 foran, 9.0 J x 18 med dekk 255/60 R 18 bak
+- Sorte vinduslister
+- Takrails matt svart
 
 **Interiør:**
 
-- Standard forseter i stoffargument
-- Dekorativt innlegg fin vulkangrå lakk
-- Myk innpakning
-- Dobbeleikert skinnratt med multifunksjon
-- Pakke med omgivelseslys
-- Dørterskelplater med aluminiumsinnsatser foran
+- Standard forseter i stoff
+- Dekorinnlegg fin vulkangrå lakk
+- Softwrap
+- Dobbelt-eiket skinnratt med multifunksjon
+- Ambient belysningspakke
+- Dørterskelplater med aluminiumsinnlegg foran
 
-[Se detaljert spesifikasjon](../specifications/#audi-q6-e-tron-quattro)
+[Se detaljert spesifikasjon](../specifications/#audi-q6-e-tron)
+
+
+### Audi Q6 e-tron performance
+
+Denne varianten er rwd-modellen med et 100kWh batteri og 240kW/326hk.
+
+Audi Q6 SUV e-tron inkluderer følgende som standard
+
+Omfang:
+
+**Eksteriør:**
+
+- avansert eksteriør
+- Bunnlinje i Mythos Black kontrastlakk
+- Enkelt ramme i karosserifarge
+- LED-frontlykter og LED-baklykter
+- Hjul, 10-eikers, 8.0 J x 18 med dekk 235/65 R 18 foran, 9.0 J x 18 med dekk 255/60 R 18 bak
+- Sorte vinduslister
+- Takrails matt svart
+
+**Interiør:**
+
+- Standard forseter i stoff
+- Dekorinnlegg fin vulkangrå lakk
+- Softwrap
+- Dobbelt-eiket skinnratt med multifunksjon
+- Ambient belysningspakke
+- Dørterskelplater med aluminiumsinnlegg foran
+
+[Se detaljert spesifikasjon](../specifications/#audi-q6-e-tron-performance)
 
 
 ### Audi Q6 e-tron quattro
 
-Denne varianten er entry quattro-modellen med 285kW/385HP for EU-versjonen og 340kW og 433 BPH for den amerikanske versjonen.
+Denne varianten er inngangsmodellen quattro med 285kW/385HK for EU-versjonen og 340kW og 433 BPH for US-versjonen.
 
 Audi Q6 SUV e-tron inkluderer følgende som standard
 Omfang:
 
-**Ytre:**
+**Eksteriør:**
 
 - avansert eksteriør
 - Bunnlinje i Mythos Black kontrastlakk
-- Enkel ramme i kroppsfarge
-- LED-frontlykter og LED-baklys
-- Hjul, 10-eiker, 8,0 J x 18 med dekk 235/65 R 18
-foran, 9,0 J x 18 med dekk 255/60 R 18 bak
-- Sort vinduskant
-- Takreling matt sort
+- Enkelt ramme i karosserifarge
+- LED-frontlykter og LED-baklykter
+- Hjul, 10-eikers, 8.0 J x 18 med dekk 235/65 R 18 foran, 9.0 J x 18 med dekk 255/60 R 18 bak
+- Sorte vinduslister
+- Takrails matt svart
 
 **Interiør:**
 
-- Standard forseter i stoffargument
-- Dekorativt innlegg fin vulkangrå lakk
-- Myk innpakning
-- Dobbeleikert skinnratt med multifunksjon
-- Pakke med omgivelseslys
-- Dørterskelplater med aluminiumsinnsatser foran
+- Standard forseter i stoff
+- Dekorinnlegg fin vulkangrå lakk
+- Softwrap
+- Dobbelt-eiket skinnratt med multifunksjon
+- Ambient belysningspakke
+- Dørterskelplater med aluminiumsinnlegg foran
 
 [Se detaljert spesifikasjon](../specifications/#audi-q6-e-tron-quattro)
 
@@ -74,50 +103,158 @@ Ytelsesvariant.
 Audi SQ6 SUV e-tron inkluderer følgende som standard
 Omfang:
 
-**Ytre:**
+**Eksteriør:**
 
-- S modell eksteriør
+- S-modell eksteriør
 - Bunnlinje i Mythos Black kontrastlakk
-- Enkel ramme i kroppsfarge med aluminiumsinnsatser
-- LED-hovedlys pluss med dynamisk belysning
-og LED-baklys pro med et kontinuerlig lysbånd
-- S sportsunderstell
-  -Hjul, 5-arms struktur, grafittgrå, høyglans finish2,
-8,5 J x 20 med dekk 255/50 R 20 foran, 10,0 J x 20
-med 285/45 R 20 dekk bak
-- Sort vinduskant
-- Ytterspeilhus i krom-look matt sølv
-- Takrails i aluminium
+- Enkelt ramme i karosserifarge med aluminiumsinnlegg
+- LED-frontlykter pluss med dynamisk belysning og LED-baklykter pro med et kontinuerlig lysbånd
+- S sportsfjæring
+- Hjul, 5-arm struktur, grafittgrå, høyglans finish, 8.5 J x 20 med dekk 255/50 R 20 foran, 10.0 J x 20 med dekk 285/45 R 20 bak
+- Sorte vinduslister
+- Eksteriør speilhus krom utseende matt sølv
+- Aluminiums takrails
 - e-tron sportslyd
   
 **Interiør:**
 
-- Sportsseter i sort skinn/kunstskinn kombinasjon
-- Dekorativt innlegg i aluminium mattbørstet antrasitt
-- Myk innpakning
-- Skinnsportsratt, 3-eiker, flatet i topp og bunn
-med multifunksjons- og girsvinger inkludert S-emblem
-- Pedaler og fotstøtte laget av rustfritt stål
-- Pakke med omgivelseslys
-- Dørterskelplater med aluminiumsinnsatser foran, opplyst
-med S-bokstav
+- Sportsseter i svart skinn/kunstskinn kombinasjon
+- Dekorinnlegg aluminium matt børstet antrasitt
+- Softwrap
+- Sports skinnratt, 3-eiket, flatet på toppen og bunnen med multifunksjon og girskovler inkludert S-emblem
+- Pedaler og fotstøtte i rustfritt stål
+- Ambient belysningspakke
+- Dørterskelplater med aluminiumsinnlegg foran, opplyst med S-bokstaver
 
 [Se detaljert spesifikasjon](../specifications/#audi-sq6-e-tron)
 
 
-### Audi Q6 e-tron
-
-Denne varianten er standardversjonen med RWD og 83kWh batteri. Jeg forventet at WLTP skulle være rundt 500 km. Denne varianten er bekreftet, men navnet er ikke offisielt.
+{{< sitefiguresized thumb="models/q6-e-tron/variants/variants_2_st.jpg" width="3000" height="2250" title="Audi SQ6 sportback e-tron" >}}
 
 
-### Audi RSQ6 
+### Audi Q6 Sportback e-tron
 
-Dette er de superytende versjonene. Jeg forventet rundt 600 HK, som Macan Turbo. Denne varianten er ikke bekreftet, men prototyper har blitt sett testet.
+Denne varianten er rwd-modellen med et 83kWh batteri og 240kW/326hk.
 
-## Sportback version
+Audi Q6 SUV e-tron inkluderer følgende som standard
 
-Sportback-versjoner av de ovennevnte modellene vil også bli utgitt. De første Sportback-versjonene forventes å ha verdenspremiere sommeren 2024.
+Omfang:
+
+**Eksteriør:**
+
+- avansert eksteriør
+- Bunnlinje i Mythos Black kontrastlakk
+- Enkelt ramme i karosserifarge
+- LED-frontlykter og LED-baklykter
+- Hjul, 10-eikers, 8.0 J x 18 med dekk 235/65 R 18 foran, 9.0 J x 18 med dekk 255/60 R 18 bak
+- Sorte vinduslister
+- Takrails matt svart
+
+**Interiør:**
+
+- Standard forseter i stoff
+- Dekorinnlegg fin vulkangrå lakk
+- Softwrap
+- Dobbelt-eiket skinnratt med multifunksjon
+- Ambient belysningspakke
+- Dørterskelplater med aluminiumsinnlegg foran
+
+[Se detaljert spesifikasjon](../specifications/#audi-q6-sportback-e-tron)
 
 
-{{< sitefiguresized thumb="models/q6-e-tron/prototype7_st.jpg" width="1920" height="1080" title="Audi Q6 Sportback e-tron prototype by Motor1.com" >}}
+### Audi Q6 Sportback e-tron performance
 
+Denne varianten er rwd-modellen med et 100kWh batteri og 240kW/326hk.
+
+Audi Q6 SUV e-tron inkluderer følgende som standard
+
+Omfang:
+
+**Eksteriør:**
+
+- avansert eksteriør
+- Bunnlinje i Mythos Black kontrastlakk
+- Enkelt ramme i karosserifarge
+- LED-frontlykter og LED-baklykter
+- Hjul, 10-eikers, 8.0 J x 18 med dekk 235/65 R 18 foran, 9.0 J x 18 med dekk 255/60 R 18 bak
+- Sorte vinduslister
+- Takrails matt svart
+
+**Interiør:**
+
+- Standard forseter i stoff
+- Dekorinnlegg fin vulkangrå lakk
+- Softwrap
+- Dobbelt-eiket skinnratt med multifunksjon
+- Ambient belysningspakke
+- Dørterskelplater med aluminiumsinnlegg foran
+
+[Se detaljert spesifikasjon](../specifications/#audi-q6-sportback-e-tron-performance)
+
+
+### Audi Q6 Sportback e-tron quattro
+
+Denne varianten er inngangsmodellen quattro med 285kW/385HK for EU-versjonen og 340kW og 433 BPH for US-versjonen.
+
+Audi Q6 SUV e-tron inkluderer følgende som standard
+Omfang:
+
+**Eksteriør:**
+
+- avansert eksteriør
+- Bunnlinje i Mythos Black kontrastlakk
+- Enkelt ramme i karosserifarge
+- LED-frontlykter og LED-baklykter
+- Hjul, 10-eikers, 8.0 J x 18 med dekk 235/65 R 18 foran, 9.0 J x 18 med dekk 255/60 R 18 bak
+- Sorte vinduslister
+- Takrails matt svart
+
+**Interiør:**
+
+- Standard forseter i stoff
+- Dekorinnlegg fin vulkangrå lakk
+- Softwrap
+- Dobbelt-eiket skinnratt med multifunksjon
+- Ambient belysningspakke
+- Dørterskelplater med aluminiumsinnlegg foran
+
+[Se detaljert spesifikasjon](../specifications/#audi-q6-sportback-e-tron-quattro)
+
+### Audi SQ6 Sportback e-tron
+
+Ytelsesvariant.
+
+Audi SQ6 SUV e-tron inkluderer følgende som standard
+Omfang:
+
+**Eksteriør:**
+
+- S-modell eksteriør
+- Bunnlinje i Mythos Black kontrastlakk
+- Enkelt ramme i karosserifarge med aluminiumsinnlegg
+- LED-frontlykter pluss med dynamisk belysning og LED-baklykter pro med et kontinuerlig lysbånd
+- S sportsfjæring
+- Hjul, 5-arm struktur, grafittgrå, høyglans finish, 8.5 J x 20 med dekk 255/50 R 20 foran, 10.0 J x 20 med dekk 285/45 R 20 bak
+- Sorte vinduslister
+- Eksteriør speilhus krom utseende matt sølv
+- Aluminiums takrails
+- e-tron sportslyd
+  
+**Interiør:**
+
+- Sportsseter i svart skinn/kunstskinn kombinasjon
+- Dekorinnlegg aluminium matt børstet antrasitt
+- Softwrap
+- Sports skinnratt, 3-eiket, flatet på toppen og bunnen med multifunksjon og girskovler inkludert S-emblem
+- Pedaler og fotstøtte i rustfritt stål
+- Ambient belysningspakke
+- Dørterskelplater med aluminiumsinnlegg foran, opplyst med S-bokstaver
+
+[Se detaljert spesifikasjon](../specifications/#audi-sq6-sportback-e-tron)
+
+
+## Kommende versjoner
+
+### Audi RSQ6
+
+Dette er super-ytelsesversjonene. Jeg forventer rundt 600HK, som Macan Turbo. Denne varianten er ikke bekreftet, men prototyper har blitt sett testet.

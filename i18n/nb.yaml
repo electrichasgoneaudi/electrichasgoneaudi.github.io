@@ -14,7 +14,7 @@
 - id: language
   translation: Språk
 
-# Frontpage
+# Forside
 - id: frontpage-title
   translation: Electric has gone Audi - Alt om helelektriske Audier
 
@@ -103,7 +103,7 @@
   translation: Audi oppdaterer Q4 e-tron
 
 - id: frontpage-article-updatedq4-synopsis
-  translation: Audi updates the smallest all-electric model. Thats includes charging up to 135KW.
+  translation: Audi oppdaterer den minste helelektriske modellen. Det inkluderer lading opp til 135KW.
 
 - id: frontpage-article-audidna-title
   translation: Audi DNA
@@ -121,7 +121,7 @@
   translation: Audi A6 Avant e-tron bekreftet
 
 - id: frontpage-article-a6avant-synopsis
-  translation: Din favoritt stasjonsvogn blir helelektrisk somAudi A6 Avant e-tron
+  translation: Din favoritt stasjonsvogn blir helelektrisk som Audi A6 Avant e-tron
 
 - id: frontpage-article-urbanshpere-title
   translation: Audi urbansphere konsept
@@ -133,7 +133,7 @@
   translation: Audi e-tron vs Audi Q4 e-tron
 
 - id: frontpage-article-etronvsq4-synopsis
-  translation: Er du klar over alle forskjellene mellom Audi e-tron og the Audi Q4 e-tron? Les den komplette sammenligningen. 
+  translation: Er du klar over alle forskjellene mellom Audi e-tron og Audi Q4 e-tron? Les den komplette sammenligningen. 
 
 - id: frontpage-article-etronfaceliftprototype-title
   translation: Audi e-tron facelift prototype
@@ -187,4 +187,10 @@
   translation: Audi e-tron GT refresh
 
 - id: frontpage-article-etronggtrefresh-synopsis
-  translation: More power, more range and new variants. 
+  translation: Mer kraft, mer rekkevidde og nye varianter.
+  
+- id: frontpage-article-q6sportbackpremiere-title
+  translation: Audi Q6 Sportback e-tron verdenspremiere
+
+- id: frontpage-article-q6sportbackpremiere-synopsis
+  translation: Audi lanserer nå Q6 Sportback e-tron.

@@ -86,7 +86,8 @@ comes to applications. For example, customers who buy the S line variant or the
 the technical fabric Anthracite, made from recycled materials. Alternatively, Birch Wood Linear Stone
 Gray natural is available, which has been optimized to produce less waste during its production.
 
-An entire portfolio of drive and battery variants available at market launch
+## An entire portfolio of drive and battery variants available at market launch
+
 Two battery sizes and two drive variants are available for the Q6 Sportback e-tron. With its 83-kWh
 high-voltage battery (net: 75.8 kWh), even the entry-level variant of the electric Sportback boasts
 confident driving performance. The rear-wheel drive Q6 Sportback e-tron (combined power
@@ -147,7 +148,8 @@ system adapts accordingly to control the movement of the vehicle’s body. The a
 with controlled damping compensates for the load via the level control to maintain an even ride height
 even under different load conditions.
 
-Five stars in Euro NCAP and “Best in Class” for child safety
+## Five stars in Euro NCAP and “Best in Class” for child safety
+
 The Q6 e-tron was awarded the highest rating of five stars by Euro NCAP (European New Car
 Assessment Program), the renowned European consumer protection organization. The vehicle was
 evaluated and achieved excellent results in the Adult Occupant Protection, Child Occupant Protection,
