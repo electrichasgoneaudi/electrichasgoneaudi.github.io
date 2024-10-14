@@ -39,7 +39,7 @@ Det letteste er kanskje å bruke din nettleser. og Åpne denne adressen :
 https://internetinthecar.telia.vodafone.com/m2miitcfo/faces/account.jspx
 
 
-Du må nok logge på, jeg opplever at nettleseren husker innloggingen for en stund.
+Du må nok logge på, jeg opplever at nettleseren husker innloggingen for en stund. Om du må logge på så er det myAudi bruker og passord du må bruke. Du vil kjenne igjen den påloggingsdialogen når du ser den.
 
 Man har denne velkomstsiden som viser status. Mest sannsynlig vil du gå rett til ADMINISTRER valget
 ![](image-4.png)
@@ -47,7 +47,7 @@ Man har denne velkomstsiden som viser status. Mest sannsynlig vil du gå rett ti
 
 Her vises status og du kan f.eks velg eå endre abonnement eller endre/knytte opp en betalingsmetode.
 
-Du har valget for 'Velg maksimal granse for påfyll' det angir hvor mange ganger du tillater at det automatisk opprettes ny data pakke pr mnd. Dette er for at det ikke skal bare fylle og fylle om du av en eller annen grunn plutselig begynner å bruk mengde med data.
+Du har valget for 'Velg maksimal granse for påfyll' det angir hvor mange ganger du tillater at det automatisk opprettes ny data pakke pr mnd. Dette er for at det ikke skal bare fylle og fylle om du av en eller annen grunn plutselig begynner å bruke store mengder med data.
 ![](image-5.png)
 
 Velger du å endre abonnement kommer det opp en slik side :

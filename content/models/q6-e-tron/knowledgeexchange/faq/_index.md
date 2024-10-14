@@ -8,3 +8,7 @@ weight: 30
 ## Internet in the car
 
 - [Read about how to setup and buy data quotes for you use](internet-in-the-car)
+
+## Garagedoor opener
+
+- [Read about setting it up here](garagedoor-programming)
