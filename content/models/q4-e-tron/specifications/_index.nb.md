@@ -357,7 +357,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel foran
+				Angrepsvinkel
 			</td>
 			<td>
 				17,7
@@ -365,7 +365,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel bak
+				Avgangsvinkel
 			</td>
 			<td>
 				23,3
@@ -1965,7 +1965,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel foran
+				Angrepsvinkel
 			</td>
 			<td>
 				16,9
@@ -1973,7 +1973,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel bak
+				Avgangsvinkel
 			</td>
 			<td>
 				19,4
@@ -3573,7 +3573,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel foran
+				Angrepsvinkel
 			</td>
 			<td>
 				16,9
@@ -3581,7 +3581,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel bak
+				Avgangsvinkel
 			</td>
 			<td>
 				19,4
@@ -5181,7 +5181,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel foran
+				Angrepsvinkel
 			</td>
 			<td>
 				16,9
@@ -5189,7 +5189,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel bak
+				Avgangsvinkel
 			</td>
 			<td>
 				19,4
@@ -6789,7 +6789,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel foran
+				Angrepsvinkel
 			</td>
 			<td>
 				17,7
@@ -6797,7 +6797,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel bak
+				Avgangsvinkel
 			</td>
 			<td>
 				23,3
@@ -8397,7 +8397,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel foran
+				Angrepsvinkel
 			</td>
 			<td>
 				17,7
@@ -8405,7 +8405,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel bak
+				Avgangsvinkel
 			</td>
 			<td>
 				23,3
@@ -10005,7 +10005,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel foran
+				Angrepsvinkel
 			</td>
 			<td>
 				17,7
@@ -10013,7 +10013,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel bak
+				Avgangsvinkel
 			</td>
 			<td>
 				23,3
@@ -11605,7 +11605,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel foran
+				Angrepsvinkel
 			</td>
 			<td>
 				16,9
@@ -11613,7 +11613,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel bak
+				Avgangsvinkel
 			</td>
 			<td>
 				19,4
@@ -13205,7 +13205,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel foran
+				Angrepsvinkel
 			</td>
 			<td>
 				16,9
@@ -13213,7 +13213,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel bak
+				Avgangsvinkel
 			</td>
 			<td>
 				19,4
@@ -14805,7 +14805,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel foran
+				Angrepsvinkel
 			</td>
 			<td>
 				16,9
@@ -14813,7 +14813,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel bak
+				Avgangsvinkel
 			</td>
 			<td>
 				19,4
@@ -16429,7 +16429,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel foran
+				Angrepsvinkel
 			</td>
 			<td>
 				16,9
@@ -16437,7 +16437,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel bak
+				Avgangsvinkel
 			</td>
 			<td>
 				19,4
@@ -18029,7 +18029,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel foran
+				Angrepsvinkel
 			</td>
 			<td>
 				16,9
@@ -18037,7 +18037,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel bak
+				Avgangsvinkel
 			</td>
 			<td>
 				19,4
@@ -19637,7 +19637,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel foran
+				Angrepsvinkel
 			</td>
 			<td>
 				16,9
@@ -19645,7 +19645,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel bak
+				Avgangsvinkel
 			</td>
 			<td>
 				19,4
@@ -21245,7 +21245,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel foran
+				Angrepsvinkel
 			</td>
 			<td>
 				16,9
@@ -21253,7 +21253,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel bak
+				Avgangsvinkel
 			</td>
 			<td>
 				19,4
@@ -22877,7 +22877,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel foran
+				Angrepsvinkel
 			</td>
 			<td>
 				16,9
@@ -22885,7 +22885,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Overhengsvinkel bak
+				Avgangsvinkel
 			</td>
 			<td>
 				19,4

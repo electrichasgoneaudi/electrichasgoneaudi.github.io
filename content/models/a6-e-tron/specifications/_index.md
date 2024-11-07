@@ -435,7 +435,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Overhang angle front
+				Approach Angle
 			</td>
 			<td>
 				16,3
@@ -443,7 +443,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Overhang angle rear
+				Departure Angle
 			</td>
 			<td>
 				23,7
@@ -2016,7 +2016,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Overhang angle front
+				Approach Angle
 			</td>
 			<td>
 				16,3
@@ -2024,7 +2024,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Overhang angle rear
+				Departure Angle
 			</td>
 			<td>
 				23,7
@@ -3597,7 +3597,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Overhang angle front
+				Approach Angle
 			</td>
 			<td>
 				14,3
@@ -3605,7 +3605,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Overhang angle rear
+				Departure Angle
 			</td>
 			<td>
 				19,1
@@ -5178,7 +5178,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Overhang angle front
+				Approach Angle
 			</td>
 			<td>
 				16,3
@@ -5186,7 +5186,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Overhang angle rear
+				Departure Angle
 			</td>
 			<td>
 				23,7
@@ -5278,7 +5278,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Max trailer weight braked
 			</td>
 			<td>
-				2400 kg (5291 lbs)
+				2100 kg (4630 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -6759,7 +6759,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Overhang angle front
+				Approach Angle
 			</td>
 			<td>
 				16,3
@@ -6767,7 +6767,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Overhang angle rear
+				Departure Angle
 			</td>
 			<td>
 				23,7
@@ -6859,7 +6859,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Max trailer weight braked
 			</td>
 			<td>
-				2400 kg (5291 lbs)
+				2100 kg (4630 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -8340,7 +8340,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Overhang angle front
+				Approach Angle
 			</td>
 			<td>
 				13,5
@@ -8348,7 +8348,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Overhang angle rear
+				Departure Angle
 			</td>
 			<td>
 				17,2
@@ -8463,6 +8463,131 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 </table>
 
 ## Suspension
+
+The model offers 2 suspension variants
+
+### Standard
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Adaptive suspension
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable damping front
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable damping rear
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable height front
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable height rear
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max ground clearance
+			</td>
+			<td>
+				143 mm (5,6")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minimum ground clearance
+			</td>
+			<td>
+				143 mm (5,6")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Damper type front
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Damper type rear
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spring type front
+			</td>
+			<td>
+				Coil Spring
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spring type rear
+			</td>
+			<td>
+				Coil Spring
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type front
+			</td>
+			<td>
+				Multilink
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type rear
+			</td>
+			<td>
+				Multi-link
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Adaptive Air Suspension Sport
 
 <table class="table table-striped border">
 	<thead>
@@ -9796,7 +9921,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Overhang angle front
+				Approach Angle
 			</td>
 			<td>
 				13,5
@@ -9804,7 +9929,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Overhang angle rear
+				Departure Angle
 			</td>
 			<td>
 				16,6
@@ -11252,7 +11377,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Overhang angle front
+				Approach Angle
 			</td>
 			<td>
 				13,5
@@ -11260,7 +11385,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Overhang angle rear
+				Departure Angle
 			</td>
 			<td>
 				17,2
