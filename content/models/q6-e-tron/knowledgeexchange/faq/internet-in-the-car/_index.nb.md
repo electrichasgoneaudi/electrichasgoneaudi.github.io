@@ -25,6 +25,8 @@ Vær også obs på at om du deler internett på din mobil eller har et WiFi nett
 
 TIPS: Når du skal installere apps fra App Store er det nok ganske lurt å enten dele internatt fra din telefon eller bruke Wifi (Hjemmenettverk) da disse appene ofte er av en viss størrelse og du kan spare databruk fra din 3GB kvote eller abonnement.
 
+NB: Vær obs på at det finnes en issue som antyder at AppStore og ev. andre funksjoner ikke fungere som forventet når bilen mangle LTE/5G forbindelse (for pkt 1 og 2 fra innledningen). Les mer om dette issuet her : https://github.com/electrichasgoneaudi/q6-e-tron/issues/45
+
 
 # Beskrivelse av hvordan du kopler og etablerer abonnement for App og Smarttelefon datapakke
 
