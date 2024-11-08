@@ -1,27 +1,15 @@
 ---
-title: Audi Q4 e-tron dimensjoner
+title: Audi Q4 e-tron Dimensjoner
 linktitle: Dimensjoner
-description:  Her finner du de mest relevante dimensjoner for Audi Q4 e-tron og Audi Q4 e-tron Sportback
+description: Finn de mest relevante dimensjonene for de forskjellige Audi Q4 e-tron variantene.
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
 
 ## Audi Q4 e-tron
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/dimensions/dimension.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/dimensions/dimension.jpg"
-        class="img-fluid" alt="Dimensjoner q4 e-tron" title="Dimensjoner q4 e-tron">
-    </a>
-    <figcaption><h4>Dimensjoner q4 e-tron</h4></figcaption>
-</figure>
+{{< sitefiguresized thumb="models/q4-e-tron/dimensions/dimension_st.jpg" width="2480" height="3050" title="Audi Q4 e-tron Dimensjoner" >}}
 
 ## Audi Q4 e-tron Sportback
 
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/dimensions/dimension.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/dimensions/dimension.jpg"
-        class="img-fluid" alt="Dimensjoner q4 e-tron Sportback" title="Dimensjoner q4 e-tron Sportback">
-    </a>
-    <figcaption><h4>Dimensjoner q4 e-tron Sportback</h4></figcaption>
-</figure>
+{{< sitefiguresized thumb="models/q4-e-tron/dimensions/dimensionsb_st.jpg" width="2480" height="3050" title="Audi Q4 e-tron Sportback Dimensjoner" >}}

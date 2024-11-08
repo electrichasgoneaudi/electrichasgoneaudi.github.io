@@ -4,7 +4,8 @@ linktitle: Drivetrain
 description: Audi A6 e-tron drivetrain
 weight: 7
 ---
-
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD010 -->
 
 {{< sitefiguresized thumb="models/a6-e-tron/drivetrain/drivetrain_1_st.jpg" width="3000" height="1640" title="Audi a6 e-tron drivetrain" >}}
 
