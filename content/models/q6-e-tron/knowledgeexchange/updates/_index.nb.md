@@ -7,6 +7,6 @@ weight: 30
 
 ## Programvare oppdateringer
 
-- [06XM - 03.01.00/C (28.11.01)](06XM)
+- [06XM - 03.01.00/C (28.11.01)](patch06xm)
 
 
