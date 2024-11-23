@@ -49,5 +49,5 @@ Eksempler på dette er
 
 Det nevnes lisensierte forbindelser, da du får 3 år med Audi Connect og 10 år med Audi nødoppringing, når bilen er ny.
 
-Audi Connect må du fornye som en betalt tjeneste når bilen er passert 3 år.
+Audi Connect må du fornye som en betalt tjeneste når bilens alder er passert 3 år.
 
