@@ -12,3 +12,7 @@ weight: 30
 ## Garagedoor opener
 
 - [Read about setting it up here](garagedoor-programming)
+
+## Symbols for dataconnections
+
+- [Read about the meaning of uplink symbols](uplink-symbols)
