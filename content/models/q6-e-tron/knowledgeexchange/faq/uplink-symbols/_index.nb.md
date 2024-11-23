@@ -19,7 +19,7 @@ Symbolet i rød ring viser signalstyrken på din telefon, hvis du har koblet den
 
 ## Symbol i grønn ring
 
-![Test](image-2.png "asdf")
+![Test](image-2.png)
 
 Symbolet i grønn ring viser signalstyrken for din smarttelefon-dataforbindelse. Dette er forbindelsen som brukes når du installerer apper fra App Store, og også den forbindelsen som de installerte appene vil bruke.
 

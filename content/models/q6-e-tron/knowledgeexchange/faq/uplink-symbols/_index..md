@@ -19,7 +19,7 @@ The symbol in the red ring shows the signal strength of your phone if you have c
 
 ## Symbol in green ring
 
-![Test](image-2.png "asdf")
+![Test](image-2.png)
 
 The symbol in the green ring shows the signal strength of your smartphone data connection. This is the connection used when you install apps from the App Store, and also the connection that the installed apps will use.
 
