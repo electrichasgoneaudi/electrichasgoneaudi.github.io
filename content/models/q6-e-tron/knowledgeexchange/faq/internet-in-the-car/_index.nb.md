@@ -36,7 +36,7 @@ Du kan selv velge om du vil ha et abonnement eller ikke. Om du ikke gjør så, o
 
 For å se status på forbruket ditt kan du bruke MMI i bilen din, eller du kan se dette via myAudi Appen, du finner den på første side helt nederst :
 
-![myAudi](myaudi-app-1.png "myAudi App")
+![myAudi App](myaudi-app-1.png)
 
 Bare trykk på valget og du kommer til din statusside og med linker til å kjøpe og administrare dine datapakker :
 

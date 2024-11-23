@@ -9,17 +9,17 @@ Det finnes opptil 3 ulike trådløse forbindelser fra bilen og ut til verden
 
 Du ser disse nederst til venste i hovemenyen på MMI, og det vises et eksempel i bildet under
 
-![alt text](image.png)
+![](image.png)
 
 ## Symbol i rød ring.
 
-![alt text](image-1.png)
+![](image-1.png)
 
 Symbolet i rød ring er signalstyrken på din telefon, hvis du har koplet denne til via bluetooth. Dette er en mobildata forbindelse.
 
 ## Symbol i grønn ring
 
-![alt text](image-2.png)
+![](image-2.png)
 
 Symbolet i grønn ring er signalstyrken for din smarttelefon-dataforbindelse. Det er denne som blir brukt om du installerer app fra App Store og er også den forbindelen som de installerte appene vil bruke.
 
@@ -32,7 +32,7 @@ Det er også et trafikksysmbol øverst til venstre i den grønne ringen som vise
 
 ## Symbol i blå ring
 
-![alt text](image-3.png)
+![](image-3.png)
 
 Symbolet i den blå ringen er bilens up link. Det er den som brukes for bilens lisensierte forbindelser.
 
