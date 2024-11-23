@@ -18,3 +18,7 @@ Many current and prospective owners have questions that others have already aske
 Every vehicle model, regardless of brand, may encounter issues. We have created a problem database for the Audi e-tron based on owner experiences.
 
 [Go to Problem Database](problemsdatabase)
+
+## Updates database
+
+[Go to Updates Database](updates)

@@ -5,7 +5,8 @@ description: Software updates
 weight: 30
 ---
 
-## Fixlist
+## Proramvare releaser
 
 - [06XM](06XM)
+
 
