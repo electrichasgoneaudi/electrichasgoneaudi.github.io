@@ -41,7 +41,7 @@ Dette er en mobildataforbindelse.
 Eksempler på dette er
 
 - Kartoppdateringer
-- Audi Connect /myAudi oppdateringer, dvs data som vises i myAudi appen
+- Audi Connect/myAudi oppdateringer, dvs data som vises i myAudi appen
 - Audi butikk funksjoner
 - Nød oppringing
 - Veihjelp oppringing
