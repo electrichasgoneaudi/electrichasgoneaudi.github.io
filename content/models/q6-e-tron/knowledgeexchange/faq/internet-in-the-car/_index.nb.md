@@ -34,6 +34,14 @@ Det følger med en datapakke på 3 GB per måned som du får med bilen de 3 før
 
 Du kan selv velge om du vil ha et abonnement eller ikke. Om du ikke gjør så, og har brukt opp dine gratis 3 GB er du uten internet i bilen fram til den 1. i neste måned. Så enkelt er det.
 
+
+
+[Slik oppretter du en ny avtale for aller første gang](create-new)
+
+Hvis du ikke har behov for mer enn 3 GB data (gratis kvoten) som trenger du ikke lese videre.
+
+Vennligst gå gjennom stegene som er forklar over før du fortsetter.
+
 For å se status på forbruket ditt kan du bruke MMI i bilen din, eller du kan se dette via myAudi Appen, du finner den på første side helt nederst :
 
 ![myAudi App](myaudi-app-1.png)
