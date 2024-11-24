@@ -1,15 +1,16 @@
 ---
 title: Internett i bilen
 linktitle: Internett i bilen
-description: Hvordan opprette en avtal første gang
+description: Hvordan opprette en avtale for første gang
 weight: 30
 ---
 
 
 # Beskrivelse av hvordan du kopler og etablerer abonnement for App og Smarttelefon datapakke for første gang
 
-![myAudi App](myaudi-app-1.png)
+Åpne myAudi Appen og klikk på dette valget
 
+![myAudi App](myaudi-app-1.png)
 
 Du vil få opp dette bildet om du ikke har en aktiv avtale for din bil. Da må du klikke 'Start oppretting' for å kople din bil til Vodaphone Internett i bilen
 
