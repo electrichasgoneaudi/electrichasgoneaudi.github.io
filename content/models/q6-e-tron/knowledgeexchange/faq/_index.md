@@ -16,3 +16,7 @@ weight: 30
 ## Symbols for dataconnections
 
 - [Read about the meaning of uplink symbols](uplink-symbols)
+
+## Audi Charging
+
+- [Read more and get useful tips here about Audi Charging](audi-charging)
