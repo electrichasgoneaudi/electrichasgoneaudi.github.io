@@ -1,11 +1,11 @@
 ---
-title: Plug and Charge
-linktitle: Plug and Charge
+title: Audi Charging
+linktitle: Audi Charging
 description: Tips and tricks
 weight: 30
 ---
 
-# Problem with certificate generation
+# Problem with certificate generation for Plug&Charge
 
 If you receive this message, there are 3 ways you can resolve it
 
