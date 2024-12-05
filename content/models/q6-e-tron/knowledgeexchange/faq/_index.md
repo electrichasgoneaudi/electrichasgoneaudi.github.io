@@ -20,3 +20,7 @@ weight: 30
 ## Audi Charging
 
 - [Read more and get useful tips here about Audi Charging](audi-charging)
+
+## Digital Key
+
+- [Read about the Digital Key](digital-key)

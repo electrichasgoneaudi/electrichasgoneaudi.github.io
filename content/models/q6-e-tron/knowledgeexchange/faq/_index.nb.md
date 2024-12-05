@@ -33,3 +33,7 @@ weight: 30
 ## Audi Charging
 
 - [Les her om tips og trix for Audi Charging](audi-charging)
+
+## Digital nøkkel
+
+- [Les om Digital nøkkel](digital-key)
