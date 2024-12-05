@@ -48,8 +48,9 @@ Når du er ferdig ser du dette på din mobil (jeg har iOS/iPhone), androind kan 
 Jeg opplever at rekkevidden på den digitale nøkkelen er veldig lang, så jeg satt i kjøkkenet og trykket ved en tilfeldighet på 'Åpne bagasjerom' og til min store skrekk, fungerte det fint. Det er ca 20m til bilen i garasjen, så jeg endte opp med å åpne bagasjeluka rett inn i garasjeporten. Har ikke dør inn til garasjen så det var litt kristestemning i heimen. Heldigvis løste det seg med å stå utenfor garasjeporten, dobbeltklikke med garasjeåpner knappen på nøkkel, for deretter å holde inn knappen og fikk da lukket bagasjelokket.
 
 
+Du får opp din digital nøkkel på iPhone ved å dobbelt trykke på 'Apple Pay' knappen din.
 
-Når du har fått satt opp din nøkkelser det slik ut i myAudi appen, og du kan faktisk veldig enkelt programmere nøkkelkort også. Med den kan du få det medfølgende nøkkelkortet i bilen til å fungere so mnøkkel i en begrenset periode fram til du tar i bruk din faste nøkkel eller Digital nøkkel.
+Når du har fått satt opp din nøkkelser det slik ut i myAudi appen, og du kan faktisk veldig enkelt programmere nøkkelkort også. Med den kan du få det medfølgende nøkkelkortet i bilen til å fungere som nøkkel i en begrenset periode fram til du tar i bruk din faste nøkkel eller Digital nøkkel.
 
 
 ![](image-8.png)
