@@ -45,7 +45,7 @@ Når du er ferdig ser du dette på din mobil (jeg har iOS/iPhone), androind kan 
 
 **ADVARSEL !**
 
-Jeg opplever at rekkevidden på den digitale nøkkelen er veldig lang, så jeg satt i kjøkkenet og trykket ved en tilfeldighet på 'Åpne bagasjerom' og til min store skrekk, fungerte det fint. Det er ca 20 m til bilen i garasjen, så jeg endte opp med å åpne bagasjeluka rett inn i garasjeporten. Har ikke dør inn til garasjen så det var litt kristestemning i heimen. Heldig vis løste det seg med å stå utenfor garasjeporten, dobbeltklikke med garasje åpner på nøkkel, for derteter å holde inn knappen og fikk da lukket bagasjelokket.
+Jeg opplever at rekkevidden på den digitale nøkkelen er veldig lang, så jeg satt i kjøkkenet og trykket ved en tilfeldighet på 'Åpne bagasjerom' og til min store skrekk, fungerte det fint. Det er ca 20m til bilen i garasjen, så jeg endte opp med å åpne bagasjeluka rett inn i garasjeporten. Har ikke dør inn til garasjen så det var litt kristestemning i heimen. Heldigvis løste det seg med å stå utenfor garasjeporten, dobbeltklikke med garasjeåpner knappen på nøkkel, for deretter å holde inn knappen og fikk da lukket bagasjelokket.
 
 
 
