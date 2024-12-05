@@ -11,7 +11,7 @@ Du finner dette symbolen i din MMI om du har digital nøkkel
 
 ![](image.png)
 
-Det er også et krav om at du har fått installert [06XM](https://electrichasgoneaudi.net/models/q6-e-tron/knowledgeexchange/updates/patch06xm/)
+Det er også et krav om at du har fått installert [Oppdatering 06XM](https://electrichasgoneaudi.net/models/q6-e-tron/knowledgeexchange/updates/patch06xm/)
 
 Det er lett å bli fristet til å klikke på ikoent i bilen og starte parringen, men undertegnede fikk ikke dette til når jeg forsøkte.
 
