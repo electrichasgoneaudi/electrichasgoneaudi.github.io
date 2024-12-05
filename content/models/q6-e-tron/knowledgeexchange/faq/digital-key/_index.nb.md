@@ -49,6 +49,9 @@ Jeg opplever at rekkevidden på den digitale nøkkelen er veldig lang, så jeg s
 
 
 
+Når du har fått satt opp din nøkkelser det slik ut i myAudi appen, og du kan faktisk veldig enkelt programmere nøkkelkort også. Med den kan du få det medfølgende nøkkelkortet i bilen til å fungere so mnøkkel i en begrenset periode fram til du tar i bruk din faste nøkkel eller Digital nøkkel.
 
+
+![](image-8.png)
 
 
