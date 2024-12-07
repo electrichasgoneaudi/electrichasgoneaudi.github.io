@@ -24,3 +24,7 @@ weight: 30
 ## Digital Key
 
 - [Read about the Digital Key](digital-key)
+
+## Hjulskift
+
+- [Read important articel about wheel change](wheel-change)

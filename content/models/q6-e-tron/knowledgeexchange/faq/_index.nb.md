@@ -37,3 +37,7 @@ weight: 30
 ## Digital nøkkel
 
 - [Les om Digital nøkkel](digital-key)
+
+## Hjulskift
+
+- [Les viktig artikkel om hjulskift](wheel-change)
