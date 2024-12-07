@@ -20,6 +20,8 @@ Bruk denne prosedyren så går det fint.
 NB!
 - **Forutsetningen er at bilen står på helt plant underlag. Det er meget viktig at bilen ikke kan trille avgårde.**
 
+- Du gjør dette på eget ansvar
+
 NB!
 
 ## Her er prosedyren
