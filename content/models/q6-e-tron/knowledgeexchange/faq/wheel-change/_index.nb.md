@@ -29,6 +29,6 @@ NB!
 
 ![](image.png)
 - Svar ja på dette spørsmålet og bekreft ditt valg
-- Så kan du jekk eopp bilen bak, og når bakhjulet at forlatt bakken, da kan du forsiktig gå inn i bilen og aktivere parkeringsbremsen. Du vil høre at bilen slå på bremsene. Viktig at dette gjøres med hjule fremdeles er på bilen. Detet er fordi om bilen skulel finne på å trille bitte litt, så er fremdeles hjulet på bilen.
-- Nå er parkeingsbremsen på og du vil kunen sku av bakhjulet på en trygg og god måte uten noe risiko for å skade hjulboltene bak.
+- Så kan du jekke opp bilen bak, og når bakhjulet at forlatt bakken, da kan du forsiktig gå inn i bilen og aktivere parkeringsbremsen. Du vil høre at bilen slå på bremsene. Viktig at dette gjøres med hjulet fremdeles er på bilen. Dette er fordi om bilen skulle finne på å trille bitte litt, så er fremdeles hjulet på bilen.
+- Nå er parkeringsbremsen på og du vil kunne sku av bakhjulet på en trygg og god måte uten noe risiko for å skade hjulboltene bak.
 - Gjenta prosedyren på det andre bakhjulet.
