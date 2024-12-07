@@ -1,11 +1,11 @@
 ---
-title: Plug and Charge
-linktitle: Plug and Charge
+title: Audi Charging
+linktitle: Audi Charging
 description: Tips og triks
 weight: 30
 ---
 
-# Problem med generering av sertifikat
+# Problem med generering av sertifikat for Plug&Charge
 
 Får du denne meldingen kan det være 3 måter du kan få dette løst på
 
