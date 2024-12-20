@@ -5,7 +5,7 @@ description: Software updates
 weight: 30
 ---
 
-## 06XM
+## 06XL
 
 ### Releasedato : 21.01.2024
 
