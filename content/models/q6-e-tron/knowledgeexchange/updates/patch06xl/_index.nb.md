@@ -9,6 +9,8 @@ weight: 30
 
 ### Releasedato : 21.01.2024
 
+#### Versjonsnummer i bilen er fremdeles 03.01.00
+
 - Programvareoppdateringen forbedrer noen funksjoner som ble forsøkt levert i [06XM](../patch06xm/)
 - Helt spesfikt så var det et avvik som gjør at bilen i visse tilfeler ikke kunne låses opp
 - I tillegg er det, inntil videre, ikke mulig å dele den digital nøkkelen med andre brukere og enheter. Den vil fortsatt kunne brukes på hovedenhetens enhet.
