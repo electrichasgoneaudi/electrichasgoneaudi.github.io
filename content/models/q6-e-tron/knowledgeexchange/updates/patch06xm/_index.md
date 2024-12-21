@@ -7,6 +7,8 @@ weight: 30
 
 ## 06XM
 
+- This is not an OTA update, the car need to visit the workshop
+
 ### Releasedate : 21.01.2024
 
 - The new software version contains a series of measures intended to improve quality, as well as several functional enhancements.

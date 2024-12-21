@@ -7,6 +7,8 @@ weight: 30
 
 ## 06XM
 
+- Dette er IKKE en OTA oppdatering, bilen må oppdateres på verksted
+
 ### Releasedato : 21.01.2024
 
 - Programvareoppdateringen forbedrer noen funksjoner og reduserer antallet meldinger som vises uten grunn. [Kjent feil #16](https://github.com/electrichasgoneaudi/q6-e-tron/issues/16) | [Kjent feil #30](https://github.com/electrichasgoneaudi/q6-e-tron/issues/30) | [Kjent feil #39](https://github.com/electrichasgoneaudi/q6-e-tron/issues/39) |  [Kjent feil #24](https://github.com/electrichasgoneaudi/q6-e-tron/issues/24)

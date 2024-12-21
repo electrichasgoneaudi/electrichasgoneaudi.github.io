@@ -9,6 +9,8 @@ weight: 30
 
 ### Releasedato : 21.01.2024
 
+- Dette er IKKE en OTA oppdatering, bilen må oppdateres på verksted
+
 #### Versjonsnummer i bilen er fremdeles 03.01.00
 
 - Programvareoppdateringen forbedrer noen funksjoner som ble forsøkt levert i [06XM](../patch06xm/)
