@@ -14,7 +14,7 @@ weight: 30
 #### Versjonsnummer i bilen er fremdeles 03.01.00
 
 - Programvareoppdateringen forbedrer noen funksjoner som ble forsøkt levert i [06XM](../patch06xm/)
-- Helt spesfikt så var det et avvik som gjør at bilen i visse tilfeler ikke kunne låses opp
+- Helt spesfikt så var det et avvik som gjør at bilen i visse tilfeller ikke kunne låses opp
 - I tillegg er det, inntil videre, ikke mulig å dele den digital nøkkelen med andre brukere og enheter. Den vil fortsatt kunne brukes på hovedenhetens enhet.
 - Digitale nøkler som ble konfigurert og delt før 18. desember 2024, kan fortsatt brukes i fullt omfang.
 - Digitale nøkler kan fortsatt slettes.
