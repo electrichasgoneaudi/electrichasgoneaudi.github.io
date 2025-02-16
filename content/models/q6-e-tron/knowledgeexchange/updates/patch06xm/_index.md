@@ -9,7 +9,7 @@ weight: 30
 
 - This is not an OTA update, the car need to visit the workshop
 
-### Releasedate : 21.01.2024
+### Releasedate : 21.11.2024
 
 - The new software version contains a series of measures intended to improve quality, as well as several functional enhancements.
 - The software update improves several functions and reduces the occurrence of unjustified warning messages. For example, the vehicle’s charging functions and their availability have been optimised. [Know issue #16](https://github.com/electrichasgoneaudi/q6-e-tron/issues/16) | [Know issue #30](https://github.com/electrichasgoneaudi/q6-e-tron/issues/30) | [Know issue #39](https://github.com/electrichasgoneaudi/q6-e-tron/issues/39) | [Know issue #22](https://github.com/electrichasgoneaudi/q6-e-tron/issues/22) | [Know issue #24](https://github.com/electrichasgoneaudi/q6-e-tron/issues/24)

@@ -9,7 +9,7 @@ weight: 30
 
 - Dette er IKKE en OTA oppdatering, bilen må oppdateres på verksted
 
-### Releasedato : 21.01.2024
+### Releasedato : 21.11.2024
 
 - Programvareoppdateringen forbedrer noen funksjoner og reduserer antallet meldinger som vises uten grunn. [Kjent feil #16](https://github.com/electrichasgoneaudi/q6-e-tron/issues/16) | [Kjent feil #30](https://github.com/electrichasgoneaudi/q6-e-tron/issues/30) | [Kjent feil #39](https://github.com/electrichasgoneaudi/q6-e-tron/issues/39) |  [Kjent feil #24](https://github.com/electrichasgoneaudi/q6-e-tron/issues/24)
 - Forbedring av bilens ladefunksjoner og tilgjengeligheten av disse. [Kjent feil #22](https://github.com/electrichasgoneaudi/q6-e-tron/issues/22) | [Kjent feil #16](https://github.com/electrichasgoneaudi/q6-e-tron/issues/16)

@@ -7,7 +7,7 @@ weight: 30
 
 ## 06XL
 
-### Releasedato : 21.01.2024
+### Releasedato : 01.12.2024
 
 - Dette er IKKE en OTA oppdatering, bilen må oppdateres på verksted
 
