@@ -142,16 +142,19 @@ Ruten ble byttet, og førerdøren måtte lakkeres da det var blitt merke etter f
 
 ## Bilder
 
-Her ser du noen bilder av bilen jeg har tatt i den tiden jeg har hatt bilen. Selv 5 år etter jeg fikk min første e-tron syns jeg fortsatt det er en flott SUV og designet har holdt seg veldig bra.
+Her ser du noen bilder av bilen jeg har tatt i den tiden jeg har hatt bilen. Klikk på bildene for full versjon.
 
+Selv 5 år etter jeg fikk min første e-tron syns jeg fortsatt det er en flott SUV og designet har holdt seg veldig bra.
 
+{{< sitefiguresized thumb="1337el/1337_39_st.jpg" width="3000" height="1687" title="Audi e-tron 55 s-line i Daytona grå" >}}
 
-{{< sitefiguresized thumb="1337el/1337_39_st.jpg" width="3000" height="2250" title="Audi e-tron 55 s-line i Daytona grå" >}}
+{{< sitefiguresized thumb="1337el/1337_38_st.jpg" width="3000" height="1687" title="Audi e-tron 55 s-line i Daytona grå" >}}
 
-{{< sitefiguresized thumb="1337el/1337_38_st.jpg" width="3000" height="2250" title="Audi e-tron 55 s-line i Daytona grå" >}}
 {{< sitefiguresized thumb="1337el/1337_35_st.jpg" width="3000" height="2250" title="Audi e-tron 55 s-line i Daytona grå" >}}
-{{< sitefiguresized thumb="1337el/1337_36_st.jpg" width="3000" height="2250" title="Audi e-tron 55 s-line i Daytona grå" >}}
-{{< sitefiguresized thumb="1337el/1337_37_st.jpg" width="3000" height="2250" title="Audi e-tron 55 s-line i Daytona grå" >}}
+
+{{< sitefiguresized thumb="1337el/1337_36_st.jpg" width="3000" height="1687" title="Audi e-tron 55 s-line i Daytona grå" >}}
+
+{{< sitefiguresized thumb="1337el/1337_37_st.jpg" width="3000" height="1687" title="Audi e-tron 55 s-line i Daytona grå" >}}
 
 {{< sitefiguresized thumb="1337el/1337_1_st.jpg" width="3000" height="2250" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
 
