@@ -10,9 +10,11 @@ Jeg selger nå min høyt elskede Audi e-tron 55 s-line da Audi S6 e-tron Avant e
 
 Min [første e-tron 55](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_typhoongrey_2.jpg) ble bestilt våren 2019. Den hadde det aller meste av utstyr som kunne bestilles. Men høsten 2020 ble S-line versjonen lansert, og man kunne endelig bestille bilen med 22" felger.
 
-Så ny bil ble bestilt, og etter 19 måneder med min e-tron 55 kunne jeg kjøre hjem med mitt drømmeoppsett av en e-tron.
+Så ny bil ble bestilt etter bare 19 måneder. En av ulempen med at Audi elbil er blitt hobbien min så føler man jo at man må et optimalt oppsett. 
 
-Bilen er optimalt spekket med utstyr. Når du hører at andre biler er godt utstyrt, sammenlign med denne. Kontrakten inneholder 2 sider med ekstrautstyr.
+Dermed er bilen spekket med utstyr og ser ut akkurat som jeg mener den skal. 
+
+Når du hører at andre biler er godt utstyrt, sammenlign med denne. Ekstrautstyret gikk over 2 sider på kontrakten.
 
 ## Høydepunkter
 
@@ -22,6 +24,7 @@ Bilen er optimalt spekket med utstyr. Når du hører at andre biler er godt utst
 - For å beskytte batteriet optimalt har jeg alltid parkert bilen på 60% hjemme og kun ladet opp videre ved behov. Bilen er stort sett brukt til å kjøre til Trysil i helger.
 - Bilen er kjørt 52.000 km (brukes fortsatt).
 - Bilen er kjøpt på Møller Bil Oslo Vest og har fabrikkgaranti frem til 23.09.2026 (eller 100.000 km).
+- Bilen har stått i garasje bortsett de dagene jeg har vært på hytta.
 
 ## Tester av bilen
 
@@ -116,12 +119,18 @@ Hva prisen er verdt nå, er helt opp til markedet.
 
 Når du vurderer dette, bør du ta høyde for:
 
-- Neste service er 60.000 km (estimert august). Her kan du forvente en servicekostnad i området 8-12.000,- basert på vanlige priser.
-- Jeg hadde planer om å bytte sommerdekk i år.
+- Neste service er 60.000 km (estimert august). En slik service koster normalt i området 8-12.000,-
+- Jeg hadde planer om å bytte sommerdekk i år. Jeg er usikker på om de kan brukes en sommersesong til.
 
-Basert på innbyttepris jeg har fått, forventer jeg at bilen burde selges for et sted mellom 500.000 og 550.000,-.
+Basert på innbyttepris jeg har fått, forventer jeg at bilen kan selges for et sted mellom 500.000 og 550.000,-.
 
 Se også relevant Finn-søk med andre [2022 modeller med tilsvarende kjørelengde](https://www.finn.no/mobility/search/car?mileage_from=40000&mileage_to=60000&model=1.744.2000503&registration_class=1&sort=PRICE_DESC&year_from=2022&year_to=2022).
+
+Sammenlign utstyret og se hvor mye mer denne bilen har.
+
+Kontakt meg på rune@electrichasgoneaudi.net hvis det er noe du lurer på eller du vil kjøpe. Jeg prøver meg i første omgang uten legge den på Finn.no for å se om jeg havner på en pris jeg er fornøyd med.
+
+For meg er en ryddig og enkel salgsprosess viktig. Så jeg er ikke interessert i kreative forslag om bytte eller spesielle finansieringsordninger. 
 
 ## Annet
 
@@ -129,6 +138,55 @@ Jeg har ikke hatt noen feil på bilen jeg har måttet få utbedret. Men jeg hadd
 
 Ruten ble byttet, og førerdøren måtte lakkeres da det var blitt merke etter forsøket. Arbeidet ble utført av Møller, og det er ikke mulig å se.
 
+2022 modellene er utstyrt med Samsung batteri.
+
 ## Bilder
 
-Her ser du noen bilder av bilen jeg har tatt tidligere.
+Her ser du noen bilder av bilen jeg har tatt i den tiden jeg har hatt bilen. Selv 5 år etter jeg fikk min første e-tron syns jeg fortsatt det er en flott SUV og designet har holdt seg veldig bra. 
+
+{{< sitefiguresized thumb="1337el/1337_1_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+
+{{< sitefiguresized thumb="1337el/1337_2_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+
+{{< sitefiguresized thumb="1337el/1337_3_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+
+{{< sitefiguresized thumb="1337el/1337_4_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+
+{{< sitefiguresized thumb="1337el/1337_5_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+
+{{< sitefiguresized thumb="1337el/1337_6_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+
+{{< sitefiguresized thumb="1337el/1337_7_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+
+{{< sitefiguresized thumb="1337el/1337_8_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+{{< sitefiguresized thumb="1337el/1337_9_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+{{< sitefiguresized thumb="1337el/1337_10_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+{{< sitefiguresized thumb="1337el/1337_11_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+{{< sitefiguresized thumb="1337el/1337_12_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+{{< sitefiguresized thumb="1337el/1337_13_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+{{< sitefiguresized thumb="1337el/1337_14_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+{{< sitefiguresized thumb="1337el/1337_15_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+{{< sitefiguresized thumb="1337el/1337_16_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+{{< sitefiguresized thumb="1337el/1337_17_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+{{< sitefiguresized thumb="1337el/1337_18_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+{{< sitefiguresized thumb="1337el/1337_19_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+{{< sitefiguresized thumb="1337el/1337_20_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+{{< sitefiguresized thumb="1337el/1337_21_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+{{< sitefiguresized thumb="1337el/1337_22_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+{{< sitefiguresized thumb="1337el/1337_23_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+{{< sitefiguresized thumb="1337el/1337_24_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+{{< sitefiguresized thumb="1337el/1337_25_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+{{< sitefiguresized thumb="1337el/1337_26_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+{{< sitefiguresized thumb="1337el/1337_27_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+{{< sitefiguresized thumb="1337el/1337_28_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+{{< sitefiguresized thumb="1337el/1337_29_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Sportback versjonen" >}}
+{{< sitefiguresized thumb="1337el/1337_30_st.jpg" width="1920" height="1440" title="Bilen sammenlignet med Sportback versjonen" >}}
+{{< sitefiguresized thumb="1337el/1337_31_st.jpg" width="1920" height="1440" title="Veldig bra massasje (se test fra Bjørn Nyland)" >}}
+{{< sitefiguresized thumb="1337el/1337_32_st.jpg" width="1920" height="1440" title="Setene kan justerer 18 veier. " >}}
+{{< sitefiguresized thumb="1337el/1337_33_st.jpg" width="1920" height="1440" title="Med NightVision får du med deg mye dyreliv i mørket som du aldri ville fått med deg uten" >}}
+{{< sitefiguresized thumb="1337el/1337_34_st.jpg" width="1920" height="1440" title="Audi e-tron 55 s-line i Daytona grå" >}}
+{{< sitefiguresized thumb="1337el/1337_35_st.jpg" width="1920" height="1440" title="Audi e-tron 55 s-line i Daytona grå" >}}
+{{< sitefiguresized thumb="1337el/1337_36_st.jpg" width="1920" height="1440" title="Audi e-tron 55 s-line i Daytona grå" >}}
+{{< sitefiguresized thumb="1337el/1337_37_st.jpg" width="1920" height="1440" title="Audi e-tron 55 s-line i Daytona grå" >}}
+{{< sitefiguresized thumb="1337el/1337_38_st.jpg" width="1920" height="1440" title="Audi e-tron 55 s-line i Daytona grå" >}}
+{{< sitefiguresized thumb="1337el/1337_39_st.jpg" width="1920" height="1440" title="Audi e-tron 55 s-line i Daytona grå" >}}
