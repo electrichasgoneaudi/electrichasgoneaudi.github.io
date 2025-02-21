@@ -18,3 +18,7 @@ Mange nåværende og potensielle eiere har spørsmål som andre allerede har sti
 Hver bilmodell, uavhengig av merke, kan støte på problemer. Vi har opprettet en problemdatabase for Audi e-tron basert på eieropplevelser.
 
 [Gå til Problemdatabase](problemsdatabase)
+
+## Oppdateringsdatabase
+
+[Gå til Oppdateringsdatabase](updates)

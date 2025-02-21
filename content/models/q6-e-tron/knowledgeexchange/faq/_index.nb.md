@@ -25,3 +25,19 @@ weight: 30
 ## Garasjeportåpner
 
 - [Les her om hvordan du setter det opp garasjeportåpner](garagedoor-programming)
+
+## Symboler for dataforbindelse
+
+- [Les her om hva de ulik symbolene betyr](uplink-symbols)
+
+## Audi Charging
+
+- [Les her om tips og trix for Audi Charging](audi-charging)
+
+## Digital nøkkel
+
+- [Les om Digital nøkkel](digital-key)
+
+## Hjulskift
+
+- [Les viktig artikkel om hjulskift](wheel-change)

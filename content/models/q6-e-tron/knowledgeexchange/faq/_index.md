@@ -12,3 +12,19 @@ weight: 30
 ## Garagedoor opener
 
 - [Read about setting it up here](garagedoor-programming)
+
+## Symbols for dataconnections
+
+- [Read about the meaning of uplink symbols](uplink-symbols)
+
+## Audi Charging
+
+- [Read more and get useful tips here about Audi Charging](audi-charging)
+
+## Digital Key
+
+- [Read about the Digital Key](digital-key)
+
+## Wheel change
+
+- [Read important articel about wheel change](wheel-change)
