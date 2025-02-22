@@ -17,7 +17,7 @@ Ser du annonser hvor biler beskrives som “godt utstyrt”? Sammenlign dem med 
 ## Høydepunkter
 
 - **Farge og felger:** Daytona grå med 22" sommerfelger og 20" sorte vinterfelger.
-- **Night Vision:** En funksjon som har reddet meg en gang og vil bli savnet på mørke veier i Trysil.
+- **Night Vision:** En funksjon som har reddet meg en gang og vil bli savnet på mørke veier på vei til Trysil eller på mørke høstkvelder i byen hvor folk ikke bruker refleks.
 - **Individual konturseter:** Kanskje markedets mest komfortable seter med 18-veis justering og massasje. Kostet 42 000 kr ekstra.
 - **Batterivedlikehold:** Alltid parkert på 60 % SOC hjemme og ladet videre ved behov.
 - **Bruksområde:** Hovedsakelig brukt til helgeturer til Trysil.
