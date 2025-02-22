@@ -1,20 +1,18 @@
 ---
-title: 2022 Audi e-tron 55 s-line til salgs
+title: 22022 Audi e-tron 55 S-line – Topp utstyrt og klar for ny eier
 linktitle: Guider
-description: Meget godt utstyrt Audi e-tron 55 s-line selges.
+description: Nå har du sjansen til å skaffe deg en av de best utstyrte Audi e-tron 55 S-line på markedet!
 weight: 3
 hidden: true
 ---
 
-Jeg selger nå min velutstyrte Audi e-tron 55 S-line, da min nye Audi S6 e-tron Avant er bestilt og snart ankommer Norge.
+Jeg selger min velutstyrte e-tron 55 S-line fordi min nye Audi S6 e-tron Avant er på vei. Denne bilen er ikke bare en e-tron – den er spekket med utstyr, nøye valgt for å gi den optimale kjøreopplevelsen.
 
-Min [første e-tron 55](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_typhoongrey_2.jpg) ble bestilt våren 2019, med det meste av tilgjengelig utstyr. Høsten 2020 ble S-line-versjonen lansert, og jeg benyttet anledningen til å oppgradere til denne varianten med 22" felger.
+Min reise med e-tron startet i 2019, da jeg bestilte [min første](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_typhoongrey_2.jpg) med nesten alt av tilgjengelig ekstrautstyr. Da S-line-versjonen ble lansert høsten 2020, oppgraderte jeg umiddelbart til denne varianten med 22” felger for et enda mer sportslig uttrykk.
 
-Som eier av electrichasgoneaudi.net og med personlig bilskilt som sier "Elite Electric" ([1337 = LEET = ELITE](https://en.wikipedia.org/wiki/Leet)) forplikter det litt å ha en optimalt utstyrt e-tron.
+Som eier av electrichasgoneaudi.net og med personlig skilt “Elite Electric” (1337 = LEET = ELITE), er det en selvfølge at bilen jeg kjører er blant de beste spesifiserte e-tronene der ute. Derfor ble denne bilen bestilt kun 19 måneder etter den første, og den har absolutt alt du kan ønske deg.
 
-Derfor ble min nåværende e-tron bestilt kun 19 måneder etter den første. Dette er bilen jeg nå selger.
-
-Hvis du ser annonser der biler omtales som "godt utstyrt" – sammenlign dem med denne. Ekstrautstyret fylte over to sider på kontrakten.
+Ser du annonser hvor biler beskrives som “godt utstyrt”? Sammenlign dem med denne. På min kontrakt fylte ekstrautstyret over to sider!
 
 ## Høydepunkter
 
