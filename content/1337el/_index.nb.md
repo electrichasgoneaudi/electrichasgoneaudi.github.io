@@ -127,7 +127,7 @@ Når du vurderer dette, bør du ta høyde for:
 - Neste service er ved 60.000 km (estimert august). En slik service koster normalt i området 8-12.000,-
 - Jeg hadde planer om å bytte sommerdekk i år. Jeg er usikker på om de kan brukes en sommersesong til.
 
-Basert på innbyttepris jeg har fått, forventer jeg at bilen kan selges for et sted i området 500.000 til 550.000,-.  
+Basert på innbyttepris jeg har fått, forventer jeg at bilen kan selges privat for et sted i området 500.000 til 550.000,-.  
 
 Se også relevant Finn-søk med andre [2022 modeller med tilsvarende kjørelengde](https://www.finn.no/mobility/search/car?mileage_from=40000&mileage_to=60000&model=1.744.2000503&registration_class=1&sort=PRICE_DESC&year_from=2022&year_to=2022).
 
