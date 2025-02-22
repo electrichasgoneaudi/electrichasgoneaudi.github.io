@@ -1,5 +1,5 @@
 ---
-title: 22022 Audi e-tron 55 S-line – Topp utstyrt og klar for ny eier
+title: 2022 Audi e-tron 55 S-line – Topp utstyrt og klar for ny eier
 linktitle: Guider
 description: Nå har du sjansen til å skaffe deg en av de best utstyrte Audi e-tron 55 S-line på markedet!
 weight: 3
