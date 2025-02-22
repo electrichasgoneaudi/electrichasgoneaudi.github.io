@@ -10,7 +10,7 @@ Jeg selger min velutstyrte e-tron 55 S-line fordi min nye Audi S6 e-tron Avant e
 
 Min reise med e-tron startet i 2019, da jeg bestilte [min første](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_typhoongrey_2.jpg) med nesten alt av tilgjengelig ekstrautstyr. Da S-line-versjonen ble lansert høsten 2020, oppgraderte jeg umiddelbart til denne varianten med 22” felger for et enda mer sportslig uttrykk.
 
-Som eier av electrichasgoneaudi.net og med personlig skilt “Elite Electric” (1337 = LEET = ELITE), er det en selvfølge at bilen jeg kjører er blant de beste spesifiserte e-tronene der ute. Derfor ble denne bilen bestilt kun 19 måneder etter den første, og den har absolutt alt du kan ønske deg.
+Som han som står bak electrichasgoneaudi.net og med personlig skilt “Elite Electric” (1337 = LEET = ELITE), er det en selvfølge at bilen jeg kjører er blant de beste spesifiserte e-tronene der ute. Derfor ble denne bilen bestilt kun 19 måneder etter den første, og den har absolutt alt du kan ønske deg.
 
 Ser du annonser hvor biler beskrives som “godt utstyrt”? Sammenlign dem med denne. På min kontrakt fylte ekstrautstyret over to sider!
 
