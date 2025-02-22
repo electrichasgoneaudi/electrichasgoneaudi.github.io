@@ -97,44 +97,35 @@ Denne bilen er spekket med utstyr. Her er en liste fra kontrakten (priser eks. m
 - BAGASJEROMSMATTE OG LASTEKANTFOLIE 1 824 *
 - GUMMIMATTER FORAN + BAK 239 *
 
-Totalt ekstrautstyr eks. mva 308.000,-
-
 ## Mer om bilen
 
-Som du ser av utstyrslisten over, er bilen spekket med utstyr, og det er svært lite som ikke ble valgt.
+Som du ser av utstyrslisten over, er bilen spekket med utstyr, og det er svært lite som ikke ble valgt. Jeg har hovedsakelig brukt bilen som hyttekjøretøy.
 
-Jeg har som nevnt i all hovedsak brukt bilen som hyttekjøretøy.
+Bilen er ikke den mest strømgjerrige, og rekkevidden har variert mellom ca. 430 km (sommertemperatur Vestlandet) ned til 250 km (-25°C på motorvei i 120+ km/t). Normalt sett ligger rekkevidden mellom 310-350 km basert på 110 km/t motorveikjøring på Østlandet. For meg har rekkevidden vært veldig lik vinter og sommer.
 
-Bilen er ikke den mest strømgjerrige, og rekkevidden har for meg variert mellom ca 430 km (sommertemperatur Vestlandet) ned til 250 km (-25 på motorvei i 120+).
+WLTP-rekkevidden på dette oppsettet er oppgitt til 371 km på kontrakten. (Finn-annonser oppgir ofte feilaktig rekkevidden for minimumsutstyrt e-tron.)
 
-Normalt sett ligger jeg mellom 310-350 km basert på 110 km/t motorveikjøring på Østlandet. For meg har rekkevidden vært veldig lik vinter og sommer.
+Selv om jeg nå bytter til en nyere bil fra Audi, vil noen aspekter være en nedgradering:
 
-WLTP rekkevidden på dette oppsettet er oppgitt på kontrakt til 371km. (Finn annonser oppgir ofte feilaktig rekkevidden for minimumsutstyrt e-tron)
-
-Selv om jeg nå bytter til en mye nyere bil fra Audi, er det altså slik at en del ting vil bli nedgradering.
-
-- Komfortmessig er bilen helt fantastisk. Svært stille, og setene er bare svært komfortable. Lånte meg en Volkswagen ID.7 en helg, og selv om setene på den bilen er veldig gode, var det utrolig godt å sette seg i denne bilen.
-- Luftjæringen med sin høydejustering gjør at bilen kommer frem selv i mye snø. Med ny bil vil jeg måtte måke langt mer på vinterstid. Les mer om [understellet her](../models/e-tron/drivetrain/suspension/). 
+- Komfortmessig er bilen helt fantastisk. Den er svært stille, og setene er utrolig komfortable. Jeg lånte en Volkswagen ID.7 en helg, og selv om setene på den bilen er veldig gode, var det utrolig godt å sette seg tilbake i denne bilen.
+- Luftfjæringen med høydejustering gjør at bilen kommer frem selv i mye snø. Med den nye bilen vil jeg måtte måke langt mer om vinteren. Les mer om [understellet her](../models/e-tron/drivetrain/suspension/).
 
 ## Annet
 
-Jeg har ikke hatt noen feil på bilen jeg har måttet få utbedret. Men jeg hadde et forsøk på innbrudd når bilen var 2 måneder gammel. Da ble sideruten knust, men siden det er alarm på bilen og dobbellaminerte ruter, klarte de ikke å komme seg inn i bilen.
+Jeg har ikke hatt noen feil på bilen som måtte utbedres. Men jeg hadde et forsøk på innbrudd da bilen var 2 måneder gammel. Sideruten ble knust, men siden bilen har alarm og dobbellaminerte ruter, klarte de ikke å komme seg inn. Ruten ble byttet, og førerdøren måtte lakkeres på grunn av merker i lakken etter forsøket. Arbeidet ble utført av Møller.
 
-Ruten ble byttet, og førerdøren måtte lakkeres da det var blitt merke i lakken etter forsøket. Arbeidet ble utført av Møller.
-
-[2022 modellene er utstyrt med Samsung batteri](../models/e-tron/drivetrain/battery/).
+[2022-modellene er utstyrt med Samsung-batteri](../models/e-tron/drivetrain/battery/).
 
 ## Pris?
 
-Nypris på denne var 1.047.900,- før rabatt.  
-Hva prisen er verdt nå, er helt opp til markedet.
+Nypris på denne var 1.047.900,- før rabatt. Hva prisen er verdt nå, er opp til markedet.
 
 Når du vurderer dette, bør du ta høyde for:
 
-- Neste service er 60.000 km (estimert august). En slik service koster normalt i området 8-12.000,-
+- Neste service er ved 60.000 km (estimert august). En slik service koster normalt i området 8-12.000,-
 - Jeg hadde planer om å bytte sommerdekk i år. Jeg er usikker på om de kan brukes en sommersesong til.
 
-Basert på innbyttepris jeg har fått, forventer jeg at bilen kan selges for et sted mellom 500.000 og 550.000,-.
+Basert på innbyttepris jeg har fått, forventer jeg at bilen kan selges for et sted i området 500.000 til 550.000,-.
 
 Se også relevant Finn-søk med andre [2022 modeller med tilsvarende kjørelengde](https://www.finn.no/mobility/search/car?mileage_from=40000&mileage_to=60000&model=1.744.2000503&registration_class=1&sort=PRICE_DESC&year_from=2022&year_to=2022).
 
@@ -142,11 +133,11 @@ Sammenlign utstyrsnivået!
 
 ## Kontakt
 
-Kontakt meg på <a href="mailto:rune@electrichasgoneaudi.net">rune@electrichasgoneaudi.net</a> hvis det er noe du lurer på eller du vil kjøpe. 
-
-Jeg prøver meg i første omgang uten legge den på Finn.no for å se om jeg havner på en pris jeg er fornøyd med.
+Er du interessert? Send meg en e-post på <a href="mailto:rune@electrichasgoneaudi.net">rune@electrichasgoneaudi.net</a>. Jeg prøver å selge bilen uten å legge den på Finn.no i første omgang.
 
 For meg er en ryddig og enkel salgsprosess viktig. Så jeg er ikke interessert i kreative forslag om bytte eller spesielle finansieringsordninger.
+
+Jeg vet ikke helt når jeg får min nye bil, men forventningen er før påske. Men jeg vil kunne være uten bil fra uke 11. 2025. Så drømmebilen kan være din snart!
 
 ## Bilder
 
