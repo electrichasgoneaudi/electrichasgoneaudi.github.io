@@ -1,34 +1,35 @@
 ---
 title: 2022 Audi e-tron 55 s-line til salgs
 linktitle: Guider
-description: 
+description: Meget godt utstyrt Audi e-tron 55 s-line selges.
 weight: 3
 hidden: true
 ---
 
-Jeg selger nå min høyt elskede Audi e-tron 55 s-line da Audi S6 e-tron Avant er bestilt og står klar til å bli skippet til Norge.
+Jeg selger nå min velutstyrte Audi e-tron 55 S-line, da min nye Audi S6 e-tron Avant er bestilt og snart ankommer Norge.
 
-Min [første e-tron 55](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_typhoongrey_2.jpg) ble bestilt våren 2019. Den hadde det aller meste av utstyr som kunne bestilles. Men høsten 2020 ble S-line versjonen lansert, og man kunne endelig bestille bilen med 22" felger.
+Min [første e-tron 55](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_typhoongrey_2.jpg) ble bestilt våren 2019, med det meste av tilgjengelig utstyr. Høsten 2020 ble S-line-versjonen lansert, og jeg benyttet anledningen til å oppgradere til denne varianten med 22" felger.
 
-Så ny bil ble bestilt etter bare 19 måneder. En av ulempen med at Audi elbil er blitt hobbien min så føler man jo at man må et optimalt oppsett. 
+Som eier av electrichasgoneaudi.net har jeg alltid vært opptatt av å ha en bil med det optimale oppsettet. Derfor ble min nåværende e-tron bestilt kun 19 måneder etter den første. Dette er bilen jeg nå selger.
 
-Dermed er bilen spekket med utstyr og ser ut akkurat som jeg mener den skal. 
-
-Når du hører at andre biler er godt utstyrt, sammenlign med denne. Ekstrautstyret gikk over 2 sider på kontrakten.
+Hvis du ser annonser der biler omtales som "godt utstyrt" – sammenlign dem med denne. Ekstrautstyret fylte over to sider på kontrakten.
 
 ## Høydepunkter
 
-- Bilen er Daytona grå og er utstyrt med 22" felger på sommeren og 20" sorte felger på vinteren.
-- Bilen har Night Vision - grunnen til at jeg ikke fikk lov hjemme til å oppgradere til Q8. Dette er dessverre ikke mulig å bestille på A6 heller, så denne vil være et stort savn på mørke Trysilveier fulle av elg. Jeg er blitt reddet en gang av det på min første e-tron.
-- Bilen har individual kontour seter. Kanskje de mest komfortable setene på markedet med 18 veis justering og veldig god massasje. Disse kostet 40k ekstra og kommer jeg til å savne.
-- For å beskytte batteriet optimalt har jeg alltid parkert bilen på 60% hjemme og kun ladet opp videre ved behov. Bilen er stort sett brukt til å kjøre til Trysil i helger.
-- Bilen er kjørt 52.000 km (brukes fortsatt).
-- Bilen er kjøpt på Møller Bil Oslo Vest og har fabrikkgaranti frem til 23.09.2026 (eller 100.000 km).
-- Bilen har stått i garasje bortsett de dagene jeg har vært på hytta.
+- **Farge og felger:** Daytona grå med 22" sommerfelger og 20" sorte vinterfelger.
+- **Night Vision:** En funksjon som har reddet meg en gang og vil bli savnet på mørke veier i Trysil.
+- **Individual konturseter:** Kanskje markedets mest komfortable seter med 18-veis justering og massasje. Kostet 42 000 kr ekstra.
+- **Batterivedlikehold:** Alltid parkert på 60 % SOC hjemme og ladet videre ved behov.
+- **Bruksområde:** Hovedsakelig brukt til helgeturer til Trysil.
+- **Kilometerstand:** 52 000 km (brukes fortsatt).
+- **Kjøpt hos:** Møller Bil Oslo Vest.
+- **Fabrikkgaranti:** Gjelder til 23.09.2026 eller 100 000 km.
+- **Oppbevaring:** Alltid parkert i garasje, bortsett fra ved hytte- og ferieturer.
+- **Lading:** Meget lite hurtigladet (ca. 20-30 ganger, primært på sommerferieturer). Ellers kun saktelading hjemme eller på hytta.
 
 ## Tester av bilen
 
-Selveste Bjørn Nyland har testet akkurat denne bilen. Ja, den som er til salgs. Her kan du se hans to tester.
+Bilen har blitt testet av selveste Bjørn Nyland. Se hans tester nedenfor:
 
 ### Rekkeviddetest
 
@@ -40,7 +41,7 @@ Selveste Bjørn Nyland har testet akkurat denne bilen. Ja, den som er til salgs.
 
 ## Utstyr
 
-Nedenfor er utstyrsliste fra kontrakt inkl. pris eks. mva. Klikk på lenkene for å lese mer om utstyret.
+Denne bilen er spekket med utstyr. Her er en liste fra kontrakten (priser eks. mva.). Klikk på lenkene for mer informasjon:
 
 - VINTERPAKKE
 - [S LINE SPORTSPAKKE](../models/e-tron/exterior/s-line/) 21 720 *
@@ -74,7 +75,7 @@ Nedenfor er utstyrsliste fra kontrakt inkl. pris eks. mva. Klikk på lenkene for
 - [INDIVIDUALKONTURSETER KOMB S-LINE](../models/e-tron/interior/seats/) 22 940 *
 - [SOLGARDIN, SIDERUTENE BAK](../models/e-tron/interior/curtain/) 2 460 *
 - [PANORAMASOLTAK](../models/e-tron/exterior/panoramicroof/) 18 320 *
-- SPEILHUS LAKKERT I SORT HØYGLANS 1 320 *
+- [SPEILHUS LAKKERT I SORT HØYGLANS](../models/e-tron/exterior/mirrors/) 1 320 *
 - AUT. AVBL./INNKL. UTV. SPEIL M/MEMO
 - [MLF-SPORTSRATT OPPVARMET](../models/e-tron/interior/steeringwheels/) 3 740 *
 - [EL. JUSTERBAR RATTSTAMME](../models/e-tron/interior/steeringwheels/) 4 920 *
@@ -104,13 +105,24 @@ Som du ser av utstyrslisten over, er bilen spekket med utstyr, og det er svært 
 
 Jeg har som nevnt i all hovedsak brukt bilen som hyttekjøretøy.
 
-Bilen er ikke den mest strømgjerrige, og rekkevidden har for meg variert mellom ca 440 km (sommertemperatur vestlandet) ned til 250 km (-25 på motorvei i 120+).
+Bilen er ikke den mest strømgjerrige, og rekkevidden har for meg variert mellom ca 430 km (sommertemperatur Vestlandet) ned til 250 km (-25 på motorvei i 120+).
 
 Normalt sett ligger jeg mellom 310-350 km basert på 110 km/t motorveikjøring på Østlandet. For meg har rekkevidden vært veldig lik vinter og sommer.
+
+WLTP rekkevidden på dette oppsettet er oppgitt på kontrakt til 371km. (Finn annonser oppgir ofte feilaktig rekkevidden for minimumsutstyrt e-tron)
 
 Selv om jeg nå bytter til en mye nyere bil fra Audi, er det altså slik at en del ting vil bli nedgradering.
 
 - Komfortmessig er bilen helt fantastisk. Svært stille, og setene er bare svært komfortable. Lånte meg en Volkswagen ID.7 en helg, og selv om setene på den bilen er veldig gode, var det utrolig godt å sette seg i denne bilen.
+- Luftjæringen med sin høydejustering gjør at bilen kommer frem selv i mye snø. Med ny bil vil jeg måtte måke langt mer på vinterstid. Les mer om [understellet her](../models/e-tron/drivetrain/suspension/). 
+
+## Annet
+
+Jeg har ikke hatt noen feil på bilen jeg har måttet få utbedret. Men jeg hadde et forsøk på innbrudd når bilen var 2 måneder gammel. Da ble sideruten knust, men siden det er alarm på bilen og dobbellaminerte ruter, klarte de ikke å komme seg inn i bilen.
+
+Ruten ble byttet, og førerdøren måtte lakkeres da det var blitt merke i lakken etter forsøket. Arbeidet ble utført av Møller.
+
+[2022 modellene er utstyrt med Samsung batteri](../models/e-tron/drivetrain/battery/).
 
 ## Pris?
 
@@ -126,25 +138,19 @@ Basert på innbyttepris jeg har fått, forventer jeg at bilen kan selges for et 
 
 Se også relevant Finn-søk med andre [2022 modeller med tilsvarende kjørelengde](https://www.finn.no/mobility/search/car?mileage_from=40000&mileage_to=60000&model=1.744.2000503&registration_class=1&sort=PRICE_DESC&year_from=2022&year_to=2022).
 
-Sammenlign utstyret og se hvor mye mer denne bilen har.
+Sammenlign utstyrsnivået!
 
-Kontakt meg på rune@electrichasgoneaudi.net hvis det er noe du lurer på eller du vil kjøpe. Jeg prøver meg i første omgang uten legge den på Finn.no for å se om jeg havner på en pris jeg er fornøyd med.
+## Kontakt
 
-For meg er en ryddig og enkel salgsprosess viktig. Så jeg er ikke interessert i kreative forslag om bytte eller spesielle finansieringsordninger. 
+Kontakt meg på <a href="mailto:rune@electrichasgoneaudi.net">rune@electrichasgoneaudi.net</a> hvis det er noe du lurer på eller du vil kjøpe. 
 
-## Annet
+Jeg prøver meg i første omgang uten legge den på Finn.no for å se om jeg havner på en pris jeg er fornøyd med.
 
-Jeg har ikke hatt noen feil på bilen jeg har måttet få utbedret. Men jeg hadde et forsøk på innbrudd når bilen var 2 måneder gammel. Da ble sideruten knust, men siden det er alarm på bilen og dobbellaminerte ruter, klarte de ikke å komme seg inn i bilen.
-
-Ruten ble byttet, og førerdøren måtte lakkeres da det var blitt merke etter forsøket. Arbeidet ble utført av Møller, og det er ikke mulig å se.
-
-2022 modellene er utstyrt med Samsung batteri.
+For meg er en ryddig og enkel salgsprosess viktig. Så jeg er ikke interessert i kreative forslag om bytte eller spesielle finansieringsordninger.
 
 ## Bilder
 
-Her ser du noen bilder av bilen jeg har tatt i den tiden jeg har hatt bilen. Klikk på bildene for full versjon.
-
-Selv 5 år etter jeg fikk min første e-tron syns jeg fortsatt det er en flott SUV og designet har holdt seg veldig bra.
+Bilen er fortsatt en av de flotteste SUV-ene på markedet. Se bildene nedenfor: Klikk på bildene for full versjon.
 
 {{< sitefiguresized thumb="1337el/1337_39_st.jpg" width="3000" height="1687" title="Audi e-tron 55 s-line i Daytona grå" >}}
 
