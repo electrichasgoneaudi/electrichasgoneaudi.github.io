@@ -10,7 +10,9 @@ Jeg selger nå min velutstyrte Audi e-tron 55 S-line, da min nye Audi S6 e-tron 
 
 Min [første e-tron 55](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_typhoongrey_2.jpg) ble bestilt våren 2019, med det meste av tilgjengelig utstyr. Høsten 2020 ble S-line-versjonen lansert, og jeg benyttet anledningen til å oppgradere til denne varianten med 22" felger.
 
-Som eier av electrichasgoneaudi.net har jeg alltid vært opptatt av å ha en bil med det optimale oppsettet. Derfor ble min nåværende e-tron bestilt kun 19 måneder etter den første. Dette er bilen jeg nå selger.
+Som eier av electrichasgoneaudi.net og med personlig bilskilt som sier "Elite Electric" ([1337 = LEET = ELITE](https://en.wikipedia.org/wiki/Leet)) forplikter det litt å ha en optimalt utstyrt e-tron.
+
+Derfor ble min nåværende e-tron bestilt kun 19 måneder etter den første. Dette er bilen jeg nå selger.
 
 Hvis du ser annonser der biler omtales som "godt utstyrt" – sammenlign dem med denne. Ekstrautstyret fylte over to sider på kontrakten.
 
@@ -125,7 +127,7 @@ Når du vurderer dette, bør du ta høyde for:
 - Neste service er ved 60.000 km (estimert august). En slik service koster normalt i området 8-12.000,-
 - Jeg hadde planer om å bytte sommerdekk i år. Jeg er usikker på om de kan brukes en sommersesong til.
 
-Basert på innbyttepris jeg har fått, forventer jeg at bilen kan selges for et sted i området 500.000 til 550.000,-.
+Basert på innbyttepris jeg har fått, forventer jeg at bilen kan selges for et sted i området 500.000 til 550.000,-.  
 
 Se også relevant Finn-søk med andre [2022 modeller med tilsvarende kjørelengde](https://www.finn.no/mobility/search/car?mileage_from=40000&mileage_to=60000&model=1.744.2000503&registration_class=1&sort=PRICE_DESC&year_from=2022&year_to=2022).
 
@@ -188,8 +190,8 @@ Bilen er fortsatt en av de flotteste SUV-ene på markedet. Se bildene nedenfor: 
 {{< sitefiguresized thumb="1337el/1337_26_st.jpg" width="3000" height="2250" title="Lademål på 60% har vært det vanlige for maks beskyttelse av batteri" >}}
 {{< sitefiguresized thumb="1337el/1337_27_st.jpg" width="3000" height="2250" title="Det følger med ladekabel og nødlader. Nødlader er aldri brukt. Ladekabel kanskje 5 ganger" >}}
 {{< sitefiguresized thumb="1337el/1337_28_st.jpg" width="3000" height="2250" title="E-tron er en av de få bilene som kan leveres med reservehjul. Jeg kjøpte selvsagt det." >}}
-{{< sitefiguresized thumb="1337el/1337_29_st.jpg" width="3000" height="2250" title="Bilen sammenlignet med Sportback versjonen" >}}
-{{< sitefiguresized thumb="1337el/1337_30_st.jpg" width="3000" height="2250" title="Bilen sammenlignet med Sportback versjonen" >}}
+{{< sitefiguresized thumb="1337el/1337_29_st.jpg" width="3000" height="1687" title="Bilen sammenlignet med Sportback versjonen" >}}
+{{< sitefiguresized thumb="1337el/1337_30_st.jpg" width="3000" height="1687" title="Bilen sammenlignet med Sportback versjonen" >}}
 {{< sitefiguresized thumb="1337el/1337_31_st.jpg" width="3000" height="2250" title="Veldig bra massasje (se test fra Bjørn Nyland)" >}}
 {{< sitefiguresized thumb="1337el/1337_32_st.jpg" width="3000" height="2250" title="Setene kan justerer 18 veier. " >}}
 {{< sitefiguresized thumb="1337el/1337_33_st.jpg" width="3000" height="2250" title="Med NightVision får du med deg mye dyreliv i mørket som du aldri ville fått med deg uten" >}}
