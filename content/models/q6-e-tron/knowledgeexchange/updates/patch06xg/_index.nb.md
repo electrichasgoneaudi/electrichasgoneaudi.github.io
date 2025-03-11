@@ -1,7 +1,7 @@
 ---
-title: Audi Q6 e-tron software updates
-linktitle: Software updates
-description: Software updates
+title: Audi Q6 e-tron programvare oppdateringer
+linktitle: Programvare oppdateringer
+description: Programvare oppdateringer
 weight: 30
 ---
 
