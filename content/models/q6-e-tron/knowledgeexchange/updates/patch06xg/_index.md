@@ -8,6 +8,7 @@ weight: 30
 ## 06XG
 
 - This is not an OTA update, the car need to visit the workshop
+- It may be a update only available in some countries/markets
 
 ### Releasedate : unkown
 
