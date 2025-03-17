@@ -28,3 +28,7 @@ weight: 30
 ## Wheel change
 
 - [Read important articel about wheel change](wheel-change)
+
+## Gjenopprette mistede apps i MMI
+
+- [Read the guide to recover missing apps](recover-missing-apps)

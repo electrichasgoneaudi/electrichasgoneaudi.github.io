@@ -41,3 +41,8 @@ weight: 30
 ## Hjulskift
 
 - [Les viktig artikkel om hjulskift](wheel-change)
+
+
+## Gjenopprette mistede apps i MMI
+
+- [Les om hvordan du kan få tilbake apper uten å fabrikkinnstille bilen](recover-missing-apps)
