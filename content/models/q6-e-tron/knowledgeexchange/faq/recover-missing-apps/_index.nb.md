@@ -5,11 +5,11 @@ description: Hvordan få reinstallert apps som plutselig har blitt borte fra MMI
 weight: 30
 ---
 
-Det er rapportert at flere brukere opplever at installerte Apper bare forsvinner for profilen. Ofte ser man at andre profiler i bilen (om man har dette) ikke har mistet appen, men det er jo litt vanskelig å håndtere hvis det er bilen hovedbruker som har mistet f.eks Spotify eller Vivaldi.
+Det er rapportert at flere brukere opplever at installerte Apper bare forsvinner for profilen. Ofte ser man at andre profiler i bilen (om man har dette) ikke har mistet appen, men det er jo litt vanskelig å håndtere hvis det er bilens hovedbruker som har mistet f.eks Spotify eller Vivaldi.
 
 Problemet er fremdeles veldig reelt og er rapportert til Audi, men i mellomtiden finnes det en alternativ løsning for å klare å avinstallerer appen selv om den ikke vises i bilen MMI hovedmeny.
 
-Denen prosedyren er jo bare en workaround til Audi faktisk får skikk på programvaren sin og forhåpentligvis skal du ikke benytte denne rutinen alt for ofte.
+Denne prosedyren er jo bare en workaround til Audi faktisk får skikk på programvaren sin og forhåpentligvis skal du ikke benytte denne rutinen alt for ofte.
 
 Gjør slik :
 
