@@ -24,16 +24,16 @@ Du vil se at du er raskt innom Cubic telecom (!)
 
 ![](image-2.png)
 
-Før du kommer til Vodaphone (med en mix av logoer far Telia, Cubic telecom og Vodaphone, som sannsynligvis er forklaringen på hvorfor dette er så vanskelig å få til ...)
+Før du kommer til Vodaphone
 
 Her fyller du ut dine data så godt du kan
 
-![](image-3.png)
+![](dataplan.png)
 
 
 Når du har trykket på fortsett, kommer du til valget hvor du faktisk må legge inn et gyldig betalingskort
 
-![](image-4.png)
+![](dataplan-2.png)
 
 ![](image-5.png)
 
@@ -43,11 +43,11 @@ Forhåpentligvis klarte du å få inn et godkjent kredittkort, og du blir sendt 
 
 ![](image-7.png)
 
-![](image-8.png)
+![](dataplan-5.png)
 
 Og du må krysse av for å ha lest og godkjenner vilkårene, og klikk 'Aktiver konto'
 
-![](image-9.png)
+![](dataplan-4.png)
 
 Det tar litt tid å opprette dette, så vær tålmodig ...
 
@@ -57,9 +57,9 @@ Vellykket er den meldingen du venter på ..
 
 ![](image-11.png)
 
-Og til slutt ender du opp i din avtale oversikt, med Telia som logo ...
+Og til slutt ender du opp i din avtale oversikt
 
-![](image-12.png)
+![](dataplan-3.png)
 
 Hvis du nå går inn på valget for smarttelefonpakker i bilen
 

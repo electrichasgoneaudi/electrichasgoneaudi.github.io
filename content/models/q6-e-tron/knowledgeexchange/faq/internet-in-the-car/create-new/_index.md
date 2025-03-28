@@ -23,15 +23,15 @@ You will briefly see Cubic telecom (!)
 
 ![](image-2.png)
 
-Before you reach Vodafone (with a mix of logos from Telia, Cubic telecom, and Vodafone, which is probably why this is so difficult to set up ...)
+Before you reach Vodafone
 
 Here you fill in your details as best as you can
 
-![](image-3.png)
+![](dataplan.png)
 
 When you have clicked continue, you will reach the option where you actually need to enter a valid payment card
 
-![](image-4.png)
+![](dataplan-2.png)
 
 ![](image-5.png)
 
@@ -41,11 +41,11 @@ Hopefully, you managed to enter an approved credit card, and you will be sent to
 
 ![](image-7.png)
 
-![](image-8.png)
+![](dataplan-5.png)
 
 And you need to check that you have read and agree to the terms, and click 'Activate account'
 
-![](image-9.png)
+![](dataplan-4.png)
 
 It takes some time to create this, so be patient ...
 
@@ -55,9 +55,9 @@ It takes some time to create this, so be patient ...
 
 ![](image-11.png)
 
-And finally, you end up in your agreement overview, with Telia as the logo ...
+And finally, you end up in your agreement overview
 
-![](image-12.png)
+![](dataplan-3.png)
 
 If you now go to the option for smartphone packages in the car
 
