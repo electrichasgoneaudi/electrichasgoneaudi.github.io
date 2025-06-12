@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 e-tron specifications
 linktitle: "Specifications"
-description: "electrichasgoneaudi.net gives you the full specifications for Audi Q4 e-tron."
+description: "electrichasgoneaudi.net provides full specifications for Audi Q4 e-tron."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
@@ -11,11 +11,11 @@ navicon: bi-layout-text-sidebar-reverse
 <div class="accordion" id="accordionPanelsStayOpenExample">
     <div class="accordion-item">
         <h2 class="accordion-header">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapse8a79e429-50cf-4d0c-a992-41150a5cbcfd" aria-expanded="true" aria-controls="panelsStayOpen-collapse8a79e429-50cf-4d0c-a992-41150a5cbcfd">
-                        Audi Q4 35 e-tron
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapse88444e80-9181-415f-a5d7-3888f7d2222a" aria-expanded="true" aria-controls="panelsStayOpen-collapse88444e80-9181-415f-a5d7-3888f7d2222a">
+                        Audi Q4 40 e-tron
             </button>
         </h2>
-        <div id="panelsStayOpen-collapse8a79e429-50cf-4d0c-a992-41150a5cbcfd" class="accordion-collapse collapse">
+        <div id="panelsStayOpen-collapse88444e80-9181-415f-a5d7-3888f7d2222a" class="accordion-collapse collapse">
             <div class="accordion-body">
 
 ## Performance
@@ -37,7 +37,7 @@ navicon: bi-layout-text-sidebar-reverse
 				Peak power
 			</td>
 			<td>
-				125 KW (170 hp /168 bhp)
+				160 KW (218 hp /215 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -61,7 +61,7 @@ navicon: bi-layout-text-sidebar-reverse
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				9 s
+				8,1 s
 			</td>
 		</tr>
 	</tbody>
@@ -89,7 +89,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Basic trim WLTP range
 			</td>
 			<td>
-				365 km
+				412 km
 			</td>
 		</tr>
 		<tr>
@@ -97,7 +97,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Basic trim WLTP consumption
 			</td>
 			<td>
-				14,2 kWh/100km
+				14,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -105,7 +105,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Basic trim WLTP consumption with charging loss
 			</td>
 			<td>
-				16,4 kWh/100km
+				16 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -113,7 +113,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Top trim WLTP range
 			</td>
 			<td>
-				325 km
+				370 km
 			</td>
 		</tr>
 		<tr>
@@ -121,7 +121,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Top trim WLTP consumption
 			</td>
 			<td>
-				16,0 kWh/100km
+				15,9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -129,7 +129,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Top trim WLTP consumption with charging loss
 			</td>
 			<td>
-				18,7 kwh/100km
+				18,4 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -156,7 +156,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Battery gross
 			</td>
 			<td>
-				55 kWh
+				63 kWh
 			</td>
 		</tr>
 		<tr>
@@ -164,7 +164,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Battery net
 			</td>
 			<td>
-				52 kWh
+				59 kWh
 			</td>
 		</tr>
 		<tr>
@@ -172,7 +172,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Max DC charging
 			</td>
 			<td>
-				145 kW
+				165 kW
 			</td>
 		</tr>
 		<tr>
@@ -180,7 +180,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Number of modules
 			</td>
 			<td>
-				8
+				9
 			</td>
 		</tr>
 		<tr>
@@ -188,7 +188,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Pack Configuration
 			</td>
 			<td>
-				96s1p
+				108s2p
 			</td>
 		</tr>
 		<tr>
@@ -196,7 +196,15 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Nominal voltage
 			</td>
 			<td>
-				350
+				397
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Cathode Materials
+			</td>
+			<td>
+				NMC
 			</td>
 		</tr>
 	</tbody>
@@ -296,7 +304,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1622 mm (63,9")
+				1632 mm (64,3")
 			</td>
 		</tr>
 		<tr>
@@ -309,7 +317,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Width including mirrors
+				Dimensions.WidhtIncludingMirrors
 			</td>
 			<td>
 				2108 mm (83,0")
@@ -344,7 +352,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0,28
+				0,29
 			</td>
 		</tr>
 		<tr>
@@ -368,7 +376,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Departure Angle
 			</td>
 			<td>
-				23,3
+				23,4
 			</td>
 		</tr>
 		<tr>
@@ -401,7 +409,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Curb weight
 			</td>
 			<td>
-				1890 kg (4167 lbs)
+				1960 kg (4321 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -409,7 +417,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Maximum total weight
 			</td>
 			<td>
-				2475 kg (5456 lbs)
+				2540 kg (5600 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -417,12 +425,12 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Maximum load including weight driver
 			</td>
 			<td>
-				585 kg (1290 lbs)
+				580 kg (1279 lbs)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Maks roof cargo
+				Max roof cargo
 			</td>
 			<td>
 				75 kg (165 lbs)
@@ -820,7 +828,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -828,10 +836,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -839,7 +847,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -965,7 +973,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -973,10 +981,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -984,7 +992,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1052,7 +1060,7 @@ This model is available with a seat configuration with five seats.
 				Length adjustable headrest
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1060,7 +1068,7 @@ This model is available with a seat configuration with five seats.
 				Adjustable thigh support
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1068,23 +1076,23 @@ This model is available with a seat configuration with five seats.
 				Backrest side bolster adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1092,7 +1100,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1100,7 +1108,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1108,7 +1116,7 @@ This model is available with a seat configuration with five seats.
 				Seat ventilation
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1116,7 +1124,7 @@ This model is available with a seat configuration with five seats.
 				Massage function
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 	</tbody>
@@ -1149,7 +1157,7 @@ This model is available with a seat configuration with five seats.
 				Height adjustable headrest
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -1157,7 +1165,7 @@ This model is available with a seat configuration with five seats.
 				Length adjustable headrest
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1165,7 +1173,7 @@ This model is available with a seat configuration with five seats.
 				Adjustable thigh support
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1173,23 +1181,23 @@ This model is available with a seat configuration with five seats.
 				Backrest side bolster adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1197,7 +1205,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1205,7 +1213,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1213,7 +1221,7 @@ This model is available with a seat configuration with five seats.
 				Seat ventilation
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1221,7 +1229,7 @@ This model is available with a seat configuration with five seats.
 				Massage function
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 	</tbody>
@@ -1283,7 +1291,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Rear cross traffic alert
+				Rear cross traffic alert (RCTA)
 			</td>
 			<td>
 				Not available
@@ -1387,7 +1395,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Cross traffic assist
+				Cross traffic allert (CTA)
 			</td>
 			<td>
 				Yes (Audi Collision Avoidance Assist), optional equipment
@@ -1484,7 +1492,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				In Car navigation
+				In-car navigation
 			</td>
 			<td>
 				Yes (MMI Navigation plus), optional equipment
@@ -1534,7 +1542,1607 @@ This model is available with a seat configuration with five seats.
 </table>
 		<tr>
 			<td>
-				Number of avaiable sound systems
+				Number of available sound systems
+			</td>
+			<td>
+				2
+			</td>
+		</tr>
+
+### Audi Sound system
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Number of speakers
+			</td>
+			<td>
+				8
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Total effect
+			</td>
+			<td>
+				180
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Sonos Sound System
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Number of speakers
+			</td>
+			<td>
+				10
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Total effect
+			</td>
+			<td>
+				580
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+</div>
+</div>
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapse8a79e429-50cf-4d0c-a992-41150a5cbcfd" aria-expanded="true" aria-controls="panelsStayOpen-collapse8a79e429-50cf-4d0c-a992-41150a5cbcfd">
+                        Audi Q4 35 e-tron
+            </button>
+        </h2>
+        <div id="panelsStayOpen-collapse8a79e429-50cf-4d0c-a992-41150a5cbcfd" class="accordion-collapse collapse">
+            <div class="accordion-body">
+
+## Performance
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Peak power
+			</td>
+			<td>
+				125 KW (170 hp /168 bhp)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electrical torque output
+			</td>
+			<td>
+				310 nm (229 lb-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Top speed
+			</td>
+			<td>
+				160 kph (99 mph)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100km/h (0-62 mph)
+			</td>
+			<td>
+				9 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+
+## Range & Consumption
+
+Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Basic trim WLTP range
+			</td>
+			<td>
+				365 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Basic trim WLTP consumption
+			</td>
+			<td>
+				14,2 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Basic trim WLTP consumption with charging loss
+			</td>
+			<td>
+				16,4 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Top trim WLTP range
+			</td>
+			<td>
+				325 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Top trim WLTP consumption
+			</td>
+			<td>
+				16,0 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Top trim WLTP consumption with charging loss
+			</td>
+			<td>
+				18,7 kwh/100km
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+
+## Battery & Charging
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Battery gross
+			</td>
+			<td>
+				55 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Battery net
+			</td>
+			<td>
+				52 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max DC charging
+			</td>
+			<td>
+				145 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Number of modules
+			</td>
+			<td>
+				8
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pack Configuration
+			</td>
+			<td>
+				96s1p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Nominal voltage
+			</td>
+			<td>
+				350
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+
+### Chargeport
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Chargeport placement
+			</td>
+			<td>
+				RightRearSide
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type chargeport Europe
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type chargeport North America
+			</td>
+			<td>
+				CCS1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type chargeport China
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type chargeport Japan
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type chargeport Oceania (Australia, New Zealand ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Dimensions
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Length
+			</td>
+			<td>
+				4588 mm (180,6")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Height
+			</td>
+			<td>
+				1622 mm (63,9")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Width excluding mirrors
+			</td>
+			<td>
+				1865 mm (73,4")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Dimensions.WidhtIncludingMirrors
+			</td>
+			<td>
+				2108 mm (83,0")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Wheelbase
+			</td>
+			<td>
+				2764 mm (108,8")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Track width front
+			</td>
+			<td>
+				1587 mm (62,5")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Track width rear
+			</td>
+			<td>
+				165 mm (6,5")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Drag coefficient
+			</td>
+			<td>
+				0,28
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Frontal area
+			</td>
+			<td>
+				2,55
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Approach Angle
+			</td>
+			<td>
+				17,7
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Departure Angle
+			</td>
+			<td>
+				23,3
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Turning circle
+			</td>
+			<td>
+				10,2 meter (401,6")
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Cargo Capacity and Towing Ability
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Curb weight
+			</td>
+			<td>
+				1890 kg (4167 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maximum total weight
+			</td>
+			<td>
+				2475 kg (5456 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maximum load including weight driver
+			</td>
+			<td>
+				585 kg (1290 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max roof cargo
+			</td>
+			<td>
+				75 kg (165 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Trunk capacity
+			</td>
+			<td>
+				520 liter (18 cu-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Trunk capacity with all rear seats folded
+			</td>
+			<td>
+				1490 liter (53 cu-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max trailer weight braked
+			</td>
+			<td>
+				1000 kg (2205 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max trailer weight Un braked
+			</td>
+			<td>
+				750 kg (1653 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maximum tow ball weight
+			</td>
+			<td>
+				75 kg (165 lbs)
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Suspension
+
+The model offers 2 suspension variants
+
+### standard
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Adaptive suspension
+			</td>
+			<td>
+				Yes, optional equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable damping front
+			</td>
+			<td>
+				Yes, optional equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable damping rear
+			</td>
+			<td>
+				Yes, optional equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable height front
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable height rear
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max ground clearance
+			</td>
+			<td>
+				180 mm (7,1")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minimum ground clearance
+			</td>
+			<td>
+				180 mm (7,1")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Damper type front
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Damper type rear
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spring type front
+			</td>
+			<td>
+				Coil Spring
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spring type rear
+			</td>
+			<td>
+				Coil Spring
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type front
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type rear
+			</td>
+			<td>
+				Multi-link
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### sport
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Adaptive suspension
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable damping front
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable damping rear
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable height front
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable height rear
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max ground clearance
+			</td>
+			<td>
+				165 mm (6,5")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minimum ground clearance
+			</td>
+			<td>
+				165 mm (6,5")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Damper type front
+			</td>
+			<td>
+				Monotube
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Damper type rear
+			</td>
+			<td>
+				Monotube
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spring type front
+			</td>
+			<td>
+				Coil Spring
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spring type rear
+			</td>
+			<td>
+				Coil Spring
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type front
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type rear
+			</td>
+			<td>
+				Multi-link
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Interior
+
+This model is available with a seat configuration with five seats.
+
+### Front seats
+
+
+#### standard
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Seat type
+			</td>
+			<td>
+				Driver and Passenger Seat
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat depth adjustment
+			</td>
+			<td>
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat height adjustment
+			</td>
+			<td>
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Backrest angle adjustment
+			</td>
+			<td>
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat cushion angle adjustment
+			</td>
+			<td>
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Memory
+			</td>
+			<td>
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Height adjustable headrest
+			</td>
+			<td>
+				Standard feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Length adjustable headrest
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable thigh support
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Backrest side bolster adjustment
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat cushion side bolster adjustment
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Footrest passenger
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Leg support passenger
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electric lumbar adjustment
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat ventilation
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massage function
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+#### sport
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Seat type
+			</td>
+			<td>
+				Driver and Passenger Seat
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat depth adjustment
+			</td>
+			<td>
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat height adjustment
+			</td>
+			<td>
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Backrest angle adjustment
+			</td>
+			<td>
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat cushion angle adjustment
+			</td>
+			<td>
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Memory
+			</td>
+			<td>
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Height adjustable headrest
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Length adjustable headrest
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable thigh support
+			</td>
+			<td>
+				Standard feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Backrest side bolster adjustment
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat cushion side bolster adjustment
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Footrest passenger
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Leg support passenger
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electric lumbar adjustment
+			</td>
+			<td>
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat ventilation
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massage function
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Second row seats
+
+
+#### standard
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Seat type
+			</td>
+			<td>
+				Three-seat bench
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Height adjustable headrest
+			</td>
+			<td>
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Length adjustable headrest
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable thigh support
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Backrest side bolster adjustment
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat cushion side bolster adjustment
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Footrest passenger
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Leg support passenger
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electric lumbar adjustment
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat ventilation
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massage function
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+#### optional
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Seat type
+			</td>
+			<td>
+				Three-seat bench
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Height adjustable headrest
+			</td>
+			<td>
+				Standard feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Length adjustable headrest
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Adjustable thigh support
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Backrest side bolster adjustment
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat cushion side bolster adjustment
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Footrest passenger
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Leg support passenger
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electric lumbar adjustment
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat ventilation
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massage function
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Driver Assistance
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Lane keeping
+			</td>
+			<td>
+				Yes (Audi Active Lane Assist), standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lane departure warning
+			</td>
+			<td>
+				Yes (Audi Active Lane Assist), standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Drowsiness Alert
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reversing camera
+			</td>
+			<td>
+				Yes, optional equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				360 camera
+			</td>
+			<td>
+				Yes, optional equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rear cross traffic alert (RCTA)
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rear parking sensors
+			</td>
+			<td>
+				Yes (Parking system plus), standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Front parking sensors
+			</td>
+			<td>
+				Yes (Parking system plus), optional equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Side parking sensors
+			</td>
+			<td>
+				Yes (Parking system plus), optional equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hill descent assist
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hill start assist
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				AntiLock Braking System
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Automatic emergency braking
+			</td>
+			<td>
+				Yes (Audi Pre sense front), standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Traction control
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Left turn crash avoidance
+			</td>
+			<td>
+				Yes (Audi Turn Assist), optional equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Forward Collision Warning
+			</td>
+			<td>
+				Yes (Audi Collision Avoidance Assist), optional equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electronic stability control
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Temperature warning
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Cross traffic allert (CTA)
+			</td>
+			<td>
+				Yes (Audi Collision Avoidance Assist), optional equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Efficiency assist
+			</td>
+			<td>
+				Yes (Audi Efficency Assist), standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Automatic Emergency Steering
+			</td>
+			<td>
+				Yes (Audi Collision Avoidance Assist), optional equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Traffic Sign Recognition
+			</td>
+			<td>
+				Yes (Audi Traffic Sign Recongition), optional equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Night Vision
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## UI and controls
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Head-up display
+			</td>
+			<td>
+				Yes, optional equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Voice control
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Gesture control
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Android Auto support
+			</td>
+			<td>
+				Yes (Smartphone Interface), optional equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Apple Carplay support
+			</td>
+			<td>
+				Yes (Smartphone Interface), optional equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				In-car navigation
+			</td>
+			<td>
+				Yes (MMI Navigation plus), optional equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Available screen layouts
+			</td>
+			<td>
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Digital driver display
+			</td>
+			<td>
+				Yes, 10,2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Infotainment screen
+			</td>
+			<td>
+				Yes, 10,1"
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Front passenger Infotainment screen
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rear passenger Infotainment screen
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+	</tbody>
+</table>
+		<tr>
+			<td>
+				Number of available sound systems
 			</td>
 			<td>
 				2
@@ -1917,7 +3525,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Width including mirrors
+				Dimensions.WidhtIncludingMirrors
 			</td>
 			<td>
 				2108 mm (83,0")
@@ -2030,7 +3638,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Maks roof cargo
+				Max roof cargo
 			</td>
 			<td>
 				75 kg (165 lbs)
@@ -2428,7 +4036,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -2436,7 +4044,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -2573,7 +4181,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -2581,7 +4189,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -2681,7 +4289,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -2689,7 +4297,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -2786,7 +4394,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -2794,7 +4402,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -2891,7 +4499,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Rear cross traffic alert
+				Rear cross traffic alert (RCTA)
 			</td>
 			<td>
 				Not available
@@ -2995,7 +4603,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Cross traffic assist
+				Cross traffic allert (CTA)
 			</td>
 			<td>
 				Yes (Audi Collision Avoidance Assist), optional equipment
@@ -3092,7 +4700,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				In Car navigation
+				In-car navigation
 			</td>
 			<td>
 				Yes (MMI Navigation plus), optional equipment
@@ -3142,7 +4750,7 @@ This model is available with a seat configuration with five seats.
 </table>
 		<tr>
 			<td>
-				Number of avaiable sound systems
+				Number of available sound systems
 			</td>
 			<td>
 				2
@@ -3525,7 +5133,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Width including mirrors
+				Dimensions.WidhtIncludingMirrors
 			</td>
 			<td>
 				2108 mm (83,0")
@@ -3638,7 +5246,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Maks roof cargo
+				Max roof cargo
 			</td>
 			<td>
 				75 kg (165 lbs)
@@ -4036,7 +5644,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -4044,10 +5652,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -4055,7 +5663,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -4181,7 +5789,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -4189,10 +5797,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -4200,7 +5808,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -4268,7 +5876,7 @@ This model is available with a seat configuration with five seats.
 				Length adjustable headrest
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -4276,7 +5884,7 @@ This model is available with a seat configuration with five seats.
 				Adjustable thigh support
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -4284,23 +5892,23 @@ This model is available with a seat configuration with five seats.
 				Backrest side bolster adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -4308,7 +5916,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -4316,7 +5924,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -4324,7 +5932,7 @@ This model is available with a seat configuration with five seats.
 				Seat ventilation
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -4332,7 +5940,7 @@ This model is available with a seat configuration with five seats.
 				Massage function
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 	</tbody>
@@ -4365,7 +5973,7 @@ This model is available with a seat configuration with five seats.
 				Height adjustable headrest
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -4373,7 +5981,7 @@ This model is available with a seat configuration with five seats.
 				Length adjustable headrest
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -4381,7 +5989,7 @@ This model is available with a seat configuration with five seats.
 				Adjustable thigh support
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -4389,23 +5997,23 @@ This model is available with a seat configuration with five seats.
 				Backrest side bolster adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -4413,7 +6021,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -4421,7 +6029,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -4429,7 +6037,7 @@ This model is available with a seat configuration with five seats.
 				Seat ventilation
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -4437,7 +6045,7 @@ This model is available with a seat configuration with five seats.
 				Massage function
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 	</tbody>
@@ -4499,7 +6107,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Rear cross traffic alert
+				Rear cross traffic alert (RCTA)
 			</td>
 			<td>
 				Not available
@@ -4603,7 +6211,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Cross traffic assist
+				Cross traffic allert (CTA)
 			</td>
 			<td>
 				Yes (Audi Collision Avoidance Assist), optional equipment
@@ -4700,10 +6308,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				In Car navigation
+				In-car navigation
 			</td>
 			<td>
-				Yes (MMI Navigation plus), standard equipment
+				Yes (MMI Navigation plus), optional equipment
 			</td>
 		</tr>
 		<tr>
@@ -4727,7 +6335,7 @@ This model is available with a seat configuration with five seats.
 				Infotainment screen
 			</td>
 			<td>
-				Yes, 11,6"
+				Yes, 10,1"
 			</td>
 		</tr>
 		<tr>
@@ -4750,7 +6358,7 @@ This model is available with a seat configuration with five seats.
 </table>
 		<tr>
 			<td>
-				Number of avaiable sound systems
+				Number of available sound systems
 			</td>
 			<td>
 				2
@@ -4905,7 +6513,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Basic trim WLTP range
 			</td>
 			<td>
-				523 km
+				525 km
 			</td>
 		</tr>
 		<tr>
@@ -4921,7 +6529,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Basic trim WLTP consumption with charging loss
 			</td>
 			<td>
-				16,8 kWh/100km
+				16,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -4946,6 +6554,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				19,4 kwh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA range
+			</td>
+			<td>
+				258 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA consumption
+			</td>
+			<td>
+				3,4 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -5133,7 +6757,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Width including mirrors
+				Dimensions.WidhtIncludingMirrors
 			</td>
 			<td>
 				2108 mm (83,0")
@@ -5246,7 +6870,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Maks roof cargo
+				Max roof cargo
 			</td>
 			<td>
 				75 kg (165 lbs)
@@ -5644,7 +7268,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -5652,7 +7276,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -5671,7 +7295,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -5789,7 +7413,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -5797,7 +7421,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -5868,7 +7492,7 @@ This model is available with a seat configuration with five seats.
 				Height adjustable headrest
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -5897,7 +7521,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -5905,7 +7529,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -6002,7 +7626,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -6010,7 +7634,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -6107,7 +7731,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Rear cross traffic alert
+				Rear cross traffic alert (RCTA)
 			</td>
 			<td>
 				Not available
@@ -6211,7 +7835,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Cross traffic assist
+				Cross traffic allert (CTA)
 			</td>
 			<td>
 				Yes (Audi Collision Avoidance Assist), optional equipment
@@ -6308,7 +7932,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				In Car navigation
+				In-car navigation
 			</td>
 			<td>
 				Yes (MMI Navigation plus), optional equipment
@@ -6335,7 +7959,7 @@ This model is available with a seat configuration with five seats.
 				Infotainment screen
 			</td>
 			<td>
-				Yes, 11,6"
+				Yes, 10,1"
 			</td>
 		</tr>
 		<tr>
@@ -6358,7 +7982,7 @@ This model is available with a seat configuration with five seats.
 </table>
 		<tr>
 			<td>
-				Number of avaiable sound systems
+				Number of available sound systems
 			</td>
 			<td>
 				2
@@ -6741,7 +8365,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Width including mirrors
+				Dimensions.WidhtIncludingMirrors
 			</td>
 			<td>
 				2108 mm (83,0")
@@ -6854,7 +8478,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Maks roof cargo
+				Max roof cargo
 			</td>
 			<td>
 				75 kg (165 lbs)
@@ -7252,7 +8876,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -7260,7 +8884,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -7397,7 +9021,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -7405,7 +9029,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -7505,7 +9129,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -7513,7 +9137,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -7610,7 +9234,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -7618,7 +9242,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -7715,7 +9339,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Rear cross traffic alert
+				Rear cross traffic alert (RCTA)
 			</td>
 			<td>
 				Not available
@@ -7819,7 +9443,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Cross traffic assist
+				Cross traffic allert (CTA)
 			</td>
 			<td>
 				Yes (Audi Collision Avoidance Assist), optional equipment
@@ -7916,7 +9540,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				In Car navigation
+				In-car navigation
 			</td>
 			<td>
 				Yes (MMI Navigation plus), optional equipment
@@ -7966,7 +9590,7 @@ This model is available with a seat configuration with five seats.
 </table>
 		<tr>
 			<td>
-				Number of avaiable sound systems
+				Number of available sound systems
 			</td>
 			<td>
 				2
@@ -8349,7 +9973,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Width including mirrors
+				Dimensions.WidhtIncludingMirrors
 			</td>
 			<td>
 				2108 mm (83,0")
@@ -8462,7 +10086,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Maks roof cargo
+				Max roof cargo
 			</td>
 			<td>
 				75 kg (165 lbs)
@@ -8860,7 +10484,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -8868,7 +10492,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -9005,7 +10629,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -9013,7 +10637,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -9113,7 +10737,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -9121,7 +10745,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -9218,7 +10842,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -9226,7 +10850,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -9323,7 +10947,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Rear cross traffic alert
+				Rear cross traffic alert (RCTA)
 			</td>
 			<td>
 				Not available
@@ -9427,7 +11051,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Cross traffic assist
+				Cross traffic allert (CTA)
 			</td>
 			<td>
 				Yes (Audi Collision Avoidance Assist), optional equipment
@@ -9524,7 +11148,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				In Car navigation
+				In-car navigation
 			</td>
 			<td>
 				Yes (MMI Navigation plus), optional equipment
@@ -9574,7 +11198,7 @@ This model is available with a seat configuration with five seats.
 </table>
 		<tr>
 			<td>
-				Number of avaiable sound systems
+				Number of available sound systems
 			</td>
 			<td>
 				2
@@ -9957,7 +11581,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Width including mirrors
+				Dimensions.WidhtIncludingMirrors
 			</td>
 			<td>
 				2108 mm (83,0")
@@ -10070,7 +11694,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Maks roof cargo
+				Max roof cargo
 			</td>
 			<td>
 				75 kg (165 lbs)
@@ -10468,7 +12092,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -10476,7 +12100,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -10495,7 +12119,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -10613,7 +12237,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -10621,7 +12245,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -10692,7 +12316,7 @@ This model is available with a seat configuration with five seats.
 				Height adjustable headrest
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -10721,7 +12345,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -10729,7 +12353,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -10826,7 +12450,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -10834,7 +12458,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -10931,7 +12555,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Rear cross traffic alert
+				Rear cross traffic alert (RCTA)
 			</td>
 			<td>
 				Not available
@@ -11035,7 +12659,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Cross traffic assist
+				Cross traffic allert (CTA)
 			</td>
 			<td>
 				Yes (Audi Collision Avoidance Assist), optional equipment
@@ -11132,7 +12756,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				In Car navigation
+				In-car navigation
 			</td>
 			<td>
 				Yes (MMI Navigation plus), optional equipment
@@ -11182,7 +12806,7 @@ This model is available with a seat configuration with five seats.
 </table>
 		<tr>
 			<td>
-				Number of avaiable sound systems
+				Number of available sound systems
 			</td>
 			<td>
 				2
@@ -11557,7 +13181,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Width including mirrors
+				Dimensions.WidhtIncludingMirrors
 			</td>
 			<td>
 				2108 mm (83,0")
@@ -11670,7 +13294,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Maks roof cargo
+				Max roof cargo
 			</td>
 			<td>
 				75 kg (165 lbs)
@@ -12068,7 +13692,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -12076,10 +13700,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -12087,7 +13711,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -12213,7 +13837,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -12221,10 +13845,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -12232,7 +13856,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -12300,7 +13924,7 @@ This model is available with a seat configuration with five seats.
 				Length adjustable headrest
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -12308,7 +13932,7 @@ This model is available with a seat configuration with five seats.
 				Adjustable thigh support
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -12316,23 +13940,23 @@ This model is available with a seat configuration with five seats.
 				Backrest side bolster adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -12340,7 +13964,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -12348,7 +13972,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -12356,7 +13980,7 @@ This model is available with a seat configuration with five seats.
 				Seat ventilation
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -12364,7 +13988,7 @@ This model is available with a seat configuration with five seats.
 				Massage function
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 	</tbody>
@@ -12397,7 +14021,7 @@ This model is available with a seat configuration with five seats.
 				Height adjustable headrest
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -12405,7 +14029,7 @@ This model is available with a seat configuration with five seats.
 				Length adjustable headrest
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -12413,7 +14037,7 @@ This model is available with a seat configuration with five seats.
 				Adjustable thigh support
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -12421,23 +14045,23 @@ This model is available with a seat configuration with five seats.
 				Backrest side bolster adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -12445,7 +14069,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -12453,7 +14077,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -12461,7 +14085,7 @@ This model is available with a seat configuration with five seats.
 				Seat ventilation
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -12469,7 +14093,7 @@ This model is available with a seat configuration with five seats.
 				Massage function
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 	</tbody>
@@ -12531,7 +14155,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Rear cross traffic alert
+				Rear cross traffic alert (RCTA)
 			</td>
 			<td>
 				Not available
@@ -12635,7 +14259,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Cross traffic assist
+				Cross traffic allert (CTA)
 			</td>
 			<td>
 				Yes (Audi Collision Avoidance Assist), optional equipment
@@ -12732,7 +14356,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				In Car navigation
+				In-car navigation
 			</td>
 			<td>
 				Yes (MMI Navigation plus), optional equipment
@@ -12782,7 +14406,7 @@ This model is available with a seat configuration with five seats.
 </table>
 		<tr>
 			<td>
-				Number of avaiable sound systems
+				Number of available sound systems
 			</td>
 			<td>
 				2
@@ -12860,7 +14484,7 @@ This model is available with a seat configuration with five seats.
     <div class="accordion-item">
         <h2 class="accordion-header">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapse22e3e436-fad7-48c1-a8d1-e79813350b5a" aria-expanded="true" aria-controls="panelsStayOpen-collapse22e3e436-fad7-48c1-a8d1-e79813350b5a">
-                        Audi Q4 40 e-tron
+                        Audi Q4 40 e-tron (GEN1)
             </button>
         </h2>
         <div id="panelsStayOpen-collapse22e3e436-fad7-48c1-a8d1-e79813350b5a" class="accordion-collapse collapse">
@@ -13157,7 +14781,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Width including mirrors
+				Dimensions.WidhtIncludingMirrors
 			</td>
 			<td>
 				2108 mm (83,0")
@@ -13270,7 +14894,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Maks roof cargo
+				Max roof cargo
 			</td>
 			<td>
 				75 kg (165 lbs)
@@ -13668,7 +15292,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -13676,10 +15300,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -13687,7 +15311,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -13813,7 +15437,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -13821,10 +15445,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -13832,7 +15456,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -13900,7 +15524,7 @@ This model is available with a seat configuration with five seats.
 				Length adjustable headrest
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -13908,7 +15532,7 @@ This model is available with a seat configuration with five seats.
 				Adjustable thigh support
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -13916,23 +15540,23 @@ This model is available with a seat configuration with five seats.
 				Backrest side bolster adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -13940,7 +15564,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -13948,7 +15572,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -13956,7 +15580,7 @@ This model is available with a seat configuration with five seats.
 				Seat ventilation
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -13964,7 +15588,7 @@ This model is available with a seat configuration with five seats.
 				Massage function
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 	</tbody>
@@ -13997,7 +15621,7 @@ This model is available with a seat configuration with five seats.
 				Height adjustable headrest
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -14005,7 +15629,7 @@ This model is available with a seat configuration with five seats.
 				Length adjustable headrest
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -14013,7 +15637,7 @@ This model is available with a seat configuration with five seats.
 				Adjustable thigh support
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -14021,23 +15645,23 @@ This model is available with a seat configuration with five seats.
 				Backrest side bolster adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -14045,7 +15669,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -14053,7 +15677,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -14061,7 +15685,7 @@ This model is available with a seat configuration with five seats.
 				Seat ventilation
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -14069,7 +15693,7 @@ This model is available with a seat configuration with five seats.
 				Massage function
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 	</tbody>
@@ -14131,7 +15755,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Rear cross traffic alert
+				Rear cross traffic alert (RCTA)
 			</td>
 			<td>
 				Not available
@@ -14235,7 +15859,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Cross traffic assist
+				Cross traffic allert (CTA)
 			</td>
 			<td>
 				Yes (Audi Collision Avoidance Assist), optional equipment
@@ -14332,7 +15956,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				In Car navigation
+				In-car navigation
 			</td>
 			<td>
 				Yes (MMI Navigation plus), optional equipment
@@ -14382,7 +16006,7 @@ This model is available with a seat configuration with five seats.
 </table>
 		<tr>
 			<td>
-				Number of avaiable sound systems
+				Number of available sound systems
 			</td>
 			<td>
 				2
@@ -14757,7 +16381,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Width including mirrors
+				Dimensions.WidhtIncludingMirrors
 			</td>
 			<td>
 				2108 mm (83,0")
@@ -14870,7 +16494,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Maks roof cargo
+				Max roof cargo
 			</td>
 			<td>
 				75 kg (165 lbs)
@@ -15268,7 +16892,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -15276,7 +16900,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -15287,7 +16911,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -15413,7 +17037,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -15421,10 +17045,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -15432,7 +17056,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -15500,7 +17124,7 @@ This model is available with a seat configuration with five seats.
 				Length adjustable headrest
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -15508,7 +17132,7 @@ This model is available with a seat configuration with five seats.
 				Adjustable thigh support
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -15516,23 +17140,23 @@ This model is available with a seat configuration with five seats.
 				Backrest side bolster adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -15540,7 +17164,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -15548,7 +17172,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -15556,7 +17180,7 @@ This model is available with a seat configuration with five seats.
 				Seat ventilation
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -15564,7 +17188,7 @@ This model is available with a seat configuration with five seats.
 				Massage function
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 	</tbody>
@@ -15597,7 +17221,7 @@ This model is available with a seat configuration with five seats.
 				Height adjustable headrest
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -15605,7 +17229,7 @@ This model is available with a seat configuration with five seats.
 				Length adjustable headrest
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -15613,7 +17237,7 @@ This model is available with a seat configuration with five seats.
 				Adjustable thigh support
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -15621,23 +17245,23 @@ This model is available with a seat configuration with five seats.
 				Backrest side bolster adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -15645,7 +17269,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -15653,7 +17277,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -15661,7 +17285,7 @@ This model is available with a seat configuration with five seats.
 				Seat ventilation
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -15669,7 +17293,7 @@ This model is available with a seat configuration with five seats.
 				Massage function
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 	</tbody>
@@ -15731,7 +17355,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Rear cross traffic alert
+				Rear cross traffic alert (RCTA)
 			</td>
 			<td>
 				Not available
@@ -15835,7 +17459,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Cross traffic assist
+				Cross traffic allert (CTA)
 			</td>
 			<td>
 				Yes (Audi Collision Avoidance Assist), optional equipment
@@ -15932,7 +17556,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				In Car navigation
+				In-car navigation
 			</td>
 			<td>
 				Yes (MMI Navigation plus), optional equipment
@@ -15982,7 +17606,7 @@ This model is available with a seat configuration with five seats.
 </table>
 		<tr>
 			<td>
-				Number of avaiable sound systems
+				Number of available sound systems
 			</td>
 			<td>
 				2
@@ -16381,7 +18005,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Width including mirrors
+				Dimensions.WidhtIncludingMirrors
 			</td>
 			<td>
 				2108 mm (83,0")
@@ -16494,7 +18118,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Maks roof cargo
+				Max roof cargo
 			</td>
 			<td>
 				75 kg (165 lbs)
@@ -16892,7 +18516,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -16900,10 +18524,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -16911,7 +18535,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -17037,7 +18661,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -17045,10 +18669,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -17056,7 +18680,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -17124,7 +18748,7 @@ This model is available with a seat configuration with five seats.
 				Length adjustable headrest
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -17132,7 +18756,7 @@ This model is available with a seat configuration with five seats.
 				Adjustable thigh support
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -17140,23 +18764,23 @@ This model is available with a seat configuration with five seats.
 				Backrest side bolster adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -17164,7 +18788,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -17172,7 +18796,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -17180,7 +18804,7 @@ This model is available with a seat configuration with five seats.
 				Seat ventilation
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -17188,7 +18812,7 @@ This model is available with a seat configuration with five seats.
 				Massage function
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 	</tbody>
@@ -17221,7 +18845,7 @@ This model is available with a seat configuration with five seats.
 				Height adjustable headrest
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -17229,7 +18853,7 @@ This model is available with a seat configuration with five seats.
 				Length adjustable headrest
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -17237,7 +18861,7 @@ This model is available with a seat configuration with five seats.
 				Adjustable thigh support
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -17245,23 +18869,23 @@ This model is available with a seat configuration with five seats.
 				Backrest side bolster adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -17269,7 +18893,7 @@ This model is available with a seat configuration with five seats.
 				Leg support passenger
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -17277,7 +18901,7 @@ This model is available with a seat configuration with five seats.
 				Electric lumbar adjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -17285,7 +18909,7 @@ This model is available with a seat configuration with five seats.
 				Seat ventilation
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -17293,7 +18917,7 @@ This model is available with a seat configuration with five seats.
 				Massage function
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 	</tbody>
@@ -17355,7 +18979,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Rear cross traffic alert
+				Rear cross traffic alert (RCTA)
 			</td>
 			<td>
 				Not available
@@ -17459,7 +19083,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Cross traffic assist
+				Cross traffic allert (CTA)
 			</td>
 			<td>
 				Yes (Audi Collision Avoidance Assist), optional equipment
@@ -17556,7 +19180,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				In Car navigation
+				In-car navigation
 			</td>
 			<td>
 				Yes (MMI Navigation plus), optional equipment
@@ -17606,7 +19230,7 @@ This model is available with a seat configuration with five seats.
 </table>
 		<tr>
 			<td>
-				Number of avaiable sound systems
+				Number of available sound systems
 			</td>
 			<td>
 				2
@@ -17981,7 +19605,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Width including mirrors
+				Dimensions.WidhtIncludingMirrors
 			</td>
 			<td>
 				2108 mm (83,0")
@@ -18094,7 +19718,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Maks roof cargo
+				Max roof cargo
 			</td>
 			<td>
 				75 kg (165 lbs)
@@ -18492,7 +20116,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -18500,7 +20124,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -18637,7 +20261,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -18645,7 +20269,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -18745,7 +20369,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -18753,7 +20377,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -18850,7 +20474,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -18858,7 +20482,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -18955,7 +20579,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Rear cross traffic alert
+				Rear cross traffic alert (RCTA)
 			</td>
 			<td>
 				Not available
@@ -19059,7 +20683,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Cross traffic assist
+				Cross traffic allert (CTA)
 			</td>
 			<td>
 				Yes (Audi Collision Avoidance Assist), optional equipment
@@ -19156,7 +20780,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				In Car navigation
+				In-car navigation
 			</td>
 			<td>
 				Yes (MMI Navigation plus), optional equipment
@@ -19206,7 +20830,7 @@ This model is available with a seat configuration with five seats.
 </table>
 		<tr>
 			<td>
-				Number of avaiable sound systems
+				Number of available sound systems
 			</td>
 			<td>
 				2
@@ -19589,7 +21213,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Width including mirrors
+				Dimensions.WidhtIncludingMirrors
 			</td>
 			<td>
 				2108 mm (83,0")
@@ -19702,7 +21326,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Maks roof cargo
+				Max roof cargo
 			</td>
 			<td>
 				75 kg (165 lbs)
@@ -20100,7 +21724,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -20108,7 +21732,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -20245,7 +21869,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -20253,7 +21877,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -20353,7 +21977,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -20361,7 +21985,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -20458,7 +22082,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -20466,7 +22090,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -20563,7 +22187,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Rear cross traffic alert
+				Rear cross traffic alert (RCTA)
 			</td>
 			<td>
 				Not available
@@ -20667,7 +22291,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Cross traffic assist
+				Cross traffic allert (CTA)
 			</td>
 			<td>
 				Yes (Audi Collision Avoidance Assist), optional equipment
@@ -20764,7 +22388,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				In Car navigation
+				In-car navigation
 			</td>
 			<td>
 				Yes (MMI Navigation plus), optional equipment
@@ -20814,7 +22438,7 @@ This model is available with a seat configuration with five seats.
 </table>
 		<tr>
 			<td>
-				Number of avaiable sound systems
+				Number of available sound systems
 			</td>
 			<td>
 				2
@@ -21197,7 +22821,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Width including mirrors
+				Dimensions.WidhtIncludingMirrors
 			</td>
 			<td>
 				2108 mm (83,0")
@@ -21310,7 +22934,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Maks roof cargo
+				Max roof cargo
 			</td>
 			<td>
 				75 kg (165 lbs)
@@ -21708,7 +23332,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -21716,7 +23340,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -21853,7 +23477,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -21861,7 +23485,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -21961,7 +23585,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -21969,7 +23593,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -22066,7 +23690,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -22074,7 +23698,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -22171,7 +23795,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Rear cross traffic alert
+				Rear cross traffic alert (RCTA)
 			</td>
 			<td>
 				Not available
@@ -22275,7 +23899,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Cross traffic assist
+				Cross traffic allert (CTA)
 			</td>
 			<td>
 				Yes (Audi Collision Avoidance Assist), optional equipment
@@ -22372,7 +23996,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				In Car navigation
+				In-car navigation
 			</td>
 			<td>
 				Yes (MMI Navigation plus), optional equipment
@@ -22422,7 +24046,7 @@ This model is available with a seat configuration with five seats.
 </table>
 		<tr>
 			<td>
-				Number of avaiable sound systems
+				Number of available sound systems
 			</td>
 			<td>
 				2
@@ -22829,7 +24453,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Width including mirrors
+				Dimensions.WidhtIncludingMirrors
 			</td>
 			<td>
 				2108 mm (83,0")
@@ -22942,7 +24566,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Maks roof cargo
+				Max roof cargo
 			</td>
 			<td>
 				75 kg (165 lbs)
@@ -23340,7 +24964,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -23348,7 +24972,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -23485,7 +25109,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -23493,7 +25117,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -23593,7 +25217,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -23601,7 +25225,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -23698,7 +25322,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Seat cushion side bolster adjustement
+				Seat cushion side bolster adjustment
 			</td>
 			<td>
 				Not Available
@@ -23706,7 +25330,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Footrest passengers
+				Footrest passenger
 			</td>
 			<td>
 				Not Available
@@ -23803,7 +25427,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Rear cross traffic alert
+				Rear cross traffic alert (RCTA)
 			</td>
 			<td>
 				Not available
@@ -23907,7 +25531,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Cross traffic assist
+				Cross traffic allert (CTA)
 			</td>
 			<td>
 				Yes (Audi Collision Avoidance Assist), optional equipment
@@ -24004,7 +25628,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				In Car navigation
+				In-car navigation
 			</td>
 			<td>
 				Yes (MMI Navigation plus), optional equipment
@@ -24054,7 +25678,7 @@ This model is available with a seat configuration with five seats.
 </table>
 		<tr>
 			<td>
-				Number of avaiable sound systems
+				Number of available sound systems
 			</td>
 			<td>
 				2

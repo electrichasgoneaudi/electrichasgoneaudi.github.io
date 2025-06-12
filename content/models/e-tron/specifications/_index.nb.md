@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron spesifikasjoner
 linktitle: "Spesifikasjoner"
-description: "electrichasgoneaudi.net gir deg alle spesifikasjonene for Audi e-tron."
+description: "electrichasgoneaudi.net tilbyr fullstendige spesifikasjoner for Audi e-tron."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
@@ -18,7 +18,7 @@ navicon: bi-layout-text-sidebar-reverse
         <div id="panelsStayOpen-collapse3b595a0e-3370-4759-8e60-2b92e59825d1" class="accordion-collapse collapse">
             <div class="accordion-body">
 
-## Ytelse
+## Ytelser
 
 <table class="table table-striped border">
 	<thead>
@@ -37,28 +37,28 @@ navicon: bi-layout-text-sidebar-reverse
 				Maks effekt
 			</td>
 			<td>
-				230 KW (313 hk)
+				230 kW (313 hk /308 bhp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment
+				Elektrisk dreiemoment med boost
 			</td>
 			<td>
-				540 nm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Topphastighet
-			</td>
-			<td>
-				200 km/t
+				540 Nm
 			</td>
 		</tr>
 		<tr>
 			<td>
-				0-100 km/t (0-62 mph)
+				Toppfart
+			</td>
+			<td>
+				200 km/t (124 mph)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0–100 km/t (0–62 mph)
 			</td>
 			<td>
 				6,8 s
@@ -71,7 +71,7 @@ navicon: bi-layout-text-sidebar-reverse
 
 ## Rekkevidde og forbruk
 
-Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinfo](../rangeandconsumption/) for detaljerte eksempler på rekkevidde fra den virkelige verden. Besøk vår [Rekkeviddeguide](../../../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
+Under ser du offisielle rekkeviddedata. Besøk vår [utvidede rekkeviddeoversikt](../rangeandconsumption/) for detaljerte eksempler fra virkeligheten. Les også vår [rekkeviddeguide](../../../../../guides/understandingrange/) for å forstå hva som påvirker rekkevidde og hvordan de offisielle verdiene måles.
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -86,7 +86,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				WLTP-rekkevidde for grunnmodell
+				WLTP-rekkevidde (standardversjon)
 			</td>
 			<td>
 				341 km
@@ -94,7 +94,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				WLTP-forbruk grunnmodell
+				WLTP-forbruk (standardversjon)
 			</td>
 			<td>
 				18,8 kWh/100km
@@ -102,7 +102,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				WLTP-forbruk grunnmodell med ladetap
+				WLTP-forbruk inkl. ladetap (standardversjon)
 			</td>
 			<td>
 				21,7 kWh/100km
@@ -110,7 +110,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Topputstyrt WLTP-rekkevidde
+				WLTP-rekkevidde (toppmodell)
 			</td>
 			<td>
 				282 km
@@ -118,7 +118,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Topputstyrt WLTP-forbruk
+				WLTP-forbruk (toppmodell)
 			</td>
 			<td>
 				22,7 kWh/100km
@@ -126,7 +126,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Topputstyrt WLTP-forbruk med ladetap
+				WLTP-forbruk inkl. ladetap (toppmodell)
 			</td>
 			<td>
 				25,8 kwh/100km
@@ -153,7 +153,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				Brutto batteristørrelse
+				Bruttokapasitet
 			</td>
 			<td>
 				71 kWh
@@ -161,7 +161,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Netto batteristørrelse
+				Nettokapasitet
 			</td>
 			<td>
 				64 kWh
@@ -169,7 +169,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Maks DC-lading
+				Maks DC-ladeeffekt
 			</td>
 			<td>
 				120 kW
@@ -185,7 +185,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Pakkekonfigurasjon
+				Batterikonfigurasjon
 			</td>
 			<td>
 				108s3p
@@ -228,7 +228,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				Ladeportplassering
+				Plassering av ladeport
 			</td>
 			<td>
 				LeftFrontSide
@@ -236,7 +236,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Type ladeport Europa
+				Ladekontakttype Europa
 			</td>
 			<td>
 				CCS2
@@ -244,31 +244,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Type ladeport Nord-Amerika
-			</td>
-			<td>
-				CCS1
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Kina
-			</td>
-			<td>
-				GBT
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Japan
-			</td>
-			<td>
-				CHAdeMO
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Oceania (Australia, New Zealand ++)
+				Ladekontakttype Oseania (Australia, New Zealand ++)
 			</td>
 			<td>
 				CCS2
@@ -290,7 +266,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				Ladeportplassering
+				Plassering av ladeport
 			</td>
 			<td>
 				RightFrontSide
@@ -298,39 +274,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Type ladeport Europa
-			</td>
-			<td>
-				Type2
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type ladeport Nord-Amerika
-			</td>
-			<td>
-				J1772
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Kina
-			</td>
-			<td>
-				GBT
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Japan
-			</td>
-			<td>
-				CHAdeMO
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Oceania (Australia, New Zealand ++)
+				Ladekontakttype Europa
 			</td>
 			<td>
 				Type2
@@ -358,7 +302,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Lengde
 			</td>
 			<td>
-				4901 mm
+				4901 mm (193,0")
 			</td>
 		</tr>
 		<tr>
@@ -366,7 +310,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Høyde
 			</td>
 			<td>
-				1629 mm
+				1629 mm (64,1")
 			</td>
 		</tr>
 		<tr>
@@ -374,15 +318,15 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Bredde uten speil
 			</td>
 			<td>
-				1935 mm
+				1935 mm (76,2")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Bredde inkludert speil
+				Dimensions.WidhtIncludingMirrors
 			</td>
 			<td>
-				2189 mm
+				2189 mm (86,2")
 			</td>
 		</tr>
 		<tr>
@@ -390,28 +334,28 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Akselavstand
 			</td>
 			<td>
-				2927 mm
+				2927 mm (115,2")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Sporbredde foran
+				Sporvidde foran
 			</td>
 			<td>
-				1655 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sporbredde bak
-			</td>
-			<td>
-				1655 mm
+				1655 mm (65,2")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Drag-koeffisient
+				Sporvidde bak
+			</td>
+			<td>
+				1655 mm (65,2")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Luftmotstandskoeffisient
 			</td>
 			<td>
 				0,28
@@ -419,7 +363,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Frontalområde
+				Frontareal
 			</td>
 			<td>
 				2,65
@@ -441,10 +385,18 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				20
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Svingradius
+			</td>
+			<td>
+				11,6 meter (456,7")
+			</td>
+		</tr>
 	</tbody>
 </table>
 
-## Lastekapasitet og slepeevne
+## Bagasje og tilhengervekt
 
 <table class="table table-striped border">
 	<thead>
@@ -463,23 +415,23 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				2370 kg
+				2370 kg (5225 lbs)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Tillatt totalvekt
+				Maks tillatt totalvekt
 			</td>
 			<td>
-				3040 kg
+				3040 kg (6702 lbs)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Maks nyttelast inkludert vekt fører
+				Maks nyttelast inkl. fører
 			</td>
 			<td>
-				670 kg
+				670 kg (1477 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -487,53 +439,61 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks taklast
 			</td>
 			<td>
-				75 kg
+				75 kg (165 lbs)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Størrelse bagasjerom
+				Bagasjeromsvolum
 			</td>
 			<td>
-				660 liter
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Størrelse med alle bakseter lagt ned
-			</td>
-			<td>
-				1725 liter
+				660 liter (23 cu-ft)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Maksimum vekt tilhenger med bremse
+				Bagasjeromsvolum med alle bakseter nedfelt
 			</td>
 			<td>
-				1800 kg
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maksvekt tilhenger m/brems
-			</td>
-			<td>
-				750 kg
+				1725 liter (61 cu-ft)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Maksvekt på tilhengerkobling
+				Volum frunk
 			</td>
 			<td>
-				80 kg
+				60 liter (2 cu-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks tilhengervekt med bremser
+			</td>
+			<td>
+				1800 kg (3968 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks tilhengervekt uten bremser
+			</td>
+			<td>
+				750 kg (1653 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks vertikallast (kulekobling)
+			</td>
+			<td>
+				80 kg (176 lbs)
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-## Hjuloppheng
+## Fjæring
 
 Modellen tilbyr 2 fjæringsvarianter
 
@@ -553,7 +513,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv understell
+				Adaptivt fjæringssystem
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -596,20 +556,20 @@ Modellen tilbyr 2 fjæringsvarianter
 				Maks bakkeklaring
 			</td>
 			<td>
-				248 mm
+				248 mm (9,8")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Minimum bakkeklaring
+				Minste bakkeklaring
 			</td>
 			<td>
-				152 mm
+				152 mm (6,0")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Type demper foran
+				Dempetype foran
 			</td>
 			<td>
 				ElectronicallyControlled
@@ -617,7 +577,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type demper bak
+				Dempetype bak
 			</td>
 			<td>
 				ElectronicallyControlled
@@ -625,7 +585,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type fjæring foran
+				Fjærtype foran
 			</td>
 			<td>
 				Air
@@ -633,7 +593,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type fjæring bak
+				Fjærtype bak
 			</td>
 			<td>
 				Air
@@ -641,18 +601,18 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Hjuloppheng foran
+				Fjæringssystem foran
 			</td>
 			<td>
-				Dobbelt bærearmsoppheng
+				Doble bærearmer foran
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Hjuloppheng bak
+				Fjæringssystem bak
 			</td>
 			<td>
-				Multi-link
+				Multilenker bak
 			</td>
 		</tr>
 	</tbody>
@@ -674,7 +634,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv understell
+				Adaptivt fjæringssystem
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -717,20 +677,20 @@ Modellen tilbyr 2 fjæringsvarianter
 				Maks bakkeklaring
 			</td>
 			<td>
-				248 mm
+				248 mm (9,8")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Minimum bakkeklaring
+				Minste bakkeklaring
 			</td>
 			<td>
-				152 mm
+				152 mm (6,0")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Type demper foran
+				Dempetype foran
 			</td>
 			<td>
 				ElectronicallyControlled
@@ -738,7 +698,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type demper bak
+				Dempetype bak
 			</td>
 			<td>
 				ElectronicallyControlled
@@ -746,7 +706,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type fjæring foran
+				Fjærtype foran
 			</td>
 			<td>
 				Air
@@ -754,7 +714,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type fjæring bak
+				Fjærtype bak
 			</td>
 			<td>
 				Air
@@ -762,18 +722,18 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Hjuloppheng foran
+				Fjæringssystem foran
 			</td>
 			<td>
-				Dobbelt bærearmsoppheng
+				Doble bærearmer foran
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Hjuloppheng bak
+				Fjæringssystem bak
 			</td>
 			<td>
-				Multi-link
+				Multilenker bak
 			</td>
 		</tr>
 	</tbody>
@@ -781,7 +741,7 @@ Modellen tilbyr 2 fjæringsvarianter
 
 ## Interiør
 
-Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
+Denne modellen er tilgjengelig med fem seter.
 
 ### Forseter
 
@@ -805,7 +765,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Sjåfør- og passasjersete
+				Fører- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -818,7 +778,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setehøyde
+				Setehøydejustering
 			</td>
 			<td>
 				Ukjent
@@ -826,7 +786,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøttevinkel
+				Ryggvinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -834,7 +794,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Seteputevinkeljustering
+				Vinkeljustering av setepute
 			</td>
 			<td>
 				Ukjent
@@ -842,7 +802,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Minne
+				Minnefunksjon
 			</td>
 			<td>
 				Ukjent
@@ -850,10 +810,10 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -861,7 +821,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Valgfri funksjon
+				Tilleggsutstyr
 			</td>
 		</tr>
 		<tr>
@@ -874,7 +834,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -882,7 +842,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setepute, sidestøtte
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -890,23 +850,23 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Fotstøtte passasjer
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Beinstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -950,7 +910,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Sjåfør- og passasjersete
+				Fører- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -963,7 +923,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setehøyde
+				Setehøydejustering
 			</td>
 			<td>
 				Ukjent
@@ -971,7 +931,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøttevinkel
+				Ryggvinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -979,7 +939,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Seteputevinkeljustering
+				Vinkeljustering av setepute
 			</td>
 			<td>
 				Ukjent
@@ -987,7 +947,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Minne
+				Minnefunksjon
 			</td>
 			<td>
 				Ukjent
@@ -995,10 +955,10 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1006,7 +966,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Valgfri funksjon
+				Tilleggsutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1014,12 +974,12 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -1027,7 +987,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setepute, sidestøtte
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -1035,23 +995,23 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Fotstøtte passasjer
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Beinstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ukjent
@@ -1095,7 +1055,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Sjåfør- og passasjersete
+				Fører- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -1108,7 +1068,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setehøyde
+				Setehøydejustering
 			</td>
 			<td>
 				Ukjent
@@ -1116,7 +1076,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøttevinkel
+				Ryggvinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -1124,7 +1084,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Seteputevinkeljustering
+				Vinkeljustering av setepute
 			</td>
 			<td>
 				Ukjent
@@ -1132,7 +1092,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Minne
+				Minnefunksjon
 			</td>
 			<td>
 				Ukjent
@@ -1140,10 +1100,10 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1151,7 +1111,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Valgfri funksjon
+				Tilleggsutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1159,12 +1119,12 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -1172,7 +1132,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setepute, sidestøtte
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -1180,23 +1140,23 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Fotstøtte passasjer
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Beinstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ukjent
@@ -1240,7 +1200,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Sjåfør- og passasjersete
+				Fører- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -1253,7 +1213,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setehøyde
+				Setehøydejustering
 			</td>
 			<td>
 				Ukjent
@@ -1261,7 +1221,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøttevinkel
+				Ryggvinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -1269,7 +1229,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Seteputevinkeljustering
+				Vinkeljustering av setepute
 			</td>
 			<td>
 				Ukjent
@@ -1277,7 +1237,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Minne
+				Minnefunksjon
 			</td>
 			<td>
 				Ukjent
@@ -1285,7 +1245,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -1304,12 +1264,12 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -1317,7 +1277,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setepute, sidestøtte
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -1325,23 +1285,23 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Fotstøtte passasjer
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Beinstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ukjent
@@ -1385,7 +1345,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Sjåfør- og passasjersete
+				Fører- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -1398,7 +1358,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setehøyde
+				Setehøydejustering
 			</td>
 			<td>
 				Ukjent
@@ -1406,7 +1366,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøttevinkel
+				Ryggvinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -1414,7 +1374,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Seteputevinkeljustering
+				Vinkeljustering av setepute
 			</td>
 			<td>
 				Ukjent
@@ -1422,18 +1382,18 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Minne
+				Minnefunksjon
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1441,7 +1401,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1449,44 +1409,44 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering av setepute, sidestøtte
-			</td>
-			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Fotstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Beinstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ukjent
@@ -1497,7 +1457,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Seteventilasjon
 			</td>
 			<td>
-				Valgfri funksjon
+				Tilleggsutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1505,13 +1465,13 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Massasjefunksjon
 			</td>
 			<td>
-				Valgfri funksjon
+				Tilleggsutstyr
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-### Seter på andre rad
+### Seter andre rad
 
 
 #### standard
@@ -1533,15 +1493,15 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Tre-seters benk
+				Treseters benk
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1562,7 +1522,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -1570,7 +1530,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setepute, sidestøtte
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -1578,7 +1538,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Fotstøtte passasjer
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -1586,7 +1546,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Benstøttepassasjer
+				Beinstøtte passasjer
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -1594,7 +1554,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -1619,7 +1579,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 	</tbody>
 </table>
 
-## Sjåførassistanse
+## Førerstøtte
 
 <table class="table table-striped border">
 	<thead>
@@ -1635,7 +1595,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 	<tbody>
 		<tr>
 			<td>
-				Lane keeping
+				Filholderassistent
 			</td>
 			<td>
 				Ja (Audi Active Lane Assist), standardutstyr
@@ -1643,7 +1603,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Lane departure warning
+				Varsel ved filskifte
 			</td>
 			<td>
 				Ja (Audi Active Lane Assist), standardutstyr
@@ -1651,7 +1611,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Døsighetsvarsel
+				Tretthetsvarsling
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -1659,31 +1619,31 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Bryggekamera
+				Ryggekamera
 			</td>
 			<td>
-				Ja, tileggsutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				360-kamera
-			</td>
-			<td>
-				Ja, tileggsutstyr
+				Ja, ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Alarm for kryssende trafikk bak
+				360° kamera
 			</td>
 			<td>
-				Ja (Cross traffic assist rear), tileggsutstyr
+				Ja, ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer bak
+				Kryssende trafikkvarsling bak
+			</td>
+			<td>
+				Ja (Cross traffic assist rear), ekstrautstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Parksensorer bak
 			</td>
 			<td>
 				Ja (Parking system plus), standardutstyr
@@ -1691,7 +1651,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer foran
+				Parksensorer foran
 			</td>
 			<td>
 				Ja (Parking system plus), standardutstyr
@@ -1699,7 +1659,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer på siden
+				Parksensorer på sidene
 			</td>
 			<td>
 				Ja (Parking system plus), standardutstyr
@@ -1707,7 +1667,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Hill nedstigningshjelp
+				Nedfartshjelp
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -1715,7 +1675,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Hill start assist
+				Bakkeassistent
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -1723,7 +1683,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				AntiLock Braking System
+				Blokkeringsfrie bremser (ABS)
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -1731,7 +1691,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Automatisk nødbremsing
+				Automatisk nødbrems
 			</td>
 			<td>
 				Ja (Audi Pre sense front), standardutstyr
@@ -1739,7 +1699,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Traksjonskontroll
+				Trekkontroll
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -1747,23 +1707,23 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Unngå krasj i venstresving
+				Kollisjonsunngåelse ved venstresving
 			</td>
 			<td>
-				Ja (Audi Turn Assist), tileggsutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Forward Collision Warning
-			</td>
-			<td>
-				Ja (Audi Collision Avoidance Assist), tileggsutstyr
+				Ja (Audi Turn Assist), ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektronisk stabilitetskontroll
+				Frontkollisjonsvarsling
+			</td>
+			<td>
+				Ja (Audi Collision Avoidance Assist), ekstrautstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektronisk stabilitetskontroll (ESC)
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -1771,7 +1731,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Temperaturadvarsel
+				Temperaturvarsling
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -1779,15 +1739,15 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Cross traffic assist
+				Kryssende trafikk assistent
 			</td>
 			<td>
-				Ja (Audi Collision Avoidance Assist), tileggsutstyr
+				Ja (Audi Collision Avoidance Assist), ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Effektivitetsassistent
+				Effektivitetshjelp
 			</td>
 			<td>
 				Ja (Audi Efficency Assist), standardutstyr
@@ -1798,7 +1758,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Automatisk nødstyring
 			</td>
 			<td>
-				Ja (Audi Collision Avoidance Assist), tileggsutstyr
+				Ja (Audi Collision Avoidance Assist), ekstrautstyr
 			</td>
 		</tr>
 		<tr>
@@ -1806,21 +1766,21 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Trafikkskiltgjenkjenning
 			</td>
 			<td>
-				Ja (Audi Traffic Sign Recongition), tileggsutstyr
+				Ja (Audi Traffic Sign Recongition), ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Nattsyn
+				Nattvisjon
 			</td>
 			<td>
-				Ja (Night Vision Assist), tileggsutstyr
+				Ja (Night Vision Assist), ekstrautstyr
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-## Brukerinterface
+## Brukergrensesnitt og kontroller
 
 <table class="table table-striped border">
 	<thead>
@@ -1839,7 +1799,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Head-up display
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, ekstrautstyr
 			</td>
 		</tr>
 		<tr>
@@ -1847,66 +1807,12 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Stemmestyring
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Gesture control
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Android Auto-støtte
-			</td>
-			<td>
-				Ja (Smartphone Interface), tileggsutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Apple Carplay-støtte
-			</td>
-			<td>
-				Ja (Smartphone Interface), tileggsutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				I bilnavigasjon
-			</td>
-			<td>
-				Ja (MMI Navigation plus), standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Available screen layouts
-			</td>
-			<td>
-				1
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Digital driver display
-			</td>
-			<td>
-				Ja, 12,3
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Infotainment skjerm
-			</td>
-			<td>
-				Ja, to 10,1" og 8,6"
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Infotainment skjerm fremre passasjer
+				Bevegelseskontroll
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -1914,7 +1820,63 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Infotainment skjerm bak
+				Støtte for Android Auto
+			</td>
+			<td>
+				Ja (Smartphone Interface), ekstrautstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Støtte for Apple CarPlay
+			</td>
+			<td>
+				Ja (Smartphone Interface), ekstrautstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Innebygd navigasjon
+			</td>
+			<td>
+				Ja (MMI Navigation plus), standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tilgjengelige skjermoppsett
+			</td>
+			<td>
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Digitalt førerdisplay
+			</td>
+			<td>
+				Ja, 12,3
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Infotainmentskjerm
+			</td>
+			<td>
+				Ja, to 10,1" og 8,6"
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Infotainmentskjerm foran passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Infotainmentskjerm baksete
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -2008,7 +1970,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
         <div id="panelsStayOpen-collapse3020fd78-a5a9-4e33-a13b-f87b418a4e92" class="accordion-collapse collapse">
             <div class="accordion-body">
 
-## Ytelse
+## Ytelser
 
 <table class="table table-striped border">
 	<thead>
@@ -2027,28 +1989,28 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Maks effekt
 			</td>
 			<td>
-				230 KW (313 hk)
+				230 kW (313 hk /308 bhp)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment
+				Elektrisk dreiemoment
 			</td>
 			<td>
-				540 nm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Topphastighet
-			</td>
-			<td>
-				200 km/t
+				540 Nm (399 lb-ft)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				0-100 km/t (0-62 mph)
+				Toppfart
+			</td>
+			<td>
+				200 km/t (124 mph)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0–100 km/t (0–62 mph)
 			</td>
 			<td>
 				6,8 s
@@ -2061,7 +2023,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ## Rekkevidde og forbruk
 
-Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinfo](../rangeandconsumption/) for detaljerte eksempler på rekkevidde fra den virkelige verden. Besøk vår [Rekkeviddeguide](../../../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
+Under ser du offisielle rekkeviddedata. Besøk vår [utvidede rekkeviddeoversikt](../rangeandconsumption/) for detaljerte eksempler fra virkeligheten. Les også vår [rekkeviddeguide](../../../../../guides/understandingrange/) for å forstå hva som påvirker rekkevidde og hvordan de offisielle verdiene måles.
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -2076,7 +2038,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				WLTP-rekkevidde for grunnmodell
+				WLTP-rekkevidde (standardversjon)
 			</td>
 			<td>
 				351 km
@@ -2084,7 +2046,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				WLTP-forbruk grunnmodell
+				WLTP-forbruk (standardversjon)
 			</td>
 			<td>
 				18,2 kWh/100km
@@ -2092,7 +2054,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				WLTP-forbruk grunnmodell med ladetap
+				WLTP-forbruk inkl. ladetap (standardversjon)
 			</td>
 			<td>
 				21,6 kWh/100km
@@ -2100,7 +2062,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Topputstyrt WLTP-rekkevidde
+				WLTP-rekkevidde (toppmodell)
 			</td>
 			<td>
 				286 km
@@ -2108,7 +2070,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Topputstyrt WLTP-forbruk
+				WLTP-forbruk (toppmodell)
 			</td>
 			<td>
 				22,4 kWh/100km
@@ -2116,7 +2078,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Topputstyrt WLTP-forbruk med ladetap
+				WLTP-forbruk inkl. ladetap (toppmodell)
 			</td>
 			<td>
 				25,9 kwh/100km
@@ -2143,7 +2105,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				Brutto batteristørrelse
+				Bruttokapasitet
 			</td>
 			<td>
 				71 kWh
@@ -2151,7 +2113,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Netto batteristørrelse
+				Nettokapasitet
 			</td>
 			<td>
 				64 kWh
@@ -2159,7 +2121,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Maks DC-lading
+				Maks DC-ladeeffekt
 			</td>
 			<td>
 				120 kW
@@ -2175,7 +2137,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Pakkekonfigurasjon
+				Batterikonfigurasjon
 			</td>
 			<td>
 				108s3p
@@ -2218,7 +2180,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				Ladeportplassering
+				Plassering av ladeport
 			</td>
 			<td>
 				LeftFrontSide
@@ -2226,7 +2188,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Type ladeport Europa
+				Ladekontakttype Europa
 			</td>
 			<td>
 				CCS2
@@ -2234,7 +2196,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Type ladeport Nord-Amerika
+				Ladekontakttype Nord-Amerika
 			</td>
 			<td>
 				CCS1
@@ -2242,7 +2204,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Skriv ladeport Kina
+				Ladekontakttype Kina
 			</td>
 			<td>
 				GBT
@@ -2250,7 +2212,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Skriv ladeport Japan
+				Ladekontakttype Japan
 			</td>
 			<td>
 				CHAdeMO
@@ -2258,7 +2220,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Skriv ladeport Oceania (Australia, New Zealand ++)
+				Ladekontakttype Oseania (Australia, New Zealand ++)
 			</td>
 			<td>
 				CCS2
@@ -2280,7 +2242,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				Ladeportplassering
+				Plassering av ladeport
 			</td>
 			<td>
 				RightFrontSide
@@ -2288,7 +2250,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Type ladeport Europa
+				Ladekontakttype Europa
 			</td>
 			<td>
 				Type2
@@ -2296,7 +2258,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Type ladeport Nord-Amerika
+				Ladekontakttype Nord-Amerika
 			</td>
 			<td>
 				J1772
@@ -2304,7 +2266,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Skriv ladeport Kina
+				Ladekontakttype Kina
 			</td>
 			<td>
 				GBT
@@ -2312,7 +2274,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Skriv ladeport Japan
+				Ladekontakttype Japan
 			</td>
 			<td>
 				CHAdeMO
@@ -2320,7 +2282,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Skriv ladeport Oceania (Australia, New Zealand ++)
+				Ladekontakttype Oseania (Australia, New Zealand ++)
 			</td>
 			<td>
 				Type2
@@ -2348,7 +2310,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Lengde
 			</td>
 			<td>
-				4901 mm
+				4901 mm (193,0")
 			</td>
 		</tr>
 		<tr>
@@ -2356,7 +2318,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Høyde
 			</td>
 			<td>
-				1616 mm
+				1616 mm (63,6")
 			</td>
 		</tr>
 		<tr>
@@ -2364,15 +2326,15 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Bredde uten speil
 			</td>
 			<td>
-				1935 mm
+				1935 mm (76,2")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Bredde inkludert speil
+				Dimensions.WidhtIncludingMirrors
 			</td>
 			<td>
-				2189 mm
+				2189 mm (86,2")
 			</td>
 		</tr>
 		<tr>
@@ -2380,28 +2342,28 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Akselavstand
 			</td>
 			<td>
-				2927 mm
+				2927 mm (115,2")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Sporbredde foran
+				Sporvidde foran
 			</td>
 			<td>
-				1655 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sporbredde bak
-			</td>
-			<td>
-				1655 mm
+				1655 mm (65,2")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Drag-koeffisient
+				Sporvidde bak
+			</td>
+			<td>
+				1655 mm (65,2")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Luftmotstandskoeffisient
 			</td>
 			<td>
 				0,25
@@ -2409,7 +2371,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Frontalområde
+				Frontareal
 			</td>
 			<td>
 				2,65
@@ -2431,10 +2393,18 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				20
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Svingradius
+			</td>
+			<td>
+				11,6 meter (456,7")
+			</td>
+		</tr>
 	</tbody>
 </table>
 
-## Lastekapasitet og slepeevne
+## Bagasje og tilhengervekt
 
 <table class="table table-striped border">
 	<thead>
@@ -2453,23 +2423,23 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				2370 kg
+				2370 kg (5225 lbs)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Tillatt totalvekt
+				Maks tillatt totalvekt
 			</td>
 			<td>
-				3040 kg
+				3040 kg (6702 lbs)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Maks nyttelast inkludert vekt fører
+				Maks nyttelast inkl. fører
 			</td>
 			<td>
-				670 kg
+				670 kg (1477 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -2477,53 +2447,61 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks taklast
 			</td>
 			<td>
-				75 kg
+				75 kg (165 lbs)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Størrelse bagasjerom
+				Bagasjeromsvolum
 			</td>
 			<td>
-				660 liter
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Størrelse med alle bakseter lagt ned
-			</td>
-			<td>
-				1725 liter
+				660 liter (23 cu-ft)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Maksimum vekt tilhenger med bremse
+				Bagasjeromsvolum med alle bakseter nedfelt
 			</td>
 			<td>
-				1800 kg
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maksvekt tilhenger m/brems
-			</td>
-			<td>
-				750 kg
+				1725 liter (61 cu-ft)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Maksvekt på tilhengerkobling
+				Volum frunk
 			</td>
 			<td>
-				80 kg
+				60 liter (2 cu-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks tilhengervekt med bremser
+			</td>
+			<td>
+				1800 kg (3968 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks tilhengervekt uten bremser
+			</td>
+			<td>
+				750 kg (1653 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks vertikallast (kulekobling)
+			</td>
+			<td>
+				80 kg (176 lbs)
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-## Hjuloppheng
+## Fjæring
 
 Modellen tilbyr 2 fjæringsvarianter
 
@@ -2543,7 +2521,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv understell
+				Adaptivt fjæringssystem
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -2586,20 +2564,20 @@ Modellen tilbyr 2 fjæringsvarianter
 				Maks bakkeklaring
 			</td>
 			<td>
-				248 mm
+				248 mm (9,8")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Minimum bakkeklaring
+				Minste bakkeklaring
 			</td>
 			<td>
-				152 mm
+				152 mm (6,0")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Type demper foran
+				Dempetype foran
 			</td>
 			<td>
 				ElectronicallyControlled
@@ -2607,7 +2585,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type demper bak
+				Dempetype bak
 			</td>
 			<td>
 				ElectronicallyControlled
@@ -2615,7 +2593,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type fjæring foran
+				Fjærtype foran
 			</td>
 			<td>
 				Air
@@ -2623,7 +2601,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type fjæring bak
+				Fjærtype bak
 			</td>
 			<td>
 				Air
@@ -2631,18 +2609,18 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Hjuloppheng foran
+				Fjæringssystem foran
 			</td>
 			<td>
-				Dobbelt bærearmsoppheng
+				Doble bærearmer foran
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Hjuloppheng bak
+				Fjæringssystem bak
 			</td>
 			<td>
-				Multi-link
+				Multilenker bak
 			</td>
 		</tr>
 	</tbody>
@@ -2664,7 +2642,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv understell
+				Adaptivt fjæringssystem
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -2707,20 +2685,20 @@ Modellen tilbyr 2 fjæringsvarianter
 				Maks bakkeklaring
 			</td>
 			<td>
-				248 mm
+				248 mm (9,8")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Minimum bakkeklaring
+				Minste bakkeklaring
 			</td>
 			<td>
-				152 mm
+				152 mm (6,0")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Type demper foran
+				Dempetype foran
 			</td>
 			<td>
 				ElectronicallyControlled
@@ -2728,7 +2706,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type demper bak
+				Dempetype bak
 			</td>
 			<td>
 				ElectronicallyControlled
@@ -2736,7 +2714,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type fjæring foran
+				Fjærtype foran
 			</td>
 			<td>
 				Air
@@ -2744,7 +2722,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type fjæring bak
+				Fjærtype bak
 			</td>
 			<td>
 				Air
@@ -2752,18 +2730,18 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Hjuloppheng foran
+				Fjæringssystem foran
 			</td>
 			<td>
-				Dobbelt bærearmsoppheng
+				Doble bærearmer foran
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Hjuloppheng bak
+				Fjæringssystem bak
 			</td>
 			<td>
-				Multi-link
+				Multilenker bak
 			</td>
 		</tr>
 	</tbody>
@@ -2771,7 +2749,7 @@ Modellen tilbyr 2 fjæringsvarianter
 
 ## Interiør
 
-Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
+Denne modellen er tilgjengelig med fem seter.
 
 ### Forseter
 
@@ -2795,7 +2773,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Sjåfør- og passasjersete
+				Fører- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -2808,7 +2786,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setehøyde
+				Setehøydejustering
 			</td>
 			<td>
 				Ukjent
@@ -2816,7 +2794,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøttevinkel
+				Ryggvinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -2824,7 +2802,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Seteputevinkeljustering
+				Vinkeljustering av setepute
 			</td>
 			<td>
 				Ukjent
@@ -2832,7 +2810,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Minne
+				Minnefunksjon
 			</td>
 			<td>
 				Ukjent
@@ -2840,10 +2818,10 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -2851,7 +2829,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Valgfri funksjon
+				Tilleggsutstyr
 			</td>
 		</tr>
 		<tr>
@@ -2864,7 +2842,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -2872,7 +2850,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setepute, sidestøtte
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -2880,23 +2858,23 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Fotstøtte passasjer
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Beinstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -2940,7 +2918,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Sjåfør- og passasjersete
+				Fører- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -2953,7 +2931,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setehøyde
+				Setehøydejustering
 			</td>
 			<td>
 				Ukjent
@@ -2961,7 +2939,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøttevinkel
+				Ryggvinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -2969,7 +2947,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Seteputevinkeljustering
+				Vinkeljustering av setepute
 			</td>
 			<td>
 				Ukjent
@@ -2977,7 +2955,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Minne
+				Minnefunksjon
 			</td>
 			<td>
 				Ukjent
@@ -2985,10 +2963,10 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -2996,7 +2974,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Valgfri funksjon
+				Tilleggsutstyr
 			</td>
 		</tr>
 		<tr>
@@ -3004,12 +2982,12 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -3017,7 +2995,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setepute, sidestøtte
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -3025,23 +3003,23 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Fotstøtte passasjer
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Beinstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ukjent
@@ -3085,7 +3063,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Sjåfør- og passasjersete
+				Fører- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -3098,7 +3076,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setehøyde
+				Setehøydejustering
 			</td>
 			<td>
 				Ukjent
@@ -3106,7 +3084,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøttevinkel
+				Ryggvinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -3114,7 +3092,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Seteputevinkeljustering
+				Vinkeljustering av setepute
 			</td>
 			<td>
 				Ukjent
@@ -3122,7 +3100,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Minne
+				Minnefunksjon
 			</td>
 			<td>
 				Ukjent
@@ -3130,10 +3108,10 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -3141,7 +3119,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Valgfri funksjon
+				Tilleggsutstyr
 			</td>
 		</tr>
 		<tr>
@@ -3149,12 +3127,12 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -3162,7 +3140,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setepute, sidestøtte
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -3170,23 +3148,23 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Fotstøtte passasjer
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Beinstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ukjent
@@ -3230,7 +3208,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Sjåfør- og passasjersete
+				Fører- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -3243,7 +3221,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setehøyde
+				Setehøydejustering
 			</td>
 			<td>
 				Ukjent
@@ -3251,7 +3229,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøttevinkel
+				Ryggvinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -3259,7 +3237,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Seteputevinkeljustering
+				Vinkeljustering av setepute
 			</td>
 			<td>
 				Ukjent
@@ -3267,7 +3245,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Minne
+				Minnefunksjon
 			</td>
 			<td>
 				Ukjent
@@ -3275,7 +3253,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -3294,12 +3272,12 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -3307,7 +3285,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setepute, sidestøtte
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -3315,23 +3293,23 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Fotstøtte passasjer
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Beinstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ukjent
@@ -3375,7 +3353,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Sjåfør- og passasjersete
+				Fører- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -3388,7 +3366,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setehøyde
+				Setehøydejustering
 			</td>
 			<td>
 				Ukjent
@@ -3396,7 +3374,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøttevinkel
+				Ryggvinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -3404,7 +3382,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Seteputevinkeljustering
+				Vinkeljustering av setepute
 			</td>
 			<td>
 				Ukjent
@@ -3412,18 +3390,18 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Minne
+				Minnefunksjon
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -3431,7 +3409,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -3439,44 +3417,44 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering av setepute, sidestøtte
-			</td>
-			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Fotstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Beinstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ukjent
@@ -3487,7 +3465,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Seteventilasjon
 			</td>
 			<td>
-				Valgfri funksjon
+				Tilleggsutstyr
 			</td>
 		</tr>
 		<tr>
@@ -3495,13 +3473,13 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Massasjefunksjon
 			</td>
 			<td>
-				Valgfri funksjon
+				Tilleggsutstyr
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-### Seter på andre rad
+### Seter andre rad
 
 
 #### standard
@@ -3523,15 +3501,15 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Tre-seters benk
+				Treseters benk
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -3552,7 +3530,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -3560,7 +3538,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setepute, sidestøtte
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -3568,7 +3546,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Fotstøtte passasjer
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -3576,7 +3554,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Benstøttepassasjer
+				Beinstøtte passasjer
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -3584,7 +3562,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -3609,7 +3587,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 	</tbody>
 </table>
 
-## Sjåførassistanse
+## Førerstøtte
 
 <table class="table table-striped border">
 	<thead>
@@ -3625,7 +3603,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 	<tbody>
 		<tr>
 			<td>
-				Lane keeping
+				Filholderassistent
 			</td>
 			<td>
 				Ja (Audi Active Lane Assist), standardutstyr
@@ -3633,7 +3611,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Lane departure warning
+				Varsel ved filskifte
 			</td>
 			<td>
 				Ja (Audi Active Lane Assist), standardutstyr
@@ -3641,7 +3619,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Døsighetsvarsel
+				Tretthetsvarsling
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -3649,31 +3627,31 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Bryggekamera
+				Ryggekamera
 			</td>
 			<td>
-				Ja, tileggsutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				360-kamera
-			</td>
-			<td>
-				Ja, tileggsutstyr
+				Ja, ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Alarm for kryssende trafikk bak
+				360° kamera
 			</td>
 			<td>
-				Ja (Cross traffic assist rear), tileggsutstyr
+				Ja, ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer bak
+				Kryssende trafikkvarsling bak
+			</td>
+			<td>
+				Ja (Cross traffic assist rear), ekstrautstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Parksensorer bak
 			</td>
 			<td>
 				Ja (Parking system plus), standardutstyr
@@ -3681,7 +3659,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer foran
+				Parksensorer foran
 			</td>
 			<td>
 				Ja (Parking system plus), standardutstyr
@@ -3689,7 +3667,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer på siden
+				Parksensorer på sidene
 			</td>
 			<td>
 				Ja (Parking system plus), standardutstyr
@@ -3697,7 +3675,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Hill nedstigningshjelp
+				Nedfartshjelp
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -3705,7 +3683,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Hill start assist
+				Bakkeassistent
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -3713,7 +3691,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				AntiLock Braking System
+				Blokkeringsfrie bremser (ABS)
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -3721,7 +3699,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Automatisk nødbremsing
+				Automatisk nødbrems
 			</td>
 			<td>
 				Ja (Audi Pre sense front), standardutstyr
@@ -3729,7 +3707,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Traksjonskontroll
+				Trekkontroll
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -3737,23 +3715,23 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Unngå krasj i venstresving
+				Kollisjonsunngåelse ved venstresving
 			</td>
 			<td>
-				Ja (Audi Turn Assist), tileggsutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Forward Collision Warning
-			</td>
-			<td>
-				Ja (Audi Collision Avoidance Assist), tileggsutstyr
+				Ja (Audi Turn Assist), ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektronisk stabilitetskontroll
+				Frontkollisjonsvarsling
+			</td>
+			<td>
+				Ja (Audi Collision Avoidance Assist), ekstrautstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektronisk stabilitetskontroll (ESC)
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -3761,7 +3739,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Temperaturadvarsel
+				Temperaturvarsling
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -3769,15 +3747,15 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Cross traffic assist
+				Kryssende trafikk assistent
 			</td>
 			<td>
-				Ja (Audi Collision Avoidance Assist), tileggsutstyr
+				Ja (Audi Collision Avoidance Assist), ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Effektivitetsassistent
+				Effektivitetshjelp
 			</td>
 			<td>
 				Ja (Audi Efficency Assist), standardutstyr
@@ -3788,7 +3766,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Automatisk nødstyring
 			</td>
 			<td>
-				Ja (Audi Collision Avoidance Assist), tileggsutstyr
+				Ja (Audi Collision Avoidance Assist), ekstrautstyr
 			</td>
 		</tr>
 		<tr>
@@ -3796,21 +3774,21 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Trafikkskiltgjenkjenning
 			</td>
 			<td>
-				Ja (Audi Traffic Sign Recongition), tileggsutstyr
+				Ja (Audi Traffic Sign Recongition), ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Nattsyn
+				Nattvisjon
 			</td>
 			<td>
-				Ja (Night Vision Assist), tileggsutstyr
+				Ja (Night Vision Assist), ekstrautstyr
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-## Brukerinterface
+## Brukergrensesnitt og kontroller
 
 <table class="table table-striped border">
 	<thead>
@@ -3829,7 +3807,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Head-up display
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, ekstrautstyr
 			</td>
 		</tr>
 		<tr>
@@ -3837,66 +3815,12 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Stemmestyring
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Gesture control
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Android Auto-støtte
-			</td>
-			<td>
-				Ja (Smartphone Interface), tileggsutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Apple Carplay-støtte
-			</td>
-			<td>
-				Ja (Smartphone Interface), tileggsutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				I bilnavigasjon
-			</td>
-			<td>
-				Ja (MMI Navigation plus), standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Available screen layouts
-			</td>
-			<td>
-				1
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Digital driver display
-			</td>
-			<td>
-				Ja, 12,3
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Infotainment skjerm
-			</td>
-			<td>
-				Ja, to 10,1" og 8,6"
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Infotainment skjerm fremre passasjer
+				Bevegelseskontroll
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -3904,7 +3828,63 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Infotainment skjerm bak
+				Støtte for Android Auto
+			</td>
+			<td>
+				Ja (Smartphone Interface), ekstrautstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Støtte for Apple CarPlay
+			</td>
+			<td>
+				Ja (Smartphone Interface), ekstrautstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Innebygd navigasjon
+			</td>
+			<td>
+				Ja (MMI Navigation plus), standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tilgjengelige skjermoppsett
+			</td>
+			<td>
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Digitalt førerdisplay
+			</td>
+			<td>
+				Ja, 12,3
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Infotainmentskjerm
+			</td>
+			<td>
+				Ja, to 10,1" og 8,6"
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Infotainmentskjerm foran passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Infotainmentskjerm baksete
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -3998,7 +3978,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
         <div id="panelsStayOpen-collapse38e6acba-0cbd-4e9a-b361-54774372483a" class="accordion-collapse collapse">
             <div class="accordion-body">
 
-## Ytelse
+## Ytelser
 
 <table class="table table-striped border">
 	<thead>
@@ -4017,7 +3997,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Maks effekt
 			</td>
 			<td>
-				265 KW (360 hk)
+				265 kW (360 hk /355 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -4030,15 +4010,15 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment
+				Elektrisk dreiemoment
 			</td>
 			<td>
-				561 nm
+				561 Nm (414 lb-ft)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment med boost
+				Elektrisk dreiemoment med boost
 			</td>
 			<td>
 				664 Nm
@@ -4046,15 +4026,15 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Topphastighet
+				Toppfart
 			</td>
 			<td>
-				200 km/t
+				200 km/t (124 mph)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				0-100 km/t (0-62 mph)
+				0–100 km/t (0–62 mph)
 			</td>
 			<td>
 				6,6 s
@@ -4062,7 +4042,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				0-100 km/t (0-62 mph) boost
+				0–100 km/t (0–62 mph) med boost
 			</td>
 			<td>
 				5,7 s
@@ -4075,7 +4055,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ## Rekkevidde og forbruk
 
-Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinfo](../rangeandconsumption/) for detaljerte eksempler på rekkevidde fra den virkelige verden. Besøk vår [Rekkeviddeguide](../../../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
+Under ser du offisielle rekkeviddedata. Besøk vår [utvidede rekkeviddeoversikt](../rangeandconsumption/) for detaljerte eksempler fra virkeligheten. Les også vår [rekkeviddeguide](../../../../../guides/understandingrange/) for å forstå hva som påvirker rekkevidde og hvordan de offisielle verdiene måles.
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -4090,7 +4070,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				WLTP-rekkevidde for grunnmodell
+				WLTP-rekkevidde (standardversjon)
 			</td>
 			<td>
 				441 km
@@ -4098,7 +4078,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				WLTP-forbruk grunnmodell
+				WLTP-forbruk (standardversjon)
 			</td>
 			<td>
 				19,5 kWh/100km
@@ -4106,7 +4086,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				WLTP-forbruk grunnmodell med ladetap
+				WLTP-forbruk inkl. ladetap (standardversjon)
 			</td>
 			<td>
 				22,2 kWh/100km
@@ -4114,7 +4094,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Topputstyrt WLTP-rekkevidde
+				WLTP-rekkevidde (toppmodell)
 			</td>
 			<td>
 				369 km
@@ -4122,7 +4102,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Topputstyrt WLTP-forbruk
+				WLTP-forbruk (toppmodell)
 			</td>
 			<td>
 				23,3 kWh/100km
@@ -4130,7 +4110,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Topputstyrt WLTP-forbruk med ladetap
+				WLTP-forbruk inkl. ladetap (toppmodell)
 			</td>
 			<td>
 				26,1 kwh/100km
@@ -4157,7 +4137,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				Brutto batteristørrelse
+				Bruttokapasitet
 			</td>
 			<td>
 				95 kWh
@@ -4165,7 +4145,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Netto batteristørrelse
+				Nettokapasitet
 			</td>
 			<td>
 				86 kWh
@@ -4173,7 +4153,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Maks DC-lading
+				Maks DC-ladeeffekt
 			</td>
 			<td>
 				150 kW
@@ -4189,7 +4169,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Pakkekonfigurasjon
+				Batterikonfigurasjon
 			</td>
 			<td>
 				108s4p
@@ -4232,7 +4212,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				Ladeportplassering
+				Plassering av ladeport
 			</td>
 			<td>
 				LeftFrontSide
@@ -4240,7 +4220,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Type ladeport Europa
+				Ladekontakttype Europa
 			</td>
 			<td>
 				CCS2
@@ -4248,31 +4228,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Type ladeport Nord-Amerika
-			</td>
-			<td>
-				CCS1
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Kina
-			</td>
-			<td>
-				GBT
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Japan
-			</td>
-			<td>
-				CHAdeMO
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Oceania (Australia, New Zealand ++)
+				Ladekontakttype Oseania (Australia, New Zealand ++)
 			</td>
 			<td>
 				CCS2
@@ -4294,7 +4250,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				Ladeportplassering
+				Plassering av ladeport
 			</td>
 			<td>
 				RightFrontSide
@@ -4302,39 +4258,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Type ladeport Europa
-			</td>
-			<td>
-				Type2
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type ladeport Nord-Amerika
-			</td>
-			<td>
-				J1772
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Kina
-			</td>
-			<td>
-				GBT
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Japan
-			</td>
-			<td>
-				CHAdeMO
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Oceania (Australia, New Zealand ++)
+				Ladekontakttype Europa
 			</td>
 			<td>
 				Type2
@@ -4362,7 +4286,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Lengde
 			</td>
 			<td>
-				4901 mm
+				4901 mm (193,0")
 			</td>
 		</tr>
 		<tr>
@@ -4370,7 +4294,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Høyde
 			</td>
 			<td>
-				1629 mm
+				1629 mm (64,1")
 			</td>
 		</tr>
 		<tr>
@@ -4378,15 +4302,15 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Bredde uten speil
 			</td>
 			<td>
-				1935 mm
+				1935 mm (76,2")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Bredde inkludert speil
+				Dimensions.WidhtIncludingMirrors
 			</td>
 			<td>
-				2189 mm
+				2189 mm (86,2")
 			</td>
 		</tr>
 		<tr>
@@ -4394,28 +4318,28 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Akselavstand
 			</td>
 			<td>
-				2927 mm
+				2927 mm (115,2")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Sporbredde foran
+				Sporvidde foran
 			</td>
 			<td>
-				1655 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sporbredde bak
-			</td>
-			<td>
-				1655 mm
+				1655 mm (65,2")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Drag-koeffisient
+				Sporvidde bak
+			</td>
+			<td>
+				1655 mm (65,2")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Luftmotstandskoeffisient
 			</td>
 			<td>
 				0,28
@@ -4423,7 +4347,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Frontalområde
+				Frontareal
 			</td>
 			<td>
 				2,65
@@ -4445,10 +4369,18 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				20
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Svingradius
+			</td>
+			<td>
+				11,6 meter (456,7")
+			</td>
+		</tr>
 	</tbody>
 </table>
 
-## Lastekapasitet og slepeevne
+## Bagasje og tilhengervekt
 
 <table class="table table-striped border">
 	<thead>
@@ -4467,23 +4399,23 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				2520 kg
+				2520 kg (5556 lbs)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Tillatt totalvekt
+				Maks tillatt totalvekt
 			</td>
 			<td>
-				3170 kg
+				3170 kg (6989 lbs)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Maks nyttelast inkludert vekt fører
+				Maks nyttelast inkl. fører
 			</td>
 			<td>
-				650 kg
+				650 kg (1433 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -4491,53 +4423,61 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks taklast
 			</td>
 			<td>
-				75 kg
+				75 kg (165 lbs)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Størrelse bagasjerom
+				Bagasjeromsvolum
 			</td>
 			<td>
-				660 liter
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Størrelse med alle bakseter lagt ned
-			</td>
-			<td>
-				1725 liter
+				660 liter (23 cu-ft)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Maksimum vekt tilhenger med bremse
+				Bagasjeromsvolum med alle bakseter nedfelt
 			</td>
 			<td>
-				1800 kg
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maksvekt tilhenger m/brems
-			</td>
-			<td>
-				750 kg
+				1725 liter (61 cu-ft)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Maksvekt på tilhengerkobling
+				Volum frunk
 			</td>
 			<td>
-				80 kg
+				60 liter (2 cu-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks tilhengervekt med bremser
+			</td>
+			<td>
+				1800 kg (3968 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks tilhengervekt uten bremser
+			</td>
+			<td>
+				750 kg (1653 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks vertikallast (kulekobling)
+			</td>
+			<td>
+				80 kg (176 lbs)
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-## Hjuloppheng
+## Fjæring
 
 Modellen tilbyr 2 fjæringsvarianter
 
@@ -4557,7 +4497,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv understell
+				Adaptivt fjæringssystem
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -4600,20 +4540,20 @@ Modellen tilbyr 2 fjæringsvarianter
 				Maks bakkeklaring
 			</td>
 			<td>
-				248 mm
+				248 mm (9,8")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Minimum bakkeklaring
+				Minste bakkeklaring
 			</td>
 			<td>
-				152 mm
+				152 mm (6,0")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Type demper foran
+				Dempetype foran
 			</td>
 			<td>
 				ElectronicallyControlled
@@ -4621,7 +4561,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type demper bak
+				Dempetype bak
 			</td>
 			<td>
 				ElectronicallyControlled
@@ -4629,7 +4569,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type fjæring foran
+				Fjærtype foran
 			</td>
 			<td>
 				Air
@@ -4637,7 +4577,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type fjæring bak
+				Fjærtype bak
 			</td>
 			<td>
 				Air
@@ -4645,18 +4585,18 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Hjuloppheng foran
+				Fjæringssystem foran
 			</td>
 			<td>
-				Dobbelt bærearmsoppheng
+				Doble bærearmer foran
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Hjuloppheng bak
+				Fjæringssystem bak
 			</td>
 			<td>
-				Multi-link
+				Multilenker bak
 			</td>
 		</tr>
 	</tbody>
@@ -4678,7 +4618,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv understell
+				Adaptivt fjæringssystem
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -4721,20 +4661,20 @@ Modellen tilbyr 2 fjæringsvarianter
 				Maks bakkeklaring
 			</td>
 			<td>
-				248 mm
+				248 mm (9,8")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Minimum bakkeklaring
+				Minste bakkeklaring
 			</td>
 			<td>
-				152 mm
+				152 mm (6,0")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Type demper foran
+				Dempetype foran
 			</td>
 			<td>
 				ElectronicallyControlled
@@ -4742,7 +4682,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type demper bak
+				Dempetype bak
 			</td>
 			<td>
 				ElectronicallyControlled
@@ -4750,7 +4690,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type fjæring foran
+				Fjærtype foran
 			</td>
 			<td>
 				Air
@@ -4758,7 +4698,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type fjæring bak
+				Fjærtype bak
 			</td>
 			<td>
 				Air
@@ -4766,18 +4706,18 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Hjuloppheng foran
+				Fjæringssystem foran
 			</td>
 			<td>
-				Dobbelt bærearmsoppheng
+				Doble bærearmer foran
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Hjuloppheng bak
+				Fjæringssystem bak
 			</td>
 			<td>
-				Multi-link
+				Multilenker bak
 			</td>
 		</tr>
 	</tbody>
@@ -4785,300 +4725,10 @@ Modellen tilbyr 2 fjæringsvarianter
 
 ## Interiør
 
-Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
+Denne modellen er tilgjengelig med fem seter.
 
 ### Forseter
 
-
-#### standard
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spesifikasjon
-			</th>
-			<th>
-				Verdi
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Setetype
-			</td>
-			<td>
-				Sjåfør- og passasjersete
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Setedybdejustering
-			</td>
-			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering av setehøyde
-			</td>
-			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering av ryggstøttevinkel
-			</td>
-			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Seteputevinkeljustering
-			</td>
-			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne
-			</td>
-			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Høydejusterbar nakkestøtte
-			</td>
-			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Lengdejusterbar hodestøtte
-			</td>
-			<td>
-				Valgfri funksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar lårstøtte
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering av ryggstøtten
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering av setepute, sidestøtte
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Fotstøttepassasjerer
-			</td>
-			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Elektrisk korsryggstøtte
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Seteventilasjon
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Massasjefunksjon
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-#### sport
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spesifikasjon
-			</th>
-			<th>
-				Verdi
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Setetype
-			</td>
-			<td>
-				Sjåfør- og passasjersete
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Setedybdejustering
-			</td>
-			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering av setehøyde
-			</td>
-			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering av ryggstøttevinkel
-			</td>
-			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Seteputevinkeljustering
-			</td>
-			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne
-			</td>
-			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Høydejusterbar nakkestøtte
-			</td>
-			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Lengdejusterbar hodestøtte
-			</td>
-			<td>
-				Valgfri funksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar lårstøtte
-			</td>
-			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering av ryggstøtten
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering av setepute, sidestøtte
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Fotstøttepassasjerer
-			</td>
-			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Elektrisk korsryggstøtte
-			</td>
-			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Seteventilasjon
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Massasjefunksjon
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-	</tbody>
-</table>
 
 #### s-line sport
 
@@ -5099,7 +4749,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Sjåfør- og passasjersete
+				Fører- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -5112,7 +4762,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setehøyde
+				Setehøydejustering
 			</td>
 			<td>
 				Ukjent
@@ -5120,7 +4770,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøttevinkel
+				Ryggvinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -5128,7 +4778,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Seteputevinkeljustering
+				Vinkeljustering av setepute
 			</td>
 			<td>
 				Ukjent
@@ -5136,7 +4786,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Minne
+				Minnefunksjon
 			</td>
 			<td>
 				Ukjent
@@ -5144,10 +4794,10 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -5155,7 +4805,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Valgfri funksjon
+				Tilleggsutstyr
 			</td>
 		</tr>
 		<tr>
@@ -5163,12 +4813,12 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -5176,7 +4826,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setepute, sidestøtte
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -5184,23 +4834,23 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Fotstøtte passasjer
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Beinstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ukjent
@@ -5244,7 +4894,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Sjåfør- og passasjersete
+				Fører- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -5257,7 +4907,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setehøyde
+				Setehøydejustering
 			</td>
 			<td>
 				Ukjent
@@ -5265,7 +4915,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøttevinkel
+				Ryggvinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -5273,7 +4923,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Seteputevinkeljustering
+				Vinkeljustering av setepute
 			</td>
 			<td>
 				Ukjent
@@ -5281,7 +4931,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Minne
+				Minnefunksjon
 			</td>
 			<td>
 				Ukjent
@@ -5289,7 +4939,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -5308,12 +4958,12 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -5321,7 +4971,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setepute, sidestøtte
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -5329,23 +4979,23 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Fotstøtte passasjer
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Beinstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ukjent
@@ -5389,7 +5039,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Sjåfør- og passasjersete
+				Fører- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -5402,7 +5052,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setehøyde
+				Setehøydejustering
 			</td>
 			<td>
 				Ukjent
@@ -5410,7 +5060,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøttevinkel
+				Ryggvinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -5418,7 +5068,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Seteputevinkeljustering
+				Vinkeljustering av setepute
 			</td>
 			<td>
 				Ukjent
@@ -5426,18 +5076,18 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Minne
+				Minnefunksjon
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -5445,7 +5095,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -5453,44 +5103,44 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering av setepute, sidestøtte
-			</td>
-			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Fotstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Beinstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ukjent
@@ -5501,7 +5151,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Seteventilasjon
 			</td>
 			<td>
-				Valgfri funksjon
+				Tilleggsutstyr
 			</td>
 		</tr>
 		<tr>
@@ -5509,13 +5159,13 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Massasjefunksjon
 			</td>
 			<td>
-				Valgfri funksjon
+				Tilleggsutstyr
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-### Seter på andre rad
+### Seter andre rad
 
 
 #### standard
@@ -5537,15 +5187,15 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Tre-seters benk
+				Treseters benk
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -5566,7 +5216,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -5574,7 +5224,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setepute, sidestøtte
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -5582,7 +5232,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Fotstøtte passasjer
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -5590,7 +5240,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Benstøttepassasjer
+				Beinstøtte passasjer
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -5598,7 +5248,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -5623,7 +5273,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 	</tbody>
 </table>
 
-## Sjåførassistanse
+## Førerstøtte
 
 <table class="table table-striped border">
 	<thead>
@@ -5639,7 +5289,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 	<tbody>
 		<tr>
 			<td>
-				Lane keeping
+				Filholderassistent
 			</td>
 			<td>
 				Ja (Audi Active Lane Assist), standardutstyr
@@ -5647,7 +5297,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Lane departure warning
+				Varsel ved filskifte
 			</td>
 			<td>
 				Ja (Audi Active Lane Assist), standardutstyr
@@ -5655,7 +5305,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Døsighetsvarsel
+				Tretthetsvarsling
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -5663,31 +5313,31 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Bryggekamera
+				Ryggekamera
 			</td>
 			<td>
-				Ja, tileggsutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				360-kamera
-			</td>
-			<td>
-				Ja, tileggsutstyr
+				Ja, ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Alarm for kryssende trafikk bak
+				360° kamera
 			</td>
 			<td>
-				Ja (Cross traffic assist rear), tileggsutstyr
+				Ja, ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer bak
+				Kryssende trafikkvarsling bak
+			</td>
+			<td>
+				Ja (Cross traffic assist rear), ekstrautstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Parksensorer bak
 			</td>
 			<td>
 				Ja (Parking system plus), standardutstyr
@@ -5695,7 +5345,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer foran
+				Parksensorer foran
 			</td>
 			<td>
 				Ja (Parking system plus), standardutstyr
@@ -5703,7 +5353,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer på siden
+				Parksensorer på sidene
 			</td>
 			<td>
 				Ja (Parking system plus), standardutstyr
@@ -5711,7 +5361,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Hill nedstigningshjelp
+				Nedfartshjelp
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -5719,7 +5369,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Hill start assist
+				Bakkeassistent
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -5727,7 +5377,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				AntiLock Braking System
+				Blokkeringsfrie bremser (ABS)
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -5735,7 +5385,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Automatisk nødbremsing
+				Automatisk nødbrems
 			</td>
 			<td>
 				Ja (Audi Pre sense front), standardutstyr
@@ -5743,7 +5393,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Traksjonskontroll
+				Trekkontroll
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -5751,23 +5401,23 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Unngå krasj i venstresving
+				Kollisjonsunngåelse ved venstresving
 			</td>
 			<td>
-				Ja (Audi Turn Assist), tileggsutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Forward Collision Warning
-			</td>
-			<td>
-				Ja (Audi Collision Avoidance Assist), tileggsutstyr
+				Ja (Audi Turn Assist), ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektronisk stabilitetskontroll
+				Frontkollisjonsvarsling
+			</td>
+			<td>
+				Ja (Audi Collision Avoidance Assist), ekstrautstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektronisk stabilitetskontroll (ESC)
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -5775,7 +5425,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Temperaturadvarsel
+				Temperaturvarsling
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -5783,15 +5433,15 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Cross traffic assist
+				Kryssende trafikk assistent
 			</td>
 			<td>
-				Ja (Audi Collision Avoidance Assist), tileggsutstyr
+				Ja (Audi Collision Avoidance Assist), ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Effektivitetsassistent
+				Effektivitetshjelp
 			</td>
 			<td>
 				Ja (Audi Efficency Assist), standardutstyr
@@ -5802,7 +5452,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Automatisk nødstyring
 			</td>
 			<td>
-				Ja (Audi Collision Avoidance Assist), tileggsutstyr
+				Ja (Audi Collision Avoidance Assist), ekstrautstyr
 			</td>
 		</tr>
 		<tr>
@@ -5810,21 +5460,21 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Trafikkskiltgjenkjenning
 			</td>
 			<td>
-				Ja (Audi Traffic Sign Recongition), tileggsutstyr
+				Ja (Audi Traffic Sign Recongition), ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Nattsyn
+				Nattvisjon
 			</td>
 			<td>
-				Ja (Night Vision Assist), tileggsutstyr
+				Ja (Night Vision Assist), ekstrautstyr
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-## Brukerinterface
+## Brukergrensesnitt og kontroller
 
 <table class="table table-striped border">
 	<thead>
@@ -5843,7 +5493,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Head-up display
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, ekstrautstyr
 			</td>
 		</tr>
 		<tr>
@@ -5851,66 +5501,12 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Stemmestyring
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Gesture control
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Android Auto-støtte
-			</td>
-			<td>
-				Ja (Smartphone Interface), tileggsutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Apple Carplay-støtte
-			</td>
-			<td>
-				Ja (Smartphone Interface), tileggsutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				I bilnavigasjon
-			</td>
-			<td>
-				Ja (MMI Navigation plus), standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Available screen layouts
-			</td>
-			<td>
-				1
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Digital driver display
-			</td>
-			<td>
-				Ja, 12,3
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Infotainment skjerm
-			</td>
-			<td>
-				Ja, to 10,1" og 8,6"
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Infotainment skjerm fremre passasjer
+				Bevegelseskontroll
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -5918,7 +5514,63 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Infotainment skjerm bak
+				Støtte for Android Auto
+			</td>
+			<td>
+				Ja (Smartphone Interface), ekstrautstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Støtte for Apple CarPlay
+			</td>
+			<td>
+				Ja (Smartphone Interface), ekstrautstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Innebygd navigasjon
+			</td>
+			<td>
+				Ja (MMI Navigation plus), standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tilgjengelige skjermoppsett
+			</td>
+			<td>
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Digitalt førerdisplay
+			</td>
+			<td>
+				Ja, 12,3
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Infotainmentskjerm
+			</td>
+			<td>
+				Ja, to 10,1" og 8,6"
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Infotainmentskjerm foran passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Infotainmentskjerm baksete
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -6012,7 +5664,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
         <div id="panelsStayOpen-collapsed45cb971-1f83-4bbf-ad16-a73730c5def6" class="accordion-collapse collapse">
             <div class="accordion-body">
 
-## Ytelse
+## Ytelser
 
 <table class="table table-striped border">
 	<thead>
@@ -6031,7 +5683,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Maks effekt
 			</td>
 			<td>
-				265 KW (360 hk)
+				265 kW (360 hk /355 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -6044,15 +5696,15 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment
+				Elektrisk dreiemoment
 			</td>
 			<td>
-				561 nm
+				561 Nm (414 lb-ft)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment med boost
+				Elektrisk dreiemoment med boost
 			</td>
 			<td>
 				664 Nm
@@ -6060,15 +5712,15 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Topphastighet
+				Toppfart
 			</td>
 			<td>
-				200 km/t
+				200 km/t (124 mph)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				0-100 km/t (0-62 mph)
+				0–100 km/t (0–62 mph)
 			</td>
 			<td>
 				6,6 s
@@ -6076,7 +5728,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				0-100 km/t (0-62 mph) boost
+				0–100 km/t (0–62 mph) med boost
 			</td>
 			<td>
 				5,7 s
@@ -6089,7 +5741,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ## Rekkevidde og forbruk
 
-Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinfo](../rangeandconsumption/) for detaljerte eksempler på rekkevidde fra den virkelige verden. Besøk vår [Rekkeviddeguide](../../../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
+Under ser du offisielle rekkeviddedata. Besøk vår [utvidede rekkeviddeoversikt](../rangeandconsumption/) for detaljerte eksempler fra virkeligheten. Les også vår [rekkeviddeguide](../../../../../guides/understandingrange/) for å forstå hva som påvirker rekkevidde og hvordan de offisielle verdiene måles.
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -6104,7 +5756,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				WLTP-rekkevidde for grunnmodell
+				WLTP-rekkevidde (standardversjon)
 			</td>
 			<td>
 				452 km
@@ -6112,7 +5764,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				WLTP-forbruk grunnmodell
+				WLTP-forbruk (standardversjon)
 			</td>
 			<td>
 				19,0 kWh/100km
@@ -6120,7 +5772,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				WLTP-forbruk grunnmodell med ladetap
+				WLTP-forbruk inkl. ladetap (standardversjon)
 			</td>
 			<td>
 				21,6 kWh/100km
@@ -6128,7 +5780,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Topputstyrt WLTP-rekkevidde
+				WLTP-rekkevidde (toppmodell)
 			</td>
 			<td>
 				373 km
@@ -6136,7 +5788,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Topputstyrt WLTP-forbruk
+				WLTP-forbruk (toppmodell)
 			</td>
 			<td>
 				23,1 kWh/100km
@@ -6144,7 +5796,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Topputstyrt WLTP-forbruk med ladetap
+				WLTP-forbruk inkl. ladetap (toppmodell)
 			</td>
 			<td>
 				25,9 kwh/100km
@@ -6171,7 +5823,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				Brutto batteristørrelse
+				Bruttokapasitet
 			</td>
 			<td>
 				95 kWh
@@ -6179,7 +5831,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Netto batteristørrelse
+				Nettokapasitet
 			</td>
 			<td>
 				86 kWh
@@ -6187,7 +5839,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Maks DC-lading
+				Maks DC-ladeeffekt
 			</td>
 			<td>
 				150 kW
@@ -6203,7 +5855,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Pakkekonfigurasjon
+				Batterikonfigurasjon
 			</td>
 			<td>
 				108s4p
@@ -6246,7 +5898,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				Ladeportplassering
+				Plassering av ladeport
 			</td>
 			<td>
 				LeftFrontSide
@@ -6254,7 +5906,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Type ladeport Europa
+				Ladekontakttype Europa
 			</td>
 			<td>
 				CCS2
@@ -6262,31 +5914,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Type ladeport Nord-Amerika
-			</td>
-			<td>
-				CCS1
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Kina
-			</td>
-			<td>
-				GBT
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Japan
-			</td>
-			<td>
-				CHAdeMO
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Oceania (Australia, New Zealand ++)
+				Ladekontakttype Oseania (Australia, New Zealand ++)
 			</td>
 			<td>
 				CCS2
@@ -6308,7 +5936,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				Ladeportplassering
+				Plassering av ladeport
 			</td>
 			<td>
 				RightFrontSide
@@ -6316,39 +5944,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Type ladeport Europa
-			</td>
-			<td>
-				Type2
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type ladeport Nord-Amerika
-			</td>
-			<td>
-				J1772
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Kina
-			</td>
-			<td>
-				GBT
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Japan
-			</td>
-			<td>
-				CHAdeMO
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Oceania (Australia, New Zealand ++)
+				Ladekontakttype Europa
 			</td>
 			<td>
 				Type2
@@ -6376,7 +5972,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Lengde
 			</td>
 			<td>
-				4901 mm
+				4901 mm (193,0")
 			</td>
 		</tr>
 		<tr>
@@ -6384,7 +5980,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Høyde
 			</td>
 			<td>
-				1616 mm
+				1616 mm (63,6")
 			</td>
 		</tr>
 		<tr>
@@ -6392,15 +5988,15 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Bredde uten speil
 			</td>
 			<td>
-				1935 mm
+				1935 mm (76,2")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Bredde inkludert speil
+				Dimensions.WidhtIncludingMirrors
 			</td>
 			<td>
-				2189 mm
+				2189 mm (86,2")
 			</td>
 		</tr>
 		<tr>
@@ -6408,28 +6004,28 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Akselavstand
 			</td>
 			<td>
-				2927 mm
+				2927 mm (115,2")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Sporbredde foran
+				Sporvidde foran
 			</td>
 			<td>
-				1655 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sporbredde bak
-			</td>
-			<td>
-				1655 mm
+				1655 mm (65,2")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Drag-koeffisient
+				Sporvidde bak
+			</td>
+			<td>
+				1655 mm (65,2")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Luftmotstandskoeffisient
 			</td>
 			<td>
 				0,25
@@ -6437,7 +6033,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Frontalområde
+				Frontareal
 			</td>
 			<td>
 				2,65
@@ -6459,10 +6055,18 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				20
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Svingradius
+			</td>
+			<td>
+				11,6 meter (456,7")
+			</td>
+		</tr>
 	</tbody>
 </table>
 
-## Lastekapasitet og slepeevne
+## Bagasje og tilhengervekt
 
 <table class="table table-striped border">
 	<thead>
@@ -6481,23 +6085,23 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				2520 kg
+				2520 kg (5556 lbs)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Tillatt totalvekt
+				Maks tillatt totalvekt
 			</td>
 			<td>
-				3170 kg
+				3170 kg (6989 lbs)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Maks nyttelast inkludert vekt fører
+				Maks nyttelast inkl. fører
 			</td>
 			<td>
-				650 kg
+				650 kg (1433 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -6505,53 +6109,61 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks taklast
 			</td>
 			<td>
-				75 kg
+				75 kg (165 lbs)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Størrelse bagasjerom
+				Bagasjeromsvolum
 			</td>
 			<td>
-				660 liter
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Størrelse med alle bakseter lagt ned
-			</td>
-			<td>
-				1725 liter
+				660 liter (23 cu-ft)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Maksimum vekt tilhenger med bremse
+				Bagasjeromsvolum med alle bakseter nedfelt
 			</td>
 			<td>
-				1800 kg
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maksvekt tilhenger m/brems
-			</td>
-			<td>
-				750 kg
+				1725 liter (61 cu-ft)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Maksvekt på tilhengerkobling
+				Volum frunk
 			</td>
 			<td>
-				80 kg
+				60 liter (2 cu-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks tilhengervekt med bremser
+			</td>
+			<td>
+				1800 kg (3968 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks tilhengervekt uten bremser
+			</td>
+			<td>
+				750 kg (1653 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks vertikallast (kulekobling)
+			</td>
+			<td>
+				80 kg (176 lbs)
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-## Hjuloppheng
+## Fjæring
 
 Modellen tilbyr 2 fjæringsvarianter
 
@@ -6571,7 +6183,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv understell
+				Adaptivt fjæringssystem
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -6614,20 +6226,20 @@ Modellen tilbyr 2 fjæringsvarianter
 				Maks bakkeklaring
 			</td>
 			<td>
-				248 mm
+				248 mm (9,8")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Minimum bakkeklaring
+				Minste bakkeklaring
 			</td>
 			<td>
-				152 mm
+				152 mm (6,0")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Type demper foran
+				Dempetype foran
 			</td>
 			<td>
 				ElectronicallyControlled
@@ -6635,7 +6247,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type demper bak
+				Dempetype bak
 			</td>
 			<td>
 				ElectronicallyControlled
@@ -6643,7 +6255,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type fjæring foran
+				Fjærtype foran
 			</td>
 			<td>
 				Air
@@ -6651,7 +6263,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type fjæring bak
+				Fjærtype bak
 			</td>
 			<td>
 				Air
@@ -6659,18 +6271,18 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Hjuloppheng foran
+				Fjæringssystem foran
 			</td>
 			<td>
-				Dobbelt bærearmsoppheng
+				Doble bærearmer foran
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Hjuloppheng bak
+				Fjæringssystem bak
 			</td>
 			<td>
-				Multi-link
+				Multilenker bak
 			</td>
 		</tr>
 	</tbody>
@@ -6692,7 +6304,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv understell
+				Adaptivt fjæringssystem
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -6735,20 +6347,20 @@ Modellen tilbyr 2 fjæringsvarianter
 				Maks bakkeklaring
 			</td>
 			<td>
-				248 mm
+				248 mm (9,8")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Minimum bakkeklaring
+				Minste bakkeklaring
 			</td>
 			<td>
-				152 mm
+				152 mm (6,0")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Type demper foran
+				Dempetype foran
 			</td>
 			<td>
 				ElectronicallyControlled
@@ -6756,7 +6368,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type demper bak
+				Dempetype bak
 			</td>
 			<td>
 				ElectronicallyControlled
@@ -6764,7 +6376,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type fjæring foran
+				Fjærtype foran
 			</td>
 			<td>
 				Air
@@ -6772,7 +6384,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type fjæring bak
+				Fjærtype bak
 			</td>
 			<td>
 				Air
@@ -6780,18 +6392,18 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Hjuloppheng foran
+				Fjæringssystem foran
 			</td>
 			<td>
-				Dobbelt bærearmsoppheng
+				Doble bærearmer foran
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Hjuloppheng bak
+				Fjæringssystem bak
 			</td>
 			<td>
-				Multi-link
+				Multilenker bak
 			</td>
 		</tr>
 	</tbody>
@@ -6799,7 +6411,7 @@ Modellen tilbyr 2 fjæringsvarianter
 
 ## Interiør
 
-Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
+Denne modellen er tilgjengelig med fem seter.
 
 ### Forseter
 
@@ -6823,7 +6435,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Sjåfør- og passasjersete
+				Fører- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -6836,7 +6448,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setehøyde
+				Setehøydejustering
 			</td>
 			<td>
 				Ukjent
@@ -6844,7 +6456,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøttevinkel
+				Ryggvinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -6852,7 +6464,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Seteputevinkeljustering
+				Vinkeljustering av setepute
 			</td>
 			<td>
 				Ukjent
@@ -6860,7 +6472,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Minne
+				Minnefunksjon
 			</td>
 			<td>
 				Ukjent
@@ -6868,10 +6480,10 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -6879,7 +6491,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Valgfri funksjon
+				Tilleggsutstyr
 			</td>
 		</tr>
 		<tr>
@@ -6892,7 +6504,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -6900,7 +6512,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setepute, sidestøtte
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -6908,23 +6520,23 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Fotstøtte passasjer
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Beinstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -6968,7 +6580,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Sjåfør- og passasjersete
+				Fører- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -6981,7 +6593,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setehøyde
+				Setehøydejustering
 			</td>
 			<td>
 				Ukjent
@@ -6989,7 +6601,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøttevinkel
+				Ryggvinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -6997,7 +6609,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Seteputevinkeljustering
+				Vinkeljustering av setepute
 			</td>
 			<td>
 				Ukjent
@@ -7005,7 +6617,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Minne
+				Minnefunksjon
 			</td>
 			<td>
 				Ukjent
@@ -7013,10 +6625,10 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -7024,7 +6636,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Valgfri funksjon
+				Tilleggsutstyr
 			</td>
 		</tr>
 		<tr>
@@ -7032,12 +6644,12 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -7045,7 +6657,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setepute, sidestøtte
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -7053,23 +6665,23 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Fotstøtte passasjer
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Beinstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ukjent
@@ -7113,7 +6725,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Sjåfør- og passasjersete
+				Fører- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -7126,7 +6738,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setehøyde
+				Setehøydejustering
 			</td>
 			<td>
 				Ukjent
@@ -7134,7 +6746,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøttevinkel
+				Ryggvinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -7142,7 +6754,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Seteputevinkeljustering
+				Vinkeljustering av setepute
 			</td>
 			<td>
 				Ukjent
@@ -7150,7 +6762,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Minne
+				Minnefunksjon
 			</td>
 			<td>
 				Ukjent
@@ -7158,10 +6770,10 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -7169,7 +6781,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Valgfri funksjon
+				Tilleggsutstyr
 			</td>
 		</tr>
 		<tr>
@@ -7177,12 +6789,12 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -7190,7 +6802,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setepute, sidestøtte
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -7198,23 +6810,23 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Fotstøtte passasjer
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Beinstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ukjent
@@ -7258,7 +6870,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Sjåfør- og passasjersete
+				Fører- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -7271,7 +6883,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setehøyde
+				Setehøydejustering
 			</td>
 			<td>
 				Ukjent
@@ -7279,7 +6891,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøttevinkel
+				Ryggvinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -7287,7 +6899,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Seteputevinkeljustering
+				Vinkeljustering av setepute
 			</td>
 			<td>
 				Ukjent
@@ -7295,7 +6907,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Minne
+				Minnefunksjon
 			</td>
 			<td>
 				Ukjent
@@ -7303,7 +6915,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -7322,12 +6934,12 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -7335,7 +6947,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setepute, sidestøtte
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -7343,23 +6955,23 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Fotstøtte passasjer
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Beinstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ukjent
@@ -7403,7 +7015,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Sjåfør- og passasjersete
+				Fører- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -7416,7 +7028,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setehøyde
+				Setehøydejustering
 			</td>
 			<td>
 				Ukjent
@@ -7424,7 +7036,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøttevinkel
+				Ryggvinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -7432,7 +7044,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Seteputevinkeljustering
+				Vinkeljustering av setepute
 			</td>
 			<td>
 				Ukjent
@@ -7440,18 +7052,18 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Minne
+				Minnefunksjon
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -7459,7 +7071,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -7467,44 +7079,44 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering av setepute, sidestøtte
-			</td>
-			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Fotstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Beinstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ukjent
@@ -7515,7 +7127,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Seteventilasjon
 			</td>
 			<td>
-				Valgfri funksjon
+				Tilleggsutstyr
 			</td>
 		</tr>
 		<tr>
@@ -7523,13 +7135,13 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Massasjefunksjon
 			</td>
 			<td>
-				Valgfri funksjon
+				Tilleggsutstyr
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-### Seter på andre rad
+### Seter andre rad
 
 
 #### standard
@@ -7551,15 +7163,15 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Tre-seters benk
+				Treseters benk
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -7580,7 +7192,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -7588,7 +7200,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setepute, sidestøtte
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -7596,7 +7208,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Fotstøtte passasjer
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -7604,7 +7216,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Benstøttepassasjer
+				Beinstøtte passasjer
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -7612,7 +7224,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -7637,7 +7249,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 	</tbody>
 </table>
 
-## Sjåførassistanse
+## Førerstøtte
 
 <table class="table table-striped border">
 	<thead>
@@ -7653,7 +7265,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 	<tbody>
 		<tr>
 			<td>
-				Lane keeping
+				Filholderassistent
 			</td>
 			<td>
 				Ja (Audi Active Lane Assist), standardutstyr
@@ -7661,7 +7273,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Lane departure warning
+				Varsel ved filskifte
 			</td>
 			<td>
 				Ja (Audi Active Lane Assist), standardutstyr
@@ -7669,7 +7281,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Døsighetsvarsel
+				Tretthetsvarsling
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -7677,31 +7289,31 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Bryggekamera
+				Ryggekamera
 			</td>
 			<td>
-				Ja, tileggsutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				360-kamera
-			</td>
-			<td>
-				Ja, tileggsutstyr
+				Ja, ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Alarm for kryssende trafikk bak
+				360° kamera
 			</td>
 			<td>
-				Ja (Cross traffic assist rear), tileggsutstyr
+				Ja, ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer bak
+				Kryssende trafikkvarsling bak
+			</td>
+			<td>
+				Ja (Cross traffic assist rear), ekstrautstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Parksensorer bak
 			</td>
 			<td>
 				Ja (Parking system plus), standardutstyr
@@ -7709,7 +7321,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer foran
+				Parksensorer foran
 			</td>
 			<td>
 				Ja (Parking system plus), standardutstyr
@@ -7717,7 +7329,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer på siden
+				Parksensorer på sidene
 			</td>
 			<td>
 				Ja (Parking system plus), standardutstyr
@@ -7725,7 +7337,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Hill nedstigningshjelp
+				Nedfartshjelp
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -7733,7 +7345,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Hill start assist
+				Bakkeassistent
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -7741,7 +7353,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				AntiLock Braking System
+				Blokkeringsfrie bremser (ABS)
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -7749,7 +7361,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Automatisk nødbremsing
+				Automatisk nødbrems
 			</td>
 			<td>
 				Ja (Audi Pre sense front), standardutstyr
@@ -7757,7 +7369,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Traksjonskontroll
+				Trekkontroll
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -7765,23 +7377,23 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Unngå krasj i venstresving
+				Kollisjonsunngåelse ved venstresving
 			</td>
 			<td>
-				Ja (Audi Turn Assist), tileggsutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Forward Collision Warning
-			</td>
-			<td>
-				Ja (Audi Collision Avoidance Assist), tileggsutstyr
+				Ja (Audi Turn Assist), ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektronisk stabilitetskontroll
+				Frontkollisjonsvarsling
+			</td>
+			<td>
+				Ja (Audi Collision Avoidance Assist), ekstrautstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektronisk stabilitetskontroll (ESC)
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -7789,7 +7401,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Temperaturadvarsel
+				Temperaturvarsling
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -7797,15 +7409,15 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Cross traffic assist
+				Kryssende trafikk assistent
 			</td>
 			<td>
-				Ja (Audi Collision Avoidance Assist), tileggsutstyr
+				Ja (Audi Collision Avoidance Assist), ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Effektivitetsassistent
+				Effektivitetshjelp
 			</td>
 			<td>
 				Ja (Audi Efficency Assist), standardutstyr
@@ -7816,7 +7428,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Automatisk nødstyring
 			</td>
 			<td>
-				Ja (Audi Collision Avoidance Assist), tileggsutstyr
+				Ja (Audi Collision Avoidance Assist), ekstrautstyr
 			</td>
 		</tr>
 		<tr>
@@ -7824,21 +7436,21 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Trafikkskiltgjenkjenning
 			</td>
 			<td>
-				Ja (Audi Traffic Sign Recongition), tileggsutstyr
+				Ja (Audi Traffic Sign Recongition), ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Nattsyn
+				Nattvisjon
 			</td>
 			<td>
-				Ja (Night Vision Assist), tileggsutstyr
+				Ja (Night Vision Assist), ekstrautstyr
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-## Brukerinterface
+## Brukergrensesnitt og kontroller
 
 <table class="table table-striped border">
 	<thead>
@@ -7857,7 +7469,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Head-up display
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, ekstrautstyr
 			</td>
 		</tr>
 		<tr>
@@ -7865,66 +7477,12 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Stemmestyring
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Gesture control
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Android Auto-støtte
-			</td>
-			<td>
-				Ja (Smartphone Interface), tileggsutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Apple Carplay-støtte
-			</td>
-			<td>
-				Ja (Smartphone Interface), tileggsutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				I bilnavigasjon
-			</td>
-			<td>
-				Ja (MMI Navigation plus), standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Available screen layouts
-			</td>
-			<td>
-				1
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Digital driver display
-			</td>
-			<td>
-				Ja, 12,3
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Infotainment skjerm
-			</td>
-			<td>
-				Ja, to 10,1" og 8,6"
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Infotainment skjerm fremre passasjer
+				Bevegelseskontroll
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -7932,7 +7490,63 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Infotainment skjerm bak
+				Støtte for Android Auto
+			</td>
+			<td>
+				Ja (Smartphone Interface), ekstrautstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Støtte for Apple CarPlay
+			</td>
+			<td>
+				Ja (Smartphone Interface), ekstrautstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Innebygd navigasjon
+			</td>
+			<td>
+				Ja (MMI Navigation plus), standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tilgjengelige skjermoppsett
+			</td>
+			<td>
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Digitalt førerdisplay
+			</td>
+			<td>
+				Ja, 12,3
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Infotainmentskjerm
+			</td>
+			<td>
+				Ja, to 10,1" og 8,6"
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Infotainmentskjerm foran passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Infotainmentskjerm baksete
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -8026,7 +7640,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
         <div id="panelsStayOpen-collapse46e25a59-d998-478a-b446-496e1cb9e69b" class="accordion-collapse collapse">
             <div class="accordion-body">
 
-## Ytelse
+## Ytelser
 
 <table class="table table-striped border">
 	<thead>
@@ -8045,7 +7659,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Maks effekt
 			</td>
 			<td>
-				320 KW (435 hk)
+				320 kW (435 hk /429 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -8058,15 +7672,15 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment
+				Elektrisk dreiemoment
 			</td>
 			<td>
-				561 nm
+				561 Nm (414 lb-ft)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment med boost
+				Elektrisk dreiemoment med boost
 			</td>
 			<td>
 				973 Nm
@@ -8074,15 +7688,15 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Topphastighet
+				Toppfart
 			</td>
 			<td>
-				200 km/t
+				200 km/t (124 mph)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				0-100 km/t (0-62 mph)
+				0–100 km/t (0–62 mph)
 			</td>
 			<td>
 				6,6 s
@@ -8090,7 +7704,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				0-100 km/t (0-62 mph) boost
+				0–100 km/t (0–62 mph) med boost
 			</td>
 			<td>
 				4,5 s
@@ -8103,7 +7717,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ## Rekkevidde og forbruk
 
-Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinfo](../rangeandconsumption/) for detaljerte eksempler på rekkevidde fra den virkelige verden. Besøk vår [Rekkeviddeguide](../../../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
+Under ser du offisielle rekkeviddedata. Besøk vår [utvidede rekkeviddeoversikt](../rangeandconsumption/) for detaljerte eksempler fra virkeligheten. Les også vår [rekkeviddeguide](../../../../../guides/understandingrange/) for å forstå hva som påvirker rekkevidde og hvordan de offisielle verdiene måles.
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -8118,7 +7732,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				WLTP-rekkevidde for grunnmodell
+				WLTP-rekkevidde (standardversjon)
 			</td>
 			<td>
 				374 km
@@ -8126,7 +7740,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				WLTP-forbruk grunnmodell
+				WLTP-forbruk (standardversjon)
 			</td>
 			<td>
 				23,0 kWh/100km
@@ -8134,7 +7748,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				WLTP-forbruk grunnmodell med ladetap
+				WLTP-forbruk inkl. ladetap (standardversjon)
 			</td>
 			<td>
 				26,1 kWh/100km
@@ -8142,7 +7756,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Topputstyrt WLTP-rekkevidde
+				WLTP-rekkevidde (toppmodell)
 			</td>
 			<td>
 				344 km
@@ -8150,7 +7764,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Topputstyrt WLTP-forbruk
+				WLTP-forbruk (toppmodell)
 			</td>
 			<td>
 				25,0 kWh/100km
@@ -8158,7 +7772,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Topputstyrt WLTP-forbruk med ladetap
+				WLTP-forbruk inkl. ladetap (toppmodell)
 			</td>
 			<td>
 				28,4 kwh/100km
@@ -8185,7 +7799,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				Brutto batteristørrelse
+				Bruttokapasitet
 			</td>
 			<td>
 				95 kWh
@@ -8193,7 +7807,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Netto batteristørrelse
+				Nettokapasitet
 			</td>
 			<td>
 				86 kWh
@@ -8201,7 +7815,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Maks DC-lading
+				Maks DC-ladeeffekt
 			</td>
 			<td>
 				150 kW
@@ -8217,7 +7831,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Pakkekonfigurasjon
+				Batterikonfigurasjon
 			</td>
 			<td>
 				108s4p
@@ -8260,7 +7874,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				Ladeportplassering
+				Plassering av ladeport
 			</td>
 			<td>
 				LeftFrontSide
@@ -8268,7 +7882,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Type ladeport Europa
+				Ladekontakttype Europa
 			</td>
 			<td>
 				CCS2
@@ -8276,31 +7890,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Type ladeport Nord-Amerika
-			</td>
-			<td>
-				CCS1
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Kina
-			</td>
-			<td>
-				GBT
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Japan
-			</td>
-			<td>
-				CHAdeMO
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Oceania (Australia, New Zealand ++)
+				Ladekontakttype Oseania (Australia, New Zealand ++)
 			</td>
 			<td>
 				CCS2
@@ -8322,7 +7912,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				Ladeportplassering
+				Plassering av ladeport
 			</td>
 			<td>
 				RightFrontSide
@@ -8330,39 +7920,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Type ladeport Europa
-			</td>
-			<td>
-				Type2
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type ladeport Nord-Amerika
-			</td>
-			<td>
-				J1772
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Kina
-			</td>
-			<td>
-				GBT
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Japan
-			</td>
-			<td>
-				CHAdeMO
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Oceania (Australia, New Zealand ++)
+				Ladekontakttype Europa
 			</td>
 			<td>
 				Type2
@@ -8390,7 +7948,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Lengde
 			</td>
 			<td>
-				4901 mm
+				4901 mm (193,0")
 			</td>
 		</tr>
 		<tr>
@@ -8398,7 +7956,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Høyde
 			</td>
 			<td>
-				1629 mm
+				1629 mm (64,1")
 			</td>
 		</tr>
 		<tr>
@@ -8406,15 +7964,15 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Bredde uten speil
 			</td>
 			<td>
-				1935 mm
+				1935 mm (76,2")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Bredde inkludert speil
+				Dimensions.WidhtIncludingMirrors
 			</td>
 			<td>
-				2189 mm
+				2189 mm (86,2")
 			</td>
 		</tr>
 		<tr>
@@ -8422,28 +7980,28 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Akselavstand
 			</td>
 			<td>
-				2927 mm
+				2927 mm (115,2")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Sporbredde foran
+				Sporvidde foran
 			</td>
 			<td>
-				1683 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sporbredde bak
-			</td>
-			<td>
-				1683 mm
+				1683 mm (66,3")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Drag-koeffisient
+				Sporvidde bak
+			</td>
+			<td>
+				1683 mm (66,3")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Luftmotstandskoeffisient
 			</td>
 			<td>
 				0,28
@@ -8451,7 +8009,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Frontalområde
+				Frontareal
 			</td>
 			<td>
 				2,71
@@ -8473,10 +8031,18 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				20
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Svingradius
+			</td>
+			<td>
+				11,6 meter (456,7")
+			</td>
+		</tr>
 	</tbody>
 </table>
 
-## Lastekapasitet og slepeevne
+## Bagasje og tilhengervekt
 
 <table class="table table-striped border">
 	<thead>
@@ -8495,23 +8061,23 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				2655 kg
+				2655 kg (5853 lbs)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Tillatt totalvekt
+				Maks tillatt totalvekt
 			</td>
 			<td>
-				3280 kg
+				3280 kg (7231 lbs)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Maks nyttelast inkludert vekt fører
+				Maks nyttelast inkl. fører
 			</td>
 			<td>
-				625 kg
+				625 kg (1378 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -8519,57 +8085,61 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks taklast
 			</td>
 			<td>
-				75 kg
+				75 kg (165 lbs)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Størrelse bagasjerom
+				Bagasjeromsvolum
 			</td>
 			<td>
-				555 liter
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Størrelse med alle bakseter lagt ned
-			</td>
-			<td>
-				1594 liter
+				555 liter (20 cu-ft)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Maksimum vekt tilhenger med bremse
+				Bagasjeromsvolum med alle bakseter nedfelt
 			</td>
 			<td>
-				1800 kg
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maksvekt tilhenger m/brems
-			</td>
-			<td>
-				750 kg
+				1594 liter (56 cu-ft)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Maksvekt på tilhengerkobling
+				Volum frunk
 			</td>
 			<td>
-				80 kg
+				60 liter (2 cu-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks tilhengervekt med bremser
+			</td>
+			<td>
+				1800 kg (3968 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks tilhengervekt uten bremser
+			</td>
+			<td>
+				750 kg (1653 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks vertikallast (kulekobling)
+			</td>
+			<td>
+				80 kg (176 lbs)
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-## Hjuloppheng
-
-Modellen tilbyr 2 fjæringsvarianter
-
-### Adaptive Air Suspension
+## Fjæring
 
 <table class="table table-striped border">
 	<thead>
@@ -8585,7 +8155,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv understell
+				Adaptivt fjæringssystem
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -8628,20 +8198,20 @@ Modellen tilbyr 2 fjæringsvarianter
 				Maks bakkeklaring
 			</td>
 			<td>
-				248 mm
+				248 mm (9,8")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Minimum bakkeklaring
+				Minste bakkeklaring
 			</td>
 			<td>
-				152 mm
+				152 mm (6,0")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Type demper foran
+				Dempetype foran
 			</td>
 			<td>
 				ElectronicallyControlled
@@ -8649,7 +8219,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type demper bak
+				Dempetype bak
 			</td>
 			<td>
 				ElectronicallyControlled
@@ -8657,7 +8227,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type fjæring foran
+				Fjærtype foran
 			</td>
 			<td>
 				Air
@@ -8665,7 +8235,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type fjæring bak
+				Fjærtype bak
 			</td>
 			<td>
 				Air
@@ -8673,139 +8243,18 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Hjuloppheng foran
+				Fjæringssystem foran
 			</td>
 			<td>
-				Dobbelt bærearmsoppheng
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Hjuloppheng bak
-			</td>
-			<td>
-				Multi-link
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Adaptive Air Suspension Sport
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spesifikasjon
-			</th>
-			<th>
-				Verdi
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Adaptiv understell
-			</td>
-			<td>
-				Ja, standardutstyr
+				Doble bærearmer foran
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justerbar demping foran
+				Fjæringssystem bak
 			</td>
 			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar demping bak
-			</td>
-			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar høyde foran
-			</td>
-			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar høyde bak
-			</td>
-			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maks bakkeklaring
-			</td>
-			<td>
-				248 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minimum bakkeklaring
-			</td>
-			<td>
-				152 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type demper foran
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type demper bak
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type fjæring foran
-			</td>
-			<td>
-				Air
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type fjæring bak
-			</td>
-			<td>
-				Air
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Hjuloppheng foran
-			</td>
-			<td>
-				Dobbelt bærearmsoppheng
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Hjuloppheng bak
-			</td>
-			<td>
-				Multi-link
+				Multilenker bak
 			</td>
 		</tr>
 	</tbody>
@@ -8813,10 +8262,300 @@ Modellen tilbyr 2 fjæringsvarianter
 
 ## Interiør
 
-Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
+Denne modellen er tilgjengelig med fem seter.
 
 ### Forseter
 
+
+#### standard
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Setetype
+			</td>
+			<td>
+				Fører- og passasjersete
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Setedybdejustering
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Setehøydejustering
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ryggvinkeljustering
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Vinkeljustering av setepute
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minnefunksjon
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Høydejusterbar hodestøtte
+			</td>
+			<td>
+				Standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lengdejusterbar hodestøtte
+			</td>
+			<td>
+				Tilleggsutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar lårstøtte
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar sidestøtte i rygg
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar sidestøtte i setepute
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fotstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Beinstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggjustering
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seteventilasjon
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massasjefunksjon
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+#### sport
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Setetype
+			</td>
+			<td>
+				Fører- og passasjersete
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Setedybdejustering
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Setehøydejustering
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ryggvinkeljustering
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Vinkeljustering av setepute
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minnefunksjon
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Høydejusterbar hodestøtte
+			</td>
+			<td>
+				Standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lengdejusterbar hodestøtte
+			</td>
+			<td>
+				Tilleggsutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar lårstøtte
+			</td>
+			<td>
+				Standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar sidestøtte i rygg
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar sidestøtte i setepute
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fotstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Beinstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggjustering
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seteventilasjon
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massasjefunksjon
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 #### s-line sport
 
@@ -8837,7 +8576,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Sjåfør- og passasjersete
+				Fører- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -8850,7 +8589,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setehøyde
+				Setehøydejustering
 			</td>
 			<td>
 				Ukjent
@@ -8858,7 +8597,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøttevinkel
+				Ryggvinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -8866,7 +8605,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Seteputevinkeljustering
+				Vinkeljustering av setepute
 			</td>
 			<td>
 				Ukjent
@@ -8874,7 +8613,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Minne
+				Minnefunksjon
 			</td>
 			<td>
 				Ukjent
@@ -8882,10 +8621,10 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -8893,7 +8632,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Valgfri funksjon
+				Tilleggsutstyr
 			</td>
 		</tr>
 		<tr>
@@ -8901,12 +8640,12 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -8914,7 +8653,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setepute, sidestøtte
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -8922,23 +8661,23 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Fotstøtte passasjer
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Beinstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ukjent
@@ -8982,7 +8721,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Sjåfør- og passasjersete
+				Fører- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -8995,7 +8734,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setehøyde
+				Setehøydejustering
 			</td>
 			<td>
 				Ukjent
@@ -9003,7 +8742,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøttevinkel
+				Ryggvinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -9011,7 +8750,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Seteputevinkeljustering
+				Vinkeljustering av setepute
 			</td>
 			<td>
 				Ukjent
@@ -9019,7 +8758,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Minne
+				Minnefunksjon
 			</td>
 			<td>
 				Ukjent
@@ -9027,7 +8766,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -9046,12 +8785,12 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -9059,7 +8798,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setepute, sidestøtte
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -9067,23 +8806,23 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Fotstøtte passasjer
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Beinstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ukjent
@@ -9127,7 +8866,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Sjåfør- og passasjersete
+				Fører- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -9140,7 +8879,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setehøyde
+				Setehøydejustering
 			</td>
 			<td>
 				Ukjent
@@ -9148,7 +8887,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøttevinkel
+				Ryggvinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -9156,7 +8895,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Seteputevinkeljustering
+				Vinkeljustering av setepute
 			</td>
 			<td>
 				Ukjent
@@ -9164,18 +8903,18 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Minne
+				Minnefunksjon
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -9183,7 +8922,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -9191,44 +8930,44 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering av setepute, sidestøtte
-			</td>
-			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Fotstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Beinstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ukjent
@@ -9239,7 +8978,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Seteventilasjon
 			</td>
 			<td>
-				Valgfri funksjon
+				Tilleggsutstyr
 			</td>
 		</tr>
 		<tr>
@@ -9247,13 +8986,13 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Massasjefunksjon
 			</td>
 			<td>
-				Valgfri funksjon
+				Tilleggsutstyr
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-### Seter på andre rad
+### Seter andre rad
 
 
 #### standard
@@ -9275,15 +9014,15 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Tre-seters benk
+				Treseters benk
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -9304,7 +9043,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -9312,7 +9051,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setepute, sidestøtte
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -9320,7 +9059,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Fotstøtte passasjer
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -9328,7 +9067,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Benstøttepassasjer
+				Beinstøtte passasjer
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -9336,7 +9075,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -9361,7 +9100,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 	</tbody>
 </table>
 
-## Sjåførassistanse
+## Førerstøtte
 
 <table class="table table-striped border">
 	<thead>
@@ -9377,7 +9116,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 	<tbody>
 		<tr>
 			<td>
-				Lane keeping
+				Filholderassistent
 			</td>
 			<td>
 				Ja (Audi Active Lane Assist), standardutstyr
@@ -9385,7 +9124,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Lane departure warning
+				Varsel ved filskifte
 			</td>
 			<td>
 				Ja (Audi Active Lane Assist), standardutstyr
@@ -9393,7 +9132,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Døsighetsvarsel
+				Tretthetsvarsling
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -9401,31 +9140,31 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Bryggekamera
+				Ryggekamera
 			</td>
 			<td>
-				Ja, tileggsutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				360-kamera
-			</td>
-			<td>
-				Ja, tileggsutstyr
+				Ja, ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Alarm for kryssende trafikk bak
+				360° kamera
 			</td>
 			<td>
-				Ja (Cross traffic assist rear), tileggsutstyr
+				Ja, ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer bak
+				Kryssende trafikkvarsling bak
+			</td>
+			<td>
+				Ja (Cross traffic assist rear), ekstrautstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Parksensorer bak
 			</td>
 			<td>
 				Ja (Parking system plus), standardutstyr
@@ -9433,7 +9172,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer foran
+				Parksensorer foran
 			</td>
 			<td>
 				Ja (Parking system plus), standardutstyr
@@ -9441,7 +9180,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer på siden
+				Parksensorer på sidene
 			</td>
 			<td>
 				Ja (Parking system plus), standardutstyr
@@ -9449,7 +9188,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Hill nedstigningshjelp
+				Nedfartshjelp
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -9457,7 +9196,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Hill start assist
+				Bakkeassistent
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -9465,7 +9204,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				AntiLock Braking System
+				Blokkeringsfrie bremser (ABS)
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -9473,7 +9212,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Automatisk nødbremsing
+				Automatisk nødbrems
 			</td>
 			<td>
 				Ja (Audi Pre sense front), standardutstyr
@@ -9481,7 +9220,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Traksjonskontroll
+				Trekkontroll
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -9489,23 +9228,23 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Unngå krasj i venstresving
+				Kollisjonsunngåelse ved venstresving
 			</td>
 			<td>
-				Ja (Audi Turn Assist), tileggsutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Forward Collision Warning
-			</td>
-			<td>
-				Ja (Audi Collision Avoidance Assist), tileggsutstyr
+				Ja (Audi Turn Assist), ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektronisk stabilitetskontroll
+				Frontkollisjonsvarsling
+			</td>
+			<td>
+				Ja (Audi Collision Avoidance Assist), ekstrautstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektronisk stabilitetskontroll (ESC)
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -9513,7 +9252,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Temperaturadvarsel
+				Temperaturvarsling
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -9521,15 +9260,15 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Cross traffic assist
+				Kryssende trafikk assistent
 			</td>
 			<td>
-				Ja (Audi Collision Avoidance Assist), tileggsutstyr
+				Ja (Audi Collision Avoidance Assist), ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Effektivitetsassistent
+				Effektivitetshjelp
 			</td>
 			<td>
 				Ja (Audi Efficency Assist), standardutstyr
@@ -9540,7 +9279,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Automatisk nødstyring
 			</td>
 			<td>
-				Ja (Audi Collision Avoidance Assist), tileggsutstyr
+				Ja (Audi Collision Avoidance Assist), ekstrautstyr
 			</td>
 		</tr>
 		<tr>
@@ -9548,21 +9287,21 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Trafikkskiltgjenkjenning
 			</td>
 			<td>
-				Ja (Audi Traffic Sign Recongition), tileggsutstyr
+				Ja (Audi Traffic Sign Recongition), ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Nattsyn
+				Nattvisjon
 			</td>
 			<td>
-				Ja (Night Vision Assist), tileggsutstyr
+				Ja (Night Vision Assist), ekstrautstyr
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-## Brukerinterface
+## Brukergrensesnitt og kontroller
 
 <table class="table table-striped border">
 	<thead>
@@ -9581,7 +9320,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Head-up display
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, ekstrautstyr
 			</td>
 		</tr>
 		<tr>
@@ -9589,66 +9328,12 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Stemmestyring
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Gesture control
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Android Auto-støtte
-			</td>
-			<td>
-				Ja (Smartphone Interface), tileggsutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Apple Carplay-støtte
-			</td>
-			<td>
-				Ja (Smartphone Interface), tileggsutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				I bilnavigasjon
-			</td>
-			<td>
-				Ja (MMI Navigation plus), standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Available screen layouts
-			</td>
-			<td>
-				1
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Digital driver display
-			</td>
-			<td>
-				Ja, 12,3
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Infotainment skjerm
-			</td>
-			<td>
-				Ja, to 10,1" og 8,6"
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Infotainment skjerm fremre passasjer
+				Bevegelseskontroll
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -9656,7 +9341,63 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Infotainment skjerm bak
+				Støtte for Android Auto
+			</td>
+			<td>
+				Ja (Smartphone Interface), ekstrautstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Støtte for Apple CarPlay
+			</td>
+			<td>
+				Ja (Smartphone Interface), ekstrautstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Innebygd navigasjon
+			</td>
+			<td>
+				Ja (MMI Navigation plus), standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tilgjengelige skjermoppsett
+			</td>
+			<td>
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Digitalt førerdisplay
+			</td>
+			<td>
+				Ja, 12,3
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Infotainmentskjerm
+			</td>
+			<td>
+				Ja, to 10,1" og 8,6"
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Infotainmentskjerm foran passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Infotainmentskjerm baksete
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -9750,7 +9491,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
         <div id="panelsStayOpen-collapsec78e248c-ed2b-4086-abce-618c569094e7" class="accordion-collapse collapse">
             <div class="accordion-body">
 
-## Ytelse
+## Ytelser
 
 <table class="table table-striped border">
 	<thead>
@@ -9769,7 +9510,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Maks effekt
 			</td>
 			<td>
-				320 KW (435 hk)
+				320 kW (435 hk /429 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -9782,15 +9523,15 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment
+				Elektrisk dreiemoment
 			</td>
 			<td>
-				561 nm
+				561 Nm (414 lb-ft)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Dreiemoment med boost
+				Elektrisk dreiemoment med boost
 			</td>
 			<td>
 				973 Nm
@@ -9798,15 +9539,15 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Topphastighet
+				Toppfart
 			</td>
 			<td>
-				200 km/t
+				200 km/t (124 mph)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				0-100 km/t (0-62 mph)
+				0–100 km/t (0–62 mph)
 			</td>
 			<td>
 				6,6 s
@@ -9814,7 +9555,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				0-100 km/t (0-62 mph) boost
+				0–100 km/t (0–62 mph) med boost
 			</td>
 			<td>
 				4,5 s
@@ -9827,7 +9568,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ## Rekkevidde og forbruk
 
-Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinfo](../rangeandconsumption/) for detaljerte eksempler på rekkevidde fra den virkelige verden. Besøk vår [Rekkeviddeguide](../../../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
+Under ser du offisielle rekkeviddedata. Besøk vår [utvidede rekkeviddeoversikt](../rangeandconsumption/) for detaljerte eksempler fra virkeligheten. Les også vår [rekkeviddeguide](../../../../../guides/understandingrange/) for å forstå hva som påvirker rekkevidde og hvordan de offisielle verdiene måles.
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -9842,7 +9583,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				WLTP-rekkevidde for grunnmodell
+				WLTP-rekkevidde (standardversjon)
 			</td>
 			<td>
 				379 km
@@ -9850,7 +9591,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				WLTP-forbruk grunnmodell
+				WLTP-forbruk (standardversjon)
 			</td>
 			<td>
 				22,7 kWh/100km
@@ -9858,7 +9599,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				WLTP-forbruk grunnmodell med ladetap
+				WLTP-forbruk inkl. ladetap (standardversjon)
 			</td>
 			<td>
 				25,7 kWh/100km
@@ -9866,7 +9607,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Topputstyrt WLTP-rekkevidde
+				WLTP-rekkevidde (toppmodell)
 			</td>
 			<td>
 				347 km
@@ -9874,7 +9615,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Topputstyrt WLTP-forbruk
+				WLTP-forbruk (toppmodell)
 			</td>
 			<td>
 				24,8 kWh/100km
@@ -9882,7 +9623,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Topputstyrt WLTP-forbruk med ladetap
+				WLTP-forbruk inkl. ladetap (toppmodell)
 			</td>
 			<td>
 				28,1 kwh/100km
@@ -9909,7 +9650,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				Brutto batteristørrelse
+				Bruttokapasitet
 			</td>
 			<td>
 				95 kWh
@@ -9917,7 +9658,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Netto batteristørrelse
+				Nettokapasitet
 			</td>
 			<td>
 				86 kWh
@@ -9925,7 +9666,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Maks DC-lading
+				Maks DC-ladeeffekt
 			</td>
 			<td>
 				150 kW
@@ -9941,7 +9682,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Pakkekonfigurasjon
+				Batterikonfigurasjon
 			</td>
 			<td>
 				108s4p
@@ -9984,7 +9725,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				Ladeportplassering
+				Plassering av ladeport
 			</td>
 			<td>
 				LeftFrontSide
@@ -9992,7 +9733,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Type ladeport Europa
+				Ladekontakttype Europa
 			</td>
 			<td>
 				CCS2
@@ -10000,31 +9741,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Type ladeport Nord-Amerika
-			</td>
-			<td>
-				CCS1
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Kina
-			</td>
-			<td>
-				GBT
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Japan
-			</td>
-			<td>
-				CHAdeMO
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Oceania (Australia, New Zealand ++)
+				Ladekontakttype Oseania (Australia, New Zealand ++)
 			</td>
 			<td>
 				CCS2
@@ -10046,7 +9763,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				Ladeportplassering
+				Plassering av ladeport
 			</td>
 			<td>
 				RightFrontSide
@@ -10054,39 +9771,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Type ladeport Europa
-			</td>
-			<td>
-				Type2
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type ladeport Nord-Amerika
-			</td>
-			<td>
-				J1772
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Kina
-			</td>
-			<td>
-				GBT
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Japan
-			</td>
-			<td>
-				CHAdeMO
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Skriv ladeport Oceania (Australia, New Zealand ++)
+				Ladekontakttype Europa
 			</td>
 			<td>
 				Type2
@@ -10114,7 +9799,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Lengde
 			</td>
 			<td>
-				4901 mm
+				4901 mm (193,0")
 			</td>
 		</tr>
 		<tr>
@@ -10122,7 +9807,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Høyde
 			</td>
 			<td>
-				1615 mm
+				1615 mm (63,6")
 			</td>
 		</tr>
 		<tr>
@@ -10130,15 +9815,15 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Bredde uten speil
 			</td>
 			<td>
-				1935 mm
+				1935 mm (76,2")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Bredde inkludert speil
+				Dimensions.WidhtIncludingMirrors
 			</td>
 			<td>
-				2189 mm
+				2189 mm (86,2")
 			</td>
 		</tr>
 		<tr>
@@ -10146,28 +9831,28 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Akselavstand
 			</td>
 			<td>
-				2927 mm
+				2927 mm (115,2")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Sporbredde foran
+				Sporvidde foran
 			</td>
 			<td>
-				1683 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Sporbredde bak
-			</td>
-			<td>
-				1683 mm
+				1683 mm (66,3")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Drag-koeffisient
+				Sporvidde bak
+			</td>
+			<td>
+				1683 mm (66,3")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Luftmotstandskoeffisient
 			</td>
 			<td>
 				0,26
@@ -10175,7 +9860,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Frontalområde
+				Frontareal
 			</td>
 			<td>
 				2,71
@@ -10197,10 +9882,18 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				20
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Svingradius
+			</td>
+			<td>
+				11,6 meter (456,7")
+			</td>
+		</tr>
 	</tbody>
 </table>
 
-## Lastekapasitet og slepeevne
+## Bagasje og tilhengervekt
 
 <table class="table table-striped border">
 	<thead>
@@ -10219,23 +9912,23 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				2655 kg
+				2655 kg (5853 lbs)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Tillatt totalvekt
+				Maks tillatt totalvekt
 			</td>
 			<td>
-				3280 kg
+				3280 kg (7231 lbs)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Maks nyttelast inkludert vekt fører
+				Maks nyttelast inkl. fører
 			</td>
 			<td>
-				625 kg
+				625 kg (1378 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -10243,57 +9936,61 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks taklast
 			</td>
 			<td>
-				75 kg
+				75 kg (165 lbs)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Størrelse bagasjerom
+				Bagasjeromsvolum
 			</td>
 			<td>
-				660 liter
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Størrelse med alle bakseter lagt ned
-			</td>
-			<td>
-				1725 liter
+				660 liter (23 cu-ft)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Maksimum vekt tilhenger med bremse
+				Bagasjeromsvolum med alle bakseter nedfelt
 			</td>
 			<td>
-				1800 kg
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maksvekt tilhenger m/brems
-			</td>
-			<td>
-				750 kg
+				1725 liter (61 cu-ft)
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Maksvekt på tilhengerkobling
+				Volum frunk
 			</td>
 			<td>
-				80 kg
+				60 liter (2 cu-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks tilhengervekt med bremser
+			</td>
+			<td>
+				1800 kg (3968 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks tilhengervekt uten bremser
+			</td>
+			<td>
+				750 kg (1653 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks vertikallast (kulekobling)
+			</td>
+			<td>
+				80 kg (176 lbs)
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-## Hjuloppheng
-
-Modellen tilbyr 2 fjæringsvarianter
-
-### Adaptive Air Suspension
+## Fjæring
 
 <table class="table table-striped border">
 	<thead>
@@ -10309,7 +10006,7 @@ Modellen tilbyr 2 fjæringsvarianter
 	<tbody>
 		<tr>
 			<td>
-				Adaptiv understell
+				Adaptivt fjæringssystem
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -10352,20 +10049,20 @@ Modellen tilbyr 2 fjæringsvarianter
 				Maks bakkeklaring
 			</td>
 			<td>
-				248 mm
+				248 mm (9,8")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Minimum bakkeklaring
+				Minste bakkeklaring
 			</td>
 			<td>
-				152 mm
+				152 mm (6,0")
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Type demper foran
+				Dempetype foran
 			</td>
 			<td>
 				ElectronicallyControlled
@@ -10373,7 +10070,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type demper bak
+				Dempetype bak
 			</td>
 			<td>
 				ElectronicallyControlled
@@ -10381,7 +10078,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type fjæring foran
+				Fjærtype foran
 			</td>
 			<td>
 				Air
@@ -10389,7 +10086,7 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Type fjæring bak
+				Fjærtype bak
 			</td>
 			<td>
 				Air
@@ -10397,139 +10094,18 @@ Modellen tilbyr 2 fjæringsvarianter
 		</tr>
 		<tr>
 			<td>
-				Hjuloppheng foran
+				Fjæringssystem foran
 			</td>
 			<td>
-				Dobbelt bærearmsoppheng
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Hjuloppheng bak
-			</td>
-			<td>
-				Multi-link
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Adaptive Air Suspension Sport
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spesifikasjon
-			</th>
-			<th>
-				Verdi
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Adaptiv understell
-			</td>
-			<td>
-				Ja, standardutstyr
+				Doble bærearmer foran
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justerbar demping foran
+				Fjæringssystem bak
 			</td>
 			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar demping bak
-			</td>
-			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar høyde foran
-			</td>
-			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar høyde bak
-			</td>
-			<td>
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maks bakkeklaring
-			</td>
-			<td>
-				248 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minimum bakkeklaring
-			</td>
-			<td>
-				152 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type demper foran
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type demper bak
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type fjæring foran
-			</td>
-			<td>
-				Air
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type fjæring bak
-			</td>
-			<td>
-				Air
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Hjuloppheng foran
-			</td>
-			<td>
-				Dobbelt bærearmsoppheng
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Hjuloppheng bak
-			</td>
-			<td>
-				Multi-link
+				Multilenker bak
 			</td>
 		</tr>
 	</tbody>
@@ -10537,10 +10113,300 @@ Modellen tilbyr 2 fjæringsvarianter
 
 ## Interiør
 
-Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
+Denne modellen er tilgjengelig med fem seter.
 
 ### Forseter
 
+
+#### standard
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Setetype
+			</td>
+			<td>
+				Fører- og passasjersete
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Setedybdejustering
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Setehøydejustering
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ryggvinkeljustering
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Vinkeljustering av setepute
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minnefunksjon
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Høydejusterbar hodestøtte
+			</td>
+			<td>
+				Standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lengdejusterbar hodestøtte
+			</td>
+			<td>
+				Tilleggsutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar lårstøtte
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar sidestøtte i rygg
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar sidestøtte i setepute
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fotstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Beinstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggjustering
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seteventilasjon
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massasjefunksjon
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+#### sport
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Setetype
+			</td>
+			<td>
+				Fører- og passasjersete
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Setedybdejustering
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Setehøydejustering
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ryggvinkeljustering
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Vinkeljustering av setepute
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minnefunksjon
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Høydejusterbar hodestøtte
+			</td>
+			<td>
+				Standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lengdejusterbar hodestøtte
+			</td>
+			<td>
+				Tilleggsutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar lårstøtte
+			</td>
+			<td>
+				Standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar sidestøtte i rygg
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar sidestøtte i setepute
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fotstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Beinstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggjustering
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seteventilasjon
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massasjefunksjon
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 #### s-line sport
 
@@ -10561,7 +10427,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Sjåfør- og passasjersete
+				Fører- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -10574,7 +10440,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setehøyde
+				Setehøydejustering
 			</td>
 			<td>
 				Ukjent
@@ -10582,7 +10448,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøttevinkel
+				Ryggvinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -10590,7 +10456,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Seteputevinkeljustering
+				Vinkeljustering av setepute
 			</td>
 			<td>
 				Ukjent
@@ -10598,7 +10464,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Minne
+				Minnefunksjon
 			</td>
 			<td>
 				Ukjent
@@ -10606,10 +10472,10 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -10617,7 +10483,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Valgfri funksjon
+				Tilleggsutstyr
 			</td>
 		</tr>
 		<tr>
@@ -10625,12 +10491,12 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -10638,7 +10504,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setepute, sidestøtte
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -10646,23 +10512,23 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Fotstøtte passasjer
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Beinstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ukjent
@@ -10706,7 +10572,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Sjåfør- og passasjersete
+				Fører- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -10719,7 +10585,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setehøyde
+				Setehøydejustering
 			</td>
 			<td>
 				Ukjent
@@ -10727,7 +10593,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøttevinkel
+				Ryggvinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -10735,7 +10601,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Seteputevinkeljustering
+				Vinkeljustering av setepute
 			</td>
 			<td>
 				Ukjent
@@ -10743,7 +10609,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Minne
+				Minnefunksjon
 			</td>
 			<td>
 				Ukjent
@@ -10751,7 +10617,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -10770,12 +10636,12 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -10783,7 +10649,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setepute, sidestøtte
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -10791,23 +10657,23 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Fotstøtte passasjer
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Beinstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ukjent
@@ -10851,7 +10717,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Sjåfør- og passasjersete
+				Fører- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -10864,7 +10730,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setehøyde
+				Setehøydejustering
 			</td>
 			<td>
 				Ukjent
@@ -10872,7 +10738,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøttevinkel
+				Ryggvinkeljustering
 			</td>
 			<td>
 				Ukjent
@@ -10880,7 +10746,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Seteputevinkeljustering
+				Vinkeljustering av setepute
 			</td>
 			<td>
 				Ukjent
@@ -10888,18 +10754,18 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Minne
+				Minnefunksjon
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -10907,7 +10773,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -10915,44 +10781,44 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justering av setepute, sidestøtte
-			</td>
-			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Benstøttepassasjer
-			</td>
-			<td>
-				Ukjent
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Fotstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Beinstøtte passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ukjent
@@ -10963,7 +10829,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Seteventilasjon
 			</td>
 			<td>
-				Valgfri funksjon
+				Tilleggsutstyr
 			</td>
 		</tr>
 		<tr>
@@ -10971,13 +10837,13 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Massasjefunksjon
 			</td>
 			<td>
-				Valgfri funksjon
+				Tilleggsutstyr
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-### Seter på andre rad
+### Seter andre rad
 
 
 #### standard
@@ -10999,15 +10865,15 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Tre-seters benk
+				Treseters benk
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Høydejusterbar nakkestøtte
+				Høydejusterbar hodestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -11028,7 +10894,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av ryggstøtten
+				Justerbar sidestøtte i rygg
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -11036,7 +10902,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Justering av setepute, sidestøtte
+				Justerbar sidestøtte i setepute
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -11044,7 +10910,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Fotstøttepassasjerer
+				Fotstøtte passasjer
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -11052,7 +10918,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Benstøttepassasjer
+				Beinstøtte passasjer
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -11060,7 +10926,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk korsryggstøtte
+				Elektrisk korsryggjustering
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -11085,7 +10951,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 	</tbody>
 </table>
 
-## Sjåførassistanse
+## Førerstøtte
 
 <table class="table table-striped border">
 	<thead>
@@ -11101,7 +10967,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 	<tbody>
 		<tr>
 			<td>
-				Lane keeping
+				Filholderassistent
 			</td>
 			<td>
 				Ja (Audi Active Lane Assist), standardutstyr
@@ -11109,7 +10975,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Lane departure warning
+				Varsel ved filskifte
 			</td>
 			<td>
 				Ja (Audi Active Lane Assist), standardutstyr
@@ -11117,7 +10983,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Døsighetsvarsel
+				Tretthetsvarsling
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -11125,31 +10991,31 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Bryggekamera
+				Ryggekamera
 			</td>
 			<td>
-				Ja, tileggsutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				360-kamera
-			</td>
-			<td>
-				Ja, tileggsutstyr
+				Ja, ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Alarm for kryssende trafikk bak
+				360° kamera
 			</td>
 			<td>
-				Ja (Cross traffic assist rear), tileggsutstyr
+				Ja, ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer bak
+				Kryssende trafikkvarsling bak
+			</td>
+			<td>
+				Ja (Cross traffic assist rear), ekstrautstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Parksensorer bak
 			</td>
 			<td>
 				Ja (Parking system plus), standardutstyr
@@ -11157,7 +11023,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer foran
+				Parksensorer foran
 			</td>
 			<td>
 				Ja (Parking system plus), standardutstyr
@@ -11165,7 +11031,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Parkeringssensorer på siden
+				Parksensorer på sidene
 			</td>
 			<td>
 				Ja (Parking system plus), standardutstyr
@@ -11173,7 +11039,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Hill nedstigningshjelp
+				Nedfartshjelp
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -11181,7 +11047,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Hill start assist
+				Bakkeassistent
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -11189,7 +11055,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				AntiLock Braking System
+				Blokkeringsfrie bremser (ABS)
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -11197,7 +11063,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Automatisk nødbremsing
+				Automatisk nødbrems
 			</td>
 			<td>
 				Ja (Audi Pre sense front), standardutstyr
@@ -11205,7 +11071,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Traksjonskontroll
+				Trekkontroll
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -11213,23 +11079,23 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Unngå krasj i venstresving
+				Kollisjonsunngåelse ved venstresving
 			</td>
 			<td>
-				Ja (Audi Turn Assist), tileggsutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Forward Collision Warning
-			</td>
-			<td>
-				Ja (Audi Collision Avoidance Assist), tileggsutstyr
+				Ja (Audi Turn Assist), ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Elektronisk stabilitetskontroll
+				Frontkollisjonsvarsling
+			</td>
+			<td>
+				Ja (Audi Collision Avoidance Assist), ekstrautstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektronisk stabilitetskontroll (ESC)
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -11237,7 +11103,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Temperaturadvarsel
+				Temperaturvarsling
 			</td>
 			<td>
 				Ja, standardutstyr
@@ -11245,15 +11111,15 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Cross traffic assist
+				Kryssende trafikk assistent
 			</td>
 			<td>
-				Ja (Audi Collision Avoidance Assist), tileggsutstyr
+				Ja (Audi Collision Avoidance Assist), ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Effektivitetsassistent
+				Effektivitetshjelp
 			</td>
 			<td>
 				Ja (Audi Efficency Assist), standardutstyr
@@ -11264,7 +11130,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Automatisk nødstyring
 			</td>
 			<td>
-				Ja (Audi Collision Avoidance Assist), tileggsutstyr
+				Ja (Audi Collision Avoidance Assist), ekstrautstyr
 			</td>
 		</tr>
 		<tr>
@@ -11272,21 +11138,21 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Trafikkskiltgjenkjenning
 			</td>
 			<td>
-				Ja (Audi Traffic Sign Recongition), tileggsutstyr
+				Ja (Audi Traffic Sign Recongition), ekstrautstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Nattsyn
+				Nattvisjon
 			</td>
 			<td>
-				Ja (Night Vision Assist), tileggsutstyr
+				Ja (Night Vision Assist), ekstrautstyr
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-## Brukerinterface
+## Brukergrensesnitt og kontroller
 
 <table class="table table-striped border">
 	<thead>
@@ -11305,7 +11171,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Head-up display
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, ekstrautstyr
 			</td>
 		</tr>
 		<tr>
@@ -11313,66 +11179,12 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Stemmestyring
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Gesture control
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Android Auto-støtte
-			</td>
-			<td>
-				Ja (Smartphone Interface), tileggsutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Apple Carplay-støtte
-			</td>
-			<td>
-				Ja (Smartphone Interface), tileggsutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				I bilnavigasjon
-			</td>
-			<td>
-				Ja (MMI Navigation plus), standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Available screen layouts
-			</td>
-			<td>
-				1
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Digital driver display
-			</td>
-			<td>
-				Ja, 12,3
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Infotainment skjerm
-			</td>
-			<td>
-				Ja, to 10,1" og 8,6"
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Infotainment skjerm fremre passasjer
+				Bevegelseskontroll
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -11380,7 +11192,63 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Infotainment skjerm bak
+				Støtte for Android Auto
+			</td>
+			<td>
+				Ja (Smartphone Interface), ekstrautstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Støtte for Apple CarPlay
+			</td>
+			<td>
+				Ja (Smartphone Interface), ekstrautstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Innebygd navigasjon
+			</td>
+			<td>
+				Ja (MMI Navigation plus), standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tilgjengelige skjermoppsett
+			</td>
+			<td>
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Digitalt førerdisplay
+			</td>
+			<td>
+				Ja, 12,3
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Infotainmentskjerm
+			</td>
+			<td>
+				Ja, to 10,1" og 8,6"
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Infotainmentskjerm foran passasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Infotainmentskjerm baksete
 			</td>
 			<td>
 				Ikke tilgjengelig
