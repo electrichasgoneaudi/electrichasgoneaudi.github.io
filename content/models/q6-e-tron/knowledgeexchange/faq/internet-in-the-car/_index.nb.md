@@ -55,6 +55,11 @@ Tips: Du kan se i displayet om bilen er koplet til et 'ekstern' WiFi nett. Da sk
 
 ![](image-uplink-symbols.png)
 
+Les om disse symbolene i artikkel om [Symboler for dataforbindelse](../uplink-symbols/_index.nb.md)
+
+
+
+
 # Beskrivelse av hvordan du kopler og etablerer abonnement for App og Smarttelefon datapakke
 
 Det følger med en datapakke på 3 GB per måned som du får med bilen de 3 første årene. I tillegg kan du kjøpe et abonnement som automatisk fyller på med mer data når den gratis kvoten er brukt opp.
