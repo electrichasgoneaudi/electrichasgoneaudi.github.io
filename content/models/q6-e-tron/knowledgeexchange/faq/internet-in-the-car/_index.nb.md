@@ -28,6 +28,33 @@ TIPS: Når du skal installere apps fra App Store er det nok ganske lurt å enten
 NB: Vær obs på at det finnes en issue som antyder at AppStore og ev. andre funksjoner ikke fungerer som forventet når bilen mangler LTE/5G forbindelse (for pkt 1 og 2 fra innledningen). Les mer om dette issuet her : https://github.com/electrichasgoneaudi/q6-e-tron/issues/45
 
 
+# Beskrivelse av hvordan du deler wifi med bilen fra din mobil
+Om Smarttelefonpakken, som er beskrevet i avsnittet lengre ned i artikkelen, ikke virker eller er tom for data, kan du velge å dele fra fra din mobil. 
+
+Det fungerer slik at dette valget vil bli prioritert foran den innebygde 3GB datakvoten, og bilen kopler seg opp automatisk. Så dette kan brukes f.eks på langtur om du vil spare av 3GB datakvoten. Om du legger din mobil på ladeplassen, så skal det også bli brukt bilens innebygde antenne slik at du, i teorien, skal få bedre 4G/5G dekning. 
+
+Slik gjør du dette
+
+1. Først må du slå på deling av WiFi fra din mobil
+
+Du finner det her :
+![](image-8.png)
+
+2. Så må du slå på WiFi valget i bilen MMI
+![](image-9.png)
+
+3. Til sist må du legge inn mobilen wifi passord i MMI
+
+![](image-10.png)
+
+
+NB! Vær obs på at det er en kjent feil som men jevne og ujevne mellomrom slår av MMI valget i bilen og da må du enable dette manuelt igjen før du kan kople opp igjen.
+Les om dette her :  https://github.com/electrichasgoneaudi/q6-e-tron/issues/20
+
+Tips: Du kan se i displayet om bilen er koplet til et 'ekstern' WiFi nett. Da skal du ha ikonet vist i den grønn ringen
+
+![](image-uplink-symbols.png)
+
 # Beskrivelse av hvordan du kopler og etablerer abonnement for App og Smarttelefon datapakke
 
 Det følger med en datapakke på 3 GB per måned som du får med bilen de 3 første årene. I tillegg kan du kjøpe et abonnement som automatisk fyller på med mer data når den gratis kvoten er brukt opp.
