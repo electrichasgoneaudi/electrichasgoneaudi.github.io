@@ -22,6 +22,9 @@ weight: 30
 
 - [Les her om hvordan du setter det opp og kjøper mer data om du trenger det](internet-in-the-car)
 
+## Apple CarPlay med delt internett fra mobilen
+- [Les om delt internett og CarPlay her](carplay-with-shared-wifi/_index.nb.md)
+
 ## Garasjeportåpner
 
 - [Les her om hvordan du setter det opp garasjeportåpner](garagedoor-programming)
