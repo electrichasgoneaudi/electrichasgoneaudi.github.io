@@ -29,7 +29,7 @@ Man skal følge med på disse symbolene. Her vises symbolen til venstre i ringen
 
 Ikke bruker USB sier du ?
 
-Vel USB er bedre enn du er klar over, når det kommer til lydkvalitet.
+Vel, USB er bedre enn du er klar over, når det kommer til lydkvalitet.
 
 Les en artikkel undertegnede har skrevet om dette emnet her:
 
