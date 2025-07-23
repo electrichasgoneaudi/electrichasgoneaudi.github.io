@@ -7,17 +7,15 @@ weight: 30
 
 Som beskrevet i en annen [artikkel](../internet-in-the-car/_index.nb.md) kan man velge å dele data med bilen med delt internet på iPhone.
 
+Men hvordan skal man få dette til med CarPlay. For med CarPlay må man kople opp mobilen til bilens Wifi og da er Wifi forbindelsen opptatt for dette formålet (dvs bil er router til internet og mobilen er bare en wifi klient)
 
-
-Men hvordan skal man få dette til med CarPlay. For med CarPlay må man kople opp mobilen til bilens Wifi og da er Wifi forbindelsen opptatt for dette formålet ( dvs bil er router til internet og mobilen er bare en wifi klient)
-
-Det er faktisk mulig å kople til bilen på delt internet fra mobilen på den løsningen som er beskrevet over, men da bruker bilen likevel av sin mobildatakvaote (3 GB pr måned vya myAudi). Så i praksis vil det ikke fungere.
+Det er faktisk mulig å kople til bilen på delt internet fra mobilen på den løsningen som er beskrevet over, men da bruker bilen likevel av sin mobildatakvote (3 GB pr måned via myAudi). Så i praksis vil det ikke fungere.
 
 Det er likevel en løsning som kan gi deg CarPlay med delt datakvote fra mobil.
 
 Og det er USB kabel.
 
-Om du kopler opp mobilen med USB kabel, vil du for CarPlay via USB. CarPaly vil da bruke av mobilens datakvote. Og hvis du har behov for f.eks å se YouTube i bilens MMI, så kan du dele data fra mobilen og dermed ikke bruke av din 3 GB datakvote.
+Om du kopler opp mobilen med USB kabel, vil du få CarPlay via USB. CarPlay vil da bruke av mobilens datakvote. Og hvis du har behov for f.eks å se YouTube i bilens MMI, så kan du dele data fra mobilen og dermed ikke bruke av din 3 GB datakvote.
 
 I bildet under ser du et slikt oppsett.
 
