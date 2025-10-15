@@ -5,12 +5,12 @@ description: Unknown
 weight: 30
 ---
 
-## Release name will be provided later
+## KD2
 
 - This is NOT an OTA update; the car must be updated at the workshop
 - It will also not be a campaign update, so only those who experience problems can receive this update. Contact your dealer if you experience the types of issues described below
 
-### Release date: Q4 2025
+### Release date: October 2025
 
 ## Note! This is unofficial information
 ### General description of improvements:

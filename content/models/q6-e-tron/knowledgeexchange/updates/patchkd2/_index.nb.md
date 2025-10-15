@@ -5,12 +5,12 @@ description: Ukjent
 weight: 30
 ---
 
-## Release navn kommer senere
+## KD2
 
 - Dette er IKKE en OTA oppdatering, bilen må oppdateres på verksted
 - Det vil heller ikke blir en kampanje oppdatering, så det er bare de som opplever problem som kan motta denne oppdatering. Så man kontakter sin forhandler om man opplever den type feil som er beskrevet under
 
-### Utgivelsesdato: Q4 2025
+### Utgivelsesdato: Oktober 2025
 
 ## NB ! Dette er uoffisiell informasjon
 ### Generell beskrivelse av forbedringer : 
