@@ -12,6 +12,7 @@ weight: 30
 - Er levert på nye biler fra produksjonsuke 34/2025
 
 ### Utgivelsesdato: Oktober 2025
+- TPI 2078923/1
 
 ### Generell beskrivelse av forbedringer : 
 - Forebygging av feil på skjerm/infotainment;  svarte skjermer, tilbakestilling, omstarter, skjermfrysninger

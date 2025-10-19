@@ -12,6 +12,7 @@ weight: 30
 - Is delivered on new cars from productionweek 34/2025
 
 ### Release date: October 2025
+- TPI 2078923/1
 
 ### General description of improvements:
 - Prevention of screen/infotainment issues; black screens, resets, restarts, screen freezes
