@@ -37,3 +37,7 @@ weight: 30
 - Flash codes: BLKD2PPE, DUCLDRM0046, DUCDOORWR
 - HV charging cable must be disconnected before update
 - Flashing via USB-cable only (for stability)
+
+### Summary
+KD2 is a major stability and reliability update for the new PPE-based Q6 e-tron series.
+Owners report smoother system performance, better key recognition, and improved charging logic after installation.

@@ -38,5 +38,9 @@ Optimalisering av eCall / radio / underholdning (ingen lydutgang, manglende tilk
 - HV-ladekabelen må kobles fra før oppdateringen
 - Oppdatering kun via USB-kabel (for stabilitet)
 
+### Sammendrag
+KD2 er en viktig oppdatering for stabilitet og pålitelighet for den nye PPE-baserte Q6 e-tron-serien.
+Eiere rapporterer om jevnere systemytelse, bedre nøkkelgjenkjenning og forbedret ladelogikk etter installasjon.
+
 
  
