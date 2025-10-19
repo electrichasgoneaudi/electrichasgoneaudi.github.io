@@ -9,10 +9,10 @@ weight: 30
 
 - This is NOT an OTA update; the car must be updated at the workshop
 - It will also not be a campaign update, so only those who experience problems can receive this update. Contact your dealer if you experience the types of issues described below
+- Is delivered on new cars from productionweek 34/2025
 
 ### Release date: October 2025
 
-## Note! This is unofficial information
 ### General description of improvements:
 - Prevention of screen/infotainment issues; black screens, resets, restarts, screen freezes
 - Optimizations of the navigation system (display, route planning, guidance, navigation)
@@ -24,4 +24,16 @@ weight: 30
 - Prevention of unjustified warning lights (e.g. emission warning light and event memory entries)
 - Optimizations of charging processes (charging time, charging app and charging status, display, charging issues)
 - Improvements to mobile key (key recognition, keyless system, etc.)
+- Re-enabled Digital Key Sharing function
 - Detection of child in vehicle: no longer triggered without cause
+
+### Important notes for owners:
+- All personal settings (Drive Select, lighting, radio, language, HUD navigation, etc.) must be re-configured after the update.
+- Privacy Mode is automatically disabled and must be re-enabled manually.
+- The update can only be performed with a physical key – digital keys and key cards cannot be used during installation.
+- Update duration: ≈ 3.5 hours (vehicle restarts several times and may stay dark for 20–30 minutes).
+
+### Technical info (from service documentation):
+- Flash codes: BLKD2PPE, DUCLDRM0046, DUCDOORWR
+- HV charging cable must be disconnected before update
+- Flashing via USB-cable only (for stability)
