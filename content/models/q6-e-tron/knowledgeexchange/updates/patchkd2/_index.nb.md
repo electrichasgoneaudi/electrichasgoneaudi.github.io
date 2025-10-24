@@ -5,11 +5,12 @@ description: Ukjent
 weight: 30
 ---
 
-## KD2
+## KD2 - 03.10.01/C (28.13.01)
 
 - Dette er IKKE en OTA oppdatering, bilen må oppdateres på verksted
 - Det vil heller ikke blir en kampanje oppdatering, så det er bare de som opplever problem som kan motta denne oppdatering. Så man kontakter sin forhandler om man opplever den type feil som er beskrevet under
 - Er levert på nye biler fra produksjonsuke 34/2025
+- Versjonsnr i myAudi App : 03.10.01
 
 ### Utgivelsesdato: Oktober 2025
 - TPI 2078923/1
