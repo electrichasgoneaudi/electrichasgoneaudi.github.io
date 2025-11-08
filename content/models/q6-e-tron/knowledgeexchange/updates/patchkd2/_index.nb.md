@@ -78,7 +78,7 @@ Som oppgitt i infoskrivet må garasjeportåpner må programmeres på nytt.
 
 Infoskrivet omtaler også forbindelser til mobile enheter, men hos meg fungerte iPhone og handsfree som før som om ingenting hadde skjedd
 
-**Car2Phone** ser ut til å være borte, men det er det ikke. Den har bare endret navn, sannsynligvis i oppgraderingen av myAudi 4.x til 5.x. Hå heter det Bilforbindelse, ellers virker det som før.
+**Car2Phone** ser ut til å være borte, men det er det ikke. Den har bare endret navn, sannsynligvis i oppgraderingen av myAudi 4.x til 5.x. Nå heter det Bilforbindelse, ellers virker det som før.
 
 ![alt text](image-12.png)
 
