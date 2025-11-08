@@ -148,7 +148,7 @@ Og din iPhone viser et 'kredittkort-liknende bilde' som vist under<br><br>
 9. Klikker du på fortsett i myAudi Appen, så kommer du videre til<br><br>
 ![alt text](image-21.png)
 
-10. Og til dette bildet når du trykker Videre. her ser du at du har fått opprettet en digital nøkkel.<br><br>
+10. Og til dette bildet når du trykker Videre. Her ser du at du har fått opprettet en digital nøkkel.<br><br>
 ![alt text](image-23.png)
 
 11. Hvis du nå dobbelttrykker på høyre knapp på din iPhone, så åpr du opp din bil som et Kredittkort og kan da her åpne og lukke bil og bagasjerom. dette skjer da via en bluetooth forbindelse mellom bilen og telefonen din.
@@ -156,36 +156,37 @@ Og din iPhone viser et 'kredittkort-liknende bilde' som vist under<br><br>
 **Hvordan dele den digitale nøkkelen**
 
 Om du klare å opprette den digitale nøkkelen etter beskrivelsen over, så er du klar for å dele denne videre. Dette utføres på din iPhone, med valget Lommebok.
-
+<br><br>
 ![alt text](image-24.png)
-
+<br><br>
 Velg den sorte Audi kortet som sannsynligvis har bilnavnet du har gitt deg på
 ![alt text](image-25.png)
-
+<br><br>
 Trykk på den sorte audi kortet og velg deling ikonet
 ![alt text](image-26.png)
-
+<br><br>
 Her velger jeg å dele med messenger
 ![alt text](image-27.png)
-
+<br><br>
 Trykk på feltet for navn og du får mulighet til å enten velge et navn fra dine kontakter, eller så kan du bare skrive det navnet du måtte ønske
+<br><br>
 ![alt text](image-28.png)
-
+<br><br>
 Da har du den digitale nøkkelen som du sender som en type vedlegg via messenger i dette eksemplet
+<br><br>
 ![alt text](image-29.png)
-
-
+<br><br>
 Og man kan se at nøkkelen er levert og når mottaker åpner den så blir den lagt inn i vedkomnes lommebok som en nøkkel
 ![alt text](image-30.png)
 
 Legg merke til at når første deling er gjennomført, så får du et nytt valg for å administrere og ev legge til flere mottakere av den digitale nøkkelen.
-
+<br><br>
 ![alt text](image-31.png)
-
+<br><br>
 Her får du da opp nye valg for å legge til flere nøkkelbrukere
-
+<br><br>
 ![alt text](image-32.png)
-
+<br><br>
 
 ### Issues databasen
 
