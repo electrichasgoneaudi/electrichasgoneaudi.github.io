@@ -92,9 +92,8 @@ Slik gjør du om du vil ha navigasjon i HUD
 
 **Ladesystemet**: Det er oppgitt at lading er forbedret.
 
-Jeg ser i allefall nå at nå vises gjenstående tid i MMI 
-
-![alt text](image-7.png)  
+Jeg ser i allefall nå at nå vises gjenstående tid i MMI<br><br> 
+![alt text](image-7.png)<br><br>
 ![alt text](image-8.png)
 
 Men dessverre så får vi fremdeles 'Feil på ladesystem' melding for de som smartlader. Det er fremdeles ikke helt korrekt håndtering av at hjemmeladeren kan kople fra for å vente på billigere priser. Men initiell erfaring er at det er forbedret håndtering.
