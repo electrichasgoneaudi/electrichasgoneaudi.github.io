@@ -166,6 +166,7 @@ Trykk på den sorte audi kortet og velg deling ikonet
 ![alt text](image-26.png)
 <br><br>
 Her velger jeg å dele med messenger
+<br><br>
 ![alt text](image-27.png)
 <br><br>
 Trykk på feltet for navn og du får mulighet til å enten velge et navn fra dine kontakter, eller så kan du bare skrive det navnet du måtte ønske
@@ -177,8 +178,9 @@ Da har du den digitale nøkkelen som du sender som en type vedlegg via messenger
 ![alt text](image-29.png)
 <br><br>
 Og man kan se at nøkkelen er levert og når mottaker åpner den så blir den lagt inn i vedkomnes lommebok som en nøkkel
+<br><br>
 ![alt text](image-30.png)
-
+<br><br>
 Legg merke til at når første deling er gjennomført, så får du et nytt valg for å administrere og ev legge til flere mottakere av den digitale nøkkelen.
 <br><br>
 ![alt text](image-31.png)
