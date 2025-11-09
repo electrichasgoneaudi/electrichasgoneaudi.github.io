@@ -76,6 +76,9 @@ Som oppgitt i infoskrivet må garasjeportåpner må programmeres på nytt.
 
 ![alt text](image-4.png)
 
+**Feilmeldinger og popups**
+Gjenstår å se over litt tid, men den initielle gule varselet om at front assistent initialiseres, ser ut til å bare ta 10-15 sekunder nå. 
+
 Infoskrivet omtaler også forbindelser til mobile enheter, men hos meg fungerte iPhone og handsfree som før som om ingenting hadde skjedd
 
 **Car2Phone** ser ut til å være borte, men det er det ikke. Den har bare endret navn, sannsynligvis i oppgraderingen av myAudi 4.x til 5.x. Nå heter det Bilforbindelse, ellers virker det som før.
