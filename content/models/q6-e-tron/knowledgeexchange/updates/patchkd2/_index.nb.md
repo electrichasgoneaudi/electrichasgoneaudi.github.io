@@ -45,7 +45,7 @@ KD2 er en viktig oppdatering for stabilitet og pålitelighet for den nye PPE-bas
 Eiere rapporterer om jevnere systemytelse, bedre nøkkelgjenkjenning og forbedret ladelogikk etter installasjon.
 
 ### Praktiske erfaring med KD2
-Forfatter har fått KD2 på sin SQ6 i november 2025 (Bile er produsert Juli 2024 hadde fra før [06XM](../patch06xm) og [06XL](../patch06xl) )
+Forfatter har fått KD2 på sin SQ6 i november 2025 (Bilen er produsert Juli 2024 hadde fra før [06XM](../patch06xm) og [06XL](../patch06xl) )
 
 Oppdateringen tok en arbeidsdag hos forhandler.
 
