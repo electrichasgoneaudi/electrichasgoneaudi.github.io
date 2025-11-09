@@ -93,6 +93,8 @@ Slik gjør du om du vil ha navigasjon i HUD
 
 ![alt text](image-6.png)
 
+Navigasjons GUI ser ikke ut til å ha fått noe forbedringer. Savner dypt at det ikke vises at bilen har lagt inn en ladestopp. Her må man åpne selve turen for å se at dette 'plutselig' kan da blitt kalkulert inn av bilen, og det er litt irriterende
+
 **Ladesystemet**: Det er oppgitt at lading er forbedret.
 
 Man ser i allefall nå at nå vises gjenstående tid i MMI<br><br> 
