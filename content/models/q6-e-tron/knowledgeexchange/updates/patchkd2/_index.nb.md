@@ -165,9 +165,11 @@ Om du klare å opprette den digitale nøkkelen etter beskrivelsen over, så er d
 ![alt text](image-24.png)
 <br><br>
 Velg den sorte Audi kortet som sannsynligvis har bilnavnet du har gitt deg på
+<br><br>
 ![alt text](image-25.png)
 <br><br>
 Trykk på den sorte audi kortet og velg deling ikonet
+<br><br>
 ![alt text](image-26.png)
 <br><br>
 Her velger du å dele med messenger
