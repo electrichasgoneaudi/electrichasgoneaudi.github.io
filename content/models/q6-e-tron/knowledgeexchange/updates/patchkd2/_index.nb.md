@@ -172,7 +172,7 @@ Trykk på den sorte audi kortet og velg deling ikonet
 <br><br>
 ![alt text](image-26.png)
 <br><br>
-Her velger du å dele med messenger
+Her har undertegnede valgt å dele med messenger, men jeg tipper andre metoder også fungerer
 <br><br>
 ![alt text](image-27.png)
 <br><br>
@@ -187,6 +187,10 @@ Da har du den digitale nøkkelen som du sender som en type vedlegg via messenger
 Og man kan se at nøkkelen er levert og når mottaker åpner den så blir den lagt inn i vedkomnes lommebok som en nøkkel
 <br><br>
 ![alt text](image-30.png)
+<br><br>
+Vær obs på at når Økt sikkerhet med aktiveringskode er valgt, så må du dele den koden med brukeren via SMS eller på andre måter. Vanligvis er vel denne nye brukeren plassert i stolen ved siden av deg... Denne koden er påkrevd når dette valget er satt. Man kan selvfølgelig velge å ikke sjekke ut det valget.
+<br><br>
+![alt text](image-33.png)
 <br><br>
 Legg merke til at når første deling er gjennomført, så får du et nytt valg for å administrere og ev legge til flere mottakere av den digitale nøkkelen.
 <br><br>
