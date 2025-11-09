@@ -49,16 +49,16 @@ Forfatter har fått KD2 på sin SQ6 i november 2025 (Bile er produsert Juli 2024
 
 Oppdateringen tok en arbeidsdag hos forhandler.
 
-Overraskende nok, så var nesten all konfigurasjon ivaretatt. Jeg hadde fryktet at bilen var tilnærmet fabrikkinnstillt. 
-Første jeg gjorde var å sjekke versjon i bilens MMI. Det er som forventet 03.10.00/C.
+Overraskende nok, så var nesten all konfigurasjon ivaretatt. Ryktene sa at bilen var tilnærmet fabrikkinnstillt, men det er altså ikke tilfelle. 
+Første ting å gjøre er å sjekke versjon i bilens MMI. Det er som forventet 03.10.00/C.
 
-Alle mine installerte apper i AppStore var på plass og ikonoversikten er ikke endret
+Alle installerte apper i AppStore var på plass og ikonoversikten er ikke endret
 
-Jeg observerer at et ikon/knapp er endret for å bedre reflektere hva det faktisk gjør. Her vises det tydeligere at det er både bakrute og speil som varmes. Se bildet under.
+En obervasjon er at ikon/knapp er endret for å bedre reflektere hva det faktisk gjør. Her vises det tydeligere at det er både bakrute og speil som varmes. Se bildet under.
 
 ![alt text](image.png)
 
-Jeg så også fort at ambientelyset var av (andre har meldt at det lyser hvitt), så det måtte settes på nytt
+Det er også lett å oppdage at ambientelyset var slått av (andre har meldt at det lyser hvitt), så det måtte settes på nytt
 
 ![alt text](image-1.png)
 
@@ -66,7 +66,7 @@ Men utvendige lyd ble ikke resatt.
 
 ![alt text](image-2.png)
 
-Drive select var resatt og jeg måtte stille in INDIVIDUAL innstillingen på nytt. Her så jeg ikke noe nye valg. Her burde efficiency valg vært mulig å velge. 
+Drive select var resatt og man må stille in INDIVIDUAL innstillingen på nytt, om man hadde oppdatert denne tidligere. 
 
 I infoskrivet fra forhandler stod det at radiofavoritter måtte settes på nytt, men det var ikke nødvendig hos meg, alle favoritteer var på plass.
 
@@ -92,7 +92,7 @@ Slik gjør du om du vil ha navigasjon i HUD
 
 **Ladesystemet**: Det er oppgitt at lading er forbedret.
 
-Jeg ser i allefall nå at nå vises gjenstående tid i MMI<br><br> 
+Man ser i allefall nå at nå vises gjenstående tid i MMI<br><br> 
 ![alt text](image-7.png)<br><br>
 ![alt text](image-8.png)
 
@@ -165,7 +165,7 @@ Velg den sorte Audi kortet som sannsynligvis har bilnavnet du har gitt deg på
 Trykk på den sorte audi kortet og velg deling ikonet
 ![alt text](image-26.png)
 <br><br>
-Her velger jeg å dele med messenger
+Her velger du å dele med messenger
 <br><br>
 ![alt text](image-27.png)
 <br><br>
