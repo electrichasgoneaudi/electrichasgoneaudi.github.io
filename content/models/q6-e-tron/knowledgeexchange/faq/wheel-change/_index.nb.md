@@ -24,7 +24,7 @@ NB!
 
 NB!
 
-## Her er prosedyre afor lternativ 1
+## Her er prosedyre for alternativ 1
 
 - Plasser din jekk klar under bilen. Du bør ha en skikkelig jekk, ala Bacho 3000 e.l.
 - Sett bilen i N, og du vil få opp en popup som ber deg om å bekrefte at bilen skal rulle fritt når du har gått ut av bilen.
