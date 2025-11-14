@@ -210,6 +210,7 @@ Her får du da opp nye valg for å legge til flere nøkkelbrukere
 Flere av issuene som er registrert i Q6 Issues Database er nå merket med fikset i KD2
 
 se [Issues fikset med KD2](https://github.com/electrichasgoneaudi/q6-e-tron/issues?q=label%3A%22fixed%20in%20KD2%22)
+
 se [Issues IKKE fixet with KD2](https://github.com/electrichasgoneaudi/q6-e-tron/issues?q=state%3Aopen%20label%3A%22Not%20fixed%20in%20KD2%22)
 
 
