@@ -208,3 +208,5 @@ Here you get new options to add more key users
 Several of the issues registered in the Q6 Issues Database are now marked as fixed in KD2
 
 see [Issues fixed with KD2](https://github.com/electrichasgoneaudi/q6-e-tron/issues?q=label%3A%22fixed%20in%20KD2%22)
+see [Issues NOT fixed with KD2](https://github.com/electrichasgoneaudi/q6-e-tron/issues?q=state%3Aopen%20label%3A%22Not%20fixed%20in%20KD2%22)
+
