@@ -211,3 +211,5 @@ see [Issues fixed with KD2](https://github.com/electrichasgoneaudi/q6-e-tron/iss
 
 see [Issues NOT fixed with KD2](https://github.com/electrichasgoneaudi/q6-e-tron/issues?q=state%3Aopen%20label%3A%22Not%20fixed%20in%20KD2%22)
 
+This issue may arise after KD2 install : [Window refuses to close, just open again](https://github.com/electrichasgoneaudi/q6-e-tron/issues/93)
+
