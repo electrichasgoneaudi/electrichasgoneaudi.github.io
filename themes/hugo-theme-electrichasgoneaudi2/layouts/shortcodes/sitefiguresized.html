@@ -8,11 +8,11 @@
     {{ $scaledHeight := mul $scaleFactor $originalHeight | int }}
     <div class="pswp-gallery" id="gallery--{{$random}}">
         <a href="https://media.electrichasgoneaudi.net/multimedia/{{ $url }}" data-pswp-width="{{ .Get "width" }}" data-pswp-height="{{ .Get "height" }}" target="_blank">
-            <img src="https://media.electrichasgoneaudi.net/multimedia/{{ .Get "thumb" }}" class="img-fluid" alt="{{ .Get "title" }}" title="{{ .Get "title" }}" width="{{ $desiredWidth }}" height="{{ $scaledHeight }}"  class="img-fluid" target="_blank">
+            <img src="https://media.electrichasgoneaudi.net/multimedia/{{ .Get "thumb" }}" class="max-w-full h-auto" alt="{{ .Get "title" }}" title="{{ .Get "title" }}" width="{{ $desiredWidth }}" height="{{ $scaledHeight }}" target="_blank">
         </a>
     </div>
    <figcaption>
-        <p class="lead text-center fw-semibold">
+        <p class="text-lg text-center font-semibold">
             {{ .Get "title" }}
         </p>
     </figcaption>

@@ -3,11 +3,11 @@
     {{ $random := delimit (shuffle (split (md5 $url) "" )) "" }}
     <div class="pswp-gallery" id="gallery--{{$random}}">
         <a href="https://media.evkx.net/multimedia/{{ $url }}">
-            <img src="https://media.evkx.net/multimedia/{{ .Get "thumb" }}" class="img-fluid" alt="{{ .Get "title" }}" title="{{ .Get "title" }}" class="img-fluid" target="_blank">
+            <img src="https://media.evkx.net/multimedia/{{ .Get "thumb" }}" class="max-w-full h-auto" alt="{{ .Get "title" }}" title="{{ .Get "title" }}" target="_blank">
         </a>
     </div>
    <figcaption>
-        <p class="lead text-center fw-semibold">
+        <p class="text-lg text-center font-semibold">
             {{ .Get "title" }}
         </p>
     </figcaption>

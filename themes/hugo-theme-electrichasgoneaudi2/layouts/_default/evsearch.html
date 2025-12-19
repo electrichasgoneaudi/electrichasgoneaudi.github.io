@@ -11,7 +11,26 @@
         <title>{{ .Title }} :: Electrichasgoneaudi.net</title>
         {{end}}
         <link rel="shortcut icon" href="{{"images/favicon.png" | relURL}}" type="image/x-icon" />
-        <link href="{{"css/bootstrap.min.css" | relURL}}" rel="stylesheet">
+        <script src="https://cdn.tailwindcss.com"></script>
+        <script>
+          tailwind.config = {
+            theme: {
+              extend: {
+                colors: {
+                  'audi-blue': '#1eaef7',
+                  'audi-blue-light': '#cff0ff',
+                  'audi-blue-lighter': '#e3f7ff',
+                  'audi-blue-dark': '#0062ba',
+                  'audi-blue-darker': '#022f51',
+                  'audi-purple': '#3f3161',
+                  'audi-yellow': '#ffda06',
+                  'audi-green': '#17c96b',
+                  'audi-red': '#e23b53'
+                }
+              }
+            }
+          }
+        </script>
         <link href="{{"css/bootstrap-icons.css" | relURL}}" rel="stylesheet">
         <link rel="preconnect" href='https://rsms.me/'>
         <link rel="stylesheet" href='https://rsms.me/inter/inter.css'>
@@ -32,13 +51,13 @@
       {{ partial "menuaccordion-simple.html" . }}
     </aside>
     <main>
-    <div class="container" id="root"></div>
+    <div class="max-w-full mx-auto" id="root"></div>
     <script type="module" src="/public/assets/entrypoint.js"></script>
   </main>
-  <footer class="container bg-dark">          
+  <footer class="max-w-full mx-auto bg-gray-900">          
     {{ partial "footercontent.html" . }}
   </footer>
-<script src="/js/bootstrap.bundle.min.js"></script>
+
 </body>
 </html>
 

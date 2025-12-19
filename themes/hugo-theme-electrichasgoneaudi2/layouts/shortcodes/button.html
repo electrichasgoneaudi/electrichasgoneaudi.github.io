@@ -1,6 +1,6 @@
-<!-- Boutton -->
-{{ with .Get "align" }}<center>{{end}}
-<button class="btn  {{with .Get "theme"}}btn-{{.}}{{else}}btn-primary{{end}}" type="button" {{ with .Get "href" }} onclick="location.href='{{.}}'"{{end}} >{{.Inner}}</button>
-{{ with .Get "align" }}</center>{{end}}
+<!-- Button -->
+{{ with .Get "align" }}<div class="text-center">{{end}}
+<button class="px-4 py-2 rounded font-medium transition-colors {{with .Get "theme"}}{{if eq . "primary"}}bg-blue-600 text-white hover:bg-blue-700{{else if eq . "secondary"}}bg-gray-600 text-white hover:bg-gray-700{{else if eq . "success"}}bg-green-600 text-white hover:bg-green-700{{else if eq . "danger"}}bg-red-600 text-white hover:bg-red-700{{else}}bg-blue-600 text-white hover:bg-blue-700{{end}}{{else}}bg-blue-600 text-white hover:bg-blue-700{{end}}" type="button" {{ with .Get "href" }} onclick="location.href='{{.}}'"{{end}} >{{.Inner}}</button>
+{{ with .Get "align" }}</div>{{end}}
 
-<!-- Boutton -->
+<!-- Button -->

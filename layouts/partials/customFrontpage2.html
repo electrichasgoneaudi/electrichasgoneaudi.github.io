@@ -47,9 +47,9 @@
     {{ partial "frontarticles.html" . }}
 
 
-    <div class="container">
-        <div class="row adocs-featuredBlocks">
-        <div class="col-12 col-lg-4 mb-5">
+    <div class="max-w-full mx-auto px-4">
+        <div class="flex flex-wrap -mx-4 adocs-featuredBlocks">
+        <div class="w-full lg:w-1/3 px-4 mb-5">
             <a href="{{ with .Site.GetPage `/models/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
                 <h2 class="a-h3">{{T "frontpage-sections-models-title"}}</h2>
                 <p class="a-js-truncate-2">{{T "frontpage-sections-models-description"}}</p>
@@ -64,8 +64,8 @@
                 <ul class="a-list a-list-noIcon">
                     <li class="a-dotted a-clickable a-list-hasRowLink">
                         <a href="{{ with .Site.GetPage `/models/e-tron/`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
-                            <div class="row">
-                                <div class="col">
+                            <div class="flex">
+                                <div class="flex-1">
                                     Audi e-tron
                                 </div>
                             </div>
@@ -73,8 +73,8 @@
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
                         <a href="{{ with .Site.GetPage `/models/e-tron-gt/`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
-                            <div class="row">
-                                <div class="col">
+                            <div class="flex">
+                                <div class="flex-1">
                                     Audi e-tron GT
                                 </div>
                             </div>
@@ -82,8 +82,8 @@
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
                         <a href="{{ with .Site.GetPage `/models/q4-e-tron`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
-                            <div class="row">
-                                <div class="col">
+                            <div class="flex">
+                                <div class="flex-1">
                                     Audi Q4 e-tron
                                 </div>
                             </div>
@@ -91,8 +91,8 @@
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
                         <a href="{{ with .Site.GetPage `/models/q5-e-tron`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
-                            <div class="row">
-                                <div class="col">
+                            <div class="flex">
+                                <div class="flex-1">
                                     Audi Q5 e-tron
                                 </div>
                             </div>
@@ -100,8 +100,8 @@
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
                         <a href="{{ with .Site.GetPage `/models/q6-e-tron/`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
-                            <div class="row">
-                                <div class="col">
+                            <div class="flex">
+                                <div class="flex-1">
                                     Audi Q6 e-tron
                                 </div>
                             </div>
@@ -109,8 +109,8 @@
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
                         <a href="{{ with .Site.GetPage `/models/q8-e-tron/`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
-                            <div class="row">
-                                <div class="col">
+                            <div class="flex">
+                                <div class="flex-1">
                                     Audi Q8 e-tron
                                 </div>
                             </div>
@@ -118,8 +118,8 @@
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
                         <a href="{{ with .Site.GetPage `/models/a4-e-tron/`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
-                            <div class="row">
-                                <div class="col">
+                            <div class="flex">
+                                <div class="flex-1">
                                     Audi A4 e-tron
                                 </div>
                             </div>
@@ -127,8 +127,8 @@
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
                         <a href="{{ with .Site.GetPage `/models/a6-e-tron/`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
-                            <div class="row">
-                                <div class="col">
+                            <div class="flex">
+                                <div class="flex-1">
                                     Audi A6 e-tron
                                 </div>
                             </div>
@@ -137,7 +137,7 @@
                 </ul>
             </div>
         </div>
-        <div class="col-12 col-lg-4 mb-5">
+        <div class="w-full lg:w-1/3 px-4 mb-5">
             <a href="{{ with .Site.GetPage `/technology/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
                 <h2 class="a-h3">{{T "frontpage-sections-technology-title"}}</h2>
                 <p class="a-js-truncate-2">{{T "frontpage-sections-technology-description"}}</p>
@@ -152,8 +152,8 @@
                 <ul class="a-list a-list-noIcon">
                 <li class="a-dotted a-clickable a-list-hasRowLink">
                         <a href="{{ with .Site.GetPage `/technology/bev-platforms`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
-                            <div class="row">
-                                <div class="col">
+                            <div class="flex">
+                                <div class="flex-1">
                                     BEV Platforms
                                 </div>
                             </div>
@@ -161,8 +161,8 @@
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
                         <a href="{{ with .Site.GetPage `/technology/battery/`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
-                            <div class="row">
-                                <div class="col">
+                            <div class="flex">
+                                <div class="flex-1">
                                     EV Battery
                                 </div>
                             </div>
@@ -170,8 +170,8 @@
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
                         <a href="{{ with .Site.GetPage `/technology/audiconnect/`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
-                            <div class="row">
-                                <div class="col">
+                            <div class="flex">
+                                <div class="flex-1">
                                     Audi connect
                                 </div>
                             </div>
@@ -180,7 +180,7 @@
                 </ul>
             </div>
         </div>
-        <div class="col-12 col-lg-4 mb-5">
+        <div class="w-full lg:w-1/3 px-4 mb-5">
               <a href="{{ with .Site.GetPage `/guides/`}}{{.RelPermalink}}{{end}}" class="a-illustrationLink">
                   <h2 class="a-h3">{{T "frontpage-sections-guides-title"}}</h2>
                   <p class="a-js-truncate-2">{{T "frontpage-sections-guides-description"}}</p>
@@ -195,8 +195,8 @@
                   <ul class="a-list a-list-noIcon">
                       <li class="a-dotted a-clickable a-list-hasRowLink">
                           <a href="{{ with .Site.GetPage `/guides/onepedaldriving/`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
-                              <div class="row">
-                                  <div class="col">
+                              <div class="flex">
+                                  <div class="flex-1">
                                     {{T "guide-one-pedal-driving"}}
                                   </div>
                               </div>
@@ -204,8 +204,8 @@
                       </li>
                       <li class="a-dotted a-clickable a-list-hasRowLink">
                           <a href="{{ with .Site.GetPage `/guides/protectingbattery/`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
-                              <div class="row">
-                                  <div class="col">
+                              <div class="flex">
+                                  <div class="flex-1">
                                     {{T "guide-preserving-battery"}}
                                    </div>
                               </div>
@@ -213,8 +213,8 @@
                       </li>
                       <li class="a-dotted a-clickable a-list-hasRowLink">
                           <a href="{{ with .Site.GetPage `/guides/understandingrange/`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
-                              <div class="row">
-                                  <div class="col">
+                              <div class="flex">
+                                  <div class="flex-1">
                                     {{T "guide-understanding-range"}}
                                   </div>
                               </div>
@@ -222,8 +222,8 @@
                       </li>
                       <li class="a-dotted a-clickable a-list-hasRowLink">
                         <a href="{{ with .Site.GetPage `/guides/checkingbatteryhealth/`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
-                            <div class="row">
-                                <div class="col">
+                            <div class="flex">
+                                <div class="flex-1">
                                     {{T "guide-checking-battery"}}
                                 </div>
                             </div>
@@ -231,8 +231,8 @@
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
                         <a href="{{ with .Site.GetPage `/guides/regen/`}}{{.RelPermalink}}{{end}}" class="a-list-rowLink">
-                            <div class="row">
-                                <div class="col">
+                            <div class="flex">
+                                <div class="flex-1">
                                     {{T "guide-regen"}}
                                 </div>
                             </div>
@@ -242,19 +242,19 @@
               </div>
           </div>
       </div>
-      <div class="col-12 col-lg-12 mb-12">
+      <div class="w-full mb-12">
         <script async src="https://cse.google.com/cse.js?cx=f03718c964e0a8d16"></script>
         <div class="gcse-search"></div>
       </div>
 <br>
       <div class="adocs-caseBlock a-bgBlueDark">
-          <div class="row mx-sm-0 mb-6 mb-lg-8">
-              <div class="col-12 col-md-5 p-0">
+          <div class="flex flex-wrap mx-0 sm:mx-0 mb-6 lg:mb-8">
+              <div class="w-full md:w-5/12 p-0">
                   <div class="">
-                      <img src="/images/buying2s.jpg" class="mx-4 mt-4" class="img-fluid" alt="Buying guide">
+                      <img src="/images/buying2s.jpg" class="mx-4 mt-4 max-w-full" alt="Buying guide">
                   </div>
               </div>
-              <div class="col-12 col-md-7 d-flex flex-column align-self-center pl-3 pl-md-5 pl-lg-0 pr-4 pr-lg-8">
+              <div class="w-full md:w-7/12 flex flex-col justify-center pl-3 md:pl-5 lg:pl-0 pr-4 lg:pr-8">
                   <h2 class="a-fontSizeXL mb-1">{{T "guide-buying-title"}}</h2>
                   <p class="a-fontSizeS mb-4">{{T "guide-buying-description"}}</p>
                   <ul>
