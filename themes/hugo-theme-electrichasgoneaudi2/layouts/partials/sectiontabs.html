@@ -10,7 +10,7 @@
 {{safeHTML .Params.head}}
     {{ if and (eq . $currentNode) .Params.shownavtabs }}
     <div class="border-b border-gray-200 mb-6">
-      <nav class="-mb-px flex space-x-8 overflow-x-auto">
+      <nav class="-mb-px flex flex-wrap gap-x-8 gap-y-2">
         <div class="whitespace-nowrap">
           {{if .Params.navicon }}
           <a class="border-b-2 border-blue-500 py-2 px-1 text-sm font-medium text-blue-600" aria-current="page" href="{{ .RelPermalink}}"><i class="{{ .Params.navicon }}"></i> {{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}</a>
@@ -32,7 +32,7 @@
     {{ end }}
     {{ if and (eq . $currentNode) .Parent.Params.shownavtabs }}
      <div class="border-b border-gray-200 mb-6">
-       <nav class="-mb-px flex space-x-8 overflow-x-auto">
+       <nav class="-mb-px flex flex-wrap gap-x-8 gap-y-2">
          <div class="whitespace-nowrap">
           {{if .Parent.Params.navicon }}
           <a class="border-b-2 border-transparent py-2 px-1 text-sm font-medium text-gray-500 hover:text-gray-700 hover:border-gray-300" aria-current="page" href="{{ .Parent.RelPermalink}}"><i class="{{ .Parent.Params.navicon }}"></i> {{safeHTML .Params.Pre}}{{.Parent.LinkTitle}}{{safeHTML .Params.Post}}</a>
@@ -53,7 +53,7 @@
     {{ end }}
     {{ if eq .RelPermalink $currentNode.Params.sectiontabs }}
     <div class="border-b border-gray-200 mb-6">
-      <nav class="-mb-px flex space-x-8 overflow-x-auto">
+      <nav class="-mb-px flex flex-wrap gap-x-8 gap-y-2">
         <div class="whitespace-nowrap">
          {{if .Parent.Params.navicon }}
          <a class="border-b-2 border-transparent py-2 px-1 text-sm font-medium text-gray-500 hover:text-gray-700 hover:border-gray-300" aria-current="page" href="{{ .Parent.RelPermalink}}"><i class="{{ .Parent.Params.navicon }}"></i> {{safeHTML .Params.Pre}}{{.Parent.LinkTitle}}{{safeHTML .Params.Post}}</a>
