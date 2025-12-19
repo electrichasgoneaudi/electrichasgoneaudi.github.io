@@ -1,14 +1,14 @@
 {{if not .IsHome}}
 {{if eq .Kind "taxonomy"}}
-  <h1>Tag: {{.Title}}</h1>
+  <h1 class="text-4xl font-bold text-gray-900 mb-6">Tag: {{.Title}}</h1>
 {{else}}
-  <h1>
+  <h1 class="text-4xl font-bold text-gray-900 mb-4">
     {{.Title}}
     {{if .Params.titleSup }}
       <sup>{{.Params.titleSup}}</sup>
     {{end}}
   </h1>
-  <p class="lead">{{.Description}}</p>
+  <p class="text-lg text-gray-600 mb-8 leading-relaxed">{{.Description}}</p>
 {{end}}
 {{end}}
 
