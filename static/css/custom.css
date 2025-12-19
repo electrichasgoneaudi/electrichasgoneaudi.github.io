@@ -147,6 +147,28 @@
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
 }
 
+/* Numbered list styling to replace Bootstrap list-group-numbered */
+.counter-reset {
+    counter-reset: list-counter;
+}
+
+.counter-item {
+    counter-increment: list-counter;
+    position: relative;
+}
+
+.counter-item::before {
+    content: counter(list-counter) ". ";
+    position: absolute;
+    left: 1rem;
+    color: #6b7280;
+    font-weight: 500;
+}
+
+.counter-item a {
+    padding-left: 2rem;
+}
+
 /* External links */
 .a-illustration-icon {
     background: #022F51;
