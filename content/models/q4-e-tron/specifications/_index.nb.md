@@ -10,10 +10,24 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD010 -->
 <div class="space-y-4">
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q4 40 e-tron</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-88444e80-9181-415f-a5d7-3888f7d2222a')"
+                aria-expanded="false"
+                aria-controls="accordion-88444e80-9181-415f-a5d7-3888f7d2222a">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q4 40 e-tron</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-88444e80-9181-415f-a5d7-3888f7d2222a"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-88444e80-9181-415f-a5d7-3888f7d2222a"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-88444e80-9181-415f-a5d7-3888f7d2222a">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Ytelser</h2>
 
@@ -1606,10 +1620,24 @@ Denne modellen er tilgjengelig med fem seter.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q4 35 e-tron</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-8a79e429-50cf-4d0c-a992-41150a5cbcfd')"
+                aria-expanded="false"
+                aria-controls="accordion-8a79e429-50cf-4d0c-a992-41150a5cbcfd">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q4 35 e-tron</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-8a79e429-50cf-4d0c-a992-41150a5cbcfd"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-8a79e429-50cf-4d0c-a992-41150a5cbcfd"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-8a79e429-50cf-4d0c-a992-41150a5cbcfd">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Ytelser</h2>
 
@@ -3202,10 +3230,24 @@ Denne modellen er tilgjengelig med fem seter.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q4 45 e-tron quattro</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-dd1b9d7a-f6e6-4fcb-b270-2dcffb734a3f')"
+                aria-expanded="false"
+                aria-controls="accordion-dd1b9d7a-f6e6-4fcb-b270-2dcffb734a3f">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q4 45 e-tron quattro</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-dd1b9d7a-f6e6-4fcb-b270-2dcffb734a3f"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-dd1b9d7a-f6e6-4fcb-b270-2dcffb734a3f"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-dd1b9d7a-f6e6-4fcb-b270-2dcffb734a3f">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Ytelser</h2>
 
@@ -4806,10 +4848,24 @@ Denne modellen er tilgjengelig med fem seter.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q4 45 e-tron</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-d4db22ef-76ef-4758-8898-266602f8feee')"
+                aria-expanded="false"
+                aria-controls="accordion-d4db22ef-76ef-4758-8898-266602f8feee">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q4 45 e-tron</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-d4db22ef-76ef-4758-8898-266602f8feee"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-d4db22ef-76ef-4758-8898-266602f8feee"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-d4db22ef-76ef-4758-8898-266602f8feee">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Ytelser</h2>
 
@@ -6410,10 +6466,24 @@ Denne modellen er tilgjengelig med fem seter.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q4 55 e-tron quattro</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-ba3ad26e-aacc-48b5-82c0-d612225e9046')"
+                aria-expanded="false"
+                aria-controls="accordion-ba3ad26e-aacc-48b5-82c0-d612225e9046">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q4 55 e-tron quattro</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-ba3ad26e-aacc-48b5-82c0-d612225e9046"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-ba3ad26e-aacc-48b5-82c0-d612225e9046"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-ba3ad26e-aacc-48b5-82c0-d612225e9046">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Ytelser</h2>
 
@@ -8030,10 +8100,24 @@ Denne modellen er tilgjengelig med fem seter.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q4 Sportback 45 e-tron quattro</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-0cd54220-0fb0-41cb-a5e7-8bbc6652ff7c')"
+                aria-expanded="false"
+                aria-controls="accordion-0cd54220-0fb0-41cb-a5e7-8bbc6652ff7c">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q4 Sportback 45 e-tron quattro</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-0cd54220-0fb0-41cb-a5e7-8bbc6652ff7c"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-0cd54220-0fb0-41cb-a5e7-8bbc6652ff7c"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-0cd54220-0fb0-41cb-a5e7-8bbc6652ff7c">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Ytelser</h2>
 
@@ -9634,10 +9718,24 @@ Denne modellen er tilgjengelig med fem seter.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q4 Sportback 45 e-tron</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-bb12ae88-11b8-46af-9ff7-a9824b81fe99')"
+                aria-expanded="false"
+                aria-controls="accordion-bb12ae88-11b8-46af-9ff7-a9824b81fe99">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q4 Sportback 45 e-tron</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-bb12ae88-11b8-46af-9ff7-a9824b81fe99"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-bb12ae88-11b8-46af-9ff7-a9824b81fe99"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-bb12ae88-11b8-46af-9ff7-a9824b81fe99">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Ytelser</h2>
 
@@ -11238,10 +11336,24 @@ Denne modellen er tilgjengelig med fem seter.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q4 Sportback 55 e-tron quattro</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-47fcea70-41c7-4c07-a8f1-cc98fcf8d246')"
+                aria-expanded="false"
+                aria-controls="accordion-47fcea70-41c7-4c07-a8f1-cc98fcf8d246">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q4 Sportback 55 e-tron quattro</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-47fcea70-41c7-4c07-a8f1-cc98fcf8d246"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-47fcea70-41c7-4c07-a8f1-cc98fcf8d246"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-47fcea70-41c7-4c07-a8f1-cc98fcf8d246">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Ytelser</h2>
 
@@ -12842,10 +12954,24 @@ Denne modellen er tilgjengelig med fem seter.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q4 35 e-tron (GEN1)</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-b44f0a24-20b9-4431-884e-9733fe588bdd')"
+                aria-expanded="false"
+                aria-controls="accordion-b44f0a24-20b9-4431-884e-9733fe588bdd">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q4 35 e-tron (GEN1)</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-b44f0a24-20b9-4431-884e-9733fe588bdd"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-b44f0a24-20b9-4431-884e-9733fe588bdd"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-b44f0a24-20b9-4431-884e-9733fe588bdd">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Ytelser</h2>
 
@@ -14438,10 +14564,24 @@ Denne modellen er tilgjengelig med fem seter.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q4 40 e-tron (GEN1)</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-22e3e436-fad7-48c1-a8d1-e79813350b5a')"
+                aria-expanded="false"
+                aria-controls="accordion-22e3e436-fad7-48c1-a8d1-e79813350b5a">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q4 40 e-tron (GEN1)</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-22e3e436-fad7-48c1-a8d1-e79813350b5a"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-22e3e436-fad7-48c1-a8d1-e79813350b5a"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-22e3e436-fad7-48c1-a8d1-e79813350b5a">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Ytelser</h2>
 
@@ -16034,10 +16174,24 @@ Denne modellen er tilgjengelig med fem seter.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q4 45 e-tron quattro (GEN1)</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-f5c036e0-81ba-4bd7-8cd3-75a24af83054')"
+                aria-expanded="false"
+                aria-controls="accordion-f5c036e0-81ba-4bd7-8cd3-75a24af83054">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q4 45 e-tron quattro (GEN1)</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-f5c036e0-81ba-4bd7-8cd3-75a24af83054"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-f5c036e0-81ba-4bd7-8cd3-75a24af83054"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-f5c036e0-81ba-4bd7-8cd3-75a24af83054">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Ytelser</h2>
 
@@ -17630,10 +17784,24 @@ Denne modellen er tilgjengelig med fem seter.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q4 50 e-tron quattro</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-03151810-caa3-4f81-883e-0c708b3b5032')"
+                aria-expanded="false"
+                aria-controls="accordion-03151810-caa3-4f81-883e-0c708b3b5032">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q4 50 e-tron quattro</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-03151810-caa3-4f81-883e-0c708b3b5032"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-03151810-caa3-4f81-883e-0c708b3b5032"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-03151810-caa3-4f81-883e-0c708b3b5032">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Ytelser</h2>
 
@@ -19250,10 +19418,24 @@ Denne modellen er tilgjengelig med fem seter.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q4 Sportback 35 e-tron</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-cf68d851-72c1-4efc-81a3-3b4ed8338019')"
+                aria-expanded="false"
+                aria-controls="accordion-cf68d851-72c1-4efc-81a3-3b4ed8338019">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q4 Sportback 35 e-tron</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-cf68d851-72c1-4efc-81a3-3b4ed8338019"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-cf68d851-72c1-4efc-81a3-3b4ed8338019"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-cf68d851-72c1-4efc-81a3-3b4ed8338019">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Ytelser</h2>
 
@@ -20846,10 +21028,24 @@ Denne modellen er tilgjengelig med fem seter.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q4 Sportback 40 e-tron</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-01ed402e-3db5-4537-9403-41d5bf4f4232')"
+                aria-expanded="false"
+                aria-controls="accordion-01ed402e-3db5-4537-9403-41d5bf4f4232">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q4 Sportback 40 e-tron</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-01ed402e-3db5-4537-9403-41d5bf4f4232"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-01ed402e-3db5-4537-9403-41d5bf4f4232"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-01ed402e-3db5-4537-9403-41d5bf4f4232">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Ytelser</h2>
 
@@ -22450,10 +22646,24 @@ Denne modellen er tilgjengelig med fem seter.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q4 Sportback 45 e-tron quattro (GEN1)</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-1c01e05f-6270-49ff-ae52-f75e5b47b711')"
+                aria-expanded="false"
+                aria-controls="accordion-1c01e05f-6270-49ff-ae52-f75e5b47b711">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q4 Sportback 45 e-tron quattro (GEN1)</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-1c01e05f-6270-49ff-ae52-f75e5b47b711"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-1c01e05f-6270-49ff-ae52-f75e5b47b711"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-1c01e05f-6270-49ff-ae52-f75e5b47b711">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Ytelser</h2>
 
@@ -24054,10 +24264,24 @@ Denne modellen er tilgjengelig med fem seter.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q4 Sportback 50 e-tron quattro</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-03348e6f-06f7-49c1-8223-1409baa77082')"
+                aria-expanded="false"
+                aria-controls="accordion-03348e6f-06f7-49c1-8223-1409baa77082">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q4 Sportback 50 e-tron quattro</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-03348e6f-06f7-49c1-8223-1409baa77082"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-03348e6f-06f7-49c1-8223-1409baa77082"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-03348e6f-06f7-49c1-8223-1409baa77082">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Ytelser</h2>
 
@@ -25682,3 +25906,28 @@ Denne modellen er tilgjengelig med fem seter.
 </div>
 </div>
 </div>
+
+<script>
+function toggleAccordion(targetId) {
+    const content = document.getElementById(targetId);
+    const icon = document.getElementById('icon-' + targetId);
+    const button = content.previousElementSibling;
+
+    if (content.classList.contains('hidden')) {
+        // Open
+        content.classList.remove('hidden');
+        icon.style.transform = 'rotate(180deg)';
+        button.setAttribute('aria-expanded', 'true');
+    } else {
+        // Close
+        content.classList.add('hidden');
+        icon.style.transform = 'rotate(0deg)';
+        button.setAttribute('aria-expanded', 'false');
+    }
+}
+
+// Optional: Close all accordions when page loads
+document.addEventListener('DOMContentLoaded', function() {
+    // All accordions start closed by default
+});
+</script>

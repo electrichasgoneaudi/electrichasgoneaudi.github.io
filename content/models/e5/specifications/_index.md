@@ -10,10 +10,24 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD010 -->
 <div class="space-y-4">
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi E5 Sportback Pioneer</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-2319fb52-350c-4f07-9778-ae0f16f5a016')"
+                aria-expanded="false"
+                aria-controls="accordion-2319fb52-350c-4f07-9778-ae0f16f5a016">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi E5 Sportback Pioneer</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-2319fb52-350c-4f07-9778-ae0f16f5a016"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-2319fb52-350c-4f07-9778-ae0f16f5a016"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-2319fb52-350c-4f07-9778-ae0f16f5a016">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Performance</h2>
 
@@ -1005,10 +1019,24 @@ This model is available with a seat configuration with five seats.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi E5 Sportback Pioneer Plus</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-2a7d7a67-8e07-4171-a8b1-8723088aed42')"
+                aria-expanded="false"
+                aria-controls="accordion-2a7d7a67-8e07-4171-a8b1-8723088aed42">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi E5 Sportback Pioneer Plus</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-2a7d7a67-8e07-4171-a8b1-8723088aed42"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-2a7d7a67-8e07-4171-a8b1-8723088aed42"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-2a7d7a67-8e07-4171-a8b1-8723088aed42">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Performance</h2>
 
@@ -2000,10 +2028,24 @@ This model is available with a seat configuration with five seats.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi E5 Sportback Pioneer quattro</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-6c208ad4-5f50-4f6d-9df1-f5d64b7a1a4f')"
+                aria-expanded="false"
+                aria-controls="accordion-6c208ad4-5f50-4f6d-9df1-f5d64b7a1a4f">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi E5 Sportback Pioneer quattro</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-6c208ad4-5f50-4f6d-9df1-f5d64b7a1a4f"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-6c208ad4-5f50-4f6d-9df1-f5d64b7a1a4f"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-6c208ad4-5f50-4f6d-9df1-f5d64b7a1a4f">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Performance</h2>
 
@@ -2995,10 +3037,24 @@ This model is available with a seat configuration with five seats.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi E5 Sportback quattro</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-908cbe04-418b-42ca-b772-3f9bc6b8a902')"
+                aria-expanded="false"
+                aria-controls="accordion-908cbe04-418b-42ca-b772-3f9bc6b8a902">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi E5 Sportback quattro</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-908cbe04-418b-42ca-b772-3f9bc6b8a902"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-908cbe04-418b-42ca-b772-3f9bc6b8a902"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-908cbe04-418b-42ca-b772-3f9bc6b8a902">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Performance</h2>
 
@@ -3990,3 +4046,28 @@ This model is available with a seat configuration with five seats.
 </div>
 </div>
 </div>
+
+<script>
+function toggleAccordion(targetId) {
+    const content = document.getElementById(targetId);
+    const icon = document.getElementById('icon-' + targetId);
+    const button = content.previousElementSibling;
+
+    if (content.classList.contains('hidden')) {
+        // Open
+        content.classList.remove('hidden');
+        icon.style.transform = 'rotate(180deg)';
+        button.setAttribute('aria-expanded', 'true');
+    } else {
+        // Close
+        content.classList.add('hidden');
+        icon.style.transform = 'rotate(0deg)';
+        button.setAttribute('aria-expanded', 'false');
+    }
+}
+
+// Optional: Close all accordions when page loads
+document.addEventListener('DOMContentLoaded', function() {
+    // All accordions start closed by default
+});
+</script>

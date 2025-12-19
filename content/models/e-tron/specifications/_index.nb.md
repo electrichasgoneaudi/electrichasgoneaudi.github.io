@@ -10,10 +10,24 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD010 -->
 <div class="space-y-4">
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi e-tron 50</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-3b595a0e-3370-4759-8e60-2b92e59825d1')"
+                aria-expanded="false"
+                aria-controls="accordion-3b595a0e-3370-4759-8e60-2b92e59825d1">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi e-tron 50</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-3b595a0e-3370-4759-8e60-2b92e59825d1"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-3b595a0e-3370-4759-8e60-2b92e59825d1"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-3b595a0e-3370-4759-8e60-2b92e59825d1">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Ytelser</h2>
 
@@ -1964,10 +1978,24 @@ Denne modellen er tilgjengelig med fem seter.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi e-tron 50 Sportback</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-3020fd78-a5a9-4e33-a13b-f87b418a4e92')"
+                aria-expanded="false"
+                aria-controls="accordion-3020fd78-a5a9-4e33-a13b-f87b418a4e92">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi e-tron 50 Sportback</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-3020fd78-a5a9-4e33-a13b-f87b418a4e92"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-3020fd78-a5a9-4e33-a13b-f87b418a4e92"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-3020fd78-a5a9-4e33-a13b-f87b418a4e92">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Ytelser</h2>
 
@@ -3974,10 +4002,24 @@ Denne modellen er tilgjengelig med fem seter.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi e-tron 55</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-38e6acba-0cbd-4e9a-b361-54774372483a')"
+                aria-expanded="false"
+                aria-controls="accordion-38e6acba-0cbd-4e9a-b361-54774372483a">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi e-tron 55</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-38e6acba-0cbd-4e9a-b361-54774372483a"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-38e6acba-0cbd-4e9a-b361-54774372483a"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-38e6acba-0cbd-4e9a-b361-54774372483a">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Ytelser</h2>
 
@@ -5658,10 +5700,24 @@ Denne modellen er tilgjengelig med fem seter.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi e-tron 55 Sportback</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-d45cb971-1f83-4bbf-ad16-a73730c5def6')"
+                aria-expanded="false"
+                aria-controls="accordion-d45cb971-1f83-4bbf-ad16-a73730c5def6">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi e-tron 55 Sportback</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-d45cb971-1f83-4bbf-ad16-a73730c5def6"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-d45cb971-1f83-4bbf-ad16-a73730c5def6"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-d45cb971-1f83-4bbf-ad16-a73730c5def6">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Ytelser</h2>
 
@@ -7636,10 +7692,24 @@ Denne modellen er tilgjengelig med fem seter.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi e-tron S</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-46e25a59-d998-478a-b446-496e1cb9e69b')"
+                aria-expanded="false"
+                aria-controls="accordion-46e25a59-d998-478a-b446-496e1cb9e69b">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi e-tron S</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-46e25a59-d998-478a-b446-496e1cb9e69b"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-46e25a59-d998-478a-b446-496e1cb9e69b"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-46e25a59-d998-478a-b446-496e1cb9e69b">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Ytelser</h2>
 
@@ -9487,10 +9557,24 @@ Denne modellen er tilgjengelig med fem seter.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi e-tron S Sportback</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-c78e248c-ed2b-4086-abce-618c569094e7')"
+                aria-expanded="false"
+                aria-controls="accordion-c78e248c-ed2b-4086-abce-618c569094e7">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi e-tron S Sportback</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-c78e248c-ed2b-4086-abce-618c569094e7"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-c78e248c-ed2b-4086-abce-618c569094e7"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-c78e248c-ed2b-4086-abce-618c569094e7">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Ytelser</h2>
 
@@ -11338,3 +11422,28 @@ Denne modellen er tilgjengelig med fem seter.
 </div>
 </div>
 </div>
+
+<script>
+function toggleAccordion(targetId) {
+    const content = document.getElementById(targetId);
+    const icon = document.getElementById('icon-' + targetId);
+    const button = content.previousElementSibling;
+
+    if (content.classList.contains('hidden')) {
+        // Open
+        content.classList.remove('hidden');
+        icon.style.transform = 'rotate(180deg)';
+        button.setAttribute('aria-expanded', 'true');
+    } else {
+        // Close
+        content.classList.add('hidden');
+        icon.style.transform = 'rotate(0deg)';
+        button.setAttribute('aria-expanded', 'false');
+    }
+}
+
+// Optional: Close all accordions when page loads
+document.addEventListener('DOMContentLoaded', function() {
+    // All accordions start closed by default
+});
+</script>

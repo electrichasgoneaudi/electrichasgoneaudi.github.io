@@ -10,10 +10,24 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD010 -->
 <div class="space-y-4">
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q8 50 e-tron</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-9dbfb395-bdd4-4c45-859d-863ec7c75b11')"
+                aria-expanded="false"
+                aria-controls="accordion-9dbfb395-bdd4-4c45-859d-863ec7c75b11">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q8 50 e-tron</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-9dbfb395-bdd4-4c45-859d-863ec7c75b11"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-9dbfb395-bdd4-4c45-859d-863ec7c75b11"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-9dbfb395-bdd4-4c45-859d-863ec7c75b11">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Performance</h2>
 
@@ -1670,10 +1684,24 @@ This model is available with a seat configuration with five seats.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q8 Sportback 50 e-tron</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-087b509e-deec-4de5-8a87-113179790fac')"
+                aria-expanded="false"
+                aria-controls="accordion-087b509e-deec-4de5-8a87-113179790fac">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q8 Sportback 50 e-tron</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-087b509e-deec-4de5-8a87-113179790fac"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-087b509e-deec-4de5-8a87-113179790fac"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-087b509e-deec-4de5-8a87-113179790fac">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Performance</h2>
 
@@ -3330,10 +3358,24 @@ This model is available with a seat configuration with five seats.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q8 55 e-tron</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-e93b7fdb-5a18-464e-97a5-cb29cb1a8daa')"
+                aria-expanded="false"
+                aria-controls="accordion-e93b7fdb-5a18-464e-97a5-cb29cb1a8daa">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q8 55 e-tron</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-e93b7fdb-5a18-464e-97a5-cb29cb1a8daa"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-e93b7fdb-5a18-464e-97a5-cb29cb1a8daa"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-e93b7fdb-5a18-464e-97a5-cb29cb1a8daa">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Performance</h2>
 
@@ -5030,10 +5072,24 @@ This model is available with a seat configuration with five seats.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q8 Sportback 55 e-tron</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-2e5ee497-9970-4519-8898-b10188da397d')"
+                aria-expanded="false"
+                aria-controls="accordion-2e5ee497-9970-4519-8898-b10188da397d">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q8 Sportback 55 e-tron</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-2e5ee497-9970-4519-8898-b10188da397d"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-2e5ee497-9970-4519-8898-b10188da397d"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-2e5ee497-9970-4519-8898-b10188da397d">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Performance</h2>
 
@@ -6730,10 +6786,24 @@ This model is available with a seat configuration with five seats.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q8 e-tron edition Dakar</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-61792853-4ef3-4879-8a4a-15c7f99c78aa')"
+                aria-expanded="false"
+                aria-controls="accordion-61792853-4ef3-4879-8a4a-15c7f99c78aa">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q8 e-tron edition Dakar</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-61792853-4ef3-4879-8a4a-15c7f99c78aa"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-61792853-4ef3-4879-8a4a-15c7f99c78aa"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-61792853-4ef3-4879-8a4a-15c7f99c78aa">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Performance</h2>
 
@@ -8255,10 +8325,24 @@ This model is available with a seat configuration with five seats.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi SQ8 e-tron</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-a429ccf4-1874-4c92-b364-b45a1812fe37')"
+                aria-expanded="false"
+                aria-controls="accordion-a429ccf4-1874-4c92-b364-b45a1812fe37">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi SQ8 e-tron</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-a429ccf4-1874-4c92-b364-b45a1812fe37"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-a429ccf4-1874-4c92-b364-b45a1812fe37"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-a429ccf4-1874-4c92-b364-b45a1812fe37">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Performance</h2>
 
@@ -10106,10 +10190,24 @@ This model is available with a seat configuration with five seats.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi SQ8 Sportback e-tron</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-413ade08-f53d-4c96-8d95-6b202003d3c7')"
+                aria-expanded="false"
+                aria-controls="accordion-413ade08-f53d-4c96-8d95-6b202003d3c7">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi SQ8 Sportback e-tron</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-413ade08-f53d-4c96-8d95-6b202003d3c7"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-413ade08-f53d-4c96-8d95-6b202003d3c7"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-413ade08-f53d-4c96-8d95-6b202003d3c7">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Performance</h2>
 
@@ -11957,3 +12055,28 @@ This model is available with a seat configuration with five seats.
 </div>
 </div>
 </div>
+
+<script>
+function toggleAccordion(targetId) {
+    const content = document.getElementById(targetId);
+    const icon = document.getElementById('icon-' + targetId);
+    const button = content.previousElementSibling;
+
+    if (content.classList.contains('hidden')) {
+        // Open
+        content.classList.remove('hidden');
+        icon.style.transform = 'rotate(180deg)';
+        button.setAttribute('aria-expanded', 'true');
+    } else {
+        // Close
+        content.classList.add('hidden');
+        icon.style.transform = 'rotate(0deg)';
+        button.setAttribute('aria-expanded', 'false');
+    }
+}
+
+// Optional: Close all accordions when page loads
+document.addEventListener('DOMContentLoaded', function() {
+    // All accordions start closed by default
+});
+</script>

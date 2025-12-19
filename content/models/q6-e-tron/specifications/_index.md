@@ -10,10 +10,24 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD010 -->
 <div class="space-y-4">
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q6L Sportback e-tron quattro</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-ec26cda5-16ac-4157-a18d-2df87771ba69')"
+                aria-expanded="false"
+                aria-controls="accordion-ec26cda5-16ac-4157-a18d-2df87771ba69">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q6L Sportback e-tron quattro</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-ec26cda5-16ac-4157-a18d-2df87771ba69"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-ec26cda5-16ac-4157-a18d-2df87771ba69"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-ec26cda5-16ac-4157-a18d-2df87771ba69">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Performance</h2>
 
@@ -1115,10 +1129,24 @@ This model is available with a seat configuration with five seats.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q6L e-tron quattro</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-d3459866-4569-409e-9697-5a841863f61a')"
+                aria-expanded="false"
+                aria-controls="accordion-d3459866-4569-409e-9697-5a841863f61a">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q6L e-tron quattro</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-d3459866-4569-409e-9697-5a841863f61a"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-d3459866-4569-409e-9697-5a841863f61a"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-d3459866-4569-409e-9697-5a841863f61a">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Performance</h2>
 
@@ -2220,10 +2248,24 @@ This model is available with a seat configuration with five seats.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q6 e-tron</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-cb090444-9a1d-470d-a03c-089fc95f1d3d')"
+                aria-expanded="false"
+                aria-controls="accordion-cb090444-9a1d-470d-a03c-089fc95f1d3d">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q6 e-tron</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-cb090444-9a1d-470d-a03c-089fc95f1d3d"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-cb090444-9a1d-470d-a03c-089fc95f1d3d"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-cb090444-9a1d-470d-a03c-089fc95f1d3d">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Performance</h2>
 
@@ -4099,10 +4141,24 @@ This model is available with a seat configuration with five seats.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q6 e-tron performance</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-1dab2cfe-1d30-4338-836d-fa389d7d6d87')"
+                aria-expanded="false"
+                aria-controls="accordion-1dab2cfe-1d30-4338-836d-fa389d7d6d87">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q6 e-tron performance</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-1dab2cfe-1d30-4338-836d-fa389d7d6d87"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-1dab2cfe-1d30-4338-836d-fa389d7d6d87"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-1dab2cfe-1d30-4338-836d-fa389d7d6d87">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Performance</h2>
 
@@ -5938,10 +5994,24 @@ This model is available with a seat configuration with five seats.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q6 e-tron quattro</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-e10ab496-ccf3-41f4-9e96-2496c1dca970')"
+                aria-expanded="false"
+                aria-controls="accordion-e10ab496-ccf3-41f4-9e96-2496c1dca970">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q6 e-tron quattro</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-e10ab496-ccf3-41f4-9e96-2496c1dca970"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-e10ab496-ccf3-41f4-9e96-2496c1dca970"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-e10ab496-ccf3-41f4-9e96-2496c1dca970">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Performance</h2>
 
@@ -7777,10 +7847,24 @@ This model is available with a seat configuration with five seats.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q6 Sportback e-tron</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-e7e2b239-8596-4119-bf67-292ce276a030')"
+                aria-expanded="false"
+                aria-controls="accordion-e7e2b239-8596-4119-bf67-292ce276a030">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q6 Sportback e-tron</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-e7e2b239-8596-4119-bf67-292ce276a030"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-e7e2b239-8596-4119-bf67-292ce276a030"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-e7e2b239-8596-4119-bf67-292ce276a030">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Performance</h2>
 
@@ -9640,10 +9724,24 @@ This model is available with a seat configuration with five seats.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q6 Sportback e-tron performance</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-cd8a76aa-d67b-48b2-92f7-9e6a05de5743')"
+                aria-expanded="false"
+                aria-controls="accordion-cd8a76aa-d67b-48b2-92f7-9e6a05de5743">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q6 Sportback e-tron performance</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-cd8a76aa-d67b-48b2-92f7-9e6a05de5743"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-cd8a76aa-d67b-48b2-92f7-9e6a05de5743"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-cd8a76aa-d67b-48b2-92f7-9e6a05de5743">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Performance</h2>
 
@@ -11479,10 +11577,24 @@ This model is available with a seat configuration with five seats.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi Q6 Sportback e-tron quattro</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-6372714d-9d5c-4d7c-a473-40b384eacbfb')"
+                aria-expanded="false"
+                aria-controls="accordion-6372714d-9d5c-4d7c-a473-40b384eacbfb">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi Q6 Sportback e-tron quattro</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-6372714d-9d5c-4d7c-a473-40b384eacbfb"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-6372714d-9d5c-4d7c-a473-40b384eacbfb"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-6372714d-9d5c-4d7c-a473-40b384eacbfb">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Performance</h2>
 
@@ -13302,10 +13414,24 @@ This model is available with a seat configuration with five seats.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi SQ6 e-tron</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-8308a949-911b-4bb8-be98-e6bed5899448')"
+                aria-expanded="false"
+                aria-controls="accordion-8308a949-911b-4bb8-be98-e6bed5899448">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi SQ6 e-tron</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-8308a949-911b-4bb8-be98-e6bed5899448"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-8308a949-911b-4bb8-be98-e6bed5899448"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-8308a949-911b-4bb8-be98-e6bed5899448">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Performance</h2>
 
@@ -14911,10 +15037,24 @@ This model is available with a seat configuration with five seats.
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
-            <h3 class="text-lg font-semibold text-gray-900">Audi SQ6 Sportback e-tron</h3>
-        </div>
-        <div class="p-4">
+        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
+                onclick="toggleAccordion('accordion-3d2dbc1f-4296-4bca-9e71-6104634ec4e6')"
+                aria-expanded="false"
+                aria-controls="accordion-3d2dbc1f-4296-4bca-9e71-6104634ec4e6">
+            <div class="flex justify-between items-center">
+                <h3 class="text-lg font-semibold text-gray-900">Audi SQ6 Sportback e-tron</h3>
+                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
+                     id="icon-accordion-3d2dbc1f-4296-4bca-9e71-6104634ec4e6"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+            </div>
+        </button>
+        <div id="accordion-3d2dbc1f-4296-4bca-9e71-6104634ec4e6"
+             class="hidden p-4"
+             aria-labelledby="button-accordion-3d2dbc1f-4296-4bca-9e71-6104634ec4e6">
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Performance</h2>
 
@@ -16512,3 +16652,28 @@ This model is available with a seat configuration with five seats.
 </div>
 </div>
 </div>
+
+<script>
+function toggleAccordion(targetId) {
+    const content = document.getElementById(targetId);
+    const icon = document.getElementById('icon-' + targetId);
+    const button = content.previousElementSibling;
+
+    if (content.classList.contains('hidden')) {
+        // Open
+        content.classList.remove('hidden');
+        icon.style.transform = 'rotate(180deg)';
+        button.setAttribute('aria-expanded', 'true');
+    } else {
+        // Close
+        content.classList.add('hidden');
+        icon.style.transform = 'rotate(0deg)';
+        button.setAttribute('aria-expanded', 'false');
+    }
+}
+
+// Optional: Close all accordions when page loads
+document.addEventListener('DOMContentLoaded', function() {
+    // All accordions start closed by default
+});
+</script>
