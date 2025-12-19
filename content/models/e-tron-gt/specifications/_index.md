@@ -8,1561 +8,1557 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-<div class="accordion" id="accordionPanelsStayOpenExample">
-    <div class="accordion-item">
-        <h2 class="accordion-header">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapse8aa6fd83-c691-44a0-b6d6-caf127a05740" aria-expanded="true" aria-controls="panelsStayOpen-collapse8aa6fd83-c691-44a0-b6d6-caf127a05740">
-                        Audi e-tron GT
-            </button>
-        </h2>
-        <div id="panelsStayOpen-collapse8aa6fd83-c691-44a0-b6d6-caf127a05740" class="accordion-collapse collapse">
-            <div class="accordion-body">
+<div class="space-y-4">
+    <div class="border border-gray-200 rounded-lg overflow-hidden">
+        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
+            <h3 class="text-lg font-semibold text-gray-900">Audi e-tron GT</h3>
+        </div>
+        <div class="p-4">
 
-## Performance
+<h2 class="text-xl font-bold text-gray-900 mb-4">Performance</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Peak power
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				370 KW (503 hp /496 bhp)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Peak power with  boost
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				430 Kw
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electrical torque output
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				625 nm (461 lb-ft)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electrical torque output boost
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				625 Nm
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Top speed
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				245 kph (152 mph)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				0-100km/h (0-62 mph)
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				4,2 s
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				0-100km/h (0-62 mph) boost
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				4 s
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
 
 
-## Range & Consumption
+<h2 class="text-xl font-bold text-gray-900 mb-4">Range & Consumption</h2>
 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Basic trim WLTP range
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				622 km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Basic trim WLTP consumption
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				15,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Basic trim WLTP consumption with charging loss
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				17,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Top trim WLTP range
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				575 km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Top trim WLTP consumption
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				16,9 kWh/100km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Top trim WLTP consumption with charging loss
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				19,3 kwh/100km
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
 
 
-## Battery & Charging
+<h2 class="text-xl font-bold text-gray-900 mb-4">Battery & Charging</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Battery gross
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				105 kWh
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Battery net
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				97 kWh
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Max DC charging
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				320 kW
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Number of modules
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				33
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Pack Configuration
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				198s2p
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Nominal voltage
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				729
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Cathode Materials
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				NMC
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
 
 
-### Chargeports
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Chargeports</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Chargeport placement
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				RightFrontSide
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Europe
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CCS2
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport North America
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CCS1
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport China
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				GBT
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Japan
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CHAdeMO
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Oceania (Australia, New Zealand ++)
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CCS2
 			</td>
 		</tr>
 	</tbody>
 </table>
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+</div>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Chargeport placement
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				LeftFrontSide
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Europe
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Type2
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport North America
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				J1772
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport China
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				GBT
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Japan
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CHAdeMO
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Oceania (Australia, New Zealand ++)
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CCS2
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Dimensions
+<h2 class="text-xl font-bold text-gray-900 mb-4">Dimensions</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Length
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				4989 mm (196,4")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Height
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1396 mm (55,0")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Width excluding mirrors
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1964 mm (77,3")
 			</td>
 		</tr>
 		<tr>
-			<td>
-				Dimensions.WidhtIncludingMirrors
-			</td>
-			<td>
-				2158 mm (85,0")
-			</td>
-		</tr>
-		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Wheelbase
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2900 mm (114,2")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Track width front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1710 mm (67,3")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Track width rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1694 mm (66,7")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Drag coefficient
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				0,24
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Frontal area
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2,35
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Approach Angle
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				13
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Departure Angle
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				16,4
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Turning circle
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				11,6 meter (456,7")
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Cargo Capacity and Towing Ability
+<h2 class="text-xl font-bold text-gray-900 mb-4">Cargo Capacity and Towing Ability</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Curb weight
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2340 kg (5159 lbs)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Maximum total weight
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2860 kg (6305 lbs)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Maximum load including weight driver
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				520 kg (1146 lbs)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Max roof cargo
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				75 kg (165 lbs)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Trunk capacity
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				405 liter (14 cu-ft)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Size frunk
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				85 liter (3 cu-ft)
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Suspension
+<h2 class="text-xl font-bold text-gray-900 mb-4">Suspension</h2>
 
 The model offers 2 suspension variants
 
-### Adaptive Air Suspension
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Adaptive Air Suspension</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adaptive suspension
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable damping front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable damping rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable height front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable height rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Max ground clearance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				165 mm (6,5")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Minimum ground clearance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				125 mm (4,9")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Damper type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Damper type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Spring type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Air
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Spring type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Air
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Suspension type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Double wishbone suspension
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Suspension type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Multi-link
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-### Active
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Active</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adaptive suspension
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable damping front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable damping rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable height front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable height rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Max ground clearance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				165 mm (6,5")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Minimum ground clearance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				125 mm (4,9")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Damper type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				ActiveHydraulic
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Damper type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				ActiveHydraulic
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Spring type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Air
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Spring type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Air
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Suspension type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Double wishbone suspension
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Suspension type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Multi-link
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Interior
+<h2 class="text-xl font-bold text-gray-900 mb-4">Interior</h2>
 
 This model is available with a seat configuration with five seats.
 
-### Front seats
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Front seats</h3>
 
 
-#### sport
+<h4 class="text-base font-medium text-gray-900 mb-2">sport</h4>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat type
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Driver and Passenger Seat
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat depth adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat height adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest angle adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion angle adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Memory
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Height adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Length adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable thigh support
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Footrest passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Leg support passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electric lumbar adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat ventilation
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Massage function
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-#### sport pro
+<h4 class="text-base font-medium text-gray-900 mb-2">sport pro</h4>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat type
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Driver and Passenger Seat
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat depth adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat height adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest angle adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion angle adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Memory
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Standard feature
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Height adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Length adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable thigh support
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Footrest passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Leg support passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electric lumbar adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat ventilation
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Standard feature
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Massage function
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Optional feature
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-### Second row seats
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Second row seats</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat type
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Three-seat bench
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Height adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Length adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable thigh support
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Footrest passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Leg support passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electric lumbar adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat ventilation
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Massage function
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Driver Assistance
+<h2 class="text-xl font-bold text-gray-900 mb-4">Driver Assistance</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Lane keeping
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Active Lane Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Lane departure warning
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Active Lane Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Drowsiness Alert
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Reversing camera
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, optional equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				360 camera
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, optional equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Rear cross traffic alert (RCTA)
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Cross traffic assist rear), optional equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
-				Rear parking sensors
-			</td>
-			<td>
-				Yes (Parking system plus), standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Front parking sensors
-			</td>
-			<td>
-				Yes (Parking system plus), standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Side parking sensors
-			</td>
-			<td>
-				Yes (Parking system plus), standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Hill descent assist
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Hill start assist
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				AntiLock Braking System
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Automatic emergency braking
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Pre sense front), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Traction control
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Left turn crash avoidance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Turn Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Forward Collision Warning
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Collision Avoidance Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electronic stability control
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Temperature warning
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Cross traffic allert (CTA)
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Cross Traffic Assist), optional equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Efficiency assist
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Efficency Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Automatic Emergency Steering
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Collision Avoidance Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Traffic Sign Recognition
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Traffic Sign Recongition), optional equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Night Vision
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Night Vision Assist), optional equipment
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## UI and controls
+<h2 class="text-xl font-bold text-gray-900 mb-4">UI and controls</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Head-up display
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, optional equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Voice control
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Gesture control
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Android Auto support
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Smartphone Interface), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Apple Carplay support
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Smartphone Interface), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				In-car navigation
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (MMI Navigation plus), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Available screen layouts
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Digital driver display
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, 12,3
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Infotainment screen
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, 10,1"
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Front passenger Infotainment screen
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Rear passenger Infotainment screen
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not available
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Number of available sound systems
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2
 			</td>
 		</tr>
 
-### Audi Sound system
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Audi Sound system</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Number of speakers
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				10
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Total effect
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				180
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-### Bang & Olufsen Sound System
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Bang & Olufsen Sound System</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Number of speakers
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				16
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Total effect
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				700
 			</td>
 		</tr>
@@ -1571,1478 +1567,1470 @@ This model is available with a seat configuration with five seats.
 </div>
 </div>
 </div>
-    <div class="accordion-item">
-        <h2 class="accordion-header">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseb8f3319f-3084-42f2-b8b7-bd54d206f736" aria-expanded="true" aria-controls="panelsStayOpen-collapseb8f3319f-3084-42f2-b8b7-bd54d206f736">
-                        Audi RS e-tron GT performance
-            </button>
-        </h2>
-        <div id="panelsStayOpen-collapseb8f3319f-3084-42f2-b8b7-bd54d206f736" class="accordion-collapse collapse">
-            <div class="accordion-body">
+    <div class="border border-gray-200 rounded-lg overflow-hidden">
+        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
+            <h3 class="text-lg font-semibold text-gray-900">Audi RS e-tron GT performance</h3>
+        </div>
+        <div class="p-4">
 
-## Performance
+<h2 class="text-xl font-bold text-gray-900 mb-4">Performance</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Peak power
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				610 KW (829 hp /818 bhp)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Peak power with  boost
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				680 Kw
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electrical torque output
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1027 nm (758 lb-ft)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electrical torque output boost
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1027 Nm
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Top speed
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				250 kph (155 mph)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				0-100km/h (0-62 mph) boost
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2,5 s
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
 
 
-## Range & Consumption
+<h2 class="text-xl font-bold text-gray-900 mb-4">Range & Consumption</h2>
 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Basic trim WLTP range
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				598 km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Basic trim WLTP consumption
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				16,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Basic trim WLTP consumption with charging loss
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				18,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Top trim WLTP range
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				527 km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Top trim WLTP consumption
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				18,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Top trim WLTP consumption with charging loss
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				20,8 kwh/100km
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
 
 
-## Battery & Charging
+<h2 class="text-xl font-bold text-gray-900 mb-4">Battery & Charging</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Battery gross
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				105 kWh
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Battery net
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				97 kWh
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Max DC charging
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				320 kW
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Number of modules
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				33
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Pack Configuration
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				198s2p
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Nominal voltage
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				729
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Cathode Materials
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				NMC
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
 
 
-### Chargeports
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Chargeports</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Chargeport placement
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				RightFrontSide
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Europe
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CCS2
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport North America
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CCS1
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport China
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				GBT
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Japan
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CHAdeMO
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Oceania (Australia, New Zealand ++)
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CCS2
 			</td>
 		</tr>
 	</tbody>
 </table>
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+</div>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Chargeport placement
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				LeftFrontSide
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Europe
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Type2
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport North America
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				J1772
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport China
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				GBT
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Japan
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CHAdeMO
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Oceania (Australia, New Zealand ++)
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CCS2
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Dimensions
+<h2 class="text-xl font-bold text-gray-900 mb-4">Dimensions</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Length
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				4989 mm (196,4")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Height
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1396 mm (55,0")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Width excluding mirrors
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1964 mm (77,3")
 			</td>
 		</tr>
 		<tr>
-			<td>
-				Dimensions.WidhtIncludingMirrors
-			</td>
-			<td>
-				2158 mm (85,0")
-			</td>
-		</tr>
-		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Wheelbase
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2900 mm (114,2")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Track width front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1710 mm (67,3")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Track width rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1694 mm (66,7")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Drag coefficient
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				0,24
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Frontal area
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2,35
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Approach Angle
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				13
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Departure Angle
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				16,4
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Turning circle
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				11,6 meter (456,7")
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Cargo Capacity and Towing Ability
+<h2 class="text-xl font-bold text-gray-900 mb-4">Cargo Capacity and Towing Ability</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Curb weight
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2340 kg (5159 lbs)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Maximum total weight
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2860 kg (6305 lbs)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Maximum load including weight driver
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				520 kg (1146 lbs)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Max roof cargo
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				75 kg (165 lbs)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Trunk capacity
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				405 liter (14 cu-ft)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Size frunk
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				85 liter (3 cu-ft)
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Suspension
+<h2 class="text-xl font-bold text-gray-900 mb-4">Suspension</h2>
 
 The model offers 2 suspension variants
 
-### Adaptive Air Suspension
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Adaptive Air Suspension</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adaptive suspension
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable damping front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable damping rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable height front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable height rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Max ground clearance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				165 mm (6,5")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Minimum ground clearance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				125 mm (4,9")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Damper type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Damper type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Spring type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Air
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Spring type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Air
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Suspension type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Double wishbone suspension
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Suspension type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Multi-link
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-### Active
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Active</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adaptive suspension
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable damping front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable damping rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable height front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable height rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Max ground clearance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				165 mm (6,5")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Minimum ground clearance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				125 mm (4,9")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Damper type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				ActiveHydraulic
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Damper type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				ActiveHydraulic
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Spring type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Air
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Spring type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Air
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Suspension type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Double wishbone suspension
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Suspension type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Multi-link
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Interior
+<h2 class="text-xl font-bold text-gray-900 mb-4">Interior</h2>
 
 This model is available with a seat configuration with five seats.
 
-### Front seats
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Front seats</h3>
 
 
-#### sport plus
+<h4 class="text-base font-medium text-gray-900 mb-2">sport plus</h4>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat type
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Driver and Passenger Seat
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat depth adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat height adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest angle adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion angle adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Memory
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Height adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Length adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable thigh support
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Footrest passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Leg support passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electric lumbar adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat ventilation
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Optional feature
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Massage function
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-#### sport pro
+<h4 class="text-base font-medium text-gray-900 mb-2">sport pro</h4>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat type
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Driver and Passenger Seat
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat depth adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat height adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest angle adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion angle adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Memory
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Standard feature
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Height adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Length adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable thigh support
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Standard feature
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Standard feature
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Standard feature
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Footrest passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Leg support passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electric lumbar adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat ventilation
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Standard feature
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Massage function
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-### Second row seats
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Second row seats</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat type
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Three-seat bench
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Height adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Length adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable thigh support
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Footrest passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Leg support passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electric lumbar adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat ventilation
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Massage function
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Driver Assistance
+<h2 class="text-xl font-bold text-gray-900 mb-4">Driver Assistance</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Lane keeping
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Active Lane Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Lane departure warning
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Active Lane Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Drowsiness Alert
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Reversing camera
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				360 camera
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Rear cross traffic alert (RCTA)
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Cross traffic assist rear), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
-				Rear parking sensors
-			</td>
-			<td>
-				Yes (Parking system plus), standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Front parking sensors
-			</td>
-			<td>
-				Yes (Parking system plus), standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Side parking sensors
-			</td>
-			<td>
-				Yes (Parking system plus), standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Hill descent assist
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Hill start assist
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				AntiLock Braking System
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Automatic emergency braking
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Pre sense front), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Traction control
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Left turn crash avoidance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Turn Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Forward Collision Warning
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Collision Avoidance Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electronic stability control
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Temperature warning
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Cross traffic allert (CTA)
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Cross Traffic Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Efficiency assist
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Efficency Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Automatic Emergency Steering
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Collision Avoidance Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Traffic Sign Recognition
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Traffic Sign Recongition), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Night Vision
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Night Vision Assist), optional equipment
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## UI and controls
+<h2 class="text-xl font-bold text-gray-900 mb-4">UI and controls</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Head-up display
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, optional equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Voice control
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Gesture control
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Android Auto support
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Smartphone Interface), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Apple Carplay support
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Smartphone Interface), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				In-car navigation
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (MMI Navigation plus), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Available screen layouts
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Digital driver display
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, 12,3
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Infotainment screen
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, 10,1"
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Front passenger Infotainment screen
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Rear passenger Infotainment screen
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not available
 			</td>
 		</tr>
@@ -3051,1478 +3039,1470 @@ This model is available with a seat configuration with five seats.
 </div>
 </div>
 </div>
-    <div class="accordion-item">
-        <h2 class="accordion-header">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapse8a37b11c-9f9f-42fa-8b6a-1f8a25c66322" aria-expanded="true" aria-controls="panelsStayOpen-collapse8a37b11c-9f9f-42fa-8b6a-1f8a25c66322">
-                        Audi RS e-tron GT
-            </button>
-        </h2>
-        <div id="panelsStayOpen-collapse8a37b11c-9f9f-42fa-8b6a-1f8a25c66322" class="accordion-collapse collapse">
-            <div class="accordion-body">
+    <div class="border border-gray-200 rounded-lg overflow-hidden">
+        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
+            <h3 class="text-lg font-semibold text-gray-900">Audi RS e-tron GT</h3>
+        </div>
+        <div class="p-4">
 
-## Performance
+<h2 class="text-xl font-bold text-gray-900 mb-4">Performance</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Peak power
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				560 KW (761 hp /751 bhp)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Peak power with  boost
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				630 Kw
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electrical torque output
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				865 nm (638 lb-ft)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electrical torque output boost
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				865 Nm
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Top speed
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				250 kph (155 mph)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				0-100km/h (0-62 mph) boost
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2,8 s
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
 
 
-## Range & Consumption
+<h2 class="text-xl font-bold text-gray-900 mb-4">Range & Consumption</h2>
 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Basic trim WLTP range
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				598 km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Basic trim WLTP consumption
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				16,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Basic trim WLTP consumption with charging loss
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				18,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Top trim WLTP range
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				527 km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Top trim WLTP consumption
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				18,4 kWh/100km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Top trim WLTP consumption with charging loss
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				20,8 kwh/100km
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
 
 
-## Battery & Charging
+<h2 class="text-xl font-bold text-gray-900 mb-4">Battery & Charging</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Battery gross
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				105 kWh
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Battery net
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				97 kWh
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Max DC charging
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				320 kW
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Number of modules
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				33
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Pack Configuration
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				198s2p
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Nominal voltage
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				729
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Cathode Materials
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				NMC
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
 
 
-### Chargeports
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Chargeports</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Chargeport placement
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				RightFrontSide
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Europe
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CCS2
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport North America
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CCS1
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport China
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				GBT
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Japan
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CHAdeMO
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Oceania (Australia, New Zealand ++)
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CCS2
 			</td>
 		</tr>
 	</tbody>
 </table>
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+</div>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Chargeport placement
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				LeftFrontSide
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Europe
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Type2
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport North America
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				J1772
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport China
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				GBT
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Japan
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CHAdeMO
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Oceania (Australia, New Zealand ++)
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CCS2
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Dimensions
+<h2 class="text-xl font-bold text-gray-900 mb-4">Dimensions</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Length
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				4989 mm (196,4")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Height
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1396 mm (55,0")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Width excluding mirrors
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1964 mm (77,3")
 			</td>
 		</tr>
 		<tr>
-			<td>
-				Dimensions.WidhtIncludingMirrors
-			</td>
-			<td>
-				2158 mm (85,0")
-			</td>
-		</tr>
-		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Wheelbase
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2900 mm (114,2")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Track width front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1710 mm (67,3")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Track width rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1694 mm (66,7")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Drag coefficient
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				0,24
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Frontal area
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2,35
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Approach Angle
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				13
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Departure Angle
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				16,4
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Turning circle
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				11,6 meter (456,7")
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Cargo Capacity and Towing Ability
+<h2 class="text-xl font-bold text-gray-900 mb-4">Cargo Capacity and Towing Ability</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Curb weight
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2340 kg (5159 lbs)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Maximum total weight
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2860 kg (6305 lbs)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Maximum load including weight driver
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				520 kg (1146 lbs)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Max roof cargo
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				75 kg (165 lbs)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Trunk capacity
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				405 liter (14 cu-ft)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Size frunk
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				85 liter (3 cu-ft)
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Suspension
+<h2 class="text-xl font-bold text-gray-900 mb-4">Suspension</h2>
 
 The model offers 2 suspension variants
 
-### Adaptive Air Suspension
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Adaptive Air Suspension</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adaptive suspension
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable damping front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable damping rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable height front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable height rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Max ground clearance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				165 mm (6,5")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Minimum ground clearance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				125 mm (4,9")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Damper type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Damper type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Spring type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Air
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Spring type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Air
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Suspension type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Double wishbone suspension
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Suspension type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Multi-link
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-### Active
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Active</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adaptive suspension
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable damping front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable damping rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable height front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable height rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Max ground clearance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				165 mm (6,5")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Minimum ground clearance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				125 mm (4,9")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Damper type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				ActiveHydraulic
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Damper type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				ActiveHydraulic
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Spring type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Air
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Spring type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Air
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Suspension type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Double wishbone suspension
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Suspension type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Multi-link
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Interior
+<h2 class="text-xl font-bold text-gray-900 mb-4">Interior</h2>
 
 This model is available with a seat configuration with five seats.
 
-### Front seats
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Front seats</h3>
 
 
-#### sport plus
+<h4 class="text-base font-medium text-gray-900 mb-2">sport plus</h4>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat type
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Driver and Passenger Seat
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat depth adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat height adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest angle adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion angle adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Memory
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Height adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Length adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable thigh support
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Footrest passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Leg support passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electric lumbar adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat ventilation
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Optional feature
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Massage function
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-#### sport pro
+<h4 class="text-base font-medium text-gray-900 mb-2">sport pro</h4>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat type
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Driver and Passenger Seat
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat depth adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat height adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest angle adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion angle adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Memory
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Standard feature
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Height adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Length adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable thigh support
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Standard feature
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Standard feature
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Standard feature
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Footrest passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Leg support passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electric lumbar adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat ventilation
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Standard feature
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Massage function
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-### Second row seats
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Second row seats</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat type
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Three-seat bench
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Height adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Length adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable thigh support
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Footrest passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Leg support passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electric lumbar adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat ventilation
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Massage function
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Driver Assistance
+<h2 class="text-xl font-bold text-gray-900 mb-4">Driver Assistance</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Lane keeping
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Active Lane Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Lane departure warning
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Active Lane Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Drowsiness Alert
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Reversing camera
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				360 camera
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Rear cross traffic alert (RCTA)
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Cross traffic assist rear), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
-				Rear parking sensors
-			</td>
-			<td>
-				Yes (Parking system plus), standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Front parking sensors
-			</td>
-			<td>
-				Yes (Parking system plus), standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Side parking sensors
-			</td>
-			<td>
-				Yes (Parking system plus), standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Hill descent assist
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Hill start assist
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				AntiLock Braking System
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Automatic emergency braking
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Pre sense front), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Traction control
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Left turn crash avoidance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Turn Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Forward Collision Warning
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Collision Avoidance Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electronic stability control
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Temperature warning
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Cross traffic allert (CTA)
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Cross Traffic Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Efficiency assist
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Efficency Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Automatic Emergency Steering
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Collision Avoidance Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Traffic Sign Recognition
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Traffic Sign Recongition), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Night Vision
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Night Vision Assist), optional equipment
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## UI and controls
+<h2 class="text-xl font-bold text-gray-900 mb-4">UI and controls</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Head-up display
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, optional equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Voice control
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Gesture control
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Android Auto support
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Smartphone Interface), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Apple Carplay support
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Smartphone Interface), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				In-car navigation
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (MMI Navigation plus), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Available screen layouts
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Digital driver display
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, 12,3
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Infotainment screen
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, 10,1"
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Front passenger Infotainment screen
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Rear passenger Infotainment screen
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not available
 			</td>
 		</tr>
@@ -4531,1536 +4511,1532 @@ This model is available with a seat configuration with five seats.
 </div>
 </div>
 </div>
-    <div class="accordion-item">
-        <h2 class="accordion-header">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapse5993d701-c214-4321-8827-724fc20d35c3" aria-expanded="true" aria-controls="panelsStayOpen-collapse5993d701-c214-4321-8827-724fc20d35c3">
-                        Audi S e-tron GT
-            </button>
-        </h2>
-        <div id="panelsStayOpen-collapse5993d701-c214-4321-8827-724fc20d35c3" class="accordion-collapse collapse">
-            <div class="accordion-body">
+    <div class="border border-gray-200 rounded-lg overflow-hidden">
+        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
+            <h3 class="text-lg font-semibold text-gray-900">Audi S e-tron GT</h3>
+        </div>
+        <div class="p-4">
 
-## Performance
+<h2 class="text-xl font-bold text-gray-900 mb-4">Performance</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Peak power
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				500 KW (680 hp /671 bhp)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electrical torque output
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				740 nm (546 lb-ft)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Top speed
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				245 kph (152 mph)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				0-100km/h (0-62 mph)
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				3,4 s
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
 
 
-## Range & Consumption
+<h2 class="text-xl font-bold text-gray-900 mb-4">Range & Consumption</h2>
 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Basic trim WLTP range
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				609 km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Basic trim WLTP consumption
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				15,9 kWh/100km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Basic trim WLTP consumption with charging loss
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				17,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Top trim WLTP range
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				565 km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Top trim WLTP consumption
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				17,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Top trim WLTP consumption with charging loss
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				21,8 kwh/100km
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
 
 
-## Battery & Charging
+<h2 class="text-xl font-bold text-gray-900 mb-4">Battery & Charging</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Battery gross
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				105 kWh
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Battery net
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				97 kWh
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Max DC charging
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				320 kW
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Number of modules
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				33
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Pack Configuration
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				198s2p
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Nominal voltage
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				729
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Cathode Materials
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				NMC
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
 
 
-### Chargeports
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Chargeports</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Chargeport placement
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				RightFrontSide
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Europe
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CCS2
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport North America
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CCS1
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport China
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				GBT
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Japan
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CHAdeMO
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Oceania (Australia, New Zealand ++)
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CCS2
 			</td>
 		</tr>
 	</tbody>
 </table>
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+</div>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Chargeport placement
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				LeftFrontSide
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Europe
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Type2
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport North America
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				J1772
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport China
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				GBT
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Japan
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CHAdeMO
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Oceania (Australia, New Zealand ++)
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CCS2
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Dimensions
+<h2 class="text-xl font-bold text-gray-900 mb-4">Dimensions</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Length
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				4989 mm (196,4")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Height
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1396 mm (55,0")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Width excluding mirrors
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1964 mm (77,3")
 			</td>
 		</tr>
 		<tr>
-			<td>
-				Dimensions.WidhtIncludingMirrors
-			</td>
-			<td>
-				2158 mm (85,0")
-			</td>
-		</tr>
-		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Wheelbase
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2900 mm (114,2")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Track width front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1710 mm (67,3")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Track width rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1694 mm (66,7")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Drag coefficient
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				0,24
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Frontal area
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2,35
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Approach Angle
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				13
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Departure Angle
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				16,4
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Turning circle
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				11,6 meter (456,7")
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Cargo Capacity and Towing Ability
+<h2 class="text-xl font-bold text-gray-900 mb-4">Cargo Capacity and Towing Ability</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Curb weight
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2340 kg (5159 lbs)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Maximum total weight
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2860 kg (6305 lbs)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Maximum load including weight driver
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				520 kg (1146 lbs)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Max roof cargo
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				75 kg (165 lbs)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Trunk capacity
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				405 liter (14 cu-ft)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Size frunk
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				85 liter (3 cu-ft)
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Suspension
+<h2 class="text-xl font-bold text-gray-900 mb-4">Suspension</h2>
 
 The model offers 2 suspension variants
 
-### Adaptive Air Suspension
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Adaptive Air Suspension</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adaptive suspension
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable damping front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable damping rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable height front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable height rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Max ground clearance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				165 mm (6,5")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Minimum ground clearance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				125 mm (4,9")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Damper type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Damper type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Spring type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Air
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Spring type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Air
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Suspension type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Double wishbone suspension
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Suspension type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Multi-link
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-### Active
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Active</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adaptive suspension
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable damping front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable damping rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable height front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable height rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Max ground clearance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				165 mm (6,5")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Minimum ground clearance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				125 mm (4,9")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Damper type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				ActiveHydraulic
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Damper type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				ActiveHydraulic
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Spring type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Air
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Spring type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Air
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Suspension type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Double wishbone suspension
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Suspension type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Multi-link
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Interior
+<h2 class="text-xl font-bold text-gray-900 mb-4">Interior</h2>
 
 This model is available with a seat configuration with five seats.
 
-### Front seats
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Front seats</h3>
 
 
-#### sport
+<h4 class="text-base font-medium text-gray-900 mb-2">sport</h4>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat type
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Driver and Passenger Seat
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat depth adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat height adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest angle adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion angle adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Memory
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Height adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Length adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable thigh support
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Footrest passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Leg support passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electric lumbar adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat ventilation
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Massage function
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-#### sport pro
+<h4 class="text-base font-medium text-gray-900 mb-2">sport pro</h4>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat type
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Driver and Passenger Seat
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat depth adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat height adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest angle adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion angle adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Memory
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Standard feature
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Height adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Length adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable thigh support
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Footrest passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Leg support passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electric lumbar adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat ventilation
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Standard feature
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Massage function
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Optional feature
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-### Second row seats
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Second row seats</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat type
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Three-seat bench
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Height adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Length adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable thigh support
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Footrest passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Leg support passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electric lumbar adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat ventilation
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Massage function
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Driver Assistance
+<h2 class="text-xl font-bold text-gray-900 mb-4">Driver Assistance</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Lane keeping
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Active Lane Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Lane departure warning
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Active Lane Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Drowsiness Alert
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Reversing camera
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				360 camera
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, optional equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Rear cross traffic alert (RCTA)
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Cross traffic assist rear), optional equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
-				Rear parking sensors
-			</td>
-			<td>
-				Yes (Parking system plus), standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Front parking sensors
-			</td>
-			<td>
-				Yes (Parking system plus), standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Side parking sensors
-			</td>
-			<td>
-				Yes (Parking system plus), standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Hill descent assist
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Hill start assist
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				AntiLock Braking System
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Automatic emergency braking
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Pre sense front), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Traction control
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Left turn crash avoidance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Turn Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Forward Collision Warning
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Collision Avoidance Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electronic stability control
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Temperature warning
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Cross traffic allert (CTA)
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Cross Traffic Assist), optional equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Efficiency assist
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Efficency Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Automatic Emergency Steering
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Collision Avoidance Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Traffic Sign Recognition
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Traffic Sign Recongition), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Night Vision
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Night Vision Assist), optional equipment
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## UI and controls
+<h2 class="text-xl font-bold text-gray-900 mb-4">UI and controls</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Head-up display
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, optional equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Voice control
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Gesture control
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Android Auto support
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Smartphone Interface), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Apple Carplay support
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Smartphone Interface), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				In-car navigation
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (MMI Navigation plus), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Available screen layouts
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Digital driver display
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, 12,3
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Infotainment screen
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, 10,1"
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Front passenger Infotainment screen
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Rear passenger Infotainment screen
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not available
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Number of available sound systems
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2
 			</td>
 		</tr>
 
-### Audi Sound system
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Audi Sound system</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Number of speakers
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				10
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Total effect
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				180
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-### Bang & Olufsen Sound System
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Bang & Olufsen Sound System</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Number of speakers
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				16
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Total effect
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				700
 			</td>
 		</tr>
@@ -6069,1703 +6045,1556 @@ This model is available with a seat configuration with five seats.
 </div>
 </div>
 </div>
-    <div class="accordion-item">
-        <h2 class="accordion-header">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapse81e14ff2-bf0b-4a66-bebb-c5f7fc74fe8c" aria-expanded="true" aria-controls="panelsStayOpen-collapse81e14ff2-bf0b-4a66-bebb-c5f7fc74fe8c">
-                        Audi e-tron GT (GEN1)
-            </button>
-        </h2>
-        <div id="panelsStayOpen-collapse81e14ff2-bf0b-4a66-bebb-c5f7fc74fe8c" class="accordion-collapse collapse">
-            <div class="accordion-body">
+    <div class="border border-gray-200 rounded-lg overflow-hidden">
+        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
+            <h3 class="text-lg font-semibold text-gray-900">Audi e-tron GT (GEN1)</h3>
+        </div>
+        <div class="p-4">
 
-## Performance
+<h2 class="text-xl font-bold text-gray-900 mb-4">Performance</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Peak power
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				350 KW (476 hp /469 bhp)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Peak power with  boost
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				390 Kw
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electrical torque output
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				630 nm (465 lb-ft)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electrical torque output boost
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				640 Nm
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Top speed
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				245 kph (152 mph)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				0-100km/h (0-62 mph)
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				4,5 s
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				0-100km/h (0-62 mph) boost
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				4,1 s
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
 
 
-## Range & Consumption
+<h2 class="text-xl font-bold text-gray-900 mb-4">Range & Consumption</h2>
 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Basic trim WLTP range
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				488 km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Basic trim WLTP consumption
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				17,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Basic trim WLTP consumption with charging loss
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				17,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Top trim WLTP range
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				448 km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Top trim WLTP consumption
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				18,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Top trim WLTP consumption with charging loss
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				21,8 kwh/100km
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
 
 
-## Battery & Charging
+<h2 class="text-xl font-bold text-gray-900 mb-4">Battery & Charging</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Battery gross
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				93,4 kWh
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Battery net
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				83,7 kWh
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Max DC charging
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				270 kW
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Number of modules
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				33
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Pack Configuration
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				198s2p
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Nominal voltage
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				725
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Cathode Materials
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				NMC
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
 
 
-### Chargeports
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Chargeports</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Chargeport placement
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				RightFrontSide
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Europe
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CCS2
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport North America
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CCS1
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport China
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				GBT
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Japan
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CHAdeMO
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Oceania (Australia, New Zealand ++)
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CCS2
 			</td>
 		</tr>
 	</tbody>
 </table>
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+</div>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Chargeport placement
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				LeftFrontSide
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Europe
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Type2
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport North America
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				J1772
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport China
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				GBT
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Japan
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CHAdeMO
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Oceania (Australia, New Zealand ++)
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CCS2
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Dimensions
+<h2 class="text-xl font-bold text-gray-900 mb-4">Dimensions</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Length
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				4989 mm (196,4")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Height
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1396 mm (55,0")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Width excluding mirrors
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1964 mm (77,3")
 			</td>
 		</tr>
 		<tr>
-			<td>
-				Dimensions.WidhtIncludingMirrors
-			</td>
-			<td>
-				2158 mm (85,0")
-			</td>
-		</tr>
-		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Wheelbase
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2900 mm (114,2")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Track width front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1710 mm (67,3")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Track width rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1694 mm (66,7")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Drag coefficient
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				0,24
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Frontal area
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2,35
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Approach Angle
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				13
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Departure Angle
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				16,4
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Turning circle
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				11,6 meter (456,7")
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Cargo Capacity and Towing Ability
+<h2 class="text-xl font-bold text-gray-900 mb-4">Cargo Capacity and Towing Ability</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Curb weight
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2340 kg (5159 lbs)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Maximum total weight
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2860 kg (6305 lbs)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Maximum load including weight driver
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				520 kg (1146 lbs)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Max roof cargo
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				75 kg (165 lbs)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Trunk capacity
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				405 liter (14 cu-ft)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Size frunk
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				85 liter (3 cu-ft)
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Suspension
+<h2 class="text-xl font-bold text-gray-900 mb-4">Suspension</h2>
 
 The model offers 2 suspension variants
 
-### Standard
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Standard</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adaptive suspension
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable damping front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable damping rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable height front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable height rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Max ground clearance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				145 mm (5,7")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Minimum ground clearance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				145 mm (5,7")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Damper type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Damper type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Spring type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Coil Spring
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Spring type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Coil Spring
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Suspension type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Double wishbone suspension
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Suspension type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Multi-link
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-### Adaptive Air Suspension
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Adaptive Air Suspension</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adaptive suspension
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable damping front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable damping rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable height front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable height rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Max ground clearance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				165 mm (6,5")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Minimum ground clearance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				125 mm (4,9")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Damper type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Damper type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Spring type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Air
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Spring type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Air
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Suspension type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Double wishbone suspension
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Suspension type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Multi-link
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Interior
+<h2 class="text-xl font-bold text-gray-900 mb-4">Interior</h2>
 
 This model is available with a seat configuration with five seats.
 
-### Front seats
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Front seats</h3>
 
 
-#### sport
+<h4 class="text-base font-medium text-gray-900 mb-2">sport</h4>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat type
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Driver and Passenger Seat
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat depth adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat height adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest angle adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion angle adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Memory
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Height adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Length adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable thigh support
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Footrest passenger
 			</td>
-			<td>
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Leg support passenger
-			</td>
-			<td>
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Electric lumbar adjustment
-			</td>
-			<td>
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Seat ventilation
-			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Leg support passenger
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Electric lumbar adjustment
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Seat ventilation
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Massage function
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-#### sport plus
+<h4 class="text-base font-medium text-gray-900 mb-2">sport pro</h4>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat type
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Driver and Passenger Seat
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat depth adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat height adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest angle adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion angle adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Memory
 			</td>
-			<td>
-				Unknown
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Standard feature
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Height adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Length adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable thigh support
 			</td>
-			<td>
-				Standard feature
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest side bolster adjustment
 			</td>
-			<td>
-				Not Available
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion side bolster adjustment
 			</td>
-			<td>
-				Not Available
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Footrest passenger
 			</td>
-			<td>
-				Unknown
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Leg support passenger
 			</td>
-			<td>
-				Unknown
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electric lumbar adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat ventilation
 			</td>
-			<td>
-				Not Available
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Standard feature
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Massage function
 			</td>
-			<td>
-				Not Available
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-#### sport pro
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Value
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Seat type
-			</td>
-			<td>
-				Driver and Passenger Seat
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Seat depth adjustment
-			</td>
-			<td>
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Seat height adjustment
-			</td>
-			<td>
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Backrest angle adjustment
-			</td>
-			<td>
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Seat cushion angle adjustment
-			</td>
-			<td>
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory
-			</td>
-			<td>
-				Standard feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Height adjustable headrest
-			</td>
-			<td>
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Length adjustable headrest
-			</td>
-			<td>
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Adjustable thigh support
-			</td>
-			<td>
-				Standard feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Backrest side bolster adjustment
-			</td>
-			<td>
-				Standard feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Seat cushion side bolster adjustment
-			</td>
-			<td>
-				Standard feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Footrest passenger
-			</td>
-			<td>
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Leg support passenger
-			</td>
-			<td>
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Electric lumbar adjustment
-			</td>
-			<td>
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Seat ventilation
-			</td>
-			<td>
-				Standard feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Massage function
-			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Optional feature
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-### Second row seats
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Second row seats</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat type
 			</td>
-			<td>
-				None
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Three-seat bench
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Height adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Length adjustable headrest
 			</td>
-			<td>
-				Unknown
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable thigh support
 			</td>
-			<td>
-				Unknown
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest side bolster adjustment
 			</td>
-			<td>
-				Unknown
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion side bolster adjustment
 			</td>
-			<td>
-				Unknown
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Footrest passenger
 			</td>
-			<td>
-				Unknown
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Leg support passenger
 			</td>
-			<td>
-				Unknown
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electric lumbar adjustment
 			</td>
-			<td>
-				Unknown
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat ventilation
 			</td>
-			<td>
-				Unknown
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Massage function
 			</td>
-			<td>
-				Unknown
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not Available
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Driver Assistance
+<h2 class="text-xl font-bold text-gray-900 mb-4">Driver Assistance</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Lane keeping
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Active Lane Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Lane departure warning
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Active Lane Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Drowsiness Alert
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Reversing camera
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, optional equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				360 camera
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, optional equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Rear cross traffic alert (RCTA)
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Cross traffic assist rear), optional equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
-				Rear parking sensors
-			</td>
-			<td>
-				Yes (Parking system plus), standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Front parking sensors
-			</td>
-			<td>
-				Yes (Parking system plus), standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Side parking sensors
-			</td>
-			<td>
-				Yes (Parking system plus), standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Hill descent assist
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Hill start assist
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				AntiLock Braking System
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Automatic emergency braking
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Pre sense front), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Traction control
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Left turn crash avoidance
 			</td>
-			<td>
-				Yes (Audi Turn Assist), optional equipment
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yes (Audi Turn Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Forward Collision Warning
 			</td>
-			<td>
-				Yes (Audi Collision Avoidance Assist), optional equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Electronic stability control
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Temperature warning
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Cross traffic allert (CTA)
-			</td>
-			<td>
-				Yes (Audi Cross Traffic Assist), optional equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Efficiency assist
-			</td>
-			<td>
-				Yes (Audi Efficency Assist), standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Automatic Emergency Steering
-			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Collision Avoidance Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Electronic stability control
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Temperature warning
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cross traffic allert (CTA)
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yes (Audi Cross Traffic Assist), optional equipment
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Efficiency assist
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yes (Audi Efficency Assist), standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Automatic Emergency Steering
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yes (Audi Collision Avoidance Assist), standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Traffic Sign Recognition
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Traffic Sign Recongition), optional equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Night Vision
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Night Vision Assist), optional equipment
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## UI and controls
+<h2 class="text-xl font-bold text-gray-900 mb-4">UI and controls</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Head-up display
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, optional equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Voice control
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Gesture control
 			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Android Auto support
-			</td>
-			<td>
-				Yes (Smartphone Interface), optional equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Apple Carplay support
-			</td>
-			<td>
-				Yes (Smartphone Interface), optional equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				In-car navigation
-			</td>
-			<td>
-				Yes (MMI Navigation plus), standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Available screen layouts
-			</td>
-			<td>
-				1
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Digital driver display
-			</td>
-			<td>
-				Yes, 12,3
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Infotainment screen
-			</td>
-			<td>
-				Yes, 10,1"
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Front passenger Infotainment screen
-			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Android Auto support
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yes (Smartphone Interface), standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Apple Carplay support
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yes (Smartphone Interface), standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				In-car navigation
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yes (MMI Navigation plus), standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Available screen layouts
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				1
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Digital driver display
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yes, 12,3
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Infotainment screen
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yes, 10,1"
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Front passenger Infotainment screen
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Rear passenger Infotainment screen
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not available
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Number of available sound systems
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2
 			</td>
 		</tr>
 
-### Audi Sound system
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Audi Sound system</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Number of speakers
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				10
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Total effect
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				180
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-### Bang & Olufsen Sound System
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Bang & Olufsen Sound System</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Number of speakers
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				16
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Total effect
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				700
 			</td>
 		</tr>
@@ -7774,1558 +7603,1556 @@ This model is available with a seat configuration with five seats.
 </div>
 </div>
 </div>
-    <div class="accordion-item">
-        <h2 class="accordion-header">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapse24b4f50d-534e-452d-87fe-349ec1c9f154" aria-expanded="true" aria-controls="panelsStayOpen-collapse24b4f50d-534e-452d-87fe-349ec1c9f154">
-                        Audi RS e-tron GT (GEN1)
-            </button>
-        </h2>
-        <div id="panelsStayOpen-collapse24b4f50d-534e-452d-87fe-349ec1c9f154" class="accordion-collapse collapse">
-            <div class="accordion-body">
+    <div class="border border-gray-200 rounded-lg overflow-hidden">
+        <div class="bg-gray-50 px-4 py-3 border-b border-gray-200">
+            <h3 class="text-lg font-semibold text-gray-900">Audi RS e-tron GT (GEN1)</h3>
+        </div>
+        <div class="p-4">
 
-## Performance
+<h2 class="text-xl font-bold text-gray-900 mb-4">Performance</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Peak power
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				440 KW (598 hp /590 bhp)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Peak power with  boost
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				475 Kw
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electrical torque output
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				830 nm (613 lb-ft)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electrical torque output boost
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				830 Nm
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Top speed
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				250 kph (155 mph)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				0-100km/h (0-62 mph)
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				4,5 s
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				0-100km/h (0-62 mph) boost
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				3,3 s
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
 
 
-## Range & Consumption
+<h2 class="text-xl font-bold text-gray-900 mb-4">Range & Consumption</h2>
 
 Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Basic trim WLTP range
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				495 km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Basic trim WLTP consumption
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				16,9 kWh/100km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Basic trim WLTP consumption with charging loss
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				19,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Top trim WLTP range
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				447 km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Top trim WLTP consumption
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				18,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Top trim WLTP consumption with charging loss
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				22,1 kwh/100km
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
 
 
-## Battery & Charging
+<h2 class="text-xl font-bold text-gray-900 mb-4">Battery & Charging</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Battery gross
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				93,4 kWh
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Battery net
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				83,7 kWh
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Max DC charging
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				270 kW
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Number of modules
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				33
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Pack Configuration
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				198s2p
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Nominal voltage
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				725
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Cathode Materials
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				NMC
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
 
 
-### Chargeports
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Chargeports</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Chargeport placement
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				RightFrontSide
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Europe
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CCS2
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport North America
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CCS1
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport China
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				GBT
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Japan
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CHAdeMO
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Oceania (Australia, New Zealand ++)
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CCS2
 			</td>
 		</tr>
 	</tbody>
 </table>
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+</div>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Chargeport placement
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				LeftFrontSide
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Europe
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Type2
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport North America
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				J1772
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport China
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				GBT
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Japan
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CHAdeMO
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Type chargeport Oceania (Australia, New Zealand ++)
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				CCS2
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Dimensions
+<h2 class="text-xl font-bold text-gray-900 mb-4">Dimensions</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Length
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				4989 mm (196,4")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Height
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1396 mm (55,0")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Width excluding mirrors
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1964 mm (77,3")
 			</td>
 		</tr>
 		<tr>
-			<td>
-				Dimensions.WidhtIncludingMirrors
-			</td>
-			<td>
-				2158 mm (85,0")
-			</td>
-		</tr>
-		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Wheelbase
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2900 mm (114,2")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Track width front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1710 mm (67,3")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Track width rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				1694 mm (66,7")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Drag coefficient
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				0,24
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Frontal area
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2,35
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Approach Angle
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				13
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Departure Angle
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				16,4
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Turning circle
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				11,6 meter (456,7")
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Cargo Capacity and Towing Ability
+<h2 class="text-xl font-bold text-gray-900 mb-4">Cargo Capacity and Towing Ability</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Curb weight
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2340 kg (5159 lbs)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Maximum total weight
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2860 kg (6305 lbs)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Maximum load including weight driver
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				520 kg (1146 lbs)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Max roof cargo
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				75 kg (165 lbs)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Trunk capacity
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				405 liter (14 cu-ft)
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Size frunk
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				85 liter (3 cu-ft)
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Suspension
+<h2 class="text-xl font-bold text-gray-900 mb-4">Suspension</h2>
 
 The model offers 2 suspension variants
 
-### Standard
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Standard</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adaptive suspension
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable damping front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable damping rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable height front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable height rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Max ground clearance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				145 mm (5,7")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Minimum ground clearance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				145 mm (5,7")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Damper type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Damper type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Spring type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Coil Spring
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Spring type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Coil Spring
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Suspension type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Double wishbone suspension
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Suspension type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Multi-link
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-### Adaptive Air Suspension
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Adaptive Air Suspension</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adaptive suspension
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable damping front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable damping rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable height front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable height rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Max ground clearance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				165 mm (6,5")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Minimum ground clearance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				125 mm (4,9")
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Damper type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Damper type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				ElectronicallyControlled
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Spring type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Air
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Spring type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Air
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Suspension type front
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Double wishbone suspension
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Suspension type rear
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Multi-link
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Interior
+<h2 class="text-xl font-bold text-gray-900 mb-4">Interior</h2>
 
 This model is available with a seat configuration with five seats.
 
-### Front seats
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Front seats</h3>
 
 
-#### sport plus
+<h4 class="text-base font-medium text-gray-900 mb-2">sport plus</h4>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat type
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Driver and Passenger Seat
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat depth adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat height adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest angle adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion angle adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Memory
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Height adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Length adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable thigh support
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Footrest passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Leg support passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electric lumbar adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat ventilation
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Optional feature
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Massage function
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-#### sport pro
+<h4 class="text-base font-medium text-gray-900 mb-2">sport pro</h4>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat type
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Driver and Passenger Seat
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat depth adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat height adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest angle adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion angle adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Memory
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Standard feature
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Height adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Length adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable thigh support
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Standard feature
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Standard feature
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Standard feature
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Footrest passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Leg support passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electric lumbar adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat ventilation
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Standard feature
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Massage function
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-### Second row seats
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Second row seats</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat type
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Three-seat bench
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Height adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Unknown
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Length adjustable headrest
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Adjustable thigh support
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Backrest side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat cushion side bolster adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Footrest passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Leg support passenger
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electric lumbar adjustment
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Seat ventilation
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Massage function
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not Available
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## Driver Assistance
+<h2 class="text-xl font-bold text-gray-900 mb-4">Driver Assistance</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Lane keeping
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Active Lane Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Lane departure warning
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Active Lane Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Drowsiness Alert
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Reversing camera
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				360 camera
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Rear cross traffic alert (RCTA)
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Cross traffic assist rear), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
-				Rear parking sensors
-			</td>
-			<td>
-				Yes (Parking system plus), standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Front parking sensors
-			</td>
-			<td>
-				Yes (Parking system plus), standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Side parking sensors
-			</td>
-			<td>
-				Yes (Parking system plus), standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Hill descent assist
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Hill start assist
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				AntiLock Braking System
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Automatic emergency braking
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Pre sense front), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Traction control
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Left turn crash avoidance
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Turn Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Forward Collision Warning
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Collision Avoidance Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Electronic stability control
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Temperature warning
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Cross traffic allert (CTA)
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Cross Traffic Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Efficiency assist
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Efficency Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Automatic Emergency Steering
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Collision Avoidance Assist), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Traffic Sign Recognition
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Traffic Sign Recongition), standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Night Vision
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Night Vision Assist), optional equipment
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-## UI and controls
+<h2 class="text-xl font-bold text-gray-900 mb-4">UI and controls</h2>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Head-up display
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, optional equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Voice control
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Gesture control
 			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Android Auto support
-			</td>
-			<td>
-				Yes (Smartphone Interface), optional equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Apple Carplay support
-			</td>
-			<td>
-				Yes (Smartphone Interface), optional equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				In-car navigation
-			</td>
-			<td>
-				Yes (MMI Navigation plus), standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Available screen layouts
-			</td>
-			<td>
-				1
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Digital driver display
-			</td>
-			<td>
-				Yes, 12,3
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Infotainment screen
-			</td>
-			<td>
-				Yes, 10,1"
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Front passenger Infotainment screen
-			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not available
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Android Auto support
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yes (Smartphone Interface), standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Apple Carplay support
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yes (Smartphone Interface), standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				In-car navigation
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yes (MMI Navigation plus), standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Available screen layouts
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				1
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Digital driver display
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yes, 12,3
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Infotainment screen
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yes, 10,1"
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Front passenger Infotainment screen
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Rear passenger Infotainment screen
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not available
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Number of available sound systems
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				2
 			</td>
 		</tr>
 
-### Audi Sound system
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Audi Sound system</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Number of speakers
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				10
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Total effect
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				180
 			</td>
 		</tr>
 	</tbody>
 </table>
+</div>
 
-### Bang & Olufsen Sound System
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Bang & Olufsen Sound System</h3>
 
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Spec
 			</th>
-			<th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
 				Value
 			</th>
-			</tr>
+		</tr>
 	</thead>
-	<tbody>
+	<tbody class="bg-white divide-y divide-gray-200">
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Number of speakers
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				16
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Total effect
 			</td>
-			<td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				700
 			</td>
 		</tr>
