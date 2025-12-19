@@ -122,35 +122,35 @@ Below you see some of the colors you can choose from.
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview1s.jpg" class="img-fluid" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview1s.jpg" class="max-w-full h-auto" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
     </a>
     <figcaption><h4>Pearl effect paint finishes</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview2s.jpg" class="img-fluid" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview2s.jpg" class="max-w-full h-auto" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
     </a>
     <figcaption><h4>Crystal effect paint finishes</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview3s.jpg" class="img-fluid" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview3s.jpg" class="max-w-full h-auto" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
     </a>
     <figcaption><h4>Uni paint finishes</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview4s.jpg" class="img-fluid" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview4s.jpg" class="max-w-full h-auto" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
     </a>
     <figcaption><h4>Metallic paint finishes</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview5s.jpg" class="img-fluid" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
+        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview5s.jpg" class="max-w-full h-auto" alt="Audi Exclusive paint colors" title="Audi Exclusive paint colors">
     </a>
     <figcaption><h4>Metallic paint finishes</h4></figcaption>
 </figure>
