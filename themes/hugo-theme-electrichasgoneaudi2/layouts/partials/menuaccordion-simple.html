@@ -1,52 +1,93 @@
-<div class="offcanvas offcanvas-end text-bg-dark" tabindex="-1" id="offcanvasDarkNavbar" aria-labelledby="offcanvasDarkNavbar">
-  <div class="offcanvas-header">
-    <h5 class="offcanvas-title" id="offcanvasDarkNavbar">Electrichasgoneaudi.net</h5>
-    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-  </div>
-  <div class="offcanvas-body">
-    <nav class="links w-100" id="evkx-nav" aria-label="evkx navigation" data-bs-theme="dark">
-
-
-      <ul class="list-group list-group-flush">
-        <li class="list-group-item list-group-item-action"> <a href="{{ with .Site.GetPage `/models/`}}{{.RelPermalink}}{{end}}" class="text-decoration-none text-white">
-          <i class="bi-car-front me-2"></i>{{ T "common-section-models-title"}}
+<!-- Mobile slide-out menu - converted to Tailwind -->
+<div class="fixed inset-0 z-50 hidden" id="mobile-slide-menu">
+  <!-- Backdrop -->
+  <div class="fixed inset-0 bg-black bg-opacity-50" onclick="closeMobileSlideMenu()"></div>
+  
+  <!-- Menu panel -->
+  <div class="fixed right-0 top-0 h-full w-80 bg-gray-900 text-white shadow-xl transform translate-x-full transition-transform duration-300 ease-in-out" id="menu-panel">
+    <!-- Header -->
+    <div class="flex items-center justify-between p-4 border-b border-gray-700">
+      <h5 class="text-lg font-medium">Electrichasgoneaudi.net</h5>
+      <button type="button" onclick="closeMobileSlideMenu()" class="p-2 text-gray-400 hover:text-white">
+        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+        </svg>
+      </button>
+    </div>
+    
+    <!-- Menu content -->
+    <div class="p-4">
+      <nav class="space-y-2" id="evkx-nav" aria-label="evkx navigation">
+        <a href="{{ with .Site.GetPage `/models/`}}{{.RelPermalink}}{{end}}" class="flex items-center px-3 py-3 text-white hover:bg-gray-700 rounded transition-colors duration-200">
+          <i class="bi-car-front mr-3 text-lg"></i>
+          <span>{{ T "common-section-models-title"}}</span>
         </a>
-        </li>
-        <li class="list-group-item list-group-item-action">
-          <a href="{{ with .Site.GetPage `/technology/`}}{{.RelPermalink}}{{end}}" class="text-decoration-none text-white">
-            <i class="bi-info-square me-2"></i>{{ T "common-section-technology-title"}}
-          </a>
-        </li>
-        <li class="list-group-item list-group-item-action">
-          <a href="{{ with .Site.GetPage `/guides/`}}{{.RelPermalink}}{{end}}" class="text-decoration-none text-white">
-            <i class="bi-question-square me-2"></i>{{ T "common-section-guides-title"}}
-          </a>
-        </li>
-        <li class="list-group-item list-group-item-action">
-          <a href="{{ with .Site.GetPage `/articles/`}}{{.RelPermalink}}{{end}}" class="text-decoration-none text-white">
-            <i class="bi-question-square me-2"></i>{{ T "common-section-articles"}}
-          </a>
-        </li>
-      </ul>
+        <a href="{{ with .Site.GetPage `/technology/`}}{{.RelPermalink}}{{end}}" class="flex items-center px-3 py-3 text-white hover:bg-gray-700 rounded transition-colors duration-200">
+          <i class="bi-info-square mr-3 text-lg"></i>
+          <span>{{ T "common-section-technology-title"}}</span>
+        </a>
+        <a href="{{ with .Site.GetPage `/guides/`}}{{.RelPermalink}}{{end}}" class="flex items-center px-3 py-3 text-white hover:bg-gray-700 rounded transition-colors duration-200">
+          <i class="bi-question-square mr-3 text-lg"></i>
+          <span>{{ T "common-section-guides-title"}}</span>
+        </a>
+        <a href="{{ with .Site.GetPage `/articles/`}}{{.RelPermalink}}{{end}}" class="flex items-center px-3 py-3 text-white hover:bg-gray-700 rounded transition-colors duration-200">
+          <i class="bi-question-square mr-3 text-lg"></i>
+          <span>{{ T "common-section-articles"}}</span>
+        </a>
 
-      <div class="accordion accordion-flush" id="evkxmenuaccordion">
-        <div class="accordion-item">
-          <h2 class="accordion-header">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-            data-bs-target="#collapseLanguage" aria-expanded="false" aria-controls="collapseLanguage">
-            <i class="bi-translate me-2"></i>{{ T "language"}}
-            </button>
-          </h2>
-          <div id="collapseLanguage" class="accordion-collapse collapse" data-bs-parent="#evkxmenuaccordion">
-            <div class="accordion-body">
+      <div class="mt-4">
+        <div class="border-t border-gray-600">
+          <button onclick="toggleLanguageAccordion()" class="w-full flex items-center justify-between px-4 py-3 text-left text-white hover:bg-gray-700 transition-colors duration-200" aria-expanded="false" aria-controls="language-accordion">
+            <div class="flex items-center">
+              <i class="bi-translate mr-2"></i>
+              <span>{{ T "language"}}</span>
+            </div>
+            <svg class="w-5 h-5 transform transition-transform duration-200" id="language-accordion-icon" viewBox="0 0 20 20" fill="currentColor">
+              <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
+            </svg>
+          </button>
+          <div id="language-accordion" class="hidden overflow-hidden">
+            <div class="px-4 pb-4">
               {{ partial "language-switcheraccordion.html" . }}
-
             </div>
           </div>
         </div>
-        </div>
+      </div>
     </nav>
   </div>
 </div>
+</div>
+
+<script>
+function toggleLanguageAccordion() {
+  const accordion = document.getElementById('language-accordion');
+  const icon = document.getElementById('language-accordion-icon');
+  const button = accordion.previousElementSibling;
+  
+  accordion.classList.toggle('hidden');
+  icon.classList.toggle('rotate-180');
+  
+  const isExpanded = !accordion.classList.contains('hidden');
+  button.setAttribute('aria-expanded', isExpanded);
+}
+
+function openMobileSlideMenu() {
+  const menu = document.getElementById('mobile-slide-menu');
+  const panel = document.getElementById('menu-panel');
+  menu.classList.remove('hidden');
+  setTimeout(() => {
+    panel.classList.remove('translate-x-full');
+  }, 10);
+}
+
+function closeMobileSlideMenu() {
+  const menu = document.getElementById('mobile-slide-menu');
+  const panel = document.getElementById('menu-panel');
+  panel.classList.add('translate-x-full');
+  setTimeout(() => {
+    menu.classList.add('hidden');
+  }, 300);
+}
+</script>
 
 
