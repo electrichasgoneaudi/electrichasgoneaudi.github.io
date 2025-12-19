@@ -13,12 +13,13 @@
 {{end}}
 
 {{ if and (gt .WordCount 100 ) (.Params.toc) }}
-<h2>På denne siden:</h2>
-{{ .TableOfContents }}
+<h2 class="text-2xl font-semibold text-gray-900 mb-3">På denne siden:</h2>
+<div class="mb-6">{{ .TableOfContents }}</div>
 {{ end }}
 
-
+<div class="content-prose">
 {{ $regExpIn := "<p><img src=\"([^\"]+)\" alt=\"([^\"]+)\" title=\"([^\"]+)\"></p>" }}
 {{ $regExpOut := "<figure><a href=\"$1\"><img src=\"$1\" alt=\"$2\" title=\"$3\" /></a><figcaption><h4>$3</h4></figcaption></figure>" }}
 {{ $finalContent := .Content | replaceRE $regExpIn $regExpOut | safeHTML }}
 {{ $finalContent }}
+</div>
