@@ -1,4 +1,10 @@
 
+/* Temporary Bootstrap compatibility - img-fluid replacement */
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
 /* External links */
 .a-illustration-icon {
     background: #022F51;

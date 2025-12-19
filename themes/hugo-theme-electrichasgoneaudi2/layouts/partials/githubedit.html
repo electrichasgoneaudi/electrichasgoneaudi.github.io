@@ -3,9 +3,9 @@
 {{ $File := .File }}
 {{ $Site := .Site }}
 {{with $File.Path }}
-  <div id="top-github-link" class="text-end" >
-	<a class="btn btn-secondary btn-sm" href="{{ $Site.Params.editURL }}{{ replace $File.Dir "\\" "/" }}{{ $File.LogicalName }}" target="blank">
-	  <i class="bi bi-pencil-square"></i>
+  <div id="top-github-link" class="text-right" >
+	<a class="inline-flex items-center px-3 py-2 border border-gray-300 shadow-sm text-sm leading-4 font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500" href="{{ $Site.Params.editURL }}{{ replace $File.Dir "\\" "/" }}{{ $File.LogicalName }}" target="blank">
+	  <i class="bi bi-pencil-square mr-2"></i>
 	  {{T "Edit-this-page"}}
 	</a>
   </div>

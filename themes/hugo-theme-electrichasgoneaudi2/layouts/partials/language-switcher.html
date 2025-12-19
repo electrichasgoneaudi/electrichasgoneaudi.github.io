@@ -1,19 +1,41 @@
 
-<li class="nav-item dropdown">
-  <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+<div class="relative inline-block text-left w-full md:w-auto">
+  <button type="button" onclick="toggleLanguageDropdown()" class="inline-flex items-center justify-center w-full md:w-auto px-4 py-2 text-sm font-medium text-gray-700 md:text-white bg-white md:bg-gray-700 rounded-md hover:bg-gray-100 md:hover:bg-gray-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-white md:focus:ring-offset-gray-800 focus:ring-indigo-500 md:focus:ring-white border md:border-0 border-gray-300" id="language-menu-button" aria-expanded="false" aria-haspopup="true">
     {{ T "language" }}
-  </a>
-  <ul class="dropdown-menu">
-  {{- $currentPage := . -}}
-  {{- if .Site.IsMultiLingual -}}
-    {{- range .AllTranslations -}}
-    <li>
-      <a class="dropdown-item" href="{{ .RelPermalink }}">
-        <img src="/images/{{ .Language }}.svg" width="20px" class="img-fluid" class="img-fluid" alt="Language flag" /> {{ .Language.LanguageName }}{{- if eq .Language.Lang $currentPage.Language.Lang }} ✓{{- end -}}
-      </a>
-    </li>
-  {{- end -}}
-  {{- end -}}
-</ul>
-</li>
+    <svg class="w-5 h-5 ml-2 -mr-1" viewBox="0 0 20 20" fill="currentColor">
+      <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
+    </svg>
+  </button>
+  
+  <div class="absolute right-0 z-50 mt-2 w-56 origin-top-right bg-white rounded-md shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none hidden" id="language-dropdown" role="menu" aria-orientation="vertical" aria-labelledby="language-menu-button">
+    <div class="py-1" role="none">
+      {{- $currentPage := . -}}
+      {{- if .Site.IsMultiLingual -}}
+        {{- range .AllTranslations -}}
+        <a href="{{ .RelPermalink }}" class="flex items-center px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-gray-900" role="menuitem">
+          <img src="/images/{{ .Language }}.svg" width="20" class="w-5 h-5 object-contain mr-2" alt="Language flag" /> 
+          {{ .Language.LanguageName }}{{- if eq .Language.Lang $currentPage.Language.Lang }} ✓{{- end -}}
+        </a>
+        {{- end -}}
+      {{- end -}}
+    </div>
+  </div>
+</div>
+
+<script>
+function toggleLanguageDropdown() {
+  const dropdown = document.getElementById('language-dropdown');
+  dropdown.classList.toggle('hidden');
+}
+
+// Close dropdown when clicking outside
+document.addEventListener('click', function(event) {
+  const button = document.getElementById('language-menu-button');
+  const dropdown = document.getElementById('language-dropdown');
+  
+  if (!button.contains(event.target) && !dropdown.contains(event.target)) {
+    dropdown.classList.add('hidden');
+  }
+});
+</script>
 
