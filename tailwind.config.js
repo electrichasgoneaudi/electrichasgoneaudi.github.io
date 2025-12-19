@@ -1,7 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
-    './themes/**/layouts/**/*.html',
+    './themes/ehga-tailwind/layouts/**/*.html',
     './layouts/**/*.html',
     './content/**/*.{html,md}',
     './static/**/*.js'

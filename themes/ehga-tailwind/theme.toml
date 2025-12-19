@@ -1,0 +1,22 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/spf13/hugoThemes#themetoml for an example
+
+name = "ehga-tailwind"
+license = "MIT"
+licenselink = "https://github.com/electrichasgoneaudi/electrichasgoneaudi.github.io/blob/main/LICENSE"
+description = "Electric Has Gone Audi theme with Tailwind CSS"
+homepage = "https://electrichasgoneaudi.net"
+repo = "https://github.com/electrichasgoneaudi/electrichasgoneaudi.github.io"
+tags = ["documentation", "automotive", "electric-vehicles", "tailwind", "responsive"]
+features = ["documentation", "multilingual", "search", "responsive", "tailwind-css", "photoswipe"]
+min_version = "0.121.2"
+
+[author]
+  name = "evkx"
+  homepage = "https://electrichasgoneaudi.net"
+
+[original]
+  name = "Docdock"
+  homepage = "https://docdock.netlify.com/"
+  repo = "https://github.com/vjeantet/hugo-theme-docdock"
+  licenselink = "https://github.com/vjeantet/hugo-theme-docdock/blob/master/LICENSE.md"
