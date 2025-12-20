@@ -12,8 +12,8 @@ Audi e-tron GT is equipped with an indirect TPMS system as standard.  This means
 With direct TPMS there is an air pressure sensor in each tire that communicates with the car. This measures the temperature  and pressure for each wheel and presents this in the MMI.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/tpms/tpms3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/tpms/tpms3s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/tpms/tpms3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/tpms/tpms3s.webp"
         class="img-fluid" alt="Tire pressure measure system" title="Tire pressure measure system">
     </a>
     <figcaption><h4>Tire pressure measure system</h4></figcaption>
@@ -22,16 +22,16 @@ With direct TPMS there is an air pressure sensor in each tire that communicates 
 Below you see how MMI indicates that the left front tire has much lower pressure than other wheels.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/tpms/tpms3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/tpms/tpms3s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/tpms/tpms3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/tpms/tpms3s.webp"
         class="img-fluid" alt="Left front wheel with lower pressure" title="Left front wheel with lower pressure">
     </a>
     <figcaption><h4>Left front wheel with lower pressure</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/tpms/tpms3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/tpms/tpms3s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/tpms/tpms3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/tpms/tpms3s.webp"
         class="img-fluid" alt="Tire pressure measure system" title="Tire pressure measure system">
     </a>
     <figcaption><h4>Tire pressure measure system</h4></figcaption>

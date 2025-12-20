@@ -9,7 +9,7 @@ The following guide is based on the basic model. Many markets have trim package 
 
 You should read through the whole [option list](list) but below are the most important options you need to consider when buying an Audi Q4 e-tron.
 
-![IU1](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/optionguide/iu1.jpg)
+![IU1](https://media.evkx.net/ehga/models/q4-e-tron/optionguide/iu1.webp)
 
 ## Smartphone interface: Option ID IU1
 
@@ -19,7 +19,7 @@ Currently this is only avaiable in the infotainment package with optionID **PYX*
 
 [See smartphone interface for details.](../technology/uiandoperations/smartphoneinterface/)
 
-![QL2](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/optionguide/ql5.jpg)
+![QL2](https://media.evkx.net/ehga/models/q4-e-tron/optionguide/ql5.webp)
 
 ## Privacy windows: Option ID QL5
 
@@ -27,7 +27,7 @@ Improves looks a lot and you dont need to drive around in a fish tank on display
 
 [See windows for details](../exterior/windows/#privacy-glass)
 
-![PYG](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/optionguide/pyg.jpg)
+![PYG](https://media.evkx.net/ehga/models/q4-e-tron/optionguide/pyg.webp)
 
 ## MMI Navigation plus: Option ID PYG
 
@@ -37,7 +37,7 @@ Having a built in Navigation System gives serveral advantages over using your ph
 See details on [MMI Navigation Plus](../technology/uiandoperations/navigation/) and
 [Virtual Cockpit](../technology/uiandoperations/virtualcockpit/)
 
-![Matrix](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature1s.jpg)
+![Matrix](https://media.evkx.net/ehga/models/q4-e-tron/technology/lights/signature1s.webp)
 
 ## Matrix LED headlights
 
@@ -53,7 +53,7 @@ The assistant package pro contains most of the important driver assist functiona
 
 Side assist is not part Assistantpackage Pro but is included in the security package plus package. The package include [Side Assist](../technology/drivingassistance/sideassist/), [exit warning](../technology/drivingassistance/exitwarning/), [cross traffic assist rear](../technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](../technology/drivingassistance/presenserear/).
 
-![QQ2](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/optionguide/qq2.jpg)
+![QQ2](https://media.evkx.net/ehga/models/q4-e-tron/optionguide/qq2.webp)
 
 ## Multicolour ambient lightning: Option ID QQ2
 

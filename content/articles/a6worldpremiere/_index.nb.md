@@ -6,7 +6,7 @@ weight: 99988
 ---
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="models/a6-e-tron/avant_final_st.jpg" width="3000" height="2249" title="Audi A6 Avant e-tron" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/avant_final_st.webp" width="3000" height="2249" title="Audi A6 Avant e-tron" >}}
 
 Som den andre modellen på PPE-plattformen, bygger den øvre mellomstore bilen videre på de kjente produktegenskapene til ytelse, rekkevidde, effektivitet og lading. Det er også plattformens første modell med et flatt gulvkonsept.
 
@@ -26,7 +26,7 @@ En svart maske omgir den lukkede og inverterte enkeltrammen, noe som reflekterer
 
 Den dynamiske taklinjen til A6 e-tron hviler på et kraftig fundament med lav kjørehøyde. Quattro-blisterene er konturene som fremhever quattro-drivverket med sin skulpturelle og muskuløse form. De er et kjerneelement i Audis design-DNA. Som hjertet i bilen fremheves batteriet av et svart innskudd i terskelområdet. Innsatsen gir bilen et flatt, slankt og dynamisk utseende fra siden. Den strekker seg til baksiden og integrerer reflektorene, noe som gir A6 e-tron et visuelt strukket utseende. Avant er også preget av en svært flat taklinje, med D-stolpen som skråner bratt fremover. Et aluminiums-look trimstykke fra A-stolpen til takspoileren er et nytt, distinktivt trekk ved A6 Avant e-tron og skaper høy gjenkjennbarhet.
 
-{{< sitefiguresized thumb="models/a6-e-tron/sportback_final_st.jpg" width="3000" height="2249" title="Audi A6 Sportback e-tron" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/sportback_final_st.webp" width="3000" height="2249" title="Audi A6 Sportback e-tron" >}}
 
 Baksiden formidler en blanding av sporty eleganse og full kraft. Den rene arkitekturen, kombinert med den kontinuerlige og tredimensjonale lysstripen, gir den nye A6 e-tron klarhet og selvtillit. En slående spoilerleppe avslutter baksiden av Sportback, og den iøynefallende bakre diffusoren understreker ytterligere det sporty og dynamiske utseendet til baksiden.
 
@@ -67,11 +67,11 @@ Et spesielt høydepunkt i den nye Audi A6 e-tron er utstyravhengig belysning av 
 
 Interiøret i Audi A6 e-tron er konsekvent tilpasset brukernes behov. Det tredimensjonale og høy-kontrast designet plasserer elementer bevisst i forgrunnen eller bakgrunnen, og skaper en romlig arkitektur som er skreddersydd til de reisende når det gjelder design og ergonomi. MMI panoramaskjermen, med sin buede design og OLED-teknologi, består av en 11,9-tommers Audi virtual cockpit og en 14,5-tommers MMI berøringsskjerm, og sammen med den 10,9-tommers MMI frontpassasjerskjermen, danner de en digital scene med visuelt klart design.
 
-{{< sitefiguresized thumb="models/a6-e-tron/technology/uiandoperations/mmi/mmi_1_st.jpg" width="3000" height="2249" title="MMI Panoramic Display" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/technology/uiandoperations/mmi/mmi_1_st.webp" width="3000" height="2249" title="MMI Panoramic Display" >}}
 
 Aktiv personvernsmodus tillater frontpassasjeren å nyte underholdningsinnhold mens man reiser, for eksempel å se på filmer eller strømme serier, uten å distrahere føreren. Avhengig av aktuell hastighet og seteopptakelse, blir lyset rettet (personvernsmodus på) eller diffust (innhold synlig for alle) via en intelligent styreenhet.
 
-{{< sitefiguresized thumb="models/a6-e-tron/technology/uiandoperations/mmi/mmi_3_st.jpg" width="3000" height="2249" title="MMI Panoramic Display" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/technology/uiandoperations/mmi/mmi_3_st.webp" width="3000" height="2249" title="MMI Panoramic Display" >}}
 
 Audi tar et betydelig skritt fremover i displayteknologi med den valgfrie andre generasjonens augmented reality head-up display (AR HuD), et annet sentralt element i den digitale scenen.
 

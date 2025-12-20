@@ -13,8 +13,8 @@ I tillegg kan man være villige til å øke/redusere budsjettet sitt avhengig av
 Det er derfor vi i denne artikkelen vil gå inn på de detaljerte forskjellene mellom Audi e-tron 55 quattro og Audi Q4 e-tron 50 quattro
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/etronvsq4_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/etronvsq4_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/comparisons/q4etron50vsetron55/etronvsq4_1.webp">
+        <img src="https://media.evkx.net/ehga/models/comparisons/q4etron50vsetron55/etronvsq4_1s.webp"
         class="img-fluid" alt="Audi e-tron 55 quattro og Audi Q4 e-tron 50 quattro" title="Audi e-tron 55 quattro og Audi Q4 e-tron 50 quattro">
     </a>
     <figcaption><h4>Audi e-tron 55 quattro og Audi Q4 e-tron 50 quattro</h4></figcaption>
@@ -57,8 +57,8 @@ For mange er dette en avgjørende faktor.
 Audi e-tron er 313 mm lengre og 81 mm bredere enn Q4. Den mindre størrelsen gjør Q4 mer fleksibel i trafikk- og parkeringssituasjoner.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/parkingspace.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/parkingspaces.jpg"
+    <a href="https://media.evkx.net/ehga/models/comparisons/q4etron50vsetron55/parkingspace.webp">
+        <img src="https://media.evkx.net/ehga/models/comparisons/q4etron50vsetron55/parkingspaces.webp"
         class="img-fluid" alt="Et typisk scenario. Audi e-tron fyller parkeringsplassene helt." title="Et typisk scenario. Audi e-tron fyller parkeringsplassene helt.">
     </a>
     <figcaption><h4>Et typisk scenario. Audi e-tron fyller parkeringsplassene helt.</h4></figcaption>
@@ -90,8 +90,8 @@ Begge har muligheter for et S-line interiør og flerfarget ambient belysning.
 Audi e-tron har også interiørdesignalternativer som et dashbord i skinn og glassknapper. Den kan også bestilles med Audi exclusive interiør.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_8.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_8s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/interior/seats/seats_individualcontour_8.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/interior/seats/seats_individualcontour_8s.webp"
         class="img-fluid" alt="Individual contour seats in Audi e-tron" title="Individual contour seats in Audi e-tron">
     </a>
     <figcaption><h4>Individual contour seats in Audi e-tron</h4></figcaption>
@@ -117,8 +117,8 @@ Bare én skjerm har noen ulemper siden du mister noen funksjonalitet som er tilg
 For noen er de fysiske knappene til AC på Q4 en fordel.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/mmi/mmi.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/mmi/mmis.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/mmi/mmi.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/mmi/mmis.webp"
         class="img-fluid" alt="One screen Audi MMI touch on Audi Q4 e-tron" title="One screen Audi MMI touch on Audi Q4 e-tron">
     </a>
     <figcaption><h4>One screen Audi MMI touch on Audi Q4 e-tron</h4></figcaption>
@@ -200,8 +200,8 @@ Startprisen er betydelig lavere på Q4 e-tron 50 enn Audi e-tron 55. Men ulike m
 Grunnprisen for Audi Q4 e-tron 50 i Norge er 486.900,- og for Audi e-tron 55 694.500,- Men her er det viktig å lege merke til at man får pakken Advanced Business til 677.500,- for e-tron 55 som inneholder mye utstyr.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/etronvsq4_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/etronvsq4_2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/comparisons/q4etron50vsetron55/etronvsq4_2.webp">
+        <img src="https://media.evkx.net/ehga/models/comparisons/q4etron50vsetron55/etronvsq4_2s.webp"
         class="img-fluid" alt="Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro" title="Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro">
     </a>
     <figcaption><h4>Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro</h4></figcaption>
@@ -247,8 +247,8 @@ Da har man alt utstyret til en fullspekket Audi Q4 e-tron 50 quattro, men i tile
 For tiden inkluderer prisen på e-tron også vinterdekk slik at den praktiske prisforskjellen er rundt 30.000,-
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/configurator.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/configurator.jpg"
+    <a href="https://media.evkx.net/ehga/models/comparisons/q4etron50vsetron55/configurator.webp">
+        <img src="https://media.evkx.net/ehga/models/comparisons/q4etron50vsetron55/configurator.webp"
         class="img-fluid" alt="Fra configurator. 783.700,- vs 851.600,-" title="Fra configurator. 783.700,- vs 851.600,-">
     </a>
     <figcaption><h4>Fra configurator. 783.700,- vs 851.600,-</h4></figcaption>
@@ -377,23 +377,23 @@ Nedenfor ser du den fullstendige spesifikasjonen og utstyrsammenligningen av gru
 ### Sammenligning dimmensjoner
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison1.jpg"
+    <a href="https://media.evkx.net/ehga/models/comparisons/q4etron50vsetron55/comparison1.webp">
+        <img src="https://media.evkx.net/ehga/models/comparisons/q4etron50vsetron55/comparison1.webp"
         class="img-fluid" alt="Størrelse sammenligning Q4 og e-tron" title="Størrelse sammenligning Q4 og e-tron">
     </a>
     <figcaption><h4>Størrelse sammenligning Q4 og e-tron</h4></figcaption>
 </figure>
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison2.jpg"
+    <a href="https://media.evkx.net/ehga/models/comparisons/q4etron50vsetron55/comparison2.webp">
+        <img src="https://media.evkx.net/ehga/models/comparisons/q4etron50vsetron55/comparison2.webp"
         class="img-fluid" alt="Størrelse sammenligning Q4 og e-tron" title="Størrelse sammenligning Q4 og e-tron">
     </a>
     <figcaption><h4>Størrelse sammenligning Q4 og e-tron</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/comparison3.jpg"
+    <a href="https://media.evkx.net/ehga/models/comparisons/q4etron50vsetron55/comparison3.webp">
+        <img src="https://media.evkx.net/ehga/models/comparisons/q4etron50vsetron55/comparison3.webp"
         class="img-fluid" alt="Størrelse sammenligning Q4 og e-tron" title="Størrelse sammenligning Q4 og e-tron">
     </a>
     <figcaption><h4>Størrelse sammenligning Q4 og e-tron</h4></figcaption>

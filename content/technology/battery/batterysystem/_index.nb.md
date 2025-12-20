@@ -16,8 +16,8 @@ Typisk består en batteripakke av moduler som består av flere celler.
 Moduler er en kombinasjon av celler. Antall celler i en modul varierer.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/module_lg_pouch.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/module_lg_pouch.jpg"
+    <a href="https://media.evkx.net/ehga/technology/battery/batterysystem/module_lg_pouch.webp">
+        <img src="https://media.evkx.net/ehga/technology/battery/batterysystem/module_lg_pouch.webp"
         class="img-fluid" alt="LG batterimodul" title="LG batterimodul">
     </a>
     <figcaption><h4>LG batterimodul</h4></figcaption>
@@ -63,8 +63,8 @@ gi dem optimale forhold. Under ser du en batteripakke fra Audi e-tron GT.
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/batterypack_e-tron-gt.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/batterypack_e-tron-gts.jpg"
+    <a href="https://media.evkx.net/ehga/technology/battery/batterysystem/batterypack_e-tron-gt.webp">
+        <img src="https://media.evkx.net/ehga/technology/battery/batterysystem/batterypack_e-tron-gts.webp"
         class="img-fluid" alt="Batteripakke med 33 moduler" title="Batteripakke med 33 moduler">
     </a>
     <figcaption><h4>Batteripakke med 33 moduler</h4></figcaption>
@@ -128,16 +128,16 @@ Teknologien er basert på å sette cellene direkte inn i pakken og øke energite
 15. mars 2021 presenterte Volkswagen-gruppen som Audi er en del av sin strategi som en del av Power-dagen.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/cell2pack.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/cell2packs.jpg"
+    <a href="https://media.evkx.net/ehga/technology/battery/batterysystem/cell2pack.webp">
+        <img src="https://media.evkx.net/ehga/technology/battery/batterysystem/cell2packs.webp"
         class="img-fluid" alt="Volkswagen Cell2Pack-teknologi" title="Volkswagen Cell2Pack-teknologi">
     </a>
     <figcaption><h4>Volkswagen Cell2Pack-teknologi</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/cell2packcomparison.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterysystem/cell2packcomparisons.jpg"
+    <a href="https://media.evkx.net/ehga/technology/battery/batterysystem/cell2packcomparison.webp">
+        <img src="https://media.evkx.net/ehga/technology/battery/batterysystem/cell2packcomparisons.webp"
         class="img-fluid" alt="Volkswagen Cell2Pack-sammenligning" title="Volkswagen Cell2Pack-sammenligning">
     </a>
     <figcaption><h4>Volkswagen Cell2Pack-sammenligning</h4></figcaption>

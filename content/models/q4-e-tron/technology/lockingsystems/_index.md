@@ -16,8 +16,8 @@ The driver must sit in the vehicle and carry the convenience key.
 The engine starts when pressing the brake pedal and setting the car in gear. It stops when the driver leaves the vehicle. The driver can also use the start/stop button to start/stop the ignition.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/startbutton.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/startbuttons.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/lockingsystems/startbutton.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/lockingsystems/startbuttons.webp"
         class="img-fluid" alt="Center console with start/stop button" title="Center console with start/stop button">
     </a>
     <figcaption><h4>Center console with start/stop button</h4></figcaption>
@@ -38,8 +38,8 @@ When the Audi Q4 e-tron is equipped with the [powered tailgate option](../../ext
 If you do not have a free hand, you can use a foot gesture (kick movement) at the rear.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/kicksensor.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/kicksensors.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/lockingsystems/kicksensor.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/lockingsystems/kicksensors.webp"
         class="img-fluid" alt="You can open the tailgate with the advance key by kicking the foot under the tailgate." title="You can open the tailgate with the advance key by kicking the foot under the tailgate.">
     </a>
     <figcaption><h4>You can open the tailgate with the advance key by kicking the foot under the tailgate.</h4></figcaption>
@@ -58,8 +58,8 @@ This option also includes an Anti-theft alarm system with an interior sensor.
 You can configure the locking system in Audi Q4 e-tron MMI.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/settings1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/settings1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/lockingsystems/settings1.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/lockingsystems/settings1s.webp"
         class="img-fluid" alt="Central locking settings in Audi Q4 e-tron MMI" title="Central locking settings in Audi Q4 e-tron MMI">
     </a>
     <figcaption><h4>Central locking settings in Audi Q4 e-tron MMI</h4></figcaption>

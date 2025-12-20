@@ -6,15 +6,15 @@ weight: 6
 ---
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/drivetrain.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/drivetrains.jpg" class="img-fluid" alt="Audi e-tron GT drivetrain" title="Audi e-tron GT drivetrain">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/drivetrain.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/drivetrains.webp" class="img-fluid" alt="Audi e-tron GT drivetrain" title="Audi e-tron GT drivetrain">
     </a>
     <figcaption><h4>Audi e-tron GT drivetrain</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/drivetrain2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/drivetrain2s.jpg" class="img-fluid" alt="Audi e-tron GT drivetrain" title="Audi e-tron GT drivetrain">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/drivetrain2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/drivetrain2s.webp" class="img-fluid" alt="Audi e-tron GT drivetrain" title="Audi e-tron GT drivetrain">
     </a>
     <figcaption><h4>Audi e-tron GT drivetrain</h4></figcaption>
 </figure>

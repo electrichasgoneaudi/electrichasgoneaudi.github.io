@@ -12,8 +12,8 @@ The following screenshots show some of the capabilities the myAudi app have. Scr
 You can manage all your Audis in the same app
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapps.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapps.webp"
         class="img-fluid" alt="in the myAudi app, you can control your different cars" title="in the myAudi app, you can control your different cars">
     </a>
     <figcaption><h4>in the myAudi app, you can control your different cars</h4></figcaption>
@@ -24,8 +24,8 @@ You can manage all your Audis in the same app
 You get the current car status.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp1s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp1.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp1s.webp"
         class="img-fluid" alt="You can see the overall status" title="You can see the overall status">
     </a>
     <figcaption><h4>You can see the overall status</h4></figcaption>
@@ -34,8 +34,8 @@ You get the current car status.
 ### Functionality
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp2s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp2.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp2s.webp"
         class="img-fluid" alt="You can see the different functions" title="You can see the different functions">
     </a>
     <figcaption><h4>You can see the different functions</h4></figcaption>
@@ -47,8 +47,8 @@ You can change the charging target for the car. To preserve the battery
 the most you should only charge to 100% when you need to.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp3s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp3.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp3s.webp"
         class="img-fluid" alt="Setting charging target" title="Setting charging target">
     </a>
     <figcaption><h4>Setting charging target</h4></figcaption>
@@ -57,8 +57,8 @@ the most you should only charge to 100% when you need to.
 ### Climate control
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp4s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp4.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp4s.webp"
         class="img-fluid" alt="You can start the climate control" title="You can start the climate control">
     </a>
     <figcaption><h4>You can start the climate control</h4></figcaption>
@@ -67,8 +67,8 @@ the most you should only charge to 100% when you need to.
 ### Equipment list
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp5s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp5.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp5s.webp"
         class="img-fluid" alt="You can see the full equipment list of your car" title="You can see the full equipment list of your car">
     </a>
     <figcaption><h4>You can see the full equipment list of your car</h4></figcaption>
@@ -77,16 +77,16 @@ the most you should only charge to 100% when you need to.
 ## Driver data
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp6s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp6.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp6s.webp"
         class="img-fluid" alt="You can see short-term memory driver data" title="You can see short-term memory driver data">
     </a>
     <figcaption><h4>You can see short-term memory driver data</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp7.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp7s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp7.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp7s.webp"
         class="img-fluid" alt="You can see long-term memory driver data" title="You can see long-term memory driver data">
     </a>
     <figcaption><h4>You can see long-term memory driver data</h4></figcaption>

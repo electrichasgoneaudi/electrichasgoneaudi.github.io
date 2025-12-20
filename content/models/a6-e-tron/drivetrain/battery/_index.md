@@ -10,7 +10,7 @@ The A6 e-tron series, built in Ingolstadt, is the first fully electric high-volu
 
 As part of the production of the Audi A6 e-tron series, approximately 1,000 high-voltage (HV) batteries are assembled every day on an area of around 30,000 square meters. A total of about 300 employees work in battery assembly in three shifts. The automation rate rises to about 90 percent. For each high-voltage battery, the manufacturing time falls from about two hours to only 55 minutes. Compared to the battery systems Audi has used to date, the battery for the PPE consists of only twelve modules with a total of 180 prismatic cells. For comparison: The HV battery in the Q8 e-tron is made up of 36 modules and 432 cells. The significant enlargement of the cells corresponds closely to the system voltage of 800 volts to achieve the best possible balance between range and charging performance.
 
-{{< sitefiguresized thumb="models/q6-e-tron/drivetrain/battery/battery_1_st.jpg" width="3000" height="1969" title="100Kwh gross pack, 12 modules" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/battery/battery_1_st.webp" width="3000" height="1969" title="100Kwh gross pack, 12 modules" >}}
 
 For the PPE, the ratio of nickel to cobalt and manganese in the cells is approximately 8:1:1, with a reduced proportion of cobalt and an increased proportion of nickel, which is of particular importance for the energy density.
 
@@ -20,7 +20,7 @@ The reduction of the number of modules for the PPE batteries offers a range of a
 
 The HV battery for the PPE was developed from the ground up and its structure was simplified. It is equipped with twelve modules and 180 cells and has a gross storage capacity of 100 kWh (94.9 net). For each module, 15 electrochemical cells are connected in series. The maximum charging power for the 100 kWh battery is 270 kW. 
 
-{{< sitefiguresized thumb="models/q6-e-tron/drivetrain/battery/cell_1_st.jpg" width="3000" height="1783" title="Battery module with 15 x 152 ah cells" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/battery/cell_1_st.webp" width="3000" height="1783" title="Battery module with 15 x 152 ah cells" >}}
 
 A variant with a capacity of 83 kWh is also available for the Audi A6 e-tron series. The latter consists of ten modules and 150 cells. Thanks to optimized cell chemistry and high-performance thermal management, the 100 kWh battery can be charged from 10 to 80 percent in 21 minutes at a suitable fast-charging station. Recharging a range up to 255 kilometers (158 mi) is possible in only ten minutes.
 
@@ -28,7 +28,7 @@ The battery management controller (BMC), a central control unit developed specif
 
 If a charging station is working with 400-volt technology, bank-charging is possible for the first time. The 800-volt battery is automatically divided into two batteries at equal voltage, which can then be charged in parallel with up to 135 kW. Both halves of the battery are first brought to the same level of charge and then charged together.
 
-{{< sitefiguresized thumb="models/q6-e-tron/drivetrain/battery/bankcharging_1_st.jpg" width="3000" height="1783" title="Battery module with 15 x 152 ah cells" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/battery/bankcharging_1_st.webp" width="3000" height="1783" title="Battery module with 15 x 152 ah cells" >}}
 
 
 ## Efficient thermal management for shorter charging time, more range, and longer service life

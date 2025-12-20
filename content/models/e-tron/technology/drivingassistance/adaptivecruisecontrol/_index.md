@@ -17,8 +17,8 @@ comfortable driving in the range from 0 to a maximum of 200 km / h. The system u
 The included speed limiter helps not to exceed a previously set maximum speed when driving manually. The speed limiter operation can be temporarily deactivated via kick-down and the set maximum speed is exceeded. The function is available from approx. 30 km / h
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/adaptivecruisecontrol/cruisecontrol.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/adaptivecruisecontrol/cruisecontrols.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/adaptivecruisecontrol/cruisecontrol.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/adaptivecruisecontrol/cruisecontrols.webp"
         class="img-fluid" alt="The cruise control handle controls the function" title="The cruise control handle controls the function">
     </a>
     <figcaption><h4>The cruise control handle controls the function</h4></figcaption>

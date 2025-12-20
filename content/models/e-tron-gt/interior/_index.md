@@ -13,8 +13,8 @@ The strong focus of the interior on the driver – inspired by the “monoposto�
 multifunction buttons, and its rim can be heated as an option (standard with the RS model ).
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/monoposto.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/monoposto.jpg" 
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/monoposto.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/monoposto.webp" 
         class="img-fluid" alt="Monoposto concept" title="Monoposto concept">
     </a>
     <figcaption><h4>Monoposto concept</h4></figcaption>
@@ -41,8 +41,8 @@ The sport seats pro with 18-way adjustment, pneumatic side bolsters, climate con
 The black leather-free design package is available for the sport seats plus. Upholstery is available either as a combination of artificial leather and the Kaskade material or as a mixture of artificial leather and the microfiber material Dinamica. In both cases, the covers consist predominantly of materials such as polyester fibers that were made from recycled PET bottles, textiles, or residual fibers. Each set of Kaskade covers is made of 119 recycled plastic bottles. Dinamica is a breathable microfiber material made proportionally from recycled polyester fibers and recycled PET. Kaskade is reminiscent of natural fibers such as wool and offers a very pleasant seating feel. The stitching of the seat center panels of both covers is based on the look of the Singleframe.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEF_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEF_1s.jpg" 
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_PEF_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_PEF_1s.webp" 
         class="img-fluid" alt="RS design package red with carbon inlays and interior lighnting" title="RS design package red with carbon inlays and interior lighnting">
     </a>
     <figcaption><h4>RS design package red with carbon inlays and interior lighnting</h4></figcaption>
@@ -55,8 +55,8 @@ Audi offers a broad range of upholstery materials, from artificial leather and D
 The large application area on the instrument panel is painted in a fine paint finish, graphite gray or palladium silver (in the RS model ). Open-pore walnut wood decor or silk-matt carbon with twill are available as alternatives. With the ambient lighting package plus, the “e-tron GT” logo is projected onto the ground when the driver’s door is opened. While aluminum inserts for the door sill trims are standard, the range extends all the way to carbon material with illumination.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interior.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interior.jpg" 
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interior.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interior.webp" 
         class="img-fluid" alt="Audi RS e-tron GT with Audi exclusive interior. Photo by Auditography" title="Audi RS e-tron GT with Audi exclusive interior. Photo by Auditography">
     </a>
     <figcaption><h4>Audi RS e-tron GT with Audi exclusive interior. Photo by Auditography</h4></figcaption>

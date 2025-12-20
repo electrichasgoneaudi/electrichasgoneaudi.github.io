@@ -1,0 +1,28 @@
+
+            {{if not .IsHome}}
+  <div id="top-bar" class="mb-4">
+    <nav aria-label="breadcrumb">
+      <ol class="flex flex-wrap items-center space-x-2 text-sm text-gray-500">
+        {{ template "breadcrumbleaf" dict "page" . "value" .LinkTitle }}
+      </ol>
+    </nav>
+  </div>
+{{end}}
+
+{{define "breadcrumb"}}
+  {{ if .page.Parent}}
+    {{$value := (printf "<li class='flex items-center'><a href='%s' class='text-blue-600 hover:text-blue-800'>%s</a><svg class='w-4 h-4 mx-2 text-gray-400' fill='currentColor' viewBox='0 0 20 20'><path fill-rule='evenodd' d='M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 111.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z' clip-rule='evenodd'></path></svg></li> %s" .page.Parent.RelPermalink .page.Parent.LinkTitle .value)}}
+    {{ template "breadcrumb" dict "page" .page.Parent "value" $value }} 
+    {{ else }}
+   {{.value|safeHTML}}
+  {{end}}
+{{end}}
+
+{{define "breadcrumbleaf"}}
+  {{ if .page.Parent}}
+    {{$value := (printf "<li class='flex items-center'><a href='%s' class='text-blue-600 hover:text-blue-800'>%s</a><svg class='w-4 h-4 mx-2 text-gray-400' fill='currentColor' viewBox='0 0 20 20'><path fill-rule='evenodd' d='M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 111.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z' clip-rule='evenodd'></path></svg></li> <li class='text-gray-900'>%s</li>" .page.Parent.RelPermalink .page.Parent.LinkTitle .value)}}
+    {{ template "breadcrumb" dict "page" .page.Parent "value" $value }} 
+    {{ else  }}
+   {{.value|safeHTML}}
+  {{end}}
+{{end}}

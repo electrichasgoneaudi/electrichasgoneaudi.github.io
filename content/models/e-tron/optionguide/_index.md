@@ -21,7 +21,7 @@ Improves looks a lot and you dont need to drive around in a fish tank on display
 
 [See windows for details](/models/e-tron/exterior/windows/#privacy-glass)
 
-![3y4](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/curtain/curtains.jpg)
+![3y4](https://media.evkx.net/ehga/models/e-tron/interior/curtain/curtains.webp)
 
 ## Window curtains
 
@@ -38,7 +38,7 @@ The tour package contains most of the important driver assist functionality  lik
 Side assist is not part tour package and is included in two different assistant packages. The side assist package include [Side Assist](/models/e-tron/technology/drivingassistance/sideassist/), [exit warning](/models/e-tron/technology/drivingassistance/exitwarning/), [cross traffic assist rear](/models/e-tron/technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](/models/e-tron/technology/drivingassistance/presenserear/). The city pacakge include the same, but in addition
 [Audi pre sense side](/models/e-tron/technology/drivingassistance/presenseside/) and [crossing assist](/models/e-tron/technology/drivingassistance/crossingassist/)
 
-![QQ2](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/multicolors.jpg)
+![QQ2](https://media.evkx.net/ehga/models/e-tron/interior/lights/multicolors.webp)
 
 ## Multicolour ambient lightning: Option ID QQ2
 

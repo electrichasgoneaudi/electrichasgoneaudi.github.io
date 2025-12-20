@@ -12,16 +12,16 @@ Navigasjonssystemet er tilgjengelig i [virtual cockpit](../virtualcockpit/), [He
 Du kan aktivere Google maps-baserte satellittbilder og Google-basert søk for å berike opplevelsen enda mer.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/navigationmmiscreen.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/navigationmmiscreens.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/navigation/navigationmmiscreen.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/navigation/navigationmmiscreens.webp"
         class="img-fluid" alt="Navigasjon i MMI hovedskjerm" title="Navigasjon i MMI hovedskjerm">
     </a>
     <figcaption><h4>Navigasjon i MMI hovedskjerm</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/mminavigationvirtualcockpit.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/mminavigationvirtualcockpits.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/navigation/mminavigationvirtualcockpit.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/navigation/mminavigationvirtualcockpits.webp"
         class="img-fluid" alt="Navigasjon i virtuell cockpit" title="Navigasjon i virtuell cockpit">
     </a>
     <figcaption><h4>Navigasjon i virtuell cockpit</h4></figcaption>
@@ -51,32 +51,32 @@ Du kan planlegge ruter fra tidligere destinasjoner, favoritter, kontaktadresser 
 I bildene nedenfor ser du hvordan det er å søke og lage en rute til IKEA fra MMI-systemet.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/navigation/search2.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/navigation/search2s.webp"
         class="img-fluid" alt="Trinn 2: Velge riktig søkeresultat og trykke start" title="Trinn 2: Velge riktig søkeresultat og trykke start">
     </a>
     <figcaption><h4>Trinn 2: Velge riktig søkeresultat og trykke start</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search3s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/navigation/search3.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/navigation/search3s.webp"
         class="img-fluid" alt="Trinn 3: Navigasjon informerer om at du ikke har nok lading ved å gå til IKEA og foreslår å legge til lading langs ruten" title="Trinn 3: Navigasjon informerer om at du ikke har nok lading ved å gå til IKEA og foreslår å legge til lading langs ruten">
     </a>
     <figcaption><h4>Trinn 3: Navigasjon informerer om at du ikke har nok lading ved å gå til IKEA og foreslår å legge til lading langs ruten</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search4s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/navigation/search4.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/navigation/search4s.webp"
         class="img-fluid" alt="Trinn 4: Foreslåtte ladestopp inkludert forventet batteriladingstilstand på destinasjonen" title="Trinn 4: Foreslåtte ladestopp inkludert forventet batteriladingstilstand på destinasjonen">
     </a>
     <figcaption><h4>Trinn 4: Foreslåtte ladestopp inkludert forventet batteriladingstilstand på destinasjonen</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/search5s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/navigation/search5.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/navigation/search5s.webp"
         class="img-fluid" alt="Trinn 5: Planlagt rute" title="Trinn 5: Planlagt rute">
     </a>
     <figcaption><h4>Trinn 5: Planlagt rute</h4></figcaption>
@@ -92,16 +92,16 @@ Navigasjonssystemet støtter også presentasjon av rekkevidden på kartet. Det b
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/range.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/ranges.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/navigation/range.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/navigation/ranges.webp"
         class="img-fluid" alt="Rekkevidden angitt med det blå området" title="Rekkevidden angitt med det blå området">
     </a>
     <figcaption><h4>Rekkevidden angitt med det blå området</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/planet.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/planets.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/navigation/planet.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/navigation/planets.webp"
         class="img-fluid" alt="Du kan dekke hele planeten med din helelektriske Audi" title="Du kan dekke hele planeten med din helelektriske Audi">
     </a>
     <figcaption><h4>Du kan dekke hele planeten med din helelektriske Audi</h4></figcaption>
@@ -112,8 +112,8 @@ Navigasjonssystemet støtter også presentasjon av rekkevidden på kartet. Det b
 Du kan få taleveiledning under navigering.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/voiceguidance.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/voiceguidances.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/navigation/voiceguidance.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/navigation/voiceguidances.webp"
         class="img-fluid" alt="Du kan kontrollere hvor mye stemmeveiledning du trenger" title="Du kan kontrollere hvor mye stemmeveiledning du trenger">
     </a>
     <figcaption><h4>Du kan kontrollere hvor mye stemmeveiledning du trenger</h4></figcaption>
@@ -140,8 +140,8 @@ En melding vil vises hvis MMI beregner en bedre rute for gjeldende ruteveilednin
 
 Med smarttelefongrensesnitt kan du legge til ekstra navigasjonsstøtte gjennom apper som Waze.
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/smartphoneinterface.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/navigation/smartphoneinterfaces.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/navigation/smartphoneinterface.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/navigation/smartphoneinterfaces.webp"
         class="img-fluid" alt="Waze navigasjon kombinert med bilens navigasjonssystem" title="Waze navigasjon kombinert med bilens navigasjonssystem">
     </a>
     <figcaption><h4>Waze navigasjon kombinert med bilens navigasjonssystem</h4></figcaption>

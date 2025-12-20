@@ -13,32 +13,32 @@ The more distinctively contoured bumper is flanked by more expressive air curtai
 In addition, the Single frame grill has a shadow look compared with the standard that has a silver look.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/s-line/standard-front.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/s-line/standard-fronts.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/s-line/standard-front.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/s-line/standard-fronts.webp"
         class="img-fluid" alt="Standard front" title="Standard front">
     </a>
     <figcaption><h4>Standard front</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/s-line/s-line-front.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/s-line/s-line-fronts.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/s-line/s-line-front.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/s-line/s-line-fronts.webp"
         class="img-fluid" alt="S-line front" title="S-line front">
     </a>
     <figcaption><h4>S-line front</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/s-line/standard-singleframe.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/s-line/standard-singleframe.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/s-line/standard-singleframe.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/s-line/standard-singleframe.webp"
         class="img-fluid" alt="standard single frame grill with silver styling" title="standard single frame grill with silver styling">
     </a>
     <figcaption><h4>standard single frame grill with silver styling</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/s-line/s-line-singleframe.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/s-line/s-line-singleframes.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/s-line/s-line-singleframe.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/s-line/s-line-singleframes.webp"
         class="img-fluid" alt="s-line single frame grill with shadow styling" title="s-line single frame grill with shadow styling">
     </a>
     <figcaption><h4>s-line single frame grill with shadow styling</h4></figcaption>
@@ -47,16 +47,16 @@ In addition, the Single frame grill has a shadow look compared with the standard
 The rear diffusor have a more sporty and dynamic look.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/s-line/standard-diffusor.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/s-line/standard-diffusors.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/s-line/standard-diffusor.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/s-line/standard-diffusors.webp"
         class="img-fluid" alt="Standard rear" title="Standard rear">
     </a>
     <figcaption><h4>Standard rear</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/s-line/s-line-diffusor.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/s-line/s-line-diffusors.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/s-line/s-line-diffusor.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/s-line/s-line-diffusors.webp"
         class="img-fluid" alt="S-Line rear with more sporty diffusor" title="S-Line rear with more sporty diffusor">
     </a>
     <figcaption><h4>S-Line rear with more sporty diffusor</h4></figcaption>
@@ -66,32 +66,32 @@ Elements on the door is in silver compared to standard that has body color or co
 This element is black when combined with black optics.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/s-line/standard-side.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/s-line/standard-sides.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/s-line/standard-side.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/s-line/standard-sides.webp"
         class="img-fluid" alt="Standard side with full body color" title="Standard side with full body color">
     </a>
     <figcaption><h4>Standard side with full body color</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/s-line/s-line-side.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/s-line/s-line-sides.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/s-line/s-line-side.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/s-line/s-line-sides.webp"
         class="img-fluid" alt="S-line side with silver body element with contrast color" title="S-line side with silver body element with contrast color">
     </a>
     <figcaption><h4>S-line side with silver body element with contrast color</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/s-line/s-line-side-fullbody.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/s-line/s-line-side-fullbodys.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/s-line/s-line-side-fullbody.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/s-line/s-line-side-fullbodys.webp"
         class="img-fluid" alt="S-line side full body color with silver element" title="S-line side full body color with silver element">
     </a>
     <figcaption><h4>S-line side full body color with silver element</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/s-line/s-line-side-fullbody-blackoptics.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/s-line/s-line-side-fullbody-blackopticss.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/s-line/s-line-side-fullbody-blackoptics.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/s-line/s-line-side-fullbody-blackopticss.webp"
         class="img-fluid" alt="S-line side with black optics and full body color with black element" title="S-line side with black optics and full body color with black element">
     </a>
     <figcaption><h4>S-line side with black optics and full body color with black element</h4></figcaption>
@@ -100,8 +100,8 @@ This element is black when combined with black optics.
 You get a s-line badge with the s-line package.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/s-line/s-line-badge.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/s-line/s-line-badges.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/s-line/s-line-badge.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/s-line/s-line-badges.webp"
         class="img-fluid" alt="s-line badge" title="s-line badge">
     </a>
     <figcaption><h4>s-line badge</h4></figcaption>

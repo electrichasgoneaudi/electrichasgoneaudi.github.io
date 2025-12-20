@@ -7,8 +7,8 @@ weight: 3
 <!-- markdownlint-disable MD033 -->
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/lights/headlights_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/lights/headlights_1s.webp"
         class="img-fluid" alt="Headlights" title="Headlights">
     </a>
     <figcaption><h4>Headlights</h4></figcaption>
@@ -25,8 +25,8 @@ The matrix LED headlights are also available as an alternative; these come as st
 ## Matrix LED with Laser
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/lights/headlights_2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/lights/headlights_2s.webp"
         class="img-fluid" alt="Headlights with laser" title="Headlights with laser">
     </a>
     <figcaption><h4>Headlights with laser</h4></figcaption>
@@ -37,8 +37,8 @@ Topping the range are the matrix LED headlights with Audi laser light. In the ce
 ## LED taillights
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/taillights_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/taillights_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/lights/taillights_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/lights/taillights_1s.webp"
         class="img-fluid" alt="Taillights" title="Taillights">
     </a>
     <figcaption><h4>Taillights</h4></figcaption>

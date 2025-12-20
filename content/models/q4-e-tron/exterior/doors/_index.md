@@ -19,7 +19,7 @@ From driver seat you can enable child safety for rear window and doors.
 
 As an option (4E6) you can get powered tailgate to Audi Q4 e-tron. This is standard on the Sportback version.
 
-{{< sitefiguresized thumb="models/q4-e-tron/technology/lockingsystems/kicksensors_st.jpg" width="800" height="533" title="Powered tailgate option 4E6" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q4-e-tron/technology/lockingsystems/kicksensors_st.webp" width="800" height="533" title="Powered tailgate option 4E6" >}}
 
 ## Keyless entry
 
@@ -34,4 +34,4 @@ If you get the [advance key option](../../technology/lockingsystems/#advance-key
 If you get the [advance key option](../../technology/lockingsystems/#advance-key-option-pgc) you get a locking button on tailgate
 so you can lock the car.
 
-{{< sitefiguresized thumb="models/q4-e-tron/exterior/doors/tailgatelocking_st.jpg" width="800" height="513" title="Tailgate locking" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q4-e-tron/exterior/doors/tailgatelocking_st.webp" width="800" height="513" title="Tailgate locking" >}}

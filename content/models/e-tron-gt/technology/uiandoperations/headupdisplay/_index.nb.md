@@ -8,8 +8,8 @@ weight: 3
 Head-up-displayet projiserer informasjon som er relevant for sjåføren som symboler og tall som raskt kan oppfattes innenfor førerens direkte synsfelt, inkludert navigasjons- og advarselsmeldinger og data fra assistansesystemer. Det menneskelige øyet oppfatter informasjonen ekstremt raskt – og det er ikke nødvendig for sjåfører å fokusere på nytt fra sitt vante langdistansesyn.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/headupdisplay/headup.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/headupdisplay/headups.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/uiandoperations/headupdisplay/headup.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/uiandoperations/headupdisplay/headups.webp"
         class="img-fluid" alt="Heads up display på Audi e-tron GT"" title="Heads up display på Audi e-tron GT"">
     </a>
     <figcaption><h4>Heads up display på Audi e-tron GT"</h4></figcaption>

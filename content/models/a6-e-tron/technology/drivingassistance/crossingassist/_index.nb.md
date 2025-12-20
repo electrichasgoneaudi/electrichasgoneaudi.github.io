@@ -11,8 +11,8 @@ sectiontabs: "/nb/models/q6-e-tron/technology/"
 Hvis sjåføren ønsker å lette inn i et kryss eller avkjørsel med dårlig sikt, kan han eller hun trykke på parkeringsknappen. Dette sender bildene fra 360 graders kameraer til MMI-skjermen. De utvider synsfeltet drastisk, og sjåføren kan velge mellom flere visninger.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/crossingassist/crossing_assist.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/crossingassist/crossing_assists.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/crossingassist/crossing_assist.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/crossingassist/crossing_assists.webp"
         class="img-fluid" alt="gatekryssassistent" title="gatekryssassistent">
     </a>
     <figcaption><h4>gatekryssassistent</h4></figcaption>

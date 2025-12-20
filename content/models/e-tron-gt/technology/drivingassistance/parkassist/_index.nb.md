@@ -11,8 +11,8 @@ trinn. Det kan vise forventet kjørebane basert på rattutslaget og på den måt
 bilen.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/parkassist/parkassist.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/parkassist/parkassists.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/drivingassistance/parkassist/parkassist.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/drivingassistance/parkassist/parkassists.webp"
         class="img-fluid" alt="Du aktiverer søk etter parkeringsluker med en tast i midtkonsollen når parkeringshjelpen er slått på i displayet." title="Du aktiverer søk etter parkeringsluker med en tast i midtkonsollen når parkeringshjelpen er slått på i displayet.">
     </a>
     <figcaption><h4>Du aktiverer søk etter parkeringsluker med en tast i midtkonsollen når parkeringshjelpen er slått på i displayet.</h4></figcaption>

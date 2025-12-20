@@ -7,8 +7,8 @@ sectiontabs: "/nb/models/q6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/crosstrafficassistrear/crosstrafficrear.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/crosstrafficassistrear/crosstrafficrears.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/crosstrafficassistrear/crosstrafficrear.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/crosstrafficassistrear/crosstrafficrears.webp"
         class="img-fluid" alt="assistent for kryssende trafikk bak" title="assistent for kryssende trafikk bak">
     </a>
     <figcaption><h4>assistent for kryssende trafikk bak</h4></figcaption>

@@ -1,0 +1,112 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom components */
+@layer components {
+  /* Content typography and spacing */
+  .content-prose h2 {
+    @apply text-3xl font-bold text-gray-900 mb-4 mt-8;
+  }
+
+  .content-prose h3 {
+    @apply text-2xl font-semibold text-gray-900 mb-3 mt-6;
+  }
+
+  .content-prose h4 {
+    @apply text-xl font-semibold text-gray-900 mb-2 mt-4;
+  }
+
+  .content-prose h5 {
+    @apply text-lg font-semibold text-gray-900 mb-2 mt-4;
+  }
+
+  .content-prose h6 {
+    @apply text-base font-semibold text-gray-900 mb-2 mt-4;
+  }
+
+  .content-prose p {
+    @apply text-base text-gray-700 mb-4 leading-relaxed;
+  }
+
+  .content-prose ul, .content-prose ol {
+    @apply mb-4 pl-6;
+  }
+
+  .content-prose ul li {
+    @apply text-base text-gray-700 mb-2 leading-relaxed;
+    list-style-type: disc;
+  }
+
+  .content-prose ol li {
+    @apply text-base text-gray-700 mb-2 leading-relaxed;
+    list-style-type: decimal;
+  }
+
+  .content-prose a {
+    @apply text-blue-600 hover:text-blue-800 underline;
+  }
+
+  .content-prose blockquote {
+    @apply border-l-4 border-gray-300 pl-4 italic text-gray-600 mb-4;
+  }
+
+  .content-prose pre {
+    @apply bg-gray-100 rounded p-4 overflow-x-auto mb-4;
+  }
+
+  .content-prose code {
+    @apply bg-gray-100 px-2 py-1 rounded text-sm;
+  }
+
+  .content-prose table {
+    @apply w-full border-collapse border border-gray-300 mb-4;
+  }
+
+  .content-prose th, .content-prose td {
+    @apply border border-gray-300 px-4 py-2 text-left;
+  }
+
+  .content-prose th {
+    @apply bg-gray-100 font-semibold;
+  }
+
+  /* Figure styling */
+  .content-prose figcaption h4 {
+    @apply text-sm font-medium text-gray-600 mt-2 mb-0;
+  }
+
+  .content-prose figure {
+    @apply mb-6;
+  }
+
+  .content-prose figure img {
+    @apply rounded shadow-md;
+  }
+
+  /* Numbered list styling */
+  .counter-reset {
+    counter-reset: list-counter;
+  }
+
+  .counter-item {
+    counter-increment: list-counter;
+    @apply relative;
+  }
+
+  .counter-item::before {
+    content: counter(list-counter) ". ";
+    @apply absolute left-4 text-gray-500 font-medium;
+  }
+
+  .counter-item a {
+    @apply pl-8;
+  }
+}
+
+/* Temporary Bootstrap compatibility */
+@layer utilities {
+  .img-fluid {
+    @apply max-w-full h-auto;
+  }
+}

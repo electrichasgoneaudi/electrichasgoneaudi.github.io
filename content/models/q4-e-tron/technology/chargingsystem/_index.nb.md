@@ -16,8 +16,8 @@ Den er ment for bruk når en fast installasjon på nivå 2 eller nivå 3 ikke er
 I USA har ladesystemet en [J1772-kontakt](https://en.wikipedia.org/wiki/SAE_J1772) for å koble til bilen, mens det i Europa har en [Type 2-kontakt](https://en.wikipedia.org/wiki/Type_2_connector).
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/chargingsystem/chargeport_right.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/chargingsystem/chargeport_rights.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/chargingsystem/chargeport_right.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/chargingsystem/chargeport_rights.webp"
         class="img-fluid" alt="Type 2 Ladeport" title="Type 2 Ladeport">
     </a>
     <figcaption><h4>Type 2 Ladeport</h4></figcaption>
@@ -31,16 +31,16 @@ Den kommer i forskjellige versjoner basert på landet den selger. I noen land i 
 mellom et 230-voltsanlegg og et 400-voltsanlegg ved bestilling av bilen.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/chargingsystem/chargingsystemcompact2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/chargingsystem/chargingsystemcompact2.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/chargingsystem/chargingsystemcompact2.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/chargingsystem/chargingsystemcompact2.webp"
         class="img-fluid" alt="Ladesystem kompakt" title="Ladesystem kompakt">
     </a>
     <figcaption><h4>Ladesystem kompakt</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/chargingsystem/chargingsystemcompact.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/chargingsystem/chargingsystemcompacts.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/chargingsystem/chargingsystemcompact.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/chargingsystem/chargingsystemcompacts.webp"
         class="img-fluid" alt="Ladesystem kompakt" title="Ladesystem kompakt">
     </a>
     <figcaption><h4>Ladesystem kompakt</h4></figcaption>
@@ -72,8 +72,8 @@ For hjemmebruk bør du installere en kablet ladeløsning. Det finnes mange lever
 De går på 230/240 eller 400 volt avhengig av nettverket i hjemmet ditt.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/audiwallbox.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/audiwallboxs.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/chargingsystem/audiwallbox.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/chargingsystem/audiwallboxs.webp"
         class="img-fluid" alt="Installer et kablet nivå 2 ladesystem" title="Installer et kablet nivå 2 ladesystem">
     </a>
     <figcaption><h4>Installer et kablet nivå 2 ladesystem</h4></figcaption>

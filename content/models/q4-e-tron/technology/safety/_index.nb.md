@@ -12,8 +12,8 @@ Audi Q4 e-tron har flere kollisjonsputer som standard.
 ### Kollisjonsputer foran
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/safety/frontairbags.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/safety/frontairbagss.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/safety/frontairbags.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/safety/frontairbagss.webp"
         class="img-fluid" alt="Frontkollisjonsputer - standard" title="Frontkollisjonsputer - standard">
     </a>
     <figcaption><h4>Frontkollisjonsputer - standard</h4></figcaption>
@@ -24,16 +24,16 @@ Audi Q4 e-tron har flere kollisjonsputer som standard.
 Både foran og bak er beskyttet med hodekollisjonsputer.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/safety/sideairbags.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/safety/sideairbagss.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/safety/sideairbags.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/safety/sideairbagss.webp"
         class="img-fluid" alt="Hodekollisjonsputer foran og bak" title="Hodekollisjonsputer foran og bak">
     </a>
     <figcaption><h4>Hodekollisjonsputer foran og bak</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/safety/airbagssiderear2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/safety/airbagssiderear2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/safety/airbagssiderear2.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/safety/airbagssiderear2s.webp"
         class="img-fluid" alt="Hodekollisjonsputer bak" title="Hodekollisjonsputer bak">
     </a>
     <figcaption><h4>Hodekollisjonsputer bak</h4></figcaption>
@@ -45,8 +45,8 @@ Både foran og bak er beskyttet med hodekollisjonsputer.
 Foran er det standard med sidekollisjonsputer innebygd i setet som beskytter kroppen.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/safety/airbagssidefront.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/safety/airbagssidefronts.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/safety/airbagssidefront.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/safety/airbagssidefronts.webp"
         class="img-fluid" alt="Sidekollisjonsputer foran er standard" title="Sidekollisjonsputer foran er standard">
     </a>
     <figcaption><h4>Sidekollisjonsputer foran er standard</h4></figcaption>
@@ -59,8 +59,8 @@ systemets begrensinger gir dette beskyttelse for passasjerene i førersetet og p
 med hverandre eller med passasjersetet foran minsket i stor grad og risikoen for skader reduseres.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/safety/consolairbag.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/safety/consolairbags.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/safety/consolairbag.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/safety/consolairbags.webp"
         class="img-fluid" alt="Senter air-bags" title="Senter air-bags">
     </a>
     <figcaption><h4>Senter air-bags</h4></figcaption>
@@ -71,8 +71,8 @@ med hverandre eller med passasjersetet foran minsket i stor grad og risikoen for
 På baksiden er sidekollisjonsputene valgfritt. Opsjonsnummer er **6C4** 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/safety/airbagssiderear.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/safety/airbagssiderears.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/safety/airbagssiderear.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/safety/airbagssiderears.webp"
         class="img-fluid" alt="Valgfri sidekollisjonsputer bak" title="Valgfri sidekollisjonsputer bak">
     </a>
     <figcaption><h4>Valgfri sidekollisjonsputer bak</h4></figcaption>

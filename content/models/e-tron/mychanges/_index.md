@@ -10,8 +10,8 @@ weight: 8
 Production started in the [Audi Brussels Plant](https://www.google.com/maps/place/Audi+Brussels/@50.8106698,4.3148004,730m/data=!3m1!1e3!4m5!3m4!1s0x0:0x603fdd7e2d943989!8m2!3d50.8113307!4d4.3149064) in week 36 2018
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/production.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/productions.jpg" class="img-fluid" alt="Production of Audi e-tron started week 36 2018" title="Production of Audi e-tron started week 36 2018">
+    <a href="https://media.evkx.net/ehga/models/e-tron/mychanges/production.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/mychanges/productions.webp" class="img-fluid" alt="Production of Audi e-tron started week 36 2018" title="Production of Audi e-tron started week 36 2018">
     </a>
     <figcaption><h4>Production of Audi e-tron started week 36 2018</h4></figcaption>
 </figure>
@@ -33,8 +33,8 @@ Production started in the [Audi Brussels Plant](https://www.google.com/maps/plac
 - [Upgrade was made available as upgrade *93M3* to earlier production models from October 28. 2021](https://www.audi-mediacenter.com/en/press-releases/increased-range-for-audi-e-tron-55-quattrosoftware-update-for-20192020-model-years-14346)
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/my2020v2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/my2020v2s.jpg" class="img-fluid" alt="Upgrades to e-tron 55 from week 49-2019 and how they affect range" title="Upgrades to e-tron 55 from week 49-2019 and how they affect range">
+    <a href="https://media.evkx.net/ehga/models/e-tron/mychanges/my2020v2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/mychanges/my2020v2s.webp" class="img-fluid" alt="Upgrades to e-tron 55 from week 49-2019 and how they affect range" title="Upgrades to e-tron 55 from week 49-2019 and how they affect range">
     </a>
     <figcaption><h4>Upgrades to e-tron 55 from week 49-2019 and how they affect range</h4></figcaption>
 </figure>
@@ -78,15 +78,15 @@ Production started in the [Audi Brussels Plant](https://www.google.com/maps/plac
 - Shortcut to charging screen in MMI added to lower MMI screen
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_chronosgrey_6s.jpg" class="img-fluid" alt="New color for 2022 - Chronos Grey" title="New color for 2022 - Chronos Grey">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_chronosgrey_6.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_chronosgrey_6s.webp" class="img-fluid" alt="New color for 2022 - Chronos Grey" title="New color for 2022 - Chronos Grey">
     </a>
     <figcaption><h4>New color for 2022 - Chronos Grey</h4></figcaption>
 </figur>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/blackedition.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/blackeditions.jpg" class="img-fluid" alt="Black edition with orange interior details" title="Black edition with orange interior details">
+    <a href="https://media.evkx.net/ehga/models/e-tron/mychanges/blackedition.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/mychanges/blackeditions.webp" class="img-fluid" alt="Black edition with orange interior details" title="Black edition with orange interior details">
     </a>
     <figcaption><h4>Black edition with orange interior details</h4></figcaption>
 </figure>
@@ -100,8 +100,8 @@ Production started in the [Audi Brussels Plant](https://www.google.com/maps/plac
 In end of June 2022, Audi stopped taking orders on the 2023 Audi e-tron. This to clear the factory backlog before starting producing the facelift version.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/endofproduction.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/mychanges/endofproductions.jpg" class="img-fluid" alt="Screenshot from Audi Sweden saying they are no longer taking orders on e-tron" title="Screenshot from Audi Sweden saying they are no longer taking orders on e-tron">
+    <a href="https://media.evkx.net/ehga/models/e-tron/mychanges/endofproduction.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/mychanges/endofproductions.webp" class="img-fluid" alt="Screenshot from Audi Sweden saying they are no longer taking orders on e-tron" title="Screenshot from Audi Sweden saying they are no longer taking orders on e-tron">
     </a>
     <figcaption><h4>Screenshot from Audi Sweden saying they are no longer taking orders on e-tron</h4></figcaption>
 </figure>

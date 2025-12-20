@@ -8,22 +8,22 @@ weight: 6
 ## Bagasjerom
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/trunk_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/trunk_1s.jpg" class="img-fluid" alt="Bagasjerom Audi Q8 e-tron" title="Bagasjerom Audi Q8 e-tron">
+    <a href="https://media.evkx.net/ehga/models/e-tron/transportation/trunk_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/transportation/trunk_1s.webp" class="img-fluid" alt="Bagasjerom Audi Q8 e-tron" title="Bagasjerom Audi Q8 e-tron">
     </a>
     <figcaption><h4>Bagasjerom Audi Q8 e-tron</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/trunk_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/trunk_5s.jpg" class="img-fluid" alt="Standard bagasjerom Audi Q8 e-tron med feste til lastesikring" title="Standard bagasjerom Audi Q8 e-tron med feste til lastesikring">
+    <a href="https://media.evkx.net/ehga/models/e-tron/transportation/trunk_5.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/transportation/trunk_5s.webp" class="img-fluid" alt="Standard bagasjerom Audi Q8 e-tron med feste til lastesikring" title="Standard bagasjerom Audi Q8 e-tron med feste til lastesikring">
     </a>
     <figcaption><h4>Standard bagasjerom Audi Q8 e-tron med feste til lastesikring</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/trunk_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/trunk_3s.jpg" class="img-fluid" alt="Setene har en 40-20-40-konfigurasjon" title="Setene har en 40-20-40-konfigurasjon">
+    <a href="https://media.evkx.net/ehga/models/e-tron/transportation/trunk_3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/transportation/trunk_3s.webp" class="img-fluid" alt="Setene har en 40-20-40-konfigurasjon" title="Setene har en 40-20-40-konfigurasjon">
     </a>
     <figcaption><h4>Setene har en 40-20-40-konfigurasjon</h4></figcaption>
 </figure>
@@ -35,29 +35,29 @@ Alternativ-IDen er **3CX**
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/net1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/net1s.jpg" class="img-fluid" alt="Net" title="Net">
+    <a href="https://media.evkx.net/ehga/models/e-tron/transportation/net1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/transportation/net1s.webp" class="img-fluid" alt="Net" title="Net">
     </a>
     <figcaption><h4>Net</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/net2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/net2s.jpg" class="img-fluid" alt="Net" title="Net">
+    <a href="https://media.evkx.net/ehga/models/e-tron/transportation/net2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/transportation/net2s.webp" class="img-fluid" alt="Net" title="Net">
     </a>
     <figcaption><h4>Net</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/net3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/net3s.jpg" class="img-fluid" alt="Net" title="Net">
+    <a href="https://media.evkx.net/ehga/models/e-tron/transportation/net3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/transportation/net3s.webp" class="img-fluid" alt="Net" title="Net">
     </a>
     <figcaption><h4>Net</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/net4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/net4s.jpg" class="img-fluid" alt="Net" title="Net">
+    <a href="https://media.evkx.net/ehga/models/e-tron/transportation/net4.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/transportation/net4s.webp" class="img-fluid" alt="Net" title="Net">
     </a>
     <figcaption><h4>Net</h4></figcaption>
 </figure>
@@ -69,22 +69,22 @@ Du kan bestille Audi Q8 e-tron med oppbevarings- og bagasjeromspakke med opsjons
 Den inneholder følgende.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/qe1_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/qe1_1s.jpg" class="img-fluid" alt="Nett i siden av bagasjerommet og bagasjenett til transport av gjenstander" title="Nett i siden av bagasjerommet og bagasjenett til transport av gjenstander">
+    <a href="https://media.evkx.net/ehga/models/e-tron/transportation/qe1_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/transportation/qe1_1s.webp" class="img-fluid" alt="Nett i siden av bagasjerommet og bagasjenett til transport av gjenstander" title="Nett i siden av bagasjerommet og bagasjenett til transport av gjenstander">
     </a>
     <figcaption><h4>Nett i siden av bagasjerommet og bagasjenett til transport av gjenstander</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/storagebox_trunk.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/storagebox_trunks.jpg" class="img-fluid" alt="Uttakbar boks i reservehjulsbrønnen" title="Uttakbar boks i reservehjulsbrønnen">
+    <a href="https://media.evkx.net/ehga/models/e-tron/transportation/storagebox_trunk.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/transportation/storagebox_trunks.webp" class="img-fluid" alt="Uttakbar boks i reservehjulsbrønnen" title="Uttakbar boks i reservehjulsbrønnen">
     </a>
     <figcaption><h4>Uttakbar boks i reservehjulsbrønnen</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/storagebox_trunk_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/storagebox_trunk_2s.jpg" class="img-fluid" alt="Uttakbar boks i reservehjulsbrønnen" title="Uttakbar boks i reservehjulsbrønnen">
+    <a href="https://media.evkx.net/ehga/models/e-tron/transportation/storagebox_trunk_2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/transportation/storagebox_trunk_2s.webp" class="img-fluid" alt="Uttakbar boks i reservehjulsbrønnen" title="Uttakbar boks i reservehjulsbrønnen">
     </a>
     <figcaption><h4>Uttakbar boks i reservehjulsbrønnen</h4></figcaption>
 </figure>
@@ -92,15 +92,15 @@ Den inneholder følgende.
 ## Frunk
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/frunk_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/frunk_1s.jpg" class="img-fluid" alt="Frunk Audi Q8 e-tron" title="Frunk Audi Q8 e-tron">
+    <a href="https://media.evkx.net/ehga/models/e-tron/transportation/frunk_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/transportation/frunk_1s.webp" class="img-fluid" alt="Frunk Audi Q8 e-tron" title="Frunk Audi Q8 e-tron">
     </a>
     <figcaption><h4>Frunk Audi Q8 e-tron</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/frunk_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/frunk_2s.jpg" class="img-fluid" alt="Frunk Audi Q8 e-tron" title="Frunk Audi Q8 e-tron">
+    <a href="https://media.evkx.net/ehga/models/e-tron/transportation/frunk_2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/transportation/frunk_2s.webp" class="img-fluid" alt="Frunk Audi Q8 e-tron" title="Frunk Audi Q8 e-tron">
     </a>
     <figcaption><h4>Frunk Audi Q8 e-tron</h4></figcaption>
 </figure>
@@ -120,36 +120,36 @@ Alternativer ID **3S1** for aluminiumsskinner og **3S2** for svarte skinner.
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/rails1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/rails1s.jpg" class="img-fluid" alt="Thule wingbar edge 721400/721500 med 720600 fot og 186046 monteringssett" title="Thule wingbar edge 721400/721500 med 720600 fot og 186046 monteringssett">
+    <a href="https://media.evkx.net/ehga/models/e-tron/transportation/rails1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/transportation/rails1s.webp" class="img-fluid" alt="Thule wingbar edge 721400/721500 med 720600 fot og 186046 monteringssett" title="Thule wingbar edge 721400/721500 med 720600 fot og 186046 monteringssett">
     </a>
     <figcaption><h4>Thule wingbar edge 721400/721500 med 720600 fot og 186046 monteringssett</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/rails2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/rails2s.jpg" class="img-fluid" alt="Thule wingbar edge 721400/721500 med 720600 fot og 186046 monteringssett" title="Thule wingbar edge 721400/721500 med 720600 fot og 186046 monteringssett">
+    <a href="https://media.evkx.net/ehga/models/e-tron/transportation/rails2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/transportation/rails2s.webp" class="img-fluid" alt="Thule wingbar edge 721400/721500 med 720600 fot og 186046 monteringssett" title="Thule wingbar edge 721400/721500 med 720600 fot og 186046 monteringssett">
     </a>
     <figcaption><h4>Thule wingbar edge 721400/721500 med 720600 fot og 186046 monteringssett</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/rails3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/rails3s.jpg" class="img-fluid" alt="Thule wingbar edge 721400/721500 med 720600 fot og 186046 monteringssett" title="Thule wingbar edge 721400/721500 med 720600 fot og 186046 monteringssett">
+    <a href="https://media.evkx.net/ehga/models/e-tron/transportation/rails3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/transportation/rails3s.webp" class="img-fluid" alt="Thule wingbar edge 721400/721500 med 720600 fot og 186046 monteringssett" title="Thule wingbar edge 721400/721500 med 720600 fot og 186046 monteringssett">
     </a>
     <figcaption><h4>Thule wingbar edge 721400/721500 med 720600 fot og 186046 monteringssett</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/roofbox1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/roofbox1s.jpg" class="img-fluid" alt="Takboks montert på rails" title="Takboks montert på rails">
+    <a href="https://media.evkx.net/ehga/models/e-tron/transportation/roofbox1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/transportation/roofbox1s.webp" class="img-fluid" alt="Takboks montert på rails" title="Takboks montert på rails">
     </a>
     <figcaption><h4>Takboks montert på rails</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/handymanrails.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/handymanrailss.jpg" class="img-fluid" alt="Handyman with rails" title="Handyman with rails">
+    <a href="https://media.evkx.net/ehga/models/e-tron/transportation/handymanrails.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/transportation/handymanrailss.webp" class="img-fluid" alt="Handyman with rails" title="Handyman with rails">
     </a>
     <figcaption><h4>Handyman with rails</h4></figcaption>
 </figure>
@@ -166,15 +166,15 @@ på 568,1km. Dette gir en teoretisk rekkevidde på 164km.
 I miles er den 1,9 miles/kWh og rekkevidde på 101.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/trailerexample1b.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/trailerexample1bs.jpg" class="img-fluid" alt="1800 kg henger med båt" title="1800 kg henger med båt">
+    <a href="https://media.evkx.net/ehga/models/e-tron/transportation/trailerexample1b.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/transportation/trailerexample1bs.webp" class="img-fluid" alt="1800 kg henger med båt" title="1800 kg henger med båt">
     </a>
     <figcaption><h4>1800 kg henger med båt</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/trailerxample1a.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/trailerxample1as.jpg" class="img-fluid" alt="Consumption" title="Forbruk">
+    <a href="https://media.evkx.net/ehga/models/e-tron/transportation/trailerxample1a.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/transportation/trailerxample1as.webp" class="img-fluid" alt="Consumption" title="Forbruk">
     </a>
     <figcaption><h4>Forbruk</h4></figcaption>
 </figure>
@@ -187,15 +187,15 @@ på 83,1 km. Dette gir en teoretisk rekkevidde på 144km.
 I miles er den 1,03 miles/kWh og rekkevidde på 89.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/trailerexample2b.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/trailerexample2bs.jpg" class="img-fluid" alt="1800 kg henger med båt" title="1800 kg henger med båt">
+    <a href="https://media.evkx.net/ehga/models/e-tron/transportation/trailerexample2b.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/transportation/trailerexample2bs.webp" class="img-fluid" alt="1800 kg henger med båt" title="1800 kg henger med båt">
     </a>
     <figcaption><h4>1800 kg henger med båt</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/trailerxample2a.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/transportation/trailerexample2as.jpg" class="img-fluid" alt="Forbruk" title="Forbruk">
+    <a href="https://media.evkx.net/ehga/models/e-tron/transportation/trailerxample2a.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/transportation/trailerexample2as.webp" class="img-fluid" alt="Forbruk" title="Forbruk">
     </a>
     <figcaption><h4>Forbruk</h4></figcaption>
 </figure>

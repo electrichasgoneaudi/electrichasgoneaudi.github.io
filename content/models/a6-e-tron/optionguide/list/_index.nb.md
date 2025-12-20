@@ -9,7 +9,7 @@ sectiontabs: "/nb/models/a6-e-tron/optionguide/"
 
 ## Lanseringspakker
 
-[Se denne PDF for lanseringspakker ved salgsstart 27.03.2024](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/files/Q6_etron_lanseringspakker.pdf)
+[Se denne PDF for lanseringspakker ved salgsstart 27.03.2024](https://media.evkx.net/ehga/models/q6-e-tron/files/Q6_etron_lanseringspakker.pdf)
 
 ## Teknologipakker
 
@@ -156,7 +156,7 @@ For Audi Q6 så har Audi sanlet teknologi i forskjellige pakker.  Valg av teknol
 
 ## Lakkfarger
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/plasmablue_4_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron i plasma blå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paint/plasmablue_4_st.webp" width="3000" height="2249" title="Audi Q6 e-tron i plasma blå" >}}
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -232,7 +232,7 @@ For Audi Q6 så har Audi sanlet teknologi i forskjellige pakker.  Valg av teknol
 
 ## Hjul
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_65w_1_st.jpg" width="3000" height="2249" title="Audi A6 e-tron med hjul" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/wheels/wheeloption_65w_1_st.webp" width="3000" height="2249" title="Audi A6 e-tron med hjul" >}}
 
 Audi A6 e-tron kan leveres med flere typer hjul fra 19" til 21". Klikk på hjulalternativene nedenfor for høyoppløselige bilder og detaljert informasjon.
 
@@ -625,7 +625,7 @@ Varighet kan velges</td>
 ## Seter
 
 
-{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/frontseats_5_st.jpg" width="3000" height="2250" title="Sport Seats" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/interior/seats/frontseats_5_st.webp" width="3000" height="2250" title="Sport Seats" >}}
 
 You can choose between serveral seat types and seat materials. Click links below for full details on each option.
 

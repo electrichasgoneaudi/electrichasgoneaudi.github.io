@@ -12,8 +12,8 @@ Interiøret i e-tron GT formidler den ultimate gran turismo-følelsen ved å uts
 Interiørets sterke fokus på føreren – inspirert av «monoposto»-konseptet, et typisk designtrekk ved de sporty Audi-modellene – er et kjennetegn ved e-tron GT. Den øvre delen av det tredimensjonale instrumentpanelet trekkes bort fra føreren i en stor, elegant bue. Denne plassen er okkupert av displayet til Audi virtual cockpit plus, som er skyggelagt av sin egen deksel. Det flatbunnede rattet har multifunksjonsknapper, og felgen kan varmes opp som ekstrautstyr (standard med RS-modellen).
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/monoposto.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/monoposto.jpg" 
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/monoposto.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/monoposto.webp" 
         class="img-fluid" alt="Monoposto concept" title="Monoposto concept">
     </a>
     <figcaption><h4>Monoposto concept</h4></figcaption>
@@ -40,8 +40,8 @@ Sportssetene pro med 18-veis justering, pneumatiske sidestøtter, klimakontroll 
 Den svarte skinnfrie designpakken er tilgjengelig for sportssetene pluss. Polstring er tilgjengelig enten som en kombinasjon av kunstskinn og Kaskade-materialet eller som en blanding av kunstskinn og mikrofibermaterialet Dinamica. I begge tilfeller består dekslene hovedsakelig av materialer som polyesterfibre som ble laget av resirkulerte PET-flasker, tekstiler eller restfibre. Hvert sett med Kaskade-deksler er laget av 119 resirkulerte plastflasker. Dinamica er et pustende mikrofibermateriale laget proporsjonalt av resirkulerte polyesterfibre og resirkulert PET. Kaskade minner om naturlige fibre som ull og gir en veldig behagelig sittefølelse. Sømmen på setesenterpanelene på begge dekslene er basert på utseendet til Singleframe.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEF_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEF_1s.jpg" 
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_PEF_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_PEF_1s.webp" 
         class="img-fluid" alt="RS designpakke rød med karboninnlegg og interiørlys" title="RS designpakke rød med karboninnlegg og interiørlys">
     </a>
     <figcaption><h4>RS designpakke rød med karboninnlegg og interiørlys</h4></figcaption>
@@ -55,8 +55,8 @@ Audi tilbyr et bredt spekter av møbelmaterialer, fra kunstskinn og Dinamica og 
 Det store bruksområdet på instrumentpanelet er malt i finlakkert finish, grafittgrå eller palladiumsølv (i RS-modellen). Åpne-porede valnøtttredekor eller silkematt karbon med twill er tilgjengelig som alternativer. Med ambient lighting-pakken pluss projiseres "e-tron GT"-logoen på bakken når førerdøren åpnes. Mens aluminiumsinnsatser for dørterskellister er standard, strekker utvalget seg helt til karbonmateriale med belysning.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interior.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interior.jpg" 
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interior.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interior.webp" 
         class="img-fluid" alt="Audi RS e-tron GT med Audi eksklusivt interiør. Foto av Auditography" title="Audi RS e-tron GT med Audi eksklusivt interiør. Foto av Auditography">
     </a>
     <figcaption><h4>Audi RS e-tron GT med Audi eksklusivt interiør. Foto av Auditography</h4></figcaption>

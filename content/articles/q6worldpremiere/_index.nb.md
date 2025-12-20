@@ -8,7 +8,7 @@ weight: 99989
 
 
 
-{{< sitefiguresized thumb="models/q6-e-tron/q6dynamic_1_st.jpg" width="3000" height="1999" title="Audi SQ6 e-tron" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/q6dynamic_1_st.webp" width="3000" height="1999" title="Audi SQ6 e-tron" >}}
 
 Audi Q6 e-tron representerer neste generasjons elbil fra Audi og setter helt nye standarder innen rekkevidde, ladekapasitet, kjøredynamikk og design, forteller Harald Edvardsen-Eibak, Audi-
 direktør i Norge.
@@ -27,7 +27,7 @@ Q6 e-tron og SQ6 e-tron har salgsstart i slutten av mars. Startprisen på SQ6 e-
 - Vi vet at dette er en modell mange har gledet seg til, og vi forventer å se de første
 bilene på norske veier allerede i løpet av sommeren, forteller Edvardsen-Eibak.
 
-{{< sitefiguresized thumb="articles/q6worldpremiere/audidirectornorway_st.JPG" width="3000" height="1968" title="Harald Edvardsen-Eibak Audi-direktør i Norge" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/articles/q6worldpremiere/audidirectornorway_st.webp" width="3000" height="1968" title="Harald Edvardsen-Eibak Audi-direktør i Norge" >}}
 
 ## Ny elektronisk arkitektur
 
@@ -47,7 +47,7 @@ modellene ha et WLTP-forbruk på mellom 18,4 og 17,5 kWh per 100 km.
 Audi Q6 e-tron vil gjøre akselerasjonen fra 0 til 100 km/h på 5,9 sekunder. Tilsvarende
 for SQ6 er 4,3 sekunder. Toppfarten er respektive 210 km/h og 230 km/h.
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/plasmablue_1_st.jpg" width="3000" height="2250" title="Plasma blå Audi Q6 e-tron " >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paint/plasmablue_1_st.webp" width="3000" height="2250" title="Plasma blå Audi Q6 e-tron " >}}
 
 
 ## Nyskapende ladeteknologi
@@ -83,7 +83,7 @@ og MMI passasjerdisplay. Den frittstående MMI-panoramaskjermen er buet og har
 OLED-teknologi. Den består av 11,9 tommer Audi virtual cockpit og en MMI-
 touchskjerm på 14,5 tommer.
 
-{{< sitefiguresized thumb="models/q6-e-tron/technology/uiandoperations/mmi/mmi_3_st.jpg" width="3000" height="2077" title="Audi Q6 e-tron with virtual cockpit, MMI screen and MMI front passenger screen" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/uiandoperations/mmi/mmi_3_st.webp" width="3000" height="2077" title="Audi Q6 e-tron with virtual cockpit, MMI screen and MMI front passenger screen" >}}
 
 Førerområdet er designet som en bue, og displayet er orientert mot føreren. I mørket
 gir ambientbelysningen en illusjon av at hele displayet svever fritt.

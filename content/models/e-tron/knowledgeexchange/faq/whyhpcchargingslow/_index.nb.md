@@ -7,15 +7,15 @@ hidden: true
 ---
 Først. Hva er forventet ladehastighet? Under optimale forhold vil ladekurven se slik ut.
 
-![Ladekurve](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.jpg "Ladekurve e-tron 55 optimale forhold")
+![Ladekurve](https://media.evkx.net/ehga/models/e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.webp "Ladekurve e-tron 55 optimale forhold")
 
 Det betyr at du ofte ser 150 kW opp til 80 % og 100 kW til 85 % og fortsatt over 50 kW ved 100 %. Dette gjør Audi e-tron til en av de elbilene som lader raskest på markedet.
 
-![Audi e-tron 55 lader ved Ionity](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/knowledgeexchange/faq/whyhpcchargingslow/charginghpc.jpg "Audi e-tron 55 lader ved Ionity HPC")
+![Audi e-tron 55 lader ved Ionity](https://media.evkx.net/ehga/models/e-tron/knowledgeexchange/faq/whyhpcchargingslow/charginghpc.webp "Audi e-tron 55 lader ved Ionity HPC")
 
 Men folk kan se at ladehastigheten deres er mye lavere enn dette.
 
-![Langsom lading](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/knowledgeexchange/faq/whyhpcchargingslow/slowcharging1.jpg "Eksempel 1 - langsom ladingskurve")
+![Langsom lading](https://media.evkx.net/ehga/models/e-tron/knowledgeexchange/faq/whyhpcchargingslow/slowcharging1.webp "Eksempel 1 - langsom ladingskurve")
 
 ### Årsak 1. Kaldt batteri
 

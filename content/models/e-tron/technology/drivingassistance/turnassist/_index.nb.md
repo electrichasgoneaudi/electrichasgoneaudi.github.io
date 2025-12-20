@@ -7,8 +7,8 @@ weight: 1
 
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/turnassist/turnassist.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/turnassist/turnassists.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/turnassist/turnassist.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/turnassist/turnassists.webp"
         class="img-fluid" alt="Audi e-tron avkjøringsassistent" title="Audi e-tron avkjøringsassistent">
     </a>
     <figcaption><h4>Audi e-tron avkjøringsassistent</h4></figcaption>

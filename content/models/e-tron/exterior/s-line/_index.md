@@ -16,22 +16,22 @@ extend below the headlights, thereby creating a dynamic appearance even from a d
 illuminated aluminum door sill trims feature an #S logo.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/blackoptics_florett.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/blackoptics_floretts.jpg" class="img-fluid" alt="Black optics - Florett Silver standard front" title="Black optics - Florett Silver standard front">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/s-line/blackoptics_florett.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/s-line/blackoptics_floretts.webp" class="img-fluid" alt="Black optics - Florett Silver standard front" title="Black optics - Florett Silver standard front">
     </a>
     <figcaption><h4>Black optics - Florett Silver standard front</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/blackoptics_florett_sline.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/blackoptics_florett_slines.jpg" class="img-fluid" alt="Black optics - Florett Silver S-Line front" title="Black optics - Florett Silver S-Line front">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/s-line/blackoptics_florett_sline.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/s-line/blackoptics_florett_slines.webp" class="img-fluid" alt="Black optics - Florett Silver S-Line front" title="Black optics - Florett Silver S-Line front">
     </a>
     <figcaption><h4>Black optics - Florett Silver S-Line front</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/slinebadge.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/slinebadges.jpg" class="img-fluid" alt="S-Line-merke" title="S-Line-merke">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/s-line/slinebadge.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/s-line/slinebadges.webp" class="img-fluid" alt="S-Line-merke" title="S-Line-merke">
     </a>
     <figcaption><h4>S-Line-merke</h4></figcaption>
 </figure>
@@ -39,16 +39,16 @@ illuminated aluminum door sill trims feature an #S logo.
 The rear diffusor have a more sporty and dynamic look.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/rear-standard.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/rear-standards.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/s-line/rear-standard.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/s-line/rear-standards.webp"
         class="img-fluid" alt="Standard rear" title="Standard rear">
     </a>
     <figcaption><h4>Standard rear</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/rear-sline.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/rear-slines.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/s-line/rear-sline.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/s-line/rear-slines.webp"
         class="img-fluid" alt="S-Line rear with more sporty diffusor" title="S-Line rear with more sporty diffusor">
     </a>
     <figcaption><h4>S-Line rear with more sporty diffusor</h4></figcaption>
@@ -63,16 +63,16 @@ The rear diffusor have a more sporty and dynamic look.
  The door inserts and housings of the exterior mirrors are made of aluminum, and the front and rear end are decorated with S badges. Audi can paint attachments like the front lip, wheel arches and sill trims in a contrasting color upon request.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/swheelarcher.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/swheelarchers.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/s-line/swheelarcher.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/s-line/swheelarchers.webp"
         class="img-fluid" alt="S wheel archer" title="S wheel archer">
     </a>
     <figcaption><h4>S wheel archer</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/srear.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/srears.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/s-line/srear.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/s-line/srears.webp"
         class="img-fluid" alt="S rear with s-line diffusor and S badge" title="S rear with s-line diffusor and S badge">
     </a>
     <figcaption><h4>S rear with s-line diffusor and S badge</h4></figcaption>

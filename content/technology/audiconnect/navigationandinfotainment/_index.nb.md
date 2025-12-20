@@ -16,16 +16,16 @@ I koblingskategorien myRoute finner du all informasjon for turene dine som navig
 Navigering med Google Earth C gjør det enklere å navigere takket være høyoppløselige flybilder og satellittbilder.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/googlemap1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/googlemap1s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/googlemap1.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/googlemap1s.webp"
         class="img-fluid" alt="Google Earth satellittbilder" title="Google Earth satellittbilder">
     </a>
     <figcaption><h4>Google Earth satellittbilder</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/satelitmap1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/satelitmap1.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/satelitmap1.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/satelitmap1.webp"
         class="img-fluid" alt="Audi connect gir Google satellittkart på utvalgte modeller" title="Audi connect gir Google satellittkart på utvalgte modeller">
     </a>
     <figcaption><h4>Audi connect gir Google satellittkart på utvalgte modeller</h4></figcaption>
@@ -52,8 +52,8 @@ Nå er det null stress å parkere i utenlandske byer. Funksjonen lar deg søke e
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/parking1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/parking1s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/parking1.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/parking1s.webp"
         class="img-fluid" alt="Parking information" title="Parking information">
     </a>
     <figcaption><h4>Parking information</h4></figcaption>
@@ -66,32 +66,32 @@ Ruten kan planlegges i fred og ro via myAudi-appen eller direkte fra bilen. Rute
 Videre er alle mål i bilen og på smarttelefonen synkronisert, uansett hvor de opprinnelig ble lagret. På denne måten kan du enkelt og komfortabelt planlegge ruter og reiser med smarttelefonen, og deretter hente dem som navigasjonsdestinasjoner i bilen. Hvis det er forsinkelser eller trafikkforstyrrelser på en av dine vanlige ruter, vises meldinger i navigasjonssystemet og på smarttelefonen. Hvis den opprinnelige ladestasjonen ikke kan nås, beregnes en ny rute. Under en aktiv lading langs ruten vises gjenværende ladetid og gjeldende ladetilstand for batteriet.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner1s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/routeplanner1.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/routeplanner1s.webp"
         class="img-fluid" alt="Ruteplanlegger" title="Ruteplanlegger">
     </a>
     <figcaption><h4>Ruteplanlegger</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner2s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/routeplanner2.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/routeplanner2s.webp"
         class="img-fluid" alt="Ruteplanlegger" title="Ruteplanlegger">
     </a>
     <figcaption><h4>Ruteplanlegger</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner3s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/routeplanner3.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/routeplanner3s.webp"
         class="img-fluid" alt="Ruteplanlegger" title="Ruteplanlegger">
     </a>
     <figcaption><h4>Ruteplanlegger</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplannerapp1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplannerapp1s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/routeplannerapp1.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/routeplannerapp1s.webp"
         class="img-fluid" alt="Ruteplanlegger i myAudi" title="Ruteplanlegger i myAudi">
     </a>
     <figcaption><h4>Ruteplanlegger i myAudi</h4></figcaption>
@@ -110,8 +110,8 @@ Skaff spesielle destinasjoner (f.eks. bensinstasjoner og parkeringsplasser) fra 
 Finn en ladestasjon nær deg eller på destinasjonen. Dette lar deg planlegge nødvendige stopp effektivt, sortert etter avstand. I tillegg får du informasjon om tilgjengelighet, tilkobling, og betalingsmåter, forutsatt at denne informasjonen er tilgjengelig på ladestasjonen.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/charging1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/charging1s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/charging1.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/charging1s.webp"
         class="img-fluid" alt="Ladestasjoner langs ruten med informasjon om tiden det tar å lade" title="Ladestasjoner langs ruten med informasjon om tiden det tar å lade">
     </a>
     <figcaption><h4>Ladestasjoner langs ruten med informasjon om tiden det tar å lade</h4></figcaption>
@@ -128,8 +128,8 @@ Tidlig varsling for økt trafikksikkerhet. Med informasjon fra den såkalte Audi
 Hvis en Audi med denne teknologien oppdager en farlig situasjon, rapporterer den dette til en server, som sender ut en advarsel til alle Audi-sjåfører i biler med denne tjenesten. 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/swarm1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/swarm1s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/swarm1.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/swarm1s.webp"
         class="img-fluid" alt="De bruker svermintelligensen til Audi-flåten, der mer enn hundre tusen biler allerede samler informasjon globalt." title="De bruker svermintelligensen til Audi-flåten, der mer enn hundre tusen biler allerede samler informasjon globalt.">
     </a>
     <figcaption><h4>De bruker svermintelligensen til Audi-flåten, der mer enn hundre tusen biler allerede samler informasjon globalt.</h4></figcaption>
@@ -138,8 +138,8 @@ Hvis en Audi med denne teknologien oppdager en farlig situasjon, rapporterer den
 Slik varsles Audi-sjåfører via stasjonsvogn og navigasjonssystem før de når farepunktet, og de får dermed mulighet til å reagere bedre på farlige situasjoner. Dette kan bidra til å øke sikkerheten for Audi-sjåfører og andre trafikanter.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/swarm2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/swarm2s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/swarm2.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/swarm2s.webp"
         class="img-fluid" alt="Varsling i Audi e-tron" title="Varsling i Audi e-tron">
     </a>
     <figcaption><h4>Varsling i Audi e-tron</h4></figcaption>
@@ -172,8 +172,8 @@ Aktuelle tjenester angående reiseplanene dine er tilgjengelige i connect-katego
 Motta viktig informasjon raskt. Nyt reisen, samtidig som du får med deg det viktigste. Med Audi connect er du alltid oppdatert, selv når du er på farten. Anerkjente nasjonale og internasjonale redaksjoner sender ut tekst og bilder om aktuelle verdensbegivenheter. Hvis den aktuelle leverandøren støtter tjenesten, legges nyhetene inn i en resultatliste på det valgte språket. Du kan også legge til dine egne nyhetskilder til myAudi ved hjelp av RSS-feeder. For økt sikkerhet og komfort kan du få nyhetene lest opp mens du kjører. Hvis ønskelig kan du også få teksten i MMI. På denne måten kan du kombinere de ulike funksjonene på best mulig måte avhengig av den aktuelle situasjonen.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/news1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/news1s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/news1.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/news1s.webp"
         class="img-fluid" alt="Nyheter" title="Nyheter">
     </a>
     <figcaption><h4>Nyheter</h4></figcaption>
@@ -184,24 +184,24 @@ Motta viktig informasjon raskt. Nyt reisen, samtidig som du får med deg det vik
 Hvordan blir været på turen? Med Audi connect har du full oversikt. Værmeldinger og ekstremværmeldinger presenteres på værkartet med lettfattelige symboler. Se detaljerte timevarsler for de neste to timene, og hold øye med nedbørradaren.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather1s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/weather1.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/weather1s.webp"
         class="img-fluid" alt="Værinfo" title="Værinfo">
     </a>
     <figcaption><h4>Værinfo</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather2s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/weather2.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/weather2s.webp"
         class="img-fluid" alt="Vær detaljert" title="Vær detaljert">
     </a>
     <figcaption><h4>Vær detaljert</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather3s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/weather3.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/weather3s.webp"
         class="img-fluid" alt="Været for de neste 7 dagene" title="Været for de neste 7 dagene">
     </a>
     <figcaption><h4>Været for de neste 7 dagene</h4></figcaption>
@@ -236,8 +236,8 @@ Audi integrerte Apple Music, en førsteklasses abonnementstjeneste for musikkstr
 Den nye Apple Music-integrasjonen lar kunder få tilgang til sin personlige Apple Music-konto direkte fra Audis infotainmentsystem, uten behov for Bluetooth eller USB. Etter å ha koblet et aktivt abonnement til kjøretøyet, kan Apple Music-abonnenter få tilgang til Apple Musics fulle katalog med 90 millioner sanger og titusenvis av spillelister, inkludert hundrevis av nye stemnings- og aktivitetsspillelister, personlige mikser og sjangerstasjoner – alt uten reklame.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/applemusic.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/applemusics.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/applemusic.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/applemusics.webp"
         class="img-fluid" alt="Apple music in MMI" title="Apple music in MMI">
     </a>
     <figcaption><h4>Apple music in MMI</h4></figcaption>

@@ -7,8 +7,8 @@ weight: 99990
 <!-- markdownlint-disable MD033 -->
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere1_mt.jpg" class="img-fluid" alt="Audi activesphere concept" title="Audi activesphere concept">
+    <a href="https://media.evkx.net/ehga/articles/activesphere/activesphere1.webp">
+        <img src="https://media.evkx.net/ehga/articles/activesphere/activesphere1_mt.webp" class="img-fluid" alt="Audi activesphere concept" title="Audi activesphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept</h4></figcaption>
 </figure>
@@ -32,8 +32,8 @@ This means all driver-relevant information, such as driving status and navigatio
 As a perfect all-rounder, the Audi activesphere concept is ideally suited for the high demands of a future-oriented generation of Audi customers – people for whom individual mobility and sustainability are not mutually exclusive. Also, owners who expect their vehicle to deliver the brand’s typical aesthetics and dynamism in the highest degree, combined with future-oriented technology. For these customers, the Audi activesphere concept acts as a fascinating vision of crossing the boundaries between these dimensions.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere2.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere2_mt.jpeg" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
+    <a href="https://media.evkx.net/ehga/articles/activesphere/activesphere2.webp">
+        <img src="https://media.evkx.net/ehga/articles/activesphere/activesphere2_mt.webp" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept</h4></figcaption>
 </figure>
@@ -54,8 +54,8 @@ Glass surfaces make up a significant part of the vehicle’s body – and by no 
 There are also glass surfaces on the side in the lower door area, which seem to dissolve the boundary between the natural world and the interior when the activesphere is in off-road mode. The wide, curved tailgate features extensive glazing for optimum lighting, whilst even the roof itself is transparent, letting plenty of daylight into the interior.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere7.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere7_mt.jpeg" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
+    <a href="https://media.evkx.net/ehga/articles/activesphere/activesphere7.webp">
+        <img src="https://media.evkx.net/ehga/articles/activesphere/activesphere7_mt.webp" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept glass surface</h4></figcaption>
 </figure>
@@ -74,8 +74,8 @@ As with its relative, the Audi grandsphere concept, the doors of the Audi active
 Right and left above the Singleframe, the narrow headlight units appear like focused eyes. The lighting units echo the logo of the brand with the four rings by enlarging and isolating the intersection of two rings to form a pupil – a new, unmistakable digital light signature that Audi first introduced in the Audi grandsphere: the Audi eye. In the activesphere, this signature is now varied – on-road and off-road driving modes each have their own variant. Daytime running lights and rear lights use ultra-fine micro-LED technology for even greater precision and contrast.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere5.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere5_mt.jpeg" class="img-fluid" alt="Audi activesphere concept" title="Audi activesphere concept">
+    <a href="https://media.evkx.net/ehga/articles/activesphere/activesphere5.webp">
+        <img src="https://media.evkx.net/ehga/articles/activesphere/activesphere5_mt.webp" class="img-fluid" alt="Audi activesphere concept" title="Audi activesphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept</h4></figcaption>
 </figure>
@@ -88,8 +88,8 @@ The Audi activesphere concept is a crosser of boundaries, which means it is a ma
 If required, the transparent rear window slides are almost flush with the roof of the Audi activesphere. At the same time, the lower, vertical segment of the rear folds horizontally – this opens up an ample cargo bed called the active back that features brackets for e-bikes, for example. The lateral surfaces of the rear, the C-pillars, remain in position to maintain the activesphere’s dynamic silhouette, whilst a motorized bulkhead deploys from behind the rear seats in order to isolate the cabine from the elements.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere8.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere8_mt.jpeg" class="img-fluid" alt="Audi activesphere concept" title="Audi activesphere concept">
+    <a href="https://media.evkx.net/ehga/articles/activesphere/activesphere8.webp">
+        <img src="https://media.evkx.net/ehga/articles/activesphere/activesphere8_mt.webp" class="img-fluid" alt="Audi activesphere concept" title="Audi activesphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept with bikes</h4></figcaption>
 </figure>
@@ -104,8 +104,8 @@ With that reassessment, the design process itself changes. At the beginning of a
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere4.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere4_mt.jpeg" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
+    <a href="https://media.evkx.net/ehga/articles/activesphere/activesphere4.webp">
+        <img src="https://media.evkx.net/ehga/articles/activesphere/activesphere4_mt.webp" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept</h4></figcaption>
 </figure>
@@ -121,8 +121,8 @@ The four individual seats are suspended like extensions of the high, full-length
 When the Audi activesphere concept is driving in autonomous mode, the dashboard, steering wheel, and pedals disappear into an invisible position. Especially in the first row of seats, a wide space opens in front of the driver, which extends to the front end of the activesphere – and beyond. For a clear field of vision, the fully glazed Singleframe gives passengers an unobstructed view of the road in front.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere8.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere8_mt.jpeg" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
+    <a href="https://media.evkx.net/ehga/articles/activesphere/activesphere8.webp">
+        <img src="https://media.evkx.net/ehga/articles/activesphere/activesphere8_mt.webp" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept autonomous mode</h4></figcaption>
 </figure>
@@ -142,8 +142,8 @@ The centerpiece of the new system is innovative mixed reality headsets – avail
 In the early days, VR goggles were limited to depicting a virtual reality without any real-world elements. However, technology evolved into augmented reality, whereby the real world is superimposed with virtual content. Mixed reality is now able to depict virtual content with spatial reference to the real world in three dimensions. There’s no doubt about it: in the future, mixed reality will take the possibilities of AR head-up displays to a whole new level in terms of flexibility, precision, and displayable content.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere6.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere6_mt.jpeg" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
+    <a href="https://media.evkx.net/ehga/articles/activesphere/activesphere6.webp">
+        <img src="https://media.evkx.net/ehga/articles/activesphere/activesphere6_mt.webp" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept</h4></figcaption>
 </figure>

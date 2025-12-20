@@ -16,16 +16,16 @@ I USA har ladeportene en [J1772-kontakt](https://en.wikipedia.org/wiki/SAE_J1772
 Porten på førersiden støtter kun AC-lading, mens porten på passasjersiden støtter både AC- og DC-lading.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/onboardcharger/chargeport_right.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/onboardcharger/chargeport_rights.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/onboardcharger/chargeport_right.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/onboardcharger/chargeport_rights.webp"
         class="img-fluid" alt="Passasjersideladeport med Type 2 CCS-port som støtter AC- og DC-lading" title="Passasjersideladeport med Type 2 CCS-port som støtter AC- og DC-lading">
     </a>
     <figcaption><h4>Passasjersideladeport med Type 2 CCS-port som støtter AC- og DC-lading</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/onboardcharger/chargeport_left2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/onboardcharger/chargeport_left2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/onboardcharger/chargeport_left2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/onboardcharger/chargeport_left2s.webp"
         class="img-fluid" alt="Ladeport for sjåfør med bare Type 2-port for AC-lading" title="Ladeport for sjåfør med bare Type 2-port for AC-lading">
     </a>
     <figcaption><h4>Ladeport for sjåfør med bare Type 2-port for AC-lading</h4></figcaption>
@@ -44,8 +44,8 @@ Alternativ-ID **KB4**
 I illustrasjonen under ser du plasseringen av ladeenhetene.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/onboardcharger/electricdrivetrain.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/onboardcharger/electricdrivetrains.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/onboardcharger/electricdrivetrain.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/onboardcharger/electricdrivetrains.webp"
         class="img-fluid" alt="Elektrisk drivlinje med laderens plassering" title="Elektrisk drivlinje med laderens plassering">
     </a>
     <figcaption><h4>Elektrisk drivlinje med laderens plassering</h4></figcaption>

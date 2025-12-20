@@ -22,8 +22,8 @@ Thanks to the car status report for the Audi e-tron in Audi connect, you can see
 The car can be easily locked and unlocked using the smartphone via the myAudi app
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/locking.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/lockings.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/etronservices/locking.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/etronservices/lockings.webp"
         class="img-fluid" alt="You can lock and unlock the car from the myAudi app" title="You can lock and unlock the car from the myAudi app">
     </a>
     <figcaption><h4>You can lock and unlock the car from the myAudi app</h4></figcaption>
@@ -34,8 +34,8 @@ The car can be easily locked and unlocked using the smartphone via the myAudi ap
 The car's parking position is shown on the map in the myAudi app on the smartphone.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/parkingposition.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/parkingpositions.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/etronservices/parkingposition.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/etronservices/parkingpositions.webp"
         class="img-fluid" alt="Parking position" title="Parking position">
     </a>
     <figcaption><h4>Parking position</h4></figcaption>
@@ -54,40 +54,40 @@ You can schedule charging and program times via the myAudi app. This protects th
 e-tron's parking air conditioner can be controlled with the myAudi app.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/climatecontrol1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/climatecontrol1s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/etronservices/climatecontrol1.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/etronservices/climatecontrol1s.webp"
         class="img-fluid" alt="You can control temperature, window heating, and comfort climate if available" title="You can control temperature, window heating, and comfort climate if available">
     </a>
     <figcaption><h4>You can control temperature, window heating, and comfort climate if available</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/climatecontrol2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/climatecontrol2s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/etronservices/climatecontrol2.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/etronservices/climatecontrol2s.webp"
         class="img-fluid" alt="You can also set a timer on climate" title="You can also set a timer on climate">
     </a>
     <figcaption><h4>You can also set a timer on climate</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/climatecontrol3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/climatecontrol3s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/etronservices/climatecontrol3.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/etronservices/climatecontrol3s.webp"
         class="img-fluid" alt="When started it runs for 30 minutes" title="When started it runs for 30 minutes">
     </a>
     <figcaption><h4>When started it runs for 30 minutes</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/climatecontrol4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/climatecontrol4s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/etronservices/climatecontrol4.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/etronservices/climatecontrol4s.webp"
         class="img-fluid" alt="You have also a quick start from the bottom menu" title="You have also a quick start from the bottom menu">
     </a>
     <figcaption><h4>You have also a quick start from the bottom menu</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/climatecontrol5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/climatecontrol5s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/etronservices/climatecontrol5.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/etronservices/climatecontrol5s.webp"
         class="img-fluid" alt="quickstart options" title="quickstart options">
     </a>
     <figcaption><h4>quickstart options</h4></figcaption>
@@ -98,16 +98,16 @@ e-tron's parking air conditioner can be controlled with the myAudi app.
 Get an overview of the electrical consumption, driving time, and driving distance
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/drivingdata.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/drivingdatas.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/etronservices/drivingdata.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/etronservices/drivingdatas.webp"
         class="img-fluid" alt="Driving data short-term memory" title="Driving data short-term memory">
     </a>
     <figcaption><h4>Driving data short-term memory</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/drivingdata2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/etronservices/drivingdata2s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/etronservices/drivingdata2.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/etronservices/drivingdata2s.webp"
         class="img-fluid" alt="Driving data long-term memory" title="Driving data long-term memory">
     </a>
     <figcaption><h4>Driving data long-term memory</h4></figcaption>

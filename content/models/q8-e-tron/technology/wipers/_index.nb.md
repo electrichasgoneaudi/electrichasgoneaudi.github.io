@@ -10,8 +10,8 @@ weight: 8
 Audi Q8 e-tron er utstyrt med standard manuell vindusviskere hvor man selv kan styre hastigheten.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/wipers/wipers_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/wipers/wipers_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/wipers/wipers_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/wipers/wipers_1s.webp"
         class="img-fluid" alt="Adjustment of spray pattern" title="Adjustment of spray pattern">
     </a>
     <figcaption><h4>Adjustment of spray pattern</h4></figcaption>
@@ -24,8 +24,8 @@ Som ekstrautstyr kan du få adaptive vindusviskere på Audi Q8 e-tron. Adaptive 
 De adaptive piskerne tar hensyn til kjørehastigheten, utetemperaturen og graden av smuss og justerer sprøytemønsteret for å rengjøre frontruten raskt og pålitelig, uten å forstyrre førerens sikt under operasjonen.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/wipers/adaptive1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/wipers/adaptive1.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/wipers/adaptive1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/wipers/adaptive1.webp"
         class="img-fluid" alt="Justering av sprøytemønster" title="Justering av sprøytemønster">
     </a>
     <figcaption><h4>Justering av sprøytemønster</h4></figcaption>
@@ -36,8 +36,8 @@ Under varme og tørre forhold brukes mindre væske for å fjerne skitt og støv,
 Visker- og vaskesystemet er fullstendig oppvarmet. Et varmeelement i viskerarmen (med en maksimal effekt på 20 watt) hindrer at viskersystemet iser over.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/wipers/adaptive1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/wipers/adaptive1.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/wipers/adaptive1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/wipers/adaptive1.webp"
         class="img-fluid" alt="Oppvarmet arm og dyse" title="Oppvarmet arm og dyse">
     </a>
     <figcaption><h4>Oppvarmet arm og dyse</h4></figcaption>

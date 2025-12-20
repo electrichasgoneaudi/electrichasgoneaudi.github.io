@@ -14,7 +14,7 @@ Audi bygde Q6 e-tron på den nye [PPE-plattformen](../../technology/bev-platform
 
 Hvis du vil diskutere denne modellen med andre, bli med i den [Internasjonale Audi Q6 e-tron Facebook-gruppen](https://www.facebook.com/groups/114120244068685) eller den [Norske Audi Q6 e-tron Facebook-gruppen](https://www.facebook.com/groups/454688995817417).  
 
-{{< sitefiguresized thumb="models/q6-e-tron/q6dynamic_1_st.jpg" width="3000" height="1999" title="Audi SQ6 e-tron" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/q6dynamic_1_st.webp" width="3000" height="1999" title="Audi SQ6 e-tron" >}}
 
 
 ## Audi Q6 e-tron-varianter.
@@ -47,7 +47,7 @@ Svart optikk og svart optikk pluss-pakker er alternativer.
 
 Det er det samme med tonede vinduer og panoramatak.
 
-{{< sitefiguresized thumb="models/q6-e-tron/q6exterior_1_st.jpg" width="3000" height="2249" title="Audi SQ6 e-tron" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/q6exterior_1_st.webp" width="3000" height="2249" title="Audi SQ6 e-tron" >}}
 
 Det er for tiden hjulalternativer fra 19 til 21 tommer.
 
@@ -57,7 +57,7 @@ Se alle detaljer i [Audi Q6 e-tron eksteriørseksjon](exterior/).
 
   Audi Q6 e-tron har tre forskjellige setealternativer: standard-, sports- og sport plusseter, noen med ventilasjon og noen massasje. Den er tilgjengelig med dyrefritt interiør og hel skinninteriør i forskjellige farger. Det finnes også S-line interiøralternativer.
 
-{{< sitefiguresized thumb="models/q6-e-tron/interior/interior_5_st.jpg" width="3000" height="2249" title="Audi Q6 interiør" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/interior/interior_5_st.webp" width="3000" height="2249" title="Audi Q6 interiør" >}}
 
 Se alle detaljene i [Audi Q6 e-tron interiørseksjon](interior/)
 
@@ -75,7 +75,7 @@ Batteriet med lanseringen skal ha følgende spesifikasjoner
 Disse batteriene vil gi Audi Q6 e-tron en WLTP på 625 km, avhengig av trimnivået for 100 kWh-batteriet (15,18 kWh/100 km). Takket være 800-volts teknologi kan Q6 e-tron lades med en kapasitet på mer enn 270kW.
 
 
-{{< sitefiguresized thumb="models/q6-e-tron/drivetrain/battery/charging_1_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron med opptil 270 KW lading" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/battery/charging_1_st.webp" width="3000" height="2249" title="Audi Q6 e-tron med opptil 270 KW lading" >}}
 
 Du kan lade batteriet fra fem til 80 prosent på mindre enn 25 minutter på en 800-volts 350KW-lader.
 
@@ -96,7 +96,7 @@ Audi Q6 e-tron kommer i forskjellige ytelsesversjoner.
 
 Audi vil bruke forskjellige motoroppsett på de kommende variantene.
 
-{{< sitefiguresized thumb="models/q6-e-tron/motors_st.jpg" width="1768" height="868" title="Motorer for Audi Q6 e-tron" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/motors_st.webp" width="1768" height="868" title="Motorer for Audi Q6 e-tron" >}}
 
 Audi bruker permanent eksiterte synkrone elektriske motorer (PSM) med hårnålsvikling på PPE-plattformen for bakmotoren og asynkronmotorer foran.
 Permanente magneter er montert på AC-motorens rotor, og genererer et permanent magnetfelt. Som et resultat, sammenlignet med asynkronmotorer (ASM), tilbyr PSM-er høyere effekt- og dreiemomenttettheter, større effektivitet og bedre reproduserbarhet av utgangseffekten.
@@ -112,7 +112,7 @@ Audi Drive Select er kombinert med luftfjæring og stålfjæring. Systemet reage
 
 Med luftfjæring, avhengig av hastigheten, kan karosseriet senkes i kombinasjon med luftfjæringen, noe som forbedrer aerodynamikken for økt rekkevidde.
 
-{{< sitefiguresized thumb="models/q6-e-tron/drivetrain/drivetrain_1_st.jpg" width="3000" height="1925" title="Audi Q6 e-tron drivverk" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/drivetrain_1_st.webp" width="3000" height="1925" title="Audi Q6 e-tron drivverk" >}}
 
 Hjulbreddene på for- og bakakselen varierer betydelig for å imøtekomme den bakfokuserte vektfordelingen – for mer grep og kjøredynamikk.
 
@@ -132,7 +132,7 @@ Q6 e-tron markerer ikke bare et nytt kapittel innen elektromobilitet hos Audi; l
 
 Med andregenerasjons digitale OLED-baklykter tar Audi Q6 e-tron lysdesign, funksjonsutvalg og trafikksikkerhet til et nytt nivå.
 
-{{< sitefiguresized thumb="models/q6-e-tron/technology/lights/headlights_1_st.jpg" width="3000" height="2250" title="Audi Q6 e-tron frontlys" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/lights/headlights_1_st.webp" width="3000" height="2250" title="Audi Q6 e-tron frontlys" >}}
 
 Les alt om det i vår [Audi Q6 e-tron lysseksjon](technology/lights)
 
@@ -143,7 +143,7 @@ Audi Q6 e-tron modellserien har et fullstendig sammenkoblet og digitalt interiø
 
 Med den valgfrie Augmented Reality Head-Up Display, et annet sentralt element på den digitale scenen, tar Audi et stort skritt fremover innen displayteknologi.
 
-{{< sitefiguresized thumb="models/q6-e-tron/technology/uiandoperations/virtualcockpit/virtualcockpit_1_st.jpg" width="1920" height="900" title="Audi Q6 e-tron med virtuell cockpit og MMI Panorama" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/uiandoperations/virtualcockpit/virtualcockpit_1_st.webp" width="1920" height="900" title="Audi Q6 e-tron med virtuell cockpit og MMI Panorama" >}}
 
 Det nye infotainmentsystemet bruker [Android Automotive](https://source.android.com/devices/automotive/start/what_automotive) OS som operativsystem for første gang. Innholdet er alltid oppdatert takket være over-the-air oppdateringer.
 
@@ -155,7 +155,7 @@ Les alt om det nye UI & MMI-systemet i [Audi Q6 e-tron UI & MMI-seksjonen](techn
 
 Audi Q6 e-tron skal ha et bagasjerom på 526 liter. Den vil også være tilgjengelig med hengerfeste, og maks kapasitet er 2400kg. Den kan også ha 75 kg last på taket. Frunken er på 64 liter.
 
-{{< sitefiguresized thumb="models/q6-e-tron/transportation/frunk_1_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron frunk" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/transportation/frunk_1_st.webp" width="3000" height="2249" title="Audi Q6 e-tron frunk" >}}
 
 
 Les alt om transportmulighetene i [Audi Q6 e-trons transportkapasitetsseksjoner](transportation)

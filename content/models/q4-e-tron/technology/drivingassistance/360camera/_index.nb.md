@@ -8,8 +8,8 @@ weight: 1
 Et virtuelt overheadbilde vist i MMI-displayet gir føreren en oversikt over den generelle parkeringssituasjonen. Panoramautsikten foran og bak dekker en vinkel på nesten 180 grader og gir bedre sikt ved utkjøring av trange parkeringsplasser, gårdsinnganger og uoversiktlige veikryss. Ledelinjer i ryggekameravisningen gjør det lettere å parkere på loddrette plasser og å koble til tilhengere. Utsikten fra frontkameraet hjelper ved manøvrering, da det oppdager hindringer foran bilen. Systemet aktiveres automatisk når du kjører i revers eller ved å trykke på en knapp.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/360camera/360camera.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/360camera/360cameras.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/drivingassistance/360camera/360camera.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/360camera/360cameras.webp"
         class="img-fluid" alt="360 kamera Audi Q4 e-tron" title="360 kamera Audi Q4 e-tron">
     </a>
     <figcaption><h4>360 kamera Audi Q4 e-tron</h4></figcaption>

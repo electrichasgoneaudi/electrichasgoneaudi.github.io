@@ -15,48 +15,48 @@ lakkert i utvendig karosserifarge – inkludert hjulbuelister, dørterskler, st�
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_1_st.jpg" class="img-fluid" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/advance_1.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/advance_1_st.webp" class="img-fluid" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
     </a>
     <figcaption><h4>Q8 e-tron in chronos grey in Advance line</h4></figcaption>
 </figure>
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_2_st.jpg" class="img-fluid" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/advance_2.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/advance_2_st.webp" class="img-fluid" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
     </a>
     <figcaption><h4>Q8 e-tron in chronos grey in Advance line</h4></figcaption>
 </figure>
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_3_st.jpg" class="img-fluid" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/advance_3.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/advance_3_st.webp" class="img-fluid" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
     </a>
     <figcaption><h4>Q8 e-tron in chronos grey in Advance line</h4></figcaption>
 </figure>
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_4_st.jpg" class="img-fluid" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/advance_4.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/advance_4_st.webp" class="img-fluid" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
     </a>
     <figcaption><h4>Q8 e-tron in chronos grey in Advance line</h4></figcaption>
 </figure>
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_5_st.jpg" class="img-fluid" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/advance_5.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/advance_5_st.webp" class="img-fluid" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
     </a>
     <figcaption><h4>Q8 e-tron in chronos grey in Advance line</h4></figcaption>
 </figure>
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/advance_6_st.jpg" class="img-fluid" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/advance_6.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/advance_6_st.webp" class="img-fluid" alt="Q8 e-tron in chronos grey in Advance line" title="Q8 e-tron in chronos grey in Advance line">
     </a>
     <figcaption><h4>Q8 e-tron in chronos grey in Advance line</h4></figcaption>
 </figure>
@@ -67,48 +67,48 @@ Den mer karakteristiske støtfangeren er flankert av mer uttrykksfulle luftgardi
 strekker seg under frontlysene, og skaper dermed et dynamisk utseende selv på avstand. Et S-linjeemblem pryder radiatorgrillen, mens
 opplyste dørterskellister i aluminium har en #S-logo.
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/sline_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/s-line_1_st.jpg" class="img-fluid" alt="Q8 e-tron in chronos grey in S-line" title="Q8 e-tron in chronos grey in S-line">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/sline_1.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/s-line_1_st.webp" class="img-fluid" alt="Q8 e-tron in chronos grey in S-line" title="Q8 e-tron in chronos grey in S-line">
     </a>
     <figcaption><h4>Q8 e-tron in chronos grey in S-line</h4></figcaption>
 </figure>
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/s-line_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/s-line_2_st.jpg" class="img-fluid" alt="Q8 e-tron in chronos grey in S-line" title="Q8 e-tron in chronos grey in S-line">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/s-line_2.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/s-line_2_st.webp" class="img-fluid" alt="Q8 e-tron in chronos grey in S-line" title="Q8 e-tron in chronos grey in S-line">
     </a>
     <figcaption><h4>Q8 e-tron in chronos grey in S-line</h4></figcaption>
 </figure>
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/s-line_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/s-line_3_st.jpg" class="img-fluid" alt="Q8 e-tron in chronos grey in S-line" title="Q8 e-tron in chronos grey in S-line">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/s-line_3.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/s-line_3_st.webp" class="img-fluid" alt="Q8 e-tron in chronos grey in S-line" title="Q8 e-tron in chronos grey in S-line">
     </a>
     <figcaption><h4>Q8 e-tron in chronos grey in S-line</h4></figcaption>
 </figure>
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/s-line_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/s-line_4_st.jpg" class="img-fluid" alt="Q8 e-tron in chronos grey in S-line" title="Q8 e-tron in chronos grey in S-line">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/s-line_4.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/s-line_4_st.webp" class="img-fluid" alt="Q8 e-tron in chronos grey in S-line" title="Q8 e-tron in chronos grey in S-line">
     </a>
     <figcaption><h4>Q8 e-tron in chronos grey in S-line</h4></figcaption>
 </figure>
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/s-line_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/s-line_5_st.jpg" class="img-fluid" alt="Q8 e-tron in chronos grey in S-line" title="Q8 e-tron in chronos grey in S-line">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/s-line_5.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/s-line_5_st.webp" class="img-fluid" alt="Q8 e-tron in chronos grey in S-line" title="Q8 e-tron in chronos grey in S-line">
     </a>
     <figcaption><h4>Q8 e-tron in chronos grey in S-line</h4></figcaption>
 </figure>
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/s-line_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/s-line_6_st.jpg" class="img-fluid" alt="Q8 e-tron in chronos grey in S-line" title="Q8 e-tron in chronos grey in S-line">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/s-line_6.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/s-line_6_st.webp" class="img-fluid" alt="Q8 e-tron in chronos grey in S-line" title="Q8 e-tron in chronos grey in S-line">
     </a>
     <figcaption><h4>Q8 e-tron in chronos grey in S-line</h4></figcaption>
 </figure>
@@ -123,40 +123,40 @@ opplyste dørterskellister i aluminium har en #S-logo.
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/sq_1.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/sq_1_st.jpeg"
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/sq_1.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/sq_1_st.webp"
         class="img-fluid" alt="SQ styling with" title="SQ styling with">
     </a>
     <figcaption><h4>SQ styling with</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/sq_2.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/sq_2_st.jpeg"
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/sq_2.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/sq_2_st.webp"
         class="img-fluid" alt="SQ styling with" title="SQ styling with">
     </a>
     <figcaption><h4>SQ styling with</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/sq_3.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/sq_3_st.jpeg"
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/sq_3.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/sq_3_st.webp"
         class="img-fluid" alt="SQ styling with" title="SQ styling with">
     </a>
     <figcaption><h4>SQ styling with</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/sq_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/sq_4_st.jpg"
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/sq_4.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/sq_4_st.webp"
         class="img-fluid" alt="SQ styling with" title="SQ styling with">
     </a>
     <figcaption><h4>SQ styling with</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/sq_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/s-line/sq_5_st.jpg"
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/sq_5.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/s-line/sq_5_st.webp"
         class="img-fluid" alt="SQ styling with" title="SQ styling with">
     </a>
     <figcaption><h4>SQ styling with</h4></figcaption>

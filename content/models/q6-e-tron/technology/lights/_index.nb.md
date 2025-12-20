@@ -24,7 +24,7 @@ LED-frontlysene inkluderer følgende funksjoner:
 - Posisjonslys
 - Blinkende lys
 
-{{< sitefiguresized thumb="models/q6-e-tron/technology/lights/standardled_2_st.jpg" width="1920" height="1440" title="Audi Q6 e-tron med standard LED-frontlys" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/lights/standardled_2_st.webp" width="1920" height="1440" title="Audi Q6 e-tron med standard LED-frontlys" >}}
 
 ### LED Plus frontlykter & DRL
 
@@ -51,7 +51,7 @@ LED-frontlysene pluss inkluderer følgende funksjoner:
 - Krysslys (tillegg til sidebelysningen i kryssingsområdet i forbindelse med MMI navigation plus)
 - Dynamisk belysning for å komme hjem/hjem-funksjonen mens den står stille
 
-{{< sitefiguresized thumb="models/q6-e-tron/technology/lights/headlights_2_st.jpg" width="1920" height="1440" title="Audi Q6 e-tron med LED Plus-lykter og Matrix DRL" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/lights/headlights_2_st.webp" width="1920" height="1440" title="Audi Q6 e-tron med LED Plus-lykter og Matrix DRL" >}}
 
 Med disse frontlyktene har du maskinvaren for LED Matrix. Denne kan bestilles som funksjon på forespørsel.
 
@@ -61,7 +61,7 @@ Audi Matrix LED-teknologien muliggjør presis og høyoppløselig belysning av ve
 
 Hvis kjøretøy oppdages av kamerasystemet, skjuler systemet selektivt kun dette området, mens fjernlyset forblir aktivt i de resterende segmentene. Den betydelig forbedrede belysningen av veien sammenlignet med LED-lykter kan øke sikkerheten og komforten når du kjører i mørket.
 
-{{< sitefiguresized thumb="models/q6-e-tron/technology/lights/headlights_1_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron med LED Matrix frontlykter og Matrix DRL" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/lights/headlights_1_st.webp" width="3000" height="2249" title="Audi Q6 e-tron med LED Matrix frontlykter og Matrix DRL" >}}
 
 ## Baklys
 
@@ -107,7 +107,7 @@ Audi utvikler gradvis teknologien til intelligente displayer som kan kommunisere
 Q6 e-tron markerer ikke bare et nytt kapittel innen elektromobilitet hos Audi; lysteknologi er en viktig del av Audis DNA. Med verdens første aktive digitale lyssignatur innleder Audi Q6 e-tron en ny æra preget av særegen design og estetikk unik for Audi.
 
 
-{{< sitefiguresized thumb="models/q6-e-tron/technology/lights/lights_2_st.jpg" width="3000" height="2000" title="Audi Q6 e-tron baklys" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/lights/lights_2_st.webp" width="3000" height="2000" title="Audi Q6 e-tron baklys" >}}
 
 Andregenerasjons digital OLED-teknologi former utseendet til nye Audi-modeller og øker funksjonsutvalget mange ganger. Dette forbedrer igjen trafikksikkerheten, noe som på imponerende vis demonstreres av kommunikasjonslyset i de digitale OLED-baklysene. Q6 e-tron setter også nye standarder innen personalisering: Med totalt åtte valgfrie digitale lyssignaturer i de redesignede kjørelysene i Matrix LED-frontlysene og digitale OLED-baklys 2.0, kan kundene designe utseendet til Q6 e-tron som aldri før. Dette er mulig via MMI og, for første gang, via myAudi-appen. Kunder kan også kjøpe digitale lyssignaturer etter å ha kjøpt bilen.
 #### Signatur og bevegelse kombinert for første gang: den aktive digitale lyssignaturen
@@ -124,7 +124,7 @@ I 2020 kunne Audi Q5-kunder velge en individuell baklyssignatur for første gang
 
 I 2022 ble dette alternativet standard i Audi A8 med digitale OLED-baklys. Bilens bussystem tillot programvaren å kontrollere hvert baklyspanel og hvert OLED-segment individuelt. I A8 kunne kundene velge mellom tre baklyssignaturer via MMI; i S8 kunne de velge mellom fire.
 
-{{< sitefiguresized thumb="models/q6-e-tron/technology/lights/oleddetails_1_st.jpg" width="3000" height="1625" title="Audi Q6 e-tron med OLED-baklys" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/lights/oleddetails_1_st.webp" width="3000" height="1625" title="Audi Q6 e-tron med OLED-baklys" >}}
 
 
 
@@ -151,12 +151,12 @@ Til slutt bruker kommunikasjonslyset også en spesifikk lyssignatur foran og bak
 Med opptil åtte digitale lyssignaturer for frontlyktene og baklysene, kan sjåførene nyte et nytt nivå av frihet når det gjelder å tilpasse sin Q6 e-tron. Kunder kan velge en signatur på en av to måter, via myAudi-appen eller i bilen via MMI. Seks ekstra signaturer med et belysningsscenario for å komme hjem/forlate hjemmet og den tilsvarende digitale lyssignaturen er tilgjengelige gjennom tilleggspakker.
 
 
-{{< sitefiguresized thumb="models/q6-e-tron/technology/lights/frontdesign_1_st.jpg" width="3000" height="1664" title="Audi Q6 e-tron signaturfrontlykter" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/lights/frontdesign_1_st.webp" width="3000" height="1664" title="Audi Q6 e-tron signaturfrontlykter" >}}
 
 
 Via myAudi-appen kan kundene aktivere sine personlige lyssignaturer fra utsiden av bilen og oppleve det dynamiske lysscenarioet og funksjonen å komme hjem/fra hjem rett på bilen. Det er det samme med kommunikasjonslyset i andregenerasjons digitale OLED-baklys og nærhetsindikasjon. På forespørsel kan Matrix LED-frontlyktene gi en live demonstrasjon av skiltrefleksdemping og objektmaskering.
 
-{{< sitefiguresized thumb="models/q6-e-tron/technology/lights/reardesign_1_st.jpg" width="3000" height="1706" title="Audi Q6 e-tron signatur baklys" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/lights/reardesign_1_st.webp" width="3000" height="1706" title="Audi Q6 e-tron signatur baklys" >}}
 
 
 For en enda større grad av personalisering for Q6 e-tron kan kundene bestille pakken med digitale lyssignaturer for LED-hovedlyktene pluss/Matrix LED-lyktene og digitale OLED-baklysene etter å ha kjøpt bilen ved hjelp av on-demand-funksjoner. Kunder kan kjøpe funksjonene permanent eller for en bestemt periode. Denne fleksibiliteten lar Audi-kunder designe sin Q6 e-tron med opptil åtte digitale lyssignaturer (kun i forbindelse med digitale OLED-baklys og LED-hovedlys pluss/Matrix LED-frontlys) for å passe personlige preferanser. Til slutt kan de også kjøpe fjernlysassistent og Matrix-pakken på forespørsel.

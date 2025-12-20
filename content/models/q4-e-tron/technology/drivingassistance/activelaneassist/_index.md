@@ -7,8 +7,8 @@ weight: 1
 
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/activelaneassist/activelaneassist.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/activelaneassist/activelaneassist.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/activelaneassist/activelaneassist.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/activelaneassist/activelaneassist.webp"
         class="img-fluid" alt="Audi active lane assist" title="Audi active lane assist">
     </a>
     <figcaption><h4>Audi active lane assist</h4></figcaption>
@@ -21,8 +21,8 @@ The Active Lane Assist can be disabled on the button at the end of the direction
 This is because under new [EU vehicle safety rules](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12503-Vehicle-safety-type-approval-of-cars-and-vans-with-emergency-lane-keeping-systems-ELKS-_en), all new car and van models must be equipped with emergency lane keeping systems (ELKS) from July 2022, and existing models from July 2024 EU requires.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/activelaneassist/laneassistbutton.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/activelaneassist/laneassistbuttons.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/activelaneassist/laneassistbutton.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/activelaneassist/laneassistbuttons.webp"
         class="img-fluid" alt="Active lane assist can be disabled with the button on the direction handle" title="Active lane assist can be disabled with the button on the direction handle">
     </a>
     <figcaption><h4>Active lane assist can be disabled with the button on the direction handle</h4></figcaption>

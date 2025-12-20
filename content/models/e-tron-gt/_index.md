@@ -10,7 +10,7 @@ The car is built on the J1 Performance platform, a platform jointly developed by
 
 Two powerful electric motors provide dynamic driving performance and confident electric all-wheel drive. With its net energy content of 84 kWh, the high-voltage battery enables ranges of up to 488 km (303.2 mi) and can be recharged extremely quickly, thanks to its 800 V technology.
 
-{{< sitefiguresized thumb="models/e-tron-gt/variants/variants_2_st.jpg" width="3000" height="2250" title="Audi S e-tron GT, Audi RS e-tron GT and Audi RS e-tron GT performance" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/e-tron-gt/variants/variants_2_st.webp" width="3000" height="2250" title="Audi S e-tron GT, Audi RS e-tron GT and Audi RS e-tron GT performance" >}}
 
 
 Audi e-tron GT has a wide range of options and advanced driving technologies. Here on electrichasgoneaudi.net, you find all details about e-tron GT. Everything from the different wheels to choose from to how the different driving assist system works.

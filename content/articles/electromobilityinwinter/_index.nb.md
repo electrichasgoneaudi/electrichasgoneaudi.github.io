@@ -6,8 +6,8 @@ weight: 100000
 ---
 <!-- markdownlint-disable MD033 -->
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_1s.jpg" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
+    <a href="https://media.evkx.net/ehga/articles/electromobilityinwinter/electromobilityinwinter_1.webp">
+        <img src="https://media.evkx.net/ehga/articles/electromobilityinwinter/electromobilityinwinter_1s.webp" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
     </a>
     <figcaption><h4>Elbil om vinteren</h4></figcaption>
 </figur>
@@ -23,8 +23,8 @@ Forkondisjonering klimatiserer interiøret i kjøretøyet før avgang til ønske
 I de rent elektriske modellene kompletterer Audi e-tron-ruteplanleggeren Audi MMIs (MMI = Multi Media Interface) navigasjonsfunksjoner med omtrent 30 detaljerte opplysninger og bidrar til å optimalisere kravene til e-mobilitet, spesielt når du kjører mellomstore og lengre distanser. : den beregner den raskeste ruten, tar hensyn til trafikk- og rutedata, vurderer førerens kjørestil, beregner hvor lang tid det vil ta å lade kjøretøyet, og inkluderer det i den totale kjøretiden. Brukerne får også vist grunnleggende informasjon som ladestrøm eller ladetilkoblinger og pluggtypen til de respektive ladepunktene. Systemet viser også om ladestasjoner er tilgjengelig eller opptatt. Audi e-tron-ruteplanleggeren foretrekker høyytelses HPC-ladestasjoner (HPC = High Power Charging = ultrarask lading), og i e-tron GT quattro-modellene aktiverer batteriet forkondisjonering under kjøring. Med en aktiv e-tron-ruteplanlegger ser den aktuelle modellen alltid etter den mest effektive veien til destinasjonen. I tillegg viser rekkeviddekalkulatoren på nettstedet forskjellene i rekkevidde for Audi e-tron og Audi e-tron Sportback – avhengig av ytre temperatur, kjøremodus, felgstørrelse og bruk av varme og klimaanlegg.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_3s.jpg" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
+    <a href="https://media.evkx.net/ehga/articles/electromobilityinwinter/electromobilityinwinter_3.webp">
+        <img src="https://media.evkx.net/ehga/articles/electromobilityinwinter/electromobilityinwinter_3s.webp" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
     </a>
     <figcaption><h4>Elektrisk mobilitet om vinteren</h4></figcaption>
 </figur>
@@ -42,8 +42,8 @@ Rekkeviddeprognosen er utledet fra høyspentbatteriets ladenivå og energiforbru
 Alle som hyppig tar korte bilturer bør lade batteriet til maks 80 pr cent for å spare kapasiteten for lengre rekkevidde og forlenge levetiden. På den annen side er det lurt å unngå langvarig dyputladning når ladenivået er under 20 prosent. Alle som ofte kjører lange bilturer kan lade opptil 100 prosent, men bør da begynne å kjøre umiddelbart etterpå. Ideelt sett bør alle som ikke kjører lenger enn 12 timer holde ladenivået mellom 40 og 80 prosent om vinteren.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_4s.jpg" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
+    <a href="https://media.evkx.net/ehga/articles/electromobilityinwinter/electromobilityinwinter_4.webp">
+        <img src="https://media.evkx.net/ehga/articles/electromobilityinwinter/electromobilityinwinter_4s.webp" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
     </a>
     <figcaption><h4>Elektrisk mobilitet om vinteren</h4></figcaption>
 </figur>
@@ -61,8 +61,8 @@ For å kunne bruke Audi e-tron GTs høye HPC-ladekapasitet på opptil 270 kW, m�
 Mindre felgstørrelser, smalere dekk og riktig lufttrykk kan redusere dekkenes rullemotstand om vinteren. Derimot øker takbokser aerodynamisk luftmotstand. Inne i bilen sparer ratt og setevarme energi fordi de opererer tett inntil kroppen og bruker mindre strøm. Bytte til luftsirkulasjonsmodus reduserer tap av rekkevidde.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/electromobilityinwinter/electromobilityinwinter_5s.jpg" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
+    <a href="https://media.evkx.net/ehga/articles/electromobilityinwinter/electromobilityinwinter_5.webp">
+        <img src="https://media.evkx.net/ehga/articles/electromobilityinwinter/electromobilityinwinter_5s.webp" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
     </a>
     <figcaption><h4>Elektrisk mobilitet om vinteren</h4></figcaption>
 </figur>

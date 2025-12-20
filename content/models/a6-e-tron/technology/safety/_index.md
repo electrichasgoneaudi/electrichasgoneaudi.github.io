@@ -10,7 +10,7 @@ sectiontabs: "/models/q6-e-tron/technology/"
 
 Audi Q6 e-tron has serveral airbags as standard and some optional
 
-{{< sitefiguresized thumb="models/q6-e-tron/technology/safety/airbags_1_st.jpg" width="3000" height="1710" title="Audi Q6 e-tron airbags" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/safety/airbags_1_st.webp" width="3000" height="1710" title="Audi Q6 e-tron airbags" >}}
 
 ### Front airbags
 

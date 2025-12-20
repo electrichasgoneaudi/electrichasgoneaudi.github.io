@@ -12,8 +12,8 @@ Systemet bruker data fra de to radarsensorene og frontkameraet til dette formål
 Først produseres et støt for å advare sjåføren om faren. Hvis sjåføren da aktivt unngår hindringen, bruker assistenten et lett styremoment som hjelper ved å korrigere førerens styreinnspill eller hjelpe til med å skifte fil. Modeller som Audi Q8 e-tron bruker en spesifikk bremsing av individuelle hjul – med den er kjøretøyet laget for å følge den beregnede kursen.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/collisionavoidanceassist/collisionavoidance.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/collisionavoidanceassist/collisionavoidances.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/collisionavoidanceassist/collisionavoidance.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/collisionavoidanceassist/collisionavoidances.webp"
         class="img-fluid" alt="Unnamanøvreringsassistent" title="Unnamanøvreringsassistent">
     </a>
     <figcaption><h4>Unnamanøvreringsassistent</h4></figcaption>

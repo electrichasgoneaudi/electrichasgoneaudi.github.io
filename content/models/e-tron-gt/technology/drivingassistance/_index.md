@@ -15,8 +15,8 @@ The most important system in the “Tour” assist package is adaptive cruise as
 Aside from the maneuver assist, the (remote) park assist plus, which the driver activates at the push of a button, is one of the highlights of the “Park” assist package. It detects suitable parking spaces and can maneuver the Audi e-tron GT into and out of a parallel or bay parking space at the push of a button. The driver is responsible for the maneuver. They can remain inside the car or get out beforehand – in this case, they start and supervise the parking maneuver via the myAudi app. By keeping the corresponding button pressed, the e-tron GT will roll into the space, in multiple maneuvers if necessary. Once it has reached its final position, it switches off the drive, activates the parking lock, and locks the doors. The “City” assist package includes the following safety systems: Audi pre sense rear, side assist, exit warning, intersection assist, and rear cross-traffic assist.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/sensors.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/sensorss.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/drivingassistance/sensors.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/drivingassistance/sensorss.webp"
         class="img-fluid" alt="Audi e-tron GT sensors" title="Audi e-tron GT sensors">
     </a>
     <figcaption><h4>Audi e-tron GT sensors</h4></figcaption>

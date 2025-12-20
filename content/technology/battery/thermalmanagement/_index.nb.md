@@ -12,8 +12,8 @@ En batteripakke har et termisk styringssystem for å prøve å holde batteriet i
 Dette inkluderer kjøling når den er i bruk for ikke å overopphetes.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/thermalmanagement/batterycooling_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/thermalmanagement/batterycooling_1.jpg"
+    <a href="https://media.evkx.net/ehga/technology/battery/thermalmanagement/batterycooling_1.webp">
+        <img src="https://media.evkx.net/ehga/technology/battery/thermalmanagement/batterycooling_1.webp"
         class="img-fluid" alt="Batterikjøling" title="Batterikjøling">
     </a>
     <figcaption><h4>Batterikjøling</h4></figcaption>
@@ -28,8 +28,8 @@ Dette kalles Active Precondition. På kalde dager er dette nødvendig for å få
 På bildet under ser du både kjølekretser og en tilleggsvarmer som kan varme opp batteriet når det er kaldt.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/thermalmanagement/thermal_management.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/thermalmanagement/thermal_managements.jpg"
+    <a href="https://media.evkx.net/ehga/technology/battery/thermalmanagement/thermal_management.webp">
+        <img src="https://media.evkx.net/ehga/technology/battery/thermalmanagement/thermal_managements.webp"
         class="img-fluid" alt="Audi e-tron GT termisk styring" title="Audi e-tron GT termisk styring">
     </a>
     <figcaption><h4>Audi e-tron GT termisk styring</h4></figcaption>

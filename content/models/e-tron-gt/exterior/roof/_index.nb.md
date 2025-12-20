@@ -12,36 +12,36 @@ Tonet panoramasoltak som slipper lys inn i kupeen og gir bedre romfølelse.
 Tilvalg  **3FU**. Dette er standard tak på Audi e-tron GT og Audi RS e-tron GT.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_1s.jpg" class="img-fluid" alt="Panorama glasstak" title="Panorama glasstak">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/panoramic_roof_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/panoramic_roof_1s.webp" class="img-fluid" alt="Panorama glasstak" title="Panorama glasstak">
     </a>
     <figcaption><h4>Panorama glasstak</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_2s.jpg" class="img-fluid" alt="Panorama glasstak" title="Panorama glasstak">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/panoramic_roof_2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/panoramic_roof_2s.webp" class="img-fluid" alt="Panorama glasstak" title="Panorama glasstak">
     </a>
     <figcaption><h4>Panorama glasstak</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_3s.jpg" class="img-fluid" alt="Panorama glasstak" title="Panorama glasstak">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/panoramic_roof_3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/panoramic_roof_3s.webp" class="img-fluid" alt="Panorama glasstak" title="Panorama glasstak">
     </a>
     <figcaption><h4>Panorama glasstak</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_4s.jpg" class="img-fluid" alt="Panorama glasstak" title="Panorama glasstak">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/panoramic_roof_4.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/panoramic_roof_4s.webp" class="img-fluid" alt="Panorama glasstak" title="Panorama glasstak">
     </a>
     <figcaption><h4>Panorama glasstak</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_5s.jpg" class="img-fluid" alt="Panorama glasstak" title="Panorama glasstak">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/panoramic_roof_5.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/panoramic_roof_5s.webp" class="img-fluid" alt="Panorama glasstak" title="Panorama glasstak">
     </a>
     <figcaption><h4>Panorama glasstak</h4></figcaption>
 </figure>
@@ -74,22 +74,22 @@ Dine fordeler:
 Tilvalg **3FI**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/carbon_roof_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/carbon_roof_1s.jpg" class="img-fluid" alt="Karbontak" title="Karbontak">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/carbon_roof_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/carbon_roof_1s.webp" class="img-fluid" alt="Karbontak" title="Karbontak">
     </a>
     <figcaption><h4>Karbontak</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/carbon_roof_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/carbon_roof_2s.jpg" class="img-fluid" alt="Karbontak" title="Karbontak">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/carbon_roof_2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/carbon_roof_2s.webp" class="img-fluid" alt="Karbontak" title="Karbontak">
     </a>
     <figcaption><h4>Karbontak</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/carbon_roof_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/carbon_roof_3s.jpg" class="img-fluid" alt="Karbontak" title="Karbontak">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/carbon_roof_3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/carbon_roof_3s.webp" class="img-fluid" alt="Karbontak" title="Karbontak">
     </a>
     <figcaption><h4>Karbontak</h4></figcaption>
 </figure>

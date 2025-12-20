@@ -10,8 +10,8 @@ weight: 2
 Standardinstrumenteringen er en digital skjerm som viser de viktigste bildataene som rekkevidde, hastigheter, batteristatus
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/multiinstrument.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/multiinstrument.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/virtualcockpit/multiinstrument.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/virtualcockpit/multiinstrument.webp"
         class="img-fluid" alt="Kombinasjonsinstrument" title="Kombinasjonsinstrument">
     </a>
     <figcaption><h4>Kombinasjonsinstrument</h4></figcaption>
@@ -30,8 +30,8 @@ Den inkluderer tradisjonell hastighet, batteristatus, strømlinjetall samt infor
 Faste indikatorer vises langs den nedre kanten; de viser utetemperatur, tid og kilometerstand samt advarsels- og informasjonssymboler.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/mminavigationvirtualcockpit.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/mminavigationvirtualcockpits.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/virtualcockpit/mminavigationvirtualcockpit.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/virtualcockpit/mminavigationvirtualcockpits.webp"
         class="img-fluid" alt="Virtual Cockpit infotainmentvisning i klassisk modus" title="Virtual Cockpit infotainmentvisning i klassisk modus">
     </a>
     <figcaption><h4>Virtual Cockpit infotainmentvisning i klassisk modus</h4></figcaption>
@@ -51,8 +51,8 @@ Det skaper en stor scene for navigasjonskartet eller for lister i telefon-, radi
 Med virtuell cockpit får du to forskjellige moduser. Men med Virtual Cockpit pluss får du en ekstra e-tron-modus. Dette er end el av [MMI Navigation Pro pakken **PYH**](../../../optionguide/list/#infotainment)
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/virtualcockpitmodes.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/virtualcockpitmodess.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/virtualcockpit/virtualcockpitmodes.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/virtualcockpit/virtualcockpitmodess.webp"
         class="img-fluid" alt="Virtual cockpit moduser" title="Virtual cockpit moduser">
     </a>
     <figcaption><h4>Virtual cockpit moduser</h4></figcaption>

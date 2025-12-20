@@ -9,7 +9,7 @@ weight: 99988
  The new versions significantly improve the sporty vehicle's range, performance, charging, and handling. With the RS e-tron GT performance3, Audi is debuting its first fully electric RS performance model. The new models in the Audi e-tron GT family are available to order now.
 
 
-{{< sitefiguresized thumb="models/e-tron-gt/variants/variants_2_st.jpg" width="3000" height="2250" title="Audi S e-tron GT, Audi RS e-tron GT and Audi RS e-tron GT performance" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/e-tron-gt/variants/variants_2_st.webp" width="3000" height="2250" title="Audi S e-tron GT, Audi RS e-tron GT and Audi RS e-tron GT performance" >}}
 
 ‘With the e-tron GT models, we are setting new standards in performance. The increased charging power and electric all-wheel drive ensure improved long-distance capability and considerably more performance. The newly developed chassis offers an unprecedented range between driving comfort, ride comfort, and driving dynamics,’ says Gernot Döllner, Chairman of the Board of Management of AUDI AG.
 

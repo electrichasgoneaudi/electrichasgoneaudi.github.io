@@ -23,8 +23,8 @@ The air quality package includes a particulate measuring sensor. It determines t
 Option id **2V4**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/airquality/airqualitypackage.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/airquality/airqualitypackages.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/airquality/airqualitypackage.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/airquality/airqualitypackages.webp"
         class="img-fluid" alt="Air Quality package system" title="Air Quality package system">
     </a>
     <figcaption><h4>Air Quality package system</h4></figcaption>

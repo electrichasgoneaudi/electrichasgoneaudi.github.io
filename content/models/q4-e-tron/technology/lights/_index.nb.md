@@ -14,8 +14,8 @@ Det er to typer frontlykter tilgjengelig på Audi Q4 e-tron
 Frontlyktene til Q4 e-tron og Q4 Sportback e-tron er fullt utstyrt med LED som standard.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/headlightstandard.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/headlightstandards.jpg" 
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/lights/headlightstandard.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/lights/headlightstandards.webp" 
         class="img-fluid" alt="Standard LED frontlykter med LED-indikatorlys" title="Standard LED frontlykter med LED-indikatorlys">
     </a>
     <figcaption><h4>Standard LED frontlykter med LED-indikatorlys</h4></figcaption>
@@ -30,40 +30,40 @@ Fjernlysassistent har opsjons-ID **8G1** og lysvaskere har alternativ-ID **8X8**
 På forespørsel tilbyr Audi også Matrix LED-frontlysene – de gir de to elektriske kompakte SUV-ene et utseende som er fullt av karakter og umiskjennelig, dag og natt. Det neste trinnet i utviklingen innen kjørelys er helt nytt blant konkurrentene. Ved å bruke MMI touch-operativsystemet kan sjåføren når som helst bytte mellom fire digitale lyssignaturer. Hver av dem genererer sitt eget tema og gir kjørelysene et individuelt uttrykk. Den valgte varianten aktiveres neste gang kjøretøyet startes. Nedenfor viser de 4 forskjellige signaturene
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/lights/signature1.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/lights/signature1s.webp"
         class="img-fluid" alt="Lyssignatur 1" title="Lyssignatur 1">
     </a>
     <figcaption><h4>Lyssignatur 1</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/lights/signature2.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/lights/signature2s.webp"
         class="img-fluid" alt="Lyssignatur 2" title="Lyssignatur 2">
     </a>
     <figcaption><h4>Lyssignatur 2</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature3s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/lights/signature3.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/lights/signature3s.webp"
         class="img-fluid" alt="Lyssignatur 3" title="Lyssignatur 3">
     </a>
     <figcaption><h4>Lyssignatur 3</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature4s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/lights/signature4.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/lights/signature4s.webp"
         class="img-fluid" alt="Lyssignatur 4" title="Lyssignatur 4">
     </a>
     <figcaption><h4>Lyssignatur 4</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signaturemenu.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signaturemenus.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/lights/signaturemenu.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/lights/signaturemenus.webp"
         class="img-fluid" alt="Signaturvalg gjøres i MMI" title="Signaturvalg gjøres i MMI">
     </a>
     <figcaption><h4>Signaturvalg gjøres i MMI</h4></figcaption>
@@ -86,24 +86,24 @@ Se video nedenfor hvordan HD Matrix fungerer på en e-tron
 I kombinasjon med Matrix LED-frontlyktene er det også en spesielt elegant lysløsning bak på den kompakte elektriske SUV-en. En lys stripe går over hele bredden; i midten stråler baklyset ut i en fin linje som deler seg i separate segmenter i endene. Hvert enkelt segment er modellert som en tredimensjonal kropp, noe som resulterer i en lysskulptur som er uttrykksfull fra alle perspektiver. Lyssignaturen åpner seg i et stort lysankersegment på sidene av kjøretøyet. Den dynamiske grafikken er inspirert av intrikate elektriske kretser og bærer de fire ringene som stråler i signaturrødt som den sentrale detaljen. De dynamiske blinklysene legger til et ytterligere høydepunkt i ryggelysene.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/rearwithoutmatrix.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/rearwithoutmatrixs.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/lights/rearwithoutmatrix.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/lights/rearwithoutmatrixs.webp"
         class="img-fluid" alt="Baklykt uten matrix uten lyslist og kun 1 ryggelys" title="Baklykt uten matrix uten lyslist og kun 1 ryggelys">
     </a>
     <figcaption><h4>Baklykt uten matrix uten lyslist og kun 1 ryggelys</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/rearwithmatrix2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/rearwithmatrix2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/lights/rearwithmatrix2.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/lights/rearwithmatrix2s.webp"
         class="img-fluid" alt="Baklykt med matrix med lysslist og 2 ryggelys" title="Baklykt med matrix med lysslist og 2 ryggelys">
     </a>
     <figcaption><h4>Taillight with matrix with light bar and 2 reversing light</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/rearcomparison.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/rearcomparisons.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/lights/rearcomparison.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/lights/rearcomparisons.webp"
         class="img-fluid" alt="Illustrasjon som viser forskjell mellom bil med Matrix (topp), og uten matrix (bunn)" title="Illustrasjon som viser forskjell mellom bil med Matrix (topp), og uten matrix (bunn)">
     </a>
     <figcaption><h4>Illustrasjon som viser forskjell mellom bil med Matrix (topp), og uten matrix (bunn)</h4></figcaption>

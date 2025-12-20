@@ -14,8 +14,8 @@ torque of 310 Nm provides the drive. In both body variants, it accelerates the e
 The Q4 35 e-tron can cover up to 341 kilometers (211.9 mi) (WLTP cycle) on a single battery charge, while the Q4 Sportback 35 e-tron does up to 349 kilometers (216.9 mi) (WLTP).
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/app310b.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/app310bs.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/app310b.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/app310bs.webp"
         class="img-fluid" alt="APP 310 motor" title="APP 310 motor">
     </a>
     <figcaption><h4>APP 310 motor</h4></figcaption>
@@ -27,8 +27,8 @@ The Audi Q4 40 e-tron features the large battery, which stores a net 76.6 kWh of
 The electric motor generates 150 kW (204 PS) and 310 Nm in this configuration. It is the same motor (APP310) used.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/app310bag.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/app310bags.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/app310bag.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/app310bags.webp"
         class="img-fluid" alt="The APP 310 motor is so small it fit in a bag" title="The APP 310 motor is so small it fit in a bag">
     </a>
     <figcaption><h4>The APP 310 motor is so small it fit in a bag</h4></figcaption>
@@ -63,8 +63,8 @@ on Q35 vs Q40/Q45/Q50 because of different battery pack. The rear electric motor
 - weight: ~90 kg
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/rearmotor_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/rearmotor_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/rearmotor_1.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/rearmotor_1s.webp"
         class="img-fluid" alt="Rear electric motor" title="Rear electric motor">
     </a>
     <figcaption><h4>Rear electric motor</h4></figcaption>
@@ -90,16 +90,16 @@ Only Q5 45 Quattro and 50 Quattro has the front motor. The front electric motor 
 - weight: ~60 kg
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/frontmotor_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/frontmotor_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/frontmotor_1.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/frontmotor_1s.webp"
         class="img-fluid" alt="Front electric motor" title="Front electric motor">
     </a>
     <figcaption><h4>Front electric motor</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/frontmotor_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/frontmotor_2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/frontmotor_2.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/frontmotor_2s.webp"
         class="img-fluid" alt="Front electric motor" title="Front electric motor">
     </a>
     <figcaption><h4>Front electric motor</h4></figcaption>
@@ -112,8 +112,8 @@ The principal advantages of the ASM are its short-term overload capacity and the
 The powerful APP310 e-drive unit transmits power to the driven wheels using an extremely compact gearbox. The Q4 single gear is able to cope with all driving situations. The mechanism used has only a small number of cogs. This 1-speed gearbox is part of the electric drive system for the modular electric drive matrix (MEB) and is manufactured by Volkswagen Group Components at the Kassel plant.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/gearbox.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/gearboxs.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/gearbox.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/gearboxs.webp"
         class="img-fluid" alt="APP310 gearbox" title="APP310 gearbox">
     </a>
     <figcaption><h4>APP310 gearbox</h4></figcaption>
@@ -124,8 +124,8 @@ The powerful APP310 e-drive unit transmits power to the driven wheels using an e
 The motors are liquid cooled. Each motor has liquid stator cooling to give maximum thermal robustness under all operating conditions
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/cooling.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/coolings.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/cooling.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/coolings.webp"
         class="img-fluid" alt="Audi Q4 45/50 e-tron liquid cooling of front and rear motors" title="Audi Q4 45/50 e-tron liquid cooling of front and rear motors">
     </a>
     <figcaption><h4>Audi Q4 45/50 e-tron liquid cooling of front and rear motors</h4></figcaption>
@@ -138,8 +138,8 @@ To protect the battery and other electronics Audi reduces the available power de
 For Q50 boost the full power is only avaible over 88% and temprature above 23°C.  After that it will drop down against 265HP. This screenshot show how the boost level is about 50% at 66% SOC.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/boost.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/boosts.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/boost.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/boosts.webp"
         class="img-fluid" alt="about 50% boost at 66% SOC" title="about 50% boost at 66% SOC">
     </a>
     <figcaption><h4>about 50% boost at 66% SOC</h4></figcaption>
@@ -150,8 +150,8 @@ But also for the other models it will reduce power below 100% when SOC is reduce
 Examples
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/vc2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/vc2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/vc2.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/vc2s.webp"
         class="img-fluid" alt="70% power on 32% SOC and 0.5 degree" title="70% power on 32% SOC and 0.5 degree">
     </a>
     <figcaption><h4>70% power on 32% SOC and 0.5 degree</h4></figcaption>

@@ -16,7 +16,7 @@ Its foundation is a new body shape with numerous innovative structural elements 
 
 Audi improved the drivetrain for the Audi Q8 e-tron with larger batteries, improved motors, steering, aerodynamics, and steering.
 
-{{< sitefiguresized thumb="models/q8-e-tron/drivetrain/drivetrain_st.jpg" width="3000" height="1829" title="Audi Q8 e-tron drivetrain" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q8-e-tron/drivetrain/drivetrain_st.webp" width="3000" height="1829" title="Audi Q8 e-tron drivetrain" >}}
 
 Below you will find details about the essential components of that drivetrain.
 

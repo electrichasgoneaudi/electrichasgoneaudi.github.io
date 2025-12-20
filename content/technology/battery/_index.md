@@ -11,8 +11,8 @@ Batteries are no new technology. Already in 1802, the first battery ready for ma
 This article focuses on Li-Ion batteries for EV's and has  the goal is to give you a high-level understanding of how stuff works
 and how it affects performance on EVs with a specific focus on all-electric Audis.
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterypack.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterypacks.jpg"
+    <a href="https://media.evkx.net/ehga/technology/battery/batterypack.webp">
+        <img src="https://media.evkx.net/ehga/technology/battery/batterypacks.webp"
         class="img-fluid" alt="Audi e-tron 95kWh battery pack" title="Audi e-tron 95kWh battery pack">
     </a>
     <figcaption><h4>Audi e-tron 95kWh battery pack</h4></figcaption>

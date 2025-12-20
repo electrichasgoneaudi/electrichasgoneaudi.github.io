@@ -6,13 +6,13 @@ weight: 99989
 ---
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="models/q6-e-tron/q6dynamic_1_st.jpg" width="3000" height="1999" title="Audi SQ6 e-tron" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/q6dynamic_1_st.webp" width="3000" height="1999" title="Audi SQ6 e-tron" >}}
 
  With its characteristics, the electric SUV stands for Vorsprung durch Technik. The model is defined not only by impressive driving and charging performance, but also by increased efficiency and long range. The Audi Q6 e-tron embodies typical Audi SUV styling with a further refined e-tron design language. The new design philosophy in the interior and pioneering technologies debuting in the new model, begin the next chapter in electric mobility for the Four Rings and make Vorsprung durch Technik a tangible experience every day. With the Q6 e-tron range, e mobility is coming from the Ingolstadt plant for the first time. The Audi Q6 e-tron quattro and SQ6 e-tron will be available to order from March 2024 at a price of 74.700 and 93.800 euros and will be delivered to customers in the third quarter of 2024.
 
 The [PPE](../../technology/bev-platforms/ppe/), developed jointly with Porsche, and the E3 1.2 electronic architecture are important milestones in the expansion of Audi's global range of electrically powered models. They mark the start of a comprehensive strengthening and rejuvenation of the model portfolio. The Q6 e-tron underpins Audi’s promise to offer electric vehicles in all core segments by 2027. “Built on the new PPE platform, the Audi Q6 e-tron is the next technological leap in premium electric mobility for our customers," said Gernot Döllner, Chairman of the Board of Management of AUDI AG, at the world premiere at the main plant in Ingolstadt. "The PPE shows how we are pooling expertise within the Volkswagen Group and thus making electric mobility scalable. Thanks to the PPE, we are able to launch high-volume models with high technical standards in different segments and thus further electrify our portfolio," the Audi CEO added.
 
-{{< sitefiguresized thumb="articles/q6worldpremiere/audiceo_1_st.jpg" width="3000" height="1999" title="Audi CEO, Gernot Döllner" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/articles/q6worldpremiere/audiceo_1_st.webp" width="3000" height="1999" title="Audi CEO, Gernot Döllner" >}}
 
 The flexibility of the PPE helps in giving the future models their independent character and the typical Audi DNA, despite shared technical underpinnings.
 
@@ -32,7 +32,7 @@ An important component in increasing the efficiency and therefore the range of t
 
 The Audi Q6 e-tron is positioned in the premium midsize segment and, with a length of 4,771 millimeters (15.6 ft), a width of 1,993 millimeters (6.5 ft) and a height of 1,648 millimeters (5.4 ft), the SUV offers maximum space, comfort and suitability for everyday use. The wheelbase of 2,899 millimeters (9.5 ft) allows plenty of legroom in the second row of seats. With these dimensions, the Audi Q6 e-tron offers sufficient space for five passengers and luggage and offers high utility value. Audi thus fulfills the requirements customers place on an SUV.
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/plasmablue_1_st.jpg" width="3000" height="2250" title="Plasma blå Audi Q6 e-tron " >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paint/plasmablue_1_st.webp" width="3000" height="2250" title="Plasma blå Audi Q6 e-tron " >}}
 
 The Audi Q6 e-tron comes with perfect proportions thanks to the Premium Platform Electric. The ratio of a long wheelbase to very short overhangs forms the basis for the familiar powerful, dynamic package seen in the exterior of Audi's Q models. The Audi Q6 e-tron also embodies the further developed e-tron-specific design language.
 
@@ -56,7 +56,7 @@ The technology, which is debuting in the Audi Q6 e-tron, also sets new standards
 
 The interior of the Audi Q6 e-tron is orientated towards the needs of the user more than ever. The three-dimensional and high-contrast design of the interior deliberately places elements in the foreground or background, creating a spatial architecture that is tailored to the occupants in terms of design and ergonomics. The Audi MMI panoramic display and the MMI passenger display form a visually clear digital stage. The interior emphasizes a homely ambience. The “Softwrap” extends from the doors across the entire cockpit to the center console, creating a homogeneous and enveloping feeling of space. The same colors and high-quality materials, some of which are recycled, can also be found in the seats. The materials used were selected from a functional point of view and at the same time ensure a clear design differentiation between the various vehicle areas in the interior. Comfort-oriented areas are designed with generous surfaces and soft materials. In contrast, the precisely designed control areas in high-quality high-gloss black emphasize the clarity of interaction with the vehicle.
 
-{{< sitefiguresized thumb="models/q6-e-tron/interior/interior_10_st.jpg" width="3000" height="2249" title="Audi Q6 interior" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/interior/interior_10_st.webp" width="3000" height="2249" title="Audi Q6 interior" >}}
 
 Thanks to the new PPE, which was developed specifically for e-mobility, the vehicle has a generous feeling of space and roominess as well as a high level of everyday practicality. The interior offers plenty of storage space and compartments. The increased comfort of the middle seat in the rear is typical of an electric car with a long wheelbase (2,899 millimeters, equivalent to 9.5 ft) and lacking a central tunnel. The trunk offers 526 liters (18.5 cu ft) of storage space. If the rear seat bench is folded down, the storage space increases to up to 1,529 liters (53.9 cu ft). The rear seats can be folded down separately (40:20:40). A further 64 liters (2.2 cu ft) of storage are available in the frunk (front trunk) under the front hood - a convenient place to stow smaller travel bags, for example. As a result, the Audi Q6 e-tron offers sufficient space for five passengers and their luggage. With its high utility value, it fulfils the requirements that customers place on an Audi SUV.
 
@@ -68,7 +68,7 @@ With the newly developed electronic architecture E3 1.2, customers experience di
 
 The Audi Q6 e-tron model series has a fully connected and digital interior based on the new electronic architecture. Made up by the Audi MMI panoramic display and the MMI passenger display, the so-called Digital Stage is a key feature of the interior. The clearly grouped displays are perfectly integrated into the design concept and give the interior a generous and airy feeling of space. 
 
-{{< sitefiguresized thumb="models/q6-e-tron/technology/uiandoperations/mmi/mmi_3_st.jpg" width="3000" height="2077" title="Audi Q6 e-tron with virtual cockpit, MMI screen and MMI front passenger screen" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/uiandoperations/mmi/mmi_3_st.webp" width="3000" height="2077" title="Audi Q6 e-tron with virtual cockpit, MMI screen and MMI front passenger screen" >}}
 
 The slim, free-standing Audi MMI panoramic display has a curved design and OLED technology and consists of the 11.9-inch Audi virtual cockpit and the 14.5-inch MMI touch display. The driver's area is designed as a curve and the display with its concave shape is oriented towards the driver. The contours of the curved display are also reminiscent of the single frame typical of Audi. The ambient lighting makes the Curved Display seem to float at night and creates a suitable setting. Especially for the front passengers, Audi complements the digital stage with the 10.9-inch MMI front passenger display with Active Privacy Mode, which prevents it from distracting the driver while on the move. This allows the front passenger to stream films/video content, assist with navigation, or even find a charging station for example.
 

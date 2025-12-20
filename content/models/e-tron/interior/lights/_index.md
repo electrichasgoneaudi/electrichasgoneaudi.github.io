@@ -21,16 +21,16 @@ The following interior lights are standard on Audi e-tron
 - Light in back door
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/interiorlights1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/interiorlights1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/interior/lights/interiorlights1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/interior/lights/interiorlights1s.webp"
         class="img-fluid" alt="LED front roof module" title="LED front roof module">
     </a>
     <figcaption><h4>LED front roof module</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/interiorlights2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/interiorlights2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/interior/lights/interiorlights2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/interior/lights/interiorlights2s.webp"
         class="img-fluid" alt="Luggage room lights" title="Luggage room lights">
     </a>
     <figcaption><h4>Luggage room lights</h4></figcaption>
@@ -57,8 +57,8 @@ This option with option id **QQ2** gives you.
 The colors can be adjusted with 30 color options per controllable
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/ambientligtscontrol.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/ambientligtscontrols.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/interior/lights/ambientligtscontrol.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/interior/lights/ambientligtscontrols.webp"
         class="img-fluid" alt="The lighs are controlled in MMI" title="The lighs are controlled in MMI">
     </a>
     <figcaption><h4>The lighs are controlled in MMI</h4></figcaption>
@@ -67,24 +67,24 @@ The colors can be adjusted with 30 color options per controllable
 The color can change based on your drive mode in [Audi Drive Select](/models/e-tron/technology/audidriveselect/).
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/multicolor.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/multicolors.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/interior/lights/multicolor.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/interior/lights/multicolors.webp"
         class="img-fluid" alt="Multicolor interior lights" title="Multicolor interior lights">
     </a>
     <figcaption><h4>Multicolor interior lights</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/ambientlight.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/ambientlights.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/interior/lights/ambientlight.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/interior/lights/ambientlights.webp"
         class="img-fluid" alt="Multicolor ambient light" title="Multicolor ambient light">
     </a>
     <figcaption><h4>Multicolor ambient light</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/ambientlight2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/ambientlight2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/interior/lights/ambientlight2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/interior/lights/ambientlight2s.webp"
         class="img-fluid" alt="Multicolor ambient light" title="Multicolor ambient light">
     </a>
     <figcaption><h4>Multicolor ambient light</h4></figcaption>

@@ -9,8 +9,8 @@ weight: 1
 Opptil fem radarsensorer, fem kameraer og 12 ultralydsensorer gir miljøinformasjon analysert av den sentrale førerassistentkontrollenheten.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/technology/drivingassistance/sensors.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/technology/drivingassistance/sensors_st.jpg"
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/technology/drivingassistance/sensors.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/technology/drivingassistance/sensors_st.webp"
         class="img-fluid" alt="Audi Q8 e-tron - sensors and cameraes" title="Audi Q8 e-tron - sensors and cameraes">
     </a>
     <figcaption><h4>Audi Q8 e-tron - sensorer og kamera</h4></figcaption>

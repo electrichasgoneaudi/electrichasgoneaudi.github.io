@@ -15,8 +15,8 @@ Sportssetene pro med 18-veis justering, pneumatiske sidestøtter, klimakontroll 
 Alle seter har elektrisk justering av setehøyde, ryggvinkel og horisontal plassering.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seat_adjustment_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seat_adjustment_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seat_adjustment_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seat_adjustment_1s.webp"
         class="img-fluid" alt="Sete med elektrisk justering og korsryggstøtte" title="Sete med elektrisk justering og korsryggstøtte">
     </a>
     <figcaption><h4>Sete med elektrisk justering og korsryggstøtte</h4></figcaption>
@@ -27,8 +27,8 @@ Alle seter har elektrisk justering av setehøyde, ryggvinkel og horisontal plass
 På Sport Plus sete kan du legge til minne. Det er standard på Sport Pro-seter.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seat_memory.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seat_memorys.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seat_memory.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seat_memorys.webp"
         class="img-fluid" alt="Seteminne styres i førerdøren" title="Seteminne styres i førerdøren">
     </a>
     <figcaption><h4>Seteminne styres i førerdøren</h4></figcaption>
@@ -43,8 +43,8 @@ På Sport Plus- og Pro-seter har du 4-veis elektrisk korsryggstøtte som kan jus
 Sport Pro har ventilerte seter.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seat_ventilationcontrol_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seat_ventilationcontrol_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seat_ventilationcontrol_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seat_ventilationcontrol_1s.webp"
         class="img-fluid" alt="Seteventilasjon styres i AC-kontroll" title="Seteventilasjon styres i AC-kontroll">
     </a>
     <figcaption><h4>Seteventilasjon styres i AC-kontroll</h4></figcaption>
@@ -70,8 +70,8 @@ Tilgjengelige massasjeprogrammer:
 Massasjen styres fra MMI.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_massage.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_massage.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_massage.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_massage.webp"
         class="img-fluid" alt="Massasjekontroll" title="Massasjekontroll">
     </a>
     <figcaption><h4>Massasjekontroll</h4></figcaption>
@@ -101,32 +101,32 @@ Massasjen styres fra MMI.
 Sportsseter er kun tilgjengelig med sort skinn/kunstskinn mono.pur 555 kombinasjon
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sport_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sport_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sport_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sport_1s.webp"
         class="img-fluid" alt="Sportseter i skinn / mono.pur 550 kunstskinn"" title="Sportseter i skinn / mono.pur 550 kunstskinn"">
     </a>
     <figcaption><h4>Sportseter i skinn / mono.pur 550 kunstskinn"</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sport_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sport_2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sport_2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sport_2s.webp"
         class="img-fluid" alt="Sportseter i skinn / mono.pur 550 kunstskinn"" title="Sportseter i skinn / mono.pur 550 kunstskinn"">
     </a>
     <figcaption><h4>Sportseter i skinn / mono.pur 550 kunstskinn"</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sport_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sport_3s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sport_3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sport_3s.webp"
         class="img-fluid" alt="Sportseter i skinn / mono.pur 550 kunstskinn"" title="Sportseter i skinn / mono.pur 550 kunstskinn"">
     </a>
     <figcaption><h4>Sportseter i skinn / mono.pur 550 kunstskinn"</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sport_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sport_4s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sport_4.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sport_4s.webp"
         class="img-fluid" alt="Sportseter i skinn / mono.pur 550 kunstskinn"" title="Sportseter i skinn / mono.pur 550 kunstskinn"">
     </a>
     <figcaption><h4>Sportseter i skinn / mono.pur 550 kunstskinn"</h4></figcaption>
@@ -137,24 +137,24 @@ Sportsseter er kun tilgjengelig med sort skinn/kunstskinn mono.pur 555 kombinasj
 Polstring er tilgjengelig enten som en kombinasjon av kunstskinn og Kaskade-materialet eller som en blanding av mono.pur 550 kunstskinn og mikrofibermaterialet Dinamica. I begge tilfeller består dekslene hovedsakelig av materialer som polyesterfibre som ble laget av resirkulerte PET-flasker, tekstiler eller restfibre. Hvert sett med Kaskade-deksler er laget av 119 resirkulerte plastflasker. Dinamica er et pustende mikrofibermateriale laget proporsjonalt av resirkulerte polyesterfibre og resirkulert PET. Kaskade minner om naturlige fibre som ull og gir en veldig behagelig sittefølelse. Sømmen på setesenterpanelene på begge dekslene er basert på utseendet til Singleframe.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportplus_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportplus_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sportplus_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sportplus_1s.webp"
         class="img-fluid" alt="Sport Plus-seter med kaskadestoff/kunstig mono.pur 550-skinn" title="Sport Plus-seter med kaskadestoff/kunstig mono.pur 550-skinn">
     </a>
     <figcaption><h4>Sport Plus-seter med kaskadestoff/kunstig mono.pur 550-skinn</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportplus_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportplus_2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sportplus_2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sportplus_2s.webp"
         class="img-fluid" alt="Sport Plus-seter med kaskadestoff/kunstig mono.pur 550-skinn" title="Sport Plus-seter med kaskadestoff/kunstig mono.pur 550-skinn">
     </a>
     <figcaption><h4>Sport Plus-seter med kaskadestoff/kunstig mono.pur 550-skinn</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportplus_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportplus_3s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sportplus_3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sportplus_3s.webp"
         class="img-fluid" alt="Sport Plus-seter med kaskadestoff/kunstig mono.pur 550-skinn" title="Sport Plus-seter med kaskadestoff/kunstig mono.pur 550-skinn">
     </a>
     <figcaption><h4>Sport Plus-seter med kaskadestoff/kunstig mono.pur 550-skinn</h4></figcaption>
@@ -169,8 +169,8 @@ For Color & Trim-konseptet til Audi e-tron GT ble materialene fullstendig redefi
 Sport Pro-seter er de mest avanserte setene. De har 18-veis justering for å gjøre det mulig å justere den for perfekt passform for fører/passasjer.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportpro_7.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportpro_7s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sportpro_7.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sportpro_7s.webp"
         class="img-fluid" alt="Sport Pro-seter med 18-veis justering" title="Sport Pro-seter med 18-veis justering">
     </a>
     <figcaption><h4>Sport Pro-seter med 18-veis justering</h4></figcaption>
@@ -181,48 +181,48 @@ Sport pro-seter er tilgjengelig med perforert skinn i forskjellige farger.
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportpro_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportpro_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sportpro_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sportpro_1s.webp"
         class="img-fluid" alt="Sport Pro-seter" title="Sport Pro-seter">
     </a>
     <figcaption><h4>Sport Pro-seter</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportpro_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportpro_2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sportpro_2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sportpro_2s.webp"
         class="img-fluid" alt="Sport Pro-seter" title="Sport Pro-seter">
     </a>
     <figcaption><h4>Sport Pro-seter</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportpro_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportpro_3s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sportpro_3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sportpro_3s.webp"
         class="img-fluid" alt="Sport Pro-seter" title="Sport Pro-seter">
     </a>
     <figcaption><h4>Sport Pro-seter</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportpro_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportpro_4s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sportpro_4.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sportpro_4s.webp"
         class="img-fluid" alt="Sport Pro-seter" title="Sport Pro-seter">
     </a>
     <figcaption><h4>Sport Pro-seter</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportpro_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportpro_5s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sportpro_5.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sportpro_5s.webp"
         class="img-fluid" alt="Sport Pro-seter ventilert skinn" title="Sport Pro-seter ventilert skinn">
     </a>
     <figcaption><h4>Sport Pro-seter ventilert skinn</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportpro_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/seats/seats_sportpro_6s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sportpro_6.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sportpro_6s.webp"
         class="img-fluid" alt="Sport Pro-seter ventilert skinn" title="Sport Pro-seter ventilert skinn">
     </a>
     <figcaption><h4>Sport Pro-seter ventilert skinn</h4></figcaption>

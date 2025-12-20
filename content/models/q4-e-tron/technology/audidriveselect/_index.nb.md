@@ -24,8 +24,8 @@ Avhengig av alternativ og oppsett påvirker innstillingene for valg av stasjon f
 - Audi Pre Sense
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/audidriveselect/driveselectbuttons.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/audidriveselect/driveselectbuttonss.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/audidriveselect/driveselectbuttons.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/audidriveselect/driveselectbuttonss.webp"
         class="img-fluid" alt="Drive Select er tilgjengelig som separate knapper og fra MMI" title="Drive Select er tilgjengelig som separate knapper og fra MMI">
     </a>
     <figcaption><h4>Drive Select er tilgjengelig som separate knapper og fra MMI</h4></figcaption>
@@ -34,8 +34,8 @@ Avhengig av alternativ og oppsett påvirker innstillingene for valg av stasjon f
 ### Modi
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/audidriveselect/driveselectmenu.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/audidriveselect/driveselectmenus.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/audidriveselect/driveselectmenu.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/audidriveselect/driveselectmenus.webp"
         class="img-fluid" alt="Drive Select-meny i MMI" title="Drive Select-meny i MMI">
     </a>
     <figcaption><h4>Drive Select-meny i MMI</h4></figcaption>
@@ -54,8 +54,8 @@ Avhengig av alternativ og oppsett påvirker innstillingene for valg av stasjon f
 ### Individuelle innstillinger
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/audidriveselect/individualsettings.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/audidriveselect/individualsettingss.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/audidriveselect/individualsettings.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/audidriveselect/individualsettingss.webp"
         class="img-fluid" alt="Individuelle innstillinger" title="Individuelle innstillinger">
     </a>
     <figcaption><h4>Individuelle innstillinger</h4></figcaption>

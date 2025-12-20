@@ -8,8 +8,8 @@ sectiontabs: "/nb/models/q6-e-tron/technology/"
 
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/activelaneassist/activelaneassist.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/activelaneassist/activelaneassist.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/activelaneassist/activelaneassist.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/activelaneassist/activelaneassist.webp"
         class="img-fluid" alt="Audi active lane assist" title="Audi active lane assist">
     </a>
     <figcaption><h4>Audi active lane assist</h4></figcaption>
@@ -20,8 +20,8 @@ sectiontabs: "/nb/models/q6-e-tron/technology/"
  Med et sent styringsintervensjonspunkt griper ikke Audi active lane assist inn før kort tid før den oppdagede filmarkeringen kan krysses; da gir det et korrigerende styreinngrep i riktig retning. I tillegg kan sjåføren velge å bli advart av en vibrasjon i rattet ved kryssing av registrerte kjørefeltmarkeringer.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/activelaneassist/vibrationmenu.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/activelaneassist/vibrationmenus.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/activelaneassist/vibrationmenu.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/activelaneassist/vibrationmenus.webp"
         class="img-fluid" alt="Du kan deaktivere rattvibrasjon" title="Du kan deaktivere rattvibrasjon">
     </a>
     <figcaption><h4>Du kan deaktivere rattvibrasjon</h4></figcaption>
@@ -30,8 +30,8 @@ sectiontabs: "/nb/models/q6-e-tron/technology/"
 Active Lane Assist kan deaktiveres på knappen på enden av retningshåndtaket. Det er ikke mulig å deaktivere den permanent.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/activelaneassist/laneassistbutton.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/activelaneassist/laneassistbuttons.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/activelaneassist/laneassistbutton.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/activelaneassist/laneassistbuttons.webp"
         class="img-fluid" alt="Aktiv filassistent kan deaktiveres med knappen på retningshendel" title="Aktiv filassistent kan deaktiveres med knappen på retningshendel">
     </a>
     <figcaption><h4>Aktiv filassistent kan deaktiveres med knappen på retningshendel</h4></figcaption>

@@ -9,7 +9,7 @@ Guiden er basert på grunnmodellen. Mange markeder har trimpakke med tilleggsuts
 
 Nedenfor er de viktigste tilvalgene du må vurdere når du kjøper en e-tron GT
 
-![Privacy Windows](https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_daytona_2s.jpg)
+![Privacy Windows](https://media.evkx.net/ehga/models/e-tron-gt/exterior/paint/paint_daytona_2s.webp)
 
 ## Privacy vinduer: tilvalg QL5
 
@@ -25,7 +25,7 @@ The tour package contains most of the important driver assist functionality  lik
 
 The City assist package include [Side Assist](../technology/drivingassistance/sideassist/), [exit warning](../technology/drivingassistance/exitwarning/), [cross traffic assist rear](../technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](../technology/drivingassistance/presenserear/), [Audi pre sense side](../technology/drivingassistance/presenseside/) and [crossing assist](../technology/drivingassistance/crossingassist/)
 
-![QQ2](https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/lights/ambientlight_1s.jpg)
+![QQ2](https://media.evkx.net/ehga/models/e-tron-gt/interior/lights/ambientlight_1s.webp)
 
 ## Multicolour ambient lightning: Option ID QQ2
 

@@ -5,7 +5,7 @@ description: Audi Q6 e-tron er for øyeblikket tilgjengelig i 4 forskjellige var
 weight: 1
 ---
 
-{{< sitefiguresized thumb="models/q6-e-tron/variants/variants_1_st.jpg" width="3000" height="2250" title="Audi SQ6 e-tron & Audi Q6 e-tron" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/variants/variants_1_st.webp" width="3000" height="2250" title="Audi SQ6 e-tron & Audi Q6 e-tron" >}}
 
 <!-- markdownlint-disable MD033 -->
 ### Audi Q6 e-tron
@@ -129,7 +129,7 @@ Omfang:
 [Se detaljert spesifikasjon](../specifications/#audi-sq6-e-tron)
 
 
-{{< sitefiguresized thumb="models/q6-e-tron/variants/variants_2_st.jpg" width="3000" height="2250" title="Audi SQ6 sportback e-tron" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/variants/variants_2_st.webp" width="3000" height="2250" title="Audi SQ6 sportback e-tron" >}}
 
 
 ### Audi Q6 Sportback e-tron

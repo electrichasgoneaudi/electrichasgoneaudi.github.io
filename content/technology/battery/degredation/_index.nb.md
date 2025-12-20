@@ -26,8 +26,8 @@ De fleste biler står parkert mer enn de blir kjørt. Kalenderaldring er nedbryt
 Faktorene som påvirker kalenderaldring er ladetilstand og miljøtemperatur.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/degredation/evstoragestress.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/degredation/evstoragestress.png"
+    <a href="https://media.evkx.net/ehga/technology/battery/degredation/evstoragestress.webp">
+        <img src="https://media.evkx.net/ehga/technology/battery/degredation/evstoragestress.webp"
         class="img-fluid" alt="Lagringsstress" title="Lagringsstress">
     </a>
     <figcaption><h4>Lagringsstress</h4></figcaption>
@@ -46,8 +46,8 @@ Syklusaldring er reduksjon av energikapasitet eller kraft forårsaket av lading/
 Diagrammet nedenfor viser hvordan SOC-området som brukes ved lading/utlading påvirker nedbrytningen
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/degredation/dstcycles.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/degredation/dstcycles.png"
+    <a href="https://media.evkx.net/ehga/technology/battery/degredation/dstcycles.webp">
+        <img src="https://media.evkx.net/ehga/technology/battery/degredation/dstcycles.webp"
         class="img-fluid" alt="Syklusstress" title="Syklusstress">
     </a>
     <figcaption><h4>Syklusstress</h4></figcaption>

@@ -12,8 +12,8 @@ Dato. Den koordinerer dette intelligent med teknologier og digitale tjenester so
 sansene og tilbyr et helt nytt nivå av opplevelse.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_1s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_1.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_1s.webp" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere-konsept</h4></figcaption>
 </figur>
@@ -61,8 +61,8 @@ deler av bilverdenen, men Audi urbansphere-konseptet bryter radikalt med
 konvensjoner for segmentet.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_5s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_5.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_5s.webp" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere-konsept</h4></figcaption>
 </figur>
@@ -119,8 +119,8 @@ meter (5,8 fot) takhøyde og ekspansive glassflater gir disse dimensjonene en
 eksepsjonelt romslig opplevelse av interiøret.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_3s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_3.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_3s.webp" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere-konsept</h4></figcaption>
 </figur>
@@ -146,8 +146,8 @@ bruk er mulig. Når skjermen ikke er i bruk, gir den klar sikt foran takket vær
 transparent design eller – når den er brettet opp – gjennom glasstaket til himmelen.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_4s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_4.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_4s.webp" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere-konsept</h4></figcaption>
 </figur>
@@ -170,8 +170,8 @@ for eksempel med en meditasjonsapp som kan brukes via den personlige skjermen og
 sone i nakkestøttene.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_7.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_7s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_7.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_7s.webp" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere-konsept</h4></figcaption>
 </figur>
@@ -189,8 +189,8 @@ til bunnen og, sammen med det naturlige lyset som kommer inn i rommet, skaper et
 interiør.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_9.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_9s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_9.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_9s.webp" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere-konsept</h4></figcaption>
 </figur>
@@ -270,8 +270,8 @@ dukker umiddelbart opp til tross for de staselige proporsjonene til Audi-bysfær
 gjøre i den betydelig flatere grandsfæren.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_6s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_6.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_6s.webp" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere-konsept</h4></figcaption>
 </figur>
@@ -293,8 +293,8 @@ via lette segmenter i de ytre delene av Singleframe og en tilsvarende fungerende
 LED-overflaten er plassert på baksiden.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_10.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_10s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_10.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_10s.webp" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere-konsept</h4></figcaption>
 </figur>
@@ -318,8 +318,8 @@ multifunksjonell lyskilde – den indre huden til paraplyen er laget av reflekte
 hele overflaten fungerer som en blendingsfri belysningsenhet.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_8.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_8s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_8.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_8s.webp" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere-konsept</h4></figcaption>
 </figur>
@@ -344,8 +344,8 @@ bare fra et designperspektiv. Kjernefordelene inkluderer et langt interiør og d
 i begge seterader.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_11.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_11s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_11.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_11s.webp" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere-konsept - 24-tommers hjul</h4></figcaption>
 </figur>
@@ -366,8 +366,8 @@ En nyskapende funksjon er at motoren på forakselen kan deaktiveres etter behov 
 for å redusere friksjonen og dermed energiforbruket ved frikjøring.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_2s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_2.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_2s.webp" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere-konsept</h4></figcaption>
 </figur>

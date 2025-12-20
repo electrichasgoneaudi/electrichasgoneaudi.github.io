@@ -11,8 +11,8 @@ The navigation system on the Audi Q8 e-tron is based on maps and data from [HERE
 The navigation system is available in the [virtual cockpit](../virtualcockpit/), the [Head up display](../headupdisplay/), and [Audi MMi](../mmi/) and will help to navigate to your destination, but also will help find charging stations, parking, and other points of interestest along the route.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/navigation.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/navigations.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/navigation/navigation.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/navigation/navigations.webp"
         class="img-fluid" alt="The Navigation system in Virtual Cockpit and MMI" title="The Navigation system in Virtual Cockpit and MMI">
     </a>
     <figcaption><h4>The Navigation system in Virtual Cockpit and MMI</h4></figcaption>
@@ -21,8 +21,8 @@ The navigation system is available in the [virtual cockpit](../virtualcockpit/),
 You can enable Google maps-based Satellite photos and google based search to enrich the experience even more.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/navigation2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/navigation2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/navigation/navigation2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/navigation/navigation2s.webp"
         class="img-fluid" alt="The Navigation system in Virtual Cockpit with google maps satellite image" title="The Navigation system in Virtual Cockpit with google maps satellite image">
     </a>
     <figcaption><h4>The Navigation system in Virtual Cockpit with google maps satellite image</h4></figcaption>
@@ -41,8 +41,8 @@ See below for detailed information about the features.
 The e-tron route planner calculates the fastest route, considers traffic and road data, includes the driver’s driving style, calculates the duration of the charging stops and incorporates them in planning the total travel time.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/navigation3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/navigation3s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/navigation/navigation3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/navigation/navigation3s.webp"
         class="img-fluid" alt="The Navigation system in Virtual Cockpit with google maps satellite image" title="The Navigation system in Virtual Cockpit with google maps satellite image">
     </a>
     <figcaption><h4>The Navigation system in Virtual Cockpit with google maps satellite image</h4></figcaption>
@@ -55,48 +55,48 @@ You can plan routes from previous destinations, favorites, contact addresses, an
 In the below set of images, you see how it is to search and create a route going to IKEA from the MMI system.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/navigation/search1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/navigation/search1s.webp"
         class="img-fluid" alt="Step 1: Search for IKEA" title="Step 1: Search for IKEA">
     </a>
     <figcaption><h4>Step 1: Search for IKEA</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/navigation/search2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/navigation/search2s.webp"
         class="img-fluid" alt="Step 2: Selecting correct search result and pressing start" title="Step 2: Selecting correct search result and pressing start">
     </a>
     <figcaption><h4>Step 2: Selecting correct search result and pressing start"</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search3s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/navigation/search3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/navigation/search3s.webp"
         class="img-fluid" alt="Step 3: Navigation informs that you don't have enough charge going to IKEA and suggest adding charging along the route" title="Step 3: Navigation informs that you don't have enough charge going to IKEA and suggest adding charging along the route">
     </a>
     <figcaption><h4>Step 3: Navigation informs that you don't have enough charge going to IKEA and suggest adding charging along the route</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search4s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/navigation/search4.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/navigation/search4s.webp"
         class="img-fluid" alt="Step 4: Suggested charging stops including expected battery state of charge at destination" title="Step 4: Suggested charging stops including expected battery state of charge at destination">
     </a>
     <figcaption><h4>Step 4: Suggested charging stops including expected battery state of charge at destination</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search5s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/navigation/search5.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/navigation/search5s.webp"
         class="img-fluid" alt="Step 5: Planned route" title="Step 5: Planned route">
     </a>
     <figcaption><h4>Step 5: Planned route</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/search6s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/navigation/search6.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/navigation/search6s.webp"
         class="img-fluid" alt="When driving the lower MMI screen supports handwriting for search" title="When driving the lower MMI screen supports handwriting for search">
     </a>
     <figcaption><h4>When driving the lower MMI screen supports handwriting for search</h4></figcaption>
@@ -111,16 +111,16 @@ You can search for points of interest, chargers, parking based from the Here map
 The Navigation system also supports presenting the range on the map. The blue area is the theoretical range area.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/range.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/ranges.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/navigation/range.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/navigation/ranges.webp"
         class="img-fluid" alt="The Range indicated with the blue area" title="The Range indicated with the blue area">
     </a>
     <figcaption><h4>The Range indicated with the blue area</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/planet.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/planets.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/navigation/planet.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/navigation/planets.webp"
         class="img-fluid" alt="You can cover the whole planet with your all-electric Audi" title="You can cover the whole planet with your all-electric Audi">
     </a>
     <figcaption><h4>You can cover the whole planet with your all-electric Audi</h4></figcaption>
@@ -131,8 +131,8 @@ The Navigation system also supports presenting the range on the map. The blue ar
 You can get voice guidance during navigation.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/voiceguidance.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/voiceguidance.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/navigation/voiceguidance.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/navigation/voiceguidance.webp"
         class="img-fluid" alt="You can control how much voice guidance you need" title="You can control how much voice guidance you need">
     </a>
     <figcaption><h4>You can control how much voice guidance you need</h4></figcaption>
@@ -157,8 +157,8 @@ Using the Audi Q8 e-tron Navigation systems has some additional benefits you don
 - Tell the garage opener you are closing up to your garage so it can atomically select the correct garage door to open.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/headup.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/headups.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/navigation/headup.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/navigation/headups.webp"
         class="img-fluid" alt="Head-up display with route info and efficiency assistant suggesting to slow down" title="Head-up display with route info and efficiency assistant suggesting to slow down">
     </a>
     <figcaption><h4>Head-up display with route info and efficiency assistant suggesting to slow down</h4></figcaption>
@@ -173,8 +173,8 @@ Maps are automatically updated through [Audi Connect](/technology/audiconnect/).
 The GPS antenna used by the navigation system is located on the roof of e-tron
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/antenna.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/navigation/antennas.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/navigation/antenna.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/navigation/antennas.webp"
         class="img-fluid" alt="GPS antenna on roof of e-tron and e-tron Sportback" title="GPS antenna on roof of e-tron and e-tron Sportback">
     </a>
     <figcaption><h4>GPS antenna on roof of e-tron and e-tron Sportback</h4></figcaption>

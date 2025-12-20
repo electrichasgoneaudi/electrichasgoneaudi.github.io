@@ -22,8 +22,8 @@ Hvite lys med alternativ-ID **QQ1** og flerfarget med 30 fargealternativer per k
 område med alternativ-ID **QQ2**.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/lights/ambientlight_control.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/lights/ambientlight_controls.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/lights/ambientlight_control.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/lights/ambientlight_controls.webp"
         class="img-fluid" alt="Lysene styres i MMI" title="Lysene styres i MMI">
     </a>
     <figcaption><h4>Lysene styres i MMI</h4></figcaption>
@@ -32,8 +32,8 @@ område med alternativ-ID **QQ2**.
 Fargen kan endres basert på kjøremodusen din i [Audi Drive Select](/models/e-tron-gt/technology/audidriveselect/).
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/lights/ambientlight_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/lights/ambientlight_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/lights/ambientlight_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/lights/ambientlight_1s.webp"
         class="img-fluid" alt="Multicolor interiørlys" title="Multicolor interiørlys">
     </a>
     <figcaption><h4>Multicolor interiørlys</h4></figcaption>

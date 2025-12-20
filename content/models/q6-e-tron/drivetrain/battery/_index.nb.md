@@ -9,7 +9,7 @@ Q6 e-tron-serien, bygget i Ingolstadt, er den første helelektriske høyvolumsmo
 
 Som en del av produksjonen av Audi Q6 e-tron-serien, monteres cirka 1000 høyspenningsbatterier (HV) hver dag på et område på rundt 30 000 kvadratmeter. Totalt jobber ca 300 ansatte i batterimontering i tre skift. Automatiseringsraten stiger til rundt 90 prosent. For hvert høyspentbatteri faller produksjonstiden fra omtrent to timer til bare 55 minutter. Sammenlignet med batterisystemene Audi har brukt til dags dato, består batteriet til PPE av kun tolv moduler med totalt 180 prismatiske celler. Til sammenligning: HV-batteriet i Q8 e-tron består av 36 moduler og 432 celler. Den betydelige utvidelsen av cellene tilsvarer tett systemspenningen på 800 volt for å oppnå best mulig balanse mellom rekkevidde og ladeytelse.
 
-{{< sitefiguresized thumb="models/q6-e-tron/drivetrain/battery/battery_1_st.jpg" width="3000" height="1969" title="100Kwh bruttopakke, 12 moduler" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/battery/battery_1_st.webp" width="3000" height="1969" title="100Kwh bruttopakke, 12 moduler" >}}
 
 For PPE er forholdet mellom nikkel og kobolt og mangan i cellene ca. 8:1:1, med redusert andel kobolt og økt andel nikkel, noe som er spesielt viktig for energitettheten.
 
@@ -19,7 +19,7 @@ Reduksjonen av antall moduler for PPE-batteriene gir en rekke fordeler. Batterie
 
 HV-batteriet for PPE ble utviklet fra grunnen av og strukturen ble forenklet. Den er utstyrt med tolv moduler og 180 celler og har en brutto lagringskapasitet på 100 kWh (94,9 netto). For hver modul er 15 elektrokjemiske celler koblet i serie. Maksimal ladeeffekt for 100 kWh-batteriet er 270 kW.
 
-{{< sitefiguresized thumb="models/q6-e-tron/drivetrain/battery/cell_1_st.jpg" width="3000" height="1783" title="Batterimodul med 15 x 152 ah celler" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/battery/cell_1_st.webp" width="3000" height="1783" title="Batterimodul med 15 x 152 ah celler" >}}
 
 En variant med en kapasitet på 83 kWh er også tilgjengelig for Audi Q6 e-tron-serien. Sistnevnte består av ti moduler og 150 celler. Takket være optimert cellekjemi og høyytelses termisk styring, kan 100 kWh-batteriet lades fra 10 til 80 prosent på 21 minutter ved en passende hurtigladestasjon. Å lade opp en rekkevidde på opptil 255 kilometer (158 mi) er mulig på bare ti minutter.
 
@@ -27,7 +27,7 @@ Batteristyringskontrolleren (BMC), en sentral kontrollenhet utviklet spesielt fo
 
 Hvis en ladestasjon jobber med 400-volts teknologi, er banklading mulig for første gang. 800-volts batteriet deles automatisk i to batterier med lik spenning, som deretter kan lades parallelt med opptil 135 kW. Begge halvdelene av batteriet bringes først til samme ladenivå og lades deretter sammen.
 
-{{< sitefiguresized thumb="models/q6-e-tron/drivetrain/battery/bankcharging_1_st.jpg" width="3000" height="1783" title="Batterimodul med 15 x 152 ah celler" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/battery/bankcharging_1_st.webp" width="3000" height="1783" title="Batterimodul med 15 x 152 ah celler" >}}
 
 ## Effektiv termisk styring for kortere ladetid, større rekkevidde og lengre levetid
 

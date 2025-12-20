@@ -14,8 +14,8 @@ dreiemoment på 310 Nm gir drivkraften. I begge karosserivariantene akselererer 
 Q4 35 e-tron kan dekke opptil 341 kilometer (211,9 mi) (WLTP-syklus) på én enkelt batterilading, mens Q4 Sportback 35 e-tron klarer opptil 349 kilometer (216,9 mi) (WLTP).
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/app310b.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/app310bs.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/app310b.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/app310bs.webp"
         class="img-fluid" alt="APP 310 motor" title="APP 310 motor">
     </a>
     <figcaption><h4>APP 310 motor</h4></figcaption>
@@ -27,8 +27,8 @@ Audi Q4 40 e-tron har det store batteriet, som lagrer netto 76,6 kWh energi (82 
 Den elektriske motoren genererer 150 kW (204 PS) og 310 Nm i denne konfigurasjonen. Det er samme motor (APP310) som brukes.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/app310bag.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/app310bags.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/app310bag.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/app310bags.webp"
         class="img-fluid" alt="APP 310-motoren er så liten at den får plass i en bag" title="APP 310-motoren er så liten at den får plass i en bag">
     </a>
     <figcaption><h4>APP 310-motoren er så liten at den får plass i en bag</h4></figcaption>
@@ -63,8 +63,8 @@ på Q35 vs Q40/Q45/Q50 på grunn av forskjellig batteripakke. Den bakre elektris
 - vekt: ~90 kg
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/rearmotor_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/rearmotor_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/rearmotor_1.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/rearmotor_1s.webp"
         class="img-fluid" alt="Elektrisk motor bak" title="Elektrisk motor bak">
     </a>
     <figcaption><h4>Elektrisk motor bak</h4></figcaption>
@@ -89,16 +89,16 @@ Kun Q5 45 Quattro og 50 Quattro har frontmotor. Den fremre elektriske motoren ha
 - vekt: ~60 kg
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/frontmotor_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/frontmotor_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/frontmotor_1.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/frontmotor_1s.webp"
         class="img-fluid" alt="Elektrisk motor foran" title="Elektrisk motor foran">
     </a>
     <figcaption><h4>Elektrisk motor foran</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/frontmotor_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/frontmotor_2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/frontmotor_2.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/frontmotor_2s.webp"
         class="img-fluid" alt="Elektrisk motor foran" title="Elektrisk motor foran">
     </a>
     <figcaption><h4>Elektrisk motor foran</h4></figcaption>
@@ -111,8 +111,8 @@ De viktigste fordelene med ASM er dens kortsiktige overbelastningskapasitet og m
 Den kraftige APP310 e-drive-enheten overfører kraft til de drevne hjulene ved hjelp av en ekstremt kompakt girkasse. Q4 enkeltgir er i stand til å takle alle kjøresituasjoner. Mekanismen som brukes har bare et lite antall tannhjul. Denne 1-trinns girkassen er en del av det elektriske drivsystemet for den modulære elektriske drivmatrisen (MEB) og er produsert av Volkswagen Group Components ved fabrikken i Kassel.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/gearbox.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/gearboxs.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/gearbox.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/gearboxs.webp"
         class="img-fluid" alt="APP310 gearbox" title="APP310 gearbox">
     </a>
     <figcaption><h4>APP310 gearbox</h4></figcaption>
@@ -123,8 +123,8 @@ Den kraftige APP310 e-drive-enheten overfører kraft til de drevne hjulene ved h
 Motorene er væskekjølte. Hver motor har flytende statorkjøling for å gi maksimal termisk robusthet under alle driftsforhold
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/cooling.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/coolings.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/cooling.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/coolings.webp"
         class="img-fluid" alt="Audi Q4 45/50 e-tron væskekjøling av front- og bakmotorer" title="Audi Q4 45/50 e-tron væskekjøling av front- og bakmotorer">
     </a>
     <figcaption><h4>Audi Q4 45/50 e-tron væskekjøling av front- og bakmotorer</h4></figcaption>
@@ -137,8 +137,8 @@ For å beskytte batteriet og annen elektronikk reduserer Audi den tilgjengelige 
 For Q50 boost er full kraft bare tilgjengelig over 88 % og når tempraturen er over 23°C . Etter det vil den falle ned mot 265HK. Dette skjermbildet viser hvordan boost-nivået er omtrent 50 % ved 66 % SOC.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/boost.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/boosts.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/boost.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/boosts.webp"
         class="img-fluid" alt="omtrent 50 % boost ved 66 % SOC" title="omtrent 50 % boost ved 66 % SOC">
     </a>
     <figcaption><h4>omtrent 50 % boost ved 66 % SOC</h4></figcaption>
@@ -149,8 +149,8 @@ Men også for de andre modellene vil den redusere effekten under 100 % når SOC 
 Eksempler
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/vc2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/motor/vc2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/vc2.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/motor/vc2s.webp"
         class="img-fluid" alt="70 % strøm på 32 % SOC og 0,5 grader" title="70 % strøm på 32 % SOC og 0,5 grader">
     </a>
     <figcaption><h4>70 % strøm på 32 % SOC og 0,5 grader</h4></figcaption>

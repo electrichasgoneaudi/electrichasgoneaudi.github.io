@@ -1,0 +1,153 @@
+<header class="sticky top-0 bg-gray-900 z-50">
+  <div class="max-w-full mx-auto px-4">
+    <nav class="flex items-center justify-between py-3 border-b border-gray-700">
+      <div class="flex items-center">
+        <a class="flex-shrink-0" href="{{ with .Site.GetPage `/`}}{{.RelPermalink}}{{end}}">
+          <img class="max-w-full h-auto max-h-12" src="/images/logo200b.png" alt="EHGA logo">
+        </a>
+      </div>
+      
+      <!-- Desktop Navigation -->
+      <div class="hidden md:flex items-center space-x-8">
+        <ul class="flex items-center space-x-6">
+          <li>
+            <a class="text-white hover:text-gray-300 transition-colors duration-200" href="{{ with .Site.GetPage `/models/`}}{{.RelPermalink}}{{end}}">
+              {{ T "menu-models"}}
+            </a>
+          </li>
+          <li>
+            <a class="text-white hover:text-gray-300 transition-colors duration-200" href="{{ with .Site.GetPage `/technology/`}}{{.RelPermalink}}{{end}}">
+              {{ T "menu-technology"}}
+            </a>
+          </li>
+          <li>
+            <a class="text-white hover:text-gray-300 transition-colors duration-200" href="{{ with .Site.GetPage `/guides/`}}{{.RelPermalink}}{{end}}">           
+              {{ T "menu-guides"}} 
+            </a>
+          </li>
+          <li>
+            <a class="text-white hover:text-gray-300 transition-colors duration-200" href="{{ with .Site.GetPage `/articles/`}}{{.RelPermalink}}{{end}}">
+              {{ T "menu-articles"}}
+            </a>
+          </li>
+        </ul>
+        
+        <!-- Desktop Language Switcher -->
+        <div class="relative inline-block text-left">
+          <button type="button" onclick="toggleDesktopLanguageDropdown()" class="inline-flex items-center justify-center px-4 py-2 text-sm font-medium text-white bg-gray-800 border border-gray-600 rounded-md shadow-sm hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500" id="desktop-language-menu-button" aria-expanded="false" aria-haspopup="true">
+            {{ T "language" }}
+            <svg class="w-5 h-5 ml-2 -mr-1" viewBox="0 0 20 20" fill="currentColor">
+              <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
+            </svg>
+          </button>
+          
+          <div class="absolute right-0 z-50 mt-2 w-56 origin-top-right bg-white rounded-md shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none hidden" id="desktop-language-dropdown" role="menu" aria-orientation="vertical" aria-labelledby="desktop-language-menu-button">
+            <div class="py-1" role="none">
+              {{- $currentPage := . -}}
+              {{- if .Site.IsMultiLingual -}}
+                {{- range .AllTranslations -}}
+                <a href="{{ .RelPermalink }}" class="flex items-center px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-gray-900" role="menuitem">
+                  <img src="/images/{{ .Language }}.svg" width="20" class="w-5 h-5 object-contain mr-2" alt="Language flag" /> 
+                  {{ .Language.LanguageName }}{{- if eq .Language.Lang $currentPage.Language.Lang }} ✓{{- end -}}
+                </a>
+                {{- end -}}
+              {{- end -}}
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Mobile menu button -->
+      <div class="md:hidden">
+        <button type="button" class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white" onclick="toggleMobileMenu()" aria-label="Toggle navigation"> 
+          <svg class="h-6 w-6" stroke="currentColor" fill="none" viewBox="0 0 24 24">
+            <path class="menu-icon" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+            <path class="close-icon hidden" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+        </button>
+      </div>
+    </nav>
+    
+    <!-- Mobile Navigation Menu -->
+    <div class="md:hidden hidden" id="mobile-menu">
+      <div class="px-2 pt-2 pb-3 space-y-1 bg-gray-800">
+        <!-- Mobile Language Switcher -->
+        <div class="relative inline-block text-left w-full mb-4">
+          <button type="button" onclick="toggleMobileLanguageDropdown()" class="inline-flex items-center justify-center w-full px-4 py-2 text-sm font-medium text-white bg-gray-700 border border-gray-600 rounded-md shadow-sm hover:bg-gray-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500" id="mobile-language-menu-button" aria-expanded="false" aria-haspopup="true">
+            {{ T "language" }}
+            <svg class="w-5 h-5 ml-2 -mr-1" viewBox="0 0 20 20" fill="currentColor">
+              <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
+            </svg>
+          </button>
+          
+          <div class="absolute left-0 z-50 mt-2 w-full origin-top-left bg-white rounded-md shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none hidden" id="mobile-language-dropdown" role="menu" aria-orientation="vertical" aria-labelledby="mobile-language-menu-button">
+            <div class="py-1" role="none">
+              {{- $currentPage := . -}}
+              {{- if .Site.IsMultiLingual -}}
+                {{- range .AllTranslations -}}
+                <a href="{{ .RelPermalink }}" class="flex items-center px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-gray-900" role="menuitem">
+                  <img src="/images/{{ .Language }}.svg" width="20" class="w-5 h-5 object-contain mr-2" alt="Language flag" /> 
+                  {{ .Language.LanguageName }}{{- if eq .Language.Lang $currentPage.Language.Lang }} \u2713{{- end -}}
+                </a>
+                {{- end -}}
+              {{- end -}}
+            </div>
+          </div>
+        </div>
+        
+        <a class="block px-3 py-2 text-white hover:bg-gray-700 rounded-md" href="{{ with .Site.GetPage `/models/`}}{{.RelPermalink}}{{end}}">
+          {{ T "menu-models"}}
+        </a>
+        <a class="block px-3 py-2 text-white hover:bg-gray-700 rounded-md" href="{{ with .Site.GetPage `/technology/`}}{{.RelPermalink}}{{end}}">
+          {{ T "menu-technology"}}
+        </a>
+        <a class="block px-3 py-2 text-white hover:bg-gray-700 rounded-md" href="{{ with .Site.GetPage `/guides/`}}{{.RelPermalink}}{{end}}">           
+          {{ T "menu-guides"}} 
+        </a>
+        <a class="block px-3 py-2 text-white hover:bg-gray-700 rounded-md" href="{{ with .Site.GetPage `/articles/`}}{{.RelPermalink}}{{end}}">
+          {{ T "menu-articles"}}
+        </a>
+      </div>
+    </div>
+  </div>
+</header>
+
+<script>
+function toggleMobileMenu() {
+  const mobileMenu = document.getElementById('mobile-menu');
+  const menuIcon = document.querySelector('.menu-icon');
+  const closeIcon = document.querySelector('.close-icon');
+  
+  mobileMenu.classList.toggle('hidden');
+  menuIcon.classList.toggle('hidden');
+  closeIcon.classList.toggle('hidden');
+}
+
+function toggleDesktopLanguageDropdown() {
+  const dropdown = document.getElementById('desktop-language-dropdown');
+  dropdown.classList.toggle('hidden');
+}
+
+function toggleMobileLanguageDropdown() {
+  const dropdown = document.getElementById('mobile-language-dropdown');
+  dropdown.classList.toggle('hidden');
+}
+
+// Close dropdowns when clicking outside
+document.addEventListener('click', function(event) {
+  const desktopButton = document.getElementById('desktop-language-menu-button');
+  const desktopDropdown = document.getElementById('desktop-language-dropdown');
+  const mobileButton = document.getElementById('mobile-language-menu-button');
+  const mobileDropdown = document.getElementById('mobile-language-dropdown');
+  
+  // Close desktop dropdown
+  if (desktopButton && desktopDropdown && !desktopButton.contains(event.target) && !desktopDropdown.contains(event.target)) {
+    desktopDropdown.classList.add('hidden');
+  }
+  
+  // Close mobile dropdown
+  if (mobileButton && mobileDropdown && !mobileButton.contains(event.target) && !mobileDropdown.contains(event.target)) {
+    mobileDropdown.classList.add('hidden');
+  }
+});
+</script>

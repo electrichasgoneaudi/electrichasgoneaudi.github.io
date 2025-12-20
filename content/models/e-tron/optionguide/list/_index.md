@@ -7,7 +7,7 @@ weight: 100
 <!-- markdownlint-disable MD033 -->
 ## Paint Color & Paint trim
 
-![Pant Colors & Paint trim](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/variants1s.jpg)
+![Pant Colors & Paint trim](https://media.evkx.net/ehga/models/e-tron/variants/variants1s.webp)
 
 With more than 60 different colors, serveral paint trim there huge amount of color combination available. 
 Click below for high-res pictures and details of each option. 
@@ -124,7 +124,7 @@ Click below for high-res pictures and details of each option.
 
 ## Wheels
 
-![Felger](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/wheels/wheel_CA0_2s.jpg)
+![Felger](https://media.evkx.net/ehga/models/e-tron/exterior/wheels/wheel_CA0_2s.webp)
 
 Audi e-tron can be delivered with serveral types of wheels from 19" to 22". Click in the wheel options belo for high res pictures and detailed info.
 
@@ -161,7 +161,7 @@ Audi e-tron can be delivered with serveral types of wheels from 19" to 22". Clic
 
 ## Charging and precondition
 
-!["Charging system"](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/chargingsystemconnect.jpg)
+!["Charging system"](https://media.evkx.net/ehga/models/e-tron/technology/chargingsystem/chargingsystemconnect.webp)
 
 | Title | Description | ID |
 |-----|------|------|
@@ -267,7 +267,7 @@ Audi e-tron can be delivered with serveral types of wheels from 19" to 22". Clic
 
 ## Seats
 
-![Seats](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_8.jpg)
+![Seats](https://media.evkx.net/ehga/models/e-tron/interior/seats/seats_individualcontour_8.webp)
 
 You can choose between serveral seat types and seat materials. Click links below for full details on each option.
 

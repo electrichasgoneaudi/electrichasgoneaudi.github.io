@@ -11,16 +11,16 @@ Both values apply for boost with launch control, which the driver can access in 
 In the e-tron GT quattro, the front electric motor outputs 175 kW (238 PS), and the rear motor outputs 320 kW (435 PS). Both electric motors keep reserves available for extreme driving situations, which is why the sum of their individual outputs exceeds the drive’s total output of 350 kW (476 PS) considerably. Up to 390 kW (530 PS) are available for roughly 2.5 seconds in boost mode via launch control. The total torque is 630 Nm (464.7 lb-ft). In the RS e-tron GT, the electric motor at the front axle also outputs 175 kW (238 PS), while the motor in the rear outputs 335 kW (456 PS). The total output is 440 kW (598 PS), and the total torque is 830 Nm (612.2 lb-ft). In boost mode, the output briefly increases to 475 kW (646 PS).
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/motor/frontmotor_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/motor/frontmotor_1.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/motor/frontmotor_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/motor/frontmotor_1.webp"
         class="img-fluid" alt="Front electric motor with suspension" title="Front electric motor with suspension">
     </a>
     <figcaption><h4>Front electric motor with suspension</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/motor/rearmotor_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/motor/rearmotor_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/motor/rearmotor_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/motor/rearmotor_1s.webp"
         class="img-fluid" alt="Rear electric motor with suspension" title="Rear electric motor with suspension">
     </a>
     <figcaption><h4>Rear electric motor with suspension</h4></figcaption>
@@ -31,8 +31,8 @@ In the e-tron GT quattro, the front electric motor outputs 175 kW (238 PS), and 
 The PSM motors (permanently excited synchronous motors) in the e-tron GT are extremely efficient, with an efficiency of considerably more than 90 percent in the majority of all driving situations. They are produced with a complex technology known as hairpin winding. The coils of the stator consist of rectangular copper wires that look similar to hairpins after they have been bent. This allows the wires to be packed more tightly, as a result of which considerably more copper fits into the stator as compared to the conventional round winding. This increases the output and torque and makes the cooling of the electric motors, which takes place via a separate medium-temperature circuit, more efficient.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/motor/rearmotor_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/motor/rearmotor_3s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/motor/rearmotor_3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/motor/rearmotor_3s.webp"
         class="img-fluid" alt="Audi e-tron GT electric motor with hairpin winding" title="Audi e-tron GT electric motor with hairpin winding">
     </a>
     <figcaption><h4>Audi e-tron GT electric motor with hairpin winding</h4></figcaption>

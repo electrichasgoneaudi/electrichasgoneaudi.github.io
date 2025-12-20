@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="{{ .Page.Language | default " en" }}">
+{{ partial "headstandard.html" . }}
+<body class="a-page" data-url="{{ .RelPermalink }}">
+  {{ partial "navbar.html" . }}
+  <aside>
+    {{ partial "menuaccordion-simple.html" . }}
+  </aside>
+  <main>
+    {{ partial "carousel.html" . }}
+    {{ partial "modelsfrontpage.html" . }}
+    {{ partial "technologyfrontpage.html" . }}
+    {{ partial "secondrowarticles.html" . }}
+  </main>
+  <footer class="bg-gray-900 py-8">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      {{ partial "footercontent.html" . }}
+    </div>
+  </footer>
+  </div> <!-- End container -->
+  <script src="/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

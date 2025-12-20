@@ -12,8 +12,8 @@ På Audi Q4 e-tron er det to tilgjengelige kjøremoduser.
 - **B-modus (brems)** : bilen reduserer hastigheten mens den gjenvinner energi.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/q4shifter.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/q4shifters.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/q4shifter.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/q4shifters.webp"
         class="img-fluid" alt="Drive mode shifter" title="Drive mode shifter">
     </a>
     <figcaption><h4>Drive mode shifter</h4></figcaption>
@@ -29,8 +29,8 @@ For å kunne kjøre i B-modus må du holde foten på gassen på et bestemt sted,
 På andre biler ville B-modus vært mer effektivt, men Audi har laget blandede bremser som alltid restituerer når du trykker på bremsepedalen hvis mulig. Derfor kaster du ikke bort energi på å bruke bremsepedalen på Audi Q4 e-tron.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/regenlevelq4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/regenlevelq4.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/regenlevelq4.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/regenlevelq4.webp"
         class="img-fluid" alt="Audi Q4 e-tron effektmåler viser B-modus" title="Audi Q4 e-tron effektmåler viser B-modus">
     </a>
     <figcaption><h4>Audi Q4 e-tron effektmåler viser B-modus</h4></figcaption>

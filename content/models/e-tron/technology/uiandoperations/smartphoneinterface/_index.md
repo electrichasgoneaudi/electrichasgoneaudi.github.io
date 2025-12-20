@@ -13,8 +13,8 @@ This gives you access to many usefull apps like Spotify and Waze directly in MMI
 The below image show how Waze warns users about a speed camera.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/smartphoneinterface/speedcam.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/smartphoneinterface/speedcams.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/smartphoneinterface/speedcam.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/smartphoneinterface/speedcams.webp"
         class="img-fluid" alt="Android Auto with Waze warning about speedcam" title="Android Auto with Waze warning about speedcam">
     </a>
     <figcaption><h4>Android Auto with Waze warning about speedcam</h4></figcaption>

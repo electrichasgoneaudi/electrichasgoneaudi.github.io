@@ -18,8 +18,8 @@ Grunnlaget er en ny karosseriform med mange innovative strukturelle elementer i 
 Audi forbedret drivverket for Audi Q8 e-tron med større batterier, forbedrede motorer, styring, aerodynamikk og styring.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/drivetrain.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/drivetrain_st.jpg" class="img-fluid" alt="Audi Q8 e-tron drivverk" title="Audi Q8 e-tron drivverk ">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/drivetrain/drivetrain.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/drivetrain/drivetrain_st.webp" class="img-fluid" alt="Audi Q8 e-tron drivverk" title="Audi Q8 e-tron drivverk ">
     </a>
     <figcaption><h4>Audi Q8 e-tron drivverk</h4></figcaption>
 </figur>

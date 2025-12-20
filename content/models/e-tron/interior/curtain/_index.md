@@ -9,8 +9,8 @@ weight: 9
 This option has optionId **3Y4**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/curtain/curtain.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/curtain/curtains.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/interior/curtain/curtain.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/interior/curtain/curtains.webp"
         class="img-fluid" alt="Curtain" title="Curtain">
     </a>
     <figcaption><h4>Curtain</h4></figcaption>

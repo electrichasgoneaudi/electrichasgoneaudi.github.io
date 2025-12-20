@@ -6,8 +6,8 @@ weight: 100005
 ---
 <!-- markdownlint-disable MD033 -->
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_1s.jpg" class="img-fluid" alt="Audi grandsphere-konsept" title="Audi grandsphere-konsept">
+    <a href="https://media.evkx.net/ehga/articles/audigrandsphereconcept/audigrandsphereconcept_1.webp">
+        <img src="https://media.evkx.net/ehga/articles/audigrandsphereconcept/audigrandsphereconcept_1s.webp" class="img-fluid" alt="Audi grandsphere-konsept" title="Audi grandsphere-konsept">
     </a>
     <figcaption><h4>Audi grandsphere-konsept</h4></figcaption>
 </figur>
@@ -39,8 +39,8 @@ Selv "sfæren" i navnet sender et signal: Hjertet til Audi skysphere, grandspher
 ## Plass, form, funksjon – interiøret
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_6s.jpg" class="img-fluid" alt="Audi grandsphere-dører" title="Audi grandsphere-dører">
+    <a href="https://media.evkx.net/ehga/articles/audigrandsphereconcept/audigrandsphereconcept_6.webp">
+        <img src="https://media.evkx.net/ehga/articles/audigrandsphereconcept/audigrandsphereconcept_6s.webp" class="img-fluid" alt="Audi grandsphere-dører" title="Audi grandsphere-dører">
     </a>
     <figcaption><h4>Audi grandsphere-dører</h4></figcaption>
 </figur>
@@ -54,8 +54,8 @@ De store glassflatene, den ekspansive frontruten og det gjennomsiktige taket und
 Endringen i komfortsonen er radikal: Hvis sjefens sete er bakerst i en vanlig sedan, har førsteklasse nå flyttet seg fremover til første rad. Det er fordi den ikke lenger nødvendigvis er underordnet først og fremst kjørefunksjonen og betjeningen. Ved nivå 4-kjøring forsvinner ratt og pedaler og frontområdet på kabinen blir faktisk ledig plass i hele sin bredde, med perfekt utsyn gjennom de store front- og sidevinduene, samt maksimale bevegelsesmuligheter.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_3s.jpg" class="img-fluid" alt="Audi grandsphere-dører" title="Audi grandsphere-dører">
+    <a href="https://media.evkx.net/ehga/articles/audigrandsphereconcept/audigrandsphereconcept_3.webp">
+        <img src="https://media.evkx.net/ehga/articles/audigrandsphereconcept/audigrandsphereconcept_3s.webp" class="img-fluid" alt="Audi grandsphere-dører" title="Audi grandsphere-dører">
     </a>
     <figcaption><h4>Audi grandsphere-dører</h4></figcaption>
 </figur>
@@ -65,8 +65,8 @@ Interiøret fremstår spesielt bredt når de to individuelle forsetene skyves he
 Sitteflatene og ryggen til de to setene med integrerte belter er visuelt atskilt. Sidestøttene på seteryggene er diskret bøyd, og sikrer dermed støtte under kjøring i kurver. De mulige seteposisjonene er optimalisert for enhver bruk: i oppreist stilling kan Audi grandsphere styres perfekt ergonomisk – etter ønske og utenfor nivå 4-soner. Med ryggen vippet 40 grader kan passasjerene slappe av og bruke infotainmentsystemet. Til slutt, hvis ryggen brettes ut til 60 grader, oppnår den en perfekt hvilestilling. Hodestøtten kan bøyes 15 grader fremover. Uttak for luft som er filtrert og temperaturkontrollert – til og med duftende, etter ønske – samt høyttalere som er uhørbare for andre passasjerer og tillater en privat lydsone er alle integrert i dette området.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_4s.jpg" class="img-fluid" alt="Audi grandsphere-konsept" title="Audi grandsphere-konsept">
+    <a href="https://media.evkx.net/ehga/articles/audigrandsphereconcept/audigrandsphereconcept_4.webp">
+        <img src="https://media.evkx.net/ehga/articles/audigrandsphereconcept/audigrandsphereconcept_4s.webp" class="img-fluid" alt="Audi grandsphere-konsept" title="Audi grandsphere-konsept">
     </a>
     <figcaption><h4>Audi grandsphere-konsept</h4></figcaption>
 </figur>
@@ -80,8 +80,8 @@ En overraskelse når du ser deg rundt i Audi grandspheres naturfargede, redusert
 I stedet er det tydelig artikulerte og sedate områder med materialer av høyeste kvalitet. Tre og ull, syntetiske tekstilstoffer og metall er synlige og behagelige å ta på som veggkledning, setebelegg og tepper. Mange av disse materialene, som agnbøkfinérene, kommer fra bærekraftig dyrking eller er laget av resirkulerte råvarer. Det er ikke noe skinn i Audi grandsphere – selv dette er i tråd med en progressiv forståelse av luksus, som alltid er uatskillelig fra bærekraft.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_5s.jpg" class="img-fluid" alt="Audi grandsphere-konsept" title="Audi grandsphere-konsept">
+    <a href="https://media.evkx.net/ehga/articles/audigrandsphereconcept/audigrandsphereconcept_5.webp">
+        <img src="https://media.evkx.net/ehga/articles/audigrandsphereconcept/audigrandsphereconcept_5s.webp" class="img-fluid" alt="Audi grandsphere-konsept" title="Audi grandsphere-konsept">
     </a>
     <figcaption><h4>Audi grandsphere-konsept</h4></figcaption>
 </figur>
@@ -116,8 +116,8 @@ I fronten er det en innovativ tolkning av Singleframe som definerer Audis utseen
 Frontlyktene på oversiden av Singleframe ser smale ut, som fokuserte øyne. Belysningsenhetene refererer til merket med fire ringers logo: de forstørrer og isolerer skjæringspunktet mellom to ringer til en pupill – en ny, umiskjennelig digital lyssignatur. Dette betyr at størrelsen på lysområdene kan justeres etter funksjon som kjørelys eller som dynamisk iscenesatte blinklys – avhengig av trafikksituasjonen – og dermed gi et åpenbart signal i sikkerhetshensyn. Den samme grafikken er også i de bakre lysenhetene – en annen betydelig egenskap ved Audis lysdesign.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_7.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_7s.jpg" class="img-fluid" alt="Audi grandsphere-konsept" title="Audi grandsphere-konsept">
+    <a href="https://media.evkx.net/ehga/articles/audigrandsphereconcept/audigrandsphereconcept_7.webp">
+        <img src="https://media.evkx.net/ehga/articles/audigrandsphereconcept/audigrandsphereconcept_7s.webp" class="img-fluid" alt="Audi grandsphere-konsept" title="Audi grandsphere-konsept">
     </a>
     <figcaption><h4>Audi grandsphere-konsept</h4></figcaption>
 </figur>
@@ -135,8 +135,8 @@ Ikke desto mindre gir ikke Audi grandsphere avkall på quattro-drivsystemet, som
 Hjertet i drivsystemet er 800 volts ladeteknologi. I likhet med Audi e-tron GT før den, sørger denne teknologien for at batteriet kan lades med opptil 270 kW på svært kort tid på hurtigladestasjoner.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audigrandsphereconcept/audigrandsphereconcept_4s.jpg" class="img-fluid" alt="Audi grandsphere-konsept" title="Audi grandsphere-konsept">
+    <a href="https://media.evkx.net/ehga/articles/audigrandsphereconcept/audigrandsphereconcept_4.webp">
+        <img src="https://media.evkx.net/ehga/articles/audigrandsphereconcept/audigrandsphereconcept_4s.webp" class="img-fluid" alt="Audi grandsphere-konsept" title="Audi grandsphere-konsept">
     </a>
     <figcaption><h4>Audi grandsphere-konsept med hurtiglading</h4></figcaption>
 </figur>

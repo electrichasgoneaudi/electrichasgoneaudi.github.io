@@ -6,7 +6,7 @@ weight: 99988
 ---
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="models/a6-e-tron/avant_final_st.jpg" width="3000" height="1999" title="Audi A6 Avant e-tron" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/avant_final_st.webp" width="3000" height="1999" title="Audi A6 Avant e-tron" >}}
 
 As the second model on the PPE platform, the upper mid-size vehicle picks up on the familiar product strengths of performance, range, efficiency, and charging. It is also the platform’s first model with a flat floor concept. 
 
@@ -42,7 +42,7 @@ appearance from the side. It extends to the rear and integrates the reflectors, 
 visually stretched appearance. The Avant is also characterized by a very flat roofline, with the D-pillar
 sloping steeply forward. An aluminum-look trim piece from the A-pillar to the roof spoiler is a new, distinctive feature of the A6 Avant e-tron and creates a high recognizability.
 
-{{< sitefiguresized thumb="models/a6-e-tron/sportback_final_st.jpg" width="3000" height="1999" title="Audi A6 Sportback e-tron" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/sportback_final_st.webp" width="3000" height="1999" title="Audi A6 Sportback e-tron" >}}
 
 The rear conveys a mixture of sporty elegance and full power. The clean architecture, combined with
 the continuous and three-dimensional light strip, gives the new A6 e-tron clarity and aplomb. A
@@ -144,14 +144,14 @@ ergonomics. The MMI panoramic display, with its curved design and OLED technolog
 11.9-inch Audi virtual cockpit and the 14.5-inch MMI touch display and, together with the 10.9-inch
 MMI front passenger display, forms a digital stage with visually clear design.
 
-{{< sitefiguresized thumb="models/a6-e-tron/technology/uiandoperations/mmi/mmi_1_st.jpg" width="3000" height="2249" title="MMI Panoramic Display" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/technology/uiandoperations/mmi/mmi_1_st.webp" width="3000" height="2249" title="MMI Panoramic Display" >}}
 
 Active Privacy Mode allows the front seat passenger to enjoy entertainment content while traveling,
 such as watching movies or streaming series, without distracting the driver. Depending on the current
 speed, and seat occupancy, the light is directed (privacy mode on) or diffused (content visible to all)
 via an intelligent control unit.
 
-{{< sitefiguresized thumb="models/a6-e-tron/technology/uiandoperations/mmi/mmi_3_st.jpg" width="3000" height="2249" title="MMI Panoramic Display" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/technology/uiandoperations/mmi/mmi_3_st.webp" width="3000" height="2249" title="MMI Panoramic Display" >}}
 
 
 Audi is taking a significant step forward in display technology with the optional

@@ -10,7 +10,7 @@ weight: 6
 
 The trunk has 526 liters storage volume. With the seats folded it increases to 1529 liters.
 
-{{< sitefiguresized thumb="models/q6-e-tron/transportation/trunk_1_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron trunk" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/transportation/trunk_1_st.webp" width="3000" height="2249" title="Audi Q6 e-tron trunk" >}}
 
 
 ## Frunk
@@ -18,7 +18,7 @@ The trunk has 526 liters storage volume. With the seats folded it increases to 1
 The frunk has 64 liters storage volume
 
 
-{{< sitefiguresized thumb="models/q6-e-tron/transportation/frunk_1_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron frunk" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/transportation/frunk_1_st.webp" width="3000" height="2249" title="Audi Q6 e-tron frunk" >}}
 
 
 ## Roof storage
@@ -33,4 +33,4 @@ The trailer capacity is 2400kg for a braked trailer
 
 ## Storage overview
 
-{{< sitefiguresized thumb="models/q6-e-tron/transportation/storage_1_st.jpg" width="3000" height="1840" title="Storage overview" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/transportation/storage_1_st.webp" width="3000" height="1840" title="Storage overview" >}}

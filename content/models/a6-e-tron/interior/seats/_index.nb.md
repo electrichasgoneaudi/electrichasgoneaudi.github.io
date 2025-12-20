@@ -171,7 +171,7 @@ Sportsseter plus er utstyrt med massasjefunksjon. Du kan velge forskjellige mass
 - Setesidevanger og hodestøtter i vanlig svart stoff
 - Baksetetrekkene er visuelt tilpasset forsetene.
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_standard_st.jpg" width="1920" height="1440" title="Normale seter med stoff - Interiørpakke 99K" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_standard_st.webp" width="1920" height="1440" title="Normale seter med stoff - Interiørpakke 99K" >}}
 
 ### Interiør med standardseter, kombinasjon av skinn/kunstskinn svart
 
@@ -185,7 +185,7 @@ Pakken inkluderer:
 - Aksentflater og betjeningsknapper i høyglans svart for elementer i midtkonsollen og koppholderdekselet
 - Dørterskler med aluminiumsinnlegg foran, belyst
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwa_st.jpg" width="1920" height="1440" title="Normale seter med brunt skinn - Interiørpakke PWA" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwa_st.webp" width="1920" height="1440" title="Normale seter med brunt skinn - Interiørpakke PWA" >}}
 
 ### Interiør med standardseter, kombinasjon av skinn/kunstskinn brun
 
@@ -200,7 +200,7 @@ Pakken inkluderer:
 - Dørterskler med aluminiumsinnlegg foran, belyst
 - Taktrekk i svart stoff
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwb_st.jpg" width="1920" height="1440" title="Normale seter med svart skinn - Interiørpakke PWB" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwb_st.webp" width="1920" height="1440" title="Normale seter med svart skinn - Interiørpakke PWB" >}}
 
 ### Interiør med standardseter, kombinasjon av skinn/kunstskinn beige
 
@@ -214,7 +214,7 @@ Pakken inkluderer:
 - Aksentflater og betjeningsknapper i høyglans svart for elementer i midtkonsollen og koppholderdekselet
 - Dørterskler med aluminiumsinnlegg foran, belyst
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwc_st.jpg" width="1920" height="1440" title="Normale seter med beige skinn - Interiørpakke PWC" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwc_st.webp" width="1920" height="1440" title="Normale seter med beige skinn - Interiørpakke PWC" >}}
 ### Interiør med standardseter, kombinasjon av skinn/kunstskinn grå
 
 Pakken inkluderer:
@@ -227,7 +227,7 @@ Pakken inkluderer:
 - Aksentflater og betjeningsknapper i høyglans svart for elementer i midtkonsollen og koppholderdekselet
 - Dørterskler med aluminiumsinnlegg foran, belyst
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwt_st.jpg" width="1920" height="1440" title="Normale seter grått skinn - Interiørpakke PWT" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwt_st.webp" width="1920" height="1440" title="Normale seter grått skinn - Interiørpakke PWT" >}}
 
 ## Pakker med sportsseter
 
@@ -244,7 +244,7 @@ Pakken inkluderer:
 - Aksentflater og betjeningsknapper i matt svart for elementer i midtkonsollen
 - Dørterskler med aluminiumsinnlegg foran
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwd_st.jpg" width="1920" height="1440" title="Sportsseter med stoff - Interiørpakke PWD" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwd_st.webp" width="1920" height="1440" title="Sportsseter med stoff - Interiørpakke PWD" >}}
 
 ### Interiør med sportsseter, kombinasjon av skinn/kunstskinn svart
 
@@ -259,7 +259,7 @@ Pakken inkluderer:
 - Aksentflater og betjeningsknapper i høyglans svart for elementer i midtkonsollen og koppholderdekselet
 - Dørterskler med aluminiumsinnlegg foran, belyst
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwe_st.jpg" width="1920" height="1440" title="Sportsseter med svart skinn - Interiørpakke PWE" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwe_st.webp" width="1920" height="1440" title="Sportsseter med svart skinn - Interiørpakke PWE" >}}
 ### Interiør med sportsseter, kombinasjon av skinn/kunstskinn beige, ventilert
 
 Pakken inkluderer:
@@ -273,7 +273,7 @@ Pakken inkluderer:
 - Aksentflater og betjeningsknapper i høyglans svart for elementer i midtkonsollen og koppholderdekselet
 - Dørterskler med aluminiumsinnlegg foran, belyst
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwf_st.jpg" width="1920" height="1440"  title="Sportsseter beige - Interiørpakke PWF" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwf_st.webp" width="1920" height="1440"  title="Sportsseter beige - Interiørpakke PWF" >}}
 
 ### Interiør S line med sportsseter, kombinasjon av stoff/kunstskinn svart
 
@@ -291,7 +291,7 @@ Pakken inkluderer:
 - Pedaler og fotstøtte i rustfritt stål
 - Taktrekk i svart stoff
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwk_st.jpg" width="1920" height="1440" title="Sportsseter med stoff - Interiørpakke PWK" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwk_st.webp" width="1920" height="1440" title="Sportsseter med stoff - Interiørpakke PWK" >}}
 
 ### Interiør S med sportsseter, kombinasjon av skinn/kunstskinn svart
 
@@ -309,7 +309,7 @@ Pakken inkluderer:
 - Pedaler og fotstøtte i rustfritt stål
 - Taktrekk i svart stoff
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwl_st.jpg" width="1920" height="1440" title="S-line Sportsseter med svart skinn" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwl_st.webp" width="1920" height="1440" title="S-line Sportsseter med svart skinn" >}}
 
 ### Interiør S med sportsseter, kombinasjon av skinn/kunstskinn svart/lys grå
 
@@ -327,9 +327,9 @@ Pakken inkluderer:
 - Pedaler og fotstøtte i rustfritt stål
 - Taktrekk i svart stoff
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwm_st.jpg" width="1920" height="1440" title="S-line Sportsseter med beige skinn" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwm_st.webp" width="1920" height="1440" title="S-line Sportsseter med beige skinn" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwm_2_st.jpg" width="1920" height="1440" title="S-line Sportsseter med beige skinn" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwm_2_st.webp" width="1920" height="1440" title="S-line Sportsseter med beige skinn" >}}
 
 ### Interiør S med sportsseter, Dinamica mikrofiber/skinn kombinasjon svart
 
@@ -347,7 +347,7 @@ Pakken inkluderer:
 - Pedaler og fotstøtte i rustfritt stål
 - Taktrekk i svart stoff
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwn_st.jpg" width="1920" height="1440" title="S-line Sportseter med svart dynamica og skinn" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwn_st.webp" width="1920" height="1440" title="S-line Sportseter med svart dynamica og skinn" >}}
 
 ### Interiør S med sportsseter, skinn/kunstskinn kombinasjon, svart-konjakkbrun Audi exclusive. Pakke YWD
 
@@ -367,7 +367,7 @@ Pakken inkluderer:
 - Taktrekk i svart stoff
 Et tilbud fra Audi Sport GmbH
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_ydg_st.jpg" width="1920" height="1440" title="S-line Sportseter med Audi Exclusive svart og konjakk skinn" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_ydg_st.webp" width="1920" height="1440" title="S-line Sportseter med Audi Exclusive svart og konjakk skinn" >}}
 
 ## Pakker med Sportsseter Plus
 
@@ -385,9 +385,9 @@ Et tilbud fra Audi Sport GmbH
 - Pedaler og fotstøtte i rustfritt stål
 - Taktrekk i svart stoff
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwo_st.jpg" width="1920" height="1440"  title="Sportsseter Plus med svart ventilert skinn" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwo_st.webp" width="1920" height="1440"  title="Sportsseter Plus med svart ventilert skinn" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwo_2_st.jpg" width="1920" height="1440"  title="Sportsseter Plus med svart ventilert skinn" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwo_2_st.webp" width="1920" height="1440"  title="Sportsseter Plus med svart ventilert skinn" >}}
 
 ### Interiør S med sportsseter plus, rødt skinn. Pakke PWQ
 
@@ -403,9 +403,9 @@ Et tilbud fra Audi Sport GmbH
 - Pedaler og fotstøtte i rustfritt stål
 - Taktrekk i svart stoff
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwq_st.jpg" width="1920" height="1440"  title="Sportsseter Plus med svart ventilert skinn" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwq_st.webp" width="1920" height="1440"  title="Sportsseter Plus med svart ventilert skinn" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwq_2_st.jpg" width="1920" height="1440"  title="Sportsseter Plus med svart ventilert skinn" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwq_2_st.webp" width="1920" height="1440"  title="Sportsseter Plus med svart ventilert skinn" >}}
 
 ### Interiør S med sportsseter plus, jet grå-ocean blått skinn Audi exclusive
 
@@ -424,4 +424,4 @@ Pakken inkluderer:
 - Pedaler og fotstøtte i rustfritt stål
 - Taktrekk i svart stoff
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_ydh_st.jpg" width="1920" height="1440"  title="Sportsseter Plus med svart ventilert skinn" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_ydh_st.webp" width="1920" height="1440"  title="Sportsseter Plus med svart ventilert skinn" >}}

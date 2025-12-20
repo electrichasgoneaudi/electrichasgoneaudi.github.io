@@ -21,8 +21,8 @@ problemet ved hjelp av dataene bilen sender slik at man raskt kan finne en passe
 Dersom bilens sensorer oppdager en mindre ulykke uten å utløse kollisjonsputene og/eller stramme beltene, blir sjåføren automatisk informert via Audis skadeservice. Den åpner én dialogboks i MMI-displayet der sjåføren kan velge om han eller hun vil ha hjelp i forbindelse med skaden eller eventuelt utløse et nødanrop. I begge tilfeller vil sjåføren ta kontakt med en utdannet servicemedarbeider.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/emergencycallandservice/servicebuttons.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/emergencycallandservice/servicebuttonss.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/emergencycallandservice/servicebuttons.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/emergencycallandservice/servicebuttonss.webp"
         class="img-fluid" alt="Nødanrop og serviceoperatør er tilgjengelig over midtkonsollen" title="Nødanrop og serviceoperatør er tilgjengelig over midtkonsollen">
     </a>
     <figcaption><h4>Nødanrop og serviceoperatør er tilgjengelig over midtkonsollen</h4></figcaption>
@@ -33,8 +33,8 @@ Dersom bilens sensorer oppdager en mindre ulykke uten å utløse kollisjonsputen
 Audi Online Car Care kan varsle sjåføren når visse funksjoner kan trenge vedlikehold eller inspeksjon, inkludert bremseklosser, sjekk motorlys og kjøretøyvæsker via en tilgjengelig myAudi-app-push-varsling.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/emergencycallandservice/onlinecarcare.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/emergencycallandservice/onlinecarcares.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/emergencycallandservice/onlinecarcare.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/emergencycallandservice/onlinecarcares.webp"
         class="img-fluid" alt="Online Car Care melding" title="Online Car Care melding">
     </a>
     <figcaption><h4>Online Car Care melding</h4></figcaption>

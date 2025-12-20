@@ -16,8 +16,8 @@ komfortabel kjøring i området fra 0 til maksimalt 200 km/t. Systemet bruker ra
 Den medfølgende fartsbegrenseren hjelper til med å ikke overskride en tidligere innstilt maksimal hastighet ved manuell kjøring. Hastighetsbegrenserdriften kan deaktiveres midlertidig via kick-down og innstilt maksimalhastighet overskrides. Funksjonen er tilgjengelig fra ca. 30 km/t
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/cruisecontrol.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/cruisecontrols.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/cruisecontrol.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/cruisecontrols.webp"
         class="img-fluid" alt="Cruisekontrollhåndtaket styrer funksjonen. Her kan man velge avstand til bil foran på Audi Q4 e-tron" title="Cruisekontrollhåndtaket styrer funksjonen. Her kan man velge avstand til bil foran på Audi Q4 e-tron">
     </a>
     <figcaption><h4>Cruisekontrollhåndtaket styrer funksjonen. Her kan man velge avstand til bil foran på Audi Q4 e-tron</h4></figcaption>

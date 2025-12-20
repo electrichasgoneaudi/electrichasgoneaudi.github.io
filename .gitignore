@@ -1,1 +1,9 @@
 hugo.exe
+node_modules
+public/
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+package-lock.json

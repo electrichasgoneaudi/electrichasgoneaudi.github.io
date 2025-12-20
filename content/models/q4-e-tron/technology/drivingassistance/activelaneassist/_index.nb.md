@@ -6,8 +6,8 @@ weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/activelaneassist/activelaneassist.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/activelaneassist/activelaneassist.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/activelaneassist/activelaneassist.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/activelaneassist/activelaneassist.webp"
         class="img-fluid" alt="Audi active lane assist" title="Audi active lane assist">
     </a>
     <figcaption><h4>Audi active lane assist</h4></figcaption>
@@ -21,8 +21,8 @@ Dette er fordi at under [EU kjørtøysregler](https://ec.europa.eu/info/law/bett
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/activelaneassist/laneassistbutton.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/activelaneassist/laneassistbuttons.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/activelaneassist/laneassistbutton.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/activelaneassist/laneassistbuttons.webp"
         class="img-fluid" alt="Aktiv filassistent kan deaktiveres med knappen på retningshåndtaket" title="Aktiv filassistent kan deaktiveres med knappen på retningshåndtaket">
     </a>
     <figcaption><h4>Aktiv filassistent kan deaktiveres med knappen på retningshåndtaket</h4></figcaption>

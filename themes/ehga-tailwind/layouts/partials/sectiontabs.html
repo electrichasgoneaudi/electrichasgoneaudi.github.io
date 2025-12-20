@@ -1,0 +1,118 @@
+<!-- Outer loop-->
+{{ $currentNode := . }}
+      {{ range .Site.Home.Sections.ByWeight }}
+      {{ template "section-tree-tabs" dict "sect" . "currentnode" $currentNode  }}
+{{end}}
+<!-- templates -->
+{{ define "section-tree-tabs" }}
+{{ $currentNode := .currentnode }}
+{{with .sect}}
+{{safeHTML .Params.head}}
+    {{ if and (eq . $currentNode) .Params.shownavtabs }}
+    <div class="border-b border-gray-200 mb-6">
+      <nav class="-mb-px flex flex-wrap gap-x-8 gap-y-2">
+        <div class="whitespace-nowrap">
+          {{if .Params.navicon }}
+          <a class="border-b-2 border-blue-500 py-2 px-1 text-sm font-medium text-blue-600" aria-current="page" href="{{ .RelPermalink}}"><i class="{{ .Params.navicon }}"></i> {{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}</a>
+         {{else}}
+         <a class="border-b-2 border-blue-500 py-2 px-1 text-sm font-medium text-blue-600" aria-current="page" href="{{ .RelPermalink}}">{{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}</a>
+         {{end}}
+        </div>
+      {{ $numberOfPages :=  (len .Pages) }}
+      {{ .Scratch.Set "pages" .Pages }}
+        {{ if .Sections}}
+          {{ .Scratch.Set "pages" (.Pages | union .Sections) }}
+        {{end}}
+      {{ $pages := (.Scratch.Get "pages") }}
+        {{ range $pages.ByWeight }}
+            {{ template "section-tree-tabs2" dict "sect" . "currentnode" $currentNode}}
+        {{ end }}
+      </nav>
+    </div>
+    {{ end }}
+    {{ if and (eq . $currentNode) .Parent.Params.shownavtabs }}
+     <div class="border-b border-gray-200 mb-6">
+       <nav class="-mb-px flex flex-wrap gap-x-8 gap-y-2">
+         <div class="whitespace-nowrap">
+          {{if .Parent.Params.navicon }}
+          <a class="border-b-2 border-transparent py-2 px-1 text-sm font-medium text-gray-500 hover:text-gray-700 hover:border-gray-300" aria-current="page" href="{{ .Parent.RelPermalink}}"><i class="{{ .Parent.Params.navicon }}"></i> {{safeHTML .Params.Pre}}{{.Parent.LinkTitle}}{{safeHTML .Params.Post}}</a>
+         {{else}}
+         <a class="border-b-2 border-transparent py-2 px-1 text-sm font-medium text-gray-500 hover:text-gray-700 hover:border-gray-300" aria-current="page" href="{{ .Parent.RelPermalink}}">{{safeHTML .Params.Pre}}{{.Parent.LinkTitle}}{{safeHTML .Params.Post}}</a>
+         {{end}}
+        </div>
+      {{ .Scratch.Set "pages" .Parent.Pages }}
+        {{ if .Sections}}
+          {{ .Scratch.Set "pages" (.Pages | union .Parent.Sections) }}
+        {{end}}
+      {{ $pages := (.Scratch.Get "pages") }}
+        {{ range $pages.ByWeight }}
+            {{ template "section-tree-tabs2" dict "sect" . "currentnode" $currentNode   }}
+        {{ end }}
+       </nav>
+     </div>
+    {{ end }}
+    {{ if eq .RelPermalink $currentNode.Params.sectiontabs }}
+    <div class="border-b border-gray-200 mb-6">
+      <nav class="-mb-px flex flex-wrap gap-x-8 gap-y-2">
+        <div class="whitespace-nowrap">
+         {{if .Parent.Params.navicon }}
+         <a class="border-b-2 border-transparent py-2 px-1 text-sm font-medium text-gray-500 hover:text-gray-700 hover:border-gray-300" aria-current="page" href="{{ .Parent.RelPermalink}}"><i class="{{ .Parent.Params.navicon }}"></i> {{safeHTML .Params.Pre}}{{.Parent.LinkTitle}}{{safeHTML .Params.Post}}</a>
+        {{else}}
+        <a class="border-b-2 border-transparent py-2 px-1 text-sm font-medium text-gray-500 hover:text-gray-700 hover:border-gray-300" aria-current="page" href="{{ .Parent.RelPermalink}}">{{safeHTML .Params.Pre}}{{.Parent.LinkTitle}}{{safeHTML .Params.Post}}</a>
+        {{end}}
+       </div>
+     {{ .Scratch.Set "pages" .Parent.Pages }}
+       {{ if .Sections}}
+         {{ .Scratch.Set "pages" (.Pages | union .Parent.Sections) }}
+       {{end}}
+     {{ $pages := (.Scratch.Get "pages") }}
+       {{ range $pages.ByWeight }}
+           {{ template "section-tree-tabs2" dict "sect" . "currentnode" $currentNode   }}
+       {{ end }}
+      </nav>
+    </div>
+   {{ end }}
+    {{ $numberOfPages :=  (len .Pages ) }}
+    {{ .Scratch.Set "pages" .Pages }}
+      {{ if .Sections}}
+        {{ .Scratch.Set "pages" (.Pages | union .Sections) }}
+      {{end}}
+    {{ $pages := (.Scratch.Get "pages") }}
+      {{ range $pages.ByWeight }}
+          {{ template "section-tree-tabs" dict "sect" . "currentnode" $currentNode}}
+      {{ end }}
+{{ end }}
+{{ end }}
+
+
+{{ define "section-tree-tabs2" }}
+{{ $currentNode := .currentnode }}
+{{with .sect}}
+{{safeHTML .Params.head}}
+<!--Trix to not go more than one level down-->
+{{ if .Parent.Params.shownavtabs }}
+        <div class="whitespace-nowrap">
+          {{ if eq . $currentNode }}
+            {{if .Params.navicon }}
+             <a class="border-b-2 border-blue-500 py-2 px-1 text-sm font-medium text-blue-600" href="{{ .RelPermalink}}"><i class="{{ .Params.navicon }}"></i> {{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}</a>
+            {{else}}
+            <a class="border-b-2 border-blue-500 py-2 px-1 text-sm font-medium text-blue-600" href="{{ .RelPermalink}}">{{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}</a>
+            {{end}}
+          {{else  if eq .RelPermalink $currentNode.Params.sectiontabs }}
+              {{if .Params.navicon }}
+              <a class="border-b-2 border-blue-500 py-2 px-1 text-sm font-medium text-blue-600" href="{{ .RelPermalink}}"><i class="{{ .Params.navicon }}"></i> {{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}</a>
+              {{else}}
+              <a class="border-b-2 border-blue-500 py-2 px-1 text-sm font-medium text-blue-600" href="{{ .RelPermalink}}">
+                {{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}</a>
+              {{end}}
+          {{else}}
+            {{if .Params.navicon }}
+            <a class="border-b-2 border-transparent py-2 px-1 text-sm font-medium text-gray-500 hover:text-gray-700 hover:border-gray-300" href="{{ .RelPermalink}}"><i class="{{ .Params.navicon }}"></i> {{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}</a>
+            {{else}}
+            <a class="border-b-2 border-transparent py-2 px-1 text-sm font-medium text-gray-500 hover:text-gray-700 hover:border-gray-300" href="{{ .RelPermalink}}">{{safeHTML .Params.Pre}}{{.LinkTitle}}{{safeHTML .Params.Post}}</a>
+              {{end}}
+          {{ end }}
+        </div>
+      {{ end }}
+{{ end }}
+{{ end }}

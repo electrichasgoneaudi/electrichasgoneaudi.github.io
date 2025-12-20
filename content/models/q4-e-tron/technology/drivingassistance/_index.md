@@ -8,8 +8,8 @@ weight: 1
  One front radar, one front camera, four surround-view cameras, two rear radars, and eight ultrasonic sensors: When fully equipped, the sensor system of the Audi Q4 e-tron and the Q4 Sportback e-tron covers a large sensing field and a large number of traffic situations.
  
  <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/sensors.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/sensorss.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/sensors.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/sensorss.webp"
         class="img-fluid" alt="Audi Q4 e-tron sensors" title="Audi Q4 e-tron sensors">
     </a>
     <figcaption><h4>Audi Q4 e-tron sensors</h4></figcaption>

@@ -8,8 +8,8 @@ weight: 3
 The head-up display projects information relevant to the driver as symbols and numbers that can be quickly perceived within the driver’s direct field of view, including navigation and warning messages and data from assistance systems. The human eye perceives the information extremely quickly – and there’s no need for drivers to refocus from their accustomed long-range view.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/headupdisplay/headup.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/headupdisplay/headups.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/uiandoperations/headupdisplay/headup.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/uiandoperations/headupdisplay/headups.webp"
         class="img-fluid" alt="Heads up display on Audi e-tron GT" title="Heads up display on Audi e-tron GT">
     </a>
     <figcaption><h4>Heads up display on Audi e-tron GT</h4></figcaption>

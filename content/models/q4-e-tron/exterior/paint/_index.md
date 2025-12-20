@@ -26,12 +26,12 @@ Click on links for quick access to a color.
 On the basic trim the bumpers and wheel arches are not painted
 
 
-{{< sitefiguresized thumb="models/q4-e-tron/exterior/paint/paint_basic_1_st.jpg" width="2500" height="1240" title="Basic trim - wheel archer and bumpers are not painted" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_basic_1_st.webp" width="2500" height="1240" title="Basic trim - wheel archer and bumpers are not painted" >}}
 
 
-{{< sitefiguresized thumb="models/q4-e-tron/exterior/paint/paint_basic_2_st.jpg" width="2500" height="1550" title="Basic trim - wheel archer and bumpers are not painted" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_basic_2_st.webp" width="2500" height="1550" title="Basic trim - wheel archer and bumpers are not painted" >}}
 
-{{< sitefiguresized thumb="models/q4-e-tron/exterior/paint/paint_basic_3_st.jpg" width="2500" height="1872" title="Basic trim - wheel archer and bumpers are not painted" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_basic_3_st.webp" width="2500" height="1872" title="Basic trim - wheel archer and bumpers are not painted" >}}
 
 ### Contrast paint
 
@@ -39,8 +39,8 @@ If you select Advanced line or s-line [exterior package](/models/q4-e-tron/optio
 wheel archer and lower parts of the car is painted in a contrast color. Manhatten grey is used as contrast color. Option code **FB5**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_2s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color" title="Click for large: Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_florettsilver_2.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_florettsilver_2s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color" title="Click for large: Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color</h4></figcaption>
 </figure>
@@ -50,16 +50,16 @@ wheel archer and lower parts of the car is painted in a contrast color. Manhatte
 For glacier white, mythos black, pepple grey and navarra blue you can get full body paint. Option code **FB4**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_navarrablue_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_navarrablue_6s.jpg" class="img-fluid" alt="Audi Q4 Sportback 50 e-tron quattro in Navarra blue with full body paint" title="Click for large: Audi Q4 Sportback 50 e-tron quattro in Navarra blue with full body paint">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_navarrablue_6.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_navarrablue_6s.webp" class="img-fluid" alt="Audi Q4 Sportback 50 e-tron quattro in Navarra blue with full body paint" title="Click for large: Audi Q4 Sportback 50 e-tron quattro in Navarra blue with full body paint">
     </a>
     <figcaption><h4>Audi Q4 Sportback 50 e-tron quattro in Navarra blue with full body paint</h4></figcaption>
 </figure>
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_stonegrey_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_stonegrey_6s.jpg" class="img-fluid" alt="Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint" title="Click for large: Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_stonegrey_6.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_stonegrey_6s.webp" class="img-fluid" alt="Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint" title="Click for large: Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint">
     </a>
     <figcaption><h4>Audi Q4 35 e-tron quattro in Stone grey with black optics, S-line exterior and full body paint</h4></figcaption>
 </figure>
@@ -75,50 +75,50 @@ Below you see photos of Audi Q4-etron and Q4 Sportback e-tron with the different
 This is the only non metallic pain available. Color code **C2**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_stonegrey_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_stonegrey_1s.jpg" class="img-fluid" alt="Audi Q4 40 e-tron in Stone grey" title="Click for large: Audi Q4 40 e-tron in Stone grey">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_stonegrey_1.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_stonegrey_1s.webp" class="img-fluid" alt="Audi Q4 40 e-tron in Stone grey" title="Click for large: Audi Q4 40 e-tron in Stone grey">
     </a>
     <figcaption><h4>Audi Q4 40 e-tron in Stone grey</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_stonegrey_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_stonegrey_2s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro in Stone grey with black optics" title="Click for large: Audi Q4 50 e-tron quattro in Stone grey with black optics">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_stonegrey_2.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_stonegrey_2s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro in Stone grey with black optics" title="Click for large: Audi Q4 50 e-tron quattro in Stone grey with black optics">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro in Stone grey with black optics</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_stonegrey_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_stonegrey_3s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro in Stone grey with black optics" title="Click for large: Audi Q4 50 e-tron quattro in Stone grey with black optics">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_stonegrey_3.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_stonegrey_3s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro in Stone grey with black optics" title="Click for large: Audi Q4 50 e-tron quattro in Stone grey with black optics">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro in Stone grey with black optics</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_stonegrey_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_stonegrey_4s.jpg" class="img-fluid" alt="Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint" title="Click for large: Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_stonegrey_4.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_stonegrey_4s.webp" class="img-fluid" alt="Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint" title="Click for large: Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint">
     </a>
     <figcaption><h4>Audi Q4 35 e-tron in Stone grey with black optics, S-line exterior and full body paint</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_stonegrey_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_stonegrey_5s.jpg" class="img-fluid" alt="Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint" title="Click for large: Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_stonegrey_5.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_stonegrey_5s.webp" class="img-fluid" alt="Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint" title="Click for large: Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint">
     </a>
     <figcaption><h4>Audi Q4 35 e-tron in Stone grey with black optics, S-line exterior and full body paint</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_stonegrey_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_stonegrey_6s.jpg" class="img-fluid" alt="Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint" title="Click for large: Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_stonegrey_6.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_stonegrey_6s.webp" class="img-fluid" alt="Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint" title="Click for large: Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint">
     </a>
     <figcaption><h4>Audi Q4 35 e-tron in Stone grey with black optics, S-line exterior and full body paint</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_stonegrey_7.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_stonegrey_7s.jpg" class="img-fluid" alt="Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint" title="Click for large: Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_stonegrey_7.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_stonegrey_7s.webp" class="img-fluid" alt="Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint" title="Click for large: Audi Q4 35 e-tron quattro in Stone grey with black optics and full body paint">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron Sportback in Pebblestone grey with standard optics and full body paint</h4></figcaption>
 </figure>
@@ -128,38 +128,38 @@ This is the only non metallic pain available. Color code **C2**
 Color code **5Y**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_geyserblue_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_geyserblue_1s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color" title="Click for large: Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_geyserblue_1.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_geyserblue_1s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color" title="Click for large: Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_geyserblue_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_geyserblue_2s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color" title="Click for large: Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color">
-    </a>
-    <figcaption><h4>Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color</h4></figcaption>
-</figure>
-
-
-<figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_geyserblue_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_geyserblue_3s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color" title="Click for large: Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_geyserblue_2.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_geyserblue_2s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color" title="Click for large: Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color</h4></figcaption>
 </figure>
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_geyserblue_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_geyserblue_4s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color" title="Click for large: Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_geyserblue_3.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_geyserblue_3s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color" title="Click for large: Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color">
+    </a>
+    <figcaption><h4>Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_geyserblue_4.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_geyserblue_4s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color" title="Click for large: Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_geyserblue_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_geyserblue_5s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color" title="Click for large: Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_geyserblue_5.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_geyserblue_5s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color" title="Click for large: Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color</h4></figcaption>
 </figure>
@@ -173,43 +173,43 @@ The below footage shows dynamic driving scenes of the Audi Q4 Sportback e-tron i
 Color code **2L**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_typhoongrey_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_typhoongrey_1s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro in typhoon grey metallic with shadow optics plus optics and mythos contast color" title="Click for large: Audi Q4 50 e-tron quattro in typhoon grey metallic with shadow optics plus optics and mythos contast color">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_typhoongrey_1.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_typhoongrey_1s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro in typhoon grey metallic with shadow optics plus optics and mythos contast color" title="Click for large: Audi Q4 50 e-tron quattro in typhoon grey metallic with shadow optics plus optics and mythos contast color">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro in typhoon grey metallic with shadow optics plus optics and mythos contast color</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_typhoongrey_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_typhoongrey_2s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro in typhoon grey metallic with shadow optics plus optics and mythos contast color" title="Click for large: Audi Q4 50 e-tron quattro in typhoon grey metallic with shadow optics plus optics and mythos contast color">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_typhoongrey_2.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_typhoongrey_2s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro in typhoon grey metallic with shadow optics plus optics and mythos contast color" title="Click for large: Audi Q4 50 e-tron quattro in typhoon grey metallic with shadow optics plus optics and mythos contast color">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro in typhoon grey metallic with shadow optics plus optics and mythos contast color</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_typhoongrey_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_typhoongrey_3s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro in typhoon grey metallic with shadow optics and contrast color" title="Click for large: Audi Q4 50 e-tron quattro in typhoon grey metallic with shadow optics and contrast color">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_typhoongrey_3.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_typhoongrey_3s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro in typhoon grey metallic with shadow optics and contrast color" title="Click for large: Audi Q4 50 e-tron quattro in typhoon grey metallic with shadow optics and contrast color">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro in typhoon grey metallic with shadow optics and contrast color</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_typhoongrey_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_typhoongrey_4s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro in typhoon grey metallic with shadow optics and contrast color" title="Click for large: Audi Q4 50 e-tron quattro in typhoon grey metallic with shadow optics and contrast color">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_typhoongrey_4.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_typhoongrey_4s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro in typhoon grey metallic with shadow optics and contrast color" title="Click for large: Audi Q4 50 e-tron quattro in typhoon grey metallic with shadow optics and contrast color">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro in typhoon grey metallic with shadow optics and contrast color</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_typhoongrey_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_typhoongrey_5s.jpg" class="img-fluid" alt="Audi Q4 Sportback 50 e-tron quattro in typhoon grey metallic with black optics plus and contrast color" title="Click for large: Audi Q4 Sportback 50 e-tron quattro in typhoon grey metallic with black optics plus and contrast color">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_typhoongrey_5.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_typhoongrey_5s.webp" class="img-fluid" alt="Audi Q4 Sportback 50 e-tron quattro in typhoon grey metallic with black optics plus and contrast color" title="Click for large: Audi Q4 Sportback 50 e-tron quattro in typhoon grey metallic with black optics plus and contrast color">
     </a>
     <figcaption><h4>Audi Q4 Sportback 50 e-tron quattro in typhoon grey metallic with shadow optics plus and manhatten contrast color by @auditography</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_typhoongrey_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_typhoongrey_6s.jpg" class="img-fluid" alt="Audi Q4 Sportback 50 e-tron quattro in typhoon grey metallic with black optics plus and contrast color" title="Click for large: Audi Q4 Sportback 50 e-tron quattro in typhoon grey metallic with black optics plus and contrast color">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_typhoongrey_6.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_typhoongrey_6s.webp" class="img-fluid" alt="Audi Q4 Sportback 50 e-tron quattro in typhoon grey metallic with black optics plus and contrast color" title="Click for large: Audi Q4 Sportback 50 e-tron quattro in typhoon grey metallic with black optics plus and contrast color">
     </a>
     <figcaption><h4>Audi Q4 Sportback 50 e-tron quattro in typhoon grey metallic with shadow optics plus and manhatten contrast color by @auditography</h4></figcaption>
 </figure>
@@ -223,22 +223,22 @@ Color code **2L**
 Color code **L5**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_1s.jpg" class="img-fluid" alt="Audi Q4 Sportback 50 e-tron quattro in floret silver with contrast color" title="Click for large: Audi Q4 Sportback 50 e-tron quattro in floret silver with contrast color">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_florettsilver_1.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_florettsilver_1s.webp" class="img-fluid" alt="Audi Q4 Sportback 50 e-tron quattro in floret silver with contrast color" title="Click for large: Audi Q4 Sportback 50 e-tron quattro in floret silver with contrast color">
     </a>
     <figcaption><h4>Audi Q4 Sportback 50 e-tron quattro in floret silver with contrast color</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_2s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color" title="Click for large: Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_florettsilver_2.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_florettsilver_2s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color" title="Click for large: Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_florettsilver_3s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color" title="Click for large: Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_florettsilver_3.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_florettsilver_3s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color" title="Click for large: Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color</h4></figcaption>
 </figure>
@@ -252,22 +252,22 @@ The below footage shows dynamic driving scenes of the Audi Q4 Sportback e-tron i
 Color code **2D**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_navarrablue_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_navarrablue_6s.jpg " class="img-fluid" alt="Audi Q4 40 e-tron quattro in Navarra blue and full body color" title="Click for large: Audi Q4 40 e-tron quattro in Navarra blue and full body color">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_navarrablue_6.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_navarrablue_6s.webp " class="img-fluid" alt="Audi Q4 40 e-tron quattro in Navarra blue and full body color" title="Click for large: Audi Q4 40 e-tron quattro in Navarra blue and full body color">
     </a>
     <figcaption><h4>Audi Q4 40 e-tron quattro in Navarra blue and full body color</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_navarrablue_7.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_navarrablue_7s.jpg " class="img-fluid" alt="Audi Q4 40 e-tron quattro in Navarra blue and full body color" title="Click for large: Audi Q4 40 e-tron quattro in Navarra blue and full body color">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_navarrablue_7.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_navarrablue_7s.webp " class="img-fluid" alt="Audi Q4 40 e-tron quattro in Navarra blue and full body color" title="Click for large: Audi Q4 40 e-tron quattro in Navarra blue and full body color">
     </a>
     <figcaption><h4>Audi Q4 40 e-tron quattro in Navarra blue and full body color</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_navarrablue_8.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_navarrablue_8s.jpg " class="img-fluid" alt="Audi Q4 40 e-tron quattro in Navarra blue and full body color" title="Click for large: Audi Q4 40 e-tron quattro in Navarra blue and full body color">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_navarrablue_8.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_navarrablue_8s.webp " class="img-fluid" alt="Audi Q4 40 e-tron quattro in Navarra blue and full body color" title="Click for large: Audi Q4 40 e-tron quattro in Navarra blue and full body color">
     </a>
     <figcaption><h4>Audi Q4 40 e-tron quattro in Navarra blue and full body color</h4></figcaption>
 </figure>
@@ -278,58 +278,58 @@ Color code **2D**
 Color code **0E**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_mythosblack_10.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_mythosblack_10s.jpg" class="img-fluid" alt="Audi Q4 40 e-tron with s-line exterior in Mythos Black and full body paint" title="Click for large: Audi Q4 40 e-tron with s-line exterior in Mythos Black and full body paint">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_mythosblack_10.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_mythosblack_10s.webp" class="img-fluid" alt="Audi Q4 40 e-tron with s-line exterior in Mythos Black and full body paint" title="Click for large: Audi Q4 40 e-tron with s-line exterior in Mythos Black and full body paint">
     </a>
     <figcaption><h4>Audi Q4 40 e-tron with s-line exterior in Mythos Black and full body paint</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_mythosblack_11.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_mythosblack_11s.jpg" class="img-fluid" alt="Audi Q4 40 e-tron with s-line exterior in Mythos Black and full body paint" title="Click for large: Audi Q4 40 e-tron with s-line exterior in Mythos Black and full body paint">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_mythosblack_11.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_mythosblack_11s.webp" class="img-fluid" alt="Audi Q4 40 e-tron with s-line exterior in Mythos Black and full body paint" title="Click for large: Audi Q4 40 e-tron with s-line exterior in Mythos Black and full body paint">
     </a>
     <figcaption><h4>Audi Q4 40 e-tron with s-line exterior in Mythos Black and full body paint</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_mythosblack_12.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_mythosblack_12s.jpg" class="img-fluid" alt="Audi Q4 40 e-tron with s-line exterior in Mythos Black and full body paint" title="Click for large: Audi Q4 40 e-tron with s-line exterior in Mythos Black and full body paint">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_mythosblack_12.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_mythosblack_12s.webp" class="img-fluid" alt="Audi Q4 40 e-tron with s-line exterior in Mythos Black and full body paint" title="Click for large: Audi Q4 40 e-tron with s-line exterior in Mythos Black and full body paint">
     </a>
     <figcaption><h4>Audi Q4 40 e-tron with s-line exterior in Mythos Black and full body paint</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_mythosblack_13.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_mythosblack_13s.jpg" class="img-fluid" alt="Audi Q4 40 e-tron with s-line exterior in Mythos Black and full body paint" title="Click for large: Audi Q4 40 e-tron with s-line exterior in Mythos Black and full body paint">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_mythosblack_13.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_mythosblack_13s.webp" class="img-fluid" alt="Audi Q4 40 e-tron with s-line exterior in Mythos Black and full body paint" title="Click for large: Audi Q4 40 e-tron with s-line exterior in Mythos Black and full body paint">
     </a>
     <figcaption><h4>Audi Q4 40 e-tron with s-line exterior in Mythos Black and full body paint</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_mythosblack_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_mythosblack_4s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro with s-line exterior in Mythos Black" title="Click for large: Audi Q4 50 e-tron quattro with s-line exterior in Mythos Black">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_mythosblack_4.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_mythosblack_4s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro with s-line exterior in Mythos Black" title="Click for large: Audi Q4 50 e-tron quattro with s-line exterior in Mythos Black">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro with s-line exterior in Mythos Black</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_mythosblack_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_mythosblack_5s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro with s-line exterior in Mythos Black" title="Click for large: Audi Q4 50 e-tron quattro with s-line exterior in Mythos Black">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_mythosblack_5.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_mythosblack_5s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro with s-line exterior in Mythos Black" title="Click for large: Audi Q4 50 e-tron quattro with s-line exterior in Mythos Black">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro with s-line exterior in Mythos Black</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_mythosblack_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_mythosblack_6s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro with advance line exterior and black optics in Mythos Black" title="Click for large: Audi Q4 50 e-tron quattro with advance line exterior and black optics in Mythos Black">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_mythosblack_6.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_mythosblack_6s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro with advance line exterior and black optics in Mythos Black" title="Click for large: Audi Q4 50 e-tron quattro with advance line exterior and black optics in Mythos Black">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro with advance line exterior and black optics in Mythos Black</h4></figcaption>
 </figure>
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_mythosblack_7.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_mythosblack_7s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro with advance line exterior and black optics in Mythos Black" title="Click for large: Audi Q4 50 e-tron quattro with advance line exterior and black optics in Mythos Black">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_mythosblack_7.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_mythosblack_7s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro with advance line exterior and black optics in Mythos Black" title="Click for large: Audi Q4 50 e-tron quattro with advance line exterior and black optics in Mythos Black">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro with advance line exterior and black optics in Mythos Black</h4></figcaption>
 </figure>
@@ -338,43 +338,43 @@ Color code **0E**
 
 Color code **J6**
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_auroraviolet_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_auroraviolet_3s.jpg" class="img-fluid" alt="Audi Q4 Sportback 50 e-tron quattro in Aurora Violett with contrast color" title="Click for large: Audi Q4 Sportback 50 e-tron quattro in Aurora Violett with contrast color">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_auroraviolet_3.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_auroraviolet_3s.webp" class="img-fluid" alt="Audi Q4 Sportback 50 e-tron quattro in Aurora Violett with contrast color" title="Click for large: Audi Q4 Sportback 50 e-tron quattro in Aurora Violett with contrast color">
     </a>
     <figcaption><h4>Audi Q4 Sportback 50 e-tron quattro in Aurora Violett with contrast color</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_auroraviolet_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_auroraviolet_4s.jpg" class="img-fluid" alt="Audi Q4 Sportback 40 e-tron in Aurora Violett with black optics" title="Click for large: Audi Q4 Sportback 40 e-tron in Aurora Violett with black optics">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_auroraviolet_4.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_auroraviolet_4s.webp" class="img-fluid" alt="Audi Q4 Sportback 40 e-tron in Aurora Violett with black optics" title="Click for large: Audi Q4 Sportback 40 e-tron in Aurora Violett with black optics">
     </a>
     <figcaption><h4>Audi Q4 Sportback 40 e-tron in Aurora Violett with black optics</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_auroraviolet_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_auroraviolet_5s.jpg" class="img-fluid" alt="Audi Q4 Sportback 40 e-tron in Aurora Violett with black optics by Auditography" title="Click for large: Audi Q4 Sportback 40 e-tron in Aurora Violett with black optics by Auditography">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_auroraviolet_5.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_auroraviolet_5s.webp" class="img-fluid" alt="Audi Q4 Sportback 40 e-tron in Aurora Violett with black optics by Auditography" title="Click for large: Audi Q4 Sportback 40 e-tron in Aurora Violett with black optics by Auditography">
     </a>
     <figcaption><h4>Audi Q4 Sportback 40 e-tron in Aurora Violett with black optics by Auditography</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_auroraviolet_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_auroraviolet_6s.jpg" class="img-fluid" alt="Audi Q4 Sportback 40 e-tron in Aurora Violett with black optics by Auditography" title="Click for large: Audi Q4 Sportback 40 e-tron in Aurora Violett with black optics by Auditography">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_auroraviolet_6.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_auroraviolet_6s.webp" class="img-fluid" alt="Audi Q4 Sportback 40 e-tron in Aurora Violett with black optics by Auditography" title="Click for large: Audi Q4 Sportback 40 e-tron in Aurora Violett with black optics by Auditography">
     </a>
     <figcaption><h4>Audi Q4 Sportback 40 e-tron in Aurora Violett with black optics by Auditography</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_auroraviolet_7.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_auroraviolet_7s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron in Aurora Violett S-line exterior by Auditography" title="Click for large: Audi Q4 50 e-tron in Aurora Violett S-line exterior by Auditography">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_auroraviolet_7.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_auroraviolet_7s.webp" class="img-fluid" alt="Audi Q4 50 e-tron in Aurora Violett S-line exterior by Auditography" title="Click for large: Audi Q4 50 e-tron in Aurora Violett S-line exterior by Auditography">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron in Aurora Violett S-line exterior by Auditography</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_auroraviolet_8.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_auroraviolet_8s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron in Aurora Violett S-line exterior by Auditography" title="Click for large: Audi Q4 50 e-tron in Aurora Violett S-line exterior by Auditography">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_auroraviolet_8.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_auroraviolet_8s.webp" class="img-fluid" alt="Audi Q4 50 e-tron in Aurora Violett S-line exterior by Auditography" title="Click for large: Audi Q4 50 e-tron in Aurora Violett S-line exterior by Auditography">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron in Aurora Violett S-line exterior by Auditography</h4></figcaption>
 </figure>
@@ -393,78 +393,78 @@ See video below of Audi Q4 e-tron in Aurora Violett with S-line exterior
 Color code **2Y**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_glacierwhite_14.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_glacierwhite_14s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint" title="Click for large: Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_glacierwhite_14.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_glacierwhite_14s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint" title="Click for large: Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_glacierwhite_19.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_glacierwhite_19s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint" title="Click for large: Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_glacierwhite_19.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_glacierwhite_19s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint" title="Click for large: Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_glacierwhite_18.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_glacierwhite_18s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint" title="Click for large: Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_glacierwhite_18.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_glacierwhite_18s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint" title="Click for large: Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_glacierwhite_20.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_glacierwhite_20s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint" title="Click for large: Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_glacierwhite_20.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_glacierwhite_20s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint" title="Click for large: Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_glacierwhite_21.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_glacierwhite_21s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint" title="Click for large: Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_glacierwhite_21.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_glacierwhite_21s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint" title="Click for large: Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_glacierwhite_17.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_glacierwhite_17s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint" title="Click for large: Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_glacierwhite_17.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_glacierwhite_17s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint" title="Click for large: Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro S-line in Glacier white with black optics and full body paint</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_glacierwhite_8.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_glacierwhite_8s.jpg" alt=Audi Q4 50 e-tron quattro in Glacier white and manhatten grey contrast paint" title="Click for large: Audi Q4 50 e-tron quattro in Glacier white and manhatten grey contrast paint">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_glacierwhite_8.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_glacierwhite_8s.webp" alt=Audi Q4 50 e-tron quattro in Glacier white and manhatten grey contrast paint" title="Click for large: Audi Q4 50 e-tron quattro in Glacier white and manhatten grey contrast paint">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro in Glacier white and manhatten grey contrast paint</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_glacierwhite_9.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_glacierwhite_9s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro in Glacier white and manhatten grey contrast paint" title="Click for large: Audi Q4 50 e-tron quattro in Glacier white and manhatten grey contrast paint">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_glacierwhite_9.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_glacierwhite_9s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro in Glacier white and manhatten grey contrast paint" title="Click for large: Audi Q4 50 e-tron quattro in Glacier white and manhatten grey contrast paint">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro in Glacier white and manhatten grey contrast paint</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_glacierwhite_10.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_glacierwhite_10s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro in Glacier white and manhatten grey contrast paint" title="Click for large: Audi Q4 50 e-tron quattro in Glacier white and manhatten grey contrast paint">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_glacierwhite_10.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_glacierwhite_10s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro in Glacier white and manhatten grey contrast paint" title="Click for large: Audi Q4 50 e-tron quattro in Glacier white and manhatten grey contrast paint">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro in Glacier white and manhatten grey contrast paint</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_glacierwhite_11.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_glacierwhite_11s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro in Glacier white and manhatten grey contrast paint" title="Click for large: Audi Q4 50 e-tron quattro in Glacier white and manhatten grey contrast paint">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_glacierwhite_11.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_glacierwhite_11s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro in Glacier white and manhatten grey contrast paint" title="Click for large: Audi Q4 50 e-tron quattro in Glacier white and manhatten grey contrast paint">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro in Glacier white and manhatten grey contrast paint</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_glacierwhite_12.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_glacierwhite_12s.jpg" class="img-fluid" alt="Audi Q4 50 e-tron quattro in Glacier white with black optics and full body paint" title="Click for large: Audi Q4 50 e-tron quattro in Glacier white with black optics and full body paint">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_glacierwhite_12.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_glacierwhite_12s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro in Glacier white with black optics and full body paint" title="Click for large: Audi Q4 50 e-tron quattro in Glacier white with black optics and full body paint">
     </a>
     <figcaption><h4>Audi Q4 50 e-tron quattro in Glacier white with black optics and full body paint</h4></figcaption>
 </figure>

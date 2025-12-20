@@ -21,8 +21,8 @@ the problem using the data the car sends so that one can quickly find a suitable
 If the car's sensors detect a minor accident without triggering the airbags and/or tightening the belts, the driver is automatically informed via the Audi damage service. It opens one dialog box in the MMI display where the driver can choose whether he or she wants help in connection with the injury or possibly trigger an emergency call. In both cases, the driver will get in touch with a trained service employee.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/emergencycallandservice/servicebuttons.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/emergencycallandservice/servicebuttonss.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/emergencycallandservice/servicebuttons.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/emergencycallandservice/servicebuttonss.webp"
         class="img-fluid" alt="Emergency call and service operator is available above the center console" title="Emergency call and service operator is available above the center console">
     </a>
     <figcaption><h4>Emergency call and service operator is available above the center console</h4></figcaption>
@@ -33,8 +33,8 @@ If the car's sensors detect a minor accident without triggering the airbags and/
 Audi Online Car Care can notify the driver when certain features may need maintenance or inspection, including brake pads, check engine lights, and vehicle fluids via an available myAudi app push notification.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/emergencycallandservice/onlinecarcare.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/emergencycallandservice/onlinecarcares.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/emergencycallandservice/onlinecarcare.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/emergencycallandservice/onlinecarcares.webp"
         class="img-fluid" alt="Online Car Care message" title="Online Car Care message">
     </a>
     <figcaption><h4>Online Car Care message</h4></figcaption>

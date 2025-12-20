@@ -17,8 +17,8 @@ komfortabel kjøring i området fra 0 til maksimalt 200 km/t. Systemet bruker ra
 Den medfølgende fartsbegrenseren hjelper til med å ikke overskride en tidligere innstilt maksimal hastighet ved manuell kjøring. Hastighetsbegrenseren kan deaktiveres midlertidig via kick-down og innstilt maksimal hastighet overskrides. Funksjonen er tilgjengelig fra ca. 30 km/t
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/adaptivecruisecontrol/cruisecontrol.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/adaptivecruisecontrol/cruisecontrols.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/adaptivecruisecontrol/cruisecontrol.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/adaptivecruisecontrol/cruisecontrols.webp"
         class="img-fluid" alt="Cruisekontrollhåndtaket styrer funksjonen." title="Cruisekontrollhåndtaket styrer funksjonen.">
     </a>
     <figcaption><h4>Cruisekontrollhåndtaket styrer funksjonen.</h4></figcaption>

@@ -13,6 +13,6 @@ In addition to give Audi A6 e-tron a cooler look it gives more light in to the c
 
 You can order panoramic roof with option id **3FU**
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/panoramicroof/roof_1_st.jpg" width="3000" height="2249" title="Audi A6 e-tron panoramic roof" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/panoramicroof/roof_1_st.webp" width="3000" height="2249" title="Audi A6 e-tron panoramic roof" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/panoramicroof/roof_2_st.jpg" width="3000" height="2249" title="Audi A6 e-tron panoramic roof" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/panoramicroof/roof_2_st.webp" width="3000" height="2249" title="Audi A6 e-tron panoramic roof" >}}

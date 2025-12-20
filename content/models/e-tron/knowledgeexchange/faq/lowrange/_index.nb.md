@@ -45,7 +45,7 @@ Mange forbrukere er ikke klar over at å legge til mer utstyr som større hjul r
 Eiere reagerer vanligvis når deres Audi e-tron estimerer rekkevidde som er mye lavere enn Audi annonserer.
 Nedenfor ser du noen eksempler på områder lagt ut av brukere i ulike sosiale mediegrupper.
 
-![Lavt område](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/knowledgeexchange/faq/lowrange/lowrangeexample.jpg)
+![Lavt område](https://media.evkx.net/ehga/models/e-tron/knowledgeexchange/faq/lowrange/lowrangeexample.webp)
 
 ## Hvorfor anslår bilen rekkevidden?
 
@@ -59,7 +59,7 @@ Lass oss anta at du har en e-tron 55 med 86,5 kWh batteri og at du har ladet den
 
 Hvis du sjekker kjøredataene i myAudi-appen på korttidsminnet, vil du se kjøreturene dine dine.
 
-![Triphistory](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/knowledgeexchange/faq/lowrange/triphistory.jpg "Triphistory")
+![Triphistory](https://media.evkx.net/ehga/models/e-tron/knowledgeexchange/faq/lowrange/triphistory.webp "Triphistory")
 
 Beregner vi rekkevidden ut fra forbruket 24.12 med 30,3 kWh/100km får vi
 

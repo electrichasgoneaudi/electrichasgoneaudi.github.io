@@ -7,8 +7,8 @@ weight: 1
 
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/audiq4_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/audiq4_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/audiq4_1.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/audiq4_1s.webp"
         class="img-fluid" alt="Audi Q4 e-tron equipped with predictive efficiency assist." title="Audi Q4 e-tron equipped with predictive efficiency assist.">
     </a>
     <figcaption><h4>Audi Q4 e-tron equipped with predictive efficiency assist.</h4></figcaption>
@@ -29,8 +29,8 @@ The driver is shown corresponding information in the instrument cluster or the A
 Symbols for speed limits, bends, roundabouts, towns, or downhill slopes that indicate to the driver to slow down are displayed based on the route data and recognition of traffic signs.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/efficiencyassist_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/efficiencyassist_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/efficiencyassist_1.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/efficiencyassist_1s.webp"
         class="img-fluid" alt="Predictive efficiency assist in Audi Q4 e-tron, recommending slowing down because of a roundabout." title="Predictive efficiency assist in Audi Q4 e-tron, recommending slowing down because of a roundabout.">
     </a>
     <figcaption><h4>Predictive efficiency assist in Audi Q4 e-tron, recommending slowing down because of a roundabout.</h4></figcaption>
@@ -52,4 +52,4 @@ On the Audi Q4 e-tron, the control, for example, can be adapted to the course of
 
 The following symbols may appear depending on the equipment fitted. The efficiency assist displays each symbol to indicate the event to which it is currently reaching. Some symbols only occur when the predictive messages are activated, and some only appear when the predictive control and the adaptive cruise assist are activated.
 
-![Symbols](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/symbols.png)
+![Symbols](https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/symbols.webp)

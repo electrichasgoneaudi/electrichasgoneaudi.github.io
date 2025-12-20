@@ -7,8 +7,8 @@ weight: 4
 <!-- markdownlint-disable MD033 -->
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/exterior.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/exteriors.jpg" class="img-fluid" alt="RS e-tron GT exterior by Auditography" title="RS e-tron GT exterior by Auditography">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/exterior.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/exteriors.webp" class="img-fluid" alt="RS e-tron GT exterior by Auditography" title="RS e-tron GT exterior by Auditography">
     </a>
     <figcaption><h4>RS e-tron GT exterior by Auditography</h4></figcaption>
 </figure>

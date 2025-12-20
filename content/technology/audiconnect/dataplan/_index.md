@@ -12,8 +12,8 @@ For the services below, the data amount is included. The length varies between c
 If you need data for the Wifi-zone or online radio in the car you need to buy an extra data package or use your own sim card if your model support this.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/dataplan/simport.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/dataplan/simports.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/dataplan/simport.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/dataplan/simports.webp"
         class="img-fluid" alt="On Audi e-tron 2019/2020 models there was a sim card input" title="On Audi e-tron 2019/2020 models there was a sim card input">
     </a>
     <figcaption><h4>On Audi e-tron 2019/2020 models there was a sim card input</h4></figcaption>

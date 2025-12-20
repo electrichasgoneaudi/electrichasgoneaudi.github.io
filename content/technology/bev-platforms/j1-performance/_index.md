@@ -6,8 +6,8 @@ weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tangored_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tangored_2s.jpg" class="img-fluid" alt="Audi e-tron GT in Tango Red" title="Audi e-tron GT in Tango Red">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/paint/paint_tangored_2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/paint/paint_tangored_2s.webp" class="img-fluid" alt="Audi e-tron GT in Tango Red" title="Audi e-tron GT in Tango Red">
     </a>
     <figcaption><h4>Audi e-tron GT</h4></figcaption>
 </figure>
@@ -17,8 +17,8 @@ The Audi e-tron GT is equipped with two permanently excited synchronous machines
 (472 lb-ft) of torque.  While Audi RS e-tron GT output a system performance of 645 metric hp (475 kW) and 830 Nm (612.2 lb-ft) of torque.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/j1-performance/drivetrain2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/j1-performance/drivetrain2s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/bev-platforms/j1-performance/drivetrain2.webp">
+        <img src="https://media.evkx.net/ehga/technology/bev-platforms/j1-performance/drivetrain2s.webp"
         class="img-fluid" alt="J1-performance drivetrain for Audi e-tron GT" title="J1-performance drivetrain for Audi e-tron GT">
     </a>
     <figcaption><h4>J1-performance drivetrain for Audi e-tron GT</h4></figcaption>
@@ -32,8 +32,8 @@ If necessary, the Audi e-tron GT can be charged in a short space of time. The hi
 In accordance with the WLTP standard, the Audi e-tron GT achieves a range of 472 kilometers (293.5 mi) on one battery charge.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery2s.jpg" class="img-fluid" alt="Audi e-tron GT battery pack" title="Audi e-tron GT battery pack">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/battery/battery2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/battery/battery2s.webp" class="img-fluid" alt="Audi e-tron GT battery pack" title="Audi e-tron GT battery pack">
     </a>
     <figcaption><h4>Audi e-tron GT battery pack</h4></figcaption>
 </figure>
@@ -41,8 +41,8 @@ In accordance with the WLTP standard, the Audi e-tron GT achieves a range of 472
 The battery, which has an energy content of more than 90 kWh, is located in the underbody, between the axles. The battery package is designed with recesses in the rear footwell. This provides a high level of seating comfort for all occupants. This special layout allows the drive battery to be integrated in the vehicle floor despite the low body position that is typical for sports cars, thereby creating a very low vehicle center of gravity. At the same time, this creates comfortable seating ergonomics.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/j1-performance/taycan.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/j1-performance/taycans.jpg"
+    <a href="https://media.evkx.net/ehga/technology/bev-platforms/j1-performance/taycan.webp">
+        <img src="https://media.evkx.net/ehga/technology/bev-platforms/j1-performance/taycans.webp"
         class="img-fluid" alt="Porsche Taycan is built on J1-performance platform and share parts with Audi e-tron GT" title="Porsche Taycan is built on J1-performance platform and share parts with Audi e-tron GT">
     </a>
     <figcaption><h4>Porsche Taycan is built on J1-performance platform and share parts with Audi e-tron GT</h4></figcaption>

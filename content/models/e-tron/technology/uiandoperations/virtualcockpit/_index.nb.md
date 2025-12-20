@@ -10,8 +10,8 @@ Den virtuelle cockpit-skjermen har en full HD-oppløsning på 1 920 x 720 piksle
 Displayet viser et bredt spekter av informasjon klart og i ryddig, skarp, svært detaljert grafikk. Den inkluderer tradisjonell hastighet, batteristatus, strømlinjetall samt informasjon om navigasjon, media og førerassistentsystemer. Faste indikatorer vises langs den nedre kanten; de viser utetemperatur, tid og kilometerstand samt advarsels- og informasjonssymboler. Bildet oppdateres 60 ganger i sekundet slik at den virtuelle nålen til turtelleren følger jevnt og veldig presist.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/viewcontrol.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/viewcontrols.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/virtualcockpit/viewcontrol.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/virtualcockpit/viewcontrols.webp"
         class="img-fluid" alt="Virtuell cockpitvisning styres på rattet" title="Virtuell cockpitvisning styres på rattet">
     </a>
     <figcaption><h4>Virtuell cockpitvisning styres på rattet</h4></figcaption>
@@ -26,8 +26,8 @@ Hvis du kjøper det virtuelle cockpit pluss-alternativet (9S9) får du en ekstra
 Modusen kan velges i MMI
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/virtualcockpit_settings.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/virtualcockpit_settingss.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/virtualcockpit/virtualcockpit_settings.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/virtualcockpit/virtualcockpit_settingss.webp"
         class="img-fluid" alt="Virtuelle cockpit-moduser" title="Virtuelle cockpit-moduser">
     </a>
     <figcaption><h4>Virtuelle cockpit-moduser</h4></figcaption>
@@ -39,48 +39,48 @@ Nedenfor ser du noen av modusene og visningene som er tilgjengelige i Virtual Co
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_etron_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_etron_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/virtualcockpit/view_etron_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/virtualcockpit/view_etron_1s.webp"
         class="img-fluid" alt="Virtual Cockpit e-tron-modus infotainmentvisning - Nightvision" title="Virtual Cockpit e-tron-modus infotainmentvisning - Nightvision">
     </a>
     <figcaption><h4>Virtual Cockpit e-tron-modus infotainmentvisning - Nightvision</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_etron_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_etron_3s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/virtualcockpit/view_etron_3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/virtualcockpit/view_etron_3s.webp"
         class="img-fluid" alt="Virtual Cockpit e-tron-modus infotainmentvisning - Navigasjon med Google maps" title="Virtual Cockpit e-tron-modus infotainmentvisning - Navigasjon med Google maps">
     </a>
     <figcaption><h4>Virtual Cockpit e-tron-modus infotainmentvisning - Navigasjon med Google maps</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_etron_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_etron_4s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/virtualcockpit/view_etron_4.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/virtualcockpit/view_etron_4s.webp"
         class="img-fluid" alt="Virtual Cockpit e-tron-modus kjørevisning - Navigasjon med Google-kart og aktiv rute" title="Virtual Cockpit e-tron-modus kjørevisning - Navigasjon med Google-kart og aktiv rute">
     </a>
     <figcaption><h4>Virtual Cockpit e-tron-modus kjørevisning - Navigasjon med Google-kart og aktiv rute</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_sport_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_sport_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/virtualcockpit/view_sport_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/virtualcockpit/view_sport_1s.webp"
         class="img-fluid" alt="Virtual Cockpit sportsmodus infotainmentvisning - Navigering med Google maps" title="Virtual Cockpit sportsmodus infotainmentvisning - Navigering med Google maps">
     </a>
     <figcaption><h4>Virtual Cockpit sportsmodus infotainmentvisning - Navigering med Google maps</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_standard_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_standard_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/virtualcockpit/view_standard_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/virtualcockpit/view_standard_1s.webp"
         class="img-fluid" alt="Virtual Cockpit standardmodus - Nightvision" title="Virtual Cockpit standardmodus - Nightvision">
     </a>
     <figcaption><h4>Virtual Cockpit standardmodus - Nightvision</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_standard_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/virtualcockpit/view_standard_2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/virtualcockpit/view_standard_2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/virtualcockpit/view_standard_2s.webp"
         class="img-fluid" alt="Virtual Cockpit standardmodus infotainmentvisning - Navigasjon med Google maps" title="Virtual Cockpit standardmodus infotainmentvisning - Navigasjon med Google maps">
     </a>
     <figcaption><h4>Virtual Cockpit standardmodus infotainmentvisning - Navigasjon med Google maps</h4></figcaption>

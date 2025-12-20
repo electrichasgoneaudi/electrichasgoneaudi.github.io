@@ -9,8 +9,8 @@ weight: 99994
  The plant has been a role model for sustainable production since the production of the Audi e-tron began. Around 160,000 units of Audi’s first electric model have been delivered since 2018.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production1_st.jpg" class="img-fluid" alt="Audi Q8 e-tron production started december 14. 2022" title="Audi Q8 e-tron production started december 14. 2022">
+    <a href="https://media.evkx.net/ehga/articles/q8production/production1.webp">
+        <img src="https://media.evkx.net/ehga/articles/q8production/production1_st.webp" class="img-fluid" alt="Audi Q8 e-tron production started december 14. 2022" title="Audi Q8 e-tron production started december 14. 2022">
     </a>
     <figcaption><h4>Audi Q8 e-tron production started december 14. 2022</h4></figcaption>
 </figur>
@@ -20,8 +20,8 @@ Audi board member for Production and Logistics Gerd Walker underlines the import
 Unlike many competitors, Audi focuses on transforming production from the inside out with the aim of heralding the future of production at Audi, the 360factory. Meanwhile, Brussels is a model for some areas of this innovative plant concept. To Audi, investing in existing plants is ‘sustainability in action’ – economically, ecologically, and socially. “The path Audi is taking conserves resources and accelerates our transformation,” Walker emphasizes. For Xavier Ros, Audi board member for Human Resources and Organization, Brussels provides valuable insights concerning targeted employee qualification programs. “The experience Brussels has gained since 2018 can be used across locations throughout the Audi Group.”
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production2_st.jpg" class="img-fluid" alt="Audi Q8 e-tron production started december 14. 2022" title="Audi Q8 e-tron production started december 14. 2022">
+    <a href="https://media.evkx.net/ehga/articles/q8production/production2.webp">
+        <img src="https://media.evkx.net/ehga/articles/q8production/production2_st.webp" class="img-fluid" alt="Audi Q8 e-tron production started december 14. 2022" title="Audi Q8 e-tron production started december 14. 2022">
     </a>
     <figcaption><h4>Audi Q8 e-tron production started december 14. 2022</h4></figcaption>
 </figur>
@@ -33,8 +33,8 @@ Audi Brussels CEO Volker Germann also highlights the role the staff have played:
 The Audi Q8 e-tron will reach customers in Europe and the United States as a certified net carbon-neutral1 car. From 2025, production at all Audi plants will be carbon neutral as part of the company-wide environmental program Mission:Zero. Named “Factory of the Future” in 2020 by the employers’ association Agoria, Brussels achieved this distinction as early as 2018. Since production of the Audi e-tron began, the Belgium site has been recognized as the world’s first certified carbon-neutral high-volume production plant in the premium segment. The site switched to green power back in 2012. Among other things, Audi Brussels installed one of the region’s largest photovoltaic systems on the plant premises, covering 107,000 square meters. The system generates around 9,000-megawatt hours of power from sustainable energy every year. That’s enough to charge some 90,000 Audi Q8 e-tron units and reduce carbon emissions by 1,881 tons. The companies that supply the battery cells are obliged to use only renewable energy sources for production. The electric traction motors for production are transported from Hungary to Brussels by green freight. Since May 2022, Audi has been using rail transport on the approximately 1,300-kilometer route, a decision that reduces carbon emissions by around 2,600 tons annually.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production3_st.jpg" class="img-fluid" alt="Audi Q8 e-tron production started december 14. 2022" title="Audi Q8 e-tron production started december 14. 2022">
+    <a href="https://media.evkx.net/ehga/articles/q8production/production3.webp">
+        <img src="https://media.evkx.net/ehga/articles/q8production/production3_st.webp" class="img-fluid" alt="Audi Q8 e-tron production started december 14. 2022" title="Audi Q8 e-tron production started december 14. 2022">
     </a>
     <figcaption><h4>Audi Q8 e-tron production started december 14. 2022</h4></figcaption>
 </figur>
@@ -48,8 +48,8 @@ AUDI AG has owned the Belgium site since 2007. After acquiring it, Audi Brussels
 The new Q8 e-tron’s optimized drive concept, improved aerodynamics, and higher charging performance and battery capacity result in an increased range of up to 582 kilometers in the SUV and up to 600 kilometers in the Sportback (both according to the WLTP). Audi also uses recycled materials in some components for the Audi Q8 e-tron. These materials, recovered via a recycling process, save resources and ensure a closed material cycle that is both efficient and sustainable.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/q8production/production4_st.jpg" class="img-fluid" alt="Audi Q8 e-tron production started december 14. 2022" title="Audi Q8 e-tron production started december 14. 2022">
+    <a href="https://media.evkx.net/ehga/articles/q8production/production4.webp">
+        <img src="https://media.evkx.net/ehga/articles/q8production/production4_st.webp" class="img-fluid" alt="Audi Q8 e-tron production started december 14. 2022" title="Audi Q8 e-tron production started december 14. 2022">
     </a>
     <figcaption><h4>Audi Q8 e-tron production started december 14. 2022</h4></figcaption>
 </figur>

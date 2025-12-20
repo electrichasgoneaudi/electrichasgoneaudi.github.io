@@ -7,8 +7,8 @@ weight: 1
 
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/nightvision/nightvision.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/nightvision/nightvisions.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/nightvision/nightvision.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/nightvision/nightvisions.webp"
         class="img-fluid" alt="Night vision" title="Night vision">
     </a>
     <figcaption><h4>Night vision</h4></figcaption>

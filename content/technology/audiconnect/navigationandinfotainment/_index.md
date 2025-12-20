@@ -16,16 +16,16 @@ In the connect category myRoute, you will find all the information for your trip
 Navigation with Google Earth C makes it easier to navigate thanks to high-resolution aerial photos and satellite imagery.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/googlemap1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/googlemap1s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/googlemap1.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/googlemap1s.webp"
         class="img-fluid" alt="Google earth satelit photos" title="Google earth satelit photos">
     </a>
     <figcaption><h4>Google earth satelit photos</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/satelitmap1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/satelitmap1.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/satelitmap1.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/satelitmap1.webp"
         class="img-fluid" alt="Google earth satelit photos" title="Google earth satelit photos">
     </a>
     <figcaption><h4>Google earth satelit photos</h4></figcaption>
@@ -50,8 +50,8 @@ There is a lot to see: With travel information from Audi connect, you learn more
 Now there is zero stress to park in foreign cities. The function allows you to search for available parking spaces nearby or at the destination and enter them into the navigation system. The system shows parking spaces and detailed additional information, e.g. prices and how many vacancies there are at the moment. In selected cities, you can also see what the chances are of finding one free space in selected streets.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/parking1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/parking1s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/parking1.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/parking1s.webp"
         class="img-fluid" alt="Parking information" title="Parking information">
     </a>
     <figcaption><h4>Parking information</h4></figcaption>
@@ -64,32 +64,32 @@ The route can be planned in peace and quiet via the myAudi app or directly from 
 Furthermore, all targets in the car and on the smartphone are synchronized, no matter where they were originally stored. This way, you can easily and comfortably plan routes and journeys with your smartphone, and then retrieve them as navigation destinations in the car. If there are delays or traffic disruptions on one of your regular routes, messages appear in the navigation system and on the smartphone. If the original charging station can not be reached, a new route is calculated. During an active charge along the route, the remaining charging time and the current state of charge of the battery is displayed.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner1s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/routeplanner1.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/routeplanner1s.webp"
         class="img-fluid" alt="RoutePlanner" title="RoutePlanner">
     </a>
     <figcaption><h4>RoutePlanner</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner2s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/routeplanner2.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/routeplanner2s.webp"
         class="img-fluid" alt="RoutePlanner" title="RoutePlanner">
     </a>
     <figcaption><h4>RoutePlanner</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplanner3s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/routeplanner3.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/routeplanner3s.webp"
         class="img-fluid" alt="RoutePlanner" title="RoutePlanner">
     </a>
     <figcaption><h4>RoutePlanner</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplannerapp1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/routeplannerapp1s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/routeplannerapp1.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/routeplannerapp1s.webp"
         class="img-fluid" alt="RoutePlanner in myAudi" title="RoutePlanner in myAudi">
     </a>
     <figcaption><h4>RoutePlanner in myAudi</h4></figcaption>
@@ -108,8 +108,8 @@ Obtain special destinations (eg petrol stations and car parks) from third-party 
 Find a charging station near you or at the destination. This allows you to plan necessary stops efficiently, sorted by distance. In addition, you get information about availability, connection, and payment methods, provided that this information is available at the charging station.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/charging1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/charging1s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/charging1.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/charging1s.webp"
         class="img-fluid" alt="Charging stations along the route with information about time needed to charge" title="Charging stations along the route with information about time needed to charge">
     </a>
     <figcaption><h4>Charging stations along the route with information about time needed to charge</h4></figcaption>
@@ -121,8 +121,8 @@ The detailed 3D view of buildings makes it easier to orientate.
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/3dcityview.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/3dcityviews.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/3dcityview.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/3dcityviews.webp"
         class="img-fluid" alt="3D city view" title="3D city view">
     </a>
     <figcaption><h4>3D city view</h4></figcaption>
@@ -134,8 +134,8 @@ Early warning for increased road safety. With information from the so-called Aud
 If an Audi with this technology detects a dangerous situation, it reports this to a server, which sends out a warning to all Audi drivers in cars with this service.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/swarm1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/swarm1s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/swarm1.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/swarm1s.webp"
         class="img-fluid" alt="They utilize the swarm intelligence of the Audi fleet, in which more than one hundred thousand cars are already gathering information globally." title="They utilize the swarm intelligence of the Audi fleet, in which more than one hundred thousand cars are already gathering information globally.">
     </a>
     <figcaption><h4>They utilize the swarm intelligence of the Audi fleet, in which more than one hundred thousand cars are already gathering information globally.</h4></figcaption>
@@ -146,8 +146,8 @@ This is how Audi drivers are notified via the station wagon and navigation syste
 This can help increase safety for Audi drivers and other road users.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/swarm2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/swarm2s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/swarm2.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/swarm2s.webp"
         class="img-fluid" alt="Hazard warning in Audi e-tron" title="Hazard warning in Audi e-tron">
     </a>
     <figcaption><h4>Hazard warning in Audi e-tron</h4></figcaption>
@@ -180,8 +180,8 @@ Current services concerning your travel plans are available in the connect categ
 Receive important information quickly. Enjoy the journey, while at the same time getting the most important things with you. With Audi connect, you are always up to date, even when you are on the go. Recognized national and international newsrooms send out text and photos about current world events. If the relevant provider supports the service, the news is entered in a results list in the selected language. You can also add your own news sources to myAudi using RSS feeds. For increased safety and comfort, you can have the news read out while you drive. If desirable you can also get the text in MMI. This way you can combine the different functions in the best possible way depending on the current situation.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/news1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/news1s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/news1.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/news1s.webp"
         class="img-fluid" alt="News" title="News">
     </a>
     <figcaption><h4>News</h4></figcaption>
@@ -192,24 +192,24 @@ Receive important information quickly. Enjoy the journey, while at the same time
 How will the weather be on the trip? With Audi connect you have a full overview. Weather reports and extreme weather forecasts are presented on the weather map with easy-to-understand symbols. See detailed hourly forecasts for the next two hours, and keep an eye on the precipitation radar.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather1s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/weather1.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/weather1s.webp"
         class="img-fluid" alt="Weather info" title="Weather info">
     </a>
     <figcaption><h4>Weather info</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather2s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/weather2.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/weather2s.webp"
         class="img-fluid" alt="Weather detailed" title="Weather detailed">
     </a>
     <figcaption><h4>Weather detailed</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/weather3s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/weather3.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/weather3s.webp"
         class="img-fluid" alt="Weather for next 7 days" title="Weather for next 7 days">
     </a>
     <figcaption><h4>Weather for next 7 days</h4></figcaption>
@@ -244,8 +244,8 @@ Audi directly integrated Apple Music, a premium music streaming subscription ser
 The new Apple Music integration allows customers to access their personal Apple Music account directly from the Audi infotainment system, with no Bluetooth or USB required. After linking an active subscription to the vehicle, Apple Music subscribers can access Apple Music’s full catalog of 90 million songs and tens of thousands of playlists, including hundreds of new mood and activity playlists, personalized mixes, and genre stations – all ad-free.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/applemusic.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/navigationandinfotainment/applemusics.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/applemusic.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/navigationandinfotainment/applemusics.webp"
         class="img-fluid" alt="Apple music in MMI" title="Apple music in MMI">
     </a>
     <figcaption><h4>Apple music in MMI</h4></figcaption>

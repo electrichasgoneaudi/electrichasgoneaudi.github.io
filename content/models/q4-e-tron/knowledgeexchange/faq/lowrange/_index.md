@@ -42,8 +42,8 @@ Owners typically react when their Audi Q4 e-tron estimated range is much lower t
 Below you see some examples of ranges posted by users in different social media groups.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/lowrange/lowrangeexample.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/lowrange/lowrangeexamples.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/lowrange/lowrangeexample.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/lowrange/lowrangeexamples.webp"
         class="img-fluid" alt="Example on reported range" title="Example on reported range">
     </a>
     <figcaption><h4>Example on reported range</h4></figcaption>
@@ -60,8 +60,8 @@ The range indicator base its range on the following data
 So assume you have an Audi Q4 e-tron 50 with 76.6kWh battery and you have charged it to 100% and your last trip was this
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/lowrange/triphistory.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/lowrange/triphistory.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/lowrange/triphistory.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/lowrange/triphistory.webp"
         class="img-fluid" alt="Triphistory" title="Triphistory">
     </a>
     <figcaption><h4>Triphistory</h4></figcaption>

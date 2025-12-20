@@ -10,7 +10,7 @@ weight: 1
 Selv om disse modellene er i forskjellige kategorier, kan prisene ligge i samme område avhengig av utstyrsnivå. I tillegg kan folk være villige til å øke eller redusere budsjettet sitt avhengig av verdien av penger og funksjoner.
 Denne artikkelen vil detaljere forskjellen mellom Audi Q4 e-tron 55 Quattro, Audi Q8 e-tron 55 Quattro og den nye Audi Q6 e-tron Quattro.
 
-{{< sitefiguresized thumb="models/comparisons/q455q6q855/q4_1_st.jpg" width="3000" height="2000" title="Audi Q4 e-tron" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/comparisons/q455q6q855/q4_1_st.webp" width="3000" height="2000" title="Audi Q4 e-tron" >}}
 
 ## Introduksjon
 
@@ -26,7 +26,7 @@ av Porsche og Audi.
 
 I følge spesifikasjonen er forbruket til Audi Q8 e-tron 55 20 % høyere enn for Audi Q6 e-tron quattro, mens forbruket til Audi Q4 e-tron 55 er ca. 3 % høyere enn for Q6 . I den virkelige verden kan du se opptil 35 % forskjell i forbruk. Hovedårsakene til dette er mer effektive motorer, mindre vekt og en mindre størrelse som forårsaker mindre aerodynamisk luftmotstand.
 
-{{< sitefiguresized thumb="models/comparisons/q455q6q855/q6_1_st.jpg" width="3000" height="2250" title="Audi Q6 e-tron" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/comparisons/q455q6q855/q6_1_st.webp" width="3000" height="2250" title="Audi Q6 e-tron" >}}
 
 ## Rekkevidde
 
@@ -63,7 +63,7 @@ Alle modellene har ulike standardfarger, hjul, optikk, panoramatak, s-line ekste
 Audi exclusive farger er tilgjengelige på Audi Q8 e-tron og Audi Q6 e-tron. Men de har en kostnad og er sannsynligvis ikke en avgjørende faktor.
 
 
-{{< sitefiguresized thumb="models/comparisons/q455q6q855/q8_1_st.jpg" width="3000" height="2250" title="Audi Q8 e-tron" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/comparisons/q455q6q855/q8_1_st.webp" width="3000" height="2250" title="Audi Q8 e-tron" >}}
 
 ## Interiør
 
@@ -92,7 +92,7 @@ Audi Q6 bruker et helt nytt system med "Digital Stage" og en stor delt skjerm. D
 
 Dette systemet er mye mer oppdatert og moderne enn i Q4 og Q8.
 
-{{< sitefiguresized thumb="models/q6-e-tron/technology/uiandoperations/mmi/mmi_3_st.jpg" width="3000" height="2077" title="Audi Q6 e-tron med virtuell cockpit, MMI-skjerm, og MMI passasjerskjerm foran" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/uiandoperations/mmi/mmi_3_st.webp" width="3000" height="2077" title="Audi Q6 e-tron med virtuell cockpit, MMI-skjerm, og MMI passasjerskjerm foran" >}}
 
 Audi Q4 e-tron 55 quattro har et alternativ for Sonos lydsystem. Audi Q8 e-tron og Q6 e-tron har opsjon for Bang & Olufsen. Bang & Olufsen er et bedre lydsystem, men sannsynligvis ikke så mye bedre enn noen som ville valgt en modell bare basert på denne faktoren.
 
@@ -891,9 +891,9 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
 
 ## Dimmensions
 
-{{< sitefiguresized thumb="models/comparisons/q455q6q855/dimmensions_1_st.png" width="3000" height="1999" title="Audi Q4 e-tron vs Audi Q6 e-tron vs Audi Q8 e-tron" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/comparisons/q455q6q855/dimmensions_1_st.webp" width="3000" height="1999" title="Audi Q4 e-tron vs Audi Q6 e-tron vs Audi Q8 e-tron" >}}
 
-{{< sitefiguresized thumb="models/comparisons/q455q6q855/dimmensions_2_st.png" width="3000" height="1999" title="Audi Q4 e-tron vs Audi Q6 e-tron vs Audi Q8 e-tron" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/comparisons/q455q6q855/dimmensions_2_st.webp" width="3000" height="1999" title="Audi Q4 e-tron vs Audi Q6 e-tron vs Audi Q8 e-tron" >}}
 
-{{< sitefiguresized thumb="models/comparisons/q455q6q855/dimmensions_3_st.png" width="3000" height="1999" title="Audi Q4 e-tron vs Audi Q6 e-tron vs Audi Q8 e-tron" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/comparisons/q455q6q855/dimmensions_3_st.webp" width="3000" height="1999" title="Audi Q4 e-tron vs Audi Q6 e-tron vs Audi Q8 e-tron" >}}
 

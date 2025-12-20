@@ -8,8 +8,8 @@ weight: 1
 En frontradar, ett frontkamera, fire omgivelses-kameraer, to bakradarer og åtte ultralydsensorer: Når bilen er fullt utstyrt, dekker sensorsystemet til Audi Q4 e-tron og Q4 Sportback e-tron et stort sansefelt og en stort antall trafikksituasjoner.
 
  <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/sensors.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/sensorss.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/sensors.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/sensorss.webp"
         class="img-fluid" alt="Audi Q4 e-tron sensorer" title="Audi Q4 e-tron sensorer">
     </a>
     <figcaption><h4>Audi Q4 e-tron sensorer</h4></figcaption>

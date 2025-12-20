@@ -10,8 +10,8 @@ weight: 1
 If the driver wants to ease into an intersection or exit with poor visibility, he or she can push the parking button. This sends the images from the 360 degree cameras to the MMI monitor. They drastically expand the field of view, and the driver can choose from among multiple views.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/crossingassist/crossing_assist.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/crossingassist/crossing_assists.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/crossingassist/crossing_assist.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/crossingassist/crossing_assists.webp"
         class="img-fluid" alt="crossing assist" title="crossing assist">
     </a>
     <figcaption><h4>crossing assist</h4></figcaption>

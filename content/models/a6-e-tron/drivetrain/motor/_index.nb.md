@@ -10,13 +10,13 @@ Ved utviklingen av de nye elektriske motorene var fokuset på et modulært elekt
 De nyutviklede elektriske motorene krever også rundt 30 prosent mindre installasjonsplass enn de som tidligere ble brukt i Audis elektrisk drevne modeller. Det nye designet har også gjort det mulig å redusere vekten med rundt
 20 prosent.
 
-{{< sitefiguresized thumb="models/q6-e-tron/drivetrain/motors/frontmotor_1_st.jpg" width="3000" height="2056" title="Audi A6 ASM frontmotor" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/motors/frontmotor_1_st.webp" width="3000" height="2056" title="Audi A6 ASM frontmotor" >}}
 
 De spesielt kompakte og effektive elektriske motorene er bygget i Győr, Ungarn. Det største drivverket i verden produserer ikke bare de elektriske motorene, men også en stor andel av girkassene.
 
 En viktig fordel med de nyutviklede elektriske motorene er effektiviteten. Dette er først og fremst takket være en ny hårnålsvikling i statoren, silisiumkarbidhalvledere i pulsomformeren, samt tørrsumpsmøring og en elektrisk oljepumpe i transmisjonen. Den nye hårnålsviklingen, som brukes i A6 e-tron2 for første gang hos Audi, maksimerer strømflyten i statoren til den elektriske motoren. Denne metoden muliggjør også et høyere antall viklinger: Fyllfaktoren er nå 60 prosent i stedet for 45 prosent oppnådd med de konvensjonelle viklingene som ble brukt tidligere. Takket være rotoroljekjøling kunne Audi også i stor grad unnlate bruken av tunge sjeldne jordarter og samtidig øke effekttettheten med 20 prosent. Totalt er tapene på de elektriske stasjonene betydelig redusert med rundt 50 prosent sammenlignet med Audi e-tron.
 
-{{< sitefiguresized thumb="models/q6-e-tron/drivetrain/motors/frontmotor_2_st.jpg" width="3000" height="2056" title="Audi A6 ASM frontmotor" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/motors/frontmotor_2_st.webp" width="3000" height="2056" title="Audi A6 ASM frontmotor" >}}
 
 Den nye direkte kjølingen av de elektriske motorene med olje holder komponenter som statorviklingen og permanentmagneter i rotoren i det optimale temperaturområdet. Som et resultat er kraft-til-vekt-ytelsen til PPE-ens elektriske stasjon rundt 60 prosent høyere enn for førstegenerasjons elektriske stasjoner fra Audi. De nyutviklede elektriske stasjonene for PPE er også preget av spesielt stille og behagelig akustikk.
 
@@ -28,11 +28,11 @@ Takket være skalerbarheten og fleksibiliteten til Premium Platform Electric kan
 
 To modellvarianter med firehjulsdrift og to ulike ytelsesnivåer vil være tilgjengelig ved markedslansering: Audi A6 e-tron quattro2 og Audi SA6 e-tron. Spesielt effektive modeller med bakhjulsdrift designet for rekkevidde vil følge på et senere tidspunkt – avhengig av markedet – og vil også markere inngangen til A6 e-tron-serien.
 
-{{< sitefiguresized thumb="models/q6-e-tron/drivetrain/motors/rearmotor_1_st.jpg" width="3000" height="2056" title="Audi A6 PMSM bakmotor" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/motors/rearmotor_1_st.webp" width="3000" height="2056" title="Audi A6 PMSM bakmotor" >}}
 
 Audi A6 e-tron2 har en permanent magnet synkronmotor (PSM) på bakakselen og en asynkronmotor (ASM) på forakselen. PSM i Audi A6 e-tron2 har en aksial lengde på 200 millimeter. ASM (asynkronmotor), som spinner fritt uten vesentlige tap av luftmotstand, er 100 millimeter (7,9 tommer) lang. Systemeffekten er opptil 285 kW (387 PS). A6 e-tron quattro2. Samlet sett gjelder effektiviseringstiltakeneing til de nye elektriske motorene for PPE alene genererer rundt 40 kilometer (25 mi) større rekkevidde sammenlignet med den forrige elektriske modellporteføljen. De nyutviklede elektriske motorene for PPE krever rundt 30 prosent mindre installasjonsplass enn enhetene i førstegenerasjons e-tron. Vekten er redusert med rundt 20 prosent.
 
-{{< sitefiguresized thumb="models/q6-e-tron/drivetrain/motors/rearmotor_2_st.jpg" width="3000" height="2056" title="Audi A6 PMSM bakmotor" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/motors/rearmotor_2_st.webp" width="3000" height="2056" title="Audi A6 PMSM bakmotor" >}}
 
 Audi SA6 e-tron. PSM på bakakselen har en aksial lengde på 200 millimeter (7,9 tommer) i Audi SA6 e-tron. ASM på forakselen, som snurrer fritt uten vesentlige luftmotstandstap, er 100 millimeter (3,9 tommer) lang og brukes i dynamiske kjøresituasjoner. S-modellen har en maksimal rekkevidde på 598 kilometer (372 mi). SA6 e-tron (kombinert strømforbruk i kWh/100 km: 18,4-17,5 (WLTP); kombinert CO2-utslipp i g/km: 0; CO2 klasse A) når 100 km/t (62 mph)-merket på så lavt nivå som 4,3 sekunder.
 

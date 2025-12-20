@@ -5,7 +5,7 @@ description: The Audi Q6 e-tron model series has a fully connected and digital i
 weight: 4
 ---
 
-{{< sitefiguresized thumb="models/q6-e-tron/technology/uiandoperations/virtualcockpit/virtualcockpit_1_st.jpg" width="1920" height="900" title="Audi Q6 e-tron with virtual cockpit and MMI Panorama" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/uiandoperations/virtualcockpit/virtualcockpit_1_st.webp" width="1920" height="900" title="Audi Q6 e-tron with virtual cockpit and MMI Panorama" >}}
 
  The clearly grouped displays are perfectly integrated into the design concept and give the interior a generous and airy feeling of space. The slim, free-standing Audi MMI panoramic display has a curved design and OLED technology and consists of the 11.9-inch Audi virtual cockpit and the 14.5-inch MMI touch display. The driver's area is designed as a curve and the display with its concave shape is oriented towards the driver. The contours of the curved display are also reminiscent of the single frame typical of Audi. The ambient lighting makes the Curved Display seem to float at night and creates a suitable setting. Especially for the front passengers, Audi complements the digital stage with the 10.9-inch MMI front passenger display with Active Privacy Mode, which prevents it from distracting the driver while on the move. This allows the front passenger to stream films/video content, assist with navigation, or even find a charging station for example.
 
@@ -30,7 +30,7 @@ The store gives customers access to a wide range of apps. Applications from cate
 See below for more details of the different parts of the HMI (Human Machine Interface).
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="mmi/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/uiandoperations/mmi/mmi_3_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<a href="mmi/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/technology/uiandoperations/mmi/mmi_3_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
 	<h2>MMI</h2>
 	<p>
 		Audi Q6 e-tron MMI is based on Android Automotive and have a has serveral screens.
@@ -40,7 +40,7 @@ See below for more details of the different parts of the HMI (Human Machine Inte
 
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="headupdisplay/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/uiandoperations/headupdisplay/hud_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<a href="headupdisplay/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/technology/uiandoperations/headupdisplay/hud_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
 	<h2>Head-up display</h2>
 	<p>
 		Audi Q6 e-tron MMI is based on Android Automotive and have a has serveral screens.

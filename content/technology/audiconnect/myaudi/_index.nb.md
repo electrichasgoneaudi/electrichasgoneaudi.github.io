@@ -12,8 +12,8 @@ Følgende skjermbilder viser noen av funksjonene myAudi-appen har. Skjermbilder 
 Du kan administrere alle Audiene dine i samme app
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapps.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapps.webp"
         class="img-fluid" alt="i myAudi-appen kan du kontrollere de forskjellige bilene dine" title="i myAudi-appen kan du kontrollere de forskjellige bilene dine">
     </a>
     <figcaption><h4>i myAudi-appen kan du kontrollere de forskjellige bilene dine</h4></figcaption>
@@ -24,8 +24,8 @@ Du kan administrere alle Audiene dine i samme app
 Du får gjeldende bilstatus.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp1s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp1.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp1s.webp"
         class="img-fluid" alt="Du kan se den generelle statusen" title="Du kan se den generelle statusen">
     </a>
     <figcaption><h4>Du kan se den generelle statusen</h4></figcaption>
@@ -34,8 +34,8 @@ Du får gjeldende bilstatus.
 ### Funksjonalitet
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp2s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp2.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp2s.webp"
         class="img-fluid" alt="Du kan se de forskjellige funksjonene" title="Du kan se de forskjellige funksjonene">
     </a>
     <figcaption><h4>Du kan se de forskjellige funksjonene</h4></figcaption>
@@ -48,8 +48,8 @@ Du kan endre lademålet for bilen. For å bevare batteriet
 mest bør du bare lade til 100 % når du trenger det.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp3s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp3.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp3s.webp"
         class="img-fluid" alt="Angi lademål" title="Angi lademål">
     </a>
     <figcaption><h4>Angi lademål</h4></figcaption>
@@ -58,8 +58,8 @@ mest bør du bare lade til 100 % når du trenger det.
 ### Klimakontroll
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp4s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp4.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp4s.webp"
         class="img-fluid" alt="Du kan starte klimakontrollen" title="Du kan starte klimakontrollen">
     </a>
     <figcaption><h4>Du kan starte klimakontrollen</h4></figcaption>
@@ -68,8 +68,8 @@ mest bør du bare lade til 100 % når du trenger det.
 ### Utstyrsliste
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp5s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp5.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp5s.webp"
         class="img-fluid" alt="Du kan se hele utstyrslisten til bilen din" title="Du kan se hele utstyrslisten til bilen din">
     </a>
     <figcaption><h4>Du kan se hele utstyrslisten til bilen din</h4></figcaption>
@@ -78,16 +78,16 @@ mest bør du bare lade til 100 % når du trenger det.
 ### Kjøredata
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp6s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp6.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp6s.webp"
         class="img-fluid" alt="Du kan se kjøredata for korttidsminne" title="Du kan se kjøredata for korttidsminne">
     </a>
     <figcaption><h4>Du kan se kjøredata for korttidsminne</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp7.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/audiconnect/myaudi/myaudiapp7s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp7.webp">
+        <img src="https://media.evkx.net/ehga/technology/audiconnect/myaudi/myaudiapp7s.webp"
         class="img-fluid" alt="Du kan se kjøredata for langtidsminne" title="Du kan se kjøredata for langtidsminne">
     </a>
     <figcaption><h4>Du kan se kjøredata for langtidsminne</h4></figcaption>

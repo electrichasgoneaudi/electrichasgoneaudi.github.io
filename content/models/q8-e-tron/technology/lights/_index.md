@@ -35,8 +35,8 @@ See video below how HD Matrix works on an Audi Q8 e-tron
 With the digital matrix LED headlights as top-of-the range equipment, Audi presents a worldwide first in a production vehicle: Broken down into minute pixels, their light can illuminate the road in high resolution. The design is based on a technology abbreviated as DMD (digital micromirror device) and is also used in many video projectors. At its heart is a small chip containing one million micromirrors, each of whose edge length measures just a few hundredths of a millimeter. With the help of electrostatic fields, each individual micromirror can be tilted up to 5,000 times per second. Depending on the setting, the LED light is either directed via the lenses onto the road or is absorbed in order to mask out areas of the light beam.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lights/digital_matrix_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lights/digital_matrix_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/lights/digital_matrix_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/lights/digital_matrix_1s.webp"
         class="img-fluid" alt="Digital Matrix Head lights" title="Digital Matrix Head lights">
     </a>
     <figcaption><h4>Digital Matrix Head lights</h4></figcaption>
@@ -54,8 +54,8 @@ The optionID is **PXC** for Digital matrix LED Headlights.
 You can order Q8 e-tron entry lights option id **9TF**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lights/entry.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lights/entrys.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/lights/entry.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/lights/entrys.webp"
         class="img-fluid" alt="Entry lights" title="Entry lights">
     </a>
     <figcaption><h4>Entry lights</h4></figcaption>

@@ -11,8 +11,8 @@ It comprises four levels: the digital instrument cluster or Audi virtual cockpit
 and the optional augmented reality head-up display – it is a new, pioneering piece of technology. 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/uiandoperations.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/uiandoperationss.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/uiandoperations.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/uiandoperationss.webp"
         class="img-fluid" alt="Audi Q4 User interface and operationseversing light" title="Audi Q4 User interface and operationseversing light">
     </a>
     <figcaption><h4>Audi Q4 User interface and operationseversing light</h4></figcaption>

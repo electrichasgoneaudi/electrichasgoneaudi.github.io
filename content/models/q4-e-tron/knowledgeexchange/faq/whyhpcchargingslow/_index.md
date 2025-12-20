@@ -9,8 +9,8 @@ hidden: true
 First. What is the expected charging rate? Under optimal conditions, the charge curve will look like this.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.webp"
         class="img-fluid" alt="Charging curve Q4 e-tron optimal conditions" title="Charging curve Q4 e-tron optimal conditions">
     </a>
     <figcaption><h4>Charging curve Q4 e-tron optimal conditions</h4></figcaption>
@@ -19,8 +19,8 @@ First. What is the expected charging rate? Under optimal conditions, the charge 
 That means that you often see 125kW up to 35%.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/charginghpc.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/charginghpcs.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/charginghpc.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/charginghpcs.webp"
         class="img-fluid" alt="Audi Q4 e-tron charging" title="Audi Q4 e-tron charging">
     </a>
     <figcaption><h4>Audi Q4 e-tron charging</h4></figcaption>
@@ -28,7 +28,7 @@ That means that you often see 125kW up to 35%.
 
 But people may see that their charging speed is much slower than this.
 
-![Slow charging](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/slowcharging1.jpg "Example 1 - slow charging curve")
+![Slow charging](https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/slowcharging1.webp "Example 1 - slow charging curve")
 
 ### Reason 1. Cold battery
 

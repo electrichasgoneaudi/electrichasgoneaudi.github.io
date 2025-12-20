@@ -8,8 +8,8 @@ weight: 6
 <!-- markdownlint-disable MD033 -->
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/drivetrain2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/drivetrain2s.jpg" class="img-fluid" alt="Audi e-tron drivlinje" title="Audi e-tron drivlinje">
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/drivetrain2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/drivetrain2s.webp" class="img-fluid" alt="Audi e-tron drivlinje" title="Audi e-tron drivlinje">
     </a>
     <figcaption><h4>Audi e-tron drivlinje</h4></figcaption>
 </figure>

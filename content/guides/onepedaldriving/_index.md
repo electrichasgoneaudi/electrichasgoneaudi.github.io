@@ -14,8 +14,8 @@ For some EVs, one-pedal driving is the only way to regenerate energy and, thereb
 All-electric Audis have advanced blended brakes that mix regeneration and physical brakes using the brake pedal. Utilizing the brake pedal, you will regenerate and put energy back into the battery as long as you reduce speed by less than 0.3G. Above that, the system will also use physical brakes. This blending is possible with brake-by-wire technology developed by Audi that controls the use of brakes and regeneration in motors.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/recuperation.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/recuperations.png" class="img-fluid" alt="Kinetic energy is converted to electric energy in the battery with regeneration." title="Kinetic energy is converted to electric energy in the battery with regeneration.">
+    <a href="https://media.evkx.net/ehga/guides/regen/recuperation.webp">
+        <img src="https://media.evkx.net/ehga/guides/regen/recuperations.webp" class="img-fluid" alt="Kinetic energy is converted to electric energy in the battery with regeneration." title="Kinetic energy is converted to electric energy in the battery with regeneration.">
     </a>
     <figcaption><h4>Kinetic energy is converted to electric energy in the battery with regeneration.</h4></figcaption>
 </figure>
@@ -32,15 +32,15 @@ Audi has made it possible to enable one pedal driving on their all-electric mode
 
 On the Audi e-tron you can set recuperation to manual (MMI -> Vehicle -> Efficiency Assistant -> Recuperation). Then every time you start a drive, set recuperation to the max with the steering wheel recuperation paddles, and then it will regenerate every time you lift your foot off the “throttle pedal” and works as “one-pedal-driving.”
 
-![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/recuperationmode.png "Recuperation mode")
+![bilde](https://media.evkx.net/ehga/guides/onepedaldriving/recuperationmode.webp "Recuperation mode")
 
 You can set the recuperation to 3 different levels with the wheel paddles. (for more or less braking). High, medium, and off.
 
-![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/paddleleft.png "Left paddle to reduce regen.")
+![bilde](https://media.evkx.net/ehga/guides/onepedaldriving/paddleleft.webp "Left paddle to reduce regen.")
 
-![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/paddleright.png "Right paddle to increase regen.")
+![bilde](https://media.evkx.net/ehga/guides/onepedaldriving/paddleright.webp "Right paddle to increase regen.")
 
-![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/regenlevel.png "This shows how the regen is on 50% on max.")
+![bilde](https://media.evkx.net/ehga/guides/onepedaldriving/regenlevel.webp "This shows how the regen is on 50% on max.")
 
 ### Recommended settings for best efficiency on Audi e-tron
 
@@ -54,21 +54,21 @@ On the Audi Q4 e-tron, there are two methods to enable one-pedal-driving
 
 On the Audi Q4 e-tron, you can set the car in B-mode (brake) with the help of the shifter.
 
-![Q4 shifters](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/q4shifter.jpg "Gear shifter Audi Q4 with D/B mode")
+![Q4 shifters](https://media.evkx.net/ehga/guides/onepedaldriving/q4shifter.webp "Gear shifter Audi Q4 with D/B mode")
 
 In B-mode, the car will regenerate at almost the maximum level available. (depends on charge level and temperature)
 
-![B-mode](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/bmode.jpg "B-mode - when you remove the foot from the throttle pedal, the car regenerates")
+![B-mode](https://media.evkx.net/ehga/guides/onepedaldriving/bmode.webp "B-mode - when you remove the foot from the throttle pedal, the car regenerates")
 
 ### Dynamic in D mode with regen level set with paddles
 
 The second way to enable one-pedal-driving is by setting the car in D-mode with the shifter and using the Dynamic mode in Drive Select.
 
-![B-mode](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/q4paddelss.jpg "Regen paddle on steering wheel")
+![B-mode](https://media.evkx.net/ehga/guides/onepedaldriving/q4paddelss.webp "Regen paddle on steering wheel")
 
 It is possible to set regen to 0,1,2,3 with paddles, and the car will remember it. Opposite to other drive select modes where the regen level is reset to 0 when using the throttle.
 
-![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/regenlevelq4.jpg "The green bars to the right of the D show the regen level set in dynamic mode in drive select.")
+![bilde](https://media.evkx.net/ehga/guides/onepedaldriving/regenlevelq4.webp "The green bars to the right of the D show the regen level set in dynamic mode in drive select.")
 
 ### Recommended settings for best efficiency on Audi Q4 e-tron
 
@@ -78,13 +78,13 @@ Driving in D-mode and using the brake pedals that automatically give regen gives
 
 On the Audi e-tron GT you can set recuperation to manual (MMI -> Vehicle -> Efficiency Assistant -> Recuperation). Then every time you start a drive, set recuperation to the max with the steering wheel recuperation paddles, and then it will regenerate every time you lift your foot off the “throttle pedal” and works as “one-pedal-driving.”
 
-![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/recuperationmode.png "Recuperation mode")
+![bilde](https://media.evkx.net/ehga/guides/onepedaldriving/recuperationmode.webp "Recuperation mode")
 
 You can set the recuperation to 3 different levels with the wheel paddles. (for more or less braking). High, medium, and off.
 
-![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/paddlegts.jpg "Right paddle to increase regen.")
+![bilde](https://media.evkx.net/ehga/guides/onepedaldriving/paddlegts.webp "Right paddle to increase regen.")
 
-![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/regenlevel.png "This shows how the regen is on 50% on max.")
+![bilde](https://media.evkx.net/ehga/guides/onepedaldriving/regenlevel.webp "This shows how the regen is on 50% on max.")
 
 ### Recommended settings for best efficiency on Audi e-tron GT
 

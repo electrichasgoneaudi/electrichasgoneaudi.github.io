@@ -13,7 +13,7 @@ The following wheels is available to select to Audi Q6 e-tron
 
 8,0J|9,0Jx18, Wheels 235/65|255/60 R18
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_18inch_1.jpg" width="2300" height="1000" title="10-spoke 18-inch" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_18inch_1.webp" width="2300" height="1000" title="10-spoke 18-inch" >}}
 
 ## 19" 5-double spoke flag
 
@@ -21,9 +21,9 @@ The following wheels is available to select to Audi Q6 e-tron
 
 **Option** 41A
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_41a_1.jpg" width="2300" height="1000" title="5-double spoke flag" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_41a_1.webp" width="2300" height="1000" title="5-double spoke flag" >}}
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_41a_2.jpg" width="750" height="750" title="5-double spoke flag" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_41a_2.webp" width="750" height="750" title="5-double spoke flag" >}}
 
 ## 19" 5-double-spoke dynamic design
 
@@ -31,9 +31,9 @@ The following wheels is available to select to Audi Q6 e-tron
 
 **Option** 41M
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_41m_1.jpg" width="2300" height="1000" title="5-double spoke flag" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_41m_1.webp" width="2300" height="1000" title="5-double spoke flag" >}}
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_41m_2.jpg" width="750" height="750" title="5-double spoke flag" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_41m_2.webp" width="750" height="750" title="5-double spoke flag" >}}
 
 
 ## 20"  10-spoke trapezoidal design in black metallic, gloss polished
@@ -42,9 +42,9 @@ The following wheels is available to select to Audi Q6 e-tron
 
 **Option** 58R
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_58r_1.jpg" width="2300" height="1000" title="10-spoke trapezoidal design" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_58r_1.webp" width="2300" height="1000" title="10-spoke trapezoidal design" >}}
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_58r_2.jpg" width="750" height="750" title="10-spoke trapezoidal design" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_58r_2.webp" width="750" height="750" title="10-spoke trapezoidal design" >}}
 
 
 ## 20"  5-double-spoke offset design, gray silk matt, high-gloss polished
@@ -53,9 +53,9 @@ The following wheels is available to select to Audi Q6 e-tron
 
 **Option** 58Q
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_58q_1.jpg" width="2300" height="1000" title="5-double-spoke offset design," >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_58q_1.webp" width="2300" height="1000" title="5-double-spoke offset design," >}}
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_58q_2.jpg" width="750" height="750" title="5--double-spoke offset design," >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_58q_2.webp" width="750" height="750" title="5--double-spoke offset design," >}}
 
 
 ## 20"  5-spoke structural design, graphite grey, high-gloss polished
@@ -64,9 +64,9 @@ The following wheels is available to select to Audi Q6 e-tron
 
 **Option** 52T
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_52t_1.jpg" width="2300" height="1000" title="5-spoke structural design" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_52t_1.webp" width="2300" height="1000" title="5-spoke structural design" >}}
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_52t_2.jpg" width="750" height="750" title="5-spoke structural design" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_52t_2.webp" width="750" height="750" title="5-spoke structural design" >}}
 
 
 ## 20"  5-double spoke Falx
@@ -75,9 +75,9 @@ The following wheels is available to select to Audi Q6 e-tron
 
 **Option** 54V
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_54v_1.jpg" width="2300" height="1000" title="5-double spoke Falx" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_54v_1.webp" width="2300" height="1000" title="5-double spoke Falx" >}}
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_54v_2.jpg" width="750" height="750" title="5-double spoke Falx" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_54v_2.webp" width="750" height="750" title="5-double spoke Falx" >}}
 
 ## 21" 5-arm aero design in black metallic, gloss polished
 
@@ -85,9 +85,9 @@ The following wheels is available to select to Audi Q6 e-tron
 
 **Option** C9K
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_c9k_1.jpg" width="2300" height="1000" title="5-arm aero design in black metallic, gloss polished" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_c9k_1.webp" width="2300" height="1000" title="5-arm aero design in black metallic, gloss polished" >}}
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_c9k_2.jpg" width="750" height="750" title="5-arm aero design in black metallic, gloss polished" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_c9k_2.webp" width="750" height="750" title="5-arm aero design in black metallic, gloss polished" >}}
 
 
 ## 21" 5 Y-spoke dynamic design in black metallic, polished
@@ -96,9 +96,9 @@ The following wheels is available to select to Audi Q6 e-tron
 
 **Option** V39
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_v39_1.jpg" width="2300" height="1000" title="5 Y-spoke dynamic design in black metallic, polished" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_v39_1.webp" width="2300" height="1000" title="5 Y-spoke dynamic design in black metallic, polished" >}}
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_v39_2.jpg" width="750" height="750" title="5 Y-spoke dynamic design in black metallic, polished" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_v39_2.webp" width="750" height="750" title="5 Y-spoke dynamic design in black metallic, polished" >}}
 
 
 ## 21" 5-V spoke structure design, graphite grey, gloss polished
@@ -107,10 +107,10 @@ The following wheels is available to select to Audi Q6 e-tron
 
 **Option** 46X 
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_46x_1.jpg" width="2300" height="1000" title="5-V spoke structure design, graphite grey, gloss polished" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_46x_1.webp" width="2300" height="1000" title="5-V spoke structure design, graphite grey, gloss polished" >}}
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_46x_2.jpg" width="750" height="750" title="5-V spoke structure design, graphite grey, gloss polished" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_46x_2.webp" width="750" height="750" title="5-V spoke structure design, graphite grey, gloss polished" >}}
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_46x_3.jpg" width="1200" height="600" title="5-V spoke structure design, graphite grey, gloss polished" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_46x_3.webp" width="1200" height="600" title="5-V spoke structure design, graphite grey, gloss polished" >}}
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheeloption_46x_4.jpg" width="1200" height="1200" title="5-V spoke structure design, graphite grey, gloss polished" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_46x_4.webp" width="1200" height="1200" title="5-V spoke structure design, graphite grey, gloss polished" >}}

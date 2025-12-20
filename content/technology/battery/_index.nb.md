@@ -11,8 +11,8 @@ Denne artikkelen fokuserer på Li-Ion-batterier for elbiler og har som mål å g
 og hvordan det påvirker ytelsen på elbiler med et spesifikt fokus på helelektriske Audier.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterypack.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/batterypacks.jpg"
+    <a href="https://media.evkx.net/ehga/technology/battery/batterypack.webp">
+        <img src="https://media.evkx.net/ehga/technology/battery/batterypacks.webp"
         class="img-fluid" alt="Audi e-tron 95kWh batteripakke" title="Audi e-tron 95kWh batteripakke">
     </a>
     <figcaption><h4>Audi e-tron 95kWh batteripakke</h4></figcaption>

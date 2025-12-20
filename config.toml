@@ -7,7 +7,7 @@ staticDir = "static"
 publishDir = "public"
 
 title = "Electric has gone Audi"
-theme = "hugo-theme-electrichasgoneaudi2"
+theme = "ehga-tailwind"
 metadataFormat = "yaml"
 pluralizeListTitles = false
 preservetaxonomynames = true

@@ -7,8 +7,8 @@ weight: 1
 
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/audiq4_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/audiq4_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/audiq4_1.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/audiq4_1s.webp"
         class="img-fluid" alt="Audi Q4 e-tron utstyrt med prediktiv effektivitetsassistent." title="Audi Q4 e-tron utstyrt med prediktiv effektivitetsassistent.">
     </a>
     <figcaption><h4>Audi Q4 e-tron utstyrt med prediktiv effektivitetsassistent.</h4></figcaption>
@@ -29,8 +29,8 @@ Føreren vises tilsvarende informasjon i instrumentgruppen eller Audi virtual co
 Symboler for fartsgrenser, svinger, rundkjøringer, tettsteder eller nedoverbakker som indikerer at sjåføren må bremse ned, vises basert på rutedata og gjenkjenning av trafikkskilt.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/efficiencyassist_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/efficiencyassist_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/efficiencyassist_1.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/efficiencyassist_1s.webp"
         class="img-fluid" alt="Prediktiv effektivitetshjelp i Audi Q4 e-tron, og anbefaler å bremse ned på grunn av en rundkjøring." title="Prediktiv effektivitetshjelp i Audi Q4 e-tron, og anbefaler å bremse ned på grunn av en rundkjøring.">
     </a>
     <figcaption><h4>Prediktiv effektivitetshjelp i Audi Q4 e-tron, og anbefaler å bremse ned på grunn av en rundkjøring.</h4></figcaption>
@@ -52,4 +52,4 @@ På Audi Q4 e-tron kan styringen for eksempel tilpasses veiens gang i tre trinn:
 
 Følgende symboler kan vises avhengig av utstyret som er montert. Effektivitetsassistenten viser hvert symbol for å indikere hendelsen som den nå nå. Noen symboler vises kun når prediktive meldinger er aktivert, og noen vises bare når prediktiv kontroll og adaptiv cruiseassistent er aktivert.
 
-![Symbols](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/symbols.png)
+![Symbols](https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/symbols.webp)

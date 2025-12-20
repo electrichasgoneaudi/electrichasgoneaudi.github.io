@@ -14,8 +14,8 @@ For å gjøre dette må sjåføren sitte i kjøretøyet og ha med seg bekvemmeli
 Motoren startes og slås av ved hjelp av motorstart-stopp-knappen i midtkonsollen.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/startbutton.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/startbutton.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/lockingsystems/startbutton.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/lockingsystems/startbutton.webp"
         class="img-fluid" alt="Midtkonsoll med start/stopp-knapp" title="Midtkonsoll med start/stopp-knapp">
     </a>
     <figcaption><h4>Midtkonsoll med start/stopp-knapp</h4></figcaption>
@@ -32,8 +32,8 @@ For å låse kjøretøyet fra utsiden trenger du bare å trykke på en av sensor
 Bagasjeromslokket kan enkelt låses opp ved hjelp av bagasjeromsknappen på bekvemmelighetsnøkkelen eller, hvis du ikke har fri hånd, med en fotbevegelse (sparkbevegelse) bak.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/kicksensor.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/kicksensors.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/lockingsystems/kicksensor.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/lockingsystems/kicksensors.webp"
         class="img-fluid" alt="Med komfortnøkkel kan du åpne bakluken ved å sparke foten under bakluken" title="Med komfortnøkkel kan du åpne bakluken ved å sparke foten under bakluken">
     </a>
     <figcaption><h4>Med komfortnøkkel kan du åpne bakluken ved å sparke foten under bakluken</h4></figcaption>
@@ -49,8 +49,8 @@ Motoren startes og slås av ved hjelp av motorstart-stopp-knappen i midtkonsolle
 En visuell differensiering av høy kvalitet på toppen og bunnen av nøkkelen gjennom høyglans sorte komponenter og metallspenner i aluminiumslook gjør de innovative funksjonene til bekvemmelighetstasten synlige.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/advancekey.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/advancekeys.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/lockingsystems/advancekey.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/lockingsystems/advancekeys.webp"
         class="img-fluid" alt="Audi Advance key" title="Audi Advance key">
     </a>
     <figcaption><h4>Audi Advance key</h4></figcaption>
@@ -65,8 +65,8 @@ Komfortnøkkel inkludert sensorstyrt opplåsing av bagasjerom med bagasjeromslok
 Tyverialarmsystem
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/tailgate_buttons.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/tailgate_buttonss.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/lockingsystems/tailgate_buttons.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/lockingsystems/tailgate_buttonss.webp"
         class="img-fluid" alt="Bakluken kan lukkes og låses ved hjelp av knapper" title="Bakluken kan lukkes og låses ved hjelp av knapper">
     </a>
     <figcaption><h4>Bakluken kan lukkes og låses ved hjelp av knapper</h4></figcaption>

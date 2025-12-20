@@ -15,16 +15,16 @@ and reduce the visibility for external to look in to your car to persons in back
 in the luggage room. 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/windows/privacywindows.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/windows/privacywindowss.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/windows/privacywindows.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/windows/privacywindowss.webp"
         class="img-fluid" alt="Privacy windows" title="Privacy windows">
     </a>
     <figcaption><h4>Privacy windows</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/windows/paint_typhoongrey_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/windows/paint_typhoongrey_2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/windows/paint_typhoongrey_2.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/windows/paint_typhoongrey_2s.webp"
         class="img-fluid" alt="Privacy windows on a Audi Q4 e-tron with Typhoon color" title="Privacy windows on a Audi Q4 e-tron with Typhoon color">
     </a>
     <figcaption><h4>Privacy windows on a Audi Q4 e-tron with Typhoon color</h4></figcaption>

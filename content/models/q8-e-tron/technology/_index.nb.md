@@ -7,8 +7,8 @@ weight: 7
 <!-- markdownlint-disable MD033 -->
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/technology.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/technologys.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/technology.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/technologys.webp"
         class="img-fluid" alt="Lys er et av områdene hvor Audi leder. E-tron er den første Audien med Digital HD Matrix Lights" title="Lys er et av områdene hvor Audi leder. E-tron er den første Audien med Digital HD Matrix Lights">
     </a>
     <figcaption><h4>Lys er et av områdene hvor Audi leder. E-tron er den første Audien med Digital HD Matrix Lights</h4></figcaption>

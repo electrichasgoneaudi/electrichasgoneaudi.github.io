@@ -12,8 +12,8 @@ step. It can show the expected lane based on the steering angle and thus warn of
 the car.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/parkassist/parkassist.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/parkassist/parkassists.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/drivingassistance/parkassist/parkassist.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/drivingassistance/parkassist/parkassists.webp"
         class="img-fluid" alt="You activate the search for parking spaces with a button in the center console when the parking aid is switched on in the display." title="You activate the search for parking spaces with a button in the center console when the parking aid is switched on in the display.">
     </a>
     <figcaption><h4>You activate the search for parking spaces with a button in the center console when the parking aid is switched on in the display.</h4></figcaption>

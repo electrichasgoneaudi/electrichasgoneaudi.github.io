@@ -22,8 +22,8 @@ Rattet støtter også systemet, og merker om føreren holder rattet eller ikke.
 Du aktiverer den adaptive kjøreassistenten ved å trykke på knappen for innstilt hastighet på enden av cruisekontrollspaken for å følge gjeldende hastighet eller trekke i cruisekontrollspaken for å gjenoppta den forrige innstilte hastigheten.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/cruisecontrol.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/cruisecontrols.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/cruisecontrol.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/cruisecontrols.webp"
         class="img-fluid" alt="Audi Q4 e-tron cruise control hendel styrer funksjonen, inkludert avstanden til bilen foran."
         title="Audi Q4 e-tron cruise control hendel styrer funksjonen, inkludert avstanden til bilen foran.">
     </a>
@@ -35,8 +35,8 @@ Du kan øke og redusere den innstilte hastigheten fra cruisekontrollspaken i tri
 Avstanden kan styres fra ca. 1 til 3,6 sekunder i 5 forskjellige trinn. Virtual cockpit og head-up display viser avstandend som er satt.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/headupdistance.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/headupdistances.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/headupdistance.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/headupdistances.webp"
         class="img-fluid" alt="Head-up display med avstandslinje" title="Head-up display med avstandslinje">
     </a>
     <figcaption><h4>Head-up display med avstandslinje</h4></figcaption>
@@ -46,8 +46,8 @@ Avstanden kan styres fra ca. 1 til 3,6 sekunder i 5 forskjellige trinn. Virtual 
 Du kan slå av kjørefeltføring for den adaptive kjøreassistenten ved å trykke på enden av blinklyshendelen.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/activelaneassist/laneassistbutton.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/activelaneassist/laneassistbuttons.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/activelaneassist/laneassistbutton.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/activelaneassist/laneassistbuttons.webp"
         class="img-fluid" alt="Blinklyshendel med knapp for å slå av kjørefeltføring" title="Blinklyshendel med knapp for å slå av kjørefeltføring">
     </a>
     <figcaption><h4>Blinklyshendel med knapp for å slå av kjørefeltføring</h4></figcaption>
@@ -60,8 +60,8 @@ Med prediktiv kontroll tilpasser [effektivitetsassistent](../predictiveefficienc
 Når systemet ikke lenger oppdager noen hendelser, vil adaptiv cruisekontroll akselerere tilbake til den siste hastigheten som føreren satte.
 
  <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings1nb.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings1nbs.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings1nb.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings1nbs.webp"
         class="img-fluid" alt="Adaptive Cruise assist settings" title="Adaptive Cruise assist settings">
     </a>
     <figcaption><h4>Adaptive Cruise assist settings</h4></figcaption>
@@ -78,8 +78,8 @@ Det er tre valg
 - Med avvik
 
  <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings2nb.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings2nbs.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings2nb.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings2nbs.webp"
         class="img-fluid" alt="Controlling speed in predictive controls" title="Controlling speed in predictive controls">
     </a>
     <figcaption><h4>Controlling speed in predictive controls</h4></figcaption>
@@ -94,8 +94,8 @@ Dette kan være svinger, veikryss eller rundkjøringer. Den adaptive kjøreassis
 Hvis du har satt et navigasjonsmål, vil det også redusere hastigheten før et kryss der du må ta av veien du kjører på.
 
  <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings3nb.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings3nbs.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings3nb.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings3nbs.webp"
         class="img-fluid" alt="Justeringer for kurveassistent" title="Justeringer for kurveassistent">
     </a>
     <figcaption><h4>Justeringer for kurveassistent</h4></figcaption>

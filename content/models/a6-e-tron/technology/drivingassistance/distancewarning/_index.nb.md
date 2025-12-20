@@ -9,24 +9,24 @@ sectiontabs: "/nb/models/q6-e-tron/technology/"
 De fleste andre sjåfører ville ikke tro at noen Audi har slikt utstyr. Den kan justeres til 1, 2 eller 3 sekunder
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/distancewarning/distanceadjustment.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/distancewarning/distanceadjustments.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/distancewarning/distanceadjustment.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/distancewarning/distanceadjustments.webp"
         class="img-fluid" alt="Du kan justere hvor nærme du må kjøre for å bli advart i MMI" title="Du kan justere hvor nærme du må kjøre for å bli advart i MMI">
     </a>
     <figcaption><h4>Du kan justere hvor nærme du må kjøre for å bli advart i MMI</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/distancewarning/distancewarning.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/distancewarning/distancewarnings.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/distancewarning/distancewarning.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/distancewarning/distancewarnings.webp"
         class="img-fluid" alt="Et vanlig syn for Audi-sjåfører som får dem til å undre seg" title="Et vanlig syn for Audi-sjåfører som får dem til å undre seg">
     </a>
     <figcaption><h4>Et vanlig syn for Audi-sjåfører som får dem til å undre seg</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/distancewarning/howothersee.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/distancewarning/howothersees.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/distancewarning/howothersee.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/distancewarning/howothersees.webp"
         class="img-fluid" alt="Hvordan andre ser Audi-sjåfører" title="Hvordan andre ser Audi-sjåfører">
     </a>
     <figcaption><h4>Hvordan andre ser Audi-sjåfører</h4></figcaption>

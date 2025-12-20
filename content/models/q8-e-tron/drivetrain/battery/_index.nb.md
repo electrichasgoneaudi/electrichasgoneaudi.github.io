@@ -30,8 +30,8 @@ Hver modul er på 11 Volt og har en kapasitet på 288 x 11 = 3168 Wh eller 3.168
 Hver modul veier ca 13 kg.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/72ah_cell.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/72ah_cell_st.png" class="img-fluid" class="img-fluid" alt="Modul med nye 72AH-celler" title="Modul med nye 72AH-celler ">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/drivetrain/battery/72ah_cell.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/drivetrain/battery/72ah_cell_st.webp" class="img-fluid" class="img-fluid" alt="Modul med nye 72AH-celler" title="Modul med nye 72AH-celler ">
     </a>
     <figcaption><h4>Modul med nye 72AH-celler</h4></figcaption>
 </figur>
@@ -62,16 +62,16 @@ De fleste av batterihusdelene gjenbrukes med det større 95kWh-batteriet.
 95kWh bruker en andre etasje under baksetene for å få plass til de 36 modulene.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/pack114.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/pack114_st.png" class="img-fluid" alt="Batteripakke 114kWh med 36 moduler, inkludert fem i andre etasje" title="Batteripakke 114kWh med 36 moduler, inkludert fem i andre etasje">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/drivetrain/battery/pack114.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/drivetrain/battery/pack114_st.webp" class="img-fluid" alt="Batteripakke 114kWh med 36 moduler, inkludert fem i andre etasje" title="Batteripakke 114kWh med 36 moduler, inkludert fem i andre etasje">
     </a>
     <figcaption><h4>Batteripakke 114kWh med 36 moduler, inkludert fem i andre etasje</h4></figcaption>
 </figur>
 
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/pack114_2.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/pack114_2_st.png" class="img-fluid" alt="Batteripakke 114kWh med 36 moduler, inkludert fem i andre etasje" title="Batteripakke 114kWh med 36 moduler, inkludert fem i andre etasje">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/drivetrain/battery/pack114_2.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/drivetrain/battery/pack114_2_st.webp" class="img-fluid" alt="Batteripakke 114kWh med 36 moduler, inkludert fem i andre etasje" title="Batteripakke 114kWh med 36 moduler, inkludert fem i andre etasje">
     </a>
     <figcaption><h4>Batteripakke 114kWh med 36 moduler, inkludert fem i andre etasje</h4></figcaption>
 </figur>
@@ -81,8 +81,8 @@ Det er iverksatt sofistikerte tiltak for å beskytte høyspentbatteriet til Audi
 består av ekstruderte seksjoner, den holder cellemodulene som en typekasse.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/crashstructure.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/crashstructures.jpg" class="img-fluid" alt="Integrert krasjstruktur av litium-ion-batteriet" title="Integrert krasjstruktur av litium-ion-batteriet">
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/battery/crashstructure.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/battery/crashstructures.webp" class="img-fluid" alt="Integrert krasjstruktur av litium-ion-batteriet" title="Integrert krasjstruktur av litium-ion-batteriet">
     </a>
     <figcaption><h4>Integrert krasjstruktur for litium-ion-batteriet</h4></figcaption>
 </figur>
@@ -97,8 +97,8 @@ Et kjølesystem av flate ekstruderte aluminiumsseksjoner delt jevnt inn i små k
  Varme utveksles mellom cellene og kjølesystemet under dem via en termisk ledende gel presset under hver cellemodul. I det som er en spesielt effektiv løsning, overfører gelen spillvarmen jevnt til kjølevæsken via batterihuset.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/cooling.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/cooling_st.png" class="img-fluid" alt="Kjøling av litium-ion-batteriet via kjøleren" title="Kjøling litium-ion-batteriet via kjøleren">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/drivetrain/battery/cooling.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/drivetrain/battery/cooling_st.webp" class="img-fluid" alt="Kjøling av litium-ion-batteriet via kjøleren" title="Kjøling litium-ion-batteriet via kjøleren">
     </a>
     <figcaption><h4>Kjøling av litium-ion-batteriet via kjøleren</h4></figcaption>
 </figur>
@@ -106,8 +106,8 @@ Et kjølesystem av flate ekstruderte aluminiumsseksjoner delt jevnt inn i små k
 Batteriet og alle dets parametere, som ladestatus, strømutgang og termisk styring, administreres av den eksterne batteristyringskontrolleren (BMC). Denne er plassert i passasjercellen på høyre A-stolpe på Audi e-tron. BMC kommuniserer både med kontrollenhetene til de elektriske motorene og cellemodulkontrollerne (CMC), som hver overvåker strømmen, spenningen og temperaturen til modulene.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batteryjunctionbox.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batteryjunctionboxs.jpg" class="img-fluid" alt="Batterikoblingsboks" title="Batterikoblingsboks">
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/battery/batteryjunctionbox.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/battery/batteryjunctionboxs.webp" class="img-fluid" alt="Batterikoblingsboks" title="Batterikoblingsboks">
     </a>
     <figcaption><h4>Batterikoblingsboks</h4></figcaption>
 </figur>

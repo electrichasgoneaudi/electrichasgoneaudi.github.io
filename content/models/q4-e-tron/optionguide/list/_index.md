@@ -7,7 +7,7 @@ weight: 100
 
 ## Paint Color & Paint trim
 
-![Pebble stone gray](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/paint/paint_stonegrey_3s.jpg)
+![Pebble stone gray](https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_stonegrey_3s.webp)
 
 Audi Q4 e-tron can be delivered in serveral standard colors and different paint trims. Click on each option below to see examples and detailed info.
 
@@ -26,7 +26,7 @@ Audi Q4 e-tron can be delivered in serveral standard colors and different paint 
 
 ## Wheels
 
-![Wheel](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_55L_3s.jpg)
+![Wheel](https://media.evkx.net/ehga/models/q4-e-tron/exterior/wheels/wheel_55L_3s.webp)
 
 Audi Q4 e-tron can be delivered with different types of wheels. Both for summer and winter.  Click on each option below to see examples and detailed info
 
@@ -76,7 +76,7 @@ Audi Q4 e-tron can be delivered with different types of wheels. Both for summer 
 
 ## Interior packages
 
-![Interior](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/seats/seats_pwm_1.jpg)
+![Interior](https://media.evkx.net/ehga/models/q4-e-tron/interior/seats/seats_pwm_1.webp)
 
 Audi Q4 e-tron can be delivered with different types of seats and seat materials.  Click on each option below to see examples and detailed info
 
@@ -95,7 +95,7 @@ Audi Q4 e-tron can be delivered with different types of seats and seat materials
 
 ## Lights
 
-![Lights](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature3s.jpg)
+![Lights](https://media.evkx.net/ehga/models/q4-e-tron/technology/lights/signature3s.webp)
 
 Audi Q4 e-tron has advanced lights options. Click on each option below to see examples and detailed info.
 
@@ -170,7 +170,7 @@ Audi Q4 e-tron has advanced lights options. Click on each option below to see ex
 
 ## Interior options
 
-![Interior options](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientlights.jpg)
+![Interior options](https://media.evkx.net/ehga/models/q4-e-tron/interior/lights/ambientlights.webp)
 
 Audi Q4 e-tron can be delivered with different interior options. Click on each option below to see examples and detailed info.
 
@@ -197,7 +197,7 @@ Audi Q4 e-tron can be delivered with different interior options. Click on each o
 
 ## Infotainment
 
-![Infotainment](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/mminavigationvirtualcockpits.jpg)
+![Infotainment](https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/virtualcockpit/mminavigationvirtualcockpits.webp)
 
 Audi Q4 e-tron has serveral infotainment options. Click on each option below to see examples and detailed info.
 

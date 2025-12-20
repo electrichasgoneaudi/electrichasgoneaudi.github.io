@@ -1,0 +1,24 @@
+
+<div class="relative inline-block text-left">
+  <button type="button" onclick="toggleLanguageDropdown()" class="inline-flex items-center justify-center px-4 py-2 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-md shadow-sm hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500" id="language-menu-button" aria-expanded="false" aria-haspopup="true">
+    {{ T "language" }}
+    <svg class="w-5 h-5 ml-2 -mr-1" viewBox="0 0 20 20" fill="currentColor">
+      <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
+    </svg>
+  </button>
+  
+  <div class="absolute right-0 z-50 mt-2 w-56 origin-top-right bg-white rounded-md shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none hidden" id="language-dropdown" role="menu" aria-orientation="vertical" aria-labelledby="language-menu-button">
+    <div class="py-1" role="none">
+      {{- $currentPage := . -}}
+      {{- if .Site.IsMultiLingual -}}
+        {{- range .AllTranslations -}}
+        <a href="{{ .RelPermalink }}" class="flex items-center px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-gray-900" role="menuitem">
+          <img src="/images/{{ .Language }}.svg" width="20" class="w-5 h-5 object-contain mr-2" alt="Language flag" /> 
+          {{ .Language.LanguageName }}{{- if eq .Language.Lang $currentPage.Language.Lang }} ✓{{- end -}}
+        </a>
+        {{- end -}}
+      {{- end -}}
+    </div>
+  </div>
+</div>
+

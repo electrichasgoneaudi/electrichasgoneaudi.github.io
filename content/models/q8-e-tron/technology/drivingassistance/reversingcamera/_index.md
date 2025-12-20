@@ -6,8 +6,8 @@ weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/reversingcamera/rearviewcamera.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/reversingcamera/rearviewcameras.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/reversingcamera/rearviewcamera.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/reversingcamera/rearviewcameras.webp"
         class="img-fluid" alt="Reversing camera" title="Reversing camera">
     </a>
     <figcaption><h4>Reversing camera</h4></figcaption>

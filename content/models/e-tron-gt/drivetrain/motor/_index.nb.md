@@ -11,16 +11,16 @@ Begge verdiene gjelder for boost med launch-control, som føreren kan få tilgan
 I e-tron GT quattro yter den fremre elektriske motoren 175 kW (238 PS), og den bakre motoren yter 320 kW (435 PS). Begge elektriske motorer holder reserver tilgjengelige for ekstreme kjøresituasjoner, og det er grunnen til at summen av deres individuelle ytelser overstiger frekvensomformerens totale effekt på 350 kW (476 PS) betraktelig. Opptil 390 kW (530 PS) er tilgjengelig i omtrent 2,5 sekunder i boost-modus via lanseringskontroll. Det totale dreiemomentet er 630 Nm (464,7 lb-ft). I RS e-tron GT yter også elmotoren på forakselen 175 kW (238 PS), mens motoren bak yter 335 kW (456 PS). Den totale effekten er 440 kW (598 PS), og det totale dreiemomentet er 830 Nm (612,2 lb-ft). I boost-modus øker effekten kort til 475 kW (646 PS).
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/motor/frontmotor_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/motor/frontmotor_1.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/motor/frontmotor_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/motor/frontmotor_1.webp"
         class="img-fluid" alt="Elektrisk motor foran med fjæring" title="Elektrisk motor foran med fjæring">
     </a>
     <figcaption><h4>Elektrisk motor foran med fjæring</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/motor/rearmotor_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/motor/rearmotor_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/motor/rearmotor_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/motor/rearmotor_1s.webp"
         class="img-fluid" alt="Bakmotor med støtdempere" title="Bakmotor med støtdempere">
     </a>
     <figcaption><h4>Bakmotor med støtdempere</h4></figcaption>
@@ -31,8 +31,8 @@ I e-tron GT quattro yter den fremre elektriske motoren 175 kW (238 PS), og den b
 PSM-motorene (permanent eksiterte synkronmotorer) i e-tron GT er ekstremt effektive, med en virkningsgrad på betydelig mer enn 90 prosent i de fleste kjøresituasjoner. De er produsert med en kompleks teknologi kjent som hårnålsvikling. Spolene til statoren består av rektangulære kobbertråder som ligner hårnåler etter at de har blitt bøyd. Dette gjør at ledningene kan pakkes tettere, som et resultat av at betydelig mer kobber passer inn i statoren sammenlignet med den konvensjonelle rundviklingen. Dette øker ytelsen og dreiemomentet og effektiviserer kjølingen av de elektriske motorene, som foregår via en egen mellomtemperaturkrets.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/motor/rearmotor_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/motor/rearmotor_3s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/motor/rearmotor_3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/motor/rearmotor_3s.webp"
         class="img-fluid" alt="Audi e-tron GT elektrisk motor med hårnålsvikling" title="Audi e-tron GT elektrisk motor med hårnålsvikling">
     </a>
     <figcaption><h4>Audi e-tron GT elektrisk motor med hårnålsvikling</h4></figcaption>

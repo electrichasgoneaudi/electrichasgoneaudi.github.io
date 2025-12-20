@@ -14,7 +14,7 @@ With its recuperation concept, the Audi Q8 e-tron can recover most of the kineti
 
 When recuperation mode is automatic, the car will decide when to recuperate when the driver is not accelerating or using adaptive cruise assist.
 
-![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/recuperationmode.png "Recuperation mode")
+![bilde](https://media.evkx.net/ehga/guides/onepedaldriving/recuperationmode.webp "Recuperation mode")
 
 When the car enters a zone that enforces a lower speed or when it comes up behind a slower car in front, the drive management system attempts to reduce speed by coasting.
 
@@ -27,7 +27,7 @@ When braking, the motor at the rear alone performs the deceleration in most ever
 ### Manual recuperation via the paddle levers
 
 On the steering wheel, the Audi Q8 e-tron has paddle levers to set recuperation in three different levels manually
- ![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/paddleright.png "Right paddle to increase regen.")
+ ![bilde](https://media.evkx.net/ehga/guides/onepedaldriving/paddleright.webp "Right paddle to increase regen.")
 
 The levels are
 
@@ -35,7 +35,7 @@ The levels are
 - Level 1 approx 0.06G
 - Level 2 approx 0.15G
 
-![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/regenlevel.png "Virtual cockpit shows how the regen is on 0.15G (50%) of max.")
+![bilde](https://media.evkx.net/ehga/guides/onepedaldriving/regenlevel.webp "Virtual cockpit shows how the regen is on 0.15G (50%) of max.")
 
 Depending on which recuperation mode is enabled, the regen level will be remembered or turned off if the accelerator is pressed.
 
@@ -72,8 +72,8 @@ A second piston generates the familiar pedal feeling for the driver’s foot uti
 In the case of ABS braking, pressure buildup and reduction are not noticeable in the form of irritating hard pulsations.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/brakes/brakesystem.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/brakes/brakesystems.jpg" class="img-fluid" class="img-fluid" alt="Audi Q8 e-tron brake system" title="Audi Q8 e-tron brake system">
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/brakes/brakesystem.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/brakes/brakesystems.webp" class="img-fluid" class="img-fluid" alt="Audi Q8 e-tron brake system" title="Audi Q8 e-tron brake system">
     </a>
     <figcaption><h4>Audi Q8 e-tron brake system</h4></figcaption>
 </figure>

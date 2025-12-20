@@ -9,7 +9,7 @@ weight: 7
 
 The properties of materials used were incorporated into the interior design at a very early stage of the development process and, in combination with the Audi MMI panoramic display and the MMI passenger display, create a visually clear digital stage. 
 
-{{< sitefiguresized thumb="models/q6-e-tron/interior/interior_10_st.jpg" width="3000" height="2249" title="Audi Q6 interior" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/interior/interior_10_st.webp" width="3000" height="2249" title="Audi Q6 interior" >}}
 
 The high-contrast design of the interior deliberately places elements in the foreground or background, creating a three-dimensional spatial architecture that is tailored to the occupants in terms of design and ergonomics. The ambiance in the interior was designed to be decidedly homely. The “Softwrap” extends from the doors across the entire cockpit to the center console, creating a homogeneous and enveloping feeling of space. The same colors and high-quality materials, some of which are made from recycled materials, can also be found in the seats. For example, the S line variant's Softwrap uses the recycled fabric Elastic Melange, which is made from 100 percent recycled polyester. The headlining, lining of the pillars, and the sun visors are made from Draft fabric, which is also 100 percent recycled polyester.
 
@@ -41,7 +41,7 @@ Thanks to the new Premium Platform Electric, which was developed specifically fo
 
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="seats/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/interior/seats/seatsdesigns_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<a href="seats/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/interior/seats/seatsdesigns_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
 	<h2>Seats</h2>
 	<p>
 		Audi Q6 e-tron offers three different seat options

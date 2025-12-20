@@ -13,24 +13,24 @@ Audi e-tron comes with 3 12-volt outlets as standard. In front seats, in rear se
 They are only active when ignition is on.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/connections/12voltfront.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/connections/12voltfronts.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/connections/12voltfront.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/connections/12voltfronts.webp"
         class="img-fluid" alt="12-volt outlet front" title="12-volt outlet front">
     </a>
     <figcaption><h4>12-volt outlet front</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/connections/12voltrear.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/connections/12voltrears.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/connections/12voltrear.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/connections/12voltrears.webp"
         class="img-fluid" alt="12-volt outlet rear" title="12-volt outlet rear">
     </a>
     <figcaption><h4>12-volt outlet rear</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/connections/12voltluggage.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/connections/12voltluggages.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/connections/12voltluggage.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/connections/12voltluggages.webp"
         class="img-fluid" alt="12-volt outlet luggage room" title="12-volt outlet luggage room">
     </a>
     <figcaption><h4>12-volt outlet luggage room</h4></figcaption>
@@ -41,8 +41,8 @@ They are only active when ignition is on.
 Audi music interface is standard in front. 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/connections/frontconnections.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/connections/frontconnectionss.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/connections/frontconnections.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/connections/frontconnectionss.webp"
         class="img-fluid" alt="USB-C connections" title="USB-C connections">
     </a>
     <figcaption><h4>USB-C connections</h4></figcaption>
@@ -53,8 +53,8 @@ Audi music interface is standard in front.
 As option **UF8** you can get 2 USB-C connection for the rear seats.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/connections/musicinterfacerear.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/connections/musicinterfacerears.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/connections/musicinterfacerear.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/connections/musicinterfacerears.webp"
         class="img-fluid" alt="Music interface rear" title="Music interface rear">
     </a>
     <figcaption><h4>Music interface rear</h4></figcaption>
@@ -66,8 +66,8 @@ On 2019 and 2020 models SIM card and SD-card was available-
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/connections/ports1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/connections/ports1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/connections/ports1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/connections/ports1s.webp"
         class="img-fluid" alt="SD-card and sim on 2019/2020" title="SD-card and sim on 2019/2020">
     </a>
     <figcaption><h4>SD-card and sim on 2019/2020</h4></figcaption>

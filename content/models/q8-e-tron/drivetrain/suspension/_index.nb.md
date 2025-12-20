@@ -14,8 +14,8 @@ Avhengig av hastigheten og førerens preferanser, justerer den kjørehøyden ind
 Luftfjæringen tilbyr også nivåregulering som funksjon av belastning.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/adaptaiveairsuspensionsport.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/adaptaiveairsuspensionsports.jpg" class="img-fluid" alt="Audi e-tron S med adaptiv luftfjæring sport" title="Audi e-tron S med adaptiv luftfjæring sport">
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/adaptaiveairsuspensionsport.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/adaptaiveairsuspensionsports.webp" class="img-fluid" alt="Audi e-tron S med adaptiv luftfjæring sport" title="Audi e-tron S med adaptiv luftfjæring sport">
     </a>
     <figcaption><h4>Audi e-tron S med adaptiv luftfjæring sport</h4></figcaption>
 </figure>
@@ -29,8 +29,8 @@ Adaptiv luftfjæring har alternativ-ID **1BK** og adaptiv luftfjæring sport har
 ## Regulerende egenskaper
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/audidriveselect.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/audidriveselects.png" class="img-fluid" alt="Audi Drive Select-alternativer juster kjørehøyder" title="Audi Drive Select-alternativer juster kjørehøyder">
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/audidriveselect.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/audidriveselects.webp" class="img-fluid" alt="Audi Drive Select-alternativer juster kjørehøyder" title="Audi Drive Select-alternativer juster kjørehøyder">
     </a>
     <figcaption><h4>Audi Drive Select-alternativer juster kjørehøyder</h4></figcaption>
 </figure>
@@ -41,8 +41,8 @@ På andre Audier som Q7 og Q8 er Adaptive Sports Suspension 1 cm lavere. Men sli
 Diagrammet under viser hvordan dette justeres avhengig av hastighet.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/suspensionmode.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/suspensionmode.png" class="img-fluid" alt="Justering av adaptiv luftfjæring i forskjellige moduser" title="Justering av adaptiv luftfjæring i forskjellige moduser">
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/suspensionmode.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/suspensionmode.webp" class="img-fluid" alt="Justering av adaptiv luftfjæring i forskjellige moduser" title="Justering av adaptiv luftfjæring i forskjellige moduser">
     </a>
     <figcaption><h4>Justering av adaptiv luftfjæring i forskjellige moduser</h4></figcaption>
 </figure>

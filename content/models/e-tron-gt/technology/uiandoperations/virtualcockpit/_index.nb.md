@@ -10,8 +10,8 @@ Den virtuelle cockpit-skjermen har en full HD-oppløsning på 1 920 x 720 piksle
 Displayet viser et bredt spekter av informasjon klart og i ryddig, skarp, svært detaljert grafikk. Den inkluderer tradisjonell hastighet, batteristatus, strømlinjetall samt informasjon om navigasjon, media og førerassistentsystemer. Faste indikatorer vises langs den nedre kanten; de viser utetemperatur, klokkeslett og kilometerstand samt advarsels- og informasjonssymboler. Bildet oppdateres 60 ganger i sekundet slik at den virtuelle nålen til turtelleren følger jevnt og svært presist.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/virtualcockpit/viewcontrol.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/virtualcockpit/viewcontrols.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/uiandoperations/virtualcockpit/viewcontrol.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/uiandoperations/virtualcockpit/viewcontrols.webp"
         class="img-fluid" alt="Virtuell cockpitvisning styres på rattet" title="Virtuell cockpitvisning styres på rattet">
     </a>
     <figcaption><h4>Virtuell cockpitvisning styres på rattet</h4></figcaption>
@@ -26,8 +26,8 @@ Det er forskjellige moduser å velge mellom
 Modusen kan velges i MMI
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/virtualcockpit/virtualcockpit_settings.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/virtualcockpit/virtualcockpit_settingss.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/uiandoperations/virtualcockpit/virtualcockpit_settings.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/uiandoperations/virtualcockpit/virtualcockpit_settingss.webp"
         class="img-fluid" alt="Virtual cockpit modes" title="Virtual cockpit modes">
     </a>
     <figcaption><h4>Virtual cockpit modes</h4></figcaption>
@@ -38,16 +38,16 @@ Modusen kan velges i MMI
 Nedenfor ser du noen av modusene og visningene som er tilgjengelige i Virtual Cockpit
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/virtualcockpit/virtualcockpit_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/virtualcockpit/virtualcockpit_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/uiandoperations/virtualcockpit/virtualcockpit_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/uiandoperations/virtualcockpit/virtualcockpit_1s.webp"
         class="img-fluid" alt="Virtual cockpit" title="Virtual cockpit">
     </a>
     <figcaption><h4>Virtual cockpit</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/virtualcockpit/virtualcockpit_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/virtualcockpit/virtualcockpit_2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/uiandoperations/virtualcockpit/virtualcockpit_2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/uiandoperations/virtualcockpit/virtualcockpit_2s.webp"
         class="img-fluid" alt="Virtual cockpit" title="Virtual cockpit">
     </a>
     <figcaption><h4>Virtual cockpit</h4></figcaption>

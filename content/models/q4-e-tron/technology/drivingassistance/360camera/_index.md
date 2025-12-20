@@ -8,8 +8,8 @@ weight: 1
 A virtual overhead view shown in the MMI display gives the driver an overview of the overall parking situation. The panoramic view to the front and rear covers an angle of nearly 180 degrees and provides better visibility when exiting tight parking spaces, courtyard entrances and confusing intersections. Guide lines in the reversing camera view make it easier to park in perpendicular spaces and to hitch trailers. The view from the front camera helps when maneuvering, as it detects obstacles in front of the car. The system is automatically activated when driving in reverse or by pushing a button.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/360camera/360camera.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/360camera/360cameras.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/drivingassistance/360camera/360camera.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/360camera/360cameras.webp"
         class="img-fluid" alt="360 camera Audi Q4 e-tron" title="360 camera Audi Q4 e-tron">
     </a>
     <figcaption><h4>360 camera Audi Q4 e-tron</h4></figcaption>

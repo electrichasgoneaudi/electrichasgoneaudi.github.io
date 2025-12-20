@@ -7,7 +7,7 @@ weight: 7
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 
-{{< sitefiguresized thumb="models/a6-e-tron/drivetrain/drivetrain_1_st.jpg" width="3000" height="1640" title="Audi a6 e-tron drivetrain" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/drivetrain/drivetrain_1_st.webp" width="3000" height="1640" title="Audi a6 e-tron drivetrain" >}}
 
 Powerful, compact, and highly efficient electric motors and a lithium-ion battery newly developed for the PPE consisting of twelve modules and 180 prismatic cells with a total gross capacity of 100 kWh (94.9 kWh net) ensure a range of up to 756 kilometers (A6 Sportback e-tron1 ) and up to 720 kilometers (A6 Avant e-tron ). With a system output of up to 270 kW in the A6 Sportback/Avant e-tron performance (power consumption in kWh/100 km (62.1 mi) combined: 17.0-14.0; CO2 emissions in g/km combined: 0; CO2 class: A), the new Audi A6 e-tron provides the sporty driving experience Audi is known for. The Audi A6 e-tron performance12 accelerates from zero to 100 km/h in 5.4 seconds. Its top speed is 210 km/h. The S6 e-tron provides a system output of 370 kW (405 kW with launch control).
 
@@ -34,7 +34,7 @@ The rear-biased all-wheel drive system in the Audi S6 e-tron enhances the drivin
 Below you find details about the most important components of that drivetrain.
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="battery/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/drivetrain/battery/battery_2_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron lights" ></a>
+	<a href="battery/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/battery/battery_2_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron lights" ></a>
 	<h2>Battery</h2>
 	<p>
 		Audi A6 e-tron offers two battery sizes
@@ -44,7 +44,7 @@ Below you find details about the most important components of that drivetrain.
 
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="suspension/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/drivetrain/suspension/suspension_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron suspension" ></a>
+	<a href="suspension/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/suspension/suspension_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron suspension" ></a>
 	<h2>Suspension</h2>
 	<p>
 		Audi A6 e-tron offers three different suspension options
@@ -53,7 +53,7 @@ Below you find details about the most important components of that drivetrain.
 </div>
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="motor/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/drivetrain/motors/rearmotor_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron motors" ></a>
+	<a href="motor/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/motors/rearmotor_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron motors" ></a>
 	<h2>Motors</h2>
 	<p>
 		Audi A6 e-tron offers different motor setup

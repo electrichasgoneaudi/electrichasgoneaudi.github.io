@@ -23,8 +23,8 @@ Luftkvalitetspakken inkluderer en partikkelmålesensor. Den bestemmer nivået av
 Alternativ-ID **2V9**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/airquality/airqualitypackage.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/airquality/airqualitypackages.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/airquality/airqualitypackage.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/airquality/airqualitypackages.webp"
         class="img-fluid" alt="Luftkvalitetspakkesystem" title="Luftkvalitetspakkesystem">
     </a>
     <figcaption><h4>Luftkvalitetspakkesystem</h4></figcaption>

@@ -9,8 +9,8 @@ weight: 1
 
  Parking system rear is standar on the Audi Q4 e-tron. Optional ID **7X1**
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/parkingsystemrear/parkingsystemrear.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/parkingsystemrear/parkingsystemrears.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/parkingsystemrear/parkingsystemrear.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/parkingsystemrear/parkingsystemrears.webp"
         class="img-fluid" alt="Parking system rear with sensors in back on Audi Q4 e-tron combined with reversing camera" title="Parking system rear with sensors in back on Audi Q4 e-tron combined with reversing camera">
     </a>
     <figcaption><h4>Parking system rear with sensors in back on Audi Q4 e-tron combined with reversing camera</h4></figcaption>
@@ -18,8 +18,8 @@ weight: 1
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/sensorsrear.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/sensorsrears.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/sensorsrear.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/sensorsrears.webp"
         class="img-fluid" alt="Location of rear parking sensors on Audi Q4 e-tron" title="Location of rear parking sensors on Audi Q4 e-tron">
     </a>
     <figcaption><h4>Location of rear parking sensors on Audi Q4 e-tron</h4></figcaption>

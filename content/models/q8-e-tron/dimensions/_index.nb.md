@@ -12,8 +12,8 @@ Foreløpig vises skisse for Audi e-tron sportback. Bildet oppdateres når Audi f
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/dimensions/suvdim.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/dimensions/suvdim_st.jpg" class="img-fluid" class="img-fluid" alt="Dimensions e-tron" title="Dimensions e-tron">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/dimensions/suvdim.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/dimensions/suvdim_st.webp" class="img-fluid" class="img-fluid" alt="Dimensions e-tron" title="Dimensions e-tron">
     </a>
     <figcaption><h4>Dimensions Q8 e-tron</h4></figcaption>
 </figure>
@@ -21,8 +21,8 @@ Foreløpig vises skisse for Audi e-tron sportback. Bildet oppdateres når Audi f
 ## Audi Q8 Sportback e-tron 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/dimensions/dimensionsb.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/dimensions/dimensionsbs.png" class="img-fluid" class="img-fluid" alt="Dimensjoner e-tron Sportback" title="Dimensjoner e-tron Sportback">
+    <a href="https://media.evkx.net/ehga/models/e-tron/dimensions/dimensionsb.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/dimensions/dimensionsbs.webp" class="img-fluid" class="img-fluid" alt="Dimensjoner e-tron Sportback" title="Dimensjoner e-tron Sportback">
     </a>
     <figcaption><h4>Dimensjoner e-tron Sportback</h4></figcaption>
 </figure>

@@ -7,8 +7,8 @@ weight: 99990
 <!-- markdownlint-disable MD033 -->
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere1_mt.jpg" class="img-fluid" alt="Audi activesphere concept" title="Audi activesphere concept">
+    <a href="https://media.evkx.net/ehga/articles/activesphere/activesphere1.webp">
+        <img src="https://media.evkx.net/ehga/articles/activesphere/activesphere1_mt.webp" class="img-fluid" alt="Audi activesphere concept" title="Audi activesphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept</h4></figcaption>
 </figure>
@@ -32,8 +32,8 @@ Dette betyr at all førerrelevant informasjon, som kjørestatus og navigasjon, k
 Som en perfekt allrounder er Audi activesphere-konseptet ideelt egnet for de høye kravene til en fremtidsrettet generasjon Audi-kunder – mennesker for hvem individuell mobilitet og bærekraft ikke utelukker hverandre. Også eiere som forventer at kjøretøyet deres leverer merkets typiske estetikk og dynamikk i høyeste grad, kombinert med fremtidsrettet teknologi. For disse kundene fungerer Audi activesphere-konseptet som en fascinerende visjon om å krysse grensene mellom disse dimensjonene.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere2.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere2_mt.jpeg" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
+    <a href="https://media.evkx.net/ehga/articles/activesphere/activesphere2.webp">
+        <img src="https://media.evkx.net/ehga/articles/activesphere/activesphere2_mt.webp" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept</h4></figcaption>
 </figure>
@@ -54,8 +54,8 @@ Glassflater utgjør en betydelig del av kjøretøyets kropp – og på ingen må
 Det er også glassflater på siden i det nedre dørområdet, som ser ut til å løse opp grensen mellom den naturlige verden og interiøret når den aktive sfæren er i off-road-modus. Den brede, buede bakluken har omfattende vinduer for optimal belysning, mens selve taket er gjennomsiktig og slipper inn rikelig med dagslys i interiøret.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere7.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere7_mt.jpeg" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
+    <a href="https://media.evkx.net/ehga/articles/activesphere/activesphere7.webp">
+        <img src="https://media.evkx.net/ehga/articles/activesphere/activesphere7_mt.webp" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept glass surface</h4></figcaption>
 </figure>
@@ -73,8 +73,8 @@ Som med sin slektning, Audi grandsphere concept, åpnes dørene til Audi actives
 Høyre og venstre over Singleframe ser de smale frontlysenhetene ut som fokuserte øyne. Lysenhetene gjengir logoen til merket med de fire ringene ved å forstørre og isolere skjæringspunktet mellom to ringer for å danne en pupill – en ny, umiskjennelig digital lyssignatur som Audi først introduserte i Audi grandsphere: Audi eye. I den aktive sfæren er denne signaturen nå variert – kjøremoduser på vei og terreng har hver sin variant. Kjørelys og baklys bruker ultrafin mikro-LED-teknologi for enda større presisjon og kontrast.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere5.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere5_mt.jpeg" class="img-fluid" alt="Audi activesphere concept" title="Audi activesphere concept">
+    <a href="https://media.evkx.net/ehga/articles/activesphere/activesphere5.webp">
+        <img src="https://media.evkx.net/ehga/articles/activesphere/activesphere5_mt.webp" class="img-fluid" alt="Audi activesphere concept" title="Audi activesphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept</h4></figcaption>
 </figure>
@@ -86,8 +86,8 @@ Audi activesphere-konseptet krysser grenser, noe som betyr at det er en mester i
 Om nødvendig er de gjennomsiktige bakrutegliderne nesten i flukt med taket på Audi activesphere. Samtidig foldes det nedre, vertikale segmentet av baksiden horisontalt – dette åpner for en rikelig lasteseng kalt den aktive baksiden som har braketter for for eksempel e-sykler. Sideflatene bak, C-stolpene, forblir på plass for å opprettholde den aktive sfærens dynamiske silhuett, mens et motorisert skott utløses bak baksetene for å isolere kabinen fra elementene.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere8.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere8_mt.jpeg" class="img-fluid" alt="Audi activesphere concept" title="Audi activesphere concept">
+    <a href="https://media.evkx.net/ehga/articles/activesphere/activesphere8.webp">
+        <img src="https://media.evkx.net/ehga/articles/activesphere/activesphere8_mt.webp" class="img-fluid" alt="Audi activesphere concept" title="Audi activesphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept with bikes</h4></figcaption>
 </figure>
@@ -102,8 +102,8 @@ Med den revurderingen endres selve designprosessen. I begynnelsen av alle diskus
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere4.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere4_mt.jpeg" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
+    <a href="https://media.evkx.net/ehga/articles/activesphere/activesphere4.webp">
+        <img src="https://media.evkx.net/ehga/articles/activesphere/activesphere4_mt.webp" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept</h4></figcaption>
 </figure>
@@ -119,8 +119,8 @@ De fire individuelle setene er opphengt som forlengelser av den høye midtkonsol
 Når Audi activesphere-konseptet kjører i autonom modus, forsvinner dashbordet, rattet og pedalene i en usynlig posisjon. Spesielt i første seterad åpner det seg et stort rom foran føreren, som strekker seg til frontenden av den aktive sfæren – og utover. For et klart synsfelt gir den helglassede Singleframe passasjerene uhindret utsikt over veien foran.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere8.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere8_mt.jpeg" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
+    <a href="https://media.evkx.net/ehga/articles/activesphere/activesphere8.webp">
+        <img src="https://media.evkx.net/ehga/articles/activesphere/activesphere8_mt.webp" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept autonomous mode</h4></figcaption>
 </figure>
@@ -140,8 +140,8 @@ Midtpunktet i det nye systemet er innovative mixed reality-headset – tilgjenge
 I de tidlige dagene var VR-briller begrenset til å skildre en virtuell virkelighet uten noen virkelige elementer. Teknologien utviklet seg imidlertid til utvidet virkelighet, der den virkelige verden overlappes med virtuelt innhold. Blandet virkelighet er nå i stand til å skildre virtuelt innhold med romlig referanse til den virkelige verden i tre dimensjoner. Det er ingen tvil om det: I fremtiden vil blandet virkelighet ta mulighetene til AR head-up-skjermer til et helt nytt nivå når det gjelder fleksibilitet, presisjon og visningsbart innhold.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere6.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/activesphere/activesphere6_mt.jpeg" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
+    <a href="https://media.evkx.net/ehga/articles/activesphere/activesphere6.webp">
+        <img src="https://media.evkx.net/ehga/articles/activesphere/activesphere6_mt.webp" class="img-fluid" alt="Audi activesphere concept" title="Audi grandsphere concept">
     </a>
     <figcaption><h4>Audi activesphere concept</h4></figcaption>
 </figure>

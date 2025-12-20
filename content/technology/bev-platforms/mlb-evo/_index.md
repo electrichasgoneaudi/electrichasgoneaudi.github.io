@@ -18,8 +18,8 @@ electric mobility with Audi quality: A sophisticated drive and recuperation syst
 drive and maximum comfort. In short: Vorsprung durch Technik.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/mlb-evo/mlbevo1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/mlb-evo/mlbevo1s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/bev-platforms/mlb-evo/mlbevo1.webp">
+        <img src="https://media.evkx.net/ehga/technology/bev-platforms/mlb-evo/mlbevo1s.webp"
         class="img-fluid" alt="Audi MLB evo platform" title="Audi MLB evo platform">
     </a>
     <figcaption><h4>Audi MLB evo platform</h4></figcaption>
@@ -35,8 +35,8 @@ Audi e-tron is available both with a 2 motor setup and a 3 motor setup, making i
 Read all details about [e-tron motors](/models/e-tron/drivetrain/motor).
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/mlb-evo/mlbevo2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/mlb-evo/mlbevo2s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/bev-platforms/mlb-evo/mlbevo2.webp">
+        <img src="https://media.evkx.net/ehga/technology/bev-platforms/mlb-evo/mlbevo2s.webp"
         class="img-fluid" alt="Audi MLB evo platform with 3 motors" title="Audi MLB evo platform with 3 motors">
     </a>
     <figcaption><h4>Audi MLB evo platform with 3 motors</h4></figcaption>

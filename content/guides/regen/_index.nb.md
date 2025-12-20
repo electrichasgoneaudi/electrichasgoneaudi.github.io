@@ -23,8 +23,8 @@ Ved lett bremsing brukes kun den bakre motoren, men ved svinger eller hard brems
 Bremsesystemet kan også blande inn sømløst de fysiske bremsene (skiver/klosser) om nødvendig. Dette skjer ved hard bremsing.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/recuperation.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/recuperations.png" class="img-fluid" alt="Coasting regneration" title="Coasting regneration">
+    <a href="https://media.evkx.net/ehga/guides/regen/recuperation.webp">
+        <img src="https://media.evkx.net/ehga/guides/regen/recuperations.webp" class="img-fluid" alt="Coasting regneration" title="Coasting regneration">
     </a>
     <figcaption><h4>Coasting regneration</h4></figcaption>
 </figur>
@@ -52,8 +52,8 @@ La oss ta Pikes Peak som et eksempel. Dette fjellet er 4300 meter høyt, og hvis
 1993 meter for en Audi e-tron 55 på 2900 kg er 15,74 kWh i potensiell energi. Stigningen er i snitt 6.6% for denne strekningen.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/pikespeak.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/pikespeaks.jpg" class="img-fluid" alt="Kjøre ned Pikes Peak i Audi e-tron" title="Kjøre ned Pikes Peak i Audi e-tron">
+    <a href="https://media.evkx.net/ehga/guides/regen/pikespeak.webp">
+        <img src="https://media.evkx.net/ehga/guides/regen/pikespeaks.webp" class="img-fluid" alt="Kjøre ned Pikes Peak i Audi e-tron" title="Kjøre ned Pikes Peak i Audi e-tron">
     </a>
     <figcaption><h4>Audi e-tron på vei ned Pikes Peak</h4></figcaption>
 </figur>
@@ -73,8 +73,8 @@ I videoen under ser du en virkelig test av akkurat denne turen og hvor mye de kl
 I dette scenariet beveger bilen seg i 120,7 km/t (75 mph) og må stoppe for rødt lys.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/stops.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/stops.jpg" class="img-fluid" alt="Full stop fra 120 km/t" title="Full stop fra 120 km/t">
+    <a href="https://media.evkx.net/ehga/guides/regen/stops.webp">
+        <img src="https://media.evkx.net/ehga/guides/regen/stops.webp" class="img-fluid" alt="Full stop fra 120 km/t" title="Full stop fra 120 km/t">
     </a>
     <figcaption><h4>Full stop fra 120 km/t</h4></figcaption>
 </figure>
@@ -90,8 +90,8 @@ Dette betyr en forbruksreduksjon på 3,8kWh/100km.
 ### Scenario 3: Reduser hastigheten fra 48 km/t til helt stopp
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/fullstop.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/fullstops.jpg" class="img-fluid" alt="Bykjøring" title="Bykjøring">
+    <a href="https://media.evkx.net/ehga/guides/regen/fullstop.webp">
+        <img src="https://media.evkx.net/ehga/guides/regen/fullstops.webp" class="img-fluid" alt="Bykjøring" title="Bykjøring">
     </a>
     <figcaption><h4>Bykjøring</h4></figcaption>
 </figure>
@@ -106,7 +106,7 @@ Dette reduserer energiforbruket med 6,05 kWh/100 km sammenlignet med en bil med 
 
 ### Scenario 4: Kjøring ned fra Saltfjellet
 
-![Saltfjellet](https://media.electrichasgoneaudi.net/multimedia/guides/regen/saltfjellet.jpg "Saltfjellet om vinteren")
+![Saltfjellet](https://media.evkx.net/ehga/guides/regen/saltfjellet.webp "Saltfjellet om vinteren")
 
 Dette fjellet ligger i Nord-Norge og hovedveien fra sør til nord går over det (E6).
 
@@ -200,8 +200,8 @@ Se [potensiell energikalkulator](https://www.omnicalculator.com/physics/potentia
 Grafen nedenfor viser den totale kinetiske energien og de to typene kinetisk energienergi
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/kinetic.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/kinetics.png" class="img-fluid" alt="Graf over kinetisk energi" title="Graf over kinetisk energi">
+    <a href="https://media.evkx.net/ehga/guides/regen/kinetic.webp">
+        <img src="https://media.evkx.net/ehga/guides/regen/kinetics.webp" class="img-fluid" alt="Graf over kinetisk energi" title="Graf over kinetisk energi">
     </a>
     <figcaption><h4>Graff over kinetisk energi</h4></figcaption>
 </figur>
@@ -215,8 +215,8 @@ Før vi gir deg et eksempel på hvor mye energi som kan regenereres, må vi fork
 En bil i bevegelse vil ha krefter basert på luftmotstand som vil presse mot bevegelsen.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/windtunnel.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/windtunnels.jpg" class="img-fluid" alt="Audi e-tron i vindtunnel" title="Audi e-tron i vindtunnel">
+    <a href="https://media.evkx.net/ehga/guides/regen/windtunnel.webp">
+        <img src="https://media.evkx.net/ehga/guides/regen/windtunnels.webp" class="img-fluid" alt="Audi e-tron i vindtunnel" title="Audi e-tron i vindtunnel">
     </a>
     <figcaption><h4>Audi e-tron i vindtunnel</h4></figcaption>
 </figur>
@@ -257,13 +257,13 @@ Dette tallet er et estimat. På våte veier eller veier med snø øker rullemots
 Diagrammet nedenfor viser det beregnede forbruket som er nødvendig for å overvinne luftmotstand og rullemotstand og forbruk fra batteriet basert på 80 % effektivitet av drivlinjen. Den reelle effektiviteten er ikke kjent, men tester viser at det ligger rundt 80 % for Audi e-tron.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/consumption.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/consumptions.png" class="img-fluid" alt="Kalkulert forbruk" title="Kalkulert forbruk">
+    <a href="https://media.evkx.net/ehga/guides/regen/consumption.webp">
+        <img src="https://media.evkx.net/ehga/guides/regen/consumptions.webp" class="img-fluid" alt="Kalkulert forbruk" title="Kalkulert forbruk">
     </a>
     <figcaption><h4>Beregnet forbruk</h4></figcaption>
 </figur>
 
-Se også [full tabell](https://media.electrichasgoneaudi.net/multimedia/guides/regen/consumptiontable.png) med kinetisk energi og forbruk for alle hastigheter fra 1–100 mph (1–161 km/t)
+Se også [full tabell](https://media.evkx.net/ehga/guides/regen/consumptiontable.webp) med kinetisk energi og forbruk for alle hastigheter fra 1–100 mph (1–161 km/t)
 
 ## Er regenerering alltid det beste alternativet?
 
@@ -304,8 +304,8 @@ Denne typen økning kan du til og med se i scenarier der det ikke er noen regene
 Den eneste måten å vite hvor mye du har regenerert er å se på hvor mye ladetilstanden til batteriet endres fra topp til bunn av fjellet.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/soc.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/soc.jpg" class="img-fluid" alt="Ladetilstand, den eneste måten å se hvor mye du har regenerert" title="Ladetilstand, den eneste måten å se hvor mye du har regenerert">
+    <a href="https://media.evkx.net/ehga/guides/regen/soc.webp">
+        <img src="https://media.evkx.net/ehga/guides/regen/soc.webp" class="img-fluid" alt="Ladetilstand, den eneste måten å se hvor mye du har regenerert" title="Ladetilstand, den eneste måten å se hvor mye du har regenerert">
     </a>
     <figcaption><h4>Ladetilstand, den eneste måten å se hvor mye du har regenerert</h4></figcaption>
 </figure>

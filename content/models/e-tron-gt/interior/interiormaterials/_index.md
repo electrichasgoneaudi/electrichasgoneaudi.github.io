@@ -10,32 +10,32 @@ There are serveral levels of interior trim and different design packages.
 ## Standard
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_1s.jpg" 
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_1s.webp" 
         class="img-fluid" alt="Standard interior trim" title="Standard interior trim">
     </a>
     <figcaption><h4>Standard interior trim</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_2.jpg" 
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_2.webp" 
         class="img-fluid" alt="Standard interior trim" title="Standard interior trim">
     </a>
     <figcaption><h4>Standard interior trim</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_3s.jpg" 
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_3s.webp" 
         class="img-fluid" alt="Standard dashboard with syntetic leather and carbon inlay" title="Standard dashboard with syntetic leather and carbon inlay">
     </a>
     <figcaption><h4>Standard dashboard with syntetic leather and carbon inlay</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_4s.jpg" 
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_4.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_4s.webp" 
         class="img-fluid" alt="Standard dashboard with syntetic leather and carbon inlay" title="Standard dashboard with syntetic leather and carbon inlay">
     </a>
     <figcaption><h4>Standard dashboard with syntetic leather and carbon inlay</h4></figcaption>
@@ -94,16 +94,16 @@ Black stitching
 Note: can only be ordered in conjunction with front sports seats plus
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEH_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEH_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_PEH_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_PEH_1s.webp"
         class="img-fluid" alt="Leather free interior design package" title="Leather free interior design package">
     </a>
     <figcaption><h4>Leather free interior design package</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEH_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEH_2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_PEH_2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_PEH_2s.webp"
         class="img-fluid" alt="Leather free interior design package" title="Leather free interior design package">
     </a>
     <figcaption><h4>Leather free interior design package</h4></figcaption>
@@ -121,16 +121,16 @@ The packages include
 - Red or grey stitchings
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEF_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEF_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_PEF_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_PEF_1s.webp"
         class="img-fluid" alt="RS Design package with red stiching" title="RS Design package with red stiching">
     </a>
     <figcaption><h4>RS Design package with red stiching</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEF_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEF_2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_PEF_2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_PEF_2s.webp"
         class="img-fluid" alt="RS Design package with red stiching" title="RS Design package with red stiching">
     </a>
     <figcaption><h4>RS Design package with red stiching</h4></figcaption>
@@ -141,8 +141,8 @@ The packages include
 This is option id **YVA**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_YVA_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_YVA_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_YVA_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_YVA_1s.webp"
         class="img-fluid" alt="Cognac brown interior. Photo by Auditography" title="Cognac brown interior. Photo by Auditography">
     </a>
     <figcaption><h4>Cognac brown interior. Photo by Auditography</h4></figcaption>

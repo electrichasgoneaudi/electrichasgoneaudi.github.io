@@ -19,8 +19,8 @@ motorstartautorisasjonen frigis også uten aktiv betjening av komfortnøkkel.
 For å gjøre dette må sjåføren sitte i kjøretøyet og ha med seg komfortnøkkelen.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/startbutton.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/startbutton.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/lockingsystems/startbutton.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/lockingsystems/startbutton.webp"
         class="img-fluid" alt="Midtkonsoll med start/stopp-knapp" title="Midtkonsoll med start/stopp-knapp">
     </a>
     <figcaption><h4>Midtkonsoll med start/stopp-knapp</h4></figcaption>
@@ -31,8 +31,8 @@ Motoren startes og slås av ved hjelp av motorstart-stopp-knappen i midtkonsolle
 En høykvalitets visuell differensiering på toppen og bunnen av nøkkelen gjennom høyglans sorte komponenter og metallspenner i aluminiumslook gjør de innovative funksjonene til bekvemmelighetstasten synlige.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/advancekey.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/advancekeys.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/lockingsystems/advancekey.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/lockingsystems/advancekeys.webp"
         class="img-fluid" alt="Audi Advance key" title="Audi Advance key">
     </a>
     <figcaption><h4>Audi Advance key</h4></figcaption>

@@ -9,8 +9,8 @@ weight: 1
 Audi MMI® (Multi Media Interface)-systemet ble laget for å strømlinjeforme kontrollene for lyd, kjøretøyinnstillinger og tilgjengelig navigasjon under et felles grensesnitt, og dermed redusere antall knapper for et renere interiør.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/mmi/both_screens_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/mmi/both_screens_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/mmi/both_screens_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/mmi/both_screens_1s.webp"
         class="img-fluid" alt="Audi MMI touch" title="Audi MMI touch">
     </a>
     <figcaption><h4>Audi MMI touch</h4></figcaption>
@@ -26,8 +26,8 @@ Smarte detaljerte løsninger gjør det enda mer attraktivt å bruke den nye tekn
 Det nedre displayet i midtkonsollen brukes til å betjene klimaanlegget og bekvemmelighetsfunksjonene. Sjåføren kan lagre foretrukne funksjoner som favoritter. Skjermen har en 8,6-tommers diagonal og en skjermoppløsning på 1280 x 660 piksler.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/mmi/second_screen_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/mmi/second_screen_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/mmi/second_screen_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/mmi/second_screen_1s.webp"
         class="img-fluid" alt="Nedre skjerm" title="Nedre skjerm">
     </a>
     <figcaption><h4>Nedre skjerm</h4></figcaption>
@@ -40,7 +40,7 @@ Overflatene på de to skjermene har en type anti-fingeravtrykkbelegg. Dette gjø
 
 ## Menu overvierw
 
-The [following document](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/mmi/MMI%20Menu%20overview.pdf) presents the full menu overview
+The [following document](https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/mmi/MMI%20Menu%20overview.pdf) presents the full menu overview
 
 
 {{<children description="true" />}}

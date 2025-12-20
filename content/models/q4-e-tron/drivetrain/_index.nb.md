@@ -7,8 +7,8 @@ weight: 6
 <!-- markdownlint-disable MD033 -->
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/drivetrain.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/drivetrains.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/drivetrain.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/drivetrains.webp"
         class="img-fluid" alt="Audi Q4 e-tron drivetrain" title="Audi Q4 e-tron drivetrain">
     </a>
     <figcaption><h4>Audi Q4 e-tron drivetrain</h4></figcaption>

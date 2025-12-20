@@ -19,8 +19,8 @@ the engine start authorization is also released without actively actuating the c
 To do this, the driver must sit in the vehicle and carry the convenience key with him.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/startbutton.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/startbutton.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/lockingsystems/startbutton.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/lockingsystems/startbutton.webp"
         class="img-fluid" alt="Center console with start/stop button" title="Center console with start/stop button">
     </a>
     <figcaption><h4>Center console with start/stop button</h4></figcaption>
@@ -31,8 +31,8 @@ The engine is started and switched off using the engine start-stop button in the
 A high-quality visual differentiation on the top and bottom of the key through high-gloss black components and metal clasps in aluminum look make the innovative functions of the convenience key visible.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/advancekey.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/advancekeys.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/lockingsystems/advancekey.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/lockingsystems/advancekeys.webp"
         class="img-fluid" alt="Audi Advance key" title="Audi Advance key">
     </a>
     <figcaption><h4>Audi Advance key</h4></figcaption>
@@ -51,8 +51,8 @@ The package includes the following special equipment:
 The luggage compartment lid can be conveniently unlocked with a foot gesture (kick movement) at the rear.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/tailgate_buttons.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lockingsystems/tailgate_buttonss.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/lockingsystems/tailgate_buttons.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/lockingsystems/tailgate_buttonss.webp"
         class="img-fluid" alt="The tailgate can be closed with buttons and locked" title="The tailgate can be closed with buttons and locked">
     </a>
     <figcaption><h4>The tailgate can be closed with buttons and locked</h4></figcaption>

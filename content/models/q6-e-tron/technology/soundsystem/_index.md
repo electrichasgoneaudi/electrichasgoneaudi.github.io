@@ -19,7 +19,7 @@ A small speaker in each A‑pillar reproduces the effect of height; the windshie
 
 With this multi-faceted interior, which Audi recognizes as “the center of our customers’ lives and experiences,” the Q6 e-tron fulfills its user’s needs through design and technology in ways not previously possible.
 
-{{< sitefiguresized thumb="models/q6-e-tron/technology/soundsystem/soundsystem_1_st.jpg" width="3000" height="1783" title="Bang & Olufsen sound system with 20 speakers" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/soundsystem/soundsystem_1_st.webp" width="3000" height="1783" title="Bang & Olufsen sound system with 20 speakers" >}}
 
 
 

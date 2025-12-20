@@ -9,8 +9,8 @@ weight: 1
 Up to five radar sensors, five cameras, and 12 ultrasonic sensors provide environmental information analyzed by the central driver assistance control unit.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/technology/drivingassistance/sensors.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/technology/drivingassistance/sensors_st.jpg"
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/technology/drivingassistance/sensors.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/technology/drivingassistance/sensors_st.webp"
         class="img-fluid" alt="Audi Q8 e-tron - sensors and cameraes" title="Audi Q8 e-tron - sensors and cameraes">
     </a>
     <figcaption><h4>Audi Q8 e-tron - sensors and cameraes</h4></figcaption>

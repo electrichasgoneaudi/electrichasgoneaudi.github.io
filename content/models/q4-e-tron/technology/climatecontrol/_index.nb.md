@@ -16,8 +16,8 @@ Anlegget har følgende egenskaper.
 Kontrollene er plassert rett under MMI-skjermen.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/ac1zonecontrol.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/ac1zonecontrols.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/climatecontrol/ac1zonecontrol.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/climatecontrol/ac1zonecontrols.webp"
         class="img-fluid" alt="AC-en har et eget kontrollpanel under MMI-skjermen" title="AC-en har et eget kontrollpanel under MMI-skjermen">
     </a>
     <figcaption><h4>AC-en har et eget kontrollpanel under MMI-skjermen</h4></figcaption>
@@ -30,8 +30,8 @@ Som ekstrautstyr kan du bestille et 3-soners klimakontrollsystem.
 I front betyr dette at passasjer og sjåfør kan ha individuelt innstilte temperaturer.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/ac3zonecontrol.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/ac3zonecontrols.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/climatecontrol/ac3zonecontrol.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/climatecontrol/ac3zonecontrols.webp"
         class="img-fluid" alt="3-soners klimakontrollsystem med individuell temp for sjåfør/passasjer" title="3-soners klimakontrollsystem med individuell temp for sjåfør/passasjer">
     </a>
     <figcaption><h4>3-soners klimakontrollsystem med individuell temp for sjåfør/passasjer</h4></figcaption>
@@ -40,8 +40,8 @@ I front betyr dette at passasjer og sjåfør kan ha individuelt innstilte temper
 3-soners klimanlegg gir passasjerene i baksetet egne luftdyser samt et eget panel hvor de kan justere baksonen.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/rearaccontrol.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/rearaccontrols.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/climatecontrol/rearaccontrol.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/climatecontrol/rearaccontrols.webp"
         class="img-fluid" alt="AC-en har et separat kontrollpanel for baksetene" title="AC-en har et separat kontrollpanel for baksetene">
     </a>
     <figcaption><h4>AC-en har et separat kontrollpanel for baksetene</h4></figcaption>
@@ -68,8 +68,8 @@ Du kan få parkeringsklimanlegg med ekstra komfort som ekstrautstyr. Med dette a
 Komfort førklimatisering er en del av [klima- og vinterpakken](/models/q4-e-tron/optionguide/list/#equipment-packages) med opsjon id WNW.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/conviencesettingsnb.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/conviencesettingsnbs.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/climatecontrol/conviencesettingsnb.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/climatecontrol/conviencesettingsnbs.webp"
         class="img-fluid" alt="Komfortinnstillinger" title="Komfortinnstillinger">
     </a>
     <figcaption><h4>Komfortinnstillinger</h4></figcaption>

@@ -16,8 +16,8 @@ It is meant for use when a fixed level 2 or level 3 installation is not availabl
 In the US the charging system has a [J1772 connector](https://en.wikipedia.org/wiki/SAE_J1772) to connect to the car, while in Europe it has a [Type 2 connector](https://en.wikipedia.org/wiki/Type_2_connector).
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/chargingsystem/chargeport_right.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/chargingsystem/chargeport_rights.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/chargingsystem/chargeport_right.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/chargingsystem/chargeport_rights.webp"
         class="img-fluid" alt="Type 2 Chargeport" title="Type 2 Chargeport">
     </a>
     <figcaption><h4>Type 2 Chargeport</h4></figcaption>
@@ -31,16 +31,16 @@ It comes in different versios based on the country it sells. In some countries i
 between a 230-volt system and a 400-volt system when ordering the car.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/chargingsystem/chargingsystemcompact2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/chargingsystem/chargingsystemcompact2.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/chargingsystem/chargingsystemcompact2.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/chargingsystem/chargingsystemcompact2.webp"
         class="img-fluid" alt="Charging system compact" title="Charging system compact">
     </a>
     <figcaption><h4>Charging system compact</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/chargingsystem/chargingsystemcompact.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/chargingsystem/chargingsystemcompacts.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/chargingsystem/chargingsystemcompact.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/chargingsystem/chargingsystemcompacts.webp"
         class="img-fluid" alt="Charging system compact" title="Charging system compact">
     </a>
     <figcaption><h4>Charging system compact</h4></figcaption>
@@ -70,16 +70,16 @@ install a hardwired charging system. This is not a specific Audi issue, but rele
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/burned_nema_14_50.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/burned_nema_14_50s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/chargingsystem/burned_nema_14_50.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/chargingsystem/burned_nema_14_50s.webp"
         class="img-fluid" alt="Burned nema 14-50 outlet used for Audi e-tron" title="Burned nema 14-50 outlet used for Audi e-tron">
     </a>
     <figcaption><h4>Burned nema 14-50 outlet used for Audi e-tron</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/burned_nema_14_50_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/burned_nema_14_50_2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/chargingsystem/burned_nema_14_50_2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/chargingsystem/burned_nema_14_50_2s.webp"
         class="img-fluid" alt="Burned nema 14-50 outlet used for Audi e-tron" title="Burned nema 14-50 outlet used for Audi e-tron">
     </a>
     <figcaption><h4>Burned nema 14-50 outlet used for Audi e-tron</h4></figcaption>
@@ -90,8 +90,8 @@ For home use you should install a hardwired charging solution. There exist many 
 They run on 230/240 or 400 volt depending on network in your home.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/audiwallbox.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/audiwallboxs.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/chargingsystem/audiwallbox.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/chargingsystem/audiwallboxs.webp"
         class="img-fluid" alt="Install a hard wired level 2 charging system" title="Install a hard wired level 2 charging system">
     </a>
     <figcaption><h4>Install a hard wired level 2 charging system</h4></figcaption>

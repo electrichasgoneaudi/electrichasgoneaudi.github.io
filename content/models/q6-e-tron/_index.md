@@ -13,7 +13,7 @@ Audi built the Q6 e-tron on the new [PPE platform](../../technology/bev-platform
 
 If you want to discuss this model with the electrichasgoneaudi community, join our [Audi Q6 e-tron Facebook group](https://www.facebook.com/groups/114120244068685). 
 
-{{< sitefiguresized thumb="models/q6-e-tron/q6dynamic_1_st.jpg" width="3000" height="1999" title="Audi SQ6 e-tron" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/q6dynamic_1_st.webp" width="3000" height="1999" title="Audi SQ6 e-tron" >}}
 
 
 ## Audi Q6 e-tron variants.
@@ -46,7 +46,7 @@ Black optics and black optics plus packages are options.
 
 It is the same with tinted windows and a panoramic roof.
 
-{{< sitefiguresized thumb="models/q6-e-tron/q6exterior_1_st.jpg" width="3000" height="2249" title="Audi SQ6 e-tron" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/q6exterior_1_st.webp" width="3000" height="2249" title="Audi SQ6 e-tron" >}}
 
 There are currently wheel options from 19 to 21 inches.
 
@@ -57,7 +57,7 @@ See all details in the [Audi Q6 e-tron exterior section](exterior/).
 
  The Audi Q6 e-tron has three different seat options: standard, sports, and sport plus seats, some with ventilation and some massage. It is available with an animal-free interior and an entire leather interior in different colors. There are also S-line interior options.
 
-{{< sitefiguresized thumb="models/q6-e-tron/interior/interior_5_st.jpg" width="3000" height="2249" title="Audi Q6 interior" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/interior/interior_5_st.webp" width="3000" height="2249" title="Audi Q6 interior" >}}
 
 See all the details in the [Audi Q6 e-tron interior section](interior/)
 
@@ -75,7 +75,7 @@ The battery with the launch to have the following specifications
 These batteries will give the Audi Q6 e-tron a WLTP of 625km, depending on the trim level for the 100kWh battery (15.18 kWh/100km). Thanks to 800-volt technology, the Q6 e-tron can be charged with a capacity of more than 270kW.
 
 
-{{< sitefiguresized thumb="models/q6-e-tron/drivetrain/battery/charging_1_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron with up to 270 KW charging" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/battery/charging_1_st.webp" width="3000" height="2249" title="Audi Q6 e-tron with up to 270 KW charging" >}}
 
 You can charge the battery from five to 80 percent in less than 25 minutes on an 800-volt 350KW charger.
 
@@ -96,7 +96,7 @@ The Audi Q6 e-tron comes in different performance versions.
 
 Audi will use different motor setups on the on the comming the variants.
 
-{{< sitefiguresized thumb="models/q6-e-tron/motors_st.jpg" width="1768" height="868" title="Motors for Audi Q6 e-tron" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/motors_st.webp" width="1768" height="868" title="Motors for Audi Q6 e-tron" >}}
 
 Audi uses permanently excited synchronous electric motors (PSM) with hairpin winding on the PPE platform for the rear motor and asynchronous motors on the front.
 Permanent magnets are fitted on the AC motor's rotor, generating a permanent magnetic field. As a result, compared to asynchronous motors (ASM), PSMs offer higher power and torque densities, greater efficiency, and better reproducibility of the power output.
@@ -113,7 +113,7 @@ The Audi Drive Select is combined with air suspension and steel suspension. The 
 
 With air suspension, depending on the speed, the body can be lowered in combination with the air suspension, improving the aerodynamics for an increased range.
 
-{{< sitefiguresized thumb="models/q6-e-tron/drivetrain/drivetrain_1_st.jpg" width="3000" height="1925" title="Audi Q6 e-tron drivetrain" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/drivetrain_1_st.webp" width="3000" height="1925" title="Audi Q6 e-tron drivetrain" >}}
 
 The wheel widths on the front and rear axles differs significantly to accommodate the rear-focused weight distribution – for more grip and driving dynamics. 
 
@@ -133,7 +133,7 @@ The Q6 e-tron not only marks a new chapter in electromobility at Audi; lighting 
 
 With second-generation digital OLED rear lights, the Audi Q6 e-tron is taking light design, range of functions, and road safety to a new level.
 
-{{< sitefiguresized thumb="models/q6-e-tron/technology/lights/headlights_1_st.jpg" width="3000" height="2250" title="Audi Q6 e-tron head lights" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/lights/headlights_1_st.webp" width="3000" height="2250" title="Audi Q6 e-tron head lights" >}}
 
 Read all about it in our [Audi Q6 e-tron  light section](technology/lights)
 
@@ -144,7 +144,7 @@ The Audi Q6 e-tron model series has a fully connected and digital interior based
 
 With the optional Augmented Reality Head-Up Display, another central element of the digital stage, Audi is taking a major step forward in display technology.
 
-{{< sitefiguresized thumb="models/q6-e-tron/technology/uiandoperations/virtualcockpit/virtualcockpit_1_st.jpg" width="1920" height="900" title="Audi Q6 e-tron with virtual cockpit and MMI Panorama" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/uiandoperations/virtualcockpit/virtualcockpit_1_st.webp" width="1920" height="900" title="Audi Q6 e-tron with virtual cockpit and MMI Panorama" >}}
 
 The new infotainment system uses  [Android Automotive](https://source.android.com/devices/automotive/start/what_automotive) OS as its operating system for the first time. Content is always up to date thanks to over-the-air updates. 
 
@@ -154,7 +154,7 @@ Read all about the new UI & MMI system in the [Audi Q6 e-tron UI & MMI sections]
 
 Audi Q6 e-tron to have a luggage compartment of 526 liters. It will also be available with a towbar, and the maximum capacity is 2400kg. It is also able to have 75kg load on the roof.  The frunk is 64 liters.
 
-{{< sitefiguresized thumb="models/q6-e-tron/transportation/frunk_1_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron frunk" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/transportation/frunk_1_st.webp" width="3000" height="2249" title="Audi Q6 e-tron frunk" >}}
 
 
 Read all about the transportation capabilites in the [Audi Q6 e-tron transportation capability sections](transportation)

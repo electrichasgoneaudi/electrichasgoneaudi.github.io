@@ -39,8 +39,8 @@ The Q4 35 e-tron battery consist of 8 battery modules with 12 cells in each modu
 | Pack weight | 344kg |
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/q4etron35battery.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/q4etron35batterys.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/battery/q4etron35battery.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/battery/q4etron35batterys.webp"
         class="img-fluid" alt="Q4 35 e-tron battery" title="Q4 35 e-tron battery">
     </a>
     <figcaption><h4>Q4 35 e-tron battery</h4></figcaption>
@@ -63,8 +63,8 @@ The Q4 35 e-tron battery consist of 8 battery modules with 12 cells in each modu
 | Pack density wH/kg | 166 |
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/q4etron40battery.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/q4etron40batterys.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/battery/q4etron40battery.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/battery/q4etron40batterys.webp"
         class="img-fluid" alt="Q4 40 e-tron / Q4 50 e-tron battery" title="Q4 40 e-tron / Q4 50 e-tron battery">
     </a>
     <figcaption><h4>Q4 40 e-tron / Q4 50 e-tron battery</h4></figcaption>
@@ -75,16 +75,16 @@ The Q4 35 e-tron battery consist of 8 battery modules with 12 cells in each modu
 The thermal management system aims to get the battery up to the ideal temperature range of around 30 degrees Celsius quickly after it is started and to keep it there until the end of the journey. This ensures that its full power – and therefore the power of the entire drive system – is available after a short time even in extremely cold conditions. Thanks to the stable thermal conditions, the driver can also call on it repeatedly or charge the battery at an HPC charging terminal with high output. The sophisticated thermal management system also gives the battery a long life cycle – Audi guarantees that it will still have at least 70 percent capacity after eight years of operation or after 160,000 kilometers.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/batterycooling.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/batterycoolings.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/battery/batterycooling.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/battery/batterycoolings.webp"
         class="img-fluid" alt="Thermal management Audi Q4 e-tron" title="Thermal management Audi Q4 e-tron">
     </a>
     <figcaption><h4>Thermal management Audi Q4 e-tron</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/battercooling2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/battercooling2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/battery/battercooling2.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/battery/battercooling2s.webp"
         class="img-fluid" alt="Cooling of the high-voltage battery via the chiller" title="Cooling of the high-voltage battery via the chiller">
     </a>
     <figcaption><h4>Cooling of the high-voltage battery via the chiller</h4></figcaption>
@@ -103,8 +103,8 @@ Below you see Sandy Munro go in details about the Q4 battery.
 The first generation of Audi Q4 e-tron had a max charging speed of 100KW for the Q4 e-tron 35 and 125KW for the Audi Q4 e-tron 40/45/50 with the charging curve below.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.webp"
         class="img-fluid" alt="Charging curve Q4 e-tron optimal conditions" title="Charging curve Q4 e-tron optimal conditions">
     </a>
     <figcaption><h4>Charging curve Q4 e-tron optimal conditions</h4></figcaption>
@@ -115,8 +115,8 @@ In March 2022, Audi revealed that they upgraded the charging speed and the charg
 All these cars will now charge up to 135 kW of power. As a result, the ideal 5 to 80 percent charge time is reduced for the Q4 40 e-tron and the Q4 Sportback 40 e-tron to 29 minutes, for the Q4 45 e-tron quattro and the Q4 50 e-tron quattro and Q4 Sportback 50 e-tron quattro models to 36 minutes.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/charging.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/chargings.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/battery/charging.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/battery/chargings.webp"
         class="img-fluid" alt="Audi Q4 e-tron charging at Ionity" title="Audi Q4 e-tron charging at Ionity">
     </a>
     <figcaption><h4>Audi Q4 e-tron charging at Ionity</h4></figcaption>

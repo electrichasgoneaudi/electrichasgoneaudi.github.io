@@ -6,8 +6,8 @@ weight: 100001
 ---
 <!-- markdownlint-disable MD033 -->
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_1s.jpg" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
+    <a href="https://media.evkx.net/ehga/articles/thermalmanagementwinter/thermalmanagementwinter_1.webp">
+        <img src="https://media.evkx.net/ehga/articles/thermalmanagementwinter/thermalmanagementwinter_1s.webp" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
     </a>
     <figcaption><h4>Audi Q4 e-tron lader om vinteren</h4></figcaption>
 </figur>
@@ -19,8 +19,8 @@ Lave ytre temperaturer forverrer problemet – og påvirker ytelsen til høyspen
 ***Thomas Anzenberger***: Jeg kan svare på det spørsmålet med et utvetydig nei. Størrelsen på høyspentbatteriene våre alene gjør tvil om ytelse og rekkevidde om vinteren uberettiget. Vår intelligente termiske styring velger alltid de mest effektive metodene for å varme opp batteriet og interiøret riktig om vinteren. Som et resultat har høyspentbatterier lang levetid, når kundene våre forutsetter for hver sesong via det som kalles AC-ladestasjoner eller en hjemme-wallbox. Denne funksjonen er spesielt nyttig om vinteren. Det går lett på cellene og minimerer samtidig rekkeviddestap fordi batteriet allerede er i det optimale temperaturområdet og derfor ikke trenger å varmes opp så mye.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_2s.jpg" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
+    <a href="https://media.evkx.net/ehga/articles/thermalmanagementwinter/thermalmanagementwinter_2.webp">
+        <img src="https://media.evkx.net/ehga/articles/thermalmanagementwinter/thermalmanagementwinter_2s.webp" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
     </a>
     <figcaption><h4>Thomas Anzenberger</h4></figcaption>
 </figur>
@@ -36,8 +36,8 @@ Lave ytre temperaturer forverrer problemet – og påvirker ytelsen til høyspen
 Slik vet ladepunktet hvor mye strøm batteriet til enhver tid kan absorbere. Så vi sikrer at batteriet ikke blir overbelastet. Når det lades, henter batteriet strømmen det trenger til oppvarming fra ladepunktet.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_3s.jpg" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
+    <a href="https://media.evkx.net/ehga/articles/thermalmanagementwinter/thermalmanagementwinter_3.webp">
+        <img src="https://media.evkx.net/ehga/articles/thermalmanagementwinter/thermalmanagementwinter_3s.webp" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
     </a>
     <figcaption><h4>Pierre Woltmann</h4></figcaption>
 </figur>
@@ -61,8 +61,8 @@ Slik vet ladepunktet hvor mye strøm batteriet til enhver tid kan absorbere. Så
 Denne ekstra mobile forkondisjoneringen av batteriet i e-tron GT quattro og RS e-tron GT sikrer best og raskest mulig laderesultat.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_4s.jpg" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
+    <a href="https://media.evkx.net/ehga/articles/thermalmanagementwinter/thermalmanagementwinter_4.webp">
+        <img src="https://media.evkx.net/ehga/articles/thermalmanagementwinter/thermalmanagementwinter_4s.webp" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
     </a>
     <figcaption><h4>Audi RS e-tron GT og Audi Q4 e-tron</h4></figcaption>
 </figur>
@@ -76,8 +76,8 @@ Denne ekstra mobile forkondisjoneringen av batteriet i e-tron GT quattro og RS e
 ***Woltmann*** : Alle som trenger mer rekkevidde så snart de setter seg inn i bilen bør forhåndsbetinge. Ideelt sett bør det gjøres ved AC-lading, som generelt er mer effektivt enn DC-lading fordi det er mindre strømtap på grunn av de lavere strømmene. AC-lading er også skånsommere fordi det ikke belaster batteriet så mye. Det er mindre strømstyrke som flyter med AC-lading. Batteriet kan absorbere det selv ved svært lave batteritemperaturer, noe som gjør at batteriet ikke trenger å varmes opp så mye. Lading bør skje – uansett om det er AC eller DC – rett før du starter en tur via avgangstimeren for å bruke den høyere batteritemperaturen for å få rekkevidde eller umiddelbart etter kjøring for å utnytte den høyere batteritemperaturen til å lade raskere og mer effektivt.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_5s.jpg" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
+    <a href="https://media.evkx.net/ehga/articles/thermalmanagementwinter/thermalmanagementwinter_5.webp">
+        <img src="https://media.evkx.net/ehga/articles/thermalmanagementwinter/thermalmanagementwinter_5s.webp" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
     </a>
     <figcaption><h4>Audi Q4 e-tron</h4></figcaption>
 </figur>
@@ -95,8 +95,8 @@ Denne ekstra mobile forkondisjoneringen av batteriet i e-tron GT quattro og RS e
 ***Anzenberger***: Ved å bruke bilens datamaskin og range monitor i Audi MMI med rekkeviddeprediksjon under kjøring, kan kundene direkte lese hvor stor rekkevidde de får når for eksempel interiørtemperaturen reduseres. Rekkevidden kan økes med Range Mode. Dette begrenser litt komfortfunksjoner, kjørekraft og maksimal hastighet.
 
 <figur>
-     <a href="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_8.jpg">
-         <img src="https://media.electrichasgoneaudi.net/multimedia/articles/thermalmanagementwinter/thermalmanagementwinter_8s.jpg" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
+     <a href="https://media.evkx.net/ehga/articles/thermalmanagementwinter/thermalmanagementwinter_8.webp">
+         <img src="https://media.evkx.net/ehga/articles/thermalmanagementwinter/thermalmanagementwinter_8s.webp" class="img-fluid" alt="Elektrisk mobilitet om vinteren" title="Elektrisk mobilitet om vinteren">
      </a>
      <figcaption><h4>Rekkeviddemodus i Audi e-tron GT</h4></figcaption>
 </figur>

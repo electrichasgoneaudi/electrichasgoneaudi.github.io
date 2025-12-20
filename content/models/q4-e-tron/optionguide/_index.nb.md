@@ -9,7 +9,7 @@ Følgende guide er basert på grunnmodellen. I Norge har man forskjellige utstyr
 
 Du bør lese gjennom den [fulle utstyrslisten](list) for å sikre deg at du ikke glemmer noe som du syns er viktig, men her finner du en oversikt over de tingene vi mener du må huske å vurdere før du bestiller en Audi Q4 e-tron.
 
-![IU1](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/optionguide/iu1.jpg)
+![IU1](https://media.evkx.net/ehga/models/q4-e-tron/optionguide/iu1.webp)
 
 ## Audi smartphone interface: tilvalg IU1
 
@@ -19,7 +19,7 @@ Foreløpig er dette kun tilgjengelig i infotainmentpakken med alternativ-ID **PY
 
 [Se Audi smartphone interface for detaljer.](../technology/uiandoperations/smartphoneinterface/)
 
-![QL2](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/optionguide/ql5.jpg)
+![QL2](https://media.evkx.net/ehga/models/q4-e-tron/optionguide/ql5.webp)
 
 ## Sotede ruter: tilvalg QL5
 
@@ -27,7 +27,7 @@ Forbedrer utseendet mye, og du trenger ikke å kjøre rundt i et akvarium på ut
 
 [Se vinduer for detaljer](../exterior/windows/#privacy-glass)
 
-![PYG](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/optionguide/pyg.jpg)
+![PYG](https://media.evkx.net/ehga/models/q4-e-tron/optionguide/pyg.webp)
 
 ## MMI Navigation pluss: tilvalg PYG
 
@@ -37,7 +37,7 @@ Med MMI Navigation Plus-alternativet får du MMI-navigasjonssystem og Virtual Co
 Se detaljer om [MMI Navigation Plus](../technology/uiandoperations/navigation/) og
 [Virtual Cockpit](../technology/uiandoperations/virtualcockpit/)
 
-![Matrix](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature1s.jpg)
+![Matrix](https://media.evkx.net/ehga/models/q4-e-tron/technology/lights/signature1s.webp)
 
 ## Matrix LED hovedlys
 
@@ -53,7 +53,7 @@ Assistentpakken pro inneholder det meste av de viktige førerassistentfunksjonen
 
 Sideassistent er ikke en del av Assistantpackage Pro, men er inkludert i sikkerhetspakken pluss-pakken. Pakken inkluderer [Filskifteassistent](../technology/drivingassistance/sideassist/), [exit warning](../technology/drivingassistance/exitwarning/), [Assistent for kryssende trafikk bak](../technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](../technology/drivingassistance/presenserear/).
 
-![QQ2](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/optionguide/qq2.jpg)
+![QQ2](https://media.evkx.net/ehga/models/q4-e-tron/optionguide/qq2.webp)
 
 ## Flerfarget ambientlys: tilvalg QQ2
 
