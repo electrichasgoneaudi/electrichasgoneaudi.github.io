@@ -7,7 +7,7 @@ shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 
-The **Audi E5 Sportback** is a China-exclusive all-electric model developed under a new cooperation framework between :contentReference[oaicite:0]{index=0} and SAIC. It represents a distinct interpretation of Audi’s electric future for the Chinese market, combining Audi DNA with design, digital features, and user experiences specifically tailored to local preferences.
+The **Audi E5 Sportback** is a China-exclusive all-electric model developed under a new cooperation framework between Audi and SAIC. It represents a distinct interpretation of Audi’s electric future for the Chinese market, combining Audi DNA with design, digital features, and user experiences specifically tailored to local preferences.
 
 {{< sitefiguresized thumb="models/e5/exterior/exterior_2_st.webp" width="3000" height="2250" title="Audi E5 Sportback" >}}
 
@@ -15,27 +15,31 @@ The Audi E5 Sportback was officially unveiled in 2024 and is one of the first pr
 
 Positioned as a **premium midsize electric fastback**, the E5 Sportback targets tech-savvy urban customers who prioritize connectivity, digital ecosystems, and modern design alongside comfort and performance.
 
-
-::contentReference[oaicite:1]{index=1}
-
-
 First customer deliveries in China are expected during **2025**, depending on final homologation and regional rollout.
 
 ---
 
 ## Audi E5 Sportback Variants
 
-At launch, the Audi E5 Sportback is expected to be offered in several configurations focused on **power output, battery size, and drivetrain**, rather than traditional European trim levels.
+The Audi E5 Sportback is offered in four clearly defined trim levels, with a focus on **power output, drivetrain, and battery size**, rather than traditional European option-heavy configurations.
 
-While Audi has not yet published a complete variant list, the lineup is expected to include:
+Available variants include:
 
-- Audi E5 Sportback (rear-wheel drive)
-- Audi E5 Sportback Performance
-- Audi E5 Sportback quattro (dual-motor all-wheel drive)
+- **Audi E5 Sportback Pioneer**  
+  Rear-wheel drive, 220 kW, 83 kWh battery
 
-As is common for the Chinese EV market, equipment levels are expected to be **highly standardized**, with many premium features included as standard rather than offered as individual options.
+- **Audi E5 Sportback Pioneer Plus**  
+  Rear-wheel drive, 300 kW, 100 kWh battery
 
-Further details on variants and specifications will be added once Audi releases final production data.
+- **Audi E5 Sportback Pioneer quattro**  
+  Dual-motor quattro all-wheel drive, 425 kW, 100 kWh battery
+
+- **Audi E5 Sportback quattro**  
+  Dual-motor quattro all-wheel drive, up to 579 kW, 100 kWh battery
+
+Certified CLTC driving range varies from **623 km up to 773 km**, depending on configuration.
+
+As is typical for the Chinese EV market, equipment levels are **highly standardized**, with a high level of comfort, safety, and technology features included as standard across the lineup.
 
 ---
 
@@ -55,7 +59,6 @@ At the rear, a **full-width light strip** with animated elements reinforces the 
 
 {{< sitefiguresized thumb="models/e5/exterior/exterior_3_st.webp" width="3000" height="2250" title="Audi E5 Sportback" >}}
 
-
 The E5 Sportback is offered with multiple wheel designs and a curated selection of exterior colors developed specifically for the Chinese market.
 
 ---
@@ -72,9 +75,11 @@ Interior highlights include:
 
 - A large panoramic digital display spanning driver and center areas  
 - High-resolution digital instruments with customizable views  
-- Premium seating materials with emphasis on rear-seat comfort  
+- Premium seating materials with strong emphasis on rear-seat comfort  
 - Multi-color ambient lighting themes  
 - Minimal physical controls, relying on touch and voice interaction  
+
+Seat ventilation is standard across the range, while seat massage availability depends on trim level. A head-up display and advanced voice control are standard equipment.
 
 Rear-seat space is generous, reflecting Chinese customer preferences, while the flat floor enhances overall passenger comfort.
 
@@ -82,18 +87,18 @@ Rear-seat space is generous, reflecting Chinese customer preferences, while the 
 
 ## Drivetrain
 
-The Audi E5 Sportback is built on a **dedicated electric platform co-developed with SAIC**, optimized for efficiency, performance, and digital integration.
+The Audi E5 Sportback is built on a **dedicated electric platform co-developed with SAIC**, optimized for performance, efficiency, and fast charging.
 
-While Audi has not yet released full technical specifications, the E5 Sportback is expected to feature:
+Two battery sizes are available:
 
-- A high-capacity lithium-ion battery suitable for long-distance use  
-- Rear-wheel drive and dual-motor quattro configurations  
-- Competitive range figures aligned with premium Chinese EV rivals  
-- Fast DC charging capability for convenient long-distance travel  
+- **83 kWh (gross)** battery for rear-wheel-drive Pioneer models  
+- **100 kWh (gross)** battery for higher-output and quattro variants  
 
-The suspension is tuned with a strong focus on **comfort and refinement**, particularly for urban driving, while maintaining stability and control at higher speeds.
+Power output ranges from **220 kW up to 579 kW**, with rear-wheel drive and dual-motor quattro all-wheel drive configurations.
 
-Detailed battery capacities, charging curves, and certified range figures will be published closer to market launch.
+The E5 Sportback supports **ultra-fast DC charging up to 420 kW**, enabling very short charging stops on compatible high-power chargers.
+
+Adaptive air suspension is **standard across all variants**, delivering a balance between ride comfort and dynamic handling. The setup is tuned for smooth urban driving while maintaining stability at higher speeds.
 
 ---
 
@@ -101,44 +106,46 @@ Detailed battery capacities, charging curves, and certified range figures will b
 
 Technology is a central pillar of the Audi E5 Sportback, with strong emphasis on **digital ecosystems and local integration**.
 
-The infotainment system runs on a next-generation software platform developed specifically for China and is deeply integrated with local digital services. Key features include:
+The infotainment system is developed specifically for China and integrates deeply with local services and apps. Key features include:
 
 - Over-the-air software updates  
 - Local navigation, media, and payment services  
 - Advanced Mandarin voice control  
-- Seamless integration with Chinese apps and ecosystems  
+- Apple CarPlay support (Android Auto not available)  
 
-The advanced lighting system serves both functional and communicative roles, using dynamic light signatures to improve visibility and interaction with other road users.
+The digital lighting system serves both functional and communicative roles, using dynamic light signatures to improve visibility and interaction with other road users.
 
-Expected driver assistance systems include:
+Driver assistance systems include:
 
 - Adaptive cruise control  
 - Lane centering assistance  
 - Traffic jam assist  
 - Automated parking functions  
 
-These systems are designed for dense urban traffic environments common in major Chinese cities.
+These systems are optimized for dense urban traffic conditions typical of major Chinese cities.
 
 ---
 
 ## Trim level and equipment options
 
-Unlike many European Audi models, the Audi E5 Sportback follows a **simplified configuration strategy**. Most comfort, safety, and technology features are included as standard, reducing complexity for buyers.
+The Audi E5 Sportback follows a **simplified configuration strategy** with a high level of standard equipment across all trims.
 
-Expected equipment highlights include:
+Standard and available features include:
 
-- Panoramic digital display as standard  
+- Panoramic digital display  
+- Head-up display  
+- Adaptive air suspension  
 - Comprehensive driver assistance systems  
 - Premium interior materials  
-- Multi-zone climate control  
+- Seat ventilation and advanced climate control  
 - Extensive connectivity and digital services  
 
-This approach ensures that even entry-level versions of the E5 Sportback feel well equipped.
+This approach ensures that even the entry-level Pioneer trim delivers a fully premium experience without complex option lists.
 
 ---
 
 ## Media
 
-Official driving impressions, videos, and detailed reviews will be added once customer deliveries begin and independent test drives become available.
+Official driving impressions, videos, and long-term reviews will be added once customer deliveries begin and independent test drives become available.
 
-The Audi E5 Sportback represents a **clear statement of intent** for Audi’s China-specific electric future, blending premium design, advanced software, and locally optimized technology.
+The Audi E5 Sportback represents a **clear statement of intent** for Audi’s China-specific electric future, blending premium design, high performance, ultra-fast charging, and locally optimized digital technology.
