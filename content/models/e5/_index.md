@@ -9,6 +9,8 @@ shownavtabs: true
 
 The **Audi E5 Sportback** is a China-exclusive all-electric model developed under a new cooperation framework between :contentReference[oaicite:0]{index=0} and SAIC. It represents a distinct interpretation of Audi’s electric future for the Chinese market, combining Audi DNA with design, digital features, and user experiences specifically tailored to local preferences.
 
+{{< sitefiguresized thumb="models/e5/exterior/exterior_2_st.webp" width="3000" height="2250" title="Audi E5 Sportback" >}}
+
 The Audi E5 Sportback was officially unveiled in 2024 and is one of the first production-ready vehicles created under Audi’s new China-focused electric brand strategy. In line with this strategy, the traditional four rings are replaced by illuminated **Audi lettering**, underlining the model’s unique positioning.
 
 Positioned as a **premium midsize electric fastback**, the E5 Sportback targets tech-savvy urban customers who prioritize connectivity, digital ecosystems, and modern design alongside comfort and performance.
@@ -51,11 +53,10 @@ Key exterior highlights include:
 
 At the rear, a **full-width light strip** with animated elements reinforces the car’s high-tech character. Aerodynamic efficiency plays a central role in the overall design, contributing to improved range and reduced wind noise.
 
+{{< sitefiguresized thumb="models/e5/exterior/exterior_3_st.webp" width="3000" height="2250" title="Audi E5 Sportback" >}}
+
+
 The E5 Sportback is offered with multiple wheel designs and a curated selection of exterior colors developed specifically for the Chinese market.
-
-
-::contentReference[oaicite:2]{index=2}
-
 
 ---
 
@@ -64,6 +65,8 @@ The E5 Sportback is offered with multiple wheel designs and a curated selection 
 The interior of the Audi E5 Sportback is conceived as a **digital-first living space**, with a strong focus on screens, connectivity, and personalization.
 
 A clean, horizontal dashboard layout is combined with high-quality materials and extensive ambient lighting. The design reflects Audi’s shift toward **software-defined vehicles**, particularly important in the Chinese market.
+
+{{< sitefiguresized thumb="models/e5/interior/interior_4_st.webp" width="3000" height="2250" title="Audi E5 Sportback interior" >}}
 
 Interior highlights include:
 
@@ -74,10 +77,6 @@ Interior highlights include:
 - Minimal physical controls, relying on touch and voice interaction  
 
 Rear-seat space is generous, reflecting Chinese customer preferences, while the flat floor enhances overall passenger comfort.
-
-
-::contentReference[oaicite:3]{index=3}
-
 
 ---
 
