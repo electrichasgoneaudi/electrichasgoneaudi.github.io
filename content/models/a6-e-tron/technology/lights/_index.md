@@ -25,7 +25,7 @@ The LED headlights include the following functionalities:
 - Position light
 - Flashing light
 
-{{< sitefiguresized thumb="models/a6-e-tron/technology/lights/headlight_led_1_st.jpg" width="3000" height="1680" title="Audi A6 e-tron with standard LED headlights" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/technology/lights/headlight_led_1_st.webp" width="3000" height="1680" title="Audi A6 e-tron with standard LED headlights" >}}
 
 ### LED Plus headlights & DRL
 
@@ -52,7 +52,7 @@ The LED headlights plus include the following functionalities:
 - Crossing light (supplement to the side lighting in the crossing area in conjunction with MMI navigation plus)
 - Dynamic lighting for the coming home/leaving home function while stationary
 
-{{< sitefiguresized thumb="models/a6-e-tron/technology/lights/headlights_1_st.jpg" width="3000" height="2250" title="Audi A6 e-tron med LED Plus-lykter og Matrix DRL" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/technology/lights/headlights_1_st.webp" width="3000" height="2250" title="Audi A6 e-tron med LED Plus-lykter og Matrix DRL" >}}
 
 With this headlights you have the hardware for LED Matrix. This can be ordered as function-on-demand.
 
@@ -63,7 +63,7 @@ The Audi Matrix LED technology enables precise and high-resolution illumination 
 If vehicles are detected by the camera system, the system selectively hides only this area, while the high beam remains active in the remaining segments. The significantly improved illumination of the road compared to LED headlights can increase safety and comfort when driving in the dark.
 
 
-{{< sitefiguresized thumb="models/a6-e-tron/technology/lights/headlights_ledplus_1_st.jpg" width="3000" height="1707" title="Audi A6 e-tron with standard LED headlights" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/technology/lights/headlights_ledplus_1_st.webp" width="3000" height="1707" title="Audi A6 e-tron with standard LED headlights" >}}
 
 ## Tail lights
 
@@ -110,7 +110,7 @@ Audi is gradually developing the technology into intelligent displays that can c
 The A6 e-tron not only marks a new chapter in electromobility at Audi; lighting technology is an important part of Audi’s DNA. With the world’s first active digital light signature, the Audi A6 e-tron ushers in a new era characterized by distinctive design and aesthetics unique to Audi.
 
 
-{{< sitefiguresized thumb="models/a6-e-tron/technology/lights/rearlights_3_st.jpg" width="3000" height="2249" title="Audi A6 e-tron rear lights" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/technology/lights/rearlights_3_st.webp" width="3000" height="2249" title="Audi A6 e-tron rear lights" >}}
 
 The second-generation of digital OLED technology shapes the look of new Audi models and increases their range of functions many times over. This, in turn, improves road safety, as impressively demonstrated by the communication light in the digital OLED rear lights. The A6 e-tron also sets new standards in personalization: With a total of eight optional digital light signatures in the redesigned daytime running lights in the Matrix LED headlights and digital OLED rear lights 2.0, customers can design the look of their A6 e-tron like never before. This is possible via the MMI and, for the first time, via the myAudi app. Customers are also able to buy digital light signatures after purchasing their car.
 
@@ -128,7 +128,7 @@ In 2020, Audi Q5 customers could select an individual rear light signature for t
 
 In 2022 this option became standard in the Audi A8 with digital OLED rear lights. The car’s bus system allowed its software to control each rear light panel and each OLED segment individually. In the A8, customers could select from three rear light signatures via the MMI; in the S8, they could choose from four.
 
-{{< sitefiguresized thumb="models/a6-e-tron/technology/lights/oledrearlights_1_st.jpg" width="3000" height="1777" title="Audi A6 e-tron with OLED taillights" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/technology/lights/oledrearlights_1_st.webp" width="3000" height="1777" title="Audi A6 e-tron with OLED taillights" >}}
 
 
 
@@ -140,13 +140,13 @@ With the next generation of digital OLEDs in the rear lights that now follow in 
 
 The innovative digital OLED technology creates the conditions for a completely new rear light design, ensuring a one-of-a-kind homogeneity and very high contrast. There are other advantages: Surface light sources do not require additional reflectors, light guides, or optics, making them very efficient. Together, these properties allow Audi’s engineers and designers to break down the design boundaries between two- and three-dimensionality. In other words, the brand with the four rings is creating three-dimensional shapes on two-dimensional surfaces. In addition to an integrated, expressive LED light strip at the rear, 3D glass successfully separates the rear light signature from the other lighting functions.
 
-{{< sitefiguresized thumb="models/a6-e-tron/technology/lights/headlights_2_st.jpg" width="3000" height="1999" title="Audi A6 e-tron headllights" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/technology/lights/headlights_2_st.webp" width="3000" height="1999" title="Audi A6 e-tron headllights" >}}
 
 
 Audi is also innovating the front of the car. The next generation of digital daytime running lights and the light modules are now visually separate, creating greater design clarity. The designers have designed the individual LEDs – 70 in total – in this new evolution of digital daytime running lights as transparent 3D objects. The front section of the digital daytime running lights features a precise prismatic structure, while a metalized 3D trim surrounds them to draw the focus to the car’s digital eyes.
 
 
-{{< sitefiguresized thumb="models/a6-e-tron/technology/lights/rearlights_2_st.jpg" width="3000" height="2249" title="Audi A6 e-tron with OLED taillights" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/technology/lights/rearlights_2_st.webp" width="3000" height="2249" title="Audi A6 e-tron with OLED taillights" >}}
 
 ## Improved safety thanks to intelligent headlights and rear lights
 
@@ -161,12 +161,12 @@ Finally, the communication light also uses a specific light signature at the fro
 With up to eight digital light signatures for the headlights and rear lights, drivers can enjoy a new level of freedom in personalizing their A6 e-tron. Customers can select a signature in one of two ways, via the myAudi app or in the car via the MMI. Six additional signatures with a coming home/leaving home lighting scenario and the corresponding digital light signature are available through additional optional packages.
 
 
-{{< sitefiguresized thumb="models/a6-e-tron/technology/lights/frontdesign_1_st.jpg" width="3000" height="1779" title="Audi A6 e-tron signature headlights" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/technology/lights/frontdesign_1_st.webp" width="3000" height="1779" title="Audi A6 e-tron signature headlights" >}}
 
 
 Via the myAudi app, customers can activate their personal light signatures from outside the car and experience the dynamic lighting scenario and the coming home/leaving home function right on their car. It’s the same with the communication light in the second-generation digital OLED rear lights and proximity indication. On request, the Matrix LED headlights can provide a live demonstration of the sign glare suppression and object masking features.
 
-{{< sitefiguresized thumb="models/a6-e-tron/technology/lights/reardesign_1_st.jpg" width="3000" height="1783" title="Audi A6 e-tron signature tail lights" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/technology/lights/reardesign_1_st.webp" width="3000" height="1783" title="Audi A6 e-tron signature tail lights" >}}
 
 
 For an even greater degree of personalization for the A6 e-tron, customers can book the package of digital light signatures for the LED headlights plus/Matrix LED headlights and digital OLED rear lights after purchasing their car using on-demand functions. Customers can purchase the features permanently or for a specific period. This flexibility lets Audi customers design their A6 e-tron with up to eight digital light signatures (only in conjunction with digital OLED rear lights and LED headlights plus/Matrix LED headlights) to suit personal preferences. Finally, they can also purchase high-beam assist and the Matrix package on demand.

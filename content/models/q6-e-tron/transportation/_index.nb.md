@@ -10,7 +10,7 @@ weight: 6
 
 Bagasjerommet har 526 liter lagringsvolum. Med nedfelte seter øker den til 1529 liter.
 
-{{< sitefiguresized thumb="models/q6-e-tron/transportation/trunk_1_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron trunk" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/transportation/trunk_1_st.webp" width="3000" height="2249" title="Audi Q6 e-tron trunk" >}}
 
 
 ## Frunk
@@ -18,7 +18,7 @@ Bagasjerommet har 526 liter lagringsvolum. Med nedfelte seter øker den til 1529
 Frunken har 64 liter lagringsvolum
 
 
-{{< sitefiguresized thumb="models/q6-e-tron/transportation/frunk_1_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron frunk" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/transportation/frunk_1_st.webp" width="3000" height="2249" title="Audi Q6 e-tron frunk" >}}
 
 
 ## Taklagring

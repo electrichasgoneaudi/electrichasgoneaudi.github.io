@@ -7,7 +7,7 @@ weight: 7
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 
-{{< sitefiguresized thumb="models/a6-e-tron/drivetrain/drivetrain_1_st.jpg" width="3000" height="1640" title="Audi a6 e-tron drivlinje" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/drivetrain/drivetrain_1_st.webp" width="3000" height="1640" title="Audi a6 e-tron drivlinje" >}}
 
 Kraftige, kompakte og svært effektive elektriske motorer og et litium-ion-batteri nyutviklet for PPE bestående av tolv moduler og 180 prismatiske celler med en total bruttokapasitet på 100 kWh (94,9 kWh netto) sikrer en rekkevidde på opptil 756 kilometer (A6 Sportback e-tron1) og opptil 720 kilometer (A6 Avant e-tron). Med en systemeffekt på opptil 270 kW i A6 Sportback/Avant e-tron ytelse (strømforbruk i kWh/100 km kombinert: 17,0-14,0; CO2-utslipp i g/km kombinert: 0; CO2-klasse: A), gir den nye Audi A6 e-tron den sporty kjøreopplevelsen Audi er kjent for. Audi A6 e-tron ytelse12 akselererer fra null til 100 km/t på 5,4 sekunder. Toppfarten er 210 km/t. S6 e-tron gir en systemeffekt på 370 kW (405 kW med launch control).
 

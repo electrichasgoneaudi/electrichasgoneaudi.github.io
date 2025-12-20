@@ -172,7 +172,7 @@ The sport seats plus are equipped with a massage function. You can select differ
 - Seat side bolsters and headrests in plain black fabric
 - The rear seat covers are visually matched to the front seats.
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_standard_st.jpg" width="1920" height="1440" title="Normal seats with fabric -Interior package 99K" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_standard_st.webp" width="1920" height="1440" title="Normal seats with fabric -Interior package 99K" >}}
 
 ### Interior with standard seats, leather/artificial leather combination black
 
@@ -186,7 +186,7 @@ The package includes:
 - Accent surfaces and control buttons in high-gloss black for elements in the center console and cup holder cover
 - Door sills with aluminum inserts in the front, illuminated
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwa_st.jpg" width="1920" height="1440" title="Normal seats with brown leather - Interior package PWA" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwa_st.webp" width="1920" height="1440" title="Normal seats with brown leather - Interior package PWA" >}}
 
 ### Interior with standard seats, leather/artificial leather combination brown
 
@@ -201,7 +201,7 @@ The package includes:
 - Door sills with aluminum inserts in the front, illuminated
 - Roof lining in black fabric
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwb_st.jpg" width="1920" height="1440" title="Normal seats with black leather - Interior Package PWB" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwb_st.webp" width="1920" height="1440" title="Normal seats with black leather - Interior Package PWB" >}}
 
 ### Interior with standard seats, leather/artificial leather combination beige
 
@@ -215,7 +215,7 @@ The package includes:
 - Accent surfaces and control buttons in high-gloss black for elements in the center console and cup holder cover
 - Door sills with aluminum inserts in the front, illuminated
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwc_st.jpg" width="1920" height="1440" title="Normal seats beige leather- Interior package PWC" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwc_st.webp" width="1920" height="1440" title="Normal seats beige leather- Interior package PWC" >}}
 
 ### Interior with standard seats, leather/artificial leather combination gray
 
@@ -229,7 +229,7 @@ The package includes:
 - Accent surfaces and control buttons in high-gloss black for elements in the center console and cup holder cover
 - Door sills with aluminum inserts in the front, illuminated
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwt_st.jpg" width="1920" height="1440" title="Normal seats gray leather - Interior Package PWT" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwt_st.webp" width="1920" height="1440" title="Normal seats gray leather - Interior Package PWT" >}}
 
 ## Packages with Sport Seats
 
@@ -246,7 +246,7 @@ The package includes:
 - Accent surfaces and control buttons in matte black for elements in the center console
 - Door sills with aluminum inserts in the front
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwd_st.jpg" width="1920" height="1440" title="Sport seats with fabric - Interior package PWD" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwd_st.webp" width="1920" height="1440" title="Sport seats with fabric - Interior package PWD" >}}
 
 ### Interior with sports seats, leather/artificial leather combination black
 
@@ -261,7 +261,7 @@ The package includes:
 - Accent surfaces and control buttons in high-gloss black for elements in the center console and cup holder cover
 - Door sills with aluminum inserts in the front, illuminated
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwe_st.jpg" width="1920" height="1440" title="Sport seats with black leather - Interior Package PWE" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwe_st.webp" width="1920" height="1440" title="Sport seats with black leather - Interior Package PWE" >}}
 
 ### Interior with sports seats, leather/artificial leather combination beige, ventilated
 
@@ -276,7 +276,7 @@ The package includes:
 - Accent surfaces and control buttons in high-gloss black for elements in the center console and cup holder cover
 - Door sills with aluminum inserts in the front, illuminated
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwf_st.jpg" width="1920" height="1440"  title="Sport Seats beige - Interior package PWF" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwf_st.webp" width="1920" height="1440"  title="Sport Seats beige - Interior package PWF" >}}
 
 ### Interior S line with sports seats, fabric/artificial leather combination black
 
@@ -294,7 +294,7 @@ The package includes:
 - Pedals and footrest in stainless steel
 - Roof lining in black fabric
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwk_st.jpg" width="1920" height="1440" title="Sport seats with fabric -Interior package PWK" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwk_st.webp" width="1920" height="1440" title="Sport seats with fabric -Interior package PWK" >}}
 
 ### Interior S with sports seats, leather/artificial leather combination black
 
@@ -312,7 +312,7 @@ The package includes:
 - Pedals and footrest in stainless steel
 - Roof lining in black fabric
   
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwl_st.jpg" width="1920" height="1440" title="S-line Sport Seats with black leather" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwl_st.webp" width="1920" height="1440" title="S-line Sport Seats with black leather" >}}
 
 ### Interior S with sports seats, leather/artificial leather combination black/light gray
 
@@ -330,9 +330,9 @@ The package includes:
 - Pedals and footrest in stainless steel
 - Roof lining in black fabric
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwm_st.jpg" width="1920" height="1440" title="S-line Sport Seats with beige leather" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwm_st.webp" width="1920" height="1440" title="S-line Sport Seats with beige leather" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwm_2_st.jpg" width="1920" height="1440" title="S-line Sport Seats with beige leather" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwm_2_st.webp" width="1920" height="1440" title="S-line Sport Seats with beige leather" >}}
 
 ### Interior S with sports seats, Dinamica microfiber/leather combination black
 
@@ -350,7 +350,7 @@ The package includes:
 - Pedals and footrest in stainless steel
 - Roof lining in black fabric
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwn_st.jpg" width="1920" height="1440" title="S-line Sport Seats with black dynamica & leather" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwn_st.webp" width="1920" height="1440" title="S-line Sport Seats with black dynamica & leather" >}}
 
 ### Interior S with sports seats, leather/artificial leather combination, black-cognac brown Audi exclusive. Package YWD
 
@@ -370,7 +370,7 @@ The package includes:
 - Roof lining in black fabric
 An offer from Audi Sport GmbH
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_ydg_st.jpg" width="1920" height="1440" title="S-line Sport Seats with Audi Exclusive black and cognac leather" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_ydg_st.webp" width="1920" height="1440" title="S-line Sport Seats with Audi Exclusive black and cognac leather" >}}
 
 ## Packages with Sport Seats Plus
 
@@ -388,9 +388,9 @@ An offer from Audi Sport GmbH
 - Pedals and footrest in stainless steel
 - Roof lining in black fabric
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwo_st.jpg" width="1920" height="1440"  title="Sport Seats Plus with black ventilated leather" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwo_st.webp" width="1920" height="1440"  title="Sport Seats Plus with black ventilated leather" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwo_2_st.jpg" width="1920" height="1440"  title="Sport Seats Plus with black ventilated leather" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwo_2_st.webp" width="1920" height="1440"  title="Sport Seats Plus with black ventilated leather" >}}
 
 ### Interior S with sports seats plus, red leather. Package PWQ
 
@@ -406,9 +406,9 @@ An offer from Audi Sport GmbH
 - Pedals and footrest in stainless steel
 - Roof lining in black fabric
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwq_st.jpg" width="1920" height="1440"  title="Sport Seats Plus with black ventilated leather" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwq_st.webp" width="1920" height="1440"  title="Sport Seats Plus with black ventilated leather" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_pwq_2_st.jpg" width="1920" height="1440"  title="Sport Seats Plus with black ventilated leather" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwq_2_st.webp" width="1920" height="1440"  title="Sport Seats Plus with black ventilated leather" >}}
 
 ### Interior S with sports seats plus, jet gray-ocean blue leather Audi exclusive
 
@@ -427,4 +427,4 @@ The package includes:
 - Pedals and footrest in stainless steel
 - Roof lining fabric black
 
-{{< sitefiguresized thumb="models/a6-e-tron/interior/seats/seatconfig_ydh_st.jpg" width="1920" height="1440"  title="Sport Seats Plus with black ventilated leather" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_ydh_st.webp" width="1920" height="1440"  title="Sport Seats Plus with black ventilated leather" >}}

@@ -6,7 +6,7 @@ weight: 7
 ---
 
 
-{{< sitefiguresized thumb="models/q6-e-tron/drivetrain/drivetrain_1_st.jpg" width="3000" height="1925" title="Audi Q6 e-tron drivetrain" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/drivetrain_1_st.webp" width="3000" height="1925" title="Audi Q6 e-tron drivetrain" >}}
 
 Below you find details about the most important components of that drivetrain.
 

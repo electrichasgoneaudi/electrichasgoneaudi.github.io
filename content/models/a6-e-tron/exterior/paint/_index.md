@@ -33,62 +33,62 @@ The different standard colors are
 
 Standard color. Solid
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/magneticgray_1_st.jpg" width="1920" height="1440" title="Audi A6 e-tron in magnetic gray" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/magneticgray_1_st.webp" width="1920" height="1440" title="Audi A6 e-tron in magnetic gray" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/magneticgray_2_st.jpg" width="1920" height="1440" title="Audi A6 e-tron in magnetic gray" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/magneticgray_2_st.webp" width="1920" height="1440" title="Audi A6 e-tron in magnetic gray" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/magneticgray_3_st.jpg" width="1920" height="1440" title="Audi A6 e-tron in magnetic gray" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/magneticgray_3_st.webp" width="1920" height="1440" title="Audi A6 e-tron in magnetic gray" >}}
 
 ### Glacier White
 
 Color Code: **2Y**
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/glacierwhite_1_st.jpg" width="1920" height="1440" title="Audi A6 e-tron in glacier white" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/glacierwhite_1_st.webp" width="1920" height="1440" title="Audi A6 e-tron in glacier white" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/glacierwhite_2_st.jpg" width="1920" height="1440" title="Audi A6 e-tron in glacier white" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/glacierwhite_2_st.webp" width="1920" height="1440" title="Audi A6 e-tron in glacier white" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/glacierwhite_3_st.jpg" width="1920" height="1440" title="Audi A6 e-tron in glacier white" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/glacierwhite_3_st.webp" width="1920" height="1440" title="Audi A6 e-tron in glacier white" >}}
 
 ### Plasma blue
 
 Color Code: **3D**
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/plasmablue_1_st.jpg" width="1920" height="1440" title="Audi A6 e-tron in plasma blue" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/plasmablue_1_st.webp" width="1920" height="1440" title="Audi A6 e-tron in plasma blue" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/plasmablue_2_st.jpg" width="1920" height="1440" title="Audi A6 e-tron in plasma blue" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/plasmablue_2_st.webp" width="1920" height="1440" title="Audi A6 e-tron in plasma blue" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/plasmablue_3_st.jpg" width="1920" height="1440" title="Audi A6 e-tron in plasma blue" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/plasmablue_3_st.webp" width="1920" height="1440" title="Audi A6 e-tron in plasma blue" >}}
 
 ### Mythos black
 
 Color Code: **OE**
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/mythosblack_1_st.jpg" width="1920" height="1440" title="Audi A6 e-tron in Mythos black" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/mythosblack_1_st.webp" width="1920" height="1440" title="Audi A6 e-tron in Mythos black" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/mythosblack_2_st.jpg" width="1920" height="1440" title="Audi A6 e-tron in Mythos black" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/mythosblack_2_st.webp" width="1920" height="1440" title="Audi A6 e-tron in Mythos black" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/mythosblack_3_st.jpg" width="1920" height="1440" title="Audi A6 e-tron in Mythos black" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/mythosblack_3_st.webp" width="1920" height="1440" title="Audi A6 e-tron in Mythos black" >}}
 
 ### Typhoon Grey
 
 Color Code: **2L**
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/typhoongray_1_st.jpg" width="1920" height="1440" title="Audi A6 e-tron in typhoon grey" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/typhoongray_1_st.webp" width="1920" height="1440" title="Audi A6 e-tron in typhoon grey" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/typhoongray_2_st.jpg" width="1920" height="1440" title="Audi A6 e-tron in typhoon grey" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/typhoongray_2_st.webp" width="1920" height="1440" title="Audi A6 e-tron in typhoon grey" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/typhoongray_3_st.jpg" width="1920" height="1440" title="Audi A6 e-tron in typhoon grey" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/typhoongray_3_st.webp" width="1920" height="1440" title="Audi A6 e-tron in typhoon grey" >}}
 
 ### Malpelo Blue
 
 Color Code: **U8**
 
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/malpeloblue_1_st.jpg" width="1920" height="1440" title="Audi A6 e-tron in malpelo blue" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/malpeloblue_1_st.webp" width="1920" height="1440" title="Audi A6 e-tron in malpelo blue" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/malpeloblue_2_st.jpg" width="1920" height="1440" title="Audi A6 e-tron in malpelo blue" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/malpeloblue_2_st.webp" width="1920" height="1440" title="Audi A6 e-tron in malpelo blue" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/malpeloblue_3_st.jpg" width="1920" height="1440" title="Audi A6 e-tron in malpelo blue" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/malpeloblue_3_st.webp" width="1920" height="1440" title="Audi A6 e-tron in malpelo blue" >}}
 
 ### Siam Beige
 
@@ -96,11 +96,11 @@ Only available on S-line and S6.
 
 Color Code: **7M**
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/siambeige_1_st.jpg" width="1920" height="1440" title="Audi A6 e-tron in siam beige" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/siambeige_1_st.webp" width="1920" height="1440" title="Audi A6 e-tron in siam beige" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/siambeige_2_st.jpg" width="1920" height="1440" title="Audi A6 e-tron in siam beige" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/siambeige_2_st.webp" width="1920" height="1440" title="Audi A6 e-tron in siam beige" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/siambeige_3_st.jpg" width="1920" height="1440" title="Audi A6 e-tron in siam beige" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/siambeige_3_st.webp" width="1920" height="1440" title="Audi A6 e-tron in siam beige" >}}
 
 ### Daytona Grey
 
@@ -108,11 +108,11 @@ Only available on S-line and S6.
 
 Color Code: **6Y**
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/daytonagray_1_st.jpg" width="1920" height="1440" title="Audi A6 e-tron in  Daytona gray" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/daytonagray_1_st.webp" width="1920" height="1440" title="Audi A6 e-tron in  Daytona gray" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/daytonagray_2_st.jpg" width="1920" height="1440" title="Audi A6 e-tron in  Daytona gray" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/daytonagray_2_st.webp" width="1920" height="1440" title="Audi A6 e-tron in  Daytona gray" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/daytonagray_3_st.jpg" width="1920" height="1440" title="Audi A6 e-tron in  Daytona gray" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/daytonagray_3_st.webp" width="1920" height="1440" title="Audi A6 e-tron in  Daytona gray" >}}
 
 ## Audi Exclusive Paint colors
 

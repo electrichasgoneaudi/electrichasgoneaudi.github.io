@@ -7,7 +7,7 @@ weight: 4
 <!-- markdownlint-disable MD033 -->
 Når du kjøper en Audi e-tron, må du ta mange beslutninger om hvordan exeriour skal være.
 
-{{< sitefiguresized thumb="models/q4-e-tron/exterior/exterior.jpg" width="2500" height="1041" title="Mange utvendige alternative" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q4-e-tron/exterior/exterior.webp" width="2500" height="1041" title="Mange utvendige alternative" >}}
 
 
 Først ville være å bestemme om du vil ha sportback eller SUV -karosseri.

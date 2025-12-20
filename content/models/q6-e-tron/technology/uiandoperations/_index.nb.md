@@ -5,7 +5,7 @@ description: Audi Q6 e-tron modellserien har et fullstendig tilkoblet og digital
 weight: 4
 ---
 
-{{< sitefiguresized thumb="models/q6-e-tron/technology/uiandoperations/virtualcockpit/virtualcockpit_1_st.jpg" width="1920" height="900" title="Audi Q6 e-tron med virtuell cockpit og MMI Panorama" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/uiandoperations/virtualcockpit/virtualcockpit_1_st.webp" width="1920" height="900" title="Audi Q6 e-tron med virtuell cockpit og MMI Panorama" >}}
 
   De tydelig grupperte displayene er perfekt integrert i designkonseptet og gir interiøret en sjenerøs og luftig romfølelse. Den slanke, frittstående Audi MMI panoramaskjermen har en buet design og OLED-teknologi og består av den 11,9-tommers Audi virtuelle cockpiten og den 14,5-tommers MMI-berøringsskjermen. Førerområdet er utformet som en kurve og displayet med sin konkave form er orientert mot føreren. Konturene til det buede displayet minner også om enkeltrammen typisk for Audi. Omgivelsesbelysningen gjør at den buede skjermen ser ut til å flyte om natten og skaper en passende setting. Spesielt for passasjerene foran, kompletterer Audi den digitale scenen med 10,9-tommers MMI-skjerm for passasjer foran med Active Privacy Mode, som hindrer den i å distrahere sjåføren mens han er på farten. Dette gjør at passasjeren foran kan streame film/videoinnhold, hjelpe til med navigering, eller til og med finne en ladestasjon for eksempel.
 

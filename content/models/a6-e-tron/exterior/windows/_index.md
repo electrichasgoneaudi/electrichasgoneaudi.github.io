@@ -11,11 +11,11 @@ sectiontabs: "/models/a6-e-tron/exterior/"
 
 You can order privacy glass with option id **QL5**
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/windows/privacyglass_1_st.jpg" width="1920" height="900" title="Audi Q6 e-tron with privacy windows" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/windows/privacyglass_1_st.webp" width="1920" height="900" title="Audi Q6 e-tron with privacy windows" >}}
 
 This option makes a big difference in the way the e-tron look.
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/windows/regularglass_1_st.jpg" width="2703" height="1536" title="Audi Q6 e-tron without privacy windows" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/windows/regularglass_1_st.webp" width="2703" height="1536" title="Audi Q6 e-tron without privacy windows" >}}
 
 
 

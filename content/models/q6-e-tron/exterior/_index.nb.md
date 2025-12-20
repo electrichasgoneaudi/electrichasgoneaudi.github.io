@@ -9,7 +9,7 @@ weight: 4
 
 Audi Q6 e-tron har perfekte proporsjoner og er en videreutvikling av Audis e-tron-design. I bilens karosseri er myke former i konstant samspill med brettene og kantene, og gir dynamikk til skyggene selv når de står stille. Den stående fronten med den helt lukkede og omvendte Singleframe følger designspråket spesifikt for elektriske Audi-modeller. Den vertikale utformingen av frontenden gir et kraftig og selvsikkert inntrykk. En maske i selenittsølv eller høyglanssvart rammer inn det svært tredimensjonale gitteret og sideluftinntakene. De høyt posisjonerte kjørelysene gir Q6 e-tron et veldig slående og selvsikkert utseende.
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/exterior_1_st.jpg" width="3000" height="2077" title="Audi Q6 e-tron i Daytona grå og Plasma blå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/exterior_1_st.webp" width="3000" height="2077" title="Audi Q6 e-tron i Daytona grå og Plasma blå" >}}
 
 Drivhuset strekker seg lavt og stramt over den kraftige kroppen. Den er lett avsmalnet bakover, og de svakt skrånende D-stolpene flyter elegant inn i karosseriets muskuløse skuldre. Fortsettelsen mellom D-stolpen og taket får kupeen til å fremstå mer langstrakt og kjøretøyet mer dynamisk. En fremtredende linje som strekker seg fra baklysene til bakdørene understreker den øvre delen av quattro-blemmene - konturene av kroppen som de svakt skrånende D-stolpene støttes på. Blærene er et kjerneelement i Audis design-DNA. Audi kaller dette sentrale designprinsippet «å synliggjøre teknologi». Takket være de stramme og nøyaktig tegnede quattro-blemmene, legemliggjør bilen en viss dynamikk selv når den står stille. Formen på Audi Q6 e-tron minner om Audi e-tron GT3.
 

@@ -156,7 +156,7 @@ For Audi Q6 så har Audi sanlet teknologi i forskjellige pakker.  Valg av teknol
 
 ## Lakkfarger
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/paint/plasmablue_4_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron i plasma blå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paint/plasmablue_4_st.webp" width="3000" height="2249" title="Audi Q6 e-tron i plasma blå" >}}
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -232,7 +232,7 @@ For Audi Q6 så har Audi sanlet teknologi i forskjellige pakker.  Valg av teknol
 
 ## Felger
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/wheels/wheels_1_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in wheels" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheels_1_st.webp" width="3000" height="2249" title="Audi Q6 e-tron in wheels" >}}
 
 Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 21". Click in the wheel options below for high res pictures and detailed info.
 
@@ -463,7 +463,7 @@ Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 21". C
 ## Seter
 
 
-{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/frontseats_5_st.jpg" width="3000" height="2250" title="Sport Seats" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/interior/seats/frontseats_5_st.webp" width="3000" height="2250" title="Sport Seats" >}}
 
 You can choose between serveral seat types and seat materials. Click links below for full details on each option.
 

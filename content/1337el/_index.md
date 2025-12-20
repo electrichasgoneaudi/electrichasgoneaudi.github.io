@@ -143,54 +143,54 @@ Jeg vet ikke helt når jeg får min nye bil, men forventningen er før påske. M
 
 Bilen er fortsatt en av de flotteste SUV-ene på markedet. Se bildene nedenfor: Klikk på bildene for full versjon.
 
-{{< sitefiguresized thumb="1337el/1337_39_st.jpg" width="3000" height="1687" title="Audi e-tron 55 s-line i Daytona grå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_39_st.webp" width="3000" height="1687" title="Audi e-tron 55 s-line i Daytona grå" >}}
 
-{{< sitefiguresized thumb="1337el/1337_38_st.jpg" width="3000" height="1687" title="Audi e-tron 55 s-line i Daytona grå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_38_st.webp" width="3000" height="1687" title="Audi e-tron 55 s-line i Daytona grå" >}}
 
-{{< sitefiguresized thumb="1337el/1337_35_st.jpg" width="3000" height="2250" title="Audi e-tron 55 s-line i Daytona grå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_35_st.webp" width="3000" height="2250" title="Audi e-tron 55 s-line i Daytona grå" >}}
 
-{{< sitefiguresized thumb="1337el/1337_36_st.jpg" width="3000" height="1687" title="Audi e-tron 55 s-line i Daytona grå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_36_st.webp" width="3000" height="1687" title="Audi e-tron 55 s-line i Daytona grå" >}}
 
-{{< sitefiguresized thumb="1337el/1337_37_st.jpg" width="3000" height="1687" title="Audi e-tron 55 s-line i Daytona grå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_37_st.webp" width="3000" height="1687" title="Audi e-tron 55 s-line i Daytona grå" >}}
 
-{{< sitefiguresized thumb="1337el/1337_1_st.jpg" width="3000" height="2250" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_1_st.webp" width="3000" height="2250" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
 
-{{< sitefiguresized thumb="1337el/1337_2_st.jpg" width="3000" height="2250" title="Bilen har stor lastekapasitet. Stor trampoline med 2 passasjer i tilegg til sjåfør gikk bra fra Oslo til Trysil" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_2_st.webp" width="3000" height="2250" title="Bilen har stor lastekapasitet. Stor trampoline med 2 passasjer i tilegg til sjåfør gikk bra fra Oslo til Trysil" >}}
 
-{{< sitefiguresized thumb="1337el/1337_3_st.jpg" width="3000" height="2250" title="Luftfjæring er veldig praktisk når man skal lade på Tesla og man ikke ønsker å benytte seg av to plasser" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_3_st.webp" width="3000" height="2250" title="Luftfjæring er veldig praktisk når man skal lade på Tesla og man ikke ønsker å benytte seg av to plasser" >}}
 
-{{< sitefiguresized thumb="1337el/1337_4_st.jpg" width="3000" height="1687" title="Audi e-tron 55 s-line i Daytona grå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_4_st.webp" width="3000" height="1687" title="Audi e-tron 55 s-line i Daytona grå" >}}
 
-{{< sitefiguresized thumb="1337el/1337_5_st.jpg" width="3000" height="2250" title="Bilen sammenlignet med Audi Q8 e-tron som jeg testet" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_5_st.webp" width="3000" height="2250" title="Bilen sammenlignet med Audi Q8 e-tron som jeg testet" >}}
 
-{{< sitefiguresized thumb="1337el/1337_6_st.jpg" width="3000" height="2250" title="Med luftfjæring så kommer man seg som regel alltid frem selv med mye snø" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_6_st.webp" width="3000" height="2250" title="Med luftfjæring så kommer man seg som regel alltid frem selv med mye snø" >}}
 
-{{< sitefiguresized thumb="1337el/1337_7_st.jpg" width="3000" height="2250" title="Men noen ganger så er må man måke litt" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_7_st.webp" width="3000" height="2250" title="Men noen ganger så er må man måke litt" >}}
 
-{{< sitefiguresized thumb="1337el/1337_8_st.jpg" width="3000" height="2250" title="Har kun måtte måke 3 ganger på 5 år for å få parkert." >}}
-{{< sitefiguresized thumb="1337el/1337_9_st.jpg" width="3000" height="2250" title="Ingen som sniker seg forbi med Night VIsion" >}}
-{{< sitefiguresized thumb="1337el/1337_10_st.jpg" width="3000" height="2250" title="Vinterens konge" >}}
-{{< sitefiguresized thumb="1337el/1337_11_st.jpg" width="3000" height="2250" title="Audi e-tron 55 s-line i Daytona grå" >}}
-{{< sitefiguresized thumb="1337el/1337_12_st.jpg" width="3000" height="2250" title="Avtakbart hengerfeste" >}}
-{{< sitefiguresized thumb="1337el/1337_13_st.jpg" width="3000" height="2250" title="Bilen har en svært flat ladekurve" >}}
-{{< sitefiguresized thumb="1337el/1337_14_st.jpg" width="3000" height="2250" title="55kW på 99% er klasseledende. Min kommende S6 har ca 10kW" >}}
-{{< sitefiguresized thumb="1337el/1337_15_st.jpg" width="3000" height="2250" title="Legoland er ikke noe problem når bilen lader så kjapt" >}}
-{{< sitefiguresized thumb="1337el/1337_16_st.jpg" width="3000" height="2250" title="Audi e-tron 55 s-line i Daytona grå" >}}
-{{< sitefiguresized thumb="1337el/1337_17_st.jpg" width="3000" height="2250" title="Audi e-tron 55 s-line i Daytona grå" >}}
-{{< sitefiguresized thumb="1337el/1337_18_st.jpg" width="3000" height="2250" title="Bilen sammenlignet med Audi Q4 e-tron" >}}
-{{< sitefiguresized thumb="1337el/1337_19_st.jpg" width="3000" height="2250" title="Klar til å hoppe i det?" >}}
-{{< sitefiguresized thumb="1337el/1337_20_st.jpg" width="3000" height="2250" title="Bilen med vinterfelgene" >}}
-{{< sitefiguresized thumb="1337el/1337_21_st.jpg" width="3000" height="2250" title="Det er ikke uten grunn det er svært mange hytteiere som kjører e-tron. Fantastisk vinterbil" >}}
-{{< sitefiguresized thumb="1337el/1337_22_st.jpg" width="3000" height="2250" title="Nightvision viser fotgjenger som ikke sees med vanlig syn" >}}
-{{< sitefiguresized thumb="1337el/1337_23_st.jpg" width="3000" height="2250" title="Nightvision viser fotgjenger som ikke sees med vanlig syn" >}}
-{{< sitefiguresized thumb="1337el/1337_24_st.jpg" width="3000" height="2250" title="360 kamera er kjekt" >}}
-{{< sitefiguresized thumb="1337el/1337_25_st.jpg" width="3000" height="2250" title="Audi e-tron 55 s-line i Daytona grå" >}}
-{{< sitefiguresized thumb="1337el/1337_26_st.jpg" width="3000" height="2250" title="Lademål på 60% har vært det vanlige for maks beskyttelse av batteri" >}}
-{{< sitefiguresized thumb="1337el/1337_27_st.jpg" width="3000" height="2250" title="Det følger med ladekabel og nødlader. Nødlader er aldri brukt. Ladekabel kanskje 5 ganger" >}}
-{{< sitefiguresized thumb="1337el/1337_28_st.jpg" width="3000" height="2250" title="E-tron er en av de få bilene som kan leveres med reservehjul. Jeg kjøpte selvsagt det." >}}
-{{< sitefiguresized thumb="1337el/1337_29_st.jpg" width="3000" height="1687" title="Bilen sammenlignet med Sportback versjonen" >}}
-{{< sitefiguresized thumb="1337el/1337_30_st.jpg" width="3000" height="1687" title="Bilen sammenlignet med Sportback versjonen" >}}
-{{< sitefiguresized thumb="1337el/1337_31_st.jpg" width="3000" height="2250" title="Veldig bra massasje (se test fra Bjørn Nyland)" >}}
-{{< sitefiguresized thumb="1337el/1337_32_st.jpg" width="3000" height="2250" title="Setene kan justerer 18 veier. " >}}
-{{< sitefiguresized thumb="1337el/1337_33_st.jpg" width="3000" height="2250" title="Med NightVision får du med deg mye dyreliv i mørket som du aldri ville fått med deg uten" >}}
-{{< sitefiguresized thumb="1337el/1337_34_st.jpg" width="3000" height="2250" title="Audi e-tron 55 s-line i Daytona grå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_8_st.webp" width="3000" height="2250" title="Har kun måtte måke 3 ganger på 5 år for å få parkert." >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_9_st.webp" width="3000" height="2250" title="Ingen som sniker seg forbi med Night VIsion" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_10_st.webp" width="3000" height="2250" title="Vinterens konge" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_11_st.webp" width="3000" height="2250" title="Audi e-tron 55 s-line i Daytona grå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_12_st.webp" width="3000" height="2250" title="Avtakbart hengerfeste" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_13_st.webp" width="3000" height="2250" title="Bilen har en svært flat ladekurve" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_14_st.webp" width="3000" height="2250" title="55kW på 99% er klasseledende. Min kommende S6 har ca 10kW" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_15_st.webp" width="3000" height="2250" title="Legoland er ikke noe problem når bilen lader så kjapt" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_16_st.webp" width="3000" height="2250" title="Audi e-tron 55 s-line i Daytona grå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_17_st.webp" width="3000" height="2250" title="Audi e-tron 55 s-line i Daytona grå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_18_st.webp" width="3000" height="2250" title="Bilen sammenlignet med Audi Q4 e-tron" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_19_st.webp" width="3000" height="2250" title="Klar til å hoppe i det?" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_20_st.webp" width="3000" height="2250" title="Bilen med vinterfelgene" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_21_st.webp" width="3000" height="2250" title="Det er ikke uten grunn det er svært mange hytteiere som kjører e-tron. Fantastisk vinterbil" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_22_st.webp" width="3000" height="2250" title="Nightvision viser fotgjenger som ikke sees med vanlig syn" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_23_st.webp" width="3000" height="2250" title="Nightvision viser fotgjenger som ikke sees med vanlig syn" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_24_st.webp" width="3000" height="2250" title="360 kamera er kjekt" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_25_st.webp" width="3000" height="2250" title="Audi e-tron 55 s-line i Daytona grå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_26_st.webp" width="3000" height="2250" title="Lademål på 60% har vært det vanlige for maks beskyttelse av batteri" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_27_st.webp" width="3000" height="2250" title="Det følger med ladekabel og nødlader. Nødlader er aldri brukt. Ladekabel kanskje 5 ganger" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_28_st.webp" width="3000" height="2250" title="E-tron er en av de få bilene som kan leveres med reservehjul. Jeg kjøpte selvsagt det." >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_29_st.webp" width="3000" height="1687" title="Bilen sammenlignet med Sportback versjonen" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_30_st.webp" width="3000" height="1687" title="Bilen sammenlignet med Sportback versjonen" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_31_st.webp" width="3000" height="2250" title="Veldig bra massasje (se test fra Bjørn Nyland)" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_32_st.webp" width="3000" height="2250" title="Setene kan justerer 18 veier. " >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_33_st.webp" width="3000" height="2250" title="Med NightVision får du med deg mye dyreliv i mørket som du aldri ville fått med deg uten" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_34_st.webp" width="3000" height="2250" title="Audi e-tron 55 s-line i Daytona grå" >}}

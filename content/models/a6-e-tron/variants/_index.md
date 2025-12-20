@@ -7,7 +7,7 @@ weight: 1
 
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="models/a6-e-tron/variants/variants_1_st.jpg" width="3000" height="2250" title="Audi A6 e-tron variants" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/variants/variants_1_st.webp" width="3000" height="2250" title="Audi A6 e-tron variants" >}}
 
 ### Audi A6 Sportback e-tron
 

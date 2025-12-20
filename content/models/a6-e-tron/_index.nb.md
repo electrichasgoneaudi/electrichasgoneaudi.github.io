@@ -11,7 +11,7 @@ Audi A6 e-tron ble først avduket i april 2021 som en konseptbil og hadde sin ve
 
 Audi A6 er tilgjengelig i både Sportback- og Avant-versjoner.
 
-{{< sitefiguresized thumb="models/a6-e-tron/variants/variants_1_st.jpg" width="3000" height="2250" title="Audi A6 e-tron varianter" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/variants/variants_1_st.webp" width="3000" height="2250" title="Audi A6 e-tron varianter" >}}
 
 De første eierne forventes å motta bilene sine sent i 2024.
 

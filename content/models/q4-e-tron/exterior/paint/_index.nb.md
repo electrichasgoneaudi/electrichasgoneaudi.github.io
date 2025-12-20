@@ -28,12 +28,12 @@ Audi Q4 e-tron kan leveres med 3 forskjellige lakkeringsutførelser.
 På basic lakkering så er ikke støtfangerer eller hjulbuer lakkert.
 
 
-{{< sitefiguresized thumb="models/q4-e-tron/exterior/paint/paint_basic_1_st.jpg" width="2500" height="1240" title="Basic lakkering - hjulbuer og støtfangerer er ulakkerte" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_basic_1_st.webp" width="2500" height="1240" title="Basic lakkering - hjulbuer og støtfangerer er ulakkerte" >}}
 
 
-{{< sitefiguresized thumb="models/q4-e-tron/exterior/paint/paint_basic_2_st.jpg" width="2500" height="1550" title="Basic lakkering - hjulbuer og støtfangerer er ulakkerte" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_basic_2_st.webp" width="2500" height="1550" title="Basic lakkering - hjulbuer og støtfangerer er ulakkerte" >}}
 
-{{< sitefiguresized thumb="models/q4-e-tron/exterior/paint/paint_basic_3_st.jpg" width="2500" height="1872" title="Basic lakkering - hjulbuer og støtfangerer er ulakkerte" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_basic_3_st.webp" width="2500" height="1872" title="Basic lakkering - hjulbuer og støtfangerer er ulakkerte" >}}
 
 ### Kontrastlakkering
 

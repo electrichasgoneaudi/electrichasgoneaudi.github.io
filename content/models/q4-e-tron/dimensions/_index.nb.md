@@ -8,8 +8,8 @@ weight: 3
 
 ## Audi Q4 e-tron
 
-{{< sitefiguresized thumb="models/q4-e-tron/dimensions/dimension_st.jpg" width="2480" height="3050" title="Audi Q4 e-tron Dimensjoner" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q4-e-tron/dimensions/dimension_st.webp" width="2480" height="3050" title="Audi Q4 e-tron Dimensjoner" >}}
 
 ## Audi Q4 e-tron Sportback
 
-{{< sitefiguresized thumb="models/q4-e-tron/dimensions/dimensionsb_st.jpg" width="2480" height="3050" title="Audi Q4 e-tron Sportback Dimensjoner" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q4-e-tron/dimensions/dimensionsb_st.webp" width="2480" height="3050" title="Audi Q4 e-tron Sportback Dimensjoner" >}}

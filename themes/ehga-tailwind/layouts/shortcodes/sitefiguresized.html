@@ -1,14 +1,23 @@
 <figure>
-    {{ $url := .Get "thumb" | replaceRE "_st." "." }}
+    {{ $thumb := .Get "thumb" }}
+    {{ $url := $thumb | replaceRE "_st." "." }}
     {{ $random := delimit (shuffle (split (md5 $url) "" )) "" }}
     {{ $originalWidth := .Get "width" | float }}
     {{ $originalHeight := .Get "height" | float }}
     {{ $desiredWidth := 800 }}
     {{ $scaleFactor := div $desiredWidth $originalWidth | float }}
     {{ $scaledHeight := mul $scaleFactor $originalHeight | int }}
+    
+    {{ $thumbUrl := $thumb }}
+    {{ $fullUrl := $url }}
+    {{ if not (hasPrefix $thumb "http") }}
+        {{ $thumbUrl = printf "https://media.evkx.net/ehga/%s" $thumb }}
+        {{ $fullUrl = printf "https://media.evkx.net/ehga/%s" $url }}
+    {{ end }}
+    
     <div class="pswp-gallery" id="gallery--{{$random}}">
-        <a href="https://media.evkx.net/ehga/{{ $url }}" data-pswp-width="{{ .Get "width" }}" data-pswp-height="{{ .Get "height" }}" target="_blank">
-            <img src="https://media.evkx.net/ehga/{{ .Get "thumb" }}" class="max-w-full h-auto" alt="{{ .Get "title" }}" title="{{ .Get "title" }}" width="{{ $desiredWidth }}" height="{{ $scaledHeight }}" target="_blank">
+        <a href="{{ $fullUrl }}" data-pswp-width="{{ .Get "width" }}" data-pswp-height="{{ .Get "height" }}" target="_blank">
+            <img src="{{ $thumbUrl }}" class="max-w-full h-auto" alt="{{ .Get "title" }}" title="{{ .Get "title" }}" width="{{ $desiredWidth }}" height="{{ $scaledHeight }}" target="_blank">
         </a>
     </div>
    <figcaption>

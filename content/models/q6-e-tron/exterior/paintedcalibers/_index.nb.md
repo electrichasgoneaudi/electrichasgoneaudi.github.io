@@ -8,4 +8,4 @@ sectiontabs: "/nb/models/q6-e-tron/exterior/"
 <!-- markdownlint-disable MD033 -->
 
 
-{{< sitefiguresized thumb="models/q6-e-tron/exterior/paintedcalibers/calibers_1_st.jpg" width="2712" height="2062" title="Audi Q6 e-tron in Daytona grey with red painted calibers" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paintedcalibers/calibers_1_st.webp" width="2712" height="2062" title="Audi Q6 e-tron in Daytona grey with red painted calibers" >}}

@@ -26,12 +26,12 @@ Click on links for quick access to a color.
 On the basic trim the bumpers and wheel arches are not painted
 
 
-{{< sitefiguresized thumb="models/q4-e-tron/exterior/paint/paint_basic_1_st.jpg" width="2500" height="1240" title="Basic trim - wheel archer and bumpers are not painted" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_basic_1_st.webp" width="2500" height="1240" title="Basic trim - wheel archer and bumpers are not painted" >}}
 
 
-{{< sitefiguresized thumb="models/q4-e-tron/exterior/paint/paint_basic_2_st.jpg" width="2500" height="1550" title="Basic trim - wheel archer and bumpers are not painted" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_basic_2_st.webp" width="2500" height="1550" title="Basic trim - wheel archer and bumpers are not painted" >}}
 
-{{< sitefiguresized thumb="models/q4-e-tron/exterior/paint/paint_basic_3_st.jpg" width="2500" height="1872" title="Basic trim - wheel archer and bumpers are not painted" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_basic_3_st.webp" width="2500" height="1872" title="Basic trim - wheel archer and bumpers are not painted" >}}
 
 ### Contrast paint
 

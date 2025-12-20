@@ -11,7 +11,7 @@ The Audi A6 e-tron was first revealed in April 2021 as a concept car and had its
 
 The Audi A6 is available in both Sportback and Avant versions.
 
-{{< sitefiguresized thumb="models/a6-e-tron/variants/variants_1_st.jpg" width="3000" height="2250" title="Audi A6 e-tron variants" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/variants/variants_1_st.webp" width="3000" height="2250" title="Audi A6 e-tron variants" >}}
 
 The first owners are expected to receive their cars in late 2024.
 

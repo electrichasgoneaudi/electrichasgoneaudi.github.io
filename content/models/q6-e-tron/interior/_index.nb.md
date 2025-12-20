@@ -8,7 +8,7 @@ weight: 7
 
 Egenskapene til materialene som ble brukt ble innlemmet i interiørdesignen på et veldig tidlig stadium av utviklingsprosessen og, i kombinasjon med Audi MMI panoramadisplay og MMI passasjerdisplay, skaper det en visuelt tydelig digital scene.
 
-{{< sitefiguresized thumb="models/q6-e-tron/interior/interior_10_st.jpg" width="3000" height="2249" title="Audi Q6 interiør" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/interior/interior_10_st.webp" width="3000" height="2249" title="Audi Q6 interiør" >}}
 
 Interiørets høykontrastdesign plasserer bevisst elementer i forgrunnen eller bakgrunnen, og skaper en tredimensjonal romlig arkitektur som er skreddersydd for beboerne når det gjelder design og ergonomi. Atmosfæren i interiøret ble designet for å være desidert hjemmekoselig. "Softwrap" strekker seg fra dørene over hele cockpiten til midtkonsollen, og skaper en homogen og omsluttende romfølelse. De samme fargene og høykvalitetsmaterialene, hvorav noen er laget av resirkulerte materialer, finnes også i setene. For eksempel bruker S line-variantens Softwrap det resirkulerte stoffet Elastic Melange, som er laget av 100 prosent resirkulert polyester. Overdekningen, foringen av søylene og solskjermene er laget av Draft-stoff, som også er 100 prosent resirkulert polyester.
 

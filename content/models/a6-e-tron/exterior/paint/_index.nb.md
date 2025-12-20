@@ -32,59 +32,59 @@ De forskjellige standardfargene er
 
 Standardfarge. Solid
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/magneticgray_1_st.jpg" width="1920" height="1440" title="Audi A6 e-tron i magnet grå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/magneticgray_1_st.webp" width="1920" height="1440" title="Audi A6 e-tron i magnet grå" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/magneticgray_2_st.jpg" width="1920" height="1440" title="Audi A6 e-tron i magnet grå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/magneticgray_2_st.webp" width="1920" height="1440" title="Audi A6 e-tron i magnet grå" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/magneticgray_3_st.jpg" width="1920" height="1440" title="Audi A6 e-tron i magnet grå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/magneticgray_3_st.webp" width="1920" height="1440" title="Audi A6 e-tron i magnet grå" >}}
 
 ### Glacier hvit
 
 Fargekode: **2Y**
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/glacierwhite_1_st.jpg" width="1920" height="1440" title="Audi A6 e-tron i glacier hvit" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/glacierwhite_1_st.webp" width="1920" height="1440" title="Audi A6 e-tron i glacier hvit" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/glacierwhite_2_st.jpg" width="1920" height="1440" title="Audi A6 e-tron i glacier hvit" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/glacierwhite_2_st.webp" width="1920" height="1440" title="Audi A6 e-tron i glacier hvit" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/glacierwhite_3_st.jpg" width="1920" height="1440" title="Audi A6 e-tron i glacier hvit" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/glacierwhite_3_st.webp" width="1920" height="1440" title="Audi A6 e-tron i glacier hvit" >}}
 
 ### Plasma blå
 
 Fargekode: **3D**
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/plasmablue_1_st.jpg" width="1920" height="1440" title="Audi A6 e-tron i plasma blå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/plasmablue_1_st.webp" width="1920" height="1440" title="Audi A6 e-tron i plasma blå" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/plasmablue_2_st.jpg" width="1920" height="1440" title="Audi A6 e-tron i plasma blå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/plasmablue_2_st.webp" width="1920" height="1440" title="Audi A6 e-tron i plasma blå" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/plasmablue_3_st.jpg" width="1920" height="1440" title="Audi A6 e-tron i plasma blå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/plasmablue_3_st.webp" width="1920" height="1440" title="Audi A6 e-tron i plasma blå" >}}
 
 ### Mythos svart
 
 Fargekode: **OE**
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/mythosblack_1_st.jpg" width="1920" height="1440" title="Audi A6 e-tron i Mythos svart" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/mythosblack_1_st.webp" width="1920" height="1440" title="Audi A6 e-tron i Mythos svart" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/mythosblack_2_st.jpg" width="1920" height="1440" title="Audi A6 e-tron i Mythos svart" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/mythosblack_2_st.webp" width="1920" height="1440" title="Audi A6 e-tron i Mythos svart" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/mythosblack_3_st.jpg" width="1920" height="1440" title="Audi A6 e-tron i Mythos svart" >}}### Typhoon Grå
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/mythosblack_3_st.webp" width="1920" height="1440" title="Audi A6 e-tron i Mythos svart" >}}### Typhoon Grå
 
 Fargekode: **2L**
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/typhoongray_1_st.jpg" width="1920" height="1440" title="Audi A6 e-tron i typhoon grå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/typhoongray_1_st.webp" width="1920" height="1440" title="Audi A6 e-tron i typhoon grå" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/typhoongray_2_st.jpg" width="1920" height="1440" title="Audi A6 e-tron i typhoon grå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/typhoongray_2_st.webp" width="1920" height="1440" title="Audi A6 e-tron i typhoon grå" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/typhoongray_3_st.jpg" width="1920" height="1440" title="Audi A6 e-tron i typhoon grå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/typhoongray_3_st.webp" width="1920" height="1440" title="Audi A6 e-tron i typhoon grå" >}}
 
 ### Malpelo Blå
 
 Fargekode: **U8**
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/malpeloblue_1_st.jpg" width="1920" height="1440" title="Audi A6 e-tron i malpelo blå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/malpeloblue_1_st.webp" width="1920" height="1440" title="Audi A6 e-tron i malpelo blå" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/malpeloblue_2_st.jpg" width="1920" height="1440" title="Audi A6 e-tron i malpelo blå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/malpeloblue_2_st.webp" width="1920" height="1440" title="Audi A6 e-tron i malpelo blå" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/malpeloblue_3_st.jpg" width="1920" height="1440" title="Audi A6 e-tron i malpelo blå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/malpeloblue_3_st.webp" width="1920" height="1440" title="Audi A6 e-tron i malpelo blå" >}}
 
 ### Siam Beige
 
@@ -92,11 +92,11 @@ Kun tilgjengelig på S-line og S6.
 
 Fargekode: **7M**
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/siambeige_1_st.jpg" width="1920" height="1440" title="Audi A6 e-tron i siam beige" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/siambeige_1_st.webp" width="1920" height="1440" title="Audi A6 e-tron i siam beige" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/siambeige_2_st.jpg" width="1920" height="1440" title="Audi A6 e-tron i siam beige" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/siambeige_2_st.webp" width="1920" height="1440" title="Audi A6 e-tron i siam beige" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/siambeige_3_st.jpg" width="1920" height="1440" title="Audi A6 e-tron i siam beige" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/siambeige_3_st.webp" width="1920" height="1440" title="Audi A6 e-tron i siam beige" >}}
 
 ### Daytona Grå
 
@@ -104,11 +104,11 @@ Kun tilgjengelig på S-line og S6.
 
 Fargekode: **6Y**
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/daytonagray_1_st.jpg" width="1920" height="1440" title="Audi A6 e-tron i daytona grå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/daytonagray_1_st.webp" width="1920" height="1440" title="Audi A6 e-tron i daytona grå" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/daytonagray_2_st.jpg" width="1920" height="1440" title="Audi A6 e-tron i daytona grå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/daytonagray_2_st.webp" width="1920" height="1440" title="Audi A6 e-tron i daytona grå" >}}
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/daytonagray_3_st.jpg" width="1920" height="1440" title="Audi A6 e-tron i daytona grå" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/daytonagray_3_st.webp" width="1920" height="1440" title="Audi A6 e-tron i daytona grå" >}}
 
 ## Audi Exclusive lakkfarger
 

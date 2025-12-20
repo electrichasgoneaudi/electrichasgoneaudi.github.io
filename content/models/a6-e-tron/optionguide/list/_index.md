@@ -145,7 +145,7 @@ For the Audi A6, Audi has integrated technology in different packages. The choic
 
 ## Paint Color & Paint trim
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/paint/plasmablue_3_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron in plasma blue" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/plasmablue_3_st.webp" width="3000" height="2249" title="Audi Q6 e-tron in plasma blue" >}}
 
 With more than 60 different colors, serveral paint trim there huge amount of color combination available. 
 Click below for high-res pictures and details of each option. 
@@ -214,7 +214,7 @@ Click below for high-res pictures and details of each option.
 
 ## Wheels
 
-{{< sitefiguresized thumb="models/a6-e-tron/exterior/wheels/wheeloption_65w_1_st.jpg" width="3000" height="2249" title="Audi A6 e-tron in wheels" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/wheels/wheeloption_65w_1_st.webp" width="3000" height="2249" title="Audi A6 e-tron in wheels" >}}
 
 Audi A6 e-tron can be delivered with serveral types of wheels from 19" to 21". Click in the wheel options belo for high res pictures and detailed info.
 
@@ -637,7 +637,7 @@ A collision between the vehicle and the trailer when reversing can be avoided.</
 
 ## Seats
 
-{{< sitefiguresized thumb="models/q6-e-tron/interior/seats/frontseats_5_st.jpg" width="3000" height="2250" title="Sport Seats" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/interior/seats/frontseats_5_st.webp" width="3000" height="2250" title="Sport Seats" >}}
 
 You can choose between serveral seat types and seat materials. Click links below for full details on each option.
 

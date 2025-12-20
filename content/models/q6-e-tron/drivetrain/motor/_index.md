@@ -11,13 +11,13 @@ When developing the new electric motors, the focus was on a modular electric axl
 The newly developed electric motors also require around 30 percent less installation space than those previously used in Audi's electrically powered models. The new design has also made it possible to reduce the weight by around
 20 percent.
 
-{{< sitefiguresized thumb="models/q6-e-tron/drivetrain/motors/frontmotor_1_st.jpg" width="3000" height="2056" title="Audi Q6 ASM front motor" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/motors/frontmotor_1_st.webp" width="3000" height="2056" title="Audi Q6 ASM front motor" >}}
 
 The particularly compact and efficient electric motors are built in Győr, Hungary. The largest powertrain plant in the world not only manufactures the electric motors but also a large proportion of the gearboxes.
 
 A key advantage of the newly developed electric motors is their efficiency. This is primarily thanks to a new hairpin winding in the stator, silicon carbide semiconductors in the pulse inverter, as well as dry sump lubrication and an electric oil pump in the transmission. The new hairpin winding, which is being used in the Q6 e-tron2 for the first time at Audi, maximizes the current flow in the stator of the electric motor. This method also enables a higher number of windings: The fill factor is now 60 percent instead of the 45 percent reached with the conventional windings used previously. Thanks to rotor oil cooling, Audi was also able to largely dispense with the use of heavy rare earths and, at the same time, increase the power density by 20 percent. In total, the losses of the electric drives have been significantly reduced by around 50 percent compared to the Audi e-tron.
 
-{{< sitefiguresized thumb="models/q6-e-tron/drivetrain/motors/frontmotor_2_st.jpg" width="3000" height="2056" title="Audi Q6 ASM front motor" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/motors/frontmotor_2_st.webp" width="3000" height="2056" title="Audi Q6 ASM front motor" >}}
 
 The new direct cooling of the electric motors with oil keeps components such as the stator winding and permanent magnets in the rotor in the optimum temperature range. As a result, the power-to-weight performance of the PPE's electric drive is around 60 percent higher than that of the first-generation electric drives from Audi. The newly developed electric drives for the PPE are also characterized by particularly quiet and comfortable acoustics.
 
@@ -29,11 +29,11 @@ Thanks to the scalability and flexibility of the Premium Platform Electric, a wi
 
 Two model variants with all-wheel drive and two different performance levels will be available at market launch: the Audi Q6 e-tron quattro2 and the Audi SQ6 e-tron. Particularly efficient models with rear-wheel drive designed for range will follow at a later date - depending on the market - and will also mark the entry into the Q6 e-tron series.
 
-{{< sitefiguresized thumb="models/q6-e-tron/drivetrain/motors/rearmotor_1_st.jpg" width="3000" height="2056" title="Audi Q6 PMSM rear motor" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/motors/rearmotor_1_st.webp" width="3000" height="2056" title="Audi Q6 PMSM rear motor" >}}
 
 The Audi Q6 e-tron2 has a permanent magnet synchronous motor (PSM) on the rear axle and an asynchronous motor (ASM) on the front axle. The PSM in the Audi Q6 e-tron2 has an axial length of 200 millimeters. The ASM (asynchronous motor), which spins freely without any significant drag losses, is 100 millimeters (7.9 in) long. The system output is up to 285 kW (387 PS). The Q6 e-tron quattro2. Overall, the efficiency measures relating to the new electric motors for the PPE alone generate around 40 kilometers (25 mi) more range compared to the previous electric model portfolio. The newly developed electric motors for the PPE require around 30 percent less installation space than the units in the first-generation e-tron. The weight has been reduced by around 20 percent.
 
-{{< sitefiguresized thumb="models/q6-e-tron/drivetrain/motors/rearmotor_2_st.jpg" width="3000" height="2056" title="Audi Q6 PMSM rear motor" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/motors/rearmotor_2_st.webp" width="3000" height="2056" title="Audi Q6 PMSM rear motor" >}}
 
 The Audi SQ6 e-tron. The PSM on the rear axle has an axial length of 200 millimeters (7.9 in) in the Audi SQ6 e-tron. The ASM on the front axle, which spins freely without any significant drag losses, is 100 millimeters (3.9 in) long and is used in dynamic driving situations. The S model has a maximum range of 598 kilometers (372 mi). The SQ6 e-tron (combined power consumption in kWh/100 km: 18.4-17.5 (WLTP); combined CO2 emissions in g/km: 0; CO2 class A) reaches the 100 km/h (62 mph) mark in as low as 4.3 seconds.
 

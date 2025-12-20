@@ -6,7 +6,7 @@ weight: 6
 ---
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="models/q4-e-tron/drivetrain/drivetrain_st.jpg" width="3000" height="1710" title="Audi Q4 e-tron drivetrain" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/drivetrain_st.webp" width="3000" height="1710" title="Audi Q4 e-tron drivetrain" >}}
 
 The video below highlights key features of the MEB platform.
 

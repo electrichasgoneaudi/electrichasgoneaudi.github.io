@@ -20,7 +20,7 @@ Støvpartikler, lukt og allergener</li>
 <li>Luftventiler i midtkonsollen bak</li>
 </ul>
 
-{{< sitefiguresized thumb="models/q6-e-tron/technology/climatecontrol/interior_1_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron med 3 soners klimasystem" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/climatecontrol/interior_1_st.webp" width="3000" height="2249" title="Audi Q6 e-tron med 3 soners klimasystem" >}}
 
 ## Komfort-tilleggsklimaanlegget
 

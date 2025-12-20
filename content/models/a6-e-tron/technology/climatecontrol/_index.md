@@ -21,7 +21,7 @@ Dust particles, odors and allergens</li>
 <li>Air vents in the rear center console</li>
 </ul>
 
-{{< sitefiguresized thumb="models/q6-e-tron/technology/climatecontrol/interior_1_st.jpg" width="3000" height="2249" title="Audi Q6 e-tron with 3 zone climate system" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/climatecontrol/interior_1_st.webp" width="3000" height="2249" title="Audi Q6 e-tron with 3 zone climate system" >}}
 
 ## The comfort auxiliary air conditioning
 
