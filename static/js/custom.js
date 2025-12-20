@@ -19,13 +19,6 @@ function initPhotoSwipe() {
     import('/js/photoswipe-lightbox.esm.js').then(module => {
         const PhotoSwipeLightbox = module.default;
         
-        // Initialize PhotoSwipe ONLY for links that point to image files
-        const lightbox = new PhotoSwipeLightbox({
-            gallery: '.content-prose, figur',
-            children: 'a', // Target all links initially, but filter them below
-            pswpModule: () => import('/js/photoswipe.esm.js')
-        });
-        
         // Function to check if a URL points to an image file
         function isImageUrl(url) {
             if (!url) return false;
@@ -33,16 +26,41 @@ function initPhotoSwipe() {
             return imageExtensions.test(url.split('?')[0]); // Remove query parameters before checking
         }
         
-        // Filter to only include links that contain images AND point to image files
+        // Function to check if a link should be handled by PhotoSwipe
+        function isPhotoSwipeLink(element) {
+            // Must contain an img element
+            const hasImg = element.querySelector('img') !== null;
+            if (!hasImg) return false;
+            
+            // Must point to an image file
+            const href = element.getAttribute('href');
+            return isImageUrl(href);
+        }
+        
+        // First, add click handlers to prevent default behavior only for non-PhotoSwipe links
+        document.addEventListener('click', function(e) {
+            const link = e.target.closest('a');
+            if (link && link.querySelector('img')) {
+                // This is a link with an image
+                if (!isPhotoSwipeLink(link)) {
+                    // This is NOT a PhotoSwipe link (e.g., navigation link with image)
+                    // Let it behave normally - don't prevent default
+                    return;
+                }
+            }
+        }, false);
+        
+        // Initialize PhotoSwipe with a more specific selector
+        const lightbox = new PhotoSwipeLightbox({
+            gallery: '.content-prose, figur',
+            children: 'a[href$=".jpg"], a[href$=".jpeg"], a[href$=".png"], a[href$=".webp"], a[href$=".gif"], a[href$=".bmp"], a[href$=".svg"]',
+            pswpModule: () => import('/js/photoswipe.esm.js')
+        });
+        
+        // Additional filtering to ensure we only handle links with images
         lightbox.addFilter('gallery', (gallery) => {
             return gallery.filter(element => {
-                // Must contain an img element
-                const hasImg = element.querySelector('img') !== null;
-                if (!hasImg) return false;
-                
-                // Must point to an image file
-                const href = element.getAttribute('href');
-                return isImageUrl(href);
+                return isPhotoSwipeLink(element);
             });
         });
         
@@ -52,8 +70,8 @@ function initPhotoSwipe() {
             const img = linkEl.querySelector('img');
             const href = linkEl.getAttribute('href');
             
-            // Only proceed if this link contains an image AND points to an image file
-            if (!img || !isImageUrl(href)) {
+            // Only proceed if this is a valid PhotoSwipe link
+            if (!isPhotoSwipeLink(linkEl)) {
                 return null; // Skip this item
             }
             
