@@ -7,8 +7,8 @@ weight: 100006
 <!-- markdownlint-disable MD033 -->
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_1s.jpg" class="img-fluid" alt="Audi skysphere concept" title="Audi skysphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_1.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_1s.webp" class="img-fluid" alt="Audi skysphere concept" title="Audi skysphere concept">
     </a>
     <figcaption><h4>Audi skysphere concept</h4></figcaption>
 </figure>
@@ -20,8 +20,8 @@ The Audi skysphere concept shows how the brand is redefining luxury in the futur
 To give passengers the maximum amount of freedom, the Audi skysphere concept was designed for two different driving experiences: a grand touring experience and a sports experience. This makes use of a spectacular technical detail – the variable wheelbase. Electric motors and a sophisticated mechanism with body and frame components that slide into one another make it possible to vary the wheelbase itself and the exterior length of the car by 250 millimeters. At the same time, the vehicle’s ground clearance is adjusted by 10 millimeters to enhance comfort and driving dynamics.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_4s.jpg" class="img-fluid" alt="Audi skysphere concept Grand Touring mode" title="Audi skysphere concept Grand Touring mode">
+    <a href="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_4.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_4s.webp" class="img-fluid" alt="Audi skysphere concept Grand Touring mode" title="Audi skysphere concept Grand Touring mode">
     </a>
     <figcaption><h4>Audi skysphere concept sport mode</h4></figcaption>
 </figure>
@@ -29,8 +29,8 @@ To give passengers the maximum amount of freedom, the Audi skysphere concept was
 With the touch of button, the driver can take advantage of their freedom and choose their own driving experience– either they pilot their 4.94-meter-long e-roadster themselves in “Sports” mode with a reduced wheelbase, while the rear-wheel steering ensures that the vehicle remains extremely agile despite its dimensions. Or they can choose to be chauffeured around in a 5.19-meter GT in the autonomous “Grand Touring” driving mode while enjoying the sky and the scenery, maximum legroom, and the services offered by a seamlessly integrated digital ecosystem.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_3s.jpg" class="img-fluid" alt="Audi skysphere concept Grand Touring mode" title="Audi skysphere concept Grand Touring mode">
+    <a href="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_3.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_3s.webp" class="img-fluid" alt="Audi skysphere concept Grand Touring mode" title="Audi skysphere concept Grand Touring mode">
     </a>
     <figcaption><h4>Audi skysphere concept Grand Touring mode</h4></figcaption>
 </figure>
@@ -57,8 +57,8 @@ The Audi skysphere’s battery modules are primarily positioned behind the cabin
 The vehicle features double wishbone axles in the front and the rear. The upper and lower wishbones are forged or cast from aluminum. Steering takes place via a steer-by-wire system that controls both the front and the rear wheels. Because the system is not mechanically connected to the front axle, the driver can select different steering ratios and steering settings – all at the touch of a button. This allows the steering to be adjusted from extremely direct to comfortable, but also from high self-aligning forces to minimal self-aligning forces, for example when parking. The rear-axle steering and adaptive wheelbase also contribute to the car’s small turning radius.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_7.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_7s.jpg" class="img-fluid" alt="Audi skysphere concept" title="Audi skysphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_7.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_7s.webp" class="img-fluid" alt="Audi skysphere concept" title="Audi skysphere concept">
     </a>
     <figcaption><h4>Audi skysphere concept</h4></figcaption>
 </figure>
@@ -79,8 +79,8 @@ Gentle dimming and a structured, rhythmically pulsating light produce an elegant
 The rear end is also dominated by a digitally controlled LED surface that extends across the entire width of the vehicle. Countless red LEDs are scattered like rubies across the vertical rear surface. Reflections create dynamic lighting and shadow effects when the lighting units are switched on and off.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_6s.jpg" class="img-fluid" alt="Audi skysphere concept" title="Audi skysphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_6.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_6s.webp" class="img-fluid" alt="Audi skysphere concept" title="Audi skysphere concept">
     </a>
     <figcaption><h4>Audi skysphere concept</h4></figcaption>
 </figure>
@@ -98,8 +98,8 @@ When it comes to the three upcoming concept cars Audi skysphere, Audi grandspher
 As a result, control elements such as the steering wheel and pedals can be swiveled into an invisible position and thereby completely removed from the interior. And passengers, including the one in the front left seat, can enjoy a new form of freedom – the freedom to relax in the open air, enjoy the scenery and the wind, or interact with the Internet and the world thanks to the connection with the digital ecosystem in the Audi skysphere.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_5s.jpg" class="img-fluid" alt="Audi skysphere concept" title="Audi skysphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_5.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_5s.webp" class="img-fluid" alt="Audi skysphere concept" title="Audi skysphere concept">
     </a>
     <figcaption><h4>Audi skysphere concept</h4></figcaption>
 </figure>

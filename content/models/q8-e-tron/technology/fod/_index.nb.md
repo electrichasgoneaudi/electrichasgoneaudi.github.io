@@ -20,8 +20,8 @@ Følgende utstyr er tilgjengelig for funksjon på forespørsel
 - Parkeringshjelp
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/fod/fod1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/fod/fod1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/fod/fod1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/fod/fod1s.webp"
         class="img-fluid" alt="Funksjon på forespørsel fra myAudi-appen" title="Funksjon på forespørsel fra myAudi-appen">
     </a>
     <figcaption><h4>Funksjon på forespørsel fra myAudi-appen</h4></figcaption>

@@ -11,36 +11,36 @@ weight: 6
 You can order panoramic roof with option id **3FU**. This is the standard roof.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_1s.jpg" class="img-fluid" alt="Panoramic roof" title="Panoramic roof">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/panoramic_roof_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/panoramic_roof_1s.webp" class="img-fluid" alt="Panoramic roof" title="Panoramic roof">
     </a>
     <figcaption><h4>Panoramic roof</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_2s.jpg" class="img-fluid" alt="Panoramic roof" title="Panoramic roof">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/panoramic_roof_2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/panoramic_roof_2s.webp" class="img-fluid" alt="Panoramic roof" title="Panoramic roof">
     </a>
     <figcaption><h4>Panoramic roof</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_3s.jpg" class="img-fluid" alt="Panoramic roof" title="Panoramic roof">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/panoramic_roof_3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/panoramic_roof_3s.webp" class="img-fluid" alt="Panoramic roof" title="Panoramic roof">
     </a>
     <figcaption><h4>Panoramic roof</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_4s.jpg" class="img-fluid" alt="Panoramic roof" title="Panoramic roof">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/panoramic_roof_4.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/panoramic_roof_4s.webp" class="img-fluid" alt="Panoramic roof" title="Panoramic roof">
     </a>
     <figcaption><h4>Panoramic roof</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/panoramic_roof_5s.jpg" class="img-fluid" alt="Panoramic roof" title="Panoramic roof">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/panoramic_roof_5.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/panoramic_roof_5s.webp" class="img-fluid" alt="Panoramic roof" title="Panoramic roof">
     </a>
     <figcaption><h4>Panoramic roof</h4></figcaption>
 </figure>
@@ -73,22 +73,22 @@ Your benefits:
 Option **3FI**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/carbon_roof_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/carbon_roof_1s.jpg" class="img-fluid" alt="Carbon roof" title="Carbon roof">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/carbon_roof_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/carbon_roof_1s.webp" class="img-fluid" alt="Carbon roof" title="Carbon roof">
     </a>
     <figcaption><h4>Carbon roof</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/carbon_roof_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/carbon_roof_2s.jpg" class="img-fluid" alt="Carbon roof" title="Carbon roof">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/carbon_roof_2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/carbon_roof_2s.webp" class="img-fluid" alt="Carbon roof" title="Carbon roof">
     </a>
     <figcaption><h4>Carbon roof</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/carbon_roof_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/roof/carbon_roof_3s.jpg" class="img-fluid" alt="Carbon roof" title="Carbon roof">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/carbon_roof_3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/roof/carbon_roof_3s.webp" class="img-fluid" alt="Carbon roof" title="Carbon roof">
     </a>
     <figcaption><h4>Carbon roof</h4></figcaption>
 </figure>

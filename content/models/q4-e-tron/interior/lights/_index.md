@@ -15,8 +15,8 @@ The following interior lights are standard on Audi Q4
 - illuminated glove compartment
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/standardlights3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/standardlights3.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/interior/lights/standardlights3.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/interior/lights/standardlights3.webp"
         class="img-fluid" alt="LED front roof module" title="LED front roof module">
     </a>
     <figcaption><h4>LED front roof module</h4></figcaption>
@@ -45,8 +45,8 @@ The ambient lighting package plus with option id **QQ9**. offers the following r
 - footwell lighting in the front and rear
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientligtscontrol.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientligtscontrols.jpg" 
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/interior/lights/ambientligtscontrol.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/interior/lights/ambientligtscontrols.webp" 
         class="img-fluid" alt="The lighs are controlled in MMI" title="The lighs are controlled in MMI">
     </a>
     <figcaption><h4>The lighs are controlled in MMI</h4></figcaption>
@@ -55,24 +55,24 @@ The ambient lighting package plus with option id **QQ9**. offers the following r
 The color can change based on your drive mode in [Audi Drive Select](/models/q4-e-tron/technology/audidriveselect/).
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientlight.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientlights.jpg" 
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/interior/lights/ambientlight.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/interior/lights/ambientlights.webp" 
         class="img-fluid" alt="Multicolor ambient light" title="Multicolor ambient light">
     </a>
     <figcaption><h4>Multicolor ambient light</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientlight2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientlight2s.jpg" 
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/interior/lights/ambientlight2.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/interior/lights/ambientlight2s.webp" 
         class="img-fluid" alt="Multicolor ambient light" title="Multicolor ambient light">
     </a>
     <figcaption><h4>Multicolor ambient light</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientlight3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/lights/ambientlight3s.jpg" 
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/interior/lights/ambientlight3.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/interior/lights/ambientlight3s.webp" 
         class="img-fluid" alt="Multicolor ambient light" title="Multicolor ambient light">
     </a>
     <figcaption><h4>Multicolor ambient light</h4></figcaption>

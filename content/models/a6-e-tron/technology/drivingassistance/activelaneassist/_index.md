@@ -7,8 +7,8 @@ sectiontabs: "/models/q6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/activelaneassist/activelaneassist.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/activelaneassist/activelaneassist.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/activelaneassist/activelaneassist.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/activelaneassist/activelaneassist.webp"
         class="img-fluid" alt="Audi active lane assist" title="Audi active lane assist">
     </a>
     <figcaption><h4>Audi active lane assist</h4></figcaption>
@@ -19,8 +19,8 @@ sectiontabs: "/models/q6-e-tron/technology/"
  With a late steering intervention point, Audi active lane assist does not intervene until shortly before the detected lane marking might be crossed; then it gives a corrective steering intervention in the proper direction. In addition, the driver may choose to be warned by a vibration of the steering wheel when crossing detected lane markings. 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/activelaneassist/vibrationmenu.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/activelaneassist/vibrationmenus.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/activelaneassist/vibrationmenu.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/activelaneassist/vibrationmenus.webp"
         class="img-fluid" alt="You can disable wheel vibration" title="You can disable wheel vibration">
     </a>
     <figcaption><h4>You can disable wheel vibration</h4></figcaption>
@@ -29,8 +29,8 @@ sectiontabs: "/models/q6-e-tron/technology/"
 The Active Lane Assist can be disabled on the button at the end of the direction handle. It is not possible to permanent disable it.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/activelaneassist/laneassistbutton.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/activelaneassist/laneassistbuttons.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/activelaneassist/laneassistbutton.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/activelaneassist/laneassistbuttons.webp"
         class="img-fluid" alt="Active lane assist can be disabled with the button on the direction handle" title="Active lane assist can be disabled with the button on the direction handle">
     </a>
     <figcaption><h4>Active lane assist can be disabled with the button on the direction handle</h4></figcaption>

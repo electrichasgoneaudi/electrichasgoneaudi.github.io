@@ -21,7 +21,7 @@ Forbedrer utseendet mye, og du trenger ikke å kjøre rundt som et akvarium på 
 
 [Se vinduene for detaljer](../exterior/windows/#privacy-glass)
 
-![3y4](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/curtain/curtains.jpg)
+![3y4](https://media.evkx.net/ehga/models/e-tron/interior/curtain/curtains.webp)
 
 ## Rullegardiner baksete: Tilvalg *3Y4*
 
@@ -37,7 +37,7 @@ Turpakken inneholder det meste av de viktige førerassistentfunksjonene som [Ada
 
 Filskifteassistenten er ikke en del av turpakken og er inkludert i to forskjellige assistentpakker. Filskiftepakken inkluderer [filskifteassistent](../technology/drivingassistance/sideassist/), [utstigningsvarling](../technology/drivingassistance/exitwarning/), [Assistent for kryssende trafikk bak](../technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](../technology/drivingassistance/presenserear/). Bypakken inkluderer det samme, men i tillegg [Audi pre sense side](../technology/drivingassistance/presenseside/) og [gatekryssassistent](../technology/drivingassistance/crossingassist/)
 
-![QQ2](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/lights/multicolors.jpg)
+![QQ2](https://media.evkx.net/ehga/models/e-tron/interior/lights/multicolors.webp)
 
 ## Flerfarget ambientbelysning: Tilvalg *QQ2*
 

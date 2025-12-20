@@ -9,8 +9,8 @@ Med Audi Phone Box To smarttelefoner kan kobles til bilen via Bluetooth samtidig
 musikk i bilen. Avhengig av smarttelefonmodell er det også mulig å se e-post og SMS i MMI via Bluetooth.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/phonebox/phonebox.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/phonebox/phoneboxs.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/phonebox/phonebox.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/phonebox/phoneboxs.webp"
         class="img-fluid" alt="Audi Phone Box holder med induktiv lading" title="Audi Phone Box holder med induktiv lading">
     </a>
     <figcaption><h4>Audi Phone Box holder med induktiv lading</h4></figcaption>

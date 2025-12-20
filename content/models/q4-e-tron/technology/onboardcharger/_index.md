@@ -13,8 +13,8 @@ There are two versions of the onboard charger. The charger in Q4 35 support 7.2K
 In the US the charging port has a [J1772 connector](https://en.wikipedia.org/wiki/SAE_J1772) to connect to the car, while in Europe it has a [Type 2 connector](https://en.wikipedia.org/wiki/Type_2_connector).
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/onboardcharger/chargeport_right.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/onboardcharger/chargeport_rights.jpg" class="img-fluid" alt="Type 2 Chargeport" title="Type 2 Chargeport">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/onboardcharger/chargeport_right.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/onboardcharger/chargeport_rights.webp" class="img-fluid" alt="Type 2 Chargeport" title="Type 2 Chargeport">
     </a>
     <figcaption><h4>Type 2 Chargeport</h4></figcaption>
 </figure>
@@ -26,8 +26,8 @@ To charge the car from AC you need a Wallbox to connect to or the [charging syst
 In the illustration below you see the location of the charge units.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/onboardcharger/electricdrivetrain.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/onboardcharger/electricdrivetrains.jpg" class="img-fluid" alt="Electric drivetrain with chargeport and AC charger" title="Electric drivetrain with chargeport and AC charger">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/onboardcharger/electricdrivetrain.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/onboardcharger/electricdrivetrains.webp" class="img-fluid" alt="Electric drivetrain with chargeport and AC charger" title="Electric drivetrain with chargeport and AC charger">
     </a>
     <figcaption><h4>Electric drivetrain with chargeport and AC charger</h4></figcaption>
 </figure>

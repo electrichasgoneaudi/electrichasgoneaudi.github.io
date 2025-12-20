@@ -12,8 +12,8 @@ On the Audi Q4 e-tron, there are two drive modes available.
 - **B-mode (brake)** : car reduces speed while it recuperates energy when lifting the watt pedal (power)
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/q4shifter.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/q4shifters.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/q4shifter.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/q4shifters.webp"
         class="img-fluid" alt="Drive mode shifter" title="Drive mode shifter">
     </a>
     <figcaption><h4>Drive mode shifter</h4></figcaption>
@@ -29,8 +29,8 @@ To be able to coast in B-mode you would need to hold foot on the throttle on a s
 On other cars, B-mode would be more efficient, but Audi has created blended brakes that always do recuperate when pressing the brake pedal if possible. That's why you don't  waste  energy using the brake pedal on the Audi Q4 e-tron.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/regenlevelq4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/regenlevelq4.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/regenlevelq4.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/mostefficientmode/regenlevelq4.webp"
         class="img-fluid" alt="Audi Q4 e-tron power meter showing B mode" title="Audi Q4 e-tron power meter showing B mode">
     </a>
     <figcaption><h4>Audi Q4 e-tron power meter showing B mode</h4></figcaption>

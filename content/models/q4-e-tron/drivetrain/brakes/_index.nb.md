@@ -11,8 +11,8 @@ weight: 7
 Ved bruk av regenerative bremser, brukes den bakre og fremre motoren (på Q4 45/50) som generatorer for å konvertere den kinetiske energien til elektrisk energi og putte den tilbake i batteriet.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/brakes/recuperation.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/brakes/recuperations.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/brakes/recuperation.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/brakes/recuperations.webp"
         class="img-fluid" alt="Audi Q4 e-tron recuperation" title="Audi Q4 e-tron recuperation">
     </a>
     <figcaption><h4>Audi Q4 e-tron recuperation</h4></figcaption>
@@ -24,7 +24,7 @@ Begge elmotorene – eller bakmotoren i de bakhjulsdrevne modellene – går fri
 
 Rulling prioriteres fordi det er det mest energieffektive.
 
-![Q4 girskiftere](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/q4shifter.jpg "Girskifter Audi Q4 med kjøre-/bremsemodus")
+![Q4 girskiftere](https://media.evkx.net/ehga/guides/onepedaldriving/q4shifter.webp "Girskifter Audi Q4 med kjøre-/bremsemodus")
 
 Hvis sjåføren foretrekker regenerering, har de imidlertid ulike alternativer for dette. For eksempel, i gir B ​​(brems), regenerer drivverket seg nesten alltid ved frikjøring, men ikke når bilen står stille.
 
@@ -34,7 +34,7 @@ De valgfrie girspakene på rattet lar føreren velge tre forskjellige manuelle r
 
 Bilen vil huske regennivået i dynamisk modus etter bruk av gassen. I andre Drive select moduser vil regennivået tilbakestilles til 0 etter bruk av gassen.
 
-![B-modus](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/q4paddelss.jpg "Regen padle på rattet")
+![B-modus](https://media.evkx.net/ehga/guides/onepedaldriving/q4paddelss.webp "Regen padle på rattet")
 
 Føreren kan også velge automatisk restitusjon i MMI-systemet.
 Når bilen kommer inn i en sone som påtvinger en lavere hastighet, eller når den kommer bak en langsommere bil foran, forsøker kjørestyringssystemet å redusere hastigheten ved å rulle.
@@ -54,8 +54,8 @@ Quattro-modellene prioriterer restitusjon på bakakselen, men bruker også den f
 Audi bruker skivebremser for forhjulene.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/brakes/frontbrake.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/brakes/frontbrakes.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/brakes/frontbrake.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/brakes/frontbrakes.webp"
         class="img-fluid" alt="Frontbrems" title="Frontbrems">
     </a>
     <figcaption><h4>Frontbrems</h4></figcaption>
@@ -64,8 +64,8 @@ Audi bruker skivebremser for forhjulene.
 På bakhjulene bruker den trommelbremser.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/brakes/rearbrake.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/brakes/rearbrakes.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/brakes/rearbrake.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/brakes/rearbrakes.webp"
         class="img-fluid" alt="Brems bak" title="Brems bak">
     </a>
     <figcaption><h4>Bakbrems</h4></figcaption>

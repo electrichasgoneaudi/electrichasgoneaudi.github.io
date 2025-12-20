@@ -7,8 +7,8 @@ weight: 5
 <!-- markdownlint-disable MD033 -->
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/interior.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/interiors.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/interior/interior.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/interior/interiors.webp"
         class="img-fluid" alt="Audi e-tron Sportback" title="Audi e-tron Sportback">
     </a>
     <figcaption><h4>Audi Q8 e-tron interiør</h4></figcaption>

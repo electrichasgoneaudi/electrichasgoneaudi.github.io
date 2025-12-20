@@ -12,24 +12,24 @@ sectiontabs: "/models/q6-e-tron/technology/"
  Parking system plus is standard equipment on the Audi Q6 e-tron.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/parkingsystemplus/parkingsystemplus.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/parkingsystemplus/parkingsystempluss.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/parkingsystemplus/parkingsystemplus.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/parkingsystemplus/parkingsystempluss.webp"
         class="img-fluid" alt="Parking system plus indication in mmi" title="Parking system plus indication in mmi">
     </a>
     <figcaption><h4>Parking system plus indication in mmi</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/parkingsystemplus/frontsensors.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/parkingsystemplus/frontsensorss.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/parkingsystemplus/frontsensors.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/parkingsystemplus/frontsensorss.webp"
         class="img-fluid" alt="Parking system plus indication in mmi" title="Parking system plus indication in mmi">
     </a>
     <figcaption><h4>Front sensors</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/parkingsystemplus/rearsensors.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/parkingsystemplus/rearsensorss.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/parkingsystemplus/rearsensors.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/parkingsystemplus/rearsensorss.webp"
         class="img-fluid" alt="Parking system plus indication in mmi" title="Parking system plus indication in mmi">
     </a>
     <figcaption><h4>Front sensors</h4></figcaption>

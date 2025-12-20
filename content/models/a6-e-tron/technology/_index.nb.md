@@ -12,7 +12,7 @@ Nedenfor ser du detaljer om de forskjellige teknologiområdene på Audi Q6 e-tro
 
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-<a href="lights/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_4_st.jpg" class="img-fluid mb-2" class= "img-fluid" alt="Audi Q6 e-tron-lys" ></a>
+<a href="lights/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/prototypetestdrive_4_st.webp" class="img-fluid mb-2" class= "img-fluid" alt="Audi Q6 e-tron-lys" ></a>
 <h2>Lys</h2>
 <p>
 Med andregenerasjons digitale OLED-baklys tar Audi Q6 e-tron lysdesign, funksjonsutvalg og trafikksikkerhet til et nytt nivå.
@@ -21,7 +21,7 @@ Med andregenerasjons digitale OLED-baklys tar Audi Q6 e-tron lysdesign, funksjon
 </div>
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-<a href="uiandoperations/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/uiandoperations/screens_1_st.jpg" class="img-fluid mb- 2" class="img-fluid" alt="Audi Q6 e-tron-lys" ></a>
+<a href="uiandoperations/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/technology/uiandoperations/screens_1_st.webp" class="img-fluid mb- 2" class="img-fluid" alt="Audi Q6 e-tron-lys" ></a>
 <h2>UI og operasjoner</h2>
 <p>
 Med andregenerasjons digitale OLED-baklys tar Audi Q6 e-tron lysdesign, funksjonsutvalg og trafikksikkerhet til et nytt nivå.
@@ -30,7 +30,7 @@ Med andregenerasjons digitale OLED-baklys tar Audi Q6 e-tron lysdesign, funksjon
 </div>
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-<a href="soundsystem/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/collisionavoidanceassist/collisionavoidance_st.jpg" class="img-fluid mb- 2" class="img-fluid" alt="Audi Q6 e-tron-lys" ></a>
+<a href="soundsystem/"><img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/collisionavoidanceassist/collisionavoidance_st.webp" class="img-fluid mb- 2" class="img-fluid" alt="Audi Q6 e-tron-lys" ></a>
 <h2>Lydsystem</h2>
 <p>
 Audi Q6 e-tron tilbyr et standard lydsystem og et valgfritt lydsystem fra Bang & Olufsen.

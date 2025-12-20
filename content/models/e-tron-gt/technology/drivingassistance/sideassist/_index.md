@@ -7,8 +7,8 @@ weight: 1
 
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/sideassist/audisideassist.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/sideassist/audisideassists.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/sideassist/audisideassist.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/sideassist/audisideassists.webp"
         class="img-fluid" alt="Audi side assist" title="Audi side assist">
     </a>
     <figcaption><h4>Audi side assist</h4></figcaption>

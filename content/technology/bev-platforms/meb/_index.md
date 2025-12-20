@@ -10,8 +10,8 @@ This platform thus provides the entry point into the electric model portfolio of
 the four rings
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/meb1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/meb1s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/bev-platforms/meb/meb1.webp">
+        <img src="https://media.evkx.net/ehga/technology/bev-platforms/meb/meb1s.webp"
         class="img-fluid" alt="Modular Electrification Toolkit (MEB) drivetrain" title="Modular Electrification Toolkit (MEB) drivetrain">
     </a>
     <figcaption><h4>Modular Electrification Toolkit (MEB) drivetrain</h4></figcaption>
@@ -33,8 +33,8 @@ Models from oter brands that currently use MEB are
 - Cupra Born
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/enyaq.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/enyaqs.jpg"
+    <a href="https://media.evkx.net/ehga/technology/bev-platforms/meb/enyaq.webp">
+        <img src="https://media.evkx.net/ehga/technology/bev-platforms/meb/enyaqs.webp"
         class="img-fluid" alt="Skoda Enyaq is built on MEB" title="Skoda Enyaq is built on MEB">
     </a>
     <figcaption><h4>Skoda Enyaq is built on MEB</h4></figcaption>

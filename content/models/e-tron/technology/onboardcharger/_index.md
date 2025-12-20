@@ -13,8 +13,8 @@ The standard onboard charger support up to 11KW AC charging
 In the US the charging port has a [J1772 connector](https://en.wikipedia.org/wiki/SAE_J1772) to connect to the car, while in Europe it has a [Type 2 connector](https://en.wikipedia.org/wiki/Type_2_connector).
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargeport_left.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargeport_lefts.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/chargeport_left.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/chargeport_lefts.webp"
         class="img-fluid" alt="Type 2 Chargeport" title="Type 2 Chargeport">
     </a>
     <figcaption><h4>Type 2 Chargeport</h4></figcaption>
@@ -27,8 +27,8 @@ To charge the car from AC you need a Wallbox to connect to or the [charging syst
 You can order an additional chargeport on the passenger side. This is option ID **JS1**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargeport_right.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargeport_rights.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/chargeport_right.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/chargeport_rights.webp"
         class="img-fluid" alt="Additional passenger side charge port" title="Additional passenger side charge port">
     </a>
     <figcaption><h4>Additional passenger side charge port</h4></figcaption>
@@ -45,8 +45,8 @@ You need to order the additional port **JS1** and the [Audi Charging System Conn
 In the illustration below you see the location of the charge units.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/electricdrivetrain.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/electricdrivetrains.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/electricdrivetrain.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/electricdrivetrains.webp"
         class="img-fluid" alt="Electric drive train with standard and optinal charger location" title="Electric drive train with standard and optinal charger location">
     </a>
     <figcaption><h4>Electric drive train with standard and optinal charger location</h4></figcaption>
@@ -55,16 +55,16 @@ In the illustration below you see the location of the charge units.
 Only AC charging goes throug the charger. For DC charging the CCS port is directly connected to the battery.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/wiringdiagram.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/wiringdiagrams.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/wiringdiagram.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/wiringdiagrams.webp"
         class="img-fluid" alt="Chargport/charger wiring" title="Chargport/charger wiring">
     </a>
     <figcaption><h4>Chargport/charger wiring</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/charger.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargers.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/charger.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/chargers.webp"
         class="img-fluid" alt="The onboard charger" title="The onboard charger">
     </a>
     <figcaption><h4>The onboard charger</h4></figcaption>
@@ -85,16 +85,16 @@ Only AC charging goes throug the charger. For DC charging the CCS port is direct
 ### LED Indicators
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/ledlights.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/ledlightss.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/ledlights.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/ledlightss.webp"
         class="img-fluid" alt="Led Lights" title="Led Lights">
     </a>
     <figcaption><h4>Led Lights</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/ledoverview.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/ledoverviews.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/ledoverview.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/ledoverviews.webp"
         class="img-fluid" alt="LED codes" title="LED codes">
     </a>
     <figcaption><h4>LED codes</h4></figcaption>

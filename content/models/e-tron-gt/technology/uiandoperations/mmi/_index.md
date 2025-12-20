@@ -12,8 +12,8 @@ Eleven antennas, all of which are integrated where they cannot be seen, connect 
 The e-tron GT quattro and RS e-tron GT come as standard with the MMI navigation plus information center, which supports the high-speed data transmission standard LTE Advanced and includes a Wi-Fi hotspot for the passengers’ mobile devices. The navigation system makes destination suggestions based on previous routes and provides lane-specific information on the traffic flow. The route is calculated both in the car and online on the servers of service provider HERE. It uses real-time data on the overall traffic situation, which enables predictive planning.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/mmi/mmi_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/uiandoperations/mmi/mmi_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/uiandoperations/mmi/mmi_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/uiandoperations/mmi/mmi_1s.webp"
         class="img-fluid" alt="Audi MMI - searching for charging station" title="Audi MMI - searching for charging station">
     </a>
     <figcaption><h4>Audi MMI - searching for charging station</h4></figcaption>

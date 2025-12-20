@@ -15,8 +15,8 @@ technology that satisfies the demanding customer requests in the full-size and l
 segments.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/a6-etron-1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/a6-e-tron/a6-etron-1.webp">
+        <img src="https://media.evkx.net/ehga/models/a6-e-tron/a6-etron-1s.webp"
         class="img-fluid" alt="A6 e-tron" title="A6 e-tron">
     </a>
     <figcaption><h4>A6 e-tron</h4></figcaption>
@@ -27,8 +27,8 @@ platform holds in vehicles powered by combustion engines. It is characterized by
 and highly scalable architecture that allows both low- and high-floor vehicles to be realized.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/macan.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/macans.jpg"
+    <a href="https://media.evkx.net/ehga/technology/bev-platforms/ppe/macan.webp">
+        <img src="https://media.evkx.net/ehga/technology/bev-platforms/ppe/macans.webp"
         class="img-fluid" alt="Porsche Macan prototype based on PPE" title="Porsche Macan prototype based on PPE">
     </a>
     <figcaption><h4>Porsche Macan prototype based on PPE</h4></figcaption>
@@ -42,8 +42,8 @@ In doing so, the brand is also expanding its current model portfolio in the full
 The diagram below show hows PPE models will be compared to J1 and MEB models in various aspects.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/comparativeperformance.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/comparativeperformances.png" class="img-fluid" alt="PPE models compared with J1 and MEB models" title="PPE models compared with J1 and MEB models">
+    <a href="https://media.evkx.net/ehga/technology/bev-platforms/ppe/comparativeperformance.webp">
+        <img src="https://media.evkx.net/ehga/technology/bev-platforms/ppe/comparativeperformances.webp" class="img-fluid" alt="PPE models compared with J1 and MEB models" title="PPE models compared with J1 and MEB models">
     </a>
     <figcaption><h4>PPE models compared with J1 and MEB models</h4></figcaption>
 </figure>
@@ -60,8 +60,8 @@ will be delivered with two different configurations when they are launched.
 - 10 modules with 83.3kWh gross (79kWh net).
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/battery.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/batterys.png"
+    <a href="https://media.evkx.net/ehga/technology/bev-platforms/ppe/battery.webp">
+        <img src="https://media.evkx.net/ehga/technology/bev-platforms/ppe/batterys.webp"
         class="img-fluid" alt="PPE-battery with 12 modules" title="PPE-battery with 12 modules">
     </a>
     <figcaption><h4>PPE-battery with 12 modules</h4></figcaption>
@@ -92,8 +92,8 @@ It will of course also be possible to realize different performance
 levels and battery capacities on the PPE platform. Models based on PPE will be delivered with different motor setups in combination with the small and large batteries.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/motors.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/motorss.jpg"
+    <a href="https://media.evkx.net/ehga/technology/bev-platforms/ppe/motors.webp">
+        <img src="https://media.evkx.net/ehga/technology/bev-platforms/ppe/motorss.webp"
         class="img-fluid" alt="PPE Motors" title="PPE Motors">
     </a>
     <figcaption><h4>PPE Motors</h4></figcaption>
@@ -126,8 +126,8 @@ the suspension area.
 Audi and Porsche will reuse most parts between the models
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/part.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/parts.png" class="img-fluid" alt="Reuse of parts of different PPE models" title="Reuse of parts of different PPE models">
+    <a href="https://media.evkx.net/ehga/technology/bev-platforms/ppe/part.webp">
+        <img src="https://media.evkx.net/ehga/technology/bev-platforms/ppe/parts.webp" class="img-fluid" alt="Reuse of parts of different PPE models" title="Reuse of parts of different PPE models">
     </a>
     <figcaption><h4>Reuse of parts of different PPE models</h4></figcaption>
 </figure>
@@ -141,8 +141,8 @@ The below video show Audi A6 Avant concept with more details about PPE
 In 2020 Audi had a presentation where they discussed some of the improvements of the new platform over the MLB evo platform.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/ppepresentation2.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/ppepresentation2s.png"
+    <a href="https://media.evkx.net/ehga/technology/bev-platforms/ppe/ppepresentation2.webp">
+        <img src="https://media.evkx.net/ehga/technology/bev-platforms/ppe/ppepresentation2s.webp"
         class="img-fluid" alt="PPE vs MLB evo" title="PPE vs MLB evo">
     </a>
     <figcaption><h4>PPE vs MLB evo</h4></figcaption>

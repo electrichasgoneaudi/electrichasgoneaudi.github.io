@@ -14,8 +14,8 @@ For noen elbiler er kjøring med én pedal den eneste måten å regenerere energ
 Helelektriske Audier har avanserte bremser som blander regenerering og fysiske bremser ved hjelp av bremsepedalen. Ved å bruke bremsepedalen vil du regenerere og sette energi tilbake i batteriet så lenge du reduserer hastigheten med mindre enn 0,3G. Utover det vil systemet også bruke fysiske bremser. Denne blandingen er mulig med brems-by-wire-teknologi utviklet av Audi som kontrollerer bruken av bremser og regenerering i motorer.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/guides/regen/recuperation.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/guides/regen/recuperations.png" class="img-fluid" alt="Kinetisk energi omdannes til energi i batteriet ved regenerering" title="Kinetisk energi omdannes til energi i batteriet ved regenerering">
+    <a href="https://media.evkx.net/ehga/guides/regen/recuperation.webp">
+        <img src="https://media.evkx.net/ehga/guides/regen/recuperations.webp" class="img-fluid" alt="Kinetisk energi omdannes til energi i batteriet ved regenerering" title="Kinetisk energi omdannes til energi i batteriet ved regenerering">
     </a>
     <figcaption><h4>Kinetisk energi omdannes til energi i batteriet ved regenerering</h4></figcaption>
 </figure>
@@ -32,15 +32,15 @@ Audi har gjort det mulig å aktivere én pedalkjøring på deres helelektriske m
 
 På Audi e-tron kan du sette restitusjon til manuell  (MMI -> Kjøretøy -> Effektivitetsassistent -> regenering). Hver gang du starter en kjøretur, sett restitusjonen til maks med rattets regeneringshender, og så vil den regenerere hver gang du løfter foten fra "gasspedalen" og fungerer som "én-pedalkjøring."
 
-![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/recuperationmode.png "Recuperation mode")
+![bilde](https://media.evkx.net/ehga/guides/onepedaldriving/recuperationmode.webp "Recuperation mode")
 
 Med hjulpadlene kan du stille inn restitusjonen til 3 forskjellige nivåer. (for mer eller mindre bremsing). Høy, middels og av.
 
-![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/paddleleft.png "Venstre padle for å øke regen.")
+![bilde](https://media.evkx.net/ehga/guides/onepedaldriving/paddleleft.webp "Venstre padle for å øke regen.")
 
-![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/paddleright.png "Høyre padle for å redusere regen.")
+![bilde](https://media.evkx.net/ehga/guides/onepedaldriving/paddleright.webp "Høyre padle for å redusere regen.")
 
-![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/regenlevel.png "Dette viser hvordan regen er på 50 % på maks.")
+![bilde](https://media.evkx.net/ehga/guides/onepedaldriving/regenlevel.webp "Dette viser hvordan regen er på 50 % på maks.")
 
 ### Anbefalte innstillinger for best effektivitet på Audi e-tron
 
@@ -54,17 +54,17 @@ På Audi Q4 e-tron er det to metoder for å muliggjøre én-pedalkjøring
 
 På Audi Q4 e-tron kan du sette bilen i B-modus (brems) ved hjelp av giret. I B-modus vil bilen regenerere nesten maks når man løfter wattpedalen.
 
-![Q4 girskiftere](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/q4shifter.jpg "Girskifter Audi Q4 med D/B-modus")
+![Q4 girskiftere](https://media.evkx.net/ehga/guides/onepedaldriving/q4shifter.webp "Girskifter Audi Q4 med D/B-modus")
 
 #### Dynamisk i D-modus med regennivå satt med padler
 
 Den andre måten å aktivere en-pedalkjøring på er ved å sette bilen i D-modus med girbryteren og bruke dynamisk modus i Drive Select.
 
-![B-mode](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/q4paddelss.jpg "Ratthendler")
+![B-mode](https://media.evkx.net/ehga/guides/onepedaldriving/q4paddelss.webp "Ratthendler")
 
 Dette gjør det mulig å sette regen til 0,1,2,3 med ratthendler og bilen vil huske det. I motsetning til andre drive select moduser der regennivået tilbakestilles til 0 ved bruk av gasspedalen.
 
-![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/regenlevelq4.jpg "De grønne søylene til høyre for D viser regennivået satt i dynamisk modus i drive select")
+![bilde](https://media.evkx.net/ehga/guides/onepedaldriving/regenlevelq4.webp "De grønne søylene til høyre for D viser regennivået satt i dynamisk modus i drive select")
 
 ### Anbefalte innstillinger for best effektivitet på Audi Q4 e-tron
 
@@ -74,13 +74,13 @@ Dette gjør det mulig å sette regen til 0,1,2,3 med ratthendler og bilen vil hu
 
 På Audi e-tron GT kan du sette restitusjon til manuell (MMI -> Kjøretøy -> Effektivitetsassistent -> regenering). Hver gang du starter en kjøretur, sett restitusjonen til maks med rattets regeneringshender, og så vil den regenerere hver gang du løfter foten fra "gasspedalen" og fungerer som "én-pedalkjøring."
 
-![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/recuperationmode.png "Recuperation mode")
+![bilde](https://media.evkx.net/ehga/guides/onepedaldriving/recuperationmode.webp "Recuperation mode")
 
 Du kan stille inn restitusjonen til 3 forskjellige nivåer med hjulpadlene. (for mer eller mindre bremsing). Høy, middels og av.
 
-![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/paddlegts.jpg "Høyre padle for å øke regen.")
+![bilde](https://media.evkx.net/ehga/guides/onepedaldriving/paddlegts.webp "Høyre padle for å øke regen.")
 
-![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/regenlevel.png "Dette viser hvordan regen er på 50 % på maks.")
+![bilde](https://media.evkx.net/ehga/guides/onepedaldriving/regenlevel.webp "Dette viser hvordan regen er på 50 % på maks.")
 
 ### Anbefalte innstillinger for best effektivitet på Audi e-tron GT
 

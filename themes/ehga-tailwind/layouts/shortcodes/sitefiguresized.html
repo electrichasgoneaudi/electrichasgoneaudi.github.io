@@ -7,8 +7,8 @@
     {{ $scaleFactor := div $desiredWidth $originalWidth | float }}
     {{ $scaledHeight := mul $scaleFactor $originalHeight | int }}
     <div class="pswp-gallery" id="gallery--{{$random}}">
-        <a href="https://media.electrichasgoneaudi.net/multimedia/{{ $url }}" data-pswp-width="{{ .Get "width" }}" data-pswp-height="{{ .Get "height" }}" target="_blank">
-            <img src="https://media.electrichasgoneaudi.net/multimedia/{{ .Get "thumb" }}" class="max-w-full h-auto" alt="{{ .Get "title" }}" title="{{ .Get "title" }}" width="{{ $desiredWidth }}" height="{{ $scaledHeight }}" target="_blank">
+        <a href="https://media.evkx.net/ehga/{{ $url }}" data-pswp-width="{{ .Get "width" }}" data-pswp-height="{{ .Get "height" }}" target="_blank">
+            <img src="https://media.evkx.net/ehga/{{ .Get "thumb" }}" class="max-w-full h-auto" alt="{{ .Get "title" }}" title="{{ .Get "title" }}" width="{{ $desiredWidth }}" height="{{ $scaledHeight }}" target="_blank">
         </a>
     </div>
    <figcaption>

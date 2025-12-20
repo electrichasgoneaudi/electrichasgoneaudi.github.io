@@ -9,8 +9,8 @@ weight: 7
 The front axle of the compact electric SUVs is designed in the classic McPherson construction method, and the steering is located underneath at the front.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/frontsuspension.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/frontsuspensions.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/suspension/frontsuspension.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/suspension/frontsuspensions.webp"
         class="img-fluid" alt="McPherson front suspension with the rear electric motor" title="McPherson front suspension with the rear electric motor">
     </a>
     <figcaption><h4>McPherson front suspension with the rear electric motor</h4></figcaption>
@@ -20,8 +20,8 @@ A compact five-link design featuring similarities with the rear axle of the larg
 As with the front axle, it is mounted on a subframe. Several parts of the suspension are made of lightweight aluminum.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/rearsuspension.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/rearsuspensions.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/suspension/rearsuspension.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/suspension/rearsuspensions.webp"
         class="img-fluid" alt="Five link rear suspension with electric motor" title="Five link rear suspension with electric motor">
     </a>
     <figcaption><h4>Five link rear suspension with electric motor</h4></figcaption>
@@ -32,16 +32,16 @@ The track widths are 1,587 millimeters at the front and 1,565 millimeters at the
 You can order the Q4 e-tron with sport suspension. The sport suspension (standard in the S line) lowers the body by 15 millimeters.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/suspension.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/suspension.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/suspension/suspension.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/suspension/suspension.webp"
         class="img-fluid" alt="Audi Q4 S-line with standard suspension 180mm ground clearance" title="Audi Q4 S-line with standard suspension 180mm ground clearance">
     </a>
     <figcaption><h4>Audi Q4 S-line with standard suspension 180mm ground clearance</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/slinesuspension.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/slinesuspensions.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/suspension/slinesuspension.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/suspension/slinesuspensions.webp"
         class="img-fluid" alt="Audi Q4 S-line with S-Line suspension and 165mm ground clearance" title="Audi Q4 S-line with S-Line suspension and 165mm ground clearance">
     </a>
     <figcaption><h4>Audi Q4 S-line with S-Line suspension and 165mm ground clearance</h4></figcaption>

@@ -10,8 +10,8 @@ The controls are located just below the MMI screen.
 3-zone AC means that in the front this means that passenger and driver can have an individual set temperature.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/climatecontrol/ac3zonecontrol.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/climatecontrol/ac3zonecontrol.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/climatecontrol/ac3zonecontrol.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/climatecontrol/ac3zonecontrol.webp"
         class="img-fluid" alt="3 zone ac control with an individual temp for driver/passenger" title="3 zone ac control with an individual temp for driver/passenger">
     </a>
     <figcaption><h4>3 zone ac control with an individual temp for driver/passenger</h4></figcaption>
@@ -20,8 +20,8 @@ The controls are located just below the MMI screen.
 It also gives the passenger in the back seat a separate panel where they can adjust the rear zone
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/climatecontrol/rearaccontrol.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/climatecontrol/rearaccontrol.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/climatecontrol/rearaccontrol.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/climatecontrol/rearaccontrol.webp"
         class="img-fluid" alt="Seperate control for back seat" title="Seperate control for back seat">
     </a>
     <figcaption><h4>Seperate control for back seat</h4></figcaption>
@@ -33,8 +33,8 @@ Audi e-tron GT The is equipped with an Auxiliary air conditioner that can be use
 from the MMI manual or set aside a timer. A typical use case is when you charge since the car must be switched off then and the AC main unit does not work.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/climatecontrol/precondition.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/climatecontrol/precondition.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/climatecontrol/precondition.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/climatecontrol/precondition.webp"
         class="img-fluid" alt="Pre-condition will run for 30 minutes and can be started from MMI or myAudi app" title="Pre-condition will run for 30 minutes and can be started from MMI or myAudi app">
     </a>
     <figcaption><h4>Pre-condition will run for 30 minutes and can be started from MMI or myAudi app</h4></figcaption>
@@ -51,8 +51,8 @@ On Audi e-tron GT / RS e-tron GT Auxiliary air conditioner with extra convenienc
  Option id **GA2**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/climatecontrol/conviencesettings.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/climatecontrol/conviencesettingss.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/climatecontrol/conviencesettings.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/climatecontrol/conviencesettingss.webp"
         class="img-fluid" alt="comfort settings" title="comfort settings">
     </a>
     <figcaption><h4>comfort settings</h4></figcaption>

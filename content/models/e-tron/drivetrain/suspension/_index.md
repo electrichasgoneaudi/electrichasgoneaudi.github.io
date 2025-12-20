@@ -14,8 +14,8 @@ Depending on the speed and the driver’s preferences, it individually adjusts t
 The air suspension also offers level control as a function of load.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/adaptaiveairsuspensionsport.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/adaptaiveairsuspensionsports.jpg" class="img-fluid" alt="Audi e-tron S with adaptive air suspension sport" title="Audi e-tron S with adaptive air suspension sport">
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/adaptaiveairsuspensionsport.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/adaptaiveairsuspensionsports.webp" class="img-fluid" alt="Audi e-tron S with adaptive air suspension sport" title="Audi e-tron S with adaptive air suspension sport">
     </a>
     <figcaption><h4>Audi e-tron S with adaptive air suspension sport</h4></figcaption>
 </figure>
@@ -29,8 +29,8 @@ Adaptive Air Suspension has optionId **1BK** and adaptive air suspension sport h
 ## Regulating characteristics
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/audidriveselect.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/audidriveselects.png" class="img-fluid" alt="Audi Drive Select options adjust ride heights" title="Audi Drive Select options adjust ride heights">
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/audidriveselect.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/audidriveselects.webp" class="img-fluid" alt="Audi Drive Select options adjust ride heights" title="Audi Drive Select options adjust ride heights">
     </a>
     <figcaption><h4>Audi Drive Select options adjust ride heights</h4></figcaption>
 </figure>
@@ -41,8 +41,8 @@ On other Audis like Q7 and Q8 the Adaptive Sport Suspension is 1cm lower. But th
 The diagram below show how this is adjusted depending on speed.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/suspensionmode.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/suspensionmode.png" class="img-fluid" alt="Adjustment of adaptive air suspension in different modes" title="Adjustment of adaptive air suspension in different modes">
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/suspensionmode.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/suspensionmode.webp" class="img-fluid" alt="Adjustment of adaptive air suspension in different modes" title="Adjustment of adaptive air suspension in different modes">
     </a>
     <figcaption><h4>Adjustment of adaptive air suspension in different modes</h4></figcaption>
 </figure>
@@ -60,44 +60,44 @@ the ride height is raised by 13 mm to the ride height previously set. If the spe
 Even you can adjust the ride height, some want it even lower. Here are some examples on cars lowered with lowering links or software adjustment.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering1s.jpg" class="img-fluid" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/lowering1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/lowering1s.webp" class="img-fluid" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
     </a>
     <figcaption><h4>Lowered e-tron with 3 cm</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering2s.jpg" class="img-fluid" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/lowering2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/lowering2s.webp" class="img-fluid" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
     </a>
     <figcaption><h4>Lowered e-tron with 3 cm</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering3s.jpg" class="img-fluid" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/lowering3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/lowering3s.webp" class="img-fluid" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
     </a>
     <figcaption><h4>Lowered e-tron with in show mode</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering4s.jpg" class="img-fluid" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/lowering4.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/lowering4s.webp" class="img-fluid" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
     </a>
     <figcaption><h4>Lowered e-tron with 3 cm</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering5s.jpg" class="img-fluid" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/lowering5.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/lowering5s.webp" class="img-fluid" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
     </a>
     <figcaption><h4>Lowered e-tron with 3 cm</h4></figcaption>
 </figure>
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/suspension/lowering6s.jpg" class="img-fluid" alt="Lowered e-tron with 15mm front and 18mm rear from Dynasty AB" title="Lowered e-tron with 15mm front and 18mm rear from Dynasty AB">
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/lowering6.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/lowering6s.webp" class="img-fluid" alt="Lowered e-tron with 15mm front and 18mm rear from Dynasty AB" title="Lowered e-tron with 15mm front and 18mm rear from Dynasty AB">
     </a>
     <figcaption><h4>Lowered e-tron with 15mm front and 18mm rear from Dynasty AB</h4></figcaption>
 </figure>

@@ -8,8 +8,8 @@ weight: 1
 The Audi MMI® (Multi Media Interface) system was created to streamline the controls for audio, vehicle settings, and available navigation under a common interface, thereby reducing the number of buttons for a cleaner interior appearance.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/mmi/both_screens_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/mmi/both_screens_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/mmi/both_screens_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/mmi/both_screens_1s.webp"
         class="img-fluid" alt="Audi MMI touch" title="Audi MMI touch">
     </a>
     <figcaption><h4>Audi MMI touch</h4></figcaption>
@@ -25,8 +25,8 @@ Clever detailed solutions make using the new technology even more attractive. If
 A second display on the console of the center tunnel is used to operate the air conditioning system and convenience features. The driver can save preferred functions as favorites. The display has an 8.6-inch diagonal and a screen resolution of 1,280 x 660 pixels.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/mmi/second_screen_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/mmi/second_screen_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/mmi/second_screen_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/mmi/second_screen_1s.webp"
         class="img-fluid" alt="Second display" title="Second display">
     </a>
     <figcaption><h4>Second display</h4></figcaption>
@@ -39,5 +39,5 @@ The surfaces of the two displays have a type of anti-fingerprint coating. This m
 
 ## Menu overvierw
 
-The [following document](https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/uiandoperations/mmi/MMI%20Menu%20overview.pdf) presents the full menu overview
+The [following document](https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/mmi/MMI%20Menu%20overview.pdf) presents the full menu overview
 

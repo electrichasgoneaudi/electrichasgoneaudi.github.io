@@ -13,8 +13,8 @@ date. It intelligently coordinates this with technologies and digital services t
 the senses and offer a whole new level of experience.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_1s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_1.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_1s.webp" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere concept</h4></figcaption>
 </figure>
@@ -62,8 +62,8 @@ echelons of the automotive world, yet the Audi urbansphere concept radically bre
 conventions of the segment.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_5s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_5.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_5s.webp" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere concept</h4></figcaption>
 </figure>
@@ -120,8 +120,8 @@ meters (5.8 feet) of headroom and expansive glass surfaces, these dimensions pro
 exceptionally spacious experience of the interior.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_3s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_3.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_3s.webp" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere concept</h4></figcaption>
 </figure>
@@ -147,8 +147,8 @@ use is possible. When the screen is not in use, it offers a clear view into the 
 transparent design or – when folded upwards – through the glass roof area to the sky.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_4s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_4.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_4s.webp" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere concept</h4></figcaption>
 </figure>
@@ -171,8 +171,8 @@ example with a meditation app that can be used via the personal screen and the p
 zone in the headrests.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_7.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_7s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_7.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_7s.webp" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere concept</h4></figcaption>
 </figure>
@@ -190,8 +190,8 @@ to bottom and, together with the natural light entering the space, create a homo
 interior.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_9.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_9s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_9.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_9s.webp" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere concept</h4></figcaption>
 </figure>
@@ -271,8 +271,8 @@ immediately spring to mind despite the stately proportions of the Audi urbansphe
 do in the significantly flatter grandsphere.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_6s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_6.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_6s.webp" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere concept</h4></figcaption>
 </figure>
@@ -294,8 +294,8 @@ via light segments in the outer sections of the Singleframe and a similarly func
 LED surface is located in the rear.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_10.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_10s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_10.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_10s.webp" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere concept</h4></figcaption>
 </figure>
@@ -319,8 +319,8 @@ multifunctional light source – the inner skin of the umbrella is made of refle
 the entire surface acts as a glare-free lighting unit.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_8.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_8s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_8.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_8s.webp" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere concept</h4></figcaption>
 </figure>
@@ -346,8 +346,8 @@ only from a design perspective. The core benefits include a long interior and th
 in both rows of seats.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_11.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_11s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_11.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_11s.webp" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere concept - 24 inch wheeels</h4></figcaption>
 </figure>
@@ -368,8 +368,8 @@ One innovative feature is that the motor on the front axle can be deactivated as
 to reduce friction and thus energy consumption when coasting.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiurbansphereconcept/audiurbanspshereconcept_2s.jpg" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_2.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiurbansphereconcept/audiurbanspshereconcept_2s.webp" class="img-fluid" alt="Audi urbansphere concept" title="Audi urbansphere concept">
     </a>
     <figcaption><h4>Audi urbansphere concept</h4></figcaption>
 </figure>

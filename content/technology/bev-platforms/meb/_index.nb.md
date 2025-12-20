@@ -10,8 +10,8 @@ Denne plattformen gir dermed inngangspunktet til den elektriske modellportefølj
 de fire ringene
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/meb1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/meb1s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/bev-platforms/meb/meb1.webp">
+        <img src="https://media.evkx.net/ehga/technology/bev-platforms/meb/meb1s.webp"
         class="img-fluid" alt="Modular Electrification Toolkit (MEB) drivlinje" title="Modular Electrification Toolkit (MEB) drivlinje">
     </a>
     <figcaption><h4>Modular Electrification Toolkit (MEB) drivlinje</h4></figcaption>
@@ -33,8 +33,8 @@ Modeller fra andre merker som for tiden bruker MEB er
 - Cupra Born
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/enyaq.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/enyaqs.jpg"
+    <a href="https://media.evkx.net/ehga/technology/bev-platforms/meb/enyaq.webp">
+        <img src="https://media.evkx.net/ehga/technology/bev-platforms/meb/enyaqs.webp"
         class="img-fluid" alt="Skoda Enyaq er bygget på MEB" title="Skoda Enyaq er bygget på MEB">
     </a>
     <figcaption><h4>Skoda Enyaq er bygget på MEB</h4></figcaption>

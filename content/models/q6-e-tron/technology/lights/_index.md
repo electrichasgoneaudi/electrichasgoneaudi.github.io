@@ -140,8 +140,8 @@ With the next generation of digital OLEDs in the rear lights that now follow in 
 The innovative digital OLED technology creates the conditions for a completely new rear light design, ensuring a one-of-a-kind homogeneity and very high contrast. There are other advantages: Surface light sources do not require additional reflectors, light guides, or optics, making them very efficient. Together, these properties allow Audi’s engineers and designers to break down the design boundaries between two- and three-dimensionality. In other words, the brand with the four rings is creating three-dimensional shapes on two-dimensional surfaces. In addition to an integrated, expressive LED light strip at the rear, 3D glass successfully separates the rear light signature from the other lighting functions.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_4_st.jpg" alt="Audi Q6 e-tron head lights" title="Audi Q6 e-tron head lights">
+    <a href="https://media.evkx.net/ehga/models/q6-e-tron/prototypetestdrive_4.webp">
+        <img src="https://media.evkx.net/ehga/models/q6-e-tron/prototypetestdrive_4_st.webp" alt="Audi Q6 e-tron head lights" title="Audi Q6 e-tron head lights">
     </a>
     <figcaption><h4>Audi Q6 e-tron head lights with seperate lights</h4></figcaption>
 </figure>

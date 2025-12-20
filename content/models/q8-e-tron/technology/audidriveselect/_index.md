@@ -25,8 +25,8 @@ Depending on option and setup drive select settings affect the following.
 - Audi Pre Sense
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/audidriveselect/driveselectbuttons.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/audidriveselect/driveselectbuttonss.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/audidriveselect/driveselectbuttons.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/audidriveselect/driveselectbuttonss.webp"
         class="img-fluid" alt="Drive Select are available as seperate buttons and from MMI" title="Drive Select are available as seperate buttons and from MMI">
     </a>
     <figcaption><h4>Drive Select are available as seperate buttons and from MMI</h4></figcaption>
@@ -35,8 +35,8 @@ Depending on option and setup drive select settings affect the following.
 ### Modes
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/audidriveselect/driveselectmenu.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/audidriveselect/driveselectmenus.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/audidriveselect/driveselectmenu.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/audidriveselect/driveselectmenus.webp"
         class="img-fluid" alt="Drive Select menu in MMI" title="Drive Select menu in MMI">
     </a>
     <figcaption><h4>Drive Select menu in MMI</h4></figcaption>
@@ -60,8 +60,8 @@ will be restricted and the hill descent assist* will be activated. The vehicle w
 ### Individual settings
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/audidriveselect/individualsettings.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/audidriveselect/individualsettingss.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/audidriveselect/individualsettings.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/audidriveselect/individualsettingss.webp"
         class="img-fluid" alt="Individual settings" title="Individual settings">
     </a>
     <figcaption><h4>Individual settings</h4></figcaption>

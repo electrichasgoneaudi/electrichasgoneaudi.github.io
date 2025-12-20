@@ -7,8 +7,8 @@ sectiontabs: "/models/q6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/cruisecontrol/cruisecontrolhandle.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/cruisecontrol/cruisecontrolhandles.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/cruisecontrol/cruisecontrolhandle.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/cruisecontrol/cruisecontrolhandles.webp"
         class="img-fluid" alt="Cruise control stalk" title="Cruise control stalk">
     </a>
     <figcaption><h4>Cruise control stalk</h4></figcaption>

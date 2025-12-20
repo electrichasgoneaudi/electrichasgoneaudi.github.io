@@ -7,8 +7,8 @@ weight: 100006
 <!-- markdownlint-disable MD033 -->
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_1s.jpg" class="img-fluid" alt="Audi skysphere concept" title="Audi skysphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_1.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_1s.webp" class="img-fluid" alt="Audi skysphere concept" title="Audi skysphere concept">
     </a>
     <figcaption><h4>Audi skysphere concept</h4></figcaption>
 </figure>
@@ -19,8 +19,8 @@ Audi skysphere-konseptet viser hvordan merket redefinerer luksus i fremtiden –
 For å gi passasjerene maksimal frihet, ble Audi skysphere-konseptet designet for to forskjellige kjøreopplevelser: en storslått turopplevelse og en sportsopplevelse. Dette gjør bruk av en spektakulær teknisk detalj – den variable akselavstanden. Elektriske motorer og en sofistikert mekanisme med karosseri- og rammekomponenter som glir inn i hverandre gjør det mulig å variere selve akselavstanden og utvendig lengde på bilen med 250 millimeter. Samtidig justeres kjøretøyets bakkeklaring med 10 millimeter for å øke komforten og kjøredynamikken.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_4s.jpg" class="img-fluid" alt="Audi skysphere-konsept Grand Touring-modus" title="Audi skysphere-konsept Grand Touring-modus">
+    <a href="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_4.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_4s.webp" class="img-fluid" alt="Audi skysphere-konsept Grand Touring-modus" title="Audi skysphere-konsept Grand Touring-modus">
     </a>
     <figcaption><h4>Audi skysphere konsept sportsmodus</h4></figcaption>
 </figur>
@@ -28,8 +28,8 @@ For å gi passasjerene maksimal frihet, ble Audi skysphere-konseptet designet fo
 Med et knappetrykk kan sjåføren dra nytte av friheten og velge sin egen kjøreopplevelse – enten styrer de sin 4,94 meter lange e-roadster selv i "Sports"-modus med redusert akselavstand, mens bakhjulsstyringen sørger for at kjøretøyet forblir ekstremt smidig til tross for dimensjonene. Eller de kan velge å bli kjørt rundt i en 5,19 meter lang GT i den autonome «Grand Touring»-kjøringsmodusen mens de nyter himmelen og naturen, maksimal benplass og tjenestene som tilbys av et sømløst integrert digitalt økosystem.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_3s.jpg" class="img-fluid" alt="Audi skysphere-konsept Grand Touring-modus" title="Audi skysphere-konsept Grand Touring-modus">
+    <a href="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_3.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_3s.webp" class="img-fluid" alt="Audi skysphere-konsept Grand Touring-modus" title="Audi skysphere-konsept Grand Touring-modus">
     </a>
     <figcaption><h4>Audi skysphere-konsept Grand Touring-modus</h4></figcaption>
 </figur>
@@ -56,8 +56,8 @@ Audi skyspheres batterimoduler er primært plassert bak kabinen – en ideell ko
 Kjøretøyet har doble bærearmaksler foran og bak. Øvre og nedre bærearm er smidd eller støpt av aluminium. Styringen skjer via et steer-by-wire-system som styrer både for- og bakhjulene. Fordi systemet ikke er mekanisk koblet til forakselen, kan sjåføren velge forskjellige styreforhold og styreinnstillinger – alt ved å trykke på en knapp. Dette gjør at styringen kan justeres fra ekstremt direkte til komfortabel, men også fra høye selvjusterende krefter til minimale selvjusterende krefter, for eksempel ved parkering. Bakakselstyringen og den adaptive akselavstanden bidrar også til bilens lille svingradius.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_7.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_7s.jpg" class="img-fluid" alt="Audi skysphere concept" title="Audi skysphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_7.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_7s.webp" class="img-fluid" alt="Audi skysphere concept" title="Audi skysphere concept">
     </a>
     <figcaption><h4>Audi skysphere-konsept</h4></figcaption>
 </figur>
@@ -78,8 +78,8 @@ Skånsom dimming og et strukturert, rytmisk pulserende lys gir en elegant effekt
 Bakenden domineres også av en digitalt kontrollert LED-overflate som strekker seg over hele kjøretøyets bredde. Utallige røde lysdioder er spredt som rubiner over den vertikale bakre overflaten. Refleksjoner skaper dynamiske lys- og skyggeeffekter når belysningsenhetene slås av og på.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_6s.jpg" class="img-fluid" alt="Audi skysphere concept" title="Audi skysphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_6.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_6s.webp" class="img-fluid" alt="Audi skysphere concept" title="Audi skysphere concept">
     </a>
     <figcaption><h4>Audi skysphere-konsept</h4></figcaption>
 </figur>
@@ -97,8 +97,8 @@ Når det gjelder de tre kommende konseptbilene Audi skysphere, Audi grandsphere 
 Som et resultat kan kontrollelementer som ratt og pedaler svinges til en usynlig posisjon og dermed fjernes helt fra interiøret. Og passasjerer, inkludert den i venstre sete foran, kan nyte en ny form for frihet – friheten til å slappe av i friluft, nyte naturen og vinden, eller samhandle med Internett og verden takket være forbindelsen med digitalt økosystem i Audi-skysfæren.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audiskysphereconcept/audiskysphereconcept_5s.jpg" class="img-fluid" alt="Audi skysphere concept" title="Audi skysphere concept">
+    <a href="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_5.webp">
+        <img src="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_5s.webp" class="img-fluid" alt="Audi skysphere concept" title="Audi skysphere concept">
     </a>
     <figcaption><h4>Audi skysphere-konsept</h4></figcaption>
 </figur>

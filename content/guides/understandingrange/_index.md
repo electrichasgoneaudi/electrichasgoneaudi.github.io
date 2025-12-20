@@ -165,7 +165,7 @@ from previous trips and this causes a lot of questions about range from owners s
 
 Below you see some typical questions.
 
-![Facebook questions](https://media.electrichasgoneaudi.net/multimedia/guides/understandingrange/facebook.png "Questions from owners about range indication")
+![Facebook questions](https://media.evkx.net/ehga/guides/understandingrange/facebook.webp "Questions from owners about range indication")
 
 So how does the range indicator works? 
 

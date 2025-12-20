@@ -7,8 +7,8 @@ weight: 7
 <!-- markdownlint-disable MD033 -->
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/technology.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/technologys.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/technology.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/technologys.webp"
         class="img-fluid" alt="Lights  is one of the areas where Audi is leading. E-tron is the first Audi with Digital HD Matrix Lights" title="Lights  is one of the areas where Audi is leading. E-tron is the first Audi with Digital HD Matrix Lights">
     </a>
     <figcaption><h4>Lights  is one of the areas where Audi is leading. E-tron is the first Audi with Digital HD Matrix Lights</h4></figcaption>

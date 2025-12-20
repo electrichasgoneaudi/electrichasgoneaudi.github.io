@@ -9,8 +9,8 @@ weight: 7
 Forakselen til de kompakte elektriske SUV-ene er designet i den klassiske McPherson-konstruksjonsmetoden, styringen er plassert under foran. 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/frontsuspension.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/frontsuspensions.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/suspension/frontsuspension.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/suspension/frontsuspensions.webp"
         class="img-fluid" alt="McPherson front støtdemper med elektrisk motor" title="McPherson front støtdemper med elektrisk motor">
     </a>
     <figcaption><h4>McPherson front støtdemper med elektrisk motor</h4></figcaption>
@@ -19,8 +19,8 @@ Forakselen til de kompakte elektriske SUV-ene er designet i den klassiske McPher
 En kompakt femleddet design med likheter med bakakselen til de store Audi-modellene fungerer bak. Som med forakselen er den montert på en underramme. Flere deler av fjæringen er laget av lettvektsaluminium. Sporviddene er 1.587 millimeter foran og 1.565 millimeter bak.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/rearsuspension.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/rearsuspensions.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/suspension/rearsuspension.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/suspension/rearsuspensions.webp"
         class="img-fluid" alt="Femleddet bakre støtdempere med elektrisk motor" title="Femleddet bakre støtdempere med elektrisk motor">
     </a>
     <figcaption><h4>Femleddet bakre støtdempere med elektrisk motor</h4></figcaption>
@@ -29,16 +29,16 @@ En kompakt femleddet design med likheter med bakakselen til de store Audi-modell
 Du kan bestille Q4 e-tron med sportsunderstell. Sportsfjæringen (standard i S-linjen) senker karosseriet med 15 millimeter.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/suspension.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/suspension.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/suspension/suspension.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/suspension/suspension.webp"
         class="img-fluid" alt="Audi Q4 S-line med standard oppheng 180 mm bakkeklaring" title="Audi Q4 S-line med standard oppheng 180 mm bakkeklaring">
     </a>
     <figcaption><h4>Audi Q4 S-line med standard oppheng 180 mm bakkeklaring</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/slinesuspension.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/suspension/slinesuspensions.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/suspension/slinesuspension.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/suspension/slinesuspensions.webp"
         class="img-fluid" alt="Audi Q4 S-line med S-Line oppheng og 165 mm bakkeklaring" title="Audi Q4 S-line med S-Line oppheng og 165 mm bakkeklaring">
     </a>
     <figcaption><h4>Audi Q4 S-line med S-Line oppheng og 165 mm bakkeklaring</h4></figcaption>

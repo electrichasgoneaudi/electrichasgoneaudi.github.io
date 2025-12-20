@@ -6,8 +6,8 @@ weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/crosstrafficassistrear/crosstrafficrear.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/crosstrafficassistrear/crosstrafficrears.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/crosstrafficassistrear/crosstrafficrear.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/crosstrafficassistrear/crosstrafficrears.webp"
         class="img-fluid" alt="Cross traffic assist rear" title="Cross traffic assist rear">
     </a>
     <figcaption><h4>Cross traffic assist rear</h4></figcaption>

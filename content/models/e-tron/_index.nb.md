@@ -15,8 +15,8 @@ Bilen har vært en stor suksess for Audi, og i Norge ble den til og med den mest
 I april 2021 ble det e-tron nr 100 000 produsert.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/variants1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/variants1s.jpg" class="img-fluid" alt="Audi e-tron 60S and Audi e-tron Sportback 60S" title="Audi e-tron 60S and Audi e-tron Sportback 60S">
+    <a href="https://media.evkx.net/ehga/models/e-tron/variants/variants1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/variants/variants1s.webp" class="img-fluid" alt="Audi e-tron 60S and Audi e-tron Sportback 60S" title="Audi e-tron 60S and Audi e-tron Sportback 60S">
     </a>
     <figcaption><h4>Audi e-tron 60S og Audi e-tron Sportback 60S</h4></figcaption>
 </figure>
@@ -24,8 +24,8 @@ I april 2021 ble det e-tron nr 100 000 produsert.
 Audi e-tron har et bredt utvalg alternativer og avanserte kjøreteknologier. Her på electrichasgoneaudi.net finner du alle detaljer om e-tron. Alt fra de forskjellige hjulene å velge mellom til hvordan de forskjellige kjøreassistentsystemene fungerer.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/drivetrain2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/drivetrain2s.jpg" class="img-fluid" alt="Audi e-tron drivlinje" title="Audi e-tron drivlinje">
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/drivetrain2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/drivetrain2s.webp" class="img-fluid" alt="Audi e-tron drivlinje" title="Audi e-tron drivlinje">
     </a>
     <figcaption><h4>Audi e-tron drivlinje</h4></figcaption>
 </figure>
@@ -67,8 +67,8 @@ Det er et stort antall eksteriøralternativer til Audi e-tron. Mer enn 50 lakkfa
 <br/>
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/interior.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/interiors.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/interior/interior.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/interior/interiors.webp"
         class="img-fluid" alt="Audi e-tron interiør" title="Audi e-tron interiør">
     </a>
     <figcaption><h4>Audi e-tron interiør</h4></figcaption>

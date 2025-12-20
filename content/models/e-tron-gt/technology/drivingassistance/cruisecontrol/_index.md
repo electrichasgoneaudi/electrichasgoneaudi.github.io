@@ -7,8 +7,8 @@ weight: 1
 
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/cruisecontrol/cruisecontrol.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/cruisecontrol/cruisecontrols.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/drivingassistance/cruisecontrol/cruisecontrol.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/drivingassistance/cruisecontrol/cruisecontrols.webp"
         class="img-fluid" alt="Cruise control stalk" title="Cruise control stalk">
     </a>
     <figcaption><h4>Cruise control stalk</h4></figcaption>

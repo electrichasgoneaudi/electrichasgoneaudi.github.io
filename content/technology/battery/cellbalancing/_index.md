@@ -17,8 +17,8 @@ To do this, the battery regulation control unit compares the voltages of the cel
 On all-electric Audis, it is not possible to check the cell balance without extra tools. ODBEleven is one of these tools that can be used. The below screenshot show that one cell set has 10% SOC and another has 13% soc. Audi e-tron has 108 cell sets with 3 or 4 cells in parallel depending on the version.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cellbalancing/obdeleven.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cellbalancing/obdeleven.jpg"
+    <a href="https://media.evkx.net/ehga/technology/battery/cellbalancing/obdeleven.webp">
+        <img src="https://media.evkx.net/ehga/technology/battery/cellbalancing/obdeleven.webp"
         class="img-fluid" alt="Cell info from OBDEleven" title="Cell info from OBDEleven">
     </a>
     <figcaption><h4>Cell info from OBDEleven</h4></figcaption>

@@ -19,8 +19,8 @@ Fra førersetet kan du aktivere barnesikkerhet for bakvindu og dører.
 Som ekstrautstyr kan du få elektrisk bakluke til Audi Q4 e-tron. Dette er standard på Sportback-versjonen.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/kicksensor.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/kicksensors.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/lockingsystems/kicksensor.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/lockingsystems/kicksensors.webp"
         class="img-fluid" alt="Powered tailgate option 4E6" title="Powered tailgate option 4E6">
     </a>
     <figcaption><h4>Powered tailgate option 4E6</h4></figcaption>
@@ -40,8 +40,8 @@ Hvis du får [advance key option](../../technology/lockingsystems/#advance-key-o
 slik at du kan låse bilen.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/doors/tailgatelocking.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/doors/tailgatelockings.jpg" 
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/doors/tailgatelocking.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/doors/tailgatelockings.webp" 
         class="img-fluid" alt="Baklukelåsing" title="Baklukelåsing">
     </a>
     <figcaption><h4>Baklukelåsing</h4></figcaption>

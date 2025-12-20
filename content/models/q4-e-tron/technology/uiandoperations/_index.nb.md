@@ -10,8 +10,8 @@ Akkurat som i alle sine modeller er Audi avhengig av et heldigitalt betjenings- 
 Den består av fire nivåer: det digitale instrumentpanelet eller Audi virtual cockpit for sjåføren, det sentrale MMI-berøringsdisplayet, den naturlige talestyringen, og den valgfrie augmented reality head-up-skjermen – det er en ny, banebrytende teknologi.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/uiandoperations.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/uiandoperationss.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/uiandoperations.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/uiandoperationss.webp"
         class="img-fluid" alt="Audi Q4 brukergrensesnitt og operasjoner" title="Audi Q4 brukergrensesnitt og operasjoner">
     </a>
     <figcaption><h4>Audi Q4 brukergrensesnitt og operasjoner</h4></figcaption>

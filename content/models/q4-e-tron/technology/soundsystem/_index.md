@@ -17,8 +17,8 @@ As a new and exclusive partner of Audi, the world’s leading sound experience c
 sound philosophy across the entire model range. Thanks to its flexibility, it leaves room for customers’ wishes.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/soundsystem/sonosspeaker.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/soundsystem/sonosspeakers.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/soundsystem/sonosspeaker.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/soundsystem/sonosspeakers.webp"
         class="img-fluid" alt="Sonos front speaker" title="Sonos front speaker">
     </a>
     <figcaption><h4>Sonos front speaker</h4></figcaption>
@@ -27,8 +27,8 @@ sound philosophy across the entire model range. Thanks to its flexibility, it le
 In the Q4 e-tron and the Q4 Sportback e-tron, the Sonamic Panorama algorithm, which was developed by the Fraunhofer Institute, distributes the signals to ten loudspeakers. It uses stereo recordings to generate a three-dimensional surround sound, where it places the individual sound sources on a virtual U-shaped sound stage. This gives the listener the impression they are sitting in the middle of the orchestra or band. The four tweeters and the center speaker are driven by an amplifier that is integrated in the MIB 3. A separate eight-channel booster is responsible for the four bass loudspeakers and the subwoofer in the luggage compartment. Together, the two amplifiers offer an output of 580 watts.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/soundsystem/soundsystem1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/soundsystem/soundsystem1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/soundsystem/soundsystem1.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/soundsystem/soundsystem1s.webp"
         class="img-fluid" alt="Sonos Sound System 10 speaker placement" title="Sonos Sound System 10 speaker placement">
     </a>
     <figcaption><h4>Sonos Sound System 10 speaker placement</h4></figcaption>

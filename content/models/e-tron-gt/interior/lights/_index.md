@@ -22,8 +22,8 @@ White lights with option id **QQ1** and multicolor with 30 color options per con
 area with option id **QQ2**.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/lights/ambientlight_control.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/lights/ambientlight_controls.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/lights/ambientlight_control.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/lights/ambientlight_controls.webp"
         class="img-fluid" alt="The lighs are controlled in MMI" title="The lighs are controlled in MMI">
     </a>
     <figcaption><h4>The lighs are controlled in MMI</h4></figcaption>
@@ -32,8 +32,8 @@ area with option id **QQ2**.
 The color can change based on your drive mode in [Audi Drive Select](/models/e-tron-gt/technology/audidriveselect/).
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/lights/ambientlight_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/lights/ambientlight_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/lights/ambientlight_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/lights/ambientlight_1s.webp"
         class="img-fluid" alt="Multicolor interior lights" title="Multicolor interior lights">
     </a>
     <figcaption><h4>Multicolor interior lights</h4></figcaption>

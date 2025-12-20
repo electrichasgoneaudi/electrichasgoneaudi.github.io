@@ -9,8 +9,8 @@ weight: 8
 Koden er **PC2** på e-tron 55/50 og **PC4** på e-tron S.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paintedcalibers/paintedcalibers.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paintedcalibers/paintedcaliberss.png" class="img-fluid" alt="Lakkerte kalipere på e-tron S" title="Lakkerte kalipere på e-tron S">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paintedcalibers/paintedcalibers.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paintedcalibers/paintedcaliberss.webp" class="img-fluid" alt="Lakkerte kalipere på e-tron S" title="Lakkerte kalipere på e-tron S">
     </a>
     <figcaption><h4>Lakkerte kalipere på e-tron S</h4></figcaption>
 </figure>
@@ -25,8 +25,8 @@ Fargekoden i forskjellige formater er.
 - NCS S1080 Y50R
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paintedcalibers/paintedcalipers2.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paintedcalibers/paintedcalipers2s.png" class="img-fluid" alt="Lakkerte kalipere på e-tron S" title="Lakkerte kalipere på e-tron S">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paintedcalibers/paintedcalipers2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paintedcalibers/paintedcalipers2s.webp" class="img-fluid" alt="Lakkerte kalipere på e-tron S" title="Lakkerte kalipere på e-tron S">
     </a>
     <figcaption><h4>Lakkerte kalipere på e-tron S</h4></figcaption>
 </figure>

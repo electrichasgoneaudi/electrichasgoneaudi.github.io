@@ -16,8 +16,8 @@ Sjåføren må sitte i kjøretøyet og bære nøkkelen.
 Motoren starter når du trykker på bremsepedalen og setter bilen i gir. Den stopper når sjåføren forlater kjøretøyet. Føreren kan også bruke start/stopp-knappen for å starte/stoppe tenningen.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/startbutton.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/startbuttons.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/lockingsystems/startbutton.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/lockingsystems/startbuttons.webp"
         class="img-fluid" alt="Senterkonsoll med start/stopp-knapp" title="Mentkonsoll med start/stopp-knapp">
     </a>
     <figcaption><h4>Midtkonsoll med start/stopp-knapp</h4></figcaption>
@@ -38,8 +38,8 @@ Når Audi Q4 e-tron er utstyrt med elektrisk baklule, kan bakluken enkelt låses
 Hvis du ikke har hendene frie, kan du bruke en fotbevegelse (sparkbevegelse) bak.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/kicksensor.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/kicksensors.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/lockingsystems/kicksensor.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/lockingsystems/kicksensors.webp"
         class="img-fluid" alt="Du kan åpne bakluken med forhåndsnøkkelen ved å sparke foten under bakluken." title="Du kan åpne bakluken med fremføringsnøkkelen ved å sparke foten under bakluken.">
     </a>
     <figcaption><h4>Du kan åpne bakluken med forhåndsnøkkelen ved å sparke foten under bakluken.</h4></figcaption>
@@ -58,8 +58,8 @@ Dette alternativet inkluderer også et tyverialarmsystem med en kupe sensor.
 Du kan konfigurere låsesystemet i Audi Q4 e-tron MMI.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/settings1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lockingsystems/settings1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/lockingsystems/settings1.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/lockingsystems/settings1s.webp"
         class="img-fluid" alt="Sentrallåsinnstillinger i Audi Q4 e-tron MMI" title="Sentrallåsinnstillinger i Audi Q4 e-tron MMI">
     </a>
     <figcaption><h4>Sentrallåsinnstillinger i Audi Q4 e-tron MMI</h4></figcaption>

@@ -9,22 +9,22 @@ sectiontabs: "/nb/models/q4-e-tron/exterior/"
 ## 21" Vossen HF2 21x9.5
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/aftermarket/vossenhf2_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/aftermarket/vossenhf2_1s.jpg" class="img-fluid" alt="21 x 9.5 Vossen HF2 med 255/40 dekk" title="21 x 9.5 Vossen HF2 med 255/40 dekk">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/wheels/aftermarket/vossenhf2_1.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/wheels/aftermarket/vossenhf2_1s.webp" class="img-fluid" alt="21 x 9.5 Vossen HF2 med 255/40 dekk" title="21 x 9.5 Vossen HF2 med 255/40 dekk">
     </a>
     <figcaption><h4>21 x 9.5 Vossen HF2 med 255/40 dekk</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/aftermarket/vossenhf2_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/aftermarket/vossenhf2_2s.jpg" class="img-fluid" alt="21 x 9.5 Vossen HF2 med 255/40 dekk" title="21 x 9.5 Vossen HF2 med 255/40 dekk">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/wheels/aftermarket/vossenhf2_2.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/wheels/aftermarket/vossenhf2_2s.webp" class="img-fluid" alt="21 x 9.5 Vossen HF2 med 255/40 dekk" title="21 x 9.5 Vossen HF2 med 255/40 dekk">
     </a>
     <figcaption><h4>21 x 9.5 Vossen HF2 med 255/40 dekk</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/aftermarket/vossenhf2_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/aftermarket/vossenhf2_3s.jpg" class="img-fluid" alt="21 x 9.5 Vossen HF2 med 255/40 dekk" title="21 x 9.5 Vossen HF2 med 255/40 dekk">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/wheels/aftermarket/vossenhf2_3.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/wheels/aftermarket/vossenhf2_3s.webp" class="img-fluid" alt="21 x 9.5 Vossen HF2 med 255/40 dekk" title="21 x 9.5 Vossen HF2 med 255/40 dekk">
     </a>
     <figcaption><h4>21 x 9.5 Vossen HF2 med 255/40 dekk</h4></figcaption>
 </figure>
@@ -32,15 +32,15 @@ sectiontabs: "/nb/models/q4-e-tron/exterior/"
 ## 22 Blaque Diamond  BD 11
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/aftermarket/blaquediamond11_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/aftermarket/blaquediamond11_1s.jpg" class="img-fluid" alt="22 Blaque Diamond BD 11 ET 15 med 265/35 -22 " title="22 Blaque Diamond BD 11 ET 15 med 265/35 -22 ">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/wheels/aftermarket/blaquediamond11_1.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/wheels/aftermarket/blaquediamond11_1s.webp" class="img-fluid" alt="22 Blaque Diamond BD 11 ET 15 med 265/35 -22 " title="22 Blaque Diamond BD 11 ET 15 med 265/35 -22 ">
     </a>
     <figcaption><h4>22 x 9 Blaque Diamond BD 11 ET 15 med 265/35 -22 dekk front and rear</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/aftermarket/blaquediamond11_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/aftermarket/blaquediamond11_2s.jpg" class="img-fluid" alt="22 Blaque Diamond BD 11 ET 15 med 265/35 -22 " title="22 Blaque Diamond BD 11 ET 15 med 265/35 -22 ">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/wheels/aftermarket/blaquediamond11_2.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/wheels/aftermarket/blaquediamond11_2s.webp" class="img-fluid" alt="22 Blaque Diamond BD 11 ET 15 med 265/35 -22 " title="22 Blaque Diamond BD 11 ET 15 med 265/35 -22 ">
     </a>
     <figcaption><h4>22 x 9 Blaque Diamond BD 11 ET 15 med 265/35 -22 dekk front and rear</h4></figcaption>
 </figure>
@@ -48,15 +48,15 @@ sectiontabs: "/nb/models/q4-e-tron/exterior/"
 ## 22 Ferrada
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/aftermarket/ferrada1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/aftermarket/ferrada1s.jpg" class="img-fluid" alt="Ferrada FR2 9x22 ET30 med 265/35 dekk" title="Ferrada FR2 9x22 ET30 med 265/35 dekk">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/wheels/aftermarket/ferrada1.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/wheels/aftermarket/ferrada1s.webp" class="img-fluid" alt="Ferrada FR2 9x22 ET30 med 265/35 dekk" title="Ferrada FR2 9x22 ET30 med 265/35 dekk">
     </a>
     <figcaption><h4>Ferrada FR2 9x22 ET30 med 265/35 dekk</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/aftermarket/ferrada2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/aftermarket/ferrada2s.jpg" class="img-fluid" alt="Ferrada FR2 9x22 ET30 med 265/35 dekk" title="Ferrada FR2 9x22 ET30 med 265/35 dekk">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/wheels/aftermarket/ferrada2.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/wheels/aftermarket/ferrada2s.webp" class="img-fluid" alt="Ferrada FR2 9x22 ET30 med 265/35 dekk" title="Ferrada FR2 9x22 ET30 med 265/35 dekk">
     </a>
     <figcaption><h4>Ferrada FR2 9x22 ET30 med 265/35 dekk</h4></figcaption>
 </figure>

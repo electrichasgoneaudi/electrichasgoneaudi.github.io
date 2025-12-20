@@ -8,8 +8,8 @@ weight: 7
 e-tron GT quattro kommer som standard med stålskiver med en diameter på 360 millimeter og seks-stempels kalipere på forakselen.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/brakes/brakes2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/brakes/brakes2s.jpg" class="img-fluid" alt="Carbid bremser" title="Carbid bremser">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/brakes/brakes2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/brakes/brakes2s.webp" class="img-fluid" alt="Carbid bremser" title="Carbid bremser">
     </a>
     <figcaption><h4>Carbid bremser</h4></figcaption>
 </figure>
@@ -17,8 +17,8 @@ e-tron GT quattro kommer som standard med stålskiver med en diameter på 360 mi
  RS-modellen er også utstyrt med seks-stempels kalipere, som er tilgjengelige i rødt eller oransje som ekstrautstyr, og 410 millimeter (16,1 tommer) støpejernsskiver med wolframkarbidbelegg (valgfritt i e-tron GT quattro ). Dette Audi karbidbremsesystemet øker bremseytelsen og reduserer slitasje og dermed bremsestøv. Samtidig forhindrer det lynrust, et typisk fenomen man ser i mange elbiler som ikke bruker hjulbremsene så ofte.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/brakes/brakes1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/brakes/brakes1s.jpg" class="img-fluid" alt="Keramiske bremser" title="Keramiske bremser">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/brakes/brakes1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/brakes/brakes1s.webp" class="img-fluid" alt="Keramiske bremser" title="Keramiske bremser">
     </a>
     <figcaption><h4>Keramiske bremser</h4></figcaption>
 </figure>

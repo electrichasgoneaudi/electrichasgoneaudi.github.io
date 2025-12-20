@@ -23,8 +23,8 @@ Du kan bestille bilen med elektrisk bakluke. Dette er en del av alternativet PGB
 Du kan legge til kule innstegslys til e-tron GT-dørene.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/doors/entry-light.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/doors/entry-lights.jpg" class="img-fluid" alt="Innstegslys" title="Innstegslys">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/doors/entry-light.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/doors/entry-lights.webp" class="img-fluid" alt="Innstegslys" title="Innstegslys">
     </a>
     <figcaption><h4>Innstegslys</h4></figcaption>
 </figure>
@@ -45,8 +45,8 @@ Hvis du får [advance key option](../../technology/lockingsystems/#advance-key-o
 slik at du kan låse bilen.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/doors/tailgatelocking.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/doors/tailgatelockings.jpg" class="img-fluid" alt="Baklukelåsing" title="Baklukelåsing">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/doors/tailgatelocking.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/doors/tailgatelockings.webp" class="img-fluid" alt="Baklukelåsing" title="Baklukelåsing">
     </a>
     <figcaption><h4>Baklukelåsing</h4></figcaption>
 </figure>

@@ -7,8 +7,8 @@ weight: 99997
 <!-- markdownlint-disable MD033 -->
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidnas.jpg" class="img-fluid" alt="2023 Audi SQ8 e-tron prototype og 2022 Audi e-tron S" title="2023 Audi SQ8 e-tron prototype og 2022 Audi e-tron S">
+    <a href="https://media.evkx.net/ehga/articles/audidna/audidna.webp">
+        <img src="https://media.evkx.net/ehga/articles/audidna/https://media.evkx.net/ehga/articles/audidna/audidnas.webp" class="img-fluid" alt="2023 Audi SQ8 e-tron prototype og 2022 Audi e-tron S" title="2023 Audi SQ8 e-tron prototype og 2022 Audi e-tron S">
     </a>
     <figcaption><h4>2023 Audi SQ8 e-tron prototype og 2022 Audi e-tron S</h4></figcaption>
 </figur>
@@ -24,8 +24,8 @@ En viktig del av prøveturene gjennomføres i bitende kalde Nord-Sverige. Her er
 Rett frem stabilitet, styrebehov og oppbygging av retardasjon er kriterier for en vurderingsmetodikk for ABS-bremsing fra forskjellige hastigheter på snø og is. Resultatene av innstillingsarbeidet flyter inn i en vurdering av kjøreatferd, som utviklerne dokumenterer i form av et edderkoppnettdiagram – et mønster som brukes på alle Audi-modeller på modellspesifikk basis. Grunnlaget for dette er måten kjøretøyet og dets individuelle egenskaper plasseres på, og hvordan de aktuelle kjøremanøvrene og utviklingsfilosofien defineres. En Audi kan kjennes igjen på disse kjøreegenskapene: styrerespons, rattinnkjøring, trekkraft og styreegenskaper. Her er fordelene til quattro ganske synlige: dens spesielt unike kjøreegenskaper med hensyn til trekkraft i kurver og rett fram stabilitet, samt styring og oppførsel under lastendringer setter Audi firehjulsdriften over gjennomsnittsnivået for konkurrentene .
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna5s.jpg" class="img-fluid" alt="2022 Audi e-tron S kjøreegenskaper" title="2022 Audi e-tron S kjøreegenskaper">
+    <a href="https://media.evkx.net/ehga/articles/audidna/audidna5.webp">
+        <img src="https://media.evkx.net/ehga/articles/audidna/https://media.evkx.net/ehga/articles/audidna/audidna5s.webp" class="img-fluid" alt="2022 Audi e-tron S kjøreegenskaper" title="2022 Audi e-tron S kjøreegenskaper">
     </a>
     <figcaption><h4>2022 Audi e-tron S kjøreegenskaper</h4></figcaption>
 </figur>
@@ -37,8 +37,8 @@ Audi forstår at en kontrollert kjøreatferd er definert av en presis og forutsi
 Resultatet: en forutsigbar styrevinkelavhengig giradferd kombinert med en lett overstyringsbalanse, hvor understyring unngås. Audi oppnår disse ved å bruke teknologier som torque vectoring, den doble motorens bakaksel i e-tron S, eller momentdeleren i RS 3. Utvikler Oswin Roeder oppsummerer med å si at «vi beskriver måten en Audi trenger å kjøre på bruke objektive og subjektive kriterier. Men de subjektive kriteriene er avgjørende for oss, da det til syvende og sist er det sjåførene føler."
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna2s.jpg" class="img-fluid" alt="2022 Audi e-tron S" title="2022 Audi e-tron S">
+    <a href="https://media.evkx.net/ehga/articles/audidna/audidna2.webp">
+        <img src="https://media.evkx.net/ehga/articles/audidna/https://media.evkx.net/ehga/articles/audidna/audidna2s.webp" class="img-fluid" alt="2022 Audi e-tron S" title="2022 Audi e-tron S">
     </a>
     <figcaption><h4>2022 Audi e-tron S</h4></figcaption>
 </figur>
@@ -50,8 +50,8 @@ Hver avfjæringskontrollsystemer som er involvert er nøyaktig synkronisert med 
 For eksempel styrer den elektriske quattroen i Audi e-tron S dreiemomentet ved behov, fra null til 100 prosent mellom for- og bakaksel. På toppen av det er det elektrisk dreiemomentvektor for økt smidighet. Hver av de bakre elektriske motorene fordeler drivmomentet direkte til hjulet uten noen mekanisk differensial. Dette gjøres proaktivt i glatte forhold eller ved raske svinger, før utglidning oppstår eller bilen under- eller overstyrer. Resultatet er svært presis håndtering, som kan justeres over et bredt spekter via chassiskontrollsystemene – fra stabil til sporty. I sportsmodus, for eksempel, griper kontrollsystemene inn senere for å muliggjøre kjøring med mer overstyring.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna3s.jpg" class="img-fluid" alt="2023 Audi SQ8 e-tron Sportback prototype" title="2023 Audi SQ8 e-tron Sportback prototype">
+    <a href="https://media.evkx.net/ehga/articles/audidna/audidna3.webp">
+        <img src="https://media.evkx.net/ehga/articles/audidna/https://media.evkx.net/ehga/articles/audidna/audidna3s.webp" class="img-fluid" alt="2023 Audi SQ8 e-tron Sportback prototype" title="2023 Audi SQ8 e-tron Sportback prototype">
     </a>
     <figcaption><h4>2023 Audi SQ8 e-tron Sportback-prototype</h4></figcaption>
 </figur>
@@ -67,8 +67,8 @@ Sjåfører får en sikker følelse av kjøretøyets kontrollerbarhet dersom man 
 Hovedhjernen til reguleringssystemene og kontrollenhetene er den elektroniske chassisplattformen (ECP) med sin integrerte langsgående og sideveis dreiemomentfordeling. Den lar kjøresituasjoner gjenkjennes prediktivt for å justere kjøretøyet etter behov. Den tar hensyn til hastigheten, høydeverdiene, bilens vertikale bevegelser, rullebevegelser og stigningsbevegelser, veiens friksjon, gjeldende kjørestatus, under- og overstyring, samt informasjon fra de involverte fjæringssystemene. Dette nettverket lar ECP sikre optimal interaksjon mellom delsystemene.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna4s.jpg" class="img-fluid" alt="2023 Audi SQ8 e-tron Sportback prototype" title="2023 Audi SQ8 e-tron Sportback prototype">
+    <a href="https://media.evkx.net/ehga/articles/audidna/audidna4.webp">
+        <img src="https://media.evkx.net/ehga/articles/audidna/https://media.evkx.net/ehga/articles/audidna/audidna4s.webp" class="img-fluid" alt="2023 Audi SQ8 e-tron Sportback prototype" title="2023 Audi SQ8 e-tron Sportback prototype">
     </a>
     <figcaption><h4>2023 Audi SQ8 e-tron Sportback-prototype</h4></figcaption>
 </figur>

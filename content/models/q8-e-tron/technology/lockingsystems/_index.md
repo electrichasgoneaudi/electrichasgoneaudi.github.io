@@ -14,8 +14,8 @@ To do this, the driver must sit in the vehicle and carry the convenience key wit
 The engine is started and switched off using the engine start-stop button in the center console.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/startbutton.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/startbutton.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/lockingsystems/startbutton.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/lockingsystems/startbutton.webp"
         class="img-fluid" alt="Center console with start/stop button" title="Center console with start/stop button">
     </a>
     <figcaption><h4>Center console with start/stop button</h4></figcaption>
@@ -32,8 +32,8 @@ To lock the vehicle from the outside, all you have to do is touch one of the sen
 The luggage compartment lid can be conveniently unlocked using the luggage compartment button on the convenience key or, if you do not have a free hand, with a foot gesture (kick movement) at the rear.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/kicksensor.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/kicksensors.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/lockingsystems/kicksensor.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/lockingsystems/kicksensors.webp"
         class="img-fluid" alt="With advance key you can open tailgate with kicking the foot under the tailgate" title="With advance key you can open tailgate with kicking the foot under the tailgate">
     </a>
     <figcaption><h4>With advance key you can open tailgate with kicking the foot under the tailgate</h4></figcaption>
@@ -49,8 +49,8 @@ The engine is started and switched off using the engine start-stop button in the
 A high-quality visual differentiation on the top and bottom of the key through high-gloss black components and metal clasps in aluminum look make the innovative functions of the convenience key visible.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/advancekey.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/advancekeys.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/lockingsystems/advancekey.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/lockingsystems/advancekeys.webp"
         class="img-fluid" alt="Audi Advance key" title="Audi Advance key">
     </a>
     <figcaption><h4>Audi Advance key</h4></figcaption>
@@ -65,8 +65,8 @@ Comfort key including sensor-controlled luggage compartment unlocking with lugga
 Anti-theft alarm system
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/alarm_sensor_of.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lockingsystems/alarm_sensor_ofs.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/lockingsystems/alarm_sensor_of.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/lockingsystems/alarm_sensor_ofs.webp"
         class="img-fluid" alt="The interior sensor can be switched of by button in door" title="The interior sensor can be switched of by button in door">
     </a>
     <figcaption><h4>The interior sensor can be switched of by button in door</h4></figcaption>

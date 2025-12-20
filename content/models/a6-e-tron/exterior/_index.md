@@ -22,7 +22,7 @@ The exterior of the Audi A6 e-tron differs between the variants basic, S line an
 See below for details about the exterior options.
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="paint/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/exterior/paint/plasmablue_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron lights" ></a>
+	<a href="paint/"><img src="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/plasmablue_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron lights" ></a>
 	<h2>Paintcolors</h2>
 	<p>
 		Audi A6 e-tron offers a large amount of paint colors to choose from
@@ -30,7 +30,7 @@ See below for details about the exterior options.
 	<a href="paint/" class="btn btn-outline-primary" role="button">Learn all about Audi A6 e-tron paint colors</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="wheels/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/exterior/wheels/wheels_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron lights" ></a>
+	<a href="wheels/"><img src="https://media.evkx.net/ehga/models/a6-e-tron/exterior/wheels/wheels_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron lights" ></a>
 	<h2>Wheels</h2>
 	<p>
 		Audi A6 e-tron offers serveral wheel options
@@ -38,7 +38,7 @@ See below for details about the exterior options.
 	<a href="wheels/" class="btn btn-outline-primary" role="button">Learn all about Audi A6 e-tron wheel options</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="paintedcalibers/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/exterior/paintedcalibers/calibers_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron lights" ></a>
+	<a href="paintedcalibers/"><img src="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paintedcalibers/calibers_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron lights" ></a>
 	<h2>Painted calibers</h2>
 	<p>
 		Audi A6 e-tron offers painted calibers as an option
@@ -46,7 +46,7 @@ See below for details about the exterior options.
 	<a href="paintedcalibers/" class="btn btn-outline-primary" role="button">Learn all about Audi A6 e-tron painted calibers</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="panoramicroof/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/exterior/panoramicroof/roof_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron lights" ></a>
+	<a href="panoramicroof/"><img src="https://media.evkx.net/ehga/models/a6-e-tron/exterior/panoramicroof/roof_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron lights" ></a>
 	<h2>Panoramic roof</h2>
 	<p>
 		Audi A6 e-tron offers panoramic roof as an option
@@ -54,7 +54,7 @@ See below for details about the exterior options.
 	<a href="panoramicroof/" class="btn btn-outline-primary" role="button">Learn all about Audi A6 e-tron panoramic roof</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="s-line/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/exterior/s-line/sline_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron lights" ></a>
+	<a href="s-line/"><img src="https://media.evkx.net/ehga/models/a6-e-tron/exterior/s-line/sline_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron lights" ></a>
 	<h2>S-Line exterior</h2>
 	<p>
 		Audi A6 e-tron offers s-line exterior package as an option

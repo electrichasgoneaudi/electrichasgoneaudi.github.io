@@ -12,8 +12,8 @@ Audi Q8 e-tron is equipped with standard manual windscreen wipers where you can 
 Audi Q8 e-tron er utstyrt med standard manuelle vindusviskere hvor man selv kan styre hastighet.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/wipers/wipers_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/wipers/wipers_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/wipers/wipers_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/wipers/wipers_1s.webp"
         class="img-fluid" alt="Adjustment of spray pattern" title="Adjustment of spray pattern">
     </a>
     <figcaption><h4>Adjustment of spray pattern</h4></figcaption>
@@ -26,8 +26,8 @@ As an option you can get adaptive windshield wipers on Audi Q8 e-tron. Adaptive 
 The adaptive wipers takes into account the driving speed, the outside temperature and the degree of dirt and adjusts the spray pattern to clean the windshield fast and reliably, without distorting the driver’s view during the operation.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/wipers/adaptive1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/wipers/adaptive1.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/wipers/adaptive1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/wipers/adaptive1.webp"
         class="img-fluid" alt="Adjustment of spray pattern" title="Adjustment of spray pattern">
     </a>
     <figcaption><h4>Adjustment of spray pattern</h4></figcaption>
@@ -38,8 +38,8 @@ In hot and dry conditions, less fluid is used to remove dirt and dust, and in we
 The wiper and washing system is completely heated. A heating element in the wiper arm (with a maximum power output of 20 watts) prevents the wiper system from icing over.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/wipers/adaptive2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/wipers/adaptive2.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/wipers/adaptive2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/wipers/adaptive2.webp"
         class="img-fluid" alt="Heated arm and nozzle" title="Heated arm and nozzle">
     </a>
     <figcaption><h4>Heated arm and nozzle</h4></figcaption>

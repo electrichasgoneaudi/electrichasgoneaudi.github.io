@@ -10,8 +10,8 @@ Den er en sympatisk partner til den dynamiske drivkraften, samtidig som den allt
 Hjulopphengene er utformet som en sporty dobbel bærearmkonstruksjon. Den har klassisk design på forakselen, mens de øvre bærearmene bak er delt inn i individuelle ledd. Nesten alle deler, inkludert lenker og underrammer, er smidd eller støpt av aluminium. Den elektromekaniske styringen har et sporty og direkte forhold på 15,4:1 men uten overdreven skarphet.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/suspensions1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/suspensions1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/suspension/suspensions1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/suspension/suspensions1s.webp"
         class="img-fluid" alt="Støtdempere" title="Støtdempere">
     </a>
     <figcaption><h4>Støtdempere</h4></figcaption>
@@ -20,8 +20,8 @@ Hjulopphengene er utformet som en sporty dobbel bærearmkonstruksjon. Den har kl
 Som en del av den valgfrie dynamiske pakken med id **PA2** på Audi e-tron GT og inkludert som standard på RS e-tron GT, leverer Audi firehjulsstyring. En spindeldrift snur bakhjulene med maksimalt 2,8 grader her – i motsatte retninger opp til omtrent 50 km/t (31,1 mph) for å øke smidigheten og kjøreegenskapene, og i samme retning fra omtrent 80 km/t (49,7 mph) for å opprettholde stabiliteten. Mellom 50 (31,1 mph) og 80 km/t (49,7 mph), avhengig av kjøresituasjonen, er det en kontinuerlig overgang mellom en styrevinkel i motsatte retninger og en styrevinkel i samme retning. Ved manøvrering reduserer firehjulsstyringen snusirkelen med omtrent 0,6 meter (2,0 fot).
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/4wheelsteering.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/4wheelsteerings.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/suspension/4wheelsteering.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/suspension/4wheelsteerings.webp"
         class="img-fluid" alt="Audi e-tron GT 4-hjulsstyring" title="Audi e-tron GT 4-hjulsstyring">
     </a>
     <figcaption><h4>Audi e-tron GT 4-hjulsstyring</h4></figcaption>
@@ -32,8 +32,8 @@ Som en del av den valgfrie dynamiske pakken med id **PA2** på Audi e-tron GT og
 Mens den adaptive luftfjæringen er ekstrautstyr i Audi e-tron GT quattro, kommer den som standard i RS-modellen. Kompressoren genererer et arbeidstrykk på opptil 19 bar, og trekammer luftfjæring på for- og bakaksel muliggjør komfortabel grunnfjæring. Kamrene i belgen aktiveres og deaktiveres avhengig av kjøresituasjonen. Ved jevn kjøring bidrar de alle tre til fjæringen, mens kun ett eller to kamre er aktive ved dynamiske krav som kraftig bremsing eller høy tverrakselerasjon – denne strategien reduserer bevegelsen til kroppen.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/suspension3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/suspension3s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/suspension/suspension3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/suspension/suspension3s.webp"
         class="img-fluid" alt="3-kammer luftfjæring" title="3-kammer luftfjæring">
     </a>
     <figcaption><h4>3-kammer luftfjæring</h4></figcaption>
@@ -42,8 +42,8 @@ Mens den adaptive luftfjæringen er ekstrautstyr i Audi e-tron GT quattro, komme
 Luftfjæringen kan justere kroppen til forskjellige høyder. Den senker kroppen med opptil 10 millimeter (0,4 tommer) ved en hastighet på 90 km/t (55,9 mph), og ytterligere 12 millimeter (0,5 tommer) ved 180 km/t (111,8 mph). Ved kjøring i en hastighet under 30 km/t (18,6 mph), kan sjåføren stille inn en løftemodus som hever karosseriet med 20 millimeter (0,8 tommer), for eksempel når han kjører inn i underjordiske parkeringshus. Den adaptive luftfjæringen jobber tett sammen med de kontrollerte demperne (standard) som tilpasser seg omstendighetene med millisekunders intervaller. Begge systemene styres av en sentral kontrollenhet, den elektroniske chassisplattformen (ECP). Denne koblingen sikrer maksimal presisjon.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/suspension2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/suspension2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/suspension/suspension2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/suspension/suspension2s.webp"
         class="img-fluid" alt="3-kammer luftfjæring" title="3-kammer luftfjæring">
     </a>
     <figcaption><h4>3-kammer luftfjæring</h4></figcaption>
@@ -52,8 +52,8 @@ Luftfjæringen kan justere kroppen til forskjellige høyder. Den senker kroppen 
 Diagrammet under viser høyde på dempere basert på innstilling og fart.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/ridelevel.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/ridelevels.png"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/suspension/ridelevel.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/suspension/ridelevels.webp"
         class="img-fluid" alt="Understellhøyde Audi e-tron GT med adaptive luftdepmere" title="Understellhøyde Audi e-tron GT med adaptive luftdepmere">
     </a>
     <figcaption><h4>Understellshøyde Audi e-tron GT med adaptive luftdepmere</h4></figcaption>
@@ -64,8 +64,8 @@ Diagrammet under viser høyde på dempere basert på innstilling og fart.
 I Audi drive select dynamisk håndteringssystem (standard) kan sjåføren spesifisere hvordan dempere, elektriske motorer, to-trinns girkasse og kontrollert bakakselsperre skal fungere. De kan bytte mellom "komfort", "effektivitet", "dynamisk" og "individuell" modus via en fysisk bryter. I «effektivitet»-modus senkes karosseriet til lavt nivå for å fremme bedre luftstrøm, og topphastigheten er begrenset til 140 km/t (87,0 mph); føreren kan imidlertid overstyre denne grensen ved å tråkke tungt på gasspedalen. I "dynamisk" modus er den elektriske firehjulsdriften, fjæringssystemene og den aktive aerodynamikken satt til en sportslig modus.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/driveselect_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/driveselect_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/suspension/driveselect_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/suspension/driveselect_1s.webp"
         class="img-fluid" alt="Drive Select-meny" title="Drive Select-meny">
     </a>
     <figcaption><h4>Drive Select-meny</h4></figcaption>
@@ -87,24 +87,24 @@ Denne animasjonen viser funksjonen til trekammerluftfjæringen og firehjulsstyri
 Hvis du ønsker å senke Audi e-tron GT finnes det 3. part løsninger.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/suspension/lowering1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/suspension/lowering1s.webp"
         class="img-fluid" alt="Audi e-tron GT with Ghost Links" title="Audi e-tron GT with Ghost Links">
     </a>
     <figcaption><h4>Audi e-tron GT med Ghost Links - 25mm senket</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/suspension/lowering2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/suspension/lowering2s.webp"
         class="img-fluid" alt="Audi e-tron GT with Ghost Links" title="Audi e-tron GT with Ghost Links">
     </a>
     <figcaption><h4>Audi e-tron GT med Ghost Links - 25mm senket</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/suspension/lowering3s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/suspension/lowering3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/suspension/lowering3s.webp"
         class="img-fluid" alt="Audi e-tron GT with Ghost Links" title="Audi e-tron GT with Ghost Links">
     </a>
     <figcaption><h4>Audi e-tron GT med Ghost Links - 25mm senket</h4></figcaption>

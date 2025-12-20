@@ -11,24 +11,24 @@ weight: 1
  Parking system plus is optional equipment on the Audi Q4 e-tron. Optional ID **7X2**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/parkingsystemplus.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/parkingsystempluss.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/parkingsystemplus.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/parkingsystempluss.webp"
         class="img-fluid" alt="Parking system plus with sensors front and back" title="Parking system plus with sensors front and back">
     </a>
     <figcaption><h4>Parking system plus with sensors front and back</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/sensorsrear.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/sensorsrears.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/sensorsrear.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/sensorsrears.webp"
         class="img-fluid" alt="Location of rear parking sensors on Audi Q4 e-tron" title="Location of rear parking sensors on Audi Q4 e-tron">
     </a>
     <figcaption><h4>Location of rear parking sensors on Audi Q4 e-tron</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/frontsensors.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/frontsensorss.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/frontsensors.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/frontsensorss.webp"
         class="img-fluid" alt="Location of front parking sensors on Audi Q4 e-tron" title="Location of front parking sensors on Audi Q4 e-tron">
     </a>
     <figcaption><h4>Location of front parking sensors on Audi Q4 e-tron</h4></figcaption>

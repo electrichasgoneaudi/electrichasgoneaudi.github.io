@@ -11,8 +11,8 @@ Even though these models are in different categories, the price can be in the sa
 That's why we in this article will go into the detailed difference between the Audi e-tron 55 quattro and the Audi Q4 e-tron 50 quattro
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/etronvsq4_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/etronvsq4_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/comparisons/q4etron50vsetron55/etronvsq4_1.webp">
+        <img src="https://media.evkx.net/ehga/models/comparisons/q4etron50vsetron55/etronvsq4_1s.webp"
         class="img-fluid" alt="Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro" title="Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro">
     </a>
     <figcaption><h4>Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro</h4></figcaption>
@@ -54,8 +54,8 @@ For many, this is a deciding factor.
 The Audi e-tron is 313 mm longer and 81 mm wider than Q4. The smaller size makes the Q4 more flexible in traffic and parking situations.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/parkingspace.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/parkingspaces.jpg"
+    <a href="https://media.evkx.net/ehga/models/comparisons/q4etron50vsetron55/parkingspace.webp">
+        <img src="https://media.evkx.net/ehga/models/comparisons/q4etron50vsetron55/parkingspaces.webp"
         class="img-fluid" alt="A typical scenario. Audi e-tron is filling a parking space." title="A typical scenario. Audi e-tron is filling a parking space.">
     </a>
     <figcaption><h4>A typical scenario. Audi e-tron is filling a parking space.</h4></figcaption>
@@ -87,8 +87,8 @@ Both have options for an S-line interior and multicolor ambient lighting.
 Audi e-tron also has interior styling options like a full leather dashboard and glass buttons.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_8.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/seats/seats_individualcontour_8s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/interior/seats/seats_individualcontour_8.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/interior/seats/seats_individualcontour_8s.webp"
         class="img-fluid" alt="Individual contour seats in Audi e-tron" title="Individual contour seats in Audi e-tron">
     </a>
     <figcaption><h4>Individual contour seats in Audi e-tron</h4></figcaption>
@@ -114,8 +114,8 @@ Just one screen has some drawbacks since you lose some functionality available o
 For some, the physical buttons for the AC on Q4 are an advantage.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/mmi/mmi.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/mmi/mmis.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/mmi/mmi.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/mmi/mmis.webp"
         class="img-fluid" alt="One screen Audi MMI touch on Audi Q4 e-tron" title="One screen Audi MMI touch on Audi Q4 e-tron">
     </a>
     <figcaption><h4>One screen Audi MMI touch on Audi Q4 e-tron</h4></figcaption>
@@ -190,8 +190,8 @@ If one or more of these options are essential for you, this can be a deciding fa
 The starting price is significantly lower on the Q4 e-tron 50 than Audi e-tron 55. But different markets have different packages that give various price differences. In markets where the buyers freely can select options, the starting price difference is about $20.000 / £20.000
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/etronvsq4_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/comparisons/q4etron50vsetron55/etronvsq4_2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/comparisons/q4etron50vsetron55/etronvsq4_2.webp">
+        <img src="https://media.evkx.net/ehga/models/comparisons/q4etron50vsetron55/etronvsq4_2s.webp"
         class="img-fluid" alt="Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro" title="Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro">
     </a>
     <figcaption><h4>Audi e-tron 55 quattro and Audi Q4 e-tron 50 quattro</h4></figcaption>

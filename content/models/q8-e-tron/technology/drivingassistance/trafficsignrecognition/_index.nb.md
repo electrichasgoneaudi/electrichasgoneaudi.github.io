@@ -9,8 +9,8 @@ weight: 1
 De vises da i førerinformasjonssystemet og/eller Audi virtual cockpit samt i head-up-displayet. Kameraet på frontruten oppdager også midlertidige hastighetsbegrensninger som i byggesoner, samt tids- og værbetingede begrensninger. Systemet viser gjeldende fartsgrense. Hvis for eksempel lavere hastighet gjelder når veien er våt, vises denne verdien – hvis vindusviskerne er på. Fartsgrenser som kun er i kraft på bestemte tider på døgnet vises kun på disse tidspunktene. I tillegg kan sjåføren velge en varslingsterskel som en forskyvning av lovlig fartsgrense. Når denne terskelen overskrides, gis en visuell advarsel.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/trafficsignrecognition/virtualcockpit.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/trafficsignrecognition/virtualcockpits.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/trafficsignrecognition/virtualcockpit.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/trafficsignrecognition/virtualcockpits.webp"
         class="img-fluid" alt="Trafikkskiltinformasjon i virtuell cockpit" title="Trafikkskiltinformasjon i virtuell cockpit">
     </a>
     <figcaption><h4>Trafikkskiltinformasjon i virtuell cockpit</h4></figcaption>
@@ -23,8 +23,8 @@ For å slå av at den adaptive kjøreassistenten følger skilt/karthastighet kan
 Velg -> Bil -> Førerassistent -> Adativ kjøreassistent -> Prediktiv kontroll -> Overta fartsgrense -> Av
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/trafficsignrecognition/speedovertakenb.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/trafficsignrecognition/speedovertakenbs.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/trafficsignrecognition/speedovertakenb.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/trafficsignrecognition/speedovertakenbs.webp"
         class="img-fluid" alt="Overta fartsgrense kan slås av" title="Overta fartsgrense kan slås av">
     </a>
     <figcaption><h4>Overta fartsgrense kan slås av</h4></figcaption>

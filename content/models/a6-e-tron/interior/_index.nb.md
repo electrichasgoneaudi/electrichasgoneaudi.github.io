@@ -26,7 +26,7 @@ Takket være den nye Premium Platform Electric, som ble utviklet spesielt for e-
 
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="seats/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/interior/seats/seatdesign_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron seats" ></a>
+	<a href="seats/"><img src="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatdesign_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron seats" ></a>
 	<h2>Seats</h2>
 	<p>
 		Audi A6 e-tron tilbyr tre forskjellige setealternativer

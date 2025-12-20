@@ -6,8 +6,8 @@ weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/platforms.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/platformss.jpg"
+    <a href="https://media.evkx.net/ehga/technology/bev-platforms/platforms.webp">
+        <img src="https://media.evkx.net/ehga/technology/bev-platforms/platformss.webp"
         class="img-fluid" alt="Audi BEV-plattformer" title="Audi BEV-plattformer">
     </a>
     <figcaption><h4>Audi BEV-plattformer</h4></figcaption>
@@ -21,7 +21,7 @@ Nedenfor finner du detaljer om de forskjellige plattformene.
 
 Audi e-tron er basert på en omfattende tilpasset variant av den modulære langsgående plattformen (MLB evo). MLB Evo-plattformen er en delt plattform som inkluderte ICE som Lamborghini URUS og Audi A8. Men for e-tron bygget Audi et helt nytt dedikert chassis og karosseri for e-tron
 
-[![MLB EVo](https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/mlb-evo/mlbevo2.jpg)](mlb-evo)
+[![MLB EVo](https://media.evkx.net/ehga/technology/bev-platforms/mlb-evo/mlbevo2.webp)](mlb-evo)
 
 [Les mer om MLB-EVO-plattformen](mlb-evo)
 
@@ -29,7 +29,7 @@ Audi e-tron er basert på en omfattende tilpasset variant av den modulære langs
 
 J1 Performance-plattformen er utviklet sammen med Porsche og brukes til Audi e-tron GT og Audi RS e-tron GT.
 
-[![J1 ytelse](https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/j1-performance/drivetrain2.jpg)](j1-performance)
+[![J1 ytelse](https://media.evkx.net/ehga/technology/bev-platforms/j1-performance/drivetrain2.webp)](j1-performance)
 
 [Finn ut mer om J1-ytelsesplattformen](j1-performance)
 
@@ -37,7 +37,7 @@ J1 Performance-plattformen er utviklet sammen med Porsche og brukes til Audi e-t
 
 Hva det modulære transversale verktøysettet (MQB) er for modellutvalget med forbrenningsmotorer, vil det modulære elektrifiseringsverktøysettet (MEB) være for de helelektriske Audi-modellene. Den brukes til de mindre Audi-modellene som Audi Q4 e-tron og Audi Q5 e-tron.
 
-[![Meb](https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/meb/meb1.jpg)](meb)
+[![Meb](https://media.evkx.net/ehga/technology/bev-platforms/meb/meb1.webp)](meb)
 
 [Finn ut mer om MEB](meb)
 
@@ -45,7 +45,7 @@ Hva det modulære transversale verktøysettet (MQB) er for modellutvalget med fo
 
 For sine fullstørrelsesklasse- og luksusmodeller er Audi avhengig av en fjerde plattform. Audi Q6 e-tron og Audi A6 e-tron vil bli bygget på denne plattformen.
 
-[![PPE](https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain.jpg)](ppe)
+[![PPE](https://media.evkx.net/ehga/technology/bev-platforms/ppe/drivetrain.webp)](ppe)
 
 [Finn ut mer om PPE](ppe/drivetrain.jpg)
 
@@ -53,7 +53,7 @@ For sine fullstørrelsesklasse- og luksusmodeller er Audi avhengig av en fjerde 
 
 Innen 2026 vil Volkswagen Group samle sine fremtidige teknologier på Scalable Systems Platform (SSP). Etter det modulære elektriske drivsettet (MEB) og Premium Platform Electric (PPE), representerer SSP neste generasjon av helelektrisk, heldigital og svært skalerbar mekatronikkplattform.
 
-[![SSP](https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/drivetrain.jpg)](ssp)
+[![SSP](https://media.evkx.net/ehga/technology/bev-platforms/ssp/drivetrain.webp)](ssp)
 
 [Finn ut mer om SSP](ssp)
 

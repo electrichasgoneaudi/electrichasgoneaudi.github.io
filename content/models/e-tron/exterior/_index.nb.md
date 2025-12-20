@@ -8,8 +8,8 @@ weight: 4
 Så å kjøpe en Audi e-tron vil kreve at du tar mange avgjørelser om hvordan eksteriøret skal være.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/exterior.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/exteriors.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/exterior.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/exteriors.webp"
         class="img-fluid" alt="Audi e-tron Sportback" title="Audi e-tron Sportback">
     </a>
     <figcaption><h4>Audi e-tron Sportback</h4></figcaption>

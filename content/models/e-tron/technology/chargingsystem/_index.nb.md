@@ -15,8 +15,8 @@ Den er for øyeblikket tilgjengelig i to versjoner og er ment for bruk når en f
 I USA har ladesystemet en [J1772-kontakt](https://en.wikipedia.org/wiki/SAE_J1772) for å koble til bilen, mens det i Europa har en [Type 2-kontakt](https://no) .wikipedia.org/wiki/Type_2_connector).
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/chargeport_left.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/chargeport_left.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/chargingsystem/chargeport_left.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/chargingsystem/chargeport_left.webp"
         class="img-fluid" alt="Type 2 Ladeport" title="Type 2 Ladeport">
     </a>
     <figcaption><h4>Type 2 Ladeport</h4></figcaption>
@@ -29,16 +29,16 @@ Den kommer i forskjellige versjoner basert på landet den selger. I noen land i 
 mellom et 230-voltsanlegg og et 400-voltsanlegg ved bestilling av bilen.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/chargingsystemcompact2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/chargingsystemcompact2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/chargingsystem/chargingsystemcompact2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/chargingsystem/chargingsystemcompact2s.webp"
         class="img-fluid" alt="Ladesystem kompakt" title="Ladesystem kompakt">
     </a>
     <figcaption><h4>Ladesystem kompakt</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/chargingsystemcompact.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/chargingsystemcompacts.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/chargingsystem/chargingsystemcompact.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/chargingsystem/chargingsystemcompacts.webp"
         class="img-fluid" alt="Ladesystem kompakt" title="Ladesystem kompakt">
     </a>
     <figcaption><h4>Ladesystem kompakt</h4></figcaption>
@@ -59,8 +59,8 @@ Dens Wi-Fi internettforbindelse muliggjør både kontroll via myAudi-appen og fu
 Audi anbefaler et trefaset, 400-volts uttak for optimal bruk av ladesystemets tilkobling.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/chargingsystemconnect.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/chargingsystemconnects.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/chargingsystem/chargingsystemconnect.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/chargingsystem/chargingsystemconnects.webp"
         class="img-fluid" alt="Charging system connect" title="Charging system connect">
     </a>
     <figcaption><h4>ladesystem connect</h4></figcaption>
@@ -102,8 +102,8 @@ For hjemmebruk bør du installere en fast ladeløsning. Det finnes mange leveran
 De går på 230/240 eller 400 volt avhengig av nettverket i hjemmet ditt.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/audiwallbox.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/chargingsystem/audiwallboxs.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/chargingsystem/audiwallbox.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/chargingsystem/audiwallboxs.webp"
         class="img-fluid" alt="Installer et kablet nivå 2 ladesystem" title="Installer et kablet nivå 2 ladesystem">
     </a>
     <figcaption><h4>Installer et kablet nivå 2 ladesystem</h4></figcaption>

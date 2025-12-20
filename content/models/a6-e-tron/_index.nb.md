@@ -38,7 +38,7 @@ Audi A6 e-tron har et rent design som fokuserer på dynamikk, fremskritt og eleg
 
 Audi A6 e-tron tilbyr ulike felgdesign og opptil åtte eksteriørfarger, inkludert eksklusive alternativer for S line-varianten og S-modellen. Du kan lese alt om eksteriøralternativer som lakkfarger, felgalternativer, styling og mye mer i vår [eksteriørseksjon](exterior/).
 
-<a href="exterior"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/exterior/paint/malpeloblue_4_st.jpg" class="img-fluid" alt="Audi A6 e-tron konsept" title="Audi A6 e-tron konsept"></a>
+<a href="exterior"><img src="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/malpeloblue_4_st.webp" class="img-fluid" alt="Audi A6 e-tron konsept" title="Audi A6 e-tron konsept"></a>
 
 ## Interiør
 
@@ -46,7 +46,7 @@ Interiøret i Audi A6 e-tron er konsekvent tilpasset brukernes behov. Det tredim
 
 Audi A6 e-tron er tilgjengelig med ulike setealternativer, interiørmaterialer og farger. Les alt om interiøralternativene i vår [Audi A6 e-tron interiørseksjon](interior/).
 
-<a href="interior"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/interior/seats/seatconfig_pwo_2_st.jpg" class="img-fluid" alt="Audi A6 e-tron interiør" title="Audi A6 e-tron interiør"></a>
+<a href="interior"><img src="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwo_2_st.webp" class="img-fluid" alt="Audi A6 e-tron interiør" title="Audi A6 e-tron interiør"></a>
 
 
 ## Drivlinje
@@ -64,13 +64,13 @@ Dette vil gi Audi A6 e-tron en WLTP-rekkevidde på omtrent 520-700 km, avhengig 
 
 Batteriet vil ha en 800-volts arkitektur for høyytelseslading opp til 270KW for DC-lading. 300 km lading tar så lite som 10 minutter.
 
-![Batteri](https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/battery.png "Audi A6 e-tron batteri med 12 moduler og 100kWh brutto")
+![Batteri](https://media.evkx.net/ehga/models/a6-e-tron/battery.webp "Audi A6 e-tron batteri med 12 moduler og 100kWh brutto")
 
 ### Motor og ytelse
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrain.jpgg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ppe/drivetrains.jpg" class="img-fluid" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
+    <a href="https://media.evkx.net/ehga/technology/bev-platforms/ppe/drivetrain.webpg">
+        <img src="https://media.evkx.net/ehga/technology/bev-platforms/ppe/drivetrains.webp" class="img-fluid" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
     </a>
      <figcaption><h4>Audi A6 e-tron drivlinje</h4></figcaption>
 </figur>
@@ -87,7 +87,7 @@ Konseptversjonen har 469HK og 800 nm dreiemoment. (60 vurdering)
 
 Audi vil bruke ulike motoroppsett på de ulike variantene.
 
-![Motorer](https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/motors.jpg "Motorer for Audi A6 e-tron")
+![Motorer](https://media.evkx.net/ehga/models/a6-e-tron/motors.webp "Motorer for Audi A6 e-tron")
 
 ### Dempere
 

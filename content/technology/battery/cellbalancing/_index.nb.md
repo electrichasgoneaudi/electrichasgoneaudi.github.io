@@ -17,8 +17,8 @@ For å gjøre dette sammenligner batterireguleringskontrollenheten spenningene t
 På helelektriske Audier er det ikke mulig å sjekke cellebalansen uten ekstra verktøy. ODBEleven er et av disse verktøyene som kan brukes. Skjermbildet nedenfor viser at ett cellesett har 10 % SOC og et annet har 13 % soc. Audi e-tron har 108 cellesett med 3 eller 4 celler parallelt avhengig av versjon.
 
 figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cellbalancing/obdeleven.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cellbalancing/obdeleven.jpg"
+    <a href="https://media.evkx.net/ehga/technology/battery/cellbalancing/obdeleven.webp">
+        <img src="https://media.evkx.net/ehga/technology/battery/cellbalancing/obdeleven.webp"
         class="img-fluid" alt="info fra OBDEleven" title="info fra OBDEleven">
     </a>
     <figcaption><h4>info fra OBDEleven</h4></figcaption>

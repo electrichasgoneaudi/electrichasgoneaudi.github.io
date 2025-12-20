@@ -28,7 +28,7 @@ Enten magnetisk grå eller Ascari blå metallic, de to utgavene en-modellene pre
 Se nedenfor for detaljer om de utvendige alternativene.
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-<a href="paint/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/exterior/paint/plasmablue_1_st.jpg" class="img-fluid mb- 2" class="img-fluid" alt="Audi Q6 e-tron-lys" ></a>
+<a href="paint/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paint/plasmablue_1_st.webp" class="img-fluid mb- 2" class="img-fluid" alt="Audi Q6 e-tron-lys" ></a>
 <h2>Lakkfarger</h2>
 <p>
 Audi Q6 e-tron tilbyr en stor mengde lakkfarger å velge mellom
@@ -38,7 +38,7 @@ Audi Q6 e-tron tilbyr en stor mengde lakkfarger å velge mellom
 
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="wheels/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/exterior/wheels/wheeltype_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<a href="wheels/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeltype_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
 	<h2>Felg & dekk</h2>
 	<p>
 		Audi Q6 e-tron tilbyr flere hjulalternativer
@@ -47,7 +47,7 @@ Audi Q6 e-tron tilbyr en stor mengde lakkfarger å velge mellom
 </div>
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="paintedcalibers/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/exterior/paintedcalibers/calibers_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<a href="paintedcalibers/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paintedcalibers/calibers_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
 	<h2>Lakkerte bremsekalipere</h2>
 	<p>
 		Audi Q6 e-tron kan leveres med lakkerte bremsekalibere
@@ -56,7 +56,7 @@ Audi Q6 e-tron tilbyr en stor mengde lakkfarger å velge mellom
 </div>
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="panoramicroof/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/exterior/panoramicroof/panoramic_2_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<a href="panoramicroof/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/exterior/panoramicroof/panoramic_2_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
 	<h2>Panoramic roof</h2>
 	<p>
 		Audi Q6 e-tron offers panoramic roof as an option
@@ -64,7 +64,7 @@ Audi Q6 e-tron tilbyr en stor mengde lakkfarger å velge mellom
 	<a href="panoramicroof/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron panoramic roof</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="s-line/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/exterior/s-line/comparison_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<a href="s-line/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/exterior/s-line/comparison_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
 	<h2>S-Line eksteriør</h2>
 	<p>
 		Audi Q6 e-tron kan leveres med s-line eksteriør pakke

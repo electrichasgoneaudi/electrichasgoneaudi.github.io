@@ -9,8 +9,8 @@ weight: 4
 So buying an Audi e-tron will require you to make lots of decisions about how the exterior should be.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/q8exterior.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/q8exterior_st.jpg"
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/q8exterior.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/q8exterior_st.webp"
         class="img-fluid" alt="Audi e-tron Sportback" title="Audi e-tron Sportback">
     </a>
     <figcaption><h4>Audi Q8 e-tron and Audi SQ8</h4></figcaption>

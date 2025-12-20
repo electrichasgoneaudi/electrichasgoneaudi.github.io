@@ -34,8 +34,8 @@ Se video nedenfor hvordan HD Matrix fungerer på en e-tron
 Med de digitale matrix LED-frontlyktene som topputstyr, presenterer Audi en verdensomspennende første i et produksjonskjøretøy: Delt ned i små piksler kan lyset deres lyse opp veien i høy oppløsning. Designet er basert på en teknologi forkortet DMD (digital micromirror device) og brukes også i mange videoprojektorer. I hjertet er det en liten brikke som inneholder en million mikrospeil, hvor hver kantlengde kun måler noen få hundredeler av en millimeter. Ved hjelp av elektrostatiske felt kan hvert enkelt mikrospeil vippes opptil 5000 ganger per sekund. Avhengig av innstillingen rettes LED-lyset enten via linsene ut på veien eller absorberes for å maskere områder av lysstrålen.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lights/digital_matrix_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lights/digital_matrix_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/lights/digital_matrix_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/lights/digital_matrix_1s.webp"
         class="img-fluid" alt="Digital Matrix Head lights" title="Digital Matrix Head lights">
     </a>
     <figcaption><h4>Digital Matrix Head lights</h4></figcaption>
@@ -55,8 +55,8 @@ Alternativ-IDen er **PXC** for LED-frontlykter med digital matrise.
 Du kan bestille e-tron innstegslys alternativ ID **9TF**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lights/entry.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/lights/entrys.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/lights/entry.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/lights/entrys.webp"
         class="img-fluid" alt="Innstegslys" title="Innstegslys">
     </a>
     <figcaption><h4>Innstegslys</h4></figcaption>

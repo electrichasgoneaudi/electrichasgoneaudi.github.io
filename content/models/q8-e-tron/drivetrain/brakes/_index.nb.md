@@ -13,7 +13,7 @@ Med regeneringkonseptet kan Audi Q8 e-tron gjenvinne mesteparten av kinetisk ene
 
 Når regeneringsmodus er automatisk, vil bilen bestemme når den skal regenerer når sjåføren ikke akselererer eller bruker adaptiv cruiseassistent.
 
-![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/recuperationmode.png "Recuperation mode")
+![bilde](https://media.evkx.net/ehga/guides/onepedaldriving/recuperationmode.webp "Recuperation mode")
 
 Når bilen kommer inn i en sone som påtvinger en lavere hastighet, eller når den kommer bak en langsommere bil foran, forsøker kjørestyringssystemet å redusere hastigheten ved å rulle.
 
@@ -26,7 +26,7 @@ Ved bremsing utfører motoren bak alene retardasjonen i de fleste hverdagslige k
 ### Manuell restitusjon via spakene
 
 På rattet har Audi Q8 e-tron padlespaker for å stille inn restitusjon i tre forskjellige nivåer manuelt
- ![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/paddleright.png "Høyre padle for å øke regen.")
+ ![bilde](https://media.evkx.net/ehga/guides/onepedaldriving/paddleright.webp "Høyre padle for å øke regen.")
 
 Nivåene er
 
@@ -34,7 +34,7 @@ Nivåene er
 - Nivå 1 ca 0,06G
 - Nivå 2 ca 0,15G
 
-![bilde](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/regenlevel.png "Virtuell cockpit viser hvordan regen er på 0,15G (50%) av maks.")
+![bilde](https://media.evkx.net/ehga/guides/onepedaldriving/regenlevel.webp "Virtuell cockpit viser hvordan regen er på 0,15G (50%) av maks.")
 
 Avhengig av hvilken restitusjonsmodus som er aktivert, vil regennivået bli husket eller slått av hvis gasspedalen trykkes inn.
 
@@ -71,8 +71,8 @@ Et andre stempel genererer den kjente pedalfølelsen for førerens fot ved å br
 Ved ABS-bremsing merkes ikke trykkoppbygging og reduksjon i form av irriterende harde pulsasjoner.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/brakes/brakesystem.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/brakes/brakesystems.jpg" class="img-fluid" class="img-fluid" alt="Audi Q8 e-tron bremsesystem" title="Audi Q8 e-tron bremsesystem ">
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/brakes/brakesystem.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/brakes/brakesystems.webp" class="img-fluid" class="img-fluid" alt="Audi Q8 e-tron bremsesystem" title="Audi Q8 e-tron bremsesystem ">
     </a>
     <figcaption><h4>Audi Q8 e-tron bremsesystem</h4></figcaption>
 </figur>

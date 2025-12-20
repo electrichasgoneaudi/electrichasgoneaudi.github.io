@@ -10,24 +10,24 @@ Advarslene gis når avstanden til en gjenstand i kjørebanen er mindre enn 90 cm
   Parkeringssystem pluss er ekstrautstyr på Audi Q4 e-tron. Opsjon **7X2**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/parkingsystemplus.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/parkingsystempluss.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/parkingsystemplus.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/parkingsystempluss.webp"
         class="img-fluid" alt="Parking system plus med sensorer bak og foran" title="Parking system plus med sensorer bak og foran">
     </a>
     <figcaption><h4>Parking system plus med sensorer bak og foran</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/sensorsrear.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/sensorsrears.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/sensorsrear.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/sensorsrears.webp"
         class="img-fluid" alt="Plassering av bakre sensorer på Audi Q4 e-tron" title="Plassering av bakre sensorer på Audi Q4 e-tron">
     </a>
     <figcaption><h4>Plassering av bakre sensorer på Audi Q4 e-tron</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/frontsensors.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/frontsensorss.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/frontsensors.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/frontsensorss.webp"
         class="img-fluid" alt="Plassering av fremre sensorer på Audi Q4 e-tron" title="Plassering av fremre sensorer på Audi Q4 e-tron">
     </a>
     <figcaption><h4>Plassering av fremre sensorer på Audi Q4 e-tron</h4></figcaption>

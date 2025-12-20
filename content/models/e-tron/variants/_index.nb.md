@@ -9,8 +9,8 @@ weight: 1
 ### Audi e-tron 50
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-50.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-50s.jpg" class="img-fluid" alt="Audi e-tron 50 i Siam beige og svart optikk" title="Audi e-tron 50 i Siam beige og svart optikk">
+    <a href="https://media.evkx.net/ehga/models/e-tron/variants/audi-e-tron-50.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/variants/audi-e-tron-50s.webp" class="img-fluid" alt="Audi e-tron 50 i Siam beige og svart optikk" title="Audi e-tron 50 i Siam beige og svart optikk">
     </a>
     <figcaption><h4>Audi e-tron 50 i Siam beige og svart optikk</h4></figcaption>
 </figur>
@@ -25,8 +25,8 @@ Det er ikke mulig å skille e-tron 50 fra e-tron 55 utseendemessig.
 ### Audi e-tron 50 Sportback
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-50-sportback.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-50-sportbacks.jpg" class="img-fluid" alt="Audi e-tron Sportback 50 i Florett Silver" title="Audi e-tron Sportback 50 i Florett Silver">
+    <a href="https://media.evkx.net/ehga/models/e-tron/variants/audi-e-tron-50-sportback.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/variants/audi-e-tron-50-sportbacks.webp" class="img-fluid" alt="Audi e-tron Sportback 50 i Florett Silver" title="Audi e-tron Sportback 50 i Florett Silver">
     </a>
     <figcaption><h4>Audi e-tron Sportback 50 i Florett Silver</h4></figcaption>
 </figur>
@@ -41,8 +41,8 @@ Det er ikke mulig å skille e-tron 50 Sportback fra e-tron 55 Sportback utseende
 ### Audi e-tron 55
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-55.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-55s.jpg" class="img-fluid" alt="Audi e-tron 55 S-Line i Chronos grå" title="Audi e-tron 55 S-Line i Chronos grå">
+    <a href="https://media.evkx.net/ehga/models/e-tron/variants/audi-e-tron-55.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/variants/audi-e-tron-55s.webp" class="img-fluid" alt="Audi e-tron 55 S-Line i Chronos grå" title="Audi e-tron 55 S-Line i Chronos grå">
     </a>
     <figcaption><h4>Audi e-tron 55 S-Line i Chronos-grå</h4></figcaption>
 </figur>
@@ -55,8 +55,8 @@ WLTP-rekkevidde mellom 371-441 km avhengig av utstyrsnivå.
 ### Audi e-tron 55 Sportback
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-55-sportback.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-55-sportbacks.jpg" class="img-fluid" alt="Audi e-tron 55 Sportback S-Line i plasmablå" title="Audi e-tron 55 Sportback S-Line i plasmablå">
+    <a href="https://media.evkx.net/ehga/models/e-tron/variants/audi-e-tron-55-sportback.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/variants/audi-e-tron-55-sportbacks.webp" class="img-fluid" alt="Audi e-tron 55 Sportback S-Line i plasmablå" title="Audi e-tron 55 Sportback S-Line i plasmablå">
     </a>
     <figcaption><h4>Audi e-tron 55 Sportback S-Line i plasmablått</h4></figcaption>
 </figur>
@@ -69,8 +69,8 @@ WLTP-rekkevidde mellom 373-452 km avhengig av utstyrsnivå.
 ### Audi e-tron 60S
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-s.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-ss.jpg" class="img-fluid" alt="Audi e-tron 60S" title="Audi e-tron 60S">
+    <a href="https://media.evkx.net/ehga/models/e-tron/variants/audi-e-tron-s.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/variants/audi-e-tron-ss.webp" class="img-fluid" alt="Audi e-tron 60S" title="Audi e-tron 60S">
     </a>
     <figcaption><h4>Audi e-tron 60S</h4></figcaption>
 </figur>
@@ -94,8 +94,8 @@ WLTP-rekkevidde mellom 343-374 km avhengig av utstyrsnivå.
 ### Audi e-tron 60S Sportback
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-s-sportback.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/variants/audi-e-tron-s-sportbacks.jpg" class="img-fluid" alt="Audi e-tron 60S Sportback" title="Audi e-tron 60S Sportback">
+    <a href="https://media.evkx.net/ehga/models/e-tron/variants/audi-e-tron-s-sportback.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/variants/audi-e-tron-s-sportbacks.webp" class="img-fluid" alt="Audi e-tron 60S Sportback" title="Audi e-tron 60S Sportback">
     </a>
     <figcaption><h4>Audi e-tron 60S Sportback</h4></figcaption>
 </figur>

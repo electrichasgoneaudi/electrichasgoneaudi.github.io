@@ -7,8 +7,8 @@ weight: 1
 
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/predictiveefficient.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/predictiveefficients.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/predictiveefficient.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/predictiveefficients.webp"
         class="img-fluid" alt="Predictive efficiency assist" title="Predictive efficiency assist">
     </a>
     <figcaption><h4>Predictive efficiency assist</h4></figcaption>
@@ -20,8 +20,8 @@ In order to detect traffic signs and other vehicles, the efficiency assist uses 
 The driver is shown corresponding information in the instrument cluster or in the Audi virtual cockpit and the head-up display as soon as it would be sensible to take the foot off the right-hand pedal. Symbols for speed limits, bends, roundabouts, towns, or downhill slopes that indicate to the driver to slow down are displayed on the basis of the route data and recognition of traffic signs. Depending on the model the gas pedal also pulses against the sole of the driver’s foot – a clear indication to take their foot off the gas.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/efficientsymboletron.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/efficientsymboletrons.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/efficientsymboletron.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/efficientsymboletrons.webp"
         class="img-fluid" alt="e-tron virtual cockpit with symbol showing to lift the right foot" title="e-tron virtual cockpit with symbol showing to lift the right foot">
     </a>
     <figcaption><h4>e-tron GT virtual cockpit with symbol showing to lift the right foot</h4></figcaption>

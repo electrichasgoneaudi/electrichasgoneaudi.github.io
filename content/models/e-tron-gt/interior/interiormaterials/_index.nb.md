@@ -10,32 +10,32 @@ Det finnes flere nivåer av interiørdekor og forskjellige designpakker.
 ## Standard
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_1s.jpg" 
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_1s.webp" 
         class="img-fluid" alt="Standard interiørdesign" title="Standard interiørdesign">
     </a>
     <figcaption><h4>Standard interiørdesign</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_2.jpg" 
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_2.webp" 
         class="img-fluid" alt="Standard interiørdesign" title="Standard interiørdesign">
     </a>
     <figcaption><h4>Standard interiørdesign</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_3s.jpg" 
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_3s.webp" 
         class="img-fluid" alt="Standard dashbord med syntetisk lær og karboninnlegg" title="Standard dashbord med syntetisk lær og karboninnlegg">
     </a>
     <figcaption><h4>Standard dashbord med syntetisk lær og karboninnlegg</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_standard_4s.jpg" 
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_4.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_4s.webp" 
         class="img-fluid" alt="Standard dashbord med syntetisk lær og karboninnlegg" title="Standard dashbord med syntetisk lær og karboninnlegg">
     </a>
     <figcaption><h4>Standard dashbord med syntetisk lær og karboninnlegg</h4></figcaption>
@@ -94,16 +94,16 @@ Svart søm
 Merk: kan kun bestilles sammen med sportsseter foran pluss
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEH_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEH_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_PEH_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_PEH_1s.webp"
         class="img-fluid" alt="Skinnfri interiørdesignpakke" title="Skinnfri interiørdesignpakke">
     </a>
     <figcaption><h4>Skinnfri interiørdesignpakke</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEH_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEH_2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_PEH_2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_PEH_2s.webp"
         class="img-fluid" alt="Skinnfri interiørdesignpakke" title="Skinnfri interiørdesignpakke">
     </a>
     <figcaption><h4>Skinnfri interiørdesignpakke</h4></figcaption>
@@ -121,16 +121,16 @@ Pakkene inkluderer
 - Røde eller grå sømmer
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEF_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEF_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_PEF_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_PEF_1s.webp"
         class="img-fluid" alt="RS Designpakke med røde sømmer" title="RS Designpakke med røde sømmer">
     </a>
     <figcaption><h4>RS Designpakke med røde sømmer</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEF_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_PEF_2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_PEF_2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_PEF_2s.webp"
         class="img-fluid" alt="RS Designpakke med røde sømmer" title="RS Designpakke med røde sømmer">
     </a>
     <figcaption><h4>RS Designpakke med røde sømmer</h4></figcaption>
@@ -141,8 +141,8 @@ Pakkene inkluderer
 Dette er alternativ-ID **YVA**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_YVA_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/interior/interiormaterials/interior_YVA_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_YVA_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_YVA_1s.webp"
         class="img-fluid" alt="Cognac brunt interiør. Foto av Auditography" title="Cognac brunt interiør. Foto av Auditography">
     </a>
     <figcaption><h4>Cognac brunt interiør. Foto av Auditography</h4></figcaption>

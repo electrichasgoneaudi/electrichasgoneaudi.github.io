@@ -6,8 +6,8 @@ weight: 99998
 ---
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/updatedq4/q4charging.jpg">
-<img src="https://media.electrichasgoneaudi.net/multimedia/articles/updatedq4/q4chargings.jpg" class="img-fluid" alt="Audi Q4 e-tron charging" title="Audi Q4 e-tron charging">
+    <a href="https://media.evkx.net/ehga/articles/updatedq4/q4charging.webp">
+<img src="https://media.evkx.net/ehga/articles/updatedq4/q4chargings.webp" class="img-fluid" alt="Audi Q4 e-tron charging" title="Audi Q4 e-tron charging">
     </a>
     <figcaption><h4>Audi Q4 e-tron lader</h4></figcaption>
 </figure>

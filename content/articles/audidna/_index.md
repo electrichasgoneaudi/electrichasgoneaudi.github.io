@@ -7,8 +7,8 @@ weight: 99997
 <!-- markdownlint-disable MD033 -->
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidnas.jpg" class="img-fluid" alt="2023 Audi SQ8 e-tron prototype and 2022 Audi e-tron S" title="2023 Audi SQ8 e-tron prototype and 2022 Audi e-tron S">
+    <a href="https://media.evkx.net/ehga/articles/audidna/audidna.webp">
+        <img src="https://media.evkx.net/ehga/articles/audidna/audidnas.webp" class="img-fluid" alt="2023 Audi SQ8 e-tron prototype and 2022 Audi e-tron S" title="2023 Audi SQ8 e-tron prototype and 2022 Audi e-tron S">
     </a>
     <figcaption><h4>2023 Audi SQ8 e-tron prototype and 2022 Audi e-tron S</h4></figcaption>
 </figure>
@@ -24,8 +24,8 @@ An important segment of the test drives are conducted in bitterly cold northern 
 Straight ahead stability, steering demand, and deceleration build-up are criteria for a rating methodology for ABS braking from various speeds on snow and ice. The results of tuning work flow into an assessment of driving behavior, which the developers document in the form of a spider web chart – a pattern that is applied to all Audi models on a model-specific basis. The foundation for that is the way that the vehicle and its individual characteristics are positioned and how the relevant driving maneuvers and development philosophy are defined. An Audi can be recognized by these driving characteristics: steering response, steering turn-in, traction, and steering properties. Here, the virtues of quattro are quite visible: its particularly unique driving characteristics with respect to traction in curves and straight ahead stability, as well as its steering and behavior during loads changes set the Audi all-wheel drive above the average level of the competition.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna5s.jpg" class="img-fluid" alt="2022 Audi e-tron S driving characteristics" title="2022 Audi e-tron S driving characteristics">
+    <a href="https://media.evkx.net/ehga/articles/audidna/audidna5.webp">
+        <img src="https://media.evkx.net/ehga/articles/audidna/audidna5s.webp" class="img-fluid" alt="2022 Audi e-tron S driving characteristics" title="2022 Audi e-tron S driving characteristics">
     </a>
     <figcaption><h4>2022 Audi e-tron S driving characteristics</h4></figcaption>
 </figure>
@@ -37,8 +37,8 @@ Audi understands that a controlled driving behavior is defined by a precise and 
 The result: a predictable steering angle dependent yaw behaviour combined with a slightly oversteering balance, where understeer is avoided. Audi achieves these by using technologies like torque vectoring, the dual motor rear axle in the e-tron S, or the torque splitter in the RS 3. Developer Oswin Roeder summarizes by saying that “we describe the way that an Audi needs to drive by using objective and subjective criteria. But the subjective criteria are crucial for us as ultimately that is what drivers feel.”
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna2s.jpg" class="img-fluid" alt="2022 Audi e-tron S" title="2022 Audi e-tron S">
+    <a href="https://media.evkx.net/ehga/articles/audidna/audidna2.webp">
+        <img src="https://media.evkx.net/ehga/articles/audidna/audidna2s.webp" class="img-fluid" alt="2022 Audi e-tron S" title="2022 Audi e-tron S">
     </a>
     <figcaption><h4>2022 Audi e-tron S</h4></figcaption>
 </figure>
@@ -50,8 +50,8 @@ Each of the suspension control systems involved is precisely synchronized to the
 For instance, the electric quattro in the Audi e-tron S governs the torque on demand, from zero to 100 percent between the front and rear axle. On top of that, there’s electric torque vectoring for increased agility. Each of the rear electric motors distributes the drive torque directly to the wheel without any mechanical differential. This is done proactively in slippery conditions or when cornering quickly, before slippage occurs or the car understeers or oversteers. The result is highly precise handling, which can be adjusted over a wide range via the chassis control systems – from stable to sporty. In sport mode, for instance, the control systems intervene later to enable driving with more oversteer.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna3s.jpg" class="img-fluid" alt="2023 Audi SQ8 e-tron Sportback prototype" title="2023 Audi SQ8 e-tron Sportback prototype">
+    <a href="https://media.evkx.net/ehga/articles/audidna/audidna3.webp">
+        <img src="https://media.evkx.net/ehga/articles/audidna/audidna3s.webp" class="img-fluid" alt="2023 Audi SQ8 e-tron Sportback prototype" title="2023 Audi SQ8 e-tron Sportback prototype">
     </a>
     <figcaption><h4>2023 Audi SQ8 e-tron Sportback prototype</h4></figcaption>
 </figure>
@@ -67,8 +67,8 @@ Drivers get a secure feeling of vehicle controllability if pronounced oscillatio
 The mastermind of the regulating systems and control units is the Electronic Chassis Platform (ECP) with its integrated longitudinal and lateral torque distribution. It allows driving situations to be recognized predictively in order to adjust the vehicle as needed. It takes the speed, height values, the car’s vertical, roll, and pitching movements, the friction of the road, the current driving status, and understeering and oversteering into account, as well as information from the suspension systems involved. That network allows the ECP to ensure optimal interaction between the subsystems.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/audidna/audidna4s.jpg" class="img-fluid" alt="2023 Audi SQ8 e-tron Sportback prototype" title="2023 Audi SQ8 e-tron Sportback prototype">
+    <a href="https://media.evkx.net/ehga/articles/audidna/audidna4.webp">
+        <img src="https://media.evkx.net/ehga/articles/audidna/audidna4s.webp" class="img-fluid" alt="2023 Audi SQ8 e-tron Sportback prototype" title="2023 Audi SQ8 e-tron Sportback prototype">
     </a>
     <figcaption><h4>2023 Audi SQ8 e-tron Sportback prototype</h4></figcaption>
 </figure>

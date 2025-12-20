@@ -7,8 +7,8 @@ weight: 1
 <!-- markdownlint-disable MD033 -->
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/reversingcamera/rearviewcamera.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/reversingcamera/rearviewcameras.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/reversingcamera/rearviewcamera.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/reversingcamera/rearviewcameras.webp"
         class="img-fluid" alt="Reversing camera" title="Reversing camera">
     </a>
     <figcaption><h4>Reversing camera</h4></figcaption>
@@ -19,16 +19,16 @@ It shows the calculated driving track based on the steering angle as well as aux
 The blue pictured surface in the camera image indicates where the vehicle will be positioned after the parking procedure.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/reversingcamera/camera.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/reversingcamera/cameras.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/reversingcamera/camera.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/reversingcamera/cameras.webp"
         class="img-fluid" alt="Reversing camera" title="Reversing camera">
     </a>
     <figcaption><h4>Reversing camera</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/reversingcamera/camera3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/reversingcamera/camera3s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/reversingcamera/camera3.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/reversingcamera/camera3s.webp"
         class="img-fluid" alt="The camera has cleaning function." title="The camera has cleaning function.">
     </a>
     <figcaption><h4>The camera has cleaning function.</h4></figcaption>

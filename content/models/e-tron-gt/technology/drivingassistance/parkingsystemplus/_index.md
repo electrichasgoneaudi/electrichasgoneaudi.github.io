@@ -11,24 +11,24 @@ weight: 1
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/parkingsystemplus/parkingsystemplus.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/parkingsystemplus/parkingsystempluss.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/drivingassistance/parkingsystemplus/parkingsystemplus.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/drivingassistance/parkingsystemplus/parkingsystempluss.webp"
         class="img-fluid" alt="Parking system plus with sensors front and back" title="Parking system plus with sensors front and back">
     </a>
     <figcaption><h4>Parking system plus with sensors front and back</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/parkingsystemplus/rearsensor.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/parkingsystemplus/rearsensor.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/drivingassistance/parkingsystemplus/rearsensor.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/drivingassistance/parkingsystemplus/rearsensor.webp"
         class="img-fluid" alt="Location of rear parking sensors on Audi e-tron GT" title="Location of rear parking sensors on Audi e-tron GT">
     </a>
     <figcaption><h4>Location of rear parking sensors on Audi e-tron GT</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/parkingsystemplus/frontsensors.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/parkingsystemplus/frontsensorss.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/drivingassistance/parkingsystemplus/frontsensors.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/drivingassistance/parkingsystemplus/frontsensorss.webp"
         class="img-fluid" alt="Location of front parking sensors on Audi e-tron GT" title="Location of front parking sensors on Audi e-tron GT">
     </a>
     <figcaption><h4>Location of front parking sensors on Audi e-tron GT</h4></figcaption>

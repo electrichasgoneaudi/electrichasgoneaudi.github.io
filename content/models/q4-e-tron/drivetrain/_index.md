@@ -15,7 +15,7 @@ The video below highlights key features of the MEB platform.
 Discover more about the key components of the drivetrain below.
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-    <a href="battery/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/drivetrain/battery/battery_2_st.jpg" class="img-fluid mb-2" alt="Audi Q4 e-tron battery" ></a>
+    <a href="battery/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/battery/battery_2_st.webp" class="img-fluid mb-2" alt="Audi Q4 e-tron battery" ></a>
     <h2>Battery</h2>
     <p>
         The Audi Q4 e-tron offers two battery sizes.
@@ -24,7 +24,7 @@ Discover more about the key components of the drivetrain below.
 </div>
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-    <a href="suspension/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/drivetrain/suspension/suspension_1_st.jpg" class="img-fluid mb-2" alt="Audi Q4 e-tron suspension" ></a>
+    <a href="suspension/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/suspension/suspension_1_st.webp" class="img-fluid mb-2" alt="Audi Q4 e-tron suspension" ></a>
     <h2>Suspension</h2>
     <p>
         The Audi Q4 e-tron offers two different suspension options.
@@ -33,7 +33,7 @@ Discover more about the key components of the drivetrain below.
 </div>
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-    <a href="motor/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/drivetrain/motors/rearmotor_1_st.jpg" class="img-fluid mb-2" alt="Audi Q4 e-tron motors" ></a>
+    <a href="motor/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/motors/rearmotor_1_st.webp" class="img-fluid mb-2" alt="Audi Q4 e-tron motors" ></a>
     <h2>Motors</h2>
     <p>
         The Audi Q4 e-tron offers different motor setups.
@@ -42,7 +42,7 @@ Discover more about the key components of the drivetrain below.
 </div>
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-    <a href="brakes/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/brakes/recuperation_st.jpg" class="img-fluid mb-2" alt="Audi Q4 e-tron brakes and recuperation" ></a>
+    <a href="brakes/"><img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/brakes/recuperation_st.webp" class="img-fluid mb-2" alt="Audi Q4 e-tron brakes and recuperation" ></a>
     <h2>Brakes & Recuperation</h2>
     <p>
         Learn about the Audi Q4 e-tron's brakes and recuperation system.

@@ -117,36 +117,36 @@ Det er mulig å bestille Audi A6 e-tron med Audi exclusive lakkfarger. Det finne
 Nedenfor ser du noen av fargene du kan velge mellom.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview1s.jpg" class="img-fluid" alt="Audi Exclusive lakkfarger" title="Audi Exclusive lakkfarger">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_exclusive_overview1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_exclusive_overview1s.webp" class="img-fluid" alt="Audi Exclusive lakkfarger" title="Audi Exclusive lakkfarger">
     </a>
     <figcaption><h4>Perleeffekt lakkfinisher</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview2s.jpg" class="img-fluid" alt="Audi Exclusive lakkfarger" title="Audi Exclusive lakkfarger">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_exclusive_overview2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_exclusive_overview2s.webp" class="img-fluid" alt="Audi Exclusive lakkfarger" title="Audi Exclusive lakkfarger">
     </a>
     <figcaption><h4>Krystalleffekt lakkfinisher</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview3s.jpg" class="img-fluid" alt="Audi Exclusive lakkfarger" title="Audi Exclusive lakkfarger">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_exclusive_overview3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_exclusive_overview3s.webp" class="img-fluid" alt="Audi Exclusive lakkfarger" title="Audi Exclusive lakkfarger">
     </a>
     <figcaption><h4>Uni lakkfinisher</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview4s.jpg" class="img-fluid" alt="Audi Exclusive lakkfarger" title="Audi Exclusive lakkfarger">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_exclusive_overview4.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_exclusive_overview4s.webp" class="img-fluid" alt="Audi Exclusive lakkfarger" title="Audi Exclusive lakkfarger">
     </a>
     <figcaption><h4>Metallic lakkfinisher</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview5s.jpg" class="img-fluid" alt="Audi Exclusive lakkfarger" title="Audi Exclusive lakkfarger">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_exclusive_overview5.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_exclusive_overview5s.webp" class="img-fluid" alt="Audi Exclusive lakkfarger" title="Audi Exclusive lakkfarger">
     </a>
     <figcaption><h4>Metallic lakkfinisher</h4></figcaption>
 </figure>

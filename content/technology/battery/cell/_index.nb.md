@@ -62,8 +62,8 @@ Celler for elbiler kommer i 3 forskjellige hus
 En sylindrisk celle består av arklignende anoder, separatorer og katoder som er klemt sammen, rullet sammen og pakket inn i en sylinderformet boks. Dette er formfaktoren som har vært brukt i mange år på markedet.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/cylinder4680.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/cylinder4680s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/battery/cell/cylinder4680.webp">
+        <img src="https://media.evkx.net/ehga/technology/battery/cell/cylinder4680s.webp"
         class="img-fluid" alt="Tesla 4680 sylinderbatteri" title="Tesla 4680 sylinderbatteri">
     </a>
     <figcaption><h4>Tesla 4680 sylinderbatteri</h4></figcaption>
@@ -78,8 +78,8 @@ Tesla er en av få elbilprodusenter som bruker dette.
 Li-ion-celler med prismatisk hus består av store ark med anoder, katoder og separatorer som er klemt, rullet opp og presset for å passe inn i et hardplast- eller metallhus i kubisk form. Elektrodene kan også settes sammen ved lagstabling i stedet for gelérulling.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/samsungprismatic.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/samsungprismatics.jpg"
+    <a href="https://media.evkx.net/ehga/technology/battery/cell/samsungprismatic.webp">
+        <img src="https://media.evkx.net/ehga/technology/battery/cell/samsungprismatics.webp"
         class="img-fluid" alt="Samsung prismatiske celler" title="Samsung prismatiske celler">
     </a>
     <figcaption><h4>Samsung prismatiske celler</h4></figcaption>
@@ -100,8 +100,8 @@ Svulmende posecellebatteri som et resultat av gassgenerering under lading og utl
 Elektroden og separatorlagene til en posecelle er stablet i stedet for gelérullet. Med poseceller bør designeren tildele nok plass til cellehevelsen. En hevelse på så mye som 8 % til 10 % kan oppstå etter 500 sykluser.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/lgchenx21.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/lgchenx21s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/battery/cell/lgchenx21.webp">
+        <img src="https://media.evkx.net/ehga/technology/battery/cell/lgchenx21s.webp"
         class="img-fluid" alt="LG Chem pouch cell" title="LG Chem pouch cell">
     </a>
     <figcaption><h4>LG Chem pouch cell</h4></figcaption>
@@ -129,8 +129,8 @@ Standardiseringen vil redusere cellekostnaden med 50 %. 80 % av VW-modellene vil
 Den første Audi-modellen vil bruke den i 2025 på den nye [SSP-plattformen](../../bev-platforms/ssp/).
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/unifiedcell1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/unifiedcell1s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/battery/cell/unifiedcell1.webp">
+        <img src="https://media.evkx.net/ehga/technology/battery/cell/unifiedcell1s.webp"
         class="img-fluid" alt="Olaf Scholz med den første enhetlige cellen" title="Olaf Scholz med den første enhetlige cellen">
     </a>
     <figcaption><h4>Olaf Scholz med den første enhetlige cellen</h4></figcaption>
@@ -141,8 +141,8 @@ VWs unified cells bruker de samme fysiske pakkeformatene, bare med forskjellig k
 Størrelsen på cellene er ca 32 x 12 x 3 cm
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/unifiedcell1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/unifiedcell1s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/bev-platforms/ssp/unifiedcell1.webp">
+        <img src="https://media.evkx.net/ehga/technology/bev-platforms/ssp/unifiedcell1s.webp"
         class="img-fluid" alt="VW Unified cell" title="VW Unified cell">
     </a>
     <figcaption><h4>VW Unified cell</h4></figcaption>
@@ -156,8 +156,8 @@ Cellene vil bli produsert på [nye Salzgiga](https://www.volkswagen-newsroom.com
 Grunnsteinen for fabrikken ble lagt ned 7. juli 2022.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/salzgiga1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/salzgiga1s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/battery/cell/salzgiga1.webp">
+        <img src="https://media.evkx.net/ehga/technology/battery/cell/salzgiga1s.webp"
         class="img-fluid" alt="Salzgiga-fabrikken" title="Salzgiga-fabrikken">
     </a>
     <figcaption><h4>Salzgiga-fabrikken</h4></figcaption>

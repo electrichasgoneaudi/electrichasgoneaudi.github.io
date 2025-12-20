@@ -8,13 +8,13 @@ hidden: true
 <!-- markdownlint-disable MD033 -->
 Først. Hva er forventet ladehastighet? Under optimale forhold vil ladekurven se slik ut.
 
-![Ladekurve](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.jpg "Ladekurve Audi Q4 e-tron under optimale forhold")
+![Ladekurve](https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.webp "Ladekurve Audi Q4 e-tron under optimale forhold")
 
 Det betyr at du ofte ser 125KW opp til 35% SOC.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/charginghpc.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/charginghpcs.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/charginghpc.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/charginghpcs.webp"
         class="img-fluid" alt="Audi Q4 e-tron lader" title="Audi Q4 e-tron lader">
     </a>
     <figcaption><h4>Audi Q4 e-tron lader</h4></figcaption>
@@ -22,7 +22,7 @@ Det betyr at du ofte ser 125KW opp til 35% SOC.
 
 Men folk kan se at ladehastigheten deres er mye lavere enn dette.
 
-![Langsom lading](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/slowcharging1.jpg "Eksempel 1 - langsom ladingskurve")
+![Langsom lading](https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/slowcharging1.webp "Eksempel 1 - langsom ladingskurve")
 
 ### Årsak 1. Kaldt batteri
 

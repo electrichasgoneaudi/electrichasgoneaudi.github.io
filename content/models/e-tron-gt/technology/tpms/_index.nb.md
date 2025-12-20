@@ -12,8 +12,8 @@ Audi e-tron GT er utstyrt med et indirekte TPMS-system som standard. Dette betyr
 Med direkte TPMS er det en lufttrykksensor i hvert dekk som kommuniserer med bilen. Denne måler temperaturen og trykket for hvert hjul og presenterer dette i MMI.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/tpms/tpms3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/tpms/tpms3s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/tpms/tpms3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/tpms/tpms3s.webp"
         class="img-fluid" alt="Dekktrykkmålesystem" title="Dekktrykkmålesystem">
     </a>
     <figcaption><h4>Dekktrykkmålesystem</h4></figcaption>
@@ -23,16 +23,16 @@ Med direkte TPMS er det en lufttrykksensor i hvert dekk som kommuniserer med bil
 Nedenfor ser du hvordan MMI indikerer at venstre fordekk har mye lavere trykk enn andre hjul.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/tpms/tpms3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/tpms/tpms3s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/tpms/tpms3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/tpms/tpms3s.webp"
         class="img-fluid" alt="Venstre forhjul med lavere trykk" title="Venstre forhjul med lavere trykk">
     </a>
     <figcaption><h4>Venstre forhjul med lavere trykk</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/tpms/tpms3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/tpms/tpms3s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/tpms/tpms3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/tpms/tpms3s.webp"
         class="img-fluid" alt="Tire pressure measure system" title="Tire pressure measure system">
     </a>
     <figcaption><h4>Tire pressure measure system</h4></figcaption>

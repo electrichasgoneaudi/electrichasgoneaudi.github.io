@@ -39,8 +39,8 @@ Q4 35 e-tron-batteriet består av 8 batterimoduler med 12 celler i hver modul.
 | Pakkevekt | 344 kg |
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/q4etron35battery.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/q4etron35batterys.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/battery/q4etron35battery.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/battery/q4etron35batterys.webp"
         class="img-fluid" alt="Q4 35 e-tron battery" title="Q4 35 e-tron battery">
     </a>
     <figcaption><h4>Q4 35 e-tron battery</h4></figcaption>
@@ -63,8 +63,8 @@ Q4 35 e-tron-batteriet består av 8 batterimoduler med 12 celler i hver modul.
 | Pakningstetthet wH/kg | 166 |
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/q4etron40battery.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/q4etron40batterys.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/battery/q4etron40battery.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/battery/q4etron40batterys.webp"
         class="img-fluid" alt="Q4 40 e-tron / Q4 50 e-tron batteri" title="Q4 40 e-tron / Q4 50 e-tron batteri">
     </a>
     <figcaption><h4>Q4 40 e-tron / Q4 50 e-tron batteri</h4></figcaption>
@@ -75,16 +75,16 @@ Q4 35 e-tron-batteriet består av 8 batterimoduler med 12 celler i hver modul.
 Det termiske styringssystemet tar sikte på å få batteriet opp til det ideelle temperaturområdet på rundt 30 grader Celsius raskt etter at det er startet og å holde det der til slutten av reisen. Dette sikrer at dens fulle kraft – og dermed kraften til hele drivsystemet – er tilgjengelig etter kort tid selv under ekstremt kalde forhold. Takket være de stabile termiske forholdene kan sjåføren også ringe den gjentatte ganger eller lade batteriet ved en HPC-ladeterminal med høy effekt. Det sofistikerte termiske styringssystemet gir også batteriet en lang livssyklus – Audi garanterer at det fortsatt vil ha minst 70 prosent kapasitet etter åtte års drift eller etter 160 000 kilometer.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/batterycooling.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/batterycoolings.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/battery/batterycooling.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/battery/batterycoolings.webp"
         class="img-fluid" alt="Termisk styring Audi Q4 e-tron" title="Termisk styring Audi Q4 e-tron">
     </a>
     <figcaption><h4>Termisk styring Audi Q4 e-tron</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/battercooling2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/battercooling2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/battery/battercooling2.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/battery/battercooling2s.webp"
         class="img-fluid" alt="Kjøling av høyspentbatteriet via kjøleren" title="Kjøling av høyspentbatteriet via kjøleren">
     </a>
     <figcaption><h4>Kjøling av høyspentbatteriet via kjøleren</h4></figcaption>
@@ -103,8 +103,8 @@ Nedenfor ser du Sandy Munro gå i detaljer om Q4-batteriet.
 Den første generasjonen av Audi Q4 e-tron hadde en maksimal ladehastighet på 100KW for Q4 e-tron 35 og 125KW for Audi Q4 e-tron 40/45/50 med ladekurven vist nedenfor.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/whyhpcchargingslow/chargecurve.webp"
         class="img-fluid" alt="Ladekurve Q4 e-tron optimale forhold" title="Ladekurve Q4 e-tron optimale forhold">
     </a>
     <figcaption><h4>Ladekurve Q4 e-tron optimale forhold</h4></figcaption>
@@ -115,8 +115,8 @@ I mars 2022 avslørte Audi at de oppgraderte ladehastigheten og ladekurven for A
 Alle disse bilene vil nå lade opp til 135 kW. Som et resultat reduseres den ideelle ladetiden på 5 til 80 prosent for Q4 40 e-tron og Q4 Sportback 40 e-tron til 29 minutter, for Q4 45 e-tron quattro og Q4 50 e-tron quattro og Q4 Sportback 50 e-tron quattro-modeller til 36 minutter.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/charging.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/battery/chargings.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/battery/charging.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/battery/chargings.webp"
         class="img-fluid" alt="Audi Q4 e-tron lader ved Ionity" title="Audi Q4 e-tron lader ved Ionity">
     </a>
     <figcaption><h4>Audi Q4 e-tron lader ved Ionity</h4></figcaption>

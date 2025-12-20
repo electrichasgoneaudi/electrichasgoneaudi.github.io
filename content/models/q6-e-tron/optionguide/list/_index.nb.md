@@ -9,7 +9,7 @@ sectiontabs: "/nb/models/q6-e-tron/optionguide/"
 
 ## Lanseringspakker
 
-[Se denne PDF for lanseringspakker ved salgsstart 27.03.2024](https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/files/Q6_etron_lanseringspakker.pdf)
+[Se denne PDF for lanseringspakker ved salgsstart 27.03.2024](https://media.evkx.net/ehga/models/q6-e-tron/files/Q6_etron_lanseringspakker.pdf)
 
 ## Teknologipakker
 

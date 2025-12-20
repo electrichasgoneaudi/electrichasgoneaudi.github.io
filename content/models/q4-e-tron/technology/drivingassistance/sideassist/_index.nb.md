@@ -7,8 +7,8 @@ weight: 1
 
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/sideassist/audisideassist.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/sideassist/audisideassists.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/sideassist/audisideassist.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/sideassist/audisideassists.webp"
         class="img-fluid" alt="Audi side assist" title="Audi side assist">
     </a>
     <figcaption><h4>Audi side assist</h4></figcaption>
@@ -19,8 +19,8 @@ Den bruker to bakmonterte radarsensorer med en skannerekkevidde på omtrent 70 m
 Dette er en del av sikkerhetspakken pluss tilvalgs ID **PYU**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/sideassist/mirrors.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/sideassist/mirrorss.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/sideassist/mirrors.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/sideassist/mirrorss.webp"
         class="img-fluid" alt="Audi Q4 speil med indikasjonslys for filskifteassistent" title="Audi Q4 speil med indikasjonslys for filskifteassistent">
     </a>
     <figcaption><h4>Audi Q4 speil med indikasjonslys for filskifteassistent</h4></figcaption>

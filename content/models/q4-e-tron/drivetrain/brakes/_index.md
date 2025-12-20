@@ -11,8 +11,8 @@ weight: 7
 When using regenerative brakes, the rear and front motor (on Q4 45/50) are used as generators to convert the kinetic energy to electric energy and put it back in the battery.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/brakes/recuperation.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/brakes/recuperations.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/brakes/recuperation.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/brakes/recuperations.webp"
         class="img-fluid" alt="Audi Q4 e-tron recuperation" title="Audi Q4 e-tron recuperation">
     </a>
     <figcaption><h4>Audi Q4 e-tron recuperation</h4></figcaption>
@@ -24,7 +24,7 @@ Both electric motors – or the rear motor in the rear-wheel-drive models – ru
 
 Coasting takes priority because it is the most efficient.
 
-![Q4 shifters](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/q4shifter.jpg "Gear shifter Audi Q4 with Drive/Brake mode")
+![Q4 shifters](https://media.evkx.net/ehga/guides/onepedaldriving/q4shifter.webp "Gear shifter Audi Q4 with Drive/Brake mode")
 
 If the driver prefers recuperation, however, they have various options for this. For example, in gear B (brake), the drive almost always recuperates when coasting but not when the car is at a standstill.
 
@@ -32,7 +32,7 @@ The regen braking limit is at 0.15 g of deceleration. If “dynamic” mode is s
 
 The optional shift paddles on the steering wheel enable the driver to select three different manual recuperation levels in position D – 0.06 g, 0.10 g, and 0.15 g. The car will remember the regen level in dynamic mode after using the throttle. In other drive select modes, the regen level will reset to 0 after using the throttle.
 
-![B-mode](https://media.electrichasgoneaudi.net/multimedia/guides/onepedaldriving/q4paddelss.jpg "Regen paddle on steering wheel")
+![B-mode](https://media.evkx.net/ehga/guides/onepedaldriving/q4paddelss.webp "Regen paddle on steering wheel")
 
 The driver can also choose automatic recuperation in the MMI system.
 When the car enters a zone that enforces a lower speed or when it comes up behind a slower car in front, the drive management system attempts to reduce speed by coasting.
@@ -52,8 +52,8 @@ The quattro models prioritize recuperation on the rear axle but also use the fro
 Audi uses disk brakes for the front wheels.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/brakes/frontbrake.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/brakes/frontbrakes.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/brakes/frontbrake.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/brakes/frontbrakes.webp"
         class="img-fluid" alt="Front brake" title="Front brake">
     </a>
     <figcaption><h4>Front brake</h4></figcaption>
@@ -62,8 +62,8 @@ Audi uses disk brakes for the front wheels.
 On the rear wheels it uses drum brakes.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/brakes/rearbrake.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/drivetrain/brakes/rearbrakes.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/brakes/rearbrake.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/drivetrain/brakes/rearbrakes.webp"
         class="img-fluid" alt="Rear brake" title="Rear brake">
     </a>
     <figcaption><h4>Rear brake</h4></figcaption>

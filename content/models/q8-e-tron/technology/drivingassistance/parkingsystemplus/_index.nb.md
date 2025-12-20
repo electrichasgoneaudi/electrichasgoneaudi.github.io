@@ -9,24 +9,24 @@ Advarslene gis når avstanden til en gjenstand i kjørebanen er mindre enn 90 cm
 
  Parkeringssystem pluss er standardutstyr på Audi Q8 e-tron.
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/parkingsystemplus/parkingsystemplus.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/parkingsystemplus/parkingsystempluss.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/parkingsystemplus/parkingsystemplus.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/parkingsystemplus/parkingsystempluss.webp"
         class="img-fluid" alt="Parking system plus i MMI" title="Parking system plus i MMI">
     </a>
     <figcaption><h4>Parking system plus i MMI</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/parkingsystemplus/frontsensors.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/parkingsystemplus/frontsensorss.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/parkingsystemplus/frontsensors.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/parkingsystemplus/frontsensorss.webp"
         class="img-fluid" alt="Parking system plus i MMI" title="Parking system plus i MMI">
     </a>
     <figcaption><h4>Front sensors</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/parkingsystemplus/rearsensors.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/parkingsystemplus/rearsensorss.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/parkingsystemplus/rearsensors.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/parkingsystemplus/rearsensorss.webp"
         class="img-fluid" alt="Parking system plus i MMI" title="Parking system plus i MMI">
     </a>
     <figcaption><h4>Front sensors</h4></figcaption>

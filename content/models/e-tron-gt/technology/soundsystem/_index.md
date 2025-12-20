@@ -11,8 +11,8 @@ The standard sound system is a 150 Watt 6 channel system with 10 speakers includ
 
 OptionId **9VD**
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/soundsystem/standard_door_speaker.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/soundsystem/standard_door_speakers.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/soundsystem/standard_door_speaker.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/soundsystem/standard_door_speakers.webp"
         class="img-fluid" alt="Standard door speakers" title="Standard door speakers">
     </a>
     <figcaption><h4>Standard door speakers</h4></figcaption>
@@ -23,8 +23,8 @@ OptionId **9VD**
 The Bang & Olufsen Sound System with 3D sound offers a fascinating feature for hi-fi fans – sound that includes the spatial dimension of height. It accomplishes this via several additional loudspeakers. The interior is transformed into a broad sound stage where the music unfolds exactly as it was recorded in the concert hall – without any artificial effects. Behind this technology is an algorithm that Audi developed in collaboration with the Fraunhofer Institute in Erlangen. It takes stereo or 5.1 recordings, computes the information for the third dimension and conditions it for the 3D loudspeakers.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/soundsystem/bo_door_speaker.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/soundsystem/bo_door_speakers.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/soundsystem/bo_door_speaker.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/soundsystem/bo_door_speakers.webp"
         class="img-fluid" alt="Bass speaker in front door with B&O system" title="Bass speaker in front door with B&O system">
     </a>
     <figcaption><h4>Bass speaker in front door with B&O system</h4></figcaption>
@@ -35,8 +35,8 @@ In its top version the Bang & Olufsen Sound System implements 3D sound in the re
 The illustration below show where the 16 different speakers are located.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/soundsystem/soundsystem1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/soundsystem/soundsystem1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/soundsystem/soundsystem1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/soundsystem/soundsystem1s.webp"
         class="img-fluid" alt="Bang & Olufsen sound system with 16 speakers" title="Bang & Olufsen sound system with 16 speakers">
     </a>
     <figcaption><h4>Bang & Olufsen sound system with 16 speakers</h4></figcaption>

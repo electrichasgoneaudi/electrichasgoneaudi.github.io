@@ -10,7 +10,7 @@ weight: 7
 Below you see details about the different technology areas on Audi Q6 e-tron.
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="lights/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/prototypetestdrive_4_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<a href="lights/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/prototypetestdrive_4_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
 	<h2>Lights</h2>
 	<p>
 		With second-generation digital OLED rear lights, the Audi Q6 e-tron is taking light design, range of functions, and road safety to a new level.
@@ -19,7 +19,7 @@ Below you see details about the different technology areas on Audi Q6 e-tron.
 </div>
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="uiandoperations/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/uiandoperations/screens_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<a href="uiandoperations/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/technology/uiandoperations/screens_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
 	<h2>UI And operations</h2>
 	<p>
 		The Audi Q6 e-tron model series has a fully connected and digital interior based on the new electronic architecture. Made up by the Audi MMI panoramic display and the MMI passenger display, the so-called Digital Stage is a key feature of the interior
@@ -28,7 +28,7 @@ Below you see details about the different technology areas on Audi Q6 e-tron.
 </div>
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="soundsystem/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/soundsystem/soundsystem_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<a href="soundsystem/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/technology/soundsystem/soundsystem_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
 	<h2>Soundsystem</h2>
 	<p>
 		Audi Q6 e-tron offers a standard soundsystem and a optional soundsystem from Bang & Olufsen.
@@ -37,7 +37,7 @@ Below you see details about the different technology areas on Audi Q6 e-tron.
 </div>
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="drivingassistance/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/collisionavoidanceassist/collisionavoidance_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron Driver Assistance Systems (ADAS)" ></a>
+	<a href="drivingassistance/"><img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/collisionavoidanceassist/collisionavoidance_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron Driver Assistance Systems (ADAS)" ></a>
 	<h2>Driver Assistance Systems (ADAS)</h2>
 	<p>
 		Audi Q6 e-tron have serveral Advanced Driver Assistance Systems as standard and as options
@@ -47,7 +47,7 @@ Below you see details about the different technology areas on Audi Q6 e-tron.
 
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="safety/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/safety/airbags_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<a href="safety/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/technology/safety/airbags_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
 	<h2>Safety</h2>
 	<p>
 		Audi Q6 e-tron have serveral standard and optional safety systems
@@ -56,7 +56,7 @@ Below you see details about the different technology areas on Audi Q6 e-tron.
 </div>
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="climatecontrol/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/climatecontrol/interior_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron Climate system" ></a>
+	<a href="climatecontrol/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/technology/climatecontrol/interior_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron Climate system" ></a>
 	<h2>Climate system</h2>
 	<p>
 		Audi Q6 e-tron is equipped with a 3-zone electronic climate control with heat pump as standard.

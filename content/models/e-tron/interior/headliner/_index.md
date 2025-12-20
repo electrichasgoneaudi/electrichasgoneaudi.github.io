@@ -8,8 +8,8 @@ weight: 3
 ## Standard moon silver
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/headliner/moonroof.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/headliner/moonroofs.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/interior/headliner/moonroof.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/interior/headliner/moonroofs.webp"
         class="img-fluid" alt="Standard roof in moon silver" title="Standard roof in moon silver">
     </a>
     <figcaption><h4>Standard roof in moon silver</h4></figcaption>
@@ -20,8 +20,8 @@ weight: 3
 You can order Audi e-tron with black headliner . Option **6NQ**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/headliner/blackroof.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/interior/headliner/blackroofs.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/interior/headliner/blackroof.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/interior/headliner/blackroofs.webp"
         class="img-fluid" alt="Black roof. Option 6NQ" title="Black roof. Option 6NQ">
     </a>
     <figcaption><h4>Black roof. Option 6NQ</h4></figcaption>

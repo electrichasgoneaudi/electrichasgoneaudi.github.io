@@ -10,8 +10,8 @@ With  Audi Phone Box Two smartphones can be connected to the car via Bluetooth a
 music in the car. Depending on the smartphone model, it is also possible to view e-mail and SMS in MMI via Bluetooth.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/phonebox/phonebox.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/phonebox/phoneboxs.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/phonebox/phonebox.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/phonebox/phoneboxs.webp"
         class="img-fluid" alt="Audi Phone Box holder with inductive charging" title="Audi Phone Box holder with inductive charging">
     </a>
     <figcaption><h4>Audi Phone Box holder with inductive charging</h4></figcaption>

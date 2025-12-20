@@ -10,8 +10,8 @@ weight: 2
 The double-spoke leather steering wheel is the lowest level trim wheel.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/standard.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/standard.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/interior/steeringwheels/standard.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/interior/steeringwheels/standard.webp"
         class="img-fluid" alt="Double-spoke leather steering wheel" title="Double-spoke leather steering wheel">
     </a>
     <figcaption><h4>Double-spoke leather steering wheel</h4></figcaption>
@@ -32,8 +32,8 @@ Moving the vehicle almost exclusively with the accelerator pedal and without usi
 Note: can only be ordered in conjunction with steering wheel heating (AI9)
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/2zq.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/2zqs.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/interior/steeringwheels/2zq.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/interior/steeringwheels/2zqs.webp"
         class="img-fluid" alt="Double-spoke leather steering with paddles" title="Double-spoke leather steering with paddles">
     </a>
     <figcaption><h4>Double-spoke leather steering with paddles</h4></figcaption>
@@ -54,8 +54,8 @@ can thus be experienced. In the minimum level, recuperation is completely deacti
 "coasting" operating status
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/2fs.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/steeringwheels/2fss.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/interior/steeringwheels/2fs.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/interior/steeringwheels/2fss.webp"
         class="img-fluid" alt="The double-spoke leather sports steering wheel" title="The double-spoke leather sports steering wheel">
     </a>
     <figcaption><h4>The double-spoke leather sports steering wheel</h4></figcaption>

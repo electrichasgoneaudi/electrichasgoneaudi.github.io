@@ -40,7 +40,7 @@ making them almost invisible. The dynamic roofline and quattro blisters emphasiz
 
 The Audi A6 e-tron offers various wheel designs and up to eight exterior colors, including exclusive options for the S line variant and S model. You can read everything about exterior options like paint colors, wheel options, styling, and much more in our [exterior section](exterior/).
 
-<a href="exterior"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/exterior/paint/malpeloblue_4_st.jpg" class="img-fluid" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept"></a>
+<a href="exterior"><img src="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/malpeloblue_4_st.webp" class="img-fluid" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept"></a>
 
 ## Interior
 
@@ -51,7 +51,7 @@ ergonomics.
 
 Audi A6 e-tron is available with different seat options, interior materials, colors. Read all about the interior options in our [Audi A6 e-tron interior section](interior/).
 
-<a href="interior"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/interior/seats/seatconfig_pwo_2_st.jpg" class="img-fluid" alt="Audi A6 e-tron interior" title="Audi A6 e-tron interior"></a>
+<a href="interior"><img src="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwo_2_st.webp" class="img-fluid" alt="Audi A6 e-tron interior" title="Audi A6 e-tron interior"></a>
 
 ## Drivetrain
 
@@ -60,7 +60,7 @@ The Audi A6 e-tron is a high-performance electric vehicle with a 100 kWh lithium
 [Read all about the drivetrain including the battery, suspension and motors.](drivetrain)
 
 
-<a href="drivetrain"><img src="https://media.electrichasgoneaudi.net/multimedia/models/a6-e-tron/drivetrain/drivetrain_1_st.jpg" class="img-fluid" alt="Audi A6 e-tron interior" title="Audi A6 e-tron interior"></a>
+<a href="drivetrain"><img src="https://media.evkx.net/ehga/models/a6-e-tron/drivetrain/drivetrain_1_st.webp" class="img-fluid" alt="Audi A6 e-tron interior" title="Audi A6 e-tron interior"></a>
 
 ## Technology
 

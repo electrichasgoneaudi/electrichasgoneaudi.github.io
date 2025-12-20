@@ -6,8 +6,8 @@ weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tangored_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/exterior/paint/paint_tangored_2s.jpg" class="img-fluid" alt="Audi e-tron GT in Tango Red" title="Audi e-tron GT in Tango Red">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/paint/paint_tangored_2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/paint/paint_tangored_2s.webp" class="img-fluid" alt="Audi e-tron GT in Tango Red" title="Audi e-tron GT in Tango Red">
     </a>
     <figcaption><h4>Audi e-tron GT</h4></figcaption>
 </figure>
@@ -17,8 +17,8 @@ Audi e-tron GT er utstyrt med to permanent eksiterte synkronmaskiner (PSM) som g
 (472 lb-ft) dreiemoment. Mens Audi RS e-tron GT yter en systemytelse på 645 metriske hk (475 kW) og 830 Nm (612,2 lb-ft) dreiemoment.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/j1-performance/drivetrain2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/j1-performance/drivetrain2s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/bev-platforms/j1-performance/drivetrain2.webp">
+        <img src="https://media.evkx.net/ehga/technology/bev-platforms/j1-performance/drivetrain2s.webp"
         class="img-fluid" alt="J1-performance drivlinje for Audi e-tron GT" title="J1-performance drivlinje for Audi e-tron GT">
     </a>
     <figcaption><h4>J1-performance drivlinje for Audi e-tron GT</h4></figcaption>
@@ -32,8 +32,8 @@ Om nødvendig kan Audi e-tron GT lades på kort tid. Høyspentsystemet i  J1 Per
 I samsvar med WLTP-standarden oppnår Audi e-tron GT en rekkevidde på 472 kilometer (293,5 mi) på én batterilading.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/battery/battery2s.jpg" 
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/battery/battery2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/battery/battery2s.webp" 
         class="img-fluid" alt="Audi e-tron GT batteri" title="Audi e-tron GT batteri">
     </a>
     <figcaption><h4>Audi e-tron GT batteri</h4></figcaption>
@@ -42,8 +42,8 @@ I samsvar med WLTP-standarden oppnår Audi e-tron GT en rekkevidde på 472 kilom
 Batteriet, som har et energiinnhold på over 90 kWh, er plassert i undervognen, mellom akslingene. Batteripakken er utformet med utsparinger i bakre fotbrønn. Dette gir et høyt nivå av sittekomfort for alle passasjerer. Denne spesielle utformingen gjør at drivbatteriet kan integreres i kjøretøygulvet til tross for den lave karosseriposisjonen som er typisk for sportsbiler, og skaper dermed et svært lavt kjøretøys tyngdepunkt. Samtidig skaper dette komfortabel sitteergonomi.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/j1-performance/taycan.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/j1-performance/taycans.jpg"
+    <a href="https://media.evkx.net/ehga/technology/bev-platforms/j1-performance/taycan.webp">
+        <img src="https://media.evkx.net/ehga/technology/bev-platforms/j1-performance/taycans.webp"
         class="img-fluid" alt="Porsche Taycan is built on J1-performance platform and share parts with Audi e-tron GT" title="Porsche Taycan is built on J1-performance platform and share parts with Audi e-tron GT">
     </a>
     <figcaption><h4>Porsche Taycan is built on J1-performance platform and share parts with Audi e-tron GT</h4></figcaption>

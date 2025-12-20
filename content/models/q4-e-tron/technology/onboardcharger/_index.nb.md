@@ -13,8 +13,8 @@ Det er to versjoner av den innebygde laderen. Laderen i Q4 35 støtter 7,2KW AC-
 I USA har ladeporten en [J1772-kontakt](https://en.wikipedia.org/wiki/SAE_J1772) for å koble til bilen, mens den i Europa har en [Type 2-kontakt](https://no) .wikipedia.org/wiki/Type_2_connector).
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/onboardcharger/chargeport_right.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/onboardcharger/chargeport_rights.jpg" class="img-fluid" alt="Type 2 Chargeport" title="Type 2 Chargeport">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/onboardcharger/chargeport_right.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/onboardcharger/chargeport_rights.webp" class="img-fluid" alt="Type 2 Chargeport" title="Type 2 Chargeport">
     </a>
     <figcaption><h4>Type 2-ladeport</h4></figcaption>
 </figur>
@@ -26,8 +26,8 @@ For å lade bilen fra AC trenger du en Wallbox å koble til eller [ladesystemet 
 I illustrasjonen under ser du plasseringen av ladeenhetene.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/onboardcharger/electricdrivetrain.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/onboardcharger/electricdrivetrains.jpg" class="img-fluid" alt="Elektrisk drivlinje med ladeport og AC-lader" title="Elektrisk drivlinje med ladeport og AC-lader">
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/onboardcharger/electricdrivetrain.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/onboardcharger/electricdrivetrains.webp" class="img-fluid" alt="Elektrisk drivlinje med ladeport og AC-lader" title="Elektrisk drivlinje med ladeport og AC-lader">
     </a>
     <figcaption><h4>Elektrisk drivlinje med ladeport og AC-lader</h4></figcaption>
 </figur>

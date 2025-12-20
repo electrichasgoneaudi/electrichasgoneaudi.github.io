@@ -9,8 +9,8 @@ weight: 3
 ## Audi e-tron GT
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/dimensions/etrongt.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/dimensions/etrongts.jpg" class="img-fluid" alt="dimensjoner e-tron GT" title="dimensjoner e-tron GT">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/dimensions/etrongt.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/dimensions/etrongts.webp" class="img-fluid" alt="dimensjoner e-tron GT" title="dimensjoner e-tron GT">
     </a>
     <figcaption><h4>dimensjoner e-tron GT</h4></figcaption>
 </figure>
@@ -18,8 +18,8 @@ weight: 3
 ## Audi RS e-tron GT
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/dimensions/rsetrongt.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/dimensions/rsetrongts.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/dimensions/rsetrongt.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/dimensions/rsetrongts.webp"
         class="img-fluid" alt="dimensjoner RS e-tron GT" title="dimensjoner RS e-tron GT">
     </a>
     <figcaption><h4>dimensjoner RS e-tron GT</h4></figcaption>

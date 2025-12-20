@@ -8,8 +8,8 @@ sectiontabs: "/models/q6-e-tron/technology/"
 
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/presensefront/presencefront.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/presensefront/presencefronts.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/presensefront/presencefront.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/presensefront/presencefronts.webp"
         class="img-fluid" alt="Audi pre sense front" title="Audi pre sense front">
     </a>
     <figcaption><h4>Audi pre sense front</h4></figcaption>

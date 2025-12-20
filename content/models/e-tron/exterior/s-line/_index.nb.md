@@ -16,22 +16,22 @@ strekker seg under frontlysene, og skaper dermed et dynamisk utseende selv på a
 opplyste dørterskellister i aluminium har en #S-logo.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/blackoptics_florett.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/blackoptics_floretts.jpg" class="img-fluid" alt="Svart optikk - Florett Silver standard foran" title="Svart optikk - Florett Silver standard foran">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/s-line/blackoptics_florett.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/s-line/blackoptics_floretts.webp" class="img-fluid" alt="Svart optikk - Florett Silver standard foran" title="Svart optikk - Florett Silver standard foran">
     </a>
     <figcaption><h4>Svart optikk - Florett Silver standard foran</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/blackoptics_florett_sline.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/blackoptics_florett_slines.jpg" class="img-fluid" alt="Svart optikk - Florett Silver S-Line foran" title="Svart optikk - Florett Silver S-Line foran">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/s-line/blackoptics_florett_sline.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/s-line/blackoptics_florett_slines.webp" class="img-fluid" alt="Svart optikk - Florett Silver S-Line foran" title="Svart optikk - Florett Silver S-Line foran">
     </a>
     <figcaption><h4>Svart optikk - Florett Silver S-Line foran</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/slinebadge.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/slinebadges.jpg" class="img-fluid" alt="S-Line-merke" title="S-Line-merke">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/s-line/slinebadge.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/s-line/slinebadges.webp" class="img-fluid" alt="S-Line-merke" title="S-Line-merke">
     </a>
     <figcaption><h4>S-Line-merke</h4></figcaption>
 </figure>
@@ -39,16 +39,16 @@ opplyste dørterskellister i aluminium har en #S-logo.
 Den bakre diffusoren har et mer sporty og dynamisk utseende.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/rear-standard.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/rear-standards.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/s-line/rear-standard.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/s-line/rear-standards.webp"
         class="img-fluid" alt="Standard rear" title="Standard rear">
     </a>
     <figcaption><h4>Standard bak</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/rear-sline.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/rear-slines.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/s-line/rear-sline.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/s-line/rear-slines.webp"
         class="img-fluid" alt="S-Line bak med mer sporty diffusor" title="S-Line bak med mer sporty diffusor">
     </a>
     <figcaption><h4>S-Line bak med mer sporty diffusor</h4></figcaption>
@@ -63,16 +63,16 @@ Den bakre diffusoren har et mer sporty og dynamisk utseende.
  Dørinnsatsene og husene til sidespeilene er laget av aluminium, og front- og bakenden er dekorert med S-merker. Audi kan male tilbehør som frontleppe, hjulbuer og terskellister i kontrastfarge på forespørsel.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/swheelarcher.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/swheelarchers.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/s-line/swheelarcher.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/s-line/swheelarchers.webp"
         class="img-fluid" alt="S hjulbue" title="S hjulbue">
     </a>
     <figcaption><h4>S hjulbue</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/srear.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/s-line/srears.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/s-line/srear.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/s-line/srears.webp"
         class="img-fluid" alt="S bak med s-line diffusor og S-merkee" title="S bak med s-line diffusor og S-merke">
     </a>
     <figcaption><h4>S bak med s-line diffusor og S-merke</h4></figcaption>

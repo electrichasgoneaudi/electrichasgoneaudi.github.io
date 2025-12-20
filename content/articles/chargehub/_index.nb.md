@@ -6,8 +6,8 @@ weight: 99999
 ---
 <!-- markdownlint-disable MD033 -->
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_1s.jpg" class="img-fluid" alt="Audi charging hub" title="Audi charging hub">
+    <a href="https://media.evkx.net/ehga/articles/chargehub/chargehub_1.webp">
+        <img src="https://media.evkx.net/ehga/articles/chargehub/chargehub_1s.webp" class="img-fluid" alt="Audi charging hub" title="Audi charging hub">
     </a>
     <figcaption><h4>Audi-charging hub</h4></figcaption>
 </figur>
@@ -17,8 +17,8 @@ weight: 99999
 Med pilotplasseringen tester Audi for første gang sitt nye ladekonsept. "Vi ønsker å bruke den til å teste fleksibel og premium-orientert hurtigladeinfrastruktur i byrom," sier Ralph Hollmig, prosjektleder for Audi charging hub. "Vi skal dit kundene våre ikke nødvendigvis våkner om morgenen med en fulladet elbil og tenker samtidig på å øke ladebehovet i fremtiden."
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_2s.jpg" class="img-fluid" alt="Audi-charging hub" title="Audi-charging hub">
+    <a href="https://media.evkx.net/ehga/articles/chargehub/chargehub_2.webp">
+        <img src="https://media.evkx.net/ehga/articles/chargehub/chargehub_2s.webp" class="img-fluid" alt="Audi-charging hub" title="Audi-charging hub">
     </a>
     <figcaption><h4>Audi-charging hub</h4></figcaption>
 </figur>
@@ -28,8 +28,8 @@ Med pilotplasseringen tester Audi for første gang sitt nye ladekonsept. "Vi øn
 Kuber er grunnlaget for Audis charging hub. De fleksible beholderkubene kan monteres og demonteres igjen i eksisterende områder i løpet av få dager. Kubene gir to hurtigladestasjoner for hver enhet og kan kombineres i ulike konstellasjoner. Brukte og bearbeidede litiumion-batterier fungerer som energilagringssystemer – det som er kjent som andre liv-batterier hentet fra demonterte utviklingskjøretøyer. Det reduserer kostnader og ressurser. Dette gjør kompleks infrastruktur med høyspentledninger og kostbare transformatorer like unødvendig som tidkrevende planleggingsprosedyrer. Audi charging hubs batterilagringsløsning vil bringe hurtigladeinfrastruktur der det elektriske nettet ikke er nok.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_3s.jpg" class="img-fluid" alt="Audi-charging hub" title="Audi-charging hub">
+    <a href="https://media.evkx.net/ehga/articles/chargehub/chargehub_3.webp">
+        <img src="https://media.evkx.net/ehga/articles/chargehub/chargehub_3s.webp" class="img-fluid" alt="Audi-charging hub" title="Audi-charging hub">
     </a>
     <figcaption><h4>Audi-charging hub</h4></figcaption>
 </figur>
@@ -48,8 +48,8 @@ Det gjør Audi charging hub til et reelt alternativ til å lade hjemme for Tyske
 Audi-kunder kan bruke den nye reservasjonsfunksjonen i myAudi-appen: De kan enkelt bestille en av de seks ladeområdene.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_6s.jpg" class="img-fluid" alt="Audi charging hub" title="Audi charging hub">
+    <a href="https://media.evkx.net/ehga/articles/chargehub/chargehub_6.webp">
+        <img src="https://media.evkx.net/ehga/articles/chargehub/chargehub_6s.webp" class="img-fluid" alt="Audi charging hub" title="Audi charging hub">
     </a>
     <figcaption><h4>Audi ladesenterreservasjon</h4></figcaption>
 </figur>
@@ -62,8 +62,8 @@ Selve ladingen er rask og ukomplisert. Med Plug and Charge (PnC) er det til og m
 Testene som starter i Nürnberg fokuserer på den nye reservasjonsfunksjonen, kundenes forventninger om en premium ladeopplevelse og tekniske aspekter som kravene til moderne batterilagringssystemer. Audi ønsker også å finne ut hvilke tider på døgnet anlegget er spesielt hyppig brukt. Målet er å etablere Audi charging hub med passende merverdi for kundene. For det formål tilbyr Audi ytterligere attraktive tjenester på stedet utover lading av elbiler: en byttestasjon for elektriske sykkelbatterier, en utlånstjeneste for elektriske scootere, informasjon om ulike Audi-produkter, samt prøvekjøringer i [Audi Q4 e- tron](../../models/q4-e-tron/) og [Audi RS e-tron GT](../../models/e-tron-gt), overvåket av Audi-eksperter. I tillegg tilbyr Audi en just-in-time leveringstjeneste for mat, en eksklusiv automat og mobil bilpleie.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_4s.jpg" class="img-fluid" alt="Audi-charging hub" title="Audi-charging hub">
+    <a href="https://media.evkx.net/ehga/articles/chargehub/chargehub_4.webp">
+        <img src="https://media.evkx.net/ehga/articles/chargehub/chargehub_4s.webp" class="img-fluid" alt="Audi-charging hub" title="Audi-charging hub">
     </a>
     <figcaption><h4>Audi ladesentersalong</h4></figcaption>
 </figur>
@@ -74,8 +74,8 @@ Servicepersonalet tar vare på kundene I den drøyt 200 kvadratmeter store barri
 Under pilotprosjektet i Nürnberg vil en ansatt ivareta besøkendes ønsker mellom 10:00 og 19:00. Seks ladepunkter og en salong er tilgjengelig hele døgnet. "Kundene våre vil dele flere fordeler," sier prosjektleder Hollmig. "Med et eksklusivt reservasjonsalternativ, et salongområde, kort tomgangstid takket være høy ladekapasitet, og en ny svingarm for å forenkle håndteringen av ladekabelen."
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_5s.jpg" class="img-fluid" alt="Audi-charging hub" title="Audi-charging hub">
+    <a href="https://media.evkx.net/ehga/articles/chargehub/chargehub_5.webp">
+        <img src="https://media.evkx.net/ehga/articles/chargehub/chargehub_5s.webp" class="img-fluid" alt="Audi-charging hub" title="Audi-charging hub">
     </a>
     <figcaption><h4>Audi ladesentersalong</h4></figcaption>
 </figur>

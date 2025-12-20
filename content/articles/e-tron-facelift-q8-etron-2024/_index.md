@@ -84,7 +84,7 @@ The below tables compare the current Audi e-tron variants with the different Q8 
 | [Audi SQ8 e-tron Sportback](../../models/q8-e-tron/variants/#audi-sq8-sportback-e-tron)       |  513km/319mi      | +35%  |
 
 
-This diagram shows the same including other all-electric SUV models from Audi. (click on diagram for large) (click [here](https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/range_miles.png) for same diagram in miles)
+This diagram shows the same including other all-electric SUV models from Audi. (click on diagram for large) (click [here](https://media.evkx.net/ehga/articles/e-tron-facelift-q8-etron-2024/range_miles.webp) for same diagram in miles)
 
 
 {{< sitefiguresized thumb="articles/e-tron-facelift-q8-etron-2024/range_km_st.png" width="2116" height="1316" title="WLTP range all electric Audi SUVe" >}}
@@ -104,7 +104,7 @@ This diagram shows the same including other all-electric SUV models from Audi. (
 |[Audi e-tron S Sportback](../../models/e-tron/variants/#audi-e-tron-60s)                       | 22.69kWh/100km |          |
 |[Audi SQ8 e-tron Sportback](../../models/q8-e-tron/variants/#audi-sq8-sportback-e-tron)        | 20.66kWh/100km | -9%      |
 
-The diagram below compares consumption for all all-electric models from Audi. Click on image for large, or click for same diagram for [mi/kWh](https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/consumption_miles.png).
+The diagram below compares consumption for all all-electric models from Audi. Click on image for large, or click for same diagram for [mi/kWh](https://media.evkx.net/ehga/articles/e-tron-facelift-q8-etron-2024/consumption_miles.webp).
 
 
 {{< sitefiguresized thumb="articles/e-tron-facelift-q8-etron-2024/consumption_km_st.png" width="2116" height="1316" title="WLTP consumption all electric Audi SUV" >}}
@@ -195,8 +195,8 @@ For the new Audi Q8 e-tron,  Audi modified the asynchronous motor on the rear ax
 Instead of 12 coils generating the electromagnetic field, there are now 14. As a result, the motor generates a stronger magnetic field with similar electricity input, allowing for more torque.  As a result, the electric motor requires less energy to generate torque if this isn't needed. This change lowers consumption and increases range. 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/new_motor_windings.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/new_motor_windings_st.jpg" class="img-fluid" alt="Updated rear motor Audi Q8 e-tron" class="img-fluid" title="Updated rear motor Audi Q8 e-tron">
+    <a href="https://media.evkx.net/ehga/articles/e-tron-facelift-q8-etron-2024/new_motor_windings.webp">
+        <img src="https://media.evkx.net/ehga/articles/e-tron-facelift-q8-etron-2024/new_motor_windings_st.webp" class="img-fluid" alt="Updated rear motor Audi Q8 e-tron" class="img-fluid" title="Updated rear motor Audi Q8 e-tron">
     </a>
     <figcaption><h4>Updated rear motor Audi Q8 e-tron</h4></figcaption>
 </figure>
@@ -231,8 +231,8 @@ Audi only mounted spoilers on the rear axle on the SQ8 Sportback e-tron.
 The grille has a self-sealing system and electric shutters that automatically close the radiator. This system further optimizes the airflow at the front of the car and prevents undesired energy losses. The shutters only stay open when needed.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/grille_holes.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/grille_holes_st.jpeg" class="img-fluid" alt="Audi Q8 e-tron grille with shutters" class="img-fluid" title="Audi Q8 e-tron grille with shutters">
+    <a href="https://media.evkx.net/ehga/articles/e-tron-facelift-q8-etron-2024/grille_holes.webp">
+        <img src="https://media.evkx.net/ehga/articles/e-tron-facelift-q8-etron-2024/grille_holes_st.webp" class="img-fluid" alt="Audi Q8 e-tron grille with shutters" class="img-fluid" title="Audi Q8 e-tron grille with shutters">
     </a>
     <figcaption><h4>Audi Q8 e-tron grille with shutters</h4></figcaption>
 </figure>
@@ -259,8 +259,8 @@ The Q8 e-tron optionally comes with [digital Matrix LED headlights](../../models
 - The orientation light on country roads
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/digitalmatix.gif">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/digitalmatix_st.gif" class="img-fluid" class="img-fluid" alt="Digital Matrix" title="Digital Matrix">
+    <a href="https://media.evkx.net/ehga/articles/e-tron-facelift-q8-etron-2024/digitalmatix.gif">
+        <img src="https://media.evkx.net/ehga/articles/e-tron-facelift-q8-etron-2024/digitalmatix_st.gif" class="img-fluid" class="img-fluid" alt="Digital Matrix" title="Digital Matrix">
     </a>
     <figcaption><h4>Digital Matrix</h4></figcaption>
 </figure>
@@ -286,8 +286,8 @@ Like all luxury-class Audi models, the Q8 e-tron uses the MMI touch response ope
 Its two large high-resolution displays – the top with a 10.1-inch diagonal and the bottom with an 8.6-inch diagonal – replace nearly all conventional switches and knobs.  Beyond operation with the two-touch displays, you can activate many features through natural voice control.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/screens_mmi.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/e-tron-facelift-q8-etron-2024/screens_mmi_st.jpg" class="img-fluid" class="img-fluid" alt="Audi Q8 e-tron MMI and Virtual cockpit" title="Audi Q8 e-tron MMI and Virtual cockpit">
+    <a href="https://media.evkx.net/ehga/articles/e-tron-facelift-q8-etron-2024/screens_mmi.webp">
+        <img src="https://media.evkx.net/ehga/articles/e-tron-facelift-q8-etron-2024/screens_mmi_st.webp" class="img-fluid" class="img-fluid" alt="Audi Q8 e-tron MMI and Virtual cockpit" title="Audi Q8 e-tron MMI and Virtual cockpit">
     </a>
     <figcaption><h4>Audi Q8 e-tron MMI and Virtual cockpit</h4></figcaption>
 </figure>

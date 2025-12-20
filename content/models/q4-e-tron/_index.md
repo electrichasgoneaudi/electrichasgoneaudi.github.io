@@ -70,7 +70,7 @@ The Singleframe also differs depending on the line – on the S line, chrome ele
 
 The [black optics package](exterior/optics/#black-optics), with optional [black caps](exterior/mirrors/#mirror-style) for the [exterior mirrors](exterior/mirrors/), creates an even sportier appearance. The Four Rings on the Singleframe and the type designation are also available in black in the [black optics plus](exterior/optics/#black-optics-plus) package. A roof rail comes as standard on the Q4 e-tron.
 
-![Wheels](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/wheels/wheel_C1P_1s.jpg)
+![Wheels](https://media.evkx.net/ehga/models/q4-e-tron/exterior/wheels/wheel_C1P_1s.webp)
 
 The Audi Q4 e-tron and Q4 Sportback e-tron are well-grounded – their wheels comprise [eleven versions ranging in size from 19 to 21 inches](exterior/wheels/). Apart from the basic version, these are aluminum wheels, and each size includes especially aerodynamic designs. In the 20-inch category, two wheels come from Audi Sport GmbH, which provides all four in the 21-inch class. One of them comes in a matte bronze finish, another in platin gray. The third is an Aero wheel, which is largely covered with black plastic inlays.
 
@@ -82,13 +82,13 @@ Learn more about the exterior details and see high-resolution pictures of the ex
 
 The new era of technology on which Audi has embarked can also be experienced in the interior of the Q4 e-tron and the Q4 Sportback e-tron. The instrument panel introduces itself with progressive elegance and underlines the airy feeling of spaciousness. The cockpit features a distinctly three-dimensional design, and its geometric volumes are interrelated in an electrifying way.
 
-![Interior](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/interior2s.jpg)
+![Interior](https://media.evkx.net/ehga/models/q4-e-tron/interior/interior2s.webp)
 
 In both the electric SUVs, the operating and display units take on the function of design elements more than ever. The digital instrument for the driver is embedded like a diamond between two volumes – a short one on the left-hand side, which incorporates an air vent, and a long one on the right-hand side. It extends all the way to the front passenger door and integrates further air vents. The central MMI touch display, which appears clean and light, occupies the space in front of it. It is tilted toward the driver and is positioned within ergonomically easy reach.
 
 A lean inlay, known as the tech layer, lies above the display and connects it with the instrument panel. The choice of surface materials for this panel includes open-pore lime wood, aluminum in two different designs, and plastic. The inlay in the S line interior will also be available as an alternative shortly after market launch with an innovative, anthracite-colored technical fabric that is made partly of recycled materials.
 
-![Interior](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/interior3s.jpg)
+![Interior](https://media.evkx.net/ehga/models/q4-e-tron/interior/interior3s.webp)
 
 Depending on the equipment package, the further contours of the instrument panel, which are known as accent surfaces, are designed in various silver and gray tones to match the inlay. The most striking of these runs across horizontally, dividing the instrument panel into two zones, and is decorated with an e-tron badge. Below this contour, also facing the driver, lies the climate control operating unit. Below it, a large operating panel with a black-panel look extends into the space. It features the compact shifter for selecting the gears, a capacitive rotary volume control and the start/stop button. The hazard warning light switch as well as the Audi drive select buttons and the ESC stabilization control are designed as seamless touch surfaces in a black panel look and backlit with white backlighting.
 
@@ -98,14 +98,14 @@ Slight protrusions separate them from each other, making them easier to use, whi
 
 The [steering wheels](interior/steeringwheels/) are available in different versions. The top-of-the-range version features paddles affixed to the steering wheel for coasting recuperation and a two-part trim on the spokes. The heated rim is flattened at the top and bottom here – a solution that prominently underlines the futuristic character of the interior. Be it look, function, or feel – the new steering wheel clearly expresses the progressive character of the Q4 e-tron.
 
-![Standard Seats](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/seats/seats_pwa_1s.jpg)
+![Standard Seats](https://media.evkx.net/ehga/models/q4-e-tron/interior/seats/seats_pwa_1s.webp)
 The seats are available in a basic version and a sport version with visually integrated head restraints, and optionally with a rhombus pattern.
 
 [Seat heating](interior/seats/#seat-functionality), [electric adjustment](interior/seats/#seat-functionality), and [electric lumbar support are available](interior/seats/#seat-functionality) as an option.
 
 When it comes to the seat colors, customers can choose between black, steel gray, Santos brown, and pergament beige. The total of nine equipment packages also includes a stitching package. Five packages are available for the basic version, while the other four are available for the S line interior. They have different door sill trims, paint colors for the accent surfaces, materials for the armrests, and headlining. All optional equipment packages for the interior include white LED lighting, or, alternatively, the [multi-color ambient lighting package plus](interior/lights/#ambient-light-plus-package). Some features are reserved exclusively for the S line interior: illuminated aluminum door sill trims with S logo, pedals with stainless steel supports, a black headlining, S embossing in the seat backrests, a steering wheel rim made of perforated leather with contrasting stitching, and S badges.
 
-![S-line](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/interior/seats/seats_pwn_2s.jpg)
+![S-line](https://media.evkx.net/ehga/models/q4-e-tron/interior/seats/seats_pwn_2s.webp)
 
 The [S line interior](interior/sline/) also has a great deal to offer in terms of upholstery materials. Customers who prefer traditional materials can choose between a leather/artificial leather mixture and the premium fine Nappa leather. The combination of artificial leather and the microfiber material Dinamica offers an innovative variant. The Puls upholstery, also in combination with artificial leather, is another option for the S line interior. As with Dinamica, secondary raw materials, for example made from old PET bottles, are also used here.
 
@@ -162,13 +162,13 @@ The headlights of the Q4 e-tron and the Q4 Sportback e-tron are fully equipped w
 
 The next stage of evolution in daytime running lights is totally new among the competition. Using the MMI touch operating system, the driver can switch between four digital light signatures at any time. Each of them generates its own theme and lends the daytime running lights an individual expression. The variant selected is activated the next time the vehicle is started.
 
-![Matrix](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/signature1s.jpg)
+![Matrix](https://media.evkx.net/ehga/models/q4-e-tron/technology/lights/signature1s.webp)
 
 The Matrix LED headlights are divided into two sections in terms of optics and technology. The completely black lower half conceals the units for the low beam and the Matrix LED high beam. The 16 individual LEDs that comprise it are regulated so that they always illuminate the road as brightly as possible without blinding other road users.
 
 The upper half forms a bright eye. A flat segment runs across the headlights here, serving a dual function in generating a fixed daytime running light and the dynamic turn signals. Above and below it are a total of nine flat daytime running light segments, which, together with the large vertical anchor segment at the outer edge, can be configured into four digital light signatures. Two slat trims made of brushed stainless steel divide the digital daytime running light segments into 49 small sections. Seen from the side, they appear to be well shielded, lying one on top of the other like the slats of vertical blinds; the full power of the individual light segments is easily visible from the front – creating a fascinating effect that plays with light and shadows.
 
-![Taillights](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/lights/rearwithmatrix2s.jpg)
+![Taillights](https://media.evkx.net/ehga/models/q4-e-tron/technology/lights/rearwithmatrix2s.webp)
 
 In combination with the Matrix LED headlights, there is also a particularly elegant light solution at the rear of the compact electric SUV. A light strip runs across its full width; at its center the taillight beams out in a fine line that splits into separate segments at its ends. Each individual
 segment is modeled as a three-dimensional body, resulting in a light sculpture that is expressive from all perspectives. The light signature opens up into a large light anchor segment on the sides of the vehicle. Its dynamic graphic is inspired by intricate electric circuits and bears the 
@@ -180,17 +180,17 @@ When the car is unlocked and exited, dynamic “leaving home” and “coming ho
 
 Just as in all of its models, Audi relies on a fully digital operating and display concept with a flat menu structure in the Q4 e-tron and the Q4 Sportback e-tron. It comprises four levels: the digital instrument cluster or Audi virtual cockpit for the driver, the central MMI touch display, the natural-language voice control, and the optional augmented reality head-up display – it is a new, pioneering piece of technology. 
 
-![Virtual cockpit](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/mminavigationvirtualcockpits.jpg)
+![Virtual cockpit](https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/virtualcockpit/mminavigationvirtualcockpits.webp)
 
 The standard digital instrument cluster measures 10.25 inches on the diagonal and is operated from the multifunction steering wheel. The power meter, which is located next to the speedometer on the display, summarizes all important information about the drive, from the output and the state of charge of the battery in percent and all the way to recuperation. The Audi virtual cockpit is the first option level. It integrates the navigation map and infotainment control and can be switched between two views. The Audi virtual cockpit is the top-of-the-line version. It offers the “classic,” “sport,” and “e-tron” layouts, where the power meter plays the main part. Various displays can be configured freely here.
 
-![MMI](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/mmi/mmi2s.jpg)
+![MMI](https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/mmi/mmi2s.webp)
 
 The MMI touch display with acoustic feedback has a 10.1-inch diagonal and a resolution of 1,540 x 720 pixels. It is used to control the infotainment system as well as a number of comfort functions. In addition, it allows text input in handwriting. In the optional large version, the display comes with an 11.6-inch diagonal and a resolution of 1,764 x 824 pixels. It is the largest display in the Audi portfolio to date and is expected to be available for order this year.
 
 The natural-language voice control, which is activated with the key phrase “Hey Audi,” functions as the third control level in the Audi Q4 e-tron and the Q4 Sportback e-tron. It also understands a large number of inputs and queries in everyday language, such as “Where’s the nearest Italian restaurant?” If Audi connect Navigation & Infotainment plus is included, in many cases the information is processed online.
 
-![Headup](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/headupdisplay/headups.jpg)
+![Headup](https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/headupdisplay/headups.webp)
 
 With the optional augmented reality head-up display in the Q4 e-tron and Q4 Sportback e-tron, Audi is taking a huge step forward in display technology. The display reflects important information via the windshield on two separate levels, the status section and the augmented
 reality (AR) section. The information provided by some of the assist systems and the turning arrows of the navigation system as well as its starting points and destinations are visually superimposed in the corresponding place on the real-life outside world as content of the AR section and displayed dynamically. They appear to be floating at a distance of roughly ten meters from the driver. Depending on the situation, they can appear considerably further ahead in some cases. The driver can understand the displays very quickly without being confused or distracted by them, and they are extremely helpful in poor visibility conditions.
@@ -201,7 +201,7 @@ See all details in the [Audi Q4 e-tron technology section](technology)
 
 In addition to the 5 seats the luggage compartment also offers more space than is generally found in the compact class, matching that of the mid-size class: Depending on the positioning of the rear seat backs, the volume of the luggage compartment is 520 to 1,490 liters in the Q4 e-tron and 535 to 1,460 liters under a power trunk lid in the Sportback. Both models can tow trailers with a weight of up to 1,000 kilograms (braked, at 12% incline), with the quattro versions even able to pull up to 1,200 kilograms
 
-![Roofbox](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/transportation/roofboxs.jpg)
+![Roofbox](https://media.evkx.net/ehga/models/q4-e-tron/transportation/roofboxs.webp)
 
 On the SUV version you can have up to 75KG on the roof.
 

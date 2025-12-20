@@ -13,8 +13,8 @@ Standard ombordlader støtter opptil 11KW AC-lading
 I USA har ladeporten en [J1772-kontakt](https://en.wikipedia.org/wiki/SAE_J1772) for å koble til bilen, mens den i Europa har en [Type 2-kontakt](https://wikipedia.org/wiki/Type_2_connector).
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargeport_left.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargeport_lefts.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/chargeport_left.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/chargeport_lefts.webp"
         class="img-fluid" alt="Type 2 Ladeport" title="Type 2 Ladeport">
     </a>
     <figcaption><h4>Type 2 Ladeport</h4></figcaption>
@@ -30,8 +30,8 @@ Dette er alternativ ID **JS1**
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargeport_right.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargeport_rights.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/chargeport_right.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/chargeport_rights.webp"
         class="img-fluid" alt="Ytterligere ladeport på passasjersiden" title="Ytterligere ladeport på passasjersiden">
     </a>
     <figcaption><h4>Ytterligere ladeport på passasjersiden</h4></figcaption>
@@ -48,8 +48,8 @@ Du må bestille den ekstra porten **JS1** og [Audi Charging System Connect](../.
 I illustrasjonen under ser du plasseringen av ladeenhetene.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/electricdrivetrain.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/electricdrivetrains.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/electricdrivetrain.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/electricdrivetrains.webp"
         class="img-fluid" alt="Elektrisk drivlinje med standard og optiell laderplassering" title="Elektrisk drivlinje med standard og optiell laderplassering">
     </a>
     <figcaption><h4>Elektrisk drivlinje med standard og optiell laderplassering</h4></figcaption>
@@ -58,8 +58,8 @@ I illustrasjonen under ser du plasseringen av ladeenhetene.
 Bare AC-lading går gjennom laderen. For DC-lading er CCS-porten direkte koblet til batteriet.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/wiringdiagram.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/wiringdiagrams.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/wiringdiagram.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/wiringdiagrams.webp"
         class="img-fluid" alt="Ladeport/laderkabling" title="Ladeport/laderkabling">
     </a>
     <figcaption><h4>Ladeport/laderkabling</h4></figcaption>
@@ -67,8 +67,8 @@ Bare AC-lading går gjennom laderen. For DC-lading er CCS-porten direkte koblet 
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/charger.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/chargers.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/charger.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/chargers.webp"
         class="img-fluid" alt="Ombordladeren" title="Ombordladeren">
     </a>
     <figcaption><h4>Ombordladeren</h4></figcaption>
@@ -87,16 +87,16 @@ Bare AC-lading går gjennom laderen. For DC-lading er CCS-porten direkte koblet 
 ### LED Indicators
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/ledlights.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/ledlightss.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/ledlights.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/ledlightss.webp"
         class="img-fluid" alt="Led Lights" title="Led Lights">
     </a>
     <figcaption><h4>Led Lights</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/ledoverview.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/onboardcharger/ledoverviews.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/ledoverview.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/ledoverviews.webp"
         class="img-fluid" alt="LED codes" title="LED codes">
     </a>
     <figcaption><h4>LED codes</h4></figcaption>

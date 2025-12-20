@@ -31,8 +31,8 @@ Bortsett fra manøverassistenten, er parkeringsassistent pluss, som sjåføren a
 «City»-assistentpakken inkluderer følgende sikkerhetssystemer: Audi pre sense bak, sideassistanse, avkjøringsvarsling, veikryssassistent og krysstrafikkassistent bak.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/sensors.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/sensorss.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/drivingassistance/sensors.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/drivingassistance/sensorss.webp"
         class="img-fluid" alt="Audi e-tron GT-sensorer" title="Audi e-tron GT-sensorer">
     </a>
     <figcaption><h4>Audi e-tron GT-sensorer</h4></figcaption>

@@ -40,15 +40,15 @@ Du kan velge å få støtfangere og hjulbuer i kontrastmaling. Dette er alternat
 Kontrastfargen er manhattengrå på alle alternativer bortsett fra isbrehvit og florett sølv. På dem er det tyfongrått.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/contrast_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/contrast_1_st.jpg" class="img-fluid" alt="Chronos grå med kontrastlakkering og sort opptikk" title="Chronos grå med kontrastlakkering og sort opptikk">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/contrast_1.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/contrast_1_st.webp" class="img-fluid" alt="Chronos grå med kontrastlakkering og sort opptikk" title="Chronos grå med kontrastlakkering og sort opptikk">
     </a>
     <figcaption><h4>Chronos grå med kontrastlakkering og sort opptikk</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/contrast_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/contrast_2_st.jpg" class="img-fluid" alt="Chronos grå med kontrastlakkering og sort opptikk" title="Chronos grå med kontrastlakkering og sort opptikk">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/contrast_2.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/contrast_2_st.webp" class="img-fluid" alt="Chronos grå med kontrastlakkering og sort opptikk" title="Chronos grå med kontrastlakkering og sort opptikk">
     </a>
     <figcaption><h4>Chronos grå med kontrastlakkering og sort opptikk</h4></figcaption>
 </figure>
@@ -59,22 +59,22 @@ Du kan også velge hellakkering slik at støtfangere og hjulbuer er lakkert i ka
 Denne har alternativ **VJ1** og er standard på S-line og S eksteriør.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/fullbodycolor.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/fullbodycolors.jpg" class="img-fluid" alt="Glacier white with full body color" title="Glacier white with full body color">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/fullbodycolor.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/fullbodycolors.webp" class="img-fluid" alt="Glacier white with full body color" title="Glacier white with full body color">
     </a>
     <figcaption><h4>Isbrehvit med hellakkering</h4></figcaption>
 </figur>
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/fullbodycolor2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/fullbodycolor2s.jpg" class="img-fluid" alt="Glacier white with full body color" title="Glacier white with full body color">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/fullbodycolor2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/fullbodycolor2s.webp" class="img-fluid" alt="Glacier white with full body color" title="Glacier white with full body color">
     </a>
     <figcaption><h4>Isbrehvit med hellakkering</h4></figcaption>
 </figur>
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/fullbodycolor3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/fullbodycolor3s.jpg" class="img-fluid" alt="Glacier white with full body color" title="Glacier white with full body color">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/fullbodycolor3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/fullbodycolor3s.webp" class="img-fluid" alt="Glacier white with full body color" title="Glacier white with full body color">
     </a>
     <figcaption><h4>Isbrehvit med hellakkering</h4></figcaption>
 </figur>
@@ -88,22 +88,22 @@ De forskjellige standardfargene er
 Standard color. Solid
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_magnetgrey_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_magnetgrey_1_st.jpg" class="img-fluid" alt="Audi Q8 e-tron in in magnet grey with black optics" title="Audi Q8 e-tron in in magnet grey with black optics">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_magnetgrey_1.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_magnetgrey_1_st.webp" class="img-fluid" alt="Audi Q8 e-tron in in magnet grey with black optics" title="Audi Q8 e-tron in in magnet grey with black optics">
     </a>
     <figcaption><h4>Audi Q8 e-tron in in magnet grey with black optics</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_magnetgrey_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_magnetgrey_2_st.jpg" class="img-fluid" alt="Audi Q8 e-tron in in magnet grey with black optics" title="Audi Q8 e-tron in in magnet grey with black optics">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_magnetgrey_2.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_magnetgrey_2_st.webp" class="img-fluid" alt="Audi Q8 e-tron in in magnet grey with black optics" title="Audi Q8 e-tron in in magnet grey with black optics">
     </a>
     <figcaption><h4>Audi Q8 e-tron in in magnet grey with black optics</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_magnetgrey_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_magnetgrey_3_st.jpg" class="img-fluid" alt="Audi Q8 e-tron in in magnet grey with black optics" title="Audi Q8 e-tron in in magnet grey with black optics">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_magnetgrey_3.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_magnetgrey_3_st.webp" class="img-fluid" alt="Audi Q8 e-tron in in magnet grey with black optics" title="Audi Q8 e-tron in in magnet grey with black optics">
     </a>
     <figcaption><h4>Audi Q8 e-tron in in magnet grey with black optics</h4></figcaption>
 </figure>
@@ -114,22 +114,22 @@ Standard color. Solid
 Fargekode: **2Y**
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_glacierwhite_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_glacierwhite_1s.jpg" class="img-fluid" alt="Audi e-tron 55 i isbrehvit med kontrastfarge" title="Audi e-tron 55 i isbrehvit med kontrastfarge">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_glacierwhite_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_glacierwhite_1s.webp" class="img-fluid" alt="Audi e-tron 55 i isbrehvit med kontrastfarge" title="Audi e-tron 55 i isbrehvit med kontrastfarge">
     </a>
     <figcaption><h4>Audi e-tron 55 i isbrehvit med kontrastfarge</h4></figcaption>
 </figur>
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_glacierwhite_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_glacierwhite_2s.jpg" class="img-fluid" alt="Audi e-tron 55 i isbrehvit med sort optikk" title="Audi e-tron 55 i isbrehvit med sort optikk">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_glacierwhite_2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_glacierwhite_2s.webp" class="img-fluid" alt="Audi e-tron 55 i isbrehvit med sort optikk" title="Audi e-tron 55 i isbrehvit med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 i isbrehvit med sort optikk</h4></figcaption>
 </figur>
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_glacierwhite_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_glacierwhite_3s.jpg" class="img-fluid" alt="Audi e-tron 55 Sportback S-line i brehvit med sort optikk" title="Audi e-tron 55 Sportback S-line i brehvit med sort optikk">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_glacierwhite_3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_glacierwhite_3s.webp" class="img-fluid" alt="Audi e-tron 55 Sportback S-line i brehvit med sort optikk" title="Audi e-tron 55 Sportback S-line i brehvit med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 Sportback S-line i isbrehvit med sort optikk</h4></figcaption>
 </figur>
@@ -137,22 +137,22 @@ Fargekode: **2Y**
 ### Soneirarød metallic
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_soneirared_metallic.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_soneirared_metallic.jpg" class="img-fluid" alt="Audi Q8 e-tron S-line i soneirarød med sort optikk" title="Audi Q8 e-tron S-line i soneirarød med sort optikk">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_soneirared_metallic.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_soneirared_metallic.webp" class="img-fluid" alt="Audi Q8 e-tron S-line i soneirarød med sort optikk" title="Audi Q8 e-tron S-line i soneirarød med sort optikk">
     </a>
     <figcaption><h4>Audi Q8 e-tron S-line i soneirarød med sort optikk</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_soneirared_metallic_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_soneirared_metallic_2_st.jpg" class="img-fluid" alt="Audi Q8 e-tron S-line i soneirarød med sort optikk" title="Audi Q8 e-tron S-line i soneirarød med sort optikk">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_soneirared_metallic_2.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_soneirared_metallic_2_st.webp" class="img-fluid" alt="Audi Q8 e-tron S-line i soneirarød med sort optikk" title="Audi Q8 e-tron S-line i soneirarød med sort optikk">
     </a>
     <figcaption><h4>Audi Q8 e-tron S-line i soneirarød med sort optikk</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_soneirared_metallic_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_soneirared_metallic_3_st.jpg" class="img-fluid" alt="Audi Q8 e-tron S-line i soneirarød med sort optikk" title="Audi Q8 e-tron S-line i soneirarød med sort optikk">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_soneirared_metallic_3.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_soneirared_metallic_3_st.webp" class="img-fluid" alt="Audi Q8 e-tron S-line i soneirarød med sort optikk" title="Audi Q8 e-tron S-line i soneirarød med sort optikk">
     </a>
     <figcaption><h4>Audi Q8 e-tron S-line i soneirarød med sort optikk</h4></figcaption>
 </figure>
@@ -163,24 +163,24 @@ Fargekode: **2Y**
 Fargekode: **Z7**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_chronosgrey_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_chronosgrey_1_st.jpg" class="img-fluid" alt="Audi e-tron 55 in Chronos Grey med sort optikk" title="Audi e-tron 55 in Chronos Grey med sort optikk">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_chronosgrey_1.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_chronosgrey_1_st.webp" class="img-fluid" alt="Audi e-tron 55 in Chronos Grey med sort optikk" title="Audi e-tron 55 in Chronos Grey med sort optikk">
     </a>
     <figcaption><h4>Audi Q8 55 e-tron in Chronos Grey med sort optikk</h4></figcaption>
 </figure>
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_chronosgrey_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_chronosgrey_2_st.jpg" class="img-fluid" alt="Audi e-tron 55 in Chronos Grey med sort optikk" title="Audi e-tron 55 in Chronos Grey med sort optikk">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_chronosgrey_2.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_chronosgrey_2_st.webp" class="img-fluid" alt="Audi e-tron 55 in Chronos Grey med sort optikk" title="Audi e-tron 55 in Chronos Grey med sort optikk">
     </a>
     <figcaption><h4>Audi Q8 55 e-tron in Chronos Grey med sort optikk</h4></figcaption>
 </figure>
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_chronosgrey_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_chronosgrey_3_st.jpg" class="img-fluid" alt="Audi e-tron 55 in Chronos Grey med sort optikk" title="Audi e-tron 55 in Chronos Grey med sort optikk">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_chronosgrey_3.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_chronosgrey_3_st.webp" class="img-fluid" alt="Audi e-tron 55 in Chronos Grey med sort optikk" title="Audi e-tron 55 in Chronos Grey med sort optikk">
     </a>
     <figcaption><h4>Audi Q8 55 e-tron in Chronos Grey med sort optikk</h4></figcaption>
 </figure>
@@ -192,29 +192,29 @@ Kun tilgjengelig på S-line og SQ8 e-tron
 Fargekode: **6Y**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_daytona_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_daytona_1_st.jpg" class="img-fluid" alt="Audi Q8 e-tron in Daytona grey with black optics" title="Audi Q8 e-tron in Daytona grey with black optics">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_daytona_1.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_daytona_1_st.webp" class="img-fluid" alt="Audi Q8 e-tron in Daytona grey with black optics" title="Audi Q8 e-tron in Daytona grey with black optics">
     </a>
     <figcaption><h4>Audi Q8 e-tron in Daytona grey with black optics</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_daytona_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_daytona_2_st.jpg" class="img-fluid" alt="Audi Q8 e-tron in Daytona grey with black optics" title="Audi Q8 e-tron in Daytona grey with black optics">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_daytona_2.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_daytona_2_st.webp" class="img-fluid" alt="Audi Q8 e-tron in Daytona grey with black optics" title="Audi Q8 e-tron in Daytona grey with black optics">
     </a>
     <figcaption><h4>Audi Q8 e-tron in Daytona grey with black optics</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_daytona_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_daytona_3_st.jpg" class="img-fluid" alt="Audi Q8 e-tron in Daytona grey with black optics" title="Audi Q8 e-tron in Daytona grey with black optics">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_daytona_3.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_daytona_3_st.webp" class="img-fluid" alt="Audi Q8 e-tron in Daytona grey with black optics" title="Audi Q8 e-tron in Daytona grey with black optics">
     </a>
     <figcaption><h4>Audi Q8 e-tron in Daytona grey with black optics</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_daytona_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_daytona_4_st.jpg" class="img-fluid" alt="Audi Q8 e-tron in Daytona grey with black optics" title="Audi Q8 e-tron in Daytona grey with black optics">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_daytona_4.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_daytona_4_st.webp" class="img-fluid" alt="Audi Q8 e-tron in Daytona grey with black optics" title="Audi Q8 e-tron in Daytona grey with black optics">
     </a>
     <figcaption><h4>Audi Q8 e-tron in Daytona grey with black optics</h4></figcaption>
 </figure>
@@ -223,30 +223,30 @@ Fargekode: **6Y**
 
 Color Code: **3D**
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_plasmablue_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_plasmablue_1_st.jpg" class="img-fluid" alt="Audi Q8 e-tron in Plasma Blue with contrast color and standard optics" title="Audi Q8 e-tron in Plasma Blue with contrast color and standard optics">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_plasmablue_1.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_plasmablue_1_st.webp" class="img-fluid" alt="Audi Q8 e-tron in Plasma Blue with contrast color and standard optics" title="Audi Q8 e-tron in Plasma Blue with contrast color and standard optics">
     </a>
     <figcaption><h4>Audi Q8 e-tron in Plasma Blue with contrast color and standard optics</h4></figcaption>
 </figure>
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_plasmablue_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_plasmablue_2_st.jpg" class="img-fluid" alt="Audi Q8 e-tron in Plasma Blue with contrast color and standard optics" title="Audi Q8 e-tron in Plasma Blue with contrast color and standard optics">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_plasmablue_2.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_plasmablue_2_st.webp" class="img-fluid" alt="Audi Q8 e-tron in Plasma Blue with contrast color and standard optics" title="Audi Q8 e-tron in Plasma Blue with contrast color and standard optics">
     </a>
     <figcaption><h4>Audi Q8 e-tron in Plasma Blue with contrast color and standard optics</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_plasmablue_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_plasmablue_3_st.jpg" class="img-fluid" alt="Audi Q8 e-tron in Plasma Blue with black optics" title="Audi Q8 e-tron in Plasma Blue with black optics">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_plasmablue_3.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_plasmablue_3_st.webp" class="img-fluid" alt="Audi Q8 e-tron in Plasma Blue with black optics" title="Audi Q8 e-tron in Plasma Blue with black optics">
     </a>
     <figcaption><h4>Audi Q8 e-tron in Plasma Blue with black optics</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_plasmablue_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_plasmablue_4_st.jpg" class="img-fluid" alt="Audi Q8 e-tron in Plasma Blue with black optics" title="Audi Q8 e-tron in Plasma Blue with black optics">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_plasmablue_4.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_plasmablue_4_st.webp" class="img-fluid" alt="Audi Q8 e-tron in Plasma Blue with black optics" title="Audi Q8 e-tron in Plasma Blue with black optics">
     </a>
     <figcaption><h4>Audi Q8 e-tron in Plasma Blue with black optics</h4></figcaption>
 </figure>
@@ -256,15 +256,15 @@ Color Code: **3D**
 Color Code: **LG5C**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_ultrablue.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_ultrablue_st.jpg" class="img-fluid" alt="Audi e-tron 55 in Galaxy Blue" title="Audi e-tron 55 in Galaxy Blue">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_ultrablue.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_ultrablue_st.webp" class="img-fluid" alt="Audi e-tron 55 in Galaxy Blue" title="Audi e-tron 55 in Galaxy Blue">
     </a>
     <figcaption><h4>Audi SQ8 e-tron Ultra Blue</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_ultrablue_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_ultrablue_2_st.jpg" class="img-fluid" alt="Audi e-tron 55 in Galaxy Blue" title="Audi e-tron 55 in Galaxy Blue">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_ultrablue_2.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_ultrablue_2_st.webp" class="img-fluid" alt="Audi e-tron 55 in Galaxy Blue" title="Audi e-tron 55 in Galaxy Blue">
     </a>
     <figcaption><h4>Audi SQ8 e-tron Ultra Blue</h4></figcaption>
 </figure>
@@ -274,57 +274,57 @@ Color Code: **LG5C**
 Fargekode: **OE**
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_3s.jpg" class="img-fluid" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_siambeige_3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_siambeige_3s.webp" class="img-fluid" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 i Siam Beige med sort optikk</h4></figcaption>
 </figur>
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_1s.jpg" class="img-fluid" alt="Audi e-tron 55 i Siam Beige med sort optikk og kontrastfarge" title="Audi e-tron 55 i Siam Beige med sort optikk og kontrastfarge">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_siambeige_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_siambeige_1s.webp" class="img-fluid" alt="Audi e-tron 55 i Siam Beige med sort optikk og kontrastfarge" title="Audi e-tron 55 i Siam Beige med sort optikk og kontrastfarge">
     </a>
     <figcaption><h4>Audi e-tron 55 i Siam Beige med sort optikk og kontrastfarge</h4></figcaption>
 </figur>
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_2s.jpg" class="img-fluid" alt="Audi e-tron 55 i Siam Beige med sort optikk og kontrastfarge" title="Audi e-tron 55 i Siam Beige med sort optikk og kontrastfarge">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_siambeige_2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_siambeige_2s.webp" class="img-fluid" alt="Audi e-tron 55 i Siam Beige med sort optikk og kontrastfarge" title="Audi e-tron 55 i Siam Beige med sort optikk og kontrastfarge">
     </a>
     <figcaption><h4>Audi e-tron 55 i Siam Beige med sort optikk og kontrastfarge</h4></figcaption>
 </figur>
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_4s.jpg" class="img-fluid" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_siambeige_4.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_siambeige_4s.webp" class="img-fluid" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 i Siam Beige med sort optikk</h4></figcaption>
 </figur>
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_5s.jpg" class="img-fluid" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_siambeige_5.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_siambeige_5s.webp" class="img-fluid" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 i Siam Beige med sort optikk</h4></figcaption>
 </figur>
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_6s.jpg" class="img-fluid" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_siambeige_6.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_siambeige_6s.webp" class="img-fluid" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 i Siam Beige med sort optikk</h4></figcaption>
 </figur>
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_7.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_7s.jpg" class="img-fluid" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_siambeige_7.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_siambeige_7s.webp" class="img-fluid" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 i Siam Beige med sort optikk</h4></figcaption>
 </figur>
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_8.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_siambeige_8s.jpg" class="img-fluid" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_siambeige_8.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_siambeige_8s.webp" class="img-fluid" alt="Audi e-tron 55 i Siam Beige med sort optikk" title="Audi e-tron 55 i Siam Beige med sort optikk">
     </a>
     <figcaption><h4>Audi e-tron 55 i Siam Beige med sort optikk</h4></figcaption>
 </figur>
@@ -335,8 +335,8 @@ Fargekode: **OE**
 New color for Q8
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_madeirabrown_1.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_madeirabrown_1_st.jpeg" class="img-fluid" alt="Audi Q8 55 Sportback e-tron in Madeira Brown Metallic" title="Audi Q8 55 Sportback e-tron in Madeira Brown Metallic">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_madeirabrown_1.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_madeirabrown_1_st.webp" class="img-fluid" alt="Audi Q8 55 Sportback e-tron in Madeira Brown Metallic" title="Audi Q8 55 Sportback e-tron in Madeira Brown Metallic">
     </a>
     <figcaption><h4>Audi Q8 55 Sportback e-tron in Madeira Brown Metallic</h4></figcaption>
 </figure>
@@ -344,22 +344,22 @@ New color for Q8
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_madeirabrown_2.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_madeirabrown_2_st.jpeg" class="img-fluid" alt="Audi Q8 55 Sportback e-tron in Madeira Brown Metallic" title="Audi Q8 55 Sportback e-tron in Madeira Brown Metallic">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_madeirabrown_2.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_madeirabrown_2_st.webp" class="img-fluid" alt="Audi Q8 55 Sportback e-tron in Madeira Brown Metallic" title="Audi Q8 55 Sportback e-tron in Madeira Brown Metallic">
     </a>
     <figcaption><h4>Audi Q8 55 Sportback e-tron in Madeira Brown Metallic</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_madeirabrown_3.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_madeirabrown_3_st.jpeg" class="img-fluid" alt="Audi Q8 55 Sportback e-tron in Madeira Brown Metallic" title="Audi Q8 55 Sportback e-tron in Madeira Brown Metallic">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_madeirabrown_3.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_madeirabrown_3_st.webp" class="img-fluid" alt="Audi Q8 55 Sportback e-tron in Madeira Brown Metallic" title="Audi Q8 55 Sportback e-tron in Madeira Brown Metallic">
     </a>
     <figcaption><h4>Audi Q8 55 Sportback e-tron in Madeira Brown Metallic</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_madeirabrown_4.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_madeirabrown_4_st.jpeg" class="img-fluid" alt="Audi Q8 55 Sportback e-tron in Madeira Brown Metallic" title="Audi Q8 55 Sportback e-tron in Madeira Brown Metallic">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_madeirabrown_4.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_madeirabrown_4_st.webp" class="img-fluid" alt="Audi Q8 55 Sportback e-tron in Madeira Brown Metallic" title="Audi Q8 55 Sportback e-tron in Madeira Brown Metallic">
     </a>
     <figcaption><h4>Audi Q8 55 Sportback e-tron in Madeira Brown Metallic</h4></figcaption>
 </figure>
@@ -374,8 +374,8 @@ Se Video fra Auditography
 Fargekode: **2Y**
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_manhattengrey_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_manhattengrey_1s.jpg" class="img-fluid" alt="Audi e-tron 55 i Manhatten grå" title="Audi e-tron 55 i Manhatten grå">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_manhattengrey_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_manhattengrey_1s.webp" class="img-fluid" alt="Audi e-tron 55 i Manhatten grå" title="Audi e-tron 55 i Manhatten grå">
     </a>
     <figcaption><h4>Audi e-tron 55 i Manhatten-grå</h4></figcaption>
 </figur>
@@ -387,8 +387,8 @@ Den eneste ikke-metalliske fargen.
 Fargekode: **A2**
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_brilliantblack_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_brilliantblack_1s.jpg" class="img-fluid" alt="Audi e-tron 55 i Brilliant Black" title="Audi e-tron 55 i Brilliant Black">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_brilliantblack_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_brilliantblack_1s.webp" class="img-fluid" alt="Audi e-tron 55 i Brilliant Black" title="Audi e-tron 55 i Brilliant Black">
     </a>
     <figcaption><h4>Audi e-tron 55 i Brilliant Black</h4></figcaption>
 </figur>
@@ -398,30 +398,30 @@ Fargekode: **A2**
 Fargekode: **OE**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_mythosblack_1.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_mythosblack_1_st.jpeg" class="img-fluid" alt="Audi SQ8 e-tron in Mythos Black med sort optikk and black grille" title="Audi SQ8 e-tron in Mythos Black med sort optikk and black grille">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_mythosblack_1.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_mythosblack_1_st.webp" class="img-fluid" alt="Audi SQ8 e-tron in Mythos Black med sort optikk and black grille" title="Audi SQ8 e-tron in Mythos Black med sort optikk and black grille">
     </a>
     <figcaption><h4>Audi SQ8 e-tron in Mythos Black med sort optikk and black grille</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_mythosblack_2.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_mythosblack_2_st.jpeg" class="img-fluid" alt="Audi SQ8 e-tron in Mythos Black med sort optikk and black grille" title="Audi SQ8 e-tron in Mythos Black med sort optikk and black grille">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_mythosblack_2.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_mythosblack_2_st.webp" class="img-fluid" alt="Audi SQ8 e-tron in Mythos Black med sort optikk and black grille" title="Audi SQ8 e-tron in Mythos Black med sort optikk and black grille">
     </a>
     <figcaption><h4>Audi SQ8 e-tron in Mythos Black med sort optikk and black grille</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_mythosblack_3.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_mythosblack_3_st.jpeg" class="img-fluid" alt="Audi SQ8 e-tron in Mythos Black med sort optikk and black grille" title="Audi SQ8 e-tron in Mythos Black med sort optikk and black grille">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_mythosblack_3.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_mythosblack_3_st.webp" class="img-fluid" alt="Audi SQ8 e-tron in Mythos Black med sort optikk and black grille" title="Audi SQ8 e-tron in Mythos Black med sort optikk and black grille">
     </a>
     <figcaption><h4>Audi SQ8 e-tron in Mythos Black med sort optikk and black grille</h4></figcaption>
 </figure>
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_mythosblack_4.jpeg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/exterior/paint/paint_mythosblack_4_st.jpeg" class="img-fluid" alt="Audi SQ8 e-tron in Mythos Black med sort optikk and black grille" title="Audi SQ8 e-tron in Mythos Black med sort optikk and black grille">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_mythosblack_4.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_mythosblack_4_st.webp" class="img-fluid" alt="Audi SQ8 e-tron in Mythos Black med sort optikk and black grille" title="Audi SQ8 e-tron in Mythos Black med sort optikk and black grille">
     </a>
     <figcaption><h4>Audi SQ8 e-tron in Mythos Black med sort optikk and black grille</h4></figcaption>
 </figure>
@@ -433,36 +433,36 @@ Det er mulig å bestille Audi e-tron med Audi exclusive lakk farger. Det er mang
 Under ser du noen av fargene du kan velge mellom.
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview1s.jpg" class="img-fluid" alt="Audi Exclusive malingsfarger" title="Audi Exclusive malingsfarger">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_exclusive_overview1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_exclusive_overview1s.webp" class="img-fluid" alt="Audi Exclusive malingsfarger" title="Audi Exclusive malingsfarger">
     </a>
     <figcaption><h4>Perleeffektlakk</h4></figcaption>
 </figur>
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview2s.jpg" class="img-fluid" alt="Audi Exclusive malingsfarger" title="Audi Exclusive malingsfarger">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_exclusive_overview2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_exclusive_overview2s.webp" class="img-fluid" alt="Audi Exclusive malingsfarger" title="Audi Exclusive malingsfarger">
     </a>
     <figcaption><h4>Krystalleffektlakk</h4></figcaption>
 </figur>
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview3s.jpg" class="img-fluid" alt="Audi Exclusive malingsfarger" title="Audi Exclusive malingsfarger">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_exclusive_overview3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_exclusive_overview3s.webp" class="img-fluid" alt="Audi Exclusive malingsfarger" title="Audi Exclusive malingsfarger">
     </a>
     <figcaption><h4>Unilakk</h4></figcaption>
 </figur>
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview4s.jpg" class="img-fluid" alt="Audi Exclusive malingsfarger" title="Audi Exclusive malingsfarger">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_exclusive_overview4.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_exclusive_overview4s.webp" class="img-fluid" alt="Audi Exclusive malingsfarger" title="Audi Exclusive malingsfarger">
     </a>
     <figcaption><h4>Metallic lakk</h4></figcaption>
 </figur>
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_exclusive_overview5s.jpg" class="img-fluid" alt="Audi Exclusive malingsfarger" title="Audi Exclusive malingsfarger">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_exclusive_overview5.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_exclusive_overview5s.webp" class="img-fluid" alt="Audi Exclusive malingsfarger" title="Audi Exclusive malingsfarger">
     </a>
     <figcaption><h4>Metallic lakk</h4></figcaption>
 </figur>
@@ -472,15 +472,15 @@ Under ser du noen av fargene du kan velge mellom.
 Fargekode: **X6R**
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_sonomagreen_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_sonomagreen_1s.jpg" class="img-fluid" alt="Grunnleggende trim - hjulbueskytter og støtfangere er ikke malt" title="Grunnleggende trim - hjulbueskytter og støtfangere er ikke malt">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_sonomagreen_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_sonomagreen_1s.webp" class="img-fluid" alt="Grunnleggende trim - hjulbueskytter og støtfangere er ikke malt" title="Grunnleggende trim - hjulbueskytter og støtfangere er ikke malt">
     </a>
     <figcaption><h4>Audi e-tron S i Sonoma Green</h4></figcaption>
 </figur>
 
 <figur>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_sonomagreen_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_sonomagreen_2s.jpg" class="img-fluid" alt="Grunnleggende trim - hjulbueskytter og støtfangere er ikke malt" title="Grunnleggende trim - hjulbueskytter og støtfangere er ikke malt">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_sonomagreen_2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_sonomagreen_2s.webp" class="img-fluid" alt="Grunnleggende trim - hjulbueskytter og støtfangere er ikke malt" title="Grunnleggende trim - hjulbueskytter og støtfangere er ikke malt">
     </a>
     <figcaption><h4>Audi e-tron S i Sonoma Green</h4></figcaption>
 </figur>
@@ -493,50 +493,50 @@ Color code: Z6X
 From Audi Smista [@audismista](https://www.instagram.com/audismista/?hl=en) 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_1s.jpg" class="img-fluid" alt="Goodwood Green Audi e-tron" title="Goodwood Green Audi e-tron">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_goodwoodgreen_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_goodwoodgreen_1s.webp" class="img-fluid" alt="Goodwood Green Audi e-tron" title="Goodwood Green Audi e-tron">
     </a>
     <figcaption><h4>Goodwood Green Audi e-tron</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_2s.jpg" class="img-fluid" alt="Goodwood Green Audi e-tron" title="Goodwood Green Audi e-tron">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_goodwoodgreen_2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_goodwoodgreen_2s.webp" class="img-fluid" alt="Goodwood Green Audi e-tron" title="Goodwood Green Audi e-tron">
     </a>
     <figcaption><h4>Goodwood Green Audi e-tron</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_3s.jpg" class="img-fluid" alt="Goodwood Green Audi e-tron" title="Goodwood Green Audi e-tron">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_goodwoodgreen_3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_goodwoodgreen_3s.webp" class="img-fluid" alt="Goodwood Green Audi e-tron" title="Goodwood Green Audi e-tron">
     </a>
     <figcaption><h4>Goodwood Green Audi e-tron</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_4s.jpg" class="img-fluid" alt="Goodwood Green Audi e-tron" title="Goodwood Green Audi e-tron">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_goodwoodgreen_4.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_goodwoodgreen_4s.webp" class="img-fluid" alt="Goodwood Green Audi e-tron" title="Goodwood Green Audi e-tron">
     </a>
     <figcaption><h4>Goodwood Green Audi e-tron</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_5s.jpg" class="img-fluid" alt="Goodwood Green Audi e-tron" title="Goodwood Green Audi e-tron">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_goodwoodgreen_5.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_goodwoodgreen_5s.webp" class="img-fluid" alt="Goodwood Green Audi e-tron" title="Goodwood Green Audi e-tron">
     </a>
     <figcaption><h4>Goodwood Green Audi e-tron</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_6s.jpg" class="img-fluid" alt="Goodwood Green Audi e-tron" title="Goodwood Green Audi e-tron">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_goodwoodgreen_6.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_goodwoodgreen_6s.webp" class="img-fluid" alt="Goodwood Green Audi e-tron" title="Goodwood Green Audi e-tron">
     </a>
     <figcaption><h4>Goodwood Green Audi e-tron</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_7.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/exterior/paint/paint_goodwoodgreen_7s.jpg" class="img-fluid" alt="Goodwood Green Audi e-tron" title="Goodwood Green Audi e-tron">
+    <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_goodwoodgreen_7.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_goodwoodgreen_7s.webp" class="img-fluid" alt="Goodwood Green Audi e-tron" title="Goodwood Green Audi e-tron">
     </a>
     <figcaption><h4>Goodwood Green Audi e-tron</h4></figcaption>
 </figure>

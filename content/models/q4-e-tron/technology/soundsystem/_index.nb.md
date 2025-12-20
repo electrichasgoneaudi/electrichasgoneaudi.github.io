@@ -17,8 +17,8 @@ Som en ny og eksklusiv partner til Audi, leverer verdens ledende lydopplevelsess
 lydfilosofi over hele modellutvalget. Takket være sin fleksibilitet gir den rom for kundenes ønsker.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/soundsystem/sonosspeaker.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/soundsystem/sonosspeakers.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/soundsystem/sonosspeaker.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/soundsystem/sonosspeakers.webp"
         class="img-fluid" alt="Sonos-fronthøyttaler" title="Sonos-fronthøyttaler">
     </a>
     <figcaption><h4>Sonos-fronthøyttaler</h4></figcaption>
@@ -27,8 +27,8 @@ lydfilosofi over hele modellutvalget. Takket være sin fleksibilitet gir den rom
 I Q4 e-tron og Q4 Sportback e-tron distribuerer Sonamic Panorama-algoritmen, som er utviklet av Fraunhofer Institute, signalene til ti høyttalere. Den bruker stereoopptak for å generere en tredimensjonal surroundlyd, der den plasserer de individuelle lydkildene på en virtuell U-formet lydscene. Dette gir lytteren inntrykk av at de sitter midt i orkesteret eller bandet. De fire diskanthøyttalerne og senterhøyttaleren drives av en forsterker som er integrert i MIB 3. En egen åtte-kanals booster er ansvarlig for de fire basshøyttalerne og subwooferen i bagasjerommet. Til sammen gir de to forsterkerne en effekt på 580 watt.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/soundsystem/soundsystem1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/soundsystem/soundsystem1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/soundsystem/soundsystem1.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/soundsystem/soundsystem1s.webp"
         class="img-fluid" alt="Sonos Sound System 10 høyttalerplasserin" title="Sonos Sound System 10 høyttalerplasserin">
     </a>
     <figcaption><h4>Sonos Sound System 10 høyttalerplasserin</h4></figcaption>

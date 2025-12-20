@@ -30,7 +30,7 @@ Butikken gir kundene tilgang til et bredt spekter av apper. Applikasjoner fra ka
 Se nedenfor for flere detaljer om de forskjellige delene av HMI (Human Machine Interface).
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="mmi/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/uiandoperations/mmi/mmi_3_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<a href="mmi/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/technology/uiandoperations/mmi/mmi_3_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
 	<h2>MMI</h2>
 	<p>
 		Audi Q6 e-tron MMI er basert på Android Automotive og har flere skjermer.
@@ -40,7 +40,7 @@ Se nedenfor for flere detaljer om de forskjellige delene av HMI (Human Machine I
 
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="headupdisplay/"><img src="https://media.electrichasgoneaudi.net/multimedia/models/q6-e-tron/technology/uiandoperations/headupdisplay/hud_1_st.jpg" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<a href="headupdisplay/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/technology/uiandoperations/headupdisplay/hud_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
 	<h2>Head-up display</h2>
 	<p>Audi Q6 e-tron kan leveres med head-up display
 	</p>

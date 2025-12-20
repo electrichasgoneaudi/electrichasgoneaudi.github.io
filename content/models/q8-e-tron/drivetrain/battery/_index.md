@@ -31,8 +31,8 @@ Each module is on 11 Volt and has a capacity of 288 x 11 = 3168 Wh or 3.168 kWh.
 Each module weighs approx 13kg.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/72ah_cell.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/72ah_cell_st.png" class="img-fluid" class="img-fluid" alt="Module with new 72AH cells" title="Module with new 72AH cells">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/drivetrain/battery/72ah_cell.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/drivetrain/battery/72ah_cell_st.webp" class="img-fluid" class="img-fluid" alt="Module with new 72AH cells" title="Module with new 72AH cells">
     </a>
     <figcaption><h4>Module with new 72AH cells</h4></figcaption>
 </figure>
@@ -66,16 +66,16 @@ Most of the battery housing parts are reused with the larger 95kWh battery.
 The 95kWh uses a second floor under the rear seats to get the room needed for the 36 modules.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/pack114.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/pack114_st.png" class="img-fluid" alt="Battery pack 114kWh with 36 modules, including five on the second floor" title="Battery pack 114kWh with 36 modules, including five on the second floor">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/drivetrain/battery/pack114.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/drivetrain/battery/pack114_st.webp" class="img-fluid" alt="Battery pack 114kWh with 36 modules, including five on the second floor" title="Battery pack 114kWh with 36 modules, including five on the second floor">
     </a>
     <figcaption><h4>Battery pack 114kWh with 36 modules, including five on the second floor</h4></figcaption>
 </figure>
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/pack114_2.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/pack114_2_st.png" class="img-fluid" alt="Battery pack 114kWh with 36 modules, including five on the second floor" title="Battery pack 114kWh with 36 modules, including five on the second floor">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/drivetrain/battery/pack114_2.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/drivetrain/battery/pack114_2_st.webp" class="img-fluid" alt="Battery pack 114kWh with 36 modules, including five on the second floor" title="Battery pack 114kWh with 36 modules, including five on the second floor">
     </a>
     <figcaption><h4>Battery pack 114kWh with 36 modules, including five on the second floor</h4></figcaption>
 </figure>
@@ -85,8 +85,8 @@ Sophisticated measures have been taken to protect the high-voltage battery of th
 comprised of extruded sections, it holds the cell modules like a typecase.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/crashstructure.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/crashstructures.jpg" class="img-fluid" alt="Integrated crash structure of the lithium-ion battery" title="Integrated crash structure of the lithium-ion battery">
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/battery/crashstructure.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/battery/crashstructures.webp" class="img-fluid" alt="Integrated crash structure of the lithium-ion battery" title="Integrated crash structure of the lithium-ion battery">
     </a>
     <figcaption><h4>Integrated crash structure of the lithium-ion battery</h4></figcaption>
 </figure>
@@ -102,8 +102,8 @@ A cooling system of flat aluminum extruded sections divided uniformly into small
  Heat is exchanged between the cells and the cooling system beneath them via a thermally conductive gel pressed beneath each cell module. In what is a particularly efficient solution, the gel evenly transfers the waste heat to the coolant via the battery housing.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/cooling.png">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q8-e-tron/drivetrain/battery/cooling_st.png" class="img-fluid" alt="Cooling the lithium-ion battery via the chiller" title="Cooling the lithium-ion battery via the chiller">
+    <a href="https://media.evkx.net/ehga/models/q8-e-tron/drivetrain/battery/cooling.webp">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/drivetrain/battery/cooling_st.webp" class="img-fluid" alt="Cooling the lithium-ion battery via the chiller" title="Cooling the lithium-ion battery via the chiller">
     </a>
     <figcaption><h4>Cooling the lithium-ion battery via the chiller</h4></figcaption>
 </figure>
@@ -111,8 +111,8 @@ A cooling system of flat aluminum extruded sections divided uniformly into small
 The battery and all of its parameters, such as charge status, power output, and thermal management, are managed by the external battery management controller (BMC). This is located in the occupant cell on the right A-pillar of the Audi e-tron. The BMC communicates both with the control units of the electric motors and the cell module controllers (CMC), each of which monitors the current, voltage, and temperature of the modules.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batteryjunctionbox.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/drivetrain/battery/batteryjunctionboxs.jpg" class="img-fluid" alt="Battery junction box" title="Battery junction box">
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/battery/batteryjunctionbox.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/battery/batteryjunctionboxs.webp" class="img-fluid" alt="Battery junction box" title="Battery junction box">
     </a>
     <figcaption><h4>Battery junction box</h4></figcaption>
 </figure>

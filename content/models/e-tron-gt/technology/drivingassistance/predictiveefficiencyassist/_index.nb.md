@@ -7,8 +7,8 @@ weight: 1
 
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/predictiveefficient.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/predictiveefficients.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/predictiveefficient.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/predictiveefficients.webp"
         class="img-fluid" alt="Effektivitetsassistent" title="Effektivitetsassistent">
     </a>
     <figcaption><h4>Effektivitetsassistent</h4></figcaption>
@@ -20,8 +20,8 @@ For å oppdage trafikkskilt og andre kjøretøy, bruker effektivitetsassistenten
 Føreren vises tilsvarende informasjon i instrumentgruppen eller i Audi virtual cockpit og head-up-displayet så snart det er fornuftig å ta foten av høyre pedal. Symboler for fartsgrenser, svinger, rundkjøringer, byer eller nedoverbakker som indikerer at sjåføren må bremse ned, vises på grunnlag av rutedata og gjenkjenning av trafikkskilt. Avhengig av modell pulserer gasspedalen også mot fotsålen til føreren – en klar indikasjon på å ta foten av gassen.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/efficientsymboletron.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/efficientsymboletrons.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/efficientsymboletron.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/efficientsymboletrons.webp"
         class="img-fluid" alt="e-tron virtual cockpit with symbol showing to lift the right foot" title="e-tron virtual cockpit with symbol showing to lift the right foot">
     </a>
     <figcaption><h4>e-tron virtual cockpit with symbol showing to lift the right foot</h4></figcaption>

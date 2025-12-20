@@ -7,8 +7,8 @@ weight: 3
 <!-- markdownlint-disable MD033 -->
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/lights/headlights_1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/lights/headlights_1s.webp"
         class="img-fluid" alt="Hovedlykter" title="Hovedlykter">
     </a>
     <figcaption><h4>Hovedlykter</h4></figcaption>
@@ -27,8 +27,8 @@ Matrix LED-frontlyktene er også tilgjengelig som et alternativ; disse kommer so
 ## Matrix LED med laser
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/lights/headlights_2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/lights/headlights_2s.webp"
         class="img-fluid" alt="Hovedlykter med laser" title="Hovedlykter med laser">
     </a>
     <figcaption><h4>Hovedlykter med laser</h4></figcaption>
@@ -39,8 +39,8 @@ Toppen er matrise-LED-frontlyktene med Audi laserlys. I midten av frontlysene, m
 ## LED-baklys
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/lights/headlights_2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/lights/headlights_2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/lights/headlights_2s.webp"
         class="img-fluid" alt="Baklykter" title="Baklykter">
     </a>
     <figcaption><h4>Baklykter</h4></figcaption>

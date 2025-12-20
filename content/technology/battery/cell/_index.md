@@ -62,8 +62,8 @@ Cells for EV's come in 3 different housings
 A cylindrical cell consists of sheet-like anodes, separators, and cathodes that are sandwiched, rolled up, and packed into a cylinder-shaped can. This is the form factor that has been used for years in the market.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/cylinder4680.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/cylinder4680s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/battery/cell/cylinder4680.webp">
+        <img src="https://media.evkx.net/ehga/technology/battery/cell/cylinder4680s.webp"
         class="img-fluid" alt="Tesla 4680 cylinder battery" title="Tesla 4680 cylinder battery">
     </a>
     <figcaption><h4>Tesla 4680 cylinder battery</h4></figcaption>
@@ -78,8 +78,8 @@ Tesla is one of the few EV manufacturers that uses this.
 Li-ion cells with prismatic housing consist of large sheets of anodes, cathodes, and separators sandwiched, rolled up, and pressed to fit into a hard-plastic or metallic housing in cubic form. The electrodes can also be assembled by layer stacking rather than jelly rolling.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/samsungprismatic.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/samsungprismatics.jpg"
+    <a href="https://media.evkx.net/ehga/technology/battery/cell/samsungprismatic.webp">
+        <img src="https://media.evkx.net/ehga/technology/battery/cell/samsungprismatics.webp"
         class="img-fluid" alt="Samsung prismatic cells" title="Samsung prismatic cells">
     </a>
     <figcaption><h4>Samsung prismatic cells</h4></figcaption>
@@ -100,8 +100,8 @@ Swelling Pouch Cell Battery as a Result of Gas Generation During Charge and Disc
 The electrode and separator layers of a pouch cell are stacked rather than jelly-rolled. With pouch cells, the designer should allocate enough space for the cell swelling. A swelling of as much as 8% to 10% can occur after 500 cycles.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/lgchenx21.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/lgchenx21s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/battery/cell/lgchenx21.webp">
+        <img src="https://media.evkx.net/ehga/technology/battery/cell/lgchenx21s.webp"
         class="img-fluid" alt="LG Chem pouch cell" title="LG Chem pouch cell">
     </a>
     <figcaption><h4>LG Chem pouch cell</h4></figcaption>
@@ -129,8 +129,8 @@ The standardization will reduce the cell cost by 50%. 80% of the VW models will 
  The first Audi model will be using it in 2025 on the new [SSP-platform](../../bev-platforms/ssp/).
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/unifiedcell1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/unifiedcell1s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/battery/cell/unifiedcell1.webp">
+        <img src="https://media.evkx.net/ehga/technology/battery/cell/unifiedcell1s.webp"
         class="img-fluid" alt="Olaf Scholz with the first unified  cell" title="Olaf Scholz with the first unified cell">
     </a>
     <figcaption><h4>Olaf Scholz with the first unified  cell</h4></figcaption>
@@ -140,8 +140,8 @@ VW’s unified cell technology uses the same physical pack formats, just with di
 The unified cell dimensions are approximately 32 x 12 x 3 cm.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/unifiedcell1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/bev-platforms/ssp/unifiedcell1s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/bev-platforms/ssp/unifiedcell1.webp">
+        <img src="https://media.evkx.net/ehga/technology/bev-platforms/ssp/unifiedcell1s.webp"
         class="img-fluid" alt="VW Unified cell" title="VW Unified cell">
     </a>
     <figcaption><h4>VW Unified cell</h4></figcaption>
@@ -156,8 +156,8 @@ The cells will be produced on the [new Salzgiga](https://www.volkswagen-newsroom
 The ground breaking cermony for this factory was july 7. 2022.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/salzgiga1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/technology/battery/cell/salzgiga1s.jpg"
+    <a href="https://media.evkx.net/ehga/technology/battery/cell/salzgiga1.webp">
+        <img src="https://media.evkx.net/ehga/technology/battery/cell/salzgiga1s.webp"
         class="img-fluid" alt="Salzgiga factory" title="Salzgiga factory">
     </a>
     <figcaption><h4>Salzgiga factory</h4></figcaption>

@@ -8,8 +8,8 @@ weight: 1
 Et virtuelt kameraplassedring ovenfra vist i MMI-displayet gir føreren en oversikt over den generelle parkeringssituasjonen. Panoramautsikten foran og bak dekker en vinkel på nesten 180 grader og gir bedre sikt ved utkjøring av trange parkeringsplasser, gårdsinnganger og uoversiktlige veikryss. Ledelinjer i ryggekameravisningen gjør det lettere å parkere på loddrette plasser og å koble til tilhengere. Utsikten fra frontkameraet hjelper ved manøvrering, da det oppdager hindringer foran bilen. Systemet aktiveres automatisk når du kjører i revers eller ved å trykke på en knapp.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/360camera/camerarear.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/360camera/camerarears.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/drivingassistance/360camera/camerarear.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/drivingassistance/360camera/camerarears.webp"
         class="img-fluid" alt="Ryggekamera kombinert meed topp view" title="Ryggekamera kombinert meed topp view">
     </a>
     <figcaption><h4>Ryggekamera kombinert meed topp view</h4></figcaption>
@@ -18,16 +18,16 @@ Et virtuelt kameraplassedring ovenfra vist i MMI-displayet gir føreren en overs
 En tilleggsfunksjon for noen modeller er en virtuell 3D-visning. Føreren kan bruke berøringsskjermen til trinnløst å svinge og zoome bildet av bilen og de faktiske kjøretøyomgivelsene. Det er også utsyn til for- eller bakdekkene slik at sjåføren kan trekke bilen opp rett ved siden av fortauskanten.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/360camera/camera3d.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/360camera/camera3ds.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/drivingassistance/360camera/camera3d.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/drivingassistance/360camera/camera3ds.webp"
         class="img-fluid" alt="3D-visning kombinert med topp view" title="3D-visning kombinert med topp view">
     </a>
     <figcaption><h4>3D-visning kombinert med topp view</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/360camera/camera3d_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/technology/drivingassistance/360camera/camera3d_2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/drivingassistance/360camera/camera3d_2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/drivingassistance/360camera/camera3d_2s.webp"
         class="img-fluid" alt="3D-visning kombinert med topp view" title="3D-visning kombinert med topp view">
     </a>
     <figcaption><h4>3D-visning kombinert med topp view</h4></figcaption>

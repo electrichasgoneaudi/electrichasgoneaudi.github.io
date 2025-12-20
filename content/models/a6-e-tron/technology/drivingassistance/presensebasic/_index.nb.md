@@ -8,8 +8,8 @@ sectiontabs: "/nb/models/q6-e-tron/technology/"
 
 <!-- markdownlint-disable MD033 -->
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/presensebasic/presensebasic.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/presensebasic/presensebasics.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/presensebasic/presensebasic.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/presensebasic/presensebasics.webp"
         class="img-fluid" alt="Så snart Audi pre sense basic gjenkjenner en kritisk kjøretilstand, spenner systemet opp sikkerhetsbeltene til sjåføren og passasjeren foran." title="Så snart Audi pre sense basic gjenkjenner en kritisk kjøretilstand, spenner systemet opp sikkerhetsbeltene til sjåføren og passasjeren foran.">
     </a>
     <figcaption><h4>Så snart Audi pre sense basic gjenkjenner en kritisk kjøretilstand, spenner systemet opp sikkerhetsbeltene til sjåføren og passasjeren foran.</h4></figcaption>

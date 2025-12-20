@@ -11,8 +11,8 @@ weight: 2
 The standard instrumentation is a digital screen showing the main car data as range, speeds, battery status
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/multiinstrument.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/multiinstrument.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/virtualcockpit/multiinstrument.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/virtualcockpit/multiinstrument.webp"
         class="img-fluid" alt="Combination instrument!" title="Combination instrument!">
     </a>
     <figcaption><h4>Combination instrument!</h4></figcaption>
@@ -31,8 +31,8 @@ It includes traditional speed, battery state, power bar figures as well as infor
 Fixed indicators are shown along the lower edge; they show the outside temperature, time and odometer readings as well as warning and information symbols.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/mminavigationvirtualcockpit.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/mminavigationvirtualcockpits.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/virtualcockpit/mminavigationvirtualcockpit.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/virtualcockpit/mminavigationvirtualcockpits.webp"
         class="img-fluid" alt="Virtual Cockpit classic mode infotainment view" title="Virtual Cockpit classic mode infotainment view">
     </a>
     <figcaption><h4>Virtual Cockpit classic mode infotainment view</h4></figcaption>
@@ -52,8 +52,8 @@ It creates a large stage for the navigation map or for lists in the phone, radio
 With virtual cockpit you get two different modes. But with Virtual Cockpit plus you get an additional e-tron mode. This is part of the [MMI Navigation Pro package **PYH**](../../../optionguide/list/#infotainment)
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/virtualcockpitmodes.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/uiandoperations/virtualcockpit/virtualcockpitmodess.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/virtualcockpit/virtualcockpitmodes.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/virtualcockpit/virtualcockpitmodess.webp"
         class="img-fluid" alt="Virtual cockpit modes" title="Virtual cockpit modes">
     </a>
     <figcaption><h4>Virtual cockpit modes</h4></figcaption>

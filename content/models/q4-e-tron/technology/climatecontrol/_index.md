@@ -16,8 +16,8 @@ The system has the following characteristics.
 The controls are located just below the MMI screen.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/ac1zonecontrol.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/ac1zonecontrols.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/climatecontrol/ac1zonecontrol.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/climatecontrol/ac1zonecontrols.webp"
         class="img-fluid" alt="The AC has a separate control panel under the MMI screen" title="The AC has a separate control panel under the MMI screen">
     </a>
     <figcaption><h4>The AC has a separate control panel under the MMI screen</h4></figcaption>
@@ -30,8 +30,8 @@ As an option, you can order a 3-zone climate control system.
 In the front, this means that the passenger and driver can have individual set temperatures.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/ac3zonecontrol.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/ac3zonecontrols.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/climatecontrol/ac3zonecontrol.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/climatecontrol/ac3zonecontrols.webp"
         class="img-fluid" alt="3 zone climate control system with an individual temp for driver/passenger" title="3 zone climate control system with an individual temp for driver/passenger">
     </a>
     <figcaption><h4>3 zone climate control system with an individual temp for driver/passenger</h4></figcaption>
@@ -40,8 +40,8 @@ In the front, this means that the passenger and driver can have individual set t
 It also gives the passenger in the back seat a separate panel where they can adjust the rear zone.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/rearaccontrol.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/rearaccontrols.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/climatecontrol/rearaccontrol.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/climatecontrol/rearaccontrols.webp"
         class="img-fluid" alt="The AC has a separate control panel for the rear seats" title="The AC has a separate control panel for the rear seats">
     </a>
     <figcaption><h4>The AC has a separate control panel for the rear seats</h4></figcaption>
@@ -55,8 +55,8 @@ Audi e-tron is equipped with an auxiliary air conditioner that can be used when 
 from the MMI manually or set by a timer. One typical use case is when charging since the car needs to be turned off then and the main AC unit does not work.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/precondition.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/preconditions.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/climatecontrol/precondition.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/climatecontrol/preconditions.webp"
         class="img-fluid" alt="Pre-condition will run for 30 minutes and can be started from MMI or the myAudi app" title="Pre-condition will run for 30 minutes and can be started from MMI or the myAudi app">
     </a>
     <figcaption><h4>Pre-condition will run for 30 minutes and can be started from MMI or the myAudi app</h4></figcaption>
@@ -73,8 +73,8 @@ When using the pre-condition functionality you can also heat the steering wheel 
 The Auxiliary air conditioner with extra comfort is part of the [Clima and winter package](/models/q4-e-tron/optionguide/list/#equipment-packages) with option id **WNW**
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/conviencesettings.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/climatecontrol/conviencesettings.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/climatecontrol/conviencesettings.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/climatecontrol/conviencesettings.webp"
         class="img-fluid" alt="Comfort settings" title="Comfort settings">
     </a>
     <figcaption><h4>Comfort settings</h4></figcaption>

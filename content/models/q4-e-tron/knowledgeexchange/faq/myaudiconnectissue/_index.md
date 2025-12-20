@@ -8,7 +8,7 @@ hidden: true
 <!-- markdownlint-disable MD033 -->
 These operations could be start pre-climatization or changing charing target. Or just checking the car status.
 
-![Connect issue](https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/myaudiconnectissue/connectissue1.jpg "myAudi error message")
+![Connect issue](https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/myaudiconnectissue/connectissue1.webp "myAudi error message")
 
 There is not a common solution for this problem. And in many cases, there is nothing you can do. But here are some of the most common issues and solutions
 

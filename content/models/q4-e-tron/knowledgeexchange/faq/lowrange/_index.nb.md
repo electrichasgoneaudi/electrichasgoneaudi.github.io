@@ -42,8 +42,8 @@ Eiere reagerer vanligvis når deres Audi Q4 e-tron estimerte rekkevidde er mye l
 Nedenfor ser du noen eksempler på rekkevide lagt ut av brukere i ulike grupper på sosiale medium.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/lowrange/lowrangeexample.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/lowrange/lowrangeexamples.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/lowrange/lowrangeexample.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/lowrange/lowrangeexamples.webp"
         class="img-fluid" alt="Eksempel på rapportert rekkevidde" title="Eksempel på rapportert rekkevidde">
     </a>
     <figcaption><h4>Eksempel på rapportert rekkevidde</h4></figcaption>
@@ -60,8 +60,8 @@ Områdeindikatoren baserer rekkevidden på følgende data
 Så anta at du har en Audi Q4 e-tron 50 med 76,6 kWh batteri og at du har ladet den til 100 % og den siste turen din var denne
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/lowrange/triphistory.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/knowledgeexchange/faq/lowrange/triphistory.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/lowrange/triphistory.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/lowrange/triphistory.webp"
         class="img-fluid" alt="Triphistory" title="Triphistory">
     </a>
     <figcaption><h4>Triphistory</h4></figcaption>

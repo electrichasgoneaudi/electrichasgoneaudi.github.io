@@ -22,8 +22,8 @@ The steering wheel also supports the system, sensing if the driver holds the ste
 You enable the Adaptive cruise assist by pressing the set speed button on the end of the cruise control stalk to follow the current speed or pulling the cruise control stalk to resume the previous set speed.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/cruisecontrol.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/cruisecontrols.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/cruisecontrol.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/cruisecontrols.webp"
         class="img-fluid" alt="The Audi Q4 e-tron cruise control handle controls the function, including the distance to the car in front."
         title="The Audi Q4 e-tron cruise control handle controls the function, including the distance to the car in front.">
     </a>
@@ -36,8 +36,8 @@ You can also control the distance to the car in front of you from the cruise con
 The distance can be controlled from approx 1 to 3.6 seconds in 5 different steps. The virtual cockpit and the optional head-up display show the distance set.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/headupdistance.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/headupdistances.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/headupdistance.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/headupdistances.webp"
         class="img-fluid" alt="Head-up display with distance line" title="Head-up display with distance line">
     </a>
     <figcaption><h4>Head-up display with distance line</h4></figcaption>
@@ -46,8 +46,8 @@ The distance can be controlled from approx 1 to 3.6 seconds in 5 different steps
 You can turn off the lane guidance part of the adaptive cruise assist by pressing the end of the direction indicator stalk.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/activelaneassist/laneassistbutton.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/activelaneassist/laneassistbuttons.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/activelaneassist/laneassistbutton.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/activelaneassist/laneassistbuttons.webp"
         class="img-fluid" alt="Direction indicator stalk Audi Q4 e-tron with lane guidance button" title="Direction indicator stalk Audi Q4 e-tron with lane guidance button">
     </a>
     <figcaption><h4>Direction indicator stalk Audi Q4 e-tron with lane guidance button</h4></figcaption>
@@ -60,8 +60,8 @@ With predictive control, [efficiency assist](../predictiveefficiencyassist/) ada
 Once the system no longer detects any incidents, adaptive cruise control will accelerate back up to the last speed that the driver set.
 
  <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings1s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings1.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings1s.webp"
         class="img-fluid" alt="Adaptive Cruise assist settings" title="Adaptive Cruise assist settings">
     </a>
     <figcaption><h4>Adaptive Cruise assist settings</h4></figcaption>
@@ -78,8 +78,8 @@ Thee are three options;
 - With tolerance
 
  <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings2.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/settings2s.webp"
         class="img-fluid" alt="Controlling speed in predictive controls" title="Controlling speed in predictive controls">
     </a>
     <figcaption><h4>Controlling speed in predictive controls</h4></figcaption>

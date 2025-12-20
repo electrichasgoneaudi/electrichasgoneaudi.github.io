@@ -18,16 +18,16 @@ i bagasjerommet.
 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/windows/privacywindows.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/windows/privacywindowss.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/windows/privacywindows.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/windows/privacywindowss.webp"
         class="img-fluid" alt="Privacy windows" title="Privacy windows">
     </a>
     <figcaption><h4>Privacy windows</h4></figcaption>
 </figure>
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/windows/paint_typhoongrey_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/exterior/windows/paint_typhoongrey_2s.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/windows/paint_typhoongrey_2.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/windows/paint_typhoongrey_2s.webp"
         class="img-fluid" alt="Privacy-glass på Audi Q4 e-tron i tyfongrå. Gjør bilen ekstra tøff" title="Privacy-glass på Audi Q4 e-tron i tyfongrå. Gjør bilen ekstra tøff">
     </a>
     <figcaption><h4>Privacy-glass på Audi Q4 e-tron i tyfongrå. Gjør bilen ekstra tøff</h4></figcaption>

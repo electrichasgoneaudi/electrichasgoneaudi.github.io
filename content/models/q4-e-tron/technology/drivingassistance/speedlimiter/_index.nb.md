@@ -8,8 +8,8 @@ weight: 1
 Når den forhåndsinnstilte grensen er nådd, struper kjøretøyet hastigheten forsiktig ned. Fartsgrensen overskrides ikke selv om føreren trykker mer på gasspedalen. Sjåføren kan imidlertid midlertidig overstyre grensen ved kick-down, og fartsbegrenseren kan når som helst deaktiveres helt fra rattstammen. Hastigheten som er forhåndsinnstilt vises i kombiinstrumentet.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/speedlimiter/speedlimiterhandle.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/q4-e-tron/technology/drivingassistance/speedlimiter/speedlimiterhandles.jpg"
+    <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/speedlimiter/speedlimiterhandle.webp">
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/drivingassistance/speedlimiter/speedlimiterhandles.webp"
         class="img-fluid" alt="Fartsbegrenseren kontrolleres fra toppen av cruisekontroll hendelen eller fra MMI." title="Fartsbegrenseren kontrolleres fra toppen av cruisekontroll hendelen eller fra MMI.">
     </a>
     <figcaption><h4>Fartsbegrenseren kontrolleres fra toppen av cruisekontroll hendelen eller fra MMI.</h4></figcaption>

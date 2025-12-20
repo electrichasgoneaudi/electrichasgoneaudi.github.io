@@ -10,8 +10,8 @@ The system uses data from the two radar sensors and the front camera for this pu
 First, a jolt is produced to warn the driver of the hazard. If the driver then actively avoids the obstacle, the assistant applies a slight steering torque that helps by correcting the driver’s steering input or helping to make a lane change. Models like the Audi e-tron use a specific braking of individual wheels – with it the vehicle is made to follow the computed course.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/collisionavoidanceassist/collisionavoidance.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron/technology/drivingassistance/collisionavoidanceassist/collisionavoidances.jpg"
+    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/collisionavoidanceassist/collisionavoidance.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/collisionavoidanceassist/collisionavoidances.webp"
         class="img-fluid" alt="Collision avoidance" title="Collision avoidance">
     </a>
     <figcaption><h4>Collision avoidance</h4></figcaption>

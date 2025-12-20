@@ -9,8 +9,8 @@ weight: 7
 The e-tron GT quattro comes as standard with steel disks with a diameter of 360 millimeters and six-piston calipers on the front axle.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/brakes/brakes2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/brakes/brakes2s.jpg" class="img-fluid" alt="Carbid brakes" title="Carbid brakes">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/brakes/brakes2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/brakes/brakes2s.webp" class="img-fluid" alt="Carbid brakes" title="Carbid brakes">
     </a>
     <figcaption><h4>Carbid brakes</h4></figcaption>
 </figure>
@@ -18,8 +18,8 @@ The e-tron GT quattro comes as standard with steel disks with a diameter of 360 
  The RS model is also fitted with six-piston calipers, which are available in red or orange as an option, and 410 millimeter (16.1 in) cast-iron disks with a tungsten carbide coating (optional in the e-tron GT quattro ). This Audi carbide brake system increases the braking performance and reduces wear and therefore brake dust. At the same time it prevents flash rust, a typical phenomenon seen in many electric cars that do not use their wheel brakes very often. 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/brakes/brakes1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/models/e-tron-gt/drivetrain/brakes/brakes1s.jpg" class="img-fluid" alt="Ceramic brakes" title="Ceramic brakes">
+    <a href="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/brakes/brakes1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/brakes/brakes1s.webp" class="img-fluid" alt="Ceramic brakes" title="Ceramic brakes">
     </a>
     <figcaption><h4>Ceramic brakes</h4></figcaption>
 </figure>

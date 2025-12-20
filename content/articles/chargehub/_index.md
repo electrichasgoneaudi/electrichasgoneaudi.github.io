@@ -7,8 +7,8 @@ weight: 99999
 <!-- markdownlint-disable MD033 -->
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_1.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_1s.jpg" class="img-fluid" alt="Audi charging hub" title="Audi charging hub">
+    <a href="https://media.evkx.net/ehga/articles/chargehub/chargehub_1.webp">
+        <img src="https://media.evkx.net/ehga/articles/chargehub/chargehub_1s.webp" class="img-fluid" alt="Audi charging hub" title="Audi charging hub">
     </a>
     <figcaption><h4>Audi charging hub</h4></figcaption>
 </figure>
@@ -18,8 +18,8 @@ weight: 99999
 With the pilot location, Audi is road-testing its new charging concept for the first time. “We want to use it to test flexible and premium-oriented quick-charging infrastructure in urban space,” says Ralph Hollmig, Audi charging hub project manager. “We’re going where our customers don’t necessarily wake up in the morning with a fully charged electric car and at the same time thinking about increasing charging demand in the future.”
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_2.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_2s.jpg" class="img-fluid" alt="Audi charging hub" title="Audi charging hub">
+    <a href="https://media.evkx.net/ehga/articles/chargehub/chargehub_2.webp">
+        <img src="https://media.evkx.net/ehga/articles/chargehub/chargehub_2s.webp" class="img-fluid" alt="Audi charging hub" title="Audi charging hub">
     </a>
     <figcaption><h4>Audi charging hub</h4></figcaption>
 </figure>
@@ -29,8 +29,8 @@ With the pilot location, Audi is road-testing its new charging concept for the f
 Cubes are the foundation of the Audi charging hub. The flexible container cubes can be assembled and disassembled again in existing areas in a few days. The cubes provide two fast-charging stations for each unit and can be combined in various constellations. Used and processed lithium ion batteries function as energy storage systems – what are known as second-life batteries taken from dismantled development vehicles. That reduces costs and resources. This makes complex infrastructure with high-voltage power lines and expensive transformers as unnecessary as time-consuming planning procedures. The Audi charging hub's battery-storage solution will bring quick-charging infrastructure where the electric grid is not enough.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_3.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_3s.jpg" class="img-fluid" alt="Audi charging hub" title="Audi charging hub">
+    <a href="https://media.evkx.net/ehga/articles/chargehub/chargehub_3.webp">
+        <img src="https://media.evkx.net/ehga/articles/chargehub/chargehub_3s.webp" class="img-fluid" alt="Audi charging hub" title="Audi charging hub">
     </a>
     <figcaption><h4>Audi charging hub</h4></figcaption>
 </figure>
@@ -48,8 +48,8 @@ Currently, anyone who chooses to use the high-power charging stations at the Aud
 Audi customers can use the new reservation function in the myAudi app: they can easily book one of the six charging areas. 
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_6.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_6s.jpg" class="img-fluid" alt="Audi charging hub" title="Audi charging hub">
+    <a href="https://media.evkx.net/ehga/articles/chargehub/chargehub_6.webp">
+        <img src="https://media.evkx.net/ehga/articles/chargehub/chargehub_6s.webp" class="img-fluid" alt="Audi charging hub" title="Audi charging hub">
     </a>
     <figcaption><h4>Audi charging hub reservation</h4></figcaption>
 </figure>
@@ -62,8 +62,8 @@ Charging itself is quick and uncomplicated. With Plug and Charge (PnC), it is ev
 The tests that are starting in Nuremberg focus on the new reservation function, customers’ expectations of a premium charging experience, and technical aspects like the requirements for modern battery storage systems. Audi also wants to determine which times of day the facility is particularly frequently used. The goal is to establish the Audi charging hub with appropriate added value for customers. To that end, Audi is offering additional attractive services on-site beyond charging electric cars: an exchange station for electric bike batteries, an electric scooter lending service, information about various Audi products, as well as test drives in the [Audi Q4 e-tron](../../models/q4-e-tron/) and [Audi RS e-tron GT](../../models/e-tron-gt), supervised by Audi experts. Additionally, Audi offers a just-in-time delivery service for food, an upscale automat, and mobile car care.
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_4.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_4s.jpg" class="img-fluid" alt="Audi charging hub" title="Audi charging hub">
+    <a href="https://media.evkx.net/ehga/articles/chargehub/chargehub_4.webp">
+        <img src="https://media.evkx.net/ehga/articles/chargehub/chargehub_4s.webp" class="img-fluid" alt="Audi charging hub" title="Audi charging hub">
     </a>
     <figcaption><h4>Audi charging hub lounge</h4></figcaption>
 </figure>
@@ -74,8 +74,8 @@ Service staff look after customers In the roughly 200 square meter (2,153 sq. ft
 During the pilot project in Nuremberg, an employee will attend to visitors’ wishes between 10:00 AM and 7:00 PM. Six charging points and a lounge are available around the clock. “Our customers will share multiple benefits,” says project manager Hollmig. “With an exclusive reservation option, a lounge area, short idle time thanks to high charging capacity, and a novel swivel arm to simplify handling the charging cable.”
 
 <figure>
-    <a href="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_5.jpg">
-        <img src="https://media.electrichasgoneaudi.net/multimedia/articles/chargehub/chargehub_5s.jpg" class="img-fluid" alt="Audi charging hub" title="Audi charging hub">
+    <a href="https://media.evkx.net/ehga/articles/chargehub/chargehub_5.webp">
+        <img src="https://media.evkx.net/ehga/articles/chargehub/chargehub_5s.webp" class="img-fluid" alt="Audi charging hub" title="Audi charging hub">
     </a>
     <figcaption><h4>Audi charging hub lounge</h4></figcaption>
 </figure>
