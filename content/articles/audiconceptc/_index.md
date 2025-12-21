@@ -78,3 +78,6 @@ The Audi Concept C confidently continues this legacy—reinterpreting it for the
 ## A Trailblazer for Audi’s Future
 
 The Audi Concept C represents more than a single concept vehicle. It marks the beginning of a **new design era** defined by clarity, technical precision, intelligence, and emotion. As a preview of a future production model, it will influence Audi’s design direction well beyond the sports
+
+
+{{< gallery images="articles/audiconceptc/exterior_1_st.webp|Audi Concept C|4000|2666,models/q6-e-tron/variants/variants_2_st.webp|Q6 e-tron SUV|1920|1080,models/a6-e-tron/variants/variants_1_st.webp|A6 e-tron Sportback|1920|1080,models/a6-e-tron/variants/variants_2_st.webp|A6 e-tron Avant|1920|1080,models/e-tron-gt/variants/variants_1_st.webp|e-tron GT|1920|1080,models/e-tron-gt/variants/variants_2_st.webp|RS e-tron GT|1920|1080,models/q8-e-tron/variants/variants_1_st.webp|Q8 e-tron|1920|1080,models/q8-e-tron/variants/variants_2_st.webp|Q8 Sportback e-tron|1920|1080,models/q4-e-tron/variants/variants_1_st.webp|Q4 e-tron|1920|1080" >}}

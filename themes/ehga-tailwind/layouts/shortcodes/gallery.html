@@ -1,0 +1,73 @@
+{{- $imageString := .Get "images" -}}
+{{- $cols := .Get "cols" | default "3" -}}
+{{- $random := delimit (shuffle (split (md5 .Position) "" )) "" -}}
+
+<div class="pswp-gallery" id="gallery--{{$random}}">
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-{{ $cols }} gap-4 mb-6">
+        {{- $imageList := split $imageString "," -}}
+        {{- range $imageList -}}
+            {{- $item := . | strings.TrimSpace -}}
+            {{- if $item -}}
+                {{- $parts := split $item "|" -}}
+                {{- if ge (len $parts) 1 -}}
+                    {{- $thumb := index $parts 0 | strings.TrimSpace -}}
+                    {{- $title := "" -}}
+                    {{- $width := "800" -}}
+                    {{- $height := "600" -}}
+                    {{- if ge (len $parts) 2 -}}
+                        {{- $title = index $parts 1 | strings.TrimSpace -}}
+                    {{- end -}}
+                    {{- if ge (len $parts) 3 -}}
+                        {{- $width = index $parts 2 | strings.TrimSpace -}}
+                    {{- end -}}
+                    {{- if ge (len $parts) 4 -}}
+                        {{- $height = index $parts 3 | strings.TrimSpace -}}
+                    {{- end -}}
+                    {{- if $thumb -}}
+                        {{- $url := $thumb | replaceRE "_st." "." -}}
+                        {{- $thumbUrl := $thumb -}}
+                        {{- $fullUrl := $url -}}
+                        {{- if not (hasPrefix $thumb "http") -}}
+                            {{- $thumbUrl = printf "https://media.evkx.net/ehga/%s" $thumb -}}
+                            {{- $fullUrl = printf "https://media.evkx.net/ehga/%s" $url -}}
+                        {{- end -}}
+        <div class="aspect-square overflow-hidden rounded-lg bg-gray-100 hover:shadow-lg transition-shadow duration-300">
+            <a href="{{ $fullUrl }}" 
+               data-pswp-width="{{ $width }}" 
+               data-pswp-height="{{ $height }}"
+               data-cropped="true"
+               class="block w-full h-full">
+                <img src="{{ $thumbUrl }}" 
+                     class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" 
+                     alt="{{ $title }}" 
+                     title="{{ $title }}"
+                     loading="lazy">
+            </a>
+        </div>
+                    {{- end -}}
+                {{- end -}}
+            {{- end -}}
+        {{- end -}}
+    </div>
+</div>
+
+<script type="module">
+    import PhotoSwipeLightbox from '/js/photoswipe-lightbox.esm.js';
+    
+    // Check if lightbox already exists for this gallery to prevent duplicates
+    const galleryId = 'gallery--{{$random}}';
+    if (!window.photoswipeGalleries) {
+        window.photoswipeGalleries = new Set();
+    }
+    
+    if (!window.photoswipeGalleries.has(galleryId)) {
+        const lightbox = new PhotoSwipeLightbox({
+            gallery: '#' + galleryId,
+            children: 'a',
+            pswpModule: () => import('/js/photoswipe.esm.js')
+        });
+        
+        lightbox.init();
+        window.photoswipeGalleries.add(galleryId);
+    }
+</script>
