@@ -1534,6 +1534,11 @@ video {
   background-color: rgb(204 251 241 / var(--tw-bg-opacity, 1));
 }
 
+.bg-cyan-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(207 250 254 / var(--tw-bg-opacity, 1));
+}
+
 .bg-opacity-100 {
   --tw-bg-opacity: 1;
 }
@@ -1627,6 +1632,10 @@ video {
 
 .p-8 {
   padding: 2rem;
+}
+
+.p-5 {
+  padding: 1.25rem;
 }
 
 .px-1 {
@@ -1875,6 +1884,11 @@ video {
 .text-teal-800 {
   --tw-text-opacity: 1;
   color: rgb(17 94 89 / var(--tw-text-opacity, 1));
+}
+
+.text-cyan-800 {
+  --tw-text-opacity: 1;
+  color: rgb(21 94 117 / var(--tw-text-opacity, 1));
 }
 
 .underline {
