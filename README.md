@@ -65,7 +65,14 @@ npm run build
 
 ### Development Workflow
 
-1. **Start development servers:**
+1. **Start development servers (RECOMMENDED):**
+   ```bash
+   # Run both CSS watcher and Hugo server together
+   npm run dev
+   ```
+   This is the preferred method as it ensures Tailwind CSS rebuilds automatically when you add new classes.
+
+2. **Alternative - separate terminals:**
    ```bash
    # Terminal 1: Start CSS watcher
    npm run css-watch
@@ -74,24 +81,32 @@ npm run build
    hugo server
    ```
 
-   Or run both together:
-   ```bash
-   npm run dev
-   ```
-
-2. **Making CSS changes:**
+3. **Making CSS changes:**
    - Edit `src/input.css` for Tailwind utilities and custom components
    - Use `@apply` directives for component styling
    - Add/modify Tailwind classes in HTML templates
    - CSS will automatically rebuild when files change
 
-3. **Adding new Tailwind classes:**
+4. **Adding new Tailwind classes:**
    - Update `tailwind.config.js` for custom colors, fonts, or extensions
    - Restart CSS watcher after config changes:
      ```bash
      # Stop current watcher (Ctrl+C)
      npm run css-watch
      ```
+
+### ⚠️ Common Issue: Tailwind Arbitrary Values Not Working
+
+**Problem:** When using arbitrary values like `h-[500px]`, `md:h-[720px]`, or `bg-[#ff0000]`, the styles don't apply.
+
+**Cause:** Running `hugo server` alone doesn't trigger Tailwind CSS rebuilds. Tailwind needs to scan your HTML files and detect new classes to include them in the generated CSS.
+
+**Solutions:**
+1. **Always use `npm run dev`** instead of just `hugo server`
+2. Or run `npm run css-watch` in a separate terminal before making changes
+3. After adding arbitrary values, manually rebuild CSS with `npm run build-css-prod`
+
+**Alternative:** Use inline styles (`style="height: 720px;"`) for one-off values that don't need to be reusable.
 
 ### Important Notes
 
