@@ -1,6 +1,6 @@
 <div class="space-y-1">
   {{- $currentPage := . -}}
-  {{- if .Site.IsMultiLingual -}}
+  {{- if hugo.IsMultilingual -}}
     {{- range .AllTranslations -}}
   <a href="{{ .RelPermalink }}" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded transition-colors duration-200">
     <img src="/images/{{ .Language }}.svg" width="20" class="w-5 h-5 object-contain mr-3" alt="Language flag" /> 

@@ -12,7 +12,7 @@
     <link href="{{"css/custom.css" | relURL}}" rel="stylesheet">
     <script src="{{"js/custom.js" | relURL}}" defer></script>
     {{- $currentPage := . -}}
-    {{- if .Site.IsMultiLingual -}}
+    {{- if hugo.IsMultilingual -}}
     {{- range .AllTranslations -}}
     {{- if ne .Language.Lang $currentPage.Language.Lang }}
     <link rel="alternate" hreflang="{{ .Language }}" href="{{ .RelPermalink }}" />

@@ -10,7 +10,7 @@
   <div class="absolute right-0 z-50 mt-2 w-56 origin-top-right bg-white rounded-md shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none hidden" id="language-dropdown" role="menu" aria-orientation="vertical" aria-labelledby="language-menu-button">
     <div class="py-1" role="none">
       {{- $currentPage := . -}}
-      {{- if .Site.IsMultiLingual -}}
+      {{- if hugo.IsMultilingual -}}
         {{- range .AllTranslations -}}
         <a href="{{ .RelPermalink }}" class="flex items-center px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-gray-900" role="menuitem">
           <img src="/images/{{ .Language }}.svg" width="20" class="w-5 h-5 object-contain mr-2" alt="Language flag" /> 
