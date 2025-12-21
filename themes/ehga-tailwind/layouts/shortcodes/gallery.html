@@ -1,9 +1,9 @@
 {{- $imageString := .Get "images" -}}
-{{- $cols := .Get "cols" | default "3" -}}
+{{- $cols := .Get "cols" | default "4" -}}
 {{- $random := delimit (shuffle (split (md5 .Position) "" )) "" -}}
 
 <div class="pswp-gallery" id="gallery--{{$random}}">
-    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-{{ $cols }} gap-4 mb-6">
+    <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-{{ $cols }} gap-4 mb-6">
         {{- $imageList := split $imageString "," -}}
         {{- range $imageList -}}
             {{- $item := . | strings.TrimSpace -}}
