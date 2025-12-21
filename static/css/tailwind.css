@@ -1079,6 +1079,10 @@ video {
   height: 14rem;
 }
 
+.h-\[400px\] {
+  height: 400px;
+}
+
 .max-h-12 {
   max-height: 3rem;
 }
@@ -2155,6 +2159,10 @@ video {
     margin-right: 0px;
   }
 
+  .sm\:h-\[500px\] {
+    height: 500px;
+  }
+
   .sm\:grid-cols-2 {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -2188,6 +2196,10 @@ video {
 
   .md\:h-96 {
     height: 24rem;
+  }
+
+  .md\:h-\[600px\] {
+    height: 600px;
   }
 
   .md\:w-5\/12 {
@@ -2232,6 +2244,10 @@ video {
 
   .lg\:block {
     display: block;
+  }
+
+  .lg\:h-\[720px\] {
+    height: 720px;
   }
 
   .lg\:w-1\/2 {
