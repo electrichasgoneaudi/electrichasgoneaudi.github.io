@@ -1645,6 +1645,10 @@ video {
   --tw-gradient-to: #ecfdf5 var(--tw-gradient-to-position);
 }
 
+.to-pink-50 {
+  --tw-gradient-to: #fdf2f8 var(--tw-gradient-to-position);
+}
+
 .bg-cover {
   background-size: cover;
 }
