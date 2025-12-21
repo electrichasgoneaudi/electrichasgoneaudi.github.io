@@ -3,6 +3,7 @@ title: EV Battery technology
 linktitle: EV Batteries
 description: The battery in all-electric cars is one of the most important parts of an EV. This technology article goes through the different aspects. 
 weight: 2
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 

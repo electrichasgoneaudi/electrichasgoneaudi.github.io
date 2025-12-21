@@ -3,6 +3,7 @@ title: Elbilbatteri
 linktitle: Elbilbatteri
 description: Batteriet i helelektriske biler er en av de viktigste delene av en elbil. Denne teknologiartikkelen går gjennom de forskjellige aspektene. 
 weight: 2
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 Batterier er ingen ny teknologi. Allerede i 1802 ble det første batteriet klart for masseproduksjon laget, men det var ikke før 1992 at Li-ion-batterier ble brakt på markedet av Sony.

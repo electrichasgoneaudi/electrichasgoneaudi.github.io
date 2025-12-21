@@ -3,6 +3,7 @@ title: Audi BEV Platforms
 linktitle: BEV Platforms
 description: Audi has 4 different BEV Platforms (Battery Electric Vehicles) they currently use to build their all-electric models.
 weight: 2
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 

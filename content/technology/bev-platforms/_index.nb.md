@@ -3,6 +3,7 @@ title: Audi elbilplattformern
 linktitle: Elbilplattformer
 description: Audi har 4 forskjellige elbilplattformer som de benytter på sine modeller.
 weight: 2
+shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 <figure>
