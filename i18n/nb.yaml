@@ -147,11 +147,23 @@
 - id: frontpage-article-q8worldpremiere-synopsis
   translation: Audi Q8 e-tron er nå offisiell. Med forbedret rekkevidde med opptil 44 %, redusert forbruk med opptil 9 % og ny design. Lær alt om de seks variantene!
 
-- id: frontpage-article-q8production-title
-  translation: Audi Q8 e-tron produksjonsstart
+- id: frontpage-article-e7x-title
+  translation: AUDI E7X debuterer 2026
 
-- id: frontpage-article-q8production-synopsis
-  translation: Den 14. desember kjørte den første Audi Q8 e-tron av produksjonslinjen ved fabrikken i Brussel. Det markerer begynnelsen på en æra for den nye toppmodellen i Audis elektriske SUV-serie.
+- id: frontpage-article-e7x-synopsis
+  translation: Kina-eksklusiv helektrisk premium SUV utviklet med SAIC, debuterer på Auto China 2026 med banebrytende teknologi og lokaltilpassede funksjoner.
+
+- id: frontpage-article-audiconceptc-title
+  translation: Audi Concept C verdenspremiere
+
+- id: frontpage-article-audiconceptc-synopsis
+  translation: Audi Concept C introduserer en ny designfilosofi som kombinerer klarhet, følelser og intelligent teknologi i en veiregistrert elektrisk roadster.
+
+- id: frontpage-article-e5sportback-title
+  translation: Audi E5 Sportback for Kina
+
+- id: frontpage-article-e5sportback-synopsis
+  translation: Kina-eksklusiv elektrisk fastback utviklet med SAIC, med avansert digital teknologi, skreddersydd design og neste generasjons infotainment.
 
 - id: frontpage-article-activesphere-title
   translation: Audi activesphere concept verdenspremiere

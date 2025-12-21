@@ -2,12 +2,14 @@
 title: Audi Concept C
 linktitle: Audi Concept C
 description: The Audi Concept C is a road-approved electric sports car concept that introduces Audi’s new design philosophy, combining clarity, emotion, and intelligent technology.
-weight: 99990
+weight: 99986
 ---
 
 ## Audi Concept C: A New Era of Clarity, Emotion, and Electric Performance
 
 The **Audi Concept C** is the first tangible expression of Audi’s new design philosophy. Road-approved and fully electric, the two-seat roadster embodies four defining principles that will shape the brand’s future: **clarity, emotional appeal, technical excellence, and intelligent design**. More than a show car, the Concept C offers a realistic preview of how these values will soon be experienced from behind the wheel.
+
+{{< sitefiguresized thumb="articles/audiconceptc/exterior_1_st.webp" width="3000" height="1999" title="Audi Concept C" >}}
 
 The concept made its public debut in Milan in early September, followed shortly by an appearance at a dedicated stand at the IAA Mobility show in Munich. From the outset, the Audi Concept C impressed with its striking balance of precision and emotion—signaling a clear evolution of Audi’s design language.
 
@@ -48,6 +50,8 @@ The exterior color, *Titanium*, reflects warm technical elegance and draws inspi
 
 Inside, the Audi Concept C creates a refined and architectural environment that clearly positions the driver at the center while offering generous space for both occupants. Strong surfaces and precise geometric forms define the layout.
 
+{{< sitefiguresized thumb="articles/audiconceptc/interior_2_st.webp" width="3000" height="1657" title="Audi Concept C" >}}
+
 Physical controls machined from anodized aluminum deliver a high level of mechanical quality, reinforced by the unmistakable **“Audi click.”** The steering wheel forms the heart of the tactile experience, featuring a classic round shape, sophisticated haptic elements, and Audi rings made from real metal.
 
 The titanium-inspired color palette follows a tone-on-tone approach. Natural materials and indirect ambient lighting enhance the perception of solidity while creating a calm, premium atmosphere.
@@ -79,5 +83,4 @@ The Audi Concept C confidently continues this legacy—reinterpreting it for the
 
 The Audi Concept C represents more than a single concept vehicle. It marks the beginning of a **new design era** defined by clarity, technical precision, intelligence, and emotion. As a preview of a future production model, it will influence Audi’s design direction well beyond the sports
 
-
-{{< gallery images="articles/audiconceptc/exterior_1_st.webp|Audi Concept C|3000|1999,articles/audiconceptc/exterior_2_st.webp|Audi Concept C|3000|1996,articles/audiconceptc/exterior_3_st.webp|Audi Concept C|3000|1996,articles/audiconceptc/exterior_4_st.webp|Audi Concept C|3000|2853,articles/audiconceptc/exterior_5_st.webp|Audi Concept C|4000|2666,articles/audiconceptc/exterior_6_st.webp|Audi Concept C|4000|2666,articles/audiconceptc/exterior_7_st.webp|Audi Concept C|4000|2666,articles/audiconceptc/exterior_8_st.webp|Audi Concept C|4000|2666,articles/audiconceptc/exterior_9_st.webp|Audi Concept C|4000|2666,articles/audiconceptc/exterior_10_st.webp|Audi Concept C|4000|2666" >}}
+{{< gallery images="articles/audiconceptc/exterior_1_st.webp|Audi Concept C|3000|1999,articles/audiconceptc/exterior_2_st.webp|Audi Concept C|3000|1996,articles/audiconceptc/exterior_3_st.webp|Audi Concept C|3000|1996,articles/audiconceptc/exterior_4_st.webp|Audi Concept C|3000|2853,articles/audiconceptc/exterior_5_st.webp|Audi Concept C|3000|2853,articles/audiconceptc/exterior_6_st.webp|Audi Concept C|3000|1996,articles/audiconceptc/exterior_7_st.webp|Audi Concept C|3000|1996,articles/audiconceptc/exterior_8_st.webp|Audi Concept C|3000|1996,articles/audiconceptc/exterior_9_st.webp|Audi Concept C|3000|1996,articles/audiconceptc/exterior_10_st.webp|Audi Concept C|3000|1996,articles/audiconceptc/exterior_11_st.webp|Audi Concept C|3000|1996,articles/audiconceptc/exterior_12_st.webp|Audi Concept C|3000|1996" >}}

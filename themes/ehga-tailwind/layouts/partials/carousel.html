@@ -8,11 +8,37 @@
 			<button type="button" onclick="currentSlide(4)" class="w-3 h-3 rounded-full bg-white bg-opacity-60 hover:bg-opacity-100 transition-all carousel-dot" aria-label="Slide 4"></button>
 			<button type="button" onclick="currentSlide(5)" class="w-3 h-3 rounded-full bg-white bg-opacity-60 hover:bg-opacity-100 transition-all carousel-dot" aria-label="Slide 5"></button>
 			<button type="button" onclick="currentSlide(6)" class="w-3 h-3 rounded-full bg-white bg-opacity-60 hover:bg-opacity-100 transition-all carousel-dot" aria-label="Slide 6"></button>
-			<button type="button" onclick="currentSlide(7)" class="w-3 h-3 rounded-full bg-white bg-opacity-60 hover:bg-opacity-100 transition-all carousel-dot" aria-label="Slide 7"></button>
 		</div>
 		
 		<!-- Carousel slides -->
 		<div class="flex transition-transform duration-500 ease-in-out" id="carousel-wrapper">
+			<div class="w-full flex-shrink-0 relative carousel-slide">
+				<a href="{{ with .Site.GetPage `/models/e7x/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/ehga/models/e7x/exterior/exterior_1_st.webp" class="w-full h-[720px] object-cover" alt="AUDI E7X">
+				</a>
+				<div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black via-black/50 to-transparent text-white p-6">
+					<h4 class="text-xl md:text-2xl font-bold mb-2">{{T "frontpage-article-e7x-title"}}</h4>
+					<p class="hidden md:block text-sm md:text-base opacity-90">{{T "frontpage-article-e7x-synopsis"}}</p>
+				</div>
+			</div>
+			<div class="w-full flex-shrink-0 relative carousel-slide">
+				<a href="{{ with .Site.GetPage `/articles/audiconceptc/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/ehga/articles/audiconceptc/exterior_1_st.webp" class="w-full h-[720px] object-cover" alt="Audi Concept C">
+				</a>
+				<div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black via-black/50 to-transparent text-white p-6">
+					<h4 class="text-xl md:text-2xl font-bold mb-2">{{T "frontpage-article-audiconceptc-title"}}</h4>
+					<p class="hidden md:block text-sm md:text-base opacity-90">{{T "frontpage-article-audiconceptc-synopsis"}}</p>
+				</div>
+			</div>
+			<div class="w-full flex-shrink-0 relative carousel-slide">
+				<a href="{{ with .Site.GetPage `/models/e5/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/ehga/models/e5/exterior/exterior_2_st.webp" class="w-full h-[720px] object-cover" alt="Audi E5 Sportback">
+				</a>
+				<div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black via-black/50 to-transparent text-white p-6">
+					<h4 class="text-xl md:text-2xl font-bold mb-2">{{T "frontpage-article-e5sportback-title"}}</h4>
+					<p class="hidden md:block text-sm md:text-base opacity-90">{{T "frontpage-article-e5sportback-synopsis"}}</p>
+				</div>
+			</div>
 			<div class="w-full flex-shrink-0 relative carousel-slide">
 				<a href="{{ with .Site.GetPage `/articles/q6sportbackpremiere/`}}{{.RelPermalink}}{{end}}">
 					<img src="https://media.evkx.net/ehga/models/q6-e-tron/variants/variants_2_mt.webp" class="w-full h-[720px] object-cover" alt="Q6 Sportback Premiere">
@@ -47,33 +73,6 @@
 				<div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black via-black/50 to-transparent text-white p-6">
 					<h4 class="text-xl md:text-2xl font-bold mb-2">{{T "frontpage-article-q6worldpremiere-title"}}</h4>
 					<p class="hidden md:block text-sm md:text-base opacity-90">{{T "frontpage-article-q6worldpremiere-synopsis"}}</p>
-				</div>
-			</div>
-			<div class="w-full flex-shrink-0 relative carousel-slide">
-				<a href="{{ with .Site.GetPage `/models/q6-e-tron/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.evkx.net/ehga/models/q6-e-tron/wintertesting_1_mt.webp" class="w-full h-[720px] object-cover" alt="Q6 e-tron">
-				</a>
-				<div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black via-black/50 to-transparent text-white p-6">
-					<h4 class="text-xl md:text-2xl font-bold mb-2">{{T "frontpage-article-q6wintertesting-title"}}</h4>
-					<p class="hidden md:block text-sm md:text-base opacity-90">{{T "frontpage-article-q6wintertesting-synopsis"}}</p>
-				</div>
-			</div>
-			<div class="w-full flex-shrink-0 relative carousel-slide">
-				<a href="{{ with .Site.GetPage `/articles/activesphere/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.evkx.net/ehga/articles/activesphere/activesphere1_mt.webp" class="w-full h-[720px] object-cover" alt="Active Sphere">
-				</a>
-				<div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black via-black/50 to-transparent text-white p-6">
-					<h4 class="text-xl md:text-2xl font-bold mb-2">{{T "frontpage-article-activesphere-title"}}</h4>
-					<p class="hidden md:block text-sm md:text-base opacity-90">{{T "frontpage-article-activesphere-synopsis"}}</p>
-				</div>
-			</div>
-			<div class="w-full flex-shrink-0 relative carousel-slide">
-				<a href="{{ with .Site.GetPage `/articles/q8production/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.evkx.net/ehga/articles/q8production/production1_mt.webp" class="w-full h-[720px] object-cover" alt="Q8 Production">
-				</a>
-				<div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black via-black/50 to-transparent text-white p-6">
-					<h4 class="text-xl md:text-2xl font-bold mb-2">{{T "frontpage-article-q8production-title"}}</h4>
-					<p class="hidden md:block text-sm md:text-base opacity-90">{{T "frontpage-article-q8production-synopsis"}}</p>
 				</div>
 			</div>
 		</div>
