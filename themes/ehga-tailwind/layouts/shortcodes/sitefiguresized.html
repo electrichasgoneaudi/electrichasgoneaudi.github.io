@@ -16,12 +16,12 @@
     {{ end }}
     
     <div class="pswp-gallery" id="gallery--{{$random}}">
-        <a href="{{ $fullUrl }}" data-pswp-width="{{ .Get "width" }}" data-pswp-height="{{ .Get "height" }}" target="_blank">
-            <img src="{{ $thumbUrl }}" class="max-w-full h-auto" alt="{{ .Get "title" }}" title="{{ .Get "title" }}" width="{{ $desiredWidth }}" height="{{ $scaledHeight }}" target="_blank">
+        <a href="{{ $fullUrl }}" data-pswp-width="{{ .Get "width" }}" data-pswp-height="{{ .Get "height" }}" class="block">
+            <img src="{{ $thumbUrl }}" class="max-w-full h-auto" alt="{{ .Get "title" }}" title="{{ .Get "title" }}" width="{{ $desiredWidth }}" height="{{ $scaledHeight }}">
         </a>
     </div>
-   <figcaption>
-        <p class="text-lg text-center font-semibold">
+    <figcaption class="mt-2">
+        <p class="text-sm text-gray-600 text-center italic">
             {{ .Get "title" }}
         </p>
     </figcaption>
