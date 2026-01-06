@@ -10,7 +10,7 @@ Audi Q6 og andre biler på PPE platformen har automatisk forvarming av batteri.
 
 ## Hvorfor ønsker du å forvarme batterie ?
 
-Ja, hvorfor skal du forvarme batteriet? Forvarming av batteriet har kun **ett formål**, det er å skape en god temeratur før du begynner en hurtigladesesjon. Ellers er det helt unødvendig. Den optimale temperaturen er 25 grader og da vil du, og kun da, oppnå opp i mot 280 kW ladehastighet på en 800V lader i SoC området fra 10-30 %, så begynner det å falle.
+Ja, hvorfor skal du forvarme batteriet? Forvarming av batteriet har kun **ett formål**, det er å skape en god temeratur før du begynner en hurtigladesesjon (150 kW og oppover). Ellers er det helt unødvendig. Den optimale temperaturen er 25 grader og da vil du, og kun da, oppnå opp i mot 280 kW ladehastighet på en 800V lader i SoC området fra 10-30 %, så begynner det å falle.
 
 Om vinteren er det muligens ikke mulig å oppnå 280 kW heller, men det kan muligens andre gi erfaring på. Men med kaldt batteri vil det gå veldig sakte i starten at ladesesjonen. Etterhvert øker batteritemperaturen pga av ladeeffekten, og da vil det blir bedre fart på slutten, men tiden løper fort.
 
