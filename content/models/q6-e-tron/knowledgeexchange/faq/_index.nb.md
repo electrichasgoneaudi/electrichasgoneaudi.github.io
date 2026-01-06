@@ -52,4 +52,4 @@ weight: 30
 
 ## Hvordan iversette forvarming av batteri
 
-- [Les om hvordan du setter i gang forvarmin av batteri](battery-heating)
+- [Les om hvordan du setter i gang forvarming av batteri](battery-heating)
