@@ -49,3 +49,7 @@ weight: 30
 ## Gjenopprette mistede apps i MMI
 
 - [Les om hvordan du kan få tilbake apper uten å fabrikkinnstille bilen](recover-missing-apps)
+
+## Hvordan iversette forvarming av batteri
+
+- [Les om hvordan du setter i gang forvarmin av batteri](battery-heating)

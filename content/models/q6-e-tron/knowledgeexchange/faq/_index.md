@@ -29,6 +29,10 @@ weight: 30
 
 - [Read important articel about wheel change](wheel-change)
 
-## Gjenopprette mistede apps i MMI
+## Recover missing apps in MMI
 
 - [Read the guide to recover missing apps](recover-missing-apps)
+
+## How to configure battery prehating
+
+- [Read the guide to initiate battry preheating](battery-heating)
