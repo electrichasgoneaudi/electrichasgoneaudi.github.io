@@ -1,7 +1,7 @@
 ---
 title: Forvarming av batteri
 linktitle: Forvarming av batteri
-description: Hvordan styrer forvarming av batteri
+description: Hvordan styrer man forvarming av batteri
 weight: 30
 ---
 
