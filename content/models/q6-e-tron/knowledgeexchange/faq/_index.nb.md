@@ -50,6 +50,6 @@ weight: 30
 
 - [Les om hvordan du kan få tilbake apper uten å fabrikkinnstille bilen](recover-missing-apps)
 
-## Hvordan iversette forvarming av batteri
+## Hvordan iverksette forvarming av batteri
 
 - [Les om hvordan du setter i gang forvarming av batteri](battery-heating)

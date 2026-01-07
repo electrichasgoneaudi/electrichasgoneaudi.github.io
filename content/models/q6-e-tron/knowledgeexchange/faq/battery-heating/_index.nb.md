@@ -21,13 +21,15 @@ Det er imidlertid en viktig ting man må være klar over
 - Eneste måten er å legge inn et lademål i din navigasjon, enten manuelt eller godta den eller de ladestoppene som Audi Ladeplanlegger legger inn i ruta di.
 - Da vil bilen selv planlegge forvarming slik at den skal være på korrekt temperatur. Normalt er dette ca 25 grader celsius
 
-Det er altså veldig kritisk at man oppretter en navigasjonsrute som faktisk innebærer en ladesesjon/ladestopp. 
+Det er altså veldig kritisk at man oppretter en navigasjonsrute som **faktisk innebærer** en ladesesjon/ladestopp. 
 
 Det holder **IKKE** å bare legge inn en destinasjon som er en hurtiglader hvis dine ladeinnstillinger er slik at du ikke trenger å lade når du har nådd målet ditt.
 
-For eksempel dette, vil IKKE trigge forvarming, rett og slett fordi bilen ikke antar at du faktisk trenger å lade.
+For eksempel dette, vil **IKKE** trigge forvarming, rett og slett fordi bilen ikke antar at du faktisk trenger å lade.
 
 ![alt text](image-1.png)
+
+
 
 Så hvordan skal du da få bilen til å forvarme? Det er ikke så vanskelig egentlig, man må bare kjenne til triksene.
 
@@ -35,7 +37,7 @@ I bildet over var disse innstillingene satt:
 
 ![alt text](image-2.png)
 
-Hvis jeg derimot legger inn at jeg VIL ha et minimumsnivå ved ankomst målet, så vil ladeplaneggeren skjønne at vi faktisk må lade for å oppnå ditt mål. Så når jeg endrer til dette
+Hvis jeg derimot legger inn at jeg VIL ha et minimumsnivå ved ankomst målet, så vil ladeplaneggeren skjønne at det faktisk må lades for å oppnå ditt mål. Så når du endrer til dette
 
 ![alt text](image-3.png)
 
@@ -43,7 +45,7 @@ Så får jeg dette
 
 ![alt text](image-4.png)
 
-Og mens jeg satt og ventet på toget i dag, med rute over aktiv og bilen bare var parkert, så varmet batteriet seg fra 1 til 2 grader på ca 5 min, når det var -8,5 ute. Selv om jeg da var parkert.
+Praktisk eksempel: Mens jeg satt og ventet på toget i dag, med navigasjonsruten over aktiv og bilen bare var parkert, så varmet batteriet seg fra 1 til 2 grader på ca 5 min, når det var -8,5 ute. Selv om jeg da var parkert.
 
 ![alt text](image-7.png)
 
