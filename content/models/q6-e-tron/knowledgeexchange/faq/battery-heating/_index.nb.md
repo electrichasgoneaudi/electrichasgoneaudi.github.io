@@ -53,6 +53,10 @@ Praktisk eksempel: Mens jeg satt og ventet på toget i dag, med navigasjonsruten
 
 Det er helt opplagt at det hadde gitt bedre visuell formidling om det har være et forvarmingssymbol i batteribildet som kunne gi tilbakemelding om at forvarmingen er aktiv, men der er vi altså ikke ennå.
 
+## Praktisk test
+
+I løpet av kort tid vil det komme et nytt avsnitt her med noen tester av hva man kan forvente at temperatur og andre praktisk erfaringer om dette emnet.
+
 
 
 
