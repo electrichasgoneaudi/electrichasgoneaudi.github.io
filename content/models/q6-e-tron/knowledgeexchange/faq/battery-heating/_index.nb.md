@@ -54,9 +54,6 @@ Praktisk eksempel: Mens jeg satt og ventet på toget i dag, med navigasjonsruten
 Det er helt opplagt at det hadde gitt bedre visuell formidling om det har være et forvarmingssymbol i batteribildet som kunne gi tilbakemelding om at forvarmingen er aktiv, men der er vi altså ikke ennå.
 
 
-Og med et slikt oppsett vil bilen starte forvarming. Nå er dette eksemplet litt søkt, siden jeg la inn litt kort reise, og man skulle jo kanskje ønsket at det ikke ble lagt inn en mellomstopp, men dette er i grunnen et annet tema, og det er at bilen navigasjon og ruteplanlegger fremdeles er svært prematur og trenger mye overhaling før det blir denne bilens pris verdig.
-
-
 
 
 
