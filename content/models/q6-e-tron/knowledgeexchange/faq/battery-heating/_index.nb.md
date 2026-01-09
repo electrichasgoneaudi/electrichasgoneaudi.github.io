@@ -53,11 +53,11 @@ Praktisk eksempel: Mens jeg satt og ventet på toget i dag, med navigasjonsruten
 
 Det er helt opplagt at det hadde gitt bedre visuell formidling om det har være et forvarmingssymbol i batteribildet som kunne gi tilbakemelding om at forvarmingen er aktiv, men der er vi altså ikke ennå.
 
-## Praktisk test
+# Praktisk test
 
-I løpet av kort tid vil det komme et nytt avsnitt her med noen tester av hva man kan forvente at temperatur og andre praktisk erfaringer om dette emnet.
+I løpet av kort tid vil det komme et nytt avsnitt her med noen tester av hva man kan forvente at temperatur og andre praktisk erfaringer om dette emnet. Undertegnede har testet dette med en Audi SQ6 2025 modell produsert juli 2024
 
-### Brukerhistorier
+## Brukerhistorier
 
 ### Ladehastighet og temperatur, med og uten forvarming
 
@@ -126,9 +126,9 @@ Det kan være mulig at et trix er å legge inn en **ekstra** ladestasjonsstopp i
 
 ### Forvarming før bilturen starter
 
-Det har også vært 'ønsket' at man kan forvarme batteriet hvir man skal starte langturen med å hurtiglade umiddelbart etter man kjører hjemmefra.
+Det har også vært 'ønsket' at man kan forvarme batteriet hvis man skal starte langturen med å hurtiglade umiddelbart etter man kjører hjemmefra.
 
-Det er faktisk mulig ved hjelp av et lite 'trix', som jeg og har verifisert hjemme.
+Det er faktisk mulig ved hjelp av et lite 'trix', som jeg har verifisert hjemme.
 
 Slik gjør du om du vil forvarme før du kjører.
 
@@ -138,20 +138,20 @@ Slik gjør du om du vil forvarme før du kjører.
 
   ![alt text](image-18.png)
 
-  - min bil hadde stått ute med kaldt batteri før den ble kjørt inn i garasjen
+  - Min bil hadde stått ute med kaldt batteri før den ble kjørt inn i garasjen
 
   ![alt text](image-19.png)
-  - Slå på tenning og sett bilbeltet i holderen sin, mens du sitter i bilen
-  - slå av ventilasjon og hovedlys
+  - Slå på tenning og **sett bilbeltet i holderen sin**, mens du sitter i bilen
+  - Slå av ventilasjon og hovedlys
   - La nøkkel ligge i bilen og du kan gå inn og pakke de siste baggene før avreise
-  - Alt er 'av' men bilen forvarmer ...
+  - Alt er 'av', men bilen forvarmer ...
 
     ![alt text](image-21.png)
 
   - Etter 10 minutter hadde jeg gått fra -2 til +5 °C til en pris av 2 % SoC
 
     ![alt text](image-22.png)
-  - Vil betyr at ca 20-30 minutetr er nok til å gi en ganske god batteri temeperatur som vil gi deg en ganse rask og god start på en hurtigladingssesjon i nærheten.
+  - Vil betyr at ca 20-30 minutetr er nok til å gi en ganske god batteritemperatur som vil gi deg en ganske rask og god start på en hurtigladingssesjon i nærheten.
 
 
 
