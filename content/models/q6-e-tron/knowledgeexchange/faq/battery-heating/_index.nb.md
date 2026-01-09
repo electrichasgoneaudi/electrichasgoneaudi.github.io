@@ -79,11 +79,11 @@ La så inn et lademål til en tilfeldig hurtiglader i nærheten. Litt viktig at 
 
 ![alt text](image-10.png)
 
-Den korte initiell ladetesten ga meg et 1% SoC og 1 °C mer på batteriet
+Den korte initielle ladetesten ga meg et 1% SoC og 1 °C mer på batteriet
 
 ![alt text](image-11.png)
 
-Klokken var da 16:48. Jeg bare kjørte en en helt kort biltur og parkerte bilen, mens jeg satt i førsersetet og bare ventet.
+Klokken var da 16:48. Jeg bare kjørte en en helt kort biltur og parkerte bilen, mens jeg satt i førsersetet og bare ventet med tenningen på og sikkerhetsbeltet festet (simulering av en kjøretur).
 
 Kl 17.14 hadde jeg fått 10 °C til en 'pris' av 4 % SoC. Forenklet matematikk er da at det har vært brukt 4 kWh så lang på forvarming og 26 minutter.
 
