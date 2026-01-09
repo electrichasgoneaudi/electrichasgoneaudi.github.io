@@ -152,7 +152,7 @@ Slik gjør du om du vil forvarme før du kjører.
   - Etter 10 minutter hadde jeg gått fra -2 til +5 °C til en pris av 2 % SoC
 
     ![alt text](image-22.png)
-  - Vil betyr at ca 20-30 minutetr er nok til å gi en ganske god batteritemperatur som vil gi deg en ganske rask og god start på en hurtigladingssesjon i nærheten.
+  - Vil betyr at ca 20-30 minutter er nok til å gi en ganske god batteritemperatur som vil gi deg en ganske rask og god start på en hurtigladingssesjon i nærheten.
 
 
 
