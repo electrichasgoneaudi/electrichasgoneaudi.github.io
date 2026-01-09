@@ -119,7 +119,7 @@ Forvarming nytter. Og 15 grader hjelper godt. Jeg har ikke testet å forvarme me
 
 ### Forvarming og ekstrem temperatur
 
-Basert på en praktisk test fra en annen Q6 eier på Facebook som iverksatt forvarming i 16-20 minusgrader, opplevde at forvarmingen ikke klarte å heve mer enn til +15 °C. Dette kan komme av den lave temperaturen, eller at bilen iverksetter forvarming for sendt i forhold til utetemperaturen.
+Basert på en praktisk test fra en annen Q6 eier på Facebook som iverksatt forvarming i 16-20 minusgrader, opplevde at forvarmingen ikke klarte å heve mer enn til +15 °C. Dette kan komme av den lave temperaturen, eller at bilen iverksetter forvarming for sent i forhold til utetemperaturen.
 
 Avsnittet over viser jo at +15 °C utgjør en vesentlig forskjell, så det monner.
 
