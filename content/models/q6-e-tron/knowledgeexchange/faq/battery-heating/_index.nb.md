@@ -115,7 +115,7 @@ Jeg ladet kun 2 %, og det ga raskt temperatur stigning, tenker at forvarmingsele
 
 **Konklusjon** 
 
-Forvarming nytter. Og 15 grader hjelper godt. Jeg har ikke testet å forvarme mer. Prinsipper er godt forklar i avsnitett over og resultatet er tydelig.
+Forvarming nytter. Og 15 grader hjelper godt. Jeg har ikke testet å forvarme mer for å ev oppnå 25 °C . Prinsippet er godt forklart i avsnittet over og resultatet er tydelig.
 
 ### Forvarming og ekstrem temperatur
 
