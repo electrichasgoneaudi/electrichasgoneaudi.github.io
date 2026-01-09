@@ -123,7 +123,7 @@ Basert på en praktisk test fra en annen Q6 eier på Facebook som iverksatt forv
 
 Avsnittet over viser jo at +15 °C utgjør en vesentlig forskjell, så det monner.
 
-Det kan være mulig at et trix er å legge inn en **ekstra** ladestasjonsstopp i navigasjonen som er litt før den man egentlig har tenk å lade på, for å lure bilen til å starte forvarming tidligere og så bare kjøre forbi ev. slette den når man har nått fram til den og da håe at forvarmingen fortsetter fram til det **egentlige** ladestoppet. 
+Det kan være mulig at et trix er å legge inn en **ekstra** ladestasjonsstopp i navigasjonen som er litt før den man egentlig har tenk å lade på, for å lure bilen til å starte forvarming tidligere og så bare kjøre forbi ev. slette den når man har nådd fram til den og da håe at forvarmingen fortsetter fram til det **egentlige** ladestoppet. 
 
 ### Forvarming før bilturen starter
 
