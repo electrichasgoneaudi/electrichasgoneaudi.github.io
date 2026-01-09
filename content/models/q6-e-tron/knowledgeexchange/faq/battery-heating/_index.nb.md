@@ -85,7 +85,7 @@ Den korte initielle ladetesten ga meg et 1% SoC og 1 °C mer på batteriet
 
 Klokken var da 16:48. Jeg bare kjørte en en helt kort biltur og parkerte bilen, mens jeg satt i førsersetet og bare ventet med tenningen på og sikkerhetsbeltet festet (simulering av en kjøretur).
 
-Kl 17.14 hadde jeg fått 10 °C til en 'pris' av 4 % SoC. Forenklet matematikk er da at det har vært brukt 4 kWh så lang på forvarming og 26 minutter.
+Kl 17.14 hadde jeg fått 10 °C til en 'pris' av 4 % SoC. Forenklet matematikk er da at det har vært brukt 4 kWh så langt på forvarming og 26 minutter.
 
 Kl 17.30 hadde jeg kommet opp i 16 °C og 29 % SoC, dvs 7 % / 7 kWh forbrukt på forvarming.
 
@@ -99,7 +99,7 @@ Vel tilbake på UnoX er tallenes tale 28% /16 °C
 
 ![alt text](image-13.png)
 
-Plugger inn og ser jo at forvarming nytter, for å si det sånn. 150 kW nå. Man kan oppnå 3 ganger så rask ladehastighet altså
+Plugger inn og ser jo at forvarming nytter, for å si det sånn. Nesten 150 kW nå. Man kan oppnå opp til 3 ganger så rask ladehastighet altså
 
 ![alt text](image-14.png)
 
