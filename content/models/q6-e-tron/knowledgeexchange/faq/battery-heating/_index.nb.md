@@ -55,7 +55,7 @@ Det er helt opplagt at det hadde gitt bedre visuell formidling om det har være 
 
 # Praktisk test
 
-I løpet av kort tid vil det komme et nytt avsnitt her med noen tester av hva man kan forvente at temperatur og andre praktisk erfaringer om dette emnet. Undertegnede har testet dette med en Audi SQ6 2025 modell produsert juli 2024
+De neste avsnittene er tester av hva man kan forvente at temperatur og andre praktisk erfaringer om dette emnet. Undertegnede har testet dette med en Audi SQ6 2025 modell produsert juli 2024
 
 ## Brukerhistorier
 
