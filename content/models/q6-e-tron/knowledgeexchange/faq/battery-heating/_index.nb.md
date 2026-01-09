@@ -91,7 +91,7 @@ Kl 17.30 hadde jeg kommet opp i 16 °C og 29 % SoC, dvs 7 % / 7 kWh forbrukt på
 
 Jeg valgte da å kjøre tilbake til UnoX laderen og lade på nytt.
 
-En liten kuriositet som jeg mistenker kom med KD2 oppdateringen er at når kalkulerer altså navigasjonen at  bilen skal ruke 7 % SoC på å kjøre de 2 km til UnoX. Det stemmer nok ikke ...
+En liten kuriositet som jeg mistenker kom med KD2 oppdateringen er at når kalkulerer altså navigasjonen at  bilen skal bruke 7 % SoC på å kjøre de 2 km til UnoX. Det stemmer nok ikke ...
 
 ![alt text](image-12.png)
 
