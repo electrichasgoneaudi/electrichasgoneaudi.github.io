@@ -67,7 +67,7 @@ Utført test for å finne ut hastighetsforskjell med og uten forvarming.
 
 **Utetemp** : -11 °C
 
-Batteri temp 1 °C, SoC 35 %
+**Batteritemperatur** :  1 °C, SoC 35 %
 
 ![alt text](image-8.png)
 
