@@ -63,14 +63,15 @@ De neste avsnittene er tester av hva man kan forvente at temperatur og andre pra
 
 Utført test for å finne ut hastighetsforskjell med og uten forvarming.
 
-Lader : UnoX 300 kW (800V)
-Ute temp : -11 °C
+**Lader** : UnoX 300 kW (800V)
 
-Batteri temp 1 SoC 35 %
+**Utetemp** : -11 °C
+
+Batteri temp 1 °C, SoC 35 %
 
 ![alt text](image-8.png)
 
-Oppnådd hastighet : 51 kW
+Oppnådd hastighet med kaldt batteri: **51 kW**
 
 ![alt text](image-9.png)
 
@@ -98,7 +99,7 @@ Vel tilbake på UnoX er tallenes tale 28% /16 °C
 
 ![alt text](image-13.png)
 
-Plugger inn og ser jo at forvarming nytter, for å si det sånn. Man kan oppnå  3 ganger så rask ladehastighet altså
+Plugger inn og ser jo at forvarming nytter, for å si det sånn. 150 kW nå. Man kan oppnå 3 ganger så rask ladehastighet altså
 
 ![alt text](image-14.png)
 
