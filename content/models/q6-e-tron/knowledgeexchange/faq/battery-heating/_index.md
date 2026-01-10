@@ -10,14 +10,14 @@ Audi Q6 and other cars on the PPE platform have automatic battery preheating.
 
 ## Why do you want to preheat the battery?
 
-Yes, why should you preheat the battery? Preheating the battery has only **one purpose**, which is to create a good temperature before you start a fast charging session (150 kW and up). Otherwise, it is completely unnecessary. The optimal temperature is about 25 degrees and then you will, and only then, achieve up to 280 kW charging speed on an 800V charger in the SoC range from 10-30%, then it starts to drop.
+So, why should you preheat the battery? Preheating the battery has only **one purpose**, which is to create a good temperature before you start a fast charging session (150 kW and up). Otherwise, it is completely unnecessary. The optimal temperature is about 25 °C and then you will, and only then, achieve up to 280 kW charging speed on an 800V charger in the SoC range from 10-30%, then it starts to drop.
 
 In winter, it may not be possible to achieve 280 kW either, but others may be able to provide experience on that. But with a cold battery, the charging session will be very slow at the start. Gradually, the battery temperature increases due to the charging effect and the heat it produces, and then there will be better speed at the end, but time flies.
 
-Even in the fall with temperatures down to 0 degrees, preheating will be necessary to get the really big 200+ kW speeds.
+Even in the fall with temperatures down to 0 degrees, preheating will be necessary to get the really fast 200+ kW speeds.
 
-However, there is one important thing to be aware of
-- You cannot turn on this preheating manually. This may come in later models or updates
+However, there is some important things to be aware of
+- You cannot turn on the preheating manually. This may come in later models or updates
 - The only way is to enter a charging destination in your navigation, either manually or accept the charging stop(s) that Audi Charging Planner adds to your route.
 - The car will then plan preheating itself so that it is at the correct temperature. Normally this is about 25 degrees Celsius
 
@@ -55,7 +55,7 @@ It is quite obvious that it would have provided better visual communication if t
 
 The next sections are tests of what one can expect that temperature and other practical experiences on this topic. The undersigned has tested this with an Audi SQ6 2025 model manufactured July 2024
 
-## User Stories
+## Usecases
 
 ### Charging speed and temperature, with and without preheating
 
@@ -103,4 +103,55 @@ Plugging in and seeing that preheating is useful, so to speak. Almost 150 kW now
 
 For your information, both charging sessions took place while another car was plugged in, so it's possible that different numbers would have come up if I had the charger all by myself.
 
-That's my car on the right in the picture below. The other was a 400V architecture car, which was probably going to stand there for a while.
+That's my car on the right in the picture below. The other was a 400V architecture car, which was probably going to be there for a while ...
+![alt text](image-15.png)
+![alt text](image-16.png)
+
+I only charged 2%, and it quickly gave a temperature rise, I think the preheating elements in the battery helped a little.
+
+![alt text](image-17.png)
+
+**Conclusion**
+
+Preheating is useful. And 15 degrees helps a lot. I haven't tested preheating more to possibly achieve 25 °C. The principle is well explained in the section above and the result is clear.
+
+### Preheating and extreme temperatures
+
+Based on a practical test from another Q6 owner on Facebook who implemented preheating in 16-20 degrees below zero, experienced that the preheating was unable to raise more than +15 °C. This could be due to the low temperature, or the car starting preheating too late in relation to the outside temperature.
+
+The section above shows that +15 °C makes a significant difference, so it makes sense.
+
+It may be possible that a trick is to enter an **extra** charging station stop in the navigation that is a little before the one you actually plan to charge at, to trick the car into starting preheating earlier and then just drive past or delete it when you have reached it and then hope that the preheating continues until the **actual** charging stop.
+
+### Preheating before the car trip starts
+
+It has also been 'desired' that you can preheat the battery if you are going to start a long trip by fast charging immediately after driving from home.
+
+It is actually possible with the help of a little 'trick', which I have verified at home.
+
+Here's how you do it if you want to preheat before driving.
+
+- Bring the car key in the car
+- Enter a charging target in the navigation that initiates charging
+e.g. like this:
+
+![alt text](image-18.png)
+
+- My car had been outside with a cold battery before it was driven into the garage
+
+![alt text](image-19.png)
+- Turn on the ignition and **put the seat belt in its holder**, while you are sitting in the car
+- Turn off the ventilation and headlights
+- Leave the key in the car and you can go in and pack the last bags before departure
+- Everything is 'off', but the car is preheating ...
+
+![alt text](image-21.png)
+
+- After 10 minutes I had gone from -2 to +5 °C at a cost of 2% SoC
+
+![alt text](image-22.png)
+- Means that about 20-30 minutes is enough to give a pretty good battery temperature that will give you a pretty quick and good start to a fast charging session nearby.
+
+### Preheating has a 'price'
+
+As the paragraphs above show, it seems that you have to expect a SoC loss of 7-10% for a full preheat in reasonably cold conditions, so there is always an assessment to be made in relation to charging time. For example, if you can have a snack while charging, then maybe the battery temperature is not so important after all?

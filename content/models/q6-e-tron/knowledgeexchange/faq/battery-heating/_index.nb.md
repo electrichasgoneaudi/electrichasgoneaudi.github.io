@@ -16,7 +16,7 @@ Om vinteren er det muligens ikke mulig å oppnå 280 kW heller, men det kan muli
 
 Selv om høsten med temperaturer ned mot 0  grader, vil forvarming være nødvendig for å få de helt store 200+ kW hastighetene.
 
-Det er imidlertid en viktig ting man må være klar over
+Det er imidlertid noen viktige ting man må være klar over
 - Man kan ikke slå på denne forvarmingen manuelt. Dette kan komme i senere modeller eller oppdateringer
 - Eneste måten er å legge inn et lademål i din navigasjon, enten manuelt eller godta den eller de ladestoppene som Audi Ladeplanlegger legger inn i ruta di.
 - Da vil bilen selv planlegge forvarming slik at den skal være på korrekt temperatur. Normalt er dette ca 25 grader celsius
