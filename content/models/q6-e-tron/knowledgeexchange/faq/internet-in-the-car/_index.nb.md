@@ -86,7 +86,22 @@ For å se status på forbruket ditt kan du bruke MMI i bilen din, eller du kan s
 Bare trykk på valget og du kommer til din statusside og med linker til å kjøpe og administrere dine datapakker :
 
 
-Her skal du trykke på 'Etterbestill datavolum', men dessverre pr 24.11.2024 fungerer dette ikke. Dette er meldt til Digital Support og denne guiden vil bli oppdatert når det fungerer igjen
+Her skal du trykke på 'Etterbestill datavolum', men dessverre pr 24.11.2024 fungerer dette ikke. 
+
+# Oppdatering januar 2026
+
+Inntil videre vil du automatisk få en ekstra goodwill pakke på 3 GB når dine opprinnelige 3 GD med data er brukt opp. Dette skjer automatisk og du vil motta en e-post fra Vodafone om dette.
+
+Eksempel på denne e-posten er :
+
+![alt text](image-11.png)
+
+Slik vil det se ut i bilen, her mottar man mer data **før** de gamle er brukt opp.
+
+![alt text](image-12.png)
+
+
+Dette valget fungerer altså ikke inntil videre.
 
 ![](image-7.png)
 
