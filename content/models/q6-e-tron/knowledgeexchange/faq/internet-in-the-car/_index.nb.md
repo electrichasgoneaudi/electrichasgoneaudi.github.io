@@ -88,7 +88,7 @@ Bare trykk på valget og du kommer til din statusside og med linker til å kjøp
 
 Her skal du trykke på 'Etterbestill datavolum', men dessverre pr 24.11.2024 fungerer dette ikke. 
 
-# Oppdatering januar 2026
+### Oppdatering januar 2026
 
 Inntil videre vil du automatisk få en ekstra goodwill pakke på 3 GB når dine opprinnelige 3 GD med data er brukt opp. Dette skjer automatisk og du vil motta en e-post fra Vodafone om dette.
 
