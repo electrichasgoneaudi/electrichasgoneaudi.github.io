@@ -15,3 +15,4 @@ Vanlige etiketter inkluderer:
 
 * [Programvare](https://github.com/electrichasgoneaudi/q6-e-tron/issues?q=is%3Aissue+is%3Aopen+label%3ASoftware)
 * [Feil](https://github.com/electrichasgoneaudi/q6-e-tron/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+* [myAudi App 5.x](https://github.com/electrichasgoneaudi/q6-e-tron/issues?q=state%3Aopen%20label%3A%22my%20Audi%205.x%20App%22)
