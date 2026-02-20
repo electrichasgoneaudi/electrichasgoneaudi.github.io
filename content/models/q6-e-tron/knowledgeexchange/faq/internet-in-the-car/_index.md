@@ -82,3 +82,19 @@ Overall, this page is quite easy to understand and you will probably be able to 
 In the examples above, a car and a payment method are already connected.
 
 The very first time you must both register, connect a car, and link a payment card, then choose a data package. The most profitable is 30 GB for 25kr. It is still a bit unfortunate that you cannot use your own private subscription, but when this is the solution, the prices are not as hopeless as the Cubic Telecom setup that exists for the e-tron/Q8 e-tron.
+
+### Update January 2026
+
+Until further notice ( may only apply in Norway), you will automatically receive an additional goodwill package of 3 GB when your original 3 GB of data are used up. This happens automatically and you will receive an email from Vodafone about this.
+
+An example of this email is :
+
+![alt text](image-11.png)
+
+This is what it will look like in the car, here you receive more data **before** the old ones are used up.
+
+![alt text](image-12.png)
+
+This option does not work for the time being.
+
+![](image-7.png)
