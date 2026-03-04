@@ -204,19 +204,19 @@ Utforsk detaljer
 </div>
 
 <div class="bg-gray-50 rounded-xl shadow-md overflow-hidden border border-gray-300">
-<a href="a3-e-tron/">
-<img src="https://media.evkx.net/ehga/models/a3-e-tron/a3_etron_1_st.webp" class="w-full h-56 object-cover opacity-75" alt="Audi A3 e-tron">
+<a href="a2-e-tron/">
+<img src="https://media.evkx.net/ehga/models/a2-e-tron/a2_etron_1_st.webp" class="w-full h-56 object-cover opacity-75" alt="Audi A2 e-tron">
 </a>
 <div class="p-6">
-<h3 class="text-xl font-bold text-gray-700 mb-3">Audi A3 e-tron</h3>
+<h3 class="text-xl font-bold text-gray-700 mb-3">Audi A2 e-tron</h3>
 <p class="text-gray-500 text-sm mb-4 leading-relaxed">
-Plugin-hybrid versjon av A3 som ble utfaset i 2020.
+Kommende kompakt elbil fra Audi. Forventet å bli Audis inngangsmodell blant elbiler.
 </p>
 <div class="flex flex-wrap gap-2 mb-4">
-<span class="bg-gray-100 text-gray-600 text-xs font-semibold px-3 py-1 rounded-full">Utfaset 2020</span>
-<span class="bg-gray-100 text-gray-600 text-xs font-semibold px-3 py-1 rounded-full">Plugin Hybrid</span>
+<span class="bg-green-100 text-green-600 text-xs font-semibold px-3 py-1 rounded-full">Prototype</span>
+<span class="bg-gray-100 text-gray-600 text-xs font-semibold px-3 py-1 rounded-full">Kommende</span>
 </div>
-<a href="a3-e-tron/" class="block w-full bg-gray-500 hover:bg-gray-600 text-white font-medium py-3 px-4 rounded-lg text-center transition-colors duration-200" style="color: white !important;">
+<a href="a2-e-tron/" class="block w-full bg-gray-500 hover:bg-gray-600 text-white font-medium py-3 px-4 rounded-lg text-center transition-colors duration-200" style="color: white !important;">
 Utforsk detaljer
 </a>
 </div>

@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C d:/repos/electrichasgoneaudi.github.io log --all --oneline --grep=\"reserve\\\\|rename\" -i)",
+      "Bash(ls -d /d/repos/electrichasgoneaudi.github.io/content/models/a3*/)"
+    ]
+  }
+}

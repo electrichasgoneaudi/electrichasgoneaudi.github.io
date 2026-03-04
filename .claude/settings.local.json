@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C d:/repos/electrichasgoneaudi.github.io log --all --oneline --grep=\"redirect\\\\|alias\\\\|rename\" -i)",
+      "Bash(git -C d:/repos/electrichasgoneaudi.github.io log --all --oneline)",
+      "Bash(git -C d:/repos/electrichasgoneaudi.github.io show 2a7307793 --stat)",
+      "Bash(xargs grep -l \"redirect\\\\|alias\\\\|href\\\\|relURL\")",
+      "Bash(git -C d:/repos/electrichasgoneaudi.github.io log --all --oneline --name-only)",
+      "Bash(xargs grep -l \"see.*\\\\[\\\\|goto\\\\|redirect\")"
+    ]
+  }
+}
