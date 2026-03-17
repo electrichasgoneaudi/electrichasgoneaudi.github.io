@@ -1,14 +1,14 @@
 ---
 title: Audi Q6 e-tron safety technology
 linktitle: Safety
-description: Audi Q6 e-tron has an serveral safety technologies to reduce damage in collisions
+description: Audi Q6 e-tron has several safety technologies to reduce damage in collisions
 weight: 10
 sectiontabs: "/models/q6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 ## Airbags
 
-Audi Q6 e-tron has serveral airbags as standard and some optional
+Audi Q6 e-tron has several airbags as standard and some optional
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/safety/airbags_1_st.webp" width="3000" height="1710" title="Audi Q6 e-tron airbags" >}}
 
@@ -22,7 +22,7 @@ Both front and rear are protected with head airbags. They are standard
 
 ### Side Airbags front
 
-In front there is standard with side Airbags build in to the seat that protects the body.
+In front there is standard with side Airbags built in to the seat that protects the body.
 
 ## Front interaction airbag
 
@@ -33,13 +33,13 @@ Only available in conjunction with Tech plus (PQB), Tech pro (PQC/PQD) or in edi
 
 ### Side Airbags rear
 
-In rear the side air bags is optional.
+In rear the side airbags are optional.
 
 Only available in conjunction with Tech plus (PQB), Tech pro (PQC/PQD) or in edition one
 
 ## Seat belts
 
-Front seats belts have reversible belt tensioners at the front
+Front seat belts have reversible belt tensioners at the front
 
 ## Proactive occupant protection
 

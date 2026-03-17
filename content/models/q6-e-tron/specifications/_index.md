@@ -84,7 +84,7 @@ navicon: bi-layout-text-sidebar-reverse
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Range & Consumption</h2>
 
-Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
+Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
 <div class="overflow-x-auto">
 <table class="min-w-full divide-y divide-gray-200">
 	<thead class="bg-gray-50">
@@ -1203,7 +1203,7 @@ This model is available with a seat configuration with five seats.
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Range & Consumption</h2>
 
-Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
+Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
 <div class="overflow-x-auto">
 <table class="min-w-full divide-y divide-gray-200">
 	<thead class="bg-gray-50">
@@ -2346,7 +2346,7 @@ This model is available with a seat configuration with five seats.
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Range & Consumption</h2>
 
-Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
+Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
 <div class="overflow-x-auto">
 <table class="min-w-full divide-y divide-gray-200">
 	<thead class="bg-gray-50">
@@ -4231,7 +4231,7 @@ This model is available with a seat configuration with five seats.
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Range & Consumption</h2>
 
-Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
+Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
 <div class="overflow-x-auto">
 <table class="min-w-full divide-y divide-gray-200">
 	<thead class="bg-gray-50">
@@ -6068,7 +6068,7 @@ This model is available with a seat configuration with five seats.
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Range & Consumption</h2>
 
-Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
+Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
 <div class="overflow-x-auto">
 <table class="min-w-full divide-y divide-gray-200">
 	<thead class="bg-gray-50">
@@ -7945,7 +7945,7 @@ This model is available with a seat configuration with five seats.
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Range & Consumption</h2>
 
-Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
+Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
 <div class="overflow-x-auto">
 <table class="min-w-full divide-y divide-gray-200">
 	<thead class="bg-gray-50">
@@ -9814,7 +9814,7 @@ This model is available with a seat configuration with five seats.
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Range & Consumption</h2>
 
-Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
+Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
 <div class="overflow-x-auto">
 <table class="min-w-full divide-y divide-gray-200">
 	<thead class="bg-gray-50">
@@ -11651,7 +11651,7 @@ This model is available with a seat configuration with five seats.
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Range & Consumption</h2>
 
-Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
+Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
 <div class="overflow-x-auto">
 <table class="min-w-full divide-y divide-gray-200">
 	<thead class="bg-gray-50">
@@ -13512,7 +13512,7 @@ This model is available with a seat configuration with five seats.
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Range & Consumption</h2>
 
-Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
+Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
 <div class="overflow-x-auto">
 <table class="min-w-full divide-y divide-gray-200">
 	<thead class="bg-gray-50">
@@ -15127,7 +15127,7 @@ This model is available with a seat configuration with five seats.
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Range & Consumption</h2>
 
-Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
+Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
 <div class="overflow-x-auto">
 <table class="min-w-full divide-y divide-gray-200">
 	<thead class="bg-gray-50">

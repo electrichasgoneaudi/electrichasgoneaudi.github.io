@@ -16,14 +16,14 @@ In winter, it may not be possible to achieve 280 kW either, but others may be ab
 
 Even in the fall with temperatures down to 0 degrees, preheating will be necessary to get the really fast 200+ kW speeds.
 
-However, there is some important things to be aware of
+However, there are some important things to be aware of
 - You cannot turn on the preheating manually. This may come in later models or updates
 - The only way is to enter a charging destination in your navigation, either manually or accept the charging stop(s) that Audi Charging Planner adds to your route.
 - The car will then plan preheating itself so that it is at the correct temperature. Normally this is about 25 degrees Celsius
 
 It is therefore very critical that you create a navigation route that **actually** involves a charging session/charging stop.
 
-It **NOT** enough to just enter a destination that is a fast charger if your charging settings are such that you do not need to charge when you have reached your destination.
+It is **NOT** enough to just enter a destination that is a fast charger if your charging settings are such that you do not need to charge when you have reached your destination.
 
 For example, this will **NOT** trigger preheating, simply because the car does not assume that you actually need to charge.
 

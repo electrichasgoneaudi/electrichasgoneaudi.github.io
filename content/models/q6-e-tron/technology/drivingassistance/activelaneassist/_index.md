@@ -26,7 +26,7 @@ sectiontabs: "/models/q6-e-tron/technology/"
     <figcaption><h4>You can disable wheel vibration</h4></figcaption>
 </figure>
 
-The Active Lane Assist can be disabled on the button at the end of the direction handle. It is not possible to permanent disable it.
+The Active Lane Assist can be disabled on the button at the end of the direction handle. It is not possible to permanently disable it.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/activelaneassist/laneassistbutton.webp">

@@ -1,5 +1,5 @@
 ---
-title: Audi Q6 e-tron driver assistence systems
+title: Audi Q6 e-tron driver assistance systems
 linktitle: Driver Assistance
 description: There are around 40 driver assistance systems available in the Audi Q6 e-tron
 weight: 1
@@ -9,7 +9,7 @@ sectiontabs: "/models/q6-e-tron/technology/"
 
 Up to five radar sensors, five cameras, and 12 ultrasonic sensors provide environmental information analyzed by the central driver assistance control unit.
 
-Important driver assist systems come as standard, the optional systems are subdivided into packages: The assist pacakage tour (PCC), assistent package city (PCM), side assist package (PCH). In addition there are other standalone options.
+Important driver assist systems come as standard, the optional systems are subdivided into packages: The assist package tour (PCC), assistant package city (PCM), side assist package (PCH). In addition there are other standalone options.
 
 
 <div class="table-responsive">

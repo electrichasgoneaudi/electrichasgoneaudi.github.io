@@ -1,6 +1,6 @@
 ---
 title: Audi Q6 e-tron transportation capabilities
-linktitle: Tranportation Capabilities
+linktitle: Transportation Capabilities
 description: In addition to the 5 seats, the Audi Q6 e-tron has both a trunk and a frunk in addition to roof storage and trailer capabilities.
 weight: 6
 ---

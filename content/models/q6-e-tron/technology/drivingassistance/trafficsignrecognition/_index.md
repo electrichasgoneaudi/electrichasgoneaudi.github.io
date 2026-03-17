@@ -17,7 +17,7 @@ They then appear in the driver information system and/or the Audi virtual cockpi
     <figcaption><h4>Traffic sign information in virtual cockpit</h4></figcaption>
 </figure>
 
-To turn of that predictive driver assist should follow sign this can be disabled here  MMI - > Car - > Driver Assist - > Adative Cruise Assist ->  Predictive Control -> Use speed limit -> Off
+To turn of that predictive driver assist should follow sign this can be disabled here  MMI - > Car - > Driver Assist - > Adaptive Cruise Assist ->  Predictive Control -> Use speed limit -> Off
 
 This option is part of the tour driver assistance package with option id **PCC**
 

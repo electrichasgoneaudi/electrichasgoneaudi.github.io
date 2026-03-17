@@ -1,7 +1,7 @@
 ---
 title: Audi Q6 e-tron suspension
 linktitle: Suspension 
-description: Audi Q6 e-tron has serveral suspension options.
+description: Audi Q6 e-tron has several suspension options.
 weight: 7
 sectiontabs: "/models/q6-e-tron/drivetrain/"
 ---
@@ -28,4 +28,4 @@ The central chassis control unit, the Electronic Chassis Platform (ECP), regulat
 
 The normal level of the adaptive air suspension is 28 millimeters (1.1 in) lower than the level of the standard comfort suspension.
 
-The rear-biased , highly variable all-wheel drive sysgem also enhances the dynamic driving characteristics of the Audi Q6 e-tron. The different dimensions of the electric motors on the rear and front axles enable rear-biased torque distribution even under full load. The rear tires of the Audi Q6 e-tron are wider than the front tires to accommodate the rear-biased weight distribution - for even more grip and better driving dynamics.
+The rear-biased , highly variable all-wheel drive system also enhances the dynamic driving characteristics of the Audi Q6 e-tron. The different dimensions of the electric motors on the rear and front axles enable rear-biased torque distribution even under full load. The rear tires of the Audi Q6 e-tron are wider than the front tires to accommodate the rear-biased weight distribution - for even more grip and better driving dynamics.

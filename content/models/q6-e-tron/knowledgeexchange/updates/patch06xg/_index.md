@@ -7,10 +7,10 @@ weight: 30
 
 ## 06XG
 
-- This is not an OTA update, the car need to visit the workshop
-- It may be a update only available in some countries/markets
+- This is not an OTA update, the car needs to visit the workshop
+- It may be an update only available in some countries/markets
 
-### Releasedate : unkown
+### Releasedate : unknown
 
 - There may be an unfavorable software configuration within the body control module (HCP4) architecture. As a result, it may sometimes not be possible to unlock the vehicle from the outside.
 

@@ -33,7 +33,7 @@ Electrichasgoneaudi.net expects the following variants to be available at a late
 - Audi Q6 50 e-tron with 100kWh battery and up to approx 650km WLTP range (confirmed)
 - Audi Q6 45 e-tron with 83kWh battery and up to approx 540 km WLTP Range (confirmed)
 - Audi Q6 Sportback e-tron quattro with 100kWh battery and up to  approx 640 km WLTP range
-- Audi SQ6 Sportback e-tron with 100 kWh battery and up to 625 km  WLT range
+- Audi SQ6 Sportback e-tron with 100 kWh battery and up to 625 km  WLTP range
 - Audi Q6 Sportback 50 e-tron with 100kWh battery and up to approx 650km WLTP range
 - Audi Q6 Sportback 45 e-tron with 83kWh battery and up to 540 km WLTP Range
   
@@ -94,7 +94,7 @@ The Audi Q6 e-tron comes in different performance versions.
 - Audi SQ6 e-tron  with 380KW/510hP + 20kw boost
 - Audi RSQ6 e-tron with 450kW and +1000nm and rear axle steering
 
-Audi will use different motor setups on the on the comming the variants.
+Audi will use different motor setups on the coming variants.
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/motors_st.webp" width="1768" height="868" title="Motors for Audi Q6 e-tron" >}}
 
@@ -157,7 +157,7 @@ Audi Q6 e-tron to have a luggage compartment of 526 liters. It will also be avai
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/transportation/frunk_1_st.webp" width="3000" height="2249" title="Audi Q6 e-tron frunk" >}}
 
 
-Read all about the transportation capabilites in the [Audi Q6 e-tron transportation capability sections](transportation)
+Read all about the transportation capabilities in the [Audi Q6 e-tron transportation capability sections](transportation)
 
 
 ## Options
@@ -171,7 +171,7 @@ Audi Q6 is available with several options.
 - Different driver assistant systems
 - Different lights
 
-Audi have reduce the number of combinations of options. So instead of most options being offered separately, like on the Audi Q8 e-tron, they have introduced options packages.
+Audi have reduced the number of combinations of options. So instead of most options being offered separately, like on the Audi Q8 e-tron, they have introduced options packages.
 
 Read all about the options in the [Audi Q6 e-tron options sections](optionguide)
 

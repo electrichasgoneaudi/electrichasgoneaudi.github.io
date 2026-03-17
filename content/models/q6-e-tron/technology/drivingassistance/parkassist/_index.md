@@ -8,6 +8,6 @@ sectiontabs: "/models/q6-e-tron/technology/"
 
 The sensors measure parking spaces along the road while driving past them at moderate speed – a maximum of 20 km/h (12.4 mph) for perpendicular parking spaces and a maximum of 30 km/h (18.6 mph) for parallel spaces. A message appears on the MMI display when the system finds a suitable spot. The only actions required of the driver while parking are accelerating, shifting gears and braking. The system handles the steering. In addition, audible signals help the driver. Park assist will make multiple maneuvers, forwards and backwards, if necessary. It can also exit from parallel parking spaces. Depending on the model, the driver activates the system via either a button on the center console or a button in the lower infotainment display. The maximum speed for all maneuvers is 7 km/h (4.3 mph).
 
-Park assist has option id **7X5** and is available as [function on demand](../../fod) throug the myAudiApp
+Park assist has option id **7X5** and is available as [function on demand](../../fod) through the myAudiApp
 
 

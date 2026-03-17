@@ -7,7 +7,7 @@ sectiontabs: "/models/q6-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 
-In addition to give Audi Q6 e-tron a cooler look it gives more light in to the car and better view from the inside.
+In addition to giving Audi Q6 e-tron a cooler look it gives more light into the car and better view from the inside.
 
 ## Panoramic glass sunroof
 

@@ -1,7 +1,7 @@
 ---
 title: Audi Q6 e-tron seats and interior materials
 linktitle: Seats & Material
-description: Audi Q6 e-tron have serveral seats options to choose from
+description: Audi Q6 e-tron has several seats options to choose from
 weight: 1
 sectiontabs: "/models/q6-e-tron/interior/"
 ---
@@ -19,7 +19,7 @@ Each seat type have different seat materials in different colors to choose from.
 
 ### Electric adjustment
 
-You can add electric control to seats for height and angel for Sports seats. Electric adjustment is standard on Sport Seats Plus.
+You can add electric control to seats for height and angle for Sports seats. Electric adjustment is standard on Sport Seats Plus.
 
 ### Seat Heating
 

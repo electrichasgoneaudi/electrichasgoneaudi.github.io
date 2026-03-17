@@ -11,7 +11,7 @@ The Audi Q6 e-tron has perfect proportions and is a further evolution of Audi's 
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/exterior_1_st.webp" width="3000" height="2249" title="Audi Q6 e-tron in Daytona grey and Plasma blue" >}}
 
-The greenhouse stretches low and taut over the powerful body. It is slightly tapared towards the rear, and the gently sloping D-pillars flow elegantly into the bodywork’s muscular shoulders. The continuation between the D-pillar and the roof makes the cabin appear more elongated and the vehicle more dynamic. A prominent line that extends from the rear lights to the rear doors emphasizes the upper section of the quattro blisters - the contours of the body on which the gently sloping D-pillars are supported. The blisters are a core element of Audi's design DNA. Audi calls this central design principle "making technology visible". Thanks to the taut and precisely drawn quattro blisters, the car embodies a certain dynamism even when stationary. The shape of the Audi Q6 e-tron is reminiscent of the Audi e-tron GT3.
+The greenhouse stretches low and taut over the powerful body. It is slightly tapered towards the rear, and the gently sloping D-pillars flow elegantly into the bodywork’s muscular shoulders. The continuation between the D-pillar and the roof makes the cabin appear more elongated and the vehicle more dynamic. A prominent line that extends from the rear lights to the rear doors emphasizes the upper section of the quattro blisters - the contours of the body on which the gently sloping D-pillars are supported. The blisters are a core element of Audi's design DNA. Audi calls this central design principle "making technology visible". Thanks to the taut and precisely drawn quattro blisters, the car embodies a certain dynamism even when stationary. The shape of the Audi Q6 e-tron is reminiscent of the Audi e-tron GT3.
 
 Its powerful and sporty stance, when stationary, is further emphasized by the strongly tucked-in and sills and aprons accented in black. The almost perfect proportions with short overhangs and long wheelbase support this design philosophy. The sill is set off in black, emphasizing the location of the battery. This is where the heart of the fully electric vehicle with 800-volt technology beats - and the Audi e-tron design philosophy places emission-free driving at the center of the design. The dynamically tapered rear creates a mixture of sporty elegance and power. The clean and large rear architecture with the continuous light strip gives the Audi Q6 e-tron the clarity and aplomb typical of Audi.
 
@@ -39,17 +39,17 @@ See below for details about the exterior options.
 	<a href="wheels/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeltype_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
 	<h2>Wheels</h2>
 	<p>
-		Audi Q6 e-tron offers serveral wheel options
+		Audi Q6 e-tron offers several wheel options
 	</p>
 	<a href="wheels/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron wheel options</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="paintedcalibers/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paintedcalibers/calibers_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
-	<h2>Painted calibers</h2>
+	<a href="paintedcalipers/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paintedcalipers/calipers_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<h2>Painted calipers</h2>
 	<p>
-		Audi Q6 e-tron offers painted calibers as an option
+		Audi Q6 e-tron offers painted calipers as an option
 	</p>
-	<a href="paintedcalibers/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron painted calibers</a>
+	<a href="paintedcalipers/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron painted calipers</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="panoramicroof/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/exterior/panoramicroof/panoramic_2_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>

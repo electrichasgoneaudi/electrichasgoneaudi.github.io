@@ -9,4 +9,4 @@ The following guide is based on the basic model. Many markets have trim package 
 
 Below are the most important options you need to consider when buying an e-tron
 
-Se the [complete equipment list](list) for all options.
+See the [complete equipment list](list) for all options.

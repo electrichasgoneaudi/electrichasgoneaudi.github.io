@@ -73,7 +73,7 @@ front, 9.0 J x 18 with tires 255/60 R 18 rear
 
 ### Audi Q6 e-tron quattro
 
-This variant is the entry quattro model with 285kW/385HP for the EU version and 340kW and 433 BPH for the US version.
+This variant is the entry quattro model with 285kW/385HP for the EU version and 340kW and 433 BHP for the US version.
 
 The Audi Q6 SUV e-tron includes the following as standard
 Scopes:
@@ -206,7 +206,7 @@ front, 9.0 J x 18 with tires 255/60 R 18 rear
 
 ### Audi Q6 Sportback e-tron quattro
 
-This variant is the entry quattro model with 285kW/385HP for the EU version and 340kW and 433 BPH for the US version.
+This variant is the entry quattro model with 285kW/385HP for the EU version and 340kW and 433 BHP for the US version.
 
 The Audi Q6 SUV e-tron includes the following as standard
 Scopes:
@@ -276,4 +276,4 @@ with S lettering
 
 ### Audi RSQ6 
 
-These are the super-performance versions. I expected around 600HP, like the Macan Turbo. This variant has not been confirmed, but prototypes has been seen testing.
+These are the super-performance versions. I expected around 600HP, like the Macan Turbo. This variant has not been confirmed, but prototypes have been seen testing.

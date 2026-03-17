@@ -9,6 +9,6 @@ sectiontabs: "/models/q6-e-tron/technology/"
 
 It detects light sources – the headlights of oncoming vehicles, tail lights of other road users and the reflections of municipality limit signs, for instance – and automatically switches between high beam and low beam lighting. This provides for better visibility and a more relaxed driving experience. Drivers of oncoming vehicles are not blinded by glare. 
 
-This is part of the HD-matrix lightning.
+This is part of the HD-matrix lighting.
 
 {{<children description="true" />}}

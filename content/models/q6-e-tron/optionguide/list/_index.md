@@ -156,7 +156,7 @@ For the Audi Q6, Audi has integrated technology in different packages. The choic
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paint/plasmablue_4_st.webp" width="3000" height="2249" title="Audi Q6 e-tron in plasma blue" >}}
 
-With more than 60 different colors, serveral paint trim there huge amount of color combination available. 
+With more than 60 different colors, several paint trim there huge amount of color combination available. 
 Click below for high-res pictures and details of each option. 
 
 <div class="table-responsive">
@@ -193,7 +193,7 @@ Click below for high-res pictures and details of each option.
             <td>2Y</td>
         </tr>
         <tr>
-            <td><a href="../../exterior/paint/#manhatten-grey">Manhatten grey</a></td>
+            <td><a href="../../exterior/paint/#manhattan-grey">Manhattan grey</a></td>
             <td>Metallic</td>
             <td>H1</td>
         </tr>
@@ -213,8 +213,8 @@ Click below for high-res pictures and details of each option.
             <td>3D</td>
         </tr>
          <tr>
-            <td><a href="../../exterior/paint/">Audi exclusive indiviudal</a></td>
-            <td>Serveral colors</td>
+            <td><a href="../../exterior/paint/">Audi exclusive individual</a></td>
+            <td>Several colors</td>
             <td>Q0Q0</td>
         </tr>
     </tbody>
@@ -225,7 +225,7 @@ Click below for high-res pictures and details of each option.
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheels_1_st.webp" width="3000" height="2249" title="Audi Q6 e-tron in wheels" >}}
 
-Audi Q6 e-tron can be delivered with serveral types of wheels from 19" to 22". Click in the wheel options belo for high res pictures and detailed info.
+Audi Q6 e-tron can be delivered with several types of wheels from 19" to 22". Click in the wheel options belowfor high res pictures and detailed info.
 
 <div class="table-responsive">
 <table class="table table-striped border">
@@ -354,7 +354,7 @@ Duration can be selected</td>
             <li>Dynamic lighting for the coming home/leaving home function while stationary</li>
             </ul>
             </td>
-            <td>Standard SQ6 and parth of Tech (PQA)</td>
+            <td>Standard SQ6 and part of Tech (PQA)</td>
         </tr>
         <tr>
             <td><a href="../../technology/lights/">Matrix LED headlights</a></td>
@@ -531,7 +531,7 @@ It consists of a darkened rear window and darkened rear door and side windows</t
              <td>Standard</td>
          </tr>
          <tr>
-             <td>Exterieur S line</td>
+             <td>Exterior S line</td>
              <td>The sportiness comes into its own very effectively through dynamic design elements and striking accents.
 Exterior S line includes:
 • S line bumper with radiator grille in body color and accents in dark selenite silver in the front and rear areas
@@ -579,7 +579,7 @@ A collision between the vehicle and the trailer when reversing can be avoided.</
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/interior/seats/frontseats_5_st.webp" width="3000" height="2250" title="Sport Seats" >}}
 
-You can choose between serveral seat types and seat materials. Click links below for full details on each option.
+You can choose between several seat types and seat materials. Click links below for full details on each option.
 
 
 <div class="table-responsive">
@@ -651,7 +651,7 @@ The sports seats plus at the front also have:
         </tr>
                 <tr>
             <td><a href="../../interior/seats/">4-way lumbar support for the front seats</a></td>
-            <td>AElectrically, horizontally and vertically individually adjustable in four directions, the lumbar support ensures a relaxed, ergonomic sitting posture.
+            <td>Electrically, horizontally and vertically individually adjustable in four directions, the lumbar support ensures a relaxed, ergonomic sitting posture.
 Note: in the Q6 SUV e-tron quattro can only be ordered in conjunction with an interior package</td>
             <td></td>
         </tr>
@@ -1136,7 +1136,7 @@ Note: cannot be ordered in conjunction with Tech (PQA), Tech plus (PQB), Tech pr
 
 
 
-## Drivertrain & brakes
+## Drivetrain & brakes
 
 <div class="table-responsive">
 <table class="table table-striped border">

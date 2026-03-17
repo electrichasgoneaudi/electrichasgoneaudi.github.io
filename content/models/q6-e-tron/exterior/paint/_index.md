@@ -15,7 +15,7 @@ Click below for direct navigation to paint color
   - [Magnet grey](#magnet-grey)
   - [Ascari Blue](#ascari-blue)
   - [Glacier White](#glacier-white)
-  - [Manhatten Grey](#manhatten-grey)
+  - [Manhattan Grey](#manhattan-grey)
   - [Mythos black](#mythos-black)
 - [Plasma blue](#plasma-blue)
   - [Soneira Red](#soneira-red)
@@ -74,15 +74,15 @@ Color Code: **2Y**
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paint/glacierwhite_5_st.webp" width="3000" height="1999" title="Audi Q6 e-tron in glacier white" >}}
 
-### Manhatten Grey
+### Manhattan Grey
 
 Color Code: **2Y**
 
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paint/manhattengray_1_st.webp" width="3000" height="2249" title="Audi Q6 e-tron in manhatten grey" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paint/manhattangray_1_st.webp" width="3000" height="2249" title="Audi Q6 e-tron in manhattan grey" >}}
 
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paint/manhattengray_2_st.webp" width="3000" height="2249" title="Audi Q6 e-tron in manhatten grey" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paint/manhattangray_2_st.webp" width="3000" height="2249" title="Audi Q6 e-tron in manhattan grey" >}}
 
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paint/manhattengray_3_st.webp" width="3000" height="2249" title="Audi Q6 e-tron in manhatten grey" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paint/manhattangray_3_st.webp" width="3000" height="2249" title="Audi Q6 e-tron in manhattan grey" >}}
 
 ### Mythos black
 

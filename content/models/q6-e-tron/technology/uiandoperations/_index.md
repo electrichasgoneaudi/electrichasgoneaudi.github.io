@@ -33,7 +33,7 @@ See below for more details of the different parts of the HMI (Human Machine Inte
 	<a href="mmi/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/technology/uiandoperations/mmi/mmi_3_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
 	<h2>MMI</h2>
 	<p>
-		Audi Q6 e-tron MMI is based on Android Automotive and have a has serveral screens.
+		Audi Q6 e-tron MMI is based on Android Automotive and has several screens.
 	</p>
 	<a href="mmi/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron MMI</a>
 </div>
@@ -43,7 +43,7 @@ See below for more details of the different parts of the HMI (Human Machine Inte
 	<a href="headupdisplay/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/technology/uiandoperations/headupdisplay/hud_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
 	<h2>Head-up display</h2>
 	<p>
-		Audi Q6 e-tron MMI is based on Android Automotive and have a has serveral screens.
+		Audi Q6 e-tron MMI is based on Android Automotive and has several screens.
 	</p>
 	<a href="mmi/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron head up display</a>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: Frequenty Asked Questions (FAQ)
+title: Frequently Asked Questions (FAQ)
 linktitle: FAQ
 description: We have collected frequently asked questions about Audi e-tron and try to answer them for you.
 weight: 30
@@ -7,7 +7,7 @@ weight: 30
 
 ## Internet in the car
 
-- [Read about how to setup and buy data quotes for you use](internet-in-the-car)
+- [Read about how to setup and buy data quotas for you use](internet-in-the-car)
 
 ## Garagedoor opener
 
@@ -27,12 +27,12 @@ weight: 30
 
 ## Wheel change
 
-- [Read important articel about wheel change](wheel-change)
+- [Read important article about wheel change](wheel-change)
 
 ## Recover missing apps in MMI
 
 - [Read the guide to recover missing apps](recover-missing-apps)
 
-## How to configure battery prehating
+## How to configure battery preheating
 
-- [Read the guide to initiate battry preheating](battery-heating)
+- [Read the guide to initiate battery preheating](battery-heating)

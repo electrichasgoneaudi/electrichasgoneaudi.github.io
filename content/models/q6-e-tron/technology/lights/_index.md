@@ -42,7 +42,7 @@ The LED headlights plus include the following functionalities:
 - High beam
 - Position light
 - Flashing light
-- Lyktespylere
+- Headlight washers
 - Cornering light (supplement to the side lighting when turning)
 - All-weather light (to reduce glare in poor visibility conditions)
 - Highway lights (extended lighting range at high speeds)
@@ -143,7 +143,7 @@ The innovative digital OLED technology creates the conditions for a completely n
     <a href="https://media.evkx.net/ehga/models/q6-e-tron/prototypetestdrive_4.webp">
         <img src="https://media.evkx.net/ehga/models/q6-e-tron/prototypetestdrive_4_st.webp" alt="Audi Q6 e-tron head lights" title="Audi Q6 e-tron head lights">
     </a>
-    <figcaption><h4>Audi Q6 e-tron head lights with seperate lights</h4></figcaption>
+    <figcaption><h4>Audi Q6 e-tron head lights with separate lights</h4></figcaption>
 </figure>
 
 Audi is also innovating the front of the car. The next generation of digital daytime running lights and the light modules are now visually separate, creating greater design clarity. The designers have designed the individual LEDs – 70 in total – in this new evolution of digital daytime running lights as transparent 3D objects. The front section of the digital daytime running lights features a precise prismatic structure, while a metalized 3D trim surrounds them to draw the focus to the car’s digital eyes.
@@ -153,9 +153,9 @@ Audi is also innovating the front of the car. The next generation of digital day
 
 ## Improved safety thanks to intelligent headlights and rear lights
 
-Audi has also taken the car’s safety features to a new level. Proximity indication, a feature familiar to other Audi models, is expanded in the new Q6 e-tron to include a communication light. Integrated with the digital OLED rear lights, it warns other road users forsighted of accidents and breakdowns by displaying a specific static rear light signature with integrated warning symbols and the regular rear light graphic in critical road situations. The assistance system thus aids Audi drivers forsighted and all other road users. As with the advanced traffic information system in the A8, which warns road users of accidents or hazards via the digitalized headlights, the communication light uses data from the swarm. In addition, second-generation digital OLED rear lights activate the communication light with warning symbols for emergency assist, RECAS (rear-end collision alert signal), hazard warning lights, emergency calls (eCall), roadside assistance calls (bCall), and emergency brake lights.
+Audi has also taken the car’s safety features to a new level. Proximity indication, a feature familiar to other Audi models, is expanded in the new Q6 e-tron to include a communication light. Integrated with the digital OLED rear lights, it warns other road users in advance of accidents and breakdowns by displaying a specific static rear light signature with integrated warning symbols and the regular rear light graphic in critical road situations. The assistance system thus aids Audi drivers in advance and all other road users. As with the advanced traffic information system in the A8, which warns road users of accidents or hazards via the digitalized headlights, the communication light uses data from the swarm. In addition, second-generation digital OLED rear lights activate the communication light with warning symbols for emergency assist, RECAS (rear-end collision alert signal), hazard warning lights, emergency calls (eCall), roadside assistance calls (bCall), and emergency brake lights.
 
-The communication light also adds an extra dimension to the exit warning function. Previously, it only informed the occupants when exiting the car, for example, if another car or a bicycle was approaching. But now, a specially adapted light signature in the rear light graphic warn cyclists or drivers approaching from behind. In this way, the Audi Q6 e-tron extends its safety concept to other road users, increasing road safety for everyone.
+The communication light also adds an extra dimension to the exit warning function. Previously, it only informed the occupants when exiting the car, for example, if another car or a bicycle was approaching. But now, a specially adapted light signature in the rear light graphic warns cyclists or drivers approaching from behind. In this way, the Audi Q6 e-tron extends its safety concept to other road users, increasing road safety for everyone.
 
 Finally, the communication light also uses a specific light signature at the front and rear to indicate the car’s park assist status when it is in automated parking mode. This makes it clear to road users in the immediate vicinity that the car is safe to approach.
 

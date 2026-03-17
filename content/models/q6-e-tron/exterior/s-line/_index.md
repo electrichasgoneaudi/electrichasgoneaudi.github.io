@@ -1,7 +1,7 @@
 ---
 title: S-line and S exterior package
 linktitle: S-line / S
-description: There is serveral styling options to make your e-tron stick out from the crowd
+description: There is several styling options to make your e-tron stick out from the crowd
 weight: 3
 sectiontabs: "/models/q6-e-tron/exterior/"
 ---
