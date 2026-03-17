@@ -1,39 +1,38 @@
 ---
-title: Audi A2 e-tron (kommende)
+title: Audi A2 e-tron
 linktitle: Audi A2 e-tron
-description: Hva vi vet – og hva vi ikke vet – om Audis kommende kompakte elbil, Audi A2 e-tron, basert på prototyper og forventninger i bransjen.
+description: Audi har offisielt annonsert A2 e-tron, en ny elektrisk inngangsmodell i kompaktklassen, med verdenspremiere planlagt høsten 2026.
 weight: 9
 shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 
-**Audi A2 e-tron** er en kommende kompakt helelektrisk Audi-modell som er **observert gjentatte ganger under prototypetesting**. Modellen gjenoppliver det ikoniske A2-navnet for en ny generasjon effektiv, kompakt elektrisk mobilitet.
+Den 17. mars 2026 annonserte Audi offisielt **Audi A2 e-tron** — en ny helelektrisk inngangsmodell i kompaktklassen. Modellen gjenoppliver det ikoniske A2-navnet, som **var en pioner innen effektivitet og urban mobilitet for over 25 år siden**, for en ny generasjon elektrisk mobilitet.
 
-Denne fremtidige modellen forventes å spille en **viktig rolle i Audis inngangssegment for elbiler**, plassert under de større elektriske A4/A6-modellene og rettet mot premium kompaktsegmentet i Europa og andre globale markeder.
+A2 e-tron vil spille en **nøkkelrolle i Audis inngangsportefølje av elbiler**, rettet mot internasjonale kunder som prioriterer daglig urban brukbarhet, bærekraft, høy effektivitet og digital tilkobling. Verdenspremieren er planlagt **høsten 2026**.
 
-Per i dag har Audi **ikke offisielt avduket bilen**, og mye av det vi vet er derfor basert på prototypeobservasjoner, plattformstrategi og Audis offentlig kommuniserte veikart.
+Bilen vil bli produsert ved **Audis hovedfabrikk i Ingolstadt, Tyskland**, som nok en helelektrisk produktlinje bygget ved Audis tyske hovedkvarter.
 
 ---
 
 ## Posisjonering og segment
 
-Basert på tilgjengelig informasjon forventes A2 e-tron å være:
+I følge Audis offisielle kunngjøring er A2 e-tron:
 
-- Audis **minste helelektriske modell** ved lansering
+- Audis **elektriske inngangsmodell** i kompaktklassen
 - Plassert under A4/A6 e-tron-familien
-- En **åndelig etterfølger** til den originale Audi A2, men helelektrisk
-- En konkurrent til kompakte premium elbiler som elektriske kombibiler og crossovers
-
-Den vil trolig primært tilbys som en **Sportback-lignende kombi**, i tråd med Audis styrker innen kompakt premiumdesign.
+- En **bevisst hyllest** til den originale Audi A2, helelektrisk
+- Designet for å styrke Audis yngre og tydeligere elektriske portefølje
+- Ment å gjøre merket **mer moderne og relevant for nye kundegrupper**
 
 ---
 
-## Plattform: trolig basert på MEB+
+## Plattform
 
-Et av de tydeligste signalene fra prototyper og leverandørinformasjon er at Audis kommende kompakte elbil vil være basert på **MEB+-plattformen** fra Volkswagen-konsernet.
+Plattformen er ikke offisielt bekreftet av Audi. Basert på prototyper og leverandørinformasjon forventes den å være basert på **MEB+-plattformen** fra Volkswagen-konsernet.
 
-Dette indikerer:
-- **800-volts-kompatibel elektronikk** (avhengig av endelig spesifikasjon)
+Dette vil innebære:
+- **Full enpedalkjøring** (bekreftet for MEB+-plattformen, som annonsert for modeller som VW ID. Polo)
 - Forbedret effektivitet sammenlignet med første generasjon MEB-biler
 - Mer kompakt batteripakking
 - Raskere lading og bedre termisk styring
@@ -42,19 +41,17 @@ MEB+ er ment som en **videreutvikling**, ikke en revolusjon, noe som gjør det m
 
 ---
 
-## Design: tydelig A2-inspirasjon
+## Design
 
-Et av de mest interessante aspektene ved prototypene er **designretningen**, som ser ut til å hente inspirasjon fra den originale Audi A2.
+Audi har publisert **innledende designskisser som viser silhuetten** av A2 e-tron, men det fulle designet er ikke avslørt før verdenspremieren høsten 2026.
 
-Observerte og forventede designelementer:
+Fra skissene og prototypeobservasjoner inkluderer forventede designelementer:
 - Korte overheng og **oppreiste proporsjoner**
 - En mer **funksjonell og effektiv form**, fremfor aggressiv sportslighet
 - Glatte flater og redusert visuell kompleksitet
 - Sterkt fokus på **aerodynamikk og effektiv utnyttelse av kupéplassen**
 
-Dette vil markere et **bevisst brudd** med trenden mot store hjul og aggressive linjer, og harmonerer med elbilers krav til effektivitet og urban bruk.
-
-Dersom dette bekreftes, vil A2-inspirert design være et **unikt formspråk** i Audis moderne modellutvalg.
+Dette markerer et **bevisst brudd** med trenden mot store hjul og aggressive linjer, i tråd med elbilers krav til effektivitet og urban bruk — et **unikt formspråk** i Audis moderne modellutvalg.
 
 ---
 
@@ -97,52 +94,52 @@ Per nå finnes det **ingen bekreftede tekniske spesifikasjoner**.
 Det som er sannsynlig:
 - Enmotor **forhjulsdrift** som basisversjon
 - Mulig **to-motor quattro**-variant senere
-- Batteristørrelser optimalisert for kompakt emballering fremfor maksimal rekkevidde
+- Batteristørrelser optimalisert for kompakt pakking fremfor maksimal rekkevidde
 
 Forventede prioriteringer:
 - Høy effektivitet
 - God brukbarhet i by og på motorvei
 - Konkurransedyktige ladehastigheter i segmentet
 
-Denne modellen vil **trolig ikke jakte ekstreme effekt­tall**, men heller fokusere på balanse, effektivitet og tilgjengelighet.
+Denne modellen vil **trolig ikke jakte ekstreme effekttall**, men heller fokusere på balanse, effektivitet og tilgjengelighet.
 
 ---
 
 ## Produksjon og tidslinje
 
-Det vi vet:
+Offisielt bekreftet:
+- **Verdenspremiere: høsten 2026**
+- **Produksjonssted: Ingolstadt, Tyskland**
 - Prototyper er allerede i **reell testkjøring**
-- Audi har bekreftet arbeid med en **ny generasjon kompakte elbiler**
 
-Det vi ikke vet:
-- Endelig produksjonssted
-- Offisiell avdukningsdato
-- Lanseringstidspunkt i markedet
-
-Basert på dagens utviklingstakt fremstår en **verdenspremiere rundt 2026**, med markedslansering kort tid etter, som realistisk.
+Det vi ennå ikke vet:
+- Eksakt lanseringstidspunkt etter premieren
+- Hvilke markeder som får bilen først
 
 ---
 
 ## Hva vi vet vs. hva vi ikke vet
 
-### Det vi vet
-- Kompakt Audi-elbil i **avansert prototypetesting**
-- Trolig basert på **MEB+**
-- Kompakt A2-størrelse
-- Designet fremstår som **A2-inspirert**
-- Tiltenkt som Audis **inngangsmodell blant elbiler**
+### Offisielt bekreftet
+- **Navn: Audi A2 e-tron** — elektrisk inngangsmodell
+- **Verdenspremiere: høsten 2026**
+- **Produksjon: Ingolstadt, Tyskland**
+- Kompaktklasse, A2-inspirert designarv
+- Rettet mot urban brukbarhet, bærekraft, effektivitet og digital tilkobling
 
-### Det vi ikke vet
+### Ennå ikke avslørt
 - Eksakte batteristørrelser og rekkevidde
 - Interiøroppsett og programvaredetaljer
-- Full drivlinjeportefølje
-- Prisnivå og markeds­tilgjengelighet
+- Full drivlinjeportefølje og ytelsesspesifikasjoner
+- Prisnivå og markedstilgjengelighet
+- Plattformdetaljer
+- Karosserivarianter
 
 ---
 
 ## Hvorfor Audi A2 e-tron er viktig
 
-Denne modellen er kritisk for Audi fordi den:
+Denne modellen er viktig for Audi fordi den:
 - Senker **inngangsterskelen til Audi som elbilmerke**
 - Bringer elektrisk mobilitet til et **volumsterkt segment**
 - Signalerer et skifte mot **effektivitetsdrevet design**
@@ -152,4 +149,4 @@ Dersom Audi lykkes med denne bilen, kan den bli en av de **viktigste elektriske 
 
 ---
 
-Så snart Audi offentliggjør mer informasjon eller den første kamuflasjefrie prototypen dukker opp, kan denne artikkelen utvides med bekreftede spesifikasjoner, interiørdetaljer og mer.
+Fulle spesifikasjoner, interiørdetaljer, priser og mer forventes å bli avslørt ved verdenspremieren høsten 2026. Denne artikkelen vil bli oppdatert etter hvert som Audi publiserer mer informasjon.

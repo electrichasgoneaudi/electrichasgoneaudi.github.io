@@ -1,39 +1,38 @@
 ---
-title: Audi A2 e-tron (upcoming)
+title: Audi A2 e-tron
 linktitle: Audi A2 e-tron
-description: What we know and what we don't know about Audi's upcoming compact electric model, the Audi A2 e-tron, based on prototypes and industry expectations.
+description: Audi has officially announced the A2 e-tron, a new entry-level all-electric model family in the compact class, with a world premiere planned for fall 2026.
 weight: 9
 shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 
-The **Audi A2 e-tron** is an upcoming compact all-electric Audi model that has been **spotted repeatedly in prototype testing**. The model revives the iconic A2 nameplate for a new generation of efficient, compact electric mobility.
+On March 17, 2026, Audi officially announced the **Audi A2 e-tron** — a new entry-level all-electric model family in the compact class. The model revives the iconic A2 nameplate, which **pioneered efficiency and urban mobility over 25 years ago**, for a new generation of electric mobility.
 
-This future model is expected to play a **key role in Audi's entry-level EV lineup**, sitting below the A4/A6-sized electric models and targeting the premium compact segment in Europe and other global markets.
+The A2 e-tron will play a **key role in Audi's entry-level EV lineup**, targeting international customers who prioritize everyday urban usability, sustainability, high efficiency, and digital connectivity. The world premiere is planned for **fall 2026**.
 
-At this stage, Audi has **not officially revealed the car**, so much of what we know is based on prototype sightings, platform strategy, and Audi's publicly stated roadmap.
+The car will be produced at **Audi's home plant in Ingolstadt, Germany**, making it another fully electric product line built at Audi's German headquarters.
 
 ---
 
 ## Positioning and segment
 
-Based on current information, the upcoming A2 e-tron is expected to be:
+According to Audi's official announcement, the A2 e-tron is:
 
-- Audi's **smallest fully electric model** at launch
+- Audi's **entry-level electric model family** in the compact class
 - Positioned below the A4/A6 e-tron family
-- A **spiritual successor** to the original Audi A2, but fully electric
-- Competing with premium compact EVs such as electric hatchbacks and crossovers
-
-It is likely to be offered primarily as a **Sportback-style hatchback**, aligning with Audi's strengths in compact premium design.
+- A **deliberate nod** to the original Audi A2, fully electric
+- Designed to strengthen Audi's younger, clearer electric portfolio
+- Aimed at making the brand **more modern and relevant for new customer groups**
 
 ---
 
-## Platform: likely MEB+ based
+## Platform
 
-One of the strongest indicators from prototypes and supplier information is that the upcoming compact Audi EV will be based on the **MEB+ platform** from the Volkswagen Group.
+The platform has not been officially confirmed by Audi. Based on prototypes and supplier information, it is widely expected to be based on the **MEB+ platform** from the Volkswagen Group.
 
-What this suggests:
-- **800-volt–capable electronics** (depending on final spec)
+What this would suggest:
+- **Full one-pedal driving support** (confirmed for the MEB+ platform, as announced for models like the VW ID. Polo)
 - Improved efficiency compared to first-generation MEB cars
 - More compact battery packaging
 - Faster charging and better thermal management
@@ -42,19 +41,17 @@ MEB+ is intended as an **evolution**, not a revolution, meaning Audi can bring a
 
 ---
 
-## Design: clear A2 inspiration
+## Design
 
-One of the most interesting aspects of the prototypes is their **design direction**, which appears to reference the original Audi A2.
+Audi has released **initial design sketches showing the silhouette** of the A2 e-tron, but the full design remains unrevealed ahead of the fall 2026 world premiere.
 
-Observed and expected design elements:
+From the sketches and prototype sightings, expected design elements include:
 - Short overhangs and **upright proportions**
 - A more **functional, efficient shape** rather than aggressive sportiness
 - Smooth surfaces and reduced visual complexity
 - Emphasis on **aerodynamics and interior space efficiency**
 
-This would mark a **deliberate shift** away from oversized wheels and aggressive lines, aligning with EV efficiency goals and urban usability.
-
-If confirmed, this A2-inspired approach would be a **unique design statement** in Audi's modern lineup.
+This marks a **deliberate shift** away from oversized wheels and aggressive lines, aligning with EV efficiency goals and urban usability — a **unique design statement** in Audi's modern lineup.
 
 ---
 
@@ -110,33 +107,33 @@ This model is **unlikely to chase extreme power figures**, focusing instead on b
 
 ## Production and timing
 
-What we know:
+Officially confirmed:
+- **World premiere: fall 2026**
+- **Production location: Ingolstadt, Germany**
 - Prototypes are already undergoing **real-world testing**
-- Audi has confirmed work on a **new compact EV generation**
 
-What we don't know:
-- Final production location
-- Official reveal date
-- Market launch timing
-
-Based on current development pace, a **world premiere around 2026** with market launch shortly after is a realistic expectation.
+What we don't know yet:
+- Exact market launch timing after the premiere
+- Which markets will receive the car first
 
 ---
 
 ## What we know vs what we don't know
 
-### What we know
-- Compact Audi EV is in **advanced prototype testing**
-- Likely based on **MEB+**
-- Compact A2-sized footprint
-- Design appears **A2-inspired**
-- Intended as Audi's **entry-level EV**
+### Officially confirmed
+- **Name: Audi A2 e-tron** — entry-level electric model family
+- **World premiere: fall 2026**
+- **Production: Ingolstadt, Germany**
+- Compact class, A2-inspired design heritage
+- Targets urban usability, sustainability, efficiency, and digital connectivity
 
-### What we don't know
+### Not yet revealed
 - Exact battery sizes and range
 - Interior layout and software details
-- Full drivetrain lineup
+- Full drivetrain lineup and performance specs
 - Pricing and market availability
+- Platform details
+- Body style variants
 
 ---
 
@@ -152,4 +149,4 @@ If Audi executes this car well, it could become one of the **most important elec
 
 ---
 
-As soon as Audi releases official information or the first camo-free prototype appears, this article can be expanded with confirmed specifications, interior details, and more.
+Full specifications, interior details, pricing, and more are expected to be revealed at the world premiere in fall 2026. This article will be updated as Audi releases more information.
