@@ -3,7 +3,9 @@
     "allow": [
       "Bash(git -C d:/repos/electrichasgoneaudi.github.io log --all --oneline --grep=\"reserve\\\\|rename\" -i)",
       "Bash(ls -d /d/repos/electrichasgoneaudi.github.io/content/models/a3*/)",
-      "Bash(xargs -I{} head -3 {})"
+      "Bash(xargs -I{} head -3 {})",
+      "WebFetch(domain:www.audi-mediacenter.com)",
+      "Bash(xargs grep:*)"
     ]
   }
 }
