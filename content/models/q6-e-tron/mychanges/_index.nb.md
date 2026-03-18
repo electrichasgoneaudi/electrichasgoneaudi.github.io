@@ -62,3 +62,5 @@ Audi annonserte omfattende oppdateringer for Q6 e-tron for 2026-årsmodellen. Be
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/q6dynamic_1_st.webp" width="3000" height="1999" title="Audi Q6 e-tron" >}}
 
 *Merk: Forbedringene som er oppført gjelder for det tyske markedet. Andre markeder vil variere i innhold og tidspunkt.*
+
+Det er foreløpig ukjent om 2025-årsmodellene av Q6 e-tron vil motta den oppdaterte infotainment-programvaren. Ettersom Q6 e-tron ble markedsført som en bil som ville bli oppdatert med nye funksjoner over tid, håper electrichasgoneaudi at eksisterende eiere også vil dra nytte av denne oppdateringen. Det er definitivt en attraktiv oppdatering for plattformen.

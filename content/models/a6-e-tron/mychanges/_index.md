@@ -74,3 +74,5 @@ Audi announced comprehensive updates for the A6 e-tron for the 2026 model year. 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/variants/variants_1_st.webp" width="3000" height="2250" title="Audi A6 e-tron" >}}
 
 *Note: The improvements listed address German market vehicles. Other markets will vary in terms of content and timing.*
+
+It is currently unknown if the 2025 model year versions of the A6 e-tron will receive the updated infotainment software. However, since the A6 e-tron was marketed as a car that would be updated with new features over time, electrichasgoneaudi hopes that existing owners will also benefit from this update. It is definitely an attractive update for the platform.
