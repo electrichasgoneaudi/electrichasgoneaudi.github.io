@@ -49,7 +49,7 @@ navicon: bi-layout-text-sidebar-reverse
 				Peak power
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				230 KW (313 hp /308 bhp)
+				230 kW (313 hp / 308 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -57,7 +57,7 @@ navicon: bi-layout-text-sidebar-reverse
 				Electrical torque output
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				540 nm (399 lb-ft)
+				540 Nm (399 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -84,7 +84,7 @@ navicon: bi-layout-text-sidebar-reverse
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Range & Consumption</h2>
 
-Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
+Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
 <div class="overflow-x-auto">
 <table class="min-w-full divide-y divide-gray-200">
 	<thead class="bg-gray-50">
@@ -345,6 +345,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Dimensions.WidhtIncludingMirrors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				2189 mm (86,2")
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Wheelbase
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
@@ -492,7 +500,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Max trailer weight Un braked
+				Max trailer weight unbraked
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				750 kg (1653 lbs)
@@ -1318,6 +1326,36 @@ This model is available with a seat configuration with five seats.
 </table>
 </div>
 
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Center consoles</h3>
+
+
+<h4 class="text-base font-medium text-gray-900 mb-2">First row center console</h4>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Console design
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Traditional console
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
 <h2 class="text-xl font-bold text-gray-900 mb-4">Driver Assistance</h2>
 
 <div class="overflow-x-auto">
@@ -1399,7 +1437,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				AntiLock Braking System
+				Anti-Lock Braking System
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
@@ -1455,7 +1493,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Cross traffic allert (CTA)
+				Cross traffic alert (CTA)
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Collision Avoidance Assist), optional equipment
@@ -1491,6 +1529,242 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not available
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h2 class="text-xl font-bold text-gray-900 mb-4">Sensors & Cameras</h2>
+
+
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Ultrasonic sensors</h3>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front left corner
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front right corner
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front left side
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front right side
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear left side
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear right side
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear left corner
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear right corner
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Cameras</h3>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Top center windshield
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Front (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On left wing mirror (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On right wing mirror (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Rear center (Optional)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Radar sensors</h3>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Front
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Left front corner (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Right front corner (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Left rear corner (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Right rear corner (Optional)
 			</td>
 		</tr>
 	</tbody>
@@ -1546,7 +1820,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Apple Carplay support
+				Apple CarPlay support
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Smartphone Interface), optional equipment
@@ -1681,6 +1955,516 @@ This model is available with a seat configuration with five seats.
 	</tbody>
 </table>
 </div>
+
+<h2 class="text-xl font-bold text-gray-900 mb-4">Exterior</h2>
+
+
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Paint colors</h3>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Daytona Grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFFFF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Glacier White
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				White
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Catalunya Red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Plasma Blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Florett Silver
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Silver
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Chronos Grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Typhoon Grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Navarra Blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Galaxy Blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Antigua Blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Manhatten Grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Brilliant Black
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mythos black
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Misano red, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#800080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Merlin purple, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Purple
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#800080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Velvet purple, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Purple
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Sepang blue, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Nogoro blue, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Palace blue, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Night blue, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Oak green, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Goodwood green, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Deep green, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Sand beige, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Beige
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Arrow grey, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Nimbus grey, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ara blue, crystal effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Panther black, crystal effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFFFF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Amalfi white
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				White
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFF00;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Vegas yellow
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yellow
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Green
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Cumulus blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFF00;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Citrus yellow
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yellow
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFF00;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Solar orange
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yellow
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFA500;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Solar orange
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Orange
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Quantum grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Nardo grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Camoflage green
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Soho brown
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Brown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Java brown
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Brown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Teak brown
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Brown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ipanema brown
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Brown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Diamond beige
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Beige
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Siam beige
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Beige
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Tornado grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Havana black
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mamba black
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Vesuvius grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ice silver
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Silver
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Suzuka grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Terra grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Cuvée silver
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Silver
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFA500;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Samoa orange
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Orange
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFA500;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Coral orange
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Orange
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Catalunya red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Tango red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Shiraz red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Seville red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ascari blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Utopia blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Java green
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
@@ -1723,7 +2507,7 @@ This model is available with a seat configuration with five seats.
 				Peak power
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				230 KW (313 hp /308 bhp)
+				230 kW (313 hp / 308 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -1731,7 +2515,7 @@ This model is available with a seat configuration with five seats.
 				Electrical torque output
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				540 nm (399 lb-ft)
+				540 Nm (399 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -1758,7 +2542,7 @@ This model is available with a seat configuration with five seats.
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Range & Consumption</h2>
 
-Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
+Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
 <div class="overflow-x-auto">
 <table class="min-w-full divide-y divide-gray-200">
 	<thead class="bg-gray-50">
@@ -2019,6 +2803,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Dimensions.WidhtIncludingMirrors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				2189 mm (86,2")
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Wheelbase
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
@@ -2166,7 +2958,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Max trailer weight Un braked
+				Max trailer weight unbraked
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				750 kg (1653 lbs)
@@ -2440,6 +3232,300 @@ This model is available with a seat configuration with five seats.
 
 <h3 class="text-lg font-semibold text-gray-900 mb-3">Front seats</h3>
 
+
+<h4 class="text-base font-medium text-gray-900 mb-2">standard</h4>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Seat type
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Driver and Passenger Seat
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Seat depth adjustment
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Seat height adjustment
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Backrest angle adjustment
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Seat cushion angle adjustment
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Memory
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Height adjustable headrest
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Standard feature
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Length adjustable headrest
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Optional feature
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Adjustable thigh support
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Backrest side bolster adjustment
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Seat cushion side bolster adjustment
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Footrest passenger
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Leg support passenger
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Electric lumbar adjustment
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Seat ventilation
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Massage function
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not Available
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h4 class="text-base font-medium text-gray-900 mb-2">sport</h4>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Seat type
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Driver and Passenger Seat
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Seat depth adjustment
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Seat height adjustment
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Backrest angle adjustment
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Seat cushion angle adjustment
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Memory
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Height adjustable headrest
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Standard feature
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Length adjustable headrest
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Optional feature
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Adjustable thigh support
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Standard feature
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Backrest side bolster adjustment
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Seat cushion side bolster adjustment
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Footrest passenger
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Leg support passenger
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Electric lumbar adjustment
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Seat ventilation
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Massage function
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Not Available
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 <h4 class="text-base font-medium text-gray-900 mb-2">s-line sport</h4>
 
@@ -2992,6 +4078,36 @@ This model is available with a seat configuration with five seats.
 </table>
 </div>
 
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Center consoles</h3>
+
+
+<h4 class="text-base font-medium text-gray-900 mb-2">First row center console</h4>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Console design
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Traditional console
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
 <h2 class="text-xl font-bold text-gray-900 mb-4">Driver Assistance</h2>
 
 <div class="overflow-x-auto">
@@ -3073,7 +4189,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				AntiLock Braking System
+				Anti-Lock Braking System
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
@@ -3129,7 +4245,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Cross traffic allert (CTA)
+				Cross traffic alert (CTA)
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Collision Avoidance Assist), optional equipment
@@ -3165,6 +4281,242 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not available
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h2 class="text-xl font-bold text-gray-900 mb-4">Sensors & Cameras</h2>
+
+
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Ultrasonic sensors</h3>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front left corner
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front right corner
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front left side
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front right side
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear left side
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear right side
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear left corner
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear right corner
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Cameras</h3>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Top center windshield
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Front (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On left wing mirror (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On right wing mirror (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Rear center (Optional)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Radar sensors</h3>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Front
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Left front corner (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Right front corner (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Left rear corner (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Right rear corner (Optional)
 			</td>
 		</tr>
 	</tbody>
@@ -3220,7 +4572,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Apple Carplay support
+				Apple CarPlay support
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Smartphone Interface), optional equipment
@@ -3355,6 +4707,516 @@ This model is available with a seat configuration with five seats.
 	</tbody>
 </table>
 </div>
+
+<h2 class="text-xl font-bold text-gray-900 mb-4">Exterior</h2>
+
+
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Paint colors</h3>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Daytona Grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFFFF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Glacier White
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				White
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Catalunya Red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Plasma Blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Florett Silver
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Silver
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Chronos Grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Typhoon Grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Navarra Blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Galaxy Blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Antigua Blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Manhatten Grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Brilliant Black
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mythos black
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Misano red, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#800080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Merlin purple, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Purple
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#800080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Velvet purple, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Purple
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Sepang blue, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Nogoro blue, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Palace blue, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Night blue, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Oak green, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Goodwood green, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Deep green, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Sand beige, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Beige
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Arrow grey, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Nimbus grey, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ara blue, crystal effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Panther black, crystal effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFFFF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Amalfi white
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				White
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFF00;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Vegas yellow
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yellow
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Green
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Cumulus blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFF00;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Citrus yellow
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yellow
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFF00;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Solar orange
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yellow
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFA500;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Solar orange
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Orange
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Quantum grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Nardo grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Camoflage green
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Soho brown
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Brown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Java brown
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Brown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Teak brown
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Brown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ipanema brown
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Brown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Diamond beige
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Beige
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Siam beige
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Beige
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Tornado grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Havana black
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mamba black
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Vesuvius grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ice silver
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Silver
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Suzuka grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Terra grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Cuvée silver
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Silver
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFA500;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Samoa orange
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Orange
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFA500;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Coral orange
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Orange
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Catalunya red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Tango red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Shiraz red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Seville red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ascari blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Utopia blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Java green
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
@@ -3397,12 +5259,12 @@ This model is available with a seat configuration with five seats.
 				Peak power
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				265 KW (360 hp /355 bhp)
+				265 kW (360 hp / 355 bhp)
 			</td>
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Peak power with  boost
+				Peak power with boost
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				300 Kw
@@ -3413,7 +5275,7 @@ This model is available with a seat configuration with five seats.
 				Electrical torque output
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				561 nm (414 lb-ft)
+				561 Nm (414 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -3456,7 +5318,7 @@ This model is available with a seat configuration with five seats.
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Range & Consumption</h2>
 
-Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
+Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
 <div class="overflow-x-auto">
 <table class="min-w-full divide-y divide-gray-200">
 	<thead class="bg-gray-50">
@@ -3733,6 +5595,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Dimensions.WidhtIncludingMirrors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				2189 mm (86,2")
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Wheelbase
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
@@ -3880,7 +5750,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Max trailer weight Un braked
+				Max trailer weight unbraked
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				750 kg (1653 lbs)
@@ -4706,6 +6576,36 @@ This model is available with a seat configuration with five seats.
 </table>
 </div>
 
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Center consoles</h3>
+
+
+<h4 class="text-base font-medium text-gray-900 mb-2">First row center console</h4>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Console design
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Traditional console
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
 <h2 class="text-xl font-bold text-gray-900 mb-4">Driver Assistance</h2>
 
 <div class="overflow-x-auto">
@@ -4787,7 +6687,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				AntiLock Braking System
+				Anti-Lock Braking System
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
@@ -4843,7 +6743,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Cross traffic allert (CTA)
+				Cross traffic alert (CTA)
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Collision Avoidance Assist), optional equipment
@@ -4879,6 +6779,242 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not available
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h2 class="text-xl font-bold text-gray-900 mb-4">Sensors & Cameras</h2>
+
+
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Ultrasonic sensors</h3>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front left corner
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front right corner
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front left side
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front right side
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear left side
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear right side
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear left corner
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear right corner
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Cameras</h3>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Top center windshield
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Front (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On left wing mirror (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On right wing mirror (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Rear center (Optional)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Radar sensors</h3>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Front
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Left front corner (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Right front corner (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Left rear corner (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Right rear corner (Optional)
 			</td>
 		</tr>
 	</tbody>
@@ -4934,7 +7070,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Apple Carplay support
+				Apple CarPlay support
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Smartphone Interface), optional equipment
@@ -5069,6 +7205,516 @@ This model is available with a seat configuration with five seats.
 	</tbody>
 </table>
 </div>
+
+<h2 class="text-xl font-bold text-gray-900 mb-4">Exterior</h2>
+
+
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Paint colors</h3>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Daytona Grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFFFF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Glacier White
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				White
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Catalunya Red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Plasma Blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Florett Silver
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Silver
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Chronos Grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Typhoon Grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Navarra Blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Galaxy Blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Antigua Blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Manhatten Grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Brilliant Black
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mythos black
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Misano red, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#800080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Merlin purple, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Purple
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#800080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Velvet purple, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Purple
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Sepang blue, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Nogoro blue, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Palace blue, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Night blue, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Oak green, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Goodwood green, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Deep green, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Sand beige, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Beige
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Arrow grey, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Nimbus grey, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ara blue, crystal effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Panther black, crystal effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFFFF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Amalfi white
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				White
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFF00;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Vegas yellow
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yellow
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Green
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Cumulus blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFF00;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Citrus yellow
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yellow
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFF00;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Solar orange
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yellow
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFA500;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Solar orange
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Orange
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Quantum grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Nardo grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Camoflage green
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Soho brown
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Brown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Java brown
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Brown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Teak brown
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Brown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ipanema brown
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Brown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Diamond beige
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Beige
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Siam beige
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Beige
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Tornado grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Havana black
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mamba black
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Vesuvius grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ice silver
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Silver
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Suzuka grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Terra grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Cuvée silver
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Silver
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFA500;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Samoa orange
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Orange
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFA500;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Coral orange
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Orange
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Catalunya red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Tango red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Shiraz red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Seville red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ascari blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Utopia blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Java green
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
@@ -5111,12 +7757,12 @@ This model is available with a seat configuration with five seats.
 				Peak power
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				265 KW (360 hp /355 bhp)
+				265 kW (360 hp / 355 bhp)
 			</td>
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Peak power with  boost
+				Peak power with boost
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				300 Kw
@@ -5127,7 +7773,7 @@ This model is available with a seat configuration with five seats.
 				Electrical torque output
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				561 nm (414 lb-ft)
+				561 Nm (414 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -5170,7 +7816,7 @@ This model is available with a seat configuration with five seats.
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Range & Consumption</h2>
 
-Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
+Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
 <div class="overflow-x-auto">
 <table class="min-w-full divide-y divide-gray-200">
 	<thead class="bg-gray-50">
@@ -5447,6 +8093,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Dimensions.WidhtIncludingMirrors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				2189 mm (86,2")
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Wheelbase
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
@@ -5594,7 +8248,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Max trailer weight Un braked
+				Max trailer weight unbraked
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				750 kg (1653 lbs)
@@ -6420,6 +9074,36 @@ This model is available with a seat configuration with five seats.
 </table>
 </div>
 
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Center consoles</h3>
+
+
+<h4 class="text-base font-medium text-gray-900 mb-2">First row center console</h4>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Console design
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Traditional console
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
 <h2 class="text-xl font-bold text-gray-900 mb-4">Driver Assistance</h2>
 
 <div class="overflow-x-auto">
@@ -6501,7 +9185,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				AntiLock Braking System
+				Anti-Lock Braking System
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
@@ -6557,7 +9241,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Cross traffic allert (CTA)
+				Cross traffic alert (CTA)
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Collision Avoidance Assist), optional equipment
@@ -6593,6 +9277,242 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not available
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h2 class="text-xl font-bold text-gray-900 mb-4">Sensors & Cameras</h2>
+
+
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Ultrasonic sensors</h3>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front left corner
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front right corner
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front left side
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front right side
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear left side
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear right side
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear left corner
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear right corner
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Cameras</h3>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Top center windshield
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Front (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On left wing mirror (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On right wing mirror (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Rear center (Optional)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Radar sensors</h3>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Front
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Left front corner (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Right front corner (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Left rear corner (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Right rear corner (Optional)
 			</td>
 		</tr>
 	</tbody>
@@ -6648,7 +9568,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Apple Carplay support
+				Apple CarPlay support
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Smartphone Interface), optional equipment
@@ -6783,6 +9703,516 @@ This model is available with a seat configuration with five seats.
 	</tbody>
 </table>
 </div>
+
+<h2 class="text-xl font-bold text-gray-900 mb-4">Exterior</h2>
+
+
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Paint colors</h3>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Daytona Grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFFFF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Glacier White
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				White
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Catalunya Red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Plasma Blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Florett Silver
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Silver
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Chronos Grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Typhoon Grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Navarra Blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Galaxy Blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Antigua Blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Manhatten Grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Brilliant Black
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mythos black
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Misano red, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#800080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Merlin purple, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Purple
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#800080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Velvet purple, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Purple
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Sepang blue, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Nogoro blue, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Palace blue, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Night blue, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Oak green, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Goodwood green, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Deep green, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Sand beige, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Beige
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Arrow grey, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Nimbus grey, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ara blue, crystal effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Panther black, crystal effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFFFF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Amalfi white
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				White
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFF00;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Vegas yellow
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yellow
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Green
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Cumulus blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFF00;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Citrus yellow
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yellow
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFF00;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Solar orange
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yellow
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFA500;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Solar orange
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Orange
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Quantum grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Nardo grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Camoflage green
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Soho brown
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Brown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Java brown
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Brown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Teak brown
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Brown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ipanema brown
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Brown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Diamond beige
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Beige
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Siam beige
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Beige
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Tornado grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Havana black
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mamba black
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Vesuvius grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ice silver
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Silver
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Suzuka grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Terra grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Cuvée silver
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Silver
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFA500;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Samoa orange
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Orange
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFA500;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Coral orange
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Orange
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Catalunya red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Tango red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Shiraz red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Seville red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ascari blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Utopia blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Java green
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
@@ -6825,12 +10255,12 @@ This model is available with a seat configuration with five seats.
 				Peak power
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				265 KW (360 hp /355 bhp)
+				265 kW (360 hp / 355 bhp)
 			</td>
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Peak power with  boost
+				Peak power with boost
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				300 Kw
@@ -6841,7 +10271,7 @@ This model is available with a seat configuration with five seats.
 				Electrical torque output
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				561 nm (414 lb-ft)
+				561 Nm (414 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -6884,7 +10314,7 @@ This model is available with a seat configuration with five seats.
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Range & Consumption</h2>
 
-Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
+Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
 <div class="overflow-x-auto">
 <table class="min-w-full divide-y divide-gray-200">
 	<thead class="bg-gray-50">
@@ -7121,6 +10551,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Dimensions.WidhtIncludingMirrors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				2189 mm (86,2")
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Wheelbase
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
@@ -7260,7 +10698,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Max trailer weight Un braked
+				Max trailer weight unbraked
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				750 kg (1653 lbs)
@@ -7959,6 +11397,36 @@ This model is available with a seat configuration with five seats.
 </table>
 </div>
 
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Center consoles</h3>
+
+
+<h4 class="text-base font-medium text-gray-900 mb-2">First row center console</h4>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Console design
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Traditional console
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
 <h2 class="text-xl font-bold text-gray-900 mb-4">Driver Assistance</h2>
 
 <div class="overflow-x-auto">
@@ -8040,7 +11508,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				AntiLock Braking System
+				Anti-Lock Braking System
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
@@ -8096,7 +11564,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Cross traffic allert (CTA)
+				Cross traffic alert (CTA)
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Collision Avoidance Assist), optional equipment
@@ -8132,6 +11600,242 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not available
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h2 class="text-xl font-bold text-gray-900 mb-4">Sensors & Cameras</h2>
+
+
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Ultrasonic sensors</h3>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front left corner
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front right corner
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front left side
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front right side
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear left side
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear right side
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear left corner
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear right corner
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Cameras</h3>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Top center windshield
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Front (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On left wing mirror (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On right wing mirror (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Rear center (Optional)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Radar sensors</h3>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Front
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Left front corner (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Right front corner (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Left rear corner (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Right rear corner (Optional)
 			</td>
 		</tr>
 	</tbody>
@@ -8187,7 +11891,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Apple Carplay support
+				Apple CarPlay support
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Smartphone Interface), optional equipment
@@ -8322,6 +12026,52 @@ This model is available with a seat configuration with five seats.
 	</tbody>
 </table>
 </div>
+
+<h2 class="text-xl font-bold text-gray-900 mb-4">Exterior</h2>
+
+
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Paint colors</h3>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mythos black
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Siam beige
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Beige
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Magnetic Grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
@@ -8364,12 +12114,12 @@ This model is available with a seat configuration with five seats.
 				Peak power
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				320 KW (435 hp /429 bhp)
+				320 kW (435 hp / 429 bhp)
 			</td>
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Peak power with  boost
+				Peak power with boost
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				370 Kw
@@ -8380,7 +12130,7 @@ This model is available with a seat configuration with five seats.
 				Electrical torque output
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				561 nm (414 lb-ft)
+				561 Nm (414 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -8423,7 +12173,7 @@ This model is available with a seat configuration with five seats.
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Range & Consumption</h2>
 
-Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
+Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
 <div class="overflow-x-auto">
 <table class="min-w-full divide-y divide-gray-200">
 	<thead class="bg-gray-50">
@@ -8684,6 +12434,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Dimensions.WidhtIncludingMirrors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				2189 mm (86,2")
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Wheelbase
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
@@ -8831,7 +12589,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Max trailer weight Un braked
+				Max trailer weight unbraked
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				750 kg (1653 lbs)
@@ -8978,300 +12736,6 @@ This model is available with a seat configuration with five seats.
 
 <h3 class="text-lg font-semibold text-gray-900 mb-3">Front seats</h3>
 
-
-<h4 class="text-base font-medium text-gray-900 mb-2">standard</h4>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spec
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Value
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seat type
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Driver and Passenger Seat
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seat depth adjustment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seat height adjustment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Backrest angle adjustment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seat cushion angle adjustment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Memory
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Height adjustable headrest
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Standard feature
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Length adjustable headrest
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Adjustable thigh support
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Backrest side bolster adjustment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seat cushion side bolster adjustment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Footrest passenger
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Leg support passenger
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Electric lumbar adjustment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seat ventilation
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Massage function
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Not Available
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h4 class="text-base font-medium text-gray-900 mb-2">sport</h4>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spec
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Value
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seat type
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Driver and Passenger Seat
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seat depth adjustment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seat height adjustment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Backrest angle adjustment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seat cushion angle adjustment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Memory
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Height adjustable headrest
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Standard feature
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Length adjustable headrest
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Adjustable thigh support
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Standard feature
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Backrest side bolster adjustment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seat cushion side bolster adjustment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Footrest passenger
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Leg support passenger
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Electric lumbar adjustment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seat ventilation
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Massage function
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Not Available
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
 
 <h4 class="text-base font-medium text-gray-900 mb-2">s-line sport</h4>
 
@@ -9824,6 +13288,36 @@ This model is available with a seat configuration with five seats.
 </table>
 </div>
 
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Center consoles</h3>
+
+
+<h4 class="text-base font-medium text-gray-900 mb-2">First row center console</h4>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Console design
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Traditional console
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
 <h2 class="text-xl font-bold text-gray-900 mb-4">Driver Assistance</h2>
 
 <div class="overflow-x-auto">
@@ -9905,7 +13399,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				AntiLock Braking System
+				Anti-Lock Braking System
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
@@ -9961,7 +13455,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Cross traffic allert (CTA)
+				Cross traffic alert (CTA)
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Collision Avoidance Assist), optional equipment
@@ -9997,6 +13491,242 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not available
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h2 class="text-xl font-bold text-gray-900 mb-4">Sensors & Cameras</h2>
+
+
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Ultrasonic sensors</h3>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front left corner
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front right corner
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front left side
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front right side
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear left side
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear right side
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear left corner
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear right corner
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Cameras</h3>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Top center windshield
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Front (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On left wing mirror (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On right wing mirror (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Rear center (Optional)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Radar sensors</h3>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Front
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Left front corner (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Right front corner (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Left rear corner (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Right rear corner (Optional)
 			</td>
 		</tr>
 	</tbody>
@@ -10052,7 +13782,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Apple Carplay support
+				Apple CarPlay support
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Smartphone Interface), optional equipment
@@ -10187,6 +13917,516 @@ This model is available with a seat configuration with five seats.
 	</tbody>
 </table>
 </div>
+
+<h2 class="text-xl font-bold text-gray-900 mb-4">Exterior</h2>
+
+
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Paint colors</h3>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Daytona Grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFFFF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Glacier White
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				White
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Catalunya Red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Plasma Blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Florett Silver
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Silver
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Chronos Grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Typhoon Grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Navarra Blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Galaxy Blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Antigua Blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Manhatten Grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Brilliant Black
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mythos black
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Misano red, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#800080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Merlin purple, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Purple
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#800080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Velvet purple, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Purple
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Sepang blue, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Nogoro blue, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Palace blue, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Night blue, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Oak green, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Goodwood green, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Deep green, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Sand beige, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Beige
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Arrow grey, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Nimbus grey, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ara blue, crystal effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Panther black, crystal effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFFFF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Amalfi white
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				White
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFF00;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Vegas yellow
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yellow
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Green
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Cumulus blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFF00;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Citrus yellow
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yellow
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFF00;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Solar orange
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yellow
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFA500;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Solar orange
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Orange
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Quantum grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Nardo grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Camoflage green
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Soho brown
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Brown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Java brown
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Brown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Teak brown
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Brown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ipanema brown
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Brown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Diamond beige
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Beige
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Siam beige
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Beige
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Tornado grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Havana black
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mamba black
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Vesuvius grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ice silver
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Silver
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Suzuka grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Terra grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Cuvée silver
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Silver
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFA500;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Samoa orange
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Orange
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFA500;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Coral orange
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Orange
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Catalunya red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Tango red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Shiraz red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Seville red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ascari blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Utopia blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Java green
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 </div>
 </div>
     <div class="border border-gray-200 rounded-lg overflow-hidden">
@@ -10229,12 +14469,12 @@ This model is available with a seat configuration with five seats.
 				Peak power
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				320 KW (435 hp /429 bhp)
+				320 kW (435 hp / 429 bhp)
 			</td>
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Peak power with  boost
+				Peak power with boost
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				370 Kw
@@ -10245,7 +14485,7 @@ This model is available with a seat configuration with five seats.
 				Electrical torque output
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				561 nm (414 lb-ft)
+				561 Nm (414 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -10288,7 +14528,7 @@ This model is available with a seat configuration with five seats.
 
 <h2 class="text-xl font-bold text-gray-900 mb-4">Range & Consumption</h2>
 
-Below you see the offical range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the offical range values are measured.
+Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
 <div class="overflow-x-auto">
 <table class="min-w-full divide-y divide-gray-200">
 	<thead class="bg-gray-50">
@@ -10549,6 +14789,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Dimensions.WidhtIncludingMirrors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				2189 mm (86,2")
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
 				Wheelbase
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
@@ -10696,7 +14944,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Max trailer weight Un braked
+				Max trailer weight unbraked
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				750 kg (1653 lbs)
@@ -10843,300 +15091,6 @@ This model is available with a seat configuration with five seats.
 
 <h3 class="text-lg font-semibold text-gray-900 mb-3">Front seats</h3>
 
-
-<h4 class="text-base font-medium text-gray-900 mb-2">standard</h4>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spec
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Value
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seat type
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Driver and Passenger Seat
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seat depth adjustment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seat height adjustment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Backrest angle adjustment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seat cushion angle adjustment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Memory
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Height adjustable headrest
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Standard feature
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Length adjustable headrest
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Adjustable thigh support
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Backrest side bolster adjustment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seat cushion side bolster adjustment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Footrest passenger
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Leg support passenger
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Electric lumbar adjustment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seat ventilation
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Massage function
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Not Available
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h4 class="text-base font-medium text-gray-900 mb-2">sport</h4>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spec
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Value
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seat type
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Driver and Passenger Seat
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seat depth adjustment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seat height adjustment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Backrest angle adjustment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seat cushion angle adjustment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Memory
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Height adjustable headrest
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Standard feature
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Length adjustable headrest
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Adjustable thigh support
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Standard feature
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Backrest side bolster adjustment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seat cushion side bolster adjustment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Footrest passenger
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Leg support passenger
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Electric lumbar adjustment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seat ventilation
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Massage function
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Not Available
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
 
 <h4 class="text-base font-medium text-gray-900 mb-2">s-line sport</h4>
 
@@ -11689,6 +15643,36 @@ This model is available with a seat configuration with five seats.
 </table>
 </div>
 
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Center consoles</h3>
+
+
+<h4 class="text-base font-medium text-gray-900 mb-2">First row center console</h4>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Console design
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Traditional console
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
 <h2 class="text-xl font-bold text-gray-900 mb-4">Driver Assistance</h2>
 
 <div class="overflow-x-auto">
@@ -11770,7 +15754,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				AntiLock Braking System
+				Anti-Lock Braking System
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes, standard equipment
@@ -11826,7 +15810,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Cross traffic allert (CTA)
+				Cross traffic alert (CTA)
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Audi Collision Avoidance Assist), optional equipment
@@ -11862,6 +15846,242 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Not available
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h2 class="text-xl font-bold text-gray-900 mb-4">Sensors & Cameras</h2>
+
+
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Ultrasonic sensors</h3>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front left corner
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front right corner
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front left side
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper front right side
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear left side
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear right side
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear left corner
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear right corner
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Ultrasonic sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On bumper rear
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Cameras</h3>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Top center windshield
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Front (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On left wing mirror (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				On right wing mirror (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Cameras
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Rear center (Optional)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Radar sensors</h3>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Front
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Left front corner (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Right front corner (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Left rear corner (Optional)
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				Radar sensors
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Right rear corner (Optional)
 			</td>
 		</tr>
 	</tbody>
@@ -11917,7 +16137,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Apple Carplay support
+				Apple CarPlay support
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				Yes (Smartphone Interface), optional equipment
@@ -12047,6 +16267,516 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
 				700
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<h2 class="text-xl font-bold text-gray-900 mb-4">Exterior</h2>
+
+
+<h3 class="text-lg font-semibold text-gray-900 mb-3">Paint colors</h3>
+
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-200">
+	<thead class="bg-gray-50">
+		<tr>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Spec
+			</th>
+			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+				Value
+			</th>
+		</tr>
+	</thead>
+	<tbody class="bg-white divide-y divide-gray-200">
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Daytona Grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFFFF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Glacier White
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				White
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Catalunya Red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Plasma Blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Florett Silver
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Silver
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Chronos Grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Typhoon Grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Navarra Blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Galaxy Blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Antigua Blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Manhatten Grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Brilliant Black
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mythos black
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Misano red, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#800080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Merlin purple, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Purple
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#800080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Velvet purple, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Purple
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Sepang blue, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Nogoro blue, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Palace blue, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Night blue, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Oak green, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Goodwood green, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Deep green, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Sand beige, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Beige
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Arrow grey, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Nimbus grey, pearl effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ara blue, crystal effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Panther black, crystal effect
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFFFF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Amalfi white
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				White
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFF00;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Vegas yellow
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yellow
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Green
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Cumulus blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFF00;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Citrus yellow
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yellow
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFF00;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Solar orange
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Yellow
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFA500;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Solar orange
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Orange
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Quantum grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Nardo grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Camoflage green
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Soho brown
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Brown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Java brown
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Brown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Teak brown
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Brown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ipanema brown
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Brown
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Diamond beige
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Beige
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Siam beige
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Beige
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Tornado grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Havana black
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mamba black
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Black
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Vesuvius grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ice silver
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Silver
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Suzuka grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Terra grey
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Gray
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Cuvée silver
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Silver
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFA500;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Samoa orange
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Orange
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FFA500;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Coral orange
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Orange
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Catalunya red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Tango red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Shiraz red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Seville red
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Red
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ascari blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Utopia blue
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Blue
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Java green
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				Green
 			</td>
 		</tr>
 	</tbody>

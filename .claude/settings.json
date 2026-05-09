@@ -5,7 +5,17 @@
       "Bash(ls -d /d/repos/electrichasgoneaudi.github.io/content/models/a3*/)",
       "Bash(xargs -I{} head -3 {})",
       "WebFetch(domain:www.audi-mediacenter.com)",
-      "Bash(xargs grep:*)"
+      "Bash(xargs grep:*)",
+      "Bash(Get-ChildItem -Path \"d:\\\\repos\\\\electrichasgoneaudi.github.io\" -Recurse -Directory -Filter \"*E7X*\")",
+      "Bash(Select-Object -ExpandProperty FullName)",
+      "Bash(Get-ChildItem -Path \"d:\\\\repos\\\\electrichasgoneaudi.github.io\\\\content\\\\models\" -Directory)",
+      "Bash(Select-Object Name)",
+      "WebFetch(domain:evkx.net)",
+      "Bash(Get-ChildItem \"d:\\\\repos\\\\electrichasgoneaudi.github.io\\\\content\\\\models\\\\q8-e-tron\\\\exterior\" -Filter \"_index.md\")",
+      "Bash(Select-Object -First 1)",
+      "Bash(Get-Content)",
+      "Bash(Select-String \"sitefiguresized\")",
+      "Bash(Select-Object -First 5)"
     ]
   }
 }
