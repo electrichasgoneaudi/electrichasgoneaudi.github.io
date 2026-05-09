@@ -25,7 +25,12 @@ The dual-motor variants sprint from 0–100 km/h in just 3.9 seconds, while the 
 
 ## Battery & charging
 
-All variants are equipped with a **100 kWh (gross) NMC battery**. The E7X supports up to **400 kW DC fast charging**, enabling very short charging stops. The charge port is located on the right rear side of the vehicle.
+Two battery options are available across the E7X range:
+
+- **100 kWh** — supporting CLTC range from 635 km (quattro) to 751 km (Pioneer Long-Range)
+- **109 kWh** — maximum range configuration
+
+The E7X uses a **900-volt electrical architecture** and supports **4C fast charging**, enabling a charge from **10% to 80% in just 13 minutes**. The charge port is located on the right rear side of the vehicle.
 
 CLTC-rated range varies by variant:
 
@@ -34,6 +39,12 @@ CLTC-rated range varies by variant:
 - Pioneer Long-Range: 751 km
 - Pioneer quattro: 635 km
 - Flagship quattro: 660 km
+
+## Steering
+
+The AUDI E7X features **all-wheel steering** as standard across the entire range — both front and rear wheels steer, reducing the turning circle to **10.3 metres** despite the E7X's 5,049 mm length. Progressive steering ratio adjusts automatically with speed for precise low-speed manoeuvrability and stability at highway speeds.
+
+**AUDI drive select** offers multiple driving modes including a dedicated **off-road mode** with settings optimised for low-traction surfaces.
 
 ## Suspension
 

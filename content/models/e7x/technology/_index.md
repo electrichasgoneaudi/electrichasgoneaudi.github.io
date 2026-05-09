@@ -10,6 +10,19 @@ The AUDI E7X is built around a deeply connected, intelligent technology platform
 
 {{< sitefiguresized thumb="models/e7x/exterior/exterior_5_st.webp" width="3000" height="1688" title="AUDI E7X" >}}
 
+## AUDI 360 Driving Assist
+
+The E7X features the **AUDI 360 Driving Assist** system, co-developed with **Momenta** and equipped with a **lidar sensor** for enhanced environmental perception at long range and in complex scenarios.
+
+The system covers:
+
+- Highway driving assistance (longitudinal and lateral control)
+- Urban driving assistance
+- Memory parking for garages and parking lots
+- Non-standard parking capability and head-in parking
+- Dynamic warning indicators projected onto the road surface
+- Predictive distance warnings for vehicles ahead
+
 ## Driver assistance systems
 
 The E7X comes equipped with an extensive suite of driver assistance features as standard:
@@ -50,14 +63,14 @@ The E7X features **vertically arranged digital Matrix LED headlights** as a key 
 
 ## Sound system
 
-From the **Pioneer Pro** upwards, the **BOSE Performance sound system** is included:
+The **Bose Performance Series** sound system delivers **26 speakers** with 360° spatial audio across the cabin. Features include:
 
 - Four world-first audio technologies
-- Immersive audio architecture
-- DSP processing power up to 2,000 MIPS
+- 360° spatial audio architecture
+- DSP processing up to 2,000 MIPS
 - Intelligent road noise isolation
 
-The **Flagship quattro** receives an upgraded **9.1.4.8 BOSE Performance** configuration — a 9.1.4.8 immersive audio architecture with the same four world-first technologies and DSP power, but with a more expansive speaker arrangement (value ¥15,000).
+The Flagship quattro receives an upgraded **9.1.4.8 BOSE Performance** configuration (value ¥15,000).
 
 {{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/speakers_cc864_st.webp" width="1070" height="630" title="AUDI E7X BOSE Performance speaker" >}}
 
