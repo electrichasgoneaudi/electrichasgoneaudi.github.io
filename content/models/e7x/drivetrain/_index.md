@@ -47,10 +47,10 @@ The AUDI E7X uses an adaptive suspension setup across all variants, with the lev
 
 From the **Pioneer Pro** upwards, the **Audi Track-level Chassis** package adds **CDC continuous damping control combined with air suspension**, replacing the standard adaptive damper setup. The all-aluminum chassis construction further reduces unsprung mass. This package is included as a limited-time gift on the Pioneer Pro, Pioneer quattro and above.
 
-{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/chassis_4e086_st.webp" width="3000" height="2000" title="AUDI E7X chassis" >}}
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/chassis_4e086_st.webp" width="1920" height="1080" title="AUDI E7X chassis" >}}
 
-{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/chassis_d2e7e_st.webp" width="3000" height="2000" title="AUDI E7X chassis" >}}
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/chassis_d2e7e_st.webp" width="1920" height="1080" title="AUDI E7X chassis" >}}
 
-{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/batterypack_94a4c_st.webp" width="3000" height="2000" title="AUDI E7X battery pack" >}}
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/batterypack_94a4c_st.webp" width="1920" height="1080" title="AUDI E7X battery pack" >}}
 
 {{<children description="true" />}}
