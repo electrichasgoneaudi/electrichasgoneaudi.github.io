@@ -8,7 +8,7 @@ weight: 5
 
 The AUDI E7X interior is designed around the tech-savvy Chinese customer, combining premium materials and craftsmanship with a deeply digital and connected cabin experience.
 
-{{< evkxfiguresized thumb="models/audi/e7x/e7x_pioneer_quattro/interior_2896c_st.webp" width="3000" height="2000" title="AUDI E7X interior" >}}
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_pioneer_quattro/interior_2896c_st.webp" width="1920" height="1080" title="AUDI E7X interior" >}}
 
 ## Seating configuration
 
@@ -23,15 +23,15 @@ The front seats offer a driver and passenger seat configuration with:
 - Optional seat ventilation
 - Optional massage function
 
-{{< evkxfiguresized thumb="models/audi/e7x/e7x_pioneer_quattro/frontseats_231fc_st.webp" width="3000" height="2000" title="AUDI E7X front seats" >}}
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/frontseats_231fc_st.webp" width="1920" height="1080" title="AUDI E7X front seats" >}}
 
 ### Rear seats
 
 The rear features a three-seat bench providing generous space thanks to the 3,060 mm wheelbase.
 
-{{< evkxfiguresized thumb="models/audi/e7x/e7x_pioneer_quattro/secondrowseats_13d2f_st.webp" width="3000" height="2000" title="AUDI E7X rear seats" >}}
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_pioneer_quattro/secondrowseats_13d2f_st.webp" width="1920" height="1080" title="AUDI E7X rear seats" >}}
 
-{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/secondrowseats_b01f2_st.webp" width="3000" height="2000" title="AUDI E7X Flagship quattro rear seats" >}}
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/secondrowseats_b01f2_st.webp" width="1920" height="1080" title="AUDI E7X Flagship quattro rear seats" >}}
 
 ## Interior colors and inlays
 
@@ -104,12 +104,12 @@ The AUDI E7X features an extensive multi-screen cabin:
 
 The cabin does not support Android Auto or gesture control, reflecting AUDI's focus on its own deeply integrated China-specific software ecosystem.
 
-{{< evkxfiguresized thumb="models/audi/e7x/e7x_pioneer_quattro/interior_a77e9_st.webp" width="3000" height="2000" title="AUDI E7X interior" >}}
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_pioneer_quattro/interior_a77e9_st.webp" width="1070" height="630" title="AUDI E7X interior" >}}
 
-{{< evkxfiguresized thumb="models/audi/e7x/e7x_pioneer_quattro/screens_ff4dc_st.webp" width="3000" height="2000" title="AUDI E7X screens" >}}
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_pioneer_quattro/screens_ff4dc_st.webp" width="1070" height="630" title="AUDI E7X screens" >}}
 
-{{< evkxfiguresized thumb="models/audi/e7x/e7x_pioneer_quattro/interior_44525_st.webp" width="3000" height="2000" title="AUDI E7X interior" >}}
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_pioneer_quattro/interior_44525_st.webp" width="1920" height="1080" title="AUDI E7X interior" >}}
 
-{{< evkxfiguresized thumb="models/audi/e7x/e7x_pioneer_quattro/interior_ce202_st.webp" width="3000" height="2000" title="AUDI E7X interior" >}}
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_pioneer_quattro/interior_ce202_st.webp" width="1600" height="900" title="AUDI E7X interior" >}}
 
 {{<children description="true" />}}
