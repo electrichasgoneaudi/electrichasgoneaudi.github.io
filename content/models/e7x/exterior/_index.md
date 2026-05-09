@@ -14,9 +14,10 @@ The AUDI E7X exterior design is directly inspired by the AUDI E SUV concept, tra
 
 Key design characteristics of the E7X exterior include:
 
-- Clean, monolithic surfaces with a calm yet striking appearance
-- Upright front end with a distinctive black wraparound design element
-- Vertically arranged **digital Matrix LED headlights**
+- **AUDI Light Frame** — a wraparound front architecture with over **1,000 individually controllable triangular LED elements**, creating a distinctive light identity at the front and sides
+- Vertically arranged **digital Matrix LED headlights** with lane and position marking capability
+- Black wraparound loop integrating lights and sensors
+- **Frameless doors** for a clean, uninterrupted body surface
 - Short overhangs and powerfully sculpted wheel arches
 - SUV body style with a commanding road presence
 
@@ -28,10 +29,8 @@ The E7X occupies a commanding footprint in the large premium SUV segment:
 
 - Length: 5,049 mm
 - Width: 1,997 mm (excluding mirrors)
-- Height: 1,708 mm
+- Height: 1,710 mm
 - Wheelbase: 3,060 mm
-- Track width front: 1,705 mm
-- Track width rear: 1,717 mm
 - Turning circle: 10.3 m
 
 ## Paint colors

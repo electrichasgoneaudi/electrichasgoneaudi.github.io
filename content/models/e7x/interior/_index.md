@@ -83,7 +83,10 @@ From the Pioneer Pro upwards, the **Audi Smart Living Room** package transforms 
 The Flagship quattro replaces the Smart Living Room with the **Palace-Class Zero-Pressure Four-Seat First-Class Cabin** (殿堂级零压四座头等舱, value ¥59,000) — a significantly elevated rear experience:
 
 - **21.4-inch QD Mini LED rear ceiling screen** — star screen, smart four-season cooler/warmer box
-- **Dual rear zero-gravity seats** — both rear outboard seats recline to true zero-gravity positions, vs single front passenger zero-G on lower variants
+- **Dual rear zero-gravity seats** — both rear outboard seats recline to **120°** (near-flat), vs single front passenger zero-G on lower variants
+- **23-point pneumatic adjustment** with airbag-based support shaping (per seat)
+- **16-point massage function**
+- Electric extendable footrest with up to **400 mm of travel**
 
 ## Health certification
 
@@ -91,18 +94,17 @@ The entire cabin carries **OEKO-TEX® mother & baby grade health certification**
 
 ## Screens and user interface
 
-The AUDI E7X features an extensive multi-screen cabin:
+The AUDI E7X features a full-width multi-screen cabin architecture:
 
-- **Digital driver display**
-- **Central infotainment screen**
-- **Audi wide-area display** (part of Super Sense Smart Package)
-- **21.4-inch QD Mini LED rear ceiling screen** — Apple XDR-grade panel, supports wired/wireless projection from Switch, PS5 and other devices (included as limited-time gift)
+- **27-inch 4K panoramic dashboard display** — a single curved screen spanning the full instrument and infotainment width
+- **21.4-inch QD Mini LED rear ceiling screen** — deploys from the headliner, Apple XDR-grade, supports wired/wireless projection from Switch, PS5 and other devices
 - **Rear center console touchscreen**
 - Optional **head-up display**
-- **Voice control** (Audi Assistant) as standard
 - **Audi Smart Island** — smart interaction hub
 
-The cabin does not support Android Auto or gesture control, reflecting AUDI's focus on its own deeply integrated China-specific software ecosystem.
+**AUDI Assistant 2.0** — the voice and AI interface, co-developed with **ByteDance**. Delivers significantly enhanced conversational AI capability and deep integration with Chinese digital services, apps and payment platforms. Standard on all variants.
+
+The cabin does not support Android Auto, reflecting AUDI's focus on its own deeply integrated China-specific software ecosystem.
 
 {{< evkxfiguresized thumb="models/audi/e7x/e7x_pioneer_quattro/interior_a77e9_st.webp" width="1070" height="630" title="AUDI E7X interior" >}}
 
