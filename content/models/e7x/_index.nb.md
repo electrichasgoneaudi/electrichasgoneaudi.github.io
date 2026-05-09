@@ -51,6 +51,8 @@ Bekreftede dimensjoner:
 
 {{< sitefiguresized thumb="models/e7x/exterior/exterior_2_st.webp" width="3000" height="2250" title="AUDI E7X" >}}
 
+→ [Fullt eksteriørkapittel: farger, hjul, frontlykter og speil](./exterior/)
+
 ---
 
 ## Interiør
@@ -70,6 +72,8 @@ De bakre executive-setene i firsetersversjonen tilbyr:
 - **23-punkts pneumatisk justeringssystem** med luftputebasert støtteforming
 - **16-punkts massasjefunksjon**
 - Elektrisk fotavstøtter med opptil **400 mm rekkevidde**
+
+→ [Fullt interiørkapittel: seter, skjermer, materialer og pakker](./interior/)
 
 ---
 
@@ -91,6 +95,8 @@ To drivlinjevarianter tilbys:
 
 **Firehjulsstyring** er standard på hele modellprogrammet, noe som reduserer svingradiusen til **10,3 meter** til tross for E7Xs store dimensjoner.
 
+→ [Fullt drivlinjekapittel: motorer, batteri, lading og fjæring](./drivetrain/)
+
 ---
 
 ## Teknologi
@@ -103,10 +109,22 @@ Kjøreassistansen håndteres av **AUDI 360 Driving Assist**, co-utviklet med **M
 
 **Bose Performance Series**-lydsystemet leverer **26 høyttalere** med 360° romlig lyd.
 
+→ [Fullt teknologikapittel: ADAS, sensorer, lydsystem og tilkobling](./technology/)
+
 ---
 
 ## Rollen i Audis Kina-strategi
 
 Med E7X viderefører AUDI strategien om å tilby **regionsspesifikke elbiler** som kompletterer den globale Audi-porteføljen i Kina. E7X kombinerer Audi-DNA i kjøredynamikk og kvalitet, sømløs integrasjon i Kinas digitale økosystem og et dristig, progressivt SUV-design — alt produsert lokalt i Shanghai.
+
+---
+
+## Utforsk AUDI E7X
+
+- [Varianter og priser](./variants/) — alle fem trimmer med fullstendig utstyrsliste og priser
+- [Eksteriør](./exterior/) — lakkfarger, hjul, frontlykter og speil
+- [Interiør](./interior/) — seter, skjermer, materialer, pakker og helsesertifisering
+- [Drivlinje](./drivetrain/) — motorer, batteri, 900V-lading, fjæring og styring
+- [Teknologi](./technology/) — AUDI 360 Driving Assist, sensorer, Bose-lydsystem og tilkobling
 
 {{< gallery images="models/e7x/exterior/exterior_1_st.webp|AUDI E7X|3000|2000,models/e7x/exterior/exterior_2_st.webp|AUDI E7X|3000|2000,models/e7x/exterior/exterior_3_st.webp|AUDI E7X|3000|2000,models/e7x/exterior/exterior_4_st.webp|AUDI E7X|3000|2000,models/e7x/exterior/exterior_5_st.webp|AUDI E7X|3000|1688" >}}

@@ -51,6 +51,8 @@ Confirmed dimensions:
 
 {{< sitefiguresized thumb="models/e7x/exterior/exterior_2_st.webp" width="3000" height="2250" title="AUDI E7X" >}}
 
+→ [Full exterior details: colors, wheels, headlights and mirrors](./exterior/)
+
 ---
 
 ## Interior
@@ -70,6 +72,8 @@ The executive rear seats in the four-seat version offer:
 - **23-point pneumatic adjustment system** with airbag-based support shaping
 - **16-point massage function**
 - Electric extendable footrest with up to **400 mm of travel**
+
+→ [Full interior details: seats, screens, materials and packages](./interior/)
 
 ---
 
@@ -91,6 +95,8 @@ Two powertrain configurations are offered:
 
 **All-wheel steering** is standard across the entire range, reducing the turning circle to **10.3 metres** despite the E7X's large footprint.
 
+→ [Full drivetrain details: motors, battery, charging and suspension](./drivetrain/)
+
 ---
 
 ## Technology
@@ -103,10 +109,22 @@ Driver assistance is handled by the **AUDI 360 Driving Assist** system, co-devel
 
 The **Bose Performance Series** sound system delivers **26 speakers** with 360° spatial audio.
 
+→ [Full technology details: ADAS, sensors, sound system and connectivity](./technology/)
+
 ---
 
 ## Role within Audi's China strategy
 
 With the E7X, AUDI continues its strategy of offering **region-specific electric models** that complement the global Audi lineup in China. The E7X combines Audi DNA in dynamics and quality, seamless integration into China's digital ecosystem, and a bold, progressive SUV design — all produced locally in Shanghai.
+
+---
+
+## Explore the AUDI E7X
+
+- [Variants and pricing](./variants/) — all five trims with full equipment lists and prices
+- [Exterior](./exterior/) — paint colors, wheels, headlights and mirrors
+- [Interior](./interior/) — seats, screens, materials, packages and health certification
+- [Drivetrain](./drivetrain/) — motors, battery, 900V charging, suspension and steering
+- [Technology](./technology/) — AUDI 360 Driving Assist, sensors, Bose sound and connectivity
 
 {{< gallery images="models/e7x/exterior/exterior_1_st.webp|AUDI E7X|3000|2000,models/e7x/exterior/exterior_2_st.webp|AUDI E7X|3000|2000,models/e7x/exterior/exterior_3_st.webp|AUDI E7X|3000|2000,models/e7x/exterior/exterior_4_st.webp|AUDI E7X|3000|2000,models/e7x/exterior/exterior_5_st.webp|AUDI E7X|3000|1688" >}}
