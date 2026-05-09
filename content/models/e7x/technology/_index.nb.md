@@ -10,6 +10,19 @@ AUDI E7X er bygget rundt en dypt tilkoblet, intelligent teknologiplattform utvik
 
 {{< sitefiguresized thumb="models/e7x/exterior/exterior_5_st.webp" width="3000" height="1688" title="AUDI E7X" >}}
 
+## AUDI 360 Driving Assist
+
+E7X har **AUDI 360 Driving Assist**-systemet, co-utviklet med **Momenta** og utstyrt med **lidar-sensor** for forbedret omgivelsespersepsjon på lang avstand og i komplekse situasjoner.
+
+Systemet dekker:
+
+- Kjøreassistanse på motorvei (langsgående og tverrgående styring)
+- Kjøreassistanse i by
+- Minneparkering for parkeringshus og parkeringsplasser
+- Ikke-standard parkering og frontparkeringsevne
+- Dynamiske varselindikatorer projisert på veioverflaten
+- Prediktive avstandsvarsler for kjøretøy foran
+
 ## Førerassistansesystemer
 
 E7X leveres med en omfattende pakke med førerassistansefunksjoner som standardutstyr:
@@ -40,20 +53,26 @@ AUDI E7X har et omfattende sensorsystem for førerassistanse og parkering:
 
 **Radarsensorer:** Fremovervendt radar for adaptiv fartsholder og nødbremsefunksjonalitet.
 
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/sensors_2c6fa_st.webp" width="1920" height="1080" title="AUDI E7X sensorsystem" >}}
+
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/camera_d1e99_st.webp" width="1600" height="900" title="AUDI E7X kamera" >}}
+
 ## Lykter
 
 E7X har **vertikalt arrangerte digitale Matrix LED-frontlykter** som et sentralt eksterior- og teknologifremhev, med presis strålestyring og dynamiske lysfunksjoner.
 
 ## Lydsystem
 
-Fra **Pioneer Pro** og oppover er **BOSE Performance-lydsystemet** inkludert:
+**Bose Performance Series**-lydsystemet leverer **26 høyttalere** med 360° romlig lyd i kabinen. Funksjoner inkluderer:
 
 - Fire verdensførsteteknologier innen lyd
-- Oppslukende lydarkitektur
+- 360° romlig lydarkitektur
 - DSP-prosessering opptil 2 000 MIPS
 - Intelligent isolasjon mot veistøy
 
-**Flagship quattro** mottar en oppgradert **9.1.4.8 BOSE Performance**-konfigurasjon — en 9.1.4.8 oppslukende lydarkitektur med de samme fire verdensførsteteknologiene og DSP-kraft, men med et mer ekspansivt høyttaleroppsett (verdi ¥15 000).
+**Flagship quattro** mottar en oppgradert **9.1.4.8 BOSE Performance**-konfigurasjon (verdi ¥15 000).
+
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/speakers_cc864_st.webp" width="1070" height="630" title="AUDI E7X BOSE Performance høyttaler" >}}
 
 ## Bakhjulsstyring
 
@@ -78,6 +97,10 @@ Alle fire dørene har **elektriske sugedører** — skyv lett og døren lukker s
 
 ## Tilkobling
 
-E7X er bygget på AUDI og SAICs **Advanced Digitized Platform**, som muliggjør sømløs integrasjon med Kinas digitale infrastruktur. Stemmestyring (Audi-assistent) er standardutstyr. Kabinen har et flersskjermoppsett med Audi Smart Island, optimert for tilkoblede tjenester i det kinesiske markedet.
+E7X er bygget på AUDI og SAICs **Advanced Digitized Platform**, som muliggjør sømløs integrasjon med Kinas digitale infrastruktur. Stemmestyring (Audi-assistent) er standardutstyr. Kabinen har et flerskjermoppsett med Audi Smart Island, optimert for tilkoblede tjenester i det kinesiske markedet.
+
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/technology_4ba6e_st.webp" width="1070" height="630" title="AUDI E7X teknologi" >}}
+
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/technology_2207b_st.webp" width="1920" height="1080" title="AUDI E7X teknologi" >}}
 
 {{<children description="true" />}}

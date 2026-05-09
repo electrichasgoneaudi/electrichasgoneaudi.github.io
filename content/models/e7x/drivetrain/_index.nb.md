@@ -25,7 +25,12 @@ Firehjulsdriftsvariantene akselererer fra 0–100 km/t på kun 3,9 sekunder, men
 
 ## Batteri og lading
 
-Alle varianter er utstyrt med et **100 kWh (brutto) NMC-batteri**. E7X støtter opptil **400 kW DC hurtiglading**, noe som muliggjør svært korte ladestop. Ladeporten er plassert på høyre bakre side av bilen.
+To batterikapasiteter er tilgjengelige i E7X-programmet:
+
+- **100 kWh** — støtter CLTC-rekkevidde fra 635 km (quattro) til 751 km (Pioneer Long-Range)
+- **109 kWh** — maksimal rekkeviddekonfigurasjon
+
+E7X benytter **900-volts elektrisk arkitektur** og støtter **4C-hurtiglading**, noe som muliggjør lading fra **10 % til 80 % på bare 13 minutter**. Ladeporten er plassert på høyre bakre side av bilen.
 
 CLTC-rekkevidde varierer etter variant:
 
@@ -34,6 +39,12 @@ CLTC-rekkevidde varierer etter variant:
 - Pioneer Long-Range: 751 km
 - Pioneer quattro: 635 km
 - Flagship quattro: 660 km
+
+## Styring
+
+AUDI E7X har **firehjulsstyring** som standard på hele modellprogrammet — både for- og bakhjul styres, noe som reduserer svingradiusen til **10,3 meter** til tross for E7Xs lengde på 5 049 mm. Progressivt styringsforhold justeres automatisk med hastigheten for presis manøvrerbarhet i lav hastighet og stabilitet i motorveifart.
+
+**AUDI drive select** tilbyr flere kjøremodi, inkludert en dedikert **terrengmodus** med innstillinger optimalisert for underlag med lav friksjon.
 
 ## Fjæring
 
@@ -45,6 +56,12 @@ AUDI E7X har adaptivt fjæringssystem på tvers av alle varianter, med økt sofi
 - Justerbar kjørehøyde (foran og bak)
 - Maksimal bakkeklaring: 180 mm
 
-Fra **Pioneer Pro** og oppover legger **Audi Racecourse-chassispakken** til **CDC kontinuerlig dempingskontroll kombinert med luftfjæring**, som erstatter den standard adaptive demperoppsettet. Helalu-chassiset reduserer i tillegg fjærende masser. Denne pakken er inkludert som tidsbegrenset gave på Pioneer Pro, Pioneer quattro og oppover.
+Fra **Pioneer Pro** og oppover legger **Audi Track-level Chassis**-pakken til **CDC kontinuerlig dempingskontroll kombinert med luftfjæring**, som erstatter det standard adaptive demperoppsettet. Helalu-chassiset reduserer i tillegg fjærende masser. Denne pakken er inkludert som tidsbegrenset gave på Pioneer Pro, Pioneer quattro og oppover.
+
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/chassis_4e086_st.webp" width="1920" height="1080" title="AUDI E7X chassis" >}}
+
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/chassis_d2e7e_st.webp" width="1920" height="1080" title="AUDI E7X chassis" >}}
+
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/batterypack_94a4c_st.webp" width="1920" height="1080" title="AUDI E7X batteripakke" >}}
 
 {{<children description="true" />}}

@@ -8,7 +8,7 @@ weight: 5
 
 Interiøret i AUDI E7X er designet med den teknologibevisste kinesiske kunden i fokus, og kombinerer premiummaterialer og håndverk med en gjennomdigital og tilkoblet kabinopplevelse.
 
-{{< sitefiguresized thumb="models/e7x/exterior/exterior_4_st.webp" width="3000" height="2000" title="AUDI E7X" >}}
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_pioneer_quattro/interior_2896c_st.webp" width="1920" height="1080" title="AUDI E7X interiør" >}}
 
 ## Setekonfigurasjon
 
@@ -23,9 +23,15 @@ Forstene tilbyr en fører- og passasjersete-konfigurasjon med:
 - Valgfri seteventilasjon
 - Valgfri massasjefunksjon
 
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/frontseats_231fc_st.webp" width="1920" height="1080" title="AUDI E7X forseter" >}}
+
 ### Bakseter
 
 Bak er det en trebenkrad som gir god plass takket være den lange akselavstanden på 3 060 mm.
+
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_pioneer_quattro/secondrowseats_13d2f_st.webp" width="1920" height="1080" title="AUDI E7X bakseter" >}}
+
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/secondrowseats_b01f2_st.webp" width="1920" height="1080" title="AUDI E7X Flagship quattro bakseter" >}}
 
 ## Interiørfarger og innlegg
 
@@ -77,25 +83,35 @@ Fra Pioneer Pro og oppover transformerer **Audi Smart Living Room**-pakken bakse
 Flagship quattro erstatter Smart Living Room med **Palassnivå zero-press fire-seters førsteklasseskabin** (殿堂级零压四座头等舱, verdi ¥59 000) — en betydelig oppgradert baksetiopplevelse:
 
 - **21,4-tommers QD Mini LED-takskjerm** — stjernehimmelpanel, smart fire-sesonger kjøle-/varmeboks
-- **Doble bakre null-tyngdekraft-seter** — begge de bakre yttersetene kan legges helt ned i ekte null-tyngdekraft-posisjon, mot ett forsetepassasjersete på lavere varianter
+- **Doble bakre null-tyngdekraft-seter** — begge de bakre yttersetene kan legges ned til **120°** (nær flat posisjon), mot ett forsetepassasjersete på lavere varianter
+- **23-punkts pneumatisk justeringssystem** med luftputebasert støtteforming (per sete)
+- **16-punkts massasjefunksjon**
+- Elektrisk uttrekkbar fotstøtte med opptil **400 mm rekkevidde**
 
-## Helsesertifsering
+## Helsesertifisering
 
 Hele kabinen har **OEKO-TEX® mor og barn-nivå helsesertifisering**, som dekker seter, sikkerhetsbelte, ratt, instrumentpanel, trimplater, kopholdere og mer — alle verifisert mot over 1 000 skadelige stoffer (verdi ¥8 000).
 
 ## Skjermer og brukergrensesnitt
 
-AUDI E7X har et omfattende flerskjermssystem i kabinen:
+AUDI E7X har et flerskjermssystem som dekker hele kabinbredden:
 
-- **Digitalt instrumentpanel**
-- **Sentral infotainmentskjerm**
-- **Audi bred displayskjerm** (del av Super Sense Smart-pakken)
-- **21,4-tommers QD Mini LED-takskjerm** — Apple XDR-panelkvalitet, støtter kablet/trådløs speiling fra bl.a. Switch og PS5 (inkludert som tidsbegrenset gave)
+- **27-tommers 4K panoramadisplay** — en enkelt buet skjerm som strekker seg over hele instrument- og infotainmentbredden
+- **21,4-tommers QD Mini LED-takskjerm** — foldes ned fra taket, Apple XDR-panelkvalitet, støtter kablet/trådløs speiling fra bl.a. Switch og PS5
 - **Berøringsskjerm i bakre midtkonsoll**
 - Valgfri **head-up display**
-- **Stemmestyring** (Audi-assistent) som standardutstyr
 - **Audi Smart Island** — intelligent interaksjonshub
 
-Kabinen støtter ikke Android Auto eller bevegelseskontroll, noe som gjenspeiler AUDIs fokus på sitt eget dyptintegrerte, Kina-spesifikke programvareøkosystem.
+**AUDI Assistant 2.0** — stemme- og AI-grensesnittet, co-utviklet med **ByteDance**. Leverer betydelig forbedret konversasjons-AI og dyp integrasjon med kinesiske digitale tjenester, apper og betalingsplattformer. Standardutstyr på alle varianter.
+
+Kabinen støtter ikke Android Auto, noe som gjenspeiler AUDIs fokus på sitt eget dyptintegrerte, Kina-spesifikke programvareøkosystem.
+
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_pioneer_quattro/interior_a77e9_st.webp" width="1070" height="630" title="AUDI E7X interiør" >}}
+
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_pioneer_quattro/screens_ff4dc_st.webp" width="1070" height="630" title="AUDI E7X skjermer" >}}
+
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_pioneer_quattro/interior_44525_st.webp" width="1920" height="1080" title="AUDI E7X interiør" >}}
+
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_pioneer_quattro/interior_ce202_st.webp" width="1600" height="900" title="AUDI E7X interiør" >}}
 
 {{<children description="true" />}}
