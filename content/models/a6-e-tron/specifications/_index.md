@@ -170,6 +170,22 @@ Below you see the official range info. Visit our [extended range info](../rangea
 				15,9 kwh/100km
 			</td>
 		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				EPA range
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				392 mi
+			</td>
+		</tr>
+		<tr>
+			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
+				EPA consumption
+			</td>
+			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
+				4,1 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 </div>
