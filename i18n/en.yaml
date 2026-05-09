@@ -150,10 +150,16 @@
   translation: Audi Q8 e-tron is now official. With an improved range of up to 44%, reduced consumption by up to 9%, and a new design. Learn all about the six variants!
 
 - id: frontpage-article-e7x-title
-  translation: AUDI E7X debuts 2026
+  translation: AUDI E7X sales have started
 
 - id: frontpage-article-e7x-synopsis
-  translation: China-exclusive fully electric premium SUV developed with SAIC, debuting at Auto China 2026 with cutting-edge technology and localized features.
+  translation: China-exclusive fully electric premium SUV — 900V, 4C charging, up to 751 km CLTC range. Sales launched in China H1 2026.
+
+- id: frontpage-article-q4facelift2026-title
+  translation: Audi Q4 e-tron facelift 2026
+
+- id: frontpage-article-q4facelift2026-synopsis
+  translation: More range, faster charging, bidirectional V2L and V2H, a new digital interior, and second-generation OLED rear lights. The Q4 e-tron gets its biggest upgrade yet.
 
 - id: frontpage-article-audiconceptc-title
   translation: Audi Concept C world premiere

@@ -148,10 +148,16 @@
   translation: Audi Q8 e-tron er nå offisiell. Med forbedret rekkevidde med opptil 44 %, redusert forbruk med opptil 9 % og ny design. Lær alt om de seks variantene!
 
 - id: frontpage-article-e7x-title
-  translation: AUDI E7X debuterer 2026
+  translation: AUDI E7X er nå til salgs
 
 - id: frontpage-article-e7x-synopsis
-  translation: Kina-eksklusiv helektrisk premium SUV utviklet med SAIC, debuterer på Auto China 2026 med banebrytende teknologi og lokaltilpassede funksjoner.
+  translation: Kina-eksklusiv helektrisk premium SUV — 900V, 4C-lading, opptil 751 km CLTC rekkevidde. Salget er i gang i Kina første halvår 2026.
+
+- id: frontpage-article-q4facelift2026-title
+  translation: Audi Q4 e-tron facelift 2026
+
+- id: frontpage-article-q4facelift2026-synopsis
+  translation: Mer rekkevidde, raskere lading, toveis V2L og V2H, nytt digitalt interiør og andre generasjons OLED-baklykter. Q4 e-tron får sin største oppdatering noensinne.
 
 - id: frontpage-article-audiconceptc-title
   translation: Audi Concept C verdenspremiere
