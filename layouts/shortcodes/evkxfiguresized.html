@@ -1,6 +1,6 @@
 <figure>
     {{ $thumb := .Get "thumb" }}
-    {{ $url := $thumb | replaceRE "_xst\\." "." }}
+    {{ $url := $thumb | replaceRE "_st\\." "." }}
     {{ $random := delimit (shuffle (split (md5 $url) "" )) "" }}
     {{ $originalWidth := .Get "width" | float }}
     {{ $originalHeight := .Get "height" | float }}
@@ -8,13 +8,12 @@
     {{ $scaleFactor := div $desiredWidth $originalWidth | float }}
     {{ $scaledHeight := mul $scaleFactor $originalHeight | int }}
 
-    {{ $mdPath := $thumb | replaceRE "_xst\\." "_md." }}
-    {{ $mdUrl := printf "https://media.evkx.net/multimedia/%s" $mdPath }}
+    {{ $thumbUrl := printf "https://media.evkx.net/multimedia/%s" $thumb }}
     {{ $fullUrl := printf "https://media.evkx.net/multimedia/%s" $url }}
 
     <div class="pswp-gallery" id="gallery--{{$random}}">
         <a href="{{ $fullUrl }}" data-pswp-width="{{ .Get "width" }}" data-pswp-height="{{ .Get "height" }}" class="block">
-            <img src="{{ $mdUrl }}" class="max-w-full h-auto" alt="{{ .Get "title" }}" title="{{ .Get "title" }}" width="{{ $desiredWidth }}" height="{{ $scaledHeight }}">
+            <img src="{{ $thumbUrl }}" class="max-w-full h-auto" alt="{{ .Get "title" }}" title="{{ .Get "title" }}" width="{{ $desiredWidth }}" height="{{ $scaledHeight }}">
         </a>
     </div>
     <figcaption class="mt-2">

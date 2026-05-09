@@ -40,9 +40,9 @@ The AUDI E7X features a comprehensive sensor suite for driver assistance and par
 
 **Radar sensors:** Forward-facing radar for adaptive cruise control and emergency braking functionality.
 
-{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/sensors_2c6fa_xst.webp" width="3000" height="2000" title="AUDI E7X sensor suite" >}}
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/sensors_2c6fa_st.webp" width="3000" height="2000" title="AUDI E7X sensor suite" >}}
 
-{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/camera_d1e99_xst.webp" width="3000" height="2000" title="AUDI E7X camera" >}}
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/camera_d1e99_st.webp" width="3000" height="2000" title="AUDI E7X camera" >}}
 
 ## Lights
 
@@ -59,7 +59,7 @@ From the **Pioneer Pro** upwards, the **BOSE Performance sound system** is inclu
 
 The **Flagship quattro** receives an upgraded **9.1.4.8 BOSE Performance** configuration — a 9.1.4.8 immersive audio architecture with the same four world-first technologies and DSP power, but with a more expansive speaker arrangement (value ¥15,000).
 
-{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/speakers_cc864_xst.webp" width="3000" height="2000" title="AUDI E7X BOSE Performance speaker" >}}
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/speakers_cc864_st.webp" width="3000" height="2000" title="AUDI E7X BOSE Performance speaker" >}}
 
 ## Rear-wheel steering
 
@@ -86,8 +86,8 @@ All four doors feature **electric soft-close** — push gently and the door pull
 
 The E7X is built on AUDI and SAIC's **Advanced Digitized Platform**, enabling seamless integration with China's digital infrastructure. Voice control (Audi Assistant) is standard equipment. The cabin features a multi-screen setup with Audi Smart Island, optimized for connected services in the Chinese market.
 
-{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/technology_4ba6e_xst.webp" width="3000" height="2000" title="AUDI E7X technology" >}}
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/technology_4ba6e_st.webp" width="3000" height="2000" title="AUDI E7X technology" >}}
 
-{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/technology_2207b_xst.webp" width="3000" height="2000" title="AUDI E7X technology" >}}
+{{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/technology_2207b_st.webp" width="3000" height="2000" title="AUDI E7X technology" >}}
 
 {{<children description="true" />}}
