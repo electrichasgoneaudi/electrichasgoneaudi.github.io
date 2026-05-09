@@ -26,16 +26,16 @@ Audi E5 Sportback tilbys i fire tydelig definerte utstyrs- og ytelsesnivåer, me
 Tilgjengelige varianter inkluderer:
 
 - **Audi E5 Sportback Pioneer**  
-  Bakhjulsdrift, 220 kW, 83 kWh batteri
+  Bakhjulsdrift, 220 kW, 100 kWh batteri, 773 km CLTC
 
 - **Audi E5 Sportback Pioneer Plus**  
-  Bakhjulsdrift, 300 kW, 100 kWh batteri
+  Bakhjulsdrift, 300 kW, 100 kWh batteri, 773 km CLTC
 
 - **Audi E5 Sportback Pioneer quattro**  
-  Dobbeltmotor quattro firehjulsdrift, 425 kW, 100 kWh batteri
+  Dobbeltmotor quattro firehjulsdrift, 386 kW, 83 kWh batteri, 623 km CLTC
 
 - **Audi E5 Sportback quattro**  
-  Dobbeltmotor quattro firehjulsdrift, opptil 579 kW, 100 kWh batteri
+  Dobbeltmotor quattro firehjulsdrift, 579 kW, 100 kWh batteri, 647 km CLTC
 
 Sertifisert CLTC-rekkevidde varierer fra **623 km til 773 km**, avhengig av konfigurasjon.
 

@@ -26,16 +26,16 @@ The Audi E5 Sportback is offered in four clearly defined trim levels, with a foc
 Available variants include:
 
 - **Audi E5 Sportback Pioneer**  
-  Rear-wheel drive, 220 kW, 83 kWh battery
+  Rear-wheel drive, 220 kW, 100 kWh battery, 773 km CLTC
 
 - **Audi E5 Sportback Pioneer Plus**  
-  Rear-wheel drive, 300 kW, 100 kWh battery
+  Rear-wheel drive, 300 kW, 100 kWh battery, 773 km CLTC
 
 - **Audi E5 Sportback Pioneer quattro**  
-  Dual-motor quattro all-wheel drive, 425 kW, 100 kWh battery
+  Dual-motor quattro all-wheel drive, 386 kW, 83 kWh battery, 623 km CLTC
 
 - **Audi E5 Sportback quattro**  
-  Dual-motor quattro all-wheel drive, up to 579 kW, 100 kWh battery
+  Dual-motor quattro all-wheel drive, 579 kW, 100 kWh battery, 647 km CLTC
 
 Certified CLTC driving range varies from **623 km up to 773 km**, depending on configuration.
 
