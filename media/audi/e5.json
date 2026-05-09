@@ -1,0 +1,192 @@
+{
+  "brand": "Audi",
+  "model": "E5",
+  "variants": [
+    "E5 Sportback Pioneer",
+    "E5 Sportback Pioneer Plus",
+    "E5 Sportback Pioneer quattro",
+    "E5 Sportback quattro"
+  ],
+  "media": [
+    {
+      "fileName": "dynamic_35920.jpg",
+      "externalUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/dynamic_35920.webp",
+      "width": 3000,
+      "height": 1999,
+      "thumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/dynamic_35920_st.webp",
+      "thumbWidth": 800,
+      "thumbHeight": 533,
+      "mediumThumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/dynamic_35920.webp",
+      "mediumThumbWidth": 1200,
+      "mediumThumbHeight": 799
+    },
+    {
+      "fileName": "exterior_2cb1d.jpg",
+      "externalUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/exterior_2cb1d.webp",
+      "width": 3000,
+      "height": 1999,
+      "thumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/exterior_2cb1d_st.webp",
+      "thumbWidth": 800,
+      "thumbHeight": 533,
+      "mediumThumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/exterior_2cb1d.webp",
+      "mediumThumbWidth": 1200,
+      "mediumThumbHeight": 799
+    },
+    {
+      "fileName": "exterior_302e5.jpg",
+      "externalUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/exterior_302e5.webp",
+      "width": 3000,
+      "height": 2250,
+      "thumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/exterior_302e5_st.webp",
+      "thumbWidth": 800,
+      "thumbHeight": 600,
+      "mediumThumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/exterior_302e5.webp",
+      "mediumThumbWidth": 1200,
+      "mediumThumbHeight": 900
+    },
+    {
+      "fileName": "exterior_3a9be.jpg",
+      "externalUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/exterior_3a9be.webp",
+      "width": 3000,
+      "height": 1999,
+      "thumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/exterior_3a9be_st.webp",
+      "thumbWidth": 800,
+      "thumbHeight": 533,
+      "mediumThumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/exterior_3a9be.webp",
+      "mediumThumbWidth": 1200,
+      "mediumThumbHeight": 799
+    },
+    {
+      "fileName": "exterior_5a709.jpg",
+      "externalUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/exterior_5a709.webp",
+      "width": 3000,
+      "height": 2250,
+      "thumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/exterior_5a709_st.webp",
+      "thumbWidth": 800,
+      "thumbHeight": 600,
+      "mediumThumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/exterior_5a709.webp",
+      "mediumThumbWidth": 1200,
+      "mediumThumbHeight": 900
+    },
+    {
+      "fileName": "exterior_5e55d.jpg",
+      "externalUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/exterior_5e55d.webp",
+      "width": 3000,
+      "height": 2250,
+      "thumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/exterior_5e55d_st.webp",
+      "thumbWidth": 800,
+      "thumbHeight": 600,
+      "mediumThumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/exterior_5e55d.webp",
+      "mediumThumbWidth": 1200,
+      "mediumThumbHeight": 900
+    },
+    {
+      "fileName": "exterior_ab88d.jpg",
+      "externalUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/exterior_ab88d.webp",
+      "width": 3000,
+      "height": 1999,
+      "thumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/exterior_ab88d_st.webp",
+      "thumbWidth": 800,
+      "thumbHeight": 533,
+      "mediumThumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/exterior_ab88d.webp",
+      "mediumThumbWidth": 1200,
+      "mediumThumbHeight": 799
+    },
+    {
+      "fileName": "exterior_cc391.jpg",
+      "externalUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/exterior_cc391.webp",
+      "width": 3000,
+      "height": 2250,
+      "thumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/exterior_cc391_st.webp",
+      "thumbWidth": 800,
+      "thumbHeight": 600,
+      "mediumThumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/exterior_cc391.webp",
+      "mediumThumbWidth": 1200,
+      "mediumThumbHeight": 900
+    },
+    {
+      "fileName": "exterior_ea4a4.jpg",
+      "externalUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/exterior_ea4a4.webp",
+      "width": 3000,
+      "height": 2250,
+      "thumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/exterior_ea4a4_st.webp",
+      "thumbWidth": 800,
+      "thumbHeight": 600,
+      "mediumThumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/exterior_ea4a4.webp",
+      "mediumThumbWidth": 1200,
+      "mediumThumbHeight": 900
+    },
+    {
+      "fileName": "headlights_3a9d5.jpg",
+      "externalUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/headlights_3a9d5.webp",
+      "width": 3000,
+      "height": 2249,
+      "thumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/headlights_3a9d5_st.webp",
+      "thumbWidth": 800,
+      "thumbHeight": 599,
+      "mediumThumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/headlights_3a9d5.webp",
+      "mediumThumbWidth": 1200,
+      "mediumThumbHeight": 899
+    },
+    {
+      "fileName": "interior_5e105.jpg",
+      "externalUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/interior_5e105.webp",
+      "width": 3000,
+      "height": 2250,
+      "thumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/interior_5e105_st.webp",
+      "thumbWidth": 800,
+      "thumbHeight": 600,
+      "mediumThumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/interior_5e105.webp",
+      "mediumThumbWidth": 1200,
+      "mediumThumbHeight": 900
+    },
+    {
+      "fileName": "main_bd520.jpg",
+      "externalUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/main_bd520.webp",
+      "width": 3000,
+      "height": 2250,
+      "thumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/main_bd520_st.webp",
+      "thumbWidth": 800,
+      "thumbHeight": 600,
+      "mediumThumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/main_bd520.webp",
+      "mediumThumbWidth": 1200,
+      "mediumThumbHeight": 900
+    },
+    {
+      "fileName": "screens_0798b.jpg",
+      "externalUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/screens_0798b.webp",
+      "width": 3000,
+      "height": 2250,
+      "thumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/screens_0798b_st.webp",
+      "thumbWidth": 800,
+      "thumbHeight": 600,
+      "mediumThumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/screens_0798b.webp",
+      "mediumThumbWidth": 1200,
+      "mediumThumbHeight": 900
+    },
+    {
+      "fileName": "secondrowseats_ae938.jpg",
+      "externalUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/secondrowseats_ae938.webp",
+      "width": 3000,
+      "height": 2250,
+      "thumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/secondrowseats_ae938_st.webp",
+      "thumbWidth": 800,
+      "thumbHeight": 600,
+      "mediumThumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/secondrowseats_ae938.webp",
+      "mediumThumbWidth": 1200,
+      "mediumThumbHeight": 900
+    },
+    {
+      "fileName": "taillights_efc10.jpg",
+      "externalUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/taillights_efc10.webp",
+      "width": 3000,
+      "height": 2250,
+      "thumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/taillights_efc10_st.webp",
+      "thumbWidth": 800,
+      "thumbHeight": 600,
+      "mediumThumbUrl": "https://media.evkx.net/multimedia/models/audi/e5_/e5/taillights_efc10.webp",
+      "mediumThumbWidth": 1200,
+      "mediumThumbHeight": 900
+    }
+  ]
+}
