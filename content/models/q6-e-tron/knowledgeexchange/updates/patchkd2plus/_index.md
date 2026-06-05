@@ -5,7 +5,7 @@ description: Unknown
 weight: 30
 ---
 
-## KD2 - 03.11.00/C
+## KD* - 03.11.00/C
 
 - This is NOT an OTA update, the car must be updated at the workshop
 - Version number in myAudi App: 03.11.00
