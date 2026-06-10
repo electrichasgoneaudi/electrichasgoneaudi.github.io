@@ -11,5 +11,5 @@ weight: 30
 - [06XL - 03.01.00/C](patch06xl)
 - [06XG - 03.01.00/C](patch06xg)
 - [KD2 - 03.10.00/C](patchkd2)
-- [KD* - 03.11.00/C](patchkd2plus)
+- [KD2* - 03.11.00/C](patchkd2plus)
 
