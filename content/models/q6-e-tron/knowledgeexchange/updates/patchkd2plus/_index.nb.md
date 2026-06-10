@@ -24,6 +24,7 @@ weight: 30
 - Kalkulasjon av SoC for neste stopp eller siste stopp i navigasjon er fremdeles ganske feil. [Known issue #97](https://github.com/electrichasgoneaudi/q6-e-tron/issues/97)
 - Smartlading, feilmeldinger er ikke rettet, får fremdeles feil på ladenettverk når lading pauses av laderobot. [Known issue #16](https://github.com/electrichasgoneaudi/q6-e-tron/issues/16)
 
-### Erfaringer 
+### Erfaringer etter oppdatering
 - Varsel for høy hastighet er nå så behagelig, men fremdeles hørbar, at man kan faktisk bare la den stå på, i de tilfellene man glemmer seg av og suser inn i en ny fartsgrensesone, så får du en behagelig påminnelse om dette. Dette er dog veldig individulet preferansestyrt.
 - Aktive kjørefeltsføring ser ut til å plassere bilen mer midt i kjørefeltet, mot litt mye til venstre i tidligere utgaver, og bilen holdes ganske stabilt uten noe vingling
+- Digital nøkkel fungerer bare på NFC og ikke UWB/BLE (Bluetooth). Dette undersøkes i tiden framover
