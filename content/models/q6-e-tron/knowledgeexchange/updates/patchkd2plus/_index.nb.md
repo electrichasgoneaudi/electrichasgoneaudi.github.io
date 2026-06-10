@@ -1,7 +1,7 @@
 ---
 title: Audi Q6 e-tron programvare oppdateringer
 linktitle: Programvare oppdateringer
-description: Ukjent
+description: 
 weight: 30
 ---
 
