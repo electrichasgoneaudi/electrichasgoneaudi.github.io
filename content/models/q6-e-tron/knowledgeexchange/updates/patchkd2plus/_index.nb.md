@@ -10,21 +10,37 @@ weight: 30
 - Dette er IKKE en OTA oppdatering, bilen må oppdateres på verksted
 - Jobben er antatt å ta 3,5 timer
 
+![alt text](image-3.png)
+
 ### Hva er rettet eller forbedret
 - En rekke feil og inkonsistent oppførsel for bakluke etter at KD2 ble lagt inn skal være rettet, og dette spesielt for den som utnytter Digital Nøkkel. Så langt er det tidlig å konkludere noe på dette, da bilen noen ganger oppfører seg prikkfritt i både uker og måneder
 - Kjøreassistent systemene skal være forbedret.
 - Varsellyd er endret fra den litt irriterende og skarpe pipelyden til en mye mer behagelig lyd. Dette virker å være oppdatert på alle systemlyder, unnatt parkeingsvarsling, den/de lydene er uendret. Og det er bare fint.
-- Påstås mange flere fikser, og lista vil bli oppdatert når mer inforasjon foreligger.
-- Garasjeportåpner problem er muligens rettet, undersøker videre. [Known issue #67](https://github.com/electrichasgoneaudi/q6-e-tron/issues/67)
+- Diverste bakluke problemer skal være løst. [Known issue #94](https://github.com/electrichasgoneaudi/q6-e-tron/issues/94)
+
+- Påstås mange flere fikser, og lista vil bli oppdatert når mer informasjon foreligger.
 
 ### Når du mottar bilen etter at oppdateriger er gjodt
 - Garasjeportåpner må programmeres på nytt
+- Passord for Wifi må kanskje settes på nytt, så sjekk dette
 
 ### Hva er ikke rettet
 - Kalkulasjon av SoC for neste stopp eller siste stopp i navigasjon er fremdeles ganske feil. [Known issue #97](https://github.com/electrichasgoneaudi/q6-e-tron/issues/97)
 - Smartlading, feilmeldinger er ikke rettet, får fremdeles feil på ladenettverk når lading pauses av laderobot. [Known issue #16](https://github.com/electrichasgoneaudi/q6-e-tron/issues/16)
+- Bortfall av Wifi forekommer fremdeles ved jevne mellomrom. 
+[Known issue #4](https://github.com/electrichasgoneaudi/q6-e-tron/issues/4) og 
+[Known issue #90](https://github.com/electrichasgoneaudi/q6-e-tron/issues/90)
+- Garasjeportåpner problem ikke rettet. [Known issue #67](https://github.com/electrichasgoneaudi/q6-e-tron/issues/67)
+
+
 
 ### Erfaringer etter oppdatering
 - Varsel for høy hastighet er nå så behagelig, men fremdeles hørbar, at man kan faktisk bare la den stå på, i de tilfellene man glemmer seg av og suser inn i en ny fartsgrensesone, så får du en behagelig påminnelse om dette. Dette er dog veldig individuelt preferansestyrt.
 - Aktiv kjørefeltsføring ser ut til å plassere bilen mer midt i kjørefeltet, mot litt mye til venstre i tidligere utgaver, og bilen holdes ganske stabilt uten noe vingling
-- Digital nøkkel fungerer bare på NFC og ikke UWB/BLE (Bluetooth). Dette undersøkes i tiden framover
+- Digital nøkkel fungerte bare på NFC og ikke UWB/BLE (Bluetooth). Dette gikk over og har fungert fra dag 2. 
+Sjekk appen din. Jeg fikk dette som viser at telefonen åpenbart ikke klarte å finne bilen.
+![alt text](image-1.png)
+![alt text](image-5.png)
+
+Dette gikk over og har fungert fra dag 2. 
+- Sjekk Wifi passordet i bilen. Det kan være du må lage nytt. ![alt text](image.png)
