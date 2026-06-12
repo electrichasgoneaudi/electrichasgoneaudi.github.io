@@ -31,7 +31,7 @@ weight: 30
 [Known issue #4](https://github.com/electrichasgoneaudi/q6-e-tron/issues/4) og 
 [Known issue #90](https://github.com/electrichasgoneaudi/q6-e-tron/issues/90)
 - Garasjeportåpner problem ikke rettet. [Known issue #67](https://github.com/electrichasgoneaudi/q6-e-tron/issues/67)
-
+- App tilstand nullstilles ved ujevne mellomrom. [Known issue #109](https://github.com/electrichasgoneaudi/q6-e-tron/issues/109)
 
 
 ### Erfaringer etter oppdatering

@@ -31,6 +31,8 @@ weight: 30
 [Known issue #4](https://github.com/electrichasgoneaudi/q6-e-tron/issues/4) and  
 [Known issue #90](https://github.com/electrichasgoneaudi/q6-e-tron/issues/90)
 - The garage door opener issue has not been fixed. [Known issue #67](https://github.com/electrichasgoneaudi/q6-e-tron/issues/67)
+App state resets at irregular intervals. [Known issue #109](https://github.com/electrichasgoneaudi/q6-e-tron/issues/109)
+
 
 ### Experiences after the update
 - The high-speed warning is now so pleasant, while still audible, that you can actually just leave it on. In cases where you forget yourself and speed into a new speed limit zone, you get a gentle reminder about it. This is, however, very much a matter of personal preference.
