@@ -21,6 +21,10 @@ This connection also uses eSIM and must be activated by the user before it is re
 1. Data usage for installed Apps (Vivaldi, Spotify, etc.)
 2. Data usage (internet) for the shared wifi zone in the car. You must enable this function in MMI and mobile devices in the car must then connect to this Wifi zone and will then use this data quota.
 
+If you connect your mobile to this WiFi zone, it is especially advisable to turn on low data usage on your iPhone (Assuming there is a similar option on Android Phones), otherwise the data quota can quickly be emptied if the mobile starts downloading updates, for example.
+
+![alt text](image-14.png)
+
 Also, be aware that if you share the internet from your mobile or have a WiFi network available where the car is parked (typically your home network), this data connection will also function as a source for the 2 points above. In such a case, your data quota will not be used.
 
 TIP: When you install apps from the App Store, it is quite smart to either share the internet from your phone or use Wifi (Home network) as these apps are often of a certain size and you can save data usage from your 3GB quota or subscription.
