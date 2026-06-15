@@ -19,7 +19,11 @@ Denne forbindelsen bruker eSIM og er lisensiert for 10 år når bilen er ny.
 ### App og Smart telefon datapakke
 Denne forbindelsen bruker også eSIM og må aktiveres av bruker før den er klar. Denne forbindelsen brukes til 2 ting:
 1. Databruk for installerte Apper (Vivaldi, Spotify etc)
-2. Databruk (internet) for den delte wifi sonen i bilen. Da må du enable denne funksjonen i MMI og mobile enheter i bilen må da kople seg til denne Wifi sonen og vil da bruke av denne datakvoten.
+2. Databruk (internet) for den delte wifi sonen i bilen. Da må du enable denne funksjonen i MMI og mobile enheter i bilen må da kople seg til denne Wifi sonen og vil da bruke av denne datakvoten. Hvis du kopler opp din mobil til denne WiFi sonen, er det spesielt lurt å slå på lav databruk på din iPhone (antar tilsvarende finnes på Android), ellers kan datakvoten fort tømmes om mobilen f.eks begynner å laste en oppdateringer. 
+
+![alt text](image-14.png)
+
+
 
 Vær også obs på at om du deler internett på din mobil eller har et WiFi nettverk tilgjengelig der bilen står (typisk ditt hjemmenettverk) så vil også denne dataforbindelsen fungere som kilde for de 2 ovenstående punktene. I så tilfelle blir det ikke brukt av din datakvote.
 
