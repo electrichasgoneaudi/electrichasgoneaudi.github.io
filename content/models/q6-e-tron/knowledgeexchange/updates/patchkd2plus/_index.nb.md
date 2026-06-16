@@ -5,7 +5,7 @@ description:
 weight: 30
 ---
 
-## KD2* - 03.11.01/C
+## KD2* - 03.11.00/C
 
 - Dette er IKKE en OTA oppdatering, bilen må oppdateres på verksted
 - Jobben er antatt å ta 3,5 timer
