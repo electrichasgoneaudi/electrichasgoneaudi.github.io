@@ -44,3 +44,5 @@ Sjekk appen din. Jeg fikk dette som viser at telefonen åpenbart ikke klarte å 
 
 Dette gikk over og har fungert fra dag 2. 
 - Sjekk Wifi passordet i bilen. Det kan være du må lage nytt. ![alt text](image.png)
+- Det kommer fremdeles mange forekomster av den berømte feilmeldingen om at Prediktiv regulering ikke er tilgjengelig. Skjedde ca 20 ganger på en tur fra Oslo til Trondheim. Er jo en forbedring fra forrige tur da jeg fikk ca 50 av disse meldingene, og nå er heldigvis lydsignalet ikke så plagsomt. Men det er jo helt unødvendig å ha lydvarsling. Dette er ikke en alvorlig feil og man kan ikke gjøre noe med det, så dette varselet bør være så subtilt som mulig og helt uten varsellyd.
+![alt text](image-6.png)

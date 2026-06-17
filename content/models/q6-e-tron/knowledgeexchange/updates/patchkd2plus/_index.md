@@ -44,3 +44,5 @@ Check your app. I got this, which clearly showed that the phone was unable to fi
 
 This resolved itself and has worked since day 2.
 - Check the Wi-Fi password in the car. You may need to create a new one. ![alt text](image.png)
+- There are still many instances of the famous error message that Predictive control is not available. Happened about 20 times on a trip from Oslo to Trondheim. Is an improvement from the last trip when I got about 50 of these messages, and now fortunately the sound signal is not so annoying. But it is completely unnecessary to have an audio warning. This is not a serious error and you can't do anything about it, so this warning should be as subtle as possible and completely without a warning sound.
+![alt text](image-6.png)
