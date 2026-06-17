@@ -23,6 +23,7 @@ weight: 30
 ### Når du mottar bilen etter at oppdateriger er gjodt
 - Garasjeportåpner må programmeres på nytt
 - Passord for Wifi må kanskje settes på nytt, så sjekk dette
+- Navigasjonsvisniong i Head UP Display var slått av og måtte aktiveres på nytt
 
 ### Hva er ikke rettet
 - Kalkulasjon av SoC for neste stopp eller siste stopp i navigasjon er fremdeles ganske feil. [Known issue #97](https://github.com/electrichasgoneaudi/q6-e-tron/issues/97)
@@ -46,3 +47,7 @@ Dette gikk over og har fungert fra dag 2.
 - Sjekk Wifi passordet i bilen. Det kan være du må lage nytt. ![alt text](image.png)
 - Det kommer fremdeles mange forekomster av den berømte feilmeldingen om at Prediktiv regulering ikke er tilgjengelig. Skjedde ca 20 ganger på en tur fra Oslo til Trondheim. Er jo en forbedring fra forrige tur da jeg fikk ca 50 av disse meldingene, og nå er heldigvis lydsignalet ikke så plagsomt. Men det er jo helt unødvendig å ha lydvarsling. Dette er ikke en alvorlig feil og man kan ikke gjøre noe med det, så dette varselet bør være så subtilt som mulig og helt uten varsellyd.
 ![alt text](image-6.png)
+- Den kjente irritasjonsmomentet fra navigasjonen, er heller ikke forbedret noe. Her er det en planlagt ladestopp (#2) og (#3) med et nummer i rekken, 
+![alt text](image-7.png)
+Men navigasjonsbildet velger å vise informasjon om siste stoppunkt. Det er ikke spesielt interessant på denne fasen i turen (Etter at #1 er passert), det som er mest nyttig her er informasjon om neste stopp (#2), uansett årsak. 
+![alt text](image-8.png)

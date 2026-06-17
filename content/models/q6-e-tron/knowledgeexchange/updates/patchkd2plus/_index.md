@@ -23,6 +23,7 @@ weight: 30
 ### When you receive the car after the update has been done
 - The garage door opener must be programmed again
 - The Wi-Fi password may need to be set again, so check this
+- Navigation view in Head UP Display was turned off and had to be reactivated
 
 ### What has not been fixed
 - The calculation of SoC for the next stop or the final stop in navigation is still quite inaccurate. [Known issue #97](https://github.com/electrichasgoneaudi/q6-e-tron/issues/97)
@@ -46,3 +47,7 @@ This resolved itself and has worked since day 2.
 - Check the Wi-Fi password in the car. You may need to create a new one. ![alt text](image.png)
 - There are still many instances of the famous error message that Predictive control is not available. Happened about 20 times on a trip from Oslo to Trondheim. Is an improvement from the last trip when I got about 50 of these messages, and now fortunately the sound signal is not so annoying. But it is completely unnecessary to have an audio warning. This is not a serious error and you can't do anything about it, so this warning should be as subtle as possible and completely without a warning sound.
 ![alt text](image-6.png)
+- The familiar annoyance from the navigation has not been improved either. Here there is a planned charging stop (#2) and (#3) with a number in the row, 
+![alt text](image-7.png)
+But the navigation screen chooses to show information about the last stop point. It is not particularly interesting at this stage of the trip (after #1 has been passed), what is most useful here is information about the next stop (#2), no matter what. 
+![alt text](image-8.png)
