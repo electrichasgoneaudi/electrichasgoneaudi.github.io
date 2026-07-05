@@ -33,9 +33,9 @@ NOTE: Be aware that there is an issue suggesting that the AppStore and possibly 
 
 # Description of how to connect and establish a subscription for the App and Smartphone data package
 
-A data package of 3 GB per month comes with the car for the first 3 years. In addition, you can buy a subscription that automatically refills with more data when the free quota is used up.
+A data package of 3 GB (updated to 10 GB in july 2026) per month comes with the car for the first 3 years. In addition, you can buy a subscription that automatically refills with more data when the free quota is used up.
 
-You can choose whether you want a subscription or not. If you do not, and have used up your free 3 GB, you will be without internet in the car until the 1st of the next month. It's that simple.
+You can choose whether you want a subscription or not. If you do not, and have used up your free 10 GB, you will be without internet in the car until the 1st of the next month. It's that simple.
 
 To see the status of your usage, you can use the MMI in your car, or you can see this via the myAudi App, you will find it on the first page at the very bottom:
 
@@ -43,7 +43,9 @@ To see the status of your usage, you can use the MMI in your car, or you can see
 
 Just click on the option and you will come to your status page with links to buy and manage your data packages:
 
-In the example below, an additional data package of 20 GB has been added, which is then added to the 3 GB package that comes with the car
+Note: This function has not been working for along time in several contries, så this may not be valid anymore
+
+In the example below, an additional data package of 20 GB has been added, which is then added to the 10 GB package that comes with the car
 
 ![](image.png)
 

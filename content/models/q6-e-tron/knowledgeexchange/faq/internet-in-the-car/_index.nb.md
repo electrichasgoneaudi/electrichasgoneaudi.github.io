@@ -66,21 +66,20 @@ Les om disse symbolene i artikkel om [Symboler for dataforbindelse](../uplink-sy
 
 # Beskrivelse av hvordan du kopler og etablerer abonnement for App og Smarttelefon datapakke
 
-Det følger med en datapakke på 3 GB per måned som du får med bilen de 3 første årene. I tillegg kan du kjøpe et abonnement som automatisk fyller på med mer data når den gratis kvoten er brukt opp.
+Det følger med en datapakke på 3 GB (dette ble oppdatert til 10 GB i juli 2026) per måned som du får med bilen de 3 første årene. I tillegg kan du kjøpe et abonnement som automatisk fyller på med mer data når den gratis kvoten er brukt opp.
 
-Du kan selv velge om du vil ha et abonnement eller ikke. Om du ikke gjør så, og har brukt opp dine gratis 3 GB er du uten internet i bilen fram til den 1. i neste måned. Så enkelt er det.
+Du kan selv velge om du vil ha et abonnement eller ikke. Om du ikke gjør så, og har brukt opp dine gratis 10 GB er du uten internet i bilen fram til den 1. i neste måned. Så enkelt er det.
 
 
 
 [Slik oppretter du en ny avtale for aller første gang](create-new)
 
-Hvis du ikke har behov for mer enn 3 GB data (gratis kvoten) som trenger du ikke lese videre.
+Hvis du ikke har behov for mer enn 10 GB data (gratis kvoten) som trenger du ikke lese videre.
 
 Vennligst gå gjennom stegene som er forklart over før du fortsetter.
 
 
 # Opprette ekstra datakvote
-
 
 
 For å se status på forbruket ditt kan du bruke MMI i bilen din, eller du kan se dette via myAudi Appen, du finner den på første side helt nederst :
@@ -95,6 +94,10 @@ Her skal du trykke på 'Etterbestill datavolum', men dessverre pr 24.11.2024 fun
 ### Oppdatering januar 2026
 
 Inntil videre vil du automatisk få en ekstra goodwill pakke på 3 GB når dine opprinnelige 3 GD med data er brukt opp. Dette skjer automatisk og du vil motta en e-post fra Vodafone om dette.
+
+### Oppdatering juli 2026
+
+Kvoten ble økte fra 3 GB til 10 GB
 
 Eksempel på denne e-posten er :
 
