@@ -97,7 +97,7 @@ Kvoten ble øket fra 3 GB til 10 GB
 
 ### Oppdatering januar 2026
 
-Inntil videre vil du automatisk få en ekstra goodwill pakke på 3 GB når dine opprinnelige 3 GD med data er brukt opp. Dette skjer automatisk og du vil motta en e-post fra Vodafone om dette.
+Inntil videre vil du automatisk få en ekstra goodwill pakke på 3 GB når dine opprinnelige 3 GB med data er brukt opp. Dette skjer automatisk og du vil motta en e-post fra Vodafone om dette.
 
 
 Eksempel på denne e-posten er :
