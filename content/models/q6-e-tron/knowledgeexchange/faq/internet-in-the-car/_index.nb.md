@@ -97,7 +97,7 @@ Inntil videre vil du automatisk få en ekstra goodwill pakke på 3 GB når dine 
 
 ### Oppdatering juli 2026
 
-Kvoten ble økte fra 3 GB til 10 GB
+Kvoten ble øket fra 3 GB til 10 GB
 
 Eksempel på denne e-posten er :
 
