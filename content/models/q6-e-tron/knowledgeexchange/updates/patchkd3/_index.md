@@ -5,6 +5,6 @@ description: Unknown
 weight: 30
 ---
 
-## KD3
+## KD3 03.20.00/C
 
 Planned for Q1- 2027
