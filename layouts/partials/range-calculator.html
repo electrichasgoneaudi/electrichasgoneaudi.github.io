@@ -1,31 +1,117 @@
 {{ $page := .page }}
 {{ $model := .model }}
+{{ $nb := eq $page.Language.Lang "nb" }}
 {{ if $model.evkx_id }}
-<section class="band band--dark model-calculator">
+<section class="band band--dark model-calculator" id="range-calculator">
   <div class="container">
     <div class="model-calculator__heading">
       <div>
-        <div class="microlabel">{{ if eq $page.Language.Lang "nb" }}Rekkeviddeverktøy{{ else }}Range tool{{ end }}</div>
-        <h2 class="h-section">{{ if eq $page.Language.Lang "nb" }}Beregn rekkevidde under dine forhold{{ else }}Calculate range for your conditions{{ end }}</h2>
+        <div class="microlabel">{{ if $nb }}Rekkeviddeverktøy{{ else }}Range tool{{ end }}</div>
+        <h2 class="h-section">{{ if $nb }}Beregn rekkevidde under dine forhold{{ else }}Calculate range for your conditions{{ end }}</h2>
       </div>
-      <p>{{ if eq $page.Language.Lang "nb" }}Juster hastighet, temperatur, kjøreforhold og last. Beregningen bruker den samme kjøretøymodellen og motoren som EVKX.{{ else }}Adjust speed, temperature, road conditions and load. The calculation uses the same vehicle data and engine as EVKX.{{ end }}</p>
+      <p>{{ if $nb }}Juster hastighet, temperatur, veiforhold og bilens oppsett. Beregningen utføres av EVKX med data for denne modellen.{{ else }}Adjust speed, temperature, road conditions and vehicle setup. EVKX calculates the result using data for this model.{{ end }}</p>
     </div>
-    <div class="model-calculator__surface">
-      <div id="travel-calc-embed"
-           data-evkx-travel-calculator
-           data-ev-id="{{ $model.evkx_id }}"
-           data-api-base="https://evkx.net/api/"
-           data-asset-base="https://media.evkx.net/wwwroot/assets/travelcalculator/"
-           data-brand="Audi"
-           data-lang="{{ $page.Language.Lang }}"
-           data-color-scheme="dark"
-           aria-live="polite">
-        <p class="model-calculator__loading">{{ if eq $page.Language.Lang "nb" }}Laster rekkeviddekalkulator…{{ else }}Loading range calculator…{{ end }}</p>
-      </div>
-      <noscript><p>{{ if eq $page.Language.Lang "nb" }}JavaScript må være aktivert for å bruke kalkulatoren.{{ else }}JavaScript is required to use the calculator.{{ end }}</p></noscript>
+
+    <div class="model-calculator__surface"
+         data-ehga-range-calculator
+         data-ev-id="{{ $model.evkx_id }}"
+         data-model-title="{{ $model.title }}"
+         data-api-url="https://evkx.net/api/evs/calculatetravel"
+         data-lang="{{ $page.Language.Lang }}"
+         data-fallback-url="https://evkx.net/{{ if $nb }}nb/{{ end }}evcompare/travelcalculator/?evs={{ $model.evkx_id }}">
+      <form class="range-calculator__form" data-calculator-form>
+        <fieldset class="range-calculator__fieldset">
+          <legend>{{ if $nb }}Tilgjengelig batteri{{ else }}Available battery{{ end }}</legend>
+          <div class="range-calculator__segments" data-range-mode>
+            <label><input type="radio" name="rangeMode" value="100_0" checked><span>100–0%</span></label>
+            <label><input type="radio" name="rangeMode" value="100_10"><span>100–10%</span></label>
+            <label><input type="radio" name="rangeMode" value="80_10"><span>80–10%</span></label>
+          </div>
+        </fieldset>
+
+        <div class="range-calculator__controls">
+          <label class="range-calculator__control">
+            <span><strong>{{ if $nb }}Hastighet{{ else }}Speed{{ end }}</strong><output data-value="speed">120 km/h</output></span>
+            <input type="range" name="speed" min="30" max="160" step="5" value="120">
+          </label>
+          <label class="range-calculator__control">
+            <span><strong>{{ if $nb }}Temperatur{{ else }}Temperature{{ end }}</strong><output data-value="temperature">20 °C</output></span>
+            <input type="range" name="temperature" min="-20" max="40" step="1" value="20">
+          </label>
+          <label class="range-calculator__control">
+            <span><strong>{{ if $nb }}Klimaanlegg{{ else }}Climate use{{ end }}</strong><output data-value="hvac">0.0 kW</output></span>
+            <input type="range" name="hvac" min="0" max="5" step="0.5" value="0">
+          </label>
+          <label class="range-calculator__select">
+            <span>{{ if $nb }}Veiforhold{{ else }}Road condition{{ end }}</span>
+            <select name="condition">
+              <option value="PerfectDry">{{ if $nb }}Tørt{{ else }}Dry{{ end }}</option>
+              <option value="Moist">{{ if $nb }}Fuktig{{ else }}Damp{{ end }}</option>
+              <option value="Wet">{{ if $nb }}Vått{{ else }}Wet{{ end }}</option>
+              <option value="VeryWet">{{ if $nb }}Svært vått{{ else }}Very wet{{ end }}</option>
+              <option value="Snow">{{ if $nb }}Snø{{ else }}Snow{{ end }}</option>
+              <option value="HardSnow">{{ if $nb }}Hardpakket snø{{ else }}Hard-packed snow{{ end }}</option>
+            </select>
+          </label>
+        </div>
+
+        <details class="range-calculator__advanced">
+          <summary>{{ if $nb }}Flere innstillinger{{ else }}More settings{{ end }}</summary>
+          <div class="range-calculator__advanced-grid">
+            <label class="range-calculator__control">
+              <span><strong>{{ if $nb }}Batterihelse{{ else }}Battery health{{ end }}</strong><output data-value="soh">100%</output></span>
+              <input type="range" name="soh" min="60" max="100" step="1" value="100">
+            </label>
+            <label class="range-calculator__select">
+              <span>{{ if $nb }}Utstyrsnivå{{ else }}Trim level{{ end }}</span>
+              <select name="trimLevel">
+                <option value="base">{{ if $nb }}Basis{{ else }}Base{{ end }}</option>
+                <option value="mid">{{ if $nb }}Mellom{{ else }}Mid{{ end }}</option>
+                <option value="top">{{ if $nb }}Topp{{ else }}Top{{ end }}</option>
+              </select>
+            </label>
+            <label class="range-calculator__toggle">
+              <input type="checkbox" name="isTowing">
+              <span>{{ if $nb }}Kjører med tilhenger{{ else }}Towing a trailer{{ end }}</span>
+            </label>
+            <label class="range-calculator__select" data-trailer-control hidden>
+              <span>{{ if $nb }}Tilhengertype{{ else }}Trailer type{{ end }}</span>
+              <select name="trailerKey">
+                <option value="smallflatbed750">{{ if $nb }}Liten planhenger, opptil 750 kg{{ else }}Small flatbed, up to 750 kg{{ end }}</option>
+                <option value="twinaxleflatbed">{{ if $nb }}Tandem planhenger{{ else }}Twin-axle flatbed{{ end }}</option>
+                <option value="smallcaravan">{{ if $nb }}Liten campingvogn{{ else }}Small caravan{{ end }}</option>
+                <option value="largecaravan">{{ if $nb }}Stor campingvogn{{ else }}Large caravan{{ end }}</option>
+              </select>
+            </label>
+          </div>
+        </details>
+
+        <div class="range-calculator__actions">
+          <button class="btn-primary btn-primary--lg" type="submit" data-calculator-submit>{{ if $nb }}Beregn rekkevidde{{ else }}Calculate range{{ end }}</button>
+          <p>{{ if $nb }}Anslaget er modellbasert og kan avvike fra faktisk rekkevidde.{{ else }}This model-based estimate may differ from real-world range.{{ end }}</p>
+        </div>
+      </form>
+
+      <section class="range-calculator__result" aria-live="polite" aria-busy="true" data-calculator-result>
+        <div class="microlabel">{{ if $nb }}Beregnet rekkevidde{{ else }}Estimated range{{ end }}</div>
+        <div class="range-calculator__range"><strong data-result-range>—</strong><span>km</span></div>
+        <p class="range-calculator__vehicle" data-result-vehicle>{{ if $nb }}Beregner for {{ $model.title }}{{ else }}Calculating for {{ $model.title }}{{ end }}</p>
+        <div class="range-calculator__metrics">
+          <div><span>{{ if $nb }}Forbruk{{ else }}Consumption{{ end }}</span><strong data-result-consumption>—</strong></div>
+          <div><span>{{ if $nb }}Tilgjengelig energi{{ else }}Available energy{{ end }}</span><strong data-result-energy>—</strong></div>
+          <div><span>{{ if $nb }}Kjøretid{{ else }}Driving time{{ end }}</span><strong data-result-time>—</strong></div>
+        </div>
+        <div class="range-calculator__breakdown" data-consumption-breakdown hidden>
+          <h3>{{ if $nb }}Energibruk per kilometer{{ else }}Energy use per kilometre{{ end }}</h3>
+          <div data-breakdown-rows></div>
+        </div>
+        <p class="range-calculator__status" data-calculator-status>{{ if $nb }}Beregner…{{ else }}Calculating…{{ end }}</p>
+        <p class="model-calculator__error" data-calculator-error hidden>{{ if $nb }}Kalkulatoren kunne ikke hente et resultat.{{ else }}The calculator could not retrieve a result.{{ end }} <a href="https://evkx.net/{{ if $nb }}nb/{{ end }}evcompare/travelcalculator/?evs={{ $model.evkx_id }}">{{ if $nb }}Åpne kalkulatoren på EVKX.net{{ else }}Open the calculator on EVKX.net{{ end }}</a>.</p>
+      </section>
     </div>
-    <p class="model-calculator__source">{{ if eq $page.Language.Lang "nb" }}Kjøretøydata og beregninger levert av{{ else }}Vehicle data and calculations by{{ end }} <a href="https://evkx.net/{{ if eq $page.Language.Lang "nb" }}nb/{{ end }}evcompare/travelcalculator/?evs={{ $model.evkx_id }}">EVKX.net</a>.</p>
+    <noscript><p class="model-calculator__source">{{ if $nb }}JavaScript må være aktivert for å bruke kalkulatoren.{{ else }}JavaScript is required to use the calculator.{{ end }}</p></noscript>
+    <p class="model-calculator__source">{{ if $nb }}Kjøretøydata og beregningsmotor levert av{{ else }}Vehicle data and calculation engine provided by{{ end }} <a href="https://evkx.net/{{ if $nb }}nb/{{ end }}evcompare/travelcalculator/?evs={{ $model.evkx_id }}">EVKX.net</a>.</p>
   </div>
 </section>
-<script type="module" src="/js/evkx-travel-calculator.js"></script>
+<script type="module" src="{{ "js/evkx-travel-calculator.js" | relURL }}"></script>
 {{ end }}

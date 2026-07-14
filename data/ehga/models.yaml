@@ -20,7 +20,7 @@
   charging: "125 kW"
 - slug: q6-e-tron
   title: Audi Q6 e-tron
-  evkx_id: d3459866-4569-409e-9697-5a841863f61a
+  evkx_id: 1dab2cfe-1d30-4338-836d-fa389d7d6d87
   image: https://media.evkx.net/ehga/models/q6-e-tron/q6dynamic_1_st.webp
   status: onsale
   market: europe
@@ -80,7 +80,7 @@
   charging: "420 kW"
 - slug: e7x
   title: AUDI E7X
-  evkx_id: 019e0866-3682-7f39-a580-7b47c1f835c8
+  evkx_id: 019e0866-46ee-7cce-b78e-f17b8e1faa55
   image: https://media.evkx.net/ehga/models/e7x/exterior/exterior_1_st.webp
   status: china
   market: china
