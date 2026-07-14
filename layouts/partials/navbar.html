@@ -14,7 +14,7 @@
       <a class="site-nav__link" href="{{ with .Site.GetPage "/guides/" }}{{ .RelPermalink }}{{ end }}" {{ if eq $section "guides" }}aria-current="page"{{ end }}>{{ T "menu-guides" }}</a>
       <a class="site-nav__link" href="{{ with .Site.GetPage "/articles/" }}{{ .RelPermalink }}{{ end }}" {{ if eq $section "articles" }}aria-current="page"{{ end }}>{{ T "menu-articles" }}</a>
       <a class="site-nav__link site-nav__link--cta" href="{{ with .Site.GetPage "/compare/" }}{{ .RelPermalink }}{{ else }}/compare/{{ end }}" {{ if eq $section "compare" }}aria-current="page"{{ end }}>{{ if eq .Language.Lang "nb" }}Sammenlign{{ else }}Compare{{ end }}</a>
-      {{ if .Site.IsMultiLingual }}
+      {{ if gt (len .Site.Languages) 1 }}
       <div class="site-language">
         <button class="site-language__trigger" type="button" data-language-toggle aria-expanded="false">{{ upper .Language.Lang }} ↓</button>
         <div class="site-language__menu" data-language-menu hidden>

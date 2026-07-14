@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="{{ "css/photoswipe.css" | relURL }}">
   <script src="{{ "js/ehga-site.js" | relURL }}" defer></script>
   {{- $currentPage := . -}}
-  {{- if .Site.IsMultiLingual -}}
+  {{- if gt (len .Site.Languages) 1 -}}
     {{- range .AllTranslations -}}
       <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
     {{- end -}}
