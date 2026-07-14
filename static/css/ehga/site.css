@@ -134,6 +134,7 @@ button, input, select { font: inherit; }
 .model-calculator__error a, .model-calculator__source a { color: var(--accent); }
 .model-calculator__source { margin: 16px 0 0; color: var(--text-on-dark-4); font: var(--body-s); }
 .range-calculator__form { min-width: 0; padding: 32px; }
+.range-calculator__variant { max-width: 680px; margin-bottom: 28px; }
 .range-calculator__fieldset { margin: 0 0 28px; padding: 0; border: 0; }
 .range-calculator__fieldset legend, .range-calculator__select > span { display: block; margin-bottom: 10px; color: var(--text-on-dark-3); font: var(--microlabel-s); letter-spacing: .1em; text-transform: uppercase; }
 .range-calculator__segments { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); max-width: 470px; padding: 4px; border: 1px solid var(--border-on-dark-strong); border-radius: var(--radius-m); background: var(--ink); }

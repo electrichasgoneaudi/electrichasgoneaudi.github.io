@@ -36,6 +36,49 @@ const number = (value, digits = 0) => new Intl.NumberFormat(undefined, {
   minimumFractionDigits: digits,
 }).format(value);
 
+function formatModelName(host, value) {
+  let modelName = value || host.dataset.modelTitle || '';
+  if (host.dataset.modelTitle?.startsWith('AUDI ')) {
+    modelName = modelName.replace(/^Audi\s+/i, 'AUDI ').replace(/\be5\b/i, 'E5').replace(/\be7x\b/i, 'E7X');
+  }
+  return modelName;
+}
+
+function belongsToModelFamily(family, value) {
+  const name = String(value || '').toLowerCase();
+  const patterns = {
+    'q4-e-tron': /^audi q4\b/,
+    'q5-e-tron': /^audi q5\b/,
+    'q6-e-tron': /^audi (?:q6l?|sq6)\b/,
+    'q8-e-tron': /^audi (?:q8|sq8)\b/,
+    'e-tron-gt': /e-tron gt/,
+    'a6-e-tron': /^audi (?:a6|s6)\b/,
+    'e-tron': /^audi e-tron(?:\s|$)/,
+    'e5': /^audi e5\b/,
+    'e7x': /^audi e7x\b/,
+  };
+  return patterns[family]?.test(name) ?? true;
+}
+
+function isCalculableVariant(variant) {
+  return !Array.isArray(variant.battery)
+    || variant.battery.length === 0
+    || variant.battery.some((battery) => Number(battery.netCapacity) > 0);
+}
+
+function variantLabel(host, variant) {
+  const battery = variant.battery?.[0]?.grossCapacity;
+  const years = Array.isArray(variant.modelYear)
+    ? variant.modelYear.map((year) => /^\d{4}$/.test(String(year)) ? `MY${year}` : String(year).toUpperCase()).join(', ')
+    : '';
+  return [
+    formatModelName(host, variant.name),
+    Number.isFinite(Number(battery)) && Number(battery) > 0 ? `${number(Number(battery), Number.isInteger(Number(battery)) ? 0 : 1)} kWh` : '',
+    years,
+    isCalculableVariant(variant) ? '' : (host.dataset.lang === 'nb' ? 'rekkeviddedata mangler' : 'range data unavailable'),
+  ].filter(Boolean).join(' · ');
+}
+
 function duration(value) {
   if (!value) return '—';
   const match = String(value).match(/(?:(\d+)\.)?(\d{1,2}):(\d{2})/);
@@ -99,10 +142,7 @@ function renderBreakdown(host, trip, copy) {
 }
 
 function renderResult(host, trip, copy) {
-  let modelName = trip.model || host.dataset.modelTitle || '';
-  if (host.dataset.modelTitle?.startsWith('AUDI ')) {
-    modelName = modelName.replace(/^Audi\s+/i, 'AUDI ').replace(/\be5\b/i, 'E5').replace(/\be7x\b/i, 'E7X');
-  }
+  const modelName = formatModelName(host, trip.model);
   host.querySelector('[data-result-range]').textContent = number(Number(trip.totalDistance || 0));
   host.querySelector('[data-result-consumption]').textContent = `${number(Number(trip.whKm || 0), 0)} Wh/km`;
   host.querySelector('[data-result-energy]').textContent = `${number(Number(trip.totalConsumption || 0), 1)} kWh`;
@@ -117,6 +157,7 @@ calculators.forEach((host) => {
   const copy = labels[lang];
   const error = host.querySelector('[data-calculator-error]');
   const trailerControl = host.querySelector('[data-trailer-control]');
+  const variantSelect = host.querySelector('[data-variant-select]');
   let requestController;
   let requestNumber = 0;
 
@@ -129,6 +170,56 @@ calculators.forEach((host) => {
     trailerControl.hidden = !form.elements.isTowing.checked;
   });
 
+  async function loadVariants() {
+    try {
+      const response = await fetch(host.dataset.searchUrl, {
+        method: 'POST',
+        mode: 'cors',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          query: host.dataset.modelQuery,
+          brands: ['Audi'],
+          page: 1,
+          pageSize: 50,
+          includeDiscontinued: true,
+        }),
+      });
+      if (!response.ok) throw new Error(`EVKX search returned ${response.status}`);
+      const result = await response.json();
+      const seen = new Set();
+      const variants = (result.evs || [])
+        .filter((variant) => belongsToModelFamily(host.dataset.modelFamily, variant.name))
+        .filter((variant) => variant.evId && !seen.has(variant.evId) && seen.add(variant.evId));
+      if (!variants.length) return;
+
+      const defaultId = host.dataset.evId.toLowerCase();
+      let selectedId = host.dataset.evId;
+      const options = variants.map((variant) => {
+        const option = document.createElement('option');
+        option.value = variant.evId;
+        option.textContent = variantLabel(host, variant);
+        option.disabled = !isCalculableVariant(variant);
+        if (defaultId === variant.evId.toLowerCase() || defaultId.endsWith(variant.evId.toLowerCase())) {
+          selectedId = variant.evId;
+        }
+        return option;
+      });
+
+      if (selectedId === host.dataset.evId) {
+        const fallback = document.createElement('option');
+        fallback.value = host.dataset.evId;
+        fallback.textContent = host.dataset.modelTitle;
+        options.unshift(fallback);
+      }
+      variantSelect.replaceChildren(...options);
+      variantSelect.value = selectedId;
+    } catch (reason) {
+      console.warn('Unable to load EVKX variants', reason);
+    } finally {
+      variantSelect.disabled = false;
+    }
+  }
+
   async function calculate() {
     const currentRequest = ++requestNumber;
     requestController?.abort();
@@ -140,7 +231,7 @@ calculators.forEach((host) => {
 
     const data = new FormData(form);
     const payload = {
-      eVs: [host.dataset.evId],
+      eVs: [data.get('vehicleId') || host.dataset.evId],
       mode: 'Range',
       rangeMode: data.get('rangeMode'),
       travelSpeed: Number(data.get('speed')),
@@ -184,5 +275,7 @@ calculators.forEach((host) => {
     calculate();
   });
 
+  variantSelect.addEventListener('change', calculate);
+  loadVariants();
   calculate();
 });
