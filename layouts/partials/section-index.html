@@ -1,0 +1,31 @@
+<section class="page-shell band--paper">
+  <div class="container">
+    <header class="page-header">
+      {{ partial "breadcrumb.html" . }}
+      <div class="microlabel">{{ if eq .Language.Lang "nb" }}Utforsk{{ else }}Explore{{ end }}</div>
+      <h1 class="h-display" style="margin-top:12px">{{ .Title }}</h1>
+      {{ with .Description }}<p class="page-header__description">{{ . }}</p>{{ end }}
+    </header>
+
+    <div class="editorial-grid">
+      {{ range .Pages.ByWeight }}
+        {{ if not .Params.hidden }}
+          {{ $image := "https://media.evkx.net/ehga/models/q6-e-tron/q6dynamic_1_st.webp" }}
+          {{ $matches := findRE `(?i)<img[^>]+src=["'][^"']+["']` .Content 1 }}
+          {{ if gt (len $matches) 0 }}{{ $image = replaceRE `(?i).*src=["']([^"']+)["'].*` "$1" (index $matches 0) }}{{ end }}
+          <article class="card card--interactive editorial-card">
+            <a class="card__media" href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
+              <img src="{{ $image | safeURL }}" alt="{{ .Title }}" loading="lazy">
+            </a>
+            <div class="card__body">
+              <div class="microlabel">{{ $.LinkTitle }}</div>
+              <h2 class="card__title" style="margin-top:10px"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+              {{ with .Description }}<p class="editorial-card__description">{{ . }}</p>{{ end }}
+              <a class="link-accent" href="{{ .RelPermalink }}">{{ if eq $.Language.Lang "nb" }}Les mer →{{ else }}Read more →{{ end }}</a>
+            </div>
+          </article>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</section>

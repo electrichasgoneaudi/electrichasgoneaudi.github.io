@@ -1,0 +1,108 @@
+- slug: q4-e-tron
+  title: Audi Q4 e-tron
+  evkx_id: 019dcf9f-731e-74b5-9a70-90d0439fb2f0
+  image: https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_e-tron_quattro_performance/exterior_5b737_st.webp
+  status: onsale
+  market: europe
+  range: "592 km"
+  cycle: WLTP
+  battery: "82 kWh"
+  charging: "185 kW"
+- slug: q5-e-tron
+  title: Audi Q5 e-tron
+  evkx_id: 019e0bab-5f85-7343-8897-035931aa2b6c
+  image: https://media.evkx.net/ehga/models/q5-e-tron/variants.webp
+  status: china
+  market: china
+  range: "560 km"
+  cycle: CLTC
+  battery: "83.4 kWh"
+  charging: "125 kW"
+- slug: q6-e-tron
+  title: Audi Q6 e-tron
+  evkx_id: d3459866-4569-409e-9697-5a841863f61a
+  image: https://media.evkx.net/ehga/models/q6-e-tron/q6dynamic_1_st.webp
+  status: onsale
+  market: europe
+  range: "656 km"
+  cycle: WLTP
+  battery: "100 kWh"
+  charging: "270 kW"
+- slug: q8-e-tron
+  title: Audi Q8 e-tron
+  evkx_id: 9dbfb395-bdd4-4c45-859d-863ec7c75b11
+  image: https://media.evkx.net/ehga/articles/e-tron-facelift-q8-etron-2024/audi_sq8_front_article_st.webp
+  status: ended
+  market: europe
+  range: "600 km"
+  cycle: WLTP
+  battery: "114 kWh"
+  charging: "170 kW"
+- slug: e-tron-gt
+  title: Audi e-tron GT
+  evkx_id: 8aa6fd83-c691-44a0-b6d6-caf127a05740
+  image: https://media.evkx.net/ehga/models/e-tron-gt/exterior/exterior_st.webp
+  status: onsale
+  market: europe
+  range: "622 km"
+  cycle: WLTP
+  battery: "105 kWh"
+  charging: "320 kW"
+- slug: a6-e-tron
+  title: Audi A6 e-tron
+  evkx_id: 3c8e420a-7559-4edd-8acf-e105eaa84ddc
+  image: https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/magneticgray_1_st.webp
+  status: onsale
+  market: europe
+  range: "756 km"
+  cycle: WLTP
+  battery: "100 kWh"
+  charging: "270 kW"
+- slug: e-tron
+  title: Audi e-tron
+  evkx_id: 3b595a0e-3370-4759-8e60-2b92e59825d1
+  image: https://media.evkx.net/ehga/models/e-tron/variants/variants1s.webp
+  status: ended
+  market: europe
+  range: "436 km"
+  cycle: WLTP
+  battery: "95 kWh"
+  charging: "150 kW"
+- slug: e5
+  title: AUDI E5 Sportback
+  evkx_id: 2319fb52-350c-4f07-9778-ae0f16f5a016
+  image: https://media.evkx.net/ehga/models/e5/exterior/exterior_2_st.webp
+  status: china
+  market: china
+  range: "773 km"
+  cycle: CLTC
+  battery: "100 kWh"
+  charging: "420 kW"
+- slug: e7x
+  title: AUDI E7X
+  evkx_id: 019e0866-3682-7f39-a580-7b47c1f835c8
+  image: https://media.evkx.net/ehga/models/e7x/exterior/exterior_1_st.webp
+  status: china
+  market: china
+  range: "751 km"
+  cycle: CLTC
+  battery: "109 kWh"
+  charging: "4C"
+- slug: a4-e-tron
+  title: Audi A4 e-tron
+  image: https://media.evkx.net/ehga/models/a4-e-tron/prototype.webp
+  status: coming
+  market: europe
+  range: "TBA"
+  cycle: ""
+  battery: "TBA"
+  charging: "TBA"
+- slug: a2-e-tron
+  title: Audi A2 e-tron
+  image: https://media.evkx.net/ehga/models/a2-e-tron/shadow_side_st.webp
+  status: coming
+  market: europe
+  range: "TBA"
+  cycle: ""
+  battery: "TBA"
+  charging: "TBA"

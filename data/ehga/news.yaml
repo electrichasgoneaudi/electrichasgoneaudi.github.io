@@ -1,0 +1,24 @@
+- page: /models/e7x/
+  image: https://media.evkx.net/ehga/models/e7x/exterior/exterior_1_st.webp
+  category_en: Model launch
+  category_nb: Modellansering
+  title_en: AUDI E7X sales start in China
+  title_nb: Salget av AUDI E7X har startet i Kina
+  text_en: The 900-volt SUV arrives with up to 751 km CLTC range, 4C charging and five variants.
+  text_nb: SUV-en med 900-voltsarkitektur kommer med opptil 751 km CLTC-rekkevidde, 4C-lading og fem varianter.
+- page: /articles/q4etronfacelift2026/
+  image: https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_e-tron_quattro_performance/exterior_5b737_st.webp
+  category_en: Product update
+  category_nb: Produktoppdatering
+  title_en: Q4 e-tron gets its biggest update yet
+  title_nb: Q4 e-tron får sin største oppdatering hittil
+  text_en: More range, faster charging, bidirectional energy and a completely redesigned digital interior.
+  text_nb: Lengre rekkevidde, raskere lading, toveis energiflyt og et helt nytt digitalt interiør.
+- page: /articles/audiconceptc/
+  image: https://media.evkx.net/ehga/articles/audiconceptc/exterior_1_st.webp
+  category_en: Design
+  category_nb: Design
+  title_en: Audi Concept C defines a new design era
+  title_nb: Audi Concept C definerer en ny designepoke
+  text_en: A compact electric sports car concept built around clarity, emotion and intelligent technology.
+  text_nb: Et kompakt elektrisk sportsbilkonsept bygget rundt klarhet, følelser og intelligent teknologi.

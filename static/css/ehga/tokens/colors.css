@@ -1,0 +1,42 @@
+:root {
+  /* Base palette */
+  --ink: #0C0E11;            /* primary dark: nav, hero, footer, dark bands */
+  --ink-2: #14171C;          /* raised cards on dark */
+  --paper: #F4F3F0;          /* light page background */
+  --paper-2: #EBE9E4;        /* alternate light band */
+  --card: #FFFFFF;           /* cards on light */
+  --accent: #E8590C;         /* electric orange — links, CTAs, microlabels, highlights */
+  --accent-hover: #C2410C;
+  --brand-red: #C8102E;      /* the red in the logo wordmark. Logo use only — do NOT use as UI accent */
+
+  /* Text on dark surfaces */
+  --text-on-dark: #F4F3F0;
+  --text-on-dark-2: rgba(244,243,240,.6);
+  --text-on-dark-3: rgba(244,243,240,.45);
+  --text-on-dark-4: rgba(244,243,240,.35);
+
+  /* Text on light surfaces */
+  --text-on-light: #0C0E11;
+  --text-on-light-2: rgba(12,14,17,.65);
+  --text-on-light-3: rgba(12,14,17,.55);
+  --text-on-light-4: rgba(12,14,17,.4);
+
+  /* Borders */
+  --border-on-dark: rgba(255,255,255,.08);
+  --border-on-dark-strong: rgba(255,255,255,.15);
+  --border-on-light: rgba(12,14,17,.08);
+  --border-on-light-strong: rgba(12,14,17,.2);
+  --divider-on-light: rgba(12,14,17,.05);
+
+  /* Status (model availability) */
+  --status-onsale-fg: #166534;   --status-onsale-bg: rgba(22,101,52,.12);
+  --status-china-fg: #C2410C;    --status-china-bg: rgba(232,89,12,.12);
+  --status-coming-fg: #1E40AF;   --status-coming-bg: rgba(30,64,175,.1);
+  --status-ended-fg: rgba(12,14,17,.55); --status-ended-bg: rgba(12,14,17,.08);
+
+  /* Effects */
+  --shadow-card-hover: 0 16px 36px -18px rgba(12,14,17,.35);
+  --shadow-hero-img: 0 40px 80px -30px rgba(0,0,0,.8);
+  --hover-row-tint: rgba(232,89,12,.04);
+  --scrim-photo: linear-gradient(180deg, rgba(12,14,17,0) 40%, rgba(12,14,17,.88) 100%);
+}

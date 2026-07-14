@@ -1,0 +1,19 @@
+{{ $current := . }}
+{{ $model := false }}
+{{ if .Params.shownavtabs }}{{ $model = . }}{{ end }}
+{{ if not $model }}
+  {{ range .Ancestors }}
+    {{ if and (not $model) .Params.shownavtabs }}{{ $model = . }}{{ end }}
+  {{ end }}
+{{ end }}
+{{ with $model }}
+<div class="section-tabs">
+  <div class="container section-tabs__list">
+    <a class="section-tabs__link" href="{{ .RelPermalink }}" {{ if eq .RelPermalink $current.RelPermalink }}aria-current="page"{{ end }}>{{ .LinkTitle }}</a>
+    {{ $items := .Sections }}
+    {{ range $items.ByWeight }}
+      <a class="section-tabs__link" href="{{ .RelPermalink }}" {{ if or (eq .RelPermalink $current.RelPermalink) (hasPrefix $current.RelPermalink .RelPermalink) }}aria-current="page"{{ end }}>{{ .LinkTitle }}</a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

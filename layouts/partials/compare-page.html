@@ -1,0 +1,44 @@
+{{ $nb := eq .Language.Lang "nb" }}
+<section class="compare-page"
+         data-compare-tool
+         data-api-base="https://evkx.net/api/"
+         data-language="{{ .Language.Lang }}"
+         data-search-placeholder="{{ if $nb }}Søk etter modell eller variant{{ else }}Search model or variant{{ end }}"
+         data-searching-label="{{ if $nb }}Søker…{{ else }}Searching…{{ end }}"
+         data-empty-label="{{ if $nb }}Ingen Audi-varianter funnet{{ else }}No Audi variants found{{ end }}"
+         data-error-label="{{ if $nb }}Søket kunne ikke lastes{{ else }}Search could not be loaded{{ end }}"
+         data-clear-label="{{ if $nb }}Fjern valgt variant{{ else }}Remove selected variant{{ end }}">
+  <header class="compare-page__header">
+    <div class="container">
+      {{ partial "breadcrumb.html" . }}
+      <div class="microlabel">{{ if $nb }}EVKX-data · Audi-utvalg{{ else }}EVKX data · Audi selection{{ end }}</div>
+      <h1 class="content-page__title">{{ .Title }}</h1>
+      <p class="content-page__description">{{ .Description }}</p>
+    </div>
+  </header>
+  <div class="band band--dark">
+    <div class="container">
+      <div class="compare-slots" aria-label="{{ if $nb }}Valgte kjøretøy{{ else }}Selected vehicles{{ end }}">
+        {{ range seq 3 }}
+        <section class="compare-slot" data-compare-slot>
+          <div class="microlabel">{{ if $nb }}Bil {{ . }}{{ else }}Vehicle {{ . }}{{ end }}{{ if eq . 3 }} · {{ if $nb }}valgfri{{ else }}optional{{ end }}{{ end }}</div>
+          <div class="compare-slot__selected" data-selected-vehicle hidden>
+            <strong data-selected-name></strong>
+            <button type="button" class="compare-slot__clear" data-clear-selection aria-label="{{ if $nb }}Fjern valgt variant{{ else }}Remove selected variant{{ end }}">×</button>
+          </div>
+          <div class="compare-slot__search" data-search-control>
+            <label for="compare-search-{{ . }}">{{ if $nb }}Finn en Audi-variant{{ else }}Find an Audi variant{{ end }}</label>
+            <input id="compare-search-{{ . }}" type="search" autocomplete="off" placeholder="{{ if $nb }}Søk modell eller variant{{ else }}Search model or variant{{ end }}" data-compare-search>
+            <div class="compare-slot__results" data-compare-results role="listbox" hidden></div>
+          </div>
+        </section>
+        {{ end }}
+      </div>
+      <div class="compare-actions">
+        <div><p>{{ if $nb }}Den fullstendige spesifikasjonstabellen åpnes på EVKX.net. Valgene dine følger med.{{ else }}The complete specification table opens on EVKX.net with your selections preserved.{{ end }}</p><span>{{ if $nb }}Kjøretøydata levert av EVKX{{ else }}Vehicle data provided by EVKX{{ end }}</span></div>
+        <button class="btn-primary btn-primary--lg" type="button" data-open-comparison disabled>{{ if $nb }}Velg minst to biler{{ else }}Select at least two vehicles{{ end }}</button>
+      </div>
+    </div>
+  </div>
+</section>
+<script type="module" src="/js/evkx-compare.js"></script>

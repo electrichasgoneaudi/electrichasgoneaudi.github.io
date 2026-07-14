@@ -1,0 +1,54 @@
+<section class="home-hero">
+  <img class="home-hero__image" src="https://media.evkx.net/ehga/models/q6-e-tron/q6dynamic_1_st.webp" alt="Audi Q6 e-tron">
+  <div class="container home-hero__content">
+    <div class="microlabel">{{ if eq .Language.Lang "nb" }}Uavhengig · Grundig · Siden 2020{{ else }}Independent · In depth · Since 2020{{ end }}</div>
+    <h1 class="home-hero__title">{{ if eq .Language.Lang "nb" }}Alle elektriske Audi-modeller. <span>I detalj.</span>{{ else }}Every electric Audi. <span>In detail.</span>{{ end }}</h1>
+    <p class="home-hero__lede">{{ if eq .Language.Lang "nb" }}Uavhengige modellguider, komplette spesifikasjoner og praktisk teknisk kunnskap for deg som eier, kjøper eller følger Audis elektriske utvikling.{{ else }}Independent model guides, complete specifications and practical technical knowledge for owners, buyers and anyone following Audi's electric transition.{{ end }}</p>
+    <div style="position:relative;max-width:610px">
+      <div class="home-search"><input type="search" data-site-search data-search-index="{{ if eq .Language.Lang "nb" }}/nb/index.json{{ else }}/index.json{{ end }}" data-empty-label="{{ if eq .Language.Lang "nb" }}Ingen treff{{ else }}No matching pages{{ end }}" autocomplete="off" placeholder="{{ if eq .Language.Lang "nb" }}Søk modeller, teknologi og guider{{ else }}Search models, technology and guides{{ end }}" aria-label="{{ if eq .Language.Lang "nb" }}Søk på nettstedet{{ else }}Site search{{ end }}"><button class="btn-primary" type="button">{{ if eq .Language.Lang "nb" }}Søk{{ else }}Search{{ end }}</button></div>
+      <div class="search-results" data-search-results hidden></div>
+    </div>
+    <div class="home-stats">
+      <div class="home-stat"><strong>11</strong><span>{{ if eq .Language.Lang "nb" }}Modeller{{ else }}Models{{ end }}</span></div>
+      <div class="home-stat"><strong>1000+</strong><span>{{ if eq .Language.Lang "nb" }}Datapunkter{{ else }}Specs{{ end }}</span></div>
+      <div class="home-stat"><strong>2</strong><span>{{ if eq .Language.Lang "nb" }}Språk{{ else }}Languages{{ end }}</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="band band--dark">
+  <div class="container">
+    <div class="section-heading"><div><div class="microlabel">{{ if eq .Language.Lang "nb" }}Siste nytt{{ else }}Latest{{ end }}</div><h2 class="h-section">{{ if eq .Language.Lang "nb" }}Nyheter og lanseringer{{ else }}News and launches{{ end }}</h2></div><a class="link-accent" href="{{ with .Site.GetPage "/articles/" }}{{ .RelPermalink }}{{ end }}">{{ if eq .Language.Lang "nb" }}Alle artikler →{{ else }}All articles →{{ end }}</a></div>
+    <div class="grid-3">
+      {{ $lang := .Language.Lang }}
+      {{ range .Site.Data.ehga.news }}
+        {{ $target := $.Site.GetPage .page }}
+        <article class="card card--dark card--interactive news-card">
+          <img class="card__media" src="{{ .image }}" alt="{{ index . (printf "title_%s" $lang) }}" loading="lazy">
+          <div class="news-card__content"><div class="microlabel">{{ index . (printf "category_%s" $lang) }}</div><h3><a href="{{ with $target }}{{ .RelPermalink }}{{ else }}{{ .page }}{{ end }}">{{ index . (printf "title_%s" $lang) }}</a></h3><p>{{ index . (printf "text_%s" $lang) }}</p></div>
+        </article>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+<section class="band band--paper" id="models">
+  <div class="container">
+    <div class="section-heading"><div><div class="microlabel">{{ if eq .Language.Lang "nb" }}Modelloversikt{{ else }}Model range{{ end }}</div><h2 class="h-section">{{ if eq .Language.Lang "nb" }}Finn din elektriske Audi{{ else }}Find your electric Audi{{ end }}</h2><p class="section-heading__copy">{{ if eq .Language.Lang "nb" }}Fra kompakte SUV-er til Gran Turismo og Kina-eksklusive AUDI-modeller.{{ else }}From compact SUVs to electric Gran Turismos and China-exclusive AUDI models.{{ end }}</p></div><a class="link-accent" href="{{ with .Site.GetPage "/models/" }}{{ .RelPermalink }}{{ end }}">{{ if eq .Language.Lang "nb" }}Alle modeller →{{ else }}All models →{{ end }}</a></div>
+    <div class="grid-3">{{ range first 6 .Site.Data.ehga.models }}{{ partial "model-card.html" (dict "model" . "site" $) }}{{ end }}</div>
+  </div>
+</section>
+
+<section class="band band--paper-2">
+  <div class="container">
+    <div class="section-heading"><div><div class="microlabel">{{ if eq .Language.Lang "nb" }}Forstå teknologien{{ else }}Understand the technology{{ end }}</div><h2 class="h-section">{{ if eq .Language.Lang "nb" }}Teknologi uten markedsføringsspråk{{ else }}Technology without the marketing gloss{{ end }}</h2></div></div>
+    <div class="grid-4">
+      {{ $tech := slice (dict "slug" "battery" "title_en" "Battery" "title_nb" "Batteri" "text_en" "Cells, chemistry, degradation and thermal management." "text_nb" "Celler, kjemi, degradering og varmestyring.") (dict "slug" "bev-platforms" "title_en" "EV platforms" "title_nb" "Elbilplattformer" "text_en" "MEB, PPE, J1 and the architectures behind every model." "text_nb" "MEB, PPE, J1 og arkitekturen bak hver modell.") (dict "slug" "motors" "title_en" "Motors" "title_nb" "Motorer" "text_en" "Permanent-magnet, induction and drive-system fundamentals." "text_nb" "Permanentmagnet, asynkron og grunnleggende drivlinjeteknologi.") (dict "slug" "charging" "title_en" "Charging" "title_nb" "Lading" "text_en" "Curves, voltage, preconditioning and real charging speed." "text_nb" "Ladekurver, spenning, forvarming og reell ladehastighet.") }}
+      {{ range $tech }}{{ $p := $.Site.GetPage (printf "/technology/%s/" .slug) }}<article class="card card--interactive"><div class="card__body"><div class="microlabel">{{ if eq $.Language.Lang "nb" }}Teknologi{{ else }}Technology{{ end }}</div><h3 class="card__title" style="margin-top:12px"><a href="{{ with $p }}{{ .RelPermalink }}{{ else }}/technology/{{ .slug }}/{{ end }}">{{ index . (printf "title_%s" $.Language.Lang) }}</a></h3><p style="color:var(--text-on-light-3);margin-bottom:0">{{ index . (printf "text_%s" $.Language.Lang) }}</p></div></article>{{ end }}
+    </div>
+  </div>
+</section>
+
+<section class="band band--dark">
+  <div class="container"><div class="card card--dark" style="padding:clamp(28px,5vw,58px);display:grid;grid-template-columns:1.5fr 1fr;gap:32px;align-items:center"><div><div class="microlabel">{{ if eq .Language.Lang "nb" }}Neste steg{{ else }}Next step{{ end }}</div><h2 class="h-section" style="margin-top:12px">{{ if eq .Language.Lang "nb" }}Sammenlign modellene på data, ikke antakelser{{ else }}Compare the models on data, not assumptions{{ end }}</h2><p style="max-width:62ch;color:var(--text-on-dark-2)">{{ if eq .Language.Lang "nb" }}Se rekkevidde, lading, ytelser og praktiske egenskaper side ved side.{{ else }}Put range, charging, performance and practical capability side by side.{{ end }}</p></div><div style="text-align:right"><a class="btn-primary btn-primary--lg" href="{{ with .Site.GetPage "/compare/" }}{{ .RelPermalink }}{{ else }}/compare/{{ end }}">{{ if eq .Language.Lang "nb" }}Sammenlign modeller →{{ else }}Compare models →{{ end }}</a></div></div></div>
+</section>

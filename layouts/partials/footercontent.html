@@ -1,0 +1,36 @@
+<div class="site-footer__grid">
+  <div class="site-footer__brand">
+    <a href="{{ .Site.Home.RelPermalink }}"><img class="site-footer__logo" src="/images/logonew.png" alt="Electric has gone Audi"></a>
+    <p class="site-footer__lede">{{ if eq .Language.Lang "nb" }}Uavhengig, detaljert kunnskap om alle helelektriske Audi-modeller. Bygget for eiere, kjøpere og entusiaster.{{ else }}Independent, in-depth knowledge about every all-electric Audi. Built for owners, buyers and enthusiasts.{{ end }}</p>
+  </div>
+  <div>
+    <div class="microlabel microlabel--muted-dark site-footer__heading">{{ if eq .Language.Lang "nb" }}Utforsk{{ else }}Explore{{ end }}</div>
+    <div class="site-footer__links">
+      <a href="{{ with .Site.GetPage "/models/" }}{{ .RelPermalink }}{{ end }}">{{ T "menu-models" }}</a>
+      <a href="{{ with .Site.GetPage "/technology/" }}{{ .RelPermalink }}{{ end }}">{{ T "menu-technology" }}</a>
+      <a href="{{ with .Site.GetPage "/guides/" }}{{ .RelPermalink }}{{ end }}">{{ T "menu-guides" }}</a>
+      <a href="{{ with .Site.GetPage "/articles/" }}{{ .RelPermalink }}{{ end }}">{{ T "menu-articles" }}</a>
+      <a href="{{ with .Site.GetPage "/compare/" }}{{ .RelPermalink }}{{ end }}">{{ if eq .Language.Lang "nb" }}Sammenlign{{ else }}Compare{{ end }}</a>
+    </div>
+  </div>
+  <div>
+    <div class="microlabel microlabel--muted-dark site-footer__heading">{{ if eq .Language.Lang "nb" }}Fellesskap{{ else }}Community{{ end }}</div>
+    <div class="site-footer__links">
+      <a href="https://www.facebook.com/electrichasgoneaudi">Facebook</a>
+      <a href="https://www.youtube.com/channel/UCIX5hOCjiv5eTeiJsB7hwkg">YouTube</a>
+      <a href="https://www.instagram.com/electrichasgoneaudi/">Instagram</a>
+      <a href="https://github.com/electrichasgoneaudi/">GitHub</a>
+    </div>
+  </div>
+  <div>
+    <div class="microlabel microlabel--muted-dark site-footer__heading">{{ if eq .Language.Lang "nb" }}Data{{ else }}Data{{ end }}</div>
+    <div class="site-footer__links">
+      <a href="https://evkx.net">EVKX.net</a>
+      <span>{{ if eq .Language.Lang "nb" }}Spesifikasjoner og beregninger{{ else }}Specifications and calculations{{ end }}</span>
+    </div>
+  </div>
+</div>
+<div class="site-footer__bottom">
+  <span>© {{ now.Year }} Electric has gone Audi</span>
+  <span>{{ if eq .Language.Lang "nb" }}Uavhengig fanside. Ikke tilknyttet AUDI AG.{{ else }}Independent fan site. Not affiliated with AUDI AG.{{ end }}</span>
+</div>

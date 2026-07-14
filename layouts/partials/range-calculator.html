@@ -1,0 +1,31 @@
+{{ $page := .page }}
+{{ $model := .model }}
+{{ if $model.evkx_id }}
+<section class="band band--dark model-calculator">
+  <div class="container">
+    <div class="model-calculator__heading">
+      <div>
+        <div class="microlabel">{{ if eq $page.Language.Lang "nb" }}Rekkeviddeverktøy{{ else }}Range tool{{ end }}</div>
+        <h2 class="h-section">{{ if eq $page.Language.Lang "nb" }}Beregn rekkevidde under dine forhold{{ else }}Calculate range for your conditions{{ end }}</h2>
+      </div>
+      <p>{{ if eq $page.Language.Lang "nb" }}Juster hastighet, temperatur, kjøreforhold og last. Beregningen bruker den samme kjøretøymodellen og motoren som EVKX.{{ else }}Adjust speed, temperature, road conditions and load. The calculation uses the same vehicle data and engine as EVKX.{{ end }}</p>
+    </div>
+    <div class="model-calculator__surface">
+      <div id="travel-calc-embed"
+           data-evkx-travel-calculator
+           data-ev-id="{{ $model.evkx_id }}"
+           data-api-base="https://evkx.net/api/"
+           data-asset-base="https://media.evkx.net/wwwroot/assets/travelcalculator/"
+           data-brand="Audi"
+           data-lang="{{ $page.Language.Lang }}"
+           data-color-scheme="dark"
+           aria-live="polite">
+        <p class="model-calculator__loading">{{ if eq $page.Language.Lang "nb" }}Laster rekkeviddekalkulator…{{ else }}Loading range calculator…{{ end }}</p>
+      </div>
+      <noscript><p>{{ if eq $page.Language.Lang "nb" }}JavaScript må være aktivert for å bruke kalkulatoren.{{ else }}JavaScript is required to use the calculator.{{ end }}</p></noscript>
+    </div>
+    <p class="model-calculator__source">{{ if eq $page.Language.Lang "nb" }}Kjøretøydata og beregninger levert av{{ else }}Vehicle data and calculations by{{ end }} <a href="https://evkx.net/{{ if eq $page.Language.Lang "nb" }}nb/{{ end }}evcompare/travelcalculator/?evs={{ $model.evkx_id }}">EVKX.net</a>.</p>
+  </div>
+</section>
+<script type="module" src="/js/evkx-travel-calculator.js"></script>
+{{ end }}
