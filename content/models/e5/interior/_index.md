@@ -1,16 +1,16 @@
 ---
-title: Audi E5 Sportback interior
+title: AUDI E5 Sportback interior
 linktitle: Interior
-description: The Audi E5 Sportback interior is a digital-first space with a full-width panoramic display, multicolor ambient lighting, standard seat ventilation, and generous rear-seat space.
+description: The AUDI E5 Sportback interior is a digital-first space with a full-width panoramic display, multicolor ambient lighting, standard seat ventilation, and generous rear-seat space.
 weight: 5
 ---
 <!-- markdownlint-disable MD033 -->
 
-The Audi E5 Sportback interior is conceived as a **digital-first living space**, combining a clean horizontal dashboard layout with premium materials, a full-width display architecture, and deep connectivity. The design reflects Audi's shift toward software-defined vehicles for the Chinese market.
+The AUDI E5 Sportback interior is conceived as a **digital-first living space**, combining a clean horizontal dashboard layout with premium materials, a full-width display architecture, and deep connectivity. The design reflects Audi's shift toward software-defined vehicles for the Chinese market.
 
-{{< evkxfiguresized thumb="models/audi/e5_/e5/interior_5e105_st.webp" width="3000" height="2250" title="Audi E5 Sportback interior" >}}
+{{< evkxfiguresized thumb="models/audi/e5_/e5/interior_5e105_st.webp" width="3000" height="2250" title="AUDI E5 Sportback interior" >}}
 
-{{< evkxfiguresized thumb="models/audi/e5_/e5/screens_0798b_st.webp" width="3000" height="2250" title="Audi E5 Sportback screens" >}}
+{{< evkxfiguresized thumb="models/audi/e5_/e5/screens_0798b_st.webp" width="3000" height="2250" title="AUDI E5 Sportback screens" >}}
 
 ## Screens and user interface
 
@@ -38,7 +38,7 @@ The E5 Sportback is a **five-seat Sportback** with two front seats and a three-s
 - Lumbar support
 - Optional massage function
 
-{{< evkxfiguresized thumb="models/audi/e5_/e5/secondrowseats_ae938_st.webp" width="3000" height="2250" title="Audi E5 Sportback rear seats" >}}
+{{< evkxfiguresized thumb="models/audi/e5_/e5/secondrowseats_ae938_st.webp" width="3000" height="2250" title="AUDI E5 Sportback rear seats" >}}
 
 ### Rear seats
 

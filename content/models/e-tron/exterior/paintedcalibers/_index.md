@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron painted calibers
-linktitle: Painted Calibers
-description: You can order orange painted calibers on Audi e-tron. 
+title: Audi e-tron painted calipers
+linktitle: Painted Calipers
+description: You can order orange painted calipers on Audi e-tron.
 weight: 8
 ---
 <!-- markdownlint-disable MD033 -->
@@ -10,9 +10,9 @@ The code is **PC2** on e-tron 55/50 and **PC4** on e-tron S.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paintedcalibers/paintedcalibers.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paintedcalibers/paintedcaliberss.webp" class="img-fluid" alt="Painted Calibers på e-tron S" title="Painted Calibers på e-tron S">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paintedcalibers/paintedcaliberss.webp" class="img-fluid" alt="Painted Calipers på e-tron S" title="Painted Calipers på e-tron S">
     </a>
-    <figcaption><h4>Painted Calibers på e-tron S</h4></figcaption>
+    <figcaption><h4>Painted Calipers på e-tron S</h4></figcaption>
 </figure>
 
 
@@ -28,7 +28,7 @@ The color code in different formats are.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paintedcalibers/paintedcalipers2.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paintedcalibers/paintedcalipers2s.webp" class="img-fluid" alt="Painted Calibers på e-tron S" title="Painted Calibers på e-tron S">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paintedcalibers/paintedcalipers2s.webp" class="img-fluid" alt="Painted Calipers på e-tron S" title="Painted Calipers på e-tron S">
     </a>
-    <figcaption><h4>Painted Calibers på e-tron S</h4></figcaption>
+    <figcaption><h4>Painted Calipers på e-tron S</h4></figcaption>
 </figure>

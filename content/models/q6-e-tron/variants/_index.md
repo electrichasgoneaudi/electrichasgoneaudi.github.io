@@ -1,279 +1,38 @@
 ---
 title: Audi Q6 e-tron variants
 linktitle: Variants
-description: The Audi Q6 e-tron is currently available in 4 different variants, with more expected variants.
+description: The European Audi Q6 e-tron family comprises eight SUV and Sportback variants with two battery sizes and rear-wheel or quattro all-wheel drive.
 weight: 1
 ---
 
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/variants/variants_1_st.webp" width="3000" height="2250" title="Audi SQ6 e-tron & Audi Q6 e-tron" >}}
-
 <!-- markdownlint-disable MD033 -->
-### Audi Q6 e-tron
 
-This variant is the rwd model with a 83kWh battery and 240kW/326hp.
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/variants/variants_1_st.webp" width="3000" height="2250" title="Audi SQ6 e-tron and Audi Q6 e-tron" >}}
 
-The Audi Q6 SUV e-tron includes the following as standard
+The European Q6 e-tron family combines four drivetrains with SUV and Sportback bodies. Figures below are representative European values; equipment, output and homologated range can vary by market and model year.
 
-Scopes:
+## Q6 SUV e-tron
 
-**Exterior:**
+| Variant | Drive | Battery gross/net | Power | 0–100 km/h | WLTP range |
+|---|---|---|---|---|---|
+| Q6 e-tron | Rear-wheel drive | 83/75.8 kWh | 185 kW, 215 kW with Launch Control | 7.0 s | Up to 533 km |
+| Q6 e-tron performance | Rear-wheel drive | 100/94.9 kWh | 225 kW, 240 kW with Launch Control | 6.6 s | Up to 641 km |
+| Q6 e-tron quattro | All-wheel drive | 100/94.9 kWh | 285 kW | 5.9 s | Up to 625 km |
+| SQ6 e-tron | All-wheel drive | 100/94.9 kWh | 360 kW, 380 kW with Launch Control | 4.3 s | Up to 598 km |
 
-- advanced exterior
-- Bottom line in Mythos Black contrast paint finish
-- Single frame in body color
-- LED headlights and LED taillights
-- Wheels, 10-spoke, 8.0 J x 18 with tires 235/65 R 18
-front, 9.0 J x 18 with tires 255/60 R 18 rear
-- Black window trim
-- Roof rails matt black
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/variants/variants_2_st.webp" width="3000" height="2250" title="Audi SQ6 Sportback e-tron" >}}
 
-**Interior:**
+## Q6 Sportback e-tron
 
-- Standard front seats in fabric argument
-- Decorative inlay fine volcano gray lacquer
-- Softwrap
-- Double-spoke leather steering wheel with multifunction
-- Ambient lighting package
-- Door sill plates with aluminum inserts at the front
+| Variant | Drive | Battery gross/net | Power | 0–100 km/h | WLTP range |
+|---|---|---|---|---|---|
+| Q6 Sportback e-tron | Rear-wheel drive | 83/75.8 kWh | 185 kW, 215 kW with Launch Control | 7.0 s | Up to 546 km |
+| Q6 Sportback e-tron performance | Rear-wheel drive | 100/94.9 kWh | 225 kW, 240 kW with Launch Control | 6.6 s | Up to 656 km |
+| Q6 Sportback e-tron quattro | All-wheel drive | 100/94.9 kWh | 285 kW | 5.9 s | Up to 636 km |
+| SQ6 Sportback e-tron | All-wheel drive | 100/94.9 kWh | 360 kW | 4.3 s | Up to 607 km |
 
-[See detailed specification](../specifications/#audi-q6-e-tron)
+The 83 kWh variants support up to **225 kW DC**. The 100 kWh variants support up to **270 kW DC**. Regular Q6 variants have a top speed of **210 km/h**, while SQ6 variants reach **230 km/h**.
 
+[See the generated detailed specifications](../specifications/) or read Audi's [official Q6 Sportback e-tron range announcement](https://www.audi.com/en/press-releases/exciting-design-and-longest-range-in-the-model-family-the-new-audi-q6-sportback-e-tron-16295).
 
-### Audi Q6 e-tron performance
-
-This variant is the rwd model with a 100kWh battery and 240kW/326hp.
-
-The Audi Q6 SUV e-tron includes the following as standard
-
-Scopes:
-
-**Exterior:**
-
-- advanced exterior
-- Bottom line in Mythos Black contrast paint finish
-- Single frame in body color
-- LED headlights and LED taillights
-- Wheels, 10-spoke, 8.0 J x 18 with tires 235/65 R 18
-front, 9.0 J x 18 with tires 255/60 R 18 rear
-- Black window trim
-- Roof rails matt black
-
-**Interior:**
-
-- Standard front seats in fabric argument
-- Decorative inlay fine volcano gray lacquer
-- Softwrap
-- Double-spoke leather steering wheel with multifunction
-- Ambient lighting package
-- Door sill plates with aluminum inserts at the front
-
-[See detailed specification](../specifications/#audi-q6-e-tron-performance)
-
-
-
-### Audi Q6 e-tron quattro
-
-This variant is the entry quattro model with 285kW/385HP for the EU version and 340kW and 433 BHP for the US version.
-
-The Audi Q6 SUV e-tron includes the following as standard
-Scopes:
-
-**Exterior:**
-
-- advanced exterior
-- Bottom line in Mythos Black contrast paint finish
-- Single frame in body color
-- LED headlights and LED taillights
-- Wheels, 10-spoke, 8.0 J x 18 with tires 235/65 R 18
-front, 9.0 J x 18 with tires 255/60 R 18 rear
-- Black window trim
-- Roof rails matt black
-
-**Interior:**
-
-- Standard front seats in fabric argument
-- Decorative inlay fine volcano gray lacquer
-- Softwrap
-- Double-spoke leather steering wheel with multifunction
-- Ambient lighting package
-- Door sill plates with aluminum inserts at the front
-
-[See detailed specification](../specifications/#audi-q6-e-tron-quattro)
-
-### Audi SQ6 e-tron
-
-Performance variant. 
-
-The Audi SQ6 SUV e-tron includes the following as standard
-Scopes:
-
-**Exterior:**
-
-- S model exterior
-- Bottom line in Mythos Black contrast paint finish
-- Single frame in body color with aluminum inserts
-- LED headlights plus with dynamic lighting
-and LED rear lights pro with a continuous lighting band
-- S sports suspension
- -Wheels, 5-arm structure, graphite gray, high-sheen finish2,
-8.5 J x 20 with tires 255/50 R 20 at the front, 10.0 J x 20
-with 285/45 R 20 tires at the rear
-- Black window trim
-- Exterior mirror housing chrome look matt silver
-- Aluminum roof rails
-- e-tron sports sound
-  
-**Interior:**
-
-- Sports seats in black leather/artificial leather combination
-- Decorative inlay aluminum matt brushed anthracite
-- Softwrap
-- Sports leather steering wheel, 3-spoke, flattened at the top and bottom
-with multifunction and shift paddles including S emblem
-- Pedals and footrest made of stainless steel
-- Ambient lighting package
-- Door sill plates with aluminum inserts at the front, illuminated
-with S lettering
-
-[See detailed specification](../specifications/#audi-sq6-e-tron)
-
-
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/variants/variants_2_st.webp" width="3000" height="2250" title="Audi SQ6 sportback e-tron" >}}
-
-
-### Audi Q6 Sportback e-tron
-
-This variant is the rwd model with a 83kWh battery and 240kW/326hp.
-
-The Audi Q6 SUV e-tron includes the following as standard
-
-Scopes:
-
-**Exterior:**
-
-- advanced exterior
-- Bottom line in Mythos Black contrast paint finish
-- Single frame in body color
-- LED headlights and LED taillights
-- Wheels, 10-spoke, 8.0 J x 18 with tires 235/65 R 18
-front, 9.0 J x 18 with tires 255/60 R 18 rear
-- Black window trim
-- Roof rails matt black
-
-**Interior:**
-
-- Standard front seats in fabric argument
-- Decorative inlay fine volcano gray lacquer
-- Softwrap
-- Double-spoke leather steering wheel with multifunction
-- Ambient lighting package
-- Door sill plates with aluminum inserts at the front
-
-[See detailed specification](../specifications/#audi-q6-sportback-e-tron)
-
-
-### Audi Q6 Sportback e-tron performance
-
-This variant is the rwd model with a 100kWh battery and 240kW/326hp.
-
-The Audi Q6 SUV e-tron includes the following as standard
-
-Scopes:
-
-**Exterior:**
-
-- advanced exterior
-- Bottom line in Mythos Black contrast paint finish
-- Single frame in body color
-- LED headlights and LED taillights
-- Wheels, 10-spoke, 8.0 J x 18 with tires 235/65 R 18
-front, 9.0 J x 18 with tires 255/60 R 18 rear
-- Black window trim
-- Roof rails matt black
-
-**Interior:**
-
-- Standard front seats in fabric argument
-- Decorative inlay fine volcano gray lacquer
-- Softwrap
-- Double-spoke leather steering wheel with multifunction
-- Ambient lighting package
-- Door sill plates with aluminum inserts at the front
-
-[See detailed specification](../specifications/#audi-q6-sportback-e-tron-performance)
-
-
-
-### Audi Q6 Sportback e-tron quattro
-
-This variant is the entry quattro model with 285kW/385HP for the EU version and 340kW and 433 BHP for the US version.
-
-The Audi Q6 SUV e-tron includes the following as standard
-Scopes:
-
-**Exterior:**
-
-- advanced exterior
-- Bottom line in Mythos Black contrast paint finish
-- Single frame in body color
-- LED headlights and LED taillights
-- Wheels, 10-spoke, 8.0 J x 18 with tires 235/65 R 18
-front, 9.0 J x 18 with tires 255/60 R 18 rear
-- Black window trim
-- Roof rails matt black
-
-**Interior:**
-
-- Standard front seats in fabric argument
-- Decorative inlay fine volcano gray lacquer
-- Softwrap
-- Double-spoke leather steering wheel with multifunction
-- Ambient lighting package
-- Door sill plates with aluminum inserts at the front
-
-[See detailed specification](../specifications/#audi-q6-sportback-e-tron-quattro)
-
-### Audi SQ6 Sportback e-tron
-
-Performance variant. 
-
-The Audi SQ6 SUV e-tron includes the following as standard
-Scopes:
-
-**Exterior:**
-
-- S model exterior
-- Bottom line in Mythos Black contrast paint finish
-- Single frame in body color with aluminum inserts
-- LED headlights plus with dynamic lighting
-and LED rear lights pro with a continuous lighting band
-- S sports suspension
- -Wheels, 5-arm structure, graphite gray, high-sheen finish2,
-8.5 J x 20 with tires 255/50 R 20 at the front, 10.0 J x 20
-with 285/45 R 20 tires at the rear
-- Black window trim
-- Exterior mirror housing chrome look matt silver
-- Aluminum roof rails
-- e-tron sports sound
-  
-**Interior:**
-
-- Sports seats in black leather/artificial leather combination
-- Decorative inlay aluminum matt brushed anthracite
-- Softwrap
-- Sports leather steering wheel, 3-spoke, flattened at the top and bottom
-with multifunction and shift paddles including S emblem
-- Pedals and footrest made of stainless steel
-- Ambient lighting package
-- Door sill plates with aluminum inserts at the front, illuminated
-with S lettering
-
-[See detailed specification](../specifications/#audi-sq6-sportback-e-tron)
-
-
-
-## Upcoming versions
-
-### Audi RSQ6 
-
-These are the super-performance versions. I expected around 600HP, like the Macan Turbo. This variant has not been confirmed, but prototypes have been seen testing.
+{{<children description="true" />}}

@@ -18,6 +18,3 @@ They then appear in the driver information system and/or the Audi virtual cockpi
 </figure>
 
 To turn of that predictive driver assist should follow sign this can be disabled here  MMI - > Car - > Driver Assist - > Adaptive Cruise Assist ->  Predictive Control -> Use speed limit -> Off
-
-This option is part of the tour driver assistance package with option id **PCC**
-

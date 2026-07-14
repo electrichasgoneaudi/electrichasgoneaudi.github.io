@@ -1,187 +1,71 @@
 ---
 title: Audi Q6 e-tron
 linktitle: Audi Q6 e-tron
-description: Audi Q6 e-tron er den nyeste helelektriske modellen fra Audi og har satt en ny standard på mange måter for Audi.
+description: Audi Q6 e-tron er en PPE-basert elektrisk SUV og Sportback med 800-volts lading, opptil 656 km WLTP-rekkevidde og avansert digital lysteknologi.
 weight: 4
 shownavtabs: true
 ---
-
 <!-- markdownlint-disable MD033 -->
 
-Audi Q6 e-tron hadde verdenspremiere 18. mars 2024. Det er Audis femte helelektriske modell og den mest sportslige SUV-en. I størrelse er den mellom [Audi Q4 e-tron](../../models/q4-e-tron/) og [Audi Q8 e-tron](../../models/q8-e-tron/).
+**Audi Q6 e-tron** er en mellomstor elektrisk SUV plassert mellom [Q4 e-tron](../q4-e-tron/) og den tidligere [Q8 e-tron](../q8-e-tron/). SUV-en hadde verdenspremiere 18. mars 2024, og Sportback fulgte i oktober 2024. Begge karosseriformene er nå del av modellprogrammet.
 
-Audi bygde Q6 e-tron på den nye [PPE-plattformen](../../technology/bev-platforms/ppe/) laget av Porsche og Audi. De første kundene kan forvente å motta Audi Q6 e-tron sommeren 2024 som 2025-modell.
-
-Hvis du vil diskutere denne modellen med andre, bli med i den [Internasjonale Audi Q6 e-tron Facebook-gruppen](https://www.facebook.com/groups/114120244068685) eller den [Norske Audi Q6 e-tron Facebook-gruppen](https://www.facebook.com/groups/454688995817417).  
+Dette er den første volumproduserte Audi-modellen på **Premium Platform Electric (PPE)**, utviklet sammen med Porsche, og den første helelektriske modellen produsert ved Audis hovedanlegg i Ingolstadt.
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/q6dynamic_1_st.webp" width="3000" height="1999" title="Audi SQ6 e-tron" >}}
 
+## Varianter
 
-## Audi Q6 e-tron-varianter.
+Modellfamilien omfatter bakhjulsdrevne, quattro- og S-varianter som SUV og Sportback. Batterikapasitet, effekt, rekkevidde og utstyr varierer mellom markeder og modellår.
 
-Audi har for tiden sluppet informasjon om fire varianter som er tilgjengelige for bestilling.
+Bekreftede modellinjer omfatter:
 
-På et senere tidspunkt vil Sportback-versjoner (SUV Coupe) være tilgjengelige.
+- Audi Q6 e-tron og Q6 Sportback e-tron med bakhjulsdrift
+- Audi Q6 e-tron performance og Q6 Sportback e-tron performance
+- Audi Q6 e-tron quattro og Q6 Sportback e-tron quattro
+- Audi SQ6 e-tron og SQ6 Sportback e-tron
 
-- [Audi Q6 e-tron quattro](varianter/#audi-q6-e-tron-quattro) med 100 kWh batteri og opptil 625 km WLTP rekkevidde (fra 74 700 euro)
-- [Audi SQ6 e-tron](varianter/#audi-sq6-e-tron) med 100 kWh batteri og opptil 615 km WLTP rekkevidde (fra 93 800 euro)
-- [Audi Q6L e-tron quattro](varianter/#audi-q6-e-tron-quattro) med 107 kWh batteri og opptil 700 km CLTC-rekkevidde (kun Kina)
-- [Audi Q6L e-tron](varianter/#audi-q6-e-tron-quattro) med 107 kWh batteri og opptil 700 km CLTC-rekkevidde (kun Kina)
-
-
-Electrichasgoneaudi.net forventer at følgende varianter vil være tilgjengelige på et senere tidspunkt.
-
-- Audi Q6 50 e-tron med 100 kWh batteri og opptil ca. 650 km WLTP rekkevidde (bekreftet)
-- Audi Q6 45 e-tron med 83kWh batteri og opptil ca. 540 km WLTP rekkevidde (bekreftet)
-- Audi Q6 Sportback e-tron quattro med 100kWh batteri og opptil ca. 640 km WLTP rekkevidde
-- Audi SQ6 Sportback e-tron med 100 kWh batteri og opptil 625 km WLT rekkevidde
-- Audi Q6 Sportback 50 e-tron med 100 kWh batteri og opptil ca. 650 km WLTP rekkevidde
-- Audi Q6 Sportback 45 e-tron med 83kWh batteri og opptil 540 km WLTP rekkevidde
-  
-Se alle detaljer i [Audi Q6 e-tron-varianter delen](varianter/).
+Sportback performance har lengst offisiell rekkevidde i familien med opptil **656 km WLTP**. Se [variantseksjonen](variants/) for detaljer om hver modell.
 
 ## Eksteriør
 
-Audi Q6 e-tron vil være tilgjengelig i SUV- og Sportback-design, som Audi Q4 e-tron og Audi Q8 e-tron. Den har også et stort sett med tilgjengelige farger, og du kan bestille den med Audi-eksklusive farger.
-Svart optikk og svart optikk pluss-pakker er alternativer.
+Q6 e-tron kombinerer Audis SUV-proporsjoner med lukket Singleframe, delte frontlykter og en sammenhengende lysstripe bak. SUV og Sportback tilbys med flere utstyrslinjer, optikkpakker, felgstørrelser og lakkfarger.
 
-Det er det samme med tonede vinduer og panoramatak.
+Andre generasjon digitale OLED-baklys og den aktive digitale lyssignaturen gir valgbare lysgrafikker og kan vise varselsymboler til andre trafikanter i kritiske situasjoner.
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/q6exterior_1_st.webp" width="3000" height="2249" title="Audi SQ6 e-tron" >}}
 
-Det er for tiden hjulalternativer fra 19 til 21 tommer.
-
-Se alle detaljer i [Audi Q6 e-tron eksteriørseksjon](exterior/).
+Se [eksteriørseksjonen](exterior/) for lakk, felger, lys, speil og stylingpakker.
 
 ## Interiør
 
-  Audi Q6 e-tron har tre forskjellige setealternativer: standard-, sports- og sport plusseter, noen med ventilasjon og noen massasje. Den er tilgjengelig med dyrefritt interiør og hel skinninteriør i forskjellige farger. Det finnes også S-line interiøralternativer.
+Det digitale førermiljøet kombinerer **11,9-tommers Audi virtual cockpit** og en **14,5-tommers MMI-berøringsskjerm**. En **10,9-tommers passasjerskjerm** er ekstrautstyr. Avhengig av utstyr kan Q6 e-tron også leveres med head-up-display med utvidet virkelighet, Android Automotive-basert infotainment, appbutikk og Bang & Olufsen-lydsystem med høyttalere i hodestøttene.
 
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/interior/interior_5_st.webp" width="3000" height="2249" title="Audi Q6 interiør" >}}
+Seteutvalget omfatter standard-, sport- og sport plus-seter. Oppvarming, ventilasjon, massasje og skinnfrie materialer er tilgjengelig i utvalgte konfigurasjoner.
 
-Se alle detaljene i [Audi Q6 e-tron interiørseksjon](interior/)
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/interior/interior_5_st.webp" width="3000" height="2249" title="Audi Q6 e-tron interiør" >}}
 
-## Drivverk
+Se [interiørseksjonen](interior/) for skjermer, seter, materialer, oppbevaring og betjening.
 
-### Batteri og rekkevidde
+## Drivlinje og lading
 
-Batteriet i Q6 e-tron består av tolv eller ti moduler med prismatiske celler. Forholdet nikkel, kobolt og mangan er 8:1:1, og batteriet oppnår en høyere energitetthet.
+Q6 e-tron bruker et **800-volts elektrisk system**. Det store batteriet har **100 kWh brutto og 94,9 kWh tilgjengelig kapasitet**. Utvalgte versjoner tilbys også med et batteri på 83 kWh brutto.
 
-Batteriet med lanseringen skal ha følgende spesifikasjoner
+Quattro-modellene med 100 kWh-batteriet lader med opptil **270 kW** og bruker omtrent **21 minutter fra 10 til 80 %** under ideelle forhold. Sportback performance bruker rundt 22 minutter, mens maksimal ladeeffekt varierer med batteri og drivlinje. Ved kompatible 400-volts ladere deler banklading batteriet i to 400-volts seksjoner som lades parallelt.
 
-- Tolv moduler/180 celler med 100 kWh brutto (96,8 kWh netto)
-- Tolv moduler/192 celler med 107 kWh brutto (96,8 kWh netto) (kun Kina)
-
-Disse batteriene vil gi Audi Q6 e-tron en WLTP på 625 km, avhengig av trimnivået for 100 kWh-batteriet (15,18 kWh/100 km). Takket være 800-volts teknologi kan Q6 e-tron lades med en kapasitet på mer enn 270kW.
-
-
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/battery/charging_1_st.webp" width="3000" height="2249" title="Audi Q6 e-tron med opptil 270 KW lading" >}}
-
-Du kan lade batteriet fra fem til 80 prosent på mindre enn 25 minutter på en 800-volts 350KW-lader.
-
-Hvis stasjonen bruker 400-volts teknologi, bruker Q6 e-tron for første gang 'banklading', hvorved tilsvarende høyspentbrytere (gates) automatisk kobles inn i batteriet før selve ladeprosessen starter. Denne teknologien deler effektivt 800-volts batteriet i to batterier med en nominell spenning på 400 volt hver som kan lades parallelt på én 400-volts ladestasjon uten en ekstra HV-booster. Ladetilstandene til de to batterihalvdelene justeres først. Denne funksjonaliteten vil kun være tilgjengelig på 100kWh og 107kWh batterier.
-
-[Les alt om batteriet](drivetrain/battery/)
-
-### Motor og ytelse
-
-Audi Q6 e-tron kommer i forskjellige ytelsesversjoner.
-
-- 2-hjulsdrift standardutvalg (Audi Q6 e-tron 40?)
-- 2-hjulsdrevet lang rekkevidde (Audi Q6 e-tron 45?)
-- Audi Q6 e-tron 55 quattro med 285KW/382hk (Europa-versjon)
-- Audi Q6 e-tron 55 quattro med 340KW/382hk (amerikansk versjon)
-- Audi SQ6 e-tron med 380KW/510hP + 20kw boost
-- Audi RSQ6 e-tron med 450kW og +1000nm og bakakselstyring
-
-Audi vil bruke forskjellige motoroppsett på de kommende variantene.
-
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/motors_st.webp" width="1768" height="868" title="Motorer for Audi Q6 e-tron" >}}
-
-Audi bruker permanent eksiterte synkrone elektriske motorer (PSM) med hårnålsvikling på PPE-plattformen for bakmotoren og asynkronmotorer foran.
-Permanente magneter er montert på AC-motorens rotor, og genererer et permanent magnetfelt. Som et resultat, sammenlignet med asynkronmotorer (ASM), tilbyr PSM-er høyere effekt- og dreiemomenttettheter, større effektivitet og bedre reproduserbarhet av utgangseffekten.
-
-[Les alt om motorene.](drivetrain/motor/)
-### Fjæring og styring
-
-Audi Q6 e-tron har fått nye støtdempere. De kommer med stålfjærer som standard eller valgfri luftfjæring.
-
-Audi Q6 e-tron introduserer spennende nye funksjoner med to-ventils støtdempere. Disse innovative demperne tilbyr en betydelig større spredning av demperkarakteristikk, og forbedrer kjøretøyets ytelse. Men det er ikke alt. De kan også justeres uavhengig, noe som gir et merkbart økt komfort. Denne unike allsidigheten bringer kjøreprogrammene til fremtidens Q6 e-tron til live, hver og en tilbyr en distinkt og spennende opplevelse.
-
-Audi Drive Select er kombinert med luftfjæring og stålfjæring. Systemet reagerer på veiforhold, hastighet, langsgående og sideakselerasjon, gasspedalmodulasjon, styreoppførsel og bilens posisjonsnivå.
-
-Med luftfjæring, avhengig av hastigheten, kan karosseriet senkes i kombinasjon med luftfjæringen, noe som forbedrer aerodynamikken for økt rekkevidde.
-
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/drivetrain_1_st.webp" width="3000" height="1925" title="Audi Q6 e-tron drivverk" >}}
-
-Hjulbreddene på for- og bakakselen varierer betydelig for å imøtekomme den bakfokuserte vektfordelingen – for mer grep og kjøredynamikk.
-
-Audi Drive Select er kombinert med luftfjæringen i den helelektriske Q6, men kan også kombineres med stålfjæringen. Systemet reagerer på veiens tilstand, men også hastigheten, langsgående og sideakselerasjon, gasspedalmodulasjon, styreoppførsel og bilens posisjonsnivå.
-
-Q6 e-tron har en fullstendig revidert dobbel bærearmaksel med frittstående stagnivå foran. Kinematikken og elastokinematikken muliggjør forbedret respons, styrepresisjon og rettlinjet kjøring.
-
-[Les alt om fjæringen.](drivverk/fjæring/)
+Understellet har stålfjærer som standard, mens adaptiv luftfjæring er tilgjengelig avhengig av versjon. Se [drivlinjeseksjonen](drivetrain/) for batteri, motorer, lading, fjæring og regenerering.
 
 ## Teknologi
 
-### Lys
+Q6 e-tron introduserte Audis E³ 1.2-elektronikkarkitektur, trådløse programvareoppdateringer, konfigurerbart digitalt lys og et bredt utvalg førerassistentsystemer. Tilgjengeligheten varierer mellom markeder og utstyrspakker.
 
-  For første gang kan kunder valgfritt velge digitale lyssignaturer for denne nye utviklingen av digitale kjørelys i Matrix LED-frontlyktene og den nye generasjonen av digitale OLED-baklys. I tillegg kan kunder bestille digitale lyssignaturer på forespørsel.
+Les [teknologiseksjonen](technology/) for lys, infotainment, assistentsystemer, klimaanlegg, tilkobling og lyd.
 
-Q6 e-tron markerer ikke bare et nytt kapittel innen elektromobilitet hos Audi; lysteknologi er en viktig del av Audis DNA. Med verdens første aktive digitale lyssignatur innleder Audi Q6 e-tron en ny æra preget av særegen design og estetikk unik for Audi.
+## Ressurser for eiere
 
-Med andregenerasjons digitale OLED-baklykter tar Audi Q6 e-tron lysdesign, funksjonsutvalg og trafikksikkerhet til et nytt nivå.
+- [Utstyrsveiledning](optionguide/)
+- [Kunnskapsutveksling og spørsmål og svar](knowledgeexchange/)
+- [Rekkevidde og forbruk](rangeandconsumption/)
+- [Internasjonal Audi Q6 e-tron-gruppe på Facebook](https://www.facebook.com/groups/114120244068685)
+- [Norsk Audi Q6 e-tron-gruppe på Facebook](https://www.facebook.com/groups/454688995817417)
 
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/lights/headlights_1_st.webp" width="3000" height="2250" title="Audi Q6 e-tron frontlys" >}}
-
-Les alt om det i vår [Audi Q6 e-tron lysseksjon](technology/lights)
-
-
-### UI og MMI
-
-Audi Q6 e-tron modellserien har et fullstendig sammenkoblet og digitalt interiør basert på den nye elektroniske arkitekturen. Den såkalte Digital Stage består av Audi MMI-panoramaskjermen og MMI-passasjerdisplayet, og er en nøkkelfunksjon i interiøret.
-
-Med den valgfrie Augmented Reality Head-Up Display, et annet sentralt element på den digitale scenen, tar Audi et stort skritt fremover innen displayteknologi.
-
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/uiandoperations/virtualcockpit/virtualcockpit_1_st.webp" width="1920" height="900" title="Audi Q6 e-tron med virtuell cockpit og MMI Panorama" >}}
-
-Det nye infotainmentsystemet bruker [Android Automotive](https://source.android.com/devices/automotive/start/what_automotive) OS som operativsystem for første gang. Innholdet er alltid oppdatert takket være over-the-air oppdateringer.
-
-
-Les alt om det nye UI & MMI-systemet i [Audi Q6 e-tron UI & MMI-seksjonen](technology/uiandoperations)
-
-
-## Transportkapasitet
-
-Audi Q6 e-tron skal ha et bagasjerom på 526 liter. Den vil også være tilgjengelig med hengerfeste, og maks kapasitet er 2400kg. Den kan også ha 75 kg last på taket. Frunken er på 64 liter.
-
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/transportation/frunk_1_st.webp" width="3000" height="2249" title="Audi Q6 e-tron frunk" >}}
-
-
-Les alt om transportmulighetene i [Audi Q6 e-trons transportkapasitetsseksjoner](transportation)
-
-
-## Alternativer
-
-Audi Q6 er tilgjengelig med flere alternativer.
-
-- S-line eksteriør
-- Svart optikk
-- Forskjellige hjul
-- Ulike seter, inkludert seter med massasje og ventilasjon
-- Ulike førerassistentsystemer
-- Ulike lys
-
-Audi har redusert antall kombinasjoner av alternativer. Så i stedet for at de fleste alternativene tilbys separat, som på Audi Q8 e-tron, har de introdusert tilleggspakker.
-
-Les alt om alternativene i [Audi Q6 e-tron-alternativseksjonene](optionguide)
-
-## Media
-
-### Audi Q6 e-tron verdenspremiere
-
-{{< youtube NKgASBFnC9s >}}
-
-### Video av Auditography
-
-{{< youtube 57PHF0qkvlQ >}}
+{{<children description="true" />}}

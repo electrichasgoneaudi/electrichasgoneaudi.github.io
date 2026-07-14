@@ -1,9 +1,9 @@
 ---
-title: Audi Q6 e-tron pre sense basic
+title: Audi A6 e-tron pre sense basic
 linktitle: Pre Sense basic
-description: Audi Q6 e-tron is equipped with Audi pre sense basic. Audi pre sense basic initiates preventive safety measures for occupants as soon as it recognizes a critical driving state.
+description: Audi A6 e-tron is equipped with Audi pre sense basic. Audi pre sense basic initiates preventive safety measures for occupants as soon as it recognizes a critical driving state.
 weight: 1
-sectiontabs: "/models/q6-e-tron/technology/"
+sectiontabs: "/models/a6-e-tron/technology/"
 ---
 
 <!-- markdownlint-disable MD033 -->
@@ -15,7 +15,7 @@ sectiontabs: "/models/q6-e-tron/technology/"
     <figcaption><h4>As soon as Audi pre sense basic recognizes a critical driving state, the system pretensions the seat belts of the driver and front passenger electrically.</h4></figcaption>
 </figure>
 
- It utilizes information from various vehicle systems to determine this. For instance, it intervenes if the Electronic Stabilization Control (ESC) sensors detect skidding or hard braking. 
+ It utilizes information from various vehicle systems to determine this. For instance, it intervenes if the Electronic Stabilization Control (ESC) sensors detect skidding or hard braking.
  Then the system pretensions the seat belts of the driver and front passenger electrically to reduce their forward or lateral movements. The side windows and sliding sunroof are automatically closed. In addition, the hazard warning lights are activated to alert following traffic.
 
- Audi pre sense basic is standard equipment on Audi Q6 e-tron.
+ Audi pre sense basic is standard equipment on Audi A6 e-tron.

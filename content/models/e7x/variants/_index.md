@@ -1,18 +1,18 @@
 ---
 title: AUDI E7X variants
 linktitle: Variants
-description: The AUDI E7X is available in five variants priced from ¥289,800 to ¥429,800, covering both single-motor rear-wheel drive and dual-motor all-wheel drive configurations.
+description: The AUDI E7X is available in five variants priced from ¥269,800 to ¥359,800, with rear-wheel-drive and quattro all-wheel-drive configurations.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
 
-The AUDI E7X is offered in five variants, ranging from the efficient single-motor Pioneer to the high-performance Flagship quattro with dual-motor all-wheel drive. Prices are in CNY.
+The AUDI E7X is offered in five variants, ranging from the single-motor Pioneer to the dual-motor Flagship quattro. The prices below are the official launch prices announced on May 29, 2026, in CNY.
 
 ### AUDI E7X Pioneer
 
 {{< sitefiguresized thumb="models/e7x/exterior/exterior_1_st.webp" width="3000" height="2250" title="AUDI E7X Pioneer" >}}
 
-**Price: ¥289,800**
+**Price: ¥269,800**
 
 The entry-level Pioneer is a rear-wheel drive variant with a 300 kW (408 hp) electric motor and 500 Nm of torque. It accelerates from 0–100 km/h in 5.82 seconds and reaches a top speed of 230 km/h. CLTC range is 705 km. Standard wheels are 21-inch 8-spoke alloy.
 
@@ -24,18 +24,18 @@ The entry-level Pioneer is a rear-wheel drive variant with a 300 kW (408 hp) ele
 - OEKO-TEX® mother & baby grade full-cabin health certification covering seats, steering wheel, dashboard, trim, cup holders and more (value ¥8,000)
 - Articite premium suede headliner — OEKO-TEX certified, covers full roof, ABC pillars, sunvisors and trim (value ¥3,000)
 
-**Included as limited-time pre-sale gifts** (value ¥70,000):
+**Included as limited-time launch benefits** (value ¥70,000):
 
 - Audi Panoramic Driving Assistance — highway, urban driving, and parking assist (value ¥36,000)
 - 21.4-inch QD Mini LED Sky Screen — rear ceiling display, Apple XDR-grade panel, supports wired/wireless projection from Switch, PS5 and more (value ¥12,000)
-- Smart Electrochromic Panoramic Roof — 2,195 m² glass area, 99.99% UV isolation, 99.9% infrared isolation (value ¥10,000)
+- Smart Electrochromic Panoramic Roof — 2.195 m² glass area, 99.99% UV isolation, 99.9% infrared isolation (value ¥10,000)
 - Bidirectional 14° Rear Wheel Steering — 5.14 m turning radius (value ¥12,000)
 
 [See detailed specification](../specifications/#audi-e7x-pioneer)
 
 ### AUDI E7X Pioneer Pro
 
-**Price: ¥319,800** — Popular variant
+**Price: ¥299,800** — Popular variant
 
 The Pioneer Pro shares the same 300 kW (408 hp) rear-wheel drive powertrain and 5.82s 0–100 km/h time as the Pioneer. CLTC range is 691 km. It steps up with **21-inch 8-spoke black alloy wheels** and upgrades to **foldable ultra-clear digital camera side mirrors** as standard — with conventional physical mirrors available at no extra cost.
 
@@ -51,12 +51,12 @@ Interior choices are identical to the Pioneer: Phantom Gray or Quantum Silver, w
 - OEKO-TEX® mother & baby grade full-cabin health certification (value ¥8,000)
 - Articite premium suede headliner (value ¥3,000)
 
-**Included as limited-time pre-sale gifts** (value ¥125,000 package + individual items):
+**Included as limited-time launch benefits** (value ¥125,000 package + individual items):
 
 - Audi Panoramic Driving Assistance — highway, urban, parking assist (value ¥36,000)
 - Foldable ultra-clear digital camera mirrors — ultra-sharp in rain, fog and night (value ¥12,000)
 - **BOSE Performance sound system** — 4 world-first audio technologies, immersive audio architecture, DSP processing up to 2,000 MIPS, intelligent road noise isolation (value ¥15,000)
-- Smart Electrochromic Panoramic Roof — 2,195 m², 99.99% UV isolation (value ¥10,000)
+- Smart Electrochromic Panoramic Roof — 2.195 m², 99.99% UV isolation (value ¥10,000)
 - **Audi Smart Living Room** — 21.4-inch QD Mini LED rear ceiling screen, smart four-season cooler/warmer box, zero-gravity front passenger seat, cloud comfort aviation-style rear seats (value ¥45,000)
 - **Audi Track-level Chassis** — rear-wheel steering, all-aluminum chassis, CDC + air suspension (value ¥30,000)
 
@@ -66,7 +66,7 @@ Interior choices are identical to the Pioneer: Phantom Gray or Quantum Silver, w
 
 {{< sitefiguresized thumb="models/e7x/exterior/exterior_2_st.webp" width="3000" height="2250" title="AUDI E7X Pioneer quattro" >}}
 
-**Price: ¥349,800** — Popular variant
+**Price: ¥329,800** — Popular variant
 
 The Pioneer quattro adds a second electric motor for all-wheel drive, boosting system output to 500 kW (680 hp) and torque to 800 Nm. The sprint from 0–100 km/h takes just 3.9 seconds. CLTC range is 635 km.
 
@@ -91,7 +91,7 @@ Inlays: Openpore Natural Chestnut (included) or Openpore Natural Oak (included).
 - OEKO-TEX® mother & baby grade full-cabin health certification (value ¥8,000)
 - **Powered soft-close electric doors** — push gently, door closes silently (value ¥17,000)
 
-**Included as limited-time pre-sale gifts** (value ¥125,000+ package):
+**Included as limited-time launch benefits** (value ¥125,000+ package):
 
 - **Star Diamond Light Blade Upgrade Kit** — DLP high-definition digital projection headlights, 8 welcome/farewell animations, linked lighting design (value ¥22,000)
 - Audi Panoramic Driving Assistance — highway, urban driving, and parking assist (value ¥36,000)
@@ -99,13 +99,13 @@ Inlays: Openpore Natural Chestnut (included) or Openpore Natural Oak (included).
 - Audi Track-level Chassis — rear-wheel steering, all-aluminum chassis, CDC + air suspension (value ¥30,000)
 - **Audi Smart Living Room** — 21.4-inch QD Mini LED rear ceiling screen, smart four-season cooler/warmer box, zero-gravity front passenger seat, cloud comfort aviation-style rear seats (value ¥45,000)
 - **BOSE Performance sound system** — four world-first audio technologies, DSP processing up to 2,000 MIPS, intelligent road noise isolation (value ¥15,000)
-- Smart Electrochromic Panoramic Roof — 2,195 m² glass area, 99.99% UV isolation, 99.9% infrared isolation (value ¥10,000)
+- Smart Electrochromic Panoramic Roof — 2.195 m² glass area, 99.99% UV isolation, 99.9% infrared isolation (value ¥10,000)
 
 [See detailed specification](../specifications/#audi-e7x-pioneer-quattro)
 
 ### AUDI E7X Pioneer Smart Long-Range
 
-**Price: ¥349,800**
+**Price: ¥329,800**
 
 The Pioneer Smart Long-Range (先锋智能远航版) is optimized for maximum CLTC range of **751 km** — the best in the E7X lineup. It uses a 300 kW (408 hp) rear-wheel drive configuration and completes the 0–100 km/h sprint in 6.25 seconds.
 
@@ -129,7 +129,7 @@ Inlays: Openpore Natural Chestnut (included) or Openpore Natural Oak (included).
 - OEKO-TEX® mother & baby grade full-cabin health certification (value ¥8,000)
 - **Powered soft-close electric doors** — push gently, door closes silently (value ¥17,000)
 
-**Included as limited-time pre-sale gifts** (value ¥125,000+ package):
+**Included as limited-time launch benefits** (value ¥125,000+ package):
 
 - **Star Diamond Light Blade Upgrade Kit** — DLP high-definition digital projection headlights, 8 welcome/farewell animations, linked lighting design (value ¥22,000)
 - Audi Panoramic Driving Assistance — highway, urban driving, and parking assist (value ¥36,000)
@@ -137,7 +137,7 @@ Inlays: Openpore Natural Chestnut (included) or Openpore Natural Oak (included).
 - Audi Track-level Chassis — rear-wheel steering, all-aluminum chassis, CDC + air suspension (value ¥30,000)
 - **Audi Smart Living Room** — 21.4-inch QD Mini LED rear ceiling screen, smart four-season cooler/warmer box, zero-gravity front passenger seat, cloud comfort aviation-style rear seats (value ¥45,000)
 - **BOSE Performance sound system** — four world-first audio technologies, DSP processing up to 2,000 MIPS, intelligent road noise isolation (value ¥15,000)
-- Smart Electrochromic Panoramic Roof — 2,195 m² glass area, 99.99% UV isolation, 99.9% infrared isolation (value ¥10,000)
+- Smart Electrochromic Panoramic Roof — 2.195 m² glass area, 99.99% UV isolation, 99.9% infrared isolation (value ¥10,000)
 
 [See detailed specification](../specifications/#audi-e7x-pioneer-long-range)
 
@@ -145,7 +145,7 @@ Inlays: Openpore Natural Chestnut (included) or Openpore Natural Oak (included).
 
 {{< sitefiguresized thumb="models/e7x/exterior/exterior_3_st.webp" width="3000" height="2250" title="AUDI E7X Flagship quattro" >}}
 
-**Price: ¥379,800**
+**Price: ¥359,800**
 
 The top-of-the-range Flagship quattro combines the dual-motor all-wheel drive system with 500 kW (680 hp) and 800 Nm of torque, delivering a 0–100 km/h time of 3.94 seconds. CLTC range is 660 km. It represents the most comprehensively equipped variant in the E7X lineup.
 
@@ -176,7 +176,7 @@ Physical mirrors available as no-cost option (digital camera mirrors standard).
 - **Smart Star Diamond Dome Set** — dual-mode ceiling combining smart star diamond dome design with electrochromic panoramic roof, "sky and stars visible at will" (value ¥20,000) — Flagship exclusive
 - **Audi Haute Couture Luxury Upgrade Package** — Articite premium suede headliner + Feinnappa full-grain calf leather, grade A North American top-grain (value ¥18,000) — upgraded from ¥14,000 package on lower variants
 
-**Included as limited-time pre-sale gifts** (value ¥125,000+ package):
+**Included as limited-time launch benefits** (value ¥125,000+ package):
 
 - Audi Panoramic Driving Assistance — highway, urban driving, and parking assist (value ¥36,000)
 - Foldable ultra-clear digital camera mirrors — sharp in rain, fog and night (value ¥12,000)

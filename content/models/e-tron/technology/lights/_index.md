@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron lights technology
 linktitle: Lights
-description: Audi e-tron has a lot of lightning options
+description: Audi e-tron has a lot of lighting options
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
@@ -18,7 +18,7 @@ Matrix LED headlights produce the high beam with tiny light-emitting diodes that
 
 When the light switch is set to Automatic and the high beams are on, the system is switched on outside of urban areas at speeds of 30 km/h (18.6 mph) and above. As soon as the camera on the windshield detects other vehicles or city limits, the controller switches off individual LEDs or dims them in 64 stages, creating several million possible light patterns. The Matrix LED light masks out other vehicles while continuing to fully illuminate the zones between and adjacent to them.
 
-The LEDs in the Matrix LED headlights also assume the function of cornering lights, shifting the focal point of the light along the curve. This occurs shortly before the wheel is turned, based on predictive route data provided by MMI navigation plus. 
+The LEDs in the Matrix LED headlights also assume the function of cornering lights, shifting the focal point of the light along the curve. This occurs shortly before the wheel is turned, based on predictive route data provided by MMI navigation plus.
 
 Audi introduced the next development stage of this technology, the HD Matrix LED high beam, in the A8 (D5). Each headlight integrates 32 small, individually controllable light-emitting diodes. They are arranged in two rows in a common housing. Thanks to the new configuration and to a low beam that is also variable, the HD Matrix LED headlights illuminate the road particularly dynamically and precisely.
 

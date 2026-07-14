@@ -72,7 +72,7 @@ Enkle metoder for å verifisere batteritilstanden og overvåke degradering over 
 
 <div class="bg-white rounded-xl shadow-md overflow-hidden hover:shadow-lg transition-shadow duration-300 border border-gray-200">
 <a href="protectingbattery/">
-<img src="http://localhost:1313/guides/protectingbattery/evstoragestress.png" class="w-full h-48 object-cover" alt="Beskytte batteri">
+<img src="/guides/protectingbattery/evstoragestress.png" class="w-full h-48 object-cover" alt="Beskytte batteri">
 </a>
 <div class="p-5">
 <h4 class="text-lg font-semibold text-gray-900 mb-2">Beskytte batteriet ditt</h4>

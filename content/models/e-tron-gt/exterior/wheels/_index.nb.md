@@ -6,13 +6,13 @@ weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
 
-The following wheels have been available from Audi to Audi e-tron. Varies for the different markets. See also examples on [aftermarket wheels](aftermarket).
+Følgende felger har vært tilgjengelige til Audi e-tron GT. Utvalget varierer mellom markeder og modellår. Se også eksempler på [felger fra andre leverandører](aftermarket).
 
 ## 19" 5-Segment Aero i sort glanset design
 
-Dette er standardfelgene på Audi e-tron GT. 
+Dette er standardfelgene på Audi e-tron GT.
 
-Dimensjon foran 8,0 J x 19 med 225/45 R 19 dekk, bak 10 J x 19 med 275/45 R 19 dekk. Tilvalg **47G** 
+Dimensjon foran 8,0 J x 19 med 225/45 R 19 dekk, bak 10 J x 19 med 275/45 R 19 dekk. Tilvalg **47G**
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_47G_1.webp">
@@ -48,7 +48,7 @@ Dimensjon foran 8,0 J x 19 med 225/45 R 19 dekk, bak 10 J x 19 med 275/45 R 19 d
 
 ## 20” 5-arms dobbel eket offset style sort/alu
 
-9j x 20 with 245/45 in front and 11J x 20 with 285/40 rear Part No: **47H**
+9 J x 20 med 245/45 foran og 11 J x 20 med 285/40 bak. Utstyrskode: **47H**.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_47H_1.webp">
@@ -66,7 +66,7 @@ Dimensjon foran 8,0 J x 19 med 225/45 R 19 dekk, bak 10 J x 19 med 275/45 R 19 d
 
 ## 20” – 5-eket aerodesign
 
-9j x 20 with 245/45 in front and 11J x 20 with 285/40 rear Part No: **47I**
+9 J x 20 med 245/45 foran og 11 J x 20 med 285/40 bak. Utstyrskode: **47I**.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_47I_1.webp">
@@ -77,7 +77,7 @@ Dimensjon foran 8,0 J x 19 med 225/45 R 19 dekk, bak 10 J x 19 med 275/45 R 19 d
 
 ## 21" 5-dobbel eket konkavmodul sort med grafisk trykk
 
-9.5j x 21 with 265/35 in front and 11.5J x 21 with 305/30 rear Part No: **441**
+9,5 J x 21 med 265/35 foran og 11,5 J x 21 med 305/30 bak. Utstyrskode: **44I**.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_44I_1.webp">
@@ -102,7 +102,7 @@ Dimensjon foran 8,0 J x 19 med 225/45 R 19 dekk, bak 10 J x 19 med 275/45 R 19 d
 
 ## 21” – 10-eket trapezmoduldesign i titangrå matt høyglans
 
-9.5j x 21 with 265/35 in front and 11.5J x 21 with 305/30 rear Part No: **54C**
+9,5 J x 21 med 265/35 foran og 11,5 J x 21 med 305/30 bak. Utstyrskode: **54C**.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_54c_1.webp">
@@ -120,7 +120,7 @@ Dimensjon foran 8,0 J x 19 med 225/45 R 19 dekk, bak 10 J x 19 med 275/45 R 19 d
 
 ## 21” – 10-eket trapezmoduldesign i platingrå
 
-9.5j x 21 with 265/35 in front and 11.5J x 21 with 305/30 rear Part No: **47L**
+9,5 J x 21 med 265/35 foran og 11,5 J x 21 med 305/30 bak. Utstyrskode: **47L**.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_47l_1.webp">
@@ -131,7 +131,7 @@ Dimensjon foran 8,0 J x 19 med 225/45 R 19 dekk, bak 10 J x 19 med 275/45 R 19 d
 
 ## 21” – 10-eket trapezmoduldesign i sort høyglans
 
-9.5j x 21 with 265/35 in front and 11.5J x 21 with 305/30 rear Part No: **47J**
+9,5 J x 21 med 265/35 foran og 11,5 J x 21 med 305/30 bak. Utstyrskode: **47J**.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_47J_1.webp">

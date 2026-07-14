@@ -1,13 +1,12 @@
 ---
-title: Audi Q8 e-tron phone box
+title: Audi A6 e-tron phone box
 linktitle: Audi Phone box
-description: With Audi Phone Box you can improve convience with using telephone in the car.
+description: The Audi phone box improves the convenience of using a phone in the car.
 weight: 9
 ---
 <!-- markdownlint-disable MD033 -->
 
-With  Audi Phone Box Two smartphones can be connected to the car via Bluetooth at the same time. One can, for example, be used to call or play
-music in the car. Depending on the smartphone model, it is also possible to view e-mail and SMS in MMI via Bluetooth.
+With Audi phone box, two smartphones can be connected to the car via Bluetooth at the same time. One can be used for calls while the other provides media, depending on the connected devices and supported profiles.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/technology/phonebox/phonebox.webp">
@@ -17,10 +16,6 @@ music in the car. Depending on the smartphone model, it is also possible to view
     <figcaption><h4>Audi Phone Box holder with inductive charging</h4></figcaption>
 </figure>
 
-The smart phone can be charged and stored safely in the universal holder in the center consol  of the car. The holder is connected to the car's antenna for better reception and voice quality. In addition, the radiation from the mobile phone in the passenger compartment is reduced, as the phone needs less transmission power. 
+The smartphone can be charged and stored securely in the center-console holder. The system couples a compatible phone to the car's external antenna for better reception and call quality.
 
-As more and more mobile phones can be charged wirelessly, the Audi phone box is equipped with an inductive charging function (Qi standard) in addition to the USB port. The charge level is shown on the MMI display. If you leave the car while the phone is in the holder, an alert is triggered
-
-The MMI display that reminds you to bring your phone.
-
-Audi Phone Box as option id **IU1** but is currently only available as part of th [infotainment package](/models/q4-e-tron/optionguide/list/#equipment-packages) with option id **PYX**
+Compatible phones can charge wirelessly using the Qi standard. The MMI can also remind occupants when a phone remains in the charging tray after the car is switched off. Availability depends on market and equipment package.

@@ -21,7 +21,7 @@ Grunnvarianten med bakhjulsdrift og én elektrisk motor.
 | 0–100 km/t | 9,3 s |
 | Toppfart | 160 km/t |
 | CLTC rekkevidde | 560 km |
-| CLTC forbruk | 13,7 kWh/100 km |
+| CLTC-forbruk | 15,9 kWh/100 km |
 | Batteri (brutto) | 83,4 kWh |
 | Batteri (netto) | 76,6 kWh |
 | Batterikjemi | NMC |
@@ -38,7 +38,7 @@ Ytelsesversjonen med to elektriske motorer og quattro firehjulsdrift.
 | 0–100 km/t | 6,7 s |
 | Toppfart | 160 km/t |
 | CLTC rekkevidde | 550 km |
-| CLTC forbruk | 13,9 kWh/100 km |
+| CLTC-forbruk | 16,2 kWh/100 km |
 | Batteri (brutto) | 83,4 kWh |
 | Batteri (netto) | 76,6 kWh |
 | Batterikjemi | NMC |
@@ -55,7 +55,8 @@ Begge varianter deler følgende:
 | Høyde | 1 675 mm |
 | Akselavstand | 2 965 mm |
 | Bakkeklaring | 180 mm |
-| Bagasjeromvolum | 560 L |
+| Seter | Seks eller syv seter fordelt på tre rader |
+| Maksimalt bagasjeromvolum | Opptil 1 825 L |
 | Maks taklast | 75 kg |
 | Maks tilhengervekt (med bremser) | 1 200 kg |
 | Ladeportplassering | Venstre bakre side |

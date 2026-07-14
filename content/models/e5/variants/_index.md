@@ -1,16 +1,16 @@
 ---
-title: Audi E5 Sportback variants
+title: AUDI E5 Sportback variants
 linktitle: Variants
-description: The Audi E5 Sportback is available in four variants priced from ¥235,900 to ¥339,000, covering both single-motor rear-wheel drive and dual-motor all-wheel drive configurations.
+description: The AUDI E5 Sportback is available in four variants priced from ¥235,900 to ¥339,000, covering both single-motor rear-wheel drive and dual-motor all-wheel drive configurations.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
 
-The Audi E5 Sportback is offered in four clearly defined variants. Equipment levels are highly standardized, with a high level of technology and comfort included as standard across the entire lineup. Prices are in CNY.
+The AUDI E5 Sportback is offered in four clearly defined variants. Equipment levels are highly standardized, with a high level of technology and comfort included as standard across the entire lineup. Prices are in CNY.
 
-### Audi E5 Sportback Pioneer
+### AUDI E5 Sportback Pioneer
 
-{{< evkxfiguresized thumb="models/audi/e5_/e5/main_bd520_st.webp" width="3000" height="2250" title="Audi E5 Sportback" >}}
+{{< evkxfiguresized thumb="models/audi/e5_/e5/main_bd520_st.webp" width="3000" height="2250" title="AUDI E5 Sportback" >}}
 
 **Price: ¥235,900**
 
@@ -40,7 +40,6 @@ The entry-level Pioneer uses a single rear-mounted PMSM producing 220 kW (299 hp
 - 360° camera system
 - Keyless entry and phone-as-key
 - Integrated dashcam
-- V2L (Vehicle-to-Load): 33 kW output, V2V capable
 - Electric liftgate with kick-sensor activation
 
 > **Note:** The head-up display is **not** included on the Pioneer.
@@ -49,7 +48,7 @@ The entry-level Pioneer uses a single rear-mounted PMSM producing 220 kW (299 hp
 
 ---
 
-### Audi E5 Sportback Pioneer Plus
+### AUDI E5 Sportback Pioneer Plus
 
 **Price: ¥269,900**
 
@@ -67,7 +66,7 @@ All other standard equipment is identical to the Pioneer.
 
 ---
 
-### Audi E5 Sportback Pioneer quattro
+### AUDI E5 Sportback Pioneer quattro
 
 **Price: ¥269,900**
 
@@ -86,7 +85,7 @@ The Pioneer quattro introduces dual-motor all-wheel drive with a combined output
 
 ---
 
-### Audi E5 Sportback quattro
+### AUDI E5 Sportback quattro
 
 **Price: ¥339,000**
 

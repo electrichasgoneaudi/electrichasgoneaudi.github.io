@@ -12,7 +12,7 @@ The following interior lights are standard on Audi e-tron GT
 - LED front and rear roof module (white)
 - luggage compartment light, left and right (white)
 - illuminated glove compartment
-- Floor lightning in front/rear
+- Floor lighting in front/rear
 - Makup mirror with light
 - Ligts in door handles inside
 

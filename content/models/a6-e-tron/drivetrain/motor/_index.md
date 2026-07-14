@@ -1,42 +1,32 @@
 ---
 title: Audi A6 e-tron motors
 linktitle: Motors
-description: Audi A6 e-tron have different motor configurations.
+description: The Audi A6 e-tron uses a rear permanent-magnet motor, adding a front asynchronous motor in quattro variants.
 weight: 6
 sectiontabs: "/models/a6-e-tron/drivetrain/"
 ---
 
-When developing the new electric motors, the focus was on a modular electric axle system with optimal acoustics, efficiency, and power density. Another goal of the development in this area was a scalable electric drive system with a high level of component integration. The completely newly developed modular drive system consists of three main components: electric motor, power electronics (pulse inverter), and transmission. All components are characterized by a higher degree of efficiency. They are more compact than the current electric models in the portfolio and have a scalable design. This means that the torque output can be varied by changing the length of the electric motor.
+The A6 e-tron uses the modular electric drive system developed for the Premium Platform Electric (PPE). Rear-wheel-drive variants use a permanent-magnet synchronous motor (PSM) on the rear axle. Quattro variants add an asynchronous motor (ASM) on the front axle; it can rotate with very low drag when additional traction or power is not required.
 
-The newly developed electric motors also require around 30 percent less installation space than those previously used in Audi's electrically powered models. The new design has also made it possible to reduce the weight by around
-20 percent.
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/motors/frontmotor_1_st.webp" width="3000" height="2056" title="Audi A6 e-tron asynchronous front motor" >}}
 
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/motors/frontmotor_1_st.webp" width="3000" height="2056" title="Audi A6 ASM front motor" >}}
+## Motor configurations
 
-The particularly compact and efficient electric motors are built in Győr, Hungary. The largest powertrain plant in the world not only manufactures the electric motors but also a large proportion of the gearboxes.
+| Drivetrain | Rear motor | Front motor | System output |
+|---|---|---|---|
+| A6 e-tron | PSM | — | 210 kW, 240 kW with Launch Control |
+| A6 e-tron performance | PSM | — | 270 kW, 280 kW with Launch Control |
+| A6 e-tron quattro | PSM | ASM | 315 kW, 340 kW with Launch Control |
+| S6 e-tron | PSM | ASM | 370 kW, 405 kW with Launch Control |
 
-A key advantage of the newly developed electric motors is their efficiency. This is primarily thanks to a new hairpin winding in the stator, silicon carbide semiconductors in the pulse inverter, as well as dry sump lubrication and an electric oil pump in the transmission. The new hairpin winding, which is being used in the A6 e-tron for the first time at Audi, maximizes the current flow in the stator of the electric motor. This method also enables a higher number of windings: The fill factor is now 60 percent instead of the 45 percent reached with the conventional windings used previously. Thanks to rotor oil cooling, Audi was also able to largely dispense with the use of heavy rare earths and, at the same time, increase the power density by 20 percent. In total, the losses of the electric drives have been significantly reduced by around 50 percent compared to the Audi e-tron.
+All four drivetrains are available in both Sportback and Avant body styles. The motors and a large proportion of their transmissions are produced by Audi Hungaria in Győr.
 
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/motors/frontmotor_2_st.webp" width="3000" height="2056" title="Audi A6 ASM front motor" >}}
+## Efficiency
 
-The new direct cooling of the electric motors with oil keeps components such as the stator winding and permanent magnets in the rotor in the optimum temperature range. As a result, the power-to-weight performance of the PPE's electric drive is around 60 percent higher than that of the first-generation electric drives from Audi. The newly developed electric drives for the PPE are also characterized by particularly quiet and comfortable acoustics.
+The PPE drive units combine the motor, pulse inverter and single-speed transmission in a compact module. Compared with Audi's first-generation electric drive units, Audi states that the PPE design requires around 30 percent less installation space, weighs about 20 percent less and reduces drive losses by roughly 50 percent.
 
-This is due in part to unit supports cast onto the housing, a structurally optimized housing, improved tooth geometries, and segmented staggered rotors.
+Hairpin windings increase the stator fill factor, while direct oil cooling keeps the stator and rotor magnets within their intended temperature range. The pulse inverter uses silicon-carbide semiconductors to reduce electrical losses, particularly under partial load.
 
-When maximum performance is needed, an asynchronous motor (ASM) on the front axle is activated. It is equipped with its own power electronics and an axle-parallel, two-stage 1-speed gearbox. If required, the ASM can rotate freely without significant drag losses. In addition, no magnets are installed in the ASM, and therefore, no rare earths. The magnetic field is generated by induction. On the rear axle, the A6 e-tron series is equipped exclusively with particularly compact permanent-magnet synchronous motors (PSM), which are also coupled to a two-stage 1-speed gearbox with an axis-parallel design. The 800-volt technology used in the PPE not only offers high performance and short charging times. The higher voltage also means thinner cables can be used to wire the battery and electric motor. This saves installation space, weight, and raw materials. Another advantage of 800-volt technology is a reduction of heat loss and the resulting lower cooling requirements.
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/motors/rearmotor_1_st.webp" width="3000" height="2056" title="Audi A6 e-tron permanent-magnet rear motor" >}}
 
-Thanks to the scalability and flexibility of the Premium Platform Electric, a wide range of different performance levels and drive variants can be realized.
-
-Two model variants with all-wheel drive and two different performance levels will be available at market launch: the Audi A6 e-tron quattro and the Audi S6 e-tron. Particularly efficient models with rear-wheel drive designed for range will follow at a later date - depending on the market - and will also mark the entry into the A6 e-tron series.
-
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/motors/rearmotor_1_st.webp" width="3000" height="2056" title="Audi A6 PMSM rear motor" >}}
-
-The Audi A6 e-tron2 has a permanent magnet synchronous motor (PSM) on the rear axle and an asynchronous motor (ASM) on the front axle. The PSM in the Audi A6 e-tron2 has an axial length of 200 millimeters. The ASM (asynchronous motor), which spins freely without any significant drag losses, is 100 millimeters (7.9 in) long. The system output is up to 285 kW (387 PS). The A6 e-tron quattro2. Overall, the efficiency measures relating to the new electric motors for the PPE alone generate around 40 kilometers (25 mi) more range compared to the previous electric model portfolio. The newly developed electric motors for the PPE require around 30 percent less installation space than the units in the first-generation e-tron. The weight has been reduced by around 20 percent.
-
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/motors/rearmotor_2_st.webp" width="3000" height="2056" title="Audi A6 PMSM rear motor" >}}
-
-The Audi SA6 e-tron. The PSM on the rear axle has an axial length of 200 millimeters (7.9 in) in the Audi SA6 e-tron. The ASM on the front axle, which spins freely without any significant drag losses, is 100 millimeters (3.9 in) long and is used in dynamic driving situations. The S model has a maximum range of 598 kilometers (372 mi). The SA6 e-tron (combined power consumption in kWh/100 km: 18.4-17.5 (WLTP); combined CO2 emissions in g/km: 0; CO2 class A) reaches the 100 km/h (62 mph) mark in as low as 4.3 seconds.
-
-The power electronics have a significant influence on power consumption and consequently on efficiency and range. This is why semiconductors made of silicon carbide are being used for the first time in the PPE and, therefore, in the Audi A6 e-tron2.
-
-This material is extremely efficient, particularly under partial load, and heat losses can be kept to a minimum overall. The overall efficiency is improved. In addition, the use of silicon carbide protects the battery.
+The 800-volt system permits smaller cable cross-sections than a comparable lower-voltage design and helps reduce weight and heat losses. The rear motor remains the primary drive unit even in quattro variants, giving the all-wheel-drive system a rear-biased character.

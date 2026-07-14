@@ -43,7 +43,7 @@ The image is refreshed 60 times per second so that the virtual needle of the rev
 The driver can use the View button on the multifunction steering wheel to switch the Audi virtual cockpit between two views:
 Infotainment view and driver view
 
-While the tachometer and speedometer are displayed as large dial-type gages in driving view, a central window dominates in the infotainment view.
+While the tachometer and speedometer are displayed as large dial-type gauges in driving view, a central window dominates in the infotainment view.
 
 It creates a large stage for the navigation map or for lists in the phone, radio and audio areas. In this case, the tachometer and speedometer are displayed as small dial instruments.
 

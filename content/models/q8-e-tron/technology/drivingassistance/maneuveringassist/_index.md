@@ -8,7 +8,7 @@ weight: 1
 
 It helps to avoid impending collisions using warning steering impulses and by autonomously braking the car to a stop, provided that the car is traveling forward or in reverse at no more than 10 km/h (6.2 mph). The system uses the optical parking system in the MMI to display its steering and parking interventions. The surroundings are scanned using at least the ultrasonic sensors and the 360 degree cameras.
 
-Maneuvering assist is standard on Audi Q8 e-tron GT
+Availability of maneuvering assist depends on market, variant and model year.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/maneuveringassist/manuveringassist.webp">

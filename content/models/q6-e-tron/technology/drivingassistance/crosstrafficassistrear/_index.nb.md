@@ -16,7 +16,6 @@ sectiontabs: "/nb/models/q6-e-tron/technology/"
 
 Den bruker de bakre radarsensorene til dette. De dekker sonen bak, inkludert kjørefeltene til venstre og høyre bak kjøretøyet. Advarslene er progressive – først vises en visuell advarsel i MMI-displayet (i parkeringsassistentdisplayet). Situasjonen er representert i et virtuelt sett ovenfra og i kameravisningene "bak" og "bakside". Røde piler bak kjøretøyet peker i retningen det er en potensiell fare fra. Hvis føreren ikke reagerer på det visuelle displayet, høres et lydsignal før systemet varsler føreren med et bremsestøt. Dette bidrar til å unngå ulykker ved utkjøring av parkeringsplasser.
 
-Dette er en del av byhjelpspakken med alternativ-ID **PCM**
 
 Se video av hvordan det virker nedenfor.
 

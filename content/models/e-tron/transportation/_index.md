@@ -24,14 +24,14 @@ weight: 6
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/transportation/trunk_3.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron/transportation/trunk_3s.webp" class="img-fluid" alt="The seats have a 40-20-40 confiuguration" title="The seats have a 40-20-40 confiuguration">
+        <img src="https://media.evkx.net/ehga/models/e-tron/transportation/trunk_3s.webp" class="img-fluid" alt="The seats have a 40-20-40 configuration" title="The seats have a 40-20-40 configuration">
     </a>
-    <figcaption><h4>The seats have a 40-20-40 confiuguration</h4></figcaption>
+    <figcaption><h4>The seats have a 40-20-40 configuration</h4></figcaption>
 </figure>
 
-### Luggage compartment seperation net
+### Luggage compartment separation net
 
-As an option you can get a net to seperate the luggagee compartment with the passengers.
+An optional partition net separates the luggage compartment from the passenger compartment.
 The option id is **3CX**
 
 <figure>

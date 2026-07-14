@@ -23,7 +23,7 @@ weight: 30
 ### Når du mottar bilen etter at oppdateriger er gjodt
 - Garasjeportåpner må programmeres på nytt
 - Passord for Wifi må kanskje settes på nytt, så sjekk dette
-- Navigasjonsvisniong i Head UP Display var slått av og måtte aktiveres på nytt
+- Navigasjonsvisning i head-up-displayet var slått av og måtte aktiveres på nytt
 
 ### Hva er ikke rettet
 - Kalkulasjon av SoC for neste stopp eller siste stopp i navigasjon er fremdeles ganske feil. [Known issue #97](https://github.com/electrichasgoneaudi/q6-e-tron/issues/97)

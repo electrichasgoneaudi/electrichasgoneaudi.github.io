@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron steering wheels
 linktitle: Steering wheels
-description: Audi e-tron have serveral steering wheel options
+description: The Audi e-tron offers several steering-wheel options.
 weight: 2
 ---
 

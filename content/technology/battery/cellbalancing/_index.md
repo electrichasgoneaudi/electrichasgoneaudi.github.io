@@ -14,7 +14,7 @@ However, the high-voltage battery charge level is only 96 %. Balancing means tha
 
 To do this, the battery regulation control unit compares the voltages of the cell groups. If cell groups have a high cell voltage, the battery modules control unit responsible receives the balancing information. Balancing is performed when voltage differences of greater than approx. 1% occurs when the high-voltage battery is being charged. After the ignition has been switched off, the battery regulation control unit checks whether balancing is necessary and triggers it if necessary. Typical balancing is performed at charge levels greater than 30%.
 
-On all-electric Audis, it is not possible to check the cell balance without extra tools. ODBEleven is one of these tools that can be used. The below screenshot show that one cell set has 10% SOC and another has 13% soc. Audi e-tron has 108 cell sets with 3 or 4 cells in parallel depending on the version.
+On all-electric Audis, it is not possible to check the cell balance without extra tools. ODBEleven is one of these tools that can be used. The following screenshot shows that one cell set has 10% SOC and another has 13% soc. Audi e-tron has 108 cell sets with 3 or 4 cells in parallel depending on the version.
 
 <figure>
     <a href="https://media.evkx.net/ehga/technology/battery/cellbalancing/obdeleven.webp">

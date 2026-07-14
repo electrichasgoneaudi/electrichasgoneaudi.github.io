@@ -1,7 +1,7 @@
 ---
-title: Audi Q6 e-tron rear door curtains
+title: Audi A6 e-tron rear door curtains
 linktitle: Window curtains
-description: You can order the Audi Q6 e-tron with curtains on the rear door
+description: You can order the Audi A6 e-tron with curtains on the rear door
 weight: 9
 ---
 <!-- markdownlint-disable MD033 -->

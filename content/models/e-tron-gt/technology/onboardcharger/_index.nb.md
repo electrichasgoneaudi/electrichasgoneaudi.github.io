@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron GT ombordlader
 linktitle: Ombordlader
-description: Audi e-tron GT and Audi RS e-tron GT have an onboard charger for level 1 and level 2 charging.
+description: Audi e-tron GT og Audi RS e-tron GT har en ombordlader for vekselstrømlading.
 weight: 5
 ---
 <!-- markdownlint-disable MD033 -->
@@ -11,7 +11,7 @@ Standard innebygd lader støtter opptil 11KW AC-lading.
 
 Audi e-tron GT og Audi RS e-tron GT har ladeporter på begge sider av bilene.
 
-I USA har ladeportene en [J1772-kontakt](https://en.wikipedia.org/wiki/SAE_J1772) for å koble til bilen, mens den i Europa har en [Type 2-kontakt](https://no) .wikipedia.org/wiki/Type_2_connector).
+I USA har ladeportene en [J1772-kontakt](https://en.wikipedia.org/wiki/SAE_J1772) for tilkobling til bilen, mens den europeiske versjonen bruker en [Type 2-kontakt](https://en.wikipedia.org/wiki/Type_2_connector).
 
 Porten på førersiden støtter kun AC-lading, mens porten på passasjersiden støtter både AC- og DC-lading.
 

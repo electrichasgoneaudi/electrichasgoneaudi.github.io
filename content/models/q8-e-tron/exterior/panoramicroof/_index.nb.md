@@ -1,12 +1,12 @@
 ---
 title: Audi Q8 e-tron panoramatak
 linktitle: Panoramatak
-description: Ønsker du å skille deg ut i mengden kan du bestille din Q8 e-tron med panoramatak.
+description: Audi Q8 e-tron kunne leveres med et elektrisk panoramaglasstak og elektrisk solgardin.
 weight: 6
 ---
 <!-- markdownlint-disable MD033 -->
 
-Taket kan åpnes. I tillegg til å gi Audi Q8 e-tron et kulere utseende, gir den mer lys inn i bilen og bedre sikt fra innsiden.
+Det valgfrie panoramaglasstaket kan vippes og åpnes elektrisk. Det gir mer dagslys i kupeen og har en solgardin som reduserer blending og varme.
 
 ## Panoramasoltak i glass
 
@@ -36,7 +36,7 @@ Du kan bestille panoramatak med opsjons-ID **3FU**
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/exterior/panoramicroof/panoramaroof_inside.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/panoramicroof/panoramaroof_insides.webp" class="img-fluid" alt="The roof can be tilted" title="The roof can be tilted">
+        <img src="https://media.evkx.net/ehga/models/e-tron/exterior/panoramicroof/panoramaroof_insides.webp" class="img-fluid" alt="Taket kan vippes" title="Taket kan vippes">
     </a>
     <figcaption><h4>Taket kan tiltes</h4></figcaption>
 </figure>

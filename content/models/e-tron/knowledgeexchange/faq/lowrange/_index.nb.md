@@ -57,7 +57,7 @@ Rekkeviddevisningen baserer rekkevidden på følgende data
 
 Lass oss anta at du har en e-tron 55 med 86,5 kWh batteri og at du har ladet den til 100 %.
 
-Hvis du sjekker kjøredataene i myAudi-appen på korttidsminnet, vil du se kjøreturene dine dine.
+Hvis du sjekker kjøredataene i korttidsminnet i myAudi-appen, vil du se kjøreturene dine.
 
 ![Triphistory](https://media.evkx.net/ehga/models/e-tron/knowledgeexchange/faq/lowrange/triphistory.webp "Triphistory")
 

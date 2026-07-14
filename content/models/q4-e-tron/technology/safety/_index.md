@@ -1,13 +1,13 @@
 ---
 title: Audi Q4 e-tron safety technology
 linktitle: Safety
-description: Audi Q4 e-tron has an serveral safety technologies to reduce damage in collisions
+description: The Audi Q4 e-tron has several safety technologies designed to reduce injuries in a collision.
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
 ## Airbags
 
-Audi Q4 e-tron has serveral airbags as standard.
+Audi Q4 e-tron has several airbags as standard.
 
 ### Front airbags
 
@@ -53,7 +53,7 @@ In front there is standard with side Airbags build in to the seat that protects 
 
 ### Center Airbags front
 
-In front there is standard with airbags between driver and passanger to protect them hitting eachother during a side collision.
+In front there is standard with airbags between driver and passenger to protect them hitting each other during a side collision.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/safety/consolairbag.webp">
@@ -70,9 +70,9 @@ In rear the side air bags is optional. The option ID is **6C4**
 <figure>
     <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/safety/airbagssiderear.webp">
         <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/safety/airbagssiderears.webp"
-        class="img-fluid" alt="Air bag side rear is optinal. Only head airbags are standard on Q4 e-tro" title="Air bag side rear is optinal. Only head airbags are standard on Q4 e-tro">
+        class="img-fluid" alt="Air bag side rear is optional. Only head airbags are standard on Q4 e-tro" title="Air bag side rear is optional. Only head airbags are standard on Q4 e-tro">
     </a>
-    <figcaption><h4>Air bag side rear is optinal. Only head airbags are standard on Q4 e-tro</h4></figcaption>
+    <figcaption><h4>Air bag side rear is optional. Only head airbags are standard on Q4 e-tro</h4></figcaption>
 </figure>
 
 ## Seat belts

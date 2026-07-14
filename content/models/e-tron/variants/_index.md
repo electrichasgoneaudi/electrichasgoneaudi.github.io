@@ -1,10 +1,13 @@
 ---
 title: Audi e-tron variants
 linktitle: Variants
-description: Audi e-tron is currently available in 6 different variants. Here you find which are available.
+description: The original Audi e-tron was produced in six SUV and Sportback variants before the family was renamed Q8 e-tron.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
+
+> **Former model:** These variants belong to the original Audi e-tron model family produced before the Q8 e-tron name was introduced for 2023.
+
 ### Audi e-tron 50
 
 <figure>

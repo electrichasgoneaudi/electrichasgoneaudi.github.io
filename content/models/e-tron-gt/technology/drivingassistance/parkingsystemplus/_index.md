@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron GT parking system plus
 linktitle: Parking system plus
-description: Audi e-tron GT is equiped with parking system plus. Parking system plus informs the driver, visually and audibly, about obstacles in front of and behind the vehicle.
+description: Audi e-tron GT is equipped with parking system plus. Parking system plus informs the driver, visually and audibly, about obstacles in front of and behind the vehicle.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->

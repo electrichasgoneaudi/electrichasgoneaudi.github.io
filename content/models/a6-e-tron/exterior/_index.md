@@ -1,7 +1,7 @@
 ---
 title: Audi A6 e-tron exterior
 linktitle: Exterior
-description: There is a huge number of exterior options to the Audi A6 e-tron. Paint colors, body shapes, wheels, paint styles, different optics, color in grille,  mirror types, and many more options making it possible to order the car after your preferences. 
+description: There is a huge number of exterior options to the Audi A6 e-tron. Paint colors, body shapes, wheels, paint styles, different optics, color in grille,  mirror types, and many more options making it possible to order the car after your preferences.
 weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
@@ -23,9 +23,9 @@ See below for details about the exterior options.
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="paint/"><img src="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/plasmablue_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron lights" ></a>
-	<h2>Paintcolors</h2>
+	<h2>paint colors</h2>
 	<p>
-		Audi A6 e-tron offers a large amount of paint colors to choose from
+		The Audi A6 e-tron offers a wide selection of paint colors.
 	</p>
 	<a href="paint/" class="btn btn-outline-primary" role="button">Learn all about Audi A6 e-tron paint colors</a>
 </div>
@@ -33,17 +33,17 @@ See below for details about the exterior options.
 	<a href="wheels/"><img src="https://media.evkx.net/ehga/models/a6-e-tron/exterior/wheels/wheels_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron lights" ></a>
 	<h2>Wheels</h2>
 	<p>
-		Audi A6 e-tron offers serveral wheel options
+		Audi A6 e-tron offers several wheel options
 	</p>
 	<a href="wheels/" class="btn btn-outline-primary" role="button">Learn all about Audi A6 e-tron wheel options</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="paintedcalibers/"><img src="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paintedcalibers/calibers_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron lights" ></a>
-	<h2>Painted calibers</h2>
+	<h2>Painted calipers</h2>
 	<p>
-		Audi A6 e-tron offers painted calibers as an option
+		Audi A6 e-tron offers painted calipers as an option
 	</p>
-	<a href="paintedcalibers/" class="btn btn-outline-primary" role="button">Learn all about Audi A6 e-tron painted calibers</a>
+	<a href="paintedcalibers/" class="btn btn-outline-primary" role="button">Learn all about Audi A6 e-tron painted calipers</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="panoramicroof/"><img src="https://media.evkx.net/ehga/models/a6-e-tron/exterior/panoramicroof/roof_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron lights" ></a>

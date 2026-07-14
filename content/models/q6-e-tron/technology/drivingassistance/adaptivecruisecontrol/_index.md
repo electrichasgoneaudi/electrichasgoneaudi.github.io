@@ -30,6 +30,5 @@ You enable the cruise control with pressing the button at the end. Or you can re
 Speed is adjusted with pushing the lever up and down. You can control the distance to the car in front with the distance button.
 The lim button on top enable the speed limiter.
 
-This option is part of the tour driver assistance package with option id **PCC**
 
 {{<children description="true" />}}

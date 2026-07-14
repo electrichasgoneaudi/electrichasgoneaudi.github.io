@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 e-tron wheels
 linktitle: Wheels
-description: Audi Q4 e-tron has serveral wheel options.
+description: Audi Q4 e-tron has several wheel options.
 weight: 4
 sectiontabs: "/models/q4-e-tron/exterior/"
 ---

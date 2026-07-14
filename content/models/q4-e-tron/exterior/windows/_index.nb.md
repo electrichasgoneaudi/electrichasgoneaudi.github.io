@@ -6,7 +6,7 @@ weight: 5
 sectiontabs: "/nb/models/q4-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
-Audi Q4 e-tron har som standard varmereflekterende frontrute. I tilegg er bakrute, dør- og sidevinduer grønntonet og varmepdempende
+Audi Q4 e-tron har som standard varmereflekterende frontrute. I tillegg er bakrute, dør- og sidevinduer grønntonet og varmedempende
 
 Bakruten er også oppvarmbar med tidsbryter.
 

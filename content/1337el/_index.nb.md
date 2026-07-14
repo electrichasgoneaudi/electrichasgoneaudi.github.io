@@ -6,6 +6,8 @@ weight: 3
 hidden: true
 ---
 
+> **Historisk salgsannonse:** Denne siden ble publisert i 2025. Opplysninger om tilgjengelighet, kilometerstand, garanti og pris er ikke oppdatert og må ikke tolkes som et aktivt salgstilbud.
+
 Jeg selger min velutstyrte e-tron 55 S-line fordi min nye Audi S6 e-tron Avant er på vei. Denne bilen er ikke bare en e-tron – den er spekket med utstyr, nøye valgt for å gi den optimale kjøreopplevelsen.
 
 Min reise med e-tron startet i 2019, da jeg bestilte [min første](https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_typhoongrey_2.webp) med nesten alt av tilgjengelig ekstrautstyr. Da S-line-versjonen ble lansert høsten 2020, oppgraderte jeg umiddelbart til denne varianten med 22” felger for et enda mer sportslig uttrykk.
@@ -125,7 +127,7 @@ Når du vurderer dette, bør du ta høyde for:
 - Neste service er ved 60.000 km (estimert august). En slik service koster normalt i området 8-12.000,-
 - Jeg hadde planer om å bytte sommerdekk i år. Jeg er usikker på om de kan brukes en sommersesong til.
 
-Basert på innbyttepris jeg har fått, forventer jeg at bilen kan selges privat for et sted i området 500.000 til 550.000,-.  
+Basert på innbyttepris jeg har fått, forventer jeg at bilen kan selges privat for et sted i området 500.000 til 550.000,-.
 
 Se også relevant Finn-søk med andre [2022 modeller med tilsvarende kjørelengde](https://www.finn.no/mobility/search/car?mileage_from=40000&mileage_to=60000&model=1.744.2000503&registration_class=1&sort=PRICE_DESC&year_from=2022&year_to=2022).
 
@@ -155,7 +157,7 @@ Bilen er fortsatt en av de flotteste SUV-ene på markedet. Se bildene nedenfor: 
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_1_st.webp" width="3000" height="2250" title="Bilen sammenlignet med Audi SQ6 e-tron også i Daytona Gray" >}}
 
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_2_st.webp" width="3000" height="2250" title="Bilen har stor lastekapasitet. Stor trampoline med 2 passasjer i tilegg til sjåfør gikk bra fra Oslo til Trysil" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_2_st.webp" width="3000" height="2250" title="Bilen har stor lastekapasitet. Stor trampoline med 2 passasjer i tillegg til sjåfør gikk bra fra Oslo til Trysil" >}}
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/1337el/1337_3_st.webp" width="3000" height="2250" title="Luftfjæring er veldig praktisk når man skal lade på Tesla og man ikke ønsker å benytte seg av to plasser" >}}
 

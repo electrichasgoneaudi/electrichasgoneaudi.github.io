@@ -1,13 +1,13 @@
 ---
 title: Audi Q5 e-tron
 linktitle: Audi Q5 e-tron
-description: The Audi Q5 e-tron is a China-exclusive fully electric SUV built on the MEB platform, offered in two variants with up to 560 km CLTC range.
+description: The Audi Q5 e-tron is a China-exclusive, three-row electric SUV with six- or seven-seat configurations and up to 560 km of CLTC range.
 weight: 3
 shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 
-The **Audi Q5 e-tron** is a **China-exclusive, fully electric SUV** built on the **MEB platform**, shared with the Audi Q4 e-tron, Skoda Enyaq, and Volkswagen ID.4. Positioned above the Q4 e-tron in Audi's China lineup, it offers a longer wheelbase, more passenger space, and a choice of rear-wheel or all-wheel drive.
+The **Audi Q5 e-tron** is a **China-exclusive, fully electric, three-row SUV** built on the **MEB platform**. Closely related to the Volkswagen ID.6, it is positioned above the Q4 e-tron in Audi's China lineup and combines a 2,965 mm wheelbase with six- or seven-seat configurations. Buyers can choose rear-wheel or all-wheel drive.
 
 {{< evkxfiguresized thumb="models/audi/q5_e-tron/q5_e-tron_50_quattro/main_6238b_st.webp" width="1920" height="1080" title="Audi Q5 e-tron" >}}
 
@@ -47,7 +47,7 @@ Key dimensions:
 
 ## Interior
 
-The Q5 e-tron offers a five-seat configuration with a focus on space and digital connectivity. The cabin features a dual-screen setup with a virtual cockpit and MMI touchscreen, along with optional seat ventilation.
+The Q5 e-tron is available with either six seats in a 2+2+2 arrangement or seven seats in a 2+3+2 arrangement. The cabin combines Audi virtual cockpit with an MMI touchscreen, while selected equipment lines add features such as front-seat ventilation and massage functions.
 
 → [Full interior details: seats, screens and features](./interior/)
 

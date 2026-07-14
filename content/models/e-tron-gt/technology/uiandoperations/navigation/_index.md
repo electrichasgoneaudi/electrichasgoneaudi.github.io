@@ -7,7 +7,7 @@ weight: 2
 <!-- markdownlint-disable MD033 -->
 The navigation system on the Audi e-tron GT is based on maps and data from [HERE Maps](https://www.here.com/strategic-alliances/audi/IVIdemo).
 
-The navigation system is available in the [virtual cockpit](../virtualcockpit/), the [Head up display](../headupdisplay/), and [Audi MMi](../mmi/) and will help to navigate to your destination, but also will help find charging stations, parking, and other points of interestest along the route.
+The navigation system is available in the [virtual cockpit](../virtualcockpit/), the [Head up display](../headupdisplay/), and [Audi MMi](../mmi/) and will help to navigate to your destination, but also will help find charging stations, parking, and other points of interest along the route.
 
 You can enable Google maps-based Satellite photos and google based search to enrich the experience even more.
 
@@ -43,7 +43,7 @@ Users receive important information such as the charging capacity or charging co
 
 You can plan routes from previous destinations, favorites, contact addresses, and receive destinations from the myAudi app.
 
-In the below set of images, you see how it is to search and create a route going to IKEA from the MMI system.
+In the following set of images, you see how it is to search and create a route going to IKEA from the MMI system.
 
 
 <figure>
@@ -120,7 +120,7 @@ The Navigation system can receive real-time online traffic information about con
 
 By receiving traffic information, the Navigation System calculates a better route if available and the possible time saved compared to the current route.
 
-A message will appear if the MMI calculates a better route for the current route guidance. The predicted delay takes into account future  changes to the traffic situation on the route. 
+A message will appear if the MMI calculates a better route for the current route guidance. The predicted delay takes into account future  changes to the traffic situation on the route.
 
 
 
@@ -130,7 +130,7 @@ Using the Audi e-tron Navigation systems has some additional benefits you don't 
 
 - Calculate what the charge level will be at your destination
 - Calculate range more correctly when the destination is set based on information of the route
-- Inform the [Efficient Assitant](/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/) and [Adaptive Cruise Assist](/models/e-tron/technology/drivingassistance/adaptivecruiseassist/) about the road ahead so it can reduce speed based on information about the route or speed limit.
+- Inform the [Efficient Assistant](/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/) and [Adaptive Cruise Assist](/models/e-tron/technology/drivingassistance/adaptivecruiseassist/) about the road ahead so it can reduce speed based on information about the route or speed limit.
 - Inform the driver assist systems about where you are going, so the car can take preventive measures like reducing speed before you are turning off a road.
 - Tell the garage opener you are closing up to your garage so it can atomically select the correct garage door to open.
 

@@ -15,9 +15,9 @@ With Audi smartphone interface with option id **IU1** you get the possibility to
     <figcaption><h4>Apple car play</h4></figcaption>
 </figure>
 
-This gives you access to many usefull apps like Spotify and Waze directly in MMI.
+This gives you access to many useful apps like Spotify and Waze directly in MMI.
 
-The below image show how Waze warns users about a speed camera in a Audi e-tron. 
+The following image shows how Waze warns users about a speed camera in an Audi e-tron.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/smartphoneinterface/speedcamq4.webp">
@@ -35,6 +35,6 @@ The below image show how Waze warns users about a speed camera in a Audi e-tron.
     <figcaption><h4>Android Auto with Spotify on Audi Q4 e-tron</h4></figcaption>
 </figure>
 
-Both Android Auto and Apple Carplay is supported throug cable and wireless on Audi Q4 e-tron.
+Both Android Auto and Apple Carplay is supported through cable and wireless on Audi Q4 e-tron.
 
-Currently this option is only available as part of the [Infotainment package](/models/q4-e-tron/optionguide/list/#infotainment) with option id **PYX**, the [Infotainment small package](/models/q4-e-tron/optionguide/list/#infotainment) with option id **PY3** and the [MMI Navigation Pro pacakge](/models/q4-e-tron/optionguide/list/#infotainment) with option ID **PYH**
+Currently this option is only available as part of the [Infotainment package](/models/q4-e-tron/optionguide/list/#infotainment) with option id **PYX**, the [Infotainment small package](/models/q4-e-tron/optionguide/list/#infotainment) with option id **PY3** and the [MMI Navigation Pro package](/models/q4-e-tron/optionguide/list/#infotainment) with option ID **PYH**

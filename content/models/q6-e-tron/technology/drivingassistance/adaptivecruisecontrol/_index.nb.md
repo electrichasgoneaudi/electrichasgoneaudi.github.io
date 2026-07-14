@@ -30,6 +30,5 @@ Du aktiverer cruisekontrollen ved å trykke på knappen på slutten. Eller du ka
 Hastigheten justeres ved å skyve spaken opp og ned. Du kan kontrollere avstanden til bilen foran med avstandsknappen.
 Lim-knappen på toppen aktiverer hastighetsbegrenseren.
 
-Dette alternativet er en del av tursjåførassistansepakken med alternativ-ID **PCC**
 
 {{<children description="true" />}}

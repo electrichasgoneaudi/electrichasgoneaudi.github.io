@@ -17,7 +17,7 @@ Electric adjustable mirrors are standard on Audi e-tron (option ID 6XD). They ar
     <figcaption><h4>Mirrors are controlled in driver door</h4></figcaption>
 </figure>
 
-There are some optional mirros
+Several optional mirror systems are available.
 
 - Heated with memory : **6XG**
 - heated, auto dimmed and electric retractable : **6XK**
@@ -49,9 +49,9 @@ There are some optional mirros
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/mirrors/mirror_carbon.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/mirrors/mirror_carbons.webp" class="img-fluid" alt="Carbon mirro Option ID 6FQ" title="Carbon mirro Option ID 6FQ">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/mirrors/mirror_carbons.webp" class="img-fluid" alt="Carbon mirror Option ID 6FQ" title="Carbon mirror Option ID 6FQ">
     </a>
-    <figcaption><h4>Carbon mirro Option ID 6FQ</h4></figcaption>
+    <figcaption><h4>Carbon mirror Option ID 6FQ</h4></figcaption>
 </figure>
 
 {{<children description="true" />}}

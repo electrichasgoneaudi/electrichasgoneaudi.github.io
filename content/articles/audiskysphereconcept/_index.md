@@ -6,6 +6,8 @@ weight: 100006
 ---
 <!-- markdownlint-disable MD033 -->
 
+> **Concept vehicle:** Audi presented the skysphere in August 2021 as a design and technology study. No production version has been announced, and its Level 4 automated-driving concept is not a feature offered in a production Audi.
+
 <figure>
     <a href="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_1.webp">
         <img src="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_1s.webp" class="img-fluid" alt="Audi skysphere concept" title="Audi skysphere concept">

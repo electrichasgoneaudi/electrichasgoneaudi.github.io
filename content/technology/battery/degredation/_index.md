@@ -26,8 +26,8 @@ Most cars are parked more than they are driven. Calendar aging is degradation th
 The factors that affect calendar aging are the State of Charge and environmental temperature.
 
 <figure>
-    <a href="https://media.evkx.net/ehga/technology/battery/degredation/evstoragestress.webp">
-        <img src="https://media.evkx.net/ehga/technology/battery/degredation/evstoragestress.webp"
+    <a href="https://media.evkx.net/ehga/technology/battery/degradation/evstoragestress.webp">
+        <img src="https://media.evkx.net/ehga/technology/battery/degradation/evstoragestress.webp"
         class="img-fluid" alt="Storage stress" title="Storage stress">
     </a>
     <figcaption><h4>Storage stress</h4></figcaption>
@@ -43,11 +43,11 @@ Cycle aging is the reduction of energy capacity or power caused by charging/disc
 
 ### Cycle aging based on SOC area
 
-The below diagram shows how the SOC area used when charging/discharging affect the degradation
+The following diagram shows how the SOC area used when charging/discharging affect the degradation
 
 <figure>
-    <a href="https://media.evkx.net/ehga/technology/battery/degredation/dstcycles.webp">
-        <img src="https://media.evkx.net/ehga/technology/battery/degredation/dstcycles.webp"
+    <a href="https://media.evkx.net/ehga/technology/battery/degradation/dstcycles.webp">
+        <img src="https://media.evkx.net/ehga/technology/battery/degradation/dstcycles.webp"
         class="img-fluid" alt="Cycle stress" title="Cycle stress">
     </a>
     <figcaption><h4>Cycle stress</h4></figcaption>

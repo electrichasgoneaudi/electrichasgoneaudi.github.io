@@ -1,62 +1,54 @@
 ---
-title: J1 performance platform
+title: J1 performance-plattform
 linktitle: J1 Performance
-description: The J1 Performance platform is developed together with Porsche and used for the e-tron GT and RS e-tron GT.
+description: J1 performance er 800-voltsarkitekturen for elektriske sportsbiler som brukes av Audi e-tron GT og Porsche Taycan.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
+
+**J1 performance-plattformen** er en arkitektur for elektriske sportsbiler som er utviklet i Volkswagen-konsernet og deles av [Audi e-tron GT](../../../models/e-tron-gt/) og Porsche Taycan. Den kombinerer et elektrisk system på 800 volt, lavt plassert batteri og firehjulsdrift med to motorer.
+
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/paint/paint_tangored_2.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/paint/paint_tangored_2s.webp" class="img-fluid" alt="Audi e-tron GT in Tango Red" title="Audi e-tron GT in Tango Red">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/paint/paint_tangored_2s.webp" class="img-fluid" alt="Audi e-tron GT" title="Audi e-tron GT">
     </a>
     <figcaption><h4>Audi e-tron GT</h4></figcaption>
 </figure>
 
-[Audi e-tron GT](../../../models/e-tron-gt) hadde verdenspremiere i april 2021 og kommer i to versjoner basert på J1 Performance platform.
-Audi e-tron GT er utstyrt med to permanent eksiterte synkronmaskiner (PSM) som gir en systemytelse på 530 metriske hk (390 kW) og 640 Nm
-(472 lb-ft) dreiemoment. Mens Audi RS e-tron GT yter en systemytelse på 645 metriske hk (475 kW) og 830 Nm (612,2 lb-ft) dreiemoment.
+## Dagens Audi e-tron GT-familie
+
+Den opprinnelige Audi e-tron GT og RS e-tron GT hadde premiere i 2021. Audi oppdaterte modellfamilien omfattende i 2024 og la til en ny innstegsversjon i 2025. Dagens familie består av:
+
+- Audi e-tron GT quattro;
+- Audi S e-tron GT;
+- Audi RS e-tron GT; og
+- Audi RS e-tron GT performance.
+
+Alle bruker et høyvoltbatteri med **105 kWh brutto og 97 kWh utnyttbar kapasitet**. Maksimal ladeeffekt med likestrøm er **320 kW**, og Audi oppgir omtrent **18 minutter fra 10 til 80 prosent** under ideelle forhold. Rekkevidde og effekt avhenger av versjonen. e-tron GT quattro når opptil 622 km WLTP, mens RS e-tron GT performance har høyest effekt.
+
+## Drivlinje
+
+J1 bruker en elektrisk motor på hver aksel for quattro-firehjulsdrift. En totrinns girkasse på bakakselen kombinerer kraftig akselerasjon fra stillestående med effektiv kjøring i høy hastighet. Drivlinjestyringen fordeler dreiemoment kontinuerlig mellom akslene ut fra veigrep, effektivitet og valgt kjøremodus.
 
 <figure>
     <a href="https://media.evkx.net/ehga/technology/bev-platforms/j1-performance/drivetrain2.webp">
         <img src="https://media.evkx.net/ehga/technology/bev-platforms/j1-performance/drivetrain2s.webp"
-        class="img-fluid" alt="J1-performance drivlinje for Audi e-tron GT" title="J1-performance drivlinje for Audi e-tron GT">
+        class="img-fluid" alt="Drivlinjeoppsettet på J1" title="Drivlinjeoppsettet på J1">
     </a>
-    <figcaption><h4>J1-performance drivlinje for Audi e-tron GT</h4></figcaption>
+    <figcaption><h4>Drivlinjeoppsettet på J1</h4></figcaption>
 </figure>
 
-Firedørs Audi RS e-tron GT drives fra null til 100 km/t (62,1 mph) på 3,3 sekunder og når 200 km/t (124,3 mph) på litt over 12 sekunder, før fremdrift
-ender på 250 km/t (155,3 mph).
+## Batteriplassering
 
-Om nødvendig kan Audi e-tron GT lades på kort tid. Høyspentsystemet i  J1 Performance platform er designet for en spenning på 800 volt og lar batteriet lades til 80 prosent på 22,5 minutter ved en DC-terminal med en effekt på 350 kW.
-
-I samsvar med WLTP-standarden oppnår Audi e-tron GT en rekkevidde på 472 kilometer (293,5 mi) på én batterilading.
+Batteriet ligger i gulvet mellom akslene. Utsparinger ved baksetepassasjerenes føtter gir bedre benplass til tross for den lave taklinjen. Løsningen bidrar til et lavt tyngdepunkt samtidig som bilen beholder god plass til fire personer.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/battery/battery2.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/battery/battery2s.webp" 
-        class="img-fluid" alt="Audi e-tron GT batteri" title="Audi e-tron GT batteri">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/battery/battery2s.webp" class="img-fluid" alt="Batteriplasseringen i Audi e-tron GT" title="Batteriplasseringen i Audi e-tron GT">
     </a>
-    <figcaption><h4>Audi e-tron GT batteri</h4></figcaption>
+    <figcaption><h4>Batteriplasseringen i Audi e-tron GT</h4></figcaption>
 </figure>
 
-Batteriet, som har et energiinnhold på over 90 kWh, er plassert i undervognen, mellom akslingene. Batteripakken er utformet med utsparinger i bakre fotbrønn. Dette gir et høyt nivå av sittekomfort for alle passasjerer. Denne spesielle utformingen gjør at drivbatteriet kan integreres i kjøretøygulvet til tross for den lave karosseriposisjonen som er typisk for sportsbiler, og skaper dermed et svært lavt kjøretøys tyngdepunkt. Samtidig skaper dette komfortabel sitteergonomi.
-
-<figure>
-    <a href="https://media.evkx.net/ehga/technology/bev-platforms/j1-performance/taycan.webp">
-        <img src="https://media.evkx.net/ehga/technology/bev-platforms/j1-performance/taycans.webp"
-        class="img-fluid" alt="Porsche Taycan is built on J1-performance platform and share parts with Audi e-tron GT" title="Porsche Taycan is built on J1-performance platform and share parts with Audi e-tron GT">
-    </a>
-    <figcaption><h4>Porsche Taycan is built on J1-performance platform and share parts with Audi e-tron GT</h4></figcaption>
-</figure>
-
-Dens lette designkropp og det valgfrie taket laget av karbonfiberforsterket polymer (CFRP).
-bygget i henhold til prinsippet om multi-material konstruksjon. Med en lengde på 4,989 meter (16,3 fot),
-1,96 meter (6,4 fot) bred og 1,41 meter (4,5 fot) høy, har Audi e-tron GT proporsjoner som en typisk Gran Turismo.
-
-I kombinasjon med det lave tyngdepunktet gir quattro-drevet, som er utstyrt med en elektrisk motor på for- og bakaksel, ideelle forhold for en sportsbil.
-
-Drivstyringen fordeler dreiemomentene til de elektriske motorene mellom akslene etter behov og regulerer også hjulene separat.
-
-Teknologioppsettet på J1 Performance platformen tillater en rekke fjærings- og ytelsesfunksjoner, for eksempel firehjulsstyring eller en sportsdifferensial, som gir utmerket trekkraft og et høyt nivå av kjøretøydynamikk.
+Plattformen støtter understellsystemer som adaptiv luftfjæring, bakhjulsstyring og, i den oppdaterte e-tron GT-familien, aktiv fjæring som ekstrautstyr. Nøyaktig utstyr avhenger av modell og konfigurasjon.
 
 {{<children description="true" />}}

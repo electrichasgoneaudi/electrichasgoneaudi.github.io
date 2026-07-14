@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron wheels
 linktitle: Wheels
-description: Audi e-tron have serveral wheels to choose from.
+description: The Audi e-tron offers several wheel designs.
 weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
@@ -267,7 +267,7 @@ Audi sport wheels for Audi e-tron S. Part no **U99** Tires 285/40 R21
 
 ## 21" inch 10.5J 5-arm star design
 
-Audi sport wheels for e-tron 60S. Part No: **U95** Tires 285/40 R21 
+Audi sport wheels for e-tron 60S. Part No: **U95** Tires 285/40 R21
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/exterior/wheels/wheel_U95_1.webp">

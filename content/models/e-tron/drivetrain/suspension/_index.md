@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron suspension
-linktitle: Suspension 
-description: Audi e-tron has adaptive air supsension.
+linktitle: Suspension
+description: Audi e-tron has adaptive air suspension.
 weight: 7
 ---
 <!-- markdownlint-disable MD033 -->

@@ -1,5 +1,5 @@
 ---
-title: Q4 e-tron 50 quattro vs e-tron 55 quattro 
+title: Q4 e-tron 50 quattro vs e-tron 55 quattro
 linktitle: Q4 e-tron vs e-tron
 description: Her finner du en detaljert sammenligning mellom Audi Q4 e-tron 50 quattro og Audi e-tron 55 quattro.
 weight: 1
@@ -24,7 +24,7 @@ Det er derfor vi i denne artikkelen vil gå inn på de detaljerte forskjellene m
 
 Audi e-tron 55 ble presentert i september 2018 og er Audis første helelektriske modell. [MLB-Evo](../../../technology/bev-platforms/mlb-evo/)-plattformen er grunnlaget for denne modellen. Tradisjonelle modeller bruker også denne plattformen.
 
-I april 2021 presenterte Audi Audi Q4 e-tron 50 som den første mellomstore SUV-en.
+I april 2021 presenterte Audi Q4 e-tron 50 som sin første mellomstore elektriske SUV.
 
 En dedikert elbilplattform, kalt [MEB](../../../technology/bev-platforms/meb/), brukes på denne modellen.
 Denne plattformen ble laget av Volkswagen og brukes på flere modeller.
@@ -159,7 +159,7 @@ Følgende utstyr er standard på Audi e-tron 55, men ekstrautstyr på Audi Q4 e-
 - [Drive select](../../q4-e-tron/technology/audidriveselect/)
 - Adaptive air suspension (ikke tilgjengelig for Audi Q4)
 
-I enkelte markeder er ikke grunnmodellene tilgjengelige, og listen med standardutstyr i det markedet kan inneholde mer på begge modellene. 
+I enkelte markeder er ikke grunnmodellene tilgjengelige, og listen med standardutstyr i det markedet kan inneholde mer på begge modellene.
 I Norge får man en rekke pakker til en gunstig pris sammenlignet med grunnmodellene. Dette gjelder spesielt på e-tron hvor man får pakker som er rimeligere enn grunnmodellen.
 
 ## Tilgjengelige alternativer
@@ -243,7 +243,7 @@ Den mangler da
 
 Ved å legge til edition pakken og noe løst utstyr får man dette og havner på 851 600,- [Se pristilbud](https://electrichasgoneaudi.blob.core.windows.net/multimedia/models/comparisons/q4etron50vsetron55/audi_e_tron_fulloptionmatch.pdf)
 
-Da har man alt utstyret til en fullspekket Audi Q4 e-tron 50 quattro, men i tilegg en del ekstra utstyr som ikke kan skaffes på Q4 e-tron.
+Da har man alt utstyret til en fullspekket Audi Q4 e-tron 50 quattro, men i tillegg en del ekstra utstyr som ikke kan skaffes på Q4 e-tron.
 For tiden inkluderer prisen på e-tron også vinterdekk slik at den praktiske prisforskjellen er rundt 30.000,-
 
 <figure>
@@ -347,7 +347,7 @@ Nedenfor ser du den fullstendige spesifikasjonen og utstyrsammenligningen av gru
 | Digital HD Matrix | N/A | [ekstrautstyr](../../e-tron/technology/lights/#digital-matrix-led-headlights) |
 | Headlight washer | [ekstrautstyr](../../q4-e-tron/technology/lights/) | [standard](../../e-tron/technology/lights/) |
 | Ledstripe bak | [ekstrautstyr](../../q4-e-tron/technology/lights/) | [standard](../../e-tron/technology/lights/) |
-| Dynamic lightning | [ekstrautstyr](../../q4-e-tron/technology/lights/) | [ekstrautstyr](../../e-tron/technology/lights/) |
+| Dynamic lighting | [ekstrautstyr](../../q4-e-tron/technology/lights/) | [ekstrautstyr](../../e-tron/technology/lights/) |
 | Entry lights | option | option |
 | Electric adjustable mirrors | [standard](../../q4-e-tron/exterior/mirrors/) | [standard](../../e-tron/exterior/mirrors/) |
 | Mirrors with memory | [ekstrautstyr](../../q4-e-tron/exterior/mirrors/) | [ekstrautstyr](../../e-tron/exterior/mirrors/) |

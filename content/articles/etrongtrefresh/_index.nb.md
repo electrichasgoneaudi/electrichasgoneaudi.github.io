@@ -1,18 +1,20 @@
 ---
 title: "Nye Audi e-tron GT: Et fullelektrisk mesterstykke"
 linktitle: Audi e-tron GT refresh
-description: I dag er det verdenspremiere på ny og forbedret Audi e-tron GT. Audi e-tron GT kommer for første gang i tre ulike varianter; S e-tron GT, RS e-tron GT og RS e-tron GT performance.
+description: Audi presenterte den omfattende oppdateringen av e-tron GT-familien i juni 2024, med S e-tron GT, RS e-tron GT og RS e-tron GT performance.
 weight: 99988
 ---
 <!-- markdownlint-disable MD033 -->
 
 
-– Nye Audi e-tron GT kommer med signifikante forbedringer både i rekkevidde, ytelser og
+> **Historisk lanseringsartikkel:** Audi presenterte denne utgaven av e-tron GT-familien 18. juni 2024. Se [modelloversikten](../../models/e-tron-gt/) for oppdatert informasjon.
+
+– Nye Audi e-tron GT kommer med betydelige forbedringer både i rekkevidde, ytelser og
 teknologi – og med nye designelementer, forteller Harald Edvardsen-Eibak, direktør for Audi
 Norge.
 
 Audi e-tron GT ble lansert i 2021, som Audis fullelektriske sportsbil og toppmodell. I dag
-lanseres e-tron GT i ny og oppgradert versjon, med enda mer sportslighet og kraftfulle ytelser.
+ble e-tron GT lansert i en ny og oppgradert versjon, med enda mer sportslighet og kraftfulle ytelser.
 Med helt nye RS e-tron GT performance lanserer også Audi sin første fullelektriske
 performance-modell.
 - Audi RS e-tron GT performance er den mest intense bilen noensinne utviklet fra Audi, og et
@@ -31,7 +33,7 @@ De tre nye variantene av e-tron GT har unike designelementer som understreker hv
 identitet. Eksempelvis står nye Audi S e-tron GT for elegant sportslighet, og har fått ny struktur
 på grillen sammen med en stripe over grillen med bilens karosserifarge. Sportsseter med 14-
 veisjustering er selvsagt standard for alle modellene i GT-familien.
-Nye Audi RS e-tron GT har også fått nye detaljer som gjør modellen enda mer sportslig, blant 
+Nye Audi RS e-tron GT har også fått nye detaljer som gjør modellen enda mer sportslig, blant
 annet har grillen fått en RS-typisk og tredimensjonal struktur. Frontfangeren har nå også et L-
 formet designelement, unikt for RS-variantene av e-tron GT. Også på bilens bakende har modellen hentet elementer fra motorsport, blant annet med en rød reflektor mellom
 luftkanalene.
@@ -57,7 +59,7 @@ tron GT er 856 hk (630 kW) og 925 hk (680 kW) for RS e-tron GT performance. Det 
 modellen til den mest kraftfulle produksjonsmodellen fra Audi noensinne.
 
 S e-tron GT akselererer fra 0 – 100 km/t på 3,4 sekunder, og tilsvarende 2,8 sekunder for RS e-
-tron GT. RS e-tron GT performance bruker kun 2,5 sekunder fra 0 – 100 km/t. RS-modellene har 
+tron GT. RS e-tron GT performance bruker kun 2,5 sekunder fra 0 – 100 km/t. RS-modellene har
 en toppfart på 250 km/t, og tilsvarende 245 km/t for S e-tron GT.
 
 S e-tron GT kommer også med et nyutviklet bremsesystem med standard stålskiver og svarte

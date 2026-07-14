@@ -1,7 +1,7 @@
 ---
-title: Audi Q4 e-tron drive select 
+title: Audi Q4 e-tron drive select
 linktitle: Drive Select
-description: Audi Q4 e-tron has an option for Audi Drive select.
+description: Audi drive select lar føreren tilpasse responsen fra drivlinjen og, avhengig av utstyr, understellet.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
@@ -14,8 +14,8 @@ I individuell modus kan sjåførene konfigurere oppsettet i henhold til deres pe
 
 Avhengig av alternativ og oppsett påvirker innstillingene for valg av stasjon følgende.
 
-- Motorisk responsivnes
-- quattro drive
+- Motorrespons
+- Quattro-firehjulsdrift
 - dynamisk styring
 - HD Matrix LED-frontlykter
 - omgivelsesbelysning

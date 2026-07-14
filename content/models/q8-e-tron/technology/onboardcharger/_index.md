@@ -47,12 +47,12 @@ In the illustration below you see the location of the charge units.
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/electricdrivetrain.webp">
         <img src="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/electricdrivetrains.webp"
-        class="img-fluid" alt="Electric drive train with standard and optinal charger location" title="Electric drive train with standard and optinal charger location">
+        class="img-fluid" alt="Electric drive train with standard and optional charger location" title="Electric drive train with standard and optional charger location">
     </a>
-    <figcaption><h4>Electric drive train with standard and optinal charger location</h4></figcaption>
+    <figcaption><h4>Electric drive train with standard and optional charger location</h4></figcaption>
 </figure>
 
-Only AC charging goes throug the charger. For DC charging the CCS port is directly connected to the battery.
+Only AC charging goes through the charger. For DC charging the CCS port is directly connected to the battery.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/technology/onboardcharger/wiringdiagram.webp">

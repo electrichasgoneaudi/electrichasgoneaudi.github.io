@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron GT seats
 linktitle: Seats
-description: Audi e-tron GT have serveral seats options to choose from
+description: The Audi e-tron GT offers several seat and upholstery options.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
@@ -9,7 +9,7 @@ Available as standard in the e-tron GT quattro are the sport seats with electric
 
 ### Electric adjustment
 
-All seats have electric adjustment of seat height, back angel and horisontal placement.
+All seats have electric adjustment of seat height, backrest angle and horizontal placement.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seat_adjustment_1.webp">
@@ -80,38 +80,38 @@ The massage is controlled from the MMI.
 
 ## Sport Seats
 
-Sport seats are only available with black leather/artifical leather mono.pur 555 combination
+Sport seats are only available with black leather/artificial leather mono.pur 555 combination
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sport_1.webp">
         <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sport_1s.webp"
-        class="img-fluid" alt="Sport seats in leather / mono.pur 550 artifical leather" title="Sport seats in leather / mono.pur 550 artifical leather">
+        class="img-fluid" alt="Sport seats in leather / mono.pur 550 artificial leather" title="Sport seats in leather / mono.pur 550 artificial leather">
     </a>
-    <figcaption><h4>Sport seats in leather / mono.pur 550 artifical leather</h4></figcaption>
+    <figcaption><h4>Sport seats in leather / mono.pur 550 artificial leather</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sport_2.webp">
         <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sport_2s.webp"
-        class="img-fluid" alt="Sport seats in leather / mono.pur 550 artifical leather" title="Sport seats in leather / mono.pur 550 artifical leather">
+        class="img-fluid" alt="Sport seats in leather / mono.pur 550 artificial leather" title="Sport seats in leather / mono.pur 550 artificial leather">
     </a>
-    <figcaption><h4>Sport seats in leather / mono.pur 550 artifical leather</h4></figcaption>
+    <figcaption><h4>Sport seats in leather / mono.pur 550 artificial leather</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sport_3.webp">
         <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sport_3s.webp"
-        class="img-fluid" alt="Sport seats in leather / mono.pur 550 artifical leather" title="Sport seats in leather / mono.pur 550 artifical leather">
+        class="img-fluid" alt="Sport seats in leather / mono.pur 550 artificial leather" title="Sport seats in leather / mono.pur 550 artificial leather">
     </a>
-    <figcaption><h4>Sport seats in leather / mono.pur 550 artifical leather</h4></figcaption>
+    <figcaption><h4>Sport seats in leather / mono.pur 550 artificial leather</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sport_4.webp">
         <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sport_4s.webp"
-        class="img-fluid" alt="Sport seats in leather / mono.pur 550 artifical leather" title="Sport seats in leather / mono.pur 550 artifical leather">
+        class="img-fluid" alt="Sport seats in leather / mono.pur 550 artificial leather" title="Sport seats in leather / mono.pur 550 artificial leather">
     </a>
-    <figcaption><h4>Sport seats in leather / mono.pur 550 artifical leather</h4></figcaption>
+    <figcaption><h4>Sport seats in leather / mono.pur 550 artificial leather</h4></figcaption>
 </figure>
 
 ## Sport Plus Seats
@@ -121,25 +121,25 @@ Upholstery is available either as a combination of artificial leather and the Ka
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sportplus_1.webp">
         <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sportplus_1s.webp"
-        class="img-fluid" alt="Sport Plus seats with cascade fabric/artifical mono.pur 550 leather" title="Sport Plus seats with cascade fabric/artifical mono.pur 550 leather">
+        class="img-fluid" alt="Sport Plus seats with cascade fabric/artificial mono.pur 550 leather" title="Sport Plus seats with cascade fabric/artificial mono.pur 550 leather">
     </a>
-    <figcaption><h4>Sport Plus seats with cascade fabric/artifical mono.pur 550 leather</h4></figcaption>
+    <figcaption><h4>Sport Plus seats with cascade fabric/artificial mono.pur 550 leather</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sportplus_2.webp">
         <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sportplus_2s.webp"
-        class="img-fluid" alt="Sport Plus seats with cascade fabric/artifical mono.pur 550 leather" title="Sport Plus seats with cascade fabric/artifical mono.pur 550 leather">
+        class="img-fluid" alt="Sport Plus seats with cascade fabric/artificial mono.pur 550 leather" title="Sport Plus seats with cascade fabric/artificial mono.pur 550 leather">
     </a>
-    <figcaption><h4>Sport Plus seats with cascade fabric/artifical mono.pur 550 leather</h4></figcaption>
+    <figcaption><h4>Sport Plus seats with cascade fabric/artificial mono.pur 550 leather</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sportplus_3.webp">
         <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/seats/seats_sportplus_3s.webp"
-        class="img-fluid" alt="Sport Plus seats with cascade fabric/artifical mono.pur 550 leather" title="Sport Plus seats with cascade fabric/artifical mono.pur 550 leather">
+        class="img-fluid" alt="Sport Plus seats with cascade fabric/artificial mono.pur 550 leather" title="Sport Plus seats with cascade fabric/artificial mono.pur 550 leather">
     </a>
-    <figcaption><h4>Sport Plus seats with cascade fabric/artifical mono.pur 550 leather</h4></figcaption>
+    <figcaption><h4>Sport Plus seats with cascade fabric/artificial mono.pur 550 leather</h4></figcaption>
 </figure>
 
 For the Color & Trim concept of the Audi e-tron GT the materials were completely redefined and a leather-free interior was developed. This video shows how the fabric Kaskade was developed for the Audi e-tron GT.

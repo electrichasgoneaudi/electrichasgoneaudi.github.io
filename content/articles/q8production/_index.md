@@ -55,6 +55,6 @@ The new Q8 e-tron’s optimized drive concept, improved aerodynamics, and higher
 </figur>
 
 
-The below video shows the factory
+The following video shows the factory
 
 {{< youtube ThUvtsYyIZI >}}

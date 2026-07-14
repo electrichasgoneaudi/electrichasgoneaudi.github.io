@@ -1,37 +1,35 @@
 ---
 title: Audi Q6 e-tron paint colors
 linktitle: Paint
-description: You can choose amongst over 8 standard paint colors.
+description: The Audi Q6 e-tron is available in a range of standard and Audi exclusive paint finishes.
 weight: 1
 sectiontabs: "/models/q6-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 
-Here you find high-res pictures of real cars in the standard paint colors. Click on images for large version.
+This page shows real Audi Q6 e-tron vehicles in the available paint finishes. Select an image to open the full-size version.
 
-Click below for direct navigation to paint color
+Use the links below to jump to a paint finish:
 
-- [Standard Paint colors](#standard-paint-colors)
+- [Standard paint colors](#standard-paint-colors)
   - [Magnet grey](#magnet-grey)
   - [Ascari Blue](#ascari-blue)
   - [Glacier White](#glacier-white)
   - [Manhattan Grey](#manhattan-grey)
   - [Mythos black](#mythos-black)
 - [Plasma blue](#plasma-blue)
-  - [Soneira Red](#soneira-red)
-  - [Daytona Grey](#daytona-grey)
-- [Audi Exclusive Paint colors](#audi-exclusive-paint-colors)
+- [Soneira Red](#soneira-red)
+- [Daytona Grey](#daytona-grey)
+- [Audi exclusive paint colors](#audi-exclusive-paint-colors)
 
-In addition you can choose between over 50 [Audi Exclusive paint colors](../../exterior/paint/#audi-exclusive-lakk-farger).
+Availability and pricing vary by market, equipment line, and model year.
 
 
-## Standard Paint colors
-
-The different standard colors are
+## Standard paint colors
 
 ### Magnet grey
 
-Standard color. Solid
+Solid paint finish.
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paint/magneticgray_1_st.webp" width="1140" height="677" title="Audi Q6 e-tron in magnet gray" >}}
 
@@ -62,8 +60,6 @@ Standard color. Solid
 
 ### Glacier White
 
-Color Code: **2Y**
-
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paint/glacierwhite_1_st.webp" width="3000" height="2249" title="Audi Q6 e-tron in glacier white" >}}
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paint/glacierwhite_2_st.webp" width="3000" height="2249" title="Audi Q6 e-tron in glacier white" >}}
@@ -76,8 +72,6 @@ Color Code: **2Y**
 
 ### Manhattan Grey
 
-Color Code: **2Y**
-
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paint/manhattangray_1_st.webp" width="3000" height="2249" title="Audi Q6 e-tron in manhattan grey" >}}
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paint/manhattangray_2_st.webp" width="3000" height="2249" title="Audi Q6 e-tron in manhattan grey" >}}
@@ -86,8 +80,6 @@ Color Code: **2Y**
 
 ### Mythos black
 
-Color Code: **OE**
-
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paint/mythosblack_1_st.webp" width="3000" height="2249" title="Audi Q6 e-tron in Mythos black" >}}
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paint/mythosblack_2_st.webp" width="3000" height="2249" title="Audi Q6 e-tron in Mythos black" >}}
@@ -95,9 +87,7 @@ Color Code: **OE**
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paint/mythosblack_3_st.webp" width="3000" height="2249" title="Audi Q6 e-tron in Mythos black" >}}
 
 
-## Plasma blue
-
-Color Code: **3D**
+### Plasma blue
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paint/plasmablue_1_st.webp" width="3000" height="2249" title="Audi Q6 e-tron in plasma blue" >}}
 
@@ -111,8 +101,6 @@ Color Code: **3D**
 
 ### Soneira Red
 
-Color Code: **??**
-
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paint/soneirared_1_st.webp" width="3000" height="2249" title="Audi Q6 e-tron in soneira red" >}}
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paint/soneirared_2_st.webp" width="3000" height="2249" title="Audi Q6 e-tron in soneira red" >}}
@@ -122,9 +110,7 @@ Color Code: **??**
 
 ### Daytona Grey
 
-Only available on S-line and e-tron S.
-
-Color Code: **6Y**
+Availability depends on the selected S line or SQ6 e-tron configuration.
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paint/daytonagray_1_st.webp" width="3000" height="2249" title="Audi Q6 e-tron in  Daytona gray" >}}
 
@@ -138,11 +124,9 @@ Color Code: **6Y**
 
 
 
-## Audi Exclusive Paint colors
+## Audi exclusive paint colors
 
-It is possible to order Audi e-tron with Audi exclusive Paint colors. There are lots of colors to choose from.
-
-Below you see some of the colors you can choose from.
+Audi exclusive offers additional paint finishes for the Q6 e-tron in supported markets. The examples below show the main finish categories; the exact selection must be confirmed in the local configurator.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_exclusive_overview1.webp">

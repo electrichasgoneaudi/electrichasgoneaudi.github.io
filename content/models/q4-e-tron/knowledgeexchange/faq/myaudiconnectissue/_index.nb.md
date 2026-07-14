@@ -1,12 +1,12 @@
 ---
 title: Hvorfor jeg ikke kan kontrollere min Audi Q4 e-tron gjennom myAudi appen?
 linktitle: My Audi
-description: Et vanlig spørsmål for Audi Q4 e-tron er relatert til eiere som har problemer med myAudi-appen og utfører operasjoner.  
+description: Et vanlig spørsmål for Audi Q4 e-tron er relatert til eiere som har problemer med myAudi-appen og utfører operasjoner.
 weight: 30
 hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
-Disse operasjonene kan være å starte pre-klimatisering eller endre charing-mål. Eller bare sjekke bilens status.
+Disse operasjonene kan være å starte klimatisering, endre lademålet eller kontrollere bilens status.
 
 ![Tilkoblingsproblem](https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/myaudiconnectissue/connectissuenb3.webp "myAudi-feilmelding")
 

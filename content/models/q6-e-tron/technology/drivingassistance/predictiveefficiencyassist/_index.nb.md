@@ -1,7 +1,7 @@
 ---
 title: Audi Q6 e-tron effektivitetsassistent
 linktitle: Effektivitetsassistent
-description: Audi Q6 e-tron kan leveres med effektivitetsassistent. Effektivitetsassistenten hjelper sjåføren å kjøre mest mulig energieffektivt. 
+description: Audi Q6 e-tron kan leveres med effektivitetsassistent. Effektivitetsassistenten hjelper sjåføren å kjøre mest mulig energieffektivt.
 weight: 1
 sectiontabs: "/nb/models/q6-e-tron/technology/"
 ---
@@ -39,5 +39,3 @@ Føreren kan overstyre systemet når som helst ved å akselerere og bremse. I ti
     </a>
     <figcaption><h4>Effektivitetsassistent i headup foreslår å redusere hastigheten</h4></figcaption>
 </figure>
-
-Dette alternativet er en del av tursjåførassistansepakken med alternativ-ID **PCC**

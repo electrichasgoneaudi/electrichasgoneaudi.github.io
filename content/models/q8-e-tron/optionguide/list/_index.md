@@ -11,8 +11,8 @@ Not 100% confirmed yet
 
 ![Pant Colors & Paint trim](https://media.evkx.net/ehga/models/e-tron/variants/variants1s.webp)
 
-With more than 60 different colors, serveral paint trim there huge amount of color combination available. 
-Click below for high-res pictures and details of each option. 
+Audi exclusive offered more than 60 paint colors in addition to the standard palette, creating a wide range of exterior color combinations.
+Click below for high-res pictures and details of each option.
 
 | Title | Description | ID |
 |-----|------|------|
@@ -30,7 +30,7 @@ Click below for high-res pictures and details of each option.
 |  [Plasma Blue](../../exterior/paint/#plasma-blue) | Metallic  | 3D |
 |  [Antiqua Blue](../../exterior/paint/#antigua-blue) | Metallic | |
 |  [Chronos Grey](../../exterior/paint/#chronos-grey) | Metallic | Z7 |
-|  [Audi exclusive indiviudal](../../exterior/paint/) | Serveral colors | Q0Q0 |
+|  [Audi exclusive individual](../../exterior/paint/) | Several colors | Q0Q0 |
 |  [Basic paint](../../exterior/paint/#basic-paint) | Mounted parts in anthracite with structure.   | |
 |  [Full body paint](../../exterior/paint/#full-body-paint)|  | VJ1 |
 |  [Contrast paint](../../exterior/paint/#contrast-paint)| In Manhatten Grey | 2KS |
@@ -41,7 +41,7 @@ Click below for high-res pictures and details of each option.
 
 ![Felger](https://media.evkx.net/ehga/models/e-tron/exterior/wheels/wheel_CA0_2s.webp)
 
-Audi e-tron can be delivered with serveral types of wheels from 19" to 22". Click in the wheel options belo for high res pictures and detailed info.
+Audi e-tron can be delivered with several types of wheels from 19" to 22". Click the wheel options below for high res pictures and detailed info.
 
 | Title | Description | ID |
 |-----|------|------|
@@ -50,7 +50,7 @@ Audi e-tron can be delivered with serveral types of wheels from 19" to 22". Clic
 | [20" 5-arm design](../../exterior/wheels/#20-5-arm-design) |  | 42G |
 | [20" 5-arm dynamic design](../../exterior/wheels/#20-5-arm-dynamic-design) |  |  F08 |
 | [20" 10-arm Lamina design](../../exterior/wheels/#20-10-arm-lamina-design) | Winter |  |
-| [20-inch 9J 5-twin arm edge design](../../exterior/wheels/#20-inch-9j-5-twin-arm-edge-design) |  | CN7 | 
+| [20-inch 9J 5-twin arm edge design](../../exterior/wheels/#20-inch-9j-5-twin-arm-edge-design) |  | CN7 |
 | [20-inch MT Galvani](../../exterior/wheels/#19-5-arm-aero-design-winter-wheels) | Winter |  |
 | [20-inch 10J 5V design wheels for e-tron S](../../exterior/wheels/#20-inch-10j-5v-design-wheels-for-e-tron-s) | Winter | CA0 |
 | [21" 10-arm Lamina design](../../exterior/wheels/#21-10-arm-lamina-design) | Winter | |
@@ -60,9 +60,9 @@ Audi e-tron can be delivered with serveral types of wheels from 19" to 22". Clic
 | [21 inch 5V Arm design black](../../exterior/wheels/#21-inch-5v-arm-design-black) | | F50|
 | [21 inch 9.5J 10-spoke rotor gloss Anthracite black](../../exterior/wheels/#21-inch-95j-10-spoke-rotor-gloss-anthracite-black) | | 42P |
 | [21 inch 10.5J 5Y design](../../exterior/wheels/#21-inch--105j-5y-design) | e-tron S | U99 |
-| [21" inch 10.5J 5-arm star design](../../exterior/wheels/#21-inch-105j-5-arm-star-design) | e-tron S |  U95 | 
+| [21" inch 10.5J 5-arm star design](../../exterior/wheels/#21-inch-105j-5-arm-star-design) | e-tron S |  U95 |
 | [22" x 9.5J ‘5-spoke structured’ matt titanium finish](../../exterior/wheels/#22-x-95j-5-spoke-structured-matt-titanium-finish) | | 54L |
-| [22" 5-arms interferenz-design](../../exterior/wheels/#22-5-arms-interferenz-design) | | V40 | 
+| [22" 5-arms interferenz-design](../../exterior/wheels/#22-5-arms-interferenz-design) | | V40 |
 
 ## Wheel accessories
 
@@ -126,14 +126,14 @@ Audi e-tron can be delivered with serveral types of wheels from 19" to 22". Clic
 
 | Title | Description | ID |
 |-----|------|------|
-| [Standard key](../../technology/lockingsystems/#standard-key) | Remote controll, keyless go |  |  |
+| [Standard key](../../technology/lockingsystems/#standard-key) | Remote control, keyless go |  |  |
 | [Advance Key](../../technology/lockingsystems/#advance-key-option-pgc) | | PGC |
 | [Advance Key with safelock](../../technology/lockingsystems/#advance-key-option-pgc) | | PG3 |
 | [Audi Connect Key](../../technology/lockingsystems/#audi-connect-key-2f1) | | 2F1 |
 | Automatic immobilizer | activates with key |  |
 | [Powered tailgate](../../exterior/doors/#powered-tailgate) | Electric opening and closing. Standard | |
 | [Servo closing of doors](../../exterior/doors/#servo-closing) | | GZ2 |
-| [Garage door opener](../../technology/garagedooropener/) |  | VC2 |  
+| [Garage door opener](../../technology/garagedooropener/) |  | VC2 |
 
 ## Glass
 
@@ -145,7 +145,7 @@ Audi e-tron can be delivered with serveral types of wheels from 19" to 22". Clic
 | [Privacy glass](../../exterior/windows/#privacy-glass) |  | QL5 |
 | [Adaptive whipers](../../technology/whipers/#adaptive-whipers) | | 9PF |
 | [Manual curtain rear](../../interior/curtain/) | | 3Y4 |
-| Sunshades  | Retractable | 5XF |  
+| Sunshades  | Retractable | 5XF |
 
 ## Exterior options
 
@@ -178,13 +178,13 @@ Audi e-tron can be delivered with serveral types of wheels from 19" to 22". Clic
 |-----|------|------|
 | [Upper part of dashboard in leather](../../interior/interiormaterials/#leather-on-dashboard-imitated-leather-on-doorscenterconsole) | | 7HC |
 | [Upper and lower part in leather](../../interior/interiormaterials/#full-leather-on-dashboard-door-and-lower-part-of-center-consol) |  | 7HD |
-| [Lower part in artifical leather](../../interior/interiormaterials/#imiated-leather-doors-and-center-consol) |  | 7HM |
+| [Lower part in artificial leather](../../interior/interiormaterials/#imiated-leather-doors-and-center-consol) |  | 7HM |
 
 ## Seats
 
 ![Seats](https://media.evkx.net/ehga/models/e-tron/interior/seats/seats_individualcontour_8.webp)
 
-You can choose between serveral seat types and seat materials. Click links below for full details on each option.
+You can choose between several seat types and seat materials. Click links below for full details on each option.
 
 | Title | Description | ID |
 |-----|------|------|
@@ -213,27 +213,27 @@ You can choose between serveral seat types and seat materials. Click links below
 | Title | Description | ID |
 |-----|------|------|
 | [Moon silver headliner](../../interior/headliner/) |  |  |
-| [Black headliner](../../interior/headliner/)  |  |  6NQ | 
+| [Black headliner](../../interior/headliner/)  |  |  6NQ |
 | [Grey inlay](../../interior/inlays/)  |  |  |
-| [Inlays in Fine grain ash, Natural volcanic grey inlays](../../interior/inlays/) |  | 5MB | 
+| [Inlays in Fine grain ash, Natural volcanic grey inlays](../../interior/inlays/) |  | 5MB |
 | [Valnut inlay](../../interior/inlays/)  |  |  5MG |
 | [Aluminum inlay](../../interior/inlays/) | |  5TG |
-| [Carbon inlay](../../interior/inlays/)  |  | 5MK | 
-| [Audi exclusive inlays](../../interior/inlays/)  |  | YTA | 
+| [Carbon inlay](../../interior/inlays/)  |  | 5MK |
+| [Audi exclusive inlays](../../interior/inlays/)  |  | YTA |
 | [Ambient light package](../../interior/lights/#ambient-light-package) | | QQ1 |
 | [Contour and ambient light](../../interior/lights/#multicolor-contourambient-light-pack) |  | QQ2  |
 | [Buttons in mat black](../../interior/buttons/) |  |  |
-| [Glass buttons](../../interior/buttons/) |  | GS5 | 
+| [Glass buttons](../../interior/buttons/) |  | GS5 |
 
 ## Steering wheels
 
 | Title | Description | ID |
 |-----|------|------|
 | [Multifunction with paddles](../../interior/steeringwheels/) | Standard | |
-| [Heated multifunction with paddles](../../interior/steeringwheels/) |  | 2ZM | 
+| [Heated multifunction with paddles](../../interior/steeringwheels/) |  | 2ZM |
 | [Sport with paddles and heated](../../interior/steeringwheels/) |   | 1XP |
 | [Sport with paddles](../../interior/steeringwheels/)  |  | 1XW |
-| [Sport contour](../../interior/steeringwheels/) |  | 2PF | 
+| [Sport contour](../../interior/steeringwheels/) |  | 2PF |
 | [Electric adjustment](../../interior/steeringwheels/#adjustment) | | 2C7 |
 
 ## Climate
@@ -257,7 +257,7 @@ You can choose between serveral seat types and seat materials. Click links below
 | [Illuminated entry strips front / rear with aluminum field, without logo](../../exterior/doors/#door-inlays) |  | VT3 |
 | [Illuminated door sill trims with aluminium inlays front & rear and S logo in front](../../exterior/doors/#door-inlays)  | S-line/S-line interior | VT5 |
 | [12-volt outlet](../../technology/connections/#12volt) | Front, rear and luggage compartment | Standard | |
-| Storage and luggage compartment package | - Two cup holders in the rear center console <br> - [Removable storage box in the spare wheel well](../../transportation/#storage-and-luggage-compartment-package) <br> - [Net in the side of the luggage compartment](../../transportation/#storage-and-luggage-compartment-package) <br /> - [Luggage net for transporting objects (luggage straps)](../../transportation/#storage-and-luggage-compartment-package)  | QE1 | 
+| Storage and luggage compartment package | - Two cup holders in the rear center console <br> - [Removable storage box in the spare wheel well](../../transportation/#storage-and-luggage-compartment-package) <br> - [Net in the side of the luggage compartment](../../transportation/#storage-and-luggage-compartment-package) <br /> - [Luggage net for transporting objects (luggage straps)](../../transportation/#storage-and-luggage-compartment-package)  | QE1 |
 | [Separation net for luggage compartment](../../transportation/#luggage-compartment-seperation-net)  |  | 3CX |
 | Flexible folding luggage compartment mat  |  | 6SJ |
 | Audi exclusive mats | The color of the floor mats, the piping and the seams can be selected from the range of Audi exclusive main colors: alabaster white, cognac brown, diamond silver, havana brown, jet gray, crimson red, ocean blue, black | YTA |
@@ -288,7 +288,7 @@ You can choose between serveral seat types and seat materials. Click links below
 
 | Title | Description | ID |
 |-----|------|------|
-| Assistantpackage city  | [Crossing assist](../../technology/drivingassistance/crossingassist/), [side assist](../../technology/drivingassistance/sideassist/), [exit warning](../../technology/drivingassistance/exitwarning/), [pre sense rear](../../technology/drivingassistance/presenserear/), [pre sense side](../../technology/drivingassistance/presenseside/), [cross traffic rear](../../technology/drivingassistance/crosstrafficassistrear/) | PCM | 
+| Assistantpackage city  | [Crossing assist](../../technology/drivingassistance/crossingassist/), [side assist](../../technology/drivingassistance/sideassist/), [exit warning](../../technology/drivingassistance/exitwarning/), [pre sense rear](../../technology/drivingassistance/presenserear/), [pre sense side](../../technology/drivingassistance/presenseside/), [cross traffic rear](../../technology/drivingassistance/crosstrafficassistrear/) | PCM |
 | Assistantpackage tour | [Adaptive cruise assist](../../technology/drivingassistance/adaptivecruiseassist/), [Adaptive cruise control](../../technology/drivingassistance/adaptivecruisecontrol/), [efficient assistant](../../technology/drivingassistance/predictiveefficiencyassist/),  [turn assist](../../technology/drivingassistance/turnassist/), [traffic sign recognition](../../technology/drivingassistance/trafficsignrecognition/), [emergency assist](../../technology/drivingassistance/emergencyassist/) | PCC    |
 | [Audi pre sense basic](../../technology/drivingassistance/presensebasic/) | standard |  |
 | [Audi pre sense front](../../technology/drivingassistance/presensefront/) | standard |  |
@@ -303,7 +303,7 @@ You can choose between serveral seat types and seat materials. Click links below
 
 | Title | Description | ID |
 |-----|------|------|
-| [Adaptive air suspension](../../drivetrain/suspension/) | Standard  | 1BK | 
+| [Adaptive air suspension](../../drivetrain/suspension/) | Standard  | 1BK |
 | [Adaptive air suspension sport](../../drivetrain/suspension/) |  | 2MB |
 | Quattro | Standard |   |
 | Progressive steering | Standard |  |

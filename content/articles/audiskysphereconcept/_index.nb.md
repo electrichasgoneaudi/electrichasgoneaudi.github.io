@@ -6,6 +6,8 @@ weight: 100006
 ---
 <!-- markdownlint-disable MD033 -->
 
+> **Konseptbil:** Audi presenterte skysphere i august 2021 som en design- og teknologistudie. Ingen produksjonsversjon er annonsert, og konseptets automatiserte kjøring på nivå 4 tilbys ikke i en serieprodusert Audi.
+
 <figure>
     <a href="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_1.webp">
         <img src="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_1s.webp" class="img-fluid" alt="Audi skysphere concept" title="Audi skysphere concept">

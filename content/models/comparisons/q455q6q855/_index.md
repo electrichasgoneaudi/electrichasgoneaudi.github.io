@@ -1,5 +1,5 @@
 ---
-title: Q4 e-tron 55 quattro vs Q6 e-tron quattro vs Q8 e-tron 55 
+title: Q4 e-tron 55 quattro vs Q6 e-tron quattro vs Q8 e-tron 55
 linktitle: Q4 vs Q6 vs Q6
 description: Here, you find a detailed comparison between the Audi Q4 e-tron 55 quattro, the Audi Q6 e-tron quattro, and the Audi Q8 e-tron 55 quattro.
 weight: 1
@@ -87,7 +87,7 @@ All models have almost the same driver-assist systems. However, there is a diffe
 
 There are some differences in infotainment.  Virtual Cockpit and MMI Navigation are standard on the Audi Q8 e-tron, while this is an option on the Q4. The MMI system is also different. On the Audi Q8 e-tron, there are two screens, while Q4 has only one screen in the center console.
 
-The Audi Q6 uses a brand new systems with a "Digital Stage" and a large shared screen. It also have optional passenger screen. 
+The Audi Q6 uses a brand new systems with a "Digital Stage" and a large shared screen. It also have optional passenger screen.
 
 This system is much more updated and modern than in Q4 and Q8.
 
@@ -97,7 +97,7 @@ Audi Q4 e-tron 55 quattro have an option for Sonos sound system. Audi Q8 e-tron 
 
 ## Lights
 
-HD matrix is an option on all models. In addition, Q4 and Q6 has some fabulous new daylight driving lights as an option where drivers can select a different design. For Q8 e-tron Digital HD Matrix also is available. 
+HD matrix is an option on all models. In addition, Q4 and Q6 has some fabulous new daylight driving lights as an option where drivers can select a different design. For Q8 e-tron Digital HD Matrix also is available.
 
 We don't believe that exterior lights will be a deciding factor for many.
 
@@ -132,7 +132,7 @@ Most options are available on both models, but some are only available on the Q8
 
 - [Individual Contour seats](../../q8-e-tron/interior/seats/#individual-contour-seats) (Q8 e-tron)
 - [Ventilated seats](../../q8-e-tron/interior/seats/#ventilated-seats) (Q6 and Q8)
-- [Sport seats with adjustable headrest](../../q8-e-tron/interior/seats/) 
+- [Sport seats with adjustable headrest](../../q8-e-tron/interior/seats/)
 - [Massage seats](../../q8-e-tron/interior/seats/#massage) (Q6 and Q8)
 - [Length adjustable headrest](../../q8-e-tron/interior/seats/#massage)
 - [Crossing assist](../../q8-e-tron/technology/drivingassistance/crossingassist/)
@@ -149,16 +149,16 @@ Most options are available on both models, but some are only available on the Q8
 - [Spare wheel](../../q8-e-tron/exterior/wheels/spare/) (Q8 e-tron)
 - [Rear window curtains](../../q8-e-tron/interior/curtain/) (Q6 and Q8)
 - [Heated rear seats](../../q8-e-tron/interior/seats/#seat-heating) (Q6 and Q8)
-- [Virtual mirrors](../../q8-e-tron/exterior/mirrors/#virtual-mirrors) 
+- [Virtual mirrors](../../q8-e-tron/exterior/mirrors/#virtual-mirrors)
 - [Additional charge port](../../q8-e-tron/technology/onboardcharger/#optional-charge-port) (Q6 and Q8)
 - [22KW AC charging](../../q8-e-tron/technology/onboardcharger/#optional-22kw-charger)
-- [Orange painted calibers](../../q8-e-tron/exterior/paintedcalibers/)
+- [Orange painted calipers](../../q8-e-tron/exterior/paintedcalibers/)
 
 If one or more of these options are essential for you, this can be a deciding factor.
 
 ## Price
 
-The starting price is significantly lower on the Q4 e-tron 50 than Audi e-tron 55. But different markets have different packages that give various price differences. In markets where the buyers freely can select options, the starting price difference is about $20.000 / £20.000
+The starting price is significantly lower on the Q4 e-tron 50 than Audi e-tron 55. But different markets have different packages that give various price differences. In markets where the buyers freely can select options, the starting price difference is about $20,000 / £20,000
 
 ## So which one should you select?
 
@@ -596,7 +596,7 @@ Below, you will see the models' full specifications and comparison options.
         <td><a href="../../q8-e-tron/technology/drivingassistance/presenseside/">option</a></td>
     </tr>
     <tr>
-        <td>Effiency assist</td>
+        <td>Efficiency assist</td>
         <td><a href="../../q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/">standard</a></td>
         <td><a href="../../q6-e-tron/technology/drivingassistance/predictiveefficiencyassist/">standard</a></td>
         <td><a href="../../q8-e-tron/technology/drivingassistance/predictiveefficiencyassist/">standard</a></td>
@@ -717,7 +717,7 @@ Below, you will see the models' full specifications and comparison options.
         <td><a href="../../q8-e-tron/technology/lights/">standard</a></td>
     </tr>
     <tr>
-        <td>Dynamic lightning</td>
+        <td>Dynamic lighting</td>
         <td><a href="../../q4-e-tron/technology/lights/">option</a></td>
         <td><a href="../../q6-e-tron/technology/lights/">option</a></td>
         <td><a href="../../q8-e-tron/technology/lights/">option</a></td>
@@ -733,7 +733,7 @@ Below, you will see the models' full specifications and comparison options.
         <td><a href="../../q4-e-tron/exterior/mirrors/">standard</a></td>
         <td><a href="../../q6-e-tron/exterior/mirrors/">standard</a></td>
         <td><a href="../../q8-e-tron/exterior/mirrors/">standard</a></td>
-    </tr>   
+    </tr>
     <tr>
         <td>Mirrors with memory</td>
         <td><a href="../../q4-e-tron/exterior/mirrors/">option</a></td>
@@ -849,13 +849,13 @@ Below, you will see the models' full specifications and comparison options.
         <td><a href="../../q8-e-tron/exterior/windows/">option</a></td>
     </tr>
     <tr>
-        <td>Accoustic windows front</td>
+        <td>Acoustic windows front</td>
         <td><a href="../../q4-e-tron/exterior/windows/">option</a></td>
         <td><a href="../../q6-e-tron/exterior/windows/">option</a></td>
         <td><a href="../../q8-e-tron/exterior/windows/">option</a></td>
     </tr>
     <tr>
-        <td>Accoustic windows rear</td>
+        <td>Acoustic windows rear</td>
         <td>N/A</td>
         <td>N/A</td>
         <td><a href="../../q8-e-tron/exterior/windows/">option</a></td>
@@ -882,7 +882,7 @@ Below, you will see the models' full specifications and comparison options.
 </table>
 </div>
 
-## Dimmensions
+## Dimensions
 
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/comparisons/q455q6q855/dimmensions_1_st.webp" width="3000" height="1999" title="Audi Q4 e-tron vs Audi Q6 e-tron vs Audi Q8 e-tron" >}}
@@ -890,4 +890,3 @@ Below, you will see the models' full specifications and comparison options.
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/comparisons/q455q6q855/dimmensions_2_st.webp" width="3000" height="1999" title="Audi Q4 e-tron vs Audi Q6 e-tron vs Audi Q8 e-tron" >}}
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/comparisons/q455q6q855/dimmensions_3_st.webp" width="3000" height="1999" title="Audi Q4 e-tron vs Audi Q6 e-tron vs Audi Q8 e-tron" >}}
-

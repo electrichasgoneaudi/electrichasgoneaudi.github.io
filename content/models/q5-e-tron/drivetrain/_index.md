@@ -35,8 +35,8 @@ Both variants use the same battery pack:
 
 | Variant | CLTC range | Consumption |
 |---|---|---|
-| Q5 e-tron 40 | 560 km | 13.7 kWh/100 km |
-| Q5 e-tron 50 quattro | 550 km | 13.9 kWh/100 km |
+| Q5 e-tron 40 | 560 km | 15.9 kWh/100 km |
+| Q5 e-tron 50 quattro | 550 km | 16.2 kWh/100 km |
 
 ## Charging
 

@@ -202,7 +202,7 @@ Compact electric model spotted in prototype testing. Expected to be Audi's entry
 </p>
 <div class="flex flex-wrap gap-2 mb-4">
 <span class="bg-green-100 text-green-800 text-xs font-semibold px-3 py-1 rounded-full">Prototype Stage</span>
-<span class="bg-gray-100 text-gray-700 text-xs font-semibold px-3 py-1 rounded-full">TBD Launch</span>
+<span class="bg-gray-100 text-gray-700 text-xs font-semibold px-3 py-1 rounded-full">Launch timing unconfirmed</span>
 </div>
 <a href="a2-e-tron/" class="block w-full bg-green-500 hover:bg-green-600 text-white font-medium py-3 px-4 rounded-lg text-center transition-colors duration-200" style="color: white !important;">
 View Details

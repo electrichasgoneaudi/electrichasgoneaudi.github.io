@@ -1,13 +1,13 @@
 ---
 title: Audi Q6 e-tron park assist
 linktitle: Park assist
-description: Audi Q6 e-tron can be equipped with park assist. Park assist can automatically steer the car into parallel or perpendicular parking spaces. It uses ultrasonic sensors located in the front and rear bumpers and on the sides. The driver only has to accelerate, brake and shift gears.
+description: Park assist plus can identify suitable spaces and support manoeuvring into and out of them.
 weight: 1
 sectiontabs: "/models/q6-e-tron/technology/"
 ---
 
-The sensors measure parking spaces along the road while driving past them at moderate speed – a maximum of 20 km/h (12.4 mph) for perpendicular parking spaces and a maximum of 30 km/h (18.6 mph) for parallel spaces. A message appears on the MMI display when the system finds a suitable spot. The only actions required of the driver while parking are accelerating, shifting gears and braking. The system handles the steering. In addition, audible signals help the driver. Park assist will make multiple maneuvers, forwards and backwards, if necessary. It can also exit from parallel parking spaces. Depending on the model, the driver activates the system via either a button on the center console or a button in the lower infotainment display. The maximum speed for all maneuvers is 7 km/h (4.3 mph).
+Park assist plus uses ultrasonic sensors and cameras to identify suitable parallel or perpendicular parking spaces. Once the driver selects a space, the system can control the steering and other manoeuvring inputs while the driver supervises the process and remains ready to intervene.
 
-Park assist has option id **7X5** and is available as [function on demand](../../fod) through the myAudiApp
+Depending on equipment and market, additional functions can include trained parking or remote park assist plus, which lets the driver supervise a compatible manoeuvre from outside the car using the myAudi app.
 
-
+System capabilities and availability vary by country, model year and equipment package.

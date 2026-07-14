@@ -17,7 +17,7 @@ The display shows a wide range of information clearly and in neat, sharp, highly
     <figcaption><h4>Virtual cockpit view is controlled on the steering wheel</h4></figcaption>
 </figure>
 
-The driver can use the View button on the multifunction steering wheel to switch the Audi virtual cockpit between two views: While the tachometer and speedometer are displayed as large dial-type gages in driving view, a central window dominates in infotainment view. It creates a large stage for the navigation map or for lists in the phone, radio and audio areas. In this case, the tachometer and speedometer are displayed as small dial instruments.
+The driver can use the View button on the multifunction steering wheel to switch the Audi virtual cockpit between two views: While the tachometer and speedometer are displayed as large dial-type gauges in driving view, a central window dominates in infotainment view. It creates a large stage for the navigation map or for lists in the phone, radio and audio areas. In this case, the tachometer and speedometer are displayed as small dial instruments.
 
 ## Virtual cockpit modes
 
@@ -52,4 +52,3 @@ Below you see some of the mode and views available in Virtual Cockpit
     </a>
     <figcaption><h4>Virtual cockpit</h4></figcaption>
 </figure>
-

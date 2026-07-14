@@ -1,7 +1,11 @@
 ---
-title: Audi Q6 e-tron optics and single-frame-grill
-linktitle: Optics & Grill
-description: Audi Q6 e-tron can be deliverd with standard or black optics package and grill in different colors. 
+title: Audi A6 e-tron exterior trim
+linktitle: Exterior trim
+description: Exterior trim packages alter the finish of the Audi A6 e-tron's Singleframe, window surrounds and badges.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
+
+The closed, inverted Singleframe is integrated into a dark mask that also contains the headlights and sensors. Depending on the design line and market, contrasting or black exterior packages change the finish of the Singleframe surround, window trim, mirror housings and badges.
+
+Combinations and package names vary by variant, country and model year.

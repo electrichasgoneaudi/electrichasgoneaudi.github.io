@@ -15,7 +15,7 @@ You should read through the whole [option list](list) but below are the most imp
 
 Without smartphone interface you are not able to use Android Auto / Apple Carplay and then use apps like Waze or control Spotify in a good way.
 
-Currently this is only avaiable in the infotainment package with optionID **PYX** that also include phone box, and two USB-C in rear seats.
+Currently this is only available in the infotainment package with optionID **PYX** that also include phone box, and two USB-C in rear seats.
 
 [See smartphone interface for details.](../technology/uiandoperations/smartphoneinterface/)
 
@@ -32,7 +32,7 @@ Improves looks a lot and you dont need to drive around in a fish tank on display
 ## MMI Navigation plus: Option ID PYG
 
 With the MMI Navigation Plus option you get MMI navigation system and Virtual Cockpit.
-Having a built in Navigation System gives serveral advantages over using your phone.
+Having a built in Navigation System gives several advantages over using your phone.
 
 See details on [MMI Navigation Plus](../technology/uiandoperations/navigation/) and
 [Virtual Cockpit](../technology/uiandoperations/virtualcockpit/)
@@ -55,11 +55,11 @@ Side assist is not part Assistantpackage Pro but is included in the security pac
 
 ![QQ2](https://media.evkx.net/ehga/models/q4-e-tron/optionguide/qq2.webp)
 
-## Multicolour ambient lightning: Option ID QQ2
+## Multicolour ambient lighting: Option ID QQ2
 
-With multicolor ambient lightning the look and feel inside the car gets to another planet.
+With multicolor ambient lighting the look and feel inside the car gets to another planet.
 
-[See ambient lightning to get convinced](../interior/lights/)
+[See ambient lighting to get convinced](../interior/lights/)
 
 ## Full option list
 

@@ -1,11 +1,11 @@
 ---
-title: Thermal management 
-linktitle: Thermal management 
+title: Thermal management
+linktitle: Thermal management
 description: Thermal management is important for battery performance and health
 weight: 6
 ---
 <!-- markdownlint-disable MD033 -->
-The optimal temperature for a battery is around 20-30 degrees Celcius for operating. For storage, the optimal temperature is even lower.
+The optimal temperature for a battery is around 20-30 degrees Celsius for operating. For storage, the optimal temperature is even lower.
 
 A battery pack has a thermal management system to try to keep the battery in the best operating condition.
 

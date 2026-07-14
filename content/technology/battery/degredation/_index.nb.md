@@ -1,11 +1,11 @@
 ---
-title: Battery degradering
+title: Batteridegradering
 linktitle: Degradering
 description: Ytelsen til litium-ion-batterier forringes over tid, enten de brukes eller ikke. Dette påvirker ytelsen og rekkevidden til elbiler.
 weight: 7
 ---
 <!-- markdownlint-disable MD033 -->
-Degradering basert på bruk kalles syklusdegradering og aldring basert på tid kalles kalenderdegraering
+Degradering som skyldes bruk kalles syklusdegradering, mens aldring over tid kalles kalenderdegradering.
 
 De to hovedkonsekvensene av degradering er energikapasitetsreduksjon og kraftreduksjon.
 
@@ -71,4 +71,3 @@ Når dette skjer, reduseres de tilgjengelige ionene i batteriet. Høyhastighetsl
 - Ikke parker bilen med High SOC over lang tid
 - Ikke parker bilen i ekstrem varme
 - Begrens høyhastighetslading.
-

@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron GT driver assistence systems
+title: Audi e-tron GT driver assistance systems
 linktitle: Driver Assistance
-description: The Audi e-tron GT quattro and RS e-tron GT are being launched on the market with a wide range of driver assist systems. The Audi pre sense front and Audi pre sense basic safety systems as well as the lane departure warning system and cruise control system are standard features. 
+description: The Audi e-tron GT quattro and RS e-tron GT are being launched on the market with a wide range of driver assist systems. The Audi pre sense front and Audi pre sense basic safety systems as well as the lane departure warning system and cruise control system are standard features.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->

@@ -1,97 +1,59 @@
 ---
 title: SSP (Scalable Systems Platform)
 linktitle: SSP
-description: Fra 2026 vil Volkswagen Group samle sine fremtidige teknologier på Scalable Systems Platform (SSP). Etter det modulære elektriske drivsettet (MEB) og Premium Platform Electric (PPE), representerer SSP neste generasjon av helelektrisk, heldigital og svært skalerbar mekatronikkplattform.
+description: SSP er Volkswagen-konsernets fremtidige, konsernfelles elbilarkitektur. Lanseringen ventes nå mot slutten av tiåret.
 weight: 5
 ---
 <!-- markdownlint-disable MD033 -->
-I fremtiden vil det være mulig å bygge modeller fra alle merker og segmenter på SSP – mer enn 40 millioner gruppebiler gjennom hele livssyklusen.
 
-<figure>
-    <a href="https://media.evkx.net/ehga/technology/bev-platforms/ssp/drivetrain.webp">
-        <img src="https://media.evkx.net/ehga/technology/bev-platforms/ssp/drivetrains.webp"
-        class="img-fluid" alt="SSP Drivetrain" title="SSP Drivetrain">
-    </a>
-    <figcaption><h4>SSP Drivetrain</h4></figcaption>
-</figure>
+**Scalable Systems Platform (SSP)** er Volkswagen-konsernets planlagte neste generasjon arkitektur for batterielektriske, programvaredefinerte biler. Den skal over tid samle teknologi som i dag er fordelt på plattformer som MEB og PPE, og støtte biler fra flere av konsernets merker og segmenter.
 
-Med SSP kan Volkswagen Group raskt og effektivt gi sine kunder innovative funksjoner i bilene sine, på tvers av de fleste merkene. Dette gjør SSP-nøkkelen til autonom kjøring. Samtidig oppnås betydelige stordriftsfordeler, samtidig som kompleksitet og utviklingskostnader reduseres.
+> **Oppdatert tidsplan:** Tidlige presentasjoner fra Volkswagen-konsernet tok sikte på en første SSP-lansering i 2026. Dagens plan beskriver i stedet SSP-baserte biler mot slutten av tiåret. De tidligere annonserte tidsplanene for Artemis, Trinity, Audi Q8 e-tron og Audi A8 e-tron ble ikke realisert, og modellene er derfor ikke oppført som kommende produksjonsmodeller her.
 
 <figure>
     <a href="https://media.evkx.net/ehga/technology/bev-platforms/ssp/ssp1.webp">
         <img src="https://media.evkx.net/ehga/technology/bev-platforms/ssp/ssp1s.webp"
-        class="img-fluid" alt="SSP vil være den eneste plattformen for VW i fremtiden" title="SSP vil være den eneste plattformen for VW i fremtiden">
+        class="img-fluid" alt="Volkswagen-konsernets opprinnelige SSP-plan" title="Volkswagen-konsernets opprinnelige SSP-plan">
     </a>
-    <figcaption><h4>SSP vil være den eneste plattformen for VW i fremtiden</h4></figcaption>
+    <figcaption><h4>Volkswagen-konsernets opprinnelige SSP-plan fra 2021</h4></figcaption>
 </figure>
 
-Ved å kombinere ulike moduler med ulike størrelser på plattformer, har konsernets merkevarer også en rekke muligheter til å differensiere seg.
+## Omfang
 
-Fra 2025 vil Audis Artemis-prosjekt bruke betydelige SSP-moduler for første gang. I 2026 vil Volkswagen introdusere denne teknologien til høyvolumsegmentet med sin første modell basert på SSP – «Trinity»-prosjektet.
-
-## Modeller
-
-De første modellene fra Audi på denne plattformen forventes å komme
-
-- Audi Q8 e-tron (2025) (Artemis-prosjekt)
-- Audi A8 e-tron (2026) (Apollon-prosjektet)
-
-<figure>
-    <a href="https://media.evkx.net/ehga/technology/bev-platforms/ssp/ssp2.webp">
-        <img src="https://media.evkx.net/ehga/technology/bev-platforms/ssp/ssp2s.webp"
-        class="img-fluid" alt="Modeller på SSP" title="Modeller på SSP">
-    </a>
-    <figcaption><h4>Modeller på SSP</h4></figcaption>
-</figure>
-
-<figure>
-    <a href="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_1.webp">
-        <img src="https://media.evkx.net/ehga/articles/audiskysphereconcept/audiskysphereconcept_1s.webp" class="img-fluid" alt="Skyspehere-konseptet kan bli en realitet på SSP" title="Skyspehere-konseptet kan bli en realitet på SSP">
-    </a>
-    <figcaption><h4>Skyspehere-konseptet kan bli en realitet på SSP</h4></figcaption>
-</figure>
-
-## Konfigurasjon
-
-Med SSP kan bilmodellene konfigureres i forskjellige oppsett for å støtte modeller fra VW til Porsche.
+SSP er utviklet som en skalerbar arkitektur, ikke som én fast bilplattform. Ulike sporvidder, akselavstander, effektnivåer og kjøretøyhøyder skal gjøre det mulig for konsernets merker å utvikle tydelig forskjellige biler samtidig som viktige maskin- og programvarekomponenter deles.
 
 <figure>
     <a href="https://media.evkx.net/ehga/technology/bev-platforms/ssp/ssp3.webp">
         <img src="https://media.evkx.net/ehga/technology/bev-platforms/ssp/ssp3s.webp"
-        class="img-fluid" alt="Mange konfigurasjonsmuligheter med SSP" title="Mange konfigurasjonsmuligheter med SSP">
+        class="img-fluid" alt="Konfigurasjonsmuligheter for SSP" title="Konfigurasjonsmuligheter for SSP">
     </a>
-    <figcaption><h4>Mange konfigurasjonsmuligheter med SSP</h4></figcaption>
+    <figcaption><h4>Konfigurasjonsmuligheter vist i den opprinnelige SSP-presentasjonen</h4></figcaption>
 </figure>
 
-## Batteri
+## Batteri og drivlinje
 
-Som PPE og J1 vil SSP-plattformen bruke 800 volt teknologi.
-
-En av de viktigste endringene til batteriet på SSP sammenlignet med andre plattformer er den nye enhetlige batteriteknologien. VWs unified cells bruker de samme fysiske pakkeformatene, bare med forskjellig kjemi inni, for å gjøre design av fremtidige elbiler rimeligere og krever mindre tid.
+Volkswagen-konsernet har presentert SSP med høyt integrerte batteripakker, konsernets strategi for en enhetlig battericelle og en elektrisk arkitektur utviklet for hurtiglading. Fullstendige produksjonsspesifikasjoner, inkludert spenning, batterikapasitet og ladeeffekt, er ennå ikke bekreftet for en Audi-modell på SSP.
 
 <figure>
     <a href="https://media.evkx.net/ehga/technology/bev-platforms/ssp/unifiedcell1.webp">
         <img src="https://media.evkx.net/ehga/technology/bev-platforms/ssp/unifiedcell1s.webp"
-        class="img-fluid" alt="VW Unified cell" title="VW Unified cell">
+        class="img-fluid" alt="Volkswagens konsept for en enhetlig battericelle" title="Volkswagens konsept for en enhetlig battericelle">
     </a>
-    <figcaption><h4>VW Unified cell</h4></figcaption>
+    <figcaption><h4>Volkswagens konsept for en enhetlig battericelle</h4></figcaption>
 </figure>
 
-## Unified Software-plattform
+## Programvaredefinert kjøretøyarkitektur
 
-Med mer og mer integrert funksjonalitet og et høyere behov for integrering av sensorer og autonome kjøreegenskaper, har Volkswagen besluttet å lage en ny integrert programvareplattform som skal brukes på de forskjellige modellene til de forskjellige merkene.
+Programvare er en sentral del av SSP-programmet. Volkswagen-konsernet og Rivian Automotive etablerte fellesforetaket **Rivian and VW Group Technology** for å utvikle en sonedelt elektronikkarkitektur og kjøretøyprogramvare. Volkswagen-konsernet opplyser at teknologien skal brukes i fremtidige SSP-biler, og at referansebiler fra Volkswagen, Audi og Scout inngår i utviklingstestingen.
 
-Dette vil alltid være koblet til å motta programvareoppdateringer, sammenlignet med dagens plattform hvor oppdateringer krever besøk hos forhandler.
+Målet er å samle bilens funksjoner i et mindre antall kraftige datamaskiner og støtte fortløpende trådløse oppdateringer. De nøyaktige funksjonene vil avhenge av produksjonsmodell og marked.
 
-VW har opprettet et nytt selskap, kalt Cariad som står for dette. Besøk deres [hjemmeside](https://cariad.technology/) for mer informasjon.
+## Historisk materiale
 
-Se denne videoen for detaljert informasjon om programvareplattformene.
+Bildene og presentasjonen nedenfor dokumenterer Volkswagen-konsernets strategi slik den ble presentert i juli 2021. De er nyttig bakgrunnsmateriale, men datoene og modellantakelsene er ikke lenger gjeldende.
+
+[Se SSP-presentasjonen fra 2021 med daværende Audi-sjef Markus Duesmann](https://comsatmedia.s3.eu-west-1.amazonaws.com/vw/vwnewsroom/2021-07-13_strategy_day/vw_210713_strategyday_speech_duesmann_en.mp4).
 
 {{< youtube i387_JqUqAI >}}
 
-## SSP-presentasjon
-
-[Se Audi-formann Markus Duesmann snakke om SSP](https://comsatmedia.s3.eu-west-1.amazonaws.com/vw/vwnewsroom/2021-07-13_strategy_day/vw_210713_strategyday_speech_duesmann_en.mp4) fra juli 13 2021
-
 {{<children description="true" />}}
-

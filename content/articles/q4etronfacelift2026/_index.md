@@ -56,5 +56,3 @@ Standard driver assistance includes parking system plus with distance display, c
 In Germany, the new Q4 e-tron starts at €47,500 for the 63 kWh SUV and €53,500 for the 82 kWh SUV. The Sportback commands a €1,950 premium, opening at €49,450 and €55,450 respectively. Orders open across Europe in May 2026, with first deliveries scheduled for summer 2026.
 
 {{<children description="true" />}}
-</content>
-</invoke>

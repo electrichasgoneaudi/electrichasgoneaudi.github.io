@@ -1,5 +1,5 @@
 ---
-title: Audi Q8 e-tron driver assistence systems
+title: Audi Q8 e-tron driver assistance systems
 linktitle: Driver Assistance
 description: There are around 40 driver assistance systems available in the Audi Q8 e-tron
 weight: 1
@@ -11,12 +11,12 @@ Up to five radar sensors, five cameras, and 12 ultrasonic sensors provide enviro
 <figure>
     <a href="https://media.evkx.net/ehga/models/q8-e-tron/technology/drivingassistance/sensors.webp">
         <img src="https://media.evkx.net/ehga/models/q8-e-tron/technology/drivingassistance/sensors_st.webp"
-        class="img-fluid" alt="Audi Q8 e-tron - sensors and cameraes" title="Audi Q8 e-tron - sensors and cameraes">
+        class="img-fluid" alt="Audi Q8 e-tron - sensors and cameras" title="Audi Q8 e-tron - sensors and cameras">
     </a>
-    <figcaption><h4>Audi Q8 e-tron - sensors and cameraes</h4></figcaption>
+    <figcaption><h4>Audi Q8 e-tron - sensors and cameras</h4></figcaption>
 </figure>
 
-Important driver assist systems come as standard, the optional systems are subdivided into packages: The assist pacakage tour (PCC), assistent package city (PCM), side assist package (PCH). In addition there are other standalone options.
+Important driver assist systems come as standard, the optional systems are subdivided into packages: The assist package tour (PCC), assistant package city (PCM), side assist package (PCH). In addition there are other standalone options.
 
 
 | **System**    | **Available** |

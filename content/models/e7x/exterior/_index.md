@@ -67,7 +67,7 @@ From the **Pioneer Pro** upwards, the E7X comes standard with **digital camera-b
 
 ## Panoramic roof
 
-The **Smart Electrochromic Panoramic Roof** features a large 2,195 m² glass area with electronically adjustable tinting, blocking 99.99% of UV, 99.9% of infrared and 99.85% of solar radiation.
+The **Smart Electrochromic Panoramic Roof** features a 2.195 m² glass area with electronically adjustable tinting, blocking 99.99% of UV, 99.9% of infrared and 99.85% of solar radiation.
 
 {{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/exterior_633f7_st.webp" width="1920" height="1080" title="AUDI E7X" >}}
 

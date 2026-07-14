@@ -1,10 +1,11 @@
 ---
 title: Audi Q8 e-tron multimedia
 linktitle: Multimedia
-description: Her finner du diverse multimedia innhold relatert til Audi e-tron. 
+description: Her finner du utvalgt multimedieinnhold om Audi Q8 e-tron.
 weight: 20
 ---
 
+Nedenfor finner du lanseringsfilmer, modellpresentasjoner og eierorienterte videoer om Audi Q8 e-tron. Videotitlene står på språket utgiverne har brukt.
 
 ## Audi Q8 e-tron and Audi SQ8 Sportback e-tron
 

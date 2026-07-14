@@ -176,7 +176,7 @@ The 95kWh uses a second floor under the rear seats to get the room needed for th
 
 The diagram below shows how the e-tron 50 / e-tron Sportback 50 has fewer modules.
 
-Sophisticated measures have been taken to protect the high-voltage battery of the Audi etron. A strong enclosing frame of cast aluminum nodes and extruded sections, plus an aluminum plate 3.5 millimeters (0.1 in) thick protect against damage from accidents or curbs. Inside, a framework-like aluminum structure reinforces the battery system. Also 
+Sophisticated measures have been taken to protect the high-voltage battery of the Audi etron. A strong enclosing frame of cast aluminum nodes and extruded sections, plus an aluminum plate 3.5 millimeters (0.1 in) thick protect against damage from accidents or curbs. Inside, a framework-like aluminum structure reinforces the battery system. Also
 comprised of extruded sections, it holds the cell modules like a typecase.
 
 <figure>
@@ -238,7 +238,7 @@ For the 95kWh battery, the max charging speed is 150kW.
     <figcaption><h4>Charging curve Audi e-tron 55</h4></figcaption>
 </figure>
 
-[Diagramm from FASTNED](https://support.fastned.nl/hc/en-gb/articles/360000815988-Charging-with-an-Audi-e-tron)
+[Diagram from FASTNED](https://support.fastned.nl/hc/en-gb/articles/360000815988-Charging-with-an-Audi-e-tron)
 
 Several cars have higher top speed on charging, but the consistently high performance from low SOC to high SOC makes it faster than most other cars.
 
@@ -253,6 +253,6 @@ See video comparison below.
 
 {{< youtube -3IF26OoKJ0 >}}
 
-In cold weather, the charging speed typical will get lower in the beginning until the temprature comes up. Audi e-tron does not pre-heat the battery before charging.
+In cold weather, the charging speed typical will get lower in the beginning until the temperature comes up. Audi e-tron does not pre-heat the battery before charging.
 
 {{<children description="true" />}}

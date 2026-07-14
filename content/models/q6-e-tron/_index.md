@@ -1,189 +1,70 @@
 ---
 title: Audi Q6 e-tron
 linktitle: Audi Q6 e-tron
-description: The Audi Q6 e-tron is the newest all-electric model from Audi and has set a new standard in many aspects for Audi.
+description: The Audi Q6 e-tron is a PPE-based electric SUV and Sportback with 800-volt charging, up to 656 km WLTP range, and advanced digital lighting.
 weight: 4
 shownavtabs: true
 ---
-
 <!-- markdownlint-disable MD033 -->
-The Audi Q6 e-tron had its world premiere on March 18, 2024. It is Audi's fifth all-electric model and the most sporty SUV. In size, it is between the [Audi Q4 e-tron](../../models/q4-e-tron/) and the [Audi Q8 e-tron](../../models/q8-e-tron/).
 
-Audi built the Q6 e-tron on the new [PPE platform](../../technology/bev-platforms/ppe/) created by Porsche and Audi. The first customers can expect to receive the Audi Q6 e-tron in the summer of 2024 as a 2025 model.
+The **Audi Q6 e-tron** is a midsize electric SUV positioned between the [Q4 e-tron](../q4-e-tron/) and the former [Q8 e-tron](../q8-e-tron/). The SUV had its world premiere on March 18, 2024, and the Sportback followed in October 2024. Both body styles are now part of the model range.
 
-If you want to discuss this model with the electrichasgoneaudi community, join our [Audi Q6 e-tron Facebook group](https://www.facebook.com/groups/114120244068685). 
+It is the first high-volume Audi model based on the **Premium Platform Electric (PPE)** developed with Porsche, and the first fully electric model produced at Audi's main plant in Ingolstadt.
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/q6dynamic_1_st.webp" width="3000" height="1999" title="Audi SQ6 e-tron" >}}
 
+## Variants
 
-## Audi Q6 e-tron variants.
+The model family includes rear-wheel-drive, quattro, and S versions in both SUV and Sportback form. Battery capacity, output, range, and equipment vary by market and model year.
 
-Audi has currently released information about four variants that are available to order. 
+Confirmed model lines include:
 
-At a later stage, Sportback versions (SUV Coupe) will be available.
+- Audi Q6 e-tron and Q6 Sportback e-tron with rear-wheel drive
+- Audi Q6 e-tron performance and Q6 Sportback e-tron performance
+- Audi Q6 e-tron quattro and Q6 Sportback e-tron quattro
+- Audi SQ6 e-tron and SQ6 Sportback e-tron
 
-- [Audi Q6 e-tron quattro](variants/#audi-q6-e-tron-quattro) with 100kWh battery and up to 625 km WLTP range (From 74.700 euros)
-- [Audi SQ6 e-tron](variants/#audi-sq6-e-tron) with 100 kWh battery and up to 615 km WLTP range (From 93.800 euros)
-- [Audi Q6L e-tron quattro](variants/#audi-q6-e-tron-quattro) with 107kWh battery and up to 700 km CLTC range (China Only)
-- [Audi Q6L e-tron](variants/#audi-q6-e-tron-quattro) with 107kWh battery and up to 700 km CLTC range (China Only)
-
-
-Electrichasgoneaudi.net expects the following variants to be available at a later time.
-
-- Audi Q6 50 e-tron with 100kWh battery and up to approx 650km WLTP range (confirmed)
-- Audi Q6 45 e-tron with 83kWh battery and up to approx 540 km WLTP Range (confirmed)
-- Audi Q6 Sportback e-tron quattro with 100kWh battery and up to  approx 640 km WLTP range
-- Audi SQ6 Sportback e-tron with 100 kWh battery and up to 625 km  WLTP range
-- Audi Q6 Sportback 50 e-tron with 100kWh battery and up to approx 650km WLTP range
-- Audi Q6 Sportback 45 e-tron with 83kWh battery and up to 540 km WLTP Range
-  
-See all details in the [Audi Q6 e-tron variants section](variants/).
+The Sportback performance has the longest official range in the family at up to **656 km WLTP**. See the [variants section](variants/) for model-by-model details.
 
 ## Exterior
 
-The Audi Q6 e-tron will be available in SUV and Sportback designs, like the Audi Q4 e-tron and Audi Q8 e-tron. It also has a large set of available colors, and you can order it with Audi-exclusive colors.
-Black optics and black optics plus packages are options. 
+The Q6 e-tron combines Audi SUV proportions with a closed Singleframe, split headlights, and a continuous rear light strip. SUV and Sportback body styles are available, together with multiple equipment lines, exterior trim packages, wheel sizes, and paint finishes.
 
-It is the same with tinted windows and a panoramic roof.
+Second-generation digital OLED rear lights and the active digital light signature allow selectable graphics and can display warning symbols to other road users in critical situations.
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/q6exterior_1_st.webp" width="3000" height="2249" title="Audi SQ6 e-tron" >}}
 
-There are currently wheel options from 19 to 21 inches.
-
-See all details in the [Audi Q6 e-tron exterior section](exterior/).
-
+Explore the [exterior section](exterior/) for paint, wheels, lighting, mirrors, and styling packages.
 
 ## Interior
 
- The Audi Q6 e-tron has three different seat options: standard, sports, and sport plus seats, some with ventilation and some massage. It is available with an animal-free interior and an entire leather interior in different colors. There are also S-line interior options.
+The digital stage combines an **11.9-inch Audi virtual cockpit** and **14.5-inch MMI touch display**. A **10.9-inch front-passenger display** is optional. Depending on equipment, the Q6 e-tron is also available with an augmented-reality head-up display, Android Automotive-based infotainment, an app store, and a Bang & Olufsen sound system with headrest speakers.
 
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/interior/interior_5_st.webp" width="3000" height="2249" title="Audi Q6 interior" >}}
+Seat choices include standard, sport, and sport plus designs, with heating, ventilation, massage, and leather-free materials available in selected configurations.
 
-See all the details in the [Audi Q6 e-tron interior section](interior/)
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/interior/interior_5_st.webp" width="3000" height="2249" title="Audi Q6 e-tron interior" >}}
 
-## Drivetrain
+See the [interior section](interior/) for screens, seats, materials, storage, and controls.
 
-### Battery & Range
+## Drivetrain and charging
 
-The battery in the Q6 e-tron consists of twelve or ten modules with prismatic cells. The nickel, cobalt, and manganese ratio is 8:1:1, and the battery achieves a higher energy density.
+The Q6 e-tron uses an **800-volt electrical system**. The large battery has **100 kWh gross and 94.9 kWh usable capacity**. Selected versions are also offered with an 83 kWh gross battery.
 
-The battery with the launch to have the following specifications
+The 100 kWh quattro models charge at up to **270 kW**, taking approximately **21 minutes from 10 to 80%** under ideal conditions. The Sportback performance takes around 22 minutes, while maximum charging power varies with battery and drivetrain. At compatible 400-volt chargers, bank charging divides the battery into two 400-volt sections that charge in parallel.
 
-- Twelve modules/180 cells with 100 kWh gross (96.8 kWh net)
-- Twelve modules/192 cells with 107 kWh gross (96.8 kWh net) (China only)
-
-These batteries will give the Audi Q6 e-tron a WLTP of 625km, depending on the trim level for the 100kWh battery (15.18 kWh/100km). Thanks to 800-volt technology, the Q6 e-tron can be charged with a capacity of more than 270kW.
-
-
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/battery/charging_1_st.webp" width="3000" height="2249" title="Audi Q6 e-tron with up to 270 KW charging" >}}
-
-You can charge the battery from five to 80 percent in less than 25 minutes on an 800-volt 350KW charger.
-
-If the station uses 400-volt technology, the Q6 e-tron uses 'bank charging' for the first time, whereby corresponding high-voltage switches (gates) are automatically switched in the battery before the actual charging process begins. This technology effectively splits the 800-volt battery into two batteries with a nominal voltage of 400 volts each that can charge in parallel on one 400-volt charging station without an additional HV booster. The states of charge of the two battery halves are first aligned. This functionality will only be available on the 100kWh and 107kWh battery.
-
-[Read all about the battery](drivetrain/battery/)
-
-### Motor and performance
-
-The Audi Q6 e-tron comes in different performance versions.
-
-- 2-wheel drive standard range (Audi Q6 e-tron 40?)
-- 2-wheel drive long range (Audi Q6 e-tron 45?)
-- Audi Q6 e-tron 55 quattro with 285KW/382hp (Europe version)
-- Audi Q6 e-tron 55 quattro with 340KW/382hp (US version)
-- Audi SQ6 e-tron  with 380KW/510hP + 20kw boost
-- Audi RSQ6 e-tron with 450kW and +1000nm and rear axle steering
-
-Audi will use different motor setups on the coming variants.
-
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/motors_st.webp" width="1768" height="868" title="Motors for Audi Q6 e-tron" >}}
-
-Audi uses permanently excited synchronous electric motors (PSM) with hairpin winding on the PPE platform for the rear motor and asynchronous motors on the front.
-Permanent magnets are fitted on the AC motor's rotor, generating a permanent magnetic field. As a result, compared to asynchronous motors (ASM), PSMs offer higher power and torque densities, greater efficiency, and better reproducibility of the power output.
-
-[Read all about the motors.](drivetrain/motor/)
-
-### Suspension and steering
-
-The Audi Q6 e-tron has new shock absorbers. They come with steel springs as standard or optional air suspension.
-
-The Audi Q6 e-tron introduces thrilling new feature-two-valve shock absorbers. These innovative absorbers offer a significantly greater damper characteristic spread, enhancing the vehicle's performance. But that's not all. They can also be adjusted independently, providing a noticeable boost in comfort. This unique versatility brings the driving programs of the future Q6 e-tron to life, each one offering a distinct and exhilarating experience.
-
-The Audi Drive Select is combined with air suspension and steel suspension. The system reacts to the road condition, speed, longitudinal and lateral acceleration, accelerator pedal modulation, steering behavior, and the car's position level.
-
-With air suspension, depending on the speed, the body can be lowered in combination with the air suspension, improving the aerodynamics for an increased range.
-
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/drivetrain_1_st.webp" width="3000" height="1925" title="Audi Q6 e-tron drivetrain" >}}
-
-The wheel widths on the front and rear axles differs significantly to accommodate the rear-focused weight distribution – for more grip and driving dynamics. 
-
-The Audi Drive Select is combined with the air suspension in the all-electric Q6 but may also be combined with the steel suspension. The system reacts to the condition of the road but also the speed, longitudinal and lateral acceleration, accelerator pedal modulation, steering behavior, and the position level of the car.
-
-The Q6 e-tron has a completely revised double wishbone axle with a detached strut level at the front. Its kinematics and elastokinematics enable improved responsiveness, steering precision, and straight-line driving. 
-
-[Read all about the suspension.](drivetrain/suspension/)
+The chassis uses steel springs as standard, with adaptive air suspension available depending on version. See the [drivetrain section](drivetrain/) for battery, motors, charging, suspension, and recuperation.
 
 ## Technology
 
-### Lights 
+The Q6 e-tron introduced Audi's E³ 1.2 electronic architecture, over-the-air update capability, configurable digital lighting, and a broad set of driver-assistance functions. Equipment availability differs by market and package.
 
- For the first time, customers can optionally select digital light signatures for this new evolution of digital daytime running lights in the Matrix LED headlights and the new generation of digital OLED rear lights. In addition, customers may book digital light signatures on demand.
+Read the [technology section](technology/) for lighting, infotainment, assistance systems, climate control, connectivity, and sound.
 
-The Q6 e-tron not only marks a new chapter in electromobility at Audi; lighting technology is an important part of Audi’s DNA. With the world’s first active digital light signature, the Audi Q6 e-tron ushers in a new era characterized by distinctive design and aesthetics unique to Audi.
+## Ownership resources
 
-With second-generation digital OLED rear lights, the Audi Q6 e-tron is taking light design, range of functions, and road safety to a new level.
+- [Options and equipment guide](optionguide/)
+- [Knowledge exchange and owner FAQ](knowledgeexchange/)
+- [Range and consumption](rangeandconsumption/)
+- [International Audi Q6 e-tron Facebook group](https://www.facebook.com/groups/114120244068685)
 
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/lights/headlights_1_st.webp" width="3000" height="2250" title="Audi Q6 e-tron head lights" >}}
-
-Read all about it in our [Audi Q6 e-tron  light section](technology/lights)
-
-
-### UI & MMI
-
-The Audi Q6 e-tron model series has a fully connected and digital interior based on the new electronic architecture. Made up by the Audi MMI panoramic display and the MMI passenger display, the so-called Digital Stage is a key feature of the interior.
-
-With the optional Augmented Reality Head-Up Display, another central element of the digital stage, Audi is taking a major step forward in display technology.
-
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/uiandoperations/virtualcockpit/virtualcockpit_1_st.webp" width="1920" height="900" title="Audi Q6 e-tron with virtual cockpit and MMI Panorama" >}}
-
-The new infotainment system uses  [Android Automotive](https://source.android.com/devices/automotive/start/what_automotive) OS as its operating system for the first time. Content is always up to date thanks to over-the-air updates. 
-
-Read all about the new UI & MMI system in the [Audi Q6 e-tron UI & MMI sections](technology/uiandoperations)
-
-## Transport capacity
-
-Audi Q6 e-tron to have a luggage compartment of 526 liters. It will also be available with a towbar, and the maximum capacity is 2400kg. It is also able to have 75kg load on the roof.  The frunk is 64 liters.
-
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/transportation/frunk_1_st.webp" width="3000" height="2249" title="Audi Q6 e-tron frunk" >}}
-
-
-Read all about the transportation capabilities in the [Audi Q6 e-tron transportation capability sections](transportation)
-
-
-## Options
-
-Audi Q6 is available with several options.
-
-- S-line exterior
-- Black optics
-- Different wheels
-- Different seats, including seats with massage and ventilation
-- Different driver assistant systems
-- Different lights
-
-Audi have reduced the number of combinations of options. So instead of most options being offered separately, like on the Audi Q8 e-tron, they have introduced options packages.
-
-Read all about the options in the [Audi Q6 e-tron options sections](optionguide)
-
-## Media
-
-### Audi Q6 e-tron world premiere
-
-{{< youtube NKgASBFnC9s >}}
-
-### Video by Auditography
-
-{{< youtube 57PHF0qkvlQ >}}
-
-
-
+{{<children description="true" />}}

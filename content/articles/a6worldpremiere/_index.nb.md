@@ -1,10 +1,12 @@
 ---
-title: Audi A6 e-tron world premiere
-linktitle: Audi A6 e-tron premiere
-description: The Audi A6 e-tron concept debuted at the Auto Shanghai 2021 trade fair as the forerunner of an innovative family of all-electric volume models. Audi is now launching the A6 e-tron as a Sportback and Avant.
+title: Verdenspremiere på Audi A6 e-tron
+linktitle: Audi A6 e-tron-premiere
+description: Audi A6 e-tron concept ble vist i Shanghai i 2021. Produksjonsmodellen hadde verdenspremiere som Sportback og Avant i juli 2024.
 weight: 99988
 ---
 <!-- markdownlint-disable MD033 -->
+
+> **Historisk lanseringsartikkel:** Denne siden gjengir verdenspremieren på A6 e-tron i juli 2024. Se den [oppdaterte oversikten over A6 e-tron](../../models/a6-e-tron/) for dagens modellutvalg.
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/avant_final_st.webp" width="3000" height="2249" title="Audi A6 Avant e-tron" >}}
 

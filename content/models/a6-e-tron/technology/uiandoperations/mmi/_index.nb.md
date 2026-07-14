@@ -1,16 +1,18 @@
 ---
 title: Audi A6 e-tron MMI
 linktitle: Audi MMI
-description: Audi A6 e-tron er utstyrt med den nyeste utviklingsfasen av sine MMI-betjeningskonsepter med MMI touch response.
+description: Digital Stage i Audi A6 e-tron kombinerer en buet panoramaskjerm med et valgfritt passasjerdisplay.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
-MMI panoramaskjermen, med sin buede design og OLED-teknologi, består av den 11,9-tommers Audi virtuelle cockpiten og den 14,5-tommers MMI berøringsskjermen og, sammen med den 10,9-tommers MMI frontpassasjerskjermen, danner en digital scene med visuelt klart design.
+Den buede OLED-baserte MMI-panoramaskjermen kombinerer en 11,9-tommers Audi virtual cockpit med en 14,5-tommers MMI-berøringsskjerm. Infotainmentsystemet bruker Android Automotive OS og støtter trådløse oppdateringer og markedsavhengige apper gjennom en integrert butikk.
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/technology/uiandoperations/mmi/mmi_2_st.webp" width="3000" height="2250" title="Audi A6 e-tron med virtuell cockpit, MMI skjerm og MMI frontpassasjerskjerm" >}}
 
 
 
 ## Passasjerskjerm
+
+Et valgfritt 10,9-tommers MMI-passasjerdisplay utvider Digital Stage. Active Privacy Mode begrenser førerens innsyn i distraherende innhold mens bilen er i bevegelse.
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/technology/uiandoperations/mmi/mmi_3.webp" width="3000" height="2249" title="Audi A6 e-tron frontpassasjerskjerm" >}}

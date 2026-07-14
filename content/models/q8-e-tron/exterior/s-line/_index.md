@@ -1,7 +1,7 @@
 ---
 title: S-line and S exterior package
 linktitle: S-line / S
-description: There is serveral styling options to make your e-tron stick out from the growd
+description: Several styling options are available to make the Audi Q8 e-tron stand out.
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
@@ -116,7 +116,7 @@ illuminated aluminum door sill trims feature an #S logo.
  The front bumper features a striking design and the integrated air curtains are larger and more expressive. The wheel arches on both sides are a full 23 millimeters (0.9 in) wider and
  the diffuser insert in the rear bumper extends almost across the entire width of the rear end. Silver elements add highlights all over the car, from the lip of the front bumper and the
  Singleframe and all the way to the diffuser insert.
- 
+
  The door inserts and housings of the exterior mirrors are made of aluminum, and the front and rear end are decorated with S badges. Audi can paint attachments like the front lip, wheel arches and sill trims in a contrasting color upon request.
 
 <figure>

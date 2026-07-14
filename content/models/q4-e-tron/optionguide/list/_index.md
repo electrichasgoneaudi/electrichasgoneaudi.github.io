@@ -9,7 +9,7 @@ weight: 100
 
 ![Pebble stone gray](https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_stonegrey_3s.webp)
 
-Audi Q4 e-tron can be delivered in serveral standard colors and different paint trims. Click on each option below to see examples and detailed info.
+Audi Q4 e-tron can be delivered in several standard colors and different paint trims. Click on each option below to see examples and detailed info.
 
 | Title | Description | ID |
 |-----|------|------|
@@ -55,8 +55,8 @@ Audi Q4 e-tron can be delivered with different types of wheels. Both for summer 
 
 | Title | Description | ID |
 |-----|------|------|
-| Edition one, Geyser | Edtion one with big equipment package | PFR |
-| Edition one, Typhoon | Edtion one with big equipment package | PFP |
+| Edition one, Geyser | Edition one with big equipment package | PFR |
+| Edition one, Typhoon | Edition one with big equipment package | PFP |
 |  Advanced Line  | Includes  [Contrast paint](/models/q4-e-tron/exterior/paint/#contrast-paint),   [19" 5-W design](/models/q4-e-tron/exterior/wheels/#19-5-w-design)  |  PY1   |
 |  S-Line  | Includes [Contrast paint](/models/q4-e-tron/exterior/paint/#contrast-paint),  [S-line Styling](/models/q4-e-tron/exterior/s-line/),   [20" 5Y design](/models/q4-e-tron/exterior/wheels/#20-5y-design) |  PY2   |
 
@@ -68,7 +68,7 @@ Audi Q4 e-tron can be delivered with different types of wheels. Both for summer 
 | Navigation package | This package includes the following options. [MMI Navigation Plus](/models/q4-e-tron/technology/uiandoperations/mmi/#mmi-navigation-plus), [Traffic Sign Recognition](/models/q4-e-tron/technology/drivingassistance/trafficsignrecognition/), [Audi Virtual Cockpit](/models/q4-e-tron/technology/uiandoperations/virtualcockpit/), [Sonos Sound System](/models/q4-e-tron/technology/soundsystem/), Infotainment package with [Audi Phone Box](/models/q4-e-tron/technology/phonebox/), [Audi smartphone interface](/models/q4-e-tron/technology/uiandoperations/smartphoneinterface/), [12-volt and USB-C port](/models/q4-e-tron/technology/connections/)| WNK |
 | Climate package | This package includes the following options [3-sone AC](/models/q4-e-tron/technology/climatecontrol/) and [Auxiliary air conditioner with extra convenience](/models/q4-e-tron/technology/climatecontrol/#auxiliary-air-conditioner) |  PYC |
 | Function package 2 | Includes storage and trunk package with storage net on front seats, cup holders, flexibile trunk floor, storage net | PYW |
-| Funtion package 1 | Includes wheel bolts with theft security and theft alarm | PYV |
+| Function package 1 | Includes wheel bolts with theft security and theft alarm | PYV |
 | Comfort package |  This package includes retractable mirrors, automatic dimmable interior mirror, 4-way electric lumbar support in the front seats with vertical and horizontal adjustment, Comfort center armrests at the front with adjustment in angle and length | PYA |
 | Comfort package plus | This package includes retractable mirrors, automatic dimmable interior mirror, 4-way electric lumbar support in the front seats with vertical and horizontal adjustment, Comfort center armrests at the front with adjustment in angle and length, electric driver seat | PYY |
 | Driver package | Included Audi drive select, dynamic steering | PY8 |
@@ -105,7 +105,7 @@ Audi Q4 e-tron has advanced lights options. Click on each option below to see ex
 | [Matrix LED Headlights](/models/q4-e-tron/technology/lights/#matrix-headlights) | Includes Head light washers |PXC |
 | Led rear lights |  | 8VG |
 | [High beam assistant](/models/q4-e-tron/technology/lights/#standard-headlights) | For standard headlights | 8G1 |
-| [Head light washers](/models/q4-e-tron/technology/lights/#standard-headlights) | Inlcuded for Matrix | 8X8 |
+| [Head light washers](/models/q4-e-tron/technology/lights/#standard-headlights) | Included for Matrix | 8X8 |
 
 ## Mirrors
 
@@ -116,7 +116,7 @@ Audi Q4 e-tron has advanced lights options. Click on each option below to see ex
 | [Electric adjustable mirrors](../../exterior/mirrors/#functionality)   | Heated  |6XN |
 | [Electric retractable mirrors](../../exterior/mirrors/#functionality)   | Only sold as part of PYY/PYA | 6XL |
 | Manual interior mirrors | Standard | 4L2 |
-| Automatic interor mirros | Automiatic dimmable, framless | 4L6 |
+| Automatic interior mirror | Automatic dimming, frameless | 4L6 |
 | [Projection lights in mirrors](../../exterior/mirrors/#projectionlights) |  | 1J2 |
 
 ## Roof
@@ -139,11 +139,11 @@ Audi Q4 e-tron has advanced lights options. Click on each option below to see ex
 
 | Title | Description | ID |
 |-----|------|------|
-| [Heat reflecting front window](/models/q4-e-tron/exterior/windows/) | Standard | 4GF | 
+| [Heat reflecting front window](/models/q4-e-tron/exterior/windows/) | Standard | 4GF |
 | [Heat reflecting side windows](/models/q4-e-tron/exterior/windows/) | standard | 4GC |
 | [Privacy windows](/models/q4-e-tron/exterior/windows/#privacy-glass) | Dark side windows in the  rear | QL5 |
-| [Acoustic side windows](/models/q4-e-tron/exterior/windows/#acoustic-windows) | Reduce nois | VW6 | 
-| [Heated and accoustic front window](/models/q4-e-tron/exterior/windows/#heated-and-acoustig-front-window) |  | 4GW |
+| [Acoustic side windows](/models/q4-e-tron/exterior/windows/#acoustic-windows) | Reduce nois | VW6 |
+| [Heated and acoustic front window](/models/q4-e-tron/exterior/windows/#heated-and-acoustig-front-window) |  | 4GW |
 
 ## Exterior equipment
 
@@ -153,11 +153,11 @@ Audi Q4 e-tron has advanced lights options. Click on each option below to see ex
 | [Lower bumper in antrastitt](/models/q4-e-tron/exterior/paint/#basic-paint) |  basic  | 2JB |
 | [Black optics](/models/q4-e-tron/exterior/optics/#black-optics) |  | 4ZD |
 | [Black optics plus](/models/q4-e-tron/exterior/optics/#black-optics) |  | 4ZP |
-| [Preperation for tow hitch](/models/q4-e-tron/transportation/#towing-capacity) |  | 1D7 |
+| [Preparation for tow hitch](/models/q4-e-tron/transportation/#towing-capacity) |  | 1D7 |
 | [Tow hitch](/models/q4-e-tron/transportation/#towing-capacity) | - | 1M6 |
 | Model an brand marking | - | 2Z8 |
 | Without performance rating  | - | 2Z7|
-| Without perforance and model | - | 2Z0 |
+| Without performance and model | - | 2Z0 |
 
 ## Climate
 
@@ -176,15 +176,15 @@ Audi Q4 e-tron can be delivered with different interior options. Click on each o
 
 | Title | Description | ID |
 |-----|------|------|
-| [Interior lightning](/models/q4-e-tron/interior/lights/#standard-interior-lights) | Standard | QQO |
-| [Ambient lightning](/models/q4-e-tron/interior/lights/#ambient-lights-package) | white | QQ8 |  
-| [Ambient lightning](/models/q4-e-tron/interior/lights/#ambient-light-plus-package)| multicolor | QQ9 |  
+| [Interior lighting](/models/q4-e-tron/interior/lights/#standard-interior-lights) | Standard | QQO |
+| [Ambient lighting](/models/q4-e-tron/interior/lights/#ambient-lights-package) | white | QQ8 |
+| [Ambient lighting](/models/q4-e-tron/interior/lights/#ambient-light-plus-package)| multicolor | QQ9 |
 | Front door sill trims with aluminium inlay, illuminated  |  | VT4|
 | Seat heat front | Standard most markeds | 4A3 |
 |  Non-smoker package | Standard | 9JA |
 |  Smoker package |  | 9JD |
 | 12-volt outlet | Rear seats  | 7B9 |
-| Center consol with cupholders |  Standard |  |
+| Center console with cupholders |  Standard |  |
 | Rear seats with 40:20:40 split |     |    |
 
 ## Steering wheel
@@ -199,14 +199,14 @@ Audi Q4 e-tron can be delivered with different interior options. Click on each o
 
 ![Infotainment](https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/virtualcockpit/mminavigationvirtualcockpits.webp)
 
-Audi Q4 e-tron has serveral infotainment options. Click on each option below to see examples and detailed info.
+Audi Q4 e-tron has several infotainment options. Click on each option below to see examples and detailed info.
 
 | Title | Description | ID |
 |-----|------|------|
 | [MMI navigation plus with MMI touch](/models/q4-e-tron/technology/uiandoperations/mmi/#mmi-navigation-plus) | Included in PYG/PYH | 7UG |
 | [AR-head up display](/models/q4-e-tron/technology/uiandoperations/headupdisplay/) | Included in PYH  | KS3 |
 | [Digital instrument cluster](/models/q4-e-tron/technology/uiandoperations/virtualcockpit/#standard-digital-instrumention-cluster) | Standard | 7J2 |
-| [Audi Virtual cockpit](/models/q4-e-tron/technology/uiandoperations/virtualcockpit/) |   | 9S1 | 
+| [Audi Virtual cockpit](/models/q4-e-tron/technology/uiandoperations/virtualcockpit/) |   | 9S1 |
 | [Camera based traffic sign recognintion](/models/q4-e-tron/technology/drivingassistance/trafficsignrecognition/) | Included in PYG/PYH  | QR9 |
 | MMI Navigation pro package | Includes [MMI navigation plus with MMI touch](/models/q4-e-tron/technology/uiandoperations/mmi/#mmi-navigation-plus), [Audi Virtual cockpit plus](https://electrichasgoneaudi.net/models/q4-e-tron/technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus) [Camera based traffic sign recognintion](/models/q4-e-tron/technology/drivingassistance/trafficsignrecognition/), [Audi Smartphone interface](/models/q4-e-tron/technology/uiandoperations/smartphoneinterface/) and  [AR-head up display](/models/q4-e-tron/technology/uiandoperations/headupdisplay/) | PYH |
 | MMI Navigation plus package | Includes [MMI navigation plus with MMI touch](/models/q4-e-tron/technology/uiandoperations/mmi/#mmi-navigation-plus), [Audi Virtual cockpit](/models/q4-e-tron/technology/uiandoperations/virtualcockpit/) [Camera based traffic sign recognintion](/models/q4-e-tron/technology/drivingassistance/trafficsignrecognition/) |  PYG |
@@ -222,7 +222,7 @@ Audi Q4 e-tron has serveral infotainment options. Click on each option below to 
 | DAB Digital Radio | Standard some markets | QV3 |
 | MMI Radio Plus |  | 7QD |
 
-## Phone and communcation
+## Phone and communication
 
 | Title | Description | ID |
 |-----|------|------|
@@ -234,13 +234,13 @@ Audi Q4 e-tron has serveral infotainment options. Click on each option below to 
 | [Audi Phone Box](/models/q4-e-tron/technology/phonebox/) | Only in package PYX  | 9ZE |
 | [Audi Smartphone interface](/models/q4-e-tron/technology/uiandoperations/smartphoneinterface/)| Only in PYX/PY3| IU|
 
-## Assistent system
+## Assistant system
 
 | Title | Description | ID |
 |-----|------|------|
 |  [Speed limiter](/models/q4-e-tron/technology/drivingassistance/speedlimiter/)   |  configurable speed limiter | 8T9 |
 |  [Cruise control with speed limiter](/models/q4-e-tron/technology/drivingassistance/cruisecontrol/)   |  configurable speed limiter | PYJ |
-| [Active lane assist](/models/q4-e-tron/technology/drivingassistance/activelaneassist/) | Standard | 6I3 | 
+| [Active lane assist](/models/q4-e-tron/technology/drivingassistance/activelaneassist/) | Standard | 6I3 |
 | [Collision avoidance assist](/models/q4-e-tron/technology/drivingassistance/collisionavoidanceassist/) | Standard | 4G3 |
 | [Audi Pre Sense Front](/models/q4-e-tron/technology/drivingassistance/presensefront/) | Standard | 8J3 |
 | [Parkingystem rear](/models/q4-e-tron/technology/drivingassistance/parkingsystemrear/) | Standard | 7X1 |
@@ -248,7 +248,7 @@ Audi Q4 e-tron has serveral infotainment options. Click on each option below to 
 | [Reversing camera](/models/q4-e-tron/technology/drivingassistance/reversingcamera/)  |  Rear camera | KA2 |
 |  Assist package |  The package include  [Cruise control with speed limiter](/models/q4-e-tron/technology/drivingassistance/cruisecontrol/) and  [Parking system plus](/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/) | PYK |
 | Assist package plus | The package include  [Adaptive Cruise control with speed limiter](/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/), [Parking system plus](/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/) and [Reversing camera](/models/q4-e-tron/technology/drivingassistance/reversingcamera/) | PYL |
-| Assist package pro | The package include [Adaptivce Cruise Assist](/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/),  [Adaptive Cruise control with speed limiter](/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/), [Parking system plus](/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/) and [Reversing camera](/models/q4-e-tron/technology/drivingassistance/reversingcamera/) | PY7 |
+| Assist package pro | The package include [Adaptive Cruise Assist](/models/q4-e-tron/technology/drivingassistance/adaptivecruiseassist/),  [Adaptive Cruise control with speed limiter](/models/q4-e-tron/technology/drivingassistance/adaptivecruisecontrol/), [Parking system plus](/models/q4-e-tron/technology/drivingassistance/parkingsystemplus/) and [Reversing camera](/models/q4-e-tron/technology/drivingassistance/reversingcamera/) | PY7 |
 |  Security package plus |  The package include [Side Assist](/models/q4-e-tron/technology/drivingassistance/sideassist/), [exit warning](/models/q4-e-tron/technology/drivingassistance/exitwarning/), [cross traffic assist rear](/models/q4-e-tron/technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](/models/q4-e-tron/technology/drivingassistance/presenserear/). | PYU |
 
 ## Drivetrain / brakes

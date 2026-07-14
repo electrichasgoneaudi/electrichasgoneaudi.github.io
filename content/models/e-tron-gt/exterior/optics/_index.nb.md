@@ -1,7 +1,7 @@
 ---
 title: Optikk & grill
 linktitle: Optikk & grill
-description: Audi e-tron GT har noen alterntiver for optikk og grill
+description: Audi e-tron GT har flere alternativer for utvendig dekor og Singleframe.
 weight: 4
 ---
 <!-- markdownlint-disable MD033 -->

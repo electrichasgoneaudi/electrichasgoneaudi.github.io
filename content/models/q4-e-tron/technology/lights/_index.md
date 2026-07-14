@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 e-tron light technology
 linktitle: Lights
-description: Audi Q4 e-tron has advanced lightning options
+description: Audi Q4 e-tron has advanced lighting options
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
@@ -15,7 +15,7 @@ The headlights of the Q4 e-tron and the Q4 Sportback e-tron are fully equipped w
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/lights/headlightstandard.webp">
-        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/lights/headlightstandards.webp" 
+        <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/lights/headlightstandards.webp"
         class="img-fluid" alt="Standard LED head lights with LED indicator lights" title="Standard LED head lights with LED indicator lights">
     </a>
     <figcaption><h4>Standard LED head lights with LED indicator lights</h4></figcaption>
@@ -27,7 +27,7 @@ High beam assistant has option id **8G1** and head light washers has option id *
 
 ### Matrix Headlights
 
-On request, Audi also offers the Matrix LED headlights – they lend the two electric compact SUVs a look that is full of character and unmistakable, day and night. The next stage of evolution in daytime running lights is totally new among the competition. Using the MMI touch operating system, the driver can switch between four digital light signatures at any time. Each of them generates its own theme and lends the daytime running lights an individual expression. The variant selected is activated the next time the vehicle is started. The below show the 4 different signatures
+On request, Audi also offers the Matrix LED headlights – they lend the two electric compact SUVs a look that is full of character and unmistakable, day and night. The next stage of evolution in daytime running lights is totally new among the competition. Using the MMI touch operating system, the driver can switch between four digital light signatures at any time. Each of them generates its own theme and lends the daytime running lights an individual expression. The variant selected is activated the next time the vehicle is started. The following show the 4 different signatures
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/lights/signature1.webp">
@@ -112,4 +112,3 @@ In combination with the Matrix LED headlights, there is also a particularly eleg
 When the car is unlocked and exited, dynamic “leaving home” and “coming home” light sequences are played in the rear lights and the headlights. The sequences in the headlights vary depending on which daytime running light signature is selected.
 
 <script src="https://www.audimedia.tv/embed.js" id="amc-video-5582-en"></script>
-

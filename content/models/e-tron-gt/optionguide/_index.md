@@ -1,9 +1,11 @@
 ---
 title: Audi e-tron GT options guide
 linktitle: Options Guide
-description: Audi e-tron GT have so many options that it is almost impossible to get the overview. We try to help you select the most important options.
+description: Historical guide to important options on the original MY2021–2024 Audi e-tron GT range.
 weight: 100
 ---
+
+> **Historical guide:** The packages and option codes on this page describe the original MY2021–2024 e-tron GT range. They do not represent the revised MY2025 and later models, and availability varied by market.
 
 The following guide is based on the basic model. Many markets have trim package with options included.
 
@@ -13,7 +15,7 @@ Below are the most important options you need to consider when buying an e-tron 
 
 ## Privacy windows: Option ID QL5
 
-Improves looks a lot and you dont need to drive around in a fish tank on display.
+Privacy glass gives the rear of the cabin a darker appearance and reduces visibility from outside.
 
 [See windows for details](../exterior/windows/#privacy-glass)
 
@@ -27,14 +29,14 @@ The City assist package include [Side Assist](../technology/drivingassistance/si
 
 ![QQ2](https://media.evkx.net/ehga/models/e-tron-gt/interior/lights/ambientlight_1s.webp)
 
-## Multicolour ambient lightning: Option ID QQ2
+## Multicolour ambient lighting: Option ID QQ2
 
-With multicolor ambient lightning the look and feel inside the car gets to another planet.
+Multicolor ambient lighting adds configurable accent and contour lighting to the cabin.
 
-[See ambient lightning to get convinced](../interior/ambientlights/)
+[See the ambient-lighting details](../interior/ambientlights/)
 
 ## Complete equipment list
 
-Se the [complete equipment list](list) for all options.
+See the [complete historical equipment list](list) for more options.
 
 {{<children description="true" />}}

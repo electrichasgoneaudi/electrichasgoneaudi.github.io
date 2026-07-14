@@ -5,11 +5,11 @@ description: The battery system is the combination of many cells and other contr
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
-Today this is most typically achieved with the Cell2Module technology. Where cells are grouped into modules that again are grouped into a battery system.
+Today this is most commonly achieved with cell-to-module construction: cells are grouped into modules, which are then assembled into a battery pack.
 
-In the future, we will see cars with Cell2Pack technologies where cells are put directly into packs and even Cell2Car technology where cells are put directly into the car. More about that later
+Cell-to-pack construction removes conventional modules and integrates cells directly into the pack. Cell-to-body designs go a step further by making the battery structure part of the vehicle body.
 
-Typical a battery pack consists of modules that consist of several cells.
+A typical battery pack consists of modules containing several cells.
 
 ## Modules
 
@@ -120,12 +120,9 @@ In the table below you see the pack performance. See how Q4 has a higher density
 The problem with today's approach with Cell2Modules is that the energy density on the battery system is much lower than on the cell level.
 This is because of all the structural elements in a battery that does not add any energy content to a battery pack.
 
-To reduce this problem Volkswagen is moving to a Cell2Pack technology where Audi with its Artemis project will launch the first car in
-late 2024.
+Cell-to-pack construction can reduce inactive structural material by placing cells directly into the pack rather than into separate modules. This can improve pack-level energy density and reduce weight, but the implementation and benefits vary between manufacturers and battery designs.
 
-The technology is based on putting the cells directly in to the pack increasing the energy density to the battery system. This reduces weight and increases capacity.
-
-On March 15. 2021 the Volkswagen group that Audi is part of, presented their strategy as part of Power day.
+On March 15, 2021, Volkswagen Group presented its battery strategy at Power Day. The following material reflects that 2021 strategy and should not be read as a current Audi model launch schedule.
 
 <figure>
     <a href="https://media.evkx.net/ehga/technology/battery/batterysystem/cell2pack.webp">

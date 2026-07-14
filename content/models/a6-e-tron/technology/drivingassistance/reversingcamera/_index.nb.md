@@ -1,9 +1,9 @@
 ---
-title: Audi Q6 e-tron ryggekamera
+title: Audi A6 e-tron ryggekamera
 linktitle: Ryggekamera
-description: Audi Q6 e-tron leveres med ryggekamera. Ryggekameraet forenkler manøvrering ved å vise sonen bak kjøretøyet på MMI-displayet.
+description: Audi A6 e-tron leveres med ryggekamera. Ryggekameraet forenkler manøvrering ved å vise sonen bak kjøretøyet på MMI-displayet.
 weight: 1
-sectiontabs: "/nb/models/q6-e-tron/technology/"
+sectiontabs: "/nb/models/a6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 <figure>

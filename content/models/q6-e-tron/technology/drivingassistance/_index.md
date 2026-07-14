@@ -1,115 +1,24 @@
 ---
-title: Audi Q6 e-tron driver assistance systems
-linktitle: Driver Assistance
-description: There are around 40 driver assistance systems available in the Audi Q6 e-tron
+title: Audi Q6 e-tron driver-assistance systems
+linktitle: Driver assistance
+description: The Audi Q6 e-tron offers assistance for speed and distance control, lane guidance, collision avoidance and parking.
 weight: 1
 sectiontabs: "/models/q6-e-tron/technology/"
 ---
-<!-- markdownlint-disable MD033 -->
 
-Up to five radar sensors, five cameras, and 12 ultrasonic sensors provide environmental information analyzed by the central driver assistance control unit.
+The Audi Q6 e-tron combines cameras, radar sensors and ultrasonic sensors with a central driver-assistance control unit. Depending on equipment, up to five radar sensors, five cameras and 12 ultrasonic sensors monitor the vehicle's surroundings.
 
-Important driver assist systems come as standard, the optional systems are subdivided into packages: The assist package tour (PCC), assistant package city (PCM), side assist package (PCH). In addition there are other standalone options.
+Core functions include collision warning and emergency braking through Audi pre sense front, lane-departure warning, attention monitoring, a speed limiter and parking support. Depending on market and equipment level, the Q6 e-tron can also provide:
 
+- Adaptive cruise control and adaptive driving assistant plus
+- Camera-based traffic-sign recognition
+- Park assist plus, a reversing camera and surround-view cameras
+- Side assist and exit warning
+- Rear cross-traffic assist and intersection assist
+- Emergency assist and collision-avoidance assist
 
-<div class="table-responsive">
-<table class="table table-striped border">
-    <thead>
-        <tr>
-        <th>System
-        </th>
-        <th>Available
-        </th>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a href="360camera/">360 degree cameras</a></td>
-            <td>standard</td>
-        </tr>
-        <tr>
-            <td><a href="activelaneassist">Active Lane assist</a></td>
-            <td>Standard</td>
-        </tr>
-        <tr>
-            <td><a href="adaptivecruiseassist">Adaptive Cruise Assist</a></td>
-            <td>Part of Tech Pro package</td>
-        </tr>
-        <tr>
-            <td><a href="adaptivecruisecontrol">Adaptive Cruise Control with speed limiter</a></td>
-            <td>Standard</td>
-        </tr>
-        <tr>
-            <td><a href="crossingassist">Crossing/Intersection assist</a></td>
-            <td>Standard</td>
-        </tr>
-        <tr>
-            <td><a href="cruisecontrol">Cruise control</a></td>
-            <td>Standard</td>
-        </tr>
-        <tr>
-            <td><a href="holdassist">Hold Assist</a></td>
-            <td>Standard</td>
-        </tr>
-        <tr>
-            <td><a href="presensebasic">Pre Sense Basic</a></td>
-            <td>Standard</td>
-        </tr>
-        <tr>
-            <td><a href="presensefront">Pre Sense front</a></td>
-            <td>Standard</td>
-        </tr>
-         <tr>
-            <td><a href="presenserear">Pre Sense rear</a></td>
-            <td>Standard</td>
-        </tr>
-        <tr>
-            <td><a href="presenseside">Pre Sense side</a></td>
-            <td>N/A</td>
-        </tr>
-         <tr>
-            <td><a href="distancewarning">Distance warning</a></td>
-            <td>Standard</td>
-        </tr>
-        <tr>
-            <td><a href="speedlimiter">Speed limiter</a></td>
-            <td>Standard</td>
-        </tr>
-         <tr>
-            <td><a href="speedlimiter">Park assist</a></td>
-            <td>Part of Tech Pro package</td>
-        </tr>
-         <tr>
-            <td><a href="predictiveefficiencyassist">Predictive Efficiency Assist</a></td>
-            <td>standard</td>
-        </tr>
-        <tr>
-            <td><a href="crosstrafficassistrear">Cross traffic assist rear</a></td>
-            <td>?</td>
-        </tr>
-        <tr>
-            <td><a href="exitwarning">Exit warning</a></td>
-            <td>?</td>
-        </tr>
-          <tr>
-            <td><a href="collisionavoidanceassist">Collision avoidance assist</a></td>
-            <td>standard</td>
-        </tr>
-        <tr>
-            <td><a href="sideassist">Side Assist</a></td>
-            <td>standard</td>
-        </tr>
-        <tr>
-            <td><a href="reversingcamera">Reversing camera</a></td>
-            <td>standard</td>
-        </tr>
-          <tr>
-            <td><a href="turnassist">Turn assist</a></td>
-            <td>standard</td>
-        </tr>
-        <tr>
-            <td><a href="turnassist">Traffic sign recognition</a></td>
-            <td>standard</td>
-        </tr>
-    </tbody>
-</table>
-</div>
+Availability, standard equipment and package names vary by country, variant and model year. The driver remains responsible for monitoring traffic and intervening when required.
+
+Explore the individual systems below.
+
+{{<children description="true" />}}

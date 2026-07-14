@@ -1,146 +1,40 @@
 ---
 title: Audi Q8 e-tron
 linktitle: Audi Q8 e-tron
-description: The Audi Q8 e-tron is the facelift of the very popular Audi e-tron. With six improved variants, up to 44% longer range, and 9% improved efficiency together with design changes. electrichasgoneaudi.net have all the details. 
+description: The Audi Q8 e-tron was Audi's large electric SUV and Sportback from 2023 until production ended in February 2025.
 weight: 5
 shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 
-The world premiere was November 9. 2022 and if you want to know all the details about the improvements from Audi e-tron you should read the [World Premiere Article first](../../articles/e-tron-facelift-q8-etron-2024/).  
+The Audi Q8 e-tron was the extensively updated and renamed successor to the original Audi e-tron. Audi presented it on November 9, 2022, and launched it in Europe in February 2023 as an SUV and Sportback.
 
-It is expected that the first owners will receive their Q8 e-tron in Q2 2023. 
-
+> **Former model:** Production of the Q8 e-tron family and automobile production at Audi Brussels ended on **February 28, 2025**. The pages in this section document the 2023–2025 model for owners and used-car buyers; they do not describe a current factory-order model.
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/articles/e-tron-facelift-q8-etron-2024/audi_sq8_front_article_st.webp" width="3000" height="1999" title="Audi SQ8 e-tron" >}}
 
-Audi Q8 e-tron has a wide range of options and advanced driving technologies. Here on electrichasgoneaudi.net, you find all details about Q8 e-tron. Everything from the different wheels to choose from to how the different driving assist system works.
+## Model family
 
-Wanna keep yourself updated. Join our [Audi Q8 e-tron facebook group](https://www.facebook.com/groups/1070499437069641).
+The range consisted of six combinations of body style and drivetrain:
 
-## Audi Q8 e-tron variants
+- Q8 50 e-tron and Q8 Sportback 50 e-tron;
+- Q8 55 e-tron and Q8 Sportback 55 e-tron; and
+- SQ8 e-tron and SQ8 Sportback e-tron.
 
-Audi Q8 e-tron is available in 6 variants.
+The 50 versions used a 95 kWh gross / 89 kWh usable battery and a dual-motor drivetrain with up to 250 kW. The 55 versions combined a 114 kWh gross / 106 kWh usable battery with up to 300 kW. SQ8 versions used the larger battery and three motors with up to 370 kW.
 
-- [Audi Q8 50 e-tron](../../models/q8-e-tron/variants/#audi-q8-50-e-tron) 
-- [Audi Q8 50 Sportback e-tron](../../models/q8-e-tron/variants/#audi-q8-50-sportback-e-tron) 
-- [Audi Q8 55 e-tron](../../models/q8-e-tron/variants/#audi-q8-55-e-tron)
-- [Audi Q8 55 Sportback e-tron](../../models/q8-e-tron/variants/#audi-q8-55-sportback-e-tron)
-- [Audi SQ8 e-tron](../../models/q8-e-tron/variants/#audi-sq8-e-tron)
-- [Audi SQ8 e-tron Sportback](../../models/q8-e-tron/variants/#audi-sq8-sportback-e-tron)
+Maximum WLTP range was 600 km for the Q8 Sportback 55 e-tron. The exact range, consumption and charging performance depend on body style, drivetrain, wheels and equipment.
 
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q8-e-tron/sq8_and_q8_variants_st.webp" width="3000" height="2249" title="Audi Q8 e-tron 55 and Audi Q8 Sportback e-tron" >}}
+See [Variants](variants/) for the complete model family and [Specifications](specifications/) for generated data for each configuration.
 
+## More information
 
-Go to our [Audi Q8 e-tron variant sections](variants) for more details.
+- [Exterior](exterior/): body styles, lights, paint, wheels and mirrors
+- [Interior](interior/): seats, materials, lighting and controls
+- [Drivetrain](drivetrain/): batteries, motors, suspension and brakes
+- [Technology](technology/): charging, driver assistance, infotainment and safety
+- [Transport](transportation/): luggage, roof load and towing
 
-## Audi Q8 e-tron drivetrain: battery and motors
+The [world-premiere article](../../articles/e-tron-facelift-q8-etron-2024/) documents the changes from the original Audi e-tron as they were announced in 2022.
 
-The Audi Q8 e-tron is built on the same MLB-Evo platform that the Audi e-tron, with the support of up to 3 powerful motors and new larger batteries. As on the Audi e-tron, adaptive Air suspension and progressive steering are standard.
-
-### Batteries
-
-As on the Audi e-tron, two battery sizes are available on the variants. The battery of the [Q8 50 e-tron](../../models/q8-e-tron/variants/#audi-q8-50-e-tron) has a storage capacity of 89 net kilowatt-hours (95 gross kWh), while the more powerful versions of the Q8 55 e-tron and SQ8 e-tron have 106 net kWh (114 gross kWh). The 95kWh battery used on the 50 variants uses the same battery used on the Audi 55 and S variants.  Thanks to adjusting the battery management system, the battery capacity usable for customers has increased from 86kWh to 89kWh.
-
-The number of modules and cells are the same, but with a new more dense cell Audi where able to replace the 60AH cells with a 72AH cells
-
-[Read more in the battery section](drivetrain/battery/)
-
-### Range & efficiency
-
-Audi Q8 e-tron has improved electronics and aerodynamis to reduce drag and consumption. This gives the following range and consumption.
-
-
-<table class="table table-striped border">
-    <thead>
-        <tr>
-        <th>Variant
-        </th>
-        <th>WLTP range
-        </th>
-        <th>Change
-    </thead>
-    <tbody>
-    <tr>
-        <td><a href="../../models/q8-e-tron/variants/#audi-q8-50-e-tron">Audi Q8 50 e-tron</a></td>
-        <td>491km/305mi</td>
-        <td>+44%</td>
-    </tr>
-   <tr>
-        <td><a href="../../models/q8-e-tron/variants/#audi-q8-50-sportback-e-tron">Audi Q8 50 Sportback e-tron</a></td>
-        <td>505km/314mi</td>
-        <td>+44%</td>
-    </tr>
-      <tr>
-        <td><a href="../../models/q8-e-tron/variants/#audi-q8-55-e-tron">Audi Q8 55 e-tron</a></td>
-        <td>582km/362mi</td>
-        <td>+32%</td>
-    </tr>
-    <tr>
-        <td><a href="../../models/q8-e-tron/variants/#audi-q8-55-sportback-e-tron">Audi Q8 55 Sportback e-tron</a></td>
-        <td>600km/373mi</td>
-        <td>+33%</td>
-    </tr>
-    <tr>
-        <td><a href="../../models/q8-e-tron/variants/#audi-sq8-e-tron">Audi SQ8 e-tron</a></td>
-        <td>494km/307mi  </td>
-        <td>+32% </td>
-    </tr>
-    <tr>
-        <td><a href="../../models/q8-e-tron/variants/#audi-sq8-e-tron">Audi SQ8 e-tron</a></td>
-        <td>494km/307mi  </td>
-        <td>+32% </td>
-    </tr>
-    <tr>
-        <td><a href="../../models/q8-e-tron/variants/#audi-sq8-sportback-e-tron">Audi SQ8 e-tron Sportback</a></td>
-        <td>513km/319mi</td>
-        <td>+35%</td>
-    </tr>
-</tbody>
-</table>
-
-
-
-|Variant | WLTP Consumption | Change |
-|-------|-------------|-------|
-|[Audi Q8 50 e-tron](../../models/q8-e-tron/variants/#audi-q8-50-e-tron)                        | 18.12kWh/100km | -3.4%    |
-|[Audi Q8 50 Sportback e-tron](../../models/q8-e-tron/variants/#audi-q8-50-sportback-e-tron)    | 17.62kWh/100km | -3.3%    |
-|[Audi Q8 55 e-tron](../../models/q8-e-tron/variants/#audi-q8-55-e-tron)                        | 18.21kWh/100km | - 7.1%   |
-|[Audi Q8 55 Sportback e-tron](../../models/q8-e-tron/variants/#audi-q8-55-sportback-e-tron)    | 17.33kWh/100km | -9%      |
-|[Audi SQ8 e-tron](../../models/q8-e-tron/variants/#audi-sq8-e-tron)                            | 21.46kWh/100km | -6.7     |
-|[Audi SQ8 e-tron Sportback](../../models/q8-e-tron/variants/#audi-sq8-sportback-e-tron)        | 20.66kWh/100km | -9%      |
-
-## Audi Q8 e-tron exterior
-
-[Go to the exterior section](exterior) to read more about the exterior options
-
-There will be a huge number of exterior options to the Audi Q8 e-tron. More than 50 Paint colors, two body shapes,  wheels from 19" - 22", paint styles, different optics, mirror types, and many more options make it possible to create your unique design.
-
-## Audi Q8 e-tron interior
-
-Audi Q8 e-tron has have luxury interior with many options. This includes four different seat types including seats with massage and ventilation.
-
-Different interior designs, interior lights, and many more so that you can personalize the car as you like it.
-
-[Go to the interior section](interior) to read more about the different interior options available.
-
-## Audi Q8 e-tron technology
-
-Vorsprung Durch Technik have in more than 50 years been Audis mantra and Audi Q8 e-tron is no exception. 
-Audi Q8 e-tron is loaded with advanced technology in many areas like Driver Assistance, lights, charging technology, and many more areas to give you a safe, comfortable, and luxurious journey.
-
-Compared to Audi e-tron the Audi Q8 e-tron have upgraded lights and some new driver assist functionality. 
-
-[Read more in the Audi Q8 e-tron technology section](technology)
-
-## Audi Q8 e-tron dimensions
-
-The dimensions on the Audi Q8 e-tron almost identical as the Audi e-tron.
-
-[Go to dimensions](dimensions)
-
-## Transportation capabilities
-
-In addition to the 5 seats, the Q8 e-tron has both a trunk and a frunk in addition to roof storage and trailer capabilities.
-
-[Read more in the transportation capabilities section](transportation)
+{{<children description="true" />}}

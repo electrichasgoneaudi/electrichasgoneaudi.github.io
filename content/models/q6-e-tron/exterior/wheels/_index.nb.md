@@ -7,105 +7,105 @@ sectiontabs: "/nb/models/q6-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 
-The following wheels have been available from Audi to Audi Q6 e-tron. Varies for the different markets
+Audi har tilbudt felgene nedenfor til Q6 e-tron. Utvalget varierer mellom marked, variant og modellår.
 
-## 18" 10-Spoke
+## 18" 10-eikers design
 
-8,0J|9,0Jx18, Wheels 235/65|255/60 R18
+8,0J|9,0Jx18, dekk 235/65|255/60 R18
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_18inch_1.webp" width="2300" height="1000" title="10-spoke 18-inch" >}}
 
-## 19" 5-double spoke flag
+## 19" 5-dobbelteikers flaggdesign
 
-8.0J|9.0Jx19, tires 235/60|255/55 R19
+8.0J|9.0Jx19, dekk 235/60|255/55 R19
 
-**Option** 41A
+**Tilvalg** 41A
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_41a_1.webp" width="2300" height="1000" title="5-double spoke flag" >}}
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_41a_2.webp" width="750" height="750" title="5-double spoke flag" >}}
 
-## 19" 5-double-spoke dynamic design
+## 19" 5-dobbelteikers dynamisk design
 
- 8.0J|9.0Jx19, tires 235/60|255/55 R19
+8.0J|9.0Jx19, dekk 235/60|255/55 R19
 
-**Option** 41M
+**Tilvalg** 41M
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_41m_1.webp" width="2300" height="1000" title="5-double spoke flag" >}}
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_41m_2.webp" width="750" height="750" title="5-double spoke flag" >}}
 
 
-## 20"  10-spoke trapezoidal design in black metallic, gloss polished
+## 20" 10-eikers trapesdesign i sort metallic, glanspolert
 
 8,5J | 10,0 J x 20 med 255/50 | 285/45 R 20
 
-**Option** 58R
+**Tilvalg** 58R
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_58r_1.webp" width="2300" height="1000" title="10-spoke trapezoidal design" >}}
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_58r_2.webp" width="750" height="750" title="10-spoke trapezoidal design" >}}
 
 
-## 20"  5-double-spoke offset design, gray silk matt, high-gloss polished
+## 20" 5-dobbelteikers offsetdesign, silkematt grå, glanspolert
 
 8,5 J | 10,0 J x 20 med 255/50 | 285/45 R 20
 
-**Option** 58Q
+**Tilvalg** 58Q
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_58q_1.webp" width="2300" height="1000" title="5-double-spoke offset design," >}}
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_58q_2.webp" width="750" height="750" title="5--double-spoke offset design," >}}
 
 
-## 20"  5-spoke structural design, graphite grey, high-gloss polished
+## 20" 5-eikers strukturdesign, grafittgrå, glanspolert
 
 8,5 J | 10,0 J x 20 med 255/50 | 285/45 R 20
 
-**Option** 52T
+**Tilvalg** 52T
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_52t_1.webp" width="2300" height="1000" title="5-spoke structural design" >}}
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_52t_2.webp" width="750" height="750" title="5-spoke structural design" >}}
 
 
-## 20"  5-double spoke Falx
+## 20" 5-dobbelteikers Falx-design
 
 8,5 J | 10,0 J x 20 med 255/50 | 285/45 R 20
 
-**Option** 54V
+**Tilvalg** 54V
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_54v_1.webp" width="2300" height="1000" title="5-double spoke Falx" >}}
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_54v_2.webp" width="750" height="750" title="5-double spoke Falx" >}}
 
-## 21" 5-arm aero design in black metallic, gloss polished
+## 21" 5-armet aerodesign i sort metallic, glanspolert
 
 9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21
 
-**Option** C9K
+**Tilvalg** C9K
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_c9k_1.webp" width="2300" height="1000" title="5-arm aero design in black metallic, gloss polished" >}}
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_c9k_2.webp" width="750" height="750" title="5-arm aero design in black metallic, gloss polished" >}}
 
 
-## 21" 5 Y-spoke dynamic design in black metallic, polished
+## 21" 5-Y-eikers dynamisk design i sort metallic, polert
 
 9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21
 
-**Option** V39
+**Tilvalg** V39
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_v39_1.webp" width="2300" height="1000" title="5 Y-spoke dynamic design in black metallic, polished" >}}
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_v39_2.webp" width="750" height="750" title="5 Y-spoke dynamic design in black metallic, polished" >}}
 
 
-## 21" 5-V spoke structure design, graphite grey, gloss polished
+## 21" 5-V-eikers strukturdesign, grafittgrå, glanspolert
 
 9,0 J | 10,0 J x 21 med 255/45 | 285/40 R 21
 
-**Option** 46X 
+**Tilvalg** 46X
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/wheels/wheeloption_46x_1.webp" width="2300" height="1000" title="5-V spoke structure design, graphite grey, gloss polished" >}}
 

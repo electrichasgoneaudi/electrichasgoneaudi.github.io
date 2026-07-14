@@ -3,7 +3,7 @@ title: Adaptive cruise control med hastighetsbegrensing
 linktitle: Adaptive cruise control
 description: Den adaptive cruisekontrollen (ACC) støtter føreren innenfor systemets grenser
 weight: 1
-sectiontabs: "/nb/models/q6-e-tron/technology/"
+sectiontabs: "/nb/models/a6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -30,6 +30,5 @@ Du aktiverer cruisekontrollen ved å trykke på knappen på slutten. Eller du ka
 Hastigheten justeres ved å skyve spaken opp og ned. Du kan kontrollere avstanden til bilen foran med avstandsknappen.
 Lim-knappen på toppen aktiverer hastighetsbegrenseren.
 
-Dette alternativet er en del av tursjåførassistansepakken med alternativ-ID **PCC**
 
 {{<children description="true" />}}

@@ -1,14 +1,14 @@
 ---
 title: Audi Q4 e-tron panoramatak
 linktitle: Panoramatak
-description: Hvis du vil skille deg ut kan du bestille Audi Q4 e-tron med panoramatak.
+description: Det valgfrie panoramaglasstaket gir mer dagslys og frisk luft i kupeen i Audi Q4 e-tron.
 weight: 6
 sectiontabs: "/nb/models/q4-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
-The roof can be openeded. In addition to give Audi e-tron a cooler and more exclusive look it gives more light in to the car and better view from the inside.
+Det valgfrie panoramaglasstaket kan vippes og åpnes elektrisk. Det strekker seg over begge seteradene og har en solgardin som reduserer blending og varme.
 
-You can order panoramic roof with option id **3FU**
+Utstyrskoden er **3FU**.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/panoramicroof/panoramaroof.webp">
@@ -29,17 +29,17 @@ You can order panoramic roof with option id **3FU**
 <figure>
     <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/panoramicroof/openroof_2.webp">
         <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/panoramicroof/openroof_2s.webp"
-        class="img-fluid" alt="Taket kan åpnes helt for å gi deg kabriolet følelsen" title="Taket kan åpnes helt for å gi deg kabriolet følelsen">
+        class="img-fluid" alt="Panoramataket i åpen stilling" title="Panoramataket i åpen stilling">
     </a>
-    <figcaption><h4>Taket kan åpnes helt for å gi deg kabriolet følelsen</h4></figcaption>
+    <figcaption><h4>Panoramataket i åpen stilling</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/panoramicroof/inside.webp">
         <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/panoramicroof/insides.webp"
-        class="img-fluid" alt="Taket dekker båder for og baksiden" title="Taket dekker båder for og baksiden">
+        class="img-fluid" alt="Panoramataket strekker seg over for- og baksetene" title="Panoramataket strekker seg over for- og baksetene">
     </a>
-    <figcaption><h4>Taket dekker båder for og baksiden</h4></figcaption>
+    <figcaption><h4>Panoramataket strekker seg over begge seteradene</h4></figcaption>
 </figure>
 
 <figure>

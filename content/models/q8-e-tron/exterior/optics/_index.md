@@ -1,7 +1,7 @@
 ---
-title: Audi Q8 e-tron optics and single-frame-grill
-linktitle: Optics & Grill
-description: Audi Q8 e-tron can be deliverd with standard or black optics package and grill in different colors. 
+title: Audi Q8 e-tron exterior trim and Singleframe grille
+linktitle: Trim & grille
+description: The Audi Q8 e-tron is available with standard or black exterior trim and several Singleframe grille finishes.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->

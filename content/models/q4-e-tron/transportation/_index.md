@@ -58,7 +58,7 @@ See below for Banana box test for Audi Q4 e-tron.
 
 ## Roof storage
 
-You can store up to 75kg on the roof. On the SUV version you have rails so you can easly mount a roof box.
+You can store up to 75kg on the roof. On the SUV version you have rails so you can easily mount a roof box.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/q4-e-tron/transportation/roofbox.webp">
@@ -80,7 +80,7 @@ You can store up to 75kg on the roof. On the SUV version you have rails so you c
 ## Towing capacity
 
 Audi Q4 e-tron can drag trailers up to 1200kg with Audi Q4 e-tron 45/50 Quattro and 1000kg Audi Q4 e-tron 40.
-The towing hitch has option id **1M6**.  An optional towing hitch prepartion has option id **1D7**
+The towing hitch has option id **1M6**.  An optional towing hitch preparation has option id **1D7**
 
 
 <figure>
@@ -102,7 +102,7 @@ The towing hitch has option id **1M6**.  An optional towing hitch prepartion has
     <figcaption><h4>Trailer example 1</h4></figcaption>
 </figure>
 
-The above trailer gave an consumption on 32kWh/100km. 
+The above trailer gave an consumption on 32kWh/100km.
 
 
 

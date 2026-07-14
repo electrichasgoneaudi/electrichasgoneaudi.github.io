@@ -1,7 +1,7 @@
 ---
 title: Hvordan sjekke batterihelsen
 linktitle: Sjekke batteriet.
-description: Det er mulig med enkel matte å kontrollere batteriets generelle helse. Denne guiden forklarer hvordan. 
+description: Det er mulig med enkel matte å kontrollere batteriets generelle helse. Denne guiden forklarer hvordan.
 weight: 1
 ---
 
@@ -86,8 +86,7 @@ stor dette tapet er nøyaktig.  Audi oppgir indirekte dette tapet for WLTP forbr
 På Audi e-tron oppgis minimum WLTP forbruk til 22.2kWh/100km. Samtidig oppgis rekkevidden til 441km. Når man vet at batteriet er på 86.5kWh vet man for å få 441km ut av det batteriet må man ha et forbruk på 19.6kWh/100. (86.5/4,41)
 22.2/19.6 gir et tap på 13.2%. Dette er et relativt høyt tall og over det man vanligvis ser.
 
-La oss anta at at man har ladet fra 15% - 99% og ladeboksen oppgir at man har ladet 79.15kWh. Dette betyr at å lade hele batteriet krever 94.22kWh Dette tilsvarer 8.8% over batteriet kapasitet. Sannsynligvis er batteriet kapasitet bra i henhold til spesifikasjon,
-men er vanskelig å vite helt sikkert da man ikke vet varmetapet i lader/kabler.
+La oss anta at man har ladet fra 15 til 99 %, og at ladeboksen oppgir 79,15 kWh levert energi. Det tilsvarer 94,22 kWh for en full lading, som er 8,8 % mer enn batteriets kapasitet. Batterikapasiteten er sannsynligvis innenfor spesifikasjonen, men det er vanskelig å vite sikkert uten å kjenne varmetapet i lader og kabler.
 
 ## Hvordan beskytte batteriet?
 

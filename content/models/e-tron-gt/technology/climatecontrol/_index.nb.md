@@ -22,9 +22,9 @@ Det gir også passasjeren i baksetet et eget panel der de kan justere baksonen
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/climatecontrol/rearaccontrol.webp">
         <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/climatecontrol/rearaccontrol.webp"
-        class="img-fluid" alt="Seperat styring for baksetet" title="Seperat styring for baksetet">
+        class="img-fluid" alt="Separat styring for baksetet" title="Separat styring for baksetet">
     </a>
-    <figcaption><h4>Seperat styring for baksetet</h4></figcaption>
+    <figcaption><h4>Separat styring for baksetet</h4></figcaption>
 </figure>
 
 ## Parkeringsklimanlegg

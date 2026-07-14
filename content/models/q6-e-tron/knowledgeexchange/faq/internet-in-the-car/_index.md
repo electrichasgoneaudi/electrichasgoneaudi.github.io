@@ -43,7 +43,7 @@ To see the status of your usage, you can use the MMI in your car, or you can see
 
 Just click on the option and you will come to your status page with links to buy and manage your data packages:
 
-Note: This function has not been working for along time in several contries, så this may not be valid anymore
+Note: This function has not been working for along time in several countries, så this may not be valid anymore
 
 In the example below, an additional data package of 20 GB has been added, which is then added to the 10 GB package that comes with the car
 

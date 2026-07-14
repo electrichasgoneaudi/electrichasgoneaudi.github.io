@@ -9,13 +9,13 @@ weight: 3
 Rekkevidden på elektriske biler er typisk oppgitt som [WLTP rekkevidde](https://en.wikipedia.org/wiki/Worldwide_Harmonised_Light_Vehicles_Test_Procedure) (Worldwide Harmonised Light Vehicles Test Procedure) i
 Europa eller [EPA](https://en.wikipedia.org/wiki/Fuel_economy_in_automobiles#EPA_testing_procedure:_2008_and_beyond) i USA.
 
-Nedenfor ser du rekkevidden til de forskjellige nåværende og noen fremtidige Audi -modeller. Rekkevidden er fra 341 km (211 miles) til 700 km (435 miles) i henhold til WLTP kombinert standarden. 
+Nedenfor ser du rekkevidden til de forskjellige nåværende og noen fremtidige Audi -modeller. Rekkevidden er fra 341 km (211 miles) til 700 km (435 miles) i henhold til WLTP kombinert standarden.
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/guides/understandingrange/wltprangebasictrim_st.webp" width="2074" height="1316" title="WLTP rekkevidde helelektriske Audier" >}}
 
 Det viktigste aspektet av rekkevidde er selvfølgelig hvor stort batteriet er. Et større batteri betyr mer energi å bruke.
 
-Tabellen nedenfor viser tilgjengelig batteristørrelse for de forskjellige modellene. 
+Tabellen nedenfor viser tilgjengelig batteristørrelse for de forskjellige modellene.
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/guides/understandingrange/batterysize_st.webp" width="2075" height="1478" title="Tilgjengelig batteri helelektriske Audier" >}}
 
@@ -44,12 +44,12 @@ Grafen nedenfor viser hvor mye luftmotstanden påvirker forbruker på forskjelli
 
 <figure>
     <a href="https://media.evkx.net/ehga/guides/understandingrange/aerodynamicdrag.webp">
-        <img src="https://media.evkx.net/ehga/guides/understandingrange/aerodynamicdrags.webp" class="img-fluid" alt="Consumption caused by aerodynamic dra" title="Consumption caused by aerodynamic dra">
+        <img src="https://media.evkx.net/ehga/guides/understandingrange/aerodynamicdrags.webp" class="img-fluid" alt="Forbruk som skyldes luftmotstand" title="Forbruk som skyldes luftmotstand">
     </a>
-    <figcaption><h4>Consumption caused by aerodynamic dra</h4></figcaption>
+    <figcaption><h4>Forbruk som skyldes luftmotstand</h4></figcaption>
 </figure>
 
-Calculated values for consumption only comming from aerodynamic drag based on 80% drivetrain efficiency.
+Beregningene viser bare forbruket som skyldes luftmotstand, basert på 80 prosent virkningsgrad i drivlinjen.
 
 | Speed | Audi e-tron 55 | Audi Q4 e-tron | Audi e-tron GT |
 |-----|---------|-----------|----------|
@@ -57,9 +57,9 @@ Calculated values for consumption only comming from aerodynamic drag based on 80
 | 80km/h (49.7mph) | 7.79 kWh/100km | 7.52 kWh/100km | 5.92kWh/100km |
 | 120km/h (74.6mph) | 17.53kWh/100km | 16.94kWh/100km | 13.33kWh/100km |
 
-You see how at high speed the Audi e-tron GT saves a lot of energy compared to the suv because of less aerodynamic drag.
+Ved høy hastighet bruker Audi e-tron GT betydelig mindre energi enn SUV-en fordi luftmotstanden er lavere.
 
-This values are based on the drag coefficient and front area of the models
+Verdiene er basert på modellenes luftmotstandskoeffisient og frontareal.
 
 | Model | Drag coefficient (cd) | Frontal area |
 |----|-----|------|
@@ -112,11 +112,11 @@ Indre motstand i batteri gir varmetap i batteri og reduserer mengden energi man 
 
 ### Egenskaper som endres grunnet valg av ekstrautstyr
 
-Mange av de nevnte faktorene er faste. Som at e-tron Sportback har mindre luftmotstand en e-tron SUV pga av formen på karoseriet. 
+Mange av de nevnte faktorene er faste. Som at e-tron Sportback har mindre luftmotstand en e-tron SUV pga av formen på karoseriet.
 
-Men andre faktorer er påvirket av valg av utstyr man velger til bilen. Hvis man f.eks kjøper bredere dekk man man få et høyere forbruk og dermed en kortere rekkevidde.
+Andre faktorer påvirkes av utstyret man velger til bilen. Bredere dekk kan for eksempel gi høyere forbruk og dermed kortere rekkevidde.
 
-Grafen nedenfor viser hvor mye forbruket kan øke hvis man velger å legge på alt ekstrautstyr som er tilgjengelig. 
+Grafen nedenfor viser hvor mye forbruket kan øke hvis man velger å legge på alt ekstrautstyr som er tilgjengelig.
 
 ![Consumption](https://media.evkx.net/ehga/guides/understandingrange/optionsconsumption.webp "WLTP forbruk med alt utstyr.")
 
@@ -130,22 +130,22 @@ I den virkelige verden er det nesten umulig å få akkurat samme rekkevidde som 
 
 ### Førerforhold
 
-Førerforhold er en av faktorne som påvirker forbruket mest. Hvis det er tørr asfalt så er rullemotstanden mye lavere enn med våt vei eller vei 
+Førerforhold er en av faktorne som påvirker forbruket mest. Hvis det er tørr asfalt så er rullemotstanden mye lavere enn med våt vei eller vei
 full av snø.
 
 Våt veibane kan i noen tilfeller øke forbruket med mer enn 50% tilsvarende helt tørr veibane.
 
 ### Hastighet
 
-Høy fart øker forbruket grunnet høyere luftmotstand. Biler som er mer aerodynamisk vil i mindre grad bli påvirekt av høy fart. 
+Høy fart øker forbruket grunnet høyere luftmotstand. Biler som er mer aerodynamisk vil i mindre grad bli påvirekt av høy fart.
 
 F.eks A6 e-tron påvirker mindre av hastighet enn e-tron.
 
-### Tempratur
+### Temperatur
 
 Tempratureren påvirker rekkevidden på flere måter.  Hvis det er kaldt så er luften tettere noe som gir høyere luftmotstand.
 
-I tilegg, så vil varme eller kalde tempratur øke strømforbruket på klimanlegg for å få riktig tempratur i bil.
+I tillegg, så vil varme eller kalde temperatur øke strømforbruket på klimanlegg for å få riktig temperatur i bil.
 
 Spesielt på korte turer vil slik oppvarming gjøre at det forbruket blir høyt da mye energi går til å varme i begynnelsen.
 
@@ -160,9 +160,9 @@ Som sjåfør kan du påvirke rekkevidden stort.
 
 ## Hvordan virker rekkeviddeindikatoren i elektriske Audier
 
-Rekkeviddeindikatoren i elektriske Audier er mer avansert en rekke andre merker. 
+Rekkeviddeindikatoren i elektriske Audier er mer avansert en rekke andre merker.
 
-Mens noen merker viser samme rekkevidde uansett vær og kjørestil til eieren prøver helelektriske 
+Mens noen merker viser samme rekkevidde uansett vær og kjørestil til eieren prøver helelektriske
 Audier å lære av tidligere kjøreturer for å beregne rekkevidden.
 
 Dette skaper en rekke spørsmål fra eiere om rekkevidden siden mange opplever at rekkevidden varierer på et litt ladenivå.

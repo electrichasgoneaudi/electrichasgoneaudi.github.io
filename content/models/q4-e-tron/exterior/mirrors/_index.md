@@ -22,7 +22,7 @@ Electric adjustable mirrors with heating are standard on Audi e-tron (option ID 
 
 As an option you can have electrically adjustable, heated and retractable side mirrors, automatically dimmable on both sides, with integrated LED turn signal and curb automatic in the side mirror on the passenger side and projection light in  the side mirrors that project a graphic light onto the ground.
 
-This is part part of [comfort package](/models/q4-e-tron/optionguide/list/#equipment-packages) with option id **PYA**
+This is part of the [comfort package](/models/q4-e-tron/optionguide/list/#equipment-packages) with option ID **PYA**.
 
 ## Mirror Style
 

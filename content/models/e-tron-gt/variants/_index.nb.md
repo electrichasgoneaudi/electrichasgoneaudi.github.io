@@ -1,47 +1,60 @@
 ---
-title: Audi e-tron GT varianter
+title: Varianter av Audi e-tron GT
 linktitle: Varianter
-description: Det er for øyeblikket tre nåværende varianter og to utgåtte varianter av e-tron GT
+description: Dagens Audi e-tron GT-familie har fire varianter med opptil 680 kW og opptil 622 km WLTP-rekkevidde.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
 
-## Nåværende varianter
+Alle dagens e-tron GT-varianter har quattro-firehjulsdrift, batteri på 105 kWh brutto / 97 kWh utnyttbart og hurtiglading med opptil 320 kW. De maksimale effekttallene nedenfor inkluderer Launch Control der dette er aktuelt.
 
-### Audi S e-tron GT
+## Audi e-tron GT quattro
 
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/e-tron-gt/variants/s-e-tron_gt_st.webp" width="3000" height="2250" title="Audi e-tron GT ytelse" >}}
+- Maksimal effekt: **430 kW** med Launch Control (**370 kW** ellers)
+- 0–100 km/t: **4,0 sekunder**
+- Maksimal rekkevidde: **622 km WLTP**
 
-Audi S e-tron GT leverer imponerende kraft med en maksimal effekt på 500 kW (680 hk / 671 bhp) og en total dreiemoment på 740 Nm (546 lb-ft). Denne høyytelsesmaskinen kan akselerere fra 0 til 100 km/t (0 til 62 mph) på bare 3,4 sekunder, og den når en topphastighet på 245 km/t (152 mph), noe som gjør den til en utmerket bil i sin klasse. Under WLTP-standarden (Worldwide Harmonized Light Vehicles Test Procedure) varierer bilens rekkevidde mellom 609 til 565 km (379-351 miles), avhengig av spesifikk konfigurasjon og alternativer.
+Denne innstegsmodellen kom inn i det oppdaterte utvalget i 2025 og har den lengste oppgitte rekkevidden i familien.
 
-### Audi RS e-tron GT
+## Audi S e-tron GT
 
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/e-tron-gt/variants/rs-e-tron-gt_2_st.webp" width="3000" height="2250" title="Audi e-tron GT ytelse" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/e-tron-gt/variants/s-e-tron_gt_st.webp" width="3000" height="2250" title="Audi S e-tron GT" >}}
 
-Med overboost leverer Audi RS e-tron GT en imponerende maksimal effekt på 630 kW (857 hk / 845 bhp). Selv uten overboost, har den en formidabel effekt på 560 kW (761 hk / 751 bhp). Maksimalt dreiemoment når utrolige 865 Nm (638 lb-ft). Denne kraftpakken kan akselerere fra 0 til 100 km/t (0 til 62 mph) på bare 2,8 sekunder og oppnår en topphastighet på 250 km/t (155 mph), noe som understreker dens fantastiske ytelse. Under WLTP-standarden (Worldwide Harmonized Light Vehicles Test Procedure) varierer bilens rekkevidde mellom 598 til 527 km (372-328 miles), avhengig av spesifikk konfigurasjon og alternativer.
+- Maksimal effekt: **500 kW**
+- Maksimalt dreiemoment: **740 Nm**
+- 0–100 km/t: **3,4 sekunder**
+- Toppfart: **245 km/t**
+- Maksimal rekkevidde: **609 km WLTP**
 
-### Audi RS e-tron GT Performance
+## Audi RS e-tron GT
 
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/e-tron-gt/variants/rs-e-tron-gt-performance_st.webp" width="3000" height="2250" title="Audi e-tron GT ytelse" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/e-tron-gt/variants/rs-e-tron-gt_2_st.webp" width="3000" height="2250" title="Audi RS e-tron GT" >}}
 
-Med overboost leverer Audi RS e-tron GT Performance en imponerende maksimal effekt på 680 kW (925 hk / 912 bhp). Selv uten overboost, har den en formidabel effekt på 610 kW (829 hk / 818 bhp). Maksimalt dreiemoment når utrolige 1027 Nm (758 lb-ft). Denne kraftpakken kan akselerere fra 0 til 100 km/t (0 til 62 mph) på bare 2,5 sekunder og oppnår en topphastighet på 250 km/t (155 mph), noe som understreker dens fantastiske ytelse. Under WLTP-standarden (Worldwide Harmonized Light Vehicles Test Procedure) varierer bilens rekkevidde mellom 598 til 527 km (372-328 miles), avhengig av spesifikk konfigurasjon og alternativer.
+- Maksimal effekt: **630 kW**
+- Maksimalt dreiemoment: **865 Nm**
+- 0–100 km/t: **2,8 sekunder**
+- Toppfart: **250 km/t**
 
-## Utgåtte varianter
+## Audi RS e-tron GT performance
 
-Første generasjoner hadde verdenspremiere i februar 2021
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/e-tron-gt/variants/rs-e-tron-gt-performance_st.webp" width="3000" height="2250" title="Audi RS e-tron GT performance" >}}
 
-### Audi e-tron GT
+- Maksimal effekt: **680 kW**
+- Maksimalt dreiemoment: **1 027 Nm**
+- 0–100 km/t: **2,5 sekunder**
+- Toppfart: **250 km/t**
 
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/e-tron-gt/variants/e-tron-gt_st.webp" width="2200" height="1200" title="Audi e-tron GT GEN 1" >}}
+RS e-tron GT performance er den kraftigste serieproduserte Audi-modellen som ble annonsert for denne modellgenerasjonen.
 
-Med overboost når Audi e-tron GT en maksimal effekt på 390 kW (530 hk / 523 bhp). Uten overboost leverer den 350 kW (476 hk / 469 bhp). Maksimalt dreiemoment er 640 Nm (472 lb-ft). Den kan akselerere fra 0 til 100 km/t (0 til 62 mph) på 4,1 sekunder og når en topphastighet på 245 km/t (152 mph), noe som viser dens solide ytelse. Under WLTP-standarden (Worldwide Harmonized Light Vehicles Test Procedure) varierer bilens rekkevidde mellom 488 til 448 km (303-278 miles), avhengig av spesifikk konfigurasjon og alternativer.
+## Første generasjon
 
-[Se fullstendige tekniske detaljer](/models/e-tron-gt/specifications/#audi-e-tron-gt)
+Den opprinnelige Audi e-tron GT og RS e-tron GT hadde premiere i februar 2021 og ble erstattet av den oppdaterte familien i 2024.
 
-### Audi RS e-tron GT
+| Variant | Maksimal effekt med boost | 0–100 km/t | Maksimal WLTP-rekkevidde |
+|---|---:|---:|---:|
+| Audi e-tron GT | 390 kW | 4,1 s | 488 km |
+| Audi RS e-tron GT | 475 kW | 3,3 s | 495 km |
 
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/e-tron-gt/variants/rs-e-tron-gt_st.webp" width="2200" height="1100" title="Audi RS e-tron GT GEN 1" >}}
+Se de [genererte spesifikasjonene](../specifications/) for konfigurasjonene som er lagret for begge generasjoner.
 
-Med overboost når Audi RS e-tron GT (GEN1) en maksimal effekt på 475 kW (646 hk / 637 bhp). Uten overboost leverer den en sterk effekt på 440 kW (598 hk / 590 bhp). Maksimalt dreiemoment er 830 Nm (613 lb-ft). Denne kraftpakken kan akselerere fra 0 til 100 km/t (0 til 62 mph) på bare 3,3 sekunder og når en topphastighet på 250 km/t (155 mph), noe som viser dens imponerende ytelse. Under WLTP-standarden (Worldwide Harmonized Light Vehicles Test Procedure) varierer bilens rekkevidde mellom 495 til 447 km (308-278 miles), avhengig av spesifikk konfigurasjon og alternativer.
-
-[Se fullstendige tekniske detaljer](/models/e-tron-gt/specifications/#audi-rs-e-tron-gt)
+{{<children description="true" />}}

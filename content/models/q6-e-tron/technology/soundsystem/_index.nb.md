@@ -1,46 +1,20 @@
 ---
-title: Audi Q8 e-tron lydsystem
-linktitle: Lydsystem
-description: Du kan velge mellom to forskjellige lydsystem for Audi Q8 e-tron
+title: Lydsystemer i Audi Q6 e-tron
+linktitle: Lydsystemer
+description: Audi Q6 e-tron kan leveres med Audi sound system eller et valgfritt Bang & Olufsen Premium Sound System.
 weight: 7
 ---
-<!-- markdownlint-disable MD033 -->
+
 ## Audi sound system
 
-Standard lydsystemet er et 180 Watt 6-kanalssystem med 10 høyttalere inkludert senterhøyttaler og subwoofer.
+Audi sound system bruker ti høyttalere, inkludert senterhøyttaler og subwoofer, drevet av en sekskanals forsterker med en samlet effekt på 180 watt. Standardutstyret varierer mellom marked og variant.
 
-<figure>
-    <a href="https://media.evkx.net/ehga/models/e-tron/technology/soundsystem/standard_door_speakers.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron/technology/soundsystem/standard_door_speakerss.webp"
-        class="img-fluid" alt="Dør med bass og mellomhøyttaler" title="Dør med bass og mellomhøyttaler">
-    </a>
-    <figcaption><h4>Dør med bass og mellomhøyttaler</h4></figcaption>
-</figure>
+## Bang & Olufsen Premium Sound System
 
-OptionId **9VD**
+Det valgfrie Bang & Olufsen Premium Sound System med 3D-lyd bruker 20 høyttalere og 830 watt forsterkereffekt. Fire høyttalere er integrert i hodestøttene foran. De kan gi personlige navigasjonsmeldinger og telefonlyd mens de øvrige høyttalerne fortsatt spiller for kupeen.
 
-## Bang & Olufsen lydsystem med 3D-lyd
+Ekstra høyttalere i A-stolpene skaper høydevirkningen i 3D-lyden. Støykompensasjon tilpasser avspillingen til endringer i støynivået i kupeen, mens opplyst Bang & Olufsen-logo markerer systemet i mørket.
 
-Bang & Olufsen lydsystem med 3D-lyd tilbyr en fascinerende funksjon for hi-fi-fans – lyd som inkluderer den romlige høyden. Den oppnår dette via flere ekstra høyttalere. Interiøret forvandles til en bred lydscene der musikken utfolder seg akkurat slik den ble spilt inn i konsertsalen – uten kunstige effekter. Bak denne teknologien ligger en algoritme som Audi utviklet i samarbeid med Fraunhofer Institute i Erlangen. Den tar stereo- eller 5.1-opptak, beregner informasjonen for den tredje dimensjonen og tilpasser den for 3D-høyttalerne.
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/soundsystem/soundsystem_1_st.webp" width="3000" height="1783" title="Bang & Olufsen Premium Sound System i Audi Q6 e-tron" >}}
 
-<figure>
-    <a href="https://media.evkx.net/ehga/models/e-tron/technology/soundsystem/bo_door_speaker.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron/technology/soundsystem/bo_door_speakers.webp"
-        class="img-fluid" alt="Basshøyttaler i inngangsdør med B&O-system" title="Basshøyttaler i inngangsdør med B&O-system">
-    </a>
-    <figcaption><h4>Basshøyttaler i inngangsdør med B&O-system</h4></figcaption>
-</figure>
-
-I toppversjonen implementerer Bang & Olufsen Sound System 3D-lyd også i det bakre sitteområdet. Ved hjelp av MMI-systemet og en separat kontrollenhet for bakpassasjerene, avhengig av modell, kan lydinnstillingen optimaliseres til personlige preferanser – med fokus på enten for- eller bakseter, eller på alle seter.
-
-Illustrasjonen under viser hvor de 16 forskjellige høyttalerne er plassert.
-
-<figure>
-    <a href="https://media.evkx.net/ehga/models/e-tron/technology/soundsystem/soundsystem1.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron/technology/soundsystem/soundsystem1s.webp"
-        class="img-fluid" alt="Bang & Olufsen lydsystem med 16 høyttalere" title="Bang & Olufsen lydsystem med 16 høyttalere">
-    </a>
-    <figcaption><h4>Bang & Olufsen lydsystem med 16 høyttalere</h4></figcaption>
-</figure>
-
-Alternativ-IDen for dette systemet er **9VS**
+Tilgjengelighet og pakkekombinasjoner avhenger av land, variant og modellår.

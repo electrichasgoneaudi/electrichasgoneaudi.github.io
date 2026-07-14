@@ -1,7 +1,7 @@
 ---
 title: Audi Q6 e-tron pre sense rear
 linktitle: Pre sense rear
-description: Audi Q6 e-tron can be equipped with Audi pre sense rear. Audi pre sense rear uses radar sensors in the rear bumper to detect an impending rear-end collision, and it initiates preventive safety measures. 
+description: Audi Q6 e-tron can be equipped with Audi pre sense rear. Audi pre sense rear uses radar sensors in the rear bumper to detect an impending rear-end collision, and it initiates preventive safety measures.
 weight: 1
 sectiontabs: "/models/q6-e-tron/technology/"
 ---
@@ -16,7 +16,6 @@ sectiontabs: "/models/q6-e-tron/technology/"
 
 These include pretensioning the front seat belts by electric power and closing the windows and sliding sunroof. In addition, the system activates the hazard warning lights to alert following traffic to the critical situation. In this process, the Rear-end collision alert signal (RECAS) is triggered, which flashes the hazard warning lights at a high frequency. Audi pre sense rear is active in background over the car’s entire driving speed range with the exception of trailer towing situations.
 
-This is part of the city assistance package with option id **PCM**
 
 
 {{<children description="true" />}}

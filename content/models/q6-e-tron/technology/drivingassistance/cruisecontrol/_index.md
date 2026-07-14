@@ -1,21 +1,11 @@
 ---
 title: Audi Q6 e-tron cruise control
 linktitle: Cruise control
-description: Audi Q6 e-tron is equipped with cruise control. Cruise control maintains a desired driving speed constantly starting at around 30 km/h (18.6 mph), provided that it can be maintained by engine power and engine braking effects. 
+description: Cruise control maintains a speed selected by the driver within the system's operating range.
 weight: 1
 sectiontabs: "/models/q6-e-tron/technology/"
 ---
-<!-- markdownlint-disable MD033 -->
-<figure>
-    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/cruisecontrol/cruisecontrolhandle.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/cruisecontrol/cruisecontrolhandles.webp"
-        class="img-fluid" alt="Cruise control stalk" title="Cruise control stalk">
-    </a>
-    <figcaption><h4>Cruise control stalk</h4></figcaption>
-</figure>
 
-The system offers relief to drivers in this way – especially on long trips. At the same time, the constant speed mode of driving contributes towards lower fuel consumption and lower CO2 emissions. The system is operated via a separate steering column stalk, and the preset driving speed is shown in the instrument cluster. The system is deactivated when the driver brakes.
+Cruise control maintains the speed selected by the driver and reduces workload on longer journeys. Braking or cancelling the function returns full speed control to the driver.
 
-See also [Adaptive Cruise Control](../adaptivecruisecontrol/) 
-
-{{<children description="true" />}}
+Adaptive cruise control adds distance regulation to traffic ahead, while adaptive driving assistant plus can also support lane guidance. The functions fitted as standard or optional equipment vary by market, variant and model year.

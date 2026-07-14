@@ -6,7 +6,7 @@ weight: 30
 ---
 
 ## Forvarming av batteri
-Audi Q6 og andre biler på PPE platformen har automatisk forvarming av batteri. 
+Audi Q6 og andre biler på PPE platformen har automatisk forvarming av batteri.
 
 ## Hvorfor ønsker du å forvarme batteriet ?
 
@@ -21,7 +21,7 @@ Det er imidlertid noen viktige ting man må være klar over
 - Eneste måten er å legge inn et lademål i din navigasjon, enten manuelt eller godta den eller de ladestoppene som Audi Ladeplanlegger legger inn i ruta di.
 - Da vil bilen selv planlegge forvarming slik at den skal være på korrekt temperatur. Normalt er dette ca 25 grader celsius
 
-Det er altså veldig kritisk at man oppretter en navigasjonsrute som **faktisk innebærer** en ladesesjon/ladestopp. 
+Det er altså veldig kritisk at man oppretter en navigasjonsrute som **faktisk innebærer** en ladesesjon/ladestopp.
 
 Det holder **IKKE** å bare legge inn en destinasjon som er en hurtiglader hvis dine ladeinnstillinger er slik at du ikke trenger å lade når du har nådd målet ditt.
 
@@ -83,7 +83,7 @@ Den korte initielle ladetesten ga meg et 1% SoC og 1 °C mer på batteriet
 
 ![alt text](image-11.png)
 
-Klokken var da 16:48. Jeg bare kjørte en en helt kort biltur og parkerte bilen, mens jeg satt i førsersetet og bare ventet med tenningen på og sikkerhetsbeltet festet (simulering av en kjøretur).
+Klokken var da 16.48. Jeg kjørte en svært kort tur og parkerte bilen. Deretter satt jeg i førersetet og ventet med tenningen på og sikkerhetsbeltet festet for å simulere en kjøretur.
 
 Kl 17.14 hadde jeg fått 10 °C til en 'pris' av 4 % SoC. Forenklet matematikk er da at det har vært brukt 4 kWh så langt på forvarming og 26 minutter.
 
@@ -113,7 +113,7 @@ Jeg ladet kun 2 %, og det ga raskt temperatur stigning, tenker at forvarmingsele
 
 ![alt text](image-17.png)
 
-**Konklusjon** 
+**Konklusjon**
 
 Forvarming nytter. Og 15 grader hjelper godt. Jeg har ikke testet å forvarme mer for å ev oppnå 25 °C . Prinsippet er godt forklart i avsnittet over og resultatet er tydelig.
 
@@ -123,7 +123,7 @@ Basert på en praktisk test fra en annen Q6 eier på Facebook som iverksatt forv
 
 Avsnittet over viser jo at +15 °C utgjør en vesentlig forskjell, så det monner.
 
-Det kan være mulig at et trix er å legge inn en **ekstra** ladestasjonsstopp i navigasjonen som er litt før den man egentlig har tenk å lade på, for å lure bilen til å starte forvarming tidligere og så bare kjøre forbi ev. slette den når man har nådd fram til den og da håpe at forvarmingen fortsetter fram til det **egentlige** ladestoppet. 
+Det kan være mulig at et trix er å legge inn en **ekstra** ladestasjonsstopp i navigasjonen som er litt før den man egentlig har tenk å lade på, for å lure bilen til å starte forvarming tidligere og så bare kjøre forbi ev. slette den når man har nådd fram til den og da håpe at forvarmingen fortsetter fram til det **egentlige** ladestoppet.
 
 ### Forvarming før bilturen starter
 
@@ -135,7 +135,7 @@ Slik gjør du om du vil forvarme før du kjører.
 
 - Ta med bilnøkkel i bilen
 - Legg inn et lademål i navigasjon som iverksetter lading
-  f.eks slik : 
+  f.eks slik :
 
   ![alt text](image-18.png)
 
@@ -159,30 +159,3 @@ Slik gjør du om du vil forvarme før du kjører.
 ### Forvarming har en 'pris'
 
 Som avsnittene over viser, så virker det jo som du må regne med et SoC tap på 7-10 % for en full forvarming i rimelig kalde forhold, så det er alltid en vurdering man kan ta i forhold til ladetid. Kan man f.eks ta en matbit når det lades, så er kansje ikke batteritemperaturen så viktig likevel ?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

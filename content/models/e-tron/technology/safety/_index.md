@@ -1,13 +1,13 @@
 ---
 title: Audi e-tron safety technology
 linktitle: Safety
-description: Audi e-tron has an serveral safety technologies to reduce damage in collisions
+description: The Audi e-tron has several safety technologies designed to reduce injuries in a collision.
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
 ## Airbags
 
-Audi e-tron has serveral airbags as standard.
+Audi e-tron has several airbags as standard.
 
 ### Front airbags
 
@@ -20,7 +20,7 @@ Audi e-tron has serveral airbags as standard.
 
 ### Head airbags
 
-Both front and rear are protect with head airbags. 
+Both front and rear are protect with head airbags.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/technology/safety/sideairbags.webp">
@@ -50,16 +50,16 @@ included in the Audi Pre senmse backseat package **4X9**
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/technology/safety/airbagssiderear.webp">
         <img src="https://media.evkx.net/ehga/models/e-tron/technology/safety/airbagssiderears.webp"
-        class="img-fluid" alt="Air bag side rear is optinal. Only head airbags are stanard on e-tron" title="Air bag side rear is optinal. Only head airbags are stanard on e-tron">
+        class="img-fluid" alt="Air bag side rear is optional. Only head airbags are standard on e-tron" title="Air bag side rear is optional. Only head airbags are standard on e-tron">
     </a>
-    <figcaption><h4>Air bag side rear is optinal. Only head airbags are stanard on e-tron</h4></figcaption>
+    <figcaption><h4>Air bag side rear is optional. Only head airbags are standard on e-tron</h4></figcaption>
 </figure>
 
 ## Seat belts
 
 Front seats belts have reversible belt tensioners at the front
 
-## Audi Pre-sense back seat pacakge
+## Audi Pre-sense back seat package
 
 The safety package includes features for increased safety and comfort in the back seat. Rear side airbags in addition to the front airbags and the headrest system provide extra protection for the rear seat passengers. Reversible belt tensioners at the rear in addition to the Audi pre sense basic equipment reversible belt tensioners at the front. In case of emergency braking, braking
 due to danger or in driving dynamic border situations, preventive tightening of the seat belts is implemented in addition
@@ -71,7 +71,7 @@ Option **4X9**
 
 ## Crash testing
 
-Audi e-tron has received full score on different crash testes. See below. 
+Audi e-tron has received full score on different crash testes. See below.
 
 ### Euro NCAP Crash Test of Audi e-tron 2019
 

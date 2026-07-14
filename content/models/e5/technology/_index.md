@@ -1,12 +1,12 @@
 ---
-title: Audi E5 Sportback technology
+title: AUDI E5 Sportback technology
 linktitle: Technology
-description: The Audi E5 Sportback combines 420 kW DC fast charging, V2L at 33 kW, comprehensive Level 2 driver assistance, and a China-specific connected software platform.
+description: The AUDI E5 Sportback combines rapid DC charging, comprehensive driver assistance, and a connected software platform developed for China.
 weight: 7
 ---
 <!-- markdownlint-disable MD033 -->
 
-Technology is a central pillar of the Audi E5 Sportback. The car is built on a deeply connected, intelligent platform co-developed with SAIC and delivers comprehensive driver assistance, ultra-fast charging, and a China-specific digital ecosystem.
+Technology is a central pillar of the AUDI E5 Sportback. The car is built on a deeply connected, intelligent platform co-developed with SAIC and delivers comprehensive driver assistance, ultra-fast charging, and a China-specific digital ecosystem.
 
 ## Charging
 
@@ -22,10 +22,6 @@ The E5 Sportback supports **420 kW DC fast charging** across all variants — on
 | **0–100% AC time** | ~8 h 38 min | ~8 h 38 min | ~7 h 10 min | ~8 h 38 min |
 
 Peak charging speed is reached at approximately 14% SoC and tapers gradually. At 80% SoC the charge rate is approximately 191 kW. The optimum charging window for the 100 kWh battery is 5–67% SoC.
-
-## V2L — Vehicle to Load
-
-All variants support **Vehicle-to-Load (V2L)** at up to **33 kW output**, enabling the car to power external devices or charge other EVs (V2V). This is available via the charge port without additional hardware.
 
 ## Driver assistance systems
 
@@ -64,16 +60,7 @@ These systems are optimized for dense urban traffic conditions typical of major 
 
 ## Safety
 
-The Audi E5 Sportback has achieved a **5-star Euro NCAP rating**:
-
-| Category | Score |
-|---|---|
-| Adult Occupant | 91% |
-| Child Occupant | 92% |
-| Vulnerable Road Users | 81% |
-| Safety Assist | 80% |
-
-**Airbags:** Driver and passenger front airbags; front side airbags; second-row side airbags; front and rear side curtain airbags; front center airbag.
+The manufacturer describes the body as engineered to a five-star safety standard, with high-strength steel accounting for more than 83.6% of the structure. The restraint system includes front, side, curtain, and front-center airbags. The model has not been assessed by Euro NCAP.
 
 ## Connectivity
 

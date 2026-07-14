@@ -1,7 +1,7 @@
 ---
 title: Audi Q5 e-tron interiør
 linktitle: Interiør
-description: Audi Q5 e-tron tilbyr et femseters premiuminteriør med dobbeltskjermsoppsett, valgfri seteventilasjon og romslig kabin muliggjort av den lange MEB-akselavstanden.
+description: Audi Q5 e-tron tilbyr et interiør med tre seterader, seks eller syv seter, dobbeltskjermsoppsett og en romslig kabin muliggjort av den lange MEB-akselavstanden.
 weight: 5
 ---
 <!-- markdownlint-disable MD033 -->
@@ -12,19 +12,19 @@ Audi Q5 e-tron-kabinen er designet rundt komfort og digital tilkobling, med den 
 
 ## Seter
 
-Q5 e-tron har plass til fem passasjerer fordelt på to rader.
+Q5 e-tron har plass til seks eller syv personer fordelt på tre seterader. Seksseteren har to individuelle seter på andre rad i et 2+2+2-oppsett, mens syvseteren har en treseters benk på andre rad i et 2+3+2-oppsett.
 
 ### Forseter
 
-- Fører- og passasjersete-konfigurasjon
+- Elektrisk justerbare fører- og passasjerseter
 - Høydejusterbare hodestøtter
-- Valgfri seteventilasjon
+- Seteventilasjon og massasjefunksjon på utvalgte utstyrsnivåer
 
 {{< evkxfiguresized thumb="models/audi/q5_e-tron/q5_e-tron_50_quattro/frontseats_a567e_st.webp" width="1920" height="1080" title="Audi Q5 e-tron forseter" >}}
 
-### Bakseter
+### Andre og tredje seterad
 
-Baksetebenken gir plass til tre passasjerer med god beinplass takket være den lange akselavstanden.
+Andre seterad har enten to individuelle seter eller en treseters benk, avhengig av valgt setekonfigurasjon. Begge versjonene har to seter på tredje rad. Den lange akselavstanden gir brukbar passasjerplass samtidig som nedfellbare bakseter gir god fleksibilitet.
 
 ## Skjermer og brukergrensesnitt
 
@@ -42,7 +42,7 @@ Q5 e-tron har Audis digitale kabinoppsett:
 
 ## Oppbevaring og bagasje
 
-- Bagasjeromvolum: **560 liter**
+- Maksimalt bagasjeromvolum: **1 825 liter** i seksseteren og omtrent **1 776 liter** i syvseteren
 - Ingen frunk
 - Maks taklast: **75 kg**
 

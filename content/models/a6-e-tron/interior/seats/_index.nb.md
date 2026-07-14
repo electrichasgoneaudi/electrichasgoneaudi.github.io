@@ -357,7 +357,7 @@ Pakken inkluderer:
 - Sportsseter foran med visuelt integrerte hodestøtter og uttalte setesidevanger for god sidestøtte i svinger
 - Fargejustering av seter Audi exclusive: setemidtdeler i konjakkbrunt skinn med vannfallssøm og kontrastsømmer i svart, setesidevanger og hodestøtter i svart kunstskinn med kontrastsømmer i konjakkbrun, S-preget i forseteryggene (baksetetrekkene er visuelt tilpasset forsetene)
 - 4-veis korsryggstøtte for forsetene, elektrisk justerbar horisontalt og vertikalt i fire retninger
-- Fargejustering av interiørelementer Audi exclusive: dekorative elementer i instrumentpanelet samt i dørene og dørarmlenene foran og bak i svart Dinamica mikrofiber med kontrastsømmer i konjakkbrun, midtarmlene og midtkonsoll i konjakkbrun Dinamica mikrofiber, instrumentpanel topp i svart med Audi exclusive kontrastsømmer i konjakkbrun
+- Fargejustering av interiørelementer Audi exclusive: dekorative elementer i instrumentpanelet samt i dørene og dørarmlenene foran og bak i svart Dinamica mikrofiber med kontrastsømmer i konjakkbrun, midtarmlene og midtkonsoll i konjakkbrun Dinamica mikrofiber, instrument panel topp i svart med Audi exclusive kontrastsømmer i konjakkbrun
 - Audi exclusive emblem i dørpanelinnleggene
 - Aksentflater og betjeningsknapper i høyglans svart for elementer i midtkonsollen og koppholderdekselet
 - Sportsratt i skinn, 3-eiket, flatet på toppen og bunnen, med multifunksjon og girskiftehendler samt rattapplikasjon i kromoptikk, S-emblem, rattgrep i perforert skinn og Audi exclusive kontrastsømmer i konjakkbrun
@@ -415,7 +415,7 @@ Pakken inkluderer:
 - Sportsseter plus foran med seteventilasjon, visuelt integrerte hodestøtter, dekorativ trim i ryggstøttens hode med S-emblem, og uttalte setesidevanger for god sidestøtte i svinger
 - Fargejustering av seter Audi exclusive: ventilert setemidtdel i forsetene og ikke-ventilert setemidtdel i de to ytre baksetene i fin nappaskinn perforert jet grå med diamantmønster i ocean blått, hodestøtter og setesidevanger i fin nappaskinn jet grå med kontrastsømmer i ocean blått, med omkransende bånd i ocean blått
 - Pneumatisk justerbar korsryggstøtte med massasjefunksjon for forsetene
-- Fargejustering av interiørelementer Audi exclusive: dekorative elementer i instrumentpanelet samt i dørene og dørarmlenene foran og bak i Dinamica mikrofiber jet grå med kontrastsømmer i ocean blått, midtarmlene og midtkonsoll i Dinamica mikrofiber jet grå, instrumentpanel topp i svart med kontrastsømmer i ocean blått
+- Fargejustering av interiørelementer Audi exclusive: dekorative elementer i instrumentpanelet samt i dørene og dørarmlenene foran og bak i Dinamica mikrofiber jet grå med kontrastsømmer i ocean blått, midtarmlene og midtkonsoll i Dinamica mikrofiber jet grå, instrument panel topp i svart med kontrastsømmer i ocean blått
 - Audi exclusive emblem i dørpanelinnleggene
 - Aksentflater og betjeningsknapper i høyglans svart for elementer i midtkonsollen og koppholderdekselet
 - Sportsratt i skinn, 3-eiket, flatet på toppen og bunnen, med multifunksjon og girskiftehendler samt rattapplikasjon i kromoptikk, S-emblem, rattgrep i perforert skinn og kontrastsømmer i ocean blått

@@ -1,72 +1,23 @@
 ---
-title: Audi Q8 e-tron sikkerhetsteknologier
+title: Sikkerhetsteknologi i Audi Q6 e-tron
 linktitle: Sikkerhet
-description: Audi Q8 e-tron har flere sikkerhetsteknologier for å redusere skader ved kollisjoner
+description: Audi Q6 e-tron kombinerer et omfattende beskyttelsessystem med forebyggende og aktiv sikkerhetsteknologi.
 weight: 10
 sectiontabs: "/nb/models/q6-e-tron/technology/"
 ---
-<!-- markdownlint-disable MD033 -->
-## Kollisjonsputer
 
-Audi Q8 e-tron har flere kollisjonsputer som standard.
+## Beskyttelse av passasjerene
 
-### Kollisjonsputer foran
+Audi Q6 e-tron bruker front-, side- og hodekollisjonsputer for å beskytte passasjerene ved en kollisjon. En midtkollisjonspute mellom forsetene bidrar til å redusere kontakten mellom fører og forsetepassasjer ved en sidekollisjon. Nøyaktig utstyrsnivå for kollisjonsputer og beskyttelse i baksetet avhenger av marked og spesifikasjon.
 
-<figure>
-    <a href="https://media.evkx.net/ehga/models/e-tron/technology/safety/frontairbags.webp">
-      <img src="https://media.evkx.net/ehga/models/e-tron/technology/safety/airbagssidefrontss.webp"
-        class="img-fluid" alt="Frontkollisjonsputer - standard" title="Frontkollisjonsputer - standard">
-    </a>
-    <figcaption><h4>Frontkollisjonsputer - standard</h4></figcaption>
-</figure>
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/safety/airbags_1_st.webp" width="3000" height="1710" title="Kollisjonsputesystemet i Audi Q6 e-tron" >}}
 
-### Hodekollisjonsputer
+Beltestrammere og kraftbegrensere virker sammen med kollisjonsputene. Når bilen har proaktiv passasjerbeskyttelse, kan systemet forberede kupeen på en registrert kritisk situasjon ved å stramme beltene og starte lukking av vinduene og panoramataket.
 
-Både foran og bak er beskyttet med hodekollisjonsputer.
+## Aktiv sikkerhet
 
-<figure>
-    <a href="https://media.evkx.net/ehga/models/e-tron/technology/safety/sideairbags.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron/technology/safety/sideairbagss.webp"
-        class="img-fluid" alt="Hodekollisjonsputer foran og bak" title="Hodekollisjonsputer foran og bak">
-    </a>
-    <figcaption><h4>Hodekollisjonsputer foran og bak</h4></figcaption>
-</figure>
+Audi pre sense front overvåker veien foran og kan varsle føreren eller aktivere nødbremsing når systemet oppdager kollisjonsfare. Filskiftevarsling, oppmerksomhetsovervåking og andre assistentfunksjoner supplerer den passive beskyttelsen. Standard- og tilleggsutstyr varierer mellom land og modellår; se [førerassistentsiden](../drivingassistance/) for de enkelte systemene.
 
-### Sidekollisjonsputer foran
+## Euro NCAP
 
-Foran er det standard med sidekollisjonsputer innebygd i setet som beskytter kroppen.
-
-<figure>
-    <a href="https://media.evkx.net/ehga/models/e-tron/technology/safety/airbagssidefront.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron/technology/safety/airbagssidefronts.webp"
-        class="img-fluid" alt="Sidekollisjonsputer foran er standard" title="Sidekollisjonsputer foran er standard">
-    </a>
-    <figcaption><h4>Sidekollisjonsputer foran er standard</h4></figcaption>
-</figure>
-
-### Sidekollisjonsputer bak
-
-På baksiden er sidekollisjonsputene valgfritt. Alternativ-ID er **4X4**. Det er også
-inkludert i Audi Pre senmse baksetepakke **4X9**
-
-<figure>
-    <a href="https://media.evkx.net/ehga/models/e-tron/technology/safety/airbagssiderear.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron/technology/safety/airbagssiderears.webp"
-        class="img-fluid" alt="Airbagsiden av kollisjonsputen er optional. Bare hodekollisjonsputer er standard på e-tron" title="Airbagsiden av kollisjonsputen er optional. Bare hodekollisjonsputer er standard på e-tron">
-    </a>
-    <figcaption><h4>Airbagsiden av kollisjonsputen er optional. Bare hodekollisjonsputer er standard på e-tron</h4></figcaption>
-</figure>
-
-## Setebelter
-
-Forsetebelter har reversible beltestrammere foran
-
-## Audi Pre-sense baksetepakke
-
-Sikkerhetspakken inneholder funksjoner for økt sikkerhet og komfort i baksetet. Sidekollisjonsputer bak i tillegg til kollisjonsputene foran og nakkestøttesystemet gir ekstra beskyttelse for baksetepassasjerene. Vendbare beltestrammere bak i tillegg til Audi pre sense basic utstyr vendbare beltestrammere foran. Ved nødbremsing, bremsing
-på grunn av fare eller i kjøredynamiske grensesituasjoner, er det i tillegg implementert forebyggende stramming av sikkerhetsbeltene
-til tiltakene i Audi pre sense basic. Det reduserer forover- og sidebevegelsene til baksetepassasjerene.
-Beltelås med lys gir bedre komfort for passasjerene, og gir kabinen elegant og eksklusiv belysning. Nå er letingen over
-etter beltespennen i mørket.
-
-Tilvalg **4X9**
+Audi Q6 e-tron fikk fem stjerner i Euro NCAPs vurdering i 2024, med 91 prosent for beskyttelse av voksne og 92 prosent for beskyttelse av barn. Se [hele vurderingen fra Euro NCAP](https://www.euroncap.com/assessments/audi/q6%2Be-tron/1056/).

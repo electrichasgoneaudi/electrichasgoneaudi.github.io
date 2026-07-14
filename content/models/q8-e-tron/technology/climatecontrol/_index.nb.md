@@ -30,7 +30,7 @@ drive bilen.
 
 Som ekstrautstyr kan du bestille 4-soners elektronisk klimakontroll.
 
-Dette gir i tilegg til egenskapene med 2 soner.
+Dette gir i tillegg til egenskapene med 2 soner.
 
 - Separat justering av temperaturregulering og luftfordeling på venstre og høyre side bak
 - Luftdyser i B-stolpen
@@ -72,7 +72,7 @@ fra MMI-manual eller satt av en timer. Et typisk brukstilfelle er når du lader 
     <figcaption><h4>Parkeringsklimanlegg vil kjøre i 30 minutter (60 ved lynlading) og kan startes fra MMI eller myAudi app</h4></figcaption>
 </figure>
 
-Parkeringsklimaanlegget kan kan også styres av [myAudi-appen](../../technology/audiconnect/myaudi/). Dette er nyttig når du skal varme eller avkjøle bilen før du bruker den.
+Parkeringsklimaanlegget kan også styres med [myAudi-appen](../../technology/audiconnect/myaudi/). Dette er nyttig når du skal varme eller avkjøle bilen før du bruker den.
 
 Parkeringsklimaanlegget kan ikke brukes hvis batteriet har for lav ladning (<30 %)
 

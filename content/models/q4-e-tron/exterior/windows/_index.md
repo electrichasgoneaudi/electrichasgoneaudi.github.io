@@ -25,9 +25,9 @@ in the luggage room.
 <figure>
     <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/windows/paint_typhoongrey_2.webp">
         <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/windows/paint_typhoongrey_2s.webp"
-        class="img-fluid" alt="Privacy windows on a Audi Q4 e-tron with Typhoon color" title="Privacy windows on a Audi Q4 e-tron with Typhoon color">
+        class="img-fluid" alt="Privacy windows on an Audi Q4 e-tron with Typhoon color" title="Privacy windows on an Audi Q4 e-tron with Typhoon color">
     </a>
-    <figcaption><h4>Privacy windows on a Audi Q4 e-tron with Typhoon color</h4></figcaption>
+    <figcaption><h4>Privacy windows on an Audi Q4 e-tron with Typhoon color</h4></figcaption>
 </figure>
 
 ## Heated and acoustic front window

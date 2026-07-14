@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 e-tron head-up display
 linktitle: Heads up display
-description: Med den valgfrie augmented reality head-up-skjermen i Q4 e-tron og Q4 Sportback e-tron, tar Audi et stort skritt fremover innen skjermteknologi. 
+description: Med den valgfrie augmented reality head-up-skjermen i Q4 e-tron og Q4 Sportback e-tron, tar Audi et stort skritt fremover innen skjermteknologi.
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
@@ -33,7 +33,7 @@ Det tekniske hjertet i head-up-displayet med augmented reality er bildegenererin
 
 Det som er kjent som AR Creator fungerer som hjernen og bildegeneratoren på programvaresiden – dette er en prosesseringsenhet i den modulære infotainmentplattformen (MIB 3) som består av flere individuelle moduler. AR Creator gjengir skjermsymbolene med en hastighet på 60 bilder per sekund og tilpasser dem til geometrien til projeksjonsoptikken. Samtidig beregner den deres plassering i forhold til omgivelsene, som den henter informasjon om via rådataene til frontkameraet, radarsensoren og GPS-navigasjonen. Programvaren består av omtrent 600 000 linjer med programmeringskode, rundt 50 prosent mer enn hele kontrollsystemet til den første versjonen av romfergen.
 
-Mens den utfører dataarbeidet, tar AR Creator i betraktning at det alltid er noen få brøkdeler av et sekund mellom identifiseringen av et objekt av sensorene og utdata fra det grafiske innholdet. I løpet av disse korte tidsvinduene kan Q4 e-tron endre posisjonen betraktelig, enten det er på grunn av bremsing eller et hull. Flere beregninger utføres kontinuerlig for å sikre at skjermen i øyeboksen ikke hopper inn i feil posisjon. En av dem finner sted i kameraprogramvaren. For en annen bruker AR Creator de nyeste dataene for å gjøre en prediktiv beregning av bilens fortsatte bevegelse fremover. I en ytterligere beregning estimerer den den vertikale bevegelsen på grunnlag av data levert av kameraet, radaren og sensorene til stabiliseringskontrollen (ESC). Denne innsikten er integrert i "shake compensation", som finner sted noen få millisekunder før bildet sendes ut, og som har som oppgave å forhindre forstyrrende risting av skjermen.
+Mens den utfører dataarbeidet, tar AR Creator i betraktning at det alltid er noen få brøkdeler av et sekund mellom identifiseringen av et objekt av sensorene og utdata fra det grafiske innholdet. I løpet av disse korte tidsvinduene kan Q4 e-tron endre posisjonen betraktelig, enten det er på grunn av bremsing eller et hull. Flere beregninger utføres kontinuerlig for å sikre at skjermen i øyeboksen ikke hopper inn i feil posisjon. En av dem finner sted i kameraprogramvaren. For en annen bruker AR Creator de nyeste dataene for å gjøre en prediktiv beregning av bilens fortsatte bevegelse fremover. I en ytterligere beregning estimerer systemet den vertikale bevegelsen på grunnlag av data levert av kameraet, radaren og sensorene til stabiliseringskontrollen (ESC). Denne innsikten er integrert i "shake compensation", som finner sted noen få millisekunder før bildet sendes ut, og som har som oppgave å forhindre forstyrrende risting av skjermen.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/uiandoperations/headupdisplay/headup2.webp">

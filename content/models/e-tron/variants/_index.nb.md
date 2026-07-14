@@ -1,10 +1,12 @@
 ---
 title: Audi e-tron varianter
 linktitle: Varianter
-description: Audi e-tron er for tiden tilgjengelig i 6 forskjellige varianter. Her finner du hvilke som er tilgjengelige.
+description: Den opprinnelige Audi e-tron ble produsert i seks SUV- og Sportback-varianter før modellfamilien fikk navnet Q8 e-tron.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
+
+> **Utgått modell:** Disse variantene tilhører den opprinnelige Audi e-tron-familien som ble produsert før Q8 e-tron-navnet ble innført for 2023.
 
 ### Audi e-tron 50
 
@@ -79,10 +81,10 @@ Med sitt bredere karosseri og hjul, skiller Audi e-tron 60S seg ut fra e-tron 50
 
 Audi e-tron S har samme batteri som e-tron 55 med 95kWh bruttokapasitet og 86,5kWh nettokapasitet.
 
-Den elektriske drivlinjen bruker tre elektriske motorer, hvorav to opererer på bakakselen. Den intelligente kjørekontrollen hever kjøretøysikkerheten, og spesielt dynamisk håndtering, til et nytt nivå. 
+Den elektriske drivlinjen bruker tre elektriske motorer, hvorav to opererer på bakakselen. Den intelligente kjørekontrollen hever kjøretøysikkerheten, og spesielt dynamisk håndtering, til et nytt nivå.
 I tillegg til elektrisk firehjulsdrift er e-tron 60S utstyrt med elektrisk momentvektoring med aktiv og fullt variabel dreiemomentfordeling på bakakselen.
 
-Audi e-tron S leverer dynamikk i en ny dimensjon. I S-gir gir de full ytelse i åtte sekunder – 370 kW kraft og 973 Nm (717,6 lb-ft) dreiemoment.
+Audi e-tron S leverer dynamikk i en ny dimensjon. Med girvelgeren i S leverer motorene full ytelse i åtte sekunder: 370 kW og 973 Nm dreiemoment.
 Standardsprinten tar bare 4,5 sekunder og akselerasjonen ender ved 210 km/t (130,5 mph).
 
 De nye S-modellene har to elektriske motorer på bakakselen og en på forakselen, noe som gjør dem til de første masseproduserte elbilene i verden som har tre elektriske motorer.

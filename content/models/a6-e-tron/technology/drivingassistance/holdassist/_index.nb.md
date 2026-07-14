@@ -1,9 +1,9 @@
 ---
-title: Audi Q6 e-tron hold assist
+title: Audi A6 e-tron hold assist
 linktitle: Hold assist
-description: Audi Q6 e-tron er utstyrt med hold-assistent. Hold-assistent muliggjør praktiske avkjøringer når bilen er på vanlige stigninger og nedstigninger av gatetrafikk, og den hindrer kjøretøyet i å rulle.
+description: Audi A6 e-tron er utstyrt med hold-assistent. Hold-assistent muliggjør praktiske avkjøringer når bilen er på vanlige stigninger og nedstigninger av gatetrafikk, og den hindrer kjøretøyet i å rulle.
 weight: 1
-sectiontabs: "/nb/models/q6-e-tron/technology/"
+sectiontabs: "/nb/models/a6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 <figure>
@@ -18,4 +18,4 @@ Systemet går automatisk over til den elektromekaniske parkeringsbremsen når bi
 
 MMI -> Bil - > Innstilling & Service -> Hold assist -> på/av
 
-Hold assist er standardutstyr på Audi Q6 e-tron
+Hold assist er standardutstyr på Audi A6 e-tron

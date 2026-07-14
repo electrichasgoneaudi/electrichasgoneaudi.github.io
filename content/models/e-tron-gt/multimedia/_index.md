@@ -5,7 +5,7 @@ description: Here you find different multimedia content related to Audi e-tron G
 weight: 20
 ---
 
-
+### Audi e-tron GT world premiere
 
 {{< youtube HMXcuPOaafw >}}
 
@@ -13,8 +13,6 @@ weight: 20
 
 {{< youtube 25yaDI9Vaow >}}
 
-
-### Audi RS e-tron GT – three-chamber air suspension and all-wheel steering
 
 ### 2022 AUDI RS E-TRON GT 646HP - IN AMAZING LOCATIONS IN DOHA, QATAR FIFA2022 - IN DETAIL 4K
 

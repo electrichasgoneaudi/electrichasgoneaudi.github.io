@@ -1,7 +1,7 @@
 ---
 title: Audi Q8 e-tron predictive efficiency assist
 linktitle: Efficiency assist
-description: Audi Q8 e-tron can be delivered with predictive efficiency assist. Predictive Efficiency assist helps the driver to drive preemptively and save energy. 
+description: Audi Q8 e-tron can be delivered with predictive efficiency assist. Predictive Efficiency assist helps the driver to drive preemptively and save energy.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
@@ -34,9 +34,9 @@ The driver can override the system at any time by accelerating and braking. In a
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/headup.webp">
         <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/predictiveefficiencyassist/headups.webp"
-        class="img-fluid" alt="Efficience assistent in headup suggesting to reduce speed" title="Efficience assistent in headup suggesting to reduce speed">
+        class="img-fluid" alt="Efficiency assistant in headup suggesting to reduce speed" title="Efficiency assistant in headup suggesting to reduce speed">
     </a>
-    <figcaption><h4>Efficience assistent in headup suggesting to reduce speed</h4></figcaption>
+    <figcaption><h4>Efficiency assistant in headup suggesting to reduce speed</h4></figcaption>
 </figure>
 
 This option is part of the tour driver assistance package with option id **PCC**

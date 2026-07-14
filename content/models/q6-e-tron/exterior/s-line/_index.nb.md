@@ -1,15 +1,15 @@
 ---
-title: S-line and S exterior package
+title: Advanced og S line-eksteriørpakker
 linktitle: S-line / S
-description: There is serveral styling options to make your e-tron stick out from the crowd
+description: Audi Q6 e-tron tilbys med eksteriørdesign i Advanced- og S line-utførelse.
 weight: 3
 sectiontabs: "/nb/models/q6-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/s-line/comparison_st.webp" width="2560" height="1383" title="Audi Q6 e-tron s-line VS Advanced line" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/s-line/comparison_st.webp" width="2560" height="1383" title="Audi Q6 e-tron S line sammenlignet med Advanced" >}}
 
-## Advance line (standard)
+## Advanced (standard)
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/s-line/standard_1_st.webp" width="2560" height="1383" title="Audi Q6 e-tron advanced line" >}}
 
@@ -17,10 +17,10 @@ sectiontabs: "/nb/models/q6-e-tron/exterior/"
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/s-line/standard_3_st.webp" width="2560" height="1383" title="Audi Q6 e-tron advanced line" >}}
 
-## S-line exterior
+## S line-eksteriør
 
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/s-line/sline_1_st.webp" width="2560" height="1383" title="Audi Q6 e-tron advanced line" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/s-line/sline_1_st.webp" width="2560" height="1383" title="Audi Q6 e-tron S line" >}}
 
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/s-line/sline_2_st.webp" width="2560" height="1383" title="Audi Q6 e-tron advanced line" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/s-line/sline_2_st.webp" width="2560" height="1383" title="Audi Q6 e-tron S line" >}}
 
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/s-line/sline_3_st.webp" width="2560" height="1383" title="Audi Q6 e-tron advanced line" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/s-line/sline_3_st.webp" width="2560" height="1383" title="Audi Q6 e-tron S line" >}}

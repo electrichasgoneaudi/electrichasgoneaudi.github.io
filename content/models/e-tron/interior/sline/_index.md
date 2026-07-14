@@ -6,7 +6,7 @@ weight: 5
 ---
 <!-- markdownlint-disable MD033 -->
 
-The below shows the components.
+The following shows the components.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/interior/sline/roof.webp">

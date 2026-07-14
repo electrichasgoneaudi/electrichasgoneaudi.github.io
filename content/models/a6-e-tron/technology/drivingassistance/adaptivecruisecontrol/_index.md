@@ -3,7 +3,7 @@ title: Adaptive cruise control with speed limiter.
 linktitle: Adaptive cruise control
 description: The Adaptive cruise control (ACC) supports the driver within the system limits
 weight: 1
-sectiontabs: "/models/q6-e-tron/technology/"
+sectiontabs: "/models/a6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -25,11 +25,10 @@ The included speed limiter helps not to exceed a previously set maximum speed wh
     <figcaption><h4>The cruise control handle controls the function</h4></figcaption>
 </figure>
 
-You enable the cruise control with pressing the buttom at the end. Or you can resume earlier speed with pulling the lever.
+Press the button at the end of the stalk to enable cruise control, or pull the stalk to resume the previously set speed.
 
 Speed is adjusted with pushing the lever up and down. You can control the distance to the car in front with the distance button.
 The lim button on top enable the speed limiter.
 
-This option is part of the tour driver assistance package with option id **PCC**
 
 {{<children description="true" />}}

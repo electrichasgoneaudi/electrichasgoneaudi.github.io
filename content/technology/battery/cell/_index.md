@@ -35,7 +35,7 @@ The metal ratio varies. The version was NMC 111, then NMC 622 was the common fol
 
 [Lithium iron phosphate battery](https://en.wikipedia.org/wiki/Lithium_iron_phosphate_battery)
 
-### Seperator
+### Separator
 
 A [separator](https://en.wikipedia.org/wiki/Separator_(electricity)) is a permeable membrane placed between a battery's anode and cathode.
 
@@ -45,7 +45,7 @@ Liquid electrolytes in lithium-ion batteries consist of lithium salts in an orga
 
 A liquid electrolyte acts as a conductive pathway for the movement of cations passing from the negative to the positive electrodes during discharge and the opposite direction when charging.
 
-Electrolytes based on solid materials are areas that many works on. These are called [solid-state batteries](https://en.wikipedia.org/wiki/Solid-state_battery). Currently, there are no concrete plans for any mass production EV with Solid-state batteries.
+Many manufacturers and cell developers are researching electrolytes based on solid materials. Batteries using them are called [solid-state batteries](https://en.wikipedia.org/wiki/Solid-state_battery). Audi has not yet announced a series-production model using a fully solid-state traction battery.
 
 ### Current collector
 
@@ -109,7 +109,7 @@ The electrode and separator layers of a pouch cell are stacked rather than jelly
 
 ## Audi cells
 
-The below table list the cells used on the different all-electric Audi models. Click on model-name
+The following table lists the cells used on the different all-electric Audi models. Click on model-name
 for more details about the cells.
 
 | Model | Cell | Format | Capacity | Energy Density | Chemistry|
@@ -153,7 +153,7 @@ The cells will be produced on the [new Salzgiga](https://www.volkswagen-newsroom
 
 
 
-The ground breaking cermony for this factory was july 7. 2022.
+The ground breaking ceremony for this factory was july 7. 2022.
 
 <figure>
     <a href="https://media.evkx.net/ehga/technology/battery/cell/salzgiga1.webp">

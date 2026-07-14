@@ -16,7 +16,7 @@ Denne artikkelen vil detaljere forskjellen mellom Audi Q4 e-tron 55 Quattro, Aud
 
 Audi Q8 e-tron 55 ble presentert i [september 2022](../../../articles/e-tron-facelift-q8-etron-2024/) Det er en oppgradering av Audis første helelektriske modell , Audi e-tron. Den er basert på plattformen [MLB-Evo](../../../technology/bev-platforms/mlb-evo/), som også brukes i tradisjonelle modeller.
 
-I september 2023 presenterte Audi Audi Q4 e-tron 55, oppgradering fra 2021 Q4 e-tron 50.
+I september 2023 presenterte Audi Q4 e-tron 55, en oppgradering av Q4 e-tron 50 fra 2021.
 
 Denne modellen bruker en dedikert EV-plattform kalt [MEB](../../../technology/bev-platforms/meb/), Volkswagen skapte denne plattformen, som også brukes av flere andre modeller.
 Audi Q6 e-tron hadde verdenspremiere 18. mars 2024, og er bygget på [PPE-plattformen](../../../technology/bev-platforms/ppe/) utviklet
@@ -159,7 +159,7 @@ Hvis ett eller flere av disse alternativene er avgjørende for deg, kan dette v�
 
 ## Pris
 
-Startprisen er betydelig lavere på Q4 e-tron 50 enn Audi e-tron 55. Men ulike markeder har ulike pakker som gir ulike prisforskjeller. I markeder hvor kjøperne fritt kan velge alternativer, er startprisforskjellen rundt $20.000 / £20.000
+Startprisen er betydelig lavere på Q4 e-tron 50 enn Audi e-tron 55. Men ulike markeder har ulike pakker som gir ulike prisforskjeller. I markeder hvor kjøperne fritt kan velge alternativer, er startprisforskjellen rundt $20,000 / £20,000
 
 ## Så hvilken bør du velge?
 
@@ -724,7 +724,7 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
         <td><a href="../../q8-e-tron/technology/lights/">standard</a></td>
     </tr>
     <tr>
-        <td>Dynamic lightning</td>
+        <td>Dynamic lighting</td>
         <td><a href="../../q4-e-tron/technology/lights/">ekstrautstyr</a></td>
         <td><a href="../../q6-e-tron/technology/lights/">ekstrautstyr</a></td>
         <td><a href="../../q8-e-tron/technology/lights/">ekstrautstyr</a></td>
@@ -740,7 +740,7 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
         <td><a href="../../q4-e-tron/exterior/mirrors/">standard</a></td>
         <td><a href="../../q6-e-tron/exterior/mirrors/">standard</a></td>
         <td><a href="../../q8-e-tron/exterior/mirrors/">standard</a></td>
-    </tr>   
+    </tr>
     <tr>
         <td>Mirrors with memory</td>
         <td><a href="../../q4-e-tron/exterior/mirrors/">ekstrautstyr</a></td>
@@ -889,11 +889,10 @@ Nedenfor ser du modellenes fullstendige spesifikasjoner og sammenligningsmulighe
 </table>
 </div>
 
-## Dimmensions
+## Dimensjoner
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/comparisons/q455q6q855/dimmensions_1_st.webp" width="3000" height="1999" title="Audi Q4 e-tron vs Audi Q6 e-tron vs Audi Q8 e-tron" >}}
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/comparisons/q455q6q855/dimmensions_2_st.webp" width="3000" height="1999" title="Audi Q4 e-tron vs Audi Q6 e-tron vs Audi Q8 e-tron" >}}
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/comparisons/q455q6q855/dimmensions_3_st.webp" width="3000" height="1999" title="Audi Q4 e-tron vs Audi Q6 e-tron vs Audi Q8 e-tron" >}}
-

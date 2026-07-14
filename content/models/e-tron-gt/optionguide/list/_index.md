@@ -1,10 +1,12 @@
 ---
-title: Audi e-tron GT full options list
-linktitle: Full option list
-description: Here you find the complete option list with link to details about each option
+title: Audi e-tron GT historical options list
+linktitle: Historical option list
+description: Historical option-code reference for the original MY2021–2024 Audi e-tron GT range.
 weight: 100
 ---
 <!-- markdownlint-disable MD033 -->
+
+> This list describes the original MY2021–2024 e-tron GT range. It is not a configurator for the revised MY2025 and later models. Equipment names, codes and availability varied by market.
 
 ![Paint colors](../../exterior/paint/paint_tangored_2s.jpg)
 
@@ -21,7 +23,7 @@ weight: 100
 |  [Tango red](../../exterior/paint/#tango-red)| Metallic   |  Y1   |
 |  [Daytona Grey](../../exterior/paint/#daytona-grey) | Metallic, only S/S-line | 6Y |
 |  [Ascari Blue](../../exterior/paint/#ascari-blue) | Metallic  | 9W |
-|  [Audi exclusive indiviudal](../../exterior/paint/#audi-exclusive-paint-colors) | Serveral colors | Q0Q0 |
+|  [Audi exclusive individual](../../exterior/paint/#audi-exclusive-paint-colors) | Several colors | Q0Q0 |
 |  [Singleframe grille in hekla grey](../../exterior/optics/#singleframe-in-hekla-grey) |    | 6HD |
 |  [Singleframe grille in body color](../../exterior/optics/#singleframe-in-body-color) |    | 6H1 |
 |  [Singleframe grille in polished black](../../exterior/optics/#singleframe-in-polished-black) |    | 6H2 |
@@ -100,7 +102,7 @@ weight: 100
 | [Advance Key with alarm/safelock](../../technology/lockingsystems/#advance-key-with-alarm-option-pgb) | | PGB |
 | Automatic immobilizer | activates with key |  |
 | [Powered tailgate](../../exterior/doors/#powered-tailgate) | Electric opening and closing. Standard | |
-| [Garage door opener](../../technology/garagedooropener/) |  | VC2 |  
+| [Garage door opener](../../technology/garagedooropener/) |  | VC2 |
 
 ## Glass
 
@@ -166,7 +168,7 @@ weight: 100
 | [Inlays in Walnut Grey-Brown](../../interior/inlays/) |  | 5MT |
 | [Inlays in Carbon Twill](../../interior/inlays/)  |  |  5MG |
 | [Inlays in Palladium silver](../../interior/inlays/) | |  5TG |
-| [Interior lightnin](../../interior/lights/) | | Q00 |
+| [Interior lighting](../../interior/lights/) | | Q00 |
 | [Contour and ambient light](../../interior/lights/#multicolor-contourambient-light-pack) |  | QQ2  |
 
 ## Steering wheels
@@ -206,8 +208,8 @@ weight: 100
 | [MMI Navigation plus](../../technology/uiandoperations/mmi/) | Standard  | 7UG   |
 | [Head up display](../../technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus) |  | KS1 |
 | [MMI Radio plus](../../technology/uiandoperations/mmi/)  | Standard |  |
-| [Audi Sound system](../../technology/soundsystem/#audi-sound-system) | Standard  | 9VD  | 
-| [Bang & Olufsen Premium sound system](../../technology/soundsystem/#bang--olufsen-sound-system-with-3d-sound) |  | 9VS | 
+| [Audi Sound system](../../technology/soundsystem/#audi-sound-system) | Standard  | 9VD  |
+| [Bang & Olufsen Premium sound system](../../technology/soundsystem/#bang--olufsen-sound-system-with-3d-sound) |  | 9VS |
 | Audi Connect navigation and infotainment | Standard |   |
 | Audi music interface | Standard |   |
 | Audi music interface rear seat |  | UF8 |
@@ -221,7 +223,7 @@ weight: 100
 
 | Title | Description | ID |
 |-----|------|------|
-| City Assist Pack  | [Crossing assist](../../technology/drivingassistance/crossingassist/), [side assist](../../technology/drivingassistance/sideassist/), [exit warning](../../technology/drivingassistance/exitwarning/), [pre sense rear](../../technology/drivingassistance/presenserear/), [pre sense side](../../technology/drivingassistance/presenseside/), [cross traffic rear](../../technology/drivingassistance/crosstrafficassistrear/) | PCM | 
+| City Assist Pack  | [Crossing assist](../../technology/drivingassistance/crossingassist/), [side assist](../../technology/drivingassistance/sideassist/), [exit warning](../../technology/drivingassistance/exitwarning/), [pre sense rear](../../technology/drivingassistance/presenserear/), [pre sense side](../../technology/drivingassistance/presenseside/), [cross traffic rear](../../technology/drivingassistance/crosstrafficassistrear/) | PCM |
 | Tour assist pack | [Adaptive cruise assist](../../technology/drivingassistance/adaptivecruiseassist/), [Adaptive cruise control](../../technology/drivingassistance/adaptivecruisecontrol/), [efficient assistant](../../technology/drivingassistance/predictiveefficiencyassist/),  [turn assist](../../technology/drivingassistance/turnassist/),[emergency assist](../../technology/drivingassistance/emergencyassist/) | PCC    |
 | Assist package plus | Contains City Assist package, Tour assist package, Parking assist package and 360 camera | PCJ |
 | [Audi pre sense front](../../technology/drivingassistance/presensefront/) | standard | 6K8 |

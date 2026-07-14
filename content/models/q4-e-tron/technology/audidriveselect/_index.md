@@ -1,5 +1,5 @@
 ---
-title: Audi Q4 e-tron drive select 
+title: Audi Q4 e-tron drive select
 linktitle: Drive Select
 description: Audi Q4 e-tron has an option for Audi Drive select.
 weight: 2
@@ -19,16 +19,16 @@ Depending on option and setup drive select settings affect the following.
 - dynamic steering
 - HD Matrix LED headlights
 - ambient lighting
-- Electronic stabilisation contol (ESC)
+- Electronic stabilisation control (ESC)
 - Adaptive Cruise Assist
 - Audi Pre Sense
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/q4-e-tron/technology/audidriveselect/driveselectbuttons.webp">
         <img src="https://media.evkx.net/ehga/models/q4-e-tron/technology/audidriveselect/driveselectbuttonss.webp"
-        class="img-fluid" alt="Drive Select are available as seperate buttons and from MMI" title="Drive Select are available as seperate buttons and from MMI">
+        class="img-fluid" alt="Drive Select are available as separate buttons and from MMI" title="Drive Select are available as separate buttons and from MMI">
     </a>
-    <figcaption><h4>Drive Select are available as seperate buttons and from MMI</h4></figcaption>
+    <figcaption><h4>Drive Select are available as separate buttons and from MMI</h4></figcaption>
 </figure>
 
 ### Modes
@@ -41,7 +41,7 @@ Depending on option and setup drive select settings affect the following.
     <figcaption><h4>Drive Select menu in MMI</h4></figcaption>
 </figure>
 
-**efficiency** - The vehicle switches to a fuel-efficient vehicle setup and supports the driver with fuel economy messages. The “E” driving program is selected.  
+**efficiency** - The vehicle switches to a fuel-efficient vehicle setup and supports the driver with fuel economy messages. The “E” driving program is selected.
 
 **comfort** - Provides a comfort-oriented vehicle setup and is suited for long drives on highways.
 
@@ -67,11 +67,11 @@ The drive system will react to accelerator pedal moves more quickly or in a more
 
 #### Steering
 
-The power steering will adapt. Light steering is suitable for long trips on highways or smooth driving around curves, for example. 
+The power steering will adapt. Light steering is suitable for long trips on highways or smooth driving around curves, for example.
 
 #### Suspension
 
-The suspension adjusts to be tighter or more comfort-oriented when it comes to compensating for uneven spots on the road. 
+The suspension adjusts to be tighter or more comfort-oriented when it comes to compensating for uneven spots on the road.
 This requires **PY9** that includes damper control.
 
 {{<children description="true" />}}

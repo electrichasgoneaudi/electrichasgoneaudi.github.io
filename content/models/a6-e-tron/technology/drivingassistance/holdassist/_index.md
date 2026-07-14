@@ -1,9 +1,9 @@
 ---
-title: Audi Q6 e-tron hold assist
+title: Audi A6 e-tron hold assist
 linktitle: Hold assist
 description: Hold assist enables convenient drive-offs when the car is on the usual inclines and descents of street traffic, and it prevents the vehicle from rolling.
 weight: 1
-sectiontabs: "/models/q6-e-tron/technology/"
+sectiontabs: "/models/a6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 <figure>
@@ -18,4 +18,4 @@ sectiontabs: "/models/q6-e-tron/technology/"
 
 MMI -> Car - > Setting & Service -> Hold assist -> on/off
 
-Hold assist is standard equipment on Audi Q6 e-tron
+Hold assist is standard equipment on Audi A6 e-tron

@@ -1,22 +1,22 @@
 ---
-title: Audi E5 Sportback interiør
+title: AUDI E5 Sportback interiør
 linktitle: Interiør
-description: Audi E5 Sportback-interiøret er et digitalt førsteplass med fullbredde panoramadisplay, flerfarge stemningslys, standard setekjøling og romslig baksete.
+description: AUDI E5 Sportback-interiøret er et digitalt førsteplass med fullbredde panoramadisplay, flerfarge stemningslys, standard setekjøling og romslig baksete.
 weight: 5
 ---
 <!-- markdownlint-disable MD033 -->
 
-Audi E5 Sportback-interiøret er utformet som et **digitalt førsteplass**, som kombinerer et rent horisontalt dashbordsoppsett med premiummaterialer, en fullbredde displayarkitektur og dyp tilkobling. Designet gjenspeiler Audis overgang mot programvaredefinerte kjøretøy for det kinesiske markedet.
+AUDI E5 Sportback-interiøret er utformet som et **digitalt førsteplass**, som kombinerer et rent horisontalt dashbordsoppsett med premiummaterialer, en fullbredde displayarkitektur og dyp tilkobling. Designet gjenspeiler Audis overgang mot programvaredefinerte kjøretøy for det kinesiske markedet.
 
-{{< evkxfiguresized thumb="models/audi/e5_/e5/interior_5e105_st.webp" width="3000" height="2250" title="Audi E5 Sportback interiør" >}}
+{{< evkxfiguresized thumb="models/audi/e5_/e5/interior_5e105_st.webp" width="3000" height="2250" title="AUDI E5 Sportback interiør" >}}
 
-{{< evkxfiguresized thumb="models/audi/e5_/e5/screens_0798b_st.webp" width="3000" height="2250" title="Audi E5 Sportback skjermer" >}}
+{{< evkxfiguresized thumb="models/audi/e5_/e5/screens_0798b_st.webp" width="3000" height="2250" title="AUDI E5 Sportback skjermer" >}}
 
 ## Skjermer og brukergrensesnitt
 
 E5 Sportback har et **fullbredde panoramisk dobbelskjerm-dashbord** som strekker seg over sjåfør- og infotainmentområdene i et samlet oppsett. Det er ingen fysisk skillevegg mellom de to skjermene — systemet fremstår som ett sammenhengende displayflate.
 
-- **Digitalt instrumentpanel** — høyoppløselig, tilpassbare visninger
+- **Digitalt instrument panel** — høyoppløselig, tilpassbare visninger
 - **Sentralt infotainment-berøringsskjerm** — proprietær AUDI OS med kinesisk-spesifikke apper og tjenester
 - **Head-up display** — standard på Pioneer Plus, Pioneer quattro og quattro; ikke tilgjengelig på basis Pioneer
 - **Stemmekontroll** — standard på alle varianter
@@ -38,7 +38,7 @@ E5 Sportback er en **femseters Sportback** med to forseter og en trebetes bakset
 - Korsrygstøtte
 - Valgfri massasjefunksjon
 
-{{< evkxfiguresized thumb="models/audi/e5_/e5/secondrowseats_ae938_st.webp" width="3000" height="2250" title="Audi E5 Sportback bakseter" >}}
+{{< evkxfiguresized thumb="models/audi/e5_/e5/secondrowseats_ae938_st.webp" width="3000" height="2250" title="AUDI E5 Sportback bakseter" >}}
 
 ### Bakseter
 

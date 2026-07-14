@@ -1,62 +1,42 @@
 ---
 title: Audi A6 e-tron drivetrain
 linktitle: Drivetrain
-description: Audi A6 e-tron drivetrain
+description: The Audi A6 e-tron combines PPE electric drive units with 83 or 100 kWh batteries, 800-volt charging and rear-wheel or quattro all-wheel drive.
 weight: 7
 ---
+
 <!-- markdownlint-disable MD033 -->
-<!-- markdownlint-disable MD010 -->
 
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/drivetrain/drivetrain_1_st.webp" width="3000" height="1640" title="Audi a6 e-tron drivetrain" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/drivetrain/drivetrain_1_st.webp" width="3000" height="1640" title="Audi A6 e-tron drivetrain" >}}
 
-Powerful, compact, and highly efficient electric motors and a lithium-ion battery newly developed for the PPE consisting of twelve modules and 180 prismatic cells with a total gross capacity of 100 kWh (94.9 kWh net) ensure a range of up to 756 kilometers (A6 Sportback e-tron1 ) and up to 720 kilometers (A6 Avant e-tron ). With a system output of up to 270 kW in the A6 Sportback/Avant e-tron performance (power consumption in kWh/100 km (62.1 mi) combined: 17.0-14.0; CO2 emissions in g/km combined: 0; CO2 class: A), the new Audi A6 e-tron provides the sporty driving experience Audi is known for. The Audi A6 e-tron performance12 accelerates from zero to 100 km/h in 5.4 seconds. Its top speed is 210 km/h. The S6 e-tron provides a system output of 370 kW (405 kW with launch control).
+The A6 e-tron is based on the **Premium Platform Electric (PPE)** and is offered with rear-wheel drive or quattro all-wheel drive. The scalable drive system covers four output levels and two battery sizes across the Sportback and Avant bodies.
 
-The S6 Sportback e-tron3 and the S6 Avant e-tron4 accelerate from 0 to 100 km/h in 3.9 seconds (power consumption in kWh/100 km (62.1 mi) combined: 17.4-15.7; CO2 emissions in g/km combined: 0; CO2 class: A). The top speed is 240 km/h. Its range is up to 675 kilometers (S6 Sportback e-tron3 ) and up to 647 kilometers (S6 Avant e-tron4 ).
+## Batteries and charging
 
-The A6 e-tron performance12 (270 kW) with rear-wheel drive and the S6 e-tron (370 kW) with quattro all-wheel drive, both as Sportback and Avant, will be available on launch. Depending on the market, further models with rear-wheel drive or quattro all-wheel drive will follow at a later date.
+The entry-level A6 e-tron uses an **83 kWh gross / 75.8 kWh usable** battery with ten modules. It supports DC charging at up to **225 kW**. The performance, quattro and S6 versions use a **100 kWh gross / 94.9 kWh usable** battery with twelve modules and support up to **270 kW DC**.
 
-Thanks to 800-volt technology and a maximum DC charging capacity of 270 kW as standard, short charging stops are possible with the Audi A6 e-tron. This means the A6 Sportback e-tron performance1 can be recharged at an appropriate charging station (High Power Charging, HPC) for a range of up to 310 kilometers in just ten minutes. The State of Charge (SoC) increases from 10 to 80 percent in 21 minutes. Intelligent high-performance and predictive thermal management are key components of this impressive charging performance. Equipped with Plug & Charge, the vehicle authorizes itself at compatible charging stations when the charging cable is plugged in and activates the charging process. The charging process is fully automatic. If a charging station works with 400-volt technology, the Audi A6 e-tron can use bank charging. To enable this, the 800-volt battery is split into two banks, each with a voltage of 400 volts, which can then be charged in parallel with up to 135 kW. AC charging with up to 11 kW is possible at standard home chargers. A 22 kW AC charging option will be offered later.
+Both battery sizes can charge from 10 to 80 percent in approximately **21 minutes** under ideal conditions. At compatible 400-volt chargers, the 800-volt battery can be split electrically into two 400-volt banks and charged in parallel. AC charging is supported at up to **11 kW**.
 
-The advanced recuperation (regenerative braking) system is an important component in increasing the efficiency and range of the Audi A6 e-tron. This system can handle around 95 percent of everyday braking processes. The Audi A6 e-tron recuperates up to 220 kW. The temperature and the battery’s state of charge play a key role here. Recuperation occurs on the front and rear axles, with minor deceleration handled by the rear axle for efficiency reasons. In addition, a higher regenerative braking performance is possible on the rear axle due to the more powerful electric motor.
+[Read more about the battery and charging system](battery/).
 
-The integrated Brake System (iBS) that is familiar in previous e-tron models has been enhanced significantly as part of the Premium Platform Electric. Now, the described axle-specific brake blending between the mechanical friction brake and regenerative braking via the electric motors is possible.
+## Motors
 
-As is typical for Audi, the Audi A6 e-tron also offers the option of two-stage recuperation, which can be adjusted using the paddles on the steering wheel. Coasting is also possible. Here, the vehicle rolls without additional drag when the driver takes their foot off the accelerator pedal. Another variant of the A6 e-tron is the “B” driving mode, which comes close to what is colloquially called the “one-pedal feeling”. This mode offers the strongest recuperation deceleration. With an anticipatory driving style, almost all deceleration can be managed without pressing the brake pedal in driving mode “B”.
+Rear-wheel-drive variants use a permanent-magnet synchronous motor on the rear axle. Quattro variants add an asynchronous motor at the front. The front motor can rotate with very low drag when it is not needed, supporting efficiency while allowing rapid all-wheel-drive response.
 
-Precise driving dynamics, high comfort
-The typical Audi DNA is also evident in the suspension. Here, there is a precisely defined set-up philosophy, and the suspension control systems are accurately coordinated with each other. The directly tuned front axle significantly influences the driving dynamics of the A6 e-tron, making the vehicle feel particularly agile.
+System output ranges from **210 kW** in the A6 e-tron to **370 kW**, or **405 kW with Launch Control**, in the S6 e-tron.
 
-The optional adaptive air suspension – an air suspension system with controlled damping – lends the vehicle a broad spread between high ride comfort and sporty handling. Depending on the speed and individual preferences, it adapts to specific road conditions and regulates the body’s ride height at four different levels. The efficiency mode in Audi drive select is a special feature. In efficiency mode, the suspension lowers the body by up to 20 millimeters depending on the speed, thus improving the vehicle’s aerodynamics. This serves to optimize energy consumption and increase range.
+[Read more about the electric motors](motor/).
 
-The rear-biased all-wheel drive system in the Audi S6 e-tron enhances the driving dynamics with a highly variable torque distribution. The different dimensions of the electric motors on the rear and front axles enable rear-biased torque distribution even under full load. The Audi S6 e-tron and A6 e-tron are equipped with differently sized tires on the front and rear axles, further improving stability and sportiness.
+## Recuperation
 
+The blended braking system combines regenerative and friction braking and can recuperate at up to **220 kW**, depending on battery temperature, state of charge and available traction. Audi states that regeneration can cover around 95 percent of everyday braking events.
 
-Below you find details about the most important components of that drivetrain.
+Steering-wheel paddles provide two manually selected recuperation levels. The driver can also choose coasting or the stronger **B** mode, which enables substantial deceleration when the accelerator is released.
 
-<div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="battery/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/battery/battery_2_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron lights" ></a>
-	<h2>Battery</h2>
-	<p>
-		Audi A6 e-tron offers two battery sizes
-	</p>
-	<a href="battery/" class="btn btn-outline-primary" role="button">Learn all about Audi A6 e-tron battery</a>
-</div>
+## Suspension
 
+Depending on configuration, the A6 e-tron is available with steel-spring or adaptive air suspension. The optional air suspension combines controlled damping with four ride-height levels. In efficiency mode it can lower the body by up to **20 mm** at speed to reduce aerodynamic drag.
 
-<div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="suspension/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/suspension/suspension_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron suspension" ></a>
-	<h2>Suspension</h2>
-	<p>
-		Audi A6 e-tron offers three different suspension options
-	</p>
-	<a href="suspension/" class="btn btn-outline-primary" role="button">Learn all about Audi A6 e-tron suspension</a>
-</div>
+[Read more about the suspension options](suspension/).
 
-<div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="motor/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/drivetrain/motors/rearmotor_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi A6 e-tron motors" ></a>
-	<h2>Motors</h2>
-	<p>
-		Audi A6 e-tron offers different motor setup
-	</p>
-	<a href="motor/" class="btn btn-outline-primary" role="button">Learn all about Audi A6 e-tron motors</a>
-</div>
+{{<children description="true" />}}

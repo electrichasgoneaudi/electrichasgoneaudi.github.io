@@ -1,7 +1,7 @@
 ---
 title: Intelligent termisk styring i Audi-modeller bevarer rekkevidde og ytelse
 linktitle: Intelligent termisk styring
-description: Om vinteren må elektriske biler bringe interiøret og batterisystemet til riktig temperatur. Dette krever mye energi. 
+description: Om vinteren må elektriske biler bringe interiøret og batterisystemet til riktig temperatur. Dette krever mye energi.
 weight: 100001
 ---
 <!-- markdownlint-disable MD033 -->
@@ -86,7 +86,7 @@ Denne ekstra mobile forkondisjoneringen av batteriet i e-tron GT quattro og RS e
 
 ***Woltmann***: Uansett modell, gjenkjenner algoritmen i kjøretøyet når bilen lades på en DC hurtigladestasjon. Strømmene frigjøres uavhengig av ladenivå og temperatur. Med den aktive oppvarmingen som vi har implementert, reduserer vi ladetiden betydelig i kalde temperaturer.
 
-### Når når høyspenningsbatterier grensen?
+### Når treffer høyspenningsbatteriet temperaturgrensen?
 
 ***Woltmann***: For å beskytte batteriet slipper vi ikke mer strøm fra når kjernetemperaturen når minus 30 grader (-22 Fahrenheit). Men for at det skulle skje, måtte bilen utsettes for en så ekstrem temperatur over lang tid. Det er åpenbart også mulig å kjøre en e-tron-modell med tilstrekkelig ladenivå og et forvarmet høyspentbatteri i ytre temperaturer på minus 30 grader.
 

@@ -1,7 +1,7 @@
 ---
 title: Audi A6 e-tron suspension
-linktitle: Suspension 
-description: Audi A6 e-tron has serveral suspension options.
+linktitle: Suspension
+description: Audi A6 e-tron has several suspension options.
 weight: 7
 sectiontabs: "/models/a6-e-tron/drivetrain/"
 ---

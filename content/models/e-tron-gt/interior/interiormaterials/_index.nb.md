@@ -1,7 +1,7 @@
 ---
 title: Interiørmaterialer
 linktitle: Interiørmaterialer
-description: Du kan velge blant noen interiørmaterialer for å gi Audi e-tron GT et enda mer ekslusivt utseende.  
+description: Du kan velge blant noen interiørmaterialer for å gi Audi e-tron GT et enda mer ekslusivt utseende.
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
@@ -11,7 +11,7 @@ Det finnes flere nivåer av interiørdekor og forskjellige designpakker.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_1.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_1s.webp" 
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_1s.webp"
         class="img-fluid" alt="Standard interiørdesign" title="Standard interiørdesign">
     </a>
     <figcaption><h4>Standard interiørdesign</h4></figcaption>
@@ -19,7 +19,7 @@ Det finnes flere nivåer av interiørdekor og forskjellige designpakker.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_2.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_2.webp" 
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_2.webp"
         class="img-fluid" alt="Standard interiørdesign" title="Standard interiørdesign">
     </a>
     <figcaption><h4>Standard interiørdesign</h4></figcaption>
@@ -27,7 +27,7 @@ Det finnes flere nivåer av interiørdekor og forskjellige designpakker.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_3.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_3s.webp" 
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_3s.webp"
         class="img-fluid" alt="Standard dashbord med syntetisk lær og karboninnlegg" title="Standard dashbord med syntetisk lær og karboninnlegg">
     </a>
     <figcaption><h4>Standard dashbord med syntetisk lær og karboninnlegg</h4></figcaption>
@@ -35,7 +35,7 @@ Det finnes flere nivåer av interiørdekor og forskjellige designpakker.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_4.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_4s.webp" 
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_4s.webp"
         class="img-fluid" alt="Standard dashbord med syntetisk lær og karboninnlegg" title="Standard dashbord med syntetisk lær og karboninnlegg">
     </a>
     <figcaption><h4>Standard dashbord med syntetisk lær og karboninnlegg</h4></figcaption>
@@ -117,7 +117,7 @@ Pakkene inkluderer
 
 - Sportshjul i alcantara
 - Øvre dashbord i nappaskinn
-- Øvre del av instrumentpanel i alcantara
+- Øvre del av instrument panel i alcantara
 - Røde eller grå sømmer
 
 <figure>
@@ -151,7 +151,7 @@ Dette er alternativ-ID **YVA**
 Audi exclusive cognac brun-jet grå designpakke for sportsseter per front inkluderer:
 
 - Senterpaneler, setesidestøtter og hodestøtter i fint nappaskinn, cognacbrun med kontrastsømmer i jetgrå
-- Dørpaneler, instrumentpaneldeksel og øvre instrumentpanel i fint nappaskinn, svart med kontrastsøm i jet-grå
+- Dørpaneler, instrumentpaneldeksel og øvre instrument panel i fint nappaskinn, svart med kontrastsøm i jet-grå
 - Dørlister i svart Dinamica mikrofiber **
 - Armlen i dørene i konjakkbrunt skinn med kontrastsøm i jetgrå
 - Midtkonsollkant inkludert midtarmlen foran i svart skinn med kontrastsømmer i jet-grå

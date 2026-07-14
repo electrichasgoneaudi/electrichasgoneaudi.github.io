@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 e-tron forum and groups
 linktitle: Forum & groups
-description: Online dicussion forum and groups where you can discuss Audi Q4 e-tron
+description: Online discussion forum and groups where you can discuss Audi Q4 e-tron
 weight: 32
 ---
 

@@ -370,8 +370,6 @@ Color Code: **S1**
 
 ### Antigua Blue
 
-Color Code: **??**
-
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_antiguablue_1.webp">
         <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_antiguablue_1s.webp" class="img-fluid" alt="Audi e-tron 55 in Antigua Blue with contrast color" title="Audi e-tron 55 in Antigua Blue with contrast color">
@@ -559,7 +557,7 @@ Color Code: **X6R**
 
 Color code: Z6X
 
-From Audi Smista [@audismista](https://www.instagram.com/audismista/?hl=en) 
+From Audi Smista [@audismista](https://www.instagram.com/audismista/?hl=en)
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_goodwoodgreen_1.webp">

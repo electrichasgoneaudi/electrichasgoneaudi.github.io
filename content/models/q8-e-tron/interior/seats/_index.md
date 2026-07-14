@@ -1,12 +1,12 @@
 ---
 title: Audi e-tron seats and interior materials
 linktitle: Seats & Material
-description: Audi e-tron have serveral seats options to choose from
+description: The Audi e-tron offers several seat and upholstery options.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
 
-Each seat type have different seat materials in different colors to choose from. Making it possible to configure the interior just as you like it.
+Each seat type is available with different materials and colors, making it possible to configure the interior to your preferences.
 
 ## Seat functionality
 
@@ -64,7 +64,7 @@ option id **4A4**
 
 ### Memory
 
-All seats with electric adjustment have memory for two seating position for driver. For passenger seats it is only available with combination 
+All seats with electric adjustment have memory for two seating position for driver. For passenger seats it is only available with combination
 of individual contour seats. Memory is also used by electric controllable steering wheel.
 
 <figure>
@@ -107,7 +107,7 @@ With the optional massage function, the user can select from three different int
     <figcaption><h4>Massage control in MMI</h4></figcaption>
 </figure>
 
-| **Seat type** | **Standard** | **Sport** | **S-line sport**| **S-Sport** | **Contur** |
+| **Seat type** | **Standard** | **Sport** | **S-line sport**| **S-Sport** | **Contour** |
 |-------|-------|-------|-------|-------|-------|
 |Adjustment of headrest height| standard | standard | standard |N/A |standard |
 |Adjustment of headrest distance| option | option |option |N/A |standard |
@@ -310,7 +310,7 @@ With the optional massage function, the user can select from three different int
 
 ## Individual Contour Seats
 
- The individual contour seats feature 18-way power adjustment with memory function. Their side bolsters and lumbar support can be adjusted pneumatically. 
+ The individual contour seats feature 18-way power adjustment with memory function. Their side bolsters and lumbar support can be adjusted pneumatically.
  The seats have option id **PS8**.
 
 With the optional ventilation keeps the seats cool on hot days. This has option **4D3**
@@ -392,6 +392,6 @@ The massage function has option id **4D8**
     <figcaption><h4>Individual Contour Seats in perfored black Valcona Leather with ventilation</h4></figcaption>
 </figure>
 
-The below video show the adjustmens on the contour seats. Demonstrated on a Audi A7.
+The following video shows the adjustments on the contour seats. Demonstrated on an Audi A7.
 
 {{< youtube -9kPgGdmxAk>}}
