@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>EHGA Design System — Specimen</title>
+<link rel="stylesheet" href="styles.css">
+<style>
+  .spec-section{padding:40px 0;border-bottom:1px solid var(--border-on-light)}
+  .row{display:flex;gap:14px;flex-wrap:wrap;align-items:center}
+  .swatch{width:130px;border-radius:10px;overflow:hidden;border:1px solid var(--border-on-light)}
+  .swatch>div:first-child{height:64px}
+  .swatch>div:last-child{padding:8px 10px;font:400 10px/1.5 var(--font-mono);background:#fff}
+  .label{font:var(--microlabel-s);letter-spacing:.12em;text-transform:uppercase;color:var(--text-on-light-4);margin:24px 0 10px}
+</style>
+</head>
+<body class="page-light">
+<div class="page-dark" style="padding:28px 0">
+  <div class="container" style="display:flex;justify-content:space-between;align-items:center">
+    <img src="assets/logonew.png" alt="electrichasgoneaudi.net" style="height:40px">
+    <span class="microlabel">Design system specimen</span>
+  </div>
+</div>
+<div class="container">
+
+<div class="spec-section">
+  <div class="label">Colors — base</div>
+  <div class="row">
+    <div class="swatch"><div style="background:var(--ink)"></div><div>--ink #0C0E11</div></div>
+    <div class="swatch"><div style="background:var(--ink-2)"></div><div>--ink-2 #14171C</div></div>
+    <div class="swatch"><div style="background:var(--paper)"></div><div>--paper #F4F3F0</div></div>
+    <div class="swatch"><div style="background:var(--paper-2)"></div><div>--paper-2 #EBE9E4</div></div>
+    <div class="swatch"><div style="background:var(--accent)"></div><div>--accent #E8590C</div></div>
+    <div class="swatch"><div style="background:var(--accent-hover)"></div><div>--accent-hover #C2410C</div></div>
+    <div class="swatch"><div style="background:var(--brand-red)"></div><div>--brand-red (logo only)</div></div>
+  </div>
+  <div class="label">Status</div>
+  <div class="row">
+    <span class="status-badge status-badge--onsale">On sale</span>
+    <span class="status-badge status-badge--china">China only</span>
+    <span class="status-badge status-badge--coming">Coming</span>
+    <span class="status-badge status-badge--ended">Discontinued</span>
+  </div>
+</div>
+
+<div class="spec-section">
+  <div class="label">Type — display (Archivo, uppercase)</div>
+  <div style="font:var(--display-xl);letter-spacing:-.02em;text-transform:uppercase">Every electric Audi. <span style="color:var(--accent)">In detail.</span></div>
+  <div style="font:var(--heading);text-transform:uppercase;margin-top:12px">Section heading 28</div>
+  <div class="label">Type — body (Instrument Sans)</div>
+  <p style="font:var(--body-lede);color:var(--text-on-light-2);max-width:60ch;margin:0">The Audi Q6 e-tron is Audi's sportiest electric SUV, positioned between the Q4 e-tron and Q8 e-tron. Lede 17/1.7.</p>
+  <p style="font:var(--body);color:var(--text-on-light-3);max-width:60ch;margin:8px 0 0">Body 15.5/1.7 for section copy and descriptions across all light surfaces.</p>
+  <div class="label">Type — mono microlabels</div>
+  <div class="microlabel">Independent · In depth · Since 2020</div>
+</div>
+
+<div class="spec-section">
+  <div class="label">Buttons & links</div>
+  <div class="row">
+    <button class="btn-primary">Compare</button>
+    <button class="btn-primary btn-primary--lg">Compare →</button>
+    <button class="btn-dark">Join the Facebook group</button>
+    <span class="link-accent">Read the full exterior guide →</span>
+  </div>
+  <div class="label">Filter chips</div>
+  <div class="row">
+    <span class="chip chip--active">All</span><span class="chip">On sale</span><span class="chip">China only</span><span class="chip">Coming</span>
+  </div>
+</div>
+
+<div class="spec-section">
+  <div class="label">Cards</div>
+  <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:var(--grid-gap);max-width:900px">
+    <div class="card card--interactive">
+      <img class="card__media" src="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paint/plasmablue_4_st.webp" alt="Audi Q6 e-tron">
+      <div class="card__body">
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px">
+          <h3 class="card__title">Audi Q6 e-tron</h3><span class="status-badge status-badge--onsale">On sale</span>
+        </div>
+        <div style="display:flex;gap:16px;font:400 11px/1 var(--font-mono);color:var(--text-on-light-3)"><span>625 km WLTP</span><span>100 kWh</span><span>270 kW</span></div>
+      </div>
+    </div>
+    <div class="stat-card" style="align-self:start">
+      <div class="stat-card__label">Range (WLTP)</div>
+      <div class="stat-card__value">625 <span class="stat-card__unit">km</span></div>
+    </div>
+    <div class="card" style="align-self:start">
+      <div class="spec-row"><span class="spec-row__label">Power</span><span class="spec-row__value">285 kW / 385 hp</span></div>
+      <div class="spec-row"><span class="spec-row__label">0–100 km/h</span><span class="spec-row__value">5.9 s</span></div>
+      <div class="spec-row" style="border-bottom:none"><span class="spec-row__label">DC charging</span><span class="spec-row__value">270 kW · 800 V</span></div>
+    </div>
+  </div>
+</div>
+
+<div class="spec-section" style="border-bottom:none">
+  <div class="label">Photo tile</div>
+  <div class="photo-tile" style="width:260px;aspect-ratio:4/3">
+    <img src="https://media.evkx.net/ehga/models/q6-e-tron/exterior/paint/ascariblue_1_st.webp" alt="Ascari blue">
+    <div class="photo-tile__scrim"></div>
+    <div class="photo-tile__caption">Ascari blue</div>
+  </div>
+  <p style="font:400 12px/1.6 var(--font-body);color:var(--text-on-light-4);margin-top:32px">Independent fan site. Not affiliated with AUDI AG. Spec data via the EVKX.net API.</p>
+</div>
+
+</div>
+</body>
+</html>

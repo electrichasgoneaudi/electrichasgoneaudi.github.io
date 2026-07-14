@@ -15,7 +15,8 @@
       "Bash(Select-Object -First 1)",
       "Bash(Get-Content)",
       "Bash(Select-String \"sitefiguresized\")",
-      "Bash(Select-Object -First 5)"
+      "Bash(Select-Object -First 5)",
+      "Bash(Sort-Object)"
     ]
   }
 }
