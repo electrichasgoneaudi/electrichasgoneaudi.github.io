@@ -5,9 +5,11 @@
   <title>{{ if .IsHome }}Electric has gone Audi — every electric Audi in detail{{ else }}{{ .Title }} · Electric has gone Audi{{ end }}</title>
   <link rel="shortcut icon" href="{{ "images/favicon.png" | relURL }}" type="image/x-icon">
   <link rel="stylesheet" href="{{ "css/tailwind.css" | relURL }}">
-  <link rel="stylesheet" href="{{ "css/ehga/site.css" | relURL }}">
+  {{- $siteStyles := resources.Get "css/ehga/site.css" | minify | fingerprint -}}
+  <link rel="stylesheet" href="{{ $siteStyles.RelPermalink }}" integrity="{{ $siteStyles.Data.Integrity }}">
   <link rel="stylesheet" href="{{ "css/photoswipe.css" | relURL }}">
-  <script src="{{ "js/ehga-site.js" | relURL }}" defer></script>
+  {{- $siteScript := resources.Get "js/ehga-site.js" | minify | fingerprint -}}
+  <script src="{{ $siteScript.RelPermalink }}" integrity="{{ $siteScript.Data.Integrity }}" defer></script>
   {{- $currentPage := . -}}
   {{- if gt (len .Site.Languages) 1 -}}
     {{- range .AllTranslations -}}
