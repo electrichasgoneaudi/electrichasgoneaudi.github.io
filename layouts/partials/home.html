@@ -4,9 +4,9 @@
     <div class="microlabel">{{ if eq .Language.Lang "nb" }}Uavhengig · Grundig · Siden 2020{{ else }}Independent · In depth · Since 2020{{ end }}</div>
     <h1 class="home-hero__title">{{ if eq .Language.Lang "nb" }}Alle elektriske Audi-modeller. <span>I detalj.</span>{{ else }}Every electric Audi. <span>In detail.</span>{{ end }}</h1>
     <p class="home-hero__lede">{{ if eq .Language.Lang "nb" }}Uavhengige modellguider, komplette spesifikasjoner og praktisk teknisk kunnskap for deg som eier, kjøper eller følger Audis elektriske utvikling.{{ else }}Independent model guides, complete specifications and practical technical knowledge for owners, buyers and anyone following Audi's electric transition.{{ end }}</p>
-    <div style="position:relative;max-width:610px">
-      <div class="home-search"><input type="search" data-site-search data-search-index="{{ if eq .Language.Lang "nb" }}/nb/index.json{{ else }}/index.json{{ end }}" data-empty-label="{{ if eq .Language.Lang "nb" }}Ingen treff{{ else }}No matching pages{{ end }}" autocomplete="off" placeholder="{{ if eq .Language.Lang "nb" }}Søk modeller, teknologi og guider{{ else }}Search models, technology and guides{{ end }}" aria-label="{{ if eq .Language.Lang "nb" }}Søk på nettstedet{{ else }}Site search{{ end }}"><button class="btn-primary" type="button">{{ if eq .Language.Lang "nb" }}Søk{{ else }}Search{{ end }}</button></div>
-      <div class="search-results" data-search-results hidden></div>
+    <div class="home-search-shell">
+      <div class="home-search"><input type="search" data-site-search data-search-index="{{ if eq .Language.Lang "nb" }}/nb/index.json{{ else }}/index.json{{ end }}" data-empty-label="{{ if eq .Language.Lang "nb" }}Ingen treff{{ else }}No matching pages{{ end }}" autocomplete="off" placeholder="{{ if eq .Language.Lang "nb" }}Søk modeller, teknologi og guider{{ else }}Search models, technology and guides{{ end }}" aria-label="{{ if eq .Language.Lang "nb" }}Søk på nettstedet{{ else }}Site search{{ end }}" aria-controls="home-search-results" aria-expanded="false"><button class="btn-primary" type="button" data-search-submit>{{ if eq .Language.Lang "nb" }}Søk{{ else }}Search{{ end }}</button></div>
+      <div class="search-results" id="home-search-results" data-search-results aria-live="polite" hidden></div>
     </div>
     <div class="home-stats">
       <div class="home-stat"><strong>11</strong><span>{{ if eq .Language.Lang "nb" }}Modeller{{ else }}Models{{ end }}</span></div>
