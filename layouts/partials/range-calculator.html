@@ -16,10 +16,20 @@
          data-ehga-range-calculator
          data-ev-id="{{ $model.evkx_id }}"
          data-model-title="{{ $model.title }}"
+         data-model-family="{{ $model.slug }}"
+         data-model-query="{{ $model.title }}"
          data-api-url="https://evkx.net/api/evs/calculatetravel"
+         data-search-url="https://evkx.net/api/evs/search"
          data-lang="{{ $page.Language.Lang }}"
          data-fallback-url="https://evkx.net/{{ if $nb }}nb/{{ end }}evcompare/travelcalculator/?evs={{ $model.evkx_id }}">
       <form class="range-calculator__form" data-calculator-form>
+        <label class="range-calculator__select range-calculator__variant">
+          <span>{{ if $nb }}Variant{{ else }}Variant{{ end }}</span>
+          <select name="vehicleId" data-variant-select disabled>
+            <option value="{{ $model.evkx_id }}">{{ $model.title }}</option>
+          </select>
+        </label>
+
         <fieldset class="range-calculator__fieldset">
           <legend>{{ if $nb }}Tilgjengelig batteri{{ else }}Available battery{{ end }}</legend>
           <div class="range-calculator__segments" data-range-mode>
@@ -113,5 +123,6 @@
     <p class="model-calculator__source">{{ if $nb }}Kjøretøydata og beregningsmotor levert av{{ else }}Vehicle data and calculation engine provided by{{ end }} <a href="https://evkx.net/{{ if $nb }}nb/{{ end }}evcompare/travelcalculator/?evs={{ $model.evkx_id }}">EVKX.net</a>.</p>
   </div>
 </section>
-<script type="module" src="{{ "js/evkx-travel-calculator.js" | relURL }}"></script>
+{{ $calculatorScript := resources.Get "js/evkx-travel-calculator.js" | fingerprint }}
+<script type="module" src="{{ $calculatorScript.RelPermalink }}" integrity="{{ $calculatorScript.Data.Integrity }}"></script>
 {{ end }}
