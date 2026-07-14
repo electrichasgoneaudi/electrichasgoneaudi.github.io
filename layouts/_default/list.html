@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="{{ .Language.Lang }}">
+  {{ partial "headstandard.html" . }}
+  <body class="page-light">
+    {{ partial "navbar.html" . }}
+    <main class="site-main">
+      {{ if and .Parent.IsHome (in (slice "articles" "guides" "technology") .Section) }}
+        {{ partial "section-index.html" . }}
+      {{ else }}
+        {{ partial "content-page.html" . }}
+      {{ end }}
+    </main>
+    <footer class="site-footer"><div class="container">{{ partial "footercontent.html" . }}</div></footer>
+  </body>
+</html>

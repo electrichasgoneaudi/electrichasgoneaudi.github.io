@@ -80,6 +80,36 @@ Shortcode at `layouts/shortcodes/evkxfiguresized.html`:
 
 ## Content conventions
 
+### EVKX JavaScript islands
+
+Hugo owns the page shell and Markdown. Interactive vehicle calculations remain
+owned by the adjacent EVKX repository.
+
+- `layouts/partials/range-calculator.html` renders the calculator host on model pages.
+- `static/js/evkx-travel-calculator.js` resolves EVKX's versioned JavaScript and CSS
+  from its public `manifest.json`; do not copy the React bundle into this repo.
+- EVKX model GUIDs used to seed the calculator live in `data/ehga/models.yaml`.
+- `content/compare/` and `static/js/evkx-compare.js` provide an Audi-only selector,
+  then hand the selected IDs to EVKX's server-rendered comparison.
+- The EVKX API must allow the EHGA origin through CORS. The embed reads
+  `data-api-base`, `data-lang`, `data-brand`, and `data-color-scheme`.
+
+The corresponding EVKX implementation is under
+`D:/repos/evkx.net/src/evkx.net/travelcalculatorfrontend` and
+`D:/repos/evkx.net/src/evkx.net/evkx.net/Program.cs`.
+
+### Generated specifications
+
+Specifications are generated from EVKX model data, not maintained by hand. The
+authoritative generator lives in the adjacent EVKX repository at
+`D:/repos/evkx.net/src/ehga.sitegenerator`; its
+`Service/AudiSpecMdWriter.cs` writes the English and Norwegian pages together.
+See `tools/specifications/README.md` in this repo for the output contract.
+
+The generated output uses the redesign's variant tabs and specification cards.
+`tools/specifications/migrate-legacy.mjs` is only a one-time converter for old
+accordion-based files.
+
 ### Bilingual files
 Every page needs both `_index.md` (English) and `_index.nb.md` (Norwegian Bokmål). Keep structure and images identical between them; translate text only.
 
@@ -92,7 +122,7 @@ content/models/<model>/
   interior/                      — weight: 5, screens, seats, storage
   drivetrain/                    — weight: 6, motors, battery, suspension
   technology/                    — weight: 7, ADAS, charging, connectivity
-  specifications/                — weight: 4 (hidden: true), HTML accordion tables
+  specifications/                — weight: 4 (hidden: true), generated variant tabs and cards
 ```
 
 ### Standard section structure for European models (Q4, Q6, Q8, e-tron GT…)

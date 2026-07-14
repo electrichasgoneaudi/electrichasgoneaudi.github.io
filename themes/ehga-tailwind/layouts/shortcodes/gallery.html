@@ -6,22 +6,22 @@
     <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-{{ $cols }} gap-4 mb-6">
         {{- $imageList := split $imageString "," -}}
         {{- range $imageList -}}
-            {{- $item := . | strings.TrimSpace -}}
+            {{- $item := trim . " \t\r\n" -}}
             {{- if $item -}}
                 {{- $parts := split $item "|" -}}
                 {{- if ge (len $parts) 1 -}}
-                    {{- $thumb := index $parts 0 | strings.TrimSpace -}}
+                    {{- $thumb := trim (index $parts 0) " \t\r\n" -}}
                     {{- $title := "" -}}
                     {{- $width := "800" -}}
                     {{- $height := "600" -}}
                     {{- if ge (len $parts) 2 -}}
-                        {{- $title = index $parts 1 | strings.TrimSpace -}}
+                        {{- $title = trim (index $parts 1) " \t\r\n" -}}
                     {{- end -}}
                     {{- if ge (len $parts) 3 -}}
-                        {{- $width = index $parts 2 | strings.TrimSpace -}}
+                        {{- $width = trim (index $parts 2) " \t\r\n" -}}
                     {{- end -}}
                     {{- if ge (len $parts) 4 -}}
-                        {{- $height = index $parts 3 | strings.TrimSpace -}}
+                        {{- $height = trim (index $parts 3) " \t\r\n" -}}
                     {{- end -}}
                     {{- if $thumb -}}
                         {{- $url := $thumb | replaceRE "_st." "." -}}

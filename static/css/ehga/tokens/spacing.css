@@ -1,0 +1,29 @@
+:root {
+  /* Layout */
+  --container: 1280px;        /* max content width */
+  --container-prose: 760px;   /* article / long-form column */
+  --container-media: 1080px;  /* full-width article imagery */
+  --page-pad: 32px;           /* horizontal page padding */
+  --nav-height: 64px;
+
+  /* Vertical rhythm */
+  --section-gap: 64px;        /* between sections within a page */
+  --band-pad: 72px;           /* top/bottom padding of full-width color bands */
+  --page-top: 56px;           /* page title block top padding */
+
+  /* Component spacing */
+  --card-pad: 20px;           /* 16–24px range; 20 default */
+  --grid-gap: 20px;           /* card grids */
+  --grid-gap-tight: 14px;     /* image/stat grids */
+
+  /* Radii */
+  --radius-s: 6px;            /* small buttons, nav chips */
+  --radius-m: 10px;           /* rows, small cards, inputs */
+  --radius-l: 12px;           /* standard cards, tables */
+  --radius-xl: 16px;          /* feature panels (calculator, CTA band) */
+  --radius-pill: 99px;        /* filter chips, status badges */
+
+  /* Motion */
+  --transition: .2s ease;     /* hover transitions: transform, box-shadow, border-color */
+  --hover-lift: translateY(-3px);
+}

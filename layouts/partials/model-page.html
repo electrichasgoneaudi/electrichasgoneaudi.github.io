@@ -1,0 +1,27 @@
+{{ $slug := path.Base (strings.TrimSuffix "/" .File.Dir) }}
+{{ $matches := where .Site.Data.ehga.models "slug" $slug }}
+{{ $meta := index $matches 0 }}
+<section class="model-hero">
+  <img class="model-hero__image" src="{{ $meta.image }}" alt="{{ .Title }}">
+  <div class="container model-hero__content">
+    {{ partial "breadcrumb.html" . }}
+    <div class="microlabel">{{ if eq $meta.market "china" }}{{ if eq .Language.Lang "nb" }}Kun Kina{{ else }}China only{{ end }}{{ else }}{{ if eq .Language.Lang "nb" }}Modellguide{{ else }}Model guide{{ end }}{{ end }}</div>
+    <h1 class="model-hero__title">{{ .Title }}</h1>
+    <p class="model-hero__description">{{ .Description }}</p>
+  </div>
+</section>
+{{ partial "sectiontabs.html" . }}
+<div class="band band--paper" style="padding-top:0">
+  <div class="container">
+    <div class="model-stats">
+      <div class="stat-card"><div class="stat-card__label">{{ $meta.cycle }} {{ if eq .Language.Lang "nb" }}rekkevidde{{ else }}range{{ end }}</div><div class="stat-card__value">{{ $meta.range }}</div></div>
+      <div class="stat-card"><div class="stat-card__label">{{ if eq .Language.Lang "nb" }}Batteri{{ else }}Battery{{ end }}</div><div class="stat-card__value">{{ $meta.battery }}</div></div>
+      <div class="stat-card"><div class="stat-card__label">DC {{ if eq .Language.Lang "nb" }}lading{{ else }}charging{{ end }}</div><div class="stat-card__value">{{ $meta.charging }}</div></div>
+      <div class="stat-card"><div class="stat-card__label">{{ if eq .Language.Lang "nb" }}Marked{{ else }}Market{{ end }}</div><div class="stat-card__value" style="font-size:22px">{{ if eq $meta.market "china" }}China{{ else }}Europe{{ end }}</div></div>
+    </div>
+    <div class="content-prose prose" style="padding-top:64px">{{ .Content }}</div>
+  </div>
+</div>
+{{ partial "model-section-grid.html" (dict "page" . "fallback" $meta.image) }}
+{{ partial "range-calculator.html" (dict "page" . "model" $meta) }}
+{{ partial "model-gallery.html" (dict "slug" $slug "page" .) }}

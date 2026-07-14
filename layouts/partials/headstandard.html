@@ -1,0 +1,18 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {{ partial "meta.html" . }}
+  <title>{{ if .IsHome }}Electric has gone Audi — every electric Audi in detail{{ else }}{{ .Title }} · Electric has gone Audi{{ end }}</title>
+  <link rel="shortcut icon" href="{{ "images/favicon.png" | relURL }}" type="image/x-icon">
+  <link rel="stylesheet" href="{{ "css/tailwind.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/ehga/site.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/photoswipe.css" | relURL }}">
+  <script src="{{ "js/ehga-site.js" | relURL }}" defer></script>
+  {{- $currentPage := . -}}
+  {{- if .Site.IsMultiLingual -}}
+    {{- range .AllTranslations -}}
+      <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+    {{- end -}}
+  {{- end -}}
+  {{ partial "googleanalytics.html" . }}
+</head>

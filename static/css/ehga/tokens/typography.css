@@ -1,0 +1,25 @@
+:root {
+  /* Families */
+  --font-display: 'Archivo', system-ui, sans-serif;      /* headlines, numbers, buttons, card titles */
+  --font-body: 'Instrument Sans', system-ui, sans-serif; /* paragraphs, descriptions */
+  --font-mono: ui-monospace, Menlo, Consolas, monospace; /* microlabels, spec labels, breadcrumbs */
+
+  /* Display scale — always uppercase, weight 800–900, tight tracking on large sizes */
+  --display-xl: 900 64px/0.98 var(--font-display);   /* home hero; letter-spacing -.02em */
+  --display-l: 900 48px/1.05 var(--font-display);    /* page titles; letter-spacing -.01em */
+  --display-m: 900 40px/1.05 var(--font-display);    /* sub-page titles; letter-spacing -.01em */
+  --heading: 800 28px/1.15 var(--font-display);      /* section h2, uppercase */
+  --heading-s: 800 24px/1.2 var(--font-display);     /* minor h2, uppercase */
+  --card-title: 700 17px/1.25 var(--font-display);
+  --stat-number: 800 30px/1.1 var(--font-display);   /* spec quick-card values */
+
+  /* Body scale */
+  --body-lede: 400 17px/1.7 var(--font-body);
+  --body: 400 15.5px/1.7 var(--font-body);
+  --body-s: 400 13.5px/1.55 var(--font-body);
+
+  /* Mono microlabels — ALWAYS uppercase + wide tracking */
+  --microlabel: 400 11px/1.4 var(--font-mono);       /* letter-spacing .2em, uppercase, usually --accent */
+  --microlabel-s: 400 10px/1.4 var(--font-mono);     /* letter-spacing .12em */
+  --spec-label: 400 9px/1.4 var(--font-mono);        /* letter-spacing .08em, muted */
+}

@@ -1,0 +1,23 @@
+{{ $model := .model }}
+{{ $page := .site.GetPage (printf "/models/%s/" $model.slug) }}
+{{ with $page }}
+<article class="card card--interactive model-card" data-model-card data-status="{{ $model.status }}" data-market="{{ $model.market }}">
+  <a href="{{ .RelPermalink }}" aria-label="{{ $model.title }}">
+    <img class="card__media" src="{{ $model.image }}" alt="{{ $model.title }}" loading="lazy">
+  </a>
+  <div class="card__body">
+    <div class="model-card__title-row">
+      <h3 class="card__title"><a href="{{ .RelPermalink }}">{{ $model.title }}</a></h3>
+      {{ if eq $model.status "onsale" }}<span class="status-badge status-badge--onsale">{{ if eq $.site.Language.Lang "nb" }}I salg{{ else }}On sale{{ end }}</span>{{ end }}
+      {{ if eq $model.status "china" }}<span class="status-badge status-badge--china">{{ if eq $.site.Language.Lang "nb" }}Kun Kina{{ else }}China only{{ end }}</span>{{ end }}
+      {{ if eq $model.status "coming" }}<span class="status-badge status-badge--coming">{{ if eq $.site.Language.Lang "nb" }}Kommer{{ else }}Coming{{ end }}</span>{{ end }}
+      {{ if eq $model.status "ended" }}<span class="status-badge status-badge--ended">{{ if eq $.site.Language.Lang "nb" }}Utgått{{ else }}Discontinued{{ end }}</span>{{ end }}
+    </div>
+    <div class="model-card__meta">
+      <div class="model-card__metric"><span>{{ if $model.cycle }}{{ $model.cycle }} {{ if eq $.site.Language.Lang "nb" }}rekkevidde{{ else }}range{{ end }}{{ else }}{{ if eq $.site.Language.Lang "nb" }}Rekkevidde{{ else }}Range{{ end }}{{ end }}</span><strong>{{ $model.range }}</strong></div>
+      <div class="model-card__metric"><span>{{ if eq $.site.Language.Lang "nb" }}Batteri{{ else }}Battery{{ end }}</span><strong>{{ $model.battery }}</strong></div>
+      <div class="model-card__metric"><span>{{ if eq $.site.Language.Lang "nb" }}Lading{{ else }}Charging{{ end }}</span><strong>{{ $model.charging }}</strong></div>
+    </div>
+  </div>
+</article>
+{{ end }}

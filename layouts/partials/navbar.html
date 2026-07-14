@@ -1,0 +1,29 @@
+{{ $currentPage := . }}
+<header class="site-header">
+  <div class="container site-header__inner">
+    <a class="site-logo" href="{{ .Site.Home.RelPermalink }}" aria-label="Electric has gone Audi home">
+      <img src="/images/logonew.png" alt="Electric has gone Audi">
+    </a>
+
+    <button class="site-menu-button" type="button" data-menu-toggle aria-controls="site-navigation" aria-expanded="false" aria-label="{{ if eq .Language.Lang "nb" }}Åpne meny{{ else }}Open menu{{ end }}"><span></span></button>
+
+    <nav class="site-nav" id="site-navigation" data-site-nav aria-label="Primary navigation">
+      {{ $section := .Section }}
+      <a class="site-nav__link" href="{{ with .Site.GetPage "/models/" }}{{ .RelPermalink }}{{ end }}" {{ if eq $section "models" }}aria-current="page"{{ end }}>{{ T "menu-models" }}</a>
+      <a class="site-nav__link" href="{{ with .Site.GetPage "/technology/" }}{{ .RelPermalink }}{{ end }}" {{ if eq $section "technology" }}aria-current="page"{{ end }}>{{ T "menu-technology" }}</a>
+      <a class="site-nav__link" href="{{ with .Site.GetPage "/guides/" }}{{ .RelPermalink }}{{ end }}" {{ if eq $section "guides" }}aria-current="page"{{ end }}>{{ T "menu-guides" }}</a>
+      <a class="site-nav__link" href="{{ with .Site.GetPage "/articles/" }}{{ .RelPermalink }}{{ end }}" {{ if eq $section "articles" }}aria-current="page"{{ end }}>{{ T "menu-articles" }}</a>
+      <a class="site-nav__link site-nav__link--cta" href="{{ with .Site.GetPage "/compare/" }}{{ .RelPermalink }}{{ else }}/compare/{{ end }}" {{ if eq $section "compare" }}aria-current="page"{{ end }}>{{ if eq .Language.Lang "nb" }}Sammenlign{{ else }}Compare{{ end }}</a>
+      {{ if .Site.IsMultiLingual }}
+      <div class="site-language">
+        <button class="site-language__trigger" type="button" data-language-toggle aria-expanded="false">{{ upper .Language.Lang }} ↓</button>
+        <div class="site-language__menu" data-language-menu hidden>
+          {{ range .AllTranslations }}
+          <a class="site-language__option" href="{{ .RelPermalink }}" {{ if eq .Language.Lang $currentPage.Language.Lang }}aria-current="true"{{ end }}>{{ .Language.LanguageName }}</a>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+    </nav>
+  </div>
+</header>

@@ -6,5464 +6,798 @@ weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
-<!-- markdownlint-disable MD033 -->
-<!-- markdownlint-disable MD010 -->
-<div class="space-y-4">
-    <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
-                onclick="toggleAccordion('accordion-2319fb52-350c-4f07-9778-ae0f16f5a016')"
-                aria-expanded="false"
-                aria-controls="accordion-2319fb52-350c-4f07-9778-ae0f16f5a016">
-            <div class="flex justify-between items-center">
-                <h3 class="text-lg font-semibold text-gray-900">Audi E5 Sportback Pioneer</h3>
-                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
-                     id="icon-accordion-2319fb52-350c-4f07-9778-ae0f16f5a016"
-                     fill="none"
-                     viewBox="0 0 24 24"
-                     stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
-                </svg>
-            </div>
-        </button>
-        <div id="accordion-2319fb52-350c-4f07-9778-ae0f16f5a016"
-             class="hidden p-4"
-             aria-labelledby="button-accordion-2319fb52-350c-4f07-9778-ae0f16f5a016">
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Ytelse</h2>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Toppeffekt
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				220 kW (299 hp / 295 bhp)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Elektrisk dreiemoment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				420 Nm (310 lb-ft)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Toppfart
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				205 km/t (127 mph)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				0–100 km/t (0–62 mph)
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				6,1 s
-			</td>
-		</tr>
-	</tbody>
-</table>
+<!-- Converted by tools/specifications/migrate-legacy.mjs. Future updates come from the EVKX generator. -->
+<div class="generated-specs" data-spec-browser>
+  <div class="generated-specs__variants" role="tablist" aria-label="Velg variant">
+    <button class="chip chip--active" type="button" role="tab" aria-selected="true" aria-controls="spec-panel-variant-1" data-spec-tab="variant-1">Audi E5 Sportback Pioneer</button>
+    <button class="chip" type="button" role="tab" aria-selected="false" aria-controls="spec-panel-variant-2" data-spec-tab="variant-2">Audi E5 Sportback Pioneer Plus</button>
+    <button class="chip" type="button" role="tab" aria-selected="false" aria-controls="spec-panel-variant-3" data-spec-tab="variant-3">Audi E5 Sportback Pioneer quattro</button>
+    <button class="chip" type="button" role="tab" aria-selected="false" aria-controls="spec-panel-variant-4" data-spec-tab="variant-4">Audi E5 Sportback quattro</button>
+  </div>
+  <section class="generated-specs__panel" id="spec-panel-variant-1" role="tabpanel" data-spec-panel="variant-1">
+    <h2 class="generated-specs__title">Audi E5 Sportback Pioneer</h2>
+    <div class="generated-specs__groups">
+      <section class="generated-specs__group">
+        <h3>Ytelse</h3>
+        <div class="generated-specs__group-body">
+          <div class="spec-row"><span class="spec-row__label">Toppeffekt</span><strong class="spec-row__value">220 kW (299 hp / 295 bhp)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Elektrisk dreiemoment</span><strong class="spec-row__value">420 Nm (310 lb-ft)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Toppfart</span><strong class="spec-row__value">205 km/t (127 mph)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph)</span><strong class="spec-row__value">6,1 s</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Rekkevidde og forbruk</h3>
+        <div class="generated-specs__group-body">
+          <p>Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår <a href="../rangeandconsumption/">utvidet rekkeviddeinformasjon</a> for detaljerte eksempler på faktisk rekkevidde. Besøk vår <a href="../../../../../guides/understandingrange/">rekkeviddeguide</a> for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.</p>
+          <div class="spec-row"><span class="spec-row__label">Basic trim CLTC-rekkevidde</span><strong class="spec-row__value">773 km</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Basic trim CLTC-forbruk</span><strong class="spec-row__value">12,3 kWh/100km</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Batteri og lading</h3>
+        <div class="generated-specs__group-body">
+          <div class="spec-row"><span class="spec-row__label">Bruttobatterikapasitet</span><strong class="spec-row__value">100 kWh</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Netto batterikapasitet</span><strong class="spec-row__value">95 kWh</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Maks DC-lading</span><strong class="spec-row__value">420 kW</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Katodematerialer</span><strong class="spec-row__value">NMC</strong></div>
+          <h4 class="generated-specs__subheading">Ladeport</h4>
+          <div class="spec-row"><span class="spec-row__label">Plassering av ladeport</span><strong class="spec-row__value">LeftRearSide</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Dimensjoner</h3>
+        <div class="generated-specs__group-body">
+          <div class="spec-row"><span class="spec-row__label">Lengde</span><strong class="spec-row__value">4881 mm (192,2")</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Høyde</span><strong class="spec-row__value">1478 mm (58,2")</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Bredde uten speil</span><strong class="spec-row__value">1959 mm (77,1")</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Akselavstand</span><strong class="spec-row__value">2950 mm (116,1")</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Sporvidde foran</span><strong class="spec-row__value">1677 mm (66,0")</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Sporvidde bak</span><strong class="spec-row__value">1672 mm (65,8")</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Luftmotstandskoeffisient</span><strong class="spec-row__value">0,252</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Angrepsvinkel</span><strong class="spec-row__value">14</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Utkjøringsvinkel</span><strong class="spec-row__value">17</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Svingradius</span><strong class="spec-row__value">10,5 meter (413,4")</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Bagasjekapasitet og tilhengerevne</h3>
+        <div class="generated-specs__group-body">
+          <div class="spec-row"><span class="spec-row__label">Egenvekt</span><strong class="spec-row__value">2240 kg (4938 lbs)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Tillatt totalvekt</span><strong class="spec-row__value">2676 kg (5900 lbs)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Maks last inkludert førervekt</span><strong class="spec-row__value">436 kg (961 lbs)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Maks taklast</span><strong class="spec-row__value">0 kg (0 lbs)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet</span><strong class="spec-row__value">347 liter (12 cu-ft)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet med alle bakseter slått ned</span><strong class="spec-row__value">1233 liter (44 cu-ft)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Frunk-størrelse</span><strong class="spec-row__value">30 liter (1 cu-ft)</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Hjuloppheng</h3>
+        <div class="generated-specs__group-body">
+          <div class="spec-row"><span class="spec-row__label">Adaptivt hjuloppheng</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justerbar demping foran</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justerbar demping bak</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justerbar høyde foran</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justerbar høyde bak</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Dempertype foran</span><strong class="spec-row__value">ElectronicallyControlled</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Dempertype bak</span><strong class="spec-row__value">ElectronicallyControlled</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Fjærtype foran</span><strong class="spec-row__value">Air</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Fjærtype bak</span><strong class="spec-row__value">Air</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Fjæringstype foran</span><strong class="spec-row__value">Dobbelt bærearmsoppheng foran</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Fjæringstype bak</span><strong class="spec-row__value">Multilenkeoppheng</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Interiør</h3>
+        <div class="generated-specs__group-body">
+          <p>Denne modellen er tilgjengelig med et seteoppsett med fem seter.</p>
+          <h4 class="generated-specs__subheading">Forseter</h4>
+          <div class="spec-row"><span class="spec-row__label">Setekategori</span><strong class="spec-row__value">Sjåfør- og passasjersete</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av setedybde</span><strong class="spec-row__value">Ukjent</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av setehøyde</span><strong class="spec-row__value">Ukjent</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av ryggvinkel</span><strong class="spec-row__value">Ukjent</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av sitteputevinkel</span><strong class="spec-row__value">Ukjent</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Seteminne</span><strong class="spec-row__value">Ukjent</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Høydejusterbar hodestøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Lengdejusterbar hodestøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justerbar lårstøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i rygg</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i sittepute</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Fothviler for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Beinstøtte for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Elektrisk korsryggstøtte</span><strong class="spec-row__value">Standard funksjon</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Seteventilasjon</span><strong class="spec-row__value">Standard funksjon</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Massasjefunksjon</span><strong class="spec-row__value">Valgfri funksjon</strong></div>
+          <h4 class="generated-specs__subheading">Seter i andre rad</h4>
+          <div class="spec-row"><span class="spec-row__label">Setekategori</span><strong class="spec-row__value">Treiseters benk</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Høydejusterbar hodestøtte</span><strong class="spec-row__value">Ukjent</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Lengdejusterbar hodestøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justerbar lårstøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i rygg</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i sittepute</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Fothviler for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Beinstøtte for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Elektrisk korsryggstøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Seteventilasjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Massasjefunksjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <h4 class="generated-specs__subheading">Senterkonsoller</h4>
+          <h4 class="text-base font-medium text-gray-900 mb-2">Senterkonsoll i første rad</h4>
+          <div class="spec-row"><span class="spec-row__label">Konsollutforming</span><strong class="spec-row__value">Todelt midtkonsoll</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Førerstøtte</h3>
+        <div class="generated-specs__group-body">
+          <div class="spec-row"><span class="spec-row__label">Filholderassistent</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Filskiftevarsling</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Trøtthetsvarsling</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ryggekamera</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">360-kamera</span><strong class="spec-row__value">Ja, valgfritt utstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Varsling for kryssende trafikk bak (RCTA)</span><strong class="spec-row__value">Ja (Cross traffic assist rear), standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Nedstigningsassistent</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Bakkestartassistent</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">ABS (blokkeringsfrie bremser)</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Automatisk nødbrems</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Antispinn</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Kollisjonsunngåelse ved venstresving</span><strong class="spec-row__value">Ja, valgfritt utstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Kollisjonsvarsling</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">ESP/ESC (elektronisk stabilitetskontroll)</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Temperaturvarsling</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Varsling for kryssende trafikk (CTA)</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Effektivitetsassistent</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Automatisk nødstyring</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Trafikkskiltgjenkjenning</span><strong class="spec-row__value">Ja, valgfritt utstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Nattkamera</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Sensorer &amp; kameraer</h3>
+        <div class="generated-specs__group-body">
+          <h4 class="generated-specs__subheading">Ultralydsensorer</h4>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfanger</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfanger</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfanger venstre hjørne</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfanger høyre hjørne</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfanger venstre side</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfanger høyre side</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfanger venstre side</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfanger høyre side</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfanger venstre hjørne</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfanger høyre hjørne</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfanger</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfanger</strong></div>
+          <h4 class="generated-specs__subheading">Kameraer</h4>
+          <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">Øverste midt på frontrute</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">Foran (Valgfritt)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">På venstre sidespeil (Valgfritt)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">På høyre sidespeil (Valgfritt)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">Bak midt (Valgfritt)</strong></div>
+          <h4 class="generated-specs__subheading">Radarsensorer</h4>
+          <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Foran</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Venstre bakhjørne</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Høyre bakhjørne</strong></div>
+          <h4 class="generated-specs__subheading">LiDAR-sensorer</h4>
+          <div class="spec-row"><span class="spec-row__label">LiDAR-sensorer</span><strong class="spec-row__value">Midtre tak over frontrute</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>UI og kontroller</h3>
+        <div class="generated-specs__group-body">
+          <div class="spec-row"><span class="spec-row__label">Head-up display</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Stemmestyring</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Gestkontroll</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Støtte for Android Auto</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Apple CarPlay-støtte</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Innebygd navigasjon</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Tilgjengelige skjermoppsett</span><strong class="spec-row__value">1</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Digitalt førerdisplay</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for forsetepassasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for bakpassasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Eksteriør</h3>
+        <div class="generated-specs__group-body">
+          <h4 class="generated-specs__subheading">Lakksfarger</h4>
+          <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Arabica grey</span><strong class="spec-row__value">Grå</strong></div>
+          <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FFFFFF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Glacier white</span><strong class="spec-row__value">Hvit</strong></div>
+          <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mist blue</span><strong class="spec-row__value">Blå</strong></div>
+          <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Morning haze</span><strong class="spec-row__value">Syren</strong></div>
+          <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Liquid silver</span><strong class="spec-row__value">Sølv</strong></div>
+          <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Cactus green</span><strong class="spec-row__value">Grønn</strong></div>
+        </div>
+      </section>
+    </div>
+  </section>
+  <section class="generated-specs__panel" id="spec-panel-variant-2" role="tabpanel" data-spec-panel="variant-2" hidden>
+    <h2 class="generated-specs__title">Audi E5 Sportback Pioneer Plus</h2>
+    <div class="generated-specs__groups">
+      <section class="generated-specs__group">
+        <h3>Ytelse</h3>
+        <div class="generated-specs__group-body">
+          <div class="spec-row"><span class="spec-row__label">Toppeffekt</span><strong class="spec-row__value">300 kW (408 hp / 402 bhp)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Elektrisk dreiemoment</span><strong class="spec-row__value">500 Nm (369 lb-ft)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Toppfart</span><strong class="spec-row__value">205 km/t (127 mph)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph)</span><strong class="spec-row__value">5 s</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Rekkevidde og forbruk</h3>
+        <div class="generated-specs__group-body">
+          <p>Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår <a href="../rangeandconsumption/">utvidet rekkeviddeinformasjon</a> for detaljerte eksempler på faktisk rekkevidde. Besøk vår <a href="../../../../../guides/understandingrange/">rekkeviddeguide</a> for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.</p>
+          <div class="spec-row"><span class="spec-row__label">Basic trim CLTC-rekkevidde</span><strong class="spec-row__value">773 km</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Basic trim CLTC-forbruk</span><strong class="spec-row__value">12,3 kWh/100km</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Batteri og lading</h3>
+        <div class="generated-specs__group-body">
+          <div class="spec-row"><span class="spec-row__label">Bruttobatterikapasitet</span><strong class="spec-row__value">100 kWh</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Netto batterikapasitet</span><strong class="spec-row__value">95 kWh</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Maks DC-lading</span><strong class="spec-row__value">420 kW</strong></div>
+          <h4 class="generated-specs__subheading">Ladeport</h4>
+          <div class="spec-row"><span class="spec-row__label">Plassering av ladeport</span><strong class="spec-row__value">LeftRearSide</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Dimensjoner</h3>
+        <div class="generated-specs__group-body">
+          <div class="spec-row"><span class="spec-row__label">Lengde</span><strong class="spec-row__value">4881 mm (192,2")</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Høyde</span><strong class="spec-row__value">1478 mm (58,2")</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Bredde uten speil</span><strong class="spec-row__value">1959 mm (77,1")</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Akselavstand</span><strong class="spec-row__value">2950 mm (116,1")</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Sporvidde foran</span><strong class="spec-row__value">1677 mm (66,0")</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Sporvidde bak</span><strong class="spec-row__value">1672 mm (65,8")</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Luftmotstandskoeffisient</span><strong class="spec-row__value">0,252</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Angrepsvinkel</span><strong class="spec-row__value">14</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Utkjøringsvinkel</span><strong class="spec-row__value">17</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Svingradius</span><strong class="spec-row__value">10,5 meter (413,4")</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Bagasjekapasitet og tilhengerevne</h3>
+        <div class="generated-specs__group-body">
+          <div class="spec-row"><span class="spec-row__label">Egenvekt</span><strong class="spec-row__value">2240 kg (4938 lbs)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Tillatt totalvekt</span><strong class="spec-row__value">2676 kg (5900 lbs)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Maks last inkludert førervekt</span><strong class="spec-row__value">436 kg (961 lbs)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Maks taklast</span><strong class="spec-row__value">0 kg (0 lbs)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet</span><strong class="spec-row__value">347 liter (12 cu-ft)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet med alle bakseter slått ned</span><strong class="spec-row__value">1233 liter (44 cu-ft)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Frunk-størrelse</span><strong class="spec-row__value">30 liter (1 cu-ft)</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Hjuloppheng</h3>
+        <div class="generated-specs__group-body">
+          <div class="spec-row"><span class="spec-row__label">Adaptivt hjuloppheng</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justerbar demping foran</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justerbar demping bak</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justerbar høyde foran</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justerbar høyde bak</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Dempertype foran</span><strong class="spec-row__value">ElectronicallyControlled</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Dempertype bak</span><strong class="spec-row__value">ElectronicallyControlled</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Fjærtype foran</span><strong class="spec-row__value">Air</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Fjærtype bak</span><strong class="spec-row__value">Air</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Fjæringstype foran</span><strong class="spec-row__value">Dobbelt bærearmsoppheng foran</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Fjæringstype bak</span><strong class="spec-row__value">Multilenkeoppheng</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Interiør</h3>
+        <div class="generated-specs__group-body">
+          <p>Denne modellen er tilgjengelig med et seteoppsett med fem seter.</p>
+          <h4 class="generated-specs__subheading">Forseter</h4>
+          <div class="spec-row"><span class="spec-row__label">Setekategori</span><strong class="spec-row__value">Sjåfør- og passasjersete</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av setedybde</span><strong class="spec-row__value">Ukjent</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av setehøyde</span><strong class="spec-row__value">Ukjent</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av ryggvinkel</span><strong class="spec-row__value">Ukjent</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av sitteputevinkel</span><strong class="spec-row__value">Ukjent</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Seteminne</span><strong class="spec-row__value">Ukjent</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Høydejusterbar hodestøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Lengdejusterbar hodestøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justerbar lårstøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i rygg</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i sittepute</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Fothviler for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Beinstøtte for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Elektrisk korsryggstøtte</span><strong class="spec-row__value">Standard funksjon</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Seteventilasjon</span><strong class="spec-row__value">Standard funksjon</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Massasjefunksjon</span><strong class="spec-row__value">Valgfri funksjon</strong></div>
+          <h4 class="generated-specs__subheading">Seter i andre rad</h4>
+          <div class="spec-row"><span class="spec-row__label">Setekategori</span><strong class="spec-row__value">Treiseters benk</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Høydejusterbar hodestøtte</span><strong class="spec-row__value">Ukjent</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Lengdejusterbar hodestøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justerbar lårstøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i rygg</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i sittepute</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Fothviler for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Beinstøtte for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Elektrisk korsryggstøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Seteventilasjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Massasjefunksjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <h4 class="generated-specs__subheading">Senterkonsoller</h4>
+          <h4 class="text-base font-medium text-gray-900 mb-2">Senterkonsoll i første rad</h4>
+          <div class="spec-row"><span class="spec-row__label">Konsollutforming</span><strong class="spec-row__value">Todelt midtkonsoll</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Førerstøtte</h3>
+        <div class="generated-specs__group-body">
+          <div class="spec-row"><span class="spec-row__label">Filholderassistent</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Filskiftevarsling</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Trøtthetsvarsling</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ryggekamera</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">360-kamera</span><strong class="spec-row__value">Ja, valgfritt utstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Varsling for kryssende trafikk bak (RCTA)</span><strong class="spec-row__value">Ja (Cross traffic assist rear), standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Nedstigningsassistent</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Bakkestartassistent</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">ABS (blokkeringsfrie bremser)</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Automatisk nødbrems</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Antispinn</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Kollisjonsunngåelse ved venstresving</span><strong class="spec-row__value">Ja, valgfritt utstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Kollisjonsvarsling</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">ESP/ESC (elektronisk stabilitetskontroll)</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Temperaturvarsling</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Varsling for kryssende trafikk (CTA)</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Effektivitetsassistent</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Automatisk nødstyring</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Trafikkskiltgjenkjenning</span><strong class="spec-row__value">Ja, valgfritt utstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Nattkamera</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Sensorer &amp; kameraer</h3>
+        <div class="generated-specs__group-body">
+          <h4 class="generated-specs__subheading">Ultralydsensorer</h4>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfanger</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfanger</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfanger venstre hjørne</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfanger høyre hjørne</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfanger venstre side</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfanger høyre side</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfanger venstre side</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfanger høyre side</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfanger venstre hjørne</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfanger høyre hjørne</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfanger</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfanger</strong></div>
+          <h4 class="generated-specs__subheading">Kameraer</h4>
+          <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">Øverste midt på frontrute</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">Foran (Valgfritt)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">På venstre sidespeil (Valgfritt)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">På høyre sidespeil (Valgfritt)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">Bak midt (Valgfritt)</strong></div>
+          <h4 class="generated-specs__subheading">Radarsensorer</h4>
+          <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Foran</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Venstre bakhjørne</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Høyre bakhjørne</strong></div>
+          <h4 class="generated-specs__subheading">LiDAR-sensorer</h4>
+          <div class="spec-row"><span class="spec-row__label">LiDAR-sensorer</span><strong class="spec-row__value">Midtre tak over frontrute</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>UI og kontroller</h3>
+        <div class="generated-specs__group-body">
+          <div class="spec-row"><span class="spec-row__label">Head-up display</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Stemmestyring</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Gestkontroll</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Støtte for Android Auto</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Apple CarPlay-støtte</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Innebygd navigasjon</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Tilgjengelige skjermoppsett</span><strong class="spec-row__value">1</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Digitalt førerdisplay</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for forsetepassasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for bakpassasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Eksteriør</h3>
+        <div class="generated-specs__group-body">
+          <h4 class="generated-specs__subheading">Lakksfarger</h4>
+          <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Arabica grey</span><strong class="spec-row__value">Grå</strong></div>
+          <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FFFFFF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Glacier white</span><strong class="spec-row__value">Hvit</strong></div>
+          <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mist blue</span><strong class="spec-row__value">Blå</strong></div>
+          <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Morning haze</span><strong class="spec-row__value">Syren</strong></div>
+          <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Liquid silver</span><strong class="spec-row__value">Sølv</strong></div>
+          <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Cactus green</span><strong class="spec-row__value">Grønn</strong></div>
+        </div>
+      </section>
+    </div>
+  </section>
+  <section class="generated-specs__panel" id="spec-panel-variant-3" role="tabpanel" data-spec-panel="variant-3" hidden>
+    <h2 class="generated-specs__title">Audi E5 Sportback Pioneer quattro</h2>
+    <div class="generated-specs__groups">
+      <section class="generated-specs__group">
+        <h3>Ytelse</h3>
+        <div class="generated-specs__group-body">
+          <div class="spec-row"><span class="spec-row__label">Toppeffekt</span><strong class="spec-row__value">386 kW (525 hp / 518 bhp)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Elektrisk dreiemoment</span><strong class="spec-row__value">725 Nm (535 lb-ft)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Toppfart</span><strong class="spec-row__value">205 km/t (127 mph)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph)</span><strong class="spec-row__value">3,9 s</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Rekkevidde og forbruk</h3>
+        <div class="generated-specs__group-body">
+          <p>Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår <a href="../rangeandconsumption/">utvidet rekkeviddeinformasjon</a> for detaljerte eksempler på faktisk rekkevidde. Besøk vår <a href="../../../../../guides/understandingrange/">rekkeviddeguide</a> for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.</p>
+          <div class="spec-row"><span class="spec-row__label">Basic trim CLTC-rekkevidde</span><strong class="spec-row__value">623 km</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Basic trim CLTC-forbruk</span><strong class="spec-row__value">12,7 kWh/100km</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Batteri og lading</h3>
+        <div class="generated-specs__group-body">
+          <div class="spec-row"><span class="spec-row__label">Bruttobatterikapasitet</span><strong class="spec-row__value">83 kWh</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Netto batterikapasitet</span><strong class="spec-row__value">79 kWh</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Maks DC-lading</span><strong class="spec-row__value">420 kW</strong></div>
+          <h4 class="generated-specs__subheading">Ladeport</h4>
+          <div class="spec-row"><span class="spec-row__label">Plassering av ladeport</span><strong class="spec-row__value">LeftRearSide</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Dimensjoner</h3>
+        <div class="generated-specs__group-body">
+          <div class="spec-row"><span class="spec-row__label">Lengde</span><strong class="spec-row__value">4881 mm (192,2")</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Høyde</span><strong class="spec-row__value">1478 mm (58,2")</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Bredde uten speil</span><strong class="spec-row__value">1959 mm (77,1")</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Akselavstand</span><strong class="spec-row__value">2950 mm (116,1")</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Sporvidde foran</span><strong class="spec-row__value">1677 mm (66,0")</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Sporvidde bak</span><strong class="spec-row__value">1672 mm (65,8")</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Luftmotstandskoeffisient</span><strong class="spec-row__value">0,252</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Angrepsvinkel</span><strong class="spec-row__value">14</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Utkjøringsvinkel</span><strong class="spec-row__value">17</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Svingradius</span><strong class="spec-row__value">10,5 meter (413,4")</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Bagasjekapasitet og tilhengerevne</h3>
+        <div class="generated-specs__group-body">
+          <div class="spec-row"><span class="spec-row__label">Egenvekt</span><strong class="spec-row__value">2343 kg (5165 lbs)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Tillatt totalvekt</span><strong class="spec-row__value">2779 kg (6127 lbs)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Maks last inkludert førervekt</span><strong class="spec-row__value">436 kg (961 lbs)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Maks taklast</span><strong class="spec-row__value">0 kg (0 lbs)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet</span><strong class="spec-row__value">347 liter (12 cu-ft)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet med alle bakseter slått ned</span><strong class="spec-row__value">1233 liter (44 cu-ft)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Frunk-størrelse</span><strong class="spec-row__value">30 liter (1 cu-ft)</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Hjuloppheng</h3>
+        <div class="generated-specs__group-body">
+          <div class="spec-row"><span class="spec-row__label">Adaptivt hjuloppheng</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justerbar demping foran</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justerbar demping bak</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justerbar høyde foran</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justerbar høyde bak</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Dempertype foran</span><strong class="spec-row__value">ElectronicallyControlled</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Dempertype bak</span><strong class="spec-row__value">ElectronicallyControlled</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Fjærtype foran</span><strong class="spec-row__value">Air</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Fjærtype bak</span><strong class="spec-row__value">Air</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Fjæringstype foran</span><strong class="spec-row__value">Dobbelt bærearmsoppheng foran</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Fjæringstype bak</span><strong class="spec-row__value">Multilenkeoppheng</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Interiør</h3>
+        <div class="generated-specs__group-body">
+          <p>Denne modellen er tilgjengelig med et seteoppsett med fem seter.</p>
+          <h4 class="generated-specs__subheading">Forseter</h4>
+          <div class="spec-row"><span class="spec-row__label">Setekategori</span><strong class="spec-row__value">Sjåfør- og passasjersete</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av setedybde</span><strong class="spec-row__value">Ukjent</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av setehøyde</span><strong class="spec-row__value">Ukjent</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av ryggvinkel</span><strong class="spec-row__value">Ukjent</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av sitteputevinkel</span><strong class="spec-row__value">Ukjent</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Seteminne</span><strong class="spec-row__value">Ukjent</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Høydejusterbar hodestøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Lengdejusterbar hodestøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justerbar lårstøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i rygg</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i sittepute</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Fothviler for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Beinstøtte for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Elektrisk korsryggstøtte</span><strong class="spec-row__value">Standard funksjon</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Seteventilasjon</span><strong class="spec-row__value">Standard funksjon</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Massasjefunksjon</span><strong class="spec-row__value">Standard funksjon</strong></div>
+          <h4 class="generated-specs__subheading">Seter i andre rad</h4>
+          <div class="spec-row"><span class="spec-row__label">Setekategori</span><strong class="spec-row__value">Treiseters benk</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Høydejusterbar hodestøtte</span><strong class="spec-row__value">Ukjent</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Lengdejusterbar hodestøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justerbar lårstøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i rygg</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i sittepute</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Fothviler for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Beinstøtte for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Elektrisk korsryggstøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Seteventilasjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Massasjefunksjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <h4 class="generated-specs__subheading">Senterkonsoller</h4>
+          <h4 class="text-base font-medium text-gray-900 mb-2">Senterkonsoll i første rad</h4>
+          <div class="spec-row"><span class="spec-row__label">Konsollutforming</span><strong class="spec-row__value">Todelt midtkonsoll</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Førerstøtte</h3>
+        <div class="generated-specs__group-body">
+          <div class="spec-row"><span class="spec-row__label">Filholderassistent</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Filskiftevarsling</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Trøtthetsvarsling</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ryggekamera</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">360-kamera</span><strong class="spec-row__value">Ja, valgfritt utstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Varsling for kryssende trafikk bak (RCTA)</span><strong class="spec-row__value">Ja (Cross traffic assist rear), standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Nedstigningsassistent</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Bakkestartassistent</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">ABS (blokkeringsfrie bremser)</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Automatisk nødbrems</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Antispinn</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Kollisjonsunngåelse ved venstresving</span><strong class="spec-row__value">Ja, valgfritt utstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Kollisjonsvarsling</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">ESP/ESC (elektronisk stabilitetskontroll)</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Temperaturvarsling</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Varsling for kryssende trafikk (CTA)</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Effektivitetsassistent</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Automatisk nødstyring</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Trafikkskiltgjenkjenning</span><strong class="spec-row__value">Ja, valgfritt utstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Nattkamera</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Sensorer &amp; kameraer</h3>
+        <div class="generated-specs__group-body">
+          <h4 class="generated-specs__subheading">Ultralydsensorer</h4>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfanger</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfanger</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfanger venstre hjørne</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfanger høyre hjørne</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfanger venstre side</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfanger høyre side</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfanger venstre side</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfanger høyre side</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfanger venstre hjørne</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfanger høyre hjørne</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfanger</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfanger</strong></div>
+          <h4 class="generated-specs__subheading">Kameraer</h4>
+          <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">Øverste midt på frontrute</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">Foran (Valgfritt)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">På venstre sidespeil (Valgfritt)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">På høyre sidespeil (Valgfritt)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">Bak midt (Valgfritt)</strong></div>
+          <h4 class="generated-specs__subheading">Radarsensorer</h4>
+          <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Foran</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Venstre bakhjørne</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Høyre bakhjørne</strong></div>
+          <h4 class="generated-specs__subheading">LiDAR-sensorer</h4>
+          <div class="spec-row"><span class="spec-row__label">LiDAR-sensorer</span><strong class="spec-row__value">Midtre tak over frontrute</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>UI og kontroller</h3>
+        <div class="generated-specs__group-body">
+          <div class="spec-row"><span class="spec-row__label">Head-up display</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Stemmestyring</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Gestkontroll</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Støtte for Android Auto</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Apple CarPlay-støtte</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Innebygd navigasjon</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Tilgjengelige skjermoppsett</span><strong class="spec-row__value">1</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Digitalt førerdisplay</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for forsetepassasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for bakpassasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Eksteriør</h3>
+        <div class="generated-specs__group-body">
+          <h4 class="generated-specs__subheading">Lakksfarger</h4>
+          <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Arabica grey</span><strong class="spec-row__value">Grå</strong></div>
+          <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FFFFFF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Glacier white</span><strong class="spec-row__value">Hvit</strong></div>
+          <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mist blue</span><strong class="spec-row__value">Blå</strong></div>
+          <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Morning haze</span><strong class="spec-row__value">Syren</strong></div>
+          <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Liquid silver</span><strong class="spec-row__value">Sølv</strong></div>
+          <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Cactus green</span><strong class="spec-row__value">Grønn</strong></div>
+        </div>
+      </section>
+    </div>
+  </section>
+  <section class="generated-specs__panel" id="spec-panel-variant-4" role="tabpanel" data-spec-panel="variant-4" hidden>
+    <h2 class="generated-specs__title">Audi E5 Sportback quattro</h2>
+    <div class="generated-specs__groups">
+      <section class="generated-specs__group">
+        <h3>Ytelse</h3>
+        <div class="generated-specs__group-body">
+          <div class="spec-row"><span class="spec-row__label">Toppeffekt</span><strong class="spec-row__value">579 kW (787 hp / 776 bhp)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Elektrisk dreiemoment</span><strong class="spec-row__value">800 Nm (590 lb-ft)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Toppfart</span><strong class="spec-row__value">230 km/t (143 mph)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph)</span><strong class="spec-row__value">3,4 s</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Rekkevidde og forbruk</h3>
+        <div class="generated-specs__group-body">
+          <p>Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår <a href="../rangeandconsumption/">utvidet rekkeviddeinformasjon</a> for detaljerte eksempler på faktisk rekkevidde. Besøk vår <a href="../../../../../guides/understandingrange/">rekkeviddeguide</a> for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.</p>
+          <div class="spec-row"><span class="spec-row__label">Basic trim CLTC-rekkevidde</span><strong class="spec-row__value">647 km</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Basic trim CLTC-forbruk</span><strong class="spec-row__value">14,7 kWh/100km</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Batteri og lading</h3>
+        <div class="generated-specs__group-body">
+          <div class="spec-row"><span class="spec-row__label">Bruttobatterikapasitet</span><strong class="spec-row__value">100 kWh</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Netto batterikapasitet</span><strong class="spec-row__value">95 kWh</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Maks DC-lading</span><strong class="spec-row__value">420 kW</strong></div>
+          <h4 class="generated-specs__subheading">Ladeport</h4>
+          <div class="spec-row"><span class="spec-row__label">Plassering av ladeport</span><strong class="spec-row__value">LeftRearSide</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Dimensjoner</h3>
+        <div class="generated-specs__group-body">
+          <div class="spec-row"><span class="spec-row__label">Lengde</span><strong class="spec-row__value">4881 mm (192,2")</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Høyde</span><strong class="spec-row__value">1478 mm (58,2")</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Bredde uten speil</span><strong class="spec-row__value">1959 mm (77,1")</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Akselavstand</span><strong class="spec-row__value">2950 mm (116,1")</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Sporvidde foran</span><strong class="spec-row__value">1677 mm (66,0")</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Sporvidde bak</span><strong class="spec-row__value">1672 mm (65,8")</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Luftmotstandskoeffisient</span><strong class="spec-row__value">0,252</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Angrepsvinkel</span><strong class="spec-row__value">14</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Utkjøringsvinkel</span><strong class="spec-row__value">17</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Svingradius</span><strong class="spec-row__value">10,5 meter (413,4")</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Bagasjekapasitet og tilhengerevne</h3>
+        <div class="generated-specs__group-body">
+          <div class="spec-row"><span class="spec-row__label">Egenvekt</span><strong class="spec-row__value">2343 kg (5165 lbs)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Tillatt totalvekt</span><strong class="spec-row__value">2779 kg (6127 lbs)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Maks last inkludert førervekt</span><strong class="spec-row__value">436 kg (961 lbs)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Maks taklast</span><strong class="spec-row__value">0 kg (0 lbs)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet</span><strong class="spec-row__value">347 liter (12 cu-ft)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet med alle bakseter slått ned</span><strong class="spec-row__value">1233 liter (44 cu-ft)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Frunk-størrelse</span><strong class="spec-row__value">30 liter (1 cu-ft)</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Hjuloppheng</h3>
+        <div class="generated-specs__group-body">
+          <div class="spec-row"><span class="spec-row__label">Adaptivt hjuloppheng</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justerbar demping foran</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justerbar demping bak</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justerbar høyde foran</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justerbar høyde bak</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Dempertype foran</span><strong class="spec-row__value">ElectronicallyControlled</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Dempertype bak</span><strong class="spec-row__value">ElectronicallyControlled</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Fjærtype foran</span><strong class="spec-row__value">Air</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Fjærtype bak</span><strong class="spec-row__value">Air</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Fjæringstype foran</span><strong class="spec-row__value">Dobbelt bærearmsoppheng foran</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Fjæringstype bak</span><strong class="spec-row__value">Multilenkeoppheng</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Interiør</h3>
+        <div class="generated-specs__group-body">
+          <p>Denne modellen er tilgjengelig med et seteoppsett med fem seter.</p>
+          <h4 class="generated-specs__subheading">Forseter</h4>
+          <div class="spec-row"><span class="spec-row__label">Setekategori</span><strong class="spec-row__value">Sjåfør- og passasjersete</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av setedybde</span><strong class="spec-row__value">Ukjent</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av setehøyde</span><strong class="spec-row__value">Ukjent</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av ryggvinkel</span><strong class="spec-row__value">Ukjent</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av sitteputevinkel</span><strong class="spec-row__value">Ukjent</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Seteminne</span><strong class="spec-row__value">Ukjent</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Høydejusterbar hodestøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Lengdejusterbar hodestøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justerbar lårstøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i rygg</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i sittepute</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Fothviler for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Beinstøtte for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Elektrisk korsryggstøtte</span><strong class="spec-row__value">Standard funksjon</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Seteventilasjon</span><strong class="spec-row__value">Standard funksjon</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Massasjefunksjon</span><strong class="spec-row__value">Standard funksjon</strong></div>
+          <h4 class="generated-specs__subheading">Seter i andre rad</h4>
+          <div class="spec-row"><span class="spec-row__label">Setekategori</span><strong class="spec-row__value">Treiseters benk</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Høydejusterbar hodestøtte</span><strong class="spec-row__value">Ukjent</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Lengdejusterbar hodestøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justerbar lårstøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i rygg</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i sittepute</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Fothviler for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Beinstøtte for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Elektrisk korsryggstøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Seteventilasjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Massasjefunksjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <h4 class="generated-specs__subheading">Senterkonsoller</h4>
+          <h4 class="text-base font-medium text-gray-900 mb-2">Senterkonsoll i første rad</h4>
+          <div class="spec-row"><span class="spec-row__label">Konsollutforming</span><strong class="spec-row__value">Todelt midtkonsoll</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Førerstøtte</h3>
+        <div class="generated-specs__group-body">
+          <div class="spec-row"><span class="spec-row__label">Filholderassistent</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Filskiftevarsling</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Trøtthetsvarsling</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ryggekamera</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">360-kamera</span><strong class="spec-row__value">Ja, valgfritt utstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Varsling for kryssende trafikk bak (RCTA)</span><strong class="spec-row__value">Ja (Cross traffic assist rear), standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Nedstigningsassistent</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Bakkestartassistent</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">ABS (blokkeringsfrie bremser)</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Automatisk nødbrems</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Antispinn</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Kollisjonsunngåelse ved venstresving</span><strong class="spec-row__value">Ja, valgfritt utstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Kollisjonsvarsling</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">ESP/ESC (elektronisk stabilitetskontroll)</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Temperaturvarsling</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Varsling for kryssende trafikk (CTA)</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Effektivitetsassistent</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Automatisk nødstyring</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Trafikkskiltgjenkjenning</span><strong class="spec-row__value">Ja, valgfritt utstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Nattkamera</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Sensorer &amp; kameraer</h3>
+        <div class="generated-specs__group-body">
+          <h4 class="generated-specs__subheading">Ultralydsensorer</h4>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfanger</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfanger</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfanger venstre hjørne</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfanger høyre hjørne</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfanger venstre side</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfanger høyre side</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfanger venstre side</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfanger høyre side</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfanger venstre hjørne</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfanger høyre hjørne</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfanger</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfanger</strong></div>
+          <h4 class="generated-specs__subheading">Kameraer</h4>
+          <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">Øverste midt på frontrute</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">Foran (Valgfritt)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">På venstre sidespeil (Valgfritt)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">På høyre sidespeil (Valgfritt)</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">Bak midt (Valgfritt)</strong></div>
+          <h4 class="generated-specs__subheading">Radarsensorer</h4>
+          <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Foran</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Venstre bakhjørne</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Høyre bakhjørne</strong></div>
+          <h4 class="generated-specs__subheading">LiDAR-sensorer</h4>
+          <div class="spec-row"><span class="spec-row__label">LiDAR-sensorer</span><strong class="spec-row__value">Midtre tak over frontrute</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>UI og kontroller</h3>
+        <div class="generated-specs__group-body">
+          <div class="spec-row"><span class="spec-row__label">Head-up display</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Stemmestyring</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Gestkontroll</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Støtte for Android Auto</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Apple CarPlay-støtte</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Innebygd navigasjon</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Tilgjengelige skjermoppsett</span><strong class="spec-row__value">1</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Digitalt førerdisplay</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for forsetepassasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for bakpassasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Eksteriør</h3>
+        <div class="generated-specs__group-body">
+          <h4 class="generated-specs__subheading">Lakksfarger</h4>
+          <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Arabica grey</span><strong class="spec-row__value">Grå</strong></div>
+          <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FFFFFF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Glacier white</span><strong class="spec-row__value">Hvit</strong></div>
+          <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mist blue</span><strong class="spec-row__value">Blå</strong></div>
+          <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Morning haze</span><strong class="spec-row__value">Syren</strong></div>
+          <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Liquid silver</span><strong class="spec-row__value">Sølv</strong></div>
+          <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Cactus green</span><strong class="spec-row__value">Grønn</strong></div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </section>
 </div>
-
-
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Rekkevidde og forbruk</h2>
-
-Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinformasjon](../rangeandconsumption/) for detaljerte eksempler på faktisk rekkevidde. Besøk vår [rekkeviddeguide](../../../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Basic trim CLTC-rekkevidde
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				773 km
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Basic trim CLTC-forbruk
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				12,3 kWh/100km
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Batteri og lading</h2>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Bruttobatterikapasitet
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				100 kWh
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Netto batterikapasitet
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				95 kWh
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Maks DC-lading
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				420 kW
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Katodematerialer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				NMC
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Ladeport</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Plassering av ladeport
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				LeftRearSide
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Dimensjoner</h2>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Lengde
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				4881 mm (192,2")
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Høyde
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				1478 mm (58,2")
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Bredde uten speil
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				1959 mm (77,1")
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Akselavstand
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				2950 mm (116,1")
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Sporvidde foran
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				1677 mm (66,0")
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Sporvidde bak
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				1672 mm (65,8")
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Luftmotstandskoeffisient
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				0,252
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Angrepsvinkel
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				14
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Utkjøringsvinkel
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				17
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Svingradius
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				10,5 meter (413,4")
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Bagasjekapasitet og tilhengerevne</h2>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Egenvekt
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				2240 kg (4938 lbs)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Tillatt totalvekt
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				2676 kg (5900 lbs)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Maks last inkludert førervekt
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				436 kg (961 lbs)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Maks taklast
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				0 kg (0 lbs)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Bagasjekapasitet
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				347 liter (12 cu-ft)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Bagasjekapasitet med alle bakseter slått ned
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				1233 liter (44 cu-ft)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Frunk-størrelse
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				30 liter (1 cu-ft)
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Hjuloppheng</h2>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Adaptivt hjuloppheng
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justerbar demping foran
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justerbar demping bak
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justerbar høyde foran
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justerbar høyde bak
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Dempertype foran
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Dempertype bak
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Fjærtype foran
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Air
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Fjærtype bak
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Air
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Fjæringstype foran
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Dobbelt bærearmsoppheng foran
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Fjæringstype bak
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Multilenkeoppheng
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Interiør</h2>
-
-Denne modellen er tilgjengelig med et seteoppsett med fem seter.
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Forseter</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Setekategori
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Sjåfør- og passasjersete
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av setedybde
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av setehøyde
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av ryggvinkel
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av sitteputevinkel
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seteminne
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Høydejusterbar hodestøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Lengdejusterbar hodestøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justerbar lårstøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av sidestøtte i rygg
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av sidestøtte i sittepute
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Fothviler for passasjer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Beinstøtte for passasjer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Elektrisk korsryggstøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Standard funksjon
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seteventilasjon
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Standard funksjon
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Massasjefunksjon
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Valgfri funksjon
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Seter i andre rad</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Setekategori
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Treiseters benk
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Høydejusterbar hodestøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Lengdejusterbar hodestøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justerbar lårstøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av sidestøtte i rygg
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av sidestøtte i sittepute
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Fothviler for passasjer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Beinstøtte for passasjer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Elektrisk korsryggstøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seteventilasjon
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Massasjefunksjon
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Senterkonsoller</h3>
-
-
-<h4 class="text-base font-medium text-gray-900 mb-2">Senterkonsoll i første rad</h4>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Konsollutforming
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Todelt midtkonsoll
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Førerstøtte</h2>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Filholderassistent
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Filskiftevarsling
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Trøtthetsvarsling
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ryggekamera
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				360-kamera
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, valgfritt utstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Varsling for kryssende trafikk bak (RCTA)
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja (Cross traffic assist rear), standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Nedstigningsassistent
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Bakkestartassistent
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				ABS (blokkeringsfrie bremser)
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Automatisk nødbrems
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Antispinn
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Kollisjonsunngåelse ved venstresving
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, valgfritt utstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Kollisjonsvarsling
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				ESP/ESC (elektronisk stabilitetskontroll)
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Temperaturvarsling
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Varsling for kryssende trafikk (CTA)
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Effektivitetsassistent
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Automatisk nødstyring
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Trafikkskiltgjenkjenning
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, valgfritt utstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Nattkamera
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Sensorer & kameraer</h2>
-
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Ultralydsensorer</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På frontfanger
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På frontfanger
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På frontfanger venstre hjørne
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På frontfanger høyre hjørne
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På frontfanger venstre side
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På frontfanger høyre side
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På bakfanger venstre side
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På bakfanger høyre side
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På bakfanger venstre hjørne
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På bakfanger høyre hjørne
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På bakfanger
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På bakfanger
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Kameraer</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Kameraer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Øverste midt på frontrute
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Kameraer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Foran (Valgfritt)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Kameraer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På venstre sidespeil (Valgfritt)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Kameraer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På høyre sidespeil (Valgfritt)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Kameraer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Bak midt (Valgfritt)
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Radarsensorer</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Radarsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Foran
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Radarsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Venstre bakhjørne
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Radarsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Høyre bakhjørne
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">LiDAR-sensorer</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				LiDAR-sensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Midtre tak over frontrute
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">UI og kontroller</h2>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Head-up display
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Stemmestyring
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Gestkontroll
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Støtte for Android Auto
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Apple CarPlay-støtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Innebygd navigasjon
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Tilgjengelige skjermoppsett
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				1
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Digitalt førerdisplay
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Infotainmentskjerm
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Infotainmentskjerm for forsetepassasjer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Infotainmentskjerm for bakpassasjer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Eksteriør</h2>
-
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Lakksfarger</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Arabica grey
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Grå
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFFFF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Glacier white
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Hvit
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mist blue
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Blå
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				<span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Morning haze
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Syren
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				<span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Liquid silver
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Sølv
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Cactus green 
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Grønn
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-</div>
-</div>
-    <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
-                onclick="toggleAccordion('accordion-2a7d7a67-8e07-4171-a8b1-8723088aed42')"
-                aria-expanded="false"
-                aria-controls="accordion-2a7d7a67-8e07-4171-a8b1-8723088aed42">
-            <div class="flex justify-between items-center">
-                <h3 class="text-lg font-semibold text-gray-900">Audi E5 Sportback Pioneer Plus</h3>
-                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
-                     id="icon-accordion-2a7d7a67-8e07-4171-a8b1-8723088aed42"
-                     fill="none"
-                     viewBox="0 0 24 24"
-                     stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
-                </svg>
-            </div>
-        </button>
-        <div id="accordion-2a7d7a67-8e07-4171-a8b1-8723088aed42"
-             class="hidden p-4"
-             aria-labelledby="button-accordion-2a7d7a67-8e07-4171-a8b1-8723088aed42">
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Ytelse</h2>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Toppeffekt
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				300 kW (408 hp / 402 bhp)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Elektrisk dreiemoment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				500 Nm (369 lb-ft)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Toppfart
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				205 km/t (127 mph)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				0–100 km/t (0–62 mph)
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				5 s
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Rekkevidde og forbruk</h2>
-
-Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinformasjon](../rangeandconsumption/) for detaljerte eksempler på faktisk rekkevidde. Besøk vår [rekkeviddeguide](../../../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Basic trim CLTC-rekkevidde
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				773 km
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Basic trim CLTC-forbruk
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				12,3 kWh/100km
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Batteri og lading</h2>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Bruttobatterikapasitet
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				100 kWh
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Netto batterikapasitet
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				95 kWh
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Maks DC-lading
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				420 kW
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Ladeport</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Plassering av ladeport
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				LeftRearSide
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Dimensjoner</h2>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Lengde
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				4881 mm (192,2")
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Høyde
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				1478 mm (58,2")
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Bredde uten speil
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				1959 mm (77,1")
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Akselavstand
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				2950 mm (116,1")
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Sporvidde foran
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				1677 mm (66,0")
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Sporvidde bak
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				1672 mm (65,8")
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Luftmotstandskoeffisient
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				0,252
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Angrepsvinkel
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				14
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Utkjøringsvinkel
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				17
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Svingradius
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				10,5 meter (413,4")
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Bagasjekapasitet og tilhengerevne</h2>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Egenvekt
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				2240 kg (4938 lbs)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Tillatt totalvekt
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				2676 kg (5900 lbs)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Maks last inkludert førervekt
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				436 kg (961 lbs)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Maks taklast
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				0 kg (0 lbs)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Bagasjekapasitet
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				347 liter (12 cu-ft)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Bagasjekapasitet med alle bakseter slått ned
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				1233 liter (44 cu-ft)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Frunk-størrelse
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				30 liter (1 cu-ft)
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Hjuloppheng</h2>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Adaptivt hjuloppheng
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justerbar demping foran
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justerbar demping bak
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justerbar høyde foran
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justerbar høyde bak
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Dempertype foran
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Dempertype bak
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Fjærtype foran
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Air
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Fjærtype bak
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Air
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Fjæringstype foran
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Dobbelt bærearmsoppheng foran
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Fjæringstype bak
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Multilenkeoppheng
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Interiør</h2>
-
-Denne modellen er tilgjengelig med et seteoppsett med fem seter.
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Forseter</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Setekategori
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Sjåfør- og passasjersete
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av setedybde
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av setehøyde
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av ryggvinkel
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av sitteputevinkel
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seteminne
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Høydejusterbar hodestøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Lengdejusterbar hodestøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justerbar lårstøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av sidestøtte i rygg
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av sidestøtte i sittepute
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Fothviler for passasjer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Beinstøtte for passasjer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Elektrisk korsryggstøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Standard funksjon
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seteventilasjon
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Standard funksjon
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Massasjefunksjon
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Valgfri funksjon
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Seter i andre rad</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Setekategori
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Treiseters benk
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Høydejusterbar hodestøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Lengdejusterbar hodestøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justerbar lårstøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av sidestøtte i rygg
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av sidestøtte i sittepute
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Fothviler for passasjer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Beinstøtte for passasjer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Elektrisk korsryggstøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seteventilasjon
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Massasjefunksjon
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Senterkonsoller</h3>
-
-
-<h4 class="text-base font-medium text-gray-900 mb-2">Senterkonsoll i første rad</h4>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Konsollutforming
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Todelt midtkonsoll
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Førerstøtte</h2>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Filholderassistent
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Filskiftevarsling
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Trøtthetsvarsling
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ryggekamera
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				360-kamera
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, valgfritt utstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Varsling for kryssende trafikk bak (RCTA)
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja (Cross traffic assist rear), standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Nedstigningsassistent
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Bakkestartassistent
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				ABS (blokkeringsfrie bremser)
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Automatisk nødbrems
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Antispinn
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Kollisjonsunngåelse ved venstresving
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, valgfritt utstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Kollisjonsvarsling
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				ESP/ESC (elektronisk stabilitetskontroll)
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Temperaturvarsling
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Varsling for kryssende trafikk (CTA)
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Effektivitetsassistent
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Automatisk nødstyring
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Trafikkskiltgjenkjenning
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, valgfritt utstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Nattkamera
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Sensorer & kameraer</h2>
-
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Ultralydsensorer</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På frontfanger
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På frontfanger
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På frontfanger venstre hjørne
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På frontfanger høyre hjørne
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På frontfanger venstre side
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På frontfanger høyre side
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På bakfanger venstre side
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På bakfanger høyre side
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På bakfanger venstre hjørne
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På bakfanger høyre hjørne
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På bakfanger
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På bakfanger
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Kameraer</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Kameraer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Øverste midt på frontrute
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Kameraer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Foran (Valgfritt)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Kameraer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På venstre sidespeil (Valgfritt)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Kameraer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På høyre sidespeil (Valgfritt)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Kameraer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Bak midt (Valgfritt)
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Radarsensorer</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Radarsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Foran
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Radarsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Venstre bakhjørne
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Radarsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Høyre bakhjørne
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">LiDAR-sensorer</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				LiDAR-sensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Midtre tak over frontrute
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">UI og kontroller</h2>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Head-up display
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Stemmestyring
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Gestkontroll
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Støtte for Android Auto
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Apple CarPlay-støtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Innebygd navigasjon
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Tilgjengelige skjermoppsett
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				1
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Digitalt førerdisplay
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Infotainmentskjerm
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Infotainmentskjerm for forsetepassasjer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Infotainmentskjerm for bakpassasjer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Eksteriør</h2>
-
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Lakksfarger</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Arabica grey
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Grå
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFFFF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Glacier white
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Hvit
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mist blue
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Blå
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				<span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Morning haze
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Syren
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				<span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Liquid silver
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Sølv
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Cactus green 
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Grønn
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-</div>
-</div>
-    <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
-                onclick="toggleAccordion('accordion-6c208ad4-5f50-4f6d-9df1-f5d64b7a1a4f')"
-                aria-expanded="false"
-                aria-controls="accordion-6c208ad4-5f50-4f6d-9df1-f5d64b7a1a4f">
-            <div class="flex justify-between items-center">
-                <h3 class="text-lg font-semibold text-gray-900">Audi E5 Sportback Pioneer quattro</h3>
-                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
-                     id="icon-accordion-6c208ad4-5f50-4f6d-9df1-f5d64b7a1a4f"
-                     fill="none"
-                     viewBox="0 0 24 24"
-                     stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
-                </svg>
-            </div>
-        </button>
-        <div id="accordion-6c208ad4-5f50-4f6d-9df1-f5d64b7a1a4f"
-             class="hidden p-4"
-             aria-labelledby="button-accordion-6c208ad4-5f50-4f6d-9df1-f5d64b7a1a4f">
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Ytelse</h2>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Toppeffekt
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				386 kW (525 hp / 518 bhp)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Elektrisk dreiemoment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				725 Nm (535 lb-ft)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Toppfart
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				205 km/t (127 mph)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				0–100 km/t (0–62 mph)
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				3,9 s
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Rekkevidde og forbruk</h2>
-
-Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinformasjon](../rangeandconsumption/) for detaljerte eksempler på faktisk rekkevidde. Besøk vår [rekkeviddeguide](../../../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Basic trim CLTC-rekkevidde
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				623 km
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Basic trim CLTC-forbruk
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				12,7 kWh/100km
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Batteri og lading</h2>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Bruttobatterikapasitet
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				83 kWh
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Netto batterikapasitet
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				79 kWh
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Maks DC-lading
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				420 kW
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Ladeport</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Plassering av ladeport
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				LeftRearSide
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Dimensjoner</h2>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Lengde
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				4881 mm (192,2")
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Høyde
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				1478 mm (58,2")
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Bredde uten speil
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				1959 mm (77,1")
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Akselavstand
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				2950 mm (116,1")
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Sporvidde foran
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				1677 mm (66,0")
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Sporvidde bak
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				1672 mm (65,8")
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Luftmotstandskoeffisient
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				0,252
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Angrepsvinkel
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				14
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Utkjøringsvinkel
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				17
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Svingradius
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				10,5 meter (413,4")
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Bagasjekapasitet og tilhengerevne</h2>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Egenvekt
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				2343 kg (5165 lbs)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Tillatt totalvekt
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				2779 kg (6127 lbs)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Maks last inkludert førervekt
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				436 kg (961 lbs)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Maks taklast
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				0 kg (0 lbs)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Bagasjekapasitet
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				347 liter (12 cu-ft)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Bagasjekapasitet med alle bakseter slått ned
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				1233 liter (44 cu-ft)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Frunk-størrelse
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				30 liter (1 cu-ft)
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Hjuloppheng</h2>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Adaptivt hjuloppheng
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justerbar demping foran
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justerbar demping bak
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justerbar høyde foran
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justerbar høyde bak
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Dempertype foran
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Dempertype bak
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Fjærtype foran
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Air
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Fjærtype bak
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Air
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Fjæringstype foran
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Dobbelt bærearmsoppheng foran
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Fjæringstype bak
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Multilenkeoppheng
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Interiør</h2>
-
-Denne modellen er tilgjengelig med et seteoppsett med fem seter.
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Forseter</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Setekategori
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Sjåfør- og passasjersete
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av setedybde
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av setehøyde
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av ryggvinkel
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av sitteputevinkel
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seteminne
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Høydejusterbar hodestøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Lengdejusterbar hodestøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justerbar lårstøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av sidestøtte i rygg
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av sidestøtte i sittepute
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Fothviler for passasjer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Beinstøtte for passasjer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Elektrisk korsryggstøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Standard funksjon
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seteventilasjon
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Standard funksjon
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Massasjefunksjon
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Standard funksjon
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Seter i andre rad</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Setekategori
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Treiseters benk
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Høydejusterbar hodestøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Lengdejusterbar hodestøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justerbar lårstøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av sidestøtte i rygg
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av sidestøtte i sittepute
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Fothviler for passasjer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Beinstøtte for passasjer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Elektrisk korsryggstøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seteventilasjon
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Massasjefunksjon
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Senterkonsoller</h3>
-
-
-<h4 class="text-base font-medium text-gray-900 mb-2">Senterkonsoll i første rad</h4>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Konsollutforming
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Todelt midtkonsoll
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Førerstøtte</h2>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Filholderassistent
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Filskiftevarsling
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Trøtthetsvarsling
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ryggekamera
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				360-kamera
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, valgfritt utstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Varsling for kryssende trafikk bak (RCTA)
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja (Cross traffic assist rear), standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Nedstigningsassistent
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Bakkestartassistent
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				ABS (blokkeringsfrie bremser)
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Automatisk nødbrems
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Antispinn
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Kollisjonsunngåelse ved venstresving
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, valgfritt utstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Kollisjonsvarsling
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				ESP/ESC (elektronisk stabilitetskontroll)
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Temperaturvarsling
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Varsling for kryssende trafikk (CTA)
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Effektivitetsassistent
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Automatisk nødstyring
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Trafikkskiltgjenkjenning
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, valgfritt utstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Nattkamera
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Sensorer & kameraer</h2>
-
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Ultralydsensorer</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På frontfanger
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På frontfanger
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På frontfanger venstre hjørne
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På frontfanger høyre hjørne
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På frontfanger venstre side
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På frontfanger høyre side
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På bakfanger venstre side
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På bakfanger høyre side
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På bakfanger venstre hjørne
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På bakfanger høyre hjørne
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På bakfanger
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På bakfanger
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Kameraer</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Kameraer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Øverste midt på frontrute
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Kameraer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Foran (Valgfritt)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Kameraer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På venstre sidespeil (Valgfritt)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Kameraer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På høyre sidespeil (Valgfritt)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Kameraer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Bak midt (Valgfritt)
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Radarsensorer</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Radarsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Foran
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Radarsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Venstre bakhjørne
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Radarsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Høyre bakhjørne
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">LiDAR-sensorer</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				LiDAR-sensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Midtre tak over frontrute
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">UI og kontroller</h2>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Head-up display
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Stemmestyring
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Gestkontroll
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Støtte for Android Auto
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Apple CarPlay-støtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Innebygd navigasjon
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Tilgjengelige skjermoppsett
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				1
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Digitalt førerdisplay
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Infotainmentskjerm
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Infotainmentskjerm for forsetepassasjer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Infotainmentskjerm for bakpassasjer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Eksteriør</h2>
-
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Lakksfarger</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Arabica grey
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Grå
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFFFF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Glacier white
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Hvit
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mist blue
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Blå
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				<span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Morning haze
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Syren
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				<span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Liquid silver
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Sølv
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Cactus green 
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Grønn
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-</div>
-</div>
-    <div class="border border-gray-200 rounded-lg overflow-hidden">
-        <button class="w-full bg-gray-50 hover:bg-gray-100 px-4 py-3 border-b border-gray-200 text-left focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-inset transition-colors duration-200"
-                onclick="toggleAccordion('accordion-908cbe04-418b-42ca-b772-3f9bc6b8a902')"
-                aria-expanded="false"
-                aria-controls="accordion-908cbe04-418b-42ca-b772-3f9bc6b8a902">
-            <div class="flex justify-between items-center">
-                <h3 class="text-lg font-semibold text-gray-900">Audi E5 Sportback quattro</h3>
-                <svg class="w-5 h-5 text-gray-500 transform transition-transform duration-200"
-                     id="icon-accordion-908cbe04-418b-42ca-b772-3f9bc6b8a902"
-                     fill="none"
-                     viewBox="0 0 24 24"
-                     stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
-                </svg>
-            </div>
-        </button>
-        <div id="accordion-908cbe04-418b-42ca-b772-3f9bc6b8a902"
-             class="hidden p-4"
-             aria-labelledby="button-accordion-908cbe04-418b-42ca-b772-3f9bc6b8a902">
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Ytelse</h2>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Toppeffekt
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				579 kW (787 hp / 776 bhp)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Elektrisk dreiemoment
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				800 Nm (590 lb-ft)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Toppfart
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				230 km/t (143 mph)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				0–100 km/t (0–62 mph)
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				3,4 s
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Rekkevidde og forbruk</h2>
-
-Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rekkeviddeinformasjon](../rangeandconsumption/) for detaljerte eksempler på faktisk rekkevidde. Besøk vår [rekkeviddeguide](../../../../../guides/understandingrange/) for å se hva som påvirker rekkevidden og hvordan de offisielle rekkeviddeverdiene måles.
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Basic trim CLTC-rekkevidde
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				647 km
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Basic trim CLTC-forbruk
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				14,7 kWh/100km
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Batteri og lading</h2>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Bruttobatterikapasitet
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				100 kWh
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Netto batterikapasitet
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				95 kWh
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Maks DC-lading
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				420 kW
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Ladeport</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Plassering av ladeport
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				LeftRearSide
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Dimensjoner</h2>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Lengde
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				4881 mm (192,2")
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Høyde
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				1478 mm (58,2")
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Bredde uten speil
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				1959 mm (77,1")
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Akselavstand
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				2950 mm (116,1")
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Sporvidde foran
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				1677 mm (66,0")
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Sporvidde bak
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				1672 mm (65,8")
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Luftmotstandskoeffisient
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				0,252
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Angrepsvinkel
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				14
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Utkjøringsvinkel
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				17
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Svingradius
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				10,5 meter (413,4")
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Bagasjekapasitet og tilhengerevne</h2>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Egenvekt
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				2343 kg (5165 lbs)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Tillatt totalvekt
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				2779 kg (6127 lbs)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Maks last inkludert førervekt
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				436 kg (961 lbs)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Maks taklast
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				0 kg (0 lbs)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Bagasjekapasitet
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				347 liter (12 cu-ft)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Bagasjekapasitet med alle bakseter slått ned
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				1233 liter (44 cu-ft)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Frunk-størrelse
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				30 liter (1 cu-ft)
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Hjuloppheng</h2>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Adaptivt hjuloppheng
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justerbar demping foran
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justerbar demping bak
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justerbar høyde foran
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justerbar høyde bak
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Dempertype foran
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Dempertype bak
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Fjærtype foran
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Air
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Fjærtype bak
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Air
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Fjæringstype foran
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Dobbelt bærearmsoppheng foran
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Fjæringstype bak
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Multilenkeoppheng
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Interiør</h2>
-
-Denne modellen er tilgjengelig med et seteoppsett med fem seter.
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Forseter</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Setekategori
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Sjåfør- og passasjersete
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av setedybde
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av setehøyde
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av ryggvinkel
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av sitteputevinkel
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seteminne
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Høydejusterbar hodestøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Lengdejusterbar hodestøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justerbar lårstøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av sidestøtte i rygg
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av sidestøtte i sittepute
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Fothviler for passasjer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Beinstøtte for passasjer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Elektrisk korsryggstøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Standard funksjon
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seteventilasjon
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Standard funksjon
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Massasjefunksjon
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Standard funksjon
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Seter i andre rad</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Setekategori
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Treiseters benk
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Høydejusterbar hodestøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ukjent
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Lengdejusterbar hodestøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justerbar lårstøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av sidestøtte i rygg
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Justering av sidestøtte i sittepute
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Fothviler for passasjer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Beinstøtte for passasjer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Elektrisk korsryggstøtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Seteventilasjon
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Massasjefunksjon
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Senterkonsoller</h3>
-
-
-<h4 class="text-base font-medium text-gray-900 mb-2">Senterkonsoll i første rad</h4>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Konsollutforming
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Todelt midtkonsoll
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Førerstøtte</h2>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Filholderassistent
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Filskiftevarsling
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Trøtthetsvarsling
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ryggekamera
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				360-kamera
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, valgfritt utstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Varsling for kryssende trafikk bak (RCTA)
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja (Cross traffic assist rear), standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Nedstigningsassistent
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Bakkestartassistent
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				ABS (blokkeringsfrie bremser)
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Automatisk nødbrems
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Antispinn
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Kollisjonsunngåelse ved venstresving
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, valgfritt utstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Kollisjonsvarsling
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				ESP/ESC (elektronisk stabilitetskontroll)
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Temperaturvarsling
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Varsling for kryssende trafikk (CTA)
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Effektivitetsassistent
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Automatisk nødstyring
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Trafikkskiltgjenkjenning
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, valgfritt utstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Nattkamera
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Sensorer & kameraer</h2>
-
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Ultralydsensorer</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På frontfanger
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På frontfanger
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På frontfanger venstre hjørne
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På frontfanger høyre hjørne
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På frontfanger venstre side
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På frontfanger høyre side
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På bakfanger venstre side
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På bakfanger høyre side
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På bakfanger venstre hjørne
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På bakfanger høyre hjørne
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På bakfanger
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Ultralydsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På bakfanger
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Kameraer</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Kameraer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Øverste midt på frontrute
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Kameraer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Foran (Valgfritt)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Kameraer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På venstre sidespeil (Valgfritt)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Kameraer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				På høyre sidespeil (Valgfritt)
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Kameraer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Bak midt (Valgfritt)
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Radarsensorer</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Radarsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Foran
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Radarsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Venstre bakhjørne
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Radarsensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Høyre bakhjørne
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">LiDAR-sensorer</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				LiDAR-sensorer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Midtre tak over frontrute
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">UI og kontroller</h2>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Head-up display
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Stemmestyring
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Gestkontroll
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Støtte for Android Auto
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Apple CarPlay-støtte
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Innebygd navigasjon
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ja, standardutstyr
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Tilgjengelige skjermoppsett
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				1
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Digitalt førerdisplay
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Infotainmentskjerm
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Infotainmentskjerm for forsetepassasjer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				Infotainmentskjerm for bakpassasjer
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Ikke tilgjengelig
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-
-<h2 class="text-xl font-bold text-gray-900 mb-4">Eksteriør</h2>
-
-
-<h3 class="text-lg font-semibold text-gray-900 mb-3">Lakksfarger</h3>
-
-<div class="overflow-x-auto">
-<table class="min-w-full divide-y divide-gray-200">
-	<thead class="bg-gray-50">
-		<tr>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Spesifikasjon
-			</th>
-			<th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-				Verdi
-			</th>
-		</tr>
-	</thead>
-	<tbody class="bg-white divide-y divide-gray-200">
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				<span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Arabica grey
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Grå
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				<span style="display:inline-block;width:12px;height:12px;background-color:#FFFFFF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Glacier white
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Hvit
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				<span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mist blue
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Blå
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				<span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Morning haze
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Syren
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				<span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Liquid silver
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Sølv
-			</td>
-		</tr>
-		<tr>
-			<td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-gray-900">
-				<span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Cactus green 
-			</td>
-			<td class="px-4 py-3 whitespace-nowrap text-sm text-gray-500">
-				Grønn
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-</div>
-</div>
-</div>
-
-<script>
-function toggleAccordion(targetId) {
-    const content = document.getElementById(targetId);
-    const icon = document.getElementById('icon-' + targetId);
-    const button = content.previousElementSibling;
-
-    if (content.classList.contains('hidden')) {
-        // Open
-        content.classList.remove('hidden');
-        icon.style.transform = 'rotate(180deg)';
-        button.setAttribute('aria-expanded', 'true');
-    } else {
-        // Close
-        content.classList.add('hidden');
-        icon.style.transform = 'rotate(0deg)';
-        button.setAttribute('aria-expanded', 'false');
-    }
-}
-
-// Optional: Close all accordions when page loads
-document.addEventListener('DOMContentLoaded', function() {
-    // All accordions start closed by default
-});
-</script>
