@@ -182,14 +182,14 @@ View Legacy Details
 <div class="p-6 h-full flex flex-col justify-center">
 <h3 class="text-xl font-bold text-gray-900 mb-3">Audi A4 e-tron</h3>
 <p class="text-gray-600 text-sm mb-4 leading-relaxed">
-Compact executive electric sedan expected to launch in 2028. Details still unconfirmed.
+Electric compact executive model confirmed for the SSP platform and expected to launch in 2028.
 </p>
 <div class="flex flex-wrap gap-2 mb-4">
-<span class="bg-orange-100 text-orange-800 text-xs font-semibold px-3 py-1 rounded-full">Unconfirmed</span>
+<span class="bg-teal-100 text-teal-800 text-xs font-semibold px-3 py-1 rounded-full">In development</span>
 <span class="bg-gray-100 text-gray-700 text-xs font-semibold px-3 py-1 rounded-full">2028 Expected</span>
 </div>
 <a href="a4-e-tron/" class="block w-full bg-orange-500 hover:bg-orange-600 text-white font-medium py-3 px-4 rounded-lg text-center transition-colors duration-200" style="color: white !important;">
-View Rumors
+Explore Details
 </a>
 </div>
 </div>
