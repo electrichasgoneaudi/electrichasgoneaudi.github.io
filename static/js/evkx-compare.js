@@ -2,7 +2,7 @@ const tool = document.querySelector('[data-compare-tool]');
 
 if (tool) {
   const apiBase = tool.dataset.apiBase || 'https://evkx.net/api/';
-  const language = tool.dataset.language === 'nb' ? 'nb' : 'en';
+  const language = ['en', 'nb', 'de'].includes(tool.dataset.language) ? tool.dataset.language : 'en';
   const slots = Array.from(tool.querySelectorAll('[data-compare-slot]'));
   const openButton = tool.querySelector('[data-open-comparison]');
   const selected = new Map();
@@ -11,8 +11,8 @@ if (tool) {
     searching: tool.dataset.searchingLabel || 'Searching…',
     empty: tool.dataset.emptyLabel || 'No Audi variants found',
     error: tool.dataset.errorLabel || 'Search could not be loaded',
-    ready: language === 'nb' ? 'Åpne sammenligning' : 'Open comparison',
-    incomplete: language === 'nb' ? 'Velg minst to biler' : 'Select at least two vehicles',
+    ready: tool.dataset.readyLabel || 'Open comparison',
+    incomplete: tool.dataset.incompleteLabel || 'Select at least two vehicles',
   };
 
   const renderMessage = (results, message) => {
@@ -109,7 +109,7 @@ if (tool) {
 
   openButton.addEventListener('click', () => {
     if (openButton.disabled || !openButton.dataset.ids) return;
-    const prefix = language === 'nb' ? '/nb' : '';
+    const prefix = language === 'en' ? '' : `/${language}`;
     window.location.href = `https://evkx.net${prefix}/evcompare/?evs=${encodeURIComponent(openButton.dataset.ids)}`;
   });
 }

@@ -1,5 +1,7 @@
 hugo.exe
 node_modules
+.tools/
+tools/__pycache__/
 public/
 .DS_Store
 Thumbs.db

@@ -2,12 +2,12 @@
   <header class="content-page__header">
     <div class="container">
       {{ partial "breadcrumb.html" . }}
-      <div class="microlabel">{{ if eq .Section "articles" }}{{ if eq .Language.Lang "nb" }}Artikkel{{ else }}Article{{ end }}{{ else }}{{ .Parent.LinkTitle }}{{ end }}</div>
+      <div class="microlabel">{{ if eq .Section "articles" }}{{ T "ui-article" }}{{ else }}{{ .Parent.LinkTitle }}{{ end }}</div>
       <h1 class="content-page__title">{{ .Title }}</h1>
       {{ with .Description }}<p class="content-page__description">{{ . }}</p>{{ end }}
-      <div class="page-meta">{{ if gt .Lastmod.Year 1 }}<span>{{ if eq .Language.Lang "nb" }}Sist oppdatert{{ else }}Last updated{{ end }} {{ .Lastmod | time.Format ":date_medium" }}</span>{{ end }}{{ if eq .Section "articles" }}<span>{{ .ReadingTime }} min read</span>{{ end }}</div>
+      <div class="page-meta">{{ if gt .Lastmod.Year 1 }}<span>{{ T "ui-last-updated" }} {{ .Lastmod | time.Format ":date_medium" }}</span>{{ end }}{{ if eq .Section "articles" }}<span>{{ .ReadingTime }} {{ T "ui-min-read" }}</span>{{ end }}</div>
     </div>
   </header>
   {{ partial "sectiontabs.html" . }}
-  <div class="content-page__body"><div class="container">{{ if strings.Contains .RelPermalink "/specifications/" }}<p class="spec-source-note">{{ if eq .Language.Lang "nb" }}Spesifikasjonene genereres fra EVKX-modellens JSON-data.{{ else }}Specifications are generated from the EVKX model JSON data.{{ end }}</p>{{ end }}<div class="content-prose prose {{ if strings.Contains .RelPermalink "/specifications/" }}specifications-content{{ end }}">{{ .Content }}</div></div></div>
+  <div class="content-page__body"><div class="container">{{ if strings.Contains .RelPermalink "/specifications/" }}<p class="spec-source-note">{{ T "ui-spec-source-note" }}</p>{{ end }}<div class="content-prose prose {{ if strings.Contains .RelPermalink "/specifications/" }}specifications-content{{ end }}">{{ .Content }}</div></div></div>
 </article>

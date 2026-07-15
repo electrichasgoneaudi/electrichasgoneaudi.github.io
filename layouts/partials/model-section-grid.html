@@ -6,9 +6,9 @@
   <div class="container">
     <div class="section-heading">
       <div>
-        <div class="microlabel">{{ if eq $page.Language.Lang "nb" }}Modellguide{{ else }}Model guide{{ end }}</div>
-        <h2 class="h-section">{{ if eq $page.Language.Lang "nb" }}Utforsk modellen i detalj{{ else }}Explore the model in detail{{ end }}</h2>
-        <p class="section-heading__copy">{{ if eq $page.Language.Lang "nb" }}Gå videre til komplette guider for design, kupé, drivlinje, teknologi og utstyr.{{ else }}Continue to the complete guides for design, cabin, drivetrain, technology and equipment.{{ end }}</p>
+        <div class="microlabel">{{ T "ui-model-guide" }}</div>
+        <h2 class="h-section">{{ T "ui-explore-model-heading" }}</h2>
+        <p class="section-heading__copy">{{ T "ui-explore-model-text" }}</p>
       </div>
     </div>
     <div class="editorial-grid">
@@ -22,7 +22,7 @@
             <div class="microlabel">{{ $page.LinkTitle }}</div>
             <h3 class="card__title" style="margin-top:10px"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
             {{ with .Description }}<p class="editorial-card__description">{{ . }}</p>{{ end }}
-            <a class="link-accent" href="{{ .RelPermalink }}">{{ if eq $page.Language.Lang "nb" }}Åpne guiden →{{ else }}Open guide →{{ end }}</a>
+            <a class="link-accent" href="{{ .RelPermalink }}">{{ T "ui-open-guide" }}</a>
           </div>
         </article>
       {{ end }}

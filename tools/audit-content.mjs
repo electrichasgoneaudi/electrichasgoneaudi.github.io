@@ -38,11 +38,24 @@ function languageScore(markdown) {
   const words = proseOf(markdown).toLocaleLowerCase().match(/[a-z\u00e6\u00f8\u00e5]+/g) || [];
   const english = new Set(['the', 'and', 'with', 'from', 'this', 'that', 'for', 'are', 'is', 'you', 'your', 'can', 'will', 'has', 'have', 'not', 'but', 'into', 'when', 'which', 'also']);
   const norwegian = new Set(['og', 'med', 'fra', 'dette', 'denne', 'det', 'for', 'er', 'du', 'din', 'kan', 'vil', 'har', 'ikke', 'men', 'som', 'også', 'når', 'eller', 'til']);
+  const german = new Set(['und', 'mit', 'von', 'aus', 'dies', 'diese', 'der', 'die', 'das', 'für', 'ist', 'sind', 'sie', 'kann', 'wird', 'hat', 'haben', 'nicht', 'aber', 'auch', 'wenn', 'oder', 'zum']);
   return words.reduce((score, word) => ({
     english: score.english + Number(english.has(word)),
     norwegian: score.norwegian + Number(norwegian.has(word)),
+    german: score.german + Number(german.has(word)),
     words: score.words + 1,
-  }), { english: 0, norwegian: 0, words: 0 });
+  }), { english: 0, norwegian: 0, german: 0, words: 0 });
+}
+
+function contentLanguage(file) {
+  if (file.endsWith('.nb.md')) return 'nb';
+  if (file.endsWith('.de.md')) return 'de';
+  return 'en';
+}
+
+function translationFile(file, language) {
+  const english = file.replace(/\.(?:nb|de)\.md$/, '.md');
+  return language === 'en' ? english : english.replace(/\.md$/, `.${language}.md`);
 }
 
 function pageUrlForHtml(file) {
@@ -68,11 +81,13 @@ function targetFileForPath(pathname) {
 }
 
 const markdownFiles = walk(contentRoot, (file) => file.endsWith('.md') && !relative(file).split('/').includes('specifications'));
-const englishFiles = markdownFiles.filter((file) => !file.endsWith('.nb.md'));
-const norwegianFiles = markdownFiles.filter((file) => file.endsWith('.nb.md'));
+const englishFiles = markdownFiles.filter((file) => contentLanguage(file) === 'en');
+const norwegianFiles = markdownFiles.filter((file) => contentLanguage(file) === 'nb');
+const germanFiles = markdownFiles.filter((file) => contentLanguage(file) === 'de');
 
 const findings = {
   missingNorwegian: [],
+  missingGerman: [],
   missingEnglish: [],
   emptyBodies: [],
   identicalTranslations: [],
@@ -82,16 +97,19 @@ const findings = {
   languageMismatch: [],
   brokenInternalLinks: [],
   brokenAnchors: [],
+  translationStructureMismatch: [],
 };
 
 for (const file of englishFiles) {
   if (relative(file) === 'content/_header.md') continue;
   const counterpart = file.replace(/\.md$/, '.nb.md');
   if (!fs.existsSync(counterpart)) findings.missingNorwegian.push(relative(file));
+  const germanCounterpart = file.replace(/\.md$/, '.de.md');
+  if (!fs.existsSync(germanCounterpart)) findings.missingGerman.push(relative(file));
 }
 
-for (const file of norwegianFiles) {
-  const counterpart = file.replace(/\.nb\.md$/, '.md');
+for (const file of [...norwegianFiles, ...germanFiles]) {
+  const counterpart = translationFile(file, 'en');
   if (!fs.existsSync(counterpart)) findings.missingEnglish.push(relative(file));
 }
 
@@ -141,8 +159,9 @@ for (const file of markdownFiles) {
   const text = fs.readFileSync(file, 'utf8');
   const body = bodyOf(text);
   const prose = proseOf(text);
-  const intentionalShell = ['content/compare/_index.md', 'content/compare/_index.nb.md'].includes(relative(file));
-  if (!body && !intentionalShell) findings.emptyBodies.push(relative(file));
+  const intentionalShell = ['content/compare/_index.md', 'content/compare/_index.nb.md', 'content/compare/_index.de.md'].includes(relative(file));
+  const manuallyCurated = /^translation_status:\s*manual\s*$/mi.test(text);
+  if (!body && !intentionalShell && !manuallyCurated) findings.emptyBodies.push(relative(file));
 
   for (const match of text.matchAll(/https?:\/\/(?:localhost|127\.0\.0\.1)(?::\d+)?[^\s"')>]*/gi)) {
     findings.localDevelopmentUrls.push(`${relative(file)}:${text.slice(0, match.index).split('\n').length}: ${match[0]}`);
@@ -152,6 +171,7 @@ for (const file of markdownFiles) {
     if (line.includes('|')) continue;
     const lineProse = proseOf(line);
     for (const match of lineProse.matchAll(/(?<!-)\b([A-Za-z\u00c0-\u024f]{2,})[ \t]+\1\b/gi)) {
+      if (contentLanguage(file) === 'de' && /^(?:der|die|das|sie)$/i.test(match[1])) continue;
       findings.duplicateWords.push(`${relative(file)}: ${match[0]}`);
     }
   }
@@ -163,32 +183,39 @@ for (const file of markdownFiles) {
   }
 
   const language = languageScore(text);
+  const fileLanguage = contentLanguage(file);
   const sourceTitlePage = /\/(?:reviews|multimedia)\//.test(relative(file));
   const description = text.match(/^description:\s*(.+)$/m)?.[1] || '';
   const descriptionLanguage = languageScore(description);
-  if (!sourceTitlePage && descriptionLanguage.words >= 8 && file.endsWith('.nb.md') && descriptionLanguage.english >= 3 && descriptionLanguage.english > descriptionLanguage.norwegian * 2.5) {
+  if (!sourceTitlePage && descriptionLanguage.words >= 8 && fileLanguage === 'nb' && descriptionLanguage.english >= 3 && descriptionLanguage.english > descriptionLanguage.norwegian * 2.5) {
     findings.languageMismatch.push(`${relative(file)}: description appears English (${descriptionLanguage.english} EN / ${descriptionLanguage.norwegian} NB markers)`);
   }
-  if (!sourceTitlePage && descriptionLanguage.words >= 8 && !file.endsWith('.nb.md') && descriptionLanguage.norwegian >= 3 && descriptionLanguage.norwegian > descriptionLanguage.english * 2.5) {
+  if (!sourceTitlePage && descriptionLanguage.words >= 8 && fileLanguage === 'en' && descriptionLanguage.norwegian >= 3 && descriptionLanguage.norwegian > descriptionLanguage.english * 2.5) {
     findings.languageMismatch.push(`${relative(file)}: description appears Norwegian (${descriptionLanguage.english} EN / ${descriptionLanguage.norwegian} NB markers)`);
   }
   if (!sourceTitlePage) {
     for (const paragraph of body.split(/(?:\r?\n){2,}/)) {
       const paragraphLanguage = languageScore(paragraph);
       if (paragraphLanguage.words < 12) continue;
-      if (file.endsWith('.nb.md') && paragraphLanguage.english >= 4 && paragraphLanguage.english > paragraphLanguage.norwegian * 3) {
+      if (fileLanguage === 'nb' && paragraphLanguage.english >= 4 && paragraphLanguage.english > paragraphLanguage.norwegian * 3) {
         findings.languageMismatch.push(`${relative(file)}: paragraph appears English (${paragraphLanguage.english} EN / ${paragraphLanguage.norwegian} NB markers)`);
       }
-      if (!file.endsWith('.nb.md') && paragraphLanguage.norwegian >= 4 && paragraphLanguage.norwegian > paragraphLanguage.english * 3) {
+      if (fileLanguage === 'en' && paragraphLanguage.norwegian >= 4 && paragraphLanguage.norwegian > paragraphLanguage.english * 3) {
         findings.languageMismatch.push(`${relative(file)}: paragraph appears Norwegian (${paragraphLanguage.english} EN / ${paragraphLanguage.norwegian} NB markers)`);
+      }
+      if (fileLanguage === 'de' && paragraphLanguage.english >= 5 && paragraphLanguage.english > paragraphLanguage.german * 3) {
+        findings.languageMismatch.push(`${relative(file)}: paragraph appears English (${paragraphLanguage.english} EN / ${paragraphLanguage.german} DE markers)`);
       }
     }
   }
-  if (!sourceTitlePage && language.words >= 80 && file.endsWith('.nb.md') && language.english >= 12 && language.english > language.norwegian * 1.8) {
+  if (!sourceTitlePage && language.words >= 80 && fileLanguage === 'nb' && language.english >= 12 && language.english > language.norwegian * 1.8) {
     findings.languageMismatch.push(`${relative(file)}: appears English (${language.english} EN / ${language.norwegian} NB markers)`);
   }
-  if (!sourceTitlePage && language.words >= 80 && !file.endsWith('.nb.md') && language.norwegian >= 12 && language.norwegian > language.english * 1.8) {
+  if (!sourceTitlePage && language.words >= 80 && fileLanguage === 'en' && language.norwegian >= 12 && language.norwegian > language.english * 1.8) {
     findings.languageMismatch.push(`${relative(file)}: appears Norwegian (${language.english} EN / ${language.norwegian} NB markers)`);
+  }
+  if (!sourceTitlePage && language.words >= 80 && fileLanguage === 'de' && language.english >= 12 && language.english > language.german * 2) {
+    findings.languageMismatch.push(`${relative(file)}: appears English (${language.english} EN / ${language.german} DE markers)`);
   }
 }
 
@@ -200,6 +227,27 @@ for (const file of englishFiles) {
   const sourceTitlePage = /\/(?:reviews|multimedia)\//.test(relative(file));
   if (!sourceTitlePage && englishBody.length >= 200 && englishBody === norwegianBody) {
     findings.identicalTranslations.push(`${relative(file)} (${englishBody.length} characters)`);
+  }
+  const germanCounterpart = file.replace(/\.md$/, '.de.md');
+  if (fs.existsSync(germanCounterpart)) {
+    const germanSource = fs.readFileSync(germanCounterpart, 'utf8');
+    const germanBody = bodyOf(germanSource);
+    const manuallyCurated = /^translation_status:\s*manual\s*$/mi.test(germanSource);
+    if (!sourceTitlePage && englishBody.length >= 200 && englishBody === germanBody) {
+      findings.identicalTranslations.push(`${relative(file)}: German body is identical (${englishBody.length} characters)`);
+    }
+    const structuralPatterns = manuallyCurated ? [] : [
+      /{{[<%][\s\S]*?[>%]}}/g,
+      /!\[[^\]]*]\([^)]*\)/g,
+      /<img\b[^>]*>/gi,
+    ];
+    for (const pattern of structuralPatterns) {
+      const englishCount = (englishBody.match(pattern) || []).length;
+      const germanCount = (germanBody.match(pattern) || []).length;
+      if (englishCount !== germanCount) {
+        findings.translationStructureMismatch.push(`${relative(file)}: ${pattern} count EN ${englishCount} / DE ${germanCount}`);
+      }
+    }
   }
 }
 
@@ -241,7 +289,7 @@ for (const file of htmlFiles) {
   }
 }
 
-console.log(`Authored Markdown: ${markdownFiles.length} (${englishFiles.length} English, ${norwegianFiles.length} Norwegian)`);
+console.log(`Authored Markdown: ${markdownFiles.length} (${englishFiles.length} English, ${norwegianFiles.length} Norwegian, ${germanFiles.length} German)`);
 console.log(`Rendered HTML: ${htmlFiles.length}`);
 
 let issueCount = 0;

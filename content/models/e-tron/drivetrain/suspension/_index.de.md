@@ -1,0 +1,93 @@
+---
+title: "Audi e-tron Suspension"
+linktitle: "Suspension"
+description: "Audi e-tron verfügt über eine adaptive Luftfederung."
+weight: 7
+---
+<!-- markdownlint-disable MD033 -->
+
+Die adaptive Luftfederung mit elektronischer Dämpfungsregelung ist beim Audi e-tron Standardausstattung. Die Art der Dämpfungsregelung variiert zwischen den beiden Fahrwerksvarianten. **Adaptive Luftfederung** und **Adaptiver Luftfederungssport** Das ist Standard für e-tron S und S-Line e-tron.
+
+Die adaptive Luftfederung – ein Luftfederungssystem mit kontrollierter Dämpfung – bietet einen breiten Bereich zwischen glattem Reiseflug und sportlichem Fahrverhalten. Je nach Geschwindigkeit und Vorlieben des Fahrers passt sie die Fahrhöhe individuell an die Straßenverhältnisse an. Die Luftfederung bietet auch eine Niveauregelung in Abhängigkeit von der Belastung.
+
+<figure>
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/adaptaiveairsuspensionsport.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/adaptaiveairsuspensionsports.webp" class="img-fluid" alt="Audi e-tron S with adaptive air suspension sport" title="Audi e-tron S with adaptive air suspension sport">
+    </a>
+    <figcaption><h4>Audi e-tron S mit adaptiver Luftfederung</h4></figcaption>
+</figure>
+
+Die zentrale Fahrwerkssteuereinheit, die Electronic Chassis Platform (ECP), steuert die Funktion der Stoßdämpfer an jedem Rad individuell in Millisekunden-Rangenordnung – je nach Straßenbeschaffenheit, Fahrstil und Modus, den der Fahrer im dynamischen Fahrsystem Audi drive select einstellt. Solenoid-Dämpferventile variieren den Volumenstrom der Hydraulikflüssigkeit.
+
+Adaptive Luftfederung hat OptionId **1BK** und adaptive Luftfederung Sport hat Option ID **2 MB**
+
+## Regulierende Merkmale
+
+<figure>
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/audidriveselect.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/audidriveselects.webp" class="img-fluid" alt="Audi Drive Select options adjust ride heights" title="Audi Drive Select options adjust ride heights">
+    </a>
+    <figcaption><h4>Audi Drive Select Optionen passen Fahrhöhen an</h4></figcaption>
+</figure>
+
+Die Regeleigenschaften (Höhenregelung je nach Fahrzeuggeschwindigkeit und -modus) sind bei beiden Versionen identisch. Bei anderen Audis wie Q7 und Q8 ist das Adaptive Sport Suspension 1 cm niedriger.
+
+Das folgende Diagramm zeigt, wie dies in Abhängigkeit von der Geschwindigkeit angepasst wird.
+
+<figure>
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/suspensionmode.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/suspensionmode.webp" class="img-fluid" alt="Adjustment of adaptive air suspension in different modes" title="Adjustment of adaptive air suspension in different modes">
+    </a>
+    <figcaption><h4>Einstellung der adaptiven Luftfederung in verschiedenen Modi</h4></figcaption>
+</figure>
+
+Die Darstellung zeigt die Regelstrategie für die Luftfederungssysteme. Durch die Auswahl des bevorzugten Fahrmodus in Audi drive select ermittelt der Fahrer die Fahrhöhe und die dynamischen Eigenschaften des Fahrzeugs. Gleichzeitig werden auch innerhalb des gewählten Fahrmodus automatisch unterschiedliche Fahrhöhen eingestellt, abhängig von der aktuellen Fahrzeuggeschwindigkeit. Ein Beispiel dafür ist in der Regelstrategie bei der Auswahl des Modus "auto" zu sehen: Wenn das Fahrzeug aktuell auf eine andere Fahrhöhe eingestellt ist, wird das Normalniveau durch Änderung des Luftvolumens in den Luftfedern eingestellt, wenn der Modus bei stehendem Fahrzeug oder bei Fahrt mit einer Geschwindigkeit von unter 120 km/h gewählt wird.
+
+Überschreitet das Fahrzeug anschließend eine Geschwindigkeit von 120 km/h, so wird die Fahrhöhe sofort um 13 mm auf das niedrige Niveau 1 abgesenkt, steigt die Geschwindigkeit dann weiter auf mindestens 140 km/h an und verweilt dort 20 Sekunden lang, so wird die Fahrhöhe erneut um weitere 13 mm auf das Autobahnniveau abgesenkt. Wird anschließend die Fahrgeschwindigkeit wieder verringert und das Fahrzeug mit einer Geschwindigkeit von 110 km/h oder niedriger für eine Dauer von 30 Sekunden gefahren, so wird die Fahrhöhe um 13 mm auf die zuvor eingestellte Fahrhöhe angehoben. Wird die Fahrgeschwindigkeit weiter auf 5 km/h gesenkt, so wird das Fahrzeug sofort auf das ursprüngliche Niveau (Normalniveau) angehoben.
+
+## Senken des Autos
+
+Sogar Sie können die Fahrhöhe anpassen, manche wollen sie noch niedriger. Hier sind einige Beispiele für Autos, die mit niedrigeren Verbindungen oder Softwareanpassung gesenkt wurden.
+
+<figure>
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/lowering1.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/lowering1s.webp" class="img-fluid" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
+    </a>
+    <figcaption><h4>Absenktes e-tron mit 3 cm</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/lowering2.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/lowering2s.webp" class="img-fluid" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
+    </a>
+    <figcaption><h4>Absenktes e-tron mit 3 cm</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/lowering3.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/lowering3s.webp" class="img-fluid" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
+    </a>
+    <figcaption><h4>Absenken von e-tron mit im Show-Modus</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/lowering4.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/lowering4s.webp" class="img-fluid" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
+    </a>
+    <figcaption><h4>Absenktes e-tron mit 3 cm</h4></figcaption>
+</figure>
+
+<figure>
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/lowering5.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/lowering5s.webp" class="img-fluid" alt="Lowered e-tron with 3 cm" title="Lowered e-tron with 3 cm">
+    </a>
+    <figcaption><h4>Absenktes e-tron mit 3 cm</h4></figcaption>
+</figure>
+
+
+<figure>
+    <a href="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/lowering6.webp">
+        <img src="https://media.evkx.net/ehga/models/e-tron/drivetrain/suspension/lowering6s.webp" class="img-fluid" alt="Lowered e-tron with 15mm front and 18mm rear from Dynasty AB" title="Lowered e-tron with 15mm front and 18mm rear from Dynasty AB">
+    </a>
+    <figcaption><h4>Abgesenktes e-tron mit 15mm Front und 18mm Heck von Dynasty AB</h4></figcaption>
+</figure>

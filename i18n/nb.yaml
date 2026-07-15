@@ -218,3 +218,261 @@
 
 - id: frontpage-article-q6sportbackpremiere-synopsis
   translation: Audi lanserer nå Q6 Sportback e-tron.
+
+# Nytt designgrensesnitt
+- id: ui-open-menu
+  translation: Åpne meny
+- id: ui-primary-navigation
+  translation: Hovednavigasjon
+- id: ui-compare
+  translation: Sammenlign
+- id: home-independent
+  translation: Uavhengig · Grundig · Siden 2020
+- id: home-title
+  translation: Alle elektriske Audi-modeller. <span>I detalj.</span>
+- id: home-description
+  translation: Uavhengige modellguider, komplette spesifikasjoner og praktisk teknisk kunnskap for deg som eier, kjøper eller følger Audis elektriske utvikling.
+- id: home-no-results
+  translation: Ingen treff
+- id: home-search-placeholder
+  translation: Søk modeller, teknologi og guider
+- id: home-site-search
+  translation: Søk på nettstedet
+- id: home-search-action
+  translation: Søk
+- id: home-models
+  translation: Modeller
+- id: home-data-points
+  translation: Datapunkter
+- id: home-languages
+  translation: Språk
+- id: home-latest
+  translation: Siste nytt
+- id: home-news-and-launches
+  translation: Nyheter og lanseringer
+- id: home-all-articles
+  translation: Alle artikler →
+- id: home-model-range
+  translation: Modelloversikt
+- id: home-find-your-audi
+  translation: Finn din elektriske Audi
+- id: home-model-range-description
+  translation: Fra kompakte SUV-er til Gran Turismo og Kina-eksklusive AUDI-modeller.
+- id: home-all-models
+  translation: Alle modeller →
+- id: home-understand-technology
+  translation: Forstå teknologien
+- id: home-technology-heading
+  translation: Teknologi uten markedsføringsspråk
+- id: home-tech-battery-title
+  translation: Batteri
+- id: home-tech-battery-text
+  translation: Celler, kjemi, degradering og varmestyring.
+- id: home-tech-platforms-title
+  translation: Elbilplattformer
+- id: home-tech-platforms-text
+  translation: MEB, PPE, J1 og arkitekturen bak hver modell.
+- id: home-tech-motors-title
+  translation: Motorer
+- id: home-tech-motors-text
+  translation: Permanentmagnet, asynkron og grunnleggende drivlinjeteknologi.
+- id: home-tech-charging-title
+  translation: Lading
+- id: home-tech-charging-text
+  translation: Ladekurver, spenning, forvarming og reell ladehastighet.
+- id: home-next-step
+  translation: Neste steg
+- id: home-compare-heading
+  translation: Sammenlign modellene på data, ikke antakelser
+- id: home-compare-text
+  translation: Se rekkevidde, lading, ytelser og praktiske egenskaper side ved side.
+- id: home-compare-action
+  translation: Sammenlign modeller →
+- id: ui-article
+  translation: Artikkel
+- id: ui-last-updated
+  translation: Sist oppdatert
+- id: ui-min-read
+  translation: min lesetid
+- id: ui-spec-source-note
+  translation: Spesifikasjonene genereres fra EVKX-modellens JSON-data.
+- id: ui-explore
+  translation: Utforsk
+- id: ui-read-more
+  translation: Les mer →
+- id: ui-model-guide
+  translation: Modellguide
+- id: ui-open-guide
+  translation: Åpne guiden →
+- id: ui-gallery
+  translation: Galleri
+- id: ui-see-details
+  translation: Se detaljene
+- id: ui-images-via-evkx
+  translation: bilder via EVKX
+- id: ui-china-only
+  translation: Kun Kina
+- id: ui-on-sale
+  translation: I salg
+- id: ui-coming
+  translation: Kommer
+- id: ui-discontinued
+  translation: Utgått
+- id: ui-range
+  translation: Rekkevidde
+- id: ui-battery
+  translation: Batteri
+- id: ui-charging
+  translation: Lading
+- id: ui-market
+  translation: Marked
+- id: ui-china
+  translation: Kina
+- id: ui-europe
+  translation: Europa
+- id: ui-explore-model-heading
+  translation: Utforsk modellen i detalj
+- id: ui-explore-model-text
+  translation: Gå videre til komplette guider for design, kupé, drivlinje, teknologi og utstyr.
+- id: ui-model-catalogue
+  translation: Modellkatalog
+- id: ui-filter-all
+  translation: Alle
+- id: footer-lede
+  translation: Uavhengig, detaljert kunnskap om alle helelektriske Audi-modeller. Bygget for eiere, kjøpere og entusiaster.
+- id: footer-explore
+  translation: Utforsk
+- id: footer-community
+  translation: Fellesskap
+- id: footer-data
+  translation: Data
+- id: footer-data-description
+  translation: Spesifikasjoner og beregninger
+- id: footer-disclaimer
+  translation: Uavhengig fanside. Ikke tilknyttet AUDI AG.
+- id: compare-search-placeholder
+  translation: Søk etter modell eller variant
+- id: compare-searching
+  translation: Søker…
+- id: compare-empty
+  translation: Ingen Audi-varianter funnet
+- id: compare-error
+  translation: Søket kunne ikke lastes
+- id: compare-clear
+  translation: Fjern valgt variant
+- id: compare-microlabel
+  translation: EVKX-data · Audi-utvalg
+- id: compare-selected-vehicles
+  translation: Valgte kjøretøy
+- id: compare-vehicle
+  translation: Bil
+- id: compare-optional
+  translation: valgfri
+- id: compare-find-variant
+  translation: Finn en Audi-variant
+- id: compare-explanation
+  translation: Den fullstendige spesifikasjonstabellen åpnes på EVKX.net. Valgene dine følger med.
+- id: compare-data-source
+  translation: Kjøretøydata levert av EVKX
+- id: compare-select-two
+  translation: Velg minst to biler
+- id: compare-open
+  translation: Åpne sammenligning
+- id: ui-breadcrumb
+  translation: Brødsmulesti
+- id: ui-skip-to-content
+  translation: Gå til innholdet
+- id: range-tool
+  translation: Rekkeviddeverktøy
+- id: range-title
+  translation: Beregn rekkevidde under dine forhold
+- id: range-description
+  translation: Juster hastighet, temperatur, veiforhold og bilens oppsett. Beregningen utføres av EVKX med data for denne modellen.
+- id: range-variant
+  translation: Variant
+- id: range-available-battery
+  translation: Tilgjengelig batteri
+- id: range-speed
+  translation: Hastighet
+- id: range-temperature
+  translation: Temperatur
+- id: range-climate-use
+  translation: Klimaanlegg
+- id: range-road-condition
+  translation: Veiforhold
+- id: range-dry
+  translation: Tørt
+- id: range-damp
+  translation: Fuktig
+- id: range-wet
+  translation: Vått
+- id: range-very-wet
+  translation: Svært vått
+- id: range-snow
+  translation: Snø
+- id: range-hard-packed-snow
+  translation: Hardpakket snø
+- id: range-more-settings
+  translation: Flere innstillinger
+- id: range-battery-health
+  translation: Batterihelse
+- id: range-trim-level
+  translation: Utstyrsnivå
+- id: range-base
+  translation: Basis
+- id: range-mid
+  translation: Mellom
+- id: range-top
+  translation: Topp
+- id: range-towing
+  translation: Kjører med tilhenger
+- id: range-trailer-type
+  translation: Tilhengertype
+- id: range-small-flatbed
+  translation: Liten planhenger, opptil 750 kg
+- id: range-twin-flatbed
+  translation: Tandem planhenger
+- id: range-small-caravan
+  translation: Liten campingvogn
+- id: range-large-caravan
+  translation: Stor campingvogn
+- id: range-calculate
+  translation: Beregn rekkevidde
+- id: range-estimate-note
+  translation: Anslaget er modellbasert og kan avvike fra faktisk rekkevidde.
+- id: range-estimated
+  translation: Beregnet rekkevidde
+- id: range-calculating-for
+  translation: Beregner for
+- id: range-consumption
+  translation: Forbruk
+- id: range-available-energy
+  translation: Tilgjengelig energi
+- id: range-driving-time
+  translation: Kjøretid
+- id: range-energy-per-km
+  translation: Energibruk per kilometer
+- id: range-calculating
+  translation: Beregner…
+- id: range-error
+  translation: Kalkulatoren kunne ikke hente et resultat.
+- id: range-open-evkx
+  translation: Åpne kalkulatoren på EVKX.net
+- id: range-js-required
+  translation: JavaScript må være aktivert for å bruke kalkulatoren.
+- id: range-source
+  translation: Kjøretøydata og beregningsmotor levert av
+- id: range-data-unavailable
+  translation: rekkeviddedata mangler
+- id: range-updated
+  translation: Oppdatert med valgte forhold.
+- id: range-air-resistance
+  translation: Luftmotstand
+- id: range-drivetrain-resistance
+  translation: Drivverk og rullemotstand
+- id: range-climate
+  translation: Klima
+- id: range-auxiliary
+  translation: Hjelpesystemer
+- id: range-trailer
+  translation: Tilhenger
