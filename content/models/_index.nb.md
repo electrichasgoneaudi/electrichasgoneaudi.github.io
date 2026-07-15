@@ -103,7 +103,7 @@ Utforsk detaljer
 <div class="p-6">
 <h3 class="text-xl font-bold text-gray-900 mb-3">Audi A4 e-tron</h3>
 <p class="text-gray-600 text-sm mb-4 leading-relaxed">
-Elektrisk sedan i mellomklassen som erstatter ICE A4. Basert på PPE-plattformen.
+Helelektrisk mellomklassemodell på SSP-plattformen. Audi har bekreftet utviklingen, med lansering ventet i 2028.
 </p>
 <div class="flex flex-wrap gap-2 mb-4">
 <span class="bg-teal-100 text-teal-800 text-xs font-semibold px-3 py-1 rounded-full">Mellomklasse</span>
