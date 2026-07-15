@@ -8,8 +8,8 @@
   <section class="band band--paper-2" id="gallery">
     <div class="container">
       <div class="section-heading">
-        <div><div class="microlabel">{{ if eq $page.Language.Lang "nb" }}Galleri{{ else }}Gallery{{ end }}</div><h2 class="h-section">{{ if eq $page.Language.Lang "nb" }}Se detaljene{{ else }}See the details{{ end }}</h2></div>
-        <span class="microlabel microlabel--muted-light">{{ len $catalog.media }} {{ if eq $page.Language.Lang "nb" }}bilder via EVKX{{ else }}images via EVKX{{ end }}</span>
+        <div><div class="microlabel">{{ T "ui-gallery" }}</div><h2 class="h-section">{{ T "ui-see-details" }}</h2></div>
+        <span class="microlabel microlabel--muted-light">{{ len $catalog.media }} {{ T "ui-images-via-evkx" }}</span>
       </div>
       <div class="gallery-grid pswp-gallery" id="model-gallery-{{ md5 $page.RelPermalink }}">
         {{ range $images }}

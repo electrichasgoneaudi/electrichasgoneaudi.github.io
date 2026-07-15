@@ -219,10 +219,268 @@
   translation: Audi A6 e-tron world premiere
 
 - id: frontpage-article-a6premiere-synopsis
-  translation: Audi is now launching the A6 e-tron as a Sportback and Avant. 
+  translation: Audi is now launching the A6 e-tron as a Sportback and Avant.
 
 - id: frontpage-article-q6sportbackpremiere-title
   translation: Audi Q6 Sportback e-tron world premiere
 
 - id: frontpage-article-q6sportbackpremiere-synopsis
-  translation: Audi is now launching the Q6 Sportback e-tron. 
+  translation: Audi is now launching the Q6 Sportback e-tron.
+
+# Redesign UI
+- id: ui-open-menu
+  translation: Open menu
+- id: ui-primary-navigation
+  translation: Primary navigation
+- id: ui-compare
+  translation: Compare
+- id: home-independent
+  translation: Independent · In depth · Since 2020
+- id: home-title
+  translation: Every electric Audi. <span>In detail.</span>
+- id: home-description
+  translation: Independent model guides, complete specifications and practical technical knowledge for owners, buyers and anyone following Audi's electric transition.
+- id: home-no-results
+  translation: No matching pages
+- id: home-search-placeholder
+  translation: Search models, technology and guides
+- id: home-site-search
+  translation: Site search
+- id: home-search-action
+  translation: Search
+- id: home-models
+  translation: Models
+- id: home-data-points
+  translation: Specs
+- id: home-languages
+  translation: Languages
+- id: home-latest
+  translation: Latest
+- id: home-news-and-launches
+  translation: News and launches
+- id: home-all-articles
+  translation: All articles →
+- id: home-model-range
+  translation: Model range
+- id: home-find-your-audi
+  translation: Find your electric Audi
+- id: home-model-range-description
+  translation: From compact SUVs to electric Gran Turismos and China-exclusive AUDI models.
+- id: home-all-models
+  translation: All models →
+- id: home-understand-technology
+  translation: Understand the technology
+- id: home-technology-heading
+  translation: Technology without the marketing gloss
+- id: home-tech-battery-title
+  translation: Battery
+- id: home-tech-battery-text
+  translation: Cells, chemistry, degradation and thermal management.
+- id: home-tech-platforms-title
+  translation: EV platforms
+- id: home-tech-platforms-text
+  translation: MEB, PPE, J1 and the architectures behind every model.
+- id: home-tech-motors-title
+  translation: Motors
+- id: home-tech-motors-text
+  translation: Permanent-magnet, induction and drive-system fundamentals.
+- id: home-tech-charging-title
+  translation: Charging
+- id: home-tech-charging-text
+  translation: Curves, voltage, preconditioning and real charging speed.
+- id: home-next-step
+  translation: Next step
+- id: home-compare-heading
+  translation: Compare the models on data, not assumptions
+- id: home-compare-text
+  translation: Put range, charging, performance and practical capability side by side.
+- id: home-compare-action
+  translation: Compare models →
+- id: ui-article
+  translation: Article
+- id: ui-last-updated
+  translation: Last updated
+- id: ui-min-read
+  translation: min read
+- id: ui-spec-source-note
+  translation: Specifications are generated from the EVKX model JSON data.
+- id: ui-explore
+  translation: Explore
+- id: ui-read-more
+  translation: Read more →
+- id: ui-model-guide
+  translation: Model guide
+- id: ui-open-guide
+  translation: Open guide →
+- id: ui-gallery
+  translation: Gallery
+- id: ui-see-details
+  translation: See the details
+- id: ui-images-via-evkx
+  translation: images via EVKX
+- id: ui-china-only
+  translation: China only
+- id: ui-on-sale
+  translation: On sale
+- id: ui-coming
+  translation: Coming
+- id: ui-discontinued
+  translation: Discontinued
+- id: ui-range
+  translation: Range
+- id: ui-battery
+  translation: Battery
+- id: ui-charging
+  translation: Charging
+- id: ui-market
+  translation: Market
+- id: ui-china
+  translation: China
+- id: ui-europe
+  translation: Europe
+- id: ui-explore-model-heading
+  translation: Explore the model in detail
+- id: ui-explore-model-text
+  translation: Continue to the complete guides for design, cabin, drivetrain, technology and equipment.
+- id: ui-model-catalogue
+  translation: Model catalogue
+- id: ui-filter-all
+  translation: All
+- id: footer-lede
+  translation: Independent, in-depth knowledge about every all-electric Audi. Built for owners, buyers and enthusiasts.
+- id: footer-explore
+  translation: Explore
+- id: footer-community
+  translation: Community
+- id: footer-data
+  translation: Data
+- id: footer-data-description
+  translation: Specifications and calculations
+- id: footer-disclaimer
+  translation: Independent fan site. Not affiliated with AUDI AG.
+- id: compare-search-placeholder
+  translation: Search model or variant
+- id: compare-searching
+  translation: Searching…
+- id: compare-empty
+  translation: No Audi variants found
+- id: compare-error
+  translation: Search could not be loaded
+- id: compare-clear
+  translation: Remove selected variant
+- id: compare-microlabel
+  translation: EVKX data · Audi selection
+- id: compare-selected-vehicles
+  translation: Selected vehicles
+- id: compare-vehicle
+  translation: Vehicle
+- id: compare-optional
+  translation: optional
+- id: compare-find-variant
+  translation: Find an Audi variant
+- id: compare-explanation
+  translation: The complete specification table opens on EVKX.net with your selections preserved.
+- id: compare-data-source
+  translation: Vehicle data provided by EVKX
+- id: compare-select-two
+  translation: Select at least two vehicles
+- id: compare-open
+  translation: Open comparison
+- id: ui-breadcrumb
+  translation: Breadcrumb
+- id: ui-skip-to-content
+  translation: Skip to content
+- id: range-tool
+  translation: Range tool
+- id: range-title
+  translation: Calculate range for your conditions
+- id: range-description
+  translation: Adjust speed, temperature, road conditions and vehicle setup. EVKX calculates the result using data for this model.
+- id: range-variant
+  translation: Variant
+- id: range-available-battery
+  translation: Available battery
+- id: range-speed
+  translation: Speed
+- id: range-temperature
+  translation: Temperature
+- id: range-climate-use
+  translation: Climate use
+- id: range-road-condition
+  translation: Road condition
+- id: range-dry
+  translation: Dry
+- id: range-damp
+  translation: Damp
+- id: range-wet
+  translation: Wet
+- id: range-very-wet
+  translation: Very wet
+- id: range-snow
+  translation: Snow
+- id: range-hard-packed-snow
+  translation: Hard-packed snow
+- id: range-more-settings
+  translation: More settings
+- id: range-battery-health
+  translation: Battery health
+- id: range-trim-level
+  translation: Trim level
+- id: range-base
+  translation: Base
+- id: range-mid
+  translation: Mid
+- id: range-top
+  translation: Top
+- id: range-towing
+  translation: Towing a trailer
+- id: range-trailer-type
+  translation: Trailer type
+- id: range-small-flatbed
+  translation: Small flatbed, up to 750 kg
+- id: range-twin-flatbed
+  translation: Twin-axle flatbed
+- id: range-small-caravan
+  translation: Small caravan
+- id: range-large-caravan
+  translation: Large caravan
+- id: range-calculate
+  translation: Calculate range
+- id: range-estimate-note
+  translation: This model-based estimate may differ from real-world range.
+- id: range-estimated
+  translation: Estimated range
+- id: range-calculating-for
+  translation: Calculating for
+- id: range-consumption
+  translation: Consumption
+- id: range-available-energy
+  translation: Available energy
+- id: range-driving-time
+  translation: Driving time
+- id: range-energy-per-km
+  translation: Energy use per kilometre
+- id: range-calculating
+  translation: Calculating…
+- id: range-error
+  translation: The calculator could not retrieve a result.
+- id: range-open-evkx
+  translation: Open the calculator on EVKX.net
+- id: range-js-required
+  translation: JavaScript is required to use the calculator.
+- id: range-source
+  translation: Vehicle data and calculation engine provided by
+- id: range-data-unavailable
+  translation: range data unavailable
+- id: range-updated
+  translation: Updated with the selected conditions.
+- id: range-air-resistance
+  translation: Air resistance
+- id: range-drivetrain-resistance
+  translation: Drivetrain and rolling resistance
+- id: range-climate
+  translation: Climate
+- id: range-auxiliary
+  translation: Auxiliary systems
+- id: range-trailer
+  translation: Trailer

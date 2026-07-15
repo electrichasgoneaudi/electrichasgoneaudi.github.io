@@ -1,42 +1,43 @@
-{{ $nb := eq .Language.Lang "nb" }}
 <section class="compare-page"
          data-compare-tool
          data-api-base="https://evkx.net/api/"
          data-language="{{ .Language.Lang }}"
-         data-search-placeholder="{{ if $nb }}Søk etter modell eller variant{{ else }}Search model or variant{{ end }}"
-         data-searching-label="{{ if $nb }}Søker…{{ else }}Searching…{{ end }}"
-         data-empty-label="{{ if $nb }}Ingen Audi-varianter funnet{{ else }}No Audi variants found{{ end }}"
-         data-error-label="{{ if $nb }}Søket kunne ikke lastes{{ else }}Search could not be loaded{{ end }}"
-         data-clear-label="{{ if $nb }}Fjern valgt variant{{ else }}Remove selected variant{{ end }}">
+         data-search-placeholder="{{ T "compare-search-placeholder" }}"
+         data-searching-label="{{ T "compare-searching" }}"
+         data-empty-label="{{ T "compare-empty" }}"
+         data-error-label="{{ T "compare-error" }}"
+         data-clear-label="{{ T "compare-clear" }}"
+         data-ready-label="{{ T "compare-open" }}"
+         data-incomplete-label="{{ T "compare-select-two" }}">
   <header class="compare-page__header">
     <div class="container">
       {{ partial "breadcrumb.html" . }}
-      <div class="microlabel">{{ if $nb }}EVKX-data · Audi-utvalg{{ else }}EVKX data · Audi selection{{ end }}</div>
+      <div class="microlabel">{{ T "compare-microlabel" }}</div>
       <h1 class="content-page__title">{{ .Title }}</h1>
       <p class="content-page__description">{{ .Description }}</p>
     </div>
   </header>
   <div class="band band--dark">
     <div class="container">
-      <div class="compare-slots" aria-label="{{ if $nb }}Valgte kjøretøy{{ else }}Selected vehicles{{ end }}">
+      <div class="compare-slots" aria-label="{{ T "compare-selected-vehicles" }}">
         {{ range seq 3 }}
         <section class="compare-slot" data-compare-slot>
-          <div class="microlabel">{{ if $nb }}Bil {{ . }}{{ else }}Vehicle {{ . }}{{ end }}{{ if eq . 3 }} · {{ if $nb }}valgfri{{ else }}optional{{ end }}{{ end }}</div>
+          <div class="microlabel">{{ T "compare-vehicle" }} {{ . }}{{ if eq . 3 }} · {{ T "compare-optional" }}{{ end }}</div>
           <div class="compare-slot__selected" data-selected-vehicle hidden>
             <strong data-selected-name></strong>
-            <button type="button" class="compare-slot__clear" data-clear-selection aria-label="{{ if $nb }}Fjern valgt variant{{ else }}Remove selected variant{{ end }}">×</button>
+            <button type="button" class="compare-slot__clear" data-clear-selection aria-label="{{ T "compare-clear" }}">×</button>
           </div>
           <div class="compare-slot__search" data-search-control>
-            <label for="compare-search-{{ . }}">{{ if $nb }}Finn en Audi-variant{{ else }}Find an Audi variant{{ end }}</label>
-            <input id="compare-search-{{ . }}" type="search" autocomplete="off" placeholder="{{ if $nb }}Søk modell eller variant{{ else }}Search model or variant{{ end }}" data-compare-search>
+            <label for="compare-search-{{ . }}">{{ T "compare-find-variant" }}</label>
+            <input id="compare-search-{{ . }}" type="search" autocomplete="off" placeholder="{{ T "compare-search-placeholder" }}" data-compare-search>
             <div class="compare-slot__results" data-compare-results role="listbox" hidden></div>
           </div>
         </section>
         {{ end }}
       </div>
       <div class="compare-actions">
-        <div><p>{{ if $nb }}Den fullstendige spesifikasjonstabellen åpnes på EVKX.net. Valgene dine følger med.{{ else }}The complete specification table opens on EVKX.net with your selections preserved.{{ end }}</p><span>{{ if $nb }}Kjøretøydata levert av EVKX{{ else }}Vehicle data provided by EVKX{{ end }}</span></div>
-        <button class="btn-primary btn-primary--lg" type="button" data-open-comparison disabled>{{ if $nb }}Velg minst to biler{{ else }}Select at least two vehicles{{ end }}</button>
+        <div><p>{{ T "compare-explanation" }}</p><span>{{ T "compare-data-source" }}</span></div>
+        <button class="btn-primary btn-primary--lg" type="button" data-open-comparison disabled>{{ T "compare-select-two" }}</button>
       </div>
     </div>
   </div>

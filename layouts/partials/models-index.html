@@ -1,13 +1,13 @@
 <section class="page-shell">
   <div class="container">
     {{ partial "breadcrumb.html" . }}
-    <header class="page-header"><div class="microlabel">{{ if eq .Language.Lang "nb" }}Modellkatalog{{ else }}Model catalogue{{ end }}</div><h1 class="h-display">{{ .Title }}</h1><p class="page-header__description">{{ .Description }}</p></header>
+    <header class="page-header"><div class="microlabel">{{ T "ui-model-catalogue" }}</div><h1 class="h-display">{{ .Title }}</h1><p class="page-header__description">{{ .Description }}</p></header>
     <div style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:30px">
-      <button class="chip chip--active" data-model-filter="all">{{ if eq .Language.Lang "nb" }}Alle{{ else }}All{{ end }}</button>
-      <button class="chip" data-model-filter="onsale">{{ if eq .Language.Lang "nb" }}I salg{{ else }}On sale{{ end }}</button>
-      <button class="chip" data-model-filter="china">{{ if eq .Language.Lang "nb" }}Kun Kina{{ else }}China only{{ end }}</button>
-      <button class="chip" data-model-filter="coming">{{ if eq .Language.Lang "nb" }}Kommer{{ else }}Coming{{ end }}</button>
-      <button class="chip" data-model-filter="ended">{{ if eq .Language.Lang "nb" }}Utgått{{ else }}Discontinued{{ end }}</button>
+      <button class="chip chip--active" data-model-filter="all">{{ T "ui-filter-all" }}</button>
+      <button class="chip" data-model-filter="onsale">{{ T "ui-on-sale" }}</button>
+      <button class="chip" data-model-filter="china">{{ T "ui-china-only" }}</button>
+      <button class="chip" data-model-filter="coming">{{ T "ui-coming" }}</button>
+      <button class="chip" data-model-filter="ended">{{ T "ui-discontinued" }}</button>
     </div>
     <div class="grid-3">{{ range .Site.Data.ehga.models }}{{ partial "model-card.html" (dict "model" . "site" $) }}{{ end }}</div>
   </div>

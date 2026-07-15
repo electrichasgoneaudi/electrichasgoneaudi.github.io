@@ -9,9 +9,16 @@ The authoritative generator is the adjacent EVKX repository:
 D:\repos\evkx.net\src\ehga.sitegenerator
 ```
 
-Its `Service/AudiSpecMdWriter.cs` writes the English and Norwegian Hugo pages
-directly from the EVKX model data. The generated markup uses the redesign's
-variant tabs, masonry specification cards and `spec-row` component.
+Its `Service/AudiSpecMdWriter.cs` writes the English, Norwegian, and German Hugo pages
+directly from the EVKX model data. To regenerate only German pages without
+exporting the media catalogue, run this from the generator directory:
+
+```powershell
+dotnet run -- --languages=de --specs-only
+```
+
+The generated markup uses the redesign's variant tabs, masonry specification
+cards and `spec-row` component.
 
 ## One-time migration
 

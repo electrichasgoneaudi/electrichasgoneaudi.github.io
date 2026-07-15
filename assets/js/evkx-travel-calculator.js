@@ -29,6 +29,20 @@ const labels = {
       trailerWhPerKm: 'Tilhenger',
     },
   },
+  de: {
+    loading: 'Berechnung läuft…',
+    ready: 'Mit den gewählten Bedingungen aktualisiert.',
+    error: 'Der Rechner konnte kein Ergebnis abrufen.',
+    button: 'Reichweite berechnen',
+    calculating: 'Berechnung läuft…',
+    parts: {
+      aeroWhPerKm: 'Luftwiderstand',
+      rollingWhPerKm: 'Antrieb und Rollwiderstand',
+      hvacWhPerKm: 'Klimatisierung',
+      auxWhPerKm: 'Nebenverbraucher',
+      trailerWhPerKm: 'Anhänger',
+    },
+  },
 };
 
 const number = (value, digits = 0) => new Intl.NumberFormat(undefined, {
@@ -75,7 +89,7 @@ function variantLabel(host, variant) {
     formatModelName(host, variant.name),
     Number.isFinite(Number(battery)) && Number(battery) > 0 ? `${number(Number(battery), Number.isInteger(Number(battery)) ? 0 : 1)} kWh` : '',
     years,
-    isCalculableVariant(variant) ? '' : (host.dataset.lang === 'nb' ? 'rekkeviddedata mangler' : 'range data unavailable'),
+    isCalculableVariant(variant) ? '' : (host.dataset.dataUnavailableLabel || 'range data unavailable'),
   ].filter(Boolean).join(' · ');
 }
 
@@ -153,7 +167,7 @@ function renderResult(host, trip, copy) {
 
 calculators.forEach((host) => {
   const form = host.querySelector('[data-calculator-form]');
-  const lang = host.dataset.lang === 'nb' ? 'nb' : 'en';
+  const lang = ['en', 'nb', 'de'].includes(host.dataset.lang) ? host.dataset.lang : 'en';
   const copy = labels[lang];
   const error = host.querySelector('[data-calculator-error]');
   const trailerControl = host.querySelector('[data-trailer-control]');

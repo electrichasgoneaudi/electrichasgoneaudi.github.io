@@ -13,6 +13,8 @@
         <span>Most content is available in english.</span>
         {{- else if eq .Language.Lang "nb" -}}
         <span>Noe innhold er tilgjengelig på bokmål.</span>
+        {{- else if eq .Language.Lang "de" -}}
+        <span>Die Website ist auf Deutsch verfügbar.</span>
         {{- else if eq .Language.Lang "nn" -}}
         <span>Noko av innhaldet er tilgjengeleg på nynorsk.</span>
         {{- end -}}

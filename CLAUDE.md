@@ -1,6 +1,6 @@
 # electrichasgoneaudi.github.io — Claude context
 
-Hugo static site documenting Audi electric vehicles. Bilingual: every content file has an English `_index.md` and a Norwegian `_index.nb.md`.
+Hugo static site documenting Audi electric vehicles. Trilingual: authored content has English `_index.md`, Norwegian `_index.nb.md`, and German `_index.de.md` files.
 
 ---
 
@@ -103,20 +103,22 @@ The corresponding EVKX implementation is under
 Specifications are generated from EVKX model data, not maintained by hand. The
 authoritative generator lives in the adjacent EVKX repository at
 `D:/repos/evkx.net/src/ehga.sitegenerator`; its
-`Service/AudiSpecMdWriter.cs` writes the English and Norwegian pages together.
+`Service/AudiSpecMdWriter.cs` writes English, Norwegian, and German pages.
 See `tools/specifications/README.md` in this repo for the output contract.
 
 The generated output uses the redesign's variant tabs and specification cards.
 `tools/specifications/migrate-legacy.mjs` is only a one-time converter for old
 accordion-based files.
 
-### Bilingual files
-Every page needs both `_index.md` (English) and `_index.nb.md` (Norwegian Bokmål). Keep structure and images identical between them; translate text only.
+### Trilingual files
+Every authored page needs `_index.md` (English), `_index.nb.md` (Norwegian Bokmål), and `_index.de.md` (German). Keep structure and images aligned between languages; translate prose and labels only.
+
+German drafts for missing authored pages can be created locally with `npm run translate:de`. Pages with `translation_status: manual` in frontmatter are protected from `--force` regeneration. See `tools/translation/README.md` before regenerating German content.
 
 ### Standard section structure for China models (E5, E7X)
 ```
 content/models/<model>/
-  _index.md / _index.nb.md      — overview, shownavtabs: true
+  _index.md / _index.nb.md / _index.de.md — overview, shownavtabs: true
   variants/                      — weight: 1, all trims with pricing/specs/equipment
   exterior/                      — weight: 4, colors, wheels, lights
   interior/                      — weight: 5, screens, seats, storage

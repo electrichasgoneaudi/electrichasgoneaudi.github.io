@@ -1,0 +1,291 @@
+# Navigation
+- id: menu-models
+  translation: Modelle
+- id: menu-technology
+  translation: Technologie
+- id: menu-guides
+  translation: Ratgeber
+- id: menu-articles
+  translation: Artikel
+- id: language
+  translation: Sprache
+- id: ui-open-menu
+  translation: Menü öffnen
+- id: ui-primary-navigation
+  translation: Hauptnavigation
+- id: ui-compare
+  translation: Vergleichen
+
+# Homepage
+- id: home-independent
+  translation: Unabhängig · Detailliert · Seit 2020
+- id: home-title
+  translation: Jeder elektrische Audi. <span>Im Detail.</span>
+- id: home-description
+  translation: Unabhängige Modellratgeber, vollständige Spezifikationen und praktisches technisches Wissen für Besitzer, Käufer und alle, die Audis elektrischen Wandel verfolgen.
+- id: home-no-results
+  translation: Keine passenden Seiten
+- id: home-search-placeholder
+  translation: Modelle, Technologie und Ratgeber durchsuchen
+- id: home-site-search
+  translation: Website durchsuchen
+- id: home-search-action
+  translation: Suchen
+- id: home-models
+  translation: Modelle
+- id: home-data-points
+  translation: Datenpunkte
+- id: home-languages
+  translation: Sprachen
+- id: home-latest
+  translation: Aktuelles
+- id: home-news-and-launches
+  translation: Neuigkeiten und Modellvorstellungen
+- id: home-all-articles
+  translation: Alle Artikel →
+- id: home-model-range
+  translation: Modellübersicht
+- id: home-find-your-audi
+  translation: Finden Sie Ihren elektrischen Audi
+- id: home-model-range-description
+  translation: Vom kompakten SUV über elektrische Gran Turismos bis zu den exklusiven AUDI Modellen für China.
+- id: home-all-models
+  translation: Alle Modelle →
+- id: home-understand-technology
+  translation: Technologie verstehen
+- id: home-technology-heading
+  translation: Technologie ohne Marketingfloskeln
+- id: home-tech-battery-title
+  translation: Batterie
+- id: home-tech-battery-text
+  translation: Zellen, Chemie, Alterung und Thermomanagement.
+- id: home-tech-platforms-title
+  translation: Elektroauto-Plattformen
+- id: home-tech-platforms-text
+  translation: MEB, PPE, J1 und die Architekturen hinter den einzelnen Modellen.
+- id: home-tech-motors-title
+  translation: Elektromotoren
+- id: home-tech-motors-text
+  translation: Permanentmagnet-, Asynchronmotoren und Grundlagen des elektrischen Antriebs.
+- id: home-tech-charging-title
+  translation: Laden
+- id: home-tech-charging-text
+  translation: Ladekurven, Spannung, Vorkonditionierung und reale Ladegeschwindigkeit.
+- id: home-next-step
+  translation: Nächster Schritt
+- id: home-compare-heading
+  translation: Modelle anhand von Daten vergleichen, nicht anhand von Annahmen
+- id: home-compare-text
+  translation: Reichweite, Laden, Leistung und Alltagseigenschaften direkt gegenüberstellen.
+- id: home-compare-action
+  translation: Modelle vergleichen →
+
+# Shared page labels
+- id: ui-article
+  translation: Artikel
+- id: ui-last-updated
+  translation: Zuletzt aktualisiert
+- id: ui-min-read
+  translation: Min. Lesezeit
+- id: ui-spec-source-note
+  translation: Die Spezifikationen werden aus den JSON-Daten des EVKX-Modells generiert.
+- id: ui-explore
+  translation: Entdecken
+- id: ui-read-more
+  translation: Weiterlesen →
+- id: ui-model-guide
+  translation: Modellratgeber
+- id: ui-open-guide
+  translation: Ratgeber öffnen →
+- id: ui-gallery
+  translation: Galerie
+- id: ui-see-details
+  translation: Details ansehen
+- id: ui-images-via-evkx
+  translation: Bilder über EVKX
+- id: ui-china-only
+  translation: Nur China
+- id: ui-on-sale
+  translation: Im Verkauf
+- id: ui-coming
+  translation: Demnächst
+- id: ui-discontinued
+  translation: Nicht mehr erhältlich
+- id: ui-range
+  translation: Reichweite
+- id: ui-battery
+  translation: Batterie
+- id: ui-charging
+  translation: Laden
+- id: ui-market
+  translation: Markt
+- id: ui-china
+  translation: China
+- id: ui-europe
+  translation: Europa
+- id: ui-explore-model-heading
+  translation: Das Modell im Detail entdecken
+- id: ui-explore-model-text
+  translation: Weiter zu den vollständigen Ratgebern für Design, Innenraum, Antrieb, Technologie und Ausstattung.
+- id: ui-model-catalogue
+  translation: Modellkatalog
+- id: ui-filter-all
+  translation: Alle
+- id: ui-breadcrumb
+  translation: Brotkrümelnavigation
+- id: ui-skip-to-content
+  translation: Zum Inhalt springen
+
+# Footer
+- id: footer-lede
+  translation: Unabhängiges, fundiertes Wissen über alle vollelektrischen Audi Modelle. Für Besitzer, Käufer und Enthusiasten.
+- id: footer-explore
+  translation: Entdecken
+- id: footer-community
+  translation: Community
+- id: footer-data
+  translation: Daten
+- id: footer-data-description
+  translation: Spezifikationen und Berechnungen
+- id: footer-disclaimer
+  translation: Unabhängige Fanseite. Nicht mit der AUDI AG verbunden.
+- id: footer-about
+  translation: Über uns
+
+# Comparison
+- id: compare-search-placeholder
+  translation: Modell oder Variante suchen
+- id: compare-searching
+  translation: Suche…
+- id: compare-empty
+  translation: Keine Audi Varianten gefunden
+- id: compare-error
+  translation: Die Suche konnte nicht geladen werden
+- id: compare-clear
+  translation: Ausgewählte Variante entfernen
+- id: compare-microlabel
+  translation: EVKX Daten · Audi Auswahl
+- id: compare-selected-vehicles
+  translation: Ausgewählte Fahrzeuge
+- id: compare-vehicle
+  translation: Fahrzeug
+- id: compare-optional
+  translation: optional
+- id: compare-find-variant
+  translation: Audi Variante finden
+- id: compare-explanation
+  translation: Die vollständige Spezifikationstabelle wird auf EVKX.net geöffnet. Ihre Auswahl wird übernommen.
+- id: compare-data-source
+  translation: Fahrzeugdaten von EVKX
+- id: compare-select-two
+  translation: Mindestens zwei Fahrzeuge auswählen
+- id: compare-open
+  translation: Vergleich öffnen
+
+# Range calculator
+- id: range-tool
+  translation: Reichweitenrechner
+- id: range-title
+  translation: Reichweite unter Ihren Bedingungen berechnen
+- id: range-description
+  translation: Geschwindigkeit, Temperatur, Straßenverhältnisse und Fahrzeugkonfiguration anpassen. EVKX berechnet das Ergebnis mit den Daten dieses Modells.
+- id: range-variant
+  translation: Variante
+- id: range-available-battery
+  translation: Verfügbare Batteriekapazität
+- id: range-speed
+  translation: Geschwindigkeit
+- id: range-temperature
+  translation: Temperatur
+- id: range-climate-use
+  translation: Klimatisierung
+- id: range-road-condition
+  translation: Straßenzustand
+- id: range-dry
+  translation: Trocken
+- id: range-damp
+  translation: Feucht
+- id: range-wet
+  translation: Nass
+- id: range-very-wet
+  translation: Sehr nass
+- id: range-snow
+  translation: Schnee
+- id: range-hard-packed-snow
+  translation: Festgefahrener Schnee
+- id: range-more-settings
+  translation: Weitere Einstellungen
+- id: range-battery-health
+  translation: Batteriezustand
+- id: range-trim-level
+  translation: Ausstattungsniveau
+- id: range-base
+  translation: Basis
+- id: range-mid
+  translation: Mittel
+- id: range-top
+  translation: Top
+- id: range-towing
+  translation: Mit Anhänger fahren
+- id: range-trailer-type
+  translation: Anhängertyp
+- id: range-small-flatbed
+  translation: Kleiner Pritschenanhänger, bis 750 kg
+- id: range-twin-flatbed
+  translation: Tandem-Pritschenanhänger
+- id: range-small-caravan
+  translation: Kleiner Wohnwagen
+- id: range-large-caravan
+  translation: Großer Wohnwagen
+- id: range-calculate
+  translation: Reichweite berechnen
+- id: range-estimate-note
+  translation: Diese modellbasierte Schätzung kann von der tatsächlichen Reichweite abweichen.
+- id: range-estimated
+  translation: Geschätzte Reichweite
+- id: range-calculating-for
+  translation: Berechnung für
+- id: range-consumption
+  translation: Verbrauch
+- id: range-available-energy
+  translation: Verfügbare Energie
+- id: range-driving-time
+  translation: Fahrzeit
+- id: range-energy-per-km
+  translation: Energieverbrauch pro Kilometer
+- id: range-calculating
+  translation: Berechnung läuft…
+- id: range-error
+  translation: Der Rechner konnte kein Ergebnis abrufen.
+- id: range-open-evkx
+  translation: Rechner auf EVKX.net öffnen
+- id: range-js-required
+  translation: Für den Rechner muss JavaScript aktiviert sein.
+- id: range-source
+  translation: Fahrzeugdaten und Berechnungsmodell bereitgestellt von
+- id: range-data-unavailable
+  translation: Reichweitendaten nicht verfügbar
+- id: range-updated
+  translation: Mit den gewählten Bedingungen aktualisiert.
+- id: range-air-resistance
+  translation: Luftwiderstand
+- id: range-drivetrain-resistance
+  translation: Antrieb und Rollwiderstand
+- id: range-climate
+  translation: Klimatisierung
+- id: range-auxiliary
+  translation: Nebenverbraucher
+- id: range-trailer
+  translation: Anhänger
+
+# Error page and legacy layouts
+- id: title-404
+  translation: Seite nicht gefunden
+- id: message-404
+  translation: Die angeforderte Seite wurde nicht gefunden.
+- id: Go-to-homepage
+  translation: Zur Startseite
+- id: Last-Modified
+  translation: Zuletzt aktualisiert
+- id: create-header-md
+  translation: Kopfzeile erstellen
