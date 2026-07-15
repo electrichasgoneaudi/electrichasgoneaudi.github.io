@@ -6,6 +6,8 @@ weight: 1
 sectiontabs: "/models/q4-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
+> **Model-year note:** This gallery documents colors and paint treatments offered across earlier Q4 e-tron model years. The MY2027 update introduced three additional exterior colors, and availability varies by market. Use the current market configurator to confirm which colors can be ordered.
+
 Here you find high resolution picture of real cars in the different standard colors. Click pictures for large versions.
 
 Click on links for quick access to a color.
@@ -164,7 +166,7 @@ Color code **5Y**
     <figcaption><h4>Audi Q4 50 e-tron quattro in geyser blue metallic with contrast color</h4></figcaption>
 </figure>
 
-The below footage shows dynamic driving scenes of the Audi Q4 Sportback e-tron in the colour Geyser blue on the streets of Lübeck.
+The following footage shows dynamic driving scenes of the Audi Q4 Sportback e-tron in the colour Geyser blue on the streets of Lübeck.
 
 {{< youtube NJVqjK02u7M>}}
 
@@ -214,7 +216,7 @@ Color code **2L**
     <figcaption><h4>Audi Q4 Sportback 50 e-tron quattro in typhoon grey metallic with shadow optics plus and manhatten contrast color by @auditography</h4></figcaption>
 </figure>
 
- The below footage shows dynamic driving scenes of the Audi Q4 e-tron in the colour Typhoon grey on the streets of Lübeck.
+ The following footage shows dynamic driving scenes of the Audi Q4 e-tron in the colour Typhoon grey on the streets of Lübeck.
 
 {{< youtube H6yfrwDQ95Q >}}
 
@@ -243,7 +245,7 @@ Color code **L5**
     <figcaption><h4>Audi Q4 50 e-tron quattro in floret silver with manhatten contrast color</h4></figcaption>
 </figure>
 
-The below footage shows dynamic driving scenes of the Audi Q4 Sportback e-tron in the colour Floret silver in the streets of Spain.
+The following footage shows dynamic driving scenes of the Audi Q4 Sportback e-tron in the colour Floret silver in the streets of Spain.
 
 {{< youtube JSm8Ov2XGLc >}}
 
@@ -380,7 +382,7 @@ Color code **J6**
 </figure>
 
 
-The below video shos a Audi Q4 Sportback e-tron in Aurora Violett with black optics and S-line exterior.
+The following video shows an Audi Q4 Sportback e-tron in Aurora Violett with black optics and S-line exterior.
 
 {{< youtube B7Y5D_BPN9g>}}
 

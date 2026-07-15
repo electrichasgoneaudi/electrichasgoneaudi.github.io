@@ -30,7 +30,7 @@ Klikk på lenkene for å gå direkte til en farge.
   - [Sonoma Green](#sonoma-green)
   - [Goodwood Green](#goodwood-green)
 
-I tilegg får kan du velge mellom over 50 [Audi Exclusive farger](../../exterior/paint/#audi-exclusive-lakk-farger).
+I tillegg får kan du velge mellom over 50 [Audi Exclusive farger](../../exterior/paint/#audi-exclusive-lakk-farger).
 
 ## Lakkeringsutførelse
 
@@ -89,23 +89,23 @@ Standard color. Solid
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_magnetgrey_1.webp">
-        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_magnetgrey_1_st.webp" class="img-fluid" alt="Audi Q8 e-tron in in magnet grey with black optics" title="Audi Q8 e-tron in in magnet grey with black optics">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_magnetgrey_1_st.webp" class="img-fluid" alt="Audi Q8 e-tron i magnetgrå med sort optikk" title="Audi Q8 e-tron i magnetgrå med sort optikk">
     </a>
-    <figcaption><h4>Audi Q8 e-tron in in magnet grey with black optics</h4></figcaption>
+    <figcaption><h4>Audi Q8 e-tron i magnetgrå med sort optikk</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_magnetgrey_2.webp">
-        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_magnetgrey_2_st.webp" class="img-fluid" alt="Audi Q8 e-tron in in magnet grey with black optics" title="Audi Q8 e-tron in in magnet grey with black optics">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_magnetgrey_2_st.webp" class="img-fluid" alt="Audi Q8 e-tron i magnetgrå med sort optikk" title="Audi Q8 e-tron i magnetgrå med sort optikk">
     </a>
-    <figcaption><h4>Audi Q8 e-tron in in magnet grey with black optics</h4></figcaption>
+    <figcaption><h4>Audi Q8 e-tron i magnetgrå med sort optikk</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_magnetgrey_3.webp">
-        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_magnetgrey_3_st.webp" class="img-fluid" alt="Audi Q8 e-tron in in magnet grey with black optics" title="Audi Q8 e-tron in in magnet grey with black optics">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_magnetgrey_3_st.webp" class="img-fluid" alt="Audi Q8 e-tron i magnetgrå med sort optikk" title="Audi Q8 e-tron i magnetgrå med sort optikk">
     </a>
-    <figcaption><h4>Audi Q8 e-tron in in magnet grey with black optics</h4></figcaption>
+    <figcaption><h4>Audi Q8 e-tron i magnetgrå med sort optikk</h4></figcaption>
 </figure>
 
 
@@ -490,7 +490,7 @@ Fargekode: **X6R**
 
 Color code: Z6X
 
-From Audi Smista [@audismista](https://www.instagram.com/audismista/?hl=en) 
+From Audi Smista [@audismista](https://www.instagram.com/audismista/?hl=en)
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_goodwoodgreen_1.webp">

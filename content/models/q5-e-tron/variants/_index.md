@@ -21,7 +21,7 @@ The entry variant with rear-wheel drive and a single electric motor.
 | 0–100 km/h | 9.3 s |
 | Top speed | 160 km/h |
 | CLTC range | 560 km |
-| CLTC consumption | 13.7 kWh/100 km |
+| CLTC consumption | 15.9 kWh/100 km |
 | Battery (gross) | 83.4 kWh |
 | Battery (net) | 76.6 kWh |
 | Battery chemistry | NMC |
@@ -38,7 +38,7 @@ The performance variant with dual electric motors and quattro all-wheel drive.
 | 0–100 km/h | 6.7 s |
 | Top speed | 160 km/h |
 | CLTC range | 550 km |
-| CLTC consumption | 13.9 kWh/100 km |
+| CLTC consumption | 16.2 kWh/100 km |
 | Battery (gross) | 83.4 kWh |
 | Battery (net) | 76.6 kWh |
 | Battery chemistry | NMC |
@@ -55,7 +55,8 @@ Both variants share the following:
 | Height | 1,675 mm |
 | Wheelbase | 2,965 mm |
 | Ground clearance | 180 mm |
-| Trunk capacity | 560 L |
+| Seating | Six or seven seats across three rows |
+| Maximum cargo volume | Up to 1,825 L |
 | Max roof load | 75 kg |
 | Max trailer weight (braked) | 1,200 kg |
 | Charge port location | Left rear side |

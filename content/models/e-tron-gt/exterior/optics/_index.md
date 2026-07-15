@@ -170,7 +170,7 @@ The grill can be delivered in 3 different stylings
 
 ### Singleframe in Hekla grey
 
-This has option id **6HO** and is standard on Audi e-tron GT. This is only available with standard optics. Not avaiable on RS e-tron GT.
+This has option id **6HO** and is standard on Audi e-tron GT. This is only available with standard optics. Not available on RS e-tron GT.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/optics/standardoptics_singleframehekla_1.webp">
@@ -206,7 +206,7 @@ This has option id **6H1** and is standard on Audi RS e-tron GT. Can be combined
 
 ### Singleframe in polished black
 
-This has option id **6H2**. Only avaiable with black optic, black optic plus and carbon optics.
+This has option id **6H2**. Only available with black optic, black optic plus and carbon optics.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/optics/carbonoptics_singleframeblack_1.webp">

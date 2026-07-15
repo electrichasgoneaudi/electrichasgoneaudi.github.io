@@ -91,7 +91,7 @@ You can get the Auxiliary air conditioner with extra convenience as an option. W
 
 ### Double heat elements
 
-The standar heater is 5 KW. As option **7E4** you can get a second heat element on 5KW giving in total 10KW of heat.
+The standard heater is 5 KW. As option **7E4** you can get a second heat element on 5KW giving in total 10KW of heat.
 
 This is standard in some cold markets.
 

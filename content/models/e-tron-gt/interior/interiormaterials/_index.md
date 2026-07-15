@@ -5,13 +5,13 @@ description: You can select specific interior materials to give Audi e-tron GT a
 weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
-There are serveral levels of interior trim and different design packages.
+There are several levels of interior trim and different design packages.
 
 ## Standard
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_1.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_1s.webp" 
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_1s.webp"
         class="img-fluid" alt="Standard interior trim" title="Standard interior trim">
     </a>
     <figcaption><h4>Standard interior trim</h4></figcaption>
@@ -19,7 +19,7 @@ There are serveral levels of interior trim and different design packages.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_2.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_2.webp" 
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_2.webp"
         class="img-fluid" alt="Standard interior trim" title="Standard interior trim">
     </a>
     <figcaption><h4>Standard interior trim</h4></figcaption>
@@ -27,18 +27,18 @@ There are serveral levels of interior trim and different design packages.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_3.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_3s.webp" 
-        class="img-fluid" alt="Standard dashboard with syntetic leather and carbon inlay" title="Standard dashboard with syntetic leather and carbon inlay">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_3s.webp"
+        class="img-fluid" alt="Standard dashboard with synthetic leather and carbon inlay" title="Standard dashboard with synthetic leather and carbon inlay">
     </a>
-    <figcaption><h4>Standard dashboard with syntetic leather and carbon inlay</h4></figcaption>
+    <figcaption><h4>Standard dashboard with synthetic leather and carbon inlay</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_4.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_4s.webp" 
-        class="img-fluid" alt="Standard dashboard with syntetic leather and carbon inlay" title="Standard dashboard with syntetic leather and carbon inlay">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/interior/interiormaterials/interior_standard_4s.webp"
+        class="img-fluid" alt="Standard dashboard with synthetic leather and carbon inlay" title="Standard dashboard with synthetic leather and carbon inlay">
     </a>
-    <figcaption><h4>Standard dashboard with syntetic leather and carbon inlay</h4></figcaption>
+    <figcaption><h4>Standard dashboard with synthetic leather and carbon inlay</h4></figcaption>
 </figure>
 
 ## Upper and lower part of dashboard in leather and Dinamica
@@ -159,4 +159,4 @@ Audi exclusive cognac brown-jet gray design package for sport seats per front in
 - Plastic attachments in black
 - Floor mats in black with piping in black and contrasting stitching in jet gray
 
-An offer from Audi Sport GmbH 
+An offer from Audi Sport GmbH

@@ -11,8 +11,8 @@ weight: 30
 
 ## myAudi App
 
-- Why I am not able to control my car throug myAudi? 
-  
+- Why can't I control my car through myAudi?
+
 ## Consumption & Range
 
 - What is the most efficient recupperation mode

@@ -1,12 +1,12 @@
 ---
 title: Audi Q8 e-tron garage door opener
 linktitle: Garage door opener
-description: You can order Audi Q8 e-tron with a programmable garage door opener. 
+description: You can order Audi Q8 e-tron with a programmable garage door opener.
 weight: 15
 ---
 <!-- markdownlint-disable MD033 -->
 
-The garage door opener support up to 8 ports and the yan be mapped to a GPS location making the car to suggest the correct port to open based on location. Your garage port openered neds to be [homelink comatible](https://www.homelink.com/).
+The programmable garage-door opener supports up to eight doors. A stored door can be associated with a GPS location so that the car suggests the relevant control when it approaches. The garage-door system must be [HomeLink compatible](https://www.homelink.com/).
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/technology/garagedooropener/opener2.webp">
@@ -35,7 +35,7 @@ The garage door opener support up to 8 ports and the yan be mapped to a GPS loca
 
 This is option **VC2**
 
-The below video show how it can be programmed
+The following video shows how it can be programmed
 
 {{< youtube bTaQN1YJ0hU >}}
 

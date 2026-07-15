@@ -1,9 +1,11 @@
 ---
 title: Audi e-tron GT utstyrsguide
 linktitle: Utstyrsguide
-description: Audi e-tron GT og Audi RS e-tron GT har så mange utstyr og tilvalgsmuligheter at det er nesten umulig å få den hele oversikten. Her prøver vi å hjelpe deg med oversikten samt å identifisere de viktigste tilvalgene du må vurdere.
+description: Historisk guide til viktige tilvalg på den opprinnelige Audi e-tron GT-serien for modellårene 2021–2024.
 weight: 100
 ---
+
+> **Historisk guide:** Pakkene og utstyrskodene på denne siden beskriver den opprinnelige e-tron GT-serien for modellårene 2021–2024. De gjelder ikke de oppdaterte modellene fra modellår 2025, og tilgjengeligheten varierte mellom markedene.
 
 Guiden er basert på grunnmodellen. Mange markeder har trimpakke med tilleggsutstyr. Norge har f.eks Plus og Pro pakkene med mange tilvalg inkludert.
 
@@ -11,30 +13,30 @@ Nedenfor er de viktigste tilvalgene du må vurdere når du kjøper en e-tron GT
 
 ![Privacy Windows](https://media.evkx.net/ehga/models/e-tron-gt/exterior/paint/paint_daytona_2s.webp)
 
-## Privacy vinduer: tilvalg QL5
+## Mørktonede ruter: tilvalg QL5
 
-Improves looks a lot and you dont need to drive around in a fish tank on display.
+Mørktonede ruter gir et mørkere uttrykk og reduserer innsynet i bakre del av kupeen.
 
-[See windows for details](../exterior/windows/#privacy-glass)
+[Se detaljer om rutene](../exterior/windows/#privacy-glass)
 
-## Tour package: Option ID PCC
+## Assistentpakke tur: utstyrskode PCC
 
-The tour package contains most of the important driver assist functionality  like [Adaptive Cruise Assist](../technology/drivingassistance/adaptivecruiseassist/), [Adaptive Cruise Control](../technology/drivingassistance/adaptivecruisecontrol/),  [Predictive efficiency assist](../technology/drivingassistance/predictiveefficiencyassist/), [Turn Assist](../technology/drivingassistance/turnassist/), [Collision avoidance assist](../technology/drivingassistance/collisionavoidanceassist/), [Traffic sign recognition](../technology/drivingassistance/trafficsignrecognition/), [Emergency Assist](../technology/drivingassistance/emergencyassist/)
+Assistentpakke tur samlet blant annet [adaptiv kjøreassistent](../technology/drivingassistance/adaptivecruiseassist/), [adaptiv cruisekontroll](../technology/drivingassistance/adaptivecruisecontrol/), [prediktiv effektivitetsassistent](../technology/drivingassistance/predictiveefficiencyassist/), [svingassistent](../technology/drivingassistance/turnassist/), [unnamanøvreringsassistent](../technology/drivingassistance/collisionavoidanceassist/), [trafikkskiltgjenkjenning](../technology/drivingassistance/trafficsignrecognition/) og [nødstoppassistent](../technology/drivingassistance/emergencyassist/).
 
-## City package PCM
+## Assistentpakke by: utstyrskode PCM
 
-The City assist package include [Side Assist](../technology/drivingassistance/sideassist/), [exit warning](../technology/drivingassistance/exitwarning/), [cross traffic assist rear](../technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](../technology/drivingassistance/presenserear/), [Audi pre sense side](../technology/drivingassistance/presenseside/) and [crossing assist](../technology/drivingassistance/crossingassist/)
+Assistentpakke by omfattet [side assist](../technology/drivingassistance/sideassist/), [utstigningsvarsel](../technology/drivingassistance/exitwarning/), [krysstrafikkassistent bak](../technology/drivingassistance/crosstrafficassistrear/), [Audi pre sense rear](../technology/drivingassistance/presenserear/), [Audi pre sense side](../technology/drivingassistance/presenseside/) og [kryssassistent](../technology/drivingassistance/crossingassist/).
 
 ![QQ2](https://media.evkx.net/ehga/models/e-tron-gt/interior/lights/ambientlight_1s.webp)
 
-## Multicolour ambient lightning: Option ID QQ2
+## Flerfarget ambientebelysning: utstyrskode QQ2
 
-With multicolor ambient lightning the look and feel inside the car gets to another planet.
+Flerfarget ambientebelysning gir konfigurerbar effekt- og konturbelysning i kupeen.
 
-[See ambient lightning to get convinced](../interior/ambientlights/)
+[Se detaljer om ambientebelysningen](../interior/ambientlights/)
 
 ## Fullstendig utstyrsliste
 
-Se the [complete equipment list](list) for all options.
+Se den [fullstendige historiske utstyrslisten](list) for flere tilvalg.
 
 {{<children description="true" />}}

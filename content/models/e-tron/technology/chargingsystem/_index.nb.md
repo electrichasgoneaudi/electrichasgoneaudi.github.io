@@ -12,7 +12,7 @@ For nivå 1 (120 volt vekselstrøm) og nivå 2 (230/400 volt vekselstrøm), fore
 
 Den er for øyeblikket tilgjengelig i to versjoner og er ment for bruk når en fast installasjon på nivå 2 eller nivå 3 ikke er tilgjengelig og du må lade din e-tron fra en husholdnings- eller industrikontakt.
 
-I USA har ladesystemet en [J1772-kontakt](https://en.wikipedia.org/wiki/SAE_J1772) for å koble til bilen, mens det i Europa har en [Type 2-kontakt](https://no) .wikipedia.org/wiki/Type_2_connector).
+I USA har ladesystemet en [J1772-kontakt](https://en.wikipedia.org/wiki/SAE_J1772) for tilkobling til bilen, mens den europeiske versjonen bruker en [Type 2-kontakt](https://en.wikipedia.org/wiki/Type_2_connector).
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/technology/chargingsystem/chargeport_left.webp">

@@ -1,7 +1,7 @@
 ---
 title: Audi Q8 e-tron wheels
 linktitle: Wheels
-description: Audi Q8 e-tron have serveral wheels to choose from.
+description: The Audi Q8 e-tron offers several wheel designs.
 weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
@@ -387,7 +387,7 @@ Audi sport wheels for Audi e-tron S. Part no **U99** Tires 285/40 R21
 
 ## 21" inch 10.5J 5-arm star design
 
-Audi sport wheels for e-tron 60S. Part No: **U95** Tires 285/40 R21 
+Audi sport wheels for e-tron 60S. Part No: **U95** Tires 285/40 R21
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/exterior/wheels/wheel_U95_1.webp">
@@ -527,4 +527,3 @@ Audi sport wheels for e-tron 60S. Dimensjon 10,5 J x 22 with 285/35 R 22 tires. 
     </a>
     <figcaption><h4>22" 5-arms interferenz-design black</h4></figcaption>
 </figure>
-

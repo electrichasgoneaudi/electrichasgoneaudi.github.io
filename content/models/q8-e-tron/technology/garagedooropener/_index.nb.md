@@ -6,7 +6,7 @@ weight: 11
 ---
 <!-- markdownlint-disable MD033 -->
 
-Garasjeportåpneren støtter opptil 8  porter og kan bli knyttet til en GPS lokasjon. Garasjeportåpneren må være [homelink kompatibel](https://www.homelink.com/).
+Den programmerbare garasjeportåpneren støtter opptil åtte porter. En lagret port kan knyttes til en GPS-posisjon, slik at bilen foreslår riktig kontroll når den nærmer seg. Portsystemet må være [HomeLink-kompatibelt](https://www.homelink.com/).
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/technology/garagedooropener/opener2.webp">

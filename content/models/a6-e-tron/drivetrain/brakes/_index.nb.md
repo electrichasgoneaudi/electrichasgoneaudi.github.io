@@ -1,7 +1,7 @@
 ---
-title: Audi Q6 e-tron bremser
+title: Audi A6 e-tron bremser
 linktitle: Bremser & regenering
-description: Audi Q6 e-tron bruker et elektrohydraulisk integrert bremsekontrollsystem.
+description: Audi A6 e-tron bruker et elektrohydraulisk integrert bremsekontrollsystem.
 weight: 7
 sectiontabs: "/nb/models/a6-e-tron/drivetrain/"
 ---

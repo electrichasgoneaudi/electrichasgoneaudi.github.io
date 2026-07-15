@@ -1,29 +1,12 @@
 ---
-title: Audi Q6 e-tron head-up display
+title: Audi Q6 e-tron augmented-reality head-up display
 linktitle: Head-up display
-description: Audi Q6 e-tron can be equipped with head-up-display
+description: The optional augmented-reality head-up display places driving and navigation information in the driver's field of view.
 weight: 4
 ---
-<!-- markdownlint-disable MD033 -->
 
-The head-up display projects information relevant to the driver as symbols and numbers that can be quickly perceived within the driver’s direct field of view, including navigation and warning messages and data from assistance systems. The human eye perceives the information extremely quickly – and there’s no need for drivers to refocus from their accustomed long-range view.
+The Audi Q6 e-tron can be equipped with an augmented-reality head-up display. It projects information such as speed, traffic signs, navigation guidance and driver-assistance status onto the windshield.
 
-<figure>
-    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/headupdisplay/headup.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/headupdisplay/headup.webp"
-        class="img-fluid" alt="Heads up display on Audi Q8 e-tron" title="Heads up display on Audi Q8 e-tron">
-    </a>
-    <figcaption><h4>Heads up display on Audi Q8 e-tron</h4></figcaption>
-</figure>
+The projected image plane is tilted forward to strengthen the impression that selected graphics are integrated with the road ahead. Navigation and assistance symbols can appear at a virtual distance of up to about 200 metres. From the driver's position, the augmented-reality field of view corresponds to a display with a diagonal of roughly 88 inches.
 
-The image is projected onto the windshield. The information appears to hover around two meters (6.6 ft) in front of the driver within a visual window measuring 200 x 80 mm (7.9 x 3.1 in). A TFT monitor with white LED backlighting generates the color image. Two aspherical mirrors magnify and redirect the image. The mirrors also compensate for any distortions due to the curvature of the windshield. The driver can use the Audi MMI to specify which information should be shown in the head-up display; the height and brightness can also be adjusted here.
-
-<figure>
-    <a href="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/headupdisplay/headup2.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron/technology/uiandoperations/headupdisplay/headup2s.webp"
-        class="img-fluid" alt="Headup with route information and efficient assistant suggesting to slow down" title="Headup with route information and efficient assistant suggesting to slow down">
-    </a>
-    <figcaption><h4>Headup with route information and efficient assistant suggesting to slow down</h4></figcaption>
-</figure>
-
-The head up display has optionId **KS1**
+The driver can adjust the display's position and brightness through the MMI. Availability varies by market, variant and equipment package.

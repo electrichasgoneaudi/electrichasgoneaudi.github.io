@@ -16,7 +16,7 @@ Below you see the range of the different current and some future Audi models. Th
 
 The most important aspect of range is of course how large the battery is. A larger battery means more energy to use.
 
-The below chart shows the available battery size for the different models.
+The following chart shows the available battery size for the different models.
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/guides/understandingrange/batterysize_st.webp" width="2075" height="1478" title="Available battery all-electric Audis" >}}
 
@@ -25,7 +25,7 @@ But the battery is not the only factor in the stated range. Another important fa
 And with efficiency, it means how much energy is used from the battery for a given distance. In Europe, it is typical stated as kWh/100km meaning
 how many kWh is needed to drive 100km. In the US and the UK, it is rated as miles per kWh, meaning how far can you go with 1 kWh.
 
-The below diagram shows the calculated consumption in kWh/100km for the different all-electric models is according to WLTP combined rating.
+The following diagram shows the calculated consumption in kWh/100km for the different all-electric models is according to WLTP combined rating.
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/guides/understandingrange/wltpconsumptionbasictrim_st.webp" width="2059" height="1284" title="Calculated consumption kWh/100km" >}}
 
@@ -41,11 +41,11 @@ Audi A6 e-tron concept is currently the model with the lowest [drag coefficient]
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/guides/understandingrange/audia6etron_st.webp" width="2059" height="1284" title="Audi A6 e-tron with Cw value of only 0.22" >}}
 
-In the below graph you see how much consumption the aerodynamic drag causes for the different model series for Audi.
+In the following graph you see how much consumption the aerodynamic drag causes for the different model series for Audi.
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/guides/understandingrange/aerodynamicdrags_st.webp" width="2976" height="1721" title="Consumption caused by aerodynamic dra" >}}
 
-Beregnede verdier for forbruk som kun kommer fra aerodynamisk luftmotstand basert på 80 % drivlinjeseffektivitet.
+Calculated consumption caused only by aerodynamic drag, assuming 80% drivetrain efficiency.
 
 | Speed | Audi e-tron 55 | Audi Q4 e-tron | Audi e-tron GT |
 |-----|---------|-----------|----------|
@@ -53,9 +53,9 @@ Beregnede verdier for forbruk som kun kommer fra aerodynamisk luftmotstand baser
 | 80km/h (49.7mph) | 7.79 kWh/100km | 7.52 kWh/100km | 5.92kWh/100km |
 | 120km/h (74.6mph) | 17.53kWh/100km | 16.94kWh/100km | 13.33kWh/100km |
 
-Du ser hvordan Audi e-tron GT i høy hastighet sparer mye energi sammenlignet med suven på grunn av mindre aerodynamisk luftmotstand.
+At high speeds, the Audi e-tron GT uses substantially less energy than the SUV because its aerodynamic drag is lower.
 
-Disse verdiene er basert på luftmotstandskoeffisienten og størrelsen på frontområdet til modellene 
+Disse verdiene er basert på luftmotstandskoeffisienten og størrelsen på frontområdet til modellene
 
 | Model | Drag coefficient (cd) | Frontal area |
 |----|-----|------|
@@ -98,7 +98,7 @@ Induction motors use a little more energy to move but have almost zero coasting 
 Newer cars often combine these two techniques having a rear synchronous motor always in use and an induction motor in front. Example Audi Q4 e-tron quattro 50.
 
 Audi is working on the new PPE platform and already now we know that
-this drivetrain will have a improved effiency
+this drivetrain will have a improved efficiency
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/technology/bev-platforms/ppe/ppepresentation2_st.webp" width="2016" height="1147" title="PPE Drivetrain" >}}
 
@@ -112,7 +112,7 @@ Many of the above factors are fixed. Like the e-tron Sportback has less drag tha
 
 But other factors are affected by the equipment you add to your car. If you buy wider tires, you will get a higher consumption and then a shorter range.
 
-The below diagram shows hows adding the max options of the car increase the WLTP consumption.
+The following diagram shows how selecting the heaviest and least aerodynamic options increases WLTP consumption.
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/guides/understandingrange/optionsconsumption_st.webp" width="2276" height="1536" title="WLTP Consumption added with options" >}}
 
@@ -122,7 +122,7 @@ Reducing the range from 441km (274 miles)  to 369km (229 miles).
 ## What affects the real-world consumption
 
 In the real world, it is almost impossible to get the same range as given by WLTP or EPA. This is because that range is based on
-ideal driving conditions with specific behavior.  
+ideal driving conditions with specific behavior.
 
 ### Road condition
 
@@ -142,7 +142,7 @@ In addition, warm and cold weather could increase the consumption of air conditi
 Both the given WLTP and EPA ranges are based on running cars without heating/AC. The diagram below shows
 how adding 5KW heating on top of the WLTP consumption will affect range.  Up to 41% without considering more road resistance.
 
-This not something that easily can be resolved. Heatpump can reduce this heat consumption depending on temprature. Better insulation of the cars also
+This not something that easily can be resolved. Heatpump can reduce this heat consumption depending on temperature. Better insulation of the cars also
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/guides/understandingrange/heating_st.webp" width="1855" height="847" title="How 5KW heating affect range on Audi Q4 50 e-tron and Audi e-tron 55" >}}
 
@@ -167,7 +167,7 @@ Below you see some typical questions.
 
 ![Facebook questions](https://media.evkx.net/ehga/guides/understandingrange/facebook.webp "Questions from owners about range indication")
 
-So how does the range indicator works? 
+So how does the range indicator works?
 
 The range indicator  base its range on the following data
 

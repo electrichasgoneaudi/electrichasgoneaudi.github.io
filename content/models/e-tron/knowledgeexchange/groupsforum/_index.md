@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron forum and groups
 linktitle: Forum & groups
-description: Online dicussion forum and groups where you can discuss Audi e-tron
+description: Online discussion forum and groups where you can discuss Audi e-tron
 weight: 32
 ---
 

@@ -5,7 +5,7 @@ description: Hvordan programmerer du garasjeportåpner og kopler den til en GPS 
 weight: 30
 ---
 
-Hvis bilen har garasjeportåpner som ekstra utstyr kan du prorammere denne og tilegne den en GPS posisjon slik at det popper opp et valg for å åpne poren når du nærmer den den posisjonen du har angitt, typisk når du kommer hjem
+Hvis bilen har garasjeportåpner som ekstrautstyr, kan du programmere den og knytte den til en GPS-posisjon. Da vises et valg for å åpne porten når du nærmer deg den angitte posisjonen, for eksempel når du kommer hjem.
 
 Her er stegene
 
@@ -24,4 +24,3 @@ Velg pluss tegnet for å legge til en ny garasjeport, eller ev penen for å oppd
 Følg anvisningene
 
 ![alt text](image-3.png)
-

@@ -1,20 +1,20 @@
 ---
 title: Audi e-tron GT
 linktitle: Audi e-tron GT
-description: Audi e-tron GT is the second all-electric model from Audi. With the Audi RS e-tron GT version, Audi has made their most powerful RS-model ever. And the design makes it one of the most beautiful car in our time. 
+description: The Audi e-tron GT is an electric four-door Gran Turismo with quattro drive, 800-volt charging and outputs up to 680 kW.
 weight: 2
 shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-The car is built on the J1 Performance platform, a platform jointly developed by Audi and Porsche.
 
-Two powerful electric motors provide dynamic driving performance and confident electric all-wheel drive. With its net energy content of 84 kWh, the high-voltage battery enables ranges of up to 488 km (303.2 mi) and can be recharged extremely quickly, thanks to its 800 V technology.
+The Audi e-tron GT is a four-door electric Gran Turismo built on the J1 performance platform shared with the Porsche Taycan. Audi launched the original model in 2021, introduced a substantially updated family in 2024 and added the current e-tron GT quattro entry version in 2025.
+
+The current range comprises the **e-tron GT quattro, S e-tron GT, RS e-tron GT and RS e-tron GT performance**. Every version uses two electric motors, quattro all-wheel drive and a high-voltage battery with **105 kWh gross and 97 kWh usable capacity**.
+
+Maximum DC charging power is **320 kW**. Under ideal conditions, Audi specifies approximately **18 minutes from 10 to 80 percent**. The e-tron GT quattro reaches up to **622 km WLTP**, while the RS e-tron GT performance delivers up to **680 kW** and accelerates from 0 to 100 km/h in 2.5 seconds.
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/e-tron-gt/variants/variants_2_st.webp" width="3000" height="2250" title="Audi S e-tron GT, Audi RS e-tron GT and Audi RS e-tron GT performance" >}}
 
-
-Audi e-tron GT has a wide range of options and advanced driving technologies. Here on electrichasgoneaudi.net, you find all details about e-tron GT. Everything from the different wheels to choose from to how the different driving assist system works.
-
-Below you find the different sections about e-tron GT.
+Use the sections below for the current [variants](variants/), exterior and interior choices, drivetrain details, technology and ownership information. Generated model data remains available under [Specifications](specifications/).
 
 {{<children description="true" />}}

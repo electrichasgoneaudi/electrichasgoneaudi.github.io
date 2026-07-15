@@ -177,8 +177,8 @@ Audi Q4 e-tron her flere valg på interiør. Kikk nedenfor for detaljert informa
 | Utstyr |Beskrivelse | ID |
 |-----|------|------|
 | [Innvendig belysning](../../interior/lights/#standard-interior-lights) | Standard | QQO |
-| [Ambiente lyspakke](../../interior/lights/#ambiente-lyspakke) | hvit | QQ8 |  
-| [Ambiente lyspakke plus](../../interior/lights//#ambiente-lyspakke-plus)| flerfarget | QQ9 |  
+| [Ambiente lyspakke](../../interior/lights/#ambiente-lyspakke) | hvit | QQ8 |
+| [Ambiente lyspakke plus](../../interior/lights//#ambiente-lyspakke-plus)| flerfarget | QQ9 |
 | Innstegslister i aluminium foran med lys  |  | VT4|
 | Setevarme foran | Standard | 4A3 |
 | Ikkerøykerpakke | Standard | 9JA |
@@ -206,7 +206,7 @@ Audi Q4 e-tron har en rekke infotainmentvalg. Klikk nedfor for detaljert informa
 | [MMI navigasjon plus med MMI touch](../../technology/uiandoperations/navigation) | Inkludert i PYG/PYH | 7UG |
 | [AR-head up display](../../technology/uiandoperations/headupdisplay/) | Included in PYH  | KS3 |
 | [Digitalt kombiinstrument](../../technology/uiandoperations/virtualcockpit/#standard-digital-instrumention-cluster) | Standard | 7J2 |
-| [Audi virtual cockpit](../../technology/uiandoperations/virtualcockpit/) |   | 9S1 | 
+| [Audi virtual cockpit](../../technology/uiandoperations/virtualcockpit/) |   | 9S1 |
 | [Kamerabasert trafikkskiltgjenkjenning](../../technology/drivingassistance/trafficsignrecognition/) | Included in PYG/PYH  | QR9 |
 | MMI Navigasjon pro pakke| Inkluder [MMI navigation plus med MMI touch](../../technology/uiandoperations/navigation), [Audi Virtual cockpit plus](https://electrichasgoneaudi.net../../technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus) [Kamerabasert trafikkskiltgjenkjenning](../../technology/drivingassistance/trafficsignrecognition/), [Audi Smartphone interface](../../technology/uiandoperations/smartphoneinterface/) and  [AR-head up display](../../technology/uiandoperations/headupdisplay/) | PYH |
 | MMI Navigation plus pakke | Inkluder [MMI navigation plus med MMI touch](../../technology/uiandoperations/navigation), [Audi Virtual cockpit](../../technology/uiandoperations/virtualcockpit/) [Camera based traffic sign recognintion](../../technology/drivingassistance/trafficsignrecognition/) |  PYG |
@@ -217,8 +217,8 @@ Audi Q4 e-tron har en rekke infotainmentvalg. Klikk nedfor for detaljert informa
 
 | Utstyr |Beskrivelse | ID |
 |-----|------|------|
-| [Audi Sound System](../../technology/soundsystem/#audi-sound-system) | Standard | 9VD | 
-| [Sonos Premium Sound system](../../technology/soundsystem/#sonos-lydsystem) |  | 9VS | 
+| [Audi Sound System](../../technology/soundsystem/#audi-sound-system) | Standard | 9VD |
+| [Sonos Premium Sound system](../../technology/soundsystem/#sonos-lydsystem) |  | 9VS |
 | DAB Digital Radio | Standard some markets | QV3 |
 | MMI Radio Plus |  | 7QD |
 
@@ -240,7 +240,7 @@ Audi Q4 e-tron har en rekke infotainmentvalg. Klikk nedfor for detaljert informa
 |-----|------|------|
 | [Hastighetsbegrenser](../../technology/drivingassistance/speedlimiter/)   |  configurable speed limiter | 8T9 |
 | [Cruise control med hastighetsbegrenser](../../technology/drivingassistance/cruisecontrol/)   |  configurable speed limiter | PYJ |
-| [Active lane assist](../../technology/drivingassistance/activelaneassist/) | Standard | 6I3 | 
+| [Active lane assist](../../technology/drivingassistance/activelaneassist/) | Standard | 6I3 |
 | [Collision avoidance assist](../../technology/drivingassistance/collisionavoidanceassist/) | Standard | 4G3 |
 | [Audi Pre Sense Front](../../technology/drivingassistance/presensefront/) | Standard | 8J3 |
 | [Parkeringssystem bak](../../technology/drivingassistance/parkingsystemrear/) | Standard | 7X1 |
@@ -248,8 +248,8 @@ Audi Q4 e-tron har en rekke infotainmentvalg. Klikk nedfor for detaljert informa
 | [Ryggekamera](../../technology/drivingassistance/reversingcamera/)  |  Rear camera | KA2 |
 |  Assistentsystempakke |  Inkluderer  [Cruise control med hastighetsbegrenser](../../technology/drivingassistance/cruisecontrol/) og [Parking system plus](../../technology/drivingassistance/parkingsystemplus/) | PYK |
 | Assistentsystempakke plus | Inkluder  [Adaptive Cruise control med hastighetsbegrenser](../../technology/drivingassistance/adaptivecruisecontrol/), [Parking system plus](../../technology/drivingassistance/parkingsystemplus/) og [Reversing camera](../../technology/drivingassistance/reversingcamera/) | PYL |
-| Assistentsystempakke Pro med ryggekamera  | Inkluderer [Adaptivce Cruise Assist](../../technology/drivingassistance/adaptivecruiseassist/),    [nødstoppassistent](../../technology/drivingassistance/emergencyassist/), [Adaptive Cruise control](../../technology/drivingassistance/adaptivecruisecontrol/), [Parkeringshjelp plus](../../technology/drivingassistance/parkingsystemplus/) og [Ryggekamera](../../technology/drivingassistance/reversingcamera/) | PY7 |
-| Assistentsystempakke Pro med 360 kamera  | Inkluderer [Adaptivce Cruise Assist](../../technology/drivingassistance/adaptivecruiseassist/),[nødstoppassistent](../../technology/drivingassistance/emergencyassist/), [Adaptive Cruise control](../../technology/drivingassistance/adaptivecruisecontrol/), [Parkeringshjelp plus](../../technology/drivingassistance/parkingsystemplus/) og [360 kamera](../../technology/drivingassistance/360camera/) | PY5 |
+| Assistentsystempakke Pro med ryggekamera  | Inkluderer [Adaptive Cruise Assist](../../technology/drivingassistance/adaptivecruiseassist/),    [nødstoppassistent](../../technology/drivingassistance/emergencyassist/), [Adaptive Cruise control](../../technology/drivingassistance/adaptivecruisecontrol/), [Parkeringshjelp plus](../../technology/drivingassistance/parkingsystemplus/) og [Ryggekamera](../../technology/drivingassistance/reversingcamera/) | PY7 |
+| Assistentsystempakke Pro med 360 kamera  | Inkluderer [Adaptive Cruise Assist](../../technology/drivingassistance/adaptivecruiseassist/),[nødstoppassistent](../../technology/drivingassistance/emergencyassist/), [Adaptive Cruise control](../../technology/drivingassistance/adaptivecruisecontrol/), [Parkeringshjelp plus](../../technology/drivingassistance/parkingsystemplus/) og [360 kamera](../../technology/drivingassistance/360camera/) | PY5 |
 |  Sikkerhetspakke plus |  Inkluderer [filskifteassisten](../../technology/drivingassistance/sideassist/), [utstigningsvarsling](../../technology/drivingassistance/exitwarning/), [assistent for kryssende trafikk bak](../../technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](../../technology/drivingassistance/presenserear/). | PYU |
 
 ## Understell/Bremser

@@ -81,7 +81,7 @@ If you have done many short trips in cold weather, you would have spent lots of 
 
 If a route is defined in the car navigation system the car would adjust range based on elevation and road ahead.
 
-The below table show the calculated range based on different average consumption for and Audi Q4 40/45/50 with 76.6kWh available battery.
+The following table shows the calculated range based on different average consumption for and Audi Q4 40/45/50 with 76.6kWh available battery.
 
 |consumption kWh/100|consumption miles/kWh|Calculated range km|Calculated range miles|
 |---|---|--|---------|

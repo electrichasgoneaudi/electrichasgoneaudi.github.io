@@ -24,6 +24,5 @@ Videoen nedenfor viser en test av dette systemet
 
 {{< youtube vjsfMmJ4AiM>}}
 
-Dette alternativet er en del av tursjåførassistansepakken med alternativ-ID **PCC**
 
 {{<children description="true" />}}

@@ -1,7 +1,7 @@
 ---
 title: Audi A6 e-tron wheels
 linktitle: Wheels
-description: Audi A6 e-tron have serveral wheels to choose from.
+description: The Audi A6 e-tron offers several wheel designs.
 weight: 4
 sectiontabs: "/models/a6-e-tron/exterior/"
 ---
@@ -92,7 +92,7 @@ The following wheels is available to select to Audi A6 e-tron
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/wheels/wheeloption_56e_2_st.webp" width="1920" height="1440"  title="Audi Sport, 5-Arm Dynamic, black metallic, high-gloss turned" >}}
 
 
-## 21" Audi Sport, 5-Double Spoke, black metallic, high-gloss turned, darkened 
+## 21" Audi Sport, 5-Double Spoke, black metallic, high-gloss turned, darkened
 
 8,5 J | 9,5 J x 21, Tires 245/40 | 275/35 R 21
 

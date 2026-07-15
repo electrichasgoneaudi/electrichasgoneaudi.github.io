@@ -12,7 +12,7 @@ Det er tre forskjellige nivåer av frontlykter og DRL på Audi Q6 e-tron.
 
 ### Standard LED-frontlykter og DRL
 
-Som standard leverer Audi Audi Q6 med LED-lykter og DRL.
+Som standard leveres Audi Q6 e-tron med LED-lykter og kjørelys.
 
 LED-frontlyktene gir en belysning av veien som ligner på dagslys og imponerer med lavt energiforbruk, lang levetid og god sikt for andre.
 

@@ -1,103 +1,36 @@
 ---
-title: Audi Q8 e-tron varianter
+title: Varianter av Audi Q8 e-tron
 linktitle: Varianter
-description: Audi Q8 e-tron is currently available in 6 different variants. Here you find which are available.
+description: Audi Q8 e-tron-familien fra 2023–2025 besto av seks SUV- og Sportback-varianter med 250, 300 eller 370 kW.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
-### Audi Q8 50 e-tron
-<figur>
-    <a href="https://media.evkx.net/ehga/models/q8-e-tron/variants/q8_50_etron.webp">
-        <img src="https://media.evkx.net/ehga/models/q8-e-tron/variants/q8_50_etron_st.webp" class="img-fluid" alt="Audi Q8 50 e-tron" title="Audi Q8 50 e-tron ">
-    </a>
-    <figcaption><h4>Audi Q8 50 e-tron</h4></figcaption>
-</figur>
 
-Audi Q8 50 e-tron er den billigste versjonen. Den har en SUV-formfaktor og det minste batteriet.
-95kWh bruttobatteri med 89 kWh tilgjengelig. WLTP-rekkevidde mellom 406-491 km avhengig av utstyrstrim. De to motorene yter 250 kW (312 hk).
+> **Utgått modell:** Audi avsluttet produksjonen av Q8 e-tron 28. februar 2025. Denne siden beskriver de seks variantene som ble produsert fra 2023 til 2025.
 
-Det er ikke mulig å skille Q8 50 e-tron fra Q8 55 e-tron etter utseende.
+| Variant | Drift | Maksimal effekt | Batteri brutto / utnyttbart | Maksimal WLTP-rekkevidde |
+|---|---|---:|---:|---:|
+| Q8 50 e-tron | Quattro med to motorer | 250 kW | 95 / 89 kWh | 491 km |
+| Q8 Sportback 50 e-tron | Quattro med to motorer | 250 kW | 95 / 89 kWh | 505 km |
+| Q8 55 e-tron | Quattro med to motorer | 300 kW | 114 / 106 kWh | 582 km |
+| Q8 Sportback 55 e-tron | Quattro med to motorer | 300 kW | 114 / 106 kWh | 600 km |
+| SQ8 e-tron | Quattro med tre motorer | 370 kW | 114 / 106 kWh | 494 km |
+| SQ8 Sportback e-tron | Quattro med tre motorer | 370 kW | 114 / 106 kWh | 513 km |
 
-[Se detaljert spesifikasjon](../specifications/#audi-q8-50-e-tron)
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q8-e-tron/sq8_and_q8_variants_st.webp" width="3000" height="2249" title="Modellfamilien Audi Q8 e-tron" >}}
 
-### Audi Q8 50 Sportback e-tron
+## Q8 50 e-tron
 
-<figur>
-    <a href="https://media.evkx.net/ehga/models/q8-e-tron/variants/q8_50_sportback_etronm.webp">
-        <img src="https://media.evkx.net/ehga/models/q8-e-tron/variants/q8_50_sportback_etronm_st.webp" class="img-fluid" alt="Audi Q8 50 Sportback e-tron" title="Audi Q8 50 Sportback e -tron">
-    </a>
-    <figcaption><h4>Audi Q8 50 Sportback e-tron</h4></figcaption>
-</figur>
+50 var innstegsdrivlinjen og brukte to motorer. SUV og Sportback hadde samme maksimale effekt på 250 kW og batteri på 95 kWh. Hjul og utstyr forklarer variasjonen mellom laveste og høyeste WLTP-rekkevidde i spesifikasjonene.
 
-Audi e-tron 50 Sportback er den billigste Sportback-versjonen. Den har en Sportback-formfaktor og det minste batteriet.
-95kWh bruttobatteri med 89 kWh tilgjengelig. WLTP-rekkevidde mellom 412-505 km avhengig av utstyrstrim. De to motorene yter 230 kW (312 hk).
+## Q8 55 e-tron
 
-Det er ikke mulig å skille Q8 50 Sportback e-tron fra Q8 55 Sportback e-tron etter utseende.
+55 kombinerte to motorer med det største batteriet på 114 kWh og leverte opptil 300 kW. Den mer aerodynamiske Sportback-versjonen hadde familiens lengste offisielle rekkevidde med opptil 600 km WLTP.
 
-[Se detaljert spesifikasjon](../specifications/#audi-q8-50-sportback-e-tron)
+## SQ8 e-tron
 
-### Audi Q8 55 e-tron
+SQ8 brukte én motor foran og to bak. De to bakmotorene muliggjorde elektrisk momentfordeling, mens maksimal boosteffekt var 370 kW og maksimalt dreiemoment 973 Nm. Både SUV og Sportback hadde elektronisk begrenset toppfart på 210 km/t.
 
-<figur>
-    <a href="https://media.evkx.net/ehga/models/q8-e-tron/variants/q8_55_etron.webp">
-        <img src="https://media.evkx.net/ehga/models/q8-e-tron/variants/q8_55_etron_st.webp" class="img-fluid" alt="Audi Q8 55 e-tron" title="Audi Q8 55 e-tron ">
-    </a>
-    <figcaption><h4>Audi Q8 55 e-tron</h4></figcaption>
-</figur>
+Se de [genererte spesifikasjonene](../specifications/) for detaljerte data og registrert utstyr for hver variant.
 
-Med 114kWh bruttobatteri (106kWh netto) og 300KW (408HP) motoreffekt.
-WLTP-rekkevidde mellom 487-582 km avhengig av utstyrstrim. De to motorene yter 300kW (408 hk).
-
-[Se detaljert spesifikasjon](../specifications/#audi-q8-55-e-tron)
-
-### Audi Q8 55 Sportback e-tron
-
-<figur>
-    <a href="https://media.evkx.net/ehga/models/q8-e-tron/variants/q8_55_sportback.webp">
-        <img src="https://media.evkx.net/ehga/models/q8-e-tron/variants/q8_55_sportback_st.webp" class="img-fluid" alt="Audi Q8 55 Sportback e-tron" title="Audi Q8 55 Sportback e -tron">
-    </a>
-    <figcaption><h4>Audi Q8 55 Sportback e-tron</h4></figcaption>
-</figur>
-
-Audi Q8 55 Sportback e-tron er Sportback-versjonen av Q8 e-tron 55. Med 114kWh bruttobatteri (106kWh netto) og 300KW (408HK) motoreffekt.
-WLTP-rekkevidde mellom 495-600 km avhengig av utstyrstrim. De to motorene yter 300kW (408 hk).
-
-[Se detaljert spesifikasjon](../specifications/#audi-Q8-55-sportback-e-tron)
-
-### Audi SQ8 e-tron
-
-<figur>
-    <a href="https://media.evkx.net/ehga/models/q8-e-tron/variants/sq8_etron.webp">
-        <img src="https://media.evkx.net/ehga/models/q8-e-tron/variants/sq8_etron_st.webp" class="img-fluid" alt="Audi SQ8 e-tron" title="Audi SQ8 e-tron">
-    </a>
-    <figcaption><h4>Audi SQ8 e-tron</h4></figcaption>
-</figur>
-
-Med sitt bredere karosseri og hjul, ser Audi SQ8 e-tron ut fra Q8 50/55 e-tron.
-
-Audi e-tron S har samme batteri som Q8 e-tron 55 med 114kWh bruttokapasitet og 106kWh nettokapasitet.
-
-Den elektriske stasjonen bruker tre elektriske motorer, hvorav to opererer på bakakselen. Den intelligente kjørekontrollen hever kjøretøysikkerheten, og spesielt dynamisk håndtering, til et nytt nivå.
- I tillegg til den elektriske firehjulsdriften er e-tron 60S utstyrt med elektrisk momentvektoring med aktiv og fullt variabel dreiemomentfordeling på bakakselen.
-
-Audi e-tron S leverer dynamikk i en ny dimensjon. I S-gir gir de full ytelse i åtte sekunder – 370 kW kraft og 973 Nm (717,6 lb-ft) dreiemoment.
-Standardsprinten tar bare 4,5 sekunder og akselerasjonen ender ved 210 km/t (130,5 mph).
-
-De nye S-modellene har to elektriske motorer på bakakselen og en på forakselen, noe som gjør dem til de første masseproduserte elbilene i verden som har tre elektriske motorer.
-
-WLTP-rekkevidde mellom 454-494 km avhengig av utstyrstrim.
-
-[Se detaljert spesifikasjon](../specifications/#audi-sq8-e-tron)
-
-### Audi SQ8 Sportback e-tron
-
-<figur>
-    <a href="https://media.evkx.net/ehga/models/q8-e-tron/variants/sq8_sportback.webp">
-        <img src="https://media.evkx.net/ehga/models/q8-e-tron/variants/sq8_sportback_st.webp" class="img-fluid" alt="Audi SQ8 Sportback e-tron" title="Audi SQ8 Sportback e-tron ">
-    </a>
-    <figcaption><h4>Audi SQ8 Sportback e-tron</h4></figcaption>
-</figur>
-
-Dette er Sportback-versjonen av Audi SQ8 WLTP-rekkevidde mellom 469-513 km avhengig av utstyrstrimning.
-
-[Se detaljert spesifikasjon](../specifications/#audi-sq8-sportback-e-tron)
+{{<children description="true" />}}

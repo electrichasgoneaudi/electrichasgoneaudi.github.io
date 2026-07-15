@@ -14,8 +14,8 @@ weight: 1
     <figcaption><h4>Reversing camera</h4></figcaption>
 </figure>
 
-It shows the calculated driving track based on the steering angle as well as auxiliary lines and guide lines. For parallel parking, the latter lines precisely direct steering into the parking space in conjunction with steering reversal points. 
- 
+It shows the calculated driving track based on the steering angle as well as auxiliary lines and guide lines. For parallel parking, the latter lines precisely direct steering into the parking space in conjunction with steering reversal points.
+
 The blue pictured surface in the camera image indicates where the vehicle will be positioned after the parking procedure.
 
 <figure>
@@ -37,6 +37,6 @@ The blue pictured surface in the camera image indicates where the vehicle will b
 
 It is activated as soon as the driver engages reverse gear or pushes the respective button.
 
-Reversing camera has option id **KA2**  It is also included in the [Assist package plus](https://electrichasgoneaudi.net/models/q4-e-tron/optionguide/list/#assistent-system) **PYL** and [Assist pacakge pro](https://electrichasgoneaudi.net/models/q4-e-tron/optionguide/list/#assistent-system) **PY7** 
+The reversing camera has option code **KA2**. It was also included in the [Assist package plus](/models/q4-e-tron/optionguide/list/#assistent-system) (**PYL**) and [Assist package pro](/models/q4-e-tron/optionguide/list/#assistent-system) (**PY7**) on applicable earlier model years.
 
 {{<children description="true" />}}

@@ -35,25 +35,25 @@ weight: 6
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/transportation/trunk_3.webp">
         <img src="https://media.evkx.net/ehga/models/e-tron-gt/transportation/trunk_3s.webp"
-        class="img-fluid" alt="The seats have a 40-20-40 confiuguration" title="The seats have a 40-20-40 confiuguration">
+        class="img-fluid" alt="The seats have a 40-20-40 configuration" title="The seats have a 40-20-40 configuration">
     </a>
-    <figcaption><h4>The seats have a 40-20-40 confiuguration</h4></figcaption>
+    <figcaption><h4>The seats have a 40-20-40 configuration</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/transportation/trunk_4.webp">
         <img src="https://media.evkx.net/ehga/models/e-tron-gt/transportation/trunk_4s.webp"
-        class="img-fluid" alt="The seats have a 40-20-40 confiuguration" title="The seats have a 40-20-40 confiuguration">
+        class="img-fluid" alt="The seats have a 40-20-40 configuration" title="The seats have a 40-20-40 configuration">
     </a>
-    <figcaption><h4>The seats have a 40-20-40 confiuguration</h4></figcaption>
+    <figcaption><h4>The seats have a 40-20-40 configuration</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/transportation/trunk_2.webp">
         <img src="https://media.evkx.net/ehga/models/e-tron-gt/transportation/trunk_2s.webp"
-        class="img-fluid" alt="The seats have a 40-20-40 confiuguration" title="The seats have a 40-20-40 confiuguration">
+        class="img-fluid" alt="The seats have a 40-20-40 configuration" title="The seats have a 40-20-40 configuration">
     </a>
-    <figcaption><h4>The seats have a 40-20-40 confiuguration</h4></figcaption>
+    <figcaption><h4>The seats have a 40-20-40 configuration</h4></figcaption>
 </figure>
 
 ## Frunk
@@ -88,7 +88,7 @@ You can store up to 75kg on the roof.
 
 ## Real life example how much can be stored
 
-No need to worry about loading capabilities. 
+No need to worry about loading capabilities.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/transportation/reallife1.webp">

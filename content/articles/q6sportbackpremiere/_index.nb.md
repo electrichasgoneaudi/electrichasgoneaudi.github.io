@@ -6,6 +6,8 @@ weight: 99987
 ---
 <!-- markdownlint-disable MD033 -->
 
+> **Historisk lanseringsartikkel:** Denne siden gjengir Audis presentasjon på bilutstillingen i Paris i oktober 2024. Se den [oppdaterte oversikten over Q6 e-tron](../../models/q6-e-tron/) for dagens modellutvalg.
+
 Den kraftige og ikoniske SUV-designen som er typisk for Audi i Q6 SUV e-tron, kompletteres av essensen av en Sportbacks funksjoner. De nesten perfekte proporsjonene er enda mer tydelige. Resultatet er en mer progressiv og sportslig silhuett som spesielt vil appellere til designorienterte kunder. Q6 Sportback e-tron, som har de kjente styrkene til PPE når det gjelder ytelse, rekkevidde, effektivitet og lading, er nok et eksempel på skalerbarheten til Premium Platform Electric. Takket være sin dynamiske bakdel og de resulterende aerodynamiske fordelene, er Q6 Sportback e-tron ytelsesrekkeviddemester i Q6-serien, med en rekkevidde på opptil 656 kilometer.
 
 Audi vil avduke Q6 Sportback e-tron for verdenspublikummet for første gang på Paris Motor Show 2024. “Den nye modellen demonstrerer allsidigheten til vår nye generasjon elektriske kjøretøy,” sa Gernot Döllner, administrerende direktør i AUDI AG. “Sportback-varianten er neste skritt i utvidelsen av vår elektriske modellportefølje. Audi Q6 Sportback e-tron kombinerer styrkene til våre nye elektriske modeller – effektivitet, rekkevidde og ytelse – med det evokative, funksjonelle designet til sitt distinkte karosseri.”
@@ -77,4 +79,3 @@ Bang & Olufsen Premium Sound System leverer en superb 3D-lydopplevelse. En svær
 ## Markedslansering og priser
 
 Q6 Sportback e-tron og SQ6 Sportback e-tron produseres under netto karbonnøytrale forhold ved Audis hovedanlegg i Ingolstadt. De vil være tilgjengelige for bestilling ved årsskiftet 2024/2025. Innstegsmodellen, Q6 Sportback e-tron med 83 kWh (netto: 75,8 kWh) batteri og bakhjulsdrift, starter på 65 900 euro. Bakhjulsdrift Audi Q6 Sportback e-tron performance* starter på 71 200 euro. Q6 Sportback e-tron quattro* starter på 77 100 euro, og SQ6 Sportback e-tron starter på 96 200 euro.
-

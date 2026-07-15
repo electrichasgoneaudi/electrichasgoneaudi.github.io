@@ -1,5 +1,5 @@
 ---
-title: Audi Q6 e-tron trafikkskiltgjenkjenning 
+title: Audi Q6 e-tron trafikkskiltgjenkjenning
 linktitle: Trafikkskiltgjenkjenning
 description: Audi Q6 e-tron kan leveres med kamerabasert trafikkskiltgjenkjenning. Kamerabasert trafikkskiltgjenkjenning oppdager trafikkskilt som fartsgrenseskilt (inkludert digitale skilt), ingen passeringssoner, adgangsbegrensningsskilt og andre hjelpeskilt, og den viser dem til sjåføren i grafisk form.
 weight: 1
@@ -17,7 +17,7 @@ De vises da i førerinformasjonssystemet og/eller Audi virtual cockpit samt i he
     <figcaption><h4>Trafikkskiltinformasjon i virtuell cockpit</h4></figcaption>
 </figure>
 
-Hvis bilen er utstyrt med Adaptive kjøreassistent så kan du velge at denne skal følge fartsgrensen som skiltgjennkjenningsystemet har identifisert. Standarden er at dette er aktivert. Hvis systemet ikke har klart å lese av noe skilt baserer den seg på kartdata. 
+Hvis bilen er utstyrt med Adaptive kjøreassistent så kan du velge at denne skal følge fartsgrensen som skiltgjennkjenningsystemet har identifisert. Standarden er at dette er aktivert. Hvis systemet ikke har klart å lese av noe skilt baserer den seg på kartdata.
 
 For å slå av at den adaptive kjøreassistenten følger skilt/karthastighet kan du endre innstilling i MMI.
 
@@ -30,6 +30,3 @@ Velg -> Bil -> Førerassistent -> Adativ kjøreassistent -> Prediktiv kontroll -
     </a>
     <figcaption><h4>Overta fartsgrense kan slås av</h4></figcaption>
 </figure>
-
-Dette alternativet er en del av [assistentpakken tur](../../../optionguide/list/#assistentsystemer) med alternativ-ID **PCC**
-

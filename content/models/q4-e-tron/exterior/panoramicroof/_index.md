@@ -1,12 +1,12 @@
 ---
 title: Audi Q4 e-tron panoramic roof
 linktitle: Panoramic roof
-description: If you want to stand out in the crowd you can order your Audi Q4 e-tron with panoramic roof.
+description: The optional panoramic glass sunroof brings more daylight and fresh air into the Audi Q4 e-tron cabin.
 weight: 6
 sectiontabs: "/models/q4-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
-The roof can be opened. In addition to giving the Audi Q4 e-tron a cooler and more exclusive look, it provides more light into the car and better visibility from the inside.
+The optional panoramic glass sunroof can tilt and open electrically. It extends over both seating rows and includes a sunblind for glare and heat control.
 
 You can order panoramic roofs with option ID **3FU**
 
@@ -29,17 +29,17 @@ You can order panoramic roofs with option ID **3FU**
 <figure>
     <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/panoramicroof/openroof_2.webp">
         <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/panoramicroof/openroof_2s.webp"
-        class="img-fluid" alt="The roof can be fully opened giving the cabriolet feeling light" title="The roof can be fully opened giving the cabriolet feeling light">
+        class="img-fluid" alt="The panoramic roof in its open position" title="The panoramic roof in its open position">
     </a>
-    <figcaption><h4>The roof can be fully opened giving the cabriolet feeling light</h4></figcaption>
+    <figcaption><h4>The panoramic roof in its open position</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/panoramicroof/inside.webp">
         <img src="https://media.evkx.net/ehga/models/q4-e-tron/exterior/panoramicroof/insides.webp"
-        class="img-fluid" alt="Roof cover both rear and front seats" title="Roof cover both rear and front seats">
+        class="img-fluid" alt="The panoramic roof extends over the front and rear seats" title="The panoramic roof extends over the front and rear seats">
     </a>
-    <figcaption><h4>Roof cover both rear and front seats</h4></figcaption>
+    <figcaption><h4>The panoramic roof extends over both seating rows</h4></figcaption>
 </figure>
 
 <figure>

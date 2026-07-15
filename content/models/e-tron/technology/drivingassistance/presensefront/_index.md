@@ -1,7 +1,7 @@
 ---
-title: Audi e-tron Audi pre sense front 
+title: Audi e-tron Audi pre sense front
 linktitle: Pre sense front
-description:  Audi e-tron is equipped wioth Audi pre sense front. Audi pre sense front utilize the data of radar sensors and/or the front camera, depending on the car model, to compute the probability of a collision. Within the limitations of the system, it warns of collision threats and initiates braking at specific vehicle speeds.
+description:  Audi e-tron is equipped with Audi pre sense front. Audi pre sense front utilize the data of radar sensors and/or the front camera, depending on the car model, to compute the probability of a collision. Within the limitations of the system, it warns of collision threats and initiates braking at specific vehicle speeds.
 weight: 1
 ---
 

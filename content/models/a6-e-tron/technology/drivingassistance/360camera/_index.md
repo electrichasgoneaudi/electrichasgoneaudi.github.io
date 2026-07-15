@@ -1,9 +1,9 @@
 ---
-title: Audi Q6 e-tron 360 degree cameras
+title: Audi A6 e-tron 360 degree cameras
 linktitle: 360 degree cameras
-description: Audi Q6 e-tron is delivered with 360 degree camera as standard. The four 360 degree cameras on the vehicle scan the immediate vicinity and display obstacles within. Drivers can choose from different views that simplify parking and maneuvering. 
+description: Audi A6 e-tron is delivered with 360 degree camera as standard. The four 360 degree cameras on the vehicle scan the immediate vicinity and display obstacles within. Drivers can choose from different views that simplify parking and maneuvering.
 weight: 1
-sectiontabs: "/models/q6-e-tron/technology/"
+sectiontabs: "/models/a6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 

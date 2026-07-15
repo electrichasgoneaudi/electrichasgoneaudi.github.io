@@ -1,10 +1,12 @@
 ---
 title: Audi e-tron facelift - the new 2024 Audi Q8 e-tron
 linktitle: Audi Q8 e-tron premiere
-description: The Audi Q8 e-tron is the facelift of the very popular Audi e-tron. With six improved variants, up to 44% longer range, and 9% improved efficiency together with design changes, this is a noticeable upgrade. electrichasgoneaudi.net have all the details. 
+description: The Audi Q8 e-tron is the facelift of the very popular Audi e-tron. With six improved variants, up to 44% longer range, and 9% improved efficiency together with design changes, this is a noticeable upgrade. electrichasgoneaudi.net have all the details.
 weight: 99994
 ---
 <!-- markdownlint-disable MD033 -->
+
+> **Historical launch article:** This page was written for the Q8 e-tron reveal in November 2022. Dates, prices and future-tense statements describe Audi's plans at that time; the model has since entered production and later left production in February 2025.
 
 In this article, you will find most of the details and high-resolution pictures(click on them). You also find many links in the model's description for more information about options and technology for the Audi Q8 e-tron.
 
@@ -22,7 +24,7 @@ Audi Board Member for Technical Development [Oliver Hoffmann](https://www.linked
 
 ## New face, new name, new corporate identity
 
-By calling this model the Q8, Audi clearly states that the Audi Q8 e-tron is the top model among its electric SUVs and crossovers, sitting above the [Audi Q4 e-tron](../../models/q4-e-tron) and the upcoming [Audi Q6 e-tron](../../models/q6-e-tron/). 
+By calling this model the Q8, Audi clearly states that the Audi Q8 e-tron is the top model among its electric SUVs and crossovers, sitting above the [Audi Q4 e-tron](../../models/q4-e-tron) and the upcoming [Audi Q6 e-tron](../../models/q6-e-tron/).
 
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/articles/e-tron-facelift-q8-etron-2024/audi_sq8_article_newface_st.webp" width="3000" height="2249" title="Audi SQ8 e-tron front" >}}
@@ -51,11 +53,11 @@ There are some new colors available in the standard palette.
 
 See [paint colors](../../models/q8-e-tron/exterior/paint/) for an overview and more pictures.
 
-The option for [painted calibers](../../models/q8-e-tron/exterior/paintedcalibers/) is now in red. This color was orange on the Audi e-tron.
+The option for [painted calipers](../../models/q8-e-tron/exterior/paintedcalibers/) is now in red. This color was orange on the Audi e-tron.
 
 ## Space and comfort
 
-With a vehicle length of 4.915 meters, a width of 1.937 meters, and a height of 1.619 meters for the Sportback and 1.633 meters for the SUV, the Q8 e-tron offers ample space and high comfort. 
+With a vehicle length of 4.915 meters, a width of 1.937 meters, and a height of 1.619 meters for the Sportback and 1.633 meters for the SUV, the Q8 e-tron offers ample space and high comfort.
 
 The SQ8 e-tron and SQ8 Sportback e-tron are each two millimeters lower and 39 millimeters wider. Its wheelbase of 2.928 meters allows for a lot of legroom in the back seats too.
 
@@ -66,7 +68,7 @@ There are also 62 liters available in the front storage area, the so-called “f
 
 For both body shapes, three drivetrain variants are available.
 
-The below tables compare the current Audi e-tron variants with the different Q8 e-tron variants for range and consumption for a range-optimized equipment trim. Adding additional equipment like larger wheels will increase consumption and reduce the driving range.
+The following tables compare the current Audi e-tron variants with the different Q8 e-tron variants for range and consumption for a range-optimized equipment trim. Adding additional equipment like larger wheels will increase consumption and reduce the driving range.
 
 |Variant                 |  WLTP range                                                         |Change |
 |-------------------------------                                                                |-----------        |-------|
@@ -104,12 +106,12 @@ This diagram shows the same including other all-electric SUV models from Audi. (
 |[Audi e-tron S Sportback](../../models/e-tron/variants/#audi-e-tron-60s)                       | 22.69kWh/100km |          |
 |[Audi SQ8 e-tron Sportback](../../models/q8-e-tron/variants/#audi-sq8-sportback-e-tron)        | 20.66kWh/100km | -9%      |
 
-The diagram below compares consumption for all all-electric models from Audi. Click on image for large, or click for same diagram for [mi/kWh](https://media.evkx.net/ehga/articles/e-tron-facelift-q8-etron-2024/consumption_miles.webp).
+The diagram below compares consumption for all electric models from Audi. Click the image to enlarge it, or see the same diagram in [mi/kWh](https://media.evkx.net/ehga/articles/e-tron-facelift-q8-etron-2024/consumption_miles.webp).
 
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/articles/e-tron-facelift-q8-etron-2024/consumption_km_st.webp" width="2116" height="1316" title="WLTP consumption all electric Audi SUV" >}}
 
-What if you have more equipment? The following table compares the Advanced trim level. The difference is even larger. 
+What if you have more equipment? The following table compares the Advanced trim level. The difference is even larger.
 
 |Variant                                                                                            |  WLTP rekkevidde                                                                         |Endring|
 |-------------------------------                                                                        |-----------|-------|
@@ -161,7 +163,7 @@ details. Below is the charging curve for Audi Q8 50 e-tron (same as the Audi e-t
 
 
 
-How does this affect the traveling speed? To answer this, we calculate how long the old and new models need to travel 1000km, starting with a full battery, driving at 120km/h, and only stopping for optimal charging stops. The calculation assumes optimal driving conditions with dry roads and temperatures around 20 degrees Celcius.
+How does this affect the traveling speed? To answer this, we calculate how long the old and new models need to travel 1000km, starting with a full battery, driving at 120km/h, and only stopping for optimal charging stops. The calculation assumes optimal driving conditions with dry roads and temperatures around 20 degrees Celsius.
 
 |Variant | Consumption 120km/h | Chargestops | Total time | Saved |
 |-------|-------------|-------|------|-----|
@@ -192,7 +194,7 @@ The new charging service Audi charging, which is set to launch in 2023 and will 
 
 For the new Audi Q8 e-tron,  Audi modified the asynchronous motor on the rear axle.
 
-Instead of 12 coils generating the electromagnetic field, there are now 14. As a result, the motor generates a stronger magnetic field with similar electricity input, allowing for more torque.  As a result, the electric motor requires less energy to generate torque if this isn't needed. This change lowers consumption and increases range. 
+Instead of 12 coils generating the electromagnetic field, there are now 14. As a result, the motor generates a stronger magnetic field with similar electricity input, allowing for more torque.  As a result, the electric motor requires less energy to generate torque if this isn't needed. This change lowers consumption and increases range.
 
 <figure>
     <a href="https://media.evkx.net/ehga/articles/e-tron-facelift-q8-etron-2024/new_motor_windings.webp">
@@ -204,7 +206,7 @@ Instead of 12 coils generating the electromagnetic field, there are now 14. As a
 With the e-tron range’s S model, Audi used a three-motor concept for the first time in large-scale production.
 Audi refined this setup for the new SQ8 e-tron. A 124-kW electric motor is at work on the front axle.
 
-Two electric motors on the rear axle, each with 98 kW of output, separately power a rear wheel. This setup allows for a boost performance of up to 370 kW. 
+Two electric motors on the rear axle, each with 98 kW of output, separately power a rear wheel. This setup allows for a boost performance of up to 370 kW.
 
 The motor electronics can distribute the drive torque across both rear electric motors between both wheels within a split second.
 
@@ -243,7 +245,7 @@ There are around [40 driver assistance systems](../../models/q8-e-tron/technolog
 
 Something new is remote park assist plus, which will be available to order starting in 2023. With its help, the Audi Q8 e-tron can maneuver into even the tightest parking spaces.
 
-Customers can control the parking procedure through the myAudi app on their smartphones. When the car reaches its final position in the parking space, it automatically switches off, puts on the parking brake, and locks the doors. 
+Customers can control the parking procedure through the myAudi app on their smartphones. When the car reaches its final position in the parking space, it automatically switches off, puts on the parking brake, and locks the doors.
 
 When leaving the parking space, the motor is powered on through the myAudi app, then the vehicle maneuvers out enough for comfortable entry.
 

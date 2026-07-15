@@ -1,13 +1,13 @@
 ---
 title: Audi Q6 e-tron seats and interior materials
 linktitle: Seats & Material
-description: Audi Q6 e-tron has several seats options to choose from
+description: The Audi Q6 e-tron offers several seat and upholstery options.
 weight: 1
 sectiontabs: "/models/q6-e-tron/interior/"
 ---
 <!-- markdownlint-disable MD033 -->
 
-Each seat type have different seat materials in different colors to choose from. Making it possible to configure the interior just as you like it.
+Each seat type is available with different materials and colors, making it possible to configure the interior to your preferences.
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/interior/seats/seatsdesigns_1_st.webp" width="3000" height="2249" title="Seats design Audi Q6 - Standard, Sport and Sport plus" >}}
 
@@ -31,7 +31,7 @@ All seats with electric adjustment have memory for two driver seating positions.
 
 ### Ventilated seats
 
-The Sport seats can be equipped with ventilation for hot summer days. It requires perforated leather. 
+The Sport seats can be equipped with ventilation for hot summer days. It requires perforated leather.
 
 ### Massage
 

@@ -5,6 +5,8 @@ description: Here you find different reviews of Audi Q8 e-tron
 weight: 20
 ---
 
+These independent video reviews cover the Audi Q8 e-tron and SQ8 e-tron in SUV and Sportback form. Video titles remain in the language used by their publishers.
+
 ## Autogefühl new Audi Q8 e-tron vs SQ8 Sportback etron REVEAL - striking back against BMW iX and EQE SUV
 
 {{< youtube wwcEZosp5SM >}}

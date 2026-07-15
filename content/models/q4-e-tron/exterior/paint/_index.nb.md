@@ -6,6 +6,8 @@ weight: 1
 sectiontabs: "/nb/models/q4-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
+> **Merknad om modellår:** Dette galleriet viser farger og lakkeringsutførelser fra tidligere modellår av Q4 e-tron. Oppdateringen for modellår 2027 fikk tre nye eksteriørfarger, og tilgjengeligheten varierer mellom markedene. Bruk konfiguratoren for ditt marked for å kontrollere hvilke farger som kan bestilles.
+
 Her finner du høyoppløste bilder av virkelige bilder i de forskjellige standardfargene. Klikk på bildene for stor versjon.
 
 Klikk på lenkene for å gå direkte til en farge.
@@ -70,11 +72,11 @@ For isbrehvit, mythossort, pebblestonegrå and navarrablå kan du få bilen med 
 
 Fargepaletten for Audi Q4 e-tron og Q4 Sportback e-tron inneholder åtte farger. Deres tilbakeholdne karakter er inspirert av fargene og nyansene som finnes i naturen. Den solide malingsfargen kalles steingrå, de metalliske nyansene heter nordlysfiolett (ny), floretsølv, geysirblått, isbrehvit, mythossvart, Navarrablått og tyfongrå. Aurora fiolett er en farge som er hentet fra Audi Sport.
 
-Under ser du bilder av Audi Q4-etron og Q4 Sportback e-tron med de forskjellige fargene. 
+Under ser du bilder av Audi Q4-etron og Q4 Sportback e-tron med de forskjellige fargene.
 
 ### Pebblestonegrå
 
-Dette er den eneeste ikke-metalliske lakkfargen tilgjengelig. Fargekode **C2**
+Dette er den eneste ikke-metalliske lakkfargen som er tilgjengelig. Fargekode **C2**.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/q4-e-tron/exterior/paint/paint_stonegrey_1.webp">
@@ -367,7 +369,7 @@ Color code **J6**
     <figcaption><h4>Aurorafiolett Audi Q4 50 e-tron med S-line eksteriør av @Auditography</h4></figcaption>
 </figure>
 
-Videoen under viser en Aurorafiolett Audi Q4 e-tron Sportback med sort optikk og S-line eksteriør. 
+Videoen under viser en Aurorafiolett Audi Q4 e-tron Sportback med sort optikk og S-line eksteriør.
 
 {{< youtube B7Y5D_BPN9g>}}
 
@@ -456,5 +458,3 @@ Color code **2Y**
     </a>
     <figcaption><h4>Isbrehvit Audi Q4 50 e-tron quattro med svart optikk og hellakkering</h4></figcaption>
 </figure>
-
-

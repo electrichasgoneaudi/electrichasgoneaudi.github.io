@@ -25,7 +25,7 @@ Improves looks a lot and you dont need to drive around in a fish tank on display
 
 ## Window curtains
 
-Protects persons in rear seat from sun. 
+Protects persons in rear seat from sun.
 
 [See curtain for detail](/models/e-tron/interior/curtain)
 
@@ -35,16 +35,16 @@ The tour package contains most of the important driver assist functionality  lik
 
 ## Side assist package PCH / City package PCM
 
-Side assist is not part tour package and is included in two different assistant packages. The side assist package include [Side Assist](/models/e-tron/technology/drivingassistance/sideassist/), [exit warning](/models/e-tron/technology/drivingassistance/exitwarning/), [cross traffic assist rear](/models/e-tron/technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](/models/e-tron/technology/drivingassistance/presenserear/). The city pacakge include the same, but in addition
+Side assist is not part tour package and is included in two different assistant packages. The side assist package include [Side Assist](/models/e-tron/technology/drivingassistance/sideassist/), [exit warning](/models/e-tron/technology/drivingassistance/exitwarning/), [cross traffic assist rear](/models/e-tron/technology/drivingassistance/crosstrafficassistrear/), [Audi Pre Sense rear](/models/e-tron/technology/drivingassistance/presenserear/). The city package include the same, but in addition
 [Audi pre sense side](/models/e-tron/technology/drivingassistance/presenseside/) and [crossing assist](/models/e-tron/technology/drivingassistance/crossingassist/)
 
 ![QQ2](https://media.evkx.net/ehga/models/e-tron/interior/lights/multicolors.webp)
 
-## Multicolour ambient lightning: Option ID QQ2
+## Multicolour ambient lighting: Option ID QQ2
 
-With multicolor ambient lightning the look and feel inside the car gets to another planet.
+With multicolor ambient lighting the look and feel inside the car gets to another planet.
 
-[See ambient lightning to get convinced](/models/e-tron/interior/lights/)
+[See ambient lighting to get convinced](/models/e-tron/interior/lights/)
 
 ## Complete equipment list
 

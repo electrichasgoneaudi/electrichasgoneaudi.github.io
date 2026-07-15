@@ -1,50 +1,24 @@
 ---
-title: Audi Q8 e-tron assistentsystemer
-linktitle: Assistentsystemer
-description: Det er rundt 40 førerassistentsystemer tilgjengelig i Audi Q8 e-tron.
+title: Førerassistentsystemer i Audi Q6 e-tron
+linktitle: Førerassistanse
+description: Audi Q6 e-tron tilbyr assistanse for hastighet og avstand, filføring, kollisjonsunngåelse og parkering.
 weight: 1
+sectiontabs: "/nb/models/q6-e-tron/technology/"
 ---
-<!-- markdownlint-disable MD033 -->
 
-Opptil fem radarsensorer, fem kameraer og 12 ultralydsensorer gir miljøinformasjon analysert av den sentrale førerassistentkontrollenheten.
+Audi Q6 e-tron kombinerer kameraer, radarsensorer og ultralydsensorer med en sentral styreenhet for førerassistentsystemene. Avhengig av utstyr overvåker opptil fem radarsensorer, fem kameraer og 12 ultralydsensorer området rundt bilen.
 
-<figure>
-    <a href="https://media.evkx.net/ehga/models/q8-e-tron/technology/drivingassistance/sensors.webp">
-        <img src="https://media.evkx.net/ehga/models/q8-e-tron/technology/drivingassistance/sensors_st.webp"
-        class="img-fluid" alt="Audi Q8 e-tron - sensors and cameraes" title="Audi Q8 e-tron - sensors and cameraes">
-    </a>
-    <figcaption><h4>Audi Q8 e-tron - sensorer og kamera</h4></figcaption>
-</figure>
+Grunnleggende funksjoner omfatter kollisjonsvarsling og nødbremsing gjennom Audi pre sense front, filskiftevarsling, oppmerksomhetsovervåking, hastighetsbegrenser og parkeringshjelp. Avhengig av marked og utstyrsnivå kan Q6 e-tron også tilby:
 
-Viktige førerassistentsystemer kommer som standard, de valgfrie systemene er delt inn i pakker: Assistentpakkereise (PCC), assistentpakkeby (PCM), sideassistentpakke (PCH). I tillegg er det andre frittstående alternativer.
+- Adaptiv cruisekontroll og adaptiv kjøreassistent plus
+- Kamerabasert trafikkskiltgjenkjenning
+- Park assist plus, ryggekamera og omgivelseskameraer
+- Side assist og utstigningsvarsel
+- Krysstrafikkassistent bak og kryssassistent
+- Nødstoppassistent og kollisjonsunngåelsesassistent
 
-| **System**    | **Available** |
-| ----------- | ----------- |
-| [360 degree cameras](360camera) | option (PCZ) |
-| [Active Lane assist](activelaneassist) | standard (6I3)|
-| [Adaptive Cruise Assist](adaptivecruiseassist) | option (PCC) |
-| [Adaptive Cruise Control with speed limiter](adaptivecruisecontrol) | option (PCC) |
-| [Crossing/Intersection assist](crossingassist) | Option (PCM) |
-| [Cruise control](cruisecontrol) | option(8TC/PCC) |
-| [Hold Assist](holdassist) | Standard |
-| [Pre Sense Basic](presensebasic) | option |
-| [Pre Sense front](presensefront) | standard |
-| [Pre Sense rear](presenserear) | option (PCM/PCH) |
-| [Pre Sense side](presenseside) | option |
-| [Distance warning](distancewarning) | standard |
-| Night Vision | N/A |
-| [Speed limiter](speedlimiter) | standard |
-| [Park assist](parkassist) | N/A |
-| [Predictive Efficiency Assist](predictiveefficiencyassist) | standard |
-| [Cross traffic assist rear](crosstrafficassistrear) | option (PCM/PCH) |
-| [Exit warning](exitwarning) | option (PYU) |
-| [Collision avoidance assist](collisionavoidanceassist) | standard |
-| [Side assist](sideassist) | option (PCM/PCH) |
-| [Reversing camera](reversingcamera) | option (KA2) |
-| [Turn assist](turnassist) | Option  |
-| [Traffic sign recognition](trafficsignrecognition) | option (QR9/PCC) |
+Tilgjengelighet, standardutstyr og pakkenavn varierer med land, variant og modellår. Føreren er fortsatt ansvarlig for å overvåke trafikken og gripe inn når det er nødvendig.
 
-
-Se detaljert informasjon om systemene nedenfor
+Utforsk de enkelte systemene nedenfor.
 
 {{<children description="true" />}}

@@ -1,7 +1,7 @@
 ---
 title: Elbilbatteri
 linktitle: Elbilbatteri
-description: Batteriet i helelektriske biler er en av de viktigste delene av en elbil. Denne teknologiartikkelen går gjennom de forskjellige aspektene. 
+description: Batteriet i helelektriske biler er en av de viktigste delene av en elbil. Denne teknologiartikkelen går gjennom de forskjellige aspektene.
 weight: 2
 shownavtabs: true
 ---
@@ -19,6 +19,6 @@ og hvordan det påvirker ytelsen på elbiler med et spesifikt fokus på helelekt
     <figcaption><h4>Audi e-tron 95kWh batteripakke</h4></figcaption>
 </figure>
 
-Hvis du vil ha en dyp forståelse, anbefaler vi [EV-batterikortene av Dr. Cecile Pera på Orovel.Net](https://www.orovel.net/orovel-cards/battery) og [BatteryUniversity](https://batteryuniversity) .com/artikler)
+Hvis du vil gå dypere i temaet, anbefaler vi [EV-batterikortene til Dr. Cécile Péra på Orovel.net](https://www.orovel.net/orovel-cards/battery) og artiklene hos [Battery University](https://batteryuniversity.com/articles).
 
 {{<children description="true" />}}

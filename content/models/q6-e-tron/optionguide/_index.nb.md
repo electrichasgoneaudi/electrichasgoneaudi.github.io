@@ -1,15 +1,12 @@
 ---
-title: Audi e-tron utstyrsguide
+title: Audi Q6 e-tron-utstyrsguide
 linktitle: Utstyrsguide
-description: Audi e-tron har så mye utstyr å velge mellom slik at det er nesten umulig å ha oversikten. Her prøver vi å hjelpe deg med å velge de viktigste. 
+description: En oversikt over de viktigste utstyrskategoriene og markedsspesifikke tilvalgspakkene til Audi Q6 e-tron.
 weight: 25
 ---
 
-Følgende veiledning er basert på grunnmodellen. Mange markeder har pakker med tilleggsutstyr. I Norge har man f.eks pakkene Advance Sport og Advance Business som inneholder mye utstyr.
+Q6 e-tron leveres med markedsspesifikke utstyrsnivåer og pakker. Viktige valg omfatter lys, førerassistansesystemer, seter, infotainment, hjuloppheng, hjul og komfortfunksjoner.
 
-Nedenfor er de viktigste tilvalgene du må vurdere når du kjøper en Audi e-tron
+Pakkenavn og standardutstyr varierer mellom land og modellår. Bruk den aktuelle nasjonale konfiguratoren eller prislisten før bestilling.
 
-## Komplett utstyrliste
-
-Se også den  [komplette utstyrlisten](list) for alle muligheter slik at du ikke går glipp av noe.
-
+Se [utstyrsoversikten fra lanseringen i 2024](list/) for et detaljert eksempel på hvordan tilvalgene var gruppert ved lansering.

@@ -1,76 +1,36 @@
 ---
 title: Audi Q8 e-tron variants
 linktitle: Variants
-description: Audi Q8 e-tron is currently available in 6 different variants. Here you find which are available.
+description: The 2023–2025 Audi Q8 e-tron family comprised six SUV and Sportback variants with 250, 300 or 370 kW.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
-### Audi Q8 50 e-tron
 
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q8-e-tron/variants/q8_50_etron_st.webp" width="3000" height="2250" title="Audi Q8 50 e-tron" >}}
+> **Former model:** Audi ended Q8 e-tron production on February 28, 2025. This page describes the six variants produced from 2023 to 2025.
 
-Audi Q8 50 e-tron is the least expensive version. It has an SUV form factor and the smallest battery.
-95kWh gross battery with 89 kWh available. WLTP-range between 406-491km depending on equipment trim. The two engines output 250kW (312 hp).
+| Variant | Drive | Maximum output | Battery gross / usable | Maximum WLTP range |
+|---|---|---:|---:|---:|
+| Q8 50 e-tron | Dual-motor quattro | 250 kW | 95 / 89 kWh | 491 km |
+| Q8 Sportback 50 e-tron | Dual-motor quattro | 250 kW | 95 / 89 kWh | 505 km |
+| Q8 55 e-tron | Dual-motor quattro | 300 kW | 114 / 106 kWh | 582 km |
+| Q8 Sportback 55 e-tron | Dual-motor quattro | 300 kW | 114 / 106 kWh | 600 km |
+| SQ8 e-tron | Three-motor quattro | 370 kW | 114 / 106 kWh | 494 km |
+| SQ8 Sportback e-tron | Three-motor quattro | 370 kW | 114 / 106 kWh | 513 km |
 
-It is not possible to differentiate the Q8 50 e-tron from the Q8 55 e-tron by looks.
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q8-e-tron/sq8_and_q8_variants_st.webp" width="3000" height="2249" title="Audi Q8 e-tron model family" >}}
 
-[See detailed specification](../specifications/#audi-q8-50-e-tron)
+## Q8 50 e-tron
 
-### Audi Q8 50 Sportback e-tron
+The 50 was the entry drivetrain and used two motors. SUV and Sportback versions shared the same 250 kW maximum output and 95 kWh battery. Wheels and equipment account for the range between the minimum and maximum WLTP figures recorded in the specifications.
 
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q8-e-tron/variants/q8_50_sportback_etronm_st.webp" width="3000" height="1999" title="Audi Q8 50 Sportback e-tron" >}}
+## Q8 55 e-tron
 
-Audi e-tron 50 Sportback is the least expensive Sportback version. It has a Sportback form factor and the smallest battery.
-95kWh gross battery with 89 kWh available. WLTP-range between 412-505km depending on equipment trim. The two engines output 230kW (312 hp).
+The 55 paired two motors with the larger 114 kWh battery and delivered up to 300 kW. The more aerodynamic Sportback reached the family's longest official range of up to 600 km WLTP.
 
-It is not possible to differentiate the Q8 50 Sportback e-tron from the Q8 55 Sportback e-tron by looks.
+## SQ8 e-tron
 
-[See detailed specification](../specifications/#audi-q8-50-sportback-e-tron)
+The SQ8 used one motor at the front and two at the rear. The rear motors enabled electric torque vectoring, while maximum boost output was 370 kW and maximum torque 973 Nm. Both SUV and Sportback had a governed top speed of 210 km/h.
 
-### Audi Q8 55 e-tron
-
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q8-e-tron/variants/q8_55_etron_st.webp" width="3000" height="2249" title="Audi Q8 55 e-tron" >}}
-
-With 114kWh gross battery (106kWh net) and 300KW (408HP) engine output.
-WLTP-range between 487-582km depending on equipment trim. The two engines output 300kW (408 hp).
-
-[See detailed specification](../specifications/#audi-q8-55-e-tron)
-
-### Audi Q8 55 Sportback e-tron
-
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q8-e-tron/variants/q8_55_sportback_st.webp" width="3000" height="2002" title="Audi Q8 55 Sportback e-tron" >}}
-
-Audi Q8 55 Sportback e-tron is the Sportback version of Q8 e-tron 55. With 114kWh gross battery (105 Wh net) and 300KW (408HP) engine output.
-WLTP-range between 495-600km depending on equipment trim. The two engines output 300kW (408 hp).
-
-[See detailed specification](../specifications/#audi-Q8-55-sportback-e-tron)
-
-### Audi SQ8 e-tron 
-
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q8-e-tron/variants/sq8_etron_st.webp" width="3000" height="1999" title="Audi SQ8 e-tron" >}}
-
-With its wider body and wheels, Audi SQ8 e-tron looks apart from the Q8 50/55 e-tron.
-
-Audi e-tron S has the same battery as Q8 e-tron 55 with 114kWh gross capacity and 106kWh net capacity.
-
-Its electric drive use three electric motors, two of which operate on the rear axle. The intelligent drive control raises vehicle safety, and dynamic handling in particular, to a new level.
- In addition to the electric all-wheel drive, the e-tron 60S is equipped with electric torque vectoring with active and fully variable torque distribution on the rear axle.
-
-Audi e-tron S delivers dynamics in a new dimension. In S gear, they provide full boost performance for eight seconds – 370 kW of power and 973 Nm (717.6 lb-ft) of torque.
-The standard sprint takes just 4.5 seconds and acceleration ends at 210 km/h (130.5 mph).
-
-The new S models have two electric motors on the rear axle and one on the front axle, making them the first mass-produced electric cars in the world to have three electric motors.
-
-WLTP-range between 454-494km depending on equipment trim.
-
-[See detailed specification](../specifications/#audi-sq8-e-tron)
-
-### Audi SQ8 Sportback e-tron
-
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q8-e-tron/variants/sq8_sportback_st.webp" width="3000" height="2249" title="Audi SQ8 Sportback e-tron" >}}
-
-This is the Sportback version of Audi SQ8 WLTP-range between 469-513km depending on equipment trim.
-
-[See detailed specification](../specifications/#audi-sq8-sportback-e-tron)
+See the [generated specifications](../specifications/) for detailed data and recorded equipment for each variant.
 
 {{<children description="true" />}}

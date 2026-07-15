@@ -7,9 +7,9 @@ weight: 4
 <!-- markdownlint-disable MD033 -->
 With Audi smartphone interface with option id **IU1** you get the possibility to use Apple Carplay or Android Auto in your MMI system.
 
-This gives you access to many usefull apps like Spotify and Waze directly in MMI.
+This gives you access to many useful apps like Spotify and Waze directly in MMI.
 
-The below image show how Waze warns users about a speed camera.
+The following image shows how Waze warns users about a speed camera.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/uiandoperations/smartphoneinterface/speedcam.webp">
@@ -18,4 +18,3 @@ The below image show how Waze warns users about a speed camera.
     </a>
     <figcaption><h4>Android Auto with Waze warning about speedcam</h4></figcaption>
 </figure>
-

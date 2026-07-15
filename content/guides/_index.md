@@ -72,7 +72,7 @@ Simple methods to verify your battery's overall condition and monitor degradatio
 
 <div class="bg-white rounded-xl shadow-md overflow-hidden hover:shadow-lg transition-shadow duration-300 border border-gray-200">
 <a href="protectingbattery/">
-<img src="http://localhost:1313/guides/protectingbattery/evstoragestress.png" class="w-full h-48 object-cover" alt="Protecting Battery">
+<img src="/guides/protectingbattery/evstoragestress.png" class="w-full h-48 object-cover" alt="Protecting Battery">
 </a>
 <div class="p-5">
 <h4 class="text-lg font-semibold text-gray-900 mb-2">Protecting Your Battery</h4>

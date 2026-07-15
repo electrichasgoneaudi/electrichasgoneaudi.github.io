@@ -5,6 +5,7 @@ description: Here you find different multimedia content related to Audi e-tron. 
 weight: 20
 ---
 
+Selected launch films, model presentations, and owner-focused videos about the Audi Q8 e-tron range are collected below. Video titles remain in the language used by their publishers.
 
 ## Audi Q8 e-tron and Audi SQ8 Sportback e-tron
 

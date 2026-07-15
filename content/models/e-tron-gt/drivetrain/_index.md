@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron GT drivetrain and motors
 linktitle: Drivetrain
-description: Audi e-tron GT is buildt on the J1 Performance platform buildt together with Porsche.
+description: Audi e-tron GT is built on the J1 Performance platform built together with Porsche.
 weight: 6
 ---
 <!-- markdownlint-disable MD033 -->

@@ -1,7 +1,7 @@
 ---
 title: Audi A6 e-tron klimaanlegg
 linktitle: Klimaanlegg
-description: Audi Q6 e-tron er utstyrt med 3-soners elektronisk klimaanlegg med varmepumpe som standard.
+description: Audi A6 e-tron er utstyrt med 3-soners elektronisk klimaanlegg med varmepumpe som standard.
 weight: 10
 sectiontabs: "/nb/models/a6-e-tron/technology/"
 ---
@@ -20,7 +20,7 @@ Støvpartikler, lukt og allergener</li>
 <li>Luftventiler i midtkonsollen bak</li>
 </ul>
 
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/climatecontrol/interior_1_st.webp" width="3000" height="2249" title="Audi Q6 e-tron med 3 soners klimasystem" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/climatecontrol/interior_1_st.webp" width="3000" height="2249" title="Audi A6 e-tron med 3 soners klimasystem" >}}
 
 ## Komfort-tilleggsklimaanlegget
 

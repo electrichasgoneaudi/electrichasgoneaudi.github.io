@@ -1,11 +1,11 @@
 ---
 title: Audi e-tron GT navigasjonssystem
 linktitle: Navigasjonssystem
-description: Audi Q4 e-tron har et valgfritt navigasjonssystem. Dette er MMI Navigation plus-systemet som hjelper deg med å navigere til destinasjonen.
+description: Audi e-tron GT har MMI Navigation plus, som gir ruteveiledning og hjelper føreren med å finne ladestasjoner.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
-Navigasjonssystemet på Audi Q4 e-tron er basert på kart og data fra [HERE Maps](https://www.here.com/strategic-alliances/audi/IVIdemo).
+Navigasjonssystemet i Audi e-tron GT er basert på kart og data fra [HERE Maps](https://www.here.com/strategic-alliances/audi/IVIdemo).
 
 Navigasjonssystemet er tilgjengelig i [virtual cockpit](../virtualcockpit/), [Head up display](../headupdisplay/) og [Audi MMi](../mmi/) og vil hjelpe deg med å navigere til destinasjonen, men vil også hjelpe deg med å finne ladestasjoner, parkering og andre interessante steder langs ruten.
 
@@ -29,7 +29,7 @@ Du kan aktivere Google maps-baserte satellittbilder og Google-basert søk for å
 
 MMI Navigation plus er tilgjengelig i [MMI Navigation Plus-pakken](/models/e-tron-gt/optionguide/list/#infotainment) **PYG** og [MMI Navigation Pro](/models/e-tron-gt /optionguide/list/#infotainment) pakke **PYH**
 
-Biler produsert etter uke 51 2022 med navigasjon vil også få en større 11.6" skjerm i MMI. 
+Biler produsert etter uke 51 2022 med navigasjon vil også få en større 11.6" skjerm i MMI.
 
 
 - Detaljert ruteinformasjon: forhåndsvisning av kart, valg av alternative ruter, POIer, kjørefeltanbefalinger, motorveiavkjørsler, detaljerte veikryss og mye mer. Bruk av navigasjonsdata for prediktiv og effektiv kjøring

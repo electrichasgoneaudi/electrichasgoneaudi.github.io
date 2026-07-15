@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 e-tron steering wheels
 linktitle: Steering wheels
-description: Audi Q4 e-tron have serveral steering wheel options
+description: The Audi Q4 e-tron offers several steering-wheel options.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->

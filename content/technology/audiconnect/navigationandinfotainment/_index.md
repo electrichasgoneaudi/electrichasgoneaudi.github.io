@@ -97,7 +97,7 @@ Furthermore, all targets in the car and on the smartphone are synchronized, no m
 
 ### Predictive routing
 
-The route is calculated based onthe current and expected traffic situation. The function calculates the best route to the destination, avoids queues, and provides a reliable assessment of the expected arrival time.
+The route is calculated based on the current and expected traffic situation. The function calculates the best route to the destination, avoids queues, and provides a reliable assessment of the expected arrival time.
 
 ### Expanded Special Object View (POI)
 

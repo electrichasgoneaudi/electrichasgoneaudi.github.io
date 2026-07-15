@@ -1,7 +1,7 @@
 ---
 title: Intelligent thermal management in Audi models preserves range and performance
 linktitle: Intelligent thermal management
-description: In the winter, electrically powered cars have to bring the interior and the battery system to the right temperature. This double task already requires a lot of energy from them. 
+description: In the winter, electrically powered cars have to bring the interior and the battery system to the right temperature. This double task already requires a lot of energy from them.
 weight: 100001
 ---
 <!-- markdownlint-disable MD033 -->
@@ -105,7 +105,7 @@ This additional mobile preconditioning of the battery in the e-tron GT quattro a
 
 ### Read more about thermal management
 
-You find details about thermal managment in our model section
+You find details about thermal management in our model section
 
 - [Thermal Management Audi e-tron GT / Audi RS e-tron GT](../../models/e-tron-gt/drivetrain/battery/#thermal-managment)
 - [Thermal management Audi Q4 e-tron](../../models/q4-e-tron/drivetrain/battery/#thermal-management)

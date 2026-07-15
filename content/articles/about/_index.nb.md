@@ -5,9 +5,9 @@ hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
 
-Målgruppen er alle som eier, alle som vurderer å kjøpe, og alle som ønsker å lære om helelektriske Audier
+Nettstedet er for eiere, potensielle kjøpere og alle som vil lære mer om helelektriske Audi-modeller.
 
-Nettstedet er fellesskapsdrevet og åpen kildekode, noe som betyr at innholdet administreres av eiere og andre med kunnskap og kan oppdateres av alle som har en Github-konto.
+Nettstedet er fellesskapsdrevet og har åpen kildekode. Innholdet vedlikeholdes av eiere og andre med kunnskap, og alle med en GitHub-konto kan bidra.
 
 ![Audience](https://media.evkx.net/ehga/articles/about/about_2.webp "Vi har besøkende fra de fleste land på planeten")
 
@@ -49,7 +49,7 @@ Det er derfor vi elsker Audi og derfor ønsker vi å fokusere energien vår og d
 
 Som Audi ønsker vi å gjøre verden til en mer bærekraftig verden. Derfor kan alle bidra med nytt innhold og oppdatere det vi har.
 
-Innholdet er opprettet ved hjelp av [Markdown](https://en.wikipedia.org/wiki/Markdown) og tilgjengelig på [Github](https://github.com/electrichasgoneaudi/electrichasgoneaudi.github.io).
+Innholdet er skrevet med [Markdown](https://en.wikipedia.org/wiki/Markdown) og er tilgjengelig på [GitHub](https://github.com/electrichasgoneaudi/electrichasgoneaudi.github.io).
 
 - [Fork vårt repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 - Legg til eller oppdater innholdet
@@ -57,4 +57,4 @@ Innholdet er opprettet ved hjelp av [Markdown](https://en.wikipedia.org/wiki/Mar
 
 ## Facebook og Instagram
 
-Vi har flere Facebookgrupper knyttet til de forskjellige modellene. Du finner dem på vår [Facebook-side](https://www.facebook.com/electrichasgoneaudi/groups/). Vi har også en Instagram-konto dedikert til alle elektriske Audi. Du finner den her: [https://www.instagram.com/electrichasgoneaudi/](https://www.instagram.com/electrichasgoneaudi/)
+Vi har flere Facebook-grupper for de forskjellige modellene. Du finner dem på [Facebook-siden vår](https://www.facebook.com/electrichasgoneaudi/groups/). Vi har også en Instagram-konto for elektriske Audi-modeller: [@electrichasgoneaudi](https://www.instagram.com/electrichasgoneaudi/).

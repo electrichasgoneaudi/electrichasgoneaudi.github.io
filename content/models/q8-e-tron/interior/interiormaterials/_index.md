@@ -6,12 +6,12 @@ weight: 10
 ---
 <!-- markdownlint-disable MD033 -->
 
-There are serveral levels of interior trim.
+There are several levels of interior trim.
 
 ## Standard
 
-The standard interior has syntethic leather upper part of dashboard. In addition armrest on doors
-and lower part of center consol are made of rubber/plastic.
+The standard interior has synthetic leather upper part of dashboard. In addition armrest on doors
+and lower part of center console are made of rubber/plastic.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/interior/interiormaterials/standard_door.webp">
@@ -24,38 +24,38 @@ and lower part of center consol are made of rubber/plastic.
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/interior/interiormaterials/standard_center.webp">
         <img src="https://media.evkx.net/ehga/models/e-tron/interior/interiormaterials/standard_centers.webp"
-        class="img-fluid" alt="Standard Center consol without leather" title="Standard Center consol without leather">
+        class="img-fluid" alt="Standard Center console without leather" title="Standard Center console without leather">
     </a>
-    <figcaption><h4>Standard Center consol without leather</h4></figcaption>
+    <figcaption><h4>Standard Center console without leather</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/interior/interiormaterials/standard_dash.webp">
         <img src="https://media.evkx.net/ehga/models/e-tron/interior/interiormaterials/standard_dashs.webp"
-        class="img-fluid" alt="Standard Dashboard with syntetic leather" title="Standard Dashboard with syntetic leather">
+        class="img-fluid" alt="Standard Dashboard with synthetic leather" title="Standard Dashboard with synthetic leather">
     </a>
-    <figcaption><h4>Standard Dashboard with syntetic leather</h4></figcaption>
+    <figcaption><h4>Standard Dashboard with synthetic leather</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/interior/interiormaterials/standard_dash2.webp">
         <img src="https://media.evkx.net/ehga/models/e-tron/interior/interiormaterials/standard_dash2s.webp"
-        class="img-fluid" alt="Standard Dashboard with syntetic leather" title="Standard Dashboard with syntetic leather">
+        class="img-fluid" alt="Standard Dashboard with synthetic leather" title="Standard Dashboard with synthetic leather">
     </a>
-    <figcaption><h4>Standard Dashboard with syntetic leather</h4></figcaption>
+    <figcaption><h4>Standard Dashboard with synthetic leather</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/interior/interiormaterials/standard_dash3.webp">
         <img src="https://media.evkx.net/ehga/models/e-tron/interior/interiormaterials/standard_dash3s.webp"
-        class="img-fluid" alt="Standard Dashboard with syntetic leather" title="Standard Dashboard with syntetic leather">
+        class="img-fluid" alt="Standard Dashboard with synthetic leather" title="Standard Dashboard with synthetic leather">
     </a>
-    <figcaption><h4>Standard Dashboard with syntetic leather</h4></figcaption>
+    <figcaption><h4>Standard Dashboard with synthetic leather</h4></figcaption>
 </figure>
 
-## Imiated leather doors and center consol
+## Imiated leather doors and center console
 
-On this option the dashboard is same as standard buth the armrest on doors and the lower part of center consol
+On this option the dashboard is same as standard buth the armrest on doors and the lower part of center console
 is imitated leather.
 
 <figure>
@@ -114,13 +114,13 @@ In this option you get leather on upper part of dashboard, and imiated leather o
 
 OptionId **7HC**
 
-## Leather on dashboard, artifical leather on centerconsol and door
+## Leather on dashboard, artificial leather on centerconsol and door
 
 On this option you get leather on dashboard and imitated leader on armrest on doors and lower part of interior
 
 OptionID **7HM**
 
-## Full leather on dashboard, door and lower part of center consol
+## Full leather on dashboard, door and lower part of center console
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/interior/interiormaterials/fullleather_1.webp">

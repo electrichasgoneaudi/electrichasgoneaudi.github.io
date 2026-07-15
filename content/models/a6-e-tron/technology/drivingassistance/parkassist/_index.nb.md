@@ -1,13 +1,13 @@
 ---
-title: Audi Q6 e-tron parkeringsassistent
+title: Parkeringsassistent i Audi A6 e-tron
 linktitle: Parkeringsassistent
-description: Parkeringsassistent kan automatisk styre bilen inn på parallelle eller vinkelrette parkeringsplasser. Den bruker ultralydsensorer plassert i støtfangerne foran og bak og på sidene. Føreren trenger bare å akselerere, bremse og skifte gir.
+description: Park assist plus kan finne egnede plasser og hjelpe bilen inn og ut av dem.
 weight: 1
-sectiontabs: "/nb/models/q6-e-tron/technology/"
+sectiontabs: "/nb/models/a6-e-tron/technology/"
 ---
 
-Sensorene måler parkeringsplasser langs veien mens de kjører forbi dem i moderat hastighet – maksimalt 20 km/t (12,4 mph) for vinkelrette parkeringsplasser og maksimalt 30 km/t (18,6 mph) for parallelle plasser. En melding vises på MMI-displayet når systemet finner et passende sted. De eneste handlingene som kreves av sjåføren under parkering er akselerasjon, girskift og bremsing. Systemet håndterer styringen. I tillegg hjelper lydsignaler føreren. Parkeringsassistent vil gjøre flere manøvrer, forover og bakover, om nødvendig. Det kan også gå ut fra parallelle parkeringsplasser. Avhengig av modell aktiverer føreren systemet enten via en knapp på midtkonsollen eller en knapp i det nedre infotainmentdisplayet. Maksimal hastighet for alle manøvrer er 7 km/t (4,3 mph).
+Park assist plus bruker ultralydsensorer og kameraer til å finne egnede parallelle eller vinkelrette parkeringsplasser. Når føreren har valgt en plass, kan systemet styre og håndtere andre deler av manøveren mens føreren overvåker prosessen og er klar til å gripe inn.
 
-Parkeringsassistent har tilvalgs-id **7X5** og er tilgjengelig som [funksjon på forespørsel](../../fod) via myAudiApp
+Avhengig av utstyr og marked kan tilleggsfunksjoner omfatte innlært parkering eller remote park assist plus, der føreren overvåker en kompatibel manøver fra utsiden av bilen med myAudi-appen.
 
-
+Funksjoner og tilgjengelighet varierer med land, modellår og utstyrspakke.

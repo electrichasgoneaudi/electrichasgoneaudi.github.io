@@ -17,7 +17,7 @@ Electric adjustable mirrors are standard on Audi e-tron (option ID 6XD). They ar
     <figcaption><h4>Mirrors are controlled in driver door</h4></figcaption>
 </figure>
 
-There are some optional mirros
+Several optional mirror systems are available.
 
 - Heated with memory : **6XG**
 - heated, auto dimmed and electric retractable : **6XK**

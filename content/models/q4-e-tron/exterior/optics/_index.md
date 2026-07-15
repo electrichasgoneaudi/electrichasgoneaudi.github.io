@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 e-tron optics
 linktitle: Optics
-description: There is serveral optics options to make your Q4 e-tron stick out from the crowd
+description: Several exterior trim options are available for the Audi Q4 e-tron.
 weight: 2
 sectiontabs: "/models/q4-e-tron/exterior/"
 ---

@@ -1,16 +1,16 @@
 ---
-title: Audi E5 Sportback eksteriør
+title: AUDI E5 Sportback eksteriør
 linktitle: Eksteriør
-description: Audi E5 Sportback har en flytende Sportback-silhuett, Matrix LED-frontlykter med tilpassbare signaturer, OLED baklykter og seks farger utviklet for det kinesiske markedet.
+description: AUDI E5 Sportback har en flytende Sportback-silhuett, Matrix LED-frontlykter med tilpassbare signaturer, OLED baklykter og seks farger utviklet for det kinesiske markedet.
 weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
 
-Audi E5 Sportbacks eksteriørdesign omsetter et progressivt, aerodynamisk fokusert designspråk til en produksjonsklar premium elektrisk Sportback. Selv om overflatebehandling og proporsjoner er tydelig Audi, er designet mer ekspressivt og digitalt inspirert enn den europeiske modellrekken.
+AUDI E5 Sportbacks eksteriørdesign omsetter et progressivt, aerodynamisk fokusert designspråk til en produksjonsklar premium elektrisk Sportback. Selv om overflatebehandling og proporsjoner er tydelig Audi, er designet mer ekspressivt og digitalt inspirert enn den europeiske modellrekken.
 
-{{< evkxfiguresized thumb="models/audi/e5_/e5/exterior_302e5_st.webp" width="3000" height="2250" title="Audi E5 Sportback" >}}
+{{< evkxfiguresized thumb="models/audi/e5_/e5/exterior_302e5_st.webp" width="3000" height="2250" title="AUDI E5 Sportback" >}}
 
-{{< evkxfiguresized thumb="models/audi/e5_/e5/exterior_5a709_st.webp" width="3000" height="2250" title="Audi E5 Sportback" >}}
+{{< evkxfiguresized thumb="models/audi/e5_/e5/exterior_5a709_st.webp" width="3000" height="2250" title="AUDI E5 Sportback" >}}
 
 ## Designspråk
 
@@ -36,11 +36,11 @@ Resultatet er en luftmotstandskoeffisient på **Cd 0,252**, som bidrar direkte t
 | Svingradius | 10,5 m |
 | Luftmotstandskoeffisient | Cd 0,252 |
 
-{{< sitefiguresized thumb="models/e5/exterior/exterior_3_st.webp" width="3000" height="2250" title="Audi E5 Sportback" >}}
+{{< sitefiguresized thumb="models/e5/exterior/exterior_3_st.webp" width="3000" height="2250" title="AUDI E5 Sportback" >}}
 
 ## Lakkfarger
 
-Audi E5 Sportback er tilgjengelig i seks eksteriorfarger utviklet spesielt for det kinesiske markedet:
+AUDI E5 Sportback er tilgjengelig i seks eksteriorfarger utviklet spesielt for det kinesiske markedet:
 
 - **Arabica Grey** (Arabica-grå)
 - **Glacier White** (Breisøvit)
@@ -49,13 +49,13 @@ Audi E5 Sportback er tilgjengelig i seks eksteriorfarger utviklet spesielt for d
 - **Liquid Silver** (Flytende sølv)
 - **Cactus Green** (Kaktusgrønn)
 
-{{< evkxfiguresized thumb="models/audi/e5_/e5/headlights_3a9d5_st.webp" width="3000" height="2249" title="Audi E5 Sportback Matrix LED frontlykter" >}}
+{{< evkxfiguresized thumb="models/audi/e5_/e5/headlights_3a9d5_st.webp" width="3000" height="2249" title="AUDI E5 Sportback Matrix LED frontlykter" >}}
 
 ## Frontlykter
 
 E5 Sportback er utstyrt med **Matrix LED adaptivt nærlys** som standard på alle varianter. Frontlyktene har individuelt styrbare stråler for presis lystyring og støtter **tilpassbare DRL-signaturmønstre** for personliggjøring av lysignaturen.
 
-{{< evkxfiguresized thumb="models/audi/e5_/e5/taillights_efc10_st.webp" width="3000" height="2250" title="Audi E5 Sportback OLED baklykter" >}}
+{{< evkxfiguresized thumb="models/audi/e5_/e5/taillights_efc10_st.webp" width="3000" height="2250" title="AUDI E5 Sportback OLED baklykter" >}}
 
 ## Baklykter
 

@@ -1,12 +1,12 @@
 ---
-title: Audi E5 Sportback teknologi
+title: AUDI E5 Sportback teknologi
 linktitle: Teknologi
-description: Audi E5 Sportback kombinerer 420 kW DC-hurtiglading, V2L på 33 kW, omfattende Level 2 kjøreassistanse og en kinesisk-spesifikk tilkoblet programvareplattform.
+description: AUDI E5 Sportback kombinerer rask DC-lading, omfattende kjøreassistanse og en tilkoblet programvareplattform utviklet for Kina.
 weight: 7
 ---
 <!-- markdownlint-disable MD033 -->
 
-Teknologi er en sentral pilar i Audi E5 Sportback. Bilen er bygget på en dypt tilkoblet, intelligent plattform co-utviklet med SAIC og leverer omfattende kjøreassistanse, ultrarask lading og et kinesisk-spesifikt digitalt økosystem.
+Teknologi er en sentral pilar i AUDI E5 Sportback. Bilen er bygget på en dypt tilkoblet, intelligent plattform co-utviklet med SAIC og leverer omfattende kjøreassistanse, ultrarask lading og et kinesisk-spesifikt digitalt økosystem.
 
 ## Lading
 
@@ -22,10 +22,6 @@ E5 Sportback støtter **420 kW DC-hurtiglading** på alle varianter — en av de
 | **0–100% AC-tid** | ~8 t 38 min | ~8 t 38 min | ~7 t 10 min | ~8 t 38 min |
 
 Toppladehastigheten nås ved ca. 14% ladestand og avtar gradvis. Ved 80% ladestand er ladeeffekten ca. 191 kW. Det optimale ladevinduet for 100 kWh-batteriet er 5–67% SoC.
-
-## V2L — Vehicle to Load
-
-Alle varianter støtter **Vehicle-to-Load (V2L)** med opptil **33 kW uteffekt**, noe som gjør det mulig å drive eksterne enheter eller lade andre elbiler (V2V). Dette er tilgjengelig via ladeporten uten tilleggsutstyr.
 
 ## Kjøreassistansesystemer
 
@@ -62,16 +58,7 @@ Disse systemene er optimalisert for tett bytrafikk typisk for store kinesiske by
 
 ## Sikkerhet
 
-Audi E5 Sportback har oppnådd **5-stjerners Euro NCAP-vurdering**:
-
-| Kategori | Score |
-|---|---|
-| Voksen beboer | 91% |
-| Barnebeboer | 92% |
-| Sårbare trafikanter | 81% |
-| Sikkerhetsassistanse | 80% |
-
-**Kollisjonsputer:** Fører- og passasjerfrontkollisjonsputer; frontsidekollisjonsputer; andre-rad sidekollisjonsputer; fremre og bakre sidegardinkollisjonsputer; frontsenterkollisjonspute.
+Produsenten beskriver karosseriet som utviklet etter en femstjerners sikkerhetsstandard, med mer enn 83,6 % høyfast stål. Sikkerhetssystemet omfatter front-, side-, gardin- og midtkollisjonsputer foran. Modellen er ikke testet av Euro NCAP.
 
 ## Tilkobling
 

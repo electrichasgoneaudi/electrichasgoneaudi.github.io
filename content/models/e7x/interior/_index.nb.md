@@ -90,7 +90,7 @@ Flagship quattro erstatter Smart Living Room med **Palassnivå zero-press fire-s
 
 ## Helsesertifisering
 
-Hele kabinen har **OEKO-TEX® mor og barn-nivå helsesertifisering**, som dekker seter, sikkerhetsbelte, ratt, instrumentpanel, trimplater, kopholdere og mer — alle verifisert mot over 1 000 skadelige stoffer (verdi ¥8 000).
+Hele kabinen har **OEKO-TEX® mor og barn-nivå helsesertifisering**, som dekker seter, sikkerhetsbelte, ratt, instrument panel, trimplater, kopholdere og mer — alle verifisert mot over 1 000 skadelige stoffer (verdi ¥8 000).
 
 ## Skjermer og brukergrensesnitt
 

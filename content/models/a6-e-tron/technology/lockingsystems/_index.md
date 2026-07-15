@@ -1,13 +1,13 @@
 ---
-title: Audi Q8 e-tron locking systems
+title: Audi A6 e-tron locking systems
 linktitle: Access & locking
-description: Audi Q8 e-tron have different key and locking options.
+description: The Audi A6 e-tron offers several key and locking options.
 weight: 7
 ---
 <!-- markdownlint-disable MD033 -->
 ## Standard key
 
-The standard key on Audi Q8 e-tron is equipped with Keyless Go. This means that the engine start authorization is released without actively actuating the key. 
+The standard key on Audi A6 e-tron is equipped with Keyless Go. This means that the engine start authorization is released without actively actuating the key.
 
 To do this, the driver must sit in the vehicle and carry the convenience key with him.
 
@@ -25,9 +25,9 @@ The engine is started and switched off using the engine start-stop button in the
 
 The advance/convenience key offers convenient control of access and engine start authorization without the key having to be actively operated
 
-By operating the door handle, the vehicle can be opened without actively using the key. This is possible with all doors. The access authorization is confirmed by wireless communication between the key and the vehicle. 
+By operating the door handle, the vehicle can be opened without actively using the key. This is possible with all doors. The access authorization is confirmed by wireless communication between the key and the vehicle.
 
-To lock the vehicle from the outside, all you have to do is touch one of the sensor buttons on all door handles. 
+To lock the vehicle from the outside, all you have to do is touch one of the sensor buttons on all door handles.
 
 The luggage compartment lid can be conveniently unlocked using the luggage compartment button on the convenience key or, if you do not have a free hand, with a foot gesture (kick movement) at the rear.
 
@@ -39,7 +39,7 @@ The luggage compartment lid can be conveniently unlocked using the luggage compa
     <figcaption><h4>With advance key you can open tailgate with kicking the foot under the tailgate</h4></figcaption>
 </figure>
 
-As the standard key, the advance key on Audi Q8 e-tron is equipped with Keyless Go. This means
+As the standard key, the advance key on Audi A6 e-tron is equipped with Keyless Go. This means
 the engine start authorization is also released without actively actuating the convenience key.
 
 To do this, the driver must sit in the vehicle and carry the convenience key with him.
@@ -74,7 +74,7 @@ Anti-theft alarm system
 
 ## Audi Connect key 2F1
 
-Audi connect key lets you set up your Android phone as the only key you need. 
+Audi connect key lets you set up your Android phone as the only key you need.
 
 {{< youtube 6fuv-envA2U>}}
 

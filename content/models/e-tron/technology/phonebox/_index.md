@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron phone box
 linktitle: Audi Phone box
-description: With Audi Phone Box you can improve convience with using telephone in the car.
+description: The Audi phone box improves the convenience of using a phone in the car.
 weight: 9
 ---
 <!-- markdownlint-disable MD033 -->
@@ -17,7 +17,7 @@ music in the car. Depending on the smartphone model, it is also possible to view
     <figcaption><h4>Audi Phone Box holder with inductive charging</h4></figcaption>
 </figure>
 
-The smart phone can be charged and stored safely in the universal holder in the center consol  of the car. The holder is connected to the car's antenna for better reception and voice quality. In addition, the radiation from the mobile phone in the passenger compartment is reduced, as the phone needs less transmission power. 
+The smartphone can be charged and stored securely in the universal holder in the center console. The holder connects the phone to the car's external antenna for better reception and call quality. This also reduces radio-frequency exposure inside the cabin because the phone can transmit at lower power.
 
 As more and more mobile phones can be charged wirelessly, the Audi phone box is equipped with an inductive charging function (Qi standard) in addition to the USB port. The charge level is shown on the MMI display. If you leave the car while the phone is in the holder, an alert is triggered
 

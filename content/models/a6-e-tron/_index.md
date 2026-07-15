@@ -1,110 +1,59 @@
 ---
 title: Audi A6 e-tron
 linktitle: Audi A6 e-tron
-description: The Audi A6 e-tron offers various motors, batteries, technology, and design options, with a range of up to 750km.
+description: The Audi A6 e-tron is an electric Sportback and Avant with up to 756 km WLTP range, 800-volt charging, and rear-wheel or quattro drive.
 weight: 7
 shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 
-The Audi A6 e-tron was first revealed in April 2021 as a concept car and had its world premiere on July 31, 2024. It is the sixth all-electric model from Audi. With a range of up to 750km, it will be the all-electric model with the longest range from Audi.
+The **Audi A6 e-tron** is the first fully electric Audi offered as both a Sportback and an Avant. The production model had its world premiere on July 31, 2024, following the A6 e-tron concept shown in 2021. Customer ordering began in September 2024, and the range expanded with additional drivetrains in October 2024.
 
-The Audi A6 is available in both Sportback and Avant versions.
+Built on the **Premium Platform Electric (PPE)**, the A6 e-tron combines a low, aerodynamic body with long range, rapid charging, and a spacious digital interior.
 
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/variants/variants_1_st.webp" width="3000" height="2250" title="Audi A6 e-tron variants" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/variants/variants_1_st.webp" width="3000" height="2250" title="Audi A6 e-tron Sportback and Avant" >}}
 
-The first owners are expected to receive their cars in late 2024.
+## Variants
 
-Join our [international Audi A6 e-tron owners group](https://www.facebook.com/groups/5590477234297637) on Facebook to stay updated with the latest information and discuss the car with others.
+The range includes Sportback and Avant versions with rear-wheel drive or quattro all-wheel drive. Depending on model and market, the line-up includes the A6 e-tron, A6 e-tron performance, A6 e-tron quattro, and S6 e-tron.
 
-## Audi A6 e-tron Variants
+Two battery sizes are used:
 
-The following variants are or will be available from autumn 2024:
+- **83 kWh gross / 75.8 kWh usable**
+- **100 kWh gross / 94.9 kWh usable**
 
-- Audi A6 Sportback e-tron
-- Audi A6 Sportback e-tron Performance
-- Audi A6 Sportback e-tron Quattro
-- Audi S6 Sportback e-tron
-- Audi A6 Avant e-tron
-- Audi A6 Avant e-tron Performance
-- Audi A6 Avant e-tron Quattro
-- Audi S6 Avant e-tron
+The A6 Sportback e-tron performance offers the longest official range at up to **756 km WLTP**. See the [variants section](variants/) for detailed outputs, range, equipment, and body-style differences.
 
-Learn more about the variants in our [Audi A6 e-tron variants section](variants/).
+## Exterior
 
+The A6 Sportback e-tron has a drag coefficient as low as 0.21, making it the most aerodynamic production Audi at launch. The Avant combines a practical estate body with a drag coefficient from 0.24. Both use split front lighting, a closed Singleframe, a continuous rear light strip, and pronounced quattro blisters.
 
-## Exterior and design
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/malpeloblue_4_st.webp" width="3000" height="2250" title="Audi A6 e-tron" >}}
 
-The Audi A6 e-tron features a clean design focused on dynamism, progressiveness, and elegance, with a harmonious and expressive front. The black mask surrounding the closed and inverted single frame integrates the main headlights and other functional elements, 
-making them almost invisible. The dynamic roofline and quattro blisters emphasize the quattro drive, while the battery is highlighted by a black insert in the sill area. The rear combines sporty elegance with full power, featuring a continuous light strip and a striking spoiler lip. 
-
-The Audi A6 e-tron offers various wheel designs and up to eight exterior colors, including exclusive options for the S line variant and S model. You can read everything about exterior options like paint colors, wheel options, styling, and much more in our [exterior section](exterior/).
-
-<a href="exterior"><img src="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/malpeloblue_4_st.webp" class="img-fluid" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept"></a>
+Explore [exterior colors, wheels, lighting, and styling packages](exterior/).
 
 ## Interior
 
-The interior of the Audi A6 e-tron is consistently geared towards the users’ needs. The
-three-dimensional and high-contrast design deliberately places elements in the foreground or
-background, creating a spatial architecture tailored to the occupants in terms of design and
-ergonomics.
+The digital stage consists of an **11.9-inch Audi virtual cockpit** and a **14.5-inch MMI touch display**. A **10.9-inch front-passenger display** is optional. Available equipment includes an augmented-reality head-up display, a panoramic roof with switchable transparency, virtual exterior mirrors, and a Bang & Olufsen sound system with headrest speakers.
 
-Audi A6 e-tron is available with different seat options, interior materials, colors. Read all about the interior options in our [Audi A6 e-tron interior section](interior/).
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwo_2_st.webp" width="3000" height="2250" title="Audi A6 e-tron interior" >}}
 
-<a href="interior"><img src="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwo_2_st.webp" class="img-fluid" alt="Audi A6 e-tron interior" title="Audi A6 e-tron interior"></a>
+See the [interior section](interior/) for seats, materials, screens, storage, and controls.
 
-## Drivetrain
+## Drivetrain and charging
 
-The Audi A6 e-tron is a high-performance electric vehicle with a 100 kWh lithium-ion battery, offering a range of up to 756 kilometers. It features powerful electric motors, with the A6 e-tron performance variant delivering up to 270 kW and the S6 e-tron up to 370 kW. The vehicle supports rapid charging with 800-volt technology, allowing for a range of up to 310 kilometers in just ten minutes. Advanced recuperation and an integrated Brake System enhance efficiency. The suspension system, including an optional adaptive air suspension, provides a balance between comfort and sporty handling.
+The PPE platform uses an **800-volt electrical architecture**. Versions with the 100 kWh battery can charge at up to **270 kW**, taking approximately **21 minutes from 10 to 80%** under ideal conditions. The 83 kWh version charges at up to 225 kW and reaches 80% in the same stated time.
 
-[Read all about the drivetrain including the battery, suspension and motors.](drivetrain)
+Rear-wheel-drive models prioritize efficiency and range, while quattro and S6 variants add a front motor for traction and performance. Adaptive air suspension is available as an option.
 
+Read the [drivetrain section](drivetrain/) for battery, motor, charging, braking, and suspension details.
 
-<a href="drivetrain"><img src="https://media.evkx.net/ehga/models/a6-e-tron/drivetrain/drivetrain_1_st.webp" class="img-fluid" alt="Audi A6 e-tron interior" title="Audi A6 e-tron interior"></a>
+## Technology and equipment
 
-## Technology
+The A6 e-tron combines Android Automotive-based infotainment, the Audi application store, over-the-air functions, configurable digital light signatures, and second-generation digital OLED rear lights. Driver-assistance and comfort equipment vary by market and package.
 
-The Audi A6 e-tron showcases cutting-edge technology, emphasizing advanced lighting and digital features. It offers digital daytime running lights with LED technology and second-generation digital OLED rear lights, which include around 45 segments per panel for enhanced car-to-x communication and road safety. The rear lights can display warning symbols in critical situations, and the front lights feature twelve dimmable segments for a dynamic light signature.
+- [Technology](technology/)
+- [Options and equipment guide](optionguide/)
+- [International Audi A6 e-tron owners group](https://www.facebook.com/groups/5590477234297637)
 
-Inside, the A6 e-tron features the MMI panoramic display with OLED technology, consisting of an 11.9-inch virtual cockpit, a 14.5-inch touch display, and a 10.9-inch front passenger display. Active Privacy Mode allows passengers to enjoy entertainment without distracting the driver. The optional second-generation augmented reality head-up display (AR HuD) projects relevant information onto the windshield.
-
-The infotainment system runs on Android Automotive OS, supporting over-the-air updates and third-party apps via the Audi Application Store. Voice control is significantly expanded with the Audi assistant, which integrates ChatGPT for natural language interaction.
-
-The Bang & Olufsen Premium Sound System with headrest loudspeakers provides an immersive audio experience.
-
-Read all about the technology in our [Audi A6 e-tron technology section](technology)
-
-## Trim level and equipment options
-
-Audi A6 e-tron is available with several options and trim levels.
-
-- S-line exterior
-- Black optics
-- Different wheels
-- Different seats, including seats with massage and ventilation
-- Different driver assistant systems
-- Different lights
-
-Audi have reduce the number of combinations of options. So instead of most options being offered separately, like on the Audi Q8 e-tron, they have introduced options packages.
-
-Read all about the options in the [Audi A6 e-tron options sections](optionguide)
-
-## Media
-
-See detailed video from @auditography
-
-<p>
-{{< youtube Pn421Y2GjEY >}}
-</p>
-
-<p>
-{{< youtube _j9uw6lxT3I >}}
-</p>
-
-<p>
-{{< youtube eqIbYx5QW0k >}}
-</p
-
-<p>
-{{< youtube 0wUaMniPIIY >}}
-</p>
+{{<children description="true" />}}

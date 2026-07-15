@@ -1,16 +1,16 @@
 ---
-title: Audi E5 Sportback varianter
+title: AUDI E5 Sportback varianter
 linktitle: Varianter
-description: Audi E5 Sportback tilbys i fire varianter priset fra ¥235 900 til ¥339 000, med både ettmotors bakhjulsdrift og tomotors firehjulsdrift.
+description: AUDI E5 Sportback tilbys i fire varianter priset fra ¥235 900 til ¥339 000, med både ettmotors bakhjulsdrift og tomotors firehjulsdrift.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
 
-Audi E5 Sportback tilbys i fire tydelig definerte varianter. Utstyrsnivået er høyt standardisert, med et høyt nivå av teknologi og komfort inkludert som standard i hele modellprogrammet. Priser i CNY.
+AUDI E5 Sportback tilbys i fire tydelig definerte varianter. Utstyrsnivået er høyt standardisert, med et høyt nivå av teknologi og komfort inkludert som standard i hele modellprogrammet. Priser i CNY.
 
-### Audi E5 Sportback Pioneer
+### AUDI E5 Sportback Pioneer
 
-{{< evkxfiguresized thumb="models/audi/e5_/e5/main_bd520_st.webp" width="3000" height="2250" title="Audi E5 Sportback" >}}
+{{< evkxfiguresized thumb="models/audi/e5_/e5/main_bd520_st.webp" width="3000" height="2250" title="AUDI E5 Sportback" >}}
 
 **Pris: ¥235 900**
 
@@ -24,7 +24,7 @@ Grunnvarianten Pioneer bruker en enkelt bakmontert PMSM som yter 220 kW (299 hk)
 - Matrix LED adaptive frontlykter med tilpassbare DRL-signaturer
 - OLED baklykter
 - Bose 12-høyttaler lydsystem
-- Fullbredde panoramisk digitalt display (digitalt instrumentpanel + infotainment)
+- Fullbredde panoramisk digitalt display (digitalt instrument panel + infotainment)
 - Flerfarge stemningslys (dashbord, dørpaneler, fotrom)
 - Stemmekontroll
 - 3× USB-C-porter
@@ -40,7 +40,6 @@ Grunnvarianten Pioneer bruker en enkelt bakmontert PMSM som yter 220 kW (299 hk)
 - 360° kamerasystem
 - Nøkkelfri adgang og telefon-som-nøkkel
 - Integrert dashcam
-- V2L (Vehicle-to-Load): 33 kW uteffekt, V2V-kompatibel
 - Elektrisk bakluke med sparksensor
 
 > **Merk:** Head-up display er **ikke** inkludert på Pioneer.
@@ -49,7 +48,7 @@ Grunnvarianten Pioneer bruker en enkelt bakmontert PMSM som yter 220 kW (299 hk)
 
 ---
 
-### Audi E5 Sportback Pioneer Plus
+### AUDI E5 Sportback Pioneer Plus
 
 **Pris: ¥269 900**
 
@@ -67,7 +66,7 @@ Alt annet standardutstyr er identisk med Pioneer.
 
 ---
 
-### Audi E5 Sportback Pioneer quattro
+### AUDI E5 Sportback Pioneer quattro
 
 **Pris: ¥269 900**
 
@@ -86,7 +85,7 @@ Pioneer quattro introduserer tomotors firehjulsdrift med en samlet effekt på 38
 
 ---
 
-### Audi E5 Sportback quattro
+### AUDI E5 Sportback quattro
 
 **Pris: ¥339 000**
 

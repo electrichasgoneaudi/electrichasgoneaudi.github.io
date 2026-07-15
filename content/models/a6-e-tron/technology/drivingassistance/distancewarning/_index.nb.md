@@ -1,9 +1,9 @@
 ---
-title: Audi Q6 e-tron avstandvarsling
+title: Audi A6 e-tron avstandvarsling
 linktitle: Avstandvarsling
-description: Audi Q6 e-tron er utstyrt med avstandsvarling. Avstandsvarslingen varsler deg når du kjører for nærme bilen foran deg.
+description: Audi A6 e-tron er utstyrt med avstandsvarling. Avstandsvarslingen varsler deg når du kjører for nærme bilen foran deg.
 weight: 1
-sectiontabs: "/nb/models/q6-e-tron/technology/"
+sectiontabs: "/nb/models/a6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 De fleste andre sjåfører ville ikke tro at noen Audi har slikt utstyr. Den kan justeres til 1, 2 eller 3 sekunder

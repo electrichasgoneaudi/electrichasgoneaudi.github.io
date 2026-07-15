@@ -67,7 +67,7 @@ Fra **Pioneer Pro** og oppover leveres E7X med standard **digitale kamerabaserte
 
 ## Panoramatak
 
-Det **intelligente elektrokromiske panoramataket** har et stort glassareal på 2 195 m² med elektronisk justerbar farging, som blokkerer 99,99 % UV, 99,9 % infrarødt og 99,85 % solstråling.
+Det **intelligente elektrokromiske panoramataket** har et glassareal på 2,195 m² med elektronisk justerbar toning, som blokkerer 99,99 % UV, 99,9 % infrarød stråling og 99,85 % av solstrålingen.
 
 {{< evkxfiguresized thumb="models/audi/e7x/e7x_flagship_quattro/exterior_633f7_st.webp" width="1920" height="1080" title="AUDI E7X" >}}
 

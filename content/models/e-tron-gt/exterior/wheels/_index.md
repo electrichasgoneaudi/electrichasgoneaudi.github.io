@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron GT wheels
 linktitle: Wheels
-description: Audi e-tron GT / Audi RS e-tron GT have serveral wheels to choose from.
+description: The Audi e-tron GT and RS e-tron GT offer several wheel designs.
 weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
@@ -96,70 +96,70 @@ The following wheels have been available from Audi to Audi e-tron GT. Varies for
     <figcaption><h4>21 inch 5 dobbel arm concav module black</h4></figcaption>
 </figure>
 
-## 21" 10 arm trapez modul design titan grey polished
+## 21" 10 arm trapez module design titan grey polished
 
 9.5j x 21 with 265/35 in front and 11.5J x 21 with 305/30 rear Part No: **54C**
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_54c_1.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_54c_1s.webp" class="img-fluid" alt="21 inch 10 arm trapez modul design titan grey polished by Auditography" title="21 inch 10 arm trapez modul design titan grey polished by Auditography">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_54c_1s.webp" class="img-fluid" alt="21 inch 10 arm trapez module design titan grey polished by Auditography" title="21 inch 10 arm trapez module design titan grey polished by Auditography">
     </a>
-    <figcaption><h4>21 inch 10 arm trapez modul design titan grey polished by @Auditography</h4></figcaption>
+    <figcaption><h4>21 inch 10 arm trapez module design titan grey polished by @Auditography</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_54c_2.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_54c_2s.webp" class="img-fluid" alt="21 inch 10 arm trapez modul design titan grey polished by Auditography" title="21 inch 10 arm trapez modul design titan grey polished by Auditography">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_54c_2s.webp" class="img-fluid" alt="21 inch 10 arm trapez module design titan grey polished by Auditography" title="21 inch 10 arm trapez module design titan grey polished by Auditography">
     </a>
-    <figcaption><h4>21 inch 10 arm trapez modul design titan grey polished</h4></figcaption>
+    <figcaption><h4>21 inch 10 arm trapez module design titan grey polished</h4></figcaption>
 </figure>
 
-## 21" 10 arm trapez modul design platina grey
+## 21" 10 arm trapez module design platina grey
 
 9.5j x 21 with 265/35 in front and 11.5J x 21 with 305/30 rear Part No: **47L**
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_47l_1.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_47l_1s.webp" class="img-fluid" alt="21 inch 10 arm trapez modul design titan grey polished by Auditography" title="21 inch 10 arm trapez modul design titan grey polished by Auditography">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_47l_1s.webp" class="img-fluid" alt="21 inch 10 arm trapez module design titan grey polished by Auditography" title="21 inch 10 arm trapez module design titan grey polished by Auditography">
     </a>
-    <figcaption><h4>21 inch 10 arm trapez modul design titan grey polished by @Auditography</h4></figcaption>
+    <figcaption><h4>21 inch 10 arm trapez module design titan grey polished by @Auditography</h4></figcaption>
 </figure>
 
-## 21" 10 arm trapez modul design black polished
+## 21" 10 arm trapez module design black polished
 
 9.5j x 21 with 265/35 in front and 11.5J x 21 with 305/30 rear Part No: **47J**
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_47J_1.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_47J_1s.webp" class="img-fluid" alt="21 inch 10 arm trapez modul design black polished" title="21 inch 10 arm trapez modul design black polished">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_47J_1s.webp" class="img-fluid" alt="21 inch 10 arm trapez module design black polished" title="21 inch 10 arm trapez module design black polished">
     </a>
-    <figcaption><h4>21 inch 10 arm trapez modul design black polished</h4></figcaption>
+    <figcaption><h4>21 inch 10 arm trapez module design black polished</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_47J_2.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_47J_2s.webp" class="img-fluid" alt="21 inch 10 arm trapez modul design black polished" title="21 inch 10 arm trapez modul design black polished">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_47J_2s.webp" class="img-fluid" alt="21 inch 10 arm trapez module design black polished" title="21 inch 10 arm trapez module design black polished">
     </a>
-    <figcaption><h4>21 inch 10 arm trapez modul design black polished</h4></figcaption>
+    <figcaption><h4>21 inch 10 arm trapez module design black polished</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_47J_3.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_47J_3s.webp" class="img-fluid" alt="21 inch 10 arm trapez modul design black polished" title="21 inch 10 arm trapez modul design black polished">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_47J_3s.webp" class="img-fluid" alt="21 inch 10 arm trapez module design black polished" title="21 inch 10 arm trapez module design black polished">
     </a>
-    <figcaption><h4>21 inch 10 arm trapez modul design black polished</h4></figcaption>
+    <figcaption><h4>21 inch 10 arm trapez module design black polished</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_47J_4.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_47J_4s.webp" class="img-fluid" alt="21 inch 10 arm trapez modul design black polished" title="21 inch 10 arm trapez modul design black polished">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_47J_4s.webp" class="img-fluid" alt="21 inch 10 arm trapez module design black polished" title="21 inch 10 arm trapez module design black polished">
     </a>
-    <figcaption><h4>21 inch 10 arm trapez modul design black polished</h4></figcaption>
+    <figcaption><h4>21 inch 10 arm trapez module design black polished</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_47J_5.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_47J_5s.webp" class="img-fluid" alt="21 inch 10 arm trapez modul design black polished" title="21 inch 10 arm trapez modul design black polished">
+        <img src="https://media.evkx.net/ehga/models/e-tron-gt/exterior/wheels/wheel_47J_5s.webp" class="img-fluid" alt="21 inch 10 arm trapez module design black polished" title="21 inch 10 arm trapez module design black polished">
     </a>
-    <figcaption><h4>21 inch 10 arm trapez modul design black polished</h4></figcaption>
+    <figcaption><h4>21 inch 10 arm trapez module design black polished</h4></figcaption>
 </figure>

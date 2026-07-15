@@ -49,7 +49,7 @@ The air suspension can adjust the body to different heights. It lowers the body 
     <figcaption><h4>3 chamber air suspension</h4></figcaption>
 </figure>
 
-The below diagram shows the different ride levels depending on settings and speed with air suspension
+The following diagram shows the different ride levels depending on settings and speed with air suspension
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/drivetrain/suspension/ridelevel.webp">

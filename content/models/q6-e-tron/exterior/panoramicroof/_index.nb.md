@@ -1,17 +1,13 @@
 ---
 title: Audi Q6 e-tron panoramatak
 linktitle: Panoramatak
-description: Ønsker du å skille deg ut i mengden kan du bestille din Q6 e-tron med panoramatak.
+description: Det valgfrie panoramaglasstaket gir mer dagslys i kupeen i Audi Q6 e-tron.
 weight: 6
 sectiontabs: "/nb/models/q6-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 
-Taket kan åpnes. I tillegg til å gi Audi Q8 e-tron et kulere utseende, gir den mer lys inn i bilen og bedre sikt fra innsiden.
-
-## Panoramasoltak i glass
-
-Du kan bestille panoramatak med opsjons-ID **3FU**
+Det valgfrie panoramaglasstaket bruker tonet sikkerhetsglass og har elektrisk solgardin. Det kan vippes og åpnes elektrisk, men spesifikasjon og tilgjengelighet varierer mellom marked og modellår.
 
 
 

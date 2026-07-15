@@ -1,7 +1,7 @@
 ---
 title: AUDI E7X
 linktitle: AUDI E7X
-description: The AUDI E7X is a China-exclusive, fully electric premium SUV developed with SAIC. It had its world premiere at Beijing Auto 2026 and sales started in China on 8 May 2026.
+description: The AUDI E7X is a China-exclusive electric premium SUV developed with SAIC. It premiered at Auto China in Beijing and went on sale in China on May 29, 2026.
 weight: 10
 shownavtabs: true
 ---
@@ -11,7 +11,7 @@ The **AUDI E7X** is a **China-exclusive, fully electric premium SUV** and the **
 
 {{< sitefiguresized thumb="models/e7x/exterior/exterior_1_st.webp" width="3000" height="2250" title="AUDI E7X" >}}
 
-The AUDI E7X made its **world premiere at Beijing Auto 2026 on April 24, 2026**. **Sales started in China on 8 May 2026.** Production takes place at the **AUDI intelligent production base in Anting, Shanghai**.
+The AUDI E7X made its **world premiere at Auto China in Beijing on April 24, 2026**. Pre-sales opened on May 8, followed by the **official sales launch in China on May 29, 2026**, with prices starting at **¥269,800**. Production takes place at the **AUDI intelligent production base in Anting, Shanghai**.
 
 ---
 
@@ -23,7 +23,7 @@ Unlike global Audi models, AUDI-branded vehicles **do not wear the four-ring log
 
 The E7X is part of a **three-model roadmap** for the AUDI brand in China:
 1. **AUDI E5 Sportback** — launched September 2025, China Car of the Year 2026
-2. **AUDI E7X** — sales started 8 May 2026
+2. **AUDI E7X** — officially launched on May 29, 2026
 3. **All-electric sedan** — world premiere 2027
 
 ---

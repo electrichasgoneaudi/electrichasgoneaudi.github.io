@@ -24,12 +24,12 @@ The brakes also blend in the physical brakes if needed mixing it with the regene
 
 <figure>
     <a href="https://media.evkx.net/ehga/guides/regen/recuperation.webp">
-        <img src="https://media.evkx.net/ehga/guides/regen/recuperations.webp" class="img-fluid" alt="Coasting regneration" title="Coasting regneration">
+        <img src="https://media.evkx.net/ehga/guides/regen/recuperations.webp" class="img-fluid" alt="Coasting regeneration" title="Coasting regeneration">
     </a>
     <figcaption><h4>Coasting regeneration</h4></figcaption>
 </figure>
 
-The below video shows in detail how the different engines are used.
+The following video shows in detail how the different engines are used.
 
 {{< youtube 2WPTHi2FUdQ >}}
 
@@ -85,7 +85,7 @@ With 80% drivetrain efficiency, this means the car will be able to get 0.38kWh b
 
 A full trip on 100km (62 miles) with 10 full stops like this would then save 3.8kWh for the total trip compared with a car with only friction brakes.
 
-This means a consumption reduction of 3.8kWh/100km.  
+This means a consumption reduction of 3.8kWh/100km.
 
 ### Scenario 3: Reduce speed from 30 mph to fully stop
 
@@ -111,7 +111,7 @@ This reduces energy consumption by 6.05kWh/100km compared to a car with only fri
 
 This mountain is located in Northern Norway and the main road from South to North passes over it (E6).
 
-If we take [this section](https://www.google.com/maps/dir/66.6848804,15.4189889/66.8133394,15.4007768/@66.7980852,15.1624003,10z/data=!3m1!4b1) of the road where it starts to go downhill we see that the start is at 650 meters (2132feet) and it ends at 125 meters (410 feet) above sea level. 
+If we take [this section](https://www.google.com/maps/dir/66.6848804,15.4189889/66.8133394,15.4007768/@66.7980852,15.1624003,10z/data=!3m1!4b1) of the road where it starts to go downhill we see that the start is at 650 meters (2132feet) and it ends at 125 meters (410 feet) above sea level.
 With a distance of 16.4 km (10.2 miles), this gives a decline of 3.1%
 
 This means potential energy of 4.147 kWh.
@@ -130,7 +130,7 @@ A moving object has kinetic energy. This energy depends on the weight of the obj
 
 The formula is
 
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.image?KE&space;=&space;\frac{1}{2}mv{2}) 
+![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.image?KE&space;=&space;\frac{1}{2}mv{2})
 
 Where
 
@@ -140,7 +140,7 @@ Where
 
 In addition, 1 Joule is 2.778·10⁻⁴ Wh
 
-In all calculations on this page, we use the Audi e-tron 55 with a weight of 2900kg in the examples (car + driver). The below table shows how much kinetic energy this car will have in common speeds-
+In all calculations on this page, we use the Audi e-tron 55 with a weight of 2900kg in the examples (car + driver). The following table shows how much kinetic energy this car will have in common speeds-
 
 |Speed km/h | mph | m/s | Kinetic energy |
 |----|-----|-----|-----|
@@ -198,7 +198,7 @@ See [potential energy calculator](https://www.omnicalculator.com/physics/potenti
 
 ### Summary
 
-The below graph shows the total kinetic energy and the two types of kinetic energy.
+The following graph shows the total kinetic energy and the two types of kinetic energy.
 
 <figure>
     <a href="https://media.evkx.net/ehga/guides/regen/kinetic.webp">
@@ -247,7 +247,7 @@ In addition to drag force, there is rolling resistance from wheels and other dri
 It is not easy to find this number, but with knowing the total consumption and the consumption caused by drag, and the efficiency on the drivetrain it is possible to estimate the rolling resistance on the Audi e-tron.
 
 Based on driver history it seems like driving on a dry road at 80 km/h in summer temperature requires around 19kWh/100km energy from the battery.
-If we assume 80% efficiency in the drivetrain, we have an energy need of 15.2kWh/100km in total including drag.  
+If we assume 80% efficiency in the drivetrain, we have an energy need of 15.2kWh/100km in total including drag.
 
 If we take away the energy needed for drag, we have around 8.95kWh/100km to overcome rolling resistance.
 
@@ -255,7 +255,7 @@ This number is an estimate. On wet roads or roads with snow, the rolling resista
 
 ### Consumption summary
 
-The below diagram shows the calculated consumption needed to overcome drag and rolling resistance and consumption from the battery based on 80% efficiency of the drivetrain. The real efficiency is not known but it is expected to be around 80%.
+The following diagram shows the calculated consumption needed to overcome drag and rolling resistance and consumption from the battery based on 80% efficiency of the drivetrain. The real efficiency is not known but it is expected to be around 80%.
 
 <figure>
     <a href="https://media.evkx.net/ehga/guides/regen/consumption.webp">

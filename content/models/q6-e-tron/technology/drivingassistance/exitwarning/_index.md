@@ -19,7 +19,6 @@ sectiontabs: "/models/q6-e-tron/technology/"
 
 This system is based on the radar sensors of Audi side assist, which monitor the zones behind the vehicle and to the sides at the rear. Depending on the model the exit warning is extended by an additional feature: If the system is active, opening of the electronic door locks is delayed roughly one second.
 
-This is part of the city assistance package with option id **PCM**
 
 
 {{<children description="true" />}}

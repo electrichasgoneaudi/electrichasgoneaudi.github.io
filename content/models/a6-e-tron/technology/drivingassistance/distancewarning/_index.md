@@ -1,13 +1,13 @@
 ---
-title: Audi Q6 e-tron distance warning
+title: Audi A6 e-tron distance warning
 linktitle: Distance warning
-description: Audi Q6 e-tron is equipped with distance warning. The distance warning warns you when you are driving to close to the car in front of you.
+description: Audi A6 e-tron is equipped with distance warning. The distance warning warns you when you are driving too close to the car in front of you.
 weight: 1
-sectiontabs: "/models/q6-e-tron/technology/"
+sectiontabs: "/models/a6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 
-Most other drivers would not belive any Audi has that kind of equipment. It can be adjusted to 1, 2 or 3 seconds
+Most other drivers would not believe any Audi has that kind of equipment. It can be adjusted to 1, 2 or 3 seconds
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/distancewarning/distanceadjustment.webp">

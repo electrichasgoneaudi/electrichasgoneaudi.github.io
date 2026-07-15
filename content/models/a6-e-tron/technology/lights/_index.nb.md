@@ -12,7 +12,7 @@ Det er tre forskjellige nivåer av frontlykter og DRL på Audi A6 e-tron.
 
 ### Standard LED-frontlykter og DRL
 
-Som standard leverer Audi Audi A6 med LED-lykter og DRL.
+Som standard leverer Audi A6 e-tron med LED-lykter og kjørelys.
 
 LED-frontlyktene gir en belysning av veien som ligner på dagslys og imponerer med lavt energiforbruk, lang levetid og god sikt for andre.
 
@@ -23,7 +23,7 @@ LED-frontlysene inkluderer følgende funksjoner:
 - Kjørelys
 - Posisjonslys
 - Blinkende lys
-  
+
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/technology/lights/headlight_led_1_st.webp" width="3000" height="1680" title="Audi A6 e-tron with standard LED headlights" >}}
 
 ### LED Plus frontlykter & DRL

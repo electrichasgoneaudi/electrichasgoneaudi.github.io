@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron GT steering wheels
 linktitle: Steering wheels
-description: Audi e-tron GT have serveral steering wheel options
+description: Audi e-tron GT tilbyr flere rattalternativer.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->

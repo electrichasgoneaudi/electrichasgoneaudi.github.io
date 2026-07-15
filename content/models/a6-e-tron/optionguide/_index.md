@@ -1,12 +1,12 @@
 ---
 title: Audi A6 e-tron Options Guide
 linktitle: Options Guide
-description: Explore the extensive catalogue of options available for the Audi A6 e-tron.
+description: An overview of the main equipment categories and technology packages offered for the Audi A6 e-tron.
 weight: 25
 ---
 
-The Audi A6 e-tron offers a comprehensive range of options, including advanced lighting technologies like LED and digital OLED rear lights, and high beam assist. It features various technology packages such as Tech and Tech Plus, which include adaptive cruise control, MMI passenger display, and digital light signatures. The vehicle also offers multiple wheel designs, panoramic roofs, and comfort features like sport seats, adaptive air suspension, and progressive steering. Additionally, there are driver assistance systems, storage packages, and convenience features like the digital key and comfort key. Customization options include various exterior colors and black exterior packages.
+The Audi A6 e-tron offers equipment packages covering lighting, assistance, comfort, infotainment and chassis technology. Depending on market and equipment line, these can include Matrix LED headlights, digital OLED rear lights, the MMI passenger display, adaptive cruise assist, sport seats, adaptive air suspension, digital key and soft-close doors.
 
-Electrichasgoneaudi.net provides a comprehensive overview of all available options.
+Package names, option codes and standard equipment vary by country and model year. Always use the current national configurator or price list for a specific order.
 
-See the [complete equipment list](list) for detailed information on all options.
+See the [equipment package overview](list/) for the main option groups.

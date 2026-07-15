@@ -6,6 +6,6 @@ weight: 3
 shownavtabs: true
 ---
 
-The digital functions and capabilities are described in the below sections.
+The digital functions and capabilities are described in the following sections.
 
 {{<children description="true" />}}

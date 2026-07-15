@@ -1,12 +1,12 @@
 ---
-title: Audi e-tron GT drive select 
+title: Audi e-tron GT drive select
 linktitle: Drive Select
 description: Audi e-tron GT is equipped with drive select as standard.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
 The Audi drive select dynamic handling system allows drivers to experience different setups in their Audi e-tron.
-Choosing one of the modes auto, comfort, all-road, offread, dynamic or efficiency changes the characteristic of important drive and suspension components from a comfort bias to distinctly 
+Choosing one of the modes auto, comfort, all-road, offread, dynamic or efficiency changes the characteristic of important drive and suspension components from a comfort bias to distinctly
 dynamic or particularly energy-efficient.
 
 In individual mode, drivers can configure the setup according to their personal preferences.
@@ -19,16 +19,16 @@ Depending on option and setup drive select settings affect the following.
 - dynamic steering
 - HD Matrix LED headlights
 - ambient lighting
-- Electronic stabilisation contol (ESC)
+- Electronic stabilisation control (ESC)
 - Adaptive Cruise Assist
 - Audi Pre Sense
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/audidriveselect/driveselectbuttons.webp">
         <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/audidriveselect/driveselectbuttons.webp"
-        class="img-fluid" alt="Drive Select are available as seperate buttons and from MMI" title="Drive Select are available as seperate buttons and from MMI">
+        class="img-fluid" alt="Drive Select are available as separate buttons and from MMI" title="Drive Select are available as separate buttons and from MMI">
     </a>
-    <figcaption><h4>Drive Select are available as seperate buttons and from MMI</h4></figcaption>
+    <figcaption><h4>Drive Select are available as separate buttons and from MMI</h4></figcaption>
 </figure>
 
 ### Modes
@@ -41,11 +41,11 @@ Depending on option and setup drive select settings affect the following.
     <figcaption><h4>Drive Select menu in MMI</h4></figcaption>
 </figure>
 
-**efficiency** - The vehicle switches to a fuel-efficient vehicle setup and supports the driver with fuel economy messages. The “E” driving program is selected.  
+**efficiency** - The vehicle switches to a fuel-efficient vehicle setup and supports the driver with fuel economy messages. The “E” driving program is selected.
 
 **comfort** - Provides a comfort-oriented vehicle setup and is suited for long drives on highways.
 
-**dynamic** - Gives the driver a sporty driving feel and is suited to a sporty driving style. 
+**dynamic** - Gives the driver a sporty driving feel and is suited to a sporty driving style.
 
 **Individual** - Provides the option for personalized vehicle settings.
 
@@ -65,7 +65,7 @@ The drive system will react to accelerator pedal moves more quickly or in a more
 
 #### Steering
 
-The power steering will adapt. Light steering is suitable for long trips on highways or smooth driving around curves, for example. 
+The power steering will adapt. Light steering is suitable for long trips on highways or smooth driving around curves, for example.
 
 #### Suspension
 

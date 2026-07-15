@@ -1,13 +1,13 @@
 ---
-title: Audi Q8 e-tron låsesystemer
+title: Audi A6 e-tron låsesystemer
 linktitle: Låsesystemer
-description: Audi Q8 e-tron har forskjellige nøkkel og låsesystemer som standard eller tileggsutstyr.
+description: Audi A6 e-tron har forskjellige nøkkel og låsesystemer som standard eller tileggsutstyr.
 weight: 7
 ---
 <!-- markdownlint-disable MD033 -->
 ## Standard nøkkel
 
-Standardnøkkelen på Audi Q8 e-tron er utstyrt med Keyless Go. Dette betyr at motorstartautorisasjonen frigis uten aktiv betjening av nøkkelen.
+Standardnøkkelen på Audi A6 e-tron er utstyrt med Keyless Go. Dette betyr at motorstartautorisasjonen frigis uten aktiv betjening av nøkkelen.
 
 For å gjøre dette må sjåføren sitte i kjøretøyet og ha med seg bekvemmelighetsnøkkelen.
 
@@ -39,7 +39,7 @@ Bagasjeromslokket kan enkelt låses opp ved hjelp av bagasjeromsknappen på bekv
     <figcaption><h4>Med komfortnøkkel kan du åpne bakluken ved å sparke foten under bakluken</h4></figcaption>
 </figure>
 
-Som standardnøkkel er fremføringsnøkkelen på Audi Q8 e-tron utstyrt med Keyless Go. Dette betyr
+Som standardnøkkel er fremføringsnøkkelen på Audi A6 e-tron utstyrt med Keyless Go. Dette betyr
 motorstartautorisasjonen frigis også uten aktiv betjening av bekvemmelighetsnøkkelen.
 
 For å gjøre dette må sjåføren sitte i kjøretøyet og ha med seg bekvemmelighetsnøkkelen.

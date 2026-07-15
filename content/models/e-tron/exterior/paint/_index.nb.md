@@ -25,7 +25,7 @@ Klikk på lenkene for å gå direkte til en farge.
 - [Brilliantsort](../../exterior/paint/#brilliantsort)
 - [Mythossort](../../exterior/paint/#mythossort-metallic)
 
-I tilegg får kan du velge mellom over 50 [Audi Exclusive farger](../../exterior/paint/#audi-exclusive-lakk-farger).
+I tillegg får kan du velge mellom over 50 [Audi Exclusive farger](../../exterior/paint/#audi-exclusive-lakk-farger).
 
 ## Lakkeringsutførelse
 
@@ -372,8 +372,6 @@ Fargekode: **S1**
 
 ### Antiguablå metallic
 
-Fargekode: **??**
-
 <figur>
     <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_antiguablue_1.webp">
         <img src="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_antiguablue_1s.webp" class="img-fluid" alt="Audi e-tron 55 i Antigua Blue med kontrastfarge" title="Audi e-tron 55 i Antigua Blue med kontrastfarge">
@@ -561,7 +559,7 @@ Fargekode: **X6R**
 
 Color code: Z6X
 
-From Audi Smista [@audismista](https://www.instagram.com/audismista/?hl=en) 
+From Audi Smista [@audismista](https://www.instagram.com/audismista/?hl=en)
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_goodwoodgreen_1.webp">

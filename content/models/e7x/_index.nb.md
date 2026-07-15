@@ -1,7 +1,7 @@
 ---
 title: AUDI E7X
 linktitle: AUDI E7X
-description: AUDI E7X er en Kina-eksklusiv, helelektrisk premium-SUV utviklet med SAIC. Den hadde verdenspremiere på Beijing Auto 2026 og salget startet i Kina 8. mai 2026.
+description: AUDI E7X er en Kina-eksklusiv elektrisk premium-SUV utviklet med SAIC. Den hadde verdenspremiere på Auto China i Beijing og kom i salg i Kina 29. mai 2026.
 weight: 10
 shownavtabs: true
 ---
@@ -11,7 +11,7 @@ shownavtabs: true
 
 {{< sitefiguresized thumb="models/e7x/exterior/exterior_1_st.webp" width="3000" height="2250" title="AUDI E7X" >}}
 
-AUDI E7X hadde sin **verdenspremiere på Beijing Auto 2026 den 24. april 2026**. **Salget startet i Kina 8. mai 2026.** Produksjonen foregår ved **AUDIs intelligente produksjonsbase i Anting, Shanghai**.
+AUDI E7X hadde sin **verdenspremiere på Auto China i Beijing 24. april 2026**. Forhåndssalget åpnet 8. mai, før den **offisielle salgsstarten i Kina 29. mai 2026**, med priser fra **¥269 800**. Produksjonen foregår ved **AUDIs intelligente produksjonsbase i Anting, Shanghai**.
 
 ---
 
@@ -23,7 +23,7 @@ I motsetning til globale Audi-modeller benytter ikke AUDI-modellene **de klassis
 
 E7X er del av en **plan med tre modeller** for AUDI-merket i Kina:
 1. **AUDI E5 Sportback** — lansert september 2025, Kinas Årets Bil 2026
-2. **AUDI E7X** — salget startet 8. mai 2026
+2. **AUDI E7X** — offisielt lansert 29. mai 2026
 3. **Helelektrisk sedan** — verdenspremiere 2027
 
 ---

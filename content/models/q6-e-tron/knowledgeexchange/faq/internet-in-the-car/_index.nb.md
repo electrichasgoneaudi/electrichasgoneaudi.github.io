@@ -19,7 +19,7 @@ Denne forbindelsen bruker eSIM og er lisensiert for 10 år når bilen er ny.
 ### App og Smart telefon datapakke
 Denne forbindelsen bruker også eSIM og må aktiveres av bruker før den er klar. Denne forbindelsen brukes til 2 ting:
 1. Databruk for installerte Apper (Vivaldi, Spotify etc)
-2. Databruk (internet) for den delte wifi sonen i bilen. Da må du enable denne funksjonen i MMI og mobile enheter i bilen må da kople seg til denne Wifi sonen og vil da bruke av denne datakvoten. Hvis du kopler opp din mobil til denne WiFi sonen, er det spesielt lurt å slå på lav databruk på din iPhone (antar tilsvarende finnes på Android), ellers kan datakvoten fort tømmes om mobilen f.eks begynner å laste en oppdateringer. 
+2. Databruk (internet) for den delte wifi sonen i bilen. Da må du enable denne funksjonen i MMI og mobile enheter i bilen må da kople seg til denne Wifi sonen og vil da bruke av denne datakvoten. Hvis du kopler opp din mobil til denne WiFi sonen, er det spesielt lurt å slå på lav databruk på din iPhone (antar tilsvarende finnes på Android), ellers kan datakvoten fort tømmes om mobilen f.eks begynner å laste en oppdateringer.
 
 ![alt text](image-14.png)
 
@@ -33,9 +33,9 @@ NB: Vær obs på at det finnes en issue som antyder at AppStore og ev. andre fun
 
 
 # Beskrivelse av hvordan du deler wifi med bilen fra din mobil
-Om Smarttelefonpakken, som er beskrevet i avsnittet lengre ned i artikkelen, ikke virker eller er tom for data, kan du velge å dele fra fra din mobil. 
+Hvis smarttelefonpakken, som er beskrevet lenger ned i artikkelen, ikke virker eller er tom for data, kan du dele internettforbindelsen fra mobilen.
 
-Det fungerer slik at dette valget vil bli prioritert foran den innebygde 3GB datakvoten, og bilen kopler seg opp automatisk. Så dette kan brukes f.eks på langtur om du vil spare av 3GB datakvoten. Om du legger din mobil på ladeplassen, så skal det også bli brukt bilens innebygde antenne slik at du, i teorien, skal få bedre 4G/5G dekning. 
+Det fungerer slik at dette valget vil bli prioritert foran den innebygde 3GB datakvoten, og bilen kopler seg opp automatisk. Så dette kan brukes f.eks på langtur om du vil spare av 3GB datakvoten. Om du legger din mobil på ladeplassen, så skal det også bli brukt bilens innebygde antenne slik at du, i teorien, skal få bedre 4G/5G dekning.
 
 Slik gjør du dette
 
@@ -89,7 +89,7 @@ For å se status på forbruket ditt kan du bruke MMI i bilen din, eller du kan s
 Bare trykk på valget og du kommer til din statusside og med linker til å kjøpe og administrere dine datapakker :
 
 
-Her skal du trykke på 'Etterbestill datavolum', men dessverre pr 24.11.2024 fungerer dette ikke. 
+Her skal du trykke på 'Etterbestill datavolum', men dessverre pr 24.11.2024 fungerer dette ikke.
 
 ### Oppdatering juli 2026
 
@@ -112,6 +112,3 @@ Slik vil det se ut i bilen, her mottar man mer data **før** de gamle er brukt o
 Dette valget fungerer altså ikke inntil videre.
 
 ![](image-7.png)
-
-
-

@@ -1,17 +1,13 @@
 ---
 title: Audi Q6 e-tron panoramic roof
 linktitle: Panoramic roof
-description: If you want to stand out in the crowd you can order your Q6 e-tron with panoramic roof.
+description: The optional panoramic glass sunroof brings more daylight into the Audi Q6 e-tron cabin.
 weight: 6
 sectiontabs: "/models/q6-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 
-In addition to giving Audi Q6 e-tron a cooler look it gives more light into the car and better view from the inside.
-
-## Panoramic glass sunroof
-
-You can order panoramic roof with option id **3FU**
+The optional panoramic glass sunroof uses tinted safety glass and an electric sunshade. It can tilt and open electrically, although specification and availability vary by market and model year.
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/exterior/panoramicroof/panoramic_1_st.webp" width="3000" height="2250" title="Audi Q6 e-tron panoramic roof" >}}
 

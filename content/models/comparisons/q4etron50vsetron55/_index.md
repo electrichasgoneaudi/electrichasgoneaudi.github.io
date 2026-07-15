@@ -1,5 +1,5 @@
 ---
-title: Q4 e-tron 50 quattro vs e-tron 55 quattro 
+title: Q4 e-tron 50 quattro vs e-tron 55 quattro
 linktitle: Q4 e-tron vs e-tron
 description: Here you find a detailed comparison between the Audi Q4 e-tron 50 quattro and the Audi e-tron 55 quattro.
 weight: 1
@@ -125,7 +125,7 @@ Audi Q4 e-tron 50 quattro have an option for Sonos sound system. Audi e-tron has
 
 ## Lights
 
-HD matrix is an option on both models. In addition, Q4 has some fabulous new daylight driving lights as an option where drivers can select a different design. For e-tron Digital HD Matrix also is available. 
+HD matrix is an option on both models. In addition, Q4 has some fabulous new daylight driving lights as an option where drivers can select a different design. For e-tron Digital HD Matrix also is available.
 
 We don't believe that exterior lights will be a deciding factor for many.
 
@@ -181,13 +181,13 @@ Most options are available on both models, but some are only available on the e-
 - [Virtual mirrors](../../e-tron/exterior/mirrors/#virtual-mirrors)
 - [Additional charge port](../../e-tron/technology/onboardcharger/#optional-charge-port)
 - [22KW AC charging](../../e-tron/technology/onboardcharger/#optional-22kw-charger)
-- [Orange painted calibers](../../e-tron/exterior/paintedcalibers/)
+- [Orange painted calipers](../../e-tron/exterior/paintedcalibers/)
 
 If one or more of these options are essential for you, this can be a deciding factor.
 
 ## Price
 
-The starting price is significantly lower on the Q4 e-tron 50 than Audi e-tron 55. But different markets have different packages that give various price differences. In markets where the buyers freely can select options, the starting price difference is about $20.000 / £20.000
+The starting price is significantly lower on the Q4 e-tron 50 than Audi e-tron 55. But different markets have different packages that give various price differences. In markets where the buyers freely can select options, the starting price difference is about $20,000 / £20,000
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/comparisons/q4etron50vsetron55/etronvsq4_2.webp">
@@ -549,7 +549,7 @@ Below you see the full specification and options comparison of the models.
         <td><a href="../../e-tron/technology/drivingassistance/presenseside/">option</a></td>
     </tr>
     <tr>
-        <td>Effiency assist</td>
+        <td>Efficiency assist</td>
         <td><a href="../../q4-e-tron/technology/drivingassistance/predictiveefficiencyassist/">standard</a></td>
         <td><a href="../../e-tron/technology/drivingassistance/predictiveefficiencyassist/">standard</a></td>
     </tr>
@@ -650,7 +650,7 @@ Below you see the full specification and options comparison of the models.
         <td><a href="../../e-tron/technology/lights/">standard</a></td>
     </tr>
     <tr>
-        <td>Dynamic lightning</td>
+        <td>Dynamic lighting</td>
         <td><a href="../../q4-e-tron/technology/lights/">option</a></td>
         <td><a href="../../e-tron/technology/lights/">option</a></td>
     </tr>
@@ -663,7 +663,7 @@ Below you see the full specification and options comparison of the models.
         <td>Electric adjustable mirrors</td>
         <td><a href="../../q4-e-tron/exterior/mirrors/">standard</a></td>
         <td><a href="../../e-tron/exterior/mirrors/">standard</a></td>
-    </tr>   
+    </tr>
     <tr>
         <td>Mirrors with memory</td>
         <td><a href="../../q4-e-tron/exterior/mirrors/">option</a></td>

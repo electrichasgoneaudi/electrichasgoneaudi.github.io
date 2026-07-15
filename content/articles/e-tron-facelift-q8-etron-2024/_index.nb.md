@@ -6,6 +6,8 @@ weight: 99994
 ---
 <!-- markdownlint-disable MD033 -->
 
+> **Historisk lanseringsartikkel:** Denne siden ble skrevet til avdukingen av Q8 e-tron i november 2022. Datoer, priser og formuleringer om fremtiden beskriver Audis planer på det tidspunktet. Modellen gikk senere i produksjon, og produksjonen ble avsluttet i februar 2025.
+
 I denne artikkelen finner du de fleste detaljene og høyoppløselige bilder (klikk på dem). Du finner også mange lenker i modellens beskrivelse for mer informasjon om ekstrautstyr og teknologi for Audi Q8 e-tron.
 
 <figure>
@@ -21,7 +23,7 @@ Audi e-tron har vært en enorm suksess siden lanseringen i 2018, og ble Norges m
 97 prosent av de som kjøper ny Audi velger elektrisk.
 
 Den nye Audi Q8 e-tron bygger nå videre på suksesshistorien til denne elektriske pioneren. Den førsteklasses elektriske SUV-en og crossoveren imponerer med sitt optimaliserte kjørekonsept,
-forbedrede aerodynamikk, høyere ladeytelse og batterikapasitet, og økt [WLTP-rekkevidde](https://evkx.net/guides/understandingrange/wltp/) på opptil 582 kilometer i SUV-versjonen og opptil 600 kilometer i Sportback-versjonen. 
+forbedrede aerodynamikk, høyere ladeytelse og batterikapasitet, og økt [WLTP-rekkevidde](https://evkx.net/guides/understandingrange/wltp/) på opptil 582 kilometer i SUV-versjonen og opptil 600 kilometer i Sportback-versjonen.
 
 I tillegg gir betydelige endringer, spesielt foran på kjøretøyet, den nye flaggskip-SUVen et friskere utseende.
 
@@ -94,8 +96,8 @@ Det er også 62 liter tilgjengelig i oppbevaringsområdet foran, den såkalte "f
 
 For begge karoseriformene er tre drivlinjer tilgjengelig.
 
-Tabellene nedenfor sammenligner gjeldende Audi e-tron-varianter med de forskjellige Q8 e-tron-variantene for rekkevidde og forbruk for en rekkeviddeoptimalisert utstyrsnivå. 
-Noe som annet betyr 19" felger. 
+Tabellene nedenfor sammenligner gjeldende Audi e-tron-varianter med de forskjellige Q8 e-tron-variantene for rekkevidde og forbruk for en rekkeviddeoptimalisert utstyrsnivå.
+Noe som annet betyr 19" felger.
 
 |Variant                 |  WLTP rekkevidde                                                         |Endring |
 |-------------------------------                                                                |-----------|-------|
@@ -345,7 +347,7 @@ Offisiell salgsstart av Audi Q8 e-tron er 14. november, og Audi forventer å se 
 forgjenger.
 
 
-I Norge vil Tilhengerfeste avtagbart og USB C ladeuttak bak være standardutstyr. Dette er tilegg fra Audi e-tron.
+I Norge vil Tilhengerfeste avtagbart og USB C ladeuttak bak være standardutstyr. Dette er tillegg fra Audi e-tron.
 
 Startpris for Q8 e-tron er 658.100 for Q8 e-tron 50 og 751.100 for Q8 e-tron 55.
 For SQ8 e-tron er startprisen 841.100.

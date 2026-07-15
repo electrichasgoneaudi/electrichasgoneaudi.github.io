@@ -6,6 +6,8 @@ weight: 99987
 ---
 <!-- markdownlint-disable MD033 -->
 
+> **Historical launch article:** This page reflects Audi's announcement at the Paris Motor Show in October 2024. See the [current Q6 e-tron overview](../../models/q6-e-tron/) for the present model range.
+
 The powerful and iconic SUV design typical of Audi in the Q6 SUV e-tron is complemented by the essence
 of a Sportback’s features. The near-perfect proportions are even more evident. The result is a
 more progressive and sportier silhouette that will appeal especially to design-oriented

@@ -1,13 +1,13 @@
 ---
 title: Audi Q5 e-tron
 linktitle: Audi Q5 e-tron
-description: Audi Q5 e-tron er en Kina-eksklusiv, helelektrisk SUV bygget på MEB-plattformen, tilgjengelig i to varianter med opptil 560 km CLTC rekkevidde.
+description: Audi Q5 e-tron er en Kina-eksklusiv, helelektrisk SUV med tre seterader, seks eller syv seter og opptil 560 km CLTC-rekkevidde.
 weight: 3
 shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 
-**Audi Q5 e-tron** er en **Kina-eksklusiv, helelektrisk SUV** bygget på **MEB-plattformen**, som deles med Audi Q4 e-tron, Skoda Enyaq og Volkswagen ID.4. Posisjonert over Q4 e-tron i Audis Kina-sortiment, tilbyr den lengre akselavstand, mer passasjerplass og valg mellom bakhjuls- eller firehjulsdrift.
+**Audi Q5 e-tron** er en **Kina-eksklusiv, helelektrisk SUV med tre seterader**, bygget på **MEB-plattformen**. Modellen er nært beslektet med Volkswagen ID.6, er plassert over Q4 e-tron i Audis Kina-sortiment og kombinerer en akselavstand på 2 965 mm med seks- eller syvseters kupé. Kjøperne kan velge mellom bakhjuls- og firehjulsdrift.
 
 {{< evkxfiguresized thumb="models/audi/q5_e-tron/q5_e-tron_50_quattro/main_6238b_st.webp" width="1920" height="1080" title="Audi Q5 e-tron" >}}
 
@@ -47,7 +47,7 @@ Viktige dimensjoner:
 
 ## Interiør
 
-Q5 e-tron tilbyr en femseters premiumkabin med fokus på plass og digital tilkobling. Kabinen har et dobbeltskjermsoppsett med virtuelt cockpit og MMI-berøringsskjerm, samt valgfri seteventilasjon.
+Q5 e-tron leveres enten med seks seter i et 2+2+2-oppsett eller syv seter i et 2+3+2-oppsett. Kabinen kombinerer Audi virtual cockpit med en MMI-berøringsskjerm, mens utvalgte utstyrsnivåer har funksjoner som ventilasjon og massasje i forsetene.
 
 → [Fullt interiørkapittel: seter, skjermer og utstyr](./interior/)
 

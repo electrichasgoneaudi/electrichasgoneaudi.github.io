@@ -3,8 +3,12 @@ title: Audi Q6 world premiere
 linktitle: Audi Q6 e-tron premiere
 description: The Audi Q6 e-tron is the first production model on the Premium Platform Electric (PPE), marking the next step in the company's transformation into a provider of premium electric mobility.
 weight: 99989
+aliases:
+  - /articles/audiq6worldpremiere/
 ---
 <!-- markdownlint-disable MD033 -->
+
+> **Historical launch article:** This page reflects information and prices announced at the Q6 e-tron world premiere in March 2024. See the [current Q6 e-tron overview](../../models/q6-e-tron/) for the present model range.
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/q6dynamic_1_st.webp" width="3000" height="1999" title="Audi SQ6 e-tron" >}}
 
@@ -66,7 +70,7 @@ With the newly developed electronic architecture E3 1.2, customers experience di
 
 ## Digital Stage: new display and operating concept
 
-The Audi Q6 e-tron model series has a fully connected and digital interior based on the new electronic architecture. Made up by the Audi MMI panoramic display and the MMI passenger display, the so-called Digital Stage is a key feature of the interior. The clearly grouped displays are perfectly integrated into the design concept and give the interior a generous and airy feeling of space. 
+The Audi Q6 e-tron model series has a fully connected and digital interior based on the new electronic architecture. Made up by the Audi MMI panoramic display and the MMI passenger display, the so-called Digital Stage is a key feature of the interior. The clearly grouped displays are perfectly integrated into the design concept and give the interior a generous and airy feeling of space.
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/uiandoperations/mmi/mmi_3_st.webp" width="3000" height="2077" title="Audi Q6 e-tron with virtual cockpit, MMI screen and MMI front passenger screen" >}}
 
@@ -130,4 +134,3 @@ Below you will find some videoes of the new models. In addition, you will find m
 ### Audi Q6 e-tron final REVEAL of the Porsche Macan EV brother
 
 {{< youtube BucVRnrE2qM >}}
-

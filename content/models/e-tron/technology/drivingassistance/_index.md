@@ -1,11 +1,11 @@
 ---
-title: Audi e-tron driver assistence systems
+title: Audi e-tron driver assistance systems
 linktitle: Driver Assistance
-description: Audi e-tron has serveral driving assistance systems. Below you find all details.
+description: Audi e-tron has several driving assistance systems. Below you find all details.
 weight: 1
 ---
 
- Important driver assist systems come as standard, the optional systems are subdivided into packages: The assist pacakage tour (PCC), assistent package city (PCM), side assist package (PCH). In addition there are other standalone options.
+ Important driver assist systems come as standard, the optional systems are subdivided into packages: The assist package tour (PCC), assistant package city (PCM), side assist package (PCH). In addition there are other standalone options.
 
 | **System**    | **Available** |
 | ----------- | ----------- |

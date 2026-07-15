@@ -1,7 +1,7 @@
 ---
 title: Audi Q6 e-tron user interface and operations
 linktitle: Interface & operations
-description: The Audi Q6 e-tron model series has a fully connected and digital interior based on the new electronic architecture. Made up by the Audi MMI panoramic display and the MMI passenger display, the so-called Digital Stage is a key feature of the interior. 
+description: The Audi Q6 e-tron model series has a fully connected and digital interior based on the new electronic architecture. Made up by the Audi MMI panoramic display and the MMI passenger display, the so-called Digital Stage is a key feature of the interior.
 weight: 4
 ---
 
@@ -15,7 +15,7 @@ The information can be understood quickly without irritating or distracting the 
 
 Audi's self-learning voice assistant, the Audi Assistant, can be used to control numerous vehicle functions. The digital assistant with AI support is deeply integrated into the vehicle and, for the first time, is displayed using an avatar in the central touch display of the MMI and in the augmented reality head-up display. The new voice assistant understands more than 800 voice commands. It can also be activated via various touchpoints and via the myAudi app, for example. The voice assistant learns continuously based on user behavior and thus provides support to the person driving. This support can be grouped into three categories: proactive suggestions (context information is used to proactively suggest functions for activation based on this data), smart routines (automatically recognizes recurring operating sequences, such as using the seat climate control from certain outside temperatures) and intelligent lists (such as call lists). The spoken commands are also shown on the display (see-what-you-speak principle). The assistant constantly learns from user behavior and thus supports the driver.
 
-The below video shows how the system works
+The following video shows how the system works
 
 {{< youtube VSARj5tSvPc >}}
 
@@ -30,20 +30,20 @@ The store gives customers access to a wide range of apps. Applications from cate
 See below for more details of the different parts of the HMI (Human Machine Interface).
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="mmi/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/technology/uiandoperations/mmi/mmi_3_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<a href="mmi/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/technology/uiandoperations/mmi/mmi_3_st.webp" class="img-fluid mb-2" alt="Audi Q6 e-tron Digital Stage" ></a>
 	<h2>MMI</h2>
 	<p>
-		Audi Q6 e-tron MMI is based on Android Automotive and has several screens.
+		The Audi Q6 e-tron MMI is based on Android Automotive and uses several displays.
 	</p>
 	<a href="mmi/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron MMI</a>
 </div>
 
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="headupdisplay/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/technology/uiandoperations/headupdisplay/hud_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<a href="headupdisplay/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/technology/uiandoperations/headupdisplay/hud_1_st.webp" class="img-fluid mb-2" alt="Audi Q6 e-tron augmented-reality head-up display" ></a>
 	<h2>Head-up display</h2>
 	<p>
-		Audi Q6 e-tron MMI is based on Android Automotive and has several screens.
+		The optional augmented-reality head-up display projects driving and navigation information into the driver's field of view.
 	</p>
-	<a href="mmi/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron head up display</a>
+	<a href="headupdisplay/" class="btn btn-outline-primary" role="button">Learn all about the Audi Q6 e-tron head-up display</a>
 </div>

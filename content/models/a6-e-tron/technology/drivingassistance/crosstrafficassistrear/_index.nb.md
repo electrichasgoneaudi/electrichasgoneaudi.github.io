@@ -1,9 +1,9 @@
 ---
-title:  Audi Q6 e-tron assistent for kryssende trafikk bak
+title:  Audi A6 e-tron assistent for kryssende trafikk bak
 linktitle: Cross traffic assist rear
-description: Audi Q6 e-tron kan utstyres med assistent for kryssende trafikk. Assistent for kryssende trafikk bak advarer føreren om kjøretøyer som nærmer seg den anser som kritiske når han rygger sakte, for eksempel når han kjører ut av en vinkelrett parkeringsplass.
+description: Audi A6 e-tron kan utstyres med assistent for kryssende trafikk. Assistent for kryssende trafikk bak advarer føreren om kjøretøyer som nærmer seg den anser som kritiske når han rygger sakte, for eksempel når han kjører ut av en vinkelrett parkeringsplass.
 weight: 1
-sectiontabs: "/nb/models/q6-e-tron/technology/"
+sectiontabs: "/nb/models/a6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 <figure>
@@ -16,7 +16,6 @@ sectiontabs: "/nb/models/q6-e-tron/technology/"
 
 Den bruker de bakre radarsensorene til dette. De dekker sonen bak, inkludert kjørefeltene til venstre og høyre bak kjøretøyet. Advarslene er progressive – først vises en visuell advarsel i MMI-displayet (i parkeringsassistentdisplayet). Situasjonen er representert i et virtuelt sett ovenfra og i kameravisningene "bak" og "bakside". Røde piler bak kjøretøyet peker i retningen det er en potensiell fare fra. Hvis føreren ikke reagerer på det visuelle displayet, høres et lydsignal før systemet varsler føreren med et bremsestøt. Dette bidrar til å unngå ulykker ved utkjøring av parkeringsplasser.
 
-Dette er en del av byhjelpspakken med alternativ-ID **PCM**
 
 Se video av hvordan det virker nedenfor.
 

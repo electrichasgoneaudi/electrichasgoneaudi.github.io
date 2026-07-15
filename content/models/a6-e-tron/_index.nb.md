@@ -1,141 +1,60 @@
 ---
 title: Audi A6 e-tron
 linktitle: Audi A6 e-tron
-description: Audi A6 e-tron tilbyr forskjellige motorer, batterier, teknologi og designalternativer, med en rekkevidde på opptil 750 km.
+description: Audi A6 e-tron er en elektrisk Sportback og Avant med opptil 756 km WLTP-rekkevidde, 800-volts lading og bakhjuls- eller quattro-drift.
 weight: 7
 shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 
-Audi A6 e-tron ble først avduket i april 2021 som en konseptbil og hadde sin verdenspremiere 31. juli 2024. Det er den sjette helelektriske modellen fra Audi. Med en rekkevidde på opptil 750 km vil det være den helelektriske modellen med lengst rekkevidde fra Audi.
+**Audi A6 e-tron** er den første helelektriske Audi-modellen som tilbys både som Sportback og Avant. Produksjonsmodellen hadde verdenspremiere 31. juli 2024 etter konseptbilen som ble vist i 2021. Bestilling åpnet i september 2024, og modellprogrammet ble utvidet med flere drivlinjer i oktober 2024.
 
-Audi A6 er tilgjengelig i både Sportback- og Avant-versjoner.
+A6 e-tron er bygget på **Premium Platform Electric (PPE)** og kombinerer et lavt, aerodynamisk karosseri med lang rekkevidde, rask lading og et romslig digitalt interiør.
 
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/variants/variants_1_st.webp" width="3000" height="2250" title="Audi A6 e-tron varianter" >}}
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/variants/variants_1_st.webp" width="3000" height="2250" title="Audi A6 e-tron Sportback og Avant" >}}
 
-De første eierne forventes å motta bilene sine sent i 2024.
+## Varianter
 
-Bli med i vår [Audi A6 e-tron Owners Norway](https://www.facebook.com/groups/752306502112784) Facebookgruppe eller bli med i den internasjonale [Audi A6 e-tron Owners](https://www.facebook.com/groups/5590477234297637) Facebookgruppe for å holde deg oppdatert med all siste info og diskutere bilen med andre.
+Modellprogrammet omfatter Sportback og Avant med bakhjulsdrift eller quattro firehjulsdrift. Avhengig av modell og marked tilbys A6 e-tron, A6 e-tron performance, A6 e-tron quattro og S6 e-tron.
 
-## Audi A6 e-tron Varianter
+To batteristørrelser brukes:
 
-Følgende varianter er eller vil være tilgjengelige fra høsten 2024:
+- **83 kWh brutto / 75,8 kWh tilgjengelig**
+- **100 kWh brutto / 94,9 kWh tilgjengelig**
 
-- Audi A6 Sportback e-tron
-- Audi A6 Sportback e-tron Performance
-- Audi A6 Sportback e-tron Quattro
-- Audi S6 Sportback e-tron
-- Audi A6 Avant e-tron
-- Audi A6 Avant e-tron Performance
-- Audi A6 Avant e-tron Quattro
-- Audi S6 Avant e-tron
+A6 Sportback e-tron performance har lengst offisiell rekkevidde med opptil **756 km WLTP**. Se [variantseksjonen](variants/) for detaljer om effekt, rekkevidde, utstyr og forskjeller mellom karosseriformene.
 
-Lær mer om variantene i vår [Audi A6 e-tron varianter seksjon](variants/).
+## Eksteriør
 
-## Eksteriør og design
+A6 Sportback e-tron har en luftmotstandskoeffisient ned mot 0,21 og var Audis mest aerodynamiske produksjonsmodell ved lanseringen. Avant kombinerer stasjonsvognkarosseriet med en luftmotstandskoeffisient fra 0,24. Begge har delte frontlykter, lukket Singleframe, sammenhengende lysstripe bak og markerte quattro-skuldre.
 
-Audi A6 e-tron har et rent design som fokuserer på dynamikk, fremskritt og eleganse, med en harmonisk og uttrykksfull front. Den svarte masken rundt den lukkede og inverterte enkeltrammen integrerer hovedlyktene og andre funksjonelle elementer, og gjør dem nesten usynlige. Den dynamiske taklinjen og quattro-skjermene understreker quattro-driften, mens batteriet fremheves av en svart innlegg i terskelområdet. Bakparten kombinerer sportslig eleganse med full kraft, med en kontinuerlig lysstripe og en iøynefallende spoilerleppe.
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/malpeloblue_4_st.webp" width="3000" height="2250" title="Audi A6 e-tron" >}}
 
-Audi A6 e-tron tilbyr ulike felgdesign og opptil åtte eksteriørfarger, inkludert eksklusive alternativer for S line-varianten og S-modellen. Du kan lese alt om eksteriøralternativer som lakkfarger, felgalternativer, styling og mye mer i vår [eksteriørseksjon](exterior/).
-
-<a href="exterior"><img src="https://media.evkx.net/ehga/models/a6-e-tron/exterior/paint/malpeloblue_4_st.webp" class="img-fluid" alt="Audi A6 e-tron konsept" title="Audi A6 e-tron konsept"></a>
+Utforsk [lakkfarger, felger, lys og stylingpakker](exterior/).
 
 ## Interiør
 
-Interiøret i Audi A6 e-tron er konsekvent tilpasset brukernes behov. Det tredimensjonale og kontrastrike designet plasserer bevisst elementer i forgrunnen eller bakgrunnen, og skaper en romlig arkitektur som er skreddersydd for passasjerene når det gjelder design og ergonomi.
+Det digitale førermiljøet består av **11,9-tommers Audi virtual cockpit** og en **14,5-tommers MMI-berøringsskjerm**. En **10,9-tommers passasjerskjerm** er ekstrautstyr. Tilgjengelig utstyr omfatter head-up-display med utvidet virkelighet, panoramatak med justerbar gjennomsiktighet, virtuelle sidespeil og Bang & Olufsen-lydsystem med høyttalere i hodestøttene.
 
-Audi A6 e-tron er tilgjengelig med ulike setealternativer, interiørmaterialer og farger. Les alt om interiøralternativene i vår [Audi A6 e-tron interiørseksjon](interior/).
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwo_2_st.webp" width="3000" height="2250" title="Audi A6 e-tron interiør" >}}
 
-<a href="interior"><img src="https://media.evkx.net/ehga/models/a6-e-tron/interior/seats/seatconfig_pwo_2_st.webp" class="img-fluid" alt="Audi A6 e-tron interiør" title="Audi A6 e-tron interiør"></a>
+Se [interiørseksjonen](interior/) for seter, materialer, skjermer, oppbevaring og betjening.
 
+## Drivlinje og lading
 
-## Drivlinje
+PPE-plattformen bruker en **800-volts elektrisk arkitektur**. Versjoner med 100 kWh-batteriet lader med opptil **270 kW** og bruker omtrent **21 minutter fra 10 til 80 %** under ideelle forhold. Versjonen med 83 kWh-batteri lader med opptil 225 kW og har samme oppgitte tid til 80 %.
 
-Audi A6 e-tron er basert på den nye [PPE-plattformen](../../technology/bev-platforms/ppe/) som er laget sammen med Porsche og kommer med både 2-hjulsdrift og quattro-versjoner og med minst to forskjellige batteristørrelser.
+De bakhjulsdrevne modellene prioriterer effektivitet og rekkevidde, mens quattro- og S6-variantene legger til en frontmotor for bedre grep og ytelse. Adaptiv luftfjæring er tilgjengelig som ekstrautstyr.
 
-### Batteri og rekkevidde
+Les [drivlinjeseksjonen](drivetrain/) for detaljer om batteri, motor, lading, bremser og fjæring.
 
-Den vil bli levert i to batteristørrelser
+## Teknologi og utstyr
 
-- 12 moduler med 100 kWh brutto (94 kWh netto)
-- 10 moduler med 83,3kWh brutto (78kWh netto).
+A6 e-tron kombinerer Android Automotive-basert infotainment, Audi application store, trådløse funksjonsoppdateringer, konfigurerbare digitale lyssignaturer og andre generasjon digitale OLED-baklys. Førerassistentsystemer og komfortutstyr varierer mellom markeder og pakker.
 
-Dette vil gi Audi A6 e-tron en WLTP-rekkevidde på omtrent 520-700 km, avhengig av utstyrsnivået på bilen, for biler med det største batteriet. (13,4 - 18 kWh/100 km)
+- [Teknologi](technology/)
+- [Utstyrsveiledning](optionguide/)
+- [Norsk Audi A6 e-tron-gruppe](https://www.facebook.com/groups/752306502112784)
+- [Internasjonal Audi A6 e-tron-gruppe](https://www.facebook.com/groups/5590477234297637)
 
-Batteriet vil ha en 800-volts arkitektur for høyytelseslading opp til 270KW for DC-lading. 300 km lading tar så lite som 10 minutter.
-
-![Batteri](https://media.evkx.net/ehga/models/a6-e-tron/battery.webp "Audi A6 e-tron batteri med 12 moduler og 100kWh brutto")
-
-### Motor og ytelse
-
-<figur>
-    <a href="https://media.evkx.net/ehga/technology/bev-platforms/ppe/drivetrain.webpg">
-        <img src="https://media.evkx.net/ehga/technology/bev-platforms/ppe/drivetrains.webp" class="img-fluid" alt="Audi A6 e-tron concept" title="Audi A6 e-tron concept">
-    </a>
-     <figcaption><h4>Audi A6 e-tron drivlinje</h4></figcaption>
-</figur>
-
-Forventningen er at Audi A6 e-tron kommer i ulike versjoner.
-
-- Bakhjulsdrevet Audi A6 e-tron / Audi A6 Avant e-tron med lite batteri (45 rating)
-- Bakhjulsdrevet Audi A6 / Audi A6 Avant e-tron med stort batteri (versjonen med lengst rekkevidde) (50 rangering)
-- Audi A6 quattro / Audi A6 Avant e-tron quattro med stort batteri (55 rating)
-- Audi S6 Avant e-tron (60 rangering)
-- Audi RS6 Avant e-tron (70 rangering)
-
-Konseptversjonen har 469HK og 800 nm dreiemoment. (60 vurdering)
-
-Audi vil bruke ulike motoroppsett på de ulike variantene.
-
-![Motorer](https://media.evkx.net/ehga/models/a6-e-tron/motors.webp "Motorer for Audi A6 e-tron")
-
-### Dempere
-
-Audi A6 e-tron vil være tilgjengelig med Adaptive Air-Dempere.
-
-## Teknologi
-
-Audi A6 e-tron viser frem banebrytende teknologi, med vekt på avansert belysning og digitale funksjoner. Den tilbyr digitale kjørelys med LED-teknologi og andre generasjons digitale OLED-baklys, som inkluderer rundt 45 segmenter per panel for forbedret bil-til-x-kommunikasjon og trafikksikkerhet. Baklysene kan vise varselsymboler i kritiske situasjoner, og frontlysene har tolv dimbare segmenter for en dynamisk lys signatur.
-
-Inne i A6 e-tron finner du MMI panoramadisplay med OLED-teknologi, bestående av en 11,9-tommers virtuell cockpit, en 14,5-tommers berøringsskjerm og en 10,9-tommers skjerm for forsetepassasjeren. Active Privacy Mode lar passasjerene nyte underholdning uten å distrahere sjåføren. Den valgfrie andre generasjons augmented reality head-up displayen (AR HuD) projiserer relevant informasjon på frontruten.
-
-Infotainmentsystemet kjører på Android Automotive OS, og støtter over-the-air oppdateringer og tredjepartsapper via Audi Application Store. Talekontrollen er betydelig utvidet med Audi-assistenten, som integrerer ChatGPT for naturlig språkinteraksjon.
-
-Bang & Olufsen Premium Sound System med høyttalere i nakkestøttene gir en oppslukende lydopplevelse.
-
-Les alt om teknologien i vår [Audi A6 e-tron teknologiseksjon](technology)
-
-## Utstyrsnivå og utstyrsvalg
-
-Audi A6 e-tron er tilgjengelig med flere alternativer og utstyrsnivåer.
-
-- S-line eksteriør
-- Sorte optikk
-- Ulike hjul
-- Ulike seter, inkludert seter med massasje og ventilasjon
-- Ulike førerassistentsystemer
-- Ulike lys
-
-Audi har redusert antall kombinasjoner av alternativer. Så i stedet for at de fleste alternativene tilbys separat, som på Audi Q8 e-tron, har de introdusert utstyrspakker.
-
-Les alt om alternativene i [Audi A6 e-tron utstyrsseksjonen](optionguide)
-
-## Bilder og video
-
-See detailed video from @auditography
-
-<p>
-{{< youtube Pn421Y2GjEY >}}
-</p>
-
-<p>
-{{< youtube _j9uw6lxT3I >}}
-</p>
-
-<p>
-{{< youtube eqIbYx5QW0k >}}
-</p
-
-<p>
-{{< youtube 0wUaMniPIIY >}}
-</p>
+{{<children description="true" />}}

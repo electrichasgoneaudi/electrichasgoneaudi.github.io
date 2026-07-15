@@ -96,11 +96,11 @@ If you have set a navigation target, it would also reduce speed before an inters
 
 ## Videos
 
-The below animation show a video of how this work on a Audi A6.
+The following animation show a video of how this works on an Audi A6.
 
 {{< youtube GhozvVWhkHI >}}
 
-The below video show a test of this system
+The following video shows a test of this system
 
 {{< youtube vjsfMmJ4AiM>}}
 

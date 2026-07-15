@@ -27,7 +27,7 @@ If you get the [advance key option](../../technology/lockingsystems/#advance-key
 
 ## Kick sensor tailgate
 
-If you get the [advance key option](../../technology/lockingsystems/#advance-key-option-pgc) togeter with the powered tailgate you get kick sensor for the tailgate
+If you get the [advance key option](../../technology/lockingsystems/#advance-key-option-pgc) together with the powered tailgate you get kick sensor for the tailgate
 
 ## Locking from tailgate
 

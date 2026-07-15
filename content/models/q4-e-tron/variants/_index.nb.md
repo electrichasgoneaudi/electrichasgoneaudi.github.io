@@ -1,92 +1,53 @@
 ---
-title: Audi Q4 e-tron varianter
+title: Audi Q4 e-tron-varianter
 linktitle: Varianter
-description: Fra lanseringen var 6 varianter av Q4 e-tron tilgjengelig og senere ble det lagt til flere.
+description: Det oppdaterte Q4 e-tron-programmet kombinerer to batteristørrelser med bakhjuls- og quattro-drivlinjer fra 150 til 250 kW.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
-## Audi Q4 35 e-tron
 
-<figure>
-    <a href="https://media.evkx.net/ehga/models/q4-e-tron/variants/audi-q4-e-tron-35.webp">
-        <img src="https://media.evkx.net/ehga/models/q4-e-tron/variants/audi-q4-e-tron-35s.webp" class="img-fluid" alt="Audi Q4 35 e-tron" title="Audi Q4 35 e-tron">
-    </a>
-    <figcaption><h4>Audi Q4 35 e-tron</h4></figcaption>
-</figure>
+> **Leter du etter det tidligere modellprogrammet?** Se [Q4 e-tron-varianter til og med MY2026](pre-2027/).
 
-Audi Q4 35 e-tron er inngangsmodellen med det minste batteriet og tohjulsdrift. 51,5kWh tilgjengelig batteri og WLTP-rekkevidde mellom 306-341km avhengig av utstyrsutstyr. 170Hk.
+Audi Q4 e-tron MY2027 tilbys som SUV og Sportback. Modellnavn, utstyr og tilgjengelige drivlinjekombinasjoner varierer mellom markeder, men det tekniske programmet bygger på fire effektnivåer og to batteristørrelser.
 
-[Se detaljert spesifikasjon](/models/q4-e-tron/specifications/#audi-q4-35-e-tron)
+## Batterialternativer
 
-## Audi Q4 40 e-tron
+| Batteri | Tilgjengelig kapasitet | Typisk bruk |
+|---|---:|---|
+| 63 kWh brutto | 59 kWh | Bakhjulsdrevne innstegsversjoner |
+| 82 kWh brutto | 77 kWh | Performance- og quattro-versjoner |
 
-<figure>
-    <a href="https://media.evkx.net/ehga/models/q4-e-tron/variants/audi-q4-e-tron-40.webp">
-        <img src="https://media.evkx.net/ehga/models/q4-e-tron/variants/audi-q4-e-tron-40s.webp" class="img-fluid" alt="Audi Q4 40 e-tron" title="Audi Q4 40 e-tron">
-    </a>
-    <figcaption><h4>Audi Q4 40 e-tron</h4></figcaption>
-</figure>
+## Bakhjulsdrevet innstegsmodell
 
-Audi Q4 40 e-tron er modellen med det største batteriet og tohjulsdriften. 82 kWh batteri med 76,6 kWh tilgjengelig og WLTP-rekkevidde mellom 447-520 km avhengig av utstyrsutstyr. 204Hk.
+- Maksimal effekt: **150 kW**
+- Maksimalt dreiemoment: **350 Nm**
+- Tilbys med 63 kWh-batteriet i utvalgte markeder
+- Prioriterer lavere inngangspris og effektiv hverdagskjøring
 
-[Se detaljert spesifikasjon](/models/q4-e-tron/specifications/#audi-q4-40-e-tron)
+## Bakhjulsdrevet performance
 
-## Audi Q4 45 e-tron quattro
+- Maksimal effekt: **210 kW**
+- Maksimalt dreiemoment: **545 Nm**
+- Bruker 82 kWh-batteriet
+- Q4 Sportback e-tron performance har opptil **592 km WLTP-rekkevidde**
 
-<figure>
-    <a href="https://media.evkx.net/ehga/models/q4-e-tron/variants/audi-q4-e-tron-45.webp">
-        <img src="https://media.evkx.net/ehga/models/q4-e-tron/variants/audi-q4-e-tron-45s.webp" class="img-fluid" alt="Audi Q4 45 e-tron quattro" title="Audi Q4 45 e-tron quattro">
-    </a>
-    <figcaption><h4>Audi Q4 45 e-tron quattro</h4></figcaption>
-</figure>
+## Quattro
 
-Audi Q4 45 e-tron quattro er inngangsmodellen med det største batteriet og quattro. 82 kWh batteri med 76,6 kWh tilgjengelig og WLTP-rekkevidde mellom 412-490km avhengig av utstyrsutstyr. 265Hk.
+- Maksimal systemeffekt: **220 kW**
+- Firehjulsdrift med to motorer
+- Bruker 82 kWh-batteriet
+- Høyere tilhengervekt enn de bakhjulsdrevne versjonene
 
-[Se detaljert spesifikasjon](/models/q4-e-tron/specifications/#audi-q4-45-e-tron-quattro)
+## Quattro performance
 
-## Audi Q4 50 e-tron quattro
+- Maksimal systemeffekt: **250 kW**
+- Firehjulsdrift med to motorer
+- Bruker 82 kWh-batteriet
+- DC-lading med opptil **185 kW**
+- Omtrent **27 minutter fra 10 til 80 %** under ideelle forhold
 
-<figure>
-    <a href="https://media.evkx.net/ehga/models/q4-e-tron/variants/audi-q4-e-tron-50.webp">
-        <img src="https://media.evkx.net/ehga/models/q4-e-tron/variants/audi-q4-e-tron-50s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro" title="Audi Q4 50 e-tron quattro">
-    </a>
-    <figcaption><h4>Audi Q4 50 e-tron quattro</h4></figcaption>
-</figure>
+Både SUV og Sportback tilbys i modellprogrammet. Se de [genererte spesifikasjonene](../specifications/) for detaljert konfigurasjon og lagrede måledata for hver variant.
 
-Audi Q4 50 e-tron quattro er toppmodellen med det største batteriet og quattro. 82 kWh batteri med 76,6 kWh tilgjengelig og WLTP-rekkevidde mellom 412-488km avhengig av utstyrsutstyr. 299 hk med boost.
-
-[Se detaljert spesifikasjon](/models/q4-e-tron/specifications/#audi-q4-50-e-tron-quattro)
-
-## Audi Q4 Sportback 35 e-tron
-
-Audi Q4 Sportback 35 e-tron er modellen med det minste batteriet og tohjulsdriften. 51,5 kWh tilgjengelig batteri og WLTP-rekkevidde mellom 314-349 km, avhengig av utstyrsutstyr. 170Hk.
-
-[Se detaljert spesifikasjon](/models/q4-e-tron/specifications/#audi-q4-sportback-35-e-tron)
-
-## Audi Q4 Sportback 40 e-tron
-
-<figure>
-    <a href="https://media.evkx.net/ehga/models/q4-e-tron/variants/audi-q4-sportback-e-tron-40.webp">
-        <img src="https://media.evkx.net/ehga/models/q4-e-tron/variants/audi-q4-sportback-e-tron-40s.webp" class="img-fluid" alt="Audi Q4 Sportback 40 e-tron by Auditography" title="Audi Q4 Sportback 40 e-tron by Auditography">
-    </a>
-    <figcaption><h4>Audi Q4 Sportback 40 e-tron by Auditography</h4></figcaption>
-</figure>
-
-Audi Q4 Sportback 40 e-tron er modellen med det største batteriet og tohjulsdriften. 82 kWh batteri med 76,6 kWh tilgjengelig og WLTP-rekkevidde mellom 460-534km avhengig av utstyrsutstyr. 204Hk.
-
-[Se detaljert spesifikasjon](/models/q4-e-tron/specifications/#audi-q4-sportback-40-e-tron)
-
-## Audi Q4 Sportback 50 e-tron quattro
-
-<figure>
-    <a href="https://media.evkx.net/ehga/models/q4-e-tron/variants/audi-q4-sportback-e-tron-50.webp">
-        <img src="https://media.evkx.net/ehga/models/q4-e-tron/variants/audi-q4-sportback-e-tron-50s.webp" class="img-fluid" alt="Audi Q4 Sportback 50 e-tron quattro" title="Audi Q4 Sportback 50 e-tron quattro">
-    </a>
-    <figcaption><h4>Audi Q4 Sportback 50 e-tron quattro</h4></figcaption>
-</figure>
-
-Audi Q4 50 Sportback e-tron quattro er modellen med det største batteriet og quattro-stasjonen. 82 kWh batteri med 76,6 kWh tilgjengelig og WLTP-rekkevidde mellom 420-497 km avhengig av utstyrsutstyr. 299 hk med boost.
-
-[Se detaljert spesifikasjon](/models/q4-e-tron/specifications/#audi-q4-sportback-50-e-tron-quattro)
+{{< evkxfiguresized thumb="models/audi/q4_e-tron/q4_e-tron_quattro_performance/main_7ce5c_st.webp" width="3000" height="2145" title="Audi Q4 e-tron quattro performance" >}}
 
 {{<children description="true" />}}

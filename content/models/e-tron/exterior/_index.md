@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron exterior
 linktitle: Exterior
-description: There is a huge number of exterior options to the Audi e-tron. Paint colors, body shapes, wheels, paint styles, different optics, mirror types, and many more options making it possible to have more than 50.000 different exterior designs. 
+description: There is a huge number of exterior options to the Audi e-tron. Paint colors, body shapes, wheels, paint styles, different optics, mirror types, and many more options making it possible to have more than 50.000 different exterior designs.
 weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
@@ -24,10 +24,10 @@ So buying an Audi e-tron will require you to make lots of decisions about how th
 - You can also select amongst 4 different mirrors making it 864 different looks.
 - You can select amongst 10 different wheels making it to 8640 different looks.
 - You can select to have privacy windows or not. Making it to 17280 different looks.
-- You can select to have painted brake calibers or not. Making it 34560 different looks.
+- You can select to have painted brake calipers or not. Making it 34560 different looks.
 - You can select to have a panoramic roof making it to a total 69.120 looks you can order from Audi.
 
-So you understand it is possible to make your car unique. And if these options are not enough for you you can order the car with exclusive paints in additional colors.
+These options make it possible to personalize the car. If the standard range is not enough, additional Audi exclusive paint colors can be ordered.
 
 So you understand it is not to show all possible combinations on this site.
 

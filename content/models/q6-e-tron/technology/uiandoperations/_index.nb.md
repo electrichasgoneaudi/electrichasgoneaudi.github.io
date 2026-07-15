@@ -1,7 +1,7 @@
 ---
-title: Audi Q6 e-tron brukergrensesnitt og kontroll
-linktitle: Interface og kontroll
-description: Audi Q6 e-tron modellserien har et fullstendig tilkoblet og digitalt interiør basert på den nye elektroniske arkitekturen. Den såkalte Digital Stage består av Audi MMI-panoramaskjermen og MMI-passasjerdisplayet, og er en nøkkelfunksjon i interiøret. 
+title: Brukergrensesnitt og betjening i Audi Q6 e-tron
+linktitle: Grensesnitt og betjening
+description: Audi Q6 e-tron modellserien har et fullstendig tilkoblet og digitalt interiør basert på den nye elektroniske arkitekturen. Den såkalte Digital Stage består av Audi MMI-panoramaskjermen og MMI-passasjerdisplayet, og er en nøkkelfunksjon i interiøret.
 weight: 4
 ---
 
@@ -30,19 +30,19 @@ Butikken gir kundene tilgang til et bredt spekter av apper. Applikasjoner fra ka
 Se nedenfor for flere detaljer om de forskjellige delene av HMI (Human Machine Interface).
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="mmi/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/technology/uiandoperations/mmi/mmi_3_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<a href="mmi/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/technology/uiandoperations/mmi/mmi_3_st.webp" class="img-fluid mb-2" alt="Digital Stage i Audi Q6 e-tron" ></a>
 	<h2>MMI</h2>
 	<p>
 		Audi Q6 e-tron MMI er basert på Android Automotive og har flere skjermer.
 	</p>
-	<a href="mmi/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron MMI</a>
+	<a href="mmi/" class="btn btn-outline-primary" role="button">Les alt om MMI i Audi Q6 e-tron</a>
 </div>
 
 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-	<a href="headupdisplay/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/technology/uiandoperations/headupdisplay/hud_1_st.webp" class="img-fluid mb-2" class="img-fluid" alt="Audi Q6 e-tron lights" ></a>
+	<a href="headupdisplay/"><img src="https://media.evkx.net/ehga/models/q6-e-tron/technology/uiandoperations/headupdisplay/hud_1_st.webp" class="img-fluid mb-2" alt="Head-up-display med utvidet virkelighet i Audi Q6 e-tron" ></a>
 	<h2>Head-up display</h2>
-	<p>Audi Q6 e-tron kan leveres med head-up display
+	<p>Audi Q6 e-tron kan leveres med et head-up-display med utvidet virkelighet.
 	</p>
-	<a href="mmi/" class="btn btn-outline-primary" role="button">Learn all about Audi Q6 e-tron head up display</a>
+	<a href="headupdisplay/" class="btn btn-outline-primary" role="button">Les alt om head-up-displayet i Audi Q6 e-tron</a>
 </div>

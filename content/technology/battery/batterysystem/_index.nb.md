@@ -5,11 +5,11 @@ description: Batterisystemet er kombinasjonen av mange celler og annen kontrolle
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
-I dag oppnås dette vanligvis med Cell2Module-teknologien. Hvor celler er gruppert i moduler som igjen er gruppert i et batterisystem.
+I dag oppnås dette vanligvis med celle-til-modul-konstruksjon: Cellene samles i moduler, som deretter bygges sammen til en batteripakke.
 
-I fremtiden vil vi se biler med Cell2Pack-teknologier hvor celler legges direkte inn i pakker og til og med Cell2Car-teknologi hvor celler settes direkte inn i bilen. Mer om det senere
+Celle-til-pakke-konstruksjon fjerner konvensjonelle moduler og integrerer cellene direkte i batteripakken. Celle-til-karosseri-design går ett trinn videre ved å gjøre batteristrukturen til en del av karosseriet.
 
-Typisk består en batteripakke av moduler som består av flere celler.
+En typisk batteripakke består av moduler som inneholder flere celler.
 
 ## Moduler
 
@@ -120,12 +120,9 @@ I tabellen nedenfor ser du pakkens ytelse. Se hvordan Q4 har en høyere tetthet,
 Problemet med dagens tilnærming med Cell2Modules er at energitettheten på batterisystemet er mye lavere enn på cellenivå.
 Dette er på grunn av alle strukturelle elementer i et batteri som ikke tilfører noe energiinnhold til en batteripakke.
 
-For å redusere dette problemet går Volkswagen over til en Cell2Pack-teknologi der Audi med Artemis-prosjektet vil lansere den første bilen i
-sent i 2024.
+Celle-til-pakke-konstruksjon kan redusere mengden inaktivt strukturmateriale ved å plassere cellene direkte i batteripakken i stedet for i separate moduler. Dette kan forbedre energitettheten på pakkenivå og redusere vekten, men løsning og gevinst varierer mellom produsenter og batteridesign.
 
-Teknologien er basert på å sette cellene direkte inn i pakken og øke energitettheten til batterisystemet. Dette reduserer vekten og øker kapasiteten.
-
-15. mars 2021 presenterte Volkswagen-gruppen som Audi er en del av sin strategi som en del av Power-dagen.
+15. mars 2021 presenterte Volkswagen-konsernet sin batteristrategi under Power Day. Materialet nedenfor gjenspeiler strategien fra 2021 og skal ikke leses som en gjeldende lanseringsplan for Audi-modeller.
 
 <figure>
     <a href="https://media.evkx.net/ehga/technology/battery/batterysystem/cell2pack.webp">

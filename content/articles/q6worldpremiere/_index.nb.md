@@ -1,12 +1,14 @@
 ---
 title: Verdenspremiere på Audi Q6 e-tron
-linktitle: Audi Q8 e-tron premiere
-description: I dag lanserer Audi Q6 e-tron, første bil fra Audi bygget på en plattform utelukkende for elektriske biler i premiumsegmentet.
+linktitle: Audi Q6 e-tron-premiere
+description: Audi Q6 e-tron var den første produksjonsmodellen fra Audi på Premium Platform Electric (PPE).
 weight: 99989
+aliases:
+  - /nb/articles/audiq6worldpremiere/
 ---
 <!-- markdownlint-disable MD033 -->
 
-
+> **Historisk lanseringsartikkel:** Denne siden gjengir informasjon og priser som ble presentert under verdenspremieren på Q6 e-tron i mars 2024. Se den [oppdaterte oversikten over Q6 e-tron](../../models/q6-e-tron/) for dagens modellutvalg.
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/q6dynamic_1_st.webp" width="3000" height="1999" title="Audi SQ6 e-tron" >}}
 
@@ -166,5 +168,3 @@ Nedenfor finner du noen videoer av de nye modellene. I tillegg finner du mer i [
 ### Audi Q6 e-tron final REVEAL of the Porsche Macan EV brother
 
 {{< youtube BucVRnrE2qM >}}
-
-

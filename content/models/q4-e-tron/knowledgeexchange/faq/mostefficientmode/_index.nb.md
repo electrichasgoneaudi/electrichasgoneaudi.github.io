@@ -22,7 +22,7 @@ På Audi Q4 e-tron er det to tilgjengelige kjøremoduser.
 Hvilke av dem er mest effektiv hvis man ønsker lengst mulig rekkevidde?
 
 Svaret er **D-modus**. Årsaken er at i B-modus vil du ende opp med å restituere når det ikke er nødvendig, og som vil miste energi under konverteringen av kinetisk energi til elektrisk energi på batteriet. Rundt 80 % av den kinetiske energien legges inn i batteriet mens det restitueres.
-Hvis du kysser vil du beholde den energien som kinetisk energi.
+Hvis du ruller, beholder du energien som kinetisk energi.
 
 For å kunne kjøre i B-modus må du holde foten på gassen på et bestemt sted, men selv den beste sjåføren vil ikke kunne skifte mellom kjøring og frikjøring i samme hastighet som i D-modus.
 

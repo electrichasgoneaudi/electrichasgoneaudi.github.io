@@ -8,11 +8,11 @@ weight: 1
 
 ## Paint colors
 
-Audi e-tron GT and Audi RS e-tron GT can be delivered with serveral standard colors and more than 50 Audi exclusive colors.
+Audi e-tron GT and Audi RS e-tron GT can be delivered with several standard colors and more than 50 Audi exclusive colors.
 
 On this page you find high-resolution pictures of real cars with the different colors. Clock on images for full size.
 
-Click on list below for navigating directly to colors or scroll throug the page
+Click on list below for navigating directly to colors or scroll through the page
 
 - [Paint colors](#paint-colors)
   - [Ibis White](#ibis-white)

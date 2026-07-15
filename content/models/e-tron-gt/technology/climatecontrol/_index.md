@@ -22,9 +22,9 @@ It also gives the passenger in the back seat a separate panel where they can adj
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron-gt/technology/climatecontrol/rearaccontrol.webp">
         <img src="https://media.evkx.net/ehga/models/e-tron-gt/technology/climatecontrol/rearaccontrol.webp"
-        class="img-fluid" alt="Seperate control for back seat" title="Seperate control for back seat">
+        class="img-fluid" alt="Separate control for back seat" title="Separate control for back seat">
     </a>
-    <figcaption><h4>Seperate control for back seat</h4></figcaption>
+    <figcaption><h4>Separate control for back seat</h4></figcaption>
 </figure>
 
 ## Auxiliary air conditioner

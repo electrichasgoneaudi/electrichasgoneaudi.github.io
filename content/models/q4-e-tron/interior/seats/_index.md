@@ -1,12 +1,12 @@
 ---
 title: Audi Q4 e-tron seats and interior materials
 linktitle: Seats & Material
-description: Audi Q4 e-tron have serveral seats options to choose from
+description: The Audi Q4 e-tron offers several seat and upholstery options.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
 
-Each seat type have different seat materials in different colors to choose from. Making it possible to the interior just as you like it.
+Each seat type is available with different materials and colors, making it possible to configure the interior to your preferences.
 
 ## Seat functionality
 

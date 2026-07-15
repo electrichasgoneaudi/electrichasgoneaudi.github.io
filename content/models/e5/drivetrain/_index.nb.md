@@ -1,12 +1,12 @@
 ---
-title: Audi E5 Sportback drivlinje
+title: AUDI E5 Sportback drivlinje
 linktitle: Drivlinje
-description: Audi E5 Sportback er bygget på en dedikert EV-plattform co-utviklet med SAIC, med adaptiv luftfjæring på alle varianter og opptil 579 kW i firehjulsdrift-konfigurasjon.
+description: AUDI E5 Sportback er bygget på en dedikert EV-plattform co-utviklet med SAIC, med adaptiv luftfjæring på alle varianter og opptil 579 kW i firehjulsdrift-konfigurasjon.
 weight: 6
 ---
 <!-- markdownlint-disable MD033 -->
 
-Audi E5 Sportback er bygget på en **dedikert elektrisk plattform co-utviklet av Audi og SAIC**, optimalisert for ytelse, effektivitet og ultrarask lading. I motsetning til globale Audi e-tron-modeller på MLB Evo er denne plattformen utviklet spesielt for det kinesiske markedet og digitale økosystemet.
+AUDI E5 Sportback er bygget på en **dedikert elektrisk plattform co-utviklet av Audi og SAIC**, optimalisert for ytelse, effektivitet og ultrarask lading. I motsetning til globale Audi e-tron-modeller på MLB Evo er denne plattformen utviklet spesielt for det kinesiske markedet og digitale økosystemet.
 
 ## Elektriske motorer
 

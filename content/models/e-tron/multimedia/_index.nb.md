@@ -1,16 +1,17 @@
 ---
 title: Audi e-tron multimedia
 linktitle: Multimedia
-description: Her finner du diverse multimedia innhold relatert til Audi e-tron. 
+description: Her finner du utvalgt multimedieinnhold om Audi e-tron.
 weight: 20
 ---
 
+Videoene nedenfor omfatter lanseringer, tekniske presentasjoner, reklamefilmer og gjennomganger. Videotitlene står på språket utgiverne har brukt.
 
 ### Audi Norge: Audi e-tron | Generelt om bilen
 
-{{ youtube LblxgKXWRd0 }}
+{{< youtube LblxgKXWRd0 >}}
 
-### See World premiere
+### Se verdenspremieren
 
 {{< youtube MyrLwVRTYNg >}}
 
@@ -44,6 +45,6 @@ weight: 20
 
 ### Emily The Audi Nerd: The Best Looking, Most Luxurious EV on the Market!: 2022 Audi e-tron quattro Chronos Edition
 
-Detailed walkthroug performed by Emily The Audi Nerd
+Detaljert gjennomgang med Emily The Audi Nerd.
 
 {{< youtube U1rguttyZRs >}}

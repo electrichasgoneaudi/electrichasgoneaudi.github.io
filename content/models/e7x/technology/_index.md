@@ -80,7 +80,7 @@ The E7X features **bidirectional 14° rear-wheel steering** as part of the stand
 
 ## Panoramic roof
 
-The **Smart Electrochromic Panoramic Roof** covers 2,195 m² of glass area and offers electronically adjustable tinting with:
+The **Smart Electrochromic Panoramic Roof** covers 2.195 m² of glass area and offers electronically adjustable tinting with:
 
 - 99.99% UV isolation
 - 99.9% infrared isolation

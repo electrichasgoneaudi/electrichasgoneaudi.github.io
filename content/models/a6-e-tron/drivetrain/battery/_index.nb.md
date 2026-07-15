@@ -2,7 +2,7 @@
 title: Audi A6 e-tron batteri
 linktitle: Batteri
 description: Lithium-ion batterisystemet til Audi A6 e-tron kan lagre opptil 100 kWh energi og bruker 800 volt system.
-vekt: 7
+weight: 7
 sectiontabs: "/nb/models/a6-e-tron/drivetrain/"
 ---
 A6 e-tron-serien, bygget i Ingolstadt, er den første helelektriske høyvolumsmodellen produsert på et tysk Audi-anlegg. Samtidig konsoliderer merket med de fire ringene nye ferdigheter og teknologier ved selskapets hovedkvarter med monteringen av det nyutviklede høyspenningsbatteriet (HV) for Premium Platform Electric (PPE). Takket være den nye batterienheten øker Audi gradvis det vertikale produksjonsområdet for helelektriske modeller og samler erfaring for produksjon av batterimoduler lenger ned i linjen.
@@ -43,7 +43,7 @@ På grunn av høy temperaturhomogenitet inne i batteriet, kan ytelsen økes - de
 
 ## Ladekurve
 
-Nedenfor er ladekurven for 100 kWh batteri. 
+Nedenfor er ladekurven for 100 kWh batteri.
 
 <figure>
     <a href="https://evkx.net/images/models/audi/a6_e-tron/a6_sportback_e-tron_performance/chargingcurve.svg">

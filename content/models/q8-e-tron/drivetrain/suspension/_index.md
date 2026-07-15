@@ -1,7 +1,7 @@
 ---
 title: Audi Q8 e-tron suspension
-linktitle: Suspension 
-description: Audi Q8 e-tron has adaptive air supsension.
+linktitle: Suspension
+description: Audi Q8 e-tron has adaptive air suspension.
 weight: 7
 ---
 <!-- markdownlint-disable MD033 -->

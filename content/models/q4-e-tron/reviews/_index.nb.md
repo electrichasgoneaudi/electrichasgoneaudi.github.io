@@ -1,9 +1,11 @@
 ---
 title: Audi Q4 e-tron tester
 linktitle: Tester
-description: Here finner du forskjellige tester gjort av Audi Q4 e-tron
+description: Her finner du forskjellige tester av Audi Q4 e-tron.
 weight: 20
 ---
+
+Videotitlene står på språket utgiverne har brukt.
 
 ### Bjørn Nyland: Audi Q4 e-tron range test
 
@@ -122,7 +124,7 @@ weight: 20
 
 {{< youtube NeIsXIo5M-U >}}
 
-### electric drive : 2021 Audi Q4 50 e-tron quattro Fahrbericht Test Review Verbrauch Reichweite Ladeleistung Preis 
+### electric drive : 2021 Audi Q4 50 e-tron quattro Fahrbericht Test Review Verbrauch Reichweite Ladeleistung Preis
 
 {{< youtube F1Y43isjobs >}}
 

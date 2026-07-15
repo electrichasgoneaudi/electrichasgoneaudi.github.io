@@ -28,7 +28,7 @@ In the US the charging system has a [J1772 connector](https://en.wikipedia.org/w
 
 The charging system compact is the standard system provided with e-tron.
 
-It comes in different versios based on the country it sells. In some countries in Europe you can choose
+It comes in different versions based on the country it sells. In some countries in Europe you can choose
 between a 230-volt system and a 400-volt system when ordering the car.
 
 <figure>

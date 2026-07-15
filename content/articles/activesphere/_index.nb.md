@@ -6,6 +6,8 @@ weight: 99990
 ---
 <!-- markdownlint-disable MD033 -->
 
+> **Konseptbil:** Audi presenterte activesphere i januar 2023 som en design- og teknologistudie. Audi har ikke annonsert en produksjonsversjon, og de beskrevne funksjonene for automatisert kjøring er ikke produksjonsspesifikasjoner.
+
 <figure>
     <a href="https://media.evkx.net/ehga/articles/activesphere/activesphere1.webp">
         <img src="https://media.evkx.net/ehga/articles/activesphere/activesphere1_mt.webp" class="img-fluid" alt="Audi activesphere concept" title="Audi activesphere concept">
@@ -83,7 +85,7 @@ Høyre og venstre over Singleframe ser de smale frontlysenhetene ut som fokusert
 
 Audi activesphere-konseptet krysser grenser, noe som betyr at det er en mester i metamorfose. Spesielt bakdelen reflekterer den aktive livsstilen til kundene og gjør det mulig å transportere selv store sportsutstyr – uten å ofre elegansen og sportsligheten til Sportback-silhuetten.
 
-Om nødvendig er de gjennomsiktige bakrutegliderne nesten i flukt med taket på Audi activesphere. Samtidig foldes det nedre, vertikale segmentet av baksiden horisontalt – dette åpner for en rikelig lasteseng kalt den aktive baksiden som har braketter for for eksempel e-sykler. Sideflatene bak, C-stolpene, forblir på plass for å opprettholde den aktive sfærens dynamiske silhuett, mens et motorisert skott utløses bak baksetene for å isolere kabinen fra elementene.
+Om nødvendig er de gjennomsiktige bakrutegliderne nesten i flukt med taket på Audi activesphere. Samtidig foldes det nedre, vertikale segmentet av baksiden horisontalt – dette åpner for en rikelig lasteseng kalt den aktive baksiden som har braketter for blant annet elsykler. Sideflatene bak, C-stolpene, forblir på plass for å opprettholde den aktive sfærens dynamiske silhuett, mens et motorisert skott utløses bak baksetene for å isolere kabinen fra elementene.
 
 <figure>
     <a href="https://media.evkx.net/ehga/articles/activesphere/activesphere8.webp">

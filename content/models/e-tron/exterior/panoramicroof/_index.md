@@ -1,12 +1,12 @@
 ---
 title: Audi e-tron panoramic roof
 linktitle: Panoramic roof
-description: If you want to stand out in the crowd you can order your e-tron with panoramic roof.
+description: The Audi e-tron was available with an opening panoramic glass sunroof and an electric sunblind.
 weight: 6
 ---
 <!-- markdownlint-disable MD033 -->
 
-The roof can be openeded. In addition to give Audi e-tron a cooler look it gives more light in to the car and better view from the inside.
+The optional panoramic glass sunroof can tilt and open electrically. It brings more daylight into the cabin and includes a sunblind for glare and heat control.
 
 ## Panoramic glass sunroof
 

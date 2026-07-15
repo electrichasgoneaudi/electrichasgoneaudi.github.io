@@ -45,7 +45,7 @@ Flytende elektrolytter i litiumionbatterier består av litiumsalter i et organis
 
 En flytende elektrolytt fungerer som en ledende bane for bevegelse av kationer som går fra de negative til de positive elektrodene under utladning og motsatt retning ved lading.
 
-Elektrolytter basert på faste materialer er områder som mange jobber med. Disse kalles [solid-state-batterier](https://en.wikipedia.org/wiki/Solid-state_battery). Foreløpig er det ingen konkrete planer for noen masseproduksjon EV med Solid-state batterier.
+Mange bil- og celleprodusenter forsker på elektrolytter basert på faste materialer. Batterier som bruker slike elektrolytter kalles [faststoffbatterier](https://en.wikipedia.org/wiki/Solid-state_battery). Audi har ennå ikke annonsert en serieprodusert modell med et helelektrisk drivbatteri basert på faststoffteknologi.
 
 ### Nåværende samler
 

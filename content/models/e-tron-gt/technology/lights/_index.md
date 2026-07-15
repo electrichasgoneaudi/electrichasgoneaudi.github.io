@@ -1,7 +1,7 @@
 ---
 title: Audi e-tron GT lights technology
 linktitle: Lights
-description: Audi e-tron GT has a lot of lightning options
+description: Audi e-tron GT has a lot of lighting options
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
@@ -14,7 +14,7 @@ weight: 3
     <figcaption><h4>Headlights</h4></figcaption>
 </figure>
 
-The headlights and rear lights are characteristic elements of the exterior design of the e-tron GT quattro. This is where the character of the electrically powered gran turismo is focused. They are three-dimensional sculptures with a dynamic character and digital aesthetics. The wedge-shaped headlights in the e-tron GT are available in three versions. 
+The headlights and rear lights are characteristic elements of the exterior design of the e-tron GT quattro. This is where the character of the electrically powered gran turismo is focused. They are three-dimensional sculptures with a dynamic character and digital aesthetics. The wedge-shaped headlights in the e-tron GT are available in three versions.
 
 Audi supplies them in LED technology with dynamic turn signals as standard.
 

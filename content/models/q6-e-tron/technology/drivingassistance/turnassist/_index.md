@@ -1,22 +1,11 @@
 ---
 title: Audi Q6 e-tron turn assist
 linktitle: Turn assist
-description: Audi Q6 e-tron can be equipped with turn assist. Turn assist monitors the road lane with oncoming traffic by means of radar sensors, the front camera and, in certain models, a laser scanner.
+description: Turn assist can warn of oncoming traffic and brake at low speed when the driver turns across its path.
 weight: 1
 sectiontabs: "/models/q6-e-tron/technology/"
 ---
 
-<!-- markdownlint-disable MD033 -->
-<figure>
-    <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/turnassist/turnassist.webp">
-        <img src="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/turnassist/turnassists.webp"
-        class="img-fluid" alt="Turn assist Audi Q6 e-tron" title="Turn assist Audi Q6 e-tron">
-    </a>
-    <figcaption><h4>Turn assist Audi Q6 e-tron</h4></figcaption>
-</figure>
+Turn assist uses the vehicle's forward-facing sensors to monitor the lane with oncoming traffic when the turn signal is active. When the car starts moving or travels at low speed, the system can warn the driver and apply the brakes if a collision is imminent while turning across the oncoming lane.
 
-Monitoring is initiated as soon as the driver sets the turn signal. When driving off from a stop, or during slow driving up to a speed of 10 km/h (6.2 mph), the system can intervene by applying the brakes to prevent the car from colliding with an oncoming vehicle when turning left or right (country-dependent). This brake intervention keeps the vehicle within its own driving lane. The driver is informed of the intervention by an indicator in the instrument cluster.
-
-This option is part of the tour driver assistance package with option id **PCC**
-
-{{<children description="true" />}}
+The system works within defined operating limits and does not replace the driver's observation of the junction. Availability varies by market and equipment level.

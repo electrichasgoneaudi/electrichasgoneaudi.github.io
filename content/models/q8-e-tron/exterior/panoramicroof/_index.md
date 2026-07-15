@@ -1,12 +1,12 @@
 ---
 title: Audi Q8 e-tron panoramic roof
 linktitle: Panoramic roof
-description: If you want to stand out in the crowd you can order your Q8 e-tron with panoramic roof.
+description: The Audi Q8 e-tron was available with an opening panoramic glass sunroof and an electric sunblind.
 weight: 6
 ---
 <!-- markdownlint-disable MD033 -->
 
-The roof can be openeded. In addition to give Audi Q8 e-tron a cooler look it gives more light in to the car and better view from the inside.
+The optional panoramic glass sunroof can tilt and open electrically. It brings more daylight into the cabin and includes a sunblind for glare and heat control.
 
 ## Panoramic glass sunroof
 

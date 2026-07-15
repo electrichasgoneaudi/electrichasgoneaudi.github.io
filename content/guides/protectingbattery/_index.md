@@ -1,7 +1,7 @@
 ---
 title: How to protect the battery on my all-electric Audi?
 linktitle: Protecting battery
-description: EV batteries degrade over time, but there are many things you can do to make them keep their capacity longer. 
+description: EV batteries degrade over time, but there are many things you can do to make them keep their capacity longer.
 weight: 1
 ---
 
@@ -17,7 +17,7 @@ You should try to charge at home at much as possible.
 
 Most EV's has a buffer to protect the battery and the same has the all-electric Audi models. In the table below you see the total buffer for all e-electric models from Audi.
 
-| Model | Battery | Buffer | Avaiable |
+| Model | Battery | Buffer | Available |
 |------|-------|-------|-------|
 | [e-tron 55/S](/models/e-tron/drivetrain/battery/) | 95 kWh | 8.5kWh (9%)  | 86.5 kWh |
 | [e-tron 50](/models/e-tron/drivetrain/battery/) | 71 kWh | 6.3kWh (8.9%)  | 64.7 kWh |
@@ -45,7 +45,7 @@ The buffers are in reality limits on the max and minimum voltage each cell can h
 
 The number of charge cycles affects the degradation.
 
-The diagram below shows hows the battery degrade based on charging habits.
+The diagram below illustrates how charging habits can affect battery degradation.
 ![bilde](dstcycles.png "Battery degradation")
 
 Based on this, the best is to keep the charging levels around 50%.

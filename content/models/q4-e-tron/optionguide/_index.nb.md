@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 e-tron utstyrsguide
 linktitle: Utstyrsguide
-description: Audi Q4 e-tron har så mange muligheter at det nesten er umulig å få oversikten. Vi prøver å hjelpe deg med å velge de viktigste alternativene. 
+description: Audi Q4 e-tron har så mange muligheter at det nesten er umulig å få oversikten. Vi prøver å hjelpe deg med å velge de viktigste alternativene.
 weight: 100
 ---
 
@@ -41,7 +41,7 @@ Se detaljer om [MMI Navigation Plus](../technology/uiandoperations/navigation/) 
 
 ## Matrix LED hovedlys
 
-Matrix LED hovedlys får du kraftig forbedret lys på landevei. I tilegg er Matrix Led hovedlys et krav for å få den den kule røde lysstripen bak.
+Matrix LED-hovedlys gir betydelig bedre lys på landevei. Matrix LED-hovedlys er også et krav for å få den røde lysstripen bak.
 
 Les mer om [Matrix LED hovedlys](../technology/lights/#matrix-frontlykter).
 

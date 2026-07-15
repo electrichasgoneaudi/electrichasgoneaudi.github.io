@@ -1,15 +1,15 @@
 ---
-title: Audi Q6 e-tron maneuvering assist
+title: Audi A6 e-tron maneuvering assist
 linktitle: Maneuvering assist
-description: Audi Q6 e-tron is equipped with Maneuvering assist. Maneuvering assist recognizes moving and stationary objects larger than 10 centimeters (3.9 in), such as a pillar in a parking garage or a moving vehicle. 
+description: Audi A6 e-tron is equipped with Maneuvering assist. Maneuvering assist recognizes moving and stationary objects larger than 10 centimeters (3.9 in), such as a pillar in a parking garage or a moving vehicle.
 weight: 1
-sectiontabs: "/models/q6-e-tron/technology/"
+sectiontabs: "/models/a6-e-tron/technology/"
 ---
 <!-- markdownlint-disable MD033 -->
 
 It helps to avoid impending collisions using warning steering impulses and by autonomously braking the car to a stop, provided that the car is traveling forward or in reverse at no more than 10 km/h (6.2 mph). The system uses the optical parking system in the MMI to display its steering and parking interventions. The surroundings are scanned using at least the ultrasonic sensors and the 360 degree cameras.
 
-Maneuvering assist is standard on Audi Q6 e-tron GT
+Availability of maneuvering assist depends on market, variant and model year.
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/technology/drivingassistance/maneuveringassist/manuveringassist.webp">

@@ -1,7 +1,7 @@
 ---
 title: S-line and S exterior package
 linktitle: S-line / S
-description: There is serveral styling options to make your e-tron stick out from the growd
+description: Det fantes flere stylingalternativer som ga Audi e-tron et tydeligere særpreg.
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
@@ -59,7 +59,7 @@ Den bakre diffusoren har et mer sporty og dynamisk utseende.
  Støtfangeren foran har en slående design og de integrerte luftgardinene er større og mer uttrykksfulle. Hjulbuene på begge sider er hele 23 millimeter (0,9 tommer) bredere og
  diffusorinnsatsen i den bakre støtfangeren strekker seg nesten over hele bredden av bakenden. Sølvelementer legger til høydepunkter over hele bilen, fra kanten av frontstøtfangeren og
  Enkelramme og helt til diffusorinnsatsen.
- 
+
  Dørinnsatsene og husene til sidespeilene er laget av aluminium, og front- og bakenden er dekorert med S-merker. Audi kan male tilbehør som frontleppe, hjulbuer og terskellister i kontrastfarge på forespørsel.
 
 <figure>

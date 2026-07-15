@@ -6,6 +6,8 @@ weight: 99996
 ---
 <!-- markdownlint-disable MD033 -->
 
+> **Historical development article:** This report covers winter testing of the model later launched as the Audi Q8 e-tron. Prototype names and future-tense statements reflect the programme at the time of writing.
+
 <figure>
     <a href="https://media.evkx.net/ehga/articles/secrettrials/secrettrials1.webp">
         <img src="https://media.evkx.net/ehga/articles/secrettrials/secrettrials1s.webp" class="img-fluid" alt="Raphael Kis and the new 2023 Audi SQ8 e-tron prototype" title="Raphael Kis and the new 2023 Audi SQ8 e-tron prototype">

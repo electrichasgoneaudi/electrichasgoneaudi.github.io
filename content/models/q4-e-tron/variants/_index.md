@@ -1,92 +1,53 @@
 ---
 title: Audi Q4 e-tron variants
 linktitle: Variants
-description: From launch 6 variants of Q4 e-tron was available and later more was added.
+description: The updated Q4 e-tron range combines two battery sizes with rear-wheel-drive and quattro drivetrains from 150 to 250 kW.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
-## Audi Q4 35 e-tron
 
-<figure>
-    <a href="https://media.evkx.net/ehga/models/q4-e-tron/variants/audi-q4-e-tron-35.webp">
-        <img src="https://media.evkx.net/ehga/models/q4-e-tron/variants/audi-q4-e-tron-35s.webp" class="img-fluid" alt="Audi Q4 35 e-tron" title="Audi Q4 35 e-tron">
-    </a>
-    <figcaption><h4>Audi Q4 35 e-tron</h4></figcaption>
-</figure>
+> **Looking for the earlier model range?** See [Q4 e-tron variants up to MY2026](pre-2027/).
 
-Audi Q4 35 e-tron is the entry model with the smallest battery and two wheel drive. 51.5kWh available battery and WLTP range between 306-341km depending on equipment trim. 170Hp.
+The MY2027 Audi Q4 e-tron is available as an SUV and Sportback. Model names, equipment, and available drivetrain combinations differ by market, but the technical range is built around four performance levels and two battery sizes.
 
-[See detailed specification](/models/q4-e-tron/specifications/#audi-q4-35-e-tron)
+## Battery options
 
-## Audi Q4 40 e-tron
+| Battery | Usable capacity | Typical application |
+|---|---:|---|
+| 63 kWh gross | 59 kWh | Entry rear-wheel-drive versions |
+| 82 kWh gross | 77 kWh | Performance and quattro versions |
 
-<figure>
-    <a href="https://media.evkx.net/ehga/models/q4-e-tron/variants/audi-q4-e-tron-40.webp">
-        <img src="https://media.evkx.net/ehga/models/q4-e-tron/variants/audi-q4-e-tron-40s.webp" class="img-fluid" alt="Audi Q4 40 e-tron" title="Audi Q4 40 e-tron">
-    </a>
-    <figcaption><h4>Audi Q4 40 e-tron</h4></figcaption>
-</figure>
+## Rear-wheel-drive base
 
-Audi Q4 40 e-tron is the model with the largest battery and two wheel drive. 82 kWh battery with 76.6 kWh available and WLTP range between 447-520km depending on equipment trim. 204Hp.
+- Maximum output: **150 kW**
+- Maximum torque: **350 Nm**
+- Available with the 63 kWh battery in selected markets
+- Focused on a lower entry price and efficient everyday use
 
-[See detailed specification](/models/q4-e-tron/specifications/#audi-q4-40-e-tron)
+## Rear-wheel-drive performance
 
-## Audi Q4 45 e-tron quattro
+- Maximum output: **210 kW**
+- Maximum torque: **545 Nm**
+- Uses the 82 kWh battery
+- Q4 Sportback e-tron performance reaches up to **592 km WLTP**
 
-<figure>
-    <a href="https://media.evkx.net/ehga/models/q4-e-tron/variants/audi-q4-e-tron-45.webp">
-        <img src="https://media.evkx.net/ehga/models/q4-e-tron/variants/audi-q4-e-tron-45s.webp" class="img-fluid" alt="Audi Q4 45 e-tron quattro" title="Audi Q4 45 e-tron quattro">
-    </a>
-    <figcaption><h4>Audi Q4 45 e-tron quattro</h4></figcaption>
-</figure>
+## Quattro
 
-Audi Q4 45 e-tron quattro is the entry level model with the largest battery and quattro drive. 82 kWh battery with 76.6 kWh available and WLTP range between 412-490km depending on equipment trim. 265Hp.
+- Maximum system output: **220 kW**
+- Dual-motor all-wheel drive
+- Uses the 82 kWh battery
+- Increased trailer capacity compared with rear-wheel-drive versions
 
-[See detailed specification](/models/q4-e-tron/specifications/#audi-q4-45-e-tron-quattro)
+## Quattro performance
 
-## Audi Q4 50 e-tron quattro
+- Maximum system output: **250 kW**
+- Dual-motor all-wheel drive
+- Uses the 82 kWh battery
+- DC charging at up to **185 kW**
+- Approximately **27 minutes from 10 to 80%** under ideal conditions
 
-<figure>
-    <a href="https://media.evkx.net/ehga/models/q4-e-tron/variants/audi-q4-e-tron-50.webp">
-        <img src="https://media.evkx.net/ehga/models/q4-e-tron/variants/audi-q4-e-tron-50s.webp" class="img-fluid" alt="Audi Q4 50 e-tron quattro" title="Audi Q4 50 e-tron quattro">
-    </a>
-    <figcaption><h4>Audi Q4 50 e-tron quattro</h4></figcaption>
-</figure>
+Both SUV and Sportback body styles are offered within the range. Check the [generated specifications](../specifications/) for the detailed configuration and measured data stored for each variant.
 
-Audi Q4 50 e-tron quattro is the top model with the largest battery and quattro drive. 82 kWh battery with 76.6 kWh available and WLTP range between 412-488km depending on equipment trim. 299Hp with boost.
-
-[See detailed specification](/models/q4-e-tron/specifications/#audi-q4-50-e-tron-quattro)
-
-## Audi Q4 Sportback 35 e-tron
-
-Audi Q4 Sportback 35 e-tron is the model with the smallest battery and two wheel drive. 51.5kWh available battery and WLTP range between 314-349km depending on equipment trim. 170Hp.
-
-[See detailed specification](/models/q4-e-tron/specifications/#audi-q4-sportback-35-e-tron)
-
-## Audi Q4 Sportback 40 e-tron
-
-<figure>
-    <a href="https://media.evkx.net/ehga/models/q4-e-tron/variants/audi-q4-sportback-e-tron-40.webp">
-        <img src="https://media.evkx.net/ehga/models/q4-e-tron/variants/audi-q4-sportback-e-tron-40s.webp" class="img-fluid" alt="Audi Q4 Sportback 40 e-tron by Auditography" title="Audi Q4 Sportback 40 e-tron by Auditography">
-    </a>
-    <figcaption><h4>Audi Q4 Sportback 40 e-tron by Auditography</h4></figcaption>
-</figure>
-
-Audi Q4 Sportback 40 e-tron is the model with the largest battery and two wheel drive. 82 kWh battery with 76.6 kWh available and WLTP range between 460-534km depending on equipment trim. 204Hp.
-
-[See detailed specification](/models/q4-e-tron/specifications/#audi-q4-sportback-40-e-tron)
-
-## Audi Q4 Sportback 50 e-tron quattro
-
-<figure>
-    <a href="https://media.evkx.net/ehga/models/q4-e-tron/variants/audi-q4-sportback-e-tron-50.webp">
-        <img src="https://media.evkx.net/ehga/models/q4-e-tron/variants/audi-q4-sportback-e-tron-50s.webp" class="img-fluid" alt="Audi Q4 Sportback 50 e-tron quattro" title="Audi Q4 Sportback 50 e-tron quattro">
-    </a>
-    <figcaption><h4>Audi Q4 Sportback 50 e-tron quattro</h4></figcaption>
-</figure>
-
-Audi Q4 50 Sportback e-tron quattro is the model with the largest battery and quattro drive. 82 kWh battery with 76.6 kWh available and WLTP range between 420-497km depending on equipment trim. 299Hp with boost.
-
-[See detailed specification](/models/q4-e-tron/specifications/#audi-q4-sportback-50-e-tron-quattro)
+{{< evkxfiguresized thumb="models/audi/q4_e-tron/q4_e-tron_quattro_performance/main_7ce5c_st.webp" width="3000" height="2145" title="Audi Q4 e-tron quattro performance" >}}
 
 {{<children description="true" />}}

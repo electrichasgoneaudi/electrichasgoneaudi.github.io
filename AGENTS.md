@@ -159,7 +159,7 @@ Lower weight = higher in nav. Standard order:
 | Model | Status | Notes |
 |---|---|---|
 | Audi E5 Sportback | Full sections built (variants, exterior, interior, drivetrain, technology) | China-exclusive, deliveries 2025 |
-| AUDI E7X | Full sections built | China-exclusive, launch H1 2026 |
+| AUDI E7X | Full sections built | China-exclusive, sales began May 2026 |
 | Audi Q4 e-tron | Active, MY2027 interior versioning | `interior/pre-2027/` archives MY2026 and earlier |
 | Audi Q6 e-tron | Specs present | |
 | Audi Q8 e-tron | Specs present | |

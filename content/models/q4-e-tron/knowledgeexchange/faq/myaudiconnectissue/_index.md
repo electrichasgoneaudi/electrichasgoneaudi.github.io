@@ -1,12 +1,12 @@
 ---
 title: Why I am not able to control my Audi Q4 e-tron through myAudi app?
 linktitle: My Audi
-description: A common question for Audi Q4 e-tron is related to owners having a problem with myAudi app and performing operations.  
+description: A common question for Audi Q4 e-tron is related to owners having a problem with myAudi app and performing operations.
 weight: 30
 hidden: true
 ---
 <!-- markdownlint-disable MD033 -->
-These operations could be start pre-climatization or changing charing target. Or just checking the car status.
+These operations include starting preconditioning, changing the charging target, and checking the vehicle status.
 
 ![Connect issue](https://media.evkx.net/ehga/models/q4-e-tron/knowledgeexchange/faq/myaudiconnectissue/connectissue1.webp "myAudi error message")
 

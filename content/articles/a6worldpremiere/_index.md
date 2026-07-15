@@ -6,14 +6,16 @@ weight: 99988
 ---
 <!-- markdownlint-disable MD033 -->
 
+> **Historical launch article:** This page reflects the A6 e-tron world premiere in July 2024. See the [current A6 e-tron overview](../../models/a6-e-tron/) for the present model range.
+
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/avant_final_st.webp" width="3000" height="1999" title="Audi A6 Avant e-tron" >}}
 
-As the second model on the PPE platform, the upper mid-size vehicle picks up on the familiar product strengths of performance, range, efficiency, and charging. It is also the platform’s first model with a flat floor concept. 
+As the second model on the PPE platform, the upper mid-size vehicle picks up on the familiar product strengths of performance, range, efficiency, and charging. It is also the platform’s first model with a flat floor concept.
 
 The exterior is powerful, sporty, and perfectly proportioned. Audi's new design philosophy defines
-the interior. Depending on the equipment level, the A6 e-tron offers many innovative features, such as second-generation virtual exterior mirrors, a panoramic glass roof that becomes opaque at the touch of a button and illuminated rings at the rear. 
+the interior. Depending on the equipment level, the A6 e-tron offers many innovative features, such as second-generation virtual exterior mirrors, a panoramic glass roof that becomes opaque at the touch of a button and illuminated rings at the rear.
 
-The A6 e-tron and S6 e-tron can be ordered from September 2024 as Sportback and Avant versions. 
+The A6 e-tron and S6 e-tron can be ordered from September 2024 as Sportback and Avant versions.
 
 Prices start at 75,600 euros for the A6 Sportback e-tron performance and 99,500 euros for the
 Audi S6 Sportback e-tron.
@@ -80,7 +82,7 @@ achieves a very good c w value of 0.24, making it one of the best in its segment
 
 The front is aerodynamically optimized and has air curtains that positively influence the flow around
 the front and the wheels. The greenhouse is extremely slim, and the roofline slopes towards the rear.
-Moreover, a controllable cool-air intake under the Singleframe of the Audi A6 e-tron ensures the airstream can flow around this zone with minimal losses. Audi has further optimized this system with additional components. 
+Moreover, a controllable cool-air intake under the Singleframe of the Audi A6 e-tron ensures the airstream can flow around this zone with minimal losses. Audi has further optimized this system with additional components.
 
 The underbody also plays a vital role in the aerodynamics concept through a high degree of sealing and small optimizations of various
 components. These include specially adapted wheel trims and 3D bumps ahead of the front wheels,
@@ -174,7 +176,7 @@ clearly visible in the angle of the A-pillar and the door sill.
 A digital wrap is also created here, which extends from mirror to mirror across the entire digital
 instrument panel and is connected via the dynamic interaction light at the base of the windshield.
 Essential functions such as mirror adjustment, lighting, and locking systems are integrated compactly
-into the central control panel in the driver&#39;s door. 
+into the central control panel in the driver&#39;s door.
 
 An optional four-zone automatic air conditioning system and the air quality package with aroma fragrance and ionizer complete the elegant ambiance.
 
@@ -226,7 +228,7 @@ announcements, and one-on-one phone calls. Additional loudspeakers in the A-pill
 speakers create an incomparable 3D surround sound. The dynamic interaction light offers a variety of
 communication functions, supporting the vehicle&#39;s interaction with the occupants. It spans the interior
 and cockpit below the windshield in the shape of a generous arc.
-    
+
 ## Impressive range and charging performance
 
 Powerful, compact, and highly efficient electric motors and a lithium-ion battery newly developed for
@@ -250,14 +252,14 @@ charging stops are possible with the Audi A6 e-tron. This means the A6 Sportback
 increases from 10 to 80 percent in 21 minutes. Intelligent high-performance and predictive thermal
 management are key components of this impressive charging performance. Equipped with Plug &
 Charge, the vehicle authorizes itself at compatible charging stations when the charging cable is
-plugged in and activates the charging process. The charging process is fully automatic. 
+plugged in and activates the charging process. The charging process is fully automatic.
 
 If a charging station works with 400-volt technology, the Audi A6 e-tron can use bank charging. To enable this, the
 800-volt battery is split into two banks, each with a voltage of 400 volts, which can then be charged in
 parallel with up to 135 kW. AC charging with up to 11 kW is possible at standard home chargers. A 22 kW AC charging option will be offered later.
 The advanced recuperation (regenerative braking) system is an important component in increasing the
 efficiency and range of the Audi A6 e-tron. This system can handle around
-95 percent of everyday braking processes. 
+95 percent of everyday braking processes.
 
 The Audi A6 e-tron recuperates up to 220 kW. The temperature and the battery’s state of charge play a key role here. Recuperation occurs on the front
 and rear axles, with minor deceleration handled by the rear axle for efficiency reasons. In addition, a
@@ -312,7 +314,7 @@ recognition, adaptive cruise control, park assist plus with distance display, an
 drowsiness warning will come as standard at market launch.
 
 
-## Market launch and prices 
+## Market launch and prices
 
 The powerful, sporty and perfectly proportioned A6 e-tron and the S6 e-tron, both as Sportback and
 Avant, will be available to order from September 2024. Prices for the upper mid-range model start at

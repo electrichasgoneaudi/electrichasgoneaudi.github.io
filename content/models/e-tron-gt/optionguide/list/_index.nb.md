@@ -1,10 +1,12 @@
 ---
-title: Audi e-tron GT full utstyrliste
-linktitle: Full utstyrsliste
-description: Her finner du den komplette listen med utstyr og tilvalg til Audi RS e-tron GT og Audi e-tron GT
+title: Historisk utstyrsliste for Audi e-tron GT
+linktitle: Historisk utstyrsliste
+description: Historisk oversikt over utstyrskoder for den opprinnelige Audi e-tron GT-serien i modellårene 2021–2024.
 weight: 100
 ---
 <!-- markdownlint-disable MD033 -->
+
+> Listen beskriver den opprinnelige e-tron GT-serien for modellårene 2021–2024. Den er ikke en konfigurator for de oppdaterte modellene fra modellår 2025. Utstyrsnavn, koder og tilgjengelighet varierte mellom markedene. Enkelte offisielle utstyrsnavn er beholdt på engelsk.
 
 ![Paint colors](../../exterior/paint/paint_tangored_2s.jpg)
 
@@ -21,7 +23,7 @@ weight: 100
 |  [Tangorød](../../exterior/paint/#tangorød)| Metallic   |  Y1   |
 |  [Daytonagrå](../../exterior/paint/#daytonagrå) | Metallic, only S/S-line | 6Y |
 |  [Ascariblå](../../exterior/paint/#ascariblå) | Metallic  | 9W |
-|  [Individuallakkering Audi exclusive](../../exterior/paint/#individuallakkering-audi-exclusive) | Serveral colors | Q0Q0 |
+|  [Individuallakkering Audi exclusive](../../exterior/paint/#individuallakkering-audi-exclusive) | Several colors | Q0Q0 |
 |  [Singleframe i heklagrå](../../exterior/optics/#singleframe-i-heklagrå) |    | 6HD |
 |  [Singleframe i bilens farge](../../exterior/optics/#singleframe-i-bilens-farge) |    | 6H1 |
 |  [Singleframe i sort glanset](../../exterior/optics/#singleframe-i-sort-glanset) |    | 6H2 |
@@ -101,7 +103,7 @@ weight: 100
 | [Komfortnøkkel med alarm/safelock](../../technology/lockingsystems/#advance-key-with-alarm-option-pgb) | | PGB |
 | Automatisk startsperre | activates with key |  |
 | [Elektrisk bakluke](../../exterior/doors/#elektrisk-bakluke) | Elektrisk åpning og lukking. Standard | |
-| [Garasjeportåpner](../../technology/garagedooropener/) |  | VC2 |  
+| [Garasjeportåpner](../../technology/garagedooropener/) |  | VC2 |
 
 ## Glass
 
@@ -209,8 +211,8 @@ weight: 100
 | [MMI Navigation plus](../../technology/uiandoperations/mmi/) | Standard  | 7UG   |
 | [Head up display](../../technology/uiandoperations/virtualcockpit/#virtual-cockpit-plus) |  | KS1 |
 | [MMI Radio plus](../../technology/uiandoperations/mmi/)  | Standard |  |
-| [Audi Sound system](../../technology/soundsystem/#audi-sound-system) | Standard  | 9VD  | 
-| [Bang & Olufsen Premium sound system](../../technology/soundsystem/#bang--olufsen-sound-system-with-3d-sound) |  | 9VS | 
+| [Audi Sound system](../../technology/soundsystem/#audi-sound-system) | Standard  | 9VD  |
+| [Bang & Olufsen Premium sound system](../../technology/soundsystem/#bang--olufsen-sound-system-with-3d-sound) |  | 9VS |
 | Audi Connect navigation and infotainment | Standard |   |
 | Audi music interface | Standard |   |
 | Audi music interface rear seat |  | UF8 |
@@ -224,7 +226,7 @@ weight: 100
 
 | Tittel | Beskrivelse | ID |
 |-----|------|------|
-| Assistentpakke By | [Crossing assist](../../technology/drivingassistance/crossingassist/), [side assist](../../technology/drivingassistance/sideassist/), [exit warning](../../technology/drivingassistance/exitwarning/), [pre sense rear](../../technology/drivingassistance/presenserear/), [pre sense side](../../technology/drivingassistance/presenseside/), [cross traffic rear](../../technology/drivingassistance/crosstrafficassistrear/) | PCM | 
+| Assistentpakke By | [Crossing assist](../../technology/drivingassistance/crossingassist/), [side assist](../../technology/drivingassistance/sideassist/), [exit warning](../../technology/drivingassistance/exitwarning/), [pre sense rear](../../technology/drivingassistance/presenserear/), [pre sense side](../../technology/drivingassistance/presenseside/), [cross traffic rear](../../technology/drivingassistance/crosstrafficassistrear/) | PCM |
 | Assistentpakke Tur | [Adaptive cruise assist](../../technology/drivingassistance/adaptivecruiseassist/), [Adaptive cruise control](../../technology/drivingassistance/adaptivecruisecontrol/), [efficient assistant](../../technology/drivingassistance/predictiveefficiencyassist/),  [turn assist](../../technology/drivingassistance/turnassist/),[emergency assist](../../technology/drivingassistance/emergencyassist/) | PCC    |
 | Assistentpakken Plus | Inneholder Assistentpakken By, Assistentpakken Tur, Assistentpakken Parkering og 360 camera | PCJ |
 | [Audi pre sense front](../../technology/drivingassistance/presensefront/) | standard | 6K8 |

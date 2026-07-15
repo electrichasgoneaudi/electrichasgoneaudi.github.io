@@ -88,23 +88,23 @@ Standard color. Solid
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_magnetgrey_1.webp">
-        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_magnetgrey_1_st.webp" class="img-fluid" alt="Audi Q8 e-tron in in magnet grey with black optics" title="Audi Q8 e-tron in in magnet grey with black optics">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_magnetgrey_1_st.webp" class="img-fluid" alt="Audi Q8 e-tron in magnet grey with black trim" title="Audi Q8 e-tron in magnet grey with black trim">
     </a>
-    <figcaption><h4>Audi Q8 e-tron in in magnet grey with black optics</h4></figcaption>
+    <figcaption><h4>Audi Q8 e-tron in magnet grey with black trim</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_magnetgrey_2.webp">
-        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_magnetgrey_2_st.webp" class="img-fluid" alt="Audi Q8 e-tron in in magnet grey with black optics" title="Audi Q8 e-tron in in magnet grey with black optics">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_magnetgrey_2_st.webp" class="img-fluid" alt="Audi Q8 e-tron in magnet grey with black trim" title="Audi Q8 e-tron in magnet grey with black trim">
     </a>
-    <figcaption><h4>Audi Q8 e-tron in in magnet grey with black optics</h4></figcaption>
+    <figcaption><h4>Audi Q8 e-tron in magnet grey with black trim</h4></figcaption>
 </figure>
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_magnetgrey_3.webp">
-        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_magnetgrey_3_st.webp" class="img-fluid" alt="Audi Q8 e-tron in in magnet grey with black optics" title="Audi Q8 e-tron in in magnet grey with black optics">
+        <img src="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_magnetgrey_3_st.webp" class="img-fluid" alt="Audi Q8 e-tron in magnet grey with black trim" title="Audi Q8 e-tron in magnet grey with black trim">
     </a>
-    <figcaption><h4>Audi Q8 e-tron in in magnet grey with black optics</h4></figcaption>
+    <figcaption><h4>Audi Q8 e-tron in magnet grey with black trim</h4></figcaption>
 </figure>
 
 
@@ -134,8 +134,6 @@ Color Code: **2Y**
 </figure>
 
 ### Soneira Red
-
-Color Code: **??**
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/q8-e-tron/exterior/paint/paint_soneirared_metallic.webp">
@@ -478,7 +476,7 @@ Color Code: **X6R**
 
 Color code: Z6X
 
-From Audi Smista [@audismista](https://www.instagram.com/audismista/?hl=en) 
+From Audi Smista [@audismista](https://www.instagram.com/audismista/?hl=en)
 
 <figure>
     <a href="https://media.evkx.net/ehga/models/e-tron/exterior/paint/paint_goodwoodgreen_1.webp">

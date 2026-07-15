@@ -27,7 +27,7 @@ Your benefits:
 - Calculates the drive-in maneuver and steers the car into transverse and longitudinal parking hatches
 - Calculates exit maneuvers and steers the car out of longitudinal parking hatches
 
-In the video below the system is demonstrated on a Audi Q7
+In the video below the system is demonstrated on an Audi Q7
 
 {{< youtube cgnwnKd4R4Y >}}
 

@@ -1,56 +1,23 @@
 ---
 title: Audi Q6 e-tron safety technology
 linktitle: Safety
-description: Audi Q6 e-tron has several safety technologies to reduce damage in collisions
+description: The Audi Q6 e-tron combines a comprehensive restraint system with preventive and active safety technology.
 weight: 10
 sectiontabs: "/models/q6-e-tron/technology/"
 ---
-<!-- markdownlint-disable MD033 -->
-## Airbags
 
-Audi Q6 e-tron has several airbags as standard and some optional
+## Occupant protection
 
-{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/safety/airbags_1_st.webp" width="3000" height="1710" title="Audi Q6 e-tron airbags" >}}
+The Audi Q6 e-tron uses front, side and curtain airbags to protect occupants in a collision. A center airbag between the front seats helps reduce contact between the driver and front passenger in a side impact. The exact airbag and rear-seat protection equipment depends on market and specification.
 
-### Front airbags
+{{< sitefiguresized thumb="https://media.evkx.net/ehga/models/q6-e-tron/technology/safety/airbags_1_st.webp" width="3000" height="1710" title="Audi Q6 e-tron airbag system" >}}
 
-Standard
+Seat-belt pretensioners and load limiters work with the airbags. When equipped, proactive occupant protection can prepare the cabin for a detected critical situation by tensioning the belts and initiating closure of the windows and panoramic roof.
 
-### Head airbags
+## Active safety
 
-Both front and rear are protected with head airbags. They are standard
+Audi pre sense front monitors the road ahead and can warn the driver or apply emergency braking when it detects a collision risk. Lane-departure warning, attention monitoring and other assistance functions supplement the passive protection. Standard and optional equipment varies by country and model year; see the [driver-assistance section](../drivingassistance/) for individual systems.
 
-### Side Airbags front
+## Euro NCAP
 
-In front there is standard with side Airbags built in to the seat that protects the body.
-
-## Front interaction airbag
-
-The interactive airbag deploys between the front seats. In a side collision, the two will collide
-People in the front seats with each other or with the passenger seat when driving alone are largely weakened and reduces the risk of injury.
-
-Only available in conjunction with Tech plus (PQB), Tech pro (PQC/PQD) or in edition one
-
-### Side Airbags rear
-
-In rear the side airbags are optional.
-
-Only available in conjunction with Tech plus (PQB), Tech pro (PQC/PQD) or in edition one
-
-## Seat belts
-
-Front seat belts have reversible belt tensioners at the front
-
-## Proactive occupant protection
-
-The proactive occupant protection uses the data from the sensors installed on the front, side and rear of the vehicle and calculates the probability of an accident with another vehicle.
-If a collision risk is detected or in critical driving situations, such as emergency and emergency braking or in driving dynamic limit situations, the system initiates preventive protection measures, including:
-
-- Tightening of the front seat belts
-- Optimization of the sitting position
-- Initiation of the closing process of the windows and, if ordered, the panoramic glass roof9
-- High-frequency activation of the hazard warning lights to warn other road users
-
-The function also increases the wearing comfort of the seat belt.
-
-Note: only available in conjunction with Tech plus (PQB), Tech pro (PQC/PQD) or in edition one
+The Audi Q6 e-tron received a five-star rating in Euro NCAP's 2024 assessment, scoring 91 percent for adult-occupant protection and 92 percent for child-occupant protection. See the [complete Euro NCAP assessment](https://www.euroncap.com/assessments/audi/q6%2Be-tron/1056/).

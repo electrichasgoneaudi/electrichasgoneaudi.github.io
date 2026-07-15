@@ -1,7 +1,7 @@
 ---
-title: Audi Q6 e-tron brakes & recuperation
+title: Audi A6 e-tron brakes & recuperation
 linktitle: Brakes & recuperation
-description: The Audi Q6 e-tron uses an electrohydraulically integrated brake control system.
+description: The Audi A6 e-tron uses an electrohydraulically integrated brake control system.
 weight: 7
 sectiontabs: "/models/a6-e-tron/drivetrain/"
 ---

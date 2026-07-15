@@ -1,14 +1,14 @@
 ---
-title: S-line and S exterior package
+title: Utvendige designlinjer for Audi A6 e-tron
 linktitle: S-line / S
-description: There is serveral styling options to make your e-tron stick out from the crowd
+description: Det finnes flere stylingalternativer som gir Audi A6 e-tron et tydeligere særpreg.
 weight: 3
 sectiontabs: "/nb/models/a6-e-tron/exterior/"
 ---
 <!-- markdownlint-disable MD033 -->
 
 
-## Advance line (standard)
+## Advanced line (standard)
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/s-line/advance_1_st.webp" width="1920" height="1440" title="Audi A6 e-tron advanced line" >}}
 
@@ -20,7 +20,7 @@ sectiontabs: "/nb/models/a6-e-tron/exterior/"
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/s-line/advance_5_st.webp" width="1920" height="1440" title="Audi A6 e-tron advanced line" >}}
 
-## S-line exterior
+## S line-eksteriør
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/s-line/sline_1_st.webp" width="1920" height="1440" title="Audi A6 e-tron S-line" >}}
 
@@ -32,7 +32,7 @@ sectiontabs: "/nb/models/a6-e-tron/exterior/"
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/s-line/sline_5_st.webp" width="1920" height="1440" title="Audi A6 e-tron S-line" >}}
 
-## S-line exterior with black optics
+## S line-eksteriør med sort optikk
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/s-line/blackoptics_1_st.webp" width="1920" height="1440" title="Audi A6 e-tron S-line with black optics" >}}
 
@@ -43,4 +43,3 @@ sectiontabs: "/nb/models/a6-e-tron/exterior/"
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/s-line/blackoptics_4_st.webp" width="1920" height="1440" title="Audi A6 e-tron S-line with black optics" >}}
 
 {{< sitefiguresized thumb="https://media.evkx.net/ehga/models/a6-e-tron/exterior/s-line/blackoptics_5_st.webp" width="1920" height="1440" title="Audi A6 e-tron S-line with black optics" >}}
-humb="models/q6-e-tron/exterior/s-line/sline_3_st.jpg" width="2560" height="1383" title="Audi Q6 e-tron advanced line" >}}

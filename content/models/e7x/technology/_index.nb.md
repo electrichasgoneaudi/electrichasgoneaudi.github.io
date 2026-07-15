@@ -80,7 +80,7 @@ E7X har **toveis 14° bakhjulsstyring** som del av standardutstyrspakken. Med en
 
 ## Panoramatak
 
-Det **intelligente elektrokromiske panoramataket** dekker 2 195 m² glassareal og har elektronisk justerbar farging:
+Det **intelligente elektrokromiske panoramataket** dekker et glassareal på 2,195 m² og har elektronisk justerbar toning:
 
 - 99,99 % UV-isolasjon
 - 99,9 % IR-isolasjon

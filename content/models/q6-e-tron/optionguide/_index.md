@@ -1,12 +1,12 @@
 ---
 title: Audi Q6 e-tron options guide
 linktitle: Options Guide
-description: Audi Q6 e-tron have so many options that it is almost impossible to get the overview. We try to help you select the most important options.
+description: An overview of the main equipment categories and market-specific option packages offered for the Audi Q6 e-tron.
 weight: 25
 ---
 
-The following guide is based on the basic model. Many markets have trim package with options included.
+The Q6 e-tron is offered with market-specific equipment lines and packages. Important choices include lighting, assistance systems, seats, infotainment, suspension, wheels and convenience features.
 
-Below are the most important options you need to consider when buying an e-tron
+Package names and standard equipment vary by country and model year. Use the current national configurator or price list before ordering.
 
-See the [complete equipment list](list) for all options.
+See the [2024 launch equipment snapshot](list/) for a detailed example of how the options were grouped at launch.

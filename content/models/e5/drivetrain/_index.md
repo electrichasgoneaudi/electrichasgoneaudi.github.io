@@ -1,12 +1,12 @@
 ---
-title: Audi E5 Sportback drivetrain
+title: AUDI E5 Sportback drivetrain
 linktitle: Drivetrain
-description: The Audi E5 Sportback is built on a purpose-built EV platform co-developed with SAIC, featuring adaptive air suspension on all variants and up to 579 kW in all-wheel drive configuration.
+description: The AUDI E5 Sportback is built on a purpose-built EV platform co-developed with SAIC, featuring adaptive air suspension on all variants and up to 579 kW in all-wheel drive configuration.
 weight: 6
 ---
 <!-- markdownlint-disable MD033 -->
 
-The Audi E5 Sportback is built on a **purpose-built electric platform co-developed by Audi and SAIC**, optimized for performance, efficiency, and ultra-fast charging. Unlike global Audi e-tron models on MLB Evo, this platform is developed specifically for the Chinese market and digital ecosystem.
+The AUDI E5 Sportback is built on a **purpose-built electric platform co-developed by Audi and SAIC**, optimized for performance, efficiency, and ultra-fast charging. Unlike global Audi e-tron models on MLB Evo, this platform is developed specifically for the Chinese market and digital ecosystem.
 
 ## Electric motors
 
