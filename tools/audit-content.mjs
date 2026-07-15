@@ -258,7 +258,9 @@ function anchorsFor(file) {
   if (anchorCache.has(file)) return anchorCache.get(file);
   const html = fs.readFileSync(file, 'utf8');
   const anchors = new Set();
-  for (const match of html.matchAll(/\s(?:id|name)=["']([^"']+)["']/gi)) anchors.add(match[1]);
+  for (const match of html.matchAll(/\s(?:id|name)=(?:"([^"]+)"|'([^']+)'|([^\s>]+))/gi)) {
+    anchors.add(match[1] || match[2] || match[3]);
+  }
   anchorCache.set(file, anchors);
   return anchors;
 }
@@ -266,8 +268,13 @@ function anchorsFor(file) {
 for (const file of htmlFiles) {
   const html = fs.readFileSync(file, 'utf8');
   const sourceUrl = pageUrlForHtml(file);
-  for (const match of html.matchAll(/\shref=["']([^"']+)["']/gi)) {
-    const href = match[1].trim();
+  const isHomepage = sourceUrl === '/' || /^\/(?:nb|de)\/$/.test(sourceUrl);
+  const hrefPattern = isHomepage
+    ? /\shref=(?:"([^"]+)"|'([^']+)'|([^\s>]+))/gi
+    : /\shref=["']([^"']+)["']/gi;
+
+  for (const match of html.matchAll(hrefPattern)) {
+    const href = (match[1] || match[2] || match[3]).trim();
     if (!href || href.startsWith('mailto:') || href.startsWith('tel:') || href.startsWith('javascript:')) continue;
     let url;
     try {
