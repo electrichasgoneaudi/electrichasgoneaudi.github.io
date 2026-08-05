@@ -42,6 +42,8 @@ Dabei handelt es sich um Bordcomputerwerte von Vorserienfahrzeugen, nicht um sta
 
 Erste Fahrberichte beschreiben das Auto als leise und kultiviert, mit besserer Geräuschdämmung als die technisch eng verwandten Volkswagen-Modelle. Der Heckantrieb bietet eine gleichmäßige, berechenbare Leistungsentfaltung statt eines ausgeprägt sportlichen Charakters. Die endgültige Fahrwerksabstimmung und die Fahrleistungswerte können sich bis zum Produktionsstart noch ändern.
 
+{{< sitefiguresized thumb="models/a2-e-tron/prototype_exterior_4_st.webp" width="3000" height="1997" title="Audi A2 e-tron Prototyp bei der Fahrerprobung" >}}
+
 ---
 
 ## MEB-Plattform und Hinterradantrieb
@@ -65,6 +67,8 @@ Der APP350 wurde mit folgenden Maßnahmen auf Effizienz optimiert:
 
 Laut Audi arbeitet der weiterentwickelte Antrieb bis zu **10 % effizienter** als die vorherige Konstruktion.
 
+{{< sitefiguresized thumb="models/a2-e-tron/prototype_exterior_st.webp" width="3000" height="1997" title="Seitenansicht des getarnten Audi A2 e-tron" >}}
+
 ---
 
 ## LFP-Batterie und Laden
@@ -76,6 +80,8 @@ Die LFP-Chemie kommt ohne Nickel und Kobalt aus und ist auf lange Lebensdauer au
 Die maximale DC-Ladeleistung beträgt **105 kW**, die angegebene Ladezeit von **10 auf 80 % liegt bei 26 Minuten**. Audi nennt zudem einen Wirkungsgrad von **89,6 %** beim AC-Laden. Das sind 1,3 Prozentpunkte mehr, erreicht durch eine überarbeitete Kühlung und Regelsoftware.
 
 Batteriegröße, Zellchemie und Ladeleistung der anderen Leistungsvarianten sind noch nicht offiziell beschrieben.
+
+{{< sitefiguresized thumb="models/a2-e-tron/prototype_charging_st.webp" width="3000" height="1997" title="Audi A2 e-tron Prototypen an einer Schnellladestation" >}}
 
 ---
 
@@ -103,6 +109,8 @@ Zu den wichtigsten Details gehören:
 - Weitgehend geschlossener Unterboden mit sauberen Übergängen zum Heckdiffusor
 - Dachspoiler und geteilte Heckscheibe als Neuinterpretation des ursprünglichen A2
 - Kompakte elektronische Winglet-Türöffner mit mechanischer Notentriegelung innen
+
+{{< sitefiguresized thumb="models/a2-e-tron/prototype_exterior_3_st.webp" width="3000" height="1997" title="Aerodynamische Rad- und Frontdetails am Audi A2 e-tron Prototyp" >}}
 
 Das Serienfahrzeug ist noch getarnt. Der Prototyp zeigt aber eindeutig ein fünftüriges Schrägheckmodell mit kurzen Überhängen, langem Radstand und einer hohen, raumeffizienten Kabine.
 

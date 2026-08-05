@@ -41,6 +41,8 @@ These are trip-computer results from pre-production cars, not standardized or in
 
 Early drive reports describe the car as quiet and refined, with better sound insulation than its closely related Volkswagen models. The rear-wheel-drive layout delivers smooth, predictable performance rather than an overtly sporty character. Final suspension tuning and performance figures remain subject to change before production.
 
+{{< sitefiguresized thumb="models/a2-e-tron/prototype_exterior_4_st.webp" width="3000" height="1997" title="Audi A2 e-tron prototype during road testing" >}}
+
 ---
 
 ## MEB platform and rear-wheel drive
@@ -64,6 +66,8 @@ The APP350 has been optimized for efficiency with:
 
 Audi says the revised drive operates up to **10% more efficiently** than the previous design.
 
+{{< sitefiguresized thumb="models/a2-e-tron/prototype_exterior_st.webp" width="3000" height="1997" title="Side profile of the camouflaged Audi A2 e-tron" >}}
+
 ---
 
 ## LFP battery and charging
@@ -75,6 +79,8 @@ LFP chemistry contains no nickel or cobalt and is designed for a long service li
 DC charging peaks at **105 kW**, with a stated **10–80% charging time of 26 minutes**. Audi also reports an AC charging efficiency of **89.6%**, an improvement of 1.3 percentage points achieved through revised cooling and control software.
 
 Battery sizes, chemistry and charging performance for the other power variants have not yet been officially detailed.
+
+{{< sitefiguresized thumb="models/a2-e-tron/prototype_charging_st.webp" width="3000" height="1997" title="Audi A2 e-tron prototypes at a fast-charging station" >}}
 
 ---
 
@@ -102,6 +108,8 @@ Key details include:
 - A largely enclosed underbody with clean transitions to the rear diffuser
 - A roof spoiler and split rear window that reinterpret the original A2
 - Compact electronic winglet-style door releases with a mechanical interior backup
+
+{{< sitefiguresized thumb="models/a2-e-tron/prototype_exterior_3_st.webp" width="3000" height="1997" title="Aerodynamic wheel and front-end details on the Audi A2 e-tron prototype" >}}
 
 The production design remains camouflaged, but the prototype clearly shows a five-door hatchback with short overhangs, a long wheelbase and a tall, space-efficient cabin.
 

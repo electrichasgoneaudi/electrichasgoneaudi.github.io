@@ -195,7 +195,10 @@ Explore Details
 </div>
 
 <div class="bg-white rounded-xl shadow-lg overflow-hidden border-2 border-dashed border-green-300">
-<div class="p-6 h-full flex flex-col justify-center">
+<a href="a2-e-tron/">
+<img src="https://media.evkx.net/ehga/models/a2-e-tron/prototype_exterior_2_st.webp" class="w-full h-56 object-cover" alt="Audi A2 e-tron prototype">
+</a>
+<div class="p-6">
 <h3 class="text-xl font-bold text-gray-900 mb-3">Audi A2 e-tron</h3>
 <p class="text-gray-600 text-sm mb-4 leading-relaxed">
 Audi's new compact entry-level EV. Prototype drives confirm rear-wheel drive, an LFP battery and preliminary consumption as low as 12.8 kWh/100 km.

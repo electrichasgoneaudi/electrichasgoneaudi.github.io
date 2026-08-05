@@ -205,7 +205,7 @@ Utforsk detaljer
 
 <div class="bg-gray-50 rounded-xl shadow-md overflow-hidden border border-gray-300">
 <a href="a2-e-tron/">
-<img src="https://media.evkx.net/ehga/models/a2-e-tron/a2_etron_1_st.webp" class="w-full h-56 object-cover opacity-75" alt="Audi A2 e-tron">
+<img src="https://media.evkx.net/ehga/models/a2-e-tron/prototype_exterior_2_st.webp" class="w-full h-56 object-cover" alt="Audi A2 e-tron-prototype">
 </a>
 <div class="p-6">
 <h3 class="text-xl font-bold text-gray-700 mb-3">Audi A2 e-tron</h3>

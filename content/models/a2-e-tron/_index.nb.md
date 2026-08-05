@@ -41,6 +41,8 @@ Dette er tall fra kjørecomputeren i førproduksjonsbiler, ikke standardiserte e
 
 De første prøvekjøringene beskriver bilen som stillegående og raffinert, med bedre støydemping enn de nært beslektede Volkswagen-modellene. Bakhjulsdriften gir jevne og forutsigbare ytelser fremfor en utpreget sportslig karakter. Endelig fjæringsoppsett og ytelsesdata kan fortsatt endres før produksjonsstart.
 
+{{< sitefiguresized thumb="models/a2-e-tron/prototype_exterior_4_st.webp" width="3000" height="1997" title="Audi A2 e-tron-prototype under prøvekjøring" >}}
+
 ---
 
 ## MEB-plattform og bakhjulsdrift
@@ -64,6 +66,8 @@ APP350 er optimalisert for effektivitet med:
 
 Audi oppgir at den videreutviklede drivlinjen er opptil **10 % mer effektiv** enn den tidligere konstruksjonen.
 
+{{< sitefiguresized thumb="models/a2-e-tron/prototype_exterior_st.webp" width="3000" height="1997" title="Sideprofil av den kamuflerte Audi A2 e-tron" >}}
+
 ---
 
 ## LFP-batteri og lading
@@ -75,6 +79,8 @@ LFP-kjemien inneholder verken nikkel eller kobolt og er utviklet for lang leveti
 Maksimal DC-ladeeffekt er **105 kW**, og oppgitt ladetid fra **10 til 80 % er 26 minutter**. Audi oppgir også en virkningsgrad på **89,6 %** ved AC-lading, en forbedring på 1,3 prosentpoeng oppnådd med revidert kjøling og styringsprogramvare.
 
 Batteristørrelse, kjemi og ladeegenskaper for de andre effektvariantene er ennå ikke offisielt detaljert.
+
+{{< sitefiguresized thumb="models/a2-e-tron/prototype_charging_st.webp" width="3000" height="1997" title="Audi A2 e-tron-prototyper ved en hurtigladestasjon" >}}
 
 ---
 
@@ -102,6 +108,8 @@ Viktige detaljer omfatter:
 - Nesten helt lukket understell med jevne overganger mot diffusoren bak
 - Takspoiler og delt bakrute som nytolker originalmodellen
 - Kompakte elektroniske winglet-døråpnere med mekanisk nødåpning fra innsiden
+
+{{< sitefiguresized thumb="models/a2-e-tron/prototype_exterior_3_st.webp" width="3000" height="1997" title="Aerodynamiske hjul- og frontdetaljer på Audi A2 e-tron-prototypen" >}}
 
 Produksjonsdesignet er fortsatt kamuflert, men prototypen viser tydelig en femdørs kombi med korte overheng, lang akselavstand og en høy, plasseffektiv kupé.
 
