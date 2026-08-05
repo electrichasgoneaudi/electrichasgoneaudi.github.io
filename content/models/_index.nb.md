@@ -210,11 +210,11 @@ Utforsk detaljer
 <div class="p-6">
 <h3 class="text-xl font-bold text-gray-700 mb-3">Audi A2 e-tron</h3>
 <p class="text-gray-500 text-sm mb-4 leading-relaxed">
-Kommende kompakt elbil fra Audi. Forventet å bli Audis inngangsmodell blant elbiler.
+Audis nye kompakte elektriske inngangsmodell. Prototypekjøringen bekrefter bakhjulsdrift, LFP-batteri og et foreløpig forbruk helt ned mot 12,8 kWh/100 km.
 </p>
 <div class="flex flex-wrap gap-2 mb-4">
 <span class="bg-green-100 text-green-600 text-xs font-semibold px-3 py-1 rounded-full">Prototype</span>
-<span class="bg-gray-100 text-gray-600 text-xs font-semibold px-3 py-1 rounded-full">Kommende</span>
+<span class="bg-gray-100 text-gray-600 text-xs font-semibold px-3 py-1 rounded-full">Høsten 2026</span>
 </div>
 <a href="a2-e-tron/" class="block w-full bg-gray-500 hover:bg-gray-600 text-white font-medium py-3 px-4 rounded-lg text-center transition-colors duration-200" style="color: white !important;">
 Utforsk detaljer
