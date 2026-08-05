@@ -198,11 +198,11 @@ Explore Details
 <div class="p-6 h-full flex flex-col justify-center">
 <h3 class="text-xl font-bold text-gray-900 mb-3">Audi A2 e-tron</h3>
 <p class="text-gray-600 text-sm mb-4 leading-relaxed">
-Compact electric model spotted in prototype testing. Expected to be Audi's entry-level EV for the premium compact segment.
+Audi's new compact entry-level EV. Prototype drives confirm rear-wheel drive, an LFP battery and preliminary consumption as low as 12.8 kWh/100 km.
 </p>
 <div class="flex flex-wrap gap-2 mb-4">
 <span class="bg-green-100 text-green-800 text-xs font-semibold px-3 py-1 rounded-full">Prototype Stage</span>
-<span class="bg-gray-100 text-gray-700 text-xs font-semibold px-3 py-1 rounded-full">Launch timing unconfirmed</span>
+<span class="bg-gray-100 text-gray-700 text-xs font-semibold px-3 py-1 rounded-full">Fall 2026</span>
 </div>
 <a href="a2-e-tron/" class="block w-full bg-green-500 hover:bg-green-600 text-white font-medium py-3 px-4 rounded-lg text-center transition-colors duration-200" style="color: white !important;">
 View Details
