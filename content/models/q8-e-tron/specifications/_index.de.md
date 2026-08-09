@@ -86,11 +86,11 @@ Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [a
       <section class="generated-specs__group">
         <h3>Ladekapazität und Anhängelast</h3>
         <div class="generated-specs__group-body">
-      <div class="spec-row"><span class="spec-row__label">Leergewicht</span><strong class="spec-row__value">2370 kg (5225 lb)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Leergewicht</span><strong class="spec-row__value">2510 kg (5534 lb)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maximales Gesamtgewicht</span><strong class="spec-row__value">3040 kg (6702 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Maximale Zuladung einschließlich Fahrer</span><strong class="spec-row__value">670 kg (1477 lb)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Maximale Zuladung einschließlich Fahrer</span><strong class="spec-row__value">530 kg (1168 lb)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maximale Dachlast</span><strong class="spec-row__value">75 kg (165 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Kofferraumvolumen</span><strong class="spec-row__value">660 Liter (23 ft³)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Kofferraumvolumen</span><strong class="spec-row__value">569 Liter (20 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Kofferraumvolumen bei umgeklappten Sitzen der zweiten Reihe</span><strong class="spec-row__value">1725 Liter (61 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Frunk-Volumen</span><strong class="spec-row__value">60 Liter (2 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maximale Anhängelast gebremst</span><strong class="spec-row__value">1800 kg (3968 lb)</strong></div>
@@ -421,11 +421,11 @@ Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [a
       <section class="generated-specs__group">
         <h3>Ladekapazität und Anhängelast</h3>
         <div class="generated-specs__group-body">
-      <div class="spec-row"><span class="spec-row__label">Leergewicht</span><strong class="spec-row__value">2370 kg (5225 lb)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Leergewicht</span><strong class="spec-row__value">2510 kg (5534 lb)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maximales Gesamtgewicht</span><strong class="spec-row__value">3040 kg (6702 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Maximale Zuladung einschließlich Fahrer</span><strong class="spec-row__value">670 kg (1477 lb)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Maximale Zuladung einschließlich Fahrer</span><strong class="spec-row__value">530 kg (1168 lb)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maximale Dachlast</span><strong class="spec-row__value">75 kg (165 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Kofferraumvolumen</span><strong class="spec-row__value">660 Liter (23 ft³)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Kofferraumvolumen</span><strong class="spec-row__value">528 Liter (19 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Kofferraumvolumen bei umgeklappten Sitzen der zweiten Reihe</span><strong class="spec-row__value">1725 Liter (61 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Frunk-Volumen</span><strong class="spec-row__value">60 Liter (2 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maximale Anhängelast gebremst</span><strong class="spec-row__value">1800 kg (3968 lb)</strong></div>
@@ -799,7 +799,7 @@ Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [a
       <div class="spec-row"><span class="spec-row__label">Maximales Gesamtgewicht</span><strong class="spec-row__value">3170 kg (6989 lb)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maximale Zuladung einschließlich Fahrer</span><strong class="spec-row__value">650 kg (1433 lb)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maximale Dachlast</span><strong class="spec-row__value">75 kg (165 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Kofferraumvolumen</span><strong class="spec-row__value">660 Liter (23 ft³)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Kofferraumvolumen</span><strong class="spec-row__value">569 Liter (20 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Kofferraumvolumen bei umgeklappten Sitzen der zweiten Reihe</span><strong class="spec-row__value">1725 Liter (61 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Frunk-Volumen</span><strong class="spec-row__value">60 Liter (2 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maximale Anhängelast gebremst</span><strong class="spec-row__value">1800 kg (3968 lb)</strong></div>
@@ -1139,7 +1139,7 @@ Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [a
       <div class="spec-row"><span class="spec-row__label">Maximales Gesamtgewicht</span><strong class="spec-row__value">3170 kg (6989 lb)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maximale Zuladung einschließlich Fahrer</span><strong class="spec-row__value">650 kg (1433 lb)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maximale Dachlast</span><strong class="spec-row__value">75 kg (165 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Kofferraumvolumen</span><strong class="spec-row__value">660 Liter (23 ft³)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Kofferraumvolumen</span><strong class="spec-row__value">528 Liter (19 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Kofferraumvolumen bei umgeklappten Sitzen der zweiten Reihe</span><strong class="spec-row__value">1725 Liter (61 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Frunk-Volumen</span><strong class="spec-row__value">60 Liter (2 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maximale Anhängelast gebremst</span><strong class="spec-row__value">1800 kg (3968 lb)</strong></div>
@@ -1994,7 +1994,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen verfügbar.
       <div class="spec-row"><span class="spec-row__label">Spitzenleistung mit Boost</span><strong class="spec-row__value">370 Kw</strong></div>
       <div class="spec-row"><span class="spec-row__label">Elektrisches Drehmoment</span><strong class="spec-row__value">561 Nm (414 lb-ft)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Elektrisches Drehmoment Boost</span><strong class="spec-row__value">973 Nm</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Höchstgeschwindigkeit</span><strong class="spec-row__value">200 km/h (124 mph)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Höchstgeschwindigkeit</span><strong class="spec-row__value">210 km/h (131 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/h (0–62 mph)</span><strong class="spec-row__value">6,6 s</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/h (0–62 mph) Boost</span><strong class="spec-row__value">4,5 s</strong></div>
 
@@ -2059,7 +2059,7 @@ Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [a
       <div class="spec-row"><span class="spec-row__label">Maximales Gesamtgewicht</span><strong class="spec-row__value">3290 kg (7253 lb)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maximale Zuladung einschließlich Fahrer</span><strong class="spec-row__value">525 kg (1157 lb)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maximale Dachlast</span><strong class="spec-row__value">75 kg (165 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Kofferraumvolumen</span><strong class="spec-row__value">660 Liter (23 ft³)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Kofferraumvolumen</span><strong class="spec-row__value">528 Liter (19 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Kofferraumvolumen bei umgeklappten Sitzen der zweiten Reihe</span><strong class="spec-row__value">1725 Liter (61 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Frunk-Volumen</span><strong class="spec-row__value">60 Liter (2 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maximale Anhängelast gebremst</span><strong class="spec-row__value">1800 kg (3968 lb)</strong></div>

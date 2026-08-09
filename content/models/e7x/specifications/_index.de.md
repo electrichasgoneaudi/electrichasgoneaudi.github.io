@@ -199,10 +199,10 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen verfügbar.
       <div class="spec-row"><span class="spec-row__label">Apple CarPlay-Unterstützung</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
       <div class="spec-row"><span class="spec-row__label">Fahrzeugnavigation</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
       <div class="spec-row"><span class="spec-row__label">Verfügbare Bildschirmkonfigurationen</span><strong class="spec-row__value">1</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Digitales Kombiinstrument</span><strong class="spec-row__value">Ja, 10,25</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm</span><strong class="spec-row__value">Ja, 21,4"</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Digitales Kombiinstrument</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
       <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm für den Beifahrer</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm hinten</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm hinten</span><strong class="spec-row__value">Ja, 21,4"</strong></div>
         </div>
       </section>
       <section class="generated-specs__group">
@@ -400,10 +400,10 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen verfügbar.
       <div class="spec-row"><span class="spec-row__label">Apple CarPlay-Unterstützung</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
       <div class="spec-row"><span class="spec-row__label">Fahrzeugnavigation</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
       <div class="spec-row"><span class="spec-row__label">Verfügbare Bildschirmkonfigurationen</span><strong class="spec-row__value">1</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Digitales Kombiinstrument</span><strong class="spec-row__value">Ja, 10,25</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm</span><strong class="spec-row__value">Ja, 21,4"</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Digitales Kombiinstrument</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
       <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm für den Beifahrer</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm hinten</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm hinten</span><strong class="spec-row__value">Ja, 21,4"</strong></div>
         </div>
       </section>
       <section class="generated-specs__group">
@@ -601,10 +601,10 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen verfügbar.
       <div class="spec-row"><span class="spec-row__label">Apple CarPlay-Unterstützung</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
       <div class="spec-row"><span class="spec-row__label">Fahrzeugnavigation</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
       <div class="spec-row"><span class="spec-row__label">Verfügbare Bildschirmkonfigurationen</span><strong class="spec-row__value">1</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Digitales Kombiinstrument</span><strong class="spec-row__value">Ja, 10,25</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm</span><strong class="spec-row__value">Ja, 21,4"</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Digitales Kombiinstrument</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
       <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm für den Beifahrer</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm hinten</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm hinten</span><strong class="spec-row__value">Ja, 21,4"</strong></div>
         </div>
       </section>
       <section class="generated-specs__group">
@@ -805,10 +805,10 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen verfügbar.
       <div class="spec-row"><span class="spec-row__label">Apple CarPlay-Unterstützung</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
       <div class="spec-row"><span class="spec-row__label">Fahrzeugnavigation</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
       <div class="spec-row"><span class="spec-row__label">Verfügbare Bildschirmkonfigurationen</span><strong class="spec-row__value">1</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Digitales Kombiinstrument</span><strong class="spec-row__value">Ja, 10,25</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm</span><strong class="spec-row__value">Ja, 21,4"</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Digitales Kombiinstrument</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
       <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm für den Beifahrer</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm hinten</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm hinten</span><strong class="spec-row__value">Ja, 21,4"</strong></div>
         </div>
       </section>
       <section class="generated-specs__group">
@@ -1009,10 +1009,10 @@ Dieses Modell ist mit einer Sitzkonfiguration mit vier Sitzen verfügbar.
       <div class="spec-row"><span class="spec-row__label">Apple CarPlay-Unterstützung</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
       <div class="spec-row"><span class="spec-row__label">Fahrzeugnavigation</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
       <div class="spec-row"><span class="spec-row__label">Verfügbare Bildschirmkonfigurationen</span><strong class="spec-row__value">1</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Digitales Kombiinstrument</span><strong class="spec-row__value">Ja, 10,25</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm</span><strong class="spec-row__value">Ja, 21,4"</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Digitales Kombiinstrument</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
       <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm für den Beifahrer</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm hinten</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm hinten</span><strong class="spec-row__value">Ja, 21,4"</strong></div>
         </div>
       </section>
       <section class="generated-specs__group">
