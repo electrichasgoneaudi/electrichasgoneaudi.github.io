@@ -5,7 +5,7 @@ description:
 weight: 30
 ---
 
-## KD2* - 03.11.00/C
+## KD2* - 03.11.00/C (Service Action 06K2)
 
 - Dies ist KEIN OTA-Update; Das Auto muss in einem Workshop / Dealership aktualisiert werden
 - Der Job wird voraussichtlich 3,5 Stunden dauern

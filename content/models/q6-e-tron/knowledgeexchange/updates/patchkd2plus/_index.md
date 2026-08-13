@@ -5,7 +5,7 @@ description:
 weight: 30
 ---
 
-## KD2* - 03.11.00/C
+## KD2* - 03.11.00/C (Service Action 06K2)
 
 - This is NOT an OTA update; the car must be updated at a workshop/dealership
 - The job is expected to take 3.5 hours
