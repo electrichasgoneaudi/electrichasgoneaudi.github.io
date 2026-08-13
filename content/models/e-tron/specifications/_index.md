@@ -9,16 +9,27 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 <div class="generated-specs" data-spec-browser>
-  <div class="generated-specs__variants" role="tablist" aria-label="Select variant">
-    <button class="chip chip--active" type="button" role="tab" aria-selected="true" aria-controls="spec-panel-variant-3b595a0e337047598e602b92e59825d1" data-spec-tab="variant-3b595a0e337047598e602b92e59825d1">Audi e-tron 50</button>
-    <button class="chip" type="button" role="tab" aria-selected="false" aria-controls="spec-panel-variant-3020fd78a5a94e33a13bf87b418a4e92" data-spec-tab="variant-3020fd78a5a94e33a13bf87b418a4e92">Audi e-tron 50 Sportback</button>
-    <button class="chip" type="button" role="tab" aria-selected="false" aria-controls="spec-panel-variant-38e6acba0cbd4e9ab36154774372483a" data-spec-tab="variant-38e6acba0cbd4e9ab36154774372483a">Audi e-tron 55</button>
-    <button class="chip" type="button" role="tab" aria-selected="false" aria-controls="spec-panel-variant-d45cb9711f834bbfad16a73730c5def6" data-spec-tab="variant-d45cb9711f834bbfad16a73730c5def6">Audi e-tron 55 Sportback</button>
-    <button class="chip" type="button" role="tab" aria-selected="false" aria-controls="spec-panel-variant-46e25a59d998478ab446496e1cb9e69b" data-spec-tab="variant-46e25a59d998478ab446496e1cb9e69b">Audi e-tron S</button>
-    <button class="chip" type="button" role="tab" aria-selected="false" aria-controls="spec-panel-variant-c78e248ced2b4086abce618c569094e7" data-spec-tab="variant-c78e248ced2b4086abce618c569094e7">Audi e-tron S Sportback</button>
+  <div class="generated-specs__selector">
+    <label for="spec-variant-select">Select variant</label>
+    <select id="spec-variant-select" data-spec-select>
+      <optgroup label="Discontinued">
+        <option value="variant-3b595a0e337047598e602b92e59825d1" selected>Audi e-tron 50 — MY2020, MY2021, MY2022, MY2023</option>
+        <option value="variant-3020fd78a5a94e33a13bf87b418a4e92">Audi e-tron 50 Sportback — MY2020, MY2021, MY2022, MY2023</option>
+        <option value="variant-38e6acba0cbd4e9ab36154774372483a">Audi e-tron 55 — MY2019, MY2020, MY2021, MY2022, MY2023</option>
+        <option value="variant-d45cb9711f834bbfad16a73730c5def6">Audi e-tron 55 Sportback — MY2020, MY2021, MY2022, MY2023</option>
+        <option value="variant-46e25a59d998478ab446496e1cb9e69b">Audi e-tron S — MY2020, MY2021, MY2022, MY2023</option>
+        <option value="variant-c78e248ced2b4086abce618c569094e7">Audi e-tron S Sportback — MY2020, MY2021, MY2022, MY2023</option>
+      </optgroup>
+    </select>
   </div>
-  <section class="generated-specs__panel" id="spec-panel-variant-3b595a0e337047598e602b92e59825d1" role="tabpanel" data-spec-panel="variant-3b595a0e337047598e602b92e59825d1">
-    <h2 class="generated-specs__title">Audi e-tron 50</h2>
+  <section class="generated-specs__panel" id="spec-panel-variant-3b595a0e337047598e602b92e59825d1" data-spec-panel="variant-3b595a0e337047598e602b92e59825d1">
+    <header class="generated-specs__heading">
+      <h2 class="generated-specs__title">Audi e-tron 50</h2>
+      <div class="generated-specs__meta">
+        <span class="status-badge status-badge--ended">Discontinued</span>
+        <span class="generated-specs__years">MY2020, MY2021, MY2022, MY2023</span>
+      </div>
+    </header>
     <div class="generated-specs__groups">
       <section class="generated-specs__group">
         <h3>Performance</h3>
@@ -386,8 +397,14 @@ This model is available with a seat configuration with five seats.
       </section>
     </div>
   </section>
-  <section class="generated-specs__panel" id="spec-panel-variant-3020fd78a5a94e33a13bf87b418a4e92" role="tabpanel" data-spec-panel="variant-3020fd78a5a94e33a13bf87b418a4e92" hidden>
-    <h2 class="generated-specs__title">Audi e-tron 50 Sportback</h2>
+  <section class="generated-specs__panel" id="spec-panel-variant-3020fd78a5a94e33a13bf87b418a4e92" data-spec-panel="variant-3020fd78a5a94e33a13bf87b418a4e92" hidden>
+    <header class="generated-specs__heading">
+      <h2 class="generated-specs__title">Audi e-tron 50 Sportback</h2>
+      <div class="generated-specs__meta">
+        <span class="status-badge status-badge--ended">Discontinued</span>
+        <span class="generated-specs__years">MY2020, MY2021, MY2022, MY2023</span>
+      </div>
+    </header>
     <div class="generated-specs__groups">
       <section class="generated-specs__group">
         <h3>Performance</h3>
@@ -762,8 +779,14 @@ This model is available with a seat configuration with five seats.
       </section>
     </div>
   </section>
-  <section class="generated-specs__panel" id="spec-panel-variant-38e6acba0cbd4e9ab36154774372483a" role="tabpanel" data-spec-panel="variant-38e6acba0cbd4e9ab36154774372483a" hidden>
-    <h2 class="generated-specs__title">Audi e-tron 55</h2>
+  <section class="generated-specs__panel" id="spec-panel-variant-38e6acba0cbd4e9ab36154774372483a" data-spec-panel="variant-38e6acba0cbd4e9ab36154774372483a" hidden>
+    <header class="generated-specs__heading">
+      <h2 class="generated-specs__title">Audi e-tron 55</h2>
+      <div class="generated-specs__meta">
+        <span class="status-badge status-badge--ended">Discontinued</span>
+        <span class="generated-specs__years">MY2019, MY2020, MY2021, MY2022, MY2023</span>
+      </div>
+    </header>
     <div class="generated-specs__groups">
       <section class="generated-specs__group">
         <h3>Performance</h3>
@@ -1134,8 +1157,14 @@ This model is available with a seat configuration with five seats.
       </section>
     </div>
   </section>
-  <section class="generated-specs__panel" id="spec-panel-variant-d45cb9711f834bbfad16a73730c5def6" role="tabpanel" data-spec-panel="variant-d45cb9711f834bbfad16a73730c5def6" hidden>
-    <h2 class="generated-specs__title">Audi e-tron 55 Sportback</h2>
+  <section class="generated-specs__panel" id="spec-panel-variant-d45cb9711f834bbfad16a73730c5def6" data-spec-panel="variant-d45cb9711f834bbfad16a73730c5def6" hidden>
+    <header class="generated-specs__heading">
+      <h2 class="generated-specs__title">Audi e-tron 55 Sportback</h2>
+      <div class="generated-specs__meta">
+        <span class="status-badge status-badge--ended">Discontinued</span>
+        <span class="generated-specs__years">MY2020, MY2021, MY2022, MY2023</span>
+      </div>
+    </header>
     <div class="generated-specs__groups">
       <section class="generated-specs__group">
         <h3>Performance</h3>
@@ -1506,8 +1535,14 @@ This model is available with a seat configuration with five seats.
       </section>
     </div>
   </section>
-  <section class="generated-specs__panel" id="spec-panel-variant-46e25a59d998478ab446496e1cb9e69b" role="tabpanel" data-spec-panel="variant-46e25a59d998478ab446496e1cb9e69b" hidden>
-    <h2 class="generated-specs__title">Audi e-tron S</h2>
+  <section class="generated-specs__panel" id="spec-panel-variant-46e25a59d998478ab446496e1cb9e69b" data-spec-panel="variant-46e25a59d998478ab446496e1cb9e69b" hidden>
+    <header class="generated-specs__heading">
+      <h2 class="generated-specs__title">Audi e-tron S</h2>
+      <div class="generated-specs__meta">
+        <span class="status-badge status-badge--ended">Discontinued</span>
+        <span class="generated-specs__years">MY2020, MY2021, MY2022, MY2023</span>
+      </div>
+    </header>
     <div class="generated-specs__groups">
       <section class="generated-specs__group">
         <h3>Performance</h3>
@@ -1828,8 +1863,14 @@ This model is available with a seat configuration with five seats.
       </section>
     </div>
   </section>
-  <section class="generated-specs__panel" id="spec-panel-variant-c78e248ced2b4086abce618c569094e7" role="tabpanel" data-spec-panel="variant-c78e248ced2b4086abce618c569094e7" hidden>
-    <h2 class="generated-specs__title">Audi e-tron S Sportback</h2>
+  <section class="generated-specs__panel" id="spec-panel-variant-c78e248ced2b4086abce618c569094e7" data-spec-panel="variant-c78e248ced2b4086abce618c569094e7" hidden>
+    <header class="generated-specs__heading">
+      <h2 class="generated-specs__title">Audi e-tron S Sportback</h2>
+      <div class="generated-specs__meta">
+        <span class="status-badge status-badge--ended">Discontinued</span>
+        <span class="generated-specs__years">MY2020, MY2021, MY2022, MY2023</span>
+      </div>
+    </header>
     <div class="generated-specs__groups">
       <section class="generated-specs__group">
         <h3>Performance</h3>

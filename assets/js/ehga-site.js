@@ -119,16 +119,26 @@
   document.querySelectorAll('[data-spec-browser]').forEach((browser) => {
     const tabs = Array.from(browser.querySelectorAll('[data-spec-tab]'));
     const panels = Array.from(browser.querySelectorAll('[data-spec-panel]'));
+    const select = browser.querySelector('[data-spec-select]');
+
+    const activateVariant = (target) => {
+      tabs.forEach((item) => {
+        const active = item.dataset.specTab === target;
+        item.classList.toggle('chip--active', active);
+        item.setAttribute('aria-selected', String(active));
+      });
+      panels.forEach((panel) => { panel.hidden = panel.dataset.specPanel !== target; });
+      if (select && select.value !== target) select.value = target;
+    };
+
     tabs.forEach((tab) => {
       tab.addEventListener('click', () => {
-        const target = tab.dataset.specTab;
-        tabs.forEach((item) => {
-          const active = item === tab;
-          item.classList.toggle('chip--active', active);
-          item.setAttribute('aria-selected', String(active));
-        });
-        panels.forEach((panel) => { panel.hidden = panel.dataset.specPanel !== target; });
+        activateVariant(tab.dataset.specTab);
       });
     });
+
+    if (select) {
+      select.addEventListener('change', () => activateVariant(select.value));
+    }
   });
 })();

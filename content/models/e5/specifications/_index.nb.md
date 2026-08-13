@@ -9,14 +9,25 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 <div class="generated-specs" data-spec-browser>
-  <div class="generated-specs__variants" role="tablist" aria-label="Velg variant">
-    <button class="chip chip--active" type="button" role="tab" aria-selected="true" aria-controls="spec-panel-variant-2319fb52350c4f079778ae0f16f5a016" data-spec-tab="variant-2319fb52350c4f079778ae0f16f5a016">Audi E5 Sportback Pioneer</button>
-    <button class="chip" type="button" role="tab" aria-selected="false" aria-controls="spec-panel-variant-2a7d7a678e074171a8b18723088aed42" data-spec-tab="variant-2a7d7a678e074171a8b18723088aed42">Audi E5 Sportback Pioneer Plus</button>
-    <button class="chip" type="button" role="tab" aria-selected="false" aria-controls="spec-panel-variant-6c208ad45f504f6d9df1f5d64b7a1a4f" data-spec-tab="variant-6c208ad45f504f6d9df1f5d64b7a1a4f">Audi E5 Sportback Pioneer quattro</button>
-    <button class="chip" type="button" role="tab" aria-selected="false" aria-controls="spec-panel-variant-908cbe04418b42cab7723f9bc6b8a902" data-spec-tab="variant-908cbe04418b42cab7723f9bc6b8a902">Audi E5 Sportback quattro</button>
+  <div class="generated-specs__selector">
+    <label for="spec-variant-select">Velg variant</label>
+    <select id="spec-variant-select" data-spec-select>
+      <optgroup label="I produksjon">
+        <option value="variant-2319fb52350c4f079778ae0f16f5a016" selected>Audi E5 Sportback Pioneer — MY2026</option>
+        <option value="variant-2a7d7a678e074171a8b18723088aed42">Audi E5 Sportback Pioneer Plus — MY2026</option>
+        <option value="variant-6c208ad45f504f6d9df1f5d64b7a1a4f">Audi E5 Sportback Pioneer quattro — MY2026</option>
+        <option value="variant-908cbe04418b42cab7723f9bc6b8a902">Audi E5 Sportback quattro — MY2026</option>
+      </optgroup>
+    </select>
   </div>
-  <section class="generated-specs__panel" id="spec-panel-variant-2319fb52350c4f079778ae0f16f5a016" role="tabpanel" data-spec-panel="variant-2319fb52350c4f079778ae0f16f5a016">
-    <h2 class="generated-specs__title">Audi E5 Sportback Pioneer</h2>
+  <section class="generated-specs__panel" id="spec-panel-variant-2319fb52350c4f079778ae0f16f5a016" data-spec-panel="variant-2319fb52350c4f079778ae0f16f5a016">
+    <header class="generated-specs__heading">
+      <h2 class="generated-specs__title">Audi E5 Sportback Pioneer</h2>
+      <div class="generated-specs__meta">
+        <span class="status-badge status-badge--onsale">I produksjon</span>
+        <span class="generated-specs__years">MY2026</span>
+      </div>
+    </header>
     <div class="generated-specs__groups">
       <section class="generated-specs__group">
         <h3>Ytelse</h3>
@@ -220,8 +231,14 @@ Denne modellen er tilgjengelig med et seteoppsett med fem seter.
       </section>
     </div>
   </section>
-  <section class="generated-specs__panel" id="spec-panel-variant-2a7d7a678e074171a8b18723088aed42" role="tabpanel" data-spec-panel="variant-2a7d7a678e074171a8b18723088aed42" hidden>
-    <h2 class="generated-specs__title">Audi E5 Sportback Pioneer Plus</h2>
+  <section class="generated-specs__panel" id="spec-panel-variant-2a7d7a678e074171a8b18723088aed42" data-spec-panel="variant-2a7d7a678e074171a8b18723088aed42" hidden>
+    <header class="generated-specs__heading">
+      <h2 class="generated-specs__title">Audi E5 Sportback Pioneer Plus</h2>
+      <div class="generated-specs__meta">
+        <span class="status-badge status-badge--onsale">I produksjon</span>
+        <span class="generated-specs__years">MY2026</span>
+      </div>
+    </header>
     <div class="generated-specs__groups">
       <section class="generated-specs__group">
         <h3>Ytelse</h3>
@@ -425,8 +442,14 @@ Denne modellen er tilgjengelig med et seteoppsett med fem seter.
       </section>
     </div>
   </section>
-  <section class="generated-specs__panel" id="spec-panel-variant-6c208ad45f504f6d9df1f5d64b7a1a4f" role="tabpanel" data-spec-panel="variant-6c208ad45f504f6d9df1f5d64b7a1a4f" hidden>
-    <h2 class="generated-specs__title">Audi E5 Sportback Pioneer quattro</h2>
+  <section class="generated-specs__panel" id="spec-panel-variant-6c208ad45f504f6d9df1f5d64b7a1a4f" data-spec-panel="variant-6c208ad45f504f6d9df1f5d64b7a1a4f" hidden>
+    <header class="generated-specs__heading">
+      <h2 class="generated-specs__title">Audi E5 Sportback Pioneer quattro</h2>
+      <div class="generated-specs__meta">
+        <span class="status-badge status-badge--onsale">I produksjon</span>
+        <span class="generated-specs__years">MY2026</span>
+      </div>
+    </header>
     <div class="generated-specs__groups">
       <section class="generated-specs__group">
         <h3>Ytelse</h3>
@@ -630,8 +653,14 @@ Denne modellen er tilgjengelig med et seteoppsett med fem seter.
       </section>
     </div>
   </section>
-  <section class="generated-specs__panel" id="spec-panel-variant-908cbe04418b42cab7723f9bc6b8a902" role="tabpanel" data-spec-panel="variant-908cbe04418b42cab7723f9bc6b8a902" hidden>
-    <h2 class="generated-specs__title">Audi E5 Sportback quattro</h2>
+  <section class="generated-specs__panel" id="spec-panel-variant-908cbe04418b42cab7723f9bc6b8a902" data-spec-panel="variant-908cbe04418b42cab7723f9bc6b8a902" hidden>
+    <header class="generated-specs__heading">
+      <h2 class="generated-specs__title">Audi E5 Sportback quattro</h2>
+      <div class="generated-specs__meta">
+        <span class="status-badge status-badge--onsale">I produksjon</span>
+        <span class="generated-specs__years">MY2026</span>
+      </div>
+    </header>
     <div class="generated-specs__groups">
       <section class="generated-specs__group">
         <h3>Ytelse</h3>

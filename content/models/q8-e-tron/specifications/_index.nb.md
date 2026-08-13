@@ -9,17 +9,27 @@ navicon: bi-layout-text-sidebar-reverse
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 <div class="generated-specs" data-spec-browser>
-  <div class="generated-specs__variants" role="tablist" aria-label="Velg variant">
-    <button class="chip chip--active" type="button" role="tab" aria-selected="true" aria-controls="spec-panel-variant-9dbfb395bdd44c45859d863ec7c75b11" data-spec-tab="variant-9dbfb395bdd44c45859d863ec7c75b11">Audi Q8 50 e-tron</button>
-    <button class="chip" type="button" role="tab" aria-selected="false" aria-controls="spec-panel-variant-087b509edeec4de58a87113179790fac" data-spec-tab="variant-087b509edeec4de58a87113179790fac">Audi Q8 Sportback 50 e-tron</button>
-    <button class="chip" type="button" role="tab" aria-selected="false" aria-controls="spec-panel-variant-e93b7fdb5a18464e97a5cb29cb1a8daa" data-spec-tab="variant-e93b7fdb5a18464e97a5cb29cb1a8daa">Audi Q8 55 e-tron</button>
-    <button class="chip" type="button" role="tab" aria-selected="false" aria-controls="spec-panel-variant-2e5ee497997045198898b10188da397d" data-spec-tab="variant-2e5ee497997045198898b10188da397d">Audi Q8 Sportback 55 e-tron</button>
-    <button class="chip" type="button" role="tab" aria-selected="false" aria-controls="spec-panel-variant-617928534ef348798a4a15c7f99c78aa" data-spec-tab="variant-617928534ef348798a4a15c7f99c78aa">Audi Q8 e-tron edition Dakar</button>
-    <button class="chip" type="button" role="tab" aria-selected="false" aria-controls="spec-panel-variant-a429ccf418744c92b364b45a1812fe37" data-spec-tab="variant-a429ccf418744c92b364b45a1812fe37">Audi SQ8 e-tron</button>
-    <button class="chip" type="button" role="tab" aria-selected="false" aria-controls="spec-panel-variant-413ade08f53d4c968d956b202003d3c7" data-spec-tab="variant-413ade08f53d4c968d956b202003d3c7">Audi SQ8 Sportback e-tron</button>
+  <div class="generated-specs__selector">
+    <label for="spec-variant-select">Velg variant</label>
+    <select id="spec-variant-select" data-spec-select>
+      <optgroup label="Utg&#229;tt">
+        <option value="variant-9dbfb395bdd44c45859d863ec7c75b11" selected>Audi Q8 50 e-tron</option>
+        <option value="variant-e93b7fdb5a18464e97a5cb29cb1a8daa">Audi Q8 55 e-tron</option>
+        <option value="variant-617928534ef348798a4a15c7f99c78aa">Audi Q8 e-tron edition Dakar</option>
+        <option value="variant-087b509edeec4de58a87113179790fac">Audi Q8 Sportback 50 e-tron — MY2022, MY2023, MY2024</option>
+        <option value="variant-2e5ee497997045198898b10188da397d">Audi Q8 Sportback 55 e-tron — MY2022, MY2023, MY2024</option>
+        <option value="variant-a429ccf418744c92b364b45a1812fe37">Audi SQ8 e-tron</option>
+        <option value="variant-413ade08f53d4c968d956b202003d3c7">Audi SQ8 Sportback e-tron</option>
+      </optgroup>
+    </select>
   </div>
-  <section class="generated-specs__panel" id="spec-panel-variant-9dbfb395bdd44c45859d863ec7c75b11" role="tabpanel" data-spec-panel="variant-9dbfb395bdd44c45859d863ec7c75b11">
-    <h2 class="generated-specs__title">Audi Q8 50 e-tron</h2>
+  <section class="generated-specs__panel" id="spec-panel-variant-9dbfb395bdd44c45859d863ec7c75b11" data-spec-panel="variant-9dbfb395bdd44c45859d863ec7c75b11">
+    <header class="generated-specs__heading">
+      <h2 class="generated-specs__title">Audi Q8 50 e-tron</h2>
+      <div class="generated-specs__meta">
+        <span class="status-badge status-badge--ended">Utg&#229;tt</span>
+      </div>
+    </header>
     <div class="generated-specs__groups">
       <section class="generated-specs__group">
         <h3>Ytelse</h3>
@@ -86,11 +96,11 @@ Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkevidd
       <section class="generated-specs__group">
         <h3>Bagasjekapasitet og tilhengerkapasitet</h3>
         <div class="generated-specs__group-body">
-      <div class="spec-row"><span class="spec-row__label">Egenvekt</span><strong class="spec-row__value">2510 kg (5534 lb)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Egenvekt</span><strong class="spec-row__value">2370 kg (5225 lb)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Tillatt totalvekt</span><strong class="spec-row__value">3040 kg (6702 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Maksimal nyttelast inkludert fører</span><strong class="spec-row__value">530 kg (1168 lb)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Maksimal nyttelast inkludert fører</span><strong class="spec-row__value">670 kg (1477 lb)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maks taklast</span><strong class="spec-row__value">75 kg (165 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet</span><strong class="spec-row__value">569 liter (20 ft³)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet</span><strong class="spec-row__value">660 liter (23 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet med alle bakseter slått ned</span><strong class="spec-row__value">1725 liter (61 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Frunk-volum</span><strong class="spec-row__value">60 liter (2 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maks tilhengervekt med brems</span><strong class="spec-row__value">1800 kg (3968 lb)</strong></div>
@@ -353,8 +363,624 @@ Denne modellen er tilgjengelig med et seteoppsett med fem seter.
       </section>
     </div>
   </section>
-  <section class="generated-specs__panel" id="spec-panel-variant-087b509edeec4de58a87113179790fac" role="tabpanel" data-spec-panel="variant-087b509edeec4de58a87113179790fac" hidden>
-    <h2 class="generated-specs__title">Audi Q8 Sportback 50 e-tron</h2>
+  <section class="generated-specs__panel" id="spec-panel-variant-e93b7fdb5a18464e97a5cb29cb1a8daa" data-spec-panel="variant-e93b7fdb5a18464e97a5cb29cb1a8daa" hidden>
+    <header class="generated-specs__heading">
+      <h2 class="generated-specs__title">Audi Q8 55 e-tron</h2>
+      <div class="generated-specs__meta">
+        <span class="status-badge status-badge--ended">Utg&#229;tt</span>
+      </div>
+    </header>
+    <div class="generated-specs__groups">
+      <section class="generated-specs__group">
+        <h3>Ytelse</h3>
+        <div class="generated-specs__group-body">
+      <div class="spec-row"><span class="spec-row__label">Toppeffekt</span><strong class="spec-row__value">265 kW (360 hp / 355 bhp)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Toppeffekt med boost</span><strong class="spec-row__value">300 Kw</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Elektrisk dreiemoment</span><strong class="spec-row__value">561 Nm (414 lb-ft)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Elektrisk dreiemoment med boost</span><strong class="spec-row__value">664 Nm</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Toppfart</span><strong class="spec-row__value">200 km/t (124 mph)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph)</span><strong class="spec-row__value">6,6 s</strong></div>
+      <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph) med boost</span><strong class="spec-row__value">5,6 s</strong></div>
+
+
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Rekkevidde og forbruk</h3>
+        <div class="generated-specs__group-body">
+Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkeviddeinformasjon](../rangeandconsumption/) for detaljerte eksempler på reell rekkevidde. I [rekkeviddeguiden](../../../../../guides/understandingrange/) forklarer vi hva som påvirker rekkevidden, og hvordan de offisielle verdiene måles.
+      <div class="spec-row"><span class="spec-row__label">WLTP-rekkevidde for innstegsvariant</span><strong class="spec-row__value">582 km</strong></div>
+      <div class="spec-row"><span class="spec-row__label">WLTP-forbruk for innstegsvariant</span><strong class="spec-row__value">18,2 kWh/100km</strong></div>
+      <div class="spec-row"><span class="spec-row__label">WLTP-forbruk med ladetap for innstegsvariant</span><strong class="spec-row__value">20,6 kWh/100km</strong></div>
+      <div class="spec-row"><span class="spec-row__label">WLTP-rekkevidde for toppvariant</span><strong class="spec-row__value">487 km</strong></div>
+      <div class="spec-row"><span class="spec-row__label">WLTP-forbruk for toppvariant</span><strong class="spec-row__value">21,8 kWh/100km</strong></div>
+      <div class="spec-row"><span class="spec-row__label">WLTP-forbruk med ladetap for toppvariant</span><strong class="spec-row__value">24,4 kwh/100km</strong></div>
+      <div class="spec-row"><span class="spec-row__label">EPA-rekkevidde</span><strong class="spec-row__value">285 mi</strong></div>
+      <div class="spec-row"><span class="spec-row__label">EPA-forbruk</span><strong class="spec-row__value">2,7 mi/kWh</strong></div>
+
+
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Batteri og lading</h3>
+        <div class="generated-specs__group-body">
+      <div class="spec-row"><span class="spec-row__label">Bruttobatterikapasitet</span><strong class="spec-row__value">114 kWh</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Netto batterikapasitet</span><strong class="spec-row__value">106 kWh</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Maksimal DC-ladeeffekt</span><strong class="spec-row__value">170 kW</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Antall moduler</span><strong class="spec-row__value">36</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Pakkekonfigurasjon</span><strong class="spec-row__value">108s4p</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Nominell spenning</span><strong class="spec-row__value">396</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Katodematerialer</span><strong class="spec-row__value">NMC</strong></div>
+
+
+          <h4 class="generated-specs__subheading">Ladeporter</h4>
+      <div class="spec-row"><span class="spec-row__label">Plassering av ladeport</span><strong class="spec-row__value">LeftFrontSide</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ladeporttype Europa</span><strong class="spec-row__value">CCS2</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ladeporttype i Oseania (Australia, New Zealand m.fl.)</span><strong class="spec-row__value">CCS2</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Plassering av ladeport</span><strong class="spec-row__value">RightFrontSide</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ladeporttype Europa</span><strong class="spec-row__value">Type2</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Dimensjoner</h3>
+        <div class="generated-specs__group-body">
+      <div class="spec-row"><span class="spec-row__label">Lengde</span><strong class="spec-row__value">4901 mm (193,0")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Høyde</span><strong class="spec-row__value">1629 mm (64,1")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Bredde uten speil</span><strong class="spec-row__value">1935 mm (76,2")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Dimensions.WidhtIncludingMirrors</span><strong class="spec-row__value">2189 mm (86,2")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Akselavstand</span><strong class="spec-row__value">2927 mm (115,2")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Sporvidde foran</span><strong class="spec-row__value">1655 mm (65,2")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Sporvidde bak</span><strong class="spec-row__value">1655 mm (65,2")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Luftmotstandskoeffisient</span><strong class="spec-row__value">0,28</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Frontareal</span><strong class="spec-row__value">2,65</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Angrepsvinkel</span><strong class="spec-row__value">15</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Avgangsvinkel</span><strong class="spec-row__value">20</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Snudiameter</span><strong class="spec-row__value">11,6 meter (456,7")</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Bagasjekapasitet og tilhengerkapasitet</h3>
+        <div class="generated-specs__group-body">
+      <div class="spec-row"><span class="spec-row__label">Egenvekt</span><strong class="spec-row__value">2520 kg (5556 lb)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Tillatt totalvekt</span><strong class="spec-row__value">3170 kg (6989 lb)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Maksimal nyttelast inkludert fører</span><strong class="spec-row__value">650 kg (1433 lb)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Maks taklast</span><strong class="spec-row__value">75 kg (165 lb)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet</span><strong class="spec-row__value">660 liter (23 ft³)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet med alle bakseter slått ned</span><strong class="spec-row__value">1725 liter (61 ft³)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Frunk-volum</span><strong class="spec-row__value">60 liter (2 ft³)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Maks tilhengervekt med brems</span><strong class="spec-row__value">1800 kg (3968 lb)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Maks tilhengervekt uten brems</span><strong class="spec-row__value">750 kg (1653 lb)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Maks kuletrykk</span><strong class="spec-row__value">80 kg (176 lb)</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Hjuloppheng</h3>
+        <div class="generated-specs__group-body">
+Modellen tilbys med 2 varianter av hjuloppheng
+          <h4 class="generated-specs__subheading">Adaptive Air Suspension</h4>
+      <div class="spec-row"><span class="spec-row__label">Adaptivt hjuloppheng</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justerbar demping foran</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justerbar demping bak</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justerbar høyde foran</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justerbar høyde bak</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Maks bakkeklaring</span><strong class="spec-row__value">248 mm (9,8")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Minimum bakkeklaring</span><strong class="spec-row__value">152 mm (6,0")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Dempertype foran</span><strong class="spec-row__value">ElectronicallyControlled</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Dempertype bak</span><strong class="spec-row__value">ElectronicallyControlled</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Fjærtype foran</span><strong class="spec-row__value">Air</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Fjærtype bak</span><strong class="spec-row__value">Air</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Type forhjulsoppheng</span><strong class="spec-row__value">DoubleWishbone</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Type bakhjulsoppheng</span><strong class="spec-row__value">Multilink</strong></div>
+          <h4 class="generated-specs__subheading">Adaptive Air Suspension Sport</h4>
+      <div class="spec-row"><span class="spec-row__label">Adaptivt hjuloppheng</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justerbar demping foran</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justerbar demping bak</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justerbar høyde foran</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justerbar høyde bak</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Maks bakkeklaring</span><strong class="spec-row__value">248 mm (9,8")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Minimum bakkeklaring</span><strong class="spec-row__value">152 mm (6,0")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Dempertype foran</span><strong class="spec-row__value">ElectronicallyControlled</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Dempertype bak</span><strong class="spec-row__value">ElectronicallyControlled</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Fjærtype foran</span><strong class="spec-row__value">Air</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Fjærtype bak</span><strong class="spec-row__value">Air</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Type forhjulsoppheng</span><strong class="spec-row__value">DoubleWishbone</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Type bakhjulsoppheng</span><strong class="spec-row__value">Multilink</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Interiør</h3>
+        <div class="generated-specs__group-body">
+Denne modellen er tilgjengelig med et seteoppsett med fem seter.
+          <h4 class="generated-specs__subheading">Forseter</h4>
+          <h4 class="generated-specs__subheading">s-line sport</h4>
+      <div class="spec-row"><span class="spec-row__label">Setetype</span><strong class="spec-row__value">Fører- og passasjersete</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av setedybde</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av setehøyde</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av ryggvinkel</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av sitteputevinkel</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Seteminne</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Høydejusterbar hodestøtte</span><strong class="spec-row__value">Standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Dybdejusterbar hodestøtte</span><strong class="spec-row__value">Tilgjengelig som tilvalg</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justerbar lårstøtte</span><strong class="spec-row__value">Standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i rygg</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i sittepute</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Fothviler for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Beinstøtte for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Elektrisk justering av korsryggstøtte</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Seteventilasjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Massasjefunksjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <h4 class="generated-specs__subheading">s sport</h4>
+      <div class="spec-row"><span class="spec-row__label">Setetype</span><strong class="spec-row__value">Fører- og passasjersete</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av setedybde</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av setehøyde</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av ryggvinkel</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av sitteputevinkel</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Seteminne</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Høydejusterbar hodestøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Dybdejusterbar hodestøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justerbar lårstøtte</span><strong class="spec-row__value">Standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i rygg</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i sittepute</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Fothviler for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Beinstøtte for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Elektrisk justering av korsryggstøtte</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Seteventilasjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Massasjefunksjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <h4 class="generated-specs__subheading">multicontour</h4>
+      <div class="spec-row"><span class="spec-row__label">Setetype</span><strong class="spec-row__value">Fører- og passasjersete</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av setedybde</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av setehøyde</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av ryggvinkel</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av sitteputevinkel</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Seteminne</span><strong class="spec-row__value">Standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Høydejusterbar hodestøtte</span><strong class="spec-row__value">Standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Dybdejusterbar hodestøtte</span><strong class="spec-row__value">Standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justerbar lårstøtte</span><strong class="spec-row__value">Standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i rygg</span><strong class="spec-row__value">Standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i sittepute</span><strong class="spec-row__value">Standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Fothviler for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Beinstøtte for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Elektrisk justering av korsryggstøtte</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Seteventilasjon</span><strong class="spec-row__value">Tilgjengelig som tilvalg</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Massasjefunksjon</span><strong class="spec-row__value">Tilgjengelig som tilvalg</strong></div>
+          <h4 class="generated-specs__subheading">Seter i andre rad</h4>
+          <h4 class="generated-specs__subheading">standard</h4>
+      <div class="spec-row"><span class="spec-row__label">Setetype</span><strong class="spec-row__value">Treisetersbenk</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Høydejusterbar hodestøtte</span><strong class="spec-row__value">Standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Dybdejusterbar hodestøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justerbar lårstøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i rygg</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i sittepute</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Fothviler for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Beinstøtte for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Elektrisk justering av korsryggstøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Seteventilasjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Massasjefunksjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <h4 class="generated-specs__subheading">Senterkonsoller</h4>
+          <h4 class="generated-specs__subheading">Senterkonsoll i første rad</h4>
+      <div class="spec-row"><span class="spec-row__label">Konsollutforming</span><strong class="spec-row__value">Tradisjonell konsoll</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Førerstøtte</h3>
+        <div class="generated-specs__group-body">
+      <div class="spec-row"><span class="spec-row__label">Filholderassistent</span><strong class="spec-row__value">Ja (Audi Active Lane Assist), standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Filskiftevarsling</span><strong class="spec-row__value">Ja (Audi Active Lane Assist), standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Trøtthetsvarsling</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ryggekamera</span><strong class="spec-row__value">Ja, valgfritt utstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">360-kamera</span><strong class="spec-row__value">Ja, valgfritt utstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Varsling for kryssende trafikk bak (RCTA)</span><strong class="spec-row__value">Ja (Cross traffic assist rear), valgfritt utstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Nedstigningsassistent</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Bakkestartassistent</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">ABS (blokkeringsfrie bremser)</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Automatisk nødbrems</span><strong class="spec-row__value">Ja (Audi Pre sense front), standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Antispinn</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Kollisjonsunngåelse ved venstresving</span><strong class="spec-row__value">Ja (Audi Turn Assist), valgfritt utstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Kollisjonsvarsling</span><strong class="spec-row__value">Ja (Audi Collision Avoidance Assist), valgfritt utstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">ESP/ESC (elektronisk stabilitetskontroll)</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Temperaturvarsling</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Varsling for kryssende trafikk (CTA)</span><strong class="spec-row__value">Ja (Audi Collision Avoidance Assist), valgfritt utstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Effektivitetsassistent</span><strong class="spec-row__value">Ja (Audi Efficency Assist), standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Automatisk nødstyring</span><strong class="spec-row__value">Ja (Audi Collision Avoidance Assist), valgfritt utstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Trafikkskiltgjenkjenning</span><strong class="spec-row__value">Ja (Audi Traffic Sign Recongition), valgfritt utstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Nattsyn</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Sensorer og kameraer</h3>
+        <div class="generated-specs__group-body">
+          <h4 class="generated-specs__subheading">Ultralydsensorer</h4>
+      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfangeren</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfangeren</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På venstre hjørne av frontfangeren</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På høyre hjørne av frontfangeren</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På venstre side av frontfangeren</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På høyre side av frontfangeren</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På venstre side av bakfangeren</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På høyre side av bakfangeren</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På venstre hjørne av bakfangeren</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På høyre hjørne av bakfangeren</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfangeren</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfangeren</strong></div>
+          <h4 class="generated-specs__subheading">Kameraer</h4>
+      <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">Øverst i midten av frontruten</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">Foran (Valgfritt)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">På venstre sidespeil (Valgfritt)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">På høyre sidespeil (Valgfritt)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">Midt bak (Valgfritt)</strong></div>
+          <h4 class="generated-specs__subheading">Radarsensorer</h4>
+      <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Foran</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Venstre fronthjørne (Valgfritt)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Høyre fronthjørne (Valgfritt)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Venstre bakhjørne (Valgfritt)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Høyre bakhjørne (Valgfritt)</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Brukergrensesnitt og betjening</h3>
+        <div class="generated-specs__group-body">
+      <div class="spec-row"><span class="spec-row__label">Head-up display</span><strong class="spec-row__value">Ja, valgfritt utstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Stemmestyring</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Geststyring</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Støtte for Android Auto</span><strong class="spec-row__value">Ja (Smartphone Interface), valgfritt utstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Apple CarPlay-støtte</span><strong class="spec-row__value">Ja (Smartphone Interface), valgfritt utstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Innebygd navigasjon</span><strong class="spec-row__value">Ja (MMI Navigation plus), standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Tilgjengelige skjermoppsett</span><strong class="spec-row__value">1</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Digitalt instrumentpanel</span><strong class="spec-row__value">Ja, 12,3</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm</span><strong class="spec-row__value">Ja, to 10,1" og 8,6"</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for forsetepassasjeren</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for baksetepassasjerene</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Antall tilgjengelige lydsystemer</span><strong class="spec-row__value">2</strong></div>
+          <h4 class="generated-specs__subheading">Audi Sound system</h4>
+      <div class="spec-row"><span class="spec-row__label">Antall høyttalere</span><strong class="spec-row__value">10</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Total effekt</span><strong class="spec-row__value">180</strong></div>
+          <h4 class="generated-specs__subheading">Bang & Olufsen Sound System</h4>
+      <div class="spec-row"><span class="spec-row__label">Antall høyttalere</span><strong class="spec-row__value">16</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Total effekt</span><strong class="spec-row__value">700</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Eksteriør</h3>
+        <div class="generated-specs__group-body">
+          <h4 class="generated-specs__subheading">Lakksfarger</h4>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Daytona Grey</span><strong class="spec-row__value">Grå</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FFFFFF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Glacier White</span><strong class="spec-row__value">Hvit</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Catalunya Red</span><strong class="spec-row__value">Rød</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Plasma Blue</span><strong class="spec-row__value">Blå</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Florett Silver</span><strong class="spec-row__value">Sølv</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Chronos Grey</span><strong class="spec-row__value">Grå</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Typhoon Grey</span><strong class="spec-row__value">Grå</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Navarra Blue</span><strong class="spec-row__value">Blå</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Galaxy Blue</span><strong class="spec-row__value">Blå</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Antigua Blue</span><strong class="spec-row__value">Blå</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Manhatten Grey</span><strong class="spec-row__value">Grå</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Brilliant Black</span><strong class="spec-row__value">Svart</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mythos black</span><strong class="spec-row__value">Svart</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Misano red, pearl effect</span><strong class="spec-row__value">Rød</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#800080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Merlin purple, pearl effect</span><strong class="spec-row__value">Lilla</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#800080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Velvet purple, pearl effect</span><strong class="spec-row__value">Lilla</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Sepang blue, pearl effect</span><strong class="spec-row__value">Blå</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Nogoro blue, pearl effect</span><strong class="spec-row__value">Blå</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Palace blue, pearl effect</span><strong class="spec-row__value">Blå</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Night blue, pearl effect</span><strong class="spec-row__value">Blå</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Oak green, pearl effect</span><strong class="spec-row__value">Grønn</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Goodwood green, pearl effect</span><strong class="spec-row__value">Grønn</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Deep green, pearl effect</span><strong class="spec-row__value">Grønn</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Sand beige, pearl effect</span><strong class="spec-row__value">Beige</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Arrow grey, pearl effect</span><strong class="spec-row__value">Grå</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Nimbus grey, pearl effect</span><strong class="spec-row__value">Grå</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ara blue, crystal effect</span><strong class="spec-row__value">Blå</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Panther black, crystal effect</span><strong class="spec-row__value">Svart</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FFFFFF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Amalfi white</span><strong class="spec-row__value">Hvit</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FFFF00;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Vegas yellow</span><strong class="spec-row__value">Gul</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Green</span><strong class="spec-row__value">Grønn</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Cumulus blue</span><strong class="spec-row__value">Blå</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FFFF00;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Citrus yellow</span><strong class="spec-row__value">Gul</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FFFF00;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Solar orange</span><strong class="spec-row__value">Gul</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FFA500;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Solar orange</span><strong class="spec-row__value">Oransje</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Quantum grey</span><strong class="spec-row__value">Grå</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Nardo grey</span><strong class="spec-row__value">Grå</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Camoflage green</span><strong class="spec-row__value">Grønn</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Soho brown</span><strong class="spec-row__value">Brun</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Java brown</span><strong class="spec-row__value">Brun</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Teak brown</span><strong class="spec-row__value">Brun</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ipanema brown</span><strong class="spec-row__value">Brun</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Diamond beige</span><strong class="spec-row__value">Beige</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Siam beige</span><strong class="spec-row__value">Beige</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Tornado grey</span><strong class="spec-row__value">Grå</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Havana black</span><strong class="spec-row__value">Svart</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mamba black</span><strong class="spec-row__value">Svart</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Vesuvius grey</span><strong class="spec-row__value">Grå</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ice silver</span><strong class="spec-row__value">Sølv</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Suzuka grey</span><strong class="spec-row__value">Grå</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Terra grey</span><strong class="spec-row__value">Grå</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Cuvée silver</span><strong class="spec-row__value">Sølv</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FFA500;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Samoa orange</span><strong class="spec-row__value">Oransje</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FFA500;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Coral orange</span><strong class="spec-row__value">Oransje</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Catalunya red</span><strong class="spec-row__value">Rød</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Tango red</span><strong class="spec-row__value">Rød</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Shiraz red</span><strong class="spec-row__value">Rød</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Seville red</span><strong class="spec-row__value">Rød</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ascari blue</span><strong class="spec-row__value">Blå</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Utopia blue</span><strong class="spec-row__value">Blå</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Java green</span><strong class="spec-row__value">Grønn</strong></div>
+        </div>
+      </section>
+    </div>
+  </section>
+  <section class="generated-specs__panel" id="spec-panel-variant-617928534ef348798a4a15c7f99c78aa" data-spec-panel="variant-617928534ef348798a4a15c7f99c78aa" hidden>
+    <header class="generated-specs__heading">
+      <h2 class="generated-specs__title">Audi Q8 e-tron edition Dakar</h2>
+      <div class="generated-specs__meta">
+        <span class="status-badge status-badge--ended">Utg&#229;tt</span>
+      </div>
+    </header>
+    <div class="generated-specs__groups">
+      <section class="generated-specs__group">
+        <h3>Ytelse</h3>
+        <div class="generated-specs__group-body">
+      <div class="spec-row"><span class="spec-row__label">Toppeffekt</span><strong class="spec-row__value">265 kW (360 hp / 355 bhp)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Toppeffekt med boost</span><strong class="spec-row__value">300 Kw</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Elektrisk dreiemoment</span><strong class="spec-row__value">561 Nm (414 lb-ft)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Elektrisk dreiemoment med boost</span><strong class="spec-row__value">664 Nm</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Toppfart</span><strong class="spec-row__value">200 km/t (124 mph)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph)</span><strong class="spec-row__value">6,8 s</strong></div>
+      <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph) med boost</span><strong class="spec-row__value">5,8 s</strong></div>
+
+
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Rekkevidde og forbruk</h3>
+        <div class="generated-specs__group-body">
+Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkeviddeinformasjon](../rangeandconsumption/) for detaljerte eksempler på reell rekkevidde. I [rekkeviddeguiden](../../../../../guides/understandingrange/) forklarer vi hva som påvirker rekkevidden, og hvordan de offisielle verdiene måles.
+      <div class="spec-row"><span class="spec-row__label">WLTP-rekkevidde</span><strong class="spec-row__value">487 km</strong></div>
+      <div class="spec-row"><span class="spec-row__label">WLTP-forbruk</span><strong class="spec-row__value">21,8 kWh/100km</strong></div>
+      <div class="spec-row"><span class="spec-row__label">WLTP-forbruk med ladetap</span><strong class="spec-row__value">20,6 kWh/100km</strong></div>
+
+
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Batteri og lading</h3>
+        <div class="generated-specs__group-body">
+      <div class="spec-row"><span class="spec-row__label">Bruttobatterikapasitet</span><strong class="spec-row__value">114 kWh</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Netto batterikapasitet</span><strong class="spec-row__value">106 kWh</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Maksimal DC-ladeeffekt</span><strong class="spec-row__value">170 kW</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Antall moduler</span><strong class="spec-row__value">36</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Pakkekonfigurasjon</span><strong class="spec-row__value">108s4p</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Nominell spenning</span><strong class="spec-row__value">396</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Katodematerialer</span><strong class="spec-row__value">NMC</strong></div>
+
+
+          <h4 class="generated-specs__subheading">Ladeporter</h4>
+      <div class="spec-row"><span class="spec-row__label">Plassering av ladeport</span><strong class="spec-row__value">LeftFrontSide</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ladeporttype Europa</span><strong class="spec-row__value">CCS2</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ladeporttype i Oseania (Australia, New Zealand m.fl.)</span><strong class="spec-row__value">CCS2</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Plassering av ladeport</span><strong class="spec-row__value">RightFrontSide</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ladeporttype Europa</span><strong class="spec-row__value">Type2</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Dimensjoner</h3>
+        <div class="generated-specs__group-body">
+      <div class="spec-row"><span class="spec-row__label">Lengde</span><strong class="spec-row__value">4901 mm (193,0")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Høyde</span><strong class="spec-row__value">1629 mm (64,1")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Bredde uten speil</span><strong class="spec-row__value">1935 mm (76,2")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Dimensions.WidhtIncludingMirrors</span><strong class="spec-row__value">2189 mm (86,2")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Akselavstand</span><strong class="spec-row__value">2927 mm (115,2")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Sporvidde foran</span><strong class="spec-row__value">1655 mm (65,2")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Sporvidde bak</span><strong class="spec-row__value">1655 mm (65,2")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Luftmotstandskoeffisient</span><strong class="spec-row__value">0,28</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Frontareal</span><strong class="spec-row__value">2,65</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Angrepsvinkel</span><strong class="spec-row__value">20</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Avgangsvinkel</span><strong class="spec-row__value">26</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Bagasjekapasitet og tilhengerkapasitet</h3>
+        <div class="generated-specs__group-body">
+      <div class="spec-row"><span class="spec-row__label">Egenvekt</span><strong class="spec-row__value">2520 kg (5556 lb)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Tillatt totalvekt</span><strong class="spec-row__value">3170 kg (6989 lb)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Maksimal nyttelast inkludert fører</span><strong class="spec-row__value">650 kg (1433 lb)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Maks taklast</span><strong class="spec-row__value">75 kg (165 lb)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet</span><strong class="spec-row__value">660 liter (23 ft³)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet med alle bakseter slått ned</span><strong class="spec-row__value">1725 liter (61 ft³)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Frunk-volum</span><strong class="spec-row__value">60 liter (2 ft³)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Maks tilhengervekt med brems</span><strong class="spec-row__value">1800 kg (3968 lb)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Maks tilhengervekt uten brems</span><strong class="spec-row__value">750 kg (1653 lb)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Maks kuletrykk</span><strong class="spec-row__value">80 kg (176 lb)</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Hjuloppheng</h3>
+        <div class="generated-specs__group-body">
+      <div class="spec-row"><span class="spec-row__label">Adaptivt hjuloppheng</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justerbar demping foran</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justerbar demping bak</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justerbar høyde foran</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justerbar høyde bak</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Maks bakkeklaring</span><strong class="spec-row__value">271 mm (10,7")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Minimum bakkeklaring</span><strong class="spec-row__value">174 mm (6,9")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Dempertype foran</span><strong class="spec-row__value">ElectronicallyControlled</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Dempertype bak</span><strong class="spec-row__value">ElectronicallyControlled</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Fjærtype foran</span><strong class="spec-row__value">Air</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Fjærtype bak</span><strong class="spec-row__value">Air</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Type forhjulsoppheng</span><strong class="spec-row__value">DoubleWishbone</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Type bakhjulsoppheng</span><strong class="spec-row__value">Multilink</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Interiør</h3>
+        <div class="generated-specs__group-body">
+Denne modellen er tilgjengelig med et seteoppsett med fem seter.
+          <h4 class="generated-specs__subheading">Forseter</h4>
+          <h4 class="generated-specs__subheading">s-line sport</h4>
+      <div class="spec-row"><span class="spec-row__label">Setetype</span><strong class="spec-row__value">Fører- og passasjersete</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av setedybde</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av setehøyde</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av ryggvinkel</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av sitteputevinkel</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Seteminne</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Høydejusterbar hodestøtte</span><strong class="spec-row__value">Standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Dybdejusterbar hodestøtte</span><strong class="spec-row__value">Tilgjengelig som tilvalg</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justerbar lårstøtte</span><strong class="spec-row__value">Standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i rygg</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i sittepute</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Fothviler for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Beinstøtte for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Elektrisk justering av korsryggstøtte</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Seteventilasjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Massasjefunksjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <h4 class="generated-specs__subheading">s sport</h4>
+      <div class="spec-row"><span class="spec-row__label">Setetype</span><strong class="spec-row__value">Fører- og passasjersete</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av setedybde</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av setehøyde</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av ryggvinkel</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av sitteputevinkel</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Seteminne</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Høydejusterbar hodestøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Dybdejusterbar hodestøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justerbar lårstøtte</span><strong class="spec-row__value">Standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i rygg</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i sittepute</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Fothviler for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Beinstøtte for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Elektrisk justering av korsryggstøtte</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Seteventilasjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Massasjefunksjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <h4 class="generated-specs__subheading">multicontour</h4>
+      <div class="spec-row"><span class="spec-row__label">Setetype</span><strong class="spec-row__value">Fører- og passasjersete</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av setedybde</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av setehøyde</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av ryggvinkel</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av sitteputevinkel</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Seteminne</span><strong class="spec-row__value">Standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Høydejusterbar hodestøtte</span><strong class="spec-row__value">Standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Dybdejusterbar hodestøtte</span><strong class="spec-row__value">Standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justerbar lårstøtte</span><strong class="spec-row__value">Standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i rygg</span><strong class="spec-row__value">Standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i sittepute</span><strong class="spec-row__value">Standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Fothviler for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Beinstøtte for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Elektrisk justering av korsryggstøtte</span><strong class="spec-row__value">Ukjent</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Seteventilasjon</span><strong class="spec-row__value">Tilgjengelig som tilvalg</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Massasjefunksjon</span><strong class="spec-row__value">Tilgjengelig som tilvalg</strong></div>
+          <h4 class="generated-specs__subheading">Seter i andre rad</h4>
+          <h4 class="generated-specs__subheading">standard</h4>
+      <div class="spec-row"><span class="spec-row__label">Setetype</span><strong class="spec-row__value">Treisetersbenk</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Høydejusterbar hodestøtte</span><strong class="spec-row__value">Standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Dybdejusterbar hodestøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justerbar lårstøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i rygg</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i sittepute</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Fothviler for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Beinstøtte for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Elektrisk justering av korsryggstøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Seteventilasjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Massasjefunksjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+          <h4 class="generated-specs__subheading">Senterkonsoller</h4>
+          <h4 class="generated-specs__subheading">Senterkonsoll i første rad</h4>
+      <div class="spec-row"><span class="spec-row__label">Konsollutforming</span><strong class="spec-row__value">Tradisjonell konsoll</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Førerstøtte</h3>
+        <div class="generated-specs__group-body">
+      <div class="spec-row"><span class="spec-row__label">Filholderassistent</span><strong class="spec-row__value">Ja (Audi Active Lane Assist), standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Filskiftevarsling</span><strong class="spec-row__value">Ja (Audi Active Lane Assist), standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Trøtthetsvarsling</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ryggekamera</span><strong class="spec-row__value">Ja, valgfritt utstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">360-kamera</span><strong class="spec-row__value">Ja, valgfritt utstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Varsling for kryssende trafikk bak (RCTA)</span><strong class="spec-row__value">Ja (Cross traffic assist rear), valgfritt utstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Nedstigningsassistent</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Bakkestartassistent</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">ABS (blokkeringsfrie bremser)</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Automatisk nødbrems</span><strong class="spec-row__value">Ja (Audi Pre sense front), standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Antispinn</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Kollisjonsunngåelse ved venstresving</span><strong class="spec-row__value">Ja (Audi Turn Assist), valgfritt utstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Kollisjonsvarsling</span><strong class="spec-row__value">Ja (Audi Collision Avoidance Assist), valgfritt utstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">ESP/ESC (elektronisk stabilitetskontroll)</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Temperaturvarsling</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Varsling for kryssende trafikk (CTA)</span><strong class="spec-row__value">Ja (Audi Collision Avoidance Assist), valgfritt utstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Effektivitetsassistent</span><strong class="spec-row__value">Ja (Audi Efficency Assist), standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Automatisk nødstyring</span><strong class="spec-row__value">Ja (Audi Collision Avoidance Assist), valgfritt utstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Trafikkskiltgjenkjenning</span><strong class="spec-row__value">Ja (Audi Traffic Sign Recongition), valgfritt utstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Nattsyn</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Sensorer og kameraer</h3>
+        <div class="generated-specs__group-body">
+          <h4 class="generated-specs__subheading">Ultralydsensorer</h4>
+      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfangeren</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfangeren</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På venstre hjørne av frontfangeren</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På høyre hjørne av frontfangeren</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På venstre side av frontfangeren</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På høyre side av frontfangeren</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På venstre side av bakfangeren</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På høyre side av bakfangeren</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På venstre hjørne av bakfangeren</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På høyre hjørne av bakfangeren</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfangeren</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfangeren</strong></div>
+          <h4 class="generated-specs__subheading">Kameraer</h4>
+      <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">Øverst i midten av frontruten</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">Foran (Valgfritt)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">På venstre sidespeil (Valgfritt)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">På høyre sidespeil (Valgfritt)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">Midt bak (Valgfritt)</strong></div>
+          <h4 class="generated-specs__subheading">Radarsensorer</h4>
+      <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Foran</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Venstre fronthjørne (Valgfritt)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Høyre fronthjørne (Valgfritt)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Venstre bakhjørne (Valgfritt)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Høyre bakhjørne (Valgfritt)</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Brukergrensesnitt og betjening</h3>
+        <div class="generated-specs__group-body">
+      <div class="spec-row"><span class="spec-row__label">Head-up display</span><strong class="spec-row__value">Ja, valgfritt utstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Stemmestyring</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Geststyring</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Støtte for Android Auto</span><strong class="spec-row__value">Ja (Smartphone Interface), valgfritt utstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Apple CarPlay-støtte</span><strong class="spec-row__value">Ja (Smartphone Interface), valgfritt utstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Innebygd navigasjon</span><strong class="spec-row__value">Ja (MMI Navigation plus), standardutstyr</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Tilgjengelige skjermoppsett</span><strong class="spec-row__value">1</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Digitalt instrumentpanel</span><strong class="spec-row__value">Ja, 12,3</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm</span><strong class="spec-row__value">Ja, to 10,1" og 8,6"</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for forsetepassasjeren</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for baksetepassasjerene</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Antall tilgjengelige lydsystemer</span><strong class="spec-row__value">2</strong></div>
+          <h4 class="generated-specs__subheading">Audi Sound system</h4>
+      <div class="spec-row"><span class="spec-row__label">Antall høyttalere</span><strong class="spec-row__value">10</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Total effekt</span><strong class="spec-row__value">180</strong></div>
+          <h4 class="generated-specs__subheading">Bang & Olufsen Sound System</h4>
+      <div class="spec-row"><span class="spec-row__label">Antall høyttalere</span><strong class="spec-row__value">16</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Total effekt</span><strong class="spec-row__value">700</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Eksteriør</h3>
+        <div class="generated-specs__group-body">
+          <h4 class="generated-specs__subheading">Lakksfarger</h4>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mythos black</span><strong class="spec-row__value">Svart</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Siam beige</span><strong class="spec-row__value">Beige</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Magnetic Grey</span><strong class="spec-row__value">Grå</strong></div>
+        </div>
+      </section>
+    </div>
+  </section>
+  <section class="generated-specs__panel" id="spec-panel-variant-087b509edeec4de58a87113179790fac" data-spec-panel="variant-087b509edeec4de58a87113179790fac" hidden>
+    <header class="generated-specs__heading">
+      <h2 class="generated-specs__title">Audi Q8 Sportback 50 e-tron</h2>
+      <div class="generated-specs__meta">
+        <span class="status-badge status-badge--ended">Utg&#229;tt</span>
+        <span class="generated-specs__years">MY2022, MY2023, MY2024</span>
+      </div>
+    </header>
     <div class="generated-specs__groups">
       <section class="generated-specs__group">
         <h3>Ytelse</h3>
@@ -421,11 +1047,11 @@ Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkevidd
       <section class="generated-specs__group">
         <h3>Bagasjekapasitet og tilhengerkapasitet</h3>
         <div class="generated-specs__group-body">
-      <div class="spec-row"><span class="spec-row__label">Egenvekt</span><strong class="spec-row__value">2510 kg (5534 lb)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Egenvekt</span><strong class="spec-row__value">2370 kg (5225 lb)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Tillatt totalvekt</span><strong class="spec-row__value">3040 kg (6702 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Maksimal nyttelast inkludert fører</span><strong class="spec-row__value">530 kg (1168 lb)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Maksimal nyttelast inkludert fører</span><strong class="spec-row__value">670 kg (1477 lb)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maks taklast</span><strong class="spec-row__value">75 kg (165 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet</span><strong class="spec-row__value">528 liter (19 ft³)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet</span><strong class="spec-row__value">660 liter (23 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet med alle bakseter slått ned</span><strong class="spec-row__value">1725 liter (61 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Frunk-volum</span><strong class="spec-row__value">60 liter (2 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maks tilhengervekt med brems</span><strong class="spec-row__value">1800 kg (3968 lb)</strong></div>
@@ -722,348 +1348,14 @@ Denne modellen er tilgjengelig med et seteoppsett med fem seter.
       </section>
     </div>
   </section>
-  <section class="generated-specs__panel" id="spec-panel-variant-e93b7fdb5a18464e97a5cb29cb1a8daa" role="tabpanel" data-spec-panel="variant-e93b7fdb5a18464e97a5cb29cb1a8daa" hidden>
-    <h2 class="generated-specs__title">Audi Q8 55 e-tron</h2>
-    <div class="generated-specs__groups">
-      <section class="generated-specs__group">
-        <h3>Ytelse</h3>
-        <div class="generated-specs__group-body">
-      <div class="spec-row"><span class="spec-row__label">Toppeffekt</span><strong class="spec-row__value">265 kW (360 hp / 355 bhp)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Toppeffekt med boost</span><strong class="spec-row__value">300 Kw</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Elektrisk dreiemoment</span><strong class="spec-row__value">561 Nm (414 lb-ft)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Elektrisk dreiemoment med boost</span><strong class="spec-row__value">664 Nm</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Toppfart</span><strong class="spec-row__value">200 km/t (124 mph)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph)</span><strong class="spec-row__value">6,6 s</strong></div>
-      <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph) med boost</span><strong class="spec-row__value">5,6 s</strong></div>
-
-
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Rekkevidde og forbruk</h3>
-        <div class="generated-specs__group-body">
-Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkeviddeinformasjon](../rangeandconsumption/) for detaljerte eksempler på reell rekkevidde. I [rekkeviddeguiden](../../../../../guides/understandingrange/) forklarer vi hva som påvirker rekkevidden, og hvordan de offisielle verdiene måles.
-      <div class="spec-row"><span class="spec-row__label">WLTP-rekkevidde for innstegsvariant</span><strong class="spec-row__value">582 km</strong></div>
-      <div class="spec-row"><span class="spec-row__label">WLTP-forbruk for innstegsvariant</span><strong class="spec-row__value">18,2 kWh/100km</strong></div>
-      <div class="spec-row"><span class="spec-row__label">WLTP-forbruk med ladetap for innstegsvariant</span><strong class="spec-row__value">20,6 kWh/100km</strong></div>
-      <div class="spec-row"><span class="spec-row__label">WLTP-rekkevidde for toppvariant</span><strong class="spec-row__value">487 km</strong></div>
-      <div class="spec-row"><span class="spec-row__label">WLTP-forbruk for toppvariant</span><strong class="spec-row__value">21,8 kWh/100km</strong></div>
-      <div class="spec-row"><span class="spec-row__label">WLTP-forbruk med ladetap for toppvariant</span><strong class="spec-row__value">24,4 kwh/100km</strong></div>
-      <div class="spec-row"><span class="spec-row__label">EPA-rekkevidde</span><strong class="spec-row__value">285 mi</strong></div>
-      <div class="spec-row"><span class="spec-row__label">EPA-forbruk</span><strong class="spec-row__value">2,7 mi/kWh</strong></div>
-
-
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Batteri og lading</h3>
-        <div class="generated-specs__group-body">
-      <div class="spec-row"><span class="spec-row__label">Bruttobatterikapasitet</span><strong class="spec-row__value">114 kWh</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Netto batterikapasitet</span><strong class="spec-row__value">106 kWh</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Maksimal DC-ladeeffekt</span><strong class="spec-row__value">170 kW</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Antall moduler</span><strong class="spec-row__value">36</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Pakkekonfigurasjon</span><strong class="spec-row__value">108s4p</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Nominell spenning</span><strong class="spec-row__value">396</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Katodematerialer</span><strong class="spec-row__value">NMC</strong></div>
-
-
-          <h4 class="generated-specs__subheading">Ladeporter</h4>
-      <div class="spec-row"><span class="spec-row__label">Plassering av ladeport</span><strong class="spec-row__value">LeftFrontSide</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ladeporttype Europa</span><strong class="spec-row__value">CCS2</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ladeporttype i Oseania (Australia, New Zealand m.fl.)</span><strong class="spec-row__value">CCS2</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Plassering av ladeport</span><strong class="spec-row__value">RightFrontSide</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ladeporttype Europa</span><strong class="spec-row__value">Type2</strong></div>
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Dimensjoner</h3>
-        <div class="generated-specs__group-body">
-      <div class="spec-row"><span class="spec-row__label">Lengde</span><strong class="spec-row__value">4901 mm (193,0")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Høyde</span><strong class="spec-row__value">1629 mm (64,1")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Bredde uten speil</span><strong class="spec-row__value">1935 mm (76,2")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Dimensions.WidhtIncludingMirrors</span><strong class="spec-row__value">2189 mm (86,2")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Akselavstand</span><strong class="spec-row__value">2927 mm (115,2")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Sporvidde foran</span><strong class="spec-row__value">1655 mm (65,2")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Sporvidde bak</span><strong class="spec-row__value">1655 mm (65,2")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Luftmotstandskoeffisient</span><strong class="spec-row__value">0,28</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Frontareal</span><strong class="spec-row__value">2,65</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Angrepsvinkel</span><strong class="spec-row__value">15</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Avgangsvinkel</span><strong class="spec-row__value">20</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Snudiameter</span><strong class="spec-row__value">11,6 meter (456,7")</strong></div>
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Bagasjekapasitet og tilhengerkapasitet</h3>
-        <div class="generated-specs__group-body">
-      <div class="spec-row"><span class="spec-row__label">Egenvekt</span><strong class="spec-row__value">2520 kg (5556 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Tillatt totalvekt</span><strong class="spec-row__value">3170 kg (6989 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Maksimal nyttelast inkludert fører</span><strong class="spec-row__value">650 kg (1433 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Maks taklast</span><strong class="spec-row__value">75 kg (165 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet</span><strong class="spec-row__value">569 liter (20 ft³)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet med alle bakseter slått ned</span><strong class="spec-row__value">1725 liter (61 ft³)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Frunk-volum</span><strong class="spec-row__value">60 liter (2 ft³)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Maks tilhengervekt med brems</span><strong class="spec-row__value">1800 kg (3968 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Maks tilhengervekt uten brems</span><strong class="spec-row__value">750 kg (1653 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Maks kuletrykk</span><strong class="spec-row__value">80 kg (176 lb)</strong></div>
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Hjuloppheng</h3>
-        <div class="generated-specs__group-body">
-Modellen tilbys med 2 varianter av hjuloppheng
-          <h4 class="generated-specs__subheading">Adaptive Air Suspension</h4>
-      <div class="spec-row"><span class="spec-row__label">Adaptivt hjuloppheng</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justerbar demping foran</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justerbar demping bak</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justerbar høyde foran</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justerbar høyde bak</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Maks bakkeklaring</span><strong class="spec-row__value">248 mm (9,8")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Minimum bakkeklaring</span><strong class="spec-row__value">152 mm (6,0")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Dempertype foran</span><strong class="spec-row__value">ElectronicallyControlled</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Dempertype bak</span><strong class="spec-row__value">ElectronicallyControlled</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Fjærtype foran</span><strong class="spec-row__value">Air</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Fjærtype bak</span><strong class="spec-row__value">Air</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Type forhjulsoppheng</span><strong class="spec-row__value">DoubleWishbone</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Type bakhjulsoppheng</span><strong class="spec-row__value">Multilink</strong></div>
-          <h4 class="generated-specs__subheading">Adaptive Air Suspension Sport</h4>
-      <div class="spec-row"><span class="spec-row__label">Adaptivt hjuloppheng</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justerbar demping foran</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justerbar demping bak</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justerbar høyde foran</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justerbar høyde bak</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Maks bakkeklaring</span><strong class="spec-row__value">248 mm (9,8")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Minimum bakkeklaring</span><strong class="spec-row__value">152 mm (6,0")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Dempertype foran</span><strong class="spec-row__value">ElectronicallyControlled</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Dempertype bak</span><strong class="spec-row__value">ElectronicallyControlled</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Fjærtype foran</span><strong class="spec-row__value">Air</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Fjærtype bak</span><strong class="spec-row__value">Air</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Type forhjulsoppheng</span><strong class="spec-row__value">DoubleWishbone</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Type bakhjulsoppheng</span><strong class="spec-row__value">Multilink</strong></div>
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Interiør</h3>
-        <div class="generated-specs__group-body">
-Denne modellen er tilgjengelig med et seteoppsett med fem seter.
-          <h4 class="generated-specs__subheading">Forseter</h4>
-          <h4 class="generated-specs__subheading">s-line sport</h4>
-      <div class="spec-row"><span class="spec-row__label">Setetype</span><strong class="spec-row__value">Fører- og passasjersete</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av setedybde</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av setehøyde</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av ryggvinkel</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av sitteputevinkel</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Seteminne</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Høydejusterbar hodestøtte</span><strong class="spec-row__value">Standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Dybdejusterbar hodestøtte</span><strong class="spec-row__value">Tilgjengelig som tilvalg</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justerbar lårstøtte</span><strong class="spec-row__value">Standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i rygg</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i sittepute</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Fothviler for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Beinstøtte for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Elektrisk justering av korsryggstøtte</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Seteventilasjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Massasjefunksjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-          <h4 class="generated-specs__subheading">s sport</h4>
-      <div class="spec-row"><span class="spec-row__label">Setetype</span><strong class="spec-row__value">Fører- og passasjersete</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av setedybde</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av setehøyde</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av ryggvinkel</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av sitteputevinkel</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Seteminne</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Høydejusterbar hodestøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Dybdejusterbar hodestøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justerbar lårstøtte</span><strong class="spec-row__value">Standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i rygg</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i sittepute</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Fothviler for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Beinstøtte for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Elektrisk justering av korsryggstøtte</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Seteventilasjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Massasjefunksjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-          <h4 class="generated-specs__subheading">multicontour</h4>
-      <div class="spec-row"><span class="spec-row__label">Setetype</span><strong class="spec-row__value">Fører- og passasjersete</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av setedybde</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av setehøyde</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av ryggvinkel</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av sitteputevinkel</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Seteminne</span><strong class="spec-row__value">Standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Høydejusterbar hodestøtte</span><strong class="spec-row__value">Standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Dybdejusterbar hodestøtte</span><strong class="spec-row__value">Standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justerbar lårstøtte</span><strong class="spec-row__value">Standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i rygg</span><strong class="spec-row__value">Standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i sittepute</span><strong class="spec-row__value">Standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Fothviler for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Beinstøtte for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Elektrisk justering av korsryggstøtte</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Seteventilasjon</span><strong class="spec-row__value">Tilgjengelig som tilvalg</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Massasjefunksjon</span><strong class="spec-row__value">Tilgjengelig som tilvalg</strong></div>
-          <h4 class="generated-specs__subheading">Seter i andre rad</h4>
-          <h4 class="generated-specs__subheading">standard</h4>
-      <div class="spec-row"><span class="spec-row__label">Setetype</span><strong class="spec-row__value">Treisetersbenk</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Høydejusterbar hodestøtte</span><strong class="spec-row__value">Standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Dybdejusterbar hodestøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justerbar lårstøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i rygg</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i sittepute</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Fothviler for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Beinstøtte for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Elektrisk justering av korsryggstøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Seteventilasjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Massasjefunksjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-          <h4 class="generated-specs__subheading">Senterkonsoller</h4>
-          <h4 class="generated-specs__subheading">Senterkonsoll i første rad</h4>
-      <div class="spec-row"><span class="spec-row__label">Konsollutforming</span><strong class="spec-row__value">Tradisjonell konsoll</strong></div>
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Førerstøtte</h3>
-        <div class="generated-specs__group-body">
-      <div class="spec-row"><span class="spec-row__label">Filholderassistent</span><strong class="spec-row__value">Ja (Audi Active Lane Assist), standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Filskiftevarsling</span><strong class="spec-row__value">Ja (Audi Active Lane Assist), standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Trøtthetsvarsling</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ryggekamera</span><strong class="spec-row__value">Ja, valgfritt utstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">360-kamera</span><strong class="spec-row__value">Ja, valgfritt utstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Varsling for kryssende trafikk bak (RCTA)</span><strong class="spec-row__value">Ja (Cross traffic assist rear), valgfritt utstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Nedstigningsassistent</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Bakkestartassistent</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">ABS (blokkeringsfrie bremser)</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Automatisk nødbrems</span><strong class="spec-row__value">Ja (Audi Pre sense front), standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Antispinn</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Kollisjonsunngåelse ved venstresving</span><strong class="spec-row__value">Ja (Audi Turn Assist), valgfritt utstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Kollisjonsvarsling</span><strong class="spec-row__value">Ja (Audi Collision Avoidance Assist), valgfritt utstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">ESP/ESC (elektronisk stabilitetskontroll)</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Temperaturvarsling</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Varsling for kryssende trafikk (CTA)</span><strong class="spec-row__value">Ja (Audi Collision Avoidance Assist), valgfritt utstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Effektivitetsassistent</span><strong class="spec-row__value">Ja (Audi Efficency Assist), standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Automatisk nødstyring</span><strong class="spec-row__value">Ja (Audi Collision Avoidance Assist), valgfritt utstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Trafikkskiltgjenkjenning</span><strong class="spec-row__value">Ja (Audi Traffic Sign Recongition), valgfritt utstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Nattsyn</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Sensorer og kameraer</h3>
-        <div class="generated-specs__group-body">
-          <h4 class="generated-specs__subheading">Ultralydsensorer</h4>
-      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfangeren</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfangeren</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På venstre hjørne av frontfangeren</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På høyre hjørne av frontfangeren</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På venstre side av frontfangeren</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På høyre side av frontfangeren</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På venstre side av bakfangeren</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På høyre side av bakfangeren</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På venstre hjørne av bakfangeren</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På høyre hjørne av bakfangeren</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfangeren</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfangeren</strong></div>
-          <h4 class="generated-specs__subheading">Kameraer</h4>
-      <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">Øverst i midten av frontruten</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">Foran (Valgfritt)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">På venstre sidespeil (Valgfritt)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">På høyre sidespeil (Valgfritt)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">Midt bak (Valgfritt)</strong></div>
-          <h4 class="generated-specs__subheading">Radarsensorer</h4>
-      <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Foran</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Venstre fronthjørne (Valgfritt)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Høyre fronthjørne (Valgfritt)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Venstre bakhjørne (Valgfritt)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Høyre bakhjørne (Valgfritt)</strong></div>
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Brukergrensesnitt og betjening</h3>
-        <div class="generated-specs__group-body">
-      <div class="spec-row"><span class="spec-row__label">Head-up display</span><strong class="spec-row__value">Ja, valgfritt utstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Stemmestyring</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Geststyring</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Støtte for Android Auto</span><strong class="spec-row__value">Ja (Smartphone Interface), valgfritt utstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Apple CarPlay-støtte</span><strong class="spec-row__value">Ja (Smartphone Interface), valgfritt utstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Innebygd navigasjon</span><strong class="spec-row__value">Ja (MMI Navigation plus), standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Tilgjengelige skjermoppsett</span><strong class="spec-row__value">1</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Digitalt instrumentpanel</span><strong class="spec-row__value">Ja, 12,3</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm</span><strong class="spec-row__value">Ja, to 10,1" og 8,6"</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for forsetepassasjeren</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for baksetepassasjerene</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Antall tilgjengelige lydsystemer</span><strong class="spec-row__value">2</strong></div>
-          <h4 class="generated-specs__subheading">Audi Sound system</h4>
-      <div class="spec-row"><span class="spec-row__label">Antall høyttalere</span><strong class="spec-row__value">10</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Total effekt</span><strong class="spec-row__value">180</strong></div>
-          <h4 class="generated-specs__subheading">Bang & Olufsen Sound System</h4>
-      <div class="spec-row"><span class="spec-row__label">Antall høyttalere</span><strong class="spec-row__value">16</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Total effekt</span><strong class="spec-row__value">700</strong></div>
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Eksteriør</h3>
-        <div class="generated-specs__group-body">
-          <h4 class="generated-specs__subheading">Lakksfarger</h4>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Daytona Grey</span><strong class="spec-row__value">Grå</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FFFFFF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Glacier White</span><strong class="spec-row__value">Hvit</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Catalunya Red</span><strong class="spec-row__value">Rød</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Plasma Blue</span><strong class="spec-row__value">Blå</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Florett Silver</span><strong class="spec-row__value">Sølv</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Chronos Grey</span><strong class="spec-row__value">Grå</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Typhoon Grey</span><strong class="spec-row__value">Grå</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Navarra Blue</span><strong class="spec-row__value">Blå</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Galaxy Blue</span><strong class="spec-row__value">Blå</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Antigua Blue</span><strong class="spec-row__value">Blå</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Manhatten Grey</span><strong class="spec-row__value">Grå</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Brilliant Black</span><strong class="spec-row__value">Svart</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mythos black</span><strong class="spec-row__value">Svart</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Misano red, pearl effect</span><strong class="spec-row__value">Rød</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#800080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Merlin purple, pearl effect</span><strong class="spec-row__value">Lilla</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#800080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Velvet purple, pearl effect</span><strong class="spec-row__value">Lilla</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Sepang blue, pearl effect</span><strong class="spec-row__value">Blå</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Nogoro blue, pearl effect</span><strong class="spec-row__value">Blå</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Palace blue, pearl effect</span><strong class="spec-row__value">Blå</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Night blue, pearl effect</span><strong class="spec-row__value">Blå</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Oak green, pearl effect</span><strong class="spec-row__value">Grønn</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Goodwood green, pearl effect</span><strong class="spec-row__value">Grønn</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Deep green, pearl effect</span><strong class="spec-row__value">Grønn</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Sand beige, pearl effect</span><strong class="spec-row__value">Beige</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Arrow grey, pearl effect</span><strong class="spec-row__value">Grå</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Nimbus grey, pearl effect</span><strong class="spec-row__value">Grå</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ara blue, crystal effect</span><strong class="spec-row__value">Blå</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Panther black, crystal effect</span><strong class="spec-row__value">Svart</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FFFFFF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Amalfi white</span><strong class="spec-row__value">Hvit</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FFFF00;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Vegas yellow</span><strong class="spec-row__value">Gul</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Green</span><strong class="spec-row__value">Grønn</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Cumulus blue</span><strong class="spec-row__value">Blå</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FFFF00;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Citrus yellow</span><strong class="spec-row__value">Gul</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FFFF00;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Solar orange</span><strong class="spec-row__value">Gul</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FFA500;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Solar orange</span><strong class="spec-row__value">Oransje</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Quantum grey</span><strong class="spec-row__value">Grå</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Nardo grey</span><strong class="spec-row__value">Grå</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Camoflage green</span><strong class="spec-row__value">Grønn</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Soho brown</span><strong class="spec-row__value">Brun</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Java brown</span><strong class="spec-row__value">Brun</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Teak brown</span><strong class="spec-row__value">Brun</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#A52A2A;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ipanema brown</span><strong class="spec-row__value">Brun</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Diamond beige</span><strong class="spec-row__value">Beige</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Siam beige</span><strong class="spec-row__value">Beige</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Tornado grey</span><strong class="spec-row__value">Grå</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Havana black</span><strong class="spec-row__value">Svart</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mamba black</span><strong class="spec-row__value">Svart</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Vesuvius grey</span><strong class="spec-row__value">Grå</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ice silver</span><strong class="spec-row__value">Sølv</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Suzuka grey</span><strong class="spec-row__value">Grå</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Terra grey</span><strong class="spec-row__value">Grå</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#C0C0C0;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Cuvée silver</span><strong class="spec-row__value">Sølv</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FFA500;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Samoa orange</span><strong class="spec-row__value">Oransje</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FFA500;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Coral orange</span><strong class="spec-row__value">Oransje</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Catalunya red</span><strong class="spec-row__value">Rød</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Tango red</span><strong class="spec-row__value">Rød</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Shiraz red</span><strong class="spec-row__value">Rød</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FF0000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Seville red</span><strong class="spec-row__value">Rød</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ascari blue</span><strong class="spec-row__value">Blå</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Utopia blue</span><strong class="spec-row__value">Blå</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Java green</span><strong class="spec-row__value">Grønn</strong></div>
-        </div>
-      </section>
-    </div>
-  </section>
-  <section class="generated-specs__panel" id="spec-panel-variant-2e5ee497997045198898b10188da397d" role="tabpanel" data-spec-panel="variant-2e5ee497997045198898b10188da397d" hidden>
-    <h2 class="generated-specs__title">Audi Q8 Sportback 55 e-tron</h2>
+  <section class="generated-specs__panel" id="spec-panel-variant-2e5ee497997045198898b10188da397d" data-spec-panel="variant-2e5ee497997045198898b10188da397d" hidden>
+    <header class="generated-specs__heading">
+      <h2 class="generated-specs__title">Audi Q8 Sportback 55 e-tron</h2>
+      <div class="generated-specs__meta">
+        <span class="status-badge status-badge--ended">Utg&#229;tt</span>
+        <span class="generated-specs__years">MY2022, MY2023, MY2024</span>
+      </div>
+    </header>
     <div class="generated-specs__groups">
       <section class="generated-specs__group">
         <h3>Ytelse</h3>
@@ -1139,7 +1431,7 @@ Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkevidd
       <div class="spec-row"><span class="spec-row__label">Tillatt totalvekt</span><strong class="spec-row__value">3170 kg (6989 lb)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maksimal nyttelast inkludert fører</span><strong class="spec-row__value">650 kg (1433 lb)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maks taklast</span><strong class="spec-row__value">75 kg (165 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet</span><strong class="spec-row__value">528 liter (19 ft³)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet</span><strong class="spec-row__value">660 liter (23 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet med alle bakseter slått ned</span><strong class="spec-row__value">1725 liter (61 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Frunk-volum</span><strong class="spec-row__value">60 liter (2 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maks tilhengervekt med brems</span><strong class="spec-row__value">1800 kg (3968 lb)</strong></div>
@@ -1402,268 +1694,13 @@ Denne modellen er tilgjengelig med et seteoppsett med fem seter.
       </section>
     </div>
   </section>
-  <section class="generated-specs__panel" id="spec-panel-variant-617928534ef348798a4a15c7f99c78aa" role="tabpanel" data-spec-panel="variant-617928534ef348798a4a15c7f99c78aa" hidden>
-    <h2 class="generated-specs__title">Audi Q8 e-tron edition Dakar</h2>
-    <div class="generated-specs__groups">
-      <section class="generated-specs__group">
-        <h3>Ytelse</h3>
-        <div class="generated-specs__group-body">
-      <div class="spec-row"><span class="spec-row__label">Toppeffekt</span><strong class="spec-row__value">265 kW (360 hp / 355 bhp)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Toppeffekt med boost</span><strong class="spec-row__value">300 Kw</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Elektrisk dreiemoment</span><strong class="spec-row__value">561 Nm (414 lb-ft)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Elektrisk dreiemoment med boost</span><strong class="spec-row__value">664 Nm</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Toppfart</span><strong class="spec-row__value">200 km/t (124 mph)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph)</span><strong class="spec-row__value">6,8 s</strong></div>
-      <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph) med boost</span><strong class="spec-row__value">5,8 s</strong></div>
-
-
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Rekkevidde og forbruk</h3>
-        <div class="generated-specs__group-body">
-Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkeviddeinformasjon](../rangeandconsumption/) for detaljerte eksempler på reell rekkevidde. I [rekkeviddeguiden](../../../../../guides/understandingrange/) forklarer vi hva som påvirker rekkevidden, og hvordan de offisielle verdiene måles.
-      <div class="spec-row"><span class="spec-row__label">WLTP-rekkevidde</span><strong class="spec-row__value">487 km</strong></div>
-      <div class="spec-row"><span class="spec-row__label">WLTP-forbruk</span><strong class="spec-row__value">21,8 kWh/100km</strong></div>
-      <div class="spec-row"><span class="spec-row__label">WLTP-forbruk med ladetap</span><strong class="spec-row__value">20,6 kWh/100km</strong></div>
-
-
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Batteri og lading</h3>
-        <div class="generated-specs__group-body">
-      <div class="spec-row"><span class="spec-row__label">Bruttobatterikapasitet</span><strong class="spec-row__value">114 kWh</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Netto batterikapasitet</span><strong class="spec-row__value">106 kWh</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Maksimal DC-ladeeffekt</span><strong class="spec-row__value">170 kW</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Antall moduler</span><strong class="spec-row__value">36</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Pakkekonfigurasjon</span><strong class="spec-row__value">108s4p</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Nominell spenning</span><strong class="spec-row__value">396</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Katodematerialer</span><strong class="spec-row__value">NMC</strong></div>
-
-
-          <h4 class="generated-specs__subheading">Ladeporter</h4>
-      <div class="spec-row"><span class="spec-row__label">Plassering av ladeport</span><strong class="spec-row__value">LeftFrontSide</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ladeporttype Europa</span><strong class="spec-row__value">CCS2</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ladeporttype i Oseania (Australia, New Zealand m.fl.)</span><strong class="spec-row__value">CCS2</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Plassering av ladeport</span><strong class="spec-row__value">RightFrontSide</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ladeporttype Europa</span><strong class="spec-row__value">Type2</strong></div>
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Dimensjoner</h3>
-        <div class="generated-specs__group-body">
-      <div class="spec-row"><span class="spec-row__label">Lengde</span><strong class="spec-row__value">4901 mm (193,0")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Høyde</span><strong class="spec-row__value">1629 mm (64,1")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Bredde uten speil</span><strong class="spec-row__value">1935 mm (76,2")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Dimensions.WidhtIncludingMirrors</span><strong class="spec-row__value">2189 mm (86,2")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Akselavstand</span><strong class="spec-row__value">2927 mm (115,2")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Sporvidde foran</span><strong class="spec-row__value">1655 mm (65,2")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Sporvidde bak</span><strong class="spec-row__value">1655 mm (65,2")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Luftmotstandskoeffisient</span><strong class="spec-row__value">0,28</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Frontareal</span><strong class="spec-row__value">2,65</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Angrepsvinkel</span><strong class="spec-row__value">20</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Avgangsvinkel</span><strong class="spec-row__value">26</strong></div>
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Bagasjekapasitet og tilhengerkapasitet</h3>
-        <div class="generated-specs__group-body">
-      <div class="spec-row"><span class="spec-row__label">Egenvekt</span><strong class="spec-row__value">2520 kg (5556 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Tillatt totalvekt</span><strong class="spec-row__value">3170 kg (6989 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Maksimal nyttelast inkludert fører</span><strong class="spec-row__value">650 kg (1433 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Maks taklast</span><strong class="spec-row__value">75 kg (165 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet</span><strong class="spec-row__value">660 liter (23 ft³)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet med alle bakseter slått ned</span><strong class="spec-row__value">1725 liter (61 ft³)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Frunk-volum</span><strong class="spec-row__value">60 liter (2 ft³)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Maks tilhengervekt med brems</span><strong class="spec-row__value">1800 kg (3968 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Maks tilhengervekt uten brems</span><strong class="spec-row__value">750 kg (1653 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Maks kuletrykk</span><strong class="spec-row__value">80 kg (176 lb)</strong></div>
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Hjuloppheng</h3>
-        <div class="generated-specs__group-body">
-      <div class="spec-row"><span class="spec-row__label">Adaptivt hjuloppheng</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justerbar demping foran</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justerbar demping bak</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justerbar høyde foran</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justerbar høyde bak</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Maks bakkeklaring</span><strong class="spec-row__value">271 mm (10,7")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Minimum bakkeklaring</span><strong class="spec-row__value">174 mm (6,9")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Dempertype foran</span><strong class="spec-row__value">ElectronicallyControlled</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Dempertype bak</span><strong class="spec-row__value">ElectronicallyControlled</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Fjærtype foran</span><strong class="spec-row__value">Air</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Fjærtype bak</span><strong class="spec-row__value">Air</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Type forhjulsoppheng</span><strong class="spec-row__value">DoubleWishbone</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Type bakhjulsoppheng</span><strong class="spec-row__value">Multilink</strong></div>
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Interiør</h3>
-        <div class="generated-specs__group-body">
-Denne modellen er tilgjengelig med et seteoppsett med fem seter.
-          <h4 class="generated-specs__subheading">Forseter</h4>
-          <h4 class="generated-specs__subheading">s-line sport</h4>
-      <div class="spec-row"><span class="spec-row__label">Setetype</span><strong class="spec-row__value">Fører- og passasjersete</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av setedybde</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av setehøyde</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av ryggvinkel</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av sitteputevinkel</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Seteminne</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Høydejusterbar hodestøtte</span><strong class="spec-row__value">Standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Dybdejusterbar hodestøtte</span><strong class="spec-row__value">Tilgjengelig som tilvalg</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justerbar lårstøtte</span><strong class="spec-row__value">Standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i rygg</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i sittepute</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Fothviler for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Beinstøtte for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Elektrisk justering av korsryggstøtte</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Seteventilasjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Massasjefunksjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-          <h4 class="generated-specs__subheading">s sport</h4>
-      <div class="spec-row"><span class="spec-row__label">Setetype</span><strong class="spec-row__value">Fører- og passasjersete</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av setedybde</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av setehøyde</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av ryggvinkel</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av sitteputevinkel</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Seteminne</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Høydejusterbar hodestøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Dybdejusterbar hodestøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justerbar lårstøtte</span><strong class="spec-row__value">Standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i rygg</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i sittepute</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Fothviler for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Beinstøtte for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Elektrisk justering av korsryggstøtte</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Seteventilasjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Massasjefunksjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-          <h4 class="generated-specs__subheading">multicontour</h4>
-      <div class="spec-row"><span class="spec-row__label">Setetype</span><strong class="spec-row__value">Fører- og passasjersete</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av setedybde</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av setehøyde</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av ryggvinkel</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av sitteputevinkel</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Seteminne</span><strong class="spec-row__value">Standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Høydejusterbar hodestøtte</span><strong class="spec-row__value">Standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Dybdejusterbar hodestøtte</span><strong class="spec-row__value">Standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justerbar lårstøtte</span><strong class="spec-row__value">Standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i rygg</span><strong class="spec-row__value">Standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i sittepute</span><strong class="spec-row__value">Standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Fothviler for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Beinstøtte for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Elektrisk justering av korsryggstøtte</span><strong class="spec-row__value">Ukjent</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Seteventilasjon</span><strong class="spec-row__value">Tilgjengelig som tilvalg</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Massasjefunksjon</span><strong class="spec-row__value">Tilgjengelig som tilvalg</strong></div>
-          <h4 class="generated-specs__subheading">Seter i andre rad</h4>
-          <h4 class="generated-specs__subheading">standard</h4>
-      <div class="spec-row"><span class="spec-row__label">Setetype</span><strong class="spec-row__value">Treisetersbenk</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Høydejusterbar hodestøtte</span><strong class="spec-row__value">Standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Dybdejusterbar hodestøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justerbar lårstøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i rygg</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Justering av sidestøtte i sittepute</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Fothviler for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Beinstøtte for passasjer</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Elektrisk justering av korsryggstøtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Seteventilasjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Massasjefunksjon</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-          <h4 class="generated-specs__subheading">Senterkonsoller</h4>
-          <h4 class="generated-specs__subheading">Senterkonsoll i første rad</h4>
-      <div class="spec-row"><span class="spec-row__label">Konsollutforming</span><strong class="spec-row__value">Tradisjonell konsoll</strong></div>
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Førerstøtte</h3>
-        <div class="generated-specs__group-body">
-      <div class="spec-row"><span class="spec-row__label">Filholderassistent</span><strong class="spec-row__value">Ja (Audi Active Lane Assist), standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Filskiftevarsling</span><strong class="spec-row__value">Ja (Audi Active Lane Assist), standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Trøtthetsvarsling</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ryggekamera</span><strong class="spec-row__value">Ja, valgfritt utstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">360-kamera</span><strong class="spec-row__value">Ja, valgfritt utstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Varsling for kryssende trafikk bak (RCTA)</span><strong class="spec-row__value">Ja (Cross traffic assist rear), valgfritt utstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Nedstigningsassistent</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Bakkestartassistent</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">ABS (blokkeringsfrie bremser)</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Automatisk nødbrems</span><strong class="spec-row__value">Ja (Audi Pre sense front), standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Antispinn</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Kollisjonsunngåelse ved venstresving</span><strong class="spec-row__value">Ja (Audi Turn Assist), valgfritt utstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Kollisjonsvarsling</span><strong class="spec-row__value">Ja (Audi Collision Avoidance Assist), valgfritt utstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">ESP/ESC (elektronisk stabilitetskontroll)</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Temperaturvarsling</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Varsling for kryssende trafikk (CTA)</span><strong class="spec-row__value">Ja (Audi Collision Avoidance Assist), valgfritt utstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Effektivitetsassistent</span><strong class="spec-row__value">Ja (Audi Efficency Assist), standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Automatisk nødstyring</span><strong class="spec-row__value">Ja (Audi Collision Avoidance Assist), valgfritt utstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Trafikkskiltgjenkjenning</span><strong class="spec-row__value">Ja (Audi Traffic Sign Recongition), valgfritt utstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Nattsyn</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Sensorer og kameraer</h3>
-        <div class="generated-specs__group-body">
-          <h4 class="generated-specs__subheading">Ultralydsensorer</h4>
-      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfangeren</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På frontfangeren</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På venstre hjørne av frontfangeren</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På høyre hjørne av frontfangeren</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På venstre side av frontfangeren</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På høyre side av frontfangeren</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På venstre side av bakfangeren</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På høyre side av bakfangeren</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På venstre hjørne av bakfangeren</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På høyre hjørne av bakfangeren</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfangeren</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultralydsensorer</span><strong class="spec-row__value">På bakfangeren</strong></div>
-          <h4 class="generated-specs__subheading">Kameraer</h4>
-      <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">Øverst i midten av frontruten</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">Foran (Valgfritt)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">På venstre sidespeil (Valgfritt)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">På høyre sidespeil (Valgfritt)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Kameraer</span><strong class="spec-row__value">Midt bak (Valgfritt)</strong></div>
-          <h4 class="generated-specs__subheading">Radarsensorer</h4>
-      <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Foran</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Venstre fronthjørne (Valgfritt)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Høyre fronthjørne (Valgfritt)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Venstre bakhjørne (Valgfritt)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Radarsensorer</span><strong class="spec-row__value">Høyre bakhjørne (Valgfritt)</strong></div>
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Brukergrensesnitt og betjening</h3>
-        <div class="generated-specs__group-body">
-      <div class="spec-row"><span class="spec-row__label">Head-up display</span><strong class="spec-row__value">Ja, valgfritt utstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Stemmestyring</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Geststyring</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Støtte for Android Auto</span><strong class="spec-row__value">Ja (Smartphone Interface), valgfritt utstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Apple CarPlay-støtte</span><strong class="spec-row__value">Ja (Smartphone Interface), valgfritt utstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Innebygd navigasjon</span><strong class="spec-row__value">Ja (MMI Navigation plus), standardutstyr</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Tilgjengelige skjermoppsett</span><strong class="spec-row__value">1</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Digitalt instrumentpanel</span><strong class="spec-row__value">Ja, 12,3</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm</span><strong class="spec-row__value">Ja, to 10,1" og 8,6"</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for forsetepassasjeren</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for baksetepassasjerene</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Antall tilgjengelige lydsystemer</span><strong class="spec-row__value">2</strong></div>
-          <h4 class="generated-specs__subheading">Audi Sound system</h4>
-      <div class="spec-row"><span class="spec-row__label">Antall høyttalere</span><strong class="spec-row__value">10</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Total effekt</span><strong class="spec-row__value">180</strong></div>
-          <h4 class="generated-specs__subheading">Bang & Olufsen Sound System</h4>
-      <div class="spec-row"><span class="spec-row__label">Antall høyttalere</span><strong class="spec-row__value">16</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Total effekt</span><strong class="spec-row__value">700</strong></div>
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Eksteriør</h3>
-        <div class="generated-specs__group-body">
-          <h4 class="generated-specs__subheading">Lakksfarger</h4>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mythos black</span><strong class="spec-row__value">Svart</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#E5E7EB;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Siam beige</span><strong class="spec-row__value">Beige</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Magnetic Grey</span><strong class="spec-row__value">Grå</strong></div>
-        </div>
-      </section>
-    </div>
-  </section>
-  <section class="generated-specs__panel" id="spec-panel-variant-a429ccf418744c92b364b45a1812fe37" role="tabpanel" data-spec-panel="variant-a429ccf418744c92b364b45a1812fe37" hidden>
-    <h2 class="generated-specs__title">Audi SQ8 e-tron</h2>
+  <section class="generated-specs__panel" id="spec-panel-variant-a429ccf418744c92b364b45a1812fe37" data-spec-panel="variant-a429ccf418744c92b364b45a1812fe37" hidden>
+    <header class="generated-specs__heading">
+      <h2 class="generated-specs__title">Audi SQ8 e-tron</h2>
+      <div class="generated-specs__meta">
+        <span class="status-badge status-badge--ended">Utg&#229;tt</span>
+      </div>
+    </header>
     <div class="generated-specs__groups">
       <section class="generated-specs__group">
         <h3>Ytelse</h3>
@@ -1984,8 +2021,13 @@ Denne modellen er tilgjengelig med et seteoppsett med fem seter.
       </section>
     </div>
   </section>
-  <section class="generated-specs__panel" id="spec-panel-variant-413ade08f53d4c968d956b202003d3c7" role="tabpanel" data-spec-panel="variant-413ade08f53d4c968d956b202003d3c7" hidden>
-    <h2 class="generated-specs__title">Audi SQ8 Sportback e-tron</h2>
+  <section class="generated-specs__panel" id="spec-panel-variant-413ade08f53d4c968d956b202003d3c7" data-spec-panel="variant-413ade08f53d4c968d956b202003d3c7" hidden>
+    <header class="generated-specs__heading">
+      <h2 class="generated-specs__title">Audi SQ8 Sportback e-tron</h2>
+      <div class="generated-specs__meta">
+        <span class="status-badge status-badge--ended">Utg&#229;tt</span>
+      </div>
+    </header>
     <div class="generated-specs__groups">
       <section class="generated-specs__group">
         <h3>Ytelse</h3>
@@ -1994,7 +2036,7 @@ Denne modellen er tilgjengelig med et seteoppsett med fem seter.
       <div class="spec-row"><span class="spec-row__label">Toppeffekt med boost</span><strong class="spec-row__value">370 Kw</strong></div>
       <div class="spec-row"><span class="spec-row__label">Elektrisk dreiemoment</span><strong class="spec-row__value">561 Nm (414 lb-ft)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Elektrisk dreiemoment med boost</span><strong class="spec-row__value">973 Nm</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Toppfart</span><strong class="spec-row__value">210 km/t (131 mph)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Toppfart</span><strong class="spec-row__value">200 km/t (124 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph)</span><strong class="spec-row__value">6,6 s</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph) med boost</span><strong class="spec-row__value">4,5 s</strong></div>
 
@@ -2059,7 +2101,7 @@ Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkevidd
       <div class="spec-row"><span class="spec-row__label">Tillatt totalvekt</span><strong class="spec-row__value">3290 kg (7253 lb)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maksimal nyttelast inkludert fører</span><strong class="spec-row__value">525 kg (1157 lb)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maks taklast</span><strong class="spec-row__value">75 kg (165 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet</span><strong class="spec-row__value">528 liter (19 ft³)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet</span><strong class="spec-row__value">660 liter (23 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet med alle bakseter slått ned</span><strong class="spec-row__value">1725 liter (61 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Frunk-volum</span><strong class="spec-row__value">60 liter (2 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maks tilhengervekt med brems</span><strong class="spec-row__value">1800 kg (3968 lb)</strong></div>
