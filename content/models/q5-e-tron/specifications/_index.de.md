@@ -34,18 +34,14 @@ navicon: bi-layout-text-sidebar-reverse
       <div class="spec-row"><span class="spec-row__label">Elektrisches Drehmoment</span><strong class="spec-row__value">310 Nm (229 lb-ft)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Höchstgeschwindigkeit</span><strong class="spec-row__value">160 km/h (99 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/h (0–62 mph)</span><strong class="spec-row__value">9,3 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Reichweite und Verbrauch</h3>
         <div class="generated-specs__group-body">
-Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [ausführlichen Reichweiteninformationen](../rangeandconsumption/) für detaillierte Beispiele aus der Praxis. Besuchen Sie unseren [Reichweitenleitfaden](../../../../../guides/understandingrange/), um zu erfahren, was die Reichweite beeinflusst und wie die offiziellen Reichweitenwerte gemessen werden.
+          <p>Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere <a href="../rangeandconsumption/">ausf&#252;hrlichen Reichweiteninformationen</a> f&#252;r detaillierte Beispiele aus der Praxis. Besuchen Sie unseren <a href="../../../../../guides/understandingrange/">Reichweitenleitfaden</a>, um zu erfahren, was die Reichweite beeinflusst und wie die offiziellen Reichweitenwerte gemessen werden.</p>
       <div class="spec-row"><span class="spec-row__label">CLTC-Reichweite der Basisausstattung</span><strong class="spec-row__value">560 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">CLTC-Verbrauch der Basisausstattung</span><strong class="spec-row__value">13,7 kWh/100km</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -54,8 +50,6 @@ Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [a
       <div class="spec-row"><span class="spec-row__label">Bruttobatteriekapazität</span><strong class="spec-row__value">83,4 kWh</strong></div>
       <div class="spec-row"><span class="spec-row__label">Netto-Batteriekapazität</span><strong class="spec-row__value">76,6 kWh</strong></div>
       <div class="spec-row"><span class="spec-row__label">Kathodenmaterialien</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Ladeanschluss</h4>
       <div class="spec-row"><span class="spec-row__label">Position des Ladeanschlusses</span><strong class="spec-row__value">LeftRearSide</strong></div>
         </div>
@@ -102,7 +96,7 @@ Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [a
       <section class="generated-specs__group">
         <h3>Innenraum</h3>
         <div class="generated-specs__group-body">
-Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen verfügbar.
+          <p>Dieses Modell ist mit einer Sitzkonfiguration mit f&#252;nf Sitzen verf&#252;gbar.</p>
           <h4 class="generated-specs__subheading">Vordersitze</h4>
       <div class="spec-row"><span class="spec-row__label">Sitztyp</span><strong class="spec-row__value">Fahrer- und Beifahrersitz</strong></div>
       <div class="spec-row"><span class="spec-row__label">Sitztiefeneinstellung</span><strong class="spec-row__value">Unbekannt</strong></div>
@@ -234,18 +228,14 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen verfügbar.
       <div class="spec-row"><span class="spec-row__label">Elektrisches Drehmoment</span><strong class="spec-row__value">460 Nm (339 lb-ft)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Höchstgeschwindigkeit</span><strong class="spec-row__value">160 km/h (99 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/h (0–62 mph)</span><strong class="spec-row__value">6,7 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Reichweite und Verbrauch</h3>
         <div class="generated-specs__group-body">
-Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [ausführlichen Reichweiteninformationen](../rangeandconsumption/) für detaillierte Beispiele aus der Praxis. Besuchen Sie unseren [Reichweitenleitfaden](../../../../../guides/understandingrange/), um zu erfahren, was die Reichweite beeinflusst und wie die offiziellen Reichweitenwerte gemessen werden.
+          <p>Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere <a href="../rangeandconsumption/">ausf&#252;hrlichen Reichweiteninformationen</a> f&#252;r detaillierte Beispiele aus der Praxis. Besuchen Sie unseren <a href="../../../../../guides/understandingrange/">Reichweitenleitfaden</a>, um zu erfahren, was die Reichweite beeinflusst und wie die offiziellen Reichweitenwerte gemessen werden.</p>
       <div class="spec-row"><span class="spec-row__label">CLTC-Reichweite der Basisausstattung</span><strong class="spec-row__value">550 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">CLTC-Verbrauch der Basisausstattung</span><strong class="spec-row__value">13,9 kWh/100km</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -254,8 +244,6 @@ Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [a
       <div class="spec-row"><span class="spec-row__label">Bruttobatteriekapazität</span><strong class="spec-row__value">83,4 kWh</strong></div>
       <div class="spec-row"><span class="spec-row__label">Netto-Batteriekapazität</span><strong class="spec-row__value">76,6 kWh</strong></div>
       <div class="spec-row"><span class="spec-row__label">Kathodenmaterialien</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Ladeanschluss</h4>
       <div class="spec-row"><span class="spec-row__label">Position des Ladeanschlusses</span><strong class="spec-row__value">LeftRearSide</strong></div>
         </div>
@@ -302,7 +290,7 @@ Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [a
       <section class="generated-specs__group">
         <h3>Innenraum</h3>
         <div class="generated-specs__group-body">
-Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen verfügbar.
+          <p>Dieses Modell ist mit einer Sitzkonfiguration mit f&#252;nf Sitzen verf&#252;gbar.</p>
           <h4 class="generated-specs__subheading">Vordersitze</h4>
       <div class="spec-row"><span class="spec-row__label">Sitztyp</span><strong class="spec-row__value">Fahrer- und Beifahrersitz</strong></div>
       <div class="spec-row"><span class="spec-row__label">Sitztiefeneinstellung</span><strong class="spec-row__value">Unbekannt</strong></div>

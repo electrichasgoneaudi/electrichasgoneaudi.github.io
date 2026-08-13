@@ -37,18 +37,14 @@ navicon: bi-layout-text-sidebar-reverse
       <div class="spec-row"><span class="spec-row__label">Electrical torque output</span><strong class="spec-row__value">800 Nm (590 lb-ft)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Top speed</span><strong class="spec-row__value">230 kph (143 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0-100km/h (0-62 mph)</span><strong class="spec-row__value">3,9 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Range & Consumption</h3>
         <div class="generated-specs__group-body">
-Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
+          <p>Below you see the official range info. Visit our <a href="../rangeandconsumption/">extended range info</a> for detailed real world range examples. Visit our <a href="../../../../../guides/understandingrange/">Range Guide</a> to see what affects range and how the official range values are measured.</p>
       <div class="spec-row"><span class="spec-row__label">Basic trim CLTC range</span><strong class="spec-row__value">660 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Basic trim CLTC consumption</span><strong class="spec-row__value">16,6 kWh/100km</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -61,8 +57,6 @@ Below you see the official range info. Visit our [extended range info](../rangea
       <div class="spec-row"><span class="spec-row__label">Pack Configuration</span><strong class="spec-row__value">204s1p</strong></div>
       <div class="spec-row"><span class="spec-row__label">Nominal voltage</span><strong class="spec-row__value">744,6</strong></div>
       <div class="spec-row"><span class="spec-row__label">Cathode Materials</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Chargeport</h4>
       <div class="spec-row"><span class="spec-row__label">Chargeport placement</span><strong class="spec-row__value">RightRearSide</strong></div>
         </div>
@@ -107,7 +101,7 @@ Below you see the official range info. Visit our [extended range info](../rangea
       <section class="generated-specs__group">
         <h3>Interior</h3>
         <div class="generated-specs__group-body">
-This model is available with a seat configuration with four seats.
+          <p>This model is available with a seat configuration with four seats.</p>
           <h4 class="generated-specs__subheading">Front seats</h4>
       <div class="spec-row"><span class="spec-row__label">Seat type</span><strong class="spec-row__value">Driver and Passenger Seat</strong></div>
       <div class="spec-row"><span class="spec-row__label">Seat depth adjustment</span><strong class="spec-row__value">Unknown</strong></div>
@@ -247,18 +241,14 @@ This model is available with a seat configuration with four seats.
       <div class="spec-row"><span class="spec-row__label">Electrical torque output</span><strong class="spec-row__value">500 Nm (369 lb-ft)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Top speed</span><strong class="spec-row__value">230 kph (143 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0-100km/h (0-62 mph)</span><strong class="spec-row__value">5,82 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Range & Consumption</h3>
         <div class="generated-specs__group-body">
-Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
+          <p>Below you see the official range info. Visit our <a href="../rangeandconsumption/">extended range info</a> for detailed real world range examples. Visit our <a href="../../../../../guides/understandingrange/">Range Guide</a> to see what affects range and how the official range values are measured.</p>
       <div class="spec-row"><span class="spec-row__label">Basic trim CLTC range</span><strong class="spec-row__value">705 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Basic trim CLTC consumption</span><strong class="spec-row__value">0,0 kWh/100km</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -268,8 +258,6 @@ Below you see the official range info. Visit our [extended range info](../rangea
       <div class="spec-row"><span class="spec-row__label">Battery net</span><strong class="spec-row__value">0 kWh</strong></div>
       <div class="spec-row"><span class="spec-row__label">Max DC charging</span><strong class="spec-row__value">400 kW</strong></div>
       <div class="spec-row"><span class="spec-row__label">Cathode Materials</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Chargeport</h4>
       <div class="spec-row"><span class="spec-row__label">Chargeport placement</span><strong class="spec-row__value">RightRearSide</strong></div>
         </div>
@@ -316,7 +304,7 @@ Below you see the official range info. Visit our [extended range info](../rangea
       <section class="generated-specs__group">
         <h3>Interior</h3>
         <div class="generated-specs__group-body">
-This model is available with a seat configuration with five seats.
+          <p>This model is available with a seat configuration with five seats.</p>
           <h4 class="generated-specs__subheading">Front seats</h4>
       <div class="spec-row"><span class="spec-row__label">Seat type</span><strong class="spec-row__value">Driver and Passenger Seat</strong></div>
       <div class="spec-row"><span class="spec-row__label">Seat depth adjustment</span><strong class="spec-row__value">Unknown</strong></div>
@@ -456,18 +444,14 @@ This model is available with a seat configuration with five seats.
       <div class="spec-row"><span class="spec-row__label">Electrical torque output</span><strong class="spec-row__value">500 Nm (369 lb-ft)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Top speed</span><strong class="spec-row__value">230 kph (143 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0-100km/h (0-62 mph)</span><strong class="spec-row__value">6,25 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Range & Consumption</h3>
         <div class="generated-specs__group-body">
-Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
+          <p>Below you see the official range info. Visit our <a href="../rangeandconsumption/">extended range info</a> for detailed real world range examples. Visit our <a href="../../../../../guides/understandingrange/">Range Guide</a> to see what affects range and how the official range values are measured.</p>
       <div class="spec-row"><span class="spec-row__label">Basic trim CLTC range</span><strong class="spec-row__value">751 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Basic trim CLTC consumption</span><strong class="spec-row__value">14,6 kWh/100km</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -480,8 +464,6 @@ Below you see the official range info. Visit our [extended range info](../rangea
       <div class="spec-row"><span class="spec-row__label">Pack Configuration</span><strong class="spec-row__value">204s1p</strong></div>
       <div class="spec-row"><span class="spec-row__label">Nominal voltage</span><strong class="spec-row__value">744,6</strong></div>
       <div class="spec-row"><span class="spec-row__label">Cathode Materials</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Chargeport</h4>
       <div class="spec-row"><span class="spec-row__label">Chargeport placement</span><strong class="spec-row__value">RightRearSide</strong></div>
         </div>
@@ -526,7 +508,7 @@ Below you see the official range info. Visit our [extended range info](../rangea
       <section class="generated-specs__group">
         <h3>Interior</h3>
         <div class="generated-specs__group-body">
-This model is available with a seat configuration with five seats.
+          <p>This model is available with a seat configuration with five seats.</p>
           <h4 class="generated-specs__subheading">Front seats</h4>
       <div class="spec-row"><span class="spec-row__label">Seat type</span><strong class="spec-row__value">Driver and Passenger Seat</strong></div>
       <div class="spec-row"><span class="spec-row__label">Seat depth adjustment</span><strong class="spec-row__value">Unknown</strong></div>
@@ -666,18 +648,14 @@ This model is available with a seat configuration with five seats.
       <div class="spec-row"><span class="spec-row__label">Electrical torque output</span><strong class="spec-row__value">500 Nm (369 lb-ft)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Top speed</span><strong class="spec-row__value">230 kph (143 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0-100km/h (0-62 mph)</span><strong class="spec-row__value">5,82 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Range & Consumption</h3>
         <div class="generated-specs__group-body">
-Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
+          <p>Below you see the official range info. Visit our <a href="../rangeandconsumption/">extended range info</a> for detailed real world range examples. Visit our <a href="../../../../../guides/understandingrange/">Range Guide</a> to see what affects range and how the official range values are measured.</p>
       <div class="spec-row"><span class="spec-row__label">Basic trim CLTC range</span><strong class="spec-row__value">691 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Basic trim CLTC consumption</span><strong class="spec-row__value">0,0 kWh/100km</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -687,8 +665,6 @@ Below you see the official range info. Visit our [extended range info](../rangea
       <div class="spec-row"><span class="spec-row__label">Battery net</span><strong class="spec-row__value">0 kWh</strong></div>
       <div class="spec-row"><span class="spec-row__label">Max DC charging</span><strong class="spec-row__value">400 kW</strong></div>
       <div class="spec-row"><span class="spec-row__label">Cathode Materials</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Chargeport</h4>
       <div class="spec-row"><span class="spec-row__label">Chargeport placement</span><strong class="spec-row__value">RightRearSide</strong></div>
         </div>
@@ -733,7 +709,7 @@ Below you see the official range info. Visit our [extended range info](../rangea
       <section class="generated-specs__group">
         <h3>Interior</h3>
         <div class="generated-specs__group-body">
-This model is available with a seat configuration with five seats.
+          <p>This model is available with a seat configuration with five seats.</p>
           <h4 class="generated-specs__subheading">Front seats</h4>
       <div class="spec-row"><span class="spec-row__label">Seat type</span><strong class="spec-row__value">Driver and Passenger Seat</strong></div>
       <div class="spec-row"><span class="spec-row__label">Seat depth adjustment</span><strong class="spec-row__value">Unknown</strong></div>
@@ -873,18 +849,14 @@ This model is available with a seat configuration with five seats.
       <div class="spec-row"><span class="spec-row__label">Electrical torque output</span><strong class="spec-row__value">800 Nm (590 lb-ft)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Top speed</span><strong class="spec-row__value">230 kph (143 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0-100km/h (0-62 mph)</span><strong class="spec-row__value">3,9 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Range & Consumption</h3>
         <div class="generated-specs__group-body">
-Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
+          <p>Below you see the official range info. Visit our <a href="../rangeandconsumption/">extended range info</a> for detailed real world range examples. Visit our <a href="../../../../../guides/understandingrange/">Range Guide</a> to see what affects range and how the official range values are measured.</p>
       <div class="spec-row"><span class="spec-row__label">Basic trim CLTC range</span><strong class="spec-row__value">635 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Basic trim CLTC consumption</span><strong class="spec-row__value">0,0 kWh/100km</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -894,8 +866,6 @@ Below you see the official range info. Visit our [extended range info](../rangea
       <div class="spec-row"><span class="spec-row__label">Battery net</span><strong class="spec-row__value">0 kWh</strong></div>
       <div class="spec-row"><span class="spec-row__label">Max DC charging</span><strong class="spec-row__value">400 kW</strong></div>
       <div class="spec-row"><span class="spec-row__label">Cathode Materials</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Chargeport</h4>
       <div class="spec-row"><span class="spec-row__label">Chargeport placement</span><strong class="spec-row__value">RightRearSide</strong></div>
         </div>
@@ -940,7 +910,7 @@ Below you see the official range info. Visit our [extended range info](../rangea
       <section class="generated-specs__group">
         <h3>Interior</h3>
         <div class="generated-specs__group-body">
-This model is available with a seat configuration with five seats.
+          <p>This model is available with a seat configuration with five seats.</p>
           <h4 class="generated-specs__subheading">Front seats</h4>
       <div class="spec-row"><span class="spec-row__label">Seat type</span><strong class="spec-row__value">Driver and Passenger Seat</strong></div>
       <div class="spec-row"><span class="spec-row__label">Seat depth adjustment</span><strong class="spec-row__value">Unknown</strong></div>

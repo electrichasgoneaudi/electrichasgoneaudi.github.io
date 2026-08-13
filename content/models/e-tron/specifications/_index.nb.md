@@ -38,22 +38,18 @@ navicon: bi-layout-text-sidebar-reverse
       <div class="spec-row"><span class="spec-row__label">Elektrisk dreiemoment med boost</span><strong class="spec-row__value">540 Nm</strong></div>
       <div class="spec-row"><span class="spec-row__label">Toppfart</span><strong class="spec-row__value">190 km/t (118 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph)</span><strong class="spec-row__value">6,8 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Rekkevidde og forbruk</h3>
         <div class="generated-specs__group-body">
-Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkeviddeinformasjon](../rangeandconsumption/) for detaljerte eksempler på reell rekkevidde. I [rekkeviddeguiden](../../../../../guides/understandingrange/) forklarer vi hva som påvirker rekkevidden, og hvordan de offisielle verdiene måles.
+          <p>Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se <a href="../rangeandconsumption/">utvidet rekkeviddeinformasjon</a> for detaljerte eksempler p&#229; reell rekkevidde. I <a href="../../../../../guides/understandingrange/">rekkeviddeguiden</a> forklarer vi hva som p&#229;virker rekkevidden, og hvordan de offisielle verdiene m&#229;les.</p>
       <div class="spec-row"><span class="spec-row__label">WLTP-rekkevidde for innstegsvariant</span><strong class="spec-row__value">341 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-forbruk for innstegsvariant</span><strong class="spec-row__value">18,8 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-forbruk med ladetap for innstegsvariant</span><strong class="spec-row__value">21,7 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-rekkevidde for toppvariant</span><strong class="spec-row__value">282 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-forbruk for toppvariant</span><strong class="spec-row__value">22,7 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-forbruk med ladetap for toppvariant</span><strong class="spec-row__value">25,8 kwh/100km</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -66,8 +62,6 @@ Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkevidd
       <div class="spec-row"><span class="spec-row__label">Pakkekonfigurasjon</span><strong class="spec-row__value">108s3p</strong></div>
       <div class="spec-row"><span class="spec-row__label">Nominell spenning</span><strong class="spec-row__value">396</strong></div>
       <div class="spec-row"><span class="spec-row__label">Katodematerialer</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Ladeporter</h4>
       <div class="spec-row"><span class="spec-row__label">Plassering av ladeport</span><strong class="spec-row__value">LeftFrontSide</strong></div>
       <div class="spec-row"><span class="spec-row__label">Ladeporttype Europa</span><strong class="spec-row__value">CCS2</strong></div>
@@ -111,7 +105,7 @@ Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkevidd
       <section class="generated-specs__group">
         <h3>Hjuloppheng</h3>
         <div class="generated-specs__group-body">
-Modellen tilbys med 2 varianter av hjuloppheng
+          <p>Modellen tilbys med 2 varianter av hjuloppheng</p>
           <h4 class="generated-specs__subheading">Adaptive Air Suspension</h4>
       <div class="spec-row"><span class="spec-row__label">Adaptivt hjuloppheng</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
       <div class="spec-row"><span class="spec-row__label">Justerbar demping foran</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
@@ -145,7 +139,7 @@ Modellen tilbys med 2 varianter av hjuloppheng
       <section class="generated-specs__group">
         <h3>Interiør</h3>
         <div class="generated-specs__group-body">
-Denne modellen er tilgjengelig med et seteoppsett med fem seter.
+          <p>Denne modellen er tilgjengelig med et seteoppsett med fem seter.</p>
           <h4 class="generated-specs__subheading">Forseter</h4>
           <h4 class="generated-specs__subheading">standard</h4>
       <div class="spec-row"><span class="spec-row__label">Setetype</span><strong class="spec-row__value">Fører- og passasjersete</strong></div>
@@ -413,22 +407,18 @@ Denne modellen er tilgjengelig med et seteoppsett med fem seter.
       <div class="spec-row"><span class="spec-row__label">Elektrisk dreiemoment</span><strong class="spec-row__value">540 Nm (399 lb-ft)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Toppfart</span><strong class="spec-row__value">190 km/t (118 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph)</span><strong class="spec-row__value">6,8 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Rekkevidde og forbruk</h3>
         <div class="generated-specs__group-body">
-Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkeviddeinformasjon](../rangeandconsumption/) for detaljerte eksempler på reell rekkevidde. I [rekkeviddeguiden](../../../../../guides/understandingrange/) forklarer vi hva som påvirker rekkevidden, og hvordan de offisielle verdiene måles.
+          <p>Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se <a href="../rangeandconsumption/">utvidet rekkeviddeinformasjon</a> for detaljerte eksempler p&#229; reell rekkevidde. I <a href="../../../../../guides/understandingrange/">rekkeviddeguiden</a> forklarer vi hva som p&#229;virker rekkevidden, og hvordan de offisielle verdiene m&#229;les.</p>
       <div class="spec-row"><span class="spec-row__label">WLTP-rekkevidde for innstegsvariant</span><strong class="spec-row__value">351 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-forbruk for innstegsvariant</span><strong class="spec-row__value">18,2 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-forbruk med ladetap for innstegsvariant</span><strong class="spec-row__value">21,6 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-rekkevidde for toppvariant</span><strong class="spec-row__value">286 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-forbruk for toppvariant</span><strong class="spec-row__value">22,4 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-forbruk med ladetap for toppvariant</span><strong class="spec-row__value">25,9 kwh/100km</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -441,8 +431,6 @@ Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkevidd
       <div class="spec-row"><span class="spec-row__label">Pakkekonfigurasjon</span><strong class="spec-row__value">108s3p</strong></div>
       <div class="spec-row"><span class="spec-row__label">Nominell spenning</span><strong class="spec-row__value">396</strong></div>
       <div class="spec-row"><span class="spec-row__label">Katodematerialer</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Ladeporter</h4>
       <div class="spec-row"><span class="spec-row__label">Plassering av ladeport</span><strong class="spec-row__value">LeftFrontSide</strong></div>
       <div class="spec-row"><span class="spec-row__label">Ladeporttype Europa</span><strong class="spec-row__value">CCS2</strong></div>
@@ -493,7 +481,7 @@ Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkevidd
       <section class="generated-specs__group">
         <h3>Hjuloppheng</h3>
         <div class="generated-specs__group-body">
-Modellen tilbys med 2 varianter av hjuloppheng
+          <p>Modellen tilbys med 2 varianter av hjuloppheng</p>
           <h4 class="generated-specs__subheading">Adaptive Air Suspension</h4>
       <div class="spec-row"><span class="spec-row__label">Adaptivt hjuloppheng</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
       <div class="spec-row"><span class="spec-row__label">Justerbar demping foran</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
@@ -527,7 +515,7 @@ Modellen tilbys med 2 varianter av hjuloppheng
       <section class="generated-specs__group">
         <h3>Interiør</h3>
         <div class="generated-specs__group-body">
-Denne modellen er tilgjengelig med et seteoppsett med fem seter.
+          <p>Denne modellen er tilgjengelig med et seteoppsett med fem seter.</p>
           <h4 class="generated-specs__subheading">Forseter</h4>
           <h4 class="generated-specs__subheading">standard</h4>
       <div class="spec-row"><span class="spec-row__label">Setetype</span><strong class="spec-row__value">Fører- og passasjersete</strong></div>
@@ -798,22 +786,18 @@ Denne modellen er tilgjengelig med et seteoppsett med fem seter.
       <div class="spec-row"><span class="spec-row__label">Toppfart</span><strong class="spec-row__value">200 km/t (124 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph)</span><strong class="spec-row__value">6,6 s</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph) med boost</span><strong class="spec-row__value">5,7 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Rekkevidde og forbruk</h3>
         <div class="generated-specs__group-body">
-Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkeviddeinformasjon](../rangeandconsumption/) for detaljerte eksempler på reell rekkevidde. I [rekkeviddeguiden](../../../../../guides/understandingrange/) forklarer vi hva som påvirker rekkevidden, og hvordan de offisielle verdiene måles.
+          <p>Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se <a href="../rangeandconsumption/">utvidet rekkeviddeinformasjon</a> for detaljerte eksempler p&#229; reell rekkevidde. I <a href="../../../../../guides/understandingrange/">rekkeviddeguiden</a> forklarer vi hva som p&#229;virker rekkevidden, og hvordan de offisielle verdiene m&#229;les.</p>
       <div class="spec-row"><span class="spec-row__label">WLTP-rekkevidde for innstegsvariant</span><strong class="spec-row__value">441 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-forbruk for innstegsvariant</span><strong class="spec-row__value">19,5 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-forbruk med ladetap for innstegsvariant</span><strong class="spec-row__value">22,2 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-rekkevidde for toppvariant</span><strong class="spec-row__value">369 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-forbruk for toppvariant</span><strong class="spec-row__value">23,3 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-forbruk med ladetap for toppvariant</span><strong class="spec-row__value">26,1 kwh/100km</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -826,8 +810,6 @@ Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkevidd
       <div class="spec-row"><span class="spec-row__label">Pakkekonfigurasjon</span><strong class="spec-row__value">108s4p</strong></div>
       <div class="spec-row"><span class="spec-row__label">Nominell spenning</span><strong class="spec-row__value">396</strong></div>
       <div class="spec-row"><span class="spec-row__label">Katodematerialer</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Ladeporter</h4>
       <div class="spec-row"><span class="spec-row__label">Plassering av ladeport</span><strong class="spec-row__value">LeftFrontSide</strong></div>
       <div class="spec-row"><span class="spec-row__label">Ladeporttype Europa</span><strong class="spec-row__value">CCS2</strong></div>
@@ -871,7 +853,7 @@ Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkevidd
       <section class="generated-specs__group">
         <h3>Hjuloppheng</h3>
         <div class="generated-specs__group-body">
-Modellen tilbys med 2 varianter av hjuloppheng
+          <p>Modellen tilbys med 2 varianter av hjuloppheng</p>
           <h4 class="generated-specs__subheading">Adaptive Air Suspension</h4>
       <div class="spec-row"><span class="spec-row__label">Adaptivt hjuloppheng</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
       <div class="spec-row"><span class="spec-row__label">Justerbar demping foran</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
@@ -905,7 +887,7 @@ Modellen tilbys med 2 varianter av hjuloppheng
       <section class="generated-specs__group">
         <h3>Interiør</h3>
         <div class="generated-specs__group-body">
-Denne modellen er tilgjengelig med et seteoppsett med fem seter.
+          <p>Denne modellen er tilgjengelig med et seteoppsett med fem seter.</p>
           <h4 class="generated-specs__subheading">Forseter</h4>
           <h4 class="generated-specs__subheading">standard</h4>
       <div class="spec-row"><span class="spec-row__label">Setetype</span><strong class="spec-row__value">Fører- og passasjersete</strong></div>
@@ -1176,22 +1158,18 @@ Denne modellen er tilgjengelig med et seteoppsett med fem seter.
       <div class="spec-row"><span class="spec-row__label">Toppfart</span><strong class="spec-row__value">200 km/t (124 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph)</span><strong class="spec-row__value">6,6 s</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph) med boost</span><strong class="spec-row__value">5,7 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Rekkevidde og forbruk</h3>
         <div class="generated-specs__group-body">
-Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkeviddeinformasjon](../rangeandconsumption/) for detaljerte eksempler på reell rekkevidde. I [rekkeviddeguiden](../../../../../guides/understandingrange/) forklarer vi hva som påvirker rekkevidden, og hvordan de offisielle verdiene måles.
+          <p>Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se <a href="../rangeandconsumption/">utvidet rekkeviddeinformasjon</a> for detaljerte eksempler p&#229; reell rekkevidde. I <a href="../../../../../guides/understandingrange/">rekkeviddeguiden</a> forklarer vi hva som p&#229;virker rekkevidden, og hvordan de offisielle verdiene m&#229;les.</p>
       <div class="spec-row"><span class="spec-row__label">WLTP-rekkevidde for innstegsvariant</span><strong class="spec-row__value">452 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-forbruk for innstegsvariant</span><strong class="spec-row__value">19,0 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-forbruk med ladetap for innstegsvariant</span><strong class="spec-row__value">21,6 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-rekkevidde for toppvariant</span><strong class="spec-row__value">373 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-forbruk for toppvariant</span><strong class="spec-row__value">23,1 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-forbruk med ladetap for toppvariant</span><strong class="spec-row__value">25,9 kwh/100km</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -1204,8 +1182,6 @@ Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkevidd
       <div class="spec-row"><span class="spec-row__label">Pakkekonfigurasjon</span><strong class="spec-row__value">108s4p</strong></div>
       <div class="spec-row"><span class="spec-row__label">Nominell spenning</span><strong class="spec-row__value">396</strong></div>
       <div class="spec-row"><span class="spec-row__label">Katodematerialer</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Ladeporter</h4>
       <div class="spec-row"><span class="spec-row__label">Plassering av ladeport</span><strong class="spec-row__value">LeftFrontSide</strong></div>
       <div class="spec-row"><span class="spec-row__label">Ladeporttype Europa</span><strong class="spec-row__value">CCS2</strong></div>
@@ -1249,7 +1225,7 @@ Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkevidd
       <section class="generated-specs__group">
         <h3>Hjuloppheng</h3>
         <div class="generated-specs__group-body">
-Modellen tilbys med 2 varianter av hjuloppheng
+          <p>Modellen tilbys med 2 varianter av hjuloppheng</p>
           <h4 class="generated-specs__subheading">Adaptive Air Suspension</h4>
       <div class="spec-row"><span class="spec-row__label">Adaptivt hjuloppheng</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
       <div class="spec-row"><span class="spec-row__label">Justerbar demping foran</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
@@ -1283,7 +1259,7 @@ Modellen tilbys med 2 varianter av hjuloppheng
       <section class="generated-specs__group">
         <h3>Interiør</h3>
         <div class="generated-specs__group-body">
-Denne modellen er tilgjengelig med et seteoppsett med fem seter.
+          <p>Denne modellen er tilgjengelig med et seteoppsett med fem seter.</p>
           <h4 class="generated-specs__subheading">Forseter</h4>
           <h4 class="generated-specs__subheading">standard</h4>
       <div class="spec-row"><span class="spec-row__label">Setetype</span><strong class="spec-row__value">Fører- og passasjersete</strong></div>
@@ -1554,22 +1530,18 @@ Denne modellen er tilgjengelig med et seteoppsett med fem seter.
       <div class="spec-row"><span class="spec-row__label">Toppfart</span><strong class="spec-row__value">210 km/t (131 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph)</span><strong class="spec-row__value">6,6 s</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph) med boost</span><strong class="spec-row__value">4,5 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Rekkevidde og forbruk</h3>
         <div class="generated-specs__group-body">
-Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkeviddeinformasjon](../rangeandconsumption/) for detaljerte eksempler på reell rekkevidde. I [rekkeviddeguiden](../../../../../guides/understandingrange/) forklarer vi hva som påvirker rekkevidden, og hvordan de offisielle verdiene måles.
+          <p>Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se <a href="../rangeandconsumption/">utvidet rekkeviddeinformasjon</a> for detaljerte eksempler p&#229; reell rekkevidde. I <a href="../../../../../guides/understandingrange/">rekkeviddeguiden</a> forklarer vi hva som p&#229;virker rekkevidden, og hvordan de offisielle verdiene m&#229;les.</p>
       <div class="spec-row"><span class="spec-row__label">WLTP-rekkevidde for innstegsvariant</span><strong class="spec-row__value">374 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-forbruk for innstegsvariant</span><strong class="spec-row__value">23,0 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-forbruk med ladetap for innstegsvariant</span><strong class="spec-row__value">26,1 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-rekkevidde for toppvariant</span><strong class="spec-row__value">344 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-forbruk for toppvariant</span><strong class="spec-row__value">25,0 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-forbruk med ladetap for toppvariant</span><strong class="spec-row__value">28,4 kwh/100km</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -1582,8 +1554,6 @@ Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkevidd
       <div class="spec-row"><span class="spec-row__label">Pakkekonfigurasjon</span><strong class="spec-row__value">108s4p</strong></div>
       <div class="spec-row"><span class="spec-row__label">Nominell spenning</span><strong class="spec-row__value">396</strong></div>
       <div class="spec-row"><span class="spec-row__label">Katodematerialer</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Ladeporter</h4>
       <div class="spec-row"><span class="spec-row__label">Plassering av ladeport</span><strong class="spec-row__value">LeftFrontSide</strong></div>
       <div class="spec-row"><span class="spec-row__label">Ladeporttype Europa</span><strong class="spec-row__value">CCS2</strong></div>
@@ -1645,7 +1615,7 @@ Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkevidd
       <section class="generated-specs__group">
         <h3>Interiør</h3>
         <div class="generated-specs__group-body">
-Denne modellen er tilgjengelig med et seteoppsett med fem seter.
+          <p>Denne modellen er tilgjengelig med et seteoppsett med fem seter.</p>
           <h4 class="generated-specs__subheading">Forseter</h4>
           <h4 class="generated-specs__subheading">s-line sport</h4>
       <div class="spec-row"><span class="spec-row__label">Setetype</span><strong class="spec-row__value">Fører- og passasjersete</strong></div>
@@ -1882,22 +1852,18 @@ Denne modellen er tilgjengelig med et seteoppsett med fem seter.
       <div class="spec-row"><span class="spec-row__label">Toppfart</span><strong class="spec-row__value">210 km/t (131 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph)</span><strong class="spec-row__value">6,6 s</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph) med boost</span><strong class="spec-row__value">4,5 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Rekkevidde og forbruk</h3>
         <div class="generated-specs__group-body">
-Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkeviddeinformasjon](../rangeandconsumption/) for detaljerte eksempler på reell rekkevidde. I [rekkeviddeguiden](../../../../../guides/understandingrange/) forklarer vi hva som påvirker rekkevidden, og hvordan de offisielle verdiene måles.
+          <p>Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se <a href="../rangeandconsumption/">utvidet rekkeviddeinformasjon</a> for detaljerte eksempler p&#229; reell rekkevidde. I <a href="../../../../../guides/understandingrange/">rekkeviddeguiden</a> forklarer vi hva som p&#229;virker rekkevidden, og hvordan de offisielle verdiene m&#229;les.</p>
       <div class="spec-row"><span class="spec-row__label">WLTP-rekkevidde for innstegsvariant</span><strong class="spec-row__value">379 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-forbruk for innstegsvariant</span><strong class="spec-row__value">22,7 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-forbruk med ladetap for innstegsvariant</span><strong class="spec-row__value">25,7 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-rekkevidde for toppvariant</span><strong class="spec-row__value">347 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-forbruk for toppvariant</span><strong class="spec-row__value">24,8 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-forbruk med ladetap for toppvariant</span><strong class="spec-row__value">28,1 kwh/100km</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -1910,8 +1876,6 @@ Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkevidd
       <div class="spec-row"><span class="spec-row__label">Pakkekonfigurasjon</span><strong class="spec-row__value">108s4p</strong></div>
       <div class="spec-row"><span class="spec-row__label">Nominell spenning</span><strong class="spec-row__value">396</strong></div>
       <div class="spec-row"><span class="spec-row__label">Katodematerialer</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Ladeporter</h4>
       <div class="spec-row"><span class="spec-row__label">Plassering av ladeport</span><strong class="spec-row__value">LeftFrontSide</strong></div>
       <div class="spec-row"><span class="spec-row__label">Ladeporttype Europa</span><strong class="spec-row__value">CCS2</strong></div>
@@ -1973,7 +1937,7 @@ Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkevidd
       <section class="generated-specs__group">
         <h3>Interiør</h3>
         <div class="generated-specs__group-body">
-Denne modellen er tilgjengelig med et seteoppsett med fem seter.
+          <p>Denne modellen er tilgjengelig med et seteoppsett med fem seter.</p>
           <h4 class="generated-specs__subheading">Forseter</h4>
           <h4 class="generated-specs__subheading">s-line sport</h4>
       <div class="spec-row"><span class="spec-row__label">Setetype</span><strong class="spec-row__value">Fører- og passasjersete</strong></div>

@@ -36,18 +36,14 @@ navicon: bi-layout-text-sidebar-reverse
       <div class="spec-row"><span class="spec-row__label">Elektrisk dreiemoment</span><strong class="spec-row__value">420 Nm (310 lb-ft)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Toppfart</span><strong class="spec-row__value">205 km/t (127 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph)</span><strong class="spec-row__value">6,1 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Rekkevidde og forbruk</h3>
         <div class="generated-specs__group-body">
-Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkeviddeinformasjon](../rangeandconsumption/) for detaljerte eksempler på reell rekkevidde. I [rekkeviddeguiden](../../../../../guides/understandingrange/) forklarer vi hva som påvirker rekkevidden, og hvordan de offisielle verdiene måles.
+          <p>Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se <a href="../rangeandconsumption/">utvidet rekkeviddeinformasjon</a> for detaljerte eksempler p&#229; reell rekkevidde. I <a href="../../../../../guides/understandingrange/">rekkeviddeguiden</a> forklarer vi hva som p&#229;virker rekkevidden, og hvordan de offisielle verdiene m&#229;les.</p>
       <div class="spec-row"><span class="spec-row__label">CLTC-rekkevidde for innstegsvariant</span><strong class="spec-row__value">773 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">CLTC-forbruk for innstegsvariant</span><strong class="spec-row__value">12,3 kWh/100km</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -57,8 +53,6 @@ Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkevidd
       <div class="spec-row"><span class="spec-row__label">Netto batterikapasitet</span><strong class="spec-row__value">95 kWh</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maksimal DC-ladeeffekt</span><strong class="spec-row__value">420 kW</strong></div>
       <div class="spec-row"><span class="spec-row__label">Katodematerialer</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Ladeport</h4>
       <div class="spec-row"><span class="spec-row__label">Plassering av ladeport</span><strong class="spec-row__value">LeftRearSide</strong></div>
         </div>
@@ -109,7 +103,7 @@ Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkevidd
       <section class="generated-specs__group">
         <h3>Interiør</h3>
         <div class="generated-specs__group-body">
-Denne modellen er tilgjengelig med et seteoppsett med fem seter.
+          <p>Denne modellen er tilgjengelig med et seteoppsett med fem seter.</p>
           <h4 class="generated-specs__subheading">Forseter</h4>
       <div class="spec-row"><span class="spec-row__label">Setetype</span><strong class="spec-row__value">Fører- og passasjersete</strong></div>
       <div class="spec-row"><span class="spec-row__label">Justering av setedybde</span><strong class="spec-row__value">Ukjent</strong></div>
@@ -247,18 +241,14 @@ Denne modellen er tilgjengelig med et seteoppsett med fem seter.
       <div class="spec-row"><span class="spec-row__label">Elektrisk dreiemoment</span><strong class="spec-row__value">500 Nm (369 lb-ft)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Toppfart</span><strong class="spec-row__value">205 km/t (127 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph)</span><strong class="spec-row__value">5 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Rekkevidde og forbruk</h3>
         <div class="generated-specs__group-body">
-Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkeviddeinformasjon](../rangeandconsumption/) for detaljerte eksempler på reell rekkevidde. I [rekkeviddeguiden](../../../../../guides/understandingrange/) forklarer vi hva som påvirker rekkevidden, og hvordan de offisielle verdiene måles.
+          <p>Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se <a href="../rangeandconsumption/">utvidet rekkeviddeinformasjon</a> for detaljerte eksempler p&#229; reell rekkevidde. I <a href="../../../../../guides/understandingrange/">rekkeviddeguiden</a> forklarer vi hva som p&#229;virker rekkevidden, og hvordan de offisielle verdiene m&#229;les.</p>
       <div class="spec-row"><span class="spec-row__label">CLTC-rekkevidde for innstegsvariant</span><strong class="spec-row__value">773 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">CLTC-forbruk for innstegsvariant</span><strong class="spec-row__value">12,3 kWh/100km</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -268,8 +258,6 @@ Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkevidd
       <div class="spec-row"><span class="spec-row__label">Netto batterikapasitet</span><strong class="spec-row__value">95 kWh</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maksimal DC-ladeeffekt</span><strong class="spec-row__value">420 kW</strong></div>
       <div class="spec-row"><span class="spec-row__label">Katodematerialer</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Ladeport</h4>
       <div class="spec-row"><span class="spec-row__label">Plassering av ladeport</span><strong class="spec-row__value">LeftRearSide</strong></div>
         </div>
@@ -320,7 +308,7 @@ Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkevidd
       <section class="generated-specs__group">
         <h3>Interiør</h3>
         <div class="generated-specs__group-body">
-Denne modellen er tilgjengelig med et seteoppsett med fem seter.
+          <p>Denne modellen er tilgjengelig med et seteoppsett med fem seter.</p>
           <h4 class="generated-specs__subheading">Forseter</h4>
       <div class="spec-row"><span class="spec-row__label">Setetype</span><strong class="spec-row__value">Fører- og passasjersete</strong></div>
       <div class="spec-row"><span class="spec-row__label">Justering av setedybde</span><strong class="spec-row__value">Ukjent</strong></div>
@@ -458,18 +446,14 @@ Denne modellen er tilgjengelig med et seteoppsett med fem seter.
       <div class="spec-row"><span class="spec-row__label">Elektrisk dreiemoment</span><strong class="spec-row__value">725 Nm (535 lb-ft)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Toppfart</span><strong class="spec-row__value">205 km/t (127 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph)</span><strong class="spec-row__value">3,9 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Rekkevidde og forbruk</h3>
         <div class="generated-specs__group-body">
-Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkeviddeinformasjon](../rangeandconsumption/) for detaljerte eksempler på reell rekkevidde. I [rekkeviddeguiden](../../../../../guides/understandingrange/) forklarer vi hva som påvirker rekkevidden, og hvordan de offisielle verdiene måles.
+          <p>Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se <a href="../rangeandconsumption/">utvidet rekkeviddeinformasjon</a> for detaljerte eksempler p&#229; reell rekkevidde. I <a href="../../../../../guides/understandingrange/">rekkeviddeguiden</a> forklarer vi hva som p&#229;virker rekkevidden, og hvordan de offisielle verdiene m&#229;les.</p>
       <div class="spec-row"><span class="spec-row__label">CLTC-rekkevidde for innstegsvariant</span><strong class="spec-row__value">623 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">CLTC-forbruk for innstegsvariant</span><strong class="spec-row__value">12,7 kWh/100km</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -479,8 +463,6 @@ Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkevidd
       <div class="spec-row"><span class="spec-row__label">Netto batterikapasitet</span><strong class="spec-row__value">79 kWh</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maksimal DC-ladeeffekt</span><strong class="spec-row__value">420 kW</strong></div>
       <div class="spec-row"><span class="spec-row__label">Katodematerialer</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Ladeport</h4>
       <div class="spec-row"><span class="spec-row__label">Plassering av ladeport</span><strong class="spec-row__value">LeftRearSide</strong></div>
         </div>
@@ -531,7 +513,7 @@ Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkevidd
       <section class="generated-specs__group">
         <h3>Interiør</h3>
         <div class="generated-specs__group-body">
-Denne modellen er tilgjengelig med et seteoppsett med fem seter.
+          <p>Denne modellen er tilgjengelig med et seteoppsett med fem seter.</p>
           <h4 class="generated-specs__subheading">Forseter</h4>
       <div class="spec-row"><span class="spec-row__label">Setetype</span><strong class="spec-row__value">Fører- og passasjersete</strong></div>
       <div class="spec-row"><span class="spec-row__label">Justering av setedybde</span><strong class="spec-row__value">Ukjent</strong></div>
@@ -669,18 +651,14 @@ Denne modellen er tilgjengelig med et seteoppsett med fem seter.
       <div class="spec-row"><span class="spec-row__label">Elektrisk dreiemoment</span><strong class="spec-row__value">800 Nm (590 lb-ft)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Toppfart</span><strong class="spec-row__value">230 km/t (143 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph)</span><strong class="spec-row__value">3,4 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Rekkevidde og forbruk</h3>
         <div class="generated-specs__group-body">
-Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkeviddeinformasjon](../rangeandconsumption/) for detaljerte eksempler på reell rekkevidde. I [rekkeviddeguiden](../../../../../guides/understandingrange/) forklarer vi hva som påvirker rekkevidden, og hvordan de offisielle verdiene måles.
+          <p>Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se <a href="../rangeandconsumption/">utvidet rekkeviddeinformasjon</a> for detaljerte eksempler p&#229; reell rekkevidde. I <a href="../../../../../guides/understandingrange/">rekkeviddeguiden</a> forklarer vi hva som p&#229;virker rekkevidden, og hvordan de offisielle verdiene m&#229;les.</p>
       <div class="spec-row"><span class="spec-row__label">CLTC-rekkevidde for innstegsvariant</span><strong class="spec-row__value">647 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">CLTC-forbruk for innstegsvariant</span><strong class="spec-row__value">14,7 kWh/100km</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -690,8 +668,6 @@ Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkevidd
       <div class="spec-row"><span class="spec-row__label">Netto batterikapasitet</span><strong class="spec-row__value">95 kWh</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maksimal DC-ladeeffekt</span><strong class="spec-row__value">420 kW</strong></div>
       <div class="spec-row"><span class="spec-row__label">Katodematerialer</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Ladeport</h4>
       <div class="spec-row"><span class="spec-row__label">Plassering av ladeport</span><strong class="spec-row__value">LeftRearSide</strong></div>
         </div>
@@ -742,7 +718,7 @@ Nedenfor finner du den offisielle rekkeviddeinformasjonen. Se [utvidet rekkevidd
       <section class="generated-specs__group">
         <h3>Interiør</h3>
         <div class="generated-specs__group-body">
-Denne modellen er tilgjengelig med et seteoppsett med fem seter.
+          <p>Denne modellen er tilgjengelig med et seteoppsett med fem seter.</p>
           <h4 class="generated-specs__subheading">Forseter</h4>
       <div class="spec-row"><span class="spec-row__label">Setetype</span><strong class="spec-row__value">Fører- og passasjersete</strong></div>
       <div class="spec-row"><span class="spec-row__label">Justering av setedybde</span><strong class="spec-row__value">Ukjent</strong></div>

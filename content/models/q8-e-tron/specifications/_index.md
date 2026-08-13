@@ -38,22 +38,18 @@ navicon: bi-layout-text-sidebar-reverse
       <div class="spec-row"><span class="spec-row__label">Electrical torque output</span><strong class="spec-row__value">540 Nm (399 lb-ft)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Top speed</span><strong class="spec-row__value">200 kph (124 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0-100km/h (0-62 mph)</span><strong class="spec-row__value">6,0 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Range & Consumption</h3>
         <div class="generated-specs__group-body">
-Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
+          <p>Below you see the official range info. Visit our <a href="../rangeandconsumption/">extended range info</a> for detailed real world range examples. Visit our <a href="../../../../../guides/understandingrange/">Range Guide</a> to see what affects range and how the official range values are measured.</p>
       <div class="spec-row"><span class="spec-row__label">Basic trim WLTP range</span><strong class="spec-row__value">491 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Basic trim WLTP consumption</span><strong class="spec-row__value">18,1 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Basic trim WLTP consumption with charging loss</span><strong class="spec-row__value">20,1 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Top trim WLTP range</span><strong class="spec-row__value">406 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Top trim WLTP consumption</span><strong class="spec-row__value">21,9 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Top trim WLTP consumption with charging loss</span><strong class="spec-row__value">24 kwh/100km</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -66,8 +62,6 @@ Below you see the official range info. Visit our [extended range info](../rangea
       <div class="spec-row"><span class="spec-row__label">Pack Configuration</span><strong class="spec-row__value">108s3p</strong></div>
       <div class="spec-row"><span class="spec-row__label">Nominal voltage</span><strong class="spec-row__value">396</strong></div>
       <div class="spec-row"><span class="spec-row__label">Cathode Materials</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Chargeports</h4>
       <div class="spec-row"><span class="spec-row__label">Chargeport placement</span><strong class="spec-row__value">LeftFrontSide</strong></div>
       <div class="spec-row"><span class="spec-row__label">Type chargeport Europe</span><strong class="spec-row__value">CCS2</strong></div>
@@ -111,7 +105,7 @@ Below you see the official range info. Visit our [extended range info](../rangea
       <section class="generated-specs__group">
         <h3>Suspension</h3>
         <div class="generated-specs__group-body">
-The model offers 2 suspension variants
+          <p>The model offers 2 suspension variants</p>
           <h4 class="generated-specs__subheading">Adaptive Air Suspension</h4>
       <div class="spec-row"><span class="spec-row__label">Adaptive suspension</span><strong class="spec-row__value">Yes, standard equipment</strong></div>
       <div class="spec-row"><span class="spec-row__label">Adjustable damping front</span><strong class="spec-row__value">Yes, standard equipment</strong></div>
@@ -145,7 +139,7 @@ The model offers 2 suspension variants
       <section class="generated-specs__group">
         <h3>Interior</h3>
         <div class="generated-specs__group-body">
-This model is available with a seat configuration with five seats.
+          <p>This model is available with a seat configuration with five seats.</p>
           <h4 class="generated-specs__subheading">Front seats</h4>
           <h4 class="generated-specs__subheading">s-line sport</h4>
       <div class="spec-row"><span class="spec-row__label">Seat type</span><strong class="spec-row__value">Driver and Passenger Seat</strong></div>
@@ -381,14 +375,12 @@ This model is available with a seat configuration with five seats.
       <div class="spec-row"><span class="spec-row__label">Top speed</span><strong class="spec-row__value">200 kph (124 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0-100km/h (0-62 mph)</span><strong class="spec-row__value">6,6 s</strong></div>
       <div class="spec-row"><span class="spec-row__label">0-100km/h (0-62 mph) boost</span><strong class="spec-row__value">5,6 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Range & Consumption</h3>
         <div class="generated-specs__group-body">
-Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
+          <p>Below you see the official range info. Visit our <a href="../rangeandconsumption/">extended range info</a> for detailed real world range examples. Visit our <a href="../../../../../guides/understandingrange/">Range Guide</a> to see what affects range and how the official range values are measured.</p>
       <div class="spec-row"><span class="spec-row__label">Basic trim WLTP range</span><strong class="spec-row__value">582 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Basic trim WLTP consumption</span><strong class="spec-row__value">18,2 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Basic trim WLTP consumption with charging loss</span><strong class="spec-row__value">20,6 kWh/100km</strong></div>
@@ -397,8 +389,6 @@ Below you see the official range info. Visit our [extended range info](../rangea
       <div class="spec-row"><span class="spec-row__label">Top trim WLTP consumption with charging loss</span><strong class="spec-row__value">24,4 kwh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">EPA range</span><strong class="spec-row__value">285 mi</strong></div>
       <div class="spec-row"><span class="spec-row__label">EPA consumption</span><strong class="spec-row__value">2,7 mi/kWh</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -411,8 +401,6 @@ Below you see the official range info. Visit our [extended range info](../rangea
       <div class="spec-row"><span class="spec-row__label">Pack Configuration</span><strong class="spec-row__value">108s4p</strong></div>
       <div class="spec-row"><span class="spec-row__label">Nominal voltage</span><strong class="spec-row__value">396</strong></div>
       <div class="spec-row"><span class="spec-row__label">Cathode Materials</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Chargeports</h4>
       <div class="spec-row"><span class="spec-row__label">Chargeport placement</span><strong class="spec-row__value">LeftFrontSide</strong></div>
       <div class="spec-row"><span class="spec-row__label">Type chargeport Europe</span><strong class="spec-row__value">CCS2</strong></div>
@@ -456,7 +444,7 @@ Below you see the official range info. Visit our [extended range info](../rangea
       <section class="generated-specs__group">
         <h3>Suspension</h3>
         <div class="generated-specs__group-body">
-The model offers 2 suspension variants
+          <p>The model offers 2 suspension variants</p>
           <h4 class="generated-specs__subheading">Adaptive Air Suspension</h4>
       <div class="spec-row"><span class="spec-row__label">Adaptive suspension</span><strong class="spec-row__value">Yes, standard equipment</strong></div>
       <div class="spec-row"><span class="spec-row__label">Adjustable damping front</span><strong class="spec-row__value">Yes, standard equipment</strong></div>
@@ -490,7 +478,7 @@ The model offers 2 suspension variants
       <section class="generated-specs__group">
         <h3>Interior</h3>
         <div class="generated-specs__group-body">
-This model is available with a seat configuration with five seats.
+          <p>This model is available with a seat configuration with five seats.</p>
           <h4 class="generated-specs__subheading">Front seats</h4>
           <h4 class="generated-specs__subheading">s-line sport</h4>
       <div class="spec-row"><span class="spec-row__label">Seat type</span><strong class="spec-row__value">Driver and Passenger Seat</strong></div>
@@ -726,19 +714,15 @@ This model is available with a seat configuration with five seats.
       <div class="spec-row"><span class="spec-row__label">Top speed</span><strong class="spec-row__value">200 kph (124 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0-100km/h (0-62 mph)</span><strong class="spec-row__value">6,8 s</strong></div>
       <div class="spec-row"><span class="spec-row__label">0-100km/h (0-62 mph) boost</span><strong class="spec-row__value">5,8 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Range & Consumption</h3>
         <div class="generated-specs__group-body">
-Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
+          <p>Below you see the official range info. Visit our <a href="../rangeandconsumption/">extended range info</a> for detailed real world range examples. Visit our <a href="../../../../../guides/understandingrange/">Range Guide</a> to see what affects range and how the official range values are measured.</p>
       <div class="spec-row"><span class="spec-row__label">WLTP range</span><strong class="spec-row__value">487 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP consumption</span><strong class="spec-row__value">21,8 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP consumption with charging loss</span><strong class="spec-row__value">20,6 kWh/100km</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -751,8 +735,6 @@ Below you see the official range info. Visit our [extended range info](../rangea
       <div class="spec-row"><span class="spec-row__label">Pack Configuration</span><strong class="spec-row__value">108s4p</strong></div>
       <div class="spec-row"><span class="spec-row__label">Nominal voltage</span><strong class="spec-row__value">396</strong></div>
       <div class="spec-row"><span class="spec-row__label">Cathode Materials</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Chargeports</h4>
       <div class="spec-row"><span class="spec-row__label">Chargeport placement</span><strong class="spec-row__value">LeftFrontSide</strong></div>
       <div class="spec-row"><span class="spec-row__label">Type chargeport Europe</span><strong class="spec-row__value">CCS2</strong></div>
@@ -813,7 +795,7 @@ Below you see the official range info. Visit our [extended range info](../rangea
       <section class="generated-specs__group">
         <h3>Interior</h3>
         <div class="generated-specs__group-body">
-This model is available with a seat configuration with five seats.
+          <p>This model is available with a seat configuration with five seats.</p>
           <h4 class="generated-specs__subheading">Front seats</h4>
           <h4 class="generated-specs__subheading">s-line sport</h4>
       <div class="spec-row"><span class="spec-row__label">Seat type</span><strong class="spec-row__value">Driver and Passenger Seat</strong></div>
@@ -989,22 +971,18 @@ This model is available with a seat configuration with five seats.
       <div class="spec-row"><span class="spec-row__label">Electrical torque output</span><strong class="spec-row__value">540 Nm (399 lb-ft)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Top speed</span><strong class="spec-row__value">200 kph (124 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0-100km/h (0-62 mph)</span><strong class="spec-row__value">6,0 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Range & Consumption</h3>
         <div class="generated-specs__group-body">
-Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
+          <p>Below you see the official range info. Visit our <a href="../rangeandconsumption/">extended range info</a> for detailed real world range examples. Visit our <a href="../../../../../guides/understandingrange/">Range Guide</a> to see what affects range and how the official range values are measured.</p>
       <div class="spec-row"><span class="spec-row__label">Basic trim WLTP range</span><strong class="spec-row__value">505 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Basic trim WLTP consumption</span><strong class="spec-row__value">17,6 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Basic trim WLTP consumption with charging loss</span><strong class="spec-row__value">19,5 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Top trim WLTP range</span><strong class="spec-row__value">412 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Top trim WLTP consumption</span><strong class="spec-row__value">21,6 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Top trim WLTP consumption with charging loss</span><strong class="spec-row__value">23,7 kwh/100km</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -1017,8 +995,6 @@ Below you see the official range info. Visit our [extended range info](../rangea
       <div class="spec-row"><span class="spec-row__label">Pack Configuration</span><strong class="spec-row__value">108s3p</strong></div>
       <div class="spec-row"><span class="spec-row__label">Nominal voltage</span><strong class="spec-row__value">396</strong></div>
       <div class="spec-row"><span class="spec-row__label">Cathode Materials</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Chargeports</h4>
       <div class="spec-row"><span class="spec-row__label">Chargeport placement</span><strong class="spec-row__value">LeftFrontSide</strong></div>
       <div class="spec-row"><span class="spec-row__label">Type chargeport Europe</span><strong class="spec-row__value">CCS2</strong></div>
@@ -1062,7 +1038,7 @@ Below you see the official range info. Visit our [extended range info](../rangea
       <section class="generated-specs__group">
         <h3>Suspension</h3>
         <div class="generated-specs__group-body">
-The model offers 2 suspension variants
+          <p>The model offers 2 suspension variants</p>
           <h4 class="generated-specs__subheading">Adaptive Air Suspension</h4>
       <div class="spec-row"><span class="spec-row__label">Adaptive suspension</span><strong class="spec-row__value">Yes, standard equipment</strong></div>
       <div class="spec-row"><span class="spec-row__label">Adjustable damping front</span><strong class="spec-row__value">Yes, standard equipment</strong></div>
@@ -1096,7 +1072,7 @@ The model offers 2 suspension variants
       <section class="generated-specs__group">
         <h3>Interior</h3>
         <div class="generated-specs__group-body">
-This model is available with a seat configuration with five seats.
+          <p>This model is available with a seat configuration with five seats.</p>
           <h4 class="generated-specs__subheading">Front seats</h4>
           <h4 class="generated-specs__subheading">standard</h4>
       <div class="spec-row"><span class="spec-row__label">Seat type</span><strong class="spec-row__value">Driver and Passenger Seat</strong></div>
@@ -1367,14 +1343,12 @@ This model is available with a seat configuration with five seats.
       <div class="spec-row"><span class="spec-row__label">Top speed</span><strong class="spec-row__value">200 kph (124 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0-100km/h (0-62 mph)</span><strong class="spec-row__value">6,6 s</strong></div>
       <div class="spec-row"><span class="spec-row__label">0-100km/h (0-62 mph) boost</span><strong class="spec-row__value">5,6 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Range & Consumption</h3>
         <div class="generated-specs__group-body">
-Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
+          <p>Below you see the official range info. Visit our <a href="../rangeandconsumption/">extended range info</a> for detailed real world range examples. Visit our <a href="../../../../../guides/understandingrange/">Range Guide</a> to see what affects range and how the official range values are measured.</p>
       <div class="spec-row"><span class="spec-row__label">Basic trim WLTP range</span><strong class="spec-row__value">600 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Basic trim WLTP consumption</span><strong class="spec-row__value">17,7 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Basic trim WLTP consumption with charging loss</span><strong class="spec-row__value">19,9 kWh/100km</strong></div>
@@ -1383,8 +1357,6 @@ Below you see the official range info. Visit our [extended range info](../rangea
       <div class="spec-row"><span class="spec-row__label">Top trim WLTP consumption with charging loss</span><strong class="spec-row__value">24,1 kwh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">EPA range</span><strong class="spec-row__value">300 mi</strong></div>
       <div class="spec-row"><span class="spec-row__label">EPA consumption</span><strong class="spec-row__value">2,8 mi/kWh</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -1397,8 +1369,6 @@ Below you see the official range info. Visit our [extended range info](../rangea
       <div class="spec-row"><span class="spec-row__label">Pack Configuration</span><strong class="spec-row__value">108s4p</strong></div>
       <div class="spec-row"><span class="spec-row__label">Nominal voltage</span><strong class="spec-row__value">396</strong></div>
       <div class="spec-row"><span class="spec-row__label">Cathode Materials</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Chargeports</h4>
       <div class="spec-row"><span class="spec-row__label">Chargeport placement</span><strong class="spec-row__value">LeftFrontSide</strong></div>
       <div class="spec-row"><span class="spec-row__label">Type chargeport Europe</span><strong class="spec-row__value">CCS2</strong></div>
@@ -1442,7 +1412,7 @@ Below you see the official range info. Visit our [extended range info](../rangea
       <section class="generated-specs__group">
         <h3>Suspension</h3>
         <div class="generated-specs__group-body">
-The model offers 2 suspension variants
+          <p>The model offers 2 suspension variants</p>
           <h4 class="generated-specs__subheading">Adaptive Air Suspension</h4>
       <div class="spec-row"><span class="spec-row__label">Adaptive suspension</span><strong class="spec-row__value">Yes, standard equipment</strong></div>
       <div class="spec-row"><span class="spec-row__label">Adjustable damping front</span><strong class="spec-row__value">Yes, standard equipment</strong></div>
@@ -1476,7 +1446,7 @@ The model offers 2 suspension variants
       <section class="generated-specs__group">
         <h3>Interior</h3>
         <div class="generated-specs__group-body">
-This model is available with a seat configuration with five seats.
+          <p>This model is available with a seat configuration with five seats.</p>
           <h4 class="generated-specs__subheading">Front seats</h4>
           <h4 class="generated-specs__subheading">s-line sport</h4>
       <div class="spec-row"><span class="spec-row__label">Seat type</span><strong class="spec-row__value">Driver and Passenger Seat</strong></div>
@@ -1712,22 +1682,18 @@ This model is available with a seat configuration with five seats.
       <div class="spec-row"><span class="spec-row__label">Top speed</span><strong class="spec-row__value">210 kph (131 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0-100km/h (0-62 mph)</span><strong class="spec-row__value">6,6 s</strong></div>
       <div class="spec-row"><span class="spec-row__label">0-100km/h (0-62 mph) boost</span><strong class="spec-row__value">4,5 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Range & Consumption</h3>
         <div class="generated-specs__group-body">
-Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
+          <p>Below you see the official range info. Visit our <a href="../rangeandconsumption/">extended range info</a> for detailed real world range examples. Visit our <a href="../../../../../guides/understandingrange/">Range Guide</a> to see what affects range and how the official range values are measured.</p>
       <div class="spec-row"><span class="spec-row__label">Basic trim WLTP range</span><strong class="spec-row__value">494 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Basic trim WLTP consumption</span><strong class="spec-row__value">21,5 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Basic trim WLTP consumption with charging loss</span><strong class="spec-row__value">24,6 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Top trim WLTP range</span><strong class="spec-row__value">454 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Top trim WLTP consumption</span><strong class="spec-row__value">23,3 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Top trim WLTP consumption with charging loss</span><strong class="spec-row__value">28 kwh/100km</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -1740,8 +1706,6 @@ Below you see the official range info. Visit our [extended range info](../rangea
       <div class="spec-row"><span class="spec-row__label">Pack Configuration</span><strong class="spec-row__value">108s4p</strong></div>
       <div class="spec-row"><span class="spec-row__label">Nominal voltage</span><strong class="spec-row__value">396</strong></div>
       <div class="spec-row"><span class="spec-row__label">Cathode Materials</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Chargeports</h4>
       <div class="spec-row"><span class="spec-row__label">Chargeport placement</span><strong class="spec-row__value">LeftFrontSide</strong></div>
       <div class="spec-row"><span class="spec-row__label">Type chargeport Europe</span><strong class="spec-row__value">CCS2</strong></div>
@@ -1803,7 +1767,7 @@ Below you see the official range info. Visit our [extended range info](../rangea
       <section class="generated-specs__group">
         <h3>Interior</h3>
         <div class="generated-specs__group-body">
-This model is available with a seat configuration with five seats.
+          <p>This model is available with a seat configuration with five seats.</p>
           <h4 class="generated-specs__subheading">Front seats</h4>
           <h4 class="generated-specs__subheading">s-line sport</h4>
       <div class="spec-row"><span class="spec-row__label">Seat type</span><strong class="spec-row__value">Driver and Passenger Seat</strong></div>
@@ -2039,22 +2003,18 @@ This model is available with a seat configuration with five seats.
       <div class="spec-row"><span class="spec-row__label">Top speed</span><strong class="spec-row__value">200 kph (124 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0-100km/h (0-62 mph)</span><strong class="spec-row__value">6,6 s</strong></div>
       <div class="spec-row"><span class="spec-row__label">0-100km/h (0-62 mph) boost</span><strong class="spec-row__value">4,5 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Range & Consumption</h3>
         <div class="generated-specs__group-body">
-Below you see the official range info. Visit our [extended range info](../rangeandconsumption/) for detailed real world range examples. Visit our [Range Guide](../../../../../guides/understandingrange/) to see what affects range and how the official range values are measured.
+          <p>Below you see the official range info. Visit our <a href="../rangeandconsumption/">extended range info</a> for detailed real world range examples. Visit our <a href="../../../../../guides/understandingrange/">Range Guide</a> to see what affects range and how the official range values are measured.</p>
       <div class="spec-row"><span class="spec-row__label">Basic trim WLTP range</span><strong class="spec-row__value">513 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Basic trim WLTP consumption</span><strong class="spec-row__value">20,7 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Basic trim WLTP consumption with charging loss</span><strong class="spec-row__value">23,5 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Top trim WLTP range</span><strong class="spec-row__value">469 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Top trim WLTP consumption</span><strong class="spec-row__value">22,6 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">Top trim WLTP consumption with charging loss</span><strong class="spec-row__value">27 kwh/100km</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -2067,8 +2027,6 @@ Below you see the official range info. Visit our [extended range info](../rangea
       <div class="spec-row"><span class="spec-row__label">Pack Configuration</span><strong class="spec-row__value">108s4p</strong></div>
       <div class="spec-row"><span class="spec-row__label">Nominal voltage</span><strong class="spec-row__value">396</strong></div>
       <div class="spec-row"><span class="spec-row__label">Cathode Materials</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Chargeports</h4>
       <div class="spec-row"><span class="spec-row__label">Chargeport placement</span><strong class="spec-row__value">LeftFrontSide</strong></div>
       <div class="spec-row"><span class="spec-row__label">Type chargeport Europe</span><strong class="spec-row__value">CCS2</strong></div>
@@ -2130,7 +2088,7 @@ Below you see the official range info. Visit our [extended range info](../rangea
       <section class="generated-specs__group">
         <h3>Interior</h3>
         <div class="generated-specs__group-body">
-This model is available with a seat configuration with five seats.
+          <p>This model is available with a seat configuration with five seats.</p>
           <h4 class="generated-specs__subheading">Front seats</h4>
           <h4 class="generated-specs__subheading">s-line sport</h4>
       <div class="spec-row"><span class="spec-row__label">Seat type</span><strong class="spec-row__value">Driver and Passenger Seat</strong></div>

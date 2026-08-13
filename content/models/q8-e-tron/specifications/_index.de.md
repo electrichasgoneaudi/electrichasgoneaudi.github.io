@@ -38,22 +38,18 @@ navicon: bi-layout-text-sidebar-reverse
       <div class="spec-row"><span class="spec-row__label">Elektrisches Drehmoment</span><strong class="spec-row__value">540 Nm (399 lb-ft)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Höchstgeschwindigkeit</span><strong class="spec-row__value">200 km/h (124 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/h (0–62 mph)</span><strong class="spec-row__value">6,0 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Reichweite und Verbrauch</h3>
         <div class="generated-specs__group-body">
-Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [ausführlichen Reichweiteninformationen](../rangeandconsumption/) für detaillierte Beispiele aus der Praxis. Besuchen Sie unseren [Reichweitenleitfaden](../../../../../guides/understandingrange/), um zu erfahren, was die Reichweite beeinflusst und wie die offiziellen Reichweitenwerte gemessen werden.
+          <p>Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere <a href="../rangeandconsumption/">ausf&#252;hrlichen Reichweiteninformationen</a> f&#252;r detaillierte Beispiele aus der Praxis. Besuchen Sie unseren <a href="../../../../../guides/understandingrange/">Reichweitenleitfaden</a>, um zu erfahren, was die Reichweite beeinflusst und wie die offiziellen Reichweitenwerte gemessen werden.</p>
       <div class="spec-row"><span class="spec-row__label">WLTP-Reichweite der Basisausstattung</span><strong class="spec-row__value">491 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-Verbrauch der Basisausstattung</span><strong class="spec-row__value">18,1 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-Verbrauch der Basisausstattung mit Ladeverlusten</span><strong class="spec-row__value">20,1 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-Reichweite der Topausstattung</span><strong class="spec-row__value">406 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-Verbrauch der Topausstattung</span><strong class="spec-row__value">21,9 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-Verbrauch der Topausstattung mit Ladeverlusten</span><strong class="spec-row__value">24 kwh/100km</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -66,8 +62,6 @@ Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [a
       <div class="spec-row"><span class="spec-row__label">Batteriepack-Konfiguration</span><strong class="spec-row__value">108s3p</strong></div>
       <div class="spec-row"><span class="spec-row__label">Nennspannung</span><strong class="spec-row__value">396</strong></div>
       <div class="spec-row"><span class="spec-row__label">Kathodenmaterialien</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Ladeanschlüsse</h4>
       <div class="spec-row"><span class="spec-row__label">Position des Ladeanschlusses</span><strong class="spec-row__value">LeftFrontSide</strong></div>
       <div class="spec-row"><span class="spec-row__label">Typ Ladeanschluss Europa</span><strong class="spec-row__value">CCS2</strong></div>
@@ -111,7 +105,7 @@ Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [a
       <section class="generated-specs__group">
         <h3>Fahrwerk</h3>
         <div class="generated-specs__group-body">
-Das Modell bietet 2 Fahrwerksvarianten
+          <p>Das Modell bietet 2 Fahrwerksvarianten</p>
           <h4 class="generated-specs__subheading">Adaptive Air Suspension</h4>
       <div class="spec-row"><span class="spec-row__label">Adaptive Federung</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
       <div class="spec-row"><span class="spec-row__label">Dämpfungsverstellung vorne</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
@@ -145,7 +139,7 @@ Das Modell bietet 2 Fahrwerksvarianten
       <section class="generated-specs__group">
         <h3>Innenraum</h3>
         <div class="generated-specs__group-body">
-Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen verfügbar.
+          <p>Dieses Modell ist mit einer Sitzkonfiguration mit f&#252;nf Sitzen verf&#252;gbar.</p>
           <h4 class="generated-specs__subheading">Vordersitze</h4>
           <h4 class="generated-specs__subheading">s-line sport</h4>
       <div class="spec-row"><span class="spec-row__label">Sitztyp</span><strong class="spec-row__value">Fahrer- und Beifahrersitz</strong></div>
@@ -381,14 +375,12 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen verfügbar.
       <div class="spec-row"><span class="spec-row__label">Höchstgeschwindigkeit</span><strong class="spec-row__value">200 km/h (124 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/h (0–62 mph)</span><strong class="spec-row__value">6,6 s</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/h (0–62 mph) Boost</span><strong class="spec-row__value">5,6 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Reichweite und Verbrauch</h3>
         <div class="generated-specs__group-body">
-Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [ausführlichen Reichweiteninformationen](../rangeandconsumption/) für detaillierte Beispiele aus der Praxis. Besuchen Sie unseren [Reichweitenleitfaden](../../../../../guides/understandingrange/), um zu erfahren, was die Reichweite beeinflusst und wie die offiziellen Reichweitenwerte gemessen werden.
+          <p>Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere <a href="../rangeandconsumption/">ausf&#252;hrlichen Reichweiteninformationen</a> f&#252;r detaillierte Beispiele aus der Praxis. Besuchen Sie unseren <a href="../../../../../guides/understandingrange/">Reichweitenleitfaden</a>, um zu erfahren, was die Reichweite beeinflusst und wie die offiziellen Reichweitenwerte gemessen werden.</p>
       <div class="spec-row"><span class="spec-row__label">WLTP-Reichweite der Basisausstattung</span><strong class="spec-row__value">582 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-Verbrauch der Basisausstattung</span><strong class="spec-row__value">18,2 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-Verbrauch der Basisausstattung mit Ladeverlusten</span><strong class="spec-row__value">20,6 kWh/100km</strong></div>
@@ -397,8 +389,6 @@ Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [a
       <div class="spec-row"><span class="spec-row__label">WLTP-Verbrauch der Topausstattung mit Ladeverlusten</span><strong class="spec-row__value">24,4 kwh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">EPA-Reichweite</span><strong class="spec-row__value">285 mi</strong></div>
       <div class="spec-row"><span class="spec-row__label">EPA-Verbrauch</span><strong class="spec-row__value">2,7 mi/kWh</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -411,8 +401,6 @@ Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [a
       <div class="spec-row"><span class="spec-row__label">Batteriepack-Konfiguration</span><strong class="spec-row__value">108s4p</strong></div>
       <div class="spec-row"><span class="spec-row__label">Nennspannung</span><strong class="spec-row__value">396</strong></div>
       <div class="spec-row"><span class="spec-row__label">Kathodenmaterialien</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Ladeanschlüsse</h4>
       <div class="spec-row"><span class="spec-row__label">Position des Ladeanschlusses</span><strong class="spec-row__value">LeftFrontSide</strong></div>
       <div class="spec-row"><span class="spec-row__label">Typ Ladeanschluss Europa</span><strong class="spec-row__value">CCS2</strong></div>
@@ -456,7 +444,7 @@ Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [a
       <section class="generated-specs__group">
         <h3>Fahrwerk</h3>
         <div class="generated-specs__group-body">
-Das Modell bietet 2 Fahrwerksvarianten
+          <p>Das Modell bietet 2 Fahrwerksvarianten</p>
           <h4 class="generated-specs__subheading">Adaptive Air Suspension</h4>
       <div class="spec-row"><span class="spec-row__label">Adaptive Federung</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
       <div class="spec-row"><span class="spec-row__label">Dämpfungsverstellung vorne</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
@@ -490,7 +478,7 @@ Das Modell bietet 2 Fahrwerksvarianten
       <section class="generated-specs__group">
         <h3>Innenraum</h3>
         <div class="generated-specs__group-body">
-Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen verfügbar.
+          <p>Dieses Modell ist mit einer Sitzkonfiguration mit f&#252;nf Sitzen verf&#252;gbar.</p>
           <h4 class="generated-specs__subheading">Vordersitze</h4>
           <h4 class="generated-specs__subheading">s-line sport</h4>
       <div class="spec-row"><span class="spec-row__label">Sitztyp</span><strong class="spec-row__value">Fahrer- und Beifahrersitz</strong></div>
@@ -726,19 +714,15 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen verfügbar.
       <div class="spec-row"><span class="spec-row__label">Höchstgeschwindigkeit</span><strong class="spec-row__value">200 km/h (124 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/h (0–62 mph)</span><strong class="spec-row__value">6,8 s</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/h (0–62 mph) Boost</span><strong class="spec-row__value">5,8 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Reichweite und Verbrauch</h3>
         <div class="generated-specs__group-body">
-Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [ausführlichen Reichweiteninformationen](../rangeandconsumption/) für detaillierte Beispiele aus der Praxis. Besuchen Sie unseren [Reichweitenleitfaden](../../../../../guides/understandingrange/), um zu erfahren, was die Reichweite beeinflusst und wie die offiziellen Reichweitenwerte gemessen werden.
+          <p>Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere <a href="../rangeandconsumption/">ausf&#252;hrlichen Reichweiteninformationen</a> f&#252;r detaillierte Beispiele aus der Praxis. Besuchen Sie unseren <a href="../../../../../guides/understandingrange/">Reichweitenleitfaden</a>, um zu erfahren, was die Reichweite beeinflusst und wie die offiziellen Reichweitenwerte gemessen werden.</p>
       <div class="spec-row"><span class="spec-row__label">WLTP-Reichweite</span><strong class="spec-row__value">487 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-Verbrauch</span><strong class="spec-row__value">21,8 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-Verbrauch mit Ladeverlust</span><strong class="spec-row__value">20,6 kWh/100km</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -751,8 +735,6 @@ Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [a
       <div class="spec-row"><span class="spec-row__label">Batteriepack-Konfiguration</span><strong class="spec-row__value">108s4p</strong></div>
       <div class="spec-row"><span class="spec-row__label">Nennspannung</span><strong class="spec-row__value">396</strong></div>
       <div class="spec-row"><span class="spec-row__label">Kathodenmaterialien</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Ladeanschlüsse</h4>
       <div class="spec-row"><span class="spec-row__label">Position des Ladeanschlusses</span><strong class="spec-row__value">LeftFrontSide</strong></div>
       <div class="spec-row"><span class="spec-row__label">Typ Ladeanschluss Europa</span><strong class="spec-row__value">CCS2</strong></div>
@@ -813,7 +795,7 @@ Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [a
       <section class="generated-specs__group">
         <h3>Innenraum</h3>
         <div class="generated-specs__group-body">
-Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen verfügbar.
+          <p>Dieses Modell ist mit einer Sitzkonfiguration mit f&#252;nf Sitzen verf&#252;gbar.</p>
           <h4 class="generated-specs__subheading">Vordersitze</h4>
           <h4 class="generated-specs__subheading">s-line sport</h4>
       <div class="spec-row"><span class="spec-row__label">Sitztyp</span><strong class="spec-row__value">Fahrer- und Beifahrersitz</strong></div>
@@ -989,22 +971,18 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen verfügbar.
       <div class="spec-row"><span class="spec-row__label">Elektrisches Drehmoment</span><strong class="spec-row__value">540 Nm (399 lb-ft)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Höchstgeschwindigkeit</span><strong class="spec-row__value">200 km/h (124 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/h (0–62 mph)</span><strong class="spec-row__value">6,0 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Reichweite und Verbrauch</h3>
         <div class="generated-specs__group-body">
-Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [ausführlichen Reichweiteninformationen](../rangeandconsumption/) für detaillierte Beispiele aus der Praxis. Besuchen Sie unseren [Reichweitenleitfaden](../../../../../guides/understandingrange/), um zu erfahren, was die Reichweite beeinflusst und wie die offiziellen Reichweitenwerte gemessen werden.
+          <p>Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere <a href="../rangeandconsumption/">ausf&#252;hrlichen Reichweiteninformationen</a> f&#252;r detaillierte Beispiele aus der Praxis. Besuchen Sie unseren <a href="../../../../../guides/understandingrange/">Reichweitenleitfaden</a>, um zu erfahren, was die Reichweite beeinflusst und wie die offiziellen Reichweitenwerte gemessen werden.</p>
       <div class="spec-row"><span class="spec-row__label">WLTP-Reichweite der Basisausstattung</span><strong class="spec-row__value">505 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-Verbrauch der Basisausstattung</span><strong class="spec-row__value">17,6 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-Verbrauch der Basisausstattung mit Ladeverlusten</span><strong class="spec-row__value">19,5 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-Reichweite der Topausstattung</span><strong class="spec-row__value">412 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-Verbrauch der Topausstattung</span><strong class="spec-row__value">21,6 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-Verbrauch der Topausstattung mit Ladeverlusten</span><strong class="spec-row__value">23,7 kwh/100km</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -1017,8 +995,6 @@ Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [a
       <div class="spec-row"><span class="spec-row__label">Batteriepack-Konfiguration</span><strong class="spec-row__value">108s3p</strong></div>
       <div class="spec-row"><span class="spec-row__label">Nennspannung</span><strong class="spec-row__value">396</strong></div>
       <div class="spec-row"><span class="spec-row__label">Kathodenmaterialien</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Ladeanschlüsse</h4>
       <div class="spec-row"><span class="spec-row__label">Position des Ladeanschlusses</span><strong class="spec-row__value">LeftFrontSide</strong></div>
       <div class="spec-row"><span class="spec-row__label">Typ Ladeanschluss Europa</span><strong class="spec-row__value">CCS2</strong></div>
@@ -1062,7 +1038,7 @@ Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [a
       <section class="generated-specs__group">
         <h3>Fahrwerk</h3>
         <div class="generated-specs__group-body">
-Das Modell bietet 2 Fahrwerksvarianten
+          <p>Das Modell bietet 2 Fahrwerksvarianten</p>
           <h4 class="generated-specs__subheading">Adaptive Air Suspension</h4>
       <div class="spec-row"><span class="spec-row__label">Adaptive Federung</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
       <div class="spec-row"><span class="spec-row__label">Dämpfungsverstellung vorne</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
@@ -1096,7 +1072,7 @@ Das Modell bietet 2 Fahrwerksvarianten
       <section class="generated-specs__group">
         <h3>Innenraum</h3>
         <div class="generated-specs__group-body">
-Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen verfügbar.
+          <p>Dieses Modell ist mit einer Sitzkonfiguration mit f&#252;nf Sitzen verf&#252;gbar.</p>
           <h4 class="generated-specs__subheading">Vordersitze</h4>
           <h4 class="generated-specs__subheading">standard</h4>
       <div class="spec-row"><span class="spec-row__label">Sitztyp</span><strong class="spec-row__value">Fahrer- und Beifahrersitz</strong></div>
@@ -1367,14 +1343,12 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen verfügbar.
       <div class="spec-row"><span class="spec-row__label">Höchstgeschwindigkeit</span><strong class="spec-row__value">200 km/h (124 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/h (0–62 mph)</span><strong class="spec-row__value">6,6 s</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/h (0–62 mph) Boost</span><strong class="spec-row__value">5,6 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Reichweite und Verbrauch</h3>
         <div class="generated-specs__group-body">
-Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [ausführlichen Reichweiteninformationen](../rangeandconsumption/) für detaillierte Beispiele aus der Praxis. Besuchen Sie unseren [Reichweitenleitfaden](../../../../../guides/understandingrange/), um zu erfahren, was die Reichweite beeinflusst und wie die offiziellen Reichweitenwerte gemessen werden.
+          <p>Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere <a href="../rangeandconsumption/">ausf&#252;hrlichen Reichweiteninformationen</a> f&#252;r detaillierte Beispiele aus der Praxis. Besuchen Sie unseren <a href="../../../../../guides/understandingrange/">Reichweitenleitfaden</a>, um zu erfahren, was die Reichweite beeinflusst und wie die offiziellen Reichweitenwerte gemessen werden.</p>
       <div class="spec-row"><span class="spec-row__label">WLTP-Reichweite der Basisausstattung</span><strong class="spec-row__value">600 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-Verbrauch der Basisausstattung</span><strong class="spec-row__value">17,7 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-Verbrauch der Basisausstattung mit Ladeverlusten</span><strong class="spec-row__value">19,9 kWh/100km</strong></div>
@@ -1383,8 +1357,6 @@ Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [a
       <div class="spec-row"><span class="spec-row__label">WLTP-Verbrauch der Topausstattung mit Ladeverlusten</span><strong class="spec-row__value">24,1 kwh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">EPA-Reichweite</span><strong class="spec-row__value">300 mi</strong></div>
       <div class="spec-row"><span class="spec-row__label">EPA-Verbrauch</span><strong class="spec-row__value">2,8 mi/kWh</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -1397,8 +1369,6 @@ Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [a
       <div class="spec-row"><span class="spec-row__label">Batteriepack-Konfiguration</span><strong class="spec-row__value">108s4p</strong></div>
       <div class="spec-row"><span class="spec-row__label">Nennspannung</span><strong class="spec-row__value">396</strong></div>
       <div class="spec-row"><span class="spec-row__label">Kathodenmaterialien</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Ladeanschlüsse</h4>
       <div class="spec-row"><span class="spec-row__label">Position des Ladeanschlusses</span><strong class="spec-row__value">LeftFrontSide</strong></div>
       <div class="spec-row"><span class="spec-row__label">Typ Ladeanschluss Europa</span><strong class="spec-row__value">CCS2</strong></div>
@@ -1442,7 +1412,7 @@ Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [a
       <section class="generated-specs__group">
         <h3>Fahrwerk</h3>
         <div class="generated-specs__group-body">
-Das Modell bietet 2 Fahrwerksvarianten
+          <p>Das Modell bietet 2 Fahrwerksvarianten</p>
           <h4 class="generated-specs__subheading">Adaptive Air Suspension</h4>
       <div class="spec-row"><span class="spec-row__label">Adaptive Federung</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
       <div class="spec-row"><span class="spec-row__label">Dämpfungsverstellung vorne</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
@@ -1476,7 +1446,7 @@ Das Modell bietet 2 Fahrwerksvarianten
       <section class="generated-specs__group">
         <h3>Innenraum</h3>
         <div class="generated-specs__group-body">
-Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen verfügbar.
+          <p>Dieses Modell ist mit einer Sitzkonfiguration mit f&#252;nf Sitzen verf&#252;gbar.</p>
           <h4 class="generated-specs__subheading">Vordersitze</h4>
           <h4 class="generated-specs__subheading">s-line sport</h4>
       <div class="spec-row"><span class="spec-row__label">Sitztyp</span><strong class="spec-row__value">Fahrer- und Beifahrersitz</strong></div>
@@ -1712,22 +1682,18 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen verfügbar.
       <div class="spec-row"><span class="spec-row__label">Höchstgeschwindigkeit</span><strong class="spec-row__value">210 km/h (131 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/h (0–62 mph)</span><strong class="spec-row__value">6,6 s</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/h (0–62 mph) Boost</span><strong class="spec-row__value">4,5 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Reichweite und Verbrauch</h3>
         <div class="generated-specs__group-body">
-Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [ausführlichen Reichweiteninformationen](../rangeandconsumption/) für detaillierte Beispiele aus der Praxis. Besuchen Sie unseren [Reichweitenleitfaden](../../../../../guides/understandingrange/), um zu erfahren, was die Reichweite beeinflusst und wie die offiziellen Reichweitenwerte gemessen werden.
+          <p>Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere <a href="../rangeandconsumption/">ausf&#252;hrlichen Reichweiteninformationen</a> f&#252;r detaillierte Beispiele aus der Praxis. Besuchen Sie unseren <a href="../../../../../guides/understandingrange/">Reichweitenleitfaden</a>, um zu erfahren, was die Reichweite beeinflusst und wie die offiziellen Reichweitenwerte gemessen werden.</p>
       <div class="spec-row"><span class="spec-row__label">WLTP-Reichweite der Basisausstattung</span><strong class="spec-row__value">494 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-Verbrauch der Basisausstattung</span><strong class="spec-row__value">21,5 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-Verbrauch der Basisausstattung mit Ladeverlusten</span><strong class="spec-row__value">24,6 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-Reichweite der Topausstattung</span><strong class="spec-row__value">454 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-Verbrauch der Topausstattung</span><strong class="spec-row__value">23,3 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-Verbrauch der Topausstattung mit Ladeverlusten</span><strong class="spec-row__value">28 kwh/100km</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -1740,8 +1706,6 @@ Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [a
       <div class="spec-row"><span class="spec-row__label">Batteriepack-Konfiguration</span><strong class="spec-row__value">108s4p</strong></div>
       <div class="spec-row"><span class="spec-row__label">Nennspannung</span><strong class="spec-row__value">396</strong></div>
       <div class="spec-row"><span class="spec-row__label">Kathodenmaterialien</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Ladeanschlüsse</h4>
       <div class="spec-row"><span class="spec-row__label">Position des Ladeanschlusses</span><strong class="spec-row__value">LeftFrontSide</strong></div>
       <div class="spec-row"><span class="spec-row__label">Typ Ladeanschluss Europa</span><strong class="spec-row__value">CCS2</strong></div>
@@ -1803,7 +1767,7 @@ Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [a
       <section class="generated-specs__group">
         <h3>Innenraum</h3>
         <div class="generated-specs__group-body">
-Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen verfügbar.
+          <p>Dieses Modell ist mit einer Sitzkonfiguration mit f&#252;nf Sitzen verf&#252;gbar.</p>
           <h4 class="generated-specs__subheading">Vordersitze</h4>
           <h4 class="generated-specs__subheading">s-line sport</h4>
       <div class="spec-row"><span class="spec-row__label">Sitztyp</span><strong class="spec-row__value">Fahrer- und Beifahrersitz</strong></div>
@@ -2039,22 +2003,18 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen verfügbar.
       <div class="spec-row"><span class="spec-row__label">Höchstgeschwindigkeit</span><strong class="spec-row__value">200 km/h (124 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/h (0–62 mph)</span><strong class="spec-row__value">6,6 s</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/h (0–62 mph) Boost</span><strong class="spec-row__value">4,5 s</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
         <h3>Reichweite und Verbrauch</h3>
         <div class="generated-specs__group-body">
-Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [ausführlichen Reichweiteninformationen](../rangeandconsumption/) für detaillierte Beispiele aus der Praxis. Besuchen Sie unseren [Reichweitenleitfaden](../../../../../guides/understandingrange/), um zu erfahren, was die Reichweite beeinflusst und wie die offiziellen Reichweitenwerte gemessen werden.
+          <p>Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere <a href="../rangeandconsumption/">ausf&#252;hrlichen Reichweiteninformationen</a> f&#252;r detaillierte Beispiele aus der Praxis. Besuchen Sie unseren <a href="../../../../../guides/understandingrange/">Reichweitenleitfaden</a>, um zu erfahren, was die Reichweite beeinflusst und wie die offiziellen Reichweitenwerte gemessen werden.</p>
       <div class="spec-row"><span class="spec-row__label">WLTP-Reichweite der Basisausstattung</span><strong class="spec-row__value">513 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-Verbrauch der Basisausstattung</span><strong class="spec-row__value">20,7 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-Verbrauch der Basisausstattung mit Ladeverlusten</span><strong class="spec-row__value">23,5 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-Reichweite der Topausstattung</span><strong class="spec-row__value">469 km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-Verbrauch der Topausstattung</span><strong class="spec-row__value">22,6 kWh/100km</strong></div>
       <div class="spec-row"><span class="spec-row__label">WLTP-Verbrauch der Topausstattung mit Ladeverlusten</span><strong class="spec-row__value">27 kwh/100km</strong></div>
-
-
         </div>
       </section>
       <section class="generated-specs__group">
@@ -2067,8 +2027,6 @@ Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [a
       <div class="spec-row"><span class="spec-row__label">Batteriepack-Konfiguration</span><strong class="spec-row__value">108s4p</strong></div>
       <div class="spec-row"><span class="spec-row__label">Nennspannung</span><strong class="spec-row__value">396</strong></div>
       <div class="spec-row"><span class="spec-row__label">Kathodenmaterialien</span><strong class="spec-row__value">NMC</strong></div>
-
-
           <h4 class="generated-specs__subheading">Ladeanschlüsse</h4>
       <div class="spec-row"><span class="spec-row__label">Position des Ladeanschlusses</span><strong class="spec-row__value">LeftFrontSide</strong></div>
       <div class="spec-row"><span class="spec-row__label">Typ Ladeanschluss Europa</span><strong class="spec-row__value">CCS2</strong></div>
@@ -2130,7 +2088,7 @@ Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere [a
       <section class="generated-specs__group">
         <h3>Innenraum</h3>
         <div class="generated-specs__group-body">
-Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen verfügbar.
+          <p>Dieses Modell ist mit einer Sitzkonfiguration mit f&#252;nf Sitzen verf&#252;gbar.</p>
           <h4 class="generated-specs__subheading">Vordersitze</h4>
           <h4 class="generated-specs__subheading">s-line sport</h4>
       <div class="spec-row"><span class="spec-row__label">Sitztyp</span><strong class="spec-row__value">Fahrer- und Beifahrersitz</strong></div>
