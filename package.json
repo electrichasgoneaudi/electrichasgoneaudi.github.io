@@ -7,7 +7,8 @@
     "build-css-prod": "tailwindcss -i ./src/input.css -o ./static/css/tailwind.css --minify",
     "translate:de": "node tools/translate-content-de.mjs content",
     "dev": "concurrently \"npm run build-css\" \"hugo server --disableFastRender\"",
-    "build": "npm run build-css-prod && hugo --minify",
+    "build": "npm run build-css-prod && hugo --minify && npm run validate:specifications",
+    "validate:specifications": "node tools/specifications/validate-rendered.mjs",
     "css-watch": "tailwindcss -i ./src/input.css -o ./static/css/tailwind.css --watch"
   },
   "devDependencies": {

@@ -17,8 +17,12 @@ exporting the media catalogue, run this from the generator directory:
 dotnet run -- --languages=de --specs-only
 ```
 
-The generated markup uses the redesign's variant tabs, masonry specification
-cards and `spec-row` component.
+The generated markup uses the redesign's status-grouped variant selector,
+masonry specification cards and `spec-row` component.
+
+The production build runs `npm run validate:specifications` after Hugo. It
+fails if generated specification markup is accidentally rendered as `<pre>` or
+`<code>` blocks, which usually means Markdown interrupted a raw HTML block.
 
 ## One-time migration
 

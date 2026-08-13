@@ -13,13 +13,13 @@ navicon: bi-layout-text-sidebar-reverse
     <label for="spec-variant-select">Velg variant</label>
     <select id="spec-variant-select" data-spec-select>
       <optgroup label="Utg&#229;tt">
-        <option value="variant-9dbfb395bdd44c45859d863ec7c75b11" selected>Audi Q8 50 e-tron</option>
-        <option value="variant-e93b7fdb5a18464e97a5cb29cb1a8daa">Audi Q8 55 e-tron</option>
-        <option value="variant-617928534ef348798a4a15c7f99c78aa">Audi Q8 e-tron edition Dakar</option>
+        <option value="variant-9dbfb395bdd44c45859d863ec7c75b11" selected>Audi Q8 50 e-tron — MY2023, MY2024, MY2025</option>
+        <option value="variant-e93b7fdb5a18464e97a5cb29cb1a8daa">Audi Q8 55 e-tron — MY2023, MY2024, MY2025</option>
+        <option value="variant-617928534ef348798a4a15c7f99c78aa">Audi Q8 e-tron edition Dakar — MY2024, MY2025</option>
         <option value="variant-087b509edeec4de58a87113179790fac">Audi Q8 Sportback 50 e-tron — MY2022, MY2023, MY2024</option>
         <option value="variant-2e5ee497997045198898b10188da397d">Audi Q8 Sportback 55 e-tron — MY2022, MY2023, MY2024</option>
-        <option value="variant-a429ccf418744c92b364b45a1812fe37">Audi SQ8 e-tron</option>
-        <option value="variant-413ade08f53d4c968d956b202003d3c7">Audi SQ8 Sportback e-tron</option>
+        <option value="variant-a429ccf418744c92b364b45a1812fe37">Audi SQ8 e-tron — MY2023, MY2024, MY2025</option>
+        <option value="variant-413ade08f53d4c968d956b202003d3c7">Audi SQ8 Sportback e-tron — MY2023, MY2024, MY2025</option>
       </optgroup>
     </select>
   </div>
@@ -28,6 +28,7 @@ navicon: bi-layout-text-sidebar-reverse
       <h2 class="generated-specs__title">Audi Q8 50 e-tron</h2>
       <div class="generated-specs__meta">
         <span class="status-badge status-badge--ended">Utg&#229;tt</span>
+        <span class="generated-specs__years">MY2023, MY2024, MY2025</span>
       </div>
     </header>
     <div class="generated-specs__groups">
@@ -90,11 +91,11 @@ navicon: bi-layout-text-sidebar-reverse
       <section class="generated-specs__group">
         <h3>Bagasjekapasitet og tilhengerkapasitet</h3>
         <div class="generated-specs__group-body">
-      <div class="spec-row"><span class="spec-row__label">Egenvekt</span><strong class="spec-row__value">2370 kg (5225 lb)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Egenvekt</span><strong class="spec-row__value">2510 kg (5534 lb)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Tillatt totalvekt</span><strong class="spec-row__value">3040 kg (6702 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Maksimal nyttelast inkludert fører</span><strong class="spec-row__value">670 kg (1477 lb)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Maksimal nyttelast inkludert fører</span><strong class="spec-row__value">530 kg (1168 lb)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maks taklast</span><strong class="spec-row__value">75 kg (165 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet</span><strong class="spec-row__value">660 liter (23 ft³)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet</span><strong class="spec-row__value">569 liter (20 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet med alle bakseter slått ned</span><strong class="spec-row__value">1725 liter (61 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Frunk-volum</span><strong class="spec-row__value">60 liter (2 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maks tilhengervekt med brems</span><strong class="spec-row__value">1800 kg (3968 lb)</strong></div>
@@ -362,6 +363,7 @@ navicon: bi-layout-text-sidebar-reverse
       <h2 class="generated-specs__title">Audi Q8 55 e-tron</h2>
       <div class="generated-specs__meta">
         <span class="status-badge status-badge--ended">Utg&#229;tt</span>
+        <span class="generated-specs__years">MY2023, MY2024, MY2025</span>
       </div>
     </header>
     <div class="generated-specs__groups">
@@ -433,7 +435,7 @@ navicon: bi-layout-text-sidebar-reverse
       <div class="spec-row"><span class="spec-row__label">Tillatt totalvekt</span><strong class="spec-row__value">3170 kg (6989 lb)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maksimal nyttelast inkludert fører</span><strong class="spec-row__value">650 kg (1433 lb)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maks taklast</span><strong class="spec-row__value">75 kg (165 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet</span><strong class="spec-row__value">660 liter (23 ft³)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet</span><strong class="spec-row__value">569 liter (20 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet med alle bakseter slått ned</span><strong class="spec-row__value">1725 liter (61 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Frunk-volum</span><strong class="spec-row__value">60 liter (2 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maks tilhengervekt med brems</span><strong class="spec-row__value">1800 kg (3968 lb)</strong></div>
@@ -701,6 +703,7 @@ navicon: bi-layout-text-sidebar-reverse
       <h2 class="generated-specs__title">Audi Q8 e-tron edition Dakar</h2>
       <div class="generated-specs__meta">
         <span class="status-badge status-badge--ended">Utg&#229;tt</span>
+        <span class="generated-specs__years">MY2024, MY2025</span>
       </div>
     </header>
     <div class="generated-specs__groups">
@@ -1023,11 +1026,11 @@ navicon: bi-layout-text-sidebar-reverse
       <section class="generated-specs__group">
         <h3>Bagasjekapasitet og tilhengerkapasitet</h3>
         <div class="generated-specs__group-body">
-      <div class="spec-row"><span class="spec-row__label">Egenvekt</span><strong class="spec-row__value">2370 kg (5225 lb)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Egenvekt</span><strong class="spec-row__value">2510 kg (5534 lb)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Tillatt totalvekt</span><strong class="spec-row__value">3040 kg (6702 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Maksimal nyttelast inkludert fører</span><strong class="spec-row__value">670 kg (1477 lb)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Maksimal nyttelast inkludert fører</span><strong class="spec-row__value">530 kg (1168 lb)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maks taklast</span><strong class="spec-row__value">75 kg (165 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet</span><strong class="spec-row__value">660 liter (23 ft³)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet</span><strong class="spec-row__value">528 liter (19 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet med alle bakseter slått ned</span><strong class="spec-row__value">1725 liter (61 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Frunk-volum</span><strong class="spec-row__value">60 liter (2 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maks tilhengervekt med brems</span><strong class="spec-row__value">1800 kg (3968 lb)</strong></div>
@@ -1401,7 +1404,7 @@ navicon: bi-layout-text-sidebar-reverse
       <div class="spec-row"><span class="spec-row__label">Tillatt totalvekt</span><strong class="spec-row__value">3170 kg (6989 lb)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maksimal nyttelast inkludert fører</span><strong class="spec-row__value">650 kg (1433 lb)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maks taklast</span><strong class="spec-row__value">75 kg (165 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet</span><strong class="spec-row__value">660 liter (23 ft³)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet</span><strong class="spec-row__value">528 liter (19 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet med alle bakseter slått ned</span><strong class="spec-row__value">1725 liter (61 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Frunk-volum</span><strong class="spec-row__value">60 liter (2 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maks tilhengervekt med brems</span><strong class="spec-row__value">1800 kg (3968 lb)</strong></div>
@@ -1669,6 +1672,7 @@ navicon: bi-layout-text-sidebar-reverse
       <h2 class="generated-specs__title">Audi SQ8 e-tron</h2>
       <div class="generated-specs__meta">
         <span class="status-badge status-badge--ended">Utg&#229;tt</span>
+        <span class="generated-specs__years">MY2023, MY2024, MY2025</span>
       </div>
     </header>
     <div class="generated-specs__groups">
@@ -1990,6 +1994,7 @@ navicon: bi-layout-text-sidebar-reverse
       <h2 class="generated-specs__title">Audi SQ8 Sportback e-tron</h2>
       <div class="generated-specs__meta">
         <span class="status-badge status-badge--ended">Utg&#229;tt</span>
+        <span class="generated-specs__years">MY2023, MY2024, MY2025</span>
       </div>
     </header>
     <div class="generated-specs__groups">
@@ -2000,7 +2005,7 @@ navicon: bi-layout-text-sidebar-reverse
       <div class="spec-row"><span class="spec-row__label">Toppeffekt med boost</span><strong class="spec-row__value">370 Kw</strong></div>
       <div class="spec-row"><span class="spec-row__label">Elektrisk dreiemoment</span><strong class="spec-row__value">561 Nm (414 lb-ft)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Elektrisk dreiemoment med boost</span><strong class="spec-row__value">973 Nm</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Toppfart</span><strong class="spec-row__value">200 km/t (124 mph)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Toppfart</span><strong class="spec-row__value">210 km/t (131 mph)</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph)</span><strong class="spec-row__value">6,6 s</strong></div>
       <div class="spec-row"><span class="spec-row__label">0–100 km/t (0–62 mph) med boost</span><strong class="spec-row__value">4,5 s</strong></div>
         </div>
@@ -2059,7 +2064,7 @@ navicon: bi-layout-text-sidebar-reverse
       <div class="spec-row"><span class="spec-row__label">Tillatt totalvekt</span><strong class="spec-row__value">3290 kg (7253 lb)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maksimal nyttelast inkludert fører</span><strong class="spec-row__value">525 kg (1157 lb)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maks taklast</span><strong class="spec-row__value">75 kg (165 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet</span><strong class="spec-row__value">660 liter (23 ft³)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet</span><strong class="spec-row__value">528 liter (19 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Bagasjekapasitet med alle bakseter slått ned</span><strong class="spec-row__value">1725 liter (61 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Frunk-volum</span><strong class="spec-row__value">60 liter (2 ft³)</strong></div>
       <div class="spec-row"><span class="spec-row__label">Maks tilhengervekt med brems</span><strong class="spec-row__value">1800 kg (3968 lb)</strong></div>

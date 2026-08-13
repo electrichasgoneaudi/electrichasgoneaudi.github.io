@@ -205,10 +205,10 @@ navicon: bi-layout-text-sidebar-reverse
       <div class="spec-row"><span class="spec-row__label">Apple CarPlay support</span><strong class="spec-row__value">Not available</strong></div>
       <div class="spec-row"><span class="spec-row__label">In-car navigation</span><strong class="spec-row__value">Yes, standard equipment</strong></div>
       <div class="spec-row"><span class="spec-row__label">Available screen layouts</span><strong class="spec-row__value">1</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Digital driver display</span><strong class="spec-row__value">Yes, 10,25</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainment screen</span><strong class="spec-row__value">Yes, 21,4"</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Digital driver display</span><strong class="spec-row__value">Not available</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainment screen</span><strong class="spec-row__value">Not available</strong></div>
       <div class="spec-row"><span class="spec-row__label">Front passenger Infotainment screen</span><strong class="spec-row__value">Not available</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Rear passenger Infotainment screen</span><strong class="spec-row__value">Not available</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Rear passenger Infotainment screen</span><strong class="spec-row__value">Yes, 21,4"</strong></div>
         </div>
       </section>
       <section class="generated-specs__group">
@@ -408,10 +408,10 @@ navicon: bi-layout-text-sidebar-reverse
       <div class="spec-row"><span class="spec-row__label">Apple CarPlay support</span><strong class="spec-row__value">Not available</strong></div>
       <div class="spec-row"><span class="spec-row__label">In-car navigation</span><strong class="spec-row__value">Yes, standard equipment</strong></div>
       <div class="spec-row"><span class="spec-row__label">Available screen layouts</span><strong class="spec-row__value">1</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Digital driver display</span><strong class="spec-row__value">Yes, 10,25</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainment screen</span><strong class="spec-row__value">Yes, 21,4"</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Digital driver display</span><strong class="spec-row__value">Not available</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainment screen</span><strong class="spec-row__value">Not available</strong></div>
       <div class="spec-row"><span class="spec-row__label">Front passenger Infotainment screen</span><strong class="spec-row__value">Not available</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Rear passenger Infotainment screen</span><strong class="spec-row__value">Not available</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Rear passenger Infotainment screen</span><strong class="spec-row__value">Yes, 21,4"</strong></div>
         </div>
       </section>
       <section class="generated-specs__group">
@@ -612,10 +612,10 @@ navicon: bi-layout-text-sidebar-reverse
       <div class="spec-row"><span class="spec-row__label">Apple CarPlay support</span><strong class="spec-row__value">Not available</strong></div>
       <div class="spec-row"><span class="spec-row__label">In-car navigation</span><strong class="spec-row__value">Yes, standard equipment</strong></div>
       <div class="spec-row"><span class="spec-row__label">Available screen layouts</span><strong class="spec-row__value">1</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Digital driver display</span><strong class="spec-row__value">Yes, 10,25</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainment screen</span><strong class="spec-row__value">Yes, 21,4"</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Digital driver display</span><strong class="spec-row__value">Not available</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainment screen</span><strong class="spec-row__value">Not available</strong></div>
       <div class="spec-row"><span class="spec-row__label">Front passenger Infotainment screen</span><strong class="spec-row__value">Not available</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Rear passenger Infotainment screen</span><strong class="spec-row__value">Not available</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Rear passenger Infotainment screen</span><strong class="spec-row__value">Yes, 21,4"</strong></div>
         </div>
       </section>
       <section class="generated-specs__group">
@@ -813,10 +813,10 @@ navicon: bi-layout-text-sidebar-reverse
       <div class="spec-row"><span class="spec-row__label">Apple CarPlay support</span><strong class="spec-row__value">Not available</strong></div>
       <div class="spec-row"><span class="spec-row__label">In-car navigation</span><strong class="spec-row__value">Yes, standard equipment</strong></div>
       <div class="spec-row"><span class="spec-row__label">Available screen layouts</span><strong class="spec-row__value">1</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Digital driver display</span><strong class="spec-row__value">Yes, 10,25</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainment screen</span><strong class="spec-row__value">Yes, 21,4"</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Digital driver display</span><strong class="spec-row__value">Not available</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainment screen</span><strong class="spec-row__value">Not available</strong></div>
       <div class="spec-row"><span class="spec-row__label">Front passenger Infotainment screen</span><strong class="spec-row__value">Not available</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Rear passenger Infotainment screen</span><strong class="spec-row__value">Not available</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Rear passenger Infotainment screen</span><strong class="spec-row__value">Yes, 21,4"</strong></div>
         </div>
       </section>
       <section class="generated-specs__group">
@@ -1014,10 +1014,10 @@ navicon: bi-layout-text-sidebar-reverse
       <div class="spec-row"><span class="spec-row__label">Apple CarPlay support</span><strong class="spec-row__value">Not available</strong></div>
       <div class="spec-row"><span class="spec-row__label">In-car navigation</span><strong class="spec-row__value">Yes, standard equipment</strong></div>
       <div class="spec-row"><span class="spec-row__label">Available screen layouts</span><strong class="spec-row__value">1</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Digital driver display</span><strong class="spec-row__value">Yes, 10,25</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainment screen</span><strong class="spec-row__value">Yes, 21,4"</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Digital driver display</span><strong class="spec-row__value">Not available</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainment screen</span><strong class="spec-row__value">Not available</strong></div>
       <div class="spec-row"><span class="spec-row__label">Front passenger Infotainment screen</span><strong class="spec-row__value">Not available</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Rear passenger Infotainment screen</span><strong class="spec-row__value">Not available</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Rear passenger Infotainment screen</span><strong class="spec-row__value">Yes, 21,4"</strong></div>
         </div>
       </section>
       <section class="generated-specs__group">

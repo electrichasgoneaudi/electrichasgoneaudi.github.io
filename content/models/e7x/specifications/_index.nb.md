@@ -205,10 +205,10 @@ navicon: bi-layout-text-sidebar-reverse
       <div class="spec-row"><span class="spec-row__label">Apple CarPlay-støtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
       <div class="spec-row"><span class="spec-row__label">Innebygd navigasjon</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
       <div class="spec-row"><span class="spec-row__label">Tilgjengelige skjermoppsett</span><strong class="spec-row__value">1</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Digitalt instrumentpanel</span><strong class="spec-row__value">Ja, 10,25</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm</span><strong class="spec-row__value">Ja, 21,4"</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Digitalt instrumentpanel</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
       <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for forsetepassasjeren</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for baksetepassasjerene</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for baksetepassasjerene</span><strong class="spec-row__value">Ja, 21,4"</strong></div>
         </div>
       </section>
       <section class="generated-specs__group">
@@ -408,10 +408,10 @@ navicon: bi-layout-text-sidebar-reverse
       <div class="spec-row"><span class="spec-row__label">Apple CarPlay-støtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
       <div class="spec-row"><span class="spec-row__label">Innebygd navigasjon</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
       <div class="spec-row"><span class="spec-row__label">Tilgjengelige skjermoppsett</span><strong class="spec-row__value">1</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Digitalt instrumentpanel</span><strong class="spec-row__value">Ja, 10,25</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm</span><strong class="spec-row__value">Ja, 21,4"</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Digitalt instrumentpanel</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
       <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for forsetepassasjeren</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for baksetepassasjerene</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for baksetepassasjerene</span><strong class="spec-row__value">Ja, 21,4"</strong></div>
         </div>
       </section>
       <section class="generated-specs__group">
@@ -612,10 +612,10 @@ navicon: bi-layout-text-sidebar-reverse
       <div class="spec-row"><span class="spec-row__label">Apple CarPlay-støtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
       <div class="spec-row"><span class="spec-row__label">Innebygd navigasjon</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
       <div class="spec-row"><span class="spec-row__label">Tilgjengelige skjermoppsett</span><strong class="spec-row__value">1</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Digitalt instrumentpanel</span><strong class="spec-row__value">Ja, 10,25</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm</span><strong class="spec-row__value">Ja, 21,4"</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Digitalt instrumentpanel</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
       <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for forsetepassasjeren</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for baksetepassasjerene</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for baksetepassasjerene</span><strong class="spec-row__value">Ja, 21,4"</strong></div>
         </div>
       </section>
       <section class="generated-specs__group">
@@ -813,10 +813,10 @@ navicon: bi-layout-text-sidebar-reverse
       <div class="spec-row"><span class="spec-row__label">Apple CarPlay-støtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
       <div class="spec-row"><span class="spec-row__label">Innebygd navigasjon</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
       <div class="spec-row"><span class="spec-row__label">Tilgjengelige skjermoppsett</span><strong class="spec-row__value">1</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Digitalt instrumentpanel</span><strong class="spec-row__value">Ja, 10,25</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm</span><strong class="spec-row__value">Ja, 21,4"</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Digitalt instrumentpanel</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
       <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for forsetepassasjeren</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for baksetepassasjerene</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for baksetepassasjerene</span><strong class="spec-row__value">Ja, 21,4"</strong></div>
         </div>
       </section>
       <section class="generated-specs__group">
@@ -1014,10 +1014,10 @@ navicon: bi-layout-text-sidebar-reverse
       <div class="spec-row"><span class="spec-row__label">Apple CarPlay-støtte</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
       <div class="spec-row"><span class="spec-row__label">Innebygd navigasjon</span><strong class="spec-row__value">Ja, standardutstyr</strong></div>
       <div class="spec-row"><span class="spec-row__label">Tilgjengelige skjermoppsett</span><strong class="spec-row__value">1</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Digitalt instrumentpanel</span><strong class="spec-row__value">Ja, 10,25</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm</span><strong class="spec-row__value">Ja, 21,4"</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Digitalt instrumentpanel</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
       <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for forsetepassasjeren</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for baksetepassasjerene</span><strong class="spec-row__value">Ikke tilgjengelig</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainmentskjerm for baksetepassasjerene</span><strong class="spec-row__value">Ja, 21,4"</strong></div>
         </div>
       </section>
       <section class="generated-specs__group">
