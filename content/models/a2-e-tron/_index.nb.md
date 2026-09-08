@@ -1,157 +1,129 @@
 ---
 title: Audi A2 e-tron
 linktitle: Audi A2 e-tron
-description: Audi A2 e-tron er en kompakt bakhjulsdrevet elbil som bygges i Ingolstadt. Prototypekjøringen avslører svært lavt forbruk, LFP-batteri og toveis lading før premieren høsten 2026.
+description: Audi A2 e-tron ble lansert 7. september 2026. En kompakt bakhjulsdrevet kombi bygget i Ingolstadt med inntil 646 km WLTP-rekkevidde, luftmotstand på 0,24 og norsk startpris på 359 900 kroner.
 weight: 9
 shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 
-Audi annonserte **Audi A2 e-tron** 17. mars 2026. Den kompakte elbilen gjenoppliver et modellnavn forbundet med effektiv plassutnyttelse og lavt energiforbruk, og blir Audis nye inngangsmodell for elektrisk mobilitet.
+**Audi A2 e-tron** hadde verdenspremiere i **Paris 7. september 2026**, presentert av Audi-sjef Gernot Döllner som merkets nye elektriske inngangsmodell. Den gjenoppliver et modellnavn som for 26 år siden sto for effektiv utnyttelse av plassen og lavt forbruk, og bruker den samme tanken på en moderne elbil.
 
-I august 2026 publiserte Audi de første detaljerte tekniske opplysningene og lot journalister kjøre kamuflerte prototyper. Den testede **bakhjulsdrevne 140 kW-versjonen med Efficiency-pakken som tilvalg** har et foreløpig WLTP-forbruk på **12,8 kWh/100 km**. Det gjør den til den mest energieffektive Audi-modellen hittil.
+{{< evkxfiguresized thumb="models/audi/a2_e-tron/a2_e-tron_240_kw/main_d8104_st.webp" width="3000" height="2250" title="Audi A2 e-tron" >}}
 
-Verdenspremiere og bestillingsstart er planlagt **høsten 2026**. Produksjonen skjer ved Audis hovedfabrikk i **Ingolstadt i Tyskland**, og de første leveringene skal starte før utgangen av 2026.
+Bestillingen åpner **10. september 2026**, med norsk startpris fra **359 900 kroner** og tysk startpris fra **38 200 euro**. De første bilene kommer til kundene i **desember 2026**. Produksjonen foregår ved Audis hovedfabrikk i **Ingolstadt i Tyskland**, på rundt 110 000 kvadratmeter ombygd areal som gjenbruker mer enn 1 200 eksisterende installasjoner og omtrent 250 ombygde roboter.
 
 ---
 
-## Viktigste prototypedata
+## Hvorfor dette er viktig
 
-| Spesifikasjon | Audi A2 e-tron 140 kW med Efficiency-pakke |
+Audi har bygget A2 e-tron rundt ett ledende prinsipp: effektivitet. Döllner beskrev det som et bevisst brudd med tanken om at premium bare betyr mer effekt, mer størrelse og mer ressursbruk. Resultatet er **den mest effektive Audien som er bygget** — med et hovedtall på **12,8 kWh/100 km inkludert ladetap** for 140 kW-versjonen med effektivitetspakken — og en **luftmotstandskoeffisient på 0,24**, den beste verdien i Audis kompaktprogram og på nivå med e-tron GT.
+
+Det er effektiviteten som gjør rekkeviddetallene mulige. 170 kW-versjonen med 84 kWh-batteriet kjører inntil **646 km WLTP**, et tall som vanligvis er forbeholdt langt større og langt dyrere elbiler.
+
+---
+
+## Modellutvalget ved lansering
+
+| | 125 kW | 140 kW | 170 kW | 240 kW |
+|---|---:|---:|---:|---:|
+| Effekt | 125 kW (170 hk) | 140 kW (190 hk) | 170 kW (231 hk) | 240 kW (326 hk) |
+| Dreiemoment | 350 Nm | 350 Nm | 350 Nm | 545 Nm |
+| Motorenhet | APP350 | APP350 | APP350 | APP550 |
+| Batteri brutto / netto | 52 / 50 kWh | 61 / 58 kWh | 84 / 79 kWh | 84 / 79 kWh |
+| Cellekjemi | LFP | LFP | NMC | NMC |
+| WLTP-rekkevidde | inntil 423 km | inntil 515 km | inntil 646 km | inntil 630 km |
+| WLTP-forbruk | 11,8 kWh/100 km | 11,3 kWh/100 km | 12,2 kWh/100 km | 12,5 kWh/100 km |
+| Maks DC-lading | 100 kW | 105 kW | 183 kW | 183 kW |
+| DC 10–80 % | 24 min | 26 min | 29 min | 29 min |
+| 0–100 km/t | 8,8 s | 7,9 s | 7,0 s | 5,7 s |
+| Toppfart | 160 km/t | 160 km/t | 160 km/t | 200 km/t |
+| Egenvekt | 1 915 kg | 1 915 kg | 1 985 kg | 2 005 kg |
+| Tyskland fra | 38 200 € | 41 900 € | 48 900 € | 51 200 € |
+
+Alle versjoner er **bakhjulsdrevne**, og alle har energiklasse A. I Norge tilbys 140, 170 og 240 kW, solgt som **A2 e-tron**, **A2 e-tron performance** og **A2 e-tron performance plus**.
+
+→ [Alle varianter, priser og utstyr](./variants/)
+
+---
+
+## Mål
+
+| Mål | Verdi |
 |---|---:|
-| Drift | Bakhjulsdrift |
-| Effekt | 140 kW (190 hk) |
-| Batterikjemi | Litium-jernfosfat (LFP) |
-| Batterikapasitet | 61 kWh brutto / 58 kWh netto |
-| Foreløpig WLTP-forbruk | 12,8 kWh/100 km |
+| Lengde | 4 324 mm |
+| Bredde uten speil | 1 789 mm |
+| Bredde med speil | 2 039 mm |
+| Høyde | 1 583 mm |
+| Akselavstand | 2 770 mm |
 | Luftmotstandskoeffisient | 0,24 |
-| Maksimal DC-ladeeffekt | 105 kW |
-| DC-lading, 10–80 % | 26 minutter |
-| Toveis lading | Vehicle-to-Load og Vehicle-to-Home |
+| Snusirkel | 11,0 m |
+| Bagasjerom | 396 l / 1 336 l med baksetene nedfelt |
+| Frunk | 13 l (170 kW og 240 kW) |
+| Hengervekt, med / uten brems | 1 600 kg / 750 kg |
 
-Tallene gjelder spesifikt 140 kW-prototypen med Efficiency-pakken. Fullstendige sertifiserte data for hele modellutvalget kommer ved verdenspremieren.
-
----
-
-## Dette avslørte prototypekjøringen
-
-Prototypene i presseprøvekjøringen kombinerte den **140 kW sterke APP350-motoren bak** med et LFP-batteri på 58 kWh netto. Publiserte prøvekjøringer viste et forbruk på omtrent **12–14 kWh/100 km**, avhengig av rute og kjørestil. På én 134 km lang tur viste kjørecomputeren **12,1 kWh/100 km** ved en gjennomsnittsfart på 51 km/t, mens mer dynamisk kjøring ga et forbruk nærmere 14 kWh/100 km.
-
-Dette er tall fra kjørecomputeren i førproduksjonsbiler, ikke standardiserte eller uavhengig sertifiserte rekkeviddetester. De støtter likevel Audis foreløpige WLTP-tall på 12,8 kWh/100 km og viser at A2 e-tron prioriterer effektivitet fremfor spektakulære ytelser.
-
-De første prøvekjøringene beskriver bilen som stillegående og raffinert, med bedre støydemping enn de nært beslektede Volkswagen-modellene. Bakhjulsdriften gir jevne og forutsigbare ytelser fremfor en utpreget sportslig karakter. Endelig fjæringsoppsett og ytelsesdata kan fortsatt endres før produksjonsstart.
-
-{{< sitefiguresized thumb="models/a2-e-tron/prototype_exterior_4_st.webp" width="3000" height="1997" title="Audi A2 e-tron-prototype under prøvekjøring" >}}
+Den lange akselavstanden i en 4,3 meter lang bil er det som gjør at kupeen føles en klasse større enn ytre mål tilsier — det samme trikset den opprinnelige A2 brukte i 1999.
 
 ---
 
-## MEB-plattform og bakhjulsdrift
+## Design
 
-Prototypekjøringen bekrefter at A2 e-tron bruker Volkswagen-konsernets **MEB-arkitektur**, som deles med nye Volkswagen ID.3 og Cupra Born. Dette korrigerer tidligere antakelser om at bilen kunne bruke den mindre, forhjulsdrevne plattformen utviklet for blant annet Volkswagen ID. Polo.
+Eksteriøret er en ny tolkning av den opprinnelige A2-ens monovolum-silhuett i merkbart større format: en avrundet front, et langt flytende tak, korte overheng og en skarpt avskåret bak med **delt bakrute**. Nesten alle flater er aerodynamisk begrunnet, fra aktive kjøleluftlameller og luftgardiner til gap reducers integrert i hjulbuelistene, en i stor grad lukket bunnplate og elektriske dørhåndtak som ligger flush med karosseriet.
 
-Audi har bekreftet to motorenheter plassert på bakakselen:
+{{< evkxfiguresized thumb="models/audi/a2_e-tron/a2_e-tron_240_kw/exterior_1aa55_st.webp" width="3000" height="2250" title="Audi A2 e-tron" >}}
 
-- **APP350:** brukes i versjonene med lavere effekt, med opptil 170 kW og 350 Nm
-- **APP550:** brukes i den kraftigste versjonen, med opptil 240 kW og 545 Nm
+To eksteriørlinjer tilbys: en tilbakeholden grunnutgave og en sportsligere **S line** med markante støtfangere og svarte designelementer. Seks lakkfarger er tilgjengelige ved lansering, blant dem de nye Horizon blue, Arrow gray og Pistachio green.
 
-Audi har tidligere publisert fire effektnivåer på **125, 140, 170 og 240 kW**. Endelige markedsspesifikke varianter og ytelsesdata bekreftes ved lanseringen.
-
-APP350 er optimalisert for effektivitet med:
-
-- Silisiumkarbid-halvledere som reduserer koblingstap
-- Tynnere 0,2 mm lameller i motoren for å redusere jerntap
-- Trekantkoblet statorvikling som flytter driften til mer effektive turtallsområder
-- Girolje med lav friksjon
-- Lang utveksling på 10,2:1 som senker motorturtallet ved høyere hastigheter
-
-Audi oppgir at den videreutviklede drivlinjen er opptil **10 % mer effektiv** enn den tidligere konstruksjonen.
-
-{{< sitefiguresized thumb="models/a2-e-tron/prototype_exterior_st.webp" width="3000" height="1997" title="Sideprofil av den kamuflerte Audi A2 e-tron" >}}
+→ [Alt om eksteriøret: farger, felger, lys og aerodynamikk](./exterior/)
 
 ---
 
-## LFP-batteri og lading
+## Interiør
 
-140 kW-modellen bruker et **LFP-batteri på 61 kWh brutto og 58 kWh netto**. De prismatiske cellene er limt direkte inn i huset i en cell-to-pack-konstruksjon. Det gir bedre pakketetthet og gjør batteriet lavere.
+Innvendig er det definerende elementet **Softwrap** — en myk, stoffkledd flate som går fra instrumentpanelet, over dørene og videre inn i baksetet. Standard **MMI panoramadisplay** kombinerer et 11,9 tommers Audi virtual cockpit plus med en 12,8 tommers buet MMI-berøringsskjerm, og et head-up-display med utvidet virkelighet er tilvalg.
 
-LFP-kjemien inneholder verken nikkel eller kobolt og er utviklet for lang levetid. Audi oppgir at batteriet kan lades regelmessig til 100 % uten den daglige ladegrensen som ofte anbefales for nikkelbaserte batterier.
+{{< evkxfiguresized thumb="models/audi/a2_e-tron/a2_e-tron_240_kw/interior_d398f_st.webp" width="3000" height="2250" title="Audi A2 e-tron interiør" >}}
 
-Maksimal DC-ladeeffekt er **105 kW**, og oppgitt ladetid fra **10 til 80 % er 26 minutter**. Audi oppgir også en virkningsgrad på **89,6 %** ved AC-lading, en forbedring på 1,3 prosentpoeng oppnådd med revidert kjøling og styringsprogramvare.
+Audi er den første premiumprodusenten som monterer det patenterte magnetiske festesystemet **Fidlock** som standard, med inntil tre festepunkter på midtkonsollen og tre til i bagasjerommet for koppholdere, vesker og ladekabelposer. Et panoramaglasstak med 1,6 kvadratmeter glass og UV-beskyttende belegg er tilvalg.
 
-Batteristørrelse, kjemi og ladeegenskaper for de andre effektvariantene er ennå ikke offisielt detaljert.
-
-{{< sitefiguresized thumb="models/a2-e-tron/prototype_charging_st.webp" width="3000" height="1997" title="Audi A2 e-tron-prototyper ved en hurtigladestasjon" >}}
+→ [Alt om interiøret: seter, materialer, oppbevaring og lydanlegg](./interior/)
 
 ---
 
-## Toveis lading
+## Drivlinje og lading
 
-A2 e-tron støtter to måter å levere energi fra fremdriftsbatteriet på:
+A2 e-tron bruker **MEB+-plattformen** med en permanentmagnetisert synkronmotor bak. **APP350** brukes i 125-, 140- og 170 kW-versjonene, mens 240 kW-toppmodellen har den kraftigere **APP550**. Audis reviderte motorenhet arbeider inntil **10 % mer effektivt** enn forrige generasjon, takket være silisiumkarbid-elektronikk, tynnere 0,2 mm lameller, deltakoblet statorvikling, lavfriksjonsolje i giret og en lang utveksling på 10,2:1.
 
-- **Vehicle-to-Load (V2L):** driver eksternt utstyr via en kontakt i bagasjerommet eller en adapter i ladeporten
-- **Vehicle-to-Home (V2H):** leverer energi til et kompatibelt elektrisk anlegg i boligen med en veggboks anbefalt av Audi
+De to LFP-pakkene bruker cell-to-pack-konstruksjon der prismatiske celler limes direkte inn i huset, og cellekjemien tåler daglig lading til 100 % uten begrensningen som vanligvis anbefales for nikkelbaserte celler. Den 84 kWh store NMC-pakken er modulær og lader med inntil 183 kW. **Toveislading** støttes gjennom Vehicle-to-Load, og gjennom Vehicle-to-Home i Tyskland, Østerrike og Sveits.
 
-V2H er i første omgang planlagt for Tyskland, Østerrike og Sveits. Tilgjengelighet i andre markeder er ikke annonsert.
+{{< evkxfiguresized thumb="models/audi/a2_e-tron/a2_e-tron_240_kw/chassis_6d454_st.webp" width="3000" height="2121" title="Audi A2 e-tron understell og drivlinje" >}}
 
----
-
-## Aerodynamikk og design
-
-Den A2-inspirerte silhuetten er funksjonell, ikke bare stilistisk. Den avrundede fronten, den lange, flytende taklinjen og den skarpt definerte hekken bidrar til en **luftmotstandskoeffisient på 0,24** for bilen med Efficiency-pakke. Audi oppgir at aerodynamikktiltakene reduserer WLTP-forbruket med opptil **0,9 kWh/100 km** sammenlignet med samme bil uten tiltakene.
-
-Viktige detaljer omfatter:
-
-- Aktive kjøleluftspjeld som holdes lukket når ekstra kjøling ikke er nødvendig
-- Air Curtains som leder luftstrømmen forbi forhjulene
-- Gap Reducer- og Gap Breather-elementer rundt hjulbuene
-- Aerodynamisk optimaliserte felger og dekk med lav rullemotstand
-- Nesten helt lukket understell med jevne overganger mot diffusoren bak
-- Takspoiler og delt bakrute som nytolker originalmodellen
-- Kompakte elektroniske winglet-døråpnere med mekanisk nødåpning fra innsiden
-
-{{< sitefiguresized thumb="models/a2-e-tron/prototype_exterior_3_st.webp" width="3000" height="1997" title="Aerodynamiske hjul- og frontdetaljer på Audi A2 e-tron-prototypen" >}}
-
-Produksjonsdesignet er fortsatt kamuflert, men prototypen viser tydelig en femdørs kombi med korte overheng, lang akselavstand og en høy, plasseffektiv kupé.
+→ [Alt om drivlinjen: motorer, batterier, lading og understell](./drivetrain/)
 
 ---
 
-## Interiør og praktiske egenskaper
+## Teknologi
 
-Audi holdt store deler av prototypeinteriøret tildekket under presseprøvekjøringen. Journalistene kunne likevel bekrefte et bredt digitalt skjermoppsett, Audis nyeste multifunksjonsbetjening på rattstammen, Audi-programvare og et tilgjengelig head-up-display med utvidet virkelighet. Enkelte fysiske betjeningselementer beholdes, men det endelige dashbordet er ikke vist.
+Nødbremseassistent, unnamanøverassistent, oppmerksomhetsassistent, adaptiv cruisekontroll, parkeringsassistent plus og ryggekamera er standard på alle A2 e-tron. Tilvalgene omfatter adaptiv cruiseassistent plus med nødassistent, kryssende trafikk-assistent foran, 360-graders kamera med 3D-visning, parkeringsassistent plus med fjernstyring fra mobilen, innlært parkering for inntil fem manøvre og ryggeassistent som gjenskaper omtrent 50 meter.
 
-Rapportene fra baksetet beskriver hode- og benplassen som god i forhold til det kompakte fotavtrykket og omtrent på nivå med ID.3. Elektrisk bakluke blir tilgjengelig. Eksakte mål, bagasjeromsvolum, skjermstørrelser og den endelige utstyrsstrukturen er fortsatt ikke bekreftet.
+Infotainmentet kjører Audis nåværende programvare med en AI-basert Audi assistant, e-tron ruteplanlegger med prediktiv ladeplanlegging og Audi connected work for Outlook og Teams.
 
----
-
-## Rekkevidde, varianter og pris
-
-Audi publiserte kort en maksimal rekkevidde på **opptil 649 km WLTP** og en tysk startpris på **38 200 euro**, før opplysningene ble fjernet fra modellsiden før lansering. Begge tall bør regnes som foreløpige frem til endelig homologert rekkevidde og prisliste foreligger.
-
-Audis svenske modellside viser foreløpig to lanseringsspesifikasjoner:
-
-- **Proline:** 125 kW, LED-lys, navigasjon og infotainment, adaptiv kjøreassistent og parkeringspakke
-- **S line:** 140 kW, Matrix LED-frontlys, elektrisk bakluke, komfortnøkkel og oppgradert eksteriør
-
-Batteri- og rekkeviddetall for de enkelte utstyrsnivåene er ennå ikke oppgitt. Versjoner med 170 og 240 kW forventes å komme senere eller bli nærmere beskrevet ved verdenspremieren.
+→ [Alt om teknologien: assistentsystemer, sensorer og tilkobling](./technology/)
 
 ---
 
-## Dette er fortsatt ikke avslørt
+## Dette er fortsatt ukjent
 
-- Sertifisert WLTP-rekkevidde og forbruk for alle versjoner
-- Batterikapasitet og ladekurve for variantene med 125, 170 og 240 kW
-- Akselerasjon, toppfart og hengervekt
-- Utvendige mål, vekt og bagasjeromsvolum
-- Endelig interiørdesign, skjermstørrelser og tilvalgsstruktur
-- Priser og utstyr for markeder utenfor Tyskland
+- Priser og utstyr marked for marked utenfor Tyskland og Norge
+- Fullstendige priser på tilvalg og pakker
+- Uavhengige målinger av reell rekkevidde og ladekurve
 
 ---
 
 ## Kilder
 
-- [Audi: A2 e-tron setter en ny standard for effektivitet](https://www.audi.com/de/pressemitteilungen/a2-e-tron-setzt-neuen-effizienzstandard-bei-audi-18196)
-- [Audi: batteriteknologi og toveis lading](https://www.audi.com/de/artikel/mehr-als-nur-ein-energiespeicher-die-batterie-des-audi-a2-e-tron-18192)
-- [Audi: aerodynamikk, rekkevidde og effektivitet](https://www.audi.com/de/artikel/a2-e-tron-wie-aerodynamik-reichweite-und-effizienz-verbessert-18191)
-- [Audi Sverige: foreløpige lanseringsversjoner og utstyr](https://www.audi.se/sv/models/a2-e-tron/a2-e-tron/)
-- [Auto Express: prøvekjøring av Audi A2 e-tron-prototypen](https://www.autoexpress.co.uk/audi/a2/370130/new-audi-a2-e-tron-prototype-review-radical-looking-ev-shows-promise)
-- [Sammendrag av prototypedata fra Motoreport](https://www.reddit.com/r/EuroEV/comments/1vf42i8/motoreport_audi_a2_etron_prototype_test/)
+- [Audi: A2 e-tron — Rethinking efficiency](https://www.audi.com/en/press-releases/audi-a2-e-tron-rethinking-efficiency-18299)
+- [Audi-sjef Gernot Döllner om A2 e-tron](https://www.audi.com/en/press-releases/audi-ceo-gernot-doellner-a2-e-tron-makes-e-mobility-easier-more-efficient-and-more-convincing-for-everyday-life-18309)
+- [Audi: A2 e-tron sets new efficiency benchmark at Audi](https://www.audi.com/en/press-releases/a2-e-tron-sets-new-efficiency-benchmark-at-audi-18196)
+- [Audi Norge / NTB: 645 kilometers rekkevidde — her er nye Audi A2 e-tron](https://kommunikasjon.ntb.no/pressemelding/19053020/645-kilometers-rekkevidde-her-er-nye-audi-a2-e-tron?lang=no)
+- [electrive: Audi returns to efficiency for its A2 e-tron premiere](https://www.electrive.com/2026/09/07/audi-returns-to-efficiency-for-its-audi-a2-e-tron-premiere/)

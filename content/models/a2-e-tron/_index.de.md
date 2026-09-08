@@ -1,158 +1,130 @@
 ---
-title: "Audi A2 e-tron"
-linktitle: "Audi A2 e-tron"
-description: "Der Audi A2 e-tron ist ein kompakter Elektro-Hecktriebler aus Ingolstadt. Die Prototypenfahrt zeigt hohe Effizienz, LFP-Batterie und bidirektionales Laden vor der Premiere im Herbst 2026."
+title: Audi A2 e-tron
+linktitle: Audi A2 e-tron
+description: Der Audi A2 e-tron wurde am 7. September 2026 vorgestellt. Ein kompakter Hecktriebler aus Ingolstadt mit bis zu 646 km WLTP-Reichweite, einem cw-Wert von 0,24 und Preisen ab 38.200 Euro.
 weight: 9
 shownavtabs: true
 translation_status: manual
 ---
 <!-- markdownlint-disable MD033 -->
 
-Audi kündigte den **Audi A2 e-tron** am 17. März 2026 an. Das kompakte Elektroauto greift einen Modellnamen wieder auf, der für effiziente Raumnutzung und niedrigen Energieverbrauch steht, und wird der neue Einstieg in die elektrische Modellpalette von Audi.
+Der **Audi A2 e-tron** feierte am **7. September 2026 in Paris** seine Weltpremiere, vorgestellt von Audi-CEO Gernot Döllner als neuer elektrischer Einstieg der Marke. Er lässt einen Modellnamen wiederaufleben, der vor 26 Jahren für effiziente Raumausnutzung und niedrigen Verbrauch stand — und überträgt dieselbe Idee auf ein modernes batterieelektrisches Kompaktauto.
 
-Im August 2026 veröffentlichte Audi erste detaillierte technische Informationen und ließ Journalisten getarnte Prototypen fahren. Die getestete **140-kW-Version mit Heckantrieb und optionalem Effizienzpaket** weist einen vorläufigen WLTP-Verbrauch von **12,8 kWh/100 km** auf. Damit ist sie der bisher energieeffizienteste Audi.
+{{< evkxfiguresized thumb="models/audi/a2_e-tron/a2_e-tron_240_kw/main_d8104_st.webp" width="3000" height="2250" title="Audi A2 e-tron" >}}
 
-Weltpremiere und Bestellstart sind für **Herbst 2026** geplant. Die Produktion findet im Audi Stammwerk in **Ingolstadt** statt, die ersten Auslieferungen sollen noch 2026 beginnen.
+Der **Bestellstart ist am 10. September 2026**, die Preise in Deutschland beginnen bei **38.200 Euro**, in Norwegen bei **359.900 NOK**. Die ersten Fahrzeuge erreichen die Kunden im **Dezember 2026**. Gebaut wird im Audi-Stammwerk **Ingolstadt** auf rund 110.000 Quadratmetern umgebauter Fläche, die mehr als 1.200 bestehende Anlagen und etwa 250 umgerüstete Roboter weiternutzt.
 
 ---
 
-## Wichtigste Prototypendaten
+## Warum das Modell zählt
 
-| Spezifikation | Audi A2 e-tron 140 kW mit Effizienzpaket |
+Audi hat den A2 e-tron um ein einziges Leitprinzip herum entwickelt: Effizienz. Döllner beschrieb das als bewussten Bruch mit der Vorstellung, Premium bedeute schlicht mehr Leistung, mehr Größe und mehr Ressourcen. Das Ergebnis ist der **effizienteste Audi, der je gebaut wurde** — mit einem Spitzenwert von **12,8 kWh/100 km inklusive Ladeverlusten** für die 140-kW-Version mit Effizienzpaket — und einem **cw-Wert von 0,24**, dem Bestwert im Audi-Kompaktsegment und auf Augenhöhe mit dem e-tron GT.
+
+Diese Effizienz macht die Reichweiten erst möglich. Die 170-kW-Version mit der 84-kWh-Batterie kommt bis zu **646 km nach WLTP** weit — ein Wert, der sonst deutlich größeren und erheblich teureren Elektroautos vorbehalten ist.
+
+---
+
+## Das Modellprogramm zum Marktstart
+
+| | 125 kW | 140 kW | 170 kW | 240 kW |
+|---|---:|---:|---:|---:|
+| Leistung | 125 kW (170 PS) | 140 kW (190 PS) | 170 kW (231 PS) | 240 kW (326 PS) |
+| Drehmoment | 350 Nm | 350 Nm | 350 Nm | 545 Nm |
+| Antriebseinheit | APP350 | APP350 | APP350 | APP550 |
+| Batterie brutto / netto | 52 / 50 kWh | 61 / 58 kWh | 84 / 79 kWh | 84 / 79 kWh |
+| Zellchemie | LFP | LFP | NMC | NMC |
+| WLTP-Reichweite | bis zu 423 km | bis zu 515 km | bis zu 646 km | bis zu 630 km |
+| WLTP-Verbrauch | 11,8 kWh/100 km | 11,3 kWh/100 km | 12,2 kWh/100 km | 12,5 kWh/100 km |
+| Max. DC-Ladeleistung | 100 kW | 105 kW | 183 kW | 183 kW |
+| DC 10–80 % | 24 min | 26 min | 29 min | 29 min |
+| 0–100 km/h | 8,8 s | 7,9 s | 7,0 s | 5,7 s |
+| Höchstgeschwindigkeit | 160 km/h | 160 km/h | 160 km/h | 200 km/h |
+| Leergewicht | 1.915 kg | 1.915 kg | 1.985 kg | 2.005 kg |
+| Deutschland ab | 38.200 € | 41.900 € | 48.900 € | 51.200 € |
+
+Alle Versionen sind **Hecktriebler** und in **Energieeffizienzklasse A** eingestuft.
+
+→ [Alle Varianten, Preise und Ausstattung](./variants/)
+
+---
+
+## Abmessungen
+
+| Maß | Wert |
 |---|---:|
-| Antrieb | Hinterradantrieb |
-| Leistung | 140 kW (190 PS) |
-| Batteriechemie | Lithium-Eisenphosphat (LFP) |
-| Batteriekapazität | 61 kWh brutto / 58 kWh netto |
-| Vorläufiger WLTP-Verbrauch | 12,8 kWh/100 km |
-| Luftwiderstandsbeiwert | 0,24 |
-| Maximale DC-Ladeleistung | 105 kW |
-| DC-Laden, 10–80 % | 26 Minuten |
-| Bidirektionales Laden | Vehicle-to-Load und Vehicle-to-Home |
+| Länge | 4.324 mm |
+| Breite ohne Spiegel | 1.789 mm |
+| Breite mit Spiegeln | 2.039 mm |
+| Höhe | 1.583 mm |
+| Radstand | 2.770 mm |
+| cw-Wert | 0,24 |
+| Wendekreis | 11,0 m |
+| Gepäckraum | 396 l / 1.336 l bei umgeklappter Rückbank |
+| Frunk | 13 l (170 kW und 240 kW) |
+| Anhängelast, gebremst / ungebremst | 1.600 kg / 750 kg |
 
-Diese Daten gelten speziell für den 140-kW-Prototypen mit Effizienzpaket. Die vollständigen zertifizierten Angaben für die gesamte Baureihe folgen zur Weltpremiere.
-
----
-
-## Erkenntnisse aus der Prototypenfahrt
-
-Die Fahrzeuge der Pressefahrt kombinierten den **140 kW starken APP350-Heckmotor** mit der LFP-Batterie mit 58 kWh nutzbarer Kapazität. Veröffentlichte Testfahrten ergaben je nach Strecke und Fahrweise ungefähr **12 bis 14 kWh/100 km**. Auf einer 134 km langen Fahrt zeigte der Bordcomputer bei einer Durchschnittsgeschwindigkeit von 51 km/h **12,1 kWh/100 km** an; bei dynamischerer Fahrweise lag der Wert näher an 14 kWh/100 km.
-
-Dabei handelt es sich um Bordcomputerwerte von Vorserienfahrzeugen, nicht um standardisierte oder unabhängig zertifizierte Reichweitentests. Sie stützen jedoch den vorläufigen WLTP-Wert von 12,8 kWh/100 km und zeigen, dass beim A2 e-tron Effizienz wichtiger ist als spektakuläre Leistungsdaten.
-
-Erste Fahrberichte beschreiben das Auto als leise und kultiviert, mit besserer Geräuschdämmung als die technisch eng verwandten Volkswagen-Modelle. Der Heckantrieb bietet eine gleichmäßige, berechenbare Leistungsentfaltung statt eines ausgeprägt sportlichen Charakters. Die endgültige Fahrwerksabstimmung und die Fahrleistungswerte können sich bis zum Produktionsstart noch ändern.
-
-{{< sitefiguresized thumb="models/a2-e-tron/prototype_exterior_4_st.webp" width="3000" height="1997" title="Audi A2 e-tron Prototyp bei der Fahrerprobung" >}}
+Der lange Radstand in einer 4,3 Meter langen Karosserie sorgt dafür, dass sich der Innenraum eine Klasse größer anfühlt, als es die Außenmaße vermuten lassen — genau der Trick, den schon der erste A2 im Jahr 1999 beherrschte.
 
 ---
 
-## MEB-Plattform und Hinterradantrieb
+## Design
 
-Die Prototypenfahrt bestätigt, dass der A2 e-tron auf dem **Modularen E-Antriebs-Baukasten (MEB)** des Volkswagen Konzerns basiert. Die Architektur teilt er mit dem neuen Volkswagen ID.3 und Cupra Born. Damit sind frühere Annahmen widerlegt, das Auto könne die kleinere Frontantriebsplattform von Modellen wie dem Volkswagen ID. Polo nutzen.
+Das Exterieur interpretiert die Monovolumen-Silhouette des ursprünglichen A2 in deutlich größerem Maßstab: eine gerundete Front, ein langes, fließendes Dach, kurze Überhänge und ein scharf abgeschnittenes Heck mit **geteilter Heckscheibe**. Fast jede Fläche ist aerodynamisch begründet — von aktiven Kühlluftjalousien und Air Curtains über Gap Reducer in den Radhausverkleidungen bis zu einem weitgehend geschlossenen Unterboden und bündig eingelassenen elektrischen Türöffnern mit haptischen Sensoren.
 
-Audi hat zwei Antriebseinheiten an der Hinterachse bestätigt:
+{{< evkxfiguresized thumb="models/audi/a2_e-tron/a2_e-tron_240_kw/exterior_1aa55_st.webp" width="3000" height="2250" title="Audi A2 e-tron" >}}
 
-- **APP350:** für die niedrigeren Leistungsstufen, mit bis zu 170 kW und 350 Nm
-- **APP550:** für die stärkste Version, mit bis zu 240 kW und 545 Nm
+Zwei Exterieurlinien stehen zur Wahl: eine zurückhaltend gestaltete Basis und die sportlichere **S line** mit markanten Stoßfängern und schwarzen Designelementen. Sechs Lackfarben sind zum Marktstart erhältlich, darunter die neuen Farben Horizon blue, Arrow gray und Pistachio green.
 
-Audi veröffentlichte zuvor vier Leistungsstufen mit **125, 140, 170 und 240 kW**. Die endgültigen marktspezifischen Varianten und Fahrleistungswerte werden zum Marktstart bestätigt.
-
-Der APP350 wurde mit folgenden Maßnahmen auf Effizienz optimiert:
-
-- Siliziumkarbid-Halbleiter zur Verringerung der Schaltverluste
-- Dünnere, 0,2 mm starke Motorlamellen zur Reduzierung der Eisenverluste
-- Dreieckschaltung der Statorwicklung für effizientere Drehzahlbereiche
-- Reibungsarmes Getriebeöl
-- Lange Übersetzung von 10,2:1 zur Senkung der Motordrehzahl bei höherem Tempo
-
-Laut Audi arbeitet der weiterentwickelte Antrieb bis zu **10 % effizienter** als die vorherige Konstruktion.
-
-{{< sitefiguresized thumb="models/a2-e-tron/prototype_exterior_st.webp" width="3000" height="1997" title="Seitenansicht des getarnten Audi A2 e-tron" >}}
+→ [Alles zum Exterieur: Farben, Räder, Licht und Aerodynamik](./exterior/)
 
 ---
 
-## LFP-Batterie und Laden
+## Interieur
 
-Das 140-kW-Modell besitzt eine **LFP-Batterie mit 61 kWh brutto und 58 kWh netto**. Die prismatischen Zellen sind in Cell-to-Pack-Bauweise direkt in das Gehäuse eingeklebt. Das erhöht die Packungsdichte und verringert die Bauhöhe der Batterie.
+Im Innenraum ist das prägende Element der **Softwrap** — eine weiche, stoffbezogene Oberfläche, die von der Instrumententafel über die Türen bis in den Fond verläuft. Das serienmäßige **MMI-Panoramadisplay** kombiniert ein 11,9-Zoll-Audi-virtual-cockpit-plus mit einem 12,8 Zoll großen, gebogenen MMI-Touchdisplay; ein Augmented-Reality-Head-up-Display ist optional.
 
-Die LFP-Chemie kommt ohne Nickel und Kobalt aus und ist auf lange Lebensdauer ausgelegt. Audi gibt an, dass die Batterie regelmäßig auf 100 % geladen werden kann, ohne die für nickelbasierte Batterien häufig empfohlene tägliche Ladebegrenzung.
+{{< evkxfiguresized thumb="models/audi/a2_e-tron/a2_e-tron_240_kw/interior_d398f_st.webp" width="3000" height="2250" title="Audi A2 e-tron Interieur" >}}
 
-Die maximale DC-Ladeleistung beträgt **105 kW**, die angegebene Ladezeit von **10 auf 80 % liegt bei 26 Minuten**. Audi nennt zudem einen Wirkungsgrad von **89,6 %** beim AC-Laden. Das sind 1,3 Prozentpunkte mehr, erreicht durch eine überarbeitete Kühlung und Regelsoftware.
+Audi ist der erste Premiumhersteller, der das patentierte magnetische Befestigungssystem **Fidlock** serienmäßig verbaut — mit bis zu drei Adapterpunkten auf der Mittelkonsole und drei weiteren im Gepäckraum für Becherhalter, Taschen und Ladekabelbeutel. Ein optionales Panoramaglasdach ergänzt 1,6 Quadratmeter Glasfläche mit UV-schützender Beschichtung.
 
-Batteriegröße, Zellchemie und Ladeleistung der anderen Leistungsvarianten sind noch nicht offiziell beschrieben.
-
-{{< sitefiguresized thumb="models/a2-e-tron/prototype_charging_st.webp" width="3000" height="1997" title="Audi A2 e-tron Prototypen an einer Schnellladestation" >}}
+→ [Alles zum Interieur: Sitze, Materialien, Ablagen und Soundsysteme](./interior/)
 
 ---
 
-## Bidirektionales Laden
+## Antrieb und Laden
 
-Der A2 e-tron kann auf zwei Arten Energie aus der Antriebsbatterie bereitstellen:
+Der A2 e-tron nutzt die **MEB+-Plattform** mit einer permanenterregten Synchronmaschine an der Hinterachse. Die **APP350** kommt in den Versionen mit 125, 140 und 170 kW zum Einsatz, das 240-kW-Topmodell erhält die stärkere **APP550**. Die überarbeitete Antriebseinheit arbeitet bis zu **10 % effizienter** als die Vorgängergeneration — dank Siliziumkarbid-Leistungselektronik, dünnerer 0,2-mm-Bleche, einer im Dreieck geschalteten Statorwicklung, reibungsarmem Getriebeöl und einer langen Übersetzung von 10,2:1.
 
-- **Vehicle-to-Load (V2L):** versorgt externe Geräte über eine Steckdose im Gepäckraum oder einen Adapter am Ladeanschluss
-- **Vehicle-to-Home (V2H):** speist mit einer von Audi empfohlenen Wallbox Energie in ein kompatibles Hausnetz ein
+Die beiden LFP-Batterien sind in Cell-to-Pack-Bauweise ausgeführt, bei der prismatische Zellen direkt in das Gehäuse eingeklebt werden; ihre Zellchemie verträgt tägliches Laden auf 100 % ohne die sonst bei nickelbasierten Zellen empfohlene Ladegrenze. Die modular aufgebaute 84-kWh-NMC-Batterie lädt mit bis zu 183 kW. **Bidirektionales Laden** ist über Vehicle-to-Load möglich, Vehicle-to-Home in Deutschland, Österreich und der Schweiz.
 
-V2H soll zunächst in Deutschland, Österreich und der Schweiz verfügbar sein. Angaben zu weiteren Märkten gibt es noch nicht.
+{{< evkxfiguresized thumb="models/audi/a2_e-tron/a2_e-tron_240_kw/chassis_6d454_st.webp" width="3000" height="2121" title="Audi A2 e-tron Fahrwerk und Antrieb" >}}
 
----
-
-## Aerodynamik und Design
-
-Die vom A2 inspirierte Silhouette erfüllt neben der gestalterischen auch eine funktionale Aufgabe. Die abgerundete Front, die lange fließende Dachlinie und das scharf definierte Heck ermöglichen dem Fahrzeug mit Effizienzpaket einen **Luftwiderstandsbeiwert von 0,24**. Laut Audi senken die Aerodynamikmaßnahmen den WLTP-Verbrauch gegenüber demselben Fahrzeug ohne diese Anpassungen um bis zu **0,9 kWh/100 km**.
-
-Zu den wichtigsten Details gehören:
-
-- Aktive Kühlluftklappen, die geschlossen bleiben, solange keine zusätzliche Kühlung nötig ist
-- Air Curtains zur gezielten Führung der Luft an den Vorderrädern vorbei
-- Gap Reducer und Gap Breather an den Radhäusern
-- Aerodynamisch optimierte Räder und rollwiderstandsarme Reifen
-- Weitgehend geschlossener Unterboden mit sauberen Übergängen zum Heckdiffusor
-- Dachspoiler und geteilte Heckscheibe als Neuinterpretation des ursprünglichen A2
-- Kompakte elektronische Winglet-Türöffner mit mechanischer Notentriegelung innen
-
-{{< sitefiguresized thumb="models/a2-e-tron/prototype_exterior_3_st.webp" width="3000" height="1997" title="Aerodynamische Rad- und Frontdetails am Audi A2 e-tron Prototyp" >}}
-
-Das Serienfahrzeug ist noch getarnt. Der Prototyp zeigt aber eindeutig ein fünftüriges Schrägheckmodell mit kurzen Überhängen, langem Radstand und einer hohen, raumeffizienten Kabine.
+→ [Alles zum Antrieb: Motoren, Batterien, Laden und Fahrwerk](./drivetrain/)
 
 ---
 
-## Innenraum und Alltagstauglichkeit
+## Technik
 
-Audi deckte große Teile des Innenraums während der Pressefahrt ab. Dennoch waren ein breites digitales Displaykonzept, die aktuellen Multifunktions-Bedienelemente an der Lenksäule, Audi Software und ein verfügbares Augmented-Reality-Head-up-Display zu erkennen. Einige physische Bedienelemente bleiben erhalten, das endgültige Armaturenbrett wurde jedoch noch nicht gezeigt.
+Notbremsassistent, Ausweichassistent, Aufmerksamkeitsassistent, adaptiver Geschwindigkeitsassistent, Einparkhilfe plus und Rückfahrkamera sind in jedem A2 e-tron serienmäßig. Optional kommen adaptiver Fahrassistent plus mit Nothalteassistent, Querverkehrassistent front, ein Umgebungskamerasystem mit 3D-Darstellung, Parkassistent plus mit Fernsteuerung per Smartphone, trainiertes Parken für bis zu fünf gelernte Manöver und ein Rückfahrassistent für rund 50 Meter hinzu.
 
-Die Berichte aus dem Fond beschreiben Kopf- und Beinfreiheit gemessen an der kompakten Grundfläche als großzügig und ungefähr auf dem Niveau des ID.3. Eine elektrisch betätigte Heckklappe wird angeboten. Exakte Abmessungen, Kofferraumvolumen, Displaygrößen und die endgültige Ausstattungsstruktur sind noch nicht bestätigt.
+Das Infotainment nutzt die aktuelle Audi-Software mit dem KI-gestützten Audi assistant, dem e-tron Routenplaner mit vorausschauender Ladeplanung und Audi connected work für Outlook und Teams.
 
----
-
-## Reichweite, Varianten und Preis
-
-Audi veröffentlichte kurzzeitig eine maximale Reichweite von **bis zu 649 km WLTP** und einen deutschen Einstiegspreis von **38.200 Euro**, entfernte diese Angaben vor dem Marktstart jedoch wieder von der Modellseite. Beide Werte sollten bis zur Veröffentlichung der endgültig homologierten Reichweite und Preisliste als vorläufig gelten.
-
-Die schwedische Audi Modellvorschau nennt derzeit zwei Startversionen:
-
-- **Proline:** 125 kW, LED-Licht, Navigation und Infotainment, adaptiver Fahrassistent und Parkpaket
-- **S line:** 140 kW, Matrix LED-Scheinwerfer, elektrische Heckklappe, Komfortschlüssel und aufgewertetes Exterieur
-
-Batterie- und Reichweitenangaben für diese einzelnen Ausstattungslinien fehlen noch. Versionen mit 170 und 240 kW werden voraussichtlich später angeboten oder zur Weltpremiere näher beschrieben.
+→ [Alles zur Technik: Assistenzsysteme, Sensorik und Konnektivität](./technology/)
 
 ---
 
-## Noch nicht bekannt
+## Was noch offen ist
 
-- Zertifizierte WLTP-Reichweite und Verbrauchswerte aller Versionen
-- Batteriekapazität und Ladekurve der Varianten mit 125, 170 und 240 kW
-- Beschleunigung, Höchstgeschwindigkeit und Anhängelast
-- Außenmaße, Gewicht und Kofferraumvolumen
-- Endgültiges Innenraumdesign, Displaygrößen und Optionsstruktur
-- Preise und Ausstattung außerhalb Deutschlands
+- Preise und Ausstattung in Märkten außerhalb Deutschlands und Norwegens
+- Vollständige Preise für Optionen und Pakete
+- Unabhängige Messungen von realer Reichweite und Ladekurve
 
 ---
 
 ## Quellen
 
-- [Audi: A2 e-tron setzt neuen Effizienzstandard](https://www.audi.com/de/pressemitteilungen/a2-e-tron-setzt-neuen-effizienzstandard-bei-audi-18196)
-- [Audi: Batterietechnologie und bidirektionales Laden](https://www.audi.com/de/artikel/mehr-als-nur-ein-energiespeicher-die-batterie-des-audi-a2-e-tron-18192)
-- [Audi: Aerodynamik, Reichweite und Effizienz](https://www.audi.com/de/artikel/a2-e-tron-wie-aerodynamik-reichweite-und-effizienz-verbessert-18191)
-- [Audi Schweden: Vorläufige Startversionen und Ausstattung](https://www.audi.se/sv/models/a2-e-tron/a2-e-tron/)
-- [Auto Express: Prototypenfahrt mit dem Audi A2 e-tron](https://www.autoexpress.co.uk/audi/a2/370130/new-audi-a2-e-tron-prototype-review-radical-looking-ev-shows-promise)
-- [Zusammenfassung der Prototypendaten von Motoreport](https://www.reddit.com/r/EuroEV/comments/1vf42i8/motoreport_audi_a2_etron_prototype_test/)
+- [Audi: A2 e-tron — Effizienz neu gedacht](https://www.audi.com/de/pressemitteilungen/audi-a2-e-tron-effizienz-neu-gedacht-18299)
+- [Audi-CEO Gernot Döllner über den A2 e-tron](https://www.audi.com/en/press-releases/audi-ceo-gernot-doellner-a2-e-tron-makes-e-mobility-easier-more-efficient-and-more-convincing-for-everyday-life-18309)
+- [Audi: A2 e-tron setzt neuen Effizienzstandard bei Audi](https://www.audi.com/de/pressemitteilungen/a2-e-tron-setzt-neuen-effizienzstandard-bei-audi-18196)
+- [Audi Norge / NTB: 645 kilometers rekkevidde — her er nye Audi A2 e-tron](https://kommunikasjon.ntb.no/pressemelding/19053020/645-kilometers-rekkevidde-her-er-nye-audi-a2-e-tron?lang=no)
+- [electrive: Audi returns to efficiency for its A2 e-tron premiere](https://www.electrive.com/2026/09/07/audi-returns-to-efficiency-for-its-audi-a2-e-tron-premiere/)

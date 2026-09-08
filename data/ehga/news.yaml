@@ -1,3 +1,14 @@
+- page: /models/a2-e-tron/
+  image: https://media.evkx.net/multimedia/models/audi/a2_e-tron/a2_e-tron_240_kw/main_d8104_st.webp
+  category_en: Model launch
+  category_nb: Modellansering
+  category_de: Modellvorstellung
+  title_en: Audi A2 e-tron premieres in Paris
+  title_nb: Audi A2 e-tron hadde verdenspremiere i Paris
+  title_de: Audi A2 e-tron feiert Weltpremiere in Paris
+  text_en: The most efficient Audi ever built, with up to 646 km WLTP range, a 0.24 drag coefficient and prices from EUR 38,200.
+  text_nb: Den mest effektive Audien som er bygget, med inntil 646 km WLTP-rekkevidde, luftmotstand på 0,24 og norsk startpris fra 359 900 kroner.
+  text_de: Der effizienteste Audi aller Zeiten, mit bis zu 646 km WLTP-Reichweite, einem cw-Wert von 0,24 und Preisen ab 38.200 Euro.
 - page: /models/e7x/
   image: https://media.evkx.net/ehga/models/e7x/exterior/exterior_1_st.webp
   category_en: Model launch

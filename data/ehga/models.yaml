@@ -99,10 +99,11 @@
   charging: "TBA"
 - slug: a2-e-tron
   title: Audi A2 e-tron
-  image: https://media.evkx.net/ehga/models/a2-e-tron/prototype_exterior_2_st.webp
-  status: coming
+  evkx_id: 01a07c98-4f00-7d2c-ad01-c5b15a8dfbe3
+  image: https://media.evkx.net/multimedia/models/audi/a2_e-tron/a2_e-tron_240_kw/main_d8104_st.webp
+  status: onsale
   market: europe
-  range: "TBA"
-  cycle: ""
-  battery: "TBA"
-  charging: "TBA"
+  range: "646 km"
+  cycle: WLTP
+  battery: "84 kWh"
+  charging: "183 kW"

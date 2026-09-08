@@ -15,6 +15,25 @@ Se nedenfor for vår unike, dyptgående informasjon om de forskjellige modellene
 <div class="grid grid-cols-1 gap-6 mb-12">
 
 <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300 border border-gray-200">
+<a href="a2-e-tron/">
+<img src="https://media.evkx.net/multimedia/models/audi/a2_e-tron/a2_e-tron_240_kw/main_d8104_st.webp" class="w-full h-56 object-cover" alt="Audi A2 e-tron">
+</a>
+<div class="p-6">
+<h3 class="text-xl font-bold text-gray-900 mb-3">Audi A2 e-tron</h3>
+<p class="text-gray-600 text-sm mb-4 leading-relaxed">
+Audis nye elektriske inngangsmodell. Den mest effektive Audien som er bygget, med inntil 646 km WLTP-rekkevidde og luftmotstand på 0,24.
+</p>
+<div class="flex flex-wrap gap-2 mb-4">
+<span class="bg-green-100 text-green-800 text-xs font-semibold px-3 py-1 rounded-full">Kompakt</span>
+<span class="bg-gray-100 text-gray-700 text-xs font-semibold px-3 py-1 rounded-full">4 varianter</span>
+</div>
+<a href="a2-e-tron/" class="block w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-3 px-4 rounded-lg text-center transition-colors duration-200" style="color: white !important;">
+Utforsk detaljer
+</a>
+</div>
+</div>
+
+<div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300 border border-gray-200">
 <a href="q4-e-tron/">
 <img src="https://media.evkx.net/ehga/models/q4-e-tron/variants/variants1_st.webp" class="w-full h-56 object-cover" alt="Audi Q4 e-tron">
 </a>
@@ -198,25 +217,6 @@ Flaggskip elektrisk SUV med opptil 44% forbedret rekkevidde sammenlignet med den
 <span class="bg-gray-100 text-gray-600 text-xs font-semibold px-3 py-1 rounded-full">6 varianter</span>
 </div>
 <a href="q8-e-tron/" class="block w-full bg-gray-500 hover:bg-gray-600 text-white font-medium py-3 px-4 rounded-lg text-center transition-colors duration-200" style="color: white !important;">
-Utforsk detaljer
-</a>
-</div>
-</div>
-
-<div class="bg-gray-50 rounded-xl shadow-md overflow-hidden border border-gray-300">
-<a href="a2-e-tron/">
-<img src="https://media.evkx.net/ehga/models/a2-e-tron/prototype_exterior_2_st.webp" class="w-full h-56 object-cover" alt="Audi A2 e-tron-prototype">
-</a>
-<div class="p-6">
-<h3 class="text-xl font-bold text-gray-700 mb-3">Audi A2 e-tron</h3>
-<p class="text-gray-500 text-sm mb-4 leading-relaxed">
-Audis nye kompakte elektriske inngangsmodell. Prototypekjøringen bekrefter bakhjulsdrift, LFP-batteri og et foreløpig forbruk helt ned mot 12,8 kWh/100 km.
-</p>
-<div class="flex flex-wrap gap-2 mb-4">
-<span class="bg-green-100 text-green-600 text-xs font-semibold px-3 py-1 rounded-full">Prototype</span>
-<span class="bg-gray-100 text-gray-600 text-xs font-semibold px-3 py-1 rounded-full">Høsten 2026</span>
-</div>
-<a href="a2-e-tron/" class="block w-full bg-gray-500 hover:bg-gray-600 text-white font-medium py-3 px-4 rounded-lg text-center transition-colors duration-200" style="color: white !important;">
 Utforsk detaljer
 </a>
 </div>

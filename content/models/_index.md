@@ -15,6 +15,25 @@ See below for our unique, in-depth information on the different models and varia
 <div class="grid grid-cols-1 gap-6 mb-12">
 
 <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300 border border-gray-200">
+<a href="a2-e-tron/">
+<img src="https://media.evkx.net/multimedia/models/audi/a2_e-tron/a2_e-tron_240_kw/main_d8104_st.webp" class="w-full h-56 object-cover" alt="Audi A2 e-tron">
+</a>
+<div class="p-6">
+<h3 class="text-xl font-bold text-gray-900 mb-3">Audi A2 e-tron</h3>
+<p class="text-gray-600 text-sm mb-4 leading-relaxed">
+Audi's new electric entry point. The most efficient Audi ever built, with up to 646 km WLTP range and a 0.24 drag coefficient.
+</p>
+<div class="flex flex-wrap gap-2 mb-4">
+<span class="bg-green-100 text-green-800 text-xs font-semibold px-3 py-1 rounded-full">Compact</span>
+<span class="bg-gray-100 text-gray-700 text-xs font-semibold px-3 py-1 rounded-full">4 variants</span>
+</div>
+<a href="a2-e-tron/" class="block w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-3 px-4 rounded-lg text-center transition-colors duration-200" style="color: white !important;">
+Explore Details
+</a>
+</div>
+</div>
+
+<div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300 border border-gray-200">
 <a href="q4-e-tron/">
 <img src="https://media.evkx.net/ehga/models/q4-e-tron/variants/variants1_st.webp" class="w-full h-56 object-cover" alt="Audi Q4 e-tron">
 </a>
@@ -190,25 +209,6 @@ Electric compact executive model confirmed for the SSP platform and expected to 
 </div>
 <a href="a4-e-tron/" class="block w-full bg-orange-500 hover:bg-orange-600 text-white font-medium py-3 px-4 rounded-lg text-center transition-colors duration-200" style="color: white !important;">
 Explore Details
-</a>
-</div>
-</div>
-
-<div class="bg-white rounded-xl shadow-lg overflow-hidden border-2 border-dashed border-green-300">
-<a href="a2-e-tron/">
-<img src="https://media.evkx.net/ehga/models/a2-e-tron/prototype_exterior_2_st.webp" class="w-full h-56 object-cover" alt="Audi A2 e-tron prototype">
-</a>
-<div class="p-6">
-<h3 class="text-xl font-bold text-gray-900 mb-3">Audi A2 e-tron</h3>
-<p class="text-gray-600 text-sm mb-4 leading-relaxed">
-Audi's new compact entry-level EV. Prototype drives confirm rear-wheel drive, an LFP battery and preliminary consumption as low as 12.8 kWh/100 km.
-</p>
-<div class="flex flex-wrap gap-2 mb-4">
-<span class="bg-green-100 text-green-800 text-xs font-semibold px-3 py-1 rounded-full">Prototype Stage</span>
-<span class="bg-gray-100 text-gray-700 text-xs font-semibold px-3 py-1 rounded-full">Fall 2026</span>
-</div>
-<a href="a2-e-tron/" class="block w-full bg-green-500 hover:bg-green-600 text-white font-medium py-3 px-4 rounded-lg text-center transition-colors duration-200" style="color: white !important;">
-View Details
 </a>
 </div>
 </div>
