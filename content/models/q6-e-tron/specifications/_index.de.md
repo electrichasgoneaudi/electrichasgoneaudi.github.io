@@ -20,13 +20,11 @@ navicon: bi-layout-text-sidebar-reverse
         <option value="variant-019f78be7772781d810e8804e1470a7f">Audi Q6 Sportback e-tron — MY2026</option>
         <option value="variant-cd8a76aad67b48b292f79e6a05de5743">Audi Q6 Sportback e-tron performance — MY2024, MY2025</option>
         <option value="variant-6372714d9d5c4d7ca47340b384eacbfb">Audi Q6 Sportback e-tron quattro — MY2026</option>
+        <option value="variant-d34598664569409e96975a841863f61a">Audi Q6L e-tron quattro — MY2025, MY2026</option>
         <option value="variant-ec26cda516ac4157a18d2df87771ba69">Audi Q6L Sportback e-tron quattro — MY2025</option>
         <option value="variant-8308a949911b4bb8be98e6bed5899448">Audi SQ6 e-tron — MY2025</option>
         <option value="variant-019f78be7ef07046a6fc2d405829f2ea">Audi SQ6 e-tron — MY2026</option>
         <option value="variant-3d2dbc1f42964bca9e716104634ec4e6">Audi SQ6 Sportback e-tron — MY2025</option>
-      </optgroup>
-      <optgroup label="Vorgestellt">
-        <option value="variant-d34598664569409e96975a841863f61a">Audi Q6L e-tron quattro — MY2025, MY2026</option>
       </optgroup>
       <optgroup label="Eingestellt">
         <option value="variant-e10ab496ccf341f49e962496c1dca970">Audi Q6 e-tron quattro — MY2025</option>
@@ -2500,6 +2498,228 @@ navicon: bi-layout-text-sidebar-reverse
       </section>
     </div>
   </section>
+  <section class="generated-specs__panel" id="spec-panel-variant-d34598664569409e96975a841863f61a" data-spec-panel="variant-d34598664569409e96975a841863f61a" hidden>
+    <header class="generated-specs__heading">
+      <h2 class="generated-specs__title">Audi Q6L e-tron quattro</h2>
+      <div class="generated-specs__meta">
+        <span class="status-badge status-badge--onsale">In Produktion</span>
+        <span class="generated-specs__years">MY2025, MY2026</span>
+      </div>
+    </header>
+    <div class="generated-specs__groups">
+      <section class="generated-specs__group">
+        <h3>Fahrleistung</h3>
+        <div class="generated-specs__group-body">
+      <div class="spec-row"><span class="spec-row__label">Spitzenleistung</span><strong class="spec-row__value">345 kW (469 hp / 463 bhp)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Elektrisches Drehmoment</span><strong class="spec-row__value">855 Nm (631 lb-ft)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Höchstgeschwindigkeit</span><strong class="spec-row__value">200 km/h (124 mph)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">0–100 km/h (0–62 mph)</span><strong class="spec-row__value">5,8 s</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Reichweite und Verbrauch</h3>
+        <div class="generated-specs__group-body">
+          <p>Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere <a href="../rangeandconsumption/">ausf&#252;hrlichen Reichweiteninformationen</a> f&#252;r detaillierte Beispiele aus der Praxis. Besuchen Sie unseren <a href="../../../../../guides/understandingrange/">Reichweitenleitfaden</a>, um zu erfahren, was die Reichweite beeinflusst und wie die offiziellen Reichweitenwerte gemessen werden.</p>
+      <div class="spec-row"><span class="spec-row__label">WLTP-Verbrauch mit Ladeverlust</span><strong class="spec-row__value">0 kWh/100km</strong></div>
+      <div class="spec-row"><span class="spec-row__label">CLTC-Reichweite der Basisausstattung</span><strong class="spec-row__value">709 km</strong></div>
+      <div class="spec-row"><span class="spec-row__label">CLTC-Verbrauch der Basisausstattung</span><strong class="spec-row__value">14,3 kWh/100km</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Batterie und Laden</h3>
+        <div class="generated-specs__group-body">
+      <div class="spec-row"><span class="spec-row__label">Bruttobatteriekapazität</span><strong class="spec-row__value">107 kWh</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Netto-Batteriekapazität</span><strong class="spec-row__value">101,5 kWh</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Maximale DC-Ladeleistung</span><strong class="spec-row__value">270 kW</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Anzahl der Module</span><strong class="spec-row__value">12</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Batteriepack-Konfiguration</span><strong class="spec-row__value">192s1p</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Nennspannung</span><strong class="spec-row__value">706</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Kathodenmaterialien</span><strong class="spec-row__value">NMC811</strong></div>
+          <h4 class="generated-specs__subheading">Ladeanschlüsse</h4>
+      <div class="spec-row"><span class="spec-row__label">Position des Ladeanschlusses</span><strong class="spec-row__value">LeftRearSide</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Typ Ladeanschluss China</span><strong class="spec-row__value">GBT</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Position des Ladeanschlusses</span><strong class="spec-row__value">RightRearSide</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Typ Ladeanschluss China</span><strong class="spec-row__value">GBT</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Abmessungen</h3>
+        <div class="generated-specs__group-body">
+      <div class="spec-row"><span class="spec-row__label">Länge</span><strong class="spec-row__value">4884 mm (192,3")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Höhe</span><strong class="spec-row__value">1696 mm (66,8")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Breite ohne Spiegel</span><strong class="spec-row__value">1965 mm (77,4")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Dimensions.WidhtIncludingMirrors</span><strong class="spec-row__value">2193 mm (86,3")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Radstand</span><strong class="spec-row__value">2995 mm (117,9")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Spurbreite vorne</span><strong class="spec-row__value">1676 mm (66,0")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Spurbreite hinten</span><strong class="spec-row__value">1659 mm (65,3")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Luftwiderstandsbeiwert</span><strong class="spec-row__value">0,3</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Stirnfläche</span><strong class="spec-row__value">2,73</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Anfahrwinkel</span><strong class="spec-row__value">15</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Abfahrwinkel</span><strong class="spec-row__value">21</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Wendekreis</span><strong class="spec-row__value">12,4 m (488,2")</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Ladekapazität und Anhängelast</h3>
+        <div class="generated-specs__group-body">
+      <div class="spec-row"><span class="spec-row__label">Leergewicht</span><strong class="spec-row__value">2366 kg (5216 lb)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Maximales Gesamtgewicht</span><strong class="spec-row__value">2827 kg (6232 lb)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Maximale Zuladung einschließlich Fahrer</span><strong class="spec-row__value">461 kg (1016 lb)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Maximale Dachlast</span><strong class="spec-row__value">75 kg (165 lb)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Kofferraumvolumen</span><strong class="spec-row__value">526 Liter (19 ft³)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Kofferraumvolumen bei umgeklappten Sitzen der zweiten Reihe</span><strong class="spec-row__value">1529 Liter (54 ft³)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Frunk-Volumen</span><strong class="spec-row__value">64 Liter (2 ft³)</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Fahrwerk</h3>
+        <div class="generated-specs__group-body">
+      <div class="spec-row"><span class="spec-row__label">Adaptive Federung</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Dämpfungsverstellung vorne</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Dämpfungsverstellung hinten</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Höhenverstellung vorne</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Höhenverstellung hinten</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Maximale Bodenfreiheit</span><strong class="spec-row__value">142 mm (5,6")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Minimale Bodenfreiheit</span><strong class="spec-row__value">142 mm (5,6")</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Dämpfertyp vorne</span><strong class="spec-row__value">ElectronicallyControlled</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Dämpfertyp hinten</span><strong class="spec-row__value">ElectronicallyControlled</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Federart vorne</span><strong class="spec-row__value">Coil</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Federart hinten</span><strong class="spec-row__value">Coil</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Federungstyp vorne</span><strong class="spec-row__value">Multilink</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Federungstyp hinten</span><strong class="spec-row__value">Multilink</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Innenraum</h3>
+        <div class="generated-specs__group-body">
+          <p>Dieses Modell ist mit einer Sitzkonfiguration mit f&#252;nf Sitzen verf&#252;gbar.</p>
+          <h4 class="generated-specs__subheading">Vordersitze</h4>
+          <h4 class="generated-specs__subheading">Sport Plus</h4>
+      <div class="spec-row"><span class="spec-row__label">Sitztyp</span><strong class="spec-row__value">Fahrer- und Beifahrersitz</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Sitztiefeneinstellung</span><strong class="spec-row__value">Unbekannt</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Sitzhöheneinstellung</span><strong class="spec-row__value">Unbekannt</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Rückenlehnenverstellung</span><strong class="spec-row__value">Unbekannt</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Neigungsverstellung des Sitzpolsters</span><strong class="spec-row__value">Unbekannt</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Memory-Funktion</span><strong class="spec-row__value">Serienausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Höhenverstellbare Kopfstütze</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Tiefenverstellbare Kopfstütze</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Verstellbare Oberschenkelstütze</span><strong class="spec-row__value">Serienausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Verstellung seitlicher Rückenlehnenstütze</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Verstellung der Seitenwangen des Sitzpolsters</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Fußstütze für den Beifahrer</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Beinstütze für den Beifahrer</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Elektrische Lordosenverstellung</span><strong class="spec-row__value">Unbekannt</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Sitzbelüftung</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Massagefunktion</span><strong class="spec-row__value">Serienausstattung</strong></div>
+          <h4 class="generated-specs__subheading">Sitze zweite Reihe</h4>
+          <h4 class="generated-specs__subheading">standard</h4>
+      <div class="spec-row"><span class="spec-row__label">Sitztyp</span><strong class="spec-row__value">Dreisitzige Sitzbank</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Höhenverstellbare Kopfstütze</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Tiefenverstellbare Kopfstütze</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Verstellbare Oberschenkelstütze</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Verstellung seitlicher Rückenlehnenstütze</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Verstellung der Seitenwangen des Sitzpolsters</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Fußstütze für den Beifahrer</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Beinstütze für den Beifahrer</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Elektrische Lordosenverstellung</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Sitzbelüftung</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Massagefunktion</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+          <h4 class="generated-specs__subheading">Mittelkonsolen</h4>
+          <h4 class="generated-specs__subheading">Mittelkonsole in erster Reihe</h4>
+      <div class="spec-row"><span class="spec-row__label">Konsolendesign</span><strong class="spec-row__value">Traditionelle Konsole</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Fahrassistenz</h3>
+        <div class="generated-specs__group-body">
+      <div class="spec-row"><span class="spec-row__label">Spurhalteassistent</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Spurverlassenswarnung</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Müdigkeitswarnung</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Rückfahrkamera</span><strong class="spec-row__value">Ja, optionale Ausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">360°-Kamera</span><strong class="spec-row__value">Ja, optionale Ausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Querverkehrwarnung hinten (RCTA)</span><strong class="spec-row__value">Ja (Cross traffic assist rear), optionale Ausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Bergabfahrassistent</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Anfahrassistent</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">ABS (Antiblockiersystem)</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Automatische Notbremsung</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Traktionskontrolle</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Unfallvermeidung bei Linksabbiegen</span><strong class="spec-row__value">Ja, optionale Ausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Frontkollisionswarnung</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">ESP/ESC (Elektronische Stabilitätskontrolle)</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Temperaturwarnung</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Querverkehrswarnung (CTA)</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Effizienzassistent</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Automatische Notlenkung</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Verkehrszeichenerkennung</span><strong class="spec-row__value">Ja, optionale Ausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Nachtsichtsystem</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Sensoren und Kameras</h3>
+        <div class="generated-specs__group-body">
+          <h4 class="generated-specs__subheading">Ultraschallsensoren</h4>
+      <div class="spec-row"><span class="spec-row__label">Ultraschallsensoren</span><strong class="spec-row__value">Vorne am Stoßfänger</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultraschallsensoren</span><strong class="spec-row__value">Vorne am Stoßfänger</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultraschallsensoren</span><strong class="spec-row__value">Vorne links an der Stoßfängerecke</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultraschallsensoren</span><strong class="spec-row__value">Vorne rechts an der Stoßfängerecke</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultraschallsensoren</span><strong class="spec-row__value">Vorne links am Stoßfänger</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultraschallsensoren</span><strong class="spec-row__value">Vorne rechts am Stoßfänger</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultraschallsensoren</span><strong class="spec-row__value">Hinten links am Stoßfänger</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultraschallsensoren</span><strong class="spec-row__value">Hinten rechts am Stoßfänger</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultraschallsensoren</span><strong class="spec-row__value">Hinten links an der Stoßfängerecke</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultraschallsensoren</span><strong class="spec-row__value">Hinten rechts an der Stoßfängerecke</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultraschallsensoren</span><strong class="spec-row__value">Hinten Stoßfänger</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Ultraschallsensoren</span><strong class="spec-row__value">Hinten Stoßfänger</strong></div>
+          <h4 class="generated-specs__subheading">Kameras</h4>
+      <div class="spec-row"><span class="spec-row__label">Kameras</span><strong class="spec-row__value">Oben Mitte Windschutzscheibe</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Kameras</span><strong class="spec-row__value">Vorne (Optional)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Kameras</span><strong class="spec-row__value">Am linken Außenspiegel (Optional)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Kameras</span><strong class="spec-row__value">Am rechten Außenspiegel (Optional)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Kameras</span><strong class="spec-row__value">Mitte hinten (Optional)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Kameras</span><strong class="spec-row__value">Linke vordere Seite</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Kameras</span><strong class="spec-row__value">Rechte vordere Seite</strong></div>
+          <h4 class="generated-specs__subheading">Radarsensoren</h4>
+      <div class="spec-row"><span class="spec-row__label">Radarsensoren</span><strong class="spec-row__value">Vorne</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Radarsensoren</span><strong class="spec-row__value">Linke vordere Ecke (Optional)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Radarsensoren</span><strong class="spec-row__value">Rechte vordere Ecke (Optional)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Radarsensoren</span><strong class="spec-row__value">Linke hintere Ecke (Optional)</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Radarsensoren</span><strong class="spec-row__value">Rechte hintere Ecke (Optional)</strong></div>
+          <h4 class="generated-specs__subheading">LiDAR-Sensoren</h4>
+      <div class="spec-row"><span class="spec-row__label">LiDAR-Sensoren</span><strong class="spec-row__value">Vorne links am Stoßfänger</strong></div>
+      <div class="spec-row"><span class="spec-row__label">LiDAR-Sensoren</span><strong class="spec-row__value">Vorne rechts am Stoßfänger</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Benutzeroberfläche und Bedienelemente</h3>
+        <div class="generated-specs__group-body">
+      <div class="spec-row"><span class="spec-row__label">Head-up-Display</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Sprachsteuerung</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Gestensteuerung</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Android Auto-Unterstützung</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Apple CarPlay-Unterstützung</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Fahrzeugnavigation</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Verfügbare Bildschirmkonfigurationen</span><strong class="spec-row__value">1</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Digitales Kombiinstrument</span><strong class="spec-row__value">Ja, 11,9</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm</span><strong class="spec-row__value">Ja, 14,9"</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm für den Beifahrer</span><strong class="spec-row__value">Ja, 10,9"</strong></div>
+      <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm hinten</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
+        </div>
+      </section>
+      <section class="generated-specs__group">
+        <h3>Exterieur</h3>
+        <div class="generated-specs__group-body">
+          <h4 class="generated-specs__subheading">Lackfarben</h4>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Magnet Grey</span><strong class="spec-row__value">Grau</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FFFFFF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Jasmine White</span><strong class="spec-row__value">Weiß</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Qingcheng Green</span><strong class="spec-row__value">Grün</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span> Liuxia Purple</span><strong class="spec-row__value">Blau</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Acari Blue</span><strong class="spec-row__value">Blau</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Hunter Grey</span><strong class="spec-row__value">Grau</strong></div>
+      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mythos black</span><strong class="spec-row__value">Schwarz</strong></div>
+        </div>
+      </section>
+    </div>
+  </section>
   <section class="generated-specs__panel" id="spec-panel-variant-ec26cda516ac4157a18d2df87771ba69" data-spec-panel="variant-ec26cda516ac4157a18d2df87771ba69" hidden>
     <header class="generated-specs__heading">
       <h2 class="generated-specs__title">Audi Q6L Sportback e-tron quattro</h2>
@@ -3690,228 +3910,6 @@ navicon: bi-layout-text-sidebar-reverse
       <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Ascari blue</span><strong class="spec-row__value">Blau</strong></div>
       <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Utopia blue</span><strong class="spec-row__value">Blau</strong></div>
       <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Java green</span><strong class="spec-row__value">Grün</strong></div>
-        </div>
-      </section>
-    </div>
-  </section>
-  <section class="generated-specs__panel" id="spec-panel-variant-d34598664569409e96975a841863f61a" data-spec-panel="variant-d34598664569409e96975a841863f61a" hidden>
-    <header class="generated-specs__heading">
-      <h2 class="generated-specs__title">Audi Q6L e-tron quattro</h2>
-      <div class="generated-specs__meta">
-        <span class="status-badge status-badge--coming">Vorgestellt</span>
-        <span class="generated-specs__years">MY2025, MY2026</span>
-      </div>
-    </header>
-    <div class="generated-specs__groups">
-      <section class="generated-specs__group">
-        <h3>Fahrleistung</h3>
-        <div class="generated-specs__group-body">
-      <div class="spec-row"><span class="spec-row__label">Spitzenleistung</span><strong class="spec-row__value">345 kW (469 hp / 463 bhp)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Elektrisches Drehmoment</span><strong class="spec-row__value">855 Nm (631 lb-ft)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Höchstgeschwindigkeit</span><strong class="spec-row__value">200 km/h (124 mph)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">0–100 km/h (0–62 mph)</span><strong class="spec-row__value">5,8 s</strong></div>
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Reichweite und Verbrauch</h3>
-        <div class="generated-specs__group-body">
-          <p>Nachfolgend sehen Sie die offiziellen Reichweitenangaben. Besuchen Sie unsere <a href="../rangeandconsumption/">ausf&#252;hrlichen Reichweiteninformationen</a> f&#252;r detaillierte Beispiele aus der Praxis. Besuchen Sie unseren <a href="../../../../../guides/understandingrange/">Reichweitenleitfaden</a>, um zu erfahren, was die Reichweite beeinflusst und wie die offiziellen Reichweitenwerte gemessen werden.</p>
-      <div class="spec-row"><span class="spec-row__label">WLTP-Verbrauch mit Ladeverlust</span><strong class="spec-row__value">0 kWh/100km</strong></div>
-      <div class="spec-row"><span class="spec-row__label">CLTC-Reichweite der Basisausstattung</span><strong class="spec-row__value">709 km</strong></div>
-      <div class="spec-row"><span class="spec-row__label">CLTC-Verbrauch der Basisausstattung</span><strong class="spec-row__value">14,3 kWh/100km</strong></div>
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Batterie und Laden</h3>
-        <div class="generated-specs__group-body">
-      <div class="spec-row"><span class="spec-row__label">Bruttobatteriekapazität</span><strong class="spec-row__value">107 kWh</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Netto-Batteriekapazität</span><strong class="spec-row__value">101,5 kWh</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Maximale DC-Ladeleistung</span><strong class="spec-row__value">270 kW</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Anzahl der Module</span><strong class="spec-row__value">12</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Batteriepack-Konfiguration</span><strong class="spec-row__value">192s1p</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Nennspannung</span><strong class="spec-row__value">706</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Kathodenmaterialien</span><strong class="spec-row__value">NMC811</strong></div>
-          <h4 class="generated-specs__subheading">Ladeanschlüsse</h4>
-      <div class="spec-row"><span class="spec-row__label">Position des Ladeanschlusses</span><strong class="spec-row__value">LeftRearSide</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Typ Ladeanschluss China</span><strong class="spec-row__value">GBT</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Position des Ladeanschlusses</span><strong class="spec-row__value">RightRearSide</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Typ Ladeanschluss China</span><strong class="spec-row__value">GBT</strong></div>
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Abmessungen</h3>
-        <div class="generated-specs__group-body">
-      <div class="spec-row"><span class="spec-row__label">Länge</span><strong class="spec-row__value">4884 mm (192,3")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Höhe</span><strong class="spec-row__value">1696 mm (66,8")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Breite ohne Spiegel</span><strong class="spec-row__value">1965 mm (77,4")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Dimensions.WidhtIncludingMirrors</span><strong class="spec-row__value">2193 mm (86,3")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Radstand</span><strong class="spec-row__value">2995 mm (117,9")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Spurbreite vorne</span><strong class="spec-row__value">1676 mm (66,0")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Spurbreite hinten</span><strong class="spec-row__value">1659 mm (65,3")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Luftwiderstandsbeiwert</span><strong class="spec-row__value">0,3</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Stirnfläche</span><strong class="spec-row__value">2,73</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Anfahrwinkel</span><strong class="spec-row__value">15</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Abfahrwinkel</span><strong class="spec-row__value">21</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Wendekreis</span><strong class="spec-row__value">12,4 m (488,2")</strong></div>
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Ladekapazität und Anhängelast</h3>
-        <div class="generated-specs__group-body">
-      <div class="spec-row"><span class="spec-row__label">Leergewicht</span><strong class="spec-row__value">2366 kg (5216 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Maximales Gesamtgewicht</span><strong class="spec-row__value">2827 kg (6232 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Maximale Zuladung einschließlich Fahrer</span><strong class="spec-row__value">461 kg (1016 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Maximale Dachlast</span><strong class="spec-row__value">75 kg (165 lb)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Kofferraumvolumen</span><strong class="spec-row__value">526 Liter (19 ft³)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Kofferraumvolumen bei umgeklappten Sitzen der zweiten Reihe</span><strong class="spec-row__value">1529 Liter (54 ft³)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Frunk-Volumen</span><strong class="spec-row__value">64 Liter (2 ft³)</strong></div>
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Fahrwerk</h3>
-        <div class="generated-specs__group-body">
-      <div class="spec-row"><span class="spec-row__label">Adaptive Federung</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Dämpfungsverstellung vorne</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Dämpfungsverstellung hinten</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Höhenverstellung vorne</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Höhenverstellung hinten</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Maximale Bodenfreiheit</span><strong class="spec-row__value">142 mm (5,6")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Minimale Bodenfreiheit</span><strong class="spec-row__value">142 mm (5,6")</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Dämpfertyp vorne</span><strong class="spec-row__value">ElectronicallyControlled</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Dämpfertyp hinten</span><strong class="spec-row__value">ElectronicallyControlled</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Federart vorne</span><strong class="spec-row__value">Coil</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Federart hinten</span><strong class="spec-row__value">Coil</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Federungstyp vorne</span><strong class="spec-row__value">Multilink</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Federungstyp hinten</span><strong class="spec-row__value">Multilink</strong></div>
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Innenraum</h3>
-        <div class="generated-specs__group-body">
-          <p>Dieses Modell ist mit einer Sitzkonfiguration mit f&#252;nf Sitzen verf&#252;gbar.</p>
-          <h4 class="generated-specs__subheading">Vordersitze</h4>
-          <h4 class="generated-specs__subheading">Sport Plus</h4>
-      <div class="spec-row"><span class="spec-row__label">Sitztyp</span><strong class="spec-row__value">Fahrer- und Beifahrersitz</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Sitztiefeneinstellung</span><strong class="spec-row__value">Unbekannt</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Sitzhöheneinstellung</span><strong class="spec-row__value">Unbekannt</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Rückenlehnenverstellung</span><strong class="spec-row__value">Unbekannt</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Neigungsverstellung des Sitzpolsters</span><strong class="spec-row__value">Unbekannt</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Memory-Funktion</span><strong class="spec-row__value">Serienausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Höhenverstellbare Kopfstütze</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Tiefenverstellbare Kopfstütze</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Verstellbare Oberschenkelstütze</span><strong class="spec-row__value">Serienausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Verstellung seitlicher Rückenlehnenstütze</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Verstellung der Seitenwangen des Sitzpolsters</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Fußstütze für den Beifahrer</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Beinstütze für den Beifahrer</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Elektrische Lordosenverstellung</span><strong class="spec-row__value">Unbekannt</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Sitzbelüftung</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Massagefunktion</span><strong class="spec-row__value">Serienausstattung</strong></div>
-          <h4 class="generated-specs__subheading">Sitze zweite Reihe</h4>
-          <h4 class="generated-specs__subheading">standard</h4>
-      <div class="spec-row"><span class="spec-row__label">Sitztyp</span><strong class="spec-row__value">Dreisitzige Sitzbank</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Höhenverstellbare Kopfstütze</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Tiefenverstellbare Kopfstütze</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Verstellbare Oberschenkelstütze</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Verstellung seitlicher Rückenlehnenstütze</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Verstellung der Seitenwangen des Sitzpolsters</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Fußstütze für den Beifahrer</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Beinstütze für den Beifahrer</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Elektrische Lordosenverstellung</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Sitzbelüftung</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Massagefunktion</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
-          <h4 class="generated-specs__subheading">Mittelkonsolen</h4>
-          <h4 class="generated-specs__subheading">Mittelkonsole in erster Reihe</h4>
-      <div class="spec-row"><span class="spec-row__label">Konsolendesign</span><strong class="spec-row__value">Traditionelle Konsole</strong></div>
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Fahrassistenz</h3>
-        <div class="generated-specs__group-body">
-      <div class="spec-row"><span class="spec-row__label">Spurhalteassistent</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Spurverlassenswarnung</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Müdigkeitswarnung</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Rückfahrkamera</span><strong class="spec-row__value">Ja, optionale Ausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">360°-Kamera</span><strong class="spec-row__value">Ja, optionale Ausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Querverkehrwarnung hinten (RCTA)</span><strong class="spec-row__value">Ja (Cross traffic assist rear), optionale Ausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Bergabfahrassistent</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Anfahrassistent</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">ABS (Antiblockiersystem)</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Automatische Notbremsung</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Traktionskontrolle</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Unfallvermeidung bei Linksabbiegen</span><strong class="spec-row__value">Ja, optionale Ausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Frontkollisionswarnung</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">ESP/ESC (Elektronische Stabilitätskontrolle)</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Temperaturwarnung</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Querverkehrswarnung (CTA)</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Effizienzassistent</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Automatische Notlenkung</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Verkehrszeichenerkennung</span><strong class="spec-row__value">Ja, optionale Ausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Nachtsichtsystem</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Sensoren und Kameras</h3>
-        <div class="generated-specs__group-body">
-          <h4 class="generated-specs__subheading">Ultraschallsensoren</h4>
-      <div class="spec-row"><span class="spec-row__label">Ultraschallsensoren</span><strong class="spec-row__value">Vorne am Stoßfänger</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultraschallsensoren</span><strong class="spec-row__value">Vorne am Stoßfänger</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultraschallsensoren</span><strong class="spec-row__value">Vorne links an der Stoßfängerecke</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultraschallsensoren</span><strong class="spec-row__value">Vorne rechts an der Stoßfängerecke</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultraschallsensoren</span><strong class="spec-row__value">Vorne links am Stoßfänger</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultraschallsensoren</span><strong class="spec-row__value">Vorne rechts am Stoßfänger</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultraschallsensoren</span><strong class="spec-row__value">Hinten links am Stoßfänger</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultraschallsensoren</span><strong class="spec-row__value">Hinten rechts am Stoßfänger</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultraschallsensoren</span><strong class="spec-row__value">Hinten links an der Stoßfängerecke</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultraschallsensoren</span><strong class="spec-row__value">Hinten rechts an der Stoßfängerecke</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultraschallsensoren</span><strong class="spec-row__value">Hinten Stoßfänger</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Ultraschallsensoren</span><strong class="spec-row__value">Hinten Stoßfänger</strong></div>
-          <h4 class="generated-specs__subheading">Kameras</h4>
-      <div class="spec-row"><span class="spec-row__label">Kameras</span><strong class="spec-row__value">Oben Mitte Windschutzscheibe</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Kameras</span><strong class="spec-row__value">Vorne (Optional)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Kameras</span><strong class="spec-row__value">Am linken Außenspiegel (Optional)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Kameras</span><strong class="spec-row__value">Am rechten Außenspiegel (Optional)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Kameras</span><strong class="spec-row__value">Mitte hinten (Optional)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Kameras</span><strong class="spec-row__value">Linke vordere Seite</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Kameras</span><strong class="spec-row__value">Rechte vordere Seite</strong></div>
-          <h4 class="generated-specs__subheading">Radarsensoren</h4>
-      <div class="spec-row"><span class="spec-row__label">Radarsensoren</span><strong class="spec-row__value">Vorne</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Radarsensoren</span><strong class="spec-row__value">Linke vordere Ecke (Optional)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Radarsensoren</span><strong class="spec-row__value">Rechte vordere Ecke (Optional)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Radarsensoren</span><strong class="spec-row__value">Linke hintere Ecke (Optional)</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Radarsensoren</span><strong class="spec-row__value">Rechte hintere Ecke (Optional)</strong></div>
-          <h4 class="generated-specs__subheading">LiDAR-Sensoren</h4>
-      <div class="spec-row"><span class="spec-row__label">LiDAR-Sensoren</span><strong class="spec-row__value">Vorne links am Stoßfänger</strong></div>
-      <div class="spec-row"><span class="spec-row__label">LiDAR-Sensoren</span><strong class="spec-row__value">Vorne rechts am Stoßfänger</strong></div>
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Benutzeroberfläche und Bedienelemente</h3>
-        <div class="generated-specs__group-body">
-      <div class="spec-row"><span class="spec-row__label">Head-up-Display</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Sprachsteuerung</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Gestensteuerung</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Android Auto-Unterstützung</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Apple CarPlay-Unterstützung</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Fahrzeugnavigation</span><strong class="spec-row__value">Ja, Serienausstattung</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Verfügbare Bildschirmkonfigurationen</span><strong class="spec-row__value">1</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Digitales Kombiinstrument</span><strong class="spec-row__value">Ja, 11,9</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm</span><strong class="spec-row__value">Ja, 14,9"</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm für den Beifahrer</span><strong class="spec-row__value">Ja, 10,9"</strong></div>
-      <div class="spec-row"><span class="spec-row__label">Infotainment-Bildschirm hinten</span><strong class="spec-row__value">Nicht verfügbar</strong></div>
-        </div>
-      </section>
-      <section class="generated-specs__group">
-        <h3>Exterieur</h3>
-        <div class="generated-specs__group-body">
-          <h4 class="generated-specs__subheading">Lackfarben</h4>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Magnet Grey</span><strong class="spec-row__value">Grau</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#FFFFFF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Jasmine White</span><strong class="spec-row__value">Weiß</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#008000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Qingcheng Green</span><strong class="spec-row__value">Grün</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span> Liuxia Purple</span><strong class="spec-row__value">Blau</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#0000FF;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Acari Blue</span><strong class="spec-row__value">Blau</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#808080;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Hunter Grey</span><strong class="spec-row__value">Grau</strong></div>
-      <div class="spec-row"><span class="spec-row__label"><span style="display:inline-block;width:12px;height:12px;background-color:#000000;border:1px solid #ccc;border-radius:50%;margin-right:4px;"></span>Mythos black</span><strong class="spec-row__value">Schwarz</strong></div>
         </div>
       </section>
     </div>
