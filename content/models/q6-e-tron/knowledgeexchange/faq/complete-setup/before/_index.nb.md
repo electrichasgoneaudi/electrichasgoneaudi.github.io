@@ -9,7 +9,7 @@ Etter at du er logget på i myAudi Appen, må din forhandler legg inn den nye bi
 
 Slik kommer du deg til garasjen
 
-Tykk på ikonet i øvre høyre hjørne, enten dine initialer eller ditt profilbilde
+Trykk på ikonet i øvre høyre hjørne, enten dine initialer eller ditt profilbilde
 ![](image.png)
 
 Her finner du 'Min garasje', i eksemplet under eksisterer det allerede en bil om du allerede eier en eller flere audier fra før.
