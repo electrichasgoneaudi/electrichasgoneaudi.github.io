@@ -5,6 +5,10 @@ description: Vi har samlet vanlige spørsmål om Audi e-tron og prøver å svare
 weight: 30
 ---
 
+## Komplett installasjon av ny bil
+
+- [Konfigurerer ny bil - Gjelder Modell på 2027 og nyere](complete-setup)
+
 ## Lader
 
 - [Hvorfor er min Audi e-tron ladehastighet mye langsommere enn forventet](whyhpcchargingslow)
