@@ -9,14 +9,14 @@ Etter at du er logget på i myAudi Appen, må din forhandler legg inn den nye bi
 
 Slik kommer du deg til garasjen
 
-Tykk på ikonet i øvre høyre hjørne, enten din einitialer eller ditt profilbilde
+Tykk på ikonet i øvre høyre hjørne, enten dine initialer eller ditt profilbilde
 ![](image.png)
 
-Her finner du din Garasje, i eksemplet eksisterer det allerede en bil som du allerede eier en eller flere audier.
+Her finner du 'Min garasje', i eksemplet eksisterer det allerede en bil som du allerede eier en eller flere audier fra før.
 
 ![](image-1.png)
 
-Trykk på bilen i garasjen, du vil da få opp din garasje, men et valg i bunnen som viser et felt hvor du kan søke opp din bestillingsstatus
+Trykk på bilen i garasjen, du vil da få opp din garasje, og et valg i bunnen som viser et felt hvor du kan søke opp din bestillingsstatus. Mangler du dette, så må din forhandler kople bilen til din myAudi konto.
 
 ![](image-2.png)
 
@@ -25,5 +25,10 @@ Her får du framdriften med 6 ulike stadier.
 
 ![alt text](image-4.png)
 
-Sannsynligvis vil bilen også dukke opp i myAudi når framdriften er på pkt 3 eller 4
+Sannsynligvis vil bilen også dukke opp i myAudi garasjen når framdriften er på pkt 3 eller 4
 
+![alt text](image-5.png)
+
+Men det er ikke så mye du kan gjøre før du har logget på som deg selv i bilens MMI
+
+![alt text](image-6.png)
