@@ -1,6 +1,6 @@
 ---
-title: Press and hold to open windows
-linktitle: Press and hold to open windows
+title: Convenience opening windows
+linktitle: Convenience opening windows
 description: How to disable opening all windows with the key fob
 weight: 30
 ---
@@ -19,14 +19,14 @@ Here is how you do it:
 
   ![alt text](image.png)
 
-- Select More, Central Locking
+- Select Settings & Service, Central Locking
 
   ![alt text](image-1.png)
 
-- Turn off the 'Press and hold to open windows' feature
+- Turn off the 'Convenience opening windows' feature
 
   ![alt text](image-2.png)  
 
-- There you go—hopefully, you will avoid this type of surprise in the future
+- There you go, hopefully you will avoid this type of surprise in the future
 
   ![alt text](image-3.png)

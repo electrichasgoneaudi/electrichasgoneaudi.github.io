@@ -1,6 +1,6 @@
 ---
-title: Drücken und halten zum Öffnen der Fenster
-linktitle: Drücken und halten zum Öffnen der Fenster
+title: Komfortöffnen Fenster
+linktitle: Komfortöffnen Fenster
 description: So deaktivieren Sie das Öffnen aller Fenster per Fahrzeugschlüssel
 weight: 30
 ---
@@ -19,11 +19,11 @@ Und so gehen Sie vor:
 
   ![alt text](image.png)
 
-- Wählen Sie Mehr, Zentralverriegelung
+- Wählen Sie Einstellungen & Service, Zentralverriegelung
 
   ![alt text](image-1.png)
 
-- Deaktivieren Sie die Funktion 'Drücken und halten zum Öffnen der Fenster'
+- Deaktivieren Sie die Funktion 'Komfortöffnen Fenster'
 
   ![alt text](image-2.png)  
 
