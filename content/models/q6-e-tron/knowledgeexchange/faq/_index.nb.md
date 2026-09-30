@@ -44,3 +44,7 @@ weight: 30
 ## Hvordan iverksette forvarming av batteri
 
 - [Les om hvordan du setter i gang forvarming av batteri](battery-heating)
+
+## Hvordan unngå å komme ut til bil med 4 åpne vinduer
+
+- [Les her hvordan du slår av denne rimelig unyttige og ganske ødeleggende funksjonen](hold-to-open-windows)
