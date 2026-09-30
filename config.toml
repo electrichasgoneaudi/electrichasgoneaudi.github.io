@@ -29,6 +29,11 @@ disableKinds = ["RSS"] # page home section taxonomy taxonomyTerm RSS sitemap rob
     languageName = "Deutsch"
     languageCode = "de-DE"
     weight = 3
+  [languages.fr]
+    title = "electrichasgoneaudi.net"
+    languageName = "Français"
+    languageCode = "fr-FR"
+    weight = 4
 
 
 [markup.goldmark.renderer]

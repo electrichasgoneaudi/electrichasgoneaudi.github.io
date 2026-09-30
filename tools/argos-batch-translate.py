@@ -13,9 +13,12 @@ sys.stderr.reconfigure(encoding="utf-8")
 
 def main() -> None:
     inputs = json.load(sys.stdin)
-    installed = [item for item in package.get_installed_packages() if item.from_code == "en" and item.to_code == "de"]
+    target_language = sys.argv[1] if len(sys.argv) > 1 else "de"
+    if target_language not in {"de", "fr"}:
+        raise ValueError(f"Unsupported target language: {target_language}")
+    installed = [item for item in package.get_installed_packages() if item.from_code == "en" and item.to_code == target_language]
     if not installed:
-        raise RuntimeError("The Argos English-to-German package is not installed.")
+        raise RuntimeError(f"The Argos English-to-{target_language} package is not installed.")
 
     language_package = installed[0]
     translator = ctranslate2.Translator(

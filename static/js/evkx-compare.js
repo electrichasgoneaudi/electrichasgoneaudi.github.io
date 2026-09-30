@@ -2,7 +2,7 @@ const tool = document.querySelector('[data-compare-tool]');
 
 if (tool) {
   const apiBase = tool.dataset.apiBase || 'https://evkx.net/api/';
-  const language = ['en', 'nb', 'de'].includes(tool.dataset.language) ? tool.dataset.language : 'en';
+  const language = ['en', 'nb', 'de'].includes(tool.dataset.language) ? tool.dataset.language : 'en'; // EVKX has no French comparison route yet.
   const slots = Array.from(tool.querySelectorAll('[data-compare-slot]'));
   const openButton = tool.querySelector('[data-open-comparison]');
   const selected = new Map();

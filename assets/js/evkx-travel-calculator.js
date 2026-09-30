@@ -43,6 +43,20 @@ const labels = {
       trailerWhPerKm: 'Anhänger',
     },
   },
+  fr: {
+    loading: 'Calcul en cours…',
+    ready: 'Résultat mis à jour selon les conditions choisies.',
+    error: 'Le calculateur n’a pas pu obtenir de résultat.',
+    button: 'Calculer l’autonomie',
+    calculating: 'Calcul en cours…',
+    parts: {
+      aeroWhPerKm: 'Résistance de l’air',
+      rollingWhPerKm: 'Chaîne de traction et résistance au roulement',
+      hvacWhPerKm: 'Climatisation',
+      auxWhPerKm: 'Systèmes auxiliaires',
+      trailerWhPerKm: 'Remorque',
+    },
+  },
 };
 
 const number = (value, digits = 0) => new Intl.NumberFormat(undefined, {
@@ -167,7 +181,7 @@ function renderResult(host, trip, copy) {
 
 calculators.forEach((host) => {
   const form = host.querySelector('[data-calculator-form]');
-  const lang = ['en', 'nb', 'de'].includes(host.dataset.lang) ? host.dataset.lang : 'en';
+  const lang = ['en', 'nb', 'de', 'fr'].includes(host.dataset.lang) ? host.dataset.lang : 'en';
   const copy = labels[lang];
   const error = host.querySelector('[data-calculator-error]');
   const trailerControl = host.querySelector('[data-trailer-control]');

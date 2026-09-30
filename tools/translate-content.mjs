@@ -5,6 +5,8 @@ import path from 'node:path';
 import { spawn } from 'node:child_process';
 
 const root = path.resolve(process.argv.find((argument) => !argument.startsWith('--') && argument !== process.argv[0] && argument !== process.argv[1]) || 'content');
+const language = process.argv.find((argument) => argument.startsWith('--lang='))?.slice('--lang='.length) || 'de';
+if (!['de', 'fr'].includes(language)) throw new Error(`Unsupported target language: ${language}`);
 const force = process.argv.includes('--force');
 const normalizeOnly = process.argv.includes('--normalize-only');
 const includeManual = process.argv.includes('--include-manual');
@@ -13,33 +15,40 @@ const unitBySource = new Map();
 
 const files = (await walk(root))
   .filter((file) => file.endsWith('.md'))
-  .filter((file) => !/\.(?:nb|de)\.md$/i.test(file))
-  .filter((file) => !file.split(path.sep).includes('specifications'));
+  .filter((file) => !/\.(?:nb|de|fr)\.md$/i.test(file))
+  .filter((file) => language === 'fr' || !file.split(path.sep).includes('specifications'));
 
 if (normalizeOnly) {
-  const germanFiles = (await walk(root)).filter((file) => file.endsWith('.de.md'));
-  for (const file of germanFiles) {
+  const translatedFiles = (await walk(root)).filter((file) => file.endsWith(`.${language}.md`));
+  for (const file of translatedFiles) {
     const source = await fs.readFile(file, 'utf8');
-    await fs.writeFile(file, normalizeTranslatedFrontmatter(source), 'utf8');
+    let normalized = normalizeTranslatedFrontmatter(source);
+    if (language === 'fr') {
+      const englishFile = file.replace(/\.fr\.md$/i, '.md');
+      normalized = restoreFrenchMedia(normalized, await fs.readFile(englishFile, 'utf8'));
+      normalized = rewriteFrenchContentLinks(normalized, englishFile);
+      normalized = repairFrenchMarkdown(normalized);
+    }
+    await fs.writeFile(file, normalized, 'utf8');
   }
-  console.log(`Normalized frontmatter in ${germanFiles.length} German content files.`);
+  console.log(`Normalized frontmatter in ${translatedFiles.length} ${language} content files.`);
   process.exit(0);
 }
 
 const documents = [];
 for (const sourceFile of files) {
-  const targetFile = sourceFile.replace(/\.md$/i, '.de.md');
+  const targetFile = sourceFile.replace(/\.md$/i, `.${language}.md`);
   if (await exists(targetFile)) {
     const existingTarget = await fs.readFile(targetFile, 'utf8');
     if (!includeManual && /^translation_status:\s*manual\s*$/mi.test(existingTarget)) continue;
     if (!force) continue;
   }
   const source = await fs.readFile(sourceFile, 'utf8');
-  documents.push({ sourceFile, targetFile, template: collectTranslationUnits(source) });
+  documents.push({ sourceFile, targetFile, source, template: collectTranslationUnits(source) });
 }
 
 if (documents.length === 0) {
-  console.log('No German content files need translation.');
+  console.log(`No ${language} content files need translation.`);
   process.exit(0);
 }
 
@@ -53,10 +62,19 @@ for (const document of documents) {
   if (/ZXQOUT[A-Z]+QXZ/i.test(output)) {
     throw new Error(`Unresolved translation marker in ${document.sourceFile}`);
   }
-  await fs.writeFile(document.targetFile, normalizeTranslatedFrontmatter(output), 'utf8');
+  output = normalizeTranslatedFrontmatter(output);
+  if (language === 'fr') {
+    output = output.replace(/^---\n/, '---\ntranslation_status: machine\n');
+    output = output.replace(/label="In production"/g, 'label="En production"')
+      .replace(/label="Discontinued"/g, 'label="Arrêté"');
+    output = restoreFrenchMedia(output, document.source);
+    output = rewriteFrenchContentLinks(output, document.sourceFile);
+    output = repairFrenchMarkdown(output);
+  }
+  await fs.writeFile(document.targetFile, output, 'utf8');
 }
 
-console.log(`Wrote ${documents.length} German content files.`);
+console.log(`Wrote ${documents.length} ${language} content files.`);
 
 async function walk(directory) {
   const entries = await fs.readdir(directory, { withFileTypes: true });
@@ -204,7 +222,7 @@ function hasTranslatableText(value) {
 }
 
 function addUnit(value) {
-  const structuralPattern = /({{[<%][\s\S]*?[>%]}}|<[^>]+>|!?\[[^\]]+\]\([^)]+\)|`[^`]*`|https?:\/\/[^\s)"'>]+|\((?:\.{0,2}\/|\/|#)[^)]+\)|\*+|[\u3400-\u9fff]+|Pioneer Smart Long-Range|Pioneer Pro|Pioneer quattro|Flagship quattro|Pioneer|AUDI E5 Sportback|AUDI E7X|AUDI)/g;
+  const structuralPattern = /({{[<%][\s\S]*?[>%]}}|<[^>]+>|!?\[[^\]]+\]\([^)]+\)|`[^`]*`|https?:\/\/[^\s)"'>]+|\((?:\.{0,2}\/|\/|#)[^)]+\)|[\u3400-\u9fff]+|electrichasgoneaudi\.net)/g;
   return value.split(structuralPattern).map((part) => {
     if (!part || structuralPattern.test(part)) {
       structuralPattern.lastIndex = 0;
@@ -283,12 +301,67 @@ function normalizeTranslatedFrontmatter(markdown) {
   return markdown.replace(match[0], `---\n${normalized}\n---`);
 }
 
+function rewriteFrenchContentLinks(markdown, sourceFile) {
+  const directory = path.relative(root, path.dirname(sourceFile)).split(path.sep).join('/');
+  const base = `https://electrichasgoneaudi.net/fr/${directory ? `${directory}/` : ''}`;
+  const localize = (target) => {
+    if (/^(?:https?:|mailto:|tel:|data:|#)/i.test(target)) return target;
+    let resolved;
+    try { resolved = new URL(target, base); } catch { return target; }
+    if (!/^\/(?:models|technology|guides|articles|compare|1337el)(?:\/|$)/.test(resolved.pathname)) return target;
+    if (/\.[a-z\d]{2,6}$/i.test(resolved.pathname)) return target; // Static images and downloads stay at the site root.
+    return `/fr${resolved.pathname}${resolved.search}${resolved.hash}`;
+  };
+  return markdown
+    .replace(/\]\(([^)]+)\)/g, (whole, target) => `](${localize(target)})`)
+    .replace(/\bhref=("([^"]+)"|'([^']+)')/g, (whole, quoted, doubleValue, singleValue) => {
+      const quote = quoted[0];
+      return `href=${quote}${localize(doubleValue || singleValue)}${quote}`;
+    });
+}
+
+function restoreFrenchMedia(markdown, source) {
+  const sourceFigures = [...source.matchAll(/<figure(?:\s[^>]*)?>[\s\S]*?<\/figure>/gi)].map((match) => match[0]);
+  let figureIndex = 0;
+  let restored = markdown.replace(/<figure(?:\s[^>]*)?>[\s\S]*?<\/figure>/gi, (translatedFigure) => {
+    const originalFigure = sourceFigures[figureIndex++];
+    if (!originalFigure || !/<img\b/i.test(originalFigure)) return translatedFigure;
+    const translatedCaption = translatedFigure.match(/<figcaption\b[^>]*>[\s\S]*?<\/figcaption>/i)?.[0];
+    const sourceCaption = originalFigure.match(/<figcaption\b[^>]*>[\s\S]*?<\/figcaption>/i)?.[0];
+    return translatedCaption && sourceCaption
+      ? originalFigure.replace(sourceCaption, translatedCaption)
+      : originalFigure;
+  });
+  const standaloneImagePattern = /^[ \t]*!?\[[^\]]*][ \t]*\([^)]+\)[ \t]*$/gm;
+  const sourceImageLines = source.match(/^[ \t]*!\[[^\]]*]\([^)]+\)[ \t]*$/gm) || [];
+  const translatedImageLines = restored.match(standaloneImagePattern) || [];
+  if (sourceImageLines.length && sourceImageLines.length === translatedImageLines.length) {
+    let imageIndex = 0;
+    restored = restored.replace(standaloneImagePattern, () => sourceImageLines[imageIndex++]);
+  }
+  const imageTargets = new Set([...source.matchAll(/!\[[^\]]*]\(([^)]+)\)/g)].map((match) => match[1]));
+  restored = restored.replace(/(?<!!)\[([^\]]*)]\(([^)]+)\)/g, (match, alt, target) =>
+    imageTargets.has(target) ? `![${alt}](${target})` : match);
+  return restored;
+}
+
+function repairFrenchMarkdown(markdown) {
+  const cleaned = markdown.replace(/\r\n/g, '\n').split('\n').map((line) => {
+    const markers = line.match(/\*\*/g)?.length || 0;
+    // The local translator occasionally drops one emphasis marker. An unmatched
+    // marker can format the rest of the page, so keep the prose and remove the
+    // broken emphasis from that line.
+    return (markers % 2 ? line.replace(/\*\*/g, '') : line).replace(/[ \t]+$/, '');
+  }).join('\n');
+  return cleaned.replace(/\n*$/, '\n');
+}
+
 async function translateLocally(values) {
   const localPython = path.resolve('.tools/argos/Scripts/python.exe');
   const python = process.env.EHGA_PYTHON || (await exists(localPython) ? localPython : 'python');
   const worker = path.resolve('tools/argos-batch-translate.py');
   const localRoot = path.resolve('.tools');
-  const child = spawn(python, [worker], {
+  const child = spawn(python, [worker, language], {
     cwd: process.cwd(),
     env: {
       ...process.env,

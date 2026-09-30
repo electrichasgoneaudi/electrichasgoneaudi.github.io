@@ -1,4 +1,5 @@
 ---
+translation_status: manual
 title: Foire aux questions (FAQ)
 linktitle: FAQ
 description: Nous avons rassemblé les questions les plus fréquentes sur l’Audi e-tron et nous nous efforçons d'y répondre pour vous.

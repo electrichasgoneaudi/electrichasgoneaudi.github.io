@@ -2,7 +2,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {{ partial "meta.html" . }}
-  <title>{{ if .IsHome }}Electric has gone Audi — every electric Audi in detail{{ else }}{{ .Title }} · Electric has gone Audi{{ end }}</title>
+  <title>{{ if .IsHome }}{{ if eq .Language.Lang "fr" }}{{ T "home-meta-title" }}{{ else }}Electric has gone Audi — every electric Audi in detail{{ end }}{{ else }}{{ .Title }} · Electric has gone Audi{{ end }}</title>
   <link rel="shortcut icon" href="{{ "images/favicon.png" | relURL }}" type="image/x-icon">
   <link rel="stylesheet" href="{{ "css/tailwind.css" | relURL }}">
   {{- $siteStyles := resources.Get "css/ehga/site.css" | minify | fingerprint -}}

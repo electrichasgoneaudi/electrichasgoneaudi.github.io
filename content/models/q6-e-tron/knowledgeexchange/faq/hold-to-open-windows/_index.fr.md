@@ -1,4 +1,5 @@
 ---
+translation_status: manual
 title: Ouverture confort des vitres
 linktitle: Ouverture confort des vitres
 description: Comment désactiver l'ouverture de toutes les vitres avec la clé

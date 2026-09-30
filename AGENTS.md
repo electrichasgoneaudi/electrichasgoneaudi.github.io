@@ -1,6 +1,6 @@
 # electrichasgoneaudi.github.io — Codex context
 
-Hugo static site documenting Audi electric vehicles. Trilingual: authored content has English `_index.md`, Norwegian `_index.nb.md`, and German `_index.de.md` files.
+Hugo static site documenting Audi electric vehicles. Authored content has English `_index.md`, Norwegian `_index.nb.md`, German `_index.de.md`, and French `_index.fr.md` files.
 
 ---
 
@@ -103,17 +103,19 @@ The corresponding EVKX implementation is under
 Specifications are generated from EVKX model data, not maintained by hand. The
 authoritative generator lives in the adjacent EVKX repository at
 `D:/repos/evkx.net/src/ehga.sitegenerator`; its
-`Service/AudiSpecMdWriter.cs` writes English, Norwegian, and German pages.
+`Service/AudiSpecMdWriter.cs` writes English, Norwegian, and German pages. French specifications are translated from its English output with `npm run translate:fr`.
 See `tools/specifications/README.md` in this repo for the output contract.
 
 The generated output uses the redesign's variant tabs and specification cards.
 `tools/specifications/migrate-legacy.mjs` is only a one-time converter for old
 accordion-based files.
 
-### Trilingual files
-Every authored page needs `_index.md` (English), `_index.nb.md` (Norwegian Bokmål), and `_index.de.md` (German). Keep structure and images aligned between languages; translate prose and labels only.
+### Multilingual files
+Every authored page needs `_index.md` (English), `_index.nb.md` (Norwegian Bokmål), `_index.de.md` (German), and `_index.fr.md` (French). Keep structure and images aligned between languages; translate prose and labels only.
 
 German drafts for missing authored pages can be created locally with `npm run translate:de`. Pages with `translation_status: manual` in frontmatter are protected from `--force` regeneration. See `tools/translation/README.md` before regenerating German content.
+
+French drafts for missing pages, including specifications translated from generated English output, can be created locally with `npm run translate:fr`. Review machine translated vehicle terminology and facts before publishing.
 
 ### Standard section structure for China models (E5, E7X)
 ```

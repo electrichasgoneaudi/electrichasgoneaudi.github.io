@@ -1,6 +1,6 @@
 {{ $page := .page }}
 {{ $model := .model }}
-{{ $languagePrefix := cond (eq $page.Language.Lang "en") "" (printf "%s/" $page.Language.Lang) }}
+{{ $languagePrefix := cond (in (slice "nb" "de") $page.Language.Lang) (printf "%s/" $page.Language.Lang) "" }}
 {{ if $model.evkx_id }}
 <section class="band band--dark model-calculator" id="range-calculator">
   <div class="container">

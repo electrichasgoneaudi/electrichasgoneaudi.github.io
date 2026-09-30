@@ -5,7 +5,8 @@
   "scripts": {
     "build-css": "tailwindcss -i ./src/input.css -o ./static/css/tailwind.css --watch",
     "build-css-prod": "tailwindcss -i ./src/input.css -o ./static/css/tailwind.css --minify",
-    "translate:de": "node tools/translate-content-de.mjs content",
+    "translate:de": "node tools/translate-content.mjs content --lang=de",
+    "translate:fr": "node tools/translate-content.mjs content --lang=fr",
     "dev": "concurrently \"npm run build-css\" \"hugo server --disableFastRender\"",
     "build": "npm run build-css-prod && hugo --minify && npm run validate:specifications",
     "validate:specifications": "node tools/specifications/validate-rendered.mjs",

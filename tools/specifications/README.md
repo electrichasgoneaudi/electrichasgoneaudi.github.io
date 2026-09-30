@@ -10,8 +10,12 @@ D:\repos\evkx.net\src\ehga.sitegenerator
 ```
 
 Its `Service/AudiSpecMdWriter.cs` writes the English, Norwegian, and German Hugo pages
-directly from the EVKX model data. To regenerate only German pages without
-exporting the media catalogue, run this from the generator directory:
+directly from the EVKX model data. French specification pages are machine
+translated from the generated English pages until the upstream generator supports
+French. After regenerating English specifications, run
+`npm run translate:fr -- --force` to refresh the French pages, then review the
+output. To regenerate only German pages without exporting the media catalogue,
+run this from the generator directory:
 
 ```powershell
 dotnet run -- --languages=de --specs-only

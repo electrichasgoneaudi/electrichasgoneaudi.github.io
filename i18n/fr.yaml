@@ -1,0 +1,320 @@
+- id: menu-models
+  translation: Modèles
+- id: menu-technology
+  translation: Technologie
+- id: menu-guides
+  translation: Guides
+- id: menu-articles
+  translation: Articles
+- id: language
+  translation: Langue
+- id: frontpage-title
+  translation: Electric has gone Audi — tout savoir sur les Audi électriques
+- id: frontpage-sections-models-title
+  translation: Modèles
+- id: frontpage-sections-models-description
+  translation: Découvrez les modèles électriques Audi actuels, futurs et passés.
+- id: frontpage-sections-technology-title
+  translation: Technologie
+- id: frontpage-sections-technology-description
+  translation: Découvrez les technologies électriques Audi.
+- id: frontpage-sections-guides-title
+  translation: Guides
+- id: frontpage-sections-guides-description
+  translation: Conseils et guides pour les Audi électriques.
+- id: guide-understanding-range
+  translation: Comprendre l’autonomie
+- id: guide-checking-battery
+  translation: Vérifier l’état de la batterie
+- id: guide-one-pedal-driving
+  translation: Conduite à une pédale
+- id: guide-preserving-battery
+  translation: Préserver la batterie
+- id: guide-regen
+  translation: Freinage régénératif
+- id: guide-buying-title
+  translation: Vous envisagez d’acheter une Audi électrique ?
+- id: guide-buying-description
+  translation: Comparez les modèles et découvrez les options qui comptent pour choisir votre Audi électrique.
+- id: guide-options-q4-etron
+  translation: Guide des options du Q4 e-tron
+- id: guide-options-etron
+  translation: Guide des options de l’e-tron
+- id: guide-options-etron-gt
+  translation: Guide des options de l’e-tron GT
+- id: ui-open-menu
+  translation: Ouvrir le menu
+- id: ui-primary-navigation
+  translation: Navigation principale
+- id: ui-compare
+  translation: Comparer
+
+- id: home-meta-title
+  translation: Electric has gone Audi — tous les modèles électriques Audi en détail
+- id: home-independent
+  translation: Indépendant · Approfondi · Depuis 2020
+- id: home-title
+  translation: Chaque Audi électrique. <span>En détail.</span>
+- id: home-description
+  translation: Des guides indépendants sur les modèles, des fiches techniques complètes et des informations pratiques pour les propriétaires, les acheteurs et tous ceux qui suivent la transition électrique d’Audi.
+- id: home-no-results
+  translation: Aucune page correspondante
+- id: home-search-placeholder
+  translation: Rechercher des modèles, des technologies et des guides
+- id: home-site-search
+  translation: Rechercher sur le site
+- id: home-search-action
+  translation: Rechercher
+- id: home-models
+  translation: Modèles
+- id: home-data-points
+  translation: Caractéristiques
+- id: home-languages
+  translation: Langues
+- id: home-latest
+  translation: Actualités
+- id: home-news-and-launches
+  translation: Actualités et lancements
+- id: home-all-articles
+  translation: Tous les articles →
+- id: home-model-range
+  translation: Gamme de modèles
+- id: home-find-your-audi
+  translation: Trouvez votre Audi électrique
+- id: home-model-range-description
+  translation: Des SUV compacts aux Gran Turismo électriques, sans oublier les modèles AUDI réservés à la Chine.
+- id: home-all-models
+  translation: Tous les modèles →
+- id: home-understand-technology
+  translation: Comprendre la technologie
+- id: home-technology-heading
+  translation: La technologie, sans discours marketing
+- id: home-tech-battery-title
+  translation: Batterie
+- id: home-tech-battery-text
+  translation: Cellules, chimie, vieillissement et gestion thermique.
+- id: home-tech-platforms-title
+  translation: Plateformes électriques
+- id: home-tech-platforms-text
+  translation: MEB, PPE, J1 et les architectures de chaque modèle.
+- id: home-tech-motors-title
+  translation: Moteurs
+- id: home-tech-motors-text
+  translation: Moteurs synchrones à aimants permanents, moteurs à induction et principes de la chaîne de traction.
+- id: home-tech-charging-title
+  translation: Recharge
+- id: home-tech-charging-text
+  translation: Courbes de recharge, tension, préconditionnement et vitesse réelle de recharge.
+- id: home-next-step
+  translation: Étape suivante
+- id: home-compare-heading
+  translation: Comparez les modèles à partir de données concrètes
+- id: home-compare-text
+  translation: Comparez côte à côte l’autonomie, la recharge, les performances et les aspects pratiques.
+- id: home-compare-action
+  translation: Comparer les modèles →
+
+- id: ui-article
+  translation: Article
+- id: ui-last-updated
+  translation: Dernière mise à jour
+- id: ui-min-read
+  translation: min de lecture
+- id: ui-spec-source-note
+  translation: Les caractéristiques sont générées à partir des données JSON des modèles EVKX.
+- id: ui-explore
+  translation: Découvrir
+- id: ui-read-more
+  translation: Lire la suite →
+- id: ui-model-guide
+  translation: Guide du modèle
+- id: ui-open-guide
+  translation: Ouvrir le guide →
+- id: ui-gallery
+  translation: Galerie
+- id: ui-see-details
+  translation: Voir les détails
+- id: ui-images-via-evkx
+  translation: images fournies par EVKX
+- id: ui-china-only
+  translation: Chine uniquement
+- id: ui-on-sale
+  translation: En vente
+- id: ui-coming
+  translation: À venir
+- id: ui-discontinued
+  translation: Arrêté
+- id: ui-range
+  translation: Autonomie
+- id: ui-battery
+  translation: Batterie
+- id: ui-charging
+  translation: Recharge
+- id: ui-market
+  translation: Marché
+- id: ui-china
+  translation: Chine
+- id: ui-europe
+  translation: Europe
+- id: ui-explore-model-heading
+  translation: Découvrez le modèle en détail
+- id: ui-explore-model-text
+  translation: Consultez les guides complets sur le design, l’habitacle, la chaîne de traction, la technologie et les équipements.
+- id: ui-model-catalogue
+  translation: Catalogue des modèles
+- id: ui-filter-all
+  translation: Tous
+- id: ui-breadcrumb
+  translation: Fil d’Ariane
+- id: ui-skip-to-content
+  translation: Aller au contenu
+
+- id: footer-lede
+  translation: Des informations indépendantes et approfondies sur toutes les Audi électriques, pour les propriétaires, les acheteurs et les passionnés.
+- id: footer-explore
+  translation: Explorer
+- id: footer-community
+  translation: Communauté
+- id: footer-data
+  translation: Données
+- id: footer-data-description
+  translation: Caractéristiques et calculs
+- id: footer-disclaimer
+  translation: Site indépendant de passionnés, sans affiliation avec AUDI AG.
+- id: footer-about
+  translation: À propos
+
+- id: compare-search-placeholder
+  translation: Rechercher un modèle ou une version
+- id: compare-searching
+  translation: Recherche en cours…
+- id: compare-empty
+  translation: Aucune version Audi trouvée
+- id: compare-error
+  translation: Impossible de charger la recherche
+- id: compare-clear
+  translation: Retirer la version sélectionnée
+- id: compare-microlabel
+  translation: Données EVKX · sélection Audi
+- id: compare-selected-vehicles
+  translation: Véhicules sélectionnés
+- id: compare-vehicle
+  translation: Véhicule
+- id: compare-optional
+  translation: facultatif
+- id: compare-find-variant
+  translation: Trouver une version Audi
+- id: compare-explanation
+  translation: Le tableau comparatif complet s’ouvre sur EVKX.net en anglais, en conservant votre sélection.
+- id: compare-data-source
+  translation: Données des véhicules fournies par EVKX
+- id: compare-select-two
+  translation: Sélectionnez au moins deux véhicules
+- id: compare-open
+  translation: Ouvrir la comparaison
+
+- id: range-tool
+  translation: Calculateur d’autonomie
+- id: range-title
+  translation: Calculez l’autonomie selon vos conditions
+- id: range-description
+  translation: Ajustez la vitesse, la température, l’état de la route et la configuration du véhicule. EVKX calcule le résultat à partir des données de ce modèle.
+- id: range-variant
+  translation: Version
+- id: range-available-battery
+  translation: Capacité de batterie disponible
+- id: range-speed
+  translation: Vitesse
+- id: range-temperature
+  translation: Température
+- id: range-climate-use
+  translation: Climatisation
+- id: range-road-condition
+  translation: État de la route
+- id: range-dry
+  translation: Sèche
+- id: range-damp
+  translation: Humide
+- id: range-wet
+  translation: Mouillée
+- id: range-very-wet
+  translation: Très mouillée
+- id: range-snow
+  translation: Neige
+- id: range-hard-packed-snow
+  translation: Neige tassée
+- id: range-more-settings
+  translation: Plus de paramètres
+- id: range-battery-health
+  translation: État de la batterie
+- id: range-trim-level
+  translation: Niveau de finition
+- id: range-base
+  translation: Base
+- id: range-mid
+  translation: Intermédiaire
+- id: range-top
+  translation: Haut de gamme
+- id: range-towing
+  translation: Tracter une remorque
+- id: range-trailer-type
+  translation: Type de remorque
+- id: range-small-flatbed
+  translation: Petite remorque plateau, jusqu’à 750 kg
+- id: range-twin-flatbed
+  translation: Remorque plateau à deux essieux
+- id: range-small-caravan
+  translation: Petite caravane
+- id: range-large-caravan
+  translation: Grande caravane
+- id: range-calculate
+  translation: Calculer l’autonomie
+- id: range-estimate-note
+  translation: Cette estimation basée sur un modèle peut différer de l’autonomie réelle.
+- id: range-estimated
+  translation: Autonomie estimée
+- id: range-calculating-for
+  translation: Calcul pour
+- id: range-consumption
+  translation: Consommation
+- id: range-available-energy
+  translation: Énergie disponible
+- id: range-driving-time
+  translation: Durée de conduite
+- id: range-energy-per-km
+  translation: Énergie consommée par kilomètre
+- id: range-calculating
+  translation: Calcul en cours…
+- id: range-error
+  translation: Le calculateur n’a pas pu obtenir de résultat.
+- id: range-open-evkx
+  translation: Ouvrir le calculateur sur EVKX.net en anglais
+- id: range-js-required
+  translation: JavaScript est nécessaire pour utiliser le calculateur.
+- id: range-source
+  translation: Données du véhicule et moteur de calcul fournis par
+- id: range-data-unavailable
+  translation: données d’autonomie indisponibles
+- id: range-updated
+  translation: Résultat mis à jour selon les conditions choisies.
+- id: range-air-resistance
+  translation: Résistance de l’air
+- id: range-drivetrain-resistance
+  translation: Chaîne de traction et résistance au roulement
+- id: range-climate
+  translation: Climatisation
+- id: range-auxiliary
+  translation: Systèmes auxiliaires
+- id: range-trailer
+  translation: Remorque
+
+- id: title-404
+  translation: Page introuvable
+- id: message-404
+  translation: La page demandée est introuvable.
+- id: Go-to-homepage
+  translation: Retour à l’accueil
+- id: Last-Modified
+  translation: Dernière mise à jour
+- id: create-header-md
+  translation: Créer un en-tête

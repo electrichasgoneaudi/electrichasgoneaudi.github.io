@@ -3,7 +3,7 @@ import path from 'node:path';
 
 const root = process.cwd();
 const contentRoot = path.join(root, 'content');
-const publicRoot = path.join(root, 'public');
+const publicRoot = path.resolve(process.argv[2] ?? path.join(root, 'public'));
 
 function walk(directory, predicate) {
   if (!fs.existsSync(directory)) return [];
@@ -50,11 +50,12 @@ function languageScore(markdown) {
 function contentLanguage(file) {
   if (file.endsWith('.nb.md')) return 'nb';
   if (file.endsWith('.de.md')) return 'de';
+  if (file.endsWith('.fr.md')) return 'fr';
   return 'en';
 }
 
 function translationFile(file, language) {
-  const english = file.replace(/\.(?:nb|de)\.md$/, '.md');
+  const english = file.replace(/\.(?:nb|de|fr)\.md$/, '.md');
   return language === 'en' ? english : english.replace(/\.md$/, `.${language}.md`);
 }
 
@@ -84,10 +85,12 @@ const markdownFiles = walk(contentRoot, (file) => file.endsWith('.md') && !relat
 const englishFiles = markdownFiles.filter((file) => contentLanguage(file) === 'en');
 const norwegianFiles = markdownFiles.filter((file) => contentLanguage(file) === 'nb');
 const germanFiles = markdownFiles.filter((file) => contentLanguage(file) === 'de');
+const frenchFiles = markdownFiles.filter((file) => contentLanguage(file) === 'fr');
 
 const findings = {
   missingNorwegian: [],
   missingGerman: [],
+  missingFrench: [],
   missingEnglish: [],
   emptyBodies: [],
   identicalTranslations: [],
@@ -106,9 +109,11 @@ for (const file of englishFiles) {
   if (!fs.existsSync(counterpart)) findings.missingNorwegian.push(relative(file));
   const germanCounterpart = file.replace(/\.md$/, '.de.md');
   if (!fs.existsSync(germanCounterpart)) findings.missingGerman.push(relative(file));
+  const frenchCounterpart = file.replace(/\.md$/, '.fr.md');
+  if (!fs.existsSync(frenchCounterpart)) findings.missingFrench.push(relative(file));
 }
 
-for (const file of [...norwegianFiles, ...germanFiles]) {
+for (const file of [...norwegianFiles, ...germanFiles, ...frenchFiles]) {
   const counterpart = translationFile(file, 'en');
   if (!fs.existsSync(counterpart)) findings.missingEnglish.push(relative(file));
 }
@@ -159,7 +164,7 @@ for (const file of markdownFiles) {
   const text = fs.readFileSync(file, 'utf8');
   const body = bodyOf(text);
   const prose = proseOf(text);
-  const intentionalShell = ['content/compare/_index.md', 'content/compare/_index.nb.md', 'content/compare/_index.de.md'].includes(relative(file));
+  const intentionalShell = ['content/compare/_index.md', 'content/compare/_index.nb.md', 'content/compare/_index.de.md', 'content/compare/_index.fr.md'].includes(relative(file));
   const manuallyCurated = /^translation_status:\s*manual\s*$/mi.test(text);
   if (!body && !intentionalShell && !manuallyCurated) findings.emptyBodies.push(relative(file));
 
@@ -228,13 +233,14 @@ for (const file of englishFiles) {
   if (!sourceTitlePage && englishBody.length >= 200 && englishBody === norwegianBody) {
     findings.identicalTranslations.push(`${relative(file)} (${englishBody.length} characters)`);
   }
-  const germanCounterpart = file.replace(/\.md$/, '.de.md');
-  if (fs.existsSync(germanCounterpart)) {
-    const germanSource = fs.readFileSync(germanCounterpart, 'utf8');
-    const germanBody = bodyOf(germanSource);
-    const manuallyCurated = /^translation_status:\s*manual\s*$/mi.test(germanSource);
-    if (!sourceTitlePage && englishBody.length >= 200 && englishBody === germanBody) {
-      findings.identicalTranslations.push(`${relative(file)}: German body is identical (${englishBody.length} characters)`);
+  for (const [language, label] of [['de', 'German'], ['fr', 'French']]) {
+    const translatedCounterpart = file.replace(/\.md$/, `.${language}.md`);
+    if (!fs.existsSync(translatedCounterpart)) continue;
+    const translatedSource = fs.readFileSync(translatedCounterpart, 'utf8');
+    const translatedBody = bodyOf(translatedSource);
+    const manuallyCurated = /^translation_status:\s*manual\s*$/mi.test(translatedSource);
+    if (!sourceTitlePage && englishBody.length >= 200 && englishBody === translatedBody) {
+      findings.identicalTranslations.push(`${relative(file)}: ${label} body is identical (${englishBody.length} characters)`);
     }
     const structuralPatterns = manuallyCurated ? [] : [
       /{{[<%][\s\S]*?[>%]}}/g,
@@ -243,9 +249,9 @@ for (const file of englishFiles) {
     ];
     for (const pattern of structuralPatterns) {
       const englishCount = (englishBody.match(pattern) || []).length;
-      const germanCount = (germanBody.match(pattern) || []).length;
-      if (englishCount !== germanCount) {
-        findings.translationStructureMismatch.push(`${relative(file)}: ${pattern} count EN ${englishCount} / DE ${germanCount}`);
+      const translatedCount = (translatedBody.match(pattern) || []).length;
+      if (englishCount !== translatedCount) {
+        findings.translationStructureMismatch.push(`${relative(file)}: ${pattern} count EN ${englishCount} / ${language.toUpperCase()} ${translatedCount}`);
       }
     }
   }
@@ -268,7 +274,7 @@ function anchorsFor(file) {
 for (const file of htmlFiles) {
   const html = fs.readFileSync(file, 'utf8');
   const sourceUrl = pageUrlForHtml(file);
-  const isHomepage = sourceUrl === '/' || /^\/(?:nb|de)\/$/.test(sourceUrl);
+  const isHomepage = sourceUrl === '/' || /^\/(?:nb|de|fr)\/$/.test(sourceUrl);
   const hrefPattern = isHomepage
     ? /\shref=(?:"([^"]+)"|'([^']+)'|([^\s>]+))/gi
     : /\shref=["']([^"']+)["']/gi;
@@ -296,7 +302,7 @@ for (const file of htmlFiles) {
   }
 }
 
-console.log(`Authored Markdown: ${markdownFiles.length} (${englishFiles.length} English, ${norwegianFiles.length} Norwegian, ${germanFiles.length} German)`);
+console.log(`Authored Markdown: ${markdownFiles.length} (${englishFiles.length} English, ${norwegianFiles.length} Norwegian, ${germanFiles.length} German, ${frenchFiles.length} French)`);
 console.log(`Rendered HTML: ${htmlFiles.length}`);
 
 let issueCount = 0;
