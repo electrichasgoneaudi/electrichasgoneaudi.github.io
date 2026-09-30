@@ -36,3 +36,7 @@ weight: 30
 ## How to configure battery preheating
 
 - [Read the guide to initiate battery preheating](battery-heating)
+
+## How to avoid coming out to a car with 4 open windows
+
+- [Read here how to disable this fairly useless and potentially ruinous feature](hold-to-open-windows)

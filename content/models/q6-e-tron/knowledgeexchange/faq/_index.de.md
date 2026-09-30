@@ -36,3 +36,7 @@ weight: 30
 ## Wie man Batterievorwärmen konfiguriert
 
 - [Read the guide to initiate battery preheating](battery-heating)
+
+## So verhindern Sie, dass Sie zu einem Auto mit 4 offenen Fenstern kommen
+
+- [Lesen Sie hier, wie Sie diese ziemlich nutzlose und potenziell ruinöse Funktion deaktivieren](hold-to-open-windows)
