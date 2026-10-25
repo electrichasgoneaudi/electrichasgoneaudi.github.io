@@ -22,8 +22,11 @@ v03.11 representerer Audi Q6/SQ6 (og i praksis A6/S6) modell år 2025 (ofte omta
 Det er en rekke forbedringer og oppdateringer. Her er det som er verdt å nevne
 
 - Varsel om å holde i rattet vises nå i Head Up Display (HUD). [issue 107 i feildatabasen](https://github.com/electrichasgoneaudi/q6-e-tron/issues/107)
+
 - Åpning av garasjeport popup fungerer som den skal [issue 67 i feildatabasen](https://github.com/electrichasgoneaudi/q6-e-tron/issues/67)
+
 - Bilen håndterer smartlading akkurat som det skal gjøres. Viser at lading er pauset istedet for feil med ladesystemet [issue 16 i feildatabasen](https://github.com/electrichasgoneaudi/q6-e-tron/issues/16)
+
 - Høyde over havet vises nå i navigasjonsbildet. Men kun når du har en aktiv navigasjonsrute og man må åpne infobildet til venste i navigasjonen  
 ![alt text](image-1.png)  ![alt text](image-2.png)
 
@@ -43,5 +46,16 @@ Man kan også bruke hellingsvisning i 'Homescreen' om du velger å legge inn hel
 - Parkering og parkeringsassistent er betydelig forbedret, men er jo modellbetinget (hardware), og ikke programvarebetinget. Man har f.eks fått tilbake 3D bilde som man kan vri perspektivet på bilen til det man ønsker, slik som Audi e-tron hadde i sin tid.
 
 ![alt text](image-4.png)
+
+### Hva er blitt dårligere
+Det er faktisk ting som er blitt verre.
+- Opplever betydelig tid før profil er lastet inn. Vi snakker om 1-2 minutter før hovedskjerm er klar
+![alt text](image-7.png)
+- Flere tilfeller av heng eller ting som tar 4-5 minutter å laste inn. Ikkje bra
+![alt text](image-8.png)
+-  Og krash i hovedskjerm, ser ut til å trigges av låtbytte i TIDAL. Legg merke til at lyden ikke blir borte og at selv om mobilen i hovedbildet må reinitialiseres, så er ikonet fro signalstyrke helt til venste der hele tiden, så dette virker å være en ren display driver type bug eller noe slikt
+<video src="IMG_9509.MOV" controls></video>
+<video src="IMG_9511.MOV" controls></video>
+
 
 
