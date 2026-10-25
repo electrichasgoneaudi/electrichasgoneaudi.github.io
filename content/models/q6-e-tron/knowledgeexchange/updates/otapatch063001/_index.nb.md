@@ -27,7 +27,7 @@ Det er en rekke forbedringer og oppdateringer. Her er det som er verdt å nevne
 
 - Bilen håndterer smartlading akkurat som det skal gjøres. Viser at lading er pauset istedet for feil med ladesystemet [issue 16 i feildatabasen](https://github.com/electrichasgoneaudi/q6-e-tron/issues/16)
 
-- Høyde over havet vises nå i navigasjonsbildet. Men kun når du har en aktiv navigasjonsrute og man må åpne infobildet til venste i navigasjonen  
+- Høyde over havet vises nå i navigasjonsbildet. Men kun når du har en aktiv navigasjonsrute og man må åpne infobildet til venstre i navigasjonen  
 ![alt text](image-1.png)  ![alt text](image-2.png)
 
 Man kan også bruke hellingsvisning i 'Homescreen' om du velger å legge inn hellingsvisning der. Pussig nok viser ikke disse samme verdi ...
@@ -39,7 +39,7 @@ Man kan også bruke hellingsvisning i 'Homescreen' om du velger å legge inn hel
 
 ![alt text](image-3.png)
 
-- Forbedret valg av ladeoperatør for ladeplanleggeren i bilen. Nå kan man preferere bestemte ladeoperatører eller teknologier. Det var ikke fullt ut mulig på MY2025. f.eks om man har en Audi Charging Pro avtale som gir billig lading på IONITY, så man kan endelig få bilen til å bare bruke disse. Legg merke til at det er foetrukkede verdier. Bilen vil jo velge alternativer for å sikre at du får ladet bilen nok til din destinasjon og de innstillinger du var valgt for SoC verdier på destinasjonsmålet ditt.
+- Forbedret valg av ladeoperatør for ladeplanleggeren i bilen. Nå kan man preferere bestemte ladeoperatører eller teknologier. Det var ikke fullt ut mulig på MY2025. f.eks om man har en Audi Charging Pro avtale som gir billig lading på IONITY, så man kan endelig få bilen til å bare bruke disse. Legg merke til at det er foretrukkede verdier. Bilen vil jo velge alternativer for å sikre at du får ladet bilen nok til din destinasjon og de innstillinger du var valgt for SoC verdier på destinasjonsmålet ditt.
 
 ![alt text](image-5.png) 
 ![alt text](image-6.png)
@@ -55,7 +55,7 @@ Det er faktisk ting som er blitt verre.
 ![alt text](image-7.png)
 - Flere tilfeller av heng eller ting som tar 4-5 minutter å laste inn. Ikkje bra
 ![alt text](image-8.png)
--  Og krash i hovedskjerm, ser ut til å trigges av låtbytte i TIDAL. Har testet at Spotify ikke trigger en slik restart av MMI hovedskjerm. Legg merke til at lyden ikke blir borte og at selv om mobilen i hovedbildet må reinitialiseres, så er ikonet fro signalstyrke helt til venste der hele tiden, så dette virker å være en ren display driver type bug eller noe slikt
+-  Og krash i hovedskjerm, ser ut til å trigges av låtbytte i TIDAL. Har testet at Spotify ikke trigger en slik restart av MMI hovedskjerm. Legg merke til at lyden ikke blir borte og at selv om mobilen i hovedbildet må reinitialiseres, så er ikonet fro signalstyrke helt til venstre der hele tiden, så dette virker å være en ren display driver type bug eller noe slikt
 <video src="IMG_9509.MOV" controls></video>
 <video src="IMG_9511.MOV" controls></video>
 
