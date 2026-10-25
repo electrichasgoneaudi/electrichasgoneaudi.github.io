@@ -72,5 +72,8 @@ Denne viser at Virtual Cockpit blir ikke påvirket av at hovedskjerm resetter se
 Symbolene som er vist under og var på plass i v3.xx er et stort tap å ikke ha lengre
 ![alt text](image-9.png)
 
+Er plass i massevis her
+![alt text](image-10.png)
+
 
 
