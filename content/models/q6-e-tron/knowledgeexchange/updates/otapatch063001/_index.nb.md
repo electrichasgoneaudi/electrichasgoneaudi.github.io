@@ -36,6 +36,9 @@ Man kan også bruke hellingsvisning i 'Homescreen' om du velger å legge inn hel
 ![alt text](image-3.png)
 
 - Forbedret valg av ladeoperatør for ladeplanleggeren i bilen. Nå kan man preferere bestemte ladeoperatører eller teknologier. Det var ikke fullt ut mulig på MY2025. f.eks om man har en Audi Charging Pro avtale som gir billig lading på IONITY, så man kan endelig få bilen til å bare bruke disse. Legg merke til at det er foetrukkede verdier. Bilen vil jo velge alternativer for å sikre at du får ladet bilen nok til din destinasjon og de innstillinger du var valgt for SoC verdier på destinasjonsmålet ditt.
+![alt text](image-5.png) ![alt text](image-6.png)
+
+
 - Parkering og parkeringsassistent er betydelig forbedret, men er jo modellbetinget (hardware), og ikke programvarebetinget. Man har f.eks fått tilbake 3D bilde som man kan vri perspektivet på bilen til det man ønsker, slik som Audi e-tron hadde i sin tid.
 
 ![alt text](image-4.png)
