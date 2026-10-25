@@ -30,7 +30,8 @@ Det er en rekke forbedringer og oppdateringer. Her er det som er verdt å nevne
 Man kan også bruke hellingsvisning i 'Homescreen' om du velger å legge inn hellingsvisning der. Pussig nok viser ikke disse samme verdi ...
 
 ![alt text](image.png)
-- Automatisk driveselect. Man kan nå velge at bilen selv bruker den drive seslect modus som den mener passer til din kjørestil. Dessverre må denne innstillingen velges manuelt på alle kjøreturer. Man kan dog velge å kople denne funksjonen til stjerneknappen på rattet.
+- Automatisk driveselect. Man kan nå velge at bilen selv bruker den drive select modus som den mener passer til din kjørestil. Dessverre må denne innstillingen velges manuelt på alle kjøreturer. Man kan dog velge å kople denne funksjonen til stjerneknappen på rattet.
+
 - Egen hurtigknapp for å slå av fartsgrense overskridelses varselet. Det vil frigjøre sstjerneknappen på rattet til andre funksjoner
 
 ![alt text](image-3.png)
