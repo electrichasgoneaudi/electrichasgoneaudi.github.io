@@ -53,9 +53,13 @@ Det er faktisk ting som er blitt verre.
 ![alt text](image-7.png)
 - Flere tilfeller av heng eller ting som tar 4-5 minutter å laste inn. Ikkje bra
 ![alt text](image-8.png)
--  Og krash i hovedskjerm, ser ut til å trigges av låtbytte i TIDAL. Legg merke til at lyden ikke blir borte og at selv om mobilen i hovedbildet må reinitialiseres, så er ikonet fro signalstyrke helt til venste der hele tiden, så dette virker å være en ren display driver type bug eller noe slikt
+-  Og krash i hovedskjerm, ser ut til å trigges av låtbytte i TIDAL. Har testet at Spotify ikke trigger en slik restart av MMI hovedskjerm. Legg merke til at lyden ikke blir borte og at selv om mobilen i hovedbildet må reinitialiseres, så er ikonet fro signalstyrke helt til venste der hele tiden, så dette virker å være en ren display driver type bug eller noe slikt
 <video src="IMG_9509.MOV" controls></video>
 <video src="IMG_9511.MOV" controls></video>
+
+Denne viser at Virtual Cockpit blir ikke påvirket av at hovedskjerm resetter seg.
+<video src="IMG_9532.MOV" controls></video>
+- TIDAL mister sin tilstand mellom hver kjøretur. Også kortere pauser ender opp med at appen mister f.eks gjeldende låt og alt må startes helt på nytt. Det er bare rett og slett for dårlig.
 
 
 
