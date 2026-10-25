@@ -57,9 +57,9 @@ Certaines choses se sont effectivement dégradées.
 - Plusieurs cas de blocages, ou d'éléments qui mettent 4 à 5 minutes à se charger. Pas bon
 ![alt text](image-8.png)
 - Et des plantages de l'écran principal, qui semblent déclenchés par un changement de morceau dans TIDAL. J'ai vérifié que Spotify ne déclenche pas un tel redémarrage de l'écran principal MMI. Notez que le son ne se coupe pas, et que même si le téléphone dans la vue principale doit se réinitialiser, l'icône de force du signal tout à gauche reste affichée en permanence ; cela ressemble donc à un simple bug de pilote d'affichage ou quelque chose de ce genre
-<video src="IMG_9509.mp4" controls playsinline preload="metadata"></video>
-<video src="IMG_9511.mp4" controls playsinline preload="metadata"></video>
+<video src="/models/q6-e-tron/knowledgeexchange/updates/otapatch063001/IMG_9509.mp4" controls playsinline preload="metadata"></video>
+<video src="/models/q6-e-tron/knowledgeexchange/updates/otapatch063001/IMG_9511.mp4" controls playsinline preload="metadata"></video>
 
 Celle-ci montre que le Virtual Cockpit n'est pas affecté par la réinitialisation de l'écran principal.
-<video src="IMG_9532.mp4" controls playsinline preload="metadata"></video>
+<video src="/models/q6-e-tron/knowledgeexchange/updates/otapatch063001/IMG_9532.mp4" controls playsinline preload="metadata"></video>
 - TIDAL perd parfois son état entre deux trajets. Même des pauses plus courtes peuvent faire perdre à l'application, par exemple, le morceau en cours, et tout doit être relancé depuis le début. Ce n'est tout simplement pas acceptable.

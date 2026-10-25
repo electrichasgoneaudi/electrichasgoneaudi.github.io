@@ -56,9 +56,9 @@ Einige Dinge sind tatsächlich schlechter geworden.
 - Mehrere Fälle von Hängern oder Dingen, die 4-5 Minuten zum Laden brauchen. Nicht gut
 ![alt text](image-8.png)
 - Und Abstürze des Hauptbildschirms, die anscheinend durch einen Titelwechsel in TIDAL ausgelöst werden. Getestet: Spotify löst keinen solchen Neustart des MMI-Hauptbildschirms aus. Beachte, dass der Ton nicht abbricht, und obwohl das Telefon in der Hauptansicht neu initialisiert werden muss, bleibt das Symbol für die Signalstärke ganz links die ganze Zeit sichtbar. Das wirkt also wie ein reiner Fehler im Displaytreiber oder etwas Ähnliches
-<video src="IMG_9509.mp4" controls playsinline preload="metadata"></video>
-<video src="IMG_9511.mp4" controls playsinline preload="metadata"></video>
+<video src="/models/q6-e-tron/knowledgeexchange/updates/otapatch063001/IMG_9509.mp4" controls playsinline preload="metadata"></video>
+<video src="/models/q6-e-tron/knowledgeexchange/updates/otapatch063001/IMG_9511.mp4" controls playsinline preload="metadata"></video>
 
 Dieses Video zeigt, dass das Virtual Cockpit vom Neustart des Hauptbildschirms nicht betroffen ist.
-<video src="IMG_9532.mp4" controls playsinline preload="metadata"></video>
+<video src="/models/q6-e-tron/knowledgeexchange/updates/otapatch063001/IMG_9532.mp4" controls playsinline preload="metadata"></video>
 - TIDAL verliert zwischen den Fahrten gelegentlich seinen Zustand. Auch kürzere Pausen können dazu führen, dass die App z. B. den aktuellen Titel verliert und alles komplett neu gestartet werden muss. Das ist schlicht nicht gut genug.

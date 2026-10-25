@@ -56,9 +56,9 @@ Some things have actually got worse.
 - Several cases of hangs, or things taking 4-5 minutes to load. Not good
 ![alt text](image-8.png)
 - And crashes of the main screen, which seem to be triggered by changing tracks in TIDAL. I have tested that Spotify does not trigger such a restart of the MMI main screen. Note that the audio does not drop out, and although the phone in the main view has to reinitialize, the signal strength icon on the far left stays there the whole time, so this looks like a pure display driver type bug or something similar
-<video src="IMG_9509.mp4" controls playsinline preload="metadata"></video>
-<video src="IMG_9511.mp4" controls playsinline preload="metadata"></video>
+<video src="/models/q6-e-tron/knowledgeexchange/updates/otapatch063001/IMG_9509.mp4" controls playsinline preload="metadata"></video>
+<video src="/models/q6-e-tron/knowledgeexchange/updates/otapatch063001/IMG_9511.mp4" controls playsinline preload="metadata"></video>
 
 This one shows that the Virtual Cockpit is not affected by the main screen resetting.
-<video src="IMG_9532.mp4" controls playsinline preload="metadata"></video>
+<video src="/models/q6-e-tron/knowledgeexchange/updates/otapatch063001/IMG_9532.mp4" controls playsinline preload="metadata"></video>
 - TIDAL sometimes loses its state between trips. Even shorter breaks can end with the app losing, for example, the current track, and everything has to be started again from scratch. That is simply not good enough.

@@ -56,11 +56,11 @@ Det er faktisk ting som er blitt verre.
 - Flere tilfeller av heng eller ting som tar 4-5 minutter å laste inn. Ikkje bra
 ![alt text](image-8.png)
 -  Og krash i hovedskjerm, ser ut til å trigges av låtbytte i TIDAL. Har testet at Spotify ikke trigger en slik restart av MMI hovedskjerm. Legg merke til at lyden ikke blir borte og at selv om mobilen i hovedbildet må reinitialiseres, så er ikonet fro signalstyrke helt til venstre der hele tiden, så dette virker å være en ren display driver type bug eller noe slikt
-<video src="IMG_9509.mp4" controls playsinline preload="metadata"></video>
-<video src="IMG_9511.mp4" controls playsinline preload="metadata"></video>
+<video src="/models/q6-e-tron/knowledgeexchange/updates/otapatch063001/IMG_9509.mp4" controls playsinline preload="metadata"></video>
+<video src="/models/q6-e-tron/knowledgeexchange/updates/otapatch063001/IMG_9511.mp4" controls playsinline preload="metadata"></video>
 
 Denne viser at Virtual Cockpit blir ikke påvirket av at hovedskjerm resetter seg.
-<video src="IMG_9532.mp4" controls playsinline preload="metadata"></video>
+<video src="/models/q6-e-tron/knowledgeexchange/updates/otapatch063001/IMG_9532.mp4" controls playsinline preload="metadata"></video>
 - TIDAL mister av og til sin tilstand mellom hver kjøretur. Også kortere pauser kan ende opp med at appen mister f.eks gjeldende låt og alt må startes helt på nytt. Det er bare rett og slett for dårlig.
 
 
