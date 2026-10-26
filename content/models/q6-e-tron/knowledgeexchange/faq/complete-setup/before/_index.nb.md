@@ -32,3 +32,5 @@ Sannsynligvis vil bilen også dukke opp i myAudi garasjen når framdriften er p�
 Men det er ikke så mye du kan gjøre før du har logget på som deg selv i bilens MMI
 
 ![Innlogging i bilens MMI](image-6.nb.png)
+
+Det er verdt å merke seg at du allerede er hovedbruker i bilen når du får den opp i myAudi, og etter å ha loget seg på MMI i ny bil er du klar til å konfiguerer alle dine funksjoner

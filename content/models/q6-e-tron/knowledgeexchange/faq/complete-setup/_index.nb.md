@@ -14,3 +14,5 @@ Før du får bilen kan du faktisk følge hele prosessen i myAudi Appen (gjelder 
 [Slik installerer du og logger på myAudi Appen](myaudi-install)
 
 [Slik følger du nybil prosessen](before)
+
+[Slik konfigurerer du bilen når du har fått den utlevert](after)
