@@ -64,6 +64,8 @@ Celle-ci montre que le Virtual Cockpit n'est pas affecté par la réinitialisati
 <video src="/models/q6-e-tron/knowledgeexchange/updates/otapatch063001/IMG_9532.mp4" controls playsinline preload="metadata"></video>
 - TIDAL perd parfois son état entre deux trajets. Même des pauses plus courtes peuvent faire perdre à l'application, par exemple, le morceau en cours, et tout doit être relancé depuis le début.
 
+Le lendemain, un message indique généralement que la lecture multimédia est impossible et qu'il faut recommencer la sélection de la liste de lecture depuis le début.
+
 ![alt text](image-11.png)
 
 - Il est également assez agaçant de devoir confirmer cela presque chaque fois que l'on commence un nouveau trajet. Voir l'image ci-dessus.

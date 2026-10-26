@@ -63,6 +63,8 @@ Dieses Video zeigt, dass das Virtual Cockpit vom Neustart des Hauptbildschirms n
 <video src="/models/q6-e-tron/knowledgeexchange/updates/otapatch063001/IMG_9532.mp4" controls playsinline preload="metadata"></video>
 - TIDAL verliert zwischen den Fahrten gelegentlich seinen Zustand. Auch kürzere Pausen können dazu führen, dass die App z. B. den aktuellen Titel verliert und alles komplett neu gestartet werden muss.
 
+Am nächsten Tag erscheint typischerweise eine Meldung, dass die Medienwiedergabe nicht möglich ist und die Auswahl der Wiedergabeliste komplett neu gestartet werden muss.
+
 ![alt text](image-11.png)
 
 - Es ist außerdem ziemlich frustrierend, dass man dies fast jedes Mal bestätigen muss, wenn man eine neue Fahrt startet. Siehe das Bild oben.

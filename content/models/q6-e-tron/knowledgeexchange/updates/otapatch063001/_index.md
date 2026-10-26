@@ -63,6 +63,8 @@ This shows that the Virtual Cockpit is not affected when the main screen resets.
 <video src="/models/q6-e-tron/knowledgeexchange/updates/otapatch063001/IMG_9532.mp4" controls playsinline preload="metadata"></video>
 - TIDAL sometimes loses its state between trips. Even shorter breaks can end with the app losing, for example, the current track, and everything having to be started again from scratch.
 
+Typically, the next day you see a message saying that media playback is unavailable and the playlist selection has to be started again from scratch.
+
 ![alt text](image-11.png)
 
 - It is also quite frustrating that you have to confirm this almost every time you start a new trip. See the image above.
