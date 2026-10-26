@@ -66,7 +66,14 @@ Det er faktisk ting som er blitt verre.
 
 Denne viser at Virtual Cockpit blir ikke påvirket av at hovedskjerm resetter seg.
 <video src="/models/q6-e-tron/knowledgeexchange/updates/otapatch063001/IMG_9532.mp4" controls playsinline preload="metadata"></video>
+
 - TIDAL mister av og til sin tilstand mellom hver kjøretur. Også kortere pauser kan ende opp med at appen mister f.eks gjeldende låt og alt må startes helt på nytt.
+
+Typisk er det et slik neste dag, med melding om at Medieavspilling ikke er mulig og man må starte valg av spilleliste helt på nytt
+
+![alt text](image-11.png)
+
+- Det er også ganske slitsom at man er nødt til å bekrefte nesten hver gang man starter en ny tur. Se bildet over.
 
 -  Signalstyrkeikon for WiFi og 3G/4G/LTE er fjernet i forhold til MY2025. Det er veldig synd, for det er en veldig lettvindt indikator for om man er koplet til ekstern aksesspunkt eller ikke, samt kvaliteten på dette og uplink for MMI.
 Symbolene som er vist under og var på plass i v3.xx er et stort tap å ikke ha lengre
