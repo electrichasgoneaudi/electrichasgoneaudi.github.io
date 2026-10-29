@@ -48,3 +48,7 @@ weight: 30
 ## Hvordan unngå å komme ut til bil med 4 åpne vinduer
 
 - [Les her hvordan du slår av denne rimelig unyttige og ganske ødeleggende funksjonen](hold-to-open-windows)
+
+## myAudi Kommunikasjon - Det store bildet
+
+- [Les her om kommunikasjon](myaudi-communication-bigpicture)
