@@ -13,11 +13,28 @@ Dette er jo en praktisk funskjon, men er litt skummel hvis din bilnøkkel kommer
 
 Men det er en enkel måte å unngå dette. Man kan slå av denne funksjonen i MMI. Dessverre er denne default på, så dette er noe de aller fleste bør gjøre med en eneste gang.
 
-Og slik gjør du det :
+Slik gjør du det på MY2026-27:
+
+- Velg Bil i hovedmenyen
+
+![alt text](image-4.png)
+
+- Velg Mer, Sentrallås
+
+![alt text](image-5.png)
+
+- Slå av funksjonen 'Hold inne for å åpne vindu'
+
+![alt text](image-6.png)
+
+
+
+Og slik gjør du det på MY2025:
 
 - Velg Bil i hovedmenyen
 
   ![alt text](image.png)
+
 
 
 - Velg Mer, Sentrallås
