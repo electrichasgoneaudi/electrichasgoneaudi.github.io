@@ -38,5 +38,13 @@ Dette er din mobil koplet opp som en bluetooth enhet som gir bilen telefon, sms 
 
 ## Digital Key
 
-Dette gir den en digital nøkkel via di ntelefon, her kan det være enten bluetooth eller NFC. Dette er litt avhengig av type mobil og ev om mobilen er tom for strøm eller ikke.
+Dette gir den en digital nøkkel via din telefon, her kan det være enten bluetooth eller NFC. Dette er litt avhengig av type mobil og ev om mobilen er tom for strøm eller ikke.
+
+De fleste modeller støtter dette over bluetooth og da kan man åpne bilen eller baklume med å kun ha mobilen i lomma.
+
+Alternativet er NFC som krever at ma legger mobilen inntil dørhåndtaket forå åpne bilen og så legger den i lade stasjonen for å kunne kjøre med den. Dette skal også kunne fungere selv om mobilen er tom for strøm, men innebærer jo en viss risiko, så det er viktig å være klar over det
+
+## Car2Phone
+
+..wip...
 

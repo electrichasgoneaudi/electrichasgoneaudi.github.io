@@ -38,4 +38,12 @@ This involves connecting your mobile phone as a Bluetooth device, enabling phone
 
 ## Digital Key
 
-This provides a digital key via your mobile phone, using either Bluetooth or NFC. The specific method depends on the type of mobile phone and whether or not the phone has run out of battery.
+This provides a digital key via your mobile phone, utilizing either Bluetooth or NFC. The method used depends on the type of mobile phone and whether or not the phone has run out of battery.
+
+Most models support this via Bluetooth, allowing you to unlock the vehicle or the tailgate simply by having your phone in your pocket.
+
+Alternatively, NFC requires you to hold your phone against the door handle to unlock the vehicle, and then place it in the charging station to be able to drive. This is designed to work even if the phone has run out of battery; however, this does entail a certain level of risk, so it is important to be aware of this.
+
+## Car2Phone
+
+..wip...
