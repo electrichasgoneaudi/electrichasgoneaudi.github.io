@@ -26,13 +26,13 @@ Dette er enda en mobil dataforbindelse med det innebyggede eSIM og krever en ege
 
 Det er denne datapakken som brukes for AppStore og alle installerte Apps derfra.
 
-Du kan også bruke denne forbindelsen til å starte opp en WiFi sone i bilen som alle passasjerer kan logge seg på, og bruker av samme 10 GB datakvote
+Du kan også bruke denne forbindelsen til å starte opp en WiFi sone i bilen som alle passasjerer kan logge seg på, og bruker av samme 10 GB datakvote. Les mer om [Bil hotspot](../car-hotspot/)
 
 ![alt text](image-2.png)
 
 ## Home WiFi hotSpot og Phone WiFi hotSpot
 
-Det er også mulig å kople opp bilen til en ekstern wifi hotSpot som kan vøre f.eks ditt hjemmenettverk eller del internett fra din mobiltelefon, eller andre tilsvarende enheter som har dele internett via Wifi. Når man har valgt å kople opp denne forbindelsen  (dette er forklart 'her'), så blir Audi Data Volum forbindelsen koplet ned og alle nevnte funksjoner i det avsnittet bruker da denne forbindelsen.
+Det er også mulig å kople opp bilen til en ekstern wifi hotSpot som kan være f.eks ditt hjemmenettverk eller del internett fra din mobiltelefon, eller andre tilsvarende enheter som har dele internett via Wifi. Når man har valgt å kople opp denne forbindelsen  (dette er forklart 'her'), så blir Audi Data Volum forbindelsen koplet ned og alle nevnte funksjoner i det avsnittet bruker da denne forbindelsen.
 
 ## Telefon/SMS/Musikk
 
@@ -45,6 +45,8 @@ Dette gir den en digital nøkkel via din telefon, her kan det være enten blueto
 De fleste modeller støtter dette over bluetooth og da kan man åpne bilen eller baklume med å kun ha mobilen i lomma.
 
 Alternativet er NFC som krever at man legger mobilen inntil dørhåndtaket forå åpne bilen og så legger den i lade stasjonen for å kunne kjøre med den. Dette skal også kunne fungere selv om mobilen er tom for strøm, men innebærer jo en viss risiko, så det er viktig å være klar over det
+
+Ler mer her om [Digital Nøkkel](../digital-key)
 
 ## Car2Phone
 
