@@ -11,6 +11,9 @@ Below is an overview of all communication flows involving the vehicle:
 
 ![alt text](image-1.png)
 
+Other useful reading : [Internet in car](../internet-in-the-car/)
+
+
 ## Audi Connect
 This is a dedicated communication channel within the vehicle that utilizes an eSIM. A license is included for the first 3 years; thereafter, this functionality must be purchased via the Audi Shop.
 
