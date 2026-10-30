@@ -5,6 +5,8 @@ description: Slik bruker du kablet CarPlay samtidig som iPhone deler mobildata m
 weight: 30
 ---
 
+## [< Tilbake til FAQ hovedside](../)
+
 Trådløs CarPlay bruker telefonens Wi-Fi-forbindelse til å kommunisere med bilen. Telefonen kan derfor ikke samtidig fungere som Wi-Fi-hotspot for MMI-systemet.
 
 Den praktiske løsningen er å koble iPhone til med en USB-kabel. CarPlay kjører da over USB, mens telefonen kan dele mobildata med bilen over Wi-Fi. Nettjenester i MMI, som Vivaldi-nettleseren, kan dermed bruke telefonens datakvote i stedet for bilens inkluderte mobildata.

@@ -5,6 +5,8 @@ description: Hvordan skifte hjul
 weight: 30
 ---
 
+## [< Tilbake til FAQ hovedside](../)
+
 Man skulle tro at dette er almen kunnskap, å bytte hjul på din Audi Q6. Vel, det er det ikke.
 
 Problemet er at bilens bakhjulsbremser er slått på, selv om modus for hjulskift er satt. Det som skjer da er at de bakre hjulpar vris noen grader når du jekker opp og det skaper et stor press på hjulboltene og dette medfører at de blir veldig vanskelige å skru ut og enda vanskeligee å skru inn igjen.

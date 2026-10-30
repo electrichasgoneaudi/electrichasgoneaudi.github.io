@@ -5,6 +5,8 @@ description: Hvordan bruker du og hvordan kjøper du mer data
 weight: 30
 ---
 
+## [< Tilbake til FAQ hovedside](../)
+
 Først en beskrivelse om de ulike måtene Audi Q6 kommuniserer med skyen og Audi sine sentrale servere. I praksis finnes det 3 ulike forbindelser:
 1. Audi Connect (Kart og MMI navigasjons oppdateringer)
 2. Audi Connect nødanrop & service

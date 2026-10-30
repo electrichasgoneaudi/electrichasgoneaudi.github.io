@@ -5,6 +5,8 @@ description: Hvordan kople til mobilen din til bilen
 weight: 30
 ---
 
+## [< Tilbake til FAQ hovedside](../)
+
 Det er et krav om at bilen din har utstyrspakken for digital nøkkel.
 
 Du finner dette symbolet i din MMI om du har digital nøkkel

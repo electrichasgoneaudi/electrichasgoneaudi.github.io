@@ -5,6 +5,8 @@ description: Hvordan ser du kvaliteten på dataforbindelsene dine
 weight: 30
 ---
 
+## [< Tilbake til FAQ hovedside](../)
+
 Det finnes opptil 3 ulike trådløse forbindelser fra bilen og ut til verden.
 
 Du ser disse nederst til venstre i hovedmenyen på MMI, og det vises et eksempel i bildet under:

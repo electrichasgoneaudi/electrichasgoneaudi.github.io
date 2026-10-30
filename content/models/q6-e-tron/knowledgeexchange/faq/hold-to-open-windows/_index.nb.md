@@ -5,6 +5,8 @@ description: Hvordan du slår av åpning av alle vinduer med nøkkel
 weight: 30
 ---
 
+## [< Tilbake til FAQ hovedside](../)
+
 Denne funksjonen kommer med valget Komfortnøkkel, og fungerer slik at du kan holde inne åpne-knappen på bilnøkkel og da vil alle 4 vinduer åpne seg. Åpningen stoppes når du slipper åpne-knappen. Og holder du lenge nok, åpner alle vinduer seg helt opp.
 
 Man kan da også holde inne låseknappen for å lukke vinduene igjen, på samme vis.

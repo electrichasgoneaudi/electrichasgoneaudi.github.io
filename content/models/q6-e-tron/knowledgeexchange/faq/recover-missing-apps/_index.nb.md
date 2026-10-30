@@ -5,6 +5,8 @@ description: Slik installerer du apper på nytt når de har forsvunnet fra MMI-p
 weight: 30
 ---
 
+## [< Tilbake til FAQ hovedside](../)
+
 Noen brukere har opplevd at installerte apper forsvinner fra én MMI-profil, selv om de fortsatt finnes i andre profiler. Hvis for eksempel Spotify eller Vivaldi mangler i hovedmenyen, kan appen likevel stå oppført som installert i personverninnstillingene.
 
 Inntil den underliggende programvarefeilen er rettet, kan du avinstallere og installere den skjulte appen på nytt:
