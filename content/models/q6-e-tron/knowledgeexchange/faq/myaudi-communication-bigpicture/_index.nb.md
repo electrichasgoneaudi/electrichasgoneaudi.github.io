@@ -22,9 +22,9 @@ Se også : [Internett i bilen](../internet-in-the-car/)
 
 ## Audi Datavolum
 
-Dette er enda en mobil dataforbindelse med eSIM, men er et 'eget' eSIM kort og krever en egen avtale. Denne avtalen følger gratis med bilen de 3 første årene, og gir deg 10 GB data her måned.
+Dette er enda en mobil dataforbindelse med det innebyggede eSIM og krever en egen avtale. Denne avtalen følger gratis med bilen de 3 første årene, og gir deg 10 GB data her måned. Instruksjon om hvordan du aktiverer denne avtalen finner du beskrevet i [Internett i bilen](../internet-in-the-car/)
 
-Denne datapakken er det som brukes for AppStore og alle installerte Apps derfra.
+Det er denne datapakken som brukes for AppStore og alle installerte Apps derfra.
 
 Du kan også bruke denne forbindelsen til å starte opp en WiFi sone i bilen som alle passasjerer kan logge seg på, og bruker av samme 10 GB datakvote
 
