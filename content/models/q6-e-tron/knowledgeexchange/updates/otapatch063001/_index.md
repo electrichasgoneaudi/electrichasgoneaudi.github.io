@@ -49,6 +49,11 @@ You can also use the gradient view on the 'Homescreen' if you choose to add it t
 
 ![alt text](image-4.png)
 
+- Tire pressure information is displayed in the myAudi app. It appears under vehicle status.
+
+![alt text](image-12.png)
+
+
 ### What has got worse
 Some things have actually got worse.
 - It takes a long time before the profile is loaded. We are talking about 1-2 minutes before the main screen is ready.

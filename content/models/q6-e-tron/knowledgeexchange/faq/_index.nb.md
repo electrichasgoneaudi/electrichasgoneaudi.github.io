@@ -49,6 +49,6 @@ weight: 30
 
 - [Les her hvordan du slår av denne rimelig unyttige og ganske ødeleggende funksjonen](hold-to-open-windows)
 
-## myAudi Kommunikasjon - Det store bildet
+## Bil kommunikasjon - Det store bildet
 
 - [Les her om kommunikasjon](myaudi-communication-bigpicture)

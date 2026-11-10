@@ -41,7 +41,7 @@ weight: 30
 
 - [Read here how to disable this fairly useless and potentially ruinous feature](hold-to-open-windows)
 
-## myAudi Communication - The Big Picture
+## Car communication - The Big Picture
 
 - [Read her about the big picture communication](myaudi-communication-bigpicture)
 

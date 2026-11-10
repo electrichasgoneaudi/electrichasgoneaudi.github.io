@@ -49,6 +49,10 @@ Man kann auch die Steigungsanzeige auf dem 'Homescreen' nutzen, wenn man sie dor
 
 ![alt text](image-4.png)
 
+- Informationen zum Reifendruck werden in der myAudi-App angezeigt. Sie sind unter „Fahrzeugstatus“ zu finden.
+
+![alt text](image-12.png)
+
 ### Was ist schlechter geworden
 Einige Dinge sind tatsächlich schlechter geworden.
 - Es dauert lange, bis das Profil geladen ist. Wir sprechen von 1-2 Minuten, bis der Hauptbildschirm bereit ist.

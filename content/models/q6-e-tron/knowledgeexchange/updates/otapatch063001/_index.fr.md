@@ -50,6 +50,10 @@ On peut aussi utiliser l'affichage de la pente sur le 'Homescreen' si on choisit
 
 ![alt text](image-4.png)
 
+- Les informations sur la pression des pneus s’affichent dans l’application myAudi. Elles figurent sous la rubrique « État du véhicule ».
+
+![alt text](image-12.png)
+
 ### Ce qui s'est dégradé
 Certaines choses se sont effectivement dégradées.
 - Le chargement du profil prend beaucoup de temps. Il faut compter 1 à 2 minutes avant que l'écran principal soit prêt.

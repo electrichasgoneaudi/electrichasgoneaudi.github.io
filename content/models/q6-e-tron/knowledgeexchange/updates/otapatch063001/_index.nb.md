@@ -49,6 +49,13 @@ Man kan også bruke hellingsvisning i 'Homescreen' om du velger å legge inn hel
 
 ![alt text](image-4.png)
 
+- Dekktrykk informasjon vises i myAudi Appen. Vises under bilstatus.
+
+![alt text](image-12.png)
+
+
+
+
 ### Hva er blitt dårligere
 Det er faktisk ting som er blitt verre.
 
